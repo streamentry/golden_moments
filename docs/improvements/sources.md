@@ -153,3 +153,10 @@ Application: the site had a physical home-safety guide but no resource on daily 
 - [Dementia Australia: Eating and dementia](https://www.dementia.org.au/living-dementia/home-life/eating-and-dementia) — opened. It suggests familiar meals, fewer distractions, clear table settings, time to eat and professional advice for chewing or swallowing problems.
 
 Application: existing diet and household-task guides covered nutrition research and meal preparation, but not the mealtime setting. The new caregiver guide turns the sources into practical environmental and interaction cues without prescribing foods or swallowing techniques.
+
+## Round 57: bathing with privacy and choice (read 2026-11-11)
+
+- [Alzheimer's Association: Bathing](https://www.alz.org/help-support/caregiving/daily-care/bathing) — opened. It describes bathing as potentially uncomfortable or embarrassing and suggests preparing supplies, protecting privacy, offering choices and considering alternatives.
+- [Dementia Australia: Hygiene](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) — opened. It recommends continuing personal routines, asking what help is wanted, using simple respectful steps and adapting the bathing method to the person's comfort.
+
+Application: the existing home-safety guide covers bathroom hazards, not the personal-care interaction. The new page applies these sources to consent, privacy, preparation and stopping when the person is uncomfortable. It does not prescribe a bathing schedule or clinical technique.
