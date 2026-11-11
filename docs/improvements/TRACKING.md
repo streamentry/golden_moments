@@ -282,3 +282,12 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | `pnpm --dir site verify`: 1,865 tests, 12,497 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
 | Render inspection | Built `/caregiving/pet-care-and-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
 | Not verified | No person living with dementia, caregiver, veterinarian, animal-welfare professional, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim the plan suits every person or animal. |
+
+## Round 59: person-first Traditional Chinese wording
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The NHS sudden-confusion page lists low blood sugar in people with diabetes as one possible cause. | The translation should preserve that meaning without using a generic patient label. |
+| Gap and change | The `zh-Hant` warning-signs guide translated “low blood sugar in people with diabetes” as `糖尿病患者的低血糖`. The checker treated `患者` as wording for people with dementia, although this sentence referred to diabetes. | Rephrased it as `有糖尿病的人可能出現的低血糖` (“low blood sugar that people with diabetes may experience”). The underlying medical statement is unchanged. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,497 pages, `check-site` 0 errors and 535 warnings; the patient-wording warning on this page is gone. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. |
+| Not verified | No native-speaker or clinician review of the Traditional Chinese translation. | Open; do not claim language or medical review. |
