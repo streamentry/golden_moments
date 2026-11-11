@@ -189,3 +189,12 @@ Application: the existing mealtime guide only mentions dental discomfort. The ne
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened; last reviewed 28 May 2024. It says sudden confusion needs immediate medical help and warns readers not to self-diagnose.
 
 Application: the existing daily-routine guide mentions dressing but does not explain how to support it. The new guide offers practical choices, privacy, gentle step-by-step help, comfortable clothes and a professional check when new problems appear. It does not ask caregivers to impose a preferred style or change medication; sudden confusion is directed to urgent local medical help.
+
+## Round 62: toileting and incontinence with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Incontinence](https://www.alz.org/help-support/caregiving/daily-care/incontinence) — opened. It discusses possible medical, medication and environmental causes, dignity, toilet cues and the risk of limiting fluids.
+- [Dementia Australia: Continence](https://www.dementia.org.au/living-dementia/home-life/continence) — opened. It recommends medical review to identify causes, privacy, familiar toilet cues and support based on the person's routine.
+- [NHS: Looking after someone with dementia](https://www.nhs.uk/conditions/dementia/living-with-dementia/looking-after-someone/) — opened. Its toilet-care section recommends signs, lighting, noticing cues and a familiar routine, and contacting a clinician about persistent problems.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and advises against self-diagnosis.
+
+Application: the site had scattered toilet and incontinence references but no focused caregiver guide. The new page covers dignity, cues, bathroom orientation, calm accident response, fluids and professional review without giving treatment instructions or imposing a schedule.
