@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 88/100 in this branch** (Round 87 is in PR #230; this branch adds #88). Round 88 adds focused first-response and follow-up guidance for a fall involving someone with dementia. Verification and review status are recorded in [TRACKING.md](TRACKING.md). No person, caregiver, clinician or native-speaker review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 89/100 in this branch** (Round 88 is in PR #231; this branch adds #89). Round 89 labels U.S. emergency and crisis numbers in the app's English Today advice and directs readers elsewhere to local services. Verification and review status are recorded in [TRACKING.md](TRACKING.md). Flutter/widget and human review remain unverified.
 
 | Item | Status |
 | --- | --- |
@@ -183,3 +183,9 @@ Sources include the Alzheimer's Association, Alzheimer's Society and National In
 The home-safety guide focuses on reducing hazards, while the bathing guide mentions falls during personal care. This English guide covers the immediate response, when to call local emergency services, not lifting someone alone, health follow-up and simple observations to share with a clinician. It does not diagnose an injury or teach a transfer technique.
 
 Sources include the Alzheimer's Society and NHS. The guide uses local rather than country-specific emergency instructions. No person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 89: label U.S. emergency numbers in mobile Today advice (2026-11-11)
+
+Round 50 updated the website's Today guidance, but the app has separate English Today strings that named 911 and 988 without their U.S. scope. The English app text now labels 911 and 988 for the U.S. and gives local emergency/crisis alternatives elsewhere. No location detection or permissions were added.
+
+The ARB audit found those literal U.S. numbers in English only; translated help strings were left as they were. Local Flutter generation and widget tests could not run because Flutter/Dart are unavailable here; hosted CI remains pending.

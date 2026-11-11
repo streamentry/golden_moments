@@ -424,3 +424,12 @@ Application: the existing after-diagnosis page said to discuss future wishes and
 - [NHS: Head injury and concussion](https://www.nhs.uk/conditions/head-injury-and-concussion/) — opened; last reviewed 29 May 2025. It lists emergency and urgent-care signs after a head injury. The guide directs readers to urgent services for head-injury concerns rather than reproducing a full clinical triage list.
 
 Application: home safety addressed fall prevention and bathing guidance mentioned falls during that task, but there was no general post-fall response page. The new guide covers immediate safety, urgent escalation, follow-up and factual notes without diagnosing injury or teaching a lifting technique.
+
+## Round 89: regional emergency wording in the mobile app (read 2026-11-11)
+
+- [National 911 Program: Calling 911](https://www.911.gov/calling-911/) — opened. It directs people to call 911 in an emergency and identifies the National 911 Program as a U.S. public-safety program.
+- [U.S. Department of State: Communicating While Abroad](https://travel.state.gov/en/international-travel/planning/guidance/communication-abroad.html) — opened; last updated 8 May 2026. It says emergency numbers differ by country and recommends learning the local equivalent of 911.
+- [988 Lifeline: Get Help](https://988lifeline.org/get-help/) — opened. It describes call, text and chat support across the United States and its territories.
+- Website Round 50 used the same regional boundary for /today/. Round 89 applies it to the separate mobile Today page. A scan of 67 app ARBs found literal 911/988 values for these three help strings only in English. The pt and zh parent ARBs omit these keys; resolveAppLocale routes Portuguese to the Brazilian or Portugal files and Chinese to the Hans or Hant files, which carry their own localized help text.
+
+Application: the app's English help text names 911 and 988 but did not say those resources are U.S.-specific, unlike the website. The app now keeps those numbers within scope and gives a local emergency/crisis alternative without detecting location.
