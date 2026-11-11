@@ -167,3 +167,9 @@ Application: the existing home-safety guide covers bathroom hazards, not the per
 - [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) — opened. It includes pets among activities that may be meaningful to a person and recommends planning around individual interests and social connection.
 
 Application: the site mentioned pets as activities but lacked practical guidance for keeping care routines and backup support reliable. The new guide is about planning around an existing pet and both parties' comfort, not promoting animal-assisted therapy or guaranteeing benefits.
+
+## Round 59: Traditional Chinese warning-signs wording (read 2026-11-11)
+
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It lists low blood sugar in people with diabetes among possible causes of sudden confusion.
+
+Application: the Traditional Chinese warning-signs guide rendered this as `糖尿病患者的低血糖`. It now says `有糖尿病的人可能出現的低血糖`, preserving the source meaning in person-first wording. No medical guidance changed.

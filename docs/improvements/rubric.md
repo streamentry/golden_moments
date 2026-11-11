@@ -129,6 +129,10 @@ The new bathing guide centers privacy, permission, routine and the option to sto
 
 The new guide helps families make a pet-care backup plan while keeping the person's preferences and the animal's welfare in view. It does not claim that pets treat dementia or that every person should keep a pet. Site verification, TypeScript, Python and metadata checks pass; no person, caregiver or animal-care professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 59 score update (2026-11-11)
+
+The Traditional Chinese warning-signs guide now describes low blood sugar in people with diabetes without using the generic patient label. The source's medical meaning is preserved and the checker warning is gone. Site verification, TypeScript, Python and metadata checks pass; no native-speaker or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
