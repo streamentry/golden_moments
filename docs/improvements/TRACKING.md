@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 63 / 100 completed**
+**Progress: 64 / 100 completed**
 
 ---
 
@@ -335,3 +335,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,501 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/driving-and-dementia-conversation/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, physician, driving rehabilitation specialist, native-speaker or live-browser review. | Open; do not claim driving assessment or user validation. |
+
+## Round 64: preparing for a doctor visit with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends listing concerns, describing changes, bringing an up-to-date medication list and leaving with a plan. Dementia Australia emphasizes consent, privacy, person-first conversation and practical appointment preparation. NHS guidance says sudden confusion needs immediate medical help. | Supports appointment preparation, not medical diagnosis or treatment advice. |
+| Existing coverage and gap | Existing guides say when to contact a doctor for specific changes, but the site had no general guide on preparing questions, including the person, protecting private discussion and confirming follow-up. | Added the site's 59th English caregiving guide for shared, consent-based appointment preparation. |
+| Safety boundary | The guide does not interpret symptoms or recommend treatment. It advises against changing medication based on notes and directs sudden confusion to urgent local medical help. | General information only; clinical questions stay with the person's health professional. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,502 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/doctor-visit-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
