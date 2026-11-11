@@ -345,3 +345,12 @@ Application: the "asking to go home" and outdoor-gardening English guides repeat
 - [National Institute on Aging: Sharing Caregiving Responsibilities](https://www.nia.nih.gov/health/caregiving/sharing-caregiving-responsibilities) — appeared in search but returned HTTP 405 when opened; not cited or used in the guide.
 
 Application: the site mentioned family support in caregiver self-care and offered guides to specific care choices, but no practical way to handle disagreement or divide tasks. The new page gives families a short agenda while keeping the person's wishes in view and deferring legal or care decisions to qualified support.
+
+## Round 81: responding to suspicion about missing items (read 2026-11-11)
+
+- [Alzheimer's Association: Suspicion & Delusions](https://www.alz.org/help-support/caregiving/stages-behaviors/suspicions-delusions) — opened. It advises calm, brief responses, avoiding arguments, shifting attention when helpful and seeking medical evaluation for severe or distressing changes.
+- [Alzheimer's Society: Delusions, paranoia and dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) — opened. It says not to dismiss concerns solely because of dementia, suggests checking whether a lost item was misplaced and recommends professional help for sudden change.
+- [Dementia Australia: Hallucinations and delusions](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) — opened. It notes that illness, sensory changes, medicine effects, new surroundings and other factors may contribute to changes in perception.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
+
+Application: the site had broad communication advice and a guide about not recognizing someone, but no guide for responding to suspicions about missing belongings while still checking whether a concern could be true. The new page avoids diagnosis, argument and blanket dismissal.
