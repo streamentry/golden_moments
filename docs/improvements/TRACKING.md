@@ -1,8 +1,11 @@
+Warning: truncated output (original token count: 32204)
+Total output lines: 574
+
 # 100 Big Improvements Tracker
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 83 / 100 completed**
+**Progress: 84 / 100 completed**
 
 ---
 
@@ -63,8 +66,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 84 | *Next in queue* | Pending |
-| 85–100 | Planned one by one | Pending |
+| 85 | *Next in queue* | Pending |
+| 86–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -172,53 +175,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | Check | Evidence | Result |
 |---|---|---|
-| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatment claim. |
-| Gap and change | The `/today/` answer for "There's nothing they want to do" showed two browser games, although its guidance says to start from the person's interests and offer two choices. | One pictured choice now opens Picture Pairs; the other opens the existing music guide. The board still has two choices and keeps its point-or-tap cue. |
-| Implementation | `ActivityChoiceBoard` now supports both game cards and a guide card. The music card uses the existing radio illustration, links to `/activities/music/`, and tells caregivers that listening together is enough. No audio, streaming, storage, account or telemetry was added. | Uses existing site artwork and content. |
-| Tests | `ActivityChoiceBoard.test.ts` and `situations.test.ts`: 6 focused tests pass. `pnpm --dir site verify`: 1,859 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
-| Render inspection | The component SSR test confirms two visible choice links, their labels, the guide route and radio illustration. | Passed for the component; the actual `/today/` selection interaction was not browser-tested. |
-| Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. Today has no live small-screen/caregiver/person check and remains English-only. | Open; don't claim usability validation. |
-
-## Round 49: optionally note the time of day
-
-| Check | Evidence | Result |
-|---|---|---|
-| Source fit | The Alzheimer's Association's Daily Care Plan says to consider the times of day the person functions best and to leave room for rest. Dementia Australia likewise recommends choosing times when the person feels at their best. | This supports caregiver planning, not a clinical inference or cognitive measure. |
-| Gap and change | `/today/` already lets caregivers record whether a suggestion helped, with optional free text, but did not identify a broad time of day. | Notes now have an optional Morning/Afternoon/Evening field for tried ideas. The selected band appears beside the outcome and in printed notes, and is ignored when the caregiver records "Didn’t try it." It is never inferred from the clock. |
-| Data boundary | The band uses the existing Today notes in this browser's localStorage. The storage key is unchanged; old notes without `timeOfDay` still load, and unrecognized values are dropped without discarding the rest of the note. | No new storage location, network request, account or telemetry. |
-| Tests | `notes.test.ts` and `TodayTimePicker.test.ts`: 11 focused tests pass, including legacy notes and optional values. `pnpm --dir site verify`: 1,862 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
-| Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. No live browser, caregiver/person or device check. | Open; do not claim usability validation. |
-
-## Round 50: label U.S. help numbers in Today
-
-| Check | Evidence | Result |
-|---|---|---|
-| Source fit | USAGov and the National 911 Program direct U.S. emergencies to 911. The State Department says emergency numbers vary by country. The 988 Lifeline serves the U.S. and its territories; ACL's Eldercare Locator and the Alzheimer's Association helpline are U.S. resources. | The page must distinguish U.S. numbers from local emergency/support services. |
-| Gap and change | `/today/` showed 911 in every help response and 988 plus U.S. helpline numbers without geographic labels. | Help text now says when 911, 988, the Alzheimer's Association helpline and Eldercare Locator are U.S. resources, and tells readers elsewhere to use local emergency or crisis services. |
-| Data boundary | This is static copy. No location detection, geolocation permission or external request was added. | Today remains English-only; the text does not select a number based on inferred location. |
-| Tests | `situations.test.ts`: 5 pass, including the regional wording. `pnpm --dir site verify`: 1,862 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
-| Not verified | No live browser, caregiver/person or native-speaker check. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim regional or user comprehension testing. |
-
-## Round 51: clear Today notes with confirmation
-
-| Check | Evidence | Result |
-|---|---|---|
-| Source fit | W3C's error-prevention guidance recommends confirmation, review or reversal when deleting user-controllable data. Its cognitive accessibility pattern notes that people with memory challenges may need to correct mistakes without losing work. Alzheimer's Society's technology advice also says to consider privacy and what information others can see. | Deleting caregiver notes should be deliberate and easy to cancel. |
-| Gap and change | Today notes stay in this browser and can be removed one at a time, but there was no action to clear them all from a shared device. | Added a "Clear all notes" action with an inline confirmation that states the scope and offers "Keep notes". It removes only the Today notes key and leaves other site settings alone. |
-| Data boundary | The deletion is user-triggered and confirmed. No account, sync, telemetry or network request is involved. If storage removal fails, notes remain visible; if storage access is blocked, only the current page's notes can be cleared and the UI says removal from storage could not be confirmed. | Old notes and their storage key are otherwise unchanged. |
-| Tests | `notes.test.ts` and `TodayClearAllConfirmation.test.ts`: 12 focused tests pass, including key-only removal, blocked storage and confirmation copy. `pnpm --dir site verify`: 1,864 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
-| Not verified | No live browser, caregiver/person or device check. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim user validation. |
-
-## Round 52: a room-by-room home safety guide
-
-| Check | Evidence | Result |
-|---|---|---|
-| Source fit | The Alzheimer's Association's home-safety page lists hazards across rooms and says changes should support the person's needs and independence. Alzheimer's Society guidance describes small adaptations that can make daily routines safer, recommends advice from health or social-care professionals, and lists questions to ask before choosing equipment. | A practical walkthrough can help a caregiver start with an observed concern and consider one change at a time. This is an editorial tool, not a safety assessment. |
-| Existing coverage and gap | Existing activity and sleep guides mention selected safety details, but the site had no dedicated guide for reviewing a home or considering equipment. | Added the site's 49th English guide, with prompts for routes, kitchen, bathroom, bedroom, storage, outdoor spaces and emergency contacts. It cautions that not every change fits every person and that exits must remain usable. |
-| Sources and limits | The National Institute on Aging home-safety page appeared in search, but opening it returned HTTP 405; no Round 52 claim relies on it. | Only the opened Alzheimer's Association and Alzheimer's Society pages are cited in the new guide. |
-| Checks | `pnpm --dir site verify`: 1,864 tests, 12,492 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
-| Render inspection | The built `/caregiving/home-safety/` route contains the new guide and the caregiving hub links to it. | Static output checked; no live browser run. |
-| Not verified | No caregiver, participant, occupational-therapist, native-speaker or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim usability or professional review. |
+| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatme…2204 tokens truncated…Open; do not claim usability or professional review. |
 
 ## Round 53: Japanese Photo Pairs copy for one-photo viewing
 
@@ -558,3 +515,17 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,517 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 existing content warnings remain. |
 | Render inspection | Built route `/caregiving/managing-money-with-dementia/` contains the guide title and money-scam steps; built `/caregiving/` hub links to it. The existing after-diagnosis page links to the new guide. | Static output checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, banker, financial/legal professional, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+
+## Round 84: responding when someone with dementia sees or hears things (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society distinguishes hallucinations from misperceptions, notes sensory, illness and medication factors, and advises immediate help for hallucinations involving multiple senses. Alzheimer's Association recommends calm reassurance, not arguing, and checking the environment. Dementia Australia suggests reassurance, sensory aids, familiar surroundings and recording patterns. NHS says sudden confusion needs immediate medical help. | Supports calm, non-diagnostic responses and a clear urgent-care boundary. No treatment or prevention claim. |
+| Existing coverage and gap | The sleep and late-day-restlessness guides mention evening light and sleep changes; the suspicion and non-recognition guides cover related experiences. None gives a focused response guide for seeing, hearing, smelling, tasting or feeling things others do not. | Added the site's 75th English caregiving guide and a link from the related suspicion guide. |
+| Change | Added calm example language, checks for shadows/reflections/sounds/sensory aids, optional redirection and neutral notes for a clinician. | Does not tell families to confirm or deny an experience, diagnose its cause or change medication. |
+| Safety boundary | New, repeated, prolonged or distressing experiences should be discussed with a clinician; sudden confusion or hallucinations involving multiple senses need immediate medical help. Immediate danger needs local emergency support. | General information only; no diagnosis. |
+| Implementation commit | `5149e2c57160eb8e4d946817243d21a86e20d8c0` | Source state for the checks recorded below. |
+| Checks | On Node 22.14.0, `pnpm --dir site verify` passed 1,869 tests, built 12,518 pages and reported 0 checker errors with 535 warnings. pnpm warned that this Node version is below the site package's declared minimum `>=22.22.0`. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Commands passed locally; hosted validation on the supported Node runtime remains pending. |
+| Render inspection | Built route `/caregiving/hallucinations-with-dementia/` contains the guide title and response steps; built `/caregiving/` hub links to it; the related suspicion guide links to it. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim user or clinical validation. |
