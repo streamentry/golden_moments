@@ -105,6 +105,10 @@ Today now offers a confirmed way to clear its local notes, using a native button
 
 The new caregiving guide turns opened home-safety sources into a room-by-room review and advice on choosing adaptations. It avoids one-size-fits-all instructions and keeps caregiver, participant and professional review open. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 53 score update (2026-11-11)
+
+Japanese Photo Pairs now describes the one-photo viewing choice and its controls in Japanese instead of falling back to English. The translation is machine-made and has no native-speaker review. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
