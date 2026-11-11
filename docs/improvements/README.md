@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 60/100 in this branch** (#59 is the base; this branch adds #60). Round 60 adds a focused oral-care guide built from Alzheimer's Association and Dementia Australia advice. Verification results and the Node runtime limitation are recorded in [TRACKING.md](TRACKING.md). No person, caregiver, dental-professional or clinician review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 61/100 in this branch** (#60 is the base in PR #203; this branch adds #61). Round 61 adds a focused dressing-support guide based on Alzheimer's Association and Dementia Australia advice. Full site verification passes 1,865 tests, builds 12,499 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person, caregiver, occupational-therapy or clinician review has been done.
 
 | Item | Status |
 | --- | --- |
