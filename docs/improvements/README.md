@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 82/100 in this branch** (Round 81 is in PR #224; this branch adds #82). Round 81 adds a guide for responding to suspicion without dismissing concerns or diagnosing the cause. Full site verification passes 1,869 tests, builds 12,516 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person with dementia, family caregiver or safeguarding professional review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 83/100 in this branch** (Round 82 is in PR #225; this branch adds #83). Round 83 adds an English guide to person-led money support and scam response. On Node 24.11.1, site verification passes 1,869 tests, builds 12,517 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests, release metadata and `git diff --check` pass. No person with dementia, caregiver, bank/financial/legal professional, safeguarding professional or native-speaker review has been done.
 
 | Item | Status |
 | --- | --- |
@@ -145,3 +145,10 @@ W3C cognitive-accessibility guidance says visible labels should use familiar wor
 At 24 of 24 family photos, the app now explains that the collection is full and names the existing `Options` and `Remove this copy` actions before the disabled picker button. The text uses an English fallback in 66 non-English ARBs until translations are reviewed. No photo or storage behavior changed.
 
 Implementation commit: `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb`. The 65 complete ARB dictionaries, 106 Python tests, release metadata check and `git diff --check` pass against this source state. The regression test covers the full collection at 200% text on a small phone, but Flutter and Dart are unavailable in this environment, so the widget test, code generation, analyzer and Flutter design-system test were not run. No device, caregiver, participant or native-speaker review has been done.
+
+
+## Round 83: practical money support and scam response (2026-11-11)
+
+The site had general future-planning advice but no practical page on helping with bills, understanding trusted-contact limits, noticing possible exploitation or responding to a scam. This guide keeps the person involved, separates informal bill help from transaction authority and gives U.S. reporting steps with local-law caveats.
+
+Implementation commit: `cbd3725a6fd9be632d434a4a78f3618270e5118c`. Sources include Alzheimer's Society, Alzheimer's Association, CFPB, FTC and the Administration for Community Living. On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,517 pages and found 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, 106 Python tests, `python3 scripts/release_metadata.py --check` and `git diff --check` passed. Built output contains the guide route and the caregiving-hub link. The guide is English only. No live browser, person-with-dementia, caregiver, banker, financial/legal professional, safeguarding professional or native-speaker review has been done.

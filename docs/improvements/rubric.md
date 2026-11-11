@@ -285,3 +285,8 @@ History (full axe pass): axe-core 4.14 over all 3,920 built pages at 375 px foun
 ## Round 82 score note (2026-11-11)
 
 The cap hint uses the existing body text role, surface-variant color and scrollable photo page. A 200% small-phone regression test is written, but could not be run because Flutter and Dart are unavailable. The phrase falls back to English in 66 non-English ARBs. No independent user, device or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score from this unrun widget test.
+
+
+## Round 83 score note (2026-11-11)
+
+This round adds an English caregiver guide and one internal link. The site build and automated checks can validate its schema, route, text and links, but they do not prove that the financial guidance is understandable or suitable for people with dementia. No reader, caregiver, financial/legal professional or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
