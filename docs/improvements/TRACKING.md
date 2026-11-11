@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 75 / 100 completed**
+**Progress: 76 / 100 completed**
 
 ---
 
@@ -466,3 +466,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,511 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Built `/activities/art-projects/` has the updated H1, SEO title and FAQ; the Activities hub card uses the new title. The old phrase is absent from the English route. | Static output checked; no live-browser run. |
 | Not verified | No person-with-dementia, caregiver or native-speaker review. | Open; do not claim user or translation validation. |
+
+## Round 76: where to start after a dementia diagnosis
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association highlights follow-up care, support and future planning. Dementia Australia notes that responses differ, support is available to the person and family, and plans can start in smaller conversations when the person is ready. | Supports a practical starting guide; not treatment, legal or financial advice. |
+| Existing coverage and gap | The site has guides for doctor visits, medication, care services and caregiver support, but no page that helps someone recently diagnosed or their family choose an initial next step. | Added the site's 69th English caregiving guide with follow-up, support, decision-making and future-planning prompts. |
+| Safety boundary | The page does not recommend treatment, interpret decision-making capacity, prescribe legal documents or promise a timeline. It directs personal medical, legal and financial questions to qualified local professionals and points sudden confusion to urgent medical care. | General information only; involve the person as they wish. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,512 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/after-dementia-diagnosis/` contains the starting guidance, urgent-care boundary and local-professional caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person recently diagnosed, caregiver, clinician, legal/financial professional, native-speaker or live-browser review. | Open; do not claim personal validation. |

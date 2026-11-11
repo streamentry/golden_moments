@@ -302,3 +302,13 @@ Application: the website had no guide for explaining a family member's dementia 
 - [Dementia Australia: How to talk about dementia](https://www.dementia.org.au/about-dementia/how-talk-about-dementia) — opened; last updated 1 April 2026. It recommends accurate, respectful, inclusive and empowering language, lists "person/people living with dementia" as appropriate wording, and says to avoid "patient" outside specific medical situations.
 
 Application: the English art-project guide used "dementia patients" in its page title, search title, summary and FAQ, although it describes a recreational activity. Replaced those labels with person-first wording in the canonical English guide.
+
+## Round 76: where to start after a dementia diagnosis (read 2026-11-11)
+
+- [Alzheimer's Association: Life After Diagnosis](https://www.alz.org/alzheimers-dementia/diagnosis/life-after-diagnosis) — opened. It directs people toward follow-up care, support services and future planning while emphasizing that a diagnosis is life-changing for the person and close family.
+- [Dementia Australia: Coping with your diagnosis](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/coping-your-diagnosis) — opened; updated 28 November 2025. It says people respond differently, can seek support when ready and may choose when and with whom to share their diagnosis.
+- [Dementia Australia: Planning ahead](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) — opened; updated 2 September 2026. It recommends discussing future wishes with trusted people and relevant professionals; legal documents and terms vary by jurisdiction.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help; the guide directs readers to their local emergency or urgent-care system.
+- National Institute on Aging's "Steps to Take After a Dementia Diagnosis" appeared in search results, but its page returned HTTP 405 when opened; it was not used or cited in the guide.
+
+Application: existing guides covered separate appointments, medicines, care services and caregiver support, but not how to choose the first next step after diagnosis. The new page offers a person-led starting point and leaves personal medical, legal and financial decisions to qualified local professionals.
