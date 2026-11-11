@@ -23,9 +23,14 @@ class GentleGamePage extends StatefulWidget {
     this.preferencesStore = const GentlePreferencesStore(),
     this.sessionStore = const GentleSessionStore(),
     this.sessionKey = 'starter',
+    this.title,
     super.key,
   });
   final List<ActivityPicture> pictures;
+
+  /// The page title, such as a picture pack's name; the activity's own name
+  /// when null.
+  final String? title;
   final GentlePreferencesStore preferencesStore;
   final GentleSessionStore sessionStore;
 
@@ -441,10 +446,12 @@ class _GentleGamePageState extends State<GentleGamePage> {
     // The row sits under the board and scrolls with it when the screen is
     // short or text is large; it never takes room from the board's first
     // place on screen. Tooltips stay for pointer users.
+    // Start-aligned like the text above it and the picture-pack game's
+    // tools. (Centred, a Wrap is only as wide as its widest button, so a
+    // narrower one sat off-centre under it.)
     final toolRow = Wrap(
       spacing: gmSpaceSm,
       runSpacing: gmSpaceSm,
-      alignment: WrapAlignment.center,
       children: [
         Tooltip(
           message: l10n.gentleGameHowThisWorks,
@@ -467,7 +474,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: GmTitle(l10n.gentleGameTitle),
+        title: GmTitle(widget.title ?? l10n.gentleGameTitle),
       ),
       body: board == null
           ? Center(child: Text(l10n.gentleGameNeedTwoPhotos))

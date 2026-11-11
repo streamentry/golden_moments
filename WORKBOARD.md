@@ -107,6 +107,10 @@ Maintainer goal: the web and the app in the top 50 languages. The 20 already bui
 
 Not done: native review of any language; picture captions the translators could not name (left in English); store listing names are kept mostly in Latin letters or short local phrases, which gives limited local search value; most of these languages have no App Store or Google Play listing locale at all (Zulu has Google Play `zu`, Odia has App Store `or-IN`, Burmese Google Play `my-MM`); 1.7.0 is submitted on both stores and awaiting review, not approved. A site deploy to main publishes the pages for every language; the weakest are indexed too (decided 2026-11-01), so review them first
 
+## Mobile visual audit (2026-11-11, Round 46)
+
+Rendered every mobile screen at phone, small phone, iPad and 200% text and fixed what was wrong: picture packs now open on the gentle board on iOS/Android (visible pictures, four tiles, comfort settings) instead of 16–40 hidden tiles; the experimental puzzle's pieces now show their own part of the picture; Plan my day uses equal-width chips instead of a word-breaking segmented control; Daily moment scrolls at large text; five app-bar titles wrap. Evidence and open items: `docs/improvements/TRACKING.md` › Round 46. No device or person checks.
+
 ## Next in order
 
 0. Run the device and human scenarios in [docs/release/device-acceptance.md](docs/release/device-acceptance.md) and record evidence per its format.

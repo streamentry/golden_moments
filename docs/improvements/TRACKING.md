@@ -145,3 +145,19 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Translation | New Photo Pairs labels in `site/src/i18n/play/en.json` use English fallback on translated pages; existing `atLeastTwo` locale keys remain compatible. | Known localization gap. |
 | Full checks | `pnpm --dir site verify`: 1,855 tests pass, 12,491 pages build, `check-site` reports 0 errors and 536 warnings. The installed Node 22.14.0 is below the package's >=22.22.0 engine declaration; checks still pass. Release metadata check passes. | Pass. |
 | Not verified | No interactive browser, caregiver/person or native-speaker check. The Playwright wrapper is blocked by the environment's `npx` package guard; Astro dev exits with `SKIP_FORMAT`. Headless Chrome exited before opening. | Open; automated checks pass, but they do not prove comfortable use. |
+
+## Round 46: mobile visual audit (navigation, games, layout)
+
+Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text) and reviewed one by one. This is automated rendering, not a device, VoiceOver or caregiver check.
+
+| Check | Evidence | Result |
+|---|---|---|
+| Pack games broke story G2 on mobile | Menu › picture-pack library › a pack opened the picture-pack game: 16 to 40 **hidden** tiles, a "0 of 8 pairs" counter, and Options with sound only, so no way to show pictures or choose fewer tiles. | On iOS and Android a pack now opens on the gentle board (`lib/app/view/pack_game.dart`, conditional export keeps file code out of the web build): pack title, four visible photos by default, the same comfort settings, its own saved board (`pack-<id>`). Web and desktop keep the picture-pack game. `test/features/home/pack_gentle_board_test.dart`: 3 pass. |
+| Picture puzzle pieces were all the whole picture | `_piece` put a `side × n` box inside a tight `side` box, so Flutter shrank it back and every piece showed the full drawing. The puzzle could not be solved by looking. | `OverflowBox` with `BoxFit.cover`. Regression test checks each piece draws the picture `n` times its cell (2×2 and 3×3). The puzzle stays behind `GM_EXPERIMENTS`. |
+| Plan my day broke "Morning" into "Morni / ng" | Unthemed `SegmentedButton` squeezed three labels into a 342px row. | The comfort sheet's equal-width chips moved to `GmChoiceRows` and replace both segmented rows: one row when labels fit, else pairs, else one per row; never a word broken. |
+| Daily moment at 200% text | The page overflowed by 308px, hiding Next and Back. The picture also sat letterboxed between oat bands. | Fits-or-scrolls like the game board; the picture is a framed square like Look together's. |
+| App-bar titles | Plan my day, My progress, Daily moment, Healthy habits and Language used a plain `Text` title, which ellipsizes at large text. | `GmTitle` and `gmToolbarHeight`, like every other screen. |
+| Game tools misaligned | "How this works" sat off-centre under "Comfort settings" (a centred `Wrap` is only as wide as its widest button). | Start-aligned, like the text above and the pack game's tools. |
+| Full checks | `dart format` 0 changed; strict analyze clean; `flutter test --coverage` 684 pass, 83.9% lines; 106 Python tests pass; release metadata check passes. | Pass. |
+| Not changed, for a maintainer | Look together from Home counts "Picture 1 of 183", which may read as a long task; the starter board puts pairs side by side in two of three shuffles. | Open; product decisions, not defects. |
+| Not verified | No device, simulator, VoiceOver/TalkBack, caregiver or person-with-dementia check of these screens. | Open. |
