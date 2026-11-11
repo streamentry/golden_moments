@@ -73,6 +73,7 @@
   "photosIntro": "وہ تصاویر منتخب کریں جنہیں آپ مل کر دیکھنا پسند کریں گے۔",
   "photosPrivacyNote": "صرف منتخب کی ہوئی تصاویر اس ایپ میں کاپی ہوتی ہیں۔ نہ کوئی اکاؤنٹ ہے نہ فیملی سنک سرور۔ کاپیاں آپ کی ڈیوائس کے بیک اپ میں شامل ہو سکتی ہیں۔",
   "photosCount": "{max, plural, =1{1 تصویر میں سے {count}} other{{max} تصاویر میں سے {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "ان تصاویر کے ساتھ کھیلیں",
   "photosNeedTwoShowHidden": "جوڑی ملانے کا کھیل بنانے کے لیے کم از کم دو تصاویر دکھائیں۔ {count, plural, other{{count} تصاویر چھپی ہوئی ہیں۔}}",
   "photosNeedTwoAdd": "جوڑی ملانے کا کھیل بنانے کے لیے کم از کم دو تصاویر شامل کریں۔",

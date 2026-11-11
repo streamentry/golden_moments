@@ -354,3 +354,11 @@ Application: the site mentioned family support in caregiver self-care and offere
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
 
 Application: the site had broad communication advice and a guide about not recognizing someone, but no guide for responding to suspicions about missing belongings while still checking whether a concern could be true. The new page avoids diagnosis, argument and blanket dismissal.
+
+## Round 82: explain the photo collection limit (read 2026-11-11)
+
+- [W3C WAI: Use Clear Visible Labels](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o4p06-clear-labels/) — opened. It recommends common words, visible labels beside the relevant control, and includes an example of someone with early-stage dementia forgetting an unlabeled control. This is supplemental cognitive-accessibility guidance, not a WCAG conformance requirement.
+- [W3C WAI: Disabled controls explained](https://www.w3.org/WAI/WCAG3/informative/help-and-feedback/help-available/disabled-controls-explained/) — opened. The current page calls itself an incomplete in-progress draft and labels the requirement developing. It proposes explaining why a visible control is disabled and how to enable it. It is recorded as design guidance only, not a normative requirement or conformance claim.
+- [Alzheimer's Society: Memory aids and tools](https://www.alzheimers.org.uk/get-support/living-with-dementia/memory-aids-and-tools) — opened; relevant sections read. It says to prefer aids that fit skills a person already has and that friends, family or professionals may support someone learning to use a device. This supports keeping the recovery path within the app's existing photo controls; it does not directly evaluate disabled-button design.
+
+Application: the app disabled `Choose photos` at 24 of 24 copies. The count alone did not give a recovery step. A visible sentence now names the existing `Options` menu and `Remove this copy` action. This is a low-risk usability inference; no clinical outcome is claimed.

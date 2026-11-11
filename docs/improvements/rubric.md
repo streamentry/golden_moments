@@ -281,3 +281,7 @@ History (round 3): Sort Together and Word Search completed flows improved. In So
 History: the library Settings action first failed three 200% tests when put in the app bar; it passes as a body-level button at the end of the page. Hint and Options now sit under the board and scroll with it; the download controls moved into their own wrapping row. The new `commonPause` word is machine-translated in 64 languages (unreviewed). Loading and error states of the library home no longer show Settings.
 
 History (full axe pass): axe-core 4.14 over all 3,920 built pages at 375 px found one rule failing, `scrollable-region-focusable`, on 402 pages: wide markdown tables scroll sideways but could not take keyboard focus. Fix: `FocusableTables.astro` (a bundled script that sets `tabindex="0"` on every `.prose table`) and a `:focus-visible` outline. An `@astrojs/markdown-remark` rehype plugin was not used because Astro 7's default markdown processor does not run it without a new dependency. The table is announced as a table with no extra name.
+
+## Round 82 score note (2026-11-11)
+
+The cap hint uses the existing body text role, surface-variant color and scrollable photo page. A 200% small-phone regression test is written, but could not be run because Flutter and Dart are unavailable. The phrase falls back to English in 66 non-English ARBs. No independent user, device or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score from this unrun widget test.

@@ -73,6 +73,7 @@
   "photosIntro": "Vyberte fotky, na které se budete rádi dívat společně.",
   "photosPrivacyNote": "Do aplikace se kopírují jen vybrané fotky. Žádný účet ani server pro sdílení v rodině. Kopie mohou být součástí zálohy zařízení.",
   "photosCount": "{max, plural, =1{{count} z 1 fotky} other{{count} z {max} fotek}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Hrát s těmito fotkami",
   "photosNeedTwoShowHidden": "Pro hru s dvojicemi zobrazte alespoň dvě fotky. {count, plural, other{Skryté: {count}.}}",
   "photosNeedTwoAdd": "Pro hru s dvojicemi přidejte alespoň dvě fotky.",

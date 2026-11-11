@@ -73,6 +73,7 @@
   "photosIntro": "Выберите фото, которые приятно посмотреть вместе.",
   "photosPrivacyNote": "В приложение копируются только выбранные фото. Нет учётной записи и сервера семейной синхронизации. Копии могут попасть в резервную копию устройства.",
   "photosCount": "{max, plural, =1{{count} из 1 фото} other{{count} из {max} фото}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Играть с этими фото",
   "photosNeedTwoShowHidden": "Чтобы сыграть в пары, покажите хотя бы два фото. {count, plural, other{Скрыто: {count}.}}",
   "photosNeedTwoAdd": "Чтобы сыграть в пары, добавьте хотя бы два фото.",

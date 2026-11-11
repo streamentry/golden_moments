@@ -73,6 +73,7 @@
   "photosIntro": "ഒന്നിച്ച് കാണാൻ ഇഷ്ടപ്പെടുന്ന ഫോട്ടോകൾ തിരഞ്ഞെടുക്കൂ.",
   "photosPrivacyNote": "തിരഞ്ഞെടുത്ത ഫോട്ടോകൾ മാത്രമേ ഈ ആപ്പിലേക്ക് പകർത്തുകയുള്ളൂ. അക്കൗണ്ടോ കുടുംബ സിങ്ക് സെർവറോ ഇല്ല. പകർപ്പുകൾ നിങ്ങളുടെ ഉപകരണ ബാക്കപ്പിൽ ഉൾപ്പെട്ടേക്കാം.",
   "photosCount": "{max, plural, =1{1 ഫോട്ടോയിൽ {count} എണ്ണം} other{{max} ഫോട്ടോകളിൽ {count} എണ്ണം}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "ഈ ഫോട്ടോകൾ കൊണ്ട് കളിക്കൂ",
   "photosNeedTwoShowHidden": "ജോടി ചേർക്കൽ കളി ഉണ്ടാക്കാൻ കുറഞ്ഞത് രണ്ട് ഫോട്ടോകൾ കാണിക്കൂ. {count, plural, other{{count} എണ്ണം മറച്ചിരിക്കുന്നു.}}",
   "photosNeedTwoAdd": "ജോടി ചേർക്കൽ കളി ഉണ്ടാക്കാൻ കുറഞ്ഞത് രണ്ട് ഫോട്ടോകൾ ചേർക്കൂ.",

@@ -73,6 +73,7 @@
   "photosIntro": "Válasszon olyan fotókat, amelyeket szívesen néznének meg együtt.",
   "photosPrivacyNote": "Csak a kiválasztott fotók kerülnek át az alkalmazásba. Nincs fiók és nincs családi szinkronizáló szerver. A másolatok bekerülhetnek az eszköz mentésébe.",
   "photosCount": "{max, plural, =1{{count} / 1 fotó} other{{count} / {max} fotó}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Játék ezekkel a fotókkal",
   "photosNeedTwoShowHidden": "Párkereső játékhoz legalább két fotónak láthatónak kell lennie. {count, plural, other{{count} rejtett.}}",
   "photosNeedTwoAdd": "Párkereső játékhoz adjon hozzá legalább két fotót.",

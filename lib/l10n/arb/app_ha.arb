@@ -73,6 +73,7 @@
   "photosIntro": "Ku zaɓi hotunan da za ku ji daɗin kallo tare.",
   "photosPrivacyNote": "Hotunan da aka zaɓa kaɗai ake kwafa cikin wannan manhaja. Babu asusu ko sabar raba hoto tsakanin iyali. Kwafin na iya shiga cikin ajiyar bayanan na’urarku.",
   "photosCount": "{max, plural, =1{{count} cikin hoto 1} other{{count} cikin hotuna {max}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "A yi wasa da waɗannan hotuna",
   "photosNeedTwoShowHidden": "Ku nuna aƙalla hotuna biyu don yin wasan haɗa hotuna. {count, plural, other{{count} a ɓoye.}}",
   "photosNeedTwoAdd": "Ku ƙara aƙalla hotuna biyu don yin wasan haɗa hotuna.",

@@ -73,6 +73,7 @@
   "photosIntro": "ಜೊತೆಗೂಡಿ ನೋಡಲು ನಿಮಗೆ ಇಷ್ಟವಾಗುವ ಫೋಟೋಗಳನ್ನು ಆರಿಸಿ.",
   "photosPrivacyNote": "ಆರಿಸಿದ ಫೋಟೋಗಳನ್ನು ಮಾತ್ರ ಈ ಆ್ಯಪ್‌ಗೆ ನಕಲಿಸಲಾಗುತ್ತದೆ. ಖಾತೆ ಇಲ್ಲ, ಕುಟುಂಬ ಸಿಂಕ್ ಸರ್ವರ್ ಇಲ್ಲ. ಪ್ರತಿಗಳು ನಿಮ್ಮ ಸಾಧನದ ಬ್ಯಾಕಪ್‌ನಲ್ಲಿ ಸೇರಿರಬಹುದು.",
   "photosCount": "{max, plural, =1{1 ಫೋಟೋದಲ್ಲಿ {count} ಸೇರಿಸಲಾಗಿದೆ} other{{max} ಫೋಟೋಗಳಲ್ಲಿ {count} ಸೇರಿಸಲಾಗಿದೆ}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "ಈ ಫೋಟೋಗಳೊಂದಿಗೆ ಆಡಿ",
   "photosNeedTwoShowHidden": "ಜೋಡಿ ಹೊಂದಿಸುವ ಆಟಕ್ಕೆ ಕನಿಷ್ಠ ಎರಡು ಫೋಟೋಗಳನ್ನು ತೋರಿಸಿ. {count, plural, other{ಮರೆಮಾಡಿದ್ದು {count}.}}",
   "photosNeedTwoAdd": "ಜೋಡಿ ಹೊಂದಿಸುವ ಆಟಕ್ಕೆ ಕನಿಷ್ಠ ಎರಡು ಫೋಟೋಗಳನ್ನು ಸೇರಿಸಿ.",

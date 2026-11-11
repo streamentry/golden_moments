@@ -524,7 +524,33 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
         ? null
         : _add;
     const chooseIcon = Icon(Icons.add_photo_alternate_outlined);
-    final chooseLabel = Text(l10n.photosChoosePhotos);
+    final chooseButton = canPlay
+        ? OutlinedButton.icon(
+            onPressed: onChoose,
+            icon: chooseIcon,
+            label: Text(l10n.photosChoosePhotos),
+          )
+        : FilledButton.icon(
+            onPressed: onChoose,
+            icon: chooseIcon,
+            label: Text(l10n.photosChoosePhotos),
+          );
+    final photoCount = Text(
+      l10n.photosCount(_ids.length, FamilyPhotoStore.maxPhotos),
+      textAlign: TextAlign.center,
+      style: theme.textTheme.bodyMedium?.copyWith(
+        color: scheme.onSurfaceVariant,
+      ),
+    );
+    final photoLimitHint = _ids.length >= FamilyPhotoStore.maxPhotos
+        ? Text(
+            l10n.photosAtLimit,
+            textAlign: TextAlign.center,
+            style: theme.textTheme.bodyMedium?.copyWith(
+              color: scheme.onSurfaceVariant,
+            ),
+          )
+        : null;
     final onPlay = _busy || !canPlay
         ? null
         : () => Navigator.of(context).push(
@@ -560,26 +586,17 @@ class _PhotoCollectionPageState extends State<PhotoCollectionPage> {
                   ),
                 ),
                 const SizedBox(height: gmSpaceLg),
-                if (canPlay)
-                  OutlinedButton.icon(
-                    onPressed: onChoose,
-                    icon: chooseIcon,
-                    label: chooseLabel,
-                  )
-                else
-                  FilledButton.icon(
-                    onPressed: onChoose,
-                    icon: chooseIcon,
-                    label: chooseLabel,
-                  ),
-                const SizedBox(height: gmSpaceSm),
-                Text(
-                  l10n.photosCount(_ids.length, FamilyPhotoStore.maxPhotos),
-                  textAlign: TextAlign.center,
-                  style: theme.textTheme.bodyMedium?.copyWith(
-                    color: scheme.onSurfaceVariant,
-                  ),
-                ),
+                if (photoLimitHint != null) ...[
+                  photoCount,
+                  const SizedBox(height: gmSpaceSm),
+                  photoLimitHint,
+                  const SizedBox(height: gmSpaceSm),
+                  chooseButton,
+                ] else ...[
+                  chooseButton,
+                  const SizedBox(height: gmSpaceSm),
+                  photoCount,
+                ],
                 if (_busy)
                   const Padding(
                     padding: EdgeInsets.all(gmSpaceMd),

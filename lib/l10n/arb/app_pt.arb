@@ -1,4 +1,5 @@
 {
   "@@locale": "pt",
-  "dailyMomentShowNextStep": "Mostrar o próximo passo"
+  "dailyMomentShowNextStep": "Mostrar o próximo passo",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy."
 }
