@@ -139,3 +139,10 @@ Application: Photo Pairs already supports one-photo viewing, but Japanese UI cop
 - [Dementia Australia: Travelling with dementia](https://www.dementia.org.au/living-dementia/staying-connected/travelling-dementia) — opened. It asks people to consider the person's wishes and support needs, plan together, allow time, and check transport and accommodation assistance.
 
 Application: holiday and outing guides covered family events and short trips, but there was no practical guide for longer travel. The new page offers a flexible checklist without claiming that travel is right for everyone or deciding medical clearance, insurance coverage or provider rules.
+
+## Round 55: living alone with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: If You Live Alone](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) — opened. It notes that some people continue living alone with adjustments and support, and suggests help with meals, household tasks, transportation and medication reminders, plus regular contact with others.
+- [Dementia UK: Living alone with dementia](https://www.dementiauk.org/information-and-support/living-with-dementia/living-alone-with-dementia/) — found in search, but opening returned HTTP 403. Not used for this round.
+
+Application: the site had a physical home-safety guide but no resource on daily routines and agreed support for someone living alone. The new page emphasizes the person's choices and gradual support. It does not set a threshold for whether living alone is safe or appropriate.

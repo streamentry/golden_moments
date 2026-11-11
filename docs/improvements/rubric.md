@@ -113,6 +113,10 @@ Japanese Photo Pairs now describes the one-photo viewing choice and its controls
 
 The new English travel guide offers a flexible preparation checklist while leaving individual suitability and provider rules to the person, care team and current transport providers. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 55 score update (2026-11-11)
+
+The new English guide focuses on everyday routines and support chosen with a person living alone with dementia. It does not define a stage cutoff or prescribe monitoring. Site verification, TypeScript, Python and metadata checks pass; no caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
