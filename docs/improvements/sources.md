@@ -329,3 +329,11 @@ Application: the site had an early-onset activity guide and general future plann
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
 
 Application: the communication guide gives general conversation advice but did not cover non-recognition of family. The new page offers short introductions, optional cues and caregiver support without treating recognition as a test or assuming what the person feels.
+
+## Round 79: reporting a missing person with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Wandering](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) — opened. It recommends beginning search efforts immediately and keeping a recent photo, a list of familiar places and contacts ready; its current page also advises a 15-minute threshold before calling 911.
+- [National Institute on Aging: Caring for a Person with Alzheimer's Disease](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) — opened. It recommends identification, recent photos, neighbor awareness and door alarms as safety preparations.
+- [U.S. Department of Justice Journal of Federal Law and Practice: Living in a Cruel Limbo](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) — opened. Its missing-person investigation guidance says law enforcement should not require a fixed waiting period and lists dementia-like symptoms among high-risk factors; it notes local rules and agency requirements vary.
+
+Application: the "asking to go home" and outdoor-gardening English guides repeated the 15-minute delay before reporting, with one also naming a 1.5-mile radius. Updated both canonical pages to advise prompt local reporting and nearby search without a universal timer or radius. The corresponding 189 translated copies per guide were not regenerated: the repo's free DeepSeek backend returned empty output and the agy backend failed, so those translated copies may still contain the prior timing advice.

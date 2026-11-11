@@ -209,6 +209,10 @@ The younger-onset work guide adds general decision support without interpreting 
 
 The non-recognition guide adds general communication support without diagnosing causes or assuming a person's feelings. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, family member, caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 79 score update (2026-11-11)
+
+The two missing-person passages now advise prompt contact with local responders without a fixed wait or search radius. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, caregiver or law-enforcement review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

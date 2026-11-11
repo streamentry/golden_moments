@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 78 / 100 completed**
+**Progress: 79 / 100 completed**
 
 ---
 
@@ -499,3 +499,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,514 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Static output at `/caregiving/when-someone-with-dementia-does-not-recognize-you/` contains the no-quiz guidance and urgent-care boundary; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
 | Not verified | No person with dementia, family member, caregiver, clinician, native-speaker or live-browser review. | Open; do not claim clinical or personal validation. |
+
+## Round 79: prompt reporting when a person with dementia is missing
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association advises starting a search immediately but gives a 15-minute threshold before reporting. A U.S. DOJ law-enforcement journal says agencies should not require a fixed wait to start investigating and lists dementia-like symptoms as a high-risk factor; it also notes local rules vary. | The site now advises prompt local reporting without a universal timer or search radius. This is a safety-oriented synthesis, not legal advice. |
+| Existing coverage and gap | Two English pages repeated a 15-minute delay before calling 911, and one also gave a 1.5-mile search radius. | Updated both pages to search nearby safe areas while contacting local police or emergency services promptly, and provide last-seen details and a recent photo. |
+| Safety boundary | The updated canonical English pages do not prescribe a local emergency number, fixed search radius or waiting period. They tell readers to follow local responders and avoid searching dangerous places alone. Translated copies were not regenerated and may still contain the old threshold. | This commit improves English pages only; do not claim the multilingual safety gap is closed. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,514 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Both built English routes no longer contain a 15-minute delay or 1.5-mile radius; both direct readers to local responders. | English static output checked; no live-browser run. |
+| Not verified | The 189 translated copies of each guide were not regenerated and may still contain the old threshold. No person with dementia, caregiver, law-enforcement professional, clinician, native-speaker or live-browser review. | Open; this is not a multilingual safety fix. |
