@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 61 / 100 completed**
+**Progress: 62 / 100 completed**
 
 ---
 
@@ -313,3 +313,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,499 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/getting-dressed-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, clinician, occupational therapist, native-speaker or live-browser review. | Open; do not claim clinical, professional or user validation. |
+
+## Round 62: dignified toileting and continence support
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association says new incontinence can have medical or medication causes, and warns against fluid restriction. Dementia Australia recommends medical review and dignity; NHS guidance covers familiar toilet cues, lighting and routines. | Supports general caregiving guidance, not diagnosis or continence treatment. |
+| Existing coverage and gap | Existing pages mention finding the toilet, incontinence as a possible cause of restlessness, and bathroom safety, but none focuses on accidents, privacy, new changes, fluids or continence support. | Added the site's 57th English caregiving guide, with consent, practical orientation, calm response and professional referral. |
+| Safety boundary | The guide does not diagnose causes, recommend a fluid limit, change medicines, prescribe products or impose a fixed toilet schedule. It directs sudden confusion to immediate medical help. | General information only; individual medical advice remains with a health professional. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,500 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/toileting-and-incontinence-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, continence specialist, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |

@@ -141,6 +141,10 @@ The English oral-care guide adds caregiver information without changing the app 
 
 The English dressing guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No caregiver, person or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 62 score update (2026-11-11)
+
+The English toileting and continence guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No caregiver, person, continence-specialist or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
