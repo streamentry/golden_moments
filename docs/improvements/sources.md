@@ -132,3 +132,10 @@ Application: the site had safety details inside activity and sleep guides but no
 - [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) — opened. It describes photos and familiar objects as ways to share a pleasant activity, with connection rather than testing as the goal.
 
 Application: Photo Pairs already supports one-photo viewing, but Japanese UI copy still required two photos and lacked the newer viewing and caption controls. Japanese strings now match the existing feature. This is a language-accessibility inference, not a clinical claim; the text has not had native-speaker review.
+
+## Round 54: travel planning with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Traveling and Dementia](https://www.alz.org/help-support/caregiving/safety/traveling) — opened. It says travel is not automatically ruled out and recommends planning around comfort, familiar routines, rest, assistance and a backup plan.
+- [Dementia Australia: Travelling with dementia](https://www.dementia.org.au/living-dementia/staying-connected/travelling-dementia) — opened. It asks people to consider the person's wishes and support needs, plan together, allow time, and check transport and accommodation assistance.
+
+Application: holiday and outing guides covered family events and short trips, but there was no practical guide for longer travel. The new page offers a flexible checklist without claiming that travel is right for everyone or deciding medical clearance, insurance coverage or provider rules.

@@ -229,3 +229,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Translation | Added Japanese text for current Photo Pairs strings, retaining all placeholders and one bold run in the intro. | Machine-made, not reviewed by a native speaker. |
 | Tests | `PhotoPairs.test.ts`: Japanese one-photo wording and controls checked. `pnpm --dir site verify`: 1,865 tests, 12,492 pages, `check-site` 0 errors and 536 warnings. TypeScript, Python suite (106), release metadata and `git diff --check` pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; build reports a large-chunk warning. |
 | Not verified | No native-speaker, caregiver/participant, browser or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim Japanese usability validation. |
+
+## Round 54: practical travel planning with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says travel can remain meaningful with planning for safety, comfort and enjoyment; it recommends familiar destinations, a simple plan, rest and a backup. Dementia Australia asks readers to consider whether the trip fits the person's wishes and support needs, and to plan together. | A travel guide can help caregivers plan without promising that travel is suitable for everyone. |
+| Existing coverage and gap | The holiday guide covers celebrations, and the early-stage activities guide mentions short outings. Neither helps a caregiver prepare for a longer trip, transport assistance, medication lists or a return plan. | Added the site's 50th English guide with a decision checklist, simple itinerary, essentials, provider assistance and permission to shorten or stop. |
+| Boundaries | The guide does not make medical clearance, insurance or transportation-policy decisions. It tells readers to check current rules with providers and ask a health professional about medical or medication questions. | Advice is general; provider procedures and local requirements vary. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,493 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | The built `/caregiving/traveling-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, travel professional, clinician, native-speaker or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim suitability or user validation. |
