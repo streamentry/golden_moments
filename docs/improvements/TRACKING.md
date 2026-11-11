@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 88 / 100 completed**
+**Progress: 89 / 100 completed**
 
 ---
 
@@ -63,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 89 | *Next in queue* | Pending |
-| 90–100 | Planned one by one | Pending |
+| 90 | *Next in queue* | Pending |
+| 91–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -624,3 +624,16 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,521 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
 | Render inspection | Built route `/caregiving/responding-after-a-fall-with-dementia/`, caregiving hub, home-safety guide and bathing guide contain the page and cross-links. | Static output checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 89: label U.S. emergency and crisis numbers in mobile Today help (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | 911.gov gives 911 emergency instructions in the U.S.; the State Department says emergency numbers differ by country. The 988 Lifeline says its call, text and chat service covers the U.S. and its territories. | The English app copy should label those numbers and provide local alternatives; no location inference. |
+| Existing coverage and gap | Round 50 corrected the website Today page. The app's separate English Today help strings still said 911 and 988 without scope. A scan of 67 app ARBs found 911/988 in these help keys only in English; the pt and zh parent files omit the keys, while runtime locale resolution selects pt_BR or zh_Hans/zh_Hant. | App-only follow-up; translated ARB wording was not changed. |
+| Change | The English app now labels U.S. 911 and 988, gives local emergency/crisis alternatives elsewhere, and tests the wording in doctor, visit and caregiver-crisis situations. | No location detection, network call, permission or new dependency. |
+| Safety boundary | Emergency numbers and crisis services vary by location. The app does not infer location or claim that the U.S. numbers work elsewhere. | Static guidance only; local services must be confirmed by the user. |
+| Implementation commit | `921722f1a130564ad6fd3373230bafe9bcb88726` | Source state for the checks recorded below. |
+| Checks | `python3 scripts/check_arb.py lib/l10n/arb/app_en.arb` and `python3 -m unittest discover -s tests -p 'test_*.py'` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. A scan of 67 app ARBs found 911/988 only in English; pt/zh parent files omit these keys and resolve to regional variants. | Flutter/Dart unavailable locally, so gen-l10n, `dart format` and Flutter widget tests were not run. Hosted CI is pending. |
+| Render inspection | The copy and widget-test source were reviewed, but the Today screen was not rendered. | Flutter SDK unavailable; no device review. |
+| Not verified | Flutter/Dart were unavailable locally, so gen-l10n, Flutter widget tests, analyzer and formatter did not run. No caregiver, native-speaker, device or live review. | Hosted CI is pending; do not claim rendered or device verification. |
