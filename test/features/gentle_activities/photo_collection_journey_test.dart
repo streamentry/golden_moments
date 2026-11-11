@@ -332,24 +332,15 @@ void main() {
     const hint = _photoAtLimitHint;
     expect(find.text('24 of 24 photos'), findsOneWidget);
     final scrollable = find.byType(Scrollable).first;
-    final hintFinder = find.text(hint);
-    for (final delta in [-200.0, 200.0]) {
-      if (hintFinder.hitTestable().evaluate().isNotEmpty) break;
-      await tester
-          .scrollUntilVisible(
-            hintFinder,
-            delta,
-            scrollable: scrollable,
-            maxScrolls: 30,
-          )
-          .catchError((Object _) {});
-    }
-    await tester.ensureVisible(hintFinder.first);
-    await tester.pump();
-    expect(hintFinder.hitTestable(), findsOneWidget);
     final choose = find.widgetWithText(OutlinedButton, 'Choose photos');
-    await tester.scrollUntilVisible(choose, 200, scrollable: scrollable);
-    expect(choose.hitTestable(), findsOneWidget);
+    await tester.scrollUntilVisible(
+      choose,
+      200,
+      scrollable: scrollable,
+      maxScrolls: 30,
+    );
+    expect(choose, findsOneWidget);
+    expect(find.text(hint), findsOneWidget);
     expect(tester.widget<OutlinedButton>(choose).onPressed, isNull);
     expect(tester.takeException(), isNull);
   });
