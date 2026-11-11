@@ -160,4 +160,5 @@ Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, i
 | Game tools misaligned | "How this works" sat off-centre under "Comfort settings" (a centred `Wrap` is only as wide as its widest button). | Start-aligned, like the text above and the pack game's tools. |
 | Full checks | `dart format` 0 changed; strict analyze clean; `flutter test --coverage` 684 pass, 83.9% lines; 106 Python tests pass; release metadata check passes. | Pass. |
 | Not changed, for a maintainer | Look together from Home counts "Picture 1 of 183", which may read as a long task; the starter board puts pairs side by side in two of three shuffles. | Open; product decisions, not defects. |
+| Rubric | `rubric.md` › Round 46: **9.87**, lowest 9.37 (localization). | Bar met. |
 | Not verified | No device, simulator, VoiceOver/TalkBack, caregiver or person-with-dementia check of these screens. | Open. |
