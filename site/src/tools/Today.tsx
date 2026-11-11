@@ -4,6 +4,7 @@ import { SITUATIONS, SITUATION_BY_ID, type SituationId } from '../lib/today/situ
 import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, toggleSituation, type Note, type Outcome } from '../lib/today/notes';
 import { renderWithPhoneLinks } from '../lib/today/text';
 import { sounds } from '../games/shared/sound';
+import { TodaySuggestions } from './TodaySuggestions';
 
 const OUTCOME_LABEL: Record<Outcome, string> = {
   helped: 'That helped',
@@ -74,7 +75,7 @@ export function Today() {
     <div className="today">
       <section className="today__ask no-print" aria-labelledby="today-ask">
         <h2 id="today-ask">Choose one</h2>
-        <p>You get three things to try, when to get help, and one gentle activity.</p>
+        <p>You get one thing to try first, more ideas if needed, when to get help and one gentle activity.</p>
         <ul className="today__choices">
           {SITUATIONS.map((s) => (
             <li key={s.id}>
@@ -100,12 +101,7 @@ export function Today() {
           <h2 id="today-answer" ref={answerHeading} tabIndex={-1}>
             {situation.label}
           </h2>
-          <h3>Try one of these</h3>
-          <ol className="today__tries">
-            {situation.tries.map((t) => (
-              <li key={t}>{renderWithPhoneLinks(t)}</li>
-            ))}
-          </ol>
+          <TodaySuggestions suggestions={situation.tries} />
           <p className="today__help">
             <strong>Get help: </strong>
             {renderWithPhoneLinks(situation.help)}
