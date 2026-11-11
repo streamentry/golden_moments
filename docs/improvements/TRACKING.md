@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 46 / 100 completed**
+**Progress: 60 / 100 completed**
 
 ---
 
@@ -291,3 +291,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Gap and change | The `zh-Hant` warning-signs guide translated “low blood sugar in people with diabetes” as `糖尿病患者的低血糖`. The checker treated `患者` as wording for people with dementia, although this sentence referred to diabetes. | Rephrased it as `有糖尿病的人可能出現的低血糖` (“low blood sugar that people with diabetes may experience”). The underlying medical statement is unchanged. |
 | Checks | `pnpm --dir site verify`: 1,865 tests, 12,497 pages, `check-site` 0 errors and 535 warnings; the patient-wording warning on this page is gone. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. |
 | Not verified | No native-speaker or clinician review of the Traditional Chinese translation. | Open; do not claim language or medical review. |
+
+## Round 60: respectful oral care with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association and Dementia Australia guidance supports familiar routines, short cues, independence, asking permission before helping, and dental-professional advice when problems arise. | Supports practical caregiver guidance; not a dental treatment plan. |
+| Existing coverage and gap | The mealtime guide mentions dental discomfort, but the site had no focused guide on daily mouth care, dentures, privacy, consent or preparing for a dental visit. | Added the site's 55th English caregiving guide, with a calm routine, shared-helper coordination and clear prompts to seek individualized dental advice. |
+| Safety boundary | The page does not prescribe brushing frequency, products, physical techniques, denture treatment or swallowing changes. It asks helpers to pause when the person resists or is distressed and to seek professional advice for new problems. | General information only; the person's consent and comfort remain central. |
+| Checks | Node 24.22.2: `pnpm --dir site verify` passed, built 12,498 pages and reported 0 checker errors with 535 warnings; `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/oral-care-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, dentist, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
