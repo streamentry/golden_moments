@@ -250,3 +250,12 @@ Application: the site mentioned fluids in mealtime, continence and fasting pages
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and warns against self-diagnosis.
 
 Application: existing caregiver self-care guidance points to respite resources but did not explain how to define home-care needs or screen providers. The new guide helps families compare options with the person and verify local terms without endorsing a provider.
+
+## Round 69: choosing residential care with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Long-Term Care](https://www.alz.org/help-support/caregiving/care-options/long-term-care) — opened. It covers care setting types, deciding whether to explore a move, visiting, questions for staff and costs.
+- [Alzheimer's Association: Choosing a Residential Care Community](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) — opened; updated July 2024. Its checklist covers staff, environment, programs, family involvement and ongoing care.
+- [Dementia Australia: Residential care](https://www.dementia.org.au/living-dementia/care-options/residential-care) — opened. It recommends planning, considering the person's needs and culture, visiting homes, asking about dementia training and remaining involved after a move.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
+
+Application: the site covered home safety, living alone and in-home services but had no guide for comparing residential care. The new guide centers the person's wishes, observed daily care and local verification of fees and terms without giving legal or financial advice.
