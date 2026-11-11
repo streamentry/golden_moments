@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 83/100 in this branch** (Round 82 is in PR #225; this branch adds #83). Round 83 adds an English guide to person-led money support and scam response. On Node 24.11.1, site verification passes 1,869 tests, builds 12,517 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests, release metadata and `git diff --check` pass. No person with dementia, caregiver, bank/financial/legal professional, safeguarding professional or native-speaker review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 84/100 in this branch** (Round 83 is merged in PR #226; this branch adds #84). Round 84 adds focused guidance for responding when a person with dementia sees or hears things, including checks for mistaken perceptions and urgent help for sudden confusion or hallucinations involving multiple senses. On Node 22.14.0, site verification passed 1,869 tests, built 12,518 pages and reported 0 checker errors with 535 warnings; pnpm warned that this version is below the site's declared minimum of 22.22.0. TypeScript, 106 Python tests, metadata and diff checks passed locally. No reader or professional review has been done.
 
 | Item | Status |
 | --- | --- |
@@ -152,3 +152,10 @@ Implementation commit: `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb`. The 65 comple
 The site had general future-planning advice but no practical page on helping with bills, understanding trusted-contact limits, noticing possible exploitation or responding to a scam. This guide keeps the person involved, separates informal bill help from transaction authority and gives U.S. reporting steps with local-law caveats.
 
 Implementation commit: `cbd3725a6fd9be632d434a4a78f3618270e5118c`. Sources include Alzheimer's Society, Alzheimer's Association, CFPB, FTC and the Administration for Community Living. On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,517 pages and found 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, 106 Python tests, `python3 scripts/release_metadata.py --check` and `git diff --check` passed. Built output contains the guide route and the caregiving-hub link. The guide is English only. No live browser, person-with-dementia, caregiver, banker, financial/legal professional, safeguarding professional or native-speaker review has been done.
+
+
+## Round 84: responding when someone sees or hears things (2026-11-11)
+
+The site discussed sundowning, suspicion and sudden confusion, but had no focused page for a person who sees or hears things others do not. The new guide suggests calm, honest responses; simple checks for shadows, reflections, sounds and sensory aids; and a medical boundary for sudden or distressing changes. It does not diagnose hallucinations or advise changing medicine.
+
+Sources include Alzheimer's Society, Alzheimer's Association, Dementia Australia and the NHS. The static route, caregiving hub and related-guide link are checked in built output. The guide is English only. No live-browser, person-with-dementia, caregiver, clinician or native-speaker review has been done.

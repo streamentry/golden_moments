@@ -378,3 +378,14 @@ Application: the app disabled `Choose photos` at 24 of 24 copies. The count alon
 - CFPB search results for “Planning for diminished capacity and illness” and “Reporting elder financial abuse” led to pages that returned 404 when opened. They are not used; the guide relies on the opened CFPB, FTC and ACL pages above for its reporting boundaries.
 
 Application: the site mentioned finances in after-diagnosis and care-choice guidance, but had no practical page on consent-based bill help, what a trusted contact can do, possible exploitation signs or steps after a scam. The new English guide covers those topics without recommending account changes or interpreting local law.
+
+
+## Round 84: hallucinations and dementia (read 2026-11-11)
+
+- [Alzheimer's Society: Hallucinations and dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations) — opened. It distinguishes hallucinations from misperceptions and misidentifications, describes sensory, environmental, illness and medication factors, and advises immediate help for experiences involving multiple senses plus medical attention for frightening, prolonged or frequent experiences or increased confusion.
+- [Alzheimer's Association: Hallucinations](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations) — opened. It advises assessing distress and danger, reassuring without arguing, using gentle distraction if welcome and checking lighting, mirrors and background sounds.
+- [Dementia Australia: Hallucinations and delusions](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) — opened. It discusses sensory, illness, medicine and environment factors, with responses such as reassurance, checking glasses/hearing aids and keeping routines familiar.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and advises staying with the person and speaking simply while help is arranged.
+- [NIA: Alzheimer's Caregiving: Coping With Hallucinations, Delusions, and Paranoia](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-coping-hallucinations?topics=33&types=BSC.Blog) — search result seen, but opening returned HTTP 405; not used.
+
+Application: the site has guidance on sundowning, suspicion, non-recognition and urgent confusion, but no page focused on what to do when someone sees or hears things others do not. The new page distinguishes a person's experience from a diagnosis, offers low-risk environmental checks and points sudden confusion and multi-sensory hallucinations to urgent care.

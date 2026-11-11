@@ -290,3 +290,8 @@ The cap hint uses the existing body text role, surface-variant color and scrolla
 ## Round 83 score note (2026-11-11)
 
 This round adds an English caregiver guide and one internal link. The site build and automated checks can validate its schema, route, text and links, but they do not prove that the financial guidance is understandable or suitable for people with dementia. No reader, caregiver, financial/legal professional or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+
+## Round 84 score note (2026-11-11)
+
+This English content change adds no app or site behavior. Automated schema, build, checker and link checks can validate the route and wording, but they do not show whether the advice is clear or useful to people with dementia or family caregivers. No reader, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.

@@ -44,7 +44,7 @@ health: true
 
 An accusation that you took a wallet, moved a purse or changed a bank detail can be upsetting. A person with dementia may misplace an item, forget moving it or misunderstand what happened. But dementia does not prove that an allegation is false. Start by listening and checking the facts.
 
-The [Alzheimer's Association guide to suspicion and delusions](https://www.alz.org/help-support/caregiving/stages-behaviors/suspicions-delusions) recommends staying calm, giving a short answer and not arguing. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) also advises looking into a concern rather than dismissing it simply because the person has dementia. This page offers general communication ideas, not a way to determine whether a specific accusation is true.
+The [Alzheimer's Association guide to suspicion and delusions](https://www.alz.org/help-support/caregiving/stages-behaviors/suspicions-delusions) recommends staying calm, giving a short answer and not arguing. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) also advises looking into a concern rather than dismissing it simply because the person has dementia. This page offers general communication ideas, not a way to determine whether a specific accusation is true. For separate guidance about seeing or hearing things others do not, see our [guide to hallucinations and dementia](/caregiving/hallucinations-with-dementia/).
 
 ## What can I say when someone is suspicious?
 
