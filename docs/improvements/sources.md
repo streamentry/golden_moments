@@ -312,3 +312,11 @@ Application: the English art-project guide used "dementia patients" in its page 
 - National Institute on Aging's "Steps to Take After a Dementia Diagnosis" appeared in search results, but its page returned HTTP 405 when opened; it was not used or cited in the guide.
 
 Application: existing guides covered separate appointments, medicines, care services and caregiver support, but not how to choose the first next step after diagnosis. The new page offers a person-led starting point and leaves personal medical, legal and financial decisions to qualified local professionals.
+
+## Round 77: work choices after a younger-onset diagnosis (read 2026-11-11)
+
+- [Alzheimer's Association: If You Have Younger-Onset Alzheimer's Disease](https://www.alz.org/help-support/i-have-alz/younger-onset) — opened. It covers work, family finances and employer benefits after diagnosis.
+- [Dementia Australia: Work and dementia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead/work-and-dementia) — opened; updated 23 January 2026. It recommends discussing job-specific symptoms, safety and support with a clinician, and offers task strategies such as routines, written steps and one task at a time.
+- [Alzheimer's Society: Working and dementia](https://www.alzheimers.org.uk/get-support/living-with-dementia/work-dementia) — opened. It says work decisions depend on the person's feelings, job and personal situation; the page also shows that employment law guidance is jurisdiction-specific.
+
+Application: the site had an early-onset activity guide and general future planning but no work-focused guidance. The new page presents options and questions without interpreting employment law, deciding work fitness or recommending a disclosure choice.

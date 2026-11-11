@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 76 / 100 completed**
+**Progress: 77 / 100 completed**
 
 ---
 
@@ -477,3 +477,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,512 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Static output at `/caregiving/after-dementia-diagnosis/` contains the starting guidance, urgent-care boundary and local-professional caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
 | Not verified | No person recently diagnosed, caregiver, clinician, legal/financial professional, native-speaker or live-browser review. | Open; do not claim personal validation. |
+
+## Round 77: work choices after a younger-onset dementia diagnosis
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association addresses younger-onset diagnosis, work and employer benefits. Dementia Australia suggests discussing work-specific symptoms and safety with a clinician, and gives task supports. Alzheimer's Society says no single work decision suits everyone. | Supports options and questions, not a job-fitness or legal decision. |
+| Existing coverage and gap | The site mentions younger-onset activities and general future planning, but has no guide to staying at work, considering adjustments, disclosure and benefits after diagnosis. | Added the site's 70th English caregiving guide. |
+| Safety boundary | The guide does not decide whether a person can work, state universal disclosure duties, guarantee workplace adjustments or interpret benefits. It points safety-sensitive questions to clinicians and employment rules to qualified local advisers. | General information only; local law and each job's risks differ. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,513 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/working-with-younger-onset-dementia/` contains the title, work-safety guidance and local-law caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person living with younger-onset dementia, caregiver, employer, clinician, employment/benefits professional, native-speaker or live-browser review. | Open; do not claim workplace or user validation. |
