@@ -207,3 +207,11 @@ Application: the site had scattered toilet and incontinence references but no fo
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical attention.
 
 Application: existing content mentioned driving only as a possible difficulty. The new guide helps caregivers start the conversation, document concrete concerns, seek qualified assessment and preserve mobility through other transport, without diagnosing or giving state licensing rules.
+
+## Round 64: doctor visits with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Working With the Doctor](https://www.alz.org/help-support/caregiving/daily-care/working-with-the-doctor) — opened. It recommends listing questions, recording specific changes, bringing a complete medication list, asking questions and leaving with a written plan.
+- [Dementia Australia: Working with doctors](https://www.dementia.org.au/living-dementia/staying-healthy/working-doctors) — opened; updated 28 November 2025. It recommends consent, letting the person speak first, respecting private time, preparing notes and asking for written information.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and should not be self-diagnosed.
+
+Application: other guides mention when a particular change warrants contacting a doctor, but none helps prepare for a routine visit. The new page supports shared preparation, consent, questions and follow-up without giving diagnosis or treatment instructions.
