@@ -29,7 +29,7 @@ sources:
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone"
 relatedGames: []
-related: [caregiving/home-safety, activities/daily-routine, brain-health/social-connection, caregiving/communication-tips]
+related: [caregiving/home-safety, activities/daily-routine, brain-health/social-connection, caregiving/communication-tips, caregiving/long-distance-caregiving-with-dementia]
 health: false
 ---
 
@@ -54,7 +54,7 @@ Agree on a small number of regular contacts. A short visit or call at a known ti
 
 Make offers concrete. “Would it help if I brought groceries on Thursday?” is easier to answer than “Let me know if you need anything.” A trusted person might help with shopping, transport, meals, bills or an appointment calendar. The [Alzheimer's Association suggests arranging help](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) with household tasks, meals, transportation and medication reminders when those needs arise.
 
-If several people are helping, agree who will handle each task and how they will pass along important updates. Keep information limited to the people the person has chosen, except when an urgent safety concern requires immediate help. The [communication guide](/caregiving/communication-tips/) has more on discussing support without turning it into a test.
+If several people are helping, agree who will handle each task and how they will pass along important updates. Keep information limited to the people the person has chosen, except when an urgent safety concern requires immediate help. If you live far away, see our [long-distance caregiving guide](/caregiving/long-distance-caregiving-with-dementia/) for ways to coordinate with the people the person chooses. The [communication guide](/caregiving/communication-tips/) has more on discussing support without turning it into a test.
 
 ## How can someone stay connected while living alone?
 

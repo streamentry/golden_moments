@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 85/100 in this branch** (Round 84 is in PR #227; this branch adds #85). Round 85 adds focused guidance for responding safely when anger becomes aggression, including space, stopping a task and when to seek help. Verification and review status are recorded in [TRACKING.md](TRACKING.md). No person, caregiver, clinician or native-speaker review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 86/100 in this branch** (Round 85 is in PR #228; this branch adds #86). Round 86 adds focused guidance for coordinating dementia care from a distance, with agreed roles, privacy and local support. Verification and review status are recorded in [TRACKING.md](TRACKING.md). No person, caregiver, clinician or native-speaker review has been done.
 
 | Item | Status |
 | --- | --- |
@@ -165,3 +165,9 @@ Sources include Alzheimer's Society, Alzheimer's Association, Dementia Australia
 The refusal, communication, pain and late-day guides mentioned anger or aggression only in context. This new English guide puts immediate safety first, suggests calm ways to pause and give space, describes possible triggers without diagnosing them, and tells readers when to contact a clinician or local emergency service. It does not recommend restraint or medicine changes.
 
 Sources include the Alzheimer's Association and Alzheimer's Society. The guide links back to refusal and late-day advice. Person, caregiver, clinician, native-speaker and live-browser review remain open.
+
+## Round 86: coordinate dementia care from a distance (2026-11-11)
+
+The site covered living alone, in-home help, emergency planning and family task disagreements, but lacked a focused guide for relatives or friends supporting someone from another city. This English guide helps the person choose who is involved, assigns practical remote tasks, sets an agreed update and backup plan, and points local health-information rules back to providers.
+
+Sources include the Alzheimer's Association and Family Caregiver Alliance. No person, caregiver, clinician, native-speaker or live-browser review has been done.
