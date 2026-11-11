@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 68 / 100 completed**
+**Progress: 69 / 100 completed**
 
 ---
 
@@ -390,3 +390,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,506 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/choosing-in-home-dementia-care/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, home-care worker, clinician, native-speaker or live-browser review. | Open; do not claim provider endorsement or user validation. |
+
+## Round 69: comparing residential care with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association and Dementia Australia recommend comparing personal needs, staff, activities, daily routines, family involvement and costs; both stress that the move is individual. | Supports preparing questions and visits, not choosing a home for a family. |
+| Existing coverage and gap | The site had guides on home safety, living alone, in-home care and hospitalization, but no practical guide to comparing residential care communities. | Added the site's 64th English caregiving guide for person-led visits, questions and transition planning. |
+| Safety boundary | The guide does not prescribe a move date, assess a person's stage, interpret contracts or promise service funding. It directs local eligibility, financial and legal questions to qualified local support. | General planning information only; the person and their advisors make the decision. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,507 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/choosing-residential-dementia-care/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, care-home staff, clinician, native-speaker or live-browser review. | Open; do not claim care-home assessment or user validation. |
