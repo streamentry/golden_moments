@@ -11,8 +11,9 @@ final Finder _previous = find.text('Previous');
 final Finder _prompt = find.text('Show a conversation prompt');
 final Finder _hide = find.text('Hide this picture');
 
-/// The included drawings, in order (shared with the website).
-final int _count = ActivityPicture.samples.length;
+/// The included drawings, in order (shared with the website). They carry
+/// no "Picture N of M" count: a library to browse, not a set to finish.
+final Finder _count = find.textContaining(RegExp(r'^Picture \d+ of \d+'));
 final String _first = ActivityPicture.samples[0].label;
 final String _second = ActivityPicture.samples[1].label;
 
@@ -26,8 +27,8 @@ Future<void> lookTogetherIncluded(
   final tag = textScale == 1 ? '' : '-text-${(textScale * 100).round()}';
   await launchApp(tester, textScale: textScale);
   await tapOn(tester, _lookTogether);
-  await waitFor(tester, find.text('Picture 1 of $_count'));
-  expect(find.bySemanticsLabel(_first), findsOneWidget);
+  await waitFor(tester, find.bySemanticsLabel(_first));
+  expect(_count, findsNothing);
   expect(isEnabled(tester, _previous), isFalse);
   expect(isEnabled(tester, _next), isTrue);
   // The included pictures have no captions, so there is nothing to toggle.
@@ -38,11 +39,10 @@ Future<void> lookTogetherIncluded(
   await checkpoint(tester, 'j4-look-together$tag');
 
   await tapOn(tester, _next);
-  await waitFor(tester, find.text('Picture 2 of $_count'));
-  expect(find.bySemanticsLabel(_second), findsOneWidget);
+  await waitFor(tester, find.bySemanticsLabel(_second));
+  expect(_count, findsNothing);
   await tapOn(tester, _previous);
-  await waitFor(tester, find.text('Picture 1 of $_count'));
-  expect(find.bySemanticsLabel(_first), findsOneWidget);
+  await waitFor(tester, find.bySemanticsLabel(_first));
 
   // A conversation prompt only when asked for.
   const question = 'What do you like about this picture?';
@@ -59,22 +59,21 @@ Future<void> lookTogetherIncluded(
   // The view returns to the next picture, with the note above it.
   expect(find.bySemanticsLabel(_first), findsNothing);
   expect(find.bySemanticsLabel(_second), findsOneWidget);
-  await reveal(tester, find.text('Picture 1 of ${_count - 1}'));
-  expect(find.text('Picture 1 of ${_count - 1}'), findsOneWidget);
+  await reveal(tester, find.bySemanticsLabel(_second));
   await letTimePass(tester, const Duration(seconds: 2));
   expect(
-    find.text('Picture 1 of ${_count - 1}'),
+    find.bySemanticsLabel(_second),
     findsOneWidget,
     reason: 'no slideshow',
   );
+  expect(_count, findsNothing);
   expectNoPressureCues(tester);
   await checkpoint(tester, 'j4-hidden-for-visit$tag');
 
   await tapOn(tester, doneForNow);
   await waitFor(tester, startGentleGame);
   await tapOn(tester, _lookTogether);
-  await waitFor(tester, find.text('Picture 1 of $_count'));
-  expect(find.bySemanticsLabel(_first), findsOneWidget);
+  await waitFor(tester, find.bySemanticsLabel(_first));
   await tapOn(tester, doneForNow);
   await waitFor(tester, startGentleGame);
 }

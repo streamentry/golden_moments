@@ -2,10 +2,10 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:golden_moments/app/view/pack_game.dart';
 import 'package:golden_moments/data/models/pack.dart';
 import 'package:golden_moments/data/services/sound_service.dart';
 import 'package:golden_moments/design_system.dart';
+import 'package:golden_moments/features/game/presentation/screens/game_page.dart';
 import 'package:golden_moments/features/home/cubit/home_cubit.dart';
 import 'package:golden_moments/features/home/cubit/home_state.dart';
 import 'package:golden_moments/features/home/presentation/widgets/daily_packs_section.dart';
@@ -160,9 +160,7 @@ class _LoadedView extends StatelessWidget {
 
     void openPack(Pack pack) {
       Navigator.of(parentContext).push(
-        MaterialPageRoute<void>(
-          builder: (context) => packGamePage(context, pack),
-        ),
+        MaterialPageRoute<void>(builder: (context) => GamePage(gamePack: pack)),
       );
     }
 

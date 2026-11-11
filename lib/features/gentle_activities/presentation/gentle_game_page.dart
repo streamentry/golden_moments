@@ -23,14 +23,9 @@ class GentleGamePage extends StatefulWidget {
     this.preferencesStore = const GentlePreferencesStore(),
     this.sessionStore = const GentleSessionStore(),
     this.sessionKey = 'starter',
-    this.title,
     super.key,
   });
   final List<ActivityPicture> pictures;
-
-  /// The page title, such as a picture pack's name; the activity's own name
-  /// when null.
-  final String? title;
   final GentlePreferencesStore preferencesStore;
   final GentleSessionStore sessionStore;
 
@@ -474,7 +469,7 @@ class _GentleGamePageState extends State<GentleGamePage> {
     return Scaffold(
       appBar: AppBar(
         toolbarHeight: gmToolbarHeight(context),
-        title: GmTitle(widget.title ?? l10n.gentleGameTitle),
+        title: GmTitle(l10n.gentleGameTitle),
       ),
       body: board == null
           ? Center(child: Text(l10n.gentleGameNeedTwoPhotos))

@@ -109,7 +109,7 @@ Not done: native review of any language; picture captions the translators could 
 
 ## Mobile visual audit (2026-11-11, Round 46)
 
-Rendered every mobile screen at phone, small phone, iPad and 200% text and fixed what was wrong: picture packs now open on the gentle board on iOS/Android (visible pictures, four tiles, comfort settings) instead of 16–40 hidden tiles; the experimental puzzle's pieces now show their own part of the picture; Plan my day uses equal-width chips instead of a word-breaking segmented control; Daily moment scrolls at large text; five app-bar titles wrap. Evidence and open items: `docs/improvements/TRACKING.md` › Round 46. No device or person checks.
+Rendered every mobile screen at phone, small phone, iPad and 200% text and fixed what was wrong: the experimental puzzle's pieces now show their own part of the picture; Plan my day uses equal-width chips instead of a word-breaking segmented control; Daily moment scrolls at large text; five app-bar titles wrap; the game tool buttons line up. Maintainer decisions the same day: picture packs keep hidden tiles (a gentle-board version was reverted); Look together shows no count for the included drawings; the four-tile starter puts each pair on a diagonal. Evidence: `docs/improvements/TRACKING.md` › Round 46. No device or person checks.
 
 ## Next in order
 
