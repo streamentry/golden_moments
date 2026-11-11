@@ -296,3 +296,9 @@ Application: the site had a home-safety guide, caregiver backup advice and a hos
 - [Alzheimer's Society: Ways you can support children and young people when a person has dementia](https://www.alzheimers.org.uk/get-support/living-with-dementia/supporting-children-young-people-dementia) — opened. It recommends reassurance, space to express feelings, trusted support networks and including young people before sharing information with school.
 
 Application: the website had no guide for explaining a family member's dementia to children or preserving their routines and boundaries. The new page offers plain conversation examples and voluntary ways to stay connected without making a child responsible for care.
+
+## Round 75: person-first wording for the art-project guide (read 2026-11-11)
+
+- [Dementia Australia: How to talk about dementia](https://www.dementia.org.au/about-dementia/how-talk-about-dementia) — opened; last updated 1 April 2026. It recommends accurate, respectful, inclusive and empowering language, lists "person/people living with dementia" as appropriate wording, and says to avoid "patient" outside specific medical situations.
+
+Application: the English art-project guide used "dementia patients" in its page title, search title, summary and FAQ, although it describes a recreational activity. Replaced those labels with person-first wording in the canonical English guide.

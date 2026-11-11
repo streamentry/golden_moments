@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 74 / 100 completed**
+**Progress: 75 / 100 completed**
 
 ---
 
@@ -456,3 +456,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,511 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Static output at `/caregiving/talking-to-children-about-dementia/` contains the guide and its care-boundary text; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
 | Not verified | No child, parent, caregiver, family counselor, clinician, native-speaker or live-browser review. | Open; do not claim family or child validation. |
+
+## Round 75: person-first wording in the art-project guide
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia's language guide says to describe the person before the condition and avoid "patient" outside a specific medical context. | The public activity guide is not a medical context. |
+| Existing coverage and gap | The English art-project guide used "dementia patients" in its H1, SEO title, summary and FAQ. This conflicts with `site/CONTENT_GUIDE.md` and can frame a recreational activity as clinical care. | Replaced those labels with person-first wording; no activity or safety advice changed. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,511 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Built `/activities/art-projects/` has the updated H1, SEO title and FAQ; the Activities hub card uses the new title. The old phrase is absent from the English route. | Static output checked; no live-browser run. |
+| Not verified | No person-with-dementia, caregiver or native-speaker review. | Open; do not claim user or translation validation. |
