@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 72/100 in this branch** (#71 is the base in PR #214; this branch adds #72). Round 72 adds a guide to comparing adult day programs based on Alzheimer's Association advice. Full site verification passes 1,869 tests, builds 12,509 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person, caregiver, adult-day staff or clinician review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 73/100 in this branch** (Round 72 is in PR #215; this branch adds #73). Round 73 adds a person-led emergency-planning guide based on Alzheimer's Association and FEMA guidance. Full site verification passes 1,869 tests, builds 12,510 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person, caregiver, emergency-services, care-facility or clinician review has been done.
 
 | Item | Status |
 | --- | --- |

@@ -280,3 +280,11 @@ Application: while each guide is directly linked from its section hub, the Engli
 - [Alzheimer's Association: Choosing an Adult Day Center](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-an-adult-day-center-ts.pdf) — opened; updated July 2024. It recommends visiting, observing interactions and asking about programs, transport, staff, personal care and cost.
 
 Application: the site mentions day programs as one respite option and has activity ideas for groups, but does not help a person and family compare a specific center. The new page asks families to evaluate fit and the person's comfort without claiming that a program suits everyone.
+
+## Round 73: emergency planning with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Preparing for Emergencies](https://www.alz.org/help-support/caregiving/safety/in-a-disaster) — opened. It recommends planning with residential/day programs, sharing key contact and medicine information with backup caregivers, preparing supplies, and accounting for mobility needs and comfort items.
+- [FEMA: Disaster Preparedness for Older Adults and People with Disabilities](https://www.fema.gov/sites/default/files/documents/fema_hm-preparedness-for-older-adults_english.pdf) — opened. It calls for a communication plan, medicine and medical supplies, chargers, transport and assistive-device planning, and emergency contacts.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help; the guide directs readers to their local emergency system rather than assuming one country's emergency number.
+
+Application: the site had a home-safety guide, caregiver backup advice and a hospital guide, but no disaster-preparation plan. The new page gives families a short, person-led checklist for helpers, communication, supplies and services while leaving shelter and evacuation decisions to current local authorities.
