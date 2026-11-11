@@ -217,6 +217,10 @@ The two missing-person passages now advise prompt contact with local responders 
 
 The family disagreement guide adds a discussion structure without making a care or legal decision for a family. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, family member, caregiver or mediator review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 81 score update (2026-11-11)
+
+The suspicion guide gives general conversation and safeguarding prompts without diagnosing a delusion or dismissing reports. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, family member, caregiver or safeguarding professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 80/100 in this branch** (Round 79 is in PR #222; this branch adds #80). Round 80 adds a family discussion guide for disagreements about dementia care. Full site verification passes 1,869 tests, builds 12,515 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person with dementia, family, caregiver or mediator review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 81/100 in this branch** (Round 80 is in PR #223; this branch adds #81). Round 81 adds a guide for responding to suspicion without dismissing concerns or diagnosing the cause. Full site verification passes 1,869 tests, builds 12,516 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person with dementia, family caregiver or safeguarding professional review has been done.
 
 | Item | Status |
 | --- | --- |

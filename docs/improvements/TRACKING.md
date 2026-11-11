@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 80 / 100 completed**
+**Progress: 81 / 100 completed**
 
 ---
 
@@ -521,3 +521,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,515 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Static output at `/caregiving/family-disagreements-about-dementia-care/` contains the meeting agenda and local-professional caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
 | Not verified | No person with dementia, family member, caregiver, mediator, clinician, native-speaker or live-browser review. | Open; do not claim family or professional validation. |
+
+## Round 81: responding to suspicion about missing items
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association suggests short, calm responses and avoiding argument. Alzheimer's Society and Dementia Australia say misplaced items, perception changes or other causes may be involved, and concerns should not be dismissed automatically. NHS says sudden confusion needs immediate medical help. | Supports checking facts and addressing feelings without diagnosing the cause. |
+| Existing coverage and gap | Communication and misidentification guides cover broad conversation habits, but no page addressed accusations about theft or the need to verify concerns. | Added the site's 73rd English caregiving guide with response examples, routine ideas and safeguarding boundaries. |
+| Safety boundary | The guide does not label a specific accusation as delusion or prescribe treatment. It advises checking facts, seeking professional or local safeguarding support, and getting urgent help for sudden confusion or immediate danger. | General information only; serious concerns need qualified local response. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,516 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/when-someone-with-dementia-is-suspicious/` includes the fact-checking, safeguarding and urgent-care guidance; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
