@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react';
 import { ActivityChoiceBoard } from './ActivityChoiceBoard';
 import { SITUATIONS, SITUATION_BY_ID, type SituationId } from '../lib/today/situations';
-import { addNote, byDay, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, TIME_OF_DAY_LABELS, toggleSituation, type Note, type Outcome, type TimeOfDay } from '../lib/today/notes';
+import { addNote, byDay, clearNotes, loadNotes, localDay, removeNote, removeNoteAriaLabel, saveNotes, TIME_OF_DAY_LABELS, toggleSituation, type Note, type Outcome, type TimeOfDay } from '../lib/today/notes';
 import { renderWithPhoneLinks } from '../lib/today/text';
 import { sounds } from '../games/shared/sound';
 import { TodaySuggestions } from './TodaySuggestions';
+import { TodayClearAllConfirmation } from './TodayClearAllConfirmation';
 import { TodayTimePicker } from './TodayTimePicker';
 
 const OUTCOME_LABEL: Record<Outcome, string> = {
@@ -47,17 +48,36 @@ export function Today() {
   const [timeOfDay, setTimeOfDay] = useState<TimeOfDay | ''>('');
   const [status, setStatus] = useState('');
   const [canSave, setCanSave] = useState(true);
+  const [confirmClearAll, setConfirmClearAll] = useState(false);
   const answerHeading = useRef<HTMLHeadingElement>(null);
+  const notesHeading = useRef<HTMLHeadingElement>(null);
+  const clearAllTrigger = useRef<HTMLButtonElement>(null);
+  const shouldRefocusClearAll = useRef(false);
+  const previousNoteCount = useRef(0);
 
   // Read saved notes after hydration so the server HTML and first render match.
   useEffect(() => setNotes(loadNotes(browserStorage())), []);
   useEffect(() => {
     if (chosen) answerHeading.current?.focus();
   }, [chosen]);
+  useEffect(() => {
+    if (previousNoteCount.current > 0 && notes.length === 0) notesHeading.current?.focus();
+    previousNoteCount.current = notes.length;
+  }, [notes.length]);
+  useEffect(() => {
+    if (!confirmClearAll && shouldRefocusClearAll.current) {
+      shouldRefocusClearAll.current = false;
+      clearAllTrigger.current?.focus();
+    }
+  }, [confirmClearAll]);
 
   const situation = chosen ? SITUATION_BY_ID.get(chosen) : undefined;
 
   const commit = (next: Note[], message: string) => {
+    if (confirmClearAll) {
+      shouldRefocusClearAll.current = next.length > 0;
+      setConfirmClearAll(false);
+    }
     const saved = saveNotes(browserStorage(), next);
     setCanSave(saved);
     setNotes(next);
@@ -80,6 +100,26 @@ export function Today() {
     );
     setText('');
     setTimeOfDay('');
+  };
+
+  const removeAllNotes = () => {
+    sounds.tap();
+    const storage = browserStorage();
+    if (!storage) {
+      setNotes([]);
+      setCanSave(false);
+      setStatus('Notes were cleared from this page. The browser could not confirm whether a saved copy remains.');
+      setConfirmClearAll(false);
+      return;
+    }
+    if (!clearNotes(storage)) {
+      setStatus('The browser could not remove saved notes. You can remove notes individually.');
+      return;
+    }
+    setCanSave(true);
+    setNotes([]);
+    setStatus('All notes removed from this browser.');
+    setConfirmClearAll(false);
   };
 
   const days = byDay(notes);
@@ -184,7 +224,7 @@ export function Today() {
           <p className="today__print-title">Notes to bring to an appointment</p>
           <p>Written by a family member. These are personal notes, not a medical record.</p>
         </div>
-        <h2 id="today-notes" className="no-print">
+        <h2 id="today-notes" className="no-print" ref={notesHeading} tabIndex={-1}>
           Your notes
         </h2>
         {days.length === 0 ? (
@@ -229,7 +269,29 @@ export function Today() {
               >
                 Print notes for an appointment
               </button>
+              <button
+                ref={clearAllTrigger}
+                type="button"
+                className="btn btn--quiet no-print"
+                aria-expanded={confirmClearAll}
+                aria-controls="today-clear-all-confirmation"
+                onClick={() => {
+                  sounds.tap();
+                  setConfirmClearAll(true);
+                }}
+              >
+                Clear all notes
+              </button>
             </div>
+            <TodayClearAllConfirmation
+              hidden={!confirmClearAll}
+              onConfirm={removeAllNotes}
+              onCancel={() => {
+                sounds.tap();
+                shouldRefocusClearAll.current = true;
+                setConfirmClearAll(false);
+              }}
+            />
           </>
         )}
         <p className="small-print no-print">

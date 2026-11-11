@@ -162,6 +162,17 @@ import { Today } from '../tools/Today';
   .today__status:empty {
     display: none;
   }
+  .today__clear-confirm {
+    margin-block: var(--space-sm) var(--space-lg);
+    padding: var(--space-md);
+    border: 2px solid var(--gm-outline);
+    border-radius: var(--radius-md);
+    background: var(--gm-surface);
+    color: var(--gm-on-surface);
+  }
+  .today__clear-confirm p {
+    margin-top: 0;
+  }
   .today__status:not(:empty) {
     display: flex;
     align-items: center;
@@ -208,6 +219,11 @@ import { Today } from '../tools/Today';
     }
     .today__answer {
       border: 3px solid #000000;
+    }
+    .today__clear-confirm {
+      border: 3px solid #000000;
+      background: #FFFFFF;
+      color: #000000;
     }
     .today__activity-choice {
       border: 3px solid #000000;
@@ -260,6 +276,11 @@ import { Today } from '../tools/Today';
     }
     .today__answer {
       border: 2px solid CanvasText;
+    }
+    .today__clear-confirm {
+      border: 2px solid CanvasText;
+      background: Canvas;
+      color: CanvasText;
     }
     .today__activity-choice {
       border: 2px solid CanvasText;

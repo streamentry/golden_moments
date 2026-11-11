@@ -108,3 +108,11 @@ Application: Photo Pairs now puts one short reminder next to photo selection: ch
 - [Administration for Community Living: Finding Help](https://acl.gov/help) lists the Eldercare Locator as a U.S. resource; the [Alzheimer's Association 24/7 Helpline](https://www.alz.org/help-support/resources/helpline) lists its 800.272.3900 line for dementia support.
 
 Application: the Today tool now labels U.S. phone lines and gives local emergency/crisis-service wording for readers elsewhere. The site does not infer a visitor's location or claim to provide a global service directory.
+
+## Round 51: user control over local notes (read 2026-11-11)
+
+- [W3C WCAG 2.2: Error Prevention (Legal, Financial, Data)](https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-financial-data.html) says user-controlled data deletion should have a reversible, checked or confirmed path.
+- [W3C Cognitive Accessibility: Let Users Go Back](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o4p02-back-undo/) describes how memory challenges can make accidental actions harder to correct without losing work.
+- [Alzheimer's Society: Using technology](https://dementiaconnect.alzheimers.org.uk/get-support/living-with-dementia/advice-on-using-technology) emphasizes consent and considering privacy and what information other people can see.
+
+Application: Today already stores caregiver notes only in the current browser, but required one Remove action per note. The new confirmed clear-all option removes only that notes key, not browser preferences or other site data. This is a privacy and mistake-recovery inference, not a clinical claim.
