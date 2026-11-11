@@ -337,3 +337,11 @@ Application: the communication guide gives general conversation advice but did n
 - [U.S. Department of Justice Journal of Federal Law and Practice: Living in a Cruel Limbo](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) — opened. Its missing-person investigation guidance says law enforcement should not require a fixed waiting period and lists dementia-like symptoms among high-risk factors; it notes local rules and agency requirements vary.
 
 Application: the "asking to go home" and outdoor-gardening English guides repeated the 15-minute delay before reporting, with one also naming a 1.5-mile radius. Updated both canonical pages to advise prompt local reporting and nearby search without a universal timer or radius. The corresponding 189 translated copies per guide were not regenerated: the repo's free DeepSeek backend returned empty output and the agy backend failed, so those translated copies may still contain the prior timing advice.
+
+## Round 80: family disagreements about dementia care (read 2026-11-11)
+
+- [Alzheimer's Association: Resolving Family Conflicts](https://www.alz.org/help-support/caregiving/resolving-family-conflicts) — opened. It recommends respectful listening, task lists that include time and effort, ongoing family communication and outside help when tensions continue.
+- [Dementia Australia: How do I navigate changes in my relationships?](https://www.dementia.org.au/news/how-do-i-navigate-changes-my-relationships) — opened; last updated 16 September 2024. It says family disagreement about care decisions is common and directs families to its helpline for support.
+- [National Institute on Aging: Sharing Caregiving Responsibilities](https://www.nia.nih.gov/health/caregiving/sharing-caregiving-responsibilities) — appeared in search but returned HTTP 405 when opened; not cited or used in the guide.
+
+Application: the site mentioned family support in caregiver self-care and offered guides to specific care choices, but no practical way to handle disagreement or divide tasks. The new page gives families a short agenda while keeping the person's wishes in view and deferring legal or care decisions to qualified support.

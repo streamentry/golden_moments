@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 79 / 100 completed**
+**Progress: 80 / 100 completed**
 
 ---
 
@@ -510,3 +510,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,514 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Both built English routes no longer contain a 15-minute delay or 1.5-mile radius; both direct readers to local responders. | English static output checked; no live-browser run. |
 | Not verified | The 189 translated copies of each guide were not regenerated and may still contain the old threshold. No person with dementia, caregiver, law-enforcement professional, clinician, native-speaker or live-browser review. | Open; this is not a multilingual safety fix. |
+
+## Round 80: family disagreements about dementia care
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association advises listening without blame, discussing concrete caregiving tasks and revisiting plans. Dementia Australia describes family disagreements around care and recommends seeking support. | Supports conversation structure and task coordination, not a specific care or legal decision. |
+| Existing coverage and gap | The site has caregiver self-care and care-option guides, but no page on family disagreements, task ownership or facilitating a calm discussion with the person involved. | Added the site's 72nd English caregiving guide with a short meeting agenda and task-sharing prompts. |
+| Safety boundary | The guide does not determine decision-making authority, assess capacity or settle medical, legal or financial questions. It keeps the person involved and directs jurisdiction-specific concerns to qualified local professionals. | General family communication guidance only. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,515 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/family-disagreements-about-dementia-care/` contains the meeting agenda and local-professional caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person with dementia, family member, caregiver, mediator, clinician, native-speaker or live-browser review. | Open; do not claim family or professional validation. |
