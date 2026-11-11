@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 71 / 100 completed**
+**Progress: 72 / 100 completed**
 
 ---
 
@@ -423,3 +423,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,508 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Browser inspection | Headless Chrome rendered the caregiving hub. The query "licensing authority" returned the driving guide; a no-match query showed an empty result message; clearing restored all 26 caregiving cards. | Search interaction was checked in the rendered page using browser input events. Playwright was unavailable; actual keyboard-only and screen-reader use were not checked. |
 | Not verified | No caregiver, person living with dementia, assistive-technology or user-comprehension review. | Open; do not claim a measured usability outcome. |
+
+## Round 72: choosing an adult day program with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes services and questions to ask about dementia training, activities, care, transportation, hours and fees. Its checklist recommends visiting and observing how staff interact with participants. | Supports an informed comparison, not a service or funding guarantee. |
+| Existing coverage and gap | The caregiver self-care guide mentions adult day care as a respite option, and activity pages offer group ideas, but the site had no guide for evaluating an adult day program. | Added the site's 66th English caregiving guide with a person-led visit and question list. |
+| Safety boundary | The guide does not promise that a center will suit everyone, interpret local coverage rules or make clinical assessments. It tells readers to confirm specific health support and emergency procedures with the center. | General selection information; local service details require direct confirmation. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,509 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/choosing-adult-day-program-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, adult-day staff, clinician, native-speaker or live-browser review. | Open; do not claim program assessment or user validation. |
