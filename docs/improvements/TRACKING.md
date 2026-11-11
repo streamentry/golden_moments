@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 72 / 100 completed**
+**Progress: 73 / 100 completed**
 
 ---
 
@@ -434,3 +434,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,509 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/choosing-adult-day-program-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, adult-day staff, clinician, native-speaker or live-browser review. | Open; do not claim program assessment or user validation. |
+
+## Round 73: emergency planning with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends planning with residential/day programs, sharing essential care and contact information with backup helpers, preparing supplies and accounting for mobility needs. FEMA highlights communication, medicines, chargers, transport and assistive devices. | Supports a person-specific preparedness plan, not a universal evacuation decision. |
+| Existing coverage and gap | The site has home-safety, caregiver backup, hospital-visit and adult-day guides, but no guide joining emergency contacts, transport, communication preferences, supplies and service plans. | Added the site's 67th English guide with a one-page plan checklist and small go-kit suggestions. |
+| Safety boundary | Shelter and evacuation choices depend on the emergency and local instructions. The guide points readers to local authorities and does not prescribe a route, destination, medicine supply or disaster response. | Emergency decisions remain with local authorities and qualified providers. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,510 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/emergency-planning-dementia/` contains the title, safety guidance and sudden-confusion text; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person, caregiver, emergency-services, care-facility, clinician, native-speaker or live-browser review. | Open; do not claim emergency-plan validation. |

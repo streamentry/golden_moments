@@ -185,6 +185,10 @@ The English Activities and Caregiving hubs now offer local guide filtering. Reco
 
 The English adult-day guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, adult-day staff or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 73 score update (2026-11-11)
+
+The emergency-planning guide adds caregiver information without changing the app or site's interaction design. Record checks and limitations in [TRACKING.md](TRACKING.md). No person or caregiver review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
