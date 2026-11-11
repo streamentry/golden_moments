@@ -4,7 +4,7 @@ seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
 description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
 section: caregiving
 order: 8
-updated: 2026-10-31
+updated: 2026-11-11
 summary: >-
   When someone with dementia keeps asking to go home, "home" often means a
   feeling of safety or a place from the past, not a building. Do not argue that
@@ -27,7 +27,7 @@ faq:
   - q: "Is it okay to say we will go home later?"
     a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
   - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
+    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If the person goes missing, check nearby safe places while contacting local police or emergency services promptly. Do not wait a fixed number of minutes before reporting."
   - q: "When should I call a doctor?"
     a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
 sources:
@@ -49,6 +49,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -143,7 +146,7 @@ Asking to go home can lead to wandering. The [Alzheimer's Association](https://w
 - A recent close-up photo, and a list of places they might go, such as a former home or workplace.
 - Tell trusted neighbors, and give them your number.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**If they go missing:** check nearby safe places while contacting local police or emergency services promptly. Do not wait a fixed number of minutes before reporting. A 2021 [U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) says law-enforcement agencies should not require a set waiting period; it also lists dementia-like symptoms as a high-risk concern. Local reporting procedures vary. Tell responders the person has dementia, share the last known location and a recent photo, and follow their directions. If another helper is available, ask them to stay by the phone. Do not search unsafe places alone.
 
 ## When should I call a doctor?
 
