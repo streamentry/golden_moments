@@ -15,6 +15,10 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../helpers/shipped_fonts.dart';
 
+const _photoAtLimitHint =
+    "The collection is full. To add one, open a photo's Options "
+    'and choose Remove this copy.';
+
 /// Replaces only the system picker and image decoder; storage, annotations
 /// and every screen are the real ones working on a real temporary directory.
 class _FakeImporter extends PhotoImporter {
@@ -195,9 +199,7 @@ void main() {
     expect(find.text('Options'), findsNWidgets(3));
     expect(find.text('3 of 24 photos'), findsOneWidget);
     expect(
-      find.text(
-        'The collection is full. To add one, open a photo's Options and choose Remove this copy.',
-      ),
+      find.text(_photoAtLimitHint),
       findsNothing,
     );
     expect(find.text('Play with these photos'), findsOneWidget);
@@ -327,16 +329,24 @@ void main() {
 
     await _tapText(tester, 'Choose photos');
 
-    const hint =
-        'The collection is full. To add one, open a photo's Options and choose Remove this copy.';
+    const hint = _photoAtLimitHint;
     expect(find.text('24 of 24 photos'), findsOneWidget);
     final scrollable = find.byType(Scrollable).first;
-    await tester.scrollUntilVisible(
-      find.text(hint),
-      200,
-      scrollable: scrollable,
-    );
-    expect(find.text(hint).hitTestable(), findsOneWidget);
+    final hintFinder = find.text(hint);
+    for (final delta in [-200.0, 200.0]) {
+      if (hintFinder.hitTestable().evaluate().isNotEmpty) break;
+      await tester
+          .scrollUntilVisible(
+            hintFinder,
+            delta,
+            scrollable: scrollable,
+            maxScrolls: 30,
+          )
+          .catchError((Object _) {});
+    }
+    await tester.ensureVisible(hintFinder.first);
+    await tester.pump();
+    expect(hintFinder.hitTestable(), findsOneWidget);
     final choose = find.widgetWithText(OutlinedButton, 'Choose photos');
     await tester.scrollUntilVisible(choose, 200, scrollable: scrollable);
     expect(choose.hitTestable(), findsOneWidget);
