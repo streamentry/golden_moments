@@ -101,6 +101,10 @@ The Today help copy now labels U.S.-based emergency and support numbers and give
 
 Today now offers a confirmed way to clear its local notes, using a native button group and the existing storage helper. This adds no external data flow. The site suite, TypeScript, build, checker, Python tests and metadata check pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); the new flow has no live usability review.
 
+## Round 52 score update (2026-11-11)
+
+The new caregiving guide turns opened home-safety sources into a room-by-room review and advice on choosing adaptations. It avoids one-size-fits-all instructions and keeps caregiver, participant and professional review open. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
