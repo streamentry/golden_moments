@@ -259,3 +259,10 @@ Application: existing caregiver self-care guidance points to respite resources b
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
 
 Application: the site covered home safety, living alone and in-home services but had no guide for comparing residential care. The new guide centers the person's wishes, observed daily care and local verification of fees and terms without giving legal or financial advice.
+
+## Round 70: medication safety and dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Medication Safety](https://www.alz.org/help-support/caregiving/safety/medication-safety) — opened. It recommends a current medicine list, asking doctors or pharmacists about interactions and side effects, using a routine when helpful, and checking before changing doses or crushing pills.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical attention and warns against self-diagnosis.
+
+Application: existing pages mention medication safety briefly, but none explains how to organize medicine information, ask a pharmacist about tools, share responsibility and preserve the person's independence. The new guide avoids dosing or treatment instructions.
