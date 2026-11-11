@@ -273,3 +273,10 @@ Application: existing pages mention medication safety briefly, but none explains
 - [W3C WAI: Cognitive Accessibility Objective — Help Users Find What They Need](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o2-find/) — opened. It recommends a clear structure and more than one way to locate relevant pages.
 
 Application: while each guide is directly linked from its section hub, the English Activities and Caregiving hubs contain 29 and 26 cards respectively, requiring scanning and scrolling. The new local filter searches titles, descriptions, summaries and key points without sending or saving the query.
+
+## Round 72: choosing an adult day program (read 2026-11-11)
+
+- [Alzheimer's Association: Adult Day Centers](https://www.alz.org/help-support/caregiving/care-options/adult-day-centers) — opened. It describes services that may vary by center, visiting and asking about staff training, activities, health needs, safety, hours, transportation and fees.
+- [Alzheimer's Association: Choosing an Adult Day Center](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-an-adult-day-center-ts.pdf) — opened; updated July 2024. It recommends visiting, observing interactions and asking about programs, transport, staff, personal care and cost.
+
+Application: the site mentions day programs as one respite option and has activity ideas for groups, but does not help a person and family compare a specific center. The new page asks families to evaluate fit and the person's comfort without claiming that a program suits everyone.
