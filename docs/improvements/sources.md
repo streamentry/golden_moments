@@ -407,3 +407,12 @@ Application: the site mentioned frustration, pain and aggression inside activity
 - [National Institute on Aging: Long-distance caregiving](https://www.nia.nih.gov/health/long-distance-caregiving) — search result seen; opening returned HTTP 405; not used.
 
 Application: the site had separate guides for living alone, in-home support, emergency planning and family disagreements, but no practical page on remote care roles and coordination. The new guide keeps the person involved, asks readers to confirm provider permission requirements, and avoids specific legal or health determinations.
+
+## Round 87: future-care conversation prompts (read 2026-11-11)
+
+- [Alzheimer's Association: Advanced Care Planning](https://www.alz.org/professionals/health-systems-medical-professionals/management/advanced-care-planning) — opened. Its communication section recommends starting early, using several small conversations and plain language, and learning the person's wishes, beliefs and values. Its U.S.-specific legal examples and documentation claims were not transferred.
+- [Alzheimer's Society: Planning ahead as a person with dementia](https://www.alzheimers.org.uk/get-support/living-with-dementia/planning-ahead) — opened. It says there is no single right pace, some people prefer to think alone before sharing, and people may choose to discuss some or none of the planning topics. UK-specific legal forms and terms were not transferred.
+- [National Institute on Aging: Caring for a Person With Alzheimer's Disease](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) — opened, advance-care-planning chapter. It describes meaningful conversations about the person's values and preferences, with the person involved while they can participate. Its list of legal documents is not reproduced.
+- [National Institute on Aging: Planning After a Dementia Diagnosis](https://www.nia.nih.gov/health/legal-and-financial-planning-people-alzheimers) — search result seen; opening returned HTTP 405; not used.
+
+Application: the existing after-diagnosis page said to discuss future wishes and ask local professionals, but did not offer sample questions, a permission-to-pause cue or a simple way to record the person's words for follow-up. The new section adds these steps without making medical choices or naming a universal legal document.

@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 86/100 in this branch** (Round 85 is in PR #228; this branch adds #86). Round 86 adds focused guidance for coordinating dementia care from a distance, with agreed roles, privacy and local support. Verification and review status are recorded in [TRACKING.md](TRACKING.md). No person, caregiver, clinician or native-speaker review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 87/100 in this branch** (Round 86 is in PR #229; this branch adds #87). Round 87 adds practical, low-pressure questions to help a person and family start planning future care while keeping decisions and formal documents with the person and local professionals. Verification and review status are recorded in [TRACKING.md](TRACKING.md). No person, caregiver, clinician or native-speaker review has been done.
 
 | Item | Status |
 | --- | --- |
@@ -171,3 +171,9 @@ Sources include the Alzheimer's Association and Alzheimer's Society. The guide l
 The site covered living alone, in-home help, emergency planning and family task disagreements, but lacked a focused guide for relatives or friends supporting someone from another city. This English guide helps the person choose who is involved, assigns practical remote tasks, sets an agreed update and backup plan, and points local health-information rules back to providers.
 
 Sources include the Alzheimer's Association and Family Caregiver Alliance. No person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 87: future-care conversation prompts (2026-11-11)
+
+The after-diagnosis guide recommended discussing future wishes but gave no practical prompts. It now offers optional, one-question-at-a-time starters, permission to pause, and a way to note the person's own words for later discussion. It does not prescribe treatments or substitute for local legal documents.
+
+Sources include the Alzheimer's Association, Alzheimer's Society and National Institute on Aging. No recently diagnosed person, caregiver, clinician, native-speaker or live-browser review has been done.
