@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 60 / 100 completed**
+**Progress: 61 / 100 completed**
 
 ---
 
@@ -302,3 +302,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | Node 24.22.2: `pnpm --dir site verify` passed, built 12,498 pages and reported 0 checker errors with 535 warnings; `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/oral-care-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, dentist, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 61: getting dressed with comfort and choice
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association and Dementia Australia recommend enough time, small clothing choices, short steps, familiar style and privacy. The Association handout covers comfortable shoes and clothing length; Dementia Australia says new dressing problems may need a doctor's review. NHS guidance says sudden confusion needs immediate medical help. | Supports practical, respectful daily-care guidance, not a medical assessment. |
+| Existing coverage and gap | The daily-routine guide mentions dressing as part of the day, but the site had no focused help for clothing choices, step-by-step support, privacy or newly difficult dressing. | Added the site's 56th English caregiving guide, centered on the person's style, comfort, consent and accepted help. |
+| Safety boundary | The guide does not recommend changing medication or forceful assistance. It suggests a doctor for new or quickly changing difficulty and does not prescribe a uniform or hygiene standard. | General information only; individual choices and comfort remain central. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,499 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/getting-dressed-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, clinician, occupational therapist, native-speaker or live-browser review. | Open; do not claim clinical, professional or user validation. |

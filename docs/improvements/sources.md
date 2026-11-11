@@ -180,3 +180,12 @@ Application: the Traditional Chinese warning-signs guide rendered this as `糖�
 - [Dementia Australia: Dental care](https://www.dementia.org.au/living-dementia/staying-healthy/dental-care) — opened. It recommends short, simple steps, supporting independence, explaining and asking permission, and consulting a dentist about oral problems.
 
 Application: the existing mealtime guide only mentions dental discomfort. The new caregiving guide covers consent, familiar routines, privacy, coordination among helpers, dentures and dental visits. It avoids reproducing hands-on techniques or giving treatment instructions.
+
+## Round 61: getting dressed with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Dressing and Grooming](https://www.alz.org/help-support/caregiving/daily-care/dressing-grooming) — opened. It recommends allowing time, simplifying choices, laying clothes out in order, comfortable clothing and flexibility about familiar outfits.
+- [Dementia Australia: Getting dressed](https://www.dementia.org.au/living-dementia/home-life/getting-dressed) — opened; updated 28 November 2025. It recommends supporting independence, asking what help is wanted, respecting privacy and clothing style, using small steps, and talking with a doctor about new difficulty.
+- [Alzheimer's Association: Dressing handout](https://www.alz.org/getmedia/3e31dbc7-baf0-4f18-9c1b-7a8779af3d17/alzheimers-dementia-dressing-ts.pdf) — opened; updated July 2024. It advises suitable clothing length to reduce tripping risk and comfortable, non-slip shoes.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened; last reviewed 28 May 2024. It says sudden confusion needs immediate medical help and warns readers not to self-diagnose.
+
+Application: the existing daily-routine guide mentions dressing but does not explain how to support it. The new guide offers practical choices, privacy, gentle step-by-step help, comfortable clothes and a professional check when new problems appear. It does not ask caregivers to impose a preferred style or change medication; sudden confusion is directed to urgent local medical help.
