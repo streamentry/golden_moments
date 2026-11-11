@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 69 / 100 completed**
+**Progress: 70 / 100 completed**
 
 ---
 
@@ -401,3 +401,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,507 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/choosing-residential-dementia-care/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, care-home staff, clinician, native-speaker or live-browser review. | Open; do not claim care-home assessment or user validation. |
+
+## Round 70: medication routines with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends a complete medicine list, doctor/pharmacist review, agreed routines and checking before crushing tablets or changing doses. | Supports safe organization and professional consultation, not medication advice. |
+| Existing coverage and gap | Existing pages mention medicines in home safety, doctor visits, living-alone support and behavior-change concerns, but the site had no focused guide to sharing medication responsibility and preserving independence. | Added the site's 65th English caregiving guide with routines, pharmacist questions, consent and clear escalation. |
+| Safety boundary | The page does not recommend medication, dose changes, crushing, missed-dose decisions or a universal storage method. It directs overdose suspicions to poison control or emergency help and sudden confusion to urgent care. | General information only; medication decisions stay with the prescriber or pharmacist. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,508 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/medication-support-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, pharmacist, prescriber, native-speaker or live-browser review. | Open; do not claim medical or user validation. |

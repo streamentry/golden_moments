@@ -173,6 +173,10 @@ The English in-home-care guide adds caregiver information without changing the a
 
 The English residential-care guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, care-home staff member or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 70 score update (2026-11-11)
+
+The English medication guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, pharmacist or prescriber review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
