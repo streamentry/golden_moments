@@ -272,3 +272,13 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | `pnpm --dir site verify`: 1,865 tests, 12,496 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
 | Render inspection | The built `/caregiving/bathing-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
 | Not verified | No caregiver, participant, occupational-therapist, clinician, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim personal-care or professional validation. |
+
+## Round 58: planning pet care with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society describes pets as companions and recommends routine cues, specific help from others and planning for future pet care. Dementia Australia includes pets among activities that may be personally meaningful. | A practical guide can support the person-pet relationship while planning for the animal's needs; it does not claim that pets treat dementia. |
+| Existing coverage and gap | Existing activity guides mention pet visits, soft animals and including pets in activities, but did not help a person and family arrange reliable pet care or backup support. | Added the site's 54th English guide with shared routines, chosen tasks, helpers and future planning. It avoids assuming the person must give up or continue caring for a pet. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,497 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | Built `/caregiving/pet-care-and-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No person living with dementia, caregiver, veterinarian, animal-welfare professional, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim the plan suits every person or animal. |
