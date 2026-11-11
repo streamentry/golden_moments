@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 81/100 in this branch** (Round 80 is in PR #223; this branch adds #81). Round 81 adds a guide for responding to suspicion without dismissing concerns or diagnosing the cause. Full site verification passes 1,869 tests, builds 12,516 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person with dementia, family caregiver or safeguarding professional review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 82/100 in this branch** (Round 81 is in PR #224; this branch adds #82). Round 81 adds a guide for responding to suspicion without dismissing concerns or diagnosing the cause. Full site verification passes 1,869 tests, builds 12,516 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person with dementia, family caregiver or safeguarding professional review has been done.
 
 | Item | Status |
 | --- | --- |
@@ -137,3 +137,11 @@ The sources mostly confirm what the app and site already do. The layout gap (G1)
 - Every factual claim about code cites a file and line in this branch at `2bdb35d`.
 - Contrast ratios were computed with the WCAG relative-luminance formula from the hex values in `DESIGN.md`.
 - Sources marked "search snippet only" are not used to justify a change.
+
+## Round 82: explain the family-photo limit (2026-11-11)
+
+W3C cognitive-accessibility guidance says visible labels should use familiar words and sit beside the relevant control. A developing WCAG 3 draft also proposes explaining why a control is disabled and how to enable it; this is a draft, not a conformance claim. Alzheimer's Society advises choosing tools that fit existing skills and offering support as someone learns.
+
+At 24 of 24 family photos, the app now explains that the collection is full and names the existing `Options` and `Remove this copy` actions before the disabled picker button. The text uses an English fallback in 66 non-English ARBs until translations are reviewed. No photo or storage behavior changed.
+
+Implementation commit: `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb`. The 65 complete ARB dictionaries, 106 Python tests, release metadata check and `git diff --check` pass against this source state. The regression test covers the full collection at 200% text on a small phone, but Flutter and Dart are unavailable in this environment, so the widget test, code generation, analyzer and Flutter design-system test were not run. No device, caregiver, participant or native-speaker review has been done.

@@ -73,6 +73,7 @@
   "photosIntro": "ਉਹ ਫੋਟੋਆਂ ਚੁਣੋ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਮਿਲ ਕੇ ਦੇਖਣਾ ਪਸੰਦ ਕਰੋਗੇ।",
   "photosPrivacyNote": "ਸਿਰਫ਼ ਚੁਣੀਆਂ ਹੋਈਆਂ ਫੋਟੋਆਂ ਹੀ ਇਸ ਐਪ ਵਿੱਚ ਕਾਪੀ ਹੁੰਦੀਆਂ ਹਨ। ਕੋਈ ਖਾਤਾ ਨਹੀਂ, ਪਰਿਵਾਰ ਨਾਲ ਸਿੰਕ ਕਰਨ ਵਾਲਾ ਕੋਈ ਸਰਵਰ ਨਹੀਂ। ਕਾਪੀਆਂ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੇ ਬੈਕਅੱਪ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀਆਂ ਹਨ।",
   "photosCount": "{max, plural, =1{1 ਫੋਟੋ ਵਿੱਚੋਂ {count}} other{{max} ਫੋਟੋਆਂ ਵਿੱਚੋਂ {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "ਇਨ੍ਹਾਂ ਫੋਟੋਆਂ ਨਾਲ ਖੇਡੋ",
   "photosNeedTwoShowHidden": "ਜੋੜੀ ਮਿਲਾਉਣ ਵਾਲੀ ਖੇਡ ਬਣਾਉਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਦੋ ਫੋਟੋਆਂ ਦਿਖਾਓ। {count, plural, other{ਲੁਕੀਆਂ ਹੋਈਆਂ: {count}।}}",
   "photosNeedTwoAdd": "ਜੋੜੀ ਮਿਲਾਉਣ ਵਾਲੀ ਖੇਡ ਬਣਾਉਣ ਲਈ ਘੱਟੋ-ਘੱਟ ਦੋ ਫੋਟੋਆਂ ਜੋੜੋ।",

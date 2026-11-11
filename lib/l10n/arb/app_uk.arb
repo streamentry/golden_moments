@@ -73,6 +73,7 @@
   "photosIntro": "Виберіть фото, які вам буде приємно переглядати разом.",
   "photosPrivacyNote": "У застосунок копіюються лише вибрані фото. Без облікового запису й без сервера для синхронізації з родиною. Копії можуть потрапити в резервну копію пристрою.",
   "photosCount": "{max, plural, =1{{count} з {max} фото} other{{count} з {max} фото}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Грати з цими фото",
   "photosNeedTwoShowHidden": "Покажіть принаймні два фото, щоб зіграти в пари. {count, plural, other{Сховано: {count}.}}",
   "photosNeedTwoAdd": "Додайте принаймні два фото, щоб зіграти в пари.",

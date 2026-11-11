@@ -15,6 +15,10 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../helpers/shipped_fonts.dart';
 
+const _photoAtLimitHint =
+    "The collection is full. To add one, open a photo's Options "
+    'and choose Remove this copy.';
+
 /// Replaces only the system picker and image decoder; storage, annotations
 /// and every screen are the real ones working on a real temporary directory.
 class _FakeImporter extends PhotoImporter {
@@ -194,6 +198,10 @@ void main() {
     await _tapText(tester, 'Choose photos');
     expect(find.text('Options'), findsNWidgets(3));
     expect(find.text('3 of 24 photos'), findsOneWidget);
+    expect(
+      find.text(_photoAtLimitHint),
+      findsNothing,
+    );
     expect(find.text('Play with these photos'), findsOneWidget);
 
     // Personalize the first photo: caption, description, favorite.
@@ -292,6 +300,49 @@ void main() {
       () => PhotoAnnotationStore(directory).load(),
     );
     expect(notes!.keys.every(after.contains), isTrue);
+  });
+
+  testWidgets('explains how to make room at 200% text on a small phone', (
+    tester,
+  ) async {
+    await tester.binding.setSurfaceSize(const Size(320, 568));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    final importer = _FakeImporter([
+      List<int>.generate(FamilyPhotoStore.maxPhotos, (index) => index + 1),
+    ]);
+    await tester.pumpWidget(
+      MaterialApp(
+        localizationsDelegates: AppLocalizations.localizationsDelegates,
+        theme: gmBuildTheme(),
+        builder: (context, child) => MediaQuery(
+          data: MediaQuery.of(context)
+              .copyWith(textScaler: const TextScaler.linear(2)),
+          child: child!,
+        ),
+        home: PhotoCollectionPage(
+          directoryProvider: () async => directory,
+          importer: importer,
+        ),
+      ),
+    );
+    await _settle(tester);
+
+    await _tapText(tester, 'Choose photos');
+
+    const hint = _photoAtLimitHint;
+    expect(find.text('24 of 24 photos'), findsOneWidget);
+    final scrollable = find.byType(Scrollable).first;
+    final choose = find.widgetWithText(OutlinedButton, 'Choose photos');
+    await tester.scrollUntilVisible(
+      choose,
+      200,
+      scrollable: scrollable,
+      maxScrolls: 30,
+    );
+    expect(choose, findsOneWidget);
+    expect(find.text(hint), findsOneWidget);
+    expect(tester.widget<OutlinedButton>(choose).onPressed, isNull);
+    expect(tester.takeException(), isNull);
   });
 
   testWidgets('a hidden photo never reaches the game', (tester) async {

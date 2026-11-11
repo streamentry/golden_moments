@@ -73,6 +73,7 @@
   "photosIntro": "Valitkaa kuvia, joita olisi mukava katsella yhdessä.",
   "photosPrivacyNote": "Vain valitut kuvat kopioidaan tähän sovellukseen. Ei tiliä eikä perheen synkronointipalvelinta. Kopiot voivat sisältyä laitteen varmuuskopioon.",
   "photosCount": "{max, plural, =1{{count} / 1 kuvasta} other{{count} / {max} kuvasta}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Pelaa näillä kuvilla",
   "photosNeedTwoShowHidden": "Näyttäkää vähintään kaksi kuvaa, niin kuvaparipeli syntyy. {count, plural, other{{count} piilotettu.}}",
   "photosNeedTwoAdd": "Lisätkää vähintään kaksi kuvaa, niin kuvaparipeli syntyy.",

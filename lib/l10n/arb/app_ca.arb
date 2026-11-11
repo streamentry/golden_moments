@@ -73,6 +73,7 @@
   "photosIntro": "Triï fotos que vulguin gaudir mirant plegats.",
   "photosPrivacyNote": "Només es copien a aquesta aplicació les fotos que vostè selecciona. No hi ha compte ni servidor de sincronització familiar. Les còpies poden quedar incloses a la còpia de seguretat del dispositiu.",
   "photosCount": "{max, plural, =1{{count} d’1 foto} other{{count} de {max} fotos}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Jugar amb aquestes fotos",
   "photosNeedTwoShowHidden": "Mostri almenys dues fotos per fer un joc de parelles. {count, plural, other{{count} amagades.}}",
   "photosNeedTwoAdd": "Afegeixi almenys dues fotos per fer un joc de parelles.",

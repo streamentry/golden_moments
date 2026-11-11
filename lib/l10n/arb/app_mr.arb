@@ -73,6 +73,7 @@
   "photosIntro": "एकत्र पाहायला आवडतील असे फोटो निवडा.",
   "photosPrivacyNote": "फक्त निवडलेले फोटो या अॅपमध्ये कॉपी केले जातात. कोणतेही खाते किंवा कुटुंब-सिंक सर्व्हर नाही. प्रती आपल्या डिव्हाइस बॅकअपमध्ये समाविष्ट असू शकतात.",
   "photosCount": "{max, plural, =1{1 पैकी {count} फोटो} other{{max} पैकी {count} फोटो}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "या फोटोंसह खेळा",
   "photosNeedTwoShowHidden": "जुळवण्याचा खेळ तयार करण्यासाठी किमान दोन फोटो दाखवा. {count, plural, other{लपवलेले: {count}.}}",
   "photosNeedTwoAdd": "जुळवण्याचा खेळ तयार करण्यासाठी किमान दोन फोटो जोडा.",

@@ -7,7 +7,7 @@ Updated 2026-10-18 (senior-first R0/R1 continuation). Scope: US English, local-f
 | Canonical title/subtitle/keywords and exports | Implemented; metadata CI passed |
 | Screenshot storyboard and release/claim checks | Implemented; genuine captures pending |
 | Four-tile visible-picture starter | Implemented; focused Flutter tests passed, device review pending |
-| Selected family photos and bounded local copies | Implemented; storage/normalization tests passed, native picker and upgrade QA pending |
+| Selected family photos and bounded local copies | Implemented; storage/normalization tests passed, native picker and upgrade QA pending. Round 82 explains how to make room at 24 photos; its 200% widget test is written but awaits Flutter SDK execution. |
 | Shared viewing and optional prompts | Implemented; caregiver/device review pending |
 | Included picture library with no download flow | 121 bundled images; local first-launch/browser and all-pack tests passed |
 | Resolved dependency lockfile | Committed by SDK resolver, not hand-edited |

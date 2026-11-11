@@ -73,6 +73,7 @@
   "photosIntro": "একেলগে চাই ভাল পোৱা ফটোবোৰ বাছক।",
   "photosPrivacyNote": "কেৱল বাছনি কৰা ফটোবোৰহে এই এপত কপি কৰা হয়। কোনো একাউণ্ট বা পৰিয়ালৰ ছিংক চাৰ্ভাৰ নাই। প্ৰতিলিপিবোৰ আপোনাৰ ডিভাইচৰ বেকআপত অন্তৰ্ভুক্ত হ’ব পাৰে।",
   "photosCount": "{max, plural, =1{1টা ফটোৰ ভিতৰত {count}টা} other{{max}টা ফটোৰ ভিতৰত {count}টা}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "এই ফটোবোৰেৰে খেলক",
   "photosNeedTwoShowHidden": "মিলোৱা খেল বনাবলৈ অতি কমেও দুটা ফটো দেখুৱাওক। {count, plural, other{{count}টা লুকুৱাই ৰখা হৈছে।}}",
   "photosNeedTwoAdd": "মিলোৱা খেল বনাবলৈ অতি কমেও দুটা ফটো যোগ কৰক।",

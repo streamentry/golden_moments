@@ -73,6 +73,7 @@
   "photosIntro": "Birlikte bakmaktan keyif alacağınız fotoğrafları seçin.",
   "photosPrivacyNote": "Bu uygulamaya yalnızca seçtiğiniz fotoğraflar kopyalanır. Hesap ya da aile eşitleme sunucusu yoktur. Kopyalar cihaz yedeğinize dahil olabilir.",
   "photosCount": "{max, plural, =1{{count} / 1 fotoğraf} other{{count} / {max} fotoğraf}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Bu fotoğraflarla oyna",
   "photosNeedTwoShowHidden": "Eşleştirme oyunu için en az iki fotoğrafı gösterin. {count, plural, other{Gizli fotoğraf sayısı: {count}.}}",
   "photosNeedTwoAdd": "Eşleştirme oyunu için en az iki fotoğraf ekleyin.",

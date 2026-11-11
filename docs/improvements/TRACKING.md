@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 81 / 100 completed**
+**Progress: 82 / 100 completed**
 
 ---
 
@@ -63,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 47 | *Next in queue* | Pending |
-| 48–100 | Planned one by one | Pending |
+| 83 | *Next in queue* | Pending |
+| 84–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -532,3 +532,16 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,516 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | Static output at `/caregiving/when-someone-with-dementia-is-suspicious/` includes the fact-checking, safeguarding and urgent-care guidance; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, clinician, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 82: explain how to make room at the photo limit (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | W3C COGA's visible-label pattern says use familiar words next to the relevant control and gives an early-stage dementia example. W3C's WCAG 3 “Disabled controls explained” is explicitly an incomplete, developing draft; it proposes explaining why a control is disabled and how to enable it. Alzheimer's Society says memory aids should fit existing skills and notes that people may need support learning them. | Supports a visible, plain explanation. The app change is a usability inference, not a WCAG conformance claim or clinical benefit. |
+| Existing gap | At 24 of 24 copies, `Choose photos` was disabled. The count showed capacity, but did not tell the person what action makes the button available again. | The user had to infer the removal path from the photo cards. |
+| Change | On reaching the 24-photo limit, show “The collection is full. To add one, open a photo's Options and choose Remove this copy.” before the disabled picker button. The hint is absent below the limit. | Uses existing controls and the app-owned-copy wording. Import, removal, storage and network behavior are unchanged. |
+| Localization | Added the key to all 67 ARBs so Flutter's translation checker has complete dictionaries. | The English phrase is a fallback in 66 non-English ARBs; no native-speaker review. |
+| Regression test | Added a full-cap journey test that checks the count, hint, disabled chooser and no layout exception at 200% text on a 320 × 568 logical-pixel test surface. The existing three-photo journey checks that the hint is absent below the limit. | Written; not run because Flutter and Dart are unavailable in this environment. |
+| Implementation commit | `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb` | Source state for the available checks below. Flutter-specific checks remain unrun. |
+| Available checks | `scripts/check_arb.py` on 65 complete locale dictionaries; `python3 -m unittest discover -s tests -p 'test_*.py'`; `python3 scripts/release_metadata.py --check`; `git diff --check`. | 65 dictionaries pass; 106 Python tests pass; metadata and diff checks pass. |
+| Not verified | Flutter generation, widget test, analyzer, design-system Flutter test, simulator/device, caregiver/person or native-speaker review. | Open. Do not claim device or user validation. |
