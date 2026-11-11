@@ -89,6 +89,10 @@ Photo Pairs now shows one 14-word setup reminder before photo selection. Existin
 
 The Today choice board keeps two pictured options and adds a familiar-music guide link beside one game. It reuses the existing layout, picture art and English-only tool copy. The site suite, TypeScript, build, checker, Python tests and metadata check pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); the actual interaction and caregiver/person response remain unverified.
 
+## Round 49 score update (2026-11-11)
+
+Today notes now accept one optional time band. Old records remain valid, and the new value stays in the existing local-only note. The site tests, TypeScript, build, checker, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate score or live usability result is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.

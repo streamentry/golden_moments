@@ -5,6 +5,13 @@ import { SITUATION_IDS, type SituationId } from './situations';
  * localStorage: nothing is sent anywhere, and clearing site data removes them.
  */
 export type Outcome = 'helped' | 'not_really' | 'not_tried';
+export const TIME_OF_DAY_OPTIONS = ['morning', 'afternoon', 'evening'] as const;
+export type TimeOfDay = (typeof TIME_OF_DAY_OPTIONS)[number];
+export const TIME_OF_DAY_LABELS: Record<TimeOfDay, string> = {
+  morning: 'Morning',
+  afternoon: 'Afternoon',
+  evening: 'Evening',
+};
 
 export interface Note {
   id: string;
@@ -12,6 +19,8 @@ export interface Note {
   date: string;
   situation: SituationId;
   outcome: Outcome;
+  /** Optional broad time band, entered by the caregiver. */
+  timeOfDay?: TimeOfDay;
   /** Optional words of the caregiver's own, at most MAX_TEXT characters. */
   text: string;
 }
@@ -31,19 +40,38 @@ type WriteStorage = Pick<Storage, 'setItem'>;
 
 const DATE = /^\d{4}-\d{2}-\d{2}$/;
 
-function isNote(value: unknown): value is Note {
-  if (typeof value !== 'object' || value === null) return false;
+function parseNote(value: unknown): Note | undefined {
+  if (typeof value !== 'object' || value === null) return undefined;
   const n = value as Record<string, unknown>;
-  return (
-    typeof n.id === 'string' &&
-    typeof n.date === 'string' &&
-    DATE.test(n.date) &&
-    typeof n.situation === 'string' &&
-    (SITUATION_IDS as readonly string[]).includes(n.situation) &&
-    typeof n.outcome === 'string' &&
-    (OUTCOMES as readonly string[]).includes(n.outcome) &&
-    typeof n.text === 'string'
-  );
+  if (
+    typeof n.id !== 'string' ||
+    typeof n.date !== 'string' ||
+    !DATE.test(n.date) ||
+    typeof n.situation !== 'string' ||
+    !(SITUATION_IDS as readonly string[]).includes(n.situation) ||
+    typeof n.outcome !== 'string' ||
+    !(OUTCOMES as readonly string[]).includes(n.outcome) ||
+    typeof n.text !== 'string'
+  ) {
+    return undefined;
+  }
+
+  const timeOfDay =
+    n.outcome !== 'not_tried' &&
+    typeof n.timeOfDay === 'string' &&
+    (TIME_OF_DAY_OPTIONS as readonly string[]).includes(n.timeOfDay)
+      ? (n.timeOfDay as TimeOfDay)
+      : undefined;
+
+  const note = { ...n } as unknown as Note;
+  note.id = n.id;
+  note.date = n.date;
+  note.situation = n.situation as SituationId;
+  note.outcome = n.outcome as Outcome;
+  note.text = n.text;
+  if (timeOfDay) note.timeOfDay = timeOfDay;
+  else delete note.timeOfDay;
+  return note;
 }
 
 /** Saved notes, keeping only well-formed entries; anything else reads as none. */
@@ -51,15 +79,23 @@ export function parseNotes(raw: string | null): Note[] {
   if (!raw) return [];
   try {
     const data: unknown = JSON.parse(raw);
-    return Array.isArray(data) ? data.filter(isNote).slice(0, MAX_NOTES) : [];
+    return Array.isArray(data)
+      ? data.map(parseNote).filter((note): note is Note => note !== undefined).slice(0, MAX_NOTES)
+      : [];
   } catch {
     return [];
   }
 }
 
-/** A new list with `note` first, its text trimmed and the oldest notes dropped past MAX_NOTES. */
+/** Adds a note first, trims its text, and drops a time band when the activity wasn't tried. */
 export function addNote(notes: readonly Note[], note: Note): Note[] {
-  return [{ ...note, text: note.text.trim().slice(0, MAX_TEXT) }, ...notes].slice(0, MAX_NOTES);
+  const { timeOfDay, ...rest } = note;
+  const entry = {
+    ...rest,
+    ...(note.outcome !== 'not_tried' && timeOfDay ? { timeOfDay } : {}),
+    text: note.text.trim().slice(0, MAX_TEXT),
+  };
+  return [entry, ...notes].slice(0, MAX_NOTES);
 }
 
 export function removeNote(notes: readonly Note[], id: string): Note[] {
