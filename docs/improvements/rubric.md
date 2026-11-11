@@ -197,6 +197,10 @@ The family conversation guide adds caregiver information without changing the ap
 
 The English art-project guide now follows the site's person-first wording rule in its H1, search title, summary and FAQ. Record checks and limitations in [TRACKING.md](TRACKING.md). No person-with-dementia, caregiver or native-speaker review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
 
+## Round 76 score update (2026-11-11)
+
+The post-diagnosis guide adds a starting point for people living with dementia and families without making treatment, legal or financial recommendations. Record checks and limitations in [TRACKING.md](TRACKING.md). No person recently diagnosed, caregiver or professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
