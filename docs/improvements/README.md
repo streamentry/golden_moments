@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 67/100 in this branch** (#66 is the base in PR #209; this branch adds #67). Round 67 adds practical hydration support based on Alzheimer's Association and Dementia Australia advice. Full site verification passes 1,865 tests, builds 12,505 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person, caregiver, dietitian or clinician review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; site-only rounds are recorded with local evidence, not presented as new aggregate measurements. **Improvement count: 68/100 in this branch** (#67 is the base in PR #210; this branch adds #68). Round 68 adds a guide to choosing in-home support based on Alzheimer's Association and Dementia Australia advice. Full site verification passes 1,865 tests, builds 12,506 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests and release metadata checks pass on Node 24.22.2. No person, caregiver, provider or clinician review has been done.
 
 | Item | Status |
 | --- | --- |
