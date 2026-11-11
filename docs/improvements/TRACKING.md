@@ -156,3 +156,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Tests | `TodaySuggestions.test.ts`: 2 pass, checking the first step, collapsed alternatives and empty input. `situations.test.ts`: 5 pass. `pnpm --dir site test`: 1,857 pass. `pnpm --dir site exec tsc --noEmit`: pass. | Pass. |
 | Full checks | `pnpm --dir site verify`: 1,857 tests pass, 12,491 pages build, `check-site` reports 0 errors and 536 warnings. `python3 -m unittest discover -s tests -p 'test_*.py'`: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Pass. |
 | Not verified | No interactive browser or caregiver/person check. The Playwright wrapper is blocked by the `npx` package guard; Astro dev exits with `SKIP_FORMAT`. Today remains an English-only page. | Open; tests do not establish that the layout is easier for caregivers. |
+
+## Round 47: a comfortable setup cue before photo selection
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society advises reducing clutter and background noise, or moving somewhere quieter if that helps concentration. Dementia Australia recommends a tidy, quieter activity space, good but not too-bright light, and comfortable seating. | General activity guidance, not a clinical claim. |
+| Existing coverage and gap | The site guide "How to Play Games with Someone Who Has Dementia" already covers room setup. The Photo Pairs page showed the photo picker and photo-comfort reminder but no setup cue. | The gap was point-of-use placement, not missing long-form guidance. |
+| Change | Photo Pairs now shows "Before you begin, try a quiet, tidy spot with good light and comfortable seating." before photos are selected. The cue disappears after selection. Other languages use the existing English fallback until reviewed translations exist. | No new control, storage, network request or telemetry. |
+| Tests | `PhotoPairs.test.ts`: 2 focused SSR/fallback tests pass. `pnpm --dir site verify`: 1,859 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass after `astro sync`. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Render inspection | The built `/games/photo-pairs/` HTML contains the setup cue as a visible paragraph before the photo-comfort note and picker. | Static output checked. |
+| Not verified | Playwright CLI is blocked by the local `npx` package-age guard; no browser CLI is installed. No live small-screen/large-text inspection, caregiver/person feedback, native-speaker review or device check. | Open; do not claim usability validation. |

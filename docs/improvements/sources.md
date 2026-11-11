@@ -1,4 +1,4 @@
-# Sources learned from (updated 2026-11-10)
+# Sources learned from (updated 2026-11-11)
 
 Purpose: the dementia, Alzheimer's and caregiver material this project learns from. Each entry says what was **read** (fetched and checked) and what was only **seen in search results**, because a search snippet is not evidence. Where a source could not be opened, that is stated.
 
@@ -9,11 +9,13 @@ Confidence: **A** = primary source read in full for the relevant point; **B** = 
 | Source | Read? | What it says that matters here | Confidence |
 | --- | --- | --- | --- |
 | [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) | Read | Keep to activities the person has always enjoyed and adjust them to current skills. Focus on enjoyment, not achievement. Build on remaining skills. Tie activities to past work and routines. Schedule for the time of day that works. Break tasks into single steps and help with the hard parts. Do not force participation, criticize, or give several directions at once. Signs to end or change an activity: shrinking attention, rising irritability or anxiety, distraction, refusal. | A |
+| [Alzheimer's Society: Tips for keeping active and involved](https://www.alzheimers.org.uk/get-support/living-with-dementia/keeping-active-dementia-practical-tips) | Read 2026-11-11 | Suggests reducing clutter and background noise, or moving to a quieter place if that helps a person focus. Also advises allowing time and keeping activities simple. | A |
+| [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) | Read 2026-11-11 | Alongside the previously recorded advice to start an activity together and use one step at a time, recommends a tidy, quieter space, good but not too-bright lighting, and comfortable seating. | A |
 | [Penn State Extension: meaningful engagement](https://extension.psu.edu/meaningful-engagement-for-people-with-dementia) | Search snippet only | Consider former occupation and what made the person happy; keep activities short and simple. | C |
 | [Healthline: activities at home](https://www.healthline.com/health/dementia/activities-for-dementia-patients-at-home) | Search snippet only | Group activity can improve engagement and mood (cites a 2018 study). | C |
 | [BrightFocus: activities](https://www.brightfocus.org/alzheimers/article/activities-get-alzheimers-and-dementia-patient-engaged) | Fetch failed (not checked) | Not verified. | — |
 
-Our existing guide [How to Play Games with Someone Who Has Dementia](../../site/src/content/guides/caregiving/how-to-play-together.md) already cites the Alzheimer's Association page and states the same principles. Keep this table in sync with that guide rather than duplicating it.
+Our existing guide [How to Play Games with Someone Who Has Dementia](../../site/src/content/guides/caregiving/how-to-play-together.md) already covers room setup and distraction reduction. Round 47 adds a short reminder at the Photo Pairs photo picker; it does not replace that fuller guidance.
 
 ## Digital and interface design for people with dementia
 

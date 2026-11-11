@@ -77,6 +77,9 @@ already have all 83 drawing names; it is not used by the browser games.
   needs all six; Japanese, Korean, Chinese, Thai, Vietnamese and Indonesian
   need only `other`). The test checks this with `Intl.PluralRules`.
 - `photoPairs.intro`: text between `**` is shown in bold. Keep one bold run.
+- `photoPairs.setupHint` is an optional, point-of-use reminder to reduce
+  distractions and make the viewing space comfortable. It is shown before
+  photos are selected and uses the English fallback until translated.
 - `photoPairs.atLeastOne` asks for a valid photo if none could be loaded;
   `atLeastTwo` explains that matching needs a second photo after one is chosen.
 - `photoPairs.photoComfort` is a short reminder to follow the person's response
