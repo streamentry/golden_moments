@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 66 / 100 completed**
+**Progress: 67 / 100 completed**
 
 ---
 
@@ -368,3 +368,14 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,504 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
 | Render inspection | The built `/caregiving/pain-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
 | Not verified | No person, caregiver, physician, pain specialist, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 67: helping someone with dementia drink enough
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends offering small cups of fluid throughout the day and foods with high water content. Dementia Australia suggests accessible familiar drinks. The Association warns against limiting fluids to prevent incontinence. | Supports gentle drink offers, not a universal fluid target. |
+| Existing coverage and gap | The mealtime guide covers the eating environment and the continence guide warns against fluid restriction, but the site had no focused guide to supporting everyday drinking choices and routines. | Added the site's 62nd English caregiving guide with practical offers, fluid-safety cautions and professional referral. |
+| Safety boundary | The guide does not set fluid amounts, restrict drinking, prescribe treatment or alter drink texture. It directs new swallowing difficulty to a health professional and sudden confusion to urgent help. | General information only; individual fluid plans remain with health professionals. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,505 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/drinking-enough-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, dietitian, clinician, native-speaker or live-browser review. | Open; do not claim medical or user validation. |

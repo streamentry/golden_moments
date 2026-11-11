@@ -231,3 +231,13 @@ Application: the website had a routine doctor-visit guide but no hospital or eme
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and warns against self-diagnosis.
 
 Application: several caregiving guides already mention pain as one possible cause of a behavior change. The new page gathers respectful questions, observable changes and professional follow-up without using behavior as a diagnosis or recommending medication.
+
+## Round 67: drinking enough with dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Food & Eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating) — opened. It recommends offering small cups of water or other liquids throughout the day and foods with high water content.
+- [Dementia Australia: Nutrition and dementia](https://www.dementia.org.au/living-dementia/staying-healthy/nutrition-and-dementia) — opened. It describes how memory and motivation may affect drinking and suggests accessible water and water-rich fruit.
+- [Alzheimer's Association: Incontinence](https://www.alz.org/help-support/caregiving/daily-care/incontinence) — opened. It warns against limiting fluids to prevent accidents because this may contribute to dehydration and other problems.
+- [Alzheimer's Association: Preparing for Emergencies](https://www.alz.org/help-support/caregiving/safety/in-a-disaster) — opened. Its heat guidance lists possible dehydration signs and says to seek medical care when symptoms arise.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help.
+
+Application: the site mentioned fluids in mealtime, continence and fasting pages but did not offer a focused daily hydration guide. The new page suggests familiar drinks and routines without setting a fluid target or prescribing treatment.
