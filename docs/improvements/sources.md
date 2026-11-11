@@ -266,3 +266,10 @@ Application: the site covered home safety, living alone and in-home services but
 - [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical attention and warns against self-diagnosis.
 
 Application: existing pages mention medication safety briefly, but none explains how to organize medicine information, ask a pharmacist about tools, share responsibility and preserve the person's independence. The new guide avoids dosing or treatment instructions.
+
+## Round 71: search on long English guide hubs (read 2026-11-11)
+
+- [W3C WAI: Cognitive Accessibility Design Pattern — Provide Search](https://www.w3.org/WAI/WCAG2/supplemental/patterns/o2p06-search/) — opened. It says search can help people find content without navigating site menus and notes that search is less important on small sites where every page is within two clicks.
+- [W3C WAI: Cognitive Accessibility Objective — Help Users Find What They Need](https://www.w3.org/WAI/WCAG2/supplemental/objectives/o2-find/) — opened. It recommends a clear structure and more than one way to locate relevant pages.
+
+Application: while each guide is directly linked from its section hub, the English Activities and Caregiving hubs contain 29 and 26 cards respectively, requiring scanning and scrolling. The new local filter searches titles, descriptions, summaries and key points without sending or saving the query.

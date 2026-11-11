@@ -20,6 +20,14 @@ const t = ui(lang);
 const meta = t.sections[section];
 const href = (g: { lang: string; id: string }) => localePath(g.lang, `/${g.id}/`);
 const entries = await sectionGuides(lang, section);
+const enableGuideSearch = lang === 'en' && entries.length >= 20 && (section === 'activities' || section === 'caregiving');
+const guideSearchLabel = section === 'activities' ? 'Search activity guides' : 'Search caregiving guides';
+const guideSearchText = (g: (typeof entries)[number]) => [
+  g.entry.data.title,
+  g.entry.data.description,
+  g.entry.data.summary,
+  ...(g.entry.data.keyPoints ?? []),
+].join(' ');
 const crumbs = [{ href: localePath(lang, `/${section}/`), label: meta.label }];
 const [lead, ...rest] = entries;
 const itemList = {
@@ -45,24 +53,111 @@ const itemList = {
       )
     }
     {
-      lead && (
-        <a class="lead-guide" href={href(lead)} lang={lead.lang !== lang ? 'en' : undefined}>
-          <span class="eyebrow">{t.guide.startHere}</span>
-          <span class="lead-guide__title">{lead.entry.data.title}</span>
-          <span class="lead-guide__text">{lead.entry.data.summary}</span>
-          <span class="card__more">{t.cards.readGuide} →</span>
-        </a>
+      enableGuideSearch && (
+        <section class="guide-search" role="search" aria-labelledby="guide-search-label" data-guide-search hidden>
+          <label class="guide-search__label" id="guide-search-label" for="guide-search-input">{guideSearchLabel}</label>
+          <input
+            id="guide-search-input"
+            type="search"
+            aria-controls="guide-index-results"
+            aria-describedby="guide-search-help"
+            autocomplete="off"
+            data-guide-search-input
+          />
+          <p class="guide-search__help" id="guide-search-help">Search guide titles, summaries and key ideas.</p>
+          <p class="guide-search__status" data-guide-search-status role="status" aria-live="polite" aria-atomic="true"></p>
+        </section>
       )
     }
-    <ul class="card-grid">
-      {rest.map((g) => <li><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} headingLevel="h2" lang={lang} /></li>)}
-    </ul>
+    <div class="guide-index-results" id="guide-index-results">
+      {
+        lead && (
+          <a class="lead-guide" href={href(lead)} lang={lead.lang !== lang ? 'en' : undefined} data-guide-search-item={enableGuideSearch ? '' : undefined} data-search-text={enableGuideSearch ? guideSearchText(lead) : undefined}>
+            <span class="eyebrow">{t.guide.startHere}</span>
+            <span class="lead-guide__title">{lead.entry.data.title}</span>
+            <span class="lead-guide__text">{lead.entry.data.summary}</span>
+            <span class="card__more">{t.cards.readGuide} →</span>
+          </a>
+        )
+      }
+      <ul class="card-grid">
+        {rest.map((g) => <li data-guide-search-item={enableGuideSearch ? '' : undefined} data-search-text={enableGuideSearch ? guideSearchText(g) : undefined}><GuideCard href={href(g)} title={g.entry.data.title} text={g.entry.data.description} headingLevel="h2" lang={lang} /></li>)}
+      </ul>
+    </div>
     <PlayCta lang={lang} />
     <AppCta placement="section" lang={lang} />
   </div>
 </BaseLayout>
 
+<script>
+  import { matchesGuideSearch } from '../lib/guide-search';
+
+  const search = document.querySelector<HTMLElement>('[data-guide-search]');
+  const input = search?.querySelector<HTMLInputElement>('[data-guide-search-input]');
+  const status = search?.querySelector<HTMLElement>('[data-guide-search-status]');
+  const items = Array.from(document.querySelectorAll<HTMLElement>('#guide-index-results [data-guide-search-item]'));
+
+  if (search && input && status && items.length > 0) {
+    search.hidden = false;
+    input.addEventListener('input', () => {
+      const query = input.value;
+      let visibleCount = 0;
+
+      for (const item of items) {
+        const matches = matchesGuideSearch(item.dataset.searchText ?? '', query);
+        item.hidden = !matches;
+        if (matches) visibleCount += 1;
+      }
+
+      status.textContent = query.trim()
+        ? visibleCount === 0
+          ? 'No guides found. Try a different word.'
+          : `${visibleCount} ${visibleCount === 1 ? 'guide' : 'guides'} found.`
+        : '';
+    });
+  }
+</script>
+
 <style>
+  .guide-search {
+    max-width: var(--content-max);
+    margin-bottom: var(--space-xl);
+  }
+  .guide-search__label {
+    display: block;
+    margin-bottom: var(--space-sm);
+    color: var(--gm-on-surface);
+    font-size: var(--text-md);
+    font-weight: 700;
+  }
+  .guide-search input {
+    display: block;
+    width: 100%;
+    min-height: var(--target-primary);
+    padding: 12px var(--space-md);
+    border: 2px solid var(--gm-outline);
+    border-radius: var(--radius-md);
+    background: var(--gm-surface-raised);
+    color: var(--gm-on-surface);
+    font-size: var(--text-lg);
+  }
+  .guide-search input:focus-visible {
+    outline: 3px solid var(--gm-primary);
+    outline-offset: 3px;
+    border-radius: var(--radius-md);
+  }
+  .guide-search__help,
+  .guide-search__status {
+    margin: var(--space-sm) 0 0;
+    color: var(--gm-on-surface-variant);
+    font-size: var(--text-sm);
+  }
+  .guide-search__status:empty {
+    display: none;
+  }
+  .guide-index-results [hidden] {
+    display: none !important;
+  }
   .today-link {
     font-size: var(--text-lg);
     margin-bottom: var(--space-lg);
@@ -127,6 +222,20 @@ const itemList = {
     }
   }
   @media (prefers-contrast: more) {
+    .guide-search__label,
+    .guide-search__help,
+    .guide-search__status {
+      color: #000000;
+    }
+    .guide-search input {
+      border: 2px solid #000000;
+      background: #FFFFFF;
+      color: #000000;
+    }
+    .guide-search input:focus-visible {
+      outline: 4px solid #000000;
+      outline-offset: 3px;
+    }
     .lead-guide {
       border: 2px solid #000000;
       background: #FFFFFF;
@@ -161,6 +270,20 @@ const itemList = {
     }
   }
   @media (forced-colors: active) {
+    .guide-search__label,
+    .guide-search__help,
+    .guide-search__status {
+      color: CanvasText;
+    }
+    .guide-search input {
+      border: 2px solid FieldText;
+      background: Field;
+      color: FieldText;
+    }
+    .guide-search input:focus-visible {
+      outline: 3px solid Highlight;
+      outline-offset: 3px;
+    }
     .lead-guide {
       border: 2px solid CanvasText;
     }
@@ -191,6 +314,9 @@ const itemList = {
     }
   }
   @media print {
+    .guide-search {
+      display: none !important;
+    }
     .lead-guide {
       break-inside: avoid;
       page-break-inside: avoid;
