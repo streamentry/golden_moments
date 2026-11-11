@@ -65,7 +65,7 @@ Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has ideas for 
 
 A diagnosis alone does not tell you what a person can decide or how they want to take part. Ask the person directly. Give them time, explain the choice in plain language and ask what support would make the conversation easier. Some choices may be easier to discuss in a quiet setting or across more than one conversation.
 
-If the person wants to plan for future health care, finances or living arrangements, start with what matters to them and who they trust. The [Dementia Australia planning guide](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) recommends discussing wishes with trusted people and relevant professionals. Legal documents and decision-making rules differ by location, so ask a qualified local professional before relying on a general guide.
+If the person wants to plan for future health care, finances or living arrangements, start with what matters to them and who they trust. The [Dementia Australia planning guide](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) recommends discussing wishes with trusted people and relevant professionals. Legal documents and decision-making rules differ by location, so ask a qualified local professional before relying on a general guide. For everyday bill help and scam concerns, see our [guide to managing money with dementia](/caregiving/managing-money-with-dementia/).
 
 Do not make assumptions based only on the diagnosis or on one conversation. The person's preferences may change, and they can ask to pause or return to a topic later. Keep them involved in decisions that affect them as much as they want.
 

@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 82 / 100 completed**
+**Progress: 83 / 100 completed**
 
 ---
 
@@ -63,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 83 | *Next in queue* | Pending |
-| 84–100 | Planned one by one | Pending |
+| 84 | *Next in queue* | Pending |
+| 85–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -545,3 +545,15 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Implementation commit | `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb` | Source state for the available checks below. Flutter-specific checks remain unrun. |
 | Available checks | `scripts/check_arb.py` on 65 complete locale dictionaries; `python3 -m unittest discover -s tests -p 'test_*.py'`; `python3 scripts/release_metadata.py --check`; `git diff --check`. | 65 dictionaries pass; 106 Python tests pass; metadata and diff checks pass. |
 | Not verified | Flutter generation, widget test, analyzer, design-system Flutter test, simulator/device, caregiver/person or native-speaker review. | Open. Do not claim device or user validation. |
+
+
+## Round 83: support money decisions and respond to scams (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society recommends discussing money support with the person and keeping them involved. Alzheimer's Association advises pausing, verifying unexpected requests and contacting a known bank channel. CFPB distinguishes informal bill review, trusted contacts and transaction authority; its trusted-contact explanation says the contact does not gain account access. FTC gives prompt payment-provider steps after a scam and warns against sharing verification codes with unexpected contacts. ACL explains U.S. Adult Protective Services and emergency reporting. | Supports person-led help, careful checks and clear role boundaries. No legal, financial-recovery or health outcome is promised. |
+| Existing coverage and gap | The after-diagnosis page says to seek local professional advice for financial planning, and the suspicion page advises checking missing items. Neither explains everyday bill help, the limits of a trusted contact, signs of financial exploitation or scam response. | Added the site's 74th English guide and a direct link from the after-diagnosis guide. |
+| Safety boundary | The guide treats unusual transactions as warning signs, not proof of abuse or incapacity. It does not tell families to take over accounts, choose a product, change ownership or rely on a specific legal document. It marks reporting contacts as U.S.-specific and points other readers to local services. | General information; bank options and legal authority vary. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,517 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 existing content warnings remain. |
+| Render inspection | Built route `/caregiving/managing-money-with-dementia/` contains the guide title and money-scam steps; built `/caregiving/` hub links to it. The existing after-diagnosis page links to the new guide. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, banker, financial/legal professional, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
