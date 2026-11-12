@@ -1,7 +1,7 @@
 ---
 title: "Trivia Fácil para Idosos com Demência, Sem Pressão"
 seoTitle: "Perguntas de Trivia para Idosos com Demência, com Respostas"
-description: "50 perguntas fáceis de trivia para idosos com demência, com opções de resposta e temas para conversar, e como conduzir a brincadeira sem que ninguém se sinta testado."
+description: "50 perguntas fáceis de trivia para idosos com demência, com opções de resposta e temas para conversar, e como conduzir sem que ninguém se sinta testado."
 section: activities
 order: 19
 updated: 2026-10-25
@@ -103,7 +103,7 @@ Para mais sobre música, veja [atividades com música para demência](/activitie
 | --- | --- | --- |
 | Qual feriado cai na quarta quinta-feira de novembro? | Dia do Trabalho, **Ação de Graças**, Memorial Day | O que sempre estava na mesa de vocês? |
 | Abóboras entalhadas (jack-o'-lanterns) são feitas para qual feriado? | **Halloween**, Páscoa, Natal | Conte sobre o Halloween da sua infância |
-| O 4 de julho comemora a Declaração de... | Direitos, **Independência**, Liberdade | Onde você via os fogos de artifício? |
+| O Dia da Independência dos EUA comemora a Declaração de... | Direitos, **Independência**, Liberdade | Onde você via os fogos de artifício? |
 | O Dia das Mães é em qual mês? | Abril, **maio**, junho | Como sua família comemorava? |
 | Quantas estrelas tem a bandeira americana? | 48, **50**, 52 | A bandeira teve 48 estrelas até 1959. Qualquer resposta é uma boa lembrança |
 | Qual oceano fica na costa leste? | Pacífico, **Atlântico**, Ártico | Você já foi à praia? |

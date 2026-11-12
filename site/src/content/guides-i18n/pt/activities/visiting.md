@@ -1,7 +1,7 @@
 ---
 title: "Visitar Alguém com Demência em Cuidados de Memória ou no Hospital"
 seoTitle: "Visitar Alguém com Demência: o Que Fazer e Levar"
-description: "O que fazer ao visitar alguém com demência em uma instituição de cuidado de memória, em um lar de idosos ou no hospital: o que levar, atividades simples e saída tranquila."
+description: "O que fazer ao visitar alguém com demência em cuidado de memória, lar de idosos ou hospital: o que levar, atividades simples e uma saída tranquila."
 section: activities
 order: 13
 updated: 2026-10-25
