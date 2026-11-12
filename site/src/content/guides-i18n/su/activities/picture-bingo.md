@@ -1,7 +1,7 @@
 ---
 title: "Bingo Gambar pikeun Sepuh anu Gaduh Demensia, Dicitak atawa di Layar"
 seoTitle: "Bingo Gambar pikeun Sepuh anu Gaduh Demensia"
-description: "Bingo gambar pikeun sepuh anu gaduh demensia, dicitak atawa di layar: gambar gedé, nu nyebut anu lemes, tanpa tekanan meunang, sarta tips pikeun grup leutik jeung imah perawatan."
+description: "Bingo gambar pikeun sepuh anu gaduh demensia, dicitak atawa di layar: gambar gedé, nu nyebut lemes, tanpa tekanan meunang, jeung tips pikeun grup leutik."
 section: activities
 order: 24
 updated: 2026-11-08
