@@ -44,9 +44,9 @@ Molann [treoir chúraim fiacla Alzheimer's Association](https://www.alz.org/help
 
 Tabhair am don duine gach céim a dhéanamh. Mura bhfuil uait ach meabhrúchán, fan sula dtairgeann tú tuilleadh cabhrach. B’fhéidir go n-aimsíonn daoine áirithe níos éasca suí ag doirteal nó scuabadh a úsáid a bhfuil hanla is féidir leo a shealbhú go compordach. Fiafraigh den fhiaclóir faoi roghanna mura bhfuil an scuabadh arb iondúil éasca a úsáid.
 
-Ná déan scuabadh a athrú ina thástáil nó ina iomaíocht. Má deir an duine ‘níl’, má tharraingíonn sé as nó má bhíonn sé trína chéile, stop. Bain triail as arís níos déanaí, athraigh an socrú nó fiafraigh den fhiaclóir comhairle. Ná brúigh scuabadh isteach i mbéal duine ná ná coinnigh é ar mhaith le fanacht socair chun an tasc a chríochnú.
+Ná déan scuabadh a athrú ina thástáil nó ina iomaíocht. Má deir an duine ‘níl’, má tharraingíonn sé as nó má bhíonn sé trína chéile, stop. Bain triail as arís níos déanaí, athraigh an socrú nó fiafraigh den fhiaclóir comhairle. Ná brúigh scuabadh isteach i mbéal duine ná ná coinnigh é chun an tasc a chríochnú.
 
-Má stopann nós a d’oibrigh roimhe seo ag éirí deacair, déan staidéar ar an gcéim atá deacair. B’fhéidir nach bhfuil an duine cinnte cad atá le déanamh leis an scuabadh, nach bhfuil taitneamh aige as blas nua deannaigh, go bhfuil sé tuirseach nó go bhfuil míchompord béil air. Is féidir iad sin a bheith ann, ní diagnóis iad. Is féidir nóta gairid faoin am a bhfuil an deacracht ann a chabhrú leis an bhfiaclóir céimeanna eile a phlé. Athraigh céim amháin den nós ag an am, ionas go mbeidh soiléir cad is fearr leis an duine.
+Má stopann nós a d’oibrigh roimhe seo ag éirí deacair, déan staidéar ar an gcéim atá deacair. B’fhéidir nach bhfuil an duine cinnte cad atá le déanamh leis an scuabadh, nach bhfuil taitneamh aige as deannach fiacla nua, go bhfuil sé tuirseach nó go bhfuil míchompord béil air. Is féidir iad sin a bheith ann, ní diagnóis iad. Is féidir nóta gairid faoin am a bhfuil an deacracht ann a chabhrú leis an bhfiaclóir céimeanna eile a phlé. Athraigh céim amháin den nós ag an am, ionas go mbeidh soiléir cad is fearr leis an duine.
 
 ## Conas is féidir cabhrú agus príobháideacht a chosaint?
 

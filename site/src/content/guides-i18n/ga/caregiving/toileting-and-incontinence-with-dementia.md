@@ -50,7 +50,7 @@ Níl. Is féidir le fadhb nua nó fadhb atá ag éirí níos measa go leor cúis
 
 Téigh i dteagmháil le dochtúir nó le gairmí sláinte eile nuair a athraíonn rialú na fualaí nó na n-ionchaí. Má tá sé úsáideach, taifead cathain a thosaigh an t-athrú, cad a bhreathnaigh tú air agus an luaigh an duine pian nó míchompord. Féadfaidh sé seo cabhrú leis an ngairmí ceisteanna dírithe a chur. Ná stop ná athraigh cógas bunaithe ar threoir ghinearálta.
 
-Má éiríonn an duine tobann trína chéile, lorg cabhair leighis láithreach trí sheirbhísí éigeandála áitiúla. Mínníonn [comhairle an NHS maidir le mearbhall tobann](https://www.nhs.uk/symptoms/confusion/) go dteastaíonn aird phráinneach le mearbhall tobann. Is difriúil athrú de réir a chéile ar ghnáthaimh leithris, ach is fiú plé gairmiúil a dhéanamh fós.
+Má éiríonn an duine tobann trína chéile, lorg cabhair leighis láithreach trí sheirbhísí éigeandála áitiúla. Míníonn [comhairle an NHS maidir le mearbhall tobann](https://www.nhs.uk/symptoms/confusion/) go dteastaíonn aird phráinneach le mearbhall tobann. Is difriúil athrú de réir a chéile ar ghnáthaimh leithris, ach is fiú plé gairmiúil a dhéanamh fós.
 
 ## Conas is féidir liom an seomra folctha a dhéanamh níos éasca a aimsiú agus a úsáid?
 

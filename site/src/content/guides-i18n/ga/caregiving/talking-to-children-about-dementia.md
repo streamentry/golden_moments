@@ -63,12 +63,12 @@ Freagair an imní atá faoin gceist, agus ansin tabhair an freagra macánta is s
 
 - **‘An féidir liom é a ghabháil?’** Abair níl: níl démheanse tógálach. Is féidir leis an bpáiste leanúint de bheith ag caitheamh ama leis an duine.
 - **‘Ar dhéanaigh mé é seo a tharlú?’** Dearbhaigh dó nach raibh an galar mar thoradh ar rud a dúirt nó a rinne sé.
-- **‘Cén fáth a nglaonn Daideo orm ainm eile?’** Mínigh gur féidir le démheanse an chaoi a gcuimhníonn duine ar ainmneacha a athrú. Ní hé a locht é an páiste, agus b’fhéidir nach bhfuil sé á dhéanamh chun cur isteach orthu.
+- **‘Cén fáth a nglaonn Daideo orm ainm eile?’** Mínigh gur féidir le démheanse an chaoi a gcuimhníonn duine ar ainmneacha a athrú. Ní hé a locht ar an bpáiste é, agus b’fhéidir nach bhfuil sé á dhéanamh chun cur isteach orthu.
 - **‘An bhfaighidh mise démheanse freisin?’** Ná déan tuairim faoi thodhchaí duine amháin. Braitheann riosca teaghlaigh ar an gcineál agus ar an stair. Má tá imní shonrach ann faoi fhoirm oidhreachtúil, fiafraigh de dhochtúir an duine an féidir le gairmí géinéiseach cabhrú.
 - **‘An dtiocfaidh feabhas uirthi?’ nó ‘An bhfaighidh sí bás?’** Ná geall toradh ná amlíne. Abair leis an bpáiste cad a dúirt an fhoireann cúraim, má tá an teaghlach ag iarraidh é a roinnt, agus mínigh cathain a labhróidh tú arís.
 - **‘An bhfuil grá aige fós dom?’** Ná cuir freagracht ar an bpáiste a chruthú. Is féidir leat a rá go bhfuil an caidreamh tábhachtach agus cuardach a dhéanamh ar bhealach compordach chun am a chaitheamh le chéile anois.
 
-Is ceart go leor stopadh má bhíonn ceist ró-mhór. Abair leis an bpáiste cathain a thiocfaidh tú ar ais chuige, agus lean ar aghaidh leis sin. Is úsáidí ‘Níl a fhios agam fós’ ciúin agus fíor ná tuairim mhuiníneach.
+Is ceart go leor stopadh má bhíonn ceist ró-mhór. Abair leis an bpáiste cathain a thiocfaidh tú ar ais chuige, agus lean ar aghaidh leis sin. Is fearr ‘Níl a fhios agam fós’ ciúin agus fíor ná tuairim mhuiníneach.
 
 ## Conas is féidir liom cabhrú gan an páiste a dhéanamh ina chúramóir?
 

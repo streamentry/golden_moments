@@ -81,7 +81,7 @@ Má tá an t-athrú de réir a chéile nó má tá sé ag filleadh, socraigh cua
 
 ## Conas is féidir le cúntóirí freagairt ar bhealach a mbraitheann an duine urramach aige?
 
-Inis don duine cad atá tú ag dul a dhéanamh sula gcabhraíonn tú leis. Iarr cead sula dteagmháil tú leis nó sula bogann tú earrai éadaigh. Tairg rogha bheag amháin, mar shampla scíth a ligean anois nó suí in áit eile, agus tabhair am do fhreagra. Mura nglacann sé leis, stop agus iarr ar ghairmí sláinte cur chuige eile.
+Inis don duine cad atá tú ag dul a dhéanamh sula gcabhraíonn tú leis. Iarr cead sula dteagmháil tú leis nó sula gcuireann tú éadaí air. Tairg rogha bheag amháin, mar shampla scíth a ligean anois nó suí in áit eile, agus tabhair am do fhreagra. Mura nglacann sé leis, stop agus iarr ar ghairmí sláinte cur chuige eile.
 
 Fiafraigh den duine cén focal nó cineál cabhrach a bhfuil sé ag iarraidh. Le cead, roinn faisnéis úsáideach le cúntóirí iontaofa eile ionas nach mbeidh ar an duine an rud céanna a mhíniú arís is arís eile. Ná labhair fúthu amhail is nach bhfuil siad i láthair.
 
