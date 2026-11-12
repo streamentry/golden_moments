@@ -65,13 +65,13 @@ Dentes falsos in os hominis ne vi indas, si resistit aut dolere videtur. Dentes 
 
 ## Quomodo ad visitationem dentalem paro?
 
-Tempus eligе quo homo plerumque requietus est. Cum homo consentit, officinam dentalem ante monе ut tempus plus, explicationem tranquillam vel auxilium ab homine confisso fortasse opus sit. Indicem medicamentorum actualem affer et breve notatum de eo quod difficile factum est, ut penicillatio, masticatio vel gestatio dentium falsorum.
+Tempus elige quo homo plerumque requietus est. Cum homo consentit, officinam dentalem ante mone ut tempus plus, explicationem tranquillam vel auxilium ab homine confisso fortasse opus sit. Indicem medicamentorum actualem affer et breve notatum de eo quod difficile factum est, ut penicillatio, masticatio vel gestatio dentium falsorum.
 
 Roga ut turma dentalis explicet quid unus gradus post alterum futurum sit. Socius familiaris homini tranquillitatem dare potest, sed homo partem colloquii et decisionum manere debet. Si iter ad officinam solitam difficile est, roga dentistam de optionibus visitationum accessibilium in regione tua.
 
 ## Quomodo alii auxiliatores consuetudinem constantem servent?
 
-Si familiaris, operarius domesticus vel membrum personalis domus curae auxilium praebet, cum homine consuetudinem accord, quam ille commodam putet. Eodem loco familiari et breve signo utere, ubi potest. Roga num certum hominem auxilium praebere malit semper.
+Si familiaris, operarius domesticus vel membrum personalis domus curae auxilium praebet, cum homine de consuetudine consentite, quam ille commodam putet. Eodem loco familiari et breve signo utere, ubi potest. Roga num certum hominem auxilium praebere malit semper.
 
 Si homo consentit, tantum ea communica quae proximo auxiliatori prosunt: tempus praeferendum, quid per se faciat, quis gradus difficilis sit et quando velit ut auxilium desinat. Notam scriptam privatam serva et processum usitatum loci curae sequere. Consuetudo scripta dux est, non licentia perseverandi cum homo negat. Praeferentiae mutari possunt; ergo iterum roga et accommoda. Si plures methodi difficiles factae sunt, quod animadvertisti dentistae narra et consilium pro illo homine pete.
 

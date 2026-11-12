@@ -18,7 +18,7 @@ keyPoints:
   - "De novis difficultatibus professionalem sanitatis roga et liquores sine consilio ne restringas."
 faq:
   - q: "Quid faciam cum homo cum dementia casum in latrina habet?"
-    a: "Tranquille respondе et vituperationem vel correctionem publicam evita. Roga quod auxilium homo velit, privatum offer et permitte ut gradus quos malit ipse faciat. Si casus novi sunt vel crescunt, professionalem sanitatis adi."
+    a: "Tranquille responde et vituperationem vel correctionem publicam evita. Roga quod auxilium homo velit, privatum offer et permitte ut gradus quos malit ipse faciat. Si casus novi sunt vel crescunt, professionalem sanitatis adi."
   - q: "Num homini incontinenti minus bibendum dare debeo?"
     a: "Liquores ne restringas ad casus vitandos, nisi professionalis sanitatis consilium individuale dedit. Parum liquoris exsiccationem et alia incommoda causare potest. Medicum hominis de eius necessitatibus roga."
   - q: "Quid si incontinentia subito incipit?"
@@ -77,7 +77,7 @@ Vocem neutram serva et dignitatem hominis tuere. Vita culpam, taedium vel correc
 
 Da homini tempus ad gradus quos sustinere potest. Fortasse vestes ipse mutare vult, adiutorem confisum prope habere vel ad momentum solus relinqui. Si auxilium practicum necessarium est, breves gradus explica et vide num commodum sit. Ne eum teneas neque in re privata accelera.
 
-Vestes mutatas vel sacculum discretum pro excursione parare potes, si homo id vult. Roga antequam productos continentiae in spatio communi servas vel aliis de casu narras. Si instrumenta protectionis vel stragula auxilium afferre possunt, consulе medicum vel consiliarium continentiae quae optiones hominis necessitatibus et voluntatibus congruant.
+Vestes mutatas vel sacculum discretum pro excursione parare potes, si homo id vult. Roga antequam productos continentiae in spatio communi servas vel aliis de casu narras. Si instrumenta protectionis vel stragula auxilium afferre possunt, consule medicum vel consiliarium continentiae quae optiones hominis necessitatibus et voluntatibus congruant.
 
 ## Debeone liquores restringere vel productos continentiae eligere?
 
@@ -97,4 +97,4 @@ Si plures adiuvant, roga hominem quid communicare velit. Nota privata cum verbis
 
 Auxilium latrinae curatorem quoque fatigare potest. Si homo consentit, roga confisum hominem vel servitium curae ut vicem accipiat. [Libellus de curatione sui](/caregiving/caregiver-self-care/) modos continet ad auxilium quaerendum et requietem. Curatio respectuosa et privatum hominis et capacitatem curatoris ad perseverandum tuetur.
 
-Propositum est auxilium sine pressione praebere. Tranquille respondе, privatum serva, voluntates hominis conserva et professionalem sanitatis de novis difficultatibus roga.
+Propositum est auxilium sine pressione praebere. Tranquille responde, privatum serva, voluntates hominis conserva et professionalem sanitatis de novis difficultatibus roga.

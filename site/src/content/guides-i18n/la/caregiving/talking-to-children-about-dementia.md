@@ -41,7 +41,7 @@ health: false
 
 Cum dementia eum mutat quem puer amat, puer fortasse prius animadvertit quam adultus de re loqui incipit. Puer timere, irasci, pudefieri, sibi culpam tribuere vel nescire quomodo agat potest. Quaeque familia et quisque puer diversi sunt. Informatio clara et auxilium constans puero prodesse possunt ut intellegat quid mutetur, sine ut munera adultorum portet.
 
-[Libellus Alzheimer's Association de loquendo cum pueris](https://www.alz.org/help-support/caregiving/kids/talking-kids-about-dementia) suadet ut quaestiones honeste verbis puero intellegibilibus respondeantur. [Libellus familiae Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) quoque colloquia honesta, consolationem et tutelam spatii pueri ut puer esse possit commendat. Haec pro initio sumе, non pro scripto omnibus familiis.
+[Libellus Alzheimer's Association de loquendo cum pueris](https://www.alz.org/help-support/caregiving/kids/talking-kids-about-dementia) suadet ut quaestiones honeste verbis puero intellegibilibus respondeantur. [Libellus familiae Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) quoque colloquia honesta, consolationem et tutelam spatii pueri ut puer esse possit commendat. Haec pro initio sume, non pro scripto omnibus familiis.
 
 ## Quomodo colloquium de dementia incipio?
 
@@ -70,7 +70,7 @@ Responde timori sub quaestione, deinde verum et clarissimum responsum da quod po
 - **“Num melior fiet?” vel “Num moriatur?”** Ne eventum neque tempus promittas. Dic puero quid consilium curae dixerit, si familia id communicare vult, et explica quando iterum loquaris.
 - **“Num me adhuc amat?”** Noli puerum cogere ut probet responsum. Dic relationem magni momenti esse et commodum modum invenire ut nunc tempus simul transigatis.
 
-Licet pausam facere, si quaestio nimis magna videtur. Dic puero quando ad eam redibis, et praestа. Verum “nondum scio”, tranquillum, utilius est quam coniectura confidens.
+Licet pausam facere, si quaestio nimis magna videtur. Dic puero quando ad eam redibis, et praesta. Verum “nondum scio”, tranquillum, utilius est quam coniectura confidens.
 
 ## Quomodo puero auxilium praebeo, sed curatorem eum non facio?
 
@@ -80,7 +80,7 @@ Curam et securitatem penes adultos relinque. Puer fortasse cibum parare vel libr
 
 Tempus proprium pueri tutare. Scholam, amicitias, studia et consuetudines familiares quam stabilissimas serva. Si curatio consilia eius mutat, cur explica et alium adultum quaere qui actionem vel excursionem eius servare possit. [Libellus de curatione sui](/caregiving/caregiver-self-care/) modos continet quibus alios adultos ad auxilium rogare possis.
 
-Antequam magistrum, instructorem vel alium adultum certiorem facis, puerum in decisione quantum convenit includе. Fortasse unum confidentem scire vult, vel expectare malet. Si informationem communicas, consentite quid dicatur et quid privatum maneat.
+Antequam magistrum, instructorem vel alium adultum certiorem facis, puerum in decisione quantum convenit include. Fortasse unum confidentem scire vult, vel expectare malet. Si informationem communicas, consentite quid dicatur et quid privatum maneat.
 
 ## Quando auxilium amplius quaerere debeo?
 
