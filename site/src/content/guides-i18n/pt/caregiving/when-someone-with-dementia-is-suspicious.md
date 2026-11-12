@@ -1,7 +1,7 @@
 ---
 title: "Quando alguém com demência desconfia de você ou o acusa"
 seoTitle: "Demência e desconfiança: o que cuidadores podem fazer"
-description: "Responda com calma à desconfiança sobre objetos desaparecidos, verifique os fatos, mantenha rotinas claras e procure um profissional sobre mudanças novas ou angustiantes."
+description: "Responda com calma à desconfiança sobre objetos sumidos, verifique os fatos, mantenha rotinas claras e procure um profissional se a mudança for nova ou angustiante."
 section: caregiving
 order: 34
 updated: 2026-11-11
@@ -73,7 +73,7 @@ Se você não tiver certeza de que a preocupação procede, peça que alguém ne
 
 Dê um lugar familiar aos objetos que costumam ser perdidos. Uma cumbuca para as chaves, uma bandeja para a carteira ou uma gaveta identificada pode facilitar encontrar algo depois. A [Alzheimer's Society sugere usar um lugar fixo para itens](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions), como chaves ou óculos. Pergunte à pessoa qual lugar faz sentido para ela.
 
-Faça uma mudança de cada vez. Mover pertences sem explicar pode deixar a pessoa menos segura sobre onde as coisas estão. Se um item barato se perde com frequência, um reserva pode ajudar em algumas casas, mas não deve substituir a verificação de se o original foi levado ou apenas perdido.
+Faça uma mudança de cada vez. Mover pertences sem explicar pode deixar a pessoa menos segura sobre onde as coisas estão. Se um item barato se perde com frequência, uma reserva pode ajudar em algumas casas, mas não deve substituir a verificação de se o original foi levado ou apenas perdido.
 
 Garanta que a pessoa consiga ver e ouvir com o máximo de conforto possível. A Dementia Australia observa que problemas de visão ou audição, doenças, efeitos de medicamentos, mudanças de rotina ou um ambiente excessivamente estimulante podem contribuir para alterações na percepção. Pergunte à pessoa se o cômodo parece barulhento ou desconhecido demais e verifique se ela está com os óculos ou os aparelhos auditivos, caso use.
 

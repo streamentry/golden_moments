@@ -1,7 +1,7 @@
 ---
 title: "Quando alguém com demência não reconhece você"
 seoTitle: "Demência: o que dizer quando alguém não reconhece você"
-description: "Se alguém com demência não reconhecer você, apresente-se com calma, evite testes de memória, use pistas familiares se forem bem-vindas e busque ajuda em mudanças súbitas."
+description: "Se alguém com demência não reconhecer você, apresente-se com calma, evite testes de memória, use pistas familiares se forem bem-vindas e procure ajuda se algo mudar."
 section: caregiving
 order: 32
 updated: 2026-11-11
