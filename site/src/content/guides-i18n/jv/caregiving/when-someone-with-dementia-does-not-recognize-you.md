@@ -1,7 +1,7 @@
 ---
 title: "Nalika Wong sing Nandhang Demensia Ora Ngenali Panjenengan"
 seoTitle: "Demensia: Apa Sing Dicandhakake Yen Ora Dikenali"
-description: "Yen wong sing nandhang demensia ora ngenali panjenengan, kenalna awakmu kanthi tenang, aja nguji memori, gunakna isyarat sing wis akrab yen disenengi lan golek bantuan kanggo owah mendadak."
+description: "Yen wong sing nandhang demensia ora ngenali panjenengan, kenalna awakmu kanthi tenang, aja nguji memori lan golek bantuan kanggo owah mendadak."
 section: caregiving
 order: 32
 updated: 2026-11-11
