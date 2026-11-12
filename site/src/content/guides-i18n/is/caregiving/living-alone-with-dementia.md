@@ -48,7 +48,7 @@ Leiðarvísir okkar um [daglegar venjur](/activities/daily-routine/) hefur einfa
 
 ## Hvernig geta fjölskylda og vinir veitt gagnlega aðstoð?
 
-Samþykkið fáan fastan tengilið. Stutt heimsókn eða símtal á þekktum tíma getur gagnast betur en nokkrar heimsóknir sem koma óvænt. Spurðu viðkomandi hverja hann vill hafa með og hvað hver og einn getur gert.
+Samþykkið einn fastan tengilið. Stutt heimsókn eða símtal á þekktum tíma getur gagnast betur en nokkrar heimsóknir sem koma óvænt. Spurðu viðkomandi hverja hann vill hafa með og hvað hver og einn getur gert.
 
 Gerðu tilboð áþreifanleg. „Myndi það hjálpa ef ég kæmi með matvörur á fimmtudag?“ er auðveldara að svara en „Láttu mig vita ef þú þarft eitthvað.“ Traustur aðili gæti aðstoðað við innkaup, akstur, máltíðir, reikninga eða dagatal fyrir tímapantanir. [Alzheimer-samtökin mæla með að útvega aðstoð](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) við heimilisverk, máltíðir, akstur og áminningar um lyf þegar þörf er á því.
 
