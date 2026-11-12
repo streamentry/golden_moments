@@ -7,13 +7,13 @@ order: 39
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Aorian'ny fianjerana, mitedgy ho tony, jereo raha misy ratra ary aza mampitsangana
+  Aorian'ny fianjerana, mijanona ho tony, jereo raha misy ratra ary aza mampitsangana
   haingana ny olona. Mitadiava fanampiana ara-pitsaboana haingana raha misy ahiahy
-  momba ny lohan'ny olona, ny lohan-tsoroka, ny vozon-dranomaso na ny sandry ratsy,
+  momba ny lohany, ny vodiondry, ny lohan-tsoroka na ny sandry,
   na raha tsy afaka mitsangana. Na dia tsy misy ratra hita aza, miresaha amin'ny matihanina.
 keyPoints:
   - "Jereo ny ratra na fanaintainana, fa aza mampitsangana haingana na mitarika ny olona."
-  - "Antsoy ny serasera fanampiana ara-pitsaboana eo amin'ny faritanao raha mety misy ratra amin'ny lohany, amin'ny lohan-tsoroka, amin'ny vozon-dranomaso na amin'ny sandry, na ratra mafy, na raha tsy afaka mitsangana ny olona."
+  - "Antsoy ny serasera fanampiana ara-pitsaboana eo amin'ny faritanao raha mety misy ratra amin'ny lohany, amin'ny lohan-tsoroka, amin'ny vodiondry na amin'ny sandry, na ratra mafy, na raha tsy afaka mitsangana ny olona."
   - "Aza manandrana mitondra ny olona irery; miarova azy ary mafana raha mandrasa fanampiana."
   - "Miresaha amin'ny matihanina ara-pahasalamana aorian'ny fianjerana, na dia tsy hita ny ratra aza."
   - "Rehefa vita ny fepetra haingana, soraty izay nitranga ary anontanio momba ny fanaraha-maso."
@@ -21,7 +21,7 @@ faq:
   - q: "Inona no atao vao mianjera ny olona manana dementia?"
     a: "Tazomy ho tony, jereo raha ratra na tsy salama ny olona, ary aza mampitsangana azy haingana. Mitadiava fanampiana ara-pitsaboana haingana raha mety misy ratra mafy, na raha tsy afaka mitsangana izy. Raha tsy azo antoka ianao, miresaha amin'ny torohevitra ara-pitsaboana eo an-toerana."
   - q: "Rahoviana no tokony hiantso serasera fanampiana ara-pitsaboana?"
-    a: "Antsoy ny serasera fanampiana ara-pitsaboana eo amin'ny faritanao raha mety nisy ratra tamin'ny lohany, ny lohan-tsoroka, ny vozon-dranomaso na ny sandry, ratra mafy hafa, na raha tsy afaka mitsangana ny olona. Araho ny torolalan'ny mpandray antso."
+    a: "Antsoy ny serasera fanampiana ara-pitsaboana eo amin'ny faritanao raha mety nisy ratra tamin'ny lohany, ny lohan-tsoroka, ny vodiondry na ny sandry, ratra mafy hafa, na raha tsy afaka mitsangana ny olona. Araho ny torolalan'ny mpandray antso."
   - q: "Tokony handrakotra ny olona amin'ny tany ve aho?"
     a: "Aza mitondra azy irery. Tazomy ho mafana sy mora izy mandra-pahatongan'ny fanampiana. Raha tsy azo antoka ianao hoe misy ratra, miresaha amin'ny matihanina ara-pahasalamana alohan'ny hanampianao azy hihetsika."
   - q: "Inona no atao raha toa ka tsara ny olona aorian'ny fianjerana?"
@@ -47,7 +47,7 @@ Mety hatahotra ny olona sy ny olona rehetra akaiky ny fianjerana. Ajanony ary mi
 
 ## Inona no atao vao mianjera?
 
-Jereo raha mifoha ny olona, raha toa ka ratra na tsy salama, ary raha afaka mamaly araka ny mahazatra. Aza mampitsangana azy haingana na mitsangana azy irery. Ny [NHS manambara fa ilaina ny fanampiana ara-pitsaboana raha mety nisy ratra tamin'ny lohany, ny vozon-dranomaso, ny vozon-dranomaso, ny sandry, na raha tsy afaka mitsangana izy](https://www.nhs.uk/conditions/falls/).
+Jereo raha mifoha ny olona, raha toa ka ratra na tsy salama, ary raha afaka mamaly araka ny mahazatra. Aza mampitsangana azy haingana na mitsangana azy irery. Ny [NHS manambara fa ilaina ny fanampiana ara-pitsaboana raha mety nisy ratra tamin'ny lohany, ny vodiondry, ny lohan-tsoroka, ny sandry, na raha tsy afaka mitsangana izy](https://www.nhs.uk/conditions/falls/).
 
 - **Antsoy ny serasera fanampiana ara-pitsaboana eo amin'ny faritanao** raha mety misy ny famantarana mafy ireo. Araho ny torolalan'ny mpandray antso.
 - **Tazomy ho mafana sy mora ny olona** mandra-pahatongan'ny fanampiana. Aza mampihetsika azy raha ahiahy ianao fa misy ratra mafy na tsy azo antoka ny amin'izany.
@@ -60,13 +60,13 @@ Aza mitondra na mamelatra ny olona irery. Raha misy drafitra fikarakarana momba 
 
 Aza mampihaingana ny olona. Anontanio izay fahatsapany sy raha tiany fanampiana. Raha toa ka tsy voaratra izy ary afaka mitsangana amin'ny fanampiana mahazatra azy nefa tsy mampitsangana azy, omeo fotoana ary mijanona akaiky. Ajanony raha mahatsapa fanaintainana, hazodoko na tsy afaka mitohy izy. Raha tsy azo antoka ianao, anontanio matihanina ara-pahasalamana fa aza manandrana fihetsehana tsy nampianarina anao.
 
-Ny [NHS manoro fa mila fotoana sy fitsaharana aorian'ny fitsanganana](https://www.nhs.uk/conditions/falls/). Ny torolalana fanampiana tena manokana dia ho an'ny olona mahatsapa fa afaka mitsangana; tsy antony hikirakirana na hitondra olona izay nianjera izany. Ny filan'ny olona momba ny fihetsehana, ny fahalemen-tsaina sy ny fahasalamana dia samy hafa.
+Ny [NHS manoro fa mila fotoana sy fitsaharana aorian'ny fitsanganana](https://www.nhs.uk/conditions/falls/). Ny torolalana fanampiana tena manokana dia ho an'ny olona mahatsapa fa afaka mitsangana; tsy antony hikirakirana na hitondra olona izay nianjera izany. Ny filan'ny olona momba ny fihetsehana, ny fahaizana mifandanja sy ny fahasalamana dia samy hafa.
 
 ## Tokony hiantso dokotera ve na dia tsy hitanao aza ny ratra?
 
-Eny. Ny [Alzheimer's Society manoro fa tokony hiresaka amin'ny GP an'ny olona aorian'ny fianjerana, na dia tsy mihevitra ianao fa voaratra aza izy](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help). Raha nahita fikasihana ny lohany, fanaintainana, fahadisoana vaovao, fahalemena, hazodoko na fiovana amin'ny fitondran-tenan'ny olona mahazatra, lazao izany rehefa mantsy ianao. Aza mampiasa lisitra avy amin'ny tranonkala mba hanapahan-kevitra fa tsy ilaina ny fanombanana ara-pitsaboana.
+Eny. Ny [Alzheimer's Society manoro fa tokony hiresaka amin'ny GP an'ny olona aorian'ny fianjerana, na dia tsy mihevitra ianao fa voaratra aza izy](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help). Raha nahita fikasihana ny lohany, fanaintainana, fahadisoana vaovao, fahalemena, hazodoko na fiovana amin'ny fitondran-tenan'ny olona mahazatra, lazao izany rehefa miantso ianao. Aza mampiasa lisitra avy amin'ny tranonkala mba hanapahan-kevitra fa tsy ilaina ny fanombanana ara-pitsaboana.
 
-Raha nisy ratra tamin'ny lohany, arahy ny torohevitra avy amin'ny matihanina na amin'ny serasera fanampiana ara-pitsaboana eo an-toerana. Ny [torolalana momba ny ratra amin'ny lohany avy amin'ny NHS](https://www.nhs.uk/conditions/head-injury-and-concussion/) dia mamaritra ny famantarana mila fitsaboana haingana. Raha tampoka ho very saina ny olona, matory be, mivoaka ny vokatra na tsy salama mafy, mitadiava fanampiana haingana fa aza miandry fitsidihana mahazatra.
+Raha nisy ratra tamin'ny lohany, arahy ny torohevitra avy amin'ny matihanina na amin'ny serasera fanampiana ara-pitsaboana eo an-toerana. Ny [torolalana momba ny ratra amin'ny lohany avy amin'ny NHS](https://www.nhs.uk/conditions/head-injury-and-concussion/) dia mamaritra ny famantarana mila fitsaboana haingana. Raha tampoka ho very saina ny olona, matory be, mivoaka ny sakafo na tsy salama mafy, mitadiava fanampiana haingana fa aza miandry fitsidihana mahazatra.
 
 ## Inona no fampahalalana azo ampiasaina ho an'ny matihanina ara-pahasalamana?
 
@@ -98,4 +98,4 @@ Aorian'ny famahana ny olana ara-pahasalamana haingana, eritrereto izay nitranga 
 
 Ny [torolalana momba ny fiarovana ao an-trano](/caregiving/home-safety/) dia mandrakotra ny fanamarinana isan-efitra. Raha nitranga ny fianjerana nandritra ny fandroana, jereo ny [torolalana momba ny fandroana](/caregiving/bathing-with-dementia/). Ny dokotera, mpitsabo asa na serivisy momba ny fianjerana eo an-toerana dia afaka manombana ny olana manokana ary manoro fanovana mifanaraka. Aza mametraka fitaovana na manova fanafody naoty ho an'ny torolalana ihany.
 
-Ny fianjerana tsy mampiseho amin'ny tenany izay tratra na tsy tratran'ny olona. Tazomy ny olona ho mpandray anjara amin'ny fanapahan-kevitra momba ny fanohanana, ary araho ny torohevitry ny ekipan'ny fikarakarana eo an-toerana.
+Ny fianjerana fotsiny tsy mampiseho izay azon'ny olona atao na tsy azony atao. Tazomy ny olona ho mpandray anjara amin'ny fanapahan-kevitra momba ny fanohanana, ary araho ny torohevitry ny ekipan'ny fikarakarana eo an-toerana.
