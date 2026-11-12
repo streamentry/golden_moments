@@ -1,35 +1,36 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Ahoana no fomba hisafidianana app sy lalao dementia"
+seoTitle: "Ahoana no fomba hisafidianana app sy lalao dementia"
+description: "Lisitra fanamarinana ho an’ny mpikarakara: atombohy amin’ny tanjona, sorohy ny minitra sy dokam-barotra, jereo ny tsiambaratelo, ary vakio ny fanambarana porofo."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Manomboka amin’izay tianao hatao amin’ny app: stimulation malemy, fahatsiarovana,
+  fahamalinana na fifandraisana. Avy eo safidio iray izay mifanaraka amin’ny heriny
+  ankehitriny, miaraka amin’ny sary lehibe, tsy misy minitra, isa na dokam-barotra,
+  ary fomba mora hanajanonana. Jereo izay angona ataony sy raha azo fafana izany.
+  Mitandrema amin’ny fanambarana fa misakana na mitsabo dementia ny app; ny fianarana
+  tokana tsy porofo.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Atombohy amin’ny tanjona: stimulation, fahatsiarovana, fahamalinana na fifandraisana dia mila app samy hafa."
+  - "Mifanaraka amin’ny heriny ny olona amin’izao andro, fa tsy amin’ny teny famaritana sehatra, ary tazomana tsotra ny fifehezana."
+  - "Esory ny app misy minitra, isa, fiainana, tohatra andro, dokam-barotra na fanentanana hividy."
+  - "Jereo ny fakana angona, fizarana sy famafana. Ny HIPAA matetika tsy mahakasika ny app ho an’ny mpanjifa."
+  - "Mitandrema amin’ny fanambarana ‘misakana ny dementia’. Fitsapana iray, na valiny tsara kokoa ao amin’ny app, tsy porofo."
+  - "Golden Moments dia hetsika fialam-boly. Tsy misy fanambarana ara-pitsaboana."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Afaka misakana ny dementia ve ny lalao atidoha?"
+    a: "Tsy misy porofo tsara fa misakana na miadana ny dementia ny app lalao atidoha ara-barotra. Ny National Institute on Aging dia milaza fa tsy ampy porofo fa ny app fanofanana atidoha azo alaina dia manana ny vokatra mitovy amin’ny fanofanana voafandrika nodinihina tamin’ny fitsapana fikarohana lehibe. Safidio app ho fahafinaretana sy fifandraisana, fa tsy ho fanafody."
+  - q: "Voaaro ve ny app dementia amin’ny HIPAA?"
+    a: "Matetika tsia. Ny HIPAA dia mahakasika indrindra ny mpanome fikarakarana ara-pahasalamana, drafitra fahasalamana ary ny mpiara-miasa aminy. Ny app izay alainao irery matetika tsy voaaro, afa-tsy raha omen’ny iray amin’izy ireo. Ny Health Breach Notification Rule an’ny FTC dia mahakasika app ara-pahasalamana maro izay tsy voaaron’ny HIPAA."
+  - q: "Ahoana no tokony hahitana lalao dementia tsara?"
+    a: "Sary sy soratra lehibe mazava, zavatra iray mazava atao amin’ny efijery tsirairay, tsy misy minitra na isa, tsy misy fitsikilo ho an’ny hadisoana, tsy misy dokam-barotra, ary fomba mora hanajanonana na hitsahatra. Tokony hiseho ho natao ho an’ny olona lehibe izy ary mora ho an’olona faharoa hiditra."
+  - q: "Manambara ve ny Golden Moments fa manampy ny fahatsiarovana?"
+    a: "Tsia. Ny Golden Moments dia manome hetsika tsotra iraisana ho fahafinaretana sy resaka. Tsy manavaka, tsy mitsabo, tsy misakana ary tsy mandrefy ny dementia izy, ary tsy manambara momba ny fahatsiarovana na ny fisainana."
+  - q: "Tokony handoa ho an’ny app dementia ve aho?"
+    a: "Andramo aloha ny safidy maimaim-poana na fanandramana maimaim-poana, ary jereo ny valin’ny olona mandritra ny herinandro roa na telo. Ny fandoavana app dia tsy mahatonga azy ho mahomby kokoa. Jereo ny fomba fanafoana alohan’ny hanaovanao abonema."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +61,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Ny magazin’ny app dia feno lalao voamarika ho an’ny olona antitra, fahatsiarovana na dementia. Ny sasany natao tsara. Ny hafa manampy fanolorana toy ny fanambarana ara-pitsaboana, minitra izay mampiova ny lalao ho fitsapana, na dokam-barotra sy fakana angona. Ity pejy ity dia manome fomba hanombanana izay app ianao manokana. Tsy mandamina na mijery vokatra hafa izahay.
 
-## What should I decide before choosing a dementia app?
+## Inona no tokony hotapahinao alohan’ny hisafidianana app dementia?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Tapaho izay tianao hatao amin’ny app. “Lalao ho an’i Dada” dia mety ho zavatra samy hafa be, ary matetika ny safidy tsara ho an’ny tanjona iray dia safidy ratsy ho an’ny iray hafa.
 
-| Goal | What it looks like | What to look for |
+| Tanjona | Ahoana no toa azy | Inona no jerena |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Stimulation malemy | Fitambarana, fanasokajana, puzzle tsotra, lalao teny | Fahasarotana azo ovaina, sary mijanona hiseho, tsy misy fanerena fotoana |
+| Fahatsiarovana | Sary taloha, ohabolana mahazatra, mozika avy amin’ny fahazazany | Sary anao manokana, fanentanana malalaka, tsy misy fanontanian-tsokajy |
+| Fahamalinana | Sary miadana, feo malemy, fisefoana, natiora | Mora manomboka sy mitsahatra, tsy misy famirapiratra, tsy misy fahagagana |
+| Fifandraisana | Milalao na miresaka miaraka, amin’ny olona na amin’ny video | Natao ho an’ny olona roa, fanentanana ho an’ny resaka |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Ny fikarohana momba ny “stimulation ara-tsaina” voarindra ho an’ny olona manana dementia dia matetika mampiditra vondrona notarihin’ny mpiasa voaofana, misy resaka, lalao teny, puzzle, mozika ary hetsika famoronana. [Famerenana Cochrane](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) dia nahita tombony kely amin’ny salan-isa, miovaova eo amin’ny fianarana. Ny programa ara-tsosialy sy samy hafa toy izany dia tsy mitovy amin’ny app irery, ka jereo ny app tsirairay ho hetsika iraisana iray amin’ny maro.
 
-## How do I know if an app fits the person's abilities?
+## Ahoana no fomba ahafantarana raha mifanaraka amin’ny heriny ny app?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Jereo ny fomba fanehoan’ny olona, fa aza miantehy ny diagnosis na ny teny famaritana sehatra. Olona roa “amin’ny sehatra mitovy” dia mety samy hafa be amin’ny fahitana, fandrenesana, fifehezana tanana, fiteny ary fahafaham-po amin’ny efijery. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dia manoro hevitra ny hitazomana ny fahalianan’ny teo aloha sy ny heriny ankehitriny ao an-tsaina, ary ny hifantohana amin’ny fahafinaretana fa tsy amin’ny fahombiazana.
 
-Signs of a good fit:
+Famantarana fifanarahana tsara:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- manomboka na miditra tsy mila be fanentanana;
+- mitsiky, mamaritra na milaza tantara;
+- toa tsy manahirana azy ny hadisoana;
+- faly mitsahatra rehefa tonga ny fotoana.
 
-Signs it is a poor fit:
+Famantarana fifanarahana ratsy:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- “Tsy afaka aho” na “Hadalana ity” imbetsaka;
+- tsy fahazoana izay tokony hotsindriana;
+- fahatezerana, fahamenatra, na fisintonana ny fitaovana;
+- miasa raha ianao mahavita ia hafa rehetra.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Fahasosorana dia famantarana, fa tsy zavatra tokony handosirana. Jereo ny [inona no ataoko rehefa manao “tsia” izy](/caregiving/when-they-say-no/). Ho an’ny hevitra araka ny sehatra mihoatra ny app, jereo ny hetsika [sehatra voalohany](/activities/early-stage/) sy [sehatra farany](/activities/late-stage/).
 
-## What design features should I look for or avoid?
+## Inona no endri-javatra ampiasaina na tokony hosorohana?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Tadiavo endrika mangina, tsotra ary ho an’olona lehibe, ary sorohy izay manampy fanerena.
 
-| Look for | Be wary of |
+| Tadiavo | Mitandrema amin’ny |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Sary sy soratra lehibe, fahasamihafana mafy | Kisary kely, efijery be loatra |
+| Hetsika iray mazava isaky ny efijery | Bokotra maro, menu na torolalana dingana maro |
+| Tsy misy minitra, na minitra azo afafana | Fandatsahana isa, bonus haingana, “mahihitsy ny fotoanao” |
+| Tsy misy isa, na valiny malemy | Isa, fiainana, tohatra andro, ranking, “saina taona” |
+| Hadisoana voatantana mangina | Feo mikiakiaka, marika X mena, hafatra “Diso” |
+| Sary an’olona lehibe, zavatra tena izy | Sary toy ny katonta na mahazaza zaza |
+| Miasa offline, tsy mila kaonty mandritra ny fanombohana | Tsy maintsy misoratra anarana, miditra na midina votoaty aloha |
+| Mora ajanona sy mitsahatra | Fanaparitahana mangataka hanohy lalao na hanombana ny app |
+| Tsy misy dokam-barotra, vidin’ny indray mandeha na abonema mazava | Dokam-barotra, boaty loot, fanentanana fividianana matetika |
+| Mora ho an’olona faharoa hiditra | Mpilalao irery ihany, endrika mifanandrina |
 
-Ads and purchase prompts are easy to tap by accident.
+Ny dokam-barotra sy fanentanana fividianana dia mora tsindrina tsy an-kilaly.
 
-## How do I check an app's privacy?
+## Ahoana no fomba hanamarinana ny tsiambaratelon’ny app?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Jereo izay angona vakian’ny app, izay ifampizarany aminy, ary raha azo afafana izany. Alohan’ny hametrahana:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Vakio ny fintinan’ny tsiambaratelo’ny magazay.** Ny [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) an’ny Google Play sy ny [privacy information section](https://support.apple.com/en-us/102399) an’ny App Store dia misy karazana angona izay mety haka sy hizarana ny app. Ireo orinasa roa ireo dia milaza fa ny mpamorona no manome izany vaovao, ka fanomboka izany, fa tsy fanamarinana feno.
+2. **Anontanio raha mila kaonty.** Raha ny app dia mampiseho sary na lalao tsotra fotsiny, mety tsy misy antony hahafantarany ny anaranao, mailaka na datin-kateraka.
+3. **Jereo ny alalana.** Ny lalao fitambarana tena mila toerana, mpifandray, feo na lahatahiry sary manontolo? Afaharo izay tsy ilaina.
+4. **Jereo ny dokam-barotra sy ny analytics.** Ny fitaovana fampiroboroboana sy fanarahana dia mety handefa angona momba ny fampiasana app any amin’ny orinasa hafa.
+5. **Fantaro izay toerana misy ny sary.** Raha manampy sary fianakaviana ianao, mijanona ve izy ao amin’ny fitaovana na mametraka any amin’ny server? Azonao esorina ve izy?
+6. **Jereo ny famafana.** Jereo ao amin’ny politikan’ny tsiambaratelo na ny fintinan’ny angona ny fomba hamafana angona sy kaonty. Ny app izay milaza fa tsy azo afana ny angona dia mila fitandremana bebe kokoa, indrindra raha mitazona sary na antontan-kasiam-pahasalamana.
+7. **Vakio ny politikan’ny tsiambaratelo** mba hahitana valiny mazava momba izay angona voaray, ahoana, mandra-oviana, ary amin’iza no zaraina.
 
-### Does HIPAA protect information in dementia apps?
+### Ny HIPAA ve no miaro ny fampahalalana ao amin’ny app dementia?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Matetika tsia, izay mampahagaga olona maro. Ny Departemantin’ny Fahasalamana sy Serivisy Olombelona amerikana [manazava](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) fa ny HIPAA dia mampiharina amin’ny drafitra fahasalamana, ny mpanome fikarakarana ara-pahasalamana betsaka, ny clearinghouse-n’ny fikarakarana ara-pahasalamana ary ny mpiara-miasa aminy. Amin’ny ankamaroan’ny toe-javatra dia tsy miaro ny angona ampidiranao amin’ny app ho an’ny fampiasana manokana izy, afa-tsy raha nomen’ny vondrona voaaro na mpiara-miasa aminy ilay app. App “dementia” avy amin’ny magazay app matetika dia ivelan’ny HIPAA, na dia miresaka momba ny fahasalamana aza.
 
-### What protects health data in apps that HIPAA does not cover?
+### Inona no miaro ny angon-drakitra fahasalamana ao amin’ny app izay tsy voaaron’ny HIPAA?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Ny Health Breach Notification Rule an’ny Federal Trade Commission dia mahakasika maro amin’izy ireny. Tamin’ny 2024 ny FTC dia [namita ny fanovana](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) izay manazava fa ny fitsipika dia mampiharina amin’ny app ara-pahasalamana sy teknolojia mitovy izay tsy voaaron’ny HIPAA. “Fandrava” dia ahitana fanambarana tsy nahazo fankatoavana, tsy ny fanafihana ihany, ary tsy maintsy ampahafantarina ny olona voakasiky izany sy ny FTC ny orinasa. Izany dia tambajotra fiarovana aorian’ny zavatra tsy mety, fa tsy fanampikoa fa angona ilaina ihany ny app iray ihany no alaina.
 
-## How should I read claims about research and evidence?
+## Ahoana no fomba hamakiana fanambarana momba ny fikarohana sy ny porofo?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Vakio tsara ireo fanambarana porofo, ary mitandrema indrindra amin’ny fampanantenana lehibe indrindra. Fanontaniana hatao:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Inona marina no nodinihina?** Fianarana momba ny programa fanofanana iray tsy mampiseho fa ny lalao rehetra ao amin’ny app dia miasa toy izany.
+- **Iza no nodinihina?** Ny vokatra amin’ny olona antitra salama mety tsy mihatra amin’ny olona manana dementia.
+- **Inona no nandrefesana?** Ny fahatsaran’ny lalao mihitsy dia samy hafa amin’ny fiovana amin’ny fiainana andavanandro, resaka, toe-tsaina na fahaleovan-tena.
+- **Mafy inona ny fianarana?** Fitsapana randomized controlled (RCT) dia mampitaha vondrona mampiasa ny app amin’ny vondrona tsy mampiasa azy. Fomba tsara izany, saingy RCT kely na fohy iray dia tsy porofo. Tadiavo fianarana maromaro, nataon’ny mpikaroka tsy miankina, izay mifanaraka.
+- **Milaza ve izy fa manova ny aretina?** Fianarana mampiseho fanatsarana kely amin’ny fitsapana dia tsy porofo fa ny app dia miadana, misakana na mitsabo ny dementia.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Ny pejin’ny National Institute on Aging momba ny [fahasalamana ara-tsaina sy olona antitra](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) dia manazava fitsapana lehibe NIH nanohana fanofanana ara-tsaina voarindra, avy eo mampitandrina ny mpamaky hitandrina amin’ny fanambarana fa misy lalao ordinatera na an-tserasera afaka manatsara ny fahatsiarovana sy ny fisainana. Milaza izy fa mbola tsy ampy porofo fa ny app fanofanana atidoha azo alaina dia manana ny fiantraikan’ny fanofanana voafandrika tao amin’ilay fitsapana. Azonao vakiana bebe kokoa ao amin’ny torolalanay momba ny [lalao atidoha sy ny porofo](/brain-health/brain-games/) ary [izay lazain’ny fikarohana momba ny fisorohana ny dementia](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Inona no ohatra fanambarana misy fitaka?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+Tamin’ny Janoary 2016, ny FTC dia [nanambara fifanarahana](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) tamin’ny mpamorona Lumosity, programa “fanofanana atidoha”. Nilaza ny FTC fa ny orinasa dia nanambara, nefa tsy nisy porofo ampy, fa ny lalaony dia afaka manemotra ny fihenan’ny fisainana mifandray amin’ny taona, ary miaro amin’ny fahasembanan’ny fahaiza-manavakavaka maivana, dementia ary Alzheimer. Nanaiky ny orinasa ny handoa dolara 2 tapitrisa ary tsy maintsy manana porofo siantifika mendrika sy azo itokisana alohan’ny hanaovana fanambarana toy izany any aoriana. Ity raharaha ity dia fampahatsiahivana tsara fa ny teny fanamarinana tsy porofo.
 
-### Which words are red flags?
+### Inona no teny mampitandrina?
 
-Be cautious when an app or ad says it:
+Mitandrema rehefa milaza ny app na dokam-barotra fa:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “misakana,” “mamerina,” “mampijanona” na “mitsabo” ny dementia na Alzheimer;
+- “voaporofo ara-pitsaboana” nefa tsy milaza ny fianarana, izay tafiditra tao, ary izay nandrefesana;
+- manome “saina taona” na isa fahatsiarovana izay midika fanamarinana;
+- “hanamafy,” “hanatanjaka” na “hanofana” ny atidoha;
+- mampiasa fanamarinana avy amin’ny olona ho porofo.
 
-If you are unsure about a claim, ask the person's doctor.
+Raha tsy azonao antoka momba fanambarana, anontanio ny dokotera ilay olona.
 
-## Where does Golden Moments fit?
+## Toerana misy an’ny Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Ny Golden Moments dia manome hetsika tsotra iraisana, fa tsy fitsapana fahatsiarovana, fitsaboana na torolalana ara-pitsaboana. Ny lalaonay, toy ny [Fitambarana sary](/games/picture-pairs/), [Karatra fifampiresahana](/games/conversation-cards/), [Fitambarana sary an-tokantrano](/games/photo-pairs/), [Bingo sary](/games/picture-bingo/) ary [Fisefoana mangina](/games/calm-breathing/), dia natao ho fahafinaretana sy resaka. Tsy manavaka, tsy mitsabo, tsy misakana na mandrefy ny dementia izy ireo, ary tsy manambara momba ny fahatsiarovana na ny fisainana izahay.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Manolotra app maimaim-poana koa izahay, [Golden Moments ho an’ny iPhone, iPad sy Android](/app/). Misy fampifanarana sary malemy miaraka amin’ny tile lehibe, lalao miaraka amin’ny sary fianakaviana safidinao, ary fitambarana sary izay miasa offline, tsy misy kaonty, dokam-barotra, minitra na isa. Ny lisitra fanamarinana eto dia mifarana: ny lebily tsiambaratelo ao amin’ny App Store dia milaza “Tsy nangonina angona”, ary ny [politikan’ny tsiambaratelo an’ny app](/app-privacy/) dia manazava izay toerana misy ny kopia sary.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Tiako kokoa ny hanombanana anay toy izay mahatsapa azo itokisana. Ampiasao ny lisitra fanamarinana eto, vakio ny [pejy tsiambaratelo](/privacy/) sy ny [fampitandremana ara-pitsaboana](/medical-disclaimer/) ary ajanony ny zavatra rehetra, anisan’izany ny an’ny ray, izay tsy mifanaraka amin’ilay olona atoandrom-pikarakaranao.
 
-## What is a sensible way to try a new app?
+## Inona no fomba mahasoa handrafetana app vaovao?
 
-Try it together for a couple of weeks and watch what happens.
+Andramo miaraka mandritra ny herinandro roa na telo ary jereo izay mitranga.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Apetraho aloha** amin’ny alalan’ny [torolalana fametrahana tablet sy finday](/caregiving/tablets-and-screens/) ary atombohy amin’ny sehatra mora indrindra.
+2. **Tazomina fohy ny fotoana,** jereo ny fitsiky, resaka sy fahamalinana, ary ajanony amin’ny fotoana tsara.
+3. **Esory raha miteraka fahatezerana,** na inona na inona ny naoty ambony.
