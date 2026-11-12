@@ -111,7 +111,7 @@ Vairāk par mūziku skatiet [mūzikas aktivitātes demences gadījumā](/activit
 | Ko ražo bites? | Pienu, **medu**, zīdu | Medu uz maizes vai tējā? |
 | Mazu govi sauc par... | kumeļu, **teļu**, kazlēnu | Vai kādreiz dzīvojāt tuvu saimniecībai? |
 | Kurš garš dzeltens zieds ir slavens ar pagriešanos pret sauli? | Roze, **saulespuķe**, tulpe | Kas auga jūsu dārzā? |
-| Cik dienu ir gadā, kurā ir 29. februāris? | 365, **366**, 360 | Pastāstiet par dzimšanas dienu, ko atceraties |
+| Cik dienu ir garajā gadā? | 365, **366**, 360 | Pastāstiet par dzimšanas dienu, ko atceraties |
 | Kurš gadalaiks seko ziemai? | Rudens, **pavasaris**, vasara | Kurš gadalaiks jums patīk visvairāk? |
 
 ## Ēdiens un sports

@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Kai žmogus su demencija nuolat prašo grįžti namo"
+seoTitle: "Demencija ir prašymas grįžti namo: ką pasakyti"
+description: "Kodėl žmogus, sergantis demencija, prašo grįžti namo net būdamas namuose, ką pasakyti, kokia ramindanti veikla gali padėti ir kaip apsaugoti jį, jei jis bando išeiti."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Kai žmogus su demencija nuolat prašo grįžti namo, „namai“ dažnai reiškia saugumo jausmą
+  ar vietą iš praeities, o ne pastatą. Neginčykite, kad jis jau namie. Pripažinkite jausmą,
+  patikinkite, kad jis saugus, paklauskite apie namus, tada švelniai pereikite prie nuotraukų,
+  muzikos, užkandžio, pasivaikščiojimo ar paprastos užduoties. Patikrinkite alkį, troškulį,
+  tualetą ar skausmą. Jei tai prasidėjo staiga, skambinkite jo gydytojui.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„Noriu namo“ dažnai reiškia „nesijaučiu saugus ar ramus“, o ne prašymą nurodyti adresą."
+  - "Ginčijimasis ar įrodinėjimas, kad jis jau namie, paprastai didina nerimą. Reaguokite į jausmą."
+  - "Paprašykite papasakoti apie namus, tada pasiūlykite nuotraukų, muzikos, užkandį, pasivaikščiojimą ar paprastą užduotį."
+  - "Patikrinkite tai, ką galima ištaisyti: alkį, troškulį, tualetą, skausmą, per karštį ar šaltį, triukšmą, nuovargį."
+  - "Jei tai kartojasi kiekvieną vakarą, gali būti saulėlydžio sindromas; nuoseklus ritmas ir gera šviesa gali padėti."
+  - "Pasirūpinkite saugumu, jei jis bandys išeiti, ir skambinkite gydytojui dėl bet kokio staigaus pokyčio."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Kodėl mano mama, sergant demencija, nuolat prašo grįžti namo, nors yra namuose?"
+    a: "Demencija gali pasidaryti pažįstamus kambarius svetimus, o žmonės kartais jaučiasi esantys ankstesniame gyvenimo etape. „Namai“ gali reikšti vaikystės namus ar tiesiog saugumo ir patogumo jausmą. Atsakyti į tą jausmą paprastai veikia geriau nei rodyti, kur ji yra."
+  - q: "Ką sakyti, kai jie prašo grįžti namo?"
+    a: "Pabandykite: „Čia tau saugu, ir aš būsiu su tavimi“, tada: „Papasakok apie savo namus.“ Išklausykite, parodykite nuotrauką ar padainuokite dainą, pasiūlykite gėrimą ar trumpą pasivaikščiojimą. Venkite „Tu jau namie“, pasakyto kaip pataisymas, nes tai gali atrodyti kaip pasakymas, kad jie klysta."
+  - q: "Ar gerai sakyti, kad vėliau grįšime namo?"
+    a: "Šeimos ir demencijos organizacijos į tai žiūri skirtingai. Daugelis pradeda nuo sąžiningo palaikymo ir dėmesio nukreipimo, o švelnų netiesą naudoja tik tada, kai tiesa sukeltų nerimą, kurio žmogus nesugebėtų įveikti. Ką bepasirinktumėte, būkite malonūs ir nuoseklūs ir niekada nesijuokite iš jo tikrovės suvokimo."
+  - q: "Ką daryti, jei jie bando išeiti iš namų?"
+    a: "Išlikite ramūs ir eikite kartu, o ne stokokite kelią; trumpas pasivaikščiojimas dažnai nuramina norą išeiti. Iš anksto įdiekite saugumo priemones, pavyzdžiui, identifikacinę apyrankę, durų skambutį ir neseną nuotrauką. Jei žmogus dingsta, patikrinkite artimas saugias vietas ir nedelsdami kreipkitės į vietinę policiją ar skubiosios pagalbos tarnybas. Nelaukite nustatyto minučių skaičiaus prieš pranešdami."
+  - q: "Kada turėčiau skambinti gydytojui?"
+    a: "Nedelsiant skambinkite jų gydytojui, jei prašymai ar sumišimas prasideda staiga arba per valandas ar dienas gerokai sustiprėja, ypač su karščiavimu, nauju vaistu ar šlapimo takų infekcijos požymiais. Staigus sumišimas gali būti deliriumas, kuris reikalauja skubios pagalbos. Jei kam nors gresia pavojus, skambinkite vietinei skubiosios pagalbos tarnybai."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +49,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +69,145 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„Noriu namo.“ Daugeliui šeimų tai vienas sunkiausiai girdimų dalykų, ypač kai žmogus,
+kurio prižiūrite, sėdi savo gyvenamajame kambaryje. Tai įprasta, gali pasitaikyti bet
+kuriame demencijos etape, ir yra ramių, praktiškų būdų į tai reaguoti. Šiame puslapyje
+aptariama, ką šie žodžiai dažnai reiškia, ką pasakyti, kokia veikla gali padėti tuo
+metu ir kaip išlikti saugiems.
 
-## Why does someone with dementia keep asking to go home?
+## Kodėl žmogus su demencija nuolat prašo grįžti namo?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Dažniausiai „namai“ yra jausena, o ne vieta. Alzheimerio draugija tai apibūdina kaip
+jaukumo ir saugumo pojūtį arba namus iš praeities, o ne patį namą. Demencija gali
+pažįstamus kambarius padaryti svetimus, ir žmogus gali jaustis gyvenantis ankstesniame
+gyvenimo etape, kai namai buvo vaikystės namai ar vieta, kur augino vaikus.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Šie žodžiai taip pat gali rodyti, kad dabar kažkas ne taip: žmogui gali būti alku, jis
+trokšta, nori į tualetą, skauda, jam per karšta ar per šalta, jis pavargęs, vienišas,
+išsigandęs ar pervargęs nuo triukšmo. [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
+tarp sujaudinimo priežasčių įvardija skausmą, triukšmą, vienatvę, įprasto ritmo pokyčius
+ir vaistus.
 
-## What should I say when they ask to go home?
+## Ką pasakyti, kai jie prašo grįžti namo?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Reaguokite į jausmą, o ne į žodžius. [Globėjų aljansas (Family Caregiver Alliance)](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+pataria nebandyti įtikinti žmogaus, kad jis klysta: jo jausmai tikri, todėl pirmiausia
+atsakykite palaikymu ir patikinimu, tada švelniai nukreipkite dėmesį.
 
-Phrases that often help:
+Frazės, kurios dažnai padeda:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Įvardykite jausmą.** „Atrodo, kad ilgiesi namų.“
+- **Patikinkite.** „Čia tau saugu, ir aš būsiu su tavimi.“ [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)
+  siūlo paprastus žodžius: „Čia tau saugu.“
+- **Pakvieskite prisiminti.** „Papasakok apie savo namus. Kaip atrodė tavo virtuvė?“ Klausti
+  apie tolimą praeitį paprastai yra jaukiau nei klausti apie šiandieną.
+- **Pasiūlykite ką nors kartu.** „Pirma išgerkime arbatos“ arba „Ar padėtum sulankstyti
+  šiuos rankšluosčius?“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Šiltas tonas ir ranka ant rankos, jei žmogus mėgsta prisilietimus, gali pasakyti daugiau
+nei žodžiai.
 
-## What should I avoid?
+## Ko vengti?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Ginčytis ar aiškinti.** „Tu dabar gyveni čia“ arba „Tai tavo namai jau 40 metų“ reikalauja
+  sutikti su tuo, ką demencija daro sunku priimti, ir gali atrodyti kaip pasakymas, kad jie klysta.
+- **Klausinėti.** „Ar neprisimeni?“ ar „Koks adresas?“ prideda spaudimo.
+- **Pykdami užblokuoti duris.** Jei jie ruošiasi išeiti, išlikite ramūs ir eikite kartu.
+  Trumpas pasivaikščiojimas kartu dažnai nuramina norą išeiti.
+- **Skubėti.** Duokite laiko pakalbėti apie namus prieš keisdami temą.
 
-## Activities that can help in the moment
+## Veikla, kuri gali padėti tuo metu
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Kai pripažinote jausmą, ramus, pažįstamas užsiėmimas gali nukreipti dėmesį, nenuvertindamas
+to, ką žmogus jaučia.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Žiūrėkite namų ir šeimos nuotraukas.** Vartykite puslapius ir komentuokite („Pažiūrėk
+   į tą sodą“), o ne klauskite. Telefone ar planšetėje [Nuotraukų poros](/games/photo-pairs/)
+   paverčia jūsų pačių šeimos nuotraukas švelniu atitikimo žaidimu, o nuotraukos lieka jūsų
+   įrenginyje.
+2. **Kalbėkite apie namus.** [Pokalbių kortos](/games/conversation-cards/) siūlo atvirus
+   klausimus apie namus, virtuves, kaimynus ir šventes, be teisingų ar neteisingų atsakymų.
+3. **Leiskite muziką, kurią jie mėgsta.** Nacionalinis senėjimo institutas tarp sujaudinimo
+   raminimo būdų mini ramią muziką. Žr. mūsų [muzikos veiklas](/activities/music/).
+4. **Duokite užkandį ar gėrimą.** Alkis ir troškulys gali atrodyti kaip neramumas. Puodelis
+   arbatos ar mėgstamas skanėstas taip pat yra mažas namų jausmo ritualas.
+5. **Eikite pasivaikščioti ar sėdėkite lauke.** Judėjimas ir dienos šviesa padeda, ypač
+   ankstyvą dieną.
+6. **Duokite pažįstamą darbą.** Skalbinių lankstymas, stalo įrankių rūšiavimas ar augalų
+   laistymas gali sugrąžinti jausmą, kad tvarkote namus.
+7. **Viską lėtinkite.** Išjunkite televizorių, sumažinkite triukšmą ir blyksėjimą ir išbandykite
+   bendrą [ramų kvėpavimą](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Jei viena idėja neveikia, pabandykite kitą vėliau. Tylus kartu praleistas laikas taip pat
+yra geras rezultatas.
 
-## Check for a cause you can fix
+## Patikrinkite priežastį, kurią galima ištaisyti
 
-| Check | What to try |
+| Patikrinimas | Ką pabandyti |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Alkis ar troškulys | Pasiūlykite gėrimą ir nedidelį užkandį |
+| Reikia į tualetą | Pasiūlykite apsilankyti tualete, ramiai ir be ceremonijų |
+| Skausmas ar nepatogumas | Ieškokite požymių, pavyzdžiui, grimasos, kūno dalies laikymo ar vidurių užkietėjimo, ir pasakykite gydytojui |
+| Per karšta ar per šalta | Pakeiskite drabužių sluoksnį ar kambario temperatūrą |
+| Triukšmas ar spūstis | Persikelkite į tylesnį kambarį, išjunkite televizorių |
+| Pavargęs ar perdirgęs | Poilsis, prigesinkite šviesą, įjunkite tylią muziką |
+| Vėlyvas popietis | Žr. toliau esantį skyrių apie saulėlydžio sindromą |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimerio draugija pataria trumpai užrašyti, kada prašymai kartojasi, pavyzdžiui, prieš
+valgį, po svečių ar prieblandoje. Pasikartojantys modeliai padeda planuoti iš anksto.
 
-## Is it okay to tell a white lie?
+## Ar gerai pasakyti švelnią netiesą?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Tai tikras ginčas, ir rūpestingos šeimos priima skirtingus sprendimus. Alzheimerio draugija
+teigia, kad vieno teisingo atsakymo nėra: netiesos kai kuriuos žmones gali padaryti dar
+įtartivesnius, todėl nusprendžiate, kas geriausia žmogaus interesams, ir laikotės nuoseklumo.
+Penn Memory Center bendradirektorius mano, kad tiesa yra numatytoji nuostata, o švelni
+netiesa priimtina tik tada, kai žmogus negali suvokti konkrečios tiesos, ir kad niekada
+nereikia juoktis iš jo tikrovės.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Daugelis globėjų mano, kad tinka tarpinis kelias: pirmiausia sąžiningas palaikymas ir dėmesio
+nukreipimas („Šią naktį pasiliksime čia, ir aš esu čia pat su tavimi“), be ginčų, kur yra namai.
 
-## What if it happens every afternoon or evening?
+## O jei taip nutinka kiekvieną popietę ar vakarą?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Neramumas, kuris prasideda ar sustiprėja vėlyvą popietę, dažnai vadinamas saulėlydžio sindromu.
+[Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
+pataria nuoseklaus grafiko, kasdienės saulės šviesos ir veiklos, mažiau vėlyvų miegų ir jokio
+kofeino ar alkoholio vėlai dieną. Šviesų įjungimas prieš prieblandą taip pat gali padėti. Daugiau
+rasite mūsų vadove apie [ramią veiklą vėlyvą popietę](/caregiving/late-day-restlessness/).
 
-## Keeping them safe if they try to leave
+## Kaip apsaugoti juos, jei jie bando išeiti?
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Prašymas grįžti namo gali virsti klajojimu. [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)
+apskaičiuoja, kad šeši iš dešimties žmonių, gyvenančių su demencija, bent kartą nuklysta.
 
-**Prepare ahead:**
+**Pasiruoškite iš anksto:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Identifikacinę ar medicininę apyrankę su jų vardu ir jūsų telefono numeriu, taip pat
+  pažymėkite drabužius. [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and)
+  mini MedicAlert ir Alzheimerio asociacijos programą „Safe and Found“, kuri gali kainuoti.
+- Durų skambutį ar signalą ir užraktus, įrengtus aukštai ar žemai. Niekada nerakinkite
+  žmogaus vieno.
+- Neseną nuotrauką iš arti ir vietų, kur jie galėtų nueiti, sąrašą, pavyzdžiui, buvusius namus
+  ar darbovietę.
+- Pasakykite patikimiems kaimynams ir palikite jiems savo numerį.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Jei jie dingsta:** patikrinkite artimas saugias vietas ir nedelsdami kreipkitės į vietinę
+policiją ar skubiosios pagalbos tarnybas. Nelaukite nustatyto minučių skaičiaus prieš pranešdami.
+2021 m. [JAV Teisingumo departamento žurnalo straipsnis apie dingusių asmenų tyrimus](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=)
+teigia, kad teisėsaugos institucijos neturėtų reikalauti nustatyto laukimo laikotarpio; jame taip
+pat demencijai būdingi simptomai įvardijami kaip didelės rizikos požymis. Vietinės pranešimo
+procedūros skiriasi. Pasakykite reaguojantiems, kad žmogus serga demencija, nurodykite paskutinę
+žinomą vietą ir pateikite neseną nuotrauką, ir vykdykite jų nurodymus. Jei yra kitas pagalbininkas,
+paprašykite jo likti prie telefono. Nieko nepaieškokite nesaugiose vietose vieni.
 
-## When should I call a doctor?
+## Kada kreiptis į gydytoją?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Nedelsiant skambinkite jų gydytojui, jei prašymai ar sumišimas prasideda staiga arba per valandas
+ar dienas gerokai sustiprėja. [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
+teigia, kad staigų ar greitai kintantį elgesį, ypač po infekcijos ar vaistų pakeitimo, reikia
+iš karto patikrinti. Staigus sumišimas gali būti deliriumas, kuriam, pagal [NHS](https://www.nhs.uk/symptoms/confusion/),
+reikia skubios pagalbos; šlapimo takų infekcijos yra dažna priežastis vyresnio amžiaus žmonėms.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Kitame apsilankyme taip pat verta paminėti nuoseklų modelį, nes skausmas, prastas nuotaikos
+ar miego sutrikimai ar šalutinis vaistų poveikis gali turėti įtakos.

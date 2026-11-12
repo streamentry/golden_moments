@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Ankstyvi demencijos požymiai ir kada kreiptis į gydytoją"
+seoTitle: "Ankstyvi demencijos požymiai ir kada kreiptis į gydytoją"
+description: "Dažniausi ankstyvi demencijos požymiai, kuo jie skiriasi nuo įprasto senėjimo, gydomos atminties sutrikimų priežastys ir kaip pasiruošti apsilankymui pas gydytoją."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Atminties praradimas, trukdantis kasdieniam gyvenimui, sunkumai atliekant įprastas užduotis,
+  painiava dėl laiko ar vietos ir nuotaikos ar sprendimų pokyčiai gali būti ankstyvi demencijos
+  požymiai. Panašius pokyčius gali sukelti ir daug kitų būklių, įskaitant skydliaukės sutrikimus,
+  mažą vitamino B12 kiekį, šalutinį vaistų poveikį, depresiją ir miego problemas. Diagnozuoti gali
+  tik kvalifikuotas specialistas. Staigus sumišimas reikalauja skubios pagalbos.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Retas pamiršimas su amžiumi yra įprastas; pokyčiai, trikdantys kasdienį gyvenimą, verti patikrinimo."
+  - "Alzheimerio asociacija aprašo 10 įspėjamųjų požymių, kiekvieną palygindama su tipišku su amžiumi susijusiu pokyčiu."
+  - "Skydliaukės sutrikimai, mažas vitamino B12 kiekis, šalutinis vaistų poveikis, depresija, infekcijos ir miego problemos gali paveikti atmintį, o kai kurias iš jų galima gydyti."
+  - "Demenciją gali diagnozuoti tik kvalifikuotas specialistas; internetiniai testai ir savitikros negali."
+  - "Sumišimas, atsiradęs staiga, per valandas ar dienas, gali būti deliriumas ir reikalauja skubios medicininės pagalbos."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ar pamiršimas yra normali senėjimo dalis?"
+    a: "Tam tikras pamiršimas – taip. Nacionalinis senėjimo institutas teigia, kad retas daiktų padėjimas ne vietoje ar pamiršta sąskaita paprastai yra lengvas su amžiumi susijęs pamiršimas. Demencija nėra normali senėjimo dalis. Atminties problemos, dėl kurių sunku atlikti kasdienius darbus, pavyzdžiui, vairuoti, naudotis telefonu ar rasti kelią namo, verti patikrinimo pas gydytoją."
+  - q: "Ar atminties problemas gali sukelti kas nors kita, o ne demencija?"
+    a: "Taip. Nacionalinis senėjimo institutas nurodo skydliaukės, inkstų ar kepenų problemas, vaistų šalutinį poveikį, depresiją ir nerimą, mažą vitamino B12 kiekį, alkoholio vartojimo problemas, miego sutrikimus, infekcijas ir galvos traumas, be kita. Kai kurios iš jų pagerėja, kai gydomos, todėl medicininis patikrinimas svarbus."
+  - q: "Ar galiu namuose patikrinti, ar žmogus serga demencija?"
+    a: "Ne. Demenciją gali diagnozuoti tik kvalifikuotas specialistas, remdamasis ligos istorija, fiziniu tyrimu, atminties ir mąstymo testais, laboratoriniais tyrimais ir kartais smegenų tyrimais. Net trumpi testai, kuriuos naudoja gydytojai, patys savaime nepakanka demencijai diagnozuoti."
+  - q: "Ką daryti, jei žmogus staiga sumišo?"
+    a: "Nedelsiant kreipkitės medicininės pagalbos. Staigus sumišimas gali būti deliriumas, kurį JAV Veteranų reikalų departamentas apibūdina kaip medicininę avariją. Iš karto skambinkite žmogaus sveikatos priežiūros specialistui arba vietinei skubiosios pagalbos tarnybai, būkite šalia ir užsirašykite, kokius vaistus jis vartoja."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,139 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Pastebėjus pokyčius savo atmintyje ar mylimo žmogaus atmintyje, gali kilti baimė. Šis
+puslapis gali padėti nuspręsti, kada užsirašyti pas gydytoją, ir kaip tam pasiruošti.
+Jis negali pasakyti, ar kas nors serga demencija. **Demenciją gali diagnozuoti tik
+kvalifikuotas specialistas**, o daugelis būklių, sukeliančių atminties problemas, visai
+nėra demencija. Prašome nesiremti internetiniais testais ar savitikra.
 
-## What are the early signs of dementia?
+## Kokie yra ankstyvi demencijos požymiai?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimerio asociacija](https://www.alz.org/alzheimers-dementia/10_signs) aprašo 10
+ankstyvų požymių. Kiekvieną ji palygina su tipišku su amžiumi susijusiu pokyčiu. Mūsų
+žodžiais:
 
-| Sign worth checking | More typical with age |
+| Požymis, kurį verta patikrinti | Dažniau pasitaiko su amžiumi |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Atminties praradimas, trukdantis kasdieniam gyvenimui, pavyzdžiui, pamirštami neseni įvykiai ar tas pats klausimas kartojamas vėl ir vėl | Kartais pamirštamas vardas ar susitikimas, bet vėliau prisimenamas |
+| Sunkumai planuojant ar sprendžiant problemas, pavyzdžiui, sekant įprastą receptą ar tvarkant sąskaitas | Retkarčiais padaroma klaida namų ūkio sąskaitose |
+| Sunkumai baigti įprastas užduotis namie, darbe ar išeinant | Retkarčiais reikia pagalbos nustatant mikrobangų krosnelę ar įrašant televizijos laidą |
+| Pametamas laiko, metų laikų ar vietos pojūtis | Dienos savaitėje supainiojimas, o paskui prisiminimas |
+| Naujas sunkumas vertinant atstumą, skaitant ar atskiriant spalvas | Regos pokyčiai dėl kataraktos |
+| Nauji žodžių sunkumai, pavyzdžiui, pokalbio metu sustojama ar daiktai vadinami neteisingu vardu | Kartais sunku surasti tinkamą žodį |
+| Daiktai padedami neįprastose vietose ir negalima atsekti savo žingsnių | Retkarčiais daiktai padedami ne ten, o surandami prisiminus savo žingsnius |
+| Prastas sprendimų priėmimas, pavyzdžiui, susijęs su pinigais ar asmenine priežiūra | Retkarčiais priimamas prastas sprendimas |
+| Atsitraukimas nuo pomėgių, darbo ar socialinės veiklos | Kartais nesinori eiti į šeimos ar socialinį renginį |
+| Nuotaikos ar asmenybės pokyčiai, pavyzdžiui, sumišimas, įtarumas, baimė ar nerimas | Nusistovėję įpročiai ir dirglumas, kai sutrinka įprastas ritmas |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Vienas požymis dar nereiškia demencijos. Svarbiausias dalykas – **pokytis, nukrypstantis
+nuo to, kas tam žmogui įprasta**, ypač toks, kuris apsunkina kasdienį gyvenimą.
 
-## How is normal aging different from dementia?
+## Kuo įprastas senėjimas skiriasi nuo demencijos?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Nacionalinis senėjimo institutas (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging)
+teigia, kad daugelis vyresnio amžiaus žmonių pastebi, kad prisimena lėčiau, arba kartais
+padeda daiktus ne ten ar pamiršta sąskaitą. Paprastai tai yra lengvo pamiršimo požymiai.
+**Demencija nėra normali senėjimo dalis.** Rimtos atminties problemos apsunkina kasdienę
+veiklą, pavyzdžiui, vairavimą, telefono naudojimą ar kelio namo radimą.
 
-The NIA suggests talking with a doctor if someone:
+NIA pataria kalbėtis su gydytoju, jei žmogus:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Vis klausia tų pačių klausimų
+- Pasimeta vietose, kurias anksčiau gerai pažinojo
+- Sunkiai seka receptus ar nurodymus
+- Vis labiau painiojasi dėl laiko, žmonių ir vietų
+- Nebeprižiūri savęs, pavyzdžiui, valgo prastai, nesiprausia ar elgiasi nesaugiai
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Kai kurie žmonės turi **lengvą pažintinį sutrikimą (LPS)**. Tai reiškia daugiau atminties
+ar mąstymo problemų nei kitų to amžiaus žmonių, tačiau jie vis dar tvarko kasdienį
+gyvenimą. NIA teigia, kad LPS gali būti ankstyvas Alzheimerio ligos požymis, tačiau ne
+visi su LPS ją suserga.
 
-## What else can cause memory problems?
+## Kas dar gali sukelti atminties problemas?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Atmintį gali paveikti daug dalykų, nesusijusių su demencija, ir kai kurie iš jų pagerėja
+gydant. NIA išvardija:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Skydliaukės, inkstų ar kepenų problemas**
+- **Vaistų šalutinį poveikį**
+- **Depresiją ir nerimą**
+- **Mažą vitamino B12 kiekį** arba nepakankamą sveikos mitybos vartojimą
+- **Miego problemas**
+- **Alkoholio ar narkotikų piktnaudžiavimą**
+- **Infekcijas, kraujo krešulius ar smegenų navikus**
+- **Galvos traumą**, pavyzdžiui, smegenų sukrėtimą
+- **Didelį stresą ar sielvartą**, pavyzdžiui, išėjimą į pensiją ar sutuoktinio netekimą
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Klausos ir regos problemos taip pat gali būti supainiotos su sumišimu; žr. mūsų
+[klausos vadovą](/brain-health/hearing/). Todėl svarbus medicininis patikrinimas. Pagal
+[Alzheimerio asociaciją](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)
+gydytojai dažnai paskiria kraujo tyrimus, kad patikrintų skydliaukės sutrikimus, vitaminų
+trūkumą ir infekciją. Verta paminėti ir gerą [miegą](/brain-health/sleep/) bei depresijos
+gydymą.
 
-## Sudden confusion is an emergency
+## Staigus sumišimas yra skubi situacija
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Sumišimas, kuris ištinka greitai, per valandas ar dienas, reikalauja skubios medicininės
+pagalbos.** Tai gali būti deliriumas. [VA apibūdina deliriumą](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp)
+kaip medicininę avariją ir pataria iš karto skambinti žmogaus sveikatos priežiūros
+specialistui arba vietinei skubiosios pagalbos tarnybai. Požymiai:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Aiškaus mąstymo gebėjimo svyravimai
+- Sunkumai susikaupti
+- Sutrikęs mąstymas
+- Neįprastas mieguistumas arba neįprastas neramumas ir sujaudinimas
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Tai gali nutikti bet kam, įskaitant žmones, kurie jau gyvena su demencija. Pagal
+[NHS](https://www.nhs.uk/symptoms/confusion/) dažnos priežastys yra infekcijos (šlapimo takų
+infekcijos vyresnio amžiaus žmonėms ir žmonėms su demencija yra dažnos), insultas, mažas
+cukraus kiekis kraujyje diabeto atveju, galvos trauma ir kai kurie vaistai. Kol laukiate
+pagalbos, būkite šalia žmogaus ir ramink jį trumpais, paprastais žodžiais. Nedarykite daug
+klausimų ir užsirašykite visus vaistus, kuriuos jis vartoja.
 
-## How do I prepare for the doctor's appointment?
+## Kaip pasiruošti apsilankymui pas gydytoją?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Geras apsilankymas prasideda nuo gerų užrašų. [Alzheimerio asociacija](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)
+pataria pasiimti:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Pokyčių sąrašą** atminties, nuotaikos ir elgesio srityse, su konkrečiais pavyzdžiais ir
+   maždaug tuo, kada jie prasidėjo
+2. **Buvusias ir dabartines sveikatos problemas**, įskaitant šeimos atminties problemų istoriją
+3. **Visus receptinius ir vaistinėse be recepto parduodamus vaistus**
+4. **Visus vitaminus ar papildus**
+5. **Savo klausimus**, pavyzdžiui, kokie tyrimai bus atlikti, kiek jie truks ir kada bus rezultatai
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Taip pat padeda pasiimti šeimos narį ar draugą, kuris žmogų gerai pažįsta. [NIA paaiškina](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed),
+kad gydytojai gali klausti ir paties žmogaus, ir šeimos nario apie sveikatą, vaistus,
+kasdienę veiklą ir elgesio pokyčius. Gydytojai taip pat gali:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Atlikti atminties, problemų sprendimo, dėmesio, skaičiavimo ir kalbos testus
+- Paskirti kraujo, šlapimo ir kitus tyrimus, ieškodami kitų priežasčių
+- Patikrinti depresiją ar kitas psichikos sveikatos būkles
+- Paskirti smegenų tyrimus, pavyzdžiui, KT ar MRT
+- Nukreipti pas specialistą, pavyzdžiui, geriatrą, neurologą, geriatrinį psichiatrą ar neuropsichologą
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA pažymi, kad pažintinis vertinimas yra privalomas JAV „Medicare“ metinio sveikatos
+patikrinimo dalis, todėl tai gali būti natūralus laikas kelti rūpesčius. Net trumpi testai,
+kuriuos naudoja gydytojai, patys savaime nepakanka demencijai diagnozuoti. Jie yra pirmas
+žingsnis į išsamesnį įvertinimą, o diagnozei gali prireikti daugiau nei vieno apsilankymo.
+NIA pataria žmonėms su atminties problemomis grįžti pas gydytoją kas 6–12 mėnesių.
 
-## Raising the subject kindly
+## Švelniai kalbėkite apie tai
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Jei nerimaujate dėl kito žmogaus, pasirinkite ramų, privatų momentą. Kalbėkite apie
+konkrečius pastebėtus dalykus, pateikdami tai kaip rūpestį jo sveikata, o ne kaip kritiką.
+Pasiūlyti bendrą sveikatos patikrinimą gali būti mažiau gąsdinanti. Įtraukite patį žmogų
+į sprendimus ir kalbėkite su juo kaip su suaugusiu. Gali padėti mūsų [bendravimo patarimai](/caregiving/communication-tips/).
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Jei pastebite naujus ir nuolat kartojamus atminties, mąstymo, nuotaikos ar kasdienių
+gebėjimų pokyčius, užsiregistruokite pas šeimos gydytoją. Staigiam sumišimui – nedelsiant
+skambinkite vietinei skubiosios pagalbos tarnybai arba žmogaus sveikatos priežiūros
+specialistui. Anksti pasitikrinus galima rasti gydomas priežastis, o jei tai demencija, lieka
+daugiau laiko planuoti ir ieškoti pagalbos. Rūpinkitės ir savimi; žr. mūsų
+[globėjo savipagalbos vadovą](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Šis puslapis yra bendra informacija, ne medicininė konsultacija. Žr. mūsų
+[medicininį atsakomybės apribojimą](/medical-disclaimer/).
