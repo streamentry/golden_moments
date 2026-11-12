@@ -18,7 +18,7 @@ keyPoints:
   - "Béjaan ka dokter lamun ngagem baju jadi hese sacara anyar atawa ngadadak."
 faq:
   - q: "Kumaha abdi bisa mantuan batur kalayan demensia ngagem baju?"
-    a: "Pasihan waktu tambahan, tawarkeun pilihan leutik tina baju anu akrab, sarta atur barang-barang dina urutan anu bakal dipake. Pasihan hiji isyarat pondok dina hiji waktu sarta ngantep jalmana ngalakukeun bagian anu manéhna hoyong.""
+    a: "Pasihan waktu tambahan, tawarkeun pilihan leutik tina baju anu akrab, sarta atur barang-barang dina urutan anu bakal dipake. Pasihan hiji isyarat pondok dina hiji waktu sarta ngantep jalmana ngalakukeun bagian anu manéhna hoyong."
   - q: "Kumaha lamun manéhna hoyong ngagem baju anu sarua deui?"
     a: "Ulah ngoréksi atawa ngajieun manéhna isin. Lamun manéhna satuju, tawarkeun baju bersih dina gaya anu akrab atawa salinan tina barang kasukaan. Hormat kana pilihanana lamun baju éta nyaman sarta cocog jeung cuaca."
   - q: "Naha abdi kudu mantuan batur ganti baju?"

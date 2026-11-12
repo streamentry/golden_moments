@@ -1,7 +1,7 @@
 ---
 title: "Ngarojong Jalma kalayan Demensia nu Cicing Sorangan"
 seoTitle: "Cicing Sorangan kalayan Demensia: Rojongan pikeun Kulawarga"
-description: "Rojongan pikeun jalma kalayan demensia nu cicing sorangan: rutinitas taheun, pemeriksaan nu disapuk jeung pitulung praktis, sambil tetep ngahormat kahayang jeung kamandirian manéhna."
+description: "Rojongan pikeun jalma kalayan demensia nu cicing sorangan: rutinitas, pemeriksaan nu disapuk jeung pitulung praktis, tetep ngahormat kamandirian manéhna."
 section: caregiving
 order: 12
 updated: 2026-11-11

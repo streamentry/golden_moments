@@ -1,7 +1,7 @@
 ---
 title: "Lamun Kulawarga Teu Satuju Ngeunaan Perawatan Demensia"
 seoTitle: "Teu Satujuna Kulawarga Ngeunaan Perawatan Demensia"
-description: "Cara tenang pikeun ngobrolkeun béda pendapat ngeunaan perawatan demensia: lebetkeun kahayang jalmana, pisahkeun fakta jeung anggapan, bagi tugas jeung menta pitulung ti luar."
+description: "Cara tenang pikeun ngobrolkeun béda pendapat perawatan demensia: lebetkeun kahayang jalmana, pisahkeun fakta jeung anggapan, bagi tugas jeung menta pitulung ti luar."
 section: caregiving
 order: 33
 updated: 2026-11-11
