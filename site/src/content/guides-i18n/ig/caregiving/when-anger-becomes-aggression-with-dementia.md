@@ -60,7 +60,7 @@ Kwụsị ọrụ ahụ, kwaga azụ ma kwuo ahịrịokwu dị mkpirikpi na n'u
 
 ## Kedu ihe nwere ike ịkpata omume a?
 
-Ihe ọ bụla nwere ike ịbụ ihe kpatara ya, onye ezinụlọ enweghị ike ịchọpụta ihe kpatara ya. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) na-edepụta nsogbu anụ ahụ, nrụgide gburugburu ebe ma ọ bụ nsogbu nkwurịta okwu dị ka ihe ndị nwere ike ịkpata ya.
+Ihe ọ bụla nwere ike ịbụ ihe kpatara ya, onye ezinụlọ enweghị ike ịchọpụta ihe kpatara ya. Alzheimer's Association na-edepụta nsogbu anụ ahụ, nrụgide gburugburu ebe ma ọ bụ nsogbu nkwurịta okwu dị ka ihe ndị nwere ike ịkpata ya.
 
 Lebara anya n'ihe mere ọ dịghị anya tupu mgbanwe ahụ:
 
@@ -86,7 +86,7 @@ Maka echiche ọrụ dị iche iche, lee ntuziaka anyị maka [ịsa ahụ](/car
 
 ## Kedu ihe m ga-eme mgbe ọnọdụ ahụ dị jụụ?
 
-Nye nkasi obi ma laghachi n'omume a maara nke ọma, dị ntakịrị mkpa, ma ọ bụrụ na onye ahụ chọrọ nke ahụ. Ekwula, ekpeere ụta ma ọ bụ kpọọ onye ahụ ajụ. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) na-ekwu na onye ahụ nwere ike ịgbu ike n'obi mgbe omume ahụ gasịrị, ọbụlagodi ma ọ maghị ihe mere.
+Nye nkasi obi ma laghachi n'omume a maara nke ọma, dị ntakịrị mkpa, ma ọ bụrụ na onye ahụ chọrọ nke ahụ. Ekwula, ekpeere ụta ma ọ bụ kpọọ onye ahụ ajụ. Alzheimer's Society na-ekwu na onye ahụ nwere ike ịgbu ike n'obi mgbe omume ahụ gasịrị, ọbụlagodi ma ọ maghị ihe mere.
 
 Ọ bụrụ na ịchọrọ ịghọta ụkpụrụ, dee ihe dị mkpirikpi nke nzuzo nke ihe mere tupu ya, ihe ị hụrụ, ogologo oge ya nọrọ na ihe yiri ka ọ nyeere aka. Debe ihe ahụ n'ụzọ ezi uche ma kekọrịta ya na otu nlekọta onye ahụ mgbe ọ dị mma. Zere ịdeko onye ahụ ma ọ bụ kesaa nkọwa nzuzo na-enweghị ikike.
 
