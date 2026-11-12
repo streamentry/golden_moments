@@ -46,7 +46,7 @@ Gæludýr getur verið hluti af daglegum takti og fjölskyldulífi viðkomandi. 
 Byrjaðu á því að spyrja viðkomandi hvaða verk hann eða hún hefur gaman af og vill halda. Einn gæti viljað gefa kettinum en ekki þrífa kattasandkassann; annar vill ganga með hundinn ásamt fjölskyldumeðlimi. Hafðu áætlunina sértæka fyrir viðkomandi, gæludýrið og þá aðstoð sem er í boði.
 
 - **Tengdu umhirðuna við rútínu sem er þegar til.** Settu mat fram eftir morgunmat, athugaðu vatnsskálina þegar þú hellir upp á te eða farðu með hundinn eftir kunnuglegan útvarpsþátt. Vísbending sem er þegar hluti af deginum getur verið auðveldari að fylgja en ný tímaáætlun.
-- **Geymdu birgðir á einum kunnuglegum stað.** Geymdu mat,ól eða bursta gæludýrsins saman þar sem viðkomandi býst við þeim, og haltu þungum hlutum og efnum örugglega frá. Einfaldur miði eða merki getur hjálpað ef viðkomandi vill hafa það.
+- **Geymdu birgðir á einum kunnuglegum stað.** Geymdu mat, ól eða bursta gæludýrsins saman þar sem viðkomandi býst við þeim, og haltu þungum hlutum og efnum örugglega frá. Einfaldur miði eða merki getur hjálpað ef viðkomandi vill hafa það.
 - **Hafðu eina áminningu sýnilega.** Stuttur miði við gæludýrabirgðirnar eða dagatalsfærsla getur dugað. Forðastu að fylla heimilið af áminningum sem láta viðkomandi líða fylgst með eða leiðrétt.
 - **Gefðu tíma fyrir verkið.** Göngutúr eða fóðrun getur tekið lengri tíma en áður. Ekki flýta viðkomandi í gegnum það ef hann eða hún nýtur samverunnar.
 
