@@ -21,13 +21,13 @@ keyPoints:
   - "Ýatlama agyrly bolsa ýa-da adam gaharlansa, gürrüňi ýumşak üýtgediň we ýakymly zada gaýdyň."
 faq:
   - q: "Demensiýasy bolan adamlar üçin haýsy ýatlama soraglary gowy?"
-    a: "Açyk çagyryşlar iň oňat işleýär: 'Siz ulalan ýeriňiz hakda gürrüň beriň', 'Siz nähili naharlary bişirmegi halaýardyňyz?', 'Ýaşlygyňyzda haýsy aýdyma pyşdyk?' ýa-da 'Çaga wagtyňyzda baýram nähili bolýardy?' Her biri bir dogry jogap däl-de, hekaýa çagyrýar."
+    a: "Açyk çagyryşlar iň oňat işleýär: 'Siz ulalan ýeriňiz hakda gürrüň beriň', 'Siz nähili naharlary bişirmegi halaýardyňyz?', 'Ýaşlygyňyzda haýsy aýdymlara tans edýärdiňiz?' ýa-da 'Çaga wagtyňyzda baýram nähili bolýardy?' Her biri bir dogry jogap däl-de, hekaýa çagyrýar."
   - q: "Ýatlama bilen quizleme arasyndaky tapawut näme?"
     a: "Ýatlama paýlaşylýan hekaýa, ýalňyş jogap ýok. Quiz belli bir fakty soraýar we jogaby barlaýar. Quiz adamy synagdan geçýän we utanýan ýaly duýdurýar, şonuň üçin gürrüňi açyk we ýylylykda saklaň."
   - q: "Adamyň geçmiş barada ýadamasy ýalňyş bolsa näme etmeli?"
-    a: "Ony dogrulaň, gynanç ýa-da howpsuzlyk meselesi bolmasa. Senelerini ýa-da adyny düzetmäň. Hadysa hakda duýgusyny ýa-da onuň manysyny soraň."
+    a: "Ony dogrulaň, gynanç ýa-da howpsuzlyk meselesi bolmasa. Ýyllaryny ýa-da adyny düzetmäň. Hadysa hakda duýgusyny ýa-da onuň manysyny soraň."
   - q: "Ýatlama sessiýasy näçe wagt dowam etmeli?"
-    a: "On-ýigrimi minut köplenç ýeterlik, gysga bolsa hem bolýar. Adam ýadanan, gynanan ýa-da gyzyklanmasy gidende duruň we bilelikde wagt geçirmegiň başga usulyny tapyň."
+    a: "On-ýigrimi minut köplenç ýeterlik, gysga bolsa hem bolýar. Adam ýadaýan, gynanýan ýa-da gyzyklanmasy gidende duruň we bilelikde wagt geçirmegiň başga usulyny tapyň."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"

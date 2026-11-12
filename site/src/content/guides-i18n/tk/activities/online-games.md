@@ -21,13 +21,13 @@ keyPoints:
   - "Erken saklamak gowy netijedir. Bu oýunlarda hiç zat adamy ölçemeýär ýa-da ball goýmaýar."
 faq:
   - q: "Demensiýasy bolan adamlar ýükleme etmän haýsy mugt onlaýn oýunlar oýnap biler?"
-    a: "Ýönekeý surat oýunlary has oňat işleýär: şol bir suratlary deňeşdirmek, birnäçe saýlamadan şol bir suraty tapmak, zatlary sebetlere saýlamak we surat kesilip, böleklerini çalşyryp bolýan çözgüt. Golden Moments bularyň hemmesini brauzerde, ýükleme we hasapsyz hödürleýär. Bolsa iň uly suratly görnüşden başlaň."
+    a: "Ýönekeý surat oýunlary has oňat işleýär: şol bir suratlary deňeşdirmek, birnäçe saýlamadan şol bir suraty tapmak, zatlary sebetlere saýlamak we surat kesilip, böleklerini çalşyryp bolýan çözgüt. Golden Moments bularyň hemmesini brauzerde, ýükleme we hasapsyz hödürleýär. Mümkin bolsa, iň uly suratly görnüşden başlaň."
   - q: "Akyl oýunlary demensiýa kömek edýärmi?"
     a: "Hiç bir oýun demensiýany bejermeýär, haýal etmeýär ýa-da öňüni almaýar. Federal söwda komissiýasy (ABŞ) akyl tälimi kompaniýalaryna subut edip bolmaýan talaplary üçin çäre gördi. Bu oýunlary olar ýakymly we paýlaşmak aňsat bolany üçin oýnaň, dermanhana hökmünde däl."
   - q: "Onlaýn oýunlar demensiýasy bolan adam üçin howpsuzmy?"
     a: "Gözegçilik astynda bolsa, howpsuz bolup biler. Enjamy ýolundan çykyp gitmek islän adamdan daşda saklaň, reklama ýa-da daşky baglanyşyklardan saklanyň we hiç haçan adamy töleg ýa-da hasap ekranynda ýalňyz goýmaň. Suratlary goşmazdan ozal enjamyň gizlinlik sazlamalaryny barlaň."
   - q: "Adam oýundan gynanýan bolsa näme etmeli?"
-    a: "Has ýönekeý görnüşe geçiň, az surat ulanyň ýa-da başga oýun saýlaň. Eger ol gynanýan bolsa, enjamy aýryň we bir çaý, gezelenç ýa-da aýdym teklip ediň. Gynandyrýan oýny tamamlamaga değmeýär."
+    a: "Has ýönekeý görnüşe geçiň, az surat ulanyň ýa-da başga oýun saýlaň. Eger ol gynanýan bolsa, enjamy aýryň we bir çaý, gezelenç ýa-da aýdym teklip ediň. Gynandyrýan oýny tamamlamaga degmeýär."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -99,4 +99,4 @@ Bu oýunlary günüň bir bölegi hökmünde ulanyň, beýleki bölegi aýdym, g
 
 ## Haçan saklamaly
 
-Adam ýadanan, gözi çekilen, gaharlanan ýa-da rahatsyz bolanda saklaň. Gyzyklanmasy gidende saklaň. Erken saklamak gowy netijedir. Başga gün gaýdyp gelip bilersiňiz ýa-da gürrüň ýa-da gezelenç ýaly başga çäre saýlap bilersiňiz.
+Adam ýadaýan, gözi çekilen, gaharlanan ýa-da rahatsyz bolanda saklaň. Gyzyklanmasy gidende saklaň. Erken saklamak gowy netijedir. Başga gün gaýdyp gelip bilersiňiz ýa-da gürrüň ýa-da gezelenç ýaly başga çäre saýlap bilersiňiz.

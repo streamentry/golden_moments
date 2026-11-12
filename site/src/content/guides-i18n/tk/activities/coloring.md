@@ -10,8 +10,8 @@ summary: >-
   Reňk berme ýönekeý we açyk ahyrly işjeňlikdir: ýalňyş jogap ýok, ol islendik
   pursatda saklanyp bilner. Alzgeýmer ýa-da demensiýasy bolan adamlar üçin
   ulular üçin nagyşlary, giň we arassa şekilleri saýlaň, galyň kalemleri ýa-da
-  flomasteri teklip ediň. Ýanynda oturyň, reňkleri öwüň, ýönekeýligi däl, we
-  nädip saklamagy adamyň özi karar etsin. Ekranda reňk berme oýny we çap
+  flomasteri teklip ediň. Ýanynda oturyň, arassalygy däl-de, reňkleri öwüň, we
+  haçan duranyny adamyň özi karar etsin. Ekranda reňk berme oýny we çap
   edilýän sahypalar ikisi-de saýlamalardyr.
 keyPoints:
   - "Ulular üçin nagyşlary saýlaň: tebigat sahnalary, mandalalar, tanyş zatlar we giň ýönekeý nagyşlar, çagalara degişli surat däl."
@@ -93,4 +93,4 @@ Döredijilik işi hakda derejä görä köp maglumat üçin [ulular üçin sunga
 
 ## Haçan saklamaly
 
-Adam gaharlansa, kagyzy itere, ýa-da ýadasa saklaň. Eger olar ýakymly wagt geçirse, iki minutdan soň duranlygyňyz hem üstünlikdir. Soňra gaýdyp gelip bilersiňiz ýa-da başga surat ýa-da başga çäre, mysal üçin [duýgy oýunlary](/activities/sensory/), synap bilersiňiz.
+Adam gaharlansa, kagyzy ýana itse ýa-da ýadasa, saklaň. Eger olar ýakymly wagt geçirse, iki minutdan soň duranlygyňyz hem üstünlikdir. Soňra gaýdyp gelip bilersiňiz ýa-da başga surat ýa-da başga çäre, mysal üçin [duýgy oýunlary](/activities/sensory/), synap bilersiňiz.

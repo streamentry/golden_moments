@@ -43,7 +43,7 @@ related: [activities/care-home-groups, activities/printable, activities/trivia, 
 health: false
 ---
 
-Bingo köp ulular üçin tanyş we sosial oýundyr, ýöne sanlar demensiýasy bolan adam üçin yzarlamak kyn bolup biler. Surat bingo şol bir ýumşak ritmi saklaýar, sanlaryň ornuna uly, arassa suratlary ulanýar. Ol öýde, gündiz çäresinde ýa-da garaş jaýynda işleýär. Bu sahypada oýnamagyň usuly, adaplaşdyrmak we ýakymly pursady saklamak barada maglumat berilýär.
+Bingo köp ulular üçin tanyş we sosial oýundyr, ýöne sanlar demensiýasy bolan adam üçin yzarlamak kyn bolup biler. Surat bingo şol bir ýumşak ritmi saklaýar, sanlaryň ornuna uly, arassa suratlary ulanýar. Ol öýde, gündiz çäresinde ýa-da ideg öýünde işleýär. Bu sahypada oýnamagyň usuly, adaplaşdyrmak we ýakymly pursady saklamak barada maglumat berilýär.
 
 ## Surat bingo nädip işleýär
 
@@ -65,7 +65,7 @@ Her oýunçynyň surat setirli kartasy bolýar, mysal üçin çaýnik, pişik, g
 
 1. **Suraty ýokary tutuň** ýa-da gürrüň etmezden öň ekranda görkeziň.
 2. **Ony aýdyň,** ýönekeý sözler bilen: "Çaýnik." Bir gezek gaýtalaň, haýal.
-3. **Garaşyň.** Adamlara synlamak we belläp bilmek üçin wagt beriň. Köp adamlar belläp bolmanča indiki suraty çagyrmaň.
+3. **Garaşyň.** Adamlara synlamak we belläp bilmek üçin wagt beriň. Köp adamlar belläp bolýança indiki suraty çagyrmaň.
 4. **Gerek bolsa beýan ediň.** "Gyzyl gül" ýa-da "pikniklerde bolan zat" gürrüň döredip biler.
 5. **Tizligi ýuwaş saklaň.** Ýumşak çagyryjy çalt çagyryjydan has möhüm.
 
@@ -82,7 +82,7 @@ Her oýunçynyň surat setirli kartasy bolýar, mysal üçin çaýnik, pişik, g
 
 Suraty tapmak kynlaşan adamlar üçin diňe dört ýa-da alty kwadratly karta ulanyň, ýa-da her oýunçyna bir-birden karta beriň. Kömekçi kartany tutup, adam görkezip bilsin, ýa-da rugsat bilen çipi ýumşak göçürip bilersiňiz. Käbir adamlar çagyryjyny diňläp, sözleriň sesinden lezzet alýar.
 
-Rahatsyzlygyň alamatlaryna, mysal üçin ýüzüni gaçyrmak ýa-da ýüzüni tükmek, üns beriň we bar bolsa duruň. Oturan, sessiz çäreler üçin has köp pikir üçin [soňky derejedäki çäreler](/activities/late-stage/) sahypasyna serediň.
+Rahatsyzlygyň alamatlaryna, mysal üçin ýüzüni gaçyrmak ýa-da ýüzüni çytmak, üns beriň we bar bolsa duruň. Oturan, sessiz çäreler üçin has köp pikir üçin [soňky derejedäki çäreler](/activities/late-stage/) sahypasyna serediň.
 
 ## Bingo ideg öýlerinde we gündiz çärelerinde
 

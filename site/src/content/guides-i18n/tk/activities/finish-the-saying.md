@@ -26,7 +26,7 @@ faq:
     a: "Quiz ýaly geçirilse, şeýle duýulyp biler. Ony rahat, paýlaşylýan pursat hökmünde oýnaň, saýlamalary teklip ediň, gynanç getirýän jogaby geçiň we hiç haçan utuk görkezmäň. Maksat lezzet we gürrüňdir."
   - q: "Demensiýasy bolan ulular üçin haýsy nakyllar iň oňat işleýär?"
     a: "Gündelik durmuş hakda gysga, tanyş nakyllar köplenç has oňat işleýär: howa, aşhana we öý nakyllary, maşgala ýa-da pasyllar hakda nakyllar. Adamyň ýaşlygyndan nakyllar köplenç tanamak aňsat. Düşnüksiz nakyllardan saklanyň, sebäbi olar çaşdyryp biler."
-  - q: "Eger adam başga jogap bersе näme etmeli?"
+  - q: "Eger adam başga jogap berse näme etmeli?"
     a: "Ony ýylylyk bilen kabul ediň we onuň adam üçin nämäni aňlatýandygyny soraň. Köp adamlar başga, ýöne ýerlikli ahyr berýär ýa-da başga nakyldan jogap berýär. Ony adamyň durmuşy hakda gürrüň başlamak üçin ulanyň."
 sources:
   - title: "Communicating With a Person Who Has Alzheimer's Disease: Do's and Don'ts"
@@ -50,9 +50,9 @@ Nakyl tamamlaýan oýun tanyş jümläni soňky sözüniň öňünde togtadýar.
 
 ## Nakyl tamamlaýan oýun näme?
 
-Bu gysga oýun, biri nakylyň birinji bölegini okaýar, beýleki biri ahyryny doldurýar. Mysal üçin "Iş bilen sözden..." ýa-da "Ir turan ... ". Adam ahyryny sesli aýdyp, görkezip ýa-da siziň teklip edýän iki-üç ahyrdan saýlap biler. Käbir adamlar birinji ýarysyny okamagy halaýar.
+Bu gysga oýun, biri nakylyň birinji bölegini okaýar, beýleki biri ahyryny doldurýar. Adam ahyryny sesli aýdyp, görkezip ýa-da siziň teklip edýän iki-üç ahyrdan saýlap biler. Käbir adamlar birinji ýarysyny okamagy halaýar.
 
-Golden Moments-da bu oýnuň [mugt görnüşi](/games/finish-the-saying/) iri harpler bilen bar (iňlis dilinde). Ekransyz hem oýnap bolýar: diňe nakylyň birinji ýarysyny aýdyň we garaşyň.
+Golden Moments-da bu oýnuň [mugt görnüşi](/games/finish-the-saying/) bar (iňlis dilinde). Ekransyz hem oýnap bolýar: diňe nakylyň birinji ýarysyny aýdyň we garaşyň.
 
 ## Ädim-ädim nädip oýnamaly
 

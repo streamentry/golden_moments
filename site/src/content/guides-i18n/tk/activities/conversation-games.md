@@ -1,13 +1,13 @@
 ---
-title: "Demensiýasy bolan adamlar üçin 20 sorag we gürrüň oýunlary"
-seoTitle: "Demensiýa üçin 20 sorag we gürrüň oýunlary"
-description: "Demensiýasy bolan adamlar üçin 20 sorag we beýleki gürrüň oýunlary: adam özi hünärmen bolýar, upa, synag ýok, soraglar ýok."
+title: "Demensiýasy bolan adamlar üçin iýigrimi sorag we gürrüň oýunlary"
+seoTitle: "Demensiýa üçin iýigrimi sorag we gürrüň oýunlary"
+description: "Demensiýasy bolan adamlar üçin iýigrimi sorag we beýleki gürrüň oýunlary: adam özi hünärmen bolýar, upa, synag ýok, soraglar ýok."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  20 sorag oýny adam jogaby özi bilýän bolanda ýumşak we sosial oýun bolup biler.
+  Iýigrimi sorag oýny adam jogaby özi bilýän bolanda ýumşak we sosial oýun bolup biler.
   Adam bir zat oýlaýar, siz hawa ýa-da ýok diýip bolýan soraglary berýärsiňiz,
   hiç kim synaga çekilmeýär. "Bu ýa-da şol" we "Siz haýsyny saýlardyňyz?" ýaly
   beýleki gürrüň oýunlary hem şeýle işleýär: olar fakt däl-de, pikirleri we
@@ -20,9 +20,9 @@ keyPoints:
   - "'Haýsyny halaýarsyňyz?' ýa-da 'Haýsy bolsa-da saýlardyňyzmy?' ýaly pikir soraglarynyň ýalňyş jogaby ýok."
   - "Adam gyzyklanmany togtadanda oýunlary tamamlaň. Iki-üç tapgyr ýeterlik."
 faq:
-  - q: "20 sorag oýny demensiýa üçin oňaýlymy?"
+  - q: "Iýigrimi sorag oýny demensiýa üçin oňaýlymy?"
     a: "Adam jogaby oýlaýan bolsa we hiç kim synaga çekilmese, oňaýly bolup biler. Eger ol quiz ýaly, siz adamyň ýatlamaly faktyny çaklaýan bolsaňyz, synag ýaly duýulup biler. Düzgünleri açyk we ýylyly saklaň."
-  - q: "20 sorag oýnunda adam näme oýlap biler?"
+  - q: "Iýigrimi sorag oýnunda adam näme oýlap biler?"
     a: "Ýönekeý, tanyş zatlar has oňat işleýär: miwe, haýwan, gural, gül görnüşi, mebel ýa-da tanaýan ýeri. Mesele zatlardan, adamlaryň adyndan we gynanç getirip biläýjek zatlardan saklanyň."
   - q: "Adam hawa ýa-da ýok diýip jogap berip bilmese näme etmeli?"
     a: "Yşaratlary ulanyň, başbarmak ýokary ýa-da aşak, ýa-da surat kartasyny görkeziň. Şeýle hem ses bilen çak ediň we adama başyny atmak, gülümsemek ýa-da bir söz bilen jogap bermäge rugsat beriň."
@@ -46,7 +46,7 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Köp maşgalalar synag däl-de, gürrüň ýaly duýulýan bilelikdäki oýun gözleýär. 20 sorag we beýleki çaklaýyş oýunlary gowy işläp biler, sebäbi düzgünleri ýönekeý we gürrüň islendik ýere baryp biler. Esasy zat adaty rollary tersine öwürmek: adam jogaby oýlaýar, siz sorarsyňyz. Bu sahypada şu oýunlary ýumşak nädip geçirmek we demensiýasy bolan adamlar üçin haýsy gürrüň oýunlarynyň laýykdygy düşündirilýär.
+Köp maşgalalar synag däl-de, gürrüň ýaly duýulýan bilelikdäki oýun gözleýär. iýigrimi sorag we beýleki çaklaýyş oýunlary gowy işläp biler, sebäbi düzgünleri ýönekeý we gürrüň islendik ýere baryp biler. Esasy zat adaty rollary tersine öwürmek: adam jogaby oýlaýar, siz sorarsyňyz. Bu sahypada şu oýunlary ýumşak nädip geçirmek we demensiýasy bolan adamlar üçin haýsy gürrüň oýunlarynyň laýykdygy düşündirilýär.
 
 ## Rollary näme üçin tersine öwürmeli
 
@@ -54,7 +54,7 @@ Adaty quizde biri sorap, beýlekisi bilmeli. Bu demensiýasy bolan adamy ýalňy
 
 [Milli garrylyk institutynyň](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) maslahaty: ideg edijilere gysga, ýönekeý sözlemler, bir wagtda bir sorag we ýumşak, sabyrly ses ulanmagy maslahat berýär. Bu endikler çaklaýyş oýunlary üçin hem gowy laýyk gelýär.
 
-## 20 soragy nädip ýumşak oýnamaly
+## Iýigrimi soragy nädip ýumşak oýnamaly
 
 1. **Adamyň durmuşyndan bir mowzuk saýlaň,** mysal üçin mähetdel, bag, haýwanlar ýa-da deňiz kenary.
 2. **Ol bir zat oýlasyn** we ony pes sesde aýdyň ýa-da siziň ony eşitmek zerurlygyňyz bolmazlygy üçin surat kartasyny görkeziň.

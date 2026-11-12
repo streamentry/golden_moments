@@ -45,7 +45,7 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Köp demensiýa maglumatlary adamyň ýetmiş ýa-da segsen ýaşynda diýip çaklaýar. Kyrk ýa-da elli ýaşynda anyklanan adam üçin gündelik surat başgadyr. Ol henizem iş, kredit, öýde ýetginjek çagalar ýa-da kämahal eje-ene üçin jogapkärçilik bolup biler. Çäreler bu uly durmuşy göz öňünde tutmaly. Bu sahypada näme üýtgeýändigi, näme synap görmelidigi we ýoldaşlaryň we ulaly çagalaryň nirede kömek tapyp biljekdigi görkezilýär.
+Köp demensiýa maglumatlary adamyň ýetmiş ýa-da segsen ýaşynda diýip çaklaýar. Kyrk ýa-da elli ýaşynda anyklanan adam üçin gündelik surat başgadyr. Ol henizem iş, kredit, öýde ýetginjek çagalar ýa-da ene-atasyna garamak jogapkärçiligi bolup biler. Çäreler bu uly durmuşy göz öňünde tutmaly. Bu sahypada näme üýtgeýändigi, näme synap görmelidigi we ýoldaşlaryň we ulaly çagalaryň nirede kömek tapyp biljekdigi görkezilýär.
 
 ## Ir ýaşdaky demensiýa näme?
 
@@ -60,7 +60,7 @@ Ir ýaşdaky demensiýasy bolan ulular köplenç çaga ýaly garaşylmagyny hala
 - **Tanyş meşgullanmany saklaň,** mysal üçin ýygaçlyk, sport, kart oýny, kitap toparlary ýa-da horda aýdym aýtmak, biraz kömek bilen ýa-da gysga sessiýada.
 - **Ýoldaş bilen ýöräň ýa-da welosiped sürüň,** adamyň gowy bilýän ýolunda.
 - **Maşgala naharyny bişiriň,** adamyň başarýan bölekleri bilen.
-- **Işjeň kömek ediň ýa-da kömek ediň** özi saýlan rolda, mysal üçin gowy zatlary sortlamak ýa-da mekdepdäki çärede kömek etmek.
+- **Özi saýlan rolda kömek ediň ýa-da wolontýor boluň,** mysal üçin bagyş zatlaryny tertipleşdirmek ýa-da mekdepdäki çärede kömek etmek.
 - **Ähmiýetli ýere sapar gurnaň,** ýoldaş bilen we ýönekeý tertip bilen.
 - **Agtyklar, eňlişler ýa-da inilerdir ýeňenler bilen wagt geçiriň,** oýun ýa-da taslama paýlaşyp.
 
@@ -74,13 +74,13 @@ Maşgala suratlaryndan düzülen [surat jübütleri](/games/photo-pairs/) hem go
 
 ## Iş, sürmek we gündelik durmuş
 
-Köp ir ýaşdaky demensiýasy bolan adam henizem işleýär, sürýär ýa-da pul dolandyrýar. Bular adaty manydaky çäreler däl, ýöne adamyň edip biljek zatlaryny kesgitleýär. Sürmek we iş howpsuzlygy barada lukman bilen maslahatlaşyň, adam pul ýa-da kabul ediş meselelerinde kömek isleýärmi, şony soraň. Maksat, adamyň sylaglylygyny goramak we özi isleýän derejede gatnaşmagyny saklamak.
+Köp ir ýaşdaky demensiýasy bolan adam henizem işleýär, sürýär ýa-da pul dolandyrýar. Bular adaty manydaky çäreler däl, ýöne adamyň edip biljek zatlaryny kesgitleýär. Sürmek we iş howpsuzlygy barada lukman bilen maslahatlaşyň, adam pul ýa-da kanuny ýa-da pul meselelerinde kömek isleýärmi, şony soraň. Maksat, adamyň sylaglylygyny goramak we özi isleýän derejede gatnaşmagyny saklamak.
 
 Gündelik tertip we işjeň galmak barada [ýumşak gündelik tertip](/activities/daily-routine/) we [öý işleri çäre hökmünde](/activities/household-tasks/) sahypalaryna serediň.
 
 ## Ýoldaşlara we ulaly çagalara goldaw
 
-Ýoldaşlar we ulaly çagalar köplenç özüni ýalňyz duýýar. Ideg etmek iş we maşgala üstüne goşmaça iş ýaly bolup biler. Alzgeýmer assosiasiýasynyň blog ýazgysynda, ir ýaşdaky toparlarda ideg edijiler kanuny meýilnamalaşdyrma ýaly amaly meseleler üçin we diňe düşünilýändiklerini duýmak üçin peýdaly tapandyklary habar berilýär. Şeýle hem assosiasiýanyň mugt ideg edijiler toparlary, şol sanda ir ýaşdaky demensiýasy bolan adama ideg edýänler üçin toparlary bardygy we üçüsiniň anna we çarşenbe güni onlaýn duşuşýandygy aýdylýar.
+Ýoldaşlar we ulaly çagalar köplenç özüni ýalňyz duýýar. Ideg etmek iş we maşgala üstüne goşmaça iş ýaly bolup biler. Alzgeýmer assosiasiýasynyň blog ýazgysynda, ir ýaşdaky toparlarda ideg edijiler kanuny meýilnamalaşdyrma ýaly amaly meseleler üçin we diňe düşünilýändiklerini duýmak üçin peýdaly tapandyklary habar berilýär. Şeýle hem assosiasiýanyň mugt ideg edijiler toparlary, şol sanda ir ýaşdaky demensiýasy bolan adama ideg edýänler üçin toparlary bardygy we üçüsiniň sişenbe we çarşenbe güni onlaýn duşuşýandygy aýdylýar.
 
 Toparlar barada soramak üçin assosiasiýanyň 24/7 Kömek Liniýasyna 800.272.3900 belgisine jaň ediň. [Ideg edijiniň öz-özüni ideg etmegi](/caregiving/caregiver-self-care/) sahypasy dynç almak, wagtlaýyn ähmiýetsiz kömek we ýadamagyň alamatlary barada maglumat berýär.
 
