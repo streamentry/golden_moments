@@ -1,7 +1,7 @@
 ---
 title: "Kapau ʻOku Sio pe Fanongo ʻa e Tokotaha ʻi he Dementia ki ha Me'a"
-seoTitle: "Hallucinations mo e Dementia: Ngaahi Sitepu Mālie maʻa e Kau Tokanga"
-description: "Ako pe fēfē ke tali mālie ʻi he taimi ʻoku sio pe fanongo ai ha taha ʻoku mahaki ʻi he dementia ki ha me'a, vakai ki he feituʻu, pea ʻiloʻi ʻa e taimi ʻoku fiemaʻu ai ha tokoni fakatōketā vave."
+seoTitle: "Hallucinations mo e Dementia: Ngaahi Sitepu Mālie"
+description: "Ako pe fēfē ke tali mālie ʻi he taimi ʻoku sio pe fanongo ai ha taha ʻoku mahaki ʻi he dementia, mo ʻiloʻi ʻa e taimi ke kumi ai ha tokoni vave."
 section: caregiving
 order: 36
 updated: 2026-11-11
@@ -83,7 +83,7 @@ Fetuʻutaki ki he tokotaha fakatōketā ʻo e tokotaha ʻi he ngaahi meʻa ʻoku
 
 Ko e liliu vave ʻoku kehe. Ko e [NHS ʻoku pehē ʻe fiemaʻu ʻa e tokoni fakatōketā vave ʻi he fakalilifu vave](https://www.nhs.uk/symptoms/confusion/), pea ko e [Alzheimer's Society ʻoku fakahā ʻe fiemaʻu ʻa e tokoni fakatōketā vave kapau ʻoku ʻi ai ha ngaahi sēnisi lahi ʻi he hallucination](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations). Fetuʻutaki ki ha tokoni fakatōketā vave ʻi hoʻo feituʻu kapau ʻoku vave ʻa e fakalilifu ʻa e tokotaha pe ʻoku ʻi ai ha ngaahi sēnisi lahi. Kapau ʻoku ʻi ai ha taha ʻoku ʻi he mamahi vave, ngāue ʻaki ʻa e ngaahi tokoni fakavave ʻo ho feituʻu.
 
-ʻOua ʻe kamata, tuku, pe liliu ha meʻa-inu ʻiho tafa'aki pē. Fehuʻi ki he fakatau pe ki he fale-meʻa-inu ke vakai ki he ngaahi liliu foʻou mo e ngaahi meʻa-inu kotoa ʻoku ngāue ʻaki ʻe he tokotaha, kau ai ʻa e ngaahi meʻa ʻoku fakatau ʻe he kakai ʻo ʻikai ha tohi. Ko e [talanoa ki he ʻaʻahi ki he tokotaha fakatōketā](/caregiving/doctor-visit-with-dementia/) ʻe lava ke tokoni ke teuteu ʻa e ngaahi fehuʻi.
+ʻOua ʻe kamata, tuku, pe liliu ha meʻa-inu ʻi ho tokotaha pē. Fehuʻi ki he fakatau pe ki he fale-meʻa-inu ke vakai ki he ngaahi liliu foʻou mo e ngaahi meʻa-inu kotoa ʻoku ngāue ʻaki ʻe he tokotaha, kau ai ʻa e ngaahi meʻa ʻoku fakatau ʻe he kakai ʻo ʻikai ha tohi. Ko e [talanoa ki he ʻaʻahi ki he tokotaha fakatōketā](/caregiving/doctor-visit-with-dementia/) ʻe lava ke tokoni ke teuteu ʻa e ngaahi fehuʻi.
 
 ## Ko e ngaahi fakamatala fēfē ʻe tokoni ʻi he fakataha?
 
@@ -97,4 +97,4 @@ Kapau ʻoku loto ʻa e tokotaha, tohi ʻa e ngaahi fakamatala siʻisiʻi ke vahe
 
 Ngāue ʻaki ʻa e ngaahi lea ʻa e tokotaha pe ʻoku lava, pea fakamatala ʻa e me'a kuo ke mamata ki ai. Hangē ko e fakamatala, tohi ʻa e "pehē ʻe ia ʻoku ʻi ai ha tangata ofi ki he matapā" ʻi he ʻikai ko e fakahingoa ʻo e meʻa ko iá. Ko e ngaahi fakamatala ni ʻoku ʻikai ko e fakamoʻoni ʻo e ʻuhinga. Kapau ʻoku kamata vave ʻa e meʻa ʻi he fakalilifu pe liliu lahi ʻo e fakatokanga, kumi ha tokoni vave ʻi he ʻikai ko e tatali ke ʻosi ʻa e fakamatala.
 
-Ko e [talanoa ki he ʻuluaki ʻo e afiafi](/caregiving/late-day-restlessness/) ʻoku fakamatala ki he maama ʻi he afiafi mo e ngāue fakaʻaho. Ko e ngaahi fekau ʻo e meʻa ʻoku ʻalu mei ai ʻoku ʻi he [talanoa ki he tokotaha ʻoku ʻi ai ha manavahē](/caregiving/when-someone-with-dementia-is-suspicious/).
+Ko e [talanoa ki he ʻuluaki ʻo e afiafi](/caregiving/late-day-restlessness/) ʻoku fakamatala ki he maama ʻi he afiafi mo e ngāue fakaʻaho. Maʻae ngaahi fakahalaʻi ki he ngaahi meʻa ʻoku ʻikai ʻi ai, vakai ki he [talanoa ki he tokotaha ʻoku ʻi ai ha manavahē](/caregiving/when-someone-with-dementia-is-suspicious/).
