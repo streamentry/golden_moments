@@ -19,6 +19,8 @@
   ],
   "useGitignore": true,
   "words": [
+    "geolocation",
+    "behaviour",
     "Scrollability",
     "scrollability",
     "affordances",

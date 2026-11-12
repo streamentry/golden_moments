@@ -41,8 +41,10 @@ class _AppState extends State<App> {
       ],
       supportedLocales: AppLocalizations.supportedLocales,
       localeListResolutionCallback: resolveAppLocale,
-      // Some scripts, such as Urdu's Nastaliq, need more line height.
-      builder: localizedThemeBuilder,
+      // The phone's text size, held between 100% and 200%; then the extra
+      // line height some scripts, such as Urdu's Nastaliq, need.
+      builder: (context, child) =>
+          gmTextScaleBuilder(context, localizedThemeBuilder(context, child)),
       home: buildPlatformHome(),
     );
   }

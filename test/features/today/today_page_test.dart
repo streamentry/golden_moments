@@ -205,6 +205,9 @@ void main() {
       300,
       scrollable: find.byType(Scrollable).first,
     );
+    // Fully on screen, so the tap lands on the row and opens its help.
+    await tester.ensureVisible(first);
+    await tester.pumpAndSettle();
     await tester.tap(first);
     await tester.pumpAndSettle();
     expect(tester.takeException(), isNull);

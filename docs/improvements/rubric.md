@@ -284,7 +284,7 @@ History (full axe pass): axe-core 4.14 over all 3,920 built pages at 375 px foun
 
 ## Round 82 score note (2026-11-11)
 
-The cap hint uses the existing body text role, surface-variant color and scrollable photo page. A 200% small-phone regression test is written, but could not be run because Flutter and Dart are unavailable. The phrase falls back to English in 66 non-English ARBs. No independent user, device or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score from this unrun widget test.
+The cap hint uses the existing body text role, surface-variant color and scrollable photo page. A 200% small-phone regression test is written, but could not be run because Flutter and Dart are unavailable. The phrase falls back to English in 66 non-English ARBs. No independent user, device or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score from this not run widget test.
 
 
 ## Round 83 score note (2026-11-11)
@@ -315,3 +315,20 @@ This English guide adds no app or site behavior. Automated checks validate the p
 ## Round 89 score note (2026-11-11)
 
 This is a copy-only safety clarification. Static ARB checks and widget tests can verify the regional labels, but they cannot confirm that every translation or emergency resource is appropriate for a caller's location. No local Flutter, caregiver, native-speaker or device review was completed. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 90 score update (2026-11-11): mobile visual audit
+
+App dimensions were re-measured on this branch with Flutter 3.47.7: the full suite (counts in the PR), strict analysis (clean), `test/design_system_test.dart` and the 200% text tests pass. No `site/` file changed, so the website parts carry forward from Round 45 (1,855 tests, 12,491-page build, `check-site` 0 errors). No new user-facing strings were added.
+
+| # | Dimension | Evidence | Score |
+| --- | --- | --- | --- |
+| 1 | Plain language | No new strings; carried forward | 10.0 |
+| 2 | Type and contrast | Design-system tests pass; tokens unchanged | 9.75 |
+| 3 | Targets and navigation | App target tests pass; planner chips ≥48 high; every action keeps a word | 10.0 |
+| 4 | Structure and semantics | App semantics tests pass; site carried forward | 10.0 |
+| 5 | Reflow and large text | App 200% tests pass; Daily moment overflow at 200% (308px on `main`) fixed; site carried forward | 10.0 |
+| 6 | Localization completeness | No new keys; carried forward | 9.37 |
+| 7 | Product integrity | Gentle-mode guards pass; Look together drops the "1 of 183" count; mobile packs keep hidden tiles by maintainer decision | 10.0 |
+| 8 | Verification health | Flutter suite and strict analysis measured here; site tests and build from Round 45 (no site change) | 10.0 |
+
+Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.4055 + 1.000 + 1.000 = **9.87**. Lowest dimension: localization at 9.37. The bar is met. Device, VoiceOver/TalkBack and caregiver checks are not verified and not scored.

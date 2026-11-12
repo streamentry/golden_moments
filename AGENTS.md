@@ -75,7 +75,7 @@ implements them through `gm…` constants and `gmBuildTheme`.
 - Use stock Material widgets with `Theme.of(context)` roles and `gm…` tokens. Do
   not hardcode `Color(0x…)`, `Colors.*`, `fontSize:` or radius literals in
   screens; change a token in `DESIGN.md` and `lib/design_system.dart` together.
-- Text is never below 16 at 100% scale, never ALL CAPS and never clamped.
+- Text is ≥16 at 100%, never ALL CAPS, and scales 100–200% (`gmTextScaleBuilder`).
   Buttons are ≥56 high, every control ≥48×48, picture tiles ≥64 and as large as
   the screen allows. Bright gold (`accent`/`gmGold600`) is never text or the only outline.
 - Color is never the only signal: pair it with a border, icon or word. Difficulty

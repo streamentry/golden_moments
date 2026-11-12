@@ -198,10 +198,7 @@ void main() {
     await _tapText(tester, 'Choose photos');
     expect(find.text('Options'), findsNWidgets(3));
     expect(find.text('3 of 24 photos'), findsOneWidget);
-    expect(
-      find.text(_photoAtLimitHint),
-      findsNothing,
-    );
+    expect(find.text(_photoAtLimitHint), findsNothing);
     expect(find.text('Play with these photos'), findsOneWidget);
 
     // Personalize the first photo: caption, description, favorite.

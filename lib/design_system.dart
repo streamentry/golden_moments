@@ -13,7 +13,8 @@ import 'dart:math' as math;
  ▸ Screens should use stock Material widgets and `Theme.of(context)` roles;
    component styling lives in `gmBuildTheme`, not in individual screens.
  ▸ Sizes are logical pixels at 100% text size and scale with the system
-   text setting, which must never be clamped.
+   text setting between 100% and 200% ([gmTextScaleBuilder]), the range
+   every screen is tested at.
 
 */
 
@@ -645,13 +646,35 @@ class _DotOrnament extends CustomPainter {
 
 /// App-bar height that grows with the system text size, so a [GmTitle] can
 /// wrap onto a second line instead of being cut off (GM-012).
+/// The text sizes the app follows: the phone's own setting, held between
+/// 100% (the 16px floor) and 200% (the largest size every layout is tested
+/// at). The largest accessibility sizes, up to about 310% on iPhone, broke
+/// single words across lines on a phone (maintainer decision, 2026-11-11).
+const double gmTextScaleMin = 1;
+const double gmTextScaleMax = 2;
+
+/// A `MaterialApp.builder` that applies [gmTextScaleMin]–[gmTextScaleMax]
+/// to everything below it, dialogs and sheets included.
+Widget gmTextScaleBuilder(BuildContext context, Widget? child) {
+  final media = MediaQuery.of(context);
+  return MediaQuery(
+    data: media.copyWith(
+      textScaler: media.textScaler.clamp(
+        minScaleFactor: gmTextScaleMin,
+        maxScaleFactor: gmTextScaleMax,
+      ),
+    ),
+    child: child ?? const SizedBox.shrink(),
+  );
+}
+
 double gmToolbarHeight(BuildContext context) {
   final scale = MediaQuery.textScalerOf(context).scale(1);
   return scale <= 1.15 ? gmTargetHero : gmTargetHero * scale;
 }
 
-/// An app-bar title that wraps instead of ending in an ellipsis: text is
-/// never clamped. Pair with [gmToolbarHeight].
+/// An app-bar title that wraps instead of ending in an ellipsis, at every
+/// text size the app follows. Pair with [gmToolbarHeight].
 class GmTitle extends StatelessWidget {
   const new(this.text, {super.key});
 
