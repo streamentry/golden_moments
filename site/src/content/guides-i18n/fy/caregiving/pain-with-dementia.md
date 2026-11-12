@@ -1,7 +1,7 @@
 ---
 title: "Pine werkenne by in persoan mei demintie"
 seoTitle: "Pine en demintie: tekens en wat jo dwaan kinne"
-description: "Pine kin lestich te beskriuwen wêze mei demintie. Let op feroarings, freegje mei fertroude wurden en nim kontakt op mei in sûnensprofessional yn plak fan de oarsaak te riede."
+description: "Pine kin lestich te beskriuwen wêze mei demintie. Let op feroarings, freegje mei fertroude wurden en belje in sûnensprofessional yn plak fan te riede."
 section: caregiving
 order: 22
 updated: 2026-11-11

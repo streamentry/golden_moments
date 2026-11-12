@@ -1,7 +1,7 @@
 ---
 title: "Huisdierfersoarging en demintie: stipe foar in dielde routine"
 seoTitle: "Stipe by dierfersoarging foar in persoan mei demintie"
-description: "Help in persoan mei demintie in routine foar dierfersoarging te hâlden mei herinneringen, ôfpraken oer help en reservepleannen dy’t de keuzes fan de persoan en de behoeften fan it dier respektearje."
+description: "Help in persoan mei demintie in routine foar dierfersoarging te hâlden mei herinneringen, ôfspraken en reservepleannen dy’t de keuzes fan de persoan respektearje."
 section: caregiving
 order: 15
 updated: 2026-11-11

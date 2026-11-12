@@ -1,7 +1,7 @@
 ---
 title: "Mûnfersoarging foar in persoan mei demintie"
 seoTitle: "Tandfersoarging foar in persoan mei demintie"
-description: "Help in persoan mei demintie in fertroude mûnfersoargroutine te hâlden mei ienfâldige oanwizings, tastimming en stipe fan de tandarts by pine, kunstgebit of nije problemen."
+description: "Help in persoan mei demintie in fertroude mûnfersoargroutine te hâlden mei ienfâldige oanwizings, tastimming en tandartsstipe by pine of kunstgebit."
 section: caregiving
 order: 16
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Praten mei bern oer demintie"
 seoTitle: "Hoe’t jo mei bern oer demintie prate"
-description: "Lis demintie út oan in bern mei earlike antwurden dy’t by de leeftiid passe. Beskermje har routines en privacy, nim fragen oan en hâld soargferantwurdlikheden by folwoeksenen."
+description: "Lis demintie út oan in bern mei earlike, leeftiidspaste antwurden. Beskermje routines en privacy, en hâld soargferantwurdlikheden by folwoeksenen."
 section: caregiving
 order: 29
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Iten noflik en makliker meitsje foar in persoan mei demintie"
 seoTitle: "Rêstiger iten foar in persoan mei demintie"
-description: "Praktyske manieren om iten rêstiger te meitsjen foar in persoan mei demintie: fertroud iten, minder fersteuring, dúdlik dekke, genôch tiid en romte foar selsstannigens."
+description: "Praktyske manieren om iten rêstiger te meitsjen foar in persoan mei demintie: fertroud iten, minder fersteuring, dúdlik dekke, tiid en romte foar selsstannigens."
 section: caregiving
 order: 13
 updated: 2026-11-11
