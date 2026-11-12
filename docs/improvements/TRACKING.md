@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 89 / 100 completed**
+**Progress: 90 / 100 completed**
 
 ---
 
@@ -63,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 90 | *Next in queue* | Pending |
-| 91–100 | Planned one by one | Pending |
+| 91 | *Next in queue* | Pending |
+| 92–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -638,9 +638,9 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Render inspection | The copy and widget-test source were reviewed, but the Today screen was not rendered. | Flutter SDK unavailable; no device review. |
 | Not verified | Flutter/Dart were unavailable locally, so gen-l10n, Flutter widget tests, analyzer and formatter did not run. No caregiver, native-speaker, device or live review. | Hosted CI is pending; do not claim rendered or device verification. |
 
-## Round 90: mobile visual audit (navigation, games, layout)
+## Mobile visual audit follow-up (navigation, games, layout; 2026-11-11; separate maintenance review)
 
-Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text) and reviewed one by one. This is automated rendering, not a device, VoiceOver or caregiver check.
+This separate engineering audit records automated mobile rendering and maintenance fixes; it is not one of the 100 numbered, source-led improvements. Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text). This is automated rendering, not a device, VoiceOver or caregiver check.
 
 | Check | Evidence | Result |
 |---|---|---|
@@ -653,5 +653,18 @@ Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, i
 | Full checks | See the PR for the final head: `dart format`, strict analyze, full `flutter test --coverage`, Python tests and the release metadata check. | Pass. |
 | Maintainer decisions (2026-11-11) | Look together: no "Picture 1 of 183" count for the included drawings; family photos keep "Picture N of M". Starter board: the maintainer asked the agent to decide; each pair now sits on a diagonal of the 2 × 2 board (side by side it looked already solved), with which picture is where still random. | Implemented. `photo_together_test.dart` and `gentle_board_test.dart` cover both; the Look together simulator journey was updated but not run (no simulator here). |
 | Text size (maintainer decision, 2026-11-11) | The maintainer asked not to follow every system text size. Renders at about 310% (the largest iPhone accessibility size) broke single words across lines on a phone ("Me/nu" on Home, "to/gether" on the finish heading); every screen was clean at 200% and in landscape. A fixed size was not chosen: it would take larger text from the older adults the app is for and fail Apple's Larger Text label. | `gmTextScaleBuilder` holds the phone's text size between 100% (the 16px floor) and 200% app-wide, dialogs and sheets included. `DESIGN.md` and `AGENTS.md` record the rule; `test/app/view/text_scale_test.dart` covers 85%, 100%, 150%, 200% and 310% and fails without the change. |
-| Rubric | `rubric.md` › Round 90: **9.87**, lowest 9.37 (localization). | Bar met. |
+| Rubric | `rubric.md` › Mobile visual audit score note: **9.87**, lowest 9.37 (localization). | Bar met. |
 | Not verified | No device, simulator, VoiceOver/TalkBack, caregiver or person-with-dementia check of these screens. | Open. |
+
+## Round 90: inclusive support for LGBTQ+ people with dementia (read 2026-11-12)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society advises asking about identity, pronouns, disclosure and chosen supporters. Alzheimer's Association highlights concerns about stigma and inclusive providers. SAGE's service guidance emphasizes privacy and trusted, respectful care; its HRC partnership guide suggests questions about visitation, rooming and staff practices. | Use sources for person-led questions; omit jurisdiction-specific legal statements and unsupported statistics. |
+| Existing coverage and gap | The residential-care guide covered visits and preferences in general, but site search found no LGBTQ+-specific page or care-setting checklist. | A focused English guide improves discoverability and gives families concrete questions without repeating a general care-home guide. |
+| Change | Added a guide on names and pronouns, consent-based disclosure, partners and chosen family, provider privacy, care-setting questions, and support for caregivers. Linked it from residential-care guidance. | No app behavior, account, collection or tracking change. |
+| Safety and rights boundary | The person decides what identity details to share and with whom where possible. A partner or chosen supporter is not automatically a legal decision-maker; provider permissions and authority rules vary by location. | General caregiving information; no legal or clinical determination. |
+| Implementation commit | `5061b4376f93eb07e484c0d2f01993ea522d86d` | Source commit on `codex/improvement-90-lgbtq-care`. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify`: 1,869 tests, 12,522 pages, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106 tests), `scripts/release_metadata.py --check`, `scripts/check_arb.py lib/l10n/arb/app_en.arb` and `git diff --check` passed. | Local automated checks passed; hosted CI is pending. |
+| Render inspection | Built route `/caregiving/supporting-lgbtq-person-with-dementia/` and residential-care cross-link appear in the static output. | Static build checked; no live browser run. |
+| Not verified | No LGBTQ+ person with dementia, partner, chosen-family caregiver, care-setting staff, clinician, native-speaker or live-browser review. | Open; do not claim user, legal or clinical validation. |
