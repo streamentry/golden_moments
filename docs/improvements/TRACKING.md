@@ -559,7 +559,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Render inspection | Built route `/caregiving/managing-money-with-dementia/` contains the guide title and money-scam steps; built `/caregiving/` hub links to it. The existing after-diagnosis page links to the new guide. | Static output checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, banker, financial/legal professional, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
 
-## Round 84: mobile visual audit (navigation, games, layout)
+## Round 90: mobile visual audit (navigation, games, layout)
 
 Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text) and reviewed one by one. This is automated rendering, not a device, VoiceOver or caregiver check.
 
