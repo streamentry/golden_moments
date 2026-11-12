@@ -27,7 +27,7 @@ faq:
   - q: "Er nettspel trygge for nokon med demens?"
     a: "Dei kan vere det, med tilsyn. Hald eininga utanfor rekkevidde for den som kan gå ut med henne, unngå reklame-vindauge og eksterne lenkjer, og la aldri personen vere åleine med ein skjerm for betaling eller konto. Sjekk personvernoppsettet på eininga før du bruker bilete."
   - q: "Kva gjer eg om personen blir frustrert over eit spel?"
-    a: "Bytt til ein enklare versjon, bruk færre bilete, eller prøv eit anna spel. Om personen blir opprørt, legg eininga bort og foreslå ein snacks, ein tur eller ein song i staden. Eit spel som gir uro er ikkje verdt å fullføre."
+    a: "Bytt til ein enklare versjon, bruk færre bilete, eller prøv eit anna spel. Om personen blir opprørt, legg eininga bort og foreslå ein matbit, ein tur eller ein song i staden. Eit spel som gir uro er ikkje verdt å fullføre."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -59,7 +59,7 @@ Eit spel passar for dei fleste som lever med demens når det krev kjenning helle
 
 ## Golden Moments-spel du kan opne i nettlesaren
 
-Kvart spel under opnar frå nettstaden utan nedlasting. dei fleste speler på nettbrett eller datamaskin, og nokre kan òg skrivast ut.
+Kvart spel under opnar frå nettstaden utan nedlasting. Dei fleste speler på nettbrett eller datamaskin, og nokre kan òg skrivast ut.
 
 - **[Bileteparing](/games/picture-pairs/).** Store par med bileta synlege, og ingen tidtakar eller poeng. Godt for første spel.
 - **[Finn det same](/games/find-the-same/).** Eit bilete øvst, og det same blant to til fire val under.

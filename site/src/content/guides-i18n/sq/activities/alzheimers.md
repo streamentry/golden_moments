@@ -94,7 +94,7 @@ Alzheimer's Association e përshkruan fazën e mesme si fazën zakonisht më të
 
 1. **Palosni, renditni dhe përputhni.** Peshqirë, çorape, lugë e pirun, copa me ngjyrë. Punë reale, të bëra krah për krah.
 2. **Këndoni dhe lëvizni me muzikë.** Duartrokitni, lëkundeni ose kërceni në kuzhinë. Filloni të këndoni vetë dhe lëreni të bashkohet.
-3. **Shikoni albume fotografish.** Përshkruani atë që shihni dhe ftoni për histori: „Çfarë makine! Më trego për të." Pranoni emrat që përdor.
+3. **Shikoni albume fotografish.** Përshkruani atë që shihni dhe ftoni për histori: „Çfarë makine. Më trego për të." Pranoni emrat që përdor.
 4. **Luani lojëra të thjeshta me figura.** [Çifte fotografish](/games/picture-pairs/) me katër deri në gjashtë pllaka dhe figurat të dukshme, ose [Gjej të njëjtën](/games/find-the-same/) me dy ose tre zgjedhje.
 5. **Plotësoni shprehje të njohura.** „Një mollë në ditë të mban larg..." Fjalët e mësuara shumë kohë më parë shpesh vijnë lehtë. Provoni [Plotëso shprehjen](/games/finish-the-saying/), ku mund ta shfaqni çdo fund me një prekje.
 6. **Ujisni dhe kujdesuni për bimët.** Vazo brenda ose një rrip i ngritur kopshti, me një kanaçe të vogël uji.

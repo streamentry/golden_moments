@@ -20,7 +20,7 @@ faq:
   - q: "Pse një person me demencë mund të mendojë se e kam vjedhur diçka?"
     a: "Një person mund të harrojë ku e vendosi një sendi ose të keqinterpretojë atë që ndodhi, dhe kjo mund të çojë në dyshim. Por mos supozoni se çdo shqetësim shkaktohet nga demenca. Kontrolloni faktet qetësisht dhe mendoni të kërkoni ndihmën e një personi të besuar."
   - q: "Çfarë duhet të them kur dikush më akuzon për vjedhje?"
-    a: "Qëndroni të qetë dhe pranoni shqetësimin, për shembull: „Je i shqetësuar se portofoli yt mungon. Le ta kërkojmë bashkë." Shmangni debatin ose insistimin që personi gabon. Mbajeni përgjigjen të shkurtër dhe kaloni te një temë tjetër vetëm nëse duket gati."
+    a: "Qëndroni të qetë dhe pranoni shqetësimin, për shembull: „Je i shqetësuar se portofoli yt mungon. Le ta kërkojmë bashkë.” Shmangni debatin ose insistimin që personi gabon. Mbajeni përgjigjen të shkurtër dhe kaloni te një temë tjetër vetëm nëse duket gati."
   - q: "A duhet ta injoroj një akuzë sepse personi ka demencë?"
     a: "Jo. Merreni seriozisht dhe kontrolloni nëse ka ndodhur diçka. Nëse shqetësimi përfshin një mundësi vjedhjeje, keqtrajtimi ose neglizhence, kërkoni ndihmë nga një profesionist i besuar ose shërbimi lokal i mbrojtjes së të rriturve."
   - q: "Kur duhet të kontaktoj mjekun?"

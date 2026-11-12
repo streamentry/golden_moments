@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Aktivitete grupore për demencën: për shtëpi kujdesi"
+seoTitle: "Aktivitete grupore për demencën: Bingo, këngë, histori"
+description: "Aktivitete grupore për kujdesin e kujtesës dhe programet ditore: bingo me figura, këngë, grupe kujtimesh dhe këshilla për ulëset e madhësinë e grupit."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Aktivitetet e mira grupore në kujdesin e kujtesës dhe programet ditore janë të
+  shkurtra, të njohura dhe të lehta për t'u bashkuar në çdo nivel: bingo me
+  figura, këngë grupore, rrathë kujtimesh, lëvizje të thjeshta dhe lojëra të
+  përbashkëta me fjalë. Mbajini grupet të vogla kur mundeni, uleni njerëzit ku
+  shohin dhe dëgjojnë mirë, jepni një hap të qartë në një herë, dhe planifikoni
+  një rol më të lehtë dhe një largim të qetë për secilin që ka nevojë.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Grupet më të vogla shpesh funksionojnë më mirë sesa një ngjarje e madhe, dhe lejojnë më shumë njerëz të marrin pjesë aktive, jo vetëm të shikojnë."
+  - "Uleni njerëzit në rreth ose patkua, afër udhëheqësit, duke pasur parasysh nevojat për dëgjim dhe shikim dhe me zhurmën e sfondit të fikur."
+  - "Planifikoni çdo aktivitet në dy ose tre nivele, që personat me aftësi të ndryshme të mund të bashkohen."
+  - "Shmangni pyetjet, pikët dhe fituesit. Bingo me figura mund të luhet me të gjithë që përfundojnë me një kartelë të plotë."
+  - "Largimi i hershëm, shikimi ose dremitja janë në rregull. Kini një anëtar stafi gati për të mbështetur këdo që dëshiron një hapësirë më të qetë."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Cila është madhësia e mirë e grupit për aktivitetet e demencës?"
+    a: "Nuk ka një numër të vetëm të saktë; varet nga banorët, dhoma dhe sa staf keni. Shumë ekipe e gjejnë që grupet e vogla lejojnë të gjithë të shohin, dëgjojnë dhe marrin pjesë, ndërsa ngjarjet në dhoma të mëdha zakonisht lënë më shumë njerëz vetëm duke shikuar. Nëse organizoni një ngjarje të madhe, shtoni staf ose vullnetarë që mund të ulen mes banorëve dhe të ndihmojnë një ose dy persona secili."
+  - q: "Si e udhëheq një grup me aftësi të përziera?"
+    a: "Planifikoni më shumë se një mënyrë për t'u bashkuar me çdo aktivitet. Në një këndim, disa njerëz këndojnë çdo fjalë, disa duartrokasin ose nynëzojnë, dhe disa mbajnë një shaker. Në bingon me figura, disa njerëz gjejnë vetë figurat e tyre ndërsa një ndihmës tregon për të tjerët. Uleni ata që kanë nevojë për më shumë ndihmë pranë një anëtari stafi ose vullnetari."
+  - q: "Si luaj bingo me figura pa e bërë konkurruese?"
+    a: "Thirrni çdo figurë derisa të mbushet kartela e të gjithëve, që askush të mos mbetet jashtë. Flisni për çdo figurë ndërsa del, dhe mos jepni çmime për fitues, ose jepini të gjithëve të njëjtën dhuratë të vogël. Qëllimi është vëmendja e përbashkët dhe biseda, jo kush përfundon i pari."
+  - q: "A mund t'i përdor lojërat tuaja në një ekran të madh në grup?"
+    a: "Po. Lojërat tona funksionojnë në një shfletues uebi, kështu që mund t'i hapni në një laptop ose tablet të lidhur me një TV ose projektor. Bingo me figura përfshin kartela të printueshme dhe një thirrës në ekran. Plotëso shprehjen dhe Çiftet e fotografive funksionojnë gjithashtu mirë në një ekran të madh, me një person që prek për grupin."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ky udhëzues është për drejtuesit e aktiviteteve, ekipet e kujdesit të kujtesës dhe udhëheqësit e programeve ditore për të rritur. Mbulon format e grupeve që funksionojnë, organizimin e dhomës, përshtatjen e një aktiviteti për aftësi të përziera, dhe përdorimin e kartelave të printueshme të bingos dhe lojërave në ekran të madh. Gjithçka këtu synon rehatinë, lidhjen dhe zgjedhjen. Asgjë këtu nuk është test.
 
-## What makes a group activity work in memory care?
+## Çfarë e bën një aktivitet grupor të funksionojë në kujdesin e kujtesës?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Një aktivitet i mirë grupor është i njohur, i shkurtër, i lehtë për t'u bashkuar në çdo nivel dhe pa presion. [Rekomandimet e praktikës për kujdesin e demencës](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) të Alzheimer's Association e përshkruajnë angazhimin e kuptimshëm si diçka që mbështet interesat dhe preferencat e personit dhe lejon zgjedhjen dhe suksesin, edhe kur demenca është më e rëndë. I njëjti dokument thotë se programet tradicionale shpesh mbështeten në një ose dy ngjarje të mëdha në grup në ditë, ku banorët shpesh janë vetëm pasivisht të angazhuar.
 
-That points to a few practical rules:
+Kjo na çon te disa rregulla praktike:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Të njohurat mbi të rejat.** Këngët, fjalët e urta, figurat dhe objektet nga vitet e rinisë së banorëve janë më të lehta për t'u bashkuar.
+- **Të shkurtrat mbi të gjatat.** Planifikoni për gjatësinë e vëmendjes që ka zakonisht grupi juaj, me një pikë natyrale ndalimi nga mesi.
+- **Bërja mbi shikimin.** Jepini secilit diçka për të mbajtur, prekur, zgjedhur ose thënë.
+- **Shumë nivele, një aktivitet.** Ndërtoni mënyra më të lehta dhe më të vështira për të marrë pjesë.
+- **Pa fitues, pa pikë.** Formatet konkurruese i lënë disa njerëz me ndjenjën se kanë dështuar.
 
-## How big should the group be?
+## Sa i madh duhet të jetë grupi?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Më i vogël zakonisht është më i lehtë. Alzheimer's Association thotë se një person që e gjen një mbledhje të madhe të tepërt mund të ndërveprojë më me sukses në një grup më të vogël. Nuk ka një numër të vetëm të saktë. Varet nga banorët, dhoma dhe sa staf dhe vullnetarë keni në dispozicion.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Një test i dobishëm: a mund ta shohë çdo person fytyrën e udhëheqësit, të dëgjojë qartë dhe të arrihet nga një ndihmës brenda disa sekondash? Nëse jo, ndajeni grupin, shtoni ndihmës ose kaloni në një dhomë më të vogël.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Për një ngjarje të madhe, si një koncert festiv, uleni stafin dhe vullnetarët mes banorëve, jo përgjatë mureve.
 
-## How should I set up the room and seating?
+## Si t'i organizoj dhomën dhe ulëset?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Rreth ose patkua.** Rekomandimet e praktikës përshkruajnë një rreth ndarjeje si më të mirin në një hapësirë mjaft të madhe që të gjithë të ulen në rreth, pa zhurmë sfondi.
+- **Udhëheqësi afër dhe në nivelin e syve.** Uluni në vend që të qëndroni në këmbë kur mundeni.
+- **Dëgjimi dhe shikimi së pari.** Uleni njerëzit me dëgjim të dobët më afër udhëheqësit, në anën më të mirë. Sigurohuni që syzet dhe aparatet e dëgjimit të jenë të vendosura. Alzheimer's Association thotë se problemet e shikimit dhe dëgjimit mund ta bëjnë komunikimin më të vështirë.
+- **Drita nga pas banorëve, jo nga pas jush.** Shmangni uljen e dikujt përballë një dritareje të ndritshme.
+- **Fikni TV dhe radion.** Alzheimer's Association këshillon heqjen e zhurmës konkurruese gjatë aktiviteteve me muzikë.
+- **Një bisedë në një kohë.** Bisedat e përziera janë të vështira si për personat me demencë ashtu edhe për ata me dëgjim të dobët, siç thekson Alzheimer's Association në [udhëzimet e saj për festat](https://www.alz.org/help-support/caregiving/holidays).
+- **Dalje të qarta dhe një qoshe të qetë.** Kushdo që dëshiron të largohet duhet ta bëjë lehtë, me një anëtar stafi që e shoqëron.
 
-## Group activity ideas
+## Ide për aktivitete grupore
 
-### Picture bingo
+### Bingo me figura
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bingo me figura zëvendëson numrat me figura të qarta, si një çajnik, një qen ose një trëndafil, kështu që askush nuk duhet të ndjekë një numër të gjatë ose të lexojë tekst të vogël.
 
-**How to run it:**
+**Si ta udhëhiqni:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Printoni një kartelë për person nga faqja jonë [Bingo me figura](/games/picture-bingo/) duke përdorur butonin Print. Letra e rëndë është më e lehtë për t'u trajtuar. Laminojeni për ta përdorur sërish.
+2. Jepni shënues të mëdhenj dhe të lehtë për t'u marrë, si çipa poker, kapakë shishesh ose katrorë kartoni të prerë.
+3. Përdorni thirrësin në ekran në një TV ose projektor, që të gjithë ta shohin figurën ndërsa e emërtoni.
+4. Pauzoni pas çdo figure dhe ftoni një koment të shkurtër: „A do të donte dikush të na tregonte për një qen që njihte?" ose „Çfarë vëreni te kjo?"
+5. Vazhdoni të thirrni derisa të mbushet çdo kartelë. Të gjithë mbarojnë.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Përshtatja:** Përdorni më pak katrorë për personat që e gjejnë një kartelë të plotë shumë të ngarkuar. Një ndihmës mund të tregojë figurën e përputhur për dikë që e ka nevojë. Disa njerëz mund të preferojnë të mbajnë kartelën e thirrësit dhe ta tregojnë grupit.
 
-### Sing-alongs
+### Këngë grupore
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Muzika është një nga aktivitetet grupore më të shijuara gjerësisht. Alzheimer's Association thotë se edhe në fazat e vona, një person mund të jetë në gjendje të [prekë ritmin ose të këndojë një këngë nga fëmijëria](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Si ta udhëhiqni:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Zgjidhni këngë që banorët i rritën, jo ato të preferuara të udhëheqësit. Pyesni familjet se çfarë donte secili.
+- Përdorni muzikë pa reklama, të cilat Shoqata thotë se mund të jenë konfuze.
+- Printoni tekstet me shkronja të mëdha për ata që lexojnë, por mos e kërkoni këtë.
+- Ofroni shaker, daulle dore ose shalle për t'i valëzuar.
+- Inkurajoni duartrokitjet dhe lëvizjet, dhe mbani volumin të rehatshëm.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Përshtatja:** Disa njerëz do të këndojnë çdo fjalë, disa do të nynëzojnë, disa do të trokasin këmbën, dhe disa thjesht do të dëgjojnë. Të gjitha këto kanë vlerë. Shihni [udhëzuesin tonë për aktivitetet me muzikë](/activities/music/) për më shumë.
 
-### Reminiscence groups
+### Grupet e kujtimeve
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Një grup kujtimesh mblidhet rreth një teme, si vitet e shkollës, makinat e para, kuzhinat ose vera, duke përdorur foto, objekte dhe muzikë. Qëllimi është biseda e këndshme, jo kujtimi i saktë.
 
-**How to run it:**
+**Si ta udhëhiqni:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Zgjidhni një temë dhe sillni disa objekte që njerëzit mund t'i mbajnë: një mikser dore, një dorezë bejsbolli, një kapelë, një katalog farërash.
+2. Kaloni një objekt në një herë. Bëni pyetje të hapura: „Më tregoni për këtë," „Çfarë vëreni?" „Kush përdorte diçka si kjo?"
+3. Pranoni çdo përgjigje me mirënjohje. Mos korrigjoni kurrë një datë ose fakt.
+4. Drejtoni bisedën drejt kujtimeve të ngrohta. Rekomandimet e praktikës thonë se ofruesit e kujdesit duhet ta drejtojnë kujtimin drejt kujtimeve pozitive, jo drejt atyre që mund të shkaktojnë shqetësim.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Kartat e bisedës](/games/conversation-cards/) ofrojnë karta me figura të printueshme me pyetje të hapura sipas temës, që punojnë mirë si nisës diskutimi. Më shumë ide janë në [udhëzuesin tonë për kujtimet](/activities/reminiscence/).
 
-### Finish the saying
+### Plotëso shprehjen
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Fjalët e njohura („Kush kursen, ai ka...") ftojnë të gjithë të thërrasin fundin së bashku. Shfaqni [Plotëso shprehjen](/games/finish-the-saying/) në një ekran të madh dhe lëreni grupin të përgjigjet me një zë. Ka një pyetje për bisedë pas çdo shprehjeje. Nëse askush nuk e thotë fundin, shfaqeni dhe kaloni tutje. Nuk ka përgjigje të saktë apo të gabuar.
 
-### Large-print word search, together
+### Kërkimi i fjalëve me shkronja të mëdha, së bashku
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projektoni [Kërkimin e fjalëve](/games/word-search/) me shkronja të mëdha në një ekran dhe kërkoni fjalë si grup, ose printoni kopje për ata që shijojnë të punojnë vetë në tavolinë. Fjalët shkojnë vetëm horizontalisht dhe vertikalisht.
 
-### Gentle movement
+### Lëvizje e butë
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Shtrirje ulur, kalimi i një topi të butë ose balonë, ose vallëzim në karrige me muzikë të njohur. Demonstroni çdo lëvizje në vend që ta përshkruani.
 
-### Sorting and matching at the table
+### Renditja dhe përputhja në tavolinë
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Tavolina të vogla me tre deri në katër persona mund të renditin figura, mostra pëlhure ose argjend krah për krah. Në ekran, [Çiftet e fotografive](/games/picture-pairs/) mund të luhen me figura të dukshme, me një person që prek ndërsa tavolina flet për çdo figurë.
 
-## How do I use your games on a big screen?
+## Si i përdor lojërat tuaja në një ekran të madh?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Lojërat tona funksionojnë në një shfletues uebi, kështu që mund t'i përdorni në një TV ose projektor pa instaluar asgjë.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Hapni lojën në një laptop ose tablet të lidhur me ekranin me kabllo ose me casting.
+2. Vendosni shfletuesin në ekran të plotë dhe volumin në një nivel të rehatshëm.
+3. Lëreni një udhëheqës të prekë, ndërsa grupi thërret zgjedhjet. Ose kaloni një tablet te një banor që dëshiron radhën e vet.
+4. Ndaloni kur grupi është gati. Lojërat nuk kanë kohëmatës, pikë ose përfundim të detyruar.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bingo me figura](/games/picture-bingo/), [Plotëso shprehjen](/games/finish-the-saying/), [Çiftet e fotografive](/games/picture-pairs/) dhe [Kartat e bisedës](/games/conversation-cards/) tenden të përshtaten më mirë me grupet. Shihni të gjitha opsionet në [faqen tonë të lojërave](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Si e përshtat një aktivitet për aftësi të përziera?
 
-Plan at least three ways to join every activity.
+Planifikoni të paktën tre mënyra për t'u bashkuar me çdo aktivitet.
 
-| Activity | More independent | Some support | Most support |
+| Aktivitet | Më i pavarur | Pak mbështetje | Më shumë mbështetje |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo me figura | Gjen dhe mbulon figurat e veta | Ndihmësi tregon; personi mbulon | Mban një kartelë figure; dëgjon dhe shikon |
+| Këngë grupore | Këndon, zgjedh këngën tjetër | Nynëzon, duartroket, përdor një shaker | Dëgjon, mban një shall, prek dorën |
+| Kujtimi | Tregon histori | Përgjigjet po-jo ose tregon | Mban dhe prek objektin |
+| Kërkimi i fjalëve | Punon kopjen e vet të printuar | Gjen fjalë në ekranin e madh me një ndihmës | Dëgjon ndërsa lexohen fjalët me zë |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Për banorët në fazat e vona, NHS thekson se aktivitetet zakonisht duhet të jenë më të thjeshta dhe të përqendrohen më shumë te shqisat, si muzika, objektet për t'u prekur dhe masazhi i duarve. Një moment individual gjatë ose pas grupit mund t'u përshtatet më mirë sesa vetë grupi. Shihni [aktivitetet për fazën e vonë](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Si duhet të flasin udhëheqësit gjatë grupit?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Prezantohuni çdo herë, dhe përdorni emrin e preferuar të secilit.
+- Flisni ngadalë, jepni një hap në një herë, dhe tregoni para se të thoni.
+- Bëni ftesa të hapura („Më trego për...") ose zgjedhje të thjeshta, jo pyetje testi („A e kujton...?").
+- Mos korrigjoni. Falënderoni për çdo kontribut.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Më shumë për këtë është në [udhëzuesin tonë për komunikimin](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Mbyllja mirë, dhe lënia që njerëzit të largohen
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Ndalimi është një rezultat i mirë. Kini kujdes për shenja që dikush është i lodhur, i shqetësuar ose i mërzitur, dhe kini një ndihmës gati të ofrojë një shëtitje ose një karrige të qetë diku tjetër. Dikush që dremit gjatë një këndimi mund thjesht të jetë i rehatshëm.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Mbyllni çdo grup në të njëjtën mënyrë, me një këngë të njohur ose një faleminderit të thjeshtë, që fundi të ndihet i qetë dhe i pritshëm. Pas kësaj, shkruani shkurt çfarë funksionoi dhe kush shijoi çfarë. Ato shënime e bëjnë seancën tjetër më të mirë.

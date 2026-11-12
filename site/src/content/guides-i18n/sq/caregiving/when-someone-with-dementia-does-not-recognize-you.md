@@ -18,7 +18,7 @@ keyPoints:
   - "Pyesni një klinicist për ndryshime që përsëriten ose shqetësojnë, dhe kërkoni kujdes urgjent për konfuzion të papritur."
 faq:
   - q: "Pse një person me demencë mund të mos më njohë?"
-    a: "Demenca mund të ndikojë te mënyra si personi kujton marrëdhëniet ose perception fytyrat. Shikimi, dëgjimi, sëmundja, ilaçet ose një mjedis i ndryshuar gjithashtu mund të luajnë rol. Arsyeja mund të ndryshojë, prandaj pyesni një klinicist për një ndryshim të ri ose shqetësues."
+    a: "Demenca mund të ndikojë te mënyra si personi kujton marrëdhëniet ose perceptimin e fytyrave. Shikimi, dëgjimi, sëmundja, ilaçet ose një mjedis i ndryshuar gjithashtu mund të luajnë rol. Arsyeja mund të ndryshojë, prandaj pyesni një klinicist për një ndryshim të ri ose shqetësues."
   - q: "Çfarë duhet të them nëse një person me demencë nuk më njeh?"
     a: "Provoni një prezantim të shkurtër dhe të qetë, si emri dhe marrëdhënia juaj. Nëse personi duket i qetë, vazhdoni një bisedë të zakonshme. Nëse duket i shqetësuar, përqendrohuni te ndihma për ta bërë të ndihet i sigurt, në vend që të provoni kush jeni."
   - q: "A duhet ta korrigjoj personin kur më ngatërron me dikë tjetër?"

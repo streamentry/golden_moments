@@ -1,7 +1,7 @@
 ---
 title: "Arti dhe zanatet për të rriturit me demencë"
 seoTitle: "Arti dhe zanatet për demencën: për të rritur"
-description: "Ide arti dhe zanatesh për të rriturit me demencë, nga akuarela dhe kolazhi te aranxhimi i luleve, me këshilla për përgatitjen, përshtatjen dhe procesin mbi produktin."
+description: "Ide arti dhe zanatesh për të rriturit me demencë, nga akuarela te aranxhimi i luleve, me këshilla për përgatitjen, përshtatjen dhe procesin mbi produktin."
 section: activities
 order: 9
 updated: 2026-10-25
@@ -48,7 +48,7 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Arti dhe zanatet u japin personave me demencë një mënyrë për të shprehur veten që nuk varet nga gjetja e fjalëve të duhura. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) thotë se projektet artistike mund të sjellin [ndjenjën e arritjes dhe qëllimit](https://www.alz.org/help-support/caregiving/daily-care/art-music) dhe një mundësi për vetë-shprehje, si për kujdestarin ashtu edhe për personin me demencë. Çelësi është ta mbani gjithçka të rritur, të thjeshtë dhe pa presion. Kjo faqe jep projekte specifike, si t'i përgatitni ato dhe si t'i përshtatni ndërsa ndryshojnë gjërat.
+Arti dhe zanatet u japin personave me demencë një mënyrë për të shprehur veten që nuk varet nga gjetja e fjalëve të duhura. Alzheimer's Association thotë se projektet artistike mund të sjellin [ndjenjën e arritjes dhe qëllimit](https://www.alz.org/help-support/caregiving/daily-care/art-music) dhe një mundësi për vetë-shprehje, si për kujdestarin ashtu edhe për personin me demencë. Çelësi është ta mbani gjithçka të rritur, të thjeshtë dhe pa presion. Kjo faqe jep projekte specifike, si t'i përgatitni ato dhe si t'i përshtatni ndërsa ndryshojnë gjërat.
 
 ## Çfarë e bën një aktivitet artistik për të rritur dhe jo fëminor?
 

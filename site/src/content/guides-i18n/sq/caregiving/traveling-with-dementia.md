@@ -78,11 +78,11 @@ Qëndroni bashkë në vende të zëna ose të panjohura. Nëse personi lodhet os
 
 Nëse fluturoni ose përdorni një stacion të madh, pyesni ofruesin çfarë ndihme ofrohet dhe si kërkohet ajo. Procedurat mund të ndryshojnë, prandaj konfirmoni detajet direkt me kompaninë ajrore, stacionin ose vendin përpara udhëtimit. Mos u mbështetni në një listë të vjetër kontrolli për rregullat aktuale të sigurisë ose aksesueshmërisë.
 
-## Cila është një plan rezervë i dobishëm?
+## Cili plan rezervë është i dobishëm?
 
 Vendosni paraprakisht çfarë do të bëni nëse personi dëshiron të largohet, udhëtimi vonohet ose dikush ka nevojë për pushim. Zgjidhni një person kontakti që mund të ndihmojë me telefon. Mbani adresën e akomodimit dhe rrugën e kthimit të lehtë për t'u gjetur, dhe dijeni ku mund të uleni në qetësi ose të përdorni tualetin.
 
-Nëse duhet ta shkurtoni udhëtimin, bëjeni. Një vend i humbur ose një kthim i hershëm nuk është dështim. Nëse udhëtimi bëhet stresues, zgjidhni një aktivitet më të qetë kur tëktheheni në shtëpi. [Udhëzuesi për komunikimin](/caregiving/communication-tips/) ka ide për të folur qetë dhe për të dhënë një informacion në një kohë.
+Nëse duhet ta shkurtoni udhëtimin, bëjeni. Një vend i humbur ose një kthim i hershëm nuk është dështim. Nëse udhëtimi bëhet stresues, zgjidhni një aktivitet më të qetë kur ktheheni në shtëpi. [Udhëzuesi për komunikimin](/caregiving/communication-tips/) ka ide për të folur qetë dhe për të dhënë një informacion në një kohë.
 
 ## A duhet t'i tregojmë hotelit ose ofruesit të udhëtimit?
 

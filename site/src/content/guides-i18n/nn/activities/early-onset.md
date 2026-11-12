@@ -80,9 +80,9 @@ For rettleiing om faste rutinar og å halde seg aktiv, sjå [ein mild dagleg rut
 
 ## Støtte til partnarar og vaksne born
 
-Partnarar og vaksne born kjenner ofte seg isolerte. Omsorgsarbeid kan kjennast som ei ekstra jobb oppå arbeid og familie. Innlegget på Alzheimers foreining sin blogg fortel at pårørande i grupper for yngre start fann det nyttig både med praktiske ting, som juridisk planlegging, og for å kjenne seg forstådde. Der står òg at foreininga driv gratis støttegrupper for pårørande, òg grupper for folk som stell nokon med tidleg start av demens, og at tre av dei møtest digitalt på tysdagar og onsdagar.
+Partnarar og vaksne born kjenner ofte seg isolerte. Omsorgsarbeid kan kjennast som ei ekstra jobb oppå arbeid og familie. Innlegget på bloggen til Alzheimers forening fortel at pårørande i grupper for yngre start fann det nyttig både med praktiske ting, som juridisk planlegging, og for å kjenne seg forstådde. Der står òg at forening driv gratis støttegrupper for pårørande, òg grupper for folk som stell nokon med tidleg start av demens, og at tre av dei møtest digitalt på tysdagar og onsdagar.
 
-For å spørje om grupper, ring forening sin døgnopne hjelpelinje (24/7) på 800.272.3900. Vår rettleiing om [eigenomsorg for pårørande](/caregiving/caregiver-self-care/) dekkjer kvile, avlastning og teikn på utbrenthet.
+For å spørje om grupper, ring forening si døgnopne hjelpelinje (24/7) på 800.272.3900. Vår rettleiing om [eigenomsorg for pårørande](/caregiving/caregiver-self-care/) dekkjer kvile, avlastning og teikn på utbrenthet.
 
 ## Stadia har framleis betydning
 

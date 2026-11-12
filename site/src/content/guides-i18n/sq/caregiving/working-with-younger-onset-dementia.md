@@ -1,7 +1,7 @@
 ---
 title: "Puna pas diagnozës së demencës me fillim të hershëm"
 seoTitle: "Puna me demencë me fillim të hershëm: Çfarë të merret parasysh"
-description: "Shqyrtoni opsionet e punës pas diagnozës së demencës me fillim të hershëm: rishikoni detyrat, pyesni për mbështetjen, mbroni privatësinë dhe kontrolloni rregullat vendase."
+description: "Opsionet e punës pas diagnozës së demencës me fillim të hershëm: rishikoni detyrat, pyesni për mbështetjen, mbroni privatësinë dhe kontrolloni rregullat vendase."
 section: caregiving
 order: 31
 updated: 2026-11-11
