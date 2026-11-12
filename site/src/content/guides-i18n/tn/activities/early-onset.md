@@ -81,7 +81,7 @@ Go bona tataiso ya ditiro tsa letsatsi le letsatsi le go nna sentle, bala [letsa
 
 ## Thuso ya bagwera le bana ba bagolo
 
-Bagwera le bana ba bagolo gantsi ba ikutlwa ba le kgakala. Tlhokomelo e ka ikutlwa e le tiro e nngwe e e tlhokegang kgotsa go feta mo tirong le lelapeng. Setlhopha sa Alzheimer's Association sa bloki se bolela gore batlhokomedi ba mo dikopanong tsa early-onset ba fitlhela di thusa ka dilo tsa tlhokomelo ya molao, le go ikutlwa ba utlwisisiwa. Se se bolela gape gore Association e dira dikopano tsa thuso tsa mahala ya batlhokomedi, go akaretsa dikopano tsa batho ba ba tlhokomelang motho yo o nang le early-onset dementia, mme tse tharo tsa tsone di kopana ka inthanete ka Labobedi le Laboraro.
+Bagwera le bana ba bagolo gantsi ba ikutlwa ba le kgakala. Tlhokomelo e ka ikutlwa e le tiro e nngwe e e tlhokegang kgotsa go feta mo tirong le lelapeng. Alzheimer's Association e bolela gore batlhokomedi ba mo dikopanong tsa early-onset ba fitlhela di thusa ka dilo tsa tlhokomelo ya molao, le go ikutlwa ba utlwisisiwa. Se se bolela gape gore Association e dira dikopano tsa thuso tsa mahala ya batlhokomedi, go akaretsa dikopano tsa batho ba ba tlhokomelang motho yo o nang le early-onset dementia, mme tse tharo tsa tsone di kopana ka inthanete ka Labobedi le Laboraro.
 
 Go botsa ka dikopano, letsetsa Association Helpline ya yone ya 24/7 ka 800.272.3900. [Tlhokomelo ya batlhokomedi ka bo bone](/caregiving/caregiver-self-care/) e bua ka go phomola, tlhokomelo e e nakong le matshwao a go lapa ka go tlhoka matla.
 
