@@ -1,7 +1,7 @@
 ---
 title: "Go Apara ka Dementia"
 seoTitle: "Thuso ya Go Apara ya Motho yo o nang le Dementia"
-description: "Thusa motho yo o nang le dementia go apara ka kgololo le go itlhopha go gontsi. Dirisa diaparo tse di tlwaelegileng, ditaelo tse di kgutshwane, sephiri le nako e e lekaneng."
+description: "Thusa motho yo o nang le dementia go apara ka kgololo le go itlhopha go gontsi. Dirisa diaparo tse di tlwaelegileng, ditaelo tse di kgutshwane le sephiri."
 section: caregiving
 order: 17
 updated: 2026-11-11
@@ -50,7 +50,7 @@ Botsa motho gore o batla go apara eng. Fa go tlhopha go tswa mo kobong e e tlets
 
 Dira gore go tlhomamisiwe se a se ratang kgale. Mmala o o ratwang, mesela le diaparo tse di tlwaelegileng di ka dira gore go tlhopha go nne bonolo. Se fetole mokgwa wa gagwe ka se o se akanyang gore se bonala sa siama. Seaparo se se sa tshwanelang ga se dire gore go nne le go ganetsana. Fa a itumetse mme diaparo di tshwanelwa ke boemo jwa leruri, dumelela tlhophelo ya gagwe.
 
-Fa o reka diaparo, akanya ka go itumela le se motho a kgonang go se dira. Mesela e boleta, mekgwa e e tlwaelegileng le ditswaelo tse a di bulang di ka thusa. Dikgomaro tsa dielastiki kgotsa tse di bonolo di ka nna bonolo ho batho ba bangwe, mme mokgwa o mošwa o ka dira gore go se ke go tlwaelega. Botsa pele o tlosa diaparo tsa gagwe tse a di ratang kgotsa o fetola tlwaelo.
+Fa o reka diaparo, akanya ka go itumela le se motho a kgonang go se dira. Mesela e boleta, mekgwa e e tlwaelegileng le ditswaelo tse a di bulang di ka thusa. Dikgomaro tsa dielastiki kgotsa tse di bonolo di ka nna bonolo go batho ba bangwe, mme mokgwa o mošwa o ka dira gore go se ke go tlwaelega. Botsa pele o tlosa diaparo tsa gagwe tse a di ratang kgotsa o fetola tlwaelo.
 
 ## Ke dikgato dife tse di nnye tse di dirang go apara go nne bonolo?
 
@@ -64,7 +64,7 @@ Dumelela motho go dira karolo nngwe le nngwe e a kgonang le e a batlang go e dir
 
 Botsa pele o tsena mo kamoreng kgotsa o thusa ka diaparo. Motho a ka nna a ikutlwa a sa tshwenyega go apara a le esi, kgotsa a ka batla mongwe a le gaufi ntle le thuso ya diatla. Latela se a se kopang. Fa thuso e tlhokega, bolela se o se batlang go se dira mme o lekoleke gore a ikutlwa a sa tshwenyega fa o tswelela.
 
-Dira gore motho a nne a koafetse fa a batla go fetola diaparo. Tswalela monyako kgotsa dikgabo tsa fesetere, mme o se ke wa bua ka dilo tsa sephiri fa batho ba bangwe ba ka utlwa. Fa ngwaake kgotsa mothusi wa tlhokomelo a thusa, botsa gore a o amogela. Dikgopolo di ka fetoga letsatsi le lengwe go le lengwe, mme o di tlhatlhobe ka nako nngwe le nngwe.
+Dira gore motho a nne a koafetse fa a batla go fetola diaparo. Tswalela monyako kgotsa dikgabo tsa fesetere, mme o se ke wa bua ka dilo tsa sephiri fa batho ba bangwe ba ka utlwa. Fa mongwe wa lelapa kgotsa mothusi wa tlhokomelo a thusa, botsa gore a o amogela. Dikgopolo di ka fetoga letsatsi le lengwe go le lengwe, mme o di tlhatlhobe ka nako nngwe le nngwe.
 
 Dikgakolo tsa go fetola diaparo di ka nna le maswabi. Neela seaparo se se hlwekileng, se se tlwaelegileng ntle le go tshwenya kgotsa go laya motho pele ga batho ba bangwe. Fa motho a batla go apara seaparo se a se ratang gape le gape, diaparo tse di tshwanang kgotsa tse di tshwanang di ka thusa go dira gore tlhophelo e nne ya tlwaelo. O se ke wa dira go fetola diaparo go nna tekanyo ya gore a gakologelwa kgotsa a ikemela.
 
@@ -72,7 +72,7 @@ Dikgakolo tsa go fetola diaparo di ka nna le maswabi. Neela seaparo se se hlweki
 
 ## Ke diaparo dife le dieta dife tse di ka nnang bonolo?
 
-Go itumela go ik ikaegile mo motho. Diaparo tse di boleta, tse di bonolo go apara le tse di tlwaelegileng di ka nna di kaelwa go feta seaparo se se mpsha se se nang le dikomaro tse dintsi. Kgetha dieta tse motho a di ikutlwang di le bonolo mme di nang le go tshwara ga maemo. [Pampiri ya Alzheimer's Association ya go apara](https://www.alz.org/getmedia/3e31dbc7-baf0-4f18-9c1b-7a8779af3d17/alzheimers-dementia-dressing-ts.pdf) e gakolola go lebelela gore botelele jwa seaparo bo siame go fokotsa kotsi ya go wela.
+Go itumela go ikaegile mo motho. Diaparo tse di boleta, tse di bonolo go apara le tse di tlwaelegileng di ka nna di kaelwa go feta seaparo se se mpsha se se nang le dikomaro tse dintsi. Kgetha dieta tse motho a di ikutlwang di le bonolo mme di nang le go tshwara ga maemo. [Pampiri ya Alzheimer's Association ya go apara](https://www.alz.org/getmedia/3e31dbc7-baf0-4f18-9c1b-7a8779af3d17/alzheimers-dementia-dressing-ts.pdf) e gakolola go lebelela gore botelele jwa seaparo bo siame go fokotsa kotsi ya go wela.
 
 Akanya ka mocheso wa letsatsi le dipeakanyo. Motho a ka itumela go apara diaparo tse di dirang sekai, mme lebelela gore a ikutlwa a le botsho kgotsa a le serame. Fa a tsamaya ka ntle, tsaya seaparo se se ka tlhomiwang kgotsa se se ka tlosiwang. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/dressing-grooming) e gakolola go tlhopha dieta tse di itumedisang le go akanya ka boemo jwa leruri. Tseno ke ditshupo tsa go bua le motho, e seng molao wa seaparo kgotsa wa go apara.
 
@@ -80,7 +80,7 @@ Akanya ka mocheso wa letsatsi le dipeakanyo. Motho a ka itumela go apara diaparo
 
 Fa go apara go fetogile ka go bonala, botsa motho gore ke eng se se mo thatileng mme o bue le ngaka ya gagwe. Dementia Australia e bolela gore go bona, dithuo kgotsa bolwetsi bo bongwe di ka dira gore go apara go nne thata. Ngaka e ka thusa go lebelela dikgang tse di ka dirang gore go nne jalo. O se ke wa emisa kgotsa wa fetola sejalo ka go ikaegile mo tsibogong ya tlhaloso.
 
-Fa motho a tlhaloganyo ya gagwe e fetoga ka bonako, batla thuso ya bongaka ka bonako mo tirelong ya tshoganetso ya kwa lefatsheng la lona. [Tlhaiso ya NHS ya tlhaloganyo e e fetogang ka bonako](https://www.nhs.uk/symptoms/confusion/) e bolela gore se se tlhoka tlhokomelo ka bonako. Tlhoko e ke ya go fetoga ga tlhaloganyo ka bonako, e seng phetogo e e diegang mo tlwaelong ya go apara.
+Fa motho a tlhaloganyo ya gagwe e fetoga ka bonako, batla thuso ya bongaka ka bonako mo tirelong ya tshoganetso ya kwa lefatsheng la lona. [Tataiso ya NHS ya tlhaloganyo e e fetogang ka bonako](https://www.nhs.uk/symptoms/confusion/) e bolela gore se se tlhoka tlhokomelo ka bonako. Tlhoko e ke ya go fetoga ga tlhaloganyo ka bonako, e seng phetogo e e diegang mo tlwaelong ya go apara.
 
 Lemogang karolo ya tlwaelo e e fetogileng: go tlhopha diaparo, go di bona, go tshwara sejelo kgotsa go itshwara mo maotong. Abelana se o se bonang le motho le ngaka ya gagwe, fa a dumela. Phetogo e ntšha ga e supe ka boyona gore ke eng e e dirang jalo. O se ke wa akanya gore motho o itsibile kgotsa ga a tlhoke tlhokomelo.
 

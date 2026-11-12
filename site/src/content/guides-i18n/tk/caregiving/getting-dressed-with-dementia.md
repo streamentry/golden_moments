@@ -59,7 +59,7 @@ Täze eşik satyn alanda rahatlygy we adamyň edip bilýän zadyny göz öňünd
 
 Ýaýdanyp bilýän wagt saýlaň. Howlukmak ýagdaýy has agyr edip biler. Arassa, gowy ýagtylandyrylan ýer we eşikleriň gözüňize ilýän ýeri kömek edip biler. Geýinilýän ýerden başga zatlary alyp aýryň we saýlanan eşikleri elýeterli goýuň.
 
-Eşikleri adamyň geýmek isleýän tertibinde taýýarlaň. Bir wagtda bir zat hödürläň we “Mana, köýneğiňiz” ýaly gysga görkezme ulanyň. “Geýiniň” ýaly giň buýruk ýerine ýetirmek üçin kynrak bolup biler. Ädimleriň arasynda adama düşünmäge we jogap bermäge pursat beriň.
+Eşikleri adamyň geýmek isleýän tertibinde taýýarlaň. Bir wagtda bir zat hödürläň we “Mana, köýnegiňiz” ýaly gysga görkezme ulanyň. “Geýiniň” ýaly giň buýruk ýerine ýetirmek üçin kynrak bolup biler. Ädimleriň arasynda adama düşünmäge we jogap bermäge pursat beriň.
 
 Adamyň edip bilýän we etmek isleýän her bölegine rugsat beriň. Ol indiki ädimini bilmese, ýadatmak ýa-da kömek gerekmi diýip soraň. Eşikleri onuň üstüne çekmäň ýa-da razylyksyz bedenini hereket etdirmäň. Bir ädim kynçylyk getirse, durup, näme edilse aňsatlaşmagyny soraň. Käwagt ertir synanyşmak ýeterlikdir.
 

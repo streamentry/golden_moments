@@ -1,6 +1,6 @@
 ---
 title: "Ýaşy kiçi ýaşdaky demensiýa diagnozyndan soň işlemek"
-seoTitle: "Ýaşy kiçi ýaşdaky demensiýa bilen işlemek: näme göz öňünde tutmaly"
+seoTitle: "Ýaşy kiçi demensiýa bilen işlemek: göz öňünde tutmaly zatlar"
 description: "Ýaşy kiçi ýaşdaky demensiýa diagnozyndan soň iş saýlawlaryny barlaň: wezipeleri gözden geçiriň, goldaw soraň, gizlinligi goraň we ýerli düzgünleri tapyň."
 section: caregiving
 order: 31
@@ -15,7 +15,7 @@ keyPoints:
   - "Diagnoz awtomatiki suratda işden çykmagyňyzy talap etmeýär; rolyňyzy, islegleriňizi we howpsuzlygy göz öňünde tutuň."
   - "Haýsy wezipeleriň aňsat ýa-da kyn bolýandygyny ýazyň we lukmanyňyz bilen iş bilen baglanyşykly aladalary gürrüň ediň."
   - "Iş berijiňiz bilen üýtgeşmeleri diňe özüňiz saýlanyňda we ýerli düzgünleri hem gizlinligi barlanandan soň gözläň."
-  - "Uly üýtgeşme etmezden ozal HR ýa-da ýerli iş maslahatçysyndan kömek pullarynyň, möhletleriň we ýazmaça ýazylan syýasatlaryň barada soraň."
+  - "Uly üýtgeşme etmezden ozal HR ýa-da ýerli iş maslahatçysyndan kömek pullarynyň, möhletleriň we ýazmaça syýasatlaryň barada soraň."
 faq:
   - q: "Demensiýa diagnozy işlemezligimi talap edýärmi?"
     a: "Hiç bir jogap hemmelere laýyk gelmeýär. Karar islegleriňize, işiňize, elýeterli goldaw we howpsuzlyk aladalaryna bagly. Saglygyňyzy we iş wezipelerinizi bilýän lukman, siziň üçin soraglary göz öňünde tutmaga kömek edip biler."
@@ -24,7 +24,7 @@ faq:
   - q: "Iş ýerindäki haýsy üýtgeşmeler kömek edip biler?"
     a: "Ýazgy görkezmeleri, takwim, az päsgelçilik, meýilleşdirilen dynç ýa-da bir wagtda bir iş ýaly zatlaryň wezipäňize laýyk gelýändigini soraň. Bu pikirler her iş üçin dogry däl, şonuň üçin olary iş berijiňiz bilen gürrüň ediň we kömek edýändigini gözden geçiriň."
   - q: "Işden gitmezden ozal haýsy kömek pullaryny barlamaly?"
-    a: "HR ýa-da kömek pullary boýunça habarlaşyjyňyzdan çäkleriňiz, maýyplyk ýa-da girdeji kömekleri, saglyk ýaplygy we meýilnamaňyz üçin degişli möhletler barada soraň. Düzgünler iş berijä we ýere görä tapawutlanýar; resminama gol çekmezden ýa-da iş ýagdaýyňyzy üýtgetmezden ozal ýerli hünärli maslahat alyň."
+    a: "HR ýa-da kömek pullary boýunça habarlaşyjyňyzdan çäkleriňiz, maýyplyk ýa-da girdeji kömekleri, saglyk sygortasy we meýilnamaňyz üçin degişli möhletler barada soraň. Düzgünler iş berijä we ýere görä tapawutlanýar; resminama gol çekmezden ýa-da iş ýagdaýyňyzy üýtgetmezden ozal ýerli hünärli maslahat alyň."
 sources:
   - title: "If You Have Younger-Onset Alzheimer's Disease"
     publisher: "Alzheimer's Association"
@@ -48,7 +48,7 @@ Iş ömrüniň dowamynda demensiýa diagnozy girdeji, gizlinlik, şahsyýet we h
 
 Ýok. Diagnozyň özi işlemäge dowam edip bilmeýänligiňizi kesgitlemeýär. [Alzheimer's Society-niň aýtmagyna görä](https://www.alzheimers.org.uk/get-support/living-with-dementia/work-dementia) karar siziň duýgularyňyza, işiňize we şahsy ýagdaýyňyza bagly. Käbirleri şol wezipede dowam edýär, käbirleri wezipesini ýa-da sagadyny üýtgedýär, käbirleri işden çykýar.
 
-Näme işläp, näme kynlaşandygyny pikir ediň. Tanyş görünýän wezipeleriňizi, haçan ýadanýandygyňyzy ýa-da ýalňyşýandygyňyzy we belli ýalňyşlyklaryň ýa-da howpsuzlyk aladalarynyň bolup-bolmandygyny ýazyp bilersiňiz. Anyk mysallar siziň we lukmanyňyzyň işi gürrüň etmegine kömek edip biler, bir kynçylykly günüň sizi ukybyňyz barada netijä getirmezligi üçin.
+Näme işläp, näme kynlaşandygyny pikir ediň. Tanyş görünýän wezipeleriňizi, haçan unudýandygyňyzy ýa-da ýalňyşýandygyňyzy we belli ýalňyşlyklaryň ýa-da howpsuzlyk aladalarynyň bolup-bolmandygyny ýazyp bilersiňiz. Anyk mysallar siziň we lukmanyňyzyň işi gürrüň etmegine kömek edip biler, bir kynçylykly günüň sizi ukybyňyz barada netijä getirmezligi üçin.
 
 Howpsuzlyk hem möhüm. Işiňiz ulag sürmek, enjam işletmek, başgalary ideg etmek ýa-da başga howpsuzlyk üçin jogapkär iş bolsa, töwekgelçiligi nähili baha bermelidigini lukmanyňyzdan soraň. Ýerli kanunlar, hünär düzgünleri we iş şertnamalary hem ulanylyp biler. Bu sahypa belli bir wezipäniň howpsuzdygyny ýa-da iş berijiniň näme etmelidigini aýdyp bilmez.
 
@@ -74,14 +74,14 @@ Käbir işler howpsuzlyk üçin möhüm wezipeleri öz içine alýar. Şol wezip
 
 ## Haýsy kömek pullaryny we maliýeni barlamaly?
 
-Sagatlaryňyzy üýtgetmezden ýa-da işden çykmazdan ozal, iş berijiňiz arkaly elýeter kömekleri gözden geçiriň. HR ýa-da kömek pullary dolandyryjysyndan dynç, maýyplyk ýa-da girdeji kömekleri, saglyk ýaplygy we möhletler barada soraň. Häzirki düzgünleri ýazmaça soraň we alýan maglumatyňyzyň nusgasyny saklaň.
+Sagatlaryňyzy üýtgetmezden ýa-da işden çykmazdan ozal, iş berijiňiz arkaly elýeter kömekleri gözden geçiriň. HR ýa-da kömek pullary dolandyryjysyndan dynç, maýyplyk ýa-da girdeji kömekleri, saglyk sygortasy we möhletler barada soraň. Häzirki düzgünleri ýazmaça soraň we alýan maglumatyňyzyň nusgasyny saklaň.
 
-Ygtyýarlylyk, salgyt we wagt iş berijiňize, sygorta syýasatyna we ýere bagly. [Alzheimer's Association iş berijiniň kömek pullaryny barlamagy we ýazmaça tassyklamany saklamagy maslahat berýär](https://www.alz.org/help-support/i-have-alz/younger-onset). Öz kararyňyz üçin, degişli resminamalary gözden geçirip biljek hünärli kömek pullary ýa-da maliýe maslahatçysy bilen gürrüň ediň. Diňe umumy makala esaslanyp gol çekmäň ýa-da ýaplygy bes etmäň.
+Ygtyýarlylyk, salgyt we wagt iş berijiňize, sygorta syýasatyna we ýere bagly. [Alzheimer's Association iş berijiniň kömek pullaryny barlamagy we ýazmaça tassyklamany saklamagy maslahat berýär](https://www.alz.org/help-support/i-have-alz/younger-onset). Öz kararyňyz üçin, degişli resminamalary gözden geçirip biljek hünärli kömek pullary ýa-da maliýe maslahatçysy bilen gürrüň ediň. Diňe umumy makala esaslanyp gol çekmäň ýa-da sygortany bes etmäň.
 
 Maşgalaňyz hem girdejiniň ýa-da sagadyň üýtgemeginden täsirlenip biler. Isleseňiz, ynanýan adamlaryňyz bilen iň möhüm zatlary we özüňiz derňemek isleýän mümkinçilikleri gürrüň ediň. [Diagnozdan soňky ilkinji ädimler gollanmamyz](/caregiving/after-dementia-diagnosis/) giň goldaw we geljegi meýilleşdirmek soraglaryny öz içine alýar.
 
-## Sagatlary azaltsam ýa-da işden çıksam näme etmeli?
+## Sagatlary azaltsam ýa-da işden çykmaly bolsam näme etmeli?
 
-Işden çykmak käbirleri üçin dogry karar bolup biler. Bu siziň şowsuzlygyňyz diýmek däl. Girdeji, saglyk ýaplygy, gündelik tertip we görmek isleýän adamlaryňyz barada pikir edip bilersiňiz. Üýtgeşme etmezden ozal ýerli goldaw barada soraň we size möhüm bolan mümkinçilikleri deňeşdirmäge wagt beriň.
+Işden çykmak käbirleri üçin dogry karar bolup biler. Bu siziň şowsuzlygyňyz diýmek däl. Girdeji, saglyk sygortasy, gündelik tertip we görmek isleýän adamlaryňyz barada pikir edip bilersiňiz. Üýtgeşme etmezden ozal ýerli goldaw barada soraň we size möhüm bolan mümkinçilikleri deňeşdirmäge wagt beriň.
 
 Iş durmuşyň diňe bir bölegi. Sagatlary azaltsaňyz ýa-da bes etseňiz, taýýar bolanyňyzda size gymmatly bolan başga işjeňlikleri ýa-da gatnaşyklary saýlaň. Maşgala agzalary kömek edip biler, ýöne karar siziň hem gatnaşmaly. [Idegçiniň öz-özüni goramak gollanmamyz](/caregiving/caregiver-self-care/) ähli jogapkärçiligi bir adama goýman, başgalardan kömek soramak barada pikirler berýär.

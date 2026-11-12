@@ -1,7 +1,7 @@
 ---
 title: "Go Ya Sepetlele ka Dementia"
 seoTitle: "Tlhokomelo ya Sepetlele ya Motho yo o nang le Dementia"
-description: "Itokisetse go ya sepetlele, e kgatlhegang kgang kgotsa tshoganetso: abelana dikeletso tsa tlhokomelo, tsaya dilo tse di tlwaelegileng mme o dumalane ka dikgato tsa go tswa."
+description: "Itokisetse go ya sepetlele: abelana dikeletso tsa tlhokomelo, tsaya dilo tse di tlwaelegileng mme o kope lenaneo le le kwadilweng la go tswa."
 section: caregiving
 order: 21
 updated: 2026-11-11

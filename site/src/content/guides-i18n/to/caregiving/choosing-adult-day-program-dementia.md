@@ -1,7 +1,7 @@
 ---
 title: "Filifili ʻa e Polokalama ʻi he ʻAho ki he Kakai Lahi ʻoku Mahaki ʻi he Dementia"
 seoTitle: "Tokanga ʻi he ʻAho ki he Dementia: Ko e Ngaahi Fehuʻi"
-description: "Fakatatau ʻa e polokalama ʻi he ʻaho ki he dementia ʻaki ʻa e ngaahi ngāue, kau faʻu, tokoni, fakahāʻele mo e loto ʻo e tokotaha. Fehuʻi ki he pa'anga mo e tuʻutuʻuni."
+description: "Fakatatau ʻa e polokalama ʻi he ʻaho ki he dementia ʻaki ʻa e ngāue, kau faʻu, tokoni, fakahāʻele mo e loto ʻo e tokotaha. Fehuʻi ki he totongi mo e tuʻutuʻuni."
 section: caregiving
 order: 27
 updated: 2026-11-11

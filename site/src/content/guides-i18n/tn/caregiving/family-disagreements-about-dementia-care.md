@@ -1,7 +1,7 @@
 ---
 title: "Fa Malapa a Sa Dumalanye ka Tlhokomelo ya Dementia"
 seoTitle: "Dikgang tsa Malapa ka Tlhokomelo ya Dementia"
-description: "Tsela e e tlhotlheleditseng ya go buisana ka dikgang tsa tlhokomelo ya dementia: akanya ka dikeletso tsa motho, kgaoganya dinnete le dikakanyo, abelana tiro le go kopa thuso ya ntle."
+description: "Tsela e e tlhotlheleditseng ya go buisana ka dikgang tsa tlhokomelo ya dementia: akanya ka dikeletso tsa motho, kgaoganya dinnete le dikakanyo, abelana tiro."
 section: caregiving
 order: 33
 updated: 2026-11-11
@@ -42,7 +42,7 @@ Fa motho yo o nang le dementia a na le ditiro tsa lelapa, badiragadi ba ka nna b
 
 Botsang motho yo o nang le dementia gore ke eng se se mo kgatlhegelang le gore o batla go tsaya karolo jang. Go fitlhelwa ga dementia ga go tlose sebaka sa gagwe mo dipuisanong ka botshelo jwa gagwe jwa letsatsi le letsatsi. Botsang gore ke mang yo o batlang a akareditswe le gore ke tshedimosetso efe e ba e batlang e abelanwe. Fa a batla thuso ya go bolela tlhophelo ya gagwe, mo naya nako mme lo bue ka tlhophelo nngwe ka nako.
 
-[Tataiso ya Golden Moments ya dikgato tsa tshimologo kgatlhanong le go fitlhelwa ga dementia](/caregiving/after-dementia-diagnosis/) e na le dikakanyo tsa go akaretsa motho mo dipeakanyong tsa isago. Fa motho a tlhophile motho yo o mo thusang ka ditshwetso, akaretsa motho yoo mo puisanong, o tlotla dikeletso le sephiri sa motho. Fa badiragadi ba lelapa ba sa dumalane ka tshwanelo ya semolao ya go dira ditshwetso, botsang setsabosetsa sa semolao sa kwa lefatsheng la lona e seng go akanya ka boitshepo.
+[Tataiso ya dikgato tsa tshimologo ka morago ga go bonwa ga dementia](/caregiving/after-dementia-diagnosis/) e na le dikakanyo tsa go akaretsa motho mo dipeakanyong tsa isago. Fa motho a tlhophile motho yo o mo thusang ka ditshwetso, akaretsa motho yoo mo puisanong, o tlotla dikeletso le sephiri sa motho. Fa badiragadi ba lelapa ba sa dumalane ka tshwanelo ya semolao ya go dira ditshwetso, botsang setsabosetsa sa semolao sa kwa lefatsheng la lona e seng go akanya ka boitshepo.
 
 ## A re simolang puisano ya lelapa jang?
 
@@ -71,11 +71,11 @@ Go siama ga se gore go lekana ka tsela nngwe fela. [Mokgatlho wa Alzheimer's Ass
 
 Batho ba bangwe ba ka thusa ka dipaelano tsa ka metlha kgotsa tlhokomelo ya mmele. Ba bangwe ba ka kgona go rulaganya dipaelano, go isa, go tlisa dijo, go dira ditiro tsa dikwalo kgotsa go ela tlhoko ka beke. Mongwe yo o nnang kgakala a ka tswelela go rulaganya diletlelo, go batlisisa ditirelo tsa kwa gae kgotsa go tlisa ditharabololo fa motho a dumela. [Tataiso ya rona ya tlhokomelo e e kgakala](/caregiving/long-distance-caregiving-with-dementia/) e na le morero o o gontseng wa ditlhophiso, dipegelo le dipaelano.
 
-Dirisang lenane le le abelanwang kgotsa lenane la go kwadiwa la dikarolo tse di tlhomilweng. Akaretsang gore ke mang yo o jaaka molato, gakologelwa gore ke ka make le ka eng, le gore ke mang yo o lebegang fa dipaelano di fetoga. Sekaseka lenane fa tlhokomelo ya mongwe, tiro ya gagwe kgotsa bokgoni jwa go tlhokomela bo fetoga. [Tataiso ya go itlhokomela ya badiragadi](/caregiving/caregiver-self-care/) e tlhalosa ditsela tsa go kopa batho ba bangwe go abelana thuso.
+Dirisang lenane le le abelanwang kgotsa la go kwala dikarolo tse di tlhomilweng. Akaretsang gore ke mang yo o jaaka molato, gakologelwa gore a ka rata ke eng, le gore ke mang yo o lebegang fa dipaelano di fetoga. Sekaseka lenane fa tlhokomelo ya mongwe, tiro ya gagwe kgotsa bokgoni jwa go tlhokomela bo fetoga. [Tataiso ya go itlhokomela ya badiragadi](/caregiving/caregiver-self-care/) e tlhalosa ditsela tsa go kopa batho ba bangwe go abelana thuso.
 
 ## A re dirang fa re sa ntse re sa dumalane?
 
-Boela kwa go se se itsegeng, se motho a se batlang le potso e e sa ntse e sa rarabololwa. Lo ka se rarabolole sengwe le sengwe mo kopanong e le nngwe. Dumalanang ka tiro e le nngwe e e sireletsegileng le e e amogelegang ka nako eno, mme mme lo bee nako ya go boela go tshekatsheka tshwetso e kgolo.
+Boela kwa go se se itsegeng, se motho a se batlang le potso e e sa ntse e sa rarabololwa. Lo ka se rarabolole sengwe le sengwe mo kopanong e le nngwe. Dumalanang ka tiro e le nngwe e e sireletsegileng le e e amogelegang ka nako eno, mme lo bee nako ya go boela go tshekatsheka tshwetso e kgolo.
 
 Fa badiragadi ba sa dumalane ka go fudusa, dikgato tsa pele e nne go kgobokanya tshedimosetso e seng go dira phano ya go re ee kgotsa nnyaa. Botsang gore ke thuso efe e e tlhokegang kwa gae, motho o batla eng le ditlhophelo tse lelapa le batlang go di ithuta. Go etela setlhopha sa tlhokomelo kgotsa go bua le mofaki wa thuso ya kwa gae go ka thusa puisano eo ntle le go tlhoma motho mo tshwetsong e e kgatelelang.  [Tataiso ya dihuma tsa tlhokomelo](/caregiving/choosing-residential-dementia-care/) e na le dipotso tsa go bapisa dikgetho.
 

@@ -59,7 +59,7 @@ Işi duruzyň, yza çekiliň we rahat, gysga sözi ulanyň. [Alzheimer's Associa
 
 ## Haýsy zatlar gylyk-häsiýetiň üýtgemegine täsir edip biler?
 
-Birnäçe faktor bolup biler, we maşgala agzasy sebäbini diagnoz edip bilmez. [Alzheimer's Association fiziki rahatsyzlygy, gurşawdan gelýän streslar we aragatnaşyk meselelerini mümkin bolan sebäpler hökmünde sanaýar](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger).
+Birnäçe faktor bolup biler, we maşgala agzasy sebäbini diagnoz edip bilmez. Alzheimer's Association fiziki rahatsyzlygy, gurşawdan gelýän streslar we aragatnaşyk meselelerini mümkin bolan sebäpler hökmünde sanaýar.
 
 Üýtgeşmeden gysga wagt öň näme bolandygyny pikir ediň:
 
@@ -85,7 +85,7 @@ Işe degişli pikirler üçin [ýuwunmak](/caregiving/bathing-with-dementia/) we
 
 ## Ýagdaý rahatlanandan soň näme edip bilerin?
 
-Adam isleseler, ynamlandyrmak we az talap edýän tanyş işjeňlige dolanmak. Jeza bermäň, günäkärlemäň ýa-da jezalandyrmaň. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) gylyk-häsiýet geçenden soň-da adamyň wakanyň näme bolandygyny ýatlamasa-da, ýene-de aljyrap biljekdigini belleýär.
+Adam isleseler, ynamlandyrmak we az talap edýän tanyş işjeňlige dolanmak. Jeza bermäň, günäkärlemäň ýa-da jezalandyrmaň. Alzheimer's Society gylyk-häsiýet geçenden soň-da adamyň wakanyň näme bolandygyny ýatlamasa-da, ýene-de aljyrap biljekdigini belleýär.
 
 Nusgany düşünmek isleseňiz, öň näme bolandygyny, näme görendigiňizi, näçe dowam edendigini we näme kömek edendigini gysga, şahsy ýazgy ediň. Ýazgyny hakykat esasynda saklaň we degişli bolanda idegiň topuna paýlaşyň. Rugsatsyz adamy ýazmazdan ýa-da şahsy maglumatlary paýlaşmazdan saklanyň.
 

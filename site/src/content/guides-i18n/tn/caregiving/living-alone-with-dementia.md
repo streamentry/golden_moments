@@ -1,7 +1,7 @@
 ---
 title: "Go Thusa Motho yo o nang le Dementia yo o Nnang Nosi"
 seoTitle: "Go Nna Nosi ka Dementia: Thuso ya Malapa"
-description: "Thusa motho yo o nang le dementia yo o nnang nosi ka ditlwaelo tse di tsitsang, dipopego tse di dumalaneng le thuso e e tlhomameng, mme o nne o tlhomphile dikeletso le go ikemela ga gagwe."
+description: "Thusa motho yo o nang le dementia yo o nnang nosi ka ditlwaelo tse di tsitsang, dipopego le thuso e e tlhomameng, mme o tlotle dikeletso tsa gagwe."
 section: caregiving
 order: 12
 updated: 2026-11-11
@@ -31,7 +31,7 @@ related: [caregiving/home-safety, activities/daily-routine, brain-health/social-
 health: false
 ---
 
-Go nna nosi ga go bolele ka boyone gore motho o tlhoka thuso e kae. [Mokgatlho wa Alzheimer's Association o bolela](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) gore batho ba le bantsi ba ba nang le Alzheimer's ba tswelela go nna bobo ka bobone, gaaka mo nakong ya tshimologo, ka diphetogo tse di nnye, ditshireletso le thuso ya batho ba bangwe. Potso e e tlhamaletseng ke gore motho o batla go tswelela go dira eng, mme ditiro tseo di ka dirwa ka bonolo jang.
+Go nna nosi ga go bolele ka boyone gore motho o tlhoka thuso e kae. Mokgatlho wa Alzheimer's Association o bolela gore batho ba le bantsi ba ba nang le Alzheimer's ba tswelela go nna bobo ka bobone, gaaka mo nakong ya tshimologo, ka diphetogo tse di nnye, ditshireletso le thuso ya batho ba bangwe. Potso e e tlhamaletseng ke gore motho o batla go tswelela go dira eng, mme ditiro tseo di ka dirwa ka bonolo jang.
 
 Simolang puisano eno fa go na le nako mme go se na bothata jo bo tlhokang go rarabololwa ka bonako. Botsa se se mo lapiseng, ditlwaelo tse di botlhokwa le mofuta wa thuso o a e amogelang. Morero o o dirilweng mmogo le ene o tla bo o sa tshwane le botshelo jwa gagwe go gaisa lenane la ditiro tse di beilweng ka dikgatlhego tsa ba bangwe.
 
