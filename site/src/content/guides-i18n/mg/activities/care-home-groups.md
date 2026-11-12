@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Hetsika vondrona ho an'ny demensia: trano fikarakarana sy fandaharana andro"
+seoTitle: "Hetsika vondrona demensia: bingo sary, hira, tantara"
+description: "Hetsika vondrona ho an'ny fikarakarana demensia, trano fitsaboana sy fandaharana andro: bingo sary, hira niaraka, vondrona fahatsiarovana, toerana sy isa tsara."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Ny hetsika vondrona tsara amin'ny fikarakarana demensia sy fandaharana andro dia fohy, mahazatra ary mora hiditra amin'ny ambaratonga rehetra: bingo sary, hira niaraka, vondrona fahatsiarovana, fihetsehana tsotra ary lalao teny iraisana. Tazomy kely ny vondrona raha azo atao, apetraho ny olona mba hahitan'ny rehetra sy ho azon'ny rehetra ny feo, omeo dingana iray mazava isaky ny indray, ary apetraho ny andraikitra malalaka sy fialana milamina ho an'izay mila izany.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Ny vondrona kely matetika mahomby kokoa noho ny hetsika lehibe iray, ary ahafahan'ny olona maro mandray anjara fa tsy mijery fotsiny."
+  - "Apetraho ny olona amin'ny faribolana na tsatoka, akaiky ny mpitarika, ary ampifanaraho amin'ny filan'ny fihainoana sy fahitana, ary ajanony ny feon-kanto."
+  - "Drafitro ny hetsika amin'ny ambaratonga roa na telo mba hahafahan'ny olona samy hafa hiditra rehetra."
+  - "Aza manontany, mandrahona na misafidy mpandresy. Ny bingo sary dia azo lalaovana ka ny olona rehetra mahazo karatra feno."
+  - "Ny fialana aloha, fijerena na matory dia mety. Misy mpiasa vonona hanampy izay mila toerana mangina kokoa."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Inona no habe tsara ho an'ny vondrona hetsika demensia?"
+    a: "Tsy misy isa iray marina, ary miankina amin'ny mponina, ny efitra ary ny isan'ny mpiasa. Maro no mahita fa ny vondrona kely dia ahafahan'ny olona rehetra mahita, mihaino ary mandray anjara, fa ny hetsika ao amin'ny efitra lehibe matetika dia mahatonga olona maro hijery fotsiny. Raha manao hetsika lehibe ianao, ampio mpiasa na mpanao fanampiana izay afaka mipetraka eo amin'ny mponina ary manampy olona iray na roa isaky ny iray."
+  - q: "Ahoana no fomba hitantanana vondrona misy fahaizana samihafa?"
+    a: "Drafitro fomba maro hiditra amin'ny hetsika tsirairay. Amin'ny hira niaraka, olona sasany mihira ny teny rehetra, sasany mikapoka tanana na mihira amin'ny feo ambany, ary sasany mihazona fanakodia. Amin'ny bingo sary, olona sasany mahita ny sary sy mandrakotra azy, fa ny mpanampy mampiseho ho an'ny sasany. Apetraho ny olona mila fanampiana akaiky ny mpiasa na mpanampy."
+  - q: "Ahoana no fomba handalovana bingo sary tsy misy fifaninanana?"
+    a: "Antsoy ny sary rehetra mandra-pahafenoan'ny karatra rehetra, mba tsy hisy olona hadiana. Resaho ny sary tsirairay rehefa miseho, ary aza omena loka ho an'ny mpandresy na omeo ny rehetra ny zavatra kely mitovy. Ny tanjona dia ny fifandray sy ny resaka iraisana, fa tsy ny hoe iza no vita aloha."
+  - q: "Afaka mampiasa ny lalaovanay amin'ny efijery lehibe amin'ny vondrona ve aho?"
+    a: "Eny. Ny lalao eto dia mandeha amin'ny mpitety an-tranonkala, ka azonao atao ny misokatra amin'ny ordinatera na tablette mifandray amin'ny TV na projecteur. Ny Picture Bingo dia misy karatra azo atao print sy mpiantso ao amin'ny efijery. Finish the Saying sy Picture Pairs koa mety tsara amin'ny efijery lehibe miaraka amin'ny olona iray mitsindrina ho an'ny vondrona."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Ity torolalana ity dia ho an'ny mpitantana hetsika, ekipan'ny fikarakarana demensia ary mpitarika fandaharana andro amin'ny olona mandeha isan'andro. Misy ao ny endrika vondrona mahomby, ny fametrahana ny efitra, ny fanovana hetsika iray ho an'ny fahaizana samihafa, ary ny fampiasana ny karatra bingo azo atao print sy ny lalao amin'ny efijery lehibe. Ny zavatra rehetra eto dia mifantoha amin'ny fahamasinana, ny fifandraisana ary ny fisafidianana. Tsy misy fitsapana eto.
 
-## What makes a group activity work in memory care?
+## Inona no mahatonga hetsika vondrona ho mahomby amin'ny fikarakarana demensia?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Hetsika vondrona tsara dia mahazatra, fohy, mora hiditra amin'ny ambaratonga rehetra ary tsy misy fanerena. Ny [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) an'ny Alzheimer's Association dia mamaritra ny fifandraisana manan-danja ho zavatra manohana ny liana sy ny safidin'ny olona, ary mamela ny safidy sy ny fahombiazana, na dia mafy indrindra aza ny demensia. Ny antontan-taratasy mitovy dia manamarika fa ny fandaharana nentim-paharazana matetika miankina amin'ny hetsika vondrona lehibe iray na roa isan'andro, izay ny olona matetika mijery fotsiny.
 
-That points to a few practical rules:
+Izany dia mitarika ho amin'ny fitsipika ampiasaina sasany:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Mahazatra mahatsara noho ny vaovao.** Hira, ohabolana, sary ary zavatra avy amin'ny fahazazan'ny mponina dia mora hiditra.
+- **Fohy mahatsara noho ny ela.** Mikirasa ho amin'ny fotoana fahatoriana izay mahazatra amin'ny vondronao, miaraka amin'ny fijanonana mety antsasaky ny hetsika.
+- **Ny fanaovana mahatsara noho ny fijerena.** Omeo olona tsirairay zavatra hazonina, hikapohana, hisafidianana na hiteny.
+- **Ambaratonga maro, hetsika iray.** Mamorona fomba mora sy sarotra kokoa hiditra.
+- **Tsy misy mpandresy, tsy misy isa.** Ny endrika mifaninana dia mahatonga olona sasany ho tsy mahafeno tanjona.
 
-## How big should the group be?
+## Firy no habe tokony ho an'ny vondrona?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Ny kely dia matetika mora kokoa. Ny Alzheimer's Association dia manamarika fa ny olona izay sahirana amin'ny fivoriana lehibe dia mety hifandray tsara kokoa amin'ny vondrona kely. Tsy misy isa iray marina. Miankina amin'ny mponina, ny efitra ary ny isan'ny mpiasa sy mpanampy misy izany.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Fitsapana mahasoa: ahafantatra ve ny olona tsirairay ny endrik'ilay mpitarika, mihaino mazava ary azo tratrarina amin'ny mpanampy ao anatin'ny segondra vitsy? Raha tsia, zarao ny vondrona, ampio mpanampy, na miova any amin'ny efitra kely kokoa.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Ho an'ny hetsika lehibe, toy ny konsera fety, apetraho ny mpiasa sy mpanampy eo anelanelan'ny mponina, fa tsy eo amin'ny rindrina.
 
-## How should I set up the room and seating?
+## Ahoana no hanamboarana ny efitra sy ny fipetrahana?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Faribolana na tsatoka.** Ny torolalana amin'ny firaisana fitsarana dia milaza ny faribolana fizarana ho tsara amin'ny toerana lehibe ahafahan'ny rehetra mipetraka amin'ny faribolana, tsy misy feo ambadika.
+- **Mpitarika akaiky sy eo amin'ny maso.** Mipetraha raha azo atao, fa tsy mijanona.
+- **Fihainoana sy fahitana aloha.** Apetraho akaiky ny mpitarika ireo olona manana olana amin'ny fihainoana, eo amin'ny sofina tsara azy. Ataovy azo antoka fa misy fitaratra sy fanampiana fandrenesana. Ny Alzheimer's Association dia manamarika fa ny olana amin'ny fahitana sy fihainoana dia mety hampisarotra ny fifandraisana.
+- **Ny hazavana aoriana ny mponina, fa tsy aoriana ianao.** Aleo ny mametraka olona mibanjina varavarankely mamirapiratra.
+- **Ajanony ny TV sy radio.** Ny Alzheimer's Association dia manoro hevitra ny fanesorana ny feo mifanelingelina mandritra ny hetsika mozika.
+- **Resaka iray isaky ny indray.** Ny fifampiresahana mifanandrify dia sarotra ho an'ny olona manana demensia sy ny olona manana olana amin'ny fihainoana, araka ny nosoratan'ny Alzheimer's Association ao amin'ny [torolalana momba ny fety](https://www.alz.org/help-support/caregiving/holidays).
+- **Fialana mazava sy zoro mangina.** Ny olona tia hiala dia tokony ho afaka hiala mora, miaraka amin'ny mpiasa hiara-mandeha aminy.
 
-## Group activity ideas
+## Ideo hetsika vondrona
 
-### Picture bingo
+### Bingo sary
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Ny bingo sary dia manolo ny isa amin'ny sary mazava, toy ny teapot, alika na roses, mba tsy hisy olona hanaraka isa lava na hamaky teksta kely.
 
-**How to run it:**
+**Ahoana no fomba hitantanana azy:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Mamoaha karatra iray isaky ny olona avy amin'ny pejy [Picture Bingo](/games/picture-bingo/) amin'ny bokotra Print. Ny taratasy matevina dia mora kokoa ampiasaina. Laminé raha hampiasaina indray.
+2. Omeo marika lehibe mora raisina, toy ny poker chips, bottle caps na kapila karatra kely.
+3. Ampiasao ny mpiantso ao amin'ny efijery amin'ny TV na projecteur mba ho hitan'ny rehetra ny sary rehefa lazainao ny anarany.
+4. Ajanony aorian'ny sary tsirairay ary asaivo hilaza fanehoan-kevitra fohy: "Misy olona te hilaza alika nahalala azy ve?" na "Inona no hitanao amin'ity iray ity?"
+5. Mitohy mantsy antsoina mandra-pahafenoan'ny karatra rehetra. Ny rehetra mahavita.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Fanitsiana:** Ampiasao kapila vitsy kokoa ho an'ny olona sahirana amin'ny karatra feno. Mpanampy afaka mampiseho ny sary mifanaraka ho an'ny olona iray mila izany. Olona sasany mety ho tia hihazona ny karatra sary an'ny mpiantso ary asehoy amin'ny vondrona.
 
-### Sing-alongs
+### Hira niaraka
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Mozika no hetsika vondrona iray tena tian'ny olona be. Ny Alzheimer's Association dia manamarika fa na dia any amin'ny dingana farany aza, olona mety mbola afaka [mikapoka ny tempo na mihira hira tamin'ny fahazazana](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Ahoana no fomba hitantanana azy:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Safidio hira izay nalehibeazan'ny mponina, fa tsy ny tiako ny mpitarika. Anontanio ny fianakaviana izay tian'ny olona tsirairay.
+- Ampiasao mozika tsy misy dokam-barotra, izay manamarika ny Association fa mety ho sarotra.
+- Mitatra teny amin'ny soratra lehibe ho an'ireo mahay mamaky, fa aza takiana izany.
+- Omeo fanakodia, tabolo kely ary lamba hanaovana fihodinana.
+- Hampiroboroboa ny fikapohana tanana sy fihetsika, ary tazomy mety ny feo.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Fanitsiana:** Olona sasany hihira ny teny rehetra, sasany hihira amin'ny feo ambany, sasany hikapoka ny tongotra, ary sasany hihaino fotsiny. Ny rehetra manisa. Jereo ny [torolalana momba ny hetsika mozika](/activities/music/) ho an'ny fanampiny.
 
-### Reminiscence groups
+### Vondrona fahatsiarovana
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Vondrona fahatsiarovana dia mifandray amin'ny lohahevitra iray, toy ny andro nianarana, fiara voalohany, lakozia na fahavaratra, ary mampiasa sary, zavatra sy mozika. Ny tanjona dia ny resaka mahafinaritra, fa tsy ny fahatsiarovana marina.
 
-**How to run it:**
+**Ahoana no fomba hitantanana azy:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Safidio lohahevitra iray ary entano zavatra vitsy azo hazonina: mikisa fanamboarana, ny fitaovana baseball, satroka, na boky voatokana ho an'ny voninkazo.
+2. Mampita zavatra iray isaky ny indray. Manontania fanontaniana malalaka: "Lazao ahy momba izao," "Inona no hitanao?" "Iza no nampiasa zavatra toy izany?"
+3. Mankatò ny valiny rehetra. Aza manitsy daty na zava-misy mihitsy.
+4. Entano ny resaka any amin'ny fahatsiarovana tsara. Ny torolalana fanaovana dia milaza fa tokony hitarika ny fahatsiarovana amin'ny fahatsiarovana tsara fa tsy izay mahatonga fahasosorana.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+Ny [Conversation Cards](/games/conversation-cards/) dia manolotra karatra sary azo atao print miaraka amin'ny fanentanana malalaka araka ny lohahevitra, izay mety ho fanombohan-resaka. Ideo hafa dia ao amin'ny [torolalana momba ny fahatsiarovana](/activities/reminiscence/).
 
 ### Finish the saying
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Ohabolana mahazatra ("Vola voatahiry dia vola..."), dia manasa ny rehetra hiantso ny farany miaraka. Asehoy ny [Finish the Saying](/games/finish-the-saying/) amin'ny efijery lehibe ary avelao ny vondrona hamaly amin'ny feo iray. Misy fanentanana resaka aorian'ny ohabolana tsirairay. Raha tsy misy olona manao ny farany, asehoy izany ary mandroso. Tsy misy marina na diso.
 
-### Large-print word search, together
+### Fitadiavana teny amin'ny soratra lehibe, miaraka
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Asehoy ny [Word Search](/games/word-search/) amin'ny soratra lehibe amin'ny efijery ary mitadiava teny miaraka amin'ny vondrona, na mamoaka kopia ho an'ireo tia miasa irery eo amin'ny latabatra. Ny teny dia mandeha mivantana sy mitsangana ihany.
 
-### Gentle movement
+### Fihetsehana malefaka
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Fitsaharana mipetraka, mifindra bola malefaka na balon, na mihodina ao amin'ny seza amin'ny mozika mahazatra. Asehoy ny fihetsika tsirairay fa tsy ny hilazana azy.
 
-### Sorting and matching at the table
+### Fanamboarana sy fanasokajiana eo amin'ny latabatra
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Latabatra kely misy olona telo na efatra dia mety manasokajy sary, sakosaka lamba na fitaovana fisakafoanana miaraka. Amin'ny efijery, ny [Picture Pairs](/games/picture-pairs/) dia azo lalaovana amin'ny sary mijanona miseho, miaraka amin'ny olona iray mikapoka fa ny latabatra manontolo miresaka momba ny sary tsirairay.
 
-## How do I use your games on a big screen?
+## Ahoana no fomba hampiasana ny lalao amin'ny efijery lehibe?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Ny lalao eto dia mandeha amin'ny mpitety an-tranonkala, ka azonao ampiasaina amin'ny TV na projecteur tsy misy fametrahana na inona na inona.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Sokafy ny lalao amin'ny ordinatera na tablette mifandray amin'ny efijery amin'ny tady na casting.
+2. Ataovy fenoina ny efijery ny mpitety ary apetraho ny feo amin'ny haavo mety.
+3. Asaivo mpitarika iray hikapoka ny tendrombohitra sy ny vondrona hiantso ny safidy. Na omeo tablette ho an'ny mponina iray izay te-hanandrana.
+4. Ajanony rehefa vonona ny vondrona. Tsy misy famaritra fotoana, isa na fahavitana voafaritra ny lalao.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) ary [Conversation Cards](/games/conversation-cards/) dia mety mifanaraka indrindra amin'ny vondrona. Jereo ny safidy rehetra eo amin'ny [pejin'ny lalao](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Ahoana no fomba hanitsiana hetsika iray ho an'ny fahaizana samihafa?
 
-Plan at least three ways to join every activity.
+Drafitro fomba telo farafahakeliny hiditra amin'ny hetsika rehetra.
 
-| Activity | More independent | Some support | Most support |
+| Hetsika | Mahaleo tena kokoa | Misy fanampiana kely | Fanampiana betsaka |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bingo sary | Mahita sy manarona ny sariny | Mpanampy mampiseho; olona manarona | Mihazona karatra sary; mihaino sy mijery |
+| Hira niaraka | Mihira, mifidy hira manaraka | Mihira amin'ny feo ambany, mikapoka, mampiasa fanakodia | Mihaino, mihazona lamba, mikapoka tanana |
+| Fahatsiarovana | Milaza tantara | Valiny eny na tsia na mampiseho | Mihazona sy mahatsapa ny zavatra |
+| Fitadiavana teny | Mamaky ny kopia nafetsy | Mitadiava teny amin'ny efijery lehibe miaraka amin'ny mpanampy | Mihaino raha vakiana ny teny |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Ho an'ny mponina any amin'ny dingana farany, ny NHS dia manamarika fa ny hetsika matetika tokony ho tsotra kokoa ary mifantoha amin'ny fahatsapana, toy ny mozika, zavatra azo tsapain-tanana ary fikasihana tanana. Fotoana iray-amin'ny-iray mandritra na aorian'ny vondrona dia mety mifanaraka aminy kokoa noho ny vondrona mihitsy. Jereo ny [hetsika ho an'ny dingana farany](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Ahoana no hiresahan'ny mpitarika mandritra ny vondrona?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Mampahafantatra ny tenanao isaky ny indray, ary ampiasao ny anaran'ny olona tsirairay izay tiany.
+- Miteny miadana, omeo dingana iray isaky ny indray, ary asehoy alohan'ny hilazana.
+- Ampiasao fanasana malalaka ("Lazao ahy momba...") na safidy tsotra, fa aza fanontaniana fanadinana ("Tadidinao ve...?").
+- Aza manitsy. Misaotra ny rehetra amin'ny fandraisan-anjara tsirairay.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Misy hevitra bebe kokoa momba izany ao amin'ny [hevitra momba ny fifandraisana](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Mamarana tsara, ary avelao hiala ny olona
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Ny fijanonana dia vokatra tsara. Mijere ny famantarana fa reraka, tsy milamina na sahirana ny olona, ary omeo mpanampy hanolotra fitsangantsangana na seza mangina any an-kafa. Ny olona matory mandritra ny hira niaraka mety tena afa-po fotsiny.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Mamarana ny vondrona rehetra amin'ny fomba mitovy, amin'ny hira mahazatra na fisaorana tsotra, mba ho mangina sy ho antenaina ny fiafaran'ny hetsika. Aorian'izay, soraty kely izay tsara sy izay nahafinaritra ny olona. Ireo note ireo dia manatsara ny vondrona manaraka.

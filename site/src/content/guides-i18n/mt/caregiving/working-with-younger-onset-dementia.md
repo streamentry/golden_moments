@@ -53,7 +53,7 @@ Is-sikurezza hija importanti wkoll. Jekk ix-xogħol tiegħek jinvolvi sewqan, t�
 
 ## Kif nista' nitkellem mat-tabib tiegħi dwar ix-xogħol?
 
-Iddeskrivi l-kompiti li x-xogħol tiegħek jinvolvi u l-bidliet li innotajt. Staqsi jekk kundizzjoni ta' saħħa tistax taffettwa dmir speċifiku, liema sinjali jfissru li għandek tfittex għajnuna, u jekk professjonist ieħor jistax jivvaluta kompitu tax-xogħol. Tista' tixtieq iġġib persuna fdata miegħek, iżda iddeċiedu flimkien kif tista' tappoġġjak mingħajr ma titkellem minflokok.
+Iddeskrivi l-kompiti li x-xogħol tiegħek jinvolvi u l-bidliet li innotajt. Staqsi jekk kundizzjoni ta' saħħa tistax taffettwa dmir speċifiku, liema sinjali jfissru li għandek tfittex għajnuna, u jekk professjonist ieħor jistax jivvaluta kompitu tax-xogħol. Tista' tixtieq iġġib persuna fdata miegħek, iżda iddeċiedu flimkien kif tista' tappoġġjak mingħajr ma titkellem minflok int.
 
 Il-[gwida dwar iż-żjara tat-tabib](/caregiving/doctor-visit-with-dementia/) għandha modi kif tħejji mistoqsijiet u noti. Tista' titlob lit-tabib jispjega x'jista' jivvaluta u x'jeħtieġ evalwazzjoni separata tax-xogħol jew okkupazzjonali. Gwida ġenerali dwar id-demenzja ma tistax tissostitwixxi valutazzjoni individwali tas-saħħa u tas-sikurezza.
 

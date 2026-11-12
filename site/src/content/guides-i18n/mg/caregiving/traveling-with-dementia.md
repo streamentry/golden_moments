@@ -1,6 +1,6 @@
 ---
 title: "Mitsidika miaraka amin'ny olona manana demensia"
-seoTitle: "Fitaterana miaraka amin'ny demensia: torolalana ho an'ny mpikarakara"
+seoTitle: "Fitaterana miaraka amin'ny demensia: torolalana"
 description: "Drafitra fitaterana ho an'ny olona manana demensia: lalana mora, fomba mahazatra, zavatra ilaina ary drafitra fandraisana andraikitra raha tsy mety."
 section: caregiving
 order: 11

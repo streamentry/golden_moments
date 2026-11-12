@@ -88,7 +88,7 @@ Ny Alzheimer's Association dia manazava ny dingana antonony ho dingana matetika 
 
 1. **Fanjaitra, fanasokajiana ary fanamboarana.** Lamba, sakosako, fanjaitra, bokotra araka ny lokony. Asa tena izy, ataovy miaraka.
 2. **Hira sy fihetsika amin'ny mozika.** Mikapoka tanana, mihodina na mihazakazaka an-tranon-kafe. Manomboka mihira ianao ary avelao hiditra ny olona.
-3. **Mijery albom sary.** Milaza izay hitanao sy mangataha tantara: "Fiara tsara! Lazao ahy momba azy." Manaraka izay anarana ampiasainy.
+3. **Mijery albom sary.** Milaza izay hitanao sy mangataha tantara: "Fiara tsara ity. Lazao ahy momba azy." Manaraka izay anarana ampiasainy.
 4. **Milalao lalao sary tsotra.** [Picture pairs](/games/picture-pairs/) miaraka amin'ny kisary efatra ka hatramin'ny enina sy sary mijanona aseho, na [Find the same](/games/find-the-same/) miaraka amin'ny safidy roa na telo.
 5. **Mamita ohabolana mahazatra.** "Paoma isan'andro manala ny..." Ohabolana nianarana ela matetika tonga mora. Andramo [Finish the saying](/games/finish-the-saying/), izay ahafahanao mampiseho ny farany amin'ny fikitikitana iray.
 6. **Mitondra sy mikarakara zavamaniry.** Vilany ao an-trano na tanimboaloboka ambony, miaraka amin'ny vilia rano kely.

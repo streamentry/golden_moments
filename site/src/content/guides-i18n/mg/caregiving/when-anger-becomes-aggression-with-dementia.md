@@ -1,6 +1,6 @@
 ---
 title: "Rehefa mahatezitra na mampihoron-kiady ny olona manana demensia"
-seoTitle: "Fanehoan-kevitra momba ny fahatezerana sy ny herisetra amin'ny demensia"
+seoTitle: "Fahatezerana sy herisetra amin'ny demensia: torolalana"
 description: "Ahoana no hamaliana ny fahatezerana sy herisetra amin'ny demensia, inona no mety hanome antony, ary rehefa mila fanampiana ara-pitsaboana haingana."
 section: caregiving
 order: 37
