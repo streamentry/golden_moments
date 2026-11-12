@@ -19,7 +19,7 @@ faq:
   - q: "Kif nista' ngħin lil persuna b'demenza tiftakar il-mediċina?"
     a: "Staqsi x'tfakkir jaċċetta. Rutina ta' kuljum familjari, lista miktuba, kalendarju jew kontenitur tal-pilloli jistgħu jgħinu xi nies. Ikkonsulta mal-farmasista qabel ma tbiddel kif jinżammu jew jittieħdu l-mediċini."
   - q: "Nista' nfarfar pillola jew nħallatha fl-ikel?"
-    a: "Tfarfarx u tħalliħ fl-ikel mediċina sakemm il-preskrittur jew il-farmasista ma jgħidux li hija sikura għal dik il-mediċina. Staqsi jekk hemmx forma oħra disponibbli jekk l-ibbuljar ikun diffiċli."
+    a: "Tfarfarx u tħalliħx fl-ikel mediċina sakemm il-preskrittur jew il-farmasista ma jgħidux li hija sikura għal dik il-mediċina. Staqsi jekk hemmx forma oħra disponibbli jekk l-ibbuljar ikun diffiċli."
   - q: "X'għandi nagħmel jekk mediċina tikkawża effetti sekondarji?"
     a: "Ikteb x'inbidel u meta bdiet, imbagħad ikkuntattja l-preskrittur jew il-farmasista. Tieqafx u tbiddilx id-doża mingħajr parir tagħhom."
   - q: "X'għandi nagħmel jekk naħseb li xi ħadd ħa wisq mediċina?"
@@ -44,17 +44,17 @@ Il-[gwida tal-Alzheimer's Association dwar is-sigurtà tal-mediċini](https://ww
 
 Staqsi liema għajnuna tixtieq il-persuna. Tista' tippreferi tfakkira, għajnuna biex tiftaħ kontenitur jew membru tal-familja li jiċċekkja l-lista. Jekk il-persuna tista' tmexxi xi mediċini waħedha, żomm din il-kapaċità f'moħħok. Sistema ġdida ta' tfakkir għandha tiġi diskussa magħha u aġġustata jekk tħossha intrużiva jew konfuża.
 
-Uża lingwa ċara u adulta. Jekk il-persuna tieħu mediċina f'ħin tas-soltu, għaqqad it-tfakkira ma' rutina familjari biss jekk dan jaqbel mal-istruzzjonijiet tal-farmasista. Agħtiha ħin biex twieġeb. Tistaqsiex b'mod ta' eżami, tirrimproverax talli nsiet u targumentax dwar jekk diġà ħadet doża.
+Uża lingwa ċara u adulta. Jekk il-persuna tieħu mediċina f'ħin tas-soltu, għaqqad it-tfakkira ma' rutina familjari biss jekk dan jaqbel mal-istruzzjonijiet tal-farmasista. Agħtiha ħin biex twieġeb. Tagħmilx mistoqsijiet bħal eżami, tirrimproverax talli nsiet u targumentax dwar jekk diġà ħadet doża.
 
-Jekk it-tfakkira ma taħdimx, staqsi x'parti hija diffiċli. It-tikketta tista' tkun diffiċli biex tinqara, il-kontenitur jista' jkun diffiċli biex jinfetaħ jew il-mediċina tista' tikkawża sensazzjoni mhux pjaċevoli. It-tabib jew il-farmasista jistgħu jgħinu biex jidentifikaw għażliet. Tbiddilx ir-rutina tal-mediċini billi tippruvaha bl-iskjent.
+Jekk it-tfakkira ma taħdimx, staqsi x'parti hija diffiċli. It-tikketta tista' tkun diffiċli biex tinqara, il-kontenitur jista' jkun diffiċli biex jinfetaħ jew il-mediċina tista' tikkawża sensazzjoni mhux pjaċevoli. It-tabib jew il-farmasista jistgħu jgħinu biex jidentifikaw għażliet. Tbiddilx ir-rutina tal-mediċini bl-istint.
 
 ## X'informazzjoni għandha tkun fuq lista tal-mediċini?
 
 Żomm lista waħda aġġornata b'isem kull mediċina bir-riċetta, id-doża u l-iskeda tagħha, u għala ngħatat jekk tkun magħrufa. Inkludi mediċini mingħajr riċetta, vitamini, prodotti erbali u suppliment. Innota allerġiji jew effetti sekondarji passati u ismijiet tal-kliniċisti li jmexxu l-kura tal-persuna.
 
-Ieħu l-lista magħک għall-appuntamenti mediċi u aġġornaha meta preskrittur jbiddel xi ħaġa. Jekk il-persuna tara aktar minn tabib wieħed, aqsam il-lista ma' kull membru tat-tim tal-kura biss kif il-persuna taqbel. Żomm il-lista f'post fejn il-persuna u l-għajnuna magħżula jistgħu jsibuha, u ipproteġiha bħala informazzjoni privata tas-saħħa.
+Ħu l-lista miegħek għall-appuntamenti mediċi u aġġornaha meta preskrittur jibdel xi ħaġa. Jekk il-persuna tara aktar minn tabib wieħed, aqsam il-lista ma' kull membru tat-tim tal-kura biss kif il-persuna taqbel. Żomm il-lista f'post fejn il-persuna u l-għajnuna magħżula jistgħu jsibuha, u ipproteġiha bħala informazzjoni privata tas-saħħa.
 
-Staqsi lit-tabib jew lill-farmasista jekk jistgħux jiċċekkjaw għal interazzjonijiet possibbli meta tkun prexxitta mediċina ġdida. Jekk il-persuna jkollha problema ġdida wara bidla fil-mediċina, ikteb meta bdiet u ikkuntattja l-preskrittur. Bidla fl-imġieba tista' jkollha ħafna kawżi, għalhekk tassumix li l-mediċina hija responsabbli mingħajr parir professjonali.
+Staqsi lit-tabib jew lill-farmasista jekk jistgħux jiċċekkjaw għal interazzjonijiet possibbli meta tkun ġiet preskritta mediċina ġdida. Jekk il-persuna jkollha problema ġdida wara bidla fil-mediċina, ikteb meta bdiet u ikkuntattja l-preskrittur. Bidla fl-imġieba tista' jkollha ħafna kawżi, għalhekk tassumix li l-mediċina hija responsabbli mingħajr parir professjonali.
 
 ## Tista' organizer tal-pilloli jew tfakkira tgħin?
 
@@ -62,11 +62,11 @@ Kalendarju, tabella miktuba jew organizer tal-pilloli jistgħu jgħinu xi nies. 
 
 Ftehem min se jimla jew jiċċekkja l-organizer u kif tevita dożi mitlufa jew doppji. Jekk iktar minn persuna waħda tgħin, uża metodu kondiviż wieħed biex tirreġistra x'ingħata. Jekk il-persuna trid tmexxi l-organizer waħedha, staqsi lill-farmasista kif tagħmel dan b'mod sikur u prattiku.
 
-Jekk doża titħalla, iċċekkja l-istruzzjonijiet miktuba tal-mediċina jew ċempel lill-farmasista qabel tiddeċiedi x'tagħmel. Tahsibx jew tidoppjax doża abbażi ta' gwida ġenerali.
+Jekk doża titħalla, iċċekkja l-istruzzjonijiet miktuba tal-mediċina jew ċempel lill-farmasista qabel tiddeċiedi x'tagħmel. Tindovinax u tidoppjax doża abbażi ta' gwida ġenerali.
 
 ## X'nagħmel jekk il-persuna tirrifjuta jew ikollha diffikultà biex tibbuljaw?
 
-Ieqaf u staqsi x'inhu ħażin. Il-persuna tista' ma togħġobhiex it-togħma, tħossha morda, tkun għajjenija jew ma tkunx tifhem għalxiex hija l-mediċina. Agħti spjegazzjoni ċara u ħin biex twieġeb. Tfixkilx il-mediċina f'ħalq il-persuna u lanqas taħbiha fl-ikel mingħajr qbil u parir professjonali.
+Ieqaf u staqsi x'inhu ħażin. Il-persuna tista' ma togħġobhiex it-togħma, tħossha morda, tkun għajjenija jew ma tkunx tifhem għalxiex hija l-mediċina. Agħti spjegazzjoni ċara u ħin biex twieġeb. Tiforzax il-mediċina f'ħalq il-persuna u lanqas taħbiha fl-ikel mingħajr qbil u parir professjonali.
 
 Qatt tfarfarx tablet, tiftaħx kapsula jew taħlux mediċina fl-ikel sakemm il-preskrittur jew il-farmasista ma jikkonfermawx li hija sikura. Xi mediċini jistgħu ma jaħdmux kif suppost jew jistgħu jagħmlu ħsara jekk jinbidlu. Jekk l-ibbuljar ikun diffiċli, staqsi jekk hemmx likwidu jew forma oħra. Ikkuntattja t-tabib jew il-farmasista minflok ma tibdel id-doża int stess.
 
