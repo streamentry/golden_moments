@@ -1,7 +1,7 @@
 ---
 title: "Airgead a riaghladh le demensa: taic nas sàbhailte"
 seoTitle: "Demensa is airgead: taic sàbhailte do theaghlaichean"
-description: "Mar a bheir thu taic le pàighidhean is billean le demensa, a’ cumail an neach an sàs, a’ tuigsinn luchd-conaltraidh earbsach agus a’ gabhail gnìomh ma tha mèirle an amharas."
+description: "Taic le pàighidhean is billean do neach le demensa, a’ cumail an neach an sàs, a’ tuigsinn luchd-conaltraidh earbsach, agus gnìomh ma tha amharas mèirle."
 section: caregiving
 order: 35
 updated: 2026-11-11
@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Faighnich dè an obair airgid a tha an neach ag iarraidh cuideachadh leatha, agus cumaibh iad an sàs anns gach co-dhùnadh."
   - "Cha bhith ath-sgrùdadh bhilleanna no a bhith na luchd-conaltraidh earbsach a’ toirt cead do dhuine sam bith airgead a ghluasad leis fhèin."
-  - "Tha cleachdadh neo-àbhaisteach de airgead, billean a tha a dhìth no iarrtas ùr airson airgead a chur namfor-chomharran rabhaidh, chan e dearbhadh mèirle no neo-chomais."
+  - "Faodaidh gnìomhachd airgid neo-àbhaisteach, billean a tha a dhìth no iarrtas ùr airson airgead a chur a bhith nan comharran rabhaidh, chan e dearbhadh air mèirle no air neo-chomas."
   - "Ma tha pàigheadh an amharas mar mhèirle, cuir fios chun bhanca no chun t-seirbheis phàighidh gu luath le àireamh a tha thu a’ earbsa."
   - "Tha riaghailtean cead cunntais is laghail eadar-dhealaichte a rèir an àite; faigh comhairle ionadail mus tabhainn ùghdarras gnìomhachd do dhuine sam bith."
 faq:
@@ -57,7 +57,7 @@ health: false
 
 Tha co-dhùnaidhean airgid a’ toirt buaidh air neo-eisimeileachd neach agus air a bheatha làitheil. Ma tha gnìomh a’ fàs na bu duilghe, tòisichibh leis an obair sin seach a bhith a’ gabhail ris gum bu chòir do dhuine eile smachd a ghabhail air a h-uile rud. Faighnich dhan neach dè an cuideachadh a tha iad ag iarraidh agus cumaibh iad an sàs.
 
-Tha am fiosrachadh seo na chomhairle coitcheann dha leughadairean anns na Stàitean Aonaichte. Tha roghainnean bancaidh agus riaghailtean laghail eadar-dhealaichte a rèir an àite. Tha [stiùireadh Comann na h-Alzheimer mu riaghladh ionmhais](https://www.alzheimers.org.uk/get-support/help-dementia-care/managing-a-persons-finances) a’ còmhdach dòighean taic a thoirt do dh’neach fhad ’s a tha an àite aca air a ghleidheadh. Tha [Buidheann Dìon Ionmhais an Luchd-cleachdaidh (CFPB)](https://www.consumerfinance.gov/ask-cfpb/i-would-like-to-be-able-to-have-my-friend-or-family-member-help-with-my-bill-paying-and-banking-what-are-my-options-en-1145/) a’ mìneachadh gu bheil cuideachadh neo-fhoirmeil, luchd-conaltraidh earbsach agus ùghdarras laghail eadar-dhealaichte.
+Tha am fiosrachadh seo na chomhairle coitcheann dha leughadairean anns na Stàitean Aonaichte. Tha roghainnean bancaidh agus riaghailtean laghail eadar-dhealaichte a rèir an àite. Tha [stiùireadh Comann na h-Alzheimer mu riaghladh ionmhais](https://www.alzheimers.org.uk/get-support/help-dementia-care/managing-a-persons-finances) a’ còmhdach dòighean taic a thoirt do dhuine fhad ’s a tha an àite aca air a ghleidheadh. Tha [Buidheann Dìon Ionmhais an Luchd-cleachdaidh (CFPB)](https://www.consumerfinance.gov/ask-cfpb/i-would-like-to-be-able-to-have-my-friend-or-family-member-help-with-my-bill-paying-and-banking-what-are-my-options-en-1145/) a’ mìneachadh gu bheil cuideachadh neo-fhoirmeil, luchd-conaltraidh earbsach agus ùghdarras laghail eadar-dhealaichte.
 
 ## Ciamar as urrainn dhomh cuideachadh a thabhann gun gabhail thairis?
 
@@ -69,7 +69,7 @@ Faighnich dhan neach dè an obair airgid a tha iad ag iarraidh cuideachadh leath
 - **Faighnich don bhanca mu na roghainnean aca.** Faodaidh iad dòighean a thabhann gus pàighidhean no sgrùdadh gnìomhachd a dhèanamh na bu fhasa. Faighnich dè a leigeas gach roghainn mus atharraich thu cunntas.
 - **Thoir sùil eile an dèidh ùine.** Faodaidh roghainnean an neach atharrachadh. Cùm cuideachadh cuingichte ris na tha iad ag iarraidh agus a dh’fheumas iad an-dràsta.
 
-Tha an CFPB a’ mìneachadh taic neo-fhoirmeil mar ath-sgrùdadh bhilleanan agus buidseadaireachd còmhla ri neach fhad ’s a tha an neach sin fhathast ag aontachadh ri gnìomhan. Faodaidh sin a bhith eadar-dhealaichte bho dhuine eile a’ toirt airgead a-mach no a’ dèanamh phàighidhean. Na roinn faclan-faire, PIN no còdan tèarainteachd aon-uair mar shlighe-ghoirid.
+Tha an CFPB a’ mìneachadh taic neo-fhoirmeil mar ath-sgrùdadh bhilleanan agus buidseadh còmhla ri neach fhad ’s a tha an neach sin fhathast ag aontachadh ri gnìomhan. Faodaidh sin a bhith eadar-dhealaichte bho dhuine eile a’ toirt airgead a-mach no a’ dèanamh phàighidhean. Na roinn faclan-faire, PIN no còdan tèarainteachd aon-uair mar shlighe-ghoirid.
 
 ## Dè a leigeas luchd-conaltraidh earbsach le neach a dhèanamh?
 
@@ -77,11 +77,11 @@ Anns na Stàitean Aonaichte, faodaidh feart luchd-conaltraidh earbsach ionad ion
 
 | Seòrsa cuideachaidh | Dè tha seo a’ ciallachadh |
 |---|---|
-| Ath-sgrùdadh bhilleanan còmhla | Coimheadaidh an neach agus an cuideachaiche air na billean còmhla; co-dhùnaidh an neach agus ùghdarrachaidh iad pàighidhean. |
+| Ath-sgrùdadh bhilleanan còmhla | Coimheadaidh an neach agus an cuideachaiche air na billean còmhla; co-dhùnaidh an neach agus ùghdarraichidh iad pàighidhean. |
 | Neach earbsach | Faodaidh ionad ionmhais conaltradh a dhèanamh ris an neach ainmichte ann an suidheachadhan sònraichte. Chan eil an t-ainm leis fhèin a’ toirt cothrom air a’ chunntas. |
 | Ùghdarras foirmeil air cunntas no laghail | Faodaidh cead bancaidh, cumhachd-àrd-neach no rud coltach ris ceadachadh gnothaichean. Tha na cumhachdan is na dleastanasan aca an urra ris a’ chunntas agus ris an lagh ionadail. |
 
-Mus atharraich thu inntrigeadh no seilbh cunntais, faighnich don bhanca agus do dhuine proifeiseanta laghail ionadail gus na roghainnean agus na cunnartan a mhìneachadh. Chan eil breuchdachadh leis fhèin ag innse dhut dè na gnìomhan ionmhais as urrainn don neach a làimhseachadh no dè na roghainnean a tha iad ag iarraidh a dhèanamh. Cumaibh iad nam pàirt de cho-dhùnaidhean cho mòr ’s a tha iad ag iarraidh. Ma tha iad ag iarraidh neach a ghnìomhachadh air an son, faighnich ciamar a stèidheas tu sin gu laghail seach a bhith a’ cleachdadh logaidh neach eile.
+Mus atharraich thu inntrigeadh no seilbh cunntais, faighnich don bhanca agus do dhuine proifeiseanta laghail ionadail gus na roghainnean agus na cunnartan a mhìneachadh. Chan eil breuchdachadh leis fhèin ag innse dhut dè na gnìomhan ionmhais as urrainn don neach a làimhseachadh no dè na roghainnean a tha iad ag iarraidh a dhèanamh. Cumaibh iad nam pàirt de cho-dhùnaidhean cho mòr ’s a tha iad ag iarraidh. Ma tha iad ag iarraidh neach a ghnìomhachadh air an son, faighnich ciamar a stèidheas tu sin gu laghail seach a bhith a’ cleachdadh logadh-a-steach neach eile.
 
 ## Dè na h-atharrachaidhean a bu chòir dhomh sgrùdadh?
 

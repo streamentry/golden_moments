@@ -43,7 +43,7 @@ Tha [liosta sgrùdaidh sàbhailteachd dachaigh Comann an Alzheimer](https://www.
 
 Tagh aon seòmar far an deach rudeigin ceàrr mar-thà no far a tha e duilich. Ma tha an neach ag iarraidh pàirt a ghabhail, coisichibh tro sin còmhla agus faighnichibh dè tha duilich dhaibh. Is dòcha gum faic neach-cùraim càball fuasgailte; faodaidh an neach a ràdh gu bheil an sgiathan-solais duilich a ruigsinn no gu bheil cathair eòlach air gluasad. Tha an dà sealladh cuideachail gus atharrachadh a thaghadh a tha ciallach.
 
-Sgrìobhaibh sìos an duilgheadas ann am faclan sìmplidh: “Tha an talla dorcha an dèidh an dinnear,” “Tha doras an taigh-f ionnlaid duilich a lorg air an oidhche,” no “Tha an glanadair air an taobh aig an t-saoghal.” An uairsin tagh aon cheum practaigeach agus faic an cuidich e. Chan fheum thu uidheamachd a cheannach airson gach dragh. Faodaidh solas nas fheàrr, slighe glan no gluasad nì a thathar a’ cleachdadh gu tric gu ruige a bhith gu leòr.
+Sgrìobhaibh sìos an duilgheadas ann am faclan sìmplidh: “Tha an talla dorcha an dèidh an dinnear,” “Tha doras an seòmar-ionnlaid duilich a lorg air an oidhche,” no “Tha an glanadair air an taobh aig an t-saoghal.” An uairsin tagh aon cheum practaigeach agus faic an cuidich e. Chan fheum thu uidheamachd a cheannach airson gach dragh. Faodaidh solas nas fheàrr, slighe glan no gluasad nì a thathar a’ cleachdadh gu tric gu ruige a bhith gu leòr.
 
 Tha [comhairle sàbhailteachd dachaigh Comann na h-Alzheimer](https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/tips-staying-safe-secure-home-dementia) a’ gabhail a-steach eisimpleirean a chaidh a cho-roinneadh le daoine a tha buailteach do dhemensa, mar a bhith a’ cumail fiosrachadh feumail furasta a lorg agus a bhith a’ cleachdadh solais le mothachaideir oidhche. Thoir seo mar bheachdan ri beachdachadh, chan e stiùiridhean a bu chòir do a h-uile duine a leantainn.
 
@@ -51,7 +51,7 @@ Tha [comhairle sàbhailteachd dachaigh Comann na h-Alzheimer](https://www.alzhei
 
 ### Dorsan-isteach, talla agus staidhrichean
 
-- **Dèan an t-slighe furasta fhaicinn.** Thoir sùil gu bheil solas seasmhach aig na dorsan-isteach, na staidhrichean agus an t-slighe eadar an seòmar-cadail agus an taigh-f ionnlaid. Faodaidh solas oidhche no solas le mothachaideir gluasaid cuideachadh ma tha an neach gu tric a’ dùsgadh an dèidh dorcha.
+- **Dèan an t-slighe furasta fhaicinn.** Thoir sùil gu bheil solas seasmhach aig na dorsan-isteach, na staidhrichean agus an t-slighe eadar an seòmar-cadail agus an seòmar-ionnlaid. Faodaidh solas oidhche no solas le mothachaideir gluasaid cuideachadh ma tha an neach gu tric a’ dùsgadh an dèidh dorcha.
 - **Glan slighean-coiseachd.** Gluais càballan fuasgailte, neo-ghlan agus nithean a tha furasta tuiteam orra. Thoir sùil gu bheil cairtean-làir ri làr; thoir air falbh no daingnich fear dìreach ma tha e ag adhbhrachadh duilgheadais.
 - **Thoir an aire do dh’atharraichean ìre an làir.** Ma tha ceum no stairsneach duilich a lorg, faighnich do dh’ergonomaiche no do dhuine proifeiseanta sàbhailteachd dachaigh dè an atharrachadh a dhèanadh faicsinneachd nas fheàrr gun a bhith a’ cruthachadh oir eile airson tuiteam.
 - **Cùm nithean eòlach far a bheil iad ciallach.** Faodaidh cathair, lampa no nì a thathar a’ cleachdadh gu tric cuideachadh neach gnàthachas a leantainn. Faodaidh gluasad na h-uile nì airson sealladh nas rèidh an t-slighe a dhèanamh na bu neo-eòlaiche.
@@ -68,19 +68,19 @@ Ma tha an dragh a’ tighinn suas aig àm obair a tha air a roinn, tha an [stiù
 ### Taigh-f ionnlaid
 
 - **Soilleirich an t-slighe agus an seòmar.** Thoir sùil air an t-suidse, solas na h-oidhche agus an t-slighe chun an taigh-fhuail. Tha Comann na h-Alzheimer a’ moladh solas oidhche no solas mothachaideir nuair a chuidicheas e neach an seòmar a lorg.
-- **Thoir sùil air àiteachan sleamhainn is taic.** Ma tha an làr no am bath sleamhainn, faighnich do dh’eòlaiche proifeiseanta mu uachdar neo-shleamhainn freagarrach, bàr-gàirdein no taic eile. Tha an t-ionad ceart an urra ris an neach agus an taigh-f ionnlaid.
+- **Thoir sùil air àiteachan sleamhainn is taic.** Ma tha an làr no am bath sleamhainn, faighnich do dh’eòlaiche proifeiseanta mu uachdar neo-shleamhainn freagarrach, bàr-gàirdein no taic eile. Tha an t-ionad ceart an urra ris an neach agus an seòmar-ionnlaid.
 - **Cùm an seòmar furasta aithneachadh agus cleachdadh.** Cuir nithean làitheil far a bheil an neach a’ sùileachadh iad. Ma tha duilgheadas aca an taigh-fhuail a lorg, faodaidh comharradh sìmplidh no an doras fhosgladh cuideachadh, ma tha e freagarrach don taigh.
-- **Na cuir heater portable don taigh-f ionnlaid.** Cùm uidheamachd dealain air falbh bho àiteachan fliuch agus lean stiùiridhean a’ chompanaidh-dhèanamh.
+- **Na cuir heater portable don seòmar-ionnlaid.** Cùm uidheamachd dealain air falbh bho àiteachan fliuch agus lean stiùiridhean a’ chompanaidh-dhèanamh.
 
 ### Seòmar-cadail agus slighe na h-oidhche
 
-- **Glan an slighe bhon leabaidh chun an taigh-f ionnlaid.** Thoir air falbh nithean on làr agus dèan cinnteach gun ruig an neach solas gun a dhol tro sheòmar dorcha.
+- **Glan an slighe bhon leabaidh chun an seòmar-ionnlaid.** Thoir air falbh nithean on làr agus dèan cinnteach gun ruig an neach solas gun a dhol tro sheòmar dorcha.
 - **Thoir sùil air teasairean agus innealan blàthachaidh.** Ma tha plaide dealain, pada teasachaidh no heater portable air a chleachdadh, ath-sgrùd an t-ionad agus na stiùiridhean. Iarr comhairle ma tha cunnart losgaidh ann no nach urrainn don neach a chleachdadh gu sàbhailte leotha fhèin.
 - **Dèan nithean làitheil ruigsinneach.** Cùm aodach, speuclairean, fòn no nithean feumail eile ann an àiteachan eòlach agus aig àirde a ruigeas an neach gun dìreadh.
 
 ### Seòmar-nighe, stòradh agus àiteachan a-muigh
 
-- **Tèarainteachd glanaichean, chungaidhean agus innealan.** Thoir sùil air cupboardan, àiteachan-nighe, garaidsean, sùbhan agus bunaitean-taighe. Stòraich ceimigean nan poidhleannan tùsail aca agus cùm innealan geur no meaganan daingeann nuair a tha cunnart sònraichte ann.
+- **Tèarainteachd glanaichean, chungaidhean agus innealan.** Thoir sùil air cupboardan, àiteachan-nighe, garaidsean, sùbhan agus seòmraichean fo-thalamh. Stòraich ceimigean nan poidhleannan tùsail aca agus cùm innealan geur no meaganan daingeann nuair a tha cunnart sònraichte ann.
 - **Thoir sùil air innealan agus aláraman.** Dèan cinnteach gu bheil aláraman toite agus aláraman carbon-monocsaid ann agus ag obair. Lean an stiùiridhean airson deuchainn agus atharrachadh bataraidh.
 - **Cùm liosta de luchd-conaltraidh èiginn furasta a lorg.** Gabh a-steach àireamh èiginn ionadail, prìomh luchd-conaltraidh an neach agus fiosrachadh sam bith a dh’fhaodadh cuideachaidh earbsach a bhith a dhìth. Na cuir mion-fhiosrachadh prìobhaideach far am faic neach sam bith a thig a-steach e.
 - **Thoir sùil air an t-slighe a-muigh.** Thoir sùil air solas gann, uachdar neo-chòmhnard, pìoban no innealan air slighe-coiseachd. Dèan atharrachaidhean aon-aig-an-àm, gus am fuirich slighean eòlach aithnichte.
@@ -97,10 +97,10 @@ Ath-sgrùd an taigh nuair a dh’atharraicheas gnàthachasan, gluasad no seallad
 
 ## Cò a dh’fhaodas cuideachadh le atharrachaidhean dachaigh?
 
-Faodaidh ergonomaiche measadh a dhèanamh air mar a tha an neach a’ gluasad tron taigh agus molaidh e uidheamachd no atharrachaidhean airson gnìomhan làitheil. A rèir an dragh, faodaidh physiotherapist, nurs sgìre, cungaidh-aiche no neach-proifeiseanta taigh cuideachadh cuideachd. Tha Comann na h-Alzheimer ag ràdh gum faod ergonomaiche a bhith ri fhaighinn tro GP, ospadal no seirbheis cùram sòisealta ionadail anns an RA; tha dòighean eadar-dhealaichte an àiteigin eile. Airson stàladh no atharrachadh air uidheamachd gas, dealain, structarail no teine, cleachdaibh duine proifeiseanta ionadail a tha comasach.
+Faodaidh ergonomaiche measadh a dhèanamh air mar a tha an neach a’ gluasad tron taigh agus molaidh e uidheamachd no atharrachaidhean airson gnìomhan làitheil. A rèir an dragh, faodaidh physiotherapist, nurs sgìreil, cungaidh-aiche no neach-proifeiseanta taigh cuideachadh cuideachd. Tha Comann na h-Alzheimer ag ràdh gum faod ergonomaiche a bhith ri fhaighinn tro GP, ospadal no seirbheis cùram sòisealta ionadail anns an RA; tha dòighean eadar-dhealaichte an àiteigin eile. Airson stàladh no atharrachadh air uidheamachd gas, dealain, structarail no teine, cleachdaibh duine proifeiseanta ionadail a tha comasach.
 
-Ma tha thu a’ fuireach air màl, faighnich do uachdaran no do sholaraiche taighe mus dèan thu atharrachaidhean maireannach. Faodaidh seirbheis ionadail cùram seann-aois no ciorraman mìneachadh dè na measaidhean no na taic a tha ri fhaighinn. Ma tha duilgheadas èiginneach ann, dèan dheth an cunnart sònraichte an toiseach agus iarr cuideachadh proifeiseanta airson rud sam bith nach eil thu cinnteach mar a dh’atharraicheas tu gu sàbhailte.
+Ma tha thu a’ fuireach air màl, faighnich do uachdaran no do sholaraiche taighe mus dèan thu atharrachaidhean maireannach. Faodaidh seirbheis ionadail cùram seann-aois mìneachadh dè na measaidhean no na taic a tha ri fhaighinn. Ma tha duilgheadas èiginneach ann, dèan dheth an cunnart sònraichte an toiseach agus iarr cuideachadh proifeiseanta airson rud sam bith nach eil thu cinnteach mar a dh’atharraicheas tu gu sàbhailte.
 
 ## Cia tric a bu chòir dhomh an taigh ath-sgrùdadh?
 
-Ath-sgrùd e nuair a tha gnìomh eòlach a’ fàs na bu duilghe, nuair a dh’atharraicheas gluasad no sealladh, no nuair a tha faisg air tubaist ann. Tòisichibh leis an t-seòmar no an gnàthachas a tha ceangailte ris an atharrachadh sin. Chan fheum sibh a h-uile nì air liosta sgrùdaidh a choileanadh; cumaibh na tha ag obair agus ath-sgrùdaibh aon atharrachadh practaigeach aig an àm. Ma tha tuiteam air tachairt mar-thà, tha an [stiùireadh air na tha ri dhèanamh an dèidh tuiteam](/caregiving/responding-after-a-fall-with-dementia/) a’ còmhdach nan ceumannan sa bhad agus an fhollowup.
+Ath-sgrùd e nuair a tha gnìomh eòlach a’ fàs na bu duilghe, nuair a dh’atharraicheas gluasad no sealladh, no nuair a tha faisg air tubaist ann. Tòisichibh leis an t-seòmar no an gnàthachas a tha ceangailte ris an atharrachadh sin. Chan fheum sibh a h-uile nì air liosta sgrùdaidh a choileanadh; cumaibh na tha ag obair agus ath-sgrùdaibh aon atharrachadh practaigeach aig an àm. Ma tha tuiteam air tachairt mar-thà, tha an [stiùireadh air na tha ri dhèanamh an dèidh tuiteam](/caregiving/responding-after-a-fall-with-dementia/) a’ còmhdach nan ceumannan sa bhad agus an leantainn.

@@ -55,7 +55,7 @@ Roinnibh mion-fhiosrachadh a chuidicheas luchd-obrach conaltradh ris an neach se
 
 Cumaibh an nota goirid agus prìobhaideach. Roinnibh e leis na buill den sgioba cùraim a dh’fheumas e. Faighnich don luchd-obrach mar as fheàrr leotha am fiosrachadh a fhaighinn agus càite a bu chòir a chumail. Na cuiribh mion-fhiosrachadh mothachail air bòrd poblach no roinnibh e le luchd-tadhail nach fheum e.
 
-Bu chòir don neach a bhith nan co-bhàrdachd cho tric ’s a tha e comasach. Iarraibh air an luchd-obrach bruidhinn riutha gu dìreach, cleachdadh fhaclan sìmplidh agus ùine a thoirt dhaibh freagairt. Ma tha thu feumach air rud a chur ris nach cuimhnich an neach, mìnich dè a chunnaic thu gun a bhith a’ tomhas an adhbhair.
+Bu chòir don neach a bhith an sàs anns na còmhraidhean cho tric ’s a tha e comasach. Iarraibh air an luchd-obrach bruidhinn riutha gu dìreach, cleachdadh fhaclan sìmplidh agus ùine a thoirt dhaibh freagairt. Ma tha thu feumach air rud a chur ris nach cuimhnich an neach, mìnich dè a chunnaic thu gun a bhith a’ tomhas an adhbhair.
 
 ## Ciamar as urrainn dhomh cuideachadh aig àm turas èiginn?
 
@@ -75,7 +75,7 @@ Roinnibh cuin a thòisich an atharrachadh agus dè a chunnaic sibh. Faodaidh nea
 
 Cumaibh gnàthachasan eòlach nuair a tha an luchd-obrach ag ràdh gu bheil iad sàbhailte. Thoir leat dealbh eòlach no nì comhfhurtachd eile, lùghdaich fuaim a bharrachd ma tha e comasach agus mìnich aon cheum aig an àm. Leig leis an neach na tha iad comasach air a dhèanamh agus a tha iad ag iarraidh a dhèanamh. Faighnich don luchd-obrach mus gluais thu uidheamachd, atharraich an seòmar no cuidich le biadh agus cùram pearsanta.
 
-Faodaidh an neach a dhùthchas airson cleachdadh putan gairm, an taigh-fhuail a lorg no clàr ùr a thuigsinn. Innsibh don luchd-obrach dè an taic a tha iad a’ feumachdainn mar as trice, agus faighnich mar a dh’iarras tu cuideachadh eadar tadhalan. Ma tha an neach ag iarraidh cuideigin a dh’fhuireas còmhla riutha, faighnich dè an taic tadhail no oidhche a dh’fhaodas an t-ospadal a cheadachadh.
+Faodaidh an neach a dhìth cuideachadh gus putan gairm a chleachdadh, an taigh-fhuail a lorg no clàr ùr a thuigsinn. Innsibh don luchd-obrach dè an taic a tha iad a’ feumachdainn mar as trice, agus faighnich mar a dh’iarras tu cuideachadh eadar tadhalan. Ma tha an neach ag iarraidh cuideigin a dh’fhuireas còmhla riutha, faighnich dè an taic tadhail no oidhche a dh’fhaodas an t-ospadal a cheadachadh.
 
 Faodaidh turasan ospadail an luchd-cùraim a shgìth cuideachd. Rèitichidh tu neach earbsach eile airson sealain ma tha an neach ag aontachadh. Faighnich don neach-conaltraidh san ospadal no don obraiche shòisealta mu thaic dhan neach agus dhan teaghlach fhad ’s a tha an turas a’ leantainn.
 
@@ -83,7 +83,7 @@ Faodaidh turasan ospadail an luchd-cùraim a shgìth cuideachd. Rèitichidh tu n
 
 Iarraibh plana leigeil-a-mach sgrìobhte. Dèanaibh cinnteach gu bheil e a’ mìneachadh coinneamhan leantainneach, obraichean cùraim, atharrachaidhean cungaidhean agus cò ri fhaighinn ma thig duilgheadas. Ma tha stiùiridhean neo-shoilleir, iarraibh air an sgioba leigeil-a-mach mìneachadh dhaibh mus fhàg sibh.
 
-Bruidhnibh air dè an taic a bhios a dhìth aig an dachaigh. Beachdaichibh cò a chuidicheas le biadh, gluasad, nighe, coinneamhan agus uidheamachd no seirbheisean dachaigh ùra sam bith. Bithibh onarach mu na tha teaghlach agus caraidean comasach air a thoirt seachad. Faighnich don neach-dealbhaidh leigeil-a-mach san ospadal mu sheirbheisean ionadail eile ma tha am plana duilich a riaghladh.
+Bruidhnibh air dè an taic a bhios a dhìth aig an dachaigh. Beachdaichibh cò a chuidicheas le biadh, gluasad, nighe, coinneamhan agus uidheamachd no seirbheisean dachaigh ùra sam bith. Bithibh onarach mu na tha teaghlach agus caraidean comasach air a thoirt seachad. Faighnich don obraiche shòisealta san ospadal mu sheirbheisean ionadail eile ma tha am plana duilich a riaghladh.
 
 An dèidh tilleadh dhachaigh, thoir ùine airson fois agus airson tilleadh gu gnàthachasan eòlach. Roinnibh am plana sgrìobhte a-mhàin leis na daoine a dh’aontaich an neach gan toirt a-steach. Ma thig an neach gu grad troimh-chèile no gu dearbh tinn, iarr cuideachadh meidigeach sa bhad seach feitheamh ri leantainn àbhaisteach.
 

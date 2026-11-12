@@ -1,7 +1,7 @@
 ---
 title: "Taic dhuine le demensa a tha a’ fuireach leis fhèin"
 seoTitle: "Fuireach leat fhèin le demensa: taic do theaghlaichean"
-description: "Cuidich neach le demensa a tha a’ fuireach leis fhèin le gnàthachasan seasmhach, ìrean-sgrùdaidh aontaichte agus cuideachadh practaigeach, a’ cumail a mhiannan is neo-eisimeileachd aig an fhìor-mheadhan."
+description: "Cuidich neach le demensa a tha a’ fuireach leis fhèin le gnàthachasan seasmhach, ìrean-sgrùdaidh aontaichte is taic practaigeach, a’ cumail a mhiannan air thoiseach."
 section: caregiving
 order: 12
 updated: 2026-11-11
@@ -39,7 +39,7 @@ Tòisichibh air a’ chòmhradh sin nuair a tha ùine ann agus gun duilgheadas s
 
 Cleachdaibh beagan taic eòlach a fhreagras gnàthachasan an neach. Tha [Comann an Alzheimer a’ moladh innealan practaigeach](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) mar kalendairean, liostaichean agus cuimhneachain airson feumalachdan làitheil.
 
-- **Tagh aon àite airson nithean riatanach.** Cùm iuchraichean, speuclairean, waled agus fòn anns an aon àite aontaichte. Faodaidh treidhe faisg air an doras no sèilf le leubail gnàthachas a dhèanamh na bu fhasa a leantainn.
+- **Tagh aon àite airson nithean riatanach.** Cùm iuchraichean, speuclairean, waled agus fòn anns an aon àite aontaichte. Faodaidh bòrd beag faisg air an doras no sèilf le leubail gnàthachas a dhèanamh na bu fhasa a leantainn.
 - **Cleachd aon kalendar no siostam cuimhneachain.** Tagh kalendar balla, bòrd geal, dàileag-làimhe no kalendar fòn a tha an neach a’ cleachdadh mar-thà. Cùm coinneamhan agus gnìomhan cunbhalach ann an aon àite seach an sgaoileadh air grunn aplacaidean agus nòtaichean.
 - **Dèan gnàthachasan so-fhaicsinneach.** Ma thèid gnìomh a dhìochuimhneachadh gu tric, sgrìobh nota goirid no cuir an nì a tha a dhìth airson gnìomh sin ann an àite eòlach. Cùm na ceumannan goirid agus ath-sgrùd iad còmhla ma stad iad a bhith a’ cuideachadh.
 - **Dèan obraichean cunbhalach so-fhaicsinneach.** Faodaidh lìbhrigeadh bhùthan cunbhalach, tadhal glanaidh no rèiteachadh bìdh an àireamh de cho-dhùnaidhean a tha an neach a’ riaghladh leotha fhèin a lughdachadh.
@@ -50,7 +50,7 @@ Tha an [stiùireadh air gnàthachasan làitheil](/activities/daily-routine/) aga
 
 Aontaichibh air àireamh bheag de luchd-conaltraidh cunbhalach. Tha tadhal goirid no gairm aig àm aithnichte nas feumaile na grunn dhaoine a’ tadhal gun ràith. Faighnich dhan neach cò tha iad ag iarraidh a thoirt a-steach agus dè as urrainn do gach fear a dhèanamh.
 
-Dèan tairgsean sònraichte. Tha “An cuidicheadh e nam bheirinn bèicearan Diardaoin?” nas fhasa freagairt na “Leig fios dhomh ma tha feum agad air rud sam bith.” Faodaidh neach earbsach cuideachadh le ceannach, còmhdhail, biadh, billean no kalendar choinneamhan. Tha [Comann an Alzheimer a’ moladh cuideachadh a rèiteachadh](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) le obair an taighe, biadh, còmhdhail agus cuimhneachain cungaidh nuair a thig na feumalachdan sin.
+Dèan tairgsean sònraichte. Tha “An cuidicheadh e nam bheirinn an siopadh Diardaoin?” nas fhasa freagairt na “Leig fios dhomh ma tha feum agad air rud sam bith.” Faodaidh neach earbsach cuideachadh le ceannach, còmhdhail, biadh, billean no kalendar choinneamhan. Tha [Comann an Alzheimer a’ moladh cuideachadh a rèiteachadh](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) le obair an taighe, biadh, còmhdhail agus cuimhneachain cungaidh nuair a thig na feumalachdan sin.
 
 Ma tha grunn dhaoine a’ cuideachadh, aontaichibh cò a làimhsicheas gach gnìomh agus mar a their iad fiosrachadh cudromach air adhart. Cumaibh fiosrachadh cuingichte dhan dhaoine a thagh an neach, ach a-mhàin nuair a tha cunnart èiginneach sàbhailteachd a’ feumachdainn cuideachadh sa bhad. Ma tha thu fada air falbh, faic an [stiùireadh cùraim fad-astair](/caregiving/long-distance-caregiving-with-dementia/) airson dòighean co-ordanachadh leis na daoine a tha an neach a’ taghadh. Tha barrachd anns an [stiùireadh conaltraidh](/caregiving/communication-tips/) mu bhith a’ bruidhinn mu thaic gun a dhol gu deuchainn.
 
@@ -70,7 +70,7 @@ Ma tha an neach neo-chinnteach mu chuideachadh, tòisichibh gu beag. Is dòcha g
 
 ## Dè ma tha an neach ag iarraidh gun chuideachadh?
 
-Èistibh ris an adhbhar mus tairg thu plana eile. Faodaidh iad a bhith draghail mu phrìobhaideachd, cosgais, smachd a chall no neach neo-eòlach a bhith san taigh. Faighnich dè seòrsa cuideachaidh a bhiodh freagarrach dhaibh, agus faic an obraich deuchainn bheag. Tha cuid de dhaoine a’ fàbharachadh cuimhneachan no obair roinnte; tha feadhainn eile ag iarraidh taic bho aon neach earbsach seach seirbheis ùr.
+Èistibh ris an adhbhar mus tairg thu plana eile. Faodaidh iad a bhith draghail mu phrìobhaideachd, cosgais, smachd a chall no neach neo-eòlach a bhith san taigh. Faighnich dè seòrsa cuideachaidh a bhiodh freagarrach dhaibh, agus faic obair dheuchainn bheag. Tha cuid de dhaoine a’ fàbharachadh cuimhneachan no obair roinnte; tha feadhainn eile ag iarraidh taic bho aon neach earbsach seach seirbheis ùr.
 
 Seachnaibh a bhith a’ tionndadh gairmean gu deuchainnean. Faodaidh gairm a bhith na chòmhradh, chan ann na liosta cheistean mu dh’ith an neach, ghabh iad cungaidh no chuimhnich iad coinneamh. Ma tha cunnart sa bhad ann, cuiribh fios gu seirbheisean èiginn ionadail. Airson draghan leantainneach, cumaibh an neach an sàs agus iarraibh comhairle bhon sgioba cùraim aca no bho sheirbheis taic ionadail.
 

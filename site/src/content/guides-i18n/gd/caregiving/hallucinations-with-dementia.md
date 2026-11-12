@@ -22,9 +22,9 @@ faq:
   - q: "An urrainn rudeigin eile seach demensa brionnan-faicinn adhbhrachadh?"
     a: "Is urrainn. Faodaidh atharrachaidhean ann an sealladh no cluais, tinneas, cungaidhean agus an àrainneachd cuideachadh. Faodaidh neach-cùraim sgrùdadh a dhèanamh air suidheachadh an neach; na dèan breithneachadh air an adhbhar bho aon tachartas."
   - q: "Cuin a bu chòir dhomh cuideachadh meidigeach a shireadh?"
-    a: "Faigh cuideachadh meidigeach sa bhad ma thig an neach gu grad gu bhith troimh-chèile no ma tha am brionn-faicinn a’ toirt a-steach barrachd air aon mhothachadh. Cuir fios gu an neach-cùraim mu eòlasan ùra, ath-chuairteach, fada no a’ cur dragh."
+    a: "Faigh cuideachadh meidigeach sa bhad ma thig an neach gu grad gu bhith troimh-chèile no ma tha am brionn-faicinn a’ toirt a-steach barrachd air aon mhothachadh. Cuir fios chun an neach-cùraim mu eòlasan ùra, ath-chuairteach, fada no a’ cur dragh."
   - q: "Am bu chòir dhomh cungaidh atharrachadh ma thòisicheas brionnan-faicinn?"
-    a: "Chan eil. Sgrìobh sìos dè dh’atharraich agus cuir fios gun neach a tha a’ sgrìobhadh an ordaighean no gun cheimigear. Na tòisich, na stad no na atharraich cungaidh stèidhichte air stiùireadh coitcheann."
+    a: "Chan eil. Sgrìobh sìos dè dh’atharraich agus cuir fios chun neach a tha a’ sgrìobhadh an ordugh no chun cheimigear. Na tòisich, na stad no na atharraich cungaidh stèidhichte air stiùireadh coitcheann."
 sources:
   - title: "Hallucinations and dementia"
     publisher: "Alzheimer's Society"
@@ -43,7 +43,7 @@ related: [caregiving/late-day-restlessness, caregiving/when-someone-with-dementi
 health: true
 ---
 
-Faodaidh rudeigin a tha daoine eile nach eil a’ mothachadh air a bhith faicinn, a bhith cluinntinn, a bhith fàileadh, a bhith blasadh no a bhith a’ mothachadh a bhith fìor dhan neach. Faodaidh e a bhith eagallach, no faodaidh nach cuir e dragh orra idir. Tòisich le mar a tha an neach a’ faireachdainn agus am bheil duine sam bith ann an cunnart, seach a bhith a’ feuchainn ri dearbhadh dè a thachair no nach tachair.
+Faodaidh rudeigin a tha daoine eile nach eil a’ mothachadh air a bhith faicinn, a bhith cluinntinn, a bhith a’ fàileadh, a bhith a’ blasadh no a bhith a’ mothachadh a bhith fìor dhan neach. Faodaidh e a bhith eagallach, no faodaidh nach cuir e dragh orra idir. Tòisich le mar a tha an neach a’ faireachdainn agus am bheil duine sam bith ann an cunnart, seach a bhith a’ feuchainn ri dearbhadh dè a thachair no nach tachair.
 
 Faodaidh eòlas a bhith na bhrionn-faicinn, ach faodaidh e a bhith na mhearachd-thuigse no na mhì-aithneachadh cuideachd. Faodaidh faileas coltas duine a thoirt air; faodaidh caraid eòlach a bhith air a mhearachdachadh airson cuideigin eile. Chan fheum thu co-dhùnadh dè tha a’ tachairt. Thoir cunntas air na tha an neach ag ràdh agus na tha thu a’ faicinn, agus faighnich do neach-leigheis ma tha dragh ort.
 
