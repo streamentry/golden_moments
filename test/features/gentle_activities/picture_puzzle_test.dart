@@ -60,6 +60,32 @@ void main() {
     handle.dispose();
   });
 
+  testWidgets('each piece shows its own part of the picture, not all of it', (
+    tester,
+  ) async {
+    // Regression: the enlarged picture inside a piece was clamped back to
+    // the piece's own size, so every piece showed the whole picture.
+    await tester.binding.setSurfaceSize(const Size(390, 844));
+    addTearDown(() => tester.binding.setSurfaceSize(null));
+    for (final size in [2, 3]) {
+      // A fresh page for each size, not the same state rebuilt.
+      await tester.pumpWidget(const SizedBox());
+      await tester.pumpWidget(_app(size: size));
+      await tester.pumpAndSettle();
+      for (var piece = 0; piece < size * size; piece++) {
+        final picture = find.byKey(ValueKey('puzzle-piece-picture-$piece'));
+        expect(picture, findsOneWidget);
+        final drawn = tester.getSize(picture);
+        final cell = tester.getSize(
+          find.ancestor(of: picture, matching: find.byType(ClipRect)).first,
+        );
+        // The picture is drawn `size` times the cell, then cropped to it.
+        expect(drawn.width, moreOrLessEquals(cell.width * size));
+        expect(drawn.height, moreOrLessEquals(cell.height * size));
+      }
+    }
+  });
+
   testWidgets('tap-to-place completes the puzzle; finishing is calm', (
     tester,
   ) async {

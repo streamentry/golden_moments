@@ -73,6 +73,7 @@
   "photosIntro": "Velg bilder dere har lyst til å se på sammen.",
   "photosPrivacyNote": "Bare bildene du velger, kopieres inn i denne appen. Ingen konto og ingen server for deling i familien. Kopiene kan være med i sikkerhetskopien av enheten.",
   "photosCount": "{max, plural, =1{{count} av 1 bilde} other{{count} av {max} bilder}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Spill med disse bildene",
   "photosNeedTwoShowHidden": "Vis minst to bilder for å lage et spill. {count, plural, other{{count} skjult.}}",
   "photosNeedTwoAdd": "Legg til minst to bilder for å lage et spill.",

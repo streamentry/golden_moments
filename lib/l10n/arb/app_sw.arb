@@ -73,6 +73,7 @@
   "photosIntro": "Chagueni picha ambazo mngependa kuzitazama pamoja.",
   "photosPrivacyNote": "Ni picha ulizochagua tu ndizo zinazonakiliwa kwenye programu hii. Hakuna akaunti wala seva ya kusawazisha picha za familia. Nakala zinaweza kujumuishwa kwenye nakala rudufu ya kifaa chako.",
   "photosCount": "{max, plural, =1{picha {count} kati ya 1} other{picha {count} kati ya {max}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Cheza na picha hizi",
   "photosNeedTwoShowHidden": "Onyesha angalau picha mbili ili kutengeneza mchezo wa kulinganisha. {count, plural, other{{count} zimefichwa.}}",
   "photosNeedTwoAdd": "Ongeza angalau picha mbili ili kutengeneza mchezo wa kulinganisha.",

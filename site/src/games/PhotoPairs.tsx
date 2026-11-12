@@ -112,6 +112,7 @@ export default function PhotoPairs(props: PlayProps) {
           <p className="m-0">
             {boldRuns(ui.photoPairs.intro).map((run, i) => (run.bold ? <strong key={i}>{run.text}</strong> : run.text))}
           </p>
+          {!hasPhotos ? <p className="m-0">{ui.photoPairs.setupHint}</p> : null}
           <p className="m-0">{ui.photoPairs.photoComfort}</p>
           <label className={hasPhotoNavigation(urls.length) ? 'btn' : 'btn btn--primary'}>
             <Icon name="photo" />

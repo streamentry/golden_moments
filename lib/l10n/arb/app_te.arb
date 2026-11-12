@@ -73,6 +73,7 @@
   "photosIntro": "కలిసి చూడటానికి మీకు నచ్చే ఫోటోలను ఎంచుకోండి.",
   "photosPrivacyNote": "ఎంచుకున్న ఫోటోలు మాత్రమే ఈ యాప్‌లోకి కాపీ అవుతాయి. ఖాతా లేదు, కుటుంబ సింక్ సర్వర్ లేదు. కాపీలు మీ పరికర బ్యాకప్‌లో చేరవచ్చు.",
   "photosCount": "{max, plural, =1{1 ఫోటోలో {count}} other{{max} ఫోటోలలో {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "ఈ ఫోటోలతో ఆడండి",
   "photosNeedTwoShowHidden": "జత కలిపే ఆట చేయడానికి కనీసం రెండు ఫోటోలను చూపించండి. {count, plural, other{దాచినవి: {count}.}}",
   "photosNeedTwoAdd": "జత కలిపే ఆట చేయడానికి కనీసం రెండు ఫోటోలను చేర్చండి.",

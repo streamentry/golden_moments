@@ -48,21 +48,27 @@ class _PicturePuzzlePageState extends State<PicturePuzzlePage> {
   }
 
   /// One piece of the picture: the full picture drawn `size` times larger
-  /// and cropped to its own cell.
+  /// and cropped to its own cell. The enlarged picture sits in an
+  /// [OverflowBox] because the cell's tight size would otherwise shrink it
+  /// back to one cell, and every piece would show the whole picture.
   Widget _piece(int piece, double side) {
     final n = widget.size;
     final col = piece % n;
     final row = piece ~/ n;
     double at(int i) => -1 + 2 * i / (n - 1);
     return ClipRect(
-      child: Align(
+      child: OverflowBox(
         alignment: Alignment(at(col), at(row)),
-        widthFactor: 1 / n,
-        heightFactor: 1 / n,
-        child: SizedBox(
-          width: side * n,
-          height: side * n,
-          child: PictureView(picture: _picture),
+        minWidth: side * n,
+        maxWidth: side * n,
+        minHeight: side * n,
+        maxHeight: side * n,
+        // Square and cropped, never letterboxed, so the pieces of a
+        // family photo meet at their edges.
+        child: PictureView(
+          key: ValueKey('puzzle-piece-picture-$piece'),
+          picture: _picture,
+          fit: BoxFit.cover,
         ),
       ),
     );

@@ -73,6 +73,7 @@
   "photosIntro": "Suuraawwan waliin ilaaluun isin gammachiisu filadhaa.",
   "photosPrivacyNote": "Suuraawwan filataman qofatu appii kanatti koppii ta’a. Akkaawuntiin ykn sarvariin maatii hin jiru. Koppiiwwan kuusaa dabalataa meeshaa keessanii keessatti hammatamuu danda’u.",
   "photosCount": "{max, plural, =1{suuraa 1 keessaa {count}} other{suuraa {max} keessaa {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Suuraawwan kanaan taphadhaa",
   "photosNeedTwoShowHidden": "Taphaa wal-fakkeessuu tolchuuf suuraa yoo xiqqaate lama agarsiisaa. {count, plural, other{{count} dhokfameera.}}",
   "photosNeedTwoAdd": "Taphaa wal-fakkeessuu tolchuuf suuraa yoo xiqqaate lama dabalaa.",

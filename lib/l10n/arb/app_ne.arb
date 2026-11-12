@@ -73,6 +73,7 @@
   "photosIntro": "सँगै हेर्दा रमाइलो लाग्ने फोटो छान्नुहोस्।",
   "photosPrivacyNote": "छानिएका फोटो मात्र यो एपमा प्रतिलिपि गरिन्छ। खाता वा परिवारसँग सिङ्क गर्ने सर्भर छैन। प्रतिलिपि तपाईंको डिभाइस ब्याकअपमा समावेश हुन सक्छन्।",
   "photosCount": "{max, plural, =1{1 मध्ये {count} फोटो} other{{max} मध्ये {count} फोटो}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "यी फोटोसँग खेल्नुहोस्",
   "photosNeedTwoShowHidden": "जोडी मिलाउने खेल बनाउन कम्तीमा दुईवटा फोटो देखाउनुहोस्। {count, plural, other{{count} लुकाइएका छन्।}}",
   "photosNeedTwoAdd": "जोडी मिलाउने खेल बनाउन कम्तीमा दुईवटा फोटो थप्नुहोस्।",

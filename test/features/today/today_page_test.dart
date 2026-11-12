@@ -64,6 +64,20 @@ void main() {
       find.textContaining('Call their doctor', findRichText: true),
       findsOneWidget,
     );
+    expect(
+      find.textContaining(
+        'In the U.S., call 911 for emergencies',
+        findRichText: true,
+      ),
+      findsOneWidget,
+    );
+    expect(
+      find.textContaining(
+        'Elsewhere, use your local emergency number',
+        findRichText: true,
+      ),
+      findsOneWidget,
+    );
     expect(find.widgetWithText(FilledButton, 'Look together'), findsOneWidget);
   });
 
@@ -74,9 +88,50 @@ void main() {
     await tester.pumpWidget(_app(const TodayPage()));
     await tester.pumpAndSettle();
     await _tap(tester, find.text('I’m worn out'));
-    expect(find.textContaining('988', findRichText: true), findsOneWidget);
+    expect(
+      find.textContaining(
+        '988 in the U.S. and its territories',
+        findRichText: true,
+      ),
+      findsOneWidget,
+    );
+    expect(
+      find.textContaining(
+        'Elsewhere, contact a local crisis line',
+        findRichText: true,
+      ),
+      findsOneWidget,
+    );
+    expect(
+      find.textContaining('call 911 in the U.S.', findRichText: true),
+      findsOneWidget,
+    );
     expect(find.byType(FilledButton), findsNothing);
   });
+
+  testWidgets(
+    'visit help labels U.S. emergency numbers and local alternative',
+    (tester) async {
+      _tallScreen(tester);
+      await tester.pumpWidget(_app(const TodayPage()));
+      await tester.pumpAndSettle();
+      await _tap(tester, find.text('A visit or call is coming up'));
+      expect(
+        find.textContaining(
+          'In the U.S., call 911 for emergencies',
+          findRichText: true,
+        ),
+        findsOneWidget,
+      );
+      expect(
+        find.textContaining(
+          'Elsewhere, use your local emergency number',
+          findRichText: true,
+        ),
+        findsOneWidget,
+      );
+    },
+  );
 
   testWidgets('one tap saves a note on the device, and it can be shared', (
     tester,
@@ -150,8 +205,20 @@ void main() {
       300,
       scrollable: find.byType(Scrollable).first,
     );
+    // Fully on screen, so the tap lands on the row and opens its help.
+    await tester.ensureVisible(first);
+    await tester.pumpAndSettle();
     await tester.tap(first);
     await tester.pumpAndSettle();
+    expect(tester.takeException(), isNull);
+    await tester.scrollUntilVisible(
+      find.textContaining(
+        'Elsewhere, use your local emergency number',
+        findRichText: true,
+      ),
+      300,
+      scrollable: find.byType(Scrollable).first,
+    );
     expect(tester.takeException(), isNull);
     await tester.scrollUntilVisible(
       find.text('Done for now'),

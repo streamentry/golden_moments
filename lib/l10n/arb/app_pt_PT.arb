@@ -73,6 +73,7 @@
   "photosIntro": "Escolha fotografias que gostaria de ver em conjunto.",
   "photosPrivacyNote": "Só as fotografias selecionadas são copiadas para esta aplicação. Não há conta nem servidor de partilha familiar. As cópias podem ser incluídas na cópia de segurança do dispositivo.",
   "photosCount": "{max, plural, =1{{count} de 1 fotografia} other{{count} de {max} fotografias}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Jogar com estas fotografias",
   "photosNeedTwoShowHidden": "Mostre pelo menos duas fotografias para fazer um jogo de pares. {count, plural, =1{{count} oculta.} other{{count} ocultas.}}",
   "photosNeedTwoAdd": "Adicione pelo menos duas fotografias para fazer um jogo de pares.",

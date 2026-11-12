@@ -73,6 +73,7 @@
   "photosIntro": "Odaberite fotografije koje biste rado zajedno razgledavali.",
   "photosPrivacyNote": "U aplikaciju se kopiraju samo odabrane fotografije. Nema računa ni poslužitelja za obiteljsko dijeljenje. Kopije mogu biti uključene u sigurnosnu kopiju Vašeg uređaja.",
   "photosCount": "{max, plural, =1{{count} od 1 fotografije} one{{count} od {max} fotografije} few{{count} od {max} fotografije} other{{count} od {max} fotografija}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Igrajte s ovim fotografijama",
   "photosNeedTwoShowHidden": "Za igru traženja parova prikažite barem dvije fotografije. {count, plural, one{Skrivena: {count}.} few{Skrivene: {count}.} other{Skriveno: {count}.}}",
   "photosNeedTwoAdd": "Za igru traženja parova dodajte barem dvije fotografije.",

@@ -73,6 +73,7 @@
   "photosIntro": "Alegeți fotografii la care v-ar plăcea să vă uitați împreună.",
   "photosPrivacyNote": "Doar fotografiile selectate sunt copiate în această aplicație. Fără cont și fără server de sincronizare pentru familie. Copiile pot fi incluse în copia de rezervă a dispozitivului.",
   "photosCount": "{max, plural, =1{{count} din 1 fotografie} few{{count} din {max} fotografii} other{{count} din {max} de fotografii}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Jucați cu aceste fotografii",
   "photosNeedTwoShowHidden": "Afișați cel puțin două fotografii pentru a face un joc de potrivire. {count, plural, other{Ascunse: {count}.}}",
   "photosNeedTwoAdd": "Adăugați cel puțin două fotografii pentru a face un joc de potrivire.",

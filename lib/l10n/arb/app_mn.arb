@@ -73,6 +73,7 @@
   "photosIntro": "Хамт харахад таатай зургуудаа сонгоно уу.",
   "photosPrivacyNote": "Зөвхөн сонгосон зургууд энэ аппад хуулагдана. Бүртгэл, гэр бүлийн синк сервер байхгүй. Хуулбарууд төхөөрөмжийн нөөц хуулбарт орж болно.",
   "photosCount": "{max, plural, =1{1 зургаас {count}} other{{max} зургаас {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Эдгээр зургаар тоглох",
   "photosNeedTwoShowHidden": "Хослуулах тоглоом хийхийн тулд дор хаяж хоёр зургийг харуулна уу. {count, plural, other{{count} нуусан.}}",
   "photosNeedTwoAdd": "Хослуулах тоглоом хийхийн тулд дор хаяж хоёр зураг нэмнэ үү.",

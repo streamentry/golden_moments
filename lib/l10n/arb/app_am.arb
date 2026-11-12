@@ -73,6 +73,7 @@
   "photosIntro": "አብራችሁ ብታዩ የሚያስደስቷችሁን ፎቶዎች ይምረጡ።",
   "photosPrivacyNote": "የተመረጡ ፎቶዎች ብቻ ወደዚህ መተግበሪያ ይቀዳሉ። መለያም ሆነ የቤተሰብ ማመሳሰያ አገልጋይ የለም። ቅጂዎቹ በመሣሪያዎ ምትኬ ውስጥ ሊካተቱ ይችላሉ።",
   "photosCount": "{max, plural, =1{{count} ከ1 ፎቶ} other{{count} ከ{max} ፎቶዎች}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "በእነዚህ ፎቶዎች ይጫወቱ",
   "photosNeedTwoShowHidden": "የማዛመድ ጨዋታ ለመሥራት ቢያንስ ሁለት ፎቶዎችን ያሳዩ። {count, plural, other{{count} ተደብቀዋል።}}",
   "photosNeedTwoAdd": "የማዛመድ ጨዋታ ለመሥራት ቢያንስ ሁለት ፎቶዎችን ይጨምሩ።",

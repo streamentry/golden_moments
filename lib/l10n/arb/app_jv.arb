@@ -73,6 +73,7 @@
   "photosIntro": "Pilih foto ingkang panjenengan remeni kangge dipunmirsani sesarengan.",
   "photosPrivacyNote": "Namung foto ingkang dipunpilih dipunsalin dhateng aplikasi menika. Boten wonten akun utawi server sinkronisasi kulawarga. Salinan saged kalebet serep piranti panjenengan.",
   "photosCount": "{max, plural, =1{{count} saking 1 foto} other{{count} saking {max} foto}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Dolanan kaliyan foto menika",
   "photosNeedTwoShowHidden": "Tuduhaken sekirangipun kalih foto supados saged dolanan nyocogaken. {count, plural, other{{count} dipunndhelikaken.}}",
   "photosNeedTwoAdd": "Tambahaken sekirangipun kalih foto supados saged dolanan nyocogaken.",

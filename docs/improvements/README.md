@@ -1,13 +1,13 @@
 # Improvements log: dementia and Alzheimer's sources
 
-Goal (2026-11-07): search the dementia and Alzheimer's sites, learn from them, and improve the app and the website one item at a time until nothing else is worth changing. This log records what was learned, what was checked, what changed, and what needs a maintainer decision.
+Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct practical improvement to the app or website, and record it here. The target is 100 implemented improvements; each entry records its source, gap, change, checks and remaining verification.
 
 - [sources.md](sources.md): what was read, what was only seen in search results, and what could not be reached.
 - [audit-2026-11-07.md](audit-2026-11-07.md): the app and website measured against those sources, with file references.
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This score predates Round 45; no separate score was inferred from the new feature. Round 45's full site verification passes 1,855 tests, builds 12,491 pages and reports 0 checker errors with 536 warnings. TypeScript and all 106 Python tests pass. Node 22.14.0 is below the site's declared >=22.22.0 engine floor but the checks pass. Flutter was unavailable and this site-only change has no Flutter code. Round 41 localized app illustration labels; Round 42 made Conversation Cards prompts opt-in; Rounds 43–45 improve Photo Pairs with optional captions, a comfort reminder and a one-at-a-time photo view. New strings use English fallback on translated pages. Live browser, native-speaker, caregiver and device checks remain unverified.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 89/100 in this branch** (Round 88 is in PR #231; this branch adds #89). Round 89 labels U.S. emergency and crisis numbers in the app's English Today advice and directs readers elsewhere to local services. Verification and review status are recorded in [TRACKING.md](TRACKING.md). Flutter/widget and human review remain unverified.
 
 | Item | Status |
 | --- | --- |
@@ -35,6 +35,34 @@ Goal (2026-11-07): search the dementia and Alzheimer's sites, learn from them, a
 | Verification for #44 | 727 site tests and TypeScript pass. The new guidance uses English fallback on translated pages; no live browser or caregiver/person check. |
 | Research and improvement #45 | Alzheimer's Association guidance supports shared photo reminiscence without testing. One selected photo now opens in a viewing-only Photo Pairs mode; matching and navigation are offered when two or more are selected. See [tracking](TRACKING.md) and [sources](sources.md). |
 | Verification for #45 | 4 focused photo-viewer tests, all 1,855 site tests and TypeScript pass. Full verification builds 12,491 pages; `check-site` reports 0 errors and 536 warnings. One-photo selection opens look-only mode, with no inert navigation buttons. Browser, caregiver/person and native-language checks remain open. |
+| Research and improvement #46 | Dementia Australia and the Alzheimer's Association recommend one instruction at a time and adapting an activity when attention fades. The Today tool now shows a first suggestion, with alternatives available on request. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #46 | 2 focused Today suggestion tests, all 1,857 site tests and TypeScript pass. Full verification builds 12,491 pages; `check-site` reports 0 errors and 536 warnings. Browser and caregiver/person checks remain open. |
+| Research and improvement #47 | Alzheimer's Society and Dementia Australia advise reducing noise and clutter and using comfortable seating and good light. Photo Pairs now shows a short setup reminder before photo selection; the existing caregiver guide retains the fuller advice. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #47 | 2 focused Photo Pairs tests, all 1,859 site tests, TypeScript, 12,491-page build and `check-site` pass; the checker reports 0 errors and 536 warnings. Python and release metadata checks pass. The English fallback is unreviewed in other languages; browser, caregiver/person and device checks remain open. |
+| Research and improvement #48 | Dementia Australia and the Alzheimer's Association recommend activities tied to personal interests, including familiar music. The Today tool's two pictured choices now offer Picture Pairs or the existing music guide, instead of two games. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #48 | The choice-board and situations tests pass; all 1,859 site tests, TypeScript, the 12,491-page build, site checker, 106 Python tests and release metadata check pass. The component SSR test confirms two links, labels and picture art. Interactive browser and caregiver/person checks remain open. |
+| Research and improvement #49 | Alzheimer's Association and Dementia Australia recommend planning activities around the person's best time of day. Today notes now have an optional morning/afternoon/evening field so caregivers can review when an activity was tried. The field is local with the existing notes. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #49 | Focused notes and time-picker tests, plus all 1,862 site tests, pass. TypeScript, the 12,491-page build, site checker, 106 Python tests and release metadata check pass. Old notes without the optional field still load. Interactive browser and caregiver/person checks remain open. |
+| Research and improvement #50 | The Today tool mixed U.S. emergency/support numbers with general guidance. It now labels U.S. resources and gives local emergency or crisis-support alternatives elsewhere. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #50 | Situations tests, all 1,862 site tests, TypeScript, 12,491-page build, site checker, 106 Python tests and release metadata check pass. No live browser or caregiver/person review; Today remains English-only. |
+| Research and improvement #51 | Today notes are stored locally and can be removed individually, but the tool had no way to clear them all. It now offers a clearly scoped confirmation to remove all Today notes from this browser. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #51 | 12 focused notes/confirmation tests and all 1,864 site tests pass. TypeScript, the 12,491-page build, site checker, 106 Python tests and release metadata check pass. Live browser and user checks remain open. |
+| Research and improvement #52 | Home-safety advice appeared in a few activity and sleep guides, but caregivers had no single place to review room hazards and choose appropriate adaptations. Added a sourced, person-specific home-safety walkthrough. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #52 | All 1,864 site tests and TypeScript pass; the 12,492-page build reports 0 checker errors and 536 warnings. Python tests (106), release metadata and `git diff --check` pass. The route appears in the caregiving hub. Browser and caregiver/participant review remain open. |
+| Research and improvement #53 | Photo Pairs gained one-photo viewing, optional captions and Previous/Next controls, but the Japanese game copy still required two photos and several new labels fell back to English. The Japanese dictionary now describes the one-photo flow and its controls. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #53 | Japanese Photo Pairs copy and placeholder tests pass; full verification passes 1,865 tests, builds 12,492 pages and reports 0 checker errors and 536 warnings. TypeScript, 106 Python tests and release metadata pass. Native-speaker and browser checks remain open. |
+| Research and improvement #54 | Holiday and outing guides covered family events and short excursions, but the site had no practical guide to planning longer travel with dementia. Added a person-centered travel planning guide with simpler options, routine, essentials and a backup plan. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #54 | Full verification passes 1,865 tests, builds 12,493 pages and reports 0 checker errors and 536 warnings. TypeScript, 106 Python tests, release metadata and `git diff --check` pass. Browser and caregiver/person review remain open. |
+| Research and improvement #55 | The site had a home-safety guide but no support guide for a person living alone with dementia. Added practical ways to agree check-ins, routines and gradual help without imposing a fixed cutoff or taking over tasks. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #55 | Full verification passes 1,865 tests, builds 12,494 pages and reports 0 checker errors and 536 warnings. TypeScript, 106 Python tests, release metadata and `git diff --check` pass. Browser and caregiver/person review remain open. |
+| Research and improvement #56 | The brain-health diet guide covered nutrition, but the site lacked practical mealtime support for caregivers. Added a guide to calm setup, familiar food, simple choices and maintaining independence, with a clear hand-off to professionals for swallowing or appetite concerns. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #56 | Full verification passes 1,865 tests, builds 12,495 pages and reports 0 checker errors and 536 warnings. TypeScript, 106 Python tests, release metadata and `git diff --check` pass. Browser and caregiver/person review remain open. |
+| Research and improvement #57 | The site had room-safety advice but no guidance for the intimate task of bathing. Added a person-centered guide to privacy, permission, preparation, choices and lower-pressure alternatives. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #57 | Full verification passes 1,865 tests, builds 12,496 pages and reports 0 checker errors and 536 warnings. TypeScript, 106 Python tests, release metadata and `git diff --check` pass. Caregiver, participant and professional review remain open. |
+| Research and improvement #58 | The site mentioned pets as activities but had no practical guide to keeping pet care reliable as a person's needs change. Added a routine and backup-planning guide that respects both the person and the animal. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #58 | Full verification passes 1,865 tests, builds 12,497 pages and reports 0 checker errors and 536 warnings. TypeScript, 106 Python tests, release metadata and `git diff --check` pass. Caregiver, participant and animal-care professional review remain open. |
+| Research and improvement #59 | The Traditional Chinese warning-signs guide used a generic patient label for people with diabetes in a sentence about low blood sugar. Reworded it as “people with diabetes may experience low blood sugar,” preserving the NHS meaning and person-first style. See [tracking](TRACKING.md) and [sources](sources.md). |
+| Verification for #59 | Full verification passes 1,865 tests, builds 12,497 pages, reports 0 errors and 535 warnings, and no longer flags this page for patient wording. TypeScript, 106 Python tests, release metadata and `git diff --check` pass. Native-speaker review remains open. |
 | Code change 5: labelled help and comfort row (G1, Option A, your choice) | Done: the icon-only app-bar actions on the gentle board are gone; "How this works" and "Comfort settings" are outlined buttons with words, under the board. Tooltips kept. Short screens and large text switch to the scrolling layout, so the row may need a scroll at 200%. Two tests were updated to bring the row into view before tapping or checking the bottom line. New regression test `gentle_tool_labels_test.dart`. Not device-checked |
 | Verification (round 5) | Full Flutter suite 668 passing; strict analysis clean |
 | Simulator evidence (iPhone 17 Pro simulator, iOS 26.5, debug build) | Default text: home, then the gentle board with four-pair grid, "There is no time limit.", "How this works" and "Comfort settings" under the status line, then "Done for now" and "Start again". Accessibility extra-large text: home wraps without clipping; the board starts above the fold; the labelled row wraps to two-line buttons and is reached by scrolling. Not run: VoiceOver, a physical device, the other 200% phone sizes. Screenshots were taken with the simulator tool; not saved to the repo |
@@ -109,3 +137,55 @@ The sources mostly confirm what the app and site already do. The layout gap (G1)
 - Every factual claim about code cites a file and line in this branch at `2bdb35d`.
 - Contrast ratios were computed with the WCAG relative-luminance formula from the hex values in `DESIGN.md`.
 - Sources marked "search snippet only" are not used to justify a change.
+
+## Round 82: explain the family-photo limit (2026-11-11)
+
+W3C cognitive-accessibility guidance says visible labels should use familiar words and sit beside the relevant control. A developing WCAG 3 draft also proposes explaining why a control is disabled and how to enable it; this is a draft, not a conformance claim. Alzheimer's Society advises choosing tools that fit existing skills and offering support as someone learns.
+
+At 24 of 24 family photos, the app now explains that the collection is full and names the existing `Options` and `Remove this copy` actions before the disabled picker button. The text uses an English fallback in 66 non-English ARBs until translations are reviewed. No photo or storage behavior changed.
+
+Implementation commit: `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb`. The 65 complete ARB dictionaries, 106 Python tests, release metadata check and `git diff --check` pass against this source state. The regression test covers the full collection at 200% text on a small phone, but Flutter and Dart are unavailable in this environment, so the widget test, code generation, analyzer and Flutter design-system test were not run. No device, caregiver, participant or native-speaker review has been done.
+
+
+## Round 83: practical money support and scam response (2026-11-11)
+
+The site had general future-planning advice but no practical page on helping with bills, understanding trusted-contact limits, noticing possible exploitation or responding to a scam. This guide keeps the person involved, separates informal bill help from transaction authority and gives U.S. reporting steps with local-law caveats.
+
+Implementation commit: `cbd3725a6fd9be632d434a4a78f3618270e5118c`. Sources include Alzheimer's Society, Alzheimer's Association, CFPB, FTC and the Administration for Community Living. On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,517 pages and found 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, 106 Python tests, `python3 scripts/release_metadata.py --check` and `git diff --check` passed. Built output contains the guide route and the caregiving-hub link. The guide is English only. No live browser, person-with-dementia, caregiver, banker, financial/legal professional, safeguarding professional or native-speaker review has been done.
+
+
+## Round 84: responding when someone sees or hears things (2026-11-11)
+
+The site discussed sundowning, suspicion and sudden confusion, but had no focused page for a person who sees or hears things others do not. The new guide suggests calm, honest responses; simple checks for shadows, reflections, sounds and sensory aids; and a medical boundary for sudden or distressing changes. It does not diagnose hallucinations or advise changing medicine.
+
+Sources include Alzheimer's Society, Alzheimer's Association, Dementia Australia and the NHS. The static route, caregiving hub and related-guide link are checked in built output. The guide is English only. No live-browser, person-with-dementia, caregiver, clinician or native-speaker review has been done.
+
+## Round 85: responding when anger becomes aggression (2026-11-11)
+
+The refusal, communication, pain and late-day guides mentioned anger or aggression only in context. This new English guide puts immediate safety first, suggests calm ways to pause and give space, describes possible triggers without diagnosing them, and tells readers when to contact a clinician or local emergency service. It does not recommend restraint or medicine changes.
+
+Sources include the Alzheimer's Association and Alzheimer's Society. The guide links back to refusal and late-day advice. Person, caregiver, clinician, native-speaker and live-browser review remain open.
+
+## Round 86: coordinate dementia care from a distance (2026-11-11)
+
+The site covered living alone, in-home help, emergency planning and family task disagreements, but lacked a focused guide for relatives or friends supporting someone from another city. This English guide helps the person choose who is involved, assigns practical remote tasks, sets an agreed update and backup plan, and points local health-information rules back to providers.
+
+Sources include the Alzheimer's Association and Family Caregiver Alliance. No person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 87: future-care conversation prompts (2026-11-11)
+
+The after-diagnosis guide recommended discussing future wishes but gave no practical prompts. It now offers optional, one-question-at-a-time starters, permission to pause, and a way to note the person's own words for later discussion. It does not prescribe treatments or substitute for local legal documents.
+
+Sources include the Alzheimer's Association, Alzheimer's Society and National Institute on Aging. No recently diagnosed person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 88: responding after a fall (2026-11-11)
+
+The home-safety guide focuses on reducing hazards, while the bathing guide mentions falls during personal care. This English guide covers the immediate response, when to call local emergency services, not lifting someone alone, health follow-up and simple observations to share with a clinician. It does not diagnose an injury or teach a transfer technique.
+
+Sources include the Alzheimer's Society and NHS. The guide uses local rather than country-specific emergency instructions. No person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 89: label U.S. emergency numbers in mobile Today advice (2026-11-11)
+
+Round 50 updated the website's Today guidance, but the app has separate English Today strings that named 911 and 988 without their U.S. scope. The English app text now labels 911 and 988 for the U.S. and gives local emergency/crisis alternatives elsewhere. No location detection or permissions were added.
+
+The ARB audit found those literal U.S. numbers in English only; translated help strings were left as they were. Local Flutter generation and widget tests could not run because Flutter/Dart are unavailable here; hosted CI remains pending.

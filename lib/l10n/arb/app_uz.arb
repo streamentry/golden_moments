@@ -73,6 +73,7 @@
   "photosIntro": "Birga qarashdan zavqlanadigan suratlarni tanlang.",
   "photosPrivacyNote": "Faqat tanlangan suratlar ilovaga nusxalanadi. Akkaunt ham, oilaviy sinxronlash serveri ham yoʻq. Nusxalar qurilmangizning zaxira nusxasiga kirishi mumkin.",
   "photosCount": "{max, plural, =1{1 ta suratdan {count} tasi} other{{max} ta suratdan {count} tasi}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Shu suratlar bilan oʻynash",
   "photosNeedTwoShowHidden": "Juftlash oʻyinini tuzish uchun kamida ikkita suratni koʻrsating. {count, plural, other{{count} tasi yashirin.}}",
   "photosNeedTwoAdd": "Juftlash oʻyinini tuzish uchun kamida ikkita surat qoʻshing.",
