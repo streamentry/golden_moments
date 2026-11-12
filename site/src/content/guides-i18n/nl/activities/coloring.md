@@ -1,7 +1,7 @@
 ---
 title: "Kleuractiviteiten bij alzheimer en dementie"
 seoTitle: "Kleuren bij alzheimer en dementie"
-description: "Kleuren voor mensen met alzheimer of dementie: tekeningen voor volwassenen, dikke kleurpotloden, kleuren op het scherm en printbare vellen, met tips om rustig te stoppen."
+description: "Kleuren voor mensen met alzheimer of dementie: tekeningen voor volwassenen, dikke kleurpotloden, kleuren op het scherm en printbare vellen, en rustig stoppen."
 section: activities
 order: 25
 updated: 2026-11-08

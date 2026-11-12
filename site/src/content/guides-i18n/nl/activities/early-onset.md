@@ -1,7 +1,7 @@
 ---
 title: "Activiteiten bij vroegtijdige dementie: ideeën voor volwassenen die nog werken"
 seoTitle: "Activiteiten bij vroegtijdige dementie: ideeën"
-description: "Activiteiten bij vroegtijdige dementie, als de klachten vóór 65 jaar beginnen: hobby’s, uitstapjes, muziek uit hun jeugd en steun voor partners en volwassen kinderen."
+description: "Activiteiten bij vroegtijdige dementie, als de klachten vóór 65 beginnen: hobby’s, uitstapjes, muziek uit hun jeugd en steun voor partners en volwassen kinderen."
 section: activities
 order: 26
 updated: 2026-11-08
