@@ -45,7 +45,7 @@ Posjet liječniku može obuhvatiti mnogo toga u kratkom vremenu. Kratak plan mo�
 
 Pitajte osobu što joj je najvažnije da liječnik zna. Zajedno napišite kratak popis pitanja i najvažnije stavite na vrh. Ako je popis dug, pitajte ordinaciju bi li duži termin ili kontrola pomogli. Osobi može biti draže ponijeti pisanu bilješku nego pamtiti sve tijekom posjeta.
 
-Opišite promjene konkretno. Zapišite što se dogodilo, kada je počelo, koliko često se pojavljuje i što se događalo u tom trenutku. Na primjer, „Posljednji mjesec više ne ide na tjedni glazbeni susret“ korisnije je od „Sve joj je gore“. Uključite i osobino vlastito viđenje promjene te nemojte nagađanje predstavljati kao dijagnozu.
+Opišite promjene konkretno. Zapišite što se dogodilo, kada je počelo, koliko često se pojavljuje i što se događalo u tom trenutku. Na primjer, „Posljednji mjesec više ne ide na tjedni glazbeni susret“ korisnije je od „Sve joj je gore“. Uključite i njezino vlastito viđenje promjene te nemojte nagađanje predstavljati kao dijagnozu.
 
 Ponesite ažuran popis lijekova, uključujući lijekove na recept i one bez recepta, vitamine i dodatke prehrani. Osoba može ponijeti i naočale, slušni aparat ili imena drugih liječnika koji je prate. Pitajte u ordinaciji koji se obrasci ili zapisi trebaju, umjesto da prikupljate više osobnih podataka nego što posjet zahtijeva.
 

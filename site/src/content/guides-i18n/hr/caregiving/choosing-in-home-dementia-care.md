@@ -58,7 +58,7 @@ Nazovite nekoliko pružatelja i objasnite zadatke s kojima osoba želi pomoć. P
 
 Razjasnite pojedinosti koje utječu na svakodnevni život: tko će dolaziti, koliko često, koliko traje svaki posjet, što se događa ako radnik zbog bolesti ne može doći i koga nazvati s brigom. Ako osoba želi istog pomoćnika kad je to moguće, pitajte može li usluga to osigurati.
 
-Zatražite preporuke i pitajte kako agencija provjerava svoje radnike. Saznajte provjeravaju li se pozadina, obuka i kvalifikacije te koje zadatke radnik smije obavljati. Pravila i nazivi zanimanja razlikuju se po mjestu, pa provjerite sve stručne ili licencne zahtjeve lokalno.
+Zatražite preporuke i pitajte kako agencija provjerava svoje radnike. Saznajte provjeravaju li se pozadina, obuka i kvalifikacije te koje zadatke radnik smije obavljati. Pravila i nazivi zanimanja razlikuju se po mjestu, pa provjerite sve stručne ili zahtjeve za licenciranje lokalno.
 
 ## Kako provjeriti odgovara li osoba pružatelju?
 
