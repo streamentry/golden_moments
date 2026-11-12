@@ -1,7 +1,7 @@
 ---
 title: "Segítség demenciával élő személynek a fürdésben"
 seoTitle: "Fürdéshez nyújtott segítség demenciával élőknek"
-description: "Gyakorlati tanácsok a fürdéshez demencia esetén: védje a magánszférát, adjon választási lehetőséget, készítse elő a helyiséget, és szükség esetén szüneteltessen vagy próbáljon más módot."
+description: "Gyakorlati tanácsok fürdéshez demencia esetén: védje a magánszférát, adjon választási lehetőséget, készítse elő a helyiséget, és szükség esetén szüneteltessen."
 section: caregiving
 order: 14
 updated: 2026-11-11
