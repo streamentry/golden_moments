@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Фактори на ризик за деменција: 14-те што ги издвои комисијата на Lancet"
+seoTitle: "Фактори на ризик за деменција: 14-те фактори од Lancet"
+description: "14-те фактори на ризик за деменција што може да се променат, кои комисијата на Lancet ги утврди во 2024 година, по животна фаза, со она што го поврзуваат истражувањата и она за што можете да разговарате со лекар."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Комисијата на Lancet во 2024 година утврди 14 фактори на ризик за деменција кои потенцијално може да се променат: помалку образование, оштетен слух, висок LDL холестерол, депресија, повреда на главата, неактивност, дијабетес, пушење, висок крвен притисок, дебелина, прекумерно пиење алкохол, социјална изолација, загадување на воздухот и нелекувана слабост на видот. Заедно се поврзани со околу 45% од случаите во светот, но за секој поединец нема гаранција.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Четиринаесетте фактори ги опфаќаат целиот живот: еден во раната возраст, десет во средните години и три во подоцнежниот живот."
+  - "Оштетениот слух и високиот LDL холестерол во средните години се поврзани секој со околу 7% од случаите со деменција во светот, што е најголемиот удел кај кој било поединечен фактор."
+  - "Овие проценти се популациски проценки што претпоставуваат причина и последица. Некои врски може да бидат само делумно причинскиден."
+  - "Возраста и генетиката, на кои никој не може да им помогне, се исто така важни фактори на ризик. Намалувањето на 14-те ризици не гарантира дека некој ќе избегне деменција."
+  - "Повеќето мерки, како проверка на крвниот притисок, слухот и видот, се добри за здравјето и на други начини и вредат за разговор со лекар."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Кои се 14-те фактори на ризик за деменција што може да се променат?"
+    a: "Комисијата на Lancet во 2024 година ги утврди помалку образование, оштетен слух, висок LDL холестерол, депресија, повреда на мозокот, физичка неактивност, дијабетес, пушење, висок крвен притисок, дебелина, прекумерно пиење алкохол, социјална изолација, загадување на воздухот и нелекувана слабост на видот. Заедно се поврзани со речиси половина од случаите на деменција во светот."
+  - q: "Кој фактор на ризик е најважен?"
+    a: "Во рамките на светското население, Комисијата процени дека оштетениот слух и високиот LDL холестерол во средните години се поврзани секој со околу 7% од случаите, а потоа следат помалото образование и социјалната изолација со околу по 5%. Кои фактори се најважни за еден поединец зависи од неговото сопствено здравје, па најдобар водич е лекарот."
+  - q: "Дали двата нови фактори на ризик се додадени во 2024 година?"
+    a: "Да. Извештајот од 2024 година го додаде високиот LDL (лош) холестерол во средните години и нелекуваната слабост на видот во подоцнежниот живот на 12-те фактори наведени во 2020 година. Комисијата ги поврза со околу 7% и со околу 2% од случаите, соодветно."
+  - q: "Дали возраста е фактор на ризик што може да се промени?"
+    a: "Не. Возраста е најголемиот познат фактор на ризик за болеста на Алцхајмер и не може да се промени. И генетиката игра улога. 14-те фактори на оваа страница се оние за кои истражувањата сугерираат дека потенцијално може да се променат."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Фактор на ризик е нешто што е поврзано со поголема веројатност да се развие одредена состојба. Тој не е причина во секој случај, а тоа што некој има фактор на ризик не значи дека ќе добие деменција. Оваа страница ги наведува 14-те фактори на ризик за деменција што Комисијата на Lancet од 2024 година вели дека потенцијално може да се променат, што истражувањата ги поврзуваат со нив и за што може да разговарате со лекар.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+За поширока слика, вклучително и она што го најдоа големите испитувања, започнете со [Може ли деменцијата да се спречи? Што велат истражувањата](/brain-health/can-dementia-be-prevented/). Ова е општа информација, а не медицински совет; видете го нашиот [медицински предупредување](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Кои се 14-те фактори на ризик за деменција?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Комисијата на Lancet од 2024 година](https://doi.org/10.1016/S0140-6736(24)01296-0), во која учествуваа 27 истражувачи на деменцијата, процени дека 14 фактори на ризик што потенцијално може да се променат заедно предизвикуваат околу 45% од случаите на деменција во светот. Процентот за секој фактор подолу е проценката на Комисијата за уделот од случаите во светот поврзан со него, заокружен на цели броеви. Бројките се преклопуваат, бидејќи многу луѓе имаат повеќе ризици истовремено, затоа збирот е 45%, а не повеќе.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Фактор на ризик | Животна фаза | Удел од случаите | Што поврзуваат истражувањата | Што можете да направите |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Помалку образование | Рана возраст | 5% | Помалку години школување се поврзани со поголем ризик. Ментална активност во средните години исто така изгледа заштитно, дури и кај луѓе со малку школување. | Продолжете да учите и да правите ментално ангажирани работи во која било возраст: читање, хоби, курсеви, игри со други луѓе. |
+| Оштетен слух | Средни години | 7% | Нелекуваното оштетување на слухот е поврзано со поголем ризик. Студиите што ги следат луѓето со текот на времето ја поврзуваат употребата на слушни апарати со понизок ризик. | Проверете го слухот. Прашајте дали би помогнале слушни апарати и носете ги ако ви се препишани. Заштитете ги ушите од гласна бука. |
+| Висок LDL холестерол | Средни години (од околу 40 години) | 7% | Висок LDL („лош“) холестерол во средните години е поврзан со поголем ризик. Опсервациските студии ја поврзуваат употребата на статини со понизок ризик, но испитувањата во подоцнежниот живот тоа не го покажаа. | Прашајте го лекарот дали треба да се провери вашиот холестерол и што, ако воопшто нешто, треба да се направи. |
+| Депресија | Средни години | 3% | Депресијата е поврзана со поголем ризик. Во подоцнежниот живот, депресијата може и да биде рана појава на деменција. | Кажете му на лекар за подолготрајно лошо расположение или губење интерес подолго од две недели. Депресијата може да се лекува. |
+| Повреда на мозокот | Средни години | 3% | Повредата на главата, во која било возраст и од кој било извор, вклучувајќи и спортови со контакт, е поврзана со поголем ризик. | Носете кака при возење велосипед и при спортови со контакт. Прашајте за превенција од падови. Одморете се и проверете се по повреда на главата. |
+| Физичка неактивност | Средни години | 2% | Луѓето што вежбаат и спортуваат поретко добиваат деменција. Доказите од испитувањата сè уште се ограничени. | Прашајте која активност е безбедна за вас и најдете нешто што ви се допаѓа. Видете го нашиот [водич за вежбање](/brain-health/exercise/). |
+| Дијабетес | Средни години | 2% | Дијабетесот, особено кога почнува во средните години или трае подолго, е поврзан со поголем ризик. | Проверете го шеќерот во крвта. Ако имате дијабетес, работете со вашиот тим за нега на безбедно управување со него. |
+| Пушење | Средни години | 2% | Пушењето е поврзано со поголем ризик. Студиите покажуваат дека поранешните пушачи немаат истиот зголемен ризик како луѓето што продолжуваат да пушат. | Прашајте за помош при престанок. Вреди да се престане во која било возраст. |
+| Висок крвен притисок | Средни години | 2% | Високиот крвен притисок во средните години е поврзан со поголем ризик. Испитувањата на лекови за крвен притисок укажуваат на умерено помал ризик од деменција или когнитивно оштетување. | Знајте ги вашите вредности. Комисијата предлага горна вредност од 130 или помалку од околу 40-годишна возраст; прашајте која цел ви одговара. |
+| Дебелина | Средни години | 1% | Дебелината во средните години е поврзана со поголем ризик, а исто така ги зголемува и ризиците од дијабетес. | Прашајте го лекарот за здрава тежина за вас. Постарите возрасни не треба да се дијетираат за слабеење без медицински совет. |
+| Прекумерно пиење алкохол | Средни години | 1% | Силното пиење е поврзано со поголем ризик. Намалувањето на силното пиење е поврзано со понизок ризик. | Прашајте која е безбедна граница за вас, особено со оглед на лековите што ги земате. |
+| Социјална изолација | Подоцнежен живот | 5% | Ретките социјални контакти се поврзани со поголем ризик. | Одржувајте контакт со луѓе на начини што ви се пријатни. Видете го нашиот [водич за социјална поврзаност](/brain-health/social-connection/). |
+| Загадување на воздухот | Подоцнежен живот | 3% | Живеењето во средина со повеќе загадување на воздухот е поврзано со поголем ризик. Студиите го поврзуваат почистиот воздух со понизок ризик. | Главно е прашање на јавна политика. Следете ги локалните известувања за квалитетот на воздухот и ограничете го времето надвор на многу загадени денови. |
+| Нелекувана слабост на видот | Подоцнежен живот | 2% | Непоправените проблеми со видот се поврзани со поголем ризик. Една голема американска студија ја поврзала операцијата на катаракта со понизок ризик. | Редовно правете очни прегледи. Прашајте дали проблеми како катаракта може да се лекуваат. |
 
-## How should I read these percentages?
+## Како да ги читате овие проценти?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Внимателно. Извештајот на самата Комисија содржи неколку точки што вредат да се запаметат:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Тие опишуваат популации, а не поединци.** [Резимeто на извештајот од Универзитетскиот колеџ во Лондон](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) наведува дека намалувањето на ризикот функционира на ниво на популација и не гарантира дека некој поединец ќе избегне деменција.
+- **Тие претпоставуваат причина и последица.** Авторите вклучиле само фактори со убедливи докази, но велат дека некои врски може да бидат само делумно причински.
+- **Тоа се светски бројки.** Повеќето податоци доаѓаат од земји со висок приход, а вистинскиот удел за која било земја или заедница ќе се разликува.
+- **Малите проценти сепак се важни.** Фактор поврзан со 2% од случаите во светот сепак погодува многу голем број луѓе.
 
-## Which risk factors were added in 2024?
+## Кои фактори на ризик се додадени во 2024 година?
 
-The 2024 report added two factors to the 12 named in 2020:
+Извештајот од 2024 година додаде два фактори на 12-те наведени во 2020 година:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Висок LDL холестерол во средните години**, поврзан со околу 7% од случаите.
+- **Нелекувана слабост на видот во подоцнежниот живот**, поврзана со околу 2% од случаите.
 
-## What risk factors cannot be changed?
+## Кои фактори на ризик не можат да се променат?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging вели дека [возраста е најголемиот познат фактор на ризик за Алцхајмер](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) и никој не може да ја промени. И генетиката игра улога; еден добро познат ген што влијае на ризикот од Алцхајмер се вика APOE. NIA додава дека научниците сè уште не ја разбираат целосно причината за Алцхајмер кај повеќето луѓе. Комисијата на Lancet наведува дека потенцијално променливите ризици може да се намалат без оглед на генетскиот ризик на една личност.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Бидејќи возраста и генетиката играат толку голема улога, многу луѓе кои немаат ниту еден од 14-те фактори ипак добиваат деменција. Тоа не е ничија вина.
 
-## What does the trial evidence say about changing these risks?
+## Што велат испитувањата за промена на овие ризици?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Поврзувањето на некој фактор на ризик со деменција не е исто со докажување дека промената на тој фактор ја намалува ризикот од деменција. Неколку примери за тоа каде стојат доказите од испитувањата:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Крвен притисок.** Во испитувањето SPRINT MIND, понизока цел за крвниот притисок значајно ја намали блага когнитивна попреченост. Таа не ја намали значително веројатната деменција, иако испитувањето можеби било премалку за да го покаже тоа ([SPRINT MIND во JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Слушни апарати.** Комисијата на Lancet опишува тригодишно испитување со слушни апарати кое не покажа вкупен ефект врз размислувањето, но покажа корист кај подгрупа луѓе со поголем ризик. Студиите што ги следат луѓето со текот на времето ја поврзуваат употребата на слушни апарати со понизок ризик. Нашиот [водич за слух](/brain-health/hearing/) содржи повеќе информации.
+- **Физичка активност.** National Institute on Aging вели дека не постојат доволно клинички докази за да се заклучи дека вежбањето може да спречи или забави блага когнитивна попреченост или Алцхајмер, иако некои студии сугерираат дека може да помогне кај опаѓањето поврзано со возраста ([NIA за спречување на Алцхајмер](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Долгите испитувања што чекаат деменцијата да се развие се бавни и скапи, па за многу фактори најдобрите докази и понатаму ќе доаѓаат од студии што ги следат луѓето со години. Тие докази се корисни, но се послаби од испитување.
 
-## What about sleep and diet?
+## Што е со спиењето и исхраната?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Комисијата ги разгледа спиењето и исхраната, но не ги додаде на листата, бидејќи доказите не беа доволно силни или доследни. Нашите водичи за [спиење](/brain-health/sleep/) и [исхрана](/brain-health/diet/) објаснуваат што е познато.
 
-## Talk with a doctor
+## Разговарајте со лекар
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Годишниот преглед е добро време да ги поставите овие теми. Можете да ја понесете оваа листа и да прашате:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Какви се моите вредности за крвен притисок, шеќер во крвта и холестерол и дали некоја бара внимание?
+- Треба ли да ми се провери слухот и видот?
+- Дали активноста што ја правам е безбедна и доволна за мене?
+- Дали некој од моите лекови може да влијае на меморијата или размислувањето?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Пред да менувате лекови, исхрана, пост, вежбање или додатоци, прво разговарајте со лекар. Ако вие или некој за кого се грижите имате ненадеен конфузен говор, слабост на едната страна или тешкотии при зборување, јавете се на локалниот број за итни случаи.
