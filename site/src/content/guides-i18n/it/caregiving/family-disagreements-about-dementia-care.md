@@ -1,7 +1,7 @@
 ---
 title: "Quando la famiglia non è d’accordo sull’assistenza alla demenza"
 seoTitle: "Disaccordi in famiglia sull’assistenza alla demenza"
-description: "Un modo sereno per parlare dei disaccordi sull’assistenza alla demenza: coinvolgere la persona, separare fatti e supposizioni, dividere i compiti e chiedere aiuto esterno."
+description: "Un modo sereno per parlare dei disaccordi sull’assistenza: coinvolgere la persona, separare fatti e supposizioni, dividere i compiti e chiedere aiuto esterno."
 section: caregiving
 order: 33
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Andare in ospedale con la demenza"
 seoTitle: "Assistenza ospedaliera per chi ha la demenza"
-description: "Si prepari a un ricovero programmato o d’urgenza con la demenza: condivida le preferenze di cura, porti oggetti familiari e concordi con l’ospedale le indicazioni per le dimissioni."
+description: "Si prepari a un ricovero programmato o d’urgenza: condivida le preferenze di cura, porti oggetti familiari e concordi le indicazioni per le dimissioni."
 section: caregiving
 order: 21
 updated: 2026-11-11

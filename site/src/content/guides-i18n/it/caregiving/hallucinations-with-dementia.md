@@ -1,7 +1,7 @@
 ---
 title: "Quando una persona con demenza vede o sente cose"
 seoTitle: "Allucinazioni e demenza: passi calmi per chi assiste"
-description: "Come rispondere con calma quando una persona con demenza vede o sente cose, controllare l’ambiente e riconoscere quando un cambiamento improvviso richiede aiuto medico."
+description: "Come rispondere con calma quando una persona con demenza vede o sente cose, controllare l’ambiente e capire quando serve aiuto medico urgente."
 section: caregiving
 order: 36
 updated: 2026-11-11
