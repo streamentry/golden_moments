@@ -65,7 +65,7 @@ Pensu pri tio, kio okazis tuj antaŭ la ŝanĝo:
 
 - Ĉu la persono estis laca, malsata, soifa, tro varma aŭ malvarma, aŭ malkomforta?
 - Ĉu tasko estis malfacila, rapidigita aŭ nekonata? Ĉu iu daŭrigis, post kiam la persono montris angoron?
-- Ĉu estis laŭtaj sonoj, pluraj homoj parolantaj, ĉiu ĉirkaŭaĵo malordigita aŭ nekonata loko?
+- Ĉu estis laŭtaj sonoj, pluraj homoj parolantaj, kaj ĉirkaŭaĵo malordigita aŭ nekonata loko?
 - Ĉu la persono malfacile vidis aŭ aŭdis tion, kio okazis?
 - Ĉu medikamento, ritmo, zorganto aŭ sanstato lastatempe ŝanĝiĝis?
 
