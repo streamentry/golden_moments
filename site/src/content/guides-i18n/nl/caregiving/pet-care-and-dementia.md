@@ -1,7 +1,7 @@
 ---
 title: "Huisdierverzorging en dementie: steun bij een gedeelde routine"
 seoTitle: "Steun bij huisdierverzorging bij dementie"
-description: "Help iemand met dementie een huisdierroutine volhouden met herinneringen, afgesproken hulp en back-upplannen die de keuzes van de persoon en de behoeften van het dier respecteren."
+description: "Help iemand met dementie een huisdierroutine volhouden met herinneringen, afgesproken hulp en back-upplannen die de keuzes van de persoon en het dier respecteren."
 section: caregiving
 order: 15
 updated: 2026-11-11
