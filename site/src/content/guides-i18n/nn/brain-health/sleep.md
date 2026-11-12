@@ -69,9 +69,9 @@ bevisa er ikkje avklara.
 
 - **Ein britisk studie over 25 år.** Forskarane fulgde om lag 8000 vaksne i
   [Whitehall II-studien](https://www.nature.com/articles/s41467-021-22354-2).
-  Dei som sov seks timar eller mindre i 50- eller 60-årsalderen, hadde høgare
+  Dei som sov seks timar eller mindre ved 50 eller 60 år, hadde høgare
   risiko for å få demens seinare enn dei som sov sju timar. Dei som sov seks
-  timar eller mindre i 50-, 60- og 70-årsalderen, hadde om lag 30 % høgare risiko
+  timar eller mindre ved 50, 60 og 70 år, hadde om lag 30 % høgare risiko
   enn dei som sov sju timar jamleg. Dette var ein observasjonsstudie, så han viser
   ein samanheng, ikkje ein årsak.
 - **Lancet-kommisjonens syn.** [Lancet-kommisjonen i 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)

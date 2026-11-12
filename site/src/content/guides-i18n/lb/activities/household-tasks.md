@@ -49,7 +49,7 @@ Vill Leit mat Demenz hunn Joerzéngte laang en Haushalt geféiert, Famill gro ge
 
 ## Firwat funktionéiere Alldeeglech Hausaufgaben gutt als Aktivitéiten?
 
-Hausaufgaben klappen, well se vertraut sinn an e kloren Zweck hunn. D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) zielt Geschir wäschen, den Dësch decken, fegen, ofstauben, Post sortéieren, Wäsch falen an Recycling sortéieren ënnert den [Alldeeglechen Aktivitéiten, déi Leit mat Alzheimer gär hunn kënnen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). D'Alzheimer's Association mierkt un, dass Aufgaben wéi den Dësch decken hëllefen, dass sech eng Persoun [als wäertvollen Deel vum Haushalt](https://www.alz.org/help-support/caregiving/daily-care/activities) fillt.
+Hausaufgaben klappen, well se vertraut sinn an e kloren Zweck hunn. D'National Institute on Aging zielt Geschir wäschen, den Dësch decken, fegen, ofstauben, Post sortéieren, Wäsch falen an Recycling sortéieren ënnert den [Alldeeglechen Aktivitéiten, déi Leit mat Alzheimer gär hunn kënnen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). D'Alzheimer's Association mierkt un, dass Aufgaben wéi den Dësch decken hëllefen, dass sech eng Persoun [als wäertvollen Deel vum Haushalt](https://www.alz.org/help-support/caregiving/daily-care/activities) fillt.
 
 Eng Hausaufgab huet och en eegene Grond unzefänken. „Kënnt Dir mir mat dësen Handtiche hëllefen?“ ass méi einfach mat Jo ze beäntweren wéi „Wëllt Dir eng Aktivitéit maachen?“
 

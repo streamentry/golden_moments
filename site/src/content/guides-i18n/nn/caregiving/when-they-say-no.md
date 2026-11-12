@@ -119,7 +119,7 @@ Skriv ned:
 - korleis dei sov, åt og drakk, og når dei sist var på toalettet;
 - nye medisinar eller nyleg sjukdom.
 
-Mønster dukkar ofte fort opp: nei som berre kjem etter kl. 16, berre med eit bestemt spel, eller berre når fjernsynet er på. Family Caregiver Alliance si [rettleiing om åtferd ved demens](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) seier det enkelt: vi kan ikkje endre personen, men vi kan endre eigen åtferd og omgjevnadene.
+Mønster dukkar ofte fort opp: nei som berre kjem etter klokka fire om ettermiddagen, berre med eit bestemt spel, eller berre når fjernsynet er på. Family Caregiver Alliance si [rettleiing om åtferd ved demens](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) seier det enkelt: vi kan ikkje endre personen, men vi kan endre eigen åtferd og omgjevnadene.
 
 ## Når bør eg snakke med lege om nei eller frustrasjon?
 

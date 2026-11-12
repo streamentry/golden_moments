@@ -1,7 +1,7 @@
 ---
 title: "Aktivitéiten fir fréi Demenz"
 seoTitle: "Aktivitéiten fir fréi Demenz: Iddien, déi passen"
-description: "Aktivitéitsiddien fir fréi Demenz: Hobbyen, Spiller, Ausflich, Schreiwen a Planung zesummen, mat klenge Changementer, déi d'Persoun beweeglech a selwer bestëmmt halen."
+description: "Aktivitéitsiddien fir fréi Demenz: Hobbyen, Spiller, Ausflich, Schreiwen a Planung zesummen, mat klenge Changementer, déi d'Persoun selbstbestëmmt halen."
 section: activities
 order: 2
 updated: 2026-10-25

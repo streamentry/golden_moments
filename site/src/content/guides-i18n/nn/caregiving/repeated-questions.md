@@ -76,7 +76,7 @@ endringar i rutinen kan alle utløyse det, og eit gjentekne spørsmål kan òg v
 
 Svar roleg og kort, som om det var første gong.
 
-- **Hald svaret kort og likt kvar gong.** «Legetimen er klokka 14. Eg er saman med deg.» Eit konsekvent svar er lettare å ta inn.
+- **Hald svaret kort og likt kvar gong.** «Legetimen er klokka to på ettermiddagen. Eg er saman med deg.» Eit konsekvent svar er lettare å ta inn.
 - **Svar på kjensla.** «Du lurer på legen. Han er i ettermiddag, og eg køyrer oss. Du treng ikkje gjere noko.»
 - **Bruk ein varm tone og ei mild berøring,** viss dei likar berøring. Alzheimer's Association rår til å halde roa og ikkje
   bruke logikk eller argumentere.
@@ -96,7 +96,7 @@ Så lenge personen framleis kan lese, hjelper ein skriftleg beskjed dei kan sjå
 
 | Hjelpemiddel | Korleis du bruker det |
 | --- | --- |
-| Ein lapp med store bokstavar | «Legen i dag klokka 14. Mary køyrer.» Set han der dei ser mest |
+| Ein lapp med store bokstavar | «Legen i dag klokka to på ettermiddagen. Mary køyrer.» Set han der dei ser mest |
 | Ei kvitetavle | Dagens plan i tre eller fire linjer; vask av og skriv på nytt kvar morgon |
 | Ei stor klokke med dag og dato | Hjelper med «Kva dag er det?» og «Er det snart tid?» |
 | Ein kalender | Kryss av kvar dag; ring rundt neste besøk |

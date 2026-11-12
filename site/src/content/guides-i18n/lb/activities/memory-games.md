@@ -109,7 +109,7 @@ Phasen sinn grob Etiketten. Gitt no deem, wat d'Persoun haut genéisst.
 | --- | --- | --- |
 | Fréi | Billerpuerer, Fotopueren, Billerpuzzel mat 9 Stécker, vertraut Kaartespiller | Léiert d'Persoun wielen. Stécker kënnen ëmgedréit ginn, wann se et genéisst; loosst d'Punkten fort, wann se stéiert |
 | Mëttler | Billerpuerer mat 4 bis 6 Kaarten oben, Dat selwecht fannen, Zesumme sortéieren | Bilder ëmmer siichtbar. Sëtzt nieft hinnen a wiesselt Iech mat Hëllef of |
-| Spéit | Dat selwecht fannen mat zwou Wiel, zesumme ee grousst Bild kucken | Ganz kuerz. Dir hält den Tablet; si weist mat dem Fanger oder kuckt just a lauschtert |
+| Spéit | Dat selwecht fannen mat 2 Wiel, zesumme ee grousst Bild kucken | Ganz kuerz. Dir hält den Tablet; si weist mat dem Fanger oder kuckt just a lauschtert |
 
 ## Hëllefe Gedächtnisspiller bei Demenz?
 
