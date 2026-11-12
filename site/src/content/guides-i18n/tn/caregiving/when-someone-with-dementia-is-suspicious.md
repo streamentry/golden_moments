@@ -1,7 +1,7 @@
 ---
 title: "Fa motho yo o nang le bolwetse jwa go lebala a belaela kgotsa a go itsisa molato"
 seoTitle: "Bolwetse le go belaela: se badiidi ba ka se dirang"
-description: "Araba ka khutso go belaela ka dilo tse di timetseng, tlhomamisa dintlha, boloka ditlwaelo tse di tlhamaletseng mme o botse ngaka ka diphetogo tse di ncha kgotsa tse di tlhobaelang."
+description: "Araba ka khutso go belaela ka dilo tse di timetseng, tlhomamisa dintlha, boloka ditlwaelo tse di tlhamaletseng mme o botse ngaka ka diphetogo tse di ncha."
 section: caregiving
 order: 34
 updated: 2026-11-11

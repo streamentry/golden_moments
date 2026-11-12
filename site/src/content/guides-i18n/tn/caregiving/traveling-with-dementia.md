@@ -1,7 +1,7 @@
 ---
 title: "Go tsamaya le motho yo o nang le bolwetse jwa go lebala"
 seoTitle: "Go tsamaya le bolwetse jwa go lebala: Tataiso ya morwalo"
-description: "Rerang leeto le motho yo o nang le bolwetse jwa go lebala: tlhopha tsela e e bonolo, tlwaelo e e tlwaelegileng, dilo tse di tlhokegang le leano le le bonolo la go ipabalela."
+description: "Rerang leeto le motho yo o nang le bolwetse jwa go lebala: tlhopha tsela e e bonolo, tlwaelo e e tlwaelegileng, dilo tse di tlhokegang le leano le le bonolo."
 section: caregiving
 order: 11
 updated: 2026-11-11

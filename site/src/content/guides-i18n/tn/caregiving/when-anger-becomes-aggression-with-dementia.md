@@ -1,7 +1,7 @@
 ---
 title: "Fa motho yo o nang le bolwetse jwa go lebala a galefa kgotsa a tsamaya ka bokgoba"
 seoTitle: "Go araba bokgoba mo bolwetseng jwa go lebala"
-description: "Ithute go araba ka tsela e e sireletsang fa khalefo e fetoga bokgoba mo bolwetseng jwa go lebala, se se ka dirang gore e direge, le fa o tshwanetse go batla thuso ya bongaka kgotsa ya tshoganyetso."
+description: "Ithute go araba ka tsela e e sireletsang fa khalefo e fetoga bokgoba mo bolwetseng jwa go lebala, le gore o batle thuso ya bongaka neng."
 section: caregiving
 order: 37
 updated: 2026-11-11
@@ -61,7 +61,7 @@ Emisa tiro, tlogela sebaka mme o dirise polelo e khutshwane e e khutsafalang. [A
 
 ## Ke eng se se ka nnang le seabe mo boitshwarong jono?
 
-Gangwe go na le dilo di le dintsi, mme motlhokomedi wa lelapa ga a kgone go tlhatlhoba sepe sa ntlha. [Alzheimer's Association e bolela gore go ka nna le seabe ka bothata jwa mmele, kgatelelo ya tikologo le mathata a puisano](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger).
+Gangwe go na le dilo di le dintsi, mme motlhokomedi wa lelapa ga a kgone go tlhatlhoba sepe sa ntlha. Alzheimer's Association e bolela gore go ka nna le seabe ka bothata jwa mmele, kgatelelo ya tikologo le mathata a puisano.
 
 Akanya ka se se diragetseng pele ga phetogo:
 

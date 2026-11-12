@@ -1,7 +1,7 @@
 ---
 title: "Fa motho yo o nang le bolwetse jwa go lebala a sa go itse"
 seoTitle: "Bolwetse jwa go lebala: se o ka se buang fa motho a sa go itse"
-description: "Fa motho yo o nang le bolwetse jwa go lebala a sa go itse, ipolelele ka khutso, tlogela diteko tsa dikgopolo, dira dikeletso tse di tlwaelegileng fa di amogelwa mme o batle thuso ya diphetogo tse di tlhaga ka bonako."
+description: "Fa motho yo o nang le bolwetse jwa go lebala a sa go itse, ipolelele ka khutso, se tsaye dikgopolo, mme o batle thuso ya diphetogo tse di ncha."
 section: caregiving
 order: 32
 updated: 2026-11-11

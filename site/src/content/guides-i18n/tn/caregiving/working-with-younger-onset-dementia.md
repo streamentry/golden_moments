@@ -1,7 +1,7 @@
 ---
 title: "Go bereka morago ga tlhatlhobo ya bolwetse jwa go lebala jwa go simologa ka bonako"
 seoTitle: "Go bereka le bolwetse jwa go lebala jwa go simologa ka bonako"
-description: "Tlhatlhoba ditlhopho tsa tiro morago ga tlhatlhobo ya bolwetse jwa go lebala jwa go simologa ka bonako: sekaseka ditiro, batla tshegetso, sireletsa sephiri le go lemoga melao ya kwa lefelong."
+description: "Tlhatlhoba ditlhopho tsa tiro morago ga tlhatlhobo ya bolwetse jwa go lebala jwa go simologa ka bonako: sekaseka ditiro, batla tshegetso le go lemoga melao."
 section: caregiving
 order: 31
 updated: 2026-11-11
