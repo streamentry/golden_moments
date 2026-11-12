@@ -1,7 +1,7 @@
 ---
 title: "Mitazana olona manana dementia izay monina irery"
 seoTitle: "Monina irery miaraka amin’ny dementia: fanohanana"
-description: "Manohana olona manana dementia izay monina irery amin’ny fomba mazava, fifanarahana momba ny fitsidihana ary fanampiana ara-pampiharana, ka tazomo ny fanirian’ny olona."
+description: "Manohana olona manana dementia izay monina irery amin’ny fitsidihana mazava, fanampiana ara-pampiharana ary fanajana ny fanirian’ny olona."
 section: caregiving
 order: 12
 updated: 2026-11-11
