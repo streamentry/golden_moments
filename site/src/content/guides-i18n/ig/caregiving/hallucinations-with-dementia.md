@@ -1,7 +1,7 @@
 ---
 title: "Mgbe Onye Nwere Dementia Hụrụ ma Ọ Bụ Nụrụ Ihe"
 seoTitle: "Ihe Ịhụ na Ịnụ Ihe n'Ọnọdụ Dementia: Usoro Dị Jụụ"
-description: "Mara otu ị ga-esi zaghachi n'udo mgbe onye nwere dementia hụrụ ma ọ bụ nụrụ ihe ndị ọzọ adịghị, lelee gburugburu ebe ahụ ma mara mgbe mgbanwe ngwa ngwa chọrọ enyemaka."
+description: "Mara otu ị ga-esi zaghachi n'udo mgbe onye nwere dementia hụrụ ma ọ bụ nụrụ ihe adịghị, lelee gburugburu ebe ahụ ma mara mgbe mgbanwe ngwa ngwa chọrọ enyemaka."
 section: caregiving
 order: 36
 updated: 2026-11-11

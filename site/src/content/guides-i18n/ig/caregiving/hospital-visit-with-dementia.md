@@ -61,7 +61,7 @@ Onye ahụ kwesịrị ịbụ akụkụ nke mkparịta ụka mgbe ọ dị mma.
 
 Ọ bụrụ na njem ahụ adịghị atụ anya, kọwaa ihe mere, mgbe ọ malitere, na ihe gbanwere n'omume onye ahụ a na-ahụkarị. Ndị ọrụ nwere ike ijụ otu ajụjụ ugboro karịa otu. Ihe ndetu dị mkpirikpi nwere ike inyere gị ikwu otu nkọwa doro anya nye ndị dị iche iche.
 
-Gwa ndị ọrụ na onye ahụ nwere dementia na nkwado ndị a na-ahụkarị aka. Jụọ onye bụ onye isi kọntaktị maka ozi mmelite. Ọ bụrụ na onye ahụ nọ ã ọnụ, ihe ọmịmịmị a maara, ma ọ bụ iko anya ma ọ bụ ngwa nnụ ya nwere ike inyere, ọ bụrụ na ndị ọrụ kwuo na ha dị nchekwa iji ha.
+Gwa ndị ọrụ na onye ahụ nwere dementia na nkwado ndị a na-ahụkarị aka. Jụọ onye bụ onye isi kọntaktị maka ozi mmelite. Ọ bụrụ na onye ahụ nọ na-eche, ihe ọmịmịmị a maara, ma ọ bụ iko anya ma ọ bụ ngwa nnụ ya nwere ike inyere, ọ bụrụ na ndị ọrụ kwuo na ha dị nchekwa iji ha.
 
 Soro ntụziaka ndị otu ahụike. Tupu ị nyere aka n'nri, mmanya, ọgwụ, njem ma ọ bụ nlekọta onwe, lelee ihe dị nchekwa n'oge ahụ na ndị ọrụ. Nnwale ma ọ bụ ọgwụgwọ ụlọ ọgwụ nwere ike ime ka ihe onye ahụ nwere ike ime gbanwee maka oge.
 
