@@ -38,7 +38,7 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
@@ -129,6 +129,8 @@ Yes. A shared picture takes the pressure off and gives you both something to loo
 - **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
 
 See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+
+For a multilingual person, see our [guide to communication across languages](/caregiving/language-and-dementia-communication/).
 
 ## What if I lose my patience?
 
