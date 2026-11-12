@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: ruheg Aktivitéiten fir de spéiden Nomëtteg fir Mënschen mat Demenz"
+seoTitle: "Sundowning: ruheg Aktivitéiten um spéiden Nomëtteg"
+description: "Ruhege Rhythmus, Raumännerungen a roueg Aktivitéiten, déi d'spéi Onrou ofmanner kënnen, plus wéini een en Dokter bei neien oder schlëmmeren Symptomer ruffe soll."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning ass Onrou, Verwirrung oder Reizbarkeet, déi um spéiden Nomëtteg oder am Owend ufänkt oder schlëmmer gëtt. Praktesch Schrëtt, déi kënnen hëllefen, sinn en stabilen Dagesrhythmus, Dagesliicht an Aktivitéit fréi um Dag, manner spéit Mëttegschlofen, manner Kaffein, helle Liicht virum Dämmerung, e rouegt Doheem an roueg Aktivitéiten wéi Musek, Fotoe oder Wäsch zesummeleeën. Neien oder schlëmmere Symptomer brauchen eng Kontroll bei engem Dokter.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning ass Onrou oder Verwirrung, déi ufänkt oder schlëmmer gëtt, wann d'Dagesliicht verschwënnt."
+  - "Anspréchend Aufgaben, Ausflich a Bueden leet Dir op den Moien oder fréie Nomëtteg."
+  - "Dagesliicht, e tägleche Spadséiergank, manner spéi Mëttegschlofen an manner Kaffein kënnen d'Owenden méi roueg maachen."
+  - "Maacht d'Luuchten virum Dämmerung un, reduzéiert de Lärm a wiesselt op roueg, vertraut Aktivitéiten."
+  - "Féiert e kuerzt Notizbuch fir d'Ausléiser ze fannen, a bleift roueg a berouegend, wann d'Onrou ufänkt."
+  - "Geheft en Dokter fir neie oder schlëmmere Symptomer: Schmerz, Infektiounen oder Medikamenter kënnen eng Roll spillen."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Wéini am Dag geschitt Sundowning normalerweis?"
+    a: "Et fänkt normalerweis um spéiden Nomëtteg oder fréien Owend un oder gëtt schlëmmer, wann d'Dagesliicht verschwënnt. De genaue Moment variéiert vu Mënsch zu Mënsch, dofir hëlleft et, eng kuerz Notiz fir eng oder zwou Wochen ze féieren."
+  - q: "Wéi Aktivitéiten hëllefe bei Sundowning?"
+    a: "Roueg, vertraut Aktivitéiten mat wéineg Opwand funktionéieren um spéiden Nomëtteg dacks am beschten: berouegend Musek, Fotoe kucken, eng Lieblingsfernsehsendung oder e Film, Wäsch zesummeleeën, e kuerze Spadséiergank oder zesummen e Snack. Hieft nei oder fuerdernd Aktivitéiten fir den Moien."
+  - q: "Kann Sundowning en Zeechen fir eppes Medizinescht sinn?"
+    a: "Gesondheetsprobleemer wéi Schmerz, Infektiounen wéi Harnweeginfektiounen, Schlofprobleemer oder Niewenwierkungen vu Medikamenter kënnen et verschlëmmeren. Wann d'Onrou nei, plötzlech oder schlëmmer ass, kontaktéiert den Dokter vun der Persoun."
+  - q: "Soll ech de Dokter no Medikamenter géint Sundowning froen?"
+    a: "Dat ass e Gespréich, dat Dir mam Dokter féiere sollt. D'Alzheimer's Association seet, datt net-medikamentéis Methoden allgemeng als éischt virgezu sinn, an datt all Medikament géint d'Onrou um Owend nëmme no Ofwiegung vu Risiken a Virdeeler a Betracht gezu ginn ass. Dës Säit gëtt keng Medikamentenberodung."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Vill Familljen bemierken dat selwecht Muster: moies ass alles eng Weil roueg, awer wann de Nomëtteg virugeet, gëtt d'Persoun mat Demenz onroueg, ängschtlech, duercherneen oder liicht gerëppt. Si kënnen hin an hier goen, freet „heem ze goen“ och wann si scho doheem sinn, oder si ginn séier rëppeg. Dat gëtt dacks Sundowning genannt.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Et gëtt keng eenzeg Léisung, awer Ännerungen am Rhythmus vum Dag, am Zëmmer a bei den Aktivitéiten, déi Dir uebitt, kënnen de spéiden Nomëtteg méi roueg maachen. Dës Säit sammelt praktesch, net-medizinesch Iddien vum National Institute on Aging an der Alzheimer's Association. Si ass keng medizinesch Beratung. Wann d'Symptomer nei sinn, plötzlech kommen oder schlëmmer ginn, schwätzt mat dem Dokter vun der Persoun.
 
-## What is sundowning?
+## Wat ass Sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning ass Onrou, Agitatioun, Reizbarkeet oder Verwirrung, déi ufänkt oder schlëmmer gëtt, wann d'Dagesliicht verschwënnt, um spéiden Nomëtteg oder am fréie Owend. Den [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seet, datt eng ze grouss Middegkeet d'Onrou um spéiden Dag kann verstäerken.
 
-## What can make late-day restlessness worse?
+## Wat kann d'Onrou um spéiden Nomëtteg méi schlëmm maachen?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Verschidde Saachen kënnen dozou bäidroen, dacks zesummen. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) nennt Faktoren wéi:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- Erschöpfung no engem ganze Dag;
+- nei oder duercherneen Ëmfeld;
+- eng „intern Kierperuer“, déi net méi synchron ass, sou datt d'Persoun tagsiwwer middeg ass an nuets wach;
+- wéineg Liicht a Schatten, déi verwirrend kënne sinn;
+- Stress oder Frustratioun vu Leit ronderëm, déi d'Persoun opfänkt;
+- manner Schlof, wat bei eelere Mënsche heefeg ass.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+Den NIA nennt allgemeng méi Ursaachen vun Agitatioun, dorënner Schmerz, Depressioun oder Stress, ze wéineg Rou, Verstoppung, ze vill Lärm oder ze vill Leit, a gewëss Medikamenter oder Medikamenteinteraktiounen.
 
-## How can I plan the day to make evenings calmer?
+## Wéi kann ech den Dag sou plangen, datt d'Owenden méi roueg sinn?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Schwiereg Saachen sollten méi fréi kommen, an den spéiden Nomëtteg soll roueg a viraussiichtbar bleiwen. Souwuel den NIA wéi och d'Alzheimer's Association recommandéieren en reegelméissegen Affaang. En Beispill vun engem Dag, deen Dir un Är eegen Situatioun upasse kënnt:
 
-| Time | What may help |
+| Zäit | Wat kann hëllefen |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Moien | Rendez-vousen, Duschen, Ausflich an all Aufgab, déi Kraaft brauch, wann vill Leit am waachsten sinn |
+| Spéit um Moien | Zäit dobaussen oder beim sonnege Fënster; e Spadséiergank oder eng aner Aktivitéit |
+| Mëttes | En méi grousse Mëttegiessen (d'Alzheimer's Association schléit en gréissere Mëttegiessen an en eleichtere Owendiessen vir) |
+| Fréi um Nomëtteg | Rou wann néideg, awer vermeit laangt Schlofen spéit um Dag |
+| Mëtt bis spéit um Nomëtteg | Roueg, vertraut Aktivitéiten; e Snack an e Glas; kee Kaffi |
+| Virum Dämmerung | Interieur-Luuchten un a Rideauen zou, ier et däischter gëtt |
+| Owend | En liichte Iessen, roueg Musek, wéineg Reizer, eng steady Schlofenszäit |
 
-A few specific points from the sources:
+E puer konkret Punkte aus de Quellen:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Dagesliicht.** Den NIA schléit vir, all Dag Zäit dobaussen oder beim Fënster fir Sonneliicht ze verbréngen.
+- **Bewegung all Dag, awer net ze vill.** Ustriewen, all Dag aktiv ze sinn, ouni ze vill Aktivitéiten ze plangen, seet den NIA.
+- **Gedrénks um spéiden Nomëtteg.** Vermeit Alkohol a Gedrénks mat Kaffein, wéi Kaffi oder Cola, spéit um Dag (NIA). D'Alzheimer's Association erwähnt och Nikotin.
+- **Mëttegschlof.** Vermeit laang Schlofen a Dëseln spéit um Dag (NIA). D'Alzheimer's Association schléit vir, Mëttegschlof ze begrenzen, wann d'Nuechtschlof e Problem ass.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Fir méi iwwer en stabile Dag, kuckt [Aktivitéiten mat Alldagsroutine](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Wéi kann ech d'Doheem um spéiden Nomëtteg méi roueg maachen?
 
-Reduce noise, add light and keep familiar things close.
+Lärm reduzéieren, Liicht derbäisetzen a vertraut Saachen no beieneen halen.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Hell, gläichméisseg Liicht.** D'Alzheimer's Association recommandéiert, datt d'Heem owes gutt beliicht ass. Beliicht de Raum, ier Schiede sichtbar ginn.
+- **Manner Lärm.** Fernseh a Radio ausmaachen oder eropdréien, an Besuch oder lauter Hausaarbechten zu dëser Zäit begrenzen. D'Alzheimer's Association schléit vir, owes Reizer wéi Fernseh, Aarbechten a laut Musek ze reduzéieren.
+- **Vertraut Komfort.** Den NIA schléit berouegend Musek vir, a Liiblingsgéigestänn an Fotoe ronderëm d'Heem.
+- **Komfort-Kontrollen.** D'Alzheimer's Association recommandéiert, op Schmerz, Honger, Duuscht, Verstoppung, eng voll Blos, Middegkeet, Infektiounen a Hautirritatiounen ze kucken an de Raum op enger komfortabeler Temperatur ze halen.
+- **Är eege Stëmmung.** Mënsche spiere Stress. Den NIA schléit vir, lues ze maachen an ze probéieren, sech ze entspanen, wann Är eege Suergen d'Spannung kënnen erhéijen.
 
-## What calm activities can we do in the late afternoon?
+## Wéi roueg Aktivitéiten kënne mir um spéiden Nomëtteg maachen?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Wielt Aktivitéiten, déi vertraut sinn, ouni Hast sinn a sech liicht stoppe loossen. D'Alzheimer's Association schléit berouegend Aktivitéiten vir, wéi roueg Musek, Fotoe oder e Lieblingsfilm, an e gemeinsame Spadséiergank, fir d'Onrou ze mildere. Den NIA schléit e Snack oder en Drénk vir, eng Lieblingsfernsehsendung, Musek, e Spadséiergank, Liesen oder eng einfach Hausaarbecht wéi Wäsch zesummeleeën.
 
-Ideas to try:
+Iddien fir ze probéieren:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Wäsch zesummen zesummeleeën.** Den NIA schléit esou eng einfach Hausaarbecht vir. Handtéicher sinn einfach ze handhaben, an d'Aufgab huet en kloert Enn.
+2. **Lieblingsmusek spillen.** Vertraut Lidder aus hirer Jugend, a klenger Lautstäerkt. Mat summen zielt och. Méi Iddien stinn bei [Musekaktivitéiten](/activities/music/).
+3. **Fotoe kucken.** E Fotosalbum oder e puer Familljebiller an [Photo Pairs](/games/photo-pairs/), mat de Bilder siichtbar, kann zu enger roueger Ënnerhalung féieren.
+4. **E kuerze Spadséiergank.** Am Gaart, ëm de Block oder an engem Gank, ier et däischter gëtt.
+5. **E Snack an e Drénk deelen.** Eppes Einfaches, Waarmes a kaffeinfräi, zesummen um Dësch.
+6. **Sanft Zouuerdnen.** [Picture Pairs](/games/picture-pairs/) mat véier Kaarten a siichtbare Bilder ass einfach unzefänken an einfach ze stoppen.
+7. **Molen.** [Coloring](/games/coloring/) um Bildschierm oder op engem gedréckte Blat, ouni Zil fir ze fäerdeg ze ginn.
+8. **Kucken a schwätzen.** [Conversation Cards](/games/conversation-cards/) bidden e Bild an eng oppen Fro. Et reicht, eleng ze kucken.
+9. **Eng Atmungspaus.** [Calm Breathing](/games/calm-breathing/) ass eng lues, roueg Paus, déi Dir selwer ufänkt an ophält.
+10. **Handaarbechten.** Knäppchen oder Socke sortéieren, eng weech Decken gléicht zéien oder e vertraute Géigestand halen. Kuckt [Sensoresch Aktivitéiten](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Vermeit nei Spiller, grouss Ausflich an alles, wat um spéiden Nomëtteg vill Gedächtnis oder Konzentratioun verlaangt. Hieft dat fir den Moien.
 
-## What should I do when restlessness starts?
+## Wat soll ech maachen, wann d'Onrou ufänkt?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Bleift roueg, berouegt a lenkt sanft ëm. Den NIA schléit vir, roueg ze schwätzen, op d'Suergen vun der Persoun ze lauschteren, Diskussiounen ze vermeiden, hir ze soen, datt si a Sécherheet sinn, a sanft Beréierung ze benotzen, wann se hëllefe kann. Dann probéiert eng Ablenkung: e Snack, e Drénk, Musek oder e Spadséiergank.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+D'Alzheimer's Association schléit Sätz wéi „Dir sidd hei a Sécherheet“ an „Et deet mir leed, datt Dir opgereegt sidd“ vir, a rode, Liicht derbäi ze maachen, lues ze maachen an Reizer ze begrenzen. Dréiwt d'Persoun net an d'Eck, drängt se net, haalt se net fest, a streit net mat hinnen.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Wann d'Persoun aggressiv gëtt, rott den NIA, en sécheren Ofstand ze halen, bis d'Verhalen ophält. Bei engem Notfall ruff de lokalen Notruff un a erklär, datt d'Persoun Demenz huet. Eise [Guide iwwer Reaktioun op Wut a Aggressioun](/caregiving/when-anger-becomes-aggression-with-dementia/) hëlleft bei der direkter Sécherheet a bei deem, wat duerno ze maachen ass.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Eis Gleedungen iwwer [Kommunikatioun](/caregiving/communication-tips/) an [wat ze maachen, wann se Nee soen](/caregiving/when-they-say-no/) hunn méi iwwer berouegend Wierder.
 
-## How do I find the triggers?
+## Wéi fannen ech d'Ausléiser?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Halt eng kuerz Notiz fir eng oder zwou Wochen. D'Alzheimer's Association recommandéiert, ze verfolgen, wat virun de Sundowning-Episoden geschitt, fir d'Ausléiser ze fannen. Notéiert d'Zäit, zu där d'Onrou ugefaang huet, wat an der Stonn virdru geschitt ass, Mëttegschlofen, Iessen a Gedrénks, Besuch, Lärm a Liicht. Bréngt d'Notiz zum Dokter. Den NIA mécht drop opmierksam, datt d'Notéiere vu Verhalensännerungen Betreier an Gesondheetsdéngschtleeschtter hëllefe kann, e Muster ze erkennen.
 
-## When should I call a doctor about sundowning?
+## Wéini soll ech en Dokter wéinst Sundowning ruffen?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kontaktéiert den Dokter vun der Persoun, wann d'Onrou nei ass, plötzlech méi schlëmm gëtt oder mat anere Verännerungen kënnt. Den NIA seet, datt plötzlech oder séier wiesselend Verännerungen am Verhalen, besonnesch no enger Infektioun oder enger Medikamentenännerung, direkt dem Dokter gemellt solle ginn.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Loosst den Dokter kontrolléieren, wat d'Owenden méi schwéier kann maachen. D'Alzheimer's Association erwähnt kierperlech Probleemer wéi Harninfektiounen, Inkontinenz, rastlos Been a Schlofapnoe, a schléit vir ze froen, zu wéchen Tageszäiten all Medikament am beschten ass. Den NIA nennt Schmerz, Verstoppung a Medikamentenniewenwierkungen oder -interaktiounen ënner de méigleche Ursaachen vun Agitatioun.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+D'Alzheimer's Association seet, datt net-medikamentéis Methoden bei Schlofprobleemer, déi mat Alzheimer zesummenhänken, allgemeng virgezu sinn, a datt Medikamenter géint Onrou um Owend nëmmen a Betracht gezu ginn, wann dës net hëllefen, nodeems Risiken a Virdeeler ofgewéit goufen. Dës Entscheedung gehéiert zum Dokter. Stoppt, fänkt un oder ännert kee Medikament, Schlofmëttel oder Nahrungsergänzungsmëttel ouni medizinesch Rot.
 
-## How do I get through the evenings myself?
+## Wéi komm ech selwer duerch d'Owenden?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Déi spéit Nomëtteg kënnen de schwéierste Deel vum Dag vun engem Betreier sinn. Wann Dir kënnt, frot en Familljemember, e Frënd oder eng bezuelt Hëllef, de spéiden Nomëtteg e puer Deeg d'Woch ze iwwerhuelen, och nëmme fir eng Stonn. Eise Guide iwwer [Selbstpflege fir Betreier](/caregiving/caregiver-self-care/) listt Entlaaschtungsméiglechkeeten an d'gratis Alzheimer's Association 24/7 Helpline op.
