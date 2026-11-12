@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Sozial Kontakter an Gehirngesondheet: Einsamkeet, Isolatioun a Demenz"
+seoTitle: "Einsamkeet, sozial Isolatioun a Demenz-Risiko"
+description: "Wéi Einsamkeet a sozial Isolatioun mat Demenz-Risiko verbonnen sinn, wat den Surgeon General gesot huet, a fafach Weeër, zesummen a Kontakt ze bleiwen."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  D'Fuerschung verbënnt Isolatioun an Einsamkeet am spéiden Liewen mat engem méi héijen Demenz-Risiko. D'Lancet-Kommissioun 2024 schätzt, datt Isolatioun ongeféier 5 % vun de Fäll ausmécht, awer e Stéck vun dësem Zesummenhang kann och fréi Demenz sinn, déi zum Réckzuch féiert. A Kontakt bleiwen, gemeinsam Hobbyen a Hëllef beim Héieren, all dat hëlleft beim Zesummenhalt. Fir Leit mat Demenz sinn gemeinsam Aktivitéiten wichteg fir Freed a Liewensqualitéit.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "D'Lancet-Kommissioun zielt sozial Isolatioun am spéiden Liewen zu den 14 veränderbare Demenz-Risikofaktoren, mat ongeféier 5 % vun de Fäll."
+  - "Den US-Surgeon-General huet 2023 chronesch Einsamkeet a Isolatioun mat ongeféier 50 % méi héijem Demenz-Risiko bei eeleren Erwuessenen verbonnen."
+  - "Dat meescht vun dëser Evidenz stamt aus Beobachtungsstudien, an fréi Demenz kann selwer dozou féieren, datt Leit sech zréckzéien."
+  - "Hörverlies, Visiounsproblemer, eleng wunnen an Betreiung erhéijen all d'Risiko fir Isolatioun."
+  - "Fir Leit mat Demenz hëlleft gemeinsam Aktivitéit beim Plaisir an der Liewensqualitéit; d'Ziel ass Verbindung, keng Leeschtung."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Verursaacht Einsamkeet Demenz?"
+    a: "Dat ass net bewisen. Vill Studien verbannen Einsamkeet a Isolatioun mat engem méi héijen Demenz-Risiko, awer fréi Gehirnännerungen kënnen d'Leit och dozou bréngen, sech vun anere zréckzedrécken. Kontakt ze halen huet vill aner Virdeeler fir d'Stëmmung an d'Gesondheet, dofir ass et sech wäert, et ze ënnerstëtzen."
+  - q: "Wat ass den Ënnerscheed tëscht Einsamkeet a sozialer Isolatioun?"
+    a: "Sozial Isolatioun heescht, datt ee wéineg Leit huet, mat deenen een regelméisseg interagéiert. Einsamkeet ass dat schmerzhafte Gefill, alleng oder ofgeschnidden ze sinn. Ee kann eleng wunnen an sech net einsam fillen, oder sech einsam fillen, obwuel ee vu Leit ëmgi ass."
+  - q: "Wéi kann ech engem Elterendeel mat Demenz hëllefen, a Kontakt ze bleiwen?"
+    a: "Kuerz, regelméisseg Kontakt funktionéiert gutt. Probéiert e festen wëchentleche Uruff oder Videoruff, eng gemeinsam Aktivitéit um Kichendësch, en Erënnerungscafé oder e Besuch mat engem Déier oder engem Enkelkand. Hält d'Gruppen kleng a roueg, a loosst d'Persoun d'Tempo bestëmmen."
+  - q: "Wou fannt ech lokal Hëllef fir en eelere Mënsch, dee isoléiert ass?"
+    a: "De Eldercare Locator, en ëffentlechen Déngscht, verbënnt Familljen mat lokale Agenturen fir eeler Leit an Gemeinschaftsprogrammer. Erreechbar ass en iwwer 800-677-1116 oder op eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Mënschen sinn fir Gesellschaft gemaach, a sou ännert sech dat mat dem Alter net. Fuerschung verbënnt Einsamkeet a sozial Isolatioun am spéiden Liewen mat engem méi héijen Demenz-Risiko, och mat Häerzkrankheeten a Depressioun. D'Fuerschung kann nach net soen, wéivill vun dësem Zesummenhang Ursaach a Wierkung ass. Dës Säit erkläert, wat d'Evidenz weist, gëtt praktesch Weeër, a Kontakt ze bleiwen, a warum gemeinsam Aktivitéiten fir Leit, déi schonn mat Demenz liewen, sou wichteg sinn.
 
-## Are loneliness and isolation linked with dementia?
+## Sinn Einsamkeet a Isolatioun mat Demenz verbonnen?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Jo, vill Studien verbannen se, och wann d'Richtung net ganz kloer ass. D'[Lancet-Kommissioun 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) zielt sozial Isolatioun am spéiden Liewen zu den 14 veränderbare Risikofaktoren. [D'UCL-Zesummefaassung vum Rapport](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) setzt se op ongeféier 5 % vun de Demenzfäll weltwäit.
 
-What the evidence shows:
+D'Evidenz weist:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Manner Kontakt, méi héije Risiko.** D'Kommissioun beschreift zwee Iwwerpréiwungen, déi weniger heefeg sozialen Kontakt mat engem méi héijen Demenz-Risiko verbonnen hunn. Eng huet ongeféier 57 % méi héije Risiko fonnt, déi aner ongeféier 18 %.
+- **Och Einsamkeet.** D'Gefill, ofgeschnidden ze sinn, gouf an e puer Iwwerpréiwungen och mat engem méi héijen Demenz-Risiko verbonnen.
+- **D'Usiicht vum Surgeon General.** Am Mee 2023 huet den US-Surgeon-General e [Opruff zu Einsamkeet a Isolatioun](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) erausginn. Do steet, datt chronesch Einsamkeet a Isolatioun d'Demenz-Risiko bei eeleren Erwuessenen ëm ongeféier 50 % erhéijen kënnen. Schlechten sozialen Zesummenhalt huet hien och mat engem 29 % méi héijen Risiko fir Häerzkrankheeten an engem 32 % méi héijen Risiko fir Schlaganfall verbonnen.
+- **Wéi heefeg et ass.** E [Rapport vun den National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) fonnt, datt ongeféier 24 % vun den Amerikaner ab 65 Joer, déi an der Gemeinschaft wunnen, sozial isoléiert sinn.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+E wichtege Virbehalt: D'Lancet-Kommissioun hält fest, datt d'Leit sech an der fréier, net diagnostizéierter Phase vun der Demenz vläicht vun soziale Aktivitéiten zréckzéien. Dofir kann e Stéck vun dësem Zesummenhang sinn, datt Demenz zum Réckzuch féiert, an net nëmmen, datt de Réckzuch d'Risiko erhéicht. Bal all dës Evidenz kënnt aus Beobachtungsstudien.
 
-## What is the difference between loneliness and isolation?
+## Wat ass den Ënnerscheed tëscht Einsamkeet a Isolatioun?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+Den [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) erkläert et esou: **Sozial Isolatioun** heescht, datt ee wéineg sozial Kontakter huet oder wéineg Leit, mat deenen ee regelméisseg interagéiert. **Einsamkeet** ass dat belaaschtend Gefill, alleng oder ewechgetrennt ze sinn. Een kann eleng wunnen a glécklech sinn, a kann sech an engem vollen Zëmmer einsam fillen.
 
-The NIA lists factors that raise the risk of both:
+Den NIA nennt Faktoren, déi d'Risiko vun deenen zwee erhéijen:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Hör- oder Visiounsproblemer
+- Schwieregkeeten beim Sech-Bewegen oder keng Transportméiglechkeet
+- Eleng wunnen oder e grousse Verloscht, wéi den Doud vum Partner oder d'Pensioun
+- Verännerunge beim Erënnere oder beim Denken
+- Fir e Familljemember suergen, deen krank ass
+- Suergen ëm Geld oder Sproochbarrièren
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Gehéier ass e grousst Thema. Den NIA hält fest, datt Leit, déi schlecht héieren, sech zréckzéie kënnen, well d'Gespréich frustrant oder peinlech gëtt. Eis [Guide iwwer Gehéier an Gehirngesondheet](/brain-health/hearing/) decksch Gehéierkontrollen an rezeptfräi Hörgeräter.
 
-## Practical ways to stay connected
+## Praktesch Weeër, a Kontakt ze bleiwen
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+Den NIA schléit eng Rei vun Iddien vir. Wielt een oder zwee, déi passen:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Plangt fest Kontakt.** Eng fix Zäit all Dag oder Woch, fir mat Familljen, Frënn oder Noperen ze telefonéieren, ze schreiwen, e Message ze schécken oder eng Kaart ze schécken.
+- **Benotzt Videoruffen oder Smart Speaker.** Wann d'Technik nei ass, bidden vill ëffentlech Bibliothéiken an Gemeinschaftszentren Coursen un. Kuckt eis [Guide iwwer Telefon- an Videoruffen](/activities/phone-and-video-calls/).
+- **Maacht bei eppes mat.** En Cours, eng Glawensgemeinschaft, eng Spazéiergruppe oder eng Fräiwëlleger-Roll gëtt Iech Kontakt an e Gefill vun Zweck.
+- **Fänkt en alt Hobby nei un** oder léiert eppes Neies mat anere Leit.
+- **Bewegt Iech mat anere.** Sport mat engem Frënd oder enger Grupp. Eise [Bewegungsguide](/brain-health/exercise/) huet sanft Optiounen.
+- **Iwwerleet en Déier**, wann Dir fir een suergen kënnt.
+- **Notzt lokal Déngschtleeschtungen.** Senioren-Zentren, d'Area Agencies on Aging an den Eldercare Locator (800-677-1116) kënnen Iech op Programmer an Transport hiweisen.
 
-## Why do shared activities matter in dementia?
+## Firwat sinn gemeinsam Aktivitéiten bei Demenz wichteg?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Fir Leit, déi schonn mat Demenz liewen, geet et bei Kontakt ëm Freed, Komfort a d'Gefill, dobäi ze sinn, net ëm d'Reduzéierung vum Risiko. D'Lancet-Kommissioun hält fest, datt Aktivitéiten hëllefen, datt Leit mat Demenz Freed a Sënn bewahren. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) hält fest, datt Aktivitéiten nieft der Liewensqualitéit och Verhalen wéi Ëmherlafen oder Opgereegtheet kënnen reduzéieren. Den [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fügt bäi, datt Leit mat Alzheimer aktiv sinn a Saache maache sollen, déi se gär hunn.
 
-Ideas that work well:
+Iddien, déi gutt funktionéieren:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Kuckt zesummen Biller un.** [Gesprächskaarten](/games/conversation-cards/) bidden oppe Froen ouni Quiz, wéi „Erzielt mir iwwer...“. Kuckt eis [Erënnerungsguide](/activities/reminiscence/).
+2. **Spillt nieft-eneen.** [Picture Pairs](/games/picture-pairs/) hält d'Biller siichtbar a huet keen Timer a keng Punkten, dofir gëtt et keen Drock. Eise Guide iwwer [wéi een zesumme spillt](/caregiving/how-to-play-together/) huet Tipps.
+3. **Benotzt Familljefotoen.** [Photo Pairs](/games/photo-pairs/) mécht aus Fotoen, déi Dir wielt, en Zuordnungsspill, an d'Fotoen bleiwen op Ärem Apparat.
+4. **Bréngt Leit zesummen.** [Picture Bingo](/games/picture-bingo/) passt fir Familljentreffen an [Gruppen a Pflegeheemer](/activities/care-home-groups/).
+5. **Deelt Musek, Haushaltsaarbecht oder de Gaart.** Kuckt [Musekaktivitéiten](/activities/music/), [Haushaltsaufgaben](/activities/household-tasks/) an eis ganz Lëscht vun [Aktivitéitsiddien](/activities/ideas/).
+6. **Maacht Besuche méi einfach.** Eise [Besuchsguide](/activities/visiting/) beschreift kuerz, roueg Besuche, déi fir jiddereen gutt sinn.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Hält et kleng a locker. E roueg Zëmmer mat engem oder zwou Leit funktionéiert dacks besser wéi eng grouss Grupp. Wann d'Persoun midd gëtt oder d'Interesse verléiert, ass et ok, opzehalen. Zesumme mat enger Tass Téi sëtzen ass och e gutt Resultat.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Fir eng Persoun, déi alleng mat Demenz wunnt, schléit den NIA vir, eng vertrauenswäert Persoun ze fannen, déi regelméisseg op Besuch kënnt oder per Videoruff ukënnt, an als Notfallkontakt déngt. Hie nennt och en Erënnerungscafé vun der Plaz, e lockere soziale Raum fir Leit mat Erënnerungsverloscht an hir Familljen.
 
-## Caregivers get lonely too
+## D'Betreier sinn och eleng
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+Den NIA nennt et e Risikofaktor fir Isolatioun, fir ee Familljemember ze pflegen. Reservéiert Iech Zäit fir Är eegen Frëndschaften, Ënnerstëtzungsgruppen a Rou. Eise [Guide iwwer Selbstfleeg fir Betreier](/caregiving/caregiver-self-care/) huet praktesch Iddien.
 
-## Talk with a doctor
+## Mam Dokter schwätzen
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Wann Dir oder d'Persoun, fir déi Dir suergt, sech dacks einsam oder isoléiert fillt, sot et engem Dokter. Den NIA ermutegt d'Leit, gréisser Liewensännerungen ze deelen, wéi en Doudesfall an der Famill, sou datt de Dokter dat ganzt Bild versteet. Wann een Wochen laang niddergeschloe ass, kann dat Depressioun sinn, an déi kann behandelt ginn. Wann eng eeler Persoun sech vun Frënn oder Aktivitéiten zréckgezunn huet, déi si fréier gär hat, ass och dat e Punkt, dee sech lount, dem Dokter ze soen. Liest [fréi Zeeche a wann Dir zum Dokter gitt](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dës Säit ass allgemeng Informatioun, keng medizinesch Berodung. Kuckt eis [medizinesch Ausschlussklausel](/medical-disclaimer/).
