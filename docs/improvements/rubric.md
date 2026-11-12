@@ -303,3 +303,7 @@ This English guide adds no app or site behavior. The build and checker can valid
 ## Round 86 score note (2026-11-11)
 
 This English guide adds no app or site behavior. Automated checks can validate the page, route and links; they cannot show whether a remote caregiver or the person receiving support finds the plan useful. No reader, caregiver, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 87 score note (2026-11-11)
+
+This content change adds no app or site behavior. Automated checks validate the changed page and links, but cannot show whether these questions feel comfortable to a person newly diagnosed with dementia or help a family use their wishes well. No reader, caregiver, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
