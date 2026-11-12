@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Attivitajiet għal rġiel bid-dimenzja"
+seoTitle: "Attivitajiet għal rġiel bid-dimenzja: Ideat ta’ ħajja reali"
+description: "Ideat għal rġiel li qed jgħixu bid-dimenzja, mibnija fuq ix-xogħol, il-ħobbies u r-rutini tal-passat, mhux fuq stereotipi, b’parir biex taddattahom b’mod sikur."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  L-aħjar attivitajiet għal raġel li qed jgħix bid-dimenzja ġejjin mill-ħajja tiegħu
+  stess: ix-xogħol li għamel, il-ħobbies li kien iħobb u r-rutini li kien iżomm. Impjegat
+  ta’ uffiċċju qabel jista’ jgawdi jorganizza karti, mekkaniku jista’ jgawdi jaħdem
+  b’għodda nadifa, u fan tal-isports jista’ jgawdi logħba antika. L-interessi jvarjaw
+  minn raġel għal ieħor, għalhekk ibda mill-persuna, mhux mis-sess tagħha.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Ibda mill-istorja ta’ dan ir-raġel: ix-xogħol tiegħu, il-ħobbies, ir-rutini u dak li kien kburi bih."
+  - "Xogħlijiet b’skop reali, bħal qsim ta’ hardware, il-ħasil tal-karozza jew it-tlissir tal-injam, ħafna drabi jiġbdu aktar minn attivitajiet li jħossu bħal klassi."
+  - "Mhux kull raġel iħobb l-għodod jew l-isports. Ħafna jgawdu t-tisjir, il-mużika, il-ġnien, l-arti jew il-kura ta’ oħrajn. Staqsi, oqgħod attent u segwi t-tmexxija tiegħu."
+  - "Agħmel ix-xogħlijiet tax-xogħol sikuri billi tneħħi l-għodod qorrieqa u tissorvelja, u issimplifikahom hekk kif l-abilitajiet jinbidlu."
+  - "Jista’ jgħid le. Offri rwol, mhux inkarigu, u erġa’ pprova f’jum ieħor."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "X’attivitajiet jgawdu rġiel bid-dimenzja?"
+    a: "M’hemm l-ebda lista waħda, għax l-interessi tar-rġiel jvarjaw daqs kull ħadd ieħor. Bidu tajjeb huma xogħlijiet marbuta mal-impjieg tal-passat tiegħu, bħal li jorganizza karti jew iqassam il-bolts u l-hardware, flimkien ma’ ħobbies li kien iħobb, bħas-sajd, il-karozzi, il-mużika, it-tisjir jew l-isports. Ara x’jagħmel waħdu u ibni fuqu."
+  - q: "Missieri jirrifjuta attivitajiet f’grupp. X’nista’ nagħmel?"
+    a: "Ħafna nies, rġiel u nisa, jirrifjutaw attivitajiet li jħossu bħal klassi jew li jidhru tfulija. Ipprova toffrilu xogħol minflok: “Tista’ tgħinni naqsmu dawn?” Gruppi iżgħar jew ħin wiċċ imb’wiċċ jistgħu jħossu aktar komdi minn kamra kbira."
+  - q: "Huwa sikur li nħallih juża għodod?"
+    a: "Biss b’superviżjoni u għodod sikuri. Neħħi l-għodod bil-elettriku, il-lamijiet u kull ħaġa qorrieqa, u offri xogħlijiet bħal tlissir ta’ blokka injam, qsim ta’ hardware nadif, jew tixdid ta’ bolts kbar bl-idejn. L-Alzheimer’s Association jissuġġerixxi li tneħħi oġġetti perikolużi mill-workshop sabiex attività bħat-tlissir tibqa’ tgawdi b’mod sikur."
+  - q: "Kien professjonist. Ix-xogħlijiet sempliċi jistgħu jħossuh insultat?"
+    a: "Jistgħu, jekk jiġu ppreżentati bħala xogħol ta’ bla bżonn. Ippreżenta x-xogħol bħala għajnuna reali, uża materjali għall-adulti, u agħżel xi ħaġa qrib ir-rwol tiegħu tal-passat, bħal li jirrevedi lista, jorganizza fajl jew jgħin jgħabbi mailing. Jekk kien tajjeb ħafna f’xi ħaġa, attività relatata iżda differenti tista’ tħoss inqas bħal paragun."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+In-nies spiss ifittxu “attivitajiet għal rġiel bid-dimenzja” għax is-suġġerimenti tas-soltu ma jidhrux li jaqblu mar-raġel fil-ħajja tagħhom. Dan it-tħassib huwa ġust. Iżda t-tweġiba mhix lista ta’ attivitajiet “tar-raġel”. Hija li tibda minn dan ir-raġel partikolari: x’kien jagħmel għall-għajxien, x’kien jagħmel fl-aħħar tal-ġimgħa, u dak li kien iħoss li jagħmlu utli. L-interessi jvarjaw għal kulħadd. Ħafna rġiel iħobbu jisajru, jaħdmu fil-ġnien, jipitturaw jew jgħannu, u ħafna nisa iħobbu l-karozzi u l-baseball.
 
-## How do I find activities he will actually enjoy?
+## Kif insib attivitajiet li verament jogħġbuh?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Ibda mill-istorja tal-ħajja tiegħu. L-Alzheimer’s Association jissuġġerixxi li tibni [pjan ta’ kuljum](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) madwar il-preferenzi, dak li ma jogħġobx, il-qawwiet u l-interessi tal-persuna, u madwar kif kien jorganizza l-ġurnata tiegħu. Staqsi lilek innifsek:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **X’kien ix-xogħol tiegħu?** Uffiċċju, razzett, fabbrika, mestiere, militar, bejgħ, tagħlim, sewqan, id-dar?
+- **X’kien jagħmel fil-ħin liberu?** Sajd, logħba tal-karti, xogħol tal-injam, sports, knisja, mużika, tisjir, karozza fil-garaxx?
+- **X’kienu r-rutini tiegħu?** Kafè u l-gazzetta kuljum filgħodu? Jiċċekkja t-temp? Jaħsel il-karozza fis-Sibt?
+- **X’jibda waħdu?** L-Association jgħid li jekk persuna tibda xogħlijiet mingħajr ma tintalab, bħal li tiknes l-art, dawk ix-xogħlijiet jistgħu jsiru parti mir-rutina.
+- **X’jevita?** Xi nies jgawdu jaraw sports; oħrajn isibu l-ħeffa u l-istorbju jdejqu. Innota meta jidher kuntent, ansjuż jew irritat.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Kellem ukoll lill-familja u lil ħbieb qodma. Jista’ jkollhom memorji ta’ interessi li kellu u li tbiegħdu minn ħajtu ta’ kuljum.
 
-## Activity ideas based on past work
+## Attivitajiet ibbażati fuq ix-xogħol tal-passat
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+L-Alzheimer’s Association jagħti eżempju ċar: impjegat ta’ uffiċċju qabel jista’ jgawdi jorganizza affarijiet, bħal li jpoġġi muniti f’kontenitur, jgħin fl-imħallat ta’ mailing jew jagħmel lista ta’ dak li jrid jagħmel, filwaqt li bidwi jew ġardinar qabel jista’ jgawdi jaħdem fil-bitħa. L-istess idea tapplika għal ħafna xogħlijiet.
 
-| Past work | Activity ideas | Simpler version |
+| Xogħol tal-passat | Ideat ta’ attività | Verżjoni aktar sempliċi |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Uffiċċju jew negozju | Qsim tal-karti f’folders, timbrar tal-envelops, qari ta’ lista, organizzazzjoni ta’ kexxun tal-iskrivanija | Tkomma l-envelops; tpoġġi l-clips f’kaxxa |
+| Mestieri jew mekkaniċi | Qsim ta’ ġewż, bolts u washers nodfa; xedd bolts kbar bl-idejn; qari f’katalogi ta’ għodod | Qsim skont id-daqs f’żewġ tazzi |
+| Biedja jew ġardinaġġ | Ssaqqija, tqegħid tal-pjanti f’kontenituri, tqaxxir tal-weraq, tiċċekkja l-ġnien | Joqgħod barra waqt li taħdem; iżomm pakketti taż-żerriegħa |
+| Militar | Tlissir taż-żraben, tqegħid fl-ordni tal-kexxun, qari ta’ ritratti mis-servizz jekk jgawduhom | Jisma’ mużika ta’ dak iż-żmien |
+| Bejgħ jew servizz lill-klijenti | Jilqa’ l-viżitaturi, iqassam spuntini, iqassam kupuni | Joqgħod qrib il-bieb biex jgħid “hello” |
+| Tagħlim | Qari b’leħen għoli, tqegħid tal-kotba fl-ordni, qsim tar-ritratti skont it-tema | Tfittex flimkien ktieb tar-ritratti |
+| Sewqan jew trasport | Jara mapep jew rivisti tal-karozzi tal-qadim, jaħsel il-karozza | Jħares il-karozzi għaddejjin minn fuq il-ħajt tal-bitħa |
+| Dar u familja | Tqaxxir il-ħwejjeġ, tqegħid tal-mejda, għajnuna mal-ikel | Tlissir tal-linzuli; tħawwad |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Xi memorji, bħas-servizz militari, jistgħu jqajmu sentimenti qawwija. Segwi t-tmexxija tiegħu, żomm il-kliem dwar il-passat pożittiv, u bidel is-suġġett bil-mod jekk jidher iddispjaċut.
 
-## Activity ideas based on hobbies
+## Attivitajiet ibbażati fuq il-ħobbies
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Xogħol tal-injam.** Tlissir ta’ blokka injam lixxa jew tpittir ta’ kit ta’ dar tal-għasafar. L-Alzheimer’s Association jissuġġerixxi li tneħħi materjali u għodod perikolużi mill-workshop sabiex attività bħat-tlissir tkun tgawdija u sikura.
+2. **Sajd.** Qsim ta’ kaxxa tal-ħut b’ganċijiet imneħħija, qari f’rivisti tas-sajd, jew joqogħdu bilqiegħda qrib għadira flimkien.
+3. **Karozzi.** Tħasil il-karozza, tleqqi l-krom, tara ritratti ta’ karozzi klassiċi, jew tmur għal sewqa bħala passiġġier.
+4. **Sports.** Tara logħba klassika jew highlights, tarmi ballun artab, tpoġġi ballijiet tal-golf fuq tapit, jew tqassam kartoncini tal-baseball.
+5. **Karti u logħbiet.** Idejn sempliċi ta’ logħba familjari tal-karti, domino, jew tqalleb il-karti biex issib pari. Żommha rilassata u itfa’ ż-żamma tal-punteġġ.
+6. **Mużika.** Kanzunetti mis-snin tiegħu taż-żgħożija, banda favorita, jew innu. Ara [il-gwida tagħna dwar l-attivitajiet tal-mużika](/activities/music/).
+7. **Tisjir u xwiwi.** Tħasil il-ħxejjex, tħawwad is-salsa, tfassal il-burgers, jew tiddeskrivi kif kien jagħmel il-chili famuż tiegħu waqt li tisajjar.
+8. **Il-gazzetta.** L-Alzheimer’s Association jgħid li persuna li dejjem qrat il-gazzetta xorta tista’ tkompli tgawdi dan, anke jekk ma tkunx tista’ tifhem kollox. Il-kafè u l-gazzetta jistgħu jibqgħu parti mill-filgħodu.
+9. **Bini.** Kits ta’ mudelli b’biċċiet kbar jew settijiet sempliċi tal-kostruzzjoni għall-adulti. Agħżel biċċiet li jkun faċli jaqbduhom.
+10. **Tieħu ħsieb ta’ xi ħaġa.** Tmiss lill-annimal, timla l-mangjatoja tal-għasafar, jew issaqqi l-pjanti. In-NIA jelenka [l-ikel, it-tindif jew il-mixi ma’ annimal domestiku](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) fost l-attivitajiet li n-nies jistgħu jgawdu.
 
-## How do I offer an activity without it feeling like busywork?
+## Kif noffri attività mingħajr ma tħoss bħal xogħol ta’ bla bżonn?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Ippreżentaha bħala għajnuna reali. L-Alzheimer’s Association jissuġġerixxi li tistaqsi “Tista’ tgħinni, jekk jogħġbok?” u tgħaqqad ix-xogħlijiet ma’ skop. Qabbel:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- “Trid tqassam dawn il-bolts?” (jidher bħal test)
+- “Xtrajt borża mħalltta ta’ hardware u neħtieġ li dawn jinqasmu qabel ma nsewwi x-xkaffa. Tista’ tgħinni?” (jidher bħal xogħol)
 
-Other tips:
+Parir ieħor:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Uża materjali għall-adulti.** Għodod veri b’truf qorrieqa mneħħija, katalogi veri, envelops veri.
+- **Ħadmu ġenb ġenb.** Żewġ persuni jaħdmu fuq xogħol huwa kumpanija. Persuna waħda tħares lil oħra hija sorveljanza.
+- **Tikkoreġix.** Jekk il-bolts jispiċċaw fit-tazza ħażina, ħalliha tgħaddi. L-importanti huwa l-ħin flimkien u s-sensazzjoni li tkun utli.
+- **Għinu jibda.** L-Alzheimer’s Association jgħid li ħafna nies għadhom għandhom ix-xewqa li jagħmlu affarijiet imma jħabbtu wiċċhom ma’ diffikultà biex jorganizzaw u jibdew. Agħmel l-ewwel waħda flimkien.
 
-## How do I adapt as things change?
+## Kif taddatta hekk kif jinbidlu l-affarijiet?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Hekk kif id-dimenzja tavvanza, l-Alzheimer’s Association jissuġġerixxi li tintroduċi xogħlijiet aktar sempliċi u ripetittivi u li tkun lest għal rwol inqas attiv għall-persuna. Raġel li kien darba jibni mutturi jista’ issa jgawdi li jżomm ċavetta nadifa u jitkellem dwar karozzi, jew jara lilek taħdem. L-osservazzjoni hija parteċipazzjoni.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Jekk kien tajjeb ħafna f’xi ħaġa, attività relatata tista’ tħossha aħjar mill-mestiere antik tiegħu. L-Association jgħid li pittur professjonali jista’ jkun frustrat bil-bidliet fix-xogħol tiegħu, filwaqt li dilettant jista’ jgawdi triq ġdida. L-istess japplika għal nagħġar mastru.
 
-## Safety with work-style tasks
+## Sigurtà f’xogħlijiet bħal dawk tax-xogħol
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Neħħi għodod bil-elettriku, lamijiet, msiemer u vit b’truf qorrieqa.
+- Agħlaq jew aħżen is-solvent tal-pittura, il-petrol u l-kimiċi.
+- Żomm iċ-ċwievet tal-karozza moħbija jekk ma jsuqx aktar.
+- Issorvelja l-kompiti kollha tal-workshop u tal-bitħa.
+- Agħżel biċċiet kbar li ma jistgħux jinbelgħu.
 
-## What if he says no?
+## X’jiġri jekk jgħid le?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Irrispettah. Le jista’ jfisser li x-xogħol jidher iebes wisq, tfulija wisq jew sempliċiment mhux xieraq illum. L-Alzheimer’s Association iwissi li ma tiforzax. Ipprova xogħol differenti, ħin ieħor, jew sempliċiment oqgħodu flimkien. Ara [x’tagħmel meta jgħidu le](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Logħbiet u konverżazzjoni li jaqblu
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) juża kliem u proverbji Amerikani familjari u jwassal għal konverżazzjoni. [Conversation Cards](/games/conversation-cards/) għandha mistoqsijiet miftuħa, mingħajr eżami, skont it-tema, li jistgħu jiftħu stejjer dwar ix-xogħol u l-ħobbies. [Picture Puzzle](/games/picture-puzzle/) iżomm ir-ritratt kollu viżibbli waqt li tbiddel il-biċċiet, u l-[Word Search](/games/word-search/) bl-ittri kbar tista’ tiġi stampata u tinħall b’pinna fuq il-mejda tal-kuċina. Għal modi biex titkellmu dwar il-passat tiegħu mingħajr ma tittestjah, ara [il-gwida tagħna dwar it-tfakkir](/activities/reminiscence/).
