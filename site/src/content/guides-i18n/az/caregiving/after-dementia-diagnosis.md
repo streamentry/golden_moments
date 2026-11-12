@@ -85,7 +85,7 @@ Tək diaqnoz şəxsin nəyə qərar verə biləcəyini və necə iştirak etmək
 - “Gələcək qayğı barədə danışanda kimin iştirak etməsini istərdiniz?”
 - “Kömək lazım olanda sizi rahat və hörmətli hiss etdirən nədir?”
 - “Qayğı komandanızın sizin üçün vacib olan nələri bilməsini istədiyiniz bir şey varmı?”
-- “Dediklərinizi yazmağımı istərdiniz, və bunu kimin görməsi lazımdır?”
+- “Dediklərinizi yazmağımı istərdiniz və bunu kimin görməsi lazımdır?”
 
 Qərar tələb etmədən dinləyin. [Milli Qocalma İnstitutu dəyərlər və üstünlüklər haqqında mənalı söhbətləri qabaqcıl qayğı planlaşdırmasının mərkəzi hissəsi kimi təsvir edir](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). Şəxs razılaşsa, sözlərini, tarixi və kimin iştirak etdiyini qeyd edin. Qeydi kimsə ilə paylaşmazdan əvvəl icazə alın. Bu qeydlər sonrakı söhbətlərə yol göstərə bilər, lakin onlar hüquqi sənəd və ya tibbi tapşırıq deyil.
 
