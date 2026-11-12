@@ -15,7 +15,7 @@ keyPoints:
   - "Adamdan syýahat etmek isleýändigini we nämäniň syýahaty dolandyrmagy aňsatlaşdyryp biljekdigini soraň."
   - "Tanyş maksady, ýönekeý ýoly we adama laýyk gelýän günüň wagtyny saýlaň."
   - "Zerur dermany, habarlaşyk maglumatyny, syýahat meýilnamasyny, iýmiti we üýtgeşik eşigi alyp ýörüň."
-  - "Syýahat ýadadýan ýa-da seredýän bolsa, nädip duruzmalydygyny, gysgaltmalydygyny ýa-da tamamlamalydygyny meýilleşdiriň."
+  - "Syýahat ýorgunlandyryjy ýa-da aljyrandyryjy bolsa, nädip duruzmalydygyny, gysgaltmalydygyny ýa-da tamamlamalydygyny meýilleşdiriň."
 faq:
   - q: "Demensiýasy bolan adam syýahat edip bilermi?"
     a: "Hemmeler üçin bir jogap ýok. Adamyň islegini, saglygyny, hereketini we tanyş bolmadyk ýerlere bolan jogabyny göz öňünde tutuň. Gysga ýa-da tanyş syýahat has laýyk bolup biler. Lukmançylyk ýa-da derman soraglary üçin saglyk hünärmenine ýüz tutuň."
@@ -37,7 +37,7 @@ related: [activities/holidays, activities/visiting, caregiving/communication-tip
 health: false
 ---
 
-Adam gitmek isleýän we meýilnama onuň zerurlyklaryna laýyk gelýän bolsa, syýahat ýene-de bir mümkinçilik bolup biler. Maşgala ýanyna gysga baryş, dykyz tur-dan has aňsat bolup biler; bir günlük gezelenç bolsa gijelik galmakdan has amatly. Adamdan syýahatdan näme isleýändigini soraň, soňra duruzmak ýa-da üýtgetmek üçin ýer goýan meýilnama düzüň.
+Adam gitmek isleýän we meýilnama onuň zerurlyklaryna laýyk gelýän bolsa, syýahat ýene-de bir mümkinçilik bolup biler. Maşgala ýanyna gysga baryş, dykyz turdan has aňsat bolup biler; bir günlük gezelenç bolsa gijelik galmakdan has amatly. Adamdan syýahatdan näme isleýändigini soraň, soňra duruzmak ýa-da üýtgetmek üçin ýer goýan meýilnama düzüň.
 
 [Alzheimer's Association-yň syýahat gollanmasy](https://www.alz.org/help-support/caregiving/safety/traveling) bilen [Dementia Australia-nyň syýahat maslahaty](https://www.dementia.org.au/living-dementia/staying-connected/travelling-dementia) adamyň rahatlygyna we tertibine görä meýilleşdirmegi nygtaýarlar. Bu gollanma umumy taýýarlyk pikirlerini berýär; belli bir adam üçin syýahatyň howpsuzdygy barada karar däldir.
 
@@ -61,10 +61,10 @@ Dynç we maşgala ýygnaklary üçin [rahat dynç gollanmamyzda](/activities/hol
 
 ## Näme ýygnamaly?
 
-Ýük bilen goýulýan çemedanyň ýerine, ynanýan ýoldaşyňyzda galýan kiçi syýahat halta esasy zatlary alyp ýörüň.
+Ýük bilen goýulýan çemedanyň ýerine, esasy zatlary öz ýanyňyzda saklaýan kiçi syýahat haltasyny alyp ýörüň.
 
 - **Derman we saglyk maglumaty.** Adamyň adaty dermanyny asyl gaplaryndaky ýagdaýda, meýilleşdirilen syýahata we makul gijikmä ýeterlik mukdarda, şeýle hem täze derman sanawy bilen alyň. Resept bilen berilýän dermanlar bilen syýahat etmezden ozal häzirki ulag we barýan ýeriň düzgünlerini barlaň. Dozany we wagtyny ýazylyşy ýaly saklaň.
-- **Şahadatnama we habarlaşyklar.** Adamyň şahadatnamasyny, kabul ediljek ýeriň salgysyny, gyssagly habarlaşyk maglumatyny we ýazylan syýahat meýilnamasyny alyp ýörüň. Kömek etmek we ylalaşmak ýeterlik bolsa, idegçiniň habarlaşyk maglumatlaryny ýazan kartoçka goşuň.
+- **Şahadatnama we habarlaşyklar.** Adamyň şahadatnamasyny, kabul ediljek ýeriň salgysyny, gyssagly habarlaşyk maglumatyny we ýazylan syýahat meýilnamasyny alyp ýörüň. Kömek etmek we ylalaşmak ýeterlik bolsa, idegçiniň habarlaşyk maglumatlaryny ýazan kart goşuň.
 - **Rahatlandyryjy zatlar.** Gözaýnak, eşidiş kömekçisi we olaryň batareýasy ýa-da zarýadkasy, tanyş naharlar, suw, salfetka, ýeňil gatlak we üýtgeşik eşik. Tanyş zat ýa-da surat tanyş bolmadyk otagda ýerleşmegi aňsatlaşdyryp biler.
 - **Möhüm maglumatlaryň nusgalary.** Biletleriň, bronlaryň, sygortanyň we degişli saglyk maglumatlarynyň kagyz ýa-da sanly nusgasyny saklaň. Syýahat meýilnamasyny siz bilen syýahat etmeýän ynanýan adam bilen paýlaşyň.
 
@@ -74,7 +74,7 @@ Alyp barjak maglumatyňyzyň mukdary syýahata bagly. Şahsy maglumatlary howpsu
 
 Adama indiki ädimi bir-birden aýdyň. Taýýarlanmak, bellemek, hajathana gitmek we ýerlerara geçmek üçin goşmaça wagt beriň. Meýilnama üýtgände uzyn meýilnamany gaýtalamazdan, indiki ädimi ýönekeý düşündiriň.
 
-Köpçülikli ýa-da tanyş bolmadyk ýerlerde bile duruň. Adam ýadap ýa-da aljyrasa, has rahat ýerde duruň, suw ýa-da tanyş iş teklip ediň we dowam etmegi bile karar beriň. Adamy tanyş bolmadyk ýerde ýalňyz goýmaň; ol ýerde ol aljyrap ýa-da aladalanyp biler.
+Köpçülikli ýa-da tanyş bolmadyk ýerlerde bile duruň. Adam ýorgun ýa-da aljyrasa, has rahat ýerde duruň, suw ýa-da tanyş iş teklip ediň we dowam etmegi bile karar beriň. Adamy tanyş bolmadyk ýerde ýalňyz goýmaň; ol ýerde ol aljyrap ýa-da aladalanyp biler.
 
 Uçuş ýa-da uly ýerleşýän stansiýa ulansaňyz, üpjünçiden haýsy kömegiň bardygyny we ony nädip soramalydygyny soraň. Tertipler üýtgäp biler, şonuň üçin syýahatdan öň jikme-jikleri göni awiakompaniýadan, stansiýadan ýa-da çäreden tassyklaň. Häzirki howpsuzlyk ýa-da elýeterlilik düzgünleri üçin köne sanawa ynanmaň.
 
@@ -82,7 +82,7 @@ Uçuş ýa-da uly ýerleşýän stansiýa ulansaňyz, üpjünçiden haýsy köme
 
 Adam gitmek isleseler, syýahat gijikdirilse ýa-da kimdir bir adam dynç almaly bolsa, öňünden näme etjekdigiňizi karar beriň. Telefon arkaly kömek edip biljek bir habarlaşyjy saýlaň. Kabul ediljek ýeriň salgysyny we yzyna gaýdyş ýoluny tapmak aňsat saklaň, sessiz oturmak ýa-da hajathana ulanmak üçin nirede bolýanyny bilmeli.
 
-Syýahaty gysgaltmaly bolsaňyz, şeýle ediň. Bir görnükli ýeriň görülmezligi ýa-da irki gaýdyp gelmek şowsuzlyk däldir. Syýahat stresli bolsa, öýe gaýdyp gelenden soň rahat işjeňlik saýlaň. [Aragatnaşyk gollanmamyz](/caregiving/communication-tips/) rahat gürrüň etmegiň we bir wagtda bir maglumat bermegiň pikirlerini berýär.
+Syýahaty gysgaltmaly bolsaňyz, şeýle ediň. Bir ýeriň görülmezligi ýa-da irki gaýdyp gelmek şowsuzlyk däldir. Syýahat stresli bolsa, öýe gaýdyp gelenden soň rahat işjeňlik saýlaň. [Aragatnaşyk gollanmamyz](/caregiving/communication-tips/) rahat gürrüň etmegiň we bir wagtda bir maglumat bermegiň pikirlerini berýär.
 
 ## Myhmanhana ýa-da syýahat üpjünçisine habar bermelimi?
 
