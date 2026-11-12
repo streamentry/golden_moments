@@ -73,6 +73,7 @@
   "photosIntro": "Pumili ng mga litratong magiging masaya kayong tingnan nang magkasama.",
   "photosPrivacyNote": "Ang mga napiling litrato lang ang kinokopya sa app na ito. Walang account at walang server para sa family sync. Maaaring mapasama ang mga kopya sa backup ng device ninyo.",
   "photosCount": "{max, plural, =1{{count} sa 1 litrato} other{{count} sa {max} litrato}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Maglaro gamit ang mga litratong ito",
   "photosNeedTwoShowHidden": "Magpakita ng kahit dalawang litrato para makabuo ng larong pagtutugma. {count, plural, other{{count} ang nakatago.}}",
   "photosNeedTwoAdd": "Magdagdag ng kahit dalawang litrato para makabuo ng larong pagtutugma.",

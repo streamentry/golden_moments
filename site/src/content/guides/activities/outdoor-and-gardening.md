@@ -4,7 +4,7 @@ seoTitle: "Gardening and Outdoor Activities for Dementia"
 description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
 section: activities
 order: 10
-updated: 2026-10-25
+updated: 2026-11-11
 summary: >-
   Gardening and time outdoors can be a calm, familiar activity for a person
   living with dementia. Try watering, potting herbs, deadheading flowers or a
@@ -23,7 +23,7 @@ faq:
   - q: "How do I keep someone with dementia safe in the heat?"
     a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
   - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
+    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, contact local police or emergency services promptly; do not wait a fixed number of minutes. Tell responders the person has dementia, where they were last seen and provide a recent photo."
   - q: "What if we don't have a garden?"
     a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
 sources:
@@ -42,6 +42,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -129,7 +132,7 @@ The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/a
 
 The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+If the person goes missing, check nearby safe places while contacting local police or emergency services promptly. Do not wait a fixed number of minutes before reporting. A 2021 [U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) says law-enforcement agencies should not require a fixed waiting period and lists dementia-like symptoms as a high-risk concern. Local reporting procedures vary. Share when and where the person was last seen, what they are wearing and a recent photo. Follow local responders' directions; do not search unsafe places alone.
 
 ## How do I adapt gardening as things change?
 

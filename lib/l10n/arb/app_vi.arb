@@ -73,6 +73,7 @@
   "photosIntro": "Chọn những tấm ảnh bạn muốn cùng nhau ngắm.",
   "photosPrivacyNote": "Chỉ những ảnh được chọn mới được sao chép vào ứng dụng. Không có tài khoản hay máy chủ đồng bộ gia đình. Bản sao có thể nằm trong bản sao lưu thiết bị của bạn.",
   "photosCount": "{max, plural, =1{{count} trên 1 ảnh} other{{count} trên {max} ảnh}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Chơi với các ảnh này",
   "photosNeedTwoShowHidden": "Hãy hiện ít nhất hai ảnh để chơi ghép đôi. {count, plural, other{Đang ẩn {count} ảnh.}}",
   "photosNeedTwoAdd": "Hãy thêm ít nhất hai ảnh để chơi ghép đôi.",

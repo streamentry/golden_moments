@@ -1,17 +1,16 @@
 ---
-title: "Art Projects for Dementia Patients, Step by Step"
-seoTitle: "Art Projects for Dementia Patients, Step by Step"
+title: "Art Projects for People Living with Dementia"
+seoTitle: "Art Projects for Dementia: Step-by-Step Ideas"
 description: "Art projects for people with dementia, step by step: watercolor washes, collage, clay, chalk and leaf printing, with how to choose safe, adult art supplies."
 section: activities
 order: 28
 updated: 2026-11-08
 summary: >-
-  Art projects for dementia patients work best when they are short, sensory
-  and have a clear first step. Try a watercolor wash, a magazine collage, soft
-  clay, chalk pastels on dark paper, or leaf printing, and start each one
-  together. Choose non-toxic, large-grip supplies with no small loose parts,
-  and plan for the stage. The process is the point; a finished piece is a
-  bonus.
+  People living with dementia may enjoy short, sensory art projects with a
+  clear first step. Try a watercolor wash, a magazine collage, soft clay,
+  chalk pastels on dark paper or leaf printing, and start each one together.
+  Choose non-toxic, large-grip supplies with no small loose parts and adapt
+  the activity to the person. The process matters more than a finished piece.
 keyPoints:
   - "Pick projects with one clear first step, such as dipping a brush or tearing a picture, so the person can start easily."
   - "Use non-toxic supplies with large handles, no small parts, and no fumes or sharp tools."
@@ -19,7 +18,7 @@ keyPoints:
   - "Adapt the project as the person's ability changes, from detailed work early on to broad, sensory movement later."
   - "Praise choices and textures, not technique, and stop as soon as the activity stops being enjoyable."
 faq:
-  - q: "What art projects work for dementia patients?"
+  - q: "What art projects may someone with dementia enjoy?"
     a: "Good options include watercolor washes on heavy paper, collage from magazine pictures, soft clay for pinching and squeezing, chalk pastels on dark paper, leaf printing with washable paint, and arranging fabric or flowers. Choose the one that matches the person's interests and ability."
   - q: "How do I choose art supplies for someone with dementia?"
     a: "Look for non-toxic, washable materials with large handles and bold colors, and avoid small beads, buttons, glitter, wet glass, sharp scissors and anything that could be swallowed. Check for allergies, such as latex gloves or certain paints. Use good contrast, such as white paper with a bold color, and keep the supply list short."

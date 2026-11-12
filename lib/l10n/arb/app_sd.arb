@@ -73,6 +73,7 @@
   "photosIntro": "اهڙيون تصويرون چونڊيو جن کي گڏجي ڏسڻ ۾ توهان کي مزو اچي.",
   "photosPrivacyNote": "صرف چونڊيل تصويرون هن ايپ ۾ ڪاپي ٿين ٿيون. نه ڪو اڪائونٽ آهي، نه ڪٽنب جو سنڪ سرور. ڪاپيون توهان جي ڊوائيس جي بيڪ اپ ۾ شامل ٿي سگھن ٿيون.",
   "photosCount": "{max, plural, =1{1 تصوير مان {count}} other{{max} تصويرن مان {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "انهن تصويرن سان کيڏو",
   "photosNeedTwoShowHidden": "ملائڻ جي راند ٺاهڻ لاءِ گھٽ ۾ گھٽ ٻه تصويرون ڏيکاريو. {count, plural, other{{count} لڪايل آهن.}}",
   "photosNeedTwoAdd": "ملائڻ جي راند ٺاهڻ لاءِ گھٽ ۾ گھٽ ٻه تصويرون شامل ڪريو.",

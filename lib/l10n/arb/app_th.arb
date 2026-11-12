@@ -73,6 +73,7 @@
   "photosIntro": "เลือกรูปที่คุณอยากดูด้วยกัน",
   "photosPrivacyNote": "แอปจะคัดลอกเฉพาะรูปที่เลือกเท่านั้น ไม่มีบัญชีหรือเซิร์ฟเวอร์ซิงก์รูประหว่างครอบครัว สำเนาอาจรวมอยู่ในข้อมูลสำรองของอุปกรณ์",
   "photosCount": "{max, plural, =1{{count} จาก 1 รูป} other{{count} จาก {max} รูป}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "เล่นด้วยรูปเหล่านี้",
   "photosNeedTwoShowHidden": "แสดงรูปอย่างน้อยสองรูปเพื่อเล่นเกมจับคู่ {count, plural, other{ซ่อนอยู่ {count} รูป}}",
   "photosNeedTwoAdd": "เพิ่มรูปอย่างน้อยสองรูปเพื่อเล่นเกมจับคู่",

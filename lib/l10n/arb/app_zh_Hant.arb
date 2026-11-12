@@ -73,6 +73,7 @@
   "photosIntro": "挑選一些大家會喜歡一起看的照片。",
   "photosPrivacyNote": "只有您選取的照片會被複製到這個應用程式中。沒有帳號，也沒有家庭同步伺服器。副本可能會包含在您的裝置備份中。",
   "photosCount": "{max, plural, =1{已加入 {count} 張照片，最多 1 張} other{已加入 {count} 張照片，最多 {max} 張}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "用這些照片來玩",
   "photosNeedTwoShowHidden": "至少要顯示兩張照片，才能玩配對遊戲。{count, plural, other{已隱藏 {count} 張。}}",
   "photosNeedTwoAdd": "至少要加入兩張照片，才能玩配對遊戲。",

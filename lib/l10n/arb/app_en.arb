@@ -281,6 +281,10 @@
       }
     }
   },
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
+  "@photosAtLimit": {
+    "description": "Hint shown beside the photo count when the collection is full. Names the existing Options menu and Remove this copy menu item used to make room."
+  },
   "photosPlay": "Play with these photos",
   "@photosPlay": {
     "description": "Main button on Your family photos that starts a matching game with the photos. Short."

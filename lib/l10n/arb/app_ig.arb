@@ -73,6 +73,7 @@
   "photosIntro": "Họrọ foto ndị unu ga-enwe mmasị ilekọ ọnụ.",
   "photosPrivacyNote": "Naanị foto ndị a họọrọ ka a na-eme kọpị n'ime app a. Enweghị akaụntụ ma ọ bụ sava ịkesa foto ezinụlọ. Kọpị nwere ike ịbụ akụkụ nke backup ngwaọrụ gị.",
   "photosCount": "{max, plural, =1{{count} n'ime foto 1} other{{count} n'ime foto {max}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Kpọọ ya na foto ndị a",
   "photosNeedTwoShowHidden": "Gosi opekata mpe foto abụọ iji mee egwuregwu ịhụ ndị dakọrọ. {count, plural, other{E zoro {count}.}}",
   "photosNeedTwoAdd": "Tinye opekata mpe foto abụọ iji mee egwuregwu ịhụ ndị dakọrọ.",

@@ -73,6 +73,7 @@
   "photosIntro": "Wählen Sie Fotos, die Sie gern gemeinsam anschauen würden.",
   "photosPrivacyNote": "Nur ausgewählte Fotos werden in diese App kopiert. Kein Konto und kein Server, der Fotos in der Familie abgleicht. Kopien können im Backup Ihres Geräts enthalten sein.",
   "photosCount": "{max, plural, =1{{count} von 1 Foto} other{{count} von {max} Fotos}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Mit diesen Fotos spielen",
   "photosNeedTwoShowHidden": "Zeigen Sie mindestens zwei Fotos, um Paare zu finden. {count, plural, other{{count} ausgeblendet.}}",
   "photosNeedTwoAdd": "Fügen Sie mindestens zwei Fotos hinzu, um Paare zu finden.",

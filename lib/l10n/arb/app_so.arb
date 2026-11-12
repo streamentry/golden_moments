@@ -73,6 +73,7 @@
   "photosIntro": "Dooro sawirro aad ku farxi doonto inaad wada eegtaan.",
   "photosPrivacyNote": "Sawirrada la doortay oo keliya ayaa lagu nuqulaa app-kan. Akoon ma jiro, serfar sawir-wadaag oo qoys ma jiro. Nuqulada waxaa laga yaabaa inay ku jiraan backup-ka qalabkaaga.",
   "photosCount": "{max, plural, =1{{count} ka mid ah 1 sawir} other{{count} ka mid ah {max} sawir}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "La ciyaar sawirradan",
   "photosNeedTwoShowHidden": "Tus ugu yaraan laba sawir si aad ciyaar isku-mid ah u samayso. {count, plural, other{{count} waa la qariyay.}}",
   "photosNeedTwoAdd": "Ku dar ugu yaraan laba sawir si aad ciyaar isku-mid ah u samayso.",

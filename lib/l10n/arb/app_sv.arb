@@ -73,6 +73,7 @@
   "photosIntro": "Välj foton som ni gärna tittar på tillsammans.",
   "photosPrivacyNote": "Bara valda foton kopieras till den här appen. Inget konto och ingen server för att synka med familjen. Kopiorna kan ingå i säkerhetskopian av din enhet.",
   "photosCount": "{max, plural, =1{{count} av 1 foto} other{{count} av {max} foton}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Spela med de här fotona",
   "photosNeedTwoShowHidden": "Visa minst två foton för att skapa ett bildparsspel. {count, plural, other{{count} dolda.}}",
   "photosNeedTwoAdd": "Lägg till minst två foton för att skapa ett bildparsspel.",

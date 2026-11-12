@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 45 / 100 completed**
+**Progress: 83 / 100 completed**
 
 ---
 
@@ -55,6 +55,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | 43 | 2026-11-10 | `cd308446` (English labels), `5590a205` (feature) | Optional captions give website family photos useful spoken names | [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) describes photos and familiar objects as shared prompts and says to follow the person's lead; [Dementia Australia: Talking to someone with dementia](https://www.dementia.org.au/living-dementia/staying-connected/talking-someone-dementia) recommends using photos with captions. | Photo Pairs labelled each selected image only “Photo 1,” “Photo 2,” and so on. Added optional captions in a collapsed section; a caption becomes the tile's screen-reader name, while a blank caption keeps the numbered name. Captions and photos stay in page memory only. | Implemented in `PhotoPairs.tsx`, `PairsBoard.tsx`, and `photo-label.ts`; 2 focused tests, 727 site tests and TypeScript pass. English labels fall back on translated pages. Browser/caregiver/person checks not done. Full build remains blocked by the Tibetan guide schema error. |
 | 44 | 2026-11-10 | `1b574d28` | A gentle photo comfort reminder in Photo Pairs | [Alzheimer's Society: The Activities Handbook](https://www.alzheimers.org.uk/sites/default/files/2020-11/AS_77AC_The-Activities-Handbook.pdf) says some photos may bring painful memories; if the person becomes upset, allow them to express feelings and check whether they want to continue. | Photo Pairs had no point-of-use reminder about a photo upsetting someone. Added a short line before the picker: choose photos the person enjoys, and stop or switch if a photo upsets them. | Implemented in `site/src/games/PhotoPairs.tsx`; all 727 site tests and TypeScript pass. The new line uses English fallback on translated pages. Browser/caregiver/person checks not done. Full build still stops on the existing Tibetan guide schema error. |
 | 45 | 2026-11-10 | `2855eea6` | Look through family photos without matching | [Alzheimer's Association: Reminiscence and Reminiscence Therapy](https://www.alz.org/help-support/caregiving/daily-care/reminiscence-and-reminiscence-therapy) says photos can support shared reminiscence; the goal is connection rather than testing memory, and caregivers should follow the person's lead. | Website Photo Pairs accepted personal photos but required matching. A single selected photo now opens one-at-a-time viewing. With two or more, helpers can choose viewing or matching; Previous/Next appear only when another photo exists. Captions remain optional, and photos stay in page memory. | Implemented in `site/src/games/PhotoPairs.tsx` and `photo-viewer.ts`; 4 focused photo-viewer tests, 1,855 site tests and TypeScript pass. Full verification builds 12,491 pages; `check-site` reports 0 errors and 536 warnings. New copy uses English fallback on translated pages. Browser, caregiver/person and native-language checks not done. |
+| 46 | 2026-11-11 | `f4b50676` | One Today suggestion at a time | [Dementia Australia: Activities for people with dementia](https://www.dementia.org.au/living-dementia/staying-connected/activities-people-dementia) recommends one instruction at a time and short activities; [Alzheimer's Association: Activities](https://www.alz.org/help-support/caregiving/daily-care/activities) advises adapting or ending an activity if attention fades or frustration rises. | `/today/` showed all three suggestions at once. It now shows the first suggestion, with the other two inside a closed “See two more ideas” disclosure. The caregiver can reveal alternatives when useful; no suggestion is forced. | Implemented in `Today.tsx` and `TodaySuggestions.tsx`; 2 focused TodaySuggestions tests, 1,857 site tests, TypeScript and 106 Python tests pass. Full verification builds 12,491 pages; `check-site` reports 0 errors and 536 warnings. No storage or telemetry changes. |
 
 ---
 
@@ -62,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 46 | *Next in queue* | Pending |
-| 47–100 | Planned one by one | Pending |
+| 84 | *Next in queue* | Pending |
+| 85–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -146,7 +147,419 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Full checks | `pnpm --dir site verify`: 1,855 tests pass, 12,491 pages build, `check-site` reports 0 errors and 536 warnings. The installed Node 22.14.0 is below the package's >=22.22.0 engine declaration; checks still pass. Release metadata check passes. | Pass. |
 | Not verified | No interactive browser, caregiver/person or native-speaker check. The Playwright wrapper is blocked by the environment's `npx` package guard; Astro dev exits with `SKIP_FORMAT`. Headless Chrome exited before opening. | Open; automated checks pass, but they do not prove comfortable use. |
 
-## Round 46: mobile visual audit (navigation, games, layout)
+## Round 46: show one Today suggestion at a time
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia recommends one instruction at a time and short, simple activities. The Alzheimer's Association advises adapting or ending an activity when attention fades or frustration rises. | A caregiver-facing page should make a first action easy to find while keeping alternatives available. This is a design inference, not a clinical claim. |
+| Gap and change | The `/today/` answer displayed three suggestions together. It now shows the first suggestion, with the other two inside a closed disclosure. The caregiver can reveal them; no advice was removed. | Less text is shown at once without requiring an interaction before help appears. |
+| Tests | `TodaySuggestions.test.ts`: 2 pass, checking the first step, collapsed alternatives and empty input. `situations.test.ts`: 5 pass. `pnpm --dir site test`: 1,857 pass. `pnpm --dir site exec tsc --noEmit`: pass. | Pass. |
+| Full checks | `pnpm --dir site verify`: 1,857 tests pass, 12,491 pages build, `check-site` reports 0 errors and 536 warnings. `python3 -m unittest discover -s tests -p 'test_*.py'`: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Pass. |
+| Not verified | No interactive browser or caregiver/person check. The Playwright wrapper is blocked by the `npx` package guard; Astro dev exits with `SKIP_FORMAT`. Today remains an English-only page. | Open; tests do not establish that the layout is easier for caregivers. |
+
+## Round 47: a comfortable setup cue before photo selection
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society advises reducing clutter and background noise, or moving somewhere quieter if that helps concentration. Dementia Australia recommends a tidy, quieter activity space, good but not too-bright light, and comfortable seating. | General activity guidance, not a clinical claim. |
+| Existing coverage and gap | The site guide "How to Play Games with Someone Who Has Dementia" already covers room setup. The Photo Pairs page showed the photo picker and photo-comfort reminder but no setup cue. | The gap was point-of-use placement, not missing long-form guidance. |
+| Change | Photo Pairs now shows "Before you begin, try a quiet, tidy spot with good light and comfortable seating." before photos are selected. The cue disappears after selection. Other languages use the existing English fallback until reviewed translations exist. | No new control, storage, network request or telemetry. |
+| Tests | `PhotoPairs.test.ts`: 2 focused SSR/fallback tests pass. `pnpm --dir site verify`: 1,859 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass after `astro sync`. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Render inspection | The built `/games/photo-pairs/` HTML contains the setup cue as a visible paragraph before the photo-comfort note and picker. | Static output checked. |
+| Not verified | Playwright CLI is blocked by the local `npx` package-age guard; no browser CLI is installed. No live small-screen/large-text inspection, caregiver/person feedback, native-speaker review or device check. | Open; do not claim usability validation. |
+
+## Round 48: offer familiar music as a Today choice
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatment claim. |
+| Gap and change | The `/today/` answer for "There's nothing they want to do" showed two browser games, although its guidance says to start from the person's interests and offer two choices. | One pictured choice now opens Picture Pairs; the other opens the existing music guide. The board still has two choices and keeps its point-or-tap cue. |
+| Implementation | `ActivityChoiceBoard` now supports both game cards and a guide card. The music card uses the existing radio illustration, links to `/activities/music/`, and tells caregivers that listening together is enough. No audio, streaming, storage, account or telemetry was added. | Uses existing site artwork and content. |
+| Tests | `ActivityChoiceBoard.test.ts` and `situations.test.ts`: 6 focused tests pass. `pnpm --dir site verify`: 1,859 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Render inspection | The component SSR test confirms two visible choice links, their labels, the guide route and radio illustration. | Passed for the component; the actual `/today/` selection interaction was not browser-tested. |
+| Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. Today has no live small-screen/caregiver/person check and remains English-only. | Open; don't claim usability validation. |
+
+## Round 49: optionally note the time of day
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association's Daily Care Plan says to consider the times of day the person functions best and to leave room for rest. Dementia Australia likewise recommends choosing times when the person feels at their best. | This supports caregiver planning, not a clinical inference or cognitive measure. |
+| Gap and change | `/today/` already lets caregivers record whether a suggestion helped, with optional free text, but did not identify a broad time of day. | Notes now have an optional Morning/Afternoon/Evening field for tried ideas. The selected band appears beside the outcome and in printed notes, and is ignored when the caregiver records "Didn’t try it." It is never inferred from the clock. |
+| Data boundary | The band uses the existing Today notes in this browser's localStorage. The storage key is unchanged; old notes without `timeOfDay` still load, and unrecognized values are dropped without discarding the rest of the note. | No new storage location, network request, account or telemetry. |
+| Tests | `notes.test.ts` and `TodayTimePicker.test.ts`: 11 focused tests pass, including legacy notes and optional values. `pnpm --dir site verify`: 1,862 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Not verified | The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. No live browser, caregiver/person or device check. | Open; do not claim usability validation. |
+
+## Round 50: label U.S. help numbers in Today
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | USAGov and the National 911 Program direct U.S. emergencies to 911. The State Department says emergency numbers vary by country. The 988 Lifeline serves the U.S. and its territories; ACL's Eldercare Locator and the Alzheimer's Association helpline are U.S. resources. | The page must distinguish U.S. numbers from local emergency/support services. |
+| Gap and change | `/today/` showed 911 in every help response and 988 plus U.S. helpline numbers without geographic labels. | Help text now says when 911, 988, the Alzheimer's Association helpline and Eldercare Locator are U.S. resources, and tells readers elsewhere to use local emergency or crisis services. |
+| Data boundary | This is static copy. No location detection, geolocation permission or external request was added. | Today remains English-only; the text does not select a number based on inferred location. |
+| Tests | `situations.test.ts`: 5 pass, including the regional wording. `pnpm --dir site verify`: 1,862 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Not verified | No live browser, caregiver/person or native-speaker check. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim regional or user comprehension testing. |
+
+## Round 51: clear Today notes with confirmation
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | W3C's error-prevention guidance recommends confirmation, review or reversal when deleting user-controllable data. Its cognitive accessibility pattern notes that people with memory challenges may need to correct mistakes without losing work. Alzheimer's Society's technology advice also says to consider privacy and what information others can see. | Deleting caregiver notes should be deliberate and easy to cancel. |
+| Gap and change | Today notes stay in this browser and can be removed one at a time, but there was no action to clear them all from a shared device. | Added a "Clear all notes" action with an inline confirmation that states the scope and offers "Keep notes". It removes only the Today notes key and leaves other site settings alone. |
+| Data boundary | The deletion is user-triggered and confirmed. No account, sync, telemetry or network request is involved. If storage removal fails, notes remain visible; if storage access is blocked, only the current page's notes can be cleared and the UI says removal from storage could not be confirmed. | Old notes and their storage key are otherwise unchanged. |
+| Tests | `notes.test.ts` and `TodayClearAllConfirmation.test.ts`: 12 focused tests pass, including key-only removal, blocked storage and confirmation copy. `pnpm --dir site verify`: 1,864 tests, 12,491 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor. |
+| Not verified | No live browser, caregiver/person or device check. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim user validation. |
+
+## Round 52: a room-by-room home safety guide
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association's home-safety page lists hazards across rooms and says changes should support the person's needs and independence. Alzheimer's Society guidance describes small adaptations that can make daily routines safer, recommends advice from health or social-care professionals, and lists questions to ask before choosing equipment. | A practical walkthrough can help a caregiver start with an observed concern and consider one change at a time. This is an editorial tool, not a safety assessment. |
+| Existing coverage and gap | Existing activity and sleep guides mention selected safety details, but the site had no dedicated guide for reviewing a home or considering equipment. | Added the site's 49th English guide, with prompts for routes, kitchen, bathroom, bedroom, storage, outdoor spaces and emergency contacts. It cautions that not every change fits every person and that exits must remain usable. |
+| Sources and limits | The National Institute on Aging home-safety page appeared in search, but opening it returned HTTP 405; no Round 52 claim relies on it. | Only the opened Alzheimer's Association and Alzheimer's Society pages are cited in the new guide. |
+| Checks | `pnpm --dir site verify`: 1,864 tests, 12,492 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | The built `/caregiving/home-safety/` route contains the new guide and the caregiving hub links to it. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, occupational-therapist, native-speaker or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim usability or professional review. |
+
+## Round 53: Japanese Photo Pairs copy for one-photo viewing
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says communication can change, including trouble finding familiar words or returning to a native language. It also describes photos as a way to share reminiscence, with connection rather than testing as the goal. | Localizing the existing viewing controls is a comprehension and dignity inference, not a clinical benefit. |
+| Gap and change | Photo Pairs now permits one-photo viewing, but Japanese copy still required two photos. The Japanese dictionary also lacked the view-only, caption, comfort and setup strings, so those showed in English. | Updated the complete Japanese Photo Pairs copy to match one-photo viewing, optional matching and page-only captions. Other locales keep their current English fallback. |
+| Translation | Added Japanese text for current Photo Pairs strings, retaining all placeholders and one bold run in the intro. | Machine-made, not reviewed by a native speaker. |
+| Tests | `PhotoPairs.test.ts`: Japanese one-photo wording and controls checked. `pnpm --dir site verify`: 1,865 tests, 12,492 pages, `check-site` 0 errors and 536 warnings. TypeScript, Python suite (106), release metadata and `git diff --check` pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; build reports a large-chunk warning. |
+| Not verified | No native-speaker, caregiver/participant, browser or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim Japanese usability validation. |
+
+## Round 54: practical travel planning with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says travel can remain meaningful with planning for safety, comfort and enjoyment; it recommends familiar destinations, a simple plan, rest and a backup. Dementia Australia asks readers to consider whether the trip fits the person's wishes and support needs, and to plan together. | A travel guide can help caregivers plan without promising that travel is suitable for everyone. |
+| Existing coverage and gap | The holiday guide covers celebrations, and the early-stage activities guide mentions short outings. Neither helps a caregiver prepare for a longer trip, transport assistance, medication lists or a return plan. | Added the site's 50th English guide with a decision checklist, simple itinerary, essentials, provider assistance and permission to shorten or stop. |
+| Boundaries | The guide does not make medical clearance, insurance or transportation-policy decisions. It tells readers to check current rules with providers and ask a health professional about medical or medication questions. | Advice is general; provider procedures and local requirements vary. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,493 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | The built `/caregiving/traveling-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, travel professional, clinician, native-speaker or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim suitability or user validation. |
+
+## Round 55: support for someone living alone with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association says many people with Alzheimer's live alone, particularly earlier on, with adjustments and support. It lists help with meals, household tasks, transportation and medication reminders, and regular contact with others. | A practical guide can focus on routines and support chosen with the person. This is not a decision tool for whether someone may live alone. |
+| Existing coverage and gap | Round 52 added room-by-room home-safety advice, but the site had no guide on daily routines, agreed check-ins, help with recurring tasks or adding support gradually for someone living alone. | Added the site's 51st English guide. It centers the person's priorities and avoids a fixed cutoff, stage score or monitoring requirement. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,494 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | The built `/caregiving/living-alone-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, clinician, native-speaker or device review. The browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim a safety or suitability assessment. |
+
+## Round 56: calmer mealtimes with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association and Dementia Australia both recommend quieter mealtimes, familiar food, simple table settings and enough time. Dementia Australia says new chewing or swallowing problems warrant health-professional advice. | These sources support practical mealtime setup, not a diet or feeding treatment. |
+| Existing coverage and gap | The brain-health diet guide covers food and dementia-risk research, while household-task pages discuss cooking. The site had no guide for the meal itself: table setup, fewer distractions and supporting independent eating. | Added an English caregiver guide focused on the mealtime environment, familiarity, time, choice and maintaining independence. It avoids diet prescriptions and swallowing techniques. |
+| Safety boundary | New swallowing, choking, appetite or weight concerns are directed to a doctor or suitable health professional. No texture changes, supplements or feeding maneuvers are prescribed. | This is general caregiving information with the health notice, not an assessment. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,495 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; build reports a large-chunk warning. |
+| Render inspection | Built `/caregiving/mealtimes-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, dietitian, speech-language pathologist, clinician, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim clinical or user validation. |
+
+## Round 57: bathing support with privacy and choice
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The Alzheimer's Association describes bathing as intimate and recommends preparation, privacy, choices and alternatives. Dementia Australia likewise says personal care may feel embarrassing, urges carers to follow the person's routine and suggests simple steps and respectful choices. | A focused guide can help caregivers support the task without turning it into a struggle. This is not clinical or legal advice. |
+| Existing coverage and gap | Round 52 covers bathroom hazards and equipment, but the site had no guidance on permission, privacy, pacing or alternatives during bathing. | Added an English caregiving guide for preparation, asking before helping, stopping when the person is uncomfortable, and considering a washcloth or another time. |
+| Safety boundary | Permanent grab rails or bathroom changes are referred to qualified professionals. The guide avoids hands-on techniques and medical instructions; new pain, falls or care concerns go to a health professional. | Does not prescribe bathing frequency or override the person's refusal. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,496 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | The built `/caregiving/bathing-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No caregiver, participant, occupational-therapist, clinician, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim personal-care or professional validation. |
+
+## Round 58: planning pet care with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society describes pets as companions and recommends routine cues, specific help from others and planning for future pet care. Dementia Australia includes pets among activities that may be personally meaningful. | A practical guide can support the person-pet relationship while planning for the animal's needs; it does not claim that pets treat dementia. |
+| Existing coverage and gap | Existing activity guides mention pet visits, soft animals and including pets in activities, but did not help a person and family arrange reliable pet care or backup support. | Added the site's 54th English guide with shared routines, chosen tasks, helpers and future planning. It avoids assuming the person must give up or continue caring for a pet. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,497 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Render inspection | Built `/caregiving/pet-care-and-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
+| Not verified | No person living with dementia, caregiver, veterinarian, animal-welfare professional, native-speaker or device review. Browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim the plan suits every person or animal. |
+
+## Round 59: person-first Traditional Chinese wording
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | The NHS sudden-confusion page lists low blood sugar in people with diabetes as one possible cause. | The translation should preserve that meaning without using a generic patient label. |
+| Gap and change | The `zh-Hant` warning-signs guide translated “low blood sugar in people with diabetes” as `糖尿病患者的低血糖`. The checker treated `患者` as wording for people with dementia, although this sentence referred to diabetes. | Rephrased it as `有糖尿病的人可能出現的低血糖` (“low blood sugar that people with diabetes may experience”). The underlying medical statement is unchanged. |
+| Checks | `pnpm --dir site verify`: 1,865 tests, 12,497 pages, `check-site` 0 errors and 535 warnings; the patient-wording warning on this page is gone. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. |
+| Not verified | No native-speaker or clinician review of the Traditional Chinese translation. | Open; do not claim language or medical review. |
+
+## Round 60: respectful oral care with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association and Dementia Australia guidance supports familiar routines, short cues, independence, asking permission before helping, and dental-professional advice when problems arise. | Supports practical caregiver guidance; not a dental treatment plan. |
+| Existing coverage and gap | The mealtime guide mentions dental discomfort, but the site had no focused guide on daily mouth care, dentures, privacy, consent or preparing for a dental visit. | Added the site's 55th English caregiving guide, with a calm routine, shared-helper coordination and clear prompts to seek individualized dental advice. |
+| Safety boundary | The page does not prescribe brushing frequency, products, physical techniques, denture treatment or swallowing changes. It asks helpers to pause when the person resists or is distressed and to seek professional advice for new problems. | General information only; the person's consent and comfort remain central. |
+| Checks | Node 24.22.2: `pnpm --dir site verify` passed, built 12,498 pages and reported 0 checker errors with 535 warnings; `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/oral-care-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, dentist, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 61: getting dressed with comfort and choice
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association and Dementia Australia recommend enough time, small clothing choices, short steps, familiar style and privacy. The Association handout covers comfortable shoes and clothing length; Dementia Australia says new dressing problems may need a doctor's review. NHS guidance says sudden confusion needs immediate medical help. | Supports practical, respectful daily-care guidance, not a medical assessment. |
+| Existing coverage and gap | The daily-routine guide mentions dressing as part of the day, but the site had no focused help for clothing choices, step-by-step support, privacy or newly difficult dressing. | Added the site's 56th English caregiving guide, centered on the person's style, comfort, consent and accepted help. |
+| Safety boundary | The guide does not recommend changing medication or forceful assistance. It suggests a doctor for new or quickly changing difficulty and does not prescribe a uniform or hygiene standard. | General information only; individual choices and comfort remain central. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,499 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/getting-dressed-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, clinician, occupational therapist, native-speaker or live-browser review. | Open; do not claim clinical, professional or user validation. |
+
+## Round 62: dignified toileting and continence support
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association says new incontinence can have medical or medication causes, and warns against fluid restriction. Dementia Australia recommends medical review and dignity; NHS guidance covers familiar toilet cues, lighting and routines. | Supports general caregiving guidance, not diagnosis or continence treatment. |
+| Existing coverage and gap | Existing pages mention finding the toilet, incontinence as a possible cause of restlessness, and bathroom safety, but none focuses on accidents, privacy, new changes, fluids or continence support. | Added the site's 57th English caregiving guide, with consent, practical orientation, calm response and professional referral. |
+| Safety boundary | The guide does not diagnose causes, recommend a fluid limit, change medicines, prescribe products or impose a fixed toilet schedule. It directs sudden confusion to immediate medical help. | General information only; individual medical advice remains with a health professional. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,500 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/toileting-and-incontinence-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, continence specialist, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 63: planning a driving conversation with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends planning ahead, supportive conversation, objective driving evaluation and transport alternatives. Dementia Australia recommends early, short discussions, listening to what driving means, and not hiding keys as an early tactic. NHTSA suggests collecting information, making a plan and following through. | Supports caregiver conversation and planning, not a decision about a person's fitness to drive. |
+| Existing coverage and gap | The warning-signs guide mentions that dementia can affect driving, but the site had no guide for discussing concerns, involving qualified help or keeping meaningful trips possible. | Added the site's 58th English caregiving guide with a conversation and transport-planning approach. |
+| Safety boundary | The page does not determine driving ability, give state licensing advice or set a diagnosis-based cutoff. It directs individual questions to a doctor, driving rehabilitation specialist or local licensing authority; sudden confusion is directed to immediate medical help. | General guidance only; local requirements and individual evaluations remain with the relevant professionals. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,501 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/driving-and-dementia-conversation/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, physician, driving rehabilitation specialist, native-speaker or live-browser review. | Open; do not claim driving assessment or user validation. |
+
+## Round 64: preparing for a doctor visit with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends listing concerns, describing changes, bringing an up-to-date medication list and leaving with a plan. Dementia Australia emphasizes consent, privacy, person-first conversation and practical appointment preparation. NHS guidance says sudden confusion needs immediate medical help. | Supports appointment preparation, not medical diagnosis or treatment advice. |
+| Existing coverage and gap | Existing guides say when to contact a doctor for specific changes, but the site had no general guide on preparing questions, including the person, protecting private discussion and confirming follow-up. | Added the site's 59th English caregiving guide for shared, consent-based appointment preparation. |
+| Safety boundary | The guide does not interpret symptoms or recommend treatment. It advises against changing medication based on notes and directs sudden confusion to urgent local medical help. | General information only; clinical questions stay with the person's health professional. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,502 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/doctor-visit-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 65: preparing for a hospital visit with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends planning ahead, sharing care preferences with staff, familiar items and a written discharge plan. Dementia Australia covers planned and emergency visits, admission, the stay and discharge. NHS guidance says sudden confusion needs immediate medical help. | Supports preparation and communication, not hospital triage or treatment advice. |
+| Existing coverage and gap | Existing pages help prepare for routine doctor visits and discuss specific care concerns, but the site had no guide for emergency-room or inpatient support and discharge planning. | Added the site's 60th English caregiving guide, covering planned and unplanned visits, communication and follow-up. |
+| Safety boundary | The guide tells readers to follow the clinical team's instructions, report sudden changes and ask staff about care tasks. It does not recommend treatment or interpret discharge rights. | General information only; hospital staff direct care and discharge decisions. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,503 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/hospital-visit-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, hospital staff, clinician, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 66: noticing and reporting pain with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia says people with dementia feel pain, recommends asking in familiar words and describes possible nonverbal signs. Alzheimer's Association says pain may contribute to behavior change and new symptoms need medical review. NHS guidance says sudden confusion needs immediate medical help. | Supports noticing and reporting changes, not diagnosing pain from behavior. |
+| Existing coverage and gap | Existing guides mention pain as a possible cause of refusal, agitation or care difficulty, but the site had no guide on asking about pain and sharing observations. | Added the site's 61st English caregiving guide for respectful questions, factual observations and professional assessment. |
+| Safety boundary | Signs are described as possibilities, not proof. The guide does not recommend pain scales, medication or physical treatment; it directs sudden confusion to urgent help. | General information only; assessment and treatment stay with health professionals. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,504 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/pain-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, physician, pain specialist, native-speaker or live-browser review. | Open; do not claim clinical or user validation. |
+
+## Round 67: helping someone with dementia drink enough
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends offering small cups of fluid throughout the day and foods with high water content. Dementia Australia suggests accessible familiar drinks. The Association warns against limiting fluids to prevent incontinence. | Supports gentle drink offers, not a universal fluid target. |
+| Existing coverage and gap | The mealtime guide covers the eating environment and the continence guide warns against fluid restriction, but the site had no focused guide to supporting everyday drinking choices and routines. | Added the site's 62nd English caregiving guide with practical offers, fluid-safety cautions and professional referral. |
+| Safety boundary | The guide does not set fluid amounts, restrict drinking, prescribe treatment or alter drink texture. It directs new swallowing difficulty to a health professional and sudden confusion to urgent help. | General information only; individual fluid plans remain with health professionals. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,505 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/drinking-enough-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, dietitian, clinician, native-speaker or live-browser review. | Open; do not claim medical or user validation. |
+
+## Round 68: choosing in-home help with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association distinguishes companion, personal, household and skilled services, and recommends defining needs, interviewing, checking references and asking about backup. Dementia Australia describes home-care service types and notes that access and funding depend on location. | Supports comparing services, not endorsing a provider or explaining eligibility. |
+| Existing coverage and gap | Caregiver self-care mentions respite and local resource services, but the site had no guide for defining in-home care tasks, screening providers or judging interpersonal fit with the person. | Added the site's 63rd English caregiving guide with person-led selection and practical questions. |
+| Safety boundary | The guide does not promise funding, set prices or interpret licensing law. It distinguishes nonmedical help from skilled health care and directs medical tasks to qualified providers. | General selection guidance; local terms and credentials need confirmation. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,506 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/choosing-in-home-dementia-care/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, home-care worker, clinician, native-speaker or live-browser review. | Open; do not claim provider endorsement or user validation. |
+
+## Round 69: comparing residential care with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association and Dementia Australia recommend comparing personal needs, staff, activities, daily routines, family involvement and costs; both stress that the move is individual. | Supports preparing questions and visits, not choosing a home for a family. |
+| Existing coverage and gap | The site had guides on home safety, living alone, in-home care and hospitalization, but no practical guide to comparing residential care communities. | Added the site's 64th English caregiving guide for person-led visits, questions and transition planning. |
+| Safety boundary | The guide does not prescribe a move date, assess a person's stage, interpret contracts or promise service funding. It directs local eligibility, financial and legal questions to qualified local support. | General planning information only; the person and their advisors make the decision. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,507 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/choosing-residential-dementia-care/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, care-home staff, clinician, native-speaker or live-browser review. | Open; do not claim care-home assessment or user validation. |
+
+## Round 70: medication routines with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends a complete medicine list, doctor/pharmacist review, agreed routines and checking before crushing tablets or changing doses. | Supports safe organization and professional consultation, not medication advice. |
+| Existing coverage and gap | Existing pages mention medicines in home safety, doctor visits, living-alone support and behavior-change concerns, but the site had no focused guide to sharing medication responsibility and preserving independence. | Added the site's 65th English caregiving guide with routines, pharmacist questions, consent and clear escalation. |
+| Safety boundary | The page does not recommend medication, dose changes, crushing, missed-dose decisions or a universal storage method. It directs overdose suspicions to poison control or emergency help and sudden confusion to urgent care. | General information only; medication decisions stay with the prescriber or pharmacist. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,865 tests, 12,508 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/medication-support-with-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, pharmacist, prescriber, native-speaker or live-browser review. | Open; do not claim medical or user validation. |
+
+## Round 71: search on long English guide hubs
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | W3C's cognitive-accessibility search pattern says search can help people find content without understanding or navigating categories. It also notes search is less important on small sites where pages are already within two clicks; here the Activities and Caregiving hubs have 29 and 26 long-list entries. | A local filter can reduce scanning for people who know a topic or word. This is a usability inference, not tested user research. |
+| Existing coverage and gap | English Activities and Caregiving hubs list long card grids with no way to narrow the guides. | Added an English-only, on-page filter across card titles, summaries and key points; the featured guide is included. |
+| Safety and privacy boundary | Search runs in the page only. It sends no query, adds no analytics and stores no search history. It does not search full article bodies or suggest spelling corrections, and does not appear on translated pages. | No account, network request or personal data is involved. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,508 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Browser inspection | Headless Chrome rendered the caregiving hub. The query "licensing authority" returned the driving guide; a no-match query showed an empty result message; clearing restored all 26 caregiving cards. | Search interaction was checked in the rendered page using browser input events. Playwright was unavailable; actual keyboard-only and screen-reader use were not checked. |
+| Not verified | No caregiver, person living with dementia, assistive-technology or user-comprehension review. | Open; do not claim a measured usability outcome. |
+
+## Round 72: choosing an adult day program with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes services and questions to ask about dementia training, activities, care, transportation, hours and fees. Its checklist recommends visiting and observing how staff interact with participants. | Supports an informed comparison, not a service or funding guarantee. |
+| Existing coverage and gap | The caregiver self-care guide mentions adult day care as a respite option, and activity pages offer group ideas, but the site had no guide for evaluating an adult day program. | Added the site's 66th English caregiving guide with a person-led visit and question list. |
+| Safety boundary | The guide does not promise that a center will suit everyone, interpret local coverage rules or make clinical assessments. It tells readers to confirm specific health support and emergency procedures with the center. | General selection information; local service details require direct confirmation. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,509 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | The built `/caregiving/choosing-adult-day-program-dementia/` route has the expected SEO title and appears in the caregiving hub. | Static output checked; no live browser run. |
+| Not verified | No person, caregiver, adult-day staff, clinician, native-speaker or live-browser review. | Open; do not claim program assessment or user validation. |
+
+## Round 73: emergency planning with dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends planning with residential/day programs, sharing essential care and contact information with backup helpers, preparing supplies and accounting for mobility needs. FEMA highlights communication, medicines, chargers, transport and assistive devices. | Supports a person-specific preparedness plan, not a universal evacuation decision. |
+| Existing coverage and gap | The site has home-safety, caregiver backup, hospital-visit and adult-day guides, but no guide joining emergency contacts, transport, communication preferences, supplies and service plans. | Added the site's 67th English guide with a one-page plan checklist and small go-kit suggestions. |
+| Safety boundary | Shelter and evacuation choices depend on the emergency and local instructions. The guide points readers to local authorities and does not prescribe a route, destination, medicine supply or disaster response. | Emergency decisions remain with local authorities and qualified providers. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,510 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/emergency-planning-dementia/` contains the title, safety guidance and sudden-confusion text; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person, caregiver, emergency-services, care-facility, clinician, native-speaker or live-browser review. | Open; do not claim emergency-plan validation. |
+
+## Round 74: talking with children about dementia
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association recommends honest answers in language children understand. Dementia Australia emphasizes family communication, reassurance, routine and keeping young people from carrying adult responsibilities. Alzheimer's Society describes support networks and making space for young people's feelings. | Supports a family conversation guide; it does not predict an individual child's response or replace professional support. |
+| Existing coverage and gap | The site has adult caregiver and activity guides but no resource for explaining a diagnosis to children or supporting young relatives. | Added the site's 68th English caregiving guide, including answer examples, privacy and role boundaries. |
+| Safety boundary | The guide does not diagnose a child, promise a disease course or assign care duties. It advises adults to keep care responsibilities with adults and seek qualified support for individual concerns. | General family communication information only. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,511 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/talking-to-children-about-dementia/` contains the guide and its care-boundary text; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No child, parent, caregiver, family counselor, clinician, native-speaker or live-browser review. | Open; do not claim family or child validation. |
+
+## Round 75: person-first wording in the art-project guide
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Dementia Australia's language guide says to describe the person before the condition and avoid "patient" outside a specific medical context. | The public activity guide is not a medical context. |
+| Existing coverage and gap | The English art-project guide used "dementia patients" in its H1, SEO title, summary and FAQ. This conflicts with `site/CONTENT_GUIDE.md` and can frame a recreational activity as clinical care. | Replaced those labels with person-first wording; no activity or safety advice changed. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,511 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Built `/activities/art-projects/` has the updated H1, SEO title and FAQ; the Activities hub card uses the new title. The old phrase is absent from the English route. | Static output checked; no live-browser run. |
+| Not verified | No person-with-dementia, caregiver or native-speaker review. | Open; do not claim user or translation validation. |
+
+## Round 76: where to start after a dementia diagnosis
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association highlights follow-up care, support and future planning. Dementia Australia notes that responses differ, support is available to the person and family, and plans can start in smaller conversations when the person is ready. | Supports a practical starting guide; not treatment, legal or financial advice. |
+| Existing coverage and gap | The site has guides for doctor visits, medication, care services and caregiver support, but no page that helps someone recently diagnosed or their family choose an initial next step. | Added the site's 69th English caregiving guide with follow-up, support, decision-making and future-planning prompts. |
+| Safety boundary | The page does not recommend treatment, interpret decision-making capacity, prescribe legal documents or promise a timeline. It directs personal medical, legal and financial questions to qualified local professionals and points sudden confusion to urgent medical care. | General information only; involve the person as they wish. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,512 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/after-dementia-diagnosis/` contains the starting guidance, urgent-care boundary and local-professional caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person recently diagnosed, caregiver, clinician, legal/financial professional, native-speaker or live-browser review. | Open; do not claim personal validation. |
+
+## Round 77: work choices after a younger-onset dementia diagnosis
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association addresses younger-onset diagnosis, work and employer benefits. Dementia Australia suggests discussing work-specific symptoms and safety with a clinician, and gives task supports. Alzheimer's Society says no single work decision suits everyone. | Supports options and questions, not a job-fitness or legal decision. |
+| Existing coverage and gap | The site mentions younger-onset activities and general future planning, but has no guide to staying at work, considering adjustments, disclosure and benefits after diagnosis. | Added the site's 70th English caregiving guide. |
+| Safety boundary | The guide does not decide whether a person can work, state universal disclosure duties, guarantee workplace adjustments or interpret benefits. It points safety-sensitive questions to clinicians and employment rules to qualified local advisers. | General information only; local law and each job's risks differ. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,513 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/working-with-younger-onset-dementia/` contains the title, work-safety guidance and local-law caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person living with younger-onset dementia, caregiver, employer, clinician, employment/benefits professional, native-speaker or live-browser review. | Open; do not claim workplace or user validation. |
+
+## Round 78: when someone with dementia does not recognize you
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes not recognizing family as a possible memory change. Dementia Australia and Alzheimer's Society explain misidentification and suggest comfort, familiar cues and clinician review when it is distressing. NHS says sudden confusion needs immediate medical help. | Supports respectful response and escalation prompts, not a diagnosis of the cause. |
+| Existing coverage and gap | The communication guide covers general conversation habits, but no page addressed the emotional and practical moment when someone does not recognize a familiar person. | Added the site's 71st English caregiving guide with brief introductions, optional cues, visit planning and caregiver support. |
+| Safety boundary | The guide does not promise that the person recognizes or feels a particular attachment, diagnose misidentification, or suggest changing medicine. It directs sudden confusion to urgent care and repeated distress to a clinician. | General communication support only. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,514 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/when-someone-with-dementia-does-not-recognize-you/` contains the no-quiz guidance and urgent-care boundary; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person with dementia, family member, caregiver, clinician, native-speaker or live-browser review. | Open; do not claim clinical or personal validation. |
+
+## Round 79: prompt reporting when a person with dementia is missing
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association advises starting a search immediately but gives a 15-minute threshold before reporting. A U.S. DOJ law-enforcement journal says agencies should not require a fixed wait to start investigating and lists dementia-like symptoms as a high-risk factor; it also notes local rules vary. | The site now advises prompt local reporting without a universal timer or search radius. This is a safety-oriented synthesis, not legal advice. |
+| Existing coverage and gap | Two English pages repeated a 15-minute delay before calling 911, and one also gave a 1.5-mile search radius. | Updated both pages to search nearby safe areas while contacting local police or emergency services promptly, and provide last-seen details and a recent photo. |
+| Safety boundary | The updated canonical English pages do not prescribe a local emergency number, fixed search radius or waiting period. They tell readers to follow local responders and avoid searching dangerous places alone. Translated copies were not regenerated and may still contain the old threshold. | This commit improves English pages only; do not claim the multilingual safety gap is closed. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,514 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Both built English routes no longer contain a 15-minute delay or 1.5-mile radius; both direct readers to local responders. | English static output checked; no live-browser run. |
+| Not verified | The 189 translated copies of each guide were not regenerated and may still contain the old threshold. No person with dementia, caregiver, law-enforcement professional, clinician, native-speaker or live-browser review. | Open; this is not a multilingual safety fix. |
+
+## Round 80: family disagreements about dementia care
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association advises listening without blame, discussing concrete caregiving tasks and revisiting plans. Dementia Australia describes family disagreements around care and recommends seeking support. | Supports conversation structure and task coordination, not a specific care or legal decision. |
+| Existing coverage and gap | The site has caregiver self-care and care-option guides, but no page on family disagreements, task ownership or facilitating a calm discussion with the person involved. | Added the site's 72nd English caregiving guide with a short meeting agenda and task-sharing prompts. |
+| Safety boundary | The guide does not determine decision-making authority, assess capacity or settle medical, legal or financial questions. It keeps the person involved and directs jurisdiction-specific concerns to qualified local professionals. | General family communication guidance only. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,515 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/family-disagreements-about-dementia-care/` contains the meeting agenda and local-professional caveat; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person with dementia, family member, caregiver, mediator, clinician, native-speaker or live-browser review. | Open; do not claim family or professional validation. |
+
+## Round 81: responding to suspicion about missing items
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association suggests short, calm responses and avoiding argument. Alzheimer's Society and Dementia Australia say misplaced items, perception changes or other causes may be involved, and concerns should not be dismissed automatically. NHS says sudden confusion needs immediate medical help. | Supports checking facts and addressing feelings without diagnosing the cause. |
+| Existing coverage and gap | Communication and misidentification guides cover broad conversation habits, but no page addressed accusations about theft or the need to verify concerns. | Added the site's 73rd English caregiving guide with response examples, routine ideas and safeguarding boundaries. |
+| Safety boundary | The guide does not label a specific accusation as delusion or prescribe treatment. It advises checking facts, seeking professional or local safeguarding support, and getting urgent help for sudden confusion or immediate danger. | General information only; serious concerns need qualified local response. |
+| Checks | On Node 24.22.2, `pnpm --dir site verify` passed: 1,869 tests, 12,516 pages built, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit` passed. Python suite: 106 passed. `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 warnings remain in site content checks. |
+| Render inspection | Static output at `/caregiving/when-someone-with-dementia-is-suspicious/` includes the fact-checking, safeguarding and urgent-care guidance; the caregiving hub links to it. | Built route and hub checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 82: explain how to make room at the photo limit (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | W3C COGA's visible-label pattern says use familiar words next to the relevant control and gives an early-stage dementia example. W3C's WCAG 3 “Disabled controls explained” is explicitly an incomplete, developing draft; it proposes explaining why a control is disabled and how to enable it. Alzheimer's Society says memory aids should fit existing skills and notes that people may need support learning them. | Supports a visible, plain explanation. The app change is a usability inference, not a WCAG conformance claim or clinical benefit. |
+| Existing gap | At 24 of 24 copies, `Choose photos` was disabled. The count showed capacity, but did not tell the person what action makes the button available again. | The user had to infer the removal path from the photo cards. |
+| Change | On reaching the 24-photo limit, show “The collection is full. To add one, open a photo's Options and choose Remove this copy.” before the disabled picker button. The hint is absent below the limit. | Uses existing controls and the app-owned-copy wording. Import, removal, storage and network behavior are unchanged. |
+| Localization | Added the key to all 67 ARBs so Flutter's translation checker has complete dictionaries. | The English phrase is a fallback in 66 non-English ARBs; no native-speaker review. |
+| Regression test | Added a full-cap journey test that checks the count, hint, disabled chooser and no layout exception at 200% text on a 320 × 568 logical-pixel test surface. The existing three-photo journey checks that the hint is absent below the limit. | Written; not run because Flutter and Dart are unavailable in this environment. |
+| Implementation commit | `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb` | Source state for the available checks below. Flutter-specific checks were not run. |
+| Available checks | `scripts/check_arb.py` on 65 complete locale dictionaries; `python3 -m unittest discover -s tests -p 'test_*.py'`; `python3 scripts/release_metadata.py --check`; `git diff --check`. | 65 dictionaries pass; 106 Python tests pass; metadata and diff checks pass. |
+| Not verified | Flutter generation, widget test, analyzer, design-system Flutter test, simulator/device, caregiver/person or native-speaker review. | Open. Do not claim device or user validation. |
+
+
+## Round 83: support money decisions and respond to scams (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society recommends discussing money support with the person and keeping them involved. Alzheimer's Association advises pausing, verifying unexpected requests and contacting a known bank channel. CFPB distinguishes informal bill review, trusted contacts and transaction authority; its trusted-contact explanation says the contact does not gain account access. FTC gives prompt payment-provider steps after a scam and warns against sharing verification codes with unexpected contacts. ACL explains U.S. Adult Protective Services and emergency reporting. | Supports person-led help, careful checks and clear role boundaries. No legal, financial-recovery or health outcome is promised. |
+| Existing coverage and gap | The after-diagnosis page says to seek local professional advice for financial planning, and the suspicion page advises checking missing items. Neither explains everyday bill help, the limits of a trusted contact, signs of financial exploitation or scam response. | Added the site's 74th English guide and a direct link from the after-diagnosis guide. |
+| Safety boundary | The guide treats unusual transactions as warning signs, not proof of abuse or incapacity. It does not tell families to take over accounts, choose a product, change ownership or rely on a specific legal document. It marks reporting contacts as U.S.-specific and points other readers to local services. | General information; bank options and legal authority vary. |
+| Implementation commit | `cbd3725a6fd9be632d434a4a78f3618270e5118c` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,517 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Automated checks pass; 535 existing content warnings remain. |
+| Render inspection | Built route `/caregiving/managing-money-with-dementia/` contains the guide title and money-scam steps; built `/caregiving/` hub links to it. The existing after-diagnosis page links to the new guide. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, banker, financial/legal professional, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 84: mobile visual audit (navigation, games, layout)
 
 Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text) and reviewed one by one. This is automated rendering, not a device, VoiceOver or caregiver check.
 
@@ -161,5 +574,5 @@ Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, i
 | Full checks | See the PR for the final head: `dart format`, strict analyze, full `flutter test --coverage`, Python tests and the release metadata check. | Pass. |
 | Maintainer decisions (2026-11-11) | Look together: no "Picture 1 of 183" count for the included drawings; family photos keep "Picture N of M". Starter board: the maintainer asked the agent to decide; each pair now sits on a diagonal of the 2 × 2 board (side by side it looked already solved), with which picture is where still random. | Implemented. `photo_together_test.dart` and `gentle_board_test.dart` cover both; the Look together simulator journey was updated but not run (no simulator here). |
 | Text size (maintainer decision, 2026-11-11) | The maintainer asked not to follow every system text size. Renders at about 310% (the largest iPhone accessibility size) broke single words across lines on a phone ("Me/nu" on Home, "to/gether" on the finish heading); every screen was clean at 200% and in landscape. A fixed size was not chosen: it would take larger text from the older adults the app is for and fail Apple's Larger Text label. | `gmTextScaleBuilder` holds the phone's text size between 100% (the 16px floor) and 200% app-wide, dialogs and sheets included. `DESIGN.md` and `AGENTS.md` record the rule; `test/app/view/text_scale_test.dart` covers 85%, 100%, 150%, 200% and 310% and fails without the change. |
-| Rubric | `rubric.md` › Round 46: **9.87**, lowest 9.37 (localization). | Bar met. |
+| Rubric | `rubric.md` › Round 84: **9.87**, lowest 9.37 (localization). | Bar met. |
 | Not verified | No device, simulator, VoiceOver/TalkBack, caregiver or person-with-dementia check of these screens. | Open. |

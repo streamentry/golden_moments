@@ -73,6 +73,7 @@
   "photosIntro": "אפשר לבחור תמונות שנעים להסתכל עליהן יחד.",
   "photosPrivacyNote": "רק תמונות שנבחרו מועתקות לאפליקציה. אין חשבון ואין שרת לשיתוף בין בני משפחה. העותקים עשויים להיכלל בגיבוי של המכשיר.",
   "photosCount": "{max, plural, =1{{count} מתוך תמונה אחת} other{{count} מתוך {max} תמונות}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "לשחק עם התמונות האלה",
   "photosNeedTwoShowHidden": "כדי ליצור משחק התאמה צריך להציג לפחות שתי תמונות. {count, plural, other{{count} מוסתרות.}}",
   "photosNeedTwoAdd": "כדי ליצור משחק התאמה צריך להוסיף לפחות שתי תמונות.",

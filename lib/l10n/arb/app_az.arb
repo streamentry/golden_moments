@@ -73,6 +73,7 @@
   "photosIntro": "Birlikdə baxmaqdan zövq alacağınız fotoları seçin.",
   "photosPrivacyNote": "Tətbiqə yalnız seçilmiş fotolar köçürülür. Hesab və ya ailə sinxronizasiya serveri yoxdur. Surətlər cihazın ehtiyat nüsxəsinə daxil ola bilər.",
   "photosCount": "{max, plural, =1{Foto: {count} / 1} other{Foto: {count} / {max}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Bu fotolarla oynayın",
   "photosNeedTwoShowHidden": "Uyğunlaşdırma oyunu üçün ən azı iki foto göstərin. {count, plural, other{{count} gizlidir.}}",
   "photosNeedTwoAdd": "Uyğunlaşdırma oyunu üçün ən azı iki foto əlavə edin.",

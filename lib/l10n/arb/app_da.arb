@@ -73,6 +73,7 @@
   "photosIntro": "Vælg billeder, I har lyst til at se sammen.",
   "photosPrivacyNote": "Kun de valgte billeder bliver kopieret ind i appen. Ingen konto og ingen server til familiedeling. Kopierne kan indgå i sikkerhedskopien af din enhed.",
   "photosCount": "{max, plural, =1{{count} af 1 billede} other{{count} af {max} billeder}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Spil med disse billeder",
   "photosNeedTwoShowHidden": "Vis mindst to billeder for at lave et parspil. {count, plural, other{{count} skjult.}}",
   "photosNeedTwoAdd": "Tilføj mindst to billeder for at lave et parspil.",

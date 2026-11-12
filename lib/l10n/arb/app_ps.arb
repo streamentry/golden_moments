@@ -73,6 +73,7 @@
   "photosIntro": "هغه عکسونه وټاکئ چې تاسو یې یوځای لیدل خوښوئ.",
   "photosPrivacyNote": "یوازې ټاکل شوي عکسونه پدې اپلیکېشن کې کاپي کېږي. هېڅ حساب یا د کورنۍ د همغږۍ سرور نشته. کاپیانې ښايي ستاسو د وسیلې په بیکاپ کې شاملې شي.",
   "photosCount": "{max, plural, =1{د 1 عکس څخه {count}} other{د {max} عکسونو څخه {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "پدې عکسونو لوبه وکړئ",
   "photosNeedTwoShowHidden": "د جوړو لوبې جوړولو لپاره لږترلږه دوه عکسونه ښکاره کړئ. {count, plural, other{{count} پټ دي.}}",
   "photosNeedTwoAdd": "د جوړو لوبې جوړولو لپاره لږترلږه دوه عکسونه اضافه کړئ.",

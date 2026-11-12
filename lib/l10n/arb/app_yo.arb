@@ -73,6 +73,7 @@
   "photosIntro": "Ẹ yan àwọn fọ́tò tí ẹ máa gbádùn láti jọ wò papọ̀.",
   "photosPrivacyNote": "Àwọn fọ́tò tí a yàn nìkan ni a ń dà kọ sínú àpù yìí. Kò sí àkọọ́lẹ̀ tàbí olupin ìṣọ̀kan ẹbí. Àwọn ẹ̀dà lè wà nínú ẹ̀dà àfipamọ́ ẹ̀rọ yín.",
   "photosCount": "{max, plural, =1{{count} nínú fọ́tò kan} other{{count} nínú fọ́tò {max}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Ṣeré pẹ̀lú àwọn fọ́tò wọ̀nyí",
   "photosNeedTwoShowHidden": "Ẹ fi o kéré tán fọ́tò méjì hàn kí ẹ lè ṣe eré ìbára-mu. {count, plural, other{{count} wà ní ìfipamọ́.}}",
   "photosNeedTwoAdd": "Ẹ fi o kéré tán fọ́tò méjì kún un kí ẹ lè ṣe eré ìbára-mu.",

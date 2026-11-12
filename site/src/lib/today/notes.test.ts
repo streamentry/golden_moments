@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { MAX_NOTES, MAX_TEXT, addNote, byDay, loadNotes, parseNotes, removeNote, removeNoteAriaLabel, saveNotes, toggleSituation, type Note } from './notes';
+import { MAX_NOTES, MAX_TEXT, STORAGE_KEY, addNote, byDay, clearNotes, loadNotes, parseNotes, removeNote, removeNoteAriaLabel, saveNotes, toggleSituation, type Note } from './notes';
 
 const note = (over: Partial<Note> = {}): Note => ({
   id: 'a',
@@ -16,6 +16,7 @@ function memoryStorage(initial: Record<string, string> = {}) {
     data,
     getItem: (k: string) => (k in data ? data[k] : null),
     setItem: (k: string, v: string) => void (data[k] = v),
+    removeItem: (k: string) => void delete data[k],
   };
 }
 
@@ -25,6 +26,11 @@ describe('notes', () => {
     const after = addNote(before, note({ id: 'new' }));
     expect(after.map((n) => n.id)).toEqual(['new', 'old']);
     expect(before.map((n) => n.id)).toEqual(['old']);
+  });
+
+  it('does not attach a time band to an activity that was not tried', () => {
+    const saved = addNote([], note({ outcome: 'not_tried', timeOfDay: 'morning' }));
+    expect(saved[0]).toEqual(note({ outcome: 'not_tried' }));
   });
 
   it('keeps at most MAX_NOTES and trims long text', () => {
@@ -53,6 +59,18 @@ describe('notes', () => {
     expect(parseNotes(raw)).toEqual([note()]);
   });
 
+  it('keeps legacy notes and normalizes an optional time-of-day field', () => {
+    const oldNote = note({ id: 'old' });
+    const timedNote = note({ id: 'timed', timeOfDay: 'morning' });
+    const unknownTime = { ...note({ id: 'unknown' }), futureFlag: true, timeOfDay: 'night' };
+
+    expect(parseNotes(JSON.stringify([oldNote, timedNote, unknownTime]))).toEqual([
+      oldNote,
+      timedNote,
+      { ...note({ id: 'unknown' }), futureFlag: true },
+    ]);
+  });
+
   it('groups notes by day, newest day first', () => {
     const days = byDay([note({ id: '1', date: '2026-10-30' }), note({ id: '2', date: '2026-11-01' }), note({ id: '3', date: '2026-10-30' })]);
     expect(days.map((d) => [d.date, d.notes.map((n) => n.id)])).toEqual([
@@ -74,8 +92,19 @@ describe('notes', () => {
     expect(saveNotes(broken, [note()])).toBe(false);
     expect(loadNotes(undefined)).toEqual([]);
     const ok = memoryStorage();
-    expect(saveNotes(ok, [note()])).toBe(true);
-    expect(loadNotes(ok)).toEqual([note()]);
+    const timedNote = note({ timeOfDay: 'afternoon' });
+    expect(saveNotes(ok, [timedNote])).toBe(true);
+    expect(loadNotes(ok)).toEqual([timedNote]);
+  });
+
+  it('clears only Today notes and reports when storage blocks deletion', () => {
+    const storage = memoryStorage({ [STORAGE_KEY]: JSON.stringify([note()]), otherPreference: 'large' });
+
+    expect(clearNotes(storage)).toBe(true);
+    expect(storage.data).toEqual({ otherPreference: 'large' });
+    expect(loadNotes(storage)).toEqual([]);
+    expect(clearNotes(undefined)).toBe(false);
+    expect(clearNotes({ removeItem: () => { throw new Error('blocked'); } })).toBe(false);
   });
 
   it('formats an accessible remove button label', () => {

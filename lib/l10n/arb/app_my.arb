@@ -73,6 +73,7 @@
   "photosIntro": "အတူတကွ ကြည့်ရတာ ပျော်စရာကောင်းမယ့် ဓာတ်ပုံများကို ရွေးပါ။",
   "photosPrivacyNote": "ရွေးထားတဲ့ ဓာတ်ပုံများကိုသာ ဒီအက်ပ်ထဲ ကူးထည့်ပါတယ်။ အကောင့်လည်း မလို၊ မိသားစု ချိတ်ဆက်ဆာဗာလည်း မရှိပါ။ မိတ္တူများကို သင့်စက်ဘက်ခ်အပ်ထဲ ထည့်သွင်းသိမ်းနိုင်ပါတယ်။",
   "photosCount": "{max, plural, =1{ဓာတ်ပုံ ၁ ပုံအနက် {count} ပုံ} other{ဓာတ်ပုံ {max} ပုံအနက် {count} ပုံ}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "ဒီဓာတ်ပုံတွေနဲ့ ကစားပါ",
   "photosNeedTwoShowHidden": "တွဲကစားပွဲ လုပ်ရန် ဓာတ်ပုံ အနည်းဆုံး နှစ်ပုံ ပြပါ။ {count, plural, other{ဝှက်ထားတာ {count} ပုံ။}}",
   "photosNeedTwoAdd": "တွဲကစားပွဲ လုပ်ရန် ဓာတ်ပုံ အနည်းဆုံး နှစ်ပုံ ထည့်ပါ။",
