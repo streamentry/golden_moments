@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Namų ruošos darbai kaip veiklos žmonėms su demencija"
+seoTitle: "Namų veiklos demencijai: kasdieniai darbai"
+description: "Lankstymas, rūšiavimas, stalo klojimas ir paprastas gaminimas – prasmingos veiklos žmonėms su demencija. Kaip jas paruošti, pritaikyti ir išlaikyti saugias."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Kasdieniai namų darbai, pavyzdžiui, rankšluosčių lankstymas, kojinių
+  rūšiavimas, stalo klojimas, stalviršių valymas, augalų laistymas ir pagalba
+  paprastai gaminant, gali suteikti žmogui, gyvenančiam su demencija, tikrą
+  galimybę padėti. Rinkitės jam pažįstamas užduotis, skaidykite jas po vieną
+  žingsnį, pašalinkite aštrius ar karštus pavojus ir vertinkite dalyvavimą labiau
+  nei tai, ar darbas padarytas „teisingai“.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Pažįstami darbai padeda žmogui jaustis naudingam ir namų dalimi, o tai dažnai svarbiau nei tai, kaip gerai darbas atliktas."
+  - "Kiekvieną užduotį skaidykite į atskirus žingsnius, rodykite, o ne aiškinkite, ir tyliai perimkite bet kurį sunkiu tapusį žingsnį."
+  - "Užrakinkite peilius, valiklius ir skalbiklio kapsules, o prieš gaminant kartu uždėkite viryklės rankenėlių apsaugas ar automatinį išjungimą."
+  - "Sulankstytų rankšluosčių nereikia lankstyti iš naujo žmogui matant. Jei tikrai reikia ką nors perdaryti, darykite vėliau ir nematomai."
+  - "Jei užduotis kelia nusivylimą, pereikite prie lengvesnio žingsnio, bandykite kitą kartą arba tiesiog pasėdėkite kartu."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Kokius namų darbus žmogus su demencija dar gali padėti atlikti?"
+    a: "Daugelis žmonių dar gali lankstyti skalbinius, rasti kojinių poras, rūšiuoti šaukštus ir šakutes, kloti stalą, nuvalyti stalviršį, dulkinti, šluoti, laistyti augalus ar pamaišyti tešlą dubenyje. Rinkitės užduotis, kurias žmogus darė anksčiau, ir suderinkite jas su tuo, ką jis gali dabar. Vėlesnėse stadijose gali pakakti vieno pasikartojančio judesio, pavyzdžiui, servetėlių išlyginimo."
+  - q: "Ar žmogui su demencija saugu padėti virtuvėje?"
+    a: "Gali būti, su nuolatine priežiūra ir tinkama aplinka. Peilius, valiklius ir viską, kas karšta, laikykite nepasiekiamai, naudokite viryklės rankenėlių apsaugas ar automatinį išjungimą ir duokite saugų darbą, pavyzdžiui, daržovių plovimą, maišymą ar lėkščių statymą. Niekada nepalikite jo vieno su įjungta viryklė."
+  - q: "Ką daryti, jei jis sulanksto daiktus netinkamai ar sukuria netvarką?"
+    a: "Palikite taip. Tikslas – bendras laikas ir jausmas, kad esate naudingas, o ne tobulas rezultatas. Jei kažką tikrai reikia perdaryti, palaukite vėliau ir darykite tada, kai žmogus nežiūri, kad jis nesijaustų taisomas."
+  - q: "Ką daryti, jei jis atsisako padėti?"
+    a: "Ne gali reikšti, kad užduotis šiuo metu atrodo per sunki, painių ar varginanti. Nespauskite. Pabandykite paprastesnę versiją, paprašykite, kad vietoj to pabūtų jums kompanija, arba paklauskite vėliau, kitu dienos metu."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Daugelis žmonių, gyvenančių su demencija, dešimtmečius tvarkė namus, augino šeimą ar palaikė tvarką darbe. Kai juos paprašoma padėti su tikrais namų darbais, tai gali pasakyti „tu vis dar esi šios šeimos dalis“ taip, kaip retai kuri kita veikla. Šiame puslapyje aprašoma, kurios užduotys dažniausiai tinka, kaip jas paruošti, kaip jas pritaikyti keičiantis padėčiai ir kaip išlaikyti virtuvę bei skalbimo kambarį saugius.
 
-## Why do everyday chores work well as activities?
+## Kodėl kasdieniai darbai gerai tinka kaip veiklos?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Darbai tinka, nes jie pažįstami ir turi aiškų tikslą. Nacionalinis senėjimo institutas tarp [kasdienių veiklų, kurios žmonėms su Alzheimerio liga gali patikti](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), mini indų plovimą, stalo klojimą, šluostymą, dulkinimą, pašto rūšiavimą, skalbinių lankstymą ir perdirbamų atliekų rūšiavimą. Alzheimerio asociacija pastebi, kad tokios užduotys kaip stalo klojimas padeda žmogui [jaustis vertinga namų ūkio dalimi](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Darbas taip pat turi savo priežastį pradėti. „Ar galėtum man padėti su šiais rankšluosčiais?“ lengviau sutikti nei „Ar norėtum užsiimti veikla?“.
 
-## Which household tasks are good to try?
+## Kokias namų ruošos užduotis verta išbandyti?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Pradėkite nuo užduočių, kurias žmogus darė anksčiau, ir tada suderinkite jas su tuo, ką jis gali šiandien.
 
-### Laundry and linens
+### Skalbiniai ir patalynė
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Rankšluosčių ir skudurėlių lankstymas.** Padėkite krepšį mažų, plokščių daiktų. Rankšluosčiai atlaidūs: nėra neteisingo būdo juos sulankstyti.
+- **Kojinių rinkimas poromis.** Padėkite ant stalo mišrią krūvą. Jei poras sunku pastebėti, naudokite tik dvi ar tris labai skirtingų spalvų.
+- **Lyginimas ir krovimas.** Servetėles, pagalvių užvalkalus ar virtuvės rankšluosčius galima išlyginti ir sukrauti. Tai gerai tinka vėliau, kai lankstymas tapo per daug žingsnių.
 
-### Table and kitchen
+### Stalas ir virtuvė
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Stalo klojimas.** Vieną vietą pirmiausia nukloti kaip pavyzdį ir leisti žmogui kopijuoti. Jei to per daug, duokite po vieną daiktą: „Štai šakutė kiekvienai lėkštei.“
+- **Stalo įrankių rūšiavimas.** Švarias šakutes, šaukštus ir sviesto peiliukus sumaišykite dėkle ir surūšiuokite į padalintą dėklą. Aštrius peilius palikite nuošalyje.
+- **Indų džiovinimas.** Plastikiniai ar nesudūžtantys indai ir minkšta šluostė daro šį darbą saugiu.
+- **Stalo ar stalviršių valymas.** Drėgna šluostė ir švarus paviršius. Alzheimerio asociacija pataria pasiūlyti šluostę, jei kas nors jau trina stalą ranka, ir taip nerimastingą judesį paversti naudingu.
 
-### Around the house
+### Aplink namus
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Dulkinimas.** Minkštas dulkių šluostukas ir keli tvirti paviršiai, pavyzdžiui, kavos staliukas ar knygų lentyna.
+- **Pašto rūšiavimas.** Duokite reklaminius laiškus ir katalogus rūšiuoti į krūveles: pasilikti, perdirbti, atidaryti vėliau. Tikras sąskaitas ir čekius laikykite kitur.
+- **Perdirbamų atliekų rūšiavimas.** Švarias skardines, butelius ir popierių surūšiuokite į atskirus konteinerius.
+- **Šluostymas.** Mažas šepetys ant terasos ar virtuvės grindų, jei pusiausvyra stabili.
+- **Augalų laistymas.** Mažas, lengvas laistytuvas ir keli augalai, lengvai pasiekiami.
 
-### Simple cooking with supervision
+### Paprastas gaminimas prižiūrint
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Gaminimas gali sugrąžinti stiprius, malonius jausmus. NIA pataria leisti žmogui surinkti produktus, pamatuoti, maišyti ir pilti arba tiesiog pasakyti kitam, kaip gaminti mėgstamą receptą. Tinkami darbai:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- daržovių ar vaisių plovimas
+- tešlos ar šalto salotų maišymas
+- salotų lapų plėšymas
+- sviesto tepimas ant skrudintos duonos bukuoju peiliuku
+- sausainių tešlos dėliojimas ant kepimo skardos
+- priedų dėliojimas ant picos
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Jei matavimas tampa sunkus, Alzheimerio asociacija pataria pabaigti matavimą patiems, o žmogui pasiūlyti kitą žingsnį, pavyzdžiui, maišymą.
 
-## How do I set up a chore so it goes well?
+## Kaip paruošti darbą, kad jis gerai praeitų?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Pasirinkite tinkamą laiką.** Rinkitės dienos dalį, kai žmogus paprastai ilsisi ir yra ramus. Daugeliui tai yra rytas.
+2. **Išvalykite erdvę.** Viena užduotis, vienas paviršius, nieko nereikalingo ant stalo.
+3. **Kvieskite, o ne skirkite.** „Man reikėtų pagalbos su šiais“ veikia geriau nei „Laikas lankstyti skalbinius.“
+4. **Parodykite pirmąjį.** Lėtai sulankstykite vieną rankšluostį, tada duokite kitą. Parodyti aiškiau nei paaiškinti.
+5. **Duokite po vieną žingsnį.** Per daug nurodymų vienu metu gali priblokšti. Palaukite, kol vienas žingsnis baigsis, tada įvardykite kitą.
+6. **Dirbkite greta.** Ta pati užduotis šalia kito jaučiasi kaip kompanija, o ne priežiūra.
+7. **Kalbėkite apie užduotį, o ne apie rezultatą.** „Šie rankšluosčiai tokie minkšti“ ar „Papasakok, kaip tu tvarkydavai spintą su patalyne“ kviečia pokalbį ir nieko netikrina.
 
-## How do I adapt chores as abilities change?
+## Kaip pritaikyti darbus, kai keičiasi gebėjimai?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Gebėjimai keičiasi laikui bėgant ir net iš dienos į dieną. Alzheimerio asociacija pataria progresuojant ligai pereiti prie paprastesnių, labiau pasikartojančių užduočių.
 
-| If this has become hard | Try this instead |
+| Jei tai tapo sunku | Pabandykite vietoj to |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Didelių paklodžių lankstymas | Skudurėlių lankstymas ar servetėlių lyginimas |
+| Pilno stalo klojimas | Vienos servetėlės padėjimas prie kiekvienos vietos |
+| Pašto rūšiavimas pagal kategorijas | Vokų krovimas į vieną krūvą |
+| Recepto laikymasis | Maišymas arba stebėjimas ir ragavimas, kol jūs gaminate |
+| Visos grindų šluostymas | Vieno mažo stalo nuvalymas |
+| Užduoties atlikimas apskritai | Sėdėjimas šalia ir pabuvimas kompanija, kol jūs dirbate |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Stebėjimas taip pat skaičiuojasi. NIA pastebi, kad kai kurie žmonės tiesiog mėgsta stebėti, ir tai yra puikus būdas dalyvauti.
 
-## How do I keep household tasks safe?
+## Kaip išlaikyti namų ruošos darbus saugius?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Saugumas pirmiausia, ypač virtuvėje. Nacionalinio senėjimo instituto [namų saugos patarimai Alzheimerio slaugytojams](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) apima:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Užrakinkite arba pašalinkite valiklius, įskaitant skalbiklio kapsules, kurios gali atrodyti kaip saldainiai.
+- Peilius, žirklės ir elektrinius įrankius laikykite užrakintoje vietoje.
+- Prie viryklės įsigykite saugos rankenėles ir automatinį išjungimo jungiklį.
+- Prie orkaitės, skrudintuvo ir lygintuvo padėkite įspėjamuosius ženklus „Stop“ arba „Labai karšta“, taip, kad jie neužsidegtų.
+- Vandens šildytuvą nustatykite į 120°F, kad sumažintumėte nudegimų riziką.
+- Pašalinkite dirbtinius vaisius ir magnetukus maisto formos, nes jie gali atrodyti valgomi.
 
-A few more practical habits help:
+Dar keli praktiniai įpročiai padeda:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Būkite kambaryje, kai naudojama viryklė, orkaitė ar aštrus įrankis.
+- Džiovinimui ir stalo klojimui naudokite nesudūžtančius indus.
+- Šluodami ar valydami grindis laikykite jas sausas ir be daiktų.
+- Jei žmogus anksčiau naudojo įrankius, Alzheimerio asociacija pataria iš dirbtuvės pašalinti pavojingus daiktus, kad saugią užduotį, pavyzdžiui, medienos gabalo šlifavimą, vis tiek būtų galima mėgautis.
 
-## What if they do it "wrong"?
+## Ką daryti, jei jis daro „neteisingai“?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Palikite taip. Rankšluostis, sulankstytas į tris, o ne per pusę, vis tiek yra sulankstytas rankšluostis. Alzheimerio asociacija tai pasako aiškiai: svarbu praleisti laiką kartu ir jaustis žmogui naudingam, o ne tai, ar rankšluosčiai sulankstyti tinkamai. Jei tikrai reikia perdaryti, palaukite vėliau ir darykite nematomai.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Taisymas tos akimirkos metu gali paversti malonų darbą priminimu apie tai, ką žmogus prarado. „Ačiū, tai man labai padeda“ beveik visada yra tinkamiausias atsakymas.
 
-## When should we stop?
+## Kada reikėtų sustoti?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Sustokite arba pakeiskite užduotį, kai matote nusivylimo, nuovargio ar susidomėjimo praradimo ženklus. Anksti baigti – geras rezultatas, o ne nesėkmė. Galite:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- pakeisti į lengvesnį žingsnį
+- pereiti prie ko nors ramaus, pavyzdžiui, muzikos ar puodelio kavos
+- bandyti vėliau ar kitą dieną
+- tiesiog pasėdėti kartu
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Jei žmogus sako ne, nespauskite. Švelnių būdų reaguoti rasite [ką daryti, kai jie sako ne](/caregiving/when-they-say-no/).
 
-## Low-effort extras for a quieter moment
+## Maži priedai ramesniam momentui
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Kai fiziniai darbai neįmanomi, rūšiavimą ir poravimą galima atlikti sėdint. [Rūšiuokite kartu](/games/sort-together/) leidžia bakstelėti paveikslėlius į virtuvės ar sodo krepšius, o [nuotraukų poros](/games/picture-pairs/) yra švelnus atitikmenų žaidimas su dideliais paveikslėliais ir be laikmačio. [Pokalbių kortelės](/games/conversation-cards/) turi atvirus klausimus apie namus ir šeimą, kurie puikiai dera su kava, kai darbai baigti.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Jei norite padėti suderinti darbus su dienos tvarka, žr. mūsų gidą apie [ramią kasdienę rutiną](/activities/daily-routine/). Daugiau idėjų pagal etapus rasite [veiklose vidurinėje stadijoje](/activities/middle-stage/).
