@@ -1,32 +1,28 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Aktiviteter for menn med demens"
+seoTitle: "Aktiviteter for menn med demens: ideer fra livet"
+description: "Aktivitetsideer for menn med demens, bygget på tidligere arbeid, hobbyer og rutiner heller enn stereotypier, med tips for å tilpasse hver enn trygt."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  De beste aktivitetene for en mann med demens kommer fra hans eget liv: arbeidet han gjorde, hobbyene han elsket og rutinene han holdt. En tidligere kontormedarbeider liker kanskje å sortere papirer, en mekaniker kanskje å holde i rene verktøy, og en sportsfan kanskje et gammelt spill. Interessene varierer fra mann til mann, så start med personen, ikke med kjønnet.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Start med mannens egen historie: jobben hans, hobbyene, rutinene og det han var stolt av."
+  - "Oppgaver med et reelt formål, som å sortere beslag, vaske bilen eller pusse tre, tiltrekker ofte mer enn aktiviteter som føles som en undervisningstime."
+  - "Ikke alle menn liker verktøy eller sport. Mange liker matlaging, musikk, hagearbeid, kunst eller å ta vare på andre. Spør, følg med og la ham lede."
+  - "Gjør arbeidsoppgaver trygge ved å fjerne skarpe verktøy og holde oppsyn, og forenkle dem etter hvert som evnene endrer seg."
+  - "Å si nei er lov. Tilby en rolle, ikke en oppgave, og prøv igjen en annen dag."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Hvilke aktiviteter liker menn med demens?"
+    a: "Det finnes ingen fast liste, fordi interessene til menn varierer like mye som hos alle andre. Gode utgangspunkt er oppgaver knyttet til tidligere arbeid, for eksempel å ordne papirer eller sortere muttere og bolter, samt hobbyer han elsket, som fiske, biler, musikk, matlaging eller sport. Se hva han gjør av seg selv, og bygg videre på det."
+  - q: "Pappa nekter å være med på gruppeaktiviteter. Hva kan jeg gjøre?"
+    a: "Mange, både menn og kvinner, takker nei til aktiviteter som føles som undervisning eller virker barnslige. Prøv å tilby en jobb i stedet: «Kan du hjelpe meg å sortere disse?» Mindre grupper eller tid én-til-én kan også føles mer komfortabelt enn et stort rom."
+  - q: "Er det trygt å la ham bruke verktøy?"
+    a: "Bare med oppsyn og trygt utstyr. Fjern elektriske verktøy, blader og alt som er skarpt, og tilby oppgaver som å pusse en trekloss, sortere rent beslag eller stramme store bolter for hånd. Alzheimer's Association foreslår å fjerne farlige ting fra verkstedet, slik at en oppgave som sliping fortsatt kan gi glede på en trygg måte."
+  - q: "Han var profesjonell. Vil enkle oppgaver føles som en fornærmelse?"
+    a: "Det kan de, hvis de presenteres som oppfyllingsarbeid. Presenter oppgaven som reell hjelp, bruk voksne materialer, og velg noe nær den tidligere rollen, for eksempel å gå gjennom en liste, ordne en mappe eller hjelpe til med en utsending. Hvis han var svært dyktig på noe, kan en beslektet, men annerledes aktivitet føles mindre som en sammenligning."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +41,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Folk søker ofte på «aktiviteter for menn med demens» fordi de vanlige forslagene ikke virker å passe mannen i livet deres. Det er en rimelig bekymring. Men svaret er ikke en liste over «mannlige» aktiviteter. Det er å starte med denne mannen: hva han jobbet med, hva han gjorde i helgene, og hva som fikk ham til å føle seg nyttig. Interesser varierer for alle. Mange menn elsker å lage mat, stelle hagen, male eller synge, og mange kvinner elsker biler og bilmerker.
 
-## How do I find activities he will actually enjoy?
+## Hvordan finner jeg aktiviteter han faktisk vil like?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Begynn med livshistorien hans. Alzheimer's Association foreslår å bygge en [daglig plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) rundt personens likes, misliker, styrker og interesser, og rundt hvordan han pleide å strukturere dagen. Spør deg selv:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Hva var jobben hans?** Kontor, gård, fabrikk, håndverk, militæret, salg, undervisning, kjøring, hjemmet?
+- **Hva gjorde han på fritiden?** Fiske, kortspill, trearbeid, sport, kirken, musikk, matlaging, en bil i garasjen?
+- **Hva var rutinene hans?** Kaffe og avisen hver morgen? Sjekke været? Vaske bilen på lørdager?
+- **Hva begynner han fortsatt på selv?** Foreningen påpeker at hvis en person begynner på oppgaver uten å bli bedt om det, som å feie gulvet, kan disse oppgavene bli en del av rutinen.
+- **Hva unngår han?** Noen liker å se sport; andre blir urolige av tempoet og støyen. Legg merke til når han virker glad, engstelig eller irritert.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Snakk også med familie og gamle venner. De kan huske interesser som har falmet fra hverdagen.
 
-## Activity ideas based on past work
+## Aktivitetsideer basert på tidligere arbeid
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association gir et tydelig eksempel: en tidligere kontormedarbeider kan like å organisere ting, for eksempel legge mynter i en holder, hjelpe til med å sette sammen en utsending eller lage en huskeliste, mens en tidligere bonde eller gartner kanskje liker å jobbe i hagen. Den samme tanken gjelder for mange yrker.
 
-| Past work | Activity ideas | Simpler version |
+| Tidligere arbeid | Aktivitetsideer | Enklere versjon |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Kontor eller næringsliv | Sortere papirer i mapper, stemple konvolutter, gå gjennom en liste, rydde i en skuffe | Stable konvolutter; legge binders i en eske |
+| Håndverk eller mekaniker | Sortere rene muttere, bolter og skiver; stramme store bolter for hånd; bla i verktøykataloger | Sortere etter størrelse i to kopper |
+| Gårdsdrift eller anleggsgartner | Vanne, sette planter i potter, rake løv, se til hagen | Sitte ute mens du jobber; holde frøposer |
+| Militæret | Pusse sko, rydde i en skuff, se på bilder fra tjenesten hvis han liker det | Lytte til musikk fra den tiden |
+| Salg eller kundeservice | Hilse på besøkende, dele ut snacks, sortere kuponger | Sitte ved døra og si hei |
+| Undervisning | Lese høyt, ordne bøker, sortere bilder etter tema | Bla i en bildebok sammen |
+| Kjøring eller transport | Se på kart eller gamle bilblader, vaske bilen | Se biler kjøre forbi fra verandaen |
+| Hjem og familie | Brette klesvask, dekke bordet, hjelpe til med middag | Glatte ut servietter; røre i gryta |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Noen minner, som militærtjeneste, kan vekke sterke følelser. Følg hans ledelse, hold samtalen om fortiden positiv, og endre emnet varsomt hvis han virker opprørt.
 
-## Activity ideas based on hobbies
+## Aktivitetsideer basert på hobbyer
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Trearbeid.** Pusse en glatt trekloss eller male en fuglekasse av et byggesett. Alzheimer's Association foreslår å fjerne farlige materialer og verktøy fra verkstedet, slik at en aktivitet som sliping kan være hyggelig og trygg.
+2. **Fiske.** Sortere en fiskeeske uten kroker, bla i fiskeblader, eller sitte ved en dam sammen.
+3. **Biler.** Vaske bilen, polere krom, se på bilder av klassiske biler, eller ta en tur som passasjer.
+4. **Sport.** Se en klassisk kamp eller høydepunkter, kaste en myk ball, legge golfballer på et teppe, eller sortere baseballkort.
+5. **Kort og spill.** En enkel runde med et kjent kortspill, dominobrikker, eller snu kort for å finne et par. Hold det avslappet, og slutt å telle poeng.
+6. **Musikk.** Sanger fra tenårene og tjueårene, et favorittband, eller en salme. Se vår [veiledning om musikkaktiviteter](/activities/music/).
+7. **Matlaging og grilling.** Vaske grønnsaker, røre i saus, forme kjøttboller, eller fortelle hvordan han lagde sin berømte chili mens du lager den.
+8. **Avisen.** Alzheimer's Association påpeker at en person som alltid leste avisen fortsatt kan like å gjøre det, selv om han ikke helt følger innholdet. Kaffe og avis kan være en del av morgenen.
+9. **Bygging.** Modellsett med store deler eller enkle byggesett for voksne. Velg deler som er lette å gripe.
+10. **Å ta vare på noe.** Mate et kjæledyr, fylle fuglebrettet eller vanne planter. NIA lister [å mate, pusse eller gå tur med et kjæledyr](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) blant aktiviteter folk kan like.
 
-## How do I offer an activity without it feeling like busywork?
+## Hvordan tilbyr jeg en aktivitet uten at den føles som oppfyllingsarbeid?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Presenter den som reell hjelp. Alzheimer's Association foreslår å spørre «Kan du hjelpe meg?» og å knytte oppgavene til et formål. Sammenlign:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Vil du sortere disse boltene?» (høres ut som en prøve)
+- «Jeg kjøpte en blandet pose med beslag, og jeg må ha dem sortert før jeg fikser hyllen. Kan du gi meg en hånd?» (høres ut som en jobb)
 
-Other tips:
+Andre tips:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Bruk voksne materialer.** Ekte verktøy med skarpe kanter fjernet, ekte kataloger, ekte konvolutter.
+- **Jobb side om side.** To personer som jobber sammen med en oppgave er selskap. Én som ser på en annen er tilsyn.
+- **Ikke korriger.** Hvis boltene havner i feil kopp, la det være. Det som betyr noe, er tiden sammen og følelsen av å være nyttig.
+- **Hjelp ham i gang.** Alzheimer's Association påpeker at mange fortsatt har lyst til å gjøre ting, men sliter med å organisere og starte. Gjør den første sammen.
 
-## How do I adapt as things change?
+## Hvordan tilpasser jeg når ting endrer seg?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Når demens utvikler seg, foreslår Alzheimer's Association å introdusere enklere, mer repetitive oppgaver og være forberedt på at personen tar en mindre aktiv rolle. En mann som en gang bygde motorer kan nå like å holde en ren skiftenøkkel og snakke om biler, eller å se på mens du jobber. Å se på er også å delta.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Hvis han var svært dyktig på noe, kan en beslektet aktivitet føles bedre enn hans gamle håndverk. Foreningen påpeker at en profesjonell kunstner kan bli frustrert over endringer i arbeidet sitt, mens en amatør kan like et nytt uttrykk. Det samme gjelder en erfaren snekker.
 
-## Safety with work-style tasks
+## Sikkerhet ved arbeidsaktiviteter
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Fjern elektriske verktøy, blader, spikere og skruer med skarpe spisser.
+- Lås inn malingsfortynner, bensin og kjemikalier.
+- Hold bilnøkler skjult hvis han ikke lenger kjører.
+- Hold oppsyn med alle oppgaver i verkstedet og på tunet.
+- Velg store deler som ikke kan svelges.
 
-## What if he says no?
+## Hva hvis han sier nei?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respekter det. Et nei kan bety at oppgaven føles for vanskelig, for barnslig eller bare ikke riktig i dag. Alzheimer's Association advarer mot å tvinge det. Prøv en annen oppgave, et annet tidspunkt, eller bare sitt sammen. Se [hva du gjør når personen sier nei](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Spill og samtale som passer
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) bruker kjente amerikanske ordtak og fører over i samtale. [Samtalekort](/games/conversation-cards/) har åpne spørsmål uten quiz, etter tema, som kan åpne for historier om arbeid og hobbyer. [Bildepuslespill](/games/picture-puzzle/) holder hele bildet synlig mens dere bytter brikker, og [ordsøket](/games/word-search/) med stor skrift kan skrives ut og gjøres med penn ved kjøkkenbordet. For måter å snakke om hans fortid uten å teste ham, se vår [veiledning om minner](/activities/reminiscence/).

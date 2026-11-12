@@ -1,7 +1,7 @@
 ---
 title: "Aktivitete për demencën me fillim të hershëm: ide për të rritur në moshë pune"
 seoTitle: "Aktivitete për demencën me fillim të hershëm"
-description: "Aktivitete për demencën me fillim të hershëm, kur simptomat fillojnë para 65 vjetësh: hobi, dalje, muzikë nga rinia dhe mbështetje për partnerët dhe fëmijët e rritur."
+description: "Aktivitete për demencën me fillim të hershëm, para moshës 65 vjeç: hobi, dalje, muzikë nga rinia dhe mbështetje për partnerët dhe fëmijët e rritur."
 section: activities
 order: 26
 updated: 2026-11-08
@@ -16,7 +16,7 @@ summary: >-
 keyPoints:
   - "Demenca me fillim të hershëm fillon para 65 vjeç. Njerëzit shpesh ndjehen se mosha e tyre nuk përputhet me aktivitetet e ofruara."
   - "Lëreni personin të mbajë kontrollin e zgjedhjeve, nga cila hobi të provojë deri në cilën dalje të planifikojë."
-  - "Muzika, fotot dhe historitë nga të 20-at deri në të 50-at e tyre shpesh janë më domethënëse sesa aktivitetet nga jeta e mëvonshme."
+  - "Muzika, fotot dhe historitë nga të njëzetat deri në të pesëdhjetat e tyre shpesh janë më domethënëse sesa aktivitetet nga jeta e mëvonshme."
   - "Mbetuni aktivë dhe shoqërorë kur ai ose ajo dëshiron, dhe përshtatni ritmin në vend që ta zëvendësoni aktivitetin."
   - "Kujdestarët, veçanërisht partnerët dhe fëmijët e rritur, përfitojnë nga grupet e mbështetjes me bashkëmoshatarë."
 faq:
@@ -46,7 +46,7 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Shumica e informacionit për demencën supozon se personi është në të 70-at ose 80-at e tij. Për dikë që diagnostikohet në të 40-at ose 50-at, pamja e përditshme është ndryshe. Ai ose ajo mund të ketë ende punë, një kredi, fëmijë adoleshentë në shtëpi ose një prind për t'u kujdesur. Aktivitetet duhet të pranojnë këtë jetë të rritur. Ky udhëzues shpjegon çfarë ndryshon, çfarë mund të provoni, dhe ku partnerët dhe fëmijët e rritur mund të gjejnë mbështetje.
+Shumica e informacionit për demencën supozon se personi është në të shtatëdhjetat ose tetëdhjetat e tij. Për dikë që diagnostikohet në të dyzetat ose pesëdhjetat, pamja e përditshme është ndryshe. Ai ose ajo mund të ketë ende punë, një kredi, fëmijë adoleshentë në shtëpi ose një prind për t'u kujdesur. Aktivitetet duhet të pranojnë këtë jetë të rritur. Ky udhëzues shpjegon çfarë ndryshon, çfarë mund të provoni, dhe ku partnerët dhe fëmijët e rritur mund të gjejnë mbështetje.
 
 ## Çfarë është demenca me fillim të hershëm?
 
@@ -56,7 +56,7 @@ Sepse është më pak e zakonshme, njerëzit mund të presin më gjatë për nj�
 
 ## Mbajeni të rriturin në aktivitet
 
-Të rriturit me demencë me fillim të hershëm zakonisht nuk duan të trajtohen si fëmijë. [Instituti Kombëtar për Plakjen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) këshillon përshtatjen e aktiviteteve me atë që personi ende mund të bëjë dhe të shijojë. Për dikë në të 50-at, kjo mund të thotë:
+Të rriturit me demencë me fillim të hershëm zakonisht nuk duan të trajtohen si fëmijë. [Instituti Kombëtar për Plakjen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) këshillon përshtatjen e aktiviteteve me atë që personi ende mund të bëjë dhe të shijojë. Për dikë në të pesëdhjetat, kjo mund të thotë:
 
 - **Mbani një hobi të njohur,** si punimet me dru, sporti, lojërat me letra, një klub librash ose një korale, me pak ndihmë ose një seancë më të shkurtër.
 - **Ecni ose ngjiteni me biçikletë me një shoqërues,** në një rrugë që njeh mirë.
@@ -69,7 +69,7 @@ Lëreni personin të zgjedhë. Pyetja „Çfarë do të donit të bënim këtë 
 
 ## Përdorni muzikën dhe kujtimet nga vitet e veta
 
-Muzika dhe fotot nga të 20-at, të 30-at dhe të 40-at e personit mund të sjellin ndjenja të ngrohta dhe bisedë të lehtë. Udhëzuesi ynë për [aktivitetet me muzikë](/activities/music/) shpjegon si të ndërtoni një listë këngësh, dhe [aktivitetet e kujtimeve](/activities/reminiscence/) tregojnë si të ndani foto dhe histori pa bërë pyetje testi. Për një lojë më të rritur, provoni [kartat e bisedës](/games/conversation-cards/), me pyetje të hapura për punën, udhëtimet, miqtë dhe familjen.
+Muzika dhe fotot nga të njëzetat, tridhjetat dhe dyzetat e personit mund të sjellin ndjenja të ngrohta dhe bisedë të lehtë. Udhëzuesi ynë për [aktivitetet me muzikë](/activities/music/) shpjegon si të ndërtoni një listë këngësh, dhe [aktivitetet e kujtimeve](/activities/reminiscence/) tregojnë si të ndani foto dhe histori pa bërë pyetje testi. Për një lojë më të rritur, provoni [kartat e bisedës](/games/conversation-cards/), me pyetje të hapura për punën, udhëtimet, miqtë dhe familjen.
 
 Lojërat me foto nga familja mund të funksionojnë gjithashtu mirë, sepse fotot janë të njerëzve dhe vendeve që kanë rëndësi për personin. [Çiftet me foto](/games/photo-pairs/) i mban fotot në shfletuesin e pajisjes.
 

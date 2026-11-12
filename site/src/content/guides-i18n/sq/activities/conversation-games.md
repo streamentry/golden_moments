@@ -54,7 +54,7 @@ Në një kuiz të zakonshëm, njëri pyet dhe tjetri duhet ta dijë. Kjo e vendo
 
 [Instituti Kombëtar për Plakjen](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) këshillon kujdestarët të përdorin fjali të shkurtra e të thjeshta, një pyetje në çdo herë, dhe një ton të qetë e të durueshëm. Këto zakone i përshtaten mirë lojërave me hamendësime.
 
-## Si të luani 20 pyetje, butësisht
+## Si të luhen njëzet pyetjet, butësisht
 
 1. **Zgjidhni një temë** nga jeta e personit, si kuzhina, kopshti, kafshët ose deti.
 2. **Lëreni të mendojë për diçka** dhe ta thotë me zë të ulët, ose t'ju tregojë një kartë me figurë, që të mos keni nevojë ta dëgjoni.

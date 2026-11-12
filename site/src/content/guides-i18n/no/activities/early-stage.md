@@ -83,7 +83,7 @@ Spill er her til glede. Ingen spill har vist seg å kunne behandle eller bremse 
 ### Skriv, reflekter og dokumenter
 
 - **Før dagbok.** Alzheimer's Association foreslår dagbokskriving som én måte å bearbeide følelser etter en diagnose. Noen få linjer om dagen er nok.
-- **Lei en livshistoriebok.** Tidlig stadium er en god tid for personen til å velge egne bilder og skrive eller fortelle historiene bak dem. Se [minneaktiviteter](/activities/reminiscence/).
+- **Lag en livshistoriebok.** Tidlig stadium er en god tid for personen til å velge egne bilder og skrive eller fortelle historiene bak dem. Se [minneaktiviteter](/activities/reminiscence/).
 - **Skriv brev.** Et brev til et barnebarn, en gammel venn eller en tidligere kollega kan bety mye for begge parter.
 - **Snakk om bilder.** [Bildepar](/games/photo-pairs/) gjør familiebilder om til et rolig memoryspill, og [samtalekort](/games/conversation-cards/) gir enkle utgangspunkt for en prat.
 
@@ -94,7 +94,7 @@ Spill er her til glede. Ingen spill har vist seg å kunne behandle eller bremse 
 - **Korte kulturturer.** Et museum, en matineforestilling eller en kunstutstilling, helst på et roligere tidspunkt.
 - **Svømming.** NIA foreslår et basseng i et rolig tidsrom på dagen.
 - **Gågrupper og dansekurs.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nevner dans, tai chi, yoga, svømming og gåturgrupper, samt demensvennlige tilbud der de finnes.
-- **Sangsgrupper og minnecaféer.** Avslappede grupper der mennesker med demens og deres partnere kan møte andre i samme situasjon.
+- **Sanggrupper og minnecaféer.** Avslappede grupper der mennesker med demens og deres partnere kan møte andre i samme situasjon.
 
 ## Små endringer som gjør aktivitetene hyggelige
 

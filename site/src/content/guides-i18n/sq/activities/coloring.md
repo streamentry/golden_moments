@@ -87,10 +87,10 @@ Shmangni faqet me zona të vogla dhe të ngjeshura, të cilat janë të mërzits
 
 ## Përshtatja ndërsa demenca ndryshon
 
-Në fazën e hershme, njerëzit shpesh shijojnë faqe të detajuara dhe mund të zgjedhin vetë ngjyrat dhe dizajnet. Në fazën e mesme, figurat më të mëdha dhe më pak zgjedhje ndihmojnë. Në fazat e mëvonshme, provoni një formë të vetme të madhe, një fletë me ngjyra të buta, ose thjesht mbajtjen e një lapsi ndërsa nuku një melodi. Disa njerëz shijojnë më shumë të shohin një figurë të përfunduar sesa ta bëjnë vetë.
+Në fazën e hershme, njerëzit shpesh shijojnë faqe të detajuara dhe mund të zgjedhin vetë ngjyrat dhe dizajnet. Në fazën e mesme, figurat më të mëdha dhe më pak zgjedhje ndihmojnë. Në fazat e mëvonshme, provoni një formë të vetme të madhe, një fletë me ngjyra të buta, ose thjesht mbajtjen e një lapsi ndërsa i këndoni një melodi. Disa njerëz shijojnë më shumë të shohin një figurë të përfunduar sesa ta bëjnë vetë.
 
 Për më shumë rreth punës krijuese në çdo fazë, shihni [artin dhe punimet dore për të rritur me demencë](/activities/arts-and-crafts/) dhe [projektet artistike për personat me demencë](/activities/art-projects/).
 
 ## Kur të ndaloni
 
-Ndaloni nëse personi frustrohet, e largon letrën me dorë ose duket i lodhur. Të mbarosh pas dy minutash është një sukses nëse e shijoi. Mund tëktheheni më vonë, ose të provoni një figurë tjetër ose një aktivitet tjetër si [lojërat e prekjes dhe shqisave](/activities/sensory/).
+Ndaloni nëse personi frustrohet, e largon letrën me dorë ose duket i lodhur. Të ndalosh pas dy minutash është një sukses nëse e shijoi. Mund tëktheheni më vonë, ose të provoni një figurë tjetër ose një aktivitet tjetër si [lojërat e prekjes dhe shqisave](/activities/sensory/).

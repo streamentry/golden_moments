@@ -21,7 +21,7 @@ keyPoints:
   - "Lavdëroni zgjedhjet dhe strukturat, jo teknikën, dhe ndaloni sapo aktiviteti të pushojë së qeni i këndshëm."
 faq:
   - q: "Cilat projekte arti mund t'i pëlqejnë dikujt me demencë?"
-    a: "Opsione të mira janë lavimet me ngjyra uji mbi karton të trashë, kolazhi me figura nga revista, argjila e butë për shtypje dhe gërshetim, pastelet me shkumës mbi letër të errët, printimi me gjethe me bojë të larueshme, dhe rregullimi i pëlhurave ose i luleve. Zgjidhni atë që përshtatet me interesat dhe aftësinë e personit."
+    a: "Opsione të mira janë lavimet me ngjyra uji mbi karton të trashë, kolazhi me figura nga revista, argjila e butë për shtypje dhe shtrydhje, pastelet me shkumës mbi letër të errët, printimi me gjethe me bojë të larueshme, dhe rregullimi i pëlhurave ose i luleve. Zgjidhni atë që përshtatet me interesat dhe aftësinë e personit."
   - q: "Si të zgjedh materialet e artit për një person me demencë?"
     a: "Kërkoni materiale jo-toksike, të larueshme, me doreza të mëdha dhe ngjyra të guximshme, dhe shmangni boriqet e vogla, butonat, shkëlqimin, qelqin e lagësht, gërshërët e mprehta dhe çdo gjë që mund të gëlltitet. Kontrolloni për alergji, si dorashkat e lateksit ose disa bojëra. Përdorni kontrast të mirë, si letër e bardhë me një ngjyrë të fortë, dhe mbajeni listën e materialeve të shkurtër."
   - q: "A mund të bëjë art dikush në fazën e mëvonshme?"
@@ -72,7 +72,7 @@ Mblidhni faqe reviste me foto të ndritshme lulesh, ushqimi, kafshësh, makinash
 
 ## Argjilë e butë
 
-Argjila për tharje në ajër ose argjila e butë për modelim mund të shtypet, të rrokullisët dhe të shtrydhet. Bëni një kupë të thjeshtë ose një pllakë të sheshtë. Argjila është shumë e prekshme, prandaj mund të qetësojë personat që pëlqejnë të prekin gjëra. Mbajini copat të mëdha dhe shmangni mjete me maja të mprehta.
+Argjila për tharje në ajër ose argjila e butë për modelim mund të shtypet, të rrokullisë dhe të shtrydhet. Bëni një kupë të thjeshtë ose një pllakë të sheshtë. Argjila është shumë e prekshme, prandaj mund të qetësojë personat që pëlqejnë të prekin gjëra. Mbajini copat të mëdha dhe shmangni mjete me maja të mprehta.
 
 ## Pastel me shkumës mbi letër të errët
 

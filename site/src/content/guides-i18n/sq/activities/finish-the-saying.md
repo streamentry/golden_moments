@@ -1,7 +1,7 @@
 ---
 title: "Lojëra me thënie të plotësuara për të moshuarit me demencë"
 seoTitle: "Lojëra me thënie të plotësuara për të moshuarit me demencë"
-description: "Lojëra me thënie dhe proverba për të moshuarit me demencë: si të luhen me shprehje të njohura, zgjedhje për përgjigjet dhe si të kthehet një përgjigje e humbur në bisedë."
+description: "Lojëra me thënie për të moshuarit me demencë: si të luhen me shprehje të njohura, si të ofrohen zgjedhje dhe si të trajtohet çdo përgjigje me butësi."
 section: activities
 order: 23
 updated: 2026-11-08
@@ -64,7 +64,7 @@ Golden Moments e ofron këtë si [një lojë falas me thënie të plotësuara](/
 5. **Flisni për shprehjen.** Pyesni çfarë do të thotë për të, ose ku e kishte dëgjuar. Këtu qëndron vlera e vërtetë.
 6. **Ndaloni para se të lodhen.** Disa thënie dhe një të qeshur janë një seancë e plotë.
 
-## T'i ofrosh zgjedhje pa e bërë kuiz
+## Ofrimi i zgjedhjeve pa e bërë kuiz
 
 Fundet me zgjedhje mund ta bëjnë lojën më të lehtë, por mund të ndihen si test nëse ofrohen si sfidë. Mbajeni tonin të lehtë. Thoni „Do të dëgjoni fundin apo do të zgjidhni një?” në vend të „Cili është?”. Ofrojini zgjedhjet pas një pauze, jo para se personi të ketë pasur mundësinë t'i përgjigjet.
 
@@ -84,7 +84,7 @@ Nëse personi është i mërzitur ose i turpëruar, hiqeni lojën dhe kaloni tek
 - **Moti:** „Shi para orës shtatë...” (fundi: „bukur deri në orën njëmbëdhjetë”); „Çdo re ka...” (një kufi argjendi).
 - **Kuzhina dhe ushqimi:** „Shumë kuzhinierë...” (e prishin supën); „Mos i numëro pulat...” (para se të çelin).
 - **Shtëpia dhe familja:** „Shtëpia është aty ku është...” (zemra); „Gjaku është më i trashë se...” (uji).
-- **Stinët dhe kopshti:** „Shitë të prillit sjellin...” (lule majit); „Ajo që mbjell...” (korr).
+- **Stinët dhe kopshti:** „Shi i prillit sjell...” (lule të majit); „Ajo që mbjell...” (korr).
 
 ## Çfarë për një person që nuk mund t'i përgjigjet?
 
