@@ -104,7 +104,7 @@ Ho an’ny hafa momba ny mozika, jereo ny [hetsika mozika ho an’ny dementia](/
 | --- | --- | --- |
 | Inona andro fety no amin’ny alahady fahefatra any amin’ny volana Novambra? | Andron’ny asa, **Thanksgiving**, Andron’ny fahatsiarovana | Inona no nisy foana tao amin’ny latabatrareo? |
 | Ho an’ny andro fety inona no ataon’ny jack-o’-lanterns? | **Halloween**, Paska, Krismasy | Lazao ahy momba ny Halloween tao amin’ny toerana nitoeranao |
-| Ny 4 Jolay dia mankalaza ny Fanambarana ny… | Zo, **Fahaleovantena**, Fahafahana | Taiza no nijerenao ny fanazavana afo? |
+| Ny Fourth of July dia mankalaza ny Fanambarana ny… | Zo, **Fahaleovantena**, Fahafahana | Taiza no nijerenao ny fanazavana afo? |
 | Ny Andron’ny reny dia amin’ny volana inona? | Aprily, **Mey**, Jona | Nankalaza ahoana ny fianakavianareo? |
 | Firy ny kintana eo amin’ny sainam-pirenena amerikana? | 48, **50**, 52 | Ny sainam-pirenena dia nisy kintana 48 hatramin’ny 1959. Na inona na inona valiny, fahatsiarovana tsara izany |
 | Ranomasina inona no any amin’ny morontsiraka atsinanana? | Pasifika, **Atlantika**, Arctic | Nandeha tany amoron-dranomasina ve ianao indraindray? |
@@ -119,7 +119,7 @@ Ho an’ny hafa momba ny mozika, jereo ny [hetsika mozika ho an’ny dementia](/
 
 | Fanontaniana | Safidy | Lazao momba azy |
 | --- | --- | --- |
-| Ny raisina dia… mamaina | Voasaribakoly, **voaloboka**, vorona | Nahasokatra raisina tamin’ny sakafo maraina ve ianao? |
+| Ny zabiby maina dia… | Voasaribakoly, **voaloboka**, vorona | Nahasokatra raisina tamin’ny sakafo maraina ve ianao? |
 | Ny prune dia… mamaina | **Voasaribakoly**, fiko, paoma | Iza tao amin’ny fianakavianareo no tia prune? |
 | Peanut butter sy… | **Jelly**, fromazy, hena kisoa | Mafy na malefaka? |
 | Guacamole dia vita amin’ny… | Voanio, **avocado**, kaogy | Inona ny sosa nomena tamin’ny fety? |

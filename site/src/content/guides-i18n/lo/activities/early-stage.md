@@ -1,32 +1,28 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "ກິດຈະກຳສຳລັບສະໝອງເສື່ອມໄລຍະຕົ້ນ"
+seoTitle: "ກິດຈະກຳສະໝອງເສື່ອມໄລຍະຕົ້ນ: ແນວຄວາມຄິດທີ່ເໝາະສົມ"
+description: "ແນວຄວາມຄິດກິດຈະກຳສຳລັບສະໝອງເສື່ອມໄລຍະຕົ້ນ: ງານອະດິເລກ ເກມ ການອອກນອກບ້ານ ການຂຽນ ແລະການວາງແຜນນຳກັນ ພ້ອມການປ່ຽນແປງນ້ອຍໆ."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  ໃນໄລຍະຕົ້ນຂອງສະໝອງເສື່ອມ ຫຼາຍຄົນຍັງສາມາດເຮັດສິ່ງທີ່ເຂົາມັກຕໍ່ໄປໄດ້: ງານອະດິເລກ ໄພ່ ແລະເກມກະດານ ການປຸງອາຫານ ການປູກສວນ ການຍ່າງ ກຸ່ມຕ່າງໆ ສາດສະໜາ ແລະການອາສາສະໝັກ. ການປ່ຽນແປງຫຼັກແມ່ນກຸ່ມນ້ອຍລົງ ການອອກນອກບ້ານສັ້ນລົງ ແຜນທີ່ຂຽນແບບງ່າຍໆ ແລະຄູ່ຄິດຢູ່ໃກ້ໆ. ຖາມຜູ້ນັ້ນວ່າຢາກໄດ້ການຊ່ວຍເຫຼືອແບບໃດ ແລະໃຫ້ເຂົານຳ.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "ຫຼາຍຄົນໃນໄລຍະຕົ້ນດຳລົງຊີວິດຄ່ອນຂ້າງເປັນເອກະລາດ. ກິດຈະກຳມັກຕ້ອງປັບ ບໍ່ແມ່ນປ່ຽນໄປເລີຍ."
+  - "ຖາມຜູ້ນັ້ນວ່າຢາກໄດ້ການສະໜັບສະໜູນແບບໃດ ແລະຕົກລົງສັນຍານງ່າຍໆວ່າເມື່ອໃດການຊ່ວຍເຫຼືອເປັນທີ່ຍິນດີ."
+  - "ກຸ່ມນ້ອຍລົງ ເວລາທີ່ງຽບກວ່າ ແລະການອອກນອກສັ້ນລົງ ມັກສ້າງຄວາມແຕກຕ່າງໄດ້ຫຼາຍ."
+  - "ນີ້ເປັນເວລາທີ່ດີສຳລັບຜູ້ນັ້ນໃນການນຳໂຄງການກ່ຽວກັບຊີວິດຂອງຕົນເອງ ເຊັ່ນສະໝຸດບັນທຶກ ຫຼືປຶ້ມເລື່ອງຊີວິດ."
+  - "ເລືອກເກມເພື່ອຄວາມສຸກ. ຫຼີກລ່ຽງສິ່ງທີ່ເລີ່ມຮູ້ສຶກຄືການສອບເສັງ."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "ກິດຈະກຳໃດເໝາະກັບສະໝອງເສື່ອມໄລຍະຕົ້ນ?"
+    a: "ປົກກະຕິແມ່ນສິ່ງດຽວກັນທີ່ຜູ້ນັ້ນມັກຢູ່ແລ້ວ: ໄພ່ ເກມກະດານ ການປຸງອາຫານ ການປູກສວນ ການຍ່າງ ດົນຕີ ກິດຈະກຳດ້ານສາດສະໜາ ກຸ່ມຕ່າງໆ ແລະການອາສາສະໝັກ. ອາດຈະຕ້ອງເຮັດໃຫ້ສັ້ນລົງ ງຽບລົງ ຫຼືງ່າຍລົງ. ການຂຽນບັນທຶກປະຈຳວັນ ການຂຽນຈົດໝາຍ ແລະການເຮັດປຶ້ມເລື່ອງຊີວິດກໍເໝາະກັບໄລຍະນີ້ດີ."
+  - q: "ຂ້ອຍຈະຊ່ວຍໄດ້ແນວໃດໂດຍບໍ່ເຂົ້າມາແທນທີ່ທັງໝົດ?"
+    a: "ຖາມວ່າຜູ້ນັ້ນຢາກໄດ້ຄວາມຊ່ວຍເຫຼືອແບບໃດ ແລະກວດເບິ່ງເລື້ອຍໆ. ຕົກລົງວ່າຈະມີປະໂຫຍກ ຫຼືການພະຍັກໜ້າທີ່ໝາຍຄວາມວ່າເຂົ້າມາຊ່ວຍໄດ້, ຕົວຢ່າງເມື່ອຄຳ ຫຼືຊື່ຄົນບໍ່ອອກ. ຖ້າບໍ່ມີຄວາມສ່ຽງດ້ານຄວາມປອດໄພ ໃຫ້ເຂົາເຮັດດ້ວຍວິທີຂອງເຂົາ ເຖິງແມ່ນຈະໃຊ້ເວລາດົນກວ່າກໍຕາມ."
+  - q: "ຜູ້ທີ່ມີສະໝອງເສື່ອມໄລຍະຕົ້ນຄວນລອງກິດຈະກຳໃໝ່ບໍ?"
+    a: "ຄວນ ຖ້າເຂົາຢາກລອງ. ງານອະດິເລກທີ່ຄຸ້ນເຄີຍມັກງ່າຍທີ່ສຸດ ແຕ່ຫຼາຍຄົນກໍມັກສິ່ງໃໝ່ ເຊັ່ນກຸ່ມຍ່າງທີ່ເປັນມິດກັບຜູ້ທີ່ມີສະໝອງເສື່ອມ ຫ້ອງຮຽນສິນລະປະ ຫຼືກຸ່ມຮ້ອງເພງ. ລອງໄປເທື່ອໜຶ່ງໂດຍບໍ່ມີຄວາມກົດດັນ ແລ້ວເບິ່ງວ່າຮູ້ສຶກແນວໃດ."
+  - q: "ແອັບຝຶກສະໝອງມີປະໂຫຍດໃນໄລຍະຕົ້ນບໍ?"
+    a: "ບາງຄົນມັກປິດສະໜາ ແລະເກມຄຳ ແລະຄວາມສຸກນັ້ນກໍພຽງພໍແລ້ວທີ່ຈະເປັນເຫດຜົນ. ບໍ່ມີແອັບ ຫຼືເກມໃດທີ່ຖືກພິສູດວ່າປິ່ນປົວ ຊ້າລົງ ຫຼືຢຸດສະໝອງເສື່ອມໄດ້. ຖ້າເກມໃດເຮັດໃຫ້ຄຽດ ຫຼືເຮັດໃຫ້ຜູ້ນັ້ນຮູ້ສຶກວ່າຕົນລົ້ມເຫຼວ ໃຫ້ວາງໄວ້ກ່ອນ."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +44,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+ໃນໄລຍະຕົ້ນຂອງສະໝອງເສື່ອມ ຫຼາຍຄົນຍັງດຳລົງຊີວິດຄ້າຍກັບເມື່ອກ່ອນ. ເຂົາອາດເຮັດວຽກ ອາສາສະໝັກ ພົບເພື່ອນ ແລະຈັດການມື້ຂອງຕົນເອງສ່ວນໃຫຍ່. ກິດຈະກຳປົກກະຕິບໍ່ຈຳເປັນຕ້ອງປ່ຽນ ແຕ່ຕ້ອງປັບເລັກນ້ອຍເພື່ອໃຫ້ຍັງໜ້າສຸກ. ບົດບາດຂອງທ່ານໃກ້ຄຽງກັບການເປັນຄູ່ຄິດຫຼາຍກວ່າການເປັນຜູ້ດູແລ: ຜູ້ທີ່ໃຫ້ກຳລັງໃຈ ວາງແຜນນຳກັນ ແລະເຂົ້າໄປຊ່ວຍພຽງເມື່ອຖືກຂໍ.
 
-## What activities are good in early-stage dementia?
+## ກິດຈະກຳໃດເໝາະກັບສະໝອງເສື່ອມໄລຍະຕົ້ນ?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+ກິດຈະກຳທີ່ດີທີ່ສຸດໃນໄລຍະຕົ້ນມັກເປັນສິ່ງທີ່ຜູ້ນັ້ນຮັກຢູ່ແລ້ວ ທີ່ເຮັດໃຫ້ງ່າຍຂຶ້ນເລັກນ້ອຍ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ລະບຸແນວຄວາມຄິດເຊັ່ນ ເກມໄພ່ ແລະເກມກະດານ ການຊອກຫາຄຳ ການຍ່າງ ການເຕັ້ນ ການປູກສວນ ການຈັດດອກໄມ້ ການເລົ່າເລື່ອງ ການແຕ້ມຮູບ ດົນຕີ ການຂຽນບັນທຶກປະຈຳວັນ ການຂຽນຈົດໝາຍ ການຕັດແປະຮູບ ການປຸງອາຫານ ແລະປະເພນີໃນວັນພິເສດ.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+ສິ່ງທີ່ປ່ຽນມັກເປັນສະພາບແວດລ້ອມ ບໍ່ແມ່ນກິດຈະກຳ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ໃຫ້ຂໍ້ສັງເກດວ່າຄົນໃນໄລຍະຕົ້ນອາດເລີ່ມຖອຍອອກຈາກສິ່ງທີ່ເຂົາເຄີຍມັກ ແລະຍົກຕົວຢ່າງວ່າຄົນທີ່ຮູ້ສຶກເຄັ່ງຕຶງໃນງານລ້ຽງໃຫຍ່ ອາດເຮັດໄດ້ດີກວ່າໃນກຸ່ມນ້ອຍ. ໃຫ້ເວົ້າກັນຢ່າງເປີດເຜີຍກ່ຽວກັບສິ່ງທີ່ຍາກຂຶ້ນ ແລະປັບນຳກັນ.
 
-## Ask first, and agree on how to help
+## ຖາມກ່ອນ ແລະຕົກລົງວ່າຈະຊ່ວຍແນວໃດ
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[ຄຳແນະນຳສຳລັບໄລຍະຕົ້ນຂອງ Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ແນະນຳນິໄສບາງຢ່າງທີ່ໃຊ້ໄດ້ກັບກິດຈະກຳເຊັ່ນກັນ:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **ຖາມໂດຍກົງ.** “ມີຫຍັງທີ່ຈະເຮັດໃຫ້ກຸ່ມອ່ານປຶ້ມງ່າຍຂຶ້ນສຳລັບເຈົ້າ?” ໄດ້ຄຳຕອບທີ່ດີກວ່າການເດົາ.
+- **ສົມມຸດວ່າເຂົາເຮັດໄດ້.** ຖ້າບໍ່ມີຄວາມສ່ຽງດ້ານຄວາມປອດໄພ ໃຫ້ຜູ້ນັ້ນລອງເອງ ແລະໃຫ້ກຳລັງໃຈ ແທນທີ່ຈະເຂົ້າມາເຮັດແທນ.
+- **ຕົກລົງສັນຍານ.** ເລືອກປະໂຫຍກ ຫຼືການພະຍັກໜ້າທີ່ໝາຍຄວາມວ່າ “ເຂົ້າມາຊ່ວຍໄດ້” ເຊັ່ນເມື່ອຊື່ຄົນບໍ່ອອກໃນຕອນຫຼິ້ນໄພ່.
+- **ກວດເບິ່ງເປັນປະຈຳ.** ຖາມວ່າການຊ່ວຍເຫຼືອນັ້ນພໍດີ ຫຼາຍເກີນໄປ ຫຼືໜ້ອຍເກີນໄປ.
 
-## Activity ideas for the early stage
+## ແນວຄວາມຄິດກິດຈະກຳສຳລັບໄລຍະຕົ້ນ
 
-### Keep up roles and hobbies
+### ຮັກສາບົດບາດ ແລະງານອະດິເລກ
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **ຮັກສາພັນທະປະຈຳ.** ງານອາສາສະໝັກປະຈຳອາທິດ ການຮ້ອງເພງປະສານສຽງ ຫຼືກຸ່ມຕ່າງໆ ເຮັດໃຫ້ອາທິດມີຮູບຮ່າງ. ຖ້າມັນກາຍເປັນຄວາມຄຽດ ບົດບາດທີ່ສັ້ນລົງ ຫຼືງຽບກວ່າອາດເໝາະກວ່າ.
+- **ວາງແຜນອາຫານນຳກັນ.** ຖ້າການໄປຊື້ເຄື່ອງກາຍເປັນເລື່ອງໜ້າຜິດຫວັງ Alzheimer's Association ແນະນຳໃຫ້ຖາມຜູ້ນັ້ນວ່າຊ່ວຍວາງເມນູອາທິດນັ້ນ ແລະຂຽນລາຍການແທນໄດ້ບໍ.
+- **ປຸງອາຫານ ແລະອົບຂອງ.** ເຮັດສູດອາຫານທີ່ມັກນຳກັນ. ວາງວັດຖຸດິບເປັນລຳດັບກ່ອນເລີ່ມ ເພື່ອໃຫ້ເຫັນຂັ້ນຕອນຊັດເຈນ.
+- **ປູກສວນ.** ວາງແຜນແປງດິນ ເລືອກເມັດພືດ ຫຼືຕົ້ນໄມ້ ແລະເຮັດວຽກນຳກັນ. ລາຍການຂຽນໄວ້ຂອງວຽກສວນປະຈຳອາທິດຊ່ວຍໄດ້.
+- **ຮັກສາງານຝີມືໄວ້.** ງານໄມ້ ການຫຍິບ ການຖັກ ຫຼືການປະກອບແບບຈຳລອງ ສາມາດດຳເນີນຕໍ່ໄປດ້ວຍແບບທີ່ງ່າຍກວ່າ ແລະແສງສະຫວ່າງທີ່ດີ.
 
-### Games for enjoyment
+### ເກມເພື່ອຄວາມສຸກ
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **ຫຼິ້ນໄພ່ ແລະເກມກະດານ.** ເກມທີ່ຄຸ້ນເຄີຍງ່າຍທີ່ສຸດ. ຫຼິ້ນເປັນທີມ ເພື່ອບໍ່ໃຫ້ມີໃຜຕົກເປັນເປົ້າ ແລະນັບຄະແນນແບບຫຼວມໆ ຫຼືບໍ່ນັບເລີຍ.
+- **ລອງຄຳຊອກຫາຕົວໜັງສືໃຫຍ່.** [ເກມຊອກຄຳ](/games/word-search/) ຂອງພວກເຮົາສາມາດຫຼິ້ນເທິງໜ້າຈໍ ຫຼືພິມອອກເພື່ອຊ່ວງເວລາງຽບໆ.
+- **ຕໍ່ຮູບຈິກ.** ເລືອກຈຳນວນຊິ້ນທີ່ຮູ້ສຶກຜ່ອນຄາຍ ບໍ່ແມ່ນທ້າທາຍ. [ເກມຈິກຮູບ](/games/picture-puzzle/) ເປັນເວີຊັນສັ້ນເທິງໜ້າຈໍ ແລະຄູ່ມືເລື່ອງ [ປິດສະໜາສຳລັບສະໝອງເສື່ອມ](/activities/puzzles/) ຊ່ວຍໃນການເລືອກ.
+- **ຮ່ວມປິດສະໜາເພື່ອຄວາມສະໜຸກ.** ບາງຄົນຮັກຄືນປິດສະໜາເປັນທີມ. ຖ້າມັນເລີ່ມຮູ້ສຶກຄືການສອບເສັງ ໃຫ້ເລືອກສິ່ງອື່ນ ຫຼືລອງ [ຄຳຖາມປິດສະໜາງ່າຍໆ](/activities/trivia/) ຂອງພວກເຮົາ ທີ່ມີຕົວເລືອກຄຳຕອບ ແລະບໍ່ມີຄະແນນ.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+ເກມໃນທີ່ນີ້ແມ່ນເພື່ອຄວາມເພີດເພີນ. ຍັງບໍ່ມີເກມໃດທີ່ຖືກພິສູດວ່າປິ່ນປົວ ຫຼືຊ້າລົງສະໝອງເສື່ອມ; ອ່ານເພີ່ມເຕີມໄດ້ໃນ [ເກມຝຶກສະໝອງ: ການຄົ້ນຄວ້າບອກຫຍັງ](/brain-health/brain-games/).
 
-### Write, reflect and record
+### ຂຽນ ສະທ້ອນ ແລະບັນທຶກ
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **ຂຽນບັນທຶກປະຈຳວັນ.** Alzheimer's Association ແນະນຳການຂຽນບັນທຶກເປັນວິທີໜຶ່ງໃນການຜ່ານຜ່າຄວາມຮູ້ສຶກຫຼັງຈາກໄດ້ຮັບການວິນິດໄສ. ພຽງສອງສາມບັນທັດຕໍ່ມື້ກໍພໍແລ້ວ.
+- **ນຳປຶ້ມເລື່ອງຊີວິດ.** ໄລຍະຕົ້ນເປັນເວລາທີ່ດີສຳລັບຜູ້ນັ້ນໃນການເລືອກຮູບຂອງຕົນເອງ ແລະຂຽນ ຫຼືບອກເລື່ອງເບື້ອງຫຼັງຂອງຮູບເຫຼົ່ານັ້ນ. ເບິ່ງ [ກິດຈະກຳການລະນຶກເຖິງອະດີດ](/activities/reminiscence/).
+- **ຂຽນຈົດໝາຍ.** ຈົດໝາຍເຖິງຫຼານ ເພື່ອນເກົ່າ ຫຼືອະດີດເພື່ອນຮ່ວມງານ ອາດມີຄວາມໝາຍກັບທັງສອງຝ່າຍ.
+- **ລົມກັນກ່ຽວກັບຮູບ.** [ເກມຄູ່ຮູບ](/games/photo-pairs/) ປ່ຽນຮູບຄອບຄົວໃຫ້ເປັນເກມຈັບຄູ່ທີ່ອ່ອນໂຍນ ແລະ [ບັດສົນທະນາ](/games/conversation-cards/) ໃຫ້ຈຸດເລີ່ມຕົ້ນງ່າຍໆສຳລັບການສົນທະນາ.
 
-### Go out and move
+### ອອກນອກບ້ານ ແລະເຄື່ອນໄຫວ
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ແນະນຳໃຫ້ສືບຕໍ່ການອອກນອກບ້ານທີ່ຄຸ້ນເຄີຍ ຕາບໃດທີ່ທ່ານທັງສອງຍັງສະບາຍໃຈ. ວາງແຜນໃຫ້ຕອນເວລາທີ່ຜູ້ນັ້ນດີທີ່ສຸດ ແລະຢ່າໃຫ້ໃຊ້ເວລາດົນເກີນໄປ.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **ການເດີນທາງດ້ານວັດທະນະທຳສັ້ນໆ.** ພິພິທະພັນ ການສະແດງຕອນບ່າຍ ຫຼືງານນິທັດສະການສິນລະປະ ດີທີ່ສຸດໃນເວລາທີ່ງຽບກວ່າ.
+- **ການລອຍນ້ຳ.** NIA ແນະນຳສະລອຍນ້ຳໃນເວລາທີ່ຄົນໜ້ອຍ.
+- **ກຸ່ມຍ່າງ ແລະຫ້ອງຮຽນເຕັ້ນ.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ກ່າວເຖິງການເຕັ້ນ ໄທຈິ ໂຍຄະ ການລອຍນ້ຳ ແລະກຸ່ມຍ່າງ ພ້ອມກິດຈະກຳທີ່ເປັນມິດກັບຜູ້ທີ່ມີສະໝອງເສື່ອມ ໃນບ່ອນທີ່ມີ.
+- **ກຸ່ມຮ້ອງເພງ ແລະຮ້ານກາເຟຄວາມຈຳ.** ກຸ່ມທີ່ຜ່ອນຄາຍ ບ່ອນທີ່ຜູ້ທີ່ມີສະໝອງເສື່ອມ ແລະຄູ່ຂອງເຂົາສາມາດພົບຄົນອື່ນໆທີ່ຢູ່ໃນສະພາບດຽວກັນ.
 
-## Small changes that keep activities enjoyable
+## ການປ່ຽນແປງນ້ອຍໆທີ່ເຮັດໃຫ້ກິດຈະກຳຍັງໜ້າສຸກ
 
-| If this is getting harder | Try this |
+| ຖ້າສິ່ງນີ້ເລີ່ມຍາກຂຶ້ນ | ລອງວິທີນີ້ |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| ສະຖານທີ່ວຸ່ນວາຍ ຫຼືສຽງດັງ | ໄປໃນເວລາງຽບ ເລືອກກຸ່ມນ້ອຍ ນັ່ງຢູ່ຂອບຫ້ອງ |
+| ຈື່ຊື່ຄົນໃໝ່ | ແນະນຳຄົນດ້ວຍຊື່ທຸກຄັ້ງ ຂໍໃຫ້ກຸ່ມໃຊ້ປ້າຍຊື່ |
+| ເຮັດຕາມແຜນຫຼາຍຂັ້ນຕອນ | ຂຽນຂັ້ນຕອນລົງ ຫຼືວາງທຸກຢ່າງເປັນລຳດັບກ່ອນ |
+| ເມື່ອຍ | ອອກນອກບ້ານສັ້ນລົງ ພັກຫຼັງຈາກນັ້ນ ບໍ່ມີແຜນອື່ນໃນມື້ນັ້ນ |
+| ການນັບຄະແນນໃນເກມ | ຫຼິ້ນເປັນທີມ ເຮັດກົດໃຫ້ງ່າຍ ຫຼືບໍ່ນັບຄະແນນ |
+| ຊອກຄຳ | ໃຫ້ເວລາ; ບອກຄຳໃຫ້ພຽງເມື່ອສັນຍານທີ່ຕົກລົງກັນໄວ້ບອກໃຫ້ເຮັດ |
 
-## When to slow down
+## ເມື່ອໃດຄວນຊ້າລົງ
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+ຢຸດ ຫຼືປ່ຽນກິດຈະກຳເມື່ອມັນນຳຄວາມຄຽດຫຼາຍກວ່າຄວາມສຸກ. ຄວາມອຸກອັ່ງທີ່ເກີດຊ້ຳໆ ການຫຼີກລ່ຽງງານອະດິເລກ ຫຼືການເວົ້າວ່າ “ຂ້ອຍເຮັດບໍ່ໄດ້ອີກແລ້ວ” ຄວນໄດ້ຮັບການສົນທະນາດ້ວຍຄວາມອ່ອນໂຍນ ບໍ່ແມ່ນການຜັກດັນ. ມັກແລ້ວຄຳຕອບແມ່ນເວີຊັນທີ່ນ້ອຍກວ່າຂອງສິ່ງດຽວກັນ. ເມື່ອຜູ້ນັ້ນຕ້ອງການຄວາມຊ່ວຍເຫຼືອຫຼາຍຂຶ້ນໃນການເລີ່ມຕົ້ນ ແລະຕິດຕາມຂັ້ນຕອນ ແນວຄວາມຄິດໃນ [ກິດຈະກຳໄລຍະກາງ](/activities/middle-stage/) ອາດເໝາະກວ່າ. ສຳລັບການສົນທະນາທີ່ໃຫ້ກຳລັງໃຈເພີ່ມເຕີມ ເບິ່ງ [ຄຳແນະນຳໃນການສື່ສານ](/caregiving/communication-tips/) ແລະສຳລັບແນວຄວາມຄິດອີກຫຼາຍ ເບິ່ງ [101 ກິດຈະກຳ](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+ຜູ້ດູແລກໍຕ້ອງການການສະໜັບສະໜູນເຊັ່ນກັນ. ໄລຍະຕົ້ນເປັນເວລາທີ່ດີໃນການສ້າງເຄືອຂ່າຍຊ່ວຍເຫຼືອຂອງທ່ານເອງ; ເບິ່ງ [ການດູແລຕົວເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/).
