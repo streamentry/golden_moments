@@ -1,7 +1,7 @@
 ---
 title: "Háziállat-gondozás és demencia: közös rutin támogatása"
 seoTitle: "Háziállat gondozása demenciával élő személynek"
-description: "Segítsen a háziállat-gondozási rutin megtartásában emlékeztetőkkel, megbeszélt segítséggel és tartalék tervvel, a személy döntéseit és az állat igényeit tiszteletben tartva."
+description: "Háziállat-gondozás demencia mellett: emlékeztetők, megbeszélt segítség és tartalék terv, a személy döntéseit és az állat igényeit tiszteletben tartva."
 section: caregiving
 order: 15
 updated: 2026-11-11
