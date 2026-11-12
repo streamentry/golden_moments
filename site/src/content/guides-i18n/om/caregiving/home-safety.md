@@ -63,7 +63,7 @@ Rakkoo jechaan barreessi: "Daandiin halkanii dhiphaa," "Balbala mana dhiqannaa h
 
 - **Fayyadama qoraa ilaali.** Yoo rakkoo qoraa ykn meeshaa biraa jiraate, filannoo nageenya meeshaa sanaaf ijaaramee ilaali. Mana-ilaalcha Alzheimer's Association meeshaalee cufuu ofumaan ykn fiduu balaa irraa eeggatan tarreessa. Bakka gaasii ykn elektirikii jijjiiruun dura gorsa ogeessa qulqullina qabuu fudhadhu.
 - **Qorichaa fi meeshaalee nyaataa hin taane nyaataa irraa adda baasi.** Qorichaa kuuftuu irra hin kaa'in. Yoo namichi qorichaa ofii isaa of-danda'uun dhiphate, farmaasistii ykn ogeessa fayyaa karoora qorichaa eeggatu gaafadhu.
-- **Dheeddaa fi meeshaa balaa qabu nagaan kaa'i.** Duuka-buutota isaanii ofii keessatti kaa'i, nyaataa fi dhugaa irraa fageessi. Yoo barbaachise, namicha irra hin geenye. Dheeddaa ta'an dabaaatti hin baasin.
+- **Dheeddaa fi meeshaa balaa qabu nagaan kaa'i.** Duuka-buutota isaanii ofii keessatti kaa'i, nyaataa fi dhugaa irraa fageessi. Yoo barbaachise, namicha irra hin geenye. Dheeddaa ta'an gara botela dhugaa ykn kuusaa nyaataatti hin dabarsin.
 - **Meeshaalee kicheenyaa barbaachisoo argamsiisi.** Karoora nageenya namicha hojii isaa jaalatu yeroo danda'amu akka itti fufu gargaaruu qaba. Yoo kabbaala ykn meeshaa jijjiirte, jijjiirama sana ibsi, rakkoo yoo uumu mirkaneessi.
 
 Yoo rakkoon hojii waliigalaa keessatti argame, [qajeelfama hojii mana](/activities/household-tasks/) hojii sana namicha hirmaachiisuun akka gulantaa taasisuu yaadota qaba.
@@ -74,6 +74,12 @@ Yoo rakkoon hojii waliigalaa keessatti argame, [qajeelfama hojii mana](/activiti
 - **Biyyoo laaflaa fi deeggarsa ilaali.** Yoo lafti ykn tabbii laaflaa ta'e, ogeessa qulqulluu gaafadhu: lafa xuraa'aa hin qabne, makiinii ykn deeggarsa akka kanneen dhoksaa, kan bakka namichi irratti ta'e fi mana sanaa irratti hundaa'a.
 - **Mana beekamaa fi fayyadamaa godhi.** Meeshaa guyyaa guyyaatti namichi eegee jiru, bakka eegu irratti kaa'i. Yoo mana dhiqannaa beekuu dhiphatte, mallattoo salphaa ykn balbala dhiqannaa bantii hin cufin, yoo mana sanaaf mijaa'e, gaafadhu.
 - **Hiitera qilleensaa elektirikii mana dhiqannaa keessa hin galchin.** Meeshaalee elektirikii dhiiga keessaa fagaadhaa; qajeelfama oomishaa hordofi.
+
+### Kuufama halkanii fi daandii dhiqannaa
+
+- **Daandii gara dhiqannaatti qulqulluu godhi.** Meeshaa lafa irraa kaasi, namichi ifa argachuuf kuusa dukkanaa hin yaalin mirkaneessi.
+- **Hiitera ilaali.** Yoo blaankeetii elektirikii, pedi ho'aa ykn hiitera qilleensaa fayyadamu, iddoo isaa fi qajeelfama isaa ilaali. Yoo balaan gubamuu jiraate ykn namichi nagaan of-danda'uun fayyadamuu hin danda'u, gorsa gaafadhu.
+- **Meeshaalee guyyaa guyyaa argamsiisi.** Uffata, ija, bilbila ykn meeshaa barbaachisu bakka beekamaa fi ol-ka'iinsa namichi dhiyeessuu danda'u irra kaa'i.
 
 ### Ol-galtee, kuufama fi bakka alaa
 

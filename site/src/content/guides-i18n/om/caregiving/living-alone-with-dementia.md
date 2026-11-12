@@ -43,7 +43,7 @@ related: [caregiving/home-safety, activities/daily-routine, brain-health/social-
 health: false
 ---
 
-Ofiin jiraachuun akka hanga gargaarsa namichi barbaadu hin agarsiisu. [Alzheimer's Association] ni eeru namoonni baay'een, keessumaa jalqaba irratti, gargaarsa salphaa, eegumsa, fi deeggarsa namoota biroo wajjin ofiin jiraachuu itti fufu. Gaaffiin ifa ta'e: namichi maal itti fufuu barbaadu, fi maal hojii sana salphisa?
+Ofiin jiraachuun akka hanga gargaarsa namichi barbaadu hin agarsiisu. Alzheimer's Association ni eeru namoonni baay'een, keessumaa jalqaba irratti, gargaarsa salphaa, eegumsa, fi deeggarsa namoota biroo wajjin ofiin jiraachuu itti fufu. Gaaffiin ifa ta'e: namichi maal itti fufuu barbaadu, fi maal hojii sana salphisa?
 
 Yeroo tokko tokkoo rakkoo ammaa hin jirre keessatti haasa'uu jalqabi. Maal isa nagaa godhu, seera guyyaa maal isaaf barbaachisu, akkasumas gargaarsa maal akka jaalatu gaafadhu. Karoorri namicha wajjin qopheeffame, yaaddoo nama biraa irratti hundaa'e caala jireenya isaaf sirrii ta'a.
 

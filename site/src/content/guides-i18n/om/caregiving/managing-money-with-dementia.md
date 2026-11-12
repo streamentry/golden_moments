@@ -120,9 +120,9 @@ Namoonni sobaa baankii, dhaabbata mootummaa, dhaabbata, michoota ykn firaa ta'uu
 
 Baankii, appii kaffaltii, kaardii kennaa ykn dhaabbata maallaqa ergan sa'aa tokkotti quunnami. Lakkoofsa kaardii ykn gabaasa irraa, ykn appii ykn daawwaa ofiiciyaalaa fayyadami. Kaffaltii dhaabuu ykn deebisuu danda'uu isaanii gaafadhu. [Tarkaanfiiwwan deebisuu FTC](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed) akkaataa maallaqni itti ergame irratti hundaa'uu ibsa; deebisuun mirkanaa'uu hin qabu.
 
-Dhaamsota, kaffaltii, guyyoota fi beeksisa akkaawuntii eegi. Biyya Ameerikaa keessatti, sobaa [FTC] irratti gabaasuu dandeessa. Yoo nama umurii keessa miidhaa ittiin gaafatu shakkitan, [Administration for Community Living] Adult Protective Services mootummaa namichaa quunnamuu akka qabdu ibsa. Yoo namni balaa saffisaa keessa jiru, tajaajila hatattamaa naannoo quunnami. Biyya Ameerikaa alatti, tajaajila ittisa maallaqaa fi eegumsa naannoo fayyadami.
+Dhaamsota, kaffaltii, guyyoota fi beeksisa akkaawuntii eegi. Biyya Ameerikaa keessatti, sobaa [FTC](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed) irratti gabaasuu dandeessa. Yoo nama umurii keessa miidhaa ittiin gaafatu shakkitan, [Administration for Community Living](https://acl.gov/programs/protection-and-advocacy-systems/what-if-i-suspect-abuse-neglect-or-exploitation) Adult Protective Services mootummaa namichaa quunnamuu akka qabdu ibsa. Yoo namni balaa saffisaa keessa jiru, tajaajila hatattamaa naannoo quunnami. Biyya Ameerikaa alatti, tajaajila ittisa maallaqaa fi eegumsa naannoo fayyadami.
 
-Dhiibbaa malee haasa'i. Sobaawwan namoota gowwoomsuuf dhaabbatan. [Qajeelfama CFPB gargaarsa sobaa fi kuuf] filannoo gabaasaa Ameerikaa tarreessa, akkasumas webiiseeta amanamaa fi lakkoofsa bilbilaa fayyadamuu gorsa.
+Dhiibbaa malee haasa'i. Sobaawwan namoota gowwoomsuuf dhaabbatan. [Qajeelfama CFPB gargaarsa sobaa fi kuufamaa](https://www.consumerfinance.gov/ask-cfpb/who-do-i-contact-for-help-with-a-scam-or-fraud-en-1777/) filannoo gabaasaa Ameerikaa tarreessa, akkasumas webiiseeta amanamaa fi lakkoofsa bilbilaa fayyadamuu gorsa.
 
 ## Murtoo maallaqaa addaa irratti gargaarsa eessa argannaa?
 

@@ -57,7 +57,7 @@ Hojii namicha barbaadu fi ati amanamummaadhaan hojjechuu dandeessu filadhu. Garg
 - **Yeroo gargaartuu naannoo kenni.** Daawwannaa keessatti, gaaffii hojii ykn boqonnaa maal akka gargaaru gaafadhu. Nyaata qopheessuu, daawwannaa qabame irratti dhiifama gochuu, ykn gargaartuun naannoo boqonnaa yeroo fudhatu namicha wajjin yeroo kenni.
 - **Namicha jaalatu waliin walqunnamtii qabi.** Bilbila, viidiyoo, xalaayaa ykn daawwannaa filachuu isaa gaafadhu. Bilbilli haasa'a ta'uu qaba, qormaata nyaataa, qorichaa ykn yaadannoo waa'ee irratti miti.
 
-[Alzheimer's Association] namoonni deeggarsa fageenyaan kennan wal-qaban namicha kallattiidhaan madaaluu hin danda'an jedha. Yoo danda'ame, namoota namicha guyyaa guyyaatti ilaalan wajjin wal-qunnamaa, daawwannaa iddoo namicha keessa jiru qopheessi. Ilaalchi kun odeeffannoo barbaachisaa ta'uu danda'a, garuu namicha gaafachuu ykn madaallii ogeessaa beekuu kan bakka buusu miti.
+[Alzheimer's Association namoonni deeggarsa fageenyaan kennan namicha kallattiidhaan madaaluu hin danda'an jedha](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage). Yoo danda'ame, namoota namicha guyyaa guyyaatti ilaalan wajjin wal-qunnamaa, daawwannaa iddoo namicha keessa jiru qopheessi. Ilaalchi kun odeeffannoo barbaachisaa ta'uu danda'a, garuu namicha gaafachuu ykn madaallii ogeessaa beekuu kan bakka buusu miti.
 
 ## Gargaartoota naannoo wajjin akkamitti qindeessuu?
 

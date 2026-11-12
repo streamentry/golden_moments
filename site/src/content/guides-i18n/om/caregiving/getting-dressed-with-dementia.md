@@ -91,9 +91,9 @@ Yeroo guyyaa fi karoora yaadi. Namichi kuufama kuufuu jaalatu ta'uu danda'a, gar
 
 ## Uffachuun yoo haaraan rakkisaa ta'e maal godhna?
 
-Yoo uffachuun gara jijjiiramaa ta'e, namicha maal rakkisaa akka ta'e gaafadhu, ogeessa fayyaa isaa waliin mari'adhu. [Dementia Australia] arguu, qorichaa ykn rakkoo fayyaa biraa uffachuu illee rakkisaa taasisuu danda'a jedha. Ogeessi fayyaa sababoota danda'aman mirkaneessuu gargaaruu danda'a. Qorichaa qajeelfama waliigalaa irratti hundaa'uun hin dhaabin yookaan hin jijjiiru.
+Yoo uffachuun gara jijjiiramaa ta'e, namicha maal rakkisaa akka ta'e gaafadhu, ogeessa fayyaa isaa waliin mari'adhu. Dementia Australia arguu, qorichaa ykn rakkoo fayyaa biraa uffachuu illee rakkisaa taasisuu danda'a jedha. Ogeessi fayyaa sababoota danda'aman mirkaneessuu gargaaruu danda'a. Qorichaa qajeelfama waliigalaa irratti hundaa'uun hin dhaabin yookaan hin jijjiiru.
 
-Yoo namichi saffisaan sammuu isaa dhiphate, gargaarsa fayyaa ariifachaa dhaabbata naannoo tajaajilaa fayyadami. [Qajeelfama NHS waa'ee rakkoo sammuu saffisaan] akka barbaachisu ibsa. Akeekni kun rakkoo saffisaan dhufu irratti, jijjiirama tartiibaa hojii uffachuu irratti miti.
+Yoo namichi saffisaan sammuu isaa dhiphate, gargaarsa fayyaa ariifachaa dhaabbata naannoo tajaajilaa fayyadami. [Qajeelfama NHS waa'ee rakkoo sammuu saffisaan](https://www.nhs.uk/symptoms/confusion/) akka barbaachisu ibsa. Akeekni kun rakkoo saffisaan dhufu irratti, jijjiirama tartiibaa hojii uffachuu irratti miti.
 
 Yoo uffachuu rakkisaa ta'e, caala ilaali: filachuu uffataa, arguu, qabachuu fayyeessa ykn eeguu. Waanuma argitee namicha fi ogeessa fayyaa wajjin, yoo waliigale, qooddadhu. Rakkoo haaraa sababa tokko qofaan hin hubatu. Namicha jeedhaa ykn dhiyeessaa jechuu irraa of eeggadhu.
 
