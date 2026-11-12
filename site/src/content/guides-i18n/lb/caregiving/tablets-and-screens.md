@@ -1,7 +1,7 @@
 ---
 title: "En Tablet oder Telefon fir eng Persoun mat Demenz astellen"
 seoTitle: "Tablet oder Telefon fir Demenz astellen"
-description: "Schrëtt-fir-Schrëtt Ufank fir eng Persoun mat Demenz: op eng App festleeën, gréisser Schrëft, weniger Notifikatiounen, en einfache Startbildschierm, Lautstäerkt an Privatsphär."
+description: "Schrëtt-fir-Schrëtt Ufank fir eng Persoun mat Demenz: op eng App festleeën, gréisser Schrëft, weniger Notifikatiounen, en einfache Startbildschierm a Privatsphär."
 section: caregiving
 order: 5
 updated: 2026-10-25
@@ -174,5 +174,5 @@ Denkt och un:
 - **Benotzt e Passcode** um Gerät, an hëlt eng Notiz dovun un enger sécherer Plaz.
 - **Kontrolléiert d'Berechtegungen** fir Fotoen, Kamera, Mikrofon, Kontakter a Standuert, a schalt aus, wat eng App net brauch.
 - **Kuckt, wat eng App sammelt,** ier Dir se installéiert. Eise Guide iwwer [Dementie-Apps a Spiller auswielen](/caregiving/choosing-apps-and-games/) huet eng Checkliste zur Privatsphär.
-- **Sidd virsiichteg mat Familljefotoen.** Deelt nëmmen Fotoe, mat deenen d'Persoun sech wuel fillt, an wësst, wou eng App se späichert. Bei [Photo Pairs](/games/photo-pairs/) bleiwen d'Fotoen, déi Dir wielt, anÄrem Browser.
+- **Sidd virsiichteg mat Familljefotoen.** Deelt nëmmen Fotoe, mat deenen d'Persoun sech wuel fillt, an wësst, wou eng App se späichert. Bei [Photo Pairs](/games/photo-pairs/) bleiwen d'Fotoen, déi Dir wielt, an Ärem Browser.
 - **Schalt Käufe bannent der App aus** oder läscht Zuelungsdaten aus de Kontoe, déi d'Persoun benotzt.
