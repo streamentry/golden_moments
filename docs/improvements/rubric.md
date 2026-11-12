@@ -318,7 +318,7 @@ This is a copy-only safety clarification. Static ARB checks and widget tests can
 
 ## Mobile visual audit score note (2026-11-11; separate maintenance review)
 
-This separate engineering review is not one of the 100 numbered, source-led improvements. App dimensions were re-measured on this branch with Flutter 3.47.7: the full suite (counts in the PR), strict analysis (clean), `test/design_system_test.dart` and the 200% text tests pass. No `site/` file changed, so the website parts carry forward from Round 45 (1,855 tests, 12,491-page build, `check-site` 0 errors). No new user-facing strings were added.
+This separate engineering review is not one of the 500 numbered, source-led improvements. App dimensions were re-measured on this branch with Flutter 3.47.7: the full suite (counts in the PR), strict analysis (clean), `test/design_system_test.dart` and the 200% text tests pass. No `site/` file changed, so the website parts carry forward from Round 45 (1,855 tests, 12,491-page build, `check-site` 0 errors). No new user-facing strings were added.
 
 | # | Dimension | Evidence | Score |
 | --- | --- | --- | --- |
