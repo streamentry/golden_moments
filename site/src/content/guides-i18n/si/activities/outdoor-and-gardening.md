@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "ඩිමෙන්ශියා ඇති අය සඳහා ගෙවතු සහ පිටත ක්‍රියාකාරකම්"
+seoTitle: "ඩිමෙන්ශියාව සඳහා ගෙවත්ත සහ පිටත ක්‍රියාකාරකම්"
+description: "ඩිමෙන්ශියාව සමඟ ජීවත් වන අයට ගෙවතු ක්‍රියාකාරකම්: උස් වගා යාරි, බඳුන් ගෙවතු සහ උණුසුම, හිරු සහ ඇවිදීම පිළිබඳ ආරක්ෂක ඉඟි."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  ගෙවත්තේ වැඩ සහ පිටත කාලය ඩිමෙන්ශියාව සමඟ ජීවත් වන පුද්ගලයෙකු සඳහා සන්සුන්, හුරු පුරුදු ක්‍රියාකාරකමක් විය හැක. වාරි ජලය දීම, බඳුනක පැළෑටි සිටුවීම, මල් ගසා ඉවත් කිරීම, හෝ ගෙවතු තට්ටුවක කෙටි ඇවිදීමක් උත්සාහ කරන්න. කිසිවෙකුට දණ ගැසීමට අවශ්‍ය නොවන පරිදි උස් වගා යාරි හෝ මේසයක් භාවිත කරන්න, තියුණු උපකරණ සහ විෂ සහිත ශාක වළකින්න, දවසේ සිසිල් කොටසේ පිටතට යන්න, සහ සැමවිටම පුද්ගලයා සමඟ සිටින්න.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "වාරි ජලය දීම, බීජ බඳුනකට සිටුවීම, මල් සුවඳ දැනීම සහ මල් නෙලීම වැනි සරල ගෙවත්තේ කාර්ය සිටගෙන හෝ හිඳගෙන කළ හැක."
+  - "උස් වගා යාරි, බඳුන් සහ ආවරණය කළ මේසයක් ගෙවත්ත කටි උසට ගෙන ඒමෙන් වැටීමේ අවදානම අඩු කරයි."
+  - "තියුණු උපකරණ, කටු ඇති හෝ කැලැල් කරන ශාක සහ විෂ සහිත ඕනෑම දෙයක් වළකින්න. පස ආහාරයක් ලෙස නොසිතන ලෙස බලා සිටින්න."
+  - "වයස්ගත වියේ අයට උණුසුම අනතුරුදායක විය හැක. අලුයමට හෝ සවසට පිටතට යන්න, ජලය සහ සෙවණ රැගෙන යන්න, සහ අපහසුතාවයේ පළමු ලකුණු දකින විට ඇතුළට පැමිණෙන්න."
+  - "ඩිමෙන්ශියාව ඇති බොහෝ අය යම් අවස්ථාවක ඇවිදින්නට යයි. පිටත පුද්ගලයා සමඟ සිටින්න, සහ මෑත ඡායාරූපයක් සහ අනන්‍යතාව ආසන්නව තබා ගන්න."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "ඩිමෙන්ශියාව ඇති පුද්ගලයෙකුට කුමන ගෙවත්තේ ක්‍රියාකාරකම් කළ හැකිද?"
+    a: "ජලය දීම, කුඩා බඳුනකට බීජ සිටුවීම, ඖෂධ පැළෑටි සුවඳ දැනීම සහ ස්පර්ශ කිරීම, මල් ගසා ඉවත් කිරීම, එළවළු නෙලීම, කපන ලද මල් සැකසීම සහ මාර්ගය අතු ගෑම යන සියල්ලම හොඳ තේරීම්ය. ගෘහස්ථව, ජනේලයක ඖෂධ පැළෑටි බඳුනක් හෝ ආවරණය කළ මේසයක පස් තට්ටුවක් හොඳින් වැඩ කරයි. කාර්යය තෝරන්නේ පුද්ගලයා පෙර ප්‍රිය කළ දේ සහ දැන් සුවපහසුව කළ හැකි දේ අනුව."
+  - q: "උණුසුමේ ඩිමෙන්ශියාව ඇති කෙනෙකු ආරක්ෂිතව තබා ගන්නේ කෙසේද?"
+    a: "පිටත කාලය අලුයමේ හෝ සවසේ සිසිල් කොටසට සැලසුම් කර, එය කෙටිව තබා, නිතර ජලය දෙන්න. සෙවණ, පළල් ආවරණ තොප්පියක්, සැහැල්ලු ලිහිල් ඇඳුමක් සහ සූර්ය ආරක්ෂක ක්‍රීම් තෝරන්න. වයස්ගත වියේ අයට තාප රෝගවලට වැඩි අවදානමක් ඇති අතර, ව්‍යාකූලත්වය, කරකැවිල්ල හෝ ඔක්කාරය අනතුරු ඇඟවීමේ ලකුණු විය හැක, එබැවින් ඒවා දුටුවහොත් වහාම ඇතුළට ගොස් සිසිල් වන්න."
+  - q: "ඔවුන් ඇවිදීමට නැඹුරු නම් අපි කෙසේ පිටතට යාමද?"
+    a: "සෑම විටම පුද්ගලයා සමඟ සිටින්න, ගැට දමන ලද දොරක් සහිත වැටකින් වට වූ ගෙවතුවක හෝ උයනක යන්න, සහ ඔවුන් අනන්‍යතා වළලුවක් පළඳින හෝ අනන්‍යතාව රැගෙන යන බවට වග බලා ගන්න. ආසන්නව මෑත ඡායාරූපයක් තබා ගන්න. පුද්ගලයා අතුරුදහන් වුවහොත්, ප්‍රාදේශීය පොලිසිය හෝ හදිසි සේවා වහාම අමතන්න; ස්ථාවර මිනිත්තු ගණනක් බලා නොසිටින්න. පිළිතුරු දෙන්නන්ට පුද්ගලයාට ඩිමෙන්ශියාව ඇති බව, අවසානයට දුටු ස්ථානය සහ මෑත ඡායාරූපයක් ලබා දෙන්න."
+  - q: "අපට ගෙවත්තක් නැත්නම් කුමක් කළ යුතුද?"
+    a: "ගෙතුලේ කිහිප බඳුනක්, ජනේල පෙට්ටියක් හෝ මුළුතැන්ගෙයි මේසයේ ඖෂධ පැළෑටි තට්ටුවක් ප්‍රමාණවත්ය. උද්‍යානයකට, මහජන උයනකට හෝ ප්‍රජා ගෙවත්තකට ද යා හැක. පිටත වාඩි වී කුරුල්ලන්ගේ හඬ ඇසීමද පිටත ක්‍රියාකාරකමක් ලෙස ගණනට ගැනේ."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +39,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +50,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+බොහෝ අයට ගෙවත්ත ඔවුන් දන්නා වඩාත් හුරු ස්ථානවලින් එකකි. කැණීම, වාරි ජලය දීම සහ මල් නෙලීම දිගු කලකට පෙර ඉගෙන ගත් කුසලතා භාවිත කරයි, සහ පිටත සිටීම සුළං, හිරු එළිය සහ කුරුල්ලන්ගේ ගීතය ගෙන එයි. ඩිමෙන්ශියාව ඇති අය රස විඳිය හැකි දේ අතර, National Institute on Aging ශාක රැකබලා ගැනීම, මල් සහ එළවළු සිටුවීම සහ [ශාක වර්ධනය වන ආකාරය ගැන කතා කිරීම](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ලැයිස්තුගත කරයි. මෙම පිටුවෙන් උත්සාහ කළ යුතු දේ, ගෙවත්තක් වඩාත් පහසුවෙන් භාවිත කරන ආකාරය සහ උණුසුම, හිරුවේ සහ ඇවිදීමේ අනතුරුවලින් ආරක්ෂිතව සිටින ආකාරය ආවරණය වේ.
 
-## What outdoor and gardening activities work well?
+## පිටත සහ ගෙවතු ක්‍රියාකාරකම් හොඳින් වැඩ කරන්නේ මොනවාද?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+හොඳම කාර්යයන් සරල, හුරු පුරුදු වන අතර සිටගෙන හෝ හිඳගෙන කළ හැක. පුද්ගලයා කලින් ප්‍රිය කළ දේ අනුව තෝරන්න.
 
-### In the garden
+### ගෙවත්තේ
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **වාරි ජලය දීම.** කුඩා, සැහැල්ලු වාරි බඳුනක් හෝ මෘදු ජල නළ ඉස්මකක් සහ අතට හසුවන බඳුන් කිහිපයක්. ජලය දීමට පැහැදිලි ආරම්භයක් සහ අවසානයක් ඇති අතර, එය වැරදි කිරීම අමාරුය.
+2. **බඳුන්වල බීජ සිටුවීම.** Alzheimer's Foundation of America යෝජනා කරන්නේ කුඩා බඳුනකට බීජ සිටුවා [ඒවා වර්ධනය වනු බලන්න](https://alzfdn.org/dementia-activity-gardening/) ලෙසයි. බෝංචි, සූර්යකාන්ති, හෝ පීස් වැනි විශාල බීජ හැසිරවීමට පහසුය.
+3. **මල් ගසා ඉවත් කිරීම.** කොළ ගිය මල් අතින් ඉවත් කිරීම මෘදු, නැවත නැවත වන කාර්යයකි. කටු නැති ශාක තෝරන්න.
+4. **එළවළු හෝ ඖෂධ පැළෑටි නෙලීම.** චෙරි තක්කාළි, බෝංචි සහ ඖෂධ පැළෑටි නෙලීමට පහසු වන අතර රස විඳීමට ප්‍රියකරයි. දහවල් ආහාරයට භාවිත කිරීමට ඒවා ඇතුළට ගෙන එන්න.
+5. **ඖෂධ පැළෑටි සුවඳ දැනීම සහ ස්පර්ශ කිරීම.** රොසමරි, පුදීන හෝ ලැවැන්ඩර් වල ප්‍රබල, ප්‍රියජනක සුවඳ ඇත. කොළයක් ඇඟිලි අතර ගා, එය ඉදිරියට ගෙන යන්න.
+6. **මාර්ගය අතු ගෑම.** ශේෂය ස්ථාවර නම්, පැතලි, වියළි මතුපිටක සැහැල්ලු වේලකින්.
+7. **කුරුල්ලන්ගේ ආහාර බඳුන පිරවීම.** ඉන්පසු එකට වාඩි වී කවුද පැමිණෙන්නේ දැයි බලන්න.
 
-### Indoors, when going out is not possible
+### ගෘහස්ථව, පිටතට යාම නොහැකි විට
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **ජනේල තට්ටුවේ ඖෂධ ගෙවත්තක්** තුලසි, පර්සලි හෝ චිව්ස් වලින්.
+- **ආවරණය කළ මේසයක් මත බඳුන් සකස් කිරීම.** AFA යෝජනා කරන්නේ පස එක් තැනක තබා ගැනීමට කැෆේටේරියා-විලාසයේ තට්ටු භාවිත කර, කුඩා කෝප්ප සමඟ පස ගෙන යාමටයි.
+- **මල් සැකසීම** ගෙවත්තෙන් හෝ සිල්ලර වෙළඳසැලෙන් ලැබෙන කපන ලද මල් සහ හරිත පත්‍ර සමඟ.
+- **තද කළ මල්** පුෂ්පගුච්ඡයකින්, පසුව කාඩ්පත් මත ඇලවීම. වැඩි විස්තර සඳහා [කලා සහ කර්මාන්ත](/activities/arts-and-crafts/) බලන්න.
+- **ලැවැන්ඩර් හෝ රෝස සුවඳ පැකට් සෑදීම**, ගෙවත්තේ සුවඳ ගෙදරට ගෙන එන AFA අදහසකි.
 
-### Getting out and about
+### පිටතට ගොස් ඇවිදීම
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **කෙටි ඇවිදීමක්** වටේ, උද්‍යානයක් හෝ උද්‍යාන මධ්‍යස්ථානයක්, හිඳීමට තැනක් සහිත මන්දගාමී වේගයකින්.
+- **පිටත වාඩි වීම** තට්ටුවක හෝ බංකුවක, කුරුල්ලන්ගේ හඬ ඇසීමට සහ සුළඟ දැනීමට. මෙය තනිව සම්පූර්ණ ක්‍රියාකාරකමකි.
+- **මහජන උයනකට යාම** දවසේ නිශ්චල වේලාවක. NHS සඳහන් කරන්නේ සමහර ස්ථානවල සුවඳ ශාක, වයනය සහ ජල විශේෂාංග සහිත ඉන්ද්‍රිය ගෙවතු ඇති බවයි.
+- **ප්‍රාදේශීය පොකුණක තාරාවුන්ට ආහාර දීම හෝ කුරුල්ලන් නිරීක්ෂණය.** ජලයේ දාරයේ සිට ආරක්ෂිත දුරකින් සිටින්න.
 
-## How do I make a garden easier to use?
+## ගෙවත්ත පහසුවෙන් භාවිත කරන්නේ කෙසේද?
 
-Bring the garden up to the person, not the other way around.
+ගෙවත්ත පුද්ගලයා වෙතට ගෙන එන්න, අනෙක් ආකාරයට නොවේ.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **උස් වගා යාරි හෝ උස් බඳුන්** ආසන්න වශයෙන් කටි උසේ, දණ ගැසීමට හෝ නැමීමට අවශ්‍ය නොවේ.
+- **මේසයක් මත බඳුන්** රෝද පුටුවක භාවිත කරන හෝ හිඳීමට කැමති අය සඳහා ක්‍රියා කරයි.
+- **පළල්, සමතලා මාර්ග** දැවීම් ගල් හෝ ජල නළ හරස් කර නොතිබීම, වැටීම් අවදානම අඩු කරයි.
+- **අත්වැලක් සහ සෙවණක් සහිත ආසන** මාර්ගය දිගේ, එවිට විවේක ගැනීම සැමවිටම විකල්පයකි.
+- **ගැනීමට පහසු, ඝන, මෘදු හැඩ සහිත උපකරණ.** කප්පාදු කිරීමේ උපකරණ, පිහි සහ තියුණු ඕනෑම දෙයක් වළකින්න.
+- **ගැට දමන ලද දොරක් සහිත වට කරන ලද ප්‍රදේශයක්** පුද්ගලයාට නිදහසේ ගවේෂණය කළ හැකි, ඔබ ආසන්නව සිටින අතරේ.
 
-## Which plants should I avoid?
+## කුමන ශාක වළකින්න ද?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+ස්පර්ශ කිරීමට ආරක්ෂිත ශාක සහ හැකි නම් රස බැලීමටත් ආරක්ෂිත ශාක තෝරන්න. AFA උපදෙස් දෙන්නේ සාමාන්‍යයෙන් සමේ කැළඹීම් ඇති නොකරන ශාක භාවිත කරන ලෙසයි, අසාත්මිකතා පරීක්ෂා කරන ලෙසයි, සහ පස ආහාරයක් ලෙස වැරදියට සිතන කෙනෙකු සඳහා සැලකිල්ලෙන් බලන ලෙසයි. NIA හි නිවසේ ආරක්ෂණ උපදෙස්වලට විෂ සහිත ශාක ඉවත් කිරීම හෝ අගුල් දැමීම ඇතුළත් වේ.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- කටු සහිත රෝස, කැක්ටස් සහ සමේ කැලැල් ඇති කරන යුෂ ඇති ශාක වළකින්න.
+- සිටුවීමට පෙර ඔබට විශ්වාස නැති ඕනෑම ශාකයක් විෂ තොරතුරු මධ්‍යස්ථානයකින් හෝ ප්‍රාදේශීය උද්‍යාන මධ්‍යස්ථානයකින් පරීක්ෂා කරන්න.
+- හුරු ප්‍රියතම දේවල් සුඛදායී හැඟීම් ආපසු ගෙන එයි. AFA රෝස සහ නත්තල් කැක්ටස් උදාහරණ ලෙස සඳහන් කරයි. කටු නැති ප්‍රභේද තෝරන්න.
+- පොහොර, කෘමිනාශක සහ පැලෑටි විනාශකාරක අගුල් දමා තබන්න, සහ පුද්ගලයාට ළඟා විය හැකි ප්‍රදේශවල භාවිත නොකරන්න.
 
-## How do I stay safe in the heat and sun?
+## උණුසුම සහ හිරුවේ ආරක්ෂිතව සිටින්නේ කෙසේද?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+කාලගුණය වටා පිටත කාලය සැලසුම් කරන්න. NIA පැහැදිලි කරන්නේ වයස්ගත වියේ අයට [උණුසුම හා සම්බන්ධ රෝග](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) වලට වැඩි අවදානමක් ඇති බවයි, අර්ධ වශයෙන් ශරීරය උෂ්ණත්ව වෙනස්කම්වලට අඩුවෙන් අනුගත වන නිසාත්, සමහර ඖෂධ ශරීරය උණුසුම හසුරුවන ආකාරයට බලපාන නිසාත්.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **අලුයමට හෝ සවසට පිටතට යන්න.** උණුසුම් මාසවලදී දහවලේ මැද කොටස වළකින්න. උෂ්ණත්වය පමණක් නොව තාප දර්ශකය පරීක්ෂා කරන්න.
+- **නිතර ජලය දෙන්න.** පුද්ගලයා තෘෂාවෙන් සිටින බව කියන තුරු බලා නොසිටින්න. උණුසුමේදී මත්පැන් සහ කැෆේන් ඇති පානීය වළකින්න.
+- **ඒ සඳහා ඇඳගන්න.** ආලෝක වර්ණ, ලිහිල් ඇඳුම්, පළල් ආවරණ තොප්පියක් සහ කළු කණ්නාඩි.
+- **සූර්ය ආරක්ෂක ක්‍රීම් භාවිත කරන්න.** NIA නිර්දේශ කරන්නේ පුළුල් වර්ණාවලි SPF 15 හෝ ඊට වැඩි, දිනය තුළ නැවත ආලේප කරන ලෙසයි.
+- **සෙවණ තෝරන්න.** බඳුන් මේසය ගසක් හෝ කුඩයක් යට සකස් කරන්න.
+- **කෙටිව තබන්න.** කෙටි වේලාවක් පිටත සිටීම ප්‍රමාණවත් විය හැක, විශේෂයෙන් උණුසුම් දවස්වලදී.
+- **අනතුරු ඇඟවීමේ ලකුණු දෙස බලන්න.** NIA හිසරදය, ව්‍යාකූලත්වය, කරකැවිල්ල හෝ ඔක්කාරය තාප රෝගයේ හැකි ලකුණු ලෙස ලැයිස්තුගත කරයි. ඩිමෙන්ශියාව ඇති පුද්ගලයෙක් තමන් අසනීපව සිටින බව ඔබට නොකියනු ඇත, එබැවින් ඔවුන්ගේ මුහුණ සහ හැසිරීම නිරීක්ෂණය කරන්න. ඇතුළට යන්න, ජලය සහ සිසිල් රෙදි කැබැල්ලකින් සිසිල් වන්න, සහ ඉක්මනින් වැඩිදියුණු නොවේ නම් වෛද්‍ය උදව් ලබා ගන්න. සිහිය නැතිවීම, ව්‍යාකූලත්වය, හෝ වියළි, රතු පැහුණු සමක් වැනි ලක්ෂණ සහිත තාප පහර වෛද්‍ය හදිසි අවස්ථාවකි: ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+ශීත ඍතුවද වැදගත්ය. ශීත කාලයේදී පිටත කාලය කෙටිව තබා, අත් සහ පාද උණුසුම්ව හා වියළිව තබා ගන්න.
 
-## How do I handle wandering when we go outside?
+## පිටතට යන විට ඇවිදීම හසුරුවන්නේ කෙසේද?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+පුද්ගලයා පිටතදී සිටින සෑම විටම ඔවුන් සමඟ සිටින්න. Alzheimer's Association කියන්නේ [ඩිමෙන්ශියාව ඇති පුද්ගලයන්ගෙන් දහයෙන් හයක්](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) අවම වශයෙන් වරක්වත් ඇවිදීමට යන බවත්, බොහෝ දෙනෙක් එය එකකට වඩා වැඩි වාරයක් කරන බවත්ය. එය ඕනෑම අවධියක සිදුවිය හැක.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA හි [ඇවිදීම සහ අතුරුදහන් වීම සඳහා ඉඟි](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ඇතුළත් වන්නේ:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- පුද්ගලයා ඔවුන්ගේ නම, ලිපිනය සහ ඔබේ දුරකථන අංකය සහිත අනන්‍යතා හෝ වෛද්‍ය වළලුවක් පළඳින බවට වග බලා ගන්න, නැතහොත් ඔවුන්ගේ ඇඳුම් ලේබල් කරන්න.
+- පුද්ගලයාගේ මෑත ඡායාරූපයක් හෝ වීඩියෝවක් තබා ගන්න.
+- අසල්වැසියන්ට පුද්ගලයා ඇවිදින්න ඉඩ ඇති බව දන්වන්න.
+- ගෙවත්ත වැටකින් සහ අගුලු දැමූ දොරකින් ආරක්ෂා කරන්න.
+- ඇවිදීමේ ඉතිහාසයක් ඇති කෙනෙකු අවේක්ෂාවෙන් තනි නොතබන්න.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association ආරක්ෂිතව ගවේෂණය කළ හැකි අභ්‍යන්තර සහ බාහිර ප්‍රදේශ නිර්මාණය කිරීමටත්, නොසන්සුන්තාව වැඩිම වන දින වේලාව සඳහා ක්‍රියාකාරකම් සැලසුම් කිරීමටත් යෝජනා කරයි. ආරක්ෂිත, වට කරන ලද ගෙවත්තක ඇවිදීමක් දවස අවසානයේ නොසන්සුන්තාවට ගැලපිය හැක. [දවස අවසානයේ නොසන්සුන්තාව](/caregiving/late-day-restlessness/) ගැන අපේ මාර්ගෝපදේශය බලන්න.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+පුද්ගලයා අතුරුදහන් වුවහොත්, ප්‍රාදේශීය පොලිසිය හෝ හදිසි සේවා වහාම සම්බන්ධ කරගනිමින් ආසන්න ආරක්ෂිත ස්ථාන පරීක්ෂා කරන්න. වාර්තා කිරීමට පෙර ස්ථාවර මිනිත්තු ගණනක් බලා නොසිටින්න. 2021 [U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) කියන්නේ නීති ක්‍රියාත්මක කරන ආයතන ස්ථාවර බලා සිටීමේ කාලයක් අවධාරණය නොකළ යුතු බවත්, ඩිමෙන්ශියාව වැනි රෝග ලක්ෂණ ඉහළ අවදානම් ගැටලුවක් ලෙස ලැයිස්තුගත කරන බවත්ය. ප්‍රාදේශීය වාර්තා කිරීමේ ක්‍රියා පටිපාටි වෙනස් වේ. පුද්ගලයා අවසානයට දුටු වේලාව සහ ස්ථානය, ඔවුන් ඇඳ සිටි දේ සහ මෑත ඡායාරූපයක් බෙදා ගන්න. ප්‍රතිචාර දක්වන්නන්ගේ උපදෙස් අනුගමනය කරන්න; අනාරක්ෂිත ස්ථාන තනිව නොසොයන්න.
 
-## How do I adapt gardening as things change?
+## ක්‍රියාකාරකම් වෙනස් වන විට ගෙවත්තේ වැඩ අනුවර්තනය කරන්නේ කෙසේද?
 
-| If this has become hard | Try this instead |
+| මේ දේ දුෂ්කර වී ඇත්නම් | ඒ වෙනුවට මෙය උත්සාහ කරන්න |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| මුළු පොළොවක්ම සිටුවීම | එක් බඳුනක එක් බීජයක් සිටුවීම |
+| වල් පැළෑටි හඳුනා ගැනීම (වල් සහ ශාක වෙන්කර ගැනීම) | ජලය දීම, හෝ පැහැදිලිව කොළ ගිය මල් ගසා ඉවත් කිරීම |
+| ගෙවත්ත වටා ඇවිදීම | පසක් සහිත බඳුනක් සහ ශාකයක් සමඟ මේසයක වාඩි වීම |
+| පිටතට යාම පවා | මුළුතැන්ගෙයි මේසය මත ඖෂධ පැළෑටි බඳුනක්, හෝ විවෘත ජනේලයක් අසල ආසනයක් |
+| ඕනෑම කාර්යයක් කිරීම | එකට පිටත වාඩි වී, සවන් දී බලා සිටීම |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+සමහර අය ඔබ වැඩ කරනු බැලීමට කැමතිය. NIA සඳහන් කරන්නේ පුද්ගලයා රස විඳින්නේ එයම නම්, ඔවුන් සරලව බලා සිටීමට ඉඩ දීම හොඳ බවයි.
 
-## When should we head inside?
+## කවදාද ඇතුළට යා යුතුද?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+පුද්ගලයා වෙහෙසට, උණුසුම්ව, සීතලට, අපහසුව හෝ ඉවර කිරීමට සූදානම් ලෙස පෙනුණු විට ඇතුළට යන්න. කෙටි, ප්‍රීතිමත් මිනිත්තු දහයක් දිගු දහවලක් ට වඩා හොඳය, එය දුක් විඳීමකින් අවසන් වන විට. කලින් නැවතීම හොඳ ප්‍රතිඵලයකි.
 
-## Bring the garden indoors on screen
+## තිරය මත ගෙවත්ත ගෙවල් තුළට ගෙන එන්න
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+වර්ෂා දින, [Sort Together](/games/sort-together/) පින්තූර වර්ග කිරීම සඳහා ගෙවත්ත කූඩයක් ඇත, සහ [Conversation Cards](/games/conversation-cards/) ගෙවත්ත කථා වෙත යා හැකි විවෘත ප්‍රේරණ ඇතුළත් කරයි. උණුසුමෙන් ඇතුළට පැමිණ අවපීඩනය සහ ඉක්මන් බවක් දැනෙන විට, [Calm Breathing](/games/calm-breathing/) හුස්ම ගැනීමේ මන්දගාමී, නිශ්චල විරාමයක් ලබා දෙයි, එය ඔබට එකට බෙදා ගත හැක. ස්පර්ශය, සුවඳ සහ ශබ්දය මත ගොඩනඟන වැඩි ඉඟි සඳහා, අපේ [ඉන්ද්‍රිය ක්‍රියාකාරකම් මාර්ගෝපදේශය](/activities/sensory/) බලන්න.

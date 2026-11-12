@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Hetsika ho an’ny dementia amin’ny sehatra farany, anisan’izany eo am-pandriana na seza"
+seoTitle: "Hetsika dementia amin’ny sehatra farany: fandriana sy seza"
+description: "Hetsika malemy ho an’ny dementia amin’ny sehatra farany, anisan’izany olona eo am-pandriana na seza: mozika, fikasihana, famakiana, feo ary fitoerana miaraka."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Amin’ny dementia amin’ny sehatra farany, ny hetsika dia mifantoka amin’ny
+  fahatsapana sy amin’ny fiaraha-monina aminao: mozika tiana, fihazonana tanana,
+  fanosotra tanana miadana, famakiana mafy, fijerena sary, feon’ny natiora ary
+  fipetrahana eo akaiky varavarankely na any ivelany. Mety amin’ny fandriana na
+  seza ireo. Tazomina fohy ny fotoana, jereo ny endrika sy ny tanana mba hahitana
+  ny fahamora, ary tadiavo fa ny fisian’ny olona no hetsika mihitsy.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Mbola azo atao ny fifandraisana. Amin’ny sehatra farany, ny izao rehetra dia atrehin’ny olona indrindra amin’ny fahatsapana."
+  - "Mozika, fikasihana malemy, feon’ny olona mahazatra ary zavatra malemy hazonina matetika mahatratra olona rehefa tsy mahatratra azy intsony ny teny."
+  - "Ny ankamaroan’ny hevitra eto dia mety ho an’ny olona eo am-pandriana na seza."
+  - "Jereo ny fampiononana sy ny tsy fampiononana amin’ny endrika, tanana ary fofonaina, ary ajanony raha misy famantarana fahasosorana."
+  - "Esory ny zavatra kely, ary omeo sakafo na rano raha toy ny nanoro ny ekipa mikarakara, satria mety ho loza ny fitsimana."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Inona no hetsika azo atao amin’ny olona manana dementia amin’ny sehatra farany izay eo am-pandriana?"
+    a: "Hampilalao ny mozika tiany, mihazona ny tanany, manosotra tanana miadana amin’ny crème, mamaky boky na vavaka tiany mafy, mampiseho sary, na mampilalao feon’ny natiora malemy. Sokafo ny lamba varavarana mba ahitany ivelany. Fotoana fohy sy mangina miaraka amin’ny zavatra iray isaky ny fotoana no matetika mahomby indrindra."
+  - q: "Mbola afaka mahafinaritra ny mozika ve ny olona manana dementia amin’ny sehatra farany?"
+    a: "Maro no afaka. Ny Alzheimer’s Association dia milaza fa na dia amin’ny sehatra farany aza, ny olona dia mety mbola afaka mikapoka ny rindrin-kaliana na mihira hira tamin’ny fahazazany. Safidio ny mozika tiany tamin’ny fahatanorany ary tazomina malemy ny feo."
+  - q: "Ahoana no fomba hahafantarako raha mahafinaritra azy ny hetsika?"
+    a: "Jereo ny famantarana kely: sorony malemy, endrika malemy kokoa, fijerena maso, fihira kely, fitapahan-tanana kely, na fofonaina miadana. Ny fikorontanana, ny fihetsika mamiravirava, ny fihetsehana tsy mitsahatra na ny fikoraka dia mety midika fahasosorana na fanaintainana. Raha hitanao ireto, ajanony ary lazao amin’ny ekipa mikarakara raha mitohy izany."
+  - q: "Mahasoa ve ny mitsidika raha tsy mahafantatra ahy intsony izy?"
+    a: "Eny. Ny National Institute on Aging dia milaza fa ny fisian’ny olona fotsiny dia afaka mampionona, ary ny fikasihana, mozika ary tantara dia mbola afaka manome fampiononana amin’ny dementia mandroso. Ny feonao sy ny fikasihanao dia mety ho mahazatra na dia tsy mahafantatra ny anaranao aza izy."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Amin’ny sehatra farany amin’ny dementia, mety miteny kely ny olona, mila fanampiana amin’ny fikarakarana andavanandro rehetra, ary mandany ny ankamaroan’ny andro eo am-pandriana na seza. Mety ho toy ny tsy misy ho atao miaraka intsony. Misy, anefa. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) dia manamarika fa mety mbola misy ny fototry ny tenan’ny olona, ary amin’ity sehatra ity dia ny fahatsapana no ahazoan’ny olona ny zavatra rehetra indrindra. Mozika, fikasihana, feo mahazatra ary ny fiaraha-monin’ny mpikarakara mangina dia mety mbola afaka manome fampiononana sy fotoana fifandraisana.
 
-## What activities help in late-stage dementia?
+## Inona no hetsika manampy amin’ny dementia amin’ny sehatra farany?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Ny hetsika fahatsapana tsotra sy ny fiaraha-monina mangina no manampy indrindra amin’ny sehatra farany. Ny Alzheimer’s Association dia manoro hevitra ny hampilalao mozika tiana, famakiana ampahany amin’ny boky manan-danja, fanosotra ny hoditra amin’ny crème misy lofinana tiana, ary fipetrahana any ivelany miaraka amin’ny andro mahafinaritra. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) dia manampy fanazavana tantara, fampisehoana sary, fikasihana malemy na fanosotra, ary mozika, feo fanjavonana na feon’ny natiora, ary milaza fa ny fisian’ny olona fotsiny dia afaka mampionona.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+Ny [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) dia manamarika fa olona amin’ny sehatra farany matetika dia mila mitazona zavatra akaiky amin’ny tenany hampiononana, ary manoro hevitra ny hetsika fahatsapana tsotra, fanitarana malemy, fihetsehana amin’ny lamba lava, mozika, fitsidihana biby, fikasihana olona ary zavatra hosodoko malalaka.
 
-## Activities for someone in bed or a chair
+## Hetsika ho an’ny olona eo am-pandriana na seza
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Mampilalao ny mozikany.** Safidio hira avy amin’ny taona vavy, ny finoany na ny fianakaviany. Tazomina malemy ny feo ary mipetraha akaiky. Na izao aza, misy olona mikapoka rantsantanana na mihira sosotra. Jereo ny [hetsika mozika](/activities/music/).
+2. **Mihazona tanana.** Ny fihazonana tanana fotsiny, miaraka amin’ny fikasihana malemy amin’ny tampon-tanana, dia hetsika ihany. Lazao aloha izay ataonao.
+3. **Manosotra tanana miadana.** Mafanaha crème kely eo am-pitan-tanao, ary mikasiha avy amin’ny tanan-tsoka ka hatramin’ny vavaron-tanana. Safidio crème tsy misy lofina, na lofina tiany foana raha mety amin’ny hoditra izany.
+4. **Mamaky mafy.** Tononkalo tiana, andalana iray avy amin’ny boky tiana, soratra masina na pejy ny fifaninanana. Ny rithmy ny feonao no zava-dehibe kokoa noho ny teny.
+5. **Manazava tantara.** Miresaha momba ny dia an-tsehatra tamin’ny fianakaviana na ny andro nanambadian’izy ireo. Tsy ilaina ny valiny.
+6. **Asehoy sary.** Ento sary lehibe iray isaky ny fotoana eo amin’ny sakan’ny maso, ary lazao amin’ny feo mafana izay hita. Aza manontany hoe iza no ao.
+7. **Omeo zavatra malemy hazonina.** Lamba kely voahodina, lamba fleece na biby malemy. Ny NIA dia manoro hevitra ny hanomezana lamba kely hazonina rehefa ampihetsehina ny olona, mba tsy hahafakana anao na ny fanaovana ho zavatra mifatotra.
+8. **Mampilalao feon’ny natiora.** Orana, onja na feon’ny vorona amin’ny feo malemy dia afaka manamaivana efitra be feo.
+9. **Ento any ivelany ny izao rehetra.** Sokafo ny lamba varavarana, apetraho vata vorona eo ivelan’ny varavarankely, na ento zavamaniry vaovao vitsivitsy na ravina hojerena sy hokasihana.
+10. **Mivoaka.** Raha afaka mipetraka amin’ny seza fiaraha-mandeha ny olona, fotoana fohy miaraka amin’ny aloka amin’ny andro mafana dia mahafinaritra.
+11. **Mamehy volo na manome lamba mafana.** Fikarakarana miadana sy malemy sy lamba mafana ho an’ny tanana sy ny endrika dia mety ho toy ny fikarakarana mitsiky.
+12. **Mihetsika malemy miaraka amin’ny mozika.** Mikoriana lamba lava malefaka miaraka, na mihetsika tanana araka ny hira iray. Ho an’ny fanitarana sy fihetsehana ny tsanganana, angataho ny mpitsabo ara-batana na mpitsabo mba hampiseho anao fomba azo antoka aloha.
+13. **Manao sary malalaka.** Mandatsa lokom-paositra tsy misy poizina amin’ny taratasy lehibe amin’ny sokoka na tanana, nitarihina nataonao. Tsy misy valiny marina.
+14. **Mandray fitsidihan’ny biby.** Biby fiompy mangina eo amin’ny fandriana na amin’ny lohalika, raha tia biby ny olona ary ahafahana amin’izany ny toerana.
+15. **Miaina ny fisefoana miadana miaraka.** Mipetraha akaiky ary misefo miadana sy mihaino. [Fisefoana mangina](/games/calm-breathing/) dia afaka mampifanaraka anareo roa, ary ianao no manomboka sy manapaka izany.
+16. **Mipetraha fotsiny eo.** Mipetraha akaiky, mihira kely, manoratra na mamaky mangina. Ny fisian’ny olona dia ampy.
 
-## How to share an activity at this stage
+## Ahoana no fomba hizarana hetsika amin’ity sehatra ity
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Mikaroka avy any alohan’ny hanendrena.** Lazao ny anaranao sy ny anarany, ary miteny miadana sy malemy alohan’ny hikasihana.
+- **Omeo zavatra iray isaky ny fotoana.** Afaharo ny TV alohan’ny hampilalao mozika. Ataovy iray fahatsapana isaky ny fotoana.
+- **Tazomina fohy.** Fotoana kely iray ampy matetika. Fotoana fohy maro mandritra ny andro dia tsara kokoa noho fotoana lava iray.
+- **Ampahamora aloha.** Jereo fa tsara ny fanohanana ny olona. Ny NIA dia manoro hevitra ny plateau eo amin’ny lohalika hitsahatra ny sandry sy hanohana ny vatana ambony rehefa mipetraka.
+- **Jereo ny valin’ny olona.** Tanana malemy, endrika malemy kokoa, fijerena maso na fihira kely dia manondro fampiononana. Ny NIA dia milaza fa ny fikoraka, ny fikorontanana endrika, ny fiarovana ampahany amin’ny vatana na ny fikorontanana tampoka dia mety ho famantarana fanaintainana. Ajanony, ary lazao amin’ny ekipa mikarakara.
 
-## A quick guide by sense
+## Toro-hevitra haingana araka ny fahatsapana
 
-| Sense | Ideas | Take care |
+| Fahatsapana | Hevitra | Ahoana no fitandremana |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Feo | Mozika tiana, ny feonao mamaky, feon’ny natiora | Tazomina kely ny feo; feo iray isaky ny fotoana |
+| Fikasihana | Fanosotra tanana, fihazonana tanana, lamba malemy, lamba mafana | Anontanio na lazao aloha; jereo fa tsy marary na tratra ny hoditra |
+| Fijery | Sary, voninkazo, ny endrika avy amin’ny varavarankely, horonan-tsary natiora miadana | Ampiasao ny sakan’ny maso; mazava tsara, tsy misy fandatsahana |
+| Fofona | Crème tiana, voninkazo vaovao, kafe mandeha akaiky | Esory ny lofina mafy; jereo ny fanandramana sy fofonaina |
+| Tsiro | Kely kely amin’ny tsiro tiana | Ny sakafo sy ny sakafo malemy ihany izay lazain’ny ekipa mikarakara ho azo antoka |
 
-## Safety at this stage
+## Fiarovana amin’ny sehatra ity
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Mety ho sarotra ny fitsimana amin’ny sehatra farany, ary ny NIA dia mampitandrina fa mampitombo ny loza ny tsy fahafahana. Aza mamela zavatra kely eo akaiky, ary omeo sakafo na rano amin’ny endrika sy ny toerana natoro ny ekipa mikarakara ihany. Jereo malemy ny hoditra mandritra ny hetsika fikasihana, satria mora ny hoditra haratsaka na ho bongo. Ho an’ny hevitra fahatsapana azo antoka bebe kokoa, jereo ny [hetsika fahatsapana](/activities/sensory/).
 
-## Looking after yourself too
+## Atiavo koa ny tenanao
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Ny fikarakarana amin’ny sehatra farany dia mahasarotra amin’ny vatana sy ny fihetsiketsehana, na any an-trano na rehefa mitsidika trano fikarakarana. Ny ekipa fikarakarana mafy sy fanampiana mahafinaritra dia afaka manampy amin’ny fampiononana, fanohanana ary fandrafetana, ary ny NIA dia manisy azy ho loharano fanampiana. Fitsidihana fohy sy mangina dia mendrika; jereo ny [fitsidihana olona manana dementia](/activities/visiting/). Raha mitarika vondrona ianao, ny [hetsika vondrona ao amin’ny trano fikarakarana](/activities/care-home-groups/) dia manana hevitra hanovana ny fivoriana. Ary mba vakio ny [fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/): fitsaharana dia ampahany amin’ny fikarakarana tsara.

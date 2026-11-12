@@ -9,9 +9,9 @@ translatedFrom: 2026-10-25
 summary: >-
   Rutina ġentili żżomm il-qawmien, l-ikel, il-kura personali u l-irqad fl-istess
   ħinijiet bejn wieħed u ieħor, tqiegħed l-attività prinċipali meta l-persuna
-  tkun l-aktar sveglia, u tibbilanċja l-attività mal-mistrieħ. Ibnieha mill-
-  abitudnijiet tul il-ħajja tal-persuna, żommha flessibbli aktar milli mimlija,
-  ikseb dawl tax-xemx u moviment kuljum, u ibdel il-pjan kif teħtieġ il-ġurnata.
+  tkun l-aktar sveglia, u tibbilanċja l-attività mal-mistrieħ. Ibnieha skont l-
+  abitudini tul il-ħajja tal-persuna, żommha flessibbli aktar milli mimlija,
+  oħloq ħin fid-dawl tax-xemx u moviment kuljum, u ibdel il-pjan kif teħtieġ il-ġurnata.
 keyPoints:
   - "Ħinijiet stabbli għall-qawmien, l-ikel, il-kura u l-irqad jagħtu lill-ġurnata forma familjari."
   - "Poġġi l-attività prinċipali fl-aħjar ħin tal-ġurnata tal-persuna, ta’ spiss filgħodu."
@@ -101,7 +101,7 @@ Timlix kull minuta. L-Alzheimer’s Association jenfasizza li l-persuna teħtie�
 
 ### Ipproteġi l-aħħar tal-ħin ta’ wara n-nofsinhar
 
-Ħafna nies isiru aktar inkwieti hekk kif id-dawl jonqos. L-[NIA](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) jissuġġerixxi ħin barra jew qrib tieqa għad-dawl tax-xemx kuljum, attività kuljum mingħajr ma tippjana wisq, li tevita l-kafeina u l-alkoħol tard fil-ġurnata, u li tiskoraġġixxi rqad twil tard fil-ġurnata. Xi familji jsibu wkoll li jagħlqu l-kurtini u jixegħlu d-dwal qabel ma jaqa’ l-lejl. Ara [l-inkwiet tal-aħħar tal-ġurnata](/caregiving/late-day-restlessness/) u [l-irqad](/brain-health/sleep/).
+Ħafna nies isiru aktar inkwieti hekk kif id-dawl jonqos. L-NIA jissuġġerixxi ħin barra jew qrib tieqa għad-dawl tax-xemx kuljum, attività kuljum mingħajr ma tippjana wisq, li tevita l-kafeina u l-alkoħol tard fil-ġurnata, u li tiskoraġġixxi rqad twil tard fil-ġurnata. Xi familji jsibu wkoll li jagħlqu l-kurtini u jixegħlu d-dwal qabel ma jaqa’ l-lejl. Ara [l-inkwiet tal-aħħar tal-ġurnata](/caregiving/late-day-restlessness/) u [l-irqad](/brain-health/sleep/).
 
 ### Ibdel meta jinbidlu l-bżonnijiet
 
