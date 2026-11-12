@@ -12,14 +12,14 @@ keyPoints:
   - "Agħmel ix-xorb li l-persuna tippreferi faċli biex tarah u tilħaqlu."
   - "Offri xorb matul rutini familjari mingħajr pressjoni."
   - "M'għandekx tillimita l-fluwidi biex tipprevjeni inċidenti sakemm professjonist tas-saħħa ma jkunx ta parir dwar dan."
-  - "Staqsi lil professjonist tas-saħħa dwar il-ħtiġijiet tal-fluwidi, it-tħassib dwar id-deidrazzjoni jew bidliet fil-biża' tal-ibbilgħ."
+  - "Staqsi lil professjonist tas-saħħa dwar il-ħtiġijiet tal-fluwidi, it-tħassib dwar id-deidrazzjoni jew bidliet fl-awrina."
 faq:
   - q: "Kif nista' nħeġġeġ persuna bid-demenza tixrob aktar?"
     a: "Offri xorb li tgħoġbha f'tazza familjari u faċli biex tinżamm. Żommu fil-qrib u agħmel offerti sempliċi matul rutini bħall-ikel jew il-mistrieħ. Irrispetta l-għażla tal-persuna u staqsi lil professjonist tas-saħħa jekk l-ammont li tixrob jibqa' tħassib."
   - q: "Għandi nillimita x-xorb biex nnaqqas l-inkontinenza?"
     a: "M'għandekx tnaqqas il-fluwidi biex tipprevjeni inċidenti sakemm professjonist tas-saħħa ma tatx pjan individwali. Ftit fluwidi jistgħu jwasslu għal deidrazzjoni u problemi oħra. Staqsi lit-tabib tal-persuna dwar il-ħtiġijiet tagħha."
   - q: "Liema sinjali jistgħu jfissru li xi ħadd huwa deidrat?"
-    a: "Ħalq niexef, ħass ta' ħakk, għajja mhux tas-soltu jew bidla fl-awrina jistgħu jkunu sinjali, imma jistgħu jkollhom kawżi oħra. Ikkuntattja professjonist tas-saħħa jekk tinkwieta, u fittex għajnuna minnufih għal konfużjoni f'daqqa."
+    a: "Ħalq niexef, ħass ta' tidwir, għajja mhux tas-soltu jew bidla fl-awrina jistgħu jkunu sinjali, imma jistgħu jkollhom kawżi oħra. Ikkuntattja professjonist tas-saħħa jekk tinkwieta, u fittex għajnuna minnufih għal konfużjoni f'daqqa."
   - q: "X'jiġri jekk xi ħadd jisgħol jew jinħnaq meta jixrob?"
     a: "Waqqaf u kellem professjonist tas-saħħa għal parir. Tħammerx xorb u tbiddilx it-tekstura tiegħu sakemm ma jkunx hemm rakkomandazzjoni ta' professjonist kwalifikat għal dik il-persuna."
 sources:
@@ -71,7 +71,7 @@ Qassam l-offerti matul il-ġurnata minflok ma titlob lill-persuna tixrob ħafna 
 
 ## X'bidliet għandi nosserva?
 
-Oqgħod attent għal dak li hu differenti mill-mudell tas-soltu tal-persuna. Tista' tixrob ħafna inqas mis-soltu, titlaq xorb favorit mhux mess jew teħtieġ aktar għajnuna minn qabel. Ħalq niexef, ħass ta' ħakk, għajja mhux tas-soltu jew bidliet fl-awrina jistgħu wkoll ikunu raġunijiet biex tiċċekkja ma' professjonist tas-saħħa. Dawn is-sinjali jistgħu jkollhom kawżi oħra, għalhekk tiddijanjostikax id-deidrazzjoni waħdek.
+Oqgħod attent għal dak li hu differenti mill-mudell tas-soltu tal-persuna. Tista' tixrob ħafna inqas mis-soltu, titlaq xorb favorit mhux mess jew teħtieġ aktar għajnuna minn qabel. Ħalq niexef, ħass ta' tidwir, għajja mhux tas-soltu jew bidliet fl-awrina jistgħu wkoll ikunu raġunijiet biex tiċċekkja ma' professjonist tas-saħħa. Dawn is-sinjali jistgħu jkollhom kawżi oħra, għalhekk tiddijanjostikax id-deidrazzjoni waħdek.
 
 Ikteb x'innotajt u meta. Inkludi jekk il-persuna kinitx morda, f'post sħun jew kellha diffikultà biex iżżomm jew tibla' xorb. [L-Alzheimer's Association tinnota li sinjali ta' deidrazzjoni jistgħu jkunu diffiċli biex jinstabu f'persuna bid-demenza](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Jekk hemm bidla f'daqqa jew tkun qed tinkwieta, ikkuntattja lit-tabib jew professjonist ieħor tas-saħħa.
 
