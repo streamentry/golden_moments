@@ -53,7 +53,7 @@ Yaadannoo jechuun waa'ee darbii wal-dubbachuu dha: mana daa'imummaa, hojii jalqa
 - **Gaaffii tokko yeroo tokko.** Dhaabbadhu, dhaga'i, booda wanta salphaa tokkoon hordofi.
 - **Namichi akka hogganu godhi.** Wanta biraa dubbachuu yoo barbaade, isa wajjin deemi.
 
-[Qajeelfama Dhaabbata Qorannoo Umurii Gurguddaa National Institute on Aging'in waa'ee dubbii](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) jechoota gabaabaa, sagalee laafaa, fi obsa namichi jechoota isaa argatu irratti, gorsa. Seerotni kunneen bakka hundaa irratti barbaachisu.
+[Qajeelfama National Institute on Aging waa'ee dubbii](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) jechoota gabaabaa, sagalee laafaa, fi obsa namichi jechoota isaa argatu irratti, gorsa. Seerotni kunneen bakka hundaa irratti barbaachisu.
 
 ## Mana fi daa'imummaa
 

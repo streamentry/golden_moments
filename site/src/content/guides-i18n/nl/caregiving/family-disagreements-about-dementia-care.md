@@ -1,7 +1,7 @@
 ---
 title: "Als families het niet eens zijn over de zorg bij dementie"
 seoTitle: "Meningsverschillen in de familie over zorg bij dementie"
-description: "Een rustige manier om te praten over zorgverschillen bij dementie: betrek de wensen van de persoon, scheid feiten van aannames, verdeel taken en vraag hulp van buitenaf."
+description: "Een rustige manier om over zorgverschillen bij dementie te praten: betrek de wensen van de persoon, scheid feiten van aannames, verdeel taken en vraag hulp."
 section: caregiving
 order: 33
 updated: 2026-11-11

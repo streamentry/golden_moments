@@ -1,7 +1,7 @@
 ---
 title: "Hojiiwwan Ogummaa Namoota Dementia Qaban"
 seoTitle: "Hojii Ogummaa Dementiaaf: Yaada Tarkaanfii-Tarkaanfiin"
-description: "Hojii ogummaa nama dementia qabuuf tarkaanfii-tarkaanfiin: dibbii bishaanii, kolaajii, lafa laafaa, chaakii fi garbuu baala, fi meeshaa ogummaa nagaa, manaa fi guddaa filachuu."
+description: "Hojii ogummaa nama dementia qabuuf tarkaanfii-tarkaanfiin: dibbii bishaanii, kolaajii, lafa laafaa, chaakii fi garbuu baala, fi meeshaa nagaa filachuu."
 section: activities
 order: 28
 updated: 2026-11-08

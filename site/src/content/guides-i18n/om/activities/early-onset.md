@@ -71,7 +71,7 @@ Namicha filadhu. "Ganama kana maal gochuu barbaadda?" jechuun gaafachuun, filach
 
 Muuziqaa fi suuraa waggaa digdamaa, soddomaa fi afurtamaa irraa, yaadota gammachiisoo fi haasaa salphaa kaasuu danda'u. [Hojiiwwan muuziqaa](/activities/music/) irratti karoora playlist akkaataan ijaaruu ibsa, [hojiiwwan yaadannoo](/activities/reminiscence/) immoo suuraa fi seenaa akka gaafii hin taane qooduu ibsu. Taphoo ogummaa maatii, [kaardii haasaa](/games/conversation-cards/) fayyadami, gaaffiiwwan banaa waa'ee hojii, imala, hiriyoota fi maatii waliin.
 
-Suuraalee maatii irraa [photo pairs](/games/photo-pairs/) irratti taphoo kan namichi jaallatu, namoota fi bakkeewwan isaaf barbaachisan waliin, akkasuu gaarii ta'uu danda'a. [Photo pairs](/games/photo-pairs/) suuraalee browser keessaa kompiitara kanatti turan.
+Suuraalee maatii irraa photo pairs irratti taphoo kan namichi jaallatu, namoota fi bakkeewwan isaaf barbaachisan waliin, akkasuu gaarii ta'uu danda'a. [Photo pairs](/games/photo-pairs/) suuraalee browser keessaa kompiitara kanatti turan.
 
 ## Hojii, konkolaataa fi jireenya guyyaa
 

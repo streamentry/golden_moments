@@ -1,7 +1,7 @@
 ---
 title: "Iemand met dementie die alleen woont ondersteunen"
 seoTitle: "Alleen wonen met dementie: steun voor families"
-description: "Ondersteun iemand met dementie die alleen woont met vaste routines, afgesproken contactmomenten en praktische hulp, met de wensen en zelfstandigheid van de persoon centraal."
+description: "Ondersteun iemand met dementie die alleen woont met vaste routines, afgesproken contactmomenten en praktische hulp, met respect voor zijn of haar wensen."
 section: caregiving
 order: 12
 updated: 2026-11-11

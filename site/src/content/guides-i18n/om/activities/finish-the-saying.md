@@ -1,7 +1,7 @@
 ---
 title: "Taphoota Jechoota Xumuruu Namoota Dementia Qabaniif"
 seoTitle: "Taphoota Jechoota Xumuruu Dementiaaf"
-description: "Taphoota jechoota xumuruu fi karoora jechaa nama dementia qabuuf: jechoota beekamoo taphuu, filannoo kennuu, qormaata hin taasisin, deebii dogoggoraa akka haasaatti jijjiiruu."
+description: "Taphoota jechoota xumuruu fi karoora jechaa nama dementia qabuuf: jechoota beekamoo taphuu, filannoo kennuu, qormaata hin taasisin, haasaa taasisuu."
 section: activities
 order: 23
 updated: 2026-11-08
@@ -79,9 +79,7 @@ Namichi yoo rakkate ykn ajajame, taphicha dhiisi, booda ceesisi. [Gorsa wal-dubb
 
 ## Jechoota gosa tokkoon
 
-Filannoon jecha kamiyyuu fakkii xumura isaa qabeenya kee (qabeenya bira) qabata. "Qilleensa" ... "Roobni dura torbaan ..." (xumura: "guyyaa kudhan tokkoo ..."); "Bunaa mana keessaa..." Filannoo tarkaanfii haaraa.
-
-Yeroo kamiyyuu, qooda jalqabaa dubbisi, booda eegi.
+Fakkeenyi gadii kanneen xumura isaa qubee keessatti agarsiisan. Qooda jalqabaa qofa dubbisi, booda eegi.
 
 - **Qilleensa:** "Roobni torbaan dura..." (xumura: "guyyaa kudhanii booda ifa"); "Duumessi kamiyyuu qabata..." (sammuu adii).
 - **Mana nyaataa fi nyaata:** "Mana nyaataa baay'een..." (xumura: "shuruba ni balleessa"); "Hin lakkaa'in hiriqaa..." (xumura: "dura hin baqatin").

@@ -1,6 +1,6 @@
 ---
 title: "Als iemand met dementie dingen ziet of hoort"
-seoTitle: "Hallucinaties en dementie: rustige stappen voor mantelzorgers"
+seoTitle: "Hallucinaties en dementie: rustige stappen"
 description: "Leer rustig reageren wanneer iemand met dementie dingen ziet of hoort, de omgeving controleren en weten wanneer plotselinge veranderingen medische hulp nodig hebben."
 section: caregiving
 order: 36

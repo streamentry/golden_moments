@@ -1,7 +1,7 @@
 ---
 title: "Picture Bingo Namoota Dementia Qabaniif, Maxxansaan ykn Ekraan Irratti"
 seoTitle: "Picture Bingo Namoota Dementia Qabaniif"
-description: "Picture bingo nama dementia qabuuf, maxxansaan ykn ekraan irratti: suuraalee guddaa, waamaa laafaa, dhiibbaa mo'ataa hin qabne, fi gorsa garee xiqqaa fi mana kunuunsaaf."
+description: "Picture bingo nama dementia qabuuf, maxxansaan ykn ekraan irratti: suuraalee guddaa, waamaa laafaa, mo'annaa hin qabne, fi gorsa garee xiqqaa fi mana kunuunsaaf."
 section: activities
 order: 24
 updated: 2026-11-08

@@ -1,7 +1,7 @@
 ---
 title: "Taphoota Online Bilisaa Namoota Dementia Qabaniif, Download Hin Barbaachisu"
 seoTitle: "Taphoota Online Bilisaa Dementiaaf, Download Hin Qabu"
-description: "Taphoota online bilisaa nama dementia qabuuf browser irratti banan, appii fi account hin barbaachisne: walitti qabsiisuu suuraa, qindeessuu, taphoo fi sammuu boqonnaa."
+description: "Taphoota online bilisaa nama dementia qabuuf browser irratti banan, appii fi account hin barbaachisne: walitti qabsiisuu suuraa, qindeessuu, taphoo fi boqonnaa."
 section: activities
 order: 22
 updated: 2026-11-08
