@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND un Vidusjūras diēta un demence: ko saka pētījumi"
+seoTitle: "MIND diēta un demence: ko saka pētījumi"
+description: "Ko pētījumi saka par MIND un Vidusjūras diētu un demenci, kāpēc liels izmēģinājums neatklāja skaidru labumu un kā palīdzēt cilvēkam ar demenci labi ēst."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Novērojumu pētījumi saista Vidusjūras un MIND tipa uzturu ar mazāku demences
+  risku, taču ne vienmēr. Trīs gadu randomizēts izmēģinājums ar MIND diētu, kas
+  publicēts 2023. gadā, neatklāja būtisku atšķirību domāšanā vai smadzeņu
+  attēlos, salīdzinot ar kontroles diētu. Nevienam pārtikas produktam vai uztura
+  bagātinātājam nav pierādīts, ka tas novērš demenci. Cilvēkiem, kas dzīvo ar
+  demenci, vissvarīgākais ir pietiekami ēst un dzert.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Dažos, bet ne visos pētījumos, kas seko cilvēkiem laika gaitā, Vidusjūras un MIND ēšanas veids ir saistīts ar mazāku demences risku."
+  - "2023. gada izmēģinājumā ar 604 vecāka gadagājuma pieaugušajiem cilvēki, kas ēda pēc MIND diētas, pēc trim gadiem neveicās labāk domāšanas testos vai smadzeņu attēlos nekā cilvēki kontroles diētā."
+  - "Nacionālais novecošanās institūts saka, ka nav pierādījumu, ka konkrēta pārtikas produkta ēšana vai izvairīšanās no tā novērš Alcheimera slimību, un nevienu vitamīnu vai uztura bagātinātāju nav pierādīts, ka tas to novērš."
+  - "Uzturs, kas bagāts ar dārzeņiem, augļiem, pupiņām, pilngraudiem un zivīm, atbalsta sirds veselību un var palīdzēt mazināt tādus riskus kā augsts asinsspiediens un diabēts."
+  - "Cilvēkiem, kas dzīvo ar demenci, bieži vairāk nozīmē ēdieni, ko var ņemt ar rokām, kontrastējoši šķīvji, mierīgas maltītes un regulāri dzērieni nekā jebkura konkrēta diēta."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Vai MIND diēta novērš demenci?"
+    a: "Tas nav pierādīts. Novērojumu pētījumi saistīja MIND diētu ar mazāku risku, bet trīs gadu randomizētais izmēģinājums, kas publicēts 2023. gadā, neatklāja būtisku atšķirību domāšanas testu rezultātos vai smadzeņu attēlos starp cilvēkiem, kas ēda pēc MIND diētas, un cilvēkiem kontroles diētā. Abas grupas nedaudz uzlabojās un zaudēja līdzīgu svaru."
+  - q: "Kāda ir atšķirība starp MIND diētu un Vidusjūras diētu?"
+    a: "Vidusjūras diēta uzsver dārzeņus, augļus, pilngraudus, pupiņas, zivis un olīveļļu, ar nelielu sarkanās gaļas un saldumu daudzumu. MIND diēta apvieno to ar DASH diētu asinsspiediena vadībai un papildus uzsver zaļos lapu dārzeņus un ogas, vienlaikus ierobežojot sarkano gaļu, saldumus, sieru, sviestu un ceptu pārtiku."
+  - q: "Vai ir pārtikas produkti vai uztura bagātinātāji, kas novērš Alcheimera slimību?"
+    a: "Nav. Nacionālais novecošanās institūts saka, ka nav pierādījumu, ka konkrēta pārtikas produkta ēšana vai izvairīšanās no tā novērš Alcheimera slimību vai ar vecumu saistītu domāšanas pasliktināšanos, un nevienu vitamīnu vai uztura bagātinātāju nav pierādīts, ka tas novērš Alcheimera slimību. Pirms uztura bagātinātāju lietošanas konsultējieties ar ārstu."
+  - q: "Kādi ēdieni ir vieglākie cilvēkam ar demenci?"
+    a: "Kumosi, ko var ņemt ar rokām, piemēram, sendviča gabaliņi, vistas gabaliņi, apelsīnu šķēles vai tvaicēti dārzeņu gabaliņi, bieži ir vieglāk ēdami nekā ar galda piederumiem. Ja košļāt vai norīt ir grūti, var palīdzēt mīksti ēdieni, piemēram, kartupeļu biezenis, ābolu biezenis vai biezpiens. Ja rodas klepus vai žņaugšanās, pajautājiet ārstam par norīšanas novērtēšanu."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Jūs, iespējams, esat lasījis, ka „smadzenēm draudzīgs” uzturs var atturēt Alcheimera slimību. Patiesā aina ir pieticīgāka. Daži ēšanas veidi ir saistīti ar mazāku risku pētījumos, kas seko cilvēkiem laika gaitā, taču labākais izmēģinājums līdz šim neatklāja skaidru labumu. Šajā lapā izskaidroti abi šie fakti, un pēc tam pievērsts tam, kas parasti ir vissvarīgākais cilvēkam, kas jau dzīvo ar demenci: pietiekami ēst un dzert un baudīt ēdienu.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Šī ir vispārīga informācija, nevis medicīniska konsultācija. Pirms savas vai cita cilvēka uztura maiņas pārrunājiet to ar ārstu vai reģistrētu dietologu. Skatiet mūsu [medicīnisko atrunu](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Kas ir Vidusjūras un MIND diētas?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Nacionālais novecošanās institūts (NIA) tās apraksta šādi ([NIA par uzturu un Alcheimera slimību](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Vidusjūras diēta:** daudz augļu, dārzeņu, pilngraudu, pupiņu, zivju un jūras velšu un olīveļļas, ar nelielu sarkanās gaļas, olu un saldumu daudzumu.
+- **MIND diēta** (Mediterranean–DASH Intervention for Neurodegenerative Delay, Vidusjūras–DASH intervence neirodeģeneratīvas aizkavēšanai): Vidusjūras diētas un DASH diētas asinsspiediena vadībai apvienojums. Tajā ir dārzeņi, īpaši zaļie lapu dārzeņi; ogas; pilngraudi; pupiņas; rieksti; zivis vismaz reizi nedēļā; un olīveļļa. Tā ierobežo sarkano gaļu, saldumus, sieru, sviestu vai margarīnu un ceptu vai ātrās ēdināšanas ēdienu.
 
-## Do these diets lower dementia risk?
+## Vai šīs diētas samazina demences risku?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Pierādījumi ir sajaukti. NIA saka, ka dažos, bet ne visos novērojumu pētījumos Vidusjūras un MIND diētas ir saistītas ar mazāku demences risku, salīdzinot ar Rietumu stila uzturu, kurā ir vairāk sarkanās gaļas, piesātināto tauku un cukura.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024. gada Lancet komisija pārskatīja pētījumus sīkāk ([Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Viens kohortu pētījumu pārskats saistīja augstu uztura kvalitāti ar aptuveni par 20% zemāku demences risku.
+- Lielāka trīs kohortu analīze saistīja ciešāku atbilstību MIND diētai ar zemāku risku.
+- Taču zviedru pētījums, kurā cilvēki vidējā vecumā tika novēroti aptuveni 20 gadus ar 28 025 cilvēkiem, neatklāja zemāku risku ne ar vienu no ieteiktajām diētām, ne ar Vidusjūras tipa uzturu.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Novērojumu pētījumi nevar pierādīt cēloni un sekas. Cilvēki, kas ēd šādi, bieži atšķiras arī citādi, piemēram, ienākumos, izglītībā, fiziskajās aktivitātēs un piekļuvē veselības aprūpei. Komisija secināja, ka nav pietiekami pierādījumu tam, ka veselīgas diētas tieši novērš demenci, lai gan pietiekams augļu un dārzeņu daudzums un mazāk īpaši pārstrādātu pārtikas produktu ir labs daudzām veselības problēmām un ietekmē riska faktorus, piemēram, aptaukošanos, diabētu un augstu asinsspiedienu. Komisija uzturu nepievienoja savam sarakstam ar [14 riska faktoriem](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Ko atklāja 2023. gada MIND diētas izmēģinājums?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Līdz šim stiprākais tests bija randomizēts izmēģinājums, kas publicēts žurnālā New England Journal of Medicine 2023. gadā ([MIND diētas izmēģinājums](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Kas:** 604 pieaugušie vecumā no 65 gadiem un vecāki Čikāgas un Bostonas apgabalā, bez domāšanas problēmām, kuriem bija tuvs radinieks ar demenci, kam bija liekais svars un kuru sākotnējais uzturs bija mazāk veselīgs.
+- **Kas tika darīts:** trīs gadus puse ievēroja MIND diētu, bet puse ēda pēc savas parastās diētas. Abām grupām tika lūgts ēst aptuveni par 250 kalorijām dienā mazāk, un tās regulāri saņēma konsultācijas no reģistrētiem dietologiem.
+- **Rezultāts:** domāšanas testu rezultāti nedaudz uzlabojās **abās** grupās. Atšķirība starp grupām bija neliela un **nebija statistiski būtiska**. Arī smadzeņu attēli abās grupās rādīja līdzīgas izmaiņas.
+- **Svars:** abas grupas zaudēja aptuveni 5 kilogramus (apmēram 11 mārciņas).
 
-### Why might the trial have found no difference?
+### Kāpēc izmēģinājums varēja neatklāt atšķirību?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Pētnieki minēja vairākus iemeslus. Kontroles grupa, iespējams, arī uzlaboja savu uzturu, jo tā zaudēja līdzīgu svaru. Atkārtota testēšana pati par sevi var uzlabot rezultātus, jo cilvēki pierod pie testiem. Trīs gadi, iespējams, ir par īsu laiku. Vairums dalībnieku bija labi izglītoti un Eiropas izcelsmes, tāpēc rezultāti var neattiekties uz visiem.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Tātad godīgs kopsavilkums ir šāds: MIND diēta trīs gadu laikā nepārspēja saprātīgu, kaloriju ziņā samazinātu diētu. Tas nenozīmē, ka veselīga ēšana ir bezjēdzīga. Tas nozīmē, ka neviens nedrīkst gaidīt, ka konkrēta diēta novērsīs demenci.
 
-## What about specific foods and supplements?
+## Kā ar konkrētiem pārtikas produktiem un uztura bagātinātājiem?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA saka, ka nav pierādījumu, ka konkrēta pārtikas produkta ēšana vai izvairīšanās no tā novērš Alcheimera slimību vai ar vecumu saistītu domāšanas pasliktināšanos. Mellenes, lapu dārzeņi un kurkuma ir pētīti, bez pierādījumiem. NIA arī saka, ka neviens vitamīns vai uztura bagātinātājs nav pierādīts, ka novērš Alcheimera slimību, un tie nav ieteicami šim nolūkam. NIA brīdina, ka nepierādīti produkti, kas tiek pārdoti Alcheimera slimības novēršanai, var būt nedroši, izšķiedēji vai abi, un var traucēt izrakstītos medikamentus, tāpēc pirms jebkura izmēģināšanas pārbaudiet to ar ārstu ([NIA par Alcheimera slimības novēršanu](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Kā ēšana var būt veselīga un patīkama?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Vairumam vecāka gadagājuma cilvēku mērķis ir barojoša, pazīstama un patīkama ēda, nevis stingrs plāns:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Veidojiet maltītes no ēdieniem, kas jums garšo,** no Vidusjūras uztura: dārzeņiem, augļiem, pupiņām, pilngraudiem, zivīm un olīveļļas.
+- **Saglabājiet iecienītos gardumus.** Baudījums un apetīte ir svarīgi, īpaši vēlākā dzīves posmā.
+- **Ēdiet kopā ar citiem,** kad vien varat. Kopīgas maltītes ir laba sabiedrība.
+- **Gatavojiet kopā.** Dārzeņu mazgāšana vai katla mešana ir laba kopīga nodarbe; skatiet [mājas darbus](/activities/household-tasks/). Iecienīta ģimenes recepte var arī pamodināt [atmiņas](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Vecākiem cilvēkiem nevajadzētu samazināt kaloriju daudzumu vai zaudēt svaru, nerunājot ar ārstu, un badošanās nes papildu riskus. Skatiet mūsu [badošanās rokasgrāmatu](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Kā var palīdzēt cilvēkam ar demenci labi ēst?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Cilvēkiem, kas dzīvo ar demenci, galvenā rūpe parasti ir pietiekami **ēst un dzert**. Alzheimer's Association norāda, ka cilvēki var aizmirst ēst, domāt, ka jau ir ēduši, vai justies pārāk apgrūtināti izvēlēs, un ka slikts uzturs var pastiprināt uzvedības simptomus un izraisīt svara zudumu ([Alzheimer's Association par pārtiku un ēšanu](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Šīs idejas nāk no Alzheimer's Association, NIA un Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Piedāvājiet ēdienus, ko ņemt ar rokām.** Kumosi, ko viegli paņemt, piemēram, sendviča gabaliņi, vistas gabaliņi, zivju pirkstiņi, apelsīnu šķēles vai tvaicēta brokoļu daļiņa, ļauj cilvēkam ēst pašam bez galda piederumiem.
+2. **Izmantojiet kontrastu uz galda.** Redzes izmaiņas var apgrūtināt ēdiena atšķiršanu no šķīvja. Balti šķīvji vai bļodas uz kontrastējoša paliktņa var palīdzēt. Izvairieties no rakstainiem traukiem un galdautiem.
+3. **Pasniedziet vienu vai divus ēdienus vienlaikus.** Pilns šķīvis var būt pārgurdinošs.
+4. **Turiet maltītes mierīgas.** Izslēdziet televizoru, turiet galdu vienkāršu un ļaujiet pietiekami daudz laika. NIA iesaka nesteigties un nespiest.
+5. **Piedāvājiet mazas maltītes un uzkodas bieži.** NIA iesaka mazākas, biežākas maltītes un kaloriju bagātas uzkodas, ja cilvēks neēd pietiekami ([NIA padomi, kā labi ēst](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Palīdziet ar dzeršanu.** Visas dienas garumā piedāvājiet nelielas glāzes ūdens vai citu dzērienu, kā arī ēdienus ar lielu ūdens daudzumu, piemēram, augļus, zupu, piena kokteiļus un smūtijus. Ja cilvēks negrib ūdeni, NIA iesaka pamēģināt sulu, garšotu ūdeni, buljonu, pienu vai bezkofeīna kafiju vai tēju.
+7. **Pārbaudiet temperatūru.** Cilvēks var nepamanīt, ka ēdiens vai dzēriens ir pārāk karsts.
+8. **Pielāgojiet traukus un glāzes.** Bļodas šķīvju vietā, karotes ar lielu rokturi un glāzes ar vākiem var padarīt ēšanu vieglāku. Nesatraucieties par kārtību.
+9. **Padariet ēdienu vieglāk košļājamu un norījamu.** Sagrieziet ēdienu mazos gabaliņos vai piedāvājiet mīkstus ēdienus. Ja cilvēks ēdot klepo vai žņaudzas, pastāstiet ārstam.
+10. **Nespiediet ēst.** NIA norāda, ka apetīte dabiski samazinās Alcheimera slimības vēlākajos posmos.
 
-### Signs to tell the doctor about
+### Pazīmes, par kurām stāstīt ārstam
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Svara zudums, atteikšanās ēst, nogurums vai vājums var būt pazīmes, ka cilvēks neēd pietiekami. Alzheimer's Society norāda, ka sāpīgi zobi vai protēzes, depresija, aizcietējums un medikamentu izmaiņas var visas samazināt apetīti ([Alzheimer's Society par apetīti](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). NIA uzskaitītās dehidratācijas pazīmes ir sausa mute, reibonis, ātra sirdsdarbība un halucinācijas ([NIA par biežākajām medicīniskajām problēmām](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Runājiet ar ārstu
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Pirms lielām izmaiņām savā vai kāda cita uzturā pārrunājiet to ar ārstu vai reģistrētu dietologu, īpaši, ja jums ir diabēts, nieru slimība, norīšanas problēmas vai nesen zudis svars. Cilvēkam, kas dzīvo ar demenci, pajautājiet, cik daudz viņam jāēd un jādzer katru dienu, un vai dietologs vai uztura bagātinātāji varētu palīdzēt.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Meklējiet tūlītēju palīdzību, ja cilvēks žņaudzas vai pēkšņi kļūst apjucis, stipri reibst vai ģībst.
