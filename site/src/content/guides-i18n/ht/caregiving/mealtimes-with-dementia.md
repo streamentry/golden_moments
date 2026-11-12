@@ -76,7 +76,7 @@ Si moun nan souvan sote repa, sanble pa alèz, gen difikilte pou itilize bouch o
 
 Yon sèl asyèt ki pa fini pa esplike poukisa moun nan sispann. Gade yon modèl nan plizyè repa: yon manje patikilye, yon lè, nivo bri oswa pozisyon chèz la ka fè travay la pi difisil. Si yon manje moun nan pi renmen sibitman vin difisil, tcheke pou doulè oswa malèz nan dan epi mande yon pwofesyonèl sante, olye sipoze moun nan jis fè kapris.
 
-Pou kesyon medikal oswa yon rejim espesyal, mande pwofesyonèl sante moun nan. Pa kòmanse yon rejim restriktif oswa chanje medikaman pou modifye apeti san konsèy. [Gid rejim pou sante do a](/brain-health/diet/) diskite rechèch sou rejim ak risk demans; li separe ak gid pratik sou repa sa a.
+Pou kesyon medikal oswa yon rejim espesyal, mande pwofesyonèl sante moun nan. Pa kòmanse yon rejim restriktif oswa chanje medikaman pou modifye apeti san konsèy. [Gid rejim pou sante sèvo a](/brain-health/diet/) diskite rechèch sou rejim ak risk demans; li separe ak gid pratik sou repa sa a.
 
 ## Eske yon repa dwe toujou manje sou tab la?
 
