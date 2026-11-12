@@ -46,7 +46,7 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Daudzas ģimenes vēlas spēli, ko spēlēt kopā, kas šķistu sarunai, nevis testam. Divdesmit jautājumi un līdzīgas minēšanas spēles var labi noderēt, jo noteikumi ir vienkārši un saruna var ritēt jebkurp virzienā. Triks ir pārvērst parastās lomas: cilvēks iedomājas atbildi, bet jūs jautājat. Šajā lapā paskaidrots, kā šīs spēles vadīt maigi un kuras sarunu spēles der cilvēkiem ar demenci.
+Daudzas ģimenes vēlas spēli, ko spēlēt kopā, kas šķistu sarunai, nevis testam. Divdesmit jautājumi un līdzīgas minēšanas spēles var labi noderēt, jo noteikumi ir vienkārši un saruna var ritēt jebkurā virzienā. Triks ir pārvērst parastās lomas: cilvēks iedomājas atbildi, bet jūs jautājat. Šajā lapā paskaidrots, kā šīs spēles vadīt maigi un kuras sarunu spēles der cilvēkiem ar demenci.
 
 ## Kāpēc mainīt parastos noteikumus?
 
