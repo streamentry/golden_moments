@@ -41,6 +41,8 @@ HEADING = re.compile(r'^(#{2,6})\s', re.M)
 LINK = re.compile(r'\]\(([^)\s]+)[^)]*\)|href="([^"]+)"')
 NUMBER = re.compile(r'\d[\d,.   ]*\d|\d')
 
+EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999'}
+
 
 class UniqueKeyLoader(yaml.SafeLoader):
     """PyYAML keeps the last of two equal keys; the site's parser rejects them."""
@@ -84,6 +86,30 @@ def numbers(text: str) -> list[str]:
     return sorted(found)
 
 
+def visible_numbers(text: str) -> list[str]:
+    visible = re.sub(r'\]\([^)]*\)', ']', text)
+    visible = re.sub(r'https?://\S+', '', visible)
+    return numbers(visible)
+
+
+def unsafe_number_additions(source: str, translated: str) -> bool:
+    source_numbers, translated_numbers = numbers(source), numbers(translated)
+    remaining = source_numbers.copy()
+    added = []
+    for number in translated_numbers:
+        if number in remaining:
+            remaining.remove(number)
+        else:
+            added.append(number)
+    if not added:
+        return False
+    if any(number not in EMERGENCY_NUMBERS for number in added):
+        return True
+    source_emergency = [number for number in visible_numbers(source) if number in EMERGENCY_NUMBERS]
+    translated_emergency = [number for number in visible_numbers(translated) if number in EMERGENCY_NUMBERS]
+    return not source_emergency or len(translated_emergency) > len(source_emergency)
+
+
 def links(body: str) -> list[str]:
     return [a or b for a, b in LINK.findall(body)]
 
@@ -114,15 +140,8 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
         errors.append('link targets differ from English (same links, same order)')
 
     source_numbers, translated_numbers = numbers(src_body), numbers(body)
-    remaining_numbers = source_numbers.copy()
-    added_numbers = []
-    for number in translated_numbers:
-        if number in remaining_numbers:
-            remaining_numbers.remove(number)
-        else:
-            added_numbers.append(number)
-    if added_numbers:
-        errors.append(f'numbers added that are absent from English ({", ".join(added_numbers)})')
+    if unsafe_number_additions(src_body, body):
+        errors.append('numbers added without an explicit emergency number in English')
     elif source_numbers != translated_numbers:
         warnings.append('numbers in the body differ from English')
     shown = ' '.join(str(front.get(k, '')) for k in ('title', 'seoTitle', 'description', 'summary')) + body

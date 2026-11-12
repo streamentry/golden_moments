@@ -53,10 +53,12 @@ class AgyTranslateTests(unittest.TestCase):
     def test_number_validation_rejects_added_values_even_if_source_has_a_year(self) -> None:
         source = 'The guide was published in 2021; contact local urgent services.'
         translated = 'The guide was published in 2021; call local urgent services at 112.'
-        self.assertEqual(
-            agy_translate.added_number_values(source, translated),
-            ['112'],
-        )
+        self.assertTrue(agy_translate.unsafe_number_additions(source, translated))
+
+    def test_number_validation_allows_localizing_an_explicit_emergency_number(self) -> None:
+        source = 'Call 911 if there is immediate danger.'
+        translated = 'Call 112 if there is immediate danger.'
+        self.assertFalse(agy_translate.unsafe_number_additions(source, translated))
 
     def test_quota_retry_discards_partial_opencode_translation(self) -> None:
         process = FakeProcess(

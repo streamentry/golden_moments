@@ -474,6 +474,15 @@ def number_tokens(text: str) -> list[str]:
     return sorted(values)
 
 
+EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999'}
+
+
+def visible_number_tokens(text: str) -> list[str]:
+    visible = re.sub(r'\]\([^)]*\)', ']', text)
+    visible = re.sub(r'https?://\S+', '', visible)
+    return number_tokens(visible)
+
+
 def added_number_values(source: str, translated: str) -> list[str]:
     remaining = number_tokens(source)
     added = []
@@ -483,6 +492,17 @@ def added_number_values(source: str, translated: str) -> list[str]:
         else:
             added.append(value)
     return added
+
+
+def unsafe_number_additions(source: str, translated: str) -> bool:
+    added = added_number_values(source, translated)
+    if not added:
+        return False
+    if any(value not in EMERGENCY_NUMBERS for value in added):
+        return True
+    source_emergency = [value for value in visible_number_tokens(source) if value in EMERGENCY_NUMBERS]
+    translated_emergency = [value for value in visible_number_tokens(translated) if value in EMERGENCY_NUMBERS]
+    return not source_emergency or len(translated_emergency) > len(source_emergency)
 
 
 def guide_problems(src: str, out: str) -> str:
@@ -508,7 +528,7 @@ def guide_problems(src: str, out: str) -> str:
     h = re.compile(r'^(#{2,6})\s', re.M)
     if h.findall(ba) != h.findall(bb):
         errs.append('heading levels differ')
-    if added_number_values(ba, bb):
+    if unsafe_number_additions(ba, bb):
         errs.append('numbers added that are absent from the English source')
     return '; '.join(errs)
 
