@@ -16,7 +16,7 @@ keyPoints:
   - "Ga o tlhoke go rarabolola dipotso tsotlhe ka nako e le nngwe; simolola ka se se leng botlhokwa gompieno."
   - "Botsa gore ke mang yo o tla rulaganyang go latelela, o kwale dipotso tsa kopano e e latelang."
   - "Batla thuso ya motho yo o tlhatlhobilweng le ya malapa kgotsa ditsala tse di batlang go thusa."
-  - "Akaretsa motho mo ditshwetsong le mo rulaganyong ya isago fa a batla, o bo o batle keletso ya ngaka ya kwa gae mo ditshwanelong kgotsa mo ditshelelong."
+  - "Akaretsa motho mo ditshwetsong le mo rulaganyong ya isago fa a batla, mme o kope keletso ya semmuso ka dikgetho tsa tshwanelo kgotsa tsa madi."
 faq:
   - q: "Ke tshwanetse go dira eng pele morago ga tlhatlhobo ya dementia?"
     a: "Simolola ka sepe se se le sengwe se se thusang, jaaka go tlhakanya go latelela le ngaka e e go tlhatlhobileng kgotsa go batla tirelo ya thuso e o e tshepang. Motho a ka tlhoka nako go tlhaloganya tlhatlhobo, ka jalo ga go tlhokege gore o fedise lenane le le leleele ka letsatsi le le lengwe."
@@ -25,7 +25,7 @@ faq:
   - q: "A re tshwanetse go bolelela malapa le ditsala ka tlhatlhobo?"
     a: "Ke tshedimosetso ya motho ka noo go e abelana. Botsa gore o batla go bolelela mang, o batla gore ba itse eng le gore a o batla thuso ya go dira puisano eo."
   - q: "Re tshwanetse go buisana ka rulaganyo ya isago neng?"
-    a: "O ka simolola fa motho a ikutlwa a itlhomile. Fa a batla go dira kgetho ya isago kgotsa go e tlhomamisa, botsa badiri ba semmuso ba kwa lefatsheng la gagwe gore ke dikgetho dife le nako e e siameng. Dipuisano tse dinnye tse di kganyogang di ka tshwana le go nna tse di bonolo go feta puisano e kgolo e le nngwe."
+    a: "O ka simolola fa motho a ikutlwa a itlhomile. Fa a batla go dira kgetho ya isago kgotsa go e tlhomamisa, botsa badiri ba semmuso ba kwa lefatsheng la gagwe gore ke dikgetho dife le nako e e siameng. Dipuisano tse dinnye di ka nna bonolo go feta puisano e kgolo e le nngwe."
 sources:
   - title: "Life After Diagnosis"
     publisher: "Alzheimer's Association"
@@ -53,9 +53,9 @@ related: [caregiving/doctor-visit-with-dementia, caregiving/caregiver-self-care,
 health: true
 ---
 
-Tlhatlhobo ya dementia e ka tlisa dipotso ka tlhokomelo ya boitekanelo, botshelo jwa letsatsi le letsatsi, thuso le isago. Batho ba itshwara ka mekgwa e e farologaneng: bangwe ba batla nako ya go tlhaloganya tshedimosetso, mme ba bangwe ba batla go simolola go rulaganya. Ga go na tsela e e siameng ya go itshwara kgotsa nako e e tlhomilweng. Simolola ka se se bohlokwa ho motho gompieno, mme o boele go dipotso tse dingwe fa a ikutlwa a itlhomile.
+Tlhatlhobo ya dementia e ka tlisa dipotso ka tlhokomelo ya boitekanelo, botshelo jwa letsatsi le letsatsi, thuso le isago. Batho ba itshwara ka mekgwa e e farologaneng: bangwe ba batla nako ya go tlhaloganya tshedimosetso, mme ba bangwe ba batla go simolola go rulaganya. Ga go na tsela e e siameng ya go itshwara kgotsa nako e e tlhomilweng. Simolola ka se se bohlokwa mo motho gompieno, mme o boele go dipotso tse dingwe fa a ikutlwa a itlhomile.
 
-[Tatlhego ya Alzheimer's Association ka botshelo morago ga tlhatlhobo](https://www.alz.org/alzheimers-dementia/diagnosis/life-after-diagnosis) e supa batho go tlhokomelo e e latelelwang, thuso ya kwa gae le rulaganyo ya isago. [Tataiso ya Dementia Australia ka go tshwara tlhatlhobo](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/coping-your-diagnosis) e gatelela gore batho ba itshwara ka tsela e e farologaneng mme ba ka batla thuso fa ba e batla. Tsebe e ga se rulaganyo ya go ikarabela ya boitekanelo, ya molao kgotsa ya madi ya motho.
+[Tatlhego ya Alzheimer's Association ka botshelo morago ga tlhatlhobo](https://www.alz.org/alzheimers-dementia/diagnosis/life-after-diagnosis) e supa batho go tlhokomelo e e latelelwang, thuso ya kwa gae le rulaganyo ya isago. [Tataiso ya Dementia Australia ka go tshwara tlhatlhobo](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/coping-your-diagnosis) e gatelela gore batho ba itshwara ka tsela e e farologaneng mme ba ka batla thuso fa ba e batla. Tshedimosetso eno ga se rulaganyo ya boitekanelo, ya molao kgotsa ya madi ya motho.
 
 ## Ke sepe se se tla nna sekgato se se thusang sa pele?
 
@@ -75,9 +75,9 @@ Thuso e ya motho yo o nang le tlhatlhobo le ya malapa le ditsala. Motlhokomedi a
 
 ## Motho a ka nna karolo ya ditshwetso jang?
 
-Tlhatlhobo e le nngwe ga e bontshe gore motho a ka tlhopha eng kgotsa o batla go akaretsega jang. Botsa motho ka tlhamalalo. Mo nee nako, tlhalosa kgetho ka mafoko a a bonolo mme o botse gore ke thuso efe e e dirang gore puisano e nne bonolo. Dikgetho tse dingwe di ka nna bonolo go di buisanya mo lefelong le le khutsitseng kgotsa ka dipuisano tse feta e le nngwe.
+Tlhatlhobo e le nngwe ga e bontshe gore motho a ka tlhopha eng kgotsa o batla go akaretsega jang. Botsa motho ka tlhamalalo. Fa o neela nako, tlhalosa kgetho ka mafoko a a bonolo mme o botse gore ke thuso efe e e dirang gore puisano e nne bonolo. Dikgetho tse dingwe di ka nna bonolo go di buisanya mo lefelong le le khutsitseng kgotsa ka dipuisano tse feta e le nngwe.
 
-Fa motho a batla go rulaganyela tlhokomelo ya boitekanelo ya isago, madi kgotsa tshwaro ya botshelo, simolola ka se se mo botlhokwa le gore ke mang yo o mo tshepang. [Tataiso ya rulaganyo ya Dementia Australia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) e kgothaletsa go bua ka dikgopolo tsa gagwe le batho ba ba tshepegang le badiri ba ba tshwanetseng. Melao ya ditokomane le melawana ya go dira ditshwetso e farologana go ya ka lefelo, ka jalo botsa mogakolodi wa semmuso wa kwa lefatsheng la gago pele o ikaega mo tataisong e e akaretsang. Ka dikgang tsa go duelela madi le dikgaeletso tsa bosula, bona [tataiso ya rona ya go laola madi ka dementia](/caregiving/managing-money-with-dementia/).
+Fa motho a batla go rulaganyela tlhokomelo ya boitekanelo ya isago, madi kgotsa tshwaro ya botshelo, simolola ka se se mo botlhokwa le gore ke mang yo o mo tshepang. [Tataiso ya rulaganyo ya Dementia Australia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) e kgothaletsa go bua ka dikgopolo tsa gagwe le batho ba ba tshepegang le badiri ba ba tshwanetseng. Melao ya ditokomane le melawana ya go dira ditshwetso e farologana go ya ka lefelo, ka jalo botsa mogakolodi wa semmuso wa kwa lefatsheng la gago pele o ikaega mo tataisong e e akaretsang. Ka thuso ya go laola madi le go lemoga dikgaeletso tsa bosula, bona [tataiso ya rona ya go laola madi ka dementia](/caregiving/managing-money-with-dementia/).
 
 ### Re ka botsa eng mo puisanong ya pele ka tlhokomelo ya isago?
 
@@ -91,7 +91,7 @@ Fa motho a batla dikgakololo, leka e nngwe ya tse:
 - "A go na sepe se o batlang gore setlhopha sa gago sa tlhokomelo se se itse ka dilo tse di botlhokwa go wena?"
 - "A o batla gore ke kwale se o se buileng le gore ke mang yo o tshwanetseng go se bona?"
 
-Reetsa o se kope tshwetso ka bonako. [Tlhomo ya Bothokwa ya National Institute on Aging e tlhalosa dipuisano tse di tlhamaletseng ka dikgopolo le dikgetho e le tsa botlhokwa mo rulaganyong ya tlhokomelo ya pele](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). Fa motho a dumela, kwala mafoko a gagwe, letsatsi le batho ba ba neng teng. Botsa tumelo pele o abelana ka kwalo. Dikwalo tseno di ka thusa dipuisano tse di tlang, mme ga se ditokomane tsa molao kgotsa ditaelo tsa tshwelo.
+Reetsa o se kope tshwetso ka bonako. [National Institute on Aging e tlhalosa dipuisano tse di tlhamaletseng ka dikgopolo le dikgetho e le tsa botlhokwa mo rulaganyong ya tlhokomelo ya pele](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). Fa motho a dumela, kwala mafoko a gagwe, letsatsi le batho ba ba neng teng. Botsa tumelo pele o abelana ka kwalo. Dikwalo tseno di ka thusa dipuisano tse di tlang, mme ga se ditokomane tsa molao kgotsa ditaelo tsa tshwelo.
 
 Se dire ditshwetso ka tlhatlhobo fela kgotsa ka puisano e le nngwe. Dikgopolo tsa motho di ka fetoga, mme a ka kopa go emisa kgotsa go boela kwa ntlheng e e tlhomolweng ka morago. Mo bolokele karolo mo ditshwetsong tse di mo amang go le go le ntsi fa a batla.
 
@@ -113,4 +113,4 @@ Botsa ngaka ya motho dipotso tse di tlhomologileng ka tlhatlhobo ya gagwe, boite
 
 Tlhokomelo e e gaisang ya kgakgamatso kgotsa phetogo e e tlhaela ka tshwanelo e tlhoka thuso ya semmuso ka bonako. [Tataiso ya NHS ka kgakgamatso e e tlhaelang](https://www.nhs.uk/symptoms/confusion/) e bolela gore o bone thuso ya tshwanelo ka bonako. Dirisa tshireletso ya tshwanelo kgotsa ya tlhokomelo e e tlhokegang ya kwa lefatsheng le motho a nnang gone; o se ka wa akanya gore phetogo e e tlhaelang ke karolo ya bolwetse jwa gagwe jwa letsatsi le letsatsi.
 
-Fa rulaganyo e tlhoka maatla, tlhopha motho kgotsa tirelo e le nngwe e e tshepegang e e thusang go aroganya dipotso go ya ka dilo tsa ga jaanong le tse di tla morago. Motho o ka tlhopha lebelo la gagwe le se a batlang thuso ka sone. Tlhatlhobo ke tshedimosetso e e botlhokwa, mme ga e tlhaloge dikgatlhego tsa motho, dikamano tsa gagwe kgotsa botshelo jwa gagwe jwa letsatsi le letsatsi.
+Fa rulaganyo e tlhoka maatla, tlhopha motho kgotsa tirelo e le nngwe e e tshepegang e e thusang go aroganya dipotso go ya ka dilo tsa ga jaanong le tse di tla morago. Motho o ka tlhopha lebelo la gagwe le se a batlang thuso ka sone. Tlhatlhobo ke tshedimosetso e e botlhokwa, mme ga e tlhalose dikgatlhego tsa motho, dikamano tsa gagwe kgotsa botshelo jwa gagwe jwa letsatsi le letsatsi.
