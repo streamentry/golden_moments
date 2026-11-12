@@ -69,7 +69,7 @@ Ny lalao tsirairay eto ambany dia misokatra avy amin'ny tranonkala tsy mila down
 - **[Famahana sary](/games/picture-puzzle/).** Sary iray voasasa ho ampahany, ary ny sary manontolo mijanona hita ho torolalana.
 - **[Famaranana ohabolana](/games/finish-the-saying/).** Ohabolana mahazatra misy ny teny farany tsy hita; ikitiky ny safidy na asehoy ny faran'ny teny.
 - **[Karatra resaka](/games/conversation-cards/).** Karatra sary misy fanentanana malalaka ho an'ny resaka, tsy fanontaniana. Azo atao print koa.
-- **[Fitambarana sary tsy...](/games/photo-pairs/).** Fitambarana sary avy amin'ny sary safidinao amin'ny fitaovanao. Mitahiry ny sary ao amin'ny browser amin'io fitaovana io ny sary.
+- **[Fitambarana sary avy amin'ny sarinao](/games/photo-pairs/).** Fitambarana sary avy amin'ny sary safidinao amin'ny fitaovanao. Mitahiry ny sary ao amin'ny browser amin'io fitaovana io ny sary.
 - **[Fofonaina malemy](/games/calm-breathing/).** Fitsaharana miadana sy mangina hofonaina miaraka. Ianao no manomboka azy, ary ianao koa no manapaka.
 
 Ny lalao fanoratana teny, ny fandokoana loko ary ny bingo sary dia misy koa ho hetsika azo atao print. Jereo [ny hetsika maimaim-poana azo atao print ho an'ny demensia](/activities/printable/) ho fanampiny.
@@ -100,4 +100,4 @@ Ampiasao ireo lalao ireo ho ampahany iray amin'ny andro izay misy koa mozika, fi
 
 ## Rehefa tokony ajanona
 
-Ajanono rehefa toa reraka, mikoriana, tezitra na tsy mahazo aina ny olona. Ajanono rehefa very ny liany. Ny fijanonana aloha dia vokatra tsara. Azonao averina any aoriana, na mivadika amin'ny resaka na fitsangatsangana fa tsy lalao.
+Ajanono rehefa toa reraka, mikoriana, tezitra na manahy ny olona. Ajanono rehefa very ny liany. Ny fijanonana aloha dia vokatra tsara. Azonao averina any aoriana, na mivadika amin'ny resaka na fitsangatsangana fa tsy lalao.
