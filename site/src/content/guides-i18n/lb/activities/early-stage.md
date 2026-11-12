@@ -25,7 +25,7 @@ faq:
     a: "Frot, wat fir Hëllef d'Persoun wëll, a kontrolléiert dacks no. Ëmmer eng Phrase oder en Nicken ofmaachen, déi heescht, dass Dir Iech aschalte däerft, zum Beispill wann e Wuert oder e Numm net kënnt. Wann kee Sécherheetsrisiko do ass, loosst si et op hir Aart maachen, och wann et méi laang dauert."
   - q: "Soll eng Persoun mat fréier Demenz nei Aktivitéiten probéieren?"
     a: "Jo, wann si dat wëllt. Vertraut Hobbyen sinn meeschtens am einfachsten, mee vill Leit fanne Freed u eppes Neiem, wéi enger demenzfrëndlecher Wanderguppe, engem Konschtkurs oder enger Sengguppe. Probéiert et eemol ouni Drock a kuckt, wéi et sech ufillt."
-  - q: "Sinn Gehirtraining-Apps an der fréier Phase wäert?"
+  - q: "Sinn Gehirntraining-Apps an der fréier Phase wäert?"
     a: "E puer Leit hunn Freed un Puzzelen an Wuertspiller, a dat Vergnüge ass Grond genuch. Kee App an kee Spill huet bewisen, Demenz ze behandelen, ze verlangsamen oder opzehalen. Wann e Spill Stress mécht oder d'Persoun sech wéi en Versoot fillt, leet et bäiseite."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
@@ -82,7 +82,7 @@ D'[Richtlinne vun der Alzheimer's Association fir fréi Phasen](https://www.alz.
 - **Puzzelen maachen.** Wielt eng Unzuel Stécker, déi entspaant sinn, net erausfuerdernd. [Billerpuzzel](/games/picture-puzzle/) ass eng kuerz Versioun op dem Bildschierm, an eisen Guide zu [Puzzelen fir Demenz](/activities/puzzles/) hëlleft bei der Auswiel.
 - **Trivia fir de Spaass.** E puer Leit hunn Freed u Team-Trivia-Owender. Wann et sech wéi e Test ufillt, wielt eppes anescht oder probéiert eis [einfach Trivia-Froen](/activities/trivia/) mat Äntwerte ginn, ouni Punkten.
 
-Spiller sinn hei fir de Plaisir. Kee Spill huet bewisen, Demenz ze behandelen oder ze verlangsamen; liest méi an [Gehirtraining: wat d'Fuerschung seet](/brain-health/brain-games/).
+Spiller sinn hei fir de Plaisir. Kee Spill huet bewisen, Demenz ze behandelen oder ze verlangsamen; liest méi an [Gehirntraining: wat d'Fuerschung seet](/brain-health/brain-games/).
 
 ### Schreiwen, nodenken a festhalen
 

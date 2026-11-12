@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Aktivitéiten fir Männer mat Demenz"
+seoTitle: "Aktivitéiten fir Männer mat Demenz: Iddien aus dem Liewen"
+description: "Aktivitéitsiddien fir Männer mat Demenz, baséiert op Aarbecht, Hobbyen a Gewunnechten statt op Klischeeën, mat Tipps fir all Iddi sécher unzepassen."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Déi bescht Aktivitéiten fir e Mann mat Demenz kommen aus sengem eegenen Liewen:
+  der Aarbecht, déi hie gemaach huet, de Hobbyen, déi hie gär hat, an de
+  Gewunnechten, déi hie hat. E fréiere Büroarbechter kann vläicht Pabeier
+  sortéieren, e Mechaniker sauber Werkzeug an d'Hand huelen, an e Sportfan e
+  ale Spiller genéissen. D'Interesse sinn bei all Mann anescht, dofir fänkt
+  mat der Persoun un, net mam Geschlecht.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Fänkt mat dësem Mann senger eegener Geschicht un: senger Aarbecht, senge Hobbyen, senge Gewunnechten a deem, wouriwwer hie stolz war."
+  - "Aufgaben mat engem richtegen Zweck, wéi Schrauwen sortéieren, d'Auto wäschen oder Holz schleifen, gefalen dacks méi wéi Aktivitéiten, déi sech wéi e Cours uleeën."
+  - "Net jiddere Mann mécht gär mat Werkzeug oder Sport. Vill genéissen Kachen, Musek, Gäertnen, Konscht oder d'Suerg fir anerer. Frot, beobachtet an follegt sengem Impuls."
+  - "Mécht Aarbechten, déi wéi Aarbecht sinn, sécher, andeems Dir schaarf Werkzeug ewechhuelt, a passt se un, wann d'Fäegkeete sech änneren."
+  - "Nee soen ass erlaabt. Bidd eng Roll un, net eng Opgab, an probéiert et en anere Dag nees."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Wat maachen Männer mat Demenz gär?"
+    a: "Et gëtt keng eenzeg Lëscht, well d'Interesse vu Männer genee sou verschidde sinn wéi bei all anere. Gutt Ausgangspunkte sinn Aufgaben, déi mat senger fréierer Aarbecht zesummenhänken, wéi Pabeier organiséieren oder Schrauwen a Mutteren sortéieren, a Hobbyen, déi hie gär hat, wéi Angelen, Autoen, Musek, Kachen oder Sport. Kuckt, wat hie vun sech aus mécht, a bau doropper op."
+  - q: "Mäi Papp refuséiert Gruppenaktivitéiten. Wat kann ech maachen?"
+    a: "Vill Leit, Männer wéi Fraen, lehnen Aktivitéiten of, déi sech wéi e Cours ufillen oder kindesch schéngen. Probéiert e Job anzebidden: „Kéint Dir mir hëllefen, dës ze sortéieren?“ Kleng Gruppen oder Zäit just zu zweet kann och méi komfortabel sinn wéi e grousse Raum."
+  - q: "Ass et sécher, him Werkzeug ze loossen?"
+    a: "Nëmmen ënner Opsiicht a mat sécherem Werkzeug. Maacht Elektrowerkzeug, Klingen an alles Schaarfe weg a bidd Aufgaben un, wéi e Stéck Holz schleifen, sauber Schrauwen sortéieren oder grouss Schrauwen mat der Hand fest uzéien. D'Alzheimer's Association rät, gefährlech Saachen aus enger Werkstatt ewechzehuelen, sou datt eng Aufgab wéi Schleifen nach ëmmer sécher genoss ka ginn."
+  - q: "Hie war e Profi. Wäerten einfach Aufgaben him beleidegen?"
+    a: "Si kënnen, wann se als Beschäftegung presentéiert ginn. Stellt d'Aufgab als richtegen Hëllef duer, benotzt Material fir Erwuessener a wielt eppes no bei senger fréierer Roll, wéi e Lëscht iwwerpréiwen, e Dossier ordnen oder beim Zesummestellen vun enger Postaktioun hëllefen. Wann hie bei enger Sak ganz gutt war, kann eng verwandt, awer aner Aktivitéit manner no engem Vergläich schmaachen."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Vill Leit sichen no „Aktivitéiten fir Männer mat Demenz“, well déi üblech Virschléi net zu dem Mann an hirem Liewen passen. Dat ass eng berechtegt Suerg. Mee d'Äntwert ass keng Lëscht vu „männleche“ Aktivitéiten. Et ass, mat dësem bestimmten Mann unzefänken: wat hie beruff gemaach huet, wat hie um Weekend gemaach huet an wat him d'Gefill ginn huet, gebraucht ze ginn. D'Interessen si bei jidderengem verschidden. Vill Männer kochen, gäerte, moolen oder singen gär, an ganz vill Fraen hunn eng Léift fir Autoen a Baseball.
 
-## How do I find activities he will actually enjoy?
+## Wéi fannen ech Aktivitéiten, déi hie wierklech genéisst?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Fänkt mat sengem Liewen un. D'Alzheimer's Association rät, en [Dagesplang](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ëm d'Virléiften, d'Ofneigungen, d'Stäerkten an d'Interessen vun der Persoun ze bauen, a ëm d'Manéier, wéi hien seng Deeg fréier strukturéiert huet. Frot Iech selwer:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Wat war seng Aarbecht?** Büro, Bauerenhaff, Fabrik, e Handwierk, Militär, Verkaf, Schoul, Chauffeur, den Haushalt?
+- **Wat huet hie a senger Fräizäit gemaach?** Angelen, Kaarten, Holzaarbecht, Sport, Kierch, Musek, Kachen, e Auto an der Garage?
+- **Wat waren seng Gewunnechten?** Kaffi an d'Zeitung all Moien? D'Wieder kucken? Samschdes d'Auto wäschen?
+- **Wat fänkt hie nach selwer un?** D'Association notéiert, datt Aufgaben, déi eng Persoun ouni Fro ufänkt, wéi Buedem kéieren, zu enger Routine ginn kënnen.
+- **Wat vermeit hie?** E puer Leit kucken gär Sport; anerer fannen d'Tempo an de Lärm bedréckend. Passt op, wann hie glécklech, ängschtlech oder gereizt ausgesäit.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Schwätzt och mat Famill an alen Frënn. Si erënneren sech vläicht u Interessen, déi am Alldag verschwonne sinn.
 
-## Activity ideas based on past work
+## Aktivitéitsiddien aus senger fréierer Aarbecht
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+D'Alzheimer's Association gëtt en klore Beispill: en fréiere Büroarbechter kann Aufgaben genéissen, wéi Münzen an e Halter sortéieren, bei engem Mailing hëllefen oder eng To-do-Lëscht schreiwen, während e fréiere Bauer oder Gäertner gär am Gaart schafft. Dat selwecht Prinzip gëllt fir vill Berufer.
 
-| Past work | Activity ideas | Simpler version |
+| Fréiere Aarbecht | Aktivitéitsiddien | Méi einfach Versioun |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Büro oder Geschäft | Pabeier a Mappen sortéieren, Enveloppe stempelen, eng Lëscht iwwerpréiwen, eng Schreifdischschublued opraumen | Enveloppe stapelen; Büroklammeren an eng Dous leeën |
+| Handwierk oder Mechanik | Propper Schrauwen, Mutteren a Ënnerleeger sortéieren; grouss Schrauwen mat der Hand uzéien; Werkzeugkataloge kucken | No Gréisst an zwou Tassen sortéieren |
+| Landwirtschaft oder Gäertnerei | Gidderen, Planzen a Pottë setzen, Blieder rechen, am Gaart no dem Rechten kucken | Dobaussen sëtzen, wann Dir schafft; Somepaketen halen |
+| Militär | Schong polieren, eng Schublad a Rei bréngen, Fotoe aus senger Dengschtzäit kucken, wann hien dat gär huet | Musek aus där Zäit lauschteren |
+| Verkaf oder Kundendéngscht | Besuch begréissen, Snacks verdeelen, Coupone sortéieren | Bei der Dier sëtzen an „Gudde Mëtteg“ soen |
+| Schoulmeeschter | Virliesen, Bicher ordnen, Biller no Theemen sortéieren | Zesumme e Bëlderbuch ukucken |
+| Chauffeur oder Transport | Kaarten oder al Autosmagazinen ukucken, d'Auto wäschen | Vun der Veranda aus Autoen laanscht fueren gesinn |
+| Haus a Famill | Wäsch falen, den Dësch decken, beim Owesiessen hëllefen | Servietten gläichmaachen; réieren |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Eng Erënnerung, wéi de Militärdéngscht, kann staark Gefiller hervirrufen. Follegt senger Féierung, halt d'Gespréich iwwer d'Vergaangenheet positiv a wiesselt sanft d'Thema, wann hie opgereegt schéngt.
 
-## Activity ideas based on hobbies
+## Aktivitéitsiddien aus Hobbyen
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Holzaarbecht.** E glat Holzstéck schleifen oder en Vullenhaus-Bausatz molen. D'Alzheimer's Association rät, gefährlech Material a Werkzeuge aus der Werkstatt ewechzehuelen, sou datt eng Aktivitéit wéi Schleifen sécher a schéin ka sinn.
+2. **Angelen.** E Fëschkëscht sortéieren (ouni Haken), Angelmagazinne kucken oder zesumme beim Weier sëtzen.
+3. **Autoen.** D'Auto wäschen, Chrom polieren, Fotoe vun Oldtimer kucken oder als Passagéier mat eraus fueren.
+4. **Sport.** En alt Spill oder Highlights kucken, mat engem weiche Ball werfen, Golfbäll op e Teppech leeën oder Baseball-Kaarten sortéieren.
+5. **Kaarten a Spiller.** Eng einfach Partie vun engem vertraute Kaartespill, Dominoen, oder Kaarten ëmdréien fir e Puer ze fannen. Hale et entspaant a verzicht op d'Punkten.
+6. **Musek.** Lidder aus senger Jugend oder vu sengen Zwanzegern, eng Liiblingsband oder e Choral. Kuckt eisen Guide [Musek-Aktivitéiten](/activities/music/).
+7. **Kachen a Grillen.** Geméis wäschen, Zopp réieren, Hamburger formen oder beschreiwen, wéi hie säi berühmten Chili gemaach huet, wärend Dir en zoubereet.
+8. **D'Zeitung.** D'Alzheimer's Association mierkt un, dass eng Persoun, déi ëmmer d'Zeitung geliess huet, dat och weider gär mécht, och wann se net alles ka verfolgen. Kaffi an d'Zeitung kënnen Deel vum Moien bleiwen.
+9. **Bauen.** Modellbausätz mat grousse Stécker oder einfach Bausätz fir Erwuessener. Wielt Stécker, déi leicht ze gräifen sinn.
+10. **Fir eppes suergen.** E Déier fidderen, de Vullefudder fëllen oder Planzen gitzen. D'NIA nennt [e Déier fidderen, pflegen oder ausféieren](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ënnert den Aktivitéiten, déi Leit gär maachen.
 
-## How do I offer an activity without it feeling like busywork?
+## Wéi bidden ech eng Aktivitéit un, ouni datt se wéi Beschäftegung wierkt?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Presentéiert se als richteg Hëllef. D'Alzheimer's Association rät, ze froen: „Kënnt Dir mir hëllefen?“, an d'Aufgab mat engem Zweck ze verbannen. Vergläicht:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Wëllt Dir dës Schrauwen sortéieren?“ (kléngt wéi en Test)
+- „Ech hunn eng gemëschte Packung Befestigungsmaterial kritt an muess déi sortéieren, ier ech d'Regal repareieren. Kënnt Dir mir eng Hand ginn?“ (kléngt wéi eng Aufgab)
 
-Other tips:
+Weider Tipps:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Benotzt Material fir Erwuessener.** Richtegt Werkzeug, mat ofgeschliffene Kanten, richteg Kataloger, richteg Enveloppen.
+- **Schafft Säit u Säit.** Zwee Leit, déi un enger Aufgab schaffen, sinn Gesellschaft. Eng Persoun, déi der anerer zukuckt, ass Opsiicht.
+- **Korrigéiert net.** Wann d'Schrauwen am falsche Becher landen, loosst et sinn. Wichteg ass d'Zäit zesumme a dat Gefill, gebraucht ze ginn.
+- **Hëlleft beim Ufank.** D'Alzheimer's Association mierkt un, dass vill Leit nach de Wonsch hunn, Saachen ze maachen, mä Schwieregkeete hunn, se ze organiséieren an unzefänken. Maacht déi éischt Aufgab zesummen.
 
-## How do I adapt as things change?
+## Wéi passt Dir d'Aktivitéit un, wann sech Saache änneren?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Wann d'Demenz fortschreit, rät d'Alzheimer's Association, méi einfach, méi widderhuelend Aufgaben anzebidden an ze akzeptéieren, datt d'Persoun eng manner aktiv Roll hëlt. E Mann, deen eemol Motoren reparéiert huet, kann elo gär en propperen Schlëssel a Hand halen an iwwer Autoen schwätzen oder Iech bei der Aarbecht zoukucken. Zoukucken ass och Deelhuele.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Wann hie bei enger Aarbecht ganz gutt war, kann eng verwandte Aktivitéit besser sinn wéi déi ale Handwierk. D'Association mierkt un, dass e professionelle Konschtler sech iwwer Ännerungen a senger Aarbecht ärgere kann, während e Amateur vläicht e neie Wee fënnt, sech auszedrécken. Dat gëllt och fir e Meeschterschrénger.
 
-## Safety with work-style tasks
+## Sécherheet bei Aufgaben a Werkstatt-Aart
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Elektrowerkzeug, Klingen, Nagel a Schrauwen mat schaarfen Spëtzen ewechhuelen.
+- Verdennung, Benzin a Chemikalien ofschléissen.
+- Autoschlësselen aus dem Siicht halen, wann hie net méi fiert.
+- All Aufgab an der Werkstatt an um Hof iwwerwaachen.
+- Grouss Stécker wielen, déi net verschluckt kënne ginn.
 
-## What if he says no?
+## Wat maachen ech, wann hien nee seet?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respektéiert et. E Nee kann heeschen, dass d'Aufgab ze schwéier, ze kanner oder just haut net richteg ass. D'Alzheimer's Association waarnt, et net mat Gewalt ze probéieren. Probéiert eng anerer Aufgab, eng aner Zäit oder setzt Iech einfach zesummen. Kuckt [wat ze maachen ass, wann se nee soen](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Spiller a Gespréich, déi passen
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Maacht de Sproch fäerdeg](/games/finish-the-saying/) benotzt vertraut amerikanesch Sprochwierder a féiert an de Gespréich. [Gespréichskaarten](/games/conversation-cards/) hunn oppen Ufangsfroen ouni Quiz, no Thema, déi Geschichte iwwer Aarbecht a Hobbyen opmaachen kënnen. [Billerpuzzel](/games/picture-puzzle/) hält dat ganzt Bild siichtbar, während Dir Stécker tauscht, an dat grouss gedréckte [Wierdersich](/games/word-search/) kann ausgedréckt ginn a mat engem Stëft um Kichendësch gemaach ginn. Fir Weeër, iwwer seng Vergaangenheet ze schwätzen, ouni hien ze testen, kuckt eisen [Erënnerungsguide](/activities/reminiscence/).
