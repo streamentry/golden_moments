@@ -67,7 +67,7 @@ Začnite z jedmi, ki jih oseba prepozna in ima rada. Ponudite en tek naenkrat al
 
 ## Kako lahko podprem osebino samostojnost?
 
-Naj oseba je na način, ki ji je udoben in varen. Morda ji bo ustrezala skleda, žlica, prigrizki, ki jih lahko poje s prsti, ali manjša porcija. Ne hitite s popravljanjem razlitja ali s prevzemanjem opravila, ki ga oseba še zmore. Pomagajte, kadar si to želi ali kadar je to potrebno, in pustite dovolj časa za obrok.
+Osebi pustite jesti na način, ki ji je udoben in varen. Morda ji bo ustrezala skleda, žlica, prigrizki, ki jih lahko poje s prsti, ali manjša porcija. Ne hitite s popravljanjem razlitja ali s prevzemanjem opravila, ki ga oseba še zmore. Pomagajte, kadar si to želi ali kadar je to potrebno, in pustite dovolj časa za obrok.
 
 Skupno jedenje lahko naredi obrok bolj družaben, če oseba rada je v družbi. Sedite v bližini, pogovor naj bo lahek in osebi pustite, da se osredotoči na jedenje, kadar je to potrebno. Izogibajte se vprašanjem, ki preverjajo spomin, in pripombam o tem, koliko je pojedla. Če se oseba ustavi, počakajte in jo vprašajte, ali je pripravljena na več.
 
