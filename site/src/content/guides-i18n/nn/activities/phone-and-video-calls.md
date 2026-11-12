@@ -82,7 +82,7 @@ Alzheimer's Association foreslår å planlegge ein videosamtale for å lage elle
 
 ### Sjå på noko saman
 
-Association foreslår òg å sjå på ein favorittfilm samtidig frå kvar sine heimar medan de snakkar i telefon eller video. For ein person med demens kan eit kort klipp, ein gammal TV-episode eller ein fotballkamp fungere betre enn ein heil film.
+Alzheimer's Association foreslår òg å sjå på ein favorittfilm samtidig frå kvar sine heimar medan de snakkar i telefon eller video. For ein person med demens kan eit kort klipp, ein gammal TV-episode eller ein fotballkamp fungere betre enn ein heil film.
 
 ### Spel eit mildt spel på ein delt skjerm
 
