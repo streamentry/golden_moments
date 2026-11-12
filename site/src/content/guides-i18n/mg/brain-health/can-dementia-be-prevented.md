@@ -171,7 +171,7 @@ Ireto no faritra matetika fianarana indrindra. Mendrika ny hampahafantarina amin
 6. **Toe-tsaina.** Ny fahaketrahana dia mahazatra ary azo sitrana. Lazao amin’ny dokotera raha efa nahatsapa ho ambany toetra na very fahafinaretana tamin’ny zavatra ianao mihoatra ny roa herinandro.
 7. **Sigara sy alikaola.** Anontanio ny fanampiana amin’ny fanapahana sigara ary ny fetra azo antoka amin’ny alikaola.
 8. **Fihetsika.** Anontanio izay karazana hetsika azo antoka ho anao. Ny [torolalana momba ny fanatanjahan-tena](/brain-health/exercise/) dia manana hevitra.
-9. **Fiarovana ny lohanao.** Miforona amin’ny fitondrana bisikileta sy lalao mifandray amin’ny vatana, ary anontanio momba ny fisorohana ny fianjerana.
+9. **Fiarovana ny lohanao.** Mitafy satro-doha rehefa mitondra bisikileta sy milalao lalao mifandray amin’ny vatana, ary anontanio momba ny fisorohana ny fianjerana.
 10. **Mijanona mifandray.** Ny fotoana miaraka amin’ny olona hafa dia ampahany amin’ny fiainana salama. Jereo ny [torolalana momba ny fifandraisana ara-tsosialy](/brain-health/social-connection/), ary ny [torimaso](/brain-health/sleep/) koa.
 
 Alohan’ny hanova fanafody, sakafo, fanampiny, tsy fisakafoanana na fanatanjahan-tena, miresaha amin’ny dokotera aloha, indrindra raha manana aretin’ny fo, diabeta, tantara fianjerana, na efa miaina amin’ny dementia.
