@@ -162,7 +162,7 @@ Det finnes ikke et riktig antall minutter. Sikt på korte, felles økter som én
 
 ## Hvordan beskytter jeg personvernet på enheten?
 
-Begrens hva appene kan samle inn, og ikke anta at helselovgivningen dekker det. Det amerikanske helse- og menneskeserviceдepartementet (HHS) [forklarer](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) at HIPAA-reglene som hovedregel ikke beskytter helseopplysninger som lagres på eller brukes gjennom private telefoner og nettbrett. I de fleste tilfeller beskytter HIPAA heller ikke data som legges inn i apper for personlig bruk, med mindre appen kommer fra en autorisert helsetjeneste, helseforsikring eller en av deres forretningspartnere.
+Begrens hva appene kan samle inn, og ikke anta at helselovgivningen dekker det. Det amerikanske helse- og tjenestedepartementet (HHS) [forklarer](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) at HIPAA-reglene som hovedregel ikke beskytter helseopplysninger som lagres på eller brukes gjennom private telefoner og nettbrett. I de fleste tilfeller beskytter HIPAA heller ikke data som legges inn i apper for personlig bruk, med mindre appen kommer fra en autorisert helsetjeneste, helseforsikring eller en av deres forretningspartnere.
 
 HHS anbefaler:
 

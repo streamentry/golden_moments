@@ -82,7 +82,7 @@ Mens personen fortsatt kan lese, hjelper et skriftlig svar de kan se, ofte mer e
 
 | Hjelpemiddel | Slik bruker du det |
 | --- | --- |
-| En lapp med store bokstaver | «Lege i dag kl. 14. Mary kjører.» Sett den der personen ser mest |
+| En lapp med store bokstaver | «Lege i dag klokken 2 om ettermiddagen. Mary kjører.» Sett den der personen ser mest |
 | En tavle | Dagens plan på tre eller fire linjer; tørk av og skriv på nytt hver morgen |
 | En stor klokke med dag og dato | Hjelper med «Hvilken dag er det?» og «Er det snart tid?» |
 | En kalender | Kryss av hver dag; sirkle rundt neste besøk |

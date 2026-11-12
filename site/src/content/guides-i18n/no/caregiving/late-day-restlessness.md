@@ -98,7 +98,7 @@ Reduser støy, øk lyset og ha kjente ting i nærheten.
 
 ## Hvilke rolige aktiviteter kan vi gjøre på ettermiddagen?
 
-Velg aktiviteter som er kjente, uten hastverk og lette å avslutte. Alzheimer's Association foreslår beroligende aktiviteter som rolig musikk, bilder eller en favorittfilm, og en gåtur sammen for å dempe rastløsheten. NIA foreslår en matbit eller noe å drikke, et favorittprogram på TV, musikk, en gåtur, lesing eller en enkel husgjøremål som å brette klær.
+Velg aktiviteter som er kjente, uten hastverk og lette å avslutte. Alzheimer's Association foreslår beroligende aktiviteter som rolig musikk, bilder eller en favorittfilm, og en gåtur sammen for å dempe rastløsheten. NIA foreslår en matbit eller noe å drikke, et favorittprogram på TV, musikk, en gåtur, lesing eller et enkelt husarbeid som å brette klær.
 
 Ideer du kan prøve:
 
