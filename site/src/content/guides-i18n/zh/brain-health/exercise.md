@@ -1,32 +1,28 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "运动与大脑健康：研究发现了什么，以及如何安全活动"
+seoTitle: "运动与失智症：研究说了什么"
+description: "研究发现身体活动与失智症风险之间存在哪些关联，以及老年人和失智症患者可以采用哪些安全、愉快的活动方式。"
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  多项研究显示，经常进行身体活动与较低的失智症风险相关。2024 年柳叶刀委员会把缺乏身体活动列为 14 项可改变的风险因素之一。试验尚未证明运动能预防失智症。但活动仍有助于力量、平衡、情绪和睡眠，因此步行、坐着做的运动和跳舞本身就值得去做。开始任何新的活动之前，请先咨询医生。
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "身体活跃的人平均而言失智症风险较低，但这主要来自观察性研究，而不是试验。"
+  - "一项为期五年的老年人运动试验发现，各组之间在思维能力上没有明显差异。"
+  - "美国疾病控制与预防中心（CDC）对 65 岁及以上成年人的建议，涵盖有氧、增强肌力和平衡类活动，并指出有一些活动总比完全不动好。"
+  - "对于与失智症共同生活的人，每天散步、坐着玩的游戏等简短、熟悉、可以共同完成的活动，比任何目标都更重要。"
+  - "每年有超过四分之一的老年人会跌倒，因此平衡练习和安全的活动空间应放在首位。"
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "运动能预防失智症吗？"
+    a: "没有人能作出这样的保证。许多研究显示，经常活动与较低的失智症风险相关，但临床试验并没有证明运动能预防失智症。运动还有许多其他已被证实的益处，因此仍然值得去做。"
+  - q: "失智症患者运动安全吗？"
+    a: "通常可以，但需要一些计划。美国国家老龄研究所建议，在开始新的运动安排前先咨询对方的医生，选择舒适的鞋子，提供水，并保持时间简短。如果对方看起来疲倦、站立不稳或不开心，就应停下来。"
+  - q: "有哪些可以坐着做的运动？"
+    a: "可以选择的坐姿运动包括坐着拉伸或椅子瑜伽、抛接气球或软球、抛沙包、举起汤罐头、拉伸弹力带，以及踏板运动器。当走路变得困难时，这些都是很好的选择。"
+  - q: "如果对方不想动，怎么办？"
+    a: "不要强迫。可以稍后再试，自己先动起来，加入对方熟悉的音乐，或者把活动变成一件事情，比如扫地或浇花。去信箱走一小段路也算，只是一起坐在户外也算。"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +47,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+活动身体是脑健康研究中被研究最多的习惯之一。研究发现它与较低的失智症风险相关，但并没有证明运动能预防失智症。可以确定的是，无论年龄多大，活动都有助于力量、平衡、情绪和睡眠。本页介绍研究的结论、美国对老年人建议的活动量，以及与失智症患者一起活动的温和方式。
 
-## Does exercise lower the risk of dementia?
+## 运动能降低失智症风险吗？
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+研究显示，身体活跃的人患失智症的可能性较低，但证据有其局限。[2024 年柳叶刀失智症委员会](https://doi.org/10.1016/S0140-6736(24)01296-0)把缺乏身体活动列为 14 项可改变的风险因素之一。在其模型中，这 14 项因素合计约占全球失智症病例的 45%。
 
-Here is what the evidence looks like:
+证据的情况如下：
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **观察性研究的方向一致。** 委员会审视了 58 项研究的综述，发现身体活跃的人患失智症的风险约低 20%。差异最大的，是几乎完全不活动的人与至少做了一些活动的人之间。
+- **这种关联可能是双向的。** 委员会指出，缺乏活动可能会增加风险。它也指出，失智症在确诊前数年就已开始的早期大脑变化，可能使人活动减少。
+- **试验的结论较不明确。** 在一项试验中，945 名平均年龄为 78 岁的老年人被分配到为期五年、每周两次有人指导的运动，或被分配到对照组。最终，各组之间的思维能力没有明显差异。对照组中也有许多人保持着活动，这使结果更难解读。
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[美国国家老龄研究所（NIA）](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)的说法很直接：目前尚未显示身体活动与预防阿尔茨海默病之间有明确的联系，试验证据也不足以说明运动能预防或延缓阿尔茨海默病。运动仍然能降低跌倒、抑郁、糖尿病、高血压和中风的风险，其中一些疾病本身也与认知衰退有关。
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+客观的结论是：为了今天的感觉和身体机能更好而活动。对大脑的益处是可能的额外收获，而不是承诺。
 
-## How much activity do older adults need?
+## 老年人需要多少活动？
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[美国疾病控制与预防中心（CDC）对 65 岁及以上成年人的建议](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html)，是每周进行三类活动：
 
-| Type | Weekly amount | Examples |
+| 类型 | 每周量 | 例子 |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| 有氧 | 至少 150 分钟中等强度活动，例如每周 5 天、每天 30 分钟 | 快走、跳舞、水中有氧 |
+| 增强肌力 | 至少 2 天，锻炼所有主要肌群 | 举起轻的哑铃或汤罐头，拉伸弹力带 |
+| 平衡 | 定期进行 | 脚尖对脚跟行走，从椅子上站起来 |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+这些是目标，而不是入门门槛。CDC 表示，如果做不到这些，就应根据自身能力和健康状况尽量活动。有一些活动总比完全不动好。
 
-## Gentle ways to move for older adults
+## 适合老年人的温和活动方式
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **有人陪着散步。** 每天和朋友、邻居或散步小组一起走走，既有交谈，也更安全。
+- **椅子运动。** 坐着抬手臂、转动脚踝、原地踏步和椅子瑜伽，可以在没有平衡风险的情况下增强力量。
+- **在厨房里跳一跳。** 播放对方十几岁和二十多岁时的音乐，然后摇摆、拍手或踏步。我们的[音乐活动指南](/activities/music/)有更多想法。
+- **用家里的东西锻炼力量。** 边看喜欢的节目，边举起装满水的瓶子或汤罐头。
+- **打理花园或做家务。** 浇花、耙叶、扫地和叠衣服都算数。请参阅[户外和园艺活动](/activities/outdoor-and-gardening/)以及[家务活动](/activities/household-tasks/)。
+- **水中运动。** NIA 把水中有氧课程列为关节难以承受陆地运动者的一种选择。
 
-## How to exercise with someone living with dementia
+## 怎样与失智症患者一起运动？
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+对于与失智症共同生活的人，目标是舒适、愉快，并保持日常能力，而不是达到某个数字。NIA 表示，身体活动有助于让阿尔茨海默病患者的肌肉、关节和心脏保持良好状态，也能改善情绪和睡眠。开始新的运动安排前，请先咨询对方的医生。[NIA 照顾者指南](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf)中的建议包括：
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **每天一起散步。** 选择安全、熟悉、没有障碍物的路线。如果对方独自行走，最好戴一个写有您电话号码的身份手环。
+2. **尝试适合老年人的运动视频。** 可以一起坐着或站着跟着做。
+3. **保持时间简短。** 几次简短的“小练习”，可能比一次长时间的练习效果更好。
+4. **加入音乐。** 熟悉的歌曲会让运动感觉像一种活动，而不是任务。如果对方喜欢跳舞，就一起跳。
+5. **提供水和舒适的鞋子。** 运动中和运动后都提供水或果汁，并选择舒适的衣服和合脚的运动鞋。
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+如果走路很困难，[NIA 照顾阿尔茨海默病患者的指南](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf)建议采用坐着进行的方式，包括椅子运动或瑜伽、抛沙包、抛接软球或气球、拉伸弹力带、举起轻的家居物品，以及踏板运动器。扫地和掸灰等简单的家务也算。
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+要对运动能带来的效果保持现实的态度。柳叶刀委员会没有发现运动能减少激越等行为变化的证据。一起活动，是因为它可能让人感觉良好，而不是用来挽救一个艰难的下午。如果对方说不，也没有关系。我们关于[当他们说不的时候](/caregiving/when-they-say-no/)的指南，提供了稍后再试的温和方法。提前结束，或者只是一起坐在户外，也是很好的结果。
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+活动之后，可以做一个安静的停顿，比如[平静呼吸](/games/calm-breathing/)，帮助你们两人平静下来。对于带有轻微手臂动作的坐着的活动，[一起分类](/games/sort-together/)和[图片宾果](/games/picture-bingo/)在桌边都很合适。
 
-## Balance and fall safety
+## 平衡与防跌倒
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+跌倒很常见，也很严重。[CDC 的报告](https://www.cdc.gov/falls/data-research/facts-stats/index.html)指出，每年有超过四分之一的老年人会跌倒，但不到一半的人会告诉医生。跌过一次，再次跌倒的可能性会翻倍。CDC 列出的风险因素包括：
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- 腿部和髋部无力
+- 走路和保持平衡困难
+- 某些药物，包括镇静剂和部分抗抑郁药
+- 视力问题
+- 足部疼痛或鞋子不合适
+- 家中的隐患，例如杂物、小地毯和破损的台阶
 
-To move more safely:
+为了更安全地活动：
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **使用结实、没有轮子的椅子，** 站立练习时，身边要有触手可及的台面或扶手。
+- **先清理空间，** 移开小地毯、电线和杂物。
+- **起身时慢一些，** 如果对方感到头晕或站立不稳，就停下来。
+- **穿有支撑的鞋子，** 不要只穿袜子或松垮的拖鞋。
+- **在有支撑的地方练习平衡。** 从椅子上站起来和脚尖对脚跟行走，是 CDC 列举的平衡活动示例。
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC 建议，如果老年人跌倒并撞到头部，应立即看医生，尤其是在服用血液稀释剂的情况下。
 
-## Talk with a doctor
+## 咨询医生
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+在开始新的运动安排之前，请先咨询医生，尤其是对于有心脏或肺部问题、关节疼痛、平衡问题或失智症的人。医生或物理治疗师可以推荐安全的活动，并检查药物是否会影响平衡。即使是没有受伤的跌倒，也要告诉医生。运动中如果有任何地方疼痛或感觉不对，请停下来。如果出现突发胸痛、呼吸困难或突然的意识混乱，请立即拨打当地紧急电话。
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+本页为一般性信息，并非医疗建议。请参阅我们的[医疗免责声明](/medical-disclaimer/)。想了解更全面的情况，请阅读[关于失智症风险因素的研究](/brain-health/risk-factors/)，以及[失智症能否预防](/brain-health/can-dementia-be-prevented/)。
