@@ -1,7 +1,7 @@
 ---
 title: "Quand la famille n’est pas d’accord sur les soins liés à la démence"
 seoTitle: "Désaccords familiaux sur les soins de la démence"
-description: "Une façon calme d’aborder les désaccords sur les soins : tenir compte des souhaits de la personne, séparer les faits des suppositions, répartir les tâches et demander de l’aide."
+description: "Aborder calmement les désaccords sur les soins : tenir compte des souhaits de la personne, séparer les faits des suppositions, répartir les tâches, demander de l’aide."
 section: caregiving
 order: 33
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Quand une personne atteinte de démence voit ou entend des choses"
 seoTitle: "Hallucinations et démence : gestes calmes pour les aidants"
-description: "Apprenez à réagir calmement quand une personne atteinte de démence voit ou entend des choses, à vérifier son environnement et à savoir quand un changement soudain demande une aide médicale."
+description: "Réagir calmement quand une personne atteinte de démence voit ou entend des choses, vérifier l’environnement et savoir quand un changement soudain demande une aide médicale."
 section: caregiving
 order: 36
 updated: 2026-11-11
