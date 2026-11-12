@@ -93,7 +93,7 @@ Alcheimera asociācija raksturo vidējo stadiju kā parasti garāko, kas var ilg
 
 1. **Salociet, sašķiriet un saskaņojiet.** Dvieļi, zeķes, galda piederumi, pogas pēc krāsas. Īsti darbi, kas padarīti līdzās.
 2. **Dziediet un kustieties pie mūzikas.** Plaukšķiniet, šūpojieties vai dejojiet virtuvē. Sāciet dziedāt paši un ļaujiet viņam pievienoties.
-3. **Skatiet fotoalbumus.** Aprakstiet, ko redzat, un aicinājiet stāstīt: „Kāda mašīna! Pastāsti par to.“ Piekrītiet vārdiem, ko viņš lieto.
+3. **Skatiet fotoalbumus.** Aprakstiet, ko redzat, un aicinājiet stāstīt: „Kāda mašīna. Pastāsti par to.“ Piekrītiet vārdiem, ko viņš lieto.
 4. **Spēlējiet vienkāršas attēlu spēles.** [Attēlu pāri](/games/picture-pairs/) ar četrām līdz sešām kārtīm un attēliem, kas paliek redzami, vai [Atrodi to pašu](/games/find-the-same/) ar divām vai trim izvēlēm.
 5. **Pabeidziet pazīstamus teicienus.** „Ābols dienā…“ Teicieni, ko iemācījies sen, bieži nāk viegli. Izmēģiniet [Pabeidz teicienu](/games/finish-the-saying/), kur var parādīt jebkuru beigu variantu ar vienu pieskārienu.
 6. **Laistiet un kopiet augus.** Telpu puķu podi vai paaugstināta dobe ar nelielu laistāmkannu.
@@ -103,7 +103,7 @@ Vairāk ideju: [aktivitātes vidējā stadijā](/activities/middle-stage/).
 
 ## Aktivitātes vēlīnā Alcheimera slimības stadijā
 
-Vēlīnā stadijā [Alcheimera asociācija](https://www.alz.org/alzheimers-dementia/stages) norāda, ka cilvēki zaudē spēju reaģēt uz apkārtni un uzturēt sarunu, lai gan var joprojām izrunāt vārdus vai frāzes. Aktivitāte tagad nozīmē komfortu un saikni, ko nes pie vietas, kur cilvēks atpūšas.
+Vēlīnā stadijā Alcheimera asociācija norāda, ka cilvēki zaudē spēju reaģēt uz apkārtni un uzturēt sarunu, lai gan var joprojām izrunāt vārdus vai frāzes. Aktivitāte tagad nozīmē komfortu un saikni, ko nes pie vietas, kur cilvēks atpūšas.
 
 1. **Spēlējiet mīļāko mūziku** klusi, bez televizora traucējumiem.
 2. **Veiciet roku masāžu** ar losjonu ar smaržu, kas patīk.

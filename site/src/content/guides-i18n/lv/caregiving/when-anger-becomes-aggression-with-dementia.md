@@ -95,6 +95,6 @@ Ja kāda darbība bieži izraisa satraukumu, mainiet laiku vai pieeju vai lūdzi
 
 Sazinieties ar cilvēka ārstu par jaunu, pēkšņu, atkārtotu vai pasliktinošos agresiju. [Alcheimera asociācija iesaka uzvedības izmaiņu gadījumā veikt medicīnisku pārbaudi, īpaši, ja tās parādās pēkšņi](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger). Iespējams, jāpārskata sāpes, slimība, miegs, vide un zāles. Ārsts var izvērtēt cilvēka situāciju.
 
-Meklējiet steidzamu medicīnisku palīdzību vietējā dienestā, ja cilvēks pēkšņi kļūst apjucis, ir ievainots vai izskatās akūti slims. [NHS norādījumi par pēkšņu apjukumu](https://www.nhs.uk/symptoms/confusion/) prasa nekavējoties saņemt medicīnisku palīdzību. Ja jūs vai kāds cits ir tūlītējā briesmā, zvaniet vietējiem ārkārtas dienestiem. Negaidiet, kamēr savāksit piezīmes vai mēģināsit noteikt cēloni.
+Meklējiet steidzamu medicīnisku palīdzību vietējā dienestā, ja cilvēks pēkšņi kļūst apjucis, ir ievainots vai izskatās akūti slims. NHS norādījumi par pēkšņu apjukumu prasa nekavējoties saņemt medicīnisku palīdzību. Ja jūs vai kāds cits ir tūlītējā briesmā, zvaniet vietējiem ārkārtas dienestiem. Negaidiet, kamēr savāksit piezīmes vai mēģināsit noteikt cēloni.
 
 Arī jūsu drošība ir svarīga. Pastāstiet uzticamam ģimenes loceklim, ārstam vai vietējam demences atbalsta dienestam, ja epizodes atkārtojas vai jūs jūtaties biedēti. Lūdziet plānu, kas aizsargā gan cilvēku, gan apkārtējos. Jums ir tiesības saņemt palīdzību; šo nav jāpārvalda vienam.

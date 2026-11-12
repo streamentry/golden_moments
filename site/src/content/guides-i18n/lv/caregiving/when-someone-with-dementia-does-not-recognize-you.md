@@ -1,7 +1,7 @@
 ---
 title: "Kad cilvēks ar demenci neatpazīst jūs"
 seoTitle: "Demence: ko teikt, ja cilvēks jūs neatpazīst"
-description: "Ja cilvēks ar demenci jūs neatpazīst, mierīgi prezentējieties, neizmantojiet atmiņas pārbaudes, piedāvājiet pazīstamus signālus, ja tie ir gaidīti, un meklējiet palīdzību pēkšņām izmaiņām."
+description: "Ja cilvēks ar demenci jūs neatpazīst, prezentējieties mierīgi, neuzdodiet pārbaudes jautājumus un meklējiet palīdzību pēkšņām izmaiņām."
 section: caregiving
 order: 32
 updated: 2026-11-11

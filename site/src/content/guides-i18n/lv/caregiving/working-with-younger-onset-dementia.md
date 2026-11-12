@@ -1,7 +1,7 @@
 ---
 title: "Darbs pēc demences diagnozes agrīnā vecumā"
 seoTitle: "Darbs ar agrīnās demences diagnozi: ko apsvērt"
-description: "Apsveriet darba izvēles pēc demences diagnozes agrīnā vecumā: pārskatiet uzdevumus, pajautājiet par atbalstu, aizsargājiet privātumu un pārbaudiet vietējos noteikumus."
+description: "Apsveriet darba izvēles pēc demences diagnozes agrīnā vecumā: pārskatiet uzdevumus, runājiet par atbalstu, aizsargājiet privātumu un pārbaudiet noteikumus."
 section: caregiving
 order: 31
 updated: 2026-11-11
@@ -59,7 +59,7 @@ Aprakstiet darba uzdevumus un izmaiņas, ko esat pamanījis. Pajautājiet, vai v
 
 ## Kādas izmaiņas darbā var palīdzēt?
 
-Ja vēlaties turpināt strādāt, pajautājiet, kādas izmaiņas var būt iespējamas jūsu lomā. [Dementia Australia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead/work-and-dementia) iesaka tādas iespējas kā rutīnas izmantošana, vienas darbības koncentrēšana, piezīmju veikšana un soli pa solim instrukcija biežiem uzdevumiem. Atkarībā no darba varat pajautāt arī par rakstiskām instrukcijām, kalendāru, mazāku traucējumu skaitu vai plānotām pauzēm.
+Ja vēlaties turpināt strādāt, pajautājiet, kādas izmaiņas var būt iespējamas jūsu lomā. Dementia Australia iesaka tādas iespējas kā rutīnas izmantošana, vienas darbības koncentrēšana, piezīmju veikšana un soli pa solim instrukcija biežiem uzdevumiem. Atkarībā no darba varat pajautāt arī par rakstiskām instrukcijām, kalendāru, mazāku traucējumu skaitu vai plānotām pauzēm.
 
 Uzskatiet tās par idejām, ko apspriest, nevis par kontrolsarakstu, ko katrs darba devējs var vai vajadzētu izmantot. Izvēlieties vienu izmaiņu, kas risina uzdevumu, kas jums šķiet grūts. Ja jūs un darba devējs to izmēģināt, vienojieties, kā pārskatīsiet, vai tas palīdz. Izmaiņa, kas darbojas vienā lomā, var nederēt citai.
 

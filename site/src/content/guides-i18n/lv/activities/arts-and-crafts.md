@@ -1,6 +1,6 @@
 ---
 title: "Māksla un amatniecība pieaugušajiem ar demenci"
-seoTitle: "Māksla un amatniecība demences gadījumā: pieaugušajiem, nevis bērnišķīgi"
+seoTitle: "Māksla demences gadījumā: pieaugušiem, nevis bērnišķīgi"
 description: "Pieaugušo mākslas un amatniecības idejas cilvēkiem ar demenci: no akvareļa un kolāžas līdz ziedu sakārtošanai, ar padomiem par sagatavošanu, pielāgošanu un procesu."
 section: activities
 order: 9

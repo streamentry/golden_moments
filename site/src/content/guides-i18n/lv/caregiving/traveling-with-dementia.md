@@ -1,7 +1,7 @@
 ---
 title: "Ceļošana kopā ar cilvēku, kam ir demence"
 seoTitle: "Ceļošana ar demenci: aprūpētāja ceļvedis"
-description: "Plānojiet braucienu kopā ar cilvēku, kam ir demence: izvēlieties ērtu maršrutu, saglabājiet pazīstamus ikdienas ritmus, sagatavojiet nepieciešamo un vienkāršu rezerves plānu."
+description: "Plānojiet braucienu kopā ar cilvēku, kam ir demence: izvēlieties ērtu maršrutu, saglabājiet pazīstamus ritmus, sagatavojiet nepieciešamo un vienkāršu rezerves plānu."
 section: caregiving
 order: 11
 updated: 2026-11-11
