@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Cum homo cum dementia eandem quaestionem iterum atque iterum rogat"
+seoTitle: "Quaestiones iteratae in dementia: quid dicere et facere"
+description: "Cur homo dementia vivens eandem quaestionem identidem rogat, modi placidi respondendi, instrumenta simplicia quae iuvant, et quando mutatio repentina medicum requirat."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Quaestiones iteratae in dementia frequentes sunt: persona plerumque non meminit
+  se rogasse, et quaestio saepe curam continet. Placide et breviter responde
+  quasi primum fiat, ad sensum post eam respice, et numquam dic “iam rogasti”.
+  Responsum ubi videat scribe, eventus tantum paulo ante memora, et actionem
+  iucundam offer. Mutatio subita medicum postulat.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Persona plerumque non meminit se rogasse; non de industria fit."
+  - "Quaestio saepe sensum celat, ut curam de visitatione aut desiderium securitatis."
+  - "Placide, breviter et benigne responde, quasi primum sit. Numquam dic “iam rogasti.”"
+  - "Schedula, tabula scripta, horologium aut kalendarium in conspectu te pro responsione facere possunt."
+  - "Eventus anxios tantum paulo ante memora."
+  - "Breve intervallum cape cum opus est, et medicum voca de qualibet mutatione subita."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Cur pater meus cum dementia eandem quaestionem semper rogat?"
+    a: "Dementia memoriam brevem afficit, itaque fortasse vere non meminit se rogasse aut responsum audivisse. Saepe quaestio etiam sensum continet, ut curam de eo quod sequitur aut necessitatem consolationis. Sensum illum respondere plerumque plus iuvat quam res iterare."
+  - q: "Debeone dicere eos iam rogasse?"
+    a: "Non. Non potest eis ad memoriam revocandam prodesse, et correctio videri potest. Institutiones dementiae suadent ut singulis vicibus placide respondeatur, quasi primum sit, et ut responsum breve maneat."
+  - q: "Prodestne responsum scribere?"
+    a: "Potest, dum persona adhuc legere potest. Schedula, tabula cum consilio hodierno, horologium magnum aut kalendarium ubi saepe respicit, eam sinunt responsum ipsam inspicere. Leniter ad id monstra potius quam “dixi tibi” dicas."
+  - q: "Quando de visitationibus aut excursionibus loqui debeo?"
+    a: "Prope tempus. Visitationem medici aut iter dies ante memorare potest in horas quaestionum anxiarum vertere. Paulo ante dic, placide, cum eo quod deinde fiet."
+  - q: "Quando repetitio causa est cur medicum adeas?"
+    a: "Si quaestiones, confusio aut mos subito aut multo peius intra horas aut dies mutantur, medicum statim voca. Infectio, novum medicamentum, dolor, obstipatio aut siccitas confusionem subitam quae delirium dicitur efficere possunt, quae celerem curam requirit."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +57,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+“Quo tempore medicus venit?” Decem minutis post: “Quo tempore medicus venit?” Eandem quaestionem iterum atque iterum audire est una ex rebus maxime defatigantibus in cura hominis cum dementia viventis. Valde communis est, de industria non fit, et sunt modi placidi respondendi qui diem vobis ambobus faciliorem reddunt.
 
-## Why does someone with dementia ask the same question over and over?
+## Cur homo cum dementia eandem quaestionem identidem rogat?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Maxime propter memoriam. Dementia memoriam brevem afficit, itaque persona saepe non meminit se rogasse, aut responsum non meminit. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) quaestiones multoties iteratas communes et expectatas describit.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Quaestio saepe etiam sensum fert. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explicat quaestionem iteratam curam, petitionem auxilii, aut anxietatem et insecuritatem exprimere posse, et personam saepe solacium et familiaritatem quaerere. “Quando imus?” fortasse vere significat “Timeo ire.” Tedium, metus, strepitus et mutationes ordinis omnia id excitare possunt, et quaestio iterata etiam necessitatem significare potest, ut lavacrum ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Quid dicam?
 
-Answer calmly and briefly, as if it were the first time.
+Placide et breviter responde, quasi primum sit.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Responsum breve et idem serva.** “Medicus est hora secunda post meridiem. Tecum ero.” Responsum constans facilius capitur.
+- **Ad sensum responde.** “Medicum cogitas. Est hodie post meridiem, et ego vos ducam. Nihil est quod facere debeas.”
+- **Voce benigna et tactu leni utere,** si tactum amat. Alzheimer's Association suadet ut tranquillus maneas et ratione aut disputatione non utaris.
+- **Responsum quod quaerit da,** quotiens opus est. Alzheimer's Association dicit idem toties repetere quoties rogat.
 
-## What should I avoid?
+## Quid vitem?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **“Iam id me rogasti.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) vetat ne notes eos modo rogasse. Memoriam eis revocare non potest, et sicut correptio sentiri potest.
+- **Longas explicationes.** Plura verba plus est quod obliviscatur.
+- **Suspiria, oculos volvere aut vocem acrem.** [Institutum Nationale de Senectute](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) patientiam suadet et frustrationem non ostendi. Hoc difficile est; vide partem de intervallis infra.
 
-## Simple tools that answer the question for you
+## Instrumenta simplicia quae quaestionem pro te respondent
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Dum persona adhuc legere potest, responsum scriptum quod videre potest saepe plus quam dictum iuvat.
 
-| Tool | How to use it |
+| Instrumentum | Quomodo utaris |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Schedula litteris magnis | “Medicus hodie hora 2 post meridiem. Maria ducet.” Pone ubi saepissime spectat |
+| Tabula scripta | Consilium hodiernum in tribus aut quattuor lineis; quotidie mane detergere et rescribere |
+| Horologium magnum cum die et data | Auxilium ad “Quis dies est?” et “Iamne tempus est?” |
+| Kalendarium | Quemque diem delinea; proximam visitationem circumda |
+| Photographiae familiares | Photographia eius qui venit potest respondere “Quis visitat?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Hae ideae ex [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) et [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) veniunt. Leniter ad schedulam monstra (“Simul in tabulam spectemus”) potius quam “Scripsi tibi.”
 
-## Tell them about events close to the time
+## Eventus prope tempus memora
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Appositionem aut excursionem dies ante memorare potest in horas quaestionum anxiarum vertere. Family Caregiver Alliance et Alzheimer's Los Angeles ambo suadent ut de consiliis, praesertim gravibus ut visitationibus medicorum aut lavacro, tantum paulo ante loquaris. Deinde dic quid deinde fiet, unum gradum simul.
 
-## Activities that can shift attention
+## Actiones quae attentionem avertere possunt
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Postquam respondisti et sensum agnovisti, actio placida et iucunda iuvare potest, praesertim si tedium quaestiones causat. Omnes fontes supra ad id quod persona amat avertendum suadent.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Ludus brevis et facilis simul.** [Paria imaginum](/games/picture-pairs/) imagines visibiles servat, ut nihil memorandum sit.
+2. **Munus familiare.** Linteamina plicare, calceos aut tibiales digerere, aut mensam parare. [Confer simul](/games/sort-together/) versio in scherma est.
+3. **De eo quod amat loquere.** [Chartae colloquii](/games/conversation-cards/) interrogationes apertas sine responsis rectis offerunt.
+4. **Musica, ambulatio aut cibus parvus.** Institutum Nationale de Senectute haec inter simplices modos avertendi enumerat.
+5. **Quies brevis.** Simul sede, per fenestram specta, aut momentum [respirationis placidae](/games/calm-breathing/) simul tempta.
 
-If they return to the question, answer it again, kindly. That is fine.
+Si ad quaestionem redeat, iterum benigne responde. Hoc bene est.
 
-## Look for patterns
+## Modos quaere
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association suadet ut animadvertatur utrum quaestiones certis temporibus diei, circa certos homines aut in certis locis veniant. Si semper ante visitatores aut sero post meridiem incipiunt, praevideri potest: schedula de visitatione, actio familiaris parata, cubiculum quietius. Nostrum ducem de [actionibus placidis sub vesperam](/caregiving/late-day-restlessness/) adire potes, si vesperae difficillimae sunt.
 
-## Take care of yourself
+## Te ipsum cura
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Eandem quaestionem vicesimum tempus respondere defatigat. Si patientia tua deficit et persona tuta est, in aliud cubiculum per paucos minutos intra et spira, ut [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suadet. [Institutum Nationale de Senectute](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) curatores hortatur ut auxilium petant et curam interpositam considerent. Plures ideas in nostro [duce de cura sui ipsius curatoris](/caregiving/caregiver-self-care/) sunt.
 
-## When should I call a doctor?
+## Quando medicum voco?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Medicum eius statim voca si quaestiones, confusio aut mos subito aut multo peius intra horas aut dies mutantur. [Institutum Nationale de Senectute](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dicit morem subitum aut celeriter mutantem, praesertim post infectionem aut mutationem medicamenti, statim ad medici notitiam perferendum esse. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explicat infectionem, medicamenta, siccitatem, dolorem aut obstipationem delirium efficere posse, confusionem subitam et gravem quae celeri curatione indiget. Si quis in periculo est, numerum localem emergentiae voca.
