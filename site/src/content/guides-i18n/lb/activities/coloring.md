@@ -87,7 +87,7 @@ Dat [Ausmal-Spill](/games/coloring/) op Golden Moments funktionéiert esou, datt
 
 ## Sech un d'Verännerunge vu Demenz upassen
 
-Am fréie Stadium genéisse Leit dacks detailléiert Biller a kënnen hir eege Faarwen a Mustere wielen. Am mëttlere Stadium hëllefen gréisser Biller a manner Auswiel. An de spéiderer Stadien kann ee versichen, eng eenzeg grouss Form ze benotzen, e Blat a enger zaarter Faarf oder einfach den Stëft ze halen, während Dir eng Melodie sénkt. Heiansdo genéisst eng Persoun et méi, en fäerdegt Bild ze kucken, ewéi selwer ee ze maachen.
+Am fréie Stadium genéisse Leit dacks detailléiert Biller a kënnen hir eege Faarwen a Mustere wielen. Am mëttlere Stadium hëllefen gréisser Biller a manner Auswiel. An de spéiderer Stadien kann ee versichen, eng eenzeg grouss Form ze benotzen, e Blat a enger zaarter Faarf oder einfach den Stëft ze halen, während Dir eng Melodie sengt. Heiansdo genéisst eng Persoun et méi, en fäerdegt Bild ze kucken, ewéi selwer ee ze maachen.
 
 Fir méi iwwer kreativ Aarbecht an all Stadium, kuckt [Konscht a Handwierk fir Leit mat Demenz](/activities/arts-and-crafts/) an [Konschtprojete fir Leit mat Demenz](/activities/art-projects/).
 

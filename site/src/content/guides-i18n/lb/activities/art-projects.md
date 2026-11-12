@@ -25,9 +25,9 @@ faq:
   - q: "Wéi wielen ech Konschtmaterial fir eng Persoun mat Demenz?"
     a: "Sicht no giftfräi, wäschbaren Material mat grousse Griffen a kräftege Faarwen, a vermeit kleng Pärelen, Knäpp, Glitter, nasst Glas, schaarf Scheeren a alles, wat geschluecht kéint ginn. Kuckt no Allergien, wéi Latex-Handschuesch oder bestëmmte Faarwen. Benotzt gudden Kontrast, wéi wäiss Pabeier mat enger kräfteger Faarf, a hält d'Lëscht kuerz."
   - q: "Kann eng Persoun am spéiden Stadium nach Konscht maachen?"
-    a: "Jo, mat einfache sensoreschen Formen. Probéiert, weichen Lehm ze drécken, mat engem grousse Pinsel op engem Tablett mat Waasser ze molen, oder Stoffmuster no hirer Textur ze sortéieren. Dir musst d'Hand vläicht féieren. Zoekucken a mat Iech iwwer d'Faarwen schwätzen ass och eng Manéier, matzemaachen."
+    a: "Jo, mat einfache sensoreschen Formen. Probéiert, weichen Lehm ze drécken, mat engem grousse Pinsel op engem Tablett mat Waasser ze molen, oder Stoffmuster no hirer Textur ze sortéieren. Dir musst d'Hand vläicht féieren. Zesummen mat Iech kucken an iwwer d'Faarwen schwätzen ass och eng Manéier, mat ze maachen."
   - q: "Wat, wann si soen, si kënnen net molen?"
-    a: "Versécher hir, datt Konscht ëm d'Freed un Faarf a Textur geet, net ëm Fäegkeet. Maacht den éischte Strich selwer a lued si an, weiderzemaachen. Wann si nach ëmmer refuséiert, bitt eng aner Aktivitéit un; kuckt den Guide iwwer Refus a Frustratioun."
+    a: "Versécher hir, datt Konscht ëm d'Freed un Faarf a Textur geet, net ëm Fäegkeet. Maacht den éischte Strich selwer a bitt hir un, weiderzemaachen. Wann si nach ëmmer refuséiert, bitt eng aner Aktivitéit un; kuckt den Guide iwwer Refus a Frustratioun."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -51,8 +51,8 @@ Konschtprojeten sinn eng schéin Manéier, Zäit mat enger Persoun mat Demenz ze
 ## Wéi ee jiddereen Konschtprojet ufänkt
 
 1. **Maacht virdrun alles prett.** Leet een oder zwee Materialien, eng Schutzdeck an e naass Tuch bereet.
-2. **Weist den éischte Schrëtt.** Dippt de Pinsel an d'Faarf, zerräisst dat éischt Stéck oder drécktt en klenge Bëllen Lehm, a sot hir, datt si dat selwecht soll maachen.
-3. **Schafft nieft-enee.** Hält Äre eegenen Projet bei Iech, sou datt d'Aktivitéit gemeinsam ass a kee Kontroll ass.
+2. **Weist den éischte Schrëtt.** Dippt de Pinsel an d'Faarf, zerräisst dat éischt Stéck oder drécke en klenge Lehmbëllen, a sot hir, datt si dat selwecht soll maachen.
+3. **Schafft nieft-enee.** Hält Äre eegenen Projet bei Iech, sou datt d'Aktivitéit gemeinsam ass an net iwwerwaacht schéngt.
 4. **Schwätzt iwwer dat, wat Dir gesitt.** Beschreift Faarwen, Textur a Forme, anstatt d'Aarbecht ze beurteelen.
 5. **Hält op, ier d'Energie ofgeet.** Zéng bis zwanzeg Minutte sinn dacks eng gutt Längt.
 

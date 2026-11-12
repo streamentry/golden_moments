@@ -68,7 +68,7 @@ Loosst d'Persoun wielen. D'Fro „Wat wëllt Dir den Nomëtteg maachen?“ ass m
 
 ## Musek an Erënnerungen aus hiren eegenen Joren
 
-Musek a Fotoen aus de 20er, 30er an 40er Joren kënnen waarm Gefiller a leicht Gespréicher bréngen. Eise Guide iwwer [Musekaktivitéiten](/activities/music/) erkläert, wéi ee eng Playlist mécht, a [Erënnerungsaktivitéiten](/activities/reminiscence/) weisen, wéi een Fotoen a Geschichten deelt, ouni ze froen. Fir e méi erwuessent Spill probéiert [Gesprächskaarten](/games/conversation-cards/) mat oppenen Impulsen iwwer Aarbecht, Rees, Frënn a Famill.
+Musek a Fotoen aus hiren Zwanzeger-, Drësseger- an Véierzeger-Joren kënnen waarm Gefiller a leicht Gespréicher bréngen. Eise Guide iwwer [Musekaktivitéiten](/activities/music/) erkläert, wéi ee eng Playlist mécht, a [Erënnerungsaktivitéiten](/activities/reminiscence/) weisen, wéi een Fotoen a Geschichten deelt, ouni ze froen. Fir e méi erwuessent Spill probéiert [Gesprächskaarten](/games/conversation-cards/) mat oppenen Impulsen iwwer Aarbecht, Rees, Frënn a Famill.
 
 Fotopaarer mat Familljefotoen kënnen och gutt funktionéieren, well d'Biller vu Leit a Plazen sinn, déi der Persoun wichteg sinn. [Fotopaarer](/games/photo-pairs/) hält d'Fotoen am Browser op deem Apparat.
 
