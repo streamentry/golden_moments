@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Лесен квиз за луѓе со деменција, без притисок"
+seoTitle: "Квиз прашања за луѓе со деменција, со одговори"
+description: "50 лесни квиз-прашања за луѓе со деменција, со избори за одговор и теми за разговор, и како да се води квиз така што никој да не се чувствува испитуван или оставен настрана."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Лесниот квиз за луѓе со деменција функционира кога личи на разговор, а не на испит. Прашајте за работи научени одамна, како стари песни, поговорки, празници и секојдневен живот, и секогаш понудете два или три избори. Одговорот кажете го слободно, никого не издвојувајте, не водете бодови и искористете го секој одговор за да започне приказна. Прашања „ова или она“ без погрешен одговор одговараат на подоцнежните фази.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Прашајте за одамна познати работи: песни, поговорки, празници, храна и секојдневен живот од поранешни години."
+  - "Понудете два или три избори, за одговорот да може да се препознае, а не да мора да се сети."
+  - "Кажете го одговорот топло и продолжете. Секое погодување што започнува приказна е добро погодување."
+  - "Без поени, без тимови што се тркаат, без прозивање на една личност. Нека одговорите доаѓаат од целата просторија."
+  - "Кога изборот меѓу одговори станува тежок, префрлете се на прашања „ова или она“ без точен одговор."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Дали квизот е добра активност за луѓе со деменција?"
+    a: "Може да биде, ако се води нежно. Алцхајмеровата фондација на Америка го наведува квизот меѓу активностите за раната фаза. Држете се до прашања за одамна познати теми, понудете избори, никогаш не ставајте една личност во неудобна положба и третирајте ги одговорите како врата за разговор, а не како испит."
+  - q: "Кои теми најдобро функционираат за квиз за деменција?"
+    a: "Најдобро функционираат работите научени одамна: популарните песни и пејачи од младоста на личноста, познатите поговорки, празниците, храната, спортот и секојдневниот живот, како што се доставувањето млеко и телефоните со тркалце. Избегнувајте неодамнешни вести и се што бара да се запамети нешто од претходно во истата средба."
+  - q: "Како да водам квиз во дом за постари без да никого засрамам?"
+    a: "Прочитајте го секое прашање на целата група, покажете или кажете ги изборите и поздравете одговори од секого. Не прозивајте поединци и не водете резултат. Кажете го одговорот со насмевка, без оглед на тоа што е погодено, и поставете дополнително прашање, како „Кој тука некогаш одел на автокино?“, за да се разви во приказни."
+  - q: "Што можам да направам место квиз во подоцнежните фази?"
+    a: "Префрлете се на прашања без погрешен одговор, како „Кафе или чај?“ или „Плажа или планини?“, и на заедничко довршување на познати поговорки или песни. Гледањето слики и нивно заедничко опишување исто така добро функционира."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Квизот е една од најбаравените групни активности во домовите за постари и дневните центри, а многу семејства го играат и на кујнската маса. Ако се води на вообичаениот начин, со поени и еден човек што одговара, може некој со деменција да се почувствува притиснат. Ако се води нежно, е живописен начин да се слушнат приказни. Подолу се 50 лесни прашања со избори за одговор и нешто за разговор за секое, а потоа и како да се води една средба.
 
-## How do you make trivia work for someone with dementia?
+## Како да го направите квизот да функционира за некого со деменција?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Нека биде за препознавање и сеќавање на работи од одамна, и нека секој одговор биде добредојден.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Прашајте за далечното минато.** [Алцхајмеровата асоцијација](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) вели дека најчестиот ран симптом на Алцхајмерова болест е тешкотијата да се запамети нововлечена информација. Песните, поговорките и секојдневниот живот од пред неколку децении често се полесен терен.
+2. **Секогаш давајте избори.** Да се избере точниот одговор од два или три е многу полесно отколку да се смисли од ништо.
+3. **Читајте ги прашањата на глас и покажувајте ги поголеми.** Табла или таблет што се држи во висина им помага на луѓето што слабо слушаат.
+4. **Одговорот кажете го слободно.** Ако никој не знае, кажете го топло и продолжете. Никогаш „Ајде, ова го знаеш“.
+5. **Без резултат.** Ни за поединци, ни за маси. Ако луѓето сакаат број, водете еден заеднички вкупен резултат.
+6. **Никогаш не прозивајте една личност.** Нека одговорите доаѓаат од секого. Ако сте еден на еден, одговорете заедно: „Мислам дека е клавирот. Ти што мислиш?“
+7. **Користете ја темата за разговор.** Одговорот е почеток, а не крај. Приказните се вистинската цел.
+8. **Направете го кратко.** Десет прашања со приказни меѓу нив се доволно.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[Националниот институт за стареење](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) го дава основното правило едноставно: внимавајте на фрустрација и грижете се личноста да се чувствува успешно. [Алцхајмеровата фондација на Америка](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) го наведува квизот меѓу активностите за раната фаза. Во средната фаза, држете се до два избори и потпрете се на темите за разговор. Подоцна, префрлете се на прашањата „ова или она“ подолу.
 
-## Music and entertainment trivia
+## Квиз за музика и забава
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Одговорот е со **задебелен** текст. Прилагодете ги на личноста: некој што пораснал со Мотаун ќе сака други пејачи од некој што пораснал со големи оркестри.
 
-| Question | Choices | Talk about |
+| Прашање | Избори | За што да зборуваме |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Кој беше наречен Крал на рокенролот? | **Елвис Присли**, Френк Синатра, Бинг Крозби | Дали некогаш сте го виделе Елвис на телевизија? |
+| Кој пејач беше наречен Стариот со сини очи? | Дин Мартин, **Френк Синатра**, Перри Комо | Која песна на Синатра ви е најмила? |
+| Бинг Крозби сонуваше за бел... | **Божиќ**, венчавка, куќа | Заедно испејте една линија |
+| Луис Армстронг пееше „Каков прекрасен...“ | Ден, **свет**, живот | Што во светот ви изгледа прекрасно? |
+| „Over the Rainbow“ ја пее Џуди Гарланд во кој филм? | **Чаробникот од Оз**, Одвеани од ветрот, Пеејќи во дождот | Каде ги гледавте вашите омилени филмови? |
+| Кој ја игра Луси во „I Love Lucy“? | **Лусил Бол**, Дорис Деј, Бети Вајт | Кои емисии ги гледаше вашето семејство заедно? |
+| Кој каубој јавал коњ по име Тригер? | **Рој Роџерс**, Џин Отри, Џон Вејн | Дали сте се играле каубои како дете? |
+| Кој водеше „The Tonight Show“ 30 години? | Ед Саливан, **Џони Карсон**, Боб Хоуп | Дали сте останувале будни до доцна да гледате телевизија? |
+| Кој инструмент има 88 тастатури? | Гитара, **клавир**, труба | Дали некој во семејството свиреше? |
+| Кој танц се брои еден-два-три, еден-два-три? | **Валцер**, твист, танго | Каде одевте на танцување? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+За повеќе за музиката, видете [активности со музика за деменција](/activities/music/).
 
-## Everyday life trivia
+## Квиз за секојдневен живот
 
-| Question | Choices | Talk about |
+| Прашање | Избори | За што да зборуваме |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Пред фрижидерите, храната се чувала ладна во... | **Ледена кутија**, рерна, таван | Кој ви носеше мраз? |
+| Кој го носеше млекото до вратата во стаклени шишиња? | Поштарот, **млекарот**, весникарот | Што друго ви се доставуваше дома? |
+| Како се бирал телефонот со тркалце? | Со притискање копчиња, **со вртење на тркалце**, со зборување кон него | Кажете ми за телефонот во вашата куќа |
+| Која компанија го направи автомобилот Model T? | **Форд**, Шевролет, Бјуик | Кажете ми за автомобил што ви се допаѓаше |
+| Каде би нашле шанкер за сода? | **Во бар со сода**, во пекара, во банка | Што нарачавте на шалтерот? |
+| Која играчка е метална спирала што може да се спушта по скали? | Јо-јо, **Слинки**, обрач | Кои играчки ве засакаа? |
+| Автомобилско кино беше место за гледање... | **Филмови од автомобилот**, спортски натпревари, паради | Со кого одевте? |
+| Чие лице е на едноподоларската банкнота? | Линколн, **Џорџ Вашингтон**, Џеферсон | Што можеше да се купи со еден долар тогаш? |
+| Чие лице е на центот? | **Абрахам Линколн**, Вашингтон, Френклин | Дали тогаш собиравте центи во тегла? |
+| Која боја обично е училишниот автобус? | Црвена, **жолта**, сина | Како одевте на училиште? |
 
-## Holidays, nature and places
+## Празници, природа и места
 
-| Question | Choices | Talk about |
+| Прашање | Избори | За што да зборуваме |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Кој празник е на четвртиот четврток во ноември? | Ден на трудот, **Денот на благодарноста**, Ден на сеќавањето | Што секогаш беше на вашата маса? |
+| Тикви-фенери се прават за кој празник? | **Ноќта на вештерките**, Велигден, Божиќ | Кажете ми за Ноќта на вештерките таму каде растевте |
+| Четврти јули се слави Декларацијата за... | Правата, **независноста**, слободата | Каде гледавте огномет? |
+| Денот на мајката е во кој месец? | Април, **мај**, јуни | Како го прославуваше вашето семејство? |
+| Колку ѕвезди има на американското знаме? | 48, **50**, 52 | Знамето имаше 48 ѕвезди до 1959 година. И двата одговори се добро сеќавање |
+| Кој океан е на источниот брег? | Пацифик, **Атлантик**, Арктик | Дали некогаш сте отишле на плажа? |
+| Во кој град е Статуата на слободата? | Бостон, **Њујорк**, Филаделфија | Дали сте биле во Њујорк? |
+| Што прават пчелите? | Млеко, **мед**, свила | Мед на леб или во чај? |
+| Како се вика бебето на кравата? | Жребе, **теле**, јаре | Дали некогаш сте живееле близу фарма? |
+| Која висока жолта цвет е позната по тоа што се врти кон сонцето? | Роза, **сончоглед**, лале | Што растеше во вашата градина? |
+| Колку денови има една преступна година? | 365, **366**, 360 | Кажете ми за роденден што го помните |
+| Која сезона е по зимата? | Есен, **пролет**, лето | Која ви е најмилата сезона? |
 
-## Food and sports trivia
+## Храна и спорт
 
-| Question | Choices | Talk about |
+| Прашање | Избори | За што да зборуваме |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Суво грозје е... | Сливи, **грозје**, цреши | Дали пакувавте суво грозје во ручеци? |
+| Суви сливи се... | **Сливи**, смокви, јаболка | Кој во вашето семејство ги сакаше сушените сливи? |
+| Путер од кикирики и... | **Џем**, сирење, шунка | Хрскаво или мазно? |
+| Гвакамол се прави главно од... | Грашок, **авокадо**, краставици | Кои намачкалици се појавуваа на забави? |
+| Која пита е омилена за Денот на благодарноста? | **Тиквина**, лимонова, вишнева | Која пита сте ја правеле? |
+| Колку играчи има бејзбол тимот на теренот? | 7, **9**, 11 | За кој тим навивавте? |
+| Колку удари прават еден аут во бејзбол? | Два, **три**, четири | Дали некогаш сте играле бејзбол? |
+| Со кој спорт беше познат Бејб Рут? | Бокс, **бејзбол**, голф | Дали одевте на бејзбол натпревари? |
+| Колку дупки има стандардното голф игралиште? | 9, **18**, 24 | Дали некогаш сте играле голф или мини голф? |
+| Во кој спорт се постигнува тачдаун? | **Американски фудбал**, хокеј, кошарка | Кој гледаше фудбал во вашата куќа? |
 
-## Familiar sayings
+## Познати поговорки
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Довршувањето на поговорка ги повикува јазичните навики научени одамна и често дојде лесно. Нашата игра [Довршете ја поговорката](/games/finish-the-saying/) има многу повеќе, со допир за да се прикаже секој крај.
 
-| Saying | Choices | Talk about |
+| Поговорка | Избори | За што да зборуваме |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Јаболко на ден, ... | **доктор подалеку**, дожд подалеку, мачка подалеку | Кој ви го велеше ова? |
+| Рановставачот го фаќа... | Автобусот, **црвот**, возот | Дали сте утринска личност? |
+| Не броете ги пилињата пред да... | **излезат**, заспијат, запеат | Дали вашето семејство одгледувало кокошки? |
+| Заштедена пара е... | **заработена пара**, загубена пара, потрошена пара | Кој во семејството штедеше? |
+| Дома е таму каде што е... | Градината, **срцето**, кујната | Што едно место го прави домашно? |
+| Подоцна е подобро одошто... | Порано, **никогаш**, со извинување | Кој секогаш доцнеше? |
+| Секој облак има сребрена... | **постава**, лажица, монета | Кажете ми за среќна случајност |
+| Делата зборуваат погласно од... | **зборовите**, музиката, громот | Кажете ми за некој што тоа го кажал |
 
-## This-or-that questions with no wrong answer
+## Прашања „ова или она“ без точен одговор
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Овие прашања одговараат на секоја фаза, вклучително и подоцнежните, затоа што нема што да се погреши. Прашајте, слушајте и споделете и свој одговор.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Кафе или чај?
+- Плажа или планини?
+- Кучиња или мачки?
+- Лето или зима?
+- Пита или торта?
+- Танцување или гледање?
+- Изгрев или зајдисонце?
+- Предна тераса или задно двориште?
+- Радио или плочи?
+- Палачинки или јајца?
+- Рози или маргаритки?
+- Патување со воз или патување со автомобил?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+За прашања за разговор што одат со слики, пробајте ги нашите печатливи [картички за разговор](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Како да водите квиз средба во дом или група?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Засадете ги луѓето така што ќе видат и ќе слушнат.** Слушни апарати во уши, очила на нос, телевизорот исклучен.
+2. **Претставете го како разговор.** „Имам неколку прашања за старите времиња, и се обложувам дека вие знаете повеќе од мене.“
+3. **Прочитајте го секое прашање двапати и покажете ги изборите поголеми.**
+4. **Поздравете одговори од кое било место во просторијата.** Повторете ги добрите одговори за сите да ги чујат.
+5. **Кажете го одговорот за сите,** па поставете ја темата за разговор на целата група.
+6. **Следете ја енергијата.** Ако едно прашање започне десет минути приказни, нека трае.
+7. **Завршете со песна или со круг „ова или она“,** за сите да завршат со нешто лесно.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+За други формати на групни средби, вклучително и бингото со слики и заеднички пеења, видете [групни активности за домови за постари](/activities/care-home-groups/).
 
-## When to change the plan
+## Кога да го промените планот
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Ако некој изгледа вознемирено, замолчи или рече „не знам“ повеќе од еднаш, направете го полесно: намалете ги изборите на два, одговарајте заеднички или префрлете се на прашања „ова или она“. Ако групата сака повеќе да зборува за едно прашање цело попладне, тоа е успех. Целта никогаш не беа точните одговори. Целта беше време во добро друштво.
