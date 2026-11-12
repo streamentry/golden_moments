@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "ශ්‍රවණ හානිය සහ ඩිමෙන්ශියා අවදානම: පර්යේෂණ පෙන්වන දේ"
+seoTitle: "ශ්‍රවණ හානිය සහ ඩිමෙන්ශියාව: පර්යේෂණ පෙන්වන දේ"
+description: "ශ්‍රවණ හානිය ප්‍රධාන ඩිමෙන්ශියා අවදානම් සාධකයක් වන්නේ ඇයි, ACHIEVE ශ්‍රවණ උපකරණ අත්හදා බැලීම සැබවින් ම සොයා ගත් දේ, සහ ශ්‍රවණය පරීක්ෂා කර පහසුවෙන් කථා කරන ආකාරය."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 Lancet කොමිෂන් සභාව ශ්‍රවණ හානිය ඩිමෙන්ශියාව සඳහා විශාලතම වෙනස් කළ හැකි අවදානම් සාධකවලින් එකක් ලෙස නම් කරයි. ACHIEVE අත්හදා බැලීමේදී, සමස්තයක් ලෙස ශ්‍රවණ උපකරණ සංජානන පිරිහීම මන්දගාමී කළේ නැත, නමුත් ඉහළ අවදානම් උප කණ්ඩායමක පිරිහීම අඩු විය. ශ්‍රවණ උපකරණ ඕනෑම අවස්ථාවක කථාබස් සහ දෛනික ජීවිතයට උදව් කරයි. ශ්‍රවණය පරීක්ෂා කරවන්න, වෛද්‍ය නිර්දේශිත හෝ ඖෂධ වෙළඳසැලෙන් ගත හැකි උපකරණ සලකා බලන්න, සහ වෛද්‍යවරයා සමඟ කථා කරන්න.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet කොමිෂන් සභාව ඇස්තමේන්තු කරන්නේ ශ්‍රවණ හානිය ලොව පුරා ඩිමෙන්ශියාවෙන් දළ වශයෙන් 7%ක් සඳහා වගකිව යුතු බවයි, සාධක 14 අතර විශාලතම කොටස සඳහා ඉහළ LDL කොලෙස්ටරෝල් සමඟ සමානව."
+  - "වැඩිහිටියන් 977ක් සම්බන්ධ ACHIEVE අත්හදා බැලීමේදී, ශ්‍රවණ උපකරණ සමස්තයක් ලෙස වසර තුනක සංජානන පිරිහීම වෙනස් කළේ නැත."
+  - "ACHIEVE තුළ කුඩා, ඉහළ අවදානම් කණ්ඩායමක, ශ්‍රවණ උපකරණ සමඟ සංජානන පිරිහීම 48%කින් මන්දගාමී විය; මෙය තහවුරු කළ යුතුය."
+  - "2022 ඔක්තෝබර් සිට, සැහැල්ලු සිට මධ්‍යම ශ්‍රවණ හානියක් ඇති බවට හඟින එක්සත් ජනපද වැසියන්ට FDA නියාමනය කළ ශ්‍රවණ උපකරණ වෙළඳසැලෙන් ගත හැකිය."
+  - "2024 දී ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය ඩිමෙන්ශියා අවදානම් සාධකයක් ලෙස එක් කරන ලද බැවින්, ඇස් පරීක්ෂාවන් ද වැදගත් ය."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "ශ්‍රවණ උපකරණ ඩිමෙන්ශියාව වළක්වයිද?"
+    a: "එය ඔප්පු වී නැත. ACHIEVE අත්හදා බැලීමේ වසර තුනක් තුළ සංජානන පිරිහීමට සමස්ත බලපෑමක් නොතිබුණි, නමුත් ඉහළ අවදානම් කණ්ඩායමක් වඩා හොඳින් කළා. කථාබස්, ආරක්ෂාව සහ දෛනික ජීවිතය පහසු කරන නිසා ශ්‍රවණ උපකරණ තවමත් සලකා බැලිය යුතුය."
+  - q: "වෙළඳසැලෙන් ගත හැකි ශ්‍රවණ උපකරණ ගත හැක්කේ කාටද?"
+    a: "FDA මගින් වයස 18 සහ ඊට වැඩි, සැහැල්ලු සිට මධ්‍යම ශ්‍රවණ හානියක් ඇති බවට හඟින වැඩිහිටියන්ට වෙළඳසැල්වලින් හෝ මාර්ගගතව, ඖෂධ වට්ටෝරුවක් නොමැතිව ශ්‍රවණ උපකරණ මිලදී ගැනීමට ඉඩ දෙයි. ඒවා දරුණු ශ්‍රවණ හානියක් සඳහා නොවේ. කනේ වේදනාවක්, කනෙන් තෙතමනයක්, කරකැවිල්ලක් හෝ හදිසි ශ්‍රවණ වෙනස්වීමක් ඇති ඕනෑම අයෙකු පළමුව වෛද්‍යවරයෙකු බැලිය යුතුය."
+  - q: "ශ්‍රවණ හානිය ඩිමෙන්ශියාව ලෙස පෙනිය හැකි ද?"
+    a: "සමහර විට. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය සටහන් කරන්නේ හොඳින් ඇසිය නොහැකි වැඩිහිටියන් සමහර විට වැරදියට ව්‍යාකූල හෝ සහයෝගී නොවන ලෙස සැලකෙන බවයි. යමෙක් ඈත් වී හෝ කියන දේ අහිමි වී ඇති බව පෙනුණොත්, ශ්‍රවණය පරීක්ෂා කිරීම සුදුසු පළමු පියවරකි."
+  - q: "වැඩිහිටියන් ඔවුන්ගේ ඇස් කොපමණ නිතර පරීක්ෂා කරවිය යුතුද?"
+    a: "ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය උපදෙස් දෙන්නේ වයස 60 න් පසු සෑම වසරකම හෝ වසර දෙකකට වරක් විස්තීර්ණ ඇස් පරීක්ෂණයක් ලබා ගන්නා ලෙසයි, හෝ ඔබේ ඇස් සත්කාර වෘත්තිකයා නිර්දේශ කරන පරිදි. දියවැඩියාව හෝ අධික රුධිර පීඩනය ඇති අයට සාමාන්‍යයෙන් අවම වශයෙන් වසරකට එක් වරක් අවශ්‍ය වේ."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+වයස වැඩි වීමත් සමඟ ශ්‍රවණ හානිය සාමාන්‍ය වන අතර, පර්යේෂකයන් එය ඩිමෙන්ශියා අවදානම් සාධකයක් ලෙස බැරෑරුම් ලෙස සලකති. එයින් ශ්‍රවණ උපකරණ ඩිමෙන්ශියාව වළක්වන බව ඔප්පු වූ ක්‍රමයක් බවට පත් නොවේ; මෙතෙක් ඇති හොඳ ම අත්හදා බැලීමේ ප්‍රතිඵල මිශ්‍ර විය. මෙම පිටුව පර්යේෂණය පවසන දේ, ශ්‍රවණය පරීක්ෂා කරවා ගන්නා ආකාරය, එක්සත් ජනපදයේ ඖෂධ වෙළඳසැලෙන් ගත හැකි ශ්‍රවණ උපකරණ යනු කුමක්ද, සහ කථාබස් පහසු කරන ආකාරය පැහැදිලි කරයි.
 
-## Why does hearing matter for brain health?
+## ශ්‍රවණය මොළ සෞඛ්‍යයට වැදගත් වන්නේ ඇයි?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+ශ්‍රවණ හානිය ඩිමෙන්ශියා ඉහළ අවදානමක් සමඟ සම්බන්ධ වේ. [2024 Lancet කොමිෂන් සභාව](https://doi.org/10.1016/S0140-6736(24)01296-0) ඇස්තමේන්තු කරන්නේ එය ලොව පුරා ඩිමෙන්ශියාවෙන් දළ වශයෙන් 7%ක් සඳහා වගකිව යුතු බවයි. [UCL හි වාර්තාවේ සාරාංශයට](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) අනුව, කොමිෂන් සභාවේ ආකෘතියේ වෙනස් කළ හැකි සාධක 14 අතර විශාලතම කොටස සඳහා එය ඉහළ LDL කොලෙස්ටරෝල් සමඟ සමානව සිටී.
 
-Key findings from the Commission:
+කොමිෂන් සභාවෙන් ප්‍රධාන සොයාගැනීම්:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **ශ්‍රවණ හානියත් සමඟ ඉහළ අවදානම.** ඉහළ ගුණාත්මක අධ්‍යයන හයක ඒකාබද්ධ විශ්ලේෂණයේදී, ශ්‍රවණ හානියක් ඇති අයට සාමාන්‍ය ශ්‍රවණ ඇති අයට වඩා ඩිමෙන්ශියා අවදානම දළ වශයෙන් 37%කින් වැඩි විය.
+- **වැඩි හානිය, වැඩි අවදානම.** බරපතලකම පරීක්ෂා කළ අධ්‍යයනවල, ශ්‍රවණය නරක වන විට අවදානම ඉහළ ගිය බව හමු විය.
+- **හේතු විය හැකි නමුත් තවමත් ඔප්පු නොවූ.** හුදෙකලාව සහ ඈත් වීම, මානසික අවපීඩනය, මොළයට අඩු උත්තේජනය, සහ සවන් දීමට ගතවන අමතර මානසික වෑයම මෙයට ඇතුළත් වේ.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+ශ්‍රවණ හානිය සාමාන්‍ය ය. [ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) පවසන්නේ වැඩිහිටියන්ගෙන් දළ වශයෙන් තුනෙන් එකක් එය ඇති බවත්, වයස සමඟ අවස්ථාව ඉහළ යන බවත්ය.
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE ශ්‍රවණ උපකරණ අත්හදා බැලීම සොයා ගත්තේ කුමක්ද?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE යනු ශ්‍රවණ උපකරණ සහ සංජානන පිරිහීම ගැන පළමු අහඹු අත්හදා බැලීමයි. එහි ප්‍රතිඵල බොහෝ විට වැරදි ලෙස වාර්තා වේ, එබැවින් [ප්‍රකාශිත අත්හදා බැලීම් වාර්තාවෙන්](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) විස්තර මෙන්න.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **කවුරුන් සහභාගී වූ ද:** වයස 70 සිට 84 දක්වා, ප්‍රතිකාර නොකළ ශ්‍රවණ හානියක් සහ සැලකිය යුතු චින්තන ගැටළු නොමැති වැඩිහිටියන් 977ක්, එක්සත් ජනපදයේ ප්‍රජා ස්ථාන හතරක.
+- **සංසන්දනය කළේ කුමක්ද:** අඩකට ශ්‍රවණ උපකරණ සහ ශ්‍රවණ වෛද්‍යවරයෙකු සමඟ උපදේශන සැසි ලැබුණි. අනෙක් අඩකට සෞඛ්‍ය සම්පන්න වයෝවෘද්ධියය ගැන සෞඛ්‍ය අධ්‍යාපන වැඩසටහනක් ලැබුණි.
+- **ප්‍රධාන ප්‍රතිඵලය:** වසර තුනකට පසු, කණ්ඩායම් දෙක අතර සංජානන පිරිහීමේ **වෙනසක් නොවීය** සමස්තයක් ලෙස.
+- **උප කණ්ඩායම් ප්‍රතිඵලය:** අත්හදා බැලීම ප්‍රභව දෙකකින් සහභාගිවන්නන් බඳවා ගත්තේ ය. දිගුකාලීන හෘද සෞඛ්‍ය අධ්‍යයනයක (ARIC) සහභාගිවන්නන් 238ක් පැමිණියේ ය, එබැවින් ඔවුන් කණ්ඩායමක් ලෙස සංජානන පිරිහීමේ ඉහළ අවදානමක සිටියේ ය. මෙම කණ්ඩායමේ පිරිහීම ශ්‍රවණ උපකරණ සමඟ **48%කින්** මන්දගාමී විය. සෞඛ්‍ය සම්පන්න ප්‍රජා ස්වේච්ඡා සේවකයන් 739ක් අතර පැහැදිලි බලපෑමක් නොතිබුණි.
 
-How to read this honestly:
+මෙය අවංකව කියවන්නේ කෙසේද:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- සමස්ත පිළිතුර බලපෑමක් නැති බව විය.
+- උප කණ්ඩායම් සොයාගැනීම කල්තියා සැලසුම් කර තිබුණත්, එය කුඩා කණ්ඩායමක ද්විතීයික විශ්ලේෂණයකින් ආවේ ය. එය වෙනත් අධ්‍යයනවලින් තහවුරු කළ යුතුය.
+- සහභාගිවන්නන් තමන් කුමන වැඩසටහනේ සිටින්නේදැයි දැන සිටියහ, ඒ මඟින් ප්‍රතිඵලවලට බලපෑ හැකිය.
+- Lancet කොමිෂන් සභාව සාක්ෂි කියවන්නේ, ශ්‍රවණ උපකරණ විශේෂයෙන් ශ්‍රවණ හානියත් තවත් ඩිමෙන්ශියා අවදානම් සාධකත් ඇති අයට උදව් කරන බව පෙනෙන ලෙසය.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+අවසාන නිගමනය: ශ්‍රවණ උපකරණ ඩිමෙන්ශියාව වළක්වන බව ඔප්පු වූ ක්‍රමයක් නොවේ. ඒවා මිනිසුන්ට ඇසීමට, කථාබහට සහභාගී වීමට සහ සම්බන්ධව සිටීමට උදව් කරයි, ඒ නිසාම ඒවා සලකා බැලීමට ප්‍රමාණවත් හේතුවකි.
 
-## How do I know if hearing should be checked?
+## ශ්‍රවණය පරීක්ෂා කළ යුතුද යන්න මා දන්නේ කෙසේද?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA යෝජනා කරන්නේ ඔබ හෝ ඔබ රැකබලා ගන්නා අයෙකු:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- දුරකථනයෙන් මිනිසුන් තේරුම් ගැනීමට අපහසු නම්
+- පුද්ගලයන් දෙදෙනෙකු හෝ වැඩි ගණනකු කථා කරන විට සංවාද අනුගමනය කිරීම අපහසු නම්
+- නිතර අනුන්ගෙන් ඒවා නැවත කියන ලෙස ඉල්ලන්නේ නම්
+- අන් අය පැමිණිලි කරන තරම් රූපවාහිනිය හඬ වැඩි කරන්නේ නම්
+- පසුබිම් ශබ්දය ඇති විට කථාව තේරුම් ගැනීමට අරගල කරන්නේ නම්
+- අන් අය මැසිවිලි කියන බවක් පෙනෙන්නේ නම්
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+ප්‍රාථමික සත්කාර වෛද්‍යවරයෙකුගෙන් ආරම්භ කරන්න, ඔවුන් ඔබව ශ්‍රවණ වෛද්‍යවරයෙකු (ශ්‍රවණ විශේෂඥයෙකු) හෝ කන්, නාසය සහ උගුර වෛද්‍යවරයෙකු වෙත යොමු කළ හැකිය. කන් මල සමුච්චය වීම වෛද්‍යවරයෙකුට පරීක්ෂා කළ හැකි ශ්‍රවණ හානියේ පොදු හේතුවකි. **හදිසි ශ්‍රවණ හානිය වෛද්‍ය හදිසි අවස්ථාවකි**, සහ NIA උපදෙස් දෙන්නේ වහාම වෛද්‍යවරයෙකු බැලීමටයි.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+ශ්‍රවණ හානිය ව්‍යාකූලත්වය ලෙස වැරදියට හඳුනාගත හැකිය. හොඳින් ඇසිය නොහැකි වැඩිහිටියන් සමහර විට වැරදියට ව්‍යාකූල, ප්‍රතිචාර නොදක්වන හෝ සහයෝගී නොවන ලෙස සැලකෙන බව NIA සටහන් කරයි. ඔබ ආදරය කරන අයෙකු ඈත් වී හෝ කියන දේ නොදන්නා බව පෙනෙන්නේ නම්, ශ්‍රවණය පරීක්ෂා කිරීම හොඳ මුල් පියවරකි.
 
-## What are over-the-counter hearing aids?
+## වෙළඳසැලෙන් ගත හැකි ශ්‍රවණ උපකරණ යනු කුමක්ද?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+ඔක්තෝබර් 17, 2022 සිට, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) වෙළඳසැලෙන් ගත හැකි (OTC) ශ්‍රවණ උපකරණ ප්‍රවර්ගයකට ඉඩ දී ඇත. ඒවා වට්ටෝරු ශ්‍රවණ උපකරණවලට සාපේක්ෂව මෙසේ සසඳයි:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| ලක්ෂණය | වෙළඳසැලෙන් ගත හැකි ශ්‍රවණ උපකරණ | වට්ටෝරුවෙන් ලැබෙන ශ්‍රවණ උපකරණ |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| ඒවා කා සඳහාද | වයස 18 සහ ඊට වැඩි, සැහැල්ලු සිට මධ්‍යම ශ්‍රවණ හානියක් ඇති බවට හඟින වැඩිහිටියන් | ඕනෑ ම මට්ටමේ ශ්‍රවණ හානියක්, ඕනෑ ම වයසක අය |
+| ඒවා ලබා ගන්නේ කොහෙන්ද | වෙළඳසැල් හෝ මාර්ගගත, පරීක්ෂණයක් හෝ වට්ටෝරුවක් අවශ්‍ය නැත | බලපත්‍රලාභී ශ්‍රවණ වෘත්තිකයෙකු හරහා |
+| සකස් කිරීම | ඔබ ම සැකසුම් සකස් කරයි, බොහෝ විට යෙදුමකින් | වෘත්තිකයෙකු ඔබේ ශ්‍රවණයට අනුව ඒවා වැඩසටහන් කරයි |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA පවසන්නේ OTC උපකරණ දරුණු හෝ ගැඹුරු ශ්‍රවණ හානියක් සඳහා නොවන බවයි. ඔබට පහත ඕනෑම දෙයක් තිබේ නම් මිලදී ගැනීමට පෙර, පළමුව වෛද්‍යවරයෙකු, ප්‍රිය වශයෙන් කන්, නාසය සහ උගුර විශේෂඥයෙකු බැලීමට එය උපදෙස් දෙයි:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- කන් වේදනාව හෝ අපහසුතාව
+- පසුගිය මාස හයේ කනෙන් තෙතමනය, අස්රාව හෝ රුධිරය
+- හදිසි හෝ වෙනස් වන ශ්‍රවණ වෙනස්වීම්
+- එක් කනක දුර්වල ශ්‍රවණය, හෝ එක් කනක පමණක් ශබ්දය
+- කරකැවිල්ල හෝ ස්ථානයේ කැරකීම
+- කන් මල බොහෝ ප්‍රමාණයක්
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+ශ්‍රවණ උපකරණවලට හුරු වීමට පුහුණුව අවශ්‍ය වන බැවින්, FDA යෝජනා කරන පරිදි මිලදී ගැනීමට පෙර ආපසු භාර ගැනීමේ ප්‍රතිපත්තිය පරීක්ෂා කරන්න. NIA යෝජනා කරන්නේ ඔබේ රක්ෂණය පිරිවැයෙන් කොටසක් ආවරණය කරන්නේ ද කියා අසන ලෙසයි. ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු සඳහා, දෛනික ජීවිතයේ කළමනාකරණය පහසුම වන ශ්‍රවණ උපකරණ වර්ගය සහ සකස් කිරීම තීරණය කිරීමට ශ්‍රවණ වෛද්‍යවරයෙකුට උදව් කළ හැකිය.
 
-## How can I talk more easily with someone who has hearing loss?
+## ශ්‍රවණ හානියක් ඇති අයෙකු සමඟ මා පහසුවෙන් කථා කරන්නේ කෙසේද?
 
-The NIA suggests:
+NIA යෝජනා කරන්නේ:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **පුද්ගලයා දෙස බලා ඇස් සම්බන්ධතාව තබා ගන්න**, හොඳ ආලෝකයේ, ඔවුන්ට ඔබේ තොල් සහ ප්‍රකාශන දැක ගත හැකි ලෙස.
+2. **නිශ්ශබ්ද ස්ථානයක් සොයා ගන්න.** රූපවාහිනිය නවත්වන්න හෝ ශබ්දයෙන් ඈත් වන්න.
+3. **තරමක් උස් හඬින් කථා කරන්න, නමුත් කෑගසන්න එපා.** ස්වභාවිකව සහ සාධාරණ වේගයකින් කථා කරන්න.
+4. **මුඛය පැහැදිලිව තබා ගන්න.** කථා කරන අතරතුර කන එපා, හපන්න එපා, හෝ මුඛය වසන්න එපා.
+5. **කිසිවක් මග හැරුණු විට නැවත කීමට වඩා වෙනස් ව කියන්න.**
+6. **එක් වරකට එක් පුද්ගලයෙක්.** කණ්ඩායමක, පුද්ගලයා ඇතුළත් කරන බව සැලකිලිමත්ව කරන්න.
+7. **ඉවසිලිමත් වන්න, සහ ඔබට උදව් කළ හැකි ආකාරය ඇසන්න.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+මෙම ඉඟි අපේ [ඩිමෙන්ශියා සන්නිවේදන ඉඟි](/caregiving/communication-tips/) සමඟ හොඳින් ක්‍රියා කරයි. චිත්‍ර පදනම් කරගත් ක්‍රියාකාරකම් ද සවන් දීමේ පීඩනය ඉවත් කරයි. [චිත්‍ර යුගල](/games/picture-pairs/) සහ [සංවාද කාඩ්පත්](/games/conversation-cards/) ඔබ දකින දේ හරහා ක්‍රියා කරන අතර, [කියමන අවසන් කරන්න](/games/finish-the-saying/) ඔබට එය කියනවා වෙනුවට අවසානය පෙන්වීමට ඉඩ දෙයි. ඇමතුම් සඳහා, [දුරකථන සහ වීඩියෝ ඇමතුම්](/activities/phone-and-video-calls/) පිළිබඳ අපේ මාර්ගෝපදේශය බලන්න.
 
-## Vision matters too
+## දෘෂ්ටිය ද වැදගත් ය
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 දී Lancet කොමිෂන් සභාව ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය නව අවදානම් සාධකයක් ලෙස එක් කළේ ය. UCL හි සාරාංශය එය ඩිමෙන්ශියා රෝග විනිශ්චයන්ගෙන් දළ වශයෙන් 2%කට ආසන්න ලෙස ඇස්තමේන්තු කරන අතර, කොමිෂන් සභාව දෘෂ්ටි ගැටළු සඳහා පරීක්ෂාව සහ ප්‍රතිකාර සියල්ලන්ට ලබා ගත හැකි කරන ලෙස නිර්දේශ කරයි. [NIA උපදෙස් දෙන්නේ](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) වයස 60 න් පසු සෑම වසරකම හෝ වසර දෙකකට වරක් විස්තීර්ණ ඇස් පරීක්ෂණයක් සහ කණ්ණාඩි වට්ටෝරු පරීක්ෂා කරන ලෙසයි. දෘෂ්ටියේ කුඩා වෙනස්කම් පවා වැටීම්වල අවදානම ඉහළ නැංවිය හැකිය.
 
-## Talk with a doctor
+## වෛද්‍යවරයෙකු සමඟ කථා කරන්න
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+ඉහත ලකුණුවලින් ඕනෑ ම එකක් ඔබ දකින්නේ නම්, ශ්‍රවණ සහ දෘෂ්ටි පරීක්ෂා කිරීම ගැන වෛද්‍යවරයෙකුගෙන් අසන්න. හදිසි ශ්‍රවණ හානිය, කන් වේදනාව, හෝ කනෙන් තෙතමනය සඳහා වහාම සත්කාර ලබා ගන්න. ඔබ ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු රැකබලා ගන්නේ නම්, ශ්‍රවණ හෝ දෘෂ්ටි වෙනස්කම් ගැන ඔවුන්ගේ වෛද්‍යවරයාට කියන්න, මන්ද ඒවා මනෝභාවය, ආරක්ෂාව සහ පුද්ගලයා සහභාගී වීමේ හැකියාව කෙරෙහි බලපෑ හැකිය.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+මෙම පිටුව සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. අපේ [වෛද්‍ය වගකීම් ප්‍රකාශය](/medical-disclaimer/) බලන්න. [සමාජ සම්බන්ධතාව සහ මොළ සෞඛ්‍යය](/brain-health/social-connection/) ගැන වැඩි දුර කියවන්න.
