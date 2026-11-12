@@ -53,7 +53,7 @@ def languages() -> list[dict]:
     seen = set()
     with open(CSV, newline='') as f:
         for row in csv.reader(f):
-            if not row or not row[0].strip() or row[0].strip() == '639-1':
+            if not row or not row[0].strip() or row[0].strip() == 'Locale code':
                 continue
             code = row[0].strip()
             if code in seen:
@@ -511,7 +511,7 @@ def guide_paths(selected: list[str] | None = None) -> list[str]:
         return available
     result = []
     for raw in selected:
-        value = raw.strip().replace(chr(92), '/')
+        value = raw.strip().replace('\\', '/')
         if not value:
             continue
         if value.startswith('/') or '..' in Path(value).parts:

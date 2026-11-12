@@ -56,7 +56,6 @@ class AgyTranslateTests(unittest.TestCase):
         self.assertIn("retry in 5s", str(error.exception))
 
 
-
     def test_language_catalog_has_185_unique_codes_including_south_azerbaijani(self) -> None:
         codes = [language['code'] for language in agy_translate.languages()]
         self.assertEqual(len(codes), 185)
@@ -69,7 +68,7 @@ class AgyTranslateTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             csv_path = Path(tmp) / 'languages.csv'
             csv_path.write_text(
-                '639-1,639-2/T,639-2/B,Language name,Native name\n'
+                'Locale code,639-2/T,639-2/B,Language name,Native name\n'
                 'aa,aar,aar,Afar,Afaraf\n'
                 'aa,aa,aa,Duplicate,Duplicate\n',
                 encoding='utf-8',
