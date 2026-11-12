@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Trivia Fácil para Idosos com Demência, Sem Pressão"
+seoTitle: "Perguntas de Trivia para Idosos com Demência, com Respostas"
+description: "50 perguntas fáceis de trivia para idosos com demência, com opções de resposta e temas para conversar, e como conduzir a brincadeira sem que ninguém se sinta testado."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Trivia fácil para idosos com demência funciona quando parece um bate-papo, não
+  uma prova. Pergunte sobre coisas aprendidas há muito tempo, como músicas antigas,
+  ditados, feriados e a vida do dia a dia, e sempre ofereça duas ou três opções.
+  Dê a resposta com naturalidade, nunca destaque ninguém, deixe a pontuação de
+  lado e use cada resposta para começar uma história. Perguntas de "isto ou
+  aquilo", sem resposta errada, combinam com as fases mais avançadas.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Pergunte sobre coisas há muito familiares: músicas, ditados, feriados, comidas e a vida cotidiana de anos atrás."
+  - "Ofereça duas ou três opções, para que a resposta seja reconhecida e não lembrada do zero."
+  - "Diga a resposta com carinho e siga em frente. Qualquer palpite que inicie uma história é um bom palpite."
+  - "Sem pontos, sem equipes disputando, sem chamar uma pessoa específica. Deixe as respostas virem de todo o grupo."
+  - "Quando escolher entre respostas ficar difícil, passe para perguntas de isto ou aquilo, sem resposta certa."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Trivia é uma boa atividade para pessoas com demência?"
+    a: "Pode ser, se for conduzida com delicadeza. A Alzheimer's Foundation of America inclui a trivia entre as atividades para a fase inicial. Mantenha perguntas sobre temas há muito familiares, ofereça opções, nunca coloque uma pessoa em evidência e trate as respostas como uma porta para a conversa, e não como um teste."
+  - q: "Quais temas funcionam melhor na trivia para demência?"
+    a: "Coisas aprendidas há muito tempo costumam funcionar melhor: músicas e cantores populares da juventude da pessoa, ditados conhecidos, feriados, comidas, esportes e a vida do dia a dia, como a entrega de leite e os telefones de disco. Evite notícias recentes e qualquer coisa que exija lembrar algo dito antes na mesma sessão."
+  - q: "Como conduzir trivia em uma instituição sem constranger ninguém?"
+    a: "Leia cada pergunta para o grupo inteiro, mostre ou diga as opções e receba respostas de qualquer pessoa. Não chame pessoas individualmente nem marque pontos. Diga a resposta com um sorriso, qualquer que tenha sido o palpite, e faça uma pergunta de acompanhamento, como 'Quem aqui já foi a um drive-in?', para transformar aquilo em histórias."
+  - q: "O que posso fazer no lugar da trivia nas fases avançadas?"
+    a: "Passe para perguntas sem resposta errada, como 'Café ou chá?' ou 'Praia ou montanha?', e para completar ditados ou músicas conhecidas juntos. Olhar fotos e descrevê-las juntos também funciona muito bem."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+A trivia é uma das atividades em grupo mais pedidas em instituições de longa permanência e centros-dia, e muitas famílias também jogam na mesa da cozinha. Feita do jeito usual, com pontos e uma pessoa respondendo, pode deixar quem tem demência com a sensação de estar em evidência. Conduzida com delicadeza, é uma forma animada de ouvir histórias. Abaixo estão 50 perguntas fáceis, com opções de resposta e um tema para conversar sobre cada uma, seguidas de como conduzir uma sessão.
 
-## How do you make trivia work for someone with dementia?
+## Como fazer a trivia funcionar para quem tem demência?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Faça com que seja sobre reconhecer e lembrar coisas de muito tempo atrás, e acolha cada resposta.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Pergunte sobre o passado distante.** A [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) diz que o sintoma inicial mais comum do Alzheimer é a dificuldade para lembrar informações recém-aprendidas. Músicas, ditados e a vida cotidiana de décadas atrás costumam ser um terreno mais fácil.
+2. **Ofereça sempre opções.** Escolher a resposta certa entre duas ou três é muito mais fácil do que produzi-la do nada.
+3. **Leia as perguntas em voz alta e mostre-as em letras grandes.** Um quadro branco ou um tablet erguido ajuda quem ouve menos bem.
+4. **Dê a resposta com naturalidade.** Se ninguém souber, diga com carinho e siga em frente. Nunca diga "Vamos, você sabe isso".
+5. **Sem pontuação.** Nem para pessoas, nem para mesas. Se quiserem um número, mantenha apenas um total do grupo.
+6. **Nunca chame uma pessoa específica.** Deixe as respostas virem de qualquer um. Em uma conversa a dois, respondam juntos: "Acho que é o piano. O que você acha?"
+7. **Use o tema da conversa.** A resposta é o começo, não o fim. As histórias são o verdadeiro objetivo.
+8. **Mantenha curto.** Dez perguntas com histórias entre elas já são suficientes.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) resume a regra básica de forma simples: observe a frustração e garanta que a pessoa se sinta bem-sucedida. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclui a trivia entre as atividades para a fase inicial. Na fase intermediária, mantenha duas opções e apoie-se nos temas de conversa. Mais tarde, passe para as perguntas de isto ou aquilo mais adiante.
 
-## Music and entertainment trivia
+## Trivia de música e entretenimento
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+A resposta está em **negrito**. Adapte estas perguntas à pessoa: quem cresceu ouvindo Motown vai querer outros cantores de quem cresceu com as big bands.
 
-| Question | Choices | Talk about |
+| Pergunta | Opções | Sobre o que conversar |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Quem era chamado de Rei do Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Você chegou a ver o Elvis na TV? |
+| Qual cantor era apelidado de Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Qual música do Sinatra você mais gosta? |
+| Bing Crosby cantava sobre um Natal... | **Branco**, de casamento, de casa | Cantem um trecho juntos |
+| Louis Armstrong cantava "Que ... Maravilhoso" | Dia, **Mundo**, Vida | O que torna o mundo maravilhoso para você? |
+| "Over the Rainbow" foi cantada por Judy Garland em qual filme? | **O Mágico de Oz**, E o Vento Levou, Cantando na Chuva | Onde você assistia aos seus filmes favoritos? |
+| Quem fazia o papel de Lucy em "Eu Amo Lucy"? | **Lucille Ball**, Doris Day, Betty White | Quais programas sua família assistia junta? |
+| Qual caubói montava um cavalo chamado Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Você brincava de caubói quando criança? |
+| Quem apresentou o "The Tonight Show" por 30 anos? | Ed Sullivan, **Johnny Carson**, Bob Hope | Você ficava acordado até tarde para ver TV? |
+| Qual instrumento tem 88 teclas? | Violão, **piano**, trompete | Alguém da sua família tocava? |
+| Qual dança é contada um-dois-três, um-dois-três? | **Valsa**, twist, tango | Onde vocês iam dançar? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Para mais sobre música, veja [atividades com música para demência](/activities/music/).
 
-## Everyday life trivia
+## Trivia da vida cotidiana
 
-| Question | Choices | Talk about |
+| Pergunta | Opções | Sobre o que conversar |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Antes das geladeiras, muitas casas mantinham a comida fria em uma... | **Caixa de gelo**, forno, sótão | Quem entregava o gelo? |
+| Quem levava leite até a porta em garrafas de vidro? | O carteiro, **o leiteiro**, o entregador de jornal | O que mais era entregue em casa? |
+| Como você discava em um telefone de disco? | Apertando botões, **girando um disco**, falando com ele | Conte sobre o telefone da sua casa |
+| Qual empresa fabricava o carro Model T? | **Ford**, Chevrolet, Buick | Conte sobre um carro de que você gostava |
+| Onde você encontraria um atendente de soda fountain? | **Uma lanchonete com fonte de refrigerantes**, uma padaria, um banco | O que você pedia no balcão? |
+| Qual brinquedo é uma mola de metal que desce escadas? | Ioiô, **Slinky**, bambolê | Quais brinquedos você amava? |
+| Um drive-in era um lugar para assistir a... | **Filmes do seu carro**, jogos de bola, desfiles | Com quem você ia? |
+| De quem é o rosto na nota de um dólar? | Lincoln, **George Washington**, Jefferson | O que um dólar comprava naquela época? |
+| De quem é o rosto na moeda de um centavo? | **Abraham Lincoln**, Washington, Franklin | Você guardava centavos em um pote naquela época? |
+| De que cor costuma ser um ônibus escolar? | Vermelho, **amarelo**, azul | Como você chegava à escola? |
 
-## Holidays, nature and places
+## Feriados, natureza e lugares
 
-| Question | Choices | Talk about |
+| Pergunta | Opções | Sobre o que conversar |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Qual feriado cai na quarta quinta-feira de novembro? | Dia do Trabalho, **Ação de Graças**, Memorial Day | O que sempre estava na mesa de vocês? |
+| Abóboras entalhadas (jack-o'-lanterns) são feitas para qual feriado? | **Halloween**, Páscoa, Natal | Conte sobre o Halloween da sua infância |
+| O 4 de julho comemora a Declaração de... | Direitos, **Independência**, Liberdade | Onde você via os fogos de artifício? |
+| O Dia das Mães é em qual mês? | Abril, **maio**, junho | Como sua família comemorava? |
+| Quantas estrelas tem a bandeira americana? | 48, **50**, 52 | A bandeira teve 48 estrelas até 1959. Qualquer resposta é uma boa lembrança |
+| Qual oceano fica na costa leste? | Pacífico, **Atlântico**, Ártico | Você já foi à praia? |
+| Em qual cidade fica a Estátua da Liberdade? | Boston, **Nova York**, Filadélfia | Você já esteve em Nova York? |
+| O que as abelhas produzem? | Leite, **mel**, seda | Mel na torrada ou no chá? |
+| Um filhote de vaca é chamado de... | Potro, **bezerro**, cabrito | Você morou perto de uma fazenda? |
+| Qual flor alta e amarela é famosa por se virar para o sol? | Rosa, **girassol**, tulipa | O que crescia no seu jardim? |
+| Quantos dias tem um ano bissexto? | 365, **366**, 360 | Conte sobre um aniversário que você lembra |
+| Qual estação vem depois do inverno? | Outono, **primavera**, verão | Qual é a sua estação favorita? |
 
-## Food and sports trivia
+## Trivia de comida e esportes
 
-| Question | Choices | Talk about |
+| Pergunta | Opções | Sobre o que conversar |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Passas são uvas... | Ameixas, **uvas**, cerejas | Vocês colocavam passas nas marmitas? |
+| Ameixas secas são... | **Ameixas**, figos, maçãs | Quem na sua família adorava ameixa seca? |
+| Manteiga de amendoim e... | **Geleia**, queijo, presunto | Crocante ou cremosa? |
+| Guacamole é feito principalmente de... | Ervilhas, **abacates**, pepinos | Que molhos apareciam nas festas? |
+| Qual torta é a favorita do Dia de Ação de Graças? | **Abóbora**, limão, cereja | Qual torta você fazia? |
+| Quantos jogadores de um time de beisebol estão em campo? | 7, **9**, 11 | Qual time você torcia? |
+| Quantos strikes fazem uma eliminação no beisebol? | Dois, **três**, quatro | Você chegou a jogar bola? |
+| Babe Ruth era famoso por qual esporte? | Boxe, **beisebol**, golfe | Você ia a jogos de bola? |
+| Quantos buracos tem um campo de golfe padrão? | 9, **18**, 24 | Você já jogou golfe ou minigolfe? |
+| Em qual esporte se marca um touchdown? | **Futebol americano**, hóquei, basquete | Quem assistia futebol americano na sua casa? |
 
-## Familiar sayings
+## Ditados conhecidos
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Completar um ditado recorre a uma linguagem aprendida há muito tempo e costuma vir com facilidade. Nosso jogo [Complete o ditado](/games/finish-the-saying/) tem muitos outros, com um toque para mostrar qualquer final.
 
-| Saying | Choices | Talk about |
+| Ditado | Opções | Sobre o que conversar |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| De grão em grão, a galinha enche o... | **papo**, prato, galinheiro | Quem dizia isso para você? |
+| Quem cedo madruga... | **Deus ajuda**, dorme bem, come bem | Você é de acordar cedo? |
+| Não venda a pele do urso antes de... | **matá-lo**, vê-lo, encontrá-lo | Sua família criava galinhas? |
+| Quem guarda sempre... | **tem**, perde, gasta | Quem era o econômico da sua família? |
+| O lar é onde está o... | Jardim, **coração**, cozinha | O que faz um lugar parecer um lar? |
+| Mais vale tarde do que... | Cedo, **nunca**, desculpas | Quem sempre se atrasava? |
+| Há males que vêm para o... | **bem**, mal, dia | Conte sobre uma sorte inesperada |
+| Atos valem mais do que... | **palavras**, músicas, trovões | Conte sobre alguém que dizia isso |
 
-## This-or-that questions with no wrong answer
+## Perguntas de "isto ou aquilo", sem resposta errada
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Estas perguntas servem a todas as fases, inclusive as mais avançadas, porque não há nada para acertar. Pergunte, ouça e compartilhe também a sua resposta.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Café ou chá?
+- Praia ou montanha?
+- Cachorros ou gatos?
+- Verão ou inverno?
+- Torta ou bolo?
+- Dançar ou assistir?
+- Nascer do sol ou pôr do sol?
+- Varanda da frente ou quintal?
+- Rádio ou discos?
+- Panquecas ou ovos?
+- Rosas ou margaridas?
+- Viagem de trem ou viagem de carro?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Para sugestões de conversa com figuras, experimente as [cartas de conversa](/games/conversation-cards/) imprimíveis.
 
-## How do you run a trivia session in a care home or group?
+## Como conduzir uma sessão de trivia em uma instituição ou grupo?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Posicione as pessoas para que vejam e ouçam bem.** Aparelhos auditivos ligados, óculos colocados, TV desligada.
+2. **Apresente como um bate-papo.** "Tenho algumas perguntas sobre os velhos tempos, e aposto que vocês sabem mais do que eu."
+3. **Leia cada pergunta duas vezes e mostre as opções em letras grandes.**
+4. **Receba respostas de qualquer lugar da sala.** Repita as boas respostas para que todos ouçam.
+5. **Diga a resposta para todos,** depois leve o tema de conversa para a sala.
+6. **Acompanhe o ritmo do grupo.** Se uma pergunta começar dez minutos de histórias, deixe.
+7. **Termine com uma música ou uma rodada de isto ou aquilo,** para que todos encerrem com algo leve.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Para outros formatos em grupo, incluindo bingo com figuras e cantorias, veja [atividades em grupo para instituições](/activities/care-home-groups/).
 
-## When to change the plan
+## Quando mudar o plano
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Se alguém parecer preocupado, ficar em silêncio ou disser "Não sei" mais de uma vez, facilite: deixe só duas opções, respondam juntos ou passe para perguntas de isto ou aquilo. Se o grupo preferir falar sobre uma única pergunta a tarde toda, isso é um sucesso. O objetivo nunca foram as respostas certas. Foi o tempo em boa companhia.
