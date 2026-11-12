@@ -89,4 +89,4 @@ Roga quem adire si persona aegrotat, abest vel mutatione auxilii indiget. Consil
 
 Programma diurnum adultorum una pars latioris consilii auxilii esse potest. [Consilium de curatione sui ipsius](/caregiving/caregiver-self-care/) vias ad pausas ordinandas continet, et [actiones pro coetibus in domibus curae](/activities/care-home-groups/) ideas simplices pro coetibus offert.
 
-Programma rectum est quod persona experiri velit et quod necessitates eius sustinere possit. Visita, direcas quaestiones roga et mutationes fac ex eo quomodo persona sentiat.
+Programma rectum est quod persona experiri velit et quod necessitates eius sustinere possit. Visita, directas quaestiones roga et mutationes fac ex eo quomodo persona sentiat.

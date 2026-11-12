@@ -1,7 +1,7 @@
 ---
 title: "Eligere Auxilium Domesticum pro Persona cum Dementia"
 seoTitle: "Cura Domi cum Dementia: Eligere Auxilium"
-description: "Elige auxilium domi cum dementia, definiens quod auxilium necessarium est, rogans de experientia et substitutione, personam in electione includens et pretia ac condiciones probans."
+description: "Elige auxilium domi cum dementia: defini necessitates, roga de experientia et substitutione, persona in electione includatur, pretia proba."
 section: caregiving
 order: 24
 updated: 2026-11-11
@@ -13,7 +13,7 @@ summary: >-
 keyPoints:
   - "Enumera munera et tempora certa quibus auxilium rem mutaret."
   - "Roga de experientia cum dementia, institutione, commendationibus et substitutione."
-  - "Cum persona provisorem convenī et vide utrum respectu loqui possit."
+  - "Cum persona provisorem convenis et vide utrum respectu loqui possit."
   - "Munera, horarium, pretia et rationem contactus ante initium servitii statue."
 faq:
   - q: "Quae genera auxilii domi pro dementia praesto sunt?"

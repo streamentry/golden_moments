@@ -67,7 +67,7 @@ Dementia Australia suadet ut colloquia brevia et iterata fiant, cum attentione a
 
 Scribe eventus concretos et quando acciderint. Exempla fortasse sunt confusio ad intersectionem, perditio viae ad locum familiarem, signa non animadversa vel novum damnum in vehiculo. Adnota quid persona de itinere dixerit et quas mutationes sanitatis vel medicamentorum discutere velit.
 
-Notas veras et privatas serva. Ne clam persona registres, eam sequaris vel probes. Si persona consentit, familiaris qui in vehiculo fuit quid observaverit communicare potest. Descriptio clara medico vel peritO aliquid speciale tradit quod discutiat; causam non diagnoscit neque aptitudinem ad vehiculum agendum determinat.
+Notas veras et privatas serva. Ne clam persona registres, eam sequaris vel probes. Si persona consentit, familiaris qui in vehiculo fuit quid observaverit communicare potest. Descriptio clara medico vel perito aliquid speciale tradit quod discutiat; causam non diagnoscit neque aptitudinem ad vehiculum agendum determinat.
 
 Signa monitoria in [consilio Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/dementia-driving) sunt causae ut consilium professionale petas. Singularem aestimationem non suppleant. Roga medicum personae de commendatione ad medicam occupationis vel alium peritum rehabilitationis vectionis qualificatum. Leges licentiarum loci apud auctoritatem regionalem vel civitatis confirma.
 
@@ -81,7 +81,7 @@ Itinerum ac servitiorum alteram partem cum persona experire antequam unica optio
 
 ## Quid si proximum iter periculosum esse puto?
 
-Sollicitudinem serio cape et alia via iter fac, dum celeriter consilium petis. Si persona repente confusa fit, [consilium NHS auxilium medicum statim petere suadet]; utere servitiis urgentiae loci. Mutatio repentina in modo quo persona agit non debet tractari ut ordinaria dissensio de vectione.
+Sollicitudinem serio cape et alia via iter fac, dum celeriter consilium petis. Si persona repente confusa fit, [Consilium NHS medicam opem statim petere suadet](https://www.nhs.uk/symptoms/confusion/); utere servitiis urgentiae loci. Mutatio repentina in modo quo persona agit non debet tractari ut ordinaria dissensio de vectione.
 
 Pro aliis gravibus sollicitudinibus, medicum personae et auctoritatem licentiarum loci contacta de gradibus qui ubi habitat valent. Noli promissioni familiari vel huic paginae confidere ad decernendas iuris exigentias. Si possibile, personae immediatum consilium explica et eam in proximis rebus includas.
 
