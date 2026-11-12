@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Arti dhe zanatet për të rriturit me demencë"
+seoTitle: "Arti dhe zanatet për demencën: për të rritur"
+description: "Ide arti dhe zanatesh për të rriturit me demencë, nga akuarela dhe kolazhi te aranxhimi i luleve, me këshilla për përgatitjen, përshtatjen dhe procesin mbi produktin."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Arti dhe zanatet e mira për të rriturit me demencë duken dhe ndihen të pjekura:
+  akuarelë, kolazh nga revistat, aranxhim lulesh, argjilë, kartolina të thjeshta
+  ose faqe ngjyrosjeje për të rritur. Përgatitni disa materiale, ndihmoni me
+  goditjen e parë nëse nevojitet, flisni ndërsa punoni dhe e konsideroni kohën
+  bashkë si qëllimin. Një vepër e përfunduar është opsionale.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Zgjidhni materiale dhe tema që duken për të rritur, si letër akuarele, lule të vërteta dhe imazhe nga revistat, jo shkëlqim, ngjitëse me figura ose fletë karikaturash."
+  - "Përqendrohuni te procesi: ngjyrat, ndjesia e argjilës, biseda. Një vepër e gatshme është një bonus, jo qëllimi."
+  - "Jepni një qëllim kur mundeni, si një kartolinë për një nip ose një qendërpiesë për tryezën."
+  - "Ndihmoni personin të fillojë, pastaj tërhiquni. Fillimi së bashku i një goditje me penel shpesh mjafton."
+  - "Projektet nuk duhet të përfundohen në një seancë, dhe ndalimi i hershëm është gjithmonë në rregull."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Si i mbaj zanatet larg asaj që duket fëminore?"
+    a: "Përdorni materiale të vërteta arti, tema për të rritur dhe një ton respektues. Zëvendësoni shkëlqimin dhe faqet me karikatura me letër akuarele, pëlhurë, lule, foto nga revistat dhe faqe ngjyrosjeje të detajuara. Mos e lavdëroni punën si lavdëroni vizatimin e një fëmije; flisni për të si me një mik të rritur."
+  - q: "Çfarë aktivitetesh artistike funksionojnë në fazën e vonë të demencës?"
+    a: "Projektet e thjeshta dhe shqisore funksionojnë më mirë më vonë: pikturim me goditje të gjera me penel të madh, shtypja e argjilës së butë, aranxhimi i disa luleve në një vazo, ose renditja e mostrave të pëlhurës sipas prekjes. Mund t'ju duhet të filloni lëvizjen bashkë. Shikimi i juaj duke pikturuar dhe biseda për ngjyrat është gjithashtu një mënyrë për të marrë pjesë."
+  - q: "Çfarë nëse thonë se nuk dinë të vizatojnë?"
+    a: "Hiqni presionin. Provoni projekte pa përgjigje të saktë, si një shtresë akuarele, një kolazh ose aranxhim lulesh. Mund të thoni edhe se keni nevojë për ndihmë me diçka specifike, si zgjedhja e ngjyrave për një kartolinë, që detyra të ndihet si një favor, jo si provim."
+  - q: "A janë faqet e ngjyrosjes shumë fëminore për të rritur?"
+    a: "Jo kur janë projektuar për të rritur. Zgjidhni faqe me tema të rritura si kopshte, batanije, makina ose peizazhe, dhe paraqitini si relaksuese, jo si mësim. Faqet tona të ngjyrosjes mund të printohen ose të ngjyrosen në tablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Arti dhe zanatet u japin personave me demencë një mënyrë për të shprehur veten që nuk varet nga gjetja e fjalëve të duhura. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) thotë se projektet artistike mund të sjellin [ndjenjën e arritjes dhe qëllimit](https://www.alz.org/help-support/caregiving/daily-care/art-music) dhe një mundësi për vetë-shprehje, si për kujdestarin ashtu edhe për personin me demencë. Çelësi është ta mbani gjithçka të rritur, të thjeshtë dhe pa presion. Kjo faqe jep projekte specifike, si t'i përgatitni ato dhe si t'i përshtatni ndërsa ndryshojnë gjërat.
 
-## What makes an art activity adult and not childish?
+## Çfarë e bën një aktivitet artistik për të rritur dhe jo fëminor?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Një aktivitet artistik për të rritur përdor materiale të vërteta, tema të rritura dhe një ton respektues. Alzheimer's Association këshillon mbajtjen e projekteve në nivel për të rritur dhe shmangien e çdo gjëje që mund të duket poshtëruese ose fëminore.
 
-| Feels childish | Feels adult |
+| Duket fëminore | Duket për të rritur |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Shkëlqim, ngjitëse me shkumë, sy me lëvizje | Letër akuarele, pëlhurë, lule të shtypura |
+| Fletë ngjyrosjeje me karikatura | Faqe ngjyrosjeje me kopshte, batanije, makina ose peizazhe |
+| Lëvdata „Punë e mirë" për çdo shenjë | Bisedë e vërtetë: „Ajo ngjyrë blu është bukur pranë të gjelbrit" |
+| Një zanat pa përdorim | Një kartolinë për një shok, një qendërpiesë, një dhuratë |
+| Udhëzimet lexohen si mësim | Një ftesë: „A do të më ndihmoni me këtë?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Mendoni për shijen e vetë personit. Dikush që e donte punën me thurje mund të shijojë trajtimin e pëlhurës. Një inxhinier në pension mund të preferojë një kit modeli me pjesë të mëdha ose renditjen e pajisjeve për një projekt. Një ish-mësues mund të shijojë krijimin e kartolinave.
 
-## Why focus on the process, not the product?
+## Pse të fokusohemi te procesi, jo te produkti?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Sepse koha bashkë është qëllimi. Udhëzuesi i Alzheimer's Association për [aktivitetet në shtëpi](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) thotë të përqendroheni te procesi, jo te rezultati. Një pikturë që është „vetëm blu" është prapë pikturë. Një kolazh me tre foto është prapë kolazh.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Shoqata vëren gjithashtu se një piktor profesionist mund të frustrohet nga ndryshimet në punën e tij, ndërsa një amator mund të shijojë një mundësi të re për të shprehur veten. Nëse personi ishte një artist i aftë, provoni një mjet tjetër nga ai që zotëronte, që të ndihet si lojë, jo si krahasim.
 
-## Arts and crafts ideas to try
+## Ide për arte dhe zanate për të provuar
 
-Each idea includes how to make it simpler if it becomes hard.
+Çdo ide përfshin si ta bëni më të thjeshtë nëse bëhet e vështirë.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Shtresa akuarele.** Lagni një fletë letër të rëndë akuarele dhe lëreni personin të hedhë ngjyrë mbi të me një penel të madh. Ngjyrat përhapen vetvetiu, kështu që nuk ka rezultat të gabuar. *Më e thjeshtë:* ofroni vetëm dy ngjyra, ose pikturoni me ujë mbi letër të errët që shfaq shenjat e lagështa.
+2. **Kolazh nga revista.** Prisni përpara imazhe nga revista për kopshtari, gatim, makina, udhëtime ose hobitë e vjetra të personit. Lëreni të zgjedhë dhe të ngjisë imazhet mbi karton. *Më e thjeshtë:* ofroni katër imazhe të paraprera dhe një ngjitës stick, dhe bëni ngjitjen bashkë.
+3. **Aranxhim lulesh.** Alzheimer's Foundation of America sugjeron [aranxhimin e luleve të prera dhe gjelbërimit](https://alzfdn.org/dementia-activity-gardening/) në shfaqje të thjeshta sezonale. Përdorni një vazo të rëndë dhe të qëndrueshme, me kërcell të tashmë të prerë. *Më e thjeshtë:* vendosni disa kërcell në një filxhan të vogël, një nga një.
+4. **Kartolina me lule të shtypura.** Shtypni lule nga një buqetë mes faqeve të librit për një javë, pastaj ngjitini mbi karton të palosur. *Më e thjeshtë:* ju vendosni ngjitësin, ndërsa personi shtyp lulen poshtë.
+5. **Faqe ngjyrosjeje për të rritur.** Zgjidhni faqe me kontur të qartë dhe tema reale. Faqet tona [për ngjyrosje](/games/coloring/) mund të printohen, ose të ngjyrosen edhe në ekran duke prekur një ngjyrë, pastaj një pjesë të figurës. *Më e thjeshtë:* zona më të mëdha, më pak ngjyra, flomaster të trashë.
+6. **Argjilë ose brumë i butë.** Rrokullisni, shtypni dhe formoni argjilën që thahet në ajër ose brumin e modelimit. Shtypja e një gjethe në argjilë krijon një pllakë të thjeshtë me gjurmë. *Më e thjeshtë:* vetëm shtypja dhe rrokullisja janë një aktivitet i plotë. Kujdesuni që personi të mos e fusë argjilën në gojë.
+7. **Krijimi i kartolinave.** Alzheimer's Association sugjeron ta paraqisni si një detyrë reale: „Po i dërgojmë një kartolinë shërimi një shoku. A do të më ndihmoni?" Karton i parapreprerë dhe disa ngjitëse me lule ose vula funksionojnë mirë.
+8. **Albume kujtimesh.** Vendosni kopje të fotove të vjetra, kartolinave ose biletave mbi faqe albumi bashkë. Flisni për secilën ndërsa punoni. Shihni [udhëzuesin tonë për kujtimet](/activities/reminiscence/) për mënyra të butë për të folur për të kaluarën.
+9. **Dërrasa me pëlhura dhe tekstura.** Ngjitni copa kadifeje, velloi, xhute dhe mëndafshi mbi karton të fortë. Bërja e saj është aktiviteti; prekja e saj më vonë është një tjetër. Më shumë ide janë në [udhëzuesin tonë për aktivitetet shqisore](/activities/sensory/).
+10. **Lëmimi i thjeshtë i drurit.** Për dikë që i pëlqente punimi me dru, lëmimi i një blloku të lëmuar druri ose pikturimi i një kutie zogjsh mund të ndihet i njohur. Hiqni mjetet e mprehta dhe mbikëqyreni.
+11. **Pikturim me muzikë.** Vendosni një regjistrim të preferuar dhe pikturoni forma ose ngjyra që përputhen me humorin. Kjo bashkon dy aktivitete që shumë njerëz i shijojnë. Shihni [aktivitetet me muzikë](/activities/music/).
 
-## How do I set up an art session?
+## Si përgatit një seancë arti?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Përgatitni më parë.** Prisni, rregulloni dhe vendosni gjithçka para se ta ftoni personin. Pritja ndërsa kërkoni gërshërë mund ta humbasë momentin.
+2. **Mbajeni të vogël.** Dy ose tre ngjyra, një penel, një fletë letër. Shumë zgjedhje mund të lodhin.
+3. **Mbroni tryezën.** Një mbulesë plastike ose një çarçaf i vjetër do të thotë që pisllëku nuk është shqetësim.
+4. **Uluni krah për krah.** Punoni në veprën tuaj pranë asaj të tyre. Ndihet e përbashkët, jo e mbikëqyrur.
+5. **Ndihmoni ta fillojnë.** Alzheimer's Association thotë se mund t'ju duhet të filloni lëvizjen e penelit bashkë me personin. Pasi të fillojë, shumë njerëz vazhdojnë.
+6. **Flisni ndërsa punoni.** Komentoni ngjyrat dhe teksturat, ose lëreni artin të çojë në histori. Shmangni pyetjet në stilin e testit si „Çfarë është kjo?".
+7. **Lini kohë të mjaftueshme.** Një projekt nuk duhet të përfundojë në një seancë.
 
-## How do I adapt art as dementia changes?
+## Si e përshtat artin ndërsa ndryshon demenca?
 
-| Stage | What tends to work | What to adjust |
+| Faza | Çfarë funksionon zakonisht | Çfarë të rregulloni |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| E hershme | Klasa, ngjyrosje e detajuar, albume kujtimesh, krijim kartolinash, pikturim nga një foto | Ofroni zgjedhje projektesh; mbajeni shoqëror |
+| E mesme | Kolazh i parapreprerë, shtresa akuarele, aranxhim lulesh, ngjyrosje me zona të mëdha | Një hap në një kohë; ju merrni përsipër prerjen dhe ngjitjen |
+| E vonë | Goditje të gjera penelit, shtypje argjilë, prekje pëlhure, shikimi i juaj duke pikturuar | Përqendrohuni te shqisat; udhëzoni dorën butësisht nëse pranohet |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS sugjeron që në fazat e vonës aktivitetet shpesh thjeshtohen dhe përqendrohen te shqisat. Shikimi i dikujt tjetër duke pikturuar, dhe biseda për ngjyrat, është një mënyrë reale për të marrë pjesë. Për më shumë ide faze pas faze, shihni [aktivitetet për çdo fazë](/activities/ideas/).
 
-## Safety with art supplies
+## Mbrojtja me materialet e artit
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Zgjidhni bojëra, flomaster dhe ngjitës stick jo toksike.
+- Mbani larg gërshërët, thikat e zanatit dhe pistoletat e ngjitjes me nxehtësi. Bëni vetë çdo prerje, më parë.
+- Shikoni nëse dikush fut argjilën, bojën ose sende të vogla në gojë.
+- Përdorni enë të qëndrueshme dhe të rënda për ujin dhe vazot.
 
-## When should we stop?
+## Kur duhet të ndalemi?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Ndaloni kur vëmendja largohet ose shfaqet frustrimi. Alzheimer's Association sugjeron përfundimin ose ndryshimin e aktivitetit kur vëmendja zbehet ose frustrimi rritet. Vendoseni projektin në një vend të sigurt dhe ofroni diçka qetësuese. Mund ta rifilloni nesër, ose asnjëherë. Të dyja janë në rregull.
 
-## Display the work, if the person wants
+## Shfaqni veprën, nëse personi e dëshiron
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Vendosja e një pikture në frigorifer ose kornizimi i një kolazhi mund të jetë një mënyrë e qetë për të treguar respekt. Pyesni më parë. Disa njerëz e duan të shohin veprën e tyre në mur; të tjerë preferojnë të mos e shohin.
 
-## Pair art with our games
+## Kombinoni artin me lojërat tona
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Ditët kur përgatitja e bojërave është shumë, [Faqe për ngjyrosje](/games/coloring/) funksionon në tablet pa pisllëk. [Puzzle me foto](/games/picture-puzzle/) e mban të gjithë figurën të dukshme si udhëzues ndërsa ndërroni copat. [Kartat e bisedës](/games/conversation-cards/) ofrojnë pyetje të hapura që mund të çojnë nga një figurë te një histori. Të gjitha kanë pa kohëmatës ose pikë. Mund të printoni edhe faqe nga koleksioni ynë i [aktiviteteve të printueshme](/activities/printable/).

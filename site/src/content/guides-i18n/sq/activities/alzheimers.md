@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktivitete dhe lojëra për personat me Alzheimer"
+seoTitle: "Aktivitetet e Alzheimer: Ide sipas fazës"
+description: "Aktivitete dhe lojëra për personat me Alzheimer në çdo fazë, të ndërtuara mbi aftësitë dhe kujtimet që shpesh qëndrojnë, me lojëra falas për t'i luajtur bashkë."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Aktivitetet e mira për dikë me Alzheimer mbështeten te ajo që zgjat më shumë:
+  aftësitë e praktikuara gjatë gjithë jetës, këngët e vjetra, punët e njohura
+  shtëpiake dhe shqisat. Në fillim, letrat, lojërat e tryezës, gatimi dhe daljet
+  shpesh funksionojnë ende. Në fazën e mesme, provoni palosjen, renditjen,
+  këndimin, albumet me foto dhe lojërat e thjeshta me figura. Vonë në sëmundje,
+  muzika, prekja dhe shoqëria bëhen më të rëndësishme. Shikoni se si është personi
+  sot.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer është shkaku më i zakonshëm i demencës, prandaj idetë për aktivitetet e demencës zbatohen edhe për të."
+  - "Informacioni i ri është zakonisht më i vështiri, ndërsa aftësitë dhe këngët e mësuara shumë kohë më parë shpesh qëndrojnë më gjatë. Ndërtoni mbi to."
+  - "Fazat mbivendosen dhe ditët e mira e të vështira janë normale. Zgjidhni sipas asaj që personi mund të bëjë dhe të shijojë sot."
+  - "Zgjidhni lojëra pa kohëmatës, pikë ose pyetje, dhe lëreni figurat të mbeten të dukshme."
+  - "Shikimi, mbajtja e diçkaje ose thjesht ulja bashkë, të gjitha përbëjnë pjesëmarrje."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Cilat aktivitete janë të mira për dikë me Alzheimer?"
+    a: "Aktivitete të njohura pak më të thjeshtuara: palosja e rrobave, vendosja e tryezës, gatimi bashkë, muzika dhe këndimi, shikimi i fotove, ecja, kopshtaria dhe koha me një kafshë shtëpiake. Lojërat e thjeshta me figura, puzzle-t e lehta dhe letrat e bisedës funksionojnë edhe për shumë njerëz. Zgjidhni atë që personi e ka dashur gjithmonë dhe bëjeni bashkë me të."
+  - q: "A janë lojërat të mira për personat me Alzheimer?"
+    a: "Lojërat mund të jenë një mënyrë e këndshme për të kaluar kohë bashkë nëse personi i pëlqen. Asnjë lojë nuk ka treguar se trajton, ngadalëson ose ndalon Alzheimer-in, prandaj zgjidhni lojëra për kënaqësi: figura të mëdha, pak zgjedhje dhe pa kohëmatës, pikë ose tinguj për përgjigje të gabuar."
+  - q: "A ka ndryshim midis aktiviteteve të demencës dhe atyre të Alzheimer-it?"
+    a: "Përgjithësisht jo. Sëmundja e Alzheimer-it është shkaku më i zakonshëm i demencës dhe të njëjtat ide aktivitetesh zbatohen. Ajo që ndihmon me Alzheimer-in është të dish se kujtimet e reja zakonisht zbehen së pari, prandaj aktivitetet e ndërtuara mbi aftësi, këngë dhe rutina të vjetra shpesh shkojnë më mirë."
+  - q: "Çfarë mund të shijojë ende dikush me Alzheimer në fazën e vonë?"
+    a: "Muzikën e preferuar, një masazh të butë të duarve, objekte të buta për t'i mbajtur, leximin me zë, uljen jashtë dhe shoqërinë e dikujt që i beson. Mbajeni të shkurtër dhe të qetë, dhe vëzhgoni fytyrën dhe trupin për atë që i pëlqen."
+  - q: "Si e bëj një person me Alzheimer të interesohet për një aktivitet?"
+    a: "Kërkoni ndihmë në vend që të njoftoni një aktivitet, vendosni çdo gjë përpara dhe filloni vetë, në mënyrë që personi të mund t'i bashkohet. Zgjedhja e kohës së ditës kur personi është në gjendjen më të mirë bën një ndryshim të madh. Nëse thotë jo, provoni përsëri më vonë ose ofroni një version më të vogël."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Nëse dikush që ju e doni ka Alzheimer, ndoshta e keni vënë re që disa gjëra largohen shpejt, ndërsa të tjera qëndrojnë. Mund ta humbasë fillin e telefonatës së këtij mëngjesi, por të këndojë çdo fjalë të një himni, ta palosë një peshqir siç e ka bërë gjithmonë, ose të ndajë letrat pa menduar. Aktivitetet e mira mbështeten te ato aftësi që zgjasin. Ky udhëzues shpjegon pse, pastaj jep ide për çdo fazë dhe lojërat falas në këtë faqe që u përshtaten atyre.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## A është Alzheimer-i ndryshe nga demenca kur bëhet fjalë për aktivitete?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Jo shumë. Demenca është termi i përgjithshëm, dhe sëmundja e Alzheimer-it është shkaku më i zakonshëm i saj: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) thotë se ajo llogarit 60 deri në 80 përqind të rasteve të demencës. Pothuajse gjithçka që shkruhet për aktivitetet e demencës zbatohet për Alzheimer-in, përfshirë [101 idetë tona për aktivitete](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Ajo që është e dobishme të dihet është rendi i zakonshëm i ndryshimeve. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) shpjegon se Alzheimer-i fillimisht dëmton pjesët e trurit që lidhen me kujtesën, dhe më vonë ndikon te gjuha, arsyetimi dhe sjellja shoqërore. Alzheimer's Association thotë se simptoma e hershme më e zakonshme është vështirësia për t'u kujtuar informacion të sapo mësuar. Secili është ndryshe, dhe shumë njerëz kanë shkaqe të përziera, por ky model formon atë që zakonisht funksionon.
 
-## What kinds of activities suit Alzheimer's best?
+## Çfarë lloj aktivitetesh i përshtaten më mirë Alzheimer-it?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktivitetet që mbështeten te njohuri të vjetra dhe të praktikuara mirë zakonisht shkojnë më rehat sesa ato që kërkojnë diçka të re të mësohet dhe mbahet në mend.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Aftësi të praktikuara gjatë gjithë jetës.** Alzheimer's Association vëren se një person mund të luajë ende këngë të thjeshta të mësuara në piano para shumë vitesh. Strukja, lëmimi i drurit, përzierja e letrave, zhytja e brumit dhe palosja e rrobave janë të ngjashme.
+- **Këngë të vjetra dhe muzikë e njohur.** Shumë njerëz i njohin ende çdo fjalë të këngëve të rinisë, të himneve dhe të këngës së dasmës së tyre. Shihni [aktivitetet me muzikë](/activities/music/).
+- **Punë të përditshme me qëllim.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) përfshin larjen e enëve, vendosjen e tryezës, renditjen e çorapeve dhe palosjen e rrobave ndër aktivitetet që njerëzit mund t'i shijojnë. Ndjenja se janë të dobishëm ka rëndësi.
+- **Njohja në vend të kujtimit.** Tregimi i figurës që përputhet është më i lehtë sesa emërtimi i saj nga kujtesa. Prandaj lojërat me figura ku gjithçka është e dukshme funksionojnë më mirë sesa pyetjet.
+- **Shqisat.** Tekstura, aroma, ngrohtësia, shija dhe tingujt mbeten të kuptueshme shumë kohë pasi fjalët bëhen të vështira. Shihni [aktivitetet shqisore](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Ajo që zakonisht shkon më keq: çdo gjë me orë, rregulla të reja për t'u mësuar, shumë hapa për t'u mbajtur mend, ose pyetje që testojnë kujtesën, si „A e kujton kush është ky?". Këto e vendosin pjesën më të vështirë të Alzheimer-it në qendër të vëmendjes.
 
-## Activities for early-stage Alzheimer's
+## Aktivitete për Alzheimer-in në fazën e hershme
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Në fazën e hershme, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) thotë se një person mund të vazhdojë të drejtojë makinën, të punojë dhe të marrë pjesë në aktivitete shoqërore, ndërsa vëren humbje kujtese, si harrimin e fjalëve të njohura ose të vendit ku janë gjërat. Qasja më e mirë është bashkëpunimi: pyesni çfarë dëshiron të vazhdojë të bëjë dhe çfarë ndihme do të donte.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Vazhdoni hobitë ekzistuese.** Golf, bridzh, qëndisje, kor dhe grupe kishtare, me rregullime të vogla si grupe më të vogla dhe orë më të qeta.
+2. **Luani lojëra të njohura me letra dhe tryezë.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) përfshin trivia, kërkimin e fjalëve, lojëra me letra dhe lojëra tryeze për fazën e hershme. Luani si ekip nëse kthimi i pikëve e shqetëson, ose hiqni krejt pikët.
+3. **Gatuani bashkë.** Lëreni të drejtojë një recetë që e njeh përmendësh, ndërsa ju merrni përsipër leximin e hapave.
+4. **Filloni një projekt të historisë së jetës.** Foto, receta dhe histori në një album që personi e drejton. Shihni [aktivitetet e kujtimit](/activities/reminiscence/).
+5. **Shkoni në dalje.** Një restorant i preferuar në orë të qetë, një muze për një vizitë të shkurtër, një shëtitje në park.
+6. **Provoni puzzle-t që personi zgjedh.** Fjalëkryqe me shkronja të mëdha, kërkim fjalësh dhe puzzle-të. Shihni [puzzle-t për demencën](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Më shumë ide: [aktivitetet për fazën e hershme](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktivitete për Alzheimer-in në fazën e mesme
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association e përshkruan fazën e mesme si fazën zakonisht më të gjatë, dhe thotë se mund të zgjasë shumë vite. Fjalët ngatërrohen, frustrimi vjen më lehtë dhe personi ka nevojë për më shumë kujdes. Alzheimer's Foundation of America shton se shumë njerëz kanë nevojë për ndihmë për të filluar ose vazhduar aktivitetet. Roli juaj ndryshon: të përgatitni gjërat, të tregoni më shumë sesa të shpjegoni, dhe të merrni përsipër pjesët e vështira.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Palosni, renditni dhe përputhni.** Peshqirë, çorape, lugë e pirun, copa me ngjyrë. Punë reale, të bëra krah për krah.
+2. **Këndoni dhe lëvizni me muzikë.** Duartrokitni, lëkundeni ose kërceni në kuzhinë. Filloni të këndoni vetë dhe lëreni të bashkohet.
+3. **Shikoni albume fotografish.** Përshkruani atë që shihni dhe ftoni për histori: „Çfarë makine! Më trego për të." Pranoni emrat që përdor.
+4. **Luani lojëra të thjeshta me figura.** [Çifte fotografish](/games/picture-pairs/) me katër deri në gjashtë pllaka dhe figurat të dukshme, ose [Gjej të njëjtën](/games/find-the-same/) me dy ose tre zgjedhje.
+5. **Plotësoni shprehje të njohura.** „Një mollë në ditë të mban larg..." Fjalët e mësuara shumë kohë më parë shpesh vijnë lehtë. Provoni [Plotëso shprehjen](/games/finish-the-saying/), ku mund ta shfaqni çdo fund me një prekje.
+6. **Ujisni dhe kujdesuni për bimët.** Vazo brenda ose një rrip i ngritur kopshti, me një kanaçe të vogël uji.
+7. **Bëni një lojë përputhjeje nga fotot familjare.** [Çifte fotografish](/games/photo-pairs/) përdor foto që zgjidhni në pajisjen tuaj, dhe ato nuk largohen nga ajo.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Më shumë ide: [aktivitetet për fazën e mesme](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktivitete për Alzheimer-in në fazën e vonë
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Në fazën e vonë, Alzheimer's Association thotë se personat humbasin aftësinë për t'iu përgjigjur mjedisit dhe për të mbajtur një bisedë, edhe pse mund të thonë ende fjalë ose fraza. Aktiviteti tani do të thotë rehati dhe lidhje, i sjellë atje ku personi pushon.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Luajeni muzikën e preferuar** qetë, pa televizorin që konkurron.
+2. **Jepni një masazh duarsh** me një locion me aromë që i pëlqen.
+3. **Ofroni gjëra të buta për t'i mbajtur:** një batanije të ngrohtë, një pelerinë me push, një gur të lëmuar.
+4. **Lexoni me zë** psalme, poezi ose një histori të njohur. Ritmi ka më shumë rëndësi sesa kuptimi.
+5. **Uluni jashtë** në hije, ose pranë dritares me zogj për t'i shikuar.
+6. **Shikoni bashkë një figurë të madhe.** Një lule dielli ose një qen që mbush ekranin e tabletit, me ju që thoni çfarë shihni.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Më shumë ide: [aktivitetet për fazën e vonë](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Cilat lojëra funksionojnë për dikë me Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Zgjidhni lojëra ku asgjë nuk mund të dështojë. Çdo lojë në këtë faqe është falas, funksionon në shfletues dhe nuk ka kohëmatës, pikë ose regjistrim.
 
-| Game | What you do | Often suits |
+| Lojë | Çfarë bëni | Shpesh i përshtatet |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Çifte fotografish](/games/picture-pairs/) | Përputhni figura të mëdha; ato mund të mbeten të dukshme | Faza e hershme dhe e mesme |
+| [Gjej të njëjtën](/games/find-the-same/) | Prekni figurën që përputhet me atë në krye | Faza e mesme dhe e vonë, me ndihmë |
+| [Plotëso shprehjen](/games/finish-the-saying/) | Zgjidhni fjalën e fundit të një shprehjeje të njohur, ose e shfaqni | Faza e hershme dhe e mesme |
+| [Puzzle me foto](/games/picture-puzzle/) | Ktheni 4 ose 9 copëza në vend, me figurën e shfaqur | Faza e hershme dhe e mesme |
+| [Kartat e bisedës](/games/conversation-cards/) | Një figurë dhe një pyetje e hapur për të biseduar | Çdo fazë, me dikë për të folur |
+| [Çifte fotografish](/games/photo-pairs/) | Një lojë përputhjeje e bërë nga fotot tuaja | Faza e hershme dhe e mesme |
+| [Faqe për ngjyrosje](/games/coloring/) | Prekni një ngjyrë, pastaj një pjesë të figurës; ose printojeni | Çdo fazë, me ndihmë |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Për si të uleni bashkë, sa të ndihmoni dhe kur të ndaloni, lexoni [si të luani lojëra me dikë që ka demencë](/caregiving/how-to-play-together/). Nëse po mendoni për „lojërat e kujtesës", shihni [lojërat e kujtesës për të moshuarit me demencë](/activities/memory-games/).
 
-## How to make any activity easier
+## Si ta bëjmë çdo aktivitet më të lehtë
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Këshilla e NIA-s zbret në disa zakone: përputhni aktivitetin me atë që personi mund të bëjë, ndihmoni për ta filluar, vëzhgoni frustrimin, sigurohuni që ndihet i suksesshëm, dhe lëreni ta shikojë thjesht nëse kjo është ajo që shijon.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Zgjidhni kohën e ditës kur është në gjendjen më të mirë,** dhe mbajini seancat të shkurtra.
+- **Vendosni gjithçka përpara,** që të filloni menjëherë.
+- **Ftoni, mos urdhëroni.** „A mund të më ndihmoni pak?" funksionon më mirë sesa „Është koha për aktivitet."
+- **Bëni hapin e parë vetë** dhe lëreni të bashkohet.
+- **Ofroni një hap dhe një zgjedhje në një kohë.**
+- **Lëreni të bëhet në mënyrën e tij.** Peshqirët e shtrembër janë në rregull.
+- **Ndaloni ndërsa është ende e këndshme.** Përfundimi i hershëm është rezultat i mirë, jo dështim. Nëse refuzon, shihni [kur personi me demencë thotë jo](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e thotë thjesht: fokusohuni te kënaqësia, jo te arritja.
