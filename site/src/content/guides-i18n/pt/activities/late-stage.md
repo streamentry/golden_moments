@@ -1,32 +1,28 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Atividades para a Demência Avançada, Inclusive na Cama ou na Cadeira"
+seoTitle: "Atividades para Demência Avançada: Ideias na Cama e na Cadeira"
+description: "Atividades suaves para a demência avançada, inclusive para quem está na cama ou na cadeira: música, toque, leitura em voz alta, sons e estar juntos, com cuidados de segurança."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Na demência avançada, as atividades giram em torno dos sentidos e da sua companhia: ouvir a música preferida, dar as mãos, fazer uma massagem lenta nas mãos, ler em voz alta, olhar fotos, ouvir sons da natureza e sentar perto da janela ou ao ar livre. Essas atividades funcionam na cama ou na cadeira. Mantenha as sessões curtas, observe o rosto e as mãos para ver se há conforto, e lembre que estar presente já é a atividade.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "A conexão ainda é possível. Na fase avançada, o mundo é percebido principalmente pelos sentidos."
+  - "Música, toque suave, vozes familiares e objetos macios para segurar muitas vezes alcançam a pessoa quando as palavras já não alcançam."
+  - "Quase todas as ideias aqui funcionam para quem está na cama ou na cadeira."
+  - "Observe sinais de conforto e desconforto no rosto, nas mãos e na respiração, e pare diante de qualquer sinal de sofrimento."
+  - "Evite objetos pequenos e ofereça comida ou bebida apenas como a equipe de cuidado orientar, porque engolir pode se tornar inseguro."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Quais atividades posso fazer com uma pessoa com demência avançada que está na cama?"
+    a: "Tocar a música preferida dela, segurar sua mão, fazer uma massagem lenta nas mãos com creme, ler em voz alta um livro ou uma oração que ela ama, mostrar fotos ou tocar sons suaves da natureza. Abra as cortinas para que ela possa ver o lado de fora. Sessões curtas e calmas, com uma coisa de cada vez, costumam funcionar melhor."
+  - q: "Pessoas com demência avançada ainda conseguem curtir música?"
+    a: "Muitas conseguem. A Alzheimer's Association observa que, mesmo na fase avançada, a pessoa pode bater o ritmo com a mão ou cantar junto uma música da infância. Escolha músicas que ela amava quando era mais jovem e mantenha o volume baixo."
+  - q: "Como saber se ela está gostando de uma atividade?"
+    a: "Observe pequenos sinais: ombros relaxados, rosto mais suave, contato visual, cantarolar, um aperto de mão ou respiração mais lenta. Caretas, afastar-se, inquietação ou gemidos podem indicar desconforto ou dor. Se perceber isso, pare e avise a equipe de cuidado se continuar."
+  - q: "Vale a pena visitar se ela já não me reconhece?"
+    a: "Vale. O National Institute on Aging observa que simplesmente estar presente pode acalmar, e que o toque, a música e as histórias ainda podem trazer conforto na demência avançada. Sua voz e seu toque podem ser familiares mesmo quando o seu nome não é."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +44,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Na fase avançada da demência, a pessoa pode falar muito pouco, precisar de ajuda com todos os cuidados diários e passar boa parte do dia na cama ou na cadeira. Pode parecer que não há mais nada a fazer juntos. Há, sim. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) observa que um núcleo da identidade da pessoa pode permanecer e que, nessa fase, o mundo é percebido principalmente pelos sentidos. Música, toque, uma voz familiar e sua presença calma ainda podem trazer conforto e momentos de conexão.
 
-## What activities help in late-stage dementia?
+## Quais atividades ajudam na demência avançada?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Atividades sensoriais simples e a companhia tranquila ajudam mais nessa fase. A Alzheimer's Association sugere tocar a música preferida, ler partes de livros significativos, passar um creme com um perfume que a pessoa gostava e sentar ao ar livre juntos em um dia agradável. O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) acrescenta contar histórias, mostrar fotos, toque suave ou massagem, e música, ruído branco ou sons da natureza, e diz que sua presença por si só pode acalmar.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) observa que pessoas na fase avançada muitas vezes sentem forte necessidade de segurar algo junto ao corpo para se confortar, e sugere atividades sensoriais simples, alongamentos suaves, movimentos com lenços, música, visitas de animais, toque humano e arte livre.
 
-## Activities for someone in bed or a chair
+## Atividades para quem está na cama ou na cadeira
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Toque a música dela.** Escolha canções da juventude, da fé ou da família. Mantenha o volume baixo e sente-se perto. Mesmo agora, algumas pessoas batem o dedo ou cantarolam. Veja [atividades com música](/activities/music/).
+2. **Dê as mãos.** Só segurar a mão, com um leve movimento do polegar, já é uma atividade. Diga o que você está fazendo antes.
+3. **Faça uma massagem lenta nas mãos.** Aqueça um pouco de creme nas palmas e deslize do pulso até a ponta dos dedos. Escolha um creme sem perfume, ou um perfume que ela sempre amou, se a pele tolerar.
+4. **Leia em voz alta.** Um poema preferido, um trecho de um livro querido, uma passagem da Bíblia ou a página de esportes. O ritmo da sua voz importa mais do que as palavras.
+5. **Conte uma história.** Fale sobre uma viagem da família ou o dia em que ela se casou. Você não precisa de respostas.
+6. **Mostre fotos.** Segure uma foto grande de cada vez, na altura dos olhos, e descreva-a com carinho. Evite perguntar quem está na imagem.
+7. **Ofereça algo macio para segurar.** Uma toalha de rosto dobrada, um quadrado de lã ou um animal de pelúcia. O NIA sugere dar à pessoa uma toalha para segurar enquanto é movimentada, para que ela tenha menos chance de agarrar você ou os móveis.
+8. **Toque sons da natureza.** Chuva, ondas ou canto de pássaros em volume baixo podem suavizar um ambiente barulhento.
+9. **Traga o lado de fora para dentro.** Abra as cortinas, coloque um comedouro de pássaros perto da janela ou traga algumas flores ou folhas frescas para ver e tocar.
+10. **Leve-a para fora.** Se ela consegue sentar em uma cadeira de rodas, alguns minutos à sombra em um dia ameno podem ser muito agradáveis.
+11. **Penteie o cabelo ou ofereça uma toalha morna.** Cuidados lentos e suaves e uma toalha morna para as mãos e o rosto podem ser muito acolhedores.
+12. **Movimente-se suavemente com música.** Acenem juntos com um lenço leve, ou balancem as mãos no ritmo de uma canção. Para alongamentos e movimentos das articulações, peça que um fisioterapeuta ou enfermeiro mostre antes as formas seguras de fazê-los.
+13. **Faça arte livre.** Espalhe tinta não tóxica em papel grande com uma esponja ou com a mão, guiada pela sua. Não existe resultado certo.
+14. **Receba visitas de animais.** Um animal calmo na cama ou no colo, se a pessoa gostava de animais e o ambiente permitir.
+15. **Respirem devagar juntos.** Sentem-se perto e respirem devagar e de forma audível. A [respiração calma](/games/calm-breathing/) pode ajudar vocês dois a acompanhar o ritmo, e vocês decidem quando começar e quando parar.
+16. **Simplesmente esteja lá.** Sente-se por perto, cantarole, faça tricô ou leia em silêncio. Estar presente já basta.
 
-## How to share an activity at this stage
+## Como compartilhar uma atividade nesta fase
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Aproxime-se de frente.** Diga o nome dela e o seu, e fale devagar e suavemente antes de tocá-la.
+- **Ofereça uma coisa de cada vez.** Desligue a TV antes de tocar música. Trabalhe um sentido por vez.
+- **Mantenha curto.** Alguns minutos podem bastar. Vários momentos curtos ao longo do dia são melhores do que uma sessão longa.
+- **Acomode-a antes.** Confira se a pessoa está bem apoiada. O NIA sugere uma prancha de apoio no colo para descansar os braços e sustentar a parte superior do corpo quando ela estiver sentada.
+- **Observe a reação.** Mãos relaxadas, rosto mais suave, contato visual ou cantarolar indicam conforto. O NIA observa que gemidos, caretas, proteção de alguma parte do corpo ou agitação repentina podem ser sinais de dor. Pare e avise a equipe de cuidado.
 
-## A quick guide by sense
+## Um guia rápido por sentido
 
-| Sense | Ideas | Take care |
+| Sentido | Ideias | Cuidados |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Audição | Música preferida, sua voz lendo, sons da natureza | Mantenha o volume baixo; um som de cada vez |
+| Toque | Massagem nas mãos, dar as mãos, tecido macio, toalha morna | Pergunte ou avise antes; verifique se a pele não está dolorida ou machucada |
+| Visão | Fotos, flores, a vista da janela, um vídeo lento da natureza | Segure as coisas na altura dos olhos; boa luz, sem reflexo |
+| Olfato | Um creme preferido, flores frescas, café sendo preparado por perto | Evite cheiros fortes; verifique alergias e a respiração |
+| Paladar | Um pequeno gosto de um sabor preferido | Apenas alimentos e texturas que a equipe de cuidado considerar seguros |
 
-## Safety at this stage
+## Segurança nesta fase
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Engolir pode se tornar difícil na fase avançada, e o NIA alerta que isso aumenta o risco de engasgo. Não deixe objetos pequenos ao alcance, e ofereça comida ou bebida apenas nas texturas e posições que a equipe de cuidado recomendar. Verifique a pele com delicadeza durante as atividades de toque, já que a pele pode rasgar ou machucar com facilidade. Para mais ideias sensoriais seguras, veja [atividades sensoriais](/activities/sensory/).
 
-## Looking after yourself too
+## Cuide de você também
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+O cuidado na fase avançada é exigente física e emocionalmente, seja em casa, seja em visitas a uma casa de repouso. Equipes de cuidados paliativos e de hospice podem ajudar com conforto, apoio e planejamento, e o NIA as cita como fonte de ajuda. Visitas curtas e calmas valem a pena; veja [visitar uma pessoa com demência](/activities/visiting/). Se você lidera grupos, [atividades em grupo em casas de repouso](/activities/care-home-groups/) tem ideias para adaptar as sessões. E, por favor, leia [autocuidado do cuidador](/caregiving/caregiver-self-care/): descansar faz parte de cuidar bem.
