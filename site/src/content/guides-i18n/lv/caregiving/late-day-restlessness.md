@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Vakara nemiers: mierīgas aktivitātes pēcpusdienā cilvēkiem ar demenci"
+seoTitle: "Vakara nemiers: mierīgas aktivitātes pēcpusdienā"
+description: "Maigs dienas ritms, citādi izkārtota telpa un mierīgas aktivitātes, kas var mazināt vēlās dienas nemieru, un kad vērsties pie ārsta pēc jauniem simptomiem."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Vakara nemiers ir nemiers, apjukums vai aizkaitinājums, kas sākas vai pastiprinās
+  pēcpusdienas beigās vai vakarā. Praktiski soļi, kas var palīdzēt: stabils ikdienas
+  ritms, dienasgaisma un aktivitātes agrāk dienā, mazāk vēlu dienas miegu, mazāk
+  kofeīna, gaismas ieslēgšana pirms krēslas, kluss mājas gaisotne un mierīgas
+  nodarbes, piemēram, mūzika, fotogrāfijas vai veļas salocīšana. Jauni vai
+  pasliktinājušies simptomi prasa ārsta apskati.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Vakara nemiers ir nemiers vai apjukums, kas sākas vai pastiprinās, kad dienas gaisma noplok."
+  - "Prasīgus uzdevumus, izbraukumus un peldēšanu plānojiet no rīta vai agrā pēcpusdienā."
+  - "Dienasgaisma, ikdienas pastaiga, mazāk vēlu dienas miegu un mazāk kofeīna var palīdzēt vakariem noritēt rāmāk."
+  - "Ieslēdziet gaismas pirms krēslas, samaziniet troksni un pārslēdzieties uz mierīgām, pazīstamām nodarbēm."
+  - "Pierakstiet, kas notiek pirms nemiera, un, kad tas sākas, paliekiet mierīgi un mierinoši."
+  - "Jauni vai pasliktinājušies simptomi jāpārbauda ārstam: sāpes, infekcija vai zāles var būt iemesls."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Cikos dienā parasti notiek vakara nemiers?"
+    a: "Parasti tas sākas vai pastiprinās vēlā pēcpusdienā vai agrā vakarā, kad dienas gaisma izbeidzas. Precīzs laiks katram cilvēkam ir citāds, tāpēc noder īss ieraksts nedēļu vai divas."
+  - q: "Kādas aktivitātes palīdz vakara nemierā?"
+    a: "Vēlā pēcpusdienā vislabāk darbojas mierīgas, pazīstamas aktivitātes ar nelielu piepūli: nomierinoša mūzika, fotogrāfiju skatīšanās, iecienīta televīzijas pārraide vai filma, veļas salocīšana, īsa pastaiga vai kopīga uzkoda. Jaunas vai sarežģītas aktivitātes atstājiet dienas pirmajai pusei."
+  - q: "Vai vakara nemiers var liecināt par kaut ko medicīnisku?"
+    a: "To var pastiprināt veselības problēmas, piemēram, sāpes, infekcijas, tostarp urīnceļu infekcijas, miega traucējumi vai zāļu blakusparādības. Ja nemiers ir jauns, pēkšņs vai pasliktinās, sazinieties ar cilvēka ārstu."
+  - q: "Vai par zālēm vakara nemierā jājautā ārstam?"
+    a: "Par to jārunā ar ārstu. Alcheimera asociācija norāda, ka nemedikamentozas pieejas parasti izvēlas pirmās, un jebkuras zāles vakara uzbudinājumam jāapsver tikai pēc risku un ieguvumu novērtēšanas. Šī lapa nesniedz padomus par medikamentiem."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Daudzas ģimenes pamana vienu un to pašu: no rīta viss parasti ir samērā mierīgi, bet, pēcpusdienai ritot, cilvēks ar demenci kļūst nemierīgs, satraukts, apjucis vai viegli aizkaitināms. Viņš var staigāt bez mērķa, jautāt, vai var „doties mājās”, pat ja jau atrodas mājās, vai viegli sadusmoties. To bieži sauc par sundowning jeb vakara nemieru.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Vienota risinājuma nav, taču izmaiņas dienas ritmā, telpā un aktivitāšu veidā var padarīt vēlās pēcpusdienas mierīgākas. Šī lapa apkopo praktiskas, nemedicīniskas idejas no National Institute on Aging un Alzheimer's Association. Tā nav medicīniska konsultācija. Ja simptomi ir jauni, pēkšņi vai pasliktinās, runājiet ar cilvēka ārstu.
 
-## What is sundowning?
+## Kas ir sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning ir nemiers, uzbudinājums, aizkaitinājums vai apjukums, kas sākas vai pastiprinās, kad dienas gaisma izbeidzas, vēlā pēcpusdienā vai agrā vakarā. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) norāda, ka pārmērīgs nogurums var pastiprināt vēlās dienas nemieru.
 
-## What can make late-day restlessness worse?
+## Kas var pastiprināt vēlās dienas nemieru?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Vairāki faktori var darboties kopā. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) min tādus faktorus kā:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- nogurums pēc veselas dienas;
+- jauna vai neskaidra apkārtne;
+- „iekšējais bioloģiskais pulkstenis”, kas nav sinhronā, tāpēc cilvēks dienā ir miegains, bet naktī nomodā;
+- vāja gaisma un ēnas, kas var radīt apjukumu;
+- stresa vai neapmierinātības uztveršana no apkārtējiem cilvēkiem;
+- mazāka miega vajadzība, kas vecākiem cilvēkiem ir ierasta.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA papildus min vispārīgākus uzbudinājuma cēloņus, tostarp sāpes, depresiju vai stresu, nepietiekamu atpūtu, aizcietējumus, pārāk lielu troksni vai daudz cilvēku, kā arī dažas zāles vai zāļu mijiedarbību.
 
-## How can I plan the day to make evenings calmer?
+## Kā plānot dienu, lai vakari būtu mierīgāki?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Prasīgas lietas pārceliet uz agrāku dienas laiku un vēlo pēcpusdienu saglabājiet maigu un paredzamu. Gan NIA, gan Alzheimer's Association iesaka regulāru ritmu. Paraugs dienai, ko var pielāgot savai situācijai:
 
-| Time | What may help |
+| Laiks | Ko var palīdzēt |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| No rīta | Vizītes, mazgāšanās, izbraukumi un jebkurš uzdevums, kam vajadzīga piepūle, kad daudzi cilvēki ir vismodrākie |
+| Vēlā priekšpusdienā | Laiks ārā vai pie saulainā loga; pastaiga vai cita aktivitāte |
+| Dienvidus | Lielāka pusdienu porcija (Alzheimer's Association iesaka lielākas pusdienas un vieglāku vakariņu) |
+| Agrā pēcpusdienā | Atpūta, ja nepieciešams, bet izvairieties no ilgiem snaudieniem vēlā dienā |
+| Vidējā līdz vēlā pēcpusdienā | Mierīgas, pazīstamas aktivitātes; uzkoda un dzēriens; bez kofeīna |
+| Pirms krēslas | Ieslēdziet iekštelpu gaismas un aizveriet aizkarus, pirms kļūst tumšs |
+| Vakars | Viegla maltīte, kluss mūzikas fons, maz stimulu un stabils gulētiešanas rituāls |
 
-A few specific points from the sources:
+Daži konkrēti punkti no avotiem:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Dienasgaisma.** NIA iesaka katru dienu nodrošināt laiku ārā vai pie loga saulē.
+- **Ikdienas kustība, bet ne pārāk daudz.** NIA norāda, ka jācenšas katru dienu būt fiziski aktīvam, bet neplānot pārāk daudz nodarbību.
+- **Dzērieni vēlā dienā.** NIA iesaka vēlā dienā nelietot alkoholu un dzērienus ar kofeīnu, piemēram, kafiju vai kolu. Alzheimer's Association min arī nikotīnu.
+- **Snaudieni.** NIA iesaka neļaut ilgi snaust un szāļoties vēlā dienā. Alzheimer's Association iesaka ierobežot dienas snaudienus, ja problēmas rada nakts miegs.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Vairāk par stabilas dienas veidošanu lasiet [ikdienas ritma aktivitātēs](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Kā padarīt mājas mierīgākas vēlā pēcpusdienā?
 
-Reduce noise, add light and keep familiar things close.
+Samaziniet troksni, pievienojiet gaismu un turiet tuvu pazīstamas lietas.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Spilgta, vienmērīga apgaismojuma.** Alzheimer's Association iesaka vakarā mājas labi apgaismot. Apgaismojiet telpu, pirms parādās ēnas.
+- **Mazāk trokšņa.** Izslēdziet vai pieklusiniet televizoru un radio, un šajā laikā ierobežojiet viesus vai traucējošus mājas darbus. Alzheimer's Association iesaka samazināt vakara stimulus, piemēram, televizoru, darbus un skaļu mūziku.
+- **Pazīstamas lietas, kas nomierina.** NIA iesaka nomierinošu mūziku un mīļotu priekšmetu un fotogrāfiju novietošanu mājās.
+- **Komforta pārbaude.** Alzheimer's Association iesaka pārbaudīt, vai nav sāpju, bada, slāpju, aizcietējuma, pilnas urīnpūšļa, noguruma, infekcijas vai ādas kairinājuma, un uzturēt istabā komfortablu temperatūru.
+- **Jūsu pašu garastāvoklis.** Cilvēki uztver stresu. NIA iesaka palēnināt tempu un mēģināt atslābināties, ja jūsu pašu rūpes var pastiprināt spriedzi.
 
-## What calm activities can we do in the late afternoon?
+## Kādas mierīgas aktivitātes var veikt vēlā pēcpusdienā?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Izvēlieties aktivitātes, kas ir pazīstamas, nesteidzīgas un viegli pārtraucamas. Alzheimer's Association iesaka nomierinošas aktivitātes, piemēram, mierīgu mūziku, fotogrāfijas vai iecienītu filmu, kā arī kopīgu pastaigu, lai mazinātu nemieru. NIA iesaka uzkodu vai dzērienu, iecienītu televīzijas pārraidi, mūziku, pastaigu, lasīšanu vai vienkāršu mājas darbu, piemēram, veļas salocīšanu.
 
-Ideas to try:
+Idejas, ko var izmēģināt:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Salociet veļu kopā.** NIA iesaka šādu vienkāršu mājas darbu. Dvieļus ir viegli turēt rokās, un uzdevumam ir skaidrs noslēgums.
+2. **Ieslēdziet iecienītu mūziku.** Pazīstamas dziesmas no jaunības gadiem, zemā skaļumā. Līdzdziedāšana arī ir labi. Vairāk ideju lasiet [mūzikas aktivitātēs](/activities/music/).
+3. **Skatieties fotogrāfijas.** Fotoalbums vai dažas ģimenes bildes spēlē [Fotopāri](/games/photo-pairs/), ar redzamām bildēm, var radīt klusu sarunu.
+4. **Īsa pastaiga.** Pa dārzu, apkārt kvartālam vai pa koridoru, pirms kļūst tumšs.
+5. **Kopīga uzkoda un dzēriens.** Kaut kas vienkāršs, silts un bez kofeīna, pie galda kopā.
+6. **Maiga saskaņošana.** [Attēlu pāri](/games/picture-pairs/) ar četrām kārtīm un redzamām bildēm ir viegli sākt un viegli pārtraukt.
+7. **Krāsošana.** [Krāsošana](/games/coloring/) ekrānā vai uz izdrukāta lapas, bez mērķa to pabeigt.
+8. **Skatīšanās un saruna.** [Sarunu kartītes](/games/conversation-cards/) piedāvā attēlu un atvērtu jautājumu. Pietiek vienkārši paskatīties.
+9. **Elpošanas pauze.** [Mierīgā elpošana](/games/calm-breathing/) ir lēna, klusa pauze, ko jūs paši sākat un beidzat.
+10. **Rokdarbi.** Pogu vai zeķu kārtošana, mīkstas segas nogludināšana vai pazīstama priekšmeta turēšana. Skatiet [sensorās aktivitātes](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Vēlā dienā izvairieties no jaunām spēlēm, steidzīgiem izbraukumiem un visa, kas prasa daudz atmiņas vai koncentrēšanās. Atstājiet to no rīta.
 
-## What should I do when restlessness starts?
+## Ko darīt, kad sākas nemiers?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Saglabājiet mieru, mierinieties un maigi novirziet uzmanību. NIA iesaka runāt mierīgi, uzklausīt cilvēka bažas, nestrīdēties, pārliecināt, ka viņš ir drošībā, un, ja tas palīdz, lietot maigu pieskārienu. Pēc tam pamēģiniet novērst uzmanību: uzkoda, dzēriens, mūzika vai pastaiga.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association iesaka tādas frāzes kā „Šeit jūs esat drošībā” un „Man žēl, ka jūs esat nelaimīgs”, kā arī pievienot gaismu, palēnināt tempu un ierobežot stimulus. Necenšieties iespiest stūrī, neaptveriet un nefiksējiet cilvēku, kā arī nestrīdieties ar viņu.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Ja cilvēks kļūst agresīvs, NIA iesaka turēties drošā attālumā, līdz uzvedība beidzas. Ārkārtas gadījumā zvaniet vietējiem ārkārtas dienestiem un paskaidrojiet, ka cilvēkam ir demence. Mūsu [ceļvedis par reakciju uz dusmām un agresiju](/caregiving/when-anger-becomes-aggression-with-dementia/) apraksta tūlītējo drošību un to, ko darīt pēc tam.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Mūsu ceļveži par [saziņu](/caregiving/communication-tips/) un [ko darīt, kad viņi saka nē](/caregiving/when-they-say-no/) sniedz vairāk par nomierinošiem vārdiem.
 
-## How do I find the triggers?
+## Kā noskaidrot nemiera cēloņus?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Pierakstiet īsus ierakstus nedēļu vai divas. Alzheimer's Association iesaka sekot tam, kas notiek pirms vakara nemiera epizodēm, lai noteiktu izraisītājus. Pierakstiet laiku, kad nemiers sākās, kas notika stundu pirms tam, snaudienus, maltītes un dzērienus, apmeklētājus, troksni un gaismu. Parādiet šo ierakstu ārstam. NIA norāda, ka uzvedības izmaiņu uzskaite var palīdzēt aprūpētājiem un veselības aprūpes speciālistiem pamanīt modeli.
 
-## When should I call a doctor about sundowning?
+## Kad vērsties pie ārsta par sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Sazinieties ar cilvēka ārstu, ja nemiers ir jauns, pēkšņi pasliktinās vai parādās kopā ar citām izmaiņām. NIA norāda, ka pēkšņas vai strauji svārstīgas uzvedības izmaiņas, īpaši pēc infekcijas vai nesenām zāļu izmaiņām, nekavējoties jānodod ārsta uzmanībai.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Lūdziet ārstam pārbaudīt lietas, kas var padarīt vakarus grūtākus. Alzheimer's Association min fiziskas problēmas, piemēram, urīnceļu infekcijas, inkontinenci, nemierīgās kājas un miega apnoju, un iesaka pajautāt, kurā dienas laikā katras zāles ir vislabāk lietot. NIA uzskaita sāpes, aizcietējumus un zāļu blakusparādības vai mijiedarbību starp iespējamiem uzbudinājuma cēloņiem.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association norāda, ka Alcheimera slimībai saistītiem miega traucējumiem parasti vispirms izvēlas nemedikamentozas pieejas, un zāles vēlā dienas nemierā jāapsver tikai tad, ja tās nepalīdz, pēc risku un ieguvumu novērtēšanas. Šis lēmums pieder ārstam. Nesāciet, neapturiet un nemainiet nekādas zāles, miega līdzekļus vai uztura bagātinātājus bez medicīniska padoma.
 
-## How do I get through the evenings myself?
+## Kā pašam izturēt vakarus?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Vēlā pēcpusdiena var būt grūtākā dienas daļa aprūpētājam. Ja varat, lūdziet ģimenes loceklim, draugam vai samaksātam palīgam vismaz dažas dienas nedēļā pārņemt vēlo pēcpusdienu, pat tikai uz stundu. Mūsu ceļvedis par [aprūpētāja pašaprūpi](/caregiving/caregiver-self-care/) apraksta atelpas iespējas un bezmaksas Alzheimer's Association 24/7 palīdzības tālruni.
