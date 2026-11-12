@@ -36,7 +36,7 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/symptoms/confusion/"
 relatedGames: []
-related: [caregiving/communication-tips, caregiving/repeated-questions, activities/visiting, activities/reminiscence, caregiver-self-care]
+related: [caregiving/communication-tips, caregiving/repeated-questions, activities/visiting, activities/reminiscence, caregiving/caregiver-self-care]
 health: true
 ---
 
