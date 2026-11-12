@@ -99,6 +99,15 @@ DEEPSEEK_FREE_MODEL = 'opencode/deepseek-v4.1-flash-free'
 GLM_FREE_MODEL = 'opencode/glm-5.3-flash-free'
 ICEMAN_MODEL = 'opencode-go/iceman-contributor-free'
 MODEL_FOR = {'opencode': OPENCODE_MODEL, 'deepseek': DEEPSEEK_MODEL, 'dsfree': DEEPSEEK_FREE_MODEL, 'glmfree': GLM_FREE_MODEL, 'iceman': ICEMAN_MODEL}
+
+FREE_BACKENDS = ['iceman', 'dsfree', 'glmfree']
+
+
+def configure_free_only() -> None:
+    global BACKENDS, FALLBACKS, ALL_BACKENDS
+    BACKENDS = list(FREE_BACKENDS)
+    FALLBACKS = []
+    ALL_BACKENDS = list(FREE_BACKENDS)
 QUOTA = re.compile(r'RESOURCE_EXHAUSTED|\b429\b|\b402\b|provider\.quota|usage limit|quota|insufficient funds|rate.?limit|too many requests|overloaded', re.I)
 AUTH = re.compile(r'authentication required|not logged in|unauthorized|invalid api key|\b401\b|\b403\b', re.I)
 fails: dict[str, int] = {}
@@ -544,7 +553,10 @@ def main():
     ap.add_argument('--jobs', type=int, default=5, help='parallel tasks, capped at 5')
     ap.add_argument('--limit', type=int, default=0)
     ap.add_argument('--guides', default='', help='comma-separated guide paths (section/slug); only these guides are considered')
+    ap.add_argument('--free-only', action='store_true', help='use only free contributor/free-tier translation backends')
     a = ap.parse_args()
+    if a.free_only:
+        configure_free_only()
     meta = locale_codes()
     try:
         requested_codes = a.langs.split(',') if a.langs else [lang['code'] for lang in languages()]

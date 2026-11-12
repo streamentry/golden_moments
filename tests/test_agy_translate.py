@@ -32,6 +32,24 @@ class FakeProcess:
 
 
 class AgyTranslateTests(unittest.TestCase):
+    def test_free_only_backend_pool_excludes_paid_models(self) -> None:
+        original = (
+            agy_translate.BACKENDS,
+            agy_translate.FALLBACKS,
+            agy_translate.ALL_BACKENDS,
+        )
+        try:
+            agy_translate.configure_free_only()
+            self.assertEqual(agy_translate.BACKENDS, ['iceman', 'dsfree', 'glmfree'])
+            self.assertEqual(agy_translate.FALLBACKS, [])
+            self.assertEqual(agy_translate.ALL_BACKENDS, ['iceman', 'dsfree', 'glmfree'])
+        finally:
+            (
+                agy_translate.BACKENDS,
+                agy_translate.FALLBACKS,
+                agy_translate.ALL_BACKENDS,
+            ) = original
+
     def test_quota_retry_discards_partial_opencode_translation(self) -> None:
         process = FakeProcess(
             [
