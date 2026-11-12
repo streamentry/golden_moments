@@ -1,7 +1,7 @@
 ---
 title: "Slimnīcas apmeklējums ar demenci"
 seoTitle: "Slimnīcas aprūpe cilvēkam ar demenci"
-description: "Sagatavojieties plānotai vai ārkārtas slimnīcas uzturēšanās reizei ar demenci: dalieties ar aprūpes vēlmēm, ņemiet līdzi pazīstamas lietas un vienojieties par izrakstīšanas soļiem."
+description: "Sagatavojieties slimnīcas apmeklējumam ar demenci: dalieties ar aprūpes vēlmēm, ņemiet līdzi pazīstamas lietas un vienojieties par izrakstīšanas soļiem."
 section: caregiving
 order: 21
 updated: 2026-11-11

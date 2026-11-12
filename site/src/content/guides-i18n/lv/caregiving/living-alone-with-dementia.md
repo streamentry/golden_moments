@@ -34,7 +34,7 @@ related: [caregiving/home-safety, activities/daily-routine, brain-health/social-
 health: false
 ---
 
-Dzīvošana vienam pati par sevi nenosaka, cik lielu palīdzību cilvēks vajag. [Alzheimer's Association norāda](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone), ka daudzi cilvēki ar Alcheimera slimību turpina dzīvot paši, īpaši agrīnā stadijā, ar vienkāršiem pielāgojumiem, drošības pasākumiem un citu cilvēku atbalstu. Noderīgs jautājums ir konkrētāks: ko šis cilvēks vēlas turpināt darīt un kas šīs darbības padarītu vieglākas?
+Dzīvošana vienam pati par sevi nenosaka, cik lielu palīdzību cilvēks vajag. Alzheimer's Association norāda, ka daudzi cilvēki ar Alcheimera slimību turpina dzīvot paši, īpaši agrīnā stadijā, ar vienkāršiem pielāgojumiem, drošības pasākumiem un citu cilvēku atbalstu. Noderīgs jautājums ir konkrētāks: ko šis cilvēks vēlas turpināt darīt un kas šīs darbības padarītu vieglākas?
 
 Sāciet šo sarunu, kad ir laiks un nav tūlītējas problēmas. Jautājiet, kas viņam šķiet ērts, kuras rutīnas ir svarīgas un kādu palīdzību viņš labprāt pieņemtu. Plāns, ko veido kopā ar cilvēku, visticamāk atbildēs viņa dzīvei nekā saraksts ar uzdevumiem, kas sakārtoti pēc kāda cita bažām.
 

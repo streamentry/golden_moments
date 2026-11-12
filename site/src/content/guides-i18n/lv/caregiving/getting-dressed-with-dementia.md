@@ -1,7 +1,7 @@
 ---
 title: "Ģērbšanās ar demenci"
 seoTitle: "Palīdzība ģērbties cilvēkam ar demenci"
-description: "Palīdziet cilvēkam ar demenci ģērbties ar lielāku komfortu un izvēles brīvību. Izmantojiet pazīstamu apģērbu, vienkāršas norādes, privātumu un pietiekami daudz laika."
+description: "Palīdziet cilvēkam ar demenci ģērbties ar lielāku komfortu un izvēles brīvību. Izmantojiet pazīstamu apģērbu, vienkāršas norādes, privātumu un pietiekami laika."
 section: caregiving
 order: 17
 updated: 2026-11-11

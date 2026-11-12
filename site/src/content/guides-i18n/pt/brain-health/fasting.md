@@ -1,33 +1,32 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Jejum Intermitente e Demência: O Que as Pesquisas Mostram"
+seoTitle: "Jejum Intermitente e Demência: O Que as Pesquisas Dizem"
+description: "As evidências em humanos sobre jejum intermitente e demência são limitadas e iniciais. Saiba os riscos para idosos e por que comer o suficiente importa mais na demência."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Não há boa evidência de que o jejum intermitente previna ou retarde a demência. Grande parte
+  das pesquisas foi feita em animais, e os estudos em humanos com adultos mais velhos são pequenos
+  e curtos. O jejum pode ser arriscado para idosos: perda de peso e de massa muscular, açúcar baixo
+  no sangue com alguns medicamentos para diabetes, desidratação e quedas. Para quem vive com
+  demência, o mais importante costuma ser comer e beber o suficiente. Converse primeiro com um médico.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "O Instituto Nacional de Envelhecimento (NIA) diz que não há evidência suficiente para recomendar qualquer dieta de jejum ou de restrição calórica, sobretudo para idosos."
+  - "Grande parte das pesquisas sobre jejum e envelhecimento vem de animais, e esses resultados não necessariamente valem para as pessoas."
+  - "Os possíveis riscos para idosos incluem perda de peso não intencional, perda de massa muscular, açúcar baixo no sangue com alguns medicamentos para diabetes, desidratação, tontura e quedas."
+  - "Pessoas que vivem com demência costumam esquecer de comer ou de beber, ou acham que já comeram. Ajudar a pessoa a comer e beber o suficiente costuma importar muito mais do que o horário das refeições."
+  - "Não use jejum com alguém que vive com demência. Converse com um médico ou nutricionista antes de qualquer mudança nos hábitos alimentares."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "O jejum intermitente previne o Alzheimer?"
+    a: "Não há boa evidência de que previna. Grande parte das pesquisas foi feita em animais, e os ensaios com humanos foram, em geral, curtos, com adultos mais jovens ou com sobrepeso, e focados na perda de peso. O Instituto Nacional de Envelhecimento diz que não há evidência suficiente para recomendar dietas de jejum ao público."
+  - q: "O jejum intermitente é seguro para idosos?"
+    a: "Pode não ser. O jejum pode levar a perda de peso e de massa muscular não intencionais, desidratação, tontura e quedas, e pode causar açúcar perigosamente baixo no sangue em pessoas que tomam insulina ou alguns outros medicamentos para diabetes. A Clínica Mayo observa que ele pode não ser adequado para pessoas com alto risco de perda óssea e de quedas. Converse com um médico antes de tentar."
+  - q: "Alguém com demência deve tentar jejum?"
+    a: "Não. Pessoas que vivem com demência costumam ter dificuldade para comer e beber o suficiente, e uma alimentação pobre pode aumentar sintomas de comportamento e causar perda de peso. O jejum traz risco sem benefício comprovado. Prefira refeições regulares, lanches de que a pessoa goste e líquidos suficientes."
+  - q: "Quais são os sinais de que alguém com demência não está comendo ou bebendo o suficiente?"
+    a: "Fique atento a perda de peso, roupas ficando largas, cansaço, fraqueza, prisão de ventre ou recusa de comida. Os sinais de desidratação listados pelo Instituto Nacional de Envelhecimento incluem boca seca, tontura, batimentos cardíacos acelerados e alucinações. Conte ao médico da pessoa se notar esses sinais."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +54,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+O jejum intermitente, como comer apenas dentro de uma janela de oito horas ou cortar muito as calorias dois dias por semana, recebe muita atenção, e alguns artigos sugerem que ele poderia proteger o cérebro. Se você é um adulto mais velho ou cuida de alguém que vive com demência, veja aqui o que a pesquisa realmente mostra e por que a cautela importa.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Esta é uma informação geral, não orientação médica. Não comece um jejum, nem mude a alimentação de quem você cuida, sem conversar com um médico ou um nutricionista. Veja nosso [aviso médico](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## O jejum intermitente previne a demência?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Não há boa evidência de que o jejum intermitente previna ou retarde a demência. O Instituto Nacional de Envelhecimento (NIA) diz que não há evidência suficiente para recomendar qualquer tipo de dieta de restrição calórica ou de jejum, e que ainda é preciso saber muito mais sobre sua eficácia e segurança, sobretudo em adultos mais velhos ([NIA sobre restrição calórica e jejum](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Por que a evidência é tão limitada
 
-The NIA gives several reasons:
+O NIA apresenta vários motivos:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **A maioria dos estudos é feita em animais.** Pesquisas com vermes, moscas, camundongos e macacos produziram resultados interessantes, mas esses achados não necessariamente valem para as pessoas. Mesmo nos animais, os resultados são mistos: em algumas linhagens de camundongos, a restrição calórica encurtou a vida.
+- **Os ensaios com humanos foram curtos.** A maioria durou algumas semanas ou meses.
+- **A maioria dos ensaios com humanos focou na perda de peso** em adultos com sobrepeso, não na memória nem na demência.
+- **Os idosos raramente foram incluídos.** Muitos ensaios recrutaram pessoas com 60 anos ou menos.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Uma revisão sistemática de 2026 analisou especificamente o jejum intermitente em adultos com 60 anos ou mais. Ela concluiu que a evidência nessa faixa etária continua limitada, com estudos pequenos, acompanhamento curto e desenhos mistos. Os achados sobre pensamento e memória vieram de estudos individuais, e não de resultados reunidos em ensaios. A revisão também observou que alguns estudos ligaram janelas de alimentação muito curtas ou jejuns longos a piores resultados, e os autores pediram cautela para idosos ([revisão de 2026 na Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Alguns pesquisadores acham que a mudança do corpo para queimar gordura durante o jejum pode afetar o cérebro, mas isso ainda é uma teoria em estudo. O NIA observa que a ciência ainda é incerta.
 
-## What are the risks of fasting for older adults?
+## Quais são os riscos do jejum para idosos?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Para muitos idosos, o jejum não é um experimento inofensivo. Os possíveis riscos incluem:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Perda de peso não intencional.** Comer menos do que o corpo precisa pode levar a perda de peso e menos força muscular, deixando a pessoa mais frágil.
+- **Perda de massa muscular e óssea.** Em um ensaio de dois anos de restrição calórica apoiado pelo NIA, com adultos jovens e de meia-idade, os participantes tiveram leves quedas na densidade óssea e na massa magra.
+- **Açúcar baixo no sangue com medicamentos para diabetes.** Pessoas que tomam insulina ou alguns outros medicamentos para diabetes podem ter a glicose caindo demais se pularem ou atrasarem refeições, segundo o [Instituto Nacional de Diabetes e Doenças Digestivas e Renais](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). O açúcar baixo pode causar tontura, confusão e irritabilidade.
+- **Desidratação.** Se os líquidos forem pulados junto com as refeições, a pessoa pode ficar desidratada.
+- **Tontura e quedas.** A Clínica Mayo observa que o jejum intermitente pode deixar as pessoas muito cansadas e tontas, e que pode não ser um padrão saudável para quem tem alto risco de perda óssea e de quedas ([Clínica Mayo sobre jejum intermitente](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Outros efeitos.** A Clínica Mayo também cita dor de cabeça, mudanças de humor e prisão de ventre, e observa algumas evidências de que um jejum de 16 horas com janela de 8 horas para comer pode aumentar o risco de doença cardíaca em comparação com outras janelas de alimentação. Essa evidência ainda não está definida.
 
-## Why is eating enough the bigger concern with dementia?
+## Por que comer o suficiente é a maior preocupação na demência?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Para quem vive com demência, o problema costuma ser comer e beber **o suficiente**, não em excesso. A Associação de Alzheimer explica que pessoas nas fases intermediária e avançada podem se sentir sobrecarregadas com as opções de comida, esquecer de comer ou achar que já comeram. Ela acrescenta que uma alimentação pobre pode aumentar sintomas de comportamento e causar perda de peso ([Associação de Alzheimer sobre alimentação](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+A Sociedade Alzheimer do Reino Unido observa que não comer o suficiente pode levar a perda de peso, menos força muscular, cansaço e fraqueza, deixando a pessoa mais frágil e menos capaz de se recuperar de infecções ([Sociedade Alzheimer sobre apetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Por essas razões, o jejum não é uma boa ideia para quem vive com demência.** Refeições puladas facilmente se tornam refeições perdidas. Qualquer mudança na forma como uma pessoa com demência se alimenta deve ser orientada pelo médico dela ou por um nutricionista.
 
-## What are the warning signs of poor eating or drinking?
+## Quais são os sinais de alerta de alimentação ou hidratação insuficientes?
 
-Watch for:
+Fique atento a:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Perda de peso**, ou roupas ficando mais largas.
+- **Deixar comida no prato ou recusar refeições**, ou guardar comida na boca.
+- **Cansaço ou fraqueza.**
+- **Prisão de ventre**, que pode estar ligada à alimentação e à desidratação.
+- **Sinais de desidratação.** O NIA lista boca seca, tontura, batimentos cardíacos acelerados e alucinações, que também podem ser causados pela própria demência ([NIA sobre problemas médicos comuns](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+O apetite baixo tem muitas causas possíveis: dentes doloridos ou dentadura solta, medicamentos novos, depressão, prisão de ventre, menos atividade ou mudanças no paladar e no olfato. Conte ao médico da pessoa sobre qualquer um desses sinais. Ele pode procurar uma causa e sugerir um nutricionista ou suplementos.
 
-## How can you help someone eat and drink enough?
+## Como ajudar alguém a comer e beber o suficiente?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Ofereça refeições e lanches pequenos com frequência**, em vez de três refeições grandes.
+- **Sirva comidas preferidas**, e seja flexível conforme o paladar muda. Doces podem ser bem-vindos se o apetite estiver baixo; pergunte ao médico se há motivos de saúde para limitar o açúcar.
+- **Deixe bebidas ao alcance** e ofereça copos pequenos ao longo do dia. Sopas, frutas, vitaminas e milkshakes também contam.
+- **Comam juntos sempre que possível.** As refeições são uma chance de companhia, não uma tarefa para apressar.
+- **Experimente alimentos para comer com as mãos**, como sanduíches, fatias de fruta ou pedaços de frango, se os talheres ficaram difíceis de usar.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Nosso [guia de alimentação](/brain-health/diet/) traz mais ideias para as refeições. Preparar a comida junto também pode ser uma atividade agradável em conjunto; veja [tarefas domésticas](/activities/household-tasks/).
 
-## Talk with a doctor
+## Converse com um médico
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Antes de tentar qualquer plano de jejum por conta própria, converse com seu médico ou um nutricionista, sobretudo se você toma medicamentos para diabetes ou pressão, perdeu peso recentemente ou sofreu quedas. Para quem vive com demência, pergunte ao médico da pessoa quanto ela deve comer e beber por dia, em vez de perguntar sobre jejum.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Procure atendimento médico urgente em caso de confusão súbita, desmaio ou sinais de açúcar muito baixo no sangue que não melhorem rapidamente.
