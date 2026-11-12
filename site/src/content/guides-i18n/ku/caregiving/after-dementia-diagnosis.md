@@ -68,7 +68,7 @@ Ne hewce ye ku kes hemû tiştên li ser demansê di carekê de fêr bibe. Agahi
 
 Ji kesê bipirsin ku çi cure piştgirî dê alîkar be û kîjan kes dixwaze tevlî bibe. Hevalekî an endamekî malbatê yê pêbawer dikare destpêkeke baş be. Hin kes komeke piştgiriyê, şêwirmendekî, rêxistineke demansê ya herêmî an axaftina bi tîma lênêrînê tercîh dikin. Vebijêrka rast bi kes û bi tiştên li nêzîk heye ve girêdayî ye.
 
-Piştgirî ji bo kesê ku teşxîs bûye jî heye, û ji bo malbat û hevalan jî. Lênêrîner dibe ku bêhnvedan an alîkariya karên rojane hewce bike; kes dibe ku agahî an fersendek bixwaze ku bi kesên din ên ku bi demansê dijîn re bicive. Ev hewcedariyan dikarin cuda bin. Berî ku koməkê saz bikin, serdanekê li dar bixin, an agahiyên kesane parve bikin, bipirsin.
+Piştgirî ji bo kesê ku teşxîs bûye jî heye, û ji bo malbat û hevalan jî. Lênêrîner dibe ku bêhnvedan an alîkariya karên rojane hewce bike; kes dibe ku agahî an fersendek bixwaze ku bi kesên din ên ku bi demansê dijîn re bicive. Ev hewcedariyan dikarin cuda bin. Berî ku komekê saz bikin, serdanekê li dar bixin, an agahiyên kesane parve bikin, bipirsin.
 
 [Rêbera xweparastina lênêrîneran](/caregiving/caregiver-self-care/) ji bo pirsîna alîkariya kesên din şîretan dide. Eger kes di rojê de piştgiriyeke zêdetir bixwaze, rêberên [programên rojane yên ji bo mezinan](/caregiving/choosing-adult-day-program-dementia/) û [lênêrîna li malê](/caregiving/choosing-in-home-dementia-care/) pirsên ku li ser xizmetên herêmî divê bipirsin rave dikin.
 
@@ -104,7 +104,7 @@ Eger kes ji bo axaftinekê alîkariyê bixwaze, bipirsin ka dixwaze hûn çi bib
 
 Rutîn û çalakiyên ku ji bo kesê girîng in, heta ku ew rehet hîs bikin, bidomînin. Teşxîs tê wateya ku her hobî, derketin an rola malê divê biweste nake. Eger tiştek dijwartir bibe, bipirsin kes dixwaze çi biguhere. Serdanekê kurttir, muzîka nas, alîkariya di gaveke yekta de an demekî cuda ya rojê dibe ku ji wî re baştir be.
 
-Dibe ku kes jî hewce bike ku cihekî ji bo şîrovekirina nûçeyê hebe bêyî ku plansaziyê nîqaş bike. Bi wî re têkilî daynin bêyî ku her axaftinê bike civîneke lênêrînê. Dibe ku hûn ji plansaziyê bêjin û bi awayekî asayî bi hev re wext derbas bikin.
+Dibe ku kes jî hewce bike ku cihekî ji bo ku nûçeyê fam bike hebe bêyî ku li ser plansaziyê nîqaş bike. Bi wî re têkilî daynin bêyî ku her axaftinê bike civîneke lênêrînê. Dibe ku hûn ji plansaziyê bêjin û bi awayekî asayî bi hev re wext derbas bikin.
 
 ## Kengê divê em ji pisporekî bipirsin?
 
