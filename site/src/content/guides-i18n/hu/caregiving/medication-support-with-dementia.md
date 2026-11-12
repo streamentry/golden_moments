@@ -11,7 +11,7 @@ summary: >-
   a személlyel az elfogadható emlékeztetőkben. Ne változtasson adagot, ne törje szét a tablettát, és
   ne keverje gyógyszert ételbe szakmai tanács nélkül.
 keyPoints:
-  - "A listába vegye fel a receptköteles gyógyszereket, a vény nélkül kapható szereket, a vitaminokat és a étrend-kiegészítőket is."
+  - "A listába vegye fel a receptköteles gyógyszereket, a vény nélkül kapható szereket, a vitaminokat és az étrend-kiegészítőket is."
   - "Kérdezze meg az orvost vagy a gyógyszerészt a kölcsönhatásokról, mellékhatásokról és a kihagyott adagokról."
   - "Hagyja, hogy a személy annyit csináljon, amennyit tud és szeretne."
   - "Ne változtasson adagot, és ne törjön szét tablettát szakmai tanács nélkül."
