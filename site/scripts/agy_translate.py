@@ -50,10 +50,16 @@ Rules:
 
 def languages() -> list[dict]:
     out = []
+    seen = set()
     with open(CSV, newline='') as f:
         for row in csv.reader(f):
-            if row and row[0].strip() and row[0].strip() != '639-1':
-                out.append({'code': row[0].strip(), 'english': row[3].strip(), 'native': row[4].split(',')[0].strip()})
+            if not row or not row[0].strip() or row[0].strip() == '639-1':
+                continue
+            code = row[0].strip()
+            if code in seen:
+                raise ValueError(f'duplicate language code in {CSV}: {code}')
+            seen.add(code)
+            out.append({'code': code, 'english': row[3].strip(), 'native': row[4].split(',')[0].strip()})
     return out
 
 
@@ -499,9 +505,28 @@ def json_done(kind: str, code: str) -> bool:
     return sum(ts) / max(1, len(ts)) < 0.3
 
 
-def pending(kinds, codes):
+def guide_paths(selected: list[str] | None = None) -> list[str]:
+    available = sorted(p.relative_to(GUIDES).as_posix() for p in GUIDES.glob('**/*.md'))
+    if not selected:
+        return available
+    result = []
+    for raw in selected:
+        value = raw.strip().replace(chr(92), '/')
+        if not value:
+            continue
+        if value.startswith('/') or '..' in Path(value).parts:
+            raise ValueError(f'invalid guide path: {raw}')
+        rel = value if value.endswith('.md') else value + '.md'
+        if rel not in available:
+            raise ValueError(f'unknown guide path: {raw}')
+        if rel not in result:
+            result.append(rel)
+    return result
+
+
+def pending(kinds, codes, guides: list[str] | None = None):
     todo = []
-    rels = [str(p.relative_to(GUIDES)) for p in sorted(GUIDES.glob('**/*.md'))]
+    rels = guide_paths(guides) if 'guides' in kinds else []
     for code in codes:
         for k in kinds:
             if k == 'guides':
@@ -518,11 +543,26 @@ def main():
     ap.add_argument('--langs', default='')
     ap.add_argument('--jobs', type=int, default=5, help='parallel tasks, capped at 5')
     ap.add_argument('--limit', type=int, default=0)
+    ap.add_argument('--guides', default='', help='comma-separated guide paths (section/slug); only these guides are considered')
     a = ap.parse_args()
     meta = locale_codes()
-    codes = [c for c in (a.langs.split(',') if a.langs else [l['code'] for l in languages() if l['code'] in meta]) if c != 'en' and c in meta]
+    try:
+        requested_codes = a.langs.split(',') if a.langs else [lang['code'] for lang in languages()]
+    except ValueError as error:
+        ap.error(str(error))
+    requested_codes = list(dict.fromkeys(code.strip() for code in requested_codes if code.strip()))
+    unknown_codes = sorted(set(requested_codes) - set(meta))
+    if unknown_codes:
+        ap.error(f'no locale metadata for language codes: {", ".join(unknown_codes)}')
+    codes = [code for code in requested_codes if code != 'en']
     kinds = a.kinds.split(',')
-    todo = pending(kinds, codes)
+    selected_guides = [guide.strip() for guide in a.guides.split(',') if guide.strip()]
+    if selected_guides and 'guides' not in kinds:
+        ap.error('--guides requires guides in --kinds')
+    try:
+        todo = pending(kinds, codes, selected_guides or None)
+    except ValueError as error:
+        ap.error(str(error))
     by = {}
     for k, c, r in todo:
         by.setdefault(k, set()).add(c)

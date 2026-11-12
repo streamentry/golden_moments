@@ -2,6 +2,7 @@
 
 import importlib.util
 import io
+import tempfile
 from pathlib import Path
 import unittest
 from unittest.mock import patch
@@ -53,6 +54,53 @@ class AgyTranslateTests(unittest.TestCase):
 
         self.assertEqual(error.exception.kind, "quota")
         self.assertIn("retry in 5s", str(error.exception))
+
+
+
+    def test_language_catalog_has_185_unique_codes_including_south_azerbaijani(self) -> None:
+        codes = [language['code'] for language in agy_translate.languages()]
+        self.assertEqual(len(codes), 185)
+        self.assertEqual(len(set(codes)), 185)
+        self.assertIn('en', codes)
+        self.assertIn('azb', codes)
+        self.assertEqual(codes.count('az'), 1)
+
+    def test_language_catalog_rejects_duplicate_codes(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            csv_path = Path(tmp) / 'languages.csv'
+            csv_path.write_text(
+                '639-1,639-2/T,639-2/B,Language name,Native name\n'
+                'aa,aar,aar,Afar,Afaraf\n'
+                'aa,aa,aa,Duplicate,Duplicate\n',
+                encoding='utf-8',
+            )
+            with patch.object(agy_translate, 'CSV', csv_path):
+                with self.assertRaisesRegex(ValueError, 'duplicate language code.*aa'):
+                    agy_translate.languages()
+
+    def test_pending_can_select_one_guide_by_slug(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            guides = Path(tmp) / 'guides'
+            (guides / 'caregiving').mkdir(parents=True)
+            (guides / 'caregiving/one.md').write_text('one', encoding='utf-8')
+            (guides / 'caregiving/two.md').write_text('two', encoding='utf-8')
+            with (
+                patch.object(agy_translate, 'GUIDES', guides),
+                patch.object(agy_translate, 'guide_done', return_value=False),
+            ):
+                tasks = agy_translate.pending(['guides'], ['es'], ['caregiving/one'])
+            self.assertEqual(tasks, [('guides', 'es', 'caregiving/one.md')])
+
+    def test_guide_selection_rejects_unknown_or_parent_paths(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            guides = Path(tmp) / 'guides'
+            (guides / 'caregiving').mkdir(parents=True)
+            (guides / 'caregiving/one.md').write_text('one', encoding='utf-8')
+            with patch.object(agy_translate, 'GUIDES', guides):
+                with self.assertRaisesRegex(ValueError, 'unknown guide path'):
+                    agy_translate.guide_paths(['caregiving/missing'])
+                with self.assertRaisesRegex(ValueError, 'invalid guide path'):
+                    agy_translate.guide_paths(['../secret'])
 
 
 if __name__ == "__main__":

@@ -15,6 +15,10 @@ place that lists one (site and app). Where a translator cannot supply 30 genuine
 sayings, the language goes in `NO_SAYINGS_GAME` in `src/i18n/play.ts` and
 Finish the saying is left out instead of padded with invented proverbs.
 
+The improvement goal uses the 185 unique codes in docs/languages.csv, including English at the root and 184 non-English translations. A numbered site-guide improvement is complete only when its changed guide has a translated file for each non-English code, passes the guide checker, and remains marked unreviewed until native review.
+
+For one improvement at a time, limit the translation queue to its guide: python3 scripts/agy_translate.py status --kinds guides --guides caregiving/<slug>; add run and --langs <comma-separated-codes> to translate a chosen set. This avoids queueing unrelated guides.
+
 ## Files per language (`<code>` as in `locales.ts`)
 
 | File | Source | Check |

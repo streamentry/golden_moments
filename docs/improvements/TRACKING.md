@@ -2,13 +2,19 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 91 / 500 completed**
+**Source improvements: 91 / 500 implemented**
+
+**Full 185-language coverage: 0 / 500 verified under the updated completion gate**
 
 Maintainer decision (2026-11-12): target increased from 100 to 500 improvements; existing numbered rounds remain counted.
 
+Maintainer decision (2026-11-12): completion also requires all user-facing text changed by each improvement in the 185 unique codes in docs/languages.csv (English source plus 184 non-English translations). Previous rounds require a coverage audit and any needed backfill. Machine translations count as translated coverage only after structural checks and remain explicitly unreviewed.
+
 ---
 
-## Completed Improvements
+## Implemented Source Improvements
+
+The source log records which product improvements exist. The separate 185-language gate above determines whether each one is complete for the active goal.
 
 | # | Date | Commit | Topic | Primary Source & Rationale | Scope | Status |
 |---|---|---|---|---|---|---|
