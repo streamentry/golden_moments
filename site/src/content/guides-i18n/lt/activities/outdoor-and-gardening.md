@@ -111,10 +111,10 @@ Rinkitės augalus, kuriuos saugu liesti ir, idealiu atveju, saugu paragauti. AFA
 Planuokite laiką lauke pagal orą. NIA paaiškina, kad vyresni žmonės yra labiau pažeidžiami [karščio sukeltų ligų](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), iš dalies todėl, kad kūnas prasčiau prisitaiko prie temperatūros pokyčių, o kai kurie vaistai veikia tai, kaip kūnas valdo šilumą.
 
 - **Eikite anksti ar vėlai.** Šiltu metu vengkite vidurdienio. Tikrinkite karščio indeksą, o ne tik temperatūrą.
-- **Dažnai siūlykite vandens.** Nelaukite, kol žmogus pasakys, kad trokšta. Karščiu vvenkite alkoholio ir kofeino turinčių gėrimų.
+- **Dažnai siūlykite vandens.** Nelaukite, kol žmogus pasakys, kad trokšta. Karščiu venkite alkoholio ir kofeino turinčių gėrimų.
 - **Apsirenkite tinkamai.** Šviesūs, laisvi drabužiai, platus skrybėlės kraštas ir akiniai nuo saulės.
 - **Naudokite apsauginį kremą nuo saulės.** NIA rekomenduoja plataus spektro apsaugą, kurios SPF yra 15 ar daugiau, ir ją tepti pakartotinai per dieną.
-- **Rinkitės šešėlį.** Pastatykite bandymų stalą po medžiu ar skėčiu.
+- **Rinkitės šešėlį.** Pastatykite sodinimo stalą po medžiu ar skėčiu.
 - **Laikykite trumpai.** Trumpas buvimas lauke gali būti pakankamas, ypač šiltomis dienomis.
 - **Stebėkite įspėjamuosius ženklus.** NIA nurodo galvos skausmą, sumišimą, svaigulį ar pykinimą kaip galimus karščio ligos požymius. Žmogus su demencija gali nepasakyti, kad jaučiasi blogai, todėl stebėkite jo veidą ir elgesį. Eikite į vidų, atvėskite vandeniu ir šaltu audiniu ir kreipkitės medicininės pagalbos, jei žmogui greitai negerėja. Karščio smūgis, kurio požymiai yra alpimas, sumišimas ar sausa, paraudusi oda, yra medicininė skubi būklė: skambinkite vietiniu skubios pagalbos numeriu.
 
@@ -134,7 +134,7 @@ NIA [patarimai dėl klajojimo ir pasiklydimo](https://www.nia.nih.gov/health/alz
 
 Alzheimerio asociacija taip pat siūlo sukurti vidines ir lauko zonas, kuriose galima saugiai tyrinėti, ir planuoti veiklas tuo dienos metu, kai neramumas labiausiai tikėtinas. Pasivaikščiojimas saugiame, uždarame sode gali tikti vakaro neramumui. Žr. mūsų vadovą apie [vakaro neramumą](/caregiving/late-day-restlessness/).
 
-Jei žmogus dingsta, patikrinkite artimas saugias vietas ir nedelsdami kreipkitės į vietos policiją ar skubios pagalbos tarnybas. Nelaukite nustatyto laiko prieš pranešdami. 2021 m. JAV Teisingumo departamento žurnalo straipsnis apie dingusių asmenų tyrimus [(U.S. Department of Justice journal article on missing-person investigations)](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) teigia, kad teisėsaugos institucijos neturėtų reikalauti nustatyto laukimo laikotarpio, o simptomai, panašūs į demenciją, įvardijami kaip didelės rizikos požymis. Vietos pranešimo tvarka skiriasi. Pasakykite, kada ir kur žmogus buvo paskutinį kartą matytas, ką jis dėvi ir pateikite naujausią nuotrauką. Vykdykite vietinių pagalbos tarnybų nurodymus ir nieko nepaieškokite nesaugiose vietose vienas.
+Jei žmogus dingsta, patikrinkite artimas saugias vietas ir nedelsdami kreipkitės į vietos policiją ar skubios pagalbos tarnybas. Nelaukite nustatyto laiko prieš pranešdami. 2021 m. JAV Teisingumo departamento žurnalo straipsnis apie dingusių asmenų tyrimus [U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) teigia, kad teisėsaugos institucijos neturėtų reikalauti nustatyto laukimo laikotarpio, o simptomai, panašūs į demenciją, įvardijami kaip didelės rizikos požymis. Vietos pranešimo tvarka skiriasi. Pasakykite, kada ir kur žmogus buvo paskutinį kartą matytas, ką jis dėvi ir pateikite naujausią nuotrauką. Vykdykite vietinių pagalbos tarnybų nurodymus ir nieko nepaieškokite nesaugiose vietose vienas.
 
 ## Kaip keisti sodininkystę, kai viskas keičiasi?
 

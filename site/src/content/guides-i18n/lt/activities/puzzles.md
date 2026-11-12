@@ -50,7 +50,7 @@ Dėlionė, išklota ant valgomojo stalo, yra viena lengviausiai dalijamų veikl�
 
 ## Ar galvosūkiai tinka žmonėms su demencija?
 
-Daugeliui jie patinka, ypač tiems, kurie dėliojo anksčiau. Alzheimerio fondas Amerikoje [(Alzheimer's Foundation of America)](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) tarp veiklų ankstyvajai stadijai mini žodžių paieškas, kortų ir stalo žaidimus, o [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mini internetinius žaidimus ir galvosūkius planšetėse kaip vieną iš būdų išlikti įsitraukusiam.
+Daugeliui jie patinka, ypač tiems, kurie dėliojo anksčiau. Alzheimerio fondas Amerikoje [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) tarp veiklų ankstyvajai stadijai mini žodžių paieškas, kortų ir stalo žaidimus, o [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mini internetinius žaidimus ir galvosūkius planšetėse kaip vieną iš būdų išlikti įsitraukusiam.
 
 Galvosūkiai nėra gydymas. Nė vienas galvosūkis nebuvo parodytas sulėtinantis ar sustabdantis demenciją; mūsų vadove apie [smegenų žaidimus ir demenciją](/brain-health/brain-games/) paaiškinama, ką rodo tyrimai. Galvosūkį verta daryti dėl malonaus, įtraukiančio valandos laiko kartu. [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/activities) tai apibendrina: svarbiausias yra malonumas, o ne pasiekimas.
 
