@@ -39,7 +39,7 @@ health: false
 
 Lenaneo la letsatsi la bagolo le ka fetola sebaka le go thusa mo ditlwaelong tsa letsatsi. Le ka boela le fa motlhokomedi wa lelapa nako ya tiro, dithata kgotsa phomolo. Dilenaneo di farologana, mme setsha se se siameng motho a le mongwe se ka se siame yo mongwe. Dikgetho tsa motho le go ikutlwa ga gagwe ke tsone tse di tshwanetseng go laola tshwetso.
 
-[Tlhaloso ya Alzheimer's Association ka disetsha tsa letsatsi la bagolo](https://www.alz.org/help-support/caregiving/care-options/adult-day-centers) le [lenane la go tlhopha setsha](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-an-adult-day-center-ts.pdf) di gakolola gore o lekole ditirelo, badiri, dipapadi, ditefo le dipalangwa pele o ngwadisa. Tsebe e e thusa go rulaganya dipotso; ga e tlhophe kgotsa go nna setsha se se itseng.
+[Tlhaloso ya Alzheimer's Association ka disetsha tsa letsatsi la bagolo](https://www.alz.org/help-support/caregiving/care-options/adult-day-centers) le [lenane la go tlhopha setsha](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-an-adult-day-center-ts.pdf) di gakolola gore o lekole ditirelo, badiri, dipapadi, ditefo le dipalangwa pele o ngwadisa. Tshedimosetso e e thusa go rulaganya dipotso; ga e tlhophe kgotsa go nna setsha se se itseng.
 
 ## Ke ka tsela efe ya go tlhomamisa gore ke tshwanetse go leka lenaneo la letsatsi?
 

@@ -48,7 +48,7 @@ health: true
 
 Motho yo o nnang le dementia a ka lebala go nwa metsi kgotsa a sa ikutlwe a lapile. Seno se se nwiwang se se sa bonweng kgotsa se se thata go se tshwara se ka nna gore se lebalwe. Diphetogo tse nnye mo ditlwaelong di ka dira gore dinwelo di amogelege fa motho a sa ntse a laola.
 
-[Tataiso ya Alzheimer's Association ka dijo le go ja](https://www.alz.org/help-support/caregiving/daily-care/food-eating) e gakolola go fa dikopana tse dinnye tsa metsi letsatsi lotlhe le dijo tse di nang le metsi mo go tsone. [Tataiso ya Dementia Australia ka dijo](https://www.dementia.org.au/living-dementia/staying-healthy/nutrition-and-dementia) le yone e kgothaletsa dinwelo tse di tlwaelegileng le go fitlhelela. Tsebe eno e fa dikeletso tsa kakaretso, e seng palo ya metsi ya motho ka noo.
+[Tataiso ya Alzheimer's Association ka dijo le go ja](https://www.alz.org/help-support/caregiving/daily-care/food-eating) e gakolola go fa dikopana tse dinnye tsa metsi letsatsi lotlhe le dijo tse di nang le metsi mo go tsone. [Tataiso ya Dementia Australia ka dijo](https://www.dementia.org.au/living-dementia/staying-healthy/nutrition-and-dementia) le yone e kgothaletsa dinwelo tse di tlwaelegileng le go fitlhelela. Tshedimosetso eno e fa dikeletso tsa kakaretso, e seng palo ya metsi ya motho ka noo.
 
 ## Ke ka tsela efe ya go dira gore seno se bonale le go fitlhelela?
 

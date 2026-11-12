@@ -42,7 +42,7 @@ health: false
 
 ## Founga ‘o e pingo fakatātā
 
-‘Oku ‘i ai ha kāate ‘a e taha kotoa ‘oku ‘i ai ha ‘ulu‘ulu ‘o e ngaahi fakatātā, hangē ko e ipu teaa, ha pusi, ha tōtō, ha vaka ‘i he tahi, pe ha pasikala. Ko e tokotaha ui ‘oku fakahā pe ui ‘a e fakatātā ‘e taha ‘i he taimi. ‘Oku tohi ‘e he kakai ‘a e fakatātā tatau ‘i honau kāate. Ko e tangata ‘oku ne tōʻaki ha laine kakato, pe ‘a e fakatātā ‘oku fakafepaki‘aki ‘e he kulupu, ‘e lava ke ne ui ‘a e “Pingo!”, ka ‘oku taʻofi ‘e he ni‘ihi ‘a e toʻotoʻa kotoa.
+‘Oku ‘i ai ha kāate ‘a e taha kotoa ‘oku ‘i ai ha ‘ulu‘ulu ‘o e ngaahi fakatātā, hangē ko e ipu teaa, ha pusi, ha tōtō, ha vaka ‘i he tahi, pe ha pasikala. Ko e tokotaha ui ‘oku fakahā pe ui ‘a e fakatātā ‘e taha ‘i he taimi. ‘Oku tohi ‘e he kakai ‘a e fakatātā tatau ‘i honau kāate. Ko e tangata ‘oku ne tōʻaki ha laine kakato, pe ‘a e fakatātā ‘oku fakafepaki‘aki ‘e he kulupu, ‘e lava ke ne ui ‘a e “Pingo”, ka ‘oku taʻofi ‘e he ni‘ihi ‘a e toʻotoʻa kotoa.
 
 ‘E lava ke ke ngāue ‘aki ‘a e kāate pepa mei he [ngaahi ngaue ta‘etotoʻu](/activities/printable/), pe ko e [ta‘alo pingo fakatātā](/games/picture-bingo/), ‘oku kau ai ‘a e tokotaha ui ‘i he skrini ki he kulupu. ‘Oku lelei ‘a e ngaahi founga ‘e ua ‘i ha tapalēti ‘oku hā ki he kulupu kotoa.
 

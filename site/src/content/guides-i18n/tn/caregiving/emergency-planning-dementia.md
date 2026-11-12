@@ -18,7 +18,7 @@ keyPoints:
   - "Latela ditaelo tsa tshoganyetso ya kwa lefatsheng mme o batle thuso ya bonako ya boitekanelo fa go na le kgakgamatso e e tlhaelang."
 faq:
   - q: "Ke eng se ke tshwanetseng go se tsenya mo thokong ya tshoganyetso ya motho yo o nang le dementia?"
-    a: "Akanya ka lenane la dipilisi tsa jaanong, dikgokagano tse di botlhokwa, dichaajara, dikhalase kgotsa thuso ya ditsebe, dithoto tsa go tsamaya tse di tlhokegang, diaparo tse di tlwaetsweng le sepe sa boitumelo. Boloka dithoto le ditokomane mo lefelong le o ka le fitlhelelang ka bonako le ka tshireletso."
+    a: "Akanya ka lenane la dipilisi tsa jaanong, dikgokagano tse di botlhokwa, dichaajara, dikhalase kgotsa thuso ya ditshedimosetso, dithoto tsa go tsamaya tse di tlhokegang, diaparo tse di tlwaetsweng le sepe sa boitumelo. Boloka dithoto le ditokomane mo lefelong le o ka le fitlhelelang ka bonako le ka tshireletso."
   - q: "Ke ka tsela efe ya go rulaganya go tlogela lefelo?"
     a: "Tlhomamisa gore ke mang yo o ka thusang, motho o tla tsamaya ka tsela efe le o ka ya kae. Botsa ditirelo tsa tshoganyetso kgotsa badiri ba kwa lefatsheng ka ditsela tse di fitlhelelegang le latela ditaelo tsa bone tsa jaanong."
   - q: "Go diragala eng fa ke sa ka nna gone mo tshoganyetsong?"
@@ -54,11 +54,11 @@ Akanya ka ditlhoko tse di ka emisang thuso ya motho ya tlwaelo. Fa a nna mo ntlo
 
 ## Ke tshedimosetso le dithoto dife tse ke tshwanetseng go di dira gore di nne gona?
 
-Dira thoko e nnye e e bonolo go e tsaya. Akaretsa dikgokagano tsa tshoganyetso tsa jaanong, lenane la dipilisi, tshedimosetso e botlhokwa ya boitekanelo, thari ya mogala, dichaajara kgotsa thuso ya ditsebe fa e tlhokega, diaparo tse di tshwanelang maemo a loapi le sepe sa boitumelo se se tlwaetsweng. Tsenya dithoto tsa tsamaiso kgotsa puo tse motho a di itshetlegang. Lebelela gore dithoto di a tlhaloganyega ka dinako tse dingwe.
+Dira thoko e nnye e e bonolo go e tsaya. Akaretsa dikgokagano tsa tshoganyetso tsa jaanong, lenane la dipilisi, tshedimosetso e botlhokwa ya boitekanelo, thari ya mogala, dichaajara kgotsa thuso ya ditshedimosetso fa e tlhokega, diaparo tse di tshwanelang maemo a loapi le sepe sa boitumelo se se tlwaetsweng. Tsenya dithoto tsa tsamaiso kgotsa puo tse motho a di itshetlegang. Lebelela gore dithoto di a tlhaloganyega ka dinako tse dingwe.
 
 Boloka dikwalo tse di botlhokwa mo lefelong le o ka le fitlhelelang ka bonako, mme o sireletse tshedimosetso ya sephiri. Botsa motho gore ke dithoto dife di ka abelanwa le gore ke mang. Mothusi a ka tlhoka leina la motho, tsela e a ratang go bua ka yone, dikgokagano tse di botlhokwa le tshedimosetso ya dipilisi, mme ga a tlhoke direkoto tsotlhe tsa sephiri.
 
-Dithoto tse di molemo ke tse motho yo a di dirisang ka ntlha ya nnete. Seaparo se a se ratang, setshwantsho, buka kgotsa sepe se se nnye se se tlwaetsweng se ka nna sa tlhomamisa go feta dithoto tse dintsi tse a sa di tsebeng. Dira gore thoko e nne e e bonolo gore motho a e tshware kgotsa a e tsaye ka tshireletso.
+Dithoto tse di molemo ke tse motho yo a di dirisang ka ntlha ya nnete. Seaparo se a se ratang, setshwantsho, buka kgotsa sepe se se nnye se se tlwaetsweng se ka nna sa tlhomamisa go feta dithoto tse dintsi tse a sa di tshedimosetsong. Dira gore thoko e nne e e bonolo gore motho a e tshware kgotsa a e tsaye ka tshireletso.
 
 ## Leano la kwadiwa le tshwanetse go bolela eng?
 

@@ -22,7 +22,7 @@ faq:
   - q: "Pehē ‘oku ‘ikai lava ke tali ‘a e tangata ‘aki ‘a e ‘io pe ‘ikai?"
     a: "Ngāue ‘aki ‘a e ngaahi kaungā‘ilo, hangē ko e ‘ulu hake pe hifo ‘a e nima, pe fakahā ha fakatātā. ‘E lava foki ke ke fakahā ‘a e ngaahi fakakaukau ‘i he le‘o, pea ke tali ‘e ia ‘aki ‘a e tu‘unga ‘ulu, ‘a e fiefia pe ha lea."
   - q: "‘Oku ‘i ai nai ha ngaahi ta‘alo talanoa kehe ki he kakai motu‘a ‘oku mahaki ‘i he dementia?"
-    a: "‘Io. ‘Oku fehu‘i ‘a e “Ko eni pe ko ia” ‘i he ‘uhinga ‘o ha me‘a ‘e ua ‘oku nau fili. ‘Oku fehu‘i ‘a e “Ko e hā ‘oku ke fili” ki ha fakakaukau. Ko ha ta‘alo kātoa ‘aki ‘a e ngaahi fehu‘i ‘oku ‘ikai ha tu‘unga, hangē ko e [ngaahi kāate talanoa](/games/conversation-cards/) ‘a e Golden Moments, ‘oku fakaafe ai ki he ngaahi talatalanoa ‘i he mo‘ui ‘o ‘aho ni."
+    a: "‘Io. ‘Oku fehu‘i ‘a e “Ko eni pe ko ia” ‘i he ‘uhinga ‘o ha me‘a ‘e ua ‘oku nau fili. ‘Oku fehu‘i ‘a e “Ko e hā ‘oku ke fili” ki ha fakakaukau. Ko ha ta‘alo kātoa ‘aki ‘a e ngaahi fehu‘i ‘oku ‘ikai ha tu‘unga, hangē ko e ngaahi kāate talanoa ‘a e Golden Moments, ‘oku fakaafe ai ki he ngaahi talatalanoa ‘i he mo‘ui ‘o ‘aho ni."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -76,7 +76,7 @@ Kapau ‘oku ‘ikai lava ke muimui ‘a e tangata ki he ngaahi tu‘unga, liliu
 
 - **‘Ko eni pe ko ia.** Foaki ‘a e ngaahi filifili ‘e ua pea fehu‘i ‘a ia ‘oku ne fili: tī pe kofi, ‘a e mo‘unga pe tahi, ha kofu kula pe ha kofu lanu lanu. ‘Oku ‘ikai ha tali totonu.
 - **Ko e hā ‘oku ke fili.** Fehu‘i ‘aki ha fehu‘i mālie mo malu: “‘Ko e hā ‘oku ke fili ai ha kai ‘i he vaʻa-‘aho pe ‘i he falekai?”
-- **Ta‘alo ki he lea ‘oku ‘ilo‘i.** Ko ha lea ‘oku ‘ilo‘i ‘e ha tangata ‘oku tuku ‘a e ngaahi nofo ‘o ia ‘oku ta‘ofi. Feinga ki he [ngaahi ta‘alo lea](/games/finish-the-saying/) ‘a e Golden Moments ke ma‘u ha tataki.
+- **Ta‘alo ki he lea ‘oku ‘ilo‘i.** Ko ha lea ‘oku ‘ilo‘i ‘e ha tangata ‘oku tuku ‘a e ngaahi nofo ‘o ia ‘oku ta‘ofi. Feinga ki he [ngaahi ta‘alo lea](/activities/finish-the-saying/) ‘a e Golden Moments ke ma‘u ha tataki.
 - **Fakamatala ‘a e feitu‘u.** Kole ke ne fakamatala ‘a e falemahaki pe feitu‘u ‘oku ne ‘ofa ai, pea fakaafe ke ke ‘ai ha fakakaukau ki ai foki.
 - **Kāate ‘o e fehu‘i ‘oku ‘ikai ha tu‘unga.** Ko e [kāate talanoa](/games/conversation-cards/) ‘oku foaki ai ‘a e ngaahi fehu‘i tuku‘i kehekehe, ‘oku lava ke pulusi.
 

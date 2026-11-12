@@ -42,7 +42,7 @@ health: true
 
 Etelo ya ngaka e ka akaretsa dintlha tse dintsi ka nako e kgutshwane. Leano le le khutshwane le ka thusa motho le mothusi wa gagwe go tsenya dipotso tse di botlhokwa thata, go utlwisisa dikarabo le go tsamaya le dikgato tse di kgonweng. Motho yo o nnang le dementia a nne karolo ya puisano le ditshwetso go le go le ntsi fa a batla.
 
-[Tataiso ya Alzheimer's Association ka go dirisana le ngaka](https://www.alz.org/help-support/caregiving/daily-care/working-with-the-doctor) e gakolola go kwala dipotso, go tlhalosa diphetogo tse di rileng le go kopa ngaka e bue leano gape. [Keletso ya Dementia Australia ka go dirisana le dingaka](https://www.dementia.org.au/living-dementia/staying-healthy/working-doctors) e gatelela tumelo, go reetsa motho le go abelana ka tshedimosetso ka sephiri fa go tlhokega. Tsebe eno e na le dikeletso tsa kakaretso tsa go lokisetsa, e seng keletso ya boitekanelo.
+[Tataiso ya Alzheimer's Association ka go dirisana le ngaka](https://www.alz.org/help-support/caregiving/daily-care/working-with-the-doctor) e gakolola go kwala dipotso, go tlhalosa diphetogo tse di rileng le go kopa ngaka e bue leano gape. [Keletso ya Dementia Australia ka go dirisana le dingaka](https://www.dementia.org.au/living-dementia/staying-healthy/working-doctors) e gatelela tumelo, go reetsa motho le go abelana ka tshedimosetso ka sephiri fa go tlhokega. Tshedimosetso eno e na le dikeletso tsa kakaretso tsa go lokisetsa, e seng keletso ya boitekanelo.
 
 ## Ke ka tsela efe ya go lokisetsa pele ga kopano?
 
@@ -50,7 +50,7 @@ Botsa motho gore o batla ngaka e itse eng ka sebele. Kwala lenane le le khutshwa
 
 Tlhalosa diphetogo ka mafoko a a rileng. Kwala se se diragetseng, se se simolotseng, gantsi jang le se se neng se diragala ka nako eo. Sekai, “O tlogetse setlhopha sa setswana sa beke le beke mo kgweding e e fetileng” se thusa go feta “O a nna mabe.” Akanya ka tlhaloso ya motho ka ga phetogo, mme o se ka wa dira gore tebelelo ya gago e nne tshwetso ya boitekanelo.
 
-Tsaya lenane le le ntshwa la dithuo, go akaretsa dithuo tsa go kwadiwa le tse di sa kwalwang, dithoto tsa go nosa le dibitamine. Motho a ka batla magalasi, dithuso tsa ditsebe kgotsa maina a ba bangwe ba tlhokomelo. Botsa ofisi gore ke ditokomane dife di tlhokegang, mme o se ka wa kokoanya tshedimosetso ya sephiri e e fetang tse etelo e di tlhokang.
+Tsaya lenane le le ntshwa la dithuo, go akaretsa dithuo tsa go kwadiwa le tse di sa kwalwang, dithoto tsa go nosa le dibitamine. Motho a ka batla magalasi, dithuso tsa ditshedimosetso kgotsa maina a ba bangwe ba tlhokomelo. Botsa ofisi gore ke ditokomane dife di tlhokegang, mme o se ka wa kokoanya tshedimosetso ya sephiri e e fetang tse etelo e di tlhokang.
 
 ## Ke ka tsela efe ya go akaretsa motho mo etelong?
 
@@ -87,7 +87,7 @@ Phetogo e e tlhaelang e ka nna ya go buisanngwa le ngaka, mme e farologana le kg
 
 ## Ke ka tsela efe ya go thusa motho fa dietelo di tlhaela gaolo?
 
-Botsa gore ke eng se se dirang gore etelo e nne bonolo. Motho a ka rata nako ya go etela e e tlwaelegileng, go tlhoka nako e kgutshwane kgotsa mokaulengwe yo o tshepegang. Letsa kliniki pele o botsa ka ditlhokego tsa go kgona go tsena, thuso ya ditsebe kgotsa puo, le gore a dipotso di ka romelwa pele ga etelo.
+Botsa gore ke eng se se dirang gore etelo e nne bonolo. Motho a ka rata nako ya go etela e e tlwaelegileng, go tlhoka nako e kgutshwane kgotsa mokaulengwe yo o tshepegang. Letsa kliniki pele o botsa ka ditlhokego tsa go kgona go tsena, thuso ya ditshedimosetso kgotsa puo, le gore a dipotso di ka romelwa pele ga etelo.
 
 Fa motho a tshwenyega, tlhalosa leano ka tsela e e khutsitseng le e e tlhamaletseng e e mo siamelang. Tsaya sepe se se tlwaelegileng kgotsa papadi e o ka e dirang fa a emetse, fa a batla. Botsa gore a rata go itokisetsa nako e kae: batho ba bangwe ba batla nako ya go itokisetsa, mme ba bangwe ba ka rata go gakolola ka nako e khutshwane gaufi le etelo. Dirisa tlhaloso e e tlhamaletseng e e mo siamelang.
 

@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Ko e dementia ‘i he taʻu iiki ‘oku kamata ‘i mu‘a he taʻu 65. ‘Oku lahi ‘a e tokolahi ‘oku nau ongo‘i ko e taʻu ‘oku ‘ikai fe‘unga mo e ngaahi ngaue ‘oku foaki."
   - "Tauhi ‘a e tangata ‘i he pule ‘o e ngaahi filifili, mei he mahina ‘oku ne fili ki he fononga ‘oku ne palani."
-  - "Ko e hiva, ngaahi tā mo e talanoa mei hono taʻu 20 ki he 50 ‘oku lahi ange ‘a e mahu‘inga ‘i he ngaahi ngaue mei he mo‘ui ki mui."
+  - "Ko e hiva, ngaahi tā mo e talanoa mei hono taʻu uofulu ki he limangofulu ‘oku lahi ange ‘a e mahu‘inga ‘i he ngaahi ngaue mei he mo‘ui ki mui."
   - "Tauhi ‘a e mo‘ui fakaʻaʻi mo e fekau‘aki ‘i he taimi ‘oku fie ai ‘a e tangata, pea fakalelei ‘a e faingamālie ka ‘ikai ko e liliu ‘a e ngaue."
   - "Ko e kau tokanga‘i, hangē ko e kau mali mo e fānau kakai lahi, ‘oku tokoni ‘a e kulupu fe‘ofa‘aki."
 faq:
@@ -64,9 +64,9 @@ Tuku ke filifili ‘e he tangata. Ko e fehu‘i “‘Oku ke fie fai ‘a e ‘a
 
 ## Ngāue ‘aki ‘a e hiva mo e fakamanatu mei hono ngaahi taʻu
 
-‘Oku lava ke ‘omi ‘e he hiva mo e ngaahi tohi‘ata mei he taʻu 20, 30 mo e 40 ‘a e ongo mafana mo e talanoa faingofua. Ko e [ngaue hiva](/activities/music/) ‘oku fakamatala ‘a e founga ke ngaue ai ‘a e ‘ea‘ea hiva, pea ko e [ngaahi ngaue fakamanatu](/activities/reminiscence/) ‘oku fakaʻaʻi ai ‘a e founga ke fakataha ai ‘a e tohi‘ata mo e talanoa ‘ikai ko e sivi. Ki ha ta‘alo ‘oku lahi ange ‘i he kakai lahi, feinga ki he [kāate talanoa](/games/conversation-cards/), ‘oku ‘i ai ha fehu‘i tuku‘i ‘oku fekau‘aki mo e ngāue, fononga, kaume‘a mo e fāmili.
+‘Oku lava ke ‘omi ‘e he hiva mo e ngaahi tohi‘ata mei he taʻu uofulu, tolungofulu mo e fāngofulu ‘a e ongo mafana mo e talanoa faingofua. Ko e [ngaue hiva](/activities/music/) ‘oku fakamatala ‘a e founga ke ngaue ai ‘a e ‘ea‘ea hiva, pea ko e [ngaahi ngaue fakamanatu](/activities/reminiscence/) ‘oku fakaʻaʻi ai ‘a e founga ke fakataha ai ‘a e tohi‘ata mo e talanoa ‘ikai ko e sivi. Ki ha ta‘alo ‘oku lahi ange ‘i he kakai lahi, feinga ki he [kāate talanoa](/games/conversation-cards/), ‘oku ‘i ai ha fehu‘i tuku‘i ‘oku fekau‘aki mo e ngāue, fononga, kaume‘a mo e fāmili.
 
-Ko e [ngaahi pea tohi‘ata](/games/photo-pairs/) ‘oku ‘ai mei ha ngaahi tohi‘ata ‘a e fāmili ‘e lava foki ke lelei, koe‘uhi ko e ngaahi fakatātā ‘oku ‘i ai ‘a e kakai mo e feitu‘u ‘oku mahu‘inga ki he tangata. Ko e [photo pairs](/games/photo-pairs/) ‘oku tauhi ‘a e ngaahi tohi‘ata ‘i he polau‘i ‘i he koloa ko ia.
+Ko e ngaahi pea tohi‘ata ‘oku ‘ai mei ha ngaahi tohi‘ata ‘a e fāmili ‘e lava foki ke lelei, koe‘uhi ko e ngaahi fakatātā ‘oku ‘i ai ‘a e kakai mo e feitu‘u ‘oku mahu‘inga ki he tangata. Ko e [photo pairs](/games/photo-pairs/) ‘oku tauhi ‘a e ngaahi tohi‘ata ‘i he polau‘i ‘i he koloa ko ia.
 
 ## Ngāue, heka mo e mo‘ui ‘o ‘aho ni
 

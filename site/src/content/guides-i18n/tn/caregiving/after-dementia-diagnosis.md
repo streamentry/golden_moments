@@ -107,7 +107,7 @@ Tswelela ka ditlwaelo le dipapadi tse di botlhokwa mo motho fa di sa ntse di mo 
 
 Motho a ka batla le nako ya go tlhaloganya kgang eno ntle le go bua ka dirirwa. Tswelela go tsena go mo botsa ka tlhokomelo ntle le go fetola puisano tsotlhe go nna kopano ya tlhokomelo. Go siame go ikhutsa go tswa mo rulaganyong mme o ikutlwe mmogo ka tsela e e tlwaelegileng.
 
-## Ke leng fa re tshwanetse go batla thuso ya ditsebe?
+## Ke leng fa re tshwanetse go batla thuso ya ditshedimosetso?
 
 Botsa ngaka ya motho dipotso tse di tlhomologileng ka tlhatlhobo ya gagwe, boitekanelo, dithelo kgotsa dikgabo. Ka ditshwetso tsa molao le tsa madi, bua le badiri ba ba tshwanetseng ba ba itseng melao e e dirisiwang kwa motho a nnang gone. Website ya kakaretso ga e kgone go go bolella kelo, tokomane kgotsa tirelo e e siameng mo motho yo o itseng.
 

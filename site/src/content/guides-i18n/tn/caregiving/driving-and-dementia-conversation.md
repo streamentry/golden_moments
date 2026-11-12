@@ -44,7 +44,7 @@ related: [caregiving/traveling-with-dementia, caregiving/home-safety, caregiving
 health: true
 ---
 
-Go tsamaya ka koloi go ka nna karolo ya boitsise jwa motho, boipuso le ditlwaelo tsa letsatsi le letsatsi. Go bua ka diphetogo tse di tlang go ka nna thata ho botlhe. Go simolola ka nako go ka dira gore go nne le sebaka sa go reetsa, go dira ditshwetso le go leka ditsela tse dingwe tsa go tsamalela. Tsebe eno ga se tlhatlhobo ya go tsamaya ka koloi kgotsa tshwetso ya gore motho yo o itseng o sireletsegile go tsamaya ka koloi.
+Go tsamaya ka koloi go ka nna karolo ya boitsise jwa motho, boipuso le ditlwaelo tsa letsatsi le letsatsi. Go bua ka diphetogo tse di tlang go ka nna thata ho botlhe. Go simolola ka nako go ka dira gore go nne le sebaka sa go reetsa, go dira ditshwetso le go leka ditsela tse dingwe tsa go tsamalela. Tshedimosetso eno ga se tlhatlhobo ya go tsamaya ka koloi kgotsa tshwetso ya gore motho yo o itseng o sireletsegile go tsamaya ka koloi.
 
 [Tataiso ya Alzheimer's Association ka dementia le go tsamaya ka koloi](https://www.alz.org/help-support/caregiving/safety/dementia-driving), [keletso ya Dementia Australia ka go tsamaya ka koloi](https://www.dementia.org.au/living-dementia/staying-connected/driving-and-dementia) le [tataiso ya NHTSA ya badiredi ba motlhokomedi](https://www.nhtsa.gov/road-safety/older-drivers) di gakolola go rulaganya pele le go akaretsa motho. Ngaka, setsebi sa go tlhokomela go tsamaya ka koloi le setlhopha sa ditumelelo sa kwa lefatsheng ba ka thusa ka dipotso tse di ikaegileng ka motho.
 
@@ -84,7 +84,7 @@ Lekang tsela kgotsa tirelo mmogo pele e tla nna tsela e le nngwe fela. Botsa gor
 
 Tsaya tshwenyo ka botlhokwa mme o rulaganye tsela e nngwe ya go tsamaya fa o batla keletso e e potlana. Fa motho a tlhaba sentle ka bonako, [NHS e laela gore motho a bone thuso ya boitekanelo ka bonako](https://www.nhs.uk/symptoms/confusion/); dirisa ditirelo tsa tshireletso tsa kwa lefatsheng. Phetogo e e tlhaelang mo tsela e motho a itshwarang ka yone ga e tshwanela go tsewa e le kgang e e tlwaelegileng ya go tsamaya ka koloi.
 
-Mo ditshwenyong tse dingwe tse di botlhokwa, letsa ngaka ya motho le setlhopha sa ditumelelo sa kwa lefatsheng ka dikgato tse di dirisegang kwa motho a nnang gone. O se ka wa ikaega ka tumelelo ya ga lelapa kgotsa tsebe eno go tlhomamisa melao ya semmuso. Fa go kgonega, tlhalosa leano la ka bonako go motho mme o mo akaretse mo go se se latelang.
+Mo ditshwenyong tse dingwe tse di botlhokwa, letsa ngaka ya motho le setlhopha sa ditumelelo sa kwa lefatsheng ka dikgato tse di dirisegang kwa motho a nnang gone. O se ka wa ikaega ka tumelelo ya ga lelapa kgotsa tshedimosetso eno go tlhomamisa melao ya semmuso. Fa go kgonega, tlhalosa leano la ka bonako go motho mme o mo akaretse mo go se se latelang.
 
 ## Ke ka tsela efe ya go thusa motho fa go tsamaya ka koloi go fela?
 
