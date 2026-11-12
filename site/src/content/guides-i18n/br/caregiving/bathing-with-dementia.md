@@ -65,9 +65,9 @@ Derc'hit an eur boas hag an urzh an dilerioù pa vezont mat. Lakait ar saon ha t
 
 ## Petra ober ma'z eo re strinkuz ur bagadenn bras pe ur vagenn?
 
-N'eo ket ar bagadenn bras an hini hepken a gemer a-vremañ evit lakaat an den da santout glan. Ma'z eo mat gant an den, klaskit gwaskañ e-kichen an dour, gant ur robenn tomm pe gwaskañ ur vaezad hag ur vaezad. Gwaskañ ar bleo a c'hall dont da zeiz all ma'z eo an hini a zo droukleizh gant an den. Mirit an den kuzh hag en he bloaz, ha paouezit ma'z eo an hini all ivez ur strinkuz.
+N'eo ket ar bagadenn bras an hini hepken a gemer a-vremañ evit lakaat an den da santout glan. Ma'z eo mat gant an den, klaskit gwaskañ e-kichen an dour, gant ur robenn tomm pe gwaskañ ur vaezad hag ur vaezad. Gwaskañ ar bleo a c'hall dont da zeiz all ma'z eo an hini a zo droukleizh gant an den. Mirit an den kuzh hag en he zillad, ha paouezit ma'z eo an hini all ivez ur strinkuz.
 
-Ma refus an den hiziv, degemerit hag arruit diwezhatoc'h. Ur bugadenn dinoaz warc'hoazh zo gwelloc'h eget ober da hiziv un dra a rebech. An [hent-kanañ diwar-benn pa lavar an den nann](/caregiving/when-they-say-no/) a ro muioc'h a ffyzhioù evit kinnig skoazell hep pouez.
+Ma refus an den hiziv, degemerit hag arruit diwezhatoc'h. Ur bugadenn dinoaz warc'hoazh zo gwelloc'h eget ober da hiziv un dra a rebech. An [hent-kanañ diwar-benn pa lavar an den nann](/caregiving/when-they-say-no/) a ro muioc'h a ideoù evit kinnig skoazell hep pouez.
 
 ## Penaos e c'hallan gwellaat surentez al lec'h-bugañ?
 
@@ -77,6 +77,6 @@ Ma'z eo an den diseurat pe ma'z eo bet ur gouezh, na glaskit ket e savout pe e s
 
 ## Pryd e tlefen goulenn skoazell ur proferien?
 
-Komzit gant ur proferien yec'hed ma vez diaes ar bugañ abalamour d'ur poan nevez, ur gouezh, ur c'hlenvedigezh ar c'hroc'hen pe ur c'hemm en he c'habacità da vougañ e surentez. Ur zantour, ur medisin, un nurs pe ur gouarnour ergonomek a c'hall skoazellañ gant ur gudenn bennak. Na implijit ket ur gidenn enlinenn hollek evit ober emdroadur war an hini a zo ezhomm dezhañ a skoazell korfel.
+Komzit gant ur proferien yec'hed ma vez diaes ar bugañ abalamour d'ur poan nevez, ur gouezh, ur c'hlenvedigezh ar c'hroc'hen pe ur c'hemm en he galloud da vougañ e surentez. Ur zantour, ur medisin, un nurs pe ur gouarnour ergonomek a c'hall skoazellañ gant ur gudenn bennak. Na implijit ket ur gidenn enlinenn hollek evit ober emdroadur war an hini a zo ezhomm dezhañ a skoazell korfel.
 
 Ma'z eo bet an den dibosupl da vougañ e-pad ur pennad, na vez ket kondaonet anezhañ. Goulennit petra a zo an dra diaesañ dezhañ ha ma c'hallfe ur c'hemm bihanoc'h sikour. Ur gweithad anavezet, ur robenn pe skoazell gant un den fiziet a c'hallfe bezañ ret; ma n'eo ket, goulennit skoazell gant ar strollad skoazell.

@@ -46,7 +46,7 @@ An [gidenn an Alzheimer's Association diwar-benn kargañ ha demañs](https://www
 
 ## Pryd e tlefen kregiñ ar gaozeadenn?
 
-Kregiñ a-raok un degouezh a laka un diuzadenn prim da vezañ graet, ma vez posupl. Dibabit un amzer kalm pa n'eo ket an den o kempenn evit mont e lec'h bennak pe o tistreiñ eus un treuziadur straGus. Ar gaozeadenn kentañ a c'hall bezañ unan eus meur a gaozeadenn, n'eo ket ur c'hemenn hepken.
+Kregiñ a-raok un degouezh a laka un diuzadenn prim da vezañ graet, ma vez posupl. Dibabit un amzer kalm pa n'eo ket an den o kempenn evit mont e lec'h bennak pe o tistreiñ eus un tremen diaes. Ar gaozeadenn kentañ a c'hall bezañ unan eus meur a gaozeadenn, n'eo ket ur c'hemenn hepken.
 
 Goulennit petra a dalv ar gargañ d'an den. Ur c'hargañ a c'hall bezañ evit kemer kenvezerien, ober an erbedoù, skoazellañ ar familh pe labourat, pe bezañ dizalc'h. Asantañ ar pezh a dalv an dra d'an den ne ziskoulm ket ar goulenn surentez. Diskouez a ra ez eus gouest a-walc'h gant ar pezh a c'hall bezañ kollet ha perak e vez pouezus kemer kont.
 
@@ -58,7 +58,7 @@ Kaozit diwar-benn un darvoud dibar, n'eo ket diwar-benn un barn hollek. Da skoue
 
 Selaouit ouzh gwel an den. Gallout a ra bezañ bet gwelet ganto ur c'hoarvezidigezh, skuizh, glaziou pe un dra all. Pe gallout a ra disoc'h ganeoc'h. Na soñjit ket ez eo ur gaozeadenn hepken prouenn ez eo komprenet pe n'eo ket komprenet ar riskl gant an den. Derc'hit an tonenn ispisus ha distroit war ar sujed diwezhatoc'h ma vez fromet unan pe unan all.
 
-Dibabit dre-ziwezh d'an den, Dementia Australia a argymen kaozeadennoù berr, adloc'h, ha bezañ diwar-benn an nerzhoù hag an dibaboù pozitiv evit treuziñ. Ur gwir a ziskouez ivez ez eo fentus kuzhat alc'hwezioù pe dizaezhañ ur c'harr e-pad ar c'hentañ kempenn. Ma'z eus ur riskl surentez dibar bremañ, kemerit an oberioù evit diwall ouzh an treuziadur kentañ riskl ha goulennit kuzul prim.
+Dibabit dre-ziwezh d'an den, Dementia Australia a argymen kaozeadennoù berr, adloc'h, ha bezañ diwar-benn an nerzhoù hag an dibaboù pozitiv evit treuziñ. Kuzhat alc'hwezioù pe dizaezhañ ur c'harr en ur mare ar c'hentañ kempenn a c'hall lakaat an den da fromiñ. Ma'z eus ur riskl surentez dibar bremañ, kemerit an oberioù evit diwall ouzh an treuziadur kentañ riskl ha goulennit kuzul prim.
 
 ## Peseurt titouroù a c'hall skoazellañ un emvod proferiel?
 
@@ -66,7 +66,7 @@ Skrivit darvoudoù konkret ha pegoulz o doa c'hoarvezet. Skouerioù a c'hallfe b
 
 Derc'hit an notennoù gwir ha prevez. Na c'hoarzhit ket, na heuliit ket an den na testit anezhañ. Ma asant an den, ur gerent a zo bet er c'harr a c'hall rannañ petra en deus gwelet. Un deskrivadenn sklaer a ro d'ar meziner pe d'ar specialour un dra konkret da gaozeal diwar-benn; ne ziagnostik ket an abeg na n'ober ket diwar-benn an talvoud da gargañ.
 
-Notennoù an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/dementia-driving) war ar sinadoù kentañ a zo abegoù da glask ur gwir sikour. Ne eizh ket lañs an asesadur personel. Goulennit d'ar meziner ma c'hallfe ur gervel d'ur specialour ober adsevel pe ur specialour adskiantadur kargañ aotreet. Gwiriit gant ar burev aotreiñ lec'hel an arvestoù lec'hel gant ar stad pe ar rannvro.
+Notennoù an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/dementia-driving) war ar sinadoù kentañ a zo abegoù da glask ur gwir sikour. Ne sell ket an dra-mañ ouzh an asesadur personel. Goulennit d'ar meziner ma c'hallfe ur gervel d'ur specialour ober adsevel pe ur specialour adskiantadur kargañ aotreet. Gwiriit gant ar burev aotreiñ lec'hel an arvestoù lec'hel gant ar stad pe ar rannvro.
 
 ## Penaos e c'hallomp kempenn un treuziadur asambles?
 
@@ -84,7 +84,7 @@ Evit kudennoù all, kevreit ar meziner ha ar burev aotreiñ lec'hel evit an ober
 
 ## Penaos e c'hallan skoazellañ an den ma vez paouezet da gargañ?
 
-Ur paouez a c'hall bezañ ur gouli gwir. Anavezit-se bepred. Kendalc'hit da bediñ an den d'al lec'hioù hag an oberioù a fell dezhañ. Roit dibaboù diwar-benn ar raned, an amzer ha ar c'hompagnunien kentoc'h eget dont da zrafikañ an treuziadur evel ur labour da rener evito.
+Ur paouez a c'hall bezañ ur c'hoarvezadenn reizh. Anavezit-se bepred. Kendalc'hit da bediñ an den d'al lec'hioù hag an oberioù a fell dezhañ. Roit dibaboù diwar-benn ar raned, an amzer ha ar c'hompagnunien kentoc'h eget dont da zrafikañ an treuziadur evel ur labour da rener evito.
 
 Rannit labouriñ ar gargañ gant kerent pe mignoned ma asant an den. Goulennit d'ar gevredigezhioù kumuniezh diwar-benn an treuziadur evit tud kozh pe tud gant ankoù. Gwiriit ar c'houst, an amzervezh, reolennoù kemer an den hag ma vez aotreet ur gompagnun. Pezhioù bihan a c'hall dibab a ya da vezañ talvoudus pe nann.
 

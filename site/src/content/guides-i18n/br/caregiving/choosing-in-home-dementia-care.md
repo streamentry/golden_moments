@@ -1,7 +1,7 @@
 ---
 title: "Dibab skoazell e-ti evit an den gant ar demañs"
 seoTitle: "Degemer e-ti evit ar demañs: dibab ar skoazell"
-description: "Dibabit skoazell e-ti evit ar demañs en ur resisaat ar pezh a bouez, goulenn diwar-benn ar profiad ha ar skoazell a-skoaz, implijout an den hag en em asuriñ ar bajoù ha termenoù."
+description: "Dibabit skoazell e-ti evit ar demañs: resisait ar pezh a fell, goulennit diwar-benn ar profiad ha ar skoazell a-skoaz, implijit an den hag asurit ar bajoù."
 section: caregiving
 order: 24
 updated: 2026-11-11
@@ -64,7 +64,7 @@ Goulennit referantezed ha penaos e sell ar kevrinadur ouzh ar servijerien. Gwiri
 
 Ma fell d'an den, trefit ur gaozeadenn en ti a-raok ar weladenn kentañ. Notennit ma komz ar servijer war-eeun gant an den, ma selaou kement a fell d'an den hag ma roio amzer dezhañ da respont. Goulennit d'an den penaos e santas ar gaozeadenn, en un doare a c'hall respont dezhañ a-blij.
 
-An [Alzheimer's Association a argymen bezañ unan all a fiziañ ennañ en enklask](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-in-home-care-professional-ts.pdf) evit ma c'hallit kaozeal diwar-benn ho impressionoù goude. Implijit ar gaozeadenn da gaozeal diwar-benn ur weladenn dre zoare: an dont, ar c'heriadenn, al labour kemennet ha penaos e c'hall an den goulenn d'ar servijer chom pe kemer ur pause.
+An Alzheimer's Association a argymen bezañ unan all a fiziañ ennañ en enklask evit ma c'hallit kaozeal diwar-benn ho impressionoù goude. Implijit ar gaozeadenn da gaozeal diwar-benn ur weladenn dre zoare: an dont, ar c'heriadenn, al labour kemennet ha penaos e c'hall an den goulenn d'ar servijer chom pe kemer ur pause.
 
 Mar c'hall, asantit ur weladenn berr kentañ hag adwelet anezhi gant an den. Ur servijer a c'hall bezañ mat war baper ha n'eo ket mat ev'ta evit an den. Doujit an respont an den ha kaozeit diwar-benn an dibaboù ma'z eus soñj pe kaoz ganeoc'h.
 

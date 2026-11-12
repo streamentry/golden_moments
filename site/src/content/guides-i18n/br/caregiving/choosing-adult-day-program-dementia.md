@@ -1,7 +1,7 @@
 ---
 title: "Dibab ur programm deiz evit an dud fetan gant ar demañs"
 seoTitle: "Degemer en deiz evit ar demañs: petra goulenn"
-description: "Keñveriit programmoù deiz evit ar demañs dre ar burzhiudoù, ar skipailh, ar skoazell, an treuziadur hag an talvoud evit c'hoantoù an den. Goulennit diwar-benn ar bajoù."
+description: "Keñveriit programmoù deiz evit ar demañs dre ar burzhiudoù, ar skipailh, ar skoazell, an treuziadur ha c'hoantoù an den. Goulennit diwar-benn ar bajoù."
 section: caregiving
 order: 27
 updated: 2026-11-11

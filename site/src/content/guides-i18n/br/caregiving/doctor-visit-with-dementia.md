@@ -84,7 +84,7 @@ Un doare dornoc'h a c'hall bezañ dellezus da gaozeal diwar-benn gant ur medisin
 
 ## Penaos e c'hallan skoazellañ an den ma vez diaes ar weladennoù?
 
-Goulennit petra a rafe ar weladenn aesoc'h. An den a c'hallfe karout un eur kenstag, un amzer ardaou gwelloc'h pe ur mignon fiziet. Kelaouit ragarre evit goulenn d'ar c'hliniek diwar-benn an ezhommoù arruout, skoazell gant ar selaou pe ar yezh, ha ma c'hallfe kas ar goulennoù a-raok ar weladenn.
+Goulennit petra a rafe ar weladenn aesoc'h. An den a c'hallfe karout un termen berr, un amzer ardaou gwelloc'h pe ur mignon fiziet. Kelaouit ragarre evit goulenn d'ar c'hliniek diwar-benn an ezhommoù arruout, skoazell gant ar selaou pe ar yezh, ha ma c'hallfe kas ar goulennoù a-raok ar weladenn.
 
 Ma'z eo an den ankouac'het, displegit ar plan en un doare kalm ha sklaer a glot ouzh an den. Degasit un dra anavezet pe un dra da ober e-pad ar c'hortoz, ma fell dezhañ. Goulennit petra a garfe an den evit an dleoù kemennadenn: ur re a fell dezho amzer da aozañ, ha re all a garfe un heuliadenn berr tost d'ar weladenn. Implijit un displegadenn onest a glot ouzh an den.
 

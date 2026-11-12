@@ -1,7 +1,7 @@
 ---
 title: "Skoazellañ an den gant ar demañs da evañ ervez"
 seoTitle: "Demañs ha evañ: awennoù evit ar c'hwerver"
-description: "Skoazellit an den gant ar demañs da evañ ervez en ur ginnig an evachoù karet dre an deiz. Goulennit d'ur medisin diwar-benn an ezhommoù dour ha poanioù nevez o kregiñ."
+description: "Skoazellit an den gant ar demañs da evañ ervez en ur ginnig an evachoù karet dre an deiz. Goulennit d'ur medisin diwar-benn an ezhommoù dour ha poanioù nevez."
 section: caregiving
 order: 23
 updated: 2026-11-11
@@ -67,13 +67,13 @@ N'eo ket ret insistiñ war un evad ma nac'h an den outañ. Kinnigit un dibab all
 
 Na strishit ket an evachoù evit lemel an damoù ma n'eo ket bet roet ur plan personel gant ur proferien yec'hed. An [Alzheimer's Association a c'hourc'hemen](https://www.alz.org/help-support/caregiving/daily-care/incontinence) e c'hall strishañ an evachoù degas dihaerañ ha kudennoù all. Un den a rank skoazell evit kavout pe implijout an tualet a c'hallfe bezañ sikouret gant ur seurt skoazell disheñvel. Hon [kelenn diwar-benn ar stad kontinañs](/caregiving/toileting-and-incontinence-with-dementia/) a gendalc'h an arferioù tualet hag ar prevezded.
 
-Skignit ar c'hinnigoù dre an deiz hep goulenn ouzh an den evañ kalz war-zu. Heuliit ar c'hemennadennoù yec'hedel a zo bet kinniget ha goulennit d'ur medisin petra eo an hevelep ret evit an den. Na soñjit ket war un niver hollek dre ar Genrouedad; an ezhommoù dour a zisheñvel, hag e vez plan dour yec'hedel gant kalz tud.
+Skignit ar c'hinnigoù dre an deiz hep goulenn ouzh an den evañ kalz war-zu. Heuliit ar c'hemennadennoù yec'hedel a zo bet kinniget ha goulennit d'ur medisin petra eo an hevelep ret evit an den. Na soñjit ket war un niver hollek dre an niver bennak; an ezhommoù dour a zisheñvel, hag e vez plan dour yec'hedel gant kalz tud.
 
 ## Petra a rankan gwelet a-dreuz?
 
 Sellit ouzh an dra a zisheñvel diouzh patrom boas an den. Gallout a ra bezañ evet ur sammad bihanoc'h eget boas, na vezañ ket klevet an evad a blij dezhañ, pe ez eus ezhomm skoazell muioc'h eget kent. Ur genoù sec, ur c'hoarzhadenn, ur skuizh dic'hortoz pe kemmoù en urinadur a c'hall bezañ abegoù da zont da welet ur proferien yec'hed. An arouezioù-se a c'hall bezañ abegoù all, neuze na ziagnostikit ket ar sec'hañs ho-unan.
 
-Skrivit petra a welit ha pegoulz. Ispisit ma oa an den klañv, en ur sav ter pe en ur blas ma vez diaes dezhañ daliañ pe evañ ur sammad. An [Alzheimer's Association a ziskouez e c'hall bezañ diaes gwelout arouezioù sec'hañs en un den gant ar demañs](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Ma vez ur c'hemm bras pe ma'z oc'h fizierus, komzit gant ur medisin pe ur proferien yec'hed all.
+Skrivit petra a welit ha pegoulz. Notennit ma oa an den klañv, en ur sevel tomm pe en ur blas ma vez diaes dezhañ daliañ pe evañ ur sammad. An [Alzheimer's Association a ziskouez e c'hall bezañ diaes gwelout arouezioù sec'hañs en un den gant ar demañs](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Ma vez ur c'hemm bras pe ma'z oc'h fizierus, komzit gant ur medisin pe ur proferien yec'hed all.
 
 ## Petra a rankan ober ma vez diaes evañ?
 

@@ -62,7 +62,7 @@ Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-chang
 4. **Ekeo ny valiny rehetra.** Ny fanikeham-doha, ny fanolanana ny loha, na ny fihomehezana dia manana lanjany rehetra.
 5. **Manomboka mamakafaka amin'ny feo ambony** ary mankafy azy. Raha tsara ny fanombanana, mifaly miaraka.
 6. **Omeo tombontsoa** rehefa toa mijanona ny olona: "Zavatra ao amin'ny lakozia izany."
-7. **Aza mihitsy isa ny fanontaniana** ary aza mitazona isa.
+7. **Aza manisa ny fanontaniana** ary aza mitazona isa.
 
 Raha tsy afaka manaraka ny fitsipika ny olona, miova amin'ny version tsotra kokoa: manonona zavatra vitsivitsy ianao ary mampiseho izy ny iray marina.
 
@@ -93,4 +93,4 @@ Ajanony, mimoa ary lazao zavatra toy ny hoe: "Andeha hilalao zavatra hafa." Ny f
 
 ## Inona no azon'ny lalao atao sy tsy azo atao
 
-Mahafinaritra sy miray hina ny lalao resaka. Mety hanampy amin'ny olona hifandray sy hizara tantara izy ireo. Tsy mitsabo ny demensia izy, ary tsy miadana na misakana azy. Tazomy ny tanjona tsotra: fotoana mafana miaraka.
+Mahafinaritra sy miray hina ny lalao resaka. Mety hanampy amin'ny olona hifandray sy hizara tantara izy ireo. Tsy mitsabo ny demensia izy, ary tsy mampihena na misakana azy. Tazomy ny tanjona tsotra: fotoana mafana miaraka.

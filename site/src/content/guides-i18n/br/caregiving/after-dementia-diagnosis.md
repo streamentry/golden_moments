@@ -1,7 +1,7 @@
 ---
 title: "Goude ur diagnostik demañs: penaos kregiñ"
 seoTitle: "An enklaskoù da heul ur diagnostik demañs"
-description: "Un derez-kregiñ evit ar wech kentañ goude ur diagnostik demañs: kemer evezh eus an heuliadur, kavout skoazell hag implijout an den en diuzadennoù en un tempo mat dezhañ."
+description: "Un derez-kregiñ goude ur diagnostik demañs: kemer evezh eus an heuliadur, kavout skoazell ha lakaat an den en diuzadennoù en un tempo mat dezhañ."
 section: caregiving
 order: 30
 updated: 2026-11-11
@@ -75,7 +75,7 @@ Hon [kelenn diwar-benn ar skoazell evit ar c'hwerver](/caregiving/caregiver-self
 
 Un diagnostik hepken ne lavar ket dit petra a c'hall an den diuzañ pe penaos e fell dezhañ kemer perzh. Goulennit d'an den war-eeun. Roit amzer dezhañ, displegit an dibab gant gerioù simpl ha goulennit petra a sikourfe ar gaozeadenn da vezañ aesoc'h. Diuzadennoù zo a c'hall bezañ aesoc'h da gaozeal diwar-benn en ul lec'h distro pe a-dreuz da meur a gaozeadenn.
 
-Ma fell d'an den kemer evezh d'e yec'hed, d'e arc'hant pe d'e lec'hioù da chom, kregiñ gant an dra a bouez dezhañ hag gant an hini a fiz ennañ. Ar [gwel plan Dementia Australia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) a argymen kaozeal diwar-benn e youloù gant an dud a fiz ennañ hag ar burevien a dle bezañ. Ar reolennoù lezenn hag ar reolennoù diuzañ a zisheñvel diouzh al lec'h, neuze goulennit kuzul lec'hel pro a-raok fiziañ en ur sterenn hollek. Evit ar skoazell bemnoz war ar pezhioù arc'hant hag ar fallagerezh, gwelit hon [kelenn diwar-benn merañ an arc'hant gant ar demañs](/caregiving/managing-money-with-dementia/).
+Ma fell d'an den kemer evezh d'e yec'hed, d'e arc'hant pe d'e lec'hioù da chom, kregiñ gant an dra a bouez dezhañ hag gant an hini a fiz ennañ. Ar [gidenn plan Dementia Australia](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) a argymen kaozeal diwar-benn e youloù gant an dud a fiz ennañ hag ar burevien a dle bezañ. Ar reolennoù lezenn hag ar reolennoù diuzañ a zisheñvel diouzh al lec'h, neuze goulennit kuzul lec'hel pro a-raok fiziañ en ur sterenn hollek. Evit ar skoazell bemnoz war ar pezhioù arc'hant hag ar fallagerezh, gwelit hon [kelenn diwar-benn merañ an arc'hant gant ar demañs](/caregiving/managing-money-with-dementia/).
 
 ### Petra a c'hallomp goulenn e ur gaozeadenn kentañ diwar-benn ar skoazell a zeu?
 
