@@ -59,7 +59,7 @@ Karê heyî rawestînin, paşde bikşin û gotinek kurt û aram bibêjin. [Alzhe
 
 ## Çi dibe ku bibe sedema tevgerê?
 
-Dibe ku ji yekê zêdetir faktor hebin, û endamekî malbatê nikare sedemê bi awayekî teşxîs bike. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) nexweşiya fizîkî, stresa jîngehê û pirsgirêkên ragihandinê wek sedemên gengaz rêz dike.
+Dibe ku ji yekê zêdetir faktor hebin, û endamekî malbatê nikare sedemê bi awayekî teşxîs bike. Alzheimer's Association nexweşiya fizîkî, stresa jîngehê û pirsgirêkên ragihandinê wek sedemên gengaz rêz dike.
 
 Li ser tiştên ku berê guhertinê çêbûn bifikirin:
 
