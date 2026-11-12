@@ -1,7 +1,7 @@
 ---
 title: "Rad nakon dijagnoze demencije u mlađoj dobi"
 seoTitle: "Rad uz demenciju u mlađoj dobi: na što paziti"
-description: "Istražite mogućnosti rada nakon dijagnoze demencije u mlađoj dobi: pregledajte zadatke, zatražite podršku, zaštitite privatnost i provjerite lokalna pravila o zapošljavanju."
+description: "Istražite mogućnosti rada nakon dijagnoze demencije u mlađoj dobi: pregledajte zadatke, zatražite podršku, zaštitite privatnost i provjerite lokalna radna pravila."
 section: caregiving
 order: 31
 updated: 2026-11-11

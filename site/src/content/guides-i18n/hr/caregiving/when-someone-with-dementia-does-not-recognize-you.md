@@ -1,7 +1,7 @@
 ---
 title: "Kada vas osoba s demencijom ne prepoznaje"
 seoTitle: "Demencija: što reći kada vas osoba ne prepoznaje"
-description: "Ako vas osoba s demencijom ne prepoznaje, mirno se predstavite, izbjegavajte provjere pamćenja, ponudite poznat znak ako je dobrodošao i potražite pomoć kod naglih promjena."
+description: "Ako vas osoba s demencijom ne prepoznaje, predstavite se, izbjegavajte provjere pamćenja, ponudite poznat znak ako je dobrodošao i potražite pomoć kod naglih promjena."
 section: caregiving
 order: 32
 updated: 2026-11-11
@@ -57,7 +57,7 @@ Ako je prostorija tamna ili bučna, pokušajte jednu promjenu: upalite svjetlo, 
 
 ## Što mogu reći u tom trenutku?
 
-Pristupite tako da vas osoba može vidjeti i govorite mirnim, poznatim glasom. Jednostavno recite svoje ime i odnos, kao što biste to učinili pri pozdravu nekog drugog dana: „Bok, ja sam Ana, tvoja kći.“ Zatim stanite i primijetite kako reagira.
+Pristupite tako da vas osoba može vidjeti i govorite mirnim, poznatim glasom. Jednostavno recite svoje ime i odnos, kao što biste to učinili pri pozdravu nekog drugog dana: „Ja sam Ana, vaša kći.“ Zatim stanite i primijetite kako reagira.
 
 - **Ako se čini opušteno,** nastavite običan razgovor. Pričajte o onome što se sada događa ili pitajte želi li sjesti s vama.
 - **Ako se čini nesigurno,** ponudite kratku utjehu: „Sigurni ste. Ovdje sam s vama.“ Dajte joj vremena da odgovori.

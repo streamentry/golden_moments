@@ -50,16 +50,16 @@ Ljutnja može prerasti u vikanje, guranje ili udaranje, a to može biti zastraš
 Prekinite zadatak, odmaknite se i upotrijebite miran, kratak izraz. [Alzheimer's Association savjetuje skrbnicima da se usredotoče na osjećaje, govore polako i smanje podražaje](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger). Ako ste u neposrednoj opasnosti ili je netko ozlijeđen, sklonite se na sigurno i pozovite lokalne hitne službe.
 
 - **Zaustavite ono što se događa, ako možete.** Ako kupanje, oblačenje, posjet ili neki drugi zadatak uznemiruje osobu, prekinite. Može pričekati, osim ako postoji neposredna potreba za sigurnošću ili zdravljem.
-- **Ostavite prostor.** Odmaknite se i ostavite jasan put za izlazak svakome od vas. Nemojte je kliještiti, blokirati, stiskati niti iznenada dodirivati.
+- **Ostavite prostor.** Odmaknite se i ostavite jasan put za izlazak svakome od vas. Nemojte je tjerati u kut, blokirati, stiskati niti iznenada dodirivati.
 - **Govorite tiho i kratko.** Možete reći: „Vidim da ste uznemireni. Ostavit ću vam malo prostora.“ Nemojte se svađati, prijetiti niti tražiti objašnjenje.
 - **Udaljite druge ljude.** Dijete, posjetitelj ili pomoćnik mogu otići u drugu prostoriju dok se osoba smiruje. Jedna mirna osoba koja govori može biti lakša od nekoliko ljudi koji pokušavaju pomoći istovremeno.
-- **Odite ako dođe do fizičkog nasilja.** Sklonite se na sigurnije mjesto i zatražite pomoć druge osobe. Nemojte pokušavati svladati osobu.
+- **Odmaknite se ako dođe do fizičkog nasilja.** Sklonite se na sigurnije mjesto i zatražite pomoć druge osobe. Nemojte pokušavati svladati osobu.
 
 [Alzheimer's Society preporučuje odmaknuti se, izbjegavati sputavanje ili iznenadni dodir te otići po pomoć ako dođe do fizičkog nasilja](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression). [Alzheimer's Association također savjetuje da prvo zatražite dopuštenje, smanjite podražaje i ne stišćete ni ne sputavate osobu](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation). Kada postoji neposredna opasnost, koristite broj hitne službe za vašu lokaciju; nemojte čekati da epizoda prođe ako netko može biti ozlijeđen.
 
 ## Što može pridonositi ponašanju?
 
-Može biti više čimbenika, a član obitelji ne može postaviti dijagnozu uzroka. Alzheimer's Association navodi tjelesnu nelagodu, stres iz okoline i probleme u komunikaciji kao moguće pridonoscice.
+Može biti više čimbenika, a član obitelji ne može postaviti dijagnozu uzroka. Alzheimer's Association navodi tjelesnu nelagodu, stres iz okoline i probleme u komunikaciji kao moguće pridonositelji.
 
 Razmislite što se dogodilo neposredno prije promjene:
 

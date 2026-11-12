@@ -45,7 +45,7 @@ Putovanje može ostati mogućnost kada osoba želi ići i kada se plan uklapa u 
 
 Razgovarajte o putu s osobom, koristeći poznate riječi i jednostavan opis mjesta na koje idete i tko će biti tamo. Ako ne želi ići, prihvatite to. Možete umjesto toga planirati obrok, poziv ili poznatu aktivnost kod kuće.
 
-Razmislite što osoba sada podnosi bez poteškoća. Promislite kako reagira na promjene rutine, buku, gužvu, duge hodnike, čekanje i nepoznate prostorije. Ako će nekoliko dijelova puta vjerojatno biti teško, pojednostavite ga ili odaberite drugi način da provedete vrijeme zajedno. Dementia Australia savjetuje da se u nedoumici pitate liječnika prilježe li putovanje zdravstvenim i njegovateljskim potrebama osobe.
+Razmislite što osoba sada podnosi bez poteškoća. Razmislite kako reagira na promjene rutine, buku, gužvu, duge hodnike, čekanje i nepoznate prostorije. Ako će nekoliko dijelova puta vjerojatno biti teško, pojednostavite ga ili odaberite drugi način da provedete vrijeme zajedno. Dementia Australia savjetuje da se u nedoumici posavjetujete s liječnikom odgovara li putovanje zdravstvenim i njegovateljskim potrebama osobe.
 
 Ako osoba ima novi zdravstveni problem, treba pomoć s lijekovima ili će se njezine potrebe za pokretljivošću možda promijeniti tijekom putovanja, pitajte odgovarajućeg zdravstvenog djelatnika prije rezervacije. Nemojte zaustavljati, mijenjati ni pomicati propisane lijekove zbog puta bez savjeta propisivača ili ljekarnika.
 
@@ -82,7 +82,7 @@ Ako letite ili koristite veliki kolodvor, pitajte pružatelja koja je pomoć dos
 
 Unaprijed odlučite što ćete učiniti ako osoba želi otići, put kasni ili netko treba odmor. Odaberite jednu kontakt osobu koja može pomoći telefonom. Adresu smještaja i povratnu rutu držite pri ruci i znajte gdje se možete mirno smjestiti ili otići na toalet.
 
-Ako morate skratiti put, učinite to. Propušteni sadržaj ili ranији povratak nije neuspjeh. Ako put postane stresan, po povratku odaberite mirniju aktivnost. [Vodič o komunikaciji](/caregiving/communication-tips/) donosi ideje za smireno razgovaranje i davanje jedne informacije odjednom.
+Ako morate skratiti put, učinite to. Propušteni sadržaj ili raniji povratak nije neuspjeh. Ako put postane stresan, po povratku odaberite mirniju aktivnost. [Vodič o komunikaciji](/caregiving/communication-tips/) donosi ideje za smireno razgovaranje i davanje jedne informacije odjednom.
 
 ## Trebamo li reći hotelu ili pružatelju prijevoza?
 

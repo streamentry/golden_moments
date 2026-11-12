@@ -12,7 +12,7 @@ summary: >-
   mogu dovesti do zbunjenosti, ali nemojte pretpostavljati da je svaka prijava
   neistinita. Zatražite stručnu pomoć ako je promjena nova ili uznemirujuća.
 keyPoints:
-  - "Shvatite osobinu zabrinutost ozbiljno, čak i kada se objašnjenje čini malo vjerojatnim."
+  - "Shvatite zabrinutost osobe ozbiljno, čak i kada se objašnjenje čini malo vjerojatnim."
   - "Priznajte osjećaj, odgovorite kratko i zajedno potražite nestalu stvar ako osoba to želi."
   - "Za stvari koje se često gube koristite poznata mjesta, a za novac ili zadatke o skrbi vodite evidenciju."
   - "Nemojte pretpostavljati da je optužba neistinita; provjerite činjenice i potražite pomoć kad je u pitanju sigurnost ili zlostavljanje."
@@ -51,7 +51,7 @@ Optužba da ste uzeli novčanik, premjestili torbicu ili promijenili podatke o b
 
 Odgovorite na zabrinutost bez slaganja s nečim što ne znate da je istina. Kratak i smiren odgovor može održati razgovor otvorenim. Primjerice: „Zabrinuti ste jer vam nedostaje novčanik. Hajdemo zajedno potražiti.“ Zatim stanite i primijetite kako osoba reagira.
 
-- **Saslušajte prije objašnjavanja.** Pitajte koja stvar nedostaje ili što je osobu zabrinulo. Možda ju uznemirује više od samog predmeta.
+- **Saslušajte prije objašnjavanja.** Pitajte koja stvar nedostaje ili što je osobu zabrinulo. Možda ju uznemiruje više od samog predmeta.
 - **Držite odgovor kratkim.** Dugo opravdavanje može dodati detalje koje je teško pratiti i obje strane mogu postati još uznemirenije.
 - **Izbjegavajte svađu i ispitivanje.** Nemojte tražiti da se osoba sjeti gdje je nešto stavila niti da dokaže da niste vi uzeli.
 - **Ponudite praktičnu pomoć.** Ako osoba želi, zajedno potražite na poznatim mjestima ili pitajte želi li da netko drugi pomogne.
