@@ -1,7 +1,7 @@
 ---
 title: "Kapag ang Taong may Dementia ay Nagdududa o Nagbibintang sa Iyo"
 seoTitle: "Dementia at Pagdududa: Ano ang Magagawa ng Tagapag-alaga"
-description: "Tumugon nang kalmado sa pagdududa tungkol sa nawawalang gamit, suriin ang mga katotohanan, panatilihin ang malinaw na gawi at kumonsulta sa clinician sa bago o nakababagabag na pagbabago."
+description: "Tumugon nang kalmado sa pagdududa tungkol sa nawawalang gamit, suriin ang mga katotohanan at kumonsulta sa clinician kung bago o nakababagabag ang pagbabago."
 section: caregiving
 order: 34
 updated: 2026-11-11

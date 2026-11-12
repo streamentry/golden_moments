@@ -1,7 +1,7 @@
 ---
 title: "Kapag Hindi Ka Nakilala ng Taong may Dementia"
 seoTitle: "Dementia: Ano ang Sasabihin Kapag Hindi Ka Nakilala"
-description: "Kung hindi ka nakilala ng taong may dementia, magpakilala nang kalmado, iwasan ang pagsusulit sa alaala, mag-alok ng pamilyar na palatandaan at humingi ng tulong sa biglaang pagbabago."
+description: "Kung hindi ka nakilala ng taong may dementia, magpakilala nang kalmado, iwasan ang pagsusulit at humingi ng tulong sa biglaang pagbabago."
 section: caregiving
 order: 32
 updated: 2026-11-11
