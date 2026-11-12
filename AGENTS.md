@@ -65,6 +65,12 @@ instead of silently treating any one of these as proof of the others.
   Firebase was removed; re-adding an analytics or crash SDK needs that decision.
 - Do not put family photos, EXIF, diagnoses, secrets, or raw personal paths in
   logs, fixtures, commits, CI artifacts, or external AI/tool requests.
+- For the 500 dementia-improvement goal, each numbered improvement must include
+  every changed user-facing text in all 185 unique codes in docs/languages.csv
+  (English source plus 184 translations). Track source implementation and
+  185-language completion separately. Machine translations count as translated
+  coverage only after the repository validator passes; keep them marked
+  unreviewed and do not claim native-speaker validation.
 
 ## Design system
 
