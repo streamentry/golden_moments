@@ -1,7 +1,7 @@
 ---
 title: "Vai smadzeņu spēles novērš demenci? Ko rāda pierādījumi"
 seoTitle: "Vai smadzeņu spēles novērš demenci? Pierādījumi"
-description: "Ko pētījumi saka par smadzeņu spēlēm un demenci: kognitīvo stimulāciju, datorizētus smadzeņu treniņus, ACTIVE pētījumu un FTC lietu par Lumosity vienkārši izskaidrots."
+description: "Ko pētījumi saka par smadzeņu spēlēm un demenci: kognitīvo stimulāciju, datoru treniņus, ACTIVE pētījumu un FTC lietu par Lumosity vienkārši izskaidrots."
 section: brain-health
 order: 3
 updated: 2026-10-25

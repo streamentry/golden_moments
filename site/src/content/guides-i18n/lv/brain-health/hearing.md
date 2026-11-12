@@ -16,7 +16,7 @@ keyPoints:
   - "Lancet komisija lēš, ka dzirdes zudums veido aptuveni 7% demences gadījumu pasaulē, un tas ir vienāds ar lielāko daļu starp 14 faktoriem."
   - "ACHIEVE izmēģinājumā ar 977 vecāka gadagājuma pieaugušajiem dzirdes aparāti kopumā nemainīja trīs gadu domāšanas pasliktināšanos."
   - "Mazākā, augstāka riska grupā ACHIEVE ietvaros domāšanas pasliktināšanās ar dzirdes aparātiem bija par 48% lēnāka; tas ir jāapstiprina."
-  - "Kopš 2022. gada 17. oktobra ASV pieaugušie ar paredzamu vieglu līdz mērenu dzirdes zudumu var nopirkt FDA reglamentētus dzirdes aparātus bez receptes."
+  - "Kopš 17. 2022. gada oktobra ASV pieaugušie ar paredzamu vieglu līdz mērenu dzirdes zudumu var nopirkt FDA reglamentētus dzirdes aparātus bez receptes."
   - "Neārstēts redzes zudums 2024. gadā tika pievienots kā demences riska faktors, tāpēc arī acu pārbaudes ir svarīgas."
 faq:
   - q: "Vai dzirdes aparāti novērš demenci?"
@@ -100,7 +100,7 @@ Dzirdes zudumu var sajaukt ar apjukumu. NIA norāda, ka vecākus cilvēkus, kas 
 
 ## Kas ir bezrecepšu dzirdes aparāti?
 
-Kopš 2022. gada 17. oktobra [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ir atļāvusi kategoriju bezrecepšu (OTC) dzirdes aparātiem. Lūk, kā tie salīdzināmi ar recepšu aparātiem:
+Kopš 17. 2022. gada oktobra [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ir atļāvusi kategoriju bezrecepšu (OTC) dzirdes aparātiem. Lūk, kā tie salīdzināmi ar recepšu aparātiem:
 
 | Īpašība | Bezrecepšu dzirdes aparāti | Recepšu dzirdes aparāti |
 | --- | --- | --- |
