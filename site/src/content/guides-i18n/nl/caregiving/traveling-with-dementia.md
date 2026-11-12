@@ -75,7 +75,7 @@ Vertel de persoon wat er daarna gebeurt, één stap tegelijk. Geef extra tijd om
 
 Blijf in drukke of onbekende ruimtes bij elkaar. Als de persoon moe wordt of onrustig raakt, stop dan op een rustiger plek, bied water of een vertrouwde activiteit aan en beslis samen of je verdergaat. Laat de persoon niet alleen achter in een onbekende omgeving waar hij of zij in de war of van streek kan raken.
 
-Als je vliegt of een grote station gebruikt, vraag dan bij de aanbieder welke hulp beschikbaar is en hoe je die aanvraagt. Procedures kunnen veranderen, dus controleer de details rechtstreeks bij de luchtvaartmaatschappij, het station of de locatie voordat je reist. Vertrouw voor actuele veiligheids- of toegankelijkheidsregels niet op een oude checklist.
+Als je vliegt of een groot station gebruikt, vraag dan bij de aanbieder welke hulp beschikbaar is en hoe je die aanvraagt. Procedures kunnen veranderen, dus controleer de details rechtstreeks bij de luchtvaartmaatschappij, het station of de locatie voordat je reist. Vertrouw voor actuele veiligheids- of toegankelijkheidsregels niet op een oude checklist.
 
 ## Wat is een handig reservplan?
 

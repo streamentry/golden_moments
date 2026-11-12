@@ -55,7 +55,7 @@ Leg de taak stil, stap terug en gebruik een rustige, korte zin. De [Alzheimer's 
 - **Haal andere mensen weg.** Een kind, bezoeker of helper kan naar een andere kamer gaan terwijl de persoon bijkomt. Eén rustig pratend persoon is vaak makkelijker dan meerdere mensen die tegelijk helpen.
 - **Vertrek als er fysiek geweld is.** Ga naar een veiligere plek en vraag iemand anders om hulp. Probeer de persoon niet vast te houden.
 
-De [Alzheimer's Society adviseert om terug te stappen, fysieke beperking en plotselinge aanrakingen te vermijden en weg te gaan om hulp te halen als er fysiek geweld is](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression). De [Alzheimer's Association adviseert ook om toestemming te vragen, prikkels te verminderen en de persoon niet in een hoek te drukken of vast te houden](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation). Bel bij acuut gevaar het alarmnummer van jouw land; wacht niet tot een episode vanzelf overgaat als iemand gewond kan raken.
+De [Alzheimer's Society adviseert om terug te stappen, vasthouden en plotselinge aanrakingen te vermijden en weg te gaan om hulp te halen als er fysiek geweld is](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression). De [Alzheimer's Association adviseert ook om toestemming te vragen, prikkels te verminderen en de persoon niet in een hoek te drukken of vast te houden](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation). Bel bij acuut gevaar het alarmnummer van jouw land; wacht niet tot een episode vanzelf overgaat als iemand gewond kan raken.
 
 ## Wat speelt mogelijk mee bij het gedrag?
 
