@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Посета особи са деменцијом у згради за негу памћења или у болници"
+seoTitle: "Посета особи са деменцијом: шта да радите и шта да понесете"
+description: "Шта да радите кад посећујете особу са деменцијом у згради за негу памћења, дому за стара лица или болници: шта да понесете, једноставне активности, кратке посете и како достојанствено отићи."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Кад посећујете особу са деменцијом у згради за негу памћења или у болници, држите ствари једноставним: кажите своје име кад уђете, понесите нешто за заједничко гледање, као што су фотографије, музика или омиљена посластица, и заједно урадите једну лаку ствар. Краће, редовне посете често прођу боље од дугих и ретких. Испланирајте миран и доследан растанак, да одлазак буде лакши за обоје.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Поздравите особу по имену и кажите ко сте, да не мора да то сама схвата: „Здраво, мама, ја сам Сузана, твоја ћерка.“"
+  - "Понесите једну или две ствари за заједничко гледање, као што су албум са фотографијама, омиљена музика, мека покривка или посластица коју особље одобри."
+  - "Кратке, редовне посете често прођу боље од дугих и ретких. Ваше присуство значи више од онога што кажете."
+  - "У болници дајте особљу једну страницу о особи и одмах кажите лекару за сваку изненадну промену."
+  - "Испланирајте излазак: кажите колико можете да останете, сваки пут користите исти опроштај и одете без дуготрајног задржавања."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Шта да понесем кад посећујем особу са деменцијом?"
+    a: "Понесите нешто за заједничко гледање, а не нешто о чему треба да се прича. Мали албум са фотографијама, листа омиљених песама, мека покривка, крема за руке, часопис о некадашњем хобију или посластица коју особље одобри, све то добро функционише. У згради за смештај, породичне фотографије и познати предмети такође могу собу учинити ближом дому."
+  - q: "Колико дуго треба да останем кад посећујем особу са деменцијом?"
+    a: "Нема правилне дужине. Многе породице сматрају да краће, чешће посете функционишу боље од дугих и ретких, јер особа може брзо да се умори и можда неће памтити колико сте остали. Пазите на знаке умора и отиђите док посета још добро делује."
+  - q: "Шта да кажем кад ме пита да ли може кући?"
+    a: "Одговорите на осећање, а не на речи. „Хоћу кући“ често значи „Не осећам се пријатно или сигурно“. Покушајте да кажете: „Причај ми о твом дому“, погледајте заједно фотографије или предложите шетњу или ужину. Расправљање и објашњавање зашто не може да оде обично повећава узнемиреност."
+  - q: "Шта ако ме не препознаје?"
+    a: "Може да боли, али покушајте да је не исправљате и да не питате: „Зар не знаш ко сам?“. Топло се представите и једноставно уживајте у времену заједно. Многи људи и даље воле друштво и осете топлину посете, чак и кад не могу да сместе ко сте."
+  - q: "Како могу да помогнем током боравка у болници?"
+    a: "Останите уз особу кад год можете, помозите јој да једе и пије, и понесите познате ствари, као што су фотографије. Дајте особљу листу са рутином, жељеним именом, оним што воли, оним што не воли и знацима бола. Одмах кажите лекару ако особа изгледа изненада горе или другачије, јер нагла конфузија може бити знак медицинског проблема."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Посета некоме кога волите у згради за негу памћења, у дому за стара лица или у болници може да покрене много осећања. Можда се питате шта да кажете, шта да понесете или да ли посета уопште има смисла ако особа неће то запамтити. Има смисла. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) наводи да људи са Алцхајмеровом болешћу [често уживају у друштву](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) и кад не памте ко је посетилац. Ова страница даје практичне кораке за пре, током и после посете, као и посебне савете за боравак у болници.
 
-## How do I get ready for a visit?
+## Како да се припремим за посету?
 
-A little planning makes the visit easier for both of you.
+Мало планирања чини посету лакшом за обоје.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Изаберите добро време.** Dementia Australia предлаже посету у време када је особа обично најбудnија, што је за многе људе ујутру или око подне. Family Caregiver Alliance предлаже да упознате распоред установе и посећујете у [слободно време, а не у време активности](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Питајте особље.** Питајте како је особа данас била и проверите правила о храни, кућним љубимцима или излазцима.
+- **Спакујте малу торбу за посету.** Једна или две ствари за заједничко коришћење су довољне (видите списак испод).
+- **Припремите неколико тема.** Особа можда неће имати вести да подели, па понесите своје: новости из породице, време, утакмицу, смешну причу.
+- **Поставите сопствена очекивања.** Неке посете ће бити топле и разговорне. Друге ће бити тихе или тешке. И једне и друге су нормалне.
 
-## What should I bring?
+## Шта да понесем?
 
-Bring things to share, not things that test. Good choices include:
+Понесите ствари за заједничко коришћење, а не ствари које некога испитују. Добри избори су:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Мали албум са фотографијама,** са великим, јасним сликама. Означите их на полеђини за особље.
+- **Листа омиљених песама** на телефону, са једноставним слушалицама или малим звучником.
+- **Нешто меко за држање,** као што су познато ћебе, шал или џемпер.
+- **Крема за руке** за нежну масажу шака, ако особа воли додир.
+- **Часопис или књига са сликама** о некадашњем интересовању, као што су баштовање, аутомобили, птице или кување.
+- **Омиљена посластица,** ако особље каже да је безбедна.
+- **Познати предмети за собу.** Family Caregiver Alliance предлаже цвеће, биљке, породичне слике и уметничка дела или велики плакат са породичним фотографијама из прошлости.
+- **Таблет,** за гледање породичних фотографија или нежну игру заједно.
 
-## What can we do together during a visit?
+## Шта можемо да радимо заједно током посете?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Заједничко радити ствари скида притисак са разговора. Dementia Australia предлаже гледање фотографија, једноставан занат, сађење садница, музику, заједничку ужину или шетњу по имању. Још неколико идеја:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Погледајте фотографије.** Покажите шта видите: „Погледај тај шешир.“ „Ова плажа изгледа лепо.“ Нека особа води. Избегавајте „Ко је ово?“
+2. **Пустите музику и певајте.** Познате песме могу да подигну расположење и донесу заједнички тренутак, чак и кад је разговор тежак.
+3. **Направите кратку шетњу.** Family Caregiver Alliance предлаже шетњу по установи, посебно у башти ако постоји. Шетња у инвалидским колицима се такође рачуна.
+4. **Дајте масажу руку.** Мало креме и спора, нежна милovanja руку могу да смире.
+5. **Помозите око неге.** Dementia Australia помиње чешљање косе, фарбање ноктију или помоћ да особа обуче омиљену одећу, ако јој се то допада.
+6. **Играјте једноставну игру.** Family Caregiver Alliance предлаже карте, домине или игру коју је особа некад волела. На таблету се [Picture Pairs](/games/picture-pairs/) може играти са сликама које остају видљиве и без тајмера. [Photo Pairs](/games/photo-pairs/) претвара фотографије које изаберете у игру упаривања, а фотографије остају у вашем прегледачу.
+7. **Заједно погледајте нешто.** Family Caregiver Alliance предлаже комедије и старе филмове. Чак и ако особа не може да прати причу, можете да седите близу и делите време.
+8. **Читајте наглас.** Кратку песму, омиљени одломак или писмо од неког из породице.
+9. **Једноставно седите заједно.** Држање за руке или тихо седење је права посета. Alzheimer's Association напомиње да је у реду не знати шта да кажете и да је ваше присуство најважније.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Картице за разговор](/games/conversation-cards/) могу помоћи кад вам понестане тема. Свака картица има слику и отворено питање.
 
-## How should I talk during the visit?
+## Како да разговарам током посете?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Представите се сваки пут.** „Здраво, тата, ја сам Марко, твој син.“ NIA предлаже да посетиоци накратко представе себе да би започели разговор.
+- **Приђите спреда** и седите на висини очију.
+- **Не исправљајте и не расправљајте.** NIA саветује посетиоцима да не исправљају особу ако погреши или нешто заборави.
+- **Будите стрпљиви** кад су речи тешко доступне. Оставите довољно времена.
+- **Одговорите на осећања.** Ако особа изгледа тужно или забринуто, признајте то пре него што промените тему.
+- **Избегавајте питања као на квизу,** као што су „Да ли се сећаш мене?“ или „Шта си јела за ручак?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Више погледајте у нашим [саветима за комуникацију](/caregiving/communication-tips/).
 
-## What do I do when they say "I want to go home"?
+## Шта да радим кад кажу „Хоћу кући“?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Одговорите на осећање иза речи (наш водич о [кад неко стално пита да иде кући](/caregiving/asking-to-go-home/) иде даље). Family Caregiver Alliance објашњава да је „Хоћу кући“ обично начин да се каже „Нисам удобно“, и предлаже одговоре попут „Причај ми о свом дому“ или „Која ти је најдража ствар код куће?“. Dementia Australia додаје да „дом“ може значити време или место где се особа осећала безбедно, као што је детињство.
 
-Try:
+Покушајте да:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- признате осећање: „Звучи као да ти недостаје дом.“
+- пружите утеху додиром, ако је добродошао
+- погледате фотографије или причате о породичној кући
+- предложите шетњу, пиће или ужину
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Избегавајте расправљање или објашњавање зашто не може да оде. То ретко помаже и често повећава узнемиреност.
 
-## How long should a visit be?
+## Колико треба да траје посета?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Краће и чешће често функционише боље. Family Caregiver Alliance напомиње да особа обично не памти да ли сте остали пет минута или пет сати, и предлаже да три кратке посете недељно могу бити боље од једне дуге. Dementia Australia каже да не постоји правилан број посета нити правилна дужина.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+У првим недељама након усељења у згради за негу памћења, Family Caregiver Alliance предлаже да часто посећујете, а затим постепено уђете у редован распоред. Питајте особље шта запажају.
 
-## How do I leave without upsetting them?
+## Како да одем, а да их не узнемирим?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Одлазак може бити најтежи део. Dementia Australia предлаже:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Кажите колико можете да останете кад дођете.** „Могу да останем сат времена, па idem у куповину.“
+- **Искористите активност као природан крај.** „Кад завршимо ову песму, ја ћу кренути.“
+- **Ускладите то с оброком или активношћу,** или замолите особље да помогне особи да се укључи у нешто друго.
+- **Држите опроштај кратким и истим сваки пут.** Дуго задржавање, извињавање или остајање „још мало“ могу отежати будуће растанке.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Кад одете, нормално је да се осећате тужно. Дозволите себи да се одморите. Ако се особа узнемирила, особље јој обично може помоћи да се смири убрзо после.
 
-## Visiting someone with dementia in the hospital
+## Посета особи са деменцијом у болници
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Болница је бучна, непозната и пуна странаца, што може бити веома тешко за особу која живи са деменцијом. NIA-ин водич о [одвођењу особе са Алцхајмеровом болешћу у болницу](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) препоручује:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Нека неко буде са особом** колико је то могуће: члан породице, поуздан пријатељ или плаћени неговатељ.
+- **Дајте особљу лични информативни лист** са рутином особе, жељеним именом, оним што воли и не воли, могућим окидачима и невербалним знацима бола. Ставите копије у собу и на сестринску станицу.
+- **Помозите око јела и пића.** Старије особе могу да постану неухрањене у болници. Отворите амбалажу, помозите око оброка, једите заједно и понудите пиће.
+- **Понесите ствари које утешују,** као што су фотографије или духовни предмети.
+- **Смањите буку.** Искључите телевизор и смањите јачину телефона и интерфона.
+- **Пробајте умирујуће ритуале,** као што су смирујућа музика, читање, молитва, певање или гледање старих слика.
+- **Охрабрите кретање** колико је безбедно, уз одобрење особља.
+- **Одмах кажите лекару ако особа изгледа изненада горе или другачије.** NIA објашњава да нагла тешка конфузија, названа делиријум, може бити изазвана проблемима као што су инфекција, грозница, дехидрација или нежељена дејства лекова, и захтева медицинску помоћ.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Кратка, мирна посета с познатим лицем и омиљеном песмом може бити најутешнији део болничког дана.
 
-## Bringing children on a visit
+## Довођење деце у посету
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Деца могу донети много топлине. Припремите их унапред једноставним, искреним речима, држите посету кратком и дајте им задатак, као што је показивање цртежа или предавање фотографије. NIA предлаже да деца и особе са Алцхајмеровом болешћу могу заједно да уживају у једноставним активностима, као што су гледање албума са фотографијама или слушање музике. Dementia Australia предлаже да спакујете малу торбу са посластицама или тихим стварима да млада деца буду заузета.
 
-## Take care of yourself too
+## Бринете и о себи
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Посете могу бити уморне и емотивне, посебно ако се особа много променила. У реду је да посећујете ређе ако треба, да доведете пријатеља за подршку или да одете раније на тежак дан. За идеје како да се бринете о себи погледајте [негу себе за неговатеље](/caregiving/caregiver-self-care/). Ако живите далеко, погледајте наш водич о [телефонским и видео позивима](/activities/phone-and-video-calls/).
