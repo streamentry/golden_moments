@@ -1,7 +1,7 @@
 ---
 title: "Pokalbis apie vairavimą ir demenciją"
 seoTitle: "Demencija ir vairavimas: kaip pradėti pokalbį"
-description: "Pradėkite ramų pokalbį apie vairavimą ir demenciją anksti. Planuokite kelionių variantus, įvardykite konkrečius rūpesčius ir įtraukite kvalifikuotus vietos specialistus."
+description: "Pradėkite ramų pokalbį apie vairavimą ir demenciją anksti. Planuokite kelionių variantus, įvardykite konkrečius rūpesčius ir įtraukite vietos specialistus."
 section: caregiving
 order: 19
 updated: 2026-11-11
@@ -61,15 +61,15 @@ Kalbėkite apie konkretų įvykį, o ne teikite plačią nuomonę. Pavyzdžiui, 
 
 Išklausykite žmogaus nuomonę. Jis galėjo pastebėti sumišimą, akinimą, nuovargį ar kitą sunkumą. Arba jis gali nesutikti su jūsų rūpesčiu. Vieno pokalbio nelaikykite įrodymu, kad jis supranta ar nesupranta pavojaus. Išlaikykite pagarbų toną ir grįžkite prie temos vėliau, jei kas nors iš jūsų nusiminė.
 
-[Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/driving-and-dementia) pataria trumpus, pakartotinius pokalbius ir dėmesį žmogaus stipriosioms pusėms bei teigiamoms kelionių galimybėms. Ji taip pat perspėja, kad slapta slėpti raktus ar išjungti automobilį gali atrodyti priešiška ankstyvo planavimo metu. Jei yra rimtas neatidėliotinas saugumo rūpestis, imkitės veiksmų, kad artimiausia rizikinga kelionė neįvyktų, ir ieškokite skubaus profesionalo patarimo.
+Dementia Australia pataria trumpus, pakartotinius pokalbius ir dėmesį žmogaus stipriosioms pusėms bei teigiamoms kelionių galimybėms. Ji taip pat perspėja, kad slapta slėpti raktus ar išjungti automobilį gali atrodyti priešiška ankstyvo planavimo metu. Jei yra rimtas neatidėliotinas saugumo rūpestis, imkitės veiksmų, kad artimiausia rizikinga kelionė neįvyktų, ir ieškokite skubaus profesionalo patarimo.
 
 ## Kokia informacija gali padėti profesionaliam pokalbiui?
 
 Užsirašykite konkrečius įvykius ir kada jie įvyko. Pavyzdžiai gali būti: sumišimas sankryžoje, pasimetimas pažįstamame maršrute, nepastebėti kelio ženklai ar naujas automobilio apgadinimas. Įtraukite tai, ką žmogus pasakė apie kelionę, ir visus sveikatos ar vaistų pokyčius, kuriuos jis norėtų aptarti.
 
-Užrašus laikykite faktiškus ir privačius. Neslapta įrašinėkite, nesekite ir netikrinkite žmogaus. Jei žmogus sutinka, šeimos narys, kuris važiavo kartu, gali pasidalyti tuo, ką pastebėjo. Aiškus aprašymas suteikia gydytojui ar specialistui konkrečią temą aptarti; jis nenustato priežasties ir nenusprendžia, ar žmogus gali vairuoti.
+Užrašus laikykite faktiškus ir privačius. Neslaptai įrašinėkite, nesekite ir netikrinkite žmogaus. Jei žmogus sutinka, šeimos narys, kuris važiavo kartu, gali pasidalyti tuo, ką pastebėjo. Aiškus aprašymas suteikia gydytojui ar specialistui konkrečią temą aptarti; jis nenustato priežasties ir nenusprendžia, ar žmogus gali vairuoti.
 
-Įspėjimo ženklai [Alzheimerio asociacijos vadove](https://www.alz.org/help-support/caregiving/safety/dementia-driving) yra priežastis kreiptis į specialistą. Jie nepakeičia individualaus įvertinimo. Paklauskite žmogaus gydytojo dėl nukreipimo pas darbo terapeutą ar kitą kvalifikuotą vairavimo reabilitacijos specialistą. Vietines licencijavimo taisykles patikslinkite valstijos ar regiono licencijas išduodančioje institucijoje.
+Įspėjimo ženklai [Alzheimerio asociacijos vadove](https://www.alz.org/help-support/caregiving/safety/dementia-driving) yra priežastis kreiptis į specialistą. Jie nepakeičia individualaus įvertinimo. Paklauskite žmogaus gydytojo dėl nukreipimo pas darbo terapeutą ar kitą kvalifikuotą vairavimo reabilitacijos specialistą. Vietos licencijavimo taisykles patikslinkite valstijos ar regiono licencijas išduodančioje institucijoje.
 
 ## Kaip kartu suplanuoti kelionių planą?
 

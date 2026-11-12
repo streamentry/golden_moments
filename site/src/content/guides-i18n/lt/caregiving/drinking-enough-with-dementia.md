@@ -61,7 +61,7 @@ Per išvyką pasiimkite žmogui patinkantį gėrimą ir pasiūlykite jį poilsio
 
 ## Kokius gėrimus ar maistą galima siūlyti?
 
-Pradėkite nuo gėrimų, kuriuos žmogus mėgsta ir gali saugiai gerti. Vanduo yra vienas variantas; pienas, sriuba, glotniai ar kiti pažįstami gėrimai taip pat gali tikti pagal jo pageidavimus ir priežiūros planą. Kai kuriuose vaisiuose ir kituose maisto produktuose taip pat yra vandens. [Alzheimerio asociacija nurodo vaisius, sriubas, pieno kokteilius ir glotnius](https://www.alz.org/help-support/caregiving/daily-care/food-eating) kaip variantus su dideliu vandens kiekiu.
+Pradėkite nuo gėrimų, kuriuos žmogus mėgsta ir gali saugiai gerti. Vanduo yra vienas variantas; pienas, sriuba, glotnučiai ar kiti pažįstami gėrimai taip pat gali tikti pagal jo pageidavimus ir priežiūros planą. Kai kuriuose vaisiuose ir kituose maisto produktuose taip pat yra vandens. [Alzheimerio asociacija nurodo vaisius, sriubas, pieno kokteilius ir glotnučius](https://www.alz.org/help-support/caregiving/daily-care/food-eating) kaip variantus su dideliu vandens kiekiu.
 
 Jei žmogus atsisako vieno gėrimo, nereikia jo versti. Pasiūlykite kitą pažįstamą pasirinkimą arba bandykite vėliau. Prieš keisdami dietą ar gėrimų planą, pasitarkite su žmogaus gydytoju ar dietologu, ypač jei jam jau yra medicininių nurodymų dėl skysčių.
 
@@ -83,11 +83,11 @@ Jei žmogus kosti, užkimba, laiko maistą ar gėrimą burnoje arba jam atsirado
 
 Jei žmogui sausa burna, skauda dantis ar nejaukiai jaučiasi protezai, paklauskite, ką jis pastebi, ir kreipkitės į odontologą ar gydytoją. Burnos skausmas gali apsunkinti gėrimą. Švelnių burnos priežiūros būdų ieškokite mūsų [burnos priežiūros vadove](/caregiving/oral-care-with-dementia/).
 
-Staigus sumišimas reikalauja neatidėliotinos medicininės pagalbos. [NHS nurodymai dėl staigaus sumišimo](https://www.nhs.uk/symptoms/confusion/) pataria nesidiagnozuoti patiems. Kreipkitės į vietos skubios pagalbos tarnybas arba laikykitės skubios medicinos tvarkos jūsų vietovėje.
+Staigus sumišimas reikalauja neatidėliotinos medicininės pagalbos. [NHS nurodymai dėl staigaus sumišimo](https://www.nhs.uk/symptoms/confusion/) pataria nediagnozuoti patiems. Kreipkitės į vietos skubios pagalbos tarnybas arba laikykitės skubios medicinos tvarkos jūsų vietovėje.
 
 ## Kaip siūlyti gėrimus be spaudimo?
 
-Pasiūlykite, o tada duokite žmogui laiko apsispręsti. Jis gali norėti gerti vėliau arba pasirinkti kitą puodelį. Nekorigavkite, nederėkite ir nespauskite gerti. Jei žmogus dažnai atsisako, patikrinkite, ar gėrimas lengvai pasiekiamas, ar jam patinka skonis ir temperatūra ir ar žmogus jaučiasi patogiai toje aplinkoje.
+Pasiūlykite, o tada duokite žmogui laiko apsispręsti. Jis gali norėti gerti vėliau arba pasirinkti kitą puodelį. Netaisykite, nebarkite ir nespauskite gerti. Jei žmogus dažnai atsisako, patikrinkite, ar gėrimas lengvai pasiekiamas, ar jam patinka skonis ir temperatūra ir ar žmogus jaučiasi patogiai toje aplinkoje.
 
 Paklauskite žmogaus, kas padeda, ir dalykitės naudingais pageidavimais su kitais pagalbininkais tik tada, kai jis sutinka. Pažįstamas puodelis, pasirinkta vieta ar ramus momentas gali palengvinti gėrimą. Jei rūpestis tęsiasi, paklauskite gydytojo ar dietologo patarimo, pritaikyto būtent šiam žmogui.
 

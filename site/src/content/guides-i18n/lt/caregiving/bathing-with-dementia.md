@@ -37,7 +37,7 @@ related: [caregiving/home-safety, caregiving/when-they-say-no, caregiving/commun
 health: false
 ---
 
-Maudymasis yra privatus dalykas. Žmogui, gyvenančiam su demencija, dušas ar vonia gali atrodyti šalta, atskleidžianti, painti ar nesaugi. Pirmiausia paklauskite, kas padarytų šią veiklą patogesnę, o tada paruoškite kambarį prieš siūlydami pagalbą. Tikslas – remti žmogaus paties sukurtą rutiną, o ne paversti atsisakymą kova.
+Maudymasis yra privatus dalykas. Žmogui, gyvenančiam su demencija, dušas ar vonia gali atrodyti šalta, atskleidžianti, painiojanti ar nesaugi. Pirmiausia paklauskite, kas padarytų šią veiklą patogesnę, o tada paruoškite kambarį prieš siūlydami pagalbą. Tikslas – remti žmogaus paties sukurtą rutiną, o ne paversti atsisakymą kova.
 
 [Alzheimerio asociacijos maudymosi vadovas](https://www.alz.org/help-support/caregiving/daily-care/bathing) pažymi, kad pagalba intymiuose dalykuose gali būti nejauki. [Dementia Australia higienos patarimai](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) rekomenduoja laikytis žmogaus pageidavimų, naudoti paprastus žingsnius ir klausti, kokios pagalbos jis nori. Žmonės skiriasi; bandykite tik tuos pakeitimus, kurie tinka būtent šiam žmogui.
 
@@ -48,7 +48,7 @@ Paklauskite apie žmogaus įprastą rutiną. Ar jis mieliau dušą, ar vonią, r
 Prieš kviesdami žmogų į vonios kambarį:
 
 - **Pirma surinkite reikmenis.** Padėkite rankšluosčius, švarius drabužius, muilą, šampūną ir šluostę tokia tvarka, kokia jie bus naudojami. Taip nereikės palikti žmogaus vieno, kol ieškote daiktų.
-- **Padarykite kambarį patogų.** Patikrinkite, ar šilta pakankamai, apšviekite erdvę, uždarykite duris ar užuolaidas ir stenkitės, kad grindys liktų kuo sausesnės.
+- **Padarykite kambarį patogų.** Patikrinkite, ar šilta pakankamai, apšvieskite erdvę, uždarykite duris ar užuolaidas ir stenkitės, kad grindys liktų kuo sausesnės.
 - **Patikrinkite vandenį.** Prieš žmogui įlipant į vonią ar po dušu, išbandykite temperatūrą. Nepasikliaukite tuo, ar jis gali įvertinti, ar vanduo per karštas.
 - **Turėkite privatumui skirtų daiktų.** Didelis rankšluostis, chalatas ar vonios antklodė padeda žmogui išlikti uždengtam tarp atskirų veiksmų.
 

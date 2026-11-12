@@ -66,7 +66,7 @@ Paprašykite rekomendacijų ir paklauskite, kaip agentūra atrenka darbuotojus. 
 
 Jei žmogus sutinka, susitarkite dėl susitikimo namuose prieš pirmą apsilankymą. Pastebėkite, ar teikėjas kreipiasi tiesiai į žmogų, klausosi jo pageidavimų ir duoda laiko atsakyti. Paklauskite žmogaus, kaip jam atrodė susitikimas, tokiu būdu, kuris jam būtų patogus atsakyti.
 
-[Alzheimerio asociacija pataria](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-in-home-care-professional-ts.pdf) per pokalbį turėti kitą patikimą asmenį, kad vėliau galėtumėte aptarti įspūdžius. Susitikimo metu aptarkite tipišką apsilankymą: atvykimą, pasisveikinimą, planuojamą užduotį ir tai, kaip žmogus gali paprašyti sustoti ar pailsėti.
+Alzheimerio asociacija pataria per pokalbį turėti kitą patikimą asmenį, kad vėliau galėtumėte aptarti įspūdžius. Susitikimo metu aptarkite tipišką apsilankymą: atvykimą, pasisveikinimą, planuojamą užduotį ir tai, kaip žmogus gali paprašyti sustoti ar pailsėti.
 
 Jei įmanoma, susitarkite dėl trumpo pirmo apsilankymo ir aptarkite jį su žmogumi. Teikėjas popieriuje gali atrodyti tinkamas, bet asmeniškai gali nesiderinti. Gerbkite žmogaus reakciją ir aptarkite alternatyvas, jei kas nors jums abiem kelia abejonių.
 

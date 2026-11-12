@@ -111,7 +111,7 @@ Planeje o tempo ao ar livre de acordo com o clima. O NIA explica que adultos mai
 - **Use protetor solar.** O NIA recomenda protetor de amplo espectro com FPS 15 ou superior, reaplicado ao longo do dia.
 - **Escolha a sombra.** Monte a mesa de plantio sob uma árvore ou um guarda-sol.
 - **Mantenha curto.** Um breve momento ao ar livre pode ser suficiente, especialmente em dias quentes.
-- **Fique atento aos sinais de alerta.** O NIA lista dor de cabeça, confusão, tontura ou enjoo como possíveis sinais de doença causada pelo calor. Uma pessoa com demência pode não dizer que está se sentindo mal, então observe o rosto e o comportamento dela. Entre, resfrie-a com água e um pano frio, e procure ajuda médica se ela não melhorar rapidamente. A insolação, com sinais como desmaio, confusão ou pele seca e avermelhada, é uma emergência médica: ligue para o 911.
+- **Fique atento aos sinais de alerta.** O NIA lista dor de cabeça, confusão, tontura ou enjoo como possíveis sinais de doença causada pelo calor. Uma pessoa com demência pode não dizer que está se sentindo mal, então observe o rosto e o comportamento dela. Entre, resfrie-a com água e um pano frio, e procure ajuda médica se ela não melhorar rapidamente. A insolação, com sinais como desmaio, confusão ou pele seca e avermelhada, é uma emergência médica: ligue para o número de emergência da sua região.
 
 O frio também importa. No inverno, mantenha o tempo ao ar livre curto e garanta que mãos e pés fiquem aquecidos e secos.
 

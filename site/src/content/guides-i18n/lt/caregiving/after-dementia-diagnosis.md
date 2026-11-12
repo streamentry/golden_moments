@@ -65,11 +65,11 @@ Kitam apsilankymui pas gydytoją, jei žmogus nori, kartu užsirašykite kelis k
 
 ## Kur galime rasti paramos?
 
-Paklauskite žmogaus, kokia parama jam padėtų ir kuos jis norėtų pasitikėti. Pirmas pokalbis gali būti su patikimu draugu ar šeimos nariu. Kai kas nori paramos grupės, psichologo, vietos demencijos organizacijos ar pokalbio su gydytojų komanda. Tinkamas pasirinkimas priklauso nuo žmogaus ir to, kas yra prieinama netoli.
+Paklauskite žmogaus, kokia parama jam padėtų ir kuo jis norėtų pasitikėti. Pirmas pokalbis gali būti su patikimu draugu ar šeimos nariu. Kai kas nori paramos grupės, psichologo, vietos demencijos organizacijos ar pokalbio su gydytojų komanda. Tinkamas pasirinkimas priklauso nuo žmogaus ir to, kas yra prieinama netoli.
 
 Parama skirta ir žmogui, kuriam nustatyta diagnozė, ir šeimos nariams bei draugams. Globėjui gali prireikti poilsio ar pagalbos kasdienėse užduotyse; žmogus gali norėti informacijos ar progos susitikti su kitais, gyvenančiais su demencija. Šie poreikiai gali skirtis. Prieš organizuodami grupę, susitardami dėl vizito ar dalydamiesi asmenine informacija, klauskite.
 
-Mūsų [savipagalbos vadovas globėjams](/caregiving/caregiver-self-care/) pateikia idėjų, kaip paprašyti kitų pasidalyti parama. Jei žmogus norėtų daugiau pagalbos dienos metu, vadovai apie [suaugusiųjų dienos programas](/caregiving/choosing-adult-day-program-dementia/) ir [pagalbą namuose](/caregiving/choosing-in-home-dementia-care/) paaiškina klausimus, kuriuos verta uždavti vietos paslaugoms.
+Mūsų [savipagalbos vadovas globėjams](/caregiving/caregiver-self-care/) pateikia idėjų, kaip paprašyti kitų pasidalyti parama. Jei žmogus norėtų daugiau pagalbos dienos metu, vadovai apie [suaugusiųjų dienos programas](/caregiving/choosing-adult-day-program-dementia/) ir [pagalbą namuose](/caregiving/choosing-in-home-dementia-care/) paaiškina klausimus, kuriuos verta užduoti vietos paslaugoms.
 
 ## Kaip žmogus gali likti sprendimų dalyviu?
 
