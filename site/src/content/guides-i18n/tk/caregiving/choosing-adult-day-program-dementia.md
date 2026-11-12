@@ -37,7 +37,7 @@ related: [caregiving/caregiver-self-care, caregiving/choosing-in-home-dementia-c
 health: false
 ---
 
-Günlük programma adama üýtgeşik gurşawy we gündelik tertipde kömegi hödürläp biler. Şeýle hem maşgala idegini edýän adama iş, ylalaşyk ýa-da dynç almak üçin wagt berip biler. Programmalar dürlüdir, bir adama laýyk gelýän merkez beýlekisine laýyk gelmeýär. Karary adamyň rahatlygy we isleglери ýol görkezmeli.
+Günlük programma adama üýtgeşik gurşawy we gündelik tertipde kömegi hödürläp biler. Şeýle hem maşgala idegini edýän adama iş, ylalaşyk ýa-da dynç almak üçin wagt berip biler. Programmalar dürlüdir, bir adama laýyk gelýän merkez beýlekisine laýyk gelmeýär. Karary adamyň rahatlygy we islegleri ýol görkezmeli.
 
 [Alzgeýmer assosiasiýasynyň günlük ideg merkezleri boýunça syn](https://www.alz.org/help-support/caregiving/care-options/adult-day-centers) we [merkez saýlamak üçin synasy](https://www.alz.org/media/Documents/alzheimers-dementia-choosing-an-adult-day-center-ts.pdf) girmezden ozal hyzmatlary, hünärlileri, işjeňlikleri, bahany we ulagy barlamagy maslahat berýär. Bu sahypa belli bir merkezi derejelemeýär ýa-da maslahat bermeýär; diňe soraglara taýynlanmaga kömek edýär.
 

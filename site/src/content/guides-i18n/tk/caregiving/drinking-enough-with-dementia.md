@@ -88,7 +88,7 @@ Birden utgaşyksyzlyk derrew lukman kömegini talap edýär. [NHS-iň birden utg
 
 ## Basyşsyz içgi nädip teklip etmeli?
 
-Teklip ediň, soňra adama karar bermek üçin wagt beriň. Olar soňra içmegi ýa-da başga käse saýlamagy isläp biler. Düzedip, pul-pyşyrdyp ýa-da zorlap içgi bermekden saklanyň. Adam köplenç ret edýän bolsa, içgini elýeter edýänligini, tagamyny we temperaturasyny halaýandygyny, adamyň şol ýerde rahat duýýandygyny barlaň.
+Teklip ediň, soňra adama karar bermek üçin wagt beriň. Olar soňra içmegi ýa-da başga käse saýlamagy isläp biler. Düzedip, söwdalaşyp ýa-da zorlap içgi bermekden saklanyň. Adam köplenç ret edýän bolsa, içgini elýeter edýänligini, tagamyny we temperaturasyny halaýandygyny, adamyň şol ýerde rahat duýýandygyny barlaň.
 
 Adamdan näme kömek edýändigini soraň we ýardam berýän beýleki kömekçiler bilen diňe adam razy bolsa ýeterlik peýdaly maglumaty paýlaşyň. Tanyş käse, saýlanan ýer ýa-da sessiz pursat içmegi has aňsat edip biler. Alada dowam etse, adama aýratyn maslahat üçin lukmandan ýa-da diýet hünärlisinden soraň.
 

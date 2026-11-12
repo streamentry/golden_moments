@@ -59,7 +59,7 @@ Biziň [öý howpsuzlygy gollanmamyz](/caregiving/home-safety/) hammamdaky ýagt
 
 Adama degmezden ozal ýa-da hususy ýere kömek etmezden ozal ygtyýar soraň. Ne etjekdigiňizi gysga bir jümle bilen düşündiriň we jogap üçin pauza beriň. “Ine, ýüz ýuwujy” ýaly rahat görkezme uzyn görkezmelerden has düşnüklidir.
 
-Adama ýuwup bilýän we ýuwmak isleýän böleklerini özi ýuwmaga rugsat beriň. Ýuwulýan ýerden başga ýeri ýapyp, diňe ýuwulýan ýeri açyk goýup bilersiňiz. Isleseler, ýüz ýuwujyny ýa-da sabyny tutmaga beriň. Adama başlamak ýa-da gutarmak üçin köp wagt gerek bolup biler; ädimleri ýylgyrman geçmek däl-de, garaşyň.
+Adama ýuwup bilýän we ýuwmak isleýän böleklerini özi ýuwmaga rugsat beriň. Ýuwulýan ýerden başga ýeri ýapyp, diňe ýuwulýan ýeri açyk goýup bilersiňiz. Isleseler, ýüz ýuwujyny ýa-da sabyny tutmaga beriň. Adama başlamak ýa-da gutarmak üçin köp wagt gerek bolup biler; ädimleri çalt geçmek däl-de, garaşyň.
 
 Adam alada etse, çekilse ýa-da ýok diýse, duruzyň. Oňa giň ýer beriň we näme rahatsyzlyk berýändigini düşünmäge synanyşyň. Otag sowuk bolup biler, suw geň duýulup biler ýa-da adam başga kömekçini isleýän bolup biler. Adam saýlan tanyş adam has rahat bolup biler. Hammamy tamamlamak üçin duýdansyzlyk, zorlama ýa-da fiziki kömek ulanmaň.
 

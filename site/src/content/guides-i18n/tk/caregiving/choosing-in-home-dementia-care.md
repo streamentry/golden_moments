@@ -78,7 +78,7 @@ Saglyk görkezmeleri işi täsir edýän bolsa, adamyň lukmanyndan üpjün edij
 
 [Lukman kabulyna taýynlyk gollanmamyz](/caregiving/doctor-visit-with-dementia/) saglyk hünärlisine soraglary guramaga kömek edip biler. [Öý howpsuzlyk gollanmamyz](/caregiving/home-safety/) öý üýtgeşmeleri we hünärli adamdan haçan maslahat soramalydygy barada düşündiriş berýär.
 
-## Arrangement wagtyň geçmegi bilen nädip gözden geçirmeli?
+## Ylalaşygy wagtyň geçmegi bilen nädip gözden geçirmeli?
 
 Synanyşykdan soň adam bilen gürleşiň. Näme rahat bolandygyny, näme halandygyny we näme üýtgetmek isleýändigini soraň. Adam köp söz aýtmasa, kömekçini kabul edýändigine, rahat duýýandygyna we ýagdaýyň dowam etmegini isleýändigine üns beriň. Bu synlaglar baha däl; söhbeti ýolbaşçylyk etmek üçin ulanyň.
 

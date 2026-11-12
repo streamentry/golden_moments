@@ -47,7 +47,7 @@ Lukman kabuly az wagtda köp zady gürrüň etmegi mümkin. Gysga meýilnama ada
 
 Adamdan lukmanyň nämäni bilmegini iň köp isleýändigini soraň. Bilelikde gysga soraglar sanawyny ýazyň we iň möhüm soragy ilki goýuň. Sanaw uzyn bolsa, kabulyň uzynrak ýa-da yzky duşuşyk bolup bilýändigini kabul edýän ýerden soraň. Adam ähli zady kabulda ýatda saklamakdan görä ýazgyny getirmegi isläp biler.
 
-Üýtgeşmeleri anyk sözler bilen beýan ediň. Näme bolandygyny, haçan başlanýandygyny, näçe gezek ýüze çykýandygyny we şol wagt näme bolup geçendigini ýazyň. Mysal üçin, “Geçen aýda hepdelik music topary gitmekden ýüz döndi” diýmek, “Has erbetleşýär” diýmekden has peýdalydyr. Adamyň üýtgeşme hakda öz pikirini goşuň, çaklamany diagnoz hökmünde görkezmäň.
+Üýtgeşmeleri anyk sözler bilen beýan ediň. Näme bolandygyny, haçan başlanýandygyny, näçe gezek ýüze çykýandygyny we şol wagt näme bolup geçendigini ýazyň. Mysal üçin, “Geçen aýda hepdelik aýdym-saz toparyna gitmekden ýüz döndi” diýmek, “Has erbetleşýär” diýmekden has peýdalydyr. Adamyň üýtgeşme hakda öz pikirini goşuň, çaklamany diagnoz hökmünde görkezmäň.
 
 Häzirki derman sanawyny getiriň, şol sanda reçeteli we reçetesiz dermanlary, witaminleri we ýüpek goşundylary. Adam äýnekleri, eşidiş enjamlaryny ýa-da beýleki lukmanlaryň adyny getirmek isläp biler. Kabul edýän ýerden haýsy resminamalaryň ýa-da ýazgylaryň gerekdigini soraň, duşuşygyň zerurlygyndan köp şahsy maglumat ýygnamaň.
 
@@ -57,7 +57,7 @@ Adamdan siziň kabula girmegiňizi isleýärmi soraň. Ol ulag isläp we lukman 
 
 Lukmanyň soraglaryna ilki adam jogap bersin. Diňe ol isläninde ýa-da lukman adamyň ýadyna düşmeýän maglumaty soranda goşmaça jikme-jik goşuň. Lukmany däl-de, adamyň özüni diňläň. Jogap bermek üçin wagt gerek bolsa, garaşyň, her pauzany doldurmaň.
 
-Adamyň şahsy bir alada üçin lukman bilen ýeke gürleşmek isläp biler. Şol islege hormat goýuň. Eger siziň alada bolsa, adamyň öňünde aýtmak kyn bolsa, kliniki bilen gizlin ýazgyny nädip paýlaşmalydygyny soraň. Näme görendigiňizi takyk aýdyň we klinikadan maglumaty gizlemegi ýa-da adamyň gatnaşmazdan karar bermegini sorap bolmaz.
+Adamyň şahsy bir alada üçin lukman bilen ýeke gürleşmek isläp biler. Şol islege hormat goýuň. Eger siziň alada bolsa, adamyň öňünde aýtmak kyn bolsa, klinika bilen gizlin ýazgyny nädip paýlaşmalydygyny soraň. Näme görendigiňizi takyk aýdyň we klinikadan maglumaty gizlemegi ýa-da adamyň gatnaşmazdan karar bermegini sorap bolmaz.
 
 ## Haýsy soraglar meýilnamany aýdyň edip biler?
 

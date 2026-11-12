@@ -60,7 +60,7 @@ Demensiýa diagnozy saglyk, gündelik durmuş, kömek we geljek hakda köp sorag
 
 Şu hepdäni has aňsat edip biljek bir sorag saýlaň. Ol adamyň yzky saglyk idegini kimiň alyp barjakdygyny anyklamak, diagnozy hakda ygtybarly maglumatyň nirede tapylýandygyny soramak ýa-da gürleşip biljek ynanýan adamyny tapmak bolup biler. Adam özi ýolbaşçylyk etmek, kömek soramak ýa-da karar bermezden ozal garaşmak isläp biler.
 
-Indiki duşuşyk üçin adam isleseler, birnäçe sorag bilelikde ýazyň. Diagnozyň nämäni aňladýandygyny, näme belli däldigini, haçan yzky barlag gerekdigini we täze alada bolsa kime ýüz tutmalydygyňyzy sorap bilersiňiz. Lukmançydan düşünmeýän termini ýa-da teswiri düşündirmegini isläň. Biziň [lukman kabulyna taýynlyk gollanmamyzda](/caregiving/doctor-visit-with-dementia/) gysga taýynlyk sanawy bar.
+Indiki duşuşyk üçin adam isleseler, birnäçe sorag bilelikde ýazyň. Diagnozyň nämäni aňladýandygyny, näme belli däldigini, haçan yzky barlag gerekdigini we täze alada bolsa kime ýüz tutmalydygyňyzy sorap bilersiňiz. Lukmandan düşünmeýän termini ýa-da teswiri düşündirmegini isläň. Biziň [lukman kabulyna taýynlyk gollanmamyzda](/caregiving/doctor-visit-with-dementia/) gysga taýynlyk sanawy bar.
 
 Adam demensiýa hakda ähli zady birden öwrenmeli däl. Alan diagnozy boýunça ygtybarly maglumat saýlaň we soňrak ýüze çykýan soraglary ýazyň. Ynamdar sözlere, bejeriş wadalaryna ýa-da hemmeleriň bir meýilnama laýyk diýýän maslahatlaryna ehtiýatly boluň.
 
@@ -92,7 +92,7 @@ Adam maslahat isleseler, şu soraglaryň birini synap bilersiňiz:
 
 Karar bermegi derrew soramazdan diňläň. [Milli Ýaşuluk Institutynyň ideg meýilnamasynyň esasy bölegi hökmünde gymmatlyklar we isleglere degişli manyly söhbetleri beýan edişi](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) bar. Adam razy bolsa, sözlerini, senesini we kimiň bar bolandygyny ýazyp goýuň. Ýazgyny paýlaşmazdan ozal rugsat soraň. Bu ýazgylar soňky söhbetlere ýol görkezip biler, ýöne olar hukuk resminamasy ýa-da lukman buýrugy däldir.
 
-Diňe diagnoz ýa-da bir söhbete daýanyp çaklama etmäň. Adamyň isleglери üýtgäp biler, ol duruzmagy ýa-da bir mowzuga soňra dolanmagy soraýar. Özüne täsir edýän kararlara isleýşi ýaly gatnaşmagyna goldaw beriň.
+Diňe diagnoz ýa-da bir söhbete daýanyp çaklama etmäň. Adamyň islegleri üýtgäp biler, ol duruzmagy ýa-da bir mowzuga soňra dolanmagy soraýar. Özüne täsir edýän kararlara isleýşi ýaly gatnaşmagyna goldaw beriň.
 
 ## Kim diagnoz hakda bilmeli?
 

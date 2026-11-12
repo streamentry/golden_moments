@@ -50,7 +50,7 @@ Adamdan näme oňa howpsuzlyk berjekdigini we kimlere ynanýandygyny soraň. Mü
 
 Kömek edip biljek birden köp adam belläň. Esasy ideg edýän adam işde, öýünden daşarda ýa-da şol bir gyssagly ýagdaýda bolup biler. Kimiň kime habarlaşjakdygyny, kimiň ulag berip biljekdigini we meýilnama üýtgände kimiň adama barlap bilýändigini ylalaşyň. Her kömekçä diňe zerur maglumatlaryň nusgasyny beriň.
 
-Adamyň adaty goldawyny nämeler bozup biljekdigini göz öňünde tutuň. Ol ülke jaýynda ýaşaýan bolsa, günlük programmada ýa-da öýde idegde bolsa, şol hyzmatyň tupan, elektrik ýitmegi ýa-da ýapylmagy bilen nähili baş edýändigini soraň. Maşgala bilen kim habarlaşjakdygyny we adamyň goldaw zerurlygyna nähili jogap berilmelidigini anyklaň.
+Adamyň adaty goldawyny nämeler bozup biljekdigini göz öňünde tutuň. Ol kömek edilýän jaýda ýaşaýan bolsa, günlük programmada ýa-da öýde idegde bolsa, şol hyzmatyň tupan, elektrik ýitmegi ýa-da ýapylmagy bilen nähili baş edýändigini soraň. Maşgala bilen kim habarlaşjakdygyny we adamyň goldaw zerurlygyna nähili jogap berilmelidigini anyklaň.
 
 ## Haýsy maglumat we serişdeleri taýyn saklamaly?
 
@@ -72,7 +72,7 @@ Gysga meýilnama, uzyn ýazgylardan has aňsat kömekçä paýlaşylýar. Adamy�
 
 Ýazgy meýilnamasynyň kömekçä elýeterliligini barlaň. Elektrik ýa-da telefon işlemese, kagyz nusgasyny elýeter saklaň, ýöne ýörite saglyk maglumatyny myhmanlaryň görüp bilýän ýerlerde ýazmaň.
 
-## Ýaşyrnyp ýa-da ýer üýtgetmek hakda näme bilmeli?
+## Sygynmak ýa-da ýer üýtgetmek hakda näme bilmeli?
 
 Ýerli gyssagly görkezmeleriň nirede çap edilýändigini we duýduryşlaryň öýe nähili ýetýändigini öwreniň. Häkimiýetler ýer üýtgetmegi maslahat berse, nirä baryp biljekdigiňizi we adamyň nähili barjakdygyny kesgitläň. Adam tekerlekli oturgyç, ýöräp bilýän tutawaç, kislorod ýa-da beýleki enjamlary ulanýan bolsa, degişli üpjün edijiden olary nädip daşamalydygyny we haýsy ätiýaç serişdeleriň gerekdigini soraň.
 
@@ -92,6 +92,6 @@ Adamyň özüniň gylyk-häsiýetinde, aragatnaşygynda ýa-da saglygynda duýda
 
 Habarlaşmalar sanawyny, derman maglumatyny we enjamlary ideg ýagdaýy üýtgände gözden geçiriň. Serişdeleriň senesini barlaň we göçenden ýa-da täze hereket zerurlygy ýüze çykanda meýilnamany täzeläň. Adamdan meýilnamanyň henizem rahatdygyny we kimleriň gatnaşmagyny isleýändigini soraň.
 
-Kömekçiler hem ätiýaç isleýär. Ýene bir adamlardan kömek soramagyň ýollary üçin [ideg edýänleriň öz-özüni goramak gollanmamyza](/caregiving/caregiver-self-care/) serediň. Birnäçe ynanýan kömekçili kiçi meýilnama, hiç kim gözden geçirmedik uzyn sanawdan has aňsat ulanylyp biler.
+Kömekçiler hem ätiýaç isleýär. Beýleki adamlardan kömek soramagyň ýollary üçin [ideg edýänleriň öz-özüni goramak gollanmamyza](/caregiving/caregiver-self-care/) serediň. Birnäçe ynanýan kömekçili kiçi meýilnama, hiç kim gözden geçirmedik uzyn sanawdan has aňsat ulanylyp biler.
 
 Maksat, adamy we onuň rahatlygyny saklaýarka, hereket etmäge ýeterlik taýyn bolmak. Ýerli gyssagly görkezmelere eýeriň we adamyň özüne mahsus zerurlyklary barada hünärlilerden soraň.

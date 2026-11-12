@@ -61,9 +61,9 @@ Giň çaklama bermek ýerine anyk bir wakany görkezip gürleşiň. Mysal üçin
 
 Adamyň pikirini diňläň. Olar gözleriniň ýagtylygyny, ýadaraýşmany, ýadawlygy ýa-da başga kynçylygy hem duýan bolup biler. Ýa-da siziň alada bolsa razy bolmaýan bolup biler. Bir söhbeti adamyň töwekgelçiligi düşünýändigine ýa-da düşünmeýändigine subut hökmünde görmäň. Sözleşigi hormatly saklaň we biri gaharlanan bolsa, soňra temany täzeden alyp gitmäge taýyn boluň.
 
-Demensiýa Awstraliýa gysga, gaýtalanýan söhbetleri we adamyň güýçli taraplaryna hem oňat syýahat saýlawlaryna ünsi çekmegi maslahat berýär. Şeýle hem meýilleşdiriş mahalynda açarlary gizlin gizlemek ýa-da awtomobili bozmak düşmançylykly duýulyp biljekdigini duýduryp geçýär. Ciddi derrew howpsuzlyk meselesi bar bolsa, indiki töwekgelçilikli syýahaty päsgel etmek üçin ädim ediň we çalt hünärli maslahat alyň.
+Demensiýa Awstraliýanyň maslahaty gysga, gaýtalanýan söhbetleri we adamyň güýçli taraplaryna hem oňat syýahat saýlawlaryna ünsi çekmegi maslahat berýär. Şeýle hem meýilleşdiriş mahalynda açarlary gizlin gizlemek ýa-da awtomobili bozmak düşmançylykly duýulyp biljekdigini duýduryp geçýär. Derrew howpsuzlyk meselesi bar bolsa, indiki töwekgelçilikli syýahaty päsgel etmek üçin ädim ediň we çalt hünärli maslahat alyň.
 
-## Professional söhbet üçin haýsy maglumat kömek edip biler?
+## Hünärli söhbet üçin haýsy maglumat kömek edip biler?
 
 Anyk wakalary we olaryň haçan bolandygyny ýazyň. Mysal üçin, çaknyşykda ýadaraýşmak, tanyş ýere barýan ýoly ýitirmek, duralgany görmezlik ýa-da awtomobildäki täze zeperleri. Syýahat hakda adamyň aýdanlaryny we gürleşmek isleýän saglyk ýa-da derman üýtgeşmelerini goşuň.
 
