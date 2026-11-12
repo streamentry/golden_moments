@@ -1,7 +1,7 @@
 ---
 title: "Quando una persona con demenza non la riconosce"
 seoTitle: "Demenza: cosa dire se non la riconosce"
-description: "Se una persona con demenza non la riconosce, si presenti con calma, eviti i test di memoria, usi un riferimento familiare se gradito e chieda aiuto per cambiamenti improvvisi."
+description: "Se una persona con demenza non la riconosce, si presenti con calma, eviti i quiz, usi un riferimento familiare se gradito e chieda aiuto per cambiamenti improvvisi."
 section: caregiving
 order: 32
 updated: 2026-11-11
