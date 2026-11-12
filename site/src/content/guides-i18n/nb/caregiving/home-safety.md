@@ -58,7 +58,7 @@ Skriv problemet ned med enkle ord: «Gangen er mørk etter middag», «Badedøre
 
 ### Kjøkken
 
-- **Gå gjennom bruken av apparater.** Hvis det har vært et problem med komfyren eller et annet apparat, se på sikkerhetsløsninger laget for det bestemte apparatet. Alzheimer's Association nevner automatisk avslag og sikkerhetsutstyr for komfyrer som mulige tiltak. Få faglig råd før du endrer gass- eller elektrisk utstyr.
+- **Gå gjennom bruken av apparater.** Hvis det har vært et problem med komfyren eller et annet apparat, se på sikkerhetsløsninger laget for det bestemte apparatet. Alzheimer's Association nevner automatisk avstengning og sikkerhetsutstyr for komfyrer som mulige tiltak. Få faglig råd før du endrer gass- eller elektrisk utstyr.
 - **Hold legemidler og ikke-matvarer adskilt fra mat.** Organisasjonen anbefaler å oppbevare legemidler trygt, ikke på kjøkkenbenken. Hvis personen selv håndterer sine legemidler, spør en apotekansatt eller en helsefaglig person om en plan som ivaretar den rutinen.
 - **Oppbevar rengjøringsmidler og farlige produkter trygt.** Behold dem i originalemballasjen, borte fra mat, og utilgjengelig når det trengs. Hell aldri kjemikalier over i en drikkeflaske eller et matglass.
 - **Hold nyttige kjøkkenredskaper tilgjengelige.** Et trygt oppsett bør gjøre det mulig for personen å fortsette med oppgaver hun eller han liker, når det er mulig. Hvis du endrer et skap eller et apparat, forklar endringen og sjekk om den skaper forvirring.

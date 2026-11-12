@@ -85,6 +85,6 @@ Be om en skriftlig utskrivningsplan. Sjekk at den forklarer oppfølgingstimer, o
 
 Diskuter hvilken støtte som vil være nødvendig hjemme. Vurder hvem som skal hjelpe med måltider, bevegelse, vask, timer og eventuelt nytt utstyr eller nye hjemmetjenester. Vær ærlig om hva familie og venner kan stille opp med. Spør utskrivningskoordinatoren om andre lokale tjenester hvis planen virker vanskelig å gjennomføre.
 
-Når dere er kommet hjem, gi tid til hvile og til å falle til ro i kjente rutiner. Del den skriftlige planen bare med de personene personen har sagt seg enig i skal være med. Hvis personen plutselig blir forvirret eller alvorlig syk, søk hasteforhjelp i stedet for å vente til en vanlig oppfølgingstime.
+Når dere er kommet hjem, gi tid til hvile og til å falle til ro i kjente rutiner. Del den skriftlige planen bare med de personene personen har sagt seg enig i skal være med. Hvis personen plutselig blir forvirret eller alvorlig syk, søk umiddelbar hjelp i stedet for å vente til en vanlig oppfølgingstime.
 
 Et rolig besøk er ikke alltid mulig, spesielt ved akutt sykdom. Forberedelse, tydelig kommunikasjon og en skriftlig utskrivningsplan kan likevel hjelpe alle å vite hva som skjer videre.

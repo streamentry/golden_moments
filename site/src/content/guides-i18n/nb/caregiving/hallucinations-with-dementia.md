@@ -16,7 +16,7 @@ keyPoints:
   - "Endre ikke legemidler uten at personens behandler er med på det."
 faq:
   - q: "Hva er en hallusinasjon?"
-    a: "En hallusinasjon er å se, høre, lukte, smake eller kjenne noe som ikke later til å ha en ytre kilde. Også en ekte skygge, et mønster eller en lyd kan bli feiltolket. En familiemedlem trenger ikke å avgjøre hva som skjer."
+    a: "En hallusinasjon er å se, høre, lukte, smake eller kjenne noe som ikke later til å ha en ytre kilde. Også en ekte skygge, et mønster eller en lyd kan bli feiltolket. Et familiemedlem trenger ikke å avgjøre hva som skjer."
   - q: "Bør jeg si til en med demens at det hun eller han ser ikke er virkelig?"
     a: "Ikke krangle eller insistere på at personen tar feil. Du kan være ærlig og samtidig anerkjenne følelsene: «Jeg ser ikke noen, men jeg skjønner at dette er skremmende. Jeg er her.»"
   - q: "Kan noe annet enn demens gi hallusinasjoner?"
@@ -93,6 +93,6 @@ Hvis personen er enig, skriv ned korte observasjoner som du kan dele med behandl
 
 Bruk personens egne ord, og beskriv det du la merke til. For eksempel: skriv «sa at en person sto ved vinduet» i stedet for å sette en merkelapp på hendelsen. Del notatene med personens samtykke når det er mulig.
 
-Disse notatene forklarer ikke årsaken. Hvis opplevelsen starter brått med forvirring eller en stor endring i årvåkenhet, søk hasteforhjelp i stedet for å vente på å samle en oversikt.
+Disse notatene forklarer ikke årsaken. Hvis opplevelsen starter brått med forvirring eller en stor endring i årvåkenhet, søk umiddelbar hjelp i stedet for å vente på å samle en oversikt.
 
 [Veilederen om kveldsrastløshet](/caregiving/late-day-restlessness/) tar for seg belysning og rutiner om kvelden. For anklager om borte gjenstander, se [når en med demens er mistenksom](/caregiving/when-someone-with-dementia-is-suspicious/).
