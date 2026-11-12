@@ -1,34 +1,34 @@
 ---
-title: "ڕێنماییەکانی قسەکردن لەگەڵ کەسێک کە دیمانسیا هەیەتی"
-seoTitle: "ڕێنمایی قسەکردن لە دیمانسیا: چی بڵێین و چی نەڵێین"
-description: "ڕێگای پراکتیکی بۆ قسەکردن لەگەڵ کەسێک کە دیمانسیا هەیەتی: چۆن گفتوگۆ دەست پێ بکەیت، چی بڵێیت لەبری تاقیکردنەوە یان ڕاستکردنەوە، و چۆن گوێ بگریت."
+title: "Şîretên danûstandinê bi kesê ku bi demansê dijî re"
+seoTitle: "Şîretên danûstandinê di demansê de: Çi bêjin"
+description: "Rêyên pratîk ji bo axaftina bi kesê ku bi demansê dijî re: meriv çawa axaftinekê amade dike, li şûna ceribandin an rastkirinê çi bêje û çawa guhdarî bike."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  لە شوێنێکی بێدەنگ قسە بکەن، ڕووبەڕووی ئەو کەسە بن، ناوی بەکاربهێنن، و بە
-  هێواشی لە ڕستەی کورت و سادەدا قسە بکەن. یەک پرسیار لە یەک کاتدا بکەن، لەبری
-  پرسیاری کراوە دوو هەڵبژاردە پێشکەش بکەن، و زیاتر لەوەی هەست دەکەیت سروشتی
-  بێت چاوەڕێ بکەن. مشتومڕ مەکەن، ڕاستی مەکەنەوە و تاقی مەکەنەوە. وەڵام بدەنەوە
-  بەو هەستەی لە پشت وشەکانەوەیە، و کاتێک قسەکردن ئاڵۆزتر دەبێت، دەست لێدان،
-  وێنە و ئاماژە بەکاربهێنن.
+  Li cihekî bêdeng biaxivin, rû bi rûyê wî kesî bimînin, navê wî bi kar bînin
+  û hêdî hêdî bi hevokên kurt û sade biaxivin. Di carekê de tenê pirsekê
+  bipirsin, li şûna pirsên vekirî du vebijêrk pêşkêş bikin û ji ya ku asayî
+  xuya dike bêtir li bendê bimînin. Nîqaş nekin, rast nekin û ceribandinê
+  nekin. Bersivê bidin hesta ku li pişt peyvan e, û her ku axaftin zehmettir
+  dibe, destdan, wêne û tevgerên destan bi kar bînin.
 keyPoints:
-  - "پێش دەستپێکردنی قسەکردن، دەنگی ژینگە کەم بکەنەوە و سەرنجی ئەو کەسە ڕابکێشن."
-  - "ڕستەی کورت، یەک بیرۆکە لە یەک کاتدا، و ناو بەکاربهێنن لەبری ئەو، ئەو، یان ئەوان."
-  - "دوو هەڵبژاردە یان پرسیاری بەڵێ/نەخێر پێشکەش بکەن، نەک پرسیاری کراوە."
-  - "بۆ وەڵام چاوەڕێ بکەن. ئەگەر تێنەگەیشتن، هەمان وشە دووبارە بکەنەوە، دواتر وشەی نوێ تاقی بکەنەوە."
-  - "مشتومڕ مەکەن و ڕاستی مەکەنەوە. وەڵام بدەنەوە بەو هەستەی لە پشت قسەکانیانەوەیە."
-  - "کاتێک وشە کەم دەبنەوە، لە ڕێگەی دەست لێدان، دەنگ، ڕوخسار و وێنەی هاوبەشەوە پەیوەندی بکەن."
+  - "Berî ku dest bi axaftinê bikin, dengên paşerojê kêm bikin û çavên hev bigirin."
+  - "Hevokên kurt, di carekê de yek raman, û li şûna ew, ew an ewên, navan bi kar bînin."
+  - "Li şûna pirsên vekirî, du vebijêrk an pirsek erê-yan-na pêşkêş bikin."
+  - "Li benda bersivê bimînin. Heke wî kesî neyê fêmkirin, heman peyvan dubare bikin, paşê peyvên nû biceribînin."
+  - "Nîqaş nekin û rast nekin. Bersivê bidin hesta ku li pişt gotinên wî ye."
+  - "Her ku peyv kêm dibin, bi destdan, deng, vegotina rû û wêneyên hevpar danûstandinê bikin."
 faq:
-  - q: "چی نابێت بە کەسێک کە دیمانسیا هەیەتی بڵێین؟"
-    a: "دوور بکەونەوە لە تاقیکردنەوە («بیرت دێتەوە...؟»)، ڕاستکردنەوە («ئەوە هەڵەیە»)، بیرخستنەوەی لەدەستدان («پێشتر پێم وتم»)، و قسەکردن دەربارەیان وەک ئەوەی لەوێ نەبن. دوور بکەونەوە لە قسەکردنی مناڵانە. ئەمانە زۆرجار دەبنە هۆی شەرمەزاری یان نیگەرانی بەبێ ئەوەی یارمەتی بدەن."
-  - q: "ئایا دەبێت ڕاستی بکەمەوە کاتێک زانیارییەکی هەڵە دەڵێن؟"
-    a: "زۆربەی کات نا. ئەگەر زانیارییەکی هەڵە زیان نەبەخشێت، وازی لێبهێنن. مشتومڕ بە زۆری بیرۆکەی ئەو کەسە ناگۆڕێت و زۆرجار دڵی دەشکێنێت. سەرنج بدەنەوە سەر ئەوەی ئێستا چی هەست دەکات و چیی پێویستە."
-  - q: "چی بکەم کاتێک ناتوانن وشەیەک بدۆزنەوە؟"
-    a: "سەرەتا کاتێکیان بدەنێ. ئەگەر بە ڕوونی کێشەیان هەیە، باشە بە نەرمی وشەیەک پێشنیار بکەیت یان خەمڵێنی مەبەستیان چییە و دڵنیا بیتەوە. ئاماژەکردن، جووڵەی دەست و وێنەش دەتوانن یارمەتیدەر بن."
-  - q: "چۆن لەگەڵ کەسێک قسە بکەم کە دیمانسیای قۆناغی دوا هەیەتی و دەگمەن قسە دەکات؟"
-    a: "لە پێشەوە نزیک ببنەوە، بڵێن کێن، و دەنگێکی ئارام و دەست لێدانێکی نەرم بەکاربهێنن. سەیری دەموچاویان و زمانی جەستەیان بکەن بۆ تێگەیشتن لە هەستەکانیان. ئامادەبوونی ئێوە، گۆرانییەکی ئاشنا یان گرتنی دەستیان دەتوانێت بەبێ وشەش زۆر شت بگەیەنێت."
+  - q: "Divê mirov ji kesê ku bi demansê dijî re çi nebêje?"
+    a: "Ji ceribandinê («Te bi bîr tîne…?»), rastkirinê («Ev ne rast e»), bîranîna windahiyan («Min berê jî ji te re gotibû») û axaftina li ser wî kesî wekî ku ew li wir tune be, dûr bisekinin. Ji axaftina zarokanî dûr bisekinin. Ev tişt dikarin bibe sedema şermê an xemgîniyê bêyî ku alîkariyê bikin."
+  - q: "Gelo divê ez wî rast bikim dema ku agahiyên wî şaş bin?"
+    a: "Bi gelemperî na. Heke agahiyeke şaş zirarê nade, wê bi rê ve bihêlin. Nîqaş kêm caran ramana wî kesî diguherîne û pir caran wî xemgîn dike. Bala xwe bidin ku ew niha çawa hîs dike û çi hewce dike."
+  - q: "Dema ku wî nikaribe peyva rast bibîne ez çi bikim?"
+    a: "Pêşî demê bidin wî. Heke diyar e ku ew zehmetiyê dikşîne, baş e ku hûn bi nermî peyvekê pêşkêş bikin an texmîn bikin ku ew çi dibêje û piştrast bikin. Nîşandan, tevgerên destan û wêne jî dikarin bibin alîkar."
+  - q: "Ez çawa bi kesekî re biaxivim ku di qonaxa dawî ya demansê de ye û kêm diaxive?"
+    a: "Ji pêş ve nêzîk bibin, bêjin hûn kî ne, û dengek aram û destdaneke nerm bi kar bînin. Ji bo hestan li rû û zimanê laş temaşe bikin. Hebûna we, straneke nas an girtina destan dikare bêyî peyvan gelek tiştan ragihîne."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-دیمانسیا دەتوانێت دۆزینەوەی وشە، بەدواداچوونی ڕستەی درێژ، یان پشتگوێخستنی دەنگی ژینگە سەختتر بکات. ئەمە بە هیچ شێوەیەک واتا ناکات ئەو کەسە چیتر نایەوێت پەیوەندی هەبێت. گۆڕانکارییە بچووکەکان لەوەی چۆن گفتوگۆ ئامادە دەکەیت، چۆن قسە دەکەیت و چۆن گوێ دەگریت دەتوانێت قسەکردن بۆ هەردووکتان ئاسانتر و ئارامتر بکات.
+Demans dikare dîtina peyvan, şopandina hevokeke dirêj an paşguhkirina dengên paşerojê zehmettir bike. Ev nayê wê wateyê ku wî kesî êdî naxwaze têkiliyê deynin. Guhertinên piçûk di awayê ku hûn axaftinekê amade dikin, çawa diaxivin û çawa guhdarî dikin de dikarin axaftinê ji bo we herduyan hêsantir û aramtir bikin.
 
-## گرنگترین ڕێنماییەکان بۆ قسەکردن لەگەڵ کەسێک کە دیمانسیا هەیەتی چین؟
+## Ji bo axaftina bi kesê ku bi demansê dijî re şîretên herî girîng çi ne?
 
-سەرنجیان ڕابکێشە، سادە بێت، و ئارام بگرە. ئەگەر تەنها پێنج شت لەبیرت بێت:
+Bala wî bikişînin, tiştan sade bihêlin û sebir bikin. Heke hûn tenê pênc tiştan bi bîr bînin:
 
-1. **ژوورەکە بێدەنگ بکە و ڕوویان تێبکە.** تەلەڤیزیۆن بکوژێنەوە، لە ئاستی چاویاندا دانیشە، و ناویان بەکاربهێنە.
-2. **یەک شت لە یەک کاتدا بڵێ.** ڕستەی کورت، یەک بیرۆکە، یەک پرسیار.
-3. **دوو هەڵبژاردە پێشکەش بکە.** «چای یان قاوە؟» ئاسانترە لە «چی دەتەوێت؟»
-4. **چاوەڕێ بکە.** بۆ وەڵامدانەوە زیاتر لەوەی هەست دەکەیت سروشتی بێت کات بدە، و هەوڵ بدە قسەیان پێنەبڕیت.
-5. **هەرگیز مشتومڕ مەکە و تاقیان مەکەرەوە.** وەڵام بدەرەوە بەوەی چۆن هەست دەکەن، نەک بەوەی زانیارییەکان ڕاستن یان نا.
+1. **Odeyê bêdeng bikin û rû bi wî bin.** Televîzyonê vemrînin, li asta çavan rûnin û navê wî bi kar bînin.
+2. **Di carekê de tenê tiştekî bêjin.** Hevokên kurt, yek raman, yek pirs.
+3. **Du vebijêrk pêşkêş bikin.** «Çay an qehwe?» ji «Tu çi dixwazî?» hêsantir e.
+4. **Li bendê bimînin.** Ji bo bersivê ji ya ku asayî xuya dike bêtir dem bidin, û hewl bidin navberê nekin.
+5. **Tu carî nîqaş nekin û ceribandinê nekin.** Bersivê bidin ku ew çawa hîs dike, ne ku agahî rast in an na.
 
-## چۆن دەست بە گفتوگۆ بکەم؟
+## Ez çawa dest bi axaftinekê bikim?
 
-کارەکان بەم جۆرە ڕێک بخە کە ئەو کەسە بتوانێت سەرنج بداتە سەر تۆ. [ڕێبەری Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) پێشنیار دەکات سەرەتا دەنگی ژینگە کەم بکەیتەوە: ڕادیۆ یان تەلەڤیزیۆن بکوژێنەوە، پەردە یان دەرگا دابخە، یان بڕۆنە شوێنێکی بێدەنگتر.
+Tiştan wisa amade bikin ku kes karibe bala xwe bide we. [Rêbera Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) pêşniyar dike ku pêşî deng kêm bikin: radyo an televîzyonê vemrînin, perde an derî bigirin, an biçin cihekî bêdengtir.
 
-- **لە پێشەوە نزیک ببەوە.** هاتن لە پشتەوە یان لاوە دەتوانێت بیانترسێنێت.
-- **بڵێ تۆ کێیت.** «سڵاو باوکە، من سارام، کچەکەت.» ئەمە یارمەتی دەدات نەبێت بەدوای ناوتدا بگەڕێن.
-- **لە ئاستی چاویاندا بە.** ئەگەر دانیشتوون، دانیشە یان چۆک بدە تاکوو چاوتان لە یەک ئاستدا بێت.
-- **سەیری ڕوخسار و دەنگت بکە.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ڕاوێژ دەکات ئاگاداری دەنگ، بەرزی، ڕوخسار و زمانی جەستەت بیت، و هەوڵ بدەیت ئارام و گەرم بیت.
-- **دڵنیا بەوە کە چاویلکە و ئامێری گوێگرتن لە شوێنی خۆیانن.** بەدواداچوونی گفتوگۆیەک کە بە تەواوی نایبینیت یان نابیستیت سەختە.
+- **Ji pêş ve nêzîk bibin.** Nêzîkbûna ji paş an alî ve dikare wî bitirsîne.
+- **Bêjin hûn kî ne.** «Slav bav, ez Serah im, keça te.» Ev wî ji lêgerîna navê we xilas dike.
+- **Xwe bînin asta wî.** Heke ew rûniştiye, rûnin an çok bidin da ku çavên we di heman astê de bin.
+- **Li rû û dengê xwe binihêrin.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) şîret dike ku hûn hay ji deng, bilindahî, vegotina rû û zimanê laşê xwe hebin, û hewl bidin ku helwestek germ û aram nîşan bidin.
+- **Piştrast bikin ku berçavk û amûrên bihîstinê li cihê xwe ne.** Şopandina axaftinekê ku hûn bi tevahî nabînin an nabihîzin zehmet e.
 
-## چۆن قسەکانم ڕێک بخەم؟
+## Divê ez gotinên xwe çawa bi kar bînim?
 
-وشەی سادە، ڕستەی کورت و دەنگێکی ئارام و نزم بەکاربهێنە.
+Peyvên sade, hevokên kurt û dengek aram û nizm bi kar bînin.
 
-- **یەک بیرۆکە لە هەر ڕستەیەکدا.** «باوەشەکەت لەبەر بکەین. دواتر دەچینە دەرەوە.» نەک هەردووکیان لە یەک هەناسەدا.
-- **ناو بەکاربهێنە، نەک جێناو.** «مامۆستە عەزیز تەلەفۆنی کرد» ڕوونترە لە «ئەو تەلەفۆنی کرد».
-- **دەنگەکەت نزمتر بکەوە، نەک بەرزتر.** Family Caregiver Alliance دەنگی نزمتر پێشنیار دەکات لەبری دەنگی بەرزتر.
-- **دووبارە بکەرەوە، دواتر بە شێوەیەکی تر بڵێ.** ئەگەر تێنەگەیشتن، یەکجار هەمان وشە دووبارە بکەرەوە. ئەگەر کاری نەکرد، کەمێک چاوەڕێ بکە و وشەی جیاواز تاقی بکەرەوە.
-- **پیشان بدە هەروەها بڵێ.** ئاماژە بە کوپەکە بکە، دوو بلوزەکە پیشان بدە، یان یەکەم هەنگاو پیشان بدە.
-- **لەگەڵیان قسە بکە، نەک دەربارەیان.** NIA ئاگاداری دەداتەوە کە قسەکردن دەربارەی ئەو کەسە وەک ئەوەی لەوێ نەبێت، یان «قسەی مناڵانە» بەکارنەهێنیت.
+- **Di her hevokê de yek raman.** «Werin em kincê te li xwe bikin. Paşê emê derkevin derve.» Ne herdu bi carekê.
+- **Li şûna cînavkan navan bi kar bînin.** «Xaltî Jiyan telefon kir» ji «Wê telefon kir» zelaltir e.
+- **Dengê xwe nizm bikin, ne bilind.** Family Caregiver Alliance dengek nizmtir li şûna dengek bilindtir pêşniyar dike.
+- **Dubare bikin, paşê bi awayekî din bêjin.** Heke wî fêm nekir, heman peyvan carekê dubare bikin. Heke ev nexebite, hinekî li bendê bimînin û peyvên cuda biceribînin.
+- **Nîşan bidin û her weha bêjin.** Li fincanê nîşan bidin, du kincan bilind bikin, an gava yekem nîşan bidin.
+- **Bi wî re biaxivin, ne li ser wî.** NIA hişyarî dide ku meriv li ser wî kesî wekî ku ew li wir tune be neaxive, û ji «axaftina zarokanî» dûr bisekine.
 
-NIA شێوازی سادەتر بۆ پرسیارە باوەکان پێشنیار دەکات. لێرە چەند نموونەیەک بەو شێوازە دەهێنینەوە:
+NIA ji bo pirsên rojane guhertoyên sadetir pêşniyar dike. Li vir nimûne di heman ruhê de hene:
 
-| لەبری | تاقی بکەرەوە |
+| Li şûna | Biceribînin |
 | --- | --- |
-| «بۆ نانی ئێوارە چی دەتەوێت؟» | «ماسی دەتەوێت یان مریشک؟» |
-| «چۆن هەست دەکەیت؟» | «هەست بە ماندوویی دەکەیت؟» |
-| «برسیتە؟» | «نانی ئێوارە دوای پێنج خولەک ئامادە دەبێت.» |
-| «ئەوە بەو شێوەیە ناکرێت.» | «با بەو شێوەیە تاقی بکەینەوە.» |
-| «بیرت دێتەوە سەفەرەکەمان بۆ دەریاچە؟» | «بیرم لەو سەفەرە دەهاتەوە بۆ دەریاچە. پێم بڵێ چی بەدڵت بوو.» |
-| «پێشتر پێم وتم.» | بە میهرەبانییەوە دووبارە وەڵام بدەرەوە، وەک یەکەمجار. |
+| «Tu ji bo şîvê çi dixwazî?» | «Tu masî dixwazî an mirîşk?» |
+| «Tu çawa hîs dikî?» | «Tu westiyayî hîs dikî?» |
+| «Tu birçî yî?» | «Şîv di nav pênc deqeyan de amade dibe.» |
+| «Tu wisa nakî.» | «Werin em bi vî awayî biceribînin.» |
+| «Te gera me ya li cem golê bi bîr tîne?» | «Ez li ser gera me ya li cem golê difikirîm. Ji min re bêje tu ji çi hez dikir.» |
+| «Min berê jî ji te re gotibû.» | Dîsa, bi nermî, wekî cara yekem bersiv bidin. |
 
-## چۆن بە باشی گوێ بگرم؟
+## Ez çawa baş guhdarî bikim?
 
-گوێ بگرە بۆ مانا و هەستەکە، نەک تەنها بۆ وشەکان.
+Li wate û hestê guhdarî bikin, ne tenê li peyvan.
 
-- **چاوەڕێ بکە.** بێدەنگی زۆرجار کاتی بیرکردنەوەیە. بە هێواشی تا دە ژمێرە پێش ئەوەی تێبکەویت.
-- **تەنها کاتێک وشەیەک پێشنیار بکە کە گیر بوون.** Family Caregiver Alliance دەڵێت باشە وشە پێشنیار بکەیت کاتێک کەسێک کێشەی هەیە.
-- **ئەوەی بیستوتە دڵنیا بکەرەوە.** [ڕێبەری پەیوەندیکردنی Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) پێشنیار دەکات بەدوای مانای پشت وشەکاندا بگەڕێیت و دووبارەی بکەیتەوە بۆ دڵنیابوونەوە کە تێگەیشتوویت. «نیگەرانی ئۆتۆمبێلەکەیت؟»
-- **سەیری دەموچاو و جەستەیان بکە.** NIA دەڵێت کاتێک قسەکردن سەختتر دەبێت، دەربڕینی ڕوخسار ڕەنگە خەم، تووڕەیی یان بێزاربوون ڕوونتر لە وشەکان پیشان بدات.
-- **نیگەرانییەکانیان بە جدی وەربگرە.** تەنانەت ئەگەر نیگەرانییەک لەسەر بنەمای زانیارییەکی هەڵە بێت، هەستەکە ڕاستەقینەیە.
+- **Li bendê bimînin.** Bêdengî pir caran dema ramanê ye. Berî ku destwerdanê bikin, hêdî hêdî heta deh bijmêrin.
+- **Tenê heke ew asê maye peyvekê pêşkêş bikin.** Family Caregiver Alliance dibêje ku dema kesek zehmetiyê dikşîne, baş e ku peyvan pêşniyar bikin.
+- **Tiştê ku we bihîst kontrol bikin.** [Rêbera danûstandinê ya Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) pêşniyar dike ku hûn li wateya li pişt peyvan bigerin û wê dubare bikin da ku piştrast bikin we fêm kiriye. «Tu ji ber erebeyê xeman î?»
+- **Li rû û laşê wî temaşe bikin.** Her ku axaftin zehmettir dibe, NIA dibêje, vegotinên rû dikarin xemgînî, hêrs an bêhêvîbûnê ji peyvan zelaltir nîşan bidin.
+- **Xeman bi ciddî bigirin.** Tewra ku xeman li ser agahiyeke şaş be jî, hest rast e.
 
-## ئەگەر شتێکی ڕاست نەبوو وت چی بکەم؟
+## Heke ew tiştekî ku ne rast e bêje çi?
 
-مشتومڕ مەکە. بە زۆری سەرناکەویت، و ئەو کەسە ڕەنگە هەست بە شەرمەزاری یان ترس بکات. لەبری ئەوە، لەگەڵ هەستەکەدا پەیوەندی دروست بکە، دواتر بە نەرمی بابەتەکە بگۆڕە.
+Nîqaş nekin. Îhtîmal kêm e ku hûn biserkevin, û dibe ku wî kesî di dawiyê de xwe şermok an tirsnak hîs bike. Li şûna wê, bi hestê ve girêbidin, paşê bi nermî derbasî mijarekî din bibin.
 
-Family Caregiver Alliance پێشنیار دەکات پێش گۆڕینی بابەتەکە هەستەکە قبوڵ بکەیت. بۆ نموونە، ئەگەر دایکت دەڵێت دەبێت بچێت منداڵەکان لە قوتابخانە وەربگرێت:
+Family Caregiver Alliance pêşniyar dike ku berî ku hûn ramanê bi aramî biguherînin, hestê qebûl bikin. Mînakî, heke diya we israr bike ku divê ew here zarokan ji dibistanê bîne:
 
-- لەبری: «دایە، منداڵەکانت گەورە بوون. ئەوە چل ساڵ لەمەوبەر بوو.»
-- تاقی بکەرەوە: «هەمیشە دایکی زۆر بەسۆز بوویت. باسی وەرگرتنیانم بۆ بکە. دەتەوێت پێشتر کەمێک خواردن بخۆین؟»
+- Li şûna: «Dayê, zarokên te mezin bûne. Ew çil sal berê bû.»
+- Biceribînin: «Tu her tim dayikeke pir dilovan bûyî. Ji min re li ser anîna wan ji dibistanê bêje. Em pêşî tiştekî bixwin?»
 
-Alzheimer's Association هەروەها ڕاوێژ دەکات مشتومڕ مەکەیت لەسەر ئەو قسانەی لەگەڵیاندا ناگۆڕیت. کاتەکە هەڵبژێرە: ئەگەر باوەڕێکی هەڵە زیان نەبەخشێت، وازی لێبهێنە.
+Alzheimer’s Association jî şîret dike ku li ser gotinên ku hûn pê ne razî ne nîqaş nekin. Demên rast hilbijêrin: heke baweriyeke şaş zirarê nade, wê bi rê ve bihêlin.
 
-## پەیوەندیکردن چۆن دەگۆڕێت کاتێک دیمانسیا پێش دەکەوێت؟
+## Her ku demans pêş dikeve danûstandin çawa diguhere?
 
-پێداویستییەکان بە تێپەڕبوونی کات دەگۆڕێن، بۆیە شێوازی خۆت بگونجێنە. Alzheimer's Association سێ قۆناغی گشتی باس دەکات:
+Hewcedarî bi demê re diguherin, ji ber vê yekê nêzîkatiya xwe li gorî wê eyar bikin. Alzheimer’s Association sê qonaxên giştî diyar dike:
 
-| قۆناغ | چی یارمەتیدەرە |
+| Qonax | Çi alîkariyê dike |
 | --- | --- |
-| سەرەتایی | وا مەزانە ناتوانن پەیوەندی بکەن. لە گفتوگۆکاندا بەشدارشان بکە، ڕاستەوخۆ لەگەڵیان قسە بکە، بپرسە چ جۆرە یارمەتییەک دەیانەوێت، و ئەگەر یارمەتیدەر بوو گاڵتەجاڕی بکە. |
-| ناوەندی | گفتوگۆی تاک بە تاک لە شوێنێکی بێدەنگدا. بە هێواشی قسە بکە، چاوت لە چاویان بێت، پرسیاری بەڵێ/نەخێر بەکاربهێنە، ڕێنمایی هەنگاو بە هەنگاو بدە، و ڕەخنە یان ڕاستکردنەوە مەکە. |
-| دوا | لە پێشەوە نزیک ببەوە و بڵێ تۆ کێیت. هانیان بدە ئاماژە و جووڵەی دەست بەکاربهێنن. دەست لێدان، دەنگ، بینین و بۆن بەکاربهێنە. هەرگیز وەک ئەوەی لەوێ نەبن قسە مەکە. |
+| Destpêk | Texmîn nekin ku ew nikare danûstandinê bike. Wî di axaftinan de bi cih bikin, rasterast bi wî re biaxivin, bipirsin ew çi piştgiriyê dixwaze, û heke alîkar be mizahê bi kar bînin. |
+| Navîn | Axaftinên yek-bi-yek li cihekî bêdeng. Hêdî biaxivin, çavên hev bigirin, pirsên erê-yan-na bi kar bînin, rêwerzên gav-bi-gav bidin, û rexne an rastkirinê nekin. |
+| Dawî | Ji pêş ve nêzîk bibin û bêjin hûn kî ne. Nîşandan û tevgerên destan teşwîq bikin. Destdan, deng, dîtin û bêhn bi kar bînin. Tu carî wekî ku ew li wir tune be neaxivin. |
 
-هەر کەسێک جیاوازە، و هەمان کەس ڕەنگە ڕۆژێکی باش و ڕۆژێکی سەختی هەبێت. وەڵام بدەرەوە بەوەی ئێستا چۆنن، نەک بە پێناسەیەک.
+Her kes cuda ye, û heman kes dikare rojên baş û rojên dijwar hebin. Li gorî ku ew niha çawa ye bersiv bidin, ne li gorî navekî an etîketekê.
 
-## ئایا وێنە و چالاکی دەتوانن گفتوگۆ ئاسانتر بکەن؟
+## Gelo wêne û çalakî dikarin axaftinê hêsantir bikin?
 
-بەڵێ. وێنەیەکی هاوبەش فشار کەم دەکاتەوە و شتێکتان پێ دەدات کە هەردووکتان سەیری بکەن و ئاماژەی پێ بکەن.
+Erê. Wêneyek hevpar zextê kêm dike û tiştekî dide we herduyan ku lê binêrin û nîşan bidin.
 
-- **هاندەری وێنەیی.** [Conversation Cards](/games/conversation-cards/) وێنەی لەگەڵ پرسیاری کراوە پێشکەش دەکات کە هەرگیز تاقیت ناکاتەوە.
-- **وێنەی خێزانی.** [Photo Pairs](/games/photo-pairs/) ئەو وێنانەی هەڵتدەبژێریت دەگۆڕێت بۆ یارییەکی نەرم، کە زۆرجار هۆی بیرەوەرییەکان دەبێت.
-- **وتەی ئاشنا.** [Finish the Saying](/games/finish-the-saying/) وتەی ئاشنا بەکار دەهێنێت و دواتر هاندەرێکی گفتوگۆ پێشکەش دەکات.
-- **یارییەکانی هاوتاکردن وەک پاشبنەما.** [Picture Pairs](/games/picture-pairs/) شتێکت پێ دەدات کە دەستت پێی سەرقاڵ بێت لەکاتی گفتوگۆدا.
+- **Wêneyên ji bo destpêkirina axaftinê.** [Conversation Cards](/games/conversation-cards/) wêneyên bi pirsên vekirî pêşkêş dike ku tu carî ceribandinê nakin.
+- **Wêneyên malbatê.** [Photo Pairs](/games/photo-pairs/) wêneyên ku hûn hildibijêrin vediguherîne lîstikeke nerm a lihevhatinê, ku pir caran bîranînan vedijîne.
+- **Gotinên nas.** [Finish the Saying](/games/finish-the-saying/) gotinên nas bi kar tîne, li dû wan pirsek ji bo axaftinê tê.
+- **Lîstikên lihevhatinê wekî paşxane.** [Picture Pairs](/games/picture-pairs/) dema ku hûn diaxivin tiştekî dide destên we ku pê mijûl bibin.
 
-بۆ زانیاری زیاتر سەیری [چۆن پێکەوە یاری بکەین](/caregiving/how-to-play-together/) و [چالاکییەکانی بیرەوەری](/activities/reminiscence/) بکە. بۆ سەردان و پەیوەندی، ڕێبەرەکانمان لەبارەی [سەردانکردن](/activities/visiting/) و [پەیوەندی تەلەفۆنی و ڤیدیۆیی](/activities/phone-and-video-calls/) بخوێنەرەوە.
+Ji bo bêtir agahî li [çawa bi hev re lîstikan bilîzin](/caregiving/how-to-play-together/) û [çalakiyên bîranînê](/activities/reminiscence/) binêrin. Ji bo serdan û telefonan, rêberên me yên li ser [serdanê](/activities/visiting/) û [telefon û bangên vîdyoyê](/activities/phone-and-video-calls/) bixwînin.
 
-## ئەگەر ئارامیم لەدەستدا چی بکەم?
+Ji bo kesekî ku bi çend zimanan diaxive, li [rêbera me ya danûstandina di nav zimanan de](/caregiving/language-and-dementia-communication/) binêrin.
 
-ئەمە بۆ هەموو کەسێک ڕوودەدات. NIA پێشنیار دەکات ئەگەر بێزارت کرد، کەمێک کات وەربگریت بۆ ئارامبوونەوە. بچۆرە ژوورێکی تر، چەند هەناسەیەکی هێواش وەربگرە، و کاتێک ئارامتر بوویت بگەڕێوە. هەمیشە دەتوانیت گفتوگۆکە دووبارە دەست پێ بکەیتەوە، و ئەو کەسەش ڕەنگە باشتر وەڵام بداتەوە بە دۆخی ئارامت. ئەگەر بێزاری بوونە شتێکی بەردەوام، ئەمە نیشانەیەکە کە پێویستت بە پشتگیری زیاترە، نەک ئەوەی تۆ شکست دهێنیت. ڕێبەرەکەمان لەبارەی [چاودێریی خۆت وەک چاودێر](/caregiving/caregiver-self-care/) شوێنەکانی یارمەتی تێدایە.
+## Heke ez bêsebir bibim çi?
+
+Ev ji bo her kesî diqewime. NIA pêşniyar dike ku heke hûn aciz bibin, hinek dem bidin xwe da ku aram bibin. Herin odeyekî din, çend nefesên hêdî bistînin, û dema ku hûn dikarin vegerin. Hûn her gav dikarin dîsa dest bi axaftinê bikin, û dibe ku wî kesî baş bersivê bide aramiya we. Heke acizbûn her tim çêdibe, ev nîşanek e ku hûn hewceyê bêtir piştgiriyê ne, ne ku hûn bi ser nakevin. Rêbera me ya li ser [xwe-lênêrîna lênêrkeran](/caregiving/caregiver-self-care/) cihên ku hûn dikarin alîkariyê bibînin nîşan dide.

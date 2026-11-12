@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Conselhs per parlar amb una persona amb deméncia"
+seoTitle: "Comunicacion e deméncia: qué dire e evitar"
+description: "Manièras practicas de parlar amb una persona que viu amb deméncia: preparar la conversacion, qué dire e coma escotar."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Parlatz dins un endrech calme, viratz-vos cap a la persona, utilizatz son
+  nom e parlatz lentament amb de frasas cortas e simplas. Pausatz una sola
+  question a l'encòp, prepausatz doas causidas puslèu que de questions
+  dubèrtas, e esperatz mai de temps que çò que sembla natural. Argumentetz
+  pas, corregissetz pas e testetz pas. Respondètz al sentiment darrièr los
+  mots, e utilizatz lo tòca, los imatges e los gèstes quand las paraulas
+  venon mai malaisadas.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Redusissètz lo bruch de fons e establissètz un contacte visual abans de començar a parlar."
+  - "Utilizatz de frasas cortas, una idèa a l'encòp, e de noms puslèu que « el », « ela » o « eles »."
+  - "Prepausatz una causida entre doas opcions, o una question amb responsa per òc o per non, puslèu que de questions dubèrtas."
+  - "Esperatz una responsa. Se la persona es pas compresa, repetissètz los meteisses mots, puèi ensajatz d'autres."
+  - "Argumentetz pas e corregissetz pas. Respondètz al sentiment darrièr çò que ditz."
+  - "Quand las paraulas s'esfuman, comunicatz amb lo tòca, lo ton, l'expression del visatge e d'imatges partejats."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Qué cal pas dire a una persona que viu amb deméncia ?"
+    a: "Evitatz de la testar (« Vos ne remembratz ? »), de la corregir (« Aquò es pas juste »), de li rapelar de pèrdas (« Vos o ai ja dich ») e de parlar d'ela coma se i èra pas. Evitatz tanben lo lengatge infantil. Aquestas manièras pòdon sovent provocar de vergonha o de destressa sens ajudar."
+  - q: "Devi corregir la persona quand se trompa sus los faches ?"
+    a: "En general, non. Se un fach erronèu es sens gravetat, daissatz-lo passar. Argumentar càmbia rarament l'idèa de la persona e la pòt sovent trastornar. Concentratz-vos sus çò que sent e sus çò que li cal ara."
+  - q: "Qué far quand la persona tròba pas lo mot ?"
+    a: "Datz-li d'en primièr de temps. Se vesètz clarament que s'esfòrça, podètz li prepausar doçament un mot o ensajar de devinar çò que vòl dire e verificar. Mostrar amb lo det, los gèstes e los imatges pòdon tanben ajudar."
+  - q: "Cossí parlar amb una persona a un estadi avançat de deméncia que parla gaire ?"
+    a: "Aprochatz-vos de davant, digatz qui sètz, e utilizatz una votz calma e un tòca doç. Observatz los visatges e lo lengatge del còs per comprene los sentiments. Vòstra preséncia, una cançon familhièra o se téner la man pòdon comunicar fòrça sens paraulas."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+La deméncia pòt far venir mai dificil de trobar los mots, de seguir una frasa longa o de metre de costat lo bruch de fons. Aquò vòl pas dire que la persona a arrestat de voler crear de ligams. De pichons cambiaments dins la manièra de preparar una conversacion, de parlar e d'escotar pòdon far venir l'escambi mai aisit e mai calme per vosautres dos.
 
-## What are the most important tips for talking with someone who has dementia?
+## Quins son los conselhs mai importants per parlar amb una persona que viu amb deméncia ?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Atrapatz son atencion, gardatz las causas simplas e siatz pacient. Se vos remembratz solament cinc causas :
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Calmatz la sala e viratz-vos cap a ela.** Atudatz la television, assetatz-vos a naut d'uèlhs e utilizatz son nom.
+2. **Digatz una causa a l'encòp.** Frasas cortas, una idèa, una question.
+3. **Prepausatz una causida entre doas opcions.** « Tè o cafè ? » es mai aisit que « Qué volètz beure ? »
+4. **Esperatz.** Datz mai de temps per respondre que çò que sembla natural, e ensajatz de pas copar la paraula.
+5. **Argumentetz pas e testetz pas.** Respondètz a çò que sent, pas a se los faches son corrèctes.
 
-## How should I start a conversation?
+## Cossí devi començar una conversacion ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Preparatz l'environa per que la persona se pòsca concentrar sus vos. Lo [guida de la Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recomanda de redusir d'en primièr lo bruch : atudatz la ràdio o la television, barratz los ridèls o la pòrta, o anatz dins un endrech mai calme.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Aprochatz-vos de davant.** Arribar per darrièr o de costat pòt susprendre.
+- **Digatz qui sètz.** « Bonjorn Papà, soi Sarah, ta filha. » Aquò evita a la persona de cercar vòstre nom.
+- **Metètz-vos a son nivèl.** Se es assetada, assetatz-vos o agenolhatz-vos per que vòstres uèlhs sián al meteis nivèl.
+- **Fasètz atencion a vòstre visatge e a vòstre ton.** Lo [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) conselha d'èsser atent a vòstre ton, al volum, a vòstra expression faciala e al lengatge del còs, e d'adoptar una manièra cauda e naturala.
+- **Asseguratz-vos que las lunetas e los aparelhs auditius son en plaça.** Es dificil de seguir una conversacion que podètz pas veire o ausir completament.
 
-## How should I phrase what I say?
+## Cossí devi formular çò que vòli dire ?
 
-Use simple words, short sentences and a calm, low voice.
+Utilizatz de mots simples, de frasas cortas e una votz calma e bassa.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Una idèa per frasa.** « Anem botar vòstre mantèl. Puèi sortirem defòra. » Pas tot d'un còp.
+- **Utilizatz de noms, pas de pronoms.** « La tanta Joan a sonat » es mai clar que « Ela a sonat ».
+- **Parlatz mai bas, pas mai fòrt.** La Family Caregiver Alliance suggerís una votz mai bassa puslèu que mai fòrta.
+- **Repetissètz, puèi reformulatz.** Se la persona a pas comprés, repetissètz los meteisses mots un còp. Se aquò fonciona pas, esperatz un moment e ensajatz d'autres mots.
+- **Monstratz en mai de dire.** Mostratz la tassa, presentatz los dos pulls, o mostratz lo primièr pas.
+- **Parlatz amb ela, pas d'ela.** Lo NIA conselha d'evitar de parlar de la persona coma se i èra pas, e d'evitar lo « lengatge infantil ».
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Lo NIA suggerís de versions mai simplas de questions correntas. Vaquí d'exemples dins aqueste esperit :
 
-| Instead of | Try |
+| A la plaça de | Ensajatz |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Qué volètz manjar aqueste ser ? » | « Volètz peis o polastre ? » |
+| « Cossí vos sentètz ? » | « Vos sentètz cansat ? » |
+| « Avètz talent ? » | « Lo sopar serà lèst dins cinc minutas. » |
+| « Es pas atal que cal o far. » | « Ensajem d'aquesta manièra. » |
+| « Vos remembratz nòstra escorreguda al lac ? » | « Pensavi a nòstra escorreguda al lac. Qué vos i agradava ? » |
+| « Vos o ai ja dich. » | Respondètz tornamai, amb doçor, coma se èra lo primièr còp. |
 
-## How do I listen well?
+## Cossí escotar plan ?
 
-Listen for the meaning and the feeling, not just the words.
+Escotatz lo sens e lo sentiment, pas solament los mots.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Esperatz.** Lo silenci es sovent un temps per pensar. Comptatz lentament fins a dètz abans d'intervenir.
+- **Prepausatz un mot solament se la persona es blocada.** La Family Caregiver Alliance ditz qu'es bon de suggerir de mots quand qualqu'un a de dificultats.
+- **Verificatz çò qu'avètz comprés.** Lo [guida de l'Alzheimer's Association sus la comunicacion](https://www.alz.org/help-support/caregiving/daily-care/communications) suggerís de cercar lo sens darrièr los mots e de lo reformular per verificar vòstra compreneson. « Vos fasètz de souci pel veitura ? »
+- **Observatz son visatge e son còs.** A mesura que la paraula ven mai dificila, lo NIA remarca que las expressions del visatge pòdon mostrar la tristesa, la còlera o la frustracion mai clarament que los mots.
+- **Prenètz los soucis au serious.** Quitament se una preocupacion se basa sus un fach erronèu, lo sentiment es real.
 
-## What if they say something that is not true?
+## E se la persona ditz quicòm que es pas verai ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Argumentetz pas. Avètz pochas chances de la convéncer, e la persona se pòt sentir embarassada o espantada. A la plaça, connectatz-vos amb lo sentiment, puèi passatz doçament a autre causa.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+La Family Caregiver Alliance suggerís de reconéisser l'emocion abans de reorientar la conversacion. Per exemple, se vòstra maire insistís per anar quèrre los enfants a l'escòla :
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- A la plaça de : « Mamà, tos enfants son grands. Aquò èra i a quaranta ans. »
+- Ensajatz : « As totjorn estat una maire plan atenta. Parla-me d'aquò. Volèm quichar quicòm d'en primièr ? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+L'Alzheimer's Association conselha tanben de pas argumentar sus d'afirmacions amb las qualas sètz pas d'acòrd. Causissètz vòstres moments : se una cresença erronèa es sens gravetat, daissatz-la passar.
 
-## How does communication change as dementia progresses?
+## Cossí càmbia la comunicacion a mesura que la deméncia avança ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Los besonhs càmbian amb lo temps, doncas adaptatz vòstra manièra de far. L'Alzheimer's Association descriu tres grandas fasas :
 
-| Stage | What helps |
+| Estadi | Çò qu'ajuda |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Inicial | Suppausetz pas que la persona pòt pas comunicar. Inclusissètz-la dins las conversacions, parlatz-li dirèctament, demandatz-li quin sosten vòl, e utilizatz l'umor se aquò ajuda. |
+| Mejan | Conversacions en tèsta a tèsta dins un endrech calme. Parlatz lentament, gardatz lo contacte visual, utilizatz de questions amb responsa per òc o per non, donatz de consignas etapa per etapa, e critiquetz pas ni corregissetz pas. |
+| Avançat | Aprochatz-vos de davant e digatz qui sètz. Encorajatz la persona a mostrar amb lo det e a utilizar de gèstes. Utilizatz lo tòca, los sons, las vistas e las olors. Parlatz jamai coma se i èra pas. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Cada persona es diferenta, e la meteissa persona pòt aver de bons jorns e de jorns mai dificils. Respondètz a çò que viu ara, pas a una etiqueta.
 
-## Can pictures and activities make conversation easier?
+## Los imatges e las activitats pòdon far venir la conversacion mai aisida ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Òc. Un imatge partejat aluja la pression e vos dona a totes dos quicòm a espiar e a mostrar.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Imatges per conversar.** [Conversation Cards](/games/conversation-cards/) prepausa d'imatges amb de questions dubèrtas que testan pas jamai.
+- **Fòtos de familha.** [Photo Pairs](/games/photo-pairs/) transforma las fòtos qu'avètz causidas en un jòc d'associacion doç, que fa sovent venir de sovenirs.
+- **Expressions familhièras.** [Finish the Saying](/games/finish-the-saying/) utiliza d'expressions conegudas, seguidas d'una invitacion a conversar.
+- **Jòcs d'associacion coma supòrt.** [Picture Pairs](/games/picture-pairs/) dona a las mans quicòm a far pendent que discutissètz.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Consultatz [cossí jogar ensemble](/caregiving/how-to-play-together/) e [las activitats de reminiscéncia](/activities/reminiscence/) per ne saber mai. Per las visitas e los apèls, legissètz nòstres guidas sus [las visitas](/activities/visiting/) e [los apèls telefonics e vidèo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Per una persona multilingüa, consultatz nòstre [guida sus la comunicacion a travèrs las lengas](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## E se perdi la paciéncia ?
+
+Aquò arriba a tot lo monde. Lo NIA suggerís que, se vos sentètz frustrat, prenètz un temps per vos calmar. Anatz dins una autra sala, fasètz qualques respiracions lentas, e tornatz quand vos podètz. Podètz totjorn tornar començar la conversacion, e la persona respondra benlèu a vòstra disposicion mai calma. Se la frustracion ven constanta, es un signe qu'avètz besonh de mai de sosten, pas que capitatz pas. Nòstre guida sus [prener suènh de vos coma persona que acompanha](/caregiving/caregiver-self-care/) prepausa de pistas per trobar d'ajuda.

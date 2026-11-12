@@ -1,35 +1,35 @@
 ---
-title: "Omayele okupopya nomunhu e na oudu wokudimbwa"
-seoTitle: "Omayele okupopya nomunhu e na oudu wokudimbwa"
-description: "Eenghedi diwa okupopya nomunhu e na oudu wokudimbwa: nghee to longekida eenghundafana, osho to popi nosho to pwilikine."
+title: "Omayele okupopya nomunhu ta kala nokudimbwa komadiladilo"
+seoTitle: "Omayele okupopya nomunhu ta kala nokudimbwa komadiladilo"
+description: "Eenghedi diwa okupopya nomunhu ta kala nokudimbwa komadiladilo: nghee to longekida eenghundafana, osho to popi, nanghee to pwilikine."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Popyeni ponhele ya mwena, taaleni omunhu, longifeni edina laye, ndele mu
-  popyeni kanini nonghee tashi udiwa nawa meendjovo dixupi nodipu. Puleni
-  epulo limwe aluke, mu pe ehoololo pokati koinima ivali ponhele yomapulo a
-  manguluka, ndele mu teeleleni efimbo lile shi dulife eshi mwe li teelela.
-  Inamu tu eemhata, inamu mu yukifa ile mu pula a dimbuluke. Nyamukuleni
-  omaliudo oo e li konima yeendjovo daye, ndele longifeni ekwato, omafano
-  nomalihumbato eshi eendjovo tadi ende tadi ninipala.
+  Popyeni monhele ya mwena, taaleni omunhu, longifeni edina laye, ndele popyeni
+  kanini nokatumba mouhapu u li paunafangwa notauxupi. Puleni epulo limwe
+  aluke, yandjeni omahoololo avali ponhele yomapulo a yeuluka, ndele teeleleni
+  efimbo lile shi dulife eshi hashi kala sha fa shihapu. Inamu tu kumwe
+  mouhata, inamu pukulula ile okupula omapulo taa makele. Nyamukuleni komaliudo
+  oo e li konima yeendjovo, ndele longifeni ekwato, omafano nomalikako eshi
+  okupopya tashi ningi shidjuu.
 keyPoints:
-  - "Kanduleni po omapyakidilo nokumona omesho omunhu ofimbo inamu hovela okupopya."
-  - "Longifeni eendjovo dixupi, ediladilo limwe aluke, nomadina ponhele ya ye, yo ile vo."
-  - "Yandjeni ehoololo pokati koinima ivali, ile epulo tali nyamukulwa na heeno ile ahawe, ponhele yomapulo a manguluka."
-  - "Teeleleni enyamukulo. Ngeenge ina udika ko, endululeni eendjovo tuu odo, ndele mu kendabale eendjovo dimwe."
-  - "Inamu tu eemhata ile mu yukifa. Nyamukuleni komaliudo oo e li konima yaasho ta popi."
-  - "Eshi eendjovo tadi ninipala, popyeni okupitila mekwato, mewi, molupe loshipala nomomafano amwe."
+  - "Ninipika ombibo nosho yo okupewa elitulemo lomesho mu hovela okupopya."
+  - "Longifa ouhapu ouxupi, ediladilo limwe aluke, nomadina ponhele yo “ye”, “vo” ile oitya ya faafana."
+  - "Yandja ehoololo lomahoololo avali, ile epulo tali nyamukulwa no “heeno” ile “ahawe”, ponhele yomapulo a yeuluka."
+  - "Teela enyamukulo. Ngeenge ina udiwa ko, endulula eendjovo da faafana, opo nee kendabala eendjovo dimwe."
+  - "Ino tu kumwe mouhata ile okupukulula. Nyamukula komaliudo oo e li konima yaasho ta popi."
+  - "Eshi eendjovo tadi ninipala, popifa okupitila mekwato, melaka, molupe loshipala nomomafano tamu a tale pamwe."
 faq:
-  - q: "Oshike uhe na okupopila omunhu e na oudu wokudimbwa?"
-    a: "Henukeni omapulo taa pula a dimbuluke („Oto dimbuluka…?“), okuyukifa („Osho sha puka“), okumu dimbulukifa oinima ya kana („Onde ku lombwela nale“) nokupopya kombinga yaye onga ye ke po. Henukeni okupopya ngaashi okaana. Oinima ei ohai eta ohoni ile oudjuu nopehe na ekwafo."
-  - q: "Ondi na oku mu yukifa ngeenge okwa puka moinima oyo ta popi?"
-    a: "Luhapu ahawe. Ngeenge epuko itali eta oupyakadi, li efa po. Eemhata ihadi lundulula omadiladilo omunhu nohadi mu udifa nai luhapu. Yandjeni elitulemo kunghee e udite nosho a pumbwa paife."
+  - q: "Oshike uhe na okupopya nomunhu ta kala nokudimbwa komadiladilo?"
+    a: "Henuka omapulo taa makele (“Oto dimbuluka...?”), okupukulula (“Osho osha puka”), okudimbulukifa omunhu omakanifo (“Onde ku lombwela nale”) ile okupopya kombinga yaye a fa ehe po. Henuka okupopya ngaashi nounona. Oinima ei ohai eta ohoni ile oudjuu nopehe na ekwafo."
+  - q: "Ondi na okupukulula omunhu ngeenge ta popi oshinima sha puka?"
+    a: "Luhapu ahawe. Ngeenge oshinima sha puka itashi eta oupyakadi, shi efa ngaho. Okutu kumwe mouhata luhapu ihaku lundulula ediladilo lomunhu nohaku mu udifa nai. Yandja elitulemo kunghee te udite nosho yo osho a pumbwa paife."
   - q: "Ondi na okuninga shike ngeenge ita mono ondjovo?"
-    a: "Mu pe efimbo tete. Ngeenge oku li moudjuu wa yela, oshi li nawa oku mu pa ondjovo nombili ile okufekela kutya ota ti shike ndele to pula. Okuulika, omalihumbato nomafano otai dulu yo okukwafa."
-  - q: "Ondi na okupopya ngahelipi nomunhu e li mepangelo la kwata moiti loudu wokudimbwa oo ha popi kashona?"
-    a: "Ehena komesho yaye, mu lombwela kutya oove lyelye, ndele longifa ewi la ngungumana nekwato liwa. Tala oshipala nolutu laye u mone omaliudo. Okukala po kwoye, eimbilo e shiivike ile okukwata meke otaku dulu okupopya shihapu nopehe na eendjovo."
+    a: "Mu pa efimbo tete. Ngeenge osha yela kutya ota kondjo, oshi li nawa oku mu pa ondjovo nelungi ile okufekela kutya okwa hala okutya shike ndele to shi pula. Okuulika, omalikako nomafano otai dulu yo okukwafela."
+  - q: "Ondi na okupopya ngahelipi nomunhu e li pefimbo laxuuninwa lokudimbwa komadiladilo oo luhapu ihe popi?"
+    a: "Ehena kuye u li komesho, mu lombwela kutya oove lyelye, ndele longifa ondaka ya ngungumana nekwato liwa. Tala oipala nolutu laye opo u ude ko omaliudo aye. Okukala po kwoye, eimbilo olo a shiiva ile okumukwata meke otai dulu okupopya shihapu nopehe na eendjovo."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Oudu wokudimbwa otau dulu okuningifa shidjuu okumona eendjovo, okushikula ondjovo ile okuhenuka omapyakidilo opombada. Ashike osho inashi hala kutya omunhu ina hala vali okukwatafana. Elundululo linini monghedi omo to longekida eenghundafana, nghee to popi nanghee to pwilikine otali dulu okuningifa okupopya ku kale kupu nokungungumana kunye amushe.
+Okudimbwa komadiladilo otaku dulu okuningifa okumona eendjovo, okushikula etumbulo lile, ile okwiidilila ombibo yopondje shi kale shidjuu. Osho itashi ti kutya omunhu okwa efa po okukala a hala okukwatafana navamwe. Omalunduluko manini monghedi omo to longekida eenghundafana, omo to popi nanghee to pwilikine otaa dulu okuningifa okupopya ku kale shipu nokuhe na oudjuu kunye amushe.
 
-## Omayele a fimanenena elipi okupopya nomunhu e na oudu wokudimbwa?
+## Omayele elipi a fimanenena okupopya nomunhu ta kala nokudimbwa komadiladilo?
 
-Mono elitulemo laye, kaleka oinima i li paunafangwa, ndele kala nomutima mule. Ngeenge oto dimbuluka oinima itano ashike:
+Mu pa elitulemo, kaleka oinima paunafangwa, ndele kala nomutima welididimiko. Ngeenge oto dimbuluka oinima itano ashike:
 
-1. **Ningila onhele i kale ya mwena ndele mu taaleni.** Dima o-TV, kala omutumba popepi nomesho aye, ndele longifa edina laye.
-2. **Popya oshinima shimwe aluke.** Eendjovo dixupi, ediladilo limwe, epulo limwe.
-3. **Mu pa ehoololo pokati koinima ivali.** „Otee ile okofi?“ oshipu shi dulife „Owa hala shike?“
-4. **Teela.** Mu pa efimbo lile a nyamukule shi dulife eshi mwe li teelela, ndele kendabala uhe mu kwate melaka.
-5. **Ino tu eemhata ile u pule a dimbuluke.** Nyamukula komaliudo aye, ha kutya osho ta popi oshoshili tuu ile hasho.
+1. **Ninipika ombibo monhele ndele mu taalela.** Dima o-TV, kala omutumba mu li pomesho yelifa, ndele longifa edina laye.
+2. **Popya oshinima shimwe aluke.** Etumbulo lixupi, ediladilo limwe, epulo limwe.
+3. **Yandja ehoololo lomahoololo avali.** “Otee ile okofi?” oshipu shi dulife “Owa hala shike?”
+4. **Teela.** Mu pa efimbo lile a nyamukule shi dulife eshi hashi kala sha fa shihapu, ndele kendabala uha mu kwate melaka.
+5. **Ino tu kumwe mouhata ile okupula omapulo taa makele.** Nyamukula komaliudo aye, ha ngeenge osho ta popi oshoshili ile hasho.
 
-## Nandi hovele ngahelipi eenghundafana?
+## Ondi na okuhovela ngahelipi eenghundafana?
 
-Longekida oinima opo omunhu a dule okuyandja elitulemo kwoove. [Ewiliko laFamily Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) otali ladipike u ninipike omapyakidilo tete: dima oradio ile o-TV, pata omakende ile omuvelo, ile mu ye konhele ya mwena.
+Longekida oinima opo omunhu a dule okuyandja elitulemo kwoove. [Embo laFamily Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) otali ladipike u ninipike ombibo tete: dima oradio ile o-TV, idila omaketanga ile omuvelo, ile tembukeni monhele ya mwena.
 
-- **Ehena komesho yaye.** Okweehena konima ile popepi naye otaku dulu oku mu halula.
-- **Mu lombwela kutya oove lyelye.** „Hallo Tate, aame Sarah, okamwana koye kokakadona.“ Osho otashi mu kwafa a ha konge edina loye.
-- **Kala pondodo yaye.** Ngeenge okwa kala omutumba, kala omutumba ile twa eengolo opo omesho eni a kale pondodo imwe.
-- **Tala koshipala shoye nokewi loye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) otai ladipike u kale wa lungama kewi loye, koule walo, kolupe loshipala loye nokomalihumbato olutu loye, ndele u kendabale okukala nombili nouwa.
-- **Shilipaleka kutya omakende omesho nomakwafifo okuuda oku li po.** Oshidjuu okushikula eenghundafana ito dulu oku di mona ile oku di uda nawa.
+- **Ehena kuye u li komesho.** Okweuya konima ile komesho oku mu sholola otaku dulu oku mu halula.
+- **Mu lombwela kutya oove lyelye.** “Halo Tate, aame Sarah, okaana koye.” Osho otashi mu kwafele aha konge edina loye.
+- **Kala pomesho yelifa naye.** Ngeenge oku li omutumba, kala omutumba ile ongonyo opo omesho eni a kale elifa.
+- **Tala olupe loshipala shoye nondaka yoye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) otai ladipike u kale wa lungama kondaka yoye, keenghono dondaka, kolupe loshipala nokomalikako olutu, ndele u kale u na omhepo youkulu noya ngungumana.
+- **Tala ngeenge omakende ile oikwamwilifo yokuuda oi li po.** Oshidjuu okushikula eenghundafana odo ito dulu okumona ile okuuda nawa.
 
-## Nandi popye ngahelipi osho handi popi?
+## Ondi na okupopya ngahelipi osho handi ti?
 
-Longifa eendjovo di li paunafangwa, eendjovo dixupi newi la ngungumana noli li pevi.
+Longifa eendjovo di li paunafangwa, ouhapu ouxupi nondaka ya ngungumana, ya tumbala.
 
-- **Ediladilo limwe mondjovo keshe.** „Natu djale ko ombaikitha yoye. Opo nee ohatu i pondje.“ Hano ina shi tulwa mondjovo imwe.
-- **Longifa omadina, ha omatumbulo taa pingena omadina.** „Meme Jean okwa dengela“ osha yela shi dulife „Ye okwa dengela.“
-- **Popya newi li li pevi, ha pombada.** Family Caregiver Alliance otai ti ewi li li pevi oliwa li dulife okwiingida.
-- **Endulula, ndele lundulula eendjovo.** Ngeenge ina uda ko, endulula eendjovo tuu odo lumwe. Ngeenge itashi kwafa, teelela okafimbo ndele to kendabale eendjovo dimwe.
-- **Ulika yo, ha okupopya ashike.** Ulika okakopi, yelula oosweta mbali, ile ulikila onghatu yotete.
-- **Popya naye, ha kombinga yaye.** NIA otai londwele u ha popye kombinga yomunhu onga ye ke po, noino popya ngaashi okaana.
+- **Ediladilo limwe metumbulo keshe.** “Natu djale ondjafa yoye. Opo nee hatu i pondje.” Hape na oku di tula mumwe pefimbo limwe.
+- **Longifa omadina, ha oitya ya pingenapo omadina.** “Meme wange Jean okwa denga ongodi” osha yela shi dulife “Ye okwa denga ongodi.”
+- **Tumbaleka ondaka, ha okwi i yelula pombada.** Family Caregiver Alliance otai ti ondaka ya tumbala oi li xwepo shi dulife ondaka ya yeluka pombada.
+- **Endulula, opo nee lundulula eendjovo.** Ngeenge ina uda ko, endulula eendjovo da faafana lumwe. Ngeenge itashi kwafele, teelela okafimbo ndele kendabala eendjovo dimwe.
+- **Ulika yo, ha okupopya ashike.** Ulika okakopi, yelula eeshiuta mbali, ile ulika onghatu yotete.
+- **Popya naye, ha okupopya kombinga yaye.** NIA otai londwele uha popye kombinga yomunhu a fa ehe po, ile okupopya naye ngaashi nounona.
 
-NIA otai yandje omayele eenghedi di li paunafangwa dokupula omapulo a ikalwa. Oihopaenenwa tai landula:
+NIA otai yandje omaetepo omapulo a ningwa paunafangwa. Apa ope na oihopaenenwa yelifa:
 
 | Ponhele ya | Kendabala |
 | --- | --- |
-| „Owa hala shike ouvalelo?“ | „Owa hala oshi ile ohuxwa?“ |
-| „Ou udite ngahelipi?“ | „Ou udite wa loloka?“ |
-| „Owa fya ondjala?“ | „Ouvalelo otau ka pwa po meeminute nhano.“ |
-| „Hasho to shi ningi ngaho.“ | „Natu shi kendabale ngaha.“ |
-| „Oto dimbuluka olweendo letu kefuta?“ | „Onda li handi diladila olweendo letu kefuta. Lombwele nge osho wa li u hole musho.“ |
-| „Onde ku lombwela nale.“ | Nyamukula natango, nombili, onga oshikando shotete. |
+| “Owa hala shike kokulela kwonguloshi?” | “Owa hala ohi ile onhumba?” |
+| “Ou udite ngahelipi?” | “Ou udite wa loloka?” |
+| “Owa fya ondjala?” | “Okulela kwonguloshi otaku ka kala kwa pya moule wominute nhano.” |
+| “Hasho hashi ningwa ngaho.” | “Natu shi kendabale ngaha.” |
+| “Oto dimbuluka olweendo letu kefuta?” | “Onda li handi diladila olweendo letu kefuta. Lombwele nge osho wa li wa hafela.” |
+| “Onde ku lombwela nale.” | Nyamukula natango, nombili, ngaashi oshikando shotete. |
 
-## Ohandi pwilikine ngahelipi nawa?
+## Ongiini handi dulu okupwilikina nawa?
 
-Pwilikina koshili nekutya omaliudo oo e li konima yeendjovo, ha keendjovo adike.
+Pwilikina koshili nosho yo komaliudo, ha keendjovo adike.
 
-- **Teela.** Okumwena luhapu efimbo lokudiladila. Vala kashona u fike omulongo ofimbo ino ya mo.
-- **Mu pa ondjovo ashike ngeenge a kwatwa.** Family Caregiver Alliance otai ti oshi li nawa okuyandja eendjovo ngeenge omunhu oku li moudjuu.
-- **Shilipaleka osho wa uda.** [Ewiliko laAlzheimer's Association li na sha neenghundafana](https://www.alz.org/help-support/caregiving/daily-care/communications) otali ti tala eityo olo li li konima yeendjovo daye ndele to li endulula u shilipaleke kutya owe li uda ko. „Oto lipula noshihauto?“
-- **Tala oshipala nolutu laye.** Eshi okupopya taku ende taku ninipala, NIA otai ti, omalupe oshipala otaa dulu okuulika oluhodi, ehandu ile oudjuu sha yela shi dulife eendjovo.
-- **Tambula ko omaipulo aye.** Nonande oshisho osha kanghamena koshinima sha puka, omaliudo oo oshoshili.
+- **Teela.** Omwenyo luhapu efimbo lokudiladila. Vala kanini fiyo omulongo ofimbo ino ya mo.
+- **Mu pa ondjovo ashike ngeenge okwa kwatwa.** Family Caregiver Alliance otai ti oshi li nawa okuyandja ondjovo ngeenge omunhu ota kondjo.
+- **Koleka osho wa uda.** [Ewiliko laAlzheimer's Association li na sha nokupopya](https://www.alz.org/help-support/caregiving/daily-care/communications) otali ti tala oshili oyo i li konima yeendjovo daye ndele to i endulula opo u tale ngeenge owe i uda ko. “Oto lipula noshihauto?”
+- **Tala oshipala nolutu laye.** Eshi okupopya tashi ningi shidjuu, NIA otai ti, omalupe oshipala otaa dulu okuulika oluhodi, ehandu ile oudjuu nawa shi dulife eendjovo.
+- **Tambula ko omaipulo aye a fimana.** Nonande oshisho osha kanghamena koshinima sha puka, omaliudo oku li oshili.
 
-## Ohandi ningi shike ngeenge ta popi oshinima shihe fi shoshili?
+## Ngeenge okwa popi oshinima shihe fi shoshili?
 
-Ino tu eemhata. Kashi fi shipu u finde, nomunhu ota dulu okuuda ohoni ile a tila. Ponhele yaasho, kwatakaneni nomaliudo aye, ndele mu ye komesho nombili.
+Ino tu kumwe mouhata. Otashi dulika uha findane, nomunhu ota dulu okuudifwa ohoni ile a tila. Ponhele yaasho, kwatakanifa nomaliudo aye, opo nee mu lundululila nondjele.
 
-Family Caregiver Alliance otai ti tambula ko omaliudo tete ofimbo ino lundulula oshikundafanwa. Pashihopaenenwa, ngeenge meme woye ta ti oku na okukufa ounona kofikola:
+Family Caregiver Alliance otai ti tambula ko omaliudo tete ofimbo ino mu lundulula. Pashihopaenenwa, ngeenge nyoko ta ti oku na okuka kufa ounona kofikola:
 
-- Ponhele ya: „Meme, ounona voye ova kula. Osho osha li omido omilongo nhee da pita.“
-- Kendabala: „Owa li alushe omudalakadi omunahole. Lombwele nge kombinga yokukufa po ounona. Natu lye ko okasha manga?“
+- Ponhele ya: “Meme, ovana voye ova kula. Osho osha ningwa omido omilongo nhee da pita.”
+- Kendabala: “Owa kala alushe meme omunahole. Lombwele nge kombinga yokuka va kufa. Natu lye sha tete?”
 
-Alzheimer's Association otai ladipike yo u ha tu eemhata kombinga yoinima ino i itavela. Hoolola efimbo: ngeenge eitavelo la puka itali eta oupyakadi, li efa po.
+Alzheimer's Association nayo otai ladipike uha tu kumwe mouhata kombinga yoinima oyo ino itavela. Hoolola efimbo: ngeenge eitavelo la puka itali eta oupyakadi, li efa ngaho.
 
-## Eenghundafana ohadi lunduluka ngahelipi eshi oudu wokudimbwa tau ende komesho?
+## Okupopya ohaku lunduluka ngahelipi eshi okudimbwa komadiladilo taku ende komesho?
 
-Eemhumbwe ohadi lunduluka nefimbo, onghee lundulula onghedi yoye. Alzheimer’s Association otai popi eenghatu nhatu da kula:
+Eemhumbwe ohadi lunduluka nefimbo, onghee lundulula onghedi yoye. Alzheimer's Association otai yelifa oikando itatu ya tumbala:
 
-| Onghatu | Osho tashi kwafa |
+| Efimbo | Osho tashi kwafele |
 | --- | --- |
-| Petameko | Ino tya ita dulu vali okupopya. Mu kwatela mo meenghundafana, popya naye odikilila, mu pula ekwafo olo a hala, ndele longifa omahumbulutaleko ngeenge taa kwafa. |
-| Pokati | Eenghundafana pokati keni amuke monhele ya mwena. Popya kanini, kaleka omesho eni a taalafana, longifa omapulo taa nyamukulwa na heeno ile ahawe, yandja omalombwelo onghatu nonghatu, ndele ino mu tokola ile mu yukifa. |
-| Kouxuuninwa | Ehena komesho yaye ndele mu lombwela kutya oove lyelye. Mu ladipike a ulike ile a longife omalihumbato. Longifa ekwato, omawi, oinima tai monika nomakungho. Ino popya nande onga ye ke po. |
+| Petameko | Ino tya ita dulu okupopya. Mu kwatela mo meenghundafana, popya naye mwene, mu pula ekwafo olo a hala, ndele longifa oukalele ngeenge otashi kwafele. |
+| Pokati | Eenghundafana pokati keni vavali monhele ya mwena. Popya kanini, kaleka omesho eni a taalafana, longifa omapulo taa nyamukulwa no “heeno” ile “ahawe”, yandja omalombwelo onghatu nonghatu, ndele ino mu ula ile oku mu pukulula. |
+| Pexulilo | Ehena kuye u li komesho ndele mu lombwela kutya oove lyelye. Mu ladipika a ulike ile a longife omalikako. Longifa ekwato, omawi, oinima tai monika nomalidimba. Ino popya nande a fa ehe po. |
 
-Omunhu keshe oku li e lili, nomunhu tuu oo ota dulu okukala e na omafiku mawa nomafiku madjuu. Nyamukula konghedi omo e li paife, ha kedina longhatu.
+Keshe omunhu okwe likalela, nomunhu oye tuu oo ota dulu okukala e na omafiku mawa nomaudjuu. Nyamukula kunghee e li paife, ha koshitya shokutumbula onghalo.
 
-## Omafano nomalipyakidilo otaa dulu okuningifa eenghundafana di kale diupu?
+## Omafano nomalipyakidilo otaa dulu okuningifa eenghundafana di kale shipu?
 
-Heeno. Efano amwe otali kandula po omutengi ndele tali mu pe amushe oshinima shimwe mu shi tale nokushi ulika.
+Heeno. Efano tamu li tale pamwe otali kufa po oudjuu notali mu pe amushe sha okutala nokusholola.
 
-- **Omafano okupopya nao.** [Conversation Cards](/games/conversation-cards/) otaa yandje omafano nomapulo a manguluka oo inaa pula omunhu a dimbuluke.
-- **Omafano oukwaneumbo.** [Photo Pairs](/games/photo-pairs/) otaa ningi omafano oo wa hoolola oudanau wokufaneka noupule, oo luhapu hau pendula omahokololo.
-- **Omautumbulilo a shiivika.** [Finish the Saying](/games/finish-the-saying/) otaa longifa omautumbulilo a shiivika muAmerica, taa shikulwa kepulo loku hovelifa eenghundafana.
-- **Oudanau wokufaneka onga ekwafo.** [Picture Pairs](/games/picture-pairs/) otau pe omake eni sha okuninga ofimbo tamu popi.
+- **Omafano taa pendula eenghundafana.** [Conversation Cards](/games/conversation-cards/) otaa yandje omafano nomapulo a yeuluka oo ihaa makele nande.
+- **Omafano oukwaneumbo.** [Photo Pairs](/games/photo-pairs/) ohai ningi omafano oo wa hoolola a kale oudano u li paunafangwa wokufaafana, osho luhapu hashi pendula omahokololo.
+- **Oitya ya shiivika.** [Finish the Saying](/games/finish-the-saying/) ohai longifa oitya ya shiivika yOvaamerika, tai shikula nepulo lokupopya.
+- **Oudano wokufaafana ngaashi eshiivo lokulongela kumwe.** [Picture Pairs](/games/picture-pairs/) ohai pe omake oye sha okuninga ofimbo tamu popi.
 
-Tala [nghee tamu danau pamwe](/caregiving/how-to-play-together/) nosho yo [omalipyakidilo okudimbuluka](/activities/reminiscence/) u mone shihapu. Ngeenge to talele po ile to dengele, lesha omayele etu kombinga [yetalelepo](/activities/visiting/) nokombinga [yeengodi novideodengwa](/activities/phone-and-video-calls/).
+Tala [nghee tamu dulu okudana pamwe](/caregiving/how-to-play-together/) nosho yo [omalipyakidilo okudimbuluka](/activities/reminiscence/) u mone shihapu. Ngeenge tashi uya ketalelepo ile keengodi, lesha omalombwelo etu kombinga [yetalelepo](/activities/visiting/) nosho yo [eengodi noinhokola yovideo](/activities/phone-and-video-calls/).
 
-## Ohandi ningi shike ngeenge nda kanifa ombili?
+Ngeenge omunhu oha popi omalaka mahapu, tala [ewiliko letu li na sha nokupopya momalaka a yoolokafana](/caregiving/language-and-dementia-communication/).
 
-Osho ohashi ningilwa keshe umwe. NIA otai ti ngeenge wa handuka, kufa efimbo u ngungumane. Ya monhele imwe, fuda kanini noule, ndele aluka eshi to dulu. Oto dulu alushe okuhovela eenghundafana natango, nomunhu ota dulu okuyandja enyamukulo liwa eshi wa ngungumana. Ngeenge okuhanduka otaku ningi oshinima shakeshe efiku, osho edidiliko kutya owa pumbwa ekwafo la wedwa po, ha kutya oto nyono. Ewiliko letu kombinga [yokulifila oshisho komufili](/caregiving/caregiver-self-care/) oli na omahala to dulu okumona ekwafo.
+## Ohandi ningi shike ngeenge nda kanifa elididimiko?
+
+Osho ohashi ningilwa keshe umwe. NIA otai ti ngeenge owa handuka, kufa efimbo u ngungumane. Ya monhele imwe, fuda kanini kanini, ndele aluka eshi to dulu. Oto dulu alushe okuhovela eenghundafana natango, nomunhu otashi dulika a nyamukule nawa komhepo yoye ya ngungumana. Ngeenge okuhanduka otaku ningi oshinima shakeshe efiku, osho edidiliko kutya owa pumbwa ekwafo la wedwa po, ha kutya owa dopa. Ewiliko letu li na sha [nokulifila oshisho kwomufilishisho](/caregiving/caregiver-self-care/) oli na apa to dulu okuya u mone ekwafo.

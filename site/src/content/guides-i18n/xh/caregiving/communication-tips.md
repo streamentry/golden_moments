@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Iingcebiso Zonxibelelwano Nomntu Onesifo Sokulibala"
+seoTitle: "Iingcebiso Zokuthetha Nomntu Onesifo Sokulibala"
+description: "Iindlela eziluncedo zokuthetha nomntu ophila nesifo sokulibala: indlela yokuqalisa incoko, oza kukuthetha, nendlela yokumamela."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Thethani kwindawo ezolileyo, jonganani nomntu, sebenzisani igama lakhe,
+  kwaye thethani kancinci ngezivakalisi ezimfutshane nezilula. Buza umbuzo
+  omnye ngexesha, nikeza ukhetho olubini endaweni yemibuzo evulekileyo, kwaye
+  linda ixesha elide kunokuba uqhele. Musa ukuphikisana, ukulungisa okanye
+  ukuvavanya. Phendula imvakalelo esemva kwamazwi, kwaye usebenzise
+  ukubamba, imifanekiso nezenzo zomzimba njengoko ukuthetha kusiba nzima.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Nciphisa ingxolo engasemva kwaye ujonge emehlweni phambi kokuba uqale ukuthetha."
+  - "Sebenzisa izivakalisi ezimfutshane, ingcamango enye ngexesha, namagama endaweni yo-uye, yena okanye bona."
+  - "Nikeza ukhetho olubini, okanye umbuzo ophendulwa ngo-ewe okanye hayi, endaweni yemibuzo evulekileyo."
+  - "Linda impendulo. Ukuba akaqondwa, phinda amazwi afanayo, emva koko uzame amanye."
+  - "Musa ukuphikisana okanye ukulungisa. Phendula imvakalelo esemva koko akuthethayo."
+  - "Njengoko amazwi esiba mbalwa, nxibelelana ngokubamba, ithoni, inkangeleko yobuso nemifanekiso eniyijonga kunye."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Yintoni ongafanelanga uyithethe kumntu ophila nesifo sokulibala?"
+    a: "Kuphephe ukuvavanya (“Uyakhumbula...?”), ukulungisa (“Ayilunganga loo nto”), ukumkhumbuza ngelahleko (“Sele ndikuxelele”) nokuthetha ngaye ngokungathi akakho. Kuphephe ukuthetha njengomntwana. Ezi zinto zidla ngokubangela iintloni okanye ukuxhalaba zingancedi."
+  - q: "Ngaba kufuneka ndimlungise xa ephazama iinkcukacha?"
+    a: "Ngokwesiqhelo akufuneki. Ukuba impazamo ayinabungozi, yiyeke. Ukuphikisana kunqabile ukuba kutshintshe ingqondo yomntu kwaye kudla ngokumenza akhathazeke. Gxila kwindlela aziva ngayo nakwinto ayidingayo ngoku."
+  - q: "Ndenze ntoni xa engalifumani igama?"
+    a: "Mqale umnike ixesha. Ukuba kuyabonakala ukuba uyasokola, kulungile ukumnika igama ngobunono okanye ukuqikelela into ayithethayo uze uqinisekise. Ukukhomba, izenzo zomzimba nemifanekiso nako kunokunceda."
+  - q: "Ndingathetha njani nomntu okwinqanaba eliphambili lesifo sokulibala ongafane athethe?"
+    a: "Sondela ngapha ngaphambili, zitsho ukuba ungubani, kwaye usebenzise ilizwi elizolileyo nokubamba ngobunono. Qaphela ubuso nolwimi lomzimba ukuze ubone iimvakalelo. Ubukho bakho, ingoma eqhelekileyo okanye ukubambana ngezandla kunokuthetha kakhulu ngaphandle kwamazwi."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Isifo sokulibala sinokwenza kube nzima ukufumana amagama, ukulandela isivakalisi eside, okanye ukungahoywa yingxolo engasemva. Oko akuthethi ukuba umntu uyekile ukufuna ukunxibelelana. Utshintsho oluncinci kwindlela olungiselela ngayo incoko, indlela othetha ngayo nendlela omamela ngayo lunokwenza ukuthetha kube lula kwaye kuzoze ngakumbi kuni nobabini.
 
-## What are the most important tips for talking with someone who has dementia?
+## Zeziphi iingcebiso ezibaluleke kakhulu xa uthetha nomntu ophila nesifo sokulibala?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Fumana ingqalelo yakhe, yenza izinto zibe lula, kwaye ube nomonde. Ukuba ukhumbula izinto ezintlanu kuphela:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Yenza igumbi lizole uze ujonge kuye.** Cima umabonakude, hlala kumgangatho wamehlo akhe, kwaye usebenzise igama lakhe.
+2. **Thetha into enye ngexesha.** Izivakalisi ezimfutshane, ingcamango enye, umbuzo omnye.
+3. **Nikeza ukhetho olubini.** “Iti okanye ikofu?” kulula kuno “Ungathanda ntoni?”
+4. **Linda.** Nika ixesha elingaphezulu lokuphendula kunokuba uqhele, kwaye uzame ukungamngeni phakathi.
+5. **Ungaze uphikise okanye uvavanye.** Phendula indlela aziva ngayo, hayi ukuba iinkcukacha zichanile na.
 
-## How should I start a conversation?
+## Kufuneka ndiqale njani incoko?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Lungiselela izinto ukuze umntu akwazi ukugxila kuwe. [Isikhokelo se-Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sicebisa ukuba uqale ngokunciphisa ingxolo: cima unomathotholo okanye umabonakude, utsale iikhethini okanye uvale ucango, okanye uye kwindawo ezolileyo.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Sondela ngapha ngaphambili.** Ukuza ngasemva okanye ecaleni kunokumothusa.
+- **Zitsho ukuba ungubani.** “Molo Tata, ndinguSarah, intombi yakho.” Oku kumgcina ekubeni angakhangeli igama lakho.
+- **Yehlela kumgangatho wakhe.** Ukuba uhleli, hlala okanye guqa ukuze amehlo enu alingane.
+- **Qaphela ubuso bakho nethoni yelizwi lakho.** [I-National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) icebisa ukuba uqaphele ithoni yakho, isandi selizwi, inkangeleko yobuso nolwimi lomzimba, kwaye uzame ukuba nobubele nongxamanga.
+- **Qinisekisa ukuba iiglasi namehlo nezixhobo zokuva zikhona.** Kunzima ukulandela incoko ongayiboni okanye ongayiva kakuhle.
 
-## How should I phrase what I say?
+## Ndifanele ndithethe njani?
 
-Use simple words, short sentences and a calm, low voice.
+Sebenzisa amagama alula, izivakalisi ezimfutshane nelizwi elizolileyo neliphantsi.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ingcamango enye kwisivakalisi ngasinye.** “Masinxibe ibhatyi yakho. Emva koko siza kuphuma.” Hayi zombini ngaxeshanye.
+- **Sebenzisa amagama, hayi izimelabizo.** “UMakazi uJean ufowunele” kucacile kuno “Ufowunele.”
+- **Thetha ngezwi eliphantsi, hayi eliphezulu.** I-Family Caregiver Alliance icebisa ilizwi eliphantsi kunelikhwazayo.
+- **Phinda, emva koko utshintshe amagama.** Ukuba akaqondanga, phinda amazwi afanayo kube kanye. Ukuba oko akusebenzi, linda umzuzwana uze uzame amanye amagama.
+- **Bonisa uze uchaze.** Khomba ikomityi, phakamisa iijezi ezimbini, okanye ubonise inyathelo lokuqala.
+- **Thetha naye, hayi ngaye.** I-NIA ilumkisa ngokuthetha ngomntu ngokungathi akakho, nangokuthetha naye njengomntwana.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+I-NIA icebisa iinguqulelo ezilula zemibuzo eqhelekileyo. Nantsi imizekelo ngaloo ndlela:
 
-| Instead of | Try |
+| Endaweni yoku | Zama oku |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “Ufuna ntoni ngesidlo sangokuhlwa?” | “Ufuna intlanzi okanye inkukhu?” |
+| “Uziva njani?” | “Uziva udiniwe?” |
+| “Ulambile?” | “Isidlo sangokuhlwa siza kulunga kwimizuzu emihlanu.” |
+| “Ayenziwa njalo loo nto.” | “Masizame ngale ndlela.” |
+| “Uyakhumbula uhambo lwethu lwasechibini?” | “Bendicinga ngohambo lwethu lwasechibini. Ndixelele into owawuyithanda ngalo.” |
+| “Sele ndikuxelele.” | Phendula kwakhona, ngobubele, ngokungathi okokuqala. |
 
-## How do I listen well?
+## Ndingammamela njani kakuhle?
 
-Listen for the meaning and the feeling, not just the words.
+Mamela intsingiselo nemvakalelo, hayi amazwi kuphela.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Linda.** Ukuthula kudla ngokuba lixesha lokucinga. Bala kancinci ukuya kwishumi phambi kokuba ungenelele.
+- **Mnike igama kuphela xa ebambekile.** I-Family Caregiver Alliance ithi kulungile ukuphakamisa amagama xa umntu esokola.
+- **Qinisekisa oko ukuvileyo.** [Isikhokelo se-Alzheimer's Association ngonxibelelwano](https://www.alz.org/help-support/caregiving/daily-care/communications) sicebisa ukuba ukhangele intsingiselo esemva kwamazwi akhe uze uyiphinde ukuze uqinisekise ukuba uqondile. “Uxhalabele imoto?”
+- **Qaphela ubuso bakhe nomzimba wakhe.** Njengoko ukuthetha kusiba nzima, i-NIA iyaphawula, inkangeleko yobuso isenokubonisa usizi, umsindo okanye ukukhathazeka ngokucacileyo kunamazwi.
+- **Thatha iinkxalabo zakhe nzulu.** Nokuba inkxalabo isekelwe kwinkcukacha engachananga, imvakalelo yokwenyani.
 
-## What if they say something that is not true?
+## Kuthekani ukuba uthetha into engeyonyani?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Musa ukuphikisana. Akunakulindeleka ukuba uphumelele, kwaye loo mntu usenokuziva eneentloni okanye esoyika. Endaweni yoko, qhagamshelana nemvakalelo, emva koko ugqithe ngobunono.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+I-Family Caregiver Alliance icebisa ukuba uqale uqonde imvakalelo phambi kokuba ujike ingqalelo. Ngokomzekelo, ukuba umama wakho ugxininisa ukuba kufuneka aye kuthatha abantwana esikolweni:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Endaweni yoku: “Mama, abantwana bakho bakhulile. Yayiyiminyaka engamashumi amane eyadlulayo.”
+- Zama oku: “Wawusoloko ungumama onenkathalo. Ndixelele ngokubathatha kwabo. Singatya into encinci kuqala?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+I-Alzheimer's Association ikwacebisa ukuba ungaphikisani neengxelo ongavumelaniyo nazo. Khetha amaxesha afanelekileyo: ukuba inkolelo engachananga ayinabungozi, yiyeke.
 
-## How does communication change as dementia progresses?
+## Unxibelelwano lutshintsha njani njengoko isifo sokulibala siqhubela phambili?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Iimfuno ziyatshintsha ekuhambeni kwexesha, ngoko tshintsha indlela yakho. I-Alzheimer's Association ichaza izigaba ezithathu ezibanzi:
 
-| Stage | What helps |
+| Inqanaba | Into encedayo |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Lokuqala | Musa ukucinga ukuba akanakunxibelelana. Mbandakanye kwiincoko, thetha naye ngqo, buza ukuba ufuna nkxaso ni, kwaye usebenzise uburharha ukuba buyanceda. |
+| Eliphakathi | Iincoko zabantu ababini kwindawo ezolileyo. Thetha kancinci, gcina ukujonga emehlweni, sebenzisa imibuzo ephendulwa ngo-ewe okanye hayi, nika imiyalelo inyathelo ngenyathelo, kwaye ungagxeki okanye ulungise. |
+| Eliphambili | Sondela ngapha ngaphambili uze uzitsho ukuba ungubani. Khuthaza ukukhomba nezenzo zomzimba. Sebenzisa ukubamba, izandi, izinto ezibonwayo nevumba. Ungaze uthethe ngokungathi akakho. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Umntu ngamnye wahlukile, kwaye umntu omnye usenokuba neentsuku ezilungileyo nezinzima. Phendula kwindlela anjengayo ngoku, hayi kwigama lenqanaba.
 
-## Can pictures and activities make conversation easier?
+## Ngaba imifanekiso nemisebenzi inokwenza incoko ibe lula?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ewe. Umfanekiso eniwujonga kunye ususa uxinzelelo kwaye uninika into eninokuyijonga neninokukhomba kuyo nobabini.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Imifanekiso evusa incoko.** [Conversation Cards](/games/conversation-cards/) inika imifanekiso enemibuzo evulekileyo engavavanyi.
+- **Iifoto zosapho.** [Photo Pairs](/games/photo-pairs/) ijika iifoto ozikhethayo zibe ngumdlalo omnene wokudibanisa, nto leyo edla ngokuvusa amabali.
+- **Izaci eziqhelekileyo.** [Finish the Saying](/games/finish-the-saying/) isebenzisa izaci zaseMelika eziqhelekileyo, zilandelwe ngumbuzo wencoko.
+- **Imidlalo yokudibanisa ngelixa nithetha.** [Picture Pairs](/games/picture-pairs/) inika izandla zenu into yokwenza ngelixa nincokola.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Bona [indlela yokudlala imidlalo kunye](/caregiving/how-to-play-together/) kunye [nemisebenzi yokukhumbula](/activities/reminiscence/) ukuze ufumane okungakumbi. Ngokutyelela nokufowuna, funda izikhokelo zethu malunga [nokutyelela](/activities/visiting/) kunye [neminxeba yefowuni neyevidiyo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Kumntu othetha iilwimi ezininzi, bona [isikhokelo sethu ngonxibelelwano kwiilwimi ezahlukeneyo](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Kuthekani ukuba ndiphelelwa ngumonde?
+
+Kwenzeka kuye wonke umntu. I-NIA icebisa ukuba ukuba ukhathazekile, thatha ixesha lokuzola. Yiya kwelinye igumbi, uthathe imiphefumlo embalwa ecothayo, uze ubuye xa unako. Ungayiqalisa incoko kwakhona, kwaye loo mntu usenokuphendula kakuhle kwimo yakho ezolileyo. Ukuba ukukhathazeka kuya kusiba rhoqo, loo nto luphawu lokuba ufuna inkxaso engaphezulu, hayi ukuba uyasilela. Isikhokelo sethu malunga [nokuzikhathalela komkhathaleli](/caregiving/caregiver-self-care/) sinendawo onokujika kuzo.

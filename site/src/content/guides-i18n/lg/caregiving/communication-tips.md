@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Amagezi ag’okwogera n’omuntu alina okusereba mu mutwe"
+seoTitle: "Okwogera n’oyo alina okusereba: eby’okugamba"
+description: "Engeri ezikola ez’okwogera n’omuntu alina okusereba mu mutwe: engeri y’okuteekateeka emboozi, ky’oyogera mu kifo ky’okumukebera oba okumuwakanya, n’engeri y’okuwuliriza."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Mwogerere mu kifo ekisirifu, mutunuulire omuntu oyo, mukozese erinnya lye,
+  era mwogere mpola mu sentensi ennyimpi era ennyangu. Buuza ekibuuzo kimu ku
+  mulundi, muwe eby’okulondako bibiri mu kifo ky’ebibuuzo ebiggule, era
+  mulindeko okumala akaseera akawera okusinga bwe kiba nga kya bulijjo. Temuwakana,
+  temumuwakanya era temumukebera. Ddamu eri enneewulira eri emabega w’ebigambo
+  bye, era kozesa okukwatako, ebifaananyi n’obubonero ng’ebigambo bizibuwala.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Ggyawo okuleekaana okwetoolodde era mutunuuliragane nga temunnatandika kwogera."
+  - "Kozesa sentensi ennyimpi, ekigambo kimu ku mulundi, n’amannya mu kifo kya ye oba bo."
+  - "Muwe eby’okulondako bibiri, oba ekibuuzo eky’okuddamu yee oba nedda, mu kifo ky’ebibuuzo ebiggule."
+  - "Lindako okuddamu. Bw’atategeerebwa, ddamu ebigambo bye bimu, oluvannyuma ogezeeko ebirala."
+  - "Temuwakana era temumuwakanya. Ddamu eri enneewulira eri emabega w’ebigambo bye."
+  - "Ebigambo bwe bikendeera, mwogere nga muyita mu kukwatako, eddoboozi, endabika y’omu maaso n’ebifaananyi bye mulabira awamu."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Kiki ky’otolina kugamba muntu alina okusereba mu mutwe?"
+    a: "Weewale okumukebera (\"Ojjukira...?\"), okumuwakanya (\"Ekyo si kituufu\"), okumujjukiza ebyafiirwa (\"Nnakubuulidde dda\") n’okwogera ku ye ng’alinga taliiwo. Weewale okwogera ng’oyogera n’omwana. Ebyo bitera okuvaako okuswala oba okweraliikirira nga tebiyambye."
+  - q: "Nnaawakananga naye bw’aba akyamu ku bintu?"
+    a: "Okusinga si bwe kiba. Ekintu ekikyamu bwe kiba nga tekirina kabi, kiwabulire. Okuwakana tekitera kukyusa ndowooza y’omuntu era emirundi mingi kimunakuwaza. Ffaayo ku ngeri gy’awuliramu ne ku ky’etaaga mu kiseera kino."
+  - q: "Nkole ki bw’alemwa okufuna ekigambo?"
+    a: "Sooka omuwe akaseera. Bw’alabika ng’azibuwalirwa, kiba kirungi okumuyamba mpola ng’omuwa ekigambo oba okuteebereza ky’ategeeza n’okukakasa. Okulaga, obubonero n’ebifaananyi nabyo biyinza okuyamba."
+  - q: "Nyinza ntya okwogera n’omuntu ali mu mutendera ogusembayo ogw’okusereba mu mutwe atatera kwogera?"
+    a: "Musemberere ng’ova mu maaso, yogera erinnya lyo, era kozesa eddoboozi eddongoofu n’okukwatako okw’ekisa. Kebera endabika y’omu maaso n’enneeyisa y’omubiri okutegeera enneewulira ze. Okubeerawo kwo, oluyimba lw’amanyi oba okumukwata ku mukono bisobola okwogera bingi awatali bigambo."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Okusereba mu mutwe kuyinza okuleetera omuntu okukaluubirirwa okufuna ebigambo, okugoberera sentensi empanvu, oba okubuusa amaaso okuleekaana okwetoolodde. Kino tekitegeeza nti omuntu takyayagala kubeera na nkolagana n’abalala. Enkyukakyuka entono mu ngeri gy’oteekateekamu emboozi, gy’oyogeramu n’engeri gy’owulirizaamu zisobola okwanguyiza okwogera n’okukutereeza eri mmwe bombi.
 
-## What are the most important tips for talking with someone who has dementia?
+## Magezi ki agasinga obukulu ag’okwogera n’omuntu alina okusereba mu mutwe?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Funayo okufaayo kwe, by’oyogera bibeere byangu, era beera mugumiikiriza. Bw’oba ojja okujjukira ebintu bitaano byokka:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Siriikiriza ekisenge era mutunuulire.** Ggyako ttivi, tuula ng’amaaso gammwe gali ku ddaala limu, era kozesa erinnya lye.
+2. **Yogera ekintu kimu ku mulundi.** Sentensi ennyimpi, ekirowoozo kimu, ekibuuzo kimu.
+3. **Muwe eby’okulondako bibiri.** "Caayi oba kaawa?" kyangu okusinga "Oyagala ki?"
+4. **Lindako.** Mu akaseera akawera okusinga bwe kiba nga kya bulijjo okuddamu, era gezaako obutamusalako.
+5. **Towakana wadde okumukebera.** Ddamu eri engeri gy’awuliramu, so si oba ebintu bye yayogera bituufu.
 
-## How should I start a conversation?
+## Nnyinza ntya okutandika emboozi?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Teekateeka ebintu omuntu asobole okukussaako omwoyo. [Ekitabo ky’obulagirizi ekya Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kiragira nti osooke okendeeze ku okuleekaana: ggyako laadiyo oba ttivi, ggalawo amaddirisa oba oluggi, oba mugende mu kifo ekisirifu.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Musemberere ng’ova mu maaso.** Okujja ng’ova emabega oba ku mabbali kuyinza okumutabulatabula.
+- **Yogera erinnya lyo.** "Nkulamusizza Taata, nze Sarah, muwala wo." Kino kimuwonya okunoonya erinnya lyo.
+- **Serengeta ku ddaala lye.** Bw’aba atudde, tuula oba fukamira amaaso gammwe gabe ku ddaala limu.
+- **Kebera endabika y’omu maaso go n’eddoboozi lyo.** [Ekitongole kya National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) kiragira nti weekenneenye eddoboozi lyo, obuwanvu bwalyo, endabika y’omu maaso go n’enneeyisa y’omubiri gwo, era fuba okuba ow’ekisa era omwogezi omutegeerekeka.
+- **Kakasa nti endabirwamu n’eby’amatu biri mu kifo kyabyo.** Kizibu okugoberera emboozi gy’otosobola kulaba oba okuwulira bulungi.
 
-## How should I phrase what I say?
+## Nnyinza ntya okutegeka ebigambo byange?
 
-Use simple words, short sentences and a calm, low voice.
+Kozesa ebigambo ebyangu, sentensi ennyimpi n’eddoboozi eddongoofu era erya wansi.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ekirowoozo kimu buli sentensi.** "Ka twambale kkooti yo. Oluvannyuma tujja kufuluma ebweru." So si byombi mu mulundi gumu.
+- **Kozesa amannya, so si bigambo ebidda mu kifo kyago.** "Ssenga Jean yabadde akubye essimu" kitegeerekeka okusinga "Yabadde akubye essimu."
+- **Ssa eddoboozi wansi, so si waggulu.** Family Caregiver Alliance eragira okukozesa eddoboozi erya wansi mu kifo ky’okwogerera waggulu.
+- **Ddamu, oluvannyuma okyuse ebigambo.** Bw’atategeera, ddamu ebigambo bye bimu omulundi gumu. Bwe kitakola, lindako akaseera akatono ogezeeko ebigambo ebirala.
+- **Laga era oyogere.** Laga ku kikopo, yimusiza masweta zombi, oba laga ekisooka eky’okukola.
+- **Yogera naye, so si kwogera ku ye.** NIA erabula ku kwogera ku muntu ng’alinga taliiwo, era ne ku "kwogera ng’oyogera n’omwana".
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA eraga engeri ennyangu ez’okubuuzaamu ebibuuzo ebya bulijjo. Wano waliwo ebyokulabirako mu ngeri eyo:
 
-| Instead of | Try |
+| Mu kifo kya | Gezaako |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Oyagala kulya ki akawungeezi?" | "Oyagala kyennyanja oba enkoko?" |
+| "Owulira otya?" | "Owulira ng’okooye?" |
+| "Olina enjala?" | "Ekyeggulo kijja kuba kyetegefu mu ddakiika ttaano." |
+| "Si bwe kikolebwa bwe kityo." | "Ka tukigezeemu bwe tuti." |
+| "Ojjukira olugendo lwaffe ku nnyanja?" | "Nabadde ndowooza ku lugendo lwaffe ku nnyanja. Mbuulira bye wayagala ennyo." |
+| "Nnakubuulidde dda." | Ddamu n’ekisa, ng’oyogera omulundi ogusooka. |
 
-## How do I listen well?
+## Nnyinza ntya okuwuliriza obulungi?
 
-Listen for the meaning and the feeling, not just the words.
+Wuliriza amakulu n’enneewulira, so si bigambo byokka.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Lindako.** Okusirika emirundi mingi kiba kiseera ky’okulowooza. Bala mpola okutuuka ku kkumi nga tonnayambako.
+- **Mu ekigambo kyokka bw’alemeddwa.** Family Caregiver Alliance egamba nti kiba kirungi okuwa ekigambo omuntu bw’aba azibuwalirwa.
+- **Kakasa ky’owulidde.** [Ekitabo kya Alzheimer’s Association ku kwogera](https://www.alz.org/help-support/caregiving/daily-care/communications) kiragira okunoonya amakulu agali emabega w’ebigambo bye n’okubiddamu okakase nti otegedde. "Oweraliikiridde emmotoka?"
+- **Kebera endabika y’omu maaso ge n’omubiri gwe.** Okwogera bwe kugenda kukaluubirirwa, NIA egamba nti endabika y’omu maaso eyinza okulaga ennaku, obusungu oba okwetamwa okusinga ebigambo.
+- **Twala okweraliikirira kwe ng’ekikulu.** Ne bwe kiba nti okweraliikirira kwesigamye ku kintu ekikyamu, enneewulira eyo ya ddala.
 
-## What if they say something that is not true?
+## Ate bw’ayogera ekintu ekitali kituufu?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Towakana naye. Tekitera kukola, era omuntu ayinza okuwulira ng’aswadde oba ng’atidde. Mu kifo ky’ekyo, kwatagana n’enneewulira ye, oluvannyuma omukyusempo mpola.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance eragira okukakasa enneewulira nga tonnamukyusaamu. Okugeza, maama wo bw’akalambira nti alina okugenda okuggya abaana ku ssomero:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Mu kifo kya: "Maama, abaana bo bakuze. Ekyo kyayita emyaka ana."
+- Gezaako: "Bulijjo wali maama afaayo ennyo. Mbuulira ku kubaggya ku ssomero. Ka tusooke tulyeeko akatono?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association era eragira obutawakana ku bigambo by’otakkiriziganya nabyo. Londa ebiseera: endowooza enkyamu bwe kiba nga terina kabi, gireke.
 
-## How does communication change as dementia progresses?
+## Okwogera kukyuka kutya ng’okusereba mu mutwe kugenda kweyongera?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ebyetaago bikyuka ng’ebiseera biyitawo, kale kyusa engeri gy’okwatamu embeera. Alzheimer’s Association ennyonnyola emiteeko esatu egy’awamu:
 
-| Stage | What helps |
+| Omutendera | Ekiyamba |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Ogusooka | Totwala nti tasobola kwogera. Muteeke mu mboozi, yogera naye butereevu, mubuuze obuyambi bw’ayagala, era kozesa akaseko bwe kiba nga kiyamba. |
+| Ogw’akati | Mboozi wakati wo naye yekka mu kifo ekisirifu. Yogera mpola, mutunuulire mu maaso, kozesa ebibuuzo eby’okuddamu yee oba nedda, muwe ebiragiro ekimu ku kimu, era tomunenya wadde okumuwakanya. |
+| Ogusembayo | Musemberere ng’ova mu maaso era yogera erinnya lyo. Mukubirize okulaga n’okukozesa obubonero. Kozesa okukwatako, amaloboozi, ebirabika n’akawoowo. Toyogera ng’alinga taliiwo. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Buli muntu wa njawulo, era omuntu y’omu ayinza okuba n’ennaku ennungi n’ezizibu. Kolagana n’engeri gy’ali mu kiseera kino, so si ku linnya ly’omutendera.
 
-## Can pictures and activities make conversation easier?
+## Ebifaananyi n’emizannyo bisobola okwanguyiza emboozi?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Yee. Ekifaananyi kye mulabira awamu kiggyawo okunyigirizibwa era kibawa mmwe bombi ekintu kye musobola okutunuulira n’okulaga.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ebifaananyi ebireeta emboozi.** [Conversation Cards](/games/conversation-cards/) biwa ebifaananyi n’ebibuuzo ebiggule ebitakebera.
+- **Ebifaananyi by’amaka.** [Photo Pairs](/games/photo-pairs/) bikyusa ebifaananyi by’olonze ne bifuuka omuzannyo omwangu ogw’okugatta ebifaananyi, era emirundi mingi guleeta emboozi n’ebijjukizo.
+- **Engero n’ebigambo ebimanyiddwa.** [Finish the Saying](/games/finish-the-saying/) bikozesa engero n’ebigambo ebimanyiddwa ennyo, oluvannyuma ne biddirirwa ekibuuzo ekireeta emboozi.
+- **Emizannyo gy’okugatta ng’omusingi gw’emboozi.** [Picture Pairs](/games/picture-pairs/) kiwa emikono gyo ekintu eky’okukola nga mwogera.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Laba [engeri y’okuzannya awamu](/caregiving/how-to-play-together/) ne [emizannyo gy’okujjukira](/activities/reminiscence/) okumanya ebisingawo. Ku kukyalira n’amasimu, soma ebitabo byaffe ku [kukyalira](/activities/visiting/) ne ku [masimu n’amasimu agalaba](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ku muntu ayogera ennimi ezisukka mu lumu, laba [ekitabo kyaffe ku kwogera mu nnimi ez’enjawulo](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Nkolera ki singa mpulira nga saakyagumiikiriza?
+
+Kino kitera okutuuka ku buli muntu. NIA eragira nti bw’owulira ng’onyiize, weeyawuleeko okumala akaseera okukkakkana. Genda mu kisenge ekirala, ssa omukka mpola emirundi mitono, era okomewo bw’oba osobola okukkakkana. Osobola okutandika emboozi nate, era omuntu ayinza okuddamu obulungi eri embeera yo ennyogovu. Bw’owulira nga toyinza kugumiikiriza emirundi mingi, ekyo kiba kiraga nti weetaaga obuyambi obusingawo, so si nti olemereddwa. Ekitabo kyaffe ku [kwefaako ng’omulabirizi](/caregiving/caregiver-self-care/) kirimu aw’okufuna obuyambi.

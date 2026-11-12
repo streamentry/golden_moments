@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Maano a go bua le motho yo o nang le bolwetse jwa go lebala"
+seoTitle: "Maano a puisano ka bolwetse jwa go lebala"
+description: "Mekgwa e e thusang ya go bua le motho yo o nang le bolwetse jwa go lebala: go baakanya puisano, se o ka se buang, le go reetsa ka bopelotelele."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Buang mo lefelong le le didimetseng, lebanang le motho, dirisang leina la
+  gagwe, mme lo bue ka bonya ka dipolelo tse dikhutshwane le tse di motlhofo.
+  Botsa potso e le nngwe ka nako, mo neeleng ditlhopho di le pedi go na le
+  dipotso tse di bulegileng, mme lo lete go feta jaaka go ka ikutlwa go
+  tlwaelegile. Lo se ka lwa ganetsana, lwa baakanya kgotsa lwa leka go mo
+  gopotsa. Araba maikutlo a a leng fa morago ga mafoko, mme lo dirise go ama,
+  ditshwantsho le dikai fa go bua go nna thata.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Fokotsa modumo o o mo tikologong mme lo lebagane matlho pele lo simolola go bua."
+  - "Dirisa dipolelo tse dikhutshwane, kgopolo e le nngwe ka nako, le maina go na le ene kgotsa bone."
+  - "Neela tlhopho ya dilo di le pedi, kgotsa potso ya ee kgotsa nnyaa, go na le dipotso tse di bulegileng."
+  - "Leta karabo. Fa a sa tlhaloganngwe, boeletsa mafoko a a tshwanang, morago ga moo o leke a mangwe."
+  - "Lo se ka lwa ganetsana kgotsa lwa baakanya. Araba maikutlo a a leng fa morago ga se a se buang."
+  - "Fa mafoko a nyelela, buisanang ka go ama, molumo wa lentswe, sefatlhego le ditshwantsho tse lo di lebelelang mmogo."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ke eng se o sa tshwanelang go se bua le motho yo o nang le bolwetse jwa go lebala?"
+    a: "Tila go leka go mo gopotsa (“A o a gopola…?”), go baakanya (“Seo ga se a siama”), go mo gopotsa ka ditatlhegelo (“Ke setse ke go boleletse”) le go bua ka ene jaaka e kete ga a yo. Tila puo ya bana. Tseno gantsi di ka dira gore a ikutlwe a tlhabisiwa ditlhong kgotsa a tshwenyegile ntle le go thusa."
+  - q: "A ke tshwanetse go baakanya fa a bua sengwe se e seng nnete?"
+    a: "Gantsi nnyaa. Fa ntlha e e sa siamang e sa gobatse, e lese fela. Go ganetsana ga go fetole mogopolo wa motho gantsi mme go ka mo kgopisa. Tsepamisa mogopolo mo maikutlong a gagwe le mo se a se tlhokang gone jaanong."
+  - q: "Ke dire eng fa a sa kgone go bona lefoko le a le batlang?"
+    a: "Mo neele nako pele. Fa a sokola sentle, go siame go mo thusa ka bonolo ka lefoko kgotsa go fopholetsa se a se rayang mme o tlhomamise. Go supa, go dirisa diatla le ditshwantsho le gone go ka thusa."
+  - q: "Ke bua jang le motho yo o leng mo kgatong e e kwa morago ya bolwetse jwa go lebala yo o sa bueng gantsi?"
+    a: "Atamela ka fa pele, bolela gore o mang, mme o dirise lentswe le le didimetseng le go ama ka bonolo. Leba difatlhego le puo ya mmele go bona maikutlo. Go nna le ene, pina e a e tlwaetseng kgotsa go tshwarana ka diatla go ka bua thata le fa go se na mafoko."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Bolwetse jwa go lebala bo ka dira gore go nne thata go bona mafoko, go latela polelo e telele, kgotsa go itlhokomolosa modumo o o mo tikologong. Seno ga se reye gore motho ga a sa tlhole a batla go nna le kamano le ba bangwe. Diphetogo tse dinnye mo tseleng e lo baakanyang puisano ka yone, mo lo buang ka yone le mo lo reetsang ka yone di ka dira gore go bua go nne motlhofo le go ritibala mo go lona bobedi.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ke maano afe a a botlhokwa thata fa o bua le motho yo o nang le bolwetse jwa go lebala?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Gapa tlhokomelo ya gagwe, dira gore dilo di nne motlhofo, mme o nne pelotelele. Fa o ka gopola dilo di le tlhano fela:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Didimatsa phaposi mme o lebagane le ene.** Tima thelebišene, nna fa a kgonang go go leba mo matlhong, mme o dirise leina la gagwe.
+2. **Bua selo se le sengwe ka nako.** Dipolelo tse dikhutshwane, kgopolo e le nngwe, potso e le nngwe.
+3. **Neela tlhopho ya dilo di le pedi.** “Tee kgotsa kofi?” go motlhofo go feta “O batla eng?”
+4. **Leta.** Mo neele nako e ntsi ya go araba go feta jaaka go ka ikutlwa go tlwaelegile, mme o leke go se mo tsene ganong.
+5. **Lo se ka lwa ganetsana kgotsa lwa leka go mo gopotsa.** Araba maikutlo a gagwe, e seng gore dintlha di siame kgotsa nnyaa.
 
-## How should I start a conversation?
+## Ke tshwanetse go simolola puisano jang?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Baakanya dilo gore motho a kgone go tsepamisa mogopolo mo go wena. [Kaedi ya Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e akantsha gore o fokotse modumo pele: tima seyalemoya kgotsa thelebišene, tswala digaretene kgotsa lebati, kgotsa lo ye kwa lefelong le le didimetseng.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Atamela ka fa pele.** Go tla ka fa morago kgotsa ka fa letlhakoreng go ka mo tshosa.
+- **Bolela gore o mang.** “Dumela Rre, ke nna Sarah, morwadi wa gago.” Seno se mo thusa gore a se ka a batla leina la gago.
+- **Nna mo seemong sa gagwe.** Fa a dutse, dula kgotsa khubama gore matlho a lona a lebagane.
+- **Ela tlhoko sefatlhego sa gago le molumo wa lentswe la gago.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) e gakolola gore o ele tlhoko molumo wa lentswe, bogolo jwa lone, sefatlhego le puo ya mmele, mme o leke go nna le mokgwa o o bothitho le o o tlhamaletseng.
+- **Netefatsa gore diborele le dithuso tsa go utlwa di teng.** Go thata go latela puisano e o sa kgoneng go e bona sentle kgotsa go e utlwa sentle.
 
-## How should I phrase what I say?
+## Ke tshwanetse go bua jang?
 
-Use simple words, short sentences and a calm, low voice.
+Dirisa mafoko a a motlhofo, dipolelo tse dikhutshwane le lentswe le le didimetseng le le kwa tlase.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Kgopolo e le nngwe mo polelong nngwe le nngwe.** “A re tsenyeng baki ya gago. Morago ga moo re tla ya kwa ntle.” E seng ka bobedi ka nako e le nngwe.
+- **Dirisa maina, e seng maemedi.** “Mmangwane Jean o founetse” go tlhaloganya motlhofo go feta “O founetse.”
+- **Theola lentswe, o se ka wa le goletsa.** Family Caregiver Alliance e akantsha lentswe le le kwa tlase go na le le le kwa godimo.
+- **Boeletsa, morago ga moo fetola mafoko.** Fa a sa tlhaloganya, boeletsa mafoko a a tshwanang gangwe. Fa seo se sa thuse, leta motsotswana mme o leke mafoko a mangwe.
+- **Supa le go bua.** Supa kopi, tsholetsa dijesi tse pedi, kgotsa bontsha kgato ya ntlha.
+- **Bua le ene, e seng ka ga ene.** NIA e tlhagisa gore go se ka ga buiwa ka motho jaaka e kete ga a yo, le gore go tilwe “puo ya bana”.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA e akantsha mefuta e e motlhofo ya dipotso tse di tlwaelegileng. Mehlala ke eno ka tsela eo:
 
-| Instead of | Try |
+| Go na le | Leka |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “O batla eng mo dilalelong?” | “A o batla tlhapi kgotsa nama ya koko?” |
+| “O ikutlwa jang?” | “A o ikutlwa o lapile?” |
+| “A o tshwerwe ke tlala?” | “Dijo tsa maitseboa di tla bo di siame mo metsotsong e le metlhano.” |
+| “Ga o dire jalo.” | “A re leke ka tsela eno.” |
+| “A o gopola loeto lwa rona kwa letsheng?” | “Ke ne ke akanya ka loeto lwa rona kwa letsheng. Mpolelele se o neng o se rata ka lone.” |
+| “Ke setse ke go boleletse.” | Araba gape, ka bonolo, jaaka e kete ke lekgetlo la ntlha. |
 
-## How do I listen well?
+## Nka reetsa jang sentle?
 
-Listen for the meaning and the feeling, not just the words.
+Reetsa bokao le maikutlo, e seng mafoko fela.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Leta.** Nako ya tidimalo gantsi ke nako ya go akanya. Bala ka bonya go fitlha go lesome pele o tsena mo gare.
+- **Mo neye lefoko fela fa a kgoreletsega.** Family Caregiver Alliance e re go siame go akantsha mafoko fa motho a sokola.
+- **Tlhomamisa se o se utlwileng.** [Kaedi ya puisano ya Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) e akantsha gore o batle bokao jo bo leng fa morago ga mafoko a gagwe mme o bo boeletse go tlhomamisa gore o tlhalogantse. “O tshwenyegile ka koloi?”
+- **Leba sefatlhego le mmele wa gagwe.** Fa go bua go nna thata, NIA e lemosa gore difatlhego di ka bontsha kutlobotlhoko, bogale kgotsa kgopisego sentle go feta mafoko.
+- **Tsaya matshwenyego a gagwe ka tlhwaafalo.** Le fa tshwenyego e theilwe mo ntlheng e e sa siamang, maikutlo a teng ke a nnete.
 
-## What if they say something that is not true?
+## Go tweng fa a bua sengwe se e seng nnete?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Lo se ka lwa ganetsana. Ga go bonolo gore o ka fenya, mme motho a ka feleletsa a ikutlwa a tlhabisiwa ditlhong kgotsa a tshogile. Go na le moo, amogela maikutlo a gagwe, morago ga moo o mo ise kwa go sengwe ka bonolo.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance e akantsha gore o amogele maikutlo pele o fetola ntlha. Ka sekai, fa mmago a gatelela gore o tshwanetse go ya go tsaya bana kwa sekolong:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Go na le: “Mme, bana ba gago ba godile. Ke dingwaga di le masome a mane tse di fetileng.”
+- Leka: “O ne o le mmè yo o lorato thata. Mpolelele ka go ba tsaya. A re jeng seneke pele?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association le yone e gakolola gore lo se ka lwa ganetsana ka dilo tse lo sa dumalaneng ka tsone. Tlhopha dinako tsa gago: fa tumelo e e sa siamang e sa gobatse, e lese fela.
 
-## How does communication change as dementia progresses?
+## Puisano e fetoga jang fa bolwetse jwa go lebala bo tswelela pele?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ditlhokego di a fetoga ka nako, ka jalo fetola tsela ya gago. Alzheimer's Association e tlhalosa dikarolo di le tharo ka kakaretso:
 
-| Stage | What helps |
+| Kgatelelo | Se se thusang |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Ya kwa tshimologong | O se ka wa tsaya gore ga a kgone go buisana. Mo akaretse mo dipuisanong, bua le ene ka tlhamalalo, mmotse gore o batla thuso efe, mme o dirise metlae fa e thusa. |
+| Ya fa gare | Dipuisano tsa motho ka mongwe mo lefelong le le didimetseng. Bua ka bonya, lebagana matlho, dirisa dipotso tsa ee kgotsa nnyaa, neela ditaelo ka dikgato, mme o se ka wa kgala kgotsa wa baakanya. |
+| Ya kwa morago | Atamela ka fa pele mme o bolele gore o mang. Rotloetsa go supa le go dirisa diatla. Dirisa go ama, medumo, dilo tse di bonwang le menko. O se ka wa bua jaaka e kete ga a yo. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Motho mongwe le mongwe o farologane, mme motho yo o tshwanang a ka nna le malatsi a a botoka le a a thata. Araba tsela e a leng ka yone gone jaanong, e seng leina la seemo.
 
-## Can pictures and activities make conversation easier?
+## A ditshwantsho le ditiro di ka dira gore puisano e nne motlhofo?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ee. Setshwantsho se lo se lebelelang mmogo se fokotsa kgatelelo mme se lo naya sengwe se lo ka se lebang le go se supa.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ditsela tsa go simolola puisano ka ditshwantsho.** [Conversation Cards](/games/conversation-cards/) di neela ditshwantsho tse di nang le dipotso tse di bulegileng tse di sa lekeng go mo gopotsa.
+- **Ditshwantsho tsa lelapa.** [Photo Pairs](/games/photo-pairs/) e fetola ditshwantsho tse o di tlhophang go nna motshameko o o bonolo wa go nyalanya, o gantsi o tsosang dipolelo.
+- **Maele a a tlwaelegileng.** [Finish the Saying](/games/finish-the-saying/) e dirisa maele a a tlwaelegileng, a latelwa ke potso ya puisano.
+- **Metshameko ya go nyalanya jaaka motheo wa puisano.** [Picture Pairs](/games/picture-pairs/) e lo naya sengwe sa go se dira ka diatla fa lo ntse lo tlotla.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Bona [ka fa lo ka tshamekang mmogo ka teng](/caregiving/how-to-play-together/) le [ditiro tsa go gopola](/activities/reminiscence/) go bona go le gontsi. Fa e le maeto le megala, bala dikaedi tsa rona tsa [go etela](/activities/visiting/) le [megala le megala ya bidio](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Fa e le motho yo o buang dipuo di le dintsi, bona [kaedi ya rona ya puisano ka dipuo tse di farologaneng](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Go tweng fa ke felelwa ke bopelotelele?
+
+Go diragalela mongwe le mongwe. NIA e akantsha gore fa o simolola go tenegega, o tseye nako go ritibala. Tsena mo phaposing e nngwe, hema ka bonya makgetlo a sekae, mme o boele fa o kgona. O ka simolola puisano gape, mme motho a ka arabela botoka fa o ritibetse. Fa go tenegega go nna selo sa ka metlha, seo ke sesupo sa gore o tlhoka tshegetso e e oketsegileng, e seng gore o a palelwa. Kaedi ya rona ya [go itlhokomela ga motlhokomedi](/caregiving/caregiver-self-care/) e na le mafelo a o ka fumanang thuso mo go one.

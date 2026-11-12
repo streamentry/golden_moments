@@ -1,34 +1,33 @@
 ---
-title: "Mana kəlanzəbe kam dementia-a kargata-a"
-seoTitle: "Mana kəlanzəbe dementia-a: Awo guljin-a gulzənyi-a"
-description: "Futu kam dementia-a kargata-a mana kəltəbe: futu mana badiyaram, awo guljin kuru awo gulzənyi, kuru futu kərənjinma."
+title: "Mana cidi am dementia-a rokko-a"
+seoTitle: "Mana cidi dementia-be: Awi manəm-a manəmba-a"
+description: "Futu am dementia-a rokko-a mana cidin: futu mana badizəyin, awi koro-a fasaltə-a badiro manəmba, kuru futu fanzəyin."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Na cidawa lan manane, kam dəga fuwunzəyin ro kalakne, cunzə gulne, kuru
-  mana gana-gana, kəlma sandiya lan mane. Koro falro fal gulne, koro zau-a
-  indi-a kənəmbe lan koro ngəwu-a gulne, kuru hangalye gozuwa-a kozəna-a
-  kənəm kata kətəne. Kəlaanzənyi, tənzənyi, bi koro kənzənyi. Mana cədəna
-  dəga karəgənzə lan hangal gəne, kuru mana-a cidajinma musko, foto, kuru
-  alamaram-a faidatəne.
+  Na cidiyan fǝlezana lan manane, kamudəro fǝlezane, sunzə lan bowone, kuru
+  mana kura-a gana-a kəlanzana lan manane. Suwal falro fal manane, suwal
+  fəlezanaro na-a suwal-a kurnone, kuru kəla jawo-a hangal gənyi-a kəmarsane.
+  Kəlio wuljinba, fasaltəginba, kuru koro-a cidinba. Awi manajin-a fǝlezana
+  karǝgənzəro jaawu kolne, kuru mana cidiro kəliwua, foto-a, alama-a faidatəne.
 keyPoints:
-  - "Mana badizayinro kawu cidajinma dəga citəne kuru shi shiro kəlaa kərənne."
-  - "Kəlma gana-gana, awo falro fal, kuru cu faidatəne shi, ti, bi sandi-a badiyaramro."
-  - "Koro ngəwu-a badiyaramro, awo indi-a kənəmbe bi aa-a'aaye-a koro faidatəne."
-  - "Jaawu-a kətəne. Shi asutənyi ma, burwon kəlma tilo dəga waltə gulne, ngawo dəga kəlma gade faidatəne."
-  - "Kəlaanzənyi bi tənzənyi. Mana cədəna dəga karəgənzə hangal-a jaawu-a de."
-  - "Mana-a cidajinma, musko, kəla, fəddu fusube kuru foto kəltəbe-a faidatəne."
+  - "Mana badizəyinro kawu, kəlio fǝlezəne kuru shimnzə ye kəmarsane."
+  - "Mana kura-a gana-a faidatəne, awo falro fal manane, kuru \"shi\", \"ti\" na-a \"sandia\" badiro sunzə faidatəne."
+  - "Suwal fəlezanaro na-a \"aa\" aw \"a'a\" suwal kurnone, suwal fəlezana-a badiro."
+  - "Jaawu kəmarsane. Taa kamudə asutinba dea, mananzədəga falfalne, ngawo mananzə gade faidatəne."
+  - "Kəlio wuljinba kuru fasaltəginba. Awi manajin-a karǝgənzəro jaawu kolne."
+  - "Mana cidiro kəliwua kəmangənadə, kəliwua, kəla suronzə, fǝkəranzə kuru foto-a falla-a faidatəne."
 faq:
-  - q: "Awo kam dementia-a kargata ro gulzənyi wa?"
-    a: "Koro kənzənyi (\"Taktəna wa?\"), tənzənyi (\"Adə kalkal\"), awo faccənadəga taktəgəne (\"Nyi ro waltə gulgəkənadə\"), kuru shi na dəga bawo mana kədənyi. Mana tada-a gairo manazənyi. Adəga shi nangaro cizə bi karəgənzə cizayin, banazayin ba."
-  - q: "Awo cədəna dəga kalkallo waljiya, shi-a tənzəgəna wa?"
-    a: "Ngəwuro bawo. Awo cədəna dəga kalkallo amma banajin ba ma, kolne. Kəlaanzə shi hangalzə faltəjin ba, kuru ngəwuro shi-a karəgənzəro cizayin. Sandi karəgənzə kuru awo kərmaadə mbeji ma hangal ganane."
-  - q: "Kəlma mata bawo cidajinma, abi dikki?"
-    a: "Burwon loktu yine. Shi jauro wahalajinro fəletəna ma, kəlma falro banazəne bi awo manajinma asune kuru tambune ngəla. Musko, alamaram kuru foto ye banazayin."
-  - q: "Futu kam dementia-a kərmaadə kozəna-a kargata, mana ngəwu cədənyi ma, mananjin?"
-    a: "Fuwunzəyin ro isne, wuni wuma gulne, kəla cidawa-a musko kəlanzəbe-a faidatəne. Karəgənzə asutəro fəddu fuskabe-a kəli tilabe-a rui. Nando mbeji, yawu asəna bi musko kənzəbe-a mana bawo ye awo kura bayin."
+  - q: "Awi am dementia-a rokko-a gulnəmba?"
+    a: "Koro cidinba (\"Taktəne wa?\"), fasaltəginba (\"Adə kalkal\"), awo faccana-a taktənəginba (\"Nyi gulnjagəna\") kuru shi-a na-a nəmzəninba ye mananəminba lan manajinba. Kəndondobe mana badiro manajinba. Adəga nankaro nəmngəri aw təlam faidajin, banzayin ba."
+  - q: "Shi awo kalkallo manajinro, fasaltəgəskəna wa?"
+    a: "Ngəwu so, a'a. Awo kalkallo manajinma banzayiro, kolləne. Kəlio wuljində kamudə hangalzə faltin ba kuru ngəwu so shi-a gərgajin. Kərma shi-a fanzəjin-a kuru awi kərma mabe-a yim adəben faidatəne."
+  - q: "Kəliwu mata cizayinro awi dikki?"
+    a: "Buro saa kolne. Shi hangalnzə tawatkənaro asutəna maa, kəliwu falro banzayiro banajin aw awi manajin-a asutəne kuru tabbatəne. Kəliwube alama-a kuru foto-a ye banzajin."
+  - q: "Am dementia ngawo kura-a rokko-a, mana ngəwuro cidimba-a, futu mana dikki?"
+    a: "Fuwunzəyen nanəne, wundu nəmmi-a wulne, kuru kəla cidiyan-a kəliwua banzayia faidatəne. Fǝkəranzə-a kəliwu tǝlinzə-a rui karǝgənzə asutəro. Nəmngawonəmma, yawu asutəna aw muskonzə taiye, mana ngəwuro kəliwu ba-a ye cidiwu koljin."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +39,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia-a kəlma mata, kəlma kuruwu fanjə, bi kowo cidajinma-a dautə kambo cizayin. Adə ye maanaanzə kam dəga kam gade-a kəlzəgə kəraanzəro faltənyi. Futu mana badiyaram, futu mananim kuru futu kərənəmma lan faltəgə gana-a kədəbe, mana-a nando-a kuru kam ngəwu-a ro cidaro walzayin.
+Dementia ye kamuro kəliwu matadə kəskashiro, mana kuradə fanzəro, aw kəlio cidiyabedə gaaduro bannzəyin. Adəma kamudə kərma-a jawal cidiro cizəyin-a kollənaro maana nzəkko ba. Mana cidiwu badizəyinlan, futu manaminlan kuru futu fanəminlan awo gana-a faltəgəne shi-a kuru nyi-a banzaro mana cididəga kəlanzayin.
 
-## Awo kura mana kam dementia-a kargata-a kəltəbero faidajin wa?
+## Awo faidatəma kura so, am dementia-a rokko-a mana cidiya ye?
 
-Hangalnzə kambe, mana-a cidaro kalakne, kuru hangalye. Awo uwu ro bas taktənamma:
+Hangalzə kamarsane, awo-a kəlanzane, kuru hangal gənane. Awo uwu bas taktəne maa:
 
-1. **Na dəga cidaro kalakne kuru shi-a rui.** TV dəga cazəne, shi-a kəlaa kəlkəl lan napne, kuru cunzə faidatəne.
-2. **Loktu fallan awo fal manane.** Kəlma gana-gana, hangal fal, koro fal.
-3. **Awo indi-a kənəmbe yine.** «Shayi ra kahuwa?» koro-a «Abi raamma wa?» kozəna kəlan ngəla.
-4. **Kətəne.** Jaawu-a cinro loktu kura gozuwa-a kozəna-a yine, kuru mananzə dautənyi.
-5. **Kəlaanzənyi bi koro kənzənyi.** Futu karəgənjinma hangal ganane, awo cədəna dəga jire bi kalkal gənanyi.
+1. **Na cidiyabedə fǝlezane kuru fuwunzəyen nanəne.** TV dəga satkəne, shimnzə ro sadan kəla falro napne, kuru sunzə faidatəne.
+2. **Awo falro fal manane.** Mana kura-a gana-a, awo fal, suwal fal.
+3. **Na-a suwal-a kurnone.** "Shayi aw kahawa?" də "Awi raamma?" lan kəlanzana.
+4. **Kəmarsane.** Jaawu kolzəro saa hangal gənyi-a kolne, kuru dawu katapkəmin ba.
+5. **Kəlio wuljinba kuru koro cidinba.** Futu fanzəjin-a rui, jire kalkallo wal kalkal bawo.
 
-## Futu mana badigəkkiya?
+## Futu mana cididə badizəkki?
 
-Kam dəga shi-a hangalnzə ganzəro cidajin na-a dazəne. [Futube Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) burwon kowo cidajinma-a fulutəro shawari cina: rediyo bi TV cazəne, labule bi cinna-a zaktəne, bi na cidawa-a ro lene.
+Kamudə nyiro hangalzə kolzəro alamaro dabbarne. [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ye kəlio cidiyabedəga gana cidiro shawari kolzəna: radio aw TV dəga satkəne, labtə aw cinna dəga zanne, aw na fǝlezanaro lewone.
 
-- **Fuwunzəyin ro isne.** Ngawo bi kənəmbe lan isə cidajin kam dəga rijaptə.
-- **Wuni wuma gulne.** «Salam Bawa, wu Sara, fero nyibe.» Adəye shi cunəm-a mata-a koljin.
-- **Shi-a kəlaa kəlkəlro isne.** Shi napkənama, napne bi ngurnone shima-a kuru nyi-a shim sammaaro walzaro.
-- **Fəddu fuskabe-a kəlanəm-a rui.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) kəlanəm, ngurnonəm, fəddu fuskabe kuru kəli tilabe-a asutəro, kuru kəla kənzəbe, bayanna-a faidatəro shawari cina.
-- **Gilasu shim-a kuru awo fanobe-a mbejiro tawattəgəne.** Mana ngəla rui bi fanjin bawo-a fanjə kərmaadən wahala.
+- **Fuwunzəyen nanəne.** Ngawo aw kəla gadeben ishidə kamudə rijaptəyin.
+- **Wundu nəmmi-a wulne.** "Salam Bawa, wu Sarah, feronəm." Adə sunəm mataro hangalzə cinba.
+- **Kəlanzəro napne.** Shi napkənaro, sadan aw ngurumne shimnzə kəla falro walzəro.
+- **Fǝkəranəm-a kəla suronəm-a rui.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ye kəla suronəm, kəlanəm, fǝkəranəm kuru kəliwu tǝlinəm-a hangallo faidatəro, kuru kəla banzayia-a kəla jidabe-a faidatəro shawari kolzəna.
+- **Njarwu shim-a kuru fanza-a dəga naptəna tabbatəne.** Mana shiro kəlanzaro fanəmba-a aw rumnəmba-a də kəskasha.
 
-## Awo gulgəkkiya futu wuljəgəkki?
+## Futu mana dikki?
 
-Kəlma cidawa, kəlma gana-gana kuru kəla kənzəbe, cidawa-a faidatəne.
+Kəliwu gana-a, mana kura-a gana-a kuru kəla cidiyan-a gana-a faidatəne.
 
-- **Kəlma fallan hangal fal.** «Jakku nəmgəne. Ngawo dəga deyaro leniye.» Amma sandi sammaa yadas bawo ro wulzənyi.
-- **Cu faidatəne, kəlma baditəbe gənanyi.** «Yaya Jean bowotəna» «Shi bowotəna» kozəna bayanna.
-- **Kəla cidawa lan mane, kura gənanyi.** Family Caregiver Alliance kəla cidawa-a kəla kura-a kozəna shawari cina.
-- **Waltəne, ngawo dəga kəlma faltəne.** Shi asutənyi ma, kəlma tilo dəga loktu fallan waltə gulne. Adə faidazənyi ma, sa gana kətəne kuru kəlma gade faidatəne.
-- **Fəletəne kuru manane.** Koppəro musko yikke, jakku indi-a fəletəne, bi kənashim burwobe-a fəletəne.
-- **Shi-a ro manane, shi-a kəlanzənyi.** NIA kam dəga na dəga bawo manajin gairo manazənyi-a kuru mana tada-a gairo manazənyi-a ro wakkiljo.
+- **Awo falro fal mana fal.** "Jaketnəm dəga luwone. Ngawo deyaro culuye." Awo-a falro fuwunno kattəgəminba.
+- **Su-a badiro sunzə faidatəne.** "Aunt Jean ye bowozəna" də "Shi bowozəna" lan asutəna.
+- **Kəla cidiyan gana faidatəne, kura bawo.** Family Caregiver Alliance ye kəla cidiyan kura badiro, kəla cidiyan gana faidatəro shawari kolzəna.
+- **Faltəne, ngawo falne.** Asutinba maa, mananzədəga falro faltəne. Adə faidatəmba maa, saa ganaro kəmarsane kuru kəliwu gade faidatəne.
+- **Fəletəne kuru manane.** Koppodəro alama kolne, kamis adin dəga tulo fəletəne, aw awo burwoyedəga fəletəne.
+- **Shi-a rokko manane, shi-alan bawo.** NIA ye kamudə na-a nəmzəninba ye manajinba-a kuru "kəndondobe mana" badiro manajinba-a wulzəna.
 
-NIA koro saabe-a ro jawawu cidawa-a shawari cina. Misallo sandi-a adə gai:
+NIA ye suwal ngəwubero futu kəlanzaro misal kolzəna. Adəga misallo:
 
-| Adə badiyaramro | Adə jarabne |
+| Adə badiro | Adə jarabne |
 | --- | --- |
-| «Bune ro abi raamma?» | «Buni ra ngudu raamma wa?» |
-| «Futu karəngənəmma?» | «Kəmbu namma wa?» |
-| «Kana namm wa?» | «Bune dəga minti uwu lan dazənyi.» |
-| «Adə futu kədin ba.» | «Futu adəbe jarabne.» |
-| «Kəletəm bərəmbero ledəna dəga taktəna wa?» | «Kəletəm bərəmbero ledəna dəga hangal gənəkəna. Awo raamma dəga wulsəgəne.» |
-| «Waltə nyiro gulgəkənadə.» | Kənzəbero waltə jaawu yine, kəlma ngəla-a ro. |
+| "Kəskelan awi raamma?" | "Buni aw kuwu raamma wa?" |
+| "Futu fanzəmi?" | "Kəmbu fanzəmi wa?" |
+| "Kana nəmma wa?" | "Kəskedə minti uwuro dabbargata." |
+| "Adəga futu cidinba." | "Futu adəga jarabne." |
+| "Bal balumdəyero letəmadə taktənəmi wa?" | "Bal balumdəyero letəmadəro hangal dikki. Awi raamma wulgəne." |
+| "Nyi gulnjagəna." | Kərmai-a, fal burwoyen, kəlanzana futu burwoyen. |
 
-## Futu ngəlaro kərəngəkki?
+## Futu kəla ngəla fanəkki?
 
-Kəlma-a bas gənanyi, maana-a kuru karəgənzə-a fanne.
+Kəliwu-a kuru karǝgənzə-a rui, kəliwudə bas bawo.
 
-- **Kətəne.** Cidawa ngəwuro sa hangaltəbe. Kamanzəro kawu sawu mewu kuroro isne.
-- **Shi cidazənama bas kəlma fal banazəne.** Family Caregiver Alliance kam fal cidajinma kəlma falro banazəgə ngəla wuljana.
-- **Awo fanəmma tawattəgəne.** [Futube mana kəltəbe Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) maana mana cinzəben dəga matəro kuru asutəro waltə wulgəne shawari cina. «Mota dəga hangalnəmbo wa?»
-- **Fəddu fuskabe-a kəli tilabe-a rui.** Mana-a cidajinma, NIA wuljin gai, fəddu fuskabe-a karəgənzə kaziyi, gargam bi wahala-a kəlma-a kozəna bayanna ro fəlezayin.
-- **Hangalnzə-a jire lan gone.** Hangal dəga awo kalkal lan dagai yaye, karəgənzə dəga jirea.
+- **Kəmarsane.** Cidiyan ngəwu so hangal cidiyabe. Isga gənamin kawu mewuro ngone.
+- **Kəliwu banane, shi tawadənaro asutəna maa bas.** Family Caregiver Alliance ye kamudə hangalnzə tawadənaro kəliwu banazə banzayin wulzəna.
+- **Awi fanəmma-a tabbatəne.** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) ye kəliwunzəyen maana asutəro kuru asutəmma-a wultə tabbatəro shawari kolzəna. "Mota-a ro hangalnəm tawadəna wa?"
+- **Fǝkəranzə-a kəliwu tǝlinzə-a rui.** Mana cididə kəskashiro, NIA ye fǝkəranzədə kərtə, gərga aw təlashidəga kəliwulan ngəwuro fəletəyin wulzəna.
+- **Karǝgənzə-a jirelan gone.** Karǝgənzədə awo kalkallo lan ishin yaye, karǝgənzədə jire.
 
-## Shi awo jire gənayi guljiya?
+## Awi jirea bawo manajinro?
 
-Kəlaanzənyi. Nandiro nasaramm gənanyi, kuru kam dəga nangaro bi rijaptə cizayin. Adə badiyaramro, karəgənzə-a asune, ngawo dəga hangalzə faltəne.
+Kəlio wuljinba. Nasartə raamma ba, kuru kamudə nankaro aw rijiro walzəyin. Na adəyen, karǝgənzə-a asutəne, ngawo banzayiro faltəgəne.
 
-Family Caregiver Alliance karəgənzə-a kasaddu asune, ngawo dəga hangalnzə-a faltəro shawari cina. Misallo, yaana nyibe duli makkaranta-a ro nduli mataro manajiya:
+Family Caregiver Alliance ye karǝgənzədədəga amartəne kuru ngawo faltəgəro shawari kolzəna. Misallo, yanəm duli makurzəro lezəro kəla dio maa:
 
-- Adə badiyaramro: «Yaa, nduli nyibe kurara. Adə saa fuwurwu kozəna.»
-- Adə jarabne: «Sandi ya ngəla-a ro nəm. Futu sandi-a matəmma wulsəgəne. Burwon awo laa bwiye wa?»
+- Adə badiro: "Ya, ndulində kurazəna. Adə saa fiwudi kawu."
+- Adə jarabne: "Saa sulin yanyi ya ngəla. Sandia mowo letəmadə-a wulsəgəne. Buro awo laa bwiye wa?"
 
-Alzheimer's Association ye awo kasaddumbawo-a kəlaanzənyi ro shawari cina. Loktu ngəla-a carne: awo kalkal dəga kambo banajin ba ma, kolne.
+Alzheimer's Association ye kəlanzəgənəmba awo-alan kəlioro wuljinba-a ye shawari kolzəna. Loktu dəga karne: awo kalkallo manajinma banzayiro, kolləne.
 
-## Futu mana kəltəbe dementia-a kərmaadə kozəna-a ro faltəjin?
+## Futu mana cididə dementia ngawo cizəyinlan faltəjin?
 
-Kərmaadə sa-a faltəjin, adə nankaro futu nəm dəga ye faltəne. Alzheimer's Association kərmaadə kura yasku bayanna cina:
+Kərma-a loktulan faltəjin, adəro futu cidinəmma-a ye faltəgəne. Alzheimer's Association ye kərma-a yasku kura-a bayanzəna:
 
-| Kərmaadə | Awo faidajin |
+| Kərma | Awi banzajin |
 | --- | --- |
-| Burwobe | Shi mana kədin ba gənanyi. Mana-a ro kəlzgəne, shiro kallallo manane, banatəgə afi kəraajinma kəlaa korone, kuru ngəla ma kəli ngalwo faidatəne. |
-| Dawube | Na cidawa lan kam fal-a kam fal-a ro mana. Gana-gana manane, kəlaa rui, koro aa-a'aaye-a faidatəne, abu kədəbe-a kənashimro kənashimro wulne, kuru ngalwotənyi bi tənzənyi. |
-| Daryebe | Fuwunzəyin ro isne kuru wuni wuma gulne. Musko kuru alamaram-a faidatəro hangal yine. Musko, kowo, awo ruibe, awo fanobe kuru kənzabe-a faidatəne. Kam dəga na dəga bawo manajin gairo manazənyi. |
+| Burwoye | Shi mana cidiro kənzambunno tǝmaine ba. Mana cidiyaben gaane, shi-a rokko manane, banzaye jiri fi raana-a koro, kuru adə faidajin maa, dari-a ye faidatəne. |
+| Dawuye | Na cidiyan fǝlezanalan kam fal-a kam fal-a rokko mana cidine. Kəlanzana lan manane, shimnzə ye kəmarsane, "aa" aw "a'a" suwal faidatəne, awo-a kəla kəlaro wulne, kuru fasaltəginba aw koro cidinba. |
+| Daryeye | Fuwunzəyen nanəne kuru wundu nəmmi-a wulne. Alama-a kəliwu tǝli-a faidatəro shawari kolne. Kəliwua, kəla suronzə, kəlio, ruwo-a kuru kənza-a faidatəne. Shi na-a nəmzəninba ye manajinba. |
 
-Kam nduso gadegade, kuru kam tilo ye kawu ngəla-a kawu wahala-a mbeji. Shi-a futu kərmaadə ro gənanyi, kərmaadə karma sadinma ro hangal ganane.
+Kam ndasoye gade, kuru kam fal ye yim ngəla-a kəskasha-a cizəyin. Futu kərma yim adəben nəmzənadəro jaawu kolne, suro bas bawo.
 
-## Foto-a awo kəltəbe-a mana-a cidaro cizayin wa?
+## Foto-a awo cidibe-a mana cididəga kəlanzayin wa?
 
-Aa. Foto kəltəbe-a wahala-a fulujin kuru nando-a sammaa awo rui kuru musko yiktəbe-a cin.
+Aa. Foto falla ruidə təlashidəga gana cidin kuru awo falla-a ruiye alama kolnaye banajin.
 
-- **Foto koro-be.** [Conversation Cards](/games/conversation-cards/) foto-a kuru koro ngəwu-a, koro kənzanyi ma, cina.
-- **Foto yalwabe.** [Photo Pairs](/games/photo-pairs/) foto karənəmma-a awo kəltəbe cidawa ro faltəjin, ngəwuro labar ngəla-a kənzəgəro badiyaram.
-- **Mana ngəla asənama.** [Finish the Saying](/games/finish-the-saying/) mana ngəla asənama-a faidatəjin, ngawo dəga mana baditəbero hangal cin.
-- **Awo kəltəbe sammaa.** [Picture Pairs](/games/picture-pairs/) mana kəndobe lan musko nəmbe-a ro awo cina.
+- **Foto mana cidibero.** [Conversation Cards](/games/conversation-cards/) ye foto-a suwal fəlezana-a koro ba-a kurnoyin.
+- **Yalla foto-a.** [Photo Pairs](/games/photo-pairs/) ye foto karŋəmma-a bəri matabe kəlanzana ro faltəgin, ngəwu so labar-a culuwo koljin.
+- **Mana asutəna.** [Finish the Saying](/games/finish-the-saying/) ye mana asutəna Amərikabe faidatəjin, ngawo shawari mana cidibe ishin.
+- **Bəri cidibe mana cidiyaben.** [Picture Pairs](/games/picture-pairs/) ye muskonəmro awo cidibe kolzəna sa mana cidinma.
 
-Kuru bayanna ro, [futu awo kəltəbe kəltəbe](/caregiving/how-to-play-together/) kuru [awo kəltəbe taktəgəbe](/activities/reminiscence/) rui. Letə-a kuru bowotə-a ro, futubemmaye [letə](/activities/visiting/) kuru [waya-a vidiyo-a lan mana](/activities/phone-and-video-calls/) rui.
+Kuru manaro [futu bəri cidibe falla cidin](/caregiving/how-to-play-together/) kuru [awo taktəbe cidibe](/activities/reminiscence/) rui. Ziyarabe-a bowotəbe-a manaro, shawarinande [ziyarabe](/activities/visiting/) kuru [waya-a video-a bowotəbe](/activities/phone-and-video-calls/) rui.
 
-## Hangalni cidazənyi ma, abi dikki?
+Kam tǝlam nduli manajinma, [tǝlam gadegaden mana cidibe-alan shawarinande](/caregiving/language-and-dementia-communication/) rui.
 
-Adə wundumaro yaye cizayin. NIA hangalnəm cidazəna ma, loktu gana kambe kəlanzəro shawari cina. Nzəkko gadero lene, yintə gana-gana yane, kuru hangalnəm cidajiyama waltəne. Mana-a waltə badinəmma, kuru kam dəga hangalnəm cidawa-a ro jaawu cinmai. Hangal cidazəna dəga sawisoro waljiya, adəye banatəgə kura nyiro kərmaa, nəmgaltenəmma gənanyi. [Futube kəlanzə kam ngəla rostəbe](/caregiving/caregiver-self-care/) na banatəgə matəbe-a fəlejin.
+## Hangalni faccənaro awi dikki?
+
+Adə am ndasoson wakkajin. NIA ye hangalnəm faccənaro saa ganaro hangalnəm kəlanzaro shawari kolzəna. Njim gadero lewone, yintə kəlanzana lan yinte, kuru hangalnəm ishidəro waltəne. Mana cididəga falfal badizəmmi, kuru kamudə kəlanəm cidiyan dəro jaawu kolzəyin. Hangal faccidə kuli sulin walyeno maa, adə banzaye kura-a maajin, tǝlammi ba. Shawarinande [kǝla kǝlanzǝbe](/caregiving/caregiver-self-care/) lan na banzaye mata-a mbeji.

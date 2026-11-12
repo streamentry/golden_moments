@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Founga Talanoa mo ha Tokotaha ʻoku Fakangaloku hono ʻAtamai"
+seoTitle: "Founga Talanoa ʻi he Fakangaloku ʻo e ʻAtamai"
+description: "Ngaahi founga ʻaonga ke talanoa ai mo ha tokotaha ʻoku moʻui mo e fakangaloku ʻo e ʻatamai: founga teuteu, meʻa ke leaʻaki, mo e founga fanongo."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Talanoa ʻi ha feituʻu lōngonoa, hanga tonu ki he tokotaha, ngāueʻaki hono
+  hingoa, pea lea māmālie ʻaki ʻa e ngaahi sētesi nounou mo faingofua. ʻEke
+  ha fehuʻi ʻe taha ʻi he taimi, ʻoange ha fili ʻe ua kae ʻikai ko e ngaahi
+  fehuʻi ʻatā, pea tatali ʻo fuoloa ange ʻi he meʻa ʻokú ke anga ki ai. ʻOua
+  naʻá ke fakakikihi, fakatonutonu pe ʻeke fakaʻahiʻahi. Tali ki he ongo ʻoku
+  ʻi mui ʻi heʻene ngaahi lea, pea ngāueʻaki ʻa e ala ki ai, ngaahi fakatātā mo
+  e ngaahi fakaʻilonga ʻi he faingataʻa ange ʻa e lea.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Toʻo ʻa e longoa pea maʻu ʻa e sio tonu ki hono mata ki muʻa ke ke kamata talanoa."
+  - "Ngāueʻaki ʻa e ngaahi sētesi nounou, fakakaukau ʻe taha ʻi he taimi, pea ngāueʻaki ʻa e ngaahi hingoa kae ʻikai ko ia pe kinautolu."
+  - "ʻOange ha fili ʻe ua, pe ko ha fehuʻi ʻio pe ʻikai, kae ʻikai ko e ngaahi fehuʻi ʻatā."
+  - "Tatali ki ha tali. Kapau ʻoku ʻikai mahino ia, toe leaʻaki ʻa e ngaahi lea tatau, pea toki feingaʻaki ha ngaahi lea foʻou."
+  - "ʻOua naʻá ke fakakikihi pe fakatonutonu. Tali ki he ongo ʻoku ʻi mui ʻi he meʻa ʻokú ne leaʻaki."
+  - "ʻI he holo ʻa e ngaahi lea, fetuʻutaki ʻaki ʻa e ala ki ai, ongo ʻo e leʻo, sio ʻa e mata mo e ngaahi fakatātā ʻoku mou siofi fakataha."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ko e hā ʻa e meʻa ʻoku ʻikai totonu ke leaʻaki ki ha tokotaha ʻoku moʻui mo e fakangaloku ʻo e ʻatamai?"
+    a: "Fakaʻehiʻehi mei he ʻeke fakaʻahiʻahi (“ʻOkú ke manatuʻi...?”), fakatonutonu (“ʻOku hala ia”), fakamanatu ange ʻa e ngaahi mole (“Kuó u tala atu kiate koe”), mo e talanoa fekauʻaki mo ia ʻo hangē ʻoku ʻikai te ne ʻi aí. Fakaʻehiʻehi mei he lea hangē ha kiʻí tamasiʻí. Ko e ngaahi meʻá ni ʻoku faʻa fakatupu mā pe loto mamahi kae ʻikai tokoni."
+  - q: "ʻOku totonu ke u fakatonutonu ia ʻi he taimi ʻoku hala ai ha meʻa ʻokú ne leaʻaki?"
+    a: "ʻI he taimi lahi, ʻikai. Kapau ʻoku ʻikai fakatupu maumau ʻa e meʻa hala ko iá, tuku pē ia. ʻOku tātātaha pē ke liliu ʻe he fakakikihi ʻa e fakakaukau ʻa e tokotahá pea ʻoku faʻa ʻai ia ke ne loto mamahi. Tokangataha ki heʻene ongoʻí mo e meʻa ʻokú ne fiemaʻu he taimí ni."
+  - q: "Ko e hā ʻeku meʻa ke fai ʻi he taimi ʻoku ʻikai lava ai ke ne maʻu ha lea?"
+    a: "ʻUluakí, ʻoange kiate ia ha taimi. Kapau ʻoku hā mahino ʻokú ne faingataʻaʻia, ʻoku sai pē ke ke tokoni māmālie ʻaki ha lea pe mateʻi ʻa e meʻa ʻokú ne ʻuhinga ki aí pea vakaiʻi pe ʻoku tonu. ʻE toe tokoni foki ʻa e tuhu, ngaahi fakaʻilonga mo e ngaahi fakatātā."
+  - q: "ʻE fēfē haʻaku talanoa mo ha tokotaha ʻi he tuʻunga mamafa ʻo e fakangaloku ʻo e ʻatamai ʻa ia ʻoku tātātaha ʻene lea?"
+    a: "ʻAlu atu mei muʻa, tala ange pe ko hai koe, pea ngāueʻaki ha leʻo nonga mo ha ala māmālie kiate ia. Siofi ʻa e mata mo e ngaahi fakaʻilonga ʻa e sinó ke mahino ʻa e ngaahi ongo. Ko hoʻo ʻi aí, ko ha hiva anga-maheni pe ko e puke nima ʻe lava ke ne fakahaaʻi ha meʻa lahi ʻo tatau ai pē pe ʻoku ʻikai ha lea."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+ʻE lava ke ʻai ʻe he fakangaloku ʻo e ʻatamai ke faingataʻa ange ʻa e kumi lea, muimui ki ha sētesi lōloa, pe taʻofi ʻa e longoa takatakai. ʻOku ʻikai ʻuhinga eni kuo tuku ʻe he tokotahá ʻene holi ke fehokotaki. Ko e ngaahi liliu iiki ʻi he founga ʻokú ke teuteu ai ha talanoa, founga hoʻo leá mo e founga hoʻo fanongó ʻe lava ke ne ʻai ʻa e talanoá ke faingofua ange mo nonga ange kiate kimoua fakatouʻosi.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ko e hā ʻa e ngaahi founga mahuʻinga taha ki he talanoa mo ha tokotaha ʻoku moʻui mo e fakangaloku ʻo e ʻatamai?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Maʻu ʻene tokangá, tauhi ke faingofua, pea kātaki. Kapau te ke manatuʻi pē ha meʻa ʻe nima:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **ʻAi ke lōngonoa ʻa e lokí pea hanga tonu kiate ia.** Tāmateʻi ʻa e TV, tangutu ʻi he tuʻunga tatau mo hono matá, pea ngāueʻaki hono hingoa.
+2. **Leaʻaki ha meʻa ʻe taha ʻi he taimi.** Ngaahi sētesi nounou, fakakaukau ʻe taha, fehuʻi ʻe taha.
+3. **ʻOange ha fili ʻe ua.** ʻOku faingofua ange ʻa e “Tī pe kofe?” ʻi he “Ko e hā ʻokú ke fie inú?”
+4. **Tatali.** ʻOange ha taimi lahi ange ke tali ai ʻi he meʻa ʻokú ke anga ki aí, pea feinga ke ʻoua ʻe motuhi ʻene leá.
+5. **ʻOua ʻaupito ʻe fakakikihi pe ʻeke fakaʻahiʻahi.** Tali ki he founga ʻene ongoʻí, ʻo ʻikai ki he pe ʻoku tonu ʻa e ngaahi meʻá.
 
-## How should I start a conversation?
+## ʻE fēfē haʻaku kamata ha talanoa?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Teuteu ʻa e ngaahi meʻá koeʻuhí ke lava ʻe he tokotahá ʻo tokangataha kiate koe. ʻOku fokotuʻu mai ʻe he [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ke fakasiʻisiʻi muʻa ʻa e longoa: tāmateʻi ʻa e letioó pe TV, tāpuni ʻa e puipuí pe matapaá, pe hiki ki ha feituʻu lōngonoa ange.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **ʻAlu atu mei muʻa.** Ko e ʻalu atu mei mui pe tafaʻakí ʻe lava ke ne ʻohovaleʻi ia.
+- **Tala ange pe ko hai koe.** “Mālō e lelei Tamai, ko Sela au, ko ho ʻofefiné.” ʻOku tokoni eni ke ʻoua te ne fāinga ke kumi ho hingoá.
+- **ʻAlu hifo ki hono tuʻungá.** Kapau ʻokú ne tangutu, tangutu pe tūʻulutui koeʻuhí ke tuʻu taha homou matá.
+- **Vakaiʻi ho fofongá mo e ongo ʻo ho leʻó.** ʻOku faleʻi ʻe he [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ke tokanga ki he ongo ʻo ho leʻó, leʻo-lahí, sio ʻa e matá mo e ngaahi fakaʻilonga ʻa e sinó, pea feinga ke anga-māfana mo anga-maheni.
+- **Vakaiʻi pe ʻoku tui ʻene matasioʻatá mo e meʻa fanongó.** ʻOku faingataʻa ke muimui ki ha talanoa ʻoku ʻikai lava ke sio pe fanongo kakato ki ai.
 
-## How should I phrase what I say?
+## ʻE fēfē haʻaku fakalea ʻa e meʻa ʻoku ou leaʻakí?
 
-Use simple words, short sentences and a calm, low voice.
+Ngāueʻaki ʻa e ngaahi lea faingofua, ngaahi sētesi nounou mo ha leʻo nonga mo māʻulalo.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Fakakaukau ʻe taha ʻi he sētesi takitaha.** “Tau tui ho kōtí. Pea te tau ʻalu ki tuʻa.” ʻOua ʻe leaʻaki fakataha ʻi he mānava pē ʻe taha.
+- **Ngāueʻaki ʻa e ngaahi hingoa, ʻikai ko e fetongi hingoa.** ʻOku mahino ange ʻa e “Naʻe telefoni mai ʻa Fineʻeiki Sēini” ʻi he “Naʻá ne telefoni mai.”
+- **Fakaleʻo māʻulalo, ʻo ʻikai leʻo-lahi ange.** ʻOku fokotuʻu mai ʻe he Family Caregiver Alliance ha leʻo māʻulalo ange kae ʻikai ko ha leʻo māʻolunga ange.
+- **Toe leaʻaki, pea toki liliu ʻa e lea.** Kapau naʻe ʻikai mahino ia, toe leaʻaki tuʻo taha ʻa e ngaahi lea tatau. Kapau ʻoku ʻikai kei ola, tatali siʻi pea feingaʻaki ha ngaahi lea kehe.
+- **Fakaʻaliʻali pea mo tala.** Tuhu ki he ipú, hiki hake ʻa e ongo sitā ko iá, pe fakaʻaliʻali ʻa e ʻuluaki sitepú.
+- **Talanoa kiate ia, ʻo ʻikai fekauʻaki mo ia.** ʻOku fakatokanga ʻa e NIA ke ʻoua ʻe talanoa fekauʻaki mo e tokotahá ʻo hangē ʻoku ʻikai te ne ʻi aí, pea ʻoua ʻe ngāueʻaki ʻa e “lea hangē ha kiʻí tamasiʻí”.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+ʻOku fokotuʻu mai ʻe he NIA ha ngaahi founga faingofua ange ki he ngaahi fehuʻi anga-maheni. Ko e ngaahi fakatātā eni ʻi he founga ko iá:
 
-| Instead of | Try |
+| ʻI he ʻikai ko e | Feingaʻaki ʻeni |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “Ko e hā ʻokú ke fie kai efiafí?” | “ʻOkú ke fie kai ika pe moá?” |
+| “ʻOku fēfē hoʻo ongoʻí?” | “ʻOkú ke ongoʻi helaʻia?” |
+| “ʻOkú ke fiekaia?” | “ʻE mateuteu ʻa e kai efiafí ʻi he miniti ʻe nima.” |
+| “ʻOku ʻikai ko e founga ia hono faí.” | “Tau feinga ʻi he founga ko ení.” |
+| “ʻOkú ke manatuʻi ʻetau fononga ki he anovaí?” | “Naʻá ku fakakaukau ki heʻetau fononga ki he anovaí. Tala mai ʻa e meʻa naʻá ke saiʻia aí.” |
+| “Kuó u ʻosi tala atu kiate koe.” | Tali ange ʻi he anga-lelei, ʻo hangē ko e ʻuluaki taimí pē ia. |
 
-## How do I listen well?
+## ʻE fēfē haʻaku fanongo lelei?
 
-Listen for the meaning and the feeling, not just the words.
+Fanongo ki he ʻuhingá mo e ongoʻí, ʻo ʻikai ki he ngaahi leá pē.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Tatali.** Ko e lōngoá ʻoku faʻa ko e taimi ia ki he fakakaukau. Lau māmālie ki he hongofulu ki muʻa ke ke kau atu.
+- **ʻOange ha lea pē kapau ʻoku tuʻu.** ʻOku pehē ʻe he Family Caregiver Alliance ʻoku sai pē ke fokotuʻu atu ha ngaahi lea ʻi he taimi ʻoku faingataʻaʻia ai ha tokotaha.
+- **Vakaiʻi ʻa e meʻa naʻá ke fanongo ki aí.** ʻOku fokotuʻu mai ʻe he [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) ke kumi ki he ʻuhinga ʻoku ʻi mui ʻi heʻene ngaahi leá pea toe leaʻaki ia ke vakaiʻi pe naʻá ke mahinoʻi. “ʻOkú ke hohaʻa fekauʻaki mo e meʻalelé?”
+- **Siofi hono fofongá mo hono sinó.** ʻI he faingataʻa ange ʻa e leá, ʻoku fakamatala ʻa e NIA, ʻe lava ke fakahaaʻi mahino ange ʻe he sio ʻa e matá ʻa e mamahi, ʻita pe loto mamahi ʻi he ngaahi leá.
+- **Fai ha tokanga moʻoni ki heʻene ngaahi hohaʻá.** Neongo kapau ʻoku makatuʻunga ha hohaʻa ʻi ha meʻa ʻoku hala, ʻoku moʻoni pē ʻa e ongo ko iá.
 
-## What if they say something that is not true?
+## Fēfē kapau te ne leaʻaki ha meʻa ʻoku ʻikai moʻoni?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+ʻOua naʻá ke fakakikihi. ʻOku tātātaha pē ke ke ikuna, pea ʻe iku nai ʻa e tokotahá ʻo ongoʻi mā pe manavahē. ʻI hono kehé, fehokotaki ki he ongo ko iá, pea toki hiki māmālie atu.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+ʻOku fokotuʻu mai ʻe he Family Caregiver Alliance ke tali ʻa e ongo ko iá ki muʻa ke ke tataki māmālie ʻa e talanoá ki ha meʻa kehe. Ko e fakatātaá, kapau ʻoku vilitaki hoʻo faʻeé kuo pau ke ne ʻalu ʻo ʻohake ʻa e fānaú mei he akó:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- ʻI he ʻikai ko e: “Faʻē, kuo lalahi hoʻo fānaú. Ko e taʻu ia ʻe fāngofulu kuo maliu atú.”
+- Feingaʻaki ʻeni: “Naʻá ke faʻē tokanga moʻoni maʻu pē. Tala mai fekauʻaki mo hoʻo ʻalu ʻo ʻohake kinautolu. Te ta kai kiʻi meʻakai siʻi muʻa?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+ʻOku toe faleʻi ʻe he Alzheimer's Association ke ʻoua ʻe fakakikihi ʻi he ngaahi lea ʻoku ʻikai te ke loto-tatau mo ia. Fili ʻa e taimi totonu: kapau ʻoku ʻikai fakatupu maumau ha tui hala, tuku pē ia ke pehē.
 
-## How does communication change as dementia progresses?
+## ʻOku liliu fēfē ʻa e fetuʻutakí ʻi he fakalakalaka ʻa e fakangaloku ʻo e ʻatamai?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+ʻOku liliu ʻa e ngaahi fiemaʻú ʻi he faai mai ʻa e taimí, ko ia ʻai ke feʻunga hoʻo foungá. ʻOku fakamatala ʻa e Alzheimer's Association ki ha ngaahi tuʻunga lahi ʻe tolu:
 
-| Stage | What helps |
+| Tuʻunga | Meʻa ʻoku tokoni |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Kamata | ʻOua ʻe pehē ʻoku ʻikai ke ne lava ʻo fetuʻutaki. Fakakau ia ʻi he ngaahi talanoa, talanoa hangatonu kiate ia, ʻeke pe ko e hā ʻa e tokoni ʻokú ne fie maʻu, pea ngāueʻaki ʻa e fakamatalá kapau ʻoku tokoni. |
+| Lotoloto | Ngaahi talanoa toko taha pē ʻi ha feituʻu lōngonoa. Lea māmālie, tauhi ʻa e sio tonu ki hono mata, ngāueʻaki ʻa e ngaahi fehuʻi ʻio pe ʻikai, ʻoange ʻa e ngaahi fakahinohino sitepu ki he sitepu, pea ʻoua ʻe fakaanga pe fakatonutonu. |
+| Tuʻunga mamafa | ʻAlu atu mei muʻa pea tala ange pe ko hai koe. Fakalototoʻaʻi ʻa e tuhu mo e ngaahi fakaʻilonga. Ngāueʻaki ʻa e ala ki ai, ngaahi ongo, ngaahi meʻa ʻoku sio ki ai mo e ngaahi nanamu. ʻOua ʻaupito ʻe talanoa ʻo hangē ʻoku ʻikai te ne ʻi aí. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+ʻOku kehekehe ʻa e tokotaha takitaha, pea ʻe lava ke ʻi ai ha ngaahi ʻaho lelei mo e ngaahi ʻaho faingataʻa ki he tokotaha tatau. Tali ki he tuʻunga ʻokú ne ʻi ai he taimí ni, ʻo ʻikai ki ha hingoa pe fakakalasi.
 
-## Can pictures and activities make conversation easier?
+## ʻE lava ke tokoni ʻa e ngaahi fakatātā mo e ngaahi ngāue ke faingofua ange ʻa e talanoá?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+ʻIo. Ko ha fakatātā ʻoku mou siofi fakataha ʻoku ne toʻo ʻa e tenge mei he talanoá pea ʻoange ha meʻa ke mou sio mo tuhu ki ai.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ngaahi fakatātā ke kamata ha talanoa.** ʻOku ʻoatu ʻe he [Conversation Cards](/games/conversation-cards/) ʻa e ngaahi fakatātā mo e ngaahi fehuʻi ʻatā ʻoku ʻikai ʻeke fakaʻahiʻahi.
+- **Ngaahi fakatātā fakafāmili.** ʻOku liliu ʻe he [Photo Pairs](/games/photo-pairs/) ʻa e ngaahi fakatātā ʻokú ke filí ki ha vaʻinga fehoanaki māmālie, ʻa ia ʻoku faʻa ueʻi ai ha ngaahi talanoa.
+- **Ngaahi lea ʻiloa.** ʻOku ngāueʻaki ʻe he [Finish the Saying](/games/finish-the-saying/) ʻa e ngaahi lea ʻiloa ʻi ʻAmelika, pea hoko ai ha fehuʻi ke talanoa ai.
+- **Ngaahi vaʻinga fehoanaki ke fai lolotonga ʻa e talanoa.** ʻOku ʻoange ʻe he [Picture Pairs](/games/picture-pairs/) ha meʻa ke fai ʻe homou nimá lolotonga hoʻomou talanoá.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Sio ki he [founga ke vaʻinga fakataha ai](/caregiving/how-to-play-together/) mo e [ngaahi ngāue fakamanatu](/activities/reminiscence/) ki ha toe fakamatala lahi ange. Ki he ngaahi ʻaʻahi mo e ngaahi telefoni, lau ʻemau ngaahi fakahinohino ki he [ʻaʻahi](/activities/visiting/) mo e [ngaahi telefoni mo e talanoa vitioó](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ki ha tokotaha ʻoku lea ʻi he ngaahi lea lahi, sio ki heʻemau [fakahinohino ki he fetuʻutaki ʻi he ngaahi lea kehekehe](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Fēfē kapau ʻe mole ʻeku kātakí?
+
+ʻOku hoko ia ki he tokotaha kotoa. ʻOku fokotuʻu mai ʻe he NIA kapau te ke ongoʻi ʻita, ke ke kiʻi mālōlō ke nonga hifo. ʻAlu ki ha loki kehe, mānava māmālie tuʻo lahi, pea foki mai ʻi he taimi ʻokú ke lava aí. ʻE lava maʻu pē ke ke toe kamata ʻa e talanoá, pea ʻe ngalingali ange ke tali lelei ʻa e tokotahá ki ho ongo nonga angé. Kapau ʻoku hoko maʻu pē ʻa e loto ʻitá, ko ha fakaʻilonga ia ʻokú ke fiemaʻu ha tokoni lahi ange, ʻo ʻikai ko haʻane ʻuhinga kuo ʻikai te ke lavameʻa. ʻOku ʻi ai ʻi heʻemau fakahinohino ki he [tokanga ki he tokotaha tokangaʻí](/caregiving/caregiver-self-care/) ha ngaahi feituʻu ke maʻu ai ha tokoni.

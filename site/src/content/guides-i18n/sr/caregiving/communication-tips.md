@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Saveti za razgovor sa osobom koja živi sa demencijom"
+seoTitle: "Razgovor pri demenciji: šta reći, a šta izbeći"
+description: "Praktični saveti za razgovor sa osobom koja živi sa demencijom: kako da se pripremite, šta da kažete umesto ispitivanja ili ispravljanja i kako da slušate."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Razgovarajte na mirnom mestu, okrenite se prema osobi, oslovite je imenom i
+  govorite polako, kratkim i jednostavnim rečenicama. Postavljajte jedno
+  pitanje u isto vreme, ponudite dva izbora umesto otvorenih pitanja i sačekajte
+  duže nego što vam se čini prirodnim. Nemojte se raspravljati, ispravljati ili
+  ispitivati. Odgovarajte na osećanje iza reči, a kako govor postaje teži,
+  koristite dodir, slike i pokrete.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Utišajte buku u okolini i uspostavite kontakt očima pre nego što počnete da govorite."
+  - "Koristite kratke rečenice, jednu misao u isto vreme i imena umesto „on“, „ona“ ili „oni“."
+  - "Ponudite izbor između dve mogućnosti ili pitanje na koje se odgovara sa „da“ ili „ne“, umesto otvorenih pitanja."
+  - "Sačekajte odgovor. Ako vas ne razumeju, ponovite iste reči, a zatim pokušajte drugačije."
+  - "Nemojte se raspravljati niti ispravljati. Odgovarajte na osećanje iza onoga što kažu."
+  - "Kako reči postaju sve teže, komunicirajte dodirom, tonom glasa, izrazom lica i zajedničkim gledanjem slika."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Šta ne treba reći osobi koja živi sa demencijom?"
+    a: "Izbegavajte ispitivanje („Sećaš li se...?“), ispravljanje („To nije tačno“), podsećanje na gubitke („Već sam ti rekao/la“) i razgovor o osobi kao da nije prisutna. Izbegavajte i govor kao prema detetu. Takve rečenice često izazivaju neprijatnost ili uznemirenost, a retko pomažu."
+  - q: "Da li treba da ispravljam osobu kada pogreši u činjenicama?"
+    a: "Obično ne. Ako je pogrešna činjenica bezazlena, bolje je da je pređete. Rasprava retko menja mišljenje osobe, a često je uznemiri. Usredsredite se na to kako se oseća i šta joj je sada potrebno."
+  - q: "Šta da radim kada osoba ne može da se seti prave reči?"
+    a: "Prvo joj dajte vremena. Ako vidite da se zaista muči, u redu je da nežno ponudite reč ili pogodite šta želi da kaže i proverite. Pokazivanje, pokreti i slike takođe mogu pomoći."
+  - q: "Kako da razgovaram sa osobom u kasnijoj fazi demencije koja retko govori?"
+    a: "Prilazite s prednje strane, recite ko ste i koristite miran glas i nežan dodir. Pratite izraz lica i govor tela da biste razumeli osećanja. Vaše prisustvo, poznata pesma ili držanje za ruku mogu mnogo toga preneti i bez reči."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demencija može otežati pronalaženje reči, praćenje duže rečenice ili izdvajanje glasa iz buke u pozadini. To ne znači da osoba više ne želi da bude u kontaktu sa vama. Male promene u tome kako pripremite razgovor, kako govorite i kako slušate mogu da olakšaju razgovor i učine ga mirnijim za vas oboje.
 
-## What are the most important tips for talking with someone who has dementia?
+## Koji su najvažniji saveti za razgovor sa osobom koja živi sa demencijom?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Privucite pažnju osobe, govorite jednostavno i budite strpljivi. Ako zapamtite samo pet stvari:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Umirite prostoriju i okrenite se prema osobi.** Isključite televizor, sedite u visini očiju i oslovite je imenom.
+2. **Recite jednu stvar u isto vreme.** Kratke rečenice, jedna misao, jedno pitanje.
+3. **Ponudite izbor između dve mogućnosti.** „Čaj ili kafa?“ je lakše od „Šta biste želeli?“
+4. **Sačekajte.** Dajte više vremena za odgovor nego što vam se čini prirodnim i pokušajte da ne prekidate.
+5. **Nemojte se raspravljati niti ispitivati.** Odgovarajte na to kako se osoba oseća, a ne na to da li su činjenice tačne.
 
-## How should I start a conversation?
+## Kako da započnem razgovor?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Pripremite situaciju tako da se osoba može usredsrediti na vas. [Vodič Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) preporučuje da prvo smanjite buku: isključite radio ili televizor, zatvorite zavese ili vrata ili pređite na mirnije mesto.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Prilazite s prednje strane.** Ako dođete otpozadi ili sa strane, osoba se može uplašiti.
+- **Recite ko ste.** „Zdravo, tata, ja sam Sara, tvoja ćerka.“ Tako joj ne morate ostavljati da traži vaše ime.
+- **Spustite se u visini očiju.** Ako osoba sedi, sednite ili kleknite tako da vam oči budu u istoj visini.
+- **Obratite pažnju na izraz lica i ton.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) savetuje da obratite pažnju na ton, jačinu glasa, izraz lica i govor tela i da težite toplom, mirnom načinu govora.
+- **Proverite da li osoba nosi naočare i slušni aparat.** Teško je pratiti razgovor koji ne možete dobro da vidite ili čujete.
 
-## How should I phrase what I say?
+## Kako da oblikujem ono što govorim?
 
-Use simple words, short sentences and a calm, low voice.
+Koristite jednostavne reči, kratke rečenice i miran, tih glas.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Jedna misao po rečenici.** „Hajde da obučemo jaknu. Onda ćemo izaći napolje.“ Umesto da kažete sve odjednom.
+- **Koristite imena, a ne zamenice.** „Zvala je tetka Jeca“ jasnije je od „Ona je zvala.“
+- **Snižavajte ton, ne pojačavajte glas.** Family Caregiver Alliance predlaže tiši, dublji glas umesto povišenog tona.
+- **Ponovite, pa preoblikujte.** Ako vas osoba nije razumela, ponovite iste reči jednom. Ako to ne pomogne, sačekajte trenutak i pokušajte drugačijim rečima.
+- **Pokažite, ne samo recite.** Pokažite šolju, podignite dva džempera ili pokažite prvi korak.
+- **Razgovarajte sa osobom, a ne o njoj.** NIA upozorava da ne treba razgovarati o osobi kao da nije tu, kao ni govoriti kao prema detetu.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA predlaže jednostavnije oblike uobičajenih pitanja. Evo primera u tom duhu:
 
-| Instead of | Try |
+| Umesto | Pokušajte |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „Šta biste želeli za večeru?“ | „Da li biste želeli ribu ili piletinu?“ |
+| „Kako se osećate?“ | „Da li ste umorni?“ |
+| „Da li ste gladni?“ | „Večera će biti spremna za pet minuta.“ |
+| „To se ne radi tako.“ | „Hajde da probamo ovako.“ |
+| „Sećaš li se našeg izleta na jezero?“ | „Setio/la sam se našeg izleta na jezero. Reci mi šta ti se svidelo.“ |
+| „Već sam ti rekao/la.“ | Odgovorite ponovo, ljubazno, kao da je prvi put. |
 
-## How do I listen well?
+## Kako da pažljivo slušam?
 
-Listen for the meaning and the feeling, not just the words.
+Slušajte značenje i osećanje, ne samo reči.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Sačekajte.** Tišina je često vreme za razmišljanje. Polako brojite do deset pre nego što se uključite.
+- **Ponudite reč samo ako se osoba zaglavila.** Family Caregiver Alliance navodi da je u redu predložiti reč kada se neko muči.
+- **Proverite šta ste čuli.** [Vodič Alzheimer’s Association za komunikaciju](https://www.alz.org/help-support/caregiving/daily-care/communications) predlaže da potražite značenje iza reči i da ga ponovite svojim rečima kako biste proverili da li ste razumeli. „Brinete zbog automobila?“
+- **Pratite izraz lica i govor tela.** Kako govor postaje teži, NIA napominje da izraz lica može jasnije pokazati tugu, ljutnju ili uznemirenost od samih reči.
+- **Shvatite zabrinutosti ozbiljno.** Čak i ako je briga zasnovana na pogrešnoj činjenici, osećanje je stvarno.
 
-## What if they say something that is not true?
+## Šta ako osoba kaže nešto što nije tačno?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Nemojte ulaziti u raspravu. Verovatno nećete ništa postići, a osoba se može osećati postiđeno ili uplašeno. Umesto toga, povežite se sa osećanjem, pa nežno pređite na nešto drugo.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance predlaže da prvo priznate osećanje, a zatim preusmerite razgovor. Na primer, ako vaša majka insistira da mora da pokupi decu iz škole:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Umesto: „Mama, deca su ti odrasla. To je bilo pre četrdeset godina.“
+- Pokušajte: „Uvek si bila tako brižna majka. Reci mi kako ste išli po njih. Da li želiš da prvo nešto prezalogajimo?“
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association takođe savetuje da se ne raspravljate oko izjava sa kojima se ne slažete. Birajte trenutke: ako je pogrešno uverenje bezazleno, možete ga pustiti.
 
-## How does communication change as dementia progresses?
+## Kako se komunikacija menja kako demencija napreduje?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Potrebe se menjaju tokom vremena, pa prilagodite i svoj pristup. Alzheimer’s Association opisuje tri šire faze:
 
-| Stage | What helps |
+| Faza | Šta pomaže |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Rana | Nemojte pretpostaviti da osoba ne može da komunicira. Uključite je u razgovore, obraćajte joj se direktno, pitajte kakvu podršku želi i koristite humor ako pomaže. |
+| Srednja | Razgovori jedan na jedan na mirnom mestu. Govorite polako, održavajte kontakt očima, postavljajte pitanja na koja se odgovara sa „da“ ili „ne“, dajte uputstva korak po korak i nemojte kritikovati niti ispravljati. |
+| Kasna | Prilazite s prednje strane i recite ko ste. Ohrabrite pokazivanje i pokrete. Koristite dodir, zvuke, prizore i mirise. Nikada ne razgovarajte kao da osoba nije tu. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Svaka osoba je drugačija, a ista osoba može imati i lakše i teže dane. Odgovarajte na to kako je osobi sada, a ne na oznaku ili fazu.
 
-## Can pictures and activities make conversation easier?
+## Da li slike i aktivnosti mogu da olakšaju razgovor?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Da. Zajednička slika smanjuje pritisak i daje vam oboma nešto što možete da gledate i na šta možete da pokažete.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Slike kao podsticaj.** [Conversation Cards](/games/conversation-cards/) nude slike sa otvorenim pitanjima koja nikada ne ispituju.
+- **Porodične fotografije.** [Photo Pairs](/games/photo-pairs/) pretvara fotografije koje izaberete u nežnu igru povezivanja, koja često pokrene priče.
+- **Poznate izreke.** [Finish the Saying](/games/finish-the-saying/) koristi poznate izreke, uz pitanje za razgovor nakon svake.
+- **Igre povezivanja kao osnova.** [Picture Pairs](/games/picture-pairs/) daje vašim rukama nešto da rade dok razgovarate.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Pogledajte [kako da zajedno igrate igre](/caregiving/how-to-play-together/) i [aktivnosti sećanja](/activities/reminiscence/) za još ideja. Za posete i pozive pročitajte naše vodiče za [posete](/activities/visiting/) i [telefonske i video pozive](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ako osoba govori više jezika, pogledajte naš [vodič za komunikaciju na različitim jezicima](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Šta ako izgubim strpljenje?
+
+To se dešava svima. NIA predlaže da, ako postanete frustrirani, odvojite vreme da se smirite. Pređite u drugu sobu, napravite nekoliko sporih udaha i vratite se kada budete mirniji. Uvek možete ponovo započeti razgovor, a osoba može dobro da reaguje na vaše smirenije ponašanje. Ako se frustracija javlja stalno, to je znak da vam je potrebna dodatna podrška, a ne da niste uspeli. Naš vodič za [brigu o sebi za osobe koje pružaju negu](/caregiving/caregiver-self-care/) nudi mesta gde možete potražiti pomoć.

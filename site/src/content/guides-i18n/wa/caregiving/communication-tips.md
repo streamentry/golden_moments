@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Consèy po djåser avou ene sakî ki a l’ demance"
+seoTitle: "Djåser avou ene sakî ki a l’ demance: consèy"
+description: "Consèy pratikes po djåser avou ene persone ki vike avou ene demance: comint aprouster l’ conviersåcion, cwè dire, et comint schoûter."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Djåsoz dins on plaece cwåte, metoz-v' di face, eployîz l’ no del persone, et
+  djåsoz doûçmint avou des côtes, simpes frases. Dimandez ene seule kesse a
+  l’ côp, ofroz deus tchuzes al plaece di kesses drovowes, et ratindoz pus
+  longtimps ki çou k’ vos avoz l’ abitude. Èn n’ ritchessîz nén, èn n’ corejîz
+  nén et èn n’ kessez nén. Rispundoz å sintumint didins çou k’ ele dit, et
+  eployîz l’ totchaedje, des imådjes et des djesses cwand les mots divnèt pus
+  målåjheys a trover.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Oistez l’ brut åtoû et rwaitîz l’ persone dins les îs divant d’ ataker a djåser."
+  - "Eployîz des côtes frases, ene seule idêye a l’ côp, et des nos al plaece di « i », « ele » ou « zels »."
+  - "Ofroz on tchuze inte deus afwaires, ou ene kesse « waye ou nén », al plaece di kesses drovowes."
+  - "Ratindoz ene response. Si on n’ a nén comprins, ripetez les minmes mots, adon-pwis sayîz d’ ôtes mots."
+  - "Èn n’ ritchessîz nén et èn n’ corejîz nén. Rispundoz å sintumint didins çou k’ ele dit."
+  - "Cwand les mots divnèt mons, comuniquez avou l’ totchaedje, l’ ton del vwès, l’ esprission do visadje et des imådjes pårteyes."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Cwè ki n’ fåt nén dire a ene persone ki vike avou ene demance ?"
+    a: "Evitez di kesser po sayî (« Vos r’sovniz-v'… ? »), di corejer (« Ç’ est måva »), di rapinser des piedowes (« Dji l’ a ddja dit ») et di djåser d’ leye come si ele n’ esteut nén la. Evitez ossu l’ lindjådje d’ efant. Çoula pout fé honte ou esse må åjhey, sins vrêmint edî."
+  - q: "Est-c’ ki dji doès corejer cwand ele so trompe so des fwaits ?"
+    a: "D’ asteure, nén. Si l’ erur n’ fwait nén må, leyîz-le coere. Ritchester candjîz rårmint l’ idêye del persone, et çoula l’ pout sovint mete må åjhey. Metoz l’ atincion so çou k’ ele sint et çou k’ ele a dandjî asteure."
+  - q: "Cwè fé cwand ele ni trove nén on mot ?"
+    a: "Dinez-lî d’ abôrd do tins. Si vos veyoz k’ ele a vraimint del paine, vos ploz doûçmint li ofri on mot ou sayî d’ adviner çou k’ ele vout dire et dimander si c’ est çoula. Mostrer avou l’ doet, des djesses ou des imådjes pout ossu edî."
+  - q: "Comint djåser avou ene persone ki a ene demance avåncêye et ki djåse cåzu ?"
+    a: "Aprochîz del costé d’ divant, dijhoz kî vos estoz, et eployîz ene vwès cwåte et on totchaedje doûs. Riwaitîz les visådjes et l’ coir po comprinde les sintumints. Vosse prezince, ene tchanson k’ ele conoxh ou li tni l’ mwin pout dire bråmint sins mots."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Li demance pout rinde pus målåjhey di trover les mots, di shure ene longue frase ou di nén esse distrêt pår l’ brut åtoû. Çoula ni vout nén dire ki l’ persone èn a pus veye di rashirer avou les ôtes. Des ptits candjmints dins l’ manire d’ aprouster ene conviersåcion, di djåser et di schoûter polèt rinde li djåserî pus åjhey et pus cwå po vos deus.
 
-## What are the most important tips for talking with someone who has dementia?
+## Kéls sont les pus impôrtants consèy po djåser avou ene sakî ki a l’ demance ?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Atirez s’ atincion, rindez çoula simpe, et soeyoz patyint. Si vos n’ r’tinoz k’ cénk afwaires:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Fijhoz do silince et metoz-v' di face.** Distindoz l’ tévé, ashîz-v' å minme livea des îs, et eployîz si no.
+2. **Dijhoz ene seule afwaire a l’ côp.** Côtes frases, ene seule idêye, ene seule kesse.
+3. **Ofroz on tchuze inte deus.** « Té ou cafè ? » est pus åjhey ki « Cwè voloz-v' beure ? »
+4. **Ratindoz.** Dinez pus d’ tins po responde ki çou k’ vos avoz l’ abitude, et sayîz di nén copaedjî.
+5. **Èn n’ ritchestîz måy et èn n’ kessez nén.** Rispundoz a çou k’ ele sint, nén a saveur si les fwaits sont djusses ou nén.
 
-## How should I start a conversation?
+## Comint ataker ene conviersåcion ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Apreparez l’ plaece po k’ l’ persone pôye mete s’ atincion so vos. Li [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ricmande di diminuer d’ abôrd l’ brut: distinde li radio ou l’ tévé, sere les ridôs ou l’ ouxhe, ou aler dins on plaece pus cwåte.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Aprochîz del costé d’ divant.** Ariver pa driyî ou pår costé lî pout fé sogne.
+- **Dijhoz kî vos estoz.** « Bondjoû papa, c’ est Sarah, vos feye. » Çoula lî evite di d’vwer cweri vosse no.
+- **Metez-v' a s’ livea.** Si ele est ashowe, ashîz-v' ou metoz-v' a djnos po k’ vos îs soeyexhe å minme hôteur.
+- **Fijhoz atincion a vosse visadje et a vosse ton.** Li [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ricmande di fé atincion a vosse ton, a l’ foice del vwès, a l’ esprission do visadje et al djesses do coir, et d’ aveur ene manire tchaude et simpe.
+- **Waitîz si les bèrikes et les apareys po mî oyi sont metous.** C’ est målåjhey di shure ene conviersåcion ki on n’ sait nén bén vey ou oyî.
 
-## How should I phrase what I say?
+## Comint dji doès formule çou k’ dji di ?
 
-Use simple words, short sentences and a calm, low voice.
+Eployîz des simpes mots, des côtes frases et ene vwès cwåte et basse.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ene seule idêye pår frase.** « Alons mete vosse mantê. Adon, nos irans foû. » Nén les deus a ene feye.
+- **Eployîz les nos, nén les pronoms.** « Tante Jean a sonlé » est pus clér ki « Ele a sonlé ».
+- **Pus bas, nén pus foirt.** Li Family Caregiver Alliance consèye ene vwès pus basse al plaece di djåser pus foirt.
+- **Ripetez, adon-pwis ridijhoz åtrumint.** Si ele n’ a nén comprins, ripetez les minmes mots ene feye. Si çoula n’ va nén, ratindoz on moumint et sayîz avou d’ ôtes mots.
+- **Mostrez tot djåsant.** Mostrez l’ tesse, loukîz les deus tchandails, ou fijhoz li prumî pas divant leye.
+- **Djåsoz-lî, nén djåsoz d’ leye.** Li NIA prévént k’ i n’ fåt nén djåser del persone come si ele n’ esteut nén la, ni eployî d’ lindjådje d’ efant.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Li NIA propôze des manires pus simpes di dimander des kesses ki revenèt sovint. Vochal des egzimples dins cisse idêye:
 
-| Instead of | Try |
+| Al plaece di | Sayîz |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Cwè voloz-v' magnî po soper ? » | « Voloz-v' do pexhon ou do poulet ? » |
+| « Comint vos sintez-v' ? » | « Estoz-v' sawou ? » |
+| « Avoz-v' fwin ? » | « Li soper serè presse dins cénk munutes. » |
+| « C’ est nén insi k’ i fåt fé. » | « Sayans-l’ insi. » |
+| « Vos r’sovniz-v' di nosse voyedje å l’ lac ? » | « Dji pinséve a nosse voyedje å l’ lac. Dijhoz-m' cwè ki vs a plou. » |
+| « Dji l’ a ddja dit. » | Rispundoz co ene feye, doûçmint, come si c’ esteut l’ prumî côp. |
 
-## How do I listen well?
+## Comint bén schoûter ?
 
-Listen for the meaning and the feeling, not just the words.
+Schoûtez li sins et l’ sintumint, nén seulmint les mots.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Ratindoz.** Li silince est sovint on moumint po tuzer. Contez doûçmint disk’ a dîx divant d’ erprinde.
+- **Ofroz on mot seulmint si ele est blokêye.** Li Family Caregiver Alliance dit k’ i n’ a pont d’ må a propôzer des mots cwand ene persone a del paine.
+- **Verifyîz çou k’ vos avoz comprins.** Li [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) consèye di cweri l’ sins didins les mots et d’ el ridire po waitî si vos avoz bén comprins. « Vos vs fijhoz do sôci pol vweture ? »
+- **Riwaitîz l’ visadje et l’ coir.** Cwand djåser divént pus målåjhey, li NIA rimarke ki l’ esprission do visadje pout mostrer l’ tristesse, li colere ou l’ displaeji pus clérmint ki les mots.
+- **Prindez les sôcis å seryûs.** Minme si on sôci est båzé so on fwait ki n’ est nén djusse, li sintumint est vrêy.
 
-## What if they say something that is not true?
+## Et si ele dit ene sacwè ki n’ est nén vrêye ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Èn n’ ritchestîz nén. I gn a pupont d’ tchance ki vos wangnîz, et l’ persone pôreut s’ sinte honteuse ou so les cwårêyes. Al plaece, rilîz-v' å sintumint, adon-pwis candjîz doûçmint di sudjet.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Li Family Caregiver Alliance consèye di ricnoxhe d’ abôrd l’ emozion divant d’ riatchaecer l’ conviersåcion ådje. Metans, si vosse mame vout a tote foice aler cweri les efants a scole:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Al plaece di: « Mame, vos efants sont grands asteure. Çoula fwait cwarante ans. »
+- Sayîz: « Vos avoz todi stî ene mame plinne di soû. Racoutez-m' comint vos alîz les cweri. Voloz-v' on p’tit mwaisse divant ? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+L’ Alzheimer's Association consèye ossu di nén ritchester so des afwaires ki vos n’ veyoz nén del minme manire. Tchwezîz vos moumints: si ene creyance ki n’ est nén djusse ni fwait nén må, leyîz-le coere.
 
-## How does communication change as dementia progresses?
+## Comint l’ comunicåcion candje-t-ele cwand l’ demance avånce ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Les bsoens candjèt avou l’ tins, ça fwait k’ i fåt candjî vosse manire di fé. L’ Alzheimer's Association discrît trwès grandes etapes:
 
-| Stage | What helps |
+| Etape | Cwè ki pout edî |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Å cmince | Èn n’ pinsez nén d’ avance k’ ele ni sait pus comuniquer. Metoz-le dins les conviersåcions, djåsoz-lî directumint, dimandez-lî kéne aidance ele vout, et eployîz l’ houmor si çoula edeye. |
+| Å mitan | Des conviersåcions a ene sakî al feye dins on plaece cwåte. Djåsoz doûçmint, rwaitîz-l’ dins les îs, eployîz des kesses « waye ou nén », dinez des racsegnes pas a pas, et èn n’ critikez nén, èn n’ corejîz nén. |
+| Pus tård | Aprochîz del costé d’ divant et dijhoz kî vos estoz. Acoridjîz-l’ a mostrer avou l’ doet et avou des djesses. Eployîz l’ totchaedje, les sons, çou k’ on vey et çou k’ on sint. Èn n’ djåsez måy come si ele n’ esteut nén la. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Tchaeke persone est diferinne, et li minme persone pout aveur des bons djoûs et des pus rûds djoûs. Rispundoz a çou k’ ele est asteure, nén a ene etikete.
 
-## Can pictures and activities make conversation easier?
+## Est-c’ ki des imådjes et des activité polèt rinde li conviersåcion pus åjhey ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Waye. Ene imådje pårteye oisté l’ pression et vos done a tos les deus ene sacwè a rwaitî et a mostrer.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Imådjes po fé djåser.** [Conversation Cards](/games/conversation-cards/) ofrèt des imådjes avou des kesses drovowes ki n’ kessèt måy.
+- **Fotos del famile.** [Photo Pairs](/games/photo-pairs/) candje les fotos ki vos tchwezixhoz èn on doûs djeu d’ assayî, çou ki fwait sovint rivni des sovnances.
+- **Dixhons conoxhowes.** [Finish the Saying](/games/finish-the-saying/) eploye des dixhons conoxhowes, avou après ene kesse po fé djåser.
+- **Djeus d’ assayî po esse åjhey.** [Picture Pairs](/games/picture-pairs/) done ene sacwè a fé avou les mwins tot djåsant.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Loukîz [comint djouwer eshonne](/caregiving/how-to-play-together/) et les [activité di sovnances](/activities/reminiscence/) po ndè saveur pus. Po les vizites et les hûtes, léjhoz nos guides so les [vizites](/activities/visiting/) et les [hûtes å telefone et videyo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Po ene persone ki djåse pus d’ ene lingaedje, loukîz nosse [guide po comuniquer eter deus lingaedjes](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Et si dji pied l’ pacience ?
+
+Çoula arive a tot l’ monde. Li NIA consèye ki, si vos dvinéz agacé, vos prindoz on moumint po vs rapåjhter. Alez dins ene ôte tchambe, prindez kékès doûs alénes, et rivnoz cwand vos l’ poloz. Vos ploz todi rataker l’ conviersåcion, et l’ persone pôreut bén risponde a vosse manire pus cwåte. Si l’ agacement vint toudi, c’ est on sine ki vos avoz dandjî d’ pus d’ sopoirt, nén ki vos n’ î arivez nén. Nosse guide so [prinde soûgn di vos-minme](/caregiving/caregiver-self-care/) a des idêyes po trover del aidance.

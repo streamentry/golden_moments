@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Tohutohu Kōrero mō te Tangata me te Mate Wareware"
+seoTitle: "Tohutohu Kōrero mō te Mate Wareware"
+description: "Ngā huarahi māmā ki te kōrero ki te tangata e noho ana me te mate wareware: te whakarite kōrero, te āhua o te kōrero, me te whakarongo."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Kōrerotia ki tētahi wāhi mārie, anga atu ki te tangata, whakamahia tōna ingoa,
+  ā, kōrerotia mārire mā ngā rerenga poto, māmā. Pātaihia kia kotahi te pātai
+  i te wā, tukua kia rua ngā kōwhiringa, kaua ngā pātai tuwhera, ā, tatari kia
+  roa ake i tāu e whakaaro ai. Kaua e tautohe, e whakatika, e whakamātau rānei.
+  Whakautua te kare ā-roto kei muri i ā rātou kupu, ā, whakamahia te pā, ngā
+  whakaahua me ngā tohu ā-ringa ina uaua haere te kōrero.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Whakaitihia te haruru, ā, me titiro kanohi ki te kanohi i mua i te tīmatanga o te kōrero."
+  - "Whakamahia ngā rerenga poto, kia kotahi te whakaaro i te wā, me ngā ingoa, kaua ko ia, rātou rānei."
+  - "Tukuna kia rua ngā kōwhiringa, pātai āe/kāo rānei, kaua ngā pātai tuwhera."
+  - "Tātaria he whakautu. Ki te kore e mārama, tōaitia ngā kupu ōrite, kātahi ka whakamātau i ētahi kupu kē."
+  - "Kaua e tautohe, e whakatika rānei. Whakautua te kare ā-roto kei muri i ā rātou kōrero."
+  - "Ka memeha haere ngā kupu, kōrerotia mā te pā, te reo, te āhua o te kanohi me ngā whakaahua tahi."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "He aha ngā mea kaua e kōrerotia ki te tangata e noho ana me te mate wareware?"
+    a: "Kaua e whakamātau (\"Kei te maumahara koe...?\"), kaua e whakatika (\"E hē ana tērā\"), kaua e whakamahara ki ngā mate (\"Kua kōrero kē au ki a koe\"), kaua hoki e kōrero mōna me te mea kāore ia i reira. Kaua e kōrero pēnei i te kōrero ki te tamaiti. Ko ēnei āhuatanga ka whakama, ka pōuri rānei te tangata, ā, kāore e āwhina."
+  - q: "Me whakatika ahau ina hē ā rātou kōrero mō ētahi mea?"
+    a: "Ko te nuinga o te wā, kaua. Mēnā he mea iti noa te hē, waiho noa. Kāore e tino rerekē te whakaaro o te tangata i te tautohe, ā, he rite tonu ka pōuri ia. Arotahi ki ō rātou kare ā-roto me ā rātou hiahia i tēnei wā."
+  - q: "Me aha ahau ina kore e kitea e rātou te kupu tika?"
+    a: "Hoatu he wā ki a rātou i te tuatahi. Ki te tino uaua, kei te pai te āta tuku kupu, te whakaaro rānei he aha tā rātou e mea ana, kātahi ka pātai mēnā e tika ana. Ka āwhina hoki te tohu, ngā tohu ā-ringa me ngā whakaahua."
+  - q: "Me pēhea taku kōrero ki te tangata kei te wāhanga tōmuri o te mate wareware, ā, kāore e tino kōrero?"
+    a: "Whakatata mai i mua, kōrerohia ko wai koe, ā, whakamahia he reo mārie me te pā mārire. Tirohia ngā kanohi me te reo o te tinana mō ō rātou kare ā-roto. Mā tō noho tahi, mā tētahi waiata e mōhiotia ana, mā te pupuri ringa rānei, ka nui te kōrero ahakoa kāore he kupu."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Mā te mate wareware ka uaua te kimi kupu, te whai i te rerenga roa, te aukati rānei i te haruru o te taiao. Ehara tēnei i te tohu kua kore te tangata e hiahia ki te hono atu. Mā ētahi panonitanga iti ki te whakarite kōrero, ki te āhua o tō kōrero, me te āhua o tō whakarongo, ka māmā ake, ka mārie ake te kōrero mā kōrua tahi.
 
-## What are the most important tips for talking with someone who has dementia?
+## He aha ngā tohutohu matua mō te kōrero ki te tangata e noho ana me te mate wareware?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Me whai i tō rātou aro, kia māmā te kōrero, ā, kia manawanui. Mēnā ka maumahara koe ki ēnei mea e rima anake:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Whakamārietia te rūma, ā, anga atu ki a rātou.** Whakawetohia te pouaka whakaata, noho ki te taumata ōrite o ngā kanohi, ā, whakamahia tōna ingoa.
+2. **Kia kotahi te mea i te wā.** Ngā rerenga poto, kotahi te whakaaro, kotahi te pātai.
+3. **Tukuna kia rua ngā kōwhiringa.** He māmā ake te "Tī, kawhe rānei?" i te "He aha tāu e hiahia ai?"
+4. **Tātari.** Hoatu he wā roa ake mō te whakautu i tāu e whakaaro ai, ā, kaua e haukoti.
+5. **Kaua rawa e tautohe, e whakamātau rānei.** Whakautua ō rātou kare ā-roto, kaua te tika, te hē rānei o ngā kōrero.
 
-## How should I start a conversation?
+## Me pēhea taku tīmata i te kōrero?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Whakaritea kia āhei te tangata ki te aro mai ki a koe. E taunaki ana te [aratohu a Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) kia whakaitihia te haruru i te tuatahi: whakawetohia te reo irirangi, te pouaka whakaata rānei, katia ngā ārai, te tatau rānei, neke rānei ki tētahi wāhi mārie ake.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Whakatata mai i mua.** Mā te haere mai i muri, i te taha rānei, ka ohorere pea te tangata.
+- **Kōrerohia ko wai koe.** "Kia ora Pāpā, ko Sarah ahau, tō tamāhine." Mā tēnei ka kore ia e kimi i tō ingoa.
+- **Heke ki tō rātou taumata.** Mēnā e noho ana rātou, noho, tūturi rānei kia ōrite te taumata o ō kanohi.
+- **Tirohia tō āhua kanohi me tō reo.** E tohutohu ana te [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) kia mōhio koe ki tō reo, tō kaha kōrero, tō āhua kanohi me tō reo tinana, ā, kia mahana, kia māmā hoki te āhua.
+- **Me mātua whakarite kei te mau ngā mōhiti me ngā taputapu whakarongo.** He uaua te whai i te kōrero mēnā kāore e tino kitea, e tino rangona rānei.
 
-## How should I phrase what I say?
+## Me pēhea taku whakatakoto i āku kōrero?
 
-Use simple words, short sentences and a calm, low voice.
+Whakamahia ngā kupu māmā, ngā rerenga poto, me te reo mārie, reo hōhonu.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Kotahi te whakaaro i ia rerenga.** "Me whakamau tō koti. Kātahi ka haere tāua ki waho." Kaua e kōrerotia ngā mea e rua i te wā kotahi.
+- **Whakamahia ngā ingoa, kaua ngā kupu mono.** He mārama ake te "I waea mai a Whaea Jean" i te "I waea mai ia."
+- **Whakahōhonutia te reo, kaua e whakakaha.** E kī ana te Family Caregiver Alliance kia hōhonu ake te reo, kaua e kaha ake.
+- **Tōaitia, kātahi ka kōrero anō ki ētahi kupu kē.** Ki te kore rātou i mārama, tōaitia ngā kupu ōrite kotahi anō te wā. Ki te kore tonu e pai, tatari mō tētahi wā poto, kātahi ka whakamātau i ētahi kupu rerekē.
+- **Whakaaturia, kaua ko te kōrero anake.** Tohua te kapu, whakaaturia ngā hūtu e rua, whakaaturia rānei te mahi tuatahi.
+- **Kōrero ki a rātou, kaua mō rātou.** E whakatūpato ana te NIA kia kaua e kōrero mō te tangata me te mea kāore ia i reira, kia kaua hoki e kōrero pēnei i te kōrero ki te tamaiti.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+E kī ana te NIA kia māmā ake te whakatakoto i ngā pātai noa. Anei ētahi tauira pēnei i taua whakaaro:
 
-| Instead of | Try |
+| Kaua tēnei | Whakamātauria tēnei |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "He aha tāu e hiahia ai mō te kai o te pō?" | "He ika, he heihei rānei tāu e hiahia ai?" |
+| "Kei te pēhea koe?" | "Kei te ngenge koe?" |
+| "Kei te hiakai koe?" | "Ka rite te kai o te pō ā te rima meneti." |
+| "Ehara tērā i te āhua tika." | "Me whakamātau pēnei." |
+| "Kei te maumahara koe ki tā tāua haerenga ki te roto?" | "I whakaaro ahau ki tā tāua haerenga ki te roto. Kōrerohia mai ngā mea i pai ki a koe." |
+| "Kua kōrero kē au ki a koe." | Whakautua anō, mā te atawhai, me te mea ko te wā tuatahi tēnei. |
 
-## How do I listen well?
+## Me pēhea taku whakarongo pai?
 
-Listen for the meaning and the feeling, not just the words.
+Whakarongo ki te tikanga me te kare ā-roto, kaua ko ngā kupu anake.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Tātari.** He wā whakaaro te wahangū. Tatauria mārire ki te tekau i mua i te kōrero atu.
+- **Tukuna he kupu mēnā kua raru noa rātou.** E kī ana te Family Caregiver Alliance kei te pai te āta tuku kupu ina uaua te tangata.
+- **Tirohia tāu i rongo ai.** E kī ana te [aratohu kōrero a Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) kia rapua te tikanga kei muri i ā rātou kupu, ā, kia whakahokia anō hei tirotiro mēnā i mārama koe. "Kei te māharahara koe mō te motukā?"
+- **Tirohia ō rātou kanohi me te tinana.** Ka uaua haere te kōrero, e ai ki te NIA, ka kitea pea te pouri, te riri, te pōkeka rānei i te āhua o te kanohi, nui ake i ngā kupu.
+- **Whakaarohia ā rātou āwangawanga.** Ahakoa kei te hē te pūtake o te māharahara, he pono tonu te kare ā-roto.
 
-## What if they say something that is not true?
+## Me aha mēnā ka kōrero rātou i tētahi mea ehara i te mea pono?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Kaua e tautohe. Kāore e tino rerekē tō rātou whakaaro, ā, ka mutu pea ka whakama, ka mataku rānei te tangata. Engari, honoa ki te kare ā-roto, kātahi ka āta neke ki tētahi atu kaupapa.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+E kī ana te Family Caregiver Alliance kia whakaaetia te kare ā-roto i mua i te āta huri i te kaupapa. Hei tauira, mēnā e tohe ana tō whaea me haere ia ki te tiki i ngā tamariki i te kura:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Kaua tēnei: "E Mā, kua pakeke ō tamariki. Nō te whā tekau tau ki mua tērā."
+- Whakamātauria tēnei: "He whaea atawhai koe i ngā wā katoa. Kōrerohia mai te tiki i a rātou. Me kai paramanawa tāua i te tuatahi?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+E tohutohu ana hoki te Alzheimer's Association kia kaua e tautohe mō ngā kōrero kāore koe e whakaae ana. Kōwhiria te wā tika: mēnā he mea iti noa te whakaaro hē, waiho noa.
 
-## How does communication change as dementia progresses?
+## Ka pēhea te rerekē o te kōrero i te haere whakamua o te mate wareware?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ka rerekē ngā hiahia i roto i te wā, nō reira me urutau tō āhua. E whakaahua ana te Alzheimer's Association i ētahi wāhanga whānui e toru:
 
-| Stage | What helps |
+| Wāhanga | Ngā mea e āwhina ana |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Tōmua | Kaua e whakaaro kāore e taea e rātou te kōrero. Whakaurua rātou ki ngā kōrero, kōrero hāngai ki a rātou, pātaihia he aha te tautoko e hiahia ana rātou, ā, whakamahia te whakakata mēnā ka āwhina. |
+| Waenga | Ngā kōrero takitahi ki tētahi wāhi mārie. Kōrerotia mārire, titiro kanohi ki te kanohi, whakamahia ngā pātai āe/kāo, hoatu ngā tohutohu ā-taahiraa, ā, kaua e whakahē, e whakatika rānei. |
+| Tōmuri | Whakatata mai i mua, ā, kōrerohia ko wai koe. Ākina te tohu me ngā tohu ā-ringa. Whakamahia te pā, ngā oro, ngā mea e kitea ana, me ngā kakara. Kaua rawa e kōrero me te mea kāore rātou i reira. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+He rerekē ia tangata, ā, he rerekē pea ngā rā pai me ngā rā uaua mō te tangata kotahi. Whakautua ki tō rātou āhua i tēnei wā tonu, kaua ki tētahi tapanga.
 
-## Can pictures and activities make conversation easier?
+## Ka āwhina ngā whakaahua me ngā ngohe ki te whakangāwari i te kōrero?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Āe. Mā te whakaahua tahi ka iti ake te taumaha, ā, ka whai mea kōrua hei titiro, hei tohu.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ngā whakaahua hei tīmatanga kōrero.** He whakaahua me ngā pātai tuwhera kei [Conversation Cards](/games/conversation-cards/) kāore e whakamātau i te tangata.
+- **Ngā whakaahua whānau.** Ka huri a [Photo Pairs](/games/photo-pairs/) i ngā whakaahua ka kōwhiria e koe hei kēmu hono māmā, ā, he rite tonu ka puta mai ngā kōrero.
+- **Ngā kīanga e mōhiotia ana.** Ka whakamahi a [Finish the Saying](/games/finish-the-saying/) i ngā kīanga e mōhiotia whānuitia ana, whai muri ko tētahi akiaki kōrero.
+- **Ngā kēmu hono hei horopaki.** Mā [Picture Pairs](/games/picture-pairs/) ka whai mahi ō ringa i a kōrua e kōrero ana.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Tirohia [me pēhea te tākaro tahi](/caregiving/how-to-play-together/) me [ngā ngohe whakamahara](/activities/reminiscence/) mō ētahi atu kōrero. Mō ngā toronga me ngā waeatanga, pānuihia ā mātou aratohu mō [ngā toronga](/activities/visiting/) me [ngā waea me ngā waea ataata](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Mō te tangata e kōrero ana i ētahi reo maha, tirohia tā mātou [aratohu mō te kōrero i waenga i ngā reo](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Me aha mēnā ka pau taku manawanui?
+
+Ka pā tēnei ki te katoa. E kī ana te NIA mēnā ka riri koe, me whai wā ki te whakatau i a koe anō. Haere ki tētahi atu rūma, whakangāwari tō manawa, ā, hoki mai ina tau anō koe. Ka taea tonu e koe te tīmata anō i te kōrero, ā, he rite tonu ka pai ake te urupare a te tangata ki tō āhua mārie. Mēnā ka noho tonu te riri, he tohu tērā me nui ake te tautoko māu, ehara i te mea kua hē koe. Kei tā mātou aratohu mō [te tiaki i a koe anō hei kaitiaki](/caregiving/caregiver-self-care/) ētahi wāhi hei āwhina.

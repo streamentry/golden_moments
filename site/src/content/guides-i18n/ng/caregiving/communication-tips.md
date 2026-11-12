@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Omayele gokupopya nomuntu ngoka e na uuvu wokudhimbwa"
+seoTitle: "Omayele gokupopya nuuvu wokudhimbwa: shoka to ti"
+description: "Omikalo dhokupopya nomuntu ngoka e na uuvu wokudhimbwa: nkene to longekidha oonkundathana, shoka to ti peha lyokupula nenge okuyelutha omapuko, nonkene to pulakene."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Popyeni pehala lya mwena, taaleleni omuntu, longitheni edhina lye, e tamu popi
+  kashona noohapu oofupi nodhi li paunathangwa. Puleni epulo limwe pethimbo,
+  gandjeni omathaneko gaali peha lyomapulo ga manguluka, ne mu tegelele olule
+  shi vulithe shoka shi uvika sha yeleka. Inamu patana, inamu yelutha omapuko
+  nenge inamu mu pula opo mu tale ngele okwa dhimbulukwa. Yamukuleni komaiyuvo
+  ngoka ge li konima yoohapu dhe, ne mu longithe egumo, omafano niinyelekela sho
+  oohapu tadhi ende tadhi shonopala.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Shunitheni pevi omuyoyo nokutala meho lye manga inamu tameka okupopya."
+  - "Longitheni oohapu oofupi, edhiladhilo limwe pethimbo, nomadhina peha lyo ye, yo nenge ya."
+  - "Gandjeni ehogololo lyomathaneko gaali, nenge epulo lyeeno nenge aawe, peha lyomapulo ga manguluka."
+  - "Tegeleleni eyamukulo. Ngele ina uvika ko, endululeni oohapu ndhoka dha faathana, opo ihe mu kokele oohapu oonkwawo."
+  - "Inamu patana nenge okuyelutha omapuko. Yamukuleni komaiyuvo ngoka ge li konima yaashoka ta ti."
+  - "Sho oohapu tadhi shonopala, popieni okupitila megumo, mewi, molupe lwoshipala nomomafano tamu ga tala pamwe."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Oshike wu na okuyanda okutya komuntu ngoka e na uuvu wokudhimbwa?"
+    a: "Yanda okupula opo u tale ngele okwa dhimbulukwa (\"Oho dhimbulukwa...?\") , okuyelutha omapuko (\"Shoka osha puka\"), okumu dhimbulutha shoka a kanitha (\"Onde ku lombwele nale\") nokupopya kombinga ye ongaye ke po. Yanda wo okupopya naye ngaashi okanona. Iinima mbika ohayi eta olundji ohoni nenge uudhigu, nopwaahe na ekwatho."
+  - q: "Nandi mu yukithe tuu ngele okwa puka miinima yolela?"
+    a: "Olundji hasho. Ngele epuko kali na oshiponga, etheni li kale po. Okupatana ihaku lundulula olundji omadhiladhilo gomuntu, notashi vulu oku mu yemateka. Gandjeni eitulomo komaiyuvo ge nokwaashoka a pumbwa ngashingeyi."
+  - q: "Nandi ninge shike ngele ita vulu okumona ohapu?"
+    a: "Mu peni tango ethimbo. Ngele otu wete kutya ota kondjo, oshi li nawa oku mu pa ohapu nombili nenge okufekela shoka ta dhiladhila e to pula ngele osho. Okuulika nuunye, iinyelekela nomafano otashi vulu wo okukwathela."
+  - q: "Nandi popye ngiini nomuntu ngoka e li pehulilo lyuuvu wokudhimbwa, ngoka iha popi olundji?"
+    a: "Hedheni muye mu li komeho, mu lombweleni kutya ne oolye, ne mu longithe ewi lya ngungumana negumo lya pupyala. Taleni omasipa nomainyengo golutu opo mu uve omaiyuvo ge. Okukala po kweni, eimbilo ndyoka e shi, nenge okukwatathana komake otashi vulu okupopya oshindji nopwaahe na oohapu."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Uuvu wokudhimbwa otawu vulu okuningitha oshidhigu okumona oohapu, okulandula oshipopiwa oshile, nenge okukeelela omuyoyo gwiinima yilwe. Shika itashi ti kutya omuntu ke na we ehalo lyokukwatathana. Omalunduluko omashona monkene to longekidha oonkundathana, nkene to popi nonkene to pulakene otaga vulu okuningitha okupopya ku kale kwapupa nokwa ngungumana kune amuhe.
 
-## What are the most important tips for talking with someone who has dementia?
+## Omayele geni ga simanenena mokupopya nomuntu ngoka e na uuvu wokudhimbwa?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Kokeka eitulomo lye, kaleka iinima paunathangwa, e to kala nomutima omule. Ngele oto dhimbulukwa iinima itano ayike:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ngungumanekeni ehala ne mu mu taaleleni.** Dhimeni o-TV, kuutumbeni mu li poshiikithilawuliko yomeho, ne mu longithe edhina lye.
+2. **Tyenieni oshinima shimwe pethimbo.** Oohapu oofupi, edhiladhilo limwe, epulo limwe.
+3. **Gandjeni ehogololo lyomathaneko gaali.** "Otee nenge okofi?" oshipu shi vulithe "Owa hala shike?"
+4. **Tegeleleni.** Gandjeni ethimbo olule li vulithe shoka shi uvika sha yeleka opo a yamukule, ne mu kambadhale kaamu mu tye muule.
+5. **Inamu patana nenge inamu mu pula.** Yamukuleni nkene e uvite, haampoka iinima yolela yi li mondjila nenge aawe.
 
-## How should I start a conversation?
+## Nandi tameke ngiini oonkundathana?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Longekidheni iinima opo omuntu a vule okugandja eitulomo kungoye. [Embo lyewiliko lyaFamily Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) otali kumagidha mu shunithe pevi tango omuyoyo: dhimeni oradio nenge o-TV, edhileni omakende nenge omweelo, nenge mu ye pehala lya mwena.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Hedheni muye mu li komeho.** Okuya kuumeho we okuza konima nenge kombinga otashi vulu oku mu halutha.
+- **Mu lombweleni kutya ne oolye.** "Ongoye, Tate, ongame Sarah, omwanakadhona gwoye." Shika otashi mu kwathele kaa konge edhina lyeni.
+- **Iikululeni mu ye poshiikithilawuliko she.** Ngele okwa kuutumba, kuutumbeni nenge tsuuleni oongolo opo omeho geni ga kale poshiikithilawuliko shimwe.
+- **Tala koshipala shoye nokewi lyoye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) otayi kumagidha u kale wa kotoka kewi lyoye, kuule welyo, kolupe lwoshipala nomokwiihumbata kwolutu, e to kambadhala okukala nombili nonomukalo omwaanawa.
+- **Shilipaleka kutya omagalikuthi nomeenditho guupulakeno oge li po.** Oshidhigu okulandula oonkundathana ndhoka ito vulu okumona nenge okuuva nawa.
 
-## How should I phrase what I say?
+## Nandi tye ngiini shoka tandi popi?
 
-Use simple words, short sentences and a calm, low voice.
+Longitha oohapu oopu, oohapu oofupi newi lya ngungumana nolya tsa pevi.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Edhiladhilo limwe mepopi limwe.** "Natu zale ondjatha yoye. Opo ihe tatu yi pondje." Haimwe ayihe poshikando shimwe.
+- **Longitha omadhina, haapiititho.** "Kuku Jean okwa dhengele" osha yela nawa shi vulithe "Oye a dhengele."
+- **Shunitha ewi pevi, haokuli yelutha.** Family Caregiver Alliance otayi ti ewi lya tsa pevi oli li hwepo shi vulithe ewi lya yeluka.
+- **Endulula, opo ihe lundulula oohapu.** Ngele ina uva ko, endulula oohapu ndhoka lumwe. Ngele inashi kwatha, tegelela kashona e to kambadhala oohapu dhilwe.
+- **Ulika wo, hangeyi okupopya owala.** Ulika okakopi, yelutha oombindja ndhoka mbali, nenge ulika onkatu yotango.
+- **Popya naye, haokupopya kombinga ye.** NIA otayi londodha opo waa popye kombinga yomuntu ongaye ke po, nowaa longithe wo "elaka lyokupopya nokanona".
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA otayi gandja omathaneko gomapulo ga pupyala. Oompumbwe ndhika odhi li momukalo ngoka:
 
-| Instead of | Try |
+| Peha lyokutya | Kambadhala okutya |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Owa hala okulya shike kongulohi?" | "Owa hala oohi nenge ondhuhwa?" |
+| "Ou uvite ngiini?" | "Ou uvite wa vulwa?" |
+| "Owa sa ondjala?" | "Uulalelo otawu ka kala wa pya moominute ntano." |
+| "Hasho to shi ningi ngaaka." | "Natu shi kambadhale momukalo nguka." |
+| "Oho dhimbulukwa olweendo lwetu kethale?" | "Onda li tandi dhiladhila olweendo lwetu kethale. Lombwela ndje shoka wa li wa panda." |
+| "Onde ku lombwele nale." | Yamukula ishewe, nombili, ongoye to shi ningi oshikando shotango. |
 
-## How do I listen well?
+## Nandi pulakene nawa ngiini?
 
-Listen for the meaning and the feeling, not just the words.
+Pulakena kutya oohapu otadhi ti shike nokomaiyuvo ngoka ge li mo, haakooohapu adhiike.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Tegelela.** Ethimbo lyomwena olundji olyokudhiladhila. Yalula kashona sigo omulongo manga inoo ya mo.
+- **Gandja ohapu owala ngele okwa kwatwa.** Family Caregiver Alliance otayi ti oshi li nawa okugandja ohapu ngele omuntu ota kondjo.
+- **Tala ngele owa uvu ko.** [Embo lyewiliko lyaAlzheimer's Association kombinga yokupopya](https://www.alz.org/help-support/caregiving/daily-care/communications) otali kumagidha u tale kutya oohapu dhe otadhi ti shike meni, e to shi endulula opo u shilipaleke kutya owa uvu ko. "Ou na oshimpwiyu kombinga yoshihauto?"
+- **Tala koshipala she nokolutu lwe.** Sho okupopya tashi ningi oshidhigu, NIA otayi ti, omainyengo goshipala otaga vulu okuulika uuwike, ehandu nenge uupyakadhi nawa shi vulithe oohapu.
+- **Taamba ko iimpwiyu ye.** Nonando oshimpwiyu osha kankamena kepuko lyolela, eiyuvo olyoshili.
 
-## What if they say something that is not true?
+## Ongiini ngele okwa ti sha shoka shi li mondjila?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Inamu patana. Kashishi olundji to vulu okusinda, nomuntu otashi vulika a kale e uvite ohoni nenge a tila. Peha lyasho, kwatakaneni neiyuvo lye, opo ihe mu ye komeho nombili.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance otayi kumagidha mu taambe ko eiyuvo manga inamu lundulula oshipopiwa. Pashiholelwa, ngele nyoko ota ti kutya oku na oku ka kutha aanona kosikola:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Peha lyokutya: "Meme, aanona yoye oya kula. Osho sha li omimvo omilongo ine dha pita."
+- Kambadhala okutya: "Owa li aluhe yina omunahole. Lombwela ndje nkene wa li ho ya kutha. Natu lye tango okantuntu?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association otayi kumagidha wo kaamu patane kombinga yiinima mbyoka itamu tsu kumwe nayo. Hogolola ethimbo: ngele edhiladhilo lya puka kali na oshiponga, etheni li kale po.
 
-## How does communication change as dementia progresses?
+## Okupopya ohaku lunduluka ngiini sho uuvu wokudhimbwa tawu tsikile?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Oompumbwe ohadhi lunduluka ethimbo nethimbo, onkene lundulula omukalo gwoye. Alzheimer's Association otayi fatulula oonkatu ndatu dha faathana:
 
-| Stage | What helps |
+| Onkatu | Shoka tashi kwatha |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Petameko | Ino tya ke na we okuvulwa. Mu kwateleni mo moonkundathana, popyeni naye ye mwene, mu puleni ekwatho ndyoka a hala, ne mu longithe omaiyando ngele otashi kwatha. |
+| Pokati | Oonkundathana pokati keni naantu yaali pehala lya mwena. Popyeni kashona, kaleni mu na ekwatathano lyomeho, longitheni omapulo geeno nenge aawe, gandjeni omalombwelo konkatu nonkatu, ne inamu tuka nenge okuyelutha omapuko. |
+| Pehulilo | Hedheni muye mu li komeho ne mu mu lombwele kutya ne oolye. Mu tseni omukumo a ulike nuunye niinyelekela. Longitheni egumo, omalaka, iinima mbyoka ta mono nomazimba. Inamu popya nando ongaye ke po. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Omuntu kehe oku li paumwene, nomuntu ngoka tuu ngoka ota vulu okukala e na omasiku omawanawa nomadhigu. Yamukula nkene e li ngashingeyi, hakedhina lyonkatu.
 
-## Can pictures and activities make conversation easier?
+## Omafano niinyangadhalwa otayi vulu ngaa okuningitha oonkundathana dhi pupyale?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Eeno. Efano ndyoka tamu li tala pamwe otali shunitha pevi uupyakadhi notali mu pe amuhe sha mu tale ne mu ulike.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Omathaneko gomafano.** [Conversation Cards](/games/conversation-cards/) otaga gandja omafano nomapulo ga manguluka ngoka ihaga pula opo ga tale ngele okwa dhimbulukwa.
+- **Omafano gofamilia.** [Photo Pairs](/games/photo-pairs/) otaga ningi omafano ngoka mwa hogolola uudhano wokuendathana nombili, shoka olundji ohashi pendutha omahokololo.
+- **Oohapu dhoshito ndhoka dha tseyika.** [Finish the Saying](/games/finish-the-saying/) ohadhi longitha oohapu dhoshito dha tseyika nawa, tadhi landulwa kepulo lyokupopya.
+- **Uudhano wokutsakanitha ongokonima.** [Picture Pairs](/games/picture-pairs/) otawu pe omake geni sha mu longe sho tamu popi.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Tala [nkene tamu vulu okudhana pamwe](/caregiving/how-to-play-together/) nosho wo [iinyangadhalwa yokudhimbulukwa](/activities/reminiscence/) opo mu mone omayele galwe. Ngele otamu talele po nenge tamu popi kongodhi, lesha omayele getu kombinga [yokutalela po](/activities/visiting/) nosho wo [okupopya kongodhi nenge pavidio](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ngele omuntu oha popi omalaka ogendji, tala [embo lyetu lyewiliko lyokupopya pokati komalaka](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Ongiini ngele onda kanitha eidhidhimiko?
+
+Ohashi ningilwa kehe gumwe. NIA otayi ti ngele owa yemata, kutha ethimbo wu ngungumane. Yi mondunda yilwe, fudha kashona nuule, e to galuka uuna to vulu. Oto vulu aluhe okutameka oonkundathana ishewe, nomuntu otashi vulika a yamukule komukalo gwoye omungungumani. Ngele uupyakadhi otawu kala po olundji, shoka otashi ulike kutya owa pumbwa ekwatho lya gwedhwa po, hakuulika kutya oto ponyo. Embo lyetu lyewiliko kombinga [yokwiisila oshimpwiyu ngoye mwene](/caregiving/caregiver-self-care/) oli na mpoka to vulu okumona ekwatho.

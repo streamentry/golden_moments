@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Bendravimo patarimai, kai žmogus gyvena su demencija"
+seoTitle: "Bendravimas su demencija: ką sakyti ir ko vengti"
+description: "Praktiniai patarimai, kaip kalbėtis su demencija gyvenančiu žmogumi: kaip pasiruošti pokalbiui, ką sakyti ir kaip išklausyti."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Kalbėkitės ramioje vietoje, atsisukite į žmogų, kreipkitės jo vardu ir
+  kalbėkite lėtai, trumpais, paprastais sakiniais. Užduokite po vieną klausimą,
+  siūlykite du pasirinkimus vietoj atvirų klausimų ir palaukite ilgiau, nei
+  įprasta. Nesiginčykite, netaisykite ir netikrinkite žinių. Reaguokite į
+  jausmą, slypintį už žodžių, o kalbai silpstant bendraukite prisilietimu,
+  nuotraukomis ir gestais.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Prieš pradėdami kalbėti, sumažinkite foninį triukšmą ir užmegzkite akių kontaktą."
+  - "Vartokite trumpus sakinius, po vieną mintį, o vietoj „jis“, „ji“ ar „jie“ – vardus."
+  - "Vietoj atvirų klausimų siūlykite rinktis iš dviejų variantų arba užduokite klausimą, į kurį atsakoma „taip“ arba „ne“."
+  - "Palaukite atsakymo. Jei žmogaus nesuprantate, pakartokite tuos pačius žodžius, o paskui pabandykite kitus."
+  - "Nesiginčykite ir netaisykite. Reaguokite į jausmą, slypintį už to, ką žmogus sako."
+  - "Žodžiams silpstant, bendraukite prisilietimu, balso tonu, veido išraiška ir bendromis nuotraukomis."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ko nereikėtų sakyti demencija gyvenančiam žmogui?"
+    a: "Venkite tikrinti žinių („Ar prisimeni...?“), taisyti („Tai netiesa“), priminti apie netektis („Aš tau jau sakiau“) ir kalbėti apie žmogų taip, lyg jo nebūtų šalia. Venkite vaikiškos kalbos. Tai dažnai sukelia gėdą ar nerimą ir nepadeda."
+  - q: "Ar turėčiau taisyti žmogų, kai jis suklysta dėl faktų?"
+    a: "Dažniausiai ne. Jei klaidingas faktas yra nekenksmingas, geriau jo nepaisyti. Ginčai retai pakeičia žmogaus nuomonę ir dažnai jį nuliūdina. Sutelkite dėmesį į tai, ką jis jaučia ir ko jam reikia dabar."
+  - q: "Ką daryti, kai žmogus negali rasti tinkamo žodžio?"
+    a: "Pirmiausia duokite jam laiko. Jei matote, kad jam tikrai sunku, galite švelniai pasiūlyti žodį arba pasitikslinti, ar teisingai supratote. Padėti gali ir rodymas pirštu, gestai bei nuotraukos."
+  - q: "Kaip kalbėtis su žmogumi, gyvenančiu su vėlyvos stadijos demencija, kuris retai kalba?"
+    a: "Prieikite iš priekio, pasakykite, kas esate, kalbėkite ramiai ir švelniai prisilieskite. Stebėkite veidą ir kūno kalbą, kad suprastumėte jausmus. Jūsų buvimas šalia, pažįstama daina ar laikymas už rankos gali daug pasakyti ir be žodžių."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demencija gali apsunkinti žodžių paiešką, ilgo sakinio supratimą ar susikaupimą, kai aplinkui triukšminga. Tai nereiškia, kad žmogus nebenori bendrauti. Nedideli pokalbio pasiruošimo, kalbėjimo ir klausymosi pokyčiai gali padėti abiem jaustis ramiau ir lengviau suprasti vienas kitą.
 
-## What are the most important tips for talking with someone who has dementia?
+## Kokie svarbiausi patarimai kalbantis su demencija gyvenančiu žmogumi?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Pritraukite žmogaus dėmesį, kalbėkite paprastai ir būkite kantrūs. Jei prisiminsite tik penkis dalykus, tegul tai būna šie:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Nuraminkite aplinką ir atsisukite į žmogų.** Išjunkite televizorių, atsisėskite akių lygyje ir kreipkitės vardu.
+2. **Sakykite po vieną dalyką.** Trumpi sakiniai, viena mintis, vienas klausimas.
+3. **Siūlykite rinktis iš dviejų variantų.** „Arbatos ar kavos?“ yra lengviau nei „Ko norėtum?“
+4. **Palaukite.** Skirkite atsakymui daugiau laiko, nei atrodo įprasta, ir stenkitės nepertraukinėti.
+5. **Niekada nesiginčykite ir netikrinkite žinių.** Reaguokite į tai, ką žmogus jaučia, o ne į tai, ar faktai teisingi.
 
-## How should I start a conversation?
+## Kaip pradėti pokalbį?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Pasiruoškite taip, kad žmogui būtų lengviau sutelkti dėmesį į jus. [Family Caregiver Alliance gidas](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) pirmiausia rekomenduoja sumažinti triukšmą: išjunkite radiją ar televizorių, uždarykite užuolaidas ar duris arba pereikite į tylesnę vietą.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Prieikite iš priekio.** Priėjimas iš nugaros ar šono gali išgąsdinti.
+- **Pasakykite, kas esate.** „Labas, tėti, čia Sara, tavo dukra.“ Taip žmogui nereikia ieškoti jūsų vardo atmintyje.
+- **Nusileiskite į jo akių lygį.** Jei žmogus sėdi, atsisėskite ar pritūpkite taip, kad jūsų akys būtų tame pačiame lygyje.
+- **Atkreipkite dėmesį į veidą ir balsą.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) pataria stebėti savo balso toną, garsumą, veido išraišką ir kūno kalbą bei stengtis kalbėti šiltai ir ramiai.
+- **Įsitikinkite, kad akiniai ir klausos aparatai uždėti.** Sunku sekti pokalbį, kurio negali gerai matyti ar girdėti.
 
-## How should I phrase what I say?
+## Kaip reikėtų formuluoti sakinius?
 
-Use simple words, short sentences and a calm, low voice.
+Vartokite paprastus žodžius, trumpus sakinius ir kalbėkite ramiai, žemesniu balsu.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Viena mintis sakinyje.** „Užsidėkime paltą. Tada išeisime į lauką.“ Geriau nei abu dalykus pasakyti vienu sakiniu.
+- **Vartokite vardus, o ne įvardžius.** „Paskambino teta Irena“ aiškiau nei „Ji paskambino“.
+- **Kalbėkite žemiau, o ne garsiau.** Family Caregiver Alliance siūlo kalbėti žemesniu balsu, o ne pakelti toną.
+- **Pakartokite, tada perfrazuokite.** Jei žmogus nesuprato, vieną kartą pakartokite tuos pačius žodžius. Jei tai nepadeda, šiek tiek palaukite ir pabandykite kitais žodžiais.
+- **Ne tik sakykite, bet ir parodykite.** Parodykite puodelį, ištieskite du megztinius arba pademonstruokite pirmą žingsnį.
+- **Kalbėkitės su žmogumi, o ne apie jį.** NIA perspėja nekalbėti apie žmogų taip, lyg jo nebūtų šalia, ir nevartoti vaikiškos kalbos.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA siūlo paprastesnius įprastų klausimų variantus. Štai pavyzdžiai ta pačia dvasia:
 
-| Instead of | Try |
+| Vietoj to | Pabandykite |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „Ko norėtum vakarienei?“ | „Ar norėtum žuvies, ar vištienos?“ |
+| „Kaip jautiesi?“ | „Ar jautiesi pavargęs?“ |
+| „Ar esi alkanas?“ | „Vakarienė bus paruošta po penkių minučių.“ |
+| „Taip nedaroma.“ | „Pabandykime kitaip.“ |
+| „Ar prisimeni mūsų kelionę prie ežero?“ | „Prisiminiau mūsų kelionę prie ežero. Papasakok, kas tau ten patiko.“ |
+| „Aš tau jau sakiau.“ | Atsakykite dar kartą, maloniai, lyg pirmą kartą. |
 
-## How do I listen well?
+## Kaip gerai klausytis?
 
-Listen for the meaning and the feeling, not just the words.
+Klausykitės ne tik žodžių, bet ir prasmės bei jausmo.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Palaukite.** Tyla dažnai reiškia mąstymo laiką. Lėtai suskaičiuokite iki dešimties, prieš įsiterpdami.
+- **Pasiūlykite žodį tik tada, kai žmogus tikrai stringa.** Family Caregiver Alliance teigia, kad galima pasiūlyti žodį, kai žmogui sunku.
+- **Pasitikrinkite, ar teisingai supratote.** [Alzheimer's Association bendravimo gidas](https://www.alz.org/help-support/caregiving/daily-care/communications) siūlo ieškoti prasmės už žmogaus žodžių ir pakartoti ją savais žodžiais, kad pasitikslintumėte. „Nerimauji dėl automobilio?“
+- **Stebėkite veidą ir kūną.** NIA pažymi, kad kalbai silpstant veido išraiška gali aiškiau nei žodžiai parodyti liūdesį, pyktį ar nusivylimą.
+- **Rimtai vertinkite rūpesčius.** Net jei nerimas kyla dėl klaidingo fakto, jausmas yra tikras.
 
-## What if they say something that is not true?
+## Ką daryti, jei žmogus pasako tai, kas neatitinka tikrovės?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Nesiginčykite. Greičiausiai neįtikinsite, o žmogus gali pasijusti sugėdintas ar išsigandęs. Verčiau atsiliepkite į jausmą, o tada švelniai nukreipkite pokalbį kita linkme.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance siūlo pirmiausia pripažinti jausmą, o tik tada nukreipti dėmesį. Pavyzdžiui, jei mama primygtinai tvirtina, kad turi pasiimti vaikus iš mokyklos:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Vietoj to: „Mama, tavo vaikai jau suaugę. Tai buvo prieš keturiasdešimt metų.“
+- Pabandykite: „Tu visada buvai tokia rūpestinga mama. Papasakok, kaip juos pasiimdavai. Gal pirmiausia ką nors užkąstume?“
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association taip pat pataria nesiginčyti dėl teiginių, su kuriais nesutinkate. Pasirinkite, dėl ko verta kalbėti: jei klaidingas įsitikinimas nekenksmingas, leiskite jam būti.
 
-## How does communication change as dementia progresses?
+## Kaip bendravimas keičiasi demencijai progresuojant?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Poreikiai laikui bėgant keičiasi, todėl keiskite ir savo būdą bendrauti. Alzheimer's Association aprašo tris pagrindines stadijas:
 
-| Stage | What helps |
+| Stadija | Kas padeda |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Ankstyva | Nemanykite, kad žmogus nebegali bendrauti. Įtraukite jį į pokalbius, kreipkitės tiesiogiai, paklauskite, kokios pagalbos jis norėtų, ir, jei tinka, pasitelkite humorą. |
+| Vidurinė | Pokalbiai vienas su vienu ramioje vietoje. Kalbėkite lėtai, palaikykite akių kontaktą, užduokite klausimus, į kuriuos galima atsakyti „taip“ arba „ne“, duokite nurodymus po vieną žingsnį ir nekritikuokite bei netaisykite. |
+| Vėlyva | Prieikite iš priekio ir pasakykite, kas esate. Skatinkite rodyti pirštu ir gestus. Naudokite prisilietimą, garsus, vaizdus ir kvapus. Niekada nekalbėkite taip, lyg žmogaus nebūtų šalia. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Kiekvienas žmogus yra skirtingas, o tas pats žmogus gali turėti ir geresnių, ir sunkesnių dienų. Reaguokite į tai, kaip jam sekasi dabar, o ne į pavadinimą ar stadiją.
 
-## Can pictures and activities make conversation easier?
+## Ar nuotraukos ir užsiėmimai gali palengvinti pokalbį?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Taip. Bendra nuotrauka sumažina spaudimą ir suteikia abiem ką nors, į ką galima žiūrėti ir rodyti.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Paveikslėliai pokalbiui.** [Conversation Cards](/games/conversation-cards/) siūlo paveikslėlius su atvirais klausimais, kurie niekada netikrina žinių.
+- **Šeimos nuotraukos.** [Photo Pairs](/games/photo-pairs/) paverčia jūsų pasirinktas nuotraukas švelniu porų žaidimu, kuris dažnai paskatina prisiminimus.
+- **Pažįstami posakiai.** [Finish the Saying](/games/finish-the-saying/) naudoja gerai žinomus amerikietiškus posakius, o po jų pateikia pokalbio užuominą.
+- **Porų žaidimai kaip fonas.** [Picture Pairs](/games/picture-pairs/) suteikia rankoms veiklos, kol kalbatės.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Daugiau rasite skyriuose [kaip žaisti kartu](/caregiving/how-to-play-together/) ir [prisiminimų užsiėmimai](/activities/reminiscence/). Apie apsilankymus ir skambučius skaitykite mūsų giduose [apsilankymai](/activities/visiting/) ir [skambučiai telefonu ir vaizdo skambučiai](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Jei bendraujate su keliomis kalbomis kalbančiu žmogumi, skaitykite mūsų [gidą apie bendravimą keliomis kalbomis](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Ką daryti, jei prarandu kantrybę?
+
+Taip nutinka visiems. NIA pataria, kad jei pasijutote susierzinę, skirkite šiek tiek laiko nusiraminti. Išeikite į kitą kambarį, kelis kartus lėtai įkvėpkite ir grįžkite, kai jausitės ramesni. Pokalbį visada galite pradėti iš naujo, o žmogus gali geriau reaguoti į jūsų ramesnę nuotaiką. Jei susierzinimas tampa nuolatinis, tai ženklas, kad jums reikia daugiau pagalbos, o ne kad jums nepavyksta. Mūsų gide [kaip rūpintis savimi](/caregiving/caregiver-self-care/) rasite, kur kreiptis pagalbos.

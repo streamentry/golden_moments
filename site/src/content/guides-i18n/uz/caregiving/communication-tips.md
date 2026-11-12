@@ -1,34 +1,34 @@
 ---
-title: "Demensiyali inson bilan gaplashish boʻyicha maslahatlar"
-seoTitle: "Demensiya bilan muloqot: nima deyish, nimadan qochish"
-description: "Demensiya bilan yashayotgan inson bilan gaplashishning amaliy yoʻllari: suhbatni qanday boshlash, sinash yoki tuzatish oʻrniga nima deyish va qanday tinglash."
+title: "Demensiya bilan yashovchi inson bilan muloqot maslahatlari"
+seoTitle: "Demensiya: muloqot maslahatlari, nima deyish kerak"
+description: "Demensiya bilan yashayotgan inson bilan suhbatlashish bo‘yicha amaliy maslahatlar: suhbatni qanday boshlash, so‘roq qilmaslik va tuzatmaslik, qanday tinglash."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sokin joyda gaplashing, insonga yuzma-yuz boʻling, ismini ayting va qisqa,
-  oddiy gaplar bilan sekin gapiring. Bir vaqtda bitta savol bering, ochiq
-  savollar oʻrniga ikki variant taklif qiling va oʻzingizga tabiiy tuyulganidan
-  koʻproq kuting. Bahslashmang, tuzatmang va sinamang. Soʻzlar ortidagi
-  tuygʻuga javob bering, nutq qiyinlashgani sari teginish, rasmlar va
-  imolardan foydalaning.
+  Tinch joyda gaplashing, insonning yuziga qarang, uning ismini ayting va qisqa,
+  oddiy jumlalar bilan sekinroq gapiring. Bir paytda bitta savol bering, ochiq
+  savollar o‘rniga ikkita tanlov taklif qiling va odatdagidan ko‘proq kuting.
+  Bahslashmang, tuzatmang va sinov savollarini bermang. So‘zlar ortidagi
+  his-tuyg‘ularga javob bering hamda nutq qiyinlashganda teginish, rasmlar va
+  imo-ishoralardan foydalaning.
 keyPoints:
-  - "Gap boshlashdan oldin fon shovqinini kamaytiring va koʻz bilan aloqa oʻrnating."
-  - "Qisqa gaplardan foydalaning, bir vaqtda bitta fikr, va «u», «ular» oʻrniga ismlardan."
-  - "Ochiq savollar oʻrniga ikki variantli tanlov yoki «ha-yoʻq» savoli bering."
-  - "Javobni kuting. Tushunilmasa, oʻsha soʻzlarni takrorlang, keyin yangilarini sinab koʻring."
-  - "Bahslashmang yoki tuzatmang. Aytganlari ortidagi tuygʻuga javob bering."
-  - "Soʻzlar susaygani sari teginish, ohang, yuz ifodasi va birga koʻriladigan rasmlar orqali muloqot qiling."
+  - "Gapirishni boshlashdan oldin atrofdagi shovqinni kamaytiring va insonning ko‘ziga qarab e’tiborini oling."
+  - "Qisqa jumlalardan, bir paytda bitta fikrdan va «u», «ular» o‘rniga ismlardan foydalaning."
+  - "Ochiq savollar o‘rniga ikkita tanlov yoki «ha» yoki «yo‘q» deb javob beriladigan savol bering."
+  - "Javobni kuting. Agar inson tushunilmasa, avval o‘sha so‘zlarni takrorlang, keyin boshqacha so‘zlar bilan ayting."
+  - "Bahslashmang va tuzatmang. Aytgan gaplari ortidagi his-tuyg‘uga javob bering."
+  - "So‘zlar kamayib borgani sari teginish, ohang, yuz ifodasi va birgalikda ko‘riladigan rasmlar orqali muloqot qiling."
 faq:
-  - q: "Demensiyali insonga nima demaslik kerak?"
-    a: "Sinashdan («Eslaysizmi...?»), tuzatishdan («Bu notoʻgʻri»), yoʻqotishlarni eslatishdan («Aytgan edim-ku») va uni yoʻqdek u haqida gaplashishdan qoching. Bolalarcha gapirmang. Bular yordam bermasdan odatda xijolat yoki iztirob keltiradi."
-  - q: "Faktlarni xato aytsa, tuzatishim kerakmi?"
-    a: "Odatda yoʻq. Xato fakt zararsiz boʻlsa, qoldiring. Bahslashish kamdan-kam insonning fikrini oʻzgartiradi va koʻpincha uni xafa qiladi. Hozir u qanday his qilayotgani va nimaga muhtojligiga e’tibor bering."
-  - q: "Soʻzni topa olmasa, nima qilaman?"
-    a: "Avval unga vaqt bering. Aniq qiynalayotgan boʻlsa, soʻzni muloyim taklif qilish yoki nimani nazarda tutganini taxmin qilib, tekshirish joiz. Ishora qilish, imolar va rasmlar ham yordam berishi mumkin."
-  - q: "Demensiyaning kech bosqichidagi kam gapiradigan inson bilan qanday gaplashaman?"
-    a: "Roʻparasidan yaqinlashing, kimligingizni ayting, xotirjam ovoz va muloyim teginishdan foydalaning. Tuygʻular uchun yuz va tana tiliga qarang. Sizning yoningizda boʻlishingiz, tanish qoʻshiq yoki qoʻl ushlash soʻzsiz ham juda koʻp narsani yetkazishi mumkin."
+  - q: "Demensiya bilan yashayotgan insonga nimalarni demaslik kerak?"
+    a: "Sinov savollaridan («Esingizdami...?»), tuzatishdan («Bu noto‘g‘ri»), yo‘qotishlarni eslatishdan («Men sizga aytgan edim») va u go‘yo yonida yo‘qdek gapirishdan saqlaning. Bolalardek gapirmang. Bunday gaplar ko‘pincha foyda bermasdan, uyalish yoki xafa bo‘lishga sabab bo‘lishi mumkin."
+  - q: "Ular faktlarda xato qilganda, tuzatishim kerakmi?"
+    a: "Odatda yo‘q. Agar noto‘g‘ri aytilgan narsa zarar keltirmasa, e’tibor bermaslik mumkin. Bahslashish kamdan-kam insonning fikrini o‘zgartiradi va ko‘pincha uni xafa qiladi. Hozir u qanday his qilayotgani va nimaga muhtojligiga e’tibor qarating."
+  - q: "Ular so‘zni topa olmaganda nima qilishim kerak?"
+    a: "Avval ularga vaqt bering. Agar aniq qiynalayotganini ko‘rsangiz, muloyimlik bilan so‘zni taklif qilish yoki nimani nazarda tutayotganini taxmin qilib, tekshirish mumkin. Ko‘rsatish, imo-ishoralar va rasmlar ham yordam beradi."
+  - q: "Demensiyaning kech bosqichida, kam gapiradigan inson bilan qanday suhbatlashaman?"
+    a: "Old tomondan yaqinlashing, o‘zingizni tanishtiring va tinch ovoz hamda muloyim teginishdan foydalaning. His-tuyg‘ularni bilish uchun yuz ifodasi va tana tiliga e’tibor bering. Sizning yonida bo‘lishingiz, tanish qo‘shiq yoki qo‘l ushlash so‘zsiz ham ko‘p narsani ifodalashi mumkin."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Demensiya soʻz topishni, uzun gapga amal qilishni yoki fon shovqinini oʻchirib qoʻyishni qiyinlashtirishi mumkin. Bularning hech biri insonning bogʻlanishni xohlashdan toʻxtaganini anglatmaydi. Suhbatni qanday tayyorlash, qanday gapirish va qanday tinglashdagi kichik oʻzgarishlar gaplashishni ikkalangiz uchun osonroq va xotirjamroq qilishi mumkin.
+Demensiya so‘zlarni topishni, uzun jumlani tushunishni yoki atrofdagi shovqinni chetga surib qo‘yishni qiyinlashtirishi mumkin. Buning hech biri insonning muloqot qilish istagi yo‘qolganini anglatmaydi. Suhbatga qanday tayyorgarlik ko‘rishingiz, qanday gapirishingiz va qanday tinglashingizdagi kichik o‘zgarishlar suhbatni siz uchun ham, g‘amxo‘rlik qilayotgan insoningiz uchun ham osonroq va tinchroq qilishi mumkin.
 
-## Demensiyali inson bilan gaplashishda eng muhim maslahatlar qanday?
+## Demensiya bilan yashayotgan inson bilan gaplashishda eng muhim maslahatlar qanday?
 
-E’tiborini torting, oddiy boʻling va sabrli boʻling. Faqat beshta narsani eslab qolsangiz:
+Ularning e’tiborini oling, gapni sodda qiling va sabrli bo‘ling. Agar faqat beshta narsani eslab qolsangiz:
 
-1. **Xonani tinchlantiring va yuzma-yuz boʻling.** Televizorni oʻchiring, koʻz balandligida oʻtiring va ismini ayting.
-2. **Bir vaqtda bitta narsa ayting.** Qisqa gaplar, bitta fikr, bitta savol.
-3. **Ikki variant taklif qiling.** «Choy yoki qahva?» «Nima xohlaysiz?» dan osonroq.
-4. **Kuting.** Javob berishga tabiiy tuyulganidan koʻproq vaqt bering va gapini boʻlmaslikka harakat qiling.
-5. **Hech qachon bahslashmang yoki sinamang.** Faktlar toʻgʻrimi emas, u qanday his qilayotganiga javob bering.
+1. **Xonani tinchlantiring va ularning yuziga qarang.** Televizorni o‘chiring, ko‘zlar bir xil balandlikda bo‘ladigan joyda o‘tiring va ularning ismini ayting.
+2. **Bir paytda bitta narsa ayting.** Qisqa jumlalar, bitta fikr, bitta savol.
+3. **Ikkita tanlov taklif qiling.** «Choymi yoki kofemi?» degan savol «Nima ichishni xohlaysiz?» ga qaraganda osonroq.
+4. **Kuting.** Javob uchun odatdagidan ko‘proq vaqt bering va imkon qadar gapini bo‘lmang.
+5. **Hech qachon bahslashmang va sinov savollarini bermang.** Faktlar to‘g‘rimi yoki yo‘qmi, shunga emas, inson qanday his qilayotganiga javob bering.
 
-## Suhbatni qanday boshlayman?
+## Suhbatni qanday boshlashim kerak?
 
-Inson sizga e’tibor qaratishi uchun sharoit yarating. [Family Caregiver Alliance qoʻllanmasi](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) avval shovqinni cheklashni tavsiya qiladi: radio yoki televizorni oʻchiring, parda yoki eshikni yoping yoki tinchroq joyga oʻting.
+Inson e’tiborini sizga qaratishi uchun sharoit yarating. [Family Caregiver Alliance qo‘llanmasi](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) avvalo shovqinni kamaytirishni tavsiya qiladi: radio yoki televizorni o‘chiring, pardalarni yoki eshikni yoping yoki tinchroq joyga o‘ting.
 
-- **Roʻparasidan yaqinlashing.** Orqadan yoki yondan kelish choʻchitishi mumkin.
-- **Kimligingizni ayting.** «Assalomu alaykum, dada, men Madinaman, qizingiz.» Bu uni ismingizni qidirishdan qutqaradi.
-- **Uning balandligiga tushing.** U oʻtirgan boʻlsa, koʻzlaringiz bir balandlikda boʻlishi uchun oʻtiring yoki tiz choʻking.
-- **Yuzingiz va ohangingizni tekshiring.** [Milliy qarilik instituti (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ohang, ovoz balandligi, yuz ifodasi va tana tilingizdan xabardor boʻlishni va iliq, oddiy muomalaga intilishni tavsiya qiladi.
-- **Koʻzoynak va eshitish apparati taqilganiga ishonch hosil qiling.** Toʻliq koʻrmaydigan yoki eshitmaydigan suhbatga amal qilish qiyin.
+- **Old tomondan yaqinlashing.** Orqadan yoki yon tomondan kelish insonni cho‘chitishi mumkin.
+- **O‘zingizni tanishtiring.** «Salom, dada, bu men — qizingiz Sarah.» Bu ularga ismingizni eslashga urinishdan xalos qiladi.
+- **Ularning ko‘zi balandligida bo‘ling.** Agar ular o‘tirgan bo‘lsa, ko‘zlaringiz bir xil balandlikda bo‘lishi uchun siz ham o‘tiring yoki tiz cho‘king.
+- **Yuz ifodangiz va ohangingizga e’tibor bering.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ohang, ovoz balandligi, yuz ifodasi va tana tiliga e’tibor berishni hamda iliq, oddiy munosabatda bo‘lishni tavsiya qiladi.
+- **Ko‘zoynak va eshitish moslamalari taqilganini tekshiring.** To‘liq ko‘rib yoki eshitib bo‘lmaydigan suhbatni kuzatish qiyin.
 
-## Gapimni qanday ifodalashim kerak?
+## Gaplarimni qanday ifodalashim kerak?
 
-Oddiy soʻzlar, qisqa gaplar va xotirjam, past ovozdan foydalaning.
+Oddiy so‘zlar, qisqa jumlalar va tinch, pastroq ovozdan foydalaning.
 
-- **Har bir gapda bitta fikr.** «Paltongizni kiyaylik. Keyin tashqariga chiqamiz.» Ikkalasini bir nafasda emas.
-- **Olmosh emas, ismlardan foydalaning.** «Jamila xola qoʻngʻiroq qildi» «U qoʻngʻiroq qildi» dan aniqroq.
-- **Balandroq emas, pastroq gapiring.** Family Caregiver Alliance ovozni koʻtarishdan koʻra pastroq ovozni tavsiya qiladi.
-- **Takrorlang, keyin boshqacha ayting.** Tushunmasa, oʻsha soʻzlarni bir marta takrorlang. Bu yordam bermasa, bir lahza kutib, boshqa soʻzlar sinab koʻring.
-- **Aytish bilan birga koʻrsating.** Piyolaga ishora qiling, ikki kofta koʻrsating yoki birinchi qadamni koʻrsating.
-- **Unga gapiring, u haqida emas.** NIA insonni yoʻqdek u haqida gaplashishdan va «bolalarcha gapirish»dan ogohlantiradi.
+- **Har bir jumlada bitta fikr bo‘lsin.** «Keling, paltongizni kiyamiz. Keyin tashqariga chiqamiz.» Ikkalasini bir nafasda aytmang.
+- **Olmoshlar o‘rniga ismlardan foydalaning.** «Jean xola qo‘ng‘iroq qildi» degan gap «U qo‘ng‘iroq qildi» ga qaraganda aniqroq.
+- **Ovozni balandroq emas, pastroq qiling.** Family Caregiver Alliance ovozni ko‘targandan ko‘ra, pastroq qilishni tavsiya qiladi.
+- **Takrorlang, keyin boshqacha ayting.** Agar tushunishmagan bo‘lsa, o‘sha so‘zlarni bir marta takrorlang. Agar bu yordam bermasa, biroz kuting va boshqa so‘zlar bilan aytib ko‘ring.
+- **Aytish bilan birga ko‘rsating ham.** Piyolani ko‘rsating, ikkita sviterni tutib ko‘rsating yoki birinchi qadamni namoyish qiling.
+- **Ular haqida emas, ular bilan gaplashing.** NIA inson go‘yo yonida yo‘qdek gapirishdan va «bolalardek gapirishdan» saqlanishni tavsiya qiladi.
 
-NIA keng tarqalgan savollarning soddaroq variantlarini tavsiya qiladi. Shu ruhdagi misollar:
+NIA odatiy savollarning soddaroq ko‘rinishlarini taklif qiladi. Mana shu ruhdagi misollar:
 
-| Oʻrniga | Sinab koʻring |
+| Buning o‘rniga | Buni sinab ko‘ring |
 | --- | --- |
-| «Kechki ovqatga nima xohlaysiz?» | «Baliq xohlaysizmi yoki tovuq?» |
-| «Oʻzingizni qanday his qilyapsiz?» | «Charchadingizmi?» |
-| «Ochmisiz?» | «Kechki ovqat besh daqiqada tayyor boʻladi.» |
-| «Bunday qilinmaydi.» | «Keling, bunday qilib koʻraylik.» |
-| «Koʻlga sayohatimizni eslaysizmi?» | «Koʻlga sayohatimiz haqida oʻylayotgan edim. Unda nima yoqqanini gapirib bering.» |
-| «Aytgan edim-ku.» | Yana, mehr bilan, goʻyo birinchi marta javob bering. |
+| «Kechki ovqatga nima yegingiz keladi?» | «Baliqmi yoki tovuqmi yeysiz?» |
+| «O‘zingizni qanday his qilyapsiz?» | «Charchagandek his qilyapsizmi?» |
+| «Qorningiz ochdimi?» | «Kechki ovqat besh daqiqadan keyin tayyor bo‘ladi.» |
+| «Buni bunday qilinmaydi.» | «Keling, boshqacharoq qilib ko‘ramiz.» |
+| «Ko‘l bo‘yidagi sayohatimizni eslaysizmi?» | «Ko‘l bo‘yidagi sayohatimizni o‘yladim. Sizga unda nima yoqqanini aytib bering.» |
+| «Men sizga aytgan edim.» | Go‘yo birinchi marta aytayotgandek, yana muloyimlik bilan javob bering. |
 
-## Qanday yaxshi tinglayman?
+## Qanday qilib yaxshi tinglashim mumkin?
 
-Faqat soʻzlarni emas, ma’no va tuygʻuni tinglang.
+Faqat so‘zlarni emas, ma’no va his-tuyg‘uni ham tinglang.
 
-- **Kuting.** Jimlik koʻpincha oʻylash vaqti. Aralashishdan oldin sekin oʻnga sanang.
-- **Soʻzni faqat qiynalsa taklif qiling.** Family Caregiver Alliance inson qiynalganda soʻz taklif qilish joiz ekanini aytadi.
-- **Eshitganingizni tekshiring.** [Alzheimer's Association muloqot qoʻllanmasi](https://www.alz.org/help-support/caregiving/daily-care/communications) soʻzlari ortidagi ma’noni izlashni va tushunganingizni tekshirish uchun qaytarishni tavsiya qiladi. «Mashina haqida xavotirdamisiz?»
-- **Yuzi va tanasiga qarang.** NIA ta’kidlashicha, nutq qiyinlashgani sari yuz ifodalari qay’gʻu, jahl yoki norozilikni soʻzlardan aniqroq koʻrsatishi mumkin.
-- **Tashvishlarini jiddiy qabul qiling.** Xavotir xato faktga asoslangan boʻlsa ham, tuygʻu haqiqiy.
+- **Kuting.** Jimlik ko‘pincha o‘ylash vaqti bo‘ladi. Aralashishdan oldin o‘n soniyagacha sekin sanang.
+- **Faqat qiynalayotganda so‘zni taklif qiling.** Family Caregiver Alliance inson qiynalayotganida so‘z taklif qilish mumkinligini aytadi.
+- **Eshitganingizni tekshiring.** [Alzheimer's Association muloqot bo‘yicha qo‘llanmasi](https://www.alz.org/help-support/caregiving/daily-care/communications) so‘zlar ortidagi ma’noni izlashni va to‘g‘ri tushunganingizni tekshirish uchun uni qayta aytib berishni tavsiya qiladi. «Mashina haqida xavotirdamisiz?»
+- **Yuz ifodasi va tana tiliga qarang.** NIA ta’kidlashicha, nutq qiyinlashgani sari yuz ifodalari qayg‘u, g‘azab yoki umidsizlikni so‘zlardan ko‘ra aniqroq ko‘rsatishi mumkin.
+- **Xavotirlarni jiddiy qabul qiling.** Agar tashvish noto‘g‘ri faktga asoslangan bo‘lsa ham, his-tuyg‘u haqiqiy bo‘ladi.
 
-## Haqiqat boʻlmagan narsa aytsa-chi?
+## Agar ular noto‘g‘ri narsa aytishsa nima qilaman?
 
-Bahslashmang. Gʻalaba qilish ehtimoli kam, inson esa xijolat boʻlishi yoki qoʻrqib qolishi mumkin. Buning oʻrniga tuygʻu bilan bogʻlaning, keyin muloyim boshqa mavzuga oʻting.
+Bahslashmang. G‘alaba qozonish ehtimoli kam, inson esa o‘zini uyalgan yoki qo‘rqqan his qilishi mumkin. Buning o‘rniga, his-tuyg‘uga javob bering, so‘ng muloyimlik bilan mavzuni o‘zgartiring.
 
-Family Caregiver Alliance yoʻnaltirishdan oldin hissiyotni tan olishni tavsiya qiladi. Masalan, onangiz bolalarni maktabdan olishi kerakligini ta’kidlasa:
+Family Caregiver Alliance e’tiborni boshqa narsaga qaratishdan oldin tuyg‘uni tan olishni tavsiya qiladi. Masalan, onangiz maktabdan bolalarni olib kelishi kerakligini aytsa:
 
-- Oʻrniga: «Oyi, bolalaringiz katta boʻlgan. Bu qirq yil oldin edi.»
-- Sinab koʻring: «Siz doim juda gʻamxoʻr ona boʻlgansiz. Ularni olib kelganingiz haqida gapirib bering. Avval biror narsa yeb olsakmikan?»
+- Buning o‘rniga: «Oyim, farzandlaringiz ulg‘ayib ketgan. Bu qirq yil oldin bo‘lgan.»
+- Buni sinab ko‘ring: «Siz har doim juda mehribon ona bo‘lgansiz. Ularni olib ketishingiz haqida gapirib bering. Avval tamaddi qilamizmi?»
 
-Alzheimer's Association ham siz rozi boʻlmagan gaplar ustida bahslashmaslikni tavsiya qiladi. Paytni tanlang: xato e’tiqod zararsiz boʻlsa, qoldiring.
+Alzheimer's Association ham siz qo‘shilmagan fikrlar yuzasidan bahslashmaslikni tavsiya qiladi. Vaqtni tanlang: agar noto‘g‘ri tushuncha zarar keltirmasa, uni shunday qoldiring.
 
-## Demensiya rivojlangan sari muloqot qanday oʻzgaradi?
+## Demensiya rivojlanishi bilan muloqot qanday o‘zgaradi?
 
-Ehtiyojlar vaqt oʻtishi bilan oʻzgaradi, shuning uchun yondashuvingizni moslang. Alzheimer's Association uch keng bosqichni ta’riflaydi:
+Ehtiyojlar vaqt o‘tishi bilan o‘zgaradi, shuning uchun yondashuvingizni moslang. Alzheimer's Association uchta umumiy bosqichni ta’riflaydi:
 
 | Bosqich | Nima yordam beradi |
 | --- | --- |
-| Erta | U muloqot qila olmaydi deb hisoblamang. Uni suhbatlarga qoʻshing, toʻgʻridan-toʻgʻri gapiring, qanday yordam xohlashini soʻrang va foydali boʻlsa, hazildan foydalaning. |
-| Oʻrta | Sokin joyda yakkama-yakka suhbatlar. Sekin gapiring, koʻz bilan aloqani saqlang, «ha-yoʻq» savollaridan foydalaning, bosqichma-bosqich koʻrsatma bering, tanqid qilmang va tuzatmang. |
-| Kech | Roʻparasidan yaqinlashing va kimligingizni ayting. Ishora va imolarni ragʻbatlantiring. Teginish, tovushlar, koʻrinishlar va hidlardan foydalaning. Hech qachon u yoʻqdek gaplashmang. |
+| Erta | Ular muloqot qila olmaydi deb o‘ylamang. Ularni suhbatga qo‘shing, to‘g‘ridan-to‘g‘ri ular bilan gaplashing, qanday yordam xohlashlarini so‘rang va agar foydasi bo‘lsa, hazildan foydalaning. |
+| O‘rta | Tinch joyda yakkama-yakka suhbatlar. Sekinroq gapiring, ko‘z aloqasini saqlang, «ha» yoki «yo‘q» deb javob beriladigan savollardan foydalaning, ko‘rsatmalarni bosqichma-bosqich bering va tanqid qilmang yoki tuzatmang. |
+| Kech | Old tomondan yaqinlashing va o‘zingizni tanishtiring. Ko‘rsatish va imo-ishoralarga undang. Teginish, tovushlar, ko‘rinishlar va hidlardan foydalaning. Hech qachon ular yonida yo‘qdek gapirmang. |
 
-Har bir inson boshqacha, bir insonning ham yaxshi va qiyin kunlari boʻlishi mumkin. Hozir u qanday ekaniga javob bering, yorliqqa emas.
+Har bir inson boshqacha va bir insonning o‘zida ham yaxshi va qiyin kunlar bo‘lishi mumkin. Belgilarga emas, hozir ular qanday ekanligiga javob bering.
 
-## Rasmlar va mashgʻulotlar suhbatni osonlashtira oladimi?
+## Rasmlar va mashg‘ulotlar suhbatni osonlashtirishi mumkinmi?
 
-Ha. Birgalikdagi rasm bosimni olib tashlaydi va ikkalangizga qarash va ishora qilish uchun narsa beradi.
+Ha. Birgalikda ko‘riladigan rasm bosimni kamaytiradi va ikkalangizga qarash hamda ko‘rsatish uchun nimanidir beradi.
 
-- **Rasmli savollar.** [Suhbat kartalari](/games/conversation-cards/) hech qachon sinamaydigan ochiq savollar bilan rasmlarni taklif qiladi.
-- **Oilaviy suratlar.** [Surat juftliklari](/games/photo-pairs/) siz tanlagan suratlarni muloyim moslashtirish oʻyiniga aylantiradi, bu koʻpincha hikoyalarni uygʻotadi.
-- **Tanish iboralar.** [Maqolni tugating](/games/finish-the-saying/) taniqli amerikacha maqollardan foydalanadi, keyin suhbat uchun savol beradi.
-- **Moslashtirish oʻyinlari fon sifatida.** [Rasm juftliklari](/games/picture-pairs/) gaplashayotganda qoʻllaringizga ish beradi.
+- **Rasmli savollar.** [Conversation Cards](/games/conversation-cards/) hech qachon sinov savollarini bermaydigan, ochiq savollar bilan rasmlar taklif qiladi.
+- **Oilaviy suratlar.** [Photo Pairs](/games/photo-pairs/) siz tanlagan suratlarni yumshoq moslashtirish o‘yiniga aylantiradi, bu ko‘pincha xotiralarni uyg‘otadi.
+- **Tanish iboralar.** [Finish the Saying](/games/finish-the-saying/) mashhur Amerika iboralaridan foydalanadi va ularning har biridan keyin suhbat uchun savol beradi.
+- **Suhbat fonida moslashtirish o‘yinlari.** [Picture Pairs](/games/picture-pairs/) suhbatlashayotganda qo‘llaringiz bilan shug‘ullanish imkonini beradi.
 
-Koʻproq ma’lumot uchun [birga oʻyin oʻynash](/caregiving/how-to-play-together/) va [xotira mashgʻulotlariga](/activities/reminiscence/) qarang. Ziyoratlar va qoʻngʻiroqlar uchun [ziyorat qilish](/activities/visiting/) va [telefon va video qoʻngʻiroqlar](/activities/phone-and-video-calls/) qoʻllanmalarimizni oʻqing.
+Batafsil ma’lumot uchun [birgalikda o‘yin o‘ynash](/caregiving/how-to-play-together/) va [xotiralarni yodga olish mashg‘ulotlari](/activities/reminiscence/) bo‘limlariga qarang. Tashriflar va qo‘ng‘iroqlar uchun [tashriflar](/activities/visiting/) hamda [telefon va video qo‘ng‘iroqlar](/activities/phone-and-video-calls/) bo‘yicha qo‘llanmalarimizni o‘qing.
 
-## Sabrim tugasa-chi?
+Bir nechta tilda gaplashadigan inson haqida ma’lumot uchun [turli tillarda muloqot qilish bo‘yicha qo‘llanmamizni](/caregiving/language-and-dementia-communication/) ko‘ring.
 
-Bu hammada boʻladi. NIA asabiylashsangiz, tinchlanish uchun biroz vaqt olishni tavsiya qiladi. Boshqa xonaga oʻting, bir necha sekin nafas oling va boʻlganda qayting. Suhbatni har doim qaytadan boshlashingiz mumkin, inson ham sizning xotirjamroq kayfiyatingizga javob berishi mumkin. Asabiylashish doimiy boʻlib qolsa, bu muvaffaqiyatsizlik emas, koʻproq yordam kerakligining belgisi. [Qarovchining oʻzini parvarishlashi](/caregiving/caregiver-self-care/) qoʻllanmamizda murojaat qilish mumkin boʻlgan joylar bor.
+## Agar sabrim tugasa nima qilaman?
+
+Bu hamma bilan bo‘lib turadi. NIA agar asabiylashsangiz, tinchlanish uchun biroz vaqt ajratishni tavsiya qiladi. Boshqa xonaga o‘ting, bir necha marta sekin nafas oling va tinchroq bo‘lganingizda qayting. Suhbatni har doim qaytadan boshlashingiz mumkin va inson sizning tinch kayfiyatingizga javob berishi ehtimoli bor. Agar asabiylashish doimiy holga kelsa, bu sizning muvaffaqiyatsizligingiz emas, balki ko‘proq yordamga muhtojligingizning belgisi. [G‘amxo‘r shaxs o‘ziga g‘amxo‘rlik qilishi](/caregiving/caregiver-self-care/) bo‘yicha qo‘llanmamizda murojaat qilish mumkin bo‘lgan manbalar bor.

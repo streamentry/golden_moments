@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Demensiýasy bolan adam bilen gürleşmegiň maslahatlary"
+seoTitle: "Demensiýa: gürleşmek üçin peýdaly maslahatlar"
+description: "Demensiýasy bolan adam bilen gürleşmegiň ýönekeý usullary: söhbetdeşligi nähili sazlamaly, näme diýmeli we üns bilen nähili diňlemeli."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Ümsüm ýer saýlaň, adamyň ýüzüne serediň, adyny ulanyň we haýal, gysga we
+  ýönekeý sözlemler bilen gürleşiň. Bir gezekde bir sorag beriň, açyk soraglaryň
+  ýerine iki saýlaw hödürläň we adatdakydan has uzaga garaşyň. Jedelleşmäň,
+  düzediş girizmäň we synama soraglar bermeň. Sözleriň arkasyndaky duýga jogap
+  beriň; söz tapmak kynlaşanda degmek, suratlar we yşaratlar arkaly gürleşiň.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Gürleşip başlamazdan ozal daş-töwerekdäki sesleri azaltmaly we göze-göz aragatnaşyk gurmaly."
+  - "Gysga sözlemler ulanyň, bir gezekde bir pikir aýdyň we ol, şol ýa-da olar ýerine atlaryny ulanyň."
+  - "Açyk soraglaryň ýerine iki saýlawly ýa-da hawa/ýok görnüşindäki soraglary beriň."
+  - "Jogaba garaşyň. Sizi düşünmese, şol bir sözleri gaýtalaň, soň başga sözler bilen synanyşyň."
+  - "Jedelleşmäň we düzediş girizmäň. Olaryň aýdýan zatlarynyň arkasyndaky duýga jogap beriň."
+  - "Sözler kynlaşanda, degmek, ses äheňi, ýüz keşbi we bile seredilýän suratlar arkaly aragatnaşyk saklaň."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Demensiýasy bolan adama näme diýmeli däl?"
+    a: "Synama soraglardan («Ýadyňyzdamy...?»), düzedişlerden («Bu ýalňyş»), ýitgileri ýatlatmakdan («Men eýýäm aýtdym») we adamy ýok ýaly gürrüň etmekden gaça duruň. Çaga dili bilen gürleşmäň. Şeýle sözler köplenç utanç ýa-da tolgunma döredýär, ýöne kömek etmeýär."
+  - q: "Faktlary ýalňyş aýdanda, düzedip durmalymy?"
+    a: "Adatça ýok. Ýalňyş maglumat zyýanly bolmasa, ony goýberiň. Jedelleşmek köplenç adamyň pikirini üýtgetmeýär we ony hasam gynandyryp biler. Häzirki wagtda onuň nähili duýýandygyna we nämä mätäçdigine üns beriň."
+  - q: "Söz tapyp bilmän kynalanda näme etmeli?"
+    a: "Ilki bilen oňa wagt beriň. Eger ol aýdyň kynalýan bolsa, ýuwaşja söz teklip etmek ýa-da näme diýjek bolýandygyny çaklap, tassyklamak bolýar. Barmak bilen görkezmek, yşaratlar we suratlar hem kömek edip biler."
+  - q: "Giňişleýin tapgyrdaky demensiýasy bolan we seýrek gürleýän adam bilen nähili gürleşmeli?"
+    a: "Öňünden ýakynlaşyň, kimdigiňizi aýdyň, asuda ses we ýumşak degmek ulanyň. Duýgularyny bilmek üçin ýüz keşbine we beden diline üns beriň. Siziň ýanyňyzda bolmagyňyz, tanyş aýdym ýa-da elinden tutmak sözsiz hem köp zat aýdyp biler."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +39,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demensiýa söz tapmagy, uzyn sözlemi yzarlamagy ýa-da daş-töwerekdäki sesleri äsgermezlik etmegi kynlaşdyryp biler. Bu bolsa adamyň başgalar bilen baglanyşykda bolmak isleginiň ýokdugyny aňlatmaýar. Söhbetdeşligi nähili taýýarlamagyňyz, nähili gürleşmegiňiz we nähili diňlemegiňiz babatda azajyk üýtgeşmeler iki tarapyňyz üçin hem gürleşmegi has aňsat we rahat edip biler.
 
-## What are the most important tips for talking with someone who has dementia?
+## Demensiýasy bolan adam bilen gürleşmegiň iň möhüm maslahatlary haýsylar?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Adamyň ünsüni özüňize alyň, ýönekeý gürleşiň we sabyrly boluň. Diňe bäş zady ýatda saklasaňyz:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Otagy ümsüm ediň we ýüzbe-ýüz boluň.** Telewizory öçüriň, gözüňiziň deň derejesinde oturyň we adyny ulanyň.
+2. **Bir gezekde bir zat aýdyň.** Gysga sözlemler, bir pikir, bir sorag.
+3. **Iki saýlaw hödürläň.** «Çaýmy ýa-da kofemi?» diýen sorag «Näme isleýärsiňiz?» diýen soragdan has aňsat.
+4. **Garaşyň.** Jogap üçin adatdakydan has köp wagt beriň we sözüni bölmäge synanyşmaň.
+5. **Jedelleşmäň we synama sorag bermäň.** Faktlaryň dogrulygyna däl-de, onuň nähili duýýandygyna jogap beriň.
 
-## How should I start a conversation?
+## Söhbetdeşligi nähili başlamaly?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Adamyň size üns bermegine kömek eder ýaly şert dörediň. [Family Caregiver Alliance gollanmasy](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ilki bilen sesleri azaltmagy maslahat berýär: radio ýa-da telewizory öçüriň, perdeleri ýa-da gapyny ýapyň, ýa-da has ümsüm ýere geçiň.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Öňünden ýakynlaşyň.** Arka ýa-da gapdal tarapdan gelmek adamy gorkuzyp biler.
+- **Kimdigiňizi aýdyň.** «Salam kaka, men Siziň gyzyňyz Sarah» diýmek, oňa adyňyzy ýatlamaga synanyşmazlyga kömek edýär.
+- **Onuň derejesine düşüň.** Eger ol oturan bolsa, gözleriňiz deň bolmagy üçin siz hem oturyň ýa-da dyza çökgüň.
+- **Ýüz keşbiňize we ses äheňiňize üns beriň.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ses äheňiňize, sesiňiziň derejesine, ýüz keşbiňize we beden diliňize üns bermegi, mähirli we ýönekeý gürleşmegi maslahat berýär.
+- **Äýnek we eşidiş enjamlarynyň dakylýandygyny barlaň.** Doly görüp ýa-da eşidip bolmaýan söhbetdeşligi yzarlamak kyn.
 
-## How should I phrase what I say?
+## Aýdýan sözlerimi nähili düzmeli?
 
-Use simple words, short sentences and a calm, low voice.
+Ýönekeý sözleri, gysga sözlemleri we asuda, pes ses ulanyň.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Her sözlemde bir pikir bolsun.** «Geliň, paltoňyzy geýeliň. Soň daşaryk çykarýarys.» Diňe ikisini birdem aýtmaň.
+- **At çalyşmalarynyň ýerine atlary ulanyň.** «Jeýza daýza jaň etdi» diýmek «Ol jaň etdi» diýmekden has düşnükli.
+- **Sesiň pes bolsun, gaty däl.** Family Caregiver Alliance gaty sesiň ýerine pes ses ulanmagy maslahat berýär.
+- **Gaýtalaň, soň başgaça aýdyň.** Ol düşünmese, şol bir sözleri bir gezek gaýtalaň. Netije bermese, biraz garaşyp, başga sözler bilen synanyşyň.
+- **Diňe aýtmak bilen çäklenmäň, görkeziň hem.** Çeňňege barmak bilen görkeziň, iki switeri eliňize alyň ýa-da ilkinji ädimi görkeziň.
+- **Onuň bilen gürleşiň, onuň hakynda däl.** NIA adamy ýok ýaly gürrüň etmekden we «çaga dili» bilen gürleşmekden gaça durmagy maslahat berýär.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA adaty soraglaryň has ýönekeý görnüşlerini teklip edýär. Ine, şol ruhdaky mysallar:
 
-| Instead of | Try |
+| Munuň ýerine | Muny synanyşyň |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Agşamlyk naharyna näme isleýärsiňiz?» | «Balykmy ýa-da towukmy isleýärsiňiz?» |
+| «Özüňizi nähili duýýarsyňyz?» | «Ýadaw duýýarsyňyzmy?» |
+| «Açmy?» | «Agşamlyk nahary bäş minutdan taýýar bolar.» |
+| «Bu şeýle edilmeýär.» | «Geliň, şunuň ýaly synap göreliň.» |
+| «Köl kenaryndaky syýahatymyzy ýadyňyzdamy?» | «Köl kenaryndaky syýahatymyz hakda pikir etdim. Size iň ýaran zatlaryňyz barada aýtsaňyz.» |
+| «Men eýýäm aýtdym.» | Ilkinji gezek aýdýan ýaly, mähirli ýagdaýda ýene jogap beriň. |
 
-## How do I listen well?
+## Üns bilen nähili diňlemeli?
 
-Listen for the meaning and the feeling, not just the words.
+Diňe sözlere däl, olaryň manysyna we duýgusyna hem diňläň.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Garaşyň.** Ümsümlik köplenç pikirlenmek üçin wagt bolýar. Aralaşmazdan ozal haýal ýagdaýda on sany hasaplaň.
+- **Diňe kynalanda söz teklip ediň.** Family Caregiver Alliance adamyň kynalýanyny görseňiz, oňa söz teklip etmegiň ýerliklidigini aýdýar.
+- **Eşiden zadyňyzy barlaň.** [Alzheimer's Association-yň aragatnaşyk gollanmasy](https://www.alz.org/help-support/caregiving/daily-care/communications) aýdylan sözleriň aňyrsyndaky manyny gözlemegi we dogry düşüneniňizi barlamak üçin ony gaýtalap aýtmagy maslahat berýär. «Awtoulag barada alada edýärsiňizmi?»
+- **Ýüzüne we bedenine üns beriň.** Söz bilen gürleşmek kynlaşanda, NIA-nyň belleýşi ýaly, ýüz keşbi gynançy, gahary ýa-da lapykeçligi sözlerden has aýdyň görkezip biler.
+- **Aladalary çynlakaý kabul ediň.** Alada ýalňyş maglumatdan dörän bolsa-da, duýgy hakyky bolýar.
 
-## What if they say something that is not true?
+## Dogry bolmadyk bir zat aýtsa näme etmeli?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Jedelleşmäň. Jedelleşmek köplenç netijesiz bolýar we adam özüni utanan ýa-da gorkan ýaly duýup biler. Onuň ýerine, duýga düşünip ýakynlaşyň we soň ýuwaşlyk bilen başga zada geçiň.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance başga zada geçirmezden ozal duýgyny kabul etmegi maslahat berýär. Mysal üçin, eger ejeňiz çagalary mekdepden almaly bolýandygyny aýtsa:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Munuň ýerine: «Eje, çagalaryňyz ulaldy. Ol işiň üstünden kyrk ýyl geçdi.»
+- Muny synanyşyň: «Siz elmydama gaty aladaly eje bolduňyz. Olary almak barada maňa gürrüň berseňiz. Ilki çal iýsek bolarmy?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association hem ylalaşmaýan pikirleriňiz barada jedelleşmezligi maslahat berýär. Pursat saýlaň: ýalňyş pikir zyýanly bolmasa, ony goýberiň.
 
-## How does communication change as dementia progresses?
+## Demensiýa öňe barýança aragatnaşyk nähili üýtgeýär?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Zerurlyklar wagtyň geçmegi bilen üýtgeýär, şonuň üçin çemeleşmäňizi hem sazlaň. Alzheimer's Association üç esasy tapgyry beýan edýär:
 
-| Stage | What helps |
+| Tapgyr | Näme kömek edýär |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Irki | Olaryň gürleşip bilmeýändigini çak etmäň. Olary söhbetdeşliklere goşuň, göni olar bilen gürleşiň, haýsy kömegiň gerekdigini soraň we ýerlikli bolsa, degişme ulanyň. |
+| Orta | Ümsüm ýerde ýeke-ýekeden gürleşiň. Haýal gürleşiň, göze-göz gatnaşygy saklaň, hawa/ýok soraglaryny ulanyň, ädim-ädim görkezmeler beriň we tankyt etmäň ýa-da düzediş girizmäň. |
+| Giňişleýin | Öňünden ýakynlaşyň we kimdigiňizi aýdyň. Barmak bilen görkezmegi we yşaratlary höweslendiriň. Degmegi, sesleri, görülen zatlary we ysly zatlary ulanyň. Olary ýok ýaly gürleşmäň. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Her adam başgaça bolýar we şol bir adamyň özi hem gowy we kyn günleri başdan geçirip biler. Bir bellige däl-de, adamyň häzirki ýagdaýyna jogap beriň.
 
-## Can pictures and activities make conversation easier?
+## Suratlar we işler gürleşmegi aňsatlaşdyryp bilermi?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Hawa. Bile seredilýän surat basyşy azaldýar we ikiňize hem seredip, görkezip biljek bir zat berýär.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Surat arkaly soraglar.** [Conversation Cards](/games/conversation-cards/) synama soragsyz açyk soragly suratlary hödürleýär.
+- **Maşgala suratlary.** [Photo Pairs](/games/photo-pairs/) saýlan suratlaryňyzy ýumşak gabat getirme oýnuna öwürýär we bu köplenç ýatlamalary oýandyrýar.
+- **Tanyş sözler.** [Finish the Saying](/games/finish-the-saying/) meşhur sözleri ulanýar we soň gürrüňe itergi berýän sorag hödürleýär.
+- **Gabat getirme oýunlary.** [Picture Pairs](/games/picture-pairs/) gürleşip otyrkaňyz eliňizi bir zat bilen meşgullamaga kömek edýär.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Has giňişleýin maglumat üçin [bilelikde oýnamak baradaky gollanmamyza](/caregiving/how-to-play-together/) we [ýatlamalara esaslanýan işler](/activities/reminiscence/) serediň. Saparlar we jaňlar barada [myhmançylyga barmak](/activities/visiting/) we [telefon we wideo jaňlary](/activities/phone-and-video-calls/) gollanmalarymyzdan okaň.
 
-## What if I lose my patience?
+Birnäçe dilde gürleýän adam barada bolsa, [diller boýunça aragatnaşyk gollanmamyza](/caregiving/language-and-dementia-communication/) serediň.
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Sabrym tükenýän bolsa näme etmeli?
+
+Bu hemmeler bilen bolup bilýär. NIA gaharyňyz gelse, köşeşmek üçin birneme wagt aýyrmagy maslahat berýär. Başga otaga geçiň, birnäçe gezek haýal dem alyň we köşeşeniňizden soň gaýdyp geliň. Söhbetdeşligi täzeden başlap bilersiňiz we adam siziň has asuda ýagdaýyňyza oňat jogap berip biler. Eger gaharlanmak ýygy-ýygydan gaýtalanýan bolsa, bu siziň başarmaýandygyňyzy däl-de, has köp goldawa mätäçdigiňizi görkezýär. [Idegçiniň özüne ideg etmek](/caregiving/caregiver-self-care/) gollanmamyzda ýüz tutup boljak ýerler bar.

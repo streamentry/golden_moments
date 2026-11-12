@@ -1,33 +1,32 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "ᑭᑲᓇᐧᐃᒋᐊᐧᐃᐧᓐ ᐊᐧᐊᐧᔥ ᑲᒪᓂᑎᓯᐨ ᑲᐧᐊᓇᑌᓂᒪᑲᓂᐧᐊᐠ"
+seoTitle: "ᑭᑲᓇᐧᐃᒋᐊᐧᐃᐧᓐ ᑲᒪᓂᑎᓯᐃᐧᓐ ᐊᐧᐊᓇᑌᓂᒪᑲᓂᐧᐊᐠ"
+description: "ᑲᔭᐱᐦᐃᑦ ᑭᑲᓇᐧᐃᒋᐊᐧᐃᐧᓇᐣ ᐊᐧᐊᐧᔥ ᑲᒪᓂᑎᓯᐨ ᑲᐧᐊᓇᑌᓂᒪᑲᓂᐧᐊᐠ: ᑖᓂᓯ ᑲᐧᐃᒋᐦᐊᔭᐣ, ᑖᓂᓯ ᑭᐃᑭᑐᔭᐣ, ᒥᓇ ᑖᓂᓯ ᑭᐱᔑᑐᐦᑖᐊᐧᐨ."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  ᑲᔭᐱᐦᐃᑦ ᐃᑌ ᑭᑲᓇᐧᐃᒋᐦᐊᐧᐊᐧᐠ, ᑭᑲᓇᐧᐊᐱᒪᐤ, ᑭᐃᔑᓂᑲᓇᐤ, ᒥᓇ ᐯᔭᐠ ᐱᒋ ᑲᐧᐃᓂᑎᐦᐊᑲᓂᐧᐊᐠ ᑭᐃᑭᑐᐣ
+  ᒋᑲᓇᐧᐊᐸᒋᐦᐃᑲᑌᑭᐣ. ᐯᔭᑯ ᑭᑲᑭᐧᐁᒋᒥᐦᐊᐤ, ᓃᔓ ᑭᑲᐧᐃᐧᐊᐧᐱᒪᐤ, ᒥᓇ ᓇᐧᐊᐧᐨ ᑭᑲᐱᐦᐅᐣ ᑭᐱᑕᐤ.
+  ᑲᐧᐃᓐ ᑭᑲᑭᑭᓄᐧᐊᐧᑕᐧᐊᐤ, ᑲᐧᐃᓐ ᑭᑲᑭᐧᐁᔭᐱᐦᐊᐤ, ᒥᓇ ᑲᐧᐃᓐ ᑭᑲᑲᑭᐧᐁᒋᒪᐤ. ᑭᑲᓇᓂᓯᑐᐦᑖᐧᐊᐤ ᑖᓂᓯ ᐁᐃᓯᒪᒋᐦᐊᐨ,
+  ᒥᓇ ᑲᐧᐃᐧᓇᐧᐃᐧᓇᐣ, ᒪᓯᓇᐦᐃᑲᓇᐣ, ᒥᓇ ᐃᓯᓂᑲᓱᐧᐃᐧᓇᐣ ᑭᑲᐊᐸᒋᐦᐊᐣ ᐊᐲ ᐊᓂᒪ ᐃᑭᑐᐧᐃᐧᓇᐣ ᐁᓵᓂᑭᐸᓂᑭ.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "ᒋᒪᐧᐁᓂᑕᑲᐧᐠ ᒥᓇ ᒋᐧᐊᐸᒪᐠ ᒥᐧᐁᓂᒋ ᑭᑲᓇᐧᐃᒋᐦᐊᐧᐨ."
+  - "ᑲᐧᐃᓂᑎᐦᐊᑲᓂᐧᐊᐠ ᑭᐃᑭᑐᐧᐃᓇᐣ ᐊᐸᒋᐦ, ᐯᔭᑯ ᐃᑌᐧᐃᐧᓐ, ᒥᓇ ᐃᔑᓂᑲᓱᐧᐃᓇᐣ ᐊᐸᒋᐦ."
+  - "ᓃᔓ ᐱᒋ ᑭᐧᐊᐧᐱᒪᐤ, ᒋᐸ ᒪ ᑭᑲᐧᐃᐧᐊᐧᐱᒪᐤ, ᐊᐧᐊᐧᔥ ᑲᒋᓂᑕᑲᐧᐠ ᑭᑭᐧᐁᒋᒧᐧᐃᐧᓐ."
+  - "ᐱᐦᐅᐣ ᒋᓇᑲᐧᐁᑕᒪᐠ ᐊᓂᒪ ᑭᐧᐃᐧᐊᐧᐱᒪᐨ. ᑲᐧᐃᔭ ᓂᓯᑐᐦᑖᑯᓯᐠ, ᒥᓇᐧᐊᐨ ᑭᑲᐃᑭᑐᐣ ᒥᓇᐧᐃᔭ, ᐊᐧᐊᐧᔥ ᑯᑕᑭᔭ ᐃᑭᑐᐧᐃᓇᐣ ᑭᑲᐊᐸᒋᐦᐊᐣ."
+  - "ᑲᐧᐃᓐ ᑭᑲᑭᑭᓄᐧᐊᐧᑕᐧᐊᐤ ᒪ ᑭᑲᑭᐧᐁᔭᐱᐦᐊᐤ. ᑭᑲᓇᓂᓯᑐᐦᑖᐧᐊᐤ ᑖᓂᓯ ᐁᐃᓯᒪᒋᐦᐊᐨ."
+  - "ᐊᐲ ᐃᑭᑐᐧᐃᓇᐣ ᐁᓵᓂᑭᐸᓂᑭ, ᑭᑲᑭᑲᓇᐧᐃᒋᐦᐃᑐᓇᐣ ᑲᐧᐃᐧᓇᐧᐃᐧᓐ, ᐃᓯᐦᑎᐧᐃᐧᓐ, ᐧᐊᐸᒥᐧᐃᐧᓐ, ᒥᓇ ᒪᒪᐧᐃ ᒪᓯᓇᐦᐃᑲᓇᐣ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "ᑖᓂᓯ ᑲᐧᐃᓐ ᑭᑲᐃᑭᑐᓯ ᐊᐧᐊᐧᔥ ᑲᒪᓂᑎᓯᐨ ᑲᐧᐊᓇᑌᓂᒪᑲᓂᐧᐊᐠ?"
+    a: "ᑲᐧᐃᓐ ᑭᑲᑲᑭᐧᐁᒋᒥᐦᐊᐤ («ᑭᒥᑭᐧᐁᓂᒪ ᒋ?»), ᑲᐧᐃᓐ ᑭᑲᑭᐧᐁᔭᐱᐦᐊᐤ («ᓇᒪᐧᐃᐧᓐ ᐁᑕ»), ᑲᐧᐃᓐ ᑭᑲᒥᑭᐧᐁᓂᒪᐦᐊᐤ ᑲᐧᐊᓂᐦᑖᐨ («ᐊᔥᑭ ᑭᐃᓂᓐ»), ᒥᓇ ᑲᐧᐃᓐ ᑭᑲᑕᒋᒪᐤ ᑕᐱᔅᑰᐨ ᐁᑲ ᐃᑌ ᐊᔭᓯᐠ. ᑲᐧᐃᓐ ᐊᐧᐊᐧᔕ ᑕᐱᔅᑰᐨ ᐊᐧᐊᐧᔭᔑᔑᓯᐠ ᑭᑲᑭᑲᓇᐧᐃᒋᐦᐊᐤ. ᐅᐦᐃ ᑲᐧᐃᓐ ᐧᐃᒋᐦᐃᐧᐁᐧᐃᓇᐣ, ᒥᓇ ᑲᐧᐃᓐ ᒥᓄᐃᓯᒪᒋᐦᐃᑯᓯᐧᐊᓂᐧᐊᐣ."
+  - q: "ᑭᑲᑭᐧᐁᔭᐱᐦᐊᐤ ᒋ ᐊᐲ ᑲᐧᐊᓂᐧᐃᑭᑐᐨ?"
+    a: "ᒪᐧᐁᓂᑦ ᑲᐧᐃᓐ. ᑲᐧᐃᔭ ᑲᐧᐊᓂᐧᐃᑭᑐᐨ ᒥᓇ ᑲᐧᐃᓐ ᒪᒋᐃᓯᓯᓂᑭ, ᐯᔭᑯ ᐱᓄᓂ. ᑭᑭᓄᐧᐊᐧᑕᐧᐃᐧᓐ ᑲᐧᐃᓐ ᓇᐧᐁᐨ ᒥᔑᓇᐦᐊᒪᑲᓂᐧᐊᐣ, ᒥᓇ ᒪᐧᐁᓂᑦ ᑭᒋᐧᐃᓵᑭᐦᐊᐤ. ᑭᑲᓇᓂᓯᑐᐦᑖᐧᐊᐤ ᑖᓂᓯ ᐁᐃᓯᒪᒋᐦᐊᐨ ᒥᓇ ᑖᓂᓯ ᐁᓇᑕᐧᐁᓂᑕᒪᐠ."
+  - q: "ᑖᓂᓯ ᑭᑲᑐᒋᐦᐊ ᐊᐲ ᑲᐧᐃᓐ ᐃᑭᑐᐧᐃᓐ ᒥᑭᑲᐣ?"
+    a: "ᓂᑲᓐ ᐱᐦᐅᐣ ᒋᐱᐦᐅᐨ. ᑲᐧᐃᔭ ᓇᐧᐁᐨ ᑲᐧᐃᐧᒋᐦᐃᐧᐁᐨ, ᒥᓄᓂ ᑭᑲᐧᐃᒋᐦᐊᐤ ᐯᔭᑯ ᐃᑭᑐᐧᐃᓐ ᒪ ᑭᑲᑭᑭᐧᐁᒋᒥᐦᐊᐤ ᑖᓂᓯ ᐁᐃᑌᔭᐣ, ᒥᓇ ᑭᑲᑲᑭᐧᐁᒋᒪᐤ. ᐃᓯᓂᑲᓱᐧᐃᐧᓐ, ᐃᓯᐧᐊᐸᒋᐦᐃᑲᓐ, ᒥᓇ ᒪᓯᓇᐦᐃᑲᓇᐣ ᒥᓇᐧᐃᔭ ᐧᐃᒋᐦᐃᐧᐁᐧᐊᐧᐠ."
+  - q: "ᑖᓂᓯ ᑭᑲᑭᑲᓇᐧᐃᒋᐦᐊᐤ ᐊᐧᐊᐧᔥ ᑭᔮᓯᐠ ᐁᒪᓂᑎᓯᐨ ᒥᓇ ᐸᐯᑕᐠ ᐁᑭᑲᓇᐧᐃᒋᐦᐃᑐᐨ?"
+    a: "ᐧᐊᐸᒪᐤ ᐅᐦᐊᒪ ᐱᒋ, ᐃᑭᑐ ᐊᐧᐁᓂᓐ, ᒥᓇ ᑲᔭᐱᐦᐃᑦ ᐱᒋ ᐃᑭᑐ ᒥᓇ ᑲᔭᐱᐦᐃᑦ ᐱᒋ ᑕᑯᑕᐧᐃᓐ. ᑭᑲᓇᓂᓯᑐᐦᑖᐧᐊᐤ ᐧᐊᐸᒥᐧᐃᓐ ᒥᓇ ᒪᔭᐧᐃᐧᓐ ᒋᐧᐊᐸᑕᒪᐣ ᑖᓂᓯ ᐁᐃᓯᒪᒋᐦᐊᐨ. ᑭᐃᑌᐧᐃᐧᓐ, ᐱᒋ ᓂᑲᒧᐧᐃᐧᓐ, ᒪ ᑭᐧᐃᐧᓂᒋᐦᐃᑐᐧᐃᐧᓐ ᑭᑲᐧᐃᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᒪᐧᐁᓂᑦ ᐁᑲ ᐃᑭᑐᐧᐃᓇᐣ ᐊᐸᒋᐦᐃᔭᐣ."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +38,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+ᒪᓂᑎᓯᐃᐧᓐ ᑲᐧᐊᓇᑌᓂᒪᑲᓂᐧᐊᐠ ᑲᐧᐃᓐ ᑭᑲᐧᐁᓂᑕᒪᑲᓂᐧᐊᐣ ᒋᒥᑭᑲᓂᐧᐊᐠ ᐃᑭᑐᐧᐃᓇᐣ, ᒋᓂᓯᑐᐦᑕᒪᑲᓂᐧᐊᐠ ᑭᓄᐧᐃᑭᑐᐧᐃᓇᐣ, ᒪ ᒋᐯᐦᐅᓇᒪᑲᓂᐧᐊᐠ ᒋᒪᐧᐁᓂᑕᑲᐧᐠ. ᐅᐦᐃ ᑲᐧᐃᓐ ᐃᑭᑐᐧᐃᓯᓂᑭ ᐁᑲ ᐊᐧᐃ ᑭᑲᓇᐧᐃᒋᐦᐃᑐᐨ. ᐸᐯᑕᐠ ᐊᓂᔑᓇᐯᒧᐧᐃᓇᐣ ᑖᓂᓯ ᑭᐧᐁᒋᐦᐊᔭᐣ, ᑖᓂᓯ ᑭᐃᑭᑐᔭᐣ, ᒥᓇ ᑖᓂᓯ ᑭᐱᔑᑐᐦᑖᐊᐧᐨ ᑭᑲᐧᐃᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᒋᐧᐁᓂᐸᓂᑭ ᒥᓇ ᒋᑲᔭᐱᐦᐃᑦ ᐃᓯᒪᒋᐦᐃᐧᐊᓂᐧᐊᐠ.
 
-## What are the most important tips for talking with someone who has dementia?
+## ᑖᓂᓯ ᒪᐧᐁᓂᑦ ᑲᓇᐧᐁᓂᑕᑲᐧᐠ ᒋᑭᑲᓇᐧᐃᒋᐦᐊᐧᐨ ᐊᐧᐊᐧᔥ ᑲᒪᓂᑎᓯᐨ ᑲᐧᐊᓇᑌᓂᒪᑲᓂᐧᐊᐠ?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+ᒋᐧᐊᐸᒪᐠ, ᐧᐁᓂᐸᓂᑭ ᑭᐃᑭᑐᐣ, ᒥᓇ ᐱᐦᐅᐣ. ᑲᐧᐃᔭ ᓂᔭᓇᓐ ᒥᑭᐧᐁᓂᒪᐣ, ᐅᐦᐃ ᓂᔭᓇᓐ ᑲᓇᐧᐁᓂᑕᓐ:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **ᒋᒪᐧᐁᓂᑕᑲᐧᐠ ᒥᓇ ᑭᑲᓇᐧᐊᐱᒪᐤ.** ᑲᐧᐃᔅᑲᐦᐅᐣ ᒪᓯᓇᐦᐃᑲᓐ, ᑭᑲᓇᐧᐊᐱ ᐊᐱ ᑕᐱᔅᑰᐨ ᐁᐊᐱᐨ, ᒥᓇ ᐃᔑᓂᑲᓇᐤ.
+2. **ᐯᔭᑯ ᐃᑭᑐ ᐯᔭᑯ ᐊᐲ.** ᑲᐧᐃᓂᑎᐦᐊᑲᓂᐧᐊᐠ ᐃᑭᑐᐧᐃᓇᐣ, ᐯᔭᑯ ᐃᑌᐧᐃᐧᓐ, ᐯᔭᑯ ᑭᑭᐧᐁᒋᒧᐧᐃᐧᓐ.
+3. **ᓃᔓ ᐱᒋ ᑭᐧᐊᐧᐱᒪᐤ.** «ᑎ ᒪ ᐱᐦᑲᑌᐧᐋᐳᐤ?» ᓇᐧᐁᐨ ᐧᐁᓂᐸᓂᑭ ᐊᐧᐊᐧᔥ «ᑖᓂᓯ ᑭᐧᐃ ᒥᓂᑭᐧᐁᔭᐣ?»
+4. **ᐱᐦᐅᐣ.** ᓇᐧᐊᐧᐨ ᒥᔭᐧᐃ ᐱᐦᐅᐣ ᐊᐧᐊᐧᔥ ᑭᐃᑌᔭᐣ, ᒥᓇ ᑲᐧᐃᓐ ᑭᑲᑭᓯᐦᑭᑭᑲᓇᐧᐃᒋᐦᐊᐤ.
+5. **ᑲᐧᐃᓐ ᑭᑲᑭᑭᓄᐧᐊᐧᑕᐧᐊᐤ, ᑲᐧᐃᓐ ᑭᑲᑲᑭᐧᐁᒋᒪᐤ.** ᑭᑲᓇᓂᓯᑐᐦᑖᐧᐊᐤ ᑖᓂᓯ ᐁᐃᓯᒪᒋᐦᐊᐨ, ᑲᐧᐃᓐ ᑲᐧᐃᔭ ᑕᐱᐧᐁᐧᐃᑭᑐᐨ ᒪ.
 
-## How should I start a conversation?
+## ᑖᓂᓯ ᑭᑲᐃᓯ ᒪᒋᑭᑲᓇᐧᐃᒋᐦᐃᑐᔮᓐ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+ᑭᑲᐧᐁᒋᐦᐊ ᒋᑭᓄ ᐱᔑᑐᐦᑖᐨ. [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ᐃᑭᑐᐧᐃᓯᓂᑭ ᓂᑲᓐ ᒋᒪᐧᐁᓂᑕᑲᐧᐠ: ᑲᐧᐃᔅᑲᐦᐅᐣ ᒪᓯᓇᐦᐃᑲᓐ, ᑭᐸᐦᐊᒪᐣ ᐧᐊᓯᓂᑲᓐ ᒪ ᐃᔅᑵᓂᑎᒥᐦᐃᑲᓐ, ᒪ ᐃᑌ ᐃᔭ ᑲᔭᐱᐦᐃᑦ ᒋᒪᐧᐁᓂᑕᑲᐧᐠ.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **ᐧᐊᐸᒪᐤ ᐅᐦᐊᒪ ᐱᒋ ᐃᔭ.** ᐅᑕᓇᐣ ᐱᒋ ᐃᔭᔭᐣ ᑭᑲᓭᑭᓯᐦᐊᐤ.
+- **ᐃᑭᑐ ᐊᐧᐁᓂᓐ.** «ᐧᐊᒋᔦ, ᓂᓅᑖᐧᐃᒥᐢ, ᓃᓐ Sarah, ᑭᑕᓂᐢ.» ᐅᐦᐃ ᐧᐃᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᒋᑲ ᓇᓇᑕᐧᐁᓂᑕᒪᐨ ᑭᐃᔑᓂᑲᓱᐧᐃᓐ.
+- **ᑕᐱᔅᑰᐨ ᐁᐊᐱᐨ ᐊᐱ.** ᑲᐧᐃᔭ ᐊᐱᐨ, ᐊᐱ ᒪ ᑭᒋᑭᑎᑭᓇᐱ ᒋᑕᐱᔅᑰᐨ ᐊᐱᔭᐣ ᑭᔅᑭᔑᑯᐊᐧᐠ.
+- **ᑭᐧᐊᐸᒥᐧᐃᓐ ᒥᓇ ᑭᐃᓯᐦᑎᐧᐃᓐ ᑲᓇᐧᐊᐸᑕᐣ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ᐃᑭᑐᐧᐃᓯᓂᑭ ᒋᑲᓇᐧᐊᐸᑕᒪᐣ ᑭᐃᓯᐦᑎᐧᐃᓐ, ᑭᐃᑭᑐᐧᐃᓐ, ᑭᐧᐊᐸᒥᐧᐃᓐ, ᒥᓇ ᑭᒪᔭᐧᐃᐧᓐ, ᒥᓇ ᒋᑲᔭᐱᐦᐃᑦ ᒥᓇ ᐧᐁᓂᐸᓂᑭ ᐃᓯᓯᐣ.
+- **ᑲᓇᐧᐊᐸᑕᐣ ᐧᐊᐸᒋᐦᐃᑲᓇᐣ ᒥᓇ ᐱᔑᑐᐦᑖᑲᓇᐣ ᑲᐃᔑ ᐊᔭᐧᐊᐠ.** ᓵᓂᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᒋᓂᓯᑐᐦᑕᒪᐣ ᑭᑲᓇᐧᐃᒋᐦᐃᑐᐧᐃᓐ ᑲᐧᐃᔭ ᑲ ᐧᐊᐸᑕᓯᐧᐊᐣ ᒪ ᑲ ᐱᔑᑐᐦᑕᓯᐧᐊᐣ ᒥᓄᐧᐃᐧᓂ.
 
-## How should I phrase what I say?
+## ᑖᓂᓯ ᑭᑲᐃᓯ ᐃᑭᑐᔮᓐ?
 
-Use simple words, short sentences and a calm, low voice.
+ᐧᐁᓂᐸᓂᑭ ᐃᑭᑐᐧᐃᓇᐣ, ᑲᐧᐃᓂᑎᐦᐊᑲᓂᐧᐊᐠ ᐃᑭᑐᐧᐃᓇᐣ, ᒥᓇ ᑲᔭᐱᐦᐃᑦ ᐱᒋ ᐃᓯᐦᑎᐧᐃᓐ ᐊᐸᒋᐦ.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **ᐯᔭᑯ ᐃᑌᐧᐃᐧᓐ ᐯᔭᑯ ᐃᑭᑐᐧᐃᓐ.** «ᑭᑲᐱᓯᑲᒪᐣ ᑭᑯᑕᐧᐊᑲᓐ. ᐊᐧᐊᐧᔥ ᑭᑲᐧᐃᐧᐊᔭᐧᐃ ᓵᑲᐦᐊᒪᐣ.» ᑲᐧᐃᓐ ᒪᒪᐧᐃ ᐯᔭᑯ ᐊᐲ.
+- **ᐃᔑᓂᑲᓱᐧᐃᓇᐣ ᐊᐸᒋᐦ, ᑲᐧᐃᓐ ᐊᐧᐃᔭ ᐃᑭᑐᐧᐃᓇᐣ.** «Aunt Jean ᑭᑭᓄᐧᐁᓂᒥᑯ» ᓇᐧᐁᐨ ᐧᐁᓂᐸᓂᑭ ᐊᐧᐊᐧᔥ «ᑭᑭᓄᐧᐁᓂᒥᑯ.»
+- **ᑲᔭᐱᐦᐃᑦ ᐃᓯᐦᑎᐧᐃᓐ, ᑲᐧᐃᓐ ᑲᐧᐃᓭᐱᐦᑭᓐ.** Family Caregiver Alliance ᐃᑭᑐᐧᐃᓯᓂᑭ ᑲᔭᐱᐦᐃᑦ ᐃᓯᐦᑎᐧᐃᓐ ᐊᐧᐊᐧᔥ ᑲᐧᐃᓭᐱᐦᑭᓐ.
+- **ᒥᓇᐧᐊᐨ ᐃᑭᑐ, ᐊᐧᐊᐧᔥ ᑯᑕᑭᔭ ᐃᑭᑐᐧᐃᓇᐣ ᐊᐸᒋᐦ.** ᑲᐧᐃᔭ ᓂᓯᑐᐦᑖᑯᓯᐠ, ᒥᓇᐧᐊᐨ ᐯᔭᑯ ᐃᑭᑐ ᑭᐃᑭᑐᐧᐃᓇᐣ. ᑲᐧᐃᔭ ᐊᐧᐃ ᐧᐁᓂᐸᓂᑭᓯᓂᑭ, ᐱᐦᐅᐣ ᒥᓇ ᑯᑕᑭᔭ ᐃᑭᑐᐧᐃᓇᐣ ᐊᐸᒋᐦ.
+- **ᐧᐊᐸᒋᐦ ᒥᓇ ᐃᑭᑐ.** ᐃᓯᓂᑲᓱ ᒥᓂᑭᐧᐁᐧᐊᑲᓐ, ᐧᐊᐸᒋᐦ ᓃᔓ ᐱᐧᐃᔭᓇᐣ, ᒪ ᐧᐊᐸᒋᐦ ᓂᑲᓐ ᑖᓂᓯ ᒋᒪᒋᑲᐣ.
+- **ᑭᑲᓇᐧᐃᒋᐦᐊᐤ, ᑲᐧᐃᓐ ᐊᐧᐃᔭ ᐅᐦᐃ ᐃᑌ ᑕᒋᒪᐤ.** NIA ᐃᑭᑐᐧᐃᓯᓂᑭ ᑲᐧᐃᓐ ᒋᑕᒋᒪᐣ ᑕᐱᔅᑰᐨ ᐁᑲ ᐃᑌ ᐊᔭᓯᐠ, ᒥᓇ ᑲᐧᐃᓐ «ᐊᐧᐊᐧᔭᔑᔑᓯᐠ ᐃᑭᑐᐧᐃᓐ» ᒋᐊᐸᒋᐦᐃᔭᐣ.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ᐧᐊᐸᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᐧᐁᓂᐸᓂᑭ ᐃᓯ ᒋᑭᑭᐧᐁᒋᒧᐧᐃᔭᐣ. ᐅᐦᐃ ᑕᐱᔅᑰᐨ ᐃᓯᓯᓂᑭ:
 
-| Instead of | Try |
+| ᐊᐧᐊᐧᔥ ᐅᐦᐃ | ᐅᐦᐃ ᑭᑲᐃᑭᑐᐣ |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «ᑖᓂᓯ ᑭᐧᐃ ᒥᓂᑭᐧᐁᔭᐣ ᐅᑕᑯᔑᒼ?» | «ᑭᓄᒥ ᒪ ᐸᑲᐦᐊᑵᐣ ᑭᐧᐃ ᒥᓂᑭᐧᐁᔭᐣ?» |
+| «ᑖᓂᓯ ᐁᐃᓯᒪᒋᐦᐊᔭᐣ?» | «ᑭᓇᐧᐁ ᐊᔭᐧᐁᔭᐣ ᒋ?» |
+| «ᑭᐸᑲᑌ ᒋ?» | «ᐅᑕᑯᔑᒼ ᑭᑲᐧᐃᔑᑕᓂᐧᐊᐣ ᓂᔭᓇᓄ ᒥᓂᑐᓇᐣ.» |
+| «ᑲᐧᐃᓐ ᐃᔅᐱ ᑭᑐᒋᐦᑲᓯᓐ.» | «ᐅᐦᐃ ᐃᓯ ᑭᑲᑯᒋᐦᑐᓇᓐ.» |
+| «ᑭᒥᑭᐧᐁᓂᒪ ᒋ ᑭᐃᔑ ᐃᔭᔭᐠ ᓵᑲᐦᐃᑲᓂᐦᐠ?» | «ᓂᒥᑭᐧᐁᓂᒪᐣ ᑭᐃᔑ ᐃᔭᔭᐠ ᓵᑲᐦᐃᑲᓂᐦᐠ. ᐧᐃᓂ ᑖᓂᓯ ᑲᒥᓄᐧᐁᓂᑕᒪᐣ.» |
+| «ᐊᔥᑭ ᑭᐃᓂᓐ.» | ᒥᓇᐧᐊᐨ ᓇᑲᐧᐁᑕᒪᐤ, ᑲᔭᐱᐦᐃᑦ ᐱᒋ, ᑕᐱᔅᑰᐨ ᓂᑲᓐ ᐯᔭᑯ ᐊᐲ. |
 
-## How do I listen well?
+## ᑖᓂᓯ ᑭᑲᐃᓯ ᒥᓄ ᐱᔑᑐᐦᑖᐊᐧᐠ?
 
-Listen for the meaning and the feeling, not just the words.
+ᐱᔑᑐᐦᑖᐤ ᐃᑌᐧᐃᐧᓐ ᒥᓇ ᐃᓯᒪᒋᐦᐃᐧᐃᐧᓐ, ᑲᐧᐃᓐ ᐃᑭᑐᐧᐃᓇᐣ ᐯᔭᑯ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **ᐱᐦᐅᐣ.** ᒪᐧᐁᓂᑦ ᐁᑕ ᒪᒪᓂᑌᓂᑕᒧᐧᐃᐧᓐ. ᒥᑕᑕᐦᑦ ᐊᑭᑕᓱᐣ ᒥᐧᐁᓂᒋ ᐧᐃᒋᐦᐊᐧᐨ.
+- **ᐃᑭᑐᐧᐃᓐ ᒥᔭ ᐯᔭᑯ ᑲᐧᐃᔭ ᑲᐧᐃᐧᒋᐦᐃᐧᐁᐨ.** Family Caregiver Alliance ᐃᑭᑐᐧᐃᓯᓂᑭ ᒥᓄᓂ ᒋᒥᔭᐣ ᐃᑭᑐᐧᐃᓐ ᐊᐲ ᐊᐧᐊᐧᔥ ᐧᐃᒋᐦᐃᐧᐁᐨ.
+- **ᑲᑭᐧᐁᒋᒥᐦ ᑖᓂᓯ ᑲᐱᔑᑐᐦᑕᒪᐣ.** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) ᐃᑭᑐᐧᐃᓯᓂᑭ ᒋᓇᓂᓯᑐᐦᑕᒪᐣ ᐃᑌᐧᐃᐧᓐ ᐅᐦᐃ ᐃᑭᑐᐧᐃᓇᐣ, ᒥᓇ ᒋᒥᓇᐧᐊᐨ ᐃᑭᑐᔭᐣ ᒋᑲᑭᐧᐁᒋᒪᐣ ᑲᐧᐃᔭ ᓂᓯᑐᐦᑕᒪᐣ ᒋ. «ᑭᑲᓯᑭᓂᑌᓂᒪᐣ ᒋ ᐅᑖᐸᓐ?»
+- **ᑭᐧᐊᐸᒪᐤ ᐧᐊᐸᒥᐧᐃᓐ ᒥᓇ ᒪᔭᐧᐃᐧᓐ.** ᐊᐲ ᐃᑭᑐᐧᐃᓇᐣ ᐁᓵᓂᑭᐸᓂᑭ, NIA ᐃᑭᑐᐧᐃᓯᓂᑭ, ᐧᐊᐸᒥᐧᐃᓐ ᑭᑲᐧᐊᐸᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᑲᔅᑭᐦᐅᐧᐃᐧᓐ, ᐧᐃᓵᑭᐃᐧᐃᐧᓐ, ᒪ ᑲᐧᐃᐧᒋᐦᐃᐧᐁᐧᐃᐧᓐ ᓇᐧᐁᐨ ᐊᐧᐊᐧᔥ ᐃᑭᑐᐧᐃᓇᐣ.
+- **ᑲᓯᑭᓂᑌᓂᒧᐧᐃᓇᐣ ᑕᐱᐧᐁ ᐃᑌᐧᐃᓐ.** ᑲᐧᐃᔭ ᑲᓯᑭᓂᑌᓂᒧᐧᐃᓐ ᑲᐧᐊᓂᐧᐃᑭᑐᐨ ᐅᒋ, ᐃᓯᒪᒋᐦᐃᐧᐃᐧᓐ ᑕᐱᐧᐁᐧᐃᓯᓂᑭ.
 
-## What if they say something that is not true?
+## ᑖᓂᓯ ᑲᐧᐃᔭ ᑲ ᑕᐱᐧᐁᐧᐃᑭᑐᓯᐠ ᐃᑭᑐᐨ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+ᑲᐧᐃᓐ ᑭᑲᑭᑭᓄᐧᐊᐧᑕᐧᐊᐤ. ᑲᐧᐃᓐ ᓇᐧᐁᐨ ᑭᑲᓴᑯᐦᐃᐦᐊᐤ, ᒥᓇ ᐊᐧᐊᐧᔥ ᑭᑲᐊᑲᑌᓂᒪᑯ ᒪ ᑭᑲᓭᑭᓯᐦᐊᑯ. ᐊᐧᐊᐧᔥ ᐅᐦᐃ, ᓇᓂᓯᑐᐦᑖᐤ ᐃᓯᒪᒋᐦᐃᐧᐃᐧᓐ, ᒥᓇ ᑲᔭᐱᐦᐃᑦ ᐱᒋ ᐊᓂ ᐃᔭ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ᐃᑭᑐᐧᐃᓯᓂᑭ ᒋᓇᓂᓯᑐᐦᑕᒪᐣ ᐃᓯᒪᒋᐦᐃᐧᐃᐧᓐ ᒥᐧᐁᓂᒋ ᑯᑕᑭᔭ ᐃᔭᔭᐣ. ᑕᐱᔅᑰᐨ, ᑲᐧᐃᔭ ᑭᑲᐧᐃᔭ ᐃᑭᑐᐨ ᒋᓇᑕᐧᐃᓇᐨ ᐊᐧᐊᐧᔭᔑᔕᐠ ᑭᓂᐧᐃᑭᓄᐦᐊᒪᑯᐧᐃᑲᒥᑯᐦᐠ:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- ᐊᐧᐊᐧᔥ ᐅᐦᐃ: «ᓅᑯᒼ, ᑭᑕᐧᐊᐧᔕᒥᓴᐠ ᒋᑭ ᓂᑎᑭᐦᐃᐧᐊᐧᐠ. ᓂᒥᑕᓇ ᑕᑕᐧᐃᐱᐳᓐ ᐊᔥᑭ.»
+- ᐅᐦᐃ ᑭᑲᐃᑭᑐᐣ: «ᒪᐧᐁᓂᑦ ᑭᓵᑭᐦᐊᐧᐊᐧᐠ ᑭᑕᐧᐊᐧᔕᒥᓴᐠ. ᐧᐃᓂ ᑖᓂᓯ ᑲᐃᓯ ᓇᑕᐧᐃᓇᑦᐧᐊ ᐊᐲ. ᓂᑲᒥᓂᑭᐧᐁᒥᓐ ᒋ ᓂᑲᓐ?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association ᒥᓇᐧᐃᔭ ᐃᑭᑐᐧᐃᓯᓂᑭ ᑲᐧᐃᓐ ᒋᑭᑭᓄᐧᐊᐧᑕᐧᐊᐣ ᐃᑭᑐᐧᐃᓇᐣ ᑲ ᑕᐱᐧᐁᐧᐃᓯᓂᑭ. ᐧᐊᐧᐁᓇᐣ ᐊᐲ: ᑲᐧᐃᔭ ᑲᐧᐊᓂᐧᐃᑭᑐᐨ ᒥᓇ ᑲᐧᐃᓐ ᒪᒋᐃᓯᓯᓂᑭ, ᐯᔭᑯ ᐱᓄᓂ.
 
-## How does communication change as dementia progresses?
+## ᑖᓂᓯ ᐃᓯ ᐊᓂᔑᓇᐯᒧᐧᐃᓐ ᐁᒥᔑᑲᑭ ᒪᓂᑎᓯᐃᐧᓐ ᑲᐧᐊᓇᑌᓂᒪᑲᓂᐧᐊᐠ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+ᓇᑕᐧᐁᓂᑕᒧᐧᐃᓇᐣ ᐊᓂᔑᓇᐯᒪᑲᓂᐧᐊᐣ, ᒥᓇ ᑭᑲᐃᓯ ᐊᓂᔑᓇᐯᒧᐣ ᒥᓇᐧᐃᔭ. Alzheimer's Association ᐃᑭᑐᐧᐃᓯᓂᑭ ᓂᔅᐧᐃ ᒋᐃᓯᓯᐣ:
 
-| Stage | What helps |
+| ᐊᐲ | ᑖᓂᓯ ᑲᐧᐃᒋᐦᐃᐧᐁᒪᑲᐧᐠ |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| ᒪᒋᑲᐨ | ᑲᐧᐃᓐ ᑭᑲᐃᑌᔭᓯ ᐁᑲ ᑭᑲᓇᐧᐃᒋᐦᐃᑐᐨ. ᐧᐃᒋᐦ ᐱᒋ ᑭᑲᓇᐧᐃᒋᐦᐃᑐᐧᐃᓂᐦᐠ, ᑭᑲᓇᐧᐃᒋᐦ, ᑭᑭᐧᐁᒋᒥᐦ ᑖᓂᓯ ᐧᐃᒋᐦᐃᐧᐁᐧᐃᓐ ᐁᓇᑕᐧᐁᓂᑕᒪᐠ, ᒥᓇ ᐊᐸᒋᐦ ᐸᐱᐧᐃᐧᓐ ᑲᐧᐃᔭ ᐧᐃᒋᐦᐃᐧᐁᒪᑲᐧᐠ. |
+| ᓇᐧᐊᐧᐱᐦᐠ | ᐯᔭᑯ ᐊᐧᐊᐧᔥ ᑭᑲᓇᐧᐃᒋᐦᐊᐤ ᐃᑌ ᑲᔭᐱᐦᐃᑦ ᒋᒪᐧᐁᓂᑕᑲᐧᐠ. ᐯᔭᐠ ᐱᒋ ᐃᑭᑐ, ᑭᑲᓇᐧᐊᐱᒪᐤ, ᐊᐸᒋᐦ ᒋᐸ ᒪ ᑭᑭᐧᐁᒋᒧᐧᐃᓇᐣ, ᐯᔭᑯ ᐯᔭᑯ ᐃᓯ ᐧᐃᐦᑎᒪᐤ, ᒥᓇ ᑲᐧᐃᓐ ᑭᑲᒪᒪᔭᐧᐁᓂᒪᐤ ᒪ ᑭᑲᑭᐧᐁᔭᐱᐦᐊᐤ. |
+| ᑭᔮᓯᐠ | ᐧᐊᐸᒪᐤ ᐅᐦᐊᒪ ᐱᒋ ᐃᔭ ᒥᓇ ᐃᑭᑐ ᐊᐧᐁᓂᓐ. ᐊᐧᐃᒋᐦ ᒋᐃᓯᓂᑲᓱᐨ ᒥᓇ ᒋᐃᓯᐧᐊᐸᒋᐦᐃᑲᓂᐧᐊᐠ. ᐊᐸᒋᐦ ᑕᑯᑕᐧᐃᐧᓐ, ᒪᑕᐧᐁᑲᓂᐧᐊᐠ, ᐧᐊᐸᒋᐦᐃᑲᓇᐣ, ᒥᓇ ᒥᓂᒪᑯᓯᐧᐃᓇᐣ. ᑲᐧᐃᓐ ᑭᑲᑭᑲᓇᐧᐃᒋᐦᐊᐤ ᑕᐱᔅᑰᐨ ᐁᑲ ᐃᑌ ᐊᔭᓯᐠ. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+ᑲᑭᓇ ᐊᐧᐊᐧᔥ ᐯᔭᑯ ᐃᓯᓯᐤ, ᒥᓇ ᐯᔭᑯ ᐊᐧᐊᐧᔥ ᑭᑲᐊᔭᐧᐊᐤ ᒥᓄ ᑭᔑᑲᐧᐊ ᒥᓇ ᓵᓂᐦᐃᐧᐁᐧᐃᓇᐣ ᑭᔑᑲᐧᐊ. ᓇᑲᐧᐁᑕᒪᐤ ᑖᓂᓯ ᐁᐃᓯᓯᐨ ᓄᐦᐅᒼ, ᑲᐧᐃᓐ ᐯᔭᑯ ᐃᓯᓂᑲᓱᐧᐃᓐ.
 
-## Can pictures and activities make conversation easier?
+## ᒪᓯᓇᐦᐃᑲᓇᐣ ᒥᓇ ᒪᒪᐧᐃ ᐊᔭᐧᐃᐧᓇᐣ ᐧᐃᒋᐦᐃᐧᐁᐧᐊᐧᐠ ᒋ ᒋᐧᐁᓂᐸᓂᑭ ᑭᑲᓇᐧᐃᒋᐦᐃᑐᐧᐃᓐ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+ᐁᐦᐁ. ᒪᒪᐧᐃ ᒪᓯᓇᐦᐃᑲᓐ ᐧᐃᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᒋᑲ ᑲᔅᑭᐦᐅᐧᐃᔭᐣ, ᒥᓇ ᒋᒪᒪᐧᐃ ᐧᐊᐸᑕᒪᐣ ᒥᓇ ᒋᐃᓯᓂᑲᓱᔭᐣ.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **ᒪᓯᓇᐦᐃᑲᓇᐣ ᑭᑭᐧᐁᒋᒧᐧᐃᓇᐣ.** [Conversation Cards](/games/conversation-cards/) ᒥᔭᐧᐁᒪᑲᓂᐧᐊᐣ ᒪᓯᓇᐦᐃᑲᓇᐣ ᒥᓇ ᑭᑭᐧᐁᒋᒧᐧᐃᓇᐣ ᑲ ᑲ ᑲᑭᐧᐁᒋᒪᑯᓯᐧᐊᐠ.
+- **ᑭᐧᐊᐧᑭᐧᐃᐧᐊᐠ ᒪᓯᓇᐦᐃᑲᓇᐧᐊᐠ.** [Photo Pairs](/games/photo-pairs/) ᐃᔑᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᒪᓯᓇᐦᐃᑲᓇᐣ ᑲᐧᐊᐧᐁᓇᒪᐣ ᐱᒋ ᑲᔭᐱᐦᐃᑦ ᒪᒪᐧᐃ ᐊᔭᐧᐃᐧᓐ, ᒥᓇ ᒪᐧᐁᓂᑦ ᐧᐃᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᐊᑐᑕᒧᐧᐃᓇᐣ.
+- **ᑭᑫᓂᑕᑲᐧᐠ ᐃᑭᑐᐧᐃᓇᐣ.** [Finish the Saying](/games/finish-the-saying/) ᐊᐸᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᑭᑫᓂᑕᑲᐧᐠ ᐃᑭᑐᐧᐃᓇᐣ, ᒥᓇ ᐊᐧᐊᐧᔥ ᑭᑭᐧᐁᒋᒧᐧᐃᓐ ᒋᑭᑲᓇᐧᐃᒋᐦᐃᑐᔭᐣ.
+- **ᓇᐱᔅᑲᐧᐃᐧᓇᐣ ᒪᒪᐧᐃ ᐊᔭᐧᐃᐧᓇᐣ.** [Picture Pairs](/games/picture-pairs/) ᒥᔭᐧᐁᒪᑲᓂᐧᐊᐣ ᑭᒋᐦᐃᐧᓐ ᐊᔭᐧᐃᐧᓐ ᐊᐲ ᑭᑲᓇᐧᐃᒋᐦᐃᑐᔭᐣ.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+ᐧᐊᐸᑕᐣ [how to play games together](/caregiving/how-to-play-together/) ᒥᓇ [reminiscence activities](/activities/reminiscence/) ᒋᒥᓇ ᐧᐊᐸᑕᒪᐣ. ᒋᓇᑕᐧᐃᐧᐃᔭᐣ ᒥᓇ ᒋᑭᑭᓄᐧᐁᐧᐃᔭᐣ, ᐊᑲᒪᐤ ᓂᐧᐃᐦᑎᒪᑭᓇᐣ [visiting](/activities/visiting/) ᒥᓇ [phone and video calls](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+ᑲᐧᐃᔭ ᒪᒪᐧᐃ ᐃᓯᓂᒧᐧᐁᐨ, ᐧᐊᐸᑕᐣ ᓂᐧᐃᐦᑎᒪᑭᓐ [guide to communication across languages](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## ᑖᓂᓯ ᑲᐧᐃᔭ ᐧᐃᓵᑭᓯᔮᓐ?
+
+ᑲᑭᓇ ᐊᐧᐊᐧᔥ ᐃᔑᐃᓯᒪᒋᐦᐅᐤ. NIA ᐃᑭᑐᐧᐃᓯᓂᑭ, ᑲᐧᐃᔭ ᐧᐃᓵᑭᓯᔭᐣ, ᐱᐦᐅᐣ ᒋᑲᔭᐱᐦᐃᑦ ᐃᓯᒪᒋᐦᐅᔭᐣ. ᐃᔭ ᑯᑕᑭ ᐱᒋ ᐧᐊᔅᑲᐦᐃᑲᓂᐦᐠ, ᐱᐦᐅᐣ ᓂᔓᐧᐊᐨ ᐯᔭᐠ ᐱᒋ ᓀᑕᒪᐣ, ᒥᓇ ᐱ ᑭᐧᐁ ᐊᐲ ᑲᔭᐱᐦᐃᑦ ᐃᓯᒪᒋᐦᐅᔭᐣ. ᒥᓇᐧᐊᐨ ᑭᑲᒪᒋᑭᑲᓇᐧᐃᒋᐦᐃᑐᐣ, ᒥᓇ ᐊᐧᐊᐧᔥ ᑭᑲᓇᑲᐧᐁᑕᒥᑯ ᑭᑲᔭᐱᐦᐃᑦ ᐃᓯᒪᒋᐦᐅᐧᐃᓐ. ᑲᐧᐃᔭ ᒨᓇ ᐧᐃᓵᑭᓯᔭᐣ, ᐅᐦᐃ ᐧᐊᐸᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᑭᓇᑕᐧᐁᓂᑕᓐ ᓇᐧᐊᐧᐨ ᐧᐃᒋᐦᐃᐧᐁᐧᐃᓐ, ᑲᐧᐃᓐ ᐁᑲ ᐧᐁᓂᐸᓂᑭᓯᔭᐣ. ᓂᐧᐃᐦᑎᒪᑭᓐ [caregiver self-care](/caregiving/caregiver-self-care/) ᐧᐊᐸᒋᐦᐃᐧᐁᒪᑲᓂᐧᐊᐣ ᑖᓂᑌ ᑭᑲᐃᔭᔭᐣ ᐧᐃᒋᐦᐃᐧᐁᐧᐃᓐ.

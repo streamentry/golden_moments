@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Кыдзи сёрнитны деменцияӧн олӧмысь морткӧд"
+seoTitle: "Деменция дырйи сёрнитӧм: мый шуны да мый оз колӧ"
+description: "Практика советъяс, кыдзи сёрнитны деменцияӧн олӧмысь морткӧд: кыдзи дасьтыны сёрнитӧм, мый шуны видлалӧм да вежӧм пыдди, да кыдзи бура кывзыны."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Сёрнитӧй лӧнь местаын, видзӧдлӧй мортлы чужӧм вылӧ, вӧдитчӧй сылысь нимӧн
+  да сёрнитӧй ньӧжйӧник да дженьыд, кокни сёрникузяӧн. Юалӧй ӧти юалӧм ӧтчыд,
+  сетӧй кык торйӧдӧм восьса юалӧм пыдди, да виччысьлӧй кузьджыка, кыдзи зэв
+  колӧ. Эн споритӧй, эн вежӧй да эн видлалӧй. Вочавидзӧй сы кывйысь сайын
+  тыдалӧм чувствояслы, да кӧр кывъяс сералӧны, вӧдитчӧй инмӧдчӧмӧн, серпасъясӧн
+  да куим пыр чукӧртчӧмӧн.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Сёрнитӧм водзын чинтӧй горзысь шы да видзӧдлӧй синмас вылӧ."
+  - "Вӧдитчӧй дженьыд сёрникузяӧн, ӧти могӧн ӧти юӧр, да нимъясӧн, а не «сійӧ» либӧ «найӧ»."
+  - "Сетӧй кык торйӧдӧм либӧ «да»/«абу» юалӧм, а не восьса юалӧм."
+  - "Виччысьлӧй вочавидзӧм. Кӧ сійӧс эз гӧгӧрвоны, вились шуӧй сійӧ ж кывъясӧн, сэсся видлӧй мӧд кывъясӧн."
+  - "Эн споритӧй да эн вежӧй. Вочавидзӧй сы кывйысь сайын тыдалӧм чувствояслы."
+  - "Кӧр кывъяс чинӧны, сёрнитӧй инмӧдчӧмӧн, шыӧн, чужӧм серпасӧн да ӧтувъя серпасъяс видлӧмӧн."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Мый оз колӧ шуны деменцияӧн олӧмысь мортлы?"
+    a: "Оз ков видлавны («Ті казяланныд-ӧ...?»), вежны («Тайӧ абу збыль»), казьтыштны вошӧмторъяс йылысь («Ме тіянлы нин висьтавлі») либӧ сёрнитны сійӧ йылысь, кыдзты сійӧ абу татчӧ. Оз ков сёрнитны кыдз чачаӧн. Тайӧ пырджык сетӧ нямӧдлӧм либӧ лёк вӧчӧм, но оз отсав."
+  - q: "Колӧ-ӧ вежны, кӧ морт ыджыд фактъясӧн сорсьӧ?"
+    a: "Дзик пыр оз ков. Кӧ сорсьӧмтор оз вӧч лы, лэдзӧй сійӧс. Споръясысь пырджык оз ло бур, но морт вермас лолыштны. Сійӧ пыдди видзӧдлӧй, кыдзи сійӧ ӧні чувствуйтӧ да мый сылы колӧ."
+  - q: "Мый вӧчны, кӧ морт оз вермы аддзыны колана кыв?"
+    a: "Медводз сетӧй сылы кад. Кӧ тыдалӧ, мый сійӧ зільӧ, позьӧ ньӧжйӧник сетны кыв либӧ гӧгӧрвоны, мый сійӧ кӧсйӧ висьтавны, да видлавны. Инданпас, чукӧртчӧм да серпасъяс тшӧтш вермасны отсавны."
+  - q: "Кыдзи сёрнитны морткӧд, коді воддза ступень деменцияӧн овлӧ да сёрнитӧ зэв шоча?"
+    a: "Матыстчӧй водзсяньыс, висьталӧй, коді ті, вӧдитчӧй лӧнь шыӧн да ньӧжйӧник инмӧдчӧмӧн. Видзӧдлӧй чужӧм вылӧ да телӧ кыв вылӧ, медым гӧгӧрвоны чувствояссӧ. Тіян эмӧм, тӧдса сьыланкыв либӧ ки кутӧм вермасны висьтавны унаысь кывтӧг."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменция вермӧ сьӧкыдмӧдны кывъяс аддзӧмсӧ, кузь сёрникузя гӧгӧрвоӧмсӧ либӧ горзысь шы дорсьыс мӧдтор йӧртӧмсӧ. Но тайӧ оз висьтав, мый морт оз ни кӧсйы йитчыны мӧдкӧд. Ичӧт вежӧмъяс, кыдзи ті дасьтанныд сёрнитӧм кежлӧ, кыдзи сёрнитанныд да кыдзи кывзанныд, вермасны отсавны сёрнитӧмсӧ кокньыдджыка да лӧньджыка вӧчны ставныдлы.
 
-## What are the most important tips for talking with someone who has dementia?
+## Медшӧр советъяс: кыдзи сёрнитны деменцияӧн олӧмысь морткӧд?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Босьтӧй сылысь синмӧн видзӧмсӧ, вӧдитчӧй кокни сёрниӧн, да лоӧй видчысьысьӧн. Кӧ ті казяланныд сӧмын виттор:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Лӧсьӧдӧй лӧнь.** Кусӧдӧй телевизор, пуксьӧй сы водзын синмас уладорын да вӧдитчӧй сылысь нимӧн.
+2. **Висьталӧй ӧти юӧр ӧтчыд.** Дженьыд сёрникузяяс, ӧти мог, ӧти юалӧм.
+3. **Сетӧй кык торйӧдӧм.** «Чай либӧ кофей?» кокниа вочавидзны, сыысь «Мый ті кӧсъянныд?»
+4. **Виччысьлӧй.** Сетӧй вочавидзны сылы кад кузьджыка, кыдзи ті чайтанныд, да видлӧй эн кыв шӧрӧд висьтавлыны.
+5. **Эн споритӧй да эн видлалӧй.** Вочавидзӧй, кыдзи сійӧ чувствуйтӧ, а не сійӧ вылӧ, збыль-ӧ висьтавӧмторыс.
 
-## How should I start a conversation?
+## Кыдзи заводитны сёрнитӧм?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Дасьтӧй ставсӧ сідз, медым морт вермис тіян вылӧ видзӧдны. [Family Caregiver Alliance гӧгӧрвоӧдан тӧдмӧдан](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) индыны чинтыны горзысь шы медводз: кусӧдны радио либӧ телевизор, завеститны дӧрапас либӧ ӧдзӧс, либӧ мунны лӧньджык местаӧ.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Матыстчӧй водзсяньыс.** Бӧрсяньыс либӧ боксяньыс матыстчӧм вермӧ повзӧдны.
+- **Висьталӧй, коді ті.** «Бур лун, батьӧ, ме Сара, тіян ныв.» Тайӧ отсалӧ сылы оз ковны корсьны тіян ним.
+- **Лоӧй сы уладорын.** Кӧ сійӧ пукасьӧ, пуксьӧй либӧ пукавсьӧй сідз, медым тіян синъяс вӧліны ӧткодь уладорын.
+- **Видзӧдлӧй ас чужӧм да шы вылӧ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) conseille казялыны ассьыныд шы, громкость, чужӧм серпас да телӧ кыв, да видлавны сёрнитны шоныд, но эштысь ногӧн.
+- **Видзӧдлӧй, медым син очки да кывзӧдан прибор вӧліны.** Сьӧкыд кывзыны да гӧгӧрвоны, кӧ оз позь бура аддзыны либӧ кывзыны.
 
-## How should I phrase what I say?
+## Кыдзи шуны сёрни?
 
-Use simple words, short sentences and a calm, low voice.
+Вӧдитчӧй кокни кывъясӧн, дженьыд сёрникузяясӧн да лӧнь, улӧ шыӧн.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ӧти мог ӧти сёрникузяын.** «Пасъям тіян паськӧм. Сэсся петам ортсыӧ.» Оз ков шуны ставсӧ ӧти лолӧн.
+- **Вӧдитчӧй нимъясӧн, а не нимвежтасъясӧн.** «Сара чукста чӧлӧс тшӧктіс» гӧгӧрвоанаӧн, сыысь «Сійӧ чукста чӧлӧс тшӧктіс».
+- **Шуӧй улінын, но оз ков вывті гораа.** Family Caregiver Alliance conseille вӧдитчыны улі шыӧн, а не ыджыд гора шыӧн.
+- **Вились шуӧй, сэсся мӧд ногӧн шуӧй.** Кӧ тіян эз гӧгӧрвоны, вились шуӧй сійӧ ж кывъясӧн ӧтчыд. Кӧ тайӧ эз отсав, виччысьлӧй нечкылик да видлӧй мӧд кывъясӧн.
+- **Петкӧдлӧй сійӧ ж кадӧ, кӧр висьталанныд.** Индыштій тасьті вылӧ, петкӧдлӧй кык свитер, либӧ петкӧдлӧй медводдза крок.
+- **Сёрнитӧй сыкӧд, а не сійӧ йылысь.** NIA тшӧктӧ, медым эн сёрнитны морт йылысь, кыдзты сійӧ абу татчӧ, да эн сёрнитны кыдз чачаӧн.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA conseille кокниджык ногъясӧн шуны тшӧтш юалӧмъяс. Татшӧм примеръяс:
 
-| Instead of | Try |
+| Тайӧ пыдди | Видлӧй шуны |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Мый ті кӧсъянныд сёян вылӧ?» | «Ті кӧсъянныд чери либӧ курӧг?» |
+| «Кыдзи тіян оланныд?» | «Ті мудзӧмӧсь-ӧ?» |
+| «Ті тшыгӧсь-ӧ?» | «Сёян лоӧ дась вит минут мысти.» |
+| «Абу тадзи колӧ вӧчны.» | «Мед видлам тадзи.» |
+| «Ті казяланныд-ӧ миян туй ты вылӧ ветлӧм?» | «Ме думайті миян ты вылӧ ветлӧм йылысь. Висьталӧй, мый тіянлы татысь медбур вӧлі.» |
+| «Ме тіянлы нин висьтавлі.» | Вились висьталӧй бурӧн, кыдз медводдза пыр. |
 
-## How do I listen well?
+## Кыдзи бура кывзыны?
 
-Listen for the meaning and the feeling, not just the words.
+Кывзӧй кывъясӧн петкӧдлӧм могсӧ да чувствосӧ, а не сӧмын кывъяссӧ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Виччысьлӧй.** Лӧнь кад вермас лоны думайтӧм кадӧн. Лыддьӧй ӧткымынӧдз мӧдысь пытшкӧс шыӧн, водзӧ петны одзын.
+- **Сетӧй кыв сӧмын, кӧ морт дугдӧ.** Family Caregiver Alliance шуӧ, мый позьӧ ньӧжйӧник отсавны кывйӧн, кӧ морт зільӧ.
+- **Видлалӧй гӧгӧрвоны, мый ті кывлинныд.** [Alzheimer's Association сёрнитӧм йылысь гӧгӧрвоӧдан](https://www.alz.org/help-support/caregiving/daily-care/communications) conseille корсьны могсӧ кыв сайын да вились шуны сійӧс, медым видлавны гӧгӧрвоӧм. «Ті шуйгаланныд машина йылысь?»
+- **Видзӧдлӧй чужӧм да телӧ кыв вылӧ.** Кӧр сёрнитӧм сьӧкыдмӧ, NIA тӧдмалӧ, чужӧм серпас вермӧ петкӧдлыны шогӧм, лёк либӧ омӧльтчӧм ёнджыка, кыдзи кывъяс.
+- **Босьтӧй шуйгалӧмсӧ сьӧкыдджыка.** Кӧть шуйгалӧм лоӧ абу збыль юӧр вылын, чувствосӧ збыльӧн эм.
 
-## What if they say something that is not true?
+## Мый вӧчны, кӧ морт шуӧ абу збыльтор?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Эн споритӧй. Вермас лоны, мый ті онӧ вермӧй вежны сылысь мӧвпсӧ, а мортӧс вермас лоны нямӧд либӧ пов. Сійӧ пыдди йитчӧй сылысь чувствокӧд, сэсся ньӧжйӧник вуджӧй мӧд юӧр вылӧ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance conseille медводз казялыны чувствосӧ, сэсся мӧд юӧр вылӧ вуджны. Шуам, тіян мам кытш шуӧ, мый сійӧ колӧ мунны школаӧ чачаӧс босьтны:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Тайӧ пыдди: «Мамӧ, тіян чачаыс ыджыдӧсь нин. Тайӧ лои нёльдамын во сайын.»
+- Видлӧй шуны: «Ті вӧліны зэв бур мама. Висьталӧй, кыдзи ті босьтіны налысӧ. Медводз сёям-ӧ ичӧтик?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association тшӧтш conseille оз споритны висьтавӧмторъяс йылысь, кӧднаныд ті онӧ сӧглась. Бӧрйӧй кад: кӧ абу збыль мӧвп оз вӧч лы, лэдзӧй сійӧс.
 
-## How does communication change as dementia progresses?
+## Кыдзи сёрнитӧм вежсьӧ, кӧр деменция водзӧ мунӧ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Коланторъяс кадӧн вежсьӧны, сійӧн тіян отсӧгтӧм тшӧтш колӧ вежны. Alzheimer’s Association висьталӧ куим ыджыд кадколаст йылысь:
 
-| Stage | What helps |
+| Кадколаст | Мый отсалӧ |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Воддза | Эн думайтӧй, мый сійӧ оз вермы сёрнитны. Пыртӧй сійӧс сёрнитӧмӧ, сёрнитӧй сыкӧд веськыда, юалӧй, кутшӧм отсӧг сылы ковмас, да вӧдитчӧй шмонитана сёрниӧн, кӧ тайӧ отсалӧ. |
+| Шӧр | Сёрнитӧй ӧтка мортӧн лӧнь местаын. Сёрнитӧй ньӧжйӧник, видзӧдлӧй синмас вылӧ, вӧдитчӧй «да»/«абу» юалӧмъясӧн, сетӧй кроктыръя инданпасъяс, да эн видлалӧй да эн вежӧй. |
+| Бӧръя | Матыстчӧй водзсяньыс да висьталӧй, коді ті. Пыртӧй сійӧс инданпасӧн да чукӧртчӧмӧн петкӧдлыны. Вӧдитчӧй инмӧдчӧмӧн, шыясӧн, аддзанторъясӧн да дукъясӧн. Некор эн сёрнитӧй, кыдзты сійӧ абу татчӧ. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Быд морт торъя, да ӧти и сійӧ ж мортлӧн вермасны лоны бур лунъяс да сьӧкыд лунъяс. Вочавидзӧй сы вылӧ, кыдзи сійӧ лоӧ ӧні, а не нимтор вылӧ.
 
-## Can pictures and activities make conversation easier?
+## Серпасъяс да уджъяс вермасны-ӧ отсавны сёрнитӧмын?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Да. ӧтувъя серпас чинтӧ сьӧкыдлунсӧ да сетӧ тіянлы ставныдлы мыйкӧ, мый вылӧ позьӧ видзӧдны да индыны.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Сёрни заводитан серпасъяс.** [Conversation Cards](/games/conversation-cards/) сетӧ серпасъяс восьса юалӧмъясӧн, кодъяс некор оз видлалӧны.
+- **Семья серпасъяс.** [Photo Pairs](/games/photo-pairs/) вӧчӧ тіян бӧрйӧм серпасъяссьыс ньӧжйӧ лӧсялӧм ворсӧм, кӧда пырджык казьтыштӧ висьтъяс.
+- **Тӧдса кывбуръяс.** [Finish the Saying](/games/finish-the-saying/) вӧдитчӧ тӧдса кывбуръясӧн, сы бӧрын сетӧ сёрнитӧм заводитан юалӧм.
+- **Лӧсялӧм ворсӧмъяс кыдз фон.** [Picture Pairs](/games/picture-pairs/) сетӧ киыдлы удж, кӧр ті сёрнитанныд.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Содтӧд юӧр видлӧй татчӧ: [кыдзи ӧтлаын ворсны](/caregiving/how-to-play-together/) да [казьтыштӧм уджъяс](/activities/reminiscence/). Волысь ветлӧм да шыӧдчӧм йылысь лыддьӧй миян тӧдмӧданъяс татчӧ: [волысь ветлӧм](/activities/visiting/) да [телефон да видео шыӧдчӧм](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Уна кыв тӧдысь морт йылысь видлӧй миян [кывъяс костын сёрнитӧм йылысь гӧгӧрвоӧдан](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Мый вӧчны, кӧ ме видчысьлӧмсӧ вошти?
+
+Тайӧ лоӧ быдӧнкӧд. NIA conseille, кӧ ті омӧльтчанныд, босьтны кад ассьыныд чӧвмӧдны. Мунӧй мӧд жырӧ, лолалӧй шӧркаысь, сэсся бергӧдчӧй, кӧр верманныд. Ті пыр верманныд заводитны сёрнитӧм выльысь, да морт, вермас лоны, бурджыка вочавидзас тіян лӧньджык оланног вылӧ. Кӧ омӧльтчӧм лоӧ быд лунъя, тайӧ петкӧдлӧ, мый тіянлы колӧ унджык отсӧг, а не сы йылысь, мый ті оз уджавны бура. Миян [видзысьяслӧн ас видзӧм йылысь гӧгӧрвоӧдан](/caregiving/caregiver-self-care/) петкӧдлӧ, кытчӧ позьӧ ӧтдортны.

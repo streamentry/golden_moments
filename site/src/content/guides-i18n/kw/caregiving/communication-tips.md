@@ -1,34 +1,34 @@
 ---
-title: "Nasow rag kewsel gans nebonan gans demens"
-seoTitle: "Nasow keskows gans demens: Pyth dhe leverel"
-description: "Fordhow sempel dhe gewsel gans nebonan ow byw gans demens: fatel bareusi keskows, pyth dhe leverel yn le apposyans, ha fatel woslowes."
+title: "Kussulyow kesklappya gans den ow pewa gans dismyk"
+seoTitle: "Kussulyow kesklappya dismyk: pyth dhe leverel"
+description: "Fordhow praktykal dhe gewsel gans den ow pewa gans dismyk: fatell bareusi kesklapp, pyth dhe leverel yn le apposya, ha fatell woslowes."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kewsewgh yn le kosel, fachewgh orth an den, gwrewgh devnydh a’y hanow, ha
-  kewsewgh yn lent yn lavarow berr ha sempel. Govynnewgh unn wovyn yn termyn,
-  profyewgh dew dhewis yn le govynnow ygor, ha gortewgh moy es dell hevel
-  naturel. Na arguyewgh, na ewrewgh, na wrewgh apposyans. Gorthebewgh dhe’n
-  omglywans a-dryv an geryow, ha gwrewgh devnydh a douch, skeusennow ha
-  jeschnyow pan vo an geryow moy kales.
+  Kowsowgh yn le kosel, facyowgh an den, gwrewgh devnydh a’y hanow, ha kowsowgh
+  yn lent yn lavarow berr ha sempel. Govynnowgh unn wovyn orth termyn, profyowgh
+  dew dhewis yn le govynnow ygor, ha gortowgh moy es dell hevel naturel. Na
+  arguyewgh, na ewrewgh, ha na apposyewgh. Gorthebowgh orth an omglywans a-dryv
+  an geryow, ha gwrewgh devnydh a douch, skeusennow ha jestys pan vo kows moy
+  kales.
 keyPoints:
-  - "Gwrewgh lehe an tros ha kavos kontakt lagas kyns dalleth kewsel."
-  - "Gwrewgh devnydh a lavarow berr, unn dybyans yn termyn, ha henwyn yn le ev, hi po i."
-  - "Profyewgh dew dhewis, po govyn ya po na, yn le govynnow ygor."
-  - "Gortewgh gorthyp. Mar ny vydh konvedhys, dasleverewgh an keth geryow, hag ena assayewgh geryow nowydh."
-  - "Na arguyewgh na ewrewgh. Gorthebewgh dhe’n omglywans a-dryv an pyth a leverons."
-  - "Pan wrello geryow mos dhe-ves, keskewsewgh dre douch, ton, semlant an enep ha skeusennow kevrennys."
+  - "Gwrewgh lehe tros a-dryv ha kavos kestav lagas kyns dalleth kewsel."
+  - "Gwrewgh devnydh a lavarow berr, unn dybyans orth termyn, ha henwyn yn le ev, hi po i."
+  - "Profyowgh dewis a dhew, po govyn ya po na, yn le govynnow ygor."
+  - "Gortowgh gorthebow. Mar ny veu konvedhys, dasleverowgh an keth geryow, hag ena assayowgh geryow nowydh."
+  - "Na arguyewgh ha na ewrewgh. Gorthebowgh orth an omglywans a-dryv an pyth a leverons."
+  - "Pan vo geryow ow mos dhe goll, kesklappyewgh dre douch, ton, semlant enep ha skeusennow kevrynnys."
 faq:
-  - q: "Pyth na dalvien vy y leverel dhe nebonan gans demens?"
-    a: "Gwrewgh gwitha apposyans («A borth hwi kov…?»), ewnansow («Kamm yw henna»), kovhe a gollow («My a leveris henna dhis seulabrys») ha kewsel a-dro dhodho kepar ha mar ny ve ev ena. Gwrewgh gwitha kewsel floghik. An re ma a wra ken arta droghevel po anes yn le gweres."
-  - q: "A dalvien vy y ewnhe pan wrell ev kammgampollya fadow?"
-    a: "Dre vras na. Mar yw fakt kamm diles, gaswgh ev dhe dremenes. Argya yn fenowgh ny janj an brys a’n den hag a yll y dhroghevel. Fogelleygh war byth a omglyw ev ha pyth eus edhomm dhodho lemmyn."
-  - q: "Pyth a wrav pan na yll ev kavos ger?"
-    a: "Rewgh termyn dhodho kyns oll. Mar yw ev ow strivya yn apert, da yw profya ger yn kosel po dismygi pyth a vynn leverel ha checkya. Poyntyans, jeschnyow ha skeusennow a yll gweres ynwedh."
-  - q: "Fatel gewsav gans nebonan yn studh diwettha demens neb a gews yn dhifowt?"
-    a: "Dehewgh dhodho a-dherag, leverewgh piw owgh hwi, ha gwrewgh devnydh a lev kosel ha touch kosel. Miryewgh orth enebow ha yeth an korf rag omglywansow. Agas bos ena, kan aswonys po dalghen leuv a yll keskewsel meur heb geryow."
+  - q: "Pyth na dalvien vy leverel dhe nebonan ow pewa gans dismyk?"
+    a: "Gwaytyewgh apposya («A borth hwi kov…?»), ewnhe («Henna yw kamm»), kovhe kollow («My re leveris henna seulabrys dhis») ha kewsel a-dro dhodho/dhedhi kepar ha pan na vo ev/hi ena. Gwaytyewgh kewsel floghik. An re ma a wra kenwerthel morteth po anes yn fenowgh heb gweres."
+  - q: "A dalvien vy ewnhe pan wrons kammwriansow?"
+    a: "Dre vras, na. Mar yw kammwrians heb peryl, gasowgh ev dhe basya. Argya a janj kildenna brys an den hag yn fenowgh a wra dhodho/dhedhi bos troblys. Fogellyowgh war an pyth a omglywons ha’n pyth yw res dhedha lemmyn."
+  - q: "Pyth a dalvien vy gul pan na allons kavos an ger?"
+    a: "Rowgh termyn dhedha yn kynsa. Mar yns i ow strivya yn apert, da yw profya ger yn jentyl po dismygi pyth a vynnons leverel ha checkya. Poyntya, jestys ha skeusennow a yll gweres ynwedh."
+  - q: "Fatell dhallav vy kewsel gans nebonan yn nivel diwettha a dhismyk na gews yn fenowgh?"
+    a: "Dewgh dhyworth a-rag, leverowgh piw owgh hwi, ha gwrewgh devnydh a lev kosel ha touch jentyl. Miryowgh orth enebow ha yeth an korf rag omglywansow. Agas presens, kan aswonys po dalghenna leuv a yll kesklappya meur heb geryow."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Demens a yll gul moy kales kavos geryow, holya lavar hir, po lettya tros a-dryv. Ny styr henna vyth oll bos an den astellys gans mynnes omjunya. Chanjyow byghan yn fordh may pareusowgh hwi keskows, fatel gewsowgh ha fatel woslowowgh a yll gul kewsel esya ha kosella rag an dhew ahanowgh.
+Dismyk a yll gul moy kales kavos geryow, holya lavar hir, po lettya tros a-dryv. Ny styr hemma vyth na wrug an den hedhi hwans dhe junya. Chanjyow byghan yn fordh may pareusowgh hwi kesklapp, fatell gewsowgh ha fatell woslowowgh a yll gul kewsel esya ha kosella rag an dhew ahanowgh.
 
-## Pyth yw an nasow moyha posek rag kewsel gans nebonan gans demens?
+## Pyth yw an kussulyow moyha posek rag kewsel gans den ow pewa gans dismyk?
 
-Gwrewgh kavos y vrys, gwrewgh y sempel, ha bedhewgh perthynek. Mar pergh kov a bymp tra yn unnik:
+Kewgh aga attendyans, synsowgh yn sempel, ha bedhewgh perthynek. Mar kovhewgh hwi hwetek tra yn unnik:
 
-1. **Gwrewgh kosel an stevell ha fachewgh orto.** Sodh an bellwolok, esedhewgh orth nivel an lagasow, ha gwrewgh devnydh a’y hanow.
-2. **Leverewgh unn dra yn termyn.** Lavarow berr, unn dybyans, unn wovyn.
-3. **Profyewgh dew dhewis.** «Te po koffi?» yw esya es «Pyth a vynnowgh hwi?»
-4. **Gortewgh.** Rewgh moy termyn rag gorthyp es dell hevel naturel, ha gwrewgh assaya na wrewgh y drestra.
-5. **Na arguyewgh na wrewgh apposyans bythkweth.** Gorthebewgh dhe’n fordh mayth omglyw, a-der pyth yw ewn an fadow po nag yw.
+1. **Gwrewgh an stevel kosel ha facyowgh dhedha.** Sklinyewgh an bellwolok, esedhowgh orth nivel aga lagas, ha gwrewgh devnydh a’ga hanow.
+2. **Leverowgh unn dra orth termyn.** Lavarow berr, unn dybyans, unn wovyn.
+3. **Profyowgh dewis a dhew.** «Te po koffi?» yw esya es «Pyth a vynnowgh hwi?»
+4. **Gortowgh.** Rowgh moy termyn rag gorthebi es dell hevel naturel, hag assayowgh na wrewgh treghi a-dreus.
+5. **Na arguyewgh ha na apposyewgh bythkweth.** Gorthebowgh orth an fordh mayth omglywons, nyns orth mars yw ewn an fydhyow.
 
-## Fatel dhallathav vy keskows?
+## Fatell dhallav vy kesklapp?
 
-Gwrewgh pareusi may hallo an den fogella warnowgh hwi. An [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend finwetha tros yn kynsa le: sodh an radyo po an bellwolok, dege an lennow po an daras, po mos dhe le moy kosel.
+Pareusowgh an traow may hallo an den fogella warnowgh hwi. An [kowethlyver Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend lehe tros yn kynsa: sklinyewgh an radyo po’n bellwolok, degeowgh an lennow po an daras, po gwrewgh mos dhe le moy kosel.
 
-- **Dehewgh dhodho a-dherag.** Dos a-dhelergh po a’n tenewen a yll y sowdhana.
-- **Leverewgh piw owgh hwi.** «Dydh da, Tas, Sarah ov vy, dha vyrgh.» Hemm a with an den rag hwilas dha hanow.
-- **Gwrewgh dos dhe’y nivel.** Mar yw ev owth esedha, esedhewgh po gwrewgh omblegya may fo agas lagasow orth an keth nivel.
-- **Checkyewgh agas semlant hag agas ton.** An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a gusul bos war dha enep a’th ton, ughelder, semlant an enep hag yeth an korf, ha strivya orth fordh toemm ha sempel.
-- **Gwrewgh sur bos dewweder hag apposyow klewans yn le.** Kales yw holya keskows na yllowgh y weles po y glewes yn tien.
+- **Dewgh dhyworth a-rag.** Dos dhyworth a-dryv po a-denewen a yll sowdhana.
+- **Leverowgh piw owgh hwi.** «Hay Tas, Sarah ov vy, dha vyrgh.» Hemm a with dhedha rag hwilas dha hanow.
+- **Gwrewgh mos dhe’ga nivel.** Mars yns i owth esedha, esedhowgh po plegyewgh may fo agas lagasow orth an keth nivel.
+- **Checkyowgh agas enep ha’gas ton.** An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a gusul bos war agas ton, ughelder, semlant enep ha yeth an korf, ha strivya orth fordh toemm ha sempel.
+- **Surhewgh bos gwedrow lagas ha devisyow klewans yn le.** Kales yw holya kesklapp na yllowgh hwi gweles po klewes yn tien.
 
-## Fatel dhylien vy lavara an pyth a leverav?
+## Fatell dhallav vy lavarel an pyth a vynnav?
 
 Gwrewgh devnydh a eryow sempel, lavarow berr ha lev kosel, isel.
 
-- **Unn dybyans yn pub lavar.** «Gwren ni gwiska dha gota. Ena ni a dhe’n mes.» A-der leverel an dhew yn unn anall.
-- **Gwrewgh devnydh a henwyn, a-der raghenwyn.** «Modrep Jean a wrug galow» yw klerra es «Hi a wrug galow».
-- **Gwrewgh an lev isella, a-der ughella.** An Family Caregiver Alliance a brof lev isella yn le lev ughel.
-- **Dasleverewgh, ena chanjyewgh an geryow.** Mar ny gonvedhas ev, dasleverewgh an keth geryow unnweyth. Mar ny ober henna, gortewgh pols ha gwrewgh assaya geryow dyffrans.
-- **Diskwedhewgh keffrys ha leverel.** Poyntyewgh orth an hanafas, drehevowgh an dhew jyrsi, po diskwedhewgh an kynsa kamm.
-- **Kewsewgh orto, a-der a-dro dhodho.** An NIA a warn a-dherag kewsel a-dro dhe’n den kepar ha mar ny ve ev ena, hag a-dherag «kewsel floghik».
+- **Unn dybyans yn pub lavar.** «Gwren ni gwiska dha gota. Ena ni a dhe’n mes.» Nyns an dhew yn unn anall.
+- **Gwrewgh devnydh a henwyn, nyns raghenwyn.** «Modereb Jean a wrug galow» yw klerra es «Hi a wrug galow.»
+- **Gwrewgh an lev isella, nyns ughella.** Family Caregiver Alliance a brof lev isella yn le lev ughella.
+- **Dasleverowgh, ena chanjyowgh an geryow.** Mar ny gonvedhsons, dasleverowgh an keth geryow unnweyth. Mar ny ober henna, gortowgh pols hag assayowgh geryow dyffrans.
+- **Diskwedhowgh keffrys ha leverel.** Poyntyowgh orth an hanaf, dalghennowgh an dhew grys, po diskwedhowgh an kynsa kamm.
+- **Kowsowgh orta, nyns a-dro dhodho/dhedhi.** An NIA a warn a erbynn kewsel a-dro dhe’n den kepar ha pan na vo ev/hi ena, hag a erbynn «kewsel floghik».
 
 An NIA a brof versyons sempel a wovynnow kemmyn. Ottomma ensamplys y’n keth spyrys:
 
-| Yn le | Assayewgh |
+| Yn le | Assayowgh |
 | --- | --- |
-| «Pyth a vynnowgh hwi rag koen?» | «A vynn hwi pysk po kig yar?» |
-| «Fatel omglywowgh hwi?» | «Owgh hwi ow klywes skwith?» |
-| «Eus nown dhis?» | «Koen a vydh par yn pymp mynysen.» |
-| «Nyns yw henna an fordh dh’y wul.» | «Gwren ni assaya y’n fordh ma.» |
-| «A borth hwi kov a’gan viaj dhe’n lynn?» | «Yth esen vy ow prederi a-dro dh’agan viaj dhe’n lynn. Lever dhymm pyth a gar’sys ynno.» |
-| «My a leveris henna dhis seulabrys.» | Gorthebewgh arta, yn kuv, kepar ha pan o rag an kynsa prys. |
+| «Pyth a vynnowgh hwi rag koen?» | «A vynnowgh hwi pysk po kig yar?» |
+| «Fatell omglewowgh hwi?» | «A omglywowgh hwi skwith?» |
+| «Eus nown dhis?» | «Koen a vydh parys yn pymp mynysen.» |
+| «Nyns yw henna an fordh dh’y wul.» | «Gwren ni y assaya yndella.» |
+| «A borth hwi kov a’gan viaj dhe’n lynn?» | «Yth esen vy ow prederi a-dro dhe’gan viaj dhe’n lynn. Lever dhymm pyth a gara dhis ynno.» |
+| «My re leveris henna seulabrys dhis.» | Gorthebowgh arta, yn kuv, kepar ha pan vo an kynsa prys. |
 
-## Fatel woslowav vy yn ta?
+## Fatell woslowav vy yn ta?
 
-Goslowyewgh orth an styr hag orth an omglywans, a-der orth an geryow yn unnik.
+Goslowowgh orth an styr hag orth an omglywans, nyns orth an geryow yn unnik.
 
-- **Gortewgh.** Yn fenowgh taw yw termyn prederi. Komsowgh yn lent bys yn deg kyns entra.
-- **Profyewgh ger marnas ev dhe vos stag.** An Family Caregiver Alliance a lever bos da profya geryow pan vo nebonan ow strivya.
-- **Checkyewgh an pyth a glewsowgh.** An [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) a brof hwilas an styr a-dryv aga geryow ha’y dhasleverel rag checkya hwi dh’y gonvedhes. «Yth esos ta prederus a-dro dhe’n karr?»
-- **Miryewgh orth y enep ha’y gorf.** Ha kewsel ow tos ha bos moy kales, an NIA a not, semlantow an enep a yll diskwedhes tristys, sorr po droghevel moy kler es geryow.
-- **Gwrewgh kemeres prederow yn seriosek.** Kyn fo preder selyes war fakt kamm, gwir yw an omglywans.
+- **Gortowgh.** Tawes yw termyn prederi yn fenowgh. Kowlowgh yn lent bys yn deg kyns entra.
+- **Profyowgh ger marnas mars yns i gyllys yn fast.** Family Caregiver Alliance a lever y vos da profya geryow pan vo nebonan ow strivya.
+- **Checkyowgh an pyth a glewsowgh.** An [kowethlyver Alzheimer’s Association a-dro dhe gesklappya](https://www.alz.org/help-support/caregiving/daily-care/communications) a brof hwilas an styr a-dryv aga geryow ha’y dhasleverel rag checkya hwi dhe gonvedhes. «Yth esos ow prederi a-dro dhe’n karr?»
+- **Miryowgh orth aga enep ha’ga horf.** Pan vo kewsel ow tos ha bos moy kales, an NIA a not, semlantow enep a yll diskwedhes tristys, sorr po anfesans moy kler es geryow.
+- **Kemmerowgh prederow yn seriosek.** Kyn fo preder selys war gammwrians, an omglywans yw gwir.
 
-## Pyth mar lever ev neppyth nag yw gwir?
+## Pyth mar leverons neppyth nag yw gwir?
 
-Na arguyewgh. Skant yw an chons hwi dhe waynya, ha’n den a yll diwedha ow klywes meth po own. Yn y le, omjun yewgh gans an omglywans, hag ena gwrewgh mos yn-rag yn kosel.
+Na arguyewgh. Annamlek yw hwi dhe waynya, hag an den a yll diwedha owth omglywes morthek po ownek. Yn y le, junyewgh gans an omglywans, hag ena gwrewgh mos yn-rag yn jentyl.
 
-An Family Caregiver Alliance a brof aswon an omglywans kyns hwi dhe dreylya an keskows. Rag ensampel, mar kwra dha vamm leverel yn stroth bos edhomm dhedhi kuntel an fleghes dhyworth an skol:
+Family Caregiver Alliance a brof aswon an omglywans kyns hwi dhe dreylya an kesklapp. Rag ensampel, mar kwra dha vamm leverel yn kales bos res dhedhi kuntel an fleghes a’n skol:
 
-- Yn le: «Mamm, dha fleghes yw teves. Henna o dew-ugens bledhen alebma.»
-- Assayewgh: «Ty o mamm pur ofalus pupprys. Lever dhymm a-dro dhe’ga kuntel. A vynnen ni kemeres tamm kyns?»
+- Yn le: «Mamm, dha fleghes yw tevesigyon. Hemm o moy es dew-ugens bledhen alebma.»
+- Assayowgh: «Ty o mamm a vri pup-prys. Lever dhymm a-dro dhe’ga huntel. A vynnen ni kavos tamm boes kyns?»
 
-An Alzheimer's Association a gusul ynwedh na arguyewgh a-dro dhe lavarow na akordyowgh gans i. Dewisewgh agas termynyow: mar yw kryjyans kamm diles, gaswgh ev dhe vos.
+Alzheimer’s Association a gusul ynwedh na arguyewgh a-dro dhe lavarow na assentowgh hwi orta. Dewisewgh agas termynyow: mar yw kryjyans kamm heb peryl, gasowgh ev dhe vos.
 
-## Fatel wra keskows chanjya ha demens ow avonsya?
+## Fatell wra kesklappya chanjya dell avonsya dismyk?
 
-Edhommow a janj dres termyn, ytho chanjyewgh agas fordh. An Alzheimer's Association a dheskrif tri studh ledan:
+Res yw chanjya dres termyn, ytho chanjyowgh agas fordh. Alzheimer’s Association a dheskrif tri chyf nivel:
 
-| Studh | Pyth a weres |
+| Nivel | An pyth a weres |
 | --- | --- |
-| A-varr | Na gemerewgh bos ev na yll keskewsel. Gwrewgh y gomprehendya yn keskowsow, kewsewgh orto yn ewn, govynnewgh py skoodhyans a vynn, ha gwrewgh devnydh a hwarthusder mar kwrello gweres. |
-| Kres | Keskowsow unn orth unn yn le kosel. Kewsewgh yn lent, gwithewgh kontakt lagas, gwrewgh devnydh a wovynnow ya po na, rewgh danvonadow kamm ha kamm, ha na wrewgh kritika na ewnhe. |
-| Diwettha | Dehewgh dhodho a-dherag ha leverewgh piw owgh hwi. Kennerthowgh poyntyans ha jeschnyow. Gwrewgh devnydh a douch, sonyow, gwelyow ha blasusow. Na gewsewgh bythkweth kepar ha mar ny ve ev ena. |
+| A-varr | Na grygyewgh na allons kesklappya. Gorryowgh i yn kesklappow, kowsowgh orta yn ewn, govynnowgh py skoodhyans a vynnons, ha gwrewgh devnydh a hwarth mar gweres. |
+| Kres | Kesklappow unn orth unn yn le kosel. Kowsowgh yn lent, synsowgh kestav lagas, gwrewgh devnydh a wovynnow ya po na, rowgh danvonadow kamm ha kamm, ha na grephewgh na ewnhe. |
+| Diwettha | Dewgh dhyworth a-rag ha leverowgh piw owgh hwi. Kennerthowgh poyntya ha jestys. Gwrewgh devnydh a douch, sonyow, gwelyow ha blasyow. Na gewsowgh bythkweth kepar ha pan na vons i ena. |
 
-Pub den yw dyffrans, ha’n keth den a yll kavos dedhyow da ha dedhyow kales. Gorthebewgh dhe’n fordh mayth yw ev lemmyn, a-der dhe’n label.
+Pub den yw dyffrans, hag y hyll bos dydhyow da ha kales dhe’n keth den. Gorthebowgh orth an fordh mayth yns i lemmyn, nyns orth label.
 
-## A yll skeusennow ha gwriansow gul keskows esya?
+## A yll skeusennow ha gwriansow gul kesklapp esya?
 
-Ya. Skeusen kevrennys a denn yn-mes an gwask ha re dhe’n dhew ahanowgh neppyth dhe vires orto ha poyntya orto.
+Ya. Skeusen kevrynnys a gemmer an gwask dhe-ves ha ri dhywgh hwi agas dew neppyth dhe vires orto ha poyntya orto.
 
-- **Kedhlow skeusen.** [Conversation Cards](/games/conversation-cards/) a brof skeusennow gans govynnow ygor na wra apposyans bythkweth.
-- **Skeusennow teylu.** [Photo Pairs](/games/photo-pairs/) a dreyl skeusennow a dhewisowgh hwi dhe wari parow kosel, hag yn fenowgh hemm a dhre hwedhlow.
-- **Lavarennow aswonys.** [Finish the Saying](/games/finish-the-saying/) a wra devnydh a lavarennow aswonys, sywys gans kedhlow rag kewsel.
-- **Gwariow parow avel kilva.** [Picture Pairs](/games/picture-pairs/) a re neppyth dhe’gas diwla dhe wul ha hwi ow kewsel.
+- **Anvodhow skeusen.** [Conversation Cards](/games/conversation-cards/) a brof skeusennow gans govynnow ygor na wra apposya bythkweth.
+- **Skeusennow teylu.** [Photo Pairs](/games/photo-pairs/) a dreyl skeusennow a dhewisowgh hwi yn gwari parow jentyl, hag yn fenowgh hemm a dhallath hwedhlow.
+- **Lavarow koth aswonys.** [Finish the Saying](/games/finish-the-saying/) a wra devnydh a lavarow koth aswonys, gans anvodh kewsel a sew.
+- **Gwariow parow avel kilva.** [Picture Pairs](/games/picture-pairs/) a re neppyth dhe’gas dewdhornow gul hag hwi ow kewsel.
 
-Gwrewgh mires orth [fatell wari gwariow war-barth](/caregiving/how-to-play-together/) ha [gwriansow kovheans](/activities/reminiscence/) rag moy. Rag vysytyow ha galowyow, redyewgh agan gidlinyow a-dro dhe [vysytyow](/activities/visiting/) ha [galowyow pellgowser ha gwydhyow](/activities/phone-and-video-calls/).
+Gwrewgh mires orth [fatell wari gwariow war-barth](/caregiving/how-to-play-together/) ha [gwriansow kovheans](/activities/reminiscence/) rag moy. Rag vysytyansow ha galowys, redyowgh agan kowethlyvrow a-dro dhe [vysytyansow](/activities/visiting/) ha [galowys pellgowser ha gwydhyow](/activities/phone-and-video-calls/).
+
+Rag den liesyethyek, gwrewgh mires orth agan [kowethlyver a-dro dhe gesklappya a-dreus yethow](/caregiving/language-and-dementia-communication/).
 
 ## Pyth mar kyllav vy ow ferthyans?
 
-Hemm a hwer dhe bubonan. An NIA a brof, mar tegh hwi dhe vos serrys, hwi dhe gemeres termyn rag koselhe. Kewgh dhe stevell arall, kemerewgh nebes anallyow lent, ha dehweles pan yllowgh. Hwi a yll pupprys dalleth an keskows arta, hag yn fenowgh an den a wra gorthebi dhe’gas modh moy kosel. Mar yw serrysder ow tos ha bos pupprys, sin yw bos edhomm dhywgh a voy skoodhyans, a-der bos hwi ow fyllel. Agan gidlinen a-dro dhe [omwithans an gwithyas](/caregiving/caregiver-self-care/) a’n jeves tylleryow may hyllydh mos rag gweres.
+Hemm a hwer dhe bubonan. An NIA a brof mar tegewgh hwi anfesik, kemmerowgh pols rag koselhe. Gwrewgh mos dhe stevel aral, kemmerowgh nebes anallyow lent, ha dehweliwgh pan yllowgh. Hwi a yll pup-prys dalleth an kesklapp arta, hag yn fenowgh an den a wra gorthebi orth agas modh moy kosel. Mar yw anfesans ow tos ha bos pup-prys, hemma yw arwodh bos res dhywgh moy skoodhyans, nyns hwi dhe fyllel. Agan kowethlyver a-dro dhe [omwith gwithysi](/caregiving/caregiver-self-care/) a’n jeves leow dhe dreylya dhedha.

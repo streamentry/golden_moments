@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Tips per discurrer cun ina persuna cun demenza"
+seoTitle: "Discurs cun demenza: tge dir e tge evitar"
+description: "Modas practicas per discurrer cun ina persuna che viva cun demenza: co preparar ina conversaziun, tge dir enstagl da dumandar u curreger e co tadlar."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Discurri en in lieu quiet, guardai la persuna en fatscha, numnai ses num e
+  discurri plaun cun frasas curtas e simplas. Dumandai ina dumonda per giada,
+  porschi duas pussaivladas enstagl da dumondas avertas e spetgai pli ditg che
+  quai che para natural. Betg discutar, curreger u interrogar. Respuntai al
+  sentiment davos las pleds e duvrai il tutg, maletgs e gests cura che il
+  discurrer daventa pli difficultus.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Redugi rumurs da fund e tschertgai il contact visual avant che Vus cumenzais a discurrer."
+  - "Duvrai frasas curtas, ina idea per giada, e nums enstagl da el, ella u els."
+  - "Porschi ina tscherna tranter duas pussaivladas u ina dumonda cun gea u na, enstagl da dumondas avertas."
+  - "Spetgai sin ina resposta. Sche la persuna na vegn betg chapida, repeti las medemas pleds e lura empruvai cun autras."
+  - "Betg discutar u curreger. Respuntai al sentiment davos quai ch’ella di."
+  - "Cura che las pleds svaneschan, communitgai tras il tutg, il tun da la vusch, la mimica e maletgs cundividids."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Tge na duess ins betg dir ad ina persuna cun demenza?"
+    a: "Evitai d’interrogar («Ta regordas ti…?»), da curreger («Quai è nuncorrect»), da regurdar a la persuna piertas («Jau hai gia dit quai») e da discurrer davart ella sco sche ella na fiss betg qua. Evitai ina lingua da uffant. Quai chaschuna savens genuss u tristezza senza gidar."
+  - q: "Duess jau curreger la persuna cura ch’ella di in fatg nuncorrect?"
+    a: "Per regla betg. Sche in fatg nuncorrect na porta nagin donn, laschai ir. Discutar mida raramain l’opiniun da la persuna e la fa savens deplì triste. Sa concentrai sin quai ch’ella senta e dovra ussa."
+  - q: "Tge poss jau far cura ch’ella na chatta betg ina pled?"
+    a: "Dai l’emprim temp. Sche Vus vesais ch’ella ha propi difficultads, è quai en in urden da porscher plaun ina pled u da supponer tge ch’ella vul dir e da dumandar sche quai è correct. Mussar, gesticular e maletgs pon era gidar."
+  - q: "Co poss jau discurrer cun ina persuna en in stadi tardiv da demenza che discurra quasi betg pli?"
+    a: "N’approschai da davant, ditg tgi che Vus essas e duvrai ina vusch calma ed in tutg plaun. Observai fatschas e lingua dal corp per chapir ils sentiments. Vossa preschientscha, ina chanzun enconuschenta u tegnair maun po communitgar bler senza pleds."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+La demenza po far pli difficil da chattar pleds, da suandar ina frasa lunga u da ignorar rumurs da fund. Quai na vul dentant betg dir che la persuna na vulgia betg pli avair contact. Pitschnas midadas en la moda co Vus preparais ina conversaziun, co Vus discurris e co Vus tadlais pon far il discurrer pli simpel e pli calm per omaduas parts.
 
-## What are the most important tips for talking with someone who has dementia?
+## Tgenins èn ils tips ils pli impurtants per discurrer cun ina persuna cun demenza?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Attirai sia attenziun, tegnai quai simpel e sajais pazients. Sche Vus As regurdais mo da tschintg chaussas:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Fai quiet en la stanza e guardai la persuna en fatscha.** Stizai il televisur, sezai a medema autezza dals egls e numnai ses num.
+2. **Di ina chaussa per giada.** Frasas curtas, ina idea, ina dumonda.
+3. **Porschi ina tscherna tranter duas pussaivladas.** «Tè u caffè?» è pli simpel che «Tge vulessas ti beiber?»
+4. **Spetga.** Dai pli temp per ina resposta che quai che para natural, ed empruvai da betg interrumper.
+5. **Mai discutar u interrogar.** Respuntai a quai ch’ella senta, betg a la dumonda sche ils fatgs èn corrects.
 
-## How should I start a conversation?
+## Co duess jau cumenzar ina conversaziun?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Preparai la situaziun uschia che la persuna possia sa concentrar sin Vus. Il [guid da la Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recumonda d’emprim da reducir il ramur: stizai la radio u il televisur, serrai las cortinas u l’isch, u midai en in lieu pli quiet.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **N’approschai da davant.** Vegnir davos u da la vart po sgarmentar.
+- **Ditg tgi che Vus essas.** «Chau bab, jau sun Sarah, tia figlia.» Uschia na sto la persuna betg tschertgar Voss num.
+- **Vegni a medema autezza.** Sche la persuna suta, As sezai u As schaniugliai uschia che Voss egls sajan a medema autezza.
+- **Fai attenziun a Vossa mimica ed a Voss tun.** Il [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) recumonda da far attenziun al tun, a la fermezza da la vusch, a la mimica ed a la lingua dal corp, e da tschertgar in tun cordial e calm.
+- **Controllai che bretgs ed apparats auditivs sajan endrads.** Igl è difficil da suandar ina conversaziun che Vus na vesais u na udis betg bain.
 
-## How should I phrase what I say?
+## Co duess jau formular quai che jau di?
 
-Use simple words, short sentences and a calm, low voice.
+Duvrai pleds simplas, frasas curtas ed ina vusch calma e bassa.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ina idea per frasa.** «Nus mettain aint tia giacca. Lura main nus ora.» Betg omaduas chaussas en ina frasa.
+- **Duvrai nums, betg pronoms.** «La tatta Jean ha telefonà» è pli cler che «Ella ha telefonà».
+- **Pli bass, betg pli ferm.** La Family Caregiver Alliance propona ina vusch pli bassa enstagl dad ina vusch pli auta.
+- **Repeter, lura formular autramain.** Sche la persuna n’ha betg chapì, repeti las medemas pleds ina giada. Sche quai na gida betg, spetgai in mument ed empruvai cun autras pleds.
+- **Mussai ed expliquei.** Mussai sin la tazza, tegnai si ils dus pullovers u mussai l’emprim pass.
+- **Discurri cun ella, betg davart ella.** Il NIA avertescha da betg discurrer davart la persuna sco sche ella na fiss betg qua, e da betg duvrar ina lingua da uffant.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Il NIA propona versiuns pli simplas da dumondas frequentas. Qua èn exempels en quest senn:
 
-| Instead of | Try |
+| Enstagl da | Empruvai |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Tge vuls ti mangiar per tschaina?» | «Vuls ti pesch u pulaster?» |
+| «Co ta sentas ti?» | «Es ti staunchel u stauncla?» |
+| «Has ti fom?» | «La tschaina è pronta en tschintg minutas.» |
+| «Uschia na fa ins betg quai.» | «Empruvain uschia.» |
+| «Ta regordas ti da nossa gita tar il lai?» | «Jau hai pensà a nossa gita tar il lai. Ma raquinta, tge t’ha plaschì là.» |
+| «Jau hai gia dit quai.» | Respundai danovamain, cun buntà, sco sche füss per l’emprima giada. |
 
-## How do I listen well?
+## Co poss jau tadlar bain?
 
-Listen for the meaning and the feeling, not just the words.
+Tadlai per chapir il senn ed il sentiment, betg mo las pleds.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Spetgai.** Il silenzi è savens temp per pensar. Dumbrai plaun enfin diesch avant che Vus intervenis.
+- **Porschi ina pled mo sche la persuna è bloccada.** La Family Caregiver Alliance di ch’i saja en in urden da proponer pleds cura che insaquel ha difficultads.
+- **Controllai tge che Vus avais chapì.** Il [guid da l’Alzheimer’s Association per la communicaziun](https://www.alz.org/help-support/caregiving/daily-care/communications) propona da tschertgar il senn davos las pleds e da repeter quai per controllar sche Vus avais chapì dretg. «Ti ta fas quitads per l’auto?»
+- **Observai la fatscha ed il corp.** Cura che discurrer daventa pli difficil, remarquescha il NIA, pon expressiuns da la fatscha mussar tristezza, gritta u frustraziun pli cler che las pleds.
+- **Prendai quitads per serius.** Er sche in quitad sa basa sin in fatg nuncorrect, è il sentiment real.
 
-## What if they say something that is not true?
+## Tge sch’ella di insatge che na è betg vair?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Betg discutar. Igl è nunprobabel che Vus gudagniais, e la persuna po sa sentir genussada u sgarmentada. Enstagl da quai, tschertgai il contact cun il sentiment e midai lura plaun il tema.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+La Family Caregiver Alliance propona da renconuscher l’emprim l’emozziun avant che Vus midais il tema. Per exempel, sche Vossa mamma insisteschia ch’ella sto ir a prender ils uffants a la scola:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Enstagl da: «Mamma, tes uffants èn creschids. Quai è stà avant quaranta onns.»
+- Empruvai: «Ti has adina stà ina mamma fitg premurada. Ma raquinta, co ti als prenavas. Vulain nus l’emprim mangiar in snack?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+L’Alzheimer’s Association recumonda era da betg discutar davart decleraziuns cun las qualas Vus n’essas betg d’accord. Tscherni ils muments: sche ina cretta nuncorrecta na porta nagin donn, laschai quai esser.
 
-## How does communication change as dementia progresses?
+## Co mida la communicaziun en il decurs da la demenza?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ils basegns sa midan cun il temp, perquai adattai Vossa moda. L’Alzheimer’s Association descriva en grond trais fasas:
 
-| Stage | What helps |
+| Fasa | Tge che gida |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Tempriva | Betg prender per scont che la persuna na possia betg communitgar. Includai ella en conversaziuns, discurri directamain cun ella, dumandai tge sustegn ch’ella giavischia e duvrai umor sche quai gida. |
+| Mesauna | Discurs da betg a betg en in lieu quiet. Discurri plaun, tegnai il contact visual, duvrai dumondas cun gea u na, dai instrucziuns pass per pass e betg crititgar u curreger. |
+| Tardiva | N’approschai da davant e ditg tgi che Vus essas. Animai da mussar e da gesticular. Duvrai il tutg, tuns, maletgs ed odurs. Mai discurrer sco sche la persuna na fiss betg qua. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Mintga persuna è differenta, e la medema persuna po avair dis buns e dis difficils. Respuntai a la moda co ella è ussa, betg ad ina etichetta.
 
-## Can pictures and activities make conversation easier?
+## Pon maletgs ed activitads facilitar la conversaziun?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Gea. In maletg cundividì prend davent la pressiun e dat ad omaduas parts insatge per guardar e mussar sin.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Impuls cun maletgs.** [Conversation Cards](/games/conversation-cards/) porscha maletgs cun dumondas avertas che mai n’interrogeschan.
+- **Fotos da famiglia.** [Photo Pairs](/games/photo-pairs/) fa da las fotos che Vus tschernis in gieu da chattar paraiglias plaun, quai che chaschuna savens raquints.
+- **Plaids enconuschents.** [Finish the Saying](/games/finish-the-saying/) duvra plaids enconuschents, suandads dad in impuls per discurrer.
+- **Gieus da chattar paraiglias sco fund.** [Picture Pairs](/games/picture-pairs/) dat a Vossas mauns insatge da far durant che Vus discurris.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Legiai [co giugar ensemen](/caregiving/how-to-play-together/) ed [activitads da regurdientschas](/activities/reminiscence/) per ulteriuras ideas. Per visitas e telefons, legiai nossas cussegliaziuns davart [visitas](/activities/visiting/) e [telefons e video-cloms](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Per ina persuna plurilingua, legiai noss [guid per communitgar tras differentas linguas](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Tge sch’jau perd la pazienza?
+
+Quai capita a mintgin. Il NIA propona che Vus prendais in pau temp per As calmar, sche Vus daventais frustrads u frustradas. Midai en in’autra stanza, respirai plaun in pèr giadas e turnai cura che Vus essas pli calms u calmas. Vus pudais adina cumenzar danovamain la conversaziun, e la persuna reagescha savens bain sin Vossa meglra calma. Sche la frustraziun daventa permanenta, è quai in segn che Vus avais basegn da dapli sustegn, betg che Vus na reussis betg. Noss guid davart [la tgira da sasez per persunas che tgiran](/caregiving/caregiver-self-care/) inditgescha nua che Vus chattais agid.

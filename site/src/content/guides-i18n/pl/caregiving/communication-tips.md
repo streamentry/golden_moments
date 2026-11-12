@@ -1,34 +1,34 @@
 ---
-title: "Jak rozmawiać z osobą z demencją: wskazówki dla opiekunów"
-seoTitle: "Rozmowa z osobą z demencją: co mówić, a czego unikać"
-description: "Praktyczne sposoby rozmowy z osobą z demencją: jak zacząć rozmowę, co mówić zamiast przepytywać i poprawiać oraz jak słuchać."
+title: "Jak rozmawiać z osobą żyjącą z demencją"
+seoTitle: "Rozmowa z osobą z demencją: wskazówki"
+description: "Praktyczne wskazówki, jak rozmawiać z osobą żyjącą z demencją: jak przygotować rozmowę, co mówić zamiast pytań sprawdzających i jak słuchać."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Rozmawiaj w ciszy, stań twarzą do bliskiej osoby, zwracaj się do niej po
-  imieniu i mów wolno, krótkimi, prostymi zdaniami. Zadawaj jedno pytanie
-  naraz, proponuj wybór z dwóch możliwości zamiast pytań otwartych i czekaj
-  dłużej, niż wydaje się naturalne. Nie spieraj się, nie poprawiaj i nie
-  przepytuj. Odpowiadaj na uczucie, które kryje się za słowami, a gdy mówienie
-  staje się trudniejsze, korzystaj z dotyku, obrazków i gestów.
+  Rozmawiajcie w spokojnym miejscu, zwróć się twarzą do osoby, używaj jej imienia
+  i mów powoli, krótkimi, prostymi zdaniami. Zadawaj jedno pytanie naraz,
+  proponuj dwa warianty zamiast pytań otwartych i czekaj dłużej, niż wydaje się
+  naturalne. Nie kłóć się, nie poprawiaj i nie sprawdzaj pamięci. Odpowiadaj na
+  uczucia stojące za słowami, a gdy mówienie staje się trudniejsze, korzystaj z
+  dotyku, zdjęć i gestów.
 keyPoints:
-  - "Wycisz tło i nawiąż kontakt wzrokowy, zanim zaczniesz mówić."
-  - "Mów krótkimi zdaniami, jedna myśl naraz, i używaj imion zamiast „on”, „ona”, „oni”."
-  - "Proponuj wybór z dwóch możliwości albo pytanie na „tak” lub „nie” zamiast pytań otwartych."
-  - "Poczekaj na odpowiedź. Jeśli bliska osoba nie została zrozumiana, powtórz te same słowa, a potem spróbuj innych."
-  - "Nie spieraj się i nie poprawiaj. Odpowiadaj na uczucie, które kryje się za tym, co mówi."
-  - "Gdy słów ubywa, porozumiewaj się dotykiem, tonem głosu, mimiką i wspólnymi obrazkami."
+  - "Wycisz otoczenie i nawiąż kontakt wzrokowy, zanim zaczniesz rozmowę."
+  - "Używaj krótkich zdań, jednej myśli naraz i imion zamiast zaimków „on”, „ona” czy „oni”."
+  - "Proponuj wybór z dwóch możliwości albo pytanie, na które można odpowiedzieć „tak” lub „nie”, zamiast pytań otwartych."
+  - "Poczekaj na odpowiedź. Jeśli osoba nie została zrozumiana, powtórz te same słowa, a potem spróbuj innych."
+  - "Nie kłóć się i nie poprawiaj. Odpowiadaj na uczucia stojące za tym, co osoba mówi."
+  - "Gdy słów jest coraz mniej, porozumiewajcie się przez dotyk, ton głosu, mimikę i wspólne oglądanie zdjęć."
 faq:
-  - q: "Czego nie mówić osobie z demencją?"
-    a: "Unikaj przepytywania („Pamiętasz…?”), poprawiania („To nieprawda”), przypominania o utratach („Już ci mówiłem”) i mówienia o niej, jakby jej nie było. Unikaj mówienia jak do dziecka. Takie zachowania zwykle wywołują zakłopotanie lub przykrość i nie pomagają."
-  - q: "Czy poprawiać, gdy myli fakty?"
-    a: "Zwykle nie. Jeśli błędny fakt jest niegroźny, odpuść. Spieranie się rzadko zmienia zdanie osoby i często ją denerwuje. Skup się na tym, co czuje i czego potrzebuje teraz."
-  - q: "Co robić, gdy nie może znaleźć słowa?"
-    a: "Najpierw daj jej czas. Jeśli wyraźnie się męczy, możesz delikatnie podsunąć słowo albo zgadnąć, co ma na myśli, i się upewnić. Pomagają też wskazywanie, gesty i obrazki."
-  - q: "Jak rozmawiać z osobą w późnym stadium demencji, która rzadko mówi?"
-    a: "Podchodź od przodu, powiedz, kim jesteś, mów spokojnym głosem i dotykaj delikatnie. Obserwuj twarz i mowę ciała, by odczytać uczucia. Twoja obecność, znajoma piosenka albo trzymanie za rękę mogą wiele powiedzieć bez słów."
+  - q: "Czego nie mówić osobie żyjącej z demencją?"
+    a: "Unikaj sprawdzania pamięci („Czy pamiętasz...?”), poprawiania („To nieprawda”), przypominania o stratach („Już ci mówiłem/mówiłam”) i mówienia o osobie tak, jakby jej tam nie było. Unikaj też mówienia jak do dziecka. Takie zachowania często wywołują zażenowanie lub przykrość, a nie pomagają."
+  - q: "Czy powinienem/powinnam poprawiać osobę, gdy myli fakty?"
+    a: "Zwykle nie. Jeśli pomyłka jest nieszkodliwa, lepiej ją pominąć. Kłótnia rzadko zmienia zdanie drugiej osoby, a często ją zasmuca. Skup się na tym, co osoba czuje i czego teraz potrzebuje."
+  - q: "Co robić, gdy osoba nie może znaleźć właściwego słowa?"
+    a: "Najpierw daj jej czas. Jeśli widać, że ma trudność, możesz delikatnie podpowiedzieć słowo albo zapytać, czy dobrze rozumiesz, o co chodzi. Pomocne mogą być też wskazywanie, gesty i zdjęcia."
+  - q: "Jak rozmawiać z osobą w późnym stadium demencji, która rzadko się odzywa?"
+    a: "Podejdź od frontu, powiedz, kim jesteś, mów spokojnym głosem i używaj delikatnego dotyku. Obserwuj twarz i mowę ciała, aby zauważyć uczucia. Twoja obecność, znajoma piosenka albo trzymanie za rękę mogą wiele przekazać bez słów."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Demencja może utrudniać znajdowanie słów, śledzenie długiego zdania i odcinanie się od hałasu w tle. Nic z tego nie znaczy, że bliska osoba przestała chcieć kontaktu. Drobne zmiany w tym, jak przygotujesz rozmowę, jak mówisz i jak słuchasz, mogą uczynić rozmowę łatwiejszą i spokojniejszą dla Was obojga.
+Demencja może utrudniać znajdowanie słów, śledzenie długiego zdania lub odcięcie się od hałasu w tle. Nie oznacza to jednak, że osoba przestała chcieć nawiązywać kontakt. Niewielkie zmiany w tym, jak przygotowujesz rozmowę, jak mówisz i jak słuchasz, mogą sprawić, że rozmowa stanie się łatwiejsza i spokojniejsza dla Was obojga.
 
-## Jakie są najważniejsze wskazówki do rozmowy z osobą z demencją?
+## Jakie wskazówki są najważniejsze w rozmowie z osobą żyjącą z demencją?
 
-Zwróć jej uwagę, mów prosto i zachowaj cierpliwość. Jeśli masz zapamiętać tylko pięć rzeczy:
+Zdobądź uwagę osoby, mów prosto i zachowaj cierpliwość. Jeśli masz zapamiętać tylko pięć rzeczy:
 
-1. **Wycisz pokój i stań twarzą do niej.** Wyłącz telewizor, usiądź na wysokości jej oczu i zwróć się do niej po imieniu.
-2. **Mów jedną rzecz naraz.** Krótkie zdania, jedna myśl, jedno pytanie.
-3. **Zaproponuj wybór z dwóch możliwości.** „Herbata czy kawa?” jest łatwiejsze niż „Na co masz ochotę?”
-4. **Czekaj.** Daj więcej czasu na odpowiedź, niż wydaje się naturalne, i staraj się nie przerywać.
-5. **Nigdy się nie spieraj i nie przepytuj.** Odpowiadaj na to, jak się czuje, a nie na to, czy fakty się zgadzają.
+1. **Wycisz pokój i zwróć się twarzą do osoby.** Wyłącz telewizor, usiądź na wysokości oczu i użyj imienia osoby.
+2. **Mów o jednej rzeczy naraz.** Krótkie zdania, jedna myśl, jedno pytanie.
+3. **Proponuj wybór z dwóch możliwości.** „Herbata czy kawa?” jest łatwiejsze niż „Na co masz ochotę?”.
+4. **Poczekaj.** Daj więcej czasu na odpowiedź, niż wydaje się naturalne, i staraj się nie przerywać.
+5. **Nie kłóć się i nie sprawdzaj pamięci.** Odpowiadaj na to, co osoba czuje, a nie na to, czy fakty się zgadzają.
 
 ## Jak zacząć rozmowę?
 
-Przygotuj sytuację tak, żeby bliska osoba mogła skupić się na Tobie. [Poradnik Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) zaleca najpierw ograniczyć hałas: wyłączyć radio lub telewizor, zasłonić okna albo zamknąć drzwi, lub przejść w cichsze miejsce.
+Przygotuj sytuację tak, aby osoba mogła skupić się na Tobie. [Poradnik Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) zaleca najpierw ograniczyć hałas: wyłącz radio lub telewizor, zasuń zasłony, zamknij drzwi albo przenieś się w spokojniejsze miejsce.
 
-- **Podchodź od przodu.** Podejście od tyłu lub z boku może wystraszyć.
-- **Powiedz, kim jesteś.** „Cześć, tato, tu Kasia, twoja córka”. Oszczędzasz mu szukania Twojego imienia.
-- **Zejdź do jej poziomu.** Jeśli siedzi, usiądź albo uklęknij tak, by Wasze oczy były na tej samej wysokości.
-- **Zwróć uwagę na twarz i ton.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) radzi pamiętać o tonie, głośności, mimice i mowie ciała i dążyć do ciepłego, rzeczowego sposobu bycia.
-- **Upewnij się, że ma okulary i aparaty słuchowe.** Trudno nadążać za rozmową, której nie można w pełni zobaczyć ani usłyszeć.
+- **Podejdź od frontu.** Podejście od tyłu lub z boku może przestraszyć.
+- **Powiedz, kim jesteś.** „Cześć, tato, tu Sarah, twoja córka”. Oszczędza to osobie szukania Twojego imienia.
+- **Zejdź na poziom oczu.** Jeśli osoba siedzi, usiądź lub uklęknij tak, aby Wasze oczy były na tej samej wysokości.
+- **Zwróć uwagę na mimikę i ton głosu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) radzi uważać na ton, głośność, wyraz twarzy i mowę ciała oraz starać się zachować ciepły, rzeczowy sposób mówienia.
+- **Sprawdź, czy osoba ma okulary i aparaty słuchowe.** Trudno jest śledzić rozmowę, której nie da się w pełni usłyszeć lub zobaczyć.
 
-## Jak formułować to, co mówię?
+## Jak formułować wypowiedzi?
 
 Używaj prostych słów, krótkich zdań i spokojnego, niskiego głosu.
 
-- **Jedna myśl w zdaniu.** „Włóżmy płaszcz. Potem wyjdziemy na dwór”. Nie obie rzeczy jednym tchem.
-- **Używaj imion, nie zaimków.** „Ciocia Jadzia dzwoniła” jest jaśniejsze niż „Ona dzwoniła”.
-- **Mów niżej, nie głośniej.** Family Caregiver Alliance proponuje niższy, a nie podniesiony głos.
-- **Powtórz, potem powiedz inaczej.** Jeśli bliska osoba nie zrozumiała, powtórz te same słowa jeden raz. Jeśli to nie pomaga, poczekaj chwilę i spróbuj innych słów.
-- **Pokazuj, nie tylko mów.** Wskaż filiżankę, pokaż dwa swetry albo zademonstruj pierwszy krok.
-- **Mów do niej, nie o niej.** NIA przestrzega przed mówieniem o osobie, jakby jej nie było, i przed „mówieniem jak do dziecka”.
+- **Jedna myśl na zdanie.** „Załóżmy kurtkę. Potem wyjdziemy na zewnątrz”. Lepiej niż wszystko naraz.
+- **Używaj imion, nie zaimków.** „Dzwoniła ciocia Jean” jest jaśniejsze niż „Ona dzwoniła”.
+- **Mów raczej niższym głosem niż głośniej.** Family Caregiver Alliance sugeruje niższy ton zamiast podnoszenia głosu.
+- **Powtórz, a potem przeformułuj.** Jeśli osoba nie zrozumiała, powtórz raz te same słowa. Jeśli to nie pomoże, odczekaj chwilę i spróbuj użyć innych słów.
+- **Pokazuj, nie tylko mów.** Wskaż kubek, pokaż dwa swetry albo zademonstruj pierwszy krok.
+- **Mów do osoby, nie o niej.** NIA przestrzega przed mówieniem o kimś tak, jakby go tam nie było, a także przed mówieniem jak do dziecka.
 
-NIA podsuwa prostsze wersje typowych pytań. Oto przykłady w tym duchu:
+NIA proponuje prostsze wersje często zadawanych pytań. Oto przykłady w podobnym duchu:
 
 | Zamiast | Spróbuj |
 | --- | --- |
-| „Co chcesz na obiad?” | „Wolisz rybę czy kurczaka?” |
-| „Jak się czujesz?” | „Czujesz zmęczenie?” |
-| „Chce ci się jeść?” | „Obiad będzie za pięć minut”. |
-| „Nie tak się to robi”. | „Spróbujmy tak”. |
-| „Pamiętasz naszą wycieczkę nad jezioro?” | „Przypomniała mi się nasza wycieczka nad jezioro. Opowiedz, co ci się w niej podobało”. |
-| „Już ci mówiłem”. | Odpowiedz jeszcze raz, życzliwie, jakby po raz pierwszy. |
+| „Co chcesz na obiad?” | „Chcesz rybę czy kurczaka?” |
+| „Jak się czujesz?” | „Czy czujesz zmęczenie?” |
+| „Jesteś głodny/głodna?” | „Obiad będzie gotowy za pięć minut”. |
+| „Nie tak się to robi”. | „Spróbujmy w ten sposób”. |
+| „Pamiętasz nasz wyjazd nad jezioro?” | „Pomyślałem/pomyślałam o naszym wyjeździe nad jezioro. Opowiedz, co najbardziej Ci się podobało”. |
+| „Już ci mówiłem/mówiłam”. | Odpowiedz jeszcze raz, życzliwie, jakby to było pierwszy raz. |
 
 ## Jak dobrze słuchać?
 
-Słuchaj sensu i uczuć, nie tylko słów.
+Słuchaj znaczenia i uczuć, nie tylko samych słów.
 
-- **Czekaj.** Cisza to często czas na myślenie. Policz powoli do dziesięciu, zanim wkroczysz.
-- **Podsuń słowo tylko wtedy, gdy utknęła.** Family Caregiver Alliance mówi, że można podpowiadać słowa, gdy ktoś ma trudność.
-- **Upewnij się, że dobrze rozumiesz.** [Poradnik Alzheimer’s Association o komunikacji](https://www.alz.org/help-support/caregiving/daily-care/communications) radzi szukać sensu za słowami i powtórzyć go, by sprawdzić, czy został dobrze zrozumiany. „Martwisz się o samochód?”
-- **Obserwuj twarz i ciało.** Gdy mówienie staje się trudniejsze, zauważa NIA, mimika może pokazywać smutek, gniew albo frustrację wyraźniej niż słowa.
-- **Traktuj obawy poważnie.** Nawet jeśli niepokój opiera się na błędnym fakcie, uczucie jest prawdziwe.
+- **Poczekaj.** Cisza często oznacza czas na zastanowienie. Policz powoli do dziesięciu, zanim się włączysz.
+- **Podpowiedz słowo tylko wtedy, gdy osoba utknęła.** Family Caregiver Alliance podkreśla, że można podpowiadać słowa, gdy ktoś ma trudność.
+- **Sprawdź, czy dobrze zrozumiałeś/zrozumiałaś.** [Poradnik Alzheimer’s Association o komunikacji](https://www.alz.org/help-support/caregiving/daily-care/communications) sugeruje szukanie znaczenia stojącego za słowami i powtórzenie go własnymi słowami, aby upewnić się, że dobrze rozumiesz. „Martwisz się o samochód?”.
+- **Obserwuj twarz i ciało.** NIA zauważa, że gdy mówienie staje się trudniejsze, mimika może wyrażać smutek, złość lub frustrację wyraźniej niż słowa.
+- **Traktuj obawy poważnie.** Nawet jeśli niepokój wynika z pomyłki, uczucie jest prawdziwe.
 
-## Co, jeśli mówi coś nieprawdziwego?
+## Co zrobić, gdy osoba mówi coś, co nie jest prawdą?
 
-Nie spieraj się. Raczej nie wygrasz, a osoba może poczuć się zawstydzona lub przestraszona. Zamiast tego nawiąż kontakt z uczuciem, a potem łagodnie przejdź dalej.
+Nie kłóć się. Prawdopodobnie nie przekonasz drugiej osoby, a może poczuć się zawstydzona lub przestraszona. Zamiast tego nawiąż do uczucia, a potem delikatnie zmień temat.
 
-Family Caregiver Alliance proponuje najpierw uznać emocję, a dopiero potem zmienić kierunek rozmowy. Na przykład gdy mama upiera się, że musi odebrać dzieci ze szkoły:
+Family Caregiver Alliance sugeruje, aby najpierw uznać emocję, a dopiero potem przekierować rozmowę. Na przykład jeśli mama upiera się, że musi odebrać dzieci ze szkoły:
 
 - Zamiast: „Mamo, twoje dzieci są dorosłe. To było czterdzieści lat temu”.
-- Spróbuj: „Zawsze byłaś taką troskliwą mamą. Opowiedz mi o tym, jak ich odbierałaś. Zjemy najpierw coś na przekąskę?”
+- Spróbuj: „Zawsze byłaś taką troskliwą mamą. Opowiedz mi o odbieraniu ich ze szkoły. Może najpierw coś przekąsimy?”.
 
-Alzheimer’s Association również radzi nie spierać się o stwierdzenia, z którymi się nie zgadzasz. Wybieraj momenty: jeśli błędne przekonanie jest niegroźne, zostaw je w spokoju.
+Alzheimer’s Association również radzi nie kłócić się o stwierdzenia, z którymi się nie zgadzasz. Wybieraj swoje momenty: jeśli błędne przekonanie jest nieszkodliwe, pozwól mu być.
 
-## Jak zmienia się komunikacja w miarę postępu demencji?
+## Jak zmienia się komunikacja wraz z postępem demencji?
 
-Potrzeby zmieniają się z czasem, więc dostosuj sposób, w jaki się porozumiewasz. Alzheimer’s Association opisuje trzy ogólne fazy:
+Potrzeby zmieniają się z czasem, dlatego warto dostosowywać swoje podejście. Alzheimer’s Association opisuje trzy szerokie etapy:
 
-| Stadium | Co pomaga |
+| Etap | Co pomaga |
 | --- | --- |
-| Wczesne | Nie zakładaj, że nie może się porozumiewać. Włączaj ją do rozmów, mów do niej bezpośrednio, pytaj, jakiego wsparcia chce, i używaj humoru, jeśli pomaga. |
-| Średnie | Rozmowy w cztery oczy w cichym miejscu. Mów powoli, utrzymuj kontakt wzrokowy, zadawaj pytania na „tak” lub „nie”, podawaj instrukcje krok po kroku i nie krytykuj ani nie poprawiaj. |
-| Późne | Podchodź od przodu i powiedz, kim jesteś. Zachęcaj do wskazywania i gestów. Korzystaj z dotyku, dźwięków, widoków i zapachów. Nigdy nie mów tak, jakby jej nie było. |
+| Wczesny | Nie zakładaj, że osoba nie może się komunikować. Włączaj ją w rozmowy, zwracaj się bezpośrednio do niej, pytaj, jakiego wsparcia potrzebuje, i korzystaj z humoru, jeśli to pomaga. |
+| Środkowy | Rozmowy sam na sam w spokojnym miejscu. Mów powoli, utrzymuj kontakt wzrokowy, zadawaj pytania zamknięte, dawaj instrukcje krok po kroku i nie krytykuj ani nie poprawiaj. |
+| Późny | Podejdź od frontu i powiedz, kim jesteś. Zachęcaj do wskazywania i gestów. Korzystaj z dotyku, dźwięków, obrazów i zapachów. Nigdy nie mów tak, jakby osoby tam nie było. |
 
-Każdy człowiek jest inny, a ta sama osoba może mieć dobre i trudne dni. Reaguj na to, jaka jest teraz, a nie na etykietę.
+Każda osoba jest inna, a ta sama osoba może mieć lepsze i trudniejsze dni. Reaguj na to, jak jest teraz, a nie na etykietę.
 
-## Czy obrazki i zajęcia mogą ułatwić rozmowę?
+## Czy zdjęcia i wspólne zajęcia mogą ułatwić rozmowę?
 
-Tak. Wspólny obrazek zdejmuje presję i daje Wam obojgu coś, na co można patrzeć i co można wskazywać.
+Tak. Wspólne zdjęcie zmniejsza presję i daje Wam obojgu coś, na co możecie patrzeć i co możecie wskazywać.
 
-- **Obrazki jako podpowiedzi.** [Karty do rozmowy](/games/conversation-cards/) pokazują obrazki z otwartymi pytaniami, które nigdy nie sprawdzają wiedzy.
-- **Rodzinne zdjęcia.** [Pary zdjęć](/games/photo-pairs/) zamieniają wybrane przez Ciebie zdjęcia w łagodną grę w dopasowywanie, która często wywołuje opowieści.
-- **Znajome przysłowia.** [Dokończ przysłowie](/games/finish-the-saying/) wykorzystuje dobrze znane przysłowia, po których pojawia się temat do rozmowy.
-- **Gry w dopasowywanie jako tło.** [Pary obrazków](/games/picture-pairs/) dają rękom zajęcie, gdy rozmawiacie.
+- **Zdjęcia jako podpowiedź.** [Conversation Cards](/games/conversation-cards/) oferują obrazki z otwartymi pytaniami, które nigdy nie sprawdzają pamięci.
+- **Rodzinne zdjęcia.** [Photo Pairs](/games/photo-pairs/) zamienia wybrane przez Ciebie zdjęcia w łagodną grę w dopasowywanie, która często pobudza do opowieści.
+- **Znane powiedzenia.** [Finish the Saying](/games/finish-the-saying/) wykorzystuje znane powiedzenia, a po nich zachęca do rozmowy.
+- **Gry w dopasowywanie w tle.** [Picture Pairs](/games/picture-pairs/) daje rękom coś do robienia podczas rozmowy.
 
-Więcej znajdziesz w poradnikach o [wspólnym graniu](/caregiving/how-to-play-together/) i [zajęciach wspominkowych](/activities/reminiscence/). Przy odwiedzinach i rozmowach telefonicznych zajrzyj do poradników o [odwiedzinach](/activities/visiting/) oraz [rozmowach telefonicznych i wideo](/activities/phone-and-video-calls/).
+Zobacz [jak wspólnie grać](/caregiving/how-to-play-together/) i [zajęcia wspomnieniowe](/activities/reminiscence/), aby dowiedzieć się więcej. W sprawie wizyt i rozmów przeczytaj nasze poradniki o [odwiedzinach](/activities/visiting/) oraz [rozmowach telefonicznych i wideo](/activities/phone-and-video-calls/).
 
-## Co, jeśli tracę cierpliwość?
+Dla osoby wielojęzycznej zobacz nasz [poradnik o komunikacji w różnych językach](/caregiving/language-and-dementia-communication/).
 
-Zdarza się to każdemu. NIA radzi, by w razie frustracji poświęcić chwilę na uspokojenie się. Przejdź do innego pokoju, weź kilka powolnych oddechów i wróć, kiedy poczujesz się na siłach. Zawsze możesz zacząć rozmowę od nowa, a bliska osoba może zareagować na Twój spokojniejszy nastrój. Jeśli frustracja staje się stała, to znak, że potrzebujesz więcej wsparcia, a nie że sobie nie radzisz. Nasz poradnik o [dbaniu o siebie jako opiekun](/caregiving/caregiver-self-care/) wskazuje, gdzie szukać pomocy.
+## Co zrobić, gdy tracę cierpliwość?
+
+To zdarza się każdemu. NIA sugeruje, że jeśli czujesz frustrację, warto dać sobie czas na uspokojenie. Wyjdź do innego pokoju, weź kilka spokojnych oddechów i wróć, gdy będziesz w stanie. Zawsze możesz zacząć rozmowę od nowa, a osoba może dobrze zareagować na Twój spokojniejszy nastrój. Jeśli frustracja staje się stała, to znak, że potrzebujesz więcej wsparcia, a nie że sobie nie radzisz. W naszym poradniku o [dbaniu o siebie jako opiekun](/caregiving/caregiver-self-care/) znajdziesz miejsca, w których możesz szukać pomocy.

@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Mga Tip sa Pakikipag-usap sa Taong May Dementia"
+seoTitle: "Mga Tip sa Pakikipag-usap sa May Dementia"
+description: "Praktikal na paraan ng pakikipag-usap sa taong may dementia: paano magsimula, ano ang sasabihin, at paano makinig nang may pag-unawa."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Makipag-usap sa tahimik na lugar, humarap sa tao, tawagin siya sa pangalan,
+  at magsalita nang mabagal gamit ang maikli at simpleng mga pangungusap.
+  Magtanong nang paisa-isa, magbigay ng dalawang pagpipilian sa halip na mga
+  bukas na tanong, at maghintay nang mas matagal kaysa karaniwan. Huwag
+  makipagtalo, magtama, o subukin ang alaala. Tugunan ang damdaming nasa likod
+  ng mga salita, at gumamit ng hawak, mga larawan, at galaw ng katawan habang
+  nahihirapan na siyang magsalita.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Bawasan ang ingay sa paligid at tumingin sa mata bago magsimulang magsalita."
+  - "Gumamit ng maikling pangungusap, isang ideya sa bawat pagkakataon, at pangalan sa halip na siya o sila."
+  - "Magbigay ng dalawang pagpipilian, o tanong na oo o hindi, sa halip na mga bukas na tanong."
+  - "Maghintay ng sagot. Kung hindi siya naintindihan, ulitin ang parehong mga salita, saka subukan ang iba."
+  - "Huwag makipagtalo o magtama. Tugunan ang damdaming nasa likod ng sinasabi niya."
+  - "Habang nababawasan ang mga salita, makipag-usap sa pamamagitan ng hawak, tono ng boses, ekspresyon ng mukha, at mga pinagsasaluhang larawan."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ano ang hindi dapat sabihin sa taong may dementia?"
+    a: "Iwasan ang pagsubok sa alaala (“Naaalala mo ba...?”), pagwawasto (“Mali iyan”), pagpapaalala ng mga pagkawala (“Sinabi ko na sa iyo”), at pakikipag-usap tungkol sa kanya na parang wala siya roon. Iwasan din ang parang pakikipag-usap sa bata. Madalas itong nagdudulot ng hiya o pagkalungkot nang hindi naman nakakatulong."
+  - q: "Dapat ko ba siyang itama kapag mali ang sinasabi niya?"
+    a: "Kadalasan, hindi. Kung walang masamang maidudulot ang maling detalye, hayaan na lang ito. Ang pakikipagtalo ay bihirang magpabago ng isip ng tao at madalas ay nakapagpapalungkot pa sa kanya. Ituon ang pansin sa nararamdaman niya at sa kailangan niya ngayon."
+  - q: "Ano ang gagawin ko kapag hindi niya mahanap ang tamang salita?"
+    a: "Bigyan muna siya ng oras. Kung halatang nahihirapan siya, maaari kang magmungkahi nang mahinahon ng salita o hulaan ang ibig niyang sabihin at tanungin kung tama. Makakatulong din ang pagturo, mga galaw ng kamay, at mga larawan."
+  - q: "Paano ako makikipag-usap sa taong nasa huling yugto ng dementia na bihira nang magsalita?"
+    a: "Lumapit mula sa harap, sabihin kung sino kayo, at gumamit ng mahinahon na boses at magiliw na hawak. Pansinin ang mukha at kilos ng katawan para malaman ang nararamdaman niya. Ang inyong presensya, isang pamilyar na awit, o paghawak sa kamay ay maaaring magpahayag ng marami kahit walang salita."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Ang dementia ay maaaring magpahirap sa paghahanap ng salita, pagsunod sa mahabang pangungusap, o pagtuon sa gitna ng ingay sa paligid. Hindi ito nangangahulugang ayaw na ng taong makipag-ugnayan. Ang maliliit na pagbabago sa paghahanda ng usapan, sa paraan ng pagsasalita, at sa paraan ng pakikinig ay maaaring gawing mas madali at mas payapa ang pakikipag-usap para sa inyong dalawa.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ano ang pinakamahahalagang tip sa pakikipag-usap sa taong may dementia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Kunin ang atensyon niya, panatilihing simple ang usapan, at maging matiyaga. Kung limang bagay lang ang matatandaan ninyo:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Gawing tahimik ang lugar at humarap sa kanya.** Patayin ang TV, umupo nang kapantay ng kanyang mata, at tawagin siya sa pangalan.
+2. **Isang bagay lang sa bawat pagkakataon.** Maikling pangungusap, isang ideya, isang tanong.
+3. **Magbigay ng dalawang pagpipilian.** Mas madali ang „Tsaa o kape?“ kaysa sa „Ano ang gusto mo?“
+4. **Maghintay.** Magbigay ng mas maraming oras para sumagot kaysa sa inaakala ninyo, at iwasang putulin ang pagsasalita niya.
+5. **Huwag makipagtalo o subukin ang alaala.** Tugunan ang nararamdaman niya, hindi kung tama ang mga detalye.
 
-## How should I start a conversation?
+## Paano ko dapat simulan ang isang usapan?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ihanda ang sitwasyon upang makapagtuon ang tao sa inyo. Iminumungkahi ng [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) na bawasan muna ang ingay: patayin ang radyo o TV, isara ang kurtina o pinto, o lumipat sa mas tahimik na lugar.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Lumapit mula sa harap.** Ang paglapit mula sa likod o gilid ay maaaring makagulat sa kanya.
+- **Sabihin kung sino kayo.** „Kamusta, Tay, ako si Sarah, ang anak mo.“ Nakakatulong ito upang hindi na niya hanapin ang pangalan ninyo.
+- **Pumantay sa kanyang antas.** Kung nakaupo siya, umupo o lumuhod upang magkapantay ang inyong mga mata.
+- **Pansinin ang inyong mukha at tono.** Ipinapaalala ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) na maging maingat sa tono, lakas ng boses, ekspresyon ng mukha, at kilos ng katawan, at panatilihing magiliw at mahinahon ang paraan ng pagsasalita.
+- **Tiyaking suot ang salamin at hearing aid.** Mahirap sumunod sa usapan kung hindi niya lubos nakikita o naririnig.
 
-## How should I phrase what I say?
+## Paano ko dapat sabihin ang gusto kong ipahayag?
 
-Use simple words, short sentences and a calm, low voice.
+Gumamit ng simpleng salita, maikling pangungusap, at mahinahon at mababang boses.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Isang ideya bawat pangungusap.** „Isuot natin ang iyong jacket. Pagkatapos, lalabas tayo.“ Huwag pagsabayin sa isang hininga.
+- **Gumamit ng pangalan, hindi panghalip.** Mas malinaw ang „Tumawag si Tita Jean“ kaysa sa „Tumawag siya.“
+- **Ibaba ang tono, hindi lakasan ang boses.** Iminumungkahi ng Family Caregiver Alliance ang mas mababang boses kaysa sa mas malakas.
+- **Ulitin, saka baguhin ang pagkakasabi.** Kung hindi niya naintindihan, ulitin ang parehong mga salita nang isang beses. Kung hindi pa rin gumana, maghintay sandali at subukang gamitin ang ibang salita.
+- **Ipakita at sabihin.** Ituro ang tasa, ipakita ang dalawang sweater, o ipakita ang unang hakbang.
+- **Kausapin siya, hindi pag-usapan siya.** Nagbabala ang NIA laban sa pakikipag-usap tungkol sa tao na parang wala siya roon, at laban sa pakikipag-usap na parang sa bata.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Nagmumungkahi ang NIA ng mas simpleng bersyon ng mga karaniwang tanong. Narito ang mga halimbawa:
 
-| Instead of | Try |
+| Sa halip na | Subukan |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „Ano ang gusto mo para sa hapunan?“ | „Gusto mo ba ng isda o manok?“ |
+| „Kumusta ang pakiramdam mo?“ | „Pagod ka ba?“ |
+| „Gutom ka ba?“ | „Handa na ang hapunan sa loob ng limang minuto.“ |
+| „Hindi ganyan ang paggawa niyan.“ | „Subukan natin nang ganito.“ |
+| „Naaalala mo ba ang pagpunta natin sa lawa?“ | „Naalala ko ang pagpunta natin sa lawa. Ano ang nagustuhan mo roon?“ |
+| „Sinabi ko na sa iyo.“ | Sagutin muli nang mabait, na parang unang beses niya itong narinig. |
 
-## How do I listen well?
+## Paano ako makikinig nang mabuti?
 
-Listen for the meaning and the feeling, not just the words.
+Pakinggan ang kahulugan at damdamin, hindi lamang ang mga salita.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Maghintay.** Ang katahimikan ay madalas na oras ng pag-iisip. Dahan-dahang magbilang hanggang sampu bago sumagot.
+- **Mag-alok ng salita lamang kung nahihirapan siya.** Ayon sa Family Caregiver Alliance, maayos lang na magmungkahi ng salita kapag nahihirapan ang isang tao.
+- **Suriin ang narinig ninyo.** Iminumungkahi ng [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) na hanapin ang kahulugan sa likod ng kanyang mga salita at ulitin ito upang tiyaking naintindihan ninyo. „Nag-aalala ka ba sa kotse?“
+- **Pansinin ang kanyang mukha at katawan.** Habang nagiging mas mahirap ang pagsasalita, binanggit ng NIA, ang ekspresyon ng mukha ay maaaring magpakita ng lungkot, galit, o pagkadismaya nang mas malinaw kaysa sa mga salita.
+- **Seryosohin ang mga alalahanin.** Kahit na ang pag-aalala ay batay sa maling detalye, totoo ang nararamdamang iyon.
 
-## What if they say something that is not true?
+## Paano kung may sinabi siyang hindi totoo?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Huwag makipagtalo. Malamang na hindi ninyo mababago ang kanyang isip, at maaari lamang siyang makaramdam ng hiya o takot. Sa halip, unawain ang damdamin, saka marahang ilipat ang usapan.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Iminumungkahi ng Family Caregiver Alliance na kilalanin muna ang damdamin bago ibaling ang atensyon. Halimbawa, kung iginiit ng inyong ina na kailangan niyang sunduin ang mga bata sa paaralan:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Sa halip na: „Nay, matatanda na ang mga anak ninyo. Apatnapung taon na ang nakalipas.“
+- Subukan: „Talagang mapag-alaga kayong ina. Ikwento ninyo po sa akin ang pagsundo sa kanila. Gusto ba ninyong magmeryenda muna tayo?“
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Pinapayuhan din ng Alzheimer's Association na huwag makipagtalo sa mga pahayag na hindi ninyo sinasang-ayunan. Piliin ang tamang pagkakataon: kung walang masamang maidudulot ang maling paniniwala, hayaan na lang ito.
 
-## How does communication change as dementia progresses?
+## Paano nagbabago ang pakikipag-usap habang lumalala ang dementia?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Nagbabago ang mga pangangailangan sa paglipas ng panahon, kaya kailangang baguhin din ang paraan ng pakikipag-usap. Inilalarawan ng Alzheimer's Association ang tatlong malawak na yugto:
 
-| Stage | What helps |
+| Yugto | Ano ang nakakatulong |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Maaga | Huwag isipin na hindi na siya makikipag-usap. Isama siya sa mga usapan, kausapin siya nang direkta, tanungin kung anong tulong ang gusto niya, at gumamit ng magaan na biro kung nakakatulong ito. |
+| Gitna | Makipag-usap nang isa-isa sa tahimik na lugar. Magsalita nang mabagal, panatilihin ang pagtitinginan, gumamit ng mga tanong na oo o hindi, magbigay ng sunod-sunod na tagubilin, at huwag pumuna o magtama. |
+| Huli | Lumapit mula sa harap at sabihin kung sino kayo. Hikayatin ang pagturo at mga galaw ng kamay. Gumamit ng hawak, tunog, mga nakikita, at amoy. Huwag kailanman makipag-usap na parang wala siya roon. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Iba-iba ang bawat tao, at ang parehong tao ay maaaring may magagandang araw at mahihirap na araw. Tumugon ayon sa kalagayan niya ngayon, hindi ayon sa isang tawag o label.
 
-## Can pictures and activities make conversation easier?
+## Makakatulong ba ang mga larawan at gawain sa pakikipag-usap?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Oo. Ang isang pinagsasaluhang larawan ay nakakabawas ng pressure at nagbibigay sa inyong dalawa ng bagay na maaaring tingnan at ituro.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Mga larawang panimula sa usapan.** Nag-aalok ang [Conversation Cards](/games/conversation-cards/) ng mga larawang may mga bukas na tanong na hindi sumusubok sa alaala.
+- **Mga larawan ng pamilya.** Ginagawang magaan na larong pagtutugma ng [Photo Pairs](/games/photo-pairs/) ang mga larawang pinili ninyo, na madalas na nagbubukas ng mga kuwento.
+- **Mga pamilyar na kasabihan.** Gumagamit ang [Finish the Saying](/games/finish-the-saying/) ng mga kilalang kasabihan, na sinusundan ng tanong para sa pag-uusap.
+- **Mga larong pagtutugma habang nag-uusap.** Nagbibigay ang [Picture Pairs](/games/picture-pairs/) ng magagawang gawain para sa mga kamay habang kayo ay nag-uusap.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Tingnan ang [paano maglaro nang magkasama](/caregiving/how-to-play-together/) at [mga gawaing pag-alala](/activities/reminiscence/) para sa higit pa. Para sa mga pagbisita at tawag, basahin ang aming mga gabay sa [pagbisita](/activities/visiting/) at [mga tawag sa telepono at video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Para sa taong gumagamit ng higit sa isang wika, tingnan ang aming [gabay sa pakikipag-usap sa iba't ibang wika](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Paano kung mawalan ako ng pasensya?
+
+Nangyayari ito sa lahat. Iminumungkahi ng NIA na kung nadidismaya kayo, magbigay ng oras sa sarili upang kumalma. Lumipat muna sa ibang silid, huminga nang mabagal nang ilang beses, at bumalik kapag mas payapa na ang pakiramdam ninyo. Maaari ninyong simulan muli ang usapan, at malamang na tumugon ang tao sa mas mahinahon ninyong paraan. Kung madalas na kayong nawawalan ng pasensya, senyales ito na kailangan ninyo ng higit na suporta, hindi na kayo ay nagkukulang. Ang aming gabay sa [pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/) ay may mga lugar kung saan kayo maaaring humingi ng tulong.

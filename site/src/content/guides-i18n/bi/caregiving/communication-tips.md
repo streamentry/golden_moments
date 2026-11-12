@@ -1,34 +1,34 @@
 ---
-title: "Tips blong Toktok long Dementia: Wat Blong Tok mo Wat Blong Avoidem"
-seoTitle: "Tips blong Toktok long Dementia: Wat Blong Tok mo Wat Blong Avoidem"
-description: "Ol fasin blong toktok wetem man o woman we i stap laef wetem dementia: hao blong stat toktok, wat blong tok instead of kwesten o korekt, mo hao blong harem gud."
+title: "Ol Rod Blong Toktok Wetem Man We i Gat Dimensia"
+seoTitle: "Ol Advaes Blong Toktok Taem Man i Gat Dimensia"
+description: "Ol praktikal rod blong toktok wetem man we i gat dimensia: hao blong rere, wanem blong talem, mo hao blong lesin."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Toktok long ples we i kwaet, lukluk long fes blong hem, yusum nem blong hem,
-  mo toktok slow wetem ol sentens we oli sot. Askem wan kwesten long wan taem,
-  ofrem jes long tu samting instead of ol opin kwesten, mo wet moa long taem
-  we i no naturol. No argue, no korekt, no askem kwesten blong tesem. Harem
-  filing we i stap behaen ol wed, mo yusum tajem, pikja mo saen taem toktok i
-  kam hard.
+  Toktok long wan kwaet ples, fesem man ia, yusum nem blong hem, mo toktok
+  slo long ol sot mo simpol sentens. Askem wan kwestin nomo long wan taem,
+  givim tu joes, i no ol open kwestin, mo wet longtaem moa i bitim we yu ting
+  se i stret. No rao, no stretem hem, mo no askem hem blong traem tingbaot.
+  Ansa long filing we i stap biaen long ol toktok, mo yusum taj, pija mo ol
+  saen taem toktok i kam had moa.
 keyPoints:
-  - "Kwatem noes we i stap, mo lukluk long fes blong hem bifo yu stat toktok."
-  - "Yusum sot sentens, wan aedia long wan taem, mo nem instead of he, hem o olgeta."
-  - "Ofrem jes long tu samting, o kwesten we yes o no, instead of ol opin kwesten."
-  - "Wet blong ansa. Sipos oli no harem gud, tok sem wed wan taem, bihaen traem ol nara wed."
-  - "No argue o korekt. Respondem long filing we i stap behaen wat oli tok."
-  - "Taem wed oli stat lus, toktok long tajem, tone blong voes, fes mo pikja we yu save sherem."
+  - "Katemaot bakgraon noes mo kasem ae kontak bifo yu stat blong toktok."
+  - "Yusum ol sot sentens, wan tingting long wan taem, mo nem i no „hem“ o „olgeta“."
+  - "Givim joes blong tu samting, o wan yes-o-no kwestin, i no ol open kwestin."
+  - "Wet blong kasem ansa. Sipos oli no kasem save, talem sem toktok bakegen, afta traem ol narafala toktok."
+  - "No rao mo no stretem. Ansa long filing we i stap biaen long wanem oli talem."
+  - "Taem ol toktok oli stap lus, toktok tru long taj, voes, fes, mo ol pija we yutufala i lukluk tugeta."
 faq:
-  - q: "Wat yu no sud tok long man o woman we i gat dementia?"
-    a: "No askem kwesten blong tesem (\"Yu tingting...?\"), no korektem (\"Dat i no tru\"), no talem gen ol samting we oli lus (\"Mi tokem yu finis\") mo no toktok long hem olsem hem i no stap. No yusum toktok blong pikinini. Ol fasin ia oli save mekem man o woman i sem no gud o i sore, mo oli no save helpem."
-  - q: "Eniwe mi mas korektem hem taem hem i mekem mistek long ol fakt?"
-    a: "Mostly no. Sipos fakt we i rong i no save mekem samting nogud, lego i stap olsem. Argue i no save jenisem tingting blong hem, mo i save mekem hem i sore moa. Lukluk long wat hem i filim mo wat hem i nidim long naoa."
-  - q: "Wat mi mas duim taem hem i no save faenem wed?"
-    a: "Givim hem taem fastaem. Sipos hem i stap hacd tumas, i oraet blong yu gentel ofrem wan wed o gesem wat hem i minim mo askem blong kasem. Poentem, saen mo pikja tu i save helpem."
-  - q: "Hao blong toktok wetem man o woman we dementia i stap long taem we i hevi tumas mo i no save toktok moa?"
-    a: "Kam long fes blong hem, talem hu yu hu, mo yusum vois we i kwaet mo tajem we i gentel. Lukim fes mo bodi blong hem blong save wat hem i filim. Taem blong yu i stap wetem hem, wan song we hem i save, o holem han i save talem bigfala samting wetaot wed."
+  - q: "Wanem yu no mas talem long man we i gat dimensia?"
+    a: "No askem hem blong traem tingbaot („Yu rimemba…?“), no stretem hem („Hemia i rong“), no talem bakegen ol samting we hem i lusum („Mi talem finis long yu“), mo no toktok long hem olsem se hem i no stap. No yusum toktok blong pikinini. Ol samting ia oli save mekem hem i sem o i harem nogud, be oli no rili help."
+  - q: "?Mi mas stretem hem taem hem i talem wan samting we i no stret?"
+    a: "Plante taem, no. Sipos rong ia i no save spolem samting, livim nomo. Fasin blong rao i no save jenisim tingting blong man, mo plante taem i mekem hem i harem nogud. Tingbaot filing blong hem mo wanem hem i nidim naoia."
+  - q: "?Mi mekem wanem taem hem i no save faenem wan wod?"
+    a: "Givim taem fastaem. Sipos yu luk se hem i stap traehad, i oraet nomo blong givim wan wod long kaen fasin o talem wanem yu ting se hem i minim mo jekem. Poenem samting, yusum ol saen mo pija tu i save help."
+  - q: "?Hao mi save toktok wetem wan man we i stap long las stej blong dimensia mo i no toktok tumas?"
+    a: "Kam klosap long hem long fored, talem huia yu, mo yusum wan kwaet voes mo wan kaen taj. Lukluk fes mo bodi blong hem blong kasem save long filing blong hem. Taem yu stap wetem hem, wan singsing we hem i save gud, o fasin blong holem han i save talem plante samting nating se i no gat toktok."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia i save mekem i hacd long faenem wed, folem wan longfala sentens, o blokem noes we i stap bakgraon. Ol samting ia i no minim se man o woman i stop long wantem konekt wetem yumi. Ol smol jenis long wei we yu stap redi blong toktok, wei we yu toktok mo wei we yu harem, oli save mekem toktok i isi mo i kwaet moa long yufala tu.
+Dimensia i save mekem i had moa blong faenem ol wod, folem wan longfala sentens, o blokem bakgraon noes. Be hemia i no minim se man ia i no wantem joen o toktok wetem yu. Ol smol jenis long hao yu rere from wan toktok, hao yu toktok, mo hao yu lesin oli save mekem toktok i isi moa mo i kwaet moa blong yutufala.
 
-## Wat nao ol moa important tips long toktok wetem man o woman we i gat dementia?
+## ?Wanem ol impoten advaes blong toktok wetem man we i gat dimensia?
 
-Kasem tingting blong hem, mekem samting i stap simpol, mo gat patiens. Sipos yu save rememba faev samting nomo:
+Kasem tingting blong hem, kipim i simpol, mo gat longfala tingting. Sipos yu tingbaot faef samting nomo:
 
-1. **Kwatem rum mo lukluk long fes blong hem.** Pasem TV, sidaon long level blong ae blong hem, mo yusum nem blong hem.
-2. **Talem wan samting long wan taem.** Sot sentens, wan aedia, wan kwesten.
-3. **Ofrem jes long tu samting.** "Te o kofi?" i isi moa from "Wat yu wantem?"
-4. **Wet.** Givim hem moa taem blong ansa than wat i naturol, mo no kaontem hem.
-5. **No argue no askem kwesten blong tesem.** Respondem long wat hem i filim, no long fakt i tru o nogat.
+1. **Mekem rum i kwaet mo fesem hem.** Ofem TV, sidaon long sem level blong ae, mo yusum nem blong hem.
+2. **Talem wan samting long wan taem.** Ol sot sentens, wan tingting, wan kwestin.
+3. **Givim joes blong tu samting.** „Ti o kofi?“ i isi moa bitim „?Yu wantem wanem?“
+4. **Wet.** Givim moa taem blong hem i ansa i bitim we yu ting se i stret, mo traem no katem toktok blong hem.
+5. **No rao mo no askem hem blong traem tingbaot.** Ansa long filing blong hem, i no long sipos ol samting we hem i talem i stret o no.
 
-## Hao mi save stat wan toktok?
+## ?Hao mi mas statem wan toktok?
 
-Setemap ol samting blong hem i save fokas long yu. [Gaed blong Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i rekomendem blong fastaem kasem noes i godaon: pasem redio o TV, klosem ol kaaten o doa, o go long ples we i kwaet moa.
+Rerem samting blong man ia i save fokas long yu. [Gaed blong Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i talem se i gud blong katemaot noes fastaem: ofem radio o TV, klosem koten o doa, o muv i go long wan ples we i moa kwaet.
 
-- **Kam long fes blong hem.** Sipos yu kam long saed o long baksaed, hem i save sek.
-- **Talem hu yu hu.** "Hae Papa, mi Sarah, pikinini meri blong yu." Ating ia i helpem hem no bodem serju blong faenem nem blong yu.
-- **Go daonem long level blong hem.** Sipos hem i sidaon, yu sidaon o kniling blong ae blong yufala i stap long wan level.
-- **Jekem fes mo tone blong yu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i advaesem yu blong awea long tone, vois, fes mo bodi blong yu, mo blong mekem i warm mo i stret.
-- **Mekem sua se glasis mo hiring eds oli stap long hem.** Hemi hacd blong folem toktok sipos yu no save luk o harem gud.
+- **Kam klosap long hem long fored.** Sipos yu kam biaen o long saed, hemia i save mekem hem i sek.
+- **Talem huia yu.** „Halo Papa, hemia Sara, dota blong yu.“ Hemia i sevem hem long hatwok blong traem tingbaot nem blong yu.
+- **Sidaon long level blong hem.** Sipos hem i stap sidaon, sidaon o nil daon blong ae blong yutufala i sem level.
+- **Jekem fes mo voes blong yu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i talem se yu mas tingbaot voes, level blong voes, fes mo bodi lanwis blong yu, mo traem blong stap kwaet mo kaen.
+- **Mekem sua se glas mo hearing aid i stap.** I had blong folem wan toktok sipos yu no save luk o harem gud.
 
-## Hao mi save fraesem wat mi talem?
+## ?Hao mi mas talem ol toktok blong mi?
 
-Yusum ol simpol wed, sot sentens mo vois we i kwaet mo i no hae.
+Yusum ol simpol wod, ol sot sentens mo wan kwaet, no-hae voes.
 
-- **Wan aedia long wan sentens.** "Yumi putum koa blong yu. Afta yumi aotsaed." No tokem tufala long wan wind.
-- **Yusum nem, no pronaon.** "Anti Jean i kolem" i klia moa from "Hem i kolem."
-- **Vois i daon, no i hae.** Family Caregiver Alliance i sujestem vois we i daon moa, no we i hae.
-- **Repitem, bihaen traem narafala fraes.** Sipos hem i no harem, repitem sem wed wan taem. Sipos i no wok, wet smol, bihaen traem difren wed.
-- **Soem mo no talem wan taem nomo.** Poentem long kap, holem ol tufala swta, o soem fes blong fes blong fastaem stap.
-- **Toktok long hem, no long hem.** NIA i wanem man blong no toktok long wan man olsem hem i no stap, mo no yusum "baby talk".
+- **Wan tingting long wan sentens.** „Bae yumi putum kot blong yu. Afta bae yumi go aotsaed.“ I no tufala tugeta long wan taem.
+- **Yusum nem, i no ol pronoun.** „Anti Jin i ring“ i klia moa bitim „Hem i ring.“
+- **Mekem voes i go daon, i no i go antap.** Family Caregiver Alliance i talem se i moa gud blong yusum wan voes we i go daon bitim wan voes we i laod.
+- **Talem bakegen, afta jenisim toktok.** Sipos hem i no kasem save, talem sem toktok bakegen wan taem. Sipos hemia i no wok, wet smol mo traem ol narafala wod.
+- **Soem mo talem tu.** Poenem kap, soem tufala sweta, o soem fas step.
+- **Toktok long hem, i no toktok abaot hem.** NIA i talem se yu no mas toktok abaot man ia olsem se hem i no stap, mo no mas yusum „toktok blong pikinini“.
 
-NIA i sujestem ol simpol fom blong ol komon kwesten. Ol example ia i stap long sem fasin:
+NIA i talem se i gud blong yusum ol simpol vesen blong ol kwestin we yumi stap askem plante taem. Hemia sam eksampol long sem fasin:
 
-| Nomo tok olsem | Traem tok olsem |
+| I no hemia | Traem hemia |
 | --- | --- |
-| "Wat yu wantem blong kaikai?" | "Yu wantem fis o sikin?" |
-| "Yu filim hao?" | "Yu filim se yu taed?" |
-| "Yu hangre?" | "Kaikai bambae i redi long 5 minit." |
-| "Hemi no fasin blong yu blong mekem." | "Yumi traem fasin ia." |
-| "Yu rememba trip yumi go long lek?" | "Mi bin tingting long trip yumi go long lek. Talem mi wat yu laekem long hem." |
-| "Mi tokem yu finis." | Ansa gen, wetem gudfala fasin, olsem hem i fastaem nomo. |
+| „?Yu wantem wanem blong dina?“ | „?Yu wantem fis o jikin?“ |
+| „?Yu stap olsem wanem?“ | „?Yu stap taed?“ |
+| „?Yu hanggri?“ | „Dina bae i rere long faef minit.“ |
+| „Hemia i no stret rod blong mekem.“ | „I gud yumi traem long fasin ia.“ |
+| „?Yu rimemba trip blong yumi i go long lek?“ | „Mi stap tingbaot trip blong yumi i go long lek. Talem long mi wanem yu bin laekem.“ |
+| „Mi talem finis long yu.“ | Ansa bakegen, long kaen fasin, olsem se hemia i fas taem. |
 
-## Hao mi save harem gud?
+## ?Hao mi save lesin gud?
 
-Harem long minin mo filing, no jus ol wed.
+Lesin long mining mo filing, i no long ol wod nomo.
 
-- **Wet.** Silen i olgeta taem i wan taem blong tingting. Kaontem slo go kasem 10 bifo yu intaref.
-- **Ofrem wan wed sipos hem i stap hangap nomo.** Family Caregiver Alliance i talem se i oraet blong sagestem ol wed taem wan man o woman i stap struggle.
-- **Jekem wat yu harem.** [Gaed blong Alzheimer's Association long komunikesen](https://www.alz.org/help-support/caregiving/daily-care/communications) i sujestem blong lukim minin we i stap behaen ol wed blong hem mo ripitim blong jekem se yu save. "Yu wari long ka?"
-- **Lukluk long fes mo bodi blong hem.** Taem toktok i kam hard, NIA i talem se ol fes ekspresen i save soem sed, kros o frastresen klia moa than ol wed.
-- **Tekem ol wari i serius.** Sipos wari i bitim wan mistek fakt, filing ia i stap tru.
+- **Wet.** Plante taem, taem we i kwaet hem i taem blong tingting. Kaontem slo kasem ten bifo yu go insaed.
+- **Givim wan wod nomo sipos hem i stap traehad.** Family Caregiver Alliance i talem se i oraet blong talem wan wod sipos man i stap traehad.
+- **Jekem wanem yu bin harem.** [Gaed blong Alzheimer’s Association long saed blong toktok](https://www.alz.org/help-support/caregiving/daily-care/communications) i talem se i gud blong lukaotem mining biaen long ol toktok mo talem bakegen blong jekem sipos yu kasem save. „?Yu stap wari long trak?“
+- **Lukluk fes mo bodi blong hem.** NIA i talem se taem toktok i kam had moa, fes i save soem sore, kros o harem nogud klia moa bitim ol wod.
+- **Tekem ol wari blong hem oli impoten.** Nating sipos wan wari i stanap long wan samting we i no stret, filing ia i tru.
 
-## Wat if oli tok samting we i no tru?
+## ?Sipos hem i talem wan samting we i no tru?
 
-No argue. Yu no save winim, mo man o woman i save filim sem no gud o frit. Stat wetem filing blong hem, afta gentel blong save go long narafala samting.
+No rao. I no isi blong win, mo man ia i save harem se hem i sem o i fraet. I moa gud blong joen long filing blong hem, afta muvum i go long narafala samting long kaen fasin.
 
-Family Caregiver Alliance i sujestem blong aknolijem filing bifo yu jenisem tingting blong hem. Olsem example, sipos mama blong yu i stap tok se hem i mas go kasem ol pikinini long skul:
+Family Caregiver Alliance i talem se i gud blong luksave filing fastaem bifo yu jenis topik. Eksampol, sipos mama blong yu i stap talem strong se hem i mas go pikimap ol pikinini long skul:
 
-- Nomo tok olsem: "Mama, ol pikinini blong yu i kam bigfala pinis. Dat i bin 40 yia bifo."
-- Traem tok olsem: "Yu bin wan gudfala mama i save lukaotem ol pikinini. Talem mi long taem we yu bin kasem tufala. Yumi kaikaim smol samting firs?"
+- I no hemia: „Mama, ol pikinini blong yu oli bigman finis. Hemia i foti yia i pas finis.“
+- Traem hemia: „Yu yu bin wan mama we yu kea tumas. Talem long mi abaot taem we yu pikimap olgeta. ?Bae yumi kakae smol samting fastaem?“
 
-Alzheimer's Association tu i advaesem blong no argue long ol samting we yu no agri wetem. Jusum taem blong yu: sipos wan tingting i no save mekem nogud, lego i stap olsem.
+Alzheimer’s Association tu i talem se i no mas rao from ol toktok we yu no agri long hem. Jusum taem blong yu: sipos wan rong tingting i no spolem samting, livim nomo.
 
-## Hao komunikesen i jenisem taem dementia i go moa?
+## ?Hao fasin blong toktok i jenis taem dimensia i gohed?
 
-Ol nidi oli jenis long taem, so jenisem fasin blong yu. Alzheimer's Association i diskraebem tri stej we i stap long wan wei:
+Ol nid oli jenis taem i pas, so jenis fasin blong yu tu. Alzheimer’s Association i tokbaot tri bigfala taem:
 
 | Stej | Wanem i help |
 | --- | --- |
-| Fastaem | No tingting se hem i no save komunikeit. Givim hem taem long ol toktok, toktok long hem direkt, askem wanem sapot hem i wantem, mo yusum fani tok sipos i help. |
-| Midol | Toktok wan-long-wan long ples we i kwaet. Toktok slo, lukluk long ae, yusum kwesten we yes o no, givim intrakson step-bae-step, mo no krisisaes o korekt. |
-| Lasmaot | Kam long fes blong hem mo talem hu yu hu. Sapotem hem blong poentem mo yusum saen. Yusum tajem, saon, saet mo smel. Nevem toktok olsem hem i no stap. |
+| Eli | No ting se hem i no save toktok. Inkludem hem long ol toktok, toktok stret long hem, askem wanem help hem i wantem, mo yusum fani toktok sipos i help. |
+| Medel | Toktok wan long wan long wan kwaet ples. Toktok slo, kipim ae kontak, yusum yes-o-no kwestin, givim ol instraksen step long step, mo no tok strong o stretem hem. |
+| Las | Kam klosap long hem long fored mo talem huia yu. Leftemap hem blong poenem samting mo yusum ol saen. Yusum taj, saon, samting we oli luk, mo smel. No toktok olsem se hem i no stap. |
 
-Evri man o woman i defren, mo sem man i save gat gud dei mo hacd dei. Ansa long wei we hem i stap long naoa, no long wan leibel.
+Evri man i defren, mo sem man i save gat ol gud dei mo ol had dei. Ansa long hao hem i stap naoia, i no long wan nem o wan label.
 
-## Ka pikja mo ol aktiviti i save mekem toktok i isi?
+## ?Ol pija mo ol aktiviti oli save mekem toktok i isi moa?
 
-Yes. Wan pikja we yufala i lukim tugeta i save kasem presa blong toktok mo i givim yufala wan samting blong lukluk mo poentem long hem.
+Yes. Wan pija we yutufala i lukluk tugeta i save mekem presa i godaon mo i givim samting long yutufala blong lukluk mo poen long hem.
 
-- **Pikja blong tok.** [Conversation Cards](/games/conversation-cards/) i gat ol pikja wetem opin kwesten we i no save kwesten blong tesem.
-- **Famili fotu.** [Photo Pairs](/games/photo-pairs/) i tanem ol fotu we yu jusum i kam wan gem blong matjem we i gentel, we i ofen save opnem ol stori.
-- **Ol komon tok.** [Finish the Saying](/games/finish-the-saying/) i yusum ol tok we ol man i save long Inglis, wetem wan tok blong toktok afta.
-- **Matjing gem olsem bakgraon.** [Picture Pairs](/games/picture-pairs/) i givim han blong yu samting blong duim taem yu stap toktok.
+- **Ol pija blong statem toktok.** [Conversation Cards](/games/conversation-cards/) i givim ol pija wetem ol open kwestin we oli neva askem blong traem tingbaot.
+- **Ol foto blong famle.** [Photo Pairs](/games/photo-pairs/) i jenisim ol foto we yu jusum i kam wan kaen, isi majing gem, mo plante taem hemia i statem ol stori.
+- **Ol toktok we oli save gud long hem.** [Finish the Saying](/games/finish-the-saying/) i yusum ol toktok we plante man long Amerika oli save gud long hem, mo afta i gat wan toktok blong pulum storian.
+- **Ol majing gem olsem wan bakgraon.** [Picture Pairs](/games/picture-pairs/) i givim samting long han blong mekem taem yutufala i stap storian.
 
-Lukim [hao blong pleim ol gem tugeta](/caregiving/how-to-play-together/) mo [aktiviti blong tingting bak](/activities/reminiscence/) blong moa. Blong ol vizit mo kol, ridim ol gaed blong yumi long [vizit](/activities/visiting/) mo [fon mo video kol](/activities/phone-and-video-calls/).
+Lukluk [hao blong plei ol gem tugeta](/caregiving/how-to-play-together/) mo [ol aktiviti blong tingbaot ol memori](/activities/reminiscence/) blong faenem moa. Blong ol visit mo ol kol, ridim ol gaed blong yumi long [visit](/activities/visiting/) mo [telefon mo video kol](/activities/phone-and-video-calls/).
 
-## Wat if mi lus patiens blong mi?
+Blong wan man we i toktok long moa long wan lanwis, lukluk [gaed blong yumi long saed blong toktok long defren lanwis](/caregiving/language-and-dementia-communication/).
 
-Hemi save hapen long evri man. NIA i sujestem se sipos yu kros o yu filim tu hevi, yu tekem smol taem blong kwaetem seleva. Yu go long narafala rum, teik sam hevi wind we i slo, mo kambak taem yu redi. Yu save alwe stat toktok gen, mo man o woman i save ansa gud long kalmmud blong yu. Sipos frastresen i stap kamaot olwe, hemi wan saen se yu nidim moa sapot, no se yu no gud. Gaed blong yumi long [keaim seleva blong man o woman we i lukaotem](/caregiving/caregiver-self-care/) i gat ol ples blong go.
+## ?Wanem sipos mi lusum longfala tingting blong mi?
+
+Hemia i hapen long evriwan. NIA i talem se sipos yu harem se yu stap kam kros o harem nogud, i gud yu tekem smol taem blong kam kwaet. Go long narafala rum, tekem sam slo win, mo kambak taem yu save. Yu save statem toktok bakegen, mo man ia i save ansa gud moa taem yu kam kwaet. Sipos yu stap harem nogud oltaem, hemia i wan saen se yu nidim moa sapot, i no se yu stap foldaon. Gaed blong yumi long [hao blong lukaotem yu wan taem yu stap lukaotem narafala](/caregiving/caregiver-self-care/) i gat sam ples blong kasem help.

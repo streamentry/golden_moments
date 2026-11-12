@@ -1,33 +1,29 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "与失智症人士沟通的实用建议"
+seoTitle: "失智症沟通建议：该怎么说、怎么听"
+description: "与失智症人士沟通的实用方法：如何准备对话、避免提问测验或纠正对方，以及如何用心倾听。"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  选择安静的地方交谈，面对对方，说出对方的名字，用缓慢、简短、清楚的句子。一次只问一个问题，用两个选项代替开放式问题，并比平时多留一些等待时间。不要争辩、纠正或提问测验。回应话语背后的感受；当语言表达变得困难时，可以借助触碰、图片和手势来沟通。
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "开始交谈前，先减少背景杂音，并与对方保持眼神接触。"
+  - "使用简短的句子，一次只表达一个意思，并多用名字，少用「他」「她」或「他们」。"
+  - "提供两个选项，或用是非题来提问，而不是开放式问题。"
+  - "耐心等待回答。如果对方没有听懂，可以先重复同样的话，再换一种说法。"
+  - "不要争辩或纠正。回应对方话语背后的感受。"
+  - "当语言表达减少时，可以通过触碰、语气、表情和一起看的图片来沟通。"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "与失智症人士交谈时，有哪些话不适合说？"
+    a: "避免提问测验（例如「你还记得吗……？」）、纠正（例如「那是错的」）、提醒对方失去的事（例如「我已经告诉过你了」），以及把对方当作不在场一样谈论。也避免用对小孩说话的语气。这些说法通常只会让对方感到难堪或不安，并没有帮助。"
+  - q: "如果对方说错事实，我应该纠正吗？"
+    a: "通常不需要。如果说错的内容没有造成伤害，可以不去纠正。争辩很少能改变对方的想法，反而常常让对方感到难过。把重点放在对方此刻的感受和需要上。"
+  - q: "对方一时想不起某个词时，我该怎么办？"
+    a: "先给对方时间。如果对方明显卡住了，您可以轻轻提示一个词，或猜猜对方的意思并加以确认。指一指、做手势或看图片也可能有帮助。"
+  - q: "如果是晚期失智症、很少说话的人，我该怎么沟通？"
+    a: "从正面走近，说出您是谁，用平静的语气和轻柔的触碰。观察对方的表情和肢体语言，留意他们的感受。您的陪伴、一首熟悉的歌曲或牵着对方的手，即使没有语言，也能传达很多。"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +35,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+失智症可能让人更难找到合适的词语、跟上一长段话，或在嘈杂的环境中专心听别人说话。但这并不表示对方不再想与人交流。只要在准备对话、说话方式和倾听方式上做一些小调整，就可能让您和对方的交流更轻松、更平静。
 
-## What are the most important tips for talking with someone who has dementia?
+## 与失智症人士交谈时，最重要的建议有哪些？
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+先引起对方的注意，把话说得简单一些，并保持耐心。如果您只记得五件事：
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **让环境安静下来，并面对对方。** 关掉电视，坐在与对方视线平齐的位置，并说出对方的名字。
+2. **一次只说一件事。** 用简短的句子，一次一个意思，一次一个问题。
+3. **提供两个选项。** 「喝茶还是喝咖啡？」比「您想喝什么？」更容易回答。
+4. **多等一会儿。** 给对方比平时更长的时间来回答，尽量不要打断。
+5. **不要争辩或提问测验。** 回应对方的感受，而不是纠结事实是否正确。
 
-## How should I start a conversation?
+## 我该如何开始一段对话？
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+先把环境安排好，让对方更容易把注意力放在您身上。[Family Caregiver Alliance 指南](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)建议先减少噪音：关掉收音机或电视，拉上窗帘或关上门，或者换到更安静的地方。
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **从正面走近。** 从背后或侧面靠近，可能会让对方受到惊吓。
+- **说出您是谁。** 「嗨，爸，我是莎拉，您的女儿。」这样可以省去对方努力回想您名字的过程。
+- **与对方视线平齐。** 如果对方坐着，您可以坐下或蹲下，让彼此的视线保持同一高度。
+- **留意自己的表情和语气。** [美国国家老龄化研究所（NIA）](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers)建议留意自己的语气、音量、表情和肢体语言，尽量保持温和、自然的态度。
+- **确认眼镜和助听器有戴好。** 如果看不清或听不清，跟上对话会很困难。
 
-## How should I phrase what I say?
+## 我该怎么表达自己想说的话？
 
-Use simple words, short sentences and a calm, low voice.
+使用简单的词语、简短的句子，以及平静、低沉的声音。
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **一句话只说一个意思。** 「我们先穿上外套。然后我们到外面去。」不要一口气把两件事混在一起说。
+- **多用名字，少用代词。** 「Jean 阿姨打来电话了」比「她打来电话了」更清楚。
+- **声音放低，而不是放大。** Family Caregiver Alliance 建议用较低沉的声音，而不是提高音量。
+- **先重复，再换说法。** 如果对方没有听懂，可以先把同样的话重复一次。如果还是不行，等一下，再用不同的词语表达。
+- **边说边做。** 指一指杯子，拿出两件毛衣让对方选，或示范第一步怎么做。
+- **对着对方说，而不是当着对方谈论对方。** NIA 提醒，不要把对方当作不在场一样谈论，也不要用对小孩说话的语气。
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA 建议把常见的问题说得更简单。以下是类似的例子：
 
-| Instead of | Try |
+| 不建议这样说 | 可以试着这样说 |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| 「你晚餐想吃什么？」 | 「你想吃鱼还是鸡肉？」 |
+| 「你感觉怎么样？」 | 「你现在觉得累吗？」 |
+| 「你饿了吗？」 | 「晚餐五分钟后就好了。」 |
+| 「你那样做不对。」 | 「我们试试这样做吧。」 |
+| 「你还记得我们去湖边的那次旅行吗？」 | 「我刚刚想到我们去湖边旅行的事。跟我说说你喜欢那次旅行的哪些地方吧。」 |
+| 「我已经告诉过你了。」 | 像第一次回答一样，亲切地再说一遍。 |
 
-## How do I listen well?
+## 我该如何好好倾听？
 
-Listen for the meaning and the feeling, not just the words.
+倾听话语背后的意思和感受，而不只是字面上的内容。
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **多等一会儿。** 沉默往往是对方在思考的时间。您可以在心里慢慢数到十，再开口。
+- **只在对方卡住时才提示。** Family Caregiver Alliance 表示，当对方明显在找词时，适当地提示是可以的。
+- **确认您听到的意思。** [阿尔茨海默病协会的沟通指南](https://www.alz.org/help-support/caregiving/daily-care/communications)建议留意对方话语背后的意思，并用自己的话复述一次，确认是否理解正确。「你是在担心那辆车吗？」
+- **观察对方的表情和肢体。** NIA 指出，当语言表达变得更困难时，表情可能比言语更清楚地流露出难过、生气或沮丧。
+- **认真对待对方的担心。** 即使担心是基于错误的认知，那份感受也是真实的。
 
-## What if they say something that is not true?
+## 如果对方说的事情不是真的，该怎么办？
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+不要争辩。您很难说服对方，反而可能让对方感到难堪或害怕。您可以先回应对方的感受，再温和地转移话题。
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance 建议，在转移话题前先回应对方的情绪。举例来说，如果妈妈坚持说她要去学校接孩子：
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- 不建议这样说：「妈，你的孩子都长大了，那是四十年前的事了。」
+- 可以试着这样说：「你一直都是很疼爱孩子的妈妈。跟我说说你以前接他们的事吧。我们要不要先吃点东西？」
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+阿尔茨海默病协会也建议，不要为了您不同意的说法与对方争执。选择合适的时机：如果一个错误的想法没有造成伤害，可以不必纠正。
 
-## How does communication change as dementia progresses?
+## 随着失智症的发展，沟通方式会有哪些变化？
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+需求会随着时间改变，您的沟通方式也可以跟着调整。阿尔茨海默病协会大致描述了三个阶段：
 
-| Stage | What helps |
+| 阶段 | 有帮助的做法 |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| 早期 | 不要预设对方无法沟通。让对方参与对话，直接与对方交谈，询问他们希望获得怎样的支持；如果合适，也可以用一点幽默让气氛轻松。 |
+| 中期 | 在安静的地方进行一对一交谈。说话放慢，保持眼神接触，使用是非题，一步一步给出指示，不要批评或纠正。 |
+| 晚期 | 从正面走近，说出您是谁。鼓励对方用指认和手势表达。善用触碰、声音、景象和气味。不要把对方当作不在场一样说话。 |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+每个人的情况不同，同一个人也可能有状态较好和较困难的日子。请根据对方此刻的状态来回应，而不是根据某个标签。
 
-## Can pictures and activities make conversation easier?
+## 图片和活动能让对话更轻松吗？
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+可以。一张一起看的图片可以减轻压力，也让你们有共同关注和指认的内容。
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **图片提示。** [Conversation Cards](/games/conversation-cards/) 提供带有开放式问题的图片，不会提问测验。
+- **家庭照片。** [Photo Pairs](/games/photo-pairs/) 可以把您挑选的照片变成轻松的配对游戏，常常能带出一些回忆和故事。
+- **熟悉的俗语。** [Finish the Saying](/games/finish-the-saying/) 使用熟悉的美国俗语，并附上引导交谈的提示。
+- **配对游戏作为陪伴背景。** [Picture Pairs](/games/picture-pairs/) 让双手有事可做，同时也能轻松聊天。
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+您也可以参考[如何一起玩游戏](/caregiving/how-to-play-together/)和[怀旧活动](/activities/reminiscence/)。关于探访和通话，请阅读我们的[探访指南](/activities/visiting/)和[电话与视频通话指南](/activities/phone-and-video-calls/)。
 
-## What if I lose my patience?
+如果对方会说多种语言，请参阅我们的[跨语言沟通指南](/caregiving/language-and-dementia-communication/)。
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## 如果我失去耐心了，该怎么办？
+
+这是很常见的情况。NIA 建议，如果您感到沮丧，可以先花一点时间让自己平静下来。到另一个房间，慢慢深呼吸几次，等自己平静一些再回来。对话随时可以重新开始，而对方也很可能会回应您较为平静的情绪。如果这种挫折感变得经常发生，这表示您需要更多支持，而不是您做得不够好。我们的[照顾者自我照顾指南](/caregiving/caregiver-self-care/)提供了一些可以寻求帮助的方向。

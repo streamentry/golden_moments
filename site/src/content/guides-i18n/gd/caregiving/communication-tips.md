@@ -1,34 +1,35 @@
 ---
-title: "Molaidhean conaltraidh airson bruidhinn ri cuideigin le trom-inntinn"
-seoTitle: "Molaidhean conaltraidh trom-inntinn: dè a chanas tu"
-description: "Dòighean practaigeach airson bruidhinn ri neach a tha a’ fuireach le trom-inntinn: mar a nì thu deiseil airson còmhradh, dè a chanas tu an àite ceasnachadh no ceartachadh, agus mar a dh’èisdeas tu."
+title: "Molaidhean conaltraidh le neach le trom-inntinn"
+seoTitle: "Conaltradh le trom-inntinn: dè canar ’s dè sheachnar"
+description: "Dòighean practaigeach gus bruidhinn ri neach a tha a’ fuireach le trom-inntinn: mar a thòisicheas tu còmhradh, dè chanar an àite ceasnachadh, agus mar a dh’èisteas tu."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Bruidhinn ann an àite sàmhach, coimhead ris an neach, cleachd an t-ainm, agus
-  bruidhinn gu slaodach ann an seantansan goirid, sìmplidh. Faighnich aon
-  cheist aig an aon àm, tairg dà roghainn an àite cheistean fosgailte, agus
-  feith nas fhaide na tha thu an dùil. Na dèan argamaid, na ceartaich agus na
-  ceasnaich. Freagair don fhaireachdainn air cùl nam faclan, agus cleachd
-  suathadh, dealbhan agus gluasadan-bodhaig mar a dh’fhàsas cainnt nas duilghe.
+  Bruidhnibh ann an àite sàmhach, coimheadibh air an neach, cleachdaibh an
+  t-ainm, agus bruidhnibh gu slaodach ann an seantansan goirid, sìmplidh.
+  Faighnichibh aon cheist aig an aon àm, tairgsibh dà roghainn an àite
+  cheistean fosgailte, agus fuirichibh nas fhaide na tha nàdarrach. Na dèanibh
+  argamaid, na ceartaichibh agus na ceasnaichibh. Freagairibh don fhaireachdainn
+  air cùl nam faclan, agus cleachdaibh suathadh, dealbhan agus gluasadan-bodhaig
+  nuair a dh’fhàsas bruidhinn nas duilghe.
 keyPoints:
-  - "Lùghdaich fuaim sa chùlaibh agus faigh sùil ri sùil mus tòisich thu a’ bruidhinn."
-  - "Cleachd seantansan goirid, aon bheachd aig an aon àm, agus ainmean an àite e, i no iad."
-  - "Tairg roghainn eadar dhà rud, no ceist le tha no chan eil, an àite cheistean fosgailte."
-  - "Feith ri freagairt. Mura tèid an tuigsinn, can na h-aon fhaclan a-rithist, agus an uairsin feuch faclan ùra."
-  - "Na dèan argamaid agus na ceartaich. Freagair don fhaireachdainn air cùl na tha iad ag ràdh."
-  - "Mar a dh’fhàsas faclan nas gainne, dèan conaltradh tro shuathadh, tòna, faireachdainn aghaidh agus dealbhan co-roinnte."
+  - "Lùghdaichibh fuaim sa chùlaibh agus dèanibh conaltradh sùla mus tòisich sibh a’ bruidhinn."
+  - "Cleachdaibh seantansan goirid, aon bheachd aig an aon àm, agus ainmean an àite e, i no iad."
+  - "Tairgsibh roghainn eadar dhà rud, no ceist le tha no chan eil, an àite cheistean fosgailte."
+  - "Fuirichibh airson freagairt. Mura h-eil iad air an tuigsinn, ath-aithrisibh na h-aon fhaclan, an uairsin feuchaibh faclan ùra."
+  - "Na dèanibh argamaid agus na ceartaichibh. Freagairibh don fhaireachdainn air cùl na tha iad ag ràdh."
+  - "Nuair a dh’fhàsas faclan gann, dèanibh conaltradh tro shuathadh, tòna, faireachdainn aodainn agus dealbhan co-roinnte."
 faq:
-  - q: "Dè nach bu chòir dhomh a ràdh ri cuideigin le trom-inntinn?"
-    a: "Seachain ceasnachadh («A bheil cuimhne agad...?»), ceartachadh («Tha sin ceàrr»), a bhith a’ cur an cuimhne call («Thuirt mi sin riut mu thràth») agus a bhith a’ bruidhinn mun deidhinn mar nach eil iad ann. Seachain cainnt leanabail. Gu tric bidh iad seo a’ dèanamh nàire no àmhghar gun a bhith a’ cuideachadh."
+  - q: "Dè nach bu chòir dhomh a ràdh ri neach le trom-inntinn?"
+    a: "Seachnaibh ceasnachadh (“A bheil cuimhne agad...?”), ceartachadh (“Tha sin ceàrr”), a bhith a’ cur call an cuimhne dhaibh (“Thuirt mi sin riut mu thràth”) agus bruidhinn mun deidhinn mar nach eil iad an làthair. Seachnaibh cainnt chloinne. Gu tric bidh na rudan seo a’ dèanamh nàire no àmhghar gun chuideachadh sam bith."
   - q: "Am bu chòir dhomh an ceartachadh nuair a tha iad ceàrr mu fhìrinn?"
-    a: "Mar as trice chan eil. Ma tha mearachd mu fhìrinn gun chron, leig seachad i. Is ann ainneamh a bhios argamaid ag atharrachadh inntinn an neach agus gu tric bidh i a’ cur dragh orra. Cùm aire air mar a tha iad a’ faireachdainn agus dè a dh’fheumas iad an-dràsta."
-  - q: "Dè nì mi nuair nach urrainn dhaibh am facal a lorg?"
-    a: "Thoir ùine dhaibh an toiseach. Ma tha e follaiseach gu bheil iad a’ strì, tha e ceart gu leòr facal a thairgsinn gu socair no tomhas a dhèanamh air na tha iad a’ ciallachadh agus dearbhadh. Faodaidh comharrachadh, gluasadan-bodhaig agus dealbhan cuideachadh cuideachd."
-  - q: "Ciamar a bhruidhneas mi ri cuideigin aig ìre anmoch trom-inntinn nach eil a’ bruidhinn ach ainneamh?"
-    a: "Tèid faisg orra bhon aghaidh, can cò thu, agus cleachd guth socair agus suathadh socair. Thoir sùil air an aodann agus air cànan a’ chuirp airson faireachdainnean fhaicinn. Faodaidh do làthaireachd, òran eòlach no a bhith a’ cumail an làimhe mòran a chur an cèill gun fhaclan."
+    a: "Mar as trice, chan eil. Ma tha mearachd neo-chronail, leig seachad i. Is ann ainneamh a bhios argamaid ag atharrachadh inntinn an neach agus gu tric nì i dragh dhaibh. Cuiribh ur n-aire air mar a tha iad a’ faireachdainn agus dè a tha a dhìth orra an-dràsta."
+  - q: "Dè nì mi nuair nach urrainn dhaibh am facal ceart a lorg?"
+    a: "Thoiribh ùine dhaibh an toiseach. Ma tha e follaiseach gu bheil iad a’ strì, tha e ceart gu leòr facal a thairgsinn gu socair no tomhas a dhèanamh air dè tha iad a’ ciallachadh agus faighneachd. Faodaidh comharrachadh, gluasadan-bodhaig agus dealbhan cuideachadh cuideachd."
+  - q: "Ciamar a bhruidhneas mi ri neach aig ìre anmoch trom-inntinn nach eil a’ bruidhinn ach ainneamh?"
+    a: "Tèidibh faisg orra bhon taobh aghaidh, abraibh cò sibh, agus cleachdaibh guth ciùin agus suathadh socair. Coimheadibh air an aodann agus air cànan a’ chuirp airson faireachdainnean. Faodaidh ur làthaireachd, òran eòlach no làmhan a chumail mòran a chur an cèill gun fhaclan."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,74 +41,74 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Faodaidh trom-inntinn a dhèanamh nas duilghe faclan a lorg, seantans fada a leantainn, no fuaim sa chùlaibh a chur às an aire. Chan eil sin a’ ciallachadh nach eil an neach ag iarraidh ceangal a dhèanamh tuilleadh. Faodaidh atharrachaidhean beaga san dòigh anns a bheil thu a’ dèanamh deiseil airson còmhraidh, mar a bhruidhneas tu agus mar a dh’èisdeas tu còmhradh a dhèanamh nas fhasa agus nas socraiche dhuibh fhèin.
+Faodaidh trom-inntinn a dhèanamh nas duilghe faclan a lorg, seantans fada a leantainn, no fuaim sa chùlaibh a sheachnadh. Chan eil sin a’ ciallachadh gu bheil an neach air sgur a bhith ag iarraidh ceangal. Faodaidh atharrachaidhean beaga san dòigh sa bheil thu a’ stèidheachadh còmhraidh, mar a bhruidhneas tu agus mar a dh’èisteas tu bruidhinn a dhèanamh nas fhasa agus nas socraiche dhut fhèin agus dhan neach.
 
-## Dè na molaidhean as cudromaiche airson bruidhinn ri cuideigin le trom-inntinn?
+## Dè na molaidhean as cudromaiche airson bruidhinn ri neach le trom-inntinn?
 
 Faigh an aire, cùm e sìmplidh, agus bi foighidneach. Ma chuimhnicheas tu dìreach air còig rudan:
 
-1. **Dèan an seòmar sàmhach agus coimhead orra.** Cuir dheth an telebhisean, suidh aig ìre na sùla, agus cleachd an t-ainm.
+1. **Cuir sàmhchair san t-seòmar agus coimhead orra.** Cuir dheth an telebhisean, suidh aig ìre nan sùilean, agus cleachd an t-ainm.
 2. **Abair aon rud aig an aon àm.** Seantansan goirid, aon bheachd, aon cheist.
-3. **Tairg roghainn eadar dhà rud.** Tha «Tì no cofaidh?» nas fhasa na «Dè bu toil leat?»
-4. **Feith.** Thoir barrachd ùine airson freagairt na tha thu an dùil, agus feuch gun a bhith a’ briseadh a-steach.
-5. **Na dèan argamaid agus na ceasnaich idir.** Freagair don dòigh sa bheil iad a’ faireachdainn, chan ann a bheil na fìrinnean ceart.
+3. **Tairg roghainn eadar dhà rud.** Tha “tì no cofaidh?” nas fhasa na “Dè bu toil leat?”
+4. **Fuirich.** Thoir barrachd ùine airson freagairt na tha nàdarrach, agus feuch gun bhriseadh a-steach orra.
+5. **Na dèan argamaid agus na ceasnaich.** Freagair do mar a tha iad a’ faireachdainn, chan ann a bheil na fìrinnean ceart.
 
 ## Ciamar a thòisicheas mi còmhradh?
 
-Dèan deiseil gus an urrainn don neach fòcas a chur ort. Tha [iùl Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a’ moladh fuaim a lùghdachadh an toiseach: cuir dheth an rèidio no an telebhisean, dùin na cùirtearan no an doras, no gluais gu àite nas sàmhaiche.
+Ullaich cùisean gus an urrainn dhan neach fòcas a chur ort. Tha [stiùireadh Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a’ moladh fuaim a lùghdachadh an toiseach: cuir dheth an rèidio no an telebhisean, dùin na cùirtearan no an doras, no gluais gu àite nas sàmhchaiche.
 
-- **Tèid faisg orra bhon aghaidh.** Faodaidh tighinn bhon chùlaibh no bhon taobh clisgeadh a thoirt dhaibh.
-- **Can cò thu.** «Halò a Dhadaidh, is mise Sarah, do nighean.» Tha seo a’ sàbhaladh orra a bhith a’ feuchainn ri d’ ainm a lorg.
-- **Tèid sìos gu an ìre.** Ma tha iad nan suidhe, suidh no lùb sìos gus am bi ur sùilean aig an aon ìre.
-- **Thoir sùil air d’ aodann agus do thòna.** Tha an [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a’ comhairleachadh a bhith mothachail air do thòna, do mheud gutha, faireachdainn d’ aghaidh agus cànan do chuirp, agus a bhith ag amas air dòigh bhlàth, shìmplidh.
-- **Dèan cinnteach gu bheil speuclairean agus innealan-claisneachd orra.** Tha e doirbh còmhradh a leantainn mura faic no cluinnear gu soilleir e.
+- **Tèid faisg orra bhon taobh aghaidh.** Faodaidh tighinn orra bhon chùl no bhon taobh clisgeadh a thoirt dhaibh.
+- **Abair cò thu.** “Halò Dad, ’s mise Sarah, do nighean.” Tha seo a’ sàbhaladh dhaibh bhith a’ feuchainn ri d’ ainm a chuimhneachadh.
+- **Tèid sìos gu an ìre.** Ma tha iad nan suidhe, suidh no crom sìos gus am bi ur sùilean aig an aon ìre.
+- **Thoir aire do d’ aodann agus do thòna.** Tha [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a’ moladh a bhith mothachail air do thòna, àirde do ghutha, faireachdainn d’ aodainn agus cànan do chuirp, agus a bhith blàth is soilleir.
+- **Dèan cinnteach gu bheil speuclairean agus innealan-claisneachd orra.** Tha e duilich còmhradh a leantainn mura h-urrainn dhut fhaicinn no a chluinntinn gu ceart.
 
-## Ciamar a bu chòir dhomh na tha mi ag ràdh a chur an cèill?
+## Ciamar a bu chòir dhomh na faclan agam a chur?
 
-Cleachd faclan sìmplidh, seantansan goirid agus guth socair, ìosal.
+Cleachd faclan sìmplidh, seantansan goirid agus guth ciùin, ìosal.
 
-- **Aon bheachd anns gach seantans.** «Cuiridh sinn ort do chòta. An uairsin thèid sinn a-mach.» Chan ann an dà rud aig an aon àm.
-- **Cleachd ainmean, chan e riochdairean.** Tha «Fhuair piuthar-mhàthar Jean fòn» nas soilleire na «Fhuair i fòn.»
-- **Cùm do ghuth nas ìsle, chan e nas àirde.** Tha Family Caregiver Alliance a’ moladh guth nas ìsle an àite guth nas àirde.
-- **Can a-rithist, an uairsin cuir ann an dòigh eile.** Mura do thuig iad, can na h-aon fhaclan aon uair eile. Mura h-obraich sin, feith mionaid agus feuch faclan eadar-dhealaichte.
-- **Seall a bharrachd air innse.** Comharraich ris a’ chupa, tog suas an dà gheansaidh, no seall a’ chiad cheum.
-- **Bruidhinn riutha, chan ann mun deidhinn.** Tha an NIA a’ toirt rabhadh an aghaidh bruidhinn mun neach mar nach eil iad ann, agus an aghaidh cainnt leanabail.
+- **Aon bheachd gach seantans.** “Cuiridh sinn ort do chòta. An uairsin thèid sinn a-mach.” Chan ann an dà rud anns an aon anail.
+- **Cleachd ainmean, chan fhaclan-ionaid.** Tha “Dh’fhòn piuthar-peathar Jean” nas soilleire na “Dh’fhòn i.”
+- **Cùm do ghuth nas ìsle, chan ann nas àirde.** Tha Family Caregiver Alliance a’ moladh guth nas ìsle seach guth nas àirde.
+- **Ath-aithris, an uairsin ath-abair ann an dòigh eile.** Mura do thuig iad, ath-aithris na h-aon fhaclan aon uair. Mura h-obraich sin, fuirich greis agus feuch faclan eile.
+- **Seall cho math ri innse.** Comharraich ris a’ chupa, tog an dà gheansaidh, no seall a’ chiad cheum.
+- **Bruidhinn riutha, chan ann mun deidhinn.** Tha an NIA a’ toirt rabhadh gun a bhith a’ bruidhinn mun neach mar nach eil iad an làthair, agus gun a bhith a’ cleachdadh cainnt chloinne.
 
 Tha an NIA a’ moladh dreachan nas sìmplidhe de cheistean cumanta. Seo eisimpleirean san aon spiorad:
 
 | An àite | Feuch |
 | --- | --- |
-| «Dè bu toil leat airson dinnear?» | «A bheil thu ag iarraidh iasg no cearc?» |
-| «Ciamar a tha thu a’ faireachdainn?» | «A bheil thu a’ faireachdainn sgìth?» |
-| «A bheil an t-acras ort?» | «Bidh dinnear deiseil ann an còig mionaidean.» |
-| «Chan ann mar sin a nì thu e.» | «Feuchaidh sinn e mar seo.» |
-| «A bheil cuimhne agad air ar turas chun an locha?» | «Bha mi a’ smaoineachadh air ar turas chun an locha. Innis dhomh dè a chòrd riut mu dheidhinn.» |
-| «Thuirt mi sin riut mu thràth.» | Freagair a-rithist, gu coibhneil, mar gum b’ ann airson a’ chiad uair. |
+| “Dè bu toil leat airson dìnnear?” | “A bheil thu ag iarraidh iasg no cearc?” |
+| “Ciamar a tha thu a’ faireachdainn?” | “A bheil thu a’ faireachdainn sgìth?” |
+| “A bheil an t-acras ort?” | “Bidh dinnear deiseil ann an còig mionaidean.” |
+| “Chan ann mar sin a nì thu e.” | “Feuchaidh sinn e mar seo.” |
+| “A bheil cuimhne agad air an turas againn chun an locha?” | “Bha mi a’ smaoineachadh air an turas againn chun an locha. Inns dhomh dè chòrd riut mu dheidhinn.” |
+| “Thuirt mi sin riut mu thràth.” | Freagair a-rithist, gu coibhneil, mar gum b’ ann airson a’ chiad uair. |
 
-## Ciamar a dh’èisdeas mi gu math?
+## Ciamar a dh’èisteas mi gu math?
 
-Èist ris a’ chiall agus ris an fhaireachdainn, chan ann dìreach ris na faclan.
+Èist ris a’ chiall agus ris an fhaireachdainn, chan ann ris na faclan a-mhàin.
 
-- **Feith.** Gu tric is e ùine smaoineachaidh a tha ann an sàmhchair. Cunnt gu slaodach gu deich mus tig thu a-steach.
-- **Tairg facal dìreach ma tha iad an sàs.** Tha Family Caregiver Alliance ag ràdh gu bheil e ceart gu leòr faclan a mholadh nuair a tha cuideigin a’ strì.
-- **Dearbhaich na chuala thu.** Tha [iùl Alzheimer’s Association mu chonaltradh](https://www.alz.org/help-support/caregiving/daily-care/communications) a’ moladh a bhith a’ coimhead airson na ciall air cùl nam faclan agus ga ath-aithris gus dearbhadh gun do thuig thu. «A bheil dragh ort mun chàr?»
-- **Thoir sùil air an aodann agus air an corp.** Mar a dh’fhàsas cainnt nas duilghe, tha an NIA ag ràdh, dh’fhaodadh faireachdainnean aghaidh bròn, fearg no sàrachadh a shealltainn nas soilleire na faclan.
-- **Gabh draghan gu dùrachdach.** Fiù ma tha dragh stèidhichte air mearachd mu fhìrinn, tha an fhaireachdainn fìor.
+- **Fuirich.** Gu tric ’s e ùine smaoineachaidh a tha ann an sàmhchair. Cunnt gu slaodach gu deich mus tèid thu a-steach.
+- **Tairg facal a-mhàin ma tha iad an sàs.** Tha Family Caregiver Alliance ag ràdh gu bheil e ceart gu leòr faclan a mholadh nuair a tha cuideigin a’ strì.
+- **Dearbhaich na chuala thu.** Tha [stiùireadh Alzheimer’s Association air conaltradh](https://www.alz.org/help-support/caregiving/daily-care/communications) a’ moladh a bhith a’ coimhead airson na ciall air cùl am faclan agus ag ath-aithris gus dèanamh cinnteach gun do thuig thu. “A bheil dragh ort mun chàr?”
+- **Coimhead air an aodann agus air an corp.** Mar a dh’fhàsas bruidhinn nas duilghe, tha an NIA ag innse, faodaidh faireachdainnean aodainn bròn, fearg no frustrachas a nochdadh nas soilleire na faclan.
+- **Gabh draghan gu dùrachdach.** Fiù ma tha dragh stèidhichte air mearachd, tha an fhaireachdainn fìor.
 
 ## Dè ma chanas iad rudeigin nach eil fìor?
 
-Na dèan argamaid. Is ann ainneamh a bhuannaicheas tu, agus dh’fhaodadh an neach a bhith a’ faireachdainn nàire no eagal. An àite sin, dèan ceangal ris an fhaireachdainn agus an uairsin gluais air adhart gu socair.
+Na dèan argamaid. Chan eil coltas ann gum buannaich thu, agus dh’fhaodadh an neach a bhith fo nàire no fo eagal. An àite sin, dèan ceangal ris an fhaireachdainn, agus an uairsin gluais air adhart gu socair.
 
-Tha Family Caregiver Alliance a’ moladh a bhith ag aithneachadh na faireachdainn mus ath-stiùir thu an còmhradh. Mar eisimpleir, ma tha do mhàthair a’ cumail a-mach gum feum i a’ chlann a thogail bhon sgoil:
+Tha Family Caregiver Alliance a’ moladh aideachadh a thoirt don fhaireachdainn mus ath-stiùir thu. Mar eisimpleir, ma tha do mhàthair a’ cumail a-mach gum feum i a’ chlann a thogail bhon sgoil:
 
-- An àite: «A Mhàthair, tha do chlann mòr. Bha sin ceathrad bliadhna air ais.»
-- Feuch: «Bha thu an-còmhnaidh nad mhàthair cho cùramach. Innis dhomh mu bhith gan togail. Am bi greim-bìdh againn an toiseach?»
+- An àite: “A Mhàthair, tha do chlann air fàs suas. Bha sin ceathrad bliadhna air ais.”
+- Feuch: “Bha thu a-riamh nad mhàthair cho càirdeil. Inns dhomh mu bhith gan togail. An gabh sinn greim-bìdh beag an toiseach?”
 
-Tha Alzheimer’s Association cuideachd a’ comhairleachadh gun a bhith a’ dèanamh argamaid mu aithrisean nach eil thu ag aontachadh riutha. Tagh na h-amannan: ma tha creideas mearachdach gun chron, leig leis.
+Tha Alzheimer’s Association cuideachd a’ comhairleachadh gun a bhith a’ dèanamh argamaid mu aithrisean nach eil thu ag aontachadh. Tagh na h-amannan agad: ma tha creideas mearachdach neo-chronail, leig leis.
 
 ## Ciamar a bhios conaltradh ag atharrachadh mar a thèid trom-inntinn air adhart?
 
@@ -115,23 +116,25 @@ Bidh feumalachdan ag atharrachadh thar ùine, mar sin atharraich do dhòigh-obra
 
 | Ìre | Dè a chuidicheas |
 | --- | --- |
-| Tràth | Na gabh ris nach urrainn dhaibh conaltradh a dhèanamh. Gabh a-steach iad ann an còmhraidhean, bruidhinn riutha gu dìreach, faighnich dè an taic a tha iad ag iarraidh, agus cleachd àbhachdas ma chuidicheas e. |
-| Meadhanach | Còmhraidhean aon air aon ann an àite sàmhach. Bruidhinn gu slaodach, cùm sùil ri sùil, cleachd ceistean le tha no chan eil, thoir stiùireadh ceum air cheum, agus na càin no na ceartaich. |
-| Anmoch | Tèid faisg orra bhon aghaidh agus can cò thu. Brosnaich comharrachadh agus gluasadan-bodhaig. Cleachd suathadh, fuaimean, seallaidhean agus fàilidhean. Na bruidhinn idir mar nach eil iad ann. |
+| Tràth | Na gabh ris nach urrainn dhaibh conaltradh a dhèanamh. Cuiribh an sàs iad ann an còmhraidhean, bruidhnibh riutha gu dìreach, faighnichibh dè an taic a tha iad ag iarraidh, agus cleachdaibh àbhachdas ma chuidicheas e. |
+| Meadhanach | Còmhraidhean aon air aon ann an àite sàmhach. Bruidhnibh gu slaodach, cùmibh conaltradh sùla, cleachdaibh ceistean le tha no chan eil, thoiribh stiùireadh ceum air cheum, agus na càinibh agus na ceartaichibh. |
+| Anmoch | Tèidibh faisg orra bhon taobh aghaidh agus abraibh cò sibh. Brosnaichibh comharrachadh agus gluasadan-bodhaig. Cleachdaibh suathadh, fuaimean, seallaidhean agus fàilidhean. Na bruidhnibh a-riamh mar nach eil iad an làthair. |
 
-Tha gach neach eadar-dhealaichte, agus dh’fhaodadh an aon neach lathaichean math agus lathaichean doirbh a bhith aca. Freagair don dòigh sa bheil iad an-dràsta, chan ann do leubail.
+Tha gach neach eadar-dhealaichte, agus faodaidh an aon neach làithean math agus làithean duilghe a bhith aca. Freagair do mar a tha iad an-dràsta, chan ann ri bileag.
 
-## An urrainn do dhealbhan agus gnìomhachdan còmhradh a dhèanamh nas fhasa?
+## An urrainn do dhealbhan agus do ghnìomhachdan còmhradh a dhèanamh nas fhasa?
 
-’S urrainn. Bidh dealbh co-roinnte a’ toirt cuideam far an còmhraidh agus a’ toirt rudeigin dhuibh fhèin coimhead air agus comharrachadh ris.
+’S urrainn. Bheir dealbh co-roinnte cuideam far a’ chòmhraidh agus bheir e rudeigin dhuibh le chèile airson coimhead air agus comharrachadh ris.
 
-- **Brosnachaidhean le dealbhan.** Tha [Conversation Cards](/games/conversation-cards/) a’ tabhann dhealbhan le ceistean fosgailte nach eil a’ ceasnachadh idir.
+- **Brosnachaidhean le dealbhan.** Tha [Conversation Cards](/games/conversation-cards/) a’ tabhann dhealbhan le ceistean fosgailte nach bi a’ ceasnachadh a-riamh.
 - **Dealbhan teaghlaich.** Bidh [Photo Pairs](/games/photo-pairs/) a’ tionndadh dhealbhan a thaghas tu gu geama maidsidh socair, a bhios gu tric a’ dùsgadh sgeulachdan.
-- **Abairtean eòlach.** Bidh [Finish the Saying](/games/finish-the-saying/) a’ cleachdadh abairtean aithnichte, agus an uairsin brosnachadh airson bruidhne.
-- **Geamannan maidsidh mar chùl-taic.** Tha [Picture Pairs](/games/picture-pairs/) a’ toirt rudeigin do ur làmhan a dhèanamh fhad ’s a tha sibh a’ cabadaich.
+- **Abairtean eòlach.** Bidh [Finish the Saying](/games/finish-the-saying/) a’ cleachdadh abairtean Ainmeireaganach aithnichte, le brosnachadh còmhraidh an dèidh làimhe.
+- **Geamannan maidsidh mar chùl-taic.** Bheir [Picture Pairs](/games/picture-pairs/) rudeigin dhut ri dhèanamh le do làmhan fhad ’s a bhios tu a’ bruidhinn.
 
-Faic [mar a chluicheas tu geamannan còmhla](/caregiving/how-to-play-together/) agus [gnìomhachdan cuimhneachaidh](/activities/reminiscence/) airson tuilleadh. Airson tursan agus gairmean, leugh na h-iùilean againn mu [thadhal](/activities/visiting/) agus [fònaichean is gairmean bhidio](/activities/phone-and-video-calls/).
+Faic [mar a chluicheas tu geamannan còmhla](/caregiving/how-to-play-together/) agus [gnìomhachdan cuimhneachaidh](/activities/reminiscence/) airson barrachd. Airson tadhail agus gairmean, leugh na stiùiridhean againn air [tadhal](/activities/visiting/) agus [gairmean fòn is bhidio](/activities/phone-and-video-calls/).
+
+Airson neach a tha ioma-chànanach, faic ar [stiùireadh air conaltradh thar chànanan](/caregiving/language-and-dementia-communication/).
 
 ## Dè ma chailleas mi m’ fhoighidinn?
 
-Tachraidh sin do dhuine sam bith. Tha an NIA a’ moladh, ma dh’fhàsas tu frionasach, gun toir thu beagan ùine airson socrachadh. Rach gu seòmar eile, gabh beagan anail shlaodach, agus till nuair as urrainn dhut. Faodaidh tu an còmhradh a thòiseachadh a-rithist an-còmhnaidh, agus dh’fhaodadh an neach freagairt gu math don fhaireachdainn nas socraiche agad. Ma tha frionas a’ tighinn gu cunbhalach, tha sin na chomharra gu bheil barrachd taic a dhìth ort, chan e gu bheil thu a’ fàiligeadh. Tha àiteachan ann san iùl againn mu [fhèin-chùram luchd-cùraim](/caregiving/caregiver-self-care/) far am faigh thu taic.
+Tachraidh sin don a h-uile duine. Tha an NIA a’ moladh, ma dh’fhàsas tu frionasach, gun gabh thu beagan ùine gus socrachadh. Rach gu seòmar eile, gabh beagan anail slaodach, agus till nuair as urrainn dhut. Faodaidh tu an-còmhnaidh an còmhradh a thòiseachadh a-rithist, agus dh’fhaodadh gu math gum freagair an neach do d’ shunnd nas socraiche. Ma tha frustrachas a’ fàs cunbhalach, ’s e sin comharra gu bheil barrachd taic a dhìth ort, chan e gu bheil thu a’ fàiligeadh. Tha àiteachan airson taic ann an ar stiùireadh air [fèin-chùram luchd-cùraim](/caregiving/caregiver-self-care/).
