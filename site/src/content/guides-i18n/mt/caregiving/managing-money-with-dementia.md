@@ -61,15 +61,15 @@ Din il-gwida toffri informazzjoni ġenerali għall-qarrejja fl-Istati Uniti. L-g
 
 ## Kif noffri għajnuna mingħajr ma nieħu kontroll?
 
-Staqsi lill-persuna x'kompitu tal-flus trid għajnuna fih. Tista' trid tirrevedi bill flimkien, torganizza l-posta, tiftakar data ta' skadenza jew tiċċekkja talba mhux mistennija. Persuna tista' tkun trid għajnuna f'xi kompiti u tippreferi tieħu ħsieb oħrajn waħedha.
+Staqsi lill-persuna x'kompitu tal-flus trid għajnuna fih. Tista' trid tirrevedi l-fatturi flimkien, torganizza l-posta, tiftakar data ta' skadenza jew tiċċekkja talba mhux mistennija. Persuna tista' tkun trid għajnuna f'xi kompiti u tippreferi tieħu ħsieb oħrajn waħedha.
 
-- **Staqsi qabel ma tieħu azzjoni.** Ipprova, “Tixtieq nharsu lejn din il-bill flimkien?” Ħalli lill-persuna ż-żmien biex tiddeċiedi.
+- **Staqsi qabel ma tieħu azzjoni.** Ipprova, “Tixtieq nharsu lejn din il-fattura flimkien?” Ħalli lill-persuna ż-żmien biex tiddeċiedi.
 - **Iffoka fuq kompitu wieħed.** Jekk il-persuna taqbel, irrevedi l-ammont, id-data ta' skadenza u l-għażliet tal-ħlas flimkien. Ħalli lill-persuna tagħmel l-għażliet li trid tagħmel.
 - **Agħmel rekord sempliċi flimkien.** Lista qasira tal-bilijiet, tad-dati ta' skadenza jew tal-passi miftiehma tista' tgħin lilkom it-tnejn tarawx x'ġie kkurat.
 - **Staqsi lill-bank dwar l-għażliet tiegħu.** Jista' joffri modi biex il-ħlasijiet isiru jew it-transazzjonijiet jiġu ċċekkjati b'mod aktar faċli. Staqsi x'jippermetti kull għażla qabel ma tbiddel kont.
 - **Erġa' ikkuntattja aktar tard.** Preferenzi l-persuna jistgħu jinbdlu. Żomm l-għajnuna limitata għal dak li trid u għandha bżonn issa.
 
-Il-CFPB tiddeskrivi l-appoġġ informali bħala reviżjoni tal-bilijiet u l-ibbaġitjar ma' xi ħadd filwaqt li l-persuna għadha tawtorizza t-transazzjonijiet. Dan jista' jkun differenti minn li tħalli persuna oħra tiċċaqlaq flus jew tagħmel pagamenti. Tuża l-passwords, il-PIN jew il-kodiċijiet ta' sigurtà għal darba bħala xkurt; dawn m'għandhomx jinqasmu.
+Il-CFPB tiddeskrivi l-appoġġ informali bħala reviżjoni tal-bilijiet u l-ibbaġitjar ma' xi ħadd filwaqt li l-persuna għadha tawtorizza t-transazzjonijiet. Dan jista' jkun differenti minn li tħalli persuna oħra tiċċaqlaq flus jew tagħmel pagamenti. Tqassamx il-passwords, il-PIN jew il-kodiċijiet ta' verifika għal darba bħala soluzzjoni rapida.
 
 ## X'jippermetti kuntatt fdat li jagħmel?
 
@@ -85,26 +85,26 @@ Qabel ma tbiddel l-aċċess għall-kont jew is-sjieda, staqsi lill-bank u lil pr
 
 ## X'bidliet għandi nqis?
 
-Bil mhux imħallas jew xiri mhux tas-soltu jista' jkollu spjegazzjonijiet differenti. Ma jippruvax li l-persuna ma tistax tmexxi l-flus jew li xi ħadd sfruttaha. Staqsi x'ġara u, jekk il-persuna taqbel, ħares flimkien lejn id-dikjarazzjoni jew il-bill rilevanti.
+Bilijiet mhux imħallsa jew xiri mhux tas-soltu jista' jkollu spjegazzjonijiet differenti. Ma jippruvax li l-persuna ma tistax tmexxi l-flus jew li xi ħadd sfruttaha. Staqsi x'ġara u, jekk il-persuna taqbel, ħares flimkien lejn id-dikjarazzjoni jew il-bill rilevanti.
 
 [Il-CFPB telenka sinjali possibbli ta' sfruttament finanzjarju](https://www.consumerfinance.gov/ask-cfpb/how-can-i-tell-if-a-friend-neighbor-or-family-member-is-a-victim-of-financial-exploitation-en-1933/), fosthom flus jew proprjetà li tintilef, ħruġ f'daqqa mhux tas-soltu, bilijiet mhux imħallsa, nies mhux familjari li jiżdiedu mal-kontijiet, jew xi ħadd li jillimita t-telefonati u ż-żjarat tal-persuna. Innota l-mudelli u l-bidliet minn dak li hu tas-soltu għal din il-persuna; tqisx sinjal wieħed bħala prova.
 
-Jekk il-persuna tgħid li l-flus huma nieqsa, ħu t-tħassib bis-serjetà. Il-gwida tagħna dwar it-tweġiba għas-suspett toffri modi biex tiċċekkja tħassib mingħajr ma tiċċaħdu. Staqsi lill-persuna privatament x'innotat u x'trid li jiġri sussegwentement. Evita li takkuża qarib, persuna li tieħu ħsieb jew impjegat tal-bank qabel ma tiċċekkja l-fatti. Jekk tissuspetta li persuna fdata tista' tkun involuta, fittex parir minn professjonist jew servizz lokali separat.
+Jekk il-persuna tgħid li l-flus huma nieqsa, ħu t-tħassib bis-serjetà. Il-[gwida tagħna dwar it-tweġiba għas-suspett](/caregiving/when-someone-with-dementia-is-suspicious/) toffri modi biex tiċċekkja tħassib mingħajr ma tiskartah. Staqsi lill-persuna privatament x'innotat u x'trid li jiġri sussegwentement. Evita li takkuża qarib, persuna li tieħu ħsieb jew impjegat tal-bank qabel ma tiċċekkja l-fatti. Jekk tissuspetta li persuna fdata tista' tkun involuta, fittex parir minn professjonist jew servizz lokali separat.
 
 ## Kif nista' nnaqqas ir-riskju ta' frodi?
 
 Il-frodisti jistgħu jippretendu li huma bank, uffiċċju tal-gvern, negozju, ħabib jew qarib. Jistgħu jgħidu li hemm emerġenza u jgħaġġlu l-ħlas immedjat. [Il-gwida tal-Alzheimer's Association dwar is-sigurtà fit-teknoloġija](https://www.alz.org/help-support/caregiving/safety/technology-safety-older-adults) tirrakkomanda li tieqaf, tiċċekkja l-kuntatt u tfittex appoġġ qabel ma taqsam informazzjoni jew flus.
 
-- **Ieqaf meta messaġġ jidher urġenti.** Tibgħatx flus u tqassamx dettalji tal-kont waqt li sejjer ikun qed jipprovdi pressjoni.
+- **Ieqaf meta messaġġ jidher urġenti.** Tibgħatx flus u tqassamx dettalji tal-kont waqt li jkun hemm pressjoni fuqek.
 - **Iċċekkja billi tuża kuntatt li diġà tafda.** Itfa' u ċċempel lill-bank fin-numru fuq dikjarazzjoni reċenti jew fuq kard, jew uża l-app uffiċjali tiegħu. Tuża l-link jew in-numru mibgħut mill-persuna li tkellmek.
 - **Żomm id-dettalji tas-sigurtà privati.** Tibgħatx passwords, dettalji sħaħ tal-kont jew kodiċijiet ta' verifika bħala tweġiba għal messaġġ mhux mistenni. [Il-FTC tagħti parir li ttemm telefonata mhux mistennija li titlob kodiċi u tikkuntattja l-bank permezz ta' numru fdat](https://consumer.ftc.gov/consumer-alerts/2024/03/whats-verification-code-why-would-someone-ask-me-it).
 - **Aqbel mal-persuna dwar l-appoġġ.** Staqsi lil min tixtieq tikkonsulta dwar talba mhux tas-soltu. Il-karatteristika ta' kuntatt fdat tal-bank tista' tgħin bil-komunikazzjoni, imma ma tawtorizzax it-transazzjonijiet innifisha.
 
-## X'nagħmel jekk flus setgħu marru għand scammer?
+## X'nagħmel jekk flus setgħu marru għand xi frodist?
 
 Ikkuntattja l-bank, l-app tal-pagament, il-kumpanija tal-karta jew il-kumpanija użata biex intbagħtu l-flus malajr kemm jista' jkun. Uża numru fuq kard jew dikjarazzjoni, jew il-websajt jew l-app uffiċjali tal-organizzazzjoni. Staqsi jekk jistax iwaqqaf jew ireġġa' lura l-pagament. [Il-passi tal-irkupru tal-FTC](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed) jispjegaw li l-għażliet jiddependu minn kif intbagħtu l-flus; m'hemm l-ebda garanzija li jista' jiġi rkuprat.
 
-Żomm il-messaġġi, ir-riċevuti, id-dati u n-notifiki tal-kont. Fl-Istati Uniti, tista' tirrapporta frodi lill-[FTC](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed). Jekk tissuspetta li persuna qed tisfrutta l-adult anzjan, [l-Administration for Community Living](https://acl.gov/programs/protection-and-advocacy-systems/what-if-i-suspect-abuse-neglect-or-exploitation) tgħid biex tikkuntattja Adult Protective Services fl-istat tal-persuna. Jekk xi ħadd ikun f'periklu immedjat, ikkuntattja s-servizzi ta' emerġenza lokali. Barra mill-Istati Uniti, uża s-servizzi lokali tal-protezzjoni tal-konsumatur u tas-salvagwardja.
+Żomm il-messaġġi, ir-riċevuti, id-dati u n-notifiki tal-kont. Fl-Istati Uniti, tista' tirrapporta frodi lill-[FTC](https://consumer.ftc.gov/articles/what-do-if-you-were-scammed). Jekk tissuspetta li persuna qed tisfrutta persuna anzjana, [l-Administration for Community Living](https://acl.gov/programs/protection-and-advocacy-systems/what-if-i-suspect-abuse-neglect-or-exploitation) tgħid biex tikkuntattja Adult Protective Services fl-istat tal-persuna. Jekk xi ħadd ikun f'periklu immedjat, ikkuntattja s-servizzi ta' emerġenza lokali. Barra mill-Istati Uniti, uża s-servizzi lokali tal-protezzjoni tal-konsumatur u tas-salvagwardja.
 
 Ikkomunika mingħajr akkuża. Il-frodi hija mfassla biex tqarraq lin-nies. Il-[gwida tal-CFPB dwar l-għajnuna għal frodi u scam](https://www.consumerfinance.gov/ask-cfpb/who-do-i-contact-for-help-with-a-scam-or-fraud-en-1777/) telenka għażliet ta' rappurtar fl-Istati Uniti u tagħti parir biex tuża websajts u numri tat-telefon fdati.
 

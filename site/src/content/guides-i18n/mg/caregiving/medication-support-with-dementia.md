@@ -1,7 +1,7 @@
 ---
 title: "Fanampiana ny olona manana dementia hitantana ny fanafody"
-seoTitle: "Fiarovana amin'ny fanafody ho an'ny mpikarakara olona manana dementia"
-description: "Tohano ny fanaon'ny fanafody amin'ny lisitra mazava, torohevitra avy amin'ny mpanakanto fanafody ary fanajana ny fahaleovan-tena. Aza miova ny dosy noho ny torohevitra an-tserasera."
+seoTitle: "Fiarovana amin'ny fanafody ho an'ny mpikarakara"
+description: "Tohano ny fanafody amin'ny lisitra mivaona, torohevitra avy amin'ny mpanakanto fanafody ary fanajana ny fahaleovan-tena. Aza miova ny dosy noho ny an-tserasera."
 section: caregiving
 order: 26
 updated: 2026-11-11
@@ -24,7 +24,7 @@ faq:
   - q: "Inona no atao raha misy fanafody miteraka fiantraikany tsy mahafinaritra?"
     a: "Soraty izay niova sy ny fotoana nanombohany, avy eo ifandraisa amin'ny mpanome fanafody na ny mpanakanto fanafody. Aza mijanona na manova ny dosy tsy misy torohevitra avy aminy."
   - q: "Inona no atao raha mihevitra aho fa nisotro fanafody be loatra ny olona?"
-    a: "Antsoy avy hatrany ny serasera misy eo amin'ny faritanao momba ny fanakanana ny aretina avy amin'ny fanafody na ny serasera fanampiana ara-pitsaboana. Aza miandry ny famantarana na mikarakara ny fanafody be loatra ianao manokana."
+    a: "Antsoy avy hatrany ny serasera misy eo amin'ny faritanao momba ny fanakanana ny aretina avy amin'ny fanafody na ny serasera fanampiana ara-pitsaboana. Aza miandry ny famantarana, ary aza mikarakara ny fanafody be loatra tsy misy fanampiana."
 sources:
   - title: "Medication Safety"
     publisher: "Alzheimer's Association"
@@ -51,7 +51,7 @@ Raha tsy miasa ny fampahatsiahivana, anontanio izay ampahany sarotra. Mety tsy a
 
 ## Inona no tokony ho ao amin'ny lisitra fanafody?
 
-Tazomy lisitra iray vaovao misy ny anaran'ny fanafody nomen'ny dokotera tsirairay, ny dosy sy ny fandaharana, ary ny antony nanomezana azy raha fantatra. Ampidiro ny fanafody azo alaina tsy misy fanoratana, ny vitamina, ny zava-maniry ary ny fanampim-pahasalamana. Soraty ny fanamavoana na ny fiantraikany tsy mahafinaritra teo aloha, ary ny anaran'ny mpitsabo izay mitantana ny fikarakarana ny olona.
+Tazomy lisitra iray vaovao misy ny anaran'ny fanafody nomen'ny dokotera tsirairay, ny dosy sy ny fandaharana, ary ny antony nanomezana azy raha fantatra. Ampidiro ny fanafody azo alaina tsy misy fanoratana, ny vitamina, ny zava-maniry ary ny fanampim-pahasalamana. Soraty ny olana na ny fiantraikany tsy mahafinaritra teo aloha, ary ny anaran'ny mpitsabo izay mitantana ny fikarakarana ny olona.
 
 Entino ny lisitra any amin'ny fotoana rehetra miankina amin'ny fitsaboana, ary ovaino rehefa miova zavatra ny mpanome fanafody. Raha misy dokotera maromaro ny olona, zarao ny lisitra amin'ny ekipan'ny fikarakarana tsirairay raha manaiky ny olona. Tazomy ny lisitra any amin'ny toerana hita ho an'ny olona sy ny mpanampy voafidy, ary arovy toy ny tatitra ara-pahasalamana manokana.
 
@@ -77,9 +77,9 @@ Tehirizo ny fanafody araka ny etiketa sy ny torolalan'ny mpanakanto fanafody. Ra
 
 Tazomy atokana ny fanafody efa lany andro na efa nesorina, ary anontanio mpanakanto fanafody ahoana no hamoahana azy amin'ny fomba azo antoka. Aza mitahiry fanafody tranainy ho fanampiny, ary aza mizara fanafody eo anelanelan'ny olona. Raha very ny fanafody, na mety nisy dosy nanaraka, ifandraisa amin'ny mpanakanto fanafody, amin'ny serasera momba ny fanakanana ny aretina avy amin'ny fanafody, na amin'ny serasera fanampiana ara-pitsaboana mba hahazoana torohevitra haingana.
 
-## Yaushe no tokony hitady fanampiana ara-pitsaboana?
+## Oviana no tokony hitady fanampiana ara-pitsaboana?
 
-Ifandraisa amin'ny dokotera na mpanakanto fanafody raha misy fiantraikany fanafody mampahatahotra, fahasahiranana amin'ny fitelina, fanamavoana matetika, na fiovana tampoka aorian'ny fanafody vaovao. Angataho torolalana soratra mazava. Aza mijanona na mampihena fanafody amin'ny tenanao.
+Ifandraisa amin'ny dokotera na mpanakanto fanafody raha misy fiantraikany fanafody mampahatahotra, fahasahiranana amin'ny fitelina, dosy very matetika, na fiovana tampoka aorian'ny fanafody vaovao. Angataho torolalana soratra mazava. Aza mijanona na mampihena fanafody amin'ny tenanao.
 
 Raha mihevitra ianao fa nisotro fanafody be loatra ny olona, antsoy avy hatrany ny serasera misy eo amin'ny faritanao momba ny fanakanana ny aretina avy amin'ny fanafody, na ny serasera fanampiana ara-pitsaboana. Raha tampoka ny fahatairan'ny olona, ny [torolalana avy amin'ny NHS](https://www.nhs.uk/symptoms/confusion/) dia manoro fanampiana ara-pitsaboana avy hatrany. Ampiasao ny serasera fanampiana ara-pitsaboana na ny fomba fikarakarana haingana eo amin'ny faritanao.
 

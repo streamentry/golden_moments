@@ -48,7 +48,7 @@ L-ilbies huwa affari personali. Persuna li tgħix bid-dimenzja tista' ssib l-għ
 
 Staqsi x'tixtieq tilbes il-persuna. Jekk l-għażla minn kompartiment sħiħ tal-ħwejjeġ tidher diffiċli, offri żewġ għażliet familjari. Jistgħu jagħżlu bejn qmis blu u wieħed aħdar, jew bejn pulover u ġakketta. Tnejn huma bidu, mhux regola. Jekk il-persuna tippreferi tagħżel minn aktar ħwejjeġ, segwi t-tmexxija tagħha.
 
-Ħares lejn il-ġusti tal-persuna. Kuluri, drappijiet u ħwejjeġ familjari jistgħu jagħmlu l-għażla aktar faċli. Tibdilx l-istil tagħha b'dak li taħseb li jidher l-aħjar. Qmis li ma jaqbilx ma' xulxin mhuwiex raġuni biex tiġġieled. Jekk il-persuna tkun komda u l-ħwejjeġ jaqblu mat-temp, ħalli l-għażla tagħha tibqa'.
+Ħares lejn it-togħma tal-persuna. Kuluri, drappijiet u ħwejjeġ familjari jistgħu jagħmlu l-għażla aktar faċli. Tibdilx l-istil tagħha b'dak li taħseb li jidher l-aħjar. Qmis li ma jaqbilx ma' xulxin mhuwiex raġuni biex tiġġieled. Jekk il-persuna tkun komda u l-ħwejjeġ jaqblu mat-temp, ħalli l-għażla tagħha tibqa'.
 
 Meta tixtri ħwejjeġ, ikkunsidra l-kumdità u dak li l-persuna tista' tmexxi. Drappijiet artab, xejriet familjari u għeluqiet li jistgħu jinfetħu faċilment jistgħu jgħinu. Elastiċi jew magni sempliċi jistgħu jkunu aktar faċli għal xi nies, imma disinn ġdid jista' wkoll jidher stramb. Staqsi qabel ma tbiddel ħwejjeġ favoriti jew tbiddel rutina.
 
@@ -80,9 +80,9 @@ Ikkunsidra t-temperatura u l-pjanijiet tal-ġurnata. Persuna tista' tgħoġbha t
 
 Jekk l-ilbies inbidel b'mod notevoli, staqsi lill-persuna x'qed isibu diffiċli u kellem it-tabib tagħha. Dementia Australia tinnota li l-vista, effetti ta' mediċini jew kundizzjoni oħra tas-saħħa jistgħu wkoll jagħmlu l-ilbies aktar diffiċli. It-tabib jista' jgħin biex jiċċekkja kawżi possibbli. Tieqafx jew tbiddilx mediċina abbażi ta' artikolu ġenerali.
 
-Jekk il-persuna tiddaħħal f'konfużjoni f'daqqa, fittex għajnuna mediċi immedjata permezz tas-servizzi ta' emerġenza lokali. [Il-gwida tan-NHS dwar konfużjoni f'daqqa](https://www.nhs.uk/symptoms/confusion/) tgħid li dan jeħtieġ attenzjoni urġenti. Dan it-twissija hija dwar konfużjoni f'daqqa, mhux dwar bidla gradwali fir-rutina tal-ilbies.
+Jekk il-persuna tiddaħħal f'konfużjoni f'daqqa, fittex għajnuna mediċi immedjata permezz tas-servizzi ta' emerġenza lokali. [Il-gwida tan-NHS dwar konfużjoni f'daqqa](https://www.nhs.uk/symptoms/confusion/) tgħid li dan jeħtieġ attenzjoni urġenti. Din it-twissija hija dwar konfużjoni f'daqqa, mhux dwar bidla gradwali fir-rutina tal-ilbies.
 
-Innota liema parti tar-rutina nbidlet: l-għażla tal-ħwejjeġ, il-ħarsa lejhom, l-immaniġġjar ta' magna jew iż-żamma tal-bilanċ. Aqsam dak li osservajt mal-persuna u mat-tabib tagħha, jekk taqbel. Diffikultà ġdida ma tispjegax waħedha l-kawża tagħha. Evita li tassumi li l-persuna qed tkun kaparbja jew ngħatta.
+Innota liema parti tar-rutina nbidlet: l-għażla tal-ħwejjeġ, il-ħarsa lejhom, l-immaniġġjar ta' magna jew iż-żamma tal-bilanċ. Aqsam dak li osservajt mal-persuna u mat-tabib tagħha, jekk taqbel. Diffikultà ġdida ma tispjegax waħedha l-kawża tagħha. Evita li tassumi li l-persuna qed tkun kaparbja jew traskurata.
 
 Jekk qed tgħin id-dar jew f'setting tal-kura, staqsi lill-persuna jekk trid li l-preferenzi tagħha jinqasmu ma' għajnuna oħra. Nota qasira dwar il-ħwejjeġ favoriti, l-ordni li tippreferi u s-sinjal li jaħdem tista' tgħin lil oħrajn isegwu l-istess rutina. Żomm din in-nota privata u aġġornaha meta x-xewqat tal-persuna jinbdlu.
 

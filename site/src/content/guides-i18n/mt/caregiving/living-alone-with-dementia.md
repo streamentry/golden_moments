@@ -50,15 +50,15 @@ Il-[gwida tagħna dwar ir-rutini ta' kuljum](/activities/daily-routine/) għandh
 
 Aqbel dwar ftit kuntatti regolari. Żjara jew telefonata qasira f'ħin magħruf tista' tkun aktar utli minn ħafna nies li jiċċekkjaw b'mod imprevedibbli. Staqsi lill-persuna min trid involut u x'jista' jagħmel kull wieħed.
 
-Agħmel offerti konkreti. “Jgħinek jekk ġibtlek l-ikel il-Ħamis?” hija aktar faċli biex twieġeb għaliha minn “Għidli jekk teħtieġ xi ħaġa.” Persuna fdata tista' tgħin bix-xiri, bit-trasport, bl-ikel, bil-bilef jew b'kalendarju tal-appuntamenti. [L-Alzheimer's Association tissuġġerixxi li torganizza għajnuna](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) bil-kompiti tad-dar, bl-ikel, bit-trasport u bit-tifkiriet tal-mediċini meta jqumu dawk il-bżonnijiet.
+Agħmel offerti konkreti. “Jgħinek jekk ġibtlek l-ikel il-Ħamis?” hija aktar faċli biex twieġeb għaliha minn “Għidli jekk teħtieġ xi ħaġa.” Persuna fdata tista' tgħin bix-xiri, bit-trasport, bl-ikel, bil-bilijiet jew b'kalendarju tal-appuntamenti. [L-Alzheimer's Association tissuġġerixxi li torganizza għajnuna](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) bil-kompiti tad-dar, bl-ikel, bit-trasport u bit-tifkiriet tal-mediċini meta jqumu dawk il-bżonnijiet.
 
 Jekk diversi nies jgħinu, aqbel min jieħu ħsieb kull kompitu u kif jgħaddu l-aġġornamenti importanti. Żomm l-informazzjoni limitata għall-persuni li l-persuna għażlet, sakemm ma jkunx hemm tħassib urġenti dwar is-sigurtà li jeħtieġ għajnuna immedjata. Jekk tgħix 'il bogħod, ara l-[gwida tagħna dwar il-kura mill-bogħod](/caregiving/long-distance-caregiving-with-dementia/) għal modi kif tikkoordina mal-persuni li l-persuna tagħżel. Il-[gwida dwar il-komunikazzjoni](/caregiving/communication-tips/) għandha aktar dwar kif tiddiskuti l-appoġġ mingħajr ma tieħdu bħala test.
 
-## Kif persuna tista' tibqa' konnessa waktli tgħix waħedha?
+## Kif persuna tista' tibqa' konnessa waqt li tgħix waħedha?
 
 Agħżel attivitajiet u kuntatt li l-persuna tgħoġbu. Jista' jkun telefonata ġimgħatija, żjara ta' ġar, ikla fil-komunità, klabb familjari jew mixi ma' xi ħadd li tafdah. Staqsi lill-persuna liema għażliet jidhru milqugħa; tassumix li aktar viżitaturi jew gruppi huma dejjem aħjar.
 
-Ħin soċjali regolari jista' jagħmel il-ġimgħa aktar faċli biex tiftakarha u jagħti lill-persuna xi ħaġa li tistenna. Jekk it-trasport lejn attività jsir diffiċli, ikkunsidra telefonata, rakkonta minn xi ħadd fdat jew attività iżgħar eqreb lejn id-dar. Il-gwida tagħna dwar il-[konnessjoni soċjali](/brain-health/social-connection/) tinkludi modi sempliċi biex tibqa' f'kuntatt.
+Ħin soċjali regolari jista' jagħmel il-ġimgħa aktar faċli biex tiftakarha u jagħti lill-persuna xi ħaġa li tistenna. Jekk it-trasport lejn attività jsir diffiċli, ikkunsidra telefonata, lift minn xi ħadd fdat jew attività iżgħar eqreb lejn id-dar. Il-gwida tagħna dwar il-[konnessjoni soċjali](/brain-health/social-connection/) tinkludi modi sempliċi biex tibqa' f'kuntatt.
 
 ## Kif nafu meta l-pjan għandu jinbidel?
 
@@ -72,6 +72,6 @@ Jekk il-persuna tkun dubjuża dwar l-għajnuna, ibda bil-ftit. Tista' tippreferi
 
 Isma' r-raġuni qabel ma toffri pjan ieħor. Tista' tkun qed tibża' mill-privatezza, mill-ispiża, mit-telf tal-kontroll jew minn persuna mhux familjari fid-dar. Staqsi x'tip ta' għajnuna tkun aċċettabbli, imbagħad ara jekk prova żgħira taħdimx. Xi nies jippreferu tfakkir jew kompitu kondiviż; oħrajn jixtiequ appoġġ minn persuna fdata waħda minflok servizz ġdid.
 
-Evita li ċċaqlaq il-kuntatti f'testijiet. Sejħa tista' tkun konversazzjoni, mhux lista ta' mistoqsijiet dwar jekk il-persuna kkonsmatx l-ikel, ħadet il-mediċina jew tiftakar appuntament. Jekk hemm periklu immedjat, ikkuntattja s-servizzi ta' emerġenza lokali. Għal tħassib kontinwu, żomm il-persuna involuta u fittex parir mit-tim tal-kura tagħha jew mis-servizz lokali ta' appoġġ.
+Evita li tagħmel il-kuntatt test. Sejħa tista' tkun konversazzjoni, mhux lista ta' mistoqsijiet dwar jekk il-persuna kkonsmatx l-ikel, ħadet il-mediċina jew tiftakar appuntament. Jekk hemm periklu immedjat, ikkuntattja s-servizzi ta' emerġenza lokali. Għal tħassib kontinwu, żomm il-persuna involuta u fittex parir mit-tim tal-kura tagħha jew mis-servizz lokali ta' appoġġ.
 
 Li tgħix waħedek jista' jkompli jaħdem b'taħlita li tinbidel ta' rutini, relazzjonijiet u għajnuna prattika. Erġa' eżamina l-pjan mal-persuna, żomm dak li jidher utli u aġġusta l-partijiet li m'għadhomx jaqblu.

@@ -16,7 +16,7 @@ keyPoints:
   - "Tbiddilx mediċini mingħajr it-tabib tal-persuna."
 faq:
   - q: "X'inhi halluċinazzjoni?"
-    a: "Halluċinazzjoni hija li tara, tisma', tixtieq ir-riħa ta', tiddoqq jew tħoss xi ħaġa li ma jidhirx li għandha sors barrani. Dell, forma jew ħoss reali jistgħu wkoll jinftiehmu ħażin. Membru tal-familja m'għandux għalfejn jiddeċiedi liema minnhom qed jiġri."
+    a: "Halluċinazzjoni hija li tara, tisma', tixnemm, tiddoqq jew tħoss xi ħaġa li ma jidhirx li għandha sors barrani. Dell, forma jew ħoss reali jistgħu wkoll jinftiehmu ħażin. Membru tal-familja m'għandux għalfejn jiddeċiedi liema minnhom qed jiġri."
   - q: "Għandi ngħid lil persuna bid-dimenzja li dak li tara mhuwiex reali?"
     a: >-
       Targumentax u tinsisti li huma żbaljati. Tista' tkun onesta u tirrikonoxxi x'jħossu: “Ma nara lil ħadd, imma nifhem li dan qed jibżgħalek. Jien hawn miegħek.”
@@ -25,7 +25,7 @@ faq:
   - q: "Meta għandi nfittex għajnuna mediċi?"
     a: "Ikseb għajnuna mediċi immedjata jekk il-persuna ssir konfuża f'daqqa jew jekk l-halluċinazzjoni tinvolvi aktar minn sens wieħed. Ikkuntattja t-tabib tagħha dwar esperjenzi ġodda, ripetuti, twal jew li jniġġsu."
   - q: "Għandi nbiddel mediċina jekk jibdew l-halluċinazzjonijiet?"
-    a: "Le. Ikteb x'inbidel u ikkuntattja l-preskrittur jew il-farmaċista. Tibdiex, tieqafx jew tbiddilx mediċina abbażi ta' gwida ġenerali."
+    a: "Le. Ikteb x'inbidel u ikkuntattja l-preskrittur jew il-farmaċista. Tibdilx, tieqafx jew tbiddilx mediċina abbażi ta' gwida ġenerali."
 sources:
   - title: "Hallucinations and dementia"
     publisher: "Alzheimer's Society"
@@ -44,7 +44,7 @@ related: [caregiving/late-day-restlessness, caregiving/when-someone-with-dementi
 health: true
 ---
 
-Li tara, tisma', tixtieq ir-riħa ta', tiddoqq jew tħoss xi ħaġa li ħaddieħor ma jinnotax jista' jidher reali għall-persuna. Jista' jbeżżaħha, jew jista' ma jdejqix. Ibda minn kif tħoss il-persuna u jekk hemm xi ħadd li mhuwiex sikur, aktar milli tipprova turi x'ġara jew x'ma ġarax.
+Li tara, tisma', tixnemm, tiddoqq jew tħoss xi ħaġa li ħaddieħor ma jinnotax jista' jidher reali għall-persuna. Jista' jbeżżaħha, jew jista' ma jdejqix. Ibda minn kif tħoss il-persuna u jekk hemm xi ħadd li mhuwiex sikur, aktar milli tipprova turi x'ġara jew x'ma ġarax.
 
 Esperjenza tista' tkun halluċinazzjoni, imma tista' wkoll tkun perċezzjoni żbaljata jew identifikazzjoni żbaljata. Dell jista' jidher bħal persuna; persuna familjari tista' tinħabbel għal xi ħadd ieħor. Ma għandekx għalfejn tiddeċiedi liema minnhom qed jiġri. Iddeskrivi dak li l-persuna tgħid u dak li tinnota, u staqsi lil tabib jekk inti tinkwieta.
 
@@ -59,15 +59,15 @@ Ibqa' kalm, staqsi kif tħoss il-persuna, u offri rassigurazzjoni mingħajr ma t
 
 Jekk l-esperjenza tkun innoċenti u ma tniġġisx, segwi t-tmexxija tal-persuna. Tagħmilx il-mument test jew titlobha tipprova dak li rat.
 
-Xi nies isibu esperjenza kumlearja jew familjari. Jekk il-persuna tkun kalma u sigura, jista' ma jkunx hemm bżonn li tbiddel is-suġġett jew tieħodha f'post ieħor. Staqsi x'tixtieq; tagħmilx kull mument bħal din diskussjoni mediċi. Jekk tkun spaventata, irrispondi għal dik is-sensazzjoni anke jekk ma tistax tara l-istess ħaġa.
+Xi nies isibu esperjenza familjari ħafna jew familjari. Jekk il-persuna tkun kalma u sigura, jista' ma jkunx hemm bżonn li tbiddel is-suġġett jew tieħodha f'post ieħor. Staqsi x'tixtieq; tagħmilx kull mument bħal din diskussjoni mediċi. Jekk tkun spaventata, irrispondi għal dik is-sensazzjoni anke jekk ma tistax tara l-istess ħaġa.
 
 ## Setgħet xi ħaġa fil-kamra tkun ġiet ħażin bħala persuna jew ħoss?
 
 Iċċekkja s-sitwazzjoni mal-persuna jekk tilqa' dik l-għajnuna. [L-Alzheimer's Society tiddistingwi bejn halluċinazzjonijiet u perċezzjonijiet żbaljati](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations), fejn oġġett jew forma reali tiġi nterpretata ħażin.
 
 - **Ittejjeb id-dawl.** Ixgħel lampa u iċċekkja d-dell jew ir-riflessi mill-mirja u t-twieqi.
-- **Iċċekkja ħsejjes komuni.** Televixin, ventilatur jew apparat jistgħu jidhru bħal leħen jew passi. Ittenni jew itfi biss jekk il-persuna tkun komda b'dan.
-- **Ħares lejn xejriet.** Tapit, kurtina jew karta tal-ħitan mimlija xejriet jistgħu jinħabbsu għal moviment jew oġġett. Staqsi jekk il-persuna tixtieq tħares minn post ieħor jew tbiddel il-veduta.
+- **Iċċekkja ħsejjes komuni.** Televixin, ventilatur jew apparat jistgħu jidhru bħal leħen jew passi. Naqqas il-volum jew itfih biss jekk il-persuna tkun komda b'dan.
+- **Ħares lejn xejriet.** Tapit, kurtina jew karta tal-ħitan mimlija xejriet jistgħu jidhru bħal moviment jew oġġett. Staqsi jekk il-persuna tixtieq tħares minn post ieħor jew tbiddel il-veduta.
 - **Iċċekkja l-għodod sensorji.** Jekk il-persuna tuża egħjun jew apparat tas-smigħ, staqsi jekk tixtieqx għajnuna biex tiċċekkja li jkun disponibbli u jaħdem kif normalment.
 
 Jekk l-esperjenza tiġri fl-istess post, fittex karatteristika li tirrepeti ruħha: riflessjoni f'ħġieġ, xejra qawwija fil-art, televixin misma' minn kamra oħra jew dawl dgħajjef fil-għasqa. Iċċekkja għal ħoss jew oġġett reali qabel ma tittratta dan bħala bidla fil-perċezzjoni. Jekk tipprova bidla fl-ambjent, spjegaha u staqsi jekk tħossha aħjar.

@@ -58,7 +58,7 @@ Ikteb il-problema b'kliem sempliċi: “Il-passaġġ huwa skur wara l-ikel,” �
 
 ### Il-kcina
 
-- **Iċċekkja l-użu tat-tagħmir.** Jekk kien hemm problema bil-kukkajra jew apparat ieħor, ara għażliet ta' sigurtà mfassla għal dak l-apparat speċifiku. L-Alzheimer's Association telenka tfaċċi awtomatiċi ta' tfigħ u apparati ta' sigurtà għall-kukkajra bħala possibbiltajiet. Ikseb parir kwalifikat qabel tbiddel tagħmir tal-gass jew elettriku.
+- **Iċċekkja l-użu tat-tagħmir.** Jekk kien hemm problema bil-kukkajra jew apparat ieħor, ara għażliet ta' sigurtà mfassla għal dak l-apparat speċifiku. L-Alzheimer's Association telenka sistemi awtomatiċi ta' qtugħ u apparati ta' sigurtà għall-kukkajra bħala possibbiltajiet. Ikseb parir kwalifikat qabel tbiddel tagħmir tal-gass jew elettriku.
 - **Żomm il-mediċini u l-oġġetti mhux tal-ikel separati mill-ikel.** L-Association tirrakkomanda li l-mediċini jinħażnu b'mod sikur u mhux fuq il-kontru. Jekk il-persuna tmexxi l-mediċini tagħha, staqsi farmaċista jew professjonist tas-saħħa għal pjan li jipproteġi dik ir-rutina.
 - **Aħżen it-tindif u l-prodotti perikolużi b'mod sikur.** Żommhom fil-kontenituri oriġinali tagħhom, il-bogħod mill-ikel u mill-idejn meta jkun meħtieġ. Tqiegħedx kimiċi f'flixkun tax-xorb jew f'kavetta tal-ikel.
 - **Żomm l-oġġetti utli tal-kcina aċċessibbli.** Tqegħid sikur għandu jħalli lill-persuna tkompli l-kompiti li tgħoġbha meta jkun possibbli. Jekk tbiddel armarju jew apparat, spjegah u iċċekkja jekk joħloqx konfużjoni.
@@ -80,12 +80,12 @@ Jekk it-tħassib jiġi waqt xogħol komuni tad-dar, il-[gwida tagħna dwar il-ko
 
 ### Lavanderija, ħażna u spazji barra
 
-- **Aħżen b'mod sikur il-prodotti tat-tindif, il-mediċini u l-għodod.** Iċċekkja l-kabinetti, il-postijiet tal-ħasil, il-garaxxijiet, il-ħaġen u l-kantini. Aħżen il-kimiċi fil-kontenituri oriġinali tagħhom u żomm l-għodod ħorox jew il-magni megħjuna jew imwaħħla meta hemm riskju speċifiku.
+- **Aħżen b'mod sikur il-prodotti tat-tindif, il-mediċini u l-għodod.** Iċċekkja l-kabinetti, il-postijiet tal-ħasil, il-garaxxijiet, il-ħaġen u l-kantini. Aħżen il-kimiċi fil-kontenituri oriġinali tagħhom u żomm l-għodod ħorox jew il-magni mwaħħlin meta hemm riskju speċifiku.
 - **Iċċekkja l-apparati u l-allarmi.** Ara li l-allarmi tad-duħħan u d-detetturi tal-monossidu tal-karbonju jkunu preżenti u jaħdmu. Segwi l-istruzzjonijiet tagħhom għall-ittestjar u għat-tibdil tal-batteriji.
-- **Żomm lista ta' kuntatti ta' emerġenza faċli biex tinstab.** Inkludi n-numru ta' emerġenza lokali, il-kuntatti ewlenin tal-persuna u kull informazzjoni li għandha bżonn għajnuniet fdati. Tpoġġix dettalji privati fejn viżitatur jista' jarahom.
+- **Żomm lista ta' kuntatti ta' emerġenza faċli biex tinstab.** Inkludi n-numru ta' emerġenza lokali, il-kuntatti ewlenin tal-persuna u kull informazzjoni li għandha bżonn persuni fdati. Tpoġġix dettalji privati fejn viżitatur jista' jarahom.
 - **Iċċekkja t-triq barra.** Ara jekk hemmx dawl ħażin, wiċċ mhux ugwali, pajpijiet jew għodod f'triq tal-mixi. Ibdel bidla waħda kull darba sabiex it-triq familjari tibqa' rikonoxxibbli.
 
-Għar-rutini tal-lejl, il-[gwida dwar l-irqad](/brain-health/sleep/) għandha aktar dwar bidliet fl-irqad u f'abitudnijiet serali familjari.
+Għar-rutini tal-lejl, il-[gwida dwar l-irqad](/brain-health/sleep/) għandha aktar dwar bidliet fl-irqad u f'abitudini serali familjari.
 
 ## Kif nista' nżomm il-bidliet rispettużi?
 
@@ -99,7 +99,7 @@ Erġa' eżamina d-dar meta r-rutini, il-moviment jew il-vista jinbdlu, jew wara 
 
 Terapista okkupazzjonali jista' jivvaluta kif persuna timxi fid-dar u jissuġġerixxi tagħmir jew bidliet għall-kompiti ta' kuljum. Skont il-kwistjoni, fiżjoterapista, nurse tad-distrett, farmaċista jew professjonist tad-djar jistgħu wkoll jgħinu. L-Alzheimer's Society tgħid li terapista okkupazzjonali jista' jkun disponibbli permezz tal-GP, l-isptar jew is-servizz lokali tal-kura soċjali fir-Renju Unit; il-mezzi jvarjaw f'postijiet oħra. Għal installazzjoni jew bidla fit-tagħmir tal-gass, elettriku, strutturali jew tas-sigurtà tan-nar, uża professjonist lokali kwalifikat.
 
-Jekk tikri, staqsi lis-sid jew lill-fornitur tad-dar qabel ma tagħmel bidliet permanenti. Servizz lokali għall-età jew id-diżabilità jista' jispjega liema valutazzjonijiet jew appoġġ hemm disponibbli. Jekk problema tkun urġenti, ikkuntratta dik il-perikolu speċifiku l-ewwel u staqsi għal għajnuna professjonali għal kwalunkwe ħaġa li ma tkunx ċert kif tinbidel b'mod sikur.
+Jekk tikri, staqsi lis-sid jew lill-fornitur tad-dar qabel ma tagħmel bidliet permanenti. Servizz lokali għall-età jew id-diżabilità jista' jispjega liema valutazzjonijiet jew appoġġ hemm disponibbli. Jekk problema tkun urġenti, ibda b'dak il-perikolu speċifiku u staqsi għal għajnuna professjonali għal kwalunkwe ħaġa li ma tkunx ċert kif tinbidel b'mod sikur.
 
 ## Kemm-il darba għandi neżamina d-dar?
 
