@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "ເກມຄວາມຈຳສຳລັບຜູ້ສູງອາຍຸທີ່ມີສະໝອງເສື່ອມ: ແບບອ່ອນໂຍນທີ່ບໍ່ທົດສອບ"
+seoTitle: "ເກມຄວາມຈຳທີ່ດີສຳລັບສະໝອງເສື່ອມ: ແນວຄວາມຄິດອ່ອນໂຍນ"
+description: "ເກມຈັບຄູ່ ຮູບ ແລະບັດສຳລັບຜູ້ສູງອາຍຸທີ່ມີສະໝອງເສື່ອມ ແລະວິທີຫຼິ້ນໃຫ້ບໍ່ມີໃຜຮູ້ສຶກຖືກທົດສອບ: ຮູບເປີດໄວ້ ຄູ່ໜ້ອຍລົງ ບໍ່ມີຄະແນນ."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  ເກມຄວາມຈຳສຳລັບຜູ້ສູງອາຍຸທີ່ມີສະໝອງເສື່ອມເຮັດໄດ້ດີທີ່ສຸດເມື່ອບໍ່ຂຶ້ນກັບຄວາມຈຳ. ຫຼິ້ນເກມຈັບຄູ່ໂດຍໃຫ້ຮູບເປີດໄວ້, ໃຊ້ສີ່ຫາຫົກຊິ້ນ, ຫຼິ້ນເປັນທີມ ແລະບໍ່ນັບຄະແນນ. ການຈຳຮູບທີ່ເຫັນຢູ່ງ່າຍກວ່າການນຶກຮູບ ສະນັ້ນໃຫ້ເລືອກເກມທີ່ທຸກຢ່າງຢູ່ໃນສາຍຕາ. ເປົ້າໝາຍແມ່ນຄວາມສຸກ ບໍ່ແມ່ນຜົນລັບ.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "ເກມຄວາມຈຳແບບດັ້ງເດີມຊ່ອນບັດ ເຊິ່ງທົດສອບສິ່ງທີ່ສະໝອງເສື່ອມເຮັດໃຫ້ຍາກທີ່ສຸດ. ໃຫ້ເປີດຮູບໄວ້ແທນ."
+  - "ຊິ້ນໜ້ອຍລົງ ຮູບໃຫຍ່ຂຶ້ນ ແລະເລືອກເທື່ອລະຢ່າງ ຊ່ວຍໃຫ້ເກມຍັງສຸກໃຈ."
+  - "ຫຼິ້ນເປັນທີມ ສະລັບກັນຊ່ວຍ ແລະເລີກນັບຄະແນນ. ບໍ່ຄວນມີໃຜຖືກວາງໄວ້ໃນສະຖານະທີ່ຕ້ອງຕອບ."
+  - "ບໍ່ມີເກມຄວາມຈຳໃດທີ່ຖືກພິສູດວ່າປິ່ນປົວ ຊ້າລົງ ຫຼືຢຸດສະໝອງເສື່ອມໄດ້. ຫຼິ້ນເພາະເປັນເວລາຮ່ວມກັນທີ່ສຸກໃຈ."
+  - "ຢຸດໃນຂະນະທີ່ຍັງສຸກໃຈ. ການລົມກ່ຽວກັບຮູບເປັນຜົນທີ່ດີແລ້ວ."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "ເກມຄວາມຈຳທີ່ດີສຳລັບຜູ້ທີ່ມີສະໝອງເສື່ອມແມ່ນຫຍັງ?"
+    a: "ເກມຈັບຄູ່ທີ່ມີຮູບໃຫຍ່ ຄຸ້ນເຄີຍ ເຊິ່ງສາມາດເປີດໄວ້ໄດ້ ເຊັ່ນ ຈັບຄູ່ຮູບພາບ ທີ່ຕັ້ງເປັນສີ່ຫາຫົກຊິ້ນ. ການຊອກຄູ່ຂອງຮູບທີ່ທ່ານເຫັນຢູ່ເຮັດໃຫ້ພໍໃຈ ໂດຍບໍ່ທົດສອບຄວາມຈຳໄລຍະສັ້ນ. ຊອກຮູບທີ່ຄືກັນຍິ່ງງ່າຍກວ່າ ໂດຍມີຮູບໜຶ່ງໃຫ້ຈັບຄູ່ຈາກສອງຫາສີ່ທາງເລືອກ."
+  - q: "ເກມຄວາມຈຳຊ່ວຍສະໝອງເສື່ອມບໍ?"
+    a: "ບໍ່ມີເກມຄວາມຈຳໃດທີ່ຖືກພິສູດວ່າປິ່ນປົວ ຊ້າລົງ ຫຼືຢຸດສະໝອງເສື່ອມໄດ້. ການທົບທວນ Cochrane ພົບວ່າຫຼັກຖານກ່ຽວກັບການຝຶກສະໝອງດ້ວຍຄອມພິວເຕີມີຈຳກັດເກີນໄປທີ່ຈະບອກວ່າມັນປ້ອງກັນສະໝອງເສື່ອມໄດ້ຫຼືບໍ່. ເກມຍັງເປັນວິທີອົບອຸ່ນໃນການໃຊ້ເວລາຮ່ວມກັນ. ເລືອກມັນເພື່ອຄວາມສຸກ ແລະການຢູ່ນຳກັນ."
+  - q: "ຄວນຫຼິ້ນເກມ Concentration ແບບດັ້ງເດີມກັບຜູ້ທີ່ມີສະໝອງເສື່ອມບໍ?"
+    a: "ໃນໄລຍະຕົ້ນ ບາງຄົນຍັງເພີດເພີນກັບມັນ ໂດຍສະເພາະເມື່ອມີບັດຈຳນວນໜ້ອຍ. ຖ້າການຈື່ວ່າບັດຢູ່ໃສເລີ່ມເຮັດໃຫ້ອຸກອັ່ງ ໃຫ້ເປີດບັດຂຶ້ນແລ້ວຊອກຄູ່ນຳກັນ. ວິທີນີ້ຮັກສາການຈັບຄູ່ໄວ້ ແລະເອົາການທົດສອບຄວາມຈຳອອກ."
+  - q: "ມີເກມຄວາມຈຳໃດດີສຳລັບຜູ້ສູງອາຍຸໃນກຸ່ມບ້າງ?"
+    a: "ບິງໂກຮູບພາບທີ່ມີຜູ້ອ່ານໃນຈໍ ການຕໍ່ສຸພາສິດທີ່ຄຸ້ນເຄີຍອອກສຽງ ແລະບັດຊວນລົມ ລ້ວນໃຊ້ໄດ້ກັບກຸ່ມ. ຫຼິ້ນຈົນທຸກບັດເຕັມ ແລະຫຼີກລ່ຽງການປະກາດວ່າໃຜຕອບຖືກ ເພື່ອບໍ່ໃຫ້ໃຜຮູ້ສຶກຖືກແຍກອອກ."
+  - q: "ມີເກມຄວາມຈຳຟຣີສຳລັບຜູ້ສູງອາຍຸອອນລາຍບໍ?"
+    a: "ມີ. ເກມຢູ່ເວັບໄຊນີ້ ລວມທັງຈັບຄູ່ຮູບພາບ ຊອກຫາຮູບທີ່ຄືກັນ ຈັບຄູ່ຮູບຖ່າຍຄອບຄົວ ແລະເກມຕໍ່ຮູບ ແມ່ນຟຣີ ບໍ່ຕ້ອງລົງທະບຽນ ແລະໃຊ້ໄດ້ກັບໂທລະສັບ ແທັບເລັດ ແລະຄອມພິວເຕີ. ບໍ່ມີເກມໃດມີໂມງຈັບເວລາ ຫຼືຄະແນນ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+ຖ້າຄົ້ນຫາ “memory games for seniors” ສ່ວນໃຫຍ່ທີ່ພົບແມ່ນເຮັດເພື່ອຄົນທີ່ຢາກອອກກຳລັງສະໝອງ: ບັດທີ່ຊ່ອນ ໂມງນັບຖອຍຫຼັງ ລະດັບ ແລະຄະແນນ. ສຳລັບຜູ້ທີ່ມີສະໝອງເສື່ອມ ຄຸນສົມບັດເຫຼົ່ານີ້ເຮັດໃຫ້ເກມກາຍເປັນການທົດສອບສິ່ງທີ່ຍາກຂຶ້ນໃນຕອນນີ້. ເກມແບບດຽວກັນສາມາດຫຼິ້ນໄດ້ດ້ວຍວິທີທີ່ອ່ອນໂຍນກວ່າ. ໜ້ານີ້ອະທິບາຍວິທີນັ້ນ ແລະລາຍຊື່ເກມທີ່ເໝາະໃນແຕ່ລະໄລຍະ.
 
-## Why do classic memory games frustrate people with dementia?
+## ເປັນຫຍັງເກມຄວາມຈຳແບບດັ້ງເດີມຈຶ່ງເຮັດໃຫ້ຜູ້ທີ່ມີສະໝອງເສື່ອມອຸກອັ່ງ?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+ເພາະມັນຂຶ້ນກັບການຖືຂໍ້ມູນໃໝ່ໄວ້ໃນໃຈ ເຊິ່ງປົກກະຕິແມ່ນສິ່ງທຳອິດທີ່ໂຣກອັລໄຊເມີ ສາເຫດທົ່ວໄປທີ່ສຸດຂອງສະໝອງເສື່ອມ ມີຜົນກະທົບ. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) ກ່າວວ່າອາການໄລຍະຕົ້ນທີ່ພົບເລື້ອຍທີ່ສຸດຂອງໂຣກອັລໄຊເມີແມ່ນຄວາມຫຍຸ້ງຍາກໃນການຈຳຂໍ້ມູນທີ່ເພິ່ງຮຽນຮູ້. ໃນເກມ Concentration ແບບດັ້ງເດີມ ທ່ານພັບບັດສອງໃບ ຈື່ວ່າມັນຢູ່ໃສ ແລ້ວໃຊ້ຄວາມຈຳນັ້ນໜຶ່ງນາທີຕໍ່ມາ. ນັ້ນແມ່ນຂໍ້ມູນໃໝ່ທີ່ຖືໄວ້ແລ້ວນຶກຄືນ.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+ເພີ່ມໂມງຈັບເວລາ ຄະແນນ ຫຼືສຽງບອກເມື່ອຕອບຜິດ ແລ້ວຜູ້ນັ້ນຈະຖືກເຕືອນເຖິງສິ່ງທີ່ຕົນເຮັດບໍ່ໄດ້ ຕໍ່ໜ້າຄົນທີ່ຮັກ. ຫຼາຍຄົນຄ່ອຍໆເລີກຢາກຫຼິ້ນ.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+ການຈຳສິ່ງທີ່ເຫັນຢູ່ເປັນວຽກທີ່ແຕກຕ່າງ ແລະປົກກະຕິງ່າຍກວ່າ. ການຊີ້ໄປທີ່ຖ້ວຍຊາທີສອງເມື່ອທັງສອງໃບຢູ່ໃນສາຍຕາ ໃຫ້ຄວາມຮູ້ສຶກດີ. ສະນັ້ນເຄັດລັບແມ່ນຮັກສາການຈັບຄູ່ໄວ້ ແລະເອົາການທົດສອບຄວາມຈຳອອກ.
 
-## How do you make a memory game gentle?
+## ຈະເຮັດໃຫ້ເກມຄວາມຈຳອ່ອນໂຍນໄດ້ແນວໃດ?
 
-These adjustments work for card games, board games and games on a screen.
+ການປັບເຫຼົ່ານີ້ໃຊ້ໄດ້ກັບເກມບັດ ເກມກະດານ ແລະເກມເທິງໜ້າຈໍ.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **ໃຫ້ຮູບເປີດໄວ້.** ການຈັບຄູ່ຮູບທີ່ເຫັນຢູ່ຍັງເປັນເກມທີ່ແທ້ຈິງ ແລະມັກໃຫ້ຄວາມພໍໃຈ.
+2. **ໃຊ້ຊິ້ນໜ້ອຍລົງ.** ເລີ່ມດ້ວຍສອງຫາສາມຄູ່. ເພີ່ມພຽງເມື່ອຮູ້ສຶກງ່າຍເກີນໄປ ແລະເຂົາຢາກໄດ້ຫຼາຍກວ່າ.
+3. **ເລືອກຮູບໃຫຍ່ ຄຸ້ນເຄີຍ ແບບຜູ້ໃຫຍ່.** ຖ້ວຍຊາ ດອກທານຕະວັນ ເຮືອຢອດ. ບໍ່ແມ່ນກາຕູນ ແລະບໍ່ແມ່ນສາກທີ່ວຸ່ນວາຍ.
+4. **ຫຼິ້ນເປັນທີມ.** “ມາຊອກໝາກັນເທາະ” ແທນ “ເຖິງຕາເຈົ້າແລ້ວ”. ສະລັບກັນຊີ້ແລະຊ່ວຍ.
+5. **ເລີກນັບຄະແນນ.** ບໍ່ມີໃຜຕ້ອງຊະນະ. ຖ້າມີຄົນຖາມ ການບອກງ່າຍໆວ່າ “ພວກເຮົາເຮັດສຳເລັດແລ້ວ” ກໍພຽງພໍ.
+6. **ຢ່າແຂ່ງກັບເວລາ.** ບໍ່ມີໂມງຈັບເວລາ ແລະບໍ່ຕ້ອງຮີບລະຫວ່າງຕາ.
+7. **ລົມກ່ຽວກັບຮູບ.** “ເບິ່ງເຮືອນັ້ນ. ເຄີຍໄປແລ່ນເຮືອບໍ?” ການສົນທະນາມັກເປັນສ່ວນທີ່ດີທີ່ສຸດ.
+8. **ຢຸດໃນຈັງຫວະທີ່ດີ.** ຈົບຫຼັງຈາກຈັບຄູ່ໄດ້ ໃນຂະນະທີ່ຍັງຮູ້ສຶກສຸກໃຈ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ໃຫ້ແນວຄິດດຽວກັນເປັນຄຳແນະນຳທົ່ວໄປ: ເຮັດໃຫ້ກິດຈະກຳເໝາະກັບສິ່ງທີ່ຜູ້ນັ້ນເຮັດໄດ້ ສັງເກດຄວາມອຸກອັ່ງ ແລະໃຫ້ແນ່ໃຈວ່າເຂົາຮູ້ສຶກວ່າປະສົບຜົນສຳເລັດ.
 
-## Gentle memory and matching games to try
+## ເກມຄວາມຈຳ ແລະການຈັບຄູ່ອ່ອນໂຍນທີ່ຄວນລອງ
 
-### Picture pairs (matching with pictures showing)
+### ຈັບຄູ່ຮູບພາບ (ຈັບຄູ່ໂດຍເປີດຮູບໄວ້)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[ຈັບຄູ່ຮູບພາບ](/games/picture-pairs/) ເປັນເກມຈັບຄູ່ທີ່ມີຮູບໃຫຍ່ ແລະ 4 ຫາ 12 ຊິ້ນ. ຮູບສາມາດເຫັນໄດ້ຕະຫຼອດ ດັ່ງນັ້ນມັນເປັນເລື່ອງຂອງການຊອກຫາຄູ່ ບໍ່ແມ່ນການຈື່ວ່າມັນຢູ່ໃສ. ເລີ່ມດ້ວຍສີ່ຊິ້ນ. ສຳລັບຜູ້ທີ່ຢູ່ໄລຍະຕົ້ນ ແລະຢາກທ້າທາຍເລັກນ້ອຍ ທ່ານສາມາດປ່ຽນເປັນ **ຮູບທີ່ຊ່ອນ** ແຕ່ໃຫ້ກັບໄປສະແດງຮູບທັນທີທີ່ມັນເລີກສຸກໃຈ.
 
-### Find the same
+### ຊອກຫາຮູບທີ່ຄືກັນ
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[ຊອກຫາຮູບທີ່ຄືກັນ](/games/find-the-same/) ສະແດງຮູບໜຶ່ງທີ່ດ້ານເທິງ ແລະທາງເລືອກສອງຫາສີ່ຢ່າງດ້ານລຸ່ມ. ແຕະຮູບທີ່ກົງກັນ. ມັນເປັນເກມຈັບຄູ່ທີ່ງ່າຍທີ່ສຸດໃນເວັບນີ້ ແລະເໝາະກັບຜູ້ທີ່ເຫັນຕາຕະລາງເຕັມວຸ່ນວາຍເກີນໄປ ລວມທັງຫຼາຍຄົນໃນໄລຍະທ້າຍທີ່ມີຄົນນັ່ງຢູ່ຂ້າງໆ.
 
-### Photo pairs (family photo memory game)
+### ຈັບຄູ່ຮູບຖ່າຍຄອບຄົວ (ເກມຄວາມຈຳຈາກຮູບຄອບຄົວ)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[ຈັບຄູ່ຮູບພາບ](/games/photo-pairs/) ປ່ຽນຮູບທີ່ທ່ານເລືອກໃຫ້ເປັນເກມຈັບຄູ່: ໝາ ສວນ ເຮືອນຣິມທະເລສາບ. ໃບໜ້າ ແລະສະຖານທີ່ທີ່ຄຸ້ນເຄີຍມັກກະຕຸ້ນການສົນທະນາຫຼາຍກວ່າຮູບມາດຕະຖານໃດໆ. ຮູບຈະຢູ່ໃນບຣາວເຊີຂອງທ່ານ ແລະບໍ່ເຄີຍຖືກອັບໂຫຼດ.
 
-### Sort together
+### ຈັດໝວດໝູ່ນຳກັນ
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[ຈັດໝວດໝູ່ນຳກັນ](/games/sort-together/) ໃຫ້ທ່ານວາງແຕ່ລະຮູບໃສ່ກະຕ່າທີ່ມັນຢູ່ ເຊັ່ນຄົວ ຫຼືສວນ. ການຈັດໝວດໝູ່ໃຊ້ຄວາມຮູ້ທີ່ຖືໄວ້ດົນກ່ຽວກັບວິທີທີ່ໂລກເຮັດວຽກ ບໍ່ແມ່ນຄວາມຈຳໄລຍະສັ້ນ.
 
-### Picture puzzle
+### ເກມຕໍ່ຮູບ
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[ເກມຕໍ່ຮູບ](/games/picture-puzzle/) ຕັດຮູບເປັນ 4 ຫຼື 9 ຊິ້ນ. ແຕະສອງຊິ້ນເພື່ອສັບປ່ຽນກັນຈົນຮູບສົມບູນ. ຮູບທີ່ສຳເລັດຈະຢູ່ໃນໜ້າຈໍເປັນຄຳແນະນຳ.
 
-### Real cards on the table
+### ບັດຈິງເທິງໂຕະ
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+ທ່ານບໍ່ຈຳເປັນຕ້ອງມີໜ້າຈໍ. ດຶງຄູ່ທີ່ກົງກັນຈາກສອງຊຸດໄພ່ ຫຼືຊຸດບັດຮູບ. ວາງໃຫ້ເຫັນໜ້າເປີດເປັນສອງແຖວ ແລ້ວຊອກຫາຄູ່ນຳກັນ. ຕໍ່ມາ ຈັດຕາມສີ ຫຼືໝວດໃນແທນ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ລະບຸເກມໄພ່ ແລະເກມກະດານໄວ້ໃນບັນດາກິດຈະກຳສຳລັບໄລຍະຕົ້ນ.
 
-## Which memory games suit each stage?
+## ເກມຄວາມຈຳໃດເໝາະກັບແຕ່ລະໄລຍະ?
 
-Stages are loose labels. Go by what the person enjoys today.
+ໄລຍະເປັນປ້າຍກວ້າງໆ ໃຫ້ເບິ່ງຕາມສິ່ງທີ່ຜູ້ນັ້ນເພີດເພີນໃນມື້ນີ້.
 
-| Stage | Games that often fit | How to set them up |
+| ໄລຍະ | ເກມທີ່ມັກເໝາະ | ວິທີຕັ້ງຄ່າ |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| ຕົ້ນ | ຈັບຄູ່ຮູບພາບ ຈັບຄູ່ຮູບຖ່າຍຄອບຄົວ ເກມຕໍ່ຮູບ 9 ຊິ້ນ ເກມໄພ່ທີ່ຄຸ້ນເຄີຍ | ໃຫ້ເຂົາເລືອກ. ບັດອາດພັບຄືນໄດ້ຖ້າເຂົາເພີດເພີນ; ເລີກນັບຄະແນນຖ້າມັນລົບກວນ |
+| ກາງ | ຈັບຄູ່ຮູບພາບ 4 ຫາ 6 ຊິ້ນທີ່ເປີດໄວ້ ຊອກຫາຮູບທີ່ຄືກັນ ຈັດໝວດໝູ່ນຳກັນ | ຮູບເຫັນໄດ້ຕະຫຼອດ. ນັ່ງຂ້າງເຂົາ ແລະສະລັບກັນຊ່ວຍ |
+| ທ້າຍ | ຊອກຫາຮູບທີ່ຄືກັນທີ່ມີສອງທາງເລືອກ ເບິ່ງຮູບໃຫຍ່ໜຶ່ງຮູບນຳກັນ | ສັ້ນຫຼາຍ. ທ່ານຖືແທັບເລັດ ເຂົາຊີ້ ຫຼືພຽງແຕ່ເບິ່ງແລະຟັງ |
 
-## Do memory games help with dementia?
+## ເກມຄວາມຈຳຊ່ວຍສະໝອງເສື່ອມໄດ້ບໍ?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+ບໍ່ມີເກມຄວາມຈຳໃດທີ່ຖືກພິສູດວ່າປິ່ນປົວ ຊ້າລົງ ຫຼືຢຸດສະໝອງເສື່ອມໄດ້. [ການທົບທວນ Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) ກ່ຽວກັບການຝຶກສະໝອງດ້ວຍຄອມພິວເຕີສຳລັບຜູ້ທີ່ມີການເສື່ອມຂອງສະໝອງເລັກນ້ອຍ ພົບວ່າຫຼັກຖານຈຳກັດເກີນໄປທີ່ຈະບອກວ່າມັນປ້ອງກັນສະໝອງເສື່ອມໄດ້ຫຼືບໍ່. ຄູ່ມື [ເກມຝຶກສະໝອງ ແລະສະໝອງເສື່ອມ](/brain-health/brain-games/) ຂອງພວກເຮົາອະທິບາຍວ່າການສຶກສາສະແດງຫຍັງ ແລະບໍ່ສະແດງຫຍັງ.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+ນັ້ນບໍ່ແມ່ນເຫດຜົນທີ່ຈະຂ້າມເກມ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ແນະນຳໃຫ້ເນັ້ນຄວາມສຸກ ບໍ່ແມ່ນຜົນສຳເລັດ. ສິບນາທີຂອງການຈັບຄູ່ຮູບ ແລະການລົມກ່ຽວກັບຮູບ ອາດເປັນສ່ວນທີ່ດີແທ້ໆຂອງມື້.
 
-## What about memory games for seniors without dementia?
+## ແລ້ວເກມຄວາມຈຳສຳລັບຜູ້ສູງອາຍຸທີ່ບໍ່ມີສະໝອງເສື່ອມເປັນແນວໃດ?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+ຖ້າຜູ້ໃຫຍ່ສູງອາຍຸທີ່ບໍ່ມີບັນຫາຄວາມຈຳເພີດເພີນກັບປິດສະໜາທີ່ຈັບເວລາ ຄະແນນ ແລະລະດັບທີ່ຍາກຂຶ້ນ ກໍບໍ່ມີຫຍັງຜິດ. ພຽງແຕ່ຢ່າຄາດຫວັງວ່າມັນຈະປ້ອງກັນສະໝອງເສື່ອມ ເພາະບໍ່ມີເກມໃດທີ່ຖືກພິສູດວ່າເຮັດໄດ້. ເວີຊັນອ່ອນໂຍນທີ່ກ່າວມາຂ້າງເທິງກໍເໝາະເມື່ອຫຼາຍລຸ້ນຄົນຫຼິ້ນນຳກັນ: ປູ່ຍ່າຕາຍາຍທີ່ມີສະໝອງເສື່ອມ ແລະຫຼານນ້ອຍສາມາດຈັບຄູ່ຮູບເປັນທີມ ໂດຍບໍ່ມີໃຜຖືກທົດສອບ.
 
-## When should you stop or change the game?
+## ເມື່ອໃດຄວນຢຸດ ຫຼືປ່ຽນເກມ?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+ການຖອນຫາຍໃຈ ການຜັກແທັບເລັດອອກ ການເວົ້າວ່າ “ຂ້ອຍເຮັດບໍ່ໄດ້” ຫຼືເບິ່ງກັງວົນ ລ້ວນເປັນສັນຍານໃຫ້ເຮັດໃຫ້ງ່າຍຂຶ້ນ ຫຼືຢຸດ. ລອງຊິ້ນໜ້ອຍລົງ ເປີດຮູບໄວ້ ປ່ຽນໄປ [ຊອກຫາຮູບທີ່ຄືກັນ](/games/find-the-same/) ຫຼືພຽງແຕ່ເບິ່ງຮູບ ແລະລົມກັນ. ຖ້າເຂົາບໍ່ຢາກຫຼິ້ນເລີຍ ກໍບໍ່ເປັນຫຍັງ. ຄູ່ມື [ວິທີຫຼິ້ນນຳກັນ](/caregiving/how-to-play-together/) ຂອງພວກເຮົາມີເພີ່ມເຕີມກ່ຽວກັບຈັງຫວະ ແລະການຊ່ວຍເຫຼືອ.
