@@ -145,7 +145,7 @@ Sagatavojiet vienkāršu rezerves plānu jau tagad. NIA iesaka vienoties ar ģim
 
 Runājiet ar savu ārstu, ja stresa pazīmes ir regulāras, ja jūtaties nomākts vai ja jums ir grūtības tikt galā. Pastāstiet ārstam, ka esat aprūpētājs. NIA norāda, ka konsultanti un sociālie darbinieki var palīdzēt ar grūtām sajūtām un plānošanu, un ka Medicare, Medicaid un dažas privātās apdrošināšanas programmas var segt dažas garīgās veselības izmaksas.
 
-Ja jūtaties krīzē vai domājat par sevis kaitēšanu, zvaniet vai rakstiet īsziņu uz 988, lai sazinātos ar [988 Suicide & Crisis Lifeline](https://988lifeline.org/), kas ir bezmaksas un pieejama visu diennakti. Ja kādam ir tūlītējas briesmas, zvaniet vietējos neatliekamās palīdzības dienestos.
+Ja jūtaties krīzē vai domājat par sevis kaitēšanu, zvaniet vai rakstiet īsziņu uz 988, lai sazinātos ar [988 Suicide & Crisis Lifeline](https://988lifeline.org/), kas ir bezmaksas un pieejama 24/7. Ja kādam ir tūlītējas briesmas, zvaniet vietējos neatliekamās palīdzības dienestos.
 
 ## Vai kopīgas aktivitātes var dot atpūtu arī man?
 
