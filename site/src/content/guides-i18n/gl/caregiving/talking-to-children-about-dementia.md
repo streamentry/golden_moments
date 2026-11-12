@@ -1,7 +1,7 @@
 ---
 title: "Falar cos nenos sobre a demencia"
 seoTitle: "Como falar cos nenos sobre a demencia"
-description: "Explique a demencia a un neno con respostas honestas e adaptadas á idade. Protexa as súas rutinas e intimidade, acepte as preguntas e deixe o coidado en mans adultas."
+description: "Explique a demencia a un neno con respostas honestas e adaptadas á idade. Protexa as súas rutinas, acepte as preguntas e deixe o coidado en mans adultas."
 section: caregiving
 order: 29
 updated: 2026-11-11

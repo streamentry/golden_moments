@@ -1,7 +1,7 @@
 ---
 title: "Coidado da boca para alguén con demencia"
 seoTitle: "Coidado dental para alguén con demencia"
-description: "Axude a alguén con demencia a manter unha rutina coñecida de coidado bucal, con indicacións sinxelas, permiso e apoio do dentista para dor, dentaduras ou problemas novos."
+description: "Axude a alguén con demencia a manter unha rutina coñecida de coidado bucal, con indicacións sinxelas e apoio do dentista para dor, dentaduras ou problemas novos."
 section: caregiving
 order: 16
 updated: 2026-11-11

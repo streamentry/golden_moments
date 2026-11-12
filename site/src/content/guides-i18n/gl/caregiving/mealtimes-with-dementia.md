@@ -1,7 +1,7 @@
 ---
 title: "Facer máis fácil a hora da comida para alguén con demencia"
 seoTitle: "Comidas máis tranquilas para alguén con demencia"
-description: "Formas prácticas de facer as comidas máis tranquilas para alguén con demencia: comida coñecida, menos distraccións, mesa clara, tempo suficiente e espazo para a autonomía."
+description: "Formas prácticas de facer as comidas máis tranquilas para alguén con demencia: comida coñecida, menos distraccións, mesa clara, tempo e espazo para a autonomía."
 section: caregiving
 order: 13
 updated: 2026-11-11

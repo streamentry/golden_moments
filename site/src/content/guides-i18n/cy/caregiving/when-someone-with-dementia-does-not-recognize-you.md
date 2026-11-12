@@ -1,7 +1,7 @@
 ---
 title: "Pan Nad yw Rhywun â Dementia’n Eich Adnabod"
 seoTitle: "Dementia: Beth i’w Ddweud Pan Nad yw Rhywun yn Eich Adnabod"
-description: "Os nad yw rhywun â dementia’n eich adnabod, cyflwynwch eich hun yn dawel, osgowch brofion cof, cynigiwch gliwiau cyfarwydd os ydynt yn croesawu a cheisiwch help am newidiadau sydyn."
+description: "Os nad yw rhywun â dementia’n eich adnabod, cyflwynwch eich hun yn dawel, osgowch brofion cof, a chynigiwch gliw cyfarwydd dim ond os yw’n croesawu."
 section: caregiving
 order: 32
 updated: 2026-11-11

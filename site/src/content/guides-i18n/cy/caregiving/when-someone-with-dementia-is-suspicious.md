@@ -58,7 +58,7 @@ Ymatebwch i’r pryder heb gytuno â rhywbeth nad ydych yn gwybod sy’n wir. Ga
 - **Cynigiwch help ymarferol.** Os yw’r unigolyn eisiau, edrychwch mewn mannau cyfarwydd gyda’ch gilydd neu holwch a fyddai’n hoffi i rywun arall helpu.
 - **Stopiwch os yw’r gofid yn codi.** Rhowch ychydig o le i’r unigolyn a dychwelwch at y pryder yn nes ymlaen os yw’n ddiogel gwneud hynny.
 
-Gall yr cyhuddiad deimlo’n bersonol. Ceisiwch wahanu ofn yr unigolyn oddi wrth yr hyn sy’n hysbys am y digwyddiad. Nid oes rhaid i chi dderbyn bai am rywbeth nad ydych wedi’i wneud, ac nid oes rhaid i chi ddatrys pob anghytundeb yn y foment honno.
+Gall y cyhuddiad deimlo’n bersonol. Ceisiwch wahanu ofn yr unigolyn oddi wrth yr hyn sy’n hysbys am y digwyddiad. Nid oes rhaid i chi dderbyn bai am rywbeth nad ydych wedi’i wneud, ac nid oes rhaid i chi ddatrys pob anghytundeb yn y foment honno.
 
 ## A allai’r pryder fod yn ymwneud ag eitem go iawn ar goll?
 
@@ -80,7 +80,7 @@ Gwnewch yn siŵr bod yr unigolyn yn gallu gweld a chlywed mor gyfforddus â phos
 
 ## Pryd dylwn geisio help meddygol neu help y tu allan?
 
-Dywedwch wrth glinigydd yr unigolyn os yw amheuaeth yn newydd, yn cynyddu neu’n peri gofid. Nodwch pryd mae’n digwydd, beth oedd yn digwydd a ph’un a newidiodd unrhyw beth yn iechyd, trefn, amgylchedd neu feddyginiaethau’r unigolyn. Peidiwch â dechrau, stopio na newid meddyginiaeth yn seiliedig ar erthygl gyffredinol.
+Dywedwch wrth glinigydd yr unigolyn os yw amheuaeth yn newydd, yn cynyddu neu’n peri gofid. Nodwch pryd mae’n digwydd, beth oedd yn digwydd a ph’un a newidiodd unrhyw beth yn iechyd, trefn, amgylchedd neu feddyginiaethau’r unigolyn. Peidiwch â dechrau, rhoi’r gorau i na newid meddyginiaeth yn seiliedig ar erthygl gyffredinol.
 
 Mae dryswch sydyn neu newid sydyn mewn ymddygiad neu iechyd angen sylw meddygol brys. Mae [canllaw GIG ar ddryswch sydyn](https://www.nhs.uk/symptoms/confusion/) yn dweud i gael help meddygol ar unwaith. Defnyddiwch y system frys neu’r gwasanaeth gofal brys lleol lle mae’r unigolyn yn byw.
 
