@@ -1,7 +1,7 @@
 ---
 title: "Yeroo Namichi Dementia Qabu Si Hin Beekne"
 seoTitle: "Dementia: Yeroo Namichi Si Hin Beekne Maal Jedhuu"
-description: "Namichi dementia qabu yoo si hin beekne, of-ibsi nageenyaan, qormaata yaadannoo hin godhin, mallattoo beekamaa barbaachisu yoo fayyadamu, fi jijjiirama saffisaa irratti gargaarsa barbaadi."
+description: "Namichi dementia qabu yoo si hin beekne, nageenyaan of-ibsi, qormaata hin kennin, mallattoo beekamaa fayyadami, fi jijjiirama saffisaa irratti gargaarsa barbaadi."
 section: caregiving
 order: 32
 updated: 2026-11-11

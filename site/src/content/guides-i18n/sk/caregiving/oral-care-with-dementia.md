@@ -1,7 +1,7 @@
 ---
 title: "Starostlivosť o ústnu dutinu u človeka s demenciou"
 seoTitle: "Starostlivosť o zuby pri demencii"
-description: "Pomôžte človeku s demenciou udržiavať známu rutinu starostlivosti o ústa jednoduchými pokynmi, súhlasom a podporou zubára pri bolesti, zubnej protéze alebo nových ťažkostiach."
+description: "Pomôžte človeku s demenciou udržať známu rutinu starostlivosti o ústa jednoduchými pokynmi, súhlasom a radou zubára pri bolesti či zubnej protéze."
 section: caregiving
 order: 16
 updated: 2026-11-11

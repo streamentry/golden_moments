@@ -1,14 +1,14 @@
 ---
 title: "Starostlivosť o zvieratá a demencia: podpora spoločnej rutiny"
 seoTitle: "Podpora starostlivosti o zviera pre človeka s demenciou"
-description: "Pomôžte človeku s demenciou udržať rutinu starostlivosti o zviera pomocou pripomienok, dohodnutej pomoci a záložných plánov, ktoré rešpektujú jeho voľby a potreby zvieraťa."
+description: "Pomôžte človeku s demenciou udržať rutinu starostlivosti o zviera pomocou pripomienok, dohodnutej pomoci a záložného plánu, ktorý rešpektuje jeho voľby."
 section: caregiving
 order: 15
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
   Ak je zviera pre človeka žijúceho s demenciou dôležité, dohodnite sa, ktoré
-  úlohy chce ďalej robiť, spojte ich s known rutinami a určite konkrétnu záložnú
+  úlohy chce ďalej robiť, spojte ich so známymi rutinami a určite konkrétnu záložnú
   pomoc. Plánujte zmeny vopred, pričom človek zostáva zapojený a potreby zvieraťa
   máte na zreteli.
 keyPoints:
@@ -20,7 +20,7 @@ faq:
   - q: "Mám prevziať starostlivosť o zviera človeka automaticky?"
     a: "Nie automaticky. Opýtajte sa, ktoré úlohy chce človek ďalej robiť a kde by pomoc bola vítaná. Dohodnite sa na jednej konkrétnej zmene naraz a stále kontrolujte, či to vyhovuje človeku aj zvieraťu."
   - q: "Ako môžeme pomôcť človeku pamätať si úlohy okolo zvieraťa?"
-    a: "Spojte úlohu s known rutinou, napríklad s kontrolou krmiva po raňajkách, a použite jednoduchú pripomienku na mieste, ktoré človek vidí. Spoločne sa dohodnite, kto zasiahne, ak sa úloha vynechá."
+    a: "Spojte úlohu so známou rutinou, napríklad s kontrolou krmiva po raňajkách, a použite jednoduchú pripomienku na mieste, ktoré človek vidí. Spoločne sa dohodnite, kto zasiahne, ak sa úloha vynechá."
   - q: "Čo ak sa starostlivosť o zviera stáva ťažkou?"
     a: "Hľadajte konkrétne zmeny, napríklad vynechané kŕmenie, únavné venčenie alebo zmenu správania zvieraťa. Porozprávajte sa s človekom a jeho veterinárom a potom zabezpečte praktickú pomoc, ktorá zodpovedá jeho želaniam."
   - q: "Mali by sme plánovať budúcu starostlivosť o zviera?"

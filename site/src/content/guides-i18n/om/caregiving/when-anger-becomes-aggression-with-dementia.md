@@ -1,7 +1,7 @@
 ---
 title: "Namichi Dementia Qabu Yeroo Aaraa Yookaan Ariifannaa Agarsiisu"
 seoTitle: "Ariifannaa Dementia Keessatti Deebii Nageenyaa"
-description: "Aaraan ariifannaa yeroo dementia keessatti ta'u akkamitti nageenyaan deebisuu akka dandeessan, maal isa sababa ta'uu danda'u fi yeroo gargaarsa fayyaa ykn hatattamaa barbaaddan beekaa."
+description: "Aaraan ariifannaa dementia keessatti yeroo ta'u akkamitti nageenyaan deebisuu, maal sababa ta'uu danda'u fi yeroo gargaarsa fayyaa barbaaddan beekaa."
 section: caregiving
 order: 37
 updated: 2026-11-11
