@@ -1,7 +1,7 @@
 ---
 title: "Mendampingi Orang dengan Demensia yang Tinggal Sendiri"
 seoTitle: "Tinggal Sendiri dengan Demensia: Dukungan untuk Keluarga"
-description: "Dampingi orang dengan demensia yang tinggal sendiri dengan rutinitas yang stabil, pengecekan yang disepakati, dan bantuan praktis, sambil menjaga keinginan dan kemandiriannya."
+description: "Dampingi orang dengan demensia yang tinggal sendiri lewat rutinitas stabil, pengecekan yang disepakati, dan bantuan praktis, dengan menghormati keinginannya."
 section: caregiving
 order: 12
 updated: 2026-11-11
