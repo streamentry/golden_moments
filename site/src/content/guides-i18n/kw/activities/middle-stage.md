@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Oberow rag Kov-Dementia yn Kres"
+seoTitle: "Oberow Kov-Dementia yn Kres: Synsys Sempel"
+description: "Oberow sempel rag kov-dementia yn kres: oberow dhe les, ilow, skeusennow ha gwariow es, gans kemmer-kammow ha fordhow dhe dreylya dises yn neppyth dhe wul."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Yn kres kov-dementia, an oberow gwella yw berr, aswonys ha terrys yn kammow
+  unnsel: plyga dilhas gwaskys, sortya stockys, golghi lestri, kanarya,
+  kerdhes gans ledya, albommys skeusennow ha gwariow skeusen sempel. Dewis
+  an taklow, diskouez an kamm kynsa, kemmer an rann calessa war dha benn ha ri
+  pal dhe'n ober. Powes pan na vo da na moy.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Oberow tre aswonys a ober yn ta an moyha rag bos usadow ha gans par vuxen."
+  - "Diskouez yn le a leverel, ri unn kamm war unnweyth, ha ri dew dhewis sempel yn le a govynnow ygor."
+  - "Kemmer an rann gales war dha benn may hallo an den gul an rann lowen."
+  - "Dises a-lurv yw menystra bos edhomm dhe'n den neppyth dhe wul. Ri ober a omdhes dhe'n fians yn le a leverel na."
+  - "Mirowes, gweres nebes, po powes yn gynnar yw pup-tra yn tevri."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Py oberow yw da rag kov-dementia yn kres?"
+    a: "Oberow berr, aswonys ha dre dhorn yw an gwella dre vras: plyga peulennow, paru stockys, golghi lestri, gorra an voos dhe'n bord, kanarya war hwarvosow ker, kerdhes gans ledya, mires orth albommys skeusennow ha gwariow skeusen sempel. Tros an kammow pup-ober yn unn kamm war unnweyth ha gul warbarth."
+  - q: "Fatel y hallav vy ri dalleth ober dhe nebonan gans kov-dementia?"
+    a: "Gorra pup-tra yn barth, ena dalleth an ober dha honan ha gelwel orto dhe weres: 'A alses gul gweres dhymm gans an peulennow ma?' Lies den a vynn kemeres rann mes a gavo caletter dalleth. Diskouez an kamm kynsa a ober gwell ages y styrya."
+  - q: "Pandr'a wra vy pan wra nebonan gul an keth tra dres ha dres arta?"
+    a: "Nyns yw daswul marthys ha martesen yth yw sin bos edhomm dhe'n den bos serrys po res assurans dhodho. Yn le a gorrectya, ri ober a omdhes dhe'n fians, kepar ha baskad a lienow golghi dhe blyga po kan a-berth."
+  - q: "Pandr'a wra vy mar kwra nebonan an ober yn kamm?"
+    a: "Mar ny wra dhamp drouk, gas dhodho y vos. Ny vern mar yw peulennow plygys yn dyffrans po mar yma lymyers yn le kamm. Gorrectya a alsa bos kepar ha kampolya, ha gul an ober y fordh y honan a yll ri dhodho chons omglewes capable ha usadow."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+An kres kov-dementia yw an gwella hirra yn lies kas, hag ytho yw an term pan yw edhomm a gevrennans gwirion dhe oberow. Geryow a dheu yn lessa esker, kammow a dheu warbarth, ha dalleth neb tra a alsa bos kales. Byttegyns, an hwans dhe vos usadow ha kemeres rann a drig yn fenowgh. Gans nebes pareusi, an den yn kres kov-dementia a yll hwath have lowender yn feur, yn arbennik gans oberow aswonys, ilow ha skeusennow a-berth genev.
 
-## What activities work well in middle-stage dementia?
+## Py oberow yw da yn kres kov-dementia?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Oberow berr, aswonys ha dre dhorn, terrys yn kammow unnsel, yw an gwella. Yn kerensa an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage), ny vo edhomm a hwruthul taklow nowydh dhe wul: oberow a yll bos rann a vewnans gewer, kepar ha gul boes warbarth, owth oberi yn lowarth, gosleva ilow po kerdhes.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+An [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a notennsa bos edhomm crev dhe dus yn an kres nivel ma dhe omglewes palyus po dhe witha neppyth, ha bos edhomm a weres orto dalleth po pesya oberow. Yn aga rol rag kres nivel yma plyga dilhas gwaskys, golghi lestri, sortya stockys, esercis es, donsya war ilow aswonys, kerdhes gans ledya, kanow warbarth, liwya sempel ha mires der albommys skeusennow.
 
-## How do you set up an activity so it works?
+## Fatel y parussir ober may hwrallo yn ta?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Yn lies kas, yth yw an pareusi neb a wra ober sewya po fyllel. An aberyow ma, kemerys dhiworth an [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ha'n [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), a wra an differensya moyha:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Klerhe an spas.** Diank an delevisi, degea an daras ha gasa yn-mes hepken an taklow a dhevyn dhe'n ober.
+2. **Dalleth an ober dha honan.** Dalleth plyga po strolya ha gelwel orto dhe weres: "A alses gul gweres dhymm gans an taklow ma?"
+3. **Diskouez, ena gortos.** Diskouez unn kamm. Poynt po lywya gans dha leuv, rag ensampel diskwedhes ple y mos an pleg.
+4. **Ri unn kamm war unnweyth.** "Plyga y hanter" yw esages ages "Plyga an re ma hag ystyn aga yn aray orth liw."
+5. **Ri dew dhewis, nyns yw govyn ygor.** "An peulennow glas po an re gwynn?" yw esages ages "Pandr'a vynnses gul?"
+6. **Gwul an rann gales dha honan.** Ty a vussyri, ev/hi a strolya. Ty a wra tremena an neydl, ev/hi a wra thredya an gwlan.
+7. **Ri pal dhodho.** "An lien bwrdd ma yw rag dyner dy Sul" a wra an ober omglewes gwir.
+8. **Gas dhodho mires mar kar.** Yn kerensa an [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), miras hep gweres a yll bos lowen ynwedh.
 
-## Activity ideas for the middle stage
+## Synsys ober rag an kres nivel
 
-### Useful jobs
+### Oberow dhe les
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Plyga peulennow ha lienow golghi.** Taklow byghan ha plat yw an esha. Baskad a lienow golghi tomm a yll bos plygys, smoodhys ha plygys arta.
+- **Paru stockys.** Dalleth gans nebes parow dyffrans yn feur. Sortya orth liw yn unnik yw yn tevri ynwedh.
+- **Golghi po sygha lestri na yll terri.** Dowr tomm ha sebon yw plesenus war an dornow. Sygha esedhek a wra bos esages war an garrow.
+- **Gorra an voos dhe'n bord.** Ri unn eghenn a daklow war unnweyth, ha gorra unn le dha honan rag model.
+- **Gweres gans dyner.** Golghi avalow dor, terri letus po strolya yn polter. Ty a wra handla kollellow ha tommder.
+- **Skubla, lynkya po syghlinya.** Lien rag an voos, skubel skav rag an porch.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Gwel [oberow tre](/activities/household-tasks/) rag moy.
 
-### Music and movement
+### Ilow ha fians
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Kana war hwarvosow ker.** Dalleth kana dha honan; lies den a gesydh war ganow a wodhyon yns dhiworth blydhynnyow a-varr. Gwel [oberow ilowek](/activities/music/).
+- **Donsya yn rydh.** Gwaya, clempya po fiansa kepar dell yw da gans an den. Esedhek yw yn tevri ynwedh.
+- **Tewlel balon.** Ev a waya yn lent ha yw es y dhal dhyworth chayr.
+- **Kerdhes gans ledya.** Kerdhes kewr berr aswonys warbarth, yn bregh yn pregh mar yw edhomm.
 
-### Pictures and stories
+### Skeusennow ha hwedhlow
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Mires der albom skeusennow.** Kavos kampolya orth an pyth a welir yn le a govynnow: "Mires orth an karr na. Deriv dhymm a-dro dhodho." Gwel [oberow kavoes kov](/activities/reminiscence/).
+- **Devnydh kardennow keskows.** [Kardennow keskows](/games/conversation-cards/) a bar an skeusen gans govyn heb govyn-gi.
+- **Mires orth film koth warbarth.** Dewis onan aswonys, gortos yn ogas ha powes rag terryow.
 
-### Simple, pressure-free games
+### Gwariow sempel heb wask
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Parys skeusennow gans skeusennow ow sevya.** [Parys skeusennow](/games/picture-pairs/) a gas an skeusennow ow sevya, ytho yth yw a-dro dhe notya, nyns yw a-dro dhe gavoes kov.
+- **Kavos an keth tra.** [Kavos an keth tra](/games/find-the-same/) a dhiskouez unn skeusen ha hepken dew po peswar dhewis.
+- **Sortya warbarth.** [Sortya warbarth](/games/sort-together/) yw kepar ha sortya dilhas war an skrin: tapya skeusen, ena y vaskad.
+- **Bingo skeusennow.** [Bingo skeusennow](/games/picture-bingo/) a ober yn ta rag kuntellyow teylu ha bagasow.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Mar dhell dhe wul an gwaribarth trobel, powes ha gul neppyth aral. Gwel [fatel dhe wari warbarth](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Treylya dises yn ober
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Dises po fians daswul a alsa bos gans acheson. An Family Caregiver Alliance a notennsa y hallo nebonan ow kwytya kist a glos bos owth assaya omglewes serrys ha produkyv. An Alzheimer's Association a prof orth treylya aga nerth dhe ober a omdhes yn le a lettya.
 
-| What you see | Something to offer |
+| An pyth a welir | Neppyth dhe brofi |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Skubla po diblasa orth voos | Lien glyb ha govynn gul gweres orth syghlinya an voos |
+| Troos dises po tapya | Ilow gans tempo kler dhe tapya po clempya warbarth |
+| Gwaghe kistow po kestyll | Baskad a dhilhas po lienow golghi dhe blyga ha sortya |
+| Govyn an keth govyn arta | Assurans, ena kan po ober warbarth |
+| Kerdhes yn-dro | Kerdhes warbarth, po ober a syns kerryas taklow |
+| Dises yn diwedh an dohajydh | Ober calm ha aswonys yn golow da; gwel [dises yn diwedh an dohajydh](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Pan dhe berrhe po chanjya fordh
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Powe pan weles sinow a skwithder, trobel, meth po skolk, kepar ha fiansa, frounya, herdhya taklow dhe-ves po leverel "Ny yllav". Yn kerensa an Alzheimer's Association, assay arta orth term dyffrans po gwul an ober semplages. Na alhwedha y wul. Gorfyans a alsa dos dhiworth own po dhiworth bos an ober re gales; gwel [pan lever irr na](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Powes yn gynnar yw yn tevri. Ynwedh esedha warbarth gans paner a de yw yn tevri. Pan wra galloesow chanjya pell, an synsys yn [oberow rag kres diwettha](/activities/late-stage/) a alsa omdhes gwell, ha [101 ober](/activities/ideas/) a re moy dhis dhe assay.

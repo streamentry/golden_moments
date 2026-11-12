@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "کیاہ دماغی گیمہٕ ڈیمینشیا ہیکن رُکٲوِتھ؟ ثبوت"
+seoTitle: "دماغی گیمہٕ تہٕ ڈیمینشیا: ثبوت کیاہ چھُ ونان"
+description: "تحقیٖق دماغی گیمَن تہٕ ڈیمینشیا مُتعلِق کیاہ چھے ونان: کوگنیٹِو سٹِمیولیشن، کمپیوٹر برین ٹریننگ، ACTIVE ٹرائل تہٕ FTC Lumosity معاملہٕ، سادہ لفظن مَنٛز۔"
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  کانٛہہ تہِ دماغی گیم چھے نہ ثابت گٔمٕژ یۄس ڈیمینشیا ہیکہِ رُکٲوِتھ۔ کمپیوٹر
+  برین ٹریننگ سٟتؠ چھِ لُکھ زیادہ تر تِمنٕے کامین مَنٛز بہتر گژھان یِمن ہُنٛد
+  تہِ مشق کران چھِ۔ ACTIVE ٹرائل ہُنٛد اکھ مطالعہٕ اوس اکھ خاص سِپیڈ ٹریننگ
+  تہٕ بوسٹر سیشنن سٟتؠ 20 ؤرِین مَنٛز کم ڈیمینشیا تشخیصن سٟتؠ جُڈِتھ، یُس اکھ
+  محدود نٔتیجہٕ اوس۔ تِمن لُکن خٲطرٕ یِم وۄنؠ ڈیمینشیا سٟتؠ زندگی چھِ گزاران،
+  گروپ کوگنیٹِو سٹِمیولیشن چھِ لۄکُٹ، کم وقتی فٲیدٕ ہاوان۔ گیمہٕ چھِ مزٕ تہٕ
+  سٟتھ خٲطرٕ بہترین۔
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "برین ٹریننگ مطالعن مَنٛز چھِ لُکھ تِمنٕے کامین مَنٛز بہتر گژھان یِمن ہُنٛد تہِ مشق کران چھِ، مگر روزمرٕ زندگی ہَس مَنٛز اَمِک فٲیدٕ گژھنُک ثبوت چھُ کم۔"
+  - "ACTIVE ٹرائل مَنٛز یِم لُکن اکھ خاص سِپیڈ ٹریننگ تہٕ بوسٹر سیشن کٔرِ، تِمن اوس 20 ؤرِین مَنٛز ڈیمینشیا ہُنٛد تشخیص کم۔ بوسٹر بغیر سِپیڈ ٹریننگ، میموری تہٕ ریزننگ ٹریننگَن ہٲوِ نہ یِہ۔"
+  - "2016 مَنٛز دِیُت Lumosity بَناون والین $2 ملین FTC الزامَن ہُنٛد تصفیہٕ کرنہٕ خٲطرٕ زِ تِمن نِشہِ ڈیمینشیا رُکاونہٕچہِ دَعویٰ خٲطرٕ سائنس چھے نہ موجود۔"
+  - "ہلکہٕ پیٹھہٕ درمیانہٕ ڈیمینشیا والین لُکن خٲطرٕ چھِ کوگنیٹِو سٹِمیولیشن گروپن مَنٛز سوچنہٕ خٲطرٕ لۄکُٹ، کم وقتی فٲیدٕ تہٕ بات چیت تہٕ سماجی میل جول خٲطرٕ واضح فٲیدٕ۔"
+  - "Golden Moments گیمہٕ چھِ مزٕ تہٕ اکھ أکِس سٟتؠ وقت گزارنہٕ خٲطرٕ۔ یِم چھِ نہ کانٛہہ علاج تہٕ نہ چھِ ڈیمینشیا رُکاوان یا آہستہٕ کران۔"
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "کیاہ دماغی گیمہٕ چھا الزائمر ہیکان رُکٲوِتھ؟"
+    a: "کانٛہہ تہِ دماغی گیم چھُ نہ ثابت گومُت زِ سُہ چھُ الزائمر یا بدل ڈیمینشیا رُکاوان۔ National Institute on Aging چھُ ونان زِ اِتھ بارس مَنٛز چھے نہ واریاہ ثبوت زِ تجارتی برین ٹریننگ ایپس مَنٛز تِم اثرات آسن یِم تحقیقی ٹرائلن مَنٛز آے نظر۔ گیمہٕ ہیکن تَتھ پابرجود وقت گزارنُک اکھ خۄشگوار طریقہٕ ٲسِتھ۔"
+  - q: "ACTIVE ٹرائلَن سِپیڈ ٹریننگ تہٕ ڈیمینشیا مُتعلِق کیاہ لوب؟"
+    a: "2026 ہُنٛد اکھ تجزیہٕ کٔر ACTIVE شرکٔت کرن والؠ 20 ؤرِین خٲطرٕ Medicare ریکارڈن سٟتؠ جُڈِتھ۔ یِم لُکن سِپیڈ آف پروسیسنگ ٹریننگ تہٕ کم از کم اکھ بوسٹر سیشن کوٚر، تِمن مَنٛز اوس بغیر ٹریننگ گروپہٕ کھوتہٕ کم ڈیمینشیا تشخیصن ہُنٛد شرح۔ بوسٹر بغیر سِپیڈ ٹریننگ، تہٕ میموری یا ریزننگ ٹریننگَن ہٲوِ نہ کانٛہہ واضح اثر۔"
+  - q: "کیاہ پہیلی تہٕ گیمہٕ چھا تِمن لُکن خٲطرٕ ٹھیک یِمن وۄنؠ ڈیمینشیا چھُ؟"
+    a: "آ، اگر تس نفرس یِم پسند آسن۔ گروپ کوگنیٹِو سٹِمیولیشن، یتھ مَنٛز لفظی گیمہٕ، پہیلی، موسیقی تہٕ بات چیت شامل چھِ، چھِ سوچنہٕ خٲطرٕ لۄکُٹ کم وقتی فٲیدٕ تہٕ بات چیت تہٕ سماجی میل جول خٲطرٕ واضح فٲیدٕ ہاوان۔ مزٕ چھُ اصلی مقصد، نہ زِ کانٛہہ امتحانُک نٔتیجہٕ۔"
+  - q: "FTC کیاز کوٚر Lumosity س پٲٹھؠ جرمانہٕ؟"
+    a: "2016 مَنٛز کٔر Federal Trade Commission الزام زِ Lumos Labs چِھ پننین گیمَن مُتعلِق تِژھ دَعویٰ کران، یِمن مَنٛز عُمر سٟتؠ جُڈِمُت کمی یا ڈیمینشیا مۄکلٲوُن تہِ اوس، مگر تِمن نِشہِ اوس نہ اَمِچ کافی سائنس۔ کمپنی مٲنؠ $2 ملین دینہٕ تہٕ آیندٕ تِژھن دَعویٰ خٲطرٕ قابلِ اعتماد سائنسی ثبوت تھاونُک وعدہٕ۔"
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+دماغی گیمہٕ چھِ پرٛتھ جاے مَوجود، تہٕ واریاہ چھِ وعدہٕ کران زِ یِم تھاون تُہُنٛد ذہن جوان۔ اگر تُہؠ کٲنٛسہِ ڈیمینشیا سٟتؠ زندگی گزارن وٲلِس نفرس ہُنٛد خیال چھِو تھاوان، یا پننِس یادداشتس مُتعلِق پریشان چھِو، تیٚلہِ چھُ یِہ سوچُن قدرتی زِ کیاہ گیمہٕ کیلہٕ ہیکن مدد کٔرِتھ۔ یِتھ جای چھُ تحقیق کیاہ چھُ ونان، تِم چیز تہِ یِم حوصلہٕ ہَوان چھِ تہٕ تِم تہِ یِم چھِ نہ ہَوان۔
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+یِہ چھُ عام زانکٲری، طبی مشورٕ نہ۔ اسہِ ہُنٛد [طبی اعلانِ لاتعلقی](/medical-disclaimer/) وُچھِو۔
 
-## Do brain games prevent dementia?
+## کیاہ دماغی گیمہٕ چھا ڈیمینشیا رُکاوان؟
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+کانٛہہ تہِ دماغی گیم چھُ نہ ثابت گومُت زِ سُہ چھُ ڈیمینشیا رُکاوان۔ National Institute on Aging (NIA) چھُ لُکن صلاح دیوان زِ تِمن دَعویٰ پیٹھ چھُ ہوشیار روزُن یِم ونان چھِ زِ کمپیوٹر تہٕ آن لائن گیمہٕ ہیکن یادداشت بہتر بنٲوِتھ، تہٕ چھُ ونان زِ اِتھ بارس مَنٛز چھے نہ واریاہ ثبوت زِ کانٛہہ تجارتی برین ٹریننگ ایپ چُھ تِیُتھ اثر تھاوان یُتھ کلینیکل ٹرائلن مَنٛز آزمٲومِژ ٹریننگس مَنٛز آو ([الزائمر رُکاونہٕ مُتعلِق NIA](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know))۔
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+اَمِک مطلب چھُ نہ زِ گیمہٕ چھِ بے کار۔ اَمِک مطلب چھُ یِہ زِ تِہُنٛد فٲیدٕ چھُ مزس، سٟتھس تہٕ معمولاتس مَنٛز، نہ زِ کٲنٛسہِ ڈیمینشیا نِشہِ بچاونہٕ خٲطرٕ۔
 
-## What is "near transfer", and why does it matter?
+## ”نزدیکی منتقلی“ کیاہ چھے، تہٕ یِہ کیاز چھے اہم؟
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+یَلہٕ تُہؠ کُنہِ کامُک مشق کران چھِو، تیٚلہِ چھِو تُہؠ عام طور تٔتھ کامس مَنٛز بہتر گژھان۔ محقِق چھِ اَتھ ”ٹریننگ اثر“ ونان۔ مشکل سوال چھُ یِہ زِ کیاہ یِہ بہتری بدل چیزن مَنٛز تہِ چھے گژھان: ملی جُلی کامین مَنٛز (نزدیکی منتقلی) یا روزمرٕ زندگی ہَس مَنٛز، مِسلن ملاقات یاد تھاوٕنۍ یا پیسہٕ سنبھالُن (دور منتقلی)۔
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+2016 ہُنٛد اکھ بڈ جائزہٕ وُچھ تِم مطالعہٕ یِم برین ٹریننگ کمپنین پننہِ بہترین ثبوت ہِوٕۍ پیش کٔرِمٕتؠ۔ اَتھ مَنٛز آو نظر زِ لُکھ چھِ مشق کٔرِمٕتین کامین مَنٛز بہتر گژھان، ملی جُلی کامین مَنٛز بہتری ہُنٛد ثبوت چھُ کم، تہٕ روزمرٕ سوچنہٕ سمجھنس مَنٛز بہتری ہُنٛد ثبوت چھُ واریاہ کم۔ واریاہ مطالعن مَنٛز ٲس ڈیزاینچہِ خامیہِ تہِ یِمن ہِنٛد موجوب پٔکؠ نٔتیجہٕ کڈُن ممکن اوس نہ ([Simons تہٕ سٲتھی، Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983))۔
 
-## What do reviews say about computer brain training?
+## کمپیوٹر برین ٹریننگ مُتعلِق جائزہٕ کیاہ چھِ ونان؟
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane جائزن، یِم بہترین دستیاب ٹرائلن اکھ جای کران چھِ، چھِ تِمن کمپیوٹرائزڈ ٹریننگن پیٹھ نظر کٔرمٕژ یِم کم از کم 12 ہفتن خٲطرٕ چلان آے:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **65 ؤرِیہِ یا اَمہِ کھوتہٕ ؤہر والؠ صحت مند بالغ:** ٲٹھ ٹرائل، 1,183 لُکھ۔ ثبوت اوس کم یا واریاہ کم معیارُک۔ ٹریننگ پتہٕ ہیکہِ اکھ لۄکُٹ فٲیدٕ ٲسِتھ، مگر یِہ چھے نہ واضح زِ سُہ چھا برقرار روزان ([Cochrane جائزہٕ، صحت مند بزرگ](https://pubmed.ncbi.nlm.nih.gov/32104914/))۔
+- **ہلکہٕ کوگنیٹِو خرٲبی والؠ لُکھ:** ٲٹھ ٹرائل، 660 لُکھ۔ کُنہِ تہِ ٹرائلَن دِیُت نہ یِہ اطلاع زِ کٲتیاہ لُکن پیٚیہِ برونٹھ ڈیمینشیا، تہٕ ثبوت اوس اَتھ قدر کمزور زِ کانٛہہ نٔتیجہٕ کڈُن ممکن اوس نہ ([Cochrane جائزہٕ، ہلکہٕ کوگنیٹِو خرٲبی](https://pubmed.ncbi.nlm.nih.gov/30864747/))۔
 
-## What did the ACTIVE trial find?
+## ACTIVE ٹرائلَن کیاہ لوب؟
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE چھُ اکھ بڈ امریکی ٹرائل یُس 1998 مَنٛز 2,802 بالغن سٟتؠ شروع گوو یِمن ہُنٛد ؤہر 65 ؤری یا اَمہِ کھوتہٕ زیادٕ اوس، یِم آزاد زندگی گزاران ٲسِتھ تہٕ یِمن یادداشتس یا سوچنس مَنٛز کانٛہہ بڈ پریشٲنی ٲس نہ۔ لُکھ آے بے ترتیب طور تریَن الگ چھوٹن گروپ ٹریننگن مَنٛز اکھس مَنٛز (سِپیڈ آف پروسیسنگ، میموری، یا ریزننگ) یا اکھ بغیر رابطہٕ گروپس مَنٛز دِنہٕ۔ ٹریننگ ٲس پانژھ پیٹھہٕ چھے ہفتن مَنٛز زیادہ کھوتہٕ زیادہ دہ سیشن۔ یِم لُکن زیادہ تر سیشن مکمل کٔرِ، تِمن مَنٛز کینژھن آو تہِ بے ترتیب طور تقریباً اکھ تہٕ ترے ؤرِیہِ پتہٕ **بوسٹر سیشنن** ہُنٛد موقع دِنہٕ۔
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+سِپیڈ ٹریننگ مَنٛز اوس بصری زانکٲری کم تہٕ کم وقتس مَنٛز وُچھٕنۍ تہٕ سمجھٕنۍ، یُس سطح لُکن ہِنٛز بہتری مطٲبق بدلاوان اوس۔
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 مَنٛز کٔر محقِقَن 2,021 شرکٔت کرن والن 20 ؤرِین خٲطرٕ تِہِندین Medicare ریکارڈن سٟتؠ جُڈِتھ ([ACTIVE 20 ؤرِیُک تجزیہٕ](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/))۔ یِتھ جای چھُ ٹھیک یِہ زِ تِمن کیاہ لوب:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **سِپیڈ ٹریننگ تہٕ کم از کم اکھ بوسٹر سیشن:** بغیر رابطہٕ گروپہٕ کھوتہٕ کم ڈیمینشیا تشخیصن ہُنٛد شرح (hazard ratio 0.75، یَعنی تقریباً 25٪ کم شرح)۔
+- **بوسٹر بغیر سِپیڈ ٹریننگ:** کانٛہہ کم شرح نہ۔
+- **میموری یا ریزننگ ٹریننگ:** ڈیمینشیا تشخیصن پیٹھ کانٛہہ واضح اثر نہ۔
+- **پرٛتھ ٹریننگ گروپ مجموعی طور پیٹھ بغیر رابطہٕ گروپہٕ سٟتؠ:** کم شرحَن کُن رجحان، مگر اعداد و شمارن ہِنٛز کٔسیرِ پیٹھ اہم نہ۔
 
-### The limits of this finding
+### یِمہِ نٔتیجہٕ چہ حدٕ
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- یِہ چھُ صرف **اکھ خاص قسمہٕ چہ نگرٲنی ہٕندِ سِپیڈ ٹریننگ خٲطرٕ، یتھ سٟتؠ بوسٹر سیشن تہِ آسن،** لاگو، عام دماغی گیمَن خٲطرٕ نہ۔
+- اہم نٔتیجہٕ آو اکھ **ذیلی گروپہٕ** نِشہِ (یِم لُکن گۄڈنِکہِ زیادہ تر سیشن مکمل کٔرِ تہٕ یِمن بوسٹر سیشنن ہُنٛد موقع آو)، پورٕ سِپیڈ گروپہٕ نِشہِ نہ۔
+- ڈیمینشیا آو **Medicare دعویٰ ریکارڈن مَنٛز موجود تشخیصی کوڈن** ہِنٛز بنیادس پیٹھ ناپنہٕ، نہ زِ پرٛتھ نفرس الگ الگ وُچھِتھ۔ اصلی شرکٔت کرن والین مَنٛز تقریباً اکھ چوٗتھٲی آے اَمہِ مۄکھہٕ نِیونہٕ زِ تِم ٲس Medicare Advantage مَنٛز شامل، یتھ مَنٛز مکمل دعویٰ ریکارڈ چھِ نہ آسان۔
+- شرکٔت کرن والین ٲس شروعس مَنٛز کانٛہہ بڈ سوچنہٕ سمجھنٕچ پریشٲنی نہ۔ یِم نٔتیجہٕ چھِ نہ تِمن لُکن خٲطرٕ کانٛہہ کینٛہہ ونان **یِم وۄنؠ ڈیمینشیا سٟتؠ زندگی چھِ گزاران**۔
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+یِہ چھُ اکھ دلچسپ نٔتیجہٕ یتھ پیٹھ مزید تحقیق گژھن ضروری۔ یِہ چھُ نہ یِہ ثبوت زِ کانٛہہ ایپ چھے ڈیمینشیا رُکاوان۔
 
-## What did the FTC say about Lumosity?
+## FTC کیاہ ووٚن Lumosity مُتعلِق؟
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+جنوری 2016 مَنٛز مٲنؠ Lumos Labs، یُس Lumosity بنٲوِتھ چھُ، Federal Trade Commission ہِنٛز گمرٲہ کُن اشہارن ہِندین الزامَن ہُنٛد تصفیہٕ کرنہٕ خٲطرٕ $2 ملین دینہٕ۔ FTC ووٚن زِ کمپنی ٲس کافی سائنس بغیر دَعویٰ کران زِ تِہِنزٕ گیمہٕ ہیکن دفتری تہٕ سکولی کارکردگی بہتر بنٲوِتھ تہٕ عُمر سٟتؠ جُڈِمُت کمی، ہلکہٕ کوگنیٹِو خرٲبی، ڈیمینشیا تہٕ الزائمر مۄکلٲوِتھ۔ حکم مُطٲبق چھُ کمپنی ہُنٛد فرض زِ آیندٕ تِژھن دَعویٰ کرنہٕ برونٹھ آسہِ تِمن نِشہِ مضبوط تہٕ قابلِ اعتماد سائنسی ثبوت ([FTC پریس ریلیز](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program))۔
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+خاندانہٕ خٲطرٕ سبق: کُنہِ تہِ تِژِھ گیمہِ، ایپہِ یا پروگرامہٕ پیٹھ کٔرِو شک یُس یادداشت بچاونُک یا ڈیمینشیا رُکاونُک وعدہٕ کرِ۔
 
-## Can games help someone who already has dementia?
+## کیاہ گیمہٕ ہیکنا تِمن لُکن مدد کٔرِتھ یِمن وۄنؠ ڈیمینشیا چھُ؟
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+یِم ہیکن اکھ اچھ دۄہ مزید بہتر بنٲوِتھ، تہٕ یِہ چھُ واریاہ اہم۔ سب کھوتہٕ زیادٕ تحقیق گٔمٕژ طریقہٕ چھُ **کوگنیٹِو سٹِمیولیشن**: مزٕ دار گروپی سرگرمیہِ، مِسلن بات چیت، یادٕ تازٕ کرٕنۍ، لفظی گیمہٕ، پہیلی تہٕ موسیقی، عام طور اکھ چھوٹس گروپس مَنٛز اکھ رہنما سٟتؠ۔
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023 ہُک Cochrane جائزہٕ، یتھ مَنٛز ہلکہٕ پیٹھہٕ درمیانہٕ ڈیمینشیا والین 2,766 لُکن پیٹھ 37 ٹرائل شٲمل ٲسِتھ، چھُ ونان ([کوگنیٹِو سٹِمیولیشن ہُنٛد Cochrane جائزہٕ](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- سوچنہٕچہِ جانچن مَنٛز **لۄکُٹ، کم وقتی فٲیدٕ** (درمیانہٕ معیارُک ثبوت)؛
+- **بات چیت تہٕ سماجی میل جولس مَنٛز عملی طور پیٹھ اہم بہتری** (اعلیٰ معیارُک ثبوت، کم مطالعن پیٹھ)؛
+- زندگی ہِنٛز معیارس، موڈس تہٕ رویس مَنٛز **ہلکہٕ فٲیدٕ**۔
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+فٲیدٕ آے زیادہ تر تقریباً دہ ہفتن ہِندن پروگرامن پتہٕ فوراً ناپنہٕ، تہٕ کم مطالعن وُچھ زِ یِم ٲسہِ کیاہ برقرار روزان۔ کوگنیٹِو سٹِمیولیشن چھُ اکھ ترتیب دِتمُت گروپی پروگرام، لہٰذا چھِ نہ یِم نٔتیجہٕ خود بخود تٔتھ نفرس پیٹھ لاگو سپدان یُس اکیلے ٹیبلٹ پیٹھ گیم کیلان آسہِ۔
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024 ہُک Lancet کمیشن تہِ چھُ ونان زِ سرگرمی پروگرام چھِ تِمن لُکن خٲطرٕ اہم یِم ڈیمینشیا سٟتؠ زندگی چھِ گزاران، تاکہ مزٕ تہٕ مقصد برقرار روزِ ([Lancet کمیشن](https://doi.org/10.1016/S0140-6736(24)01296-0))۔
 
-## What are games actually good for?
+## گیمہٕ ہیکن اصلی طور پیٹھ کیاہ کٔرِتھ؟
 
-When chosen well, games can offer:
+اگر یِم ٹھیک طریقہٕ چُننہٕ یِن، تیٚلہِ ہیکن گیمہٕ یِم چیز دِتھ:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **مزٕ۔** اکھ خۄشگوار ادھ گھنٹہٕ چھُ پننہِ جای قٲبلِ قدر۔
+- **رٲبطہٕ۔** اکھ أکِس نکھہٕ کیلہٕ چھُ اکھ آسان چیز دِوان یۄس تُہؠ بانٹِتھ ہیکِو، خاص طور یَلہٕ بات چیت مشکل آسہِ۔ وُچھِو [اکھ أکِس سٟتؠ کِتھ کٔنۍ کیلان](/caregiving/how-to-play-together/)۔
+- **معمول۔** پرٛتھ دۄہ أکِس وقتس پیٹھ اکھ مانوس سرگرمی ہیکہِ سکون دِتھ۔
+- **اعتماد۔** تِژھ سرگرمیہِ یِم تس نفرس ہِنٛز موجودہٕ صلاحیتن سٟتؠ میل کھیاوان چھِ، ہیکن تَس یِہ احساس دِتھ زِ سُہ چھُ کینٛہہ کرنہٕ قابل، نہ زِ امتحان دِنہٕ یِوان۔
+- **بات چیت۔** اکھ تصویر یا مانوس محاورٕ ہیکہِ اکھ کتھ شروع کرٲوِتھ۔ [بات چیت کارڈ](/games/conversation-cards/) یا [محاورٕ مکمل کٔرِو](/games/finish-the-saying/) آزمٲوِو۔
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+یِمن چیزن نِشہِ بٔچِو: ٹائمر، سکور، سلسلہٕ (streaks) تہٕ پرتھ کانٛہہ چیز یۄس یادداشت ہُنٛد امتحان باسان آسہِ۔ اگر تس نفرس پریشٲنی محسوس گژِھ، تیٚلہِ رُکِو۔ جلدی ختم کرُن یا صرف اکھ أکِس نکھہٕ بِہُن تہِ چھُ اکھ اچھ نٔتیجہٕ۔ اسہِ ہُنٛد رہنما [ایپس تہٕ گیمہٕ کِتھ کٔنۍ چُنِو](/caregiving/choosing-apps-and-games/) مَنٛز چھُ اکھ فہرست۔
 
-## Where Golden Moments fits
+## Golden Moments کتھ جای چھُ موزوں
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments گیمہٕ، مِسلن [تصویری جوڑے](/games/picture-pairs/)، [تصویری پہیلی](/games/picture-puzzle/) تہٕ [بڈ أچھری ہُنٛد لفظی تلاش](/games/word-search/)، چھِ مزٕ تہٕ اکھ أکِس سٟتؠ وقت گزارنہٕ خٲطرٕ بنٲومِتؠ۔ یِمن مَنٛز چھُ نہ کانٛہہ گھڑی تہٕ نہ کانٛہہ سکور۔ یِم چھِ **نہ** کانٛہہ علاج، تہٕ یِم چھِ **نہ** ڈیمینشیا رُکاوان یا آہستہٕ کران۔ اَسہِ چھُ یِہ صاف صاف ونُن بہتر باسان بہ نسبتہٕ تِیُتھ وعدہٕ کرُن یُس کانٛہہ تہِ گیم پورٕ ہیٚکہِ نہ کٔرِتھ۔
 
-## Talk with a doctor
+## ڈاکٹرس سٟتؠ کٔرِو بات
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+اگر تُہؠ پننِس یا تٔمِس نفرس سٟتؠ یَسُنٛد تُہؠ خیال چھِو تھاوان، یادداشتس مَنٛز تبدیلین مُتعلِق فکر چھُ، تیٚلہٕ گٔژِھو اکھ ایپہِ پیٹھ بھروسہٕ کرنہٕ بجایے ڈاکٹرس نِشہِ۔ ڈاکٹر ہیکہِ تِمن سببن ہُنٛد جانچ کٔرِتھ یِمن ہُنٛد علاج ممکن آسہِ، تہٕ تِمن قدمن پیٹھ بات کٔرِتھ یِمن خٲطرٕ بہترین ثبوت چھِ موجود، مِسلن بلڈ پریشر سنبھالُن تہٕ بوزنٕچ طاقت جانچٕنۍ۔ مزید خٲطرٕ وُچھِو [کیاہ ڈیمینشیا ہیکہِ رُکِتھ؟](/brain-health/can-dementia-be-prevented/)۔ اگر اچانک الجھن یا بدل اچانک تبدیلیہِ آسن، تیٚلہِ گٔژِھو فوراً طبی مدد ہیٚنہِ۔

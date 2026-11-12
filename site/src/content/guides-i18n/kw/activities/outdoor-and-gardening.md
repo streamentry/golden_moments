@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Gwriansow lowargh ha mes rag tus ow bywa gans demens"
+seoTitle: "Lowargh ha gwriansow mes rag demens"
+description: "Profyansow lowargh ha gwriansow mes rag tus ow bywa gans demens, gans gwelyow ughel, lestri ha profyansow sawder rag tomder, howl ha gwandra."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Oberi y’n lowarth ha spena termyn yn-mes a yll bos gwrians kosel, aswonys rag
+  den ow bywa gans demens. Assayewgh dowrhe losow, plansa losow sawrek yn
+  lestri, tenna bleujyow marow po kerdhes berr yn lowarth keasys. Gwrewgh
+  devnydh a welyow ughel po moos ma na res dhe dhenvyth godha war benn-dewlin,
+  gwithowgh toulys lymm ha losow teythyek, kewgh yn-mes y’n rann vrassa yeyn a’n
+  jydh, ha bedhewgh pup-prys gans an den.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Oberow sempel y’n lowarth, kepar ha dowrhe, hasa has yn lestri byghan, blasa ha tochya losow sawrek, ha kuntel bleujyow, a yll bos gwrys ow sevel po owth esedha."
+  - "Gwelyow ughel, lestri ha moos gans kudhlen a dhre an lowarth dhe ughelder an grows ha lehe an chons a godha."
+  - "Gwithowgh toulys lymm, losow gans spern po a wra gorthybya an kroghen, ha pup-tra gwenonek. Gwaytyewgh na vo kammgemerys dor rag boes."
+  - "Tomder a yll bos peryllus rag tus kottha. Kewgh yn-mes a-varr po diwedhes, kevrewgh dowr ha goskes, ha dehweles a-bervedh orth an kynsa arwodh a anes."
+  - "Lies den ow bywa gans demens a wandra orth termyn. Bedhewgh gans an den yn-mes ha kevrewgh fôtô a-gynsow ha paperen aswonvos ogas."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Py gwriansow lowargh a yll den gans demens gul?"
+    a: "Dowrhe losow, hasa has yn lestri byghan, blasa ha tochya losow sawrek, tenna bleujyow marow, kuntel losow kegin, restra bleujyow treghys ha skubya hyns yw dewisow da oll. A-bervedh, pott losow sawrek war ester an fenester po lestrik dor war voos kudhys a ober yn ta. Dewisewgh an ober herwydh an pyth a gara an den kyns hag a yll ev gul yn es nowydh."
+  - q: "Fatell allav vy gwitha saw den gans demens y’n tomder?"
+    a: "Towlewgh termyn yn-mes rag an myttin po gorthugher yeynna, gwrewgh ev berr, ha profyewgh dowr yn fenowgh. Dewisewgh goskes, hatt ledan, dillas skav ha loos, ha eli-howldrehe. Tus kottha a’n jeves chons ughella a gleves tomder, ha kemyskter, penn-dro po omglewes a’n drog a yll bos arwodhyow, ytho dehweles a-bervedh ha yeynhe mar kwelowgh an re ma."
+  - q: "Fatell yllyn ni mos yn-mes mars yw usys ev dhe wandra?"
+    a: "Bedhewgh gans an den dres oll an termyn, gwrewgh devnydh a lowarth keasys gans yet alhwedhys, ha surhewgh y teg ev breghlen aswonvos po dhe dhon aswonvos ganso. Kevrewgh fôtô a-gynsow ogas. Mar kwra an den mos dhe goll, Kowethas Alzheimer a gomend galwel 999 mars ny vydh kevys yn 15 mynysen."
+  - q: "Pandr’a wren ni mar nyns eus lowarth dhyn?"
+    a: "Niver byghan a lestri war borth, kist fenester, po lestrik losow sawrek war voos an gegin yw lowr. Hwi a yll ynwedh vysytya park, lowarth poblek po lowarth kemeneth. Esedha yn-mes ha goslowes orth edhyn yw gwrians mes ynwedh."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Rag lies den, an lowarth yw onan a’n tylleryow moyha aswonys dhedha. Palas, dowrhe ha kuntel bleujyow a wra devnydh a sleynethow dyskys nans yw termyn hir, ha bos yn-mes a dhre ayr fresk, howldrehe ha kan edhyn. An Fondyans Kenedhlek rag Kosni (National Institute on Aging) a rol gwitha losow, plansa bleujyow ha losow kegin, ha [kows a-dro dhe fatell wra an losow tevi](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yn mysk gwriansow a yll bos da gans tus gans cleves Alzheimer. An folen ma a gews a-dro dhe’n pyth dhe assaya, fatell dhe wul lowarth esya dhe usya, ha fatell dhe vos saw gans tomder, howl ha gwandra.
 
-## What outdoor and gardening activities work well?
+## Py gwriansow mes ha lowargh a ober yn ta?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+An gwella oberow yw sempel, aswonys hag a yll bos gwrys ow sevel po owth esedha. Dewisewgh herwydh an pyth a gara an den gul kyns.
 
-### In the garden
+### Y’n lowarth
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Dowrhe.** Jowg dowrhe skav po hyns dowr es ha niver byghan a lestri ogas. Dowrhe a’n jeves dalleth ha diwedh kler ha kales yw y wul yn kamm.
+2. **Hasa has yn lestri.** Fondyans Alzheimer a Amerika (Alzheimer's Foundation of America) a gomend hasa has yn lestri byghan ha [mires orthans ow tevi](https://alzfdn.org/dementia-activity-gardening/). Has bras kepar ha fav, howlvleujyow po pys yw esya dhe synsi.
+3. **Tenna bleujyow marow.** Tynna bleujyow marow gans an dorn yw ober es, daswrys. Dewisewgh losow heb spern.
+4. **Kuntel losow kegin po losow sawrek.** Tomatys byghan, fav ha losow sawrek yw es dhe guntel ha da dhe vlasa. Degasowgh i a-bervedh rag aga devnydhya dhe li.
+5. **Blasa ha tochya losow sawrek.** Rosmari, mintys ha lavanter a’n jeves sawer krev, plegadow. Rutthyewgh delenn ynter agas bysies ha’y profya.
+6. **Skubya hyns po plattyer.** Skubellenn skav war enep gwastas, sygh, mars yw an savla sad.
+7. **Lenwel boyster edhyn.** Ena esedhowgh war-barth ha mires piw a dheu dhe vysytya.
 
-### Indoors, when going out is not possible
+### A-bervedh, pan na yllir mos yn-mes
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Lowarth losow sawrek war ester an fenester** gans basil, persli po kenever.
+- **Plansa war voos kudhys.** An AFA a gomend devnydhya lestri kepar ha lestri koffiji rag gwitha dor yn unn le ha movya dor gans hanafow byghan.
+- **Restrenna bleujyow** gans bleujyow treghys ha delyow a’n lowarth po a’n shoppa.
+- **Bleujyow gwaskys** a dhornid, may hyllir aga glusa war gartennow diwettha. Gwelowgh [arty ha kreft](/activities/arts-and-crafts/) rag moy.
+- **Gwul saghigow lavanter po ros**, profyans arall a’n AFA a with sawer an lowarth a-bervedh.
 
-### Getting out and about
+### Mos yn-mes
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Kerdhes berr** a-dro dhe’n dre, yn park po yn lowarth lesow, gans kerdh lent ha le dhe esedha.
+- **Esedha yn-mes** war borth po arghow rag goslowes orth edhyn ha teimla an awel. Hemm yw gwrians dien yn y honan.
+- **Vysytya lowarth poblek** yn termyn kosel a’n jydh. An NHS a leverel bos tylleryow gans lowarthow sansel, gans losow sawrek, tochyansow ha dowr.
+- **Bowa hosyow po mires orth edhyn** orth pols yn agas arvor, ow synsi pellder saw dhyworth an dowr.
 
-## How do I make a garden easier to use?
+## Fatell allav vy gul lowarth esya dhe usya?
 
-Bring the garden up to the person, not the other way around.
+Drewgh an lowarth dhe’n den, a-der an fordh aral.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Gwelyow ughel po lestri hir** orth ughelder an grows a styr nag eus edhomm a godha war benn-dewlin po omblegya.
+- **Lestri war voos** a ober yn ta rag tus a wra devnydh a gador ros po a vynn esedha.
+- **Hynsyow ledan, gwastas** heb meyn rydh po bibellow dowr a’ga gorwedh warnedha a le an chons a drubya.
+- **Kadoryow gans breghow ha goskes** a-hys an fordh, may hallo pubonan powes pup-prys.
+- **Toulys gans dornla tew, medhel** es dhe synsi. Gasa marnas gwelsow treghi, koltrow ha pup-tra lymm.
+- **Tyller keasys gans yet alhwedhys** may hallo an den eksplorya yn rydh ha hwi ogas.
 
-## Which plants should I avoid?
+## Py losow a dal vy gwitha?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Dewisewgh losow saw dhe dochya ha, mar kyllir, saw mar vydhons tastys. An AFA a gomend devnydhya losow na wra gorthybya an kroghen yn fenowgh, checkya rag alergedhow, ha mires yn ta orth nebonan a allsa kammgemerys dor rag boes. Profyansow an NIA rag sawder tre a gomprehend dilea po alhwedha losow gwenonek.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Gwithowgh rosow spernek, kaktus, ha losow gans dowr a wra gorthybya an kroghen.
+- Checkyewgh losow na’gas aswonnowgh gans kresen gontrolya gwenon po kresen lowargh leel kyns aga fasa.
+- Losow anweyth a gara an den a yll dri teimladows da arta. An AFA a gampol rosow ha kaktus Nadelik avel ensamplys. Dewisewgh eghennow heb spern.
+- Gwithowgh godeythow, leydh-preves ha leydh-hwennen alhwedhys, ha na wrewgh aga devnydhya yn tylleryow may hallo an den aga hedhes.
 
-## How do I stay safe in the heat and sun?
+## Fatell wraf vy bos saw y’n tomder ha’n howl?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Towlewgh termyn yn-mes herwydh an gewer. An NIA a dhiskrif bos tus kottha orth chons ughella a [gleves a dho dhyworth tomder](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), yn rann drefen na wra an korf aswiwa mar dha dhe janjyow tomder ha bos nebes medhegiethow ow tochya fatell wra an korf handla tomder.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Kewgh yn-mes a-varr po diwedhes.** Gwithowgh kres an jydh yn misyow toemm. Checkyewgh an index tomder, a-der an tomder yn unnsel.
+- **Profyewgh dowr yn fenowgh.** Na wrewgh gortos an den dhe leverel bos seghes dhodho. Gwithowgh diwes ha diwesow koffein y’n tomder.
+- **Gwiskewgh yn addas.** Dillas skav, loos, hatt ledan ha dewweder howldrehe.
+- **Gwrewgh devnydh a eli-howldrehe.** An NIA a gomend SPF 15 po ughella ledan-les, daswrys dres an jydh.
+- **Dewisewgh goskes.** Gorryowgh an voos rag plansa yn-dann wedhen po glawlen.
+- **Gwrewgh ev berr.** Termyn berr yn-mes a yll bos lowr, yn arbennik yn dydhyow toemm.
+- **Mirowgh rag arwodhyow.** An NIA a rol penn-dro, kemyskter, penn-dro po omglewes a’n drog avel arwodhyow a gleves tomder. Den gans demens ny lever dhywgh martesen ev dhe omglewes yn drog, ytho mirowgh orth y fas hag y omdhegyans. Kewgh a-bervedh, yeynhewgh gans dowr ha liw yeyn, ha kevrewgh gweres medhegel mar ny wellha ev yn uskis. Kewnyes tomder, gans arwodhyow kepar ha koedha yn hwymp, kemyskter, po kroghen sygh rudh, yw studh argydh medhegel: galwewgh 999.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Yeyn a vern ynwedh. Y’n gwav, gwrewgh termyn yn-mes berr ha surhewgh bos dornow ha dewdroes toemm ha sygh.
 
-## How do I handle wandering when we go outside?
+## Fatell dhallav vy handla gwandra pan eson yn-mes?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Bedhewgh gans an den pup-prys pan vo ev yn-mes. Kowethas Alzheimer a leverel y hwra [hwegh yn mysk deg a dus ow bywa gans demens](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) gwandra unnweyth dhe’n lyha, ha lieskweyth yn fenowgh. Ev a yll hwarvos yn pub studh.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Profyansow an NIA rag gwandra ha mos dhe goll](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) a gomprehend:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Surhewgh bos an den ow kwiska aswonvos po breghlen vedhegel gans y hanow, trigva ha’gas niver pellgowser, po skrifewgh war y dhillas.
+- Kevrewgh fôtô po gwydhyow a-gynsow a’n den.
+- Leverewgh dhe’n kentrevogyon y hall an den gwandra.
+- Diogelewgh an lowarth gans ke ha yet alhwedhys.
+- Na wrewgh gasa den gans istori a wandra heb with.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Kowethas Alzheimer a gomend ynwedh gul tylleryow a-bervedh hag yn-mes may hallir eksplorya yn saw, ha towlel gwriansow rag termyn an jydh pan yw an anderyneth moyha gwirhaval. Kerdh yn lowarth saw, keasys a yll bos addas rag anderyneth diwedh an jydh. Gwelowgh agan gidyans a-dro dhe [anderyneth diwedh an jydh](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Mar kwra an den mos dhe goll, Kowethas Alzheimer a gomend hwilas y’n ranndir ogas a-dhistowgh ha galwel 999 mars ny vydh kevys yn 15 mynysen. Leverewgh dhe’n kreslu y’n jeves demens dhodho.
 
-## How do I adapt gardening as things change?
+## Fatell dhallav vy aswiwa oberi y’n lowarth pan janj pythow?
 
-| If this has become hard | Try this instead |
+| Mars yw hemma kales lemmyn | Assayewgh hemma yn y le |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plansa gwel dien | Hasa unn has yn unn pott |
+| Tenna hwennen (aswon hwennen dhiworth losowen) | Dowrhe, po tenna bleujyow marow apert |
+| Kerdhes a-dro dhe’n lowarth | Esedha orth moos gans lestrik dor ha losowen |
+| Mos yn-mes vytholl | Pott losow sawrek war voos an gegin, po esedha ryb fenester igor |
+| Gul neppyth vytholl | Esedha yn-mes war-barth, ow koslowes hag ow mires |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Nebes tus a vynn gweles hwi owth oberi. An NIA a leverel bos da lowr gasa den mires yn sempel mars yw henna an pyth a gar.
 
-## When should we head inside?
+## P’eur y tal dhyn dehweles a-bervedh?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Dewgh a-bervedh pan wrello an den heveli skwith, toemm, yeyn, anes po parys dhe worfenna. Deg mynysen berr, plegadow yw gwell es dohajydh hir a worfen gans anes. Gorfenna a-varr yw sewyans da.
 
-## Bring the garden indoors on screen
+## Drewgh an lowarth a-bervedh war an skrin
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Yn dydhyow gleb, yma [Sort Together](/games/sort-together/) gans kisten lowarth rag sortya imajys, hag yma [Conversation Cards](/games/conversation-cards/) gans govynnow ygor a yll ledya dhe hwedhlow a’n lowarth. Mar teudhowgh a-bervedh a’n tomder ow teimlo fyskys, [Calm Breathing](/games/calm-breathing/) a brof powes lent, kosel may hyllewgh hwi kevrenna. Rag moy profyansow selys war dochya, blasa ha son, gwelowgh agan [gidyans gwriansow sansel](/activities/sensory/).

@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Windabûna Bihîstinê û Metirsiya Demansê: Lêkolîn"
+seoTitle: "Windabûna Bihîstinê û Demans: Lêkolîn çi Dibêje"
+description: "Çima windabûna bihîstinê faktorek mezin a metirsiya demansê ye, ceribandina ACHIEVE bi rastî çi dît, û çawa bihîstinê kontrol bikin û axaftinê hêsantir bikin."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Komîsyona Lancet a 2024an windabûna bihîstinê wekî yek ji mezintirîn faktorên metirsiya demansê
+  yên ku dikarin werin guhertin bi nav dike. Di ceribandina ACHIEVE de, alîkariyên bihîstinê bi
+  giştî kêmbûna hişmendiyê hêdî nekirin, lê di komeke biçûktir a bi metirsiya bilindtir de kêmbûn
+  kêm bû. Alîkariyên bihîstinê dîsa jî ji bo axaftin û jiyana rojane alîkar in. Bihîstina xwe kontrol
+  bikin, alîkariyên bi reçete an bê reçete bifikirin, û bi bijîşkekî re biaxivin.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Komîsyona Lancet texmîn dike ku windabûna bihîstinê ji sedî 7ê bûyerên demansê li cîhanê pêk tîne, ku di nav 14 faktoran de yek ji mezintirîn parvekirinan e."
+  - "Di ceribandina ACHIEVE ya bi 977 mezinên pîr de, alîkariyên bihîstinê di sê salan de bi giştî kêmbûna hişmendiyê neguherandin."
+  - "Di komeke biçûktir a bi metirsiya bilindtir di nav ACHIEVE de, kêmbûna hişmendiyê bi alîkariyên bihîstinê ji sedî 48 hêdîtir bû; ev pêdivî bi piştrastkirinê heye."
+  - "Ji Cotmeha 2022an ve, mezinên li Dewletên Yekbûyî yên ku dibêjin windabûna bihîstina wan sivik heya navîn e, dikarin alîkariyên bihîstinê yên ku ji hêla FDA ve tên birêkûpêkkirin bê reçete bikirin."
+  - "Windabûna dîtinê ya ku nayê dermankirin di sala 2024an de wekî faktorek metirsiya demansê hate zêdekirin, ji ber vê yekê kontrolkirina çavan jî girîng e."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Gelo alîkariyên bihîstinê rê li ber demansê digirin?"
+    a: "Ev nehatiye îsbatkirin. Ceribandina ACHIEVE di sê salan de bandorek giştî li ser kêmbûna hişmendiyê nedît, her çend komek bi metirsiya bilindtir çêtir bû. Dîsa jî hêja ye ku alîkariyên bihîstinê werin fikirîn, ji ber ku ew axaftin, ewlehî û jiyana rojane hêsantir dikin."
+  - q: "Kî dikare alîkariyên bihîstinê yên bê reçete bikire?"
+    a: "FDA destûrê dide mezinên 18 salî û mezintir ku dibêjin windabûna bihîstina wan sivik heya navîn e, ku alîkariyên bihîstinê yên bê reçete ji firoşgehan an serhêl bêyî reçete bikirin. Ev ji bo windabûna bihîstina giran nehatine çêkirin. Kesê ku êşa guhê, şilava ji guhê, gêjbûn an guhertinên ji nişka ve di bihîstinê de hebe, divê pêşî bijîşkekî bibîne."
+  - q: "Gelo windabûna bihîstinê dikare wekî demansê xuya bike?"
+    a: "Carinan. Enstîtuya Neteweyî ya Pîrbûnê (NIA) destnîşan dike ku carinan mirovên pîr ên ku baş nabihîzin bi xeletî wekî tevlihev an nehevkar tên dîtin. Dema ku kesek wekî ku xwe vedişêre an tiştên ku tên gotin winda dike xuya dike, kontrolkirina bihîstinê gavek maqûl e."
+  - q: "Divê mezinên pîr çend caran çavên xwe kontrol bikin?"
+    a: "Enstîtuya Neteweyî ya Pîrbûnê (NIA) şîret dike ku piştî temenê 60 salî her sal an du salan carekê muayeneya çavê bi dilatasyonê were kirin, an jî wekî ku pisporê lênihêrîna çavê we pêşniyar dike. Kesên ku şekir an tansiyona bilind heye, bi gelemperî pêdivî bi vê muayeneyê herî kêm salê carekê heye."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Windabûna bihîstinê di temenê mezin de gelemperî ye, û lêkolîner wê wekî faktorek metirsiya demansê bi girîngî digirin. Ev nayê wê wateyê ku alîkariyên bihîstinê rêyek îsbatkirî ne ji bo pêşîgirtina demansê; çêtirîn ceribandina heya niha encamên tevlihev hebûn. Ev rûpel rave dike ku lêkolîn çi nîşan dide, çawa bihîstinê kontrol bikin, alîkariyên bihîstinê yên bê reçete li Dewletên Yekbûyî çi ne, û çawa axaftinê hêsantir bikin.
 
-## Why does hearing matter for brain health?
+## Çima bihîstin ji bo tenduristiya mêjî girîng e?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Windabûna bihîstinê bi metirsiya bilindtir a demansê ve girêdayî ye. [Komîsyona Lancet a 2024an](https://doi.org/10.1016/S0140-6736(24)01296-0) texmîn dike ku ew li cîhanê ji sedî 7ê bûyerên demansê pêk tîne. Li gorî [kurteya UCL ya raporê](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors), ev wê bi kolesterola LDL ya bilind re ji bo mezintirîn parvekirinê di nav 14 faktorên metirsiya ku dikarin werin guhertin de di modela Komîsyonê de wekhev dike.
 
-Key findings from the Commission:
+Encamên sereke ji Komîsyonê:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Metirsiya bilindtir bi windabûna bihîstinê.** Di analîza wê ya hevbeş a şeş lêkolînên bi kalîteya bilind de, kesên ku windabûna bihîstinê hebû ji kesên ku bihîstina wan normal bû bi qasî ji sedî 37 metirsiya demansê bilindtir hebû.
+- **Windabûna zêdetir, metirsiya zêdetir.** Lêkolînên ku li giraniya pirsgirêkê mêze kirin dîtin ku her ku bihîstin xirabtir dibû, metirsî jî zêde dibû.
+- **Sedemên gengaz, lê hîn nehatine îsbatkirin.** Raman di nav xwe de tenêtî û xwe vekişandin, depresyon, kêmtir teşwîq ji bo mêjî, û hewldana zêde ya hişî ya ku guhdarîkirin dixwaze dihewîne.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Windabûna bihîstinê gelemperî ye. [Enstîtuya Neteweyî ya Pîrbûnê (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) dibêje ku nêzîkî sêyeka mezinên pîr vê pirsgirêkê heye, û derfet bi temen re zêde dibe.
 
-## What did the ACHIEVE hearing aid trial find?
+## Ceribandina alîkariya bihîstinê ya ACHIEVE çi dît?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE yekem ceribandina rasthatî ya li ser alîkariyên bihîstinê û kêmbûna hişmendiyê bû. Encamên wê gelek caran bi xeletî tên ragihandin, ji ber vê yekê li vir hûrgulî ji [rapora ceribandinê ya hatî weşandin](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/) hene.
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Kî beşdar bû:** 977 mezinên 70 heta 84 salî yên ku windabûna bihîstina wan a nedermankirî hebû û pirsgirêkên girîng ên ramanê tunebûn, li çar cihên civakî yên li Dewletên Yekbûyî.
+- **Çi hate berhevkirin:** Nîvê wan alîkariyên bihîstinê û danişînên şêwirmendiyê bi audiologîstekî re wergirtin. Nîvê din bernameyeke perwerdehiya tenduristiyê ya li ser pîrbûna tendurist wergirt.
+- **Encama sereke:** Piştî sê salan, di navbera her du koman de bi giştî **cudahî** di kêmbûna hişmendiyê de tunebû.
+- **Encama jêrkomê:** Ceribandin ji du çavkaniyan beşdaran kom kir. 238 kes ji lêkolîneke dirêj a tenduristiya dil (ARIC) hatin, û wekî kom metirsiya wan a kêmbûna hişmendiyê bilindtir bû. Di vê komê de, kêmbûn bi alîkariyên bihîstinê **ji sedî 48 hêdîtir** bû. Di nav 739 dilxwazên tendurist ên civakê de, bandorek eşkere tunebû.
 
-How to read this honestly:
+Meriv çawa vê yekê bi durustî bixwîne:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Bersiva giştî ev bû ku bandor tunebû.
+- Encama jêrkomê ji berê ve hatibû plankirin, lê ew ji analîzeke duyemîn a komeke biçûktir hat. Pêdivî ye ku di lêkolînên din de were piştrastkirin.
+- Beşdaran dizanibû ku ew di kîjan bernameyê de ne, ku ev dikare bandorê li encaman bike.
+- Komîsyona Lancet delîlan wiha dinirxîne ku alîkariyên bihîstinê bi taybetî ji bo kesên ku windabûna bihîstinê ligel faktorên din ên metirsiya demansê heye alîkar xuya dikin.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Encama sereke ev e ku alîkariyên bihîstinê rêyek îsbatkirî ne ji bo pêşîgirtina demansê. Lê ew alîkariya mirovan dikin ku bibihîzin, beşdarî axaftinan bibin û girêdayî bimînin, ku ev bi serê xwe sedemek têr e ku li ser wan were fikirîn.
 
-## How do I know if hearing should be checked?
+## Ez çawa dizanim ku divê bihîstin were kontrolkirin?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA pêşniyar dike ku hûn bijîşkekî bibînin heke hûn an kesê ku hûn lê nihêrîn:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Di têgihîştina mirovan de li ser têlefonê zehmetî hebe
+- Zehmet be ku axaftinan bişopîne dema ku du an zêdetir kes diaxivin
+- Gelek caran ji mirovan bixwaze ku tiştên xwe dubare bikin
+- Dengê televîzyonê ewqas bilind bike ku yên din gilî bikin
+- Di dema dengê paşxaneyê de zehmetî di têgihîştina axaftinê de hebe
+- Bifikire ku yên din wekî ku di bin devê xwe de diaxivin xuya dikin
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Bi bijîşkekî lênihêrîna bingehîn dest pê bikin, ku dibe ku we bişîne ba audiologîstekî (pisporê bihîstinê) an bijîşkekî guh, poz û qirikê. Kombûna mûma guhê yek ji sedemên gelemperî yên windabûna bihîstinê ye ku bijîşk dikare wê kontrol bike. **Windabûna bihîstinê ya ji nişka ve rewşeke lezgîn a bijîşkî ye**, û NIA şîret dike ku di cih de bijîşkekî were dîtin.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Windabûna bihîstinê dikare bi tevliheviyê were şaş kirin. NIA destnîşan dike ku carinan mirovên pîr ên ku baş nabihîzin bi xeletî wekî tevlihev, bêbersiv an nehevkar tên dîtin. Heke kesekî ku hûn jê hez dikin wekî ku xwe vedişêre an tiştên ku tên gotin winda dike xuya dike, kontrolkirina bihîstinê gavek baş a destpêkê ye.
 
-## What are over-the-counter hearing aids?
+## Alîkariyên bihîstinê yên bê reçete çi ne?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Ji 17ê Cotmeha 2022an ve, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) destûr daye kategoriyeke alîkariyên bihîstinê yên bê reçete (OTC). Li vir berhevdana wan bi alîkariyên bi reçete re heye:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Taybetmendî | Alîkariyên bihîstinê yên bê reçete | Alîkariyên bihîstinê yên bi reçete |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Ji bo kê ne | Mezinên 18 salî û mezintir ku dibêjin windabûna bihîstina wan sivik heya navîn e | Her asta windabûna bihîstinê, her temen |
+| Li ku derê werin girtin | Ji firoşgehan an serhêl, bêyî muayene an reçete | Bi rêya pisporê bihîstinê yê destûrdar |
+| Sazkirin | Hûn bi xwe mîhengan eyar dikin, gelek caran bi sepanekê | Pispor wan li gorî bihîstina we bername dike |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA dibêje ku alîkariyên OTC ji bo windabûna bihîstina giran an pir giran nehatine çêkirin. Ew şîret dike ku berî kirînê bijîşkekî, bi tercîh pisporê guh, poz û qirikê, bibînin heke:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Êşa guhê an nerehetiya we hebe
+- Di şeş mehên dawî de şilav, îx an xwîn ji guhê hatibe
+- Guhertinên bihîstinê yên ji nişka ve an guhêrbar hebin
+- Bihîstina we di guhêkî de xerabtir be, an jî tenê di guhêkî de deng hebe
+- Gêjbûn an vertîgo hebe
+- Pir mûma guhê hebe
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Fêr bûna bi alîkariyên bihîstinê re dem û pratîkê dixwaze, ji ber vê yekê berî kirînê siyaseta vegerandinê kontrol bikin, wekî ku FDA pêşniyar dike. NIA pêşniyar dike ku hûn bipirsin gelo bîmeya we beşek ji lêçûnê digire. Ji bo kesê ku bi demansê dijî, audiologîstek dikare alîkariyê bike ku biryar were dayîn ka kîjan cure alîkarî û sazkirin dê ji bo birêvebirina rojane hêsantir be.
 
-## How can I talk more easily with someone who has hearing loss?
+## Ez çawa dikarim bi kesê ku windabûna bihîstinê heye re hêsantir biaxivim?
 
-The NIA suggests:
+NIA pêşniyar dike ku:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Rû bi rû bimînin û têkiliya çavan biparêzin**, di ronahiya baş de, da ku ew bikaribe lêv û rûyê we bibîne.
+2. **Cihek bêdeng bibînin.** Televîzyonê vemirînin an ji deng dûr bikevin.
+3. **Hinekî bilindtir biaxivin, lê qîrîn nekin.** Bi xwezayî û bi lezek maqûl biaxivin.
+4. **Devê xwe vekirî bihêlin.** Dema diaxivin nexwin, çîk neçêjin û devê xwe venegirin.
+5. **Dema ku tiştek nayê têgihîştin, ji nû ve bibêjin ne ku dubare bikin.**
+6. **Di carekê de yek kes.** Di komê de, hewl bidin ku kesê tê de bihêlin.
+7. **Sebir bikin û bipirsin ka hûn çawa dikarin alîkariyê bikin.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ev şîret li gel [şîretên me yên ragihandinê ji bo demansê](/caregiving/communication-tips/) baş dixebitin. Çalakiyên li ser bingeha wêneyan jî zexta li ser guhdarîkirinê kêm dikin. [Picture Pairs](/games/picture-pairs/) û [Conversation Cards](/games/conversation-cards/) bi tiştên ku hûn dibînin dixebitin, û [Finish the Saying](/games/finish-the-saying/) dihêle ku hûn dawiya wê nîşan bidin li şûna ku bibêjin. Ji bo telefonan, rêbera me ya li ser [bangan û banganên vîdyoyê](/activities/phone-and-video-calls/) bibînin.
 
-## Vision matters too
+## Dîtin jî girîng e
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Di sala 2024an de, Komîsyona Lancet windabûna dîtinê ya nedermankirî wekî faktorek metirsiya nû lê zêde kir. Kurteya UCL wê bi qasî ji sedî 2ê bûyerên demansê nîşan dide, û Komîsyon pêşniyar dike ku vekolîn û dermankirina pirsgirêkên dîtinê ji bo her kesî berdest be. [NIA şîret dike](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ku piştî temenê 60 salî her sal an du salan carekê muayeneya çavê bi dilatasyonê were kirin, û reçeteyên berçavan jî werin kontrolkirin. Tewra guhertinên piçûk ên di dîtinê de jî dikarin metirsiya ketinê zêde bikin.
 
-## Talk with a doctor
+## Bi bijîşkekî re biaxivin
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Heke hûn yek ji nîşanên li jor dibînin, ji bijîşkekî bipirsin derbarê kontrolkirina bihîstinê û dîtinê. Ji bo windabûna bihîstinê ya ji nişka ve, êşa guhê, an şilava ji guhê di cih de lênihêrînê bixwazin. Heke hûn lênihêrîna kesekî ku bi demansê dijî dikin, guhertinên bihîstinê an dîtinê ji bijîşkê wî re bibêjin, ji ber ku ev dikarin bandorê li rewşa wî, ewlehiyê û şiyana wî ya beşdarbûnê bikin.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Ev rûpel agahdariya giştî ye, ne şîreta bijîşkî ye. [Daxuyaniya me ya bijîşkî](/medical-disclaimer/) bibînin. Zêdetir li ser [girêdana civakî û tenduristiya mêjî](/brain-health/social-connection/) bixwînin.

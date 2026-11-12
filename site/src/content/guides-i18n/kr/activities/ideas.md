@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Cidaam am dementia-a kəla ro kəskəna-ro: 101"
+seoTitle: "Cidaam dementia-be: 101 cidarambo"
+description: "101 cidarambo am dementia-a kəla ro kəskəna-ro, kənta koktəramlan har musiko-a fotoram-a ro, kuru futu cidaram dəga cidajin."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Cidaam ngəla am dementia-a kəla ro kəskəna-ro notəna, kamuram-a kuru kəltə
+  ngəla-a: kənta koktə, kəmilta, dəgəri, musiko, fotoram kuru, letə, kulo cida,
+  dabba-a kəltə kuru biskoram ngəla. Kəm dəga sədəga cidaa cənzəna dəga karne,
+  cidaram zau dəga ni diye, kuru ngənəptəna ma daatə. Kəltə loktu ngəla
+  kənzaptə awi yaye samno cidaa daatən.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Kəm dəga kəndaram nzə bən: cidanzə, awo sədəga cənzəna, adinanzə-a musikonzə ngəla-a shawari ngəla sadin."
+  - "Cida dəga ngəla ro cidane: alama gana, karno gana, cidaram zau dəga ni diye."
+  - "Kuru, awo laa rotə, au naan-dəga nap kəskəro bən kəltəro ngono."
+  - "Ngənəptə, hangal kuttə au awo sədinba fəlle ma daatə au faltə. Dawu daatə nzundu ngəla."
+  - "Kəltə cida awi yaye ngəla ro cidaa daatən."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Cidaam fin am dementia-a kəla ro cidaa ro ngəla?"
+    a: "Cidaam kəm dəga saa kadube lan cidaana, ngəla ro cidana: kənta koktə, tebur dəkkə, dəgəri, musiko, fotoram kuru, letə, kulo cida kuru dabba-a kəltə. Cidaam kamuram-a faida-a dəga karne, kuru kəltə diye."
+  - q: "Cida dəga loktu finmaa ro walzə?"
+    a: "Loktu kalkal bawo. Yimbi laa kənta koktə minti gana ro dajin, yimbi gade kulo lan saa fal ro ngəla waljin. Kəm dəga nasha-a nzə gəne, kuru loktu ngəla-a lan daatə."
+  - q: "Kəm dəga cidaa wanzə ma, abi diyi?"
+    a: "Kəskero wande. Aʼa də maananza cidaram də zauro walzəna, loktu də ngəla bawo, au ngənəptəna au kəla nzə nanngaro bawo. Ngawo walne jarapte, cidaram ngəla gana yite, au ni kəlle bən cidaram də badine kuru kəltəro bowone."
+  - q: "Biskoram hangal-be am dementia-a kəla ro cidaa ro ngəla wa?"
+    a: "Biskoram loktu ngəla kəltəro kənzaptəro waljin, amma bisko ndasoma dementia-a kərmajin, ngəla cidin, au daajinro fələlezənyi. Biskoram loktu, lamba au saut nasha notənama bawo-a dəga karne, kuru jaraburo gəni, cidaram kəltə-a ro ngone."
+  - q: "Futu cidaam dəga tadawa-a ro kərmai?"
+    a: "Awo kamuram-a haqiqama lan faidatə: kənta haqiqama, dəgəri haqiqama, musiko kamuram-a, awo zane-a, kuru fotoram kamuram-a. Cidaam dəga bana haqiqama nəmma-a ro gultə, kuru kəm dəga kamuro manane, futu shi kamuro wo."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Cidaam ngəla-a kəm dementia-a kəla ro kəskəna-ro, ngəwuro shi burwon cidaa nozana, ngəla ro cidana kuru kəm shi amanjinma-a kəltə cidaana. Cidiya, shawari 101 mbeji, dəri dəri ro bəlaana, ndasoyen futu badizəyin kuru futu zau waljin ma ngəla ro cidajin. Awo taanasbe marnəmmi, kuru awi yaye daaro marnəmmi. Kausu ngəla fal, kənta koktə baskət fal-a kopi kəltə ya-a ro waljin.
 
-## How do you choose the right activity?
+## Futu cidaram kalkal karne?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Kəm dəga ro karne, kakkadə ro gəni: awo shi sədəga cənzəna-a kuru ku awo ngəla ro cidaa cərin-a lan badine.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Cidanzə-a awo sədəga cənzəna-a təkkəne.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) gulzəna, kəm ofis lan cidana kərma kəmilta au wasika kəltəro cənzəjin, kuru kəm kulo cidana kulo cidaro cənzəjin.
+- **Awo shi kəlanzən cidaana dəga kuru.** Bawanəm səmson balbal dəga kowurro sawurin ma, cida dəga kəndaram nzə bən yikke.
+- **Awo ngəlaro walzəna-a lan ngəmbarne.** Ngənəptə, kuru sim, kənzə fango, mukko kau-au suwoli dəga sammaa mbeji.
+- **Hangal nzə kuru.** Am laa cidaram jama-a sawan-a cənzayin, am gade-a rijaptin.
+- **Dalil yite.** Səbet church-be napkən kənta koktə, jaraba gade cidaaro ngəla.
 
-### A rough guide by stage
+### Shawari ngəla alama dəga ro
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Dementia ngəwuro alama burwoye, daweye-a ngawo-a ro bayantayin. Adəga suro zau, sandiya gəni, am kada yimbi laa ngəla, yimbi laa zau. Andeye ro, ku kuruye lan ngone. [Kakkadə alama ro Alzheimer’s Foundation of America ye dəna](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) adəga-a kəliwu.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Awo | Alama burwoye | Alama daweye | Alama ngawo |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Awo fəllemmin | Ngəwuro kəlanzən cidajin; ngəmbarne, su buro-a na jamabe zauro waljin | Cida badizəyinro-a alama dəga ro-a banao marnəjin; mana gana ro waljin | Kəndarambe cidanzə ngəwuro banao marnəjin; awo fando-a ngəla |
+| Cidaam kəliwunzəna | Kaat, bisko board-be, dəgəri, kulo cida, ruwotə, kəritə, jamatu | Kənta koktə, kəmilta, dəgəri alama ngəla, yaktə, album foto-be, letə shawartə | Musiko ngəla, mukko laftə, awo shawa rotə, karantəro fango, deyan nap kəskə |
+| Cida nəmbe | Kəmgawo: bana finmaa nəmma sooro koro | Dakkə, fəle, cidaram zau dəga diye | Cidaa dəga shi-a ro kutə; kəltə nəm nəmma cidaram də wo |
+| Shawari yaye | [Alama burwoye](/activities/early-stage/) | [Alama daweye](/activities/middle-stage/) | [Alama ngawo](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Futu cidaram kəm dementia-a kəla ro-a kəltə badine?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Ngəla ro badine, kəlle bən badine, kuru "aa" wultə ngəla ro yikke. Am kada kəltəro cənzayin, amma ngəmbarne au badizəyin zauro waljin.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Loktu nzə ngəla-a karne,** ngəwuro səmson.
+2. **Awo sammaa bərne dakkə** dawuri ro badizəyinro.
+3. **Bana koro, jaraba gəni:** «Awo aniro banao sədəm wa?»
+4. **Ni kəlle bən badine.** Kənta fal koktə, shi də kəltəro. Fəletə mana-a kozəna.
+5. **Alama fal fal yite.**
+6. **Cidaram zau dəga ni diye.** Alzheimer’s Association gulzəna, awo dəgəri-be dəga ni jange, kuru cokkol də shi-a ro yite lowozəyinro.
+7. **Futu shi cidaa dəga kolne.** Kənta gade ro koktəna ma ngəla.**
+8. **Ngəla daajin ma daatə.** Kəla titizə, fəretə au "rakkiwawo" wultə alama faltə au tusinaye wo.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Kuru rui [futu kəltə biskotə](/caregiving/how-to-play-together/) kuru [mana shawari](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Cidaram fado-a
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Cidaam fado-a notəna kuru faida-a, adəma na ngəla badizəyinro. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tasaa tulwono, tebur dəkkə, balbal sawuro, wasika kəmilta-a kənta koktə-a cidaam am laa cənzayin ro. Yirai [cidaram fado-a](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Kənta zaume koktə.** Kənta baskət lan teburro fije kuru kəltə koktə. Ngawo, kəla ciztə-a kəltə dəkkə-a faida-a.
+2. **Soks kəliwo.** Kəli gade-a lan badine. Ngawo, bulla-a kime-a ro kəmiltə bas.
+3. **Tebur dəkkə.** Awo fal fal ro yite. Na fal ni dəkkə fəlezəyinro.
+4. **Tasaa tulu au kəmkəm.** Nji zaume-a sabul-a kuru tasaa namdəgənama. Napkada lan kəmkəm su-a ro ngəla.
+5. **Tebur ciztə.** Kəmbo ngawon kənta nji-a yite. Adə cida haqiqama mukko tusummaro.
+6. **Wasika kəmilta.** Katalog-a wasika faidabawo-a "koltə" kuru "njakkə" ro kəmilta. Wasika kərmabe dəga kolne.
+7. **Kupon kamtə.** Makas suro ngəla-a kuru wasika kasuwu-be. Ngawo, kəmbo ngəla-a kuruwuzə ma ngəla.
+8. **Kərma kəmilta.** Kərma dəga kopro kəmilta au kuruwutə. Awo gana-a ci nzə bən yikəyin ma, awo gana kolne.
+9. **Balbal sawuro au bulo furtə.** Broom ngəla balballan, au duster kurum napkada lan faidatə.
+10. **Dəgəriro bana.** Kəskel tulu, salat namdəgə, lowotə. Wuka-a kaanu-a ni diye.
+11. **Dəgəri fatobe dəgə.** Kaat nzə mukkonzə lan ruwo mbeji ma, adəga faidatə. Ngawo, shi tamboma ro walzə.
+12. **Cida ofis-be.** Wasika koktə, envelope lan yikke kuru tambar yikke, au kakkadə kasuwu-be kəltə ruwo.
 
-## Music
+## Musiko
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Musiko notəna am-a ro lezəyin, mana zau waljin ma yaye. [Shawari musiko-be Alzheimer’s Association ye](https://www.alz.org/help-support/caregiving/daily-care/art-music) musiko notəna, tallabe bawo-a TV zakkata-a shawartin. Rui [cidaam musiko-be](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Kakkadə musiko kəm dəga ro dakkə.** Musiko saa gananzə-a, saa larusanzə-a, adinanzə-a-a aladənzə-a lan.
+14. **Kəltə yaktə.** Ni kəlle bən badine. Har ma au fango ma kəltəro ngono.
+15. **Ritim rotə.** Mukko baktə, ngurum baktə au drum gana baktə. Napkada lan-a alama ngawo-a lan cidaajin.
+16. **Biyo.** Dəgəriro ngəla ro biyo, au napkada lan mukko rotə kəltə lolotə.
+17. **Album fal sammaa fango.** Album ngəla badizəyinlan daatəro, kopi-a kuru awo gade bawo-a.
+18. **Musiko-a manazə.** Labar koro, awo jire gəni: «Biyo na letəna dəga wulgəne səmmo.»
+19. **Filim musiko au konsert kuru.** Awo shi cənzəna kajiri-a ro ngəla. Loktu yaye ma daatə.
+20. **Awo musiko notəna biktə.** Kəm piano bizaana musiko ngəla cənzəjin; ngawo, saut gana kəltə.
+21. **Musiko roza kuru.** Konsert gana jama-be au kərin yakta-be. Na kəritəbe-a kəriwo.
 
-## Reminiscence: photos, objects and stories
+## Kəndaram taktə: foto, awo-a labar-a
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Kəndaram ngawo-a kəltə cənzəne, amma jarabtənyi. «Taktəmmi wa...?» au «Adə wundu?» wultənyi; koro sapsana lan manane. Rui [cidaam kendəram taktə-be](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Album foto-be kuru.** Awo kuruye dəga gulle: «Kazəmua ngəla. Yimbi adə-a manasəmmo.» Sunzə wuljina dəga kasatte.
+23. **Sanduk kendəram-be dakkə.** Sanduk gana awo kəndaram nzə-a: badə cidabe, kaat dəgəri-be. Awo fal fal ro kutə.
+24. **Kitao kəndaram nzə-be badine.** Warak ndasoyen foto gana gana-a bayin kura-a. Adə am buro kəm dəga notəyinro banajin.
+25. **Kaat mana-be faidatə.** [Kaat mana-be](/games/conversation-cards/) foto-a koro sapsana-a kəlzəna.
+26. **Bisko foto fatobe dəne.** [Foto kəliwu-a](/games/photo-pairs/) fotoram nəmma-a bisko kəliwu ro cidajin.
+27. **Filim fado-be au TV ngawo kuru.** Koro kəltə diye, suro gəni.
+28. **Awo cidanzə ngawo-a rotə.** Spana, stethoscope, dəftar. Ngəwuro mukko labar dəga badizəyin.
+29. **Kəmbo saa gananzə-a dəgə.** Shi lowozəjin, tambəjin au dəgəriro napcə kəskəjin.
+30. **Na shi kəskəna-a kartaro kuru.** Atlas kura lan dalil notəna dəga le, kuru manane.
 
-## Creative activities
+## Cidaam zane-a
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Zane də awo cidaa ro, awo daatəna gəni. Awo kamuram-a aminma-a faidatə. Rui [zane-a cidaram mukko-be](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Nji kala-a lan zane.** Warak kau, kala gana. Badizəyin zau ma, alama burwoye-a kəltə zane.
+32. **Zane kamuram-a kala yikke.** Fure au kənta zane-a, kartun gəni. [Warak kala-be](/games/coloring/) nande skrin lan au warak lan cidaajin.
+33. **Kolaj dəne.** Kulo, motar au kəmbo fotoramzə kamtə kuru lappe. Ngawo, foto karno bas ma ngəla.
+34. **Fure dakkə.** Fure kasuwu lan kutəna-a vazə-a. Ngawo, fure gana jarro.
+35. **Kəltə sakə au kənta ndaltə.** Alama ngəla singa kura lan. Ngawo, kənta ball ro kuruwutə.
+36. **Fatomaro kaat dəne.** Tambar yikke au kaat yimbi sawa-a kəla ngəla-be-a am jire ro zane.
+37. **Nəngeri kau bawo lan awo dəne.** Tas gana dəne. Awo aminma faidatə kuru kəriwo.
+38. **Kəskə saata kuru ngəla ro dəne.** Sanduk ngudobe kit kamzəna-a kəskə saata-a, mashin bawo. Rui [cidaam kongawa-ro](/activities/for-men/).
+39. **Wasika ruwo au wultə.** Tada au sawa ngawo-ro. Ruwotə zau ma, shi manajin ni ruwo.
 
-## Outdoors and gardening
+## Deya-a kulo-a
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Kafun kəliwu-a kangal kənəngabe-a kəltə ngəla. Rui [cidaam deya-a kulo-be](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Kəskel njia yikke.** Nji buta gana-a pot gana-a. Kullo kullo njia yikte kənzaptəro ritim sadin.
+41. **Potro awo nəptə.** Teburro yikke, wunduma ngurumgin ba. Kəskel tadawa ngəla ro nəptə, njiro gəni.
+42. **Kulo ngare au fure sammatə.** Mukko kazəmua yikke, na gana gana ro.
+43. **Kəliwu kəskel-be samtə.** Na gana ro. Ngawo, leda rotə ma cida haqiqama.
+44. **Dalil notəna letə.** Fado kuruwuro au wasika sandukro. Gana ma ngəla.
+45. **Deya kəltə nap.** Yimbi shawa ma balballan nap. Folo au am kozəna kuru.
+46. **Ngudowa kəmbo yite.** Kəltə kəmbo na dəga yikke kuru windo lan kuru.
+47. **Motar tulu.** Baket, soso, kajiri zaume. Wil hubkap-be tulu alama fal ngəla.
 
-## Sensory activities
+## Cidaam kəla fandobe
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Letə, kənsə, tamtə, fango-a kuru-a dementia zaurin ma faidanza ngəwuro waljin. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) musiko, awo rotə-a mukko laftə-a alama ngawo ro bayanzəna. Allergy-a awo ciro yikta-a bərne kuru; rui [cidaam kəla fandobe](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Mukko laftə.** Bərne koro kuru loshon gana faidatə. Kənsə bawo-a karne, kəla nzə au allergy ro tawakkaltə.
+49. **Kənta fandoram rotə.** Baskət velvet, corduroy, kənta dimi-a satin-a lan, rotə-a koktə-a ro.
+50. **Kəskel ngəla-a kopi-a kənsə.** Nana au rozmeri kəla bən kəmkəm. Kənsə duno-a mbeji ma, yaye.
+51. **Kənduri nzə saatə.** Ngəla ro kuru shawa ro, shi cənzəna ma.
+52. **Kənta nji zaume kəltə.** Mukko-a fəska-a ro kajiri loktulan. Zaumenzə dəga bərne jarabne.
+53. **Apron cidabe kuru.** Buton kura-a zippa-a ngəla ro kəlkəlana. Awo ndasoma namdəgəyin ba kuru.
+54. **Kəmbo ngəla tambə.** Cokkol gana, awo shi aminro boro cərinro.
+55. **Saut alabe yikke.** Nji sam, nji kuram au ngudo yakta, ngəla ro gana.
+56. **Awo ngəla ro cidaana kuru.** Buni nji-be, filim alabe au kəngu sam.
 
-## Games and puzzles
+## Bisko-a awo ngəmbaro
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Biskoram cidajin, loktu, lamba au kəskə bawo ma. Jaraburo waljin ma, kolne. Rui [app-a bisko-a karno](/caregiving/choosing-apps-and-games/) kuru [biskoram hangal-be](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Foto kəliwo.** [Foto kəliwu-a](/games/picture-pairs/) fotoram dəga fəska kəskaro koldin, adəma taktə gəni, kuru ro.
+58. **Foto kəliwuma mata.** [Kəliwuma mata](/games/find-the-same/) karno 2 lan 4 ro sadin. Foto ndasoyen manazə.
+59. **Baskətro kəmilta.** [Kəltə kəmilta](/games/sort-together/) soks kəmilta-a skrin lan.
+60. **Jigsaw kura cidane.** Foto kamuram-a, kəsəm gana-a. [Foto puzzle](/games/picture-puzzle/) foto sammaa fəlejin. Yirai [puzzle dementia-be](/activities/puzzles/).
+61. **Kaat bisko ngawo biskone.** Awo saa kadube lan biskozəna. Ngawo, kaat dəga kəli ro kəmilta bisko ro waljin.
+62. **Domino biskone.** Cidiyanzə-a kəlzə. Ngawo, kəlle bən dəkkə ma ngəla.
+63. **Mana matə ruwonza kura jarabne.** [Mana matə](/games/word-search/) nande mana kəmari-a cidiro-a bas, kuru warak lan cidaajin.
+64. **Mana ngawo daatə.** [Mana ngawo daatə](/games/finish-the-saying/) daatəram dəga loktu yaye ma fəlejin.
+65. **Foto bingo biskone.** [Foto bingo](/games/picture-bingo/) fato-a jama-a ro ngəla. Kaat lamba-be ro banane.
+66. **Checkers biskone.** Kaidaa ngəla ro kolne. Kəsem dəga leiro kuru mana ma kəltəro ngono.
 
-## Movement
+## Kəla titizə
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA letə, stationary bike, band lozə, bal shawa au balloon gapcə, kənga sopa-be gotə-a kuru bidiyo cidaram kamuram ngawo-be-a shawartin. Awo buro badizəyinro, luwamaro koro, suwoli mbeji ma.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Balloon gapcə.** Fəskaramnzə kəltə nap. Ngəla ro lejin, adəma rotə ngəla.
+68. **Bidiyo cidaram napkada-be kamuram ngawo-ro** kəltə le.
+69. **Band lan lozə.** Mukko ngəla ro gotə, band shawa-a napkada lan.
+70. **Kənga sopa-be gotə.** Mukko ngəla ro gotə, musiko-a kəltə.
+71. **Stationary bike lan letə.** Minti gana ngəla ro, ni kəriwo.
+72. **Kənta shawa-a biyo.** Kənta shawa musiko-a lolotə, napkada au daada.
+73. **Dalil-a letə.** Wasika yikko au kopi yiworo. Dalil mbeji ma, letə də ngəla.
+74. **Nafas tusu kəltə.** [Nafas tusu ngəla-a](/games/calm-breathing/) kəltə ngəla ro diye.
 
-## Social activities
+## Cidaam jama-a
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Kəltə də ngəla, su taktəyin ba ma yaye, kuru jama gana jama kura-a kozəna. NIA gulzəna, kəm dəga am isana su taktəyin ba, amma kəltənzə-a cənzəjin. Rui [letə am-a ro](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Am fal au indi loktu fallan.** Letə gana na shawa-a ro, fotoram kuru-a.
+76. **Video lan fato-a manazə.** Mana gana, saut fal loktu fallan. Rui [waya-a video-be](/activities/phone-and-video-calls/).
+77. **Memory café jarabne.** Na kəltə am dementia-a kəla ro-a kuru kəltəmaram-a ro. Area Agency on Aging nəm namben koro, awo kəriwo mbeji.
+78. **Na shawa-a ro kəmbo bu.** NIA na notəna, shawa-a, loktu jamabawo-a, na banyo kəriwo-a shawartin.
+79. **Na kamuram ngawo-be au adult day program letə.** Shi-a ro kəltə, ni-a ro tusu.
+80. **Tadawa-a kəltə loktu kənza.** Tada nəmbe-a kəltə gana, au kaat foto-be tadawa gana-ro karantə.
+81. **Warak lamarra-be kopi-a kəltə kuru.** Bayin kura-a ngəla ro karane. Adat də lamarra-a kozəna.
+82. **Am gadero bana.** Program church-be koktə au kəmzuwuro kaat dəne.
 
-## Faith and spiritual activities
+## Adin-a ruhaniye-a
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Kəm dəga adin nzə-a gəne, au bawo ma. NIA ibada notəna, karatu, musiko adinbe, adua, tafakkur-a adin yimbi-a shawartin.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Ibada notənaro lene.** Na shawa-a karne, dalil kəriwo-a lan nap, kuru am na dəro dementia-a bayangəne.
+84. **Ibada online lan kuru** fado kəritə zau waljin ma.
+85. **Adua au karatu kəltə diye.** Mana notəna, ngəla ro. Shi notəna alama-a lan kəltəro waljin.
+86. **Yaktə adinbe au musiko adinbe** aladənzə lan yakte.
+87. **Adin yimbi-a rotə.** Kandil batari-be, albarka, awo shi sədəga dakkana.
+88. **Loktu shawa kəltə.** Kulolan nap au kangal samdəna kəltə kuru.
 
-## Pets and animals
+## Dabba-a awo kənzaram-a
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA dabba kəmbo yitə, saatə, letəro kutə, au kəltə nap-au rotə-a shawartin.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Kəri au ngəri shawa-a saatə** ngəla ro, kurum ro.
+90. **Kəltə dabba-a kəmbo yite.** Ni jange, shi fije.
+91. **Kəri-a kəltə letə.** Dalil də ni rote.
+92. **Dabba-a ngurumlan rotə.** Ngəri shawa kənta bən hangal tusuzəyin.
+93. **Dabba ambe-a isana-a kasatte.** Na kəla kənzaram-a au program kənzaram-a laa dabba-a isaro koldin. Na namben koro.
+94. **Dabba shawa haqiqama ro walzəna yite.** Dabba bawo ma, am laa ngəri au kəri shawa haqiqama ro rotə cənzayin. Ngəla ro yite, bisko gəni, kuru aʼa-a kasatte.
 
-## Seasonal activities
+## Cidaam saa-a
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Adat dəga rotə, amma ngəla ro. NIA saa jama-a lan awo jire-a ngəmbarno kuru na shawa tusube-a mbejiro shawartin.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Saa-a ro zane.** Kabewa, fure kəlkəla au fure kəliwu teburro.
+96. **Kəmbo saa-be dəgə.** Dəgəri koktə au kuki kala yikke. Oven də ni diye.
+97. **Awo zane-be kəlkə.** Awo namdəgənama bawo, fal fal ro yite.
+98. **Kangal kuru letə.** Kausu letə gana, kəltə bas marnəjin.
+99. **Fure bulbul saaro nəptə.** Səmaye bən potro nəptə kuru rabi ro kəritə kuru.
+100. **Masar au ngalo dəro kəmilta.** Cida balbalbe binəm saa-a, tas ngurumlan.
+101. **Kaat saa-be adrestə.** Shi tambar, tambar au lappin; ni adres diye.
 
-## What if an activity is not working?
+## Cida dəga cidajin ba ma, abi diyi?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Daatə, kuru loktu gade awo gade jarabne. NIA gulzəna, hangal kuttə dəga kuru kuru kəm dəga kuru bas cənzəna ma kolne. Aʼa ngəwuro cidaram də zauro walzəna, loktu də ngəla bawo, au awo gade shi-a ro zau, misallo kau, kəna au sauta. Ngəla ro dəne, səmson bərne jarabne, au ni kəlle bən badine kuru shi kəltəjin wa rui. Rui [shi aʼa wuljin ma](/caregiving/when-they-say-no/) kuru [kajiri ngawo lan tusummabawo](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Cidaam dəga kəmbo-a tusu-a dawun yikkinro, rui [kəndaram kulle ngəla-a](/activities/daily-routine/). Awo dakkənama ro, rui [cidaam warak lan cidaata](/activities/printable/), kuru jama cidaro kəriwo ma, [cidaam jama na kənzaram-be](/activities/care-home-groups/). Nəm kəla kənzaramma yaye ngəla: rui [kəla nəmma kənzaptə](/caregiving/caregiver-self-care/).

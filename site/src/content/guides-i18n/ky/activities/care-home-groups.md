@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Дементия үчүн топтук иш-чаралар: колдонмо"
+seoTitle: "Дементия үчүн топтук иш-чаралар: бинго, ырлар"
+description: "Эс багуу, багуу үйү жана күндүзгү программалар үчүн топтук иш-чаралар: сүрөттүү бинго, ырдоо, эскерүү топтору, отургузуу жана топтун көлөмү боюнча кеңештер."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Эс багуу жана күндүзгү программалардагы жакшы топтук иш-чаралар кыска,
+  тааныш жана ар ким каалаган деңгээлде кошула ала тургандай болот: сүрөттүү
+  бинго, бирге ырдоо, эскерүү тегеректери, жөнөкөй кыймыл жана жалпы сөз
+  оюндары. Мүмкүн болушунча топторду чакан кармаңыз, баарына көрүнүп, угулуп
+  тургандай отургузуңуз, бир эле учурда бир так кадам бериңиз жана муктаж болгондор
+  үчүн жеңилирээк роль менен тынчтыкка чыгуу мүмкүнчүлүгүн алдын ала ойлоп коюңуз.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Чакан топтор көбүнчө бир чоң иш-чарага караганда жакшыраак иштейт жана көбүрөөк адам жөн гана көрүп отурбастан, жигердүү катыша алат."
+  - "Адамдарды тегерек же тага формасында, жетектөөчүгө жакын отургузуңуз. Угуу жана көрүү муктаждыктарын эске алып, фондогу ызы-чууну өчүрүңүз."
+  - "Ар бир иш-чараны ар түрдүү мүмкүнчүлүктөрү бар адамдар баары кошула алышы үчүн эки же үч деңгээлде пландаштырыңыз."
+  - "Суроо-жооп, упай жана жеңүүчүлөрдөн алыс болуңуз. Сүрөттүү бинго оюнун ар бир адамдын картасы толуп бүткөнчө ойносо болот."
+  - "Эрте чыгып кетүү, көрүп отуруу же уктап калуу — баары жагымдуу. Тынчыраак жерге кеткиси келген адамга жардам бере турган кызматкер дайым даяр болсун."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Дементия үчүн иш-чараларда топтун көлөмү канча адамдан турушу керек?"
+    a: "Бир гана туура сан жок, ал катышуучуларга, бөлмөгө жана канча кызматкер бар экенине жараша болот. Көптөгөн командалар чакан топтордо ар ким көрүнүп, угулуп, катыша аларын байкашат, ал эми чоң залдагы иш-чараларда көбүрөөк адам жөн гана көрүп отурат. Чоң иш-чара өткөрсөңүз, катышуучулардын арасына отуруп, бир-эки адамга жардам бере турган кызматкерлерди же ыктыярчыларды кошуңуз."
+  - q: "Мүмкүнчүлүктөрү ар түрдүү топ менен иш-чараны кантип өткөрөм?"
+    a: "Ар бир иш-чарага кошулуунун бирден ашык жолун пландаштырыңыз. Бирге ырдоодо кимдир бирөө бардык сөздөрдү айтат, кимдир бирөө кол чаап же ун кошуп ырдайт, ал эми кимдир бирөө чайкагычты кармап турат. Сүрөттүү бингодо айрым адамдар сүрөттөрдү өзү табат, башкаларга жардамчы көрсөтүп турат. Көбүрөөк жардамга муктаж адамдарды кызматкердин же ыктыярчынын жанына отургузуңуз."
+  - q: "Сүрөттүү бинго оюнун атаандаштыксыз кантип ойнотсо болот?"
+    a: "Ар бир адамдын картасы толгонго чейин бардык сүрөттөрдү атаңыз, ошентип эч ким четте калбайт. Ар бир сүрөт чыкканда ал жөнүндө кыскача сүйлөшүңүз, жеңүүчүлөргө сыйлык бербеңиз же баарына бирдей кичинекей белек бериңиз. Максат — биргелешип көңүл буруу жана баарлашуу, ким биринчи бүткөнү эмес."
+  - q: "Оюндарыңызды топто чоң экранда колдоно аламбы?"
+    a: "Ооба. Биздин оюндар веб-браузерде иштейт, ошондуктан аларды ноутбукта же планшетте ачып, сыналгыга же проекторго туташтырсаңыз болот. Picture Bingo оюнунда басып чыгарууга жарактуу карталар жана экрандагы жетектөөчү бар. Finish the Saying жана Picture Pairs да топтун атынан бир адам басып турганда чоң экранда жакшы өтөт."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Бул колдонмо иш-чараларды уюштуруучуларга, эс багуу командаларына жана күндүзгү программалардын жетекчилерине арналган. Анда натыйжалуу өткөн топтук форматтар, бөлмөнү жайгаштыруу, мүмкүнчүлүктөрү ар түрдүү адамдар үчүн бир иш-чараны ылайыкташтыруу, ошондой эле биздин басып чыгарууга жарактуу бинго карталарын жана чоң экрандагы оюндарды колдонуу тууралуу айтылат. Бул жерде баары жайлуулукка, байланышууга жана тандоого багытталган. Бул жерде эч нерсе сыноо эмес.
 
-## What makes a group activity work in memory care?
+## Эс багууда топтук иш-чараны ийгиликтүү кылган эмне?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Жакшы топтук иш-чара тааныш, кыска, ар ким каалаган деңгээлде кошула ала тургандай жана басымсыз болот. Alzheimer’s Association уюмунун [Дементиялык кам көрүү боюнча практикалык сунуштарында](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) маанилүү катышуу адамдын кызыкчылыктарын жана каалоолорун колдогон, тандоого жана ийгиликке мүмкүнчүлүк берген нерсе катары сүрөттөлөт. Бул дементия абдан оор стадияда болсо да тиешелүү. Ошол эле документте салттуу программалар көбүнчө күнүнө бир-эки чоң топтук иш-чарага таянып, катышуучулар көбүнчө жөн гана пассивдүү катышып калаарын белгилейт.
 
-That points to a few practical rules:
+Мындан бир нече практикалык эрежелер чыгат:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Тааныш нерсе жаңысынан жакшы.** Катышуучулардын жаш кезинен белгилүү ырлар, макалдар, сүрөттөр жана буюмдарга кошулуу оңой болот.
+- **Кыска иш-чара узунунан жакшы.** Тобуңуздун көңүлү канча убакытка чейин топтоло аларына жараша пландаштырыңыз жана ортосунда табигый токтоо чекитин калтырыңыз.
+- **Кыймыл-аракет көрүп отургандан жакшы.** Ар бир адамга кармап турууга, басууга, тандоого же айтууга бир нерсе бериңиз.
+- **Бир иш-чара — көп деңгээл.** Катышуунун жеңилирээк жана татаалыраак жолдорун камтыңыз.
+- **Жеңүүчү да, упай да жок.** Атаандаштык форматтары айрым адамдарда өзүн жетишсиз сезиши мүмкүн.
 
-## How big should the group be?
+## Топ канчалык чоң болушу керек?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Көбүнчө чакан топ оңой болот. Alzheimer’s Association чоң чогулушта ыңгайсызданган адам чакан топто жеңилирээк катыша аларын белгилейт. Бир гана туура сан жок. Ал катышуучуларга, бөлмөгө жана канча кызматкер же ыктыярчы бар экенине жараша болот.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Пайдалуу текшерүү: ар бир адам жетектөөчүнүн жүзүн көрө алабы, так уга алабы жана жардамчы бир нече секунддун ичинде жете алабы? Эгер жок болсо, топту бөлүңүз, жардамчыларды кошуңуз же кичирээк бөлмөгө өтүңүз.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Майрамдык концерт сыяктуу чоң иш-чарада кызматкерлер менен ыктыярчыларды дубалдын жанына эмес, катышуучулардын арасына отургузуңуз.
 
-## How should I set up the room and seating?
+## Бөлмөнү жана отургучтарды кантип жайгаштыруу керек?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Тегерек же тага формасы.** Практикалык сунуштарда баарлашуу тегерегин баары тегерек отура ала тургандай чоң, фондо ызы-чуу жок мейкиндикте өткөрүү эң ылайыктуу деп айтылат.
+- **Жетектөөчү жакын жана көз деңгээлинде болсун.** Мүмкүн болсо, туруп эмес, отуруп жүргүзүңүз.
+- **Адегенде угуу жана көрүү.** Угуусу начар адамдарды жетектөөчүгө жакыныраак, жакшы уга турган жагына отургузуңуз. Көз айнек менен угуу аппараттары туура коюлганын текшериңиз. Alzheimer’s Association көрүү жана угуу көйгөйлөрү баарлашууну кыйындатышы мүмкүн экенин белгилейт.
+- **Жарык катышуучулардын аркасынан, сиздин аркаңыздан эмес түшсүн.** Эч кимди жаркыраган терезеге каратып отургузбаңыз.
+- **Сыналгы менен радиону өчүрүңүз.** Alzheimer’s Association музыкалык иш-чараларда атаандашкан ызы-чууну алып салууну сунуштайт.
+- **Бир учурда бир эле сүйлөшүү.** Alzheimer’s Association [майрамдарга байланышкан кеңештеринде](https://www.alz.org/help-support/caregiving/holidays) белгилегендей, кошулуп сүйлөшүү дементия менен жашаган адамдарга жана угуу көйгөйү бар адамдарга кыйын болушу мүмкүн.
+- **Ачык чыгуу жолдору жана тынч бурч.** Кеткиси келген ар бир адам оңой чыгып кете алышы керек, жанында аны коштоп бара турган кызматкер болсун.
 
-## Group activity ideas
+## Топтук иш-чаралар үчүн идеялар
 
-### Picture bingo
+### Сүрөттүү бинго
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Сүрөттүү бингодо сандардын ордуна чайник, ит же роза сыяктуу так сүрөттөр колдонулат, ошондуктан эч кимге узун сандарды эстеп калуу же майда жазууну окуу керек болбойт.
 
-**How to run it:**
+**Кантип өткөрүү керек:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Биздин [Picture Bingo](/games/picture-bingo/) барагынан «Басып чыгаруу» баскычын колдонуп, ар бир адамга бир картадан басып чыгарыңыз. Калың кагаз кармоого оңой. Кайра колдонуу үчүн ламинаттаса болот.
+2. Кармоого оңой чоң маркерлерди таратыңыз, мисалы покер фишкалары, бөтөлкө капкакчары же картондон кесилген квадраттар.
+3. Экрандагы жетектөөчүнү сыналгыга же проекторго чыгарыңыз, ошондо баары сүрөттү көрүп, анын атын угат.
+4. Ар бир сүрөттөн кийин токтоп, кыска пикир алмашууга чакырыңыз: «Кимдир бирөө таанышкан ит жөнүндө айтып бергиңиз келеби?» же «Бул сүрөттөн эмнени байкадыңыз?»
+5. Ар бир картанын баары толгонго чейин атаңуз. Баары бирге бүтүрөт.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Ылайыкташтыруу:** Толук карта өтө түйшүктүү болуп көрүнгөндөр үчүн азыраак квадрат колдонуңуз. Жардамга муктаж адамга жардамчы туура сүрөттү көрсөтө алат. Айрым адамдар жетектөөчүнүн сүрөт картасын кармап, топко көрсөтүүнү жактырышы мүмкүн.
 
-### Sing-alongs
+### Бирге ырдоо
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Музыка — эң кеңири жактырылган топтук иш-чаралардын бири. Alzheimer’s Association кийинчерээк стадияларда да адам [ырдын ыргагын кайра ала же балалык кезиндеги ырды ырдай алышы](https://www.alz.org/help-support/caregiving/daily-care/art-music) мүмкүн экенин белгилейт.
 
-**How to run it:**
+**Кантип өткөрүү керек:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Жетектөөчүнүн эмес, катышуучулардын жаш кезинде уккан ырларын тандаңыз. Ар бир адам эмнени жактырганын үй-бүлөлөрүнөн сураңыз.
+- Жарнамасыз музыканы колдонуңуз, анткени уюмдун айтымында жарнамалар түшүнүксүз болушу мүмкүн.
+- Окуган адамдар үчүн сөздөрүн чоң тамга менен басып чыгарыңыз, бирок муну милдет кылбаңыз.
+- Чайкагыч, кол барабаны же желбиретип ойноого жоолук сыяктуу нерселерди сунуштаңыз.
+- Кол чаап, кыймылдаганды колдоңуз жана үндүн катуулугун ыңгайлуу деңгээлде кармаңыз.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Ылайыкташтыруу:** Айрым адамдар бардык сөздөрдү ырдайт, айрымдары үн кошуп же буту менен ыргак кайталайт, ал эми айрымдары жөн гана угат. Мунун баары — катышуу. Кененирээк маалымат үчүн биздин [музыкалык иш-чаралар боюнча колдонмону](/activities/music/) караңыз.
 
-### Reminiscence groups
+### Эскерүү топтору
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Эскерүү тобу мектеп күндөрү, биринчи унаалар, ашкана же жай сыяктуу бир теманын айланасында сүрөттөрдү, буюмдарды жана музыканы колдонуп чогулат. Максат — жагымдуу баарлашуу, так эскерүү эмес.
 
-**How to run it:**
+**Кантип өткөрүү керек:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Бир теманы тандап, адамдар кармай көрө ала турган бир нече буюм алып келиңиз: кол миксери, бейсбол колкап, шляпа, үрөн каталогу.
+2. Бир учурда бир буюмду бериңиз. Ачык суроолорду бериңиз: «Бул жөнүндө айтып бериңизчи», «Эмнени байкадыңыз?», «Мындай нерсени ким колдончу?»
+3. Ар бир жоопту кабыл алыңыз. Датаны же фактты эч качан оңдобоңуз.
+4. Сүйлөшүүнү жылуу эскерүүлөргө багыттаңыз. Практикалык сунуштарда кам көрүүчүлөр эскерүүлөрдү капа кылышы мүмкүн болгон эскерүүлөргө эмес, жагымдуу эскерүүлөргө багытташы керек деп айтылат.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) бөлүмүндө темалар боюнча ачык суроолору бар, басып чыгарууга жарактуу сүрөт карталары бар. Алар сүйлөшүүнү баштоого жакшы жардам берет. Дагы идеялар үчүн биздин [эскерүү боюнча колдонмону](/activities/reminiscence/) караңыз.
 
-### Finish the saying
+### Макалды улантуу
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Тааныш макалдар («Бүгүнкү эмгек — эртеңки...») баарын бирге улап айтууга чакырат. [Finish the Saying](/games/finish-the-saying/) оюнун чоң экранга чыгарып, топко бир добуш болуп жооп берсин. Ар бир макалдан кийин сүйлөшүүгө түрткү берүүчү суроо бар. Эч ким улантууну айтпаса, туурасын көрсөтүп, андан ары өтүңүз. Туура же туура эмес жооп жок.
 
-### Large-print word search, together
+### Чоң тамгалуу сөз издөө, бирге
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Чоң тамгалуу [Word Search](/games/word-search/) оюнун экранга чыгарып, сөздөрдү топ болуп издеңиз же өз алдынча иштегенди жактыргандар үчүн үстөлдө басып чыгарылган нускаларды бериңиз. Сөздөр гана туурасынан жана ылдыйга жайгашкан.
 
-### Gentle movement
+### Жеңил кыймыл
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Отурган абалда созулуу, жумшак топту же шарды берүү же тааныш музыка астында отургучта бийлөө. Ар бир кыймылды түшүндүрүп бербестен, өзүңүз көрсөтүңүз.
 
-### Sorting and matching at the table
+### Үстөлдө сорттоо жана жупташтыруу
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Үч-төрт адамдан турган кичинекей үстөлдөрдө сүрөттөрдү, кездеме үлгүлөрүн же ашканаларды чогуу сорттосо болот. Экранда [Picture Pairs](/games/picture-pairs/) оюнун сүрөттөрдү ачык калтырып ойносо болот. Бир адам басып турат, ал эми үстөлдөгүлөр ар бир сүрөт жөнүндө сүйлөшөт.
 
-## How do I use your games on a big screen?
+## Оюндарыңызды чоң экранда кантип колдонсом болот?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Биздин оюндар веб-браузерде иштейт, ошондуктан аларды сыналгыда же проектордо эч нерсе орнотпостон эле колдонсоңуз болот.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Оюнду кабель же экранга чыгаруу аркылуу туташтырылган ноутбукта же планшетте ачыңыз.
+2. Браузерди толук экранга коюңуз жана үндү ыңгайлуу деңгээлге тууралаңыз.
+3. Топ тандоолорду айтып турганда, бир жетектөөчү басып турсун. Же кезеги менен баскысы келген катышуучуга планшетти бериңиз.
+4. Топ даяр болгондо токтоп коюңуз. Оюндарда таймер, упай же аргасыз бүтүрүү жок.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) жана [Conversation Cards](/games/conversation-cards/) көбүнчө топтор үчүн эң ылайыктуу келет. Бардык варианттарды биздин [оюндар барагынан](/games/) көрүңүз.
 
-## How do I adapt one activity for mixed abilities?
+## Мүмкүнчүлүктөрү ар түрдүү адамдар үчүн бир иш-чараны кантип ылайыкташтырам?
 
-Plan at least three ways to join every activity.
+Ар бир иш-чарага катышуунун жок дегенде үч жолун пландаштырыңыз.
 
-| Activity | More independent | Some support | Most support |
+| Иш-чара | Өз алдынча көбүрөөк | Бир аз жардам менен | Көбүрөөк колдоо менен |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Сүрөттүү бинго | Сүрөттөрдү өзү таап, жабат | Жардамчы көрсөтөт, адам өзү жабат | Сүрөт картасын кармайт, угат жана көрөт |
+| Бирге ырдоо | Ырдайт, кийинки ырды тандайт | Үн кошуп ырдайт, кол чаап же чайкагычты колдонот | Угат, жоолукту кармайт, колу менен ыргак кайталайт |
+| Эскерүү | Окуяларды айтып берет | Ооба же жок деп жооп берет же көрсөтөт | Буюмду кармайт жана сезип көрөт |
+| Сөз издөө | Өзүнүн басып чыгарылган барагында иштейт | Жардамчы менен чоң экрандан сөздөрдү табат | Сөздөр окулганын угат |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Кийинчерээк стадиядагы катышуучулар үчүн NHS иш-чаралар көбүнчө жөнөкөйлөтүлүшү жана музыка, кармап көрүүгө жарактуу буюмдар же кол массажы сыяктуу сезимдерге көбүрөөк таянышы керек экенин белгилейт. Топтун учурунда же андан кийин болгон жеке маектешүү мындай адамга топтун өзүнөн жакшыраак жарашы мүмкүн. [Кийинки стадия үчүн иш-чараларды](/activities/late-stage/) караңыз.
 
-## How should leaders talk during a group?
+## Жетектөөчүлөр топтук иш-чарада кантип сүйлөшү керек?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Ар жолу өзүңүздү тааныштырыңыз жана ар бир адамдын каалаган аты менен кайрылыңыз.
+- Жай сүйлөңүз, бир эле учурда бир кадам бериңиз жана айтып берүүдөн мурун көрсөтүңүз.
+- «Эсиңиздеби?» сыяктуу сынак суроолорунун ордуна «Бул жөнүндө айтып бериңизчи» сыяктуу ачык чакырууларды же жөнөкөй тандоолорду бериңiz.
+- Оңдобоңуз. Ар бир пикир үчүн ыраазычылык билидириңиз.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Бул тууралуу кененирээк маалымат биздин [баарлашуу боюнча кеңештерде](/caregiving/communication-tips/) берилген.
 
-## Ending well, and letting people leave
+## Жакшы аяктоо жана адамдарга кетүүгө мүмкүнчүлүк берүү
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Токтотуу — бул жакшы жыйынтык. Кимдир бирөө чарчап, тынчы жок болуп же капа болуп жатса, байкаңыз жана жардамчы аны сейилдетүүгө же башка жердеги тынч орунга алып барууну сунуштасын. Бирге ырдоо учурунда уктап калган адам жөн эле өзүн жайлуу сезип жаткан болушу мүмкүн.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Ар бир топтук иш-чараны бирдей жол менен, тааныш ыр же жөнөкөй ыраазычылык менен жыйынтыктаңыз, ошондо аягы тынч жана күтүлгөндөй сезилет. Иш-чарадан кийин эмне жакшы өткөнүн жана кимге эмне жакканын кыскача жазып алыңыз. Бул жазуулар кийинки жолку иш-чараны жакшыртат.

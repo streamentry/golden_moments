@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Diaetae MIND et Mediterranea et dementia: quid scimus"
+seoTitle: "Diaeta MIND et dementia: quid scimus"
+description: "Quid studia de diaetis MIND et Mediterranea et dementia dicant, cur magnum experimentum commodum clarum non invenerit, et quomodo hominem cum dementia viventem bene alere possis."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Studia observantia diaetas modo Mediterraneo et MIND cum minore periculo
+  dementiae coniungunt, sed non semper. Experimentum temere ordinatum per tres
+  annos de diaeta MIND, anno 2023 editum, nullum discrimen magni momenti in
+  cogitatione aut in imaginibus cerebri invenit, si cum diaeta comparationis
+  confertur. Nullus cibus nec ullum supplementum probatur dementiam arcere. Eis
+  qui cum dementia vivunt, satis edere et bibere maxime prodest.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Nonnulla studia, sed non omnia, quae homines per tempus sequuntur, diaetas modo Mediterraneo et MIND cum minore periculo dementiae coniungunt."
+  - "In experimento anni 2023 cum 604 adultis maioribus natu, homines in diaeta MIND non melius se gesserunt in probationibus cogitationis aut in imaginibus cerebri quam homines in diaeta comparationis post tres annos."
+  - "National Institute on Aging dicit nulla indicia esse, cibum quendam edere aut vitare morbum Alzheimer arcere posse, et nullam vitaminam nullumve supplementum probari morbum Alzheimer arcere."
+  - "Diaeta plena holerum, fructuum, leguminum, granorum integrorum et piscium valetudini cordis favet et fortasse adiuvat contra pericula sicut pressionem sanguinis altam et diabetem."
+  - "Eis qui cum dementia vivunt, cibi digitis sumendi, patinae colore distinctae, tempora edendi tranquilla et potus saepe maioris momenti sunt quam quaelibet certa diaeta."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Num diaeta MIND dementiam arcet?"
+    a: "Hoc non est demonstratum. Studia observantia diaetam MIND cum minore periculo coniunxerunt, sed experimentum temere ordinatum per tres annos, anno 2023 editum, nullum discrimen magni momenti in probationibus cogitationis aut in imaginibus cerebri invenit inter homines in diaeta MIND et homines in diaeta comparationis. Uterque grex paulum profecit et simile pondus amisit."
+  - q: "Quid interest inter diaetam MIND et diaetam Mediterraneam?"
+    a: "Diaeta Mediterranea holera, fructus, grana integra, legumina, pisces et oleum olivarum extollit, cum parva copia carnis rubrae aut dulcium. Diaeta MIND eam cum diaeta DASH ad pressionem sanguinis coniungit et holera viridia foliacea et baccas praecipue commendat, dum carnem rubram, dulcia, caseum, butyrum et cibos frixos circumscribit."
+  - q: "Suntne cibi aut supplementa quae morbum Alzheimer arceant?"
+    a: "Non sunt. National Institute on Aging dicit nulla indicia esse, cibum quendam edere aut vitare morbum Alzheimer aut deminutionem cogitationis aetate factam arcere posse, et nulla vitamina nullumve supplementum probatum est morbum Alzheimer arcere. Loquere cum medico antequam supplementa sumas."
+  - q: "Qui cibi homini cum dementia viventi facillime eduntur?"
+    a: "Cibi parvi digitis sumendi, sicut partes panis fartae, partes pulli, segmenta aurantii aut partes holerum vapore coctae, saepe facilius eduntur quam cibi quibus cultris et furcillis opus est. Si mandere aut deglutire difficile est, cibi molles sicut ova conturbata, pulticula ex malis aut caseus mollis iuvare possunt. Roga medicum de exploratione deglutitionis, si tussis aut suffocatio accidit."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,177 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Fortasse legisti diaetam „cerebro salubrem” morbum Alzheimer arcere posse. Res
+vera modestior est. Nonnulla genera edendi in studiis, quae homines per tempus
+sequuntur, cum minore periculo coniuncta sunt, sed optimum experimentum adhuc
+factum commodum clarum non invenit. Haec pagina utrumque explicat, deinde ad id
+vertitur quod plerumque maxime refert ei qui iam cum dementia vivit: satis
+edere et bibere, atque ex eo gaudere.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Haec est notitia generalis, non consilium medicum. Loquere cum medico aut
+diaetologo antequam victum tuum aut alterius mutes. Vide nostrum
+[monitum medicum](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Quae sunt diaetae Mediterranea et MIND?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) eas hoc modo describit
+([NIA de diaeta et morbo Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Diaeta Mediterranea:** magna copia fructuum, holerum, granorum integrorum,
+  leguminum, piscium et fructuum maris, atque oleum olivarum, cum parva copia
+  carnis rubrae, ovorum et dulcium.
+- **Diaeta MIND** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
+  mixtura diaetae Mediterraneae et diaetae DASH ad pressionem sanguinis. In ea
+  sunt holera, praesertim viridia foliacea; baccae; grana integra; legumina;
+  nuces; pisces saltem semel in hebdomade; et oleum olivarum. Carnem rubram,
+  dulcia, caseum, butyrum aut margarinam, et cibos frixos aut celeres
+  circumscribit.
 
-## Do these diets lower dementia risk?
+## Num hae diaetae periculum dementiae minuunt?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Indicia mixta sunt. NIA dicit nonnulla studia observantia, sed non omnia,
+diaetas Mediterraneam et MIND cum minore periculo dementiae coniunxisse, si cum
+diaeta modo Occidentali, quae plus carnis rubrae, adipis saturati et sacchari
+habet, comparantur.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Commissio Lancet anni 2024 investigationes accuratius perspexit
+([Commissio Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Una recensio studiorum cohortium bonam qualitatem diaetae cum periculo
+  dementiae circiter 20% minore coniunxit.
+- Maior analysis trium cohortium maiorem observantiam diaetae MIND cum minore
+  periculo coniunxit.
+- Sed studium Suecicum, quod 28 025 homines mediae aetatis per circiter 20 annos
+  secutum est, nullum periculum minus invenit neque cum diaetis commendatis
+  neque cum diaeta modo Mediterraneo.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Studia observantia causam et effectum probare non possunt. Homines qui hoc modo
+edunt saepe etiam aliis rebus differunt, sicut reditu, educatione, exercitatione
+corporis et aditu ad curam valetudinis. Commissio iudicavit non satis indiciorum
+esse ut dicatur diaetas salubres dementiam recta via arcere, quamquam multa
+poma et holera edere et pauciores cibos valde elaboratos edere multis rebus ad
+valetudinem pertinentibus prodest et pericula sicut obesitatem, diabetem et
+pressionem sanguinis altam afficit. Diaetam in indicem suum
+[14 factorum periculi](/brain-health/risk-factors/) non addidit.
 
-## What did the 2023 MIND diet trial find?
+## Quid invenit experimentum diaetae MIND anni 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Fortissimum experimentum adhuc factum fuit experimentum temere ordinatum, in
+New England Journal of Medicine anno 2023 editum
+([experimentum diaetae MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Qui:** 604 adulti annorum 65 aut maiorum in regionibus Chicago et Boston,
+  sine difficultatibus cogitationis, qui propinquum cum dementia habebant, pondere
+  maiore erant, et ab initio diaetam minus salubrem habebant.
+- **Quid:** per tres annos, dimidium eorum diaetam MIND secutum est, alterum
+  dimidium diaetam suam solitam. Uterque grex rogatus est ut circiter 250
+  calories pauciores in die sumeret et consilium regulare a diaetologis accepit.
+- **Eventus:** probationes cogitationis paulum meliores factae sunt in
+  **utroque** grege. Discrimen inter greges parvum fuit et **non magni momenti
+  statistice**. Imagines cerebri quoque similes mutationes in utroque grege
+  ostenderunt.
+- **Pondus:** uterque grex circiter 5 chiliogrammata (circiter 11 libras)
+  amisit.
 
-### Why might the trial have found no difference?
+### Cur fortasse experimentum nullum discrimen invenit?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Investigatores plures causas proposuerunt. Grex comparationis fortasse diaetam
+suam quoque meliorem fecit, quia simile pondus amisit. Probationes iteratae
+eventus per se meliores facere possunt, cum homines probationibus assuescant.
+Tres anni fortasse nimis breve tempus sunt. Plerique participes bene eruditi
+erant et origine Europaea, itaque eventus fortasse non omnibus conveniunt.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Itaque summa sincera haec est: diaeta MIND per tres annos diaetam sensibilem
+cum paucioribus caloriis non superavit. Hoc non significat bene edere inutile
+esse. Significat neminem exspectare debere certam diaetam dementiam arcere
+posse.
 
-## What about specific foods and supplements?
+## Quid de certis cibis et supplementis?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA dicit nulla indicia esse, cibum quendam edere aut vitare morbum Alzheimer
+aut deminutionem cogitationis aetate factam arcere posse. Baccae caeruleae,
+holera foliacea et turmeric omnia investigata sunt, sine probatione. NIA etiam
+dicit nullam vitaminam nullumve supplementum probatum esse morbum Alzheimer
+arcere, et nullum ad hunc finem commendari. NIA monet res non probatas, quae ad
+morbum Alzheimer arcendum venduntur, fortasse non tutas esse, pecuniam frustra
+consumere, aut utrumque, et cum medicamentis praescriptis impedire posse; itaque
+cum medico loquere antequam aliquid tale experiaris
+([NIA de morbo Alzheimer arcendo](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Quomodo edere salubre et iucundum manere potest?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Plurimis adultis maioribus natu propositum est cibus alens, notus et gratus,
+non consilium severum:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Cena ex cibis quos amas** ex exemplo diaetae Mediterraneae para: holera,
+  fructus, legumina, grana integra, pisces et oleum olivarum.
+- **Serva dulcia cara.** Delectatio et appetitus magni momenti sunt, praesertim
+  postea in vita.
+- **Cum aliis ede**, cum potes. Cenae communes bonum consortium praebent.
+- **Una coque.** Holera lavare aut ollam movere est bona actio communis; vide
+  [opera domestica](/activities/household-tasks/). Cara recepta familiae etiam
+  [memoriam rerum praeteritarum](/activities/reminiscence/) excitare possunt.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Adulti maiores natu calories minuere aut pondus amittere non debent nisi cum
+medico locuti sunt, et ieiunium pericula addita fert. Vide nostrum
+[ductum de ieiunio](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Quomodo hominem cum dementia viventem iuvare potes ut bene edat?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Eis qui cum dementia vivunt, **satis** edere et bibere plerumque maxima cura
+est. Alzheimer's Association notat homines fortasse oblivisci edere, putare se
+iam edisse, aut multis optionibus obrui, et malam nutritionem signa morum
+augere et iacturam ponderis efficere posse
+([Alzheimer's Association de cibo et edendo](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Hae sententiae ex Alzheimer's Association, NIA et Alzheimer's Society veniunt:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Praebe cibos digitis sumendos.** Partes parvae, quae facile capi possunt,
+   sicut partes panis fartae, partes pulli, bacilla piscium, segmenta aurantii
+   aut brassica viridis vapore cocta, hominem sinunt se ipsum alere sine cultris
+   et furcillis.
+2. **Utere colore distincto in mensa.** Mutationes visus efficere possunt ut
+   difficile sit cibum a patina discernere. Patinae aut scutellae albae in
+   tegumento mensae colore distincto positae iuvare possunt. Vasa et mappas
+   mensae variis figuris ornatas vita.
+3. **Praebe unum aut duos cibos simul.** Patina plena hominem obruere potest.
+4. **Serva tempora edendi tranquilla.** Televisorium exstingue, mensam simplicem
+   serva, et satis temporis da. NIA suadet ne festines neve urges.
+5. **Saepe parvas cenas et levia cibaria offer.** NIA suadet cenas minores et
+   saepiores et levia cibaria multa energia praedita, si homo non satis edit
+   ([NIA consilia ad bene edendum](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Iuva ad bibendum.** Per diem parva pocula aquae aut aliorum potuum offer,
+   una cum cibis qui multam aquam continent, sicut fructus, ius, potiones ex
+   lacte et poma mixta. Si homo aquam non vult, NIA suadet sucum, aquam sapore
+   addito, ius, lac, aut coffeam aut theam sine caffeina temptare.
+7. **Temperaturam inspice.** Homo fortasse non sentit cibum aut potum nimis
+   calidum esse.
+8. **Vasa et pocula apta.** Scutellae loco patinarum, cochlearia manubriis magnis
+   et pocula operculis instructa edere facilius reddere possunt. Noli de ordine
+   sollicitus esse.
+9. **Fac cibum facilius mandi et deglutiri.** Cibum in partes parvas seca aut
+   cibos molles praebe. Si homo inter edendum tussit aut suffocatur, medico eius
+   dic.
+10. **Noli cogere ut edat.** NIA notat appetitum in ultimis gradibus morbi
+    Alzheimer naturaliter minui.
 
-### Signs to tell the doctor about
+### Signa de quibus medico dicere debes
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Iactura ponderis, cibus recusatus, fatigatio aut infirmitas signa esse possunt
+hominem non satis edere. Alzheimer's Society notat dentes aut denturas dolentes,
+tristitiam, constipationem et mutationes medicamentorum omnia appetitum minuere
+posse
+([Alzheimer's Society de appetitu](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Signa dehydrationis, quae NIA enumerat, sunt os siccum, vertigo, pulsus cordis
+celer et hallucinationes
+([NIA de communibus quaestionibus medicis](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Loquere cum medico
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Antequam magnas mutationes in victu tuo aut alterius facias, cum medico aut
+diaetologo loquere, praesertim si diabetem, morbum renum, difficultates
+deglutitionis aut recentem iacturam ponderis habes. De homine cum dementia
+vivente roga quantum in die edere et bibere debeat, et num diaetologus aut
+supplementa iuvare possint.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Auxilium statim pete, si quis suffocatur, aut si repente confunditur, graviter
+vertigine afficitur aut concidit.

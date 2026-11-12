@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Деменциясы бар адамдар үчүн иш-чаралар: 101 идея"
+seoTitle: "Деменция үчүн иш-чаралар: 101 жөнөкөй идея"
+description: "Деменция менен жашаган чоңдор үчүн 101 жөнөкөй иш-чара: сүлгү бүктөөдөн музыка жана сүрөттөргө чейин, ар бирин кыйынчылык көбөйгөндө ылайыктоо жолдору."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Деменция менен жашаган адамдар үчүн жакшы иш-чаралар — тааныш, чоңдорго ылайык
+  жана чогуу жасоого жеңил нерселер: кир жуугандарды бүктөө, иргөө, тамак
+  даярдоо, музыка, сүрөттөрдү көрүү, сейилдөө, бакча иштери, үй жаныбарлары менен
+  убакыт өткөрүү жана жөнөкөй оюндар. Адам дайыма жактырган нерселерден баштаңыз,
+  кыйын бөлүктөрүн өзүңүз аткарыңыз жана ал чарчаганда токтоңуз. Бирге жагымдуу
+  убакыт өткөрүү бир нерсени аягына чыгаргандан маанилүүрөөк.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Адамдын өз жашоосунан баштаңыз: анын иши, хоббиси, ишеними жана сүйүктүү музыкасы — эң жакшы багыт."
+  - "Ар бир иш-чараны зарылчылыкка жараша кичирейтиңиз: кадамдары азыраак, тандоолору азыраак, кыйын бөлүгүн өзүңүз жасаңыз."
+  - "Жөн гана көрүү, бир нерсени кармоо же жанында отуруу да катышуу болуп эсептелет."
+  - "Чарчоо, капа болуу же зеригүү байкалса, токтоп же иш-чараны алмаштырыңыз. Эртерээк бүтүрүү — жакшы жыйынтык."
+  - "Бирге жасоо — туура жасоодон маанилүү."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Деменциясы бар адам үчүн кандай иш-чаралар ылайыктуу?"
+    a: "Адам көп жылдан бери жасап келе жаткан, бир аз жөнөкөйлөтүлгөн тааныш иш-чаралар: кир жуугандарды бүктөө, дасторкон жайуу, тамак даярдоо, музыка, сүрөттөрдү көрүү, сейилдөө, бакча иштери жана үй жаныбары менен убакыт өткөрүү. Чоңдорго ылайык жана пайдалуу сезилген нерселерди тандап, аларды чогуу жасаңыз."
+  - q: "Иш-чара канча убакытка созулушу керек?"
+    a: "Туура убакыт жок. Бир күнү бир нече мүнөт сүлгү бүктөө жетиштүү болушу мүмкүн, ал эми башка күнү бакчада бир саат оңой өтүшү мүмкүн. Адамдын өз темпине жол берип, ал дагы эле жагымдуу болуп жатканда токтогула."
+  - q: "Эгер адам иш-чарадан баш тартсачы?"
+    a: "Аны мажбурлабаңыз. «Жок» деген жооп тапшырма өтө кыйын болуп жатканын, убакыт туура эмес экенин же адам чарчап же ыңгайсыз болуп жатканын билдириши мүмкүн. Кийинчерээк кайра аракет кылыңыз, андан да жөнөкөй түрүн сунуштаңыз же тапшырманы жанында өзүңүз баштап, жардам берүүгө чакырыңыз."
+  - q: "Мээ үчүн оюндар деменциясы бар адамдарга пайдалуубу?"
+    a: "Оюндар чогуу убакыт өткөрүүнүн жагымдуу жолу болушу мүмкүн, бирок эч бир оюн деменцияны дарылоого, жайлатууга же токтотууга жардам берет деп далилденген эмес. Таймери, упайы же туура эмес жооп үнү жок оюндарды тандап, аларды сынак эмес, чогуу жасала турган иш-чара катары караңыз."
+  - q: "Иш-чаралар балалык сезилбеши үчүн эмне кылсам болот?"
+    a: "Чыныгы, чоңдорго ылайык нерселерди колдонуңуз: чыныгы сүлгүлөр, чыныгы рецептер, чоңдордун музыкасы жана сүрөт тартуу куралдары, чоңдорго ылайык сүрөттөр. Тапшырмаларды чындап эле жардам керек болгон иш катары сунуштаңыз жана адам менен чоң адам катары сүйлөшүңүз."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Деменция менен жашаган адам үчүн эң жакшы иш-чара, адатта, ал мурунтан эле билген, бирок бир аз жөнөкөйлөтүлгөн жана ишенген адамы менен чогуу жасала турган нерсе. Төмөндө түрү боюнча топтолгон 101 идея берилген. Ар биринде аны кантип даярдоо жана кыйынчылык жаралганда кантип жеңилдетүү керектиги жазылган. Атайын жабдыктар да, бир нерсени сөзсүз аягына чыгаруу да кереги жок. Жакшы түштөн кийин бир себет сүлгү менен бир чыны кофе болушу мүмкүн.
 
-## How do you choose the right activity?
+## Туура иш-чараны кантип тандайм?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Тизмеден эмес, адамдан улам тандаңыз: ал дайыма жактырган жана бүгүн ыңгайлуу кыла ала турган нерседен баштаңыз.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Анын ишин жана хоббисин эсиңизге алыңыз.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) мурун кеңседе иштеген адам монеталарды иргөөдөн же каттарды топтоодон ырахат алышы мүмкүн, ал эми бакчачы короо иштерин жактырышы мүмкүн деп белгилейт.
+- **Ал өзү эле эмне кылып жатканын байкаңыз.** Эгер атаңыз күн сайын эртең менен эч ким айтпастан подъездди шыпырып жүрсө, ошону күн тартибине киргизиңиз.
+- **Чектөөлөрдү эске алыңыз.** Чарчоо, көрүү, угуу, колдогу ооруу жана тең салмактуулук — баары маанилүү.
+- **Анын маанайын байкаңыз.** Көп кыймылды, ызы-чуу иш-чаралар айрым адамдарга ылайык келет, башкаларды тынчсыздандырышы мүмкүн.
+- **Максат бериңиз.** Чиркөөдөгү тамакка салфеткаларды бүктөө өзү үчүн жасалган көнүгүүдөн пайдалуураак сезилет.
 
-### A rough guide by stage
+### Баскычтар боюнча жалпы багыт
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Деменция көбүнчө баштапкы, орто жана кийинки баскычтар деп сүрөттөлөт. Бул катуу бөлүнүш эмес, көптөгөн адамдарда жакшы жана кыйын күндөр алмашып турушу мүмкүн, ошондуктан бүгүн эмне көрүп жатканыңызга жараша иш кылыңыз. [Alzheimer's Foundation of America баскычтар боюнча тизмеси](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) да ушуга окшош багыт берет.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Тема | Баштапкы баскыч | Орто баскыч | Кийинки баскыч |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Эмне байкалышы мүмкүн | Көбүнчө өз алдынча; пландаштыруу, жаңы аттар жана көп адамдуу жерлер кыйынга турат | Баштоодо жана кадамдарда жардам керек; сөз табуу кыйындайт | Күнүмдүк камдын көбүндө жардам керек; сезимдер эң маанилүү болот |
+| Көбүнчө ылайык келген иш-чаралар | Карта, үстөл оюндары, тамак даярдоо, бакча иштери, күндөлүк жазуу, сейилдөө, клубдар | Кир жуугандарды бүктөө, иргөө, тамак даярдоонун жөнөкөй кадамдары, ырдоо, фотоальбомдор, коштоп сейилдөө | Сүйүктүү музыка, колду сыйпоо, кармоого жумшак нерселер, үн чыгарып окуп берүү, сыртта отуруу |
+| Сиздин ролуңуз | Өнөктөш: кандай колдоо каалаарын сураңыз | Даярдаңыз, көрсөтүңүз, кыйын бөлүктөрүн өзүңүз аткарыңыз | Иш-чараны ага алып келиңиз; сиздин жанында болушуңуз — ошол иш-чаранын өзү |
+| Көбүрөөк идеялар | [Баштапкы баскыч](/activities/early-stage/) | [Орто баскыч](/activities/middle-stage/) | [Кийинки баскыч](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Деменциясы бар адам менен иш-чараны кантип баштоо керек?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Кичинеден баштаңыз, жанында туруп баштаңыз жана макул айтууну жеңилдетиңиз. Көптөр катышкысы келсе деле, пландаштырууга же баштоого кыйын болушу мүмкүн.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Анын эң жакшы убактысын тандаңыз,** көбүнчө эртең мененки убакыт.
+2. **Баарын алдын ала даярдап коюңуз,** ошондо дароо баштасаңыз болот.
+3. **Сынак эмес, жардам сураңыз:** «Бул нерселерде мага жардам берип коюңузчу?»
+4. **Өзүңүз баштаңыз.** Биринчи сүлгүнү бүктөп коюңуз да, кошулууга мүмкүнчүлүк бериңиз. Көрсөтүү түшүндүрүүдөн жакшыраак иштейт.
+5. **Бир эле кадамдан сунуштаңыз.**
+6. **Эң кыйын бөлүгүн өзүңүз аткарыңыз.** Alzheimer's Association ингредиенттерди өзүңүз өлчөп, анан аралаштыруу үчүн кашыкты берип коюуну сунуштайт.
+7. **Анын өз жолунан жасоосуна жол бериңиз.** Сүлгүлөр башкача бүктөлсө да эч нерсе эмес.
+8. **Жагымдуу болбой калганда токтогула.** Орунсуздугу, кабагын түйүү же «Мен кыла албайм» деген сөздөр — алмаштыруу же эс алуу белгиси.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Ошондой эле [чогуу кантип ойноо керек](/caregiving/how-to-play-together/) жана [баарлашуу кеңештери](/caregiving/communication-tips/) бөлүмдөрүн караңыз.
 
-## Everyday tasks at home
+## Үйдөгү күнүмдүк иштер
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Үй жумуштары тааныш жана пайдалуу, ошондуктан баштоо үчүн ыңгайлуу. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) идиш жуу, дасторкон жайуу, шыпыруу, каттарды иргөө жана кир жуугандарды бүктөө сыяктуу иш-чараларды адамдар жактырышы мүмкүн деп белгилейт. Көбүрөөк маалымат [үй жумуштары](/activities/household-tasks/) бөлүмүндө.
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Жылы сүлгүлөрдү бүктөңүз.** Кургаткычтан себетти столго төгүп, жанаша бүктөңүз. Кийинчерээк жөн гана жылмалап, үйүп коюу да пайдалуу.
+2. **Байпактарды жуптаңыз.** Абдан айырмаланган түстөрдөн баштаңыз. Кийинчерээк ачык түстөрдү кара түстөрдөн бөлүү жетиштүү.
+3. **Дасторкон жайыңыз.** Бир учурда бир түрдүү буюмду бериңиз. Үлгү катары бир орунду өзүңүз даярдап коюңуз.
+4. **Идиш жууңуз же кургатыңыз.** Жылуу, самындаган суу жана сынбай турган идиштер. Отуруп кургатуу буттарга жеңилирээк.
+5. **Столду сүртүңүз.** Тамактан кийин нымдуу чүпүрөктү бериңиз. Бул тынчсыз колдор үчүн чыныгы иш.
+6. **Каттарды иргеңиз.** Каталогдорду жана керексиз каттарды «калтыруу» жана «таштоо» деп бөлүңүз. Чыныгы эсеп-кысап кагаздарын четке коюңуз.
+7. **Купондорду кесиңиз.** Учтары жумуру кайчы жана азык-түлүк жарнамаларын колдонуңуз. Кийинчерээк сүйүктүү тамактарды тегеректеп коюу да жетиштүү.
+8. **Монеталарды иргеңиз.** Майда акчаны чөйчөкчөлөргө бөлүңүз же орогучтарга салыңыз. Эгер адам майда нерселерди оозуна салса, андай нерселерди колдонбоңуз.
+9. **Шыпырыңыз же чаңды сүртүңүз.** Подъездде жеңил шыпыргы же отургучтан колдонула турган узун саптуу чаң сүрткүч.
+10. **Тамак даярдоого жардам бериңиз.** Жашылчаларды жуу, салат жалбырагын үзүү, аралаштыруу. Бычак менен ысыкты өзүңүз колдонуңуз.
+11. **Үй-бүлөлүк рецепт боюнча бышырыңыз.** Эгер бар болсо, анын колу менен жазылган картаны колдонуңуз. Кийинчерээк ал даам көрүүчү боло алат.
+12. **Кеңсе ишин кылыңыз.** Каттарды бүктөө, конверттерге салып мөөр басуу же чогуу сатып алуулар тизмесин жазуу.
 
-## Music
+## Музыка
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Тааныш музыка сөздөр кыйын болгондо да адамга жетиши мүмкүн. [Alzheimer's Association музыка боюнча кеңештери](https://www.alz.org/help-support/caregiving/daily-care/art-music) тааныш ырларды, жарнамасыз угууну жана сыналгыны өчүрүп коюуну сунуштайт. [Музыкалык иш-чараларды](/activities/music/) караңыз.
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Жеке плейлист түзүңүз.** Анын өспүрүм жана жаш кезиндеги, үйлөнүү тоюндагы, чиркөөдөгү жана маданиятына тиешелүү музыка.
+14. **Бирге ырдаңыз.** Өзүңүз баштап ырдаңыз. Ырдын үнүн кошуп кошулуу же уктоо да жетиштүү.
+15. **Ритмди сактаңыз.** Кол чаап, тизеге уруп же кичине барабанды соккула. Отуруп жасоого болот жана кийинки баскычтарда да ылайыктуу.
+16. **Бийлеңиз.** Ашканада жай бийлөө же кол кармашып отуруп термелүү.
+17. **Толук альбомду уккула.** Сүйүктүү альбомду башынан аягына чейин, кофе ичип, башка эч нерсе кылбай.
+18. **Музыка жөнүндө сүйлөшкүлө.** Фактыларды эмес, эскерүүлөрдү чакырыңыз: «Бара турган бий кечелериңиз тууралуу айтып бериңизчи».
+19. **Тасмаланган мюзикл же концерт көрүңүз.** Алар сүйгөн шоу жакшы кеч боло алат. Каалаган убакта токтотсоңуз болот.
+20. **Тааныш аспапта ойноңуз.** Мурун пианинодо ойногон адам жөнөкөй чыгармалардан ырахат алышы мүмкүн; кийинчерээк бирге бир нече нотаны басуу да жетиштүү.
+21. **Жандуу музыканы угуңуз.** Кыска жамааттык концерт же хор репетициясы. Чыгууга жакын отуруңуз.
 
-## Reminiscence: photos, objects and stories
+## Эскерүү: сүрөттөр, буюмдар жана окуялар
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Өткөндү бирге сынабай, ырахат алып эскерип көрүңүз. «Эсиңиздеби...?» жана «Бул ким?» деген суроолорду таштап, ачык чакырууларды колдонуңуз. [Эскерүү иш-чараларын](/activities/reminiscence/) караңыз.
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Фотоальбом караңыз.** Көргөнүңүздү айтып коюңуз: «Кандай сонун кийим. Бул күн тууралуу айтып бериңизчи». Алар кайсы аттарды колдонсо, ошого ылайык жүрүңүз.
+23. **Эстелик кутучасын түзүңүз.** Анын жашоосуна тиешелүү буюмдар салынган бут кийим кутусу, мисалы, жумуш белгиси же рецепт картасы. Буюмдарды бирден чыгарыңыз.
+24. **Жашоо окуя китебин баштаңыз.** Ар бетке бир нече сүрөт жана чоң арип менен түшүндүрмө. Бул жаңы жардамчыларга адамды таанууга жардам берет.
+25. **Сүйлөшүү карталарын колдонуңуз.** [Conversation cards](/games/conversation-cards/) сүрөттү ачык суроо менен айкалыштырат.
+26. **Үй-бүлөлүк сүрөттөр менен оюн түзүңүз.** [Photo pairs](/games/photo-pairs/) өзүңүздүн сүрөттөрүңүздү жупташтыруучу оюнга айлантат.
+27. **Үй тасмаларын же эски телекөрсөтүүлөрдү көрүңүз.** Суроо бербей, чогуу комментарий айтыңыз.
+28. **Ишине байланыштуу буюмдарды кармаңыз.** Ачкыч, стетоскоп, каттоо дептери. Көп учурда колдор окуяны баштап берет.
+29. **Бала кезиндеги тамакты бышырыңыз.** Алар аралаштырып, даам көрүп же жөн гана ашканада сиз менен отуруп турушу мүмкүн.
+30. **Жашаган жерлеринин картасын караңыз.** Чоң атластан тааныш жолдорду сызып, сүйлөшкүлө.
 
-## Creative activities
+## Чыгармачыл иш-чаралар
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Сүрөт тартуу — жыйынтыктан эмес, процесстен ырахат алуу. Материалдар чоңдорго ылайык жана коопсуз болсун. [Кол өнөрчүлүк жана сүрөт иш-чараларын](/activities/arts-and-crafts/) караңыз.
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Акварель менен сүрөт тартыңыз.** Калың кагаз, бир нече түс. Эгер баштоо кыйын болсо, биринчи сызыктарды бирге жүргүзүңүз.
+32. **Чоңдор үчүн боёк китепчелерин боёңуз.** Мультфильмдер эмес, гүлдөр же көрпө үлгүлөрү. Биздин [боёо баракчаларыбыз](/games/coloring/) экранда да, басып чыгарганда да иштейт.
+33. **Коллаж жасаңыз.** Бакчалар, унаалар же тамактар жөнүндө журнал сүрөттөрүн жыртып, желимдеңиз. Кийинчерээк жөн гана сүрөттөрдү тандоо да жетиштүү.
+34. **Гүл түзүңүз.** Дүкөндөн алынган бир байлам гүл жана ваза. Кийинчерээк куюнга бир нече сабак салсаңыз болот.
+35. **Бирге токуңуз же илмек менен иштеңиз.** Чоң ийне менен жөнөкөй катарлар. Кийинчерээк жипти түйүндөргө ороо.
+36. **Үй-бүлө үчүн куттуктоо карталарын жасаңыз.** Чыныгы адамдарга туулган күн же көңүл сураган карталарды мөөр басып, кол коюп же кооздоп даярдаңыз.
+37. **Абада кургай турган чоподон форма жасаңыз.** Кичинекей идиш басып чыгарыңыз. Уулуу эмес материалдарды колдонуп, жанында болуңуз.
+38. **Жыгачты зымпаралап, иштеп чыгыңыз.** Даяр кесилген куш уйчугунун топтому жана зымпара кагазы, электр аспаптары жок. [Эркектер үчүн иш-чараларды](/activities/for-men/) караңыз.
+39. **Кат жазыңыз же айтып бериңиз.** Небереге же эски доско. Эгер жазуу кыйын болсо, алар айтып берсин, сиз жазыңыз.
 
-## Outdoors and gardening
+## Сыртта жана бакчада
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Таза аба жана күн нуру жагымдуу шерик. [Сырттагы жана бакчадагы иш-чараларды](/activities/outdoor-and-gardening/) караңыз.
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Өсүмдүктөрдү сугарыңыз.** Кичине лейка жана бир нече идиш. Күн сайын сугаруу күнгө ritmo берет.
+41. **Идишке көчөт отургузуңуз.** Эч ким тизеленбеши үчүн аны столго коюңуз. Көчөттөр үрөндөн оңой.
+42. **Отоп же кургаган гүлдөрдү үзүңүз.** Колкап кийип, бир убакта кичинекей гана жерди иштеңиз.
+43. **Жалбырактарды чогултуңуз.** Кичинекей гана участок. Кийинчерээк баштыкты кармап туруу да чыныгы иш.
+44. **Тааныш маршрутта сейилдеңиз.** Үйдүн айланасында же почта кутусуна чейин. Кыскараак болсо да болот.
+45. **Сыртта чогуу отуруңуз.** Жылуу күнү подъезддеги отургучта. Булуттарды же өтүп бараткан адамдарды көрүңүз.
+46. **Куштарды тоюттандырыңыз.** Бирге тоюттагычты толтуруп, терезе жанынан байкаңыз.
+47. **Унааны жууңуз.** Челек, губка, жылуу түштөн кийин. Дөңгөлөк капкактарын чайкоо — жакшы бир кадамдуу иш.
 
-## Sensory activities
+## Сезимдик иш-чаралар
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Деменция оордогон сайын тийүү, жыттоо, даам, үн жана көрүү сезимдери маанилүү боло берет. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) кийинки баскычтар үчүн музыка, кармоого арналган буюмдар жана кол массажын эскерет. Аллергия жана кыстырып алуу коркунучу жокпу, адегенде текшериңиз; [сезимдик иш-чараларды](/activities/sensory/) караңыз.
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Колго массаж жасаңыз.** Алгач уруксат сурап, аз гана лосьон колдонуңуз. Тери же аллергия боюнча ишенич жок болсо, жыты жок түрүн тандаңыз.
+49. **Кездемелерди кармаңыз.** Сыйпап, бүктөө үчүн баркыт, вельвет, жүн жана атлас салынган себет.
+50. **Чөптөрдүн жана кофенин жытын сезиңиз.** Жаңы жалбызды же розмаринди манжаларыңыздын арасында сүртүңүз. Дем алуу көйгөйлөрү болсо, күчтүү жыттардан алыс болуңуз.
+51. **Чачын тараңыз.** Эгер жактырса, жай жана жумшак кылып.
+52. **Жылуу нымдуу чүпүрөк бериңиз.** Суук күнү кол жана бет үчүн. Алгач температураны текшериңиз.
+53. **Иш-чаралар үчүн жасалган алдиярчаны колдонуңуз.** Бекем тигилген чоң топчулар жана сыдырмалар. Эч нерсе бошоп калбасын текшериңиз.
+54. **Сүйүктүү тамактан аз гана таттырыңыз.** Алар коопсуз жей ала турган текстурада, кичинекей кашыктан.
+55. **Табият үндөрүн коюңуз.** Жамгыр, толкун же куштардын үнү — акырын көлөмдө.
+56. **Жай нерсени көрүңүз.** Балык салынган аквариум, жаратылыш видеосу же жаап жаткан кар.
 
-## Games and puzzles
+## Оюндар жана табышмактар
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Оюндар таймер, упай же басым болбогондо жакшы иштейт. Эгер оюн сынакка окшоп кетсе, аны алып коюңуз. [Тиркемелерди жана оюндарды тандоону](/caregiving/choosing-apps-and-games/) жана [мээ үчүн оюндарды](/brain-health/brain-games/) караңыз.
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Сүрөттөрдү жуптаңыз.** [Picture pairs](/games/picture-pairs/) сүрөттөрдү ачык калтырат, ошондуктан бул эстеп калууга эмес, байкоого багытталган.
+58. **Ошол эле сүрөттү табыңыз.** [Find the same](/games/find-the-same/) экиден төрткө чейин тандоо берет. Ар бир сүрөт жөнүндө сүйлөшкүлө.
+59. **Себеттерге иргеңиз.** [Sort together](/games/sort-together/) байпак иргегендей, бирок экранда.
+60. **Чоң бөлүктүү пазл түзүңүз.** Чоңдорго ылайык сүрөттөр, аз бөлүк. [Picture puzzle](/games/picture-puzzle/) бүт сүрөттү көрүнүктүү калтырат. Көбүрөөк маалымат [деменция үчүн пазлдар](/activities/puzzles/) бөлүмүндө.
+61. **Эски карта оюнун ойноңуз.** Алар көп жылдар бою ойногон оюнду. Кийинчерээк колоданы түскө жараша иргөө да оюн боло алат.
+62. **Домино ойноңуз.** Учтарын дал келтириңиз. Кийинчерээк таштарды сапка тизип коюу да жетиштүү.
+63. **Чоң ариптүү сөз издөө оюнун байкап көрүңүз.** Биздин [сөз издөө](/games/word-search/) оюнунда сөздөр туурасынан жана ылдыйдан гана жайгашат жана басып чыгарууга болот.
+64. **Тааныш сөздөрдү аяктаңыз.** [Finish the saying](/games/finish-the-saying/) каалаган убакта аягы көрсөтүүгө мүмкүнчүлүк берет.
+65. **Сүрөттүү бинго ойноңуз.** [Picture bingo](/games/picture-bingo/) үй-бүлөлөргө жана топторго ылайыктуу. Карталарды белгилөөдө эркин жардам бериңиз.
+66. **Дамка ойноңуз.** Эрежелерди катуу сактабаңыз. Сүйлөшүп отуруп таштарды жылдыруу да жетиштүү.
 
-## Movement
+## Кыймыл
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA сейилдөө, стационардык велосипед, созулуу ленталары, жумшак топ же шарды ыргытуу, сорпо кутучаларын көтөрүү жана улгайган адамдарга арналган көнүгүү видеолорун сунуштайт. Жаңы нерсени баштоодон мурун, өзгөчө тең салмактуулук көйгөйлөрү болсо, дарыгер менен кеңешиңиз.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Шарды ыргыткыла.** Бетма-бет отуруңуз. Ал жай кыймылдайт, ошондуктан кармоо оңой.
+68. **Улгайган адамдарга арналган отуруп жасала турган көнүгүү видеосун** жанаша аткарыңыз.
+69. **Лента менен созулуңуз.** Отуруп, жеңил лента менен колдорду жай созуу.
+70. **Сорпо кутучаларын көтөрүңүз.** Музкага ылайык жай кол көтөрүү.
+71. **Стационардык велосипед миниңиз.** Жанында туруп, бир нече мүнөт жеңил айдоо.
+72. **Жоолук менен бийлеңиз.** Отуруп же туруп, музыка менен жеңил жоолуктарды желбиретиңиз.
+73. **Максат менен сейилдеңиз.** Кат таштоо же кофе сатып алуу үчүн. Баруу себеби болгондо табигый сезилет.
+74. **Бирге дем алуу тыныгуусун жасаңыз.** [Тынч дем алуу](/games/calm-breathing/) менен бирге жайлаңыз.
 
-## Social activities
+## Коомдук иш-чаралар
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Аттарды эстеп калуу кыйын болсо да, жанында адамдардын болушу маанилүү. Чоң топторго караганда кичине топтор оңой. NIA адам конок ким экенин эстебей калышы мүмкүн, бирок көбүнчө ошол коштоодон ырахат алаарын белгилейт. [Конок барууну](/activities/visiting/) караңыз.
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Бир убакта бир же эки конок болсун.** Тынч бөлмөдө кыска конок баруу, көрө турган сүрөттөр менен.
+76. **Үй-бүлө менен видео чалуу жасаңыз.** Кыска чалуулар, бир убакта бир гана үн. [Телефон жана видео чалууларды](/activities/phone-and-video-calls/) караңыз.
+77. **Эстутум кафесин байкап көрүңүз.** Деменция менен жашаган адамдар жана аларга кам көргөндөр үчүн расмий эмес жолугушуулар. Жакын жердеги мүмкүнчүлүктөрдү билүү үчүн жергиликтүү улгайган жарандарга жардам берүүчү кызматка кайрылыңыз.
+78. **Тынч убакта сыртта тамактаныңыз.** NIA адам аз болгон убакта тааныш, тынч ресторанды жана дааратканага жакын столду сунуштайт.
+79. **Улгайгандар борборуна же күндүзгү кам көрүү программасына барыңыз.** Алар үчүн шерик, сиз үчүн эс алуу.
+80. **Балдар менен убакыт өткөрүңүз.** Неберелер менен кыска, тынч жолугушуу же кичинекей балага сүрөттүү китеп окуп берүү.
+81. **Кофе үстүндө гезит көрүңүз.** Башкы кабарларды үн чыгарып окуңуз. Жаңылыктардан да салт маанилүүрөөк.
+82. **Башкага жардам бериңиз.** Чиркөөнүн программаларын бүктөө же кошуна үчүн куттуктоо картасын жасоо.
 
-## Faith and spiritual activities
+## Ишеним жана руханий иш-чаралар
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Адамдын өз салтын ээрчиңиз, же эч кандай салт болбосо, ошону урматтаңыз. NIA тааныш кызматтарды, окууларды, ыйык музыканы, сыйынууну, медитацияны жана майрам салттарын сунуштайт.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Тааныш кызматка катышыңыз.** Тынычыраак убактысын тандап, коридорго жакын отуруңуз жана ошол жердегилерге деменция жөнүндө маалымдаңыз.
+84. **Сыртка чыгуу кыйын болгон күндөрдө кызматты онлайн көрүңүз.**
+85. **Бирге сыйыныңыз же окуңуз.** Тааныш сөздөрдү жай окуңуз. Алар билген жерлерине кошулушу мүмкүн.
+86. **Өз салтына тиешелүү гимндерди же ыйык музыканы ырдаңыз.**
+87. **Майрам салттарын сактаңыз.** Батарейка менен күйүүчү шамдар, бата, дайыма колдонулган кооздоолор.
+88. **Тынч убакыт бөлүшүңүз.** Бакчада отуруу же бирге күн батышын көрүү.
 
-## Pets and animals
+## Үй жаныбарлары жана жандуулар
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA үй жаныбарын тамактандыруу, тарактоо, сейилдетүү же жанында отуруу жана колго алуу сыяктуу иш-чараларды сунуштайт.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Тынч итти же мышыкты тараңыз,** узак, жай кыймылдар менен.
+90. **Үй жаныбарын чогуу тамактандырыңыз.** Сиз өлчөп бересиз; алар куюшат.
+91. **Итти чогуу сейилдетиңиз.** Жипти сиз кармаңыз.
+92. **Үй жаныбарын тизеге отургузуңуз.** Жумшак жуурканга оролгон тынч мышык өтө тынчтандырышы мүмкүн.
+93. **Конокко келген жаныбарларды тосуп алыңыз.** Айрым кам көрүү үйлөрү жана күндүзгү программалар жаныбарлар менен жолугушууларды уюштурушат. Жергиликтүү мүмкүнчүлүктөрдү сураңыз.
+94. **Чыныгына окшош жумшак оюнчук жаныбарды сунуштаңыз.** Үй жаныбары жок болсо, айрым адамдар чыныгына окшош жумшак мышыкты же итти кармап туруудан ырахат алышы мүмкүн. Аны жөн эле сунуштаңыз, оюнчук катары эмес, жана баш тартса, кабыл алыңыз.
 
-## Seasonal activities
+## Мезгилдик иш-чаралар
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Салттарды сактаңыз, бирок жөнөкөйлөтүп. NIA реалдуу болууну жана майрам күндөрү өзгөчө ызы-чуу болгондо эс алуу үчүн тынч жер болорун сунуштайт.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Мезгилге жараша кооздоңуз.** Столго ашкабак, гүл тагы же жаңы гүлдөр.
+96. **Майрамга тамак даярдаңыз.** Камырды жуурулуу же печеньелерге крем сыйлоо. Мешти өзүңүз колдонуңуз.
+97. **Кооздоолорду илиңиз.** Сынбай турган оюнчуктарды бирден берип туруңуз.
+98. **Жарыктарды көрүүгө айланып чыгыңыз.** Кыска кечки айдоо жанында болуштан башка эч нерсе талап кылбайт.
+99. **Жазгы пиязчаларды отургузуңуз.** Күзүндө пиязчаларды идишке салып, жазында чыгышын күтүңүз.
+100. **Жүгөрүнү тазалаңыз же буурчактын кабыгын ачыңыз.** Тизеге идиш коюп жасала турган жайкы подъезд иши.
+101. **Майрам карталарына дарек жазыңыз.** Алар кол коюшат, мөөр басышат же жабыштырышат; даректерди сиз жазасыз.
 
-## What if an activity is not working?
+## Эгер иш-чара жүрбөй жатсачы?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Токтоп, башка убакта башка нерсени сынап көрүңүз. NIA капа болууну байкоону жана адам кааласа жөн гана көрүп отуруусуна жол берүүнү сунуштайт. «Жок» деген жооп көп учурда тапшырма өтө кыйын экенин, убакыт туура эмес экенин же ооруу, ачка болуу же ызы-чуу сыяктуу башка нерсе тынчсыздандырып жатканын билдирет. Аны кичирейтиңиз, күндүн эртерээк убактысында аракет кылыңыз же өзүңүз баштап, кошулабы көрүңүз. [Баш тартканда эмне кылуу керек](/caregiving/when-they-say-no/) жана [Кечки тынчсыздануу](/caregiving/late-day-restlessness/) бөлүмдөрүн караңыз.
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Иш-чараларды тамак жана эс алуу ортосуна жайгаштыруу үчүн [жумшак күн тартибин](/activities/daily-routine/) караңыз. Даяр кармап турууга ыңгайлуу нерселер үчүн [басып чыгарылуучу иш-чараларды](/activities/printable/), ал эми топ жетектесеңиз, [кам көрүү үйүндөгү топтук иш-чараларды](/activities/care-home-groups/) караңыз. Өзүңүздүн эс алышыңыз да маанилүү: [кам көргөн адамдын өзүнө кам көрүүсүн](/caregiving/caregiver-self-care/) караңыз.

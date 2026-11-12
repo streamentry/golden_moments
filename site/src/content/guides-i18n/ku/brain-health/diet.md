@@ -1,33 +1,34 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Xwarinên MIND û Derya Spî û demans: Lêkolîn çi dibêjin"
+seoTitle: "Xwarina MIND û demans: Lêkolîn çi dibêjin"
+description: "Lêkolîn li ser xwarinên MIND û Derya Spî û demansê çi dibêjin, çima ceribandinek mezin feydeyek eşkere nedît, û çawa alîkariya xwarina baş bikin."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Hin lêkolînên ku mirovan di demê re dişopînin, şêwazên xwarina MIND û ya
+  Derya Spî bi metirsiya kêmtir a demansê ve girê didin, lê ev her gav wisa
+  nîne. Ceribandinek sê-salî ya li ser xwarina MIND, ku di sala 2023an de hat
+  weşandin, di ceribandinên ramanê an wêneyên mejî de li gorî xwarineke kontrolê
+  tu cudahiyeke girîng nedît. Tu xwarin an pêvek nayê îsbat kirin ku demansê
+  asteng dike. Ji bo kesên ku bi demansê dijîn, pir girîng e ku ew têra xwe
+  bixwin û vexwin.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Hin lêkolînên ku mirovan di demê re dişopînin, lê ne hemî, şêwazên xwarina Derya Spî û MIND bi metirsiya kêmtir a demansê ve girê didin."
+  - "Di ceribandinek sala 2023an de bi 604 mezinên pîr re, kesên li ser xwarina MIND piştî sê salan di ceribandinên ramanê an wêneyên mejî de ji kesên li ser xwarineke kontrolê baştir nebûn."
+  - "Enstîtuya Neteweyî ya Pîrbûnê dibêje tu delîl tune ku xwarin an dûrxistina xwarinek taybet dikare Alzheimerê asteng bike, û tu vîtamîn an pêvek nayê îsbat kirin ku wê asteng dike."
+  - "Xwarineke ku tê de sebze, fêkî, fasûlî, genimên tev û masî hene, tenduristiya dil piştgirî dike û dibe ku li hember metirsiyên wekî tansiyona bilind û şekirê alîkar be."
+  - "Ji bo kesên ku bi demansê dijîn, xwarinên ku bi destan têne xwarin, teştên bi rengên cuda, demên xwarinê yên aram û vexwarinên birêkûpêk pir caran ji her xwarinek taybet girîngtir in."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Gelo xwarina MIND demansê asteng dike?"
+    a: "Ev nehatiye nîşandan. Hin lêkolînên çavdêrîkirinê xwarina MIND bi metirsiya kêmtir ve girê dan, lê ceribandinek sê-salî ya ku di sala 2023an de hat weşandin di encamên ceribandinên ramanê an wêneyên mejî de tu cudahiyeke girîng di navbera kesên li ser xwarina MIND û kesên li ser xwarineke kontrolê de nedît. Her du kom hinekî çêtir bûn û bi qasî hev giranî winda kirin."
+  - q: "Cudahî di navbera xwarina MIND û xwarina Derya Spî de çi ye?"
+    a: "Xwarina Derya Spî giraniyê dide sebze, fêkî, genimên tev, fasûlî, masî û rûnê zeytûnê, û goştê sor û şîraniyan kêm dike. Xwarina MIND wê bi xwarina DASH ya ji bo tansiyonê re dike yek û giraniyeke zêde dide sebzeyên pel kesk û tûyan, di heman demê de goştê sor, şîranî, penîr, rûn û xwarinên sorkirî sînordar dike."
+  - q: "Gelo xwarin an pêvek hene ku Alzheimerê asteng dikin?"
+    a: "Na. Enstîtuya Neteweyî ya Pîrbûnê dibêje tu delîl tune ku xwarin an dûrxistina xwarinek taybet dikare Alzheimerê an kêmbûna ramanê ya bi temen re asteng bike, û tu vîtamîn an pêvek nayê îsbat kirin ku Alzheimerê asteng dike. Berî ku pêvekan bikar bînin, bi bijîşkekî re bipeyivin."
+  - q: "Ji bo kesekî ku bi demansê dijî, kîjan xwarin xwarina wan hêsantir e?"
+    a: "Xwarinên piçûk ên ku bi destan têne xwarin, wek perçeyên sendwîçê, perçeyên mirîşkê, perçeyên pirteqalê an perçeyên sebzeyên bi buharê pijyayî, pir caran ji bikaranîna kevçî û çetelê hêsantir in. Heke çiqlêkirin an daqurtandin zehmet be, xwarinên nerm wek hêkên tevlihevkirî, pûreya sêvê an penîrê cotage dikarin alîkar bin. Heke kuxîn an xeniqîn çêdibe, ji bijîşkê bipirsin ka nirxandineke daqurtandinê pêwîst e."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +59,174 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Dibe ku we xwendibe ku xwarinek «ji bo mejî saxlem» dikare Alzheimerê dûr bigire.
+Wêneya rastîn nermtir e. Hin şêwazên xwarinê di lêkolînên ku mirovan di demê re
+dişopînin de bi metirsiya kêmtir ve girêdayî ne, lê ceribandina herî baş a heta
+niha tu feydeyek eşkere nedît. Ev rûpel her duyan rave dike, û dûv re disekine
+ser tiştê ku bi gelemperî ji bo kesekî ku jixwe bi demansê dijî pir girîngtir e:
+têra xwe xwarin û vexwarin, û jê kêf wergirtin.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ev agahiyeke giştî ye, ne şîreta bijîşkî ye. Berî ku hûn xwarina xwe an ya
+kesekî din biguherînin, bi bijîşkekî an parêzerekî xwarinê yê qeydkirî re
+bipeyivin. [Daxuyaniya me ya bijîşkî](/medical-disclaimer/) bibînin.
 
-## What are the Mediterranean and MIND diets?
+## Xwarinên Derya Spî û MIND çi ne?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+Enstîtuya Neteweyî ya Pîrbûnê (NIA) wan bi vî awayî rave dike
+([NIA li ser xwarin û Alzheimerê](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Xwarina Derya Spî:** gelek fêkî, sebze, genimên tev, fasûlî, masî û
+  berhemên deryayê, û rûnê zeytûnê, bi rêjeyeke kêm ji goştê sor, hêk û şîraniyan.
+- **Xwarina MIND** (Têkilîkirina Derya Spî–DASH ji bo Derengxistina
+  Neurodejenerasyonê): tevliheviyeke ji xwarina Derya Spî û xwarina DASH ya ji
+  bo tansiyonê. Ew giraniyê dide sebzeyan, bi taybetî yên pel kesk; tûyan;
+  genimên tev; fasûliyan; gûzan; masîyê herî kêm carekê di hefteyê de; û rûnê
+  zeytûnê. Ew goştê sor, şîranî, penîr, rûn an margerîn, û xwarinên sorkirî an
+  xwarinên bilez sînordar dike.
 
-## Do these diets lower dementia risk?
+## Gelo ev xwarin metirsiya demansê kêm dikin?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Delîl tevlihev in. NIA dibêje hin lêkolînên çavdêrîkirinê, lê ne hemî, xwarinên
+Derya Spî û MIND bi metirsiya kêmtir a demansê ve girê dane li gorî şêwazeke
+xwarinê ya rojavayî ku tê de goştê sor, rûnê têrkirî û şekir zêdetir in.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Komîsyona Lancet a sala 2024an lêkolînan bi hûrgulî nirxand
+([Komîsyona Lancet](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Vekolînek li ser lêkolînên kohortê kalîteya bilind a xwarinê bi metirsiya
+  demansê ya bi qasî %20 kêmtir ve girê da.
+- Analîzek mezintir li ser sê kohortan şopandina nêzîktir a xwarina MIND bi
+  metirsiya kêmtir ve girê da.
+- Lê lêkolînek li Swêdê ku 28.025 kesên navsere temenî nêzî 20 salan şopand, bi
+  xwarinên pêşniyarkirî an bi şêwazeke xwarinê ya mîna ya Derya Spî re tu
+  metirsiya kêmtir nedît.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Lêkolînên çavdêrîkirinê nikarin sedem û encamê îsbat bikin. Kesên ku bi vî awayî
+dixwin pir caran di warên din de jî cuda ne, wek dahat, perwerde, werzîş û
+gihîştina lênêrîna tenduristiyê. Komîsyonê encam da ku delîl têra xwe nîne ku
+were gotin xwarinên saxlem rasterast demansê asteng dikin, her çend xwarina
+gelek fêkî û sebzeyan û kêmtir xwarinên pir-pêvajoyî ji bo gelek rewşên
+tenduristiyê baş e û bandorê li faktorên metirsiyê wekî qelewbûn, şekir û
+tansiyona bilind dike. Wê xwarinê li lîsteya xwe ya [14 faktorên metirsiyê](/brain-health/risk-factors/)
+zêde nekir.
 
-## What did the 2023 MIND diet trial find?
+## Ceribandina xwarina MIND a sala 2023an çi dît?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Ceribandina herî bihêz a heta niha lêkolîneke rasthatî bû ku di sala 2023an de di
+New England Journal of Medicine de hat weşandin
+([Ceribandina xwarina MIND](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Kî:** 604 mezinên 65 salî û mezintir li herêmên Chicago û Bostonê, bêyî
+  pirsgirêkên ramanê, ku xizmekî wan ê nêzîk bi demansê dijî, giraniya wan zêde
+  bû û di destpêkê de xwarina wan kêmtir saxlem bû.
+- **Çi:** di sê salan de, nîvî li pey xwarina MIND çûn û nîvê din li pey xwarina
+  xwe ya berê man. Ji her du koman hat xwestin ku rojê bi qasî 250 kalorî kêmtir
+  bixwin û wan ji parêzerên xwarinê yên qeydkirî rêberiya birêkûpêk wergirt.
+- **Encam:** encamên ceribandinên ramanê di **her du** koman de hinekî çêtir
+  bûn. Cudahî di navbera koman de piçûk bû û ji aliyê îstatîstîkî ve **ne girîng
+  bû**. Wêneyên mejî jî di her du koman de guherînên wekhev nîşan dan.
+- **Giranî:** her du koman nêzî 5 kîlo (dora 11 lîre) winda kirin.
 
-### Why might the trial have found no difference?
+### Çima dibe ku ceribandinê tu cudahî nedîtibe?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Lêkolîneran çend sedem pêşniyar kirin. Dibe ku koma kontrolê jî xwarina xwe
+çêtir kiribe, ji ber ku wê jî bi qasî hev giranî winda kir. Ceribandinên dubare
+dikarın bi xwe encaman çêtir bikin, ji ber ku mirov bi ceribandinan re fêr dibin.
+Sê sal dibe ku pir kurt bin. Piraniya beşdaran xwedî perwerdehiya baş bûn û ji
+eslê Ewropî bûn, ji ber vê yekê dibe ku encam ji bo her kesî ne derbasdar bin.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Ji ber vê yekê kurtenivîsa rast ev e: di sê salan de xwarina MIND ji xwarinek
+maqûl a bi kaloriyên kêm çêtir nebû. Ev nayê wateya ku xwarina saxlem bêkêr e. Ev
+tê wateya ku divê kes li bendê nebe ku xwarinek taybet demansê asteng bike.
 
-## What about specific foods and supplements?
+## Li ser xwarin û pêvekên taybet çi tê gotin?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA dibêje tu delîl tune ku xwarin an dûrxistina xwarinek taybet dikare Alzheimerê
+an kêmbûna ramanê ya bi temen re asteng bike. Tûyên şîn, sebzeyên pel kesk û
+zerdeçal hemî hatine lêkolîn kirin, lê tu îsbat tune. NIA her wiha dibêje tu
+vîtamîn an pêvek nayê îsbat kirin ku Alzheimerê asteng dike, û ji bo vê armancê
+tu yek nayê pêşniyar kirin. NIA hişyar dike ku berhemên bêîsbat ên ku ji bo
+astengkirina Alzheimerê tên firotin dibe ku ne ewle bin, windakirina pere bin, an
+her du jî, û dibe ku bandorê li dermanên hatine nivîsandin bikin, ji ber vê yekê
+berî ku tiştekî biceribînin bi bijîşkekî re kontrol bikin
+([NIA li ser astengkirina Alzheimerê](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Xwarin çawa dikare saxlem û xweş bimîne?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+Ji bo piraniya mezinên pîr, armanc xwarinek e ku xurekdar, nas û xweş e, ne
+planeke hişk:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Xwarinan li dora xwarinên ku hûn jê hez dikin** ji şêwaza Derya Spî ava
+  bikin: sebze, fêkî, fasûlî, genimên tev, masî û rûnê zeytûnê.
+- **Xwarinên xweş ên bijarte biparêzin.** Kêf û îştah girîng in, bi taybetî di
+  paşê jiyana mirov de.
+- **Gava ku gengaz be bi kesên din re bixwin.** Xwarinên hevpar hevaltiyeke baş in.
+- **Bi hev re xwarinê çêkin.** Şûştina sebzeyan an tevlihevkirina qazanekê
+  çalakiyeke hevpar a baş e; [karên malê](/activities/household-tasks/) bibînin.
+  Reçeteyeke malbatî ya bijarte jî dikare [bîranînan](/activities/reminiscence/)
+  zindî bike.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Divê mezinên pîr bêyî ku bi bijîşkekî re bipeyivin kaloriyan kêm nekin an giranî
+winda nekin, û rojîgirtin metirsiyên zêde tîne. [Rêbera me ya rojîgirtinê](/brain-health/fasting/)
+bibînin.
 
-## How can you help someone with dementia eat well?
+## Hûn çawa dikarin alîkariya kesekî ku bi demansê dijî bikin ku baş bixwe?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+Ji bo kesên ku bi demansê dijîn, bi gelemperî fikara sereke ew e ku **têra xwe**
+bixwin û vexwin. Alzheimer’s Association destnîşan dike ku dibe ku mirov ji bîr
+bike bixwe, bifikire ku jixwe xwariye, an ji gelek bijardeyan bêzar bibe, û ku
+xwarina nebaş dibe ku nîşaneyên tevgerê zêde bike û bibe sedema windabûna giraniyê
+([Alzheimer’s Association li ser xwarin û xwarinê](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Ev raman ji Alzheimer’s Association, NIA û Alzheimer’s Society tên:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Xwarinên ku bi destan têne xwarin pêşkêş bikin.** Parçeyên piçûk ên ku bi
+   hêsanî têne girtin, wek perçeyên sendwîçê, perçeyên mirîşkê, darikên masî,
+   perçeyên pirteqalê an brokoliyên bi buharê pijyayî, dihêlin ku kes bêyî kevçî
+   û çetelê bixwe.
+2. **Li ser masê berevajîkirina rengan bikar bînin.** Guherînên dîtinê dikarin
+   cudakirina xwarinê ji teştê zehmet bikin. Teştên an tasên spî li ser
+   binteştekî bi rengekî berevajî dikarin alîkar bin. Ji teşt û masepêçên bi
+   neqş dûr bisekinin.
+3. **Di carekê de yek an du xwarinan pêşkêş bikin.** Teştek tije dibe ku bêzar
+   bike.
+4. **Demên xwarinê aram bihêlin.** Televîzyonê vemirînin, masê sade bihêlin, û
+   demeke têra xwe bidin. NIA pêşniyar dike ku lezê nekin û zextê nekin.
+5. **Pir caran xwarinên piçûk û çerezan pêşkêş bikin.** NIA pêşniyar dike ku heke
+   kes têra xwe naxwe, xwarinên piçûktir û pir caran û çerezên bi kaloriyên zêde
+   werin dayîn
+   ([Şîretên NIA ji bo baş xwarinê](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Di vexwarinê de alîkarî bikin.** Di tevahiya rojê de tasên piçûk ên avê an
+   vexwarinên din pêşkêş bikin, ligel xwarinên ku tê de gelek av heye wek fêkî,
+   şorbê, milkshake û smoothie. Heke kes naxwaze avê vexwe, NIA pêşniyar dike ku
+   ava fêkî, ava bi tam, şorbê, şîr, an qehwe an çaya bêkafeîn bê ceribandin.
+7. **Germahiyê kontrol bikin.** Dibe ku kes ferq neke ku xwarin an vexwarinek
+   pir germ e.
+8. **Amûr û tasan li gorî hewcedariyê biguherînin.** Li şûna teştan tas, kevçiyên
+   bi destikên mezin, û tasên bi devik dikarin xwarinê hêsantir bikin. Ji bo
+   paqijiyê xeman nebin.
+9. **Xwarinê ji bo çiqlêkirin û daqurtandinê hêsantir bikin.** Xwarinê perçe
+   bikin an xwarinên nerm pêşkêş bikin. Heke kes dema dixwe dikuxe an dixeniqe, ji
+   bijîşkê re bêjin.
+10. **Zora xwarinê nekin.** NIA destnîşan dike ku di qonaxên dawî yên Alzheimerê
+    de îştah bi xwezayî kêm dibe.
 
-### Signs to tell the doctor about
+### Nîşaneyên ku divê ji bijîşkê re werin gotin
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Windabûna giraniyê, redkirina xwarinê, westiyayî an bêhêzî dikarin nîşan bin ku
+kes têra xwe naxwe. Alzheimer’s Society destnîşan dike ku diran an diranên çêkirî
+yên êşdar, depresyon, qebizî û guherînên dermanan hemî dikarin îştahê kêm bikin
+([Alzheimer’s Society li ser îştahê](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Nîşaneyên bêavbûnê ku ji aliyê NIA ve hatine navnîş kirin devê zuha, gêjbûn,
+lêdana bilez a dil û xewn û xeyalan di nav xwe de digirin
+([NIA li ser pirsgirêkên bijîşkî yên hevpar](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Bi bijîşkekî re bipeyivin
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Berî ku di xwarina xwe an ya kesekî din de guherînên mezin bikin, bi bijîşkekî an
+parêzerekî xwarinê yê qeydkirî re bipeyivin, bi taybetî heke şekir, nexweşiya
+gurçikan, pirsgirêkên daqurtandinê an windabûna giraniyê ya dawî hebe. Ji bo
+kesekî ku bi demansê dijî, bipirsin ku divê rojê çiqas bixwe û vexwe, û gelo
+parêzerek xwarinê an pêvek dikarin alîkar bin.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Heke kesek dixeniqe, an ji nişka ve tevlihevî, gêjbûnek giran an bayilbûn çêdibe,
+alîkariya bilez bistînin.

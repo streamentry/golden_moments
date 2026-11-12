@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Kynsa settans taulen-brest po pellgowser rag den gans demensya"
+seoTitle: "Settya taulen-brest po pellgowser rag den gans demensya"
+description: "Kammow rag settans taulen-brest ha pellgowser rag den gans demensya: fastya war unn app hepken, tekst moy brâs, nebes gwarnyansow, skrin dre le sempel ha moy."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Gwra an taulen-brest po pellgowser moy sempel kens y dhri dhodho. Fast war unn app
+  hepken dre Guided Access war iPad ha iPhone po app pinning war Android, po usya
+  Assistive Access Apple rag aray moy sempel. Gwra an tekst moy brâs, tawhe an
+  gwarnyansow, gwitha yn unnik nebes appys war unn skrin dre le, sett an ughelder,
+  usya sostenn ha finweth app-gomeryansow. Gwra henna war-barth, war-lergh oberow heb
+  skrin ynwedh.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) ha app pinning (Android) a wra fastya an skrin war unn app hepken bys pan wrello jy y dhisfastya."
+  - "Assistive Access Apple a brof aray moy sempel gwrys rag tus gans kudynnow kognitiv."
+  - "Gwra an tekst moy brâs ha tawhe gwarnyansow ha pop-upys may ny vynskont aga lettya po aga bos kammgomprysys."
+  - "Gwitha yn unnik nebes appys aswonys war unn skrin dre le hepken, ha sett an ughelder kens dalleth."
+  - "Sostenn ha tyller karga na wra movya yns dhe weres gwitha an devises es y usya ha es y gavoes."
+  - "Dasweles app-gomeryansow ha kevrenna data: dre vras ny wra HIPAA difres an pyth yw gwithys war devises personel."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Fatel y hyllyn fastya den gans demensya na wrella kwytya unn app war iPad?"
+    a: "Treylya Guided Access yn Settings > Accessibility > Guided Access ha sett ger tremena Guided Access. Ygeri an app, klyckyewgh an boton a-wartha teyrgweyth (po an boton Tre war iPads kottha), ha klyckya Dalleth. An iPad a wra gwitha ynna app na bys pan wrello nebonan entra an ger tremena."
+  - q: "Fatel y hyllyn fastya taulen-brest Android war unn app hepken?"
+    a: "Treylya app pinning yn an app Settings, yn pols Security (marn po Security & location) > Advanced > App pinning. Ena ygeri an app, ygeri Overview, klyckyewgh arwodh an app a-wartha ha klyckyewgh Pin. Y fydh edhomm agas PIN, patron po ger tremena rag y dhisfastya."
+  - q: "Yw salow usya Guided Access war bellgowser an den y honan?"
+    a: "Bedhewgh gwithus. Yn dhyworth Apple, ny vydh Crash Detection na Gonisyow Ergemyn kavoes mar vo Guided Access war ena. Mar kwra an den relya war y bellgowser rag gelwelyow ergemyn, usyewgh Guided Access yn unnik pan vowgh genev, po prederyewgh a-dro dhe Assistive Access yn le."
+  - q: "Pygemmys termyn skrin yw da rag den gans demensya?"
+    a: "Nyns eus niver gesetys. Esedhow berr, kevrennys, kemyskys gans kerdhes, ilow, gweythjiow, keskows ha moy yw gwell es esedhow hir yn unnik gans skrin. Mar hwra an devises kawsya sowdhan po lettya gweythow erel, usyewgh ev le."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Gall taulen-brest bos fordh hweg rag kevrenna skeusennow, ilow ha gwariow sempel. Mes y hyll bos kammkomprehendys ynwedh: tap dall a yll ygeri app aral, gwarnyans a sevel yn-rag, an tekst yw re vyghan, po an skrin a dheu dhe dewl kres-gwari.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Nebes settans a'gas gweres gwellhe an pyth ma dre vras. An kammow ma a wra usya settans ynsys war iPhone, iPad ha Android. An henwyn menyow a yll chanjya ynter versyons medhelweyth ha gwneuthyoryon devises, ytho mar teu neppyth ha mos diworth gwel, sewgh an folen gevrennys Apple po Google rag agas devises. Gwrewgh an settans agas honan, kens esomma esedha war-barth.
 
-## Should someone with dementia use a tablet or phone?
+## A dhylu den gans demensya usya taulen-brest po pellgowser?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Yma'y omma ow teriva war an den. Lies den a waynya usya taulen-brest gans nebonan rybtho, kyn na yllons y usya war aga honan. Dallethhewgh dre y usya war-barth, gans unn app yn ygeri, rag nebes mynysennow. Mar dheu an usya ha kawsya lowena ha keskows, pesyewgh ganso. Mar dheu ev ha kawsya kammkomprehendans po sowdhan, albom skeusennow, folennow pryntys po ilow a yll bos gwell dhodho. Agan [gweythow pryntys](/activities/printable/) yw unn erell.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Taulen-brest yw liesgweyth es pellgowser: an skrin ha'n skeusennow yw moy brâs, ha nyns yw ev ynwedh bywnans-ergh an den.
 
-## How do I lock a tablet or phone to one app?
+## Fatel y hyllyn fastya taulen-brest po pellgowser war unn app hepken?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Usyewgh Guided Access war iPhone ha iPad, po app pinning war Android. An dhew a wra fastya an skrin war unn app hepken bys pan wrello jy entra koden, ytho ny yll tap po swyp dall ygeri neppyth aral.
 
-### iPad and iPhone: Guided Access
+### iPad ha iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Dre sewya [kussulyow Guided Access Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Ygeri **Settings**, klyckyewgh **Accessibility**, ena **Guided Access** ha treylyewgh ev yn farow.
+2. Yn-dann **Passcode Settings**, sett ger tremena Guided Access. Hwi a yll gasa Face ID po Touch ID ynwedh.
+3. Diberthys: yn-dann **Display Auto-Lock**, dewis py a-varr y wra an skrin omgleppya dres an esedh, may ny dheu dhe dewl kres-gwari.
+4. Ygeri an app a vynnowgh hwi y usya.
+5. Klyckyewgh an boton a-wartha teyrgweyth (iPhone), an boton a-wartha (iPad), po an boton Tre war devises kottha.
+6. Diberthys: kylghyewgh rannow a'n skrin a vynnowgh hwi lettya rag tochya. Klyckyewgh **Options** (po **Session Settings**) rag dialleth botonow an ughelder po lettya chanjya a- dro an skrin.
+7. Klyckyewgh **Dalleth**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Rag diwedha an esedh, klyckyewgh an keth boton teyrgweyth arta, entra an ger tremena, ha klyckyewgh **Diwedh**. Apple a wra notya bos possybyl bos res dewgweyth yn le teyrgweyth war versyons medhelweyth kottha.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Poynt posek:** Apple a lever na vydh Crash Detection na Gonisyow Ergemyn kavadow dres esedh Guided Access. Na wrewgh gasa Guided Access ow resek war bellgowser a alsa bos edhomm dhe'n den rag gelwelyow ergemyn.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Dre sewya [gweres Android Google a-dro dhe pinnya skrinow](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Ygeri an app **Settings**.
+2. Klyckyewgh **Security** (po **Security & location**), ena **Advanced**, ena **App pinning**. Mar ny yllowgh hwi y gavos, checkyewgh folennow gweres gwneuthyer agas devises.
+3. Treweythyewgh **App pinning**. Y fydh edhomm agas PIN, patron po ger tremena rag y dhisfastya.
+4. Ygeri an app a vynnowgh. Swypyewgh yn-bann dhe gres an skrin ha synsi y'n le rag ygeri Overview (po klyckyewgh Overview gans navigacyon 3 boton).
+5. A-wartha ragwel an app, klyckyewgh arwodh an app, ena klyckyewgh **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Rag disfastya gans navigacyon gwriansow, swypyewgh yn-bann ha synsi. Gans navigacyon 3 boton, tochyewgh ha synsi War-dhelergh ha Overview. Gans navigacyon 2 boton, tochyewgh ha synsi War-dhelergh ha Tre. Ena entra agas PIN, patron po ger tremena.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Eus modh moy sempel rag an iPhone po iPad oll?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Yma. Assistive Access a wra eresa an skrin dre le usadow gans onan moy sempel. [Apple a'n deskrif](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) avel gwrys dhe wul iPhone es moy rag tus gans kudynnow kognitiv y usya yn anserghek, gans taklow war-skrin moy brâs ha niver a estennow moy finwethys. Apple a brof [an keth featur war iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Piw a wra y settans.** Apple a gomend skoodhyer trustys, kepar ha den teylu po gofalor a woer an den, dhe weres dewis an appys ha'n estennow.
+- **Dalleth.** Mos dhe **Settings > Accessibility > Assistive Access**, klyckyewgh **Set Up Assistive Access**, ena **Continue**.
+- **Appys.** Hwi a dhewis py appys a omdhiskwedh. Nebes appys Apple a's teves versyons sempel arbennek, ha lies app aral a yll bos keworrys y'n desin usadow.
+- **Aray.** Dewisewgh **Rows** (rol es y redya) po **Grid** (taklow moy brâs ow goshysya skeusennow ha arwodhigow).
+- **Ger tremena.** Hwi a sett ger tremena arbennek Assistive Access rag entra, kwytya po chanjya settans. Apple a gomend settans Akont Apple dasoberi dres an settans, rag mar tevydh ger tremena ankevys, y fydh res dassetya an devises.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access a alsa bos da rag den usya y devises y honan pub dydh. Guided Access po app pinning yw uskissa rag esedh gwari kevrennys.
 
-## How do I make text and pictures bigger?
+## Fatel y hyllyn gul an tekst ha'n skeusennow moy brâs?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Kressyewgh braster an tekst ha'n diskwedhyans, ena checkyewgh bos hwath possybyl klyckya an botonow war an skrin.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone ha iPad.** Herwydh [kussulyow braster tekst Apple](https://support.apple.com/en-us/102453), mos dhe **Settings > Display & Brightness > Text Size** ha tenna an slyder. Rag tekst hwath moy brâs, mos dhe **Settings > Accessibility > Display & Text Size > Larger Text**. Apple a notya y hyll tekst pur vras gul nebes botonow calessa aga thochya, ytho ajustyewgh mar bo res.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Herwydh [gweres settans tekst ha diskwedhyans Google](https://support.google.com/accessibility/android/answer/11183305?hl=en), ygeri **Settings** ha hwithra **Font size**, ena movya an slyder. Hwithrewgh **Display size** rag gul puptra war an skrin moy brâs. Hwi a yll treylyewgh **Bold text** ynwedh yn-dann **Accessibility > Display size and text**. Nyns yw pub app ow sewya an settans ma.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Yn gwariow kepar ha [Picture Pairs](/games/picture-pairs/) ha [Find the Same](/games/find-the-same/), hwi a yll dewis le a leghennow po dewisyow ynwedh, hag a wra gul an pyth moy sempel war an skrin.
 
-## How do I stop notifications and pop-ups?
+## Fatel y hyllyn lettya gwarnyansow ha pop-upys?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Diallethowgh gwarnyansow rag appys na odhommowgh, ha usyewgh Do Not Disturb dres gweythow.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone ha iPad.** Mos dhe **Settings > Notifications**, klyckyewgh unn app yn-dann **Notification Style**, ha diallethowgh **Allow Notifications** ([gydh settans gwarnyansow Apple](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Rag tawhe gelwelyow, gwarnyansow hag alarmys rag termyn, ygeri Control Center ha treylyewgh **Do Not Disturb** war an boton **Focus** ([gweres Do Not Disturb Apple](https://support.apple.com/en-us/105112)). Hwi a yll y amseryow yn-dann **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Swypyewgh yn-nans a wartha an skrin ha klyckyewgh **Do Not Disturb**, po mos dhe **Settings > Modes > Do Not Disturb** ([gweres Do Not Disturb Google](https://support.google.com/android/answer/9069335?hl=en)). Yn-dann **Notification filters** hwi a yll dewis py tus ha py appys a yll hwath tremena der. An settans a yll varya herwydh gwneuthyer an devises.
 
-## How do I make a simple home screen?
+## Fatel y hyllyn gul skrin dre le sempel?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Gwithowgh nebes appys aswonys war unn skrin ha movya an re erel dhe-ves a wel. Nyns eus unn settans unnik rag henna; yma'n omma a-dro dhe remova an re neb yw re dhrog.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Dewisewgh tri dhe hwegh app.** Rag ensampel, skeusennow, ilow, unn app galweyth gans video ha unn gwari.
+- **Gorryowgh i war an kynsa skrin,** y'n keth tylleryow pub prys, ha movya puptra aral dhe nessa skrin po keff.
+- **Usyewgh paper wal platt, kontrast ughel,** kepar ha liw unnik po unn skeusen aswonys, may sevel an arwodhigow yn-mes.
+- **Dileowgh appys na odhommowgh.** Le a appys a styr le a chonsow rag kammkomprehendans ha le a data yw kuntellys.
+- **Prederyewgh a-dro dhe Assistive Access** war devises Apple mar vynnowgh an devises gul henna ragowgh.
 
-## What about volume and sound?
+## A-dro dhe ughelder ha son?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Settowgh an ughelder da kens dri an devises dhodho. Gans Guided Access, hwi a yll dialleth botonow an ughelder may ny wrellons chanjya kres-an-gwari. Checkyewgh bos agas klevyoryon ow klywes ha ow labours yn ewn.
 
-## Where should the tablet live?
+## Ple y dhylsa an taulen-brest bos?
 
-Give it a stand and a permanent charging spot.
+Roi dhodho sostenn ha tyller karga neb na wra movya.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Sostenn po kas** a syns an taulen-brest yn-bann orth an voes a wra gul bos es dhodho y synsi ha poyntya.
+- **Unn tyller karga** na wra movya bythkweth, gwell yn unn stevel usys pub dydh orth an voes. Y fydh an taulen-brest pupprys kergys ha pupprys y'n keth tyller.
+- **Lettowgh splann.** Gorryowgh an skrin pel es fenester splann.
 
-## How much screen time is okay?
+## Pygemmys termyn skrin yw da?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Nyns eus niver ewn a vynysennow. Bynnag ha esedhow berr, kevrennys, avel rann a dydh leun neb a syns ynwedh gwayans, ilow, oberow chi, keskows ha termyn yn-mes. Awos bos gorthugherow brysi a yll kressya anstyfryans diwettha an dydh, prederyewgh a-dro dhe wul gweythow skrin moy a-varr y'n dydh. Gwel [gweythow kosel diwettha an dohajydh](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Usya an taulen-brest war-barth, yn le a'y usya avel babysitter, a'n gwra kevrennys. Agan gidhes [ow kwari war-barth](/caregiving/how-to-play-together/) a explikya fatel.
 
-## How do I protect their privacy on the device?
+## Fatel y hyllyn difres aga brevodhuster war an devises?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Finwethyewgh an pyth a yll appys kuntel, ha na assumyewgh bos lagha brevodhuster yaghusedh y'ga difres. An Rannvro Yaghus hag Y'mpynnyon an Statys Unys (HHS) [a explik](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) nag yw an Rewlys HIPAA ow difres yn kres yaghus gedhys war po hedre dhe vos accesys der bellgowserow personel ha taulen-brestow yn lyha brâs. Yn lies kas, ny wra HIPAA difres data entra yn appys rag devnydh personel ynwedh marnas bos an app dhyworth provier kerys yaghus gorgudhys, towl yaghus po onan a'ga kesoberoryon negys.
 
-HHS suggests:
+HHS a gomend:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- na usya appys anedhommus po dre chons, yn arbennik re "heb kost";
+- na ri appys akses dhe'n tyller marnas res gwir dhodho, kepar ha mappys.
 
-Also consider:
+Prederyewgh ynwedh a-dro dhe:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Usya ger tremena** war an devises, ha gwitha noten anodho yn tyller salow.
+- **Dasweles app-gomeryansow** rag skeusennow, kamera, mikrofon, keswelyow ha tyller, ha dialleth py neb na odhomm dhodho.
+- **Checkya an pyth a guntell unn app** kens y lea. Agan gidhes [ow dewis appys ha gwariow demensya](/caregiving/choosing-apps-and-games/) a's teves rol-gwirheans privetter.
+- **Bedhewgh gwithus gans skeusennow teylu.** Kevrennys yn unnik skeusennow a alsa an den aga bos gwithys yn ha, ha godhvydh ple y gwith an app i. Yn [Photo Pairs](/games/photo-pairs/), an skeusennow a dhewisowgh a drig yn agas peurel.
+- **Dialleth prynansow yn-app** po remova manylyon talians dhyworth akontow usys gans an den.

@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Alzheimer-be cida-a biskewobe-a"
+seoTitle: "Alzheimer-be cida-a biskewobe-a: sawa ngəwuro"
+description: "Alzheimer-be kambo sawa ngəwuro cida-a biskewobe-a, cida ngəwua-a hangal ngəwua-a lan dunoatən, kəlanzəga ramme cida de."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Alzheimer-be kambo cida ngəla də, cida ngəwuro daajinma-a lan dunoatən:
+  cida burin ngəwuro kərməatə, yaskiya kərmabe, cida fado-a, kuru karəngə-a.
+  Fərtəgən, katas, biskewo teburin, dewu, kuru cidawa də woza sadin. Dawunzən,
+  kazəmu kataptə, ngəwu tayiye, yaskiya yitə, foto albəm ruiye, kuru foto biskewo
+  balbe jarabtə. Dondi ngəwunzən, yaskiya, lezə, kuru kəltəramma də kəməye nzəko.
+  Kawu yaye kam də kuskəna-a ro ngənəptə.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer də dondi səmmajinma sabu ngəwuro kura wo, adə nankaro dondi-be cida-a biskewobe-a shiye-a ma kəlanzəga faidajin."
+  - "Awo bəlin hangaltə də ngəwuro kəsuwu wo, amma cida-a yaskiya-a burin ngəwuro kərməatəna də ngəwuro daajin. Awo aniro lan cidatə."
+  - "Sawa də fal-fal ro fasartənyi, kawu ngəla-a kawu kəsuwu-a də alada wo. Kam də kuskəna-a awo sadin-a kuru jauro cizayin-a ro kartə."
+  - "Biskewo loktu bawo, lamba bawo, kuru koro bawo-a kartə, kuru foto də fǝlejin ro koltə."
+  - "Ruiye, awo rotaa, biya kəltə so-a də amma kəltəram ro ngənəptin."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Alzheimer-be kambo cida fin ngəla wo?"
+    a: "Cida kərməatəna balbe sadəna: kazəmu kataptə, tebur dabbartə, kəltəram dewu, yaskiya-a yitə-a, foto ruiye, letə, səkkə cidatə, kuru dabba-a kəltə. Foto biskewo balbe, jigsaw balbe, kuru manabewo kataso də amso ngəwuro faidajin. Kam də səmma cida jauro cizəyinma kartə kuru shi-a kəltə cidatə."
+  - q: "Biskewo də Alzheimer-be ambo faida mbeji wa?"
+    a: "Kam də jauro cizəyinna, biskewo də kəltəram loktu ngəla kənzaptəro faidajin. Biskewo falma Alzheimer dondiwo, ngəwuro cizəyin, biya dazəyinro alagənyi, adə nankaro biskewo jauro cizayinro kartə: foto kura kura, kartə gana, kuru loktu, lamba biya jaawu tǝtǝkkǝna bawo."
+  - q: "Dondi-be cida-a biskewobe-a kuru Alzheimer-be cida-a biskewobe-a dawunzən gade mbeji wa?"
+    a: "Ngəwuro gade bawo. Alzheimer də dondi səmmajinma sabu ngəwuro kura wo, kuru cida-a biskewo-a falfalro də shiye-a ma kəlanzəga faidajin. Alzheimer lan awo faidajinma də, hangal bəlin ngəwuro burin baworo notə: adə nankaro cida-a biskewo-a cida kərmabe, yaskiya-a, alada-a lan dunoatəna də ngəwuro ngəla ro lejin."
+  - q: "Alzheimer sawa ngəwube kam də awo jiri finro jauro cizayin?"
+    a: "Yaskiya shiye jauro cizəyinma, mukko lezə balbe, awo balbe rotaa, shiye-a awo karantə, deyanzən napkə, kuru kam shiye amanənzəna-a kəltə. Kəsa-a naptə-a ro koltə, kuru fuskənzə-a tininzə-a ro awo jauro cizəyinma asutə."
+  - q: "Alzheimer-be kambo cida ro hangalnzəga cistəyinro futu galejin?"
+    a: "Cida yikkoro bultəgən, banasne yiro gənatə, awo sammaa də burin dabbartə, kuru nyi də burin baditə shiye kəltəramma ro walzəro. Shi ye kuskənzə ngəwuro ngəla naptəma loktu kartə də faida kura. Shi ye 'a'a' canna, ngawo yaye biya balbe ro jarabtə."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Kam raamma Alzheimer-a səmmajinma, awo laa də dǝrǝs ro baworo hangalro waljin kuru awo laa də daajinro asunəmin. Bikka-a bowotə telefon ngəwua də njerzayin, amma yaskiya falbe kalma sammaa yizayin, tawul səmma kərməkərma ro kataptayin, biya katas ngəwuro nazaru bawo ro saptayin. Cida ngəla də cida ngəwua daajinma-a lan dunoatən. Shafi adə dalilnzə bayyinzəyi, ngawo sawa ngəwuro cida-a kuru biskewo shafi adəbe shiye-a naptəna-a fǝlezəyin.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Cida lan, Alzheimer də dondi-a gade wa?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ngəwuro gade bawo. Dondi də kalma kura wo, kuru Alzheimer də sabunzə ngəwuro kura wo: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers)ye Alzheimer də dondi səmmajinma 60 ye 80 ro suwudin can. Dondi-be cida-a biskewobe-a lan ruwoatəna kusǝrso də Alzheimer-a ma kəlanzəga faidajin, [cida 101](/activities/ideas/) andega-a kəltəro.
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Awo notə faidajinma də, faltəgə ngəwuro walyinma. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease)ye bayyinzəna Alzheimer də burin hangalnza kǝla kǝrǝwo ro cidajin, ngawo manazə, nazaru, kuru jam'a-a kəltə cidatə-a ro tǝkkǝnajin. Alzheimer's Association ye alama burwoye ngəwuro fǝlezəyinma də, awo bəlin kərməatəna hangaltə kəsuwu can. Kam ngəwuso də gadegade, kuru am laa də sabu gadegade-a mbeji, amma alama adə də awo ngəwuro faidajinma fǝlezəyin.
 
-## What kinds of activities suit Alzheimer's best?
+## Alzheimer ro cida jiri fin ngəwuro naptə?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Cida kərmə kərmabe kərməatəna-a lan dunoatəna də, awo bəlin hangaltə-a rotə-a mata cida-a nankaro ngəwuro ngəla ro lejin.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Cida burin ngəwuro kərməatəna.** Alzheimer's Association ye gulzəna kam də balbe piano lan burin kərməatəna yaskiya balbe yizayin. Kaso saptə, katako waskə, katas saptə, buro letə, kuru kazəmu kataptə də shiye kəltəro.
+- **Yaskiya kərmabe-a yaskiya jauro noatəna-a.** Am ngəwu də sanaanzəbe loktunzə-a, yaskiya addinbe-a, kuru yaskiya lardənzəbe-a kalmanzə sammaa noza. [yaskiya cidawa](/activities/music/) rui.
+- **Cida fado-a faidajinma-a.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ye yakkə tulwotə, tebur dabbartə, sutəl tayiye, kuru kazəmu kataptə-a amso jauro cizayinro gulzəna. Faida nzasoro kərəngə də awo kura.
+- **Asutə, hangaltənyi.** Foto kalkalnza ro musko gotə də, sunzə hangalnza ro yikkoro nankaro balbe. Adə nankaro foto biskewo awo sammaa fǝlejinma də koro-a nankaro ngəla.
+- **Karəngə-a.** Lezə, kənənu, kange, tamtam, kuru kowo də manazə kəsuwu ngawonza ma maana nzaa mbeji. [karəngə cidawa](/activities/sensory/) rui.
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Awo ngəwuro ngəla ro lejinnyi: loktu-a biskewo, doka bəlin kərməgə, awo ngəwu hangaltə, biya koro hangal jarabtəma, misallo "Kam adə noto wa?" Awo ani də Alzheimer-be na kəsuwuma fǝlezəyin.
 
-## Activities for early-stage Alzheimer's
+## Alzheimer sawa burwoye cida-a biskewobe-a
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Sawa burwoyen, [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) ye kam də har nowa mota gotə, cida sadin, kuru jam'a cidawa ro kəltəram sadin, amma hangal bawobe balbe asutə — misallo kalma kərməatəna biya awo na-a njerro. Futu ngəwuro ngəlama də kəltəram: awo cidatəro cizəyinma-a kuru bananzə fin cizəyinma-a korə.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Cida kərmabe-a dawartənyi.** Golf, bridge, kaso, yaskiya jam'a-a, addin jam'a-a, faltəgə gana-a kəltəro misallo jam'a gana-a loktu naptə-a.
+2. **Katas-a tebur biskewo-a kərməatəna bisketə.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ye sawa burwoyero trivia, kalma matə, katas biskewo, kuru tebur biskewo-a gulzəna. Lamba shiye-a hangalnzə tustəyinna, kəltəram ro bisketə, biya lamba də sammaa koltə.
+3. **Kəltəram dewu.** Shi ye dəwo hangalnzən noatəna sado, nyi də awo karantəga gotə.
+4. **Ro kəntagə cidama baditə.** Foto, dəwo futuwa-a, kuru labarwa-a albəmnzən shi ye fǝlejinro. [hangal cidawa](/activities/reminiscence/) rui.
+5. **Luwotə.** Ngaro jauro cizəyinma loktu naptən, na asutəbe nankaro kəsa ro letə, biya bǝstan letə.
+6. **Karapka shi ye kartənama jarabtə.** Kǝrǝwu kura-a crosswords, kalma matə, kuru jigsaws. [dondi-be karapkawa](/activities/puzzles/) rui.
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Awo gade: [sawa burwoye cidawa](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Alzheimer sawa dawunzə cida-a biskewobe-a
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association ye sawa dawunzə də ngəwuro kuruwu naptəro bayyinzəna, kuru saa ngəwu daajin. Manazə fasartə, hangal tutə dǝrǝs ro waljin, kuru kam də banazə ngəwu mata. Alzheimer's Foundation of America ye kəlanzəgulzəna am ngəwu də cida baditə-a dawartə-a ro banazə mata. Cidama də awo dabbartə, fǝlejinro bultənyi, kuru awo kəsuwu-a gotə.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Kataptə, tayiye, kuru kalkaltə.** Tawul, sutəl, cokali, kuru batǝn kalarro. Cida ngəyi, kəltəram sadəna.
+2. **Yaskiya yitə kuru naptə.** Mukko baktə, lutə, biya fado naptə. Nyi də burin yitə kuru shi ye kəltəramma ro koltə.
+3. **Foto albəm rui.** Awo ruminma bayyin kuru labar koro: "Moto adə shawa. Awonza wulsǝgǝne." Sun shi ye faidatəna sammaa amartə.
+4. **Foto biskewo balbe bisketə.** [Picture pairs](/games/picture-pairs/) tile 4 ye 6 ro kuru foto-a fǝlejin, biya [Find the same](/games/find-the-same/) kartə 2 biya 3-a.
+5. **Kalma kərmabe dazəptə.** "Tuffa kawu yaye..." Kalma burin kərməatəna də ngəwuro balbe ro isin. [Finish the saying](/games/finish-the-saying/) jarabtə, na-a dawu ngəwuso musko fal lan fǝlezəyin.
+6. **Səkkə njiyitə kuru nzundotə.** Fado səkkəwa biya bǝri səkkə, njiyitə kǝska-a.
+7. **Foto yadǝye-a lan biskewo kalkaltə dəptə.** [Photo pairs](/games/photo-pairs/) foto nyi kartənama faidatə, kuru na-a ndaramnzən kolzanyi.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Awo gade: [sawa dawunzə cidawa](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Alzheimer sawa ngəwube cida-a biskewobe-a
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Sawa ngəwubero, Alzheimer's Association ye am də dawari naptəro jaawu tǝkkǝnayin, kuru manazə fǝlezəyin, amma kalma biya kalma gana canzayin. Cida də kuskəna kange-a kəltəram-a ma, kam də na napkənama ro gotə.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Yaskiya shiye jauro cizəyinma yitə** naptə ro, TV-a bawo.
+2. **Mukko lezə** kənənu shiye jauro cizəyinma-a kəltə.
+3. **Awo balbe rotaa:** bǝrni kange, fleece, kau balbe.
+4. **Awo karantə** zabura, shi'ir, biya labar kərməatəna. Ritm də maana-a kozəna.
+5. **Deyanzən napkə** kǝla nguro, biya windo nguron ngudo ruibe.
+6. **Foto kura fal kəltə rui.** Suram biya kəri tablet kǝlan kura, nyi də awo ruminma wulgəmin.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Awo gade: [sawa ngəwube cidawa](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Alzheimer-be kambo biskewo fin naptə?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Biskewo falma ro fasartənyiro kartə. Biskewo shafi adəbe sammaa rambe, browser lan cidajin, kuru loktu, lamba biya ruwotə bawo.
 
-| Game | What you do | Often suits |
+| Biskewo | Awo sadin | Ngəwuro naptə |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Foto kura kalkaltə; fǝlejin ro kolzayin | Sawa burwoye-a dawunzə-a |
+| [Find the same](/games/find-the-same/) | Foto sammaa kalkalnza ro musko gotə | Sawa dawunzə-a ngəwube-a, banazə-a |
+| [Finish the saying](/games/finish-the-saying/) | Kalma kərmabe dawu kartə, biya fǝlejin | Sawa burwoye-a dawunzə-a |
+| [Picture puzzle](/games/picture-puzzle/) | Cidi 4 biya 9 na-a ro walzə, foto fǝlejin | Sawa burwoye-a dawunzə-a |
+| [Conversation cards](/games/conversation-cards/) | Foto-a koro manabe-a | Sawa yaye, manama-a kəltə |
+| [Photo pairs](/games/photo-pairs/) | Foto nəmma-a lan biskewo kalkaltə | Sawa burwoye-a dawunzə-a |
+| [Coloring](/games/coloring/) | Kalar kartə, ngawo foto na-a; biya chapkə | Sawa yaye, banazə-a |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Futu kəltəram napkə, banazə ngəwu, kuru sa dazəptəma ro [dondi-be kam-a kəltə bisketə futu](/caregiving/how-to-play-together/) karantə. "Hangal biskewo" lan koro numma, [dondi-be kərmaibe hangal biskewonzə](/activities/memory-games/) rui.
 
-## How to make any activity easier
+## Cida yaye futu galejin
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA shawarinzə də alada gana-a lan: cida də kam də sadinma-a ro kalkaltə, baditəro banazə, hangal tutə asutə, nasara kərəngəga matawotə, kuru shi ye ruiye jauro cizəyinna ruiro koltə.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Shi ye kuskənzə ngəwuro ngəla naptəma loktu kartə,** kuru loktu kəsa ro koltə.
+- **Awo sammaa burin dabbartə** dǝrǝs ro badinro.
+- **Koro, wada nyi.** "Banasne gǝsǝgǝne wa?" də "Cida loktu" nankaro ngəla.
+- **Awo burwoye nyi də sadə** kuru shi ye kəltəramma ro koltə.
+- **Kawu falro awo fal-a kartə fal-a.**
+- **Futunzən sadəna ro koltə.** Tawul kalkalnyi də ngəla.
+- **Jauro naptənama sa dazəptə.** Burin dazəptə də awo ngəla, fasartənyi. Shi ye warzəyinna, [dondi-be kam 'a'a' canna](/caregiving/when-they-say-no/) rui.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ye balbe ro bayyinzəna: jauro cizayin ro ngənəptə, nasara ro nyi.

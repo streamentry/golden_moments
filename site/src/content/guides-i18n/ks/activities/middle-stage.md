@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "درمیانہ درجُک ڈیمینشیا: سادٕ سرگرمیاں"
+seoTitle: "درمیانہ درجُک ڈیمینشیا خٲطرٕ سادٕ خیال"
+description: "درمیانہ درجُک ڈیمینشیا خٲطرٕ سادٕ سرگرمیاں: کارِ خانہ، موسیقی، فوٹو تٕ سۄہل کھیل، سیٹ اپ ہُند قدم بقدم طریقہٕ تٕ بے چینی کُن کینہہ کرنُک موقع بناونٕچؠ رایہِ۔"
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  درمیانہ درجِک ڈیمینشیا منز چھِ بہترین سرگرمیاں مختصر، واقف تٕ اکِس اکِس قدمس
+  منز بٹراونہٕ آمژٕ: کپڑے وٹُن، موزٕ جوڈُن، برتن دھون، گیون، نگرانی سٟتؠ پکہُن،
+  فوٹو البم وُچھُن تٕ سادٕ تصویری کھیل۔ چیزٕ تیار تھٲوِو، گۄڈنیُک قدم ہٲوِو،
+  مشکل حِصہٕ پانہٕ نِیِو تٕ سرگرمی اکھ مقصد دِیِو۔ ییلہِ سرگرمی مزے دار روزنہٕ،
+  تیلہِ رُکِو۔
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "واقف کارِ خانہ چھِ اکثر بہترین چلِن، تِکیازِ تِم چھِ فائدٕ مند تٕ بالغہٕ ہِندۍ ہِوۍ باسان۔"
+  - "وننہٕ کھوتہٕ ہٲوِو، اکھ وقتس اکھ قدم دِیِو، تٕ کُھلہٕ سوالنہٕ بدلٕ دِیِو زٕ سادٕ انتخاب۔"
+  - "سبکھوتہٕ مشکل حِصہٕ پانہٕ نِیِو تاکہ سُہ شخص کرِ ہیٚکہِ تسلی بخش حِصہٕ۔"
+  - "بے چین رویہٕ ہُند مطلب ہیٚکہِ آسُن زِ تس شخصس چھِ کینہہ کرنٕچ ضرورت۔ «نہ» وننہٕ بدلٕ دِیِو مُناسِب سرگرمی۔"
+  - "وُچھُن، تھوڑا سٲتھی دِن، یا جلدی رُکُن، یِم سٲری چھِ ٹھیک۔"
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "درمیانہ درجِک ڈیمینشیا خٲطرٕ کٔہ سرگرمیاں چھِ مناسب؟"
+    a: "مختصر، واقف تٕ اَتھہٕ سٟتؠ کرنہٕ واجِنؠ سرگرمیاں چھِ عام طور بہتر چلِن: تولیہِ وٹُن، موزٕ جوڈُن، برتن دھون، میز سجاوُن، پرانِن پسندیدٕ گیتن سٟتؠ گیون، نگرانی سٟتؠ پکہُن، فوٹو البم وُچھُن تٕ سادٕ تصویری کھیل۔ پرٛتھ اکھ قدمَن منز بٹراوِو تٕ میلِتھ کٔرِو۔"
+  - q: "بہٕ کِتھہٕ کٔنۍ ہیکہٕ ڈیمینشیا سٟتؠ زندٕگی گزاران وٲلِس شخصس سرگرمی شروع کرنہٕ خٲطرٕ آمادٕ کٔرِتھ؟"
+    a: "سورُے کینہہ تیار تھٲوِو، پتہٕ کٔرِو پانے سرگرمی شروع تٕ تِمن دِیِو مدد کرنٕچ دعوت: «یِم تولیہِ وٹنہٕ منز ہیکِوٕہ میون تھوڑا سٲتھی دِتھ؟» واریاہ لُکھ چھِ شٲمِل گژُھن یژھان مگر شروع کرُن چھُ تِمن مشکل باسان۔ گۄڈنیُک قدم ہاون چھِ اکثر وضاحت کرنہٕ کھوتہٕ بہتر چلُن۔"
+  - q: "اگر سُہ اکھے چیز واریاہ لٹِ کران روزِ، بہٕ کیا کرٕ؟"
+    a: "واریاہ لٹِ کرُن چھُ اکثر بے ضرر آسان تٕ یِہ ہیٚکہِ اَتھ ہُند اشارٕ آسُن زِ سُہ شخص چھُ مصروف روزُن یا تسلی یژھان۔ ٹھیک کرنہٕ بدلٕ دِیِو تژھ سرگرمی یۄس حرکتس سٟتؠ میل کھٲیِ، مِثالَن وٹنہٕ خٲطرٕ تولیَن ہُند ٹوکر یا میلِتھ گینُک گیت۔"
+  - q: "اگر سُہ سرگرمی غلط طریقہٕ کَرِ تیٚلہِ کیا؟"
+    a: "اگر کانہہ نقصان نہٕ چھُ، تیٚلہِ ترٲوِو تِتھے پٲٹھؠ۔ تولیہِ الگ طریقہٕ وٹِتھ یا چمچہٕ غلط جایِ تھٲوِتھ چھُنہٕ کانہہ فرق پیوان۔ ٹھیک کرُن ہیٚکہِ تِمن تنقید ہِو بٲسِتھ، مگر تِہندِ طریقہٕ کرنہٕ دِنہٕ سٟتؠ چھِ تِم پانے قابل تٕ فائدٕ مند محسوس کران۔"
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+ڈیمینشیا ہُند درمیانہ درجہٕ چھُ اکثر واریاہ زیوٹھ آسان، تٕ یَتھ دوران چھِ سرگرمیَن اصلی مددٕچ ضرورت گژھان۔ لفظ چھِ کم آسُن یِوان، قدم چھِ رَلِتھ گژھان، تٕ کانہہ چیز شروع کرٕنۍ ہیکہِ مشکل بٲسِتھ۔ مگر فائدٕ مند تٕ شٲمِل روزنٕچ خواہش چھِ عام طور برقرار روزان۔ تھوڑ سٟتؠ انتظام سٟتؠ ہیکہِ ڈیمینشیا سٟتؠ زندٕگی گزاران وول اکھ شخص واریاہ کینہہ لطف تُلِتھ، خاص کر تۄہہِ سٟتؠ میلِتھ واقف کارِ خانہ، موسیقی تٕ تصویرٕ۔
 
-## What activities work well in middle-stage dementia?
+## درمیانہ درجِک ڈیمینشیا منز کٔہ سرگرمیاں چھِ ٹھیک چلِن؟
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+مختصر، واقف تٕ اَتھہٕ سٟتؠ کرنہٕ واجِنؠ سرگرمیاں، یِم اکِس اکِس قدمس منز بٹراونہٕ آمژٕ آسَن، چھِ بہترین چلِن۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) چھُ ونان زِ نٔو کینہہ سوچنٕچ ضرورت چھَنہٕ: سرگرمیاں ہیکَن عام زندگی ہُند حِصہٕ آسِتھ، مِثالَن میلِتھ کھؠن بناوُن، باغبانی کرٕنۍ، موسیقی بوزُن یا پکہُن گژُھن۔
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھُ ونان زِ یَتھ درجس منز چھِ اکثر لُکن مقصد دار محسوس کرنٕچ یا کٲنٛسہِ ہُند خیال تھاونٕچ مضبوط ضرورت آسان، تٕ تِمن چھِ سرگرمی شروع یا جاری تھاونہٕ خٲطرٕ مددٕچ ضرورت آسان۔ تِہندِس درمیانہ درجِک فہرستس منز چھِ کپڑے وٹُن، برتن دھون، موزٕ چھانٹُن، سۄہل ورزش، واقف موسیقی پؠتھ ناچُن، نگرانی سٟتؠ پکہُن، میلِتھ گیون، سادٕ پینٹِنگ تٕ فوٹو البم وُچھُن۔
 
-## How do you set up an activity so it works?
+## اکھ سرگرمی کامیاب بناونہٕ خٲطرٕ سُہ کِتھہٕ کٔنۍ ترتیب دِیِو؟
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+واریاہ سرگرمیاں چھِ ترتیب پؠٹھے کامیاب یا ناکام گژھان۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) تٕ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ہندۍ یِم عادت چھِ سبکھوتہٕ زیادٕ فرق پاوان:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **جایِ کٔرِو صاف۔** ٹی وی کٔرِو بند، دروازٕ کٔرِو بند تٕ صرف تِمے چیزٕ تھٲوِو نیبر یِم سرگرمی خٲطرٕ ضرورت چھِ۔
+2. **پانے کٔرِو شروع۔** وٹُن یا ہِلاوُن کٔرِو شروع تٕ تِمن دِیِو شٲمِل گژھنٕچ دعوت: «یمَن منز ہیکِوٕہ میون مدد کٔرِتھ؟»
+3. **ہٲوِو، پتہٕ کٔرِو انتظار۔** اکھ قدم ہٲوِو۔ اَتھہٕ سٟتؠ اشارٕ کٔرِو یا ہلکہٕ رہنمٲیی کٔرِو، مِثالَن پلیٹ کتِ تھاون چھُ۔
+4. **اکھ وقتس دِیِو اکھ قدم۔** «یِہ وٹِو دۄگنہٕ» چھُ «یِم وٹِو تٕ رنگن مُطٲبِق تھٲوِو» کھوتہٕ آسان۔
+5. **کُھلہٕ سوالنہٕ بدلٕ دِیِو زٕ سادٕ انتخاب۔** «نیل تولیہِ یا سفید؟» چھُ «تُہؠ کیا یژھان کٔرُن؟» کھوتہٕ آسان۔
+6. **مشکل حِصہٕ کٔرِو پانے۔** تُہؠ کٔرِو ناپ، سُہ ہِلاوِ۔ تُہؠ کٔرِو سوٗے منز دھاگہٕ، سُہ کرِ اون۔
+7. **اکھ وجہ دِیِو۔** «یِم نیپکن چھِ اتوار دۄہٕ کھؠنہٕ خٲطرٕ» چھُ کأمس اصلی احساس دِوان۔
+8. **اگر تِم صرف وُچھُن یژھن تیٚلہِ ترٲوِو۔** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھُ ونان زِ صرف وُچھُن تہِ ہیٚکہِ مزے دار آسُن۔
 
-## Activity ideas for the middle stage
+## درمیانہ درجِک خٲطرٕ سرگرمی ہندۍ خیال
 
-### Useful jobs
+### فائدٕ مند کارِ خانہ
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **تولیہِ تٕ چھوٹہٕ تولیہِ وٹُن۔** لۄکٹ، ہموار چیزٕ چھِ آسان آسان۔ گرم چھوٹن تولیَن ہُند ٹوکر ہیٚکہِ وٹنہٕ، ہموار کرنہٕ تٕ دوبارٕ وٹنہٕ خٲطرٕ استعمال گژھِتھ۔
+- **موزٕ جوڈُن۔** چنِن الگ الگ جوڑن سٟتؠ کٔرِو شروع۔ صرف رنگن مُطٲبِق چھانٹُن تہِ چھُ ٹھیک۔
+- **غیر ٹوٹنہٕ واجِن برتن دھون یا سُکھاوُن۔** گرم، صابن دار آب چھُ اَتھن خٲطرٕ آرام دہ آسان۔ بِہِتھ سُکھاوُن چھُ کھورن خٲطرٕ آسان۔
+- **میز سجاوُن۔** اکھ وقتس دِیِو اکھ قسمٕچ چیز، تٕ نمونہٕ خٲطرٕ کٔرِو اکھ جایِ پانے تیار۔
+- **کھؠن بناونہٕ منز مدد۔** آلو دھون، سلاد چِرُن یا بۄلس منز ہِلاوُن۔ چھری تٕ گرمی تھٲوِو پننِس قبضس منز۔
+- **بُہارُن، گرد ژھارن یا پۄچھُن۔** میز خٲطرٕ کپڑٕ، یا براندس خٲطرٕ ہلکہٕ بُہار۔
 
-See [household tasks](/activities/household-tasks/) for many more.
+مزید خیالن خٲطرٕ وُچھِو [گھرٕکۍ کام](/activities/household-tasks/)۔
 
-### Music and movement
+### موسیقی تٕ حرکت
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **پرانِ پسندیدٕ گیت گیون۔** پانے کٔرِو گیون شروع؛ واریاہ لُکھ چھِ تِمن گیتن منز شٲمِل گژھان یِم تِمن دَہَن ؤرِین پیٹھہٕ یاد چھِ۔ وُچھِو [موسیقی سرگرمیاں](/activities/music/)۔
+- **آزاد طریقہٕ ناچُن۔** ہلکہٕ ہلکہٕ ہِلن، تھپتھپاون یا یِتھہٕ پٲٹھؠ ٹھیک لَگِ تِتھہٕ پٲٹھؠ حرکت کرٕنۍ۔ بِہِتھ تہِ ہیٚکہِ۔
+- **غُبارٕ سٟتؠ کھیلن۔** یِہ چھُ آہستہٕ پکُن یِوان تٕ کُرسی پؠٹھ تہِ ہیٚکہِ آسانی سٟتؠ رٹنہٕ یِتھ۔
+- **نگرانی سٟتؠ پکہُن۔** اکھ لۄکُٹ، واقف چکر کٔرِو میلِتھ، اگر مددگار لَگِ تیٚلہِ اَتھہٕ رٔٹِتھ۔
 
-### Pictures and stories
+### تصویرٕ تٕ کتھہٕ باتہٕ
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **فوٹو البم وُچھُن۔** سوال پرژھنہٕ بدلٕ ؤنِو تِم چیزٕ یِم تُہؠ نظرِ گژھان چھِ: «تَتھ گاڈِس کُن وُچھِو۔ میٚے ؤنِو اَمِچ کتھ۔» وُچھِو [یاد تازٕ کرن واجِنؠ سرگرمیاں](/activities/reminiscence/)۔
+- **کتھہٕ باتہٕ کارڈ استعمال کرُن۔** [کتھہٕ باتہٕ کارڈ](/games/conversation-cards/) چھِ اکھ تصویر اکِس کُھلہٕ، بِنا کوئز اشارس سٟتؠ میلِتھ۔
+- **میلِتھ پرٛون فلم وُچھٕنۍ۔** اکھ واقف فلم چُنِو، نکھہٕ روزِو تٕ وقفہٕ خٲطرٕ رُکٲوِو۔
 
-### Simple, pressure-free games
+### سادٕ، دباؤ بغیر کھیل
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **تصویرٕ ہاونہٕ سٟتؠ تصویری جوڑے۔** [تصویری جوڑے](/games/picture-pairs/) منز ہیٚکن تصویرٕ نظرِ روزِتھ، یِہ چھُ پرزناونہٕ بجایِ وُچھنہٕ مُتعلق۔
+- **ہِوُے ژھانڈُن۔** [ہِوُے ژھانڈُن](/games/find-the-same/) منز چھِ اکھ تصویر تٕ صرف زٕ تا ژور انتخاب ہاونہٕ یِوان۔
+- **میلِتھ چھانٹُن۔** [میلِتھ چھانٹُن](/games/sort-together/) چھُ تِیُتھ یُتھ سکرینس پؠٹھ کپڑے چھانٹُن: اکھ تصویرس پؠٹھ ٹیپ کٔرِو، پتہٕ تٔمِکِس ٹوکرِس پؠٹھ۔
+- **تصویری بِنگو۔** [تصویری بِنگو](/games/picture-bingo/) چھُ خاندانی اجتماعَن تٕ گرۄہَن خٲطرٕ بہتر چلُن۔
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+اگر کانہہ کھیل پریشٲنی پیدا کرنہِ لَگِ، تیٚلہِ کٔرِو بند تٕ کٔرِو بیٚیہِ کینہہ۔ وُچھِو [کِتھہٕ کٔنۍ کھیلیوٕ میلِتھ](/caregiving/how-to-play-together/)۔
 
-## Turning restlessness into an activity
+## بے چینی اَکھ سرگرمی منز بدلاوٕنۍ
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+بے چین یا واریاہ لٹِ کرن وول رویہٕ ہیٚکہِ اکثر کانہہ وجہ آسُن۔ Family Caregiver Alliance چھُ ونان زِ اگر کانہہ شخص الماری خٲلی کران روزِ، تیٚلہِ ہیٚکہِ سُہ مصروف تٕ فائدٕ مند محسوس کرنٕچ ضرورت پوٗرٕ کرنٕچ کوشش کران آسُن۔ Alzheimer's Association چھُ مشورٕ دِوان زِ یژھ توانٲیی رُکاونہٕ بدلٕ دِیِو تتھ مُطٲبِق اَکھ سرگرمی کُن رُخ۔
 
-| What you see | Something to offer |
+| تُہؠ کیا وُچھان چھِو | تُہؠ کیا ہیٚکِو پیش کٔرِتھ |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| میزس پؠٹھ رگڑُن یا چھیڑُن | اکھ نم کپڑٕ تٕ میز پۄچھنٕچ درخواست |
+| بے چین کھور یا تھپتھپاون | صاف تال وال موسیقی یَتھ سٟتؠ تھپتھپاویو یا تال دِیِو |
+| دراز یا الماری خٲلی کرٕنۍ | وٹنہٕ تٕ چھانٹنہٕ خٲطرٕ کپڑن یا تولیَن ہُند ٹوکر |
+| واریاہ لٹِ اکھے سوال پرژُھن | تسلی دِیِو، پتہٕ کٔرِو میلِتھ کانہہ گیت یا کارِ خانہٕ |
+| چکر کاٹُن | میلِتھ پکہُن، یا کانہہ تژھ کأم یَتھ منز چیزٕ تُلنہٕ یِن |
+| شامس نکھہٕ بے چینی | رۄشن روشنی منز اکھ پُرسکون، واقف کأم؛ وُچھِو [شامس نکھہٕ بے چینی](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## کَر رُکو یا رُخ بدلاوِو
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+ییلہِ تُہؠ تھکاوٹ، پریشٲنی، شرمندگی یا اُکتاہٹٕچ علامژٕ وُچھِو — مِثالَن بے قرار گژُھن، تیٛونہٕ کرٕنۍ، چیزٕ دوٗر ترٛاونہٕ یا «مے چھُنہٕ یِوان» ونُن — تیٚلہِ کٔرِو بند۔ Alzheimer's Association چھُ مشورٕ دِوان زِ دۄہس کِس بدل وقتس پؠٹھ دوبارٕ کوشش کٔرِو یا سرگرمی کٔرِو مزید سادٕ۔ زبردستی مَہ کٔرِو۔ انکار ہیٚکہِ خوفہٕ یا کأمہِ ہندِ واریاہ مشکل آسَنہٕ سٟتؠ آسُن؛ وُچھِو [ییلہِ تِم ونن “نہ”](/caregiving/when-they-say-no/)۔
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+جلدی ختم کرُن تہِ چھُ ٹھیک۔ صرف چایہِ ہُند پیالہٕ ہیٚتھ میلِتھ بِہُن تہِ چھُ ٹھیک۔ ییلہِ صلاحیت مزید بدلَن، تیٚلہِ ہیکَن [آخری درجِک سرگرمیاں](/activities/late-stage/) ہندۍ خیال بہتر موزون آسُن، تٕ [101 سرگرمیاں](/activities/ideas/) منز چھِ آزمٲیش کرنہٕ خٲطرٕ واریاہ مزید خیال۔

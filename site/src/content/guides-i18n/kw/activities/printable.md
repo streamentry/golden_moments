@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gwriansow demens heb kost dhe brinty"
+seoTitle: "Gwriansow demens dhe brinty: Lytherennow bras"
+description: "Gwriansow demens heb kost dhe brinty: hwilas ger, folennow liwa, kartennow keskows ha bingo skeusennow, gans profyansow a-dro dhe brinty yn ta."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments a brof gwriansow demens heb kost dhe brinty: hwilas ger gans
+  lytherennow bras, folennow liwa, kartennow keskows gans skeusennow ha
+  kartennow bingo skeusennow. Ygor folen gwari vyth hag usya hy boton Print.
+  Printyah gans lytherennow bras, sempel war baper krev, gwith unn oberen war
+  bub folen, ha lamnya folennow may fynnowgh aga devnydhya arta. Printyadow
+  sempel gwrys tre, kepar ha folen istori bewnans po rolyer dedhyek, a weres
+  ynwedh.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Agan gwriansow dhe brinty yw heb kost: Word Search, Coloring, Conversation Cards ha Picture Bingo. Pub folen gwari a’n jeves boton Print."
+  - "Printyah gans lytherennow bras, sempel ha gans gorthwedh krev, ha gwith unn oberen war bub folen."
+  - "Paber krev po kardyn yw esya dhe synsi ha kales dhe gruplia. Lamnya folennow dhe aga devnydhya arta gans markoryon sygh-dilea."
+  - "Printyadow sempel gwrys tre, kepar ha folen istori bewnans, rolyer dedhyek po labelys skeusennow rag darasow, yw sempel ha gwerek."
+  - "Folen brentys yw galow, nag yw ober tre. Da lowr yw gul rann anodho, po gul travyth vyth."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Yw agan gwriansow demens dhe brinty heb kost?"
+    a: "Ya. An folennow Word Search, Coloring, Conversation Cards ha Picture Bingo war an wiasva ma yw heb kost dhe usya ha dhe brinty. Ygor an folen wari hag usya an boton Print."
+  - q: "Py gwriansow printys yw an gwella rag demens?"
+    a: "An printyadow gwella yw sempel, kler ha tevesik: hwilas ger gans lytherennow bras gans geryow a-dreus hag yn-nans yn unnik, folennow liwa gans linenyow kler, kartennow skeusennow a dhalleth keskows, ha bingo skeusennow rag bagasow. Keverewgh an gwrians dhe lesow ha gallosow a-lemmyn an den, ha gwithowgh unn oberen war bub folen."
+  - q: "Fatell allav vy gul printyadow esya dhe weles ha dhe usya?"
+    a: "Usyowgh lytherennow bras, sempel, enk tewl war baper gwynn po krem, ha lowr a spas. Printyowgh war baper krev po kardyn may hwrello an folen a dermyn gwastad, dewisowgh baper heb splann dhe lehe golowder, hag usyowgh klyppbord po mat heb slynkya dhe witha an folen yn le. Lamnya a weres folennow dhe besya."
+  - q: "A allav vy printy agas gwriansow rag chi gwith po rag towlen dydh?"
+    a: "Ya. Mayth yw wolkommen an sodhogyon gwriansow dhe brinty agan folennow rag trigoryon ha bagasow. Picture Bingo yw desinys rag bagasow hag a gomprehend gelwel yn-skrin a yllowgh diskwedhes war bellwolok po ragdresor."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Treweythyow, an gwella gwrians yw folen baper ha pluven orth an voos gegin. Nyns eus edhom a jajya, ger-tremena po skrin rag printyadow, hag i yw es dhe dhri dhe vysytyans po dhe vagas. An folen ma a dhiskrif an gwriansow heb kost dhe brinty war agan gwiasva, fatell aga frinty mayth yns i es dhe weles ha dhe synsi, hag y’nwedh nebes printyadow sempel gwrys tre a yll bos gwerek rag teyluyow ha sodhogyon gwriansow.
 
-## What free printable activities do you offer?
+## Py gwriansow heb kost dhe brinty a brofyn?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Ni a brof peswar printyas heb kost. Ygor onan a’n folennow gwari ma hag usya an boton **Print** dhe gavos versyon parys rag an pryntyer.
 
-| Printable | What it is | Good for |
+| Printyas | Pyth yw ev | Da rag |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Hwilas ger gans lytherennow bras, gans geryow ow resek a-dreus hag yn-nans yn unnik | Termyn kosel gans pluven; nebonan a gara toslewydh |
+| [Coloring](/games/coloring/) | Folennow liwa dhe brinty, po dhe liwa war skrin | Termyn awenek, hegar; pub studh gans gweres |
+| [Conversation Cards](/games/conversation-cards/) | Kartennow skeusennow gans govynnow ygor, heb apposyans, dre thema | Vysytyansow, galowysow, boesow teylu, bagasow kovheans |
+| [Picture Bingo](/games/picture-bingo/) | Kartennow bingo gans skeusennow yn le niverow, gans gelwel yn-skrin | Chiow gwith, towlenyow dydh, kuntellesow teylu |
 
-### Large-print word search
+### Hwilas ger gans lytherennow bras
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+An [Word Search](/games/word-search/) a wra devnydh a lytherennow bras hag a with geryow ow resek a-dreus hag yn-nans yn unnik, heb geryow a-hes po war-dhelergh. Gwrewgh ober warno war-barth: onan a len ger a’n rol, ha’n den arall a’n hwila. Mar kwra bos hwilas geryow kales, assayowgh kelghya an kynsa lytheren a bub ger war-barth, po yn sempel redya an rol geryow yn ughel ha keskewsel a-dro dhe bub ger.
 
-### Coloring pages
+### Folennow liwa
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Folennow [Coloring](/games/coloring/) a yllir aga frinty rag markoryon po pluvennow liw, po aga liwa war leghen gans tappya liw, hag ena rann a’n skeusen. Rag folennow prentys, profyowgh markoryon tew ha nebes liwyow orth unn termyn. Gwelowgh agan [gedyans a-dro dhe artys ha kreft](/activities/arts-and-crafts/) rag fordhow dhe witha liwyans tevesik ha kosel.
 
-### Conversation cards
+### Kartennow keskows
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) a geworr skeusen gler gans govyn ygor, kepar ha «Derivowgh dhymm a-dro dhe...» po «Pyth a welowgh hwi?» Ymons i skrifys avel galowyow ygor, nag yns i govynnow apposyans. Printyowgh sett, treghowgh anedha yn arbennek, ha gwithowgh nebes yn sagh rag vysytyansow po ryb an pellgowser rag galowysow. I a ober yn ta ynwedh yn bagasow [kovheans](/activities/reminiscence/).
 
-### Picture bingo cards
+### Kartennow bingo skeusennow
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Kartennow [Picture Bingo](/games/picture-bingo/) a wra devnydh a skeusennow yn le niverow. Printyowgh unn garten rag pub gwarior hag usyowgh an gelwel yn-skrin war jynn-amontya, pellwolok po ragdresor. Ni a brofya gelwel bys pan vo leun karten pubonan, may na vo nagonan gesys yn-mes. Gwelowgh [gwriansow bagas rag chiow gwith](/activities/care-home-groups/) rag fatell resek esedhek.
 
-## How do I print activities so they are easy to use?
+## Fatell wrav vy printy gwriansow mayth yns i es dhe usya?
 
-Small changes in how you print make a big difference.
+Chanjyow byghan y’n fordh may hwrowgh printy a wra dyffrans bras.
 
-### Make it easy to see
+### Gwrewgh ev es dhe weles
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Lytherennow bras, sempel.** Usyowgh an settyans pryntya brassa a vydh hwath owth omdhesedha war an folen. Gwaytyowgh fontys koynt po skrif.
+- **Gorthwedh krev.** Enk tewl war baper gwynn po krem. Gwaytyowgh kilvaow loos po gwyn po liwyow gwann.
+- **Paber heb splann** a le gwynnder yn-dann golowyow splann.
+- **Checkyowgh dewweder ha golowyans.** Alzheimer’s Association a verk bos kudynnow gweles po klewes a yll gul keskowsyans moy kales, hag a brofya aga hjeckya yn reyth. Lugarn splann, kompes a weres ynwedh.
 
-### Make it easy to hold
+### Gwrewgh ev es dhe synsi
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Paber krev po kardyn** a wra pesya gwastad, yw esya dhe gemeres yn-bann, hag a bes dres devnydh lieskweyth.
+- **Klyppbord** po mat heb slynkya a with an folen rag slynkya.
+- **Markoryon tew po pluvennow tew** yw esya dhe dhalghenna es pluvennow tanow.
 
-### Make it reusable
+### Gwrewgh ev dasusadow
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lamnyowgh folennow** po gorrewgh i yn gwithysi kler. Usyowgh markoryon sygh-dilea war hwilansow ger ha kartennow bingo, hag ena dileah glan.
+- **Dewisowgh saghow heb splann** mar yw golowder kudynn, ha **tornyowgh an kornellow** a gartennow lamnys gans gwelsow mayth yns i es dhe dhornla.
+- **Gwithowgh restren** a’n re garadowgh may na wrewgh hwi printy an keth folen pub seythen.
 
-### Keep it simple
+### Gwithowgh ev sempel
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Unn oberen war bub folen.** Unn hwilas ger po unn skeusen, nag yw lies gwrians yn unn le.
+- **Lowr a spas gwynn.** Folen leun a yll heveli bos re.
+- **Heb danvonadow dhe redya, mar possybyl.** Diskwedhowgh dhe’n den fatell dhe wul.
+- **Treghowgh folennow yn byra.** Mar yw folen leun re vras, treghowgh hi yn hanter po plegyewgh hi may hwerra bos gwelys rann yn unnik.
 
-## Other useful printables you can make at home
+## Printyadow erel gwerek a yllowgh gul tre
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Nyns yw pub printyas gwerek gwari. An re ma yw es dhe wul gans argerdh ger ha pryntyer.
 
-### A life-story page
+### Folen istori bewnans
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Folen unn folen «a-dro dhymm» gans skeusen, an hanow a gar an den bos gelwys ganso, le may teva ev, y ober, teylu, boesow gans an moyha les, ilow ha taklow a gonfort po a dhisturb. Dementia Australia a brof [lyver kov](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) gans manylyon a-dro dhe vewnans an den, an taklow a gar ev ha tus posek, dhe weres vysytyoryon ha gwithoryon ha dhe dhannvon keskows.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Ev yw gwerek yn arbennek yn klavjiow ha yn tylleryow gwith nowydh. An NIA a gomendya ri dhe sodhogyon klavji [folen kedhlow personel](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) a gomprehend usadow an den, an hanow a gar ev, an taklow a gar hag a nag gar, pyth a yll disturya, hag arwodhyow payn heb geryow.
 
-### A daily schedule
+### Rolyar dedhyek
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Rolyar dedhyek bras, sempel rag an jydh gans termynyow, nebes geryow ha skeusen vyghan rag pub rann: hansel, kerdh, li, powes, ilow, koen. [Towl gwith dedhyek](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Alzheimer’s Association a brofya towllya a-dro dhe’n termynyow gwella a’n jydh rag an den, gans termynyow reyth rag difuna ha mos dhe goska ha kemmysk a wrians ha powes. Gorrewgh ev orth nivel an lagasow, martesen war an yeynell, ha gwithowgh ev hebleth. Gwelowgh agan [gedyans a-dro dhe usadow dedhyek](/activities/daily-routine/) rag moy.
 
-### Picture labels for rooms and drawers
+### Labelys skeusennow rag stevellow ha kistennow
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+An NIA a brofya devnydh a arwodhyow splann po skeusennow sempel dhe [labelya an stevel omwolghi, an stevel goska ha’n gegin](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). An keth tybyans a ober rag kistennow ha lestri: skeusen a lodhow war an gisten lodhow, hanafow war an lestrier hanafow. Printyowgh, lamnyowgh ha stagowgh i yn-bann.
 
-### A sorting set
+### Sett sortya
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Printyowgh skeusennow a dhiw rumm sempel, kepar ha frutys ha bleujyow po toulys ha taklow kegin, war gardyn. Treghowgh anedha yn arbennek ha sortyowgh i war-barth yn dew gisten. An versyon war skrin a hemma yw [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Folennow geryow kan
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Printyowgh an geryow a nebes kanow meurgerys gans lytherennow pur vras rag kana war-barth. Hwath tus na wra redya meur a dermyn a yll omlowenhe ow synsi an folen.
 
-### A family photo page
+### Folen skeusennow teylu
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Unn folen gans peder bys hwegh skeusen teylu bras, pubonan gans hanow kynsa yn-danno. Hi a yll esedha war an voos rag nebonan dhe’y gemeres yn-bann ha keskewsel a-dro dhedhi. Labelys a weres vysytyoryon ha sodhogyon dhe junya an keskows, ha nyns eus edhom dhe nebonan govyn «Piw yw hemma?»
 
-### A recipe card
+### Karten recet
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Printyowgh recet teylu meurgerys gans lytherennow bras. Usyowgh hi dhe geginya war-barth, po yn sempel dhe geskewsel a-dro dhe voesow a’n termyn eus passyes.
 
-## How do I offer a printable without it feeling like homework?
+## Fatell brofyav vy printyas heb ev dhe heveli avel ober tre?
 
-Present it as something to share, not a test.
+Profyowgh ev avel neppyth dhe gevrenna, nag yw apposyans.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Esedhowgh ha dallethowgh ev agas honan.** «Yth esov vy ow kul an hwilas ger ma. A vynnowgh hwi ow gweres dhe gavoes ‘lowarth’?»
+- **Gwrewgh ober war-barth.** Kemmerowgh tro, po onan a gavo ha’n den arall a gylgh.
+- **Na verkyewgh ev byth ewn po kamm.** Gedyans Alzheimer’s Association a-dro dhe [wriansow tre](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) a gusul fogella war an argerdh, nag yw an sewyans, ha war lowender yn le kowlwrians.
+- **Gesowgh folennow yn-mes.** An keth gedyans a brofya gorra lyvrow kovskrif, lyvrow skeusennow po kovlyvrow coth yn tylleryow es dhe dhrehedhes. Kartennow prentys ha folennow skeusennow a yll esedha war voos ryb y’n keth fordh.
+- **Hedhowgh pan vynnowgh.** Hanter folen liwa yw dohajydh da. Keffrys yw gorra an folen dhe-ves ha kemeres hanafas te.
 
-## Where to find more
+## Ple kavos moy
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Peuryowgh oll agan [gwariow ha printyadow](/games/), po gwelowgh [gwriansow rag pub studh](/activities/ideas/) rag moy a dybyansow, gans po heb baper.

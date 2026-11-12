@@ -1,34 +1,35 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Кыдзи ворсны деменцияӧн овлысь морткӧд"
+seoTitle: "Кыдзи ворсны деменцияӧн овлысь морткӧд"
+description: "Практика юӧр: кыдзи ворсны деменцияӧн овлысь морткӧд — дасьтӧм, темп, оз ков лыддьыны, кокньӧдӧм да кӧні дугдны."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Ворсӧмсӧ видзӧдлӧй кыдзи ӧтлаын кад колльӧм, абу кыдзи видлалӧм. Бӧрйӧй лӧнь
+  кад лунын, пукавлӧй орччӧн лӧнь жырын да предложитӧй ӧти кокни ворсӧм. Сетӧй
+  мортлы аслыс темп тӧдмавны, энӧ лыддьӧй лӧсьыд абу грешъяссӧ, кокньӧдӧй
+  ворсӧмсӧ, кор мытшасисны, да вуджӧдӧй серникузяяс серпасъяс вылӧ. Дугдӧй,
+  кор на бур. Водзджык дугдӧм либӧ ӧтлаын видзӧдӧм — бура результат.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Медшӧртор — гаж да йитӧд, абу помавны либӧ веськыд вочавны."
+  - "Водзын дасьтӧй: лӧнь жыр, бур югӧр, очки да кывзысян приборъяс восьтӧмаӧсь, телевизор кусӧдӧма, ӧти ворсӧм дась."
+  - "Энӧ лыддьӧй лӧсьыд абу грешъяссӧ. Шуӧй «Тадзи видлам» либӧ просто водзӧ нуӧдӧй."
+  - "Кокньӧдӧй ворсӧмсӧ мытшасигкоста водзын: этшаджык серпас, этшаджык бӧрйӧм, серпасъяс тыдалӧны."
+  - "Вуджӧдӧй сёрни серпасъяссянь «Висьтав тайӧ йылысь...» шуӧмӧн, абу «Ті казяланныд...?»."
+  - "Дугдӧй мудзӧм либӧ сьӧкыдлун туйдӧдзыс. Водзджык дугдӧм — бура, абу омӧль."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Кымын кад ковмас ворсны?"
+    a: "Торъя кад абу. Уна мортлы кӧнкӧ минут тырмас, а мукӧд лунъясас ӧти кругыс тырмас. Видзӧдлӧй морт вылӧ, а не час вылӧ, да дугдӧй, кор сійӧ на лӧнь."
+  - q: "Ков-ӧ сетны сылы вермыны либӧ оз-ӧ казьтыштны грешъяссӧ?"
+    a: "Ӧтувъя, лӧнь ворсӧмын некод оз вермы да оз вош. Грешыс мортлы оз мешайт кӧ, лэдзӧй сійӧс. Сійӧ мортӧс мытшасьтӧ кӧ, лӧнь отсалӧй либӧ кокньӧдӧй ворсӧмсӧ, греш вылӧ оз индыны."
+  - q: "Мый вӧчны, кор сійӧ радейтчӧ видзӧдны, кыдзи ме ворса?"
+    a: "Тайӧ бур. National Institute on Aging индӧ, мый позьӧ лэдзны мортлы просто видзӧдны, тадзи сылы кокниджык кӧ. Сёрнитӧй, мый ті аддзанныд, да коркӧ шуӧй инмыны либӧ бӧрйыны."
+  - q: "Тайӧ ворсӧмъяс-ӧ память видлалӧм?"
+    a: "Абу. Миян ворсӧмъяс — кокни ӧтувъя уджъяс гаж да сёрни понда. Найӧ оз видлалӧй память, оз мурталӧй нинӧм да оз вӧв деменция бурдӧм вылӧ удж."
+  - q: "Кутшӧм ворсӧмсянь медбур заводитны?"
+    a: "Заводитӧй медкокни ворсӧмсянь, коді мортлы лӧсялӧ. Picture Pairs нёль плиткаӧн да тыдалана серпасъясӧн либӧ Find the Same кык бӧрйӧмӧн — бур заводитанногъяс. Conversation Cards бура лӧсялӧ, сёрнитны кӧ мортлы радейтаджык, а не личкыны."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +48,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Бур ворсӧм деменцияӧн овлысь морткӧд оз тыдавны вермасьӧм вылӧ. Сійӧ тыдалӧ тадзи: кык морт пукалӧны матын, инмӧны серпасъяс вылӧ, сералӧны шуан кыв вылӧ да сёрнитӧны быдтор йылысь. Ворсӧмыс — сӧмын повод ӧтлаын кад колльӧм понда.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Тайӧ юӧрыс висьталӧ, кыдзи дасьтыны, кыдзи нуӧдны ворсӧмсӧ, мый шуны, кор мыйкӧ муніс «абу бур», кыдзи быд ворсӧмсӧ кокньӧдны либӧ невна сьӧкыдджык вӧчны, кыдзи сійӧс сёрниӧ вуджӧдны да кыдзи тӧдмавны, кор дугдны. Тайӧ уджалӧ миян [ворсӧмъяс](/games/)ӧн да картыскӧд, пазлъясӧн да мукӧд настольнӧй ворсӧмъясӧн, кодъяс тіян эмӧсь нин.
 
-## What is the best way to play a game with someone who has dementia?
+## Кутшӧм ногӧн медбур ворсны деменцияӧн овлысь морткӧд?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Видзӧдлӧй гаж вылӧ, а не вермӧм вылӧ. Тайӧ медшӧр юӧрыс [Alzheimer's Association-лӧн уджъяс йылысь индӧдъясын](https://www.alz.org/help-support/caregiving/daily-care/activities): видзӧдлӧй сы вылӧ, мый морт вермӧ, отсалӧй заводитны, сьӧкыдджык юкӧнсӧ вӧчӧй асныд, да энӧ видлалӧй либӧ энӧ лыддьӧй лӧсьыд абу уджъяссӧ.
 
-In practice that means:
+Практикаын тайӧ вӧзйӧ татшӧмтор:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Пукавлӧй сы орччӧн, а не паныдас.** Орччӧн пукигӧн ті кыкӧнныд аддзанныд экран либӧ пызан, да отсӧмыс лоӧ ӧтувъя уджӧн, а не видзӧдӧмӧн.
+- **Предложитӧй ӧти ворсӧм ӧтпырӧн.** Уна бӧрйӧм заводиттӧдзыс вермас лоны видлалӧм моз.
+- **Вуджӧдӧй сылысь.** Сійӧ кӧсйӧ кӧ асногӧн личкыны серпасъяссӧ, ӧти серпас йылысь сёрнитны дас минут либӧ кык пырысь бӧрын дугдны — тадзи лоӧ ворсӧмыс талун.
+- **Лыддьӧй бур кадъяссӧ, а не помалӧм кругъяссӧ.** Ньӧжйӧник вежӧртӧм, висьт либӧ лӧнь джын кад — тайӧ сійӧ результат, кодӧс ті корсянныд.
 
-## How do I set up before we start?
+## Кыдзи дасьтыны заводиттӧдзыс?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Кӧнкӧ минут дасьтӧмыс отсалӧ видзны сыысь, мыйсӧ унаысь шуӧны ворсӧмлӧн мытшасигӧн.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Бӧрйӧй бурджык кад лунын.** [National Institute on Aging (NIA)-лӧн уджъяс лӧсьӧдӧм йылысь индӧд](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) вӧзйӧ планируйтны уджъяс сэтшӧм кадӧ, кор морт бурджыка. Уна мортлы тайӧ асыввылын. Рытын — унджыкысь сьӧкыдджык; видзӧдлӧй [лӧнь уджъяс рытын](/caregiving/late-day-restlessness/).
+2. **Лӧсьӧдӧй лӧнь жыр.** Кусӧдӧй телевизор да радио, да позьӧ кӧ, пӧдлавӧй ӧдзӧссӧ. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) вӧзйӧ чинтыны шы да мӧдторъяс сёрниттӧдзыс.
+3. **Водзын видзӧдлӧй удобство вылӧ.** Ва матын, пыртӧдзыс нывбабаӧ ветлӧм, удобнӧй пукан, очки да кывзысян приборъяс восьтӧмаӧсь.
+4. **Югдӧдӧй жырсӧ бура.** Югыд, ӧткодь югӧртӧг экран вывсянь сылалӧмыс отсалӧ серпасъяссӧ бурджыка аддзыны.
+5. **Дасьтӧй ворсӧмсӧ пукавтӧдзыс.** Восьтӧй сійӧс, бӧрйӧй настройкаяссӧ да лӧсьӧдӧй шыас асныд. Сэсся бергӧдӧй экрансӧ сы бокӧ. Планшет йылысь содтӧд юӧр видзӧдлӧй [планшет либӧ телефон дасьтӧм](/caregiving/tablets-and-screens/) юкӧнын.
+6. **Пуктыӧй устройство сувтӧдан вылӧ.** Подставка либӧ чехол, коді кутӧ планшетсӧ, отсалӧ сыӧн, мый некодлы оз ков кутны, да кокниджык инмыны.
 
-## How do I invite them without pressure?
+## Кыдзи корны нинӧм кыстӧмтӧг?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Шуӧй лӧнь да кокни ногӧн, медым морт вермис кокниа ӧтдортны. Мукӧд кывъяс, кодъяс унджыкысь бура пӧртӧны:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Ме аддзи сад серпасъяс. Кӧсъянныд-ӧ видзӧдны мекӧд?»
+- «Верманныд-ӧ отсавны меным тайӧ пазлӧн? Оз артмы меным.»
+- «Талун кӧсъянныд-ӧ дзоридзъяс либӧ лэбачьяс?» (кык бӧрйӧм кокниджык восьса юалӧмсянь)
+- «Ме вӧча открытка тіян воклы. Кутшӧм рӧма бӧрйыны татчӧ?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association вӧзйӧ висьтавны уджлӧн могсӧ, шуам, ёртлы открытка вӧчӧм, сы понда мый могыс сетӧ сійӧлы дон. Отсӧг корӧмыс тшӧтш бура уджалӧ, сы понда мый сійӧ сетӧ мортлы ассьыс коланаӧн лоны.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Сійӧ кӧ шуӧ «абу», босьтӧй тайӧс. Бӧр видлӧй либӧ предложитӧй мӧдтор. Миян юӧрыс [мый вӧчны, кор сійӧ шуӧ «абу»](/caregiving/when-they-say-no/) висьталӧ унджык.
 
-## How long should a game last, and how fast should we go?
+## Кымын дырӧв ворсӧм да кутшӧм темпӧн?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Сетӧй мортлы темпсӧ тӧдмавны да планируйтӧй дженьыд кад. Ӧтувъя ворсӧм понда бур кад абу тӧдса. Кыкысь вит лӧнь минут вермас лоны тырвыйӧ удж.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Виччысьӧй дырджык, кыдзи кажитчӧ.** NIA вӧзйӧ сетны мортлы унджык кад вочавны да видлыны оз дугдӧдны. Лыддьӧй дасӧдз ас пытшкыныд отсавтӧдзыс.
+- **Ӧти крок ӧтпырӧн.** Сетӧй ӧти дженьыд индӧд («Личкы серпас вылӧ»), сэсся виччысьӧй. Висьталӧм серти петкӧдлӧй: инмӧй, кӧні личкыны.
+- **Дугдыштлӧй, кор колӧ.** Сійӧ кӧ дугдис серпас йылысь сёрнитны, ворсӧмыс вермас виччысьны. Оз ков тӧвны.
+- **Лэдзӧй видзӧдны.** NIA шуӧ, мый мукӧдъяс радейтӧны видзӧдны, да тайӧ бур бӧрйӧм.
 
-## Should I correct wrong answers?
+## Ков-ӧ лыддьыны абу веськыд вочавидзсӧ?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Абу. Лӧнь лыддьӧмыс выльысь да выльысь петкӧдлӧ мортлы, мый сійӧ оз вермы, ті кӧ бур могӧн вӧчанныд. Alzheimer's Association вӧзйӧ оз видлавны да оз лыддьыны лӧсьыд абу уджъяссӧ. Ворсӧмын дзик став грешыс лӧсьыд.
 
-| Instead of | Try |
+| Тайӧ пыдди | Видлӧй шуны |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Абу, тайӧ абу веськыд.» | «Тадзи видлам.» (NIA сетӧм пример) |
+| «Тайӧ оз лӧсяв. Видзӧдлӧй нӧшта.» | Энӧ шу нинӧм да нуӧдӧй мӧд пырӧм, либӧ «Вайӧ, кыкнас гӧрдӧсь.» |
+| «Ті казяланныд, коді тайӧ?» | «Висьтав тайӧ серпас йылысь.» |
+| «Ті тайӧс нин вӧчінныд.» | «Тайӧ бура. Вӧчам нӧшта ӧтчыд.» |
+| «Но, ті тӧданныд тайӧс.» | «Кӧсъянныд-ӧ, ме петкӧдла помсӧ?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Грешыс мортӧс тыдалана мытшасьтӧ кӧ, лӧнь отсалӧй. Инмӧй веськыд серпас вылӧ, асныд пырӧй либӧ мӧд кругын кокньӧдӧй ворсӧмсӧ. Шуан кывыс серамана абу веськыд помӧн кӧ, сералӧй ӧтлаын. Тіян помныд вермас лоны бурджык.
 
-## How do I make a game easier or harder?
+## Кыдзи ворсӧмсӧ кокньӧдны либӧ невна сьӧкыдджык вӧчны?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Лӧсьӧдӧй ворсӧмсӧ мортлы да лунлы, а не стадия нимлы. Ӧти мортлы рытын вермас ковны кокниджык вариант, а асывнас — мӧд. NIA-лӧн медводдза индӧд — лӧсьӧдны уджсӧ сы вылӧ, мый морт вермӧ, да отсавны, медым сійӧ казяліс, мый бура артмис.
 
-| Game | Make it easier | Make it a little harder |
+| Ворсӧм | Кокньӧдӧм понда | Невна сьӧкыдджык вӧчӧм понда |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Заводитӧй 4 плиткаӧн да кольӧй серпасъяссӧ тыдаланӧн | Унджык плитка либӧ сайӧдӧй серпасъяссӧ, тадзи кӧ кокни |
+| [Find the Same](/games/find-the-same/) | 2 бӧрйӧм | 4 бӧрйӧмӧдз |
+| [Sort Together](/games/sort-together/) | Ті кутад серпас, сійӧ инмӧ корзина вылӧ | Сійӧ аслыс личкӧ серпас да корзина вылӧ |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 юкӧн, водзын сёрнитӧй став серпас йылысь | 9 юкӧн |
+| [Finish the Saying](/games/finish-the-saying/) | Петкӧдлӧй помсӧ, сэсся шуӧй ӧтлаын | Лэдзӧй сылы шуны помсӧ личкытӧдзыс |
+| [Word Search](/games/word-search/) | Лэдзӧй сійӧс, корсьӧй ӧти кыв ӧтлаын, инмӧй воддза шыпас вылӧ | Лэдзӧй сылы бӧрйыны, кутшӧм кыв мӧдӧд корсьны |
+| [Coloring](/games/coloring/) | Ті бӧрйянныд кык рӧма, сійӧ бӧрйӧ найӧ костысь | Сійӧ бӧрйӧ став рӧмасӧ аслыс |
+| [Conversation Cards](/games/conversation-cards/) | Просто видзӧдӧй серпас вылӧ ӧтлаын | Вӧдитчӧй карта вылын восьса юалӧмъясӧн |
+| [Photo Pairs](/games/photo-pairs/) | Кӧнкӧ радейтана семья серпас | Содтӧй унджык серпас |
+| [Picture Bingo](/games/picture-bingo/) | Быд ворсысь дорын пукалӧ отсасысь | Ворсысьяс ассьыныс пасйӧны картаяссӧ |
+| [Calm Breathing](/games/calm-breathing/) | Просто пукалӧй да видзӧдӧй ӧтлаын | Ловзьӧдлӧй ӧтлаын няйтӧн |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Пасъяс, мый ворсӧмыс вывті сьӧкыд: дыр виччысьӧм, коді тыдалӧ повзьӧдчӧмӧн, а не мӧвпӧмӧн, выльысь да выльысь «ог вермы», устройство ышкӧдӧм либӧ грешъяс, кодъяс сійӧс расстраивайтӧны. Пасъяс, мый вермас лоны вывті кокни: дӧмӧм либӧ шуӧм, мый тайӧ челядь понда. Тадзи кӧ лоис, лыддьӧй сійӧс да вежӧй мӧдтор вылӧ, коді ыджыд мортлы лӧсялӧ, шуам, кыв корсян, збыль серпас пазл либӧ сёрни сылысь важ удж йылысь серпас вылӧ.
 
-## How do I turn a game into a conversation?
+## Кыдзи ворсӧмсӧ сёрниӧ вуджӧдны?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Вӧдитчӧй быд серпасӧн кыдзи сёрниӧ корӧмӧн да лыддьӧй быд вочавидзсӧ бурӧн. Уна семьялы тайӧ ворсӧмлӧн медгажторыс.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Юалӧй восьса, веськыд вочавидзтӧм юалӧмъяс.** «Мый ті аддзанныд?» «Кутшӧм тіянлы бурджык кажитчӧ?» «Висьталӧй татшӧм пӧжас йылысь.»
+- **Висьталӧй ассьыныд водзын.** «Менам пӧчӧн татшӧм пон вӧлі.» Тіян висьтыс отсалӧ сылы тшӧтш висьтавны.
+- **Вуджӧдӧй сёрни бокӧ.** Машина серпас кӧ вуджӧдіс туй висьтӧ, висьтыс лоӧ удж. Кольӧй ворсӧмсӧ дугдыштӧмӧн.
+- **Энӧ видлалӧй збыльтор.** Казьтыштӧмин, гажа сёрниыд донаджык стӧч тодӧмлунъяс дорысь. Висьтыс кӧ вежсис воддзаысь, нимкодь вӧдитчӧй выль висьткӧд.
+- **Вӧдитчӧй дась юалӧмъясӧн.** [Finish the Saying](/games/finish-the-saying/) быд шуан кыв бӧрын сетӧ сёрни вылӧ юалӧм, а [Conversation Cards](/games/conversation-cards/) лӧсьӧдӧма татшӧм удж понда. [Photo Pairs](/games/photo-pairs/) вӧдитчӧ тіян ас семья серпасъясӧн, кодъяс унджыкысь сетӧны дона висьтъяс.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Содтӧд идеяяс видзӧдлӧй миян [казьтыштӧм уджъяс](/activities/reminiscence/) да [сёрни юӧръяс](/caregiving/communication-tips/) юкӧнъясын.
 
-## When should we stop?
+## Кор ковмас дугдны?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Дугдӧй мудзӧм либӧ сьӧкыдлунлӧн медводдза пасъяс дырйи, бурджыка — най водзын нин. Alzheimer's Association вӧзйӧ дугдны либӧ вежны уджсӧ, кор внимание вошӧ либӧ мытшасиг содӧ.
 
-Watch for:
+Видзӧдлӧй татшӧмтор вылӧ:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- аммӧм, вылӧ муныштӧм либӧ синъяс экрансянь ыштӧм;
+- оз лӧнь лолавны, чеччыштӧм либӧ мунны корӧм;
+- шуыштӧм, дженьыд вочавидз либӧ «ме ог вермы»;
+- абутӧмла личкыны либӧ устройство ышкӧдны;
+- синва пырӧм, лёквойдӧм либӧ чожа настроение вежсьӧм.
 
-How to stop well:
+Кыдзи бура дугдны:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Помалӧй кокни уджӧн.** Бӧръя лӧсялантор, кодӧс позьӧ вӧчны, либӧ бӧръя серпас, код вылӧ позьӧ видзӧдны.
+- **Шуӧй ас йывсьыныд.** «Меным чай юмыс бур лоӧ. Дугдам-ӧ татчӧ?» — тайӧ оз сет казьтыштны, мый морт абу бура вӧчис.
+- **Вежӧй мӧдтор вылӧ, коді лӧнь.** Дженьыд ветлӧм, сёян, дӧра вӧчӧм либӧ музыка.
+- **Шуӧй шӧр кыв.** «Меным гажа вӧлі тайӧ тіянкӧд вӧчны.» Оз ков донъявны «веськыд вӧчӧм» понда, сӧмын гаж ӧтлаын олысь кад понда.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Водзджык дугдӧм, план вежӧм либӧ ворсӧмсӧ кольӧм да просто ӧтлаын пукавны — ставыс бур результат.
 
-## Can we play in a group or over a video call?
+## Позь-ӧ ворсны чукӧрӧн либӧ видеозвонитӧм пыр?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Да, кӧнкӧ содтӧд дасьтӧмӧн. Чукӧрӧн видзӧй, медым эз вӧв уна морт, пуктӧй отсасысьяссӧ быд морт дорӧ, кодлы колӧ отсӧг, да бӧрйӧй ворсӧм, кӧні ставыс ӧтлаын тӧданныд, мый вӧчны. [Picture Bingo](/games/picture-bingo/)-ын эмӧсь лэдзан картаяс да экран вылын ворсӧм нуӧдысь чукӧр понда. Унджык видзӧдлӧй [уджъяс дӧзьӧритан местаысь чукӧр понда](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Видеозвонитӧм дырйи морт, коді сёрнитӧ онлайн, вермас висьтавны серпас йылысь, а жырын пукысьыс инмӧ да личкӧ. Нуӧдӧй звонитӧмсӧ дженьыдӧн да тӧдсаясӧн. Миян [телефон да видеозвонитӧм](/activities/phone-and-video-calls/) юӧрын эм унджык отсӧг.
 
-## What if a game just isn't working?
+## Мый вӧчны, ворсӧмыс кӧ оз уджав?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Мукӧд лунъясас некутшӧмыс оз артмы, да тайӧ оз петкӧдлы тіян либӧ сы йылысь абу буртор. Бӧр бергӧдӧй ворсӧмсӧ да видлӧй мӧд кадӧ луннас, мӧд ворсӧм либӧ дзик ворсӧмтӧг. Уна бур удж абу йитчӧма экранкӧд: музыка, дӧра вӧчӧм, фотоальбом видзӧдӧм либӧ дженьыд ветлӧм. Унджык идея видзӧдлӧй миян [удж идеяяс](/activities/ideas/) юкӧнын.

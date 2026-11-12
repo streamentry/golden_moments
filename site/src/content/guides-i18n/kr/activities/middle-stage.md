@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Awo cida-a dǝŋgal dunya dementia-be"
+seoTitle: "Awo cida-a dǝŋgal dunya dementia-be: Shawari gana"
+description: "Awo cida-a dǝŋgal dunya dementia-be: cida-a fato-be, yirwa, foto-a, bǝlin kura kura-a, dawari dawarinzǝ-a kuru futu cida-a faltǝ-a."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Dǝŋgal dunya dementia-be lan, awo cida-a ngǝla-a kuru kǝriwo-a, notǝna-a kuru
+  faltǝ fal-ro cida-a: kazǝmu kazǝptǝ, susuka laptǝ, tasa tultǝ, yirwa yirwotǝ,
+  lele letǝ, foto kuru albom rui, kuru bǝlin foto-a kura kura-a. Dabbarru de,
+  faltǝ burwo-a fǝletǝ, awo cidajin-a kǝma-a nyiro sǝddǝ, kuru awo-a maʼana yitǝ.
+  Ngǝlaajinba waltǝyin ma, dawu.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Cida-a fato-be notǝna-a ngǝla so, dalilnzǝ faida-a kuru adamgana-a notǝ-a."
+  - "Fǝletǝ, gultǝnyi; faltǝ fal fal-ro yitǝ, kuru koro kǝriwo-a ro suro suwoli kura-a ro kǝndoro yitǝ."
+  - "Awo cidajin-a kǝma-a nyiro sǝddǝ, kam dǝ-a awo kǝji-a cidajinro koltǝ."
+  - "Faltǝgǝ notǝnyi-a so dalilnzǝ kam dǝ awo cidiya maŋjin-a fǝletǝyin. Da, awo faltǝgǝnzǝ-a kǝltǝnadǝ-a yitǝ."
+  - "Rui, bana gana cidatǝ, biya lawun dawtǝ-a sammaa ngǝla."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Awo cida-a jiri fi dǝŋgal dunya dementia-be lan ngǝla?"
+    a: "Awo cida-a kǝriwo-a, notǝna-a, kuru mukko-a lan cidajin-a ngǝla so: tawul kazǝptǝ, susuka laptǝ, tasa tultǝ, tebur dawartǝ, yirwa notǝna-a yirwotǝ, lele letǝ, albom foto-a rui, kuru bǝlin foto-a kura kura-a. Awo-a fal fal-ro faltǝ kuru kǝltǝnadǝ lan cidǝ."
+  - q: "Futu kam dementia-a kǝlanzǝna-a awo cida-alan baditǝro bana yikki?"
+    a: "Awo-a sammaa dabbarru, daji nyima badinǝm kuru bananzǝro korǝ: 'Tawul adǝ-a bana sadǝmi wa?' Am kada awo-a lan kǝltǝgǝ cida-a ra, amma baditǝ-a kǝskin. Faltǝ burwo-a fǝletǝ, bayanna-alan ngǝla."
+  - q: "Awo fal-a loktu sammaa cidiya, awi dikki?"
+    a: "Awo-a faltǝgǝ loktu sammaa so ngǝla zauro laa, kuru kam dǝ awo cidiya biya kǝlaanzǝ naptǝro maŋjin-a fǝletǝyin. Tussǝnyin, awo faltǝgǝnzǝ-a kǝltǝnadǝ-a yitǝ, misallo tawul gana kazǝptǝro biya yirwa kǝltǝnadǝ lan yirwotǝro."
+  - q: "Awo-a kalkallo cizǝna, awi dikki?"
+    a: "Awo laa adǝn ba, ngǝla koltǝ. Tawul jili gade lan kazǝptǝna biya cokali na gade lan yikkǝna-a faidanzǝ ba. Tussǝtǝ-a kamro kashshawa fǝletǝyin, amma futu cidǝna dǝ-a raksa kuru faidanzǝ-a yizǝyin."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Dǝŋgal dunya dementia-be so zauro kuruwu naptǝyin, kuru sa adǝn awo cida-a bana ngǝla maŋjin. Kalima-a fando-a kǝskin, faltǝ-a kǝltǝgǝ, kuru awo laa baditǝ-a kǝskin. Amma faida-a tǝdǝ-a kuru kǝltǝgǝ cida-a maŋgǝn-a ngǝwu zauro naptǝyin. Dawari gana-a lan, kam dǝŋgal dunya dementia-be lan kǝlanzǝna dǝ awo kada lan kǝji cida, tayi cida-a fato-be, yirwa-a kuru foto-a notǝna-a nyi-a kǝltǝnadǝ lan cidiyin ma.
 
-## What activities work well in middle-stage dementia?
+## Awo cida-a jiri fi dǝŋgal dunya dementia-be lan ngǝla?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Awo cida-a kǝriwo-a, notǝna-a, kuru mukko-a lan cidajin-a, faltǝ fal fal-ro cida-a, ngǝla so. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) gultǝna, awo cida-a bǝlin tǝdǝro mǝradǝnyi: awo cida-a kǝndaram yaye-a lan kǝltǝgǝyin, misallo kǝltǝnadǝ lan kǝmbu dawartǝ, kulo cidatǝ, yirwa fanotǝ, biya lele letǝ.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) fǝlezǝna, am dǝŋgal adǝn kǝlanzǝna-a so faida-a tǝdǝro biya awo laa ngurnoro maŋgǝn-a zauro mbeji, kuru awo cida-a baditǝro biya fuwutǝro bana maŋzayin. Awo cida-a dǝŋgal dunya-be ro yikkǝna-a suro-a: kazǝmu kazǝptǝ, tasa tultǝ, susuka laptǝ, kǝndoram gana cidatǝ, yirwa notǝna-a lan biskǝtǝ, lele letǝ, kǝltǝnadǝ lan yirwa yirwotǝ, zayir kura kura-a, kuru albom foto-a rui.
 
-## How do you set up an activity so it works?
+## Futu awo cida-a dawartǝro bana yikki?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Awo cida-a kada ngǝla-a biya ngǝla bawo-a dawari-a lan dagai. Alama adǝ-a, [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities)-a kuru [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)-a lan gotǝna-a, bana zauro sadin:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Na-a ngǝlaro dawu.** TV-a fatǝ, cinna-a zaktǝ, kuru awo cida-a dǝ ro mǝradǝna-a bas de.
+2. **Nyima badinǝm.** Kazǝptǝ biya gǝrtǝ-a badinǝm kuru shi-a bowonǝm: "Awo adǝ-a bana sadǝmi wa?"
+3. **Fǝletǝ, daji fattǝ.** Faltǝ fal fǝletǝ. Mukkonǝm lan biya shawari yitǝ, misallo na tasa-a yikkin-a fǝletǝ.
+4. **Loktu fal-a lan faltǝ fal yitǝ.** "Retǝro kazǝptǝ" so "adǝ-a kazǝptǝ kuru kalaro gǝptǝ" lan ngǝla.
+5. **Suro kǝndoro yitǝ, koro kura-a gǝnyi.** "Tawul bulu-a ra, tawul bulla-a ra?" so "Awi cidiya raamma?" lan ngǝla.
+6. **Awo cidajin-a kǝma-a nyiro sǝddǝ.** Nyi kǝlanzǝm, shi gǝrjin. Nyi zare-a yikǝm, shi gǝrjin.
+7. **Dalil yitǝ.** "Napkin adǝ-a kǝmbu ladǝ-be ro" awo-a faidanzǝ-a fǝletǝyin.
+8. **Ruiya raama, koltǝ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gultǝna, rui basma kǝjiro walzǝyin.
 
-## Activity ideas for the middle stage
+## Shawari awo cida-a dǝŋgal dunya-be ro
 
-### Useful jobs
+### Cida-a fato-be
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Tawul-a kuru tawul gana-a kazǝptǝ.** Awo gana-a, reta-a so ngǝla. Tawul gana waatǝ-a kazǝptǝ, tǝlaltǝ, kuru kuru kazǝptǝyin.
+- **Susuka laptǝ.** Susuka jili gade-a gana lan badinǝm. Kalaro bas laptǝma ngǝla.
+- **Tasa namtǝnyi-a tultǝ biya ngamtǝ.** Nji waatǝ-a, sabul-a lan tultǝ-a mukkoro kǝji. Naptǝ lan ngamtǝ-a siro ngǝla.
+- **Tebur dawartǝ.** Awo jili fal fal-ro yitǝ, kuru nyima na fal dawarro misal fǝletǝ.
+- **Kǝmbu dawartǝn bana sadǝ.** Dankali tultǝ, salat cirtǝ, biya tasa lan gǝrtǝ. Nyi wuka-a kuru kǝnnu-a sutǝm.
+- **Feratǝ, kura tultǝ, biya cintǝ.** Teburro tawul-a, biya baranda-ro fǝrǝm gana-a.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Shawari gade-a ro [cida-a fato-be](/activities/household-tasks/) rui.
 
-### Music and movement
+### Yirwa-a kuru gǝrtǝgǝ
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Yirwa notǝna-a yirwotǝ.** Nyima yirwotǝ-a badinǝm; am kada yirwa saa kadan notǝna-a lan kǝltǝgǝyin. [Awo cida-a yirwa-be](/activities/music/) rui.
+- **Biskǝtǝ.** Gǝrtǝgǝ, mukko baktǝ, biya futu kǝjiro cidǝ. Naptǝ lanma ngǝla.
+- **Balon baktǝ.** Dǝgan naptǝyin kuru kursi lan taiyin-a ngǝla.
+- **Kǝltǝnadǝ lan lele letǝ.** Na kǝriwo-a, notǝna-a lan kǝltǝnadǝ lele lewono, mǝradǝnama, mukko lan tai.
 
-### Pictures and stories
+### Foto-a kuru labar
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Albom foto-a rui.** Awo rumin-a gultǝ, koro koronyi: "Motǝr adǝ rui. Awo-a gultǝ." [Awo cida-a taktǝgǝ-be](/activities/reminiscence/) rui.
+- **Kati mana-be faidatǝ.** [Kati mana-be](/games/conversation-cards/) foto-a kuru koro kǝriwo-a, jarabtǝ bawo-a kǝltǝsǝyin.
+- **Film kǝrǝ-a kǝltǝnadǝ lan rui.** Film notǝna-a kartǝ, kǝrǝnnzǝn napkǝ, kuru loktu loktu dawu.
 
-### Simple, pressure-free games
+### Bǝlin kura kura-a, kǝskin bawo-a
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Foto laptǝ-a, foto-a fǝlezǝna.** [Foto laptǝ](/games/picture-pairs/) foto-a fǝlezǝna kolzǝyin, adǝ nankaro rui-a, taktǝ-a gǝnyi.
+- **Tilonzǝ-a mata.** [Tilonzǝ-a mata](/games/find-the-same/) foto fal fǝlezǝyin kuru suro indi-a ro dewu fǝlezǝyin.
+- **Kǝltǝnadǝ lan laptǝ.** [Kǝltǝnadǝ lan laptǝ](/games/sort-together/) kazǝmu kǝndaramnǝm-a fǝlezǝyin: foto-a rǝptǝ, daji basketnzǝ-a rǝptǝ.
+- **Bingo foto-be.** [Bingo foto-be](/games/picture-bingo/) samno fato-be-a kuru jama-a ro ngǝla.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Bǝlin dǝ kashshawa badizǝnama, dawu kuru awo gade cidǝ. [Futu kǝltǝnadǝ lan bǝlinzǝ](/caregiving/how-to-play-together/) rui.
 
-## Turning restlessness into an activity
+## Faltǝgǝ notǝnyi-a awo cida-aro faltǝgǝ
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Faltǝgǝ notǝnyi-a biya awo-a faltǝgǝ-a ngǝwu dalilnzǝ mbeji. Family Caregiver Alliance fǝlezǝna, kam sanduk kǝndobe loktu sammaa falaajin dǝ, mǝradǝnzǝ awo cidiya-a kuru faidanzǝ-a notǝ ma. Alzheimer's Association shawari sadin, kǝndoram dǝ-a awo cida-a kǝltǝnadǝ-a ro faltǝgǝ, dawunyin ba.
 
-| What you see | Something to offer |
+| Awo rumin | Awo laa yitǝ |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Tebur cimtǝ biya tawatǝ | Tawul ngǝudi-a kuru tebur-a cintǝro koro |
+| Si gǝrtǝnyi biya baktǝ | Yirwa ritmunzǝ-a lan kǝltǝgǝ baktǝ biya mukko baktǝ |
+| Sanduk biya kǝndaram falaatǝ | Kazǝmu biya tawul gana-a lan basket fal kazǝptǝro kuru laptǝro |
+| Koro tilo-a loktu sammaa koro | Kǝlaanzǝ naptǝro gultǝ, daji yirwa biya cida-a kǝltǝnadǝ cidǝ |
+| Lele letǝ dawunyin | Kǝltǝnadǝ lan lele letǝ, biya cida-a awo gotǝ-a mbeji |
+| Kajiri dunyan naptǝ bawo | Cida-a naptǝ-a, notǝna-a nur ngǝla-a lan; [kajiri dunyan naptǝ bawo](/caregiving/late-day-restlessness/) rui |
 
-## When to stop or change course
+## Sa dawtǝ biya faltǝgǝ-a
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Logǝgǝ, kashshawa, nangu, biya gǝmbaro alamanzǝ-a rumma dawu, misallo naptǝ bawo, fuskǝ kǝkkǝrǝptǝ, awo-a dutǝ, biya "Rakǝnyi" gultǝ. Alzheimer's Association shawari sadin, sa gade lan jarabtǝ biya awo cida-a ngǝlaro dawu. Dunonyi. Dawo-a rita biya awo cida-a kǝskinzǝ-a lan isǝyin; [sa shi "aʼa" canna ma](/caregiving/when-they-say-no/) rui.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Lawun dawtǝma ngǝla. Shayi-a lan kǝltǝnadǝ naptǝma ngǝla. Raksa-a faltǝnama, shawari [awo cida-a dǝŋgal ngawo-be](/activities/late-stage/) lan ngǝla walzǝyin, kuru [awo cida-a 101](/activities/ideas/) lan shawari kada mbeji.

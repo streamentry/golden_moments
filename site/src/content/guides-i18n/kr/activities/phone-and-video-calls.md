@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Wayolan kura video lan cidawa kam dementia-a kǝskǝna-a"
+seoTitle: "Cidawa video kam dementia-a kǝskǝna-a"
+description: "Cidawa wayolan kura video-a kam cidi kǝltǝbe-a ro: foto fəlejin, karatǝ, yirra yitǝ, bǝri skrin lan-a, kuru shawari banazǝma-a."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Wayolan kura kam dementia-a kǝskǝna-a-a, ngəla kǝla kǝla kǝskǝnadǝ, loktu
+  gade-a falro kǝltǝ-a, kuru awo laa suronzǝn diwo-a ro kǝltǝnadǝ. Misalro,
+  bǝriro au kulo-a fəlejin, foto-a ruiwo, awo laa karatǝ, yirra ngəla laa
+  yitǝ, au bǝri laa skrin fal lan diwo. Dajiwunzǝna-a, loktu fal lan yimbi
+  yayen bowone, kam fal loktu falnzan manazǝna, kuru kam ngawo-a kǝlan
+  na-adǝn cidajinma-a bana-a.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Awo laa diwo-a wayolan dǝro fasal cina, kuru manazǝ dǝ kǝskǝnaro mbuljin. Awo laa fal kuruwu rǝptǝ."
+  - "Wayolan kǝla kǝla, loktu gade-a falro kǝltǝnadǝ, wayolan kuruwu-a loktu kǝla kǝla-a dǝn ngəlaro waljin."
+  - "Kam fal loktu falnzan manazǝna. Samma wayolan jama-a manazǝ kǝltǝnadǝ fanjaro kǝndawu, kǝla fǝnjin ba-a."
+  - "Kam ngawo-a kǝlan na-adǝn cidajinma dǝ naura dǝ dajin, kam dǝ-a kǝlan napsǝna, kuru bǝri au foto-a ro «muskoro» dǝ waljin."
+  - "Wayolan dǝ ku ngəla diyiya, ngəlaro daata. Badiyalan walta kǝltǝ raktǝ."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Awo awi wayolan video lan kam dementia-a kǝskǝna-a-a rokko diwo?"
+    a: "Awo laa fal kuruwu rǝptǝ: kulo-num, bǝri-num au njimari-num fəlejin; foto kǝrǝbe-a fallon ruiwo; shiir gana au katab gana karatǝ; yirra nzǝra-a laa yitǝ; loktu fal lan awo ndiso kǝltǝ; au bǝri laa ngəla skrin fal lan diwo. Awo diwo-a wayolan dǝro fasal cina, kuru kam dǝ manazǝ dǝ kǝlan mbuljin ba."
+  - q: "Wayolan video dǝ wurotǝ kura waljin?"
+    a: "Ngawuro wurotǝ takkina maa ngəla waljin. Loktu gana ngəla-a kǝla cizəna dǝ ngəla waljin, kǝla kam dǝ ngawu lǝptǝma-a. Yimbi yayen loktu gade-a falro bowone kǝltǝnadǝ, wayolan fal wurotǝ kura-a kozǝna."
+  - q: "Kam dǝ wayolan video lan tambuwuna au karǝngǝnzǝ tambuwuna nda?"
+    a: "Am laaro fuwu skrin lan rui dǝ tamburo waljin. Wayolan sim lan, vidiyo ruwotǝna kam ngawo-a kǝlan loktu ngəla-a fəlejinma, au katab foto-a cidi kǝlan zuluwin. Wayolan dǝ ngəla diyiya, ngəlaro daajin kuru yimbi gade au loktu gade lan walta kǝltǝ."
+  - q: "Ya-ni wayolan video kǝltǝro bana-njakkiya, amma shi wayolan dǝ faidajin ba, futu galejǝkki?"
+    a: "Kam fado-a, cidama fado-a au cidama na naptǝbe-a wayolan dǝ badijin kuru naura dǝrojin au rǝptǝna ro koro. Na naptǝbe ngawuro wayolan video lan cidajin, adǝnan awo sadin dǝ koro. Tabulet tǝrjinma lan, skrin kura-a kuru kowo ngəla-a, samma-a ro ngəlaro waljin."
+  - q: "Video lan bǝri fallon diwo raktǝye wa?"
+    a: "Aa. Dalil ngəlamadǝ, kam fal skrin nzǝ wayolan video lan fəlejin, kam gade dǝ foto ndaso rojin bayin. Au kam ngawo-a kǝlan na-adǝn bǝri dǝ tabulet lan kǝltǝ kuru kam dǝ-a rojin, shi manazǝn cidajin. Bǝri loktu-a lamba-a ba-a kǝretǝ."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Kam dementia-a kǝskǝna-a cidi kuruwun naptǝna-a, karǝngǝnza bǝle faidaro waljin. Wayolan sim-a video-a gǝptǝro walzǝnyi, amma ngəlaro dazǝna-a loktu ngəla-a kǝltǝ cinro waljin. Dalil dǝwo-a, manazǝ kuru-a kǝltǝro ngǝrǝm koltǝ, kuru awo laa fallon kǝla fallon diwo-a ro kuruwu rǝptǝ. Shafi adǝn, cidawa video-a sim-a lan diwo-a, futu wayolan dǝ dazǝna-a, kuru kam ngawo-a kǝlan na-adǝn cidajinma dǝ awi diro waljin dǝ bayinjǝna.
 
-## Why plan an activity for a call?
+## Ndayin awo laa wayolan ro kuruwu rǝptǝ?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Awo laa diwo-a wayolan dǝro fasal cina. «Futu dim? Ku awi dim?» dǝ kam dǝro taktǝ-a bayinro korijin, adǝye shi-a kǝndawu-a karǝngǝ cinro waljin. «Rui, tomatur dǝ bǝlinzǝna» dǝ awima shi-a koro koriyin ba.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association bayinzǝna, jama kura-a wayolan video lan kǝndawu waljin, kuru [wayolan dǝro fasal cina](https://www.alz.org/help-support/caregiving/holidays), misalro yirra yitǝ au foto fəlejin.
 
-## What activities work on a video call?
+## Cidawa awiye wayolan video lan ngəla diyin?
 
-### Show and tell
+### Fǝletǝ kuru bayin
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Dunyanəm dǝ shi-a ro kude. Naura dǝ ngəlaro kulo-nǝmben yaktǝ, bǝri-nǝm fəletǝ, awi ndiso dǝ fəlejin, sura tiyinjima laa rǝptǝ, au sim dǝ baramro kǝre-a ro fəlejin. Awi rumma dǝ kalma ngəla lan bayin, kuru shi jawabtǝro loktu koltǝ. Koro koriyin ba.
 
-### Look at photos together
+### Foto-a fallon ruiwo
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Foto kǝrǝbe laa naura dǝro rǝptǝ, au skrin-nǝm lan foto kura kura fal fal fəlejin. Awi rumma dǝn manazǝ: «Rui, Kaka dǝ kawunzǝ rui.» «Adǝ nduma wa?» au «Taktǝmma wa?» dǝn mananǝmi. Kam dǝ kam laa sunzǝ tamburo manajiya, adǝga yaktǝ. Shawari ngəla-a ro [sharawa taktǝbe](/activities/reminiscence/) rui.
 
-### Read aloud
+### Ngəlaro karatǝ
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Shiir gana, zabura, kitab tiyinjibe ngəla laa tiyi wayolan fal dǝn na-adǝn kǝlan, katab kam fado-a cidiya, au kitab shi nzǝra-a laa karatǝ. Ngəlaro karatǝ-a kam dǝro awo ngəla fanjintǝ cina, jawabtǝro mbuljin ba.
 
-### Sing or listen to music together
+### Yirra yitǝ au sa fallon fanzǝ
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Yirra shi ngəlaro nozǝna laa yitǝ, au yirra nzǝra-a laa nǝmben yitǝ. Yirra yitǝ-a am laaro manazǝn ngəlaro waljin. [Sharawa sa-a cidabe](/activities/music/) rui.
 
-### Cook or bake at the same time
+### Loktu fal lan awo ndiso au burodi diwo
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association bayinzǝna, wayolan video lan awo ndiso kǝrǝbe laa fallon diwo-a ro kuruwu rǝptǝ. Njimari yindin lan wayolan dǝ dazǝna. Kam ngawo-a kǝlan na-adǝn dǝ awo dǝro mbuljin au lamboro waljin, nǝm dǝ sha resep kǝrǝbe nzǝbe-a ga.
 
-### Watch something together
+### Awo laa fallon ruiwo
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Alzheimer's Association kuru bayinzǝna, filim nzǝra-a laa loktu fal lan fado gade gade lan ruiwo-a, sim au video lan manazǝn. Kam dementia-a kǝskǝna-a ro, vidiyo gana, shirin telebishin kǝrǝbe au bǝri wasambe laa filim kǝlulutǝ-a kozǝna ngəlaro waljin.
 
-### Play a gentle game on a shared screen
+### Bǝri ngəla laa skrin fal lan diwo
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Wayolan video cidabe ngawuro skrin nzǝ fəletǝro izini cin. Nǝm bǝri dǝ kǝltǝm kuru rojin; kam dǝ foto ndaso rojin bayin au muskorojin. Au kam ngawo-a kǝlan na-adǝn bǝri dǝ tabulet lan kǝltǝ kuru shi-a rojin, nǝm manazǝn cidajin.
 
-Games that work well this way:
+Bǝri adǝga ngəla diyin:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** nǝm kalma nozǝna dǝ karatǝ, shi dawaranzǝ bayin, kuru shawari kowo lan iso.
+- **[Picture Pairs](/games/picture-pairs/):** bǝri foto-a matcinno ngəla, foto kura-a ruiyinro kǝltǝna, loktu ba, lamba ba.
+- **[Conversation Cards](/games/conversation-cards/):** foto-a kuru koro ngəla-a fallon manazǝro.
+- **[Photo Pairs](/games/photo-pairs/):** bǝri foto-a matcinno, foto nǝm karǝngǝnəmma lan kǝrtǝna. Foto dǝ browser-nǝmben napsǝna, kuru kam dǝ skrin fəletǝna lan ruyin.
 
-### Recorded messages
+### Kawuli ruwotǝna
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Wayolan kura dǝ kǝndawuya, vidiyo gana ruwotǝ: lewa, yirra, au kulo-nǝmben letǝ. Kam bana cidajinma dǝ loktu ngəla-a yitǝro waljin, kam dǝ ngəla faidazǝnadǝ wurotǝ son. Alzheimer's Association bayinzǝna, loktu ngəla-a ruwotǝ kuru zuwutǝ, misalro tiyibe bǝri-a kǝlanzayin.
 
-## What about plain phone calls?
+## Wayolan sim lan kǝriye?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Wayolan sim lan kǝnzaumanzǝ mbeji. Dementia Australia bayinzǝna, [yimbi yayen loktu fal lan bowone](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) kuru duno kǝltǝne, dalil kam dementia-a kǝskǝna-a ro loktu ngawu mbejiro waljin. Sim lan:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Su-nǝm-a kuru ndayin nǝm kamnzǝ-a dǝ badiduramnzan bayin: «Sǝlam Bawa, wu Jenny, fǝru-num.»
+- Ngəlaro, kalma gana gana lan, kuru awo fal loktu falnzan manazǝ.
+- Labar cin, koro korone: «Bǝne nyiya-num rosobe dǝga ndisəkko.»
+- Shiir gana karatǝ, au yirra nzǝra-a laa yitǝ.
+- Wayolan dǝ gana kǝltǝ kuru ngəlaro daata.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia kuru bayinzǝna, manazǝ kǝndawuro waljiya, wayolan video dǝ bana cin, dalil kam dǝ fuwu-nǝm ruyin. Wayolan sim dǝ tambuwuro waljiya, video kǝltǝ, au adǝga falzǝ.
 
-## How do I set up a video call that works?
+## Futu wayolan video ngəla dazǝkki?
 
-**Before the call:**
+**Wayolan dǝn kawu:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Loktu gade-a falro kǝretǝ**, kam dǝ ngawu napcinma, kuru adǝga ga. Adat dǝ bana cin.
+2. **Kam ngawo-a kǝlan na-adǝn cidajinma-a kǝla fallon manazǝ.** Bǝne kawu lan kawuli zuwutǝ-a shiro ngəlaro kuruwu rǝptǝro bana cin.
+3. **Naura dǝ rui.** Tabulet tǝrjinma lan sim rǝptǝna-a kozǝna ngəlaro waljin. Charji nzǝ mbeji, skrin dǝ nurzǝna, kuru kowo dǝ fanjinro kǝltǝ. Naura dǝ bayin rubutu cinma-a kuru kam dǝ karanzǝ ngəla-a, adǝga kǝltǝ.
+4. **Awo laa fal kuruwu rǝptǝ** kuru sammaa dazǝna.
 
-**During the call:**
+**Wayolan kǝlan:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Naura dǝro karǝnge napsǝ** nur ngəla lan, baramro kǝrǝngǝ, ngawonza baramnzǝn ba.
+- **Samma wayolan dǝn su-nǝm-a kuru ndayin nǝm kamnzǝ-a dǝ bayin.**
+- **Kam fal loktu falnzan manazǝna.** Alzheimer's Association bayinzǝna, manazǝ kǝltǝnadǝ kam dementia-a kǝskǝna-a-a kuru am kowo fanzayin ba-a ro kǝndawu waljin. Kam fado-a laaye samjiya, fal fal manazǝna au kam yindi au yakku ganaro kolzǝna.
+- **Loktu falnzan koro fal koro.** Family Caregiver Alliance bayinzǝna, [koro ngəla-a aa au a'a lan jawabtǝma](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) ngəla waljin, kuru raktǝma-a karǝngǝro fəletǝ.
+- **Loktu kuruwu jawabtǝro koltǝ.** Ngawuro fak. Kalma manajinma-a, kalma laa bayinro raktǝ.
+- **Fuwu-nǝm-a kowo-nǝm-a faidatǝ.** Kǝla, fuwu ngəla fəlejin, kuru kowo ngəla lan manazǝ. Alama fuwube-a ngawuro kalma-a kozǝna bayin.
+- **Tashih dimmi.** Kam dǝ awo kalkal laa manajiya, koltǝ adǝga.
 
-**Ending the call:**
+**Wayolan daatǝ:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Kam dǝ lǝptǝnza kawu daata, ngəlaro loktu ngəla-a.
+- Loktu yayen lewa gade-a faidatǝ: «Badiya suhurro nǝngubokki. Nzaura-njǝgǝna.»
+- Wayolan dǝ kuruwuro yaktǝmi.
 
-## Tips for the helper on site
+## Shawari kam ngawo-a kǝlan na-adǝn cidajinma-a ro
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Nǝm kam kamnzǝbe, cidama fado-a, yaana au cidama na naptǝbe-a wa, nǝm wayolan dǝ kǝltǝro bana cinəm.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Na ngəla naptǝbe kuruwu rǝptǝ.** Telebishin dǝ fi kuru cinna dǝ zatǝ.
+- **Wayolan dǝ nǝmma badin,** kǝla dǝga tabulet tǝrjinma lan kam dǝro cin au shim kǝrǝngǝnzan rǝptǝ.
+- **Nzǝbǝn napsǝ, fuwunzǝn ba.** Naptǝ-nǝm dǝ karǝngǝ cina. Mbejiya, ngəlaro taktǝ: «Rui, Jenny dǝ.»
+- **Muskoro dǝ nǝm walne.** Foto rǝptǝ, bǝri dǝ ro, tabulet dǝ surotǝ njimari dǝ fəletǝro.
+- **Lǝptǝ au karǝngǝ tambu dǝ rui,** kuru wayolan dǝ daatǝro loktu isǝna dǝ kam bowojinma-a ro bayin.
+- **Awi ngəla diwi dǝ kam bowojinma-a ro bayin.** «Bǝri dǝ shiro jauro ngəla kǝrǝkko» dǝ wayolan fuwube-a ro bana cin.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA bayinzǝna, kam fado-a cidi kuruwun naptǝna dǝ kam kura-a ro [naura sim nzǝbe faidatǝro banajin](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), misalro wayolan video. Kǝla ngawo-a, kam bana cidajinma dǝ naura dǝ samma-a cidajinro waljin. Adǝ ngəla.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Kam dǝ na naptǝbe kura lan naptǝna-a, Alzheimer's Foundation of America bayinzǝna, na dǝ wayolan video lan cidajinro korone. AFA kuru bayinzǝna, fado-a foto-a cidama na naptǝbe-a lan suwudin, kuru awo ndiso nzǝra-a au awo ngəla gana zuwudin, amma na dǝ awi izini cin dǝ buron korone.
 
-## What if the call doesn't go well?
+## Wayolan dǝ ngəla diyiya nda?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Wayolan laa tamburo, kowo ba, au karǝngǝ cinro waljin. Adǝ ayau-nǝm ba, kuru wayolan dǝ faida bawo-a bayin ba.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Kam dǝ skrin dǝn tambuwuna-a, wayolan sim lan au kawuli ruwotǝna ro faltǝ.
+- Karǝngǝnzǝ tambuwuna-a, karǝngǝnzǝ dǝ asune, kalma ngəla bayin, kuru ngəlaro daata.
+- Loktu laa lan wayolan dǝ ngawu ngəla diyiya, loktu gade lan kǝltǝ.
+- Nǝm kam gade ro ngǝnojiya, ngəlaro adǝga yaktǝ.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ngawuro daatǝ ngəla. Wayolan gana amma ngəla dǝ kǝla ngəla.
 
-## Between calls
+## Wayolan dǝ-a falnzan
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Dalil gade lan kǝla mbeji. Dementia Australia bayinzǝna, katab, imeil, foto au bǝri gana zuwutǝ. Mbeji yayen katab gana foto kura fal-a kuru kalma gana-a wurotǝ son kǝltǝnaro kuru karantǝnaro waljin. [Conversation cards](/games/conversation-cards/) ruwotǝna kam bana cidajinma-a ro zuwutǝ-a, wayolan fuwube-a ro fasal dazǝna cin.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Tabulet kǝretǝ-a dazǝtǝ-a ro shawari-a, [tabulet-a skrin-a](/caregiving/tablets-and-screens/) rui. Fuwu-fuwu lan letǝ-a ro, sharawa [letǝ](/activities/visiting/) rui.

@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Çawa bi kesekî ku demans heye re lîstikan bilîzin"
+seoTitle: "Çawa bi kesekî ku demans heye re lîstikan bilîzin"
+description: "Rêberek pratîk ji bo lîstina bi kesekî ku demans heye re: amadekarî, leza lîstinê, rastnekirina şaşiyan, hêsankirin û zanîna dema rawestanê."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Lîstikê wekî dema bi hev re bibînin, ne wekî ceribandinê. Demeke aram a rojê
+  hilbijêrin, li jûreyeke bêdeng li kêlek hev rûnin û lîstikeke sade pêşniyar
+  bikin. Bila mirovê ku hûn lê dinêrin leza lîstinê diyar bike, şaşiyên ne
+  girîng rast nekin, di yekem nîşana tengaviyê de lîstikê hêsantir bikin û
+  wêneyan bikin destpêkeke sohbetê. Dema ku hê jî xweş e, rawestin. Zû
+  rawestan, an jî bi hev re temaşe kirin, encameke baş e.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Armanc kêf û têkilî ye, ne qedandin an jî dîtina bersivên rast."
+  - "Berî destpêkirinê amade bibin: jûreyeke bêdeng, ronahiya baş, berçavk û amûrên bihîstinê li xwe bin, televîzyon girtî be û lîstikek amade be."
+  - "Şaşiyên ne girîng rast nekin. Bibêjin «Werin em bi vî awayî biceribînin» an jî bi hêsanî berdewam bikin."
+  - "Berî ku acizbûn zêde bibe, lîstikê hêsantir bikin: kêmtir wêne, kêmtir bijarte, wêneyên xuya."
+  - "Wêneyan wekî destpêkeke çîrokan bi kar bînin û «Ji min re li ser vê bêje...» bipirsin, ne «Tê bîra te...?»."
+  - "Di yekem nîşanên westîn an bêhntengiyê de rawestin. Zû rawestan serkeftin e, ne têkçûn."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Divê em çiqas dem lîstikê bilîzin?"
+    a: "Demeke rast a diyarkirî tune. Ji bo gelek kesan, çend deqe bes in, û hin rojan jî carekê bes e. Li şûna ku li demjimêrê mêze bikin, li mirovê ku hûn lê dinêrin mêze bikin û dema ku ew hê jî aram xuya dike rawestin."
+  - q: "Divê ez bihêlim ew bi ser bikeve an jî wisa bikim ku min şaşiyan nedîtine?"
+    a: "Di lîstikeke hevbeş û bê zext de tiştekî ji bo serketin an windakirinê tune. Heke şaşiyek mirov aciz neke, guh nedinê. Heke xuya dike ku ew aciz dibe, bêyî ku hûn balê bikişînin ser wê, bi aramî alîkariyê bikin an jî lîstikê hêsantir bikin."
+  - q: "Eger ew tercîh bike ku li min temaşe bike çi?"
+    a: "Ev baş e. Enstîtuya Neteweyî ya Pîrbûnê pêşniyar dike ku heke mirov ji temaşekirinê bêtir kêfê digire, bila ew bi tenê temaşe bike. Li ser tiştên ku hûn dibînin bipeyivin û gava ku ew bixwaze vexwînin ku nîşan bide an bijarte bike."
+  - q: "Gelo ev lîstik rêyek in ji bo ceribandina bîrê?"
+    a: "Na. Lîstikên me çalakiyên sade û hevbeş in ji bo kêf û sohbetê. Ew ne ceribandina bîrê ne, tiştekî napîvin û ne dermankirina demansê ne."
+  - q: "Ji bo destpêkirinê kîjan lîstik çêtir e?"
+    a: "Bi lîstika herî sade ya ku li gorî mirov e dest pê bikin. Picture Pairs bi 4 perçeyan û wêneyên xuya, an jî Find the Same bi 2 bijartan, destpêkên nerm in. Heke mirov ji axaftinê bêtir ji destdanê kêfê digire, Conversation Cards baş dixebitin."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Lîstikeke baş bi kesekî ku demans heye re mîna pêşbaziyekê nabe. Ew mîna du kesên ku li kêleka hev rûniştine, nîşanî wêneyan didin, bi gotinekê dikenin û li ser tiştên ku derdikevin holê diaxivin xuya dike. Lîstik tenê sedemek e ji bo ku hûn demê bi hev re derbas bikin.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ev rêber behsa amadekariyê dike, çawa leza lîstikê diyar bikin, gava tiştek «şaş» diçe çi bêjin, çawa her lîstikekê hêsantir an hinekî dijwartir bikin, çawa wê bikin sohbetê û çawa bizanin kengê rawestin. Ev ji bo [lîstikên me](/games/) û her weha ji bo kart, puzzle û lîstikên maseyê yên ku jixwe li cem we hene jî dixebite.
 
-## What is the best way to play a game with someone who has dementia?
+## Awayê çêtirîn ji bo lîstina bi kesekî ku demans heye re çi ye?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Li şûna serkeftinê, li ser kêfê bisekinin. Ev şîreta sereke ya [rêbernameya Alzheimer’s Association li ser çalakiyan](https://www.alz.org/help-support/caregiving/daily-care/activities) e: li ser jêhatîyên ku mirov hê jî xwedî ye ava bikin, ji bo destpêkirinê alîkariya wî bikin, beşên dijwar bixwe biqedînin û çalakiyên ne zirardar rexne nekin an rast nekin.
 
-In practice that means:
+Di pratîkê de ev tê wateya:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Li kêleka wî rûnin, ne li beramberî wî.** Gava hûn li kêlek hev in, hûn her du dikarin ekran an maseyê bibînin û alîkarî wekî xebata hevbeş tê hîs kirin, ne wekî çavdêrî.
+- **Di carekê de yek lîstik pêşniyar bikin.** Menuyek bijartan dikare berî destpêkirinê wekî ceribandinê were hîs kirin.
+- **Li gorî wî bimeşin.** Heke ew dixwaze bi rêza xwe li wêneyan bixe, deh deqeyan li ser wêneyekî biaxive an jî piştî du gavan raweste, lîstika îro ev e.
+- **Demên xweş bijmêrin, ne gerên qedandî.** Kenek, çîrokek an nîv saetek aram ew encam e ku hûn lê digerin.
 
-## How do I set up before we start?
+## Berî destpêkirinê çawa amade bikim?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Çend deqeyên amadekariyê piraniya acizbûnên ku mirov bi gelemperî dixin stûyê lîstikê bi xwe, asteng dikin.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Dema wî ya çêtirîn a rojê hilbijêrin.** [Rêbernameya Enstîtuya Neteweyî ya Pîrbûnê (NIA) li ser lihevanîna çalakiyan](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pêşniyar dike ku çalakî ji bo dema rojê ku mirov di rewşa xwe ya baştir de ye werin plankirin. Ji bo gelek kesan ev nîvê sibê ye. Dawiya piştî nîvro gelek caran dijwartir e; li [çalakiyên aram ên dawiya rojê](/caregiving/late-day-restlessness/) binêrin.
+2. **Jûreyê bêdeng bikin.** Televîzyon û radyoyê bigirin û heke gengaz be derî bigirin. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) pêşniyar dike ku berî ku hûn hewl bidin bipeyivin, deng û bala belavker kêm bikin.
+3. **Pêşî rehetî kontrol bikin.** Vexwarinek li nêzîk, berî destpêkirinê serdana serşokê, kursiyek rehet, û berçavk û amûrên bihîstinê li xwe bin.
+4. **Cihê baş ronî bikin.** Ronahiya geş û yekreng, bêyî ronahiya zêde li ser ekranê, dîtina wêneyan hêsantir dike.
+5. **Berî ku hûn rûnin lîstikê amade bikin.** Wê vekin, mîhengan hilbijêrin û dengê saz bikin. Paşê ekranê ber bi wî ve bizivirînin. Ji bo şîretên li ser tabletê, li [amadekirina tablet an telefonê](/caregiving/tablets-and-screens/) binêrin.
+6. **Amûrê bi cih bikin.** Standek an kîsikek ku tabletê rast digire tê wê wateyê ku ne hewce ye kesek wê bigire, û nîşandan hêsantir dibe.
 
-## How do I invite them without pressure?
+## Çawa bêyî zext vexwendinê bikim?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Vexwendinê xwerû û hêsan ji bo redkirinê bikin. Hin gotinên ku bi gelemperî baş dixebitin:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Min çend wêneyên baxçê dîtin. Tu dixwazî bi min re li wan mêze bikî?»
+- «Tu dikarî di vê puzzleê de alîkariya min bikî? Ez li ser asê mane.»
+- «Îro tu kulîlkan dixwazî an jî çivîkan?» (bijarteka di navbera du tiştan de ji pirseke vekirî hêsantir e)
+- «Ez ji bo xwişka te kartê çêdikim. Divê ev reng kîjan be?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer’s Association pêşniyar dike ku armanca çalakiyekê were ravekirin, wek mînak çêkirina kartekê ji bo hevalekî, ji ber ku sedemek wateyê dide wê. Xwestina alîkariyê jî dixebite ji ber ku dihêle mirov xwe bikêrhatî hîs bike.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Heke ew dibêje na, wê qebûl bikin. Paşê dîsa biceribînin an jî tiştekî cûda pêşniyar bikin. Rêbera me li ser [gava ew dibêje na çi bikin](/caregiving/when-they-say-no/) bêtir rave dike.
 
-## How long should a game last, and how fast should we go?
+## Divê lîstik çiqas dirêj be û divê em çiqas bilez bilîzin?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Bila mirov leza lîstinê diyar bike û ji bo demên kurt plan bikin. Ji bo lîstikeke hevbeş tu dirêjahiya îdeal a li ser bingeha delîlan tune. Du heta pênc deqeyên aram dikarin çalakiyek temam bin.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Ji ya ku xwezayî tê hîs kirin bêtir bisekinin.** NIA şîret dike ku ji bo bersivê bêtir dem were dayîn û hewl were dayîn ku navber neyê birîn. Berî ku hûn alîkariyê bikin, di serê xwe de heta deh bijmêrin.
+- **Di carekê de gavek.** Talîmateke yekane û kurt bidin («Li wêneyekî bixe»), paşê bisekinin. Li şûna ravekirinê, nîşan bidin: nîşan bidin ku li ku derê bixe.
+- **Bi azadî rawestin.** Heke ew ji bo axaftina li ser wêneyekî disekine, lîstik dikare bisekine. Ne hewce ye ku bilez bikin.
+- **Bila ew temaşe bike.** NIA dibêje ku hin kes tercîh dikin temaşe bikin, û ev bijarteke derbasdar e.
 
-## Should I correct wrong answers?
+## Divê ez bersivên şaş rast bikim?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Na. Rastkirina kesekî dîsa û dîsa jê re dibêje ku ew têk diçe, her çend niyeta we baş be jî. Alzheimer’s Association şîret dike ku çalakiyên ne zirardar neyên rexne kirin an rast kirin. Di lîstikekê de, hema hema her şaşiyek ne zirardar e.
 
-| Instead of | Try |
+| Li şûna vê | Vê biceribînin |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Na, ev şaş e.» | «Werin em bi vî awayî biceribînin.» (mînakek ku NIA dide) |
+| «Ev ne li hev in. Dîsa mêze bike.» | Tiştekî nebêjin û gera din bistînin, an jî «Ax, ev her du sor in.» |
+| «Tê bîra te ev kî ye?» | «Ji min re li ser vê wêneyê bêje.» |
+| «Te berê ev kiribû.» | «Ev yek baş e. Werin em dîsa bikin.» |
+| «De, tu vê dizanî.» | «Tu dixwazî ez dawiya wê nîşan bidim?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Heke şaşiyek bi eşkereyî wî aciz dike, bi aramî alîkariyê bikin. Nîşanî wêneya rast bidin, bixwe gava xwe bavêjin, an jî di gera din de lîstikê hêsantir bikin. Heke dawiya gotinekê bi awayekî kêfxweş şaş derkeve, bi hev re bikenin. Dibe ku dawiya wî çêtir be.
 
-## How do I make a game easier or harder?
+## Çawa lîstikekê hêsantir an dijwartir bikim?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Lîstikê li gorî rewşa mirov di wê rojê de biguherînin, ne li gorî navê qonaxekê. Dibe ku heman mirov êvarê guhertoyeke hêsantir ji sibê hewce bike. Şîreta yekem a NIA ev e ku çalakî li gorî tiştên ku mirov dikare bike were hilbijartin û piştrast were kirin ku ew xwe serkeftî hîs dike.
 
-| Game | Make it easier | Make it a little harder |
+| Lîstik | Wê hêsantir bikin | Wê hinekî dijwartir bikin |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Bi 4 perçeyan dest pê bikin û wêneyan xuya bihêlin | Bêtir perçe, an jî heke rehet be wêneyan veşêrin |
+| [Find the Same](/games/find-the-same/) | 2 bijarte | Heta 4 bijarte |
+| [Sort Together](/games/sort-together/) | Hûn wêneyê digirin, ew nîşanî selikê dide | Ew bixwe hem li wêneyê hem li selikê dixe |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 perçe, pêşî li ser wêneya tevahî biaxivin | 9 perçe |
+| [Finish the Saying](/games/finish-the-saying/) | Dawiyê nîşan bidin, paşê bi hev re bibêjin | Bila ew berî destdanê dawiya wê bibêje |
+| [Word Search](/games/word-search/) | Wê çap bikin, bi hev re li peyvekê bigerin, nîşanî tîpa yekem bidin | Bila ew peyva din a ji bo dîtinê hilbijêre |
+| [Coloring](/games/coloring/) | Hûn du rengan hilbijêrin, ew di navbera wan de hilbijêre | Ew hemû rengan hilbijêre |
+| [Conversation Cards](/games/conversation-cards/) | Bi tenê bi hev re li wêneyê mêze bikin | Pirsên vekirî yên li ser kartê bi kar bînin |
+| [Photo Pairs](/games/photo-pairs/) | Çend wêneyên malbatê yên pir hezkirî | Bêtir wêne lê zêde bikin |
+| [Picture Bingo](/games/picture-bingo/) | Alîkarek li kêleka her lîstikvanekî rûne | Lîstikvan bixwe kartên xwe nîşan bikin |
+| [Calm Breathing](/games/calm-breathing/) | Bi tenê rûnin û bi hev re temaşe bikin | Bi hêdîkî bi hev re bêhna xwe bigirin û berdin |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Nîşanên ku lîstik pir dijwar e: rawestanên dirêj ên ku ji fikrekê bêtir xemyar xuya dikin, dubarekirina «ez nikarim», dûrxistina amûrê, an şaşiyên ku wî aciz dikin. Nîşanên ku dibe lîstik pir hêsan be: bêhntengî, an jî gotina wî ku ev zarokatî ye. Heke wusa bibe, wê rêz bikin û derbasî tiştekî bibin ku bêtir ji bo mezinan tê hîs kirin, wek lêgerîna peyvan, puzzleeke ji wêneyekî rastîn, an jî axaftina li ser wêneyekî ji karê wî yê berê.
 
-## How do I turn a game into a conversation?
+## Çawa lîstikê bikim destpêkeke sohbetê?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Her wêneyekî wekî vexwendinek ji bo axaftinê bi kar bînin û tiştê ku ew dibêje wekî bersiveke baş bibînin. Ji bo gelek malbatan, ev beşa herî xweş a lîstinê ye.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Pirsên vekirî bêyî bersiva şaş bipirsin.** «Tu çi dibînî?» «Tu kîjanê hez dikî?» «Ji min re li ser metbexeke wekî vê bêje.»
+- **Pêşî xwe parve bikin.** «Dapîra min jî kûçikek wekî vê hebû.» Çîroka we ji bo wî parvekirina çîrokekê hêsantir dike.
+- **Li pey axaftinê bimeşin.** Heke wêneyekî erebeyê dibe sedema çîrokeke li ser rêwîtiyekê, wê demê çîrok bixwe çalakî ye. Lîstikê rawestiyayî bihêlin.
+- **Rastiya çîrokê kontrol nekin.** Di bîranînan de, sohbeteke xweş ji hûrgiliyên rast girîngtir e. Heke çîrok ji cara borî cuda be, ji guhertoya nû kêfê bistînin.
+- **Pêşniyarên amade bi kar bînin.** [Finish the Saying](/games/finish-the-saying/) piştî her gotinê bi pêşniyarek ji bo axaftinê berdewam dike, û [Conversation Cards](/games/conversation-cards/) tam ji bo vê hatine çêkirin. [Photo Pairs](/games/photo-pairs/) wêneyên malbata we bi kar tîne, ku gelek caran çîrokên pir xweş derdixin holê.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Bêtir raman di rêberên me yên li ser [çalakiyên bîranînê](/activities/reminiscence/) û [şîretên ragihandinê](/caregiving/communication-tips/) de hene.
 
-## When should we stop?
+## Kengê divê em rawestin?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Di yekem nîşanên westîn an bêhntengiyê de rawestin, û heke gengaz be hinekî berê. Alzheimer’s Association şîret dike ku gava bal kêm dibe an acizbûn zêde dibe, çalakî were rawestandin an guhartin.
 
-Watch for:
+Bala xwe bidin van tiştan:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- esnê kişandin, ketina milan an dûrketina çavan ji ekranê;
+- bêaramiya laş, rabûn an xwestina çûyînê;
+- kuxîn, bersivên kurt an «ez di vê de ne baş im»;
+- bi awayekî ketober li ekranê xistin an dûrxistina amûrê;
+- hêstir, hêrsbûn an guherîneke ji nişka ve di rewşa giyanî de.
 
-How to stop well:
+Çawa baş rawestin:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Bi tiştekî hêsan bi dawî bikin.** Lihevhatinek dawî ya ku ew dikare bike, an jî wêneyek dawî ji bo mêzekirinê.
+- **Sedemê bidin ser xwe.** «Ez hewceyê çayekê me. Em li vir rawestin?» ti nîşaneyê nade ku wî nebaş kiriye.
+- **Derbasî tiştekî laşî an aramker bibin.** Meşeke kurt, tiştekî sivik ji bo xwarinê, qatkirina cilan an muzîk.
+- **Tiştekî germ bibêjin.** «Min ji kirina vê bi te re kêf girt.» Pesindan ne ji bo «rast kirinê» ye, lê ji bo kêfa dema bi hev re ye.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Zû rawestan, guhartina planan an dev ji lîstikê berdan û bi tenê rûniştina bi hev re jî hemû encamên baş in.
 
-## Can we play in a group or over a video call?
+## Gelo em dikarin di komê de an jî bi banga vîdyoyî bilîzin?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Erê, bi hinekî amadekariya zêde. Di komê de, hejmara kesan kêm bihêlin, alîkaran li kêleka kesên ku hewcedariya wan heye rûnin û lîstikek bi balkişandineke hevbeş a zelal hilbijêrin. [Picture Bingo](/games/picture-bingo/) kartên çapkirî û gazîkerek li ser ekranê ji bo koman heye. Ji bo bêtir agahiyan li [çalakiyên ji bo komên li navendên lênihêrînê](/activities/care-home-groups/) binêrin.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Di banga vîdyoyî de, kesê ku li ser bangê ye dikare wêneyekî rave bike dema ku kesekî li odeyê nîşan dide û li ekranê dixe. Bangan kurt û nas bihêlin. Rêbera me ya li ser [banga telefon û vîdyoyê](/activities/phone-and-video-calls/) bêtir şîretan dide.
 
-## What if a game just isn't working?
+## Eger lîstikek bi tevahî nexebite çi?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Hin roj ti tişt baş naçe, û ev ne nîşana we û ne jî ya wî ye. Lîstikê deyne aliyekî û di demeke din a rojê de, bi lîstikeke din an jî bê lîstik dîsa biceribînin. Gelek çalakiyên baş ti têkiliya wan bi ekranan re tune: muzîk, qatkirina destmalan, mêzekirina li albûmeke wêneyan an jî meşeke kurt. Ji bo bêtir ramanan li [ramanên ji bo çalakiyan](/activities/ideas/) binêrin.

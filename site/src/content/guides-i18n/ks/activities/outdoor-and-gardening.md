@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "ڈیمنشیا والیٚن خٲطرٕ نیبرِم تہٕ باغبٲنی"
+seoTitle: "ڈیمنشیا خٲطرٕ باغبٲنی تہٕ نیبرِم سرگرمِیِہ"
+description: "ڈیمنشیا سٟتؠ روزن والیٚن لوٗکن خٲطرٕ باغبٲنی تہٕ نیبرِم سرگرمِیَن ہٕندؠ مشورٕ، تھوٚد بَسٹَن، گملَن، گرمی، تاپہٕ تہٕ رۄکھ رۄکھ ہٹَنُک حِفاظت۔"
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  باغبٲنی تہٕ نیبرِم کینژھن گَژھن سُہ شخص یُس ڈیمنشیا سٟتؠ چھُ روزان، تٔمِس
+  خٲطرٕ اَکھ پُرسَکون تہٕ جان زان سرگرمی آسِتھ ہیکِہ۔ پودَن آب دِیُن، گملَن
+  مَنٛز جٔدی بوٹی لگانٕ، ہۄژھ پھۄل تُلنٕ یا باڑس مَنٛز اَکھ لۄکُٹ سیر کرُن
+  آزمٲوِو۔ تھوٚد بَسٹَن یا میز اِستِمال کٔرِو تاکہ کٲنسِہ گۄڈَن پیٚٹھہٕ بۂہِتھ
+  آسُن نَہ پَیِہ، تیز اوزار تہٕ زہریٖلہٕ پودٕ ٹالِو، دۄہس کِس ٹھنڈِس حِصَس مَنٛز
+  نیبر نیرِو، تہٕ ہمیشٕہ تتھ شخصس سٟتؠ روزِو۔
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "سادٕہ باغچہٕ کٲم، مِسلَن پودَن آب دِیُن، بیہِ بوُن، جٔدی بوٹی سونگھن تہٕ پھۄل تُلنٕ، وۄدانِہ یا بِہِتھ ہیکَن یِتھ کٔرِتھ۔"
+  - "تھوٚد بَسٹَن، گملہٕ تہٕ ڈَکلی میز باغچہٕ کمر ہٕندس سَتَس تام چھِ اَنان تہٕ پؠٹھ گِرَنُک خطرٕ چھِ کم کران۔"
+  - "تیز اوزار، کٔنڈِ دار یا جِلَد خراشَن وٲلؠ پودٕ، تہٕ زہریٖلہٕ چیزٕ ٹالِو۔ خیال تھٲوِو زِ مؠژ کھؠنہٕ خٲطرٕ نہٕ سمجِھ یِیِہ۔"
+  - "گرمی ہیکِہ بُجرگن خٲطرٕ خطرناک ٲسِتھ۔ صبحس یا شامس ٹھنڈِس وَقتَس نیرِو، آب تہٕ سایِہ سٟتؠ تھٲوِو، تہٕ بےآرامی ہٕنزِ کُنہِ تِہ نِشٲنی پیٚٹھہٕ فوری اندر یِیِو۔"
+  - "واریاہن ڈیمنشیا سٟتؠ روزن والیٚن لوٗکن چھُ کُنہِ نہٕ کُنہِ وَقتہٕ رۄکھ رۄکھ ہٹَنُچ عادت آسان۔ نیبرِم روزِو ہمیشہ تتھ شخصس سٟتؠ تہٕ اَکھ تازهٕ تصویر تہٕ شناختی کارڈ تھٲوِو تیار۔"
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "ڈیمنشیا سٟتؠ روزَن وول اَکھ شخص کۄسہٕ باغبٲنی سرگرمِیِہ ہیکِہ کٔرِتھ؟"
+    a: "پودَن آب دِیُن، لۄکچہٚن گملَن مَنٛز بیہِ بوُن، جٔدی بوٹی سونگھن تہٕ تھَپھ کرُن، ہۄژھ پھۄل تُلنٕ، سبزی تُلنٕ، کٔٹِتھ پھۄل سجاوُن تہٕ وَتھ بُہارُن، یِم سٲری رٕچھ انتخاب چھِ۔ اندرس اندر ہیکِہ کھڑکی ہٕندِس کنِس پیٚٹھہٕ جٔدی بوٹی ہُند گمُل یا ڈَکلِہ میزس پیٚٹھہٕ مؠژ ہٕنز اَکھ ٹرے واریاہ جان ٲسِتھ۔ کام تمہِ حسابہٕ چُنِو یُس تتھ شخصس برونٹھ پسند اوس تہٕ یُس سُہ وۄنی آرام سٟتؠ ہیکِہ کٔرِتھ۔"
+  - q: "گرمی مَنٛز بٕہ کِتھہٕ پٲٹھؠ رَچھہٕ ڈیمنشیا سٟتؠ روزَن وٲلِس شخصس محفوظ؟"
+    a: "نیبرِم گَژھنُک وَقت صبحس جلدی یا شامس ٹھنڈِس وَقتَس تھٲوِو، وَقت تھووِو کم، تہٕ واریاہ آب پیش کٔرِو۔ سایِہ، کھُلُر تھوٚد ٹوپی، ہلکہٕ ڈھیٖلہٕ کپڑٕ تہٕ سن سکرین چُنِو۔ بُجرگن چھُ گرمی ہٕندِ بیمارۍ ہُند خطرٕ زیادٕ آسان، تہٕ الجھن، چکر یا متلی ہیکَن انتباہی نِشٲنی ٲسِتھ، لہٰذا اگر تُہؠ یِم نظرِ یِن تٔمِس سٟتؠ فوری اندر یِیِو تہٕ ٹھنڈ کرنٕچ کوٗشش کٔرِو۔"
+  - q: "اگر تِمن رۄکھ رۄکھ ہٹَنُچ عادت چھِ، أسؠ کِتھہٕ پٲٹھؠ گَژھو نیبر؟"
+    a: "پوٗرٕ وَقتس روزِو تتھ شخصس سٟتؠ، کنڈی دار باڑ یا باغ اِستِمال کٔرِو یتھ کُنڈِ چھِ، تہٕ یہ یقینی بنٲوِو زِ سُہ شناختی کڑا پَہرِہ یا شناختی کارڈ تھٲوِہ پننِس نِش۔ اَکھ تازهٕ تصویر تھٲوِو تیار۔ اگر سُہ شخص رۄوِہ، Alzheimer's Association چھُ مشورٕ دِوان زِ اگر سُہ 15 منٹن مَنٛز نہٕ لَبِہ، تیٚلہِ 112 پیٚٹھہٕ کال کٔرِو۔"
+  - q: "اگر سون باغ چھُنہٕ تیٚلہِ کیا؟"
+    a: "وراندس پیٚٹھہٕ کینہہ گملہٕ، کھڑکی ہُند اَکھ ڈبہٕ، یا کچنس مَنٛز میزس پیٚٹھہٕ جٔدی بوٹی ہٕنز اَکھ ٹرے تِہ چھِ واریاہ۔ تُہؠ ہیکِو پارک، عوامی باغ یا کمیونٹی باغ تِہ ؤچھِتھ یِتھ۔ نیبرِم بِہِتھ جانورن ہٕنز آواز بوٗزُن تِہ چھُ اَکھ نیبرِم سرگرمی۔"
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+واریاہن لوٗکن خٲطرٕ چھُ باغ تِمن سارِوٕے جایَن مَنٛز اَکھ جان زان جای۔ کھۄدُن، آب دِیُن تہٕ پھۄل تُلنٕ چھِ تِم مہارتھ اِستِمال کران یِم واریاہ برونٹھ ہیچھمِتْھ آسَن، تہٕ نیبرِم آسنہٕ سٟتؠ چھِ صاف ہوا، آفتابُک گاش تہٕ جانورن ہٕنز آواز میلان۔ National Institute on Aging چھُ پودَن ہٕنز دیکھ بھال، پھۄل تہٕ سبزی لگانٕ، تہٕ [پودٕ کِتھہٕ پٲٹھؠ چھِ وۄدان](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) یتھ پیٚٹھہٕ کتھ باتھ کرٕنۍ تِمن سرگرمِیَن مَنٛز شٲمِل کران یِم شاید Alzheimer's سٟتؠ روزن والیٚن لوٗکن پسند یِن۔ یتھ صفَس پیٚٹھہٕ چھُ بیان زِ کیا آزمٲوُن، باغ کِتھہٕ پٲٹھؠ آسان بنووُن، تہٕ گرمی، تاپہٕ تہٕ رۄکھ رۄکھ ہٹنس پیٚٹھہٕ کِتھہٕ پٲٹھؠ محفوظ روزُن۔
 
-## What outdoor and gardening activities work well?
+## کۄسہٕ نیبرِم تہٕ باغبٲنی سرگرمِیِہ چھِ جان کارگر؟
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+بہترین کٲم چھِ سادٕہ، جان زان تہٕ وۄدانِہ یا بِہِتھ کرنہٕ یِوُنہِ۔ یِہ چُنِو زِ تتھ شخصس کیا پسند اوس۔
 
-### In the garden
+### باغس مَنٛز
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **آب دِیُن۔** اَکھ لۄکُٹ ہلکہٕ آب دِنُک برتن یا نرم دھار وول نل، تہٕ نکھہٕ کینہہ گملہٕ۔ آب دِنس چھُ صاف شروع تہٕ صاف اختتام آسان، تہٕ یِہ چھُ غلط گژھن مشکل۔
+2. **گملَن مَنٛز بیہِ بوُن۔** Alzheimer's Foundation of America چھُ مشورٕ دِوان زِ لۄکچہٚن گملَن مَنٛز بیہِ بوُن تہٕ [تِمن وۄدان وُچھُن](https://alzfdn.org/dementia-activity-gardening/)۔ بٔڈ بیہِ، مِسلَن راجماہ، سورجمُکھۍ یا مٹر، چھِ تھَپھس مَنٛز رٹنہٕ خٲطرٕ آسان۔
+3. **ہۄژھ پھۄل تُلنٕ۔** مُرجِمِتْھ پھۄل اَتھہٕ سٟتؠ تُلنٕ چھُ اَکھ نرم تہٕ دۄہرانہٕ آمُت کٲم۔ کٔنڈِ وَرای پودٕ چُنِو۔
+4. **سبزی یا جٔدی بوٹی تُلٕنۍ۔** چیری ٹماٹر، پھلی تہٕ جٔدی بوٹی چھِ آسانی تُلنہٕ یِوان تہٕ مزٕ دار چھِ آسان۔ تِم أنِو دوپہر کِس کھؠنس مَنٛز اِستِمال کرنہٕ خٲطرٕ اندر۔
+5. **جٔدی بوٹی سونگھٕنۍ تہٕ تھَپھ کرٕنۍ۔** روزمیری، پودینہٕ تہٕ لیوینڈر ہٕنز چھِ مضبوط تہٕ خۄشگوار خوشبو آسان۔ اَکھ پتَر اَنگجن مَنٛز رَگڑِو تہٕ برونٹھ کُن أنِو۔
+6. **وَتھ یا پَٹو بُہارُن۔** اَکھ ہلکہٕ بُہار سَپُد، سۄکھ سَتَس پیٚٹھہٕ، اگر توازن ٹھیک آسہِ۔
+7. **جانورن ہُند دانٕہ گمُل بٔرِتھ۔** پتہٕ بِہِو اَکھ اَکِس سٟتؠ تہٕ وُچھِو کُس چھُ یِوان۔
 
-### Indoors, when going out is not possible
+### اندرس اندر، ییلہِ نیبر نیرُن ممکن آسہِ نہٕ
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **کھڑکی ہٕندِس کنِس پیٚٹھہٕ جٔدی بوٹی ہُند گمُل**، مِسلَن تلسی، اَجوان یا چونِس۔
+- **ڈَکلِہ میزس پیٚٹھہٕ گملَن مَنٛز لگانٕ۔** AFA چھُ مشورٕ دِوان زِ مؠژ اَکہِ جایِ رٹنہٕ خٲطرٕ کیفے ٹیریا طرزٕچ ٹرے اِستِمال کٔرِو تہٕ لۄکچہٚن پیالن سٟتؠ مؠژ بدلاوِو۔
+- **پھۄل سجاوُن** باغچہٕ یا دکانہٕ پیٚٹھہٕ اَنِمِتؠن کٔٹِمِتؠن پھۄلن تہٕ پتَرَو سٟتؠ۔
+- **دَبٲوِتھ پھۄل سُکھاوُنٕ** اَکہِ گُچھہٕ مَنٛز، یِم پتہٕ کارڈن پیٚٹھہٕ چَسپاں یِن ہیکَن کٔرِتھ۔ مزید خٲطرٕ وُچھِو [فنی تہٕ دستکاری سرگرمِیِہ](/activities/arts-and-crafts/)۔
+- **لیوینڈر یا گلابہٕ ہٕندؠ ساشے بناوُنٕ**، یِہ تِہ چھُ AFA ہُند اَکھ مشورٕ یُس باغٕچ خوشبو اندرس اندر تھوان چھُ۔
 
-### Getting out and about
+### نیبرِم نیرُن تہٕ کینژھن کُن گژھن
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **اَکھ لۄکُٹ سیر** محلہٕ مَنٛز، پارکس مَنٛز یا باغچہٕ دکانس مَنٛز، وارٕ وارٕ، تتھ جایِ یَتہِ بِہنہٕچ جای آسہِ۔
+- **وراندس یا بینچس پیٚٹھہٕ نیبرِم بِہُن** جانورن ہٕنز آواز بوٗزُن تہٕ ہوا محسوس کرنہٕ خٲطرٕ۔ یِہ چھُ پننِس جایِ اَکھ پوٗرٕ سرگرمی۔
+- **عوامی باغس مَنٛز گژھن** دۄہس کِس پُرسَکون وَقتَس۔ NHS چھُ وَنان زِ کینژھن جایَن مَنٛز چھِ حِسّی باغ آسان یَتہِ خوشبودار پودٕ، الگ الگ لمس تہٕ آب ہٕندؠ چیزٕ آسان۔
+- **نکھہٕ تالابس پیٚٹھہٕ بَتخَن دانٕہ دِیُن یا جانور وُچھُنٕ**، آبہٕ نِش محفوظ دۄری تھٲوِتھ۔
 
-## How do I make a garden easier to use?
+## بٕہ باغ کِتھہٕ پٲٹھٕ بنٲوِہ آسان؟
 
-Bring the garden up to the person, not the other way around.
+باغ تتھ شخصس نکھہٕ أنِو، نہٕ زِ تتھ شخصس باغس کُن گژھنٕچ ضرورت پَیِہ۔
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **تھوٚد بَسٹَن یا تھوٚد گملہٕ** تقریباً کمر ہٕندس سَتَس پیٚٹھہٕ، تاکہ گۄڈَن پیٚٹھہٕ بۂہُن یا نَمُن ضرورت گژِھہ نہٕ۔
+- **میزس پیٚٹھہٕ گملہٕ** تِمن لوٗکن خٲطرٕ چھِ ٹھیک یِم ویل چیئر اِستِمال چھِ کران یا بِہُن پسند چھِ کران۔
+- **کھُلر، ہموار وَتہٕ** یَتہِ نَہ کٔنۍ پَتھَر یا نل پوٚزَر آسَن، گِرَنُک خطرٕ چھِ کم کران۔
+- **ہَتھَن ہٕندؠ ٹیکہٕ وٲلؠ سیٹ تہٕ سایِہ** وَتھس پیٚٹھہٕ، تاکہ آرام کرُن ہمیشٕہ ممکن آسہِ۔
+- **موٗٹِ موٗلۍ تہٕ نرم ہَتھہٕ وٲلؠ اوزار** یِم پکڑنہٕ خٲطرٕ آسان آسَن۔ قینچی، چاقو تہٕ کانٛہہ تِہ تیز چیز ٹالِو۔
+- **کنڈی دار علاقہٕ یَتھ کُنڈِ آسہِ**، یَتہِ سُہ شخص آزاد پٲٹھؠ ہیکِہ پھیرِتھ، ییلہِ تُہؠ نکھہٕ روزِو۔
 
-## Which plants should I avoid?
+## کَم کَم پودٕ گژِھہ ٹالنہٕ یِنۍ؟
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+تِم پودٕ چُنِو یِم تھَپھ کرنہٕ خٲطرٕ محفوظ آسَن تہٕ، اگر ممکن آسہِ، چَکھنہٕ خٲطرٕ تِہ محفوظ آسَن۔ AFA چھُ مشورٕ دِوان زِ تِم پودٕ اِستِمال کٔرِو یِم عام طور جِلَد خراشان چھِنہٕ، الرجی ہٕندِ خیال تھٲوِو، تہٕ اگر کانٛہہ مؠژ کھؠنہٕ خٲطرٕ سمجِھ، تیٚلہِ وُچھِو غور سٟتؠ۔ NIA ہٕندؠ گھرٕچ حِفاظتی صلاح مَنٛز چھُ زہریٖلہٕ پودٕ ہَٹاوُن یا قُلف کٔرِتھ تھاوُن تِہ شٲمِل۔
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- کٔنڈِ دار گلاب، کیکٹَس، تہٕ تِم پودٕ ٹالِو یِمَن ہُند رَس جِلَد خراشان چھُ۔
+- اگر کُنہِ پودس مُتعلِق تُہؠ یقین آسہِ نہٕ، تیٚلہِ لگانہٕ برونٹھ زہر کنٹرول مرکز یا مقامی باغچہٕ دکانس پیٚٹھہٕ پوٗچھِو۔
+- جان زان پسندیدٕ پودٕ ہیکَن خۄشگوار یادٕ واپس اَنِتھ۔ AFA چھُ گلاب تہٕ کرسمَس کیکٹَس ہٕندِ مثال دِوان؛ کٔنڈِ وَرای قِسم چُنِو۔
+- کھاد، کیڑے مار دَوا تہٕ گھاسہٕ مار دَوا تھٲوِو قُلف کٔرِتھ، تہٕ تِمن جایَن مَنٛز مَہ کٔرِو اِستِمال یَتہِ سُہ شخص وٲتِتھ ہیکِہ۔
 
-## How do I stay safe in the heat and sun?
+## گرمی تہٕ تاپہٕ مَنٛز بٕہ کِتھہٕ پٲٹھؠ روزٕ محفوظ؟
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+نیبرِم گَژھنُک وَقت موسمس مُطٲبِق تھٲوِو۔ NIA چھُ وضاحت کران زِ بُجرگن چھُ [گرمی سٟتؠ پٲدٕ گژھن وٲلِس بیمارِس](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) ہُند خطرٕ زیادٕ آسان، اَمہِ مۄکھہٕ زِ جسم چھُ درجہٕ حرارت بدلنس سٟتؠ کم آسانی سٟتؠ ایڈجسٹ گژھان تہٕ کینہہ دَواہَن چھِ گرمی سٟتؠ نبرد آزَنَس پیٚٹھہٕ اثر پیوان۔
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **صبحس یا شامس نیرِو۔** گرم رؠتَن مَنٛز دۄہس کِس درمیانِس حِصَس نِش بٔچِو۔ صرف درجہٕ حرارت نہٕ بلکہ ہیٹ اِنڈیکس تِہ وُچھِو۔
+- **واریاہ آب دِیِو۔** تتھ شخصس واتناوُن مَہ کٔرِو انتظار زِ سُہ وَنہِ زِ تٔمِس چھُ ترٛیش لٔگمٕژ۔ گرمی مَنٛز شراب تہٕ کیفین وٲلؠ چیزٕ ٹالِو۔
+- **موسمس مُطٲبِق پۄشاک۔** ہلکہٕ رنگ، ڈھیٖلہٕ کپڑٕ، کھُلُر تھوٚد ٹوپی تہٕ عینک۔
+- **سن سکرین اِستِمال کٔرِو۔** NIA چھُ مشورٕ دِوان براد اسپیکٹرم SPF 15 یا تتھ کھوتہٕ زیادٕ، دۄہس دوران دوبارٕ لگانٕ خٲطرٕ۔
+- **سایِہ چُنِو۔** گملہٕ لاگنٕچ میز کُلِس تَل یا چھترِ تَل تھٲوِو۔
+- **وَقت تھووِو کم۔** اَکھ لۄکُٹ نیبرِم وَقت تِہ چھُ واریاہ آسان، خاص طور گرمن دۄہن مَنٛز۔
+- **انتباہی نِشٲنی وُچھِو۔** NIA چھُ کَلس دۄد، الجھن، چکر یا متلی گرمی ہٕندِ بیمارۍ ہٕندؠ ممکنہٕ نِشٲنی وَنان۔ ڈیمنشیا سٟتؠ روزَن وول شخص ہیکِہ نہٕ وَنِتھ زِ تٔمِس چھُنہٕ ٹھیک محسوس گژھان، لہٰذا تٔمِس ہُند بُتھ تہٕ رٔوِیہ وُچھِو۔ اندر یِیِو، آب تہٕ ٹھنڈِہ کَپڑِ سٟتؠ ٹھنڈ کٔرِو، تہٕ اگر جلدی بہتری نہٕ گژِھہ تیٚلہِ طبی مدد نِیِو۔ ہیٹ سٹروک، یتھ مَنٛز بے ہوشی، الجھن، یا سۄکھ سُرخ جِلَد ہیکِہ آسُن، چھُ طبی ہنگامی حالت: 112 پیٚٹھہٕ کال کٔرِو۔
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+سرد موسَم تِہ چھُ اَہمیَت تھوان۔ سرٕدی مَنٛز تھٲوِو نیبرِم وَقت کم تہٕ یہ یقینی بنٲوِو زِ اَتھہٕ تہٕ کھۄر روزَن گرم تہٕ سۄکھ۔
 
-## How do I handle wandering when we go outside?
+## ییلہِ أسؠ نیبر چھِ گژھان، رۄکھ رۄکھ ہٹنس کِتھہٕ پٲٹھؠ سنبھالو؟
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+ییلہِ تِہ سُہ شخص نیبرِم آسہِ، تٔمِس سٟتؠ روزِو۔ Alzheimer's Association چھُ وَنان زِ [6 مَنٛزٕ 10 ڈیمنشیا سٟتؠ روزن وٲلؠ لوٗکھ](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) کم از کم اَکہِ لٹہِ چھِ رۄکھ رۄکھ ہٹان، تہٕ واریاہ چھِ یِہ واریاہ لٹہِ کران۔ یِہ ہیکِہ کُنہِ تِہ مرحلس پیٚٹھہٕ گژِھتھ۔
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA ہٕندؠ [رۄکھ رۄکھ ہٹنہٕ تہٕ راوَنہٕ مُتعلِق صلاح](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) مَنٛز چھِ یِم چیزٕ شٲمِل:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- یقینی بنٲوِو زِ تتھ شخصس آسہِ شناختی یا طبی کڑا یتھ پیٚٹھہٕ ناو، پتہٕ تہٕ تُہُند فون نمبر آسہِ، یا تٔم سٕندین کپڑن پیٚٹھہٕ لیبل لٲگِو۔
+- تتھ شخصس ہٕنز اَکھ تازهٕ تصویر یا ویڈیو تھٲوِو۔
+- ہمساین وَنِو زِ سُہ شخص ہیکِہ رۄکھ رۄکھ ہٹِتھ۔
+- باڑس تہٕ کنڈِ دِنہٕ آمِت کُنڈِ سٟتؠ تھٲوِو باڑ محفوظ۔
+- اگر کٲنسِہ یِہ عادت چھِ، تٔمِس مَہ تراوِو اَکیلے۔
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association چھُ یِہ تِہ مشورٕ دِوان زِ اندرس تہٕ نیبرِم تِتھ جایِ بنٲوِو یِم محفوظ پٲٹھؠ پھیرنہٕ خٲطرٕ آسَن، تہٕ دۄہس کِس تتھ وَقتہٕ خٲطرٕ سرگرمِیِہ منصوبہٕ بنٲوِو ییلہِ بےچینی زیادٕ آسان چھِ۔ اَکہِ محفوظ، کنڈی دار باغس مَنٛز سیر ہیکِہ شامس نکھہٕ بےچینی خٲطرٕ موزوں ٲسِتھ۔ سانہِ [شامس نکھہٕ بےچینی](/caregiving/late-day-restlessness/) ہٕنز رہنمائی تِہ وُچھِو۔
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+اگر سُہ شخص راوِہ، Alzheimer's Association چھُ مشورٕ دِوان زِ فوراً نکھہٕ علاقس مَنٛز تلاش کٔرِو تہٕ اگر سُہ 15 منٹن مَنٛز نہٕ لَبِہ تیٚلہِ 112 پیٚٹھہٕ کال کٔرِو۔ پولیس وَنِو زِ تتھ شخصس چھُ ڈیمنشیا۔
 
-## How do I adapt gardening as things change?
+## حالات بدلنس سٟتؠ باغبٲنی کِتھہٕ پٲٹھؠ بدلاوَو؟
 
-| If this has become hard | Try this instead |
+| اگر یِہ مشکل بٔنِتھ چھُ | امہِ بدل آزمٲوِو |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| پوٗرٕ بَسٹَس مَنٛز لگانٕ | اَکہِ گملس مَنٛز اَکھ بیہِ بوُن |
+| نَدروَنٕ (نَدروَنہٕ تہٕ پودَن مَنٛز فرق کرُن) | آب دِیُن، یا صاف نظرِ یِوُنہِ ہۄژھ پھۄل تُلنٕ |
+| باغس مَنٛز پھیرُن | میزس پیٚٹھہٕ مؠژ ہٕنزِ ٹرے تہٕ اَکہِ پودس سٟتؠ بِہُن |
+| بالکل نیبر نیرُن | کچنس مَنٛز میزس پیٚٹھہٕ جٔدی بوٹی ہُند گمُل، یا کھُلِہ کھڑکۍ نکھہٕ بِہُن |
+| کانٛہہ تِہ کٲم کرُن | نیبرِم اَکھ اَکِس سٟتؠ بِہُن، بوٗزُن تہٕ وُچھُن |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+کینہہ لوٗکھ چھِ تُہٕند کٲم وُچھُن پسند کران۔ NIA چھُ وَنان زِ اگر تتھ شخصس صرف وُچھُن پسند چھُ، تیٚلہِ یِہ تِہ ٹھیک چھُ۔
 
-## When should we head inside?
+## أسؠ کَمہِ وَقتہٕ گژِھہ اندر یُن؟
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+ییلہِ سُہ شخص تھٔکِتھ، گرم، سَرد، بےچین یا ختم کرنہٕ خٲطرٕ تیار باسان چھُ، تیٚلہِ اندر یِیِو۔ اَکھ لۄکُٹ خۄشگوار دَہ منٹ چھِ تتھ لمبِس دوپہرس کھوتہٕ بہتر یُس پریشٲنی پیٚٹھہٕ ختم گژِھہ۔ جلدی رُکُن چھُ اَکھ جان نتیجہٕ۔
 
-## Bring the garden indoors on screen
+## باغ أنِو سکرینس پیٚٹھہٕ اندر
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+روٗدِ دۄہن مَنٛز چھِ [Sort Together](/games/sort-together/) مَنٛز تصویٖرَن ترتیب دِنہٕ خٲطرٕ اَکھ باغچہٕ ٹوکری، تہٕ [Conversation Cards](/games/conversation-cards/) مَنٛز چھِ یِتھ سوال یِم باغچہٕ ہٕندین کتھن ہٕندِ طرف ہیکَن نِتھ۔ اگر تُہؠ گرمی نِش جلدی جلدی اندر یِو، تیٚلہِ [Calm Breathing](/games/calm-breathing/) چھُ اَکھ وارٕ وارٕ، پُرسَکون وقفہٕ پیش کران یُس تُہؠ اَکھ اَکِس سٟتؠ ہیکِو بٔٹِتھ۔ تھَپھ، خوشبو تہٕ آوازس پیٚٹھہٕ مبنی مزید خیالَن خٲطرٕ وُچھِو سٲنۍ [حِسّی سرگرمِیَن ہٕنز رہنمائی](/activities/sensory/)۔

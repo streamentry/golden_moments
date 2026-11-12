@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Motus corporis et valetudo cerebri: quid studia ostendant"
+seoTitle: "Exercitatio et dementia: quid studia dicant"
+description: "Quid studia de motu corporis et periculo dementiae dicant, et modi tuti et iucundi movendi se senioribus et hominibus cum dementia."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Studia motum corporis assiduum cum minore periculo dementiae coniungunt, et relatio Lancet anni 2024
+  inactivitatem corporis inter 14 factores periculi mutabiles numerat. Experimenta clinica nondum probaverunt
+  exercitationem dementiam prohibere. Motus tamen vires, aequilibrium, animum et somnum adiuvat,
+  itaque ambulatio, exercitationes in sella et saltatio ipsa causa faciendae sunt. Medico consulite
+  antequam aliquid novi incipiatis.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Homines corpore actuosi plerumque minus periculum dementiae habent, sed hoc praecipue ex studiis observationis, non ex experimentis clinicis, venit."
+  - "Experimentum exercitationis quinque annorum in senioribus nullam claram differentiam ingenii inter greges invenit."
+  - "Praecepta CDC adultis 65 annorum et maioribus actiones aerobicas, ad musculos firmandos et ad aequilibrium pertinentes complectuntur, et dicunt aliquid motus melius esse quam nihil."
+  - "Hominibus qui cum dementia vivunt, motus brevis, notus et communis, sicut ambulatio cotidiana vel ludi in sella, plus valet quam quodlibet propositum numerorum."
+  - "Plus quam unus ex quattuor senioribus quotannis cadit, itaque exercitatio aequilibrii et locus tutus primum locum tenent."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Potestne exercitatio dementiam prohibere?"
+    a: "Nemo id promittere potest. Multa studia actionem corporis cum minore periculo dementiae coniungunt, sed experimenta clinica nondum ostenderunt exercitationem eam prohibere. Exercitatio multa alia commoda certa habet, itaque facienda manet."
+  - q: "Estne tutum homini qui cum dementia vivit se exercere?"
+    a: "Plerumque, si paulum praeparatur. Institutum Nationale de Senectute (NIA) suadet ut medico eius consulatur antequam novus ordo incipiatur, ut calcei commodi eligantur, ut aqua praebeatur et ut tempora brevia maneant. Desinite si homo defessus, instabilis aut tristis videtur."
+  - q: "Quae exercitationes sedendo fieri possunt?"
+    a: "Inter optiones sedentes sunt extensiones in sella vel yoga in sella, iactare pilam levem aut follis, iactare sacculos fabarum, tollere ollas cibi et uti machinis pedum. Hae sunt bonae electiones cum ambulare difficile est."
+  - q: "Quid si homo se movere non vult?"
+    a: "Nolite urgere. Postea iterum temptate, ipsi una participes sitis, musicam notam addite, aut motum in munus mutetis, sicut verrere vel plantas rigare. Brevis ambulatio ad cistam epistularum satis est, et simul foris sedere quoque satis est."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Actuosum esse est una ex consuetudinibus maxime investigatis in studiis de valetudine cerebri. Studia eam cum minore periculo dementiae coniungunt, sed nondum probaverunt exercitationem dementiam prohibere. Quod clarum est, motus vires, aequilibrium, animum et somnum quavis aetate adiuvat. Haec pagina explicat quid studia dicant, quantum motus senioribus suadeatur, et modos lenes se movendi cum homine qui cum dementia vivit.
 
-## Does exercise lower the risk of dementia?
+## Num exercitatio periculum dementiae minuit?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Studia indicant homines corpore actuosos minus saepe dementiam evolvere, sed argumenta fines habent. [Relatio Lancet anni 2024 de dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) inactivitatem corporis inter 14 factores periculi mutabiles numerat. Hi 14 factores una circiter 45% dementiae in toto orbe in eius exemplari explicant.
 
-Here is what the evidence looks like:
+Sic argumenta se habent:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Studia observationis in unam partem spectant.** Recognitio 58 studiorum, de qua Commissio disserit, invenit homines corpore actuosos circiter 20% minus periculum dementiae habuisse. Maxima differentia erat inter homines paene omnino inactivos et eos qui saltem aliquam actionem faciebant.
+- **Nexus in duas partes ire potest.** Commissio notat inactivitatem periculum augere posse. Notat etiam mutationes cerebri primas, quae annis ante diagnosin incipiunt, homines minus actuosos facere posse.
+- **Experimenta clinica minus clara sunt.** In uno experimento 945 seniores, quorum aetas media erat 78 anni, aut in quinque annos exercitationis bis in hebdomade cum duce aut in gregem comparationis distributi sunt. In fine, ingenium inter greges non clare differebat. Multi homines in grege comparationis etiam actuosi erant, quod eventum difficilius intellectu facit.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Institutum Nationale de Senectute (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) rem plane dicit. Nullus clarus nexus inter actionem corporis et prohibitionem morbi Alzheimer monstratus est, et non satis est argumentorum ex experimentis ut dicatur exercitationem eum prohibere aut tardare. Exercitatio tamen periculum casuum, tristitiae, diabetae, pressionis sanguinis altae et apoplexiae minuit. Nonnullae ex his condicionibus ipsae cum deminutione cognitionis coniunguntur.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Sincera conclusio est: movemini quia hodie melius vos sentire et agere adiuvat. Quodlibet commodum cerebri fieri potest, sed promissum non est.
 
-## How much activity do older adults need?
+## Quantum motus seniores egent?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Praecepta CDC adultis 65 annorum et maioribus](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) tria genera actionis quaque hebdomade suadent:
 
-| Type | Weekly amount | Examples |
+| Genus | Copia hebdomadalis | Exempla |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobicum | Saltem 150 minuta actionis moderatae, sicut 30 minuta 5 diebus | Ambulatio celeris, saltatio, aerobica in aqua |
+| Ad musculos firmandos | Saltem 2 diebus, omnibus praecipuis musculorum gregibus adhibitis | Tollere levia pondera vel ollas cibi, uti fasciis elasticis |
+| Ad aequilibrium | Assidue | Ambulare calcaneo ad digitos, ex sella surgere |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Haec sunt proposita, non condiciones ad incipiendum. CDC dicit: si ea assequi non potestis, tam actuosi estote quam vires et valetudo vestra sinunt. Aliquid motus melius est quam nihil.
 
-## Gentle ways to move for older adults
+## Modi lenes movendi se senioribus
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Ambulate cum aliquo.** Ambulatio cotidiana cum amico, vicino vel grege ambulationis sermonem et tutelam addit.
+- **Exercitationes in sella.** Brachia levare, talos in circulum movere, loco ambulare et yoga in sella vires augent sine periculo aequilibrii.
+- **Saltate in culina.** Musicam ex adulescentia eius ponite et una movemini, digitis pulsatibus vel gradibus. Dux noster de [actionibus musicis](/activities/music/) plura consilia habet.
+- **Vires cum rebus domesticis.** Tollite lagoenas aquae plenas vel ollas cibi dum spectaculum gratum spectatis.
+- **Hortum colite vel munera domestica facite.** Plantas rigare, folia verrere, verrere pavimentum et vestes plicare omnia numerantur. Videte [actiones foris et in horto](/activities/outdoor-and-gardening/) et [munera domestica](/activities/household-tasks/).
+- **Exercitatio in aqua.** NIA cursus aerobicos in aqua nominat ut optionem iis quibus exercitatio in terra articulis difficilis est.
 
-## How to exercise with someone living with dementia
+## Quomodo cum homine qui cum dementia vivit se exercere
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Homini qui cum dementia vivit, propositum est commodum, delectatio et facultates cotidianae servandae, non numerus assequendus. NIA dicit actionem corporis adiuvare ut musculi, articuli et cor hominis cum morbo Alzheimer in bono statu maneant, et etiam animum somnumque meliorem facere posse. Medico eius consulite antequam novum ordinem incipiatis. Consilia ex [duce curatorum NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) haec sunt:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Cotidie una ambulate.** Viam tutam et notam eligite, sine impedimentis. Si homo solus ambulat, armilla cum nomine et numero telephonico vestro utilis est.
+2. **Temptate pelliculas exercitationis senioribus aptas.** Una sequimini, sedentes vel stantes.
+3. **Tempora brevia servate.** Plura brevia „exercitia parva” melius quam unum longum esse possunt.
+4. **Musicam addite.** Carmina nota motum faciunt actionem, non munus. Saltate si homo id amat.
+5. **Aquam et calceos commodos praebete.** Aquam vel sucum inter exercitationem et postea praebete, et vestes commodas calceosque bene aptos ad exercitationem eligite.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Si ambulare difficile est, [dux NIA de cura hominis cum morbo Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) optiones sedentes suadet. Hae sunt exercitationes in sella vel yoga, iactus sacculorum fabarum, iactus pilae mollis aut follis, fasciae elasticae, levia onera domestica tollere et machinae pedum. Munera simplicia, sicut verrere et pulverem detergere, quoque numerantur.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Realis de eo estote quod motus efficere potest. Commissio Lancet nullum argumentum invenit exercitationem mutationes morum, sicut agitationem, minuere. Una movemini quia bene sentiri potest, non ut difficile tempus corrigatur. Si homo negat, id bene est. Dux noster [cum negat](/caregiving/when-they-say-no/) modos lenes habet ut postea iterum temptetis. Cito finire, vel simpliciter simul foris sedere, etiam bonus exitus est.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Post motum, quieta pausa sicut [Calm Breathing](/games/calm-breathing/) vos ambos adiuvare potest ut tranquilli fiatis. Ad actionem sedentem cum leni motu bracchiorum, [Sort Together](/games/sort-together/) et [Picture Bingo](/games/picture-bingo/) bene ad mensam conveniunt.
 
-## Balance and fall safety
+## Aequilibrium et tutela a casu
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Casus frequentes et graves sunt. [CDC refert](https://www.cdc.gov/falls/data-research/facts-stats/index.html) plus quam unum ex quattuor senioribus quotannis cadere, sed minus quam dimidium medico id dicere. Semel cadere occasionem iterum cadendi duplicat. Inter factores periculi, quos CDC enumerat, sunt:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Debilitas crurum et coxarum
+- Difficultas ambulandi et aequilibrii
+- Nonnulla medicamenta, inter quae sunt sedativa et nonnulla antidepressiva
+- Problemata visus
+- Dolor pedum vel calcei non idonei
+- Pericula domi, sicut res sparsae, tapeta parva et gradus fracti
 
-To move more safely:
+Ut tutius moveamini:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Utimini sella stabili** sine rotis, et mensam vel manubrium prope tenete ad exercitationes stantes.
+- **Locum purgate** a tapetis, funibus et rebus sparsis antequam incipiatis.
+- **Lente surgite**, et desistite si homo vertiginem sentit aut instabilis est.
+- **Calceos firmos gerite**, non tibialia sola vel soleas laxas.
+- **Aequilibrium prope fulcrum exercete.** Ex sella surgere et ambulare calcaneo ad digitos sunt exempla CDC actionum ad aequilibrium pertinentium.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC suadet ut senior qui cadit et caput percutit statim medicum videat, praesertim si medicamenta ad sanguinem tenuandum sumit.
 
-## Talk with a doctor
+## Medico consulite
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Medico consulite antequam novum ordinem exercitationis incipiatis, praesertim pro homine qui problemata cordis aut pulmonum, dolorem articulorum, problemata aequilibrii aut dementiam habet. Medicus aut physiotherapeuta actiones tutas suadere potest et inspicere num medicamenta aequilibrium afficiant. De omni casu medico dicite, etiam sine vulnere. Si aliquid dolet aut non recte sentitur inter exercitationem, desistite. Ob subitum dolorem pectoris, difficultatem spirandi aut subitam confusionem, vocate 112.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Haec pagina est informatio generalis, non consilium medicum. Videte [nostram monitionem medicam](/medical-disclaimer/). Ad imaginem latiorem, legite [quid studia de factoribus periculi dementiae dicant](/brain-health/risk-factors/) et [num dementia prohiberi possit](/brain-health/can-dementia-be-prevented/).

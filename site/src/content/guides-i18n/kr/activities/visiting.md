@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Am dementia-a kərmabero cidaram ziyaraye"
+seoTitle: "Am dementia-a kərmabero cidaram ziyaraye"
+description: "Am dementia-a kərmabe memory care, fato kənjibe au asibitilanza ziyarayin: awi dəgana, awo kəlanzəye, cidaram gana au kəlle kalkal kənjo."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Am dementia-a kərmabe memory care au asibitilan ziyarayin, awo-a gana ro:
+  isənadə sunzə gülne, awo falla kəltərambo dəgane misallo foto, yanyi au kəmbo
+  shi manazənama, kuru awo falla gana kəltə kədəne. Cidaram gana amma ngəwuro
+  dəganama, cidaram kuruwu amma gana-a kozənadən ngəla. Kəlle kalkal kənjo-a
+  bargaata kuru falla ro tədənə, shiye-a nyiye-a kalkal kənjo-a ranguye.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Amdə-a sunzən kuru nyi wunduma gülne, shi awo adə-a tamtəmmaso: 'Salam Ya, wu Susan, feronzə.'"
+  - "Awo falla au indi kəltərambo dəgane, misallo foto albəm, yanyi shi manazənama, bərno ramram au kəmbo cidawumaye amardəganama."
+  - "Cidaram gana amma ngəwuro dəganama, cidaram kuruwu amma gana-a kozənadən ngəla. Kərənəmnəm awo manəmadən ngəwuro kərəwoma."
+  - "Asibitilan, cidawumaro warak falla kamdə-a bayanjin dəgane kuru kəltəram fal dəryewa dajiya doctorro sadin gülne."
+  - "Cidu kəlle kalkal kənjo-a tədənə: sawi gərdəmin gülne, kəlle kalkal kənjo falla kəlkəl faidatəne, kuru bowotənyi kəlne."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Am dementia-a kərmabe ziyarayin awi dəgana?"
+    a: "Awo manarambo gənatənyi, awo kəltərambo dəgane. Foto albəm gana, yanyi shi manazənama laayist, bərno ramram, kəli loshon, mujalla cidaram burin kura-a bayanzəna, au kəmbo cidawumaye amardəganama ngəla. Fato kənjibe lan, foto yalwabe-a awo notənama fatodə-a fato-a kambai ro kəlzayin."
+  - q: "Am dementia-a kərmabe ziyarayin sawi gərdəmin napkana?"
+    a: "Sawi kalkal dəgana bawo. Yalwa ngəwu cidaram gana amma ngəwuro, cidaram kuruwu amma gana-a kozənadən ngəla ro kərsuna, dalilnzə kamdə banajin kuru sawi gərdəmin naptənadə-a taktənyi. Alaama bannabe rui kuru cidaramdə ngəla lan dazəna lan kəlne."
+  - q: "Shi 'fatoro lejiya' cana da, awi gənajinə?"
+    a: "Kalamnzə-a gənatənyi, karəgənzəro jaawu də. 'Fatoro lejiya' ngəwuro maananzə 'wu barga au amanna fanjinba.' 'Fatonnəmman awi gulsəne' wulne, foto-a kəltə ruine, au lezə au kəmbo buwu. Kəlaanzə kəldə au dalil fima lezənyidə-a bayanzə, ngəwuro karəgə kəskema."
+  - q: "Shi wu-a asutənyi da, awi dikə?"
+    a: "Kərgə cijin, amma shi-a kəltəmminba au 'Wu wunduma noyenba wa?' manəmminba. Kəlanəm-a kəskema kuru bargaata ro gülne, kuru sa-adə kəltə ngəla ro faidatəne. Am laa kərənəm-a asutənyiya ma, kəltəramma-a kuru cidarambe ramramnzə-a fanjayin."
+  - q: "Asibitilan napcinaa lan awi futu banasga?"
+    a: "Rangəmmin ma, shi-a kərtəne, kəmbo-a nzundobe-a banane, kuru foto-a so awo notəna dəgane. Cidawumaro warak shiye adabinzə, sun manazəna, awo manazəna, awo wazanama au alaama zazzabe-a bayanzəna də. Kamdə sadin ngəwuro au falfaro faltə dajiya doctorro sadin gülne, dalilnzə hangal kəltəram sadin dəgana lamarwa lardəbe alamazə waljin."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Kam raamma memory care, fato kənjibe au asibitilan ro cidaramro lenəmində, karəgə kada kənzəmbo. Awi manəm, awi dəgəmi, au cidaramdə faidaa shi taktənyiya ma faidaa wa kuru tammam. Faidaa mbeji. National Institute on Aging bayanzəna am Alzheimer's-a kərmabe ngəwuro [kəltəramma-a manazayin](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), ziyarama wunduma ro asutənyiya ma. Warak adə cidaram kəla, sa, au ngawo ro awo tədəramma-a bayanzəna, kuru asibitilan napcinabe lamarnzə-a.
 
-## How do I get ready for a visit?
+## Cidaramro kəniro awi futu tədəkə?
 
-A little planning makes the visit easier for both of you.
+Dabbar gana cidaramdə-a nyiro-a shiro-a ranguyin.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Sa ngəla kartə.** Dementia Australia cidaram kamdə ngəwuro hangalnzə ciba sadəna lan tədəro shawari cina, am ngəwuro lan suro au kantəbe sa. Family Caregiver Alliance, fato kənjibe adabinzə-a noye kuru [sa kənjo kəla cidaram sa-a kozəna lan](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) ziyararo shawari cina.
+- **Cidawumaro koro.** Ku kamdə futu naptəna kuru kəmbo, dabba au fatodən culuwo lamarwa-a koro.
+- **Jakke cidarambe gana dəgane.** Awo falla au indi kəltərambo bas (ruia cidiyan).
+- **Awo manaram gana tədənə.** Kamdə labar bawo waljin, tamanəmma dəgane: labar yalwabe, samma, bǝri bal, au labar kəji.
+- **Tammam kəlanəmbe dəgane.** Cidaram laa ramram au mana ngəwu. Laa bargaata au zauro. Indi sammaa ngəla.
 
-## What should I bring?
+## Awi dəgana?
 
-Bring things to share, not things that test. Good choices include:
+Awo kəltərambo dəgane, awo jarabtə gənatənyi. Awo ngəla-a so:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Foto albəm gana** foto kura kuru bayyanama-a kərtəna. Ngawoanzən cidawumaro suro ruwe.
+- **Yanyi shi manazənama laayist** wayelan, hedfon gana au yanyi kola gana-a kərtəna.
+- **Awo ramram leirambe,** misallo bərno, shaal au swetə shi notəna.
+- **Kəli loshon** musko ramram muskonzəbero, shi adə-a manazəna ma.
+- **Mujalla au kǝtab fotoye** awo shi manazənama kura-a bayanzəna, misallo kulo, moto, ngudo au dəgə.
+- **Kəmbo shi manazəna,** cidawuma amaro dajiya ma.
+- **Awo notəna fatobe ro.** Family Caregiver Alliance fure, kəskin, foto yalwabe au zane, au foto yalwabe kura burinbeye postə kura-a shawari cina.
+- **Tablɛt,** foto yalwabe rui au bǝri ramram kəltə bǝriyero.
 
-## What can we do together during a visit?
+## Cidaramben awi kəltə diye?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Awo falla kəltə kədə manabe kəskebe-a gana cizəyin. Dementia Australia foto ruwo, awo musko gana, kulo gana ngərtə, yanyi, kəmbo kəltə bu, au fatobe cidiyezə bəladin lezəro shawari cina. Awo gade-a so:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Foto ruine.** Awi ruminə gülne: "Kula adə ruine." "Fǝram bǝri adə shawa." Kamdə-a fuwuzə kollo. "Adə wunduma?" manəmminba.
+2. **Yanyi fane kuru yanyi yene.** Yanyi notəna karəgə-a kəlzayin kuru sa ngəla kəltərambo cin, mana zauro sa.
+3. **Lezə gana kədəne.** Family Caregiver Alliance fatobe cidiyenzən lezəro, kulo mbejiya ma cidiyenzən, shawari cina. Kursi laambe lan lezəma ngəla.
+4. **Musko ramram muskonzəbero də.** Loshon gana kuru muskonzən ramramtǝ musko, karəgə-a fuwuzayin.
+5. **Kəlanəmnzə lan banao.** Dementia Australia kənzaar ka, farce musko au kazəmu shi manazəna lan banaro gultəna, shi adə-a manazəna ma.
+6. **Bǝri gana bǝrine.** Family Caregiver Alliance karti, domino, au awo shi burin bǝrizəna dəganama ro shawari cina. Tablɛt lan, [Picture Pairs](/games/picture-pairs/) foto-a fulezəna kuru sa gozənyi ro bǝrijin. [Photo Pairs](/games/photo-pairs/) foto kartənama-a bǝri kəltəbe ro kalaktəyin, kuru foto-a browser nəmben napcayin.
+7. **Awo falla kəltə ruine.** Family Caregiver Alliance kəji filimma-a kuru filim dinama-a shawari cina. Kamdə labarzə-a fanzənyi ma, kərənzən napkə kuru sa-adə kəltə faidatəne.
+8. **Kuran kərane.** Shi'ir gana, fasal gana shi manazəna, au warak kam yalwabe.
+9. **Kəltəro napne bas.** Musko leiro au bargaata ro naptə cidaram kalkal. Alzheimer's Association, awi manəmro nonəmba ma ngəla, kuru kərənəmnəmma awo kərəmadən ngəwuro kura ma.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+Awo manaram bawo dajiya, [Conversation Cards](/games/conversation-cards/) banajin. Kartin kəla foto-a koro kəlanzə-a mbeji.
 
-## How should I talk during the visit?
+## Cidaramben futu mana dikə?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Sa kulson kəlanəm gülne.** "Salam Bawa, wu Mark, tadanzə." NIA, isawumaro kəlaanzə-a sadin gultəro shawari cina mana baditərambo.
+- **Fuwunzən isne** kuru shimnzəro sammaro napne.
+- **Kəltəmminba au kəlaanzə kəldəminba.** Kamdə taltə au awo njestəna da, NIA isawumaro shi-a kəltəzanyiro shawari cina.
+- **Kalima matə sa-a hangal də.** Sa ngəwu də.
+- **Karəgənzəro jaawu də.** Kamdə kərgə au hangalnzə cijin ro fulejin ma, awo gadero faltəmmin kəla karəgənzə-a amare.
+- **Koro jarabtəbe** misallo "Wu-a asunə wa?" au "Kausu awi bume?" kəldəminba.
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Lamar gade ro, [shawari manabe](/caregiving/communication-tips/) ruine.
 
-## What do I do when they say "I want to go home"?
+## Shi "fatoro lejiya" cana da, awi dikə?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Kalamnzəyen karəgə mbejiro jaawu də (shawarizammo [kamdə ngəwuro 'fatoro lejiya' cana sa](/caregiving/asking-to-go-home/) kuru bayanzəna). Family Caregiver Alliance bayanzəna "Fatoro lejiya" ngəwuro maananzə "wu barga fanjinba," kuru "Fatonnəmman awi gulsəne" au "Fatonəmben awi ngəwuro manazəm?" so jaawu ngəlaro shawari cina. Dementia Australia kuru bayanzəna "fato" sa au na kamdə amanna fanzəna, misallo ngəwunzəbe, maana waljin.
 
-Try:
+Jarabtəne:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- karəgənzə-a amare: "Fato-a ngəwuro kərgənəm cijin ro fanjin."
+- musko lan ramramtə də, shi adə-a manazəna ma
+- foto ruwo au fato yalwabe manawo
+- lezə, nzundobe au kəmbo buwu
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Kəlaanzə kəldəminba au lezənyidə-a bayanzəminba. Adə ngəwuro banajinba kuru karəgə-a yiriyin.
 
-## How long should a visit be?
+## Cidaramdə sawi gərdəmin daga?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Gana amma ngəwuro ngəla. Family Caregiver Alliance bayanzəna kamdə minit uwu naptə au awar uwu naptə taktənyi, kuru kawu falan cidaram gana yaskə, cidaram kura fallan kozənadən ngəla ro shawari cina. Dementia Australia cidarambe lamba au sawi kalkal dəgana bawo cana.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Memory carero kəlzə kawube burwoyen, Family Caregiver Alliance ngəwuro ziyararo shawari cina, ngawo adabtə falla ro isoro. Cidawumaro awi carui koro.
 
-## How do I leave without upsetting them?
+## Shi-a hangalnzə cijinba ro futu kəllo kalkal kənjo dikə?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Kəlle kalkal kənjo ngəwuro zauro. Dementia Australia shawari cina:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Isəm sa, sawi gərdəmin napkəmin gülne.** "Awar falla napkəna, ngawo kasuwuro lejin."
+- **Awo falla dazənadə-a kəlle kalkal kənjobe sa ro faidatəne.** "Yanyi adə dazəna da, lenjin."
+- **Sa kəmbobe au cidarambe sa ro tədənə,** au cidawumaro shi-a awo gadero isoro bana də.
+- **Kəlle kalkal kənjodə gana kuru kəlkəl kəl də.** Bowotə, gafara matə au "gana yaye" manatə, fuwun kəlle kalkal kənjo ngəla-a zautəyin."
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Kələm ngawo, kərgə fanta kalkal. Kəlanəmbo istirahat də. Kamdə hangalnzə cijia ma, cidawuma sadin shi-a fuwuzaro banazayin.
 
-## Visiting someone with dementia in the hospital
+## Am dementia-a kərmabe asibitilan ziyaraye
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Asibitila na kowo, notənyi kuru am kada mbeji, adə am dementia-a kərmabero zauro waljin. NIA ye shawarizammo [kam Alzheimer's-a kərməna asibitilaro kədə](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) adə-a shawari cina:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Kam falla kamdə-a kərtəna ro napca** rangəna sammaa: kam yalwabe, sawa amanna au cidawu biyaa.
+- **Cidawumaro warak kamdə-a bayanzəna də** adabinzə, sun manazəna, awo manazəna, awo wazanama, awo hangalnzə kəltəjin au alaama zazzabe kaliman bayanzənyi-a kərtəna. Njilonzəbe-a fatolan kuru cidawumabe nan napcinzən də.
+- **Kəmbo buwo-a nzundobe-a banao.** Am dinama asibitilan lan kəmbo ngəla-a fanzanyiro waljin. Kəmbo ferne, kəmbo lan banao, kəltə bue, kuru nzundobe də.
+- **Awo karəgə cizəna dəgane** misallo foto au awo addinibe.
+- **Kowodə-a gana də.** TV-a cakke kuru wayela-a interkombe kowonzə-a gana də.
+- **Awo fuwuzərambe jarabtəne,** misallo yanyi ramram, kara, adduwa, yanyi ye au foto dinama ruwo.
+- **Amanna lezəro shawari də** amanna lejin sammaa, cidawumaye amardəgana.
+- **Kamdə sadin ngəwuro au falfaro faltə dajiya doctorro sadin gülne.** NIA bayanzəna hangal kəltəram zauro sadin, delirium lan bowotəna, kuli laa misallo kansar nzǝm, kangə, nzundobe gana au kurun tawarbe alamaramnzə so kəlzə waljin, kuru lamarwa lardəbe majin.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Cidaram gana, bargaata, shim notəna-a yanyi manazəna-a kərtəna, kawu asibitilabe lan awo karəgə cizəna ngəwuro waljin.
 
-## Bringing children on a visit
+## Yal nzəra cidaramro kədə
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Yal nzəra ramram ngəwu kənzayin. Burwonza kalima gana, kalkal ro tədəmne, cidaramdə-a gana ro də, kuru cidanzə də, misallo zane fulezə au foto də. NIA bayanzəna yal nzəra-a am Alzheimer's-a kərmabe-a awo gana kəltə faidatayin, misallo foto albəm ruwo au yanyi fanzə. Dementia Australia yal gana-a awo gana au bargaata mbeji jakke ganan dəgəro shawari cina.
 
-## Take care of yourself too
+## Kəlanəmma kullo
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Cidaramdə bannatə au karəgə lan kəlzə waljin, kamdə ngəwuro faltəna ma. Ngəwuro ziyarammimba ma ngəla, sawa bana dəgəne, au kawu zaube lan burwon kəlne. Kəlanəm kullo lamarwa ro, [cidawube kəlanəm kulo](/caregiving/caregiver-self-care/) ruine. Na cintalan naptəmin ma, shawarizammo [wayela-a vidiyo manabe](/activities/phone-and-video-calls/) ruine.

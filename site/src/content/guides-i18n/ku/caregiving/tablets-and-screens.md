@@ -1,34 +1,35 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Amadekirina Tabletek an Telefonekê ji bo Kesekî bi Demansê"
+seoTitle: "Amadekirina Tablet/Telefon ji bo Kesekî bi Demansê"
+description: "Gav bi gav amadekirina tablet û telefonê ji bo kesekî bi demansê: girtina li ser yek bernameyê, nivîsa mezintir, kêmtir agahdarî, rûpeleke sade, deng û nepenî."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Berî ku hûn tabletek an telefonekê bidin kesekî, wê sadetir bikin. Bi
+  Guided Access li ser iPad û iPhone an app pinning li ser Android wê li
+  ser yek bernameyê bigirin, an jî Assistive Access a Apple ji bo rûpeleke
+  sadetir bikar bînin. Nivîsê mezintir bikin, agahdariyan bêdeng bikin, tenê
+  çend bernameyên nas li ser yek rûpela sereke bihêlin, deng saz bikin,
+  standekê bikar bînin û destûrên bernameyan sînordar bikin. Wê bi hev re,
+  ligel çalakiyên bê ekranê, bikar bînin.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) û app pinning (Android) ekranê li ser yek bernameyê digirin heta ku hûn wê vekin."
+  - "Assistive Access a Apple rûpeleke sadetir pêşkêş dike ku ji bo kesên bi zehmetiyên derûnî hatiye çêkirin."
+  - "Nivîsê mezintir bikin û agahdarî û pencereyên derketî vemirînin da ku tiştekî rê li ber nebigire an tevlihev neke."
+  - "Tenê çend bernameyên nas li ser yek rûpela sereke bihêlin, û berî destpêkirinê deng saz bikin."
+  - "Standek û cihê şarjê ku tu carî naguhere dîtin û bikaranîna amûrê hêsantir dikin."
+  - "Destûrên bernameyan û parvekirina daneyan binirxînin: bi gelemperî HIPAA tiştên ku li ser amûrekê kesane hatine tomarkirin naparêze."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ez çawa dikarim rê li ber kesekî bi demansê bigirim ku ji bernameyekê li ser iPad derkeve?"
+    a: "Di Settings > Accessibility > Guided Access de Guided Access vekin û şîfreyekê saz bikin. Bernameyê vekin, sê caran li bişkoka jorîn (an li ser iPadên kevntir bişkoka Home) bitikînin, û Start bitikînin. iPad di wê bernameyê de dimîne heta ku kesek şîfreyê têkeve."
+  - q: "Ez çawa dikarim tabletek Androidê li ser yek bernameyê bigirim?"
+    a: "Di sepana Settings de, bi gelemperî di bin Security (carinan Security & location) > Advanced > App pinning de, app pinning vekin. Dû re bernameyê vekin, Overview vekin, li jor li îkona bernameyê bitikînin û Pin bitikînin. Ji bo vekirinê PIN, şêwe an şîfreya we pêwîst e."
+  - q: "Gelo bikaranîna Guided Access li ser telefona xwe ya kesane ewle ye?"
+    a: "Hay jê hebin. Apple dibêje Crash Detection û Emergency Services dema ku Guided Access vekirî ye peyda nabin. Ger kes xwe dispêre telefona xwe ji bo bangên awarte, Guided Access tenê dema ku hûn li gel wî ne bikar bînin, an jî li şûna wê Assistive Access bifikirin."
+  - q: "Ji bo kesekî bi demansê çiqas dema ekranê baş e?"
+    a: "Hejmareke diyarkirî tune ye. Danişînên kurt û bi hev re, ligel meş, muzîk, karên malê û sohbetê, rojê tijîtir dikin ji demên dirêj û bi tenê li ber ekranê. Ger amûr bibe sedema acizbûnê an cihê çalakiyên din bigire, kêmtir wê bikar bînin."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +66,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tabletek dikare rêyek xweş be ji bo parvekirina wêne, muzîk û lîstikên sade. Lê ew dikare tevlihevker jî be: pêlînek şaş bernameyek din vedike, agahdariyek derdikeve, nivîs pir biçûk e, an jî ekran di nîvê lîstikê de tarî dibe. Hinekî amadekarî ji aliyê we ve piraniya van pirsgirêkan çareser dike.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Van gavan sazkariyên amade yên li ser iPhone, iPad û Android bikar tînin. Navên menuyan dikarin li gorî guhertoyên nermalavê û çêkerên amûran biguherin, ji ber vê yekê ger tiştek cûda xuya bike, rûpela Apple an Google ya girêdayî ji bo amûra xwe bişopînin. Amadekariyê berî ku hûn bi hev re rûnin, bi xwe bikin.
 
-## Should someone with dementia use a tablet or phone?
+## Gelo kesekî bi demansê divê tablet an telefonê bikar bîne?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Ev li gorî kesê diguhere. Gelek kes kêfxweş dibin ku tabletekê bi kesekî li kêleka xwe re bikar bînin, her çend bi tena serê xwe nikaribin wê bi rê ve bibin. Dest bi karanîna wê bi hev re bikin, bi yek bernameyeke vekirî, ji bo çend deqeyan. Ger ew kêf û sohbetê bîne, bidomînin. Ger ew bibe sedema tevlihevî an acizbûnê, dibe ku albûmek wêneyan, rûpelên çapkirî an muzîk baştir li wî bicivin. [Çalakiyên me yên çapkirî](/activities/printable/) yek ji vebijarkan in.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Bi gelemperî tablet ji telefonê hêsantir e: ekran û wêne mezintir in, û ew ne xeta jiyanê ya awarte ya kesê ye.
 
-## How do I lock a tablet or phone to one app?
+## Ez çawa dikarim tablet an telefonekê li ser yek bernameyê bigirim?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Li ser iPhone û iPad Guided Access, an jî li ser Android app pinning bikar bînin. Her du ekranê li ser yek bernameyê digirin heta ku hûn kodekê têkevin, ji ber vê yekê pêlîn an kaşkirineke şaş nikare tiştekî din veke.
 
-### iPad and iPhone: Guided Access
+### iPad û iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Li gorî [rêbernameyên Guided Access a Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. **Settings** vekin, li **Accessibility** bitikînin, dû re li **Guided Access** bitikînin û wê vekin.
+2. Di bin **Passcode Settings** de, şîfreyeke Guided Access saz bikin. Hûn dikarin Face ID an Touch ID jî destûr bidin.
+3. Vebijarkî: di bin **Display Auto-Lock** de, hilbijêrin ku ekran di dema danişînê de çiqas zû were girtin, da ku di nîvê lîstikê de tarî nebe.
+4. Bernameya ku hûn dixwazin bikar bînin vekin.
+5. Sê caran li bişkoka kêlekê (iPhone), bişkoka jorîn (iPad), an li ser amûrên kevntir li bişkoka Home bitikînin.
+6. Vebijarkî: li dor her beşek ekranê ku hûn naxwazin bersivê bide pêlînê xêzekê xêz bikin. Li **Options** (an **Session Settings**) bitikînin da ku bişkokên dengê vemirînin an rê li ber zivirîna ekranê bigirin.
+7. Li **Start** bitikînin.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Ji bo bidawîkirina danişînê, dîsa sê caran li heman bişkokê bitikînin, şîfreyê têkevin û li **End** bitikînin. Apple dibêje ku li ser hin guhertoyên kevntir ên nermalavê hûn du caran bitikînin.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Girîng:** Apple dibêje Crash Detection û Emergency Services di dema danişîneke Guided Access de peyda nabin. Guided Access li ser telefonekê ku dibe ku kes ji bo bangên awarte pêwîst bike, vekirî nehêlin.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Li gorî [alîkariya Android a Google derbarê girtina ekranan](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Sepana **Settings** vekin.
+2. Li **Security** (an **Security & location**), dû re **Advanced**, dû re **App pinning** bitikînin. Ger hûn nikaribin wê bibînin, li rûpelên alîkariyê yên çêkerê amûra xwe binêrin.
+3. **App pinning** vekin. Ji bo vekirinê PIN, şêwe an şîfreya we dê pêwîst be.
+4. Bernameya ku hûn dixwazin vekin. Ji bo vekirina Overview, bi tiliya xwe ji binî ber bi jor ve kaş bikin û li nîvê ekranê bisekinin (an jî bi navîgasyona 3-bişkokî li Overview bitikînin).
+5. Li jora pêşdîtina bernameyê, li îkona bernameyê bitikînin, dû re li **Pin** bitikînin.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Ji bo vekirinê bi navîgasyona bi tevgeran, ji binî ber bi jor ve kaş bikin û bisekinin. Bi navîgasyona 3-bişkokî, Back û Overview bigirin û bisekinin. Bi navîgasyona 2-bişkokî, Back û Home bigirin û bisekinin. Dû re PIN, şêwe an şîfreya xwe têkevin.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Gelo ji bo tevahiya iPhone an iPad moda sadetir heye?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Erê. Assistive Access a Apple rûpela sereke ya asayî bi yekî sadetir diguherîne. [Apple wê wiha diyar dike](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios): ji bo ku iPhone ji bo kesên bi zehmetiyên derûnî bi awayekî serbixwe hêsantir were bikaranîn hatiye çêkirin, bi hêmanên mezintir li ser ekranê û taybetmendiyên bêtir balkêş. Apple [heman taybetmendiyê li ser iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) jî pêşkêş dike.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Kî wê saz dike.** Apple pêşniyar dike ku piştgirekî bawerdar, wekî endamekî malbatê an lênihêrkerê ku kesê baş nas dike, di hilbijartina bername û taybetmendiyan de alîkarî bike.
+- **Li ku dest pê bike.** Herin **Settings > Accessibility > Assistive Access**, li **Set Up Assistive Access** bitikînin, dû re li **Continue** bitikînin.
+- **Bername.** Hûn hilbijêrin ku kîjan bername xuya bibin. Hin bernameyên Apple guhertoyên taybet ên sadekirî hene, û piraniya bernameyên din dikarin di sêwirana xwe ya asayî de werin zêdekirin.
+- **Rûpel.** **Rows** (lîsteyeke hêsan-xwendin) an **Grid** (hêmanên mezintir ku giranî didin wêne û îkonan) hilbijêrin.
+- **Şîfre.** Hûn şîfreyeke Assistive Access a cuda saz dikin ji bo têketin, derketin an guherandina sazkariyan. Apple pêşniyar dike ku di dema sazkirinê de hesabek Apple ya vegerandinê saz bikin, ji ber ku bêyî wê, şîfreyeke jibîrkirî tê wateya ji nû ve sazkirina amûrê.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access dibe ku ji bo kesekî ku her roj amûra xwe bi kar tîne guncaw be. Guided Access an app pinning ji bo danişîneke lîstikê ya bi hev re zûtir e.
 
-## How do I make text and pictures bigger?
+## Ez çawa dikarim nivîs û wêneyan mezintir bikim?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Mezinahiya nivîs û pêşandanê zêde bikin, dû re kontrol bikin ku bişkok hîn jî li ser ekranê cih digirin.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone û iPad.** Li gorî [rêbernameyên Apple derbarê mezinahiya nivîsê](https://support.apple.com/en-us/102453), herin **Settings > Display & Brightness > Text Size** û kaşkerê bikişînin. Ji bo nivîsa hê mezintir, herin **Settings > Accessibility > Display & Text Size > Larger Text**. Apple dibêje ku nivîsa pir mezin dikare hin bişkokan ji bo pêlînê dijwartir bike, ji ber vê yekê ger hewce be saz bikin.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Li gorî [alîkariya Google derbarê sazkariyên nivîs û pêşandanê](https://support.google.com/accessibility/android/answer/11183305?hl=en), **Settings** vekin û li **Font size** bigerin, dû re kaşkerê bikişînin. Li **Display size** bigerin da ku her tiştê li ser ekranê mezintir bikin. Hûn dikarin di bin **Accessibility > Display size and text** de **Bold text** jî vekin. Hin bername van sazkariyan naşopînin.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Di lîstikên wekî [Picture Pairs](/games/picture-pairs/) û [Find the Same](/games/find-the-same/) de, hûn dikarin kêmtir tile an vebijark jî hilbijêrin, ku ev tiştên li ser ekranê sadetir dihêle.
 
-## How do I stop notifications and pop-ups?
+## Ez çawa dikarim agahdarî û pencereyên derketî rawestînim?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Agahdariyên bernameyên ku hûn ne hewce ne vemirînin, û di dema çalakiyan de Do Not Disturb bikar bînin.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone û iPad.** Herin **Settings > Notifications**, li bin **Notification Style** li bernameyekê bitikînin, û **Allow Notifications** vemirînin ([rêbernameya sazkariyên agahdariyan a Apple](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Ji bo demekê bang, hişyarî û agahdariyan bêdeng bikin, Control Center vekin û ji bişkoka **Focus** **Do Not Disturb** vekin ([alîkariya Do Not Disturb a Apple](https://support.apple.com/en-us/105112)). Hûn dikarin wê di bin **Settings > Focus > Do Not Disturb > Set a Schedule** de bername bikin.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Ji jora ekranê ber bi jêr ve kaş bikin û li **Do Not Disturb** bitikînin, an jî herin **Settings > Modes > Do Not Disturb** ([alîkariya Do Not Disturb a Google](https://support.google.com/android/answer/9069335?hl=en)). Di bin **Notification filters** de hûn dikarin hilbijêrin ka kîjan kes û bername hîn jî dikarin bigihîjin. Sazkarî li gorî çêkerê amûrê diguherin.
 
-## How do I make a simple home screen?
+## Ez çawa dikarim rûpeleke sereke ya sade çêkim?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Çend bernameyên nas li ser yek ekranê bihêlin û yên din ji ber çavan dûr bixin. Ji bo vê yekê sazkariyek tenê tune ye; armanc kêmkirina tevliheviyê ye.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Sê heta şeş bernameyan hilbijêrin.** Mînakî, wêne, muzîk, bernameyeke bangên vîdyoyî û yek lîstik.
+- **Wan li ser ekrana yekem** deynin, her carê li heman cihan, û her tiştê din bibin ekrana duyemîn an peldankekê.
+- **Wêneyeke paşîn a sade û bi berevajîbûna bilind** bikar bînin, wekî rengek tenê an wêneyekî nas, da ku îkon derkevin pêş.
+- **Bernameyên ku hûn ne hewce ne jê bibin.** Bernameyên kêmtir tê wateya kêmtir derfetên tevliheviyê û kêmtir daneyên ku tên komkirin.
+- **Li ser amûrên Apple Assistive Access bifikirin** ger hûn dixwazin amûr vê yekê ji we re bike.
 
-## What about volume and sound?
+## Deng û dengan çawa?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Berî ku hûn amûrê bidin, dengekî rehet saz bikin. Bi Guided Access re, hûn dikarin bişkokên dengê vemirînin da ku di nîvê çalakiyê de neguhere. Kontrol bikin ku alavên bihîstinê tê de ne û baş dixebitin.
 
-## Where should the tablet live?
+## Divê tablet li ku bimîne?
 
-Give it a stand and a permanent charging spot.
+Cihekî şarjê yê daîmî û standekê jê re diyar bikin.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Standek an qapekek** ku tabletê li ser maseyê rast digire tê wateya ku kesek neçar nake wê bigire destê xwe, û nîşandan hêsantir dibe.
+- **Cihekî şarjê yê tenê** ku tu carî naguhere, bi awayekî îdeal standeke şarjê li ser maseyekê li odeyek ku hûn her roj tê de ne. Tablet her dem şarjkirî ye û her dem li heman cihî ye.
+- **Ronahiya zêde kêm bikin.** Ekranê ji pencereyeke ronahî dûr bixin.
 
-## How much screen time is okay?
+## Çiqas dema ekranê baş e?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Ji bo deqeyan hejmareke rast tune ye. Armanc bikin ku danişînên kurt û bi hev re wekî beşek ji rojek tijî bin ku di nav de tevger, muzîk, karên malê, sohbet û dema li derve jî hene. Ji ber ku êvarên mijûl dikarin bêaramiyên dawiya rojê zêde bikin, bifikirin ku çalakiyên ekranê di destpêka rojê de bikin. [Çalakiyên aram ên dawiya piştî nîvro](/caregiving/late-day-restlessness/) bibînin.
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Bikaranîna tabletekê bi hev re, li şûna ku ew bibe cihgirê kesekî, wê civakî dihêle. Rêbernameya me ya derbarê [lîstina bi hev re](/caregiving/how-to-play-together/) vê yekê rave dike.
 
-## How do I protect their privacy on the device?
+## Ez çawa dikarim nepeniya wî/wê li ser amûrê biparêzim?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Tiştên ku bername dikarin berhev bikin sînordar bikin, û texmîn nekin ku qanûnên nepeniya tenduristiyê wê diparêzin. Wezareta Tenduristî û Karûbarên Mirovî ya Amerîkayê (HHS) [rave dike](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) ku bi gelemperî rêzikên HIPAA agahiyên tenduristiyê yên ku li ser telefon û tabletên kesane hatine tomarkirin an bi rêya wan têne gihandin naparêzin. Di pir rewşan de, HIPAA daneyên ku di bernameyan de ji bo bikaranîna kesane hatine têketin jî naparêze, heya ku bername ji dabînkerê lênihêrîna tenduristiyê, plana tenduristiyê an yek ji hevkarên wan ên karsaziyê neyê.
 
-HHS suggests:
+HHS pêşniyar dike:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- ji bernameyên nehewce an bêserûber, bi taybetî yên "belaş", dûr bisekinin;
+- destûra gihîştina cihan nedin bernameyan heya ku bi rastî hewce nebe, wek nexşeyan.
 
-Also consider:
+Her wiha bifikirin:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Şîfreyekê li ser amûrê bikar bînin**, û qeydê wê li cihê ewle bihêlin.
+- **Destûran ji bo wêne, kamera, mîkrofon, têkilî û cihan binirxînin**, û yên ku bernameyek ne hewce ye vemirînin.
+- **Berî sazkirinê kontrol bikin ka bername çi berhev dike**. Rêbernameya me ya derbarê [hilbijartina bername û lîstikên demansê](/caregiving/choosing-apps-and-games/) lîsteyeke kontrolê ya nepeniyê heye.
+- **Di derbarê wêneyên malbatê de baldar bin.** Tenê wêneyên ku kes pê rehet e parve bikin, û bizanin ka bername wan li ku tomar dike. Di [Photo Pairs](/games/photo-pairs/) de, wêneyên ku hûn hilbijêrin di geroka we de dimînin.
+- **Kirînên di nav bernameyê de vemirînin** an jî agahiyên dayinê ji hesabên ku kes bikar tîne derxin.

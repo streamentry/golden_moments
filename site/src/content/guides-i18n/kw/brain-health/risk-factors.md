@@ -1,33 +1,32 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Faktoryow peryl dismyk: an 14 henwys gans Kessedhek Lancet"
+seoTitle: "Faktoryow peryl dismyk: an 14 faktor Lancet"
+description: "An 14 faktor peryl dismyk a yll bos chanjys, henwys gans Kessedhek Lancet 2024, dre oos, gans an pyth a gevren hwithrans ha pyth a yllowgh hwi keskowsel gans medhek."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Kessedhek Lancet 2024 a henwis 14 faktor peryl dismyk a yll martesen bos
+  chanjys: le adhyskans, koll klew, kolesteròl LDL ughel, iselder, shyndys
+  penn, diowglewder, diabetez, megya, gwask goos ughel, re boos, eva re, kesunyans
+  socyal, podrestrans ayr ha koll gweles heb dyghtyans. War-barth, i yw kevrennys
+  gans a-dro dhe 45% a gasys yn ollvys, heb gwaranti rag unn den vyth.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "An 14 faktor a styr a-dreus bewnans dien: onan yn oos a-varr, deg yn kres oos ha tri yn oos diwettha."
+  - "Koll klew ha kolesteròl LDL ughel yn kres oos yw pubonan kevrennys gans a-dro dhe 7% a gasys dismyk yn ollvys, an rannow brassa a unn faktor."
+  - "An kansrannow ma yw estymansow rag poblow hag a dyb kaws hag effeyth. Nebes kevrennow a yll bos rann-gawsel hepken."
+  - "Oos ha genynnek, na yll den vyth aga chanjya, yw faktoryow peryl meur ynwedh. Iselhe an 14 peryl ny warant nag a den vyth dismyk."
+  - "Rann vrassa a’n kammow, kepar ha checkya gwask goos, klew ha gweles, yw da rag yeghes yn fordhow erel ha gwiw dhe gowsel yn aga hever gans medhek."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Pyth yw an 14 faktor peryl dismyk a yll bos chanjys?"
+    a: "Kessedhek Lancet 2024 a henwis le adhyskans, koll klew, kolesteròl LDL ughel, iselder, shyndys penn, diowglewder, diabetez, megya, gwask goos ughel, re boos, eva re, kesunyans socyal, podrestrans ayr ha koll gweles heb dyghtyans. War-barth, i yw kevrennys gans ogas ha hanter a gasys dismyk yn ollvys."
+  - q: "Py faktor peryl dismyk yw an posekka?"
+    a: "A-dreus pobel an norvys, an Kessedhek a estymas bos koll klew ha kolesteròl LDL ughel yn kres oos pubonan kevrennys gans a-dro dhe 7% a gasys, sywyes gans le adhyskans ha kesunyans socyal orth a-dro dhe 5% an eyl hag y gila. Py faktoryow yw an posekka rag unn den a greg war aga yeghes aga honan, ytho medhek yw an gwella gedyer."
+  - q: "A veu an dhew faktor nowydh keworrys yn 2024?"
+    a: "Ya. An derivas 2024 a geworras kolesteròl LDL (drog) ughel yn kres oos ha koll gweles heb dyghtyans yn oos diwettha dhe’n 12 faktor henwys yn 2020. An Kessedhek a’s kevrennas gans a-dro dhe 7% ha 2% a gasys yn kettermyn."
+  - q: "Yw oos faktor peryl a yll bos chanjys?"
+    a: "Na. Oos yw an faktor peryl brassa aswonnys rag kleves Alzheimer, ha ny yllir y janjya. Genynnek a wra rann ynwedh. An 14 faktor war an folen ma yw an re a dyb hwithrans a yll martesen bos chanjys."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +48,119 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Faktor peryl yw neppyth kevrennys gans chons ughella a dhisplegya studh.
+Nyns yw kaws yn pub kas, ha kavos onan ny styr y hwrewgh hwi displegya dismyk.
+An folen ma a rol an 14 faktor peryl dismyk a lever Kessedhek Lancet 2024 a yll
+martesen bos chanjys, an pyth mayth yw kevrennys gansa gans hwithrans, ha pyth
+a yllowgh hwi keskowsel gans medhek.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Rag an gwel bras, y’ga mysk an pyth a gafas prevow bras, dallewgh gans
+[A yllir lettya dismyk? An pyth a lever an hwithrans](/brain-health/can-dementia-be-prevented/).
+Kedhlow ollgemmyn yw hemma, nyns yw kusul medhegel; gwrewgh mires orth agan
+[gwarnyans medhegel](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Pyth yw an 14 faktor peryl rag dismyk?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Kessedhek Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+skrifys gans 27 hwithror dismyk, a estymas bos 14 faktor peryl a yll martesen
+bos chanjys war-barth ow kemeres a-dro dhe 45% a gasys dismyk yn ollvys. An
+kansran rag pub faktor a-wòles yw estymans an Gessedhek a’n rann a gasys yn
+ollvys kevrennys ganso, resys dhe rivow dien. An niverow a goskorr, drefen bos
+lies den gans nebes perylow war-barth, hag ytho i a geworr dhe 45% yn le moy.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Faktor peryl | Oos | Rann a gasys | An pyth a gevren hwithrans | Pyth a yllowgh hwi gul |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Le adhyskans | Oos a-varr | 5% | Le bledhynyow skol yw kevrennys gans peryl ughella. Bos oberel yn medhelek yn kres oos a hevel difresya ynwedh, hwath rag tus gans nebes skol. | Pesewgh ow tyski ha gul taklow a wra agas omjunya yn medhelek yn pub oos: redya, delitow, klassys, gwariow gans tus erel. |
+| Koll klew | Kres oos | 7% | Koll klew heb dyghtyans yw kevrennys gans peryl ughella. Studhyansow a hol tus dres termyn a gevren devnydh daffar klew gans peryl isella. | Gwrewgh provya agas klew. Govynnewgh mar kallas daffar klew gweres, ha’ga gwiska mar pewgh i ordenys. Gwithowgh agas diwskovarn dhyworth tros ughel. |
+| Kolesteròl LDL ughel | Kres oos (a-dhia a-dro dhe 40) | 7% | Kolesteròl LDL ("drog") ughel yn kres oos yw kevrennys gans peryl ughella. Studhyansow mirasel a gevren devnydh statinow gans peryl isella, mes prevow yn oos diwettha ny dhiskwedhas hemma. | Govynnewgh orth agas medhek mar kodh agas kolesteròl bos checkys ha pyth, mar eus tra vyth, dhe wul yn y gever. |
+| Iselder | Kres oos | 3% | Iselder yw kevrennys gans peryl ughella. Yn oos diwettha, iselder a yll bos ynwedh sin a-varr dismyk. | Leverewgh dhe vedhek a vrys isel po koll les dres moy es dew seythun. Y hyllir dyghtya iselder. |
+| Shyndys penn | Kres oos | 3% | Shyndys penn yn pub oos hag a bub fenten, y’ga mysk gwariow kestav, yw kevrennys gans peryl ughella. | Gwiskewgh basnett rag diwrosa ha gwariow kestav. Govynnewgh a-dro dhe lettya kodhow. Powesewgh ha bedhewgh checkys wosa shyndys penn. |
+| Diowglewder | Kres oos | 2% | Tus a wra exercis ha gwari sport yw le govenek dhe dhisplegya dismyk. Skoodhyans a dhyworth prevow yw stroth hwath. | Govynnewgh py gwrians yw saw ragowgh, ha kevowgh neppyth a garowgh. Gwrewgh mires orth agan [gedyans exercis](/brain-health/exercise/). |
+| Diabetez | Kres oos | 2% | Diabetez, yn arbennek pan dhalleth yn kres oos po pesya hirra, yw kevrennys gans peryl ughella. | Gwrewgh checkya sugra an goos. Mar’gas beus diabetez, oberewgh gans agas para gwith rag y rewllya yn saw. |
+| Megya | Kres oos | 2% | Megya yw kevrennys gans peryl ughella. Studhyansow a gavas nag eus dhe dus hag a asas megya an keth peryl ughel avel tus a bes megya. | Govynnewgh a-dro dhe skoodhyans rag hedhi. Gwiw yw hedhi yn pub oos. |
+| Gwask goos ughel | Kres oos | 2% | Gwask goos ughel yn kres oos yw kevrennys gans peryl ughella. Prevoyow medhegiethow gwask goos a brof peryl tamm isella a dhismyk po gwadnheans breus. | Godhvowgh agas niverow. An Kessedhek a brof niver ughaf a 130 po le a-dhia a-dro dhe oos 40; govynnewgh py amkan yw gwiw ragowgh. |
+| Re boos | Kres oos | 1% | Re boos yn kres oos yw kevrennys gans peryl ughella, hag ev a ughelha ynwedh peryl diabetez. | Govynnewgh orth agas medhek a-dro dhe boos yagh ragowgh. Ny dal tus kottha omdhieta rag kelli poos heb kusul medhegel. |
+| Eva re | Kres oos | 1% | Eva meur yw kevrennys gans peryl ughella. Iselhe eva dhiworth eva meur yw kevrennys gans peryl isella. | Govynnewgh pyth yw finweth saw ragowgh, yn arbennek gans agas medhegiethow. |
+| Kesunyans socyal | Oos diwettha | 5% | Kestavow socyal yn tanow yw kevrennys gans peryl ughella. | Gwithowgh kestav gans tus yn fordhow a garowgh. Gwrewgh mires orth agan [gedyans kestav socyal](/brain-health/social-connection/). |
+| Podrestrans ayr | Oos diwettha | 3% | Bywa gans moy podrestrans ayr yw kevrennys gans peryl ughella. Studhyansow a gevren ayr glanna gans peryl isella. | Dres an myns yw mater rag polici poblek. Checkyewgh gwarnyansow kwalita ayr yn agas ranndir ha lehe an termyn yn-mes war dhydhyow pur bodrestrys. |
+| Koll gweles heb dyghtyans | Oos diwettha | 2% | Kudynnow gweles heb ewnhe yw kevrennys gans peryl ughella. Unn studhyans bras yn SU a gevrenas operacyon kattarakt gans peryl isella. | Gwrewgh kavos provow lagas reyth. Govynnewgh mar kyllir dyghtya kudynnow kepar ha kattaraktow. |
 
-## How should I read these percentages?
+## Fatell godh dhymm redya an kansrannow ma?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Gans rach. Derivas an Gessedhek y honan a wra nebes poyntyow a dalvia bos
+perthys yn kov:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **I a dheskrif poblow, a-der tus.** [Berrheans University College London a’n derivas](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  a not bos iselhe peryl owth oberi a-dreus poblans hag na warant y hwra unn den
+  vyth skonya dismyk.
+- **I a dyb kaws hag effeyth.** An awtours a gomprehendys faktoryow gans skoodhyans
+  krev hepken, mes i a lever y hall nebes kevrennow bos rann-gawsel hepken.
+- **I yw niverow ollvysel.** Rann vrassa a’n kedhlow a dheu a vroow gologek ughel,
+  ha’n rann wir rag unn vro po kemeneth vyth a vydh dihaval.
+- **Kansrannow byghan a yll bos a vern hwath.** Faktor kevrennys gans 2% a gasys
+  yn ollvys a wra strokya hwath niver pur vras a dus.
 
-## Which risk factors were added in 2024?
+## Py faktoryow peryl a veu keworrys yn 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+An derivas 2024 a geworras dew faktor dhe’n 12 henwys yn 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Kolesteròl LDL ughel yn kres oos**, kevrennys gans a-dro dhe 7% a gasys.
+- **Koll gweles heb dyghtyans yn oos diwettha**, kevrennys gans a-dro dhe 2% a gasys.
 
-## What risk factors cannot be changed?
+## Py faktoryow peryl na yllir aga chanjya?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+An National Institute on Aging a lever
+[bos oos an faktor peryl brassa aswonnys rag kleves Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ha ny yll den vyth y janjya. Genynnek a wra rann ynwedh; unn genen aswonnys a
+wra strokya peryl Alzheimer yw henwys APOE. An NIA a geworr na wor godhonydhyon
+hwath yn tien pyth a wra kawsya kleves Alzheimer yn rann vrassa a dus. Kessedhek
+Lancet a not y hallir iselhe an perylow a yll martesen bos chanjys pynag yw
+peryl genynnek unn den.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Drefen bos rann vras dhe oos ha genynnek, lies den heb nagonan a’n 14 faktor peryl
+a dhisplegy dismyk hwath. Nyns yw fowt denvyth.
 
-## What does the trial evidence say about changing these risks?
+## Pyth a lever skoodhyans an prevow a-dro dhe janjya an perylow ma?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Kevrenna faktor peryl gans dismyk nyns yw an keth tra ha previ bos y janjya ow
+iselhe peryl dismyk. Nebes ensamplys a ble’ma skoodhyans an prevow:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Gwask goos.** Y’n prov SPRINT MIND, amkan gwask goos isella a lehas yn
+  arbennek gwadnheans breus skav. Ny lehas yn arbennek dismyk tebygel, kyns y
+  halsa an prov bos re vyghan dhe dhiskwedhes hemma
+  ([SPRINT MIND yn JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Daffar klew.** Kessedhek Lancet a dheskrif prov teyr bledhen a dhaffar klew a
+  gafas effeyth ollgemmyn vyth war breus, mes les yn isbagas a dus gans peryl ughella.
+  Studhyansow a hol tus dres termyn a gevren devnydh daffar klew gans peryl isella.
+  Yma moy y’gan [gedyans klew](/brain-health/hearing/).
+- **Gwrians korfek.** An National Institute on Aging a lever nag eus skoodhyans lowr
+  a brevoyow klinyek rag konkludya y hall exercis lettya po lenthe gwadnheans breus
+  skav po kleves Alzheimer, kyns es nebes studhyansow a brof y hallsa gweres gans
+  gwadnheans keffrys ha kothni
+  ([NIA a-dro dhe lettya kleves Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Prevow hir a wortos dismyk dhe dhisplegya yw lent ha kostek, ytho rag lies faktor
+an skoodhyans gwella a wra pesya dos a studhyansow a hol tus dres bledhynyow. An
+skoodhyans na yw dhe les, mes ev yw gwannach ages prov.
 
-## What about sleep and diet?
+## Pyth a-dro dhe gosk ha boes?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+An Kessedhek a dhaswelas kosk ha boes mes ny wrug aga keworra dhe’n rol, drefen
+nag o an skoodhyans krev po kesun lowr. Agan gedyansow a-dro dhe
+[kosk](/brain-health/sleep/) ha [boes](/brain-health/diet/) a styrya an pyth yw
+aswonnys.
 
-## Talk with a doctor
+## Kowsowgh gans medhek
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Check-up bledhydhnek yw termyn da rag dadhla an testennow ma. Hwi a yll dri an
+rol ma ha govyn:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Pyth yw ow niverow gwask goos, sugra goos ha kolesteròl, hag a eus edhom a
+  vri dh’agan nebes?
+- A dalvia dhymm kavos ow hlew ha’m lagasow checkys?
+- Yw an gwrians a wrav saw ha lowr ragov vy?
+- A yll nebes a’m medhegiethow strokya kov po prederi?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Kyns chanjya medhegiethow, boes, penys, exercis po keworransow, kowsowgh gans
+medhek kyns oll. Mar’gas beus hwi po an den may hweresowgh kemyskans a-dhistowgh,
+gwander war unn tenewen, po kalesder kewsel, galwowgh 999.

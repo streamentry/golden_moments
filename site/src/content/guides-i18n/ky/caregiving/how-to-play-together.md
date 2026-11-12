@@ -1,34 +1,36 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Деменция менен жашаган адам менен оюн ойноо"
+description: "Деменция менен жашаган адам менен оюн ойноо боюнча практикалык кеңештер: даярдоо, ыргак, тууралоодон алыс болуу, оюнду жеңилдетүү жана качан токтотуу."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Оюнду сынак катары эмес, бирге өткөргөн убакыт катары караңыз. Тынч күндүн
+  убактысын тандап, жарык жана үнсүз бөлмөдө жанаша отуруңуз да, жөнөкөй бир
+  оюнду сунуштаңыз. Ыргакты сиз кам көргөн адам белгилесин, зыянсыз
+  катачылыктарды оңдобоңуз, чарчоо же ыңгайсыздануу белгилери билинер замат
+  оюнду жеңилдетип коюңуз жана сүрөттөрдү баарлашуунун башталышы катары
+  колдонуңуз. Жакшы сезилип турганда токтоп коюңуз. Эрте бүтүрүү же жөн эле
+  бирге көрүү да жакшы натыйжа.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Максат — оюнду аягына чыгаруу же туура жооп берүү эмес, көңүл ачуу жана байланышта болуу."
+  - "Баштоодон мурун даярданыңыз: үнсүз бөлмө, жарык жай, көз айнек менен угуу аппараты күйгүзүлгөн, сыналгы өчүк, бир оюн даяр."
+  - "Зыянсыз катачылыктарды оңдобоңуз. «Келгиле, мындай кылып көрөлү» деп айтыңыз же жөн эле улантыңыз."
+  - "Нааразычылык күчөгөнгө чейин оюнду жеңилдетип коюңуз: сүрөттөрдү азайтыңыз, тандоону азайтыңыз, сүрөттөрдү ачык калтырыңыз."
+  - "Сүрөттөрдү «Эсиңиздеби?» деген суроонун ордуна «Бул тууралуу айтып бериңизчи» деп окуя айтуунун башталышы катары колдонуңуз."
+  - "Чарчоо же тынчы кетүүнүн алгачкы белгилеринде токтоп коюңуз. Эрте токтоо — ийгиликсиздик эмес, ийгилик."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Оюн канча убакытка созулушу керек?"
+    a: "Туура убакыт жок. Көптөр үчүн бир нече мүнөт жетиштүү, айрым күндөрү бир эле айлампа да болот. Саатка эмес, адамдын абалына көңүл буруңуз жана ал дагы эле тынч көрүнүп турганда токтоп коюңуз."
+  - q: "Алар жеңип кетсин деп коюп берейинби же каталарды байкабай койгонсуп жүргөмбү?"
+    a: "Бирге, басымсыз ойнолгон оюнда жеңүү же жеңилүү деген жок. Эгер ката адамды тынчсыздандырбаса, көңүл бурбай коюңуз. Эгер тынчсыздандырып жаткандай көрүнсө, bunu эскертпестен, жымжырт гана жардам бериңиз же оюнду жеңилдетип коюңуз."
+  - q: "Алар менин ойногонумду көргөндү артык көрүшсөчы?"
+    a: "Бул деле жарайт. Улуттук карылык институту (National Institute on Aging) адам муну жактырса, жөн эле көрүп отуруусуна мүмкүндүк берүүнү сунуштайт. Көргөнүңүз жөнүндө сүйлөшүңүз жана каалаган учурда көрсөтүүгө же тандоого чакырыңыз."
+  - q: "Бул оюндар эс тутумду текшерүүнүн жолубу?"
+    a: "Жок. Биздин оюндар — көңүл ачуу жана баарлашуу үчүн бирге ойнолуучу жөнөкөй иш-чаралар. Алар эс тутумду текшербейт, эч нерсени өлчөбейт жана деменцияны дарылоонун ыкмасы эмес."
+  - q: "Кайсы оюндан баштаганы оң?"
+    a: "Адамга ылайыктуу эң жөнөкөй оюндан баштаңыз. Сүрөттөрү ачык калган 4 картадан турган «Сүрөт жуптары» (Picture Pairs) же 2 тандоосу бар «Окшошун тап» (Find the Same) — жумшак башталыш. Эгер адам баскандан көрө сүйлөшкөндү жактырса, «Баарлашуу карталары» (Conversation Cards) жакшы келет."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +49,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Деменция менен жашаган адам менен жакшы оюн жарышка окшобойт. Ал эки адамдын жанаша отуруп, сүрөттөрдү көрсөтүп, макал-лакапка күлүп, эмне тууралуу сөз чыкса ошонун үстүнөн баарлашканына окшойт. Оюн — жөн эле бирге убакыт өткөрүүнүн себеби.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Бул колдонмодо кантип даярдануу, оюнду кандай ыргак менен ойноо, бир нерсе «туура эмес» болуп калганда эмне деп айтуу, ар бир оюнду кантип жеңилдетүү же бир аз кыйындатуу, аны кантип баарлашууга айлантуу жана качан токтотууну билүү тууралуу сөз болот. Ал биздин [оюндарга](/games/) да, үйүңүздө бар карта, пазл жана үстөл оюндарына да жарайт.
 
-## What is the best way to play a game with someone who has dementia?
+## Деменция менен жашаган адам менен оюн ойногондун эң жакшы жолу кайсы?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Натыйжага эмес, көңүл ачууга басым жасаңыз. Бул — [Alzheimer's Association иш-чаралар боюнча кеңешинин](https://www.alz.org/help-support/caregiving/daily-care/activities) негизги ойу: адамда сакталган жөндөмдөргө таяныңыз, баштоого жардам бериңиз, кыйын бөлүктөрүн өзүңүз бүтүрүп коюңуз жана зыянсыз аракеттерди сынга албаңыз же оңдобоңуз.
 
-In practice that means:
+Бул иш жүзүндө төмөнкүлөрдү билдирет:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Анын жанына отуруңуз, каршы эмес.** Жанаша отурганда экөөңүз тең экранды же үстөлдү көрөсүз, ал эми жардам берүү көзөмөлдөөгө эмес, биргелешкен ишке окшойт.
+- **Бир маалда бир эле оюнду сунуштаңыз.** Тандоонун көп болушу оюн баштала электе эле сынак сыяктуу сезилиши мүмкүн.
+- **Алардын ыргагына жарашыңыз.** Эгер алар сүрөттөрдү өз тартибинде баскысы келсе, бир сүрөт тууралуу он мүнөт сүйлөсө же эки жүрүштөн кийин токтосо, бүгүнкү оюн ушундай болот.
+- **Аяктаган айлампаларды эмес, жакшы учурларды санаңыз.** Жылмаюу, окуя же тынч өткөн жарым саат — сиз издеген натыйжа.
 
-## How do I set up before we start?
+## Баштоодон мурун кантип даярдансам болот?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Бир нече мүнөттүк даярдык көбүнчө оюнга артылып жүргөн капа болуунун алдын алат.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Алар үчүн күндүн эң жакшы убактысын тандаңыз.** [Улуттук карылык институтунун (NIA) иш-чараларды ылайыкташтыруу боюнча кеңеши](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) иш-чараларды адам өзүн эң жакшы сезген убакытка пландаштырууну сунуштайт. Көп адамдар үчүн бул — эртең мененки сааттар. Кечки убакыт көбүнчө оорураак болушу мүмкүн; [кечки тынчтыктан алыс убакытка арналган иш-чараларды](/caregiving/late-day-restlessness/) караңыз.
+2. **Бөлмөнү тынч кылыңыз.** Сыналгы менен радиону өчүрүңүз жана мүмкүн болсо эшикти жаап коюңуз. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) сүйлөшүүгө аракет кылуудан мурун ызы-чууну жана алаксытуучу нерселерди азайтууну сунуштайт.
+3. **Адегенде ыңгайлуулукту текшериңиз.** Жанында суусу, алдын ала дааратканага баруу, ыңгайлуу отургуч, көз айнек жана угуу аппаратынын күйүк болушу.
+4. **Бөлмөнү жакшы жарыктандырыңыз.** Жаркырак түшпөгөн, жарык жана бирдей жарык сүрөттөрдү жакшыраак көрүүгө жардам берет.
+5. **Оюнду жанаша отурганга чейин даярдап коюңуз.** Аны ачып, жөндөөлөрдү тандап, үнүн өзүңүз коюңуз. Андан кийин экранды аларга буруңуз. Планшет боюнча кеңештер үчүн [планшетти же телефонду тууралоо](/caregiving/tablets-and-screens/) барагын караңыз.
+6. **Түзмөктү таянып коюңуз.** Планшетти тик кармап турган таянчыч же кабык түзмөктү колдо кармоонун кажети жок кылат жана көрсөтүү жеңилирээк болот.
 
-## How do I invite them without pressure?
+## Кысымсыз кантип чакырсам болот?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Чакырууну жөнөкөй жана баш тартууга оңой кылыңыз. Көбүнчө жакшы кабыл алынган айрым сөздөр:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- «Мен бакча сүрөттөрүн таптым. Бирге көрөсүзбү?»
+- «Бул пазлда мага жардам берип коёсузбу? Мен тыгылып kaldım.»
+- «Бүгүн гүлдөрдү көрөсүзбү же чымчыктардыбы?» (эки тандоо ачык суроодон оңой)
+- «Мен эжеңизге ачык хат жасап жатам. Мунун түсү кандай болсун?»
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alzheimer's Association иш-чаранын максатын түшүндүрүп коюуну сунуштайт, мисалы досуңузга ачык хат жасоо, себеби себеп анын маанисин арттырат. Жардам сурап чакыруунун да пайдасы бар, анткени бул адамга пайдалуу экенин сезүүгө мүмкүнчүлүк берет.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Эгер алар баш тартса, кабыл алыңыз. Кийинчерээк кайра аракет кылыңыз же башка нерсе сунуштаңыз. [Алар «жок» дешсе эмне кылуу керек](/caregiving/when-they-say-no/) деген колдонмобузда мындан да кеңири маалымат бар.
 
-## How long should a game last, and how fast should we go?
+## Оюн канча убакытка созулушу керек жана канчалык ылдам ойношубуз керек?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Ыргакты адам белгилесин, ал эми кыска убакытка пландаштырыңыз. Бирге ойнолуучу оюн үчүн далилденген эң ылайыктуу убакыт жок. Эки-беш мүнөттүк тынч убакыт деле толук иш-чара болушу мүмкүн.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Табигый сезилгенден узагыраак күтө туруңуз.** NIA адамга жооп берүүгө көбүрөөк убакыт берүү жана сөзүн бөлбөөгө аракет кылуу керек деп кеңеш берет. Жардам берүүдөн мурун өзүңүздүн ичинен онго чейин санаңыз.
+- **Бир эле кадам.** Бир гана кыска көрсөтмө бериңиз («Сүрөттү басыңыз»), андан кийин күтүңуз. Түшүндүргөндөн көрө көрсөтүңүз: кайсы жерди басуу керектигин көрсөтүңүз.
+- **Эркин тыныгуу жасаңыз.** Эгер алар сүрөт тууралуу сүйлөшүп токтоп калса, оюн күтө турат. Шашылуунун кереги жок.
+- **Көрүп отуруусуна жол бериңиз.** NIA айрым адамдар көргөндү артык көрөрүн белгилейт, бул да толук жарактуу тандоо.
 
-## Should I correct wrong answers?
+## Туура эмес жоопторду оңдошум керекпи?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Жок. Кайра-кайра жумшак тууралоо адамга, сиз жакшылык ниет менен кылсаңыз деле, жаңылып жатканын сездирет. Alzheimer's Association зыянсыз аракеттерди сынга албоону же оңдобоону кеңеш берет. Оюнда дээрлик бардык каталар зыянсыз.
 
-| Instead of | Try |
+| Мунун ордуна | Муну аракет кылыңыз |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| «Жок, бул туура эмес.» | «Келгиле, мындай кылып көрөлү.» (NIA берген мисал) |
+| «Бул дал келген жок. Кайра караңызчы.» | Эч нерсе айтпай, кийинки жүрүштү жасаңыз же «Оо, экөө тең кызыл экен.» |
+| «Бул ким экенин эсиңиздеби?» | «Бул сүрөт тууралуу айтып бериңизчи.» |
+| «Муну мурун эле кылдыңыз.» | «Бул жакшы. Кайрадан кылалы.» |
+| «Билесиз го, муну эле.» | «Аягын мен көрсөтөйүнбү?» |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Эгер ката аларды капа кылып жатканын так көрсөңүз, жымжырт жардам бериңиз. Туура сүрөттү көрсөтүңүз, өзүңүз бир жүрүш жасаңыз же кийинки айлампада оюнду жеңилдетип коюңуз. Эгер макал-лакап туура эмес, бирок күлкүлүү аяктаса, чогуу күлө бериңиз. Алардын варианты андан да жакшы болушу мүмкүн.
 
-## How do I make a game easier or harder?
+## Оюнду кантип жеңилдетсем же кыйындатсам болот?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Оюнду этаптын аталышына эмес, ошол күнкү адамдын абалына жараша тууралаңыз. Ошол эле адам кечинде эртең мененкиге караганда жөнөкөй вариантка муктаж болушу мүмкүн. NIAнын биринчи кеңеши — иш-чараны адамдын колунан келген нерсеге ылайыкташтыруу жана анын ийгиликке жеткендей сезишин камсыз кылуу.
 
-| Game | Make it easier | Make it a little harder |
+| Оюн | Жеңилдетүү | Бир аз кыйындатуу |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Сүрөт жуптары (Picture Pairs)](/games/picture-pairs/) | 4 картадан баштаңыз жана сүрөттөрдү ачык калтырыңыз | Карталарды көбөйтүңүз же ыңгайлуу болсо сүрөттөрдү жаап коюңуз |
+| [Окшошун тап (Find the Same)](/games/find-the-same/) | 2 тандоо | 4 тандоого чейин |
+| [Бирге иргөө (Sort Together)](/games/sort-together/) | Сүрөттү сиз кармаңыз, алар себетти көрсөткүлө | Сүрөттү да, себетти да өзү бассын |
+| [Сүрөт пазлы (Picture Puzzle)](/games/picture-puzzle/) | 4 бөлүк, адегенде толук сүрөт тууралуу сүйлөшүңүз | 9 бөлүк |
+| [Макалды ула (Finish the Saying)](/games/finish-the-saying/) | Аягын көрсөтүп, андан кийин чогуу айтыңыз | Басынчы электе аягын айтуу үчүн мүмкүнчүлүк бериңиз |
+| [Сөз издөө (Word Search)](/games/word-search/) | Басып чыгарып, бир сөздү чогуу издеп, биринчи тамгасын көрсөтүңүз | Кийинки кайсы сөздү издээрин өзү тандасын |
+| [Боёо (Coloring)](/games/coloring/) | Эки түстү сиз тандаңыз, алар ошолордун арасынан тандасын | Бардык түстөрдү өзү тандасын |
+| [Баарлашуу карталары (Conversation Cards)](/games/conversation-cards/) | Жөн эле сүрөттү чогуу караңыз | Картадагы ачык суроолорду колдонуңуз |
+| [Үй-бүлөлүк сүрөт жуптары (Photo Pairs)](/games/photo-pairs/) | Бир нече жакшы көргөн үй-бүлөлүк сүрөт | Көбүрөөк сүрөт кошуңуз |
+| [Сүрөт бинго (Picture Bingo)](/games/picture-bingo/) | Ар бир оюнчунун жанына жардамчы отурсун | Оюнчулар карталарын өзү белгилешсин |
+| [Тынч дем алуу (Calm Breathing)](/games/calm-breathing/) | Жөн эле жанаша отуруп, чогуу көрүңүз | Жай дем алып кошулуңуз |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Оюн өтө оор болуп калганын көрсөткөн белгилер: ойлонгондой эмес, тынчсыздангандай узакка тыныгуу, кайра-кайра «Мен албайм», түзмөктү түртүп коюу же адамды капа кылган каталар. Өтө жеңил болуп калышы мүмкүн деген белгилер: зеригүү же оюн балдардай деп айтуу. Мындай болсо, муну урматтаңыз жана чоң кишиге ылайыктуу нерсеге өтүңүз, мисалы сөз издөө, чыныгы сүрөттүн пазлы же мурдагы иши тууралуу сүрөттүн үстүнөн баарлашуу.
 
-## How do I turn a game into a conversation?
+## Оюнду кантип баарлашууга айлантсам болот?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Ар бир сүрөттү сүйлөшүүгө чакыруу катары колдонуңуз жана айтылган нерсенин баарын жакшы жооп катары кабыл алыңыз. Көп үй-бүлөлөр үчүн бул оюндун эң жагымдуу жагы.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Туура же ката деп бөлүүгө болбогон, ачык суроолорду бериңиз.** «Эмнени байкадыңыз?» «Кайсыны жактырасыз?» «Мына ушундай ашкана тууралуу айтып бериңизчи.»
+- **Адегенде өзүңүз бөлүшүңүз.** «Менин чоң энемдин да ушундай ити бар болчу.» Сиздин окуяңыз аларга да өз окуясын айтууга көмөктөшөт.
+- **Тема өзгөрсө, ошого эриңиз.** Эгер унаанын сүрөтү саякат тууралуу окуяга алып барса, окуя — ошол убакыттагы иш-чара. Оюнду токтоп турушу мүмкүн.
+- **Фактыларды текшербеңиз.** Эскерүү иш-чараларында так маалыматтан көрө жагымдуу баарлашуу маанилүү. Эгер окуя мурунку жолкудан айырмаланса, жаңы вариантынан ырахат алыңыз.
+- **Даяр суроолорду колдонуңуз.** [Макалды ула (Finish the Saying)](/games/finish-the-saying/) ар бир макалдан кийин сүйлөшүү суроосун берет, ал эми [Баарлашуу карталары (Conversation Cards)](/games/conversation-cards/) дал ушундай максатта түзүлгөн. [Үй-бүлөлүк сүрөт жуптары (Photo Pairs)](/games/photo-pairs/) өз үй-бүлөлүк сүрөттөрүңүздү колдонот, бул көбүнчө эң кызыктуу окуяларга алып келет.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Көбүрөөк идеялар [эскерүү иш-чаралары](/activities/reminiscence/) жана [баарлашуу кеңештери](/caregiving/communication-tips/) боюнча колдонмолорубузда бар.
 
-## When should we stop?
+## Качан токтотушубуз керек?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Чарчоо же тынчы кетүүнүн алгачкы белгилеринде токтоп коюңуз, мүмкүн болсо андан бир аз мурдараак. Alzheimer's Association көңүл чачыраганда же нааразычылык күчөгөндө иш-чараны токтотууну же өзгөртүүнү кеңеш берет.
 
-Watch for:
+Төмөнкүлөргө көңүл буруңуз:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- эстөө, бүкүрөйүп отуруу же көздүн экрандан алыстап кетиши;
+- тынчы кетүү, ордунан турууга аракет кылуу же кетүүнү сурануу;
+- күрсүнүү, кыска жооптор же «Мен муну жакшы кыла албайм» деген сөздөр;
+- сүрөттөрдү туш келди басуу же түзмөктү түртүп коюу;
+- көзүнө жаш келүү, ачуулануу же маанайдын күтүүсүз өзгөрүшү.
 
-How to stop well:
+Жакшы токтотуу жолдору:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Жеңил нерсе менен бүтүрүңүз.** Акыркы бир дал келген жуп же жон эле суктанууга турган акыркы сүрөт.
+- **Себепти өзүңүзгө алыңыз.** «Чай ичсем болот экен. Ушул жерде токтойлубу?» деген сөздөр, алардын начар кылды деген ойду жаратпайт.
+- **Кыймылдуу же тынчтандыруучу нерсеге өтүңүз.** Кыска сейилдөө, тамактануу, кийим бүктөө же музыка угуу.
+- **Жылуу сөз айтыңыз.** «Муну сиз менен бирге кылганды жактырдым.» «Туура таптыңыз» деген мактоо эмес, бирге өткөргөн убакыттан ырахат алуу.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Эрте токтоо, планды өзгөртүү же оюнду таштап, жөн эле жанаша отуруу — баары жакшы натыйжа.
 
-## Can we play in a group or over a video call?
+## Топто же видео чалуу аркылуу ойносок болобу?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Ооба, бир аз кошумча даярдык менен болот. Топто ойногондо адамдарды аз сактаңыз, жардам керек болгондордун жанына жардамчыларды отургузуңуз жана көңүлдү бир нерсеге буруучу оюнду тандаңыз. [Сүрөт бинго (Picture Bingo)](/games/picture-bingo/) оюнунун басып чыгарууга боло турган карталары жана экрандагы алып баруучусу бар. Кеңири маалымат үчүн [кам көрүү борборлорундагы топтор үчүн иш-чараларды](/activities/care-home-groups/) караңыз.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Видео чалуу аркылуу ойногондо, чалуудагы адам сүрөттү айтып бере алат, ал эми бөлмөдөгү адам көрсөтүп, баса алат. Чалууларды кыска жана тааныш кылыңыз. [Телефон жана видео чалуулар](/activities/phone-and-video-calls/) боюнча колдонмобузда дагы кеңештер бар.
 
-## What if a game just isn't working?
+## Оюн такыр чыкпай жатсачы?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Айрым күндөрү эч нерсе ылайык келбей калышы мүмкүн, бул сиздин же алардын айыбы эмес. Оюнду бир жакка коюп, күндүн башка убагында, башка оюн менен же таптакыр оюнсуз кайра аракет кылыңыз. Көптөгөн жакшы иш-чаралар экранга байланыштуу эмес: музыка угуу, сүлгү бүктөө, фото альбомду карап отуруу же кыска сейилдөө. Көбүрөөк идеялар үчүн [иш-чаралар](/activities/ideas/) барагын караңыз.

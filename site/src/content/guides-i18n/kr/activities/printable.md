@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Awo Dementia-be Printro Tadinma Dǝwo"
+seoTitle: "Awo Dementia-be Printro Tadinma: Ruwo Kuruwu"
+description: "Awo dementia-be printro tadinma dǝwo: kalma manabe ruwo kura, kǝla rǝngǝm, kǝrtǝ manabe-a suro foto bingo-a, kuru futu print diyinma."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments awo dementia-be printro tadinma dǝwo sadin: kalma manabe ruwo
+  kura-a, kǝla rǝngǝm-a, kǝrtǝ manabe suro foto-a kuru kǝrtǝ bingo suro foto-a.
+  Warak kǝla cidabe yayea katǝne kuru buton Print dǝ faidatǝ. Ruwo kura-a
+  tayirro, awo falro warak faln yǝrasǝne, kuru warak duno lan faidatǝgǝ ro
+  waljinma laminate de. Awo print lan fato lan tadinma, misallo warak kǝla
+  kǝndaram-be-a awowa yaskǝbe-a, faidaa.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Awo andiye printro tadinma dǝwo: Word Search, Coloring, Conversation Cards-a Picture Bingo-a. Warak kǝla cidabe yayea buton Print bǝ."
+  - "Ruwo kura-a tayirro, kǝla gǝskin kuru farak gǝnama lan print de, kuru awo falro warak faln yǝrasǝne."
+  - "Warak duno au kǝrtǝ card stock tairo kambo lan ngǝla-a kǝrǝmtǝro zau-a. Warak dǝ laminate de, marker fafarzǝna lan kǝrma faidatǝgǝ ro."
+  - "Awo print lan fato lan tadinma, misallo warak kǝla kǝndaram-be, awowa yaskǝbe au alamari kǝnuwube suro foto lan, tǝlam-a faidaa-a."
+  - "Warak print tadǝna dǝ bowotǝ, cidawa makkarantǝbe gani. Kǝla kǝltǝ diyo, au diyiwawo, ngǝla."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Awo dementia-be printro tadinma andiye dǝwo wa?"
+    a: "Aa, dǝwo. Warak Word Search, Coloring, Conversation Cards-a Picture Bingo-a shima na adǝ lan mbeji dǝ faidatǝ-a print tǝdin-a dǝwo. Warak kǝla cidabe dǝ katǝne kuru buton Print dǝ faidatǝ."
+  - q: "Awo jiri fi printro dementia-be ngǝla wo?"
+    a: "Awo print ngǝla wo dǝ tǝlam, kǝla gǝnama kuru kam kura ro: kalma manabe ruwo kura-a kalma dǝ kamniro-a cidiro-a runzǝna, kǝla rǝngǝm xǝttǝ gǝnama-a, kǝrtǝ suro foto kǝrtǝ badizǝyinma-a, kuru bingo suro foto samno ro. Cida dǝ hangal kam dǝ-a duno nzǝkko adǝ-a ro kǝltǝgǝne, kuru awo falro warak faln yǝrasǝne."
+  - q: "Futu awo print dǝ ruyi-a faidatǝ-a ngǝlaro dikki?"
+    a: "Ruwo kura-a tayirro faidatǝ, tawul kǝlime warak bul au warak launin kǝskǝ lan, kuru na kura-a. Warak duno au kǝrtǝ card stock lan print de warak dǝ duno ro napto, warak nashawa bawo matte faidatǝ nur tǝkkǝro zauro, kuru clipboard au mat tǝkkiyiwawo faidatǝ warak dǝ naptǝro. Laminate diyo warak dǝ ngǝwu ro tǝdin."
+  - q: "Awo nankammandǝbe dǝ cida na kǝnjima-be au cidawa yaskǝbe lan print dikki wa?"
+    a: "Aa, rakksǝna. Cidama na kǝnjima-be-a samno-be-a warak andiye am dǝro-a samno ro-a print tǝdinro maradǝtana. Picture Bingo samno ro tǝdana kuru bowoma kǝnowube screen lan mbeji TV au projector lan fǝletǝyin."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Sa laa, cida ngǝla wo dǝ warak fal-a kalam fal-a tebur kusottǝbe lan. Awo print tǝdǝna dǝ charge mǝradǝnyi, kalma sirrǝbe mǝradǝnyi, screen mǝradǝnyi, kuru ziyararo au samnoro gotǝ ngǝlai. Warak adǝ lan awo printro tadinma dǝwo na andiye lan mbeji dǝ, futu ruyi-a tairo ngǝlaro print diyinma dǝ, kuru awo print lan fato lan tǝlam am fado-a cidama-a faidaa fandǝna dǝ bayanyena.
 
-## What free printable activities do you offer?
+## Awo printro tadinma dǝwo jiri fi mbeji?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Andiye awo print dǝwo dewu sadǝna. Warak kǝla cidabe aniye yaye lan katǝne kuru buton **Print** dǝ faidatǝ, fasal printro ngǝla fandǝro.
 
-| Printable | What it is | Good for |
+| Awo print | Awi shi | Kambe ro ngǝla |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Kalma manabe ruwo kura-a kalma dǝ kamniro-a cidiro-a runzǝna | Sa naptǝna kalam lan; kam burwon kalma manabe cǝraa |
+| [Coloring](/games/coloring/) | Kǝla rǝngǝm printro, au screen lan rǝngǝmro | Sa naptǝna-a adadu-a; ngawo yayea banaro |
+| [Conversation Cards](/games/conversation-cards/) | Kǝrtǝ suro foto-a kǝla koro kǝrtǝ badizǝyinma-a na-awobe lan | Ziyara, bowodi, kǝmbu fado-a, samno tǝktǝne-a |
+| [Picture Bingo](/games/picture-bingo/) | Kǝrtǝ bingo suro foto-a, lamba bawo-a, kuru bowoma kǝnowube screen lan | Na kǝnjima, cidawa yaskǝbe, samno fado-a |
 
-### Large-print word search
+### Kalma manabe ruwo kura
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) dǝ harf kura-a faidatǝna kuru kalma dǝ kamniro-a cidiro-a bas runzǝna, diagonal au kǝngawo bawo. Rokko cidane: kam fal kalma fal karatǝ list dǝn, kam falde manajin. Kalma fandǝ dǝ zauro waljiya, harf burwoye kalma yaye-be dǝ rokko dawurne, au list kalma dǝ karatǝne kuru kalma yaye lan manane.
 
-### Coloring pages
+### Kǝla rǝngǝm
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Kǝla [Coloring](/games/coloring/) dǝ marker au kalam launi lan print tǝdin, au tablet lan launi fal kartǝne kuru na foto dǝn kartǝne rǝngǝm tǝdin. Warak print tǝdǝnaro, marker duno-a launi gana gana-a sa faln yite. [Shawarawa cidawa muskonniye](/activities/arts-and-crafts/) andiye rui futu rǝngǝm dǝ kam kura ro-a naptǝna ro-a yirasǝyin.
 
-### Conversation cards
+### Kǝrtǝ manabe
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) dǝ foto gǝnama-a kǝla koro kǝrtǝ badizǝyinma-a kǝltǝna, misallo «Wulse awi iso...» au «Awi rumin?». Kǝla koro bowotǝ ro ruwutǝna, koro jarabtǝ gǝni. Fasal fal print de, dagatǝ, kuru gana ziyararo jakko lan au waye kutta lan yǝrasǝne. Samno [tǝktǝne](/activities/reminiscence/) lan kǝla ngǝla diyin.
 
-### Picture bingo cards
+### Kǝrtǝ bingo suro foto
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Kǝrtǝ [Picture Bingo](/games/picture-bingo/) dǝ lamba bawo, suro foto faidatǝna. Wuram yayero kǝrtǝ fal print de kuru bowoma kǝnowube dǝ laptop, TV au projector lan faidatǝ. Andiye shawari yisǝna sai kǝrtǝ nduso sammasǝna ro bowone, kam falma kolzǝniro. [Cida samno na kǝnjima-be lan](/activities/care-home-groups/) rui futu cidawa dǝ cistǝgǝ diyin.
 
-## How do I print activities so they are easy to use?
+## Futu awo print dǝ ruyi-a faidatǝ-a ngǝlaro dikki?
 
-Small changes in how you print make a big difference.
+Awo gana futu print dimmi lan canji kura sadin.
 
-### Make it easy to see
+### Ruyi ngǝlaro de
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Ruwo kura-a tayirro.** Saiti print kura wo kartǝne warak dǝn lezǝyinma dǝ faidatǝ. Ruwo adadu au kǝla musko faidatǝnni.
+- **Farak gǝnama.** Tawul kǝlime warak bul au warak launin kǝskǝ lan. Kǝla fǝrzǝ au kǝngawo launi bawo kolne.
+- **Warak matte** nur naptǝna kura cidiya tǝkkǝro zauro sadin.
+- **Karǝnnuwa-a nur-a rui.** Alzheimer's Association bayanzǝna kazǝyi sim-a kǝnzhǝ fando-a manabe zauro sadin, kuru sa-a sa-a ruyiro shawari sǝdana. Fitila nurraa dǝ maa faidaa.
 
-### Make it easy to hold
+### Taingǝro ngǝlaro de
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Warak duno au kǝrtǝ card stock** dǝ duno ro napcin, tairo gotǝ ngǝlai, kuru faidatǝ kǝrma lan tǝkki.
+- **Clipboard** au mat tǝkkiyiwawo dǝ warak dǝ tǝkkǝro sadin.
+- **Marker duno au kalam duno** dǝ tairo kambo ngǝla kalam gana gana lan kozǝna.
 
-### Make it reusable
+### Kǝrma faidatǝgǝ ro de
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Warak dǝ laminate de** au kǝla ruyi mai cidiya yǝrasǝgǝne. Kalma manabe-a kǝrtǝ bingo-a lan marker fafarzǝna faidatǝ, ngawo dǝ cinne.
+- **Kǝla matte** faidatǝ nur tǝkkiya, kuru **kǝnza dokkǝbe laminate dǝ** makas lan dagatǝ tairo ngǝlaro.
+- **Folda fal** awo ngǝla wo-be ro yǝrasǝgǝne, kawu yaye warak tilo print diwi.
 
-### Keep it simple
+### Tǝlamro yǝrasǝgǝne
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Awo fal warak faln.** Kalma manabe fal au foto fal, cida kada kǝltǝna bawo.
+- **Na farak kura-a.** Warak awo kada-a dǝ kambo zauro diyin.
+- **Shawari karatǝ bawo, rakkiya.** Futu cida dǝdi dǝ fǝletǝgǝ.
+- **Warak dǝ dagatǝ.** Warak sammaa zauro waljiya, kǝltǝ au napkǝne kǝla fal bas fǝletǝ.
 
-## Other useful printables you can make at home
+## Awo print gade faidaa fato lan tadinma
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Awo print faidaa yaye cidawa gani. Aniye ruwutǝ ngǝlai na kalma ruwobe-a printer-a lan.
 
-### A life-story page
+### Warak kǝla kǝndaram-be
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Warak fal «nyi kǝla» foto-a, sun kam dǝ cǝra nzasǝna-a, na ndaran wurazǝna-a, cida nzǝkko-a, fado-a, kǝmbu kǝnzǝwo-a, musko-a kuru awo kǝnji au hangalnzǝ tǝkkǝyinma-a. Dementia Australia [kǝtabu tǝktǝne](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) bayanzǝna kǝla kǝndaram kam dǝ-be, awo cǝra-a am ngǝla nzǝkko-a lan, ziyarama-a kǝnjimaram-a banazǝro-a kǝrtǝ badizǝro-a.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Asibitilro au na kǝnjima bǝlinro ngǝwu faidaa. NIA shawari sǝdana [warak bayan kambe](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) asibiti cidamaza ro tin, adabe kam dǝ-be, sun cǝrazǝna, awo cǝra-a cǝranyi-a, awo hangalnzǝ tǝkkǝyinma, kuru alamaram kazǝyibe kǝla manabe lan bawo.
 
-### A daily schedule
+### Awowa yaskǝbe
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Awowa yaskǝbe kura-a tǝlam-a sa-a, kalma gana-a foto gana-a kǝla yayero: kǝmbu kǝnza, letǝ, kǝmbu kantǝ, tusu, musko, kǝmbu bunne. [Awowa kǝnji yaskǝbe](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Alzheimer's Association dǝ shawari sǝdana sa kam dǝ ngǝla wo-a ro kǝltǝgǝne, cizǝ-a lǝtǝ-a sa tiloro kuru cida-a tusu-a kǝltǝgǝne. Simro kǝnowun naptǝ, misallo firiji lan, kuru ngǝlaro kolne. [Shawarawa awowa yaskǝbe](/activities/daily-routine/) andiye rui kǝla yirai ro.
 
-### Picture labels for rooms and drawers
+### Alamari suro foto njim-a alamari-be ro
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA shawari sǝdana alamari launi kura-a au suro foto tǝlam-a [njim wudube, kǝnua lǝtǝbe-a kusottǝbe-a ro alamaro](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Hangal adǝma drawer-a alamari-be-a ro cidi: suro ramma drawer ramma-be lan, kop alamari kop-be lan. Print de, laminate de, kuru naptǝ.
 
-### A sorting set
+### Fasal jiliro tǝdǝna
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Suro foto jili indi tǝlam lan print de, misallo tǝda-a fure-a au kare cidabe-a awo kusottǝbe-a, kǝrtǝ card stock lan. Dagatǝ kuru baskǝt indi lan rokko jilne. Cida adǝye screen lan dǝ [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Warak kalma kǝla yakkǝbe
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Kalma kǝla yakkǝbe kǝnzǝwo gana ruwo kurawu lan print de, rokko yakkǝro. Am karma karatǝ ngǝwu sǝdiwawo dǝ maa warak dǝ tairo kǝnjanzayin.
 
-### A family photo page
+### Warak suro foto fado-be
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Warak fal lan suro foto fado-be kura dewu au arakkǝ, yaye cidiya sun burwoye-a. Tebur lan napcin, kam yaye gotǝne manajinro. Alama dǝ ziyarama-a cidama-a banazǝna kǝrtǝn zǝptǝro, kuru kam falma «tu wundǝ?» cǝn koro bawo.
 
-### A recipe card
+### Kǝrtǝ kǝmbu dǝmbe
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Kǝmbu fado-be kǝnzǝwo fal ruwo kura lan print de. Rokko dǝmne faidatǝro, au kǝmbu ngawo-be lan manaro bas.
 
-## How do I offer a printable without it feeling like homework?
+## Futu awo print dǝ cidawa makkarantǝbe gǝniro bowotǝkki?
 
-Present it as something to share, not a test.
+Awo rokko kǝltǝgǝ ro fǝletǝgǝne, jarabtǝ gǝni.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Naptǝne nyima badine.** «Kalma manabe adǝ dikki. Banasǝmin ‘kulo’ fandiyen?»
+- **Rokko cidane.** Fal fallen, au kam fal fandin kam falde dawin.
+- **Kalkal au diwi gǝni manǝnni.** Shawarawa [cida fato lan](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) Alzheimer's Association dǝ cida dǝn hangal ganatǝro, tamotammiro gǝni, kuru kǝnjiro hangal ganatǝro shawari sǝdana.
+- **Warak dǝ kolne fǝlezǝna.** Shawarawa adǝma kǝtabu surobe, album surobe au jarida ngawo na tairo gotǝyinma lan yǝrasǝgǝro bayanzǝna. Kǝrtǝ print-a warak suro foto-a adǝgaima tebur gana lan napcin.
+- **Sa raammiya lan dane.** Warak rǝngǝm kǝltǝ kǝnzǝ dǝ kǝnzhǝ kausu ngǝla. Warak dǝ gotǝne shayi yakkǝ dǝ maa adǝgaima ngǝla.**
 
-## Where to find more
+## Na gade ro fandǝ
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+[Cida-a awo print-andǝbe-a samma](/games/) rui, au [cida ngawo yaye ro](/activities/ideas/) rui hangal gade fandǝro, warak-a warak bawo-a.

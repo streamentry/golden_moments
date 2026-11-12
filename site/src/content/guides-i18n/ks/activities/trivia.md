@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "ڈیمینشیا سٟتؠ بزرگن خٲطرٕ آسان ٹریویا"
+seoTitle: "ڈیمینشیا سٟتؠ بزرگن خٲطرٕ ٹریویا، جَوآبن سٟتؠ"
+description: "ڈیمینشیا سٟتؠ بزرگن خٲطرٕ ۵۰ آسان ٹریویا سَوال، جَوآبی اِنتِخابَن تہٕ گُفتگوٗ خٲطرٕ نُکتَن سٟتؠ، یُتھ کٲنٛسہِ آزمٲیش مَحسوس گَژھِ نہٕ."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  ڈیمینشیا سٟتؠ بزرگن خٲطرٕ آسان ٹریویا تَتھ وِزِ کامیاب چھُ ییلہِ یہِ اَکھ گُفتگوٗ
+  باسان چھُ، نہٕ کہ اَکھ آزمٲیش۔ تِمَن چیٖزن مُتلِق پٕرٛژِھو یِم واریاہ کال برونٛہہ سِکھِمَتؠ
+  چھِ، مِثلَن پرٛانہٕ گِیت، مَثَل، تہوار تہٕ روزانٕہ زندگی، تہٕ ہمیشہٚ دۅ یا ترٛے اِنتِخاب
+  دِیِو۔ جَوآب نَرمی سان ؤنِو، کٲنٛسہِ اَکوے کٔرِو نہٕ ٹارگِٹ، نَمبَر مَہ تھٲوِو، تہٕ
+  پرٛتھ جَوآب کٔرِو اَکھ دٔلیل بَناونہٕ خٲطرٕ اِستِمال۔ «یہِ یا سُہ» سَوال، یِمن مَنٛز
+  کانٛہہ غَلَط جَوآب چھُ نہٕ، مَتقدم مَرحَلَن خٲطرٕ چھِ مُناسِب۔
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "واریاہ کال پؠٹھہٕ وَچھنہٕ آمُت چیٖزن مُتلِق پٕرٛژِھو: گِیت، مَثَل، تہوار، کھؠن تہٕ برونٛہِم زندگی۔"
+  - "دۅ یا ترٛے اِنتِخاب دِیِو یُتھ جَوآب پَرٕزناوُن آسان گَژھِ، یاد کَرُن نہٕ۔"
+  - "جَوآب نَرمی سان ؤنِو تہٕ برونٛہہ پٔکِو۔ اگر کانٛہہ اَنُمانہٕ دٔلیل شروع کرِ، تیٚلہِ سُہ چھُ اَکھ رُت اَنُمانہٕ۔"
+  - "نَہ نَمبَر، نَہ ٹیمَن ہُنٛد ریس، نَہ کٲنٛسہِ اَکوے پٕرٛژُن۔ جَوآب دِیِو سارِوے دَسہِ یِن۔"
+  - "ییلہِ جَوآبَن مَنٛز اِنتِخاب کَرُن مشکل گَژھِ، تیٚلہِ «یہِ یا سُہ» سَوالَن کُن پٔکِو یِمن مَنٛز کانٛہہ صحیح جَوآب چھُ نہٕ۔"
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "کیا ٹریویا ڈیمینشیا سان رہَن وٲلؠن لُکن خٲطرٕ اَکھ رٕژ سَرگَرمی ہیکِہ آسِتھ؟"
+    a: "آ، اگر یہِ نَرمی سان چَلاونہٕ یِیِہ۔ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھُ ٹریویا گۅڈنِکہِ مَرحَلٕچ سَرگَرمی ہِیوٚند گِنٛزران۔ سَوال تھٲوِو واریاہ کال پؠٹھہٕ وَچھنہٕ آمٕتؠن مَضموٗنن پؠٹھ، اِنتِخاب دِیِو، کٲنٛسہِ اَکوے مَہ کٔرِو ٹارگِٹ، تہٕ جَوآبن کٔرِو گُفتگوٗ ہُنٛد وَتھ، نہٕ کہ آزمٲیش۔"
+  - q: "ڈیمینشیا ٹریویا خٲطرٕ کَم مَضموٗن چھِ واریاہ رُت کام کران؟"
+    a: "واریاہ کال برونٛہہ سِکھِمَتؠ چیٖز چھِ عام طور واریاہ رُت کام کران: تِم مَشہوٗر گِیت تہٕ گایَک یِم سُہ شخص جوانی مَنٛز بوزان اوس، مَعاروٗف مَثَل، تہوار، کھؠن، کھیل، تہٕ روزانٕہ زندگی یِتھہٕ پٲٹھؠ دۅدٕچ ڈلیوری تہٕ رَوٹیری فون۔ تازٕ خَبَر یا تِم چیٖز یِمن خٲطرٕ سیشن مَنٛز برونٛہہ کانٛہہ چیٖز یاد تھاونٕچ ضروٗرَت آسِہ، تِم مَہ تھٲوِو۔"
+  - q: "بہٕ کیازِ چَلاوٕ کیئر ہومَس مَنٛز ٹریویا یُتھ کٲنٛسہِ شرمِندٕگی مَحسوس گَژھِ نہٕ؟"
+    a: "پرٛتھ سَوال پٔرِو پوٗرٕ گُرپَس، اِنتِخاب ہٲوِو یا ؤنِو، تہٕ کٲنٛسہِ ہُنٛد تہِ جَوآب کٔرِو خٲر مَقدَم۔ اَفرادن مَہ کٔرِو الگ ٹارگِٹ تہٕ نَہ تھٲوِو نَمبَر۔ جَوآب ؤنِو مُسکراہٹ سان، خواہ کانٛہہ تہِ اَنُمانہٕ آسِہ، تہٕ پَتہٕ پٕرٛژِھو اَکھ سَوال یِتھہٕ پٲٹھؠ: «یِتہِ کَس کَس چھُ زانٛہہ ڈرایِو اِنَس پؠٹھ گَژھمُت؟» یُتھ یہِ دٔلیلَن مَنٛز بَدلاوِہ۔"
+  - q: "مَتقدم مَرحَلَن مَنٛز ٹریویا بدلِہ بہٕ کیا ہیکہٕ کٔرِتھ؟"
+    a: "تِمَن سَوالَن کُن پٔکِو یِمن مَنٛز کانٛہہ غَلَط جَوآب چھُ نہٕ، یِتھہٕ پٲٹھؠ «کاہوَہ یا چائے؟» یا «سَمُندر یا پَہاڑ؟»، تہٕ وچھنہٕ آمٕتؠ مَثَل یا گِیت مِلِتھ پوٗرٕ کٔرِو۔ تصویٖرَن کُن وُچھُن تہٕ تِمن مُتلِق مِلِتھ وَنُن تہِ چھُ واریاہ رُت۔"
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+ٹریویا چھُ کیئر ہومَن تہٕ دَے پروگرامَن مَنٛز اَکھ واریاہ مَنگَنہٕ یِنہٕ واجِن سَرگَرمی، تہٕ واریاہ خاندان چھِ یہِ کِچَن میزَس پؠٹھ تہِ کھیٚلان۔ عام طٔریٖقہٕ سان، نَمبَرَن تہٕ اَکوے شخصہٕ سٟتؠ جَوآب دِنہٕ سٟتؠ، ہیکِہ یہِ ڈیمینشیا سان رہَن وٲلِس شخصَس دَباؤ مَحسوس کَراوِتھ۔ نَرمی سان چَلاونہٕ سٟتؠ چھُ یہِ دٔلیل بوزنُک اَکھ خۅشگوار وَتھ۔ بۄنہٕ کَنہِ چھِ ۵۰ آسان سَوال جَوآبی اِنتِخابَن تہٕ پرٛتھ سَوال خٲطرٕ گُفتگوٗ ہُنٛد اَکھ نُکتہٕ، تہٕ پَتہٕ چھُ ونان زِ سیشن کیازِ چَلاوُن۔
 
-## How do you make trivia work for someone with dementia?
+## ڈیمینشیا سان رہَن وٲلِس شخصَس خٲطرٕ ٹریویا کیازِ بَناوٕ مفید؟
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+یہِ بَنٲوِو واریاہ برونٛہِم چیٖز پَرٕزناونُک تہٕ یاد کرنُک، تہٕ پرٛتھ جَوآب کٔرِو خٲر مَقدَم۔
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **واریاہ برونٛہِم وَقتُک پٕرٛژِھو۔** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) چھُ ونان زِ الزائمرٕچ اَکھ عام گۅڈنِچ نِشٲنی چھِ نٔو سِکھِمَتؠ چیٖز یاد تھاونَس مَنٛز دِقَت۔ دہَن ؤرِیَن برونٛہِم گِیت، مَثَل تہٕ روزانٕہ زندگی چھِ اَکسَر آسان آسٕنۍ۔
+2. **ہمیشہٚ دِیِو اِنتِخاب۔** دۅ یا ترٛیَن مَنٛز صحیح جَوآب چُنُن چھُ کانٛہہ چیٖز آوُر یاد کرنہٕ کھوتہٕ واریاہ آسان۔
+3. **سَوال بٔڈِ آوازِ مَنٛز پٔرِو تہٕ بڈَن اَکھرن مَنٛز ہٲوِو۔** وائٹ بورڈ یا ہَتھس مَنٛز تھووُن ٹیبلیٹ چھُ تِمن لُکن مَدَت کران یِمن کم بوزنہٕ یِوان چھُ۔
+4. **جَوآب آزادانہٕ ؤنِو۔** اگر کٲنٛسہِ پَے آسِہ نہٕ، تیٚلہِ ؤنِو نَرمی سان تہٕ برونٛہہ پٔکِو۔ زانٛہہ مَہ ؤنِو: «توہیہِ چھُ یہِ پَے، ژیٚ کٔرِو کوٗشِش۔»
+5. **نَمبَر مَہ تھٲوِو۔** نَہ اَفرادن خٲطرٕ تہٕ نَہ میزَن خٲطرٕ۔ اگر لُکھ کانٛہہ نَمبَر یژھان آسن، تیٚلہِ تھٲوِو صرف اَکھ گُرپی نَمبَر۔
+6. **کٲنٛسہِ اَکوے مَہ کٔرِو ٹارگِٹ۔** جَوآب دِیِو کٲنٛسہِ تہِ یِن۔ اَکِس اَکِس مَنٛز کٔرِو مِلِتھ جَوآب: «میٚ چھُ باسان پیانو۔ تُہُنٛد کیا خیال چھُ؟»
+7. **گُفتگوٗ ہُنٛد نُکتہٕ کٔرِو اِستِمال۔** جَوآب چھُ شروٗعات، اِختِتام نہٕ۔ اصلی مَقصَد چھِ دٔلیل۔
+8. **مختصر تھٲوِو۔** دٔہ سَوال، یِمن مَنٛز باگ دٔلیل آسَن، چھِ واریاہ۔
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھُ بُنیٲدی أُصول سادٕ سان ونان: پریشٲنی ہُنٛد خیال تھٲوِو تہٕ یہِ یقین بَنٲوِو زِ تَس شخصَس گَژھِ کامیٲبی مَحسوس۔ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھُ ٹریویا گۅڈنِکہِ مَرحَلٕچ سَرگَرمی ہِیوٚند گِنٛزران۔ دٔرمیٲنی مَرحَلَس مَنٛز تھٲوِو صرف دۅ اِنتِخاب تہٕ گُفتگوٗ ہٕندؠن نُکتن پؠٹھ کٔرِو بھروسہٕ۔ پَتہٕ، مَتقدم مَرحَلَس مَنٛز پٔکِو بۄنہٕ دِنہٕ آمٕتؠن «یہِ یا سُہ» سَوالَن کُن۔
 
-## Music and entertainment trivia
+## موسیٖقی تہٕ تفریحی ٹریویا
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+جَوآب چھُ **ڈارک** (گۅڈ) اَکھرن مَنٛز۔ یِم سَوال کٔرِو سُہ شخصہٕ سٟتؠ مُوافِق: یَس شخصَس جوانی مَنٛز Motown بوزنہٕ آمُت آسِہ، تَس آسَن الگ گایَک پسند بییہِ کٲنٛسہِ یَس big band بوزنہٕ آمُت آسِہ۔
 
-| Question | Choices | Talk about |
+| سَوال | اِنتِخاب | گُفتگوٗ خٲطرٕ |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| کَس آو «راک اینڈ رول ہُنٛد بادشاہ» وَننہٕ؟ | **Elvis Presley**، Frank Sinatra، Bing Crosby | کیا تۄہیہِ چھُ زانٛہہ Elvis ٹی وی پؠٹھ وُچھمُت؟ |
+| کَمِس گایَکَس آو «Ol' Blue Eyes» وَننہٕ؟ | Dean Martin، **Frank Sinatra**، Perry Como | تُہُنٛد پسندیدٕ Sinatra گِیت کُس چھُ؟ |
+| Bing Crosby اوس اَکہِ سفید… ہُنٛد خواب وُچھان | **کرسمَس (Christmas)**، خاندَر، گرٕ | اَکھ سٔتر مِلِتھ گٲوِو |
+| Louis Armstrong چُھ گاوامُت «What a Wonderful…» | Day، **World**، Life | تُہندِ خٲطرٕ کیا بنٲوِ دُنیاہٕ خۅبسوٗرَت؟ |
+| «Over the Rainbow» گِیت کَمہِ فِلمہِ مَنٛز Judy Garland گیوومُت؟ | **The Wizard of Oz**، Gone with the Wind، Singin' in the Rain | تۄہیہِ کَتہِ وُچھیوٚ تُہٕنز پسندیدٕ فِلِمہٕ؟ |
+| «I Love Lucy» مَنٛز Lucy ہُنٛد کِردار کَمہِ کٔرمُت؟ | **Lucille Ball**، Doris Day، Betty White | تُہُنٛد خاندان کَم پروگرام مِلِتھ وُچھان اوس؟ |
+| کَم کاوبوائے اوس Trigger ناوَک گُر سوٗر سَوار؟ | **Roy Rogers**، Gene Autry، John Wayne | کیا تۄہیہِ آسو بچپنَس مَنٛز کاوبوائے بنِتھ کھیٚلان؟ |
+| «The Tonight Show» کَمہِ ۳۰ ؤرِیَن میزبان کٔر؟ | Ed Sullivan، **Johnny Carson**، Bob Hope | کیا تۄہیہِ آسوٕ دیر راتَس تام ٹی وی وُچھان؟ |
+| کَمہِ سازَس چھِ ۸۸ کیز؟ | گِٹار، **پیانو**، ٹرمپِٹ | کیا تُہندِس خاندانَس مَنٛز اوس کانٛہہ ساز بجاوان؟ |
+| کَم ناچ چھُ اَکھ-زٕ-ترٛے، اَکھ-زٕ-ترٛے گِنٛزراونہٕ یِوان؟ | **والٹز (Waltz)**، ٹوِسٹ، ٹانگو | تۄہیہِ کَتہِ آسوٕ ناچَن گَژھان؟ |
 
-For more on music, see [music activities for dementia](/activities/music/).
+موسیٖقی ہٕندؠن بییہِ سَرگَرمِیَن خٲطرٕ وُچھِو [ڈیمینشیا خٲطرٕ موسیٖقی سَرگَرمِیہٕ](/activities/music/)۔
 
-## Everyday life trivia
+## روزانٕہ زندگی ہٕنز ٹریویا
 
-| Question | Choices | Talk about |
+| سَوال | اِنتِخاب | گُفتگوٗ خٲطرٕ |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| فرِجَن برونٛہہ آسن واریاہ گرَن مَنٛز کھؠن ٹھنڈٕ تھاونہٕ خٲطرٕ اَکھ… | **بَرٕف سَندوٗق (Icebox)**، اووَن، اَٹیک | بَرٕف کُس اوس اَناوان؟ |
+| شیشٕچ بوتلن مَنٛز دۅد کُس اوس دَروازَس تام واتناوان؟ | ڈاکِیہِ، **دۅد واتناوَن وول**، اَخبار واتناوَن وول | بییہِ کیا کیا اوس گرِ یِوان؟ |
+| رَوٹیری فون کیازِ آسوٕ ڈایَل کران؟ | بَٹَن دَباوِتھ، **چَکھر گھُماوِتھ**، اَتھ سٟتؠ کَتھ کٔرِتھ | پننِس گرُک فون میٚ ؤنِو |
+| Model T کار کَمہِ کَمپَنی بناو؟ | **Ford**، Chevrolet، Buick | کانٛہہ پسندیدٕ کار مُتلِق ؤنِو |
+| «سوڈا جَرک» کَتہِ آسن مِلان؟ | **سوڈا فاؤنٹَنَس پؠٹھ**، بیکری مَنٛز، بینکَس مَنٛز | کاونٹرَس پؠٹھ کیا آسوٕ منگاوان؟ |
+| کُس کھلونہٕ چھُ اَکھ دھٲتُک سِپرِنگ یُس سیٖڑِیَن پؠٹھہٕ بۄنہٕ پٔکِتھ ہیکِہ؟ | یو-یو، **سلِنکی (Slinky)**، ہُولا ہُوپ | تُہندؠ پسندیدٕ کھلونہٕ کَم آسن؟ |
+| ڈرایِو اِن (Drive-in) اوس سُہ جایِ یَتہِ لُکھ… وُچھان آسن | **پننِہ کارِ مَنٛز فِلِمہٕ**، بال گیمہٕ، جلوس | تۄہیہِ کَمہِ سٟتؠ آسوٕ گَژھان؟ |
+| اَکہِ ڈالرٕچہِ نوٗٹِ پؠٹھ کَمہِ سُنٛد بُتھ چھُ؟ | Lincoln، **George Washington**، Jefferson | تَمہِ وَقتہٕ کِس اَکہِ ڈالر سٟتؠ کیا یِہِ ہیکان ہیٚوان؟ |
+| پینی (penny) پؠٹھ کَمہِ سُنٛد بُتھ چھُ؟ | **Abraham Lincoln**، Washington، Franklin | کیا تۄہیہِ آسوٕ تَمہِ وَقتہٕ پینی جٔرَس مَنٛز جَما کران؟ |
+| سکول بَس عام طور کَم رَنگٕچ آسِہ چھِہ؟ | وُزُل، **لیدُر**، نیوٗل | تۄہیہِ کیازِ آسوٕ سکولس گَژھان؟ |
 
-## Holidays, nature and places
+## تہوار، قُدرَت تہٕ جایِہ
 
-| Question | Choices | Talk about |
+| سَوال | اِنتِخاب | گُفتگوٗ خٲطرٕ |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| نومبرٕک ژورِم خَمیٖس کَم تہوار چھُ؟ | Labor Day، **تھینکس گِوِنگ (Thanksgiving)**، Memorial Day | تُہنزِ میزِ پؠٹھ کیا آسِہ ہمیشہٚ؟ |
+| جیک-او-لینٹرن کَمہِ تہوار خٲطرٕ چھِ بَناونہٕ یِوان؟ | **ہالووین (Halloween)**، ایسٹر، کرسمَس | میٚ ؤنِو زِ بچپنَس مَنٛز ہالووین کیازِ آسِہ |
+| ژۄرِم جولای چھُ آزادِی ہُنٛد اِعلان… مُبارَک مناونہٕ یِوان | حقوقَن ہُنٛد، **آزادِی ہُنٛد (Independence)**، آزادی ہُنٛد | تۄہیہِ کَتہِ آسوٕ آتَش بازی وُچھان؟ |
+| ماجِ ہُنٛد دۅہ کَمہِ رؠتَس مَنٛز چھُ؟ | اپریل، **مٔی**، جوٗن | تُہُنٛد خاندان کیازِ اوس یہِ مناونہٕ یِوان؟ |
+| امریکی جھنڈَس پؠٹھ کاتِہ ستارٕ چھِ؟ | 48، **50**، 52 | جھنڈَس آسن 1959 تام 48 ستارٕ۔ دۅشوے جَوآب چھِ اَکھ رٕژ یاد دِوان |
+| مشرقی ساحلَس پؠٹھ کُس سَمُندر چھُ؟ | Pacific، **Atlantic**، Arctic | کیا تۄہیہِ چھُو زانٛہہ سَمُندر کِنارٕ گَژھمُت؟ |
+| آزٲدی ہُنٛد مُجَسمہٕ کَمہِ شَہرَس مَنٛز چھُ؟ | Boston، **نیو یارک**، Philadelphia | کیا تۄہیہِ چھُو زانٛہہ نیو یارک گَژھمُت؟ |
+| مَچھ کیا بناوان چھِ؟ | دۅد، **ماچھ**، ریشَم | ٹوسٹَس پؠٹھ یا چایِہ مَنٛز ماچھ؟ |
+| گاوِ ہُنٛد بچہٕ کُس چھُ وَننہٕ یِوان؟ | Foal، **وۅچھ (Calf)**، Kid | کیا تۄہیہِ چھُو زانٛہہ کھیٚوَس نکھہٕ روٗزمُت؟ |
+| کُس زیوٗٹھ لیدُر پوٗش چھُ آفتابَس کُن پِھرنہٕ خٲطرٕ مَشہوٗر؟ | گُلاب، **آفتاب پرست (Sunflower)**، ٹولِپ | تُہندِس باغَس مَنٛز کیا اوس کھسان؟ |
+| لیپ ؤرِیَس مَنٛز کاتِہ دۅہ چھِ؟ | 365، **366**، 360 | کانٛہہ اَکھ زٕ دۅہ ہُنٛد وَنُن یُس تُہندِ یاد آسِہ |
+| وَندٕ پَتہٕ کَم رُت چھُ یِوان؟ | ہَرُد، **سونٛتھ**، رؠتہٕ کال | تُہُنٛد پسندیدٕ رُت کُس چھُ؟ |
 
-## Food and sports trivia
+## کھؠن تہٕ کھیلٕچ ٹریویا
 
-| Question | Choices | Talk about |
+| سَوال | اِنتِخاب | گُفتگوٗ خٲطرٕ |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| کِشمِش چھِ ہۅکھِمٕتؠ… | آلوٗچہٕ، **دَچھ**، گِلاس | کیا تۄہیہِ آسوٕ لَنچَس مَنٛز کِشمِش تھٲوان؟ |
+| آلوٗ بُخارٕ چھِ ہۅکھِمٕتؠ… | **آلوٗچہٕ**، اَنٛجیر، ژوٗنٹھ | تُہندِس خاندانَس مَنٛز کَس اوس آلوٗ بُخارٕ پسند؟ |
+| مونگ پھٔلی ہُنٛد مَکھَن تہٕ… | **جیلی (Jelly)**، پنیر، ہیم | کُرکُر یا مۄم؟ |
+| گواکامولہٕ چھُ زیادٕ تر… سٟتؠ بَنان؟ | مَٹَر، **ایوکیڈو**، کَکھڑی | مَہفِلن مَنٛز کَم ڈِپ آسن یِوان؟ |
+| تھینکس گِوِنگَس پؠٹھ کَم پایِ چھِ واریاہ پسند؟ | **کدوٕ (Pumpkin)**، لیموٗ، چیری | تۄہیہِ کَم پایِ آسوٕ بَناوان؟ |
+| بیس بال ٹیمِ ہٕندؠ کاتِہ کھلاڑی چھِ میدانَس مَنٛز آسان؟ | 7، **9**، 11 | تۄہیہِ کَمہِ ٹیمِچ حِمایَت آسوٕ کران؟ |
+| بیس بالَس مَنٛز کاتِہ سٹرایِک بناوان چھِ آؤٹ؟ | زٕ، **ترٛے**، ژور | کیا تۄہیہِ چھُو زانٛہہ بال کھیٚلومُت؟ |
+| Babe Ruth کَمہِ کھیلِ خٲطرٕ اوس مَشہوٗر؟ | مُکے بازی، **بیس بال**، گالف | کیا تۄہیہِ آسوٕ بال گیم وُچھنہٕ گَژھان؟ |
+| اَکہِ عام گالف کورسَس پؠٹھ کاتِہ سوراخ (ہول) چھِ آسان؟ | 9، **18**، 24 | کیا تۄہیہِ چھُو زانٛہہ گالف یا مِنِی گالف کھیٚلومُت؟ |
+| کَمہِ کھیلَس مَنٛز چھِ ٹَچ ڈاؤن بنٲوِتھ نَمبَر ہیٚوان؟ | **فُٹ بال**، ہاکی، باسکٹ بال | تُہندِس گرِ کُس اوس فُٹ بال وُچھان؟ |
 
-## Familiar sayings
+## مَعاروٗف مَثَل
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+مَثَل پوٗرٕ کرٕنۍ چھِ تَمہِ زَبانَس پؠٹھ دارَوَمَد یۄسہٕ واریاہ برونٛہہ سِکھنہٕ آمٕژ آسِہ، تہٕ یہِ چھِ اَکسَر آسان یِوان۔ سٲنِس [مَثَل پوٗرٕ کٔرِو](/games/finish-the-saying/) گیمَس مَنٛز چھِ بییہِ واریاہ، پرٛتھ اِختِتام وُچھنہٕ خٲطرٕ اَکھ ٹیپ سٟتؠ۔
 
-| Saying | Choices | Talk about |
+| مَثَل | اِنتِخاب | گُفتگوٗ خٲطرٕ |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| ہَر دۅہ اَکھ ژوٗنٹھ تھٲوِو… دوٗر | **ڈاکٹرس**، روٗدس، برؠرِس | یہِ کُس اوس تُہیہِ ونان؟ |
+| سُلہٕ وۅتھن وول نِنگَل چھُ… رَٹان | بَس، **کِیٚم**، ریل | کیا تۄہیہِ چھُو صُبحَس وۅتھن وٲلؠ؟ |
+| آنڈَن ہٕنز گِنزٲری تِمن… برونٛہہ مَہ کٔرِو | **نیرنہٕ**، نِندرِ، گاونہٕ | کیا تُہندِس خاندانَس آسن ککرٕ؟ |
+| بَچاومُت اَکھ پَیسہٕ چھُ اَکھ پَیسہٕ… | **کَموومُت**، راوومُت، خرچ کٔرمُت | تُہندِس خاندانَس مَنٛز کُس اوس بَچاوان؟ |
+| گرٕ چھُ تَتہِ یَتہِ… چھُ | باغ چھُ، **دِل چھُ**، کِچَن چھِہ | کانٛہہ جایِ گرٕ ہِیوٚند کیازِ بناوان چھِہ؟ |
+| دیر گَژُھن چھُ… کھوتہٕ بہتر | جلدی، **زانٛہہ نہٕ گَژھنہٕ**، افسوس | کُس اوس ہمیشہٚ دیر کران؟ |
+| پرٛتھ اوبُرَس چھُ اَکھ روٗپھ… | **کِنارٕ**، ژھۄنچ، سِکہٕ | کانٛہہ خۅش قِسمتی ہٕنز دٔلیل ؤنِو |
+| عمل چھِ… کھوتہٕ زورٕ وَر | **لَفظَن**، موسیٖقی، گرٛیژِ | کٲنٛسہِ تِم سٟتؠ ؤنِو یُس یہِ ونان اوس |
 
-## This-or-that questions with no wrong answer
+## «یہِ یا سُہ» سَوال، یِمن مَنٛز کانٛہہ غَلَط جَوآب چھُ نہٕ
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+یِم چھِ پرٛتھ مَرحَلَس خٲطرٕ مُناسِب، مَتقدم مَرحَلَن مَنٛز تہِ، تِکیازِ یِمن مَنٛز کِہِنؠ چھُ نہٕ غَلَط گَژھنُک۔ پٕرٛژِھو، بوزِو، تہٕ پنُن جَوآب تہِ ؤنِو۔
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- کاہوَہ یا چائے؟
+- سَمُندر یا پَہاڑ؟
+- ہوٗن یا برؠر؟
+- رؠتہٕ کال یا وَندٕ؟
+- پایِ یا کیک؟
+- ناچُن یا وُچھُن؟
+- آفتاب خٲرُن یا آفتاب لوسُن؟
+- برونٛہِم وُر یا پٔتِم وُر؟
+- ریڈیو یا ریکارڈ؟
+- پینکیک یا آنڈٕ؟
+- گُلاب یا ڈیزی؟
+- ریل سَفَر یا سڑک سَفَر؟
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+تصویٖرن سٟتؠ گُفتگوٗ ہٕندؠن سَوالَن خٲطرٕ کٔرِو سٲنۍ چھاپَنہٕ یِنہٕ واجِن [گُفتگوٗ کارڈ](/games/conversation-cards/) اِستِمال۔
 
-## How do you run a trivia session in a care home or group?
+## کیئر ہومَس یا گُرپَس مَنٛز ٹریویا سیشن کیازِ چَلاوُن؟
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **لُکھ تِتھہٕ پٲٹھؠ بِہٲوِو یُتھ تِم وُچھِتھ تہٕ بوزِتھ ہیکَن۔** کَنَن ہٕنز مَشین لاگِتھ، أچھ لایِتھ، ٹی وی بَنٛد۔
+2. **یہِ اَکھ گُفتگوٗ ہِیوٚند کٔرِو شروٗع۔** «میٚ چھِ پرٛانہٕ دۅہن مُتلِق کینہہ سَوال، تہٕ میٚ چھُ یقین زِ تُہیہِ چھُ میٚ کھوتہٕ واریاہ زیادٕ پَے۔»
+3. **پرٛتھ سَوال پٔرِو دۅ لٹہِ تہٕ اِنتِخاب ہٲوِو بڈَن اَکھرن مَنٛز۔**
+4. **کَمَرِ کُنی جایِہ پیٹھہٕ یِنہٕ وٲلِس جَوآبَس کٔرِو خٲر مَقدَم۔** رُت جَوآب دۅہرٲوِو یُتھ سارِنؠ بوزنہٕ یِیِہ۔**
+5. **سارِنؠ خٲطرٕ ؤنِو جَوآب،** پَتہٕ پٕرٛژِھو گُفتگوٗ ہُنٛد نُکتہٕ پوٗرٕ کَمَرَس۔
+6. **ماحولُک خیال تھٲوِو۔** اگر اَکہِ سَوالہٕ پؠٹھ دٔہ مِنٹَن ہٕنز دٔلیل شروع گَژھِ، تیٚلہِ گَژھن دِیِو۔
+7. **اَکہِ گِتہِ سٟتؠ یا اَکہِ «یہِ یا سُہ» راؤنڈ سٟتؠ کٔرِو خَتم،** یُتھ پرٛتھ کٲنٛسہِ کِہِنؠ آسان چیٖز پؠٹھ خَتم کرِ۔
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+بییہِ گُرپی طٔریٖقن خٲطرٕ، یِتھہٕ پٲٹھؠ تصویٖر بِنگو تہٕ مِلِتھ گاون، وُچھِو [کیئر ہومَن خٲطرٕ گُرپی سَرگَرمِیہٕ](/activities/care-home-groups/)۔
 
-## When to change the plan
+## ییلہِ مَنصوٗب بَدلُن ضروری آسِہ
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+اگر کٲنٛسہِ پریشان باسان بوزِیوٚ، خاموش گَژھِہ یا اَکہِ کھوتہٕ زیادٕ وَنہِ «مےٚ چھُ نہٕ پَے»، تیٚلہِ کٔرِو یہِ آسان: دۅن اِنتِخابَن تام وَسِو، مِلِتھ کٔرِو جَوآب، یا «یہِ یا سُہ» سَوالَن کُن پٔکِو۔ اگر گُرپ اَکے سَوالَس پؠٹھ پوٗر دوٗہ دٔلیل کرُن یژِھہ، تیٚلہِ چھُ یہِ کامیٲبی۔ مَقصَد آسنہٕ زانٛہہ صحیح جَوآب۔ مَقصَد اوس رٕژ سٲتھس مَنٛز کینہہ وَقت گزارُن۔

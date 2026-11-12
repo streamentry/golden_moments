@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Huner û Karên Destan ji bo Mezinên bi Demansê"
+seoTitle: "Huner û Karên Destan ji bo Demansê: Ji bo Mezinan"
+description: "Ramanên huner û karên destan ji bo kesên ku bi demansê dijîn, ji rengên avê û kolajê bigire heya rêzkirina kulîlkan, bi şîretên amadekirin û lihevhatinê."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Huner û karên destan ên baş ji bo mezinên ku bi demansê dijîn, wekî karên
+  mezinan xuya dikin û wisa têne hîskirin: rengên avê, kolaj ji kovaran,
+  rêzkirina kulîlkan, gil, çêkirina kartên sade an rûpelên rengînkirinê yên ji
+  bo mezinan. Çend amûr amade bikin, heke pêwîst be di xêza yekem de alîkariyê
+  bikin, dema ku hûn bi hev re dixebitin sohbet bikin, û wextê ku hûn bi hev re
+  derbas dikin wekî armanca sereke bibînin. Temamkirina karekî vebijarkî ye.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Amûr û mijarên ku wekî yên mezinan xuya dikin hilbijêrin, wek kaxeza rengên avê, kulîlkên rastîn û wêneyên kovaran, ne birûsk, stîker an pelên kar ên kartonan."
+  - "Li ser pêvajoyê bisekinin: reng, hesta gil, sohbet. Karekî temamkirî xelatek e, ne armanc."
+  - "Dema ku gengaz be, armancekê bidin, wek kartek ji bo nevîyekî an xemlek ji bo maseyê."
+  - "Alîkariya kesê bikin ku dest pê bike, paşê piçekî paşde vekişin. Gelek caran destpêkirina xêzekê bi hev re bes e."
+  - "Ne hewce ye ku projeyên di yek rûniştinê de temam bibin, û rawestana zû her dem baş e."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Ez çawa dikarim karên destan wekî tiştên zarokan nehînim?"
+    a: "Amûrên hunerî yên rastîn, mijarên ji bo mezinan û dengek rêzdar bi kar bînin. Li şûna birûsk û rûpelên kartonan, kaxeza rengên avê, qumaş, kulîlk, wêneyên kovaran û rûpelên rengînkirinê yên bi hûrgulî hilbijêrin. Qet pesnê karî wekî xêzkirina zarokekî nedin; wekî ku hûn bi her hevalekî mezin re diaxivin, wisa li ser biaxivin."
+  - q: "Kîjan çalakiyên hunerî di qonaxên paşîn ên demansê de baş dixebitin?"
+    a: "Di qonaxên paşîn de, projeyên sade û hestî çêtirîn dixebitin: xêzkirina xetên fireh bi firçeyek mezin, guhandina gilê nerm, rêzkirina çend kulîlkan di vazoyekê de, an li gorî hestê rêzkirina perçeyên qumaşê. Dibe ku hûn hewce bikin ku tevgerê bi hev re dest pê bikin. Temaşekirina we dema ku hûn reng dikin û axaftina li ser rengan jî rêyek e ji bo beşdarbûnê."
+  - q: "Ger ew bibêjin ku nikarin xêz bikin çi bikin?"
+    a: "Zextê rake. Projeyên bêyî bersivek rast an şaş biceribînin, wek rengên avê yên sivik, kolajek, an rêzkirina kulîlkan. Her weha hûn dikarin bibêjin ku ji bo tiştekî taybet alîkariya we hewce ye, wek hilbijartina rengan ji bo kartekê, da ku kar wekî alîkariyekê were hîskirin, ne wekî ceribandinekê."
+  - q: "Gelo rûpelên rengînkirinê ji bo mezinan pir wekî yên zarokan in?"
+    a: "Na, dema ku ew ji bo mezinan hatine çêkirin. Rûpelên bi mijarên mezinan wek baxçe, yorgan, erebe an dîmenan hilbijêrin, û wan wekî tiştek aramker pêşkêş bikin, ne wekî dersê. Rûpelên me yên rengînkirinê dikarin werin çapkirin an jî li ser tabletekê werin rengînkirin."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Huner û karên destan rêyekê didin kesên ku bi demansê dijîn ku xwe diyar bikin bêyî ku hewcedariya wan bi peyvên rast hebe. Alzheimer's Association destnîşan dike ku projeyên hunerî dikarin [hesteke serkeftin û armancê](https://www.alz.org/help-support/caregiving/daily-care/art-music) û derfetek ji bo xwedîderketinê bînin, hem ji bo kesê ku lênihêrînê dike û hem jî ji bo kesê bi demansê re. Ya girîng ew e ku tişt sade, wekî yên mezinan û bê zext bimînin. Ev rûpel projeyên taybet, awayê amadekirina wan û çawaniya lihevhatina wan dema ku rewş diguhere rave dike.
 
-## What makes an art activity adult and not childish?
+## Çi çalakiyeke hunerî wekî ya mezinan dike, ne ya zarokan?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Çalakiyeke hunerî ya ji bo mezinan amûrên rastîn, mijarên mezinan û dengek rêzdar bi kar tîne. Alzheimer's Association şîret dike ku proje di asta mezinan de bimînin û ji her tiştê ku dibe ku biçûkker an wekî ya zarokan xuya bike dûr bisekinin.
 
-| Feels childish | Feels adult |
+| Wekî ya zarokan tê hîskirin | Wekî ya mezinan tê hîskirin |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Birûsk, stîkerên kef, çavên lîstikê | Kaxeza rengên avê, qumaş, kulîlkên ziwa kirî |
+| Rûpelên rengînkirinê yên kartonan | Rûpelên rengînkirinê yên baxçe, yorgan, erebe an dîmenan |
+| Ji bo her nîşanekê pesnê «Pir baş e» | Sohbeta rastîn: «Ev şîn li kêleka kesk pir xweş xuya dike» |
+| Karê destan bêyî bikaranîn | Kartek ji bo hevalekî, xemlek, diyariyek |
+| Rêwerzên wekî dersê | Vexwendinek: «Tu dikarî di vê yekê de alîkariya min bikî?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Li tama kesê bifikirin. Kesek ku ji derziyê hez dikir dibe ku kêfa destlêdana li qumaşê bike. Endezyarekî teqawîtbûyî dibe ku ji komek modelê bi perçeyên mezin an rêzkirina amûran ji bo projeyekê hez bike. Mamosteyekî berê dibe ku ji çêkirina kartan kêfê bike.
 
-## Why focus on the process, not the product?
+## Çima li ser pêvajoyê bisekinin, ne li ser encamê?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Ji ber ku wextê ku hûn bi hev re derbas dikin armanca sereke ye. Rêbernameya Alzheimer's Association ya li ser [çalakiyên li malê](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) dibêje ku bala xwe bidin pêvajoyê, ne encamê. Wêneyek ku «tenê şîn» e dîsa jî wêneyek e. Kolajek bi sê wêneyan dîsa jî kolajek e.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Komelê her weha destnîşan dike ku hunermendekî pispor dibe ku ji guherînên di karê xwe de aciz bibe, lê kesekî ne-pispor dibe ku ji derfetek nû ya xwedîderketinê kêfê bike. Ger kes berê hunermendekî jêhatî bû, ji medyayeke cûda ji ya ku wî baş dizanibû biceribînin, da ku wekî lîstikê were hîskirin, ne wekî berawirdkirinê.
 
-## Arts and crafts ideas to try
+## Ramanên huner û karên destan ji bo ceribandinê
 
-Each idea includes how to make it simpler if it becomes hard.
+Her ramanek rave dike ka meriv çawa wê hêsantir dike ger dijwar bibe.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Rengên avê yên sivik.** Rûpelek kaxeza stûr a rengên avê şil bikin û bihêlin ku kes bi firçeyek mezin rengê bavêje ser wê. Reng bi xwe belav dibin, ji ber vê yekê encamek şaş tune ye. *Hêsantir:* tenê du rengan pêşkêş bikin, an jî li ser kaxezeke tarî bi avê reng bikin da ku nîşanên şil xuya bibin.
+2. **Kolaja kovaran.** Berê ji kovarên li ser baxçevanî, xwarinpêjandin, erebe, rêwîtî an hobiyên berê yên kesê wêneyan bibirin. Bihêlin ku ew wêneyan hilbijêrin û wan li ser kartonê bi zeliqokê ve girêdin. *Hêsantir:* çar wêneyên berê birî û zeliqokek pêşkêş bikin, û bi hev re zeliqandinê bikin.
+3. **Rêzkirina kulîlkan.** Alzheimer's Foundation of America pêşniyar dike ku [kulîlk û pelên birî](https://alzfdn.org/dementia-activity-gardening/) di pêşandanên sade û demsalî de werin rêzkirin. Vazoyek giran û aram û pelên berê birî bi kar bînin. *Hêsantir:* yek bi yek çend pelan têxin kûpek piçûk.
+4. **Kartên bi kulîlkên ziwa kirî.** Kulîlkên ji kulîlkdankekê ji bo hefteyekê di nav rûpelên pirtûkekê de ziwa bikin, paşê wan li ser kartona qatkirî bi zeliqokê ve girêdin. *Hêsantir:* hûn zeliqokê deynin, ew kulîlkê bitewîne.
+5. **Rûpelên rengînkirinê yên ji bo mezinan.** Rûpelên bi xetên zelal û mijarên rastîn hilbijêrin. [Rûpelên me yên rengînkirinê](/games/coloring/) yên ku têne çapkirin jî dikarin li ser ekranê bi tikandina li ser rengekê û paşê li ser perçeyek ji wêneyê werin rengînkirin. *Hêsantir:* deverên mezintir, rengên kêmtir, nîşankerên stûr.
+6. **Gil an hevîra nerm.** Gilê ku li hewa zuwa dibe an hevîra şêwekariyê ya nerm bizivirînin, bitewînin û şekl bidin. Bi pêlkirina pelekê li ser gilê hûn dikarin tilek sade çêkin. *Hêsantir:* tenê guhandin û zivirandin jî çalakiyek temam e. Bala xwe bidin ku kes gilê nexe devê xwe.
+7. **Çêkirina kartan.** Alzheimer's Association pêşniyar dike ku wê wekî karekî rastîn were pêşkêşkirin: «Em ji bo hevalekî kartekê dişînin. Tu dikarî alîkariya min bikî?» Kartonên berê birî û çend stîkerên bi kulîlkan an moran baş dixebitin.
+8. **Albûma bîranînan.** Kopiyên wêneyên kevn, kartpostal an bilêtan bi hev re li ser rûpelên albûmê deyne. Dema ku hûn wisa dikin, li ser her yekê biaxivin. Ji bo awayên nerm ên axaftina li ser boriyê, rêbernameya me ya [bîranînan](/activities/reminiscence/) bibînin.
+9. **Tabloyên qumaş û hestan.** Perçeyên qumaşê yên wek kordûroy, kadîfe, kendir û hevrîşim li ser kartona hişk bi zeliqokê ve girêdin. Çêkirina wê çalakî ye; destlêdana li ser paşê jî çalakiyeke din e. Ramanên zêdetir di rêbernameya me ya [çalakiyên hestî](/activities/sensory/) de hene.
+10. **Qedandina sade ya darê.** Ji bo kesek ku ji xebata darê hez dikir, şûştina perçeyek darê ya nerm an rengkirina komek maleke çivîkan dikare nas were hîskirin. Amûrên tûj rake û çavdêriyê bikin.
+11. **Rengkirin bi muzîkê.** Stranek an albûmek bijare lêxin û şekil an rengên ku bi hewayê re li hev dikin xêz bikin. Ev du çalakiyên ku gelek kes jê hez dikin bi hev re tîne. [Çalakiyên muzîkê](/activities/music/) bibînin.
 
-## How do I set up an art session?
+## Ez çawa danişîneke hunerî amade dikim?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Berê amade bikin.** Berî ku hûn kesê vexwînin, her tiştî bibirin, rêz bikin û amade bikin. Li bendê mana dema ku hûn li meqestan digerin dikare wê demê winda bike.
+2. **Biçûk bihêlin.** Du an sê reng, yek firçe, yek rûpel kaxez. Pir bijarde dikarin kesî tevlihev bikin.
+3. **Maseyê biparêzin.** Destmaleke plastîkî an çarşefeke kevn dibe sedem ku hûn ji qirêjiyê netirsin.
+4. **Li kêleka hev rûnên.** Li kêleka wî li ser perçeya xwe bixebitin. Ew wekî tiştek hevpar tê hîskirin, ne wekî çavdêrî.
+5. **Alîkariya wan bikin ku dest pê bikin.** Alzheimer's Association destnîşan dike ku dibe ku hûn hewce bikin ku tevgera firçeyê bi kesê re dest pê bikin. Gava ku dest pê kir, gelek kes berdewam dikin.
+6. **Dema ku hûn dixebitin biaxivin.** Li ser reng û hestan şîrove bikin, an jî bihêlin huner bibe sedema çîrokan. Ji pirsên wekî ceribandinê wek «Ev çi ye?» dûr bisekinin.
+7. **Wextê têra xwe bidin.** Ne hewce ye ku projeyek di yek rûniştinê de temam bibe.
 
-## How do I adapt art as dementia changes?
+## Ez çawa hunerê li gorî guherînên demansê lihevhatî dikim?
 
-| Stage | What tends to work | What to adjust |
+| Qonax | Tiştên ku bi gelemperî baş dixebitin | Tiştên ku werin guhertin |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Destpêk | Ders, rengînkirina bi hûrgulî, albûmên bîranînan, çêkirina kartan, rengkirin ji wêneyekê | Bijarteya projeyan pêşkêş bikin; wê civakî bihêlin |
+| Navîn | Kolaja berê birî, rengên avê yên sivik, rêzkirina kulîlkan, rengînkirina bi deverên mezin | Her carê yek gav; hûn birîn û zeliqandinê bikin |
+| Paşîn | Xêzên firçeyê yên fireh, guhandina gil, destlêdana li qumaşê, temaşekirina we dema ku hûn reng dikin | Li ser hestan bisekinin; heke bixwaze, bi nermî destê wî rêber bikin |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS pêşniyar dike ku di qonaxên paşîn de, çalakî bi gelemperî têne hêsankirin û li ser hestan disekinin. Temaşekirina kesekî din dema ku reng dike, û axaftina li ser rengan, rêyek rastîn e ji bo beşdarbûnê. Ji bo bêtir ramanên li gorî qonaxan, [çalakiyên ji bo her qonaxê](/activities/ideas/) bibînin.
 
-## Safety with art supplies
+## Ewlehî bi amûrên hunerî
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Reng, nîşanker û zeliqokên bêjehr hilbijêrin.
+- Meqes, kêrên karên destan û amûrên zeliqoka germ ji destê kesê dûr bihêlin. Her birînê berê û bi xwe bikin.
+- Bala xwe bidin kesên ku dibe ku gil, reng an tiştên piçûk bixin devê xwe.
+- Ji bo av û vazo konteynerên aram û giran bi kar bînin.
 
-## When should we stop?
+## Kengê em rawestin?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Dema ku baldariyê winda dibe an nîşanên acizbûnê xuya dibin rawestin. Alzheimer's Association pêşniyar dike ku dema baldariyê kêm dibe an acizbûn zêde dibe, çalakiyê biqedînin an biguherînin. Projeyê li cihê ewle deyne û tiştek aramker pêşkêş bikin. Hûn dikarin sibê li ser wê vegerin, an jî qet. Her du jî baş in.
 
-## Display the work, if the person wants
+## Ger kes bixwaze, karê nîşan bidin
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Daliqandina wêneyekî li ser sarincê an çarçovekirina kolajekê dikare rêyek bêdeng be ji bo nîşandana rêzgirtinê. Berê bipirsin. Hin kes ji dîtina karê xwe li ser dîwêr kêfxweş dibin; hinên din tercîh nakin.
 
-## Pair art with our games
+## Hunerê bi lîstikên me re bikin yek
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Di rojên ku amadekirina rengan pir dixuye de, [Coloring](/games/coloring/) li ser tabletekê bê qirêjî dixebite. [Picture Puzzle](/games/picture-puzzle/) tevahiya wêneyê wekî rêber xuya dihêle dema ku hûn perçeyan diguhezînin. [Conversation Cards](/games/conversation-cards/) pirsên vekirî pêşkêş dike ku dikarin ji wêneyekê bigihînin çîrokekê. Di hemûyan de demjimêr an xalek tune ye. Her weha hûn dikarin rûpelan ji berhevoka me ya [çalakiyên çapkirî](/activities/printable/) çap bikin.

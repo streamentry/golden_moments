@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Деменцияӧн олысь йӧзлы пазлъяс: серпас да кывъя пазлъяс"
+seoTitle: "Деменцияӧн олысь йӧзлы пазлъяс"
+description: "Кыдзи бӧрйыны серпас, кывъя да онлайн пазлъяс деменцияӧн олысь мортлы: юкӧнъяс, серпас, ыджыд шрифт да ӧтлаын вӧчӧм."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Деменцияӧн олысь мортлы бурджык пазл — сійӧ, кодӧс позьӧ помавны ичӧтик отсӧгӧн
+  да нимкодь вӧчигкоста гажӧдчыны. Бӧрйӧй этшаджык да ыджыдджык юкӧнъясӧн,
+  гӧгӧрвоана йӧзлы лӧсялана серпасӧн пазлъяс, видзӧдлӧй коробка вылын серпас
+  да медводз торйӧдлӧй дорса юкӧнъяссӧ. Кыв корсьӧм да кроссвордъяс бурджыкасьӧны
+  ыджыд шрифтӧн. Нёль юкӧнӧн кокни онлайн пазлъяс лӧсялӧны шӧр кадколастлы.
+  Дугдӧй, кор на нимкодь.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Бӧрйӧй серти, кыдзи уджалӧ, а абу статус серти: пазл кӧ сьӧкыд, видлӧй этшаджык юкӧнъясӧн."
+  - "Ыджыд, чорыд юкӧнъяс да торъя рӧма юкӧнъясӧн гӧгӧрвоана серпас кокниджык, сяысь посни юкӧнъяс да ыджыд енэж."
+  - "Йӧзлы лӧсялана серпасъяс колӧны: садъяс, кухняяс, машинаяс да пемӧсъяс, а абу мультфильмъяс."
+  - "Ӧтлаын вӧчӧм — медшӧртор. Сетӧй юкӧнъяс, торйӧдлӧй дорсӧ, видзӧдлӧй коробка вевт вылын серпас."
+  - "Ыджыд шрифтӧн кыв корсьӧм да 4 либӧ 9 юкӧнӧн кокни онлайн пазлъяс татшӧм сайт вылын донтӧг."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Кымын пазл юкӧн бурджык лӧсялӧ деменцияӧн олысь мортлы?"
+    a: "Ӧти правильнӧй лыд абу. Морт, коді водзӧ вӧчис 1000 юкӧнӧн пазлъяс, вермас водзӧ нимкодь вӧчны сёюрсӧн одзлань кадӧ, мукӧдлы бурджык лӧсялӧ дас гögör юкӧн. Пазл кӧ лоӧ сьӧкыд либӧ вӧчӧ ӧдйӧ, бӧрйӧй этшаджык юкӧнъясӧн. Миян онлайн «Picture puzzle» вылын эм 4 либӧ 9 юкӧн."
+  - q: "Серпас пазлъяс полезнӧй-ӧ деменцияӧн олысь йӧзлы?"
+    a: "Уна мортлы найӧ нимкодьӧсь, тӧдчана, коді радейтіс пазлъяс водзӧ. Пазл сетӧ киӧс удж, гӧгӧрвоана мог да серпас, коді йылысь позьӧ сёрнитны. Некод пазл эз петкӧдлы, мый сійӧ бурдӧдӧ либӧ дугдӧдӧ деменциясӧ, сідзкӧ бӧрйӧй найӧс гаж да ӧтлаын олан понда."
+  - q: "Мый вӧчны, кор морт оз нин вермы вӧчны серпас пазл?"
+    a: "Вӧчӧй сійӧс ичӧтджыкӧн да ёнджыка вӧчӧй ассьыныд: сетӧй ӧти юкӧн ӧтчыд, либӧ кольӧй сылы помасьны сӧмын бӧръя кымынкӧ юкӧн. Видлӧй 4 юкӧнӧн онлайн пазл, торйӧдӧй юкӧнъяссӧ рӧм серти либӧ сӧмын видзӧдлӧй дась серпас вылӧ ӧтлаын."
+  - q: "Кроссвордъяс да кыв корсьӧм лӧсялӧны-ӧ деменция дырйи?"
+    a: "Найӧ вермасны лӧсявны водзвыв кадколасӧ, ыджыд шрифтӧн. Кыв корсьӧм, кӧні кывъяс мунӧны сӧмын веськыд да улад, кокниджык, сыысь кӧні эм диагональ либӧ бӧрладор кывъяс. Лыддьӧй юалӧмъяссӧ либӧ кыв лыддьӧгсӧ гораӧн да вӧчӧй ӧтлаын."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Сёйӧм пызан вылын восьса серпас пазл — ӧтлаын вӧчны медкокни уджторйӧд пиысь. Ті верманныд пуксьыны ӧтлаын сёрнитӧмтӧг, серпас сетӧ тема сёрнитны, а бӧръя юкӧн пуктӧм босьтӧ бур кӧсйӧм. Но пазлъяссӧ колӧ вежны, кор деменция вежсьӧ. Вывті сьӧкыд пазл вермӧ лӧнь лунсӧ вежны ӧдйӧн. Тайӧ лист бокын висьталӧма, кыдзи бӧрйыны да дасьтыны серпас пазлъяс, кывъя пазлъяс да кокни онлайн пазлъяс, а сідзжӧ мый вӧчны, кор найӧ лоӧны сьӧкыдӧсь.
 
-## Are puzzles good for people with dementia?
+## Пазлъяс бурӧсь-ӧ деменцияӧн олысь йӧзлы?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Уна мортлы найӧ нимкодьӧсь, тӧдчана, коді радейтіс пазлъяс водзӧ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) лыддьӧ кыв корсьӧм, карта ворсӧм да пызан вылын ворсӧмъяс водзвыв кадколаслы лӧсялана уджторъяс пӧлӧн, а [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) висьталӧ планшет вылын онлайн ворсӧмъяс да пазлъяс йылысь кыдз ӧти ног уджалӧны.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Пазлъяс — абу бурдӧдан средство. Некод пазл эз петкӧдлы, мый сійӧ ньӧжмӧдӧ либӧ дугдӧдӧ деменциясӧ; миян [юрын ворсӧмъяс да деменция](/brain-health/brain-games/) гижӧд висьталӧ туялӧмъяс йылысь. Пазл вӧчны позьӧ сы понда, мый сійӧ вермӧ лоны нимкодь да гажӧда ӧтлаын олӧм кад. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) шуӧ тадзи: видзӧдлӧй гаж вылӧ, а абу мог вылӧ.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Кыдзи бӧрйыны серпас пазл деменцияӧн олысь мортлы?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Мед бӧрйӧмыс лоӧ сійӧ серти, мый мортлы нимкодь да кыдзи муніс бӧръя пазл, а абу статус ним серти.
 
-### Number of pieces
+### Юкӧн лыд
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Ӧти правильнӧй лыд абу. Морт, коді дыр кад чӧж вӧчис пазлъяс, вермас водзӧ нимкодь вӧчны сёюр юкӧнӧн пазл одзлань кадӧ, мукӧдлы бурджык лӧсялӧ дас гӧгӧр юкӧн. Практикаа правило: бӧръя пазл кӧ вӧлі сьӧкыд, бӧрйӧй джынйӧн этшаджык юкӧнӧн. Сійӧ кӧ помасис ӧдйӧн да морт кӧсйис водзӧ, содтӧй ичӧтик.
 
-### Piece size and feel
+### Юкӧн ыджда да кутӧм
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Ыджыдджык юкӧнъяс** кокниджык аддзыны, босьтны да бергӧдны.
+- **Сук да чорыд юкӧнъяс** бурджыка сулалӧны местаас да оз тшыкны усьӧм бӧрын.
+- **Матысмӧмтӧм веркӧс** чинтӧ югъялӧмсӧ лампа да ӧшинь улын.
+- **Энӧ бӧрйӧй вывті посни юкӧнъяс**, морт кӧ вермас пуктны торъяссӧ ӧмӧ, мый вермас лоны сёр demенция дырйи.
 
-### The picture
+### Серпас
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Йӧзлы лӧсялана темаяс.** Садъяс, кухняяс, важ машинаяс, гортса пемӧсъяс, саридз дор сикт, радейтана ворсӧм. Абу мультфильмъяс либӧ мыйкӧ, мый тыдалӧ чакот петкӧдлан моз.
+- **Торъя рӧма юкӧнъяс.** Гӧрд керка, лӧз пыж да турунвидз вӧлӧн кокниджык, сыысь енэж, коді тыртӧ пазл джынсӧ.
+- **Тӧдана да аслыспӧлӧс.** Места серпас, кӧні морт оліс, либӧ сылы радейтана уджтор сетӧ уна тема сёрнитны. Мукӧд печатайтана местаын позьӧ вӧчны семья серпассянь пазл.
 
-## How do you do a puzzle together?
+## Кыдзи вӧчны пазл ӧтлаын?
 
-Set it up so the person can get straight to the enjoyable part.
+Дасьтӧй тадзи, медым морт вермис дзик пыр зільны нимкодь юкӧнӧ.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Бӧрйӧй бур места.** Бур югӧр, пыдӧсса пукан, да пызан либӧ поднос, кӧні пазл вермас кӧйлыны.
+2. **Пукты пыр видзӧдӧм вылӧ коробка вевтсӧ**, медым ті кыкнаныд аддзылінныд сійӧс.
+3. **Бергӧдӧй юкӧнъяссӧ серпасладорӧ** заводитчигӧн.
+4. **Торйӧдлӧй дорса юкӧнъяссӧ** ассьыныд, либӧ медводз вӧчӧй гӧгра да кольӧй шӧрасӧ сылы.
+5. **Юклӧй юкӧнъяссӧ рӧм серти** кымынкӧ ляпкыд тартелькаӧ либӧ пызан вылӧ.
+6. **Сетӧй ӧти юкӧн ӧтчыд**, юкӧн чукӧр кӧ вывті уна. «Тайӧ, вермас лоны, керка юкӧн».
+7. **Сёрнитӧй серпас йылысь,** а абу удж мунӧм йылысь. «Тайӧ пыж нӧшта сэтшӧм жӧ, кутшӧм вӧлі менам батьӧслӧн».
+8. **Кольӧй сійӧс таладорӧ.** Вертӧй сы дорӧ кымынкӧ лун чӧж. Абу некутшӧм тэрмӧдӧм.
+9. **Дугдӧй бур кадӧ**, кор юкӧн пырис местаас, кор на нимкодь.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) вӧзйӧ отсавны мортлы заводитны, видзӧдны, оз-ӧ сійӧ ӧдйӧ, да лэдзны сылы сӧмын видзӧдны, тайӧ кӧ сылы бурджык. Сійӧ, кыдзи ті пуктанныд юкӧнъяс, да инданныд, кӧні вермас лоны мӧд юкӧн, — тожӧ пайын пуктӧм.
 
-## Easy online puzzles
+## Кокни онлайн пазлъяс
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Планшет вылын пазлйын эм ас пытшкӧс бурторъяс: вошӧм юкӧнъяс абуӧсь, ыджыд серпас тыртӧ экран, да пызансӧ оз ков весавны.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Миян донтӧг [Picture puzzle](/games/picture-puzzle/) торйӧдӧ серпас 4 либӧ 9 юкӧн вылӧ. Личкӧй кык юкӧнлы, медым вежны найӧс местаясӧн, дзикӧдз серпас лоӧ дзонь. Дась серпас тыдалӧ экран вылын веськыд отсӧг пыдди, таймер абу, да ті верманныд дугдыны кӧть кытчӧдз. Нёль юкӧн лӧсялӧ уна мортлы шӧр кадколасӧ, кор дорын эм отсасьысь.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Медся кокни серпасӧн ворсӧм понда видлӧй [Find the same](/games/find-the-same/), кӧні колӧ личкыны серпас вылӧ, коді лӧсялӧ вылын серпаслы, либӧ [Sort together](/games/sort-together/), кӧні серпасъяссӧ колӧ юклыны корзинаясӧ, шуам, кухня либӧ сад.
 
-## Word puzzles: word searches and crosswords
+## Кывъя пазлъяс: кыв корсьӧм да кроссвордъяс
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Кывъя пазлъяс лӧсялӧны найӧ мортлы, кодъяс пыр радейтлісны найӧс, тӧдчана, деменция водзвыв кадколасын.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Ыджыд шрифтӧн кыв корсьӧм.** Миян донтӧг [Word search](/games/word-search/) вӧдитчӧ ыджыд шыпасъясӧн да сӧмын ичӧтик лыд кывъясӧн, кодъяс мунӧны веськыд да улад, некор диагональӧн либӧ бӧрладор. Позьӧ ворсны экран вылын либӧ печатайтны.
+- **Лыддьӧй лыддьӧгсӧ гораӧн.** Ӧти морт лыддьӧ кыв, мӧд корсьӧ сійӧс. Позьӧ гырддзаавны сӧмын медводдза шыпассӧ.
+- **Ыджыд шрифтӧн кроссвордъяс** пазл книгаысь вермасны уджавны водзвыв кадӧ. Лыддьӧй юалӧмъяссӧ гораӧн, вӧдитчӧй ӧти ручкаӧн да гижӧй вочакывъяссӧ ӧтлаын. Кокни, ӧти темаысь кроссвордъяс бурджык, сьӧкыд кроссвордъясысь.
+- **Сёрнитӧй кывъяс йылысь.** «Сад» кыв вермӧ нуӧдны дас минут сёрнитӧм помидор йылысь.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Содтӧд кабала вылын уджторъяс да кыдзи печатайтны найӧс, медым найӧ вӧліны кокни аддзыны да кутны, видзӧдлӧй [дон тӧг печатайтана деменция уджторъяс](/activities/printable/) лист бокысь.
 
-## Which puzzles suit each stage?
+## Кутшӧм пазлъяс лӧсялӧны быд кадколаслы?
 
-Stages overlap, and good and hard days are normal.
+Кадколасъяс вӧтлӧны, да бур да сьӧкыд лунъяс — тайӧ гӧгӧрвоана.
 
-| Stage | Puzzles that often fit | Your role |
+| Кадколас | Кутшӧм пазлъяс тӧдчана лӧсялӧны | Тіян роль |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Водзвыв | Тӧдана серпас пазлъяс, но этшаджык юкӧнъясӧн, водзсяысь, ыджыд шрифтӧн кроссвордъяс да кыв корсьӧм, 9 юкӧнӧн онлайн пазлъяс | Ёрт: лэдзлӧй сылы бӧрйыны, отсалӧй корӧм серти |
+| Шӧр | Дас гӧгӧр ыджыд юкӧнӧн серпас пазлъяс, 4 юкӧнӧн онлайн пазлъяс, гораӧн лыддьӧмӧн кыв корсьӧм | Дасьтӧй, торйӧдлӧй юкӧнъяссӧ, сетӧй ӧти юкӧн ӧтчыд |
+| Бӧръя | Дась серпас вылӧ ӧтлаын видзӧдӧм, кык серпасӧн Find the same, кымынкӧ ыджыд юкӧнӧн вӧдитчӧм | Вайӧй сійӧс сылы дорӧ; тіян ӧтлаын оланныд — тайӧ и уджтор |
 
-## When should you make a puzzle easier, or stop?
+## Кор колӧ вӧчны пазлсӧ кокниджыкӧн либӧ дугдыны?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Видзӧдлӧй: морт лолалӧ, чургӧдӧ юкӧнъяссӧ бокӧ, пыр шуӧ «ог вермы» либӧ тыдалӧ повзьӧм. Тайӧ петкӧдлӧ, мый колӧ мыйкӧ вежны, а абу водзӧ нуӧдны.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Вӧчӧй ичӧтджыкӧн.** Этшаджык юкӧнъяс, либӧ кольӧй сылы сӧмын бӧръя кымынкӧ юкӧн.
+- **Вӧчӧй ёнджыка ассьыныд** да корӧй сійӧс отсавны кокни юкӧнас.
+- **Вежӧй матіся нин удж вылӧ:** торйӧдӧй юкӧнъяссӧ рӧм серти, 4 юкӧнӧн онлайн пазл либӧ [серпас гижӧм](/games/coloring/).
+- **Дугдӧй.** Бокӧ пуктӧй пазлсӧ да юӧй чай. Ті верманныд бӧр бергӧдчыны мӧд лунӧ, либӧ оз ков мӧдысь.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Пазлъяс кӧ заводитӧны казьтыштны сьӧкыдторсӧ, бур лэдзны найӧс. Эм уна мӧд ног бур кад ӧтлаын ортсытны; миян [101 уджтор идея](/activities/ideas/) — бур места видзӧдны.

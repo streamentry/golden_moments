@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Gwariow kov rag tus gans demenyans: heb previ"
+seoTitle: "Gwariow kov gwell rag demenyans, heb previ"
+description: "Gwariow parow, imajys ha kartys rag tus gans demenyans, ha fatel gwari heb previ nebonan: imajys yn apert, le a barys, heb skor, gwari avel bagas."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Gwariow kov rag tus gans demenyans a ober gwell pan na wra fydhya war gov.
+  Gwariwgh gwariow parow gans an imajys yn apert, usyewgh peswar dhe hwegh
+  prileghen, gwariwgh avel bagas ha skippyewgh an skor. Esya yw aswon imaj
+  ages y govhe, ytho dewisewgh gwariow may hwra puptra a-dherag an lagas.
+  Lowender, a-der cansegva, yw an amkan.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Gwariow kov hengovek a gudh an kartys, hag yndella y prevyons poran an pyth a wra demenyans kales. Gesewgh an imajys yn apert yn aga le."
+  - "Le a dharnow, imajys brassa hag unn dewis orth unn dermyn a with an gwari plesont."
+  - "Gwariwgh avel bagas, kemerewgh tro dhe weres, ha gas an skor dhe-ves. Ny dal nebonan bos yn gorthenep."
+  - "Ny veu diskwedhys bos gwari kov vyth ow yaghhe, ow lenthe po ow lettya demenyans. Gwariwgh drefen bos termyn plesont war-barth."
+  - "Hedhewgh pan yw hwath didhan. Kows a-dro dhe’n imajys yw cansegva da."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Pyth yw gwari kov da rag den ow byw gans demenyans?"
+    a: "Gwari parow gans imajys bras, aswonnys, a yll a-wos yn apert, kepar ha Picture pairs gans peswar po hwegh prileghen. Kavos gevel imaj a yllowgh gweles yw lowenek heb previ kov berrdermyn. Find the same yw hwath esya, gans unn imaj dhe barya dhyworth dew dhe beswar dewis."
+  - q: "A wra gwariow kov gweres demenyans?"
+    a: "Ny veu diskwedhys bos gwari kov vyth ow yaghhe, ow lenthe po ow lettya demenyans; daswel Cochrane a gavas bos an dustuni a-dro dhe drenyans ympynnyon dre amontyer re vyghan dhe leverel mar kwra ev lettya demenyans. Gwariow a yll hwath bos fordh doem dhe dreuspassya termyn war-barth. Dewisewgh anedha rag lowender ha kowethas."
+  - q: "A dalvien gwari Concentration hengovek gans nebonan gans demenyans?"
+    a: "A-varr y’n studh, nebes tus a yll hwath y enjoya, yn arbennek gans niver byghan a gartys. Mar kwra kovhe ple’ma an kartys dalleth kawsya anfodhowder, treylgh an kartys yn apert ha kavos an parow war-barth yn sempel. Yndella y hwitowgh an parow ha gasa an prevyans kov dhe-ves."
+  - q: "Pyth yw gwariow kov da rag henwon yn bagas?"
+    a: "Bingo imajys gans gelwel war an skrin, gorfenna lavarow aswonnys yn ughel, ha kartys kesklapp oll a ober rag bagasow. Gwariwgh bys pan vo pub karten leun ha scovyewgh leverel pwy a gavas gorthyp, may na omglew nebonan dewisys yn arbennek."
+  - q: "Eus gwariow kov heb kost rag henwon warlinen?"
+    a: "Eus. An gwariow war an wiasva ma, y’ga mysk Picture pairs, Find the same, Photo pairs ha Picture puzzle, yw heb kost, ny wodhorons kovskrifans hag yth oberons war bellgowsow, leghennow hag amontyers. Nyns eus termynador na skor dhe nagonan anedha."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Hwilas «memory games for seniors» ha’n brassa rann a’n pyth a gevowgh a veu gwrys rag tus a vynn ober rag aga ympynnyon: kartys kudhys, klockys ow tynnerghi, nivellow ha skoryow. Rag den ow byw gans demenyans, an nasow ma a dreyl gwari dhe brovyans an pyth poran re dheuth ha bos kales. An keth gwariow a yll bos gwariys yn fordh moy kuv. An folen ma a dhiskwedh fatel, hag a rol gwariow a ober yn ta orth pub studh.
 
-## Why do classic memory games frustrate people with dementia?
+## Prag y hwra gwariow kov hengovek anfodha tus ow byw gans demenyans?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Drefen i dhe fydhya war synsi kedhlow nowydh y’n brys, hag y’n arwodh, henn yw an kynsa tra a wra cleves Alzheimer, an acheson moyha kemmyn a dhemenyans, stroetha. An [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) a lever bos an arwodh a-varr moyha kemmyn a gleves Alzheimer kalesnedh ow kovhe kedhlow nowydh-dhyskyes. Yn Concentration hengovek, hwi a dreyl dew garten, a berth kov ple’th ens, hag a’n usya pols a-wosa. Henn yw kedhlow nowydh, synsys ha dasgovhes.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Keworrowgh termynador, skor po son rag gorthypow kamm, ha’n den a vydh kovhes a’n pyth na yll ev gul, a-rag nebonan a gar. Lies den a hedha yn kosel bos hwans dhedha gwari.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Aswon neppyth a yllowgh gweles yw ober dyffrans hag yn fenowgh esya. Poyntya dhe’n nessa hana te pan yns i aga dew a-dherag an lagas a omglew yn ta. Ytho an tyller yw gwitha an parow ha gasa an prevyans kov dhe-ves.
 
-## How do you make a memory game gentle?
+## Fatel wrewgh gwari kov dos ha bos kuv?
 
-These adjustments work for card games, board games and games on a screen.
+An chanjyow ma a ober rag gwariow kartys, gwariow bord ha gwariow war skrin.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Gesewgh an imajys yn apert.** Parya imajys a yllowgh gweles yw hwath gwari gwir, hag yn fenowgh bodhek.
+2. **Usyewgh le a dharnow.** Dalleth gans dew po tri par. Keworrowgh moy marnas mars omglew re es hag i a vynn moy.
+3. **Dewisewgh imajys bras, aswonnys, rag tevesigyon.** Hana te, bleujen-howlek, gorhel. Nyns yw kartonow, ha nyns yw gwelyow leun a drubla.
+4. **Gwariwgh avel bagas.** «Gwren ni kavos an keun» yn le «dha dro jy». Kemerewgh tro dhe boyntya ha gweres.
+5. **Gas an skor dhe-ves.** Ny this edhom dhe nebonan gwaynya. Mar kovyn nebonan, sempel yw leverel «ni a’n gwras».
+6. **Na wrewgh byth resya erbynn an klock.** Nyns eus termynadoryon, ha nyns eus fysk dhe drespassya ynter troyow.
+7. **Kowsowgh a-dro dhe’n imajys.** «Mira orth an gorhel na. A wruss’ta byth gweyl?» An kesklapp yw yn fenowgh an rann wella.
+8. **Hedhewgh orth noten dha.** Gorfenna wosa par, pan omglew hwath plesont.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a re an keth spyrys avel kusul ollgemmyn: paryewgh an gwrians dhe’n pyth a yll an den gul, mirowgh rag anfodhowder, ha gwrewgh sur y vos ev owth omglewes sewena.
 
-## Gentle memory and matching games to try
+## Gwariow kuv kov ha parya dhe assaya
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (parya gans imajys yn apert)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) yw gwari parya gans imajys bras ha 4 dhe 12 prileghen. An imajys a yll a-wos gweladow, ytho yth yw a-dro dhe gavos gevellyon, a-der kovhe ple’th ens. Dalleth gans peswar prileghen. Rag nebonan y’n studh a-varr a enjoy chalenj moy, hwi a yll treylya dhe **Hidden pictures**, mes dehwel dhe dhiskwedhes imajys an keth termyn na vo moy didhan.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) a dhiskwedh unn imaj a-ugh ha dew dhe beswar dewis a-woles. Tappyewgh an huni a barya. Henn yw an gwari parya moyha sempel war an wiasva hag yw gwiw rag tus a gavas roos leun re vysi, y’ga mysk lies den y’n studhyow diwettha gans nebonan ryb dhedha.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (gwari kov gans skeusennow teylu)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) a dreyl skeusennow a dhewisowgh dhe wari parya: an ki, an lowarth, an chi ryb an lynn. Enyshow ha tylleryow aswonnys a wra yn fenowgh dalleth kesklapp moy es neb imaj kemmyn. An skeusennow a wos y’gas peurel hag ny vydhons byth ughkargys.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) a wovyn orthowgh gorra pub imaj y’n gisten mayth yw y le, kepar ha’n gegin po an lowarth. Sortya a us godhvos hir-termyn a-dro dhe fatel ober an bys, a-der kov berrdermyn.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) a dregh imaj yn 4 po 9 darn. Tappyewgh dew dharn dhe’s keschanjya bys pan vo an imaj dien. An imaj dien a wos war an skrin avel gid.
 
-### Real cards on the table
+### Kartys gwir war an voos
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ny wodhor’gas bos edhom a skrin. Tenewgh parow dhyworth dew dhek a gartys po dhyworth sett kartys imaj. Gorrewgh anedha yn apert yn dew res ha kevowgh an parow war-barth. A-wosa, sortyewgh herwydh liw po herwydh sort yn aga le. An [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a rol gwariow kartys ha gwariow bord yn-mysk gwriansow rag an studh a-varr.
 
-## Which memory games suit each stage?
+## Py gwariow kov yw gwiw rag pub studh?
 
-Stages are loose labels. Go by what the person enjoys today.
+Studhyow yw labelys loos. Sewyewgh an pyth a enjoy an den hedhyw.
 
-| Stage | Games that often fit | How to set them up |
+| Studh | Gwariow a dheu yn ta yn fenowgh | Fatel aga restra |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| A-varr | Picture pairs, Photo pairs, Picture puzzle gans 9 darn, gwariow kartys aswonnys | Gesewgh dhedha dewis. Prileghennow a yll treylya mar kwrons y enjoya; gas an skor dhe-ves mars yw ev kudynnek |
+| Kres | Picture pairs gans 4 dhe 6 prileghen yn apert, Find the same, Sort together | Imajys pup-prys gweladow. Esedhowgh rybdha ha kemerewgh tro dhe weres |
+| Diwettha | Find the same gans 2 dhewis, mires orth unn imaj bras war-barth | Pur verr. Hwi a syns an leghen; i a boynt, po a vir ha goslowes yn sempel |
 
-## Do memory games help with dementia?
+## A wra gwariow kov gweres gans demenyans?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ny veu diskwedhys bos gwari kov vyth ow yaghhe, ow lenthe po ow lettya demenyans. [Daswel Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) a drenyans amontyel rag tus gans godhevyans skiansek isel a gavas an dustuni re vyghan dhe leverel mar kwra ev lettya demenyans. Agan gid dhe [wariow ympynnyon ha demenyans](/brain-health/brain-games/) a styr an pyth a dhiskwedh studhyow ha’n pyth na wra.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Nyns yw henna acheson dhe scipya gwariow. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a gusul fogella war lowender, a-der sewenyans. Deg mynysen ow parya imajys hag ow kows a-dro dhedha a yll bos rann wir dha a’n jydh.
 
-## What about memory games for seniors without dementia?
+## Ha gwariow kov rag henwon heb demenyans?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Mar kwra tevesik kottha heb kudynnow kov enjoya puzzles gans termyn, skoryow ha nivellow kales, nyns eus travyth kamm gans henna. Mes na wrewgh fydhya ynno dhe witha rag demenyans; ny veu diskwedhys bos gwari vyth ow kul henna. An versyons kuv a-ugh a ober yn ta ynwedh pan wra henedhow gwari war-barth: henwas po mammwys gans demenyans ha flogh y henedh a yll parya imajys avel bagas, heb previ an eyl na’y gila.
 
-## When should you stop or change the game?
+## P’eur a dal hwi hedhi po chanjya an gwari?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Hananow, herdhya an leghen dhe-ves, leverel «Ny allav vy gul hemma» po heveli prederus yw arwodhyow oll dhe’n wul esya po hedhi. Assayewgh le a brileghennow, treylgh an imajys yn apert, chanjyewgh dhe [Find the same](/games/find-the-same/), po mirowgh orth an imajys yn sempel ha klappya. Mar ny vynnons gwari vytholl, da lowr yw henna ynwedh. Agan gid dhe [fatel gwari war-barth](/caregiving/how-to-play-together/) a’n jeves moy a-dro dhe spys ha gweres.

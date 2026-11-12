@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Werzîş û Tenduristiya Mejî: Lêkolîn Çi Dibêjin"
+seoTitle: "Werzîş û Demans: Lêkolîn Çi Dibêjin"
+description: "Lêkolîn di navbera çalakiya laşî û metirsiya demansê de çi têkiliyan nîşan didin, û rêyên ewle û xweş ji bo livînê ji bo mezinan û kesên ku bi demansê dijîn."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Lêkolîn nîşan didin ku çalakiya laşî ya birêkûpêk bi metirsiya kêmtir a demansê ve girêdayî ye, û
+  Komîsyona Lancet a 2024ê bêçalaktiya laşî wekî yek ji 14 faktorên metirsiyê yên guhêrbar destnîşan dike.
+  Ceribandin nepiştrast kirine ku werzîş rê li ber demansê digire. Dîsa jî, tevger ji bo hêz, hevsengî,
+  rewşa dil û xewê alîkar e; ji ber vê yekê meş, werzîşên li ser kursiyê û dans hêjayî kirinê ne. Berî ku
+  tiştekî nû dest pê bikin, bi bijîşkekî re şêwir bikin.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Bi gelemperî, kesên ku ji aliyê laşî ve çalak in metirsiya demansê kêmtir heye, lê ev zêdetir ji lêkolînên çavdêriyê tê, ne ji ceribandinan."
+  - "Ceribandinek werzîşê ya pênc-salî li ser mezinên pîr di navbera koman de tu cudahiyeke zelal di jêhatîbûna ramandinê de nedît."
+  - "Rêberiya CDC ji bo mezinên 65 salî û jortir çalakiyên aerobîk, xurtkirina masûlkan û hevsengiyê vedigire, û dibêje ku hinek çalakî ji tune çêtir e."
+  - "Ji bo kesên ku bi demansê dijîn, tevgera kurt, nas û hevbeş wek meşa rojane an lîstikên li ser kursiyê ji her armancekê girîngtir e."
+  - "Her sal ji çar mezinên pîr yekî zêdetir dikeve, ji ber vê yekê xebata hevsengiyê û cihê ewle pêşî tê."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Gelo werzîş dikare rê li ber demansê bigire?"
+    a: "Tu kes nikare vê sozê bide. Gelek lêkolîn çalakiya laşî bi metirsiya kêmtir a demansê ve girê didin, lê ceribandinên klînîkî nepiştrast kirine ku werzîş rê li ber demansê digire. Werzîş gelek feydeyên din ên piştrastkirî hene, ji ber vê yekê hêja ye ku were kirin."
+  - q: "Gelo ewle ye ku kesek ku bi demansê dijî werzîşê bike?"
+    a: "Bi gelemperî, bi hinek plansaziyê. Enstîtuya Neteweyî ya Pîrbûnê (NIA) pêşniyar dike ku berî destpêkirina rûtîneke nû bi bijîşkê wî kesî re were şêwir kirin, pêlavên rehet werin hilbijartin, av were pêşkêş kirin û danişîn kurt bimînin. Ger ew kes westiyayî, bêhevseng an bêkêf xuya bike, rawestin."
+  - q: "Kîjan werzîş dikarin rûniştî werin kirin?"
+    a: "Vebijarkên rûniştî dirêjkirina li ser kursiyê an yogaya kursiyê, avêtina balonekê an topekî nerm, avêtina kîsikên fasûlyeyê, rakirina tenekeyên şorbê, kasetên dirêjkirinê û amûrên pedalan hene. Dema ku meş dijwar e, ev bijarteyên baş in."
+  - q: "Ger ew kes nexwaze tev bigere, çi bikin?"
+    a: "Zorê nedin. Paşê dîsa biceribînin, hûn jî beşdar bibin, muzîka nas lê bidin, an tevgerê bikin parçeyek ji karekî wek şûştin an avdana kulîlkan. Meşeke kurt heta ber derî jî tê hesibandin, û rûniştina li derve bi hev re jî wisa ye."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Çalakbûn yek ji adetên herî lêkolînkirî di lêkolîna tenduristiya mejî de ye. Lêkolîn wê bi metirsiya kêmtir a demansê ve girê didin, lê nepiştrast kirine ku werzîş rê li ber demansê digire. Ya ku zelal e ev e ku tevger di her temenî de ji bo hêz, hevsengî, rewşa dil û xewê alîkar e. Ev rûpel vedibêje ka lêkolîn çi dibêjin, mezinên pîr çiqas çalakî tê pêşniyarkirin ku bikin, û rêyên nerm ji bo tevgerê bi kesek ku bi demansê dijî re.
 
-## Does exercise lower the risk of dementia?
+## Gelo werzîş metirsiya demansê kêm dike?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Lêkolîn nîşan didin ku kesên ku ji aliyê laşî ve çalak in kêm zêdetir dibe ku demansê pêş bixin, lê delîl sînorên xwe hene. [Komîsyona Lancet a 2024ê ya li ser demansê](https://doi.org/10.1016/S0140-6736(24)01296-0) bêçalaktiya laşî wekî yek ji 14 faktorên metirsiyê yên guhêrbar destnîşan dike. Li gorî modela wê, ev 14 faktor bi hev re nêzîkî 45% ji bûyerên demansê li seranserê cîhanê rave dikin.
 
-Here is what the evidence looks like:
+Delîl wiha xuya dikin:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Lêkolînên çavdêriyê ber bi heman alî ve diçin.** Vekolînek li ser 58 lêkolînan, ku Komîsyon behsa wê dike, dît ku kesên çalak bi qasî 20% metirsiya demansê kêmtir bû. Cudahîya herî mezin di navbera kesên ku hema hema qet neçalak bûn û yên ku herî kêm hinek çalakiyê dikirin de bû.
+- **Dibe ku ev têkilî du-alî be.** Komîsyon dibêje ku bêçalaktî dibe ku metirsiyê zêde bike. Ew jî dibêje ku guhertinên destpêkê yên mejî yên demansê, ku sal berî teşhîsê dest pê dikin, dibe ku mirovan kêmtir çalak bikin.
+- **Ceribandin kêmtir zelal in.** Di ceribandinekê de, 945 mezinên pîr bi temenê navînî 78 salî hatin dabeş kirin di navbera pênc salên werzîşa bin çavdêriyê ya heftê du caran û komeke berawirdî de. Di dawiyê de, jêhatîbûna ramandinê di navbera koman de bi zelalî cuda nebû. Gelek kesên di koma berawirdî de jî çalak bûn, ku xwendina encamê dijwartir dike.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Enstîtuya Neteweyî ya Pîrbûnê (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) bi zelalî dibêje. Di navbera çalakiya laşî û rêgirtina li nexweşiya Alzheimerê de tu têkiliyeke zelal nehatîye nîşandan, û delîlên ceribandinê têrê nakin ku bê gotin werzîş rê li ber wê digire an wê hêdî dike. Dîsa jî, werzîş metirsiya ketinê, depresyonê, şekir, tansiyona bilind û felcê kêm dike. Hin ji van rewşan bi xwe bi kêmbûna zanînê ve girêdayî ne.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Encama rast ev e ku hûn ji ber ku ew îro ji we re dibe alîkar ku hûn baştir hîs bikin û baştir bixebitin, tev bigerin. Her feydeya gengaz ji bo mejî wekî derfetek zêde ye, ne wekî sozek.
 
-## How much activity do older adults need?
+## Mezinên pîr çiqas çalakî hewce dikin?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Rêberiya CDC ji bo mezinên 65 salî û jortir](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) her hefte sê cure çalakî pêşniyar dike:
 
-| Type | Weekly amount | Examples |
+| Cure | Rêjeya heftane | Nimûne |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobîk | Herî kêm 150 deqîqe çalakiya navîn, wek 30 deqîqe di 5 rojan de | Meşa bilez, dans, aerobîka avê |
+| Xurtkirina masûlkan | Herî kêm 2 roj, hemû komên masûlkeyên sereke | Rakirina giraniyên sivik an tenekeyên şorbê, kasetên dirêjkirinê |
+| Hevsengî | Bi rêkûpêk | Meşa pê li pey pê, rabûna ji kursiyê |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Ev armanc in, ne şertên destpêkê. CDC dibêje ku ger hûn nikarin bigihîjin van armancan, divê hûn bi qasî ku jêhatîbûn û tenduristiya we rê dide çalak bin. Hinek çalakî ji tune çêtir e.
 
-## Gentle ways to move for older adults
+## Rêyên nerm ji bo tevgerê ji bo mezinên pîr
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Bi hevalan re bimeşin.** Meşa rojane bi hevalek, cîranek an komeke meşê re sohbet û ewlehiyê jî zêde dike.
+- **Werzîşên li ser kursiyê.** Bilindkirina destan rûniştî, çerxandina çokan, meşa li cihê xwe û yogaya kursiyê bêyî metirsiya hevsengiyê hêzê ava dikin.
+- **Di mitbaxê de bidansin.** Muzîka ji ciwaniya wî kesî lê bidin û bi hev re bizivirin, lêxin an gavekê bavêjin. Rêbernameya me ya [çalakiyên bi muzîkê](/activities/music/) ramanan pêşkêş dike.
+- **Bi tiştên malê re hêzê xurt bikin.** Dema ku hûn li bernameyeke bijare temaşe dikin, şûşeyên avê yên tijî an tenekeyên şorbê rakin.
+- **Baxçe bikin an karên malê bikin.** Avdana kulîlkan, şûştina pelan, şûştin û qatkirina cil û bergan hemû têne hesibandin. [Çalakiyên li derve û baxçe](/activities/outdoor-and-gardening/) û [karên malê](/activities/household-tasks/) bibînin.
+- **Werzîşa di avê de.** NIA dersên aerobîka avê wekî vebijarkek ji bo kesên ku werzîşa li ser axê ji bo movikên wan dijwar e destnîşan dike.
 
-## How to exercise with someone living with dementia
+## Çawa bi kesek ku bi demansê dijî re werzîşê bikin
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Ji bo kesek ku bi demansê dijî, armanc rehetî, kêf û parastina jêhatîbûnên rojane ye, ne gihîştina hejmarekê. NIA dibêje ku çalakiya laşî alîkariya parastina masûlke, movik û dilê kesek ku bi nexweşiya Alzheimerê dijî dike, û dikare rewşa dil û xewê jî baştir bike. Berî destpêkirina rûtîneke nû bi bijîşkê wî re şêwir bikin. Serişteyên ji [rêbernameya lênêrînê ya NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) ev in:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Her roj bi hev re bimeşin.** Rêyek ewle û nas bê astengî hilbijêrin. Ger ew kes bi tenê dimeşe, bazinbendek nasnameyê bi hejmara telefona we re ramaneke baş e.
+2. **Vîdyoyên werzîşê ji bo mezinên pîr biceribînin.** Bi hev re, rûniştî an rawestî, li pey bikin.
+3. **Danişînan kurt bihêlin.** Dibe ku çend „werzîşên piçûk“ yên kurt ji yekê dirêj çêtir bixebitin.
+4. **Muzîkê lê zêde bikin.** Stranên nas tevgerê wekî çalakiyekê nîşan didin, ne wekî karekî. Ger ew kes jê hez dike, bidansin.
+5. **Av û pêlavên rehet pêşkêş bikin.** Di dema werzîşê de û piştî wê av an ava fêkîyan pêşkêş bikin, û cilên rehet û pêlavên guncaw ên ji bo werzîşê hilbijêrin.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Ger meş dijwar e, [rêbernameya NIA ya ji bo lênêrîna kesek ku bi nexweşiya Alzheimerê dijî](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) vebijarkên rûniştî pêşniyar dike. Ev di nav xwe de werzîş an yogaya li ser kursiyê, avêtina kîsikên fasûlyeyê, avêtina topekî nerm an balonekê, kasetên dirêjkirinê, rakirina tiştên sivik ên malê û amûrên pedalan digirin. Karên hêsan wek şûştin û paqijkirina tozê jî têne hesibandin.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Li ser tiştên ku tevger dikare bike realîst bin. Komîsyona Lancet tu delîl nedît ku werzîş guhertinên tevgerê wek bêaramiyê kêm dike. Bi hev re tev bigerin ji ber ku dikare xweş hîs bibe, ne wekî rêyek ji bo çareserkirina êvareke dijwar. Ger ew kes dibêje na, ev baş e. Rêbernameya me ya li ser [dema ku ew dibêjin na](/caregiving/when-they-say-no/) rêyên nerm ji bo paşê dîsa ceribandinê pêşkêş dike. Zû bidawîanîn, an bi tenê li derve bi hev re rûniştin, jî encameke baş e.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Piştî tevgerê, rawestgeheke aram wek [Bêhnkişandina Aram](/games/calm-breathing/) dikare alîkariya we herduyan bike ku aram bibin. Ji bo çalakiyeke rûniştî bi tevgera nerm a destan, [Bi Hev re Rêz bikin](/games/sort-together/) û [Bîngoya Wêneyan](/games/picture-bingo/) li ser maseyê baş dixebitin.
 
-## Balance and fall safety
+## Hevsengî û ewlehiya li hember ketinê
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Ketin gelemperî û cidî ne. [CDC ragihîne](https://www.cdc.gov/falls/data-research/facts-stats/index.html) ku her sal ji çar mezinên pîr yekî zêdetir dikeve, lê ji nîvê kêmtir ji bijîşkê xwe re dibêjin. Ketimek carekê şansê ketina dîsa du qat dike. Faktorên metirsiyê ku CDC destnîşan dike ev in:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Lawaziya ling û çokan
+- Zehmetiya di meş û hevsengiyê de
+- Hin derman, di nav de aramker û hin antîdepresan
+- Pirsgirêkên dîtinê
+- Êşa lingan an pêlavên nebaş
+- Metirsiyên malê wek tevlihevî, xalîçeyên piçûk û derenceyên şikestî
 
-To move more safely:
+Ji bo ku bi ewletir tev bigerin:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Kursiyeke zexm** bê teker bi kar bînin, û ji bo werzîşên rawestî banqek an rêlikek di dest de bihêlin.
+- **Berî her tiştî cihê paqij bikin** ji xalîçe, kablo û tevliheviyê.
+- **Dema rabûnê hêdî hêdî bikin**, û ger ew kes gêj an bêhevseng hîs bike rawestin.
+- **Pêlavên piştgirîdar li xwe bikin**, ne gore an pêlavên malê yên sist.
+- **Nêzî piştgiriyekê hevsengiyê pratîk bikin.** Rabûna ji kursiyê û meşa pê li pey pê nimûneyên CDC yên ji bo çalakiyên hevsengiyê ne.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC şîret dike ku kesek pîr ku dikeve û li serê xwe dixe divê tavilê bijîşkek bibîne, bi taybetî ger dermanên sivikkirina xwînê bi kar tîne.
 
-## Talk with a doctor
+## Bi bijîşkekî re şêwir bikin
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Berî destpêkirina rûtîneke werzîşê ya nû bi bijîşkekî re şêwir bikin, bi taybetî ji bo kesek ku pirsgirêkên dil an pişikê, êşa movikan, pirsgirêkên hevsengiyê an demansê hene. Bijîşkek an terapîstek laşî dikare çalakiyên ewle pêşniyar bike û kontrol bike ka derman bandorê li hevsengiyê dikin an na. Her ketinekê, tewra ya bê birîndarî jî, ji bijîşk re bibêjin. Ger di dema werzîşê de tiştek biêşe an şaş hîs bibe, rawestin. Ji bo êşa nişkê ya sîngê, zehmetiya bêhnkişandinê, an tevliheviya nişkê, bangî 112 bikin.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Ev rûpel agahiyên giştî ye, ne şîreta bijîşkî ye. [Daxuyaniya me ya bijîşkî](/medical-disclaimer/) bibînin. Ji bo wêneyeke berfirehtir, bixwînin [lêkolîn li ser faktorên metirsiya demansê çi dibêjin](/brain-health/risk-factors/) û [gelo rê li ber demansê dikare were girtin](/brain-health/can-dementia-be-prevented/).

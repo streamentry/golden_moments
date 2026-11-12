@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Actiones gratuita imprimendae pro dementia"
+seoTitle: "Actiones imprimendae pro dementia: magna scriptura"
+description: "Actiones gratuita imprimendae pro dementia: inquisitio verborum, paginae colorandae, chartae colloquii et bingo picturarum, cum consiliis."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments offert actiones gratuitas imprimendas pro dementia: inquisitionem
+  verborum magna scriptura, paginas colorandas, chartas pictas ad colloquium et
+  chartas bingo picturarum. Aperi quamlibet paginam ludi et utere eius
+  puga „Print”. Imprime magnis et simplicibus litteris in charta crassiore,
+  unam rem in una pagina serva, et paginas, quas iterum adhibere vis,
+  lamina. Simplices res domi factae, ut pagina de vita vel ordo diei, etiam
+  iuvare possunt.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Nostrae actiones imprimendae sunt gratuita: Word Search, Coloring, Conversation Cards et Picture Bingo. Quaeque pagina ludi puga „Print” habet."
+  - "Imprime magnis et simplicibus litteris cum claro discrimine, et unam rem in una pagina serva."
+  - "Charta crassior aut charta densior facilius tenetur et difficilius corrugatur. Lamina paginas, ut iis cum calamis siccis iterum uti possis."
+  - "Res domi factae, ut pagina de vita, ordo diei vel tituli picti foribus impositi, sunt simplices et utiles."
+  - "Pagina impressa est invitatio, non pensum. Licet partem eius facere vel nihil."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Suntne vestrae actiones imprimendae pro dementia gratuita?"
+    a: "Ita. Paginae Word Search, Coloring, Conversation Cards et Picture Bingo in hoc situ gratuita sunt ad usum et ad imprimendum. Aperi paginam ludi et utere puga „Print”."
+  - q: "Quae actiones imprimendae optimae sunt pro dementia?"
+    a: "Optimae res imprimendae sunt simplices, clarae et adultis aptae: inquisitio verborum magna scriptura, in qua verba solum dextrorsum et deorsum currunt, paginae colorandae lineis claris, chartae pictae quae colloquium incipiunt, et bingo picturarum pro gregibus. Elige actionem secundum studia et facultates praesentes hominis cui curam praebes, et unam rem in una pagina serva."
+  - q: "Quomodo res imprimendas facilius ad videndum et adhibendum reddo?"
+    a: "Utere magnis et simplicibus litteris, atramento obscuro in charta alba vel cremea, et satis spatii. Imprime in charta crassiore aut charta densiore, ut pagina plana maneat, elige chartam non nitentem, ut fulgor minuatur, et utere tabula cum fibula vel substrato non labenti, ut pagina immota maneat. Lamina paginas diutius servat."
+  - q: "Possumne vestras actiones imprimere pro domo curae vel programmate diurno?"
+    a: "Ita. Qui actiones curant libenter nostras paginas pro habitantibus et gregibus imprimere possunt. Picture Bingo gregibus destinatum est et vocatorem in scrinio habet, quem in televisorio vel proiectore ostendere potes."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Interdum optima actio est folium chartae et stilus ad mensam culinariam. Res imprimendae non egent oneratione, non tessaris secretis, non scrinio, et facile ad visitationem vel ad gregem feruntur. Haec pagina describit actiones gratuitas imprimendas in nostro situ, quomodo eas imprimas, ut facile videantur et teneantur, et nonnullas simplices res domi factas, quas familiae et qui actiones curant utiles inveniunt.
 
-## What free printable activities do you offer?
+## Quas actiones gratuitas imprimendas offertis?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Quattuor res imprimendas gratuitas offerimus. Aperi quamlibet ex his paginis ludorum et utere puga **Print**, ut formam ad imprimendum aptam accipias.
 
-| Printable | What it is | Good for |
+| Res imprimenda | Quid sit | Cui conveniat |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Word Search](/games/word-search/) | Inquisitio verborum magna scriptura, in qua verba solum dextrorsum et deorsum currunt | Tempus quietum cum stilo; ei qui aenigmata amabat |
+| [Coloring](/games/coloring/) | Paginae colorandae ad imprimendum vel in scrinio colorandae | Tempus tranquillum et creans; in quovis gradu cum auxilio |
+| [Conversation Cards](/games/conversation-cards/) | Chartae pictae cum invitamentis apertis ad colloquium, sine interrogationibus, per argumenta | Visitationes, vocationes telephonicae, cenae familiares, greges memoriae |
+| [Picture Bingo](/games/picture-bingo/) | Chartae bingo cum imaginibus loco numerorum, cum vocatore in scrinio | Domus curae, programmata diurna, conventus familiares |
 
-### Large-print word search
+### Inquisitio verborum magna scriptura
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Word Search](/games/word-search/) magnis litteris utitur et verba solum dextrorsum et deorsum ponit, sine lineis obliquis vel verbis retro scriptis. Una laborate: unus verbum ex indice legit, alter id quaerit. Si verba invenire difficile fit, potestis primam litteram cuiusque verbi una circumdare, vel simpliciter indicem verborum clara voce legere et de singulis verbis colloqui.
 
-### Coloring pages
+### Paginae colorandae
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+Paginae [Coloring](/games/coloring/) imprimi possunt pro calamis crassis vel coloratis, vel in tabula colorari tangendo colorem, deinde partem imaginis. Pro paginis impressis, praebe calamos crassos et paucos colores uno tempore. Vide nostrum [ducem de artibus et operibus manu factis](/activities/arts-and-crafts/), ut coloratio adultis apta et tranquilla maneat.
 
-### Conversation cards
+### Chartae ad colloquium
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Conversation Cards](/games/conversation-cards/) claram imaginem cum invitatione aperta coniungunt, ut „Narra mihi de...” vel „Quid animadvertis?” Scriptae sunt ut invitationes apertae, non ut interrogationes. Imprime seriem, eas seca, et aliquot in sacculo ad visitationes vel prope telephonum ad vocationes serva. Bene etiam in gregibus [memoriae](/activities/reminiscence/) adhibentur.
 
-### Picture bingo cards
+### Chartae bingo picturarum
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Chartae [Picture Bingo](/games/picture-bingo/) imaginibus loco numerorum utuntur. Imprime unam chartam pro quoque lusore et utere vocatore in scrinio in computatro portabili, televisorio vel proiectore. Suademus vocare, donec charta omnium plena sit, ne quis excludatur. Vide [actiones gregales pro domibus curae](/activities/care-home-groups/), ut scias quomodo sessionem ducas.
 
-## How do I print activities so they are easy to use?
+## Quomodo actiones imprimo, ut facile adhiberi possint?
 
-Small changes in how you print make a big difference.
+Parvae mutationes in modo imprimendi magnum discrimen faciunt.
 
-### Make it easy to see
+### Facile ad videndum redde
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Magnae et simplices litterae.** Utere maximo modo imprimendi, qui in pagina manet. Vita formas litterarum ornatas.
+- **Clarum discrimen.** Atramentum obscurum in charta alba vel cremea. Vita canum pallidum vel fundos coloratos.
+- **Charta non nitens** fulgorem sub luce clara minuit.
+- **Perspicilla et lucem inspice.** Alzheimer's Association notat difficultates videndi et audiendi communicationem difficiliorem reddere posse, et suadet eas saepe inspiciendas esse. Lucerna clara et aequalis etiam iuvat.
 
-### Make it easy to hold
+### Facile ad tenendum redde
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Charta crassior aut charta densior** plana manet, facilius tollitur et usum saepius repetitum sustinet.
+- **Tabula cum fibula** vel substratum non labens paginam loco tenet.
+- **Calami crassi vel stili crassi** facilius tenentur quam stili tenues.
 
-### Make it reusable
+### Iterum adhiberi possunt
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Lamina paginas** vel eas in tegumenta perlucida pone. Utere calamis siccis in inquisitionibus verborum et in chartis bingo, deinde deterge.
+- **Elige tegumenta non nitentia**, si fulgor molestus est, et **angulos rotunda** chartarum laminatarum forfice, ut commode teneantur.
+- **Serva plicatile** rerum carissimarum, ne eandem paginam omni hebdomade imprimere debeas.
 
-### Keep it simple
+### Simplex serva
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Una res in una pagina.** Una inquisitio verborum vel una imago, non plures actiones simul congestae.
+- **Satis spatii albi.** Pagina plena nimis gravis videri potest.
+- **Si fieri potest, sine praeceptis legendis.** Ostende potius quid faciendum sit.
+- **Folium minue.** Si tota pagina nimis est, eam in duas partes seca vel plica, ut pars tantum videatur.
 
-## Other useful printables you can make at home
+## Aliae res utiles imprimendae, quas domi facere potes
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Non omnis res utilis impressa est ludus. Hae facile fieri possunt cum programmate verborum et prelo.
 
-### A life-story page
+### Pagina de vita
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Folium unius paginae „de me” cum imagine, nomine quo homo vocari vult, loco ubi crevit, labore, familia, cibis caris, musica et rebus quae consolantur vel turbant. Dementia Australia [librum memoriae](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) suadet cum singulis de vita hominis, de rebus quas amat et de hominibus magni momenti, ut visitatores et curatores adiuventur et colloquium incipiatur.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Hoc praecipue utile est in valetudinariis et in novis locis curae. NIA suadet ut curatoribus in valetudinario [folium notitiarum personalium](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) des, in quo ordo cotidianus, nomen gratum, ea quae placent et displicent, res quae turbare possunt, et signa doloris sine verbis inscribantur.
 
-### A daily schedule
+### Ordo diei
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Ordo diei magnus et simplex cum horis, paucis verbis et parva imagine pro singulis partibus: ientaculum, ambulatio, prandium, quies, musica, cena. [Consilium curae cotidianae](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) Alzheimer's Association suadet diem disponere secundum tempora optima hominis, cum horis stabilibus surgendi et cubitum eundi et cum aequilibrio actionis et quietis. Pone id ad oculorum altitudinem, fortasse in armario frigorifico, et id flexibile serva. Vide nostrum [ducem de ordine cotidiano](/activities/daily-routine/) plura invenies.
 
-### Picture labels for rooms and drawers
+### Tituli picti pro conclavibus et loculis
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA suadet uti signis claris vel imaginibus simplicibus ad [balneum, cubiculum et culinam notanda](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Eadem ratio loculis et armariis convenit: imago tibialium in loculo tibialium, poculorum in armario poculorum. Imprime, lamina et affige.
 
-### A sorting set
+### Series ad ordinandum
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Imprime imagines ex duobus generibus simplicibus, ut fructus et flores vel instrumenta et res culinarias, in charta densiore. Eas seca et una in duobus corbibus dispone. Forma huius in scrinio est [Sort Together](/games/sort-together/).
 
-### Song lyric sheets
+### Folia verborum carminum
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Imprime verba paucorum carminum carorum maximis litteris ad cantandum una. Etiam homines qui iam non multum legunt fortasse folium tenere gaudent.
 
-### A family photo page
+### Pagina imaginum familiarium
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Una pagina cum quattuor ad sex magnis imaginibus familiae, cum nomine proprio sub quaque. In mensa iacere potest, ut quisque eam tollat et de ea loquatur. Tituli visitatores et curatores adiuvant colloquium participare, nec quisquam rogare debet: „Quis est hic?”
 
-### A recipe card
+### Charta praecepti cibi
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Imprime praeceptum cibi familiae carum magnis litteris. Eo utere ad una coquendum, vel tantum ad loquendum de cenis praeteritis.
 
-## How do I offer a printable without it feeling like homework?
+## Quomodo rem impressam offero, ne tamquam pensum videatur?
 
-Present it as something to share, not a test.
+Eam propone ut rem communicandam, non ut probationem.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Consede et ipse incipe.** „Hanc inquisitionem verborum facio. Visne me adiuvare ut ‚garden’ inveniam?”
+- **Una laborate.** Vices agite, vel unus inveniat et alter circumscribat.
+- **Numquam rectum aut falsum nota.** Dux Alzheimer's Association de [actionibus domi](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) suadet animum ad processum, non ad exitum, et ad gaudium potius quam ad effectum intendere.
+- **Paginas in conspectu relinque.** Idem dux suadet libros imaginum, albuma photographiarum vel commentarios veteres in locis facile attingendis ponere. Chartae impressae et paginae imaginum eodem modo in mensula iacere possunt.
+- **Desine quandocumque vis.** Dimidia pagina colorata post meridiem iucundum est. Etiam paginam deponere et poculum theae sumere bene est.
 
-## Where to find more
+## Ubi plura invenire potes
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Omnes nostros [ludos et res imprimendas](/games/) inspice, vel vide [actiones pro quovis gradu](/activities/ideas/) plura consilia, cum charta et sine charta.

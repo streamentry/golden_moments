@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Howldrehevel: Gwriansow kosel diwedh an dohajydh"
+seoTitle: "Howldrehevel: Gwriansow kosel diwedh an dohajydh"
+description: "Raglenyow kosel, chanjyow y’n stevel ha gwriansow kosel a yll gweres gans dihewnans diwedh an jydh yn demensia, ha pan dhe elwel medhek."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Howldrehevel yw dihewnans, kemyskans po serrysneth a dhalleth po a dheu
+  dhe vos gweth diwedh an dohajydh po gorthugher. Dallethow praktykal a yll
+  gweres a gomprehend raglen jydhyek reyth, golow howlek ha gwrians a-varr
+  y’n jydh, le a gosk diwedh, le a gaffein, golowys splann a-berth yn chi
+  kyns dewedhek, chi kosella, ha gwriansow kosel kepar ha ilow, skeusennow
+  po plegya dilhas. Arwodhyow nowydh po gweth a res checkyans gans medhek.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Howldrehevel a styr dihewnans po kemyskans a dhalleth po a dheu dhe vos gweth pan wra an golow howlek diskwedhes."
+  - "Gwrewgh oberennow kalessa, mos yn-mes ha golghva a-varr myttin po a-varr dohajydh."
+  - "Golow howlek, kerdh pub dydh, le a gosk diwedh ha le a gaffein diwedh an jydh a yll gweres dhe’n gordhugher mos yn es."
+  - "Tennewegh golowys a-berth kyns dewedhek, iselhewgh tros, ha treylyewgh dhe wriansow kosel, aswonys."
+  - "Gwithowgh kovskrif berr dhe aswon an tacklow a wra kawsya an dra, ha bedhewgh kosel ha krev pan dhalleth an dihewnans."
+  - "Gwrewgh gweles medhek rag arwodhyow nowydh po gweth: payn, klevesans po medhegiethow a yll bos rann ynno."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Py eur a’n jydh yw usys howldrehevel?"
+    a: "Dre vras y talleth po y teu dhe vos gweth diwedh an dohajydh po a-varr gorthugher, pan wra an golow howlek diskwedhes. An eur poran a janj dhyworth unn den dhe den arall, hag ytho gwitha kovskrif berr dres seythun po dew a yll gweres."
+  - q: "Py gwriansow a weres gans howldrehevel?"
+    a: "Gwriansow kosel, aswonys, heb kaletter bras a ober gwell dre vras diwedh an dohajydh: ilow kosel, mires orth skeusennow, gwari po fylm meurgerys, plegya dilhas, kerdh berr, po boes skav war-barth. Gwithowgh gwriansow nowydh po kales rag termyn a-varr y’n jydh."
+  - q: "A yll howldrehevel bos sin a neppyth medhegel?"
+    a: "Y hyll bos gwrys gweth gans kudynnow yeghes kepar ha payn, klevesansow kepar ha klevesansow an fordh dowr, kudynnow kosk po gwaytyansow medhegieth. Mar yw an dihewnans nowydh, a-dhistowgh po ow tevi gweth, kestavewgh orth medhek an den."
+  - q: "A dalvien vy govyn orth an medhek a-dro dhe vedhegieth rag howldrehevel?"
+    a: "Henn yw kescows dhe wul gans an medhek. An Alzheimer’s Association a lever y vos dre vras gwell gweles rag fordhow heb medhegieth kyns oll, hag y tal bos prederys medhegieth vyth rag serrysneth gorthugher wosa breusi peryllow ha lesow yn unnik. Ny re an folen ma kusul a-dro dhe vedhegieth."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Lies teylu a wel an keth patron: an myttinyow yw re kosel, mes dell wra an dohajydh mos yn-rag, an den ow pewa gans demensia a dheu dhe vos dihewn, prederus, kemyskys po serrys. Y hyll kerdhes a-dro ha tre, govyn dhe « vos tre » kyn hons i tre seulabrys, po bos serrys yn es. Henna yw gelwys lieskweyth howldrehevel.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Nyns eus unn ewnans unnik, mes chanjyow dhe rythym an jydh, dhe’n stevel ha dhe’n eghen a wriansow a brofowgh a yll gul dohajydhow diwettha moy kosel. An folen ma a guntell tybyansow praktykal, heb medhegieth, dhyworth an National Institute on Aging ha’n Alzheimer’s Association. Nyns yw kusul medhegel. Mar yw an arwodhyow nowydh, a-dhistowgh po ow tevi gweth, kewsewgh gans medhek an den.
 
-## What is sundowning?
+## Pyth yw howldrehevel?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Howldrehevel yw dihewnans, serrysneth, serrysneth po kemyskans a dhalleth po a dheu dhe vos gweth pan wra an golow howlek diskwedhes, diwedh an dohajydh po a-varr gorthugher. An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) a verk bos skwithys re a yll kressya dihewnans diwedh an jydh.
 
-## What can make late-day restlessness worse?
+## Pyth a yll gul dihewnans diwedh an jydh gweth?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Lies tra a yll kevri, yn fenowgh war-barth. An [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) a rol tacklow kepar ha:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- skwithder wosa jydh leun;
+- tylleryow nowydh po kemyskys;
+- « klock korf pervedhek » ankempennys, ow kul an den skwithys dres an jydh ha difun yn nos;
+- golow isel ha skeusow, a yll bos kemyskys;
+- tevos ynwedh an fros po an serrysneth a dus a-dro dhedha;
+- odhom a gosk le, hag yw kemmyn yn tus kottha.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+An NIA a geworr kawsow a serrysneth moy ollgemmyn, ow komprehendya payn, duwon, po fros, re a voynder, kostyvens, re a dros po re a dus, ha medhegiethow po kesoberansow medhegiethow.
 
-## How can I plan the day to make evenings calmer?
+## Fatell allav vy towlenna an jydh may fo an gordhugher moy kosel?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Gwayewgh an taklow kalessa dhe dermyn a-varr ha gwithowgh an dohajydh diwettha kosel ha reyth. An NIA ha’n Alzheimer’s Association a gomend raglen reyth pub dydh. Ensampel a jydh, dhe aswiwa dh’agas huni:
 
-| Time | What may help |
+| Termyn | Pyth a yll gweres |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Myttin | Kuntellyansow, golghva, mos yn-mes ha py oberenn vyth a gemmer stryvyans, pan yw lies den an moyha difun |
+| Diwedh myttin | Termyn yn-mes po ryb fenester howlek; kerdh po gwrians arall |
+| Hanterdydh | Li bras (an Alzheimer’s Association a brof li bras ha boes gorthugher skav) |
+| A-varr dohajydh | Powes mar yw res, mes gwayewgh kosk hir diwedh an jydh |
+| Kres dhe dhiwedh an dohajydh | Gwriansow kosel, aswonys; boes skav ha diwes; heb kaffein |
+| Kyns dewedhek | Tennewegh golowys a-berth ha degewegh an kroglenyow kyns bos tewal |
+| Gorthugher | Boes skav, ilow kosel, le a vuskya, raglen kosk reyth |
 
-A few specific points from the sources:
+Nebes poyntow arbennek a’n fentenigow:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Golow howlek.** An NIA a brof towlenna termyn yn-mes po ryb fenester rag golow howlek pub dydh.
+- **Gwayans pub dydh, mes heb re.** Assayewgh bos gweythresek pub dydh heb towlenna re a wriansow, yn-medh an NIA.
+- **Diwesow diwedh an jydh.** Gwayewgh alkool ha diwesow gans kaffein, kepar ha koffi po kola, diwedh an jydh (NIA). An Alzheimer’s Association a gampoll ynwedh nikotin.
+- **Kosk.** Gwayewgh kosk hir ha hunrosow diwedh an jydh (NIA). An Alzheimer’s Association a brof finwetha kosk dres an jydh mar yw kosk nos kudyn.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Rag moy a-dro dhe dhrehevel jydh reyth, gwrewgh mires orth [gwriansow raglen jydhyek](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Fatell allav vy gul an chi moy kosel diwedh an dohajydh?
 
-Reduce noise, add light and keep familiar things close.
+Iselhewgh tros, keworrowgh golow ha gwithowgh taklow aswonys ogas.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Golow splann ha kompes.** An Alzheimer’s Association a gomend gwitha an chi splann y’n gordhugher. Golowhewgh an stevel kyns bos skeusow.
+- **Le a dros.** Difennewegh po iselhewgh an pellwolok ha’n radyo, ha finwethewgh godrigoryon po oberennow chi bysi orth an termyn ma. An Alzheimer’s Association a brof lehe muskya gorthugher kepar ha pellwolok, oberennow ha ilow ughel.
+- **Taklow hegar aswonys.** An NIA a brof ilow kosel ha gwitha taklow ha skeusennow meurgerys a-dro dhe’n chi.
+- **Checkyansow es.** An Alzheimer’s Association a gomend checkya rag payn, nown, seghes, kostyvens, sketh leun, skwithder, klevesansow ha serrysneth an kroghen, ha gwitha an stevel orth tempredh es.
+- **Agas omglewans hwi.** Tus a deves ynwedh fros. An NIA a brof lenthe ha tria omgalmi mar kyll agas prederow hwi keworra dhe’n dynnder.
 
-## What calm activities can we do in the late afternoon?
+## Py gwriansow kosel a yllon ni gul diwedh an dohajydh?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Dewisewgh gwriansow aswonys, heb fysk, hag es dhe hedhi. An Alzheimer’s Association a brof gwriansow kosel kepar ha ilow kosel, skeusennow po fylm meurgerys, ha kerdh war-barth dhe esya dihewnans. An NIA a brof boes skav po diwes, gwari meurgerys war an bellwolok, ilow, kerdh, redya, po oberenn sempel y’n chi kepar ha plegya dilhas.
 
-Ideas to try:
+Tybyansow dhe assaya:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Plegya dilhas war-barth.** An NIA a brof an eghen ma a oberenn sempel y’n chi. Es yw synsi towelyow, hag yma penn kler dhe’n oberenn.
+2. **Gwary ilow meurgerys.** Kanow aswonys dhyworth aga bledhynnyow yowynk, orth son isel. Hummya war-barth yw lowr. Moy tybyansow yn [gwriansow ilow](/activities/music/).
+3. **Mires orth skeusennow.** Lyver skeusennow, po nebes skeusennow teylu yn [Photo Pairs](/games/photo-pairs/) gans an skeusennow gweladow, a yll ledya dhe geskows kosel.
+4. **Gwul kerdh berr.** A-dro dhe’n lowarth, an rannvro po hel, kyns bos tewal.
+5. **Kevrenna boes skav ha diwes.** Neppyth sempel, toemm ha heb kaffein, orth an voos war-barth.
+6. **Parow es.** [Picture Pairs](/games/picture-pairs/) gans peswar prileghen ha skeusennow gweladow yw es dhe dhalleth hag es dhe hedhi.
+7. **Liwa.** [Coloring](/games/coloring/) war an skrin po war folen bryntys, heb amkan vyth dhe worfenna.
+8. **Mires ha kewsel.** [Conversation Cards](/games/conversation-cards/) a brof skeusen ha govyn ygor. Mires yn unnik yw lowr.
+9. **Powes anella.** [Calm Breathing](/games/calm-breathing/) yw powes lent ha kosel a dhallethowgh ha hedhi agas honan.
+10. **Gwriansow gans an dhiwleuv.** Sortya botonyow po lodhow, strotha blonket medhel, po synsi neppyth aswonys. Gwrewgh mires orth [gwriansow kevnansel](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Gwayewgh gwariow nowydh, mos yn-mes bysi ha puptra a wovyn kov po fog bras diwedh an jydh. Gwithowgh an re na rag an myttin.
 
-## What should I do when restlessness starts?
+## Pyth a dalvien vy gul pan dhalleth an dihewnans?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Bedhewgh kosel, kewrewgh krefhe, ha treylyewgh yn kosel. An NIA a brof kewsel yn kosel, goslowes orth prederow an den, gwaya dadhel, kewsel dhedha bos saw, ha gul toch es mar gweres. Ena assayewgh treylya an brys: boes skav, diwes, ilow po kerdh.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+An Alzheimer’s Association a brof lavarow kepar ha « Hwi yw saw omma » ha « Drog yw genev bos hwi serrys », ha keski keworra golow, lenthe ha lehe muskya. Na wrewgh gorra an den yn kornel, na y strotha, na y synsi yn krev, na dadhel ganso.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Mar teu an den dhe vos argasus, an NIA a gusul a vos pel lowr dhe vos saw bys pan hedho an omdhegyans. Yn kas a argow, galwewgh 999 ha displegyewgh bos demensia dhe’n den.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Yma moy a-dro dhe lavarow kosel y’gan gidlow a-dro dhe [keskomunyans](/caregiving/communication-tips/) ha [pyth dhe wul pan leverons i « na »](/caregiving/when-they-say-no/).
 
-## How do I find the triggers?
+## Fatell allav vy kavos an tacklow a wra kawsya an dra?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Gwithowgh kovskrif berr dres seythun po dew. An Alzheimer’s Association a gomend holya an pyth a hwer kyns hwarvosow howldrehevel rag aswon an tacklow a wra kawsya an dra. Skrifewgh an eur pan dhallethas an dihewnans, pyth a hwarva yn’n our kyns, kosk, boes ha diwesow, godrigoryon, tros ha golow. Degowgh an kovskrif dhe’n medhek. An NIA a verk y hyll holya chanjyow yn omdhegyans gweres gwithysi ha proviyoryon yeghes dhe aswon patron.
 
-## When should I call a doctor about sundowning?
+## P’eur y talvien vy elwel medhek a-dro dhe howldrehevel?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kestavewgh orth medhek an den mar yw an dihewnans nowydh, gweth a-dhistowgh, po gans chanjyow erel. An NIA a lever y tal bos dres chanjyow a-dhistowgh po chanjyow uskis yn omdhegyans, yn arbennek wosa klevesans po chanjyow a-dhiwedhes yn medhegieth, bos res dhe vedhek a-dhistowgh.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Govynnewgh orth an medhek dhe checkya taklow a yll gul gordhuhweryow moy kales. An Alzheimer’s Association a gampoll kudynnow korfek kepar ha klevesansow an fordh dowr, anallu dhe synsi dowr, diwarr dihewn, ha apnea kosk, ha keski govyn py euryow a’n jydh yw an gwella rag pub medhegieth. An NIA a rol payn, kostyvens ha gwaytyansow po kesoberansow medhegiethow avel kawsow a serrysneth possybyl.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+An Alzheimer’s Association a lever y vos dre vras gwell gweles rag fordhow heb medhegieth rag kudynnow kosk junys gans Alzheimer’s, hag y tal bos prederys medhegieth rag serrysneth diwedh an jydh marnas pan fella an re na, wosa breusi peryllow ha lesow. An ervirans na yw gans an medhek. Na wrewgh dalleth, hedhi po chanjya medhegieth vyth, gweres kosk po keworrans heb kusul medhegel.
 
-## How do I get through the evenings myself?
+## Fatell allav vy dos dre an gordhuhweryow ow honan?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Dohajydhow diwettha a yll bos an rann galessa a jydh gwithyas. Mar kyllowgh, govynnewgh orth esel a’n teylu, koweth po gwereser pes dhe witha an dohajydh diwettha nebes dydhyow pub seythun, hogen rag unn our. Agan gidlow a-dro dhe [omwith gwithyas](/caregiving/caregiver-self-care/) a rol dewisow powes ha Linen Gweres Alzheimer’s Association heb kost, 24/7.

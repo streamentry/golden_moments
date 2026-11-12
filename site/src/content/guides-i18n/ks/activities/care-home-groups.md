@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "ڈیمنشیا خٲطرٕ گْرُپ سرگرمِیاں: اکھ رہنما"
+seoTitle: "ڈیمنشیا گْرُپ سرگرمِیاں: بِنٛگو، گیت، کہانِہ"
+description: "میموری کؠر، نرسِنٛگ ہوم تٕہ ڈے پروگرامَن خٲطرٕ گْرُپ سرگرمِیاں: تصویری بِنٛگو، گیت گاین تٕہ یادن ہُنٛد گْرُپ، تہٕ بیٹھن تٕہ گْرُپ سائز ہُنٛد مشورٕ۔"
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  میموری کؠر تٕہ ڈے پروگرامَن مَنٛز جان گْرُپ سرگرمِیاں چھِ مختصر، مانوس تٕہ
+  پرٛتھ سطحس پؠٹھ شٲمِل گژھنٕچ آسان: تصویری بِنٛگو، گیت گاین، یادن ہُنٛد حلقہٕ،
+  سادٕ ہَرکَت تٕہ مشترکہ لفظی کھیل۔ یِتھ کِنۍ ہیکو گْرُپ تھاوِو لۄکُٹ، لُکن ہُنٛد
+  وُچھن تٕہ بوزن خٲطرٕ ٹھیک جایِ تھاوِو، أکِس وأتِس پؠٹھ اکھ صاف قدم بٔنِو، تٕہ
+  پرٛتھ کٲنٛسہِ خٲطرٕ یَس ضرورت آسہِ تیار تھاوِو اکھ آسان کردار تٕہ اکھ پرسکون
+  نیرنٕچ جای۔
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "لۄکچار گْرُپ چھِ اکثر أکِس بڈِس پروگرامہٕ کھوتہٕ بہتر روزان، تٕہ یِمن مَنٛز ہیکن زیٛادٕ لۄکھ صرف وُچھنہٕ بجایِ پانَے حِصہٕ نِن۔"
+  - "لُکن ہُنٛد بیٹھنُک بندوبست کٔرِو حلقس یا نعل شکلِس مَنٛز، رہنماہس نکھہٕ، بوزن تٕہ وُچھنٕچ ضرورت ذہنس مَنٛز تھٲوِتھ تٕہ پس مَنظرٕچ آواز بَنٛد کٔرِتھ۔"
+  - "پرٛتھ سرگرمی دۄیَن یا ترٛیَن سطحَن پؠٹھ منصوبہٕ بَنٲوِو یُتھ مُختٔلِف صلاحیت وٲلؠ لۄکھ تہِ ہیکن شٲمِل سپدِتھ۔"
+  - "سوال پرژھنہٕ نِش، نَمبَر دِنہٕ نِش تٕہ جیتَن وٲلؠ ٹھٔہرavnہٕ نِش بچِو۔ تصویری بِنٛگو ہیکو یِتھ پٲٹھؠ کھیلن یَتھ مَنٛز ٲخرس پؠٹھ سارِنؠی ہُنٛد کارڈ پوٗرٕ گژھان چھُ۔"
+  - "گۄڈٕ نیرُن، وُچھُن یا نیندٕ یِنۍ چھِ ٹھیک۔ اکھ سٹاف ميمبر آسُن گژھ تیار یُس تِمن لُکن ہُنٛد مدد کرِ یِمَن پرسکون جای ضرورت آسہِ۔"
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "ڈیمنشیا سرگرمیَن خٲطرٕ گْرُپُک کُس سائز چھُ بہتر؟"
+    a: "اَمِیُک کانٛہہ اکھ صحیح نمبر چھُنہٕ، تٕہ یِہ چھُ منحصر تِمن لُکن پؠٹھ یِم تَتہِ روزان چھِ، کمرس پؠٹھ تٕہ سٹاف کٍتِس چھُ دستیاب۔ واریاہ ٹیمَن چھُ باسان زِ لۄکچار گْرُپَن مَنٛز ہیکن سٲری لۄکھ وُچھِتھ، بوزِتھ تٕہ حِصہٕ نِتھ، یَتہِ کِن بٔڈ کمرٕک پروگرامَن مَنٛز چھِ اکثر واریاہ لۄکھ صرف وُچھان روزان۔ اگر تُہؠ کانٛہہ بوڈ پروگرام کران چھِو، تیٚلہِ شٲمِل کٔرِو بییہِ سٹاف یا رضاکار یِم لُکن مَنٛز باغ بِہِتھ أکِس یا دۄیَن لُکن ہُنٛد مدد کرن۔"
+  - q: "مُختٔلِف صلاحیت وٲلِس گْرُپس مَنٛز بٕہ کِتھ کٔنۍ چلاوٕ سرگرمی؟"
+    a: "پرٛتھ سرگرمی مَنٛز شٲمِل گژھنٕچ اکھ کھوتہٕ زیٛادٕ وَتھ منصوبہٕ بَنٲوِو۔ گیت گاینَس مَنٛز چھِ کینٛہہ لۄکھ پرٛتھ لفظ گاوان، کینٛہہ تالی دِوان یا گُنٛگُناوان، تٕہ کینٛہہ چھِ شیکر تھٲوِتھ۔ تصویری بِنٛگو مَنٛز چھِ کینٛہہ لۄکھ پننِہ تصویٕر پانَے لبان یَتہِ کِن کینٛہَن خٲطرٕ چھُ مددگار اشارٕ کران۔ یِمن لُکن زیٛادٕ مددچ ضرورت آسہِ تِمَن تھاوِو سٹاف ميمبرس یا رضاکارس نکھہٕ بِہِتھ۔"
+  - q: "بٕہ کِتھ کٔنۍ کھیلہٕ تصویری بِنٛگو مقابلس بغٲر؟"
+    a: "پرٛتھ تصویٕر تیٚتِس کالس کٔرِو یوٚت تام سارِن٠ی ہُنٛد کارڈ پوٗرٕ گژھہِ، یُتھ کانٛہہ تہِ باقہٕ نہٕ روزِ۔ پرٛتھ تصویٕر پؠٹھ کٔرِو کم کال گفتگو، تٕہ جیتَن وٲلِس کانٛہہ الگ انعام مَہ دِیِو یا سارِنؠی دِیِو ہُے اکھ لۄکُٹ چیز۔ مَقصد چھُ مشترکہ توجہ تٕہ گفتگو، نہ کہ کُس گژھہِ گۄڈٕ پوٗرٕ۔"
+  - q: "کیا بٕہ ہیکہٕ تُہنٛد کھیل گْرُپس مَنٛز بٔڈِس سکرینس پؠٹھ استعمال کٔرِتھ؟"
+    a: "آ، ہیکِو۔ سون کھیل چھِ ویب براؤزرس مَنٛز چلان، اِس لؠ تُہؠ ہیکِو یِم ٹی وی یا پروجیکٹرس سٟتؠ جُڈِتھ لیپ ٹاپس یا ٹیبلیٹس پؠٹھ کھولِتھ۔ تصویری بِنٛگو مَنٛز چھِ پرِنٹ کَرنس لایق کارڈ تہٕ سکرینس پؠٹھ کال کرَن وول شامل۔ Finish the Saying تٕہ Picture Pairs تہِ چھِ بٔڈِس سکرینس پؠٹھ واریاہ جان چلان یَتہِ کِن گْرُپ خٲطرٕ چھُ اکھ نفر ٹیپ کران۔"
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+یِہ رہنما چھُ سرگرمی ڈائریکٹرَن، میموری کؠر ٹیمَن تٕہ ڈے پروگرام لیڈرَن خٲطرٕ۔ اتھ مَنٛز چھِ تِم گْرُپ طریقہٕ یِم کارگر چھِ، کمرٕچ ترتیب، مُختٔلِف صلاحیت وٲلِس گْرُپس خٲطرٕ أکِس سرگرمی ہُنٛد ڈھالُن، تٕہ سٕنۍ پرِنٹ کَرنس لایق بِنٛگو کارڈ تٕہ بٔڈِس سکرینس پؠٹھ کھیل استعمال کرنُک طریقہٕ۔ یَتھ جایِ چھُ پرٛتھ کانٛہہ چیز آرامس، رٲبطس تٕہ پسندس پؠٹھ مرکوز۔ یَتھ جایِ چھُنہٕ کانٛہہ تہِ چیز امتحان۔
 
-## What makes a group activity work in memory care?
+## میموری کؠر مَنٛز کانٛہہ گْرُپ سرگرمی کِتھ کٔنۍ گژھہِ کارگر؟
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+اکھ جان گْرُپ سرگرمی گژھہِ مانوس، مختصر، پرٛتھ سطحس پؠٹھ شٲمِل گژھنٕچ آسان تٕہ دَباؤ نِش پاک آسٕنۍ۔ Alzheimer's Association ہٕنٛز [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) چھِ معنی خیز شمولیتس یِتھ چیزٕ سٟتؠ بیان کران یۄسہٕ أکِس نفرٕ سٕنٛز دلچسپی تٕہ پسندس ہِند حمایت کرِ تٕہ پسند تٕہ کامیٲبی ہُنٛد موقع دِیِہ، ییٚلہِ تہِ ڈیمنشیا واریاہ سخت آسہِ۔ تٔمی دستاویزس مَنٛز چھُ یِہ تہِ وَنان زِ روایتی پروگرام چھِ اکثر دۄہس مَنٛز أکِس یا دۄیَن بڈَن گْرُپ پروگرامَن پؠٹھ بھروسہٕ کران یِمن مَنٛز لۄکھ اکثر صرف غیر فعٲلی پٲٹھؠ شٲمِل روزان چھِ۔
 
-That points to a few practical rules:
+اَمہِ پؠٹھ چھِ کینٛہہ عملی اصول نیران:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **مانوس چیز چھِ نوِ کھوتہٕ بہتر۔** تِم گیت، مَثَل، تصویٕر تٕہ چیز یِم لُکن ہٕنٛزِ جوانی ہٕنٛدِ وقتہٕ پیٹھہٕ چھِ، تِمن مَنٛز چھُ شٲمِل گژھُن آسان۔
+- **مختصر چھُ زیچھِر کھوتہٕ بہتر۔** تقریباً تِیُتھ کال منصوبہٕ بَنٲوِو یِیُتھ تُہنٛدِ گْرُپُک توجہ عام طور پؠٹھ روزان چھُ، تٕہ درمیانس مَنٛز آسُن گژھہِ اکھ قدرتی رُکنٕچ جای۔
+- **کرُن چھُ وُچھنہٕ کھوتہٕ بہتر۔** پرٛتھ کٲنٛسہِ دِیِو کانٛہہ تِتھ چیز یۄسہٕ سُہ تھپھ ہیٚکہِ، ٹیپ کٔرِتھ، چُنِتھ یا وَنِتھ۔
+- **واریاہ سطح، اکھے سرگرمی۔** شٲمِل گژھنٕچ آسان تٕہ کم مشکل وَتہٕ دۄشوے بَنٲوِو۔
+- **نہ کانٛہہ جیتَن وول، نہ نَمبَر۔** مقابلس وٲلؠ طریقہٕ چھِ کینٛہَن لُکن یِہ محسوس کرٲوِتھ زِ تِم چھِ ناکام سپدِمٕتؠ۔
 
-## How big should the group be?
+## گْرُپ کتھ کُس آسُن گژھہِ؟
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+لۄکُٹ گْرُپ چھُ عام طور پؠٹھ آسان۔ Alzheimer's Association چھُ وَنان زِ یُس نفر بٔڈِس اجتماعس مَنٛز پریشان گژھان چھُ، سُہ ہیکہِ لۄکچہِ گْرُپس مَنٛز بہتر پٲٹھؠ میل جول کٔرِتھ۔ اَمِیُک کانٛہہ اکھ صحیح نمبر چھُنہٕ۔ یِہ چھُ منحصر تِمن لُکن پؠٹھ یِم تَتہِ روزان چھِ، کمرس پؠٹھ تٕہ سٹاف تٕہ رضاکارن ہٕنٛز دستیٲبی پؠٹھ۔
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+اکھ مددگار آزمٲیش: کیا پرٛتھ کٲنٛسہِ ہیکہِ رہنماہ سُنٛد بُتھ وُچھِتھ، صاف بوزِتھ، تٕہ کینٛہہ سیکنڈن مَنٛز مددگار تام واتِتھ؟ اگر نَہ، تیٚلہِ گْرُپ کٔرِو زٕ ہِصن مَنٛز تقسیم، مددگار ہُرٲوِو، یا لۄکِس کمرس مَنٛز پٔکِو۔
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+بٔڈِس پروگرامس خٲطرٕ، مِثالَن کانٛہہ تہواری پروگرام، سٹاف تٕہ رضاکار تھاوِو لُکن مَنٛز باغ بِہِتھ، دیوارن نکھہٕ نَہ۔
 
-## How should I set up the room and seating?
+## بٕہ کِتھ کٔنۍ کَرٕ کمرٕچ تٕہ بیٹھنٕچ ترتیب؟
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **حلقہٕ یا نعل شکل۔** عملہٕ ہٕنٛز سفارشات چھِ وَنان زِ حصّہٕ بٲگری ہُنٛد حلقہٕ تِتھِس جایِ بہتر چھُ یَتہِ سارِنؠی خٲطرٕ حلقس مَنٛز بِہنٕچ جای آسہِ، تٕہ پس مَنظرٕچ کانٛہہ آواز آسہِ نَہ۔
+- **رہنما آسُن نکھہٕ تٕہ أچھَن ہٕنٛزِ سطحس پؠٹھ۔** یِتھ کِنۍ ہیکو وۄدٕنہٕ بجایِ بِہِو۔
+- **گۄڈٕ بوزُن تٕہ وُچھُن۔** یِمن لُکن بوزنس مَنٛز مشکل آسہِ تِمَن تھاوِو رہنماہس سٟتؠ بالکل نکھہٕ، تِہٕنٛزِ بہترِ طرفہٕ۔ یِہ یقینی بَنٲوِو زِ أچھَن ہٕنٛز عینک تٕہ بوزنٕک آلٕ لاگِتھ چھِ۔ Alzheimer's Association چھُ وَنان زِ وُچھنٕچ تٕہ بوزنٕچ مشکل ہیکہِ گفتگو مشکل بَنٲوِتھ۔
+- **روشنی یِیِن لُکن ہٕنٛدِ پٔتِم کِنۍ، تُہنٛدِ پٔتِم کِنۍ نَہ۔** کٲنٛسہِ تہِ تِژھِ جایِ مَہ بِہٲوِو یَتہِ پیٹھہٕ تیز روشنی أچھَن مَنٛز پیٚیِہ۔
+- **ٹی وی تٕہ ریڈیو کٔرِو بَنٛد۔** Alzheimer's Association چھُ موسیقی سرگرمیَن دوران مُقابل آواز ہٹاونٕچ صلاح دِوان۔
+- **أکِس وأتِس پؠٹھ اکھے گفتگو۔** الگ الگ جایِ وَننُک چھُ ڈیمنشیا سٟتؠ روزَن وٲلِس لُکن تٕہ بوزنس مَنٛز مشکل وٲلِس لُکن خٲطرٕ مشکل، یِتھ پٲٹھؠ Alzheimer's Association چھُ پننِس [holiday guidance](https://www.alz.org/help-support/caregiving/holidays) مَنٛز وَنان۔
+- **صاف نیرنٕچ وَتہٕ تٕہ اکھ پرسکون کونہٕ۔** یُس کانٛہہ نفر نیرُن چاھہِ تٔمِس گژھہِ یِہ آسان آسُن، تٕہ اکھ سٹاف ميمبر گژھہِ تس سٟتؠ پکنس خٲطرٕ موجود آسُن۔
 
-## Group activity ideas
+## گْرُپ سرگرمی ہٕنٛز تجویز
 
-### Picture bingo
+### تصویری بِنٛگو
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+تصویری بِنٛگو مَنٛز چھِ نَمبَرَن بدل صاف تصویٕر استعمال گژھان، مِثالَن چائے دان، ہون یا گلاب، یُتھ کٲنٛسہِ زیچھِر نَمبَر یاد تھاونٕچ یا لۄکُٹ متن پرنٕچ ضرورت گژھہِ نَہ۔
 
-**How to run it:**
+**کِتھ کٔنۍ چلاوِو:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. سٕنٛزِ [Picture Bingo](/games/picture-bingo/) صفہٕ پیٹھہٕ پرِنٹ بٹن دِتھ پرٛتھ کٲنٛسہِ خٲطرٕ اکھ کارڈ پرِنٹ کٔرِو۔ موٹ کاغذ چھُ تھپھنس مَنٛز آسان۔ دوبارٕ استعمال خٲطرٕ ہیکو لیمینیٹ تہِ کٔرِتھ۔
+2. بٔڈ تٕہ آسانی سٟتؠ تھپھنس لایق نِشانے دِیِو، مِثالَن پوکر چِپ، بوتل ڈاٹھ یا کارڈٕک کٔٹِمٕتؠ ٹُکرٕ۔
+3. ٹی وی یا پروجیکٹرس پؠٹھ سکرینس پؠٹھ کال کرَن وول استعمال کٔرِو یُتھ سٲری لۄکھ تصویٕر وُچھن یَتھ کالس تُہؠ تسُند ناو وَنان چھِو۔
+4. پرٛتھ تصویٕر پتہٕ رُکِو تٕہ کم کال گفتگو خٲطرٕ دعوت دِیِو: «کیا کانٛہہ چھُا یژھان تِتھِس کُنہِ ہُنِس مُتعلِق کینہہ وَنِتھ یَس سُہ زانان اوس؟» یا «تُہؠ کیا چھُو اتھ مَنٛز وُچھان؟»
+5. تیٚتِس کالس کٔرِو یوٚت تام پرٛتھ کٲنٛسہِ سُنٛد کارڈ پوٗرٕ گژھہِ۔ سٲری چھِ پوٗرٕ کران۔
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**ڈھالُن:** یِمن لُکن پوٗرٕ کارڈ واریاہ بھریُتھ باسان چھُ تِمن خٲطرٕ کٔرِو کم خانہٕ۔ یَس کٲنٛسہِ ضرورت آسہِ تس ہیکہِ مددگار ٹھیک تصویٕر وُچھنٲوِتھ۔ کینٛہہ لۄکھ ہیکن کال کرَن وٲلؠ سٕنٛز تصویٕر تھٲوِتھ گْرُپس وُچھناوُن پسند کٔرِتھ۔
 
-### Sing-alongs
+### گیت گاین
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+موسیقی چھِ اکثر واریاہ پسند کرنہٕ یِنہٕ واجِن گْرُپ سرگرمیَن مَنٛز اکھ۔ Alzheimer's Association چھُ وَنان زِ پوٚتِم مرحلن مَنٛز تہِ ہیکہِ اکھ نفر [تال دِتھ یا پننِس بچپنُک گیت گٲوِتھ](https://www.alz.org/help-support/caregiving/daily-care/art-music)۔
 
-**How to run it:**
+**کِتھ کٔنۍ چلاوِو:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- تِم گیت چُنِو یِمن مَنٛز لۄکھ ؤڈِمٕتؠ چھِ، نہ کہ رہنماہس پسند۔ خاندانن پٕرژھِو زِ پرٛتھ کٲنٛسہِ کیا پسند اوس کران۔
+- اشتہارن بغیر موسیقی استعمال کٔرِو، یِتھ پٲٹھؠ Association چھُ وَنان زِ یِم ہیکن پریشان کُن بَنٲوِتھ۔
+- یِم لۄکھ پران چھِ تِمن خٲطرٕ پرِنٹ کٔرِو بٔڈ لفظن مَنٛز بول، مگر یِہ مَہ بناوِو لازمی۔
+- شیکر، ہَتھ ڈھول یا ہیٚلناوَن خٲطرٕ دوپٹہٕ دِیِو۔
+- تالی تٕہ ہَرکَتٕچ حوصلہٕ افزٲئی کٔرِو، تٕہ آواز تھاوِو آرامدہ۔
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**ڈھالُن:** کینٛہہ لۄکھ گاون پرٛتھ لفظ، کینٛہہ گُنٛگُناون، کینٛہہ دِن کھۄر تال، تٕہ کینٛہہ بوزن صرف۔ یِم سٲری طریقہٕ چھِ ٹھیک۔ بییہِ زاننہٕ خٲطرٕ وُچھِو سون [موسیقی سرگرمیَن ہُنٛد رہنما](/activities/music/)۔
 
-### Reminiscence groups
+### یادن ہٕنٛد گْرُپ
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+یادن ہُنٛد گْرُپ چھُ کُنہِ موضوعس گرد جمع گژھان، مِثالَن سکول دۄہ، گۄڈنِچہٕ کارٕ، کچَن یا ریتھ کول، یَتھ مَنٛز تصویٕر، چیز تٕہ موسیقی استعمال گژھان چھِ۔ مَقصد چھُ خوشگوار گفتگو، نہ کہ بالکل صحیح یاد کرُن۔
 
-**How to run it:**
+**کِتھ کٔنۍ چلاوِو:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. اکھ موضوع چُنِو تٕہ کینٛہہ تِژھ چیز أَنِو یِم لۄکھ تھپھ ہیکن، مِثالَن ہَتھ مکسر، بیس بال دستانہٕ، ٹوپی یا بیول کٹلاگ۔
+2. أکِس وأتِس پؠٹھ اکھ چیز برونٛہہ کُن أَنِو۔ کُھلہٕ سوال پٕرژھِو: «مے وَنِو اَمِیُک مُتعلِق،» «تُہؠ کیا چھُو اتھ مَنٛز وُچھان؟» «یِژھ چیز کٔم اوس استعمال کران؟»
+3. پرٛتھ جوابس کٔرِو خٲر مقدم۔ کانٛہہ تاریخ یا حقیقت مَہ کٔرِو صحیح۔
+4. گفتگو گٔژھِو گٔرم یادن کُن نِتھ۔ عملہٕ ہٕنٛز سفارشات چھِ وَنان زِ دؠکھ بھال کرَن وٲلؠ گژھہِ یادن ہٕنٛز گفتگو خۄشگوار یادن کُن رُجوع دِنۍ، نہ کہ تِمن کُن یِم تکلیف دِیِتھ ہیکن۔
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Conversation Cards](/games/conversation-cards/) چھِ موضوع وار پرِنٹ کَرنس لایق تصویری کارڈ دِوان یِمن پؠٹھ کُھلہٕ پرامپٹ چھِ تٕہ یِم گفتگو شروع کرنس خٲطرٕ واریاہ کارگر چھِ۔ بییہِ خیال چھِ سٕنِس [یادن ہٕنٛدِ رہنما](/activities/reminiscence/) مَنٛز۔
 
-### Finish the saying
+### مَثَل پوٗرٕ کٔرِو
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+مانوس مَثَل («قطرہ قطرہ...») چھِ سارِنؠی اکھ أٹھ وۄلان انجام وَننٕچ دعوت دِوان۔ بٔڈِس سکرینس پؠٹھ وُچھٲوِو [Finish the Saying](/games/finish-the-saying/) تٕہ گْرُپس دِیِو أکِس آوازس مَنٛز جواب دِنٕچ اجازت۔ پرٛتھ مَثَل پتہٕ چھُ اکھ بولنُک پرامپٹ۔ اگر کانٛہہ انجام وَنہِ، تیٚلہِ سُہ ہٲوِو تٕہ برونٛہہ پٔکِو۔ اتھ مَنٛز چھُنہٕ کانٛہہ صحیح یا غلط۔
 
-### Large-print word search, together
+### بٔڈ لفظن مَنٛز لفظ تلاش، مِلان
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+بٔڈِس سکرینس پؠٹھ وُچھٲوِو بٔڈ لفظن مَنٛز [Word Search](/games/word-search/) تٕہ گْرُپ مِلٲوِتھ کٔرِو لفظ تلاش، یا تِمن لُکن خٲطرٕ کٔرِو کاپی پرِنٹ یِم میزس پؠٹھ پانَے کٲم کرُن پسند کران چھِ۔ لفظ چھِ صرف سیدِہ تٕہ بۄن کُن پکان۔
 
-### Gentle movement
+### نرم ہَرکَت
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+بِہِتھ سٹریچ کرُن، نرم بال یا غبارٕ برونٛہہ کُن سوزُن، یا مانوس موسیقی پؠٹھ کُرسی ڈانس۔ پرٛتھ ہَرکَت بیان کرنہٕ بجایِ ہٲوِو۔
 
-### Sorting and matching at the table
+### میزس پؠٹھ چھانٹُن تٕہ جوڈُن
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+ترٛیَن یا ژورن نفرن ہٕنٛز لۄکچہٕ میز ہیکن مِلان تصویٕر، کپڑٕک ٹُکرٕ یا چھری کانٹہٕ چھانٹِتھ۔ سکرینس پؠٹھ ہیکو [Picture Pairs](/games/picture-pairs/) یِتھ پٲٹھؠ کھیلن زِ تصویٕر روزن نَنہِ، تٕہ اکھ نفر کرِ ٹیپ یَتہِ کِن میزس پؠٹھ بییہِ لۄکھ کرن پرٛتھ تصویٕر پؠٹھ گفتگو۔
 
-## How do I use your games on a big screen?
+## بٕہ کِتھ کٔنۍ کَرٕ تُہنٛد کھیل بٔڈِس سکرینس پؠٹھ استعمال؟
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+سون کھیل چھِ ویب براؤزرس مَنٛز چلان، اِس لؠ تُہؠ ہیکِو یِم ٹی وی یا پروجیکٹرس پؠٹھ کِہِنہٕ انسٹال کٔرِتھ استعمال کٔرِتھ۔
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. کھیل کھولِو لیپ ٹاپس یا ٹیبلیٹس پؠٹھ یُس کیبل یا کاسٹنگ زٔریعہٕ سکرینس سٟتؠ جُڈِتھ آسہِ۔
+2. براؤزر کٔرِو پوٗرٕ سکرین تٕہ آواز تھاوِو اکھ آرامدہ سطحس پؠٹھ۔
+3. اکھ رہنما کرِ ٹیپ یَتہِ کِن گْرُپ کرِ آواز دِتھ پسند وَنان۔ یا یَس کٲنٛسہِ نفرس پنُن وار آسہِ تس دِیِو ٹیبلیٹ۔
+4. ییٚلہِ گْرُپ تیار آسہِ تیٚلہِ رُکِو۔ یِمن کھیلَن مَنٛز چھُنہٕ کانٛہہ ٹائمر، نَمبَر یا مجبور کرَن وول اختتام۔
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Picture Bingo](/games/picture-bingo/)، [Finish the Saying](/games/finish-the-saying/)، [Picture Pairs](/games/picture-pairs/) تٕہ [Conversation Cards](/games/conversation-cards/) چھِ عام طور پؠٹھ گْرُپَن خٲطرٕ واریاہ موزوں۔ سٲری اختیار وُچھِو سٕنِس [کھیل صفہٕ](/games/) پؠٹھ۔
 
-## How do I adapt one activity for mixed abilities?
+## مُختٔلِف صلاحیت وٲلِس گْرُپس خٲطرٕ بٕہ أکِس سرگرمی کِتھ کٔنۍ ڈھالاوٕ؟
 
-Plan at least three ways to join every activity.
+پرٛتھ سرگرمی مَنٛز شٲمِل گژھنٕچ کم از کم ترٛے وَتہٕ منصوبہٕ بَنٲوِو۔
 
-| Activity | More independent | Some support | Most support |
+| سرگرمی | زیٛادٕ خود مختار | کینٛہہ مدد سٟتؠ | زیٛادٕ مدد سٟتؠ |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| تصویری بِنٛگو | پننِہ تصویٕر چھُ لبان تٕہ ڈھانپان | مددگار چھُ اشارٕ کران؛ نفر چھُ ڈھانپان | اکھ تصویری کارڈ چھُ تھٲوِتھ؛ بوزان تٕہ وُچھان |
+| گیت گاین | گاوان چھُ، بیاکھ گیت چھُ چُنان | گُنٛگُناوان چھُ، تالی چھُ دِوان، شیکر چھُ استعمال کران | بوزان چھُ، دوپٹہٕ چھُ تھٲوِتھ، ہَتھس تال چھُ دِوان |
+| یادن ہُنٛد گْرُپ | کہانِہ چھُ وَنان | آ یا نَہ مَنٛز جواب چھُ دِوان یا اشارٕ چھُ کران | چیز چھُ تھٲوِتھ تٕہ محسوس کران |
+| لفظ تلاش | پنٕنۍ پرِنٹ شدٕ کاپی پؠٹھ چھُ کٲم کران | بٔڈِس سکرینس پؠٹھ مددگار سٟتؠ چھُ لفظ لبان | یَتھ کالس لفظ پرنہٕ یِوان چھِ سُہ چھُ بوزان |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+پوٚتِم مرحلن مَنٛز روزَن وٲلِس لُکن خٲطرٕ چھُ NHS وَنان زِ سرگرمی گژھن عام طور پؠٹھ زیٛادٕ سادٕ آسٕنۍ تٕہ حواسَن پؠٹھ زیٛادٕ توجہ دِنۍ، مِثالَن موسیقی، تھپھنس لایق چیز یا ہَتھن ہُنٛد مالش۔ گْرُپس دوران یا پتہٕ اکھ اکھ نفر سٟتؠ وقت گزارُن ہیکہِ تِمن خٲطرٕ گْرُپ کھوتہٕ زیٛادٕ موزوں آسُن۔ وُچھِو [پوٚتِم مرحلن ہٕنٛز سرگرمِیاں](/activities/late-stage/)۔
 
-## How should leaders talk during a group?
+## گْرُپس دوران رہنما کِتھ کٔنۍ کٔرِن گفتگو؟
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- پرٛتھ لٹہِ دِیِو پنُن تعارف، تٕہ پرٛتھ کٲنٛسہِ سٟتؠ کٔرِو تٔمِس سُنٛد پسندیدہ ناو استعمال۔
+- آہستہٕ ؤنِو، أکِس وأتِس پؠٹھ دِیِو اکھ قدم، تٕہ وَننہٕ برونٛہہ ہٲوِو۔
+- کُھلہٕ دعوت دِیِو («مے وَنِو اَمِیُک مُتعلِق…») یا سادٕ پسند، زانٛہہ تہِ امتحٲنی سوال مَہ پٕرژھِو («تۄہِ چھُا یاد…؟»)۔
+- کانٛہہ مَہ کٔرِو صحیح۔ پرٛتھ شمولیتس پؠٹھ کٔرِو شکریہ۔
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+اَمہِ مُتعلِق بییہِ چھُ سٕنِس [گفتگو ہٕنٛز مشورن](/caregiving/communication-tips/) مَنٛز۔
 
-## Ending well, and letting people leave
+## بہتر اختتام، تٕہ لُکن ہُنٛد نیرنٕچ اجازت
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+رُکن چھُ اکھ جان نتیجہٕ۔ دِیِو توجہ اگر کانٛہہ نفر تھٔکِتھ، بے چین یا پریشان باسان چھُ، تٕہ اکھ مددگار گژھہِ تس نکھہٕ سیر خٲطرٕ یا بییہِ کُنہِ پرسکون جایِ بِہنس خٲطرٕ پُچھُن۔ گیت گاینَس دوران اگر کانٛہہ نیندٕ کٔرِ، یِہ ہیکہِ سِرف یِہ معنی آسُن زِ سُہ چھُ آرامس مَنٛز۔
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+پرٛتھ گْرُپ کٔرِو اکھے طریقہٕ ختم، کُنہِ مانوس گیتہٕ سٟتؠ یا سادٕ شکریہ سٟتؠ، یُتھ اختتام لگہِ پرسکون تٕہ متوقع۔ پتہٕ کٔرِو کم نوٹ زِ کیا روٗد جان تٕہ کٔم کوس چیز پسند کٔر۔ یِم نوٹ چھِ بیاکھ سیشن بییہِ بہتر بَناوان۔

@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Alamaram dementia bǝlinbe-a loktu luwotǝbe-a"
+seoTitle: "Alamaram dementia bǝlinbe-a loktu luwotǝbe-a"
+description: "Alamaram dementia bǝlinbe, kǝrtǝ kura-a farkunzǝ-a, dalilwa gade hangal kadǝnza-a, loktu luwotǝbe-a dazǝtǝ-a."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Hangal kadǝnza cidawa yalla-a kǝltǝgǝ, cidawa noata-a kǝltǝgǝ, loktu-a na-a wulǝjin ba, kuru hal-a
+  shawari-a faltǝgǝ alamaram dementia bǝlinbe wo. Amma kǝndaram gade, misal thyroid, vitamin B12 gana,
+  kurun kǝri-a, karǝŋkǝlǝ dunowa-a kuru bǝlinem kǝnǝmbe-a, kǝla ngǝwuro adǝgaibe sakkǝna. Luwotǝma
+  ilmuwu-a runzǝ bas kǝndaram adǝga tǝmatǝyin. Hangal faltǝgǝ saita ro kǝnza tǝdǝna banajin sǝdǝna.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Waktu laa awo gana njǝstǝ kura so-a kǝla; cidawa yalla-a kǝltǝgǝ faltǝna ruiyin ma."
+  - "Alzheimer's Association alamaram hangal kǝltǝbe mewu fǝlezǝna, kuru kǝla-a kǝrtǝ kura so-a faltǝgǝna-a."
+  - "Thyroid, vitamin B12 gana, kurun kǝri-a, karǝŋkǝlǝ dunowa-a, kǝndawu-a kuru bǝlinem kǝnǝmbe-a hangal-a kadǝnzayin; laanza kǝri-a dǝptin."
+  - "Luwotǝma ilmuwu-a runzǝ bas kǝndaram dementia tǝmatǝyin; jarabtǝ online-a kǝla-nyi-a tǝmatǝnzayin ba."
+  - "Hangal faltǝgǝ saita ro (saat laa-a kawu laa-a cidiya) delirium wo, banajin sǝdǝna."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Awo njǝstǝ kura so-a kǝla wa?"
+    a: "Laanza kǝla. National Institute on Aging wulzǝna, awo gana bata-a njǝstǝ-a biya gana njǝstǝ-a ngǝwuro kura so-a kǝla hangal kadǝnza gana wo. Dementia kura so-a kǝla bawo. Hangal kadǝnza cidawa yalla-a kǝltǝgǝ, misal mota tǝrǝm, wayar faidatǝ, biya fatobe matǝ, luwotǝ-a ruiyin ma."
+  - q: "Hangal kadǝnza dalil dementia gade lan kǝnza wa?"
+    a: "Aa, kǝnza. National Institute on Aging thyroid, kǝndawu kǝji-a gǝdibe-a, kurun kǝri-a, karǝŋkǝlǜ dunowa-a, vitamin B12 gana, kǝnza njimari-a, bǝlinem kǝnǝmbe-a, kǝndawu-a kuru kǝla bǝbu-a bayanzǝna. Laanza kǝri-a ngawo waltǝyin, adǝma nanka luwotǝ-a ruiyinzǝ faida."
+  - q: "Kam laa faton dementia-a jarabtǝyin ba wa?"
+    a: "A'a. Luwotǝma ilmuwu-a runzǝ bas kǝndaram adǝga tǝmatǝyin, labar dondi, kǝla jaraptǝ, hangal-a fǝram-a jaraptǝ, lab jaraptǝ-a kuru sa laa kǝla bǝbu scan-a faidatǝyin. Jarabtǝ gana luwotǝma sǝdǝna-a runzǝ bas tǝmatǝro dazǝyin ba."
+  - q: "Kam laa saita ro hangalnzǝ faltǝna ya, awi dǝptǝye?"
+    a: "Banajin sǝdǝna. Hangal faltǝgǝ saita ro delirium wo, VA wulzǝna shi adǝ banajin sǝdǝna. Luwotǝma kamdǝbe-a saita ro bowone bi 112 bowone, kamdǝ-a rokko napne, kuru kurun shi nganzǝ-a ruwone."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Hangalnyin-a bi kam raamma-a hangalnzǝ-a faltǝna asutǝ ritta cidiya. Shafi adǝ loktu luwotǝ-a letǝ-a kuru futu dazǝtǝ-a banazǝniyin. Amma kam laa dementia-a tǝna-a wuljǝgǝyin ba. **Luwotǝma ilmuwu-a runzǝ bas kǝndaram dementia tǝmatǝyin**, kuru hangal kadǝnzǝ sǝdǝna ngǝwuro dementia bawo. Jarabtǝ online-a kǝla-nyi-a tǝmǝne ba.
 
-## What are the early signs of dementia?
+## Alamaram dementia bǝlinbe awi wa?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) alamaram bǝlinbe mewu fǝlezǝna. Kǝla-a kǝrtǝ kura so-a faltǝgǝna-a rokko fǝlezǝna. Kalmanemde-a:
 
-| Sign worth checking | More typical with age |
+| Alamaram ruiyin ma | Kura so-a ngǝwuro faltǝgǝna |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Hangal kadǝnza cidawa yalla-a kǝltǝgǝ, misal awo bǝlin badina-a njǝstǝ bi kǝla fal ngǝwuro-a ngǝwuro kǝriwutǝ | Waktu laa su bi loktu-a njǝstǝ amma ngawo tǝngatǝ |
+| Nadiro-a bi masǝla-a fattǝgǝ kǝltǝgǝ, misal dafi noata-a gǝtǝ bi biya-a ruiyitǝ | Waktu laa biya fatobe-a batti gana sǝdǝ |
+| Faton, cidalan bi deyalan cidawa noata-a dazǝro kǝltǝgǝ | Waktu laa microwave bi TV ruwotǝro bana bǝzǝ |
+| Kawu, loktu bi na-a wulǝjin ba | Yimbe kawube-a batti amma ngawo asutǝ |
+| Kǝntǝga-a, karantǝ-a bi launi-a asutǝro kǝltǝgǝ bǝlin | Shim kǝltǝgǝ cataract dalil |
+| Mana-a kǝltǝgǝ bǝlin, misal manaben dawutǝ bi awo-a su-a batti bowotǝ | Waktu laa kalma ngǝla-a matǝro kǝltǝgǝ |
+| Awo-a na batti-a yikkǝ gǝnatǝro dazǝyin ba | Waktu laa awo-a bata-a amma ngawo matǝ |
+| Shawari kǝltǝgǝ kǝskebe, misal kǝngǝna bi kǝla tǝlamtǝ-a lan | Waktu laa shawari kǝskebe gana sǝdǝ |
+| Cida ngǝla-a, cida-a bi jama-a koltǝ | Waktu laa jama-a bi fado-a letǝro raajin ba |
+| Hal bi kǝla kambe-a faltǝ, misal hangal faltǝgǝ, shekku, ritta bi karǝŋkǝlǜ | Ada faltǝna-a wajip ruiyitǝ, sa adǝ faltǝna ritta kǝnza |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Alamaram fal runzǝ dementia mananzǝ bawo. Faida-a shi **kǝla kamdǝbe ngǝwuro-a faltǝna**, kǝla adǝ cidawa yalla-a kǝltǝgǝna.
 
-## How is normal aging different from dementia?
+## Kura so-a dementia-a futu gade wa?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) wulzǝna, kura so ngǝwuro awo-a duwaro tǝnganzayin, bi awo-a batanzayin bi biya-a njǝstanzayin. Adǝ ngǝwuro hangal kadǝnza gana. **Dementia kura so-a kǝla bawo.** Hangal kadǝnza dunowa cidawa yalla-a kǝltǝgǝyin, misal mota tǝrǝm, wayar faidatǝ bi fatobe-a matǝ.
 
-The NIA suggests talking with a doctor if someone:
+NIA wulzǝna luwotǝ-a ruiyin ma kam laa:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Kǝla fal-a ngǝwuro-a ngǝwuro kǝriwu
+- Na ngawo noata-a bǝlinnata
+- Dafi bi dalil-a gǝtǝro kǝltǝgǝ
+- Loktu, am-a bi na-a lan hangalnzǝ faltǝgǝ
+- Kǝlanzǝ-a ruiyitǝ kolzǝna, misal kǝmbu ngǝla-a bu ba, kasala ba bi hal kǝltǝbe-a sǝdǝ
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Am laa **mild cognitive impairment (MCI)** tǝna. Adǝye hangal bi fǝram kadǝnza am kura sawa-a kozǝna, amma cidawa yalla-a sǝdin. NIA wulzǝna MCI Alzheimer's bǝlinbe alamaram wo, amma am MCI-a tǝna samma Alzheimer's sǝdǝnyi ba.
 
-## What else can cause memory problems?
+## Awi gade hangal kadǝnzǝ sǝdǝyin?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Kǝndaram ngǝwuro dementia gade lan hangal-a kadǝnzayin, laanza kǝri-a ngawo waltǝyin. NIA adǝga bayanzǝna:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Thyroid, kǝndawu kǝji-a gǝdibe-a kǝltǝgǝ**
+- **Kurun kǝri-a**
+- **Karǝŋkǝlǝ dunowa-a karǝŋkǝlǜ-a**
+- **Vitamin B12 gana** bi kǝmbu ngǝla-a bu ba
+- **Bǝlinem kǝnǝmbe kǝltǝgǝ**
+- **Kǝnza njimari-a bi kurun lardǝbe-a faidatǝ ba**
+- **Kǝndawu, bu kǝltǝgǝ bi kǝla bǝbuben tumor**
+- **Kǝla bǝbu**, misal concussion
+- **Karǝŋkǝlǜ dunowa bi karǝgǝ**, misal cida koltǝ bi kam raamma-a bǝyitǝ
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Fǝnemtǝ-a kuru rui-a kǝltǝgǝ-a hangal faltǝgǝ ro tǝmatǝyin; shafidem [fǝnemtǝbe-a](/brain-health/hearing/) ruye. Adǝma nanka luwotǝ-a ruiyinzǝ faida. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) wulzǝna, luwotǝma ngǝwuro bu jaraptǝ sǝdǝyin thyroid, vitamin gana-a kǝndawu-a ruiyiro. [Kǝnǝm ngǝla](/brain-health/sleep/) kuru karǝŋkǝlǝ dunowa-a kǝritǝ-a faidatǝyin.
 
-## Sudden confusion is an emergency
+## Hangal faltǝgǝ saita ro kǝnza banajin sǝdǝna
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Hangal faltǝgǝ saita ro kǝnza, saat laa-a kawu laa-a cidiya, banajin sǝdǝna.** Delirium wo. [VA wulzǝna delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) shi adǝ banajin sǝdǝna, kuru luwotǝma kamdǝbe-a saita ro boworo bi 112 boworo shawari sǝdin. Alamaramnzǝ:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Hangal ngǝla-a faltǝ-a waltǝ-a
+- Karǝŋkǝlǜ yikko-a kǝltǝgǝ
+- Fǝram tǝlammaa ba
+- Kǝnǝm dunowa, bi kǝla kaltǝgǝ-a karǝŋkǝlǜ-a
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Adǝ kam yaye-a kǝnzin, kam dementia-a kǝrmai so-a yaye. [NHS](https://www.nhs.uk/symptoms/confusion/) wulzǝna, dalilwa ngǝwuro kǝndawu (urinary tract infections kura so-a kuru am dementia-a kǝrmai-a ngǝwuro), stroke, diabetes-a bu sukǝr gana, kǝla bǝbu-a kuru kurun laa-a. Bana ishiro kǝla-a, kamdǝ-a rokko napne, mana gana-a lǝmǝn-a hangalnzǝ yikkǝne. Kǝla ngǝwuro-a kǝriwune ba, kuru kurun shi nganzǝ-a ruwone.
 
-## How do I prepare for the doctor's appointment?
+## Luwotǝ-a letǝro futu dazǝtǝye?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Letǝ ngǝla bǝlinzǝ ruwo ngǝla. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) adǝga kudǝro shawari sǝdin:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Hangal, hal-a kǝla kambe-a faltǝna-a ruwo**, misalwa bayin-a kuru sa badizǝna-a
+2. **Kǝndawu ngawo-a kuru kǝrma-a**, fado-a hangal kǝndawu-a tǝna
+3. **Kurun samma, luwotǝma sǝdǝna-a bi kasuwulan sandǝna-a**
+4. **Vitamin bi supplement samma**
+5. **Kǝla kǝriwuma-a**, misal jarabtǝ awi sǝdǝyin, sa awi gozǝyin, kuru sawi jawaptǝ-a ishi
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Fado kam bi sawa ngǝla kamdǝ-a ngǝla nozana-a kudǝ faida. [NIA bayanzǝna](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) luwotǝma kamdǝ-a-a fado-a kǝndawu, kurun, cidawa yalla-a kuru hal faltǝna-a kǝriwunzayin. Luwotǝma adǝga yaye sǝdǝyin:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Hangal, masǝla fattǝgǝ, karǝŋkǝlǜ, kǝrǝm-a kuru mana-a jaraptǝ
+- Bu, fin-a kuru jarabtǝ gade-a dalil gade-a matǝro
+- Karǝŋkǝlǝ dunowa bi kǝndaram karǝŋkǝlǝbe gade-a rui
+- Kǝla bǝbu scan (CT bi MRI) waltǝ
+- Luwotǝma kǝla kura so-a (geriatrician, neurologist, geriatric psychiatrist bi neuropsychologist) letǝ
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA wulzǝna hangal jaraptǝ Medicare Annual Wellness Visit lan dawari mbeji, adǝ sa ngǝla karǝŋkǝlǜ-a bayanzǝro. Jarabtǝ gana luwotǝma sǝdǝna-a runzǝ bas tǝmatǝro dazǝyin ba. Bǝdiram bǝlin, kuru tǝmatǝ letǝ fal kozǝna gozǝyin. NIA shawari sǝdin am hangal kadǝnza-a tǝna luwotǝ-a kǝntagǝ 6-a 12-a ro waltǝro.
 
-## Raising the subject kindly
+## Kǝla adǝ-a nǝm ngǝla lan bayantǝ
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Kam gade-a lan karǝŋkǝlǜnyin tǝna ya, sa lǝmǝn-a bi na bǝlin-a fǎne. Awo asutǝna-a wulle, kamdǝbe dondi-a lan bawo lamarra lan. Jaraptǝ kǝndawu ngǝwurobe-a shawari sǝdǝ ritta gana wo. Kamdǝ-a shawari-a ro suro, kam kura ro mananzǝne. Shafidem [mana bayantǝ nǝm ngǝla](/caregiving/communication-tips/) banazǝniyin.
 
-## Talk with a doctor
+## Luwotǝ-a manane
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Hangal, fǝram, hal bi cidawa yalla-a faltǝna bǝlin-a kuru dawarta-a asutǝ ya, luwotǝma bǝlinbe-a loktu letǝbe-a tǝmǝne. Hangal faltǝgǝ saita ro kǝnza ya, 112 bowone bi luwotǝma kamdǝbe-a saita ro bowone. Bǝlin lan ruiyin dalilwa kǝri-a dǝptin-a matǝyin, kuru dementia wo ya, nadiro-a bana matǝro sa ngǝwu tǝna. Kǝlanyin-a yaye ruiyine; shafidem [kǝla kǝlanǝm ruiyitǝ](/caregiving/caregiver-self-care/) ruye.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Shafi adǝ bayanna ngǝwuro, shawari luwotǝbe bawo. [Bayanna luwotǝbe](/medical-disclaimer/) ruye.

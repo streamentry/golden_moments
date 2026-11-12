@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Dema kesek bi demansê heman pirsê dubare dike"
+seoTitle: "Pirsên dubare di demansê de: Çi bêjin û çi bikin"
+description: "Çima kesek ku bi demansê dijî heman pirsê dubare dike, awayên aram ji bo bersivdanê, amûrên hêsan û kengê guhertinek ji nişkê ve hewceyî bijîşkekê dike."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Pirsên dubare di demansê de gelemperî ne: bi gelemperî kes nayê bîra wî ku
+  wî pirs kiriye, û pir caran pirs xemekê di xwe de digire. Bi aramî û bi
+  kurtî wek cara yekem bersivê bidin, bersiva hesta li pişt wê bidin, û qet
+  nebêjin „te berê pirs kiribû.“ Bersivê li cihê ku ew dikare bibîne binivîsin,
+  bûyeran tenê demeke kurt berî ku çêbibin bêjin, û çalakiyeke kêfxweş pêşniyar
+  bikin. Guhertinek ji nişkê ve hewceyî bijîşkekê dike.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Bi gelemperî kes nayê bîra wî ku wî pirs kiriye; ev bi mebest nîne."
+  - "Pir caran pirs hestekê vedişêre, wek xemgîniya li ser randevûyekê an xwestina hestkirina ewlehiyê."
+  - "Bi aramî, bi kurtî û bi nermî bersivê bidin, wek ku cara yekem be. Qet nebêjin „te berê pirs kiribû.“"
+  - "Nivîsek, tabloyek spî, demjimêr an salnameyek li ber çavan dikare li şûna we bersiva pirsê bide."
+  - "Bûyerên stresdar tenê demeke kurt berî ku çêbibin bêjin."
+  - "Dema ku hûn hewce bibin, navberek kurt bidin xwe, û ji bo her guhertinek ji nişkê ve gazî bijîşkekê bikin."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Çima bavê min ê ku bi demansê dijî heman pirsê dubare dike?"
+    a: "Demans bandorê li bîra demkurt dike, lewra dibe ku ew bi rastî nayê bîra wî ku wî pirs kiribe an bersiv bihîstibe. Pir caran pirs hestekê jî di xwe de digire, wek xemgîniya li ser tiştê ku dê paşê çêbibe an hewcedariya piştrastkirinê. Bersivdana wê hestê bi gelemperî ji dubarekirina agahiyan bêtir alîkariyê dike."
+  - q: "Gelo divê ez ji wî re bibêjim ku wî berê pirs kiribû?"
+    a: "Na. Ev nikare alîkariya wî bike ku bi bîr bîne û dibe ku wek rastkirinekê bê hîskirin. Rêxistinên demansê şîret dikin ku her carê bi aramî bersivê bidin, wek ku cara yekem be, û bersivê kurt bihêlin."
+  - q: "Gelo nivîsandina bersivê alîkariyê dike?"
+    a: "Dibe ku bike, heya ku kes hîn jî dikare bixwîne. Nivîsek, tabloyek spî ya bi plana îro, demjimêrek mezin an salnameyek li cihê ku ew pir caran lê dinêre dihêle ku ew bixwe bersivê kontrol bike. Bi nermî nîşanê bidin, li şûna ku bêjin „min ji te re gotibû.“"
+  - q: "Divê ez kengê derbarê randevûyan an derketinê de biaxivim?"
+    a: "Nêzî wextê wê. Behskirina serdana bijîşkekê an gerê çend roj berê dikare bibe sedema demjimêrên pirsên xemgîn. Demeke kurt berê, bi aramî û bi ravekirina tiştê ku dê paşê çêbibe, jê re bêjin."
+  - q: "Kengê dubarekirin sedemek e ji bo gazîkirina bijîşkekê?"
+    a: "Heke pirs, tevlihevî an tevger ji nişkê ve biguherin an di nav çend demjimêr an rojan de pir xerabtir bibin, zû gazî bijîşkê wî bikin. Enfeksiyon, dermanek nû, êş, qebizî an kêmbûna avê dikarin bibin sedema tevliheviyeke ji nişkê ve ku jê re delirium tê gotin, û ev hewceyî lênêrîna bilez e."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +58,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Saet çend e randevûya bijîşkê?“ Deh deqîqe şûnde: „Saet çend e randevûya bijîşkê?“ Guhdariya heman pirsê dîsa û dîsa yek ji beşên herî westandî yên lênêrîna kesek ku bi demansê dijî ye. Ev pir gelemperî ye, bi mebest nayê kirin, û rêyên aram hene ji bo bersivdanê ku rojê ji bo we herduyan hêsantir dikin.
 
-## Why does someone with dementia ask the same question over and over?
+## Çima kesek ku bi demansê dijî heman pirsê dîsa û dîsa dike?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Bi giranî ji ber bîrê ye. Demans bandorê li bîra demkurt dike, lewra pir caran kes nayê bîra wî ku wî pirs kiriye, an jî nayê bîra wî ku wî bersiv bihîstibe. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) dibêje ku pirskirina gelek caran tiştekî gelemperî û li bendê ye.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Pir caran pirs hestekê jî di xwe de digire. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) rave dike ku pirsek dubare dibe ku xemekê, daxwazek ji bo alîkariyê, an fikar û bêewlehiyê nîşan bide, û ku kes pir caran li aramî û nasbûnê digere. „Em kengê diçin?“ dibe ku bi rastî were wateya „Ez ji çûnê ditirsim.“ Bêzarî, tirs, deng û guhertinên di bernameya rojane de hemî dikarin bibe sedema vê yekê, û pirsek dubare dikare hewcedariyekê jî nîşan bide, wek çûna ser serşokê ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Divê ez çi bibêjim?
 
-Answer calmly and briefly, as if it were the first time.
+Bi aramî û bi kurtî bersivê bidin, wek ku cara yekem be.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Bersivê kurt û yekreng bihêlin.** „Randevûya bijîşkê saet duduyan e. Ez ê bi te re bim.“ Bersivek yekreng hêsantir tê fêmkirin.
+- **Bersiva hestê bidin.** „Tu li ser bijîşk difikirî. Ev êvarê ye, û ez ê we bibim. Tu ne hewce yî ku tiştekî bikî.“
+- **Dengê germ û destdaneke nerm bikar bînin,** heke ew ji destdanê hez dike. Alzheimer's Association şîret dike ku aram bimînin û mantiqê bikar neynin an nîqaş nekin.
+- **Bersiva ku ew lê digere bidin,** her çend caran ku pêwîst be. Alzheimer's Association dibêje ku her carê ku ew dipirse, wê dubare bikin.
 
-## What should I avoid?
+## Divê ez ji çi dûr bisekinim?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„Te berê ji min ev pirs kiribû.“** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) şîret dike ku nehêlin bibînin ku wan nû pirs kiribû. Ev nikare alîkariya wan bike ku bi bîr bînin, û dibe ku wek şermezarkirinê bê hîskirin.
+- **Ravekirinên dirêj.** Zêdetir peyv tê wateya zêdetir tiştên ku werin jibîrkirin.
+- **Bêhna kûr, çavgerandin an dengek tûj.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) şîret dike ku bîhnfireh bin û bêhêvîtiya xwe nîşan nedin. Ev dijwar e; li beşa li ser navberan li jêr binêrin.
 
-## Simple tools that answer the question for you
+## Amûrên hêsan ku li şûna we bersiva pirsê didin
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Heya ku kes hîn jî dikare bixwîne, bersivek nivîskî ya ku ew dikare bibîne pir caran ji bersivek devkî bêtir alîkariyê dike.
 
-| Tool | How to use it |
+| Amûr | Çawa were bikaranîn |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Nivîsek bi tîpên mezin | „Îro saet 2 êvarê randevûya bijîşkê heye. Mary wê we bibe.“ Li cihê ku ew herî zêde lê dinêre deyne |
+| Tabloyek spî | Plana îro di sê an çar rêzan de; her sibeh jê bikin û ji nû ve binivîsin |
+| Demjimêrek mezin bi roj û dîrokê | Ji bo „Îro çi roj e?“ û „Gelo wext hatiye?“ alîkariyê dike |
+| Salname | Her rojê xaç bikin; serdana paşîn dorpêç bikin |
+| Wêneyên nas | Wêneyê kesê ku tê dikare bersiva „Kî tê serdanê?“ bide |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Ev raman ji [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) û [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) tên. Bi nermî nîşanî nivîsê bidin („Werin em bi hev re li tabloyê binêrin“) li şûna ku bêjin „Min ji te re nivîsî bû.“
 
-## Tell them about events close to the time
+## Derbarê bûyeran de nêzî wextê wan biaxivim
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Behskirina randevûyekê an derketinê çend roj berê dikare bibe sedema demjimêrên pirsên xemgîn. Family Caregiver Alliance û Alzheimer's Los Angeles her du jî pêşniyar dikin ku derbarê planan de, nemaze yên stresdar wek serdanên bijîşkê an serşokê, tenê demeke kurt berê biaxivin. Dûv re bêjin ka dê paşê çi çêbibe, gav bi gav.
 
-## Activities that can shift attention
+## Çalakiyên ku dikarin balê veguherînin
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Piştî ku we bersiv da û hestê qebûl kir, çalakiyeke aram û kêfxweş dikare alîkariyê bike, nemaze heke bêzarî li pişt pirsan be. Hemî çavkaniyên li jor pêşniyar dikin ku bala wan ber bi tiştekî ku kes jê hez dike ve were veguhastin.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Lîstikeke kurt û hêsan bi hev re.** [Picture pairs](/games/picture-pairs/) wêneyan li ber çavan dihêle, lewra ne hewce ye ku tiştek were bîranîn.
+2. **Karekî nas.** Pêçandina destmalan, rêzkirina goreyan an amadekirina maseyê. [Sort together](/games/sort-together/) guhertoyeke li ser ekranê ye.
+3. **Li ser tiştekî ku ew jê hez dike biaxivin.** [Conversation cards](/games/conversation-cards/) pirsên vekirî bêyî bersivên rast an xelet pêşkêş dikin.
+4. **Muzîk, meşek an tiştekî xwarinê.** National Institute on Aging van di nav rêyên hêsan ên ji bo veguhastina balê de dibêje.
+5. **Navberek bêdeng.** Bi hev re rûnin, li derve binêrin, an jî kêliyek [calm breathing](/games/calm-breathing/) ya hevpar biceribînin.
 
-If they return to the question, answer it again, kindly. That is fine.
+Heke ew vegerin ser pirsê, dîsa bi nermî bersivê bidin. Ev baş e.
 
-## Look for patterns
+## Li şêweyan binêrin
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association pêşniyar dike ku bala xwe bidin ka gelo pirs di demên diyarkirî yên rojê de, li derdora kesên diyarkirî an li cihên diyarkirî derdikevin. Heke ew her tim berî hatina mêvanan an di dawiya êvarê de dest pê dikin, hûn dikarin pêşwext plan bikin: nivîsek derbarê serdanê de, çalakiyeke nas a amade, jûreyek bêdengtir. Heke êvar herî dijwar in, rêbera me ya li ser [çalakiyên aram ên dawiya êvarê](/caregiving/late-day-restlessness/) dibe ku alîkariyê bike.
 
-## Take care of yourself
+## Xema xwe bikin
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Bersivdana heman pirsê ji bo cara bîstan westandî ye. Heke hûn hîs dikin ku bîhnfirehiya we kêm dibe û kes di ewlehiyê de ye, çend deqîqeyan biçin jûreyeke din û bîhna xwe kûr bidin, wek ku [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) pêşniyar dike. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) lênêrînan teşwîq dike ku alîkariyê bixwazin û li lênêrîna demkî bifikirin. Ramanên zêdetir di [rêbera me ya lênêrîna xwe](/caregiving/caregiver-self-care/) de hene.
 
-## When should I call a doctor?
+## Divê ez kengê gazî bijîşkekê bikim?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Heke pirs, tevlihevî an tevger ji nişkê ve biguherin an di nav çend demjimêr an rojan de pir xerabtir bibin, zû gazî bijîşkê wî bikin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dibêje ku tevgerên ji nişkê ve an yên ku zû diguherin, nemaze piştî enfeksiyonê an guhertina dermanê, divê tavilê ji bijîşkekê re bê gotin. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) rave dike ku enfeksiyon, derman, kêmbûna avê, êş an qebizî dikarin bibin sedema deliriumê, tevliheviyeke ji nişkê ve û giran ku hewceyî dermankirina bilez e. Heke kesek di xetereyê de be, gazî 112 bikin.

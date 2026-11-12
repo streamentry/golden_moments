@@ -1,34 +1,35 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Lîstokên bîrê ji bo kesên bi demansê: bê ceribandin"
+seoTitle: "Lîstokên bîrê yên nerm ji bo demansê"
+description: "Lîstokên lihevhatinê, wêne û kartan ji bo kesên bi demansê, û çawa wan wisa bilîzin ku kes xwe ceribandî nehîse: wêne vekirî, kêmtir cot, bê pûan, wek tîmek bilîzin."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Lîstokên bîrê ji bo kesên ku bi demansê dijîn dema ku li ser bîrê
+  nesekinin çêtirîn dixebitin. Lîstokên lihevhatinê bi wêneyên vekirî
+  bilîzin, çar heta şeş perçe bikar bînin, wek tîmek bilîzin û pûanan
+  bavêjin. Naskirina wêneyekî ji bîranîna wê hêsantir e, ji ber vê yekê
+  lîstokên ku her tişt li ber çavan dimîne hilbijêrin. Armanc encamek ne,
+  lê kêfa demekê ye ku bi hev re derbas dibe.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Lîstokên bîrê yên kevneşopî kartan vedishêrin, ku tam tiştê ku demans dijwar dike diceribîne. Li şûna wê, wêneyan vekirî bihêlin."
+  - "Kêmtir perçe, wêneyên mezintir û her carê tenê vebijêrkek lîstikê xweş dihêle."
+  - "Wek tîmek bilîzin, dorê bidin hev ku alîkariyê bikin û pûanan bavêjin. Divê tu kes neyê zextkirin ku bersivê bide."
+  - "Tu lîstokek bîrê nehatiye nîşandan ku demansê derman dike, hêdî dike an rawestîne. Ji ber ku demek xweş e ku bi hev re derbas dibe bilîzin."
+  - "Dema ku hê kêfxweş e, rawestin. Axaftina li ser wêneyan jî encamek baş e."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Kîjan lîstokek bîrê ji bo kesekî ku bi demansê dijî baş e?"
+    a: "Lîstokek lihevhatinê bi wêneyên mezin û nas ku dikarin vekirî bimînin, wekî Picture pairs ku li ser çar an şeş perçe hatiye danîn. Dîtina hevcotê wêneyekî ku hûn dibînin bêyî ceribandina bîra kurt xweş e. Find the same hê hêsantir e, bi wêneyek ku ji du heta çar vebijêrkan re lihev tê."
+  - q: "Gelo lîstokên bîrê ji demansê re dibin alîkar?"
+    a: "Tu lîstokek bîrê nehatiye nîşandan ku demansê derman dike, hêdî dike an rawestîne; lêkolîneke Cochrane dît ku delîlên li ser perwerdehiya mejî ya li ser komputerê pir sînordar in ku bê gotin gelo ew ji demansê diparêze an na. Lîstok dîsa jî dikarin rêyek germ bin ji bo derbaskirina demê bi hev re. Ji bo kêf û hevaltîyê wan hilbijêrin."
+  - q: "Gelo divê ez bi kesekî ku bi demansê dijî re Concentration a kevneşopî bilîzim?"
+    a: "Di destpêkê de, hin kes hîn jî jê kêfê digirin, bi taybetî bi hejmarek kêm kartan. Heke bîranîna cihê kartan dest bi aciziyê bike, kartan bizivirînin û vekirî bihêlin û bi tenê cotan bi hev re bibînin. Ev lihevhatinê diparêze û ceribandina bîrê radike."
+  - q: "Kîjan lîstokên bîrê ji bo komek pîr û kalên mezin baş in?"
+    a: "Bingoya wêneyan bi gazîkerek li ser ekranê, temamkirina bi dengekî bilind gotinên nas, û kartên axaftinê hemû ji bo koman dixebitin. Bilîzin heta her kart tijî bibe û ji gotina ku kê bersiv daye dûr bisekinin, da ku tu kes xwe cihê nehîse."
+  - q: "Gelo lîstokên bîrê yên belaş ji bo pîr û kalên mezin li ser înternetê hene?"
+    a: "Erê. Lîstokên li ser vê malperê, di nav wan de Picture pairs, Find the same, Photo pairs û Picture puzzle, belaş in, qeydkirinê naxwazin û li ser telefon, tablet û komputeran dixebitin. Tu yek ji wan demjimêr an pûan nîne."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +51,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Li «memory games for seniors» bigerin û piraniya tiştên ku hûn dibînin ji bo kesên ku dixwazin mejiyê xwe bixebitînin hatine çêkirin: kartên veşartî, demjimêrên ku paşve dihejmêrin, ast û pûan. Ji bo kesekî ku bi demansê dijî, ev taybetî lîstikê vediguherînin ceribandinekê ya tam wê tiştî ku dijwar bûye. Heman lîstok dikarin bi awayekî nermtir bêne lîstin. Ev rûpel nîşan dide ka çawa, û lîstokên ku di her qonaxê de baş dixebitin rêz dike.
 
-## Why do classic memory games frustrate people with dementia?
+## Çima lîstokên bîrê yên kevneşopî ji bo kesên ku bi demansê dijîn acizker dibin?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Ji ber ku ew li ser girtina agahiyên nû di hiş de disekinin, ku bi gelemperî yekem tişt e ku nexweşiya Alzheimer, sedema herî gelemperî ya demansê, bandor lê dike. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) dibêje ku nîşana destpêkê ya herî gelemperî ya Alzheimer dijwariya bîranîna agahiyên ku nû hatine fêrkirin e. Di Concentration a kevneşopî de, hûn du kartan dizivirînin, cihê wan di bîr de digirin, û piştî deqîqeyekê wê bikar tînin. Ew agahiyeke nû ye, ku tê girtin û tê bîranîn.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Demjimêrek, pûanek an jî dengê bersiveke çewt lê zêde bikin, û kes tê bîranîn tiştên ku nikare bike, li ber çavên kesekî ku ji wî hez dike. Gelek kes bêdeng dev ji lîstinê berdidin.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Naskirina tiştekî ku hûn dibînin karekî cuda ye û bi gelemperî hêsantir e. Nîşankirina fincana çayê ya duyemîn dema ku her du li ber çavan in xweş e. Ji ber vê yekê fêlbazî ev e ku lihevhatinê bimîne û ceribandina bîrê were rakirin.
 
-## How do you make a memory game gentle?
+## Meriv çawa lîstokek bîrê nerm dike?
 
-These adjustments work for card games, board games and games on a screen.
+Ev guhertin ji bo lîstokên kartan, lîstokên textê û lîstokên li ser ekranê dixebitin.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Wêneyan vekirî bihêlin.** Lihevhatina wêneyên ku hûn dibînin dîsa jî lîstokeke rast e, û pir caran lîstokeke xweş e.
+2. **Kêmtir perçe bikar bînin.** Bi du an sê cotan dest pê bikin. Tenê heke pir hêsan bû û bêtir dixwestin, bêtir lê zêde bikin.
+3. **Wêneyên mezin, nas û ji bo mezinan hilbijêrin.** Fincanek çayê, gulberojek, keştiyek. Ne karton û ne jî dîmenên tevlihev.
+4. **Wek tîmek bilîzin.** Li şûna «dora te ye», bibêjin «werin em kûçikan bibînin». Dorê bidin hev ku nîşan bikin û alîkariyê bikin.
+5. **Pûanan bavêjin.** Ne hewce ye ku tu kes bi ser bikeve. Heke kesek bipirse, gotineke sade wek «me kir» bes e.
+6. **Tu carî li dijî demê nelezin.** Demjimêr tune, û di navbera doran de jî lezbûn tune.
+7. **Li ser wêneyan biaxivin.** «Li wê keştiyê binêre. Te qet bi keştiyê geriya?» Pir caran axaftin beşa herî xweş e.
+8. **Di demeke baş de rawestin.** Piştî lihevhatinekê bi dawî bikin, dema ku hê xweş e.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) heman ruhê wekî şîreta giştî dide: çalakiyê li gorî tiştên ku kes dikare bike biguncînin, li aciziyê temaşe bikin, û piştrast bikin ku ew xwe serketî hîs dike.
 
-## Gentle memory and matching games to try
+## Lîstokên nerm ên bîrê û lihevhatinê ku hûn dikarin biceribînin
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (lihevhatin bi wêneyên xuya)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) lîstokeke lihevhatinê ye bi wêneyên mezin û 4 heta 12 perçeyan. Wêne dikarin xuya bimînin, ji ber vê yekê armanc dîtina hevcotan e, ne bîranîna cihê wan. Bi çar perçeyan dest pê bikin. Ji bo kesekî di qonaxa destpêkê de ku ji hinekî dijwariyekê kêfê digire, hûn dikarin biçin **Hidden pictures**, lê gava ku êdî kêfxweş nebû dîsa vegerin ser nîşandana wêneyan.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) li jor wêneyek û li jêr du heta çar vebijêrk nîşan dide. Li yê ku lihev tê bitikînin. Ew lîstoka lihevhatinê ya herî sade ya li ser malperê ye û ji bo kesên ku tevahî tabloyekê pir tevlihev dibînin guncaw e, di nav wan de gelek kesên di qonaxên paşîn de ku kesek li kêleka wan e.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (lîstoka bîrê bi wêneyên malbatê)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) wêneyên ku hûn hildibijêrin vediguherîne lîstokeke lihevhatinê: kûçik, baxçe, mala golê. Rû û cihên nas pir caran ji her wêneyekî amade zêdetir axaftinê dest pê dikin. Wêne di geroka we de dimînin û tu carî nayên barkirin.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ji we dixwaze ku her wêneyî bixin selika ku lê tê, wekî mitbax an baxçe. Rêzkirin li ser zanîna demdirêj a li ser ka dinya çawa dixebite disekine, ne li ser bîra kurt.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) wêneyekî dike 4 an 9 perçe. Li du perçeyan bitikînin da ku wan biguherînin heta ku wêne temam bibe. Wêneyê temam wekî rêber li ser ekranê dimîne.
 
-### Real cards on the table
+### Kartên rastîn li ser masê
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Ne hewce ye ku ekranek hebe. Cotên lihevhatî ji du deste kartan an ji komek kartên wêneyî derxînin. Wan di du rêzan de vekirî deynin û cotan bi hev re bibînin. Paşê, li şûna wê li gorî reng an cure rêz bikin. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lîstokên kartan û lîstokên textê di nav çalakiyên ji bo qonaxa destpêkê de rêz dike.
 
-## Which memory games suit each stage?
+## Kîjan lîstokên bîrê li gorî her qonaxê guncaw in?
 
-Stages are loose labels. Go by what the person enjoys today.
+Qonax etîketên nerm in. Li gorî tiştê ku kes îro jê kêfê digire bimeşin.
 
-| Stage | Games that often fit | How to set them up |
+| Qonax | Lîstokên ku pir caran guncaw in | Meriv çawa wan saz dike |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Destpêk | Picture pairs, Photo pairs, Picture puzzle bi 9 perçeyan, lîstokên kartan ên nas | Bila ew hilbijêre. Heke jê kêfê digire perçe dikarin werin zivirandin; heke aciz dike pûanan bavêjin |
+| Navîn | Picture pairs bi 4 heta 6 perçeyên vekirî, Find the same, Sort together | Wêne her dem xuya. Li kêleka wî rûnin û dorê bidin hev ku alîkariyê bikin |
+| Dawî | Find the same bi 2 vebijêrkan, li wêneyekî mezin bi hev re mêze kirin | Pir kurt. Tablet di destê we de ye; ew nîşan dide, an jî tenê temaşe dike û guhdarî dike |
 
-## Do memory games help with dementia?
+## Gelo lîstokên bîrê di demansê de alîkar dibin?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Tu lîstokek bîrê nehatiye nîşandan ku demansê derman dike, hêdî dike an rawestîne. [Lêkolîneke Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) ya li ser perwerdehiya zanistî ya li ser komputerê ji bo kesên ku kêmbûna sivik a zanistî heye dît ku delîl pir sînordar in ku bê gotin gelo ew ji demansê diparêze an na. Rêbera me ya li ser [lîstokên mejî û demansê](/brain-health/brain-games/) rave dike ka lêkolîn çi nîşan didin û çi nîşan nadin.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ev ne sedemek e ku lîstokan bênav bixin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) şîret dike ku bal were kişandin ser kêfê, ne ser serkeftinê. Deh deqîqeyên lihevhatina wêneyan û axaftina li ser wan dikarin bi rastî beşek baş a rojê bin.
 
-## What about memory games for seniors without dementia?
+## Lîstokên bîrê ji bo pîr û kalên mezin ên bê demans çawa ne?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Heke mezinê pîr ku pirsgirêkên bîrê tune ne ji pêlîstok, pûan û astên dijwartir kêfê digire, di vê yekê de tiştekî çewt tune. Lê tenê li ser vê hesabê nekin ku ew ê ji demansê biparêze; tu lîstok nehatiye nîşandan ku vê yekê bike. Guhertoyên nerm ên li jor di heman demê de baş dixebitin dema ku nifş bi hev re dilîzin: dapîrek an bapîrek ku bi demansê dijî û neviyek piçûk dikarin wek tîmek wêneyan li hev bînin, bêyî ku yek ji wan were ceribandin.
 
-## When should you stop or change the game?
+## Kengê divê hûn lîstikê rawestînin an biguherînin?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Bêhna dirêj kişandin, tabletê dûr xistin, gotina «ez nikarim vê bikim» an jî xuyabûna bi fikar hemû nîşan in ku divê hûn wê hêsantir bikin an rawestînin. Kêmtir perçe biceribînin, wêneyan vekirî bikin, biçin [Find the same](/games/find-the-same/), an jî tenê li wêneyan mêze bikin û biaxivin. Heke ew qet naxwazin bilîzin, ev jî baş e. Rêbera me ya li ser [meriv çawa bi hev re dilîze](/caregiving/how-to-play-together/) li ser leza lîstinê û alîkariyê bêtir agahî dide.

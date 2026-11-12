@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "ڈیمینشیا آسہ وٲلِس سٟتؠ کتھ باتھ ہند مشورہ"
+seoTitle: "ڈیمینشیا کتھ باتھ: کیا وَنُن تہٕ کیا ٹالُن"
+description: "ڈیمینشیا سٟتؠ زندٕ گی گزاران وٲلِس سٟتؠ کتھ باتھ کرنٕکؠ عملی طریقہ: کتھ پٲٹھؠ شروٗع کرٕنۍ، کیا وَنُن، تہٕ کیا ٹالُن۔"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  پرٛٲرۍ جایہِ کتھ کٔرِو، تِمَن سٟتؠ بُتھ کٔرِتھ بیہِو، تِہُند ناو ورتٲوِو، تہٕ
+  آہستہ آہستہ چھوٹَن سادَن جُملَن مَنٛز وَنِو۔ أکِس وِزِ صرف اَکھ سوال پُچھِو،
+  کھُلہ سوالن بدل دو انتخاب دِیِو، تہٕ جواب خٲطرٕ قدرتی خیالہٕ کھوتہٕ زیادٕ
+  انتظار کٔرِو۔ بحث مَہ کٔرِو، غلطی مَہ کڈِو، تہٕ امتحان مَہ نِیِو۔ لفظن پتہٕ
+  کِنہِ چھُ احساس، تتھ دِیِو جواب۔ ییلہِ لفظ کم گژھن، اَتھہٕ لاگُن، آواز،
+  بُتھک اظہار تہٕ مشترکہ تصویٖرَن ہِند ذریعہ کتھ باتھ کٔرِو۔
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "کتھ باتھ شروٗع کرنہٕ برونٹھ شور کم کٔرِو تہٕ تِمن نظر مِلٲوِو۔"
+  - "چھوٹ جُملہٕ ورتٲوِو، أکِس وِزِ اَکھ خیال، تہٕ اُس، سۄ، تِم بدل ناو ورتٲوِو۔"
+  - "کھُلہ سوالن بدل دو انتخاب یا آ/نَہ سوال پُچھِو۔"
+  - "جواب خٲطرٕ انتظار کٔرِو۔ اگر نَہ سمجھِ آسہِ، تِی لفظ دۄباری وَنِو، پتہٕ نٔو لفظ آزمٲوِو۔"
+  - "بحث یا غلطی درست کرٕنۍ مَہ کٔرِو۔ یِم تِم ونان چھِ تتھ مَنٛز کَم احساسس دِیِو جواب۔"
+  - "ییلہِ لفظ کم گژھن، اَتھہٕ لاگُن، آواز، بُتھک اظہار تہٕ مشترکہ تصویٖرَن ہِند ذریعہ کتھ باتھ کٔرِو۔"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "ڈیمینشیا آسہ وٲلِس شخصس کیا وَنُن مَہ چھُ مناسب؟"
+    a: "امتحان مَہ نِیِو (\"تۄہِ چھا یاد؟\")، غلطی مَہ کڈِو (\"یہِ چھُ غلط\")، نقصان یاد مَہ پاوِو (\"مے چھُ گۄڈے وَنِمُت\")، تہٕ تِمن بارهٕ تیُتھ مَہ وَنِو زنتہٕ تِم موجود نَہ آسن۔ بَچَن ہِند پٲٹھؠ کتھ مَہ کٔرِو۔ یِم چیز مدد کرنہٕ بدل اکثر شرمندگی یا پریشٲنی پیدا کران چھِ۔"
+  - q: "اگر تِم کانٛہہ غلط حقیقت وَنن، کیا مے پزِ درست کرُن؟"
+    a: "عام طور پٲٹھؠ نَہ۔ اگر غلط حقیقت نقصان دہ نَہ آسہِ، تتھ مَہ چھیرِو۔ بحث کرنہٕ سٟتؠ شاذ و نادر کانٛہہ تبدیلی یِوان چھے، مگر اکثر چھُ شخص پریشان گژھان۔ تِم وُنکینس کیا محسوس کران چھِ تہٕ تِمن کیا ضرورت چھے، تتھ پیٹھ کٔرِو توجہ۔"
+  - q: "ییلہِ تِمن لفظ نَہ میلِ، مے کیا کرُن؟"
+    a: "گۄڈنِکِس دِیِو تِمن وقت۔ اگر تِم واضح طور پریشان آسن، تیٚلہِ چھُ ٹھیک اگر تُہؠ نرمی سان کانٛہہ لفظ پیش کٔرِو یا اندازہ لٲگِتھ پُچھِو۔ اشارہ، ہاو بھاو تہٕ تصویٖر تہِ ہیٚکن مدد کٔرِتھ۔"
+  - q: "آخری مرحلس مَنٛز یِم کم کتھ کران چھِ، تِمن سٟتؠ کِتھ کٔنۍ کرٕ کتھ باتھ؟"
+    a: "برونٹھ کِنہِ نِیِو، پَنُن ناو وَنِو، تہٕ پرٛٲر آواز تہٕ نرمی سان اَتھہٕ لاگُن ورتٲوِو۔ تِہندِس بُتھس تہٕ جسمانی اشارن پیٹھ دِیِو توجہ۔ تُہُند موجودگی، کانٛہہ مانوس نغمہ یا اَتھہٕ رٹُن تہِ ہیکہِ لفظن بغیر واریاہ کینٛہہ وَنِتھ۔"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+ڈیمینشیا ہیکہِ لفظ لبنہٕ، زیٹھ جُملہٕ سمجھنس یا شور ہٹاونَس مَنٛز مشکل بنٲوِتھ۔ یِمَن مَنٛز چھُ نَہ کانٛہہ معنی زِ تِم چھِنہٕ وٕنۍ رٲبطہٕ کرُن یژھان۔ تُہؠ کتھ باتھ کِتھ پٲٹھؠ تیار کران چھِو، کِتھ کٔنۍ ونان چھِو تہٕ کِتھ کٔنۍ بوزان چھِو، یِمَن مَنٛز لۄکچار تبدیلی ہیکہِ دۄنَوے خٲطرٕ کتھ باتھ آسان تہٕ پرٛٲر بنٲوِتھ۔
 
-## What are the most important tips for talking with someone who has dementia?
+## ڈیمینشیا آسہ وٲلِس سٟتؠ کتھ باتھ کرنہٕ وِزِ کیا چھُ واریاہ اَہَم؟
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+تِہُند توجہ حٲصل کٔرِو، کتھ تھٲوِو سادٕ، تہٕ صبر کٔرِو۔ اگر تُہؠ صرف پانچ چیز یاد تھٲوِو:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **کمرہ تھٲوِو پرٛٲر تہٕ تِمن سٟتؠ بُتھ کٔرِتھ بیہِو۔** ٹی وی بَنٛد کٔرِو، تِہنز نظر ملنہٕ خٲطرٕ برابر بیہِو، تہٕ تِہُند ناو ورتٲوِو۔
+2. **أکِس وِزِ اَکھ چیز وَنِو۔** چھوٹ جُملہٕ، اَکھ خیال، اَکھ سوال۔
+3. **دۄیِمَن مَنٛز انتخاب دِیِو۔** "چائے یا کافہ؟" چھُ "تۄہِ کیا چھیو یژھان؟" کھوتہٕ آسان۔
+4. **انتظار کٔرِو۔** جواب خٲطرٕ قدرتی خیالہٕ کھوتہٕ زیادٕ وقت دِیِو، تہٕ مَنٛز مَہ أٹِو۔
+5. **بحث یا امتحان مَہ کٔرِو۔** تِم کیا محسوس کران چھِ تتھ دِیِو جواب، نَہ زِ حقیقت ٹھیک چھا یا نَہ۔
 
-## How should I start a conversation?
+## کتھ باتھ کِتھ پٲٹھؠ شروٗع کرٕ؟
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+یِتھ پٲٹھؠ تیار کٔرِو زِ تِم تُہندِس پیٹھ توجہ دِیِتھ ہیکن۔ [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) چھُ گۄڈنِکِس شور کم کرنُک مشورہ دِوان: ریڈیو یا ٹی وی بَنٛد کٔرِو، پردہ یا دَرواز بَنٛد کٔرِو، یا پرٛٲر جایہِ گٔژِھو۔
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **برونٹھ کِنہِ نِیِو۔** پتہٕ کِنہِ یا طرفہٕ یِنہٕ سٟتؠ ہیکہِ تِم چونکِتھ۔
+- **وَنِو زِ تُہؠ کُس چھِو۔** "سلام بابا، بٕ چھُس سارہ، تُہنز کور۔" یِمَو سٟتؠ چھُ تِمن ناو ژھانڈنٕچ ضرورت کم گژھان۔
+- **تِہندِس سطحس پیٹھ یِیِو۔** اگر تِم بِہِتھ چھِ، تیٚلہِ تُہؠ تہِ بیہِو یا نِیِو زِ تُہنز نظر برابر آسہِ۔
+- **پَنُن بُتھ تہٕ آواز وچِھو۔** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) چھُ مشورہ دِوان زِ آواز، قد، بُتھک اظہار تہٕ جسمانی اشارن ہُنٛد خیال تھٲوِو، تہٕ گرم، سادٕ انداز ورتٲوِو۔
+- **یقینی بنٲوِو زِ عینک تہٕ کَنَن ہِنٛز مشین لٲگِتھ چھے۔** یۄس کتھ باتھ پوٗرٕ پٲٹھؠ وچھنہٕ یا بوزنہٕ یِیہِ نَہ، سۄ سمجھٕنۍ چھے مشکل۔
 
-## How should I phrase what I say?
+## بٕ کیا وَنہٕ خٲطرٕ کِتھ کٔنۍ لفظ ورتٲوِو؟
 
-Use simple words, short sentences and a calm, low voice.
+سادٕ لفظ، چھوٹ جُملہٕ تہٕ پرٛٲر، ہلکہٕ آواز ورتٲوِو۔
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **أکِس جُملس مَنٛز اَکھ خیال۔** "یِیِو، کوٹ لاگَو۔ پتہٕ گژھو نِبر۔" دونَوے اَکہِ لٹہِ مَہ وَنِو۔
+- **ضمیرن بدل ناو ورتٲوِو۔** "آنٹی جین کٔر فون" چھُ "تِمَو کٔر فون" کھوتہٕ صاف۔
+- **آواز ہلکہٕ تھٲوِو، تیز نَہ۔** Family Caregiver Alliance چھُ بلند آواز بدل ہلکہٕ آواز ورتاونُک مشورہ دِوان۔
+- **دۄباری وَنِو، پتہٕ بدل لفظ ورتٲوِو۔** اگر تِمن سمجھ آیہِ نَہ، تِی لفظ اَکہِ لٹہِ دۄباری وَنِو۔ اگر کٲم نَہ گژھ، کینٛژھ کالس پتہٕ بدل لفظن سٟتؠ کوشش کٔرِو۔
+- **وَننہٕ سٟتؠ سٟتؠ ہٲوِو تہِ۔** پیالَس پیٹھ اشارہ کٔرِو، دۄشُے سویٹر ہٲوِو، یا گۄڈنیُک قدم ہٲوِو۔
+- **تِمن سٟتؠ کٔرِو کتھ، تِہندِس بارهٕ نَہ۔** NIA چھُ خبردار کران زِ شخصس بارهٕ تیُتھ مَہ وَنِو زنتہٕ سُہ موجود نَہ آسہِ، تہٕ بَچَن ہِند پٲٹھؠ کتھ مَہ کٔرِو۔
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA چھُ عام سوالن ہِنٛز سادٕ شکلہٕ تجویز کران۔ یِم چھِ تِمن ہِندِس اندازس مَنٛز مِثالہٕ:
 
-| Instead of | Try |
+| یِم بدل | یِم آزمٲوِو |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "رات کہِ کھینَس خٲطرٕ کیا چھیو یژھان؟" | "تۄہِ چھا مچھ یا کوکَر یژھان؟" |
+| "تۄہِ کِتھ چھِو محسوس کران؟" | "تۄہِ چھا تھَک مَتھ محسوس گژھان؟" |
+| "تۄہِ چھا بۄچھ لٲگِتھ؟" | "پانٛژ منٹن مَنٛز چھُ کھین تیار۔" |
+| "یِتھ کٔنۍ چھُنہٕ کران۔" | "یِیِو، یِتھ کٔنۍ کرو کوشش۔" |
+| "تۄہِ چھا ژورن تہٕ پیٹھِنِس سیرس پیٹھ یاد؟" | "بہٕ اوسُس ژورن تہٕ پیٹھِنِس سیرس بارهٕ سوچان۔ مے وَنِو تتھ مَنٛز کیا اوس تُہند پسند۔" |
+| "مے چھُ گۄڈے وَنِمُت۔" | دۄباری نرمی سان وَنِو، زنتہٕ گۄڈنِچہِ لٹہِ آسہِ۔ |
 
-## How do I listen well?
+## بٕ کِتھ کٔنۍ بوزٕ بہتر؟
 
-Listen for the meaning and the feeling, not just the words.
+صرف لفظ نَہ، تِہُند مطلب تہٕ احساس تہِ بوزِو۔
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **انتظار کٔرِو۔** خاموشی چھُ اکثر سوچنُک وقت آسان۔ مَنٛز یِنہٕ برونٹھ آہستہ آہستہ دَہس تام گرٛنِو۔
+- **صرف تیٚلہِ دِیِو لفظ، ییلہِ تِم اٹکِتھ آسن۔** Family Caregiver Alliance چھُ ونان زِ اگر کانٛہہ شخص مشکل مَنٛز آسہِ، لفظ تجویز کرُن چھُ ٹھیک۔
+- **یِکین کٔرِو زِ تُہؠ کیا بوٗز۔** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) چھُ مشورہ دِوان زِ تِہندِس کتھس پِٹھِم مطلب ژھانڈِو تہٕ تِی وَنِو واپس یُتھ سمجھ واضح گژھہِ۔ "تۄہِ چھِو گاڑِ ہندِس بارهٕ فِکر مَنٛز؟"
+- **تِہُند بُتھ تہٕ جسم وُچھِو۔** ییلہِ کتھ باتھ مشکل گژھان چھے، NIA چھُ ونان، تیٚلہِ ہیکہِ بُتھک اظہار لفظن کھوتہٕ صاف اُدٲسی، ناراضگی یا بے چینی ہٲوِتھ۔
+- **فِکرن نِیِو سنجیدگی سان۔** اگر کانٛہہ فِکر غلط حقیقتس پیٹھ آسہِ تہِ، احساس چھُ اصلی۔
 
-## What if they say something that is not true?
+## اگر تِم کانٛہہ غلط چیز وَنن تیٚلہِ کیا؟
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+بحث مَہ کٔرِو۔ تُہؠ ہیٚکِو نَہ شاذ و نادر جیتِتھ، تہٕ شخص ہیکہِ شرمندہ یا خۄفزادٕ محسوس کٔرِتھ۔ امِہ بدل کٔرِو تِہندِس احساسس سٟتؠ رٲبطہٕ، پتہٕ نرمی سان بدلاوِو موضوع۔
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance چھُ مشورہ دِوان زِ موضوع بدلاونہٕ برونٹھ احساسس تسلیم کٔرِو۔ مِثال، اگر تُہنز موج وَنہِ زِ تِمن چھے سکولہٕ نِیُن شُر،
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- یِم بدل: "موج، تُہند شُر چھِ وۄنۍ وڈٕ۔ سُہ وقت چھُ ژورِم ؤرِی گُزریمُت۔"
+- یِم آزمٲوِو: "تُہؠ ٲسِو ہمیشہ واریاہ خیال تھاوان موج۔ مے وَنِو تِمن نِنہٕ بارهٕ کیا۔ برونٹھ کھیاوٲ اکھ کِہہ؟"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association تہِ چھُ مشورہ دِوان زِ یتھ کتھس سٟتؠ تُہؠ متفق نَہ آسو، تتھ پیٹھ بحث مَہ کٔرِو۔ موقع ژٲرِو: اگر غلط خیال نقصان دہ نَہ آسہِ، تتھ ترٲوِو یِتھ۔
 
-## How does communication change as dementia progresses?
+## ڈیمینشیا بڑھنس سٟتؠ کتھ باتھ کِتھ کٔنۍ بدلِوان چھے؟
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+وقتس سٟتؠ ضرورت بدلِوان چھے، تِتھے پٲٹھؠ بدلاوِو پَنُن انداز۔ Alzheimer's Association چھِ ترٛے عام مرحلہٕ بیان کران:
 
-| Stage | What helps |
+| مرحلہٕ | کیا چھُ مددگار |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| شروٗعاتی | یِہ مَہ سمجھِو زِ تِم ہیکن نَہ کتھ باتھ کٔرِتھ۔ تِمن کٔرِو کتھ باتھن مَنٛز شٲمل، براہِ راست تِمن سٟتؠ وَنِو، پُچھِو تِمن کیا مدد چاہے، تہٕ اگر ٹھیک لٲگہِ مزاح تہِ ورتٲوِو۔ |
+| درمیان | پرٛٲر جایہِ اکھ اکھ کتھ باتھ۔ آہستہ وَنِو، نظر ملٲوِتھ تھٲوِو، آ/نَہ سوال پُچھِو، قدم بہ قدم ہدایت دِیِو، تہٕ تنقید یا غلطی مَہ کڈِو۔ |
+| آخری | برونٹھ کِنہِ نِیِو تہٕ پَنُن ناو وَنِو۔ اشارن تہٕ ہاو بھاون ہُنٛد حوصلہٕ بڑھٲوِو۔ اَتھہٕ لاگُن، آواز، نظارہٕ تہٕ خوشبو ورتٲوِو۔ زانٛہہ تیُتھ مَہ وَنِو زنتہٕ تِم موجود نَہ آسن۔ |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+ہر کانٛہہ شخص چھُ مُختلف، تہٕ أکِس شخصس ہیکہِ الگ الگ دۄہَن مَنٛز الگ حالت آسِتھ۔ تِم وُنکینس کِتھ چھِ، تتھ مطٲبق کٔرِو رٲبطہٕ، نَہ زِ کانٛہہ ناو یا نشان پیٹھ۔
 
-## Can pictures and activities make conversation easier?
+## کیا تصویٖر تہٕ سرگرمی ہیکہِ کتھ باتھ آسان بنٲوِتھ؟
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+آ، ہیکن۔ مشترکہ تصویر چھے دباو کم کران تہٕ دۄنَوے خٲطرٕ کِہہ چھُ آسان یَتھ پیٹھ وُچھِتھ تہٕ اشارہ کٔرِتھ ہیٚکن۔
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **تصویری اشارہٕ۔** [Conversation Cards](/games/conversation-cards/) چھِ تصویٖر پیش کران یِمن سٟتؠ کھُلہ سوال چھِ آسان، مگر کانٛہہ امتحان نَہ۔
+- **خاندٲنی تصویٖر۔** [Photo Pairs](/games/photo-pairs/) چھُ تُہندِ منتخب تصویٖرن ہُنٛد اَکھ نرم جوٗڑ میلاؤن گیم بناوان، یُس اکثر یادن ہُنٛد درواز کھولان چھُ۔
+- **مانوس محاورہٕ۔** [Finish the Saying](/games/finish-the-saying/) چھُ معروف محاورہٕ ورتاوان، پتہٕ چھُ کتھ باتھ خٲطرٕ اکھ اشارہ۔
+- **جوٗڑ میلاؤن گیم بطور سہارٕ۔** [Picture Pairs](/games/picture-pairs/) چھُ اَتھن کِہہ کٲم دِوان ییلہِ تُہؠ کتھ باتھ کران چھِو۔
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+مزید خٲطرٕ وُچھِو [اَکہِ سٟتؠ گیم کِتھ کٔنۍ کھیلن](/caregiving/how-to-play-together/) تہٕ [یاد تازٕ کرن واجِنۍ سرگرمی](/activities/reminiscence/)۔ ملاقاتن تہٕ کالن خٲطرٕ وُچھِو سٲنۍ رہنمائی [ملاقات](/activities/visiting/) تہٕ [فون تہٕ ویڈیو کال](/activities/phone-and-video-calls/)۔
 
-## What if I lose my patience?
+## اگر مے صبر کھوتہِ تیٚلہِ کیا؟
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+یِہ چھُ پرٛتھ کانٛہس سٟتؠ گژھان۔ NIA چھُ مشورہ دِوان زِ اگر تُہؠ پریشان گژِھو، کینٛژھ کال نِیِو پانے آرام کرنہٕ خٲطرٕ۔ بیاکھ کمرس مَنٛز گٔژِھو، کینٛژھ آہستہ ساہ نِیِو، تہٕ ییلہِ تُہؠ پرٛٲر محسوس کٔرِو واپس یِیِو۔ تُہؠ ہیٚکِو کتھ باتھ دۄباری شروٗع کٔرِتھ، تہٕ اکثر چھُ شخص تُہنز پرٛٲر حالت وُچھِتھ بہتر جواب دِوان۔ اگر پریشٲنی لگاتار بڑھان چھے، یِہ چھُ نِشٲنی زِ تۄہِ چھِ مزید سہارتُک ضرورت، نَہ زِ تُہؠ چھِو ناکام گژھان۔ سٲنۍ رہنمائی [دیکھ بھال کرن وٲلؠ سُنٛد خیال](/caregiving/caregiver-self-care/) مَنٛز چھِ مدد لبن جاے۔

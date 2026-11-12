@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Памятю ворсӧмъяс деменцияӧн олысь йӧзлы: ньӧжйӧ вариантъяс"
+seoTitle: "Деменция дырйи бур памятю ворсӧмъяс"
+description: "Ӧткодялӧм, серпас да карта ворсӧмъяс деменцияӧн олысь йӧзлы да кыдзи ворсны, медым некод оз тӧдчы видлалӧм вылын: серпасъяс уськӧдӧмӧн, этшаджык пара, балъястӧг, ӧтув."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Памятю ворсӧмъяс деменцияӧн олысь йӧзлы бурджыка уджалӧны, кор найӧ оз
+  ковны памятю вылӧ. Ворсӧй ӧткодялӧм ворсӧмъясӧн серпасъяс уськӧдӧмӧн,
+  вӧдитчӧй нёльысь квайтӧдз тайлӧӧн, ворсӧй ӧтув да кольӧй балъяссӧ. Аддзыны
+  серпас кокниджык, сыысь казьтыштны, сідз бӧрйӧй ворсӧмъяс, кӧні ставыс
+  тыдалӧ. Мог — нимкодь ворсӧм, абу результат.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Классическӧй памятю ворсӧмъяс сайӧдӧны картасӧ, сідз видлалӧны дзик сійӧ, мый деменция дырйи сьӧкыдджык лоӧ. Кольӧй серпасъяссӧ уськӧдӧмӧн."
+  - "Этшаджык юкӧнъяс, ыджыдджык серпасъяс да ӧти бӧрйӧм ӧтпырйӧ ворсӧмсӧ гажаӧнӧсь."
+  - "Ворсӧй ӧтув, отсалӧй чередуйтчӧмӧн да кольӧй балъяссӧ. Некодлы оз ков лыддьыны ачсӧ видлалӧм вылын."
+  - "Некутшӧм памятю ворсӧм оз петкӧдлы, мый сійӧ бурдӧдӧ, чургӧдӧ либӧ дугдӧдӧ деменциясӧ. Ворсӧй, сы понда мый тайӧ нимкодь кад ӧтув."
+  - "Дугдӧй, кор на нимкодь. Серпасъяс йылысь сёрнитӧм — бур петкӧдлас."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Кутшӧм памятю ворсӧм бур деменцияӧн олысь мортлы?"
+    a: "Ыджыд, тӧдса серпасъясӧн ӧткодялӧм ворсӧм, мый вермас лоны уськӧдӧмӧн, шуам, Picture pairs нёль либӧ квайт тайлӧӧн. Аддзыны серпаслысь гӧгӧрво, мый тіян водзын, нимкодь, но оз видлавны недырся памятю. Find the same — нӧшта кокниджык, ӧти серпас бӧрйыны кыкысь нёльӧдз вариант пиысь."
+  - q: "Памятю ворсӧмъяс отсалӧны-ӧ деменция дырйи?"
+    a: "Некутшӧм памятю ворсӧм оз петкӧдлы, мый сійӧ бурдӧдӧ, чургӧдӧ либӧ дугдӧдӧ деменциясӧ; Cochrane видлалӧм аддзис, мый компьютер йылын юрсӧ велӧдӧм йылысь эвиденцияыс вывті этша, медым шуны, сійӧ вермӧ-ӧ видзны деменцияысь. Ворсӧмъяс вермасны лоны шоныд ног, кыдзи колльыны кад ӧтув. Бӧрйӧй найӧс нимкодьлун да йитчӧм понда."
+  - q: "Ковмас-ӧ ворсны классическӧй Concentration-ӧн деменцияӧн олысь морткӧд?"
+    a: "Медводдза кадас мукӧд йӧз на нимкодьӧн ворсӧны сыӧн, тӧдчана, кор картаыс этша. Кор картаэзлӧн инсӧ казьтыштӧмыс заводитӧ лосьӧдны сьӧкыдлун, бергӧдӧй картасӧ уськӧдӧмӧн да корсьӧй параяссӧ ӧтув. Сідз колӧ ӧткодялӧмыс, но челядь памятю видлалӧмыс."
+  - q: "Кутшӧм памятю ворсӧмъяс бура лӧсялӧны чукӧрлы?"
+    a: "Серпас бинго экран вывса юӧртчысьӧн, тӧдса кывтэчасъяс помалӧм гораӧн да сёрнитан карточкаяс бура уджалӧны чукӧрйын. Ворсӧй тӧдчӧдз, медым быд карточка тыр, да эн висьтавлыны, коді вочавидзис, медым некод оз тӧдчы торйӧдӧмӧн."
+  - q: "Эмӧсь-ӧ онлайн донтом памятю ворсӧмъяс ыджыд йӧзлы?"
+    a: "Да. Тайӧ сайтысь ворсӧмъяс, шуам, Picture pairs, Find the same, Photo pairs да Picture puzzle, донтомӧсь, оз ковны регистрация да уджалӧны телефонъясын, планшетъясын да компьютеръясын. Некӧн эз вӧв таймер либӧ балъяс."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Кор ті корсянныд «памятю ворсӧмъяс ыджыд йӧзлы», унаысь аддзанныд сійӧ, мый лӧсьӧдӧма юрсӧ велӧдӧм понда: сайӧдӧм картаяс, лыддьысян час, уровеньяс да балъяс. Деменцияӧн олысь мортлы татшӧм функцияяс вежӧны ворсӧмсӧ видлалӧмӧн сійӧ мый нин сьӧкыд. Тайӧ жӧ ворсӧмъясӧн позьӧ ворсны ньӧжйӧджыка. Тайӧ лист бокын петкӧдлӧма, кыдзи, да индӧма ворсӧмъяс, кодъяс бура лӧсялӧны быд стадиялы.
 
-## Why do classic memory games frustrate people with dementia?
+## Мыйла классическӧй памятю ворсӧмъяс вермасны лосьӧдны сьӧкыдлун деменцияӧн олысь йӧзлы?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Сы понда мый найӧ вылӧ мынтӧны видзны выль юӧр юрын, а тайӧ медшӧр водзын ёна сьӧкыдмӧ Альцгеймер висьӧм дырйи, мый лоӧ деменциялӧн медшӧр тӧдса помкаӧн. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) висьталӧ, мый Альцгеймер висьӧмлӧн медшӧр тӧдса воддза пасыс — сьӧкыдлун казьтыштны выль велӧдӧм юӧр. Классическӧй Concentration-ын ті бергӧданныд кык карта, казьтыштанныд, кӧні найӧ вӧліны, да вӧдитчанныд тайӧн бӧрын минутаӧ. Тайӧ выль юӧр, кодӧс колӧ видзны да казьтыштны.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Содӧй тайӧ вылӧ таймер, балъяс либӧ абу стӧча вочакыв понда шы, и мортлы казьтыштлӧны сійӧ, мый сылы оз артмы, сы йӧз водзын, кодъясӧс сійӧ радейтӧ. Уна йӧз лӧньӧн дугдӧны ворсӧмсӧ.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Тӧдмавны сійӧ, мый ті аддзанныд, — торъя да тшӧкыда кокниджык удж. Индыны мӧд чайник вылӧ, кор кыкнас тыдалӧны, гажӧдӧ. Сідз веськыдлуныс — видзны ӧткодялӧмсӧ, но бырӧдны памятю видлалӧмсӧ.
 
-## How do you make a memory game gentle?
+## Кыдзи лӧсьӧдны памятю ворсӧмсӧ ньӧжйӧӧн?
 
-These adjustments work for card games, board games and games on a screen.
+Татшӧм вежӧмъяс уджалӧны карта ворсӧмъясын, пызан вылын ворсӧмъясын да экран вылын ворсӧмъясын.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Кольӧй серпасъяссӧ уськӧдӧмӧн.** Ӧткодявны серпасъяс, кодъясӧс ті аддзанныд, — тайӧ збыль ворсӧм, да тшӧкыда нимкодь.
+2. **Вӧдитчӧй этшаджык юкӧнъясӧн.** Заводитӧй кыкысь куим параысь. Содӧй унджык сӧмын сійӧ дырйи, кор вывті кокни да сійӧ кӧсйӧ унджык.
+3. **Бӧрйӧй ыджыд, тӧдса, йӧзлы лӧсялана серпасъяс.** Чайник, тюльпан, парус пыж. Абу мультфильмъяс, да абу гӧгӧрвоасьтӧм видзӧдласъяс.
+4. **Ворсӧй ӧтув.** «Корсьям понъясӧс» — «тіян черед» шуысь. Чередуйтчӧй индыны да отсавны.
+5. **Кольӧй балъяссӧ.** Некодлы оз ков вердны. Морт кӧ юалӧ, прӧстӧй «ми тайӧ вӧчим» тырмымӧн.
+6. **Некор эн тэрмасьӧй.** Таймеръястӧг, да тэрмасьтӧг чередъяс костын.
+7. **Сёрнитӧй серпасъяс йылысь.** «Видзӧдлы, кутшӧм пыж. Ті ветлӧмаӧсь-ӧ парусӧн?» Тшӧкыда сёрниыс лоӧ медбур юкӧныс.
+8. **Дугдӧй бур кадӧ.** Помалӧй ӧткодялӧм бӧрын, кор на нимкодь.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) сетӧ сійӧ жӧ могсӧ öтув советӧн: лӧсялӧй уджсӧ мортлысь вермӧмлы, видзӧдлӧй сьӧкыдлун вылӧ да тӧдмавӧй, мый сійӧ тӧдчӧ ассьыс вермӧмсӧ.
 
-## Gentle memory and matching games to try
+## Ньӧжйӧ памятю да ӧткодялӧм ворсӧмъяс, кодъясӧн позьӧ видлыны
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (ӧткодялӧм тыдалана серпасъясӧн)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) — тайӧ ӧткодялӧм ворсӧм ыджыд серпасъясӧн да 4-ысь 12-ӧдз тайлӧӧн. Серпасъяс вермасны лоны тыдаланӧн, сідз тайӧ гӧгӧрвоыскӧд корсьӧм йылысь, абу казьтыштӧм йылысь, кӧні найӧ вӧліны. Заводитӧй нёль тайлӧысь. Медводдза стадияын олысь мортлы, кодлы нимкодь этшаджык сьӧкыдлун, ті верманныд бергӧдны **Сайӧдӧм серпасъяс** режимӧ, но бӧр бергӧдӧй тыдалан серпасъясӧ, кор сійӧ оз нин нимкодь.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) петкӧдлӧ ӧти серпас вылын да кыкысь нёльӧдз вариант улын. Личкӧй сійӧ, мый лӧсялӧ. Тайӧ сайт вылын медпрӧстӧй ӧткодялӧм ворсӧм, да сійӧ бура лӧсялӧ йӧзлы, кодлы тыр сетка вывті уна, шуам, уна сёр стадияын олысь йӧзлы, кор некод ӧтлаын.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (семья серпасъясӧн памятю ворсӧм)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) вежӧ тіян бӧрйӧм серпасъяссӧ ӧткодялӧм ворсӧмӧ: пон, сад, озер дорса керку. Тӧдса чужӧмъяс да инаc тшӧкыда ӧдйӧджык восьтӧны сёрни, восьса серпас дорысь. Серпасъяс колӧны тіян браузерын да некор оз ыстӧвны.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) корӧ пуктыны быд серпас сійӧ дозӧ, кӧні сійӧ лоӧ, шуам, кухняӧ либӧ садӧ. Видлавӧмыс вӧдитчӧ дырся тӧдӧмӧн, кыдзи мирыс уджалӧ, абу недырся памятюӧн.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) торйӧдӧ серпассӧ 4 либӧ 9 юкӧн вылӧ. Личкӧй кык юкӧнлы, медым вежны иннасӧ, тӧдчӧдз, медым серпасыс лоас дзонь. Тыр серпасыс тыдалӧ экран вылын отсӧгӧн.
 
-### Real cards on the table
+### Збыль картаяс пызан вылын
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Тіянлы оз ков экран. Босьтӧй ӧткодь параяссӧ кык колода картысь либӧ серпас карта чукӧрысь. Пуктыштӧй найӧс уськӧдӧмӧн кык визьын да корсьӧй параяссӧ ӧтув. Бӧрын верманныд видлавны рӧм либӧ масть серти. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) лыддьӧ карта да пызан вылын ворсӧмъяссӧ медводдза стадиялы лӧсялана уджъяс пӧвстын.
 
-## Which memory games suit each stage?
+## Кутшӧм памятю ворсӧмъяс лӧсялӧны быд стадиялы?
 
-Stages are loose labels. Go by what the person enjoys today.
+Стадияяс — тайӧ косӧн нимъяс. Вӧдитчӧй сыысь, мый мортлы нимкодь талун.
 
-| Stage | Games that often fit | How to set them up |
+| Стадия | Ворсӧмъяс, кодъяс тшӧкыда лӧсялӧны | Кыдзи лӧсьӧдны |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Медводдза | Picture pairs, Photo pairs, Picture puzzle 9 юкӧнӧн, тӧдса карта ворсӧмъяс | Лэдзӧй сылы бӧрйыны. Тайлӧяс вермасны бергавны, сійӧ кӧ нимкодь; кольӧй балъяссӧ, найӧ кӧ мешайтӧны |
+| Шӧр | Picture pairs 4-ысь 6-ӧдз тайлӧӧн уськӧдӧмӧн, Find the same, Sort together | Серпасъяс пыр тыдаланӧсь. Пукав орччӧн да отсалӧй чередуйтчӧмӧн |
+| Сёр | Find the same кык вариантӧн, ӧтув видзӧдӧм ӧти ыджыд серпас вылӧ | Зэв дженьыд. Ті кутанныд планшетсӧ; сійӧ индалӧ либӧ прӧста видзӧдӧ да кывзӧ |
 
-## Do memory games help with dementia?
+## Памятю ворсӧмъяс отсалӧны-ӧ деменция дырйи?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Некутшӧм памятю ворсӧм оз петкӧдлы, мый сійӧ бурдӧдӧ, чургӧдӧ либӧ дугдӧдӧ деменциясӧ. [Cochrane видлалӧм](https://pubmed.ncbi.nlm.nih.gov/30864747/) компьютер йылын когнитивнӧй тренировка йылысь йӧзлы, кодъяслысь эм неыджыд когнитивнӧй сьӧкыдлун, аддзис, мый эвиденцияыс вывті этша, медым шуны, сійӧ вермӧ-ӧ видзны деменцияысь. Миян [юрсӧ велӧдан ворсӧмъяс да деменция](/brain-health/brain-games/) юкӧнын гижӧма, мый тӧдмалӧмъяс петкӧдлӧны да мый оз петкӧдлыны.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Тайӧ абу помка кольны ворсӧмъяссӧ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) советуйтӧ сувтӧдны тӧд нимкодьлун вылӧ, абу вермӧм вылӧ. Дас минута ӧткодялӧм да серпасъяс йылысь сёрнитӧм вермас лоны лунлӧн збыль бур юкӧн.
 
-## What about memory games for seniors without dementia?
+## А кыдзи памятю ворсӧмъяс, кор деменция абу?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Ыджыд мортлы, кодлы абу памятю сьӧкыдлун, нимкодь кӧ таймерӧн могъяс, балъяс да сьӧкыдджык уровеньяс, сійӧ бур. Сӧмын эн надеяйтчы, мый тайӧ вермӧ видзны деменцияысь; некутшӧм ворсӧм оз петкӧдлы тайӧс. Выль ыстісь ньӧжйӧ вариантъяс бура уджалӧны и кор ӧтув ворсӧны уна поколение: деменцияӧн олысь ыджыд бать-мам да ичӧт нылыс-пиыс вермасны ӧтув ӧткодявны серпасъяссӧ, да некодлы оз ков лыддьыны ассьыс видлалӧм вылын.
 
-## When should you stop or change the game?
+## Кор ковмас дугдыны либӧ вежны ворсӧмсӧ?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Лолалӧм, планшетсӧ ышӧдӧм, «меным оз артмы» шуӧм либӧ тӧдчӧм, мый морт повзьӧдчӧ, — ставыс тайӧ пас, мый колӧ кокньӧдны либӧ дугдыны. Видлӧй этшаджык тайлӧ, бергӧдӧй серпасъяссӧ уськӧдӧмӧн, вежӧй [Find the same](/games/find-the-same/) вылӧ, либӧ прӧста видзӧдлӧй серпасъяс вылӧ да сёрнитӧй. Сійӧ кӧ оз тшӧктӧ ворсны дзик, тайӧ тожӧ бур. Миян [кыдзи ворсны ӧтув](/caregiving/how-to-play-together/) юкӧнын эм унджык темп да отсӧг йылысь.

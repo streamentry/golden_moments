@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "A yllir lettya demenyans? Pyth a lever an hwithrans"
+seoTitle: "A yllir lettya demenyans? Pyth a lever an hwithrans"
+description: "Pyth a gavas Kessedhek Lancet 2024 ha prevyansow bras a-dro dhe lehe peryllys demenyans, pyth na gavas, ha kammow dhe dhiskutya gans medhek."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ny yll denvyth ambos lettya demenyans. Kessedhek Lancet 2024 a dhesevas y
+  vos kevrynnys ogas ha hanter a gasys demenyans a-dro dhe’n bys gans 14
+  peryl a yllir chanjya, kepar ha gwask goos ughel, kelli klywans ha bos
+  diwaya. Prevyansow a dhiskwa effeythyow byghan war brevyansow prederi, mes
+  nag o prov a le gasys demenyans. Niver bras a dus a wra puptra ‘yn ewn’ ha
+  hwath i a gavas demenyans, ha nyns yw fowt denvyth.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Kessedhek Lancet 2024 a gevrennas a-dro dhe 45% a gasys demenyans a-dro dhe’n bys gans 14 peryl a yllir chanjya. Desevans poblans yw hemma, a-der ambos personel."
+  - "Lehe peryllys a styr lehe an chonsow dres poblans oll. Ny styr nag yll unn den unnsel gwitha demenyans."
+  - "Prevyansow bras kepar ha FINGER, US POINTER ha SPRINT MIND a gavas lesow byghan war brevyansow prederi po iselder bresel prederi, mes ny brovas nagonan y hwra towlen vewnans lettya demenyans."
+  - "Oos yw an peryl moyha aswonys rag Alzheimer, ha ny yllir y janjya. Niver bras a dus gans usyow yagh a gavas demenyans hwath."
+  - "An kammow studhys moyha yn fenowgh, kepar ha dyghtya gwask goos ughel, devnydhya devisyow klywans ha pesya omwaya, yw gwiw dhe dhiskutya gans medhek drefen i dhe lesya yeghes yn fordhow erel ynwedh."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "A yllir lettya demenyans?"
+    a: "Nyns eus fordh provys dhe lettya demenyans rag unn denvyth. An hwithrans a dhiskwa y hyll lehe peryllysow arbennik, kepar ha gwask goos ughel, kelli klywans heb dyghtyans ha smoka, lehe an chons a dhemenyans dres poblans po dalghya pan dalleth. Chonsow yw an re ma, a-der ambossow."
+  - q: "Pyth a styr an niver 45% a Gessedhek Lancet?"
+    a: "Kessedhek Lancet 2024 a dhesevas y vos kevrynnys a-dro dhe 45% a gasys demenyans a-dro dhe’n bys gans 14 peryl a allsa, yn tybieth, bos chanjys. An desevas a dyb y hwra an peryllys ma kawsya demenyans, ha’n awthours a not y hyll nebes kevrennow bos rannsel kavsel yn unnik. Ev a dheskrif poblow oll ha ny lever dhywgh peryl unn denvyth."
+  - q: "Mar pe bywnans yagh dhe’m mamm po’m tas, prag y kavsons demenyans?"
+    a: "Oos, genynnek ha niver bras a daklow na yll denvyth aga kontrolla a wra rann vras yn demenyans. Awthours Kessedhek Lancet a not: lehe peryllys dres poblans ny warant nag a wra unn den unnsel gwitha demenyans. Nyns yw diagnosys arwodh bos denvyth re fyllys."
+  - q: "A yw re dhiwedhes lehe peryllys demenyans wosa 65 bloodh?"
+    a: "Kessedhek Lancet a lever nag yw nevra re a-varr po re dhiwedhes lehe peryllys, kyn hwra rann vras a’n dustuni longya dhe gres-oes. Dyghtya kudynnow klywans ha gweles, pesya omwaya ha pesya yn kestav gans tus erel yw ensamplys a gammow yn oes diwettha a veu studhys. Kewsewgh orth medhek a-dro dhe byth yw gwiw rag agas yeghes."
+  - q: "A wra gwariow ympynnyon po boesow arbennik lettya demenyans?"
+    a: "Nyns eus gwari, boes, keworrans po boesek provys dhe lettya demenyans. Prevyans teyr bledhen a’n voesek MIND ny gavas dyffrans posek yn prederi kehevelys orth boesek kontroll, ha nyns yw diskwedhys bos dhe appys kennertha ympynnyon kenwerthel an keth effeythyow gwelys yn prevyansow hwithrans."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,148 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Mars owgh hwi ow witha war dhen ow bywa gans demenyans, po mars owgh hwi re welas mamm po tas ow bywa ganso, martesen hwi re omwovynnas mars a allsa bos lettys, ha mars a yllowgh hwi y lettya dhywgh hwi agas honan. An folen ma a dhiskwedh pyth a lever an hwithrans yn hwir, yn yeth plen. An gorthyp berr: ny yll denvyth ambos lettya demenyans, mes an hwithrans a dhiskwa y hyll nebes peryllys bos islehes, ha lehe anedha dres poblans a allsa styrya bos le a dus ow kavos demenyans po y gavos diwettha.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Kedhlow ollgemmyn yw hemma, a-der kusul medhegel. Mar pleg, redyewgh agan
+[disclamyer medhegel](/medical-disclaimer/) ha kewsewgh orth medhek a-dro dhe’gas yeghes hwi.
 
-## Can dementia be prevented?
+## A yllir lettya demenyans?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Nyns eus fordh provys dhe lettya demenyans rag unn den unnsel. An National
+Institute on Aging (NIA) a lever, kyn nag yw provys hwath travyth dhe lettya Alzheimer,
+[hwithroryon re gavas stratejys govenek](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+hag ymons i ow tyski pyth a allsa oberi ha pyth na allsa.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+An pyth a dhiskwa an hwithrans yw bos kevrynnys studhyow yeghes ha usyow arbennik gans chons ughella a dhemenyans. Pan vo an peryllys ma isella dres poblans oll, y hyll bos le a dus ow kavos demenyans, po i a allsa y gavos diwettha yn aga bywnans. Hemm yw pur dhyffrans dhyworth ambos.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Arwodh govenek: Kessedhek Lancet 2024 a dherivas y’n nebes broyow gylghys, y’ga mysk an SU ha’n RU, bos koedhys an rann a dus koth gans demenyans. An awthours a dyb bos hemma martesen drefen adhyskans gwell, gwith yeghes gwell ha le a dhistro dhe wythiennow an goos dres bywnans, herwydh
+[berrheans University College London a’n dherivas](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Pyth a gavas Kessedhek Lancet 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Kessedhek Lancet war lettya, vaynorieth ha gwith demenyans yw bagas a 27 hwithror demenyans a dhaswel an dustuni pub nebes bledhen. Aga dherivas 2024 a enwis **14 peryl** a yllir chanjya, hag a dhesevas aga bos i war-barth omgemeryans **ogas ha hanter (a-dro dhe 45%) a gasys demenyans a-dro dhe’n bys**. Yn geryow an awthours, y hallsens an kasys ma *yn tybieth* bos lettys po dalghys mar pe dileys an peryllys
+([derivas Kessedhek Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+An 14 faktor, baglys herwydh an rann a vewnans mayth yw an dustuni krevha:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Yowynkneth a-varr:** le adhyskans.
+- **Kres-oes (a-dro dhe 40 dhe 65 bloodh):** kelli klywans, kolesterol LDL ughel (‘drog’), iselder, shyndys penn, bos diwaya, dyabetyes, smoka, gwask goos ughel, re boos, hag eva re.
+- **Oes diwettha:** didhans socyal, mostedhes an ayr, ha kelli gweles heb dyghtyans.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+An dhew voyha nowydh yn 2024 o kolesterol LDL ughel ha kelli gweles heb dyghtyans. An peryllys kevrynnys gans an rann vrassa a gasys o kelli klywans ha kolesterol LDL ughel (a-dro dhe 7% an eylh), sywys gans le adhyskans ha didhans socyal (a-dro dhe 5% an eylh).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Agan [gid peryllysow](/brain-health/risk-factors/) a dremen dres an 14 oll yn moos, gans pyth yw kevrynnys gans an hwithrans ha pyth a yllowgh hwi gul.
 
-### What the 45% figure does not mean
+### Pyth na styr an niver 45%
 
-It is easy to misread this number, so it helps to be precise:
+Yth yw es dhe gammgonvedhes an niver ma, ytho yth yw gwiw bos kewar:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Desevans poblans yw.** Ev a dheskrif kasys demenyans a-dro dhe’n bys, a-der agas chonsow hwi po chonsow agas mamm po agas tas.
+- **Ev a dyb kaws hag effeyth.** An awthours a lever i dhe gomprehendya peryllys gans dustuni krev yn unnik, mes y hyll nebes kevrennow bos rannsel kavsel yn unnik. Rag ensampel, iselder yn oes diwettha a allsa treweythyow bos arwodh a-varr a dhemenyans yn le kaws.
+- **Ny warant travyth rag unn den unnsel.** Berrheans UCL a not: lehe peryllys a ober dhe nivel poblans ha ny warant nag a wra unn den unnsel gwitha demenyans.
+- **Ny veu displegys an hanter arall gans an peryllys ma.** Oos, genynnek ha kawsow na wor godhonydhyon hwath a wra an remenant.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Pyth yw an dyffrans ynter ‘lehe peryllys’ ha ‘lettya’?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Lehe peryllys** a styr lehe an chonsow. Mar kwra bagas bras a dus lehe aga gwask goos, y hyll bos le anedha ow kavos demenyans dres lies bledhen ages a via ken. Nebes yn an bagas na a wra y gavos hwath.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Lettya** a brof lettya neppyth dhe hwarvos oll. Rag demenyans, nyns yw hemma neppyth a yll an hwithrans ambos dhe nebonan hedhyw.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Hwithroryon a gews ynwedh a-dro dhe **dhalghya**. Kessedhek Lancet a dheriv dustuni nowydh: lehe peryllys a allsa herdhyewghya pan dalleth demenyans ha berrhe an termyn may hwra den bywa gans yeghes drog. Dalghyans a nebes bledhynnyow yn unnik a yll bos pur bosek rag den ha’y deylu.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+War an wiasva ma, ni a dhevnydh ‘lehe peryllys’ ha ‘kevrynnys gans’ dre vri. Pan welowgh askorras, keworrans po towlen owth ambos dhe ‘lettya Alzheimer’, bedhewgh war. An NIA a gusul kewsel orth medhek kyns assaya py pillen po dyghtyans a ambos lettya Alzheimer, drefen bos an askorrasow ma martesen diantel, koll a arghans, po an dhew.
 
-## What have large trials found?
+## Pyth re gavas prevyansow bras?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Studhyow mires (a vir orth pyth a hwer dhe dus dres termyn) a yll diskwedhes kevrennow. Prevyansow arbrovek (mayth yw tus resys dhe dowlenn po dhe vagas keheveli dre jons) yw an prov kreffa. Ottomma pyth a gavas nebes a’n prevyansow aswonys moyha.
 
-### FINGER (Finland)
+### FINGER (Finlandi)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Prevyans FINGER a gompreghendyas 1,260 tevesik ynter 60 ha 77 bloodh gans peryl ughella a dhemenyans. Hanter a gavas towlen dew vledhen a gusul boes, exercise, exercisevow ympynnyon war jynn-amontya ha checkys yeghes an golon ha’n wythiennow goos; an hanter arall a gavas kusul yeghes ollgemmyn. An bagas towlen a wrug nebes gwell war sett a brevyansow prederi, dyffrans byghan mes statistikel posek
+([prevyans FINGER yn The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). An prevyans a vusuras sewyansow prevyans, a-der diagnosys demenyans.
 
-### US POINTER (United States)
+### US POINTER (Statys Unys)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER a gompreghendyas 2,111 tevesik ynter 60 ha 79 bloodh neb o diwaya, gans boes le yagh ha gans peryllysow erel. An dhew vagas a veu kennerthys dhe vos moy omwaya yn korf ha brys, dybri gwell, pesya socyal ha goheles yeghes an golon. Unn vagas a gavas towlen framys gans hembrenkyas; y hila a omhembrenkyas. Dres dew vledhen, sewyansow prevyansow prederi a wellas **yn pub dew** vagas, ha nebes moy y’n bagas framys
+([prevyans US POINTER yn JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). An awthours a lever bos edhom moy a holya rag godhvos mars yw an dyffrans posek yn bewnans pub dedh. A-barth nag esa bagas ‘na wrewgh travyth’, ny yll an prevyans leverel pygemmys a wrug py towlen bynnag gweres kehevelys orth chanj vyth.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (gwask goos)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND a studhyas 9,361 tevesik y’n SU ynter 50 bloodh ha kottha gans gwask goos ughel. I a veu resys dhe amkan gwask goos isella (niver a-ugh yn-dann 120) po dhe’n amkan savonek (yn-dann 140). An amkan isella a islehas yn posek **iselder bresel prederi**, rann a broblemow kov ha prederi a yll dos kyns demenyans. Rag **demenyans gwirhevek**, yth esa le a gasys y’n bagas gans an amkan isella, mes nyns o an dyffrans statistikel posek. An prevyans a veu hedhes a-varr hag yth esa le a gasys demenyans es dell o gortys, ytho martesen o re vyghan dhe worthyp an govyn na
+([SPRINT MIND yn JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Pyth a geworr an daswelyansow
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Daswel Cochrane 2021 a gesunya naw prevyans bras a dowlennow a dackel lies peryl war-barth, gans moy es 18,000 den. Ev a gavas les byghan war brevyansow prederi, mes **nyns esa dyffrans kler yn pygemmys a dus a dhisplegyas demenyans** y’n dhew brevyans a’n musuras
+([daswel Cochrane a vaynoriethow lies-arenebedh](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Daswel 2017 gans an National Academies of Sciences, Engineering, and Medicine, berrhes gans an NIA, a gavas dustuni ‘kennerthys mes anfinys’ rag tri fordh: dyghtya gwask goos ughel, kressya omwayans korfek, ha trenyans prederi.
 
-## Does it matter when you start?
+## A vern pan dhallethowgh hwi?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Kusul Kessedhek Lancet yw lehe peryllys mar a-varr dell yw possybyl ha’ga gwitha isel mar hir dell yw possybyl: ‘mar a-varr, mar well’ ha ‘mar hir, mar well’. Ev a lever ynwedh nag yw nevra re a-varr po re dhiwedhes lehe peryllys. Rann vras a’n dustuni a long dhe gres-oes, a-dro dhe 40 dhe 65 bloodh, mes nebes peryllysow, kepar ha kelli gweles ha didhans socyal, yw peryllys yn oes diwettha may hyll gwrians hwath bos gwiw.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+An derivas a lever bos lemmyn dustuni krevha bos effeyth brassa dhe dhiskwedhyans hirra dhe berel. Rag ensampel, dyabetyes a dhalleth yn kres-oes a hevel bos moy posek ages dyabetyes a dhalleth diwettha.
 
-## Is dementia risk the same for everyone?
+## A yw peryllys demenyans an keth rag pubonan?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Na. An Gessedhek a gavas bos tus yn broyow isella ha kres-ynkamm, tus a vagasow minoryta ha tus gans le arghans yn fenowgh ow toen moy a’n peryllys ma, ytho demenyans a wra displegya yn lia yn oos yowynka. Niver bras a beryllysow yw stag orth amgylehedhow na wrug tus aga dewis, kepar ha kwalita an adhyskans a gavsons avel fleghes, an ayr le may trigons, ha mar yw boes yagh fordhyadow hag ogas.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Henn yw prag bos komendyansow an Gessedhek resys dhe lywodrothow keffrys ha dhe dus unnsel: adhyskans da rag pub flogh, ayr glan, mesurethow dhe lehe smoka, le sugra ha holan yn boes gwerthys yn shoppys ha boestyow, ha devisyow klywans rag pubonan a’s edhom. Strivyans personel a vern, mes an bys may trig tus a vern ynwedh. Henn yw reson arall dhe beghes ow kamma nebonan rag diagnosys.
 
-## What are the honest limits of this research?
+## Pyth yw finwethow onest an hwithrans ma?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demenyans a gemmer degvledhynnyow dhe dhisplegya**, mes rann vrassa a’n prevyansow a bes dew dhe bymp bledhen. Musura demenyans y honan, a-der sewyansow prevyans yn unnik, a re edhom a studhyow pur hir ha pur vras.
+- **Rann vrassa a’n prevyansow a vusur brevyansow prederi.** Gwellheans byghan war brevyans ny styr yn sur y fydh le a dus ow kavos demenyans po y fydh bewnans pub dedh esya.
+- **Bodhogyon yw yn fenowgh moy yagh** ha moy adhyskys ages an bobel ollgemmyn. Kessedhek Lancet a not bos hwath an brassa rann a’n dustuni ow tos a vroys gylghys ha bos bagasow minoryta is-representys.
+- **Nebes kevrennow a ober yn pub tu.** Bos le omwaya po le socyal a yll bos effeyth a-varr a dhemenyans, a-der kaws yn unnik.
+- **Prevyansow boes re beu digovenek bys lemmyn.** Prevyans teyr bledhen a’n voesek MIND ny gavas dyffrans posek yn prederi kehevelys orth boesek kontroll. Gwrewgh mires orth agan [gid boes](/brain-health/diet/).
+- **Nyns yw gwariow ympynnyon provys dhe lettya demenyans.** Gwrewgh mires orth agan gid a
+  [wariow ympynnyon ha demenyans](/brain-health/brain-games/).
+- **Yma dustuni dynel pur vyghan rag penys**, hag ev a yll bos peryllys rag tus koth. Gwrewgh mires orth agan [gid penys](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Mar wrug nebonan puptra ‘yn ewn’, prag y kavsons hwath demenyans?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Drefen nag yw demenyans sempel sewyans a dhewisyow. An NIA a lever
+[oos yw an peryl moyha aswonys rag Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ha ny yll denvyth y janjya. Genynnek a wra rann. Ha ny wor godhonydhyon hwath yn tien pyth a gaws Alzheimer yn rann vrassa a dus. Mar pe dileys pubonan a’n 14 peryl, desevas Kessedhek Lancet y honan a asa moy es hanter a gasys heb akontya.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Ytho mars owgh hwi ow witha war nebonan a wrug exercise, dybri yn ta, na smokas nevra ha hwath a dhisplegyas demenyans, ny eth travyth kamm gans anedha, po genowgh hwi. Mars owgh hwi ow bywa gans demenyans agas honan, nyns yw agas fowt. Omglewes fowtek yw kemmyn yn teyluyow, mes ny’n gwaytyns. An pyth a vern lemmyn yw es, kestav ha dydhyow da, hag yma agan [tybyansow gwriansow](/activities/ideas/) hag agan
+[gid omwitha rag gwithoryon](/caregiving/caregiver-self-care/) yn tyller da dhe dhalleth.
 
-## What steps can you talk over with a doctor?
+## Py kammow a yllowgh hwi diskutya gans medhek?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+An re ma yw an arenebedhow studhys moyha yn fenowgh. Gwiw yw aga dresya orth check-yeghes drefen bos rann vrassa anedha ow lesya yeghes an golon, bri ha treusvos ynwedh, pypynag a vo aga effeyth war demenyans.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Gwask goos.** Govynnewgh pyth yw agas niverow ha py amkan yw gwiw ragowgh. Kessedhek Lancet a brof aspia dhe niver a-ugh 130 po isella a-dro dhe 40 bloodh, mes an kosten ewn rag tevesik kottha a greg war aga yeghes ollgemmyn.
+2. **Klywans.** Govynnewgh prevyans klywans, ha mar allsa devisyow klywans gweres. Agan
+   [gid klywans](/brain-health/hearing/) a dhispleg an hwithrans.
+3. **Gweles.** Gwrewgh prevyansow lagas reyth ha govynnewgh mar kyll kudynnow kepar ha koskederow bos dyghtys.
+4. **Kolesterol.** Govynnewgh mar kodh agas kolesterol LDL bos checkys ha mar kodh neppyth chanjya.
+5. **Suga goos.** Mars eus dhywgh dyabetyes, govynnewgh fatel dh’y dyghtya yn salow.
+6. **Bri.** Iselder yw kemmyn hag y hyllir y dhyghtya. Leverewgh dhe’gas medhek mars owgh hwi owth omglywes isel po mars owgh hwi re gollas les yn taklow dres moy es dew seythun.
+7. **Smoka hag alkool.** Govynnewgh a-dro dhe skoodhyans dhe hedhi smoka hag a-dro dhe finwethow salow rag alkool.
+8. **Gwayans.** Govynnewgh py eghen a omwayans yw salow ragowgh. Agan
+   [gid exercise](/brain-health/exercise/) a brof tybyansow.
+9. **Difresyans penn.** Gwrewgh gwiska basnett rag diwrosa ha gwariow kestav, ha govynnewgh a-dro dhe witha rag koedha.
+10. **Pesya yn kestav.** Termyn gans tus erel yw rann a vewnans yagh. Gwrewgh mires orth agan gid a
+    [gestav socyal](/brain-health/social-connection/), hag a
+    [gosk](/brain-health/sleep/) ynwedh.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Kyns chanjya medhegieth, boes, keworransow, penys po exercise, kewsewgh orth agas medhek kynsa oll, yn arbennik mars eus dhywgh kleves kolon, dyabetyes, istori a goedha, po mars owgh hwi ow bywa gans demenyans seulabrys.
 
-## Talk with a doctor
+## Kewsewgh orth medhek
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Mar kwelowgh hwi chanjyow kov po prederi a wra prederi dhywgh, ynowgh hwi agas honan po yn nebonan arall, gwrewgh appoyntyans. An NIA a not y hyll
+[problemow kov bos drefen kawsow erel](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+kepar ha effeythyow tenewen medhegieth, kudynnow an gland thyroid, iselder po fowt vitamin B12, ha y hyll nebes a’n kudynnow ma mos dhe-ves pan vo dyghtys an kaws. Agan
+[gid arwodhyow gwarnyans](/brain-health/warning-signs/) a dhispleg pyth dhe aspia.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Kewsewgh gweres a-dhistowgh** rag chanjyow a-dhesempis: kellys klywes a-dhesempis, gwander po omglewes marow war unn du, kales a gewsel, po penn-droes tynn a yll bos arwodhyow a strok po godros arall. Galwgh 999.
 
-## Where Golden Moments fits
+## Ple mayth omdesedh Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments a wra gwriansow sempel dhe wul war-barth, kepar ha
+[kartennow keskows](/games/conversation-cards/),
+[bingo skeusennow](/games/picture-bingo/) ha
+[powes anella kosel](/games/calm-breathing/). I yw rag lowender ha termyn war-barth. Nyns yns i dyghtyans, ha ny wrons i lettya po lenthe demenyans.

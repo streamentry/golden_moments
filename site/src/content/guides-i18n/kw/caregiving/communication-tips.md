@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Nasow rag kewsel gans nebonan gans demens"
+seoTitle: "Nasow keskows gans demens: Pyth dhe leverel"
+description: "Fordhow sempel dhe gewsel gans nebonan ow byw gans demens: fatel bareusi keskows, pyth dhe leverel yn le apposyans, ha fatel woslowes."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Kewsewgh yn le kosel, fachewgh orth an den, gwrewgh devnydh a’y hanow, ha
+  kewsewgh yn lent yn lavarow berr ha sempel. Govynnewgh unn wovyn yn termyn,
+  profyewgh dew dhewis yn le govynnow ygor, ha gortewgh moy es dell hevel
+  naturel. Na arguyewgh, na ewrewgh, na wrewgh apposyans. Gorthebewgh dhe’n
+  omglywans a-dryv an geryow, ha gwrewgh devnydh a douch, skeusennow ha
+  jeschnyow pan vo an geryow moy kales.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Gwrewgh lehe an tros ha kavos kontakt lagas kyns dalleth kewsel."
+  - "Gwrewgh devnydh a lavarow berr, unn dybyans yn termyn, ha henwyn yn le ev, hi po i."
+  - "Profyewgh dew dhewis, po govyn ya po na, yn le govynnow ygor."
+  - "Gortewgh gorthyp. Mar ny vydh konvedhys, dasleverewgh an keth geryow, hag ena assayewgh geryow nowydh."
+  - "Na arguyewgh na ewrewgh. Gorthebewgh dhe’n omglywans a-dryv an pyth a leverons."
+  - "Pan wrello geryow mos dhe-ves, keskewsewgh dre douch, ton, semlant an enep ha skeusennow kevrennys."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Pyth na dalvien vy y leverel dhe nebonan gans demens?"
+    a: "Gwrewgh gwitha apposyans («A borth hwi kov…?»), ewnansow («Kamm yw henna»), kovhe a gollow («My a leveris henna dhis seulabrys») ha kewsel a-dro dhodho kepar ha mar ny ve ev ena. Gwrewgh gwitha kewsel floghik. An re ma a wra ken arta droghevel po anes yn le gweres."
+  - q: "A dalvien vy y ewnhe pan wrell ev kammgampollya fadow?"
+    a: "Dre vras na. Mar yw fakt kamm diles, gaswgh ev dhe dremenes. Argya yn fenowgh ny janj an brys a’n den hag a yll y dhroghevel. Fogelleygh war byth a omglyw ev ha pyth eus edhomm dhodho lemmyn."
+  - q: "Pyth a wrav pan na yll ev kavos ger?"
+    a: "Rewgh termyn dhodho kyns oll. Mar yw ev ow strivya yn apert, da yw profya ger yn kosel po dismygi pyth a vynn leverel ha checkya. Poyntyans, jeschnyow ha skeusennow a yll gweres ynwedh."
+  - q: "Fatel gewsav gans nebonan yn studh diwettha demens neb a gews yn dhifowt?"
+    a: "Dehewgh dhodho a-dherag, leverewgh piw owgh hwi, ha gwrewgh devnydh a lev kosel ha touch kosel. Miryewgh orth enebow ha yeth an korf rag omglywansow. Agas bos ena, kan aswonys po dalghen leuv a yll keskewsel meur heb geryow."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -43,94 +44,94 @@ related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activiti
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demens a yll gul moy kales kavos geryow, holya lavar hir, po lettya tros a-dryv. Ny styr henna vyth oll bos an den astellys gans mynnes omjunya. Chanjyow byghan yn fordh may pareusowgh hwi keskows, fatel gewsowgh ha fatel woslowowgh a yll gul kewsel esya ha kosella rag an dhew ahanowgh.
 
-## What are the most important tips for talking with someone who has dementia?
+## Pyth yw an nasow moyha posek rag kewsel gans nebonan gans demens?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Gwrewgh kavos y vrys, gwrewgh y sempel, ha bedhewgh perthynek. Mar pergh kov a bymp tra yn unnik:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Gwrewgh kosel an stevell ha fachewgh orto.** Sodh an bellwolok, esedhewgh orth nivel an lagasow, ha gwrewgh devnydh a’y hanow.
+2. **Leverewgh unn dra yn termyn.** Lavarow berr, unn dybyans, unn wovyn.
+3. **Profyewgh dew dhewis.** «Te po koffi?» yw esya es «Pyth a vynnowgh hwi?»
+4. **Gortewgh.** Rewgh moy termyn rag gorthyp es dell hevel naturel, ha gwrewgh assaya na wrewgh y drestra.
+5. **Na arguyewgh na wrewgh apposyans bythkweth.** Gorthebewgh dhe’n fordh mayth omglyw, a-der pyth yw ewn an fadow po nag yw.
 
-## How should I start a conversation?
+## Fatel dhallathav vy keskows?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Gwrewgh pareusi may hallo an den fogella warnowgh hwi. An [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend finwetha tros yn kynsa le: sodh an radyo po an bellwolok, dege an lennow po an daras, po mos dhe le moy kosel.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Dehewgh dhodho a-dherag.** Dos a-dhelergh po a’n tenewen a yll y sowdhana.
+- **Leverewgh piw owgh hwi.** «Dydh da, Tas, Sarah ov vy, dha vyrgh.» Hemm a with an den rag hwilas dha hanow.
+- **Gwrewgh dos dhe’y nivel.** Mar yw ev owth esedha, esedhewgh po gwrewgh omblegya may fo agas lagasow orth an keth nivel.
+- **Checkyewgh agas semlant hag agas ton.** An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a gusul bos war dha enep a’th ton, ughelder, semlant an enep hag yeth an korf, ha strivya orth fordh toemm ha sempel.
+- **Gwrewgh sur bos dewweder hag apposyow klewans yn le.** Kales yw holya keskows na yllowgh y weles po y glewes yn tien.
 
-## How should I phrase what I say?
+## Fatel dhylien vy lavara an pyth a leverav?
 
-Use simple words, short sentences and a calm, low voice.
+Gwrewgh devnydh a eryow sempel, lavarow berr ha lev kosel, isel.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Unn dybyans yn pub lavar.** «Gwren ni gwiska dha gota. Ena ni a dhe’n mes.» A-der leverel an dhew yn unn anall.
+- **Gwrewgh devnydh a henwyn, a-der raghenwyn.** «Modrep Jean a wrug galow» yw klerra es «Hi a wrug galow».
+- **Gwrewgh an lev isella, a-der ughella.** An Family Caregiver Alliance a brof lev isella yn le lev ughel.
+- **Dasleverewgh, ena chanjyewgh an geryow.** Mar ny gonvedhas ev, dasleverewgh an keth geryow unnweyth. Mar ny ober henna, gortewgh pols ha gwrewgh assaya geryow dyffrans.
+- **Diskwedhewgh keffrys ha leverel.** Poyntyewgh orth an hanafas, drehevowgh an dhew jyrsi, po diskwedhewgh an kynsa kamm.
+- **Kewsewgh orto, a-der a-dro dhodho.** An NIA a warn a-dherag kewsel a-dro dhe’n den kepar ha mar ny ve ev ena, hag a-dherag «kewsel floghik».
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+An NIA a brof versyons sempel a wovynnow kemmyn. Ottomma ensamplys y’n keth spyrys:
 
-| Instead of | Try |
+| Yn le | Assayewgh |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Pyth a vynnowgh hwi rag koen?» | «A vynn hwi pysk po kig yar?» |
+| «Fatel omglywowgh hwi?» | «Owgh hwi ow klywes skwith?» |
+| «Eus nown dhis?» | «Koen a vydh par yn pymp mynysen.» |
+| «Nyns yw henna an fordh dh’y wul.» | «Gwren ni assaya y’n fordh ma.» |
+| «A borth hwi kov a’gan viaj dhe’n lynn?» | «Yth esen vy ow prederi a-dro dh’agan viaj dhe’n lynn. Lever dhymm pyth a gar’sys ynno.» |
+| «My a leveris henna dhis seulabrys.» | Gorthebewgh arta, yn kuv, kepar ha pan o rag an kynsa prys. |
 
-## How do I listen well?
+## Fatel woslowav vy yn ta?
 
-Listen for the meaning and the feeling, not just the words.
+Goslowyewgh orth an styr hag orth an omglywans, a-der orth an geryow yn unnik.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Gortewgh.** Yn fenowgh taw yw termyn prederi. Komsowgh yn lent bys yn deg kyns entra.
+- **Profyewgh ger marnas ev dhe vos stag.** An Family Caregiver Alliance a lever bos da profya geryow pan vo nebonan ow strivya.
+- **Checkyewgh an pyth a glewsowgh.** An [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) a brof hwilas an styr a-dryv aga geryow ha’y dhasleverel rag checkya hwi dh’y gonvedhes. «Yth esos ta prederus a-dro dhe’n karr?»
+- **Miryewgh orth y enep ha’y gorf.** Ha kewsel ow tos ha bos moy kales, an NIA a not, semlantow an enep a yll diskwedhes tristys, sorr po droghevel moy kler es geryow.
+- **Gwrewgh kemeres prederow yn seriosek.** Kyn fo preder selyes war fakt kamm, gwir yw an omglywans.
 
-## What if they say something that is not true?
+## Pyth mar lever ev neppyth nag yw gwir?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Na arguyewgh. Skant yw an chons hwi dhe waynya, ha’n den a yll diwedha ow klywes meth po own. Yn y le, omjun yewgh gans an omglywans, hag ena gwrewgh mos yn-rag yn kosel.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+An Family Caregiver Alliance a brof aswon an omglywans kyns hwi dhe dreylya an keskows. Rag ensampel, mar kwra dha vamm leverel yn stroth bos edhomm dhedhi kuntel an fleghes dhyworth an skol:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Yn le: «Mamm, dha fleghes yw teves. Henna o dew-ugens bledhen alebma.»
+- Assayewgh: «Ty o mamm pur ofalus pupprys. Lever dhymm a-dro dhe’ga kuntel. A vynnen ni kemeres tamm kyns?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+An Alzheimer's Association a gusul ynwedh na arguyewgh a-dro dhe lavarow na akordyowgh gans i. Dewisewgh agas termynyow: mar yw kryjyans kamm diles, gaswgh ev dhe vos.
 
-## How does communication change as dementia progresses?
+## Fatel wra keskows chanjya ha demens ow avonsya?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Edhommow a janj dres termyn, ytho chanjyewgh agas fordh. An Alzheimer's Association a dheskrif tri studh ledan:
 
-| Stage | What helps |
+| Studh | Pyth a weres |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| A-varr | Na gemerewgh bos ev na yll keskewsel. Gwrewgh y gomprehendya yn keskowsow, kewsewgh orto yn ewn, govynnewgh py skoodhyans a vynn, ha gwrewgh devnydh a hwarthusder mar kwrello gweres. |
+| Kres | Keskowsow unn orth unn yn le kosel. Kewsewgh yn lent, gwithewgh kontakt lagas, gwrewgh devnydh a wovynnow ya po na, rewgh danvonadow kamm ha kamm, ha na wrewgh kritika na ewnhe. |
+| Diwettha | Dehewgh dhodho a-dherag ha leverewgh piw owgh hwi. Kennerthowgh poyntyans ha jeschnyow. Gwrewgh devnydh a douch, sonyow, gwelyow ha blasusow. Na gewsewgh bythkweth kepar ha mar ny ve ev ena. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Pub den yw dyffrans, ha’n keth den a yll kavos dedhyow da ha dedhyow kales. Gorthebewgh dhe’n fordh mayth yw ev lemmyn, a-der dhe’n label.
 
-## Can pictures and activities make conversation easier?
+## A yll skeusennow ha gwriansow gul keskows esya?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ya. Skeusen kevrennys a denn yn-mes an gwask ha re dhe’n dhew ahanowgh neppyth dhe vires orto ha poyntya orto.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Kedhlow skeusen.** [Conversation Cards](/games/conversation-cards/) a brof skeusennow gans govynnow ygor na wra apposyans bythkweth.
+- **Skeusennow teylu.** [Photo Pairs](/games/photo-pairs/) a dreyl skeusennow a dhewisowgh hwi dhe wari parow kosel, hag yn fenowgh hemm a dhre hwedhlow.
+- **Lavarennow aswonys.** [Finish the Saying](/games/finish-the-saying/) a wra devnydh a lavarennow aswonys, sywys gans kedhlow rag kewsel.
+- **Gwariow parow avel kilva.** [Picture Pairs](/games/picture-pairs/) a re neppyth dhe’gas diwla dhe wul ha hwi ow kewsel.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Gwrewgh mires orth [fatell wari gwariow war-barth](/caregiving/how-to-play-together/) ha [gwriansow kovheans](/activities/reminiscence/) rag moy. Rag vysytyow ha galowyow, redyewgh agan gidlinyow a-dro dhe [vysytyow](/activities/visiting/) ha [galowyow pellgowser ha gwydhyow](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+## Pyth mar kyllav vy ow ferthyans?
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+Hemm a hwer dhe bubonan. An NIA a brof, mar tegh hwi dhe vos serrys, hwi dhe gemeres termyn rag koselhe. Kewgh dhe stevell arall, kemerewgh nebes anallyow lent, ha dehweles pan yllowgh. Hwi a yll pupprys dalleth an keskows arta, hag yn fenowgh an den a wra gorthebi dhe’gas modh moy kosel. Mar yw serrysder ow tos ha bos pupprys, sin yw bos edhomm dhywgh a voy skoodhyans, a-der bos hwi ow fyllel. Agan gidlinen a-dro dhe [omwithans an gwithyas](/caregiving/caregiver-self-care/) a’n jeves tylleryow may hyllydh mos rag gweres.

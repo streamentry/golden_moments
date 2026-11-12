@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Koll Klew ha Peryl Demens: An Hwithrans"
+seoTitle: "Koll Klew ha Demens: An Hwithrans"
+description: "Prag yw koll klew peryl bras rag demens, pyth a wrug previ ACHIEVE diskwedhes yn hwir, ha fatel dhe jeckya klew ha keskowsya yn es."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Konsel an Lancet 2024 a henow koll klew avel onan a’n peryllow chanjadow brassa rag demens.
+  Y’n previ ACHIEVE, ny wrug devisyow klew lenthe leheans konvedhek dre vras, byttegyns y
+  tiskwedhas bagas gans peryl ughella le leheans. Devisyow klew a weres keskows ha bewnans
+  pub dedh yn neb kas. Gwrewgh jeckya agas klew, prederi a-dro dhe dhevisyow klew gans
+  resayt po heb resayt, ha keskewsel gans medhek.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Konsel an Lancet a breder dell gomprehend koll klew a-dro dhe 7% a demens a-dro dhe’n bys, kevrenn gans an rann vrassa yn mysk 14 faktor."
+  - "Y’n previ ACHIEVE a 977 tevesik kottha, ny wrug devisyow klew chanjya leheans konvedhek dres tri bledhen dre vras."
+  - "Yn bagas bian gans peryl ughella yn ACHIEVE, yth esa leheans konvedhek 48% lentta gans devisyow klew; res yw hemma bos konfyrmys."
+  - "A-dhia mis Hedra 2022, tevesogyon y’n SUA gans koll klew skwith po kresek a all prena devisyow klew rewlies gans an FDA heb resayt."
+  - "Koll gweles heb dyghtyans a veu keworrys avel peryl demens yn 2024, ytho res yw provyow lagas ynwedh."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "A wra devisyow klew lettya demens?"
+    a: "Nyns yw hemma prevys hwath. An previ ACHIEVE a gavas nag esa effeyth ollgemmyn war leheans konvedhek dres tri bledhen, byttegyns y’n jevo unn bagas gans peryl ughella sewyans gwell. Hwath yma talvosogeth dhe brederi a-dro dhe dhevisyow klew drefen i dhe wul keskows, sawder ha bewnans pub dedh esya."
+  - q: "Piw a yll prena devisyow klew heb resayt?"
+    a: "An FDA a alow tevesogyon 18 bloedh ha kottha gans koll klew skwith po kresek dhe brena devisyow klew heb resayt yn shoppys po warlinen heb resayt. Nyns yns i gwiw rag koll klew tynn. Piwpynag gans payn y’n skovarn, lin a’n skovarn, penndro po chanjyow a-dhesempis y’n klew a dal mos dhe vedhek kyns."
+  - q: "A yll koll klew heveli demens?"
+    a: "Treweythyow. An National Institute on Aging a verk tus kottha na yll klewes yn ta dhe vos tybys treweythyow bos kemyskys po ankoberyek. Check klew yw kamm skiansek pan wra nebonan heveli omdenna po kelli an pyth yw leverys."
+  - q: "Peskweys y tal dhe dus kottha aga lagasow bos checkys?"
+    a: "An National Institute on Aging a gomend prov lagas lesys pub bledhen po dew vledhen wosa 60 bloedh, po dell gomend agas profesyonel lagasow. Tus gans dyabetes po gwask goes ughel a wodhor prov dres an lyha unnweyth pub bledhen."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Koll klew yw kemmyn yn termyn diwettha bewnans, hag yma hwithroryon ow kemeres hemma yn tidro avel peryl rag demens. Ny wra hemma devisyow klew bos fordh prevys dhe lettya demens; an previ gwella bys y’n eur ma a wrug diskwedhes sewyansow kemyskys. An folen ma a styr pyth a dhiskwedh an hwithrans, fatel dhe jeckya klew, pyth yw devisyow klew heb resayt y’n SUA, ha fatel dhe wul keskows esya.
 
-## Why does hearing matter for brain health?
+## Prag y’n jeves klew talvosogeth rag yeghes an ympynnyon?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Yma kevrenn dhe goll klew gans peryl ughella a demens. [Konsel an Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) a breder dell gomprehend ev a-dro dhe 7% a demens a-dro dhe’n bys. Hemma a’n gorra kevrenn gans colesterol LDL ughel rag an rann vrassa yn mysk an 14 peryl chanjadow yn pattern an Konsel, herwydh [berrheans UCL a’n derivas](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Kavosow a-bris a’n Konsel:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Peryl ughella gans koll klew.** Yn y dhielvenn kevunys a hwegh studh a gwalita ughel, yth esa a-dro dhe 37% moy a beryl a demens dhe dus gans koll klew ages dhe dus gans klew usadow.
+- **Moy koll, moy peryl.** Studhyow a viras orth tynnter a gavas bos an peryl ow kressya pan eth an klew gwettha.
+- **Achesonyow galladow, heb bos prevys hwath.** Y’ga mysk yma diglonnieth hag omdenna, diglonter, le provokans rag an ympynnyon, ha’n strivyans brysel keworransel a wra goslowes.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Koll klew yw kemmyn. [An National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) a lever bos koll klew dhe a-dro dhe unn tressa a dus kottha, ha’n chons a gress gans oos.
 
-## What did the ACHIEVE hearing aid trial find?
+## Pyth a wrug previ devisyow klew ACHIEVE kavos?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE o an kynsa previ arbrovek a dhevisyow klew ha leheans konvedhek. Y sewyansow yw ken leverys yn kamm lieskweyth, ytho ottomma an manylyon dhyworth [derivas dyllys an previ](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Piw a gemeras rann:** 977 tevesik ynter 70 ha 84 bloedh gans koll klew heb dyghtyans ha heb kudynnow brysel a brederi, yn peswar tyller kemenethek y’n SUA.
+- **Pyth a veu komparys:** Hanter a dhegemeras devisyow klew ha esedhogow kussulya gans audiologydh. An hanter arall a dhegemeras towlen adhyskans yeghes a-dro dhe goslowes yn yegh.
+- **Sewyans penn:** Wosa tri bledhen, **ny veu dyffrans** yn leheans konvedhek ynter an dhew vagas dre vras.
+- **Sewyans isbagas:** An previ a gemeras tus dhyworth dew bennfenten. 238 den a dheuth dhyworth studh hir a yeghes an golon (ARIC), hag avel bagas yth ens i yn peryl ughella a leheans konvedhek. Y’n bagas ma, yth o leheans **48% lentta** gans devisyow klew. Yn mysk an 739 bodhek kemenethek yagh, ny veu effeyth kler.
 
-How to read this honestly:
+Fatel dhe redya hemma yn onest:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- An gorthyp ollgemmyn o nag esa effeyth.
+- An kevadh isbagas o towlennys a-rag, mes ev a dheuth dhyworth dielvenn eilgweythel a vagas bian. Res yw ev bos konfyrmys yn studhyow erel.
+- An gemeroryon a wodhya py dowlen esa dhedha, hag a yll effeythi an sewyansow.
+- Konsel an Lancet a red an dustuni avel ow tiskwedhes bos devisyow klew gwerek yn arbennik rag tus gans koll klew keffrys ha peryllow erel a demens.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+An gwers oll yw nag yw devisyow klew fordh prevys dhe lettya demens. I a weres tus dhe glewes, dhe gemeres rann yn keskowsow ha dhe vos junys, hag yma henna yn acheson da lowr dhe brederi a-dro dhedha.
 
-## How do I know if hearing should be checked?
+## Fatell yllir godhvos mar kodh bos an klew checkys?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+An NIA a gomend mos dhe vedhek mar kodh dhis po dhe’n den a withowgh:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Kalesvos konvedhes tus war an pellgowser
+- Kales bos holya keskowsow pan wra dew po moy tus kewsel
+- Govyn yn fenowgh orth tus dhe dhasleverel
+- Ughelhe an pellwolok mar ughel may hwra tus erel krodhvola
+- Kalesvos konvedhes kows pan eus tros yn-kynsa
+- Prederi bos tus erel ow hwinas
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Dalleth gans medhek gonis, a yll agas danvon dhe audiologydh (arbennik klew) po medhek skovarn, tron ha briansen. Kuntel kotor skovarn yw acheson kemmyn a goll klew a yll medhek jeckya. **Koll klew a-dhesempis yw studh-fysi medhegel**, hag an NIA a gomend mos dhe vedhek a-dhistowgh.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Koll klew a yll bos kemyskys gans kemyskter. An NIA a verk bos tus kottha na yll klewes yn ta treweythyow tybys yn kamm bos kemyskys, heb gorthebi po ankoberyek. Mar hevel nebonan a garowgh omdenna po kelli an pyth yw leverys, check klew yw kamm da a-varr.
 
-## What are over-the-counter hearing aids?
+## Pyth yw devisyow klew heb resayt?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+A-dhia 17 mis Hedra 2022, [an FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) a alow rumm a dhevisyow klew heb resayt (OTC). Ottomma fatel ymons i komparys gans devisyow gans resayt:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Nas | Devisyow klew OTC | Devisyow klew gans resayt |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Rag piw yns i | Tevesogyon 18 bloedh ha kottha gans koll klew skwith po kresek | Py nivel pynag a goll klew, py oos pynag |
+| Ple dhe gavos | Shoppys po warlinen, heb prov po resayt | Der brofessyonel klew alwhedhys |
+| Fyttya | Hwi a janj an settyansow agas honan, lieskweyth gans app | Professonel a’n towlen rag agas klew |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+An FDA a lever nag yw devisyow OTC gwiw rag koll klew tynn po pur dynn. Ev a gomend mos dhe vedhek, gwell medhek skovarn, tron ha briansen, kyns prena mar a’gas beus:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Payn po anes y’n skovarn
+- Lin, podreth po goes a’n skovarn y’n hwegh mis diwettha
+- Chanjyow klew a-dhesempis po ow treylya
+- Klew gwettha yn unn skovarn, po ow synsi yn unn skovarn yn unnik
+- Penndro po vertigo
+- Meur a gotor skovarn
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Res yw practisya dhe dhos ha bos usys gans devisyow klew, ytho gwrewgh checkya an polici dehweles kyns prena, dell gomend an FDA. An NIA a gomend govyn mar kwra agas asurans pe agas gweres gans rann a’n kost. Rag den ow powes gans demens, audiologydh a yll gweres ervira py eghen devis ha fyttya a vydh esya dhe dhyghtya pub dedh.
 
-## How can I talk more easily with someone who has hearing loss?
+## Fatell yllav vy keskowsya yn es gans nebonan gans koll klew?
 
-The NIA suggests:
+An NIA a gomend:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Gorrewgh agas enep orth an den ha synsi golok**, yn golow da, may hallons i gweles agas diwweus ha’gas semlant.
+2. **Kewgh tyller kosel.** Swith agas pellwolok po mos dhe-ves a dros.
+3. **Kowsowgh nebes ughella, mes na vedhowgh ow arma.** Kowsowgh yn naturel hag orth tooth resnadow.
+4. **Gorrewgh agas ganow rydh.** Na wrewgh dybri, chaskya goom po kudha agas ganow pan esowgh ow kewsel.
+5. **Gwrewgh arta yn fordh arall yn le dasleverel** pan yw neppyth kellys.
+6. **Unn den orth unn dermyn.** Yn bagas, gwrewgh assay dhe gomprehendya an den.
+7. **Bedhewgh perthynek ha govyn fatel yllowgh gweres.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+An profyansow ma a ober yn ta gans agan [profyansow keskows a-dro dhe demens](/caregiving/communication-tips/). Gwriansow selys war imajys a wra ynwedh lehe an gwask war goslowes. [Picture Pairs](/games/picture-pairs/) ha [Conversation Cards](/games/conversation-cards/) a ober dre’n pyth a welowgh, ha [Finish the Saying](/games/finish-the-saying/) a’gas gas dhe dhiskwedhes an diwedh yn le y leverel. Rag galwow, gwelowgh agan gid a-dro dhe [galwow pellgowser ha pellwolok](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Yma talvosogeth dhe weles ynwedh
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Yn 2024 Konsel an Lancet a geworras koll gweles heb dyghtyans avel peryl nowydh. Berrheans UCL a’n rekn avel a-dro dhe 2% a gasow demens, ha’n Konsel a gomend gul skrinya ha dyghtyans rag kudynnow gweles kavadow dhe bubonan. [An NIA a gomend](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) prov lagas lesys pub bledhen po dew vledhen wosa 60 bloedh, ha checkya resaytys dewweder ynwedh. Hogen chanjyow byghan yn gweles a yll ughelhe an peryl a goedha.
 
-## Talk with a doctor
+## Kewsewgh gans medhek
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Govynnowgh orth medhek a-dro dhe jeckyansow klew ha gweles mar kwelowgh py arwodh a-wartha. Hwrewgh hwilas gweres a-dhistowgh rag koll klew a-dhesempis, payn y’n skovarn, po lin a’n skovarn. Mar kwithowgh den ow powes gans demens, leverewgh dh’y vedhek a-dro dhe janjyow klew po gweles, a yll effeythi imaj, sawder ha fatel yll an den kemeres rann.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+An folen ma yw kedhlow ollgemmyn, nag yw kussul medhegel. Gwrewgh mires orth agan [skrif defens medhegel](/medical-disclaimer/). Redyowgh moy a-dro dhe [keskolm socyal ha yeghes an ympynnyon](/brain-health/social-connection/).

@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Argerdh jorna ledan rag den ow triga gans demenyans"
+seoTitle: "Argerdh jorna demenyans: sampl heblek"
+description: "Sampl heblek a jorna rag den ow triga gans demenyans, gans boes, gwriansow ha powes yn orden tidro, ha fatel dhe dhrehevel agas huni."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Argerdh jorna ledan a with termynyow kesson rag difuna, boes, gwith personel
+  ha mos dhe’n gweli, a wra gorra an gwrians moyha posek pan yw an den moyha
+  difun, hag a geskemmysk gwrians ha powes. Drehevlewgh hi dhyworth usadowyow
+  an den dres y vewnans, gwrewgh hi heblek yn le beghys leun, kevrewgh golow an
+  jedh ha gwayans pub dydh, ha chanjyewgh an towl yn rydh pan wra an jorna y
+  ervysi.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Termynyow kesson rag difuna, boes, gwith ha mos dhe’n gweli a re furv aswonys dhe’n jorna."
+  - "Gorrewgh an gwrians moyha posek orth an gwella termyn a’n jorna rag an den, yn fenowgh an myttin."
+  - "Na lenwewgh pub mynysen. Powes ha termyn kosel yw rann a’n argerdh."
+  - "Golow an jedh, gwayans pub dydh, hag avoidya hun hir diwedhes ha koffein diwedhes a yll gweres gans anes diwedhes an jorna."
+  - "Towlen yw an argerdh, nag yw reol. Keschanjyewgh, berrhewgh po tremenewgh heb neppyth yn dydhyow moy kales."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Prag yth yw argerdh dhe les rag nebonan gans demenyans?"
+    a: "Jorna ragwelys a styr le erviransow ha sowdhansow, hag yma meur a dus ow triga gans demenyans a’n kev glewder. An Alzheimer's Association a leverel bos towl jorna ow gas dhywgh spena le termyn ow prederi pyth dhe wul ha moy termyn war daklow a enjoyewgh war-barth. Hi a weres ynwedh dhe withoryon ordena aga jorna aga honan."
+  - q: "Pyth yw argerdh jorna dha rag nebonan gans demenyans?"
+    a: "Nyns eus unn argerdh ewn. Onan dha a with termynyow kesson rag difuna, boes ha mos dhe’n gweli, a wra gorra gwith personel ha’n gwrians moyha posek pan yw an den orth y wella, a gomprehend termyn yn-mes po ogas dhe fenester, hag a as spas rag powes. Drehevlewgh hi a-dro dhe’n fordh may hwrug an den bywa pupprys."
+  - q: "A dal nebonan gans demenyans koska yn ystod an jydh?"
+    a: "Powes berr a yll gweres, yn arbennik wosa li. An National Institute on Aging a gomend na skoodhyewgh hun hir po hunros diwedhes y’n jydh, drefen bos skwithys re po heb powes lowr a yll keworra dhe anes diwedhes an jorna. Mar yw koska kudyn gwir, kewsewgh orth aga medhek."
+  - q: "Ha mar a naghons i sewya an argerdh?"
+    a: "Gesewgh hi lemmyn ha assaysowgh arta diwettha po yn fordh dyffrans. Nagha a yll styrya bos an den skwith, klav, yn poen po yn sempel heb bos parys. Yma an argerdh dhe wul an jorna esya, ytho pleghewgh hi yn le hy herdhya."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Argerdh jorna ledan a re furv aswonys dhe’n jorna: difuna, boes, nebes gwrians, powes ha mos dhe’n gweli orth termynyow ogas an keth. Hi a lehe erviransow ha sowdhansow, hag a re dhywgh towl rag an termynyow pan vowgh ow prederi pyth dhe wul nessa. An argerdh a-woles yw sampl, nag yw reol. Usyewgh hi avel dallethva, ena shapewgh hi a-dro dhe’n den may hwithrowgh.
 
-## Why does a daily routine help?
+## Prag yth yw argerdh jorna dhe les?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Argerdh kesson a weres drefen bos patronyow aswonys esya dhe sewya es patronyow nowydh. An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) a leverel bos jorna towlennys ow styrya le termyn owth ervira pyth dhe wul ha moy termyn rag gwriansow lowen, hag a verkya y hall termynyow reyth rag difuna ha mos dhe’n gweli gweres gans kudynnow koska hag anes diwedhes an jorna. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) a gomend omwolghi, omwisca ha dybri orth an keth termynyow pub dydh avel rann a dre kosel, hag an [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a gomend ynwedh gwitha an keth argerdhow.
 
-## A sample gentle day
+## Sampl a jorna ledan
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Ensamplys hepken yw an termynyow. Movyewgh an jorna dien a-varra po diwettha dhe dhos war-barth ha reyth an den y honan.
 
-| Time | What happens | Ideas | On a harder day |
+| Termyn | Pyth a hwer | Tybyansow | Yn jorna moy kales |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Difuna, omwolghi, omwisca | An keth aray pub dydh; gorrewgh dillas yn aray | Gwrewgh an gwith sempel; kryj nowydh yw lowr |
+| 8:45 a.m. | Hansel | Koffi ha’n paper-nowodhow redys yn ughel, po an radyo | Dybri war-barth yn kosel, heb gwask dhe gewsel |
+| 9:30 a.m. | Gwrians penn | Plegya dillas golgh, pobas, lowarthyeth, tro berr po kerdh | Versyon berrhe, po gas dhedha agas mires ow kul |
+| 10:30 a.m. | Termyn kosel | Ilow, lyver skeusennow, po esedha ryb fenester | Powes yn gador a gar |
+| 11:00 a.m. | Gweres gans li | Golghi losow, gorra an voes | Hwi a gog; i a with dhywgh kowethyans |
+| 12:00 p.m. | Li ha kempes | Sychya an voes, sychya nebes lestri | Tremena heb an oberow |
+| 1:00 p.m. | Powes berr | Treys yn-bann, ilow medhel | An keth |
+| 2:00 p.m. | Yn-mes po gweythresek | Kerdh, termyn war an porsh, dowrhe lesyow, tewlel ayrbellen | Esedha ryb fenester howlek |
+| 3:00 p.m. | Kowethasek po awenek | Godrigans, galow, [picture pairs](/games/picture-pairs/), liwa, kartennow | Diwes ha boesik war-barth |
+| 4:30 p.m. | Termyn koselhe | Lentyow degeys, golowys yn-bann, ober kosel kepar ha plegya liwyow golgh | Ilow aswonys, tros isel |
+| 5:30 p.m. | Koen | Gweres dhe gomyska po gorra an voes | Boes sempel, aswonys |
+| 6:30 p.m. | Gorthugher war-barth | Kewsel a gov wosa koen, kartennow, gwari a gar, knuf dorn | Kowethyans kosel |
+| 8:00 p.m. | Argerdh mos dhe’n gweli | Omwolghi, dillas nos, ilow medhel, golowys isel | Berrhewgh puptra; komfort yn kynsa le |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+An sampl ma a sew furv towl sampl an Alzheimer's Association y honan rag an gradhow a-varr ha kres, ow movya dhyworth gwith personel ha hansel dre oberow chi, kerdhow, ilow, powes ha godrigansow dhe goen, kewsel a gov hag ombareusi rag mos dhe’n gweli.
 
-## How do you build your own routine?
+## Fatel wrewgh hwi drehevel agas argerdh hwi?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Dalleth dhyworth an fordh may hwrug an den bywa pupprys, nag dhyworth chart. An Alzheimer's Association a gomend prederi a-dro dhe’n taklow ma kyns towlenna:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **An taklow a garons, na garons, aga nerth ha’ga lesyow.**
+- **Fatel wrussons i spena aga jorna kyns.** Den a dhifune a-varr hag a gerthas pupprys gans an ki a dal hwath kerdhes a-varr. Den nos a yll bythkweth enjoya dalleth 8:00 a.m.
+- **Aga gwella termyn a’n jorna.** Gorrewgh omwolghi, trohow ha’n gwrians penn ena.
+- **Lowr a dermyn** rag boes, omwolghi hag omwisca, ma na vo fyskys travyth.
+- **Termynyow reyth rag difuna ha mos dhe’n gweli.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+An keth fenten a gomend komprehendya kemmysk a oberow chi, boesow, gwith personel, gwriansow awenek, gwrians korfek, termyn kowethasek, gwrians spyrysel ha polsyow heb towl, kepar ha koweth ow tos.
 
-### Try it for a week, then adjust
+### Assayewgh hi dres seythun, ena chanjyewgh
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Gwrewgh noten sempel pub dydh. An Alzheimer's Association a gomend govyn py gwriansow a oberas an gwella ha prag, mar pe termynyow gans re a daklow ow hwarvos po re a nebes dhe wul, ha mar pe towlennow heb ragweles lowen po kudynnek. Gwitha an pyth a ober hag chanjya an pyth na wra.
 
-### Make it visible
+### Gwrewgh hi gweladow
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Mar a yll an den hwath redya, bord gwynn po karten gans lytherennow bras gans towl an jydh a yll bos glewder. Gwrewgh hi berr: «Hansel. Kerdh gans Sarah. Li. Powes.» Nebes tus a wra gwell heb godhvos pell a-rag; an Family Caregiver Alliance a gomend na gewsewgh a dowlennow marnas a-gynsow a hwarvo, mar kwra henna preder.
 
-## How to adapt the routine
+## Fatel dhe aswiwa an argerdh
 
-### Leave room to breathe
+### Gesewgh spas dhe anella
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Na lenwewgh pub mynysen. An Alzheimer's Association a boslev bos edhomm dhe’n den a geskemmysk gwrians ha powes hag y hall bos edhomm dhodho a bowesow moy menowgh. Mars yw anodho po mar hevel bos diek po serrys, chanjyewgh an gwrians po powesewgh.
 
-### Protect the late afternoon
+### Gwitha dohajydh diwedhes
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Meur a dus a dhev moy anesek ha’n jydh ow tewi. An NIA a gomend termyn yn-mes po ryb fenester rag golow an howl pub dydh, bos gweythresek pub dydh heb towlenna re, avoidya koffein hag alkool diwedhes y’n jydh, ha skoodhya erbynn hun hir diwedhes y’n jydh. Nebes teyluyow a gewl ynwedh bos dhe les degea an lentyow ha tanowhe an golowys kyns tewlder. Gwrewgh mires orth [anes diwedhes an jorna](/caregiving/late-day-restlessness/) ha [koska](/brain-health/sleep/).
 
-### Change it as needs change
+### Chanjyewgh hi ha’n edhommow ow chanjya
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Gradh a-varr:** towlennewgh an argerdh war-barth. An den a yll mynnes argerdh skrifys may hyll y vaynori y honan.
+- **Gradh kres:** hwi a led moy. Gwriansow berrhe, moy powes ha lies ober aswonys; gwrewgh mires orth [gwriansow gradh kres](/activities/middle-stage/).
+- **Gradh diwedhes:** an argerdh a gres war gomfort, boes ha gwith, gans polsyow berr a brovansow kepar ha ilow po knuf dorn ynter anedha; gwrewgh mires orth [gwriansow gradh diwedhes](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Chanjyewgh an gwriansow, nag an fram
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Gwitha boesow, powes ha termyn mos dhe’n gweli kesson, ha treylyewgh an gwriansow ynter anedha. An [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a gomend assaya gwriansow dyffrans yn dydhyow dyffrans rag gwitha an taklow didheurek. Hwi a yll pobas dy’Lun, lowarthyeth dy’Meurth ha mires orth skeusennow dy’Mergher. Agan [101 tybyans gwrians](/activities/ideas/) ha [oberow chi](/activities/household-tasks/) a yll lenwel an termynyow.
 
-## When the day goes sideways
+## Pan na wra an jorna sewya an towl
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Nebes dydhyow ny wra sewya towl vyth. Kleves, nos dha, godrigans dhyworth an medhek po chanj yn an awel a yll tewlel puptra yn-mes. Gas an towl, gwitha an taklow selvenel (boes, diwes, powes, komfort) hag assaysowgh arta a-vorow. Mar a nagh an den neppyth, gwrewgh mires orth [pan leverons i na](/caregiving/when-they-say-no/). Powes berr dhe anella yn lent war-barth, kepar ha [anella kosel](/games/calm-breathing/), a yll gweres dhe’gas dew rysettya.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Yma res dh’agas argerdh hwi ynwedh. Gwrewgh spas rag powesow dhywgh hwi agas honan, ha govynnewgh orth teylu po gonis powes dhe gemeres termyn rydh reyth. Gwrewgh mires orth [omwith gwithoryon](/caregiving/caregiver-self-care/).

@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Opera domestica hominibus cum dementia viventibus"
+seoTitle: "Opera domestica et dementia: munera cotidiana"
+description: "Plicare, ordinare, mensam parare et simpliciter coquere possunt esse actiones iucundae hominibus cum dementia viventibus. Quomodo ea parare et tuta reddere."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Munera cotidiana, ut mantelia plicare, tibialia paria facere, mensam parare,
+  mensas detergere, plantas rigare et in simplici coctione adiuvare, homini
+  cum dementia viventi veram occasionem praebere possunt ut domi adiuvet.
+  Elige munera quae novit, in singulos gradus divide, pericula acuta vel
+  calida remove, et pluris fac participationem quam rem «recte» factam.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Munera nota homini adiuvare possunt ut se utilem et domus participem sentiat, quod saepe plus valet quam quam bene opus fit."
+  - "Quodque munus in singulos gradus divide, potius ostende quam explica, et gradum qui difficilis factus est tacite suscipe."
+  - "Cultras, res purgatorias et capsulas detergentis claude, et antequam una coquatis, manubriis furni tegumenta vel machinam quae furnum sponte exstinguit adde."
+  - "Mantelia plicata non est necesse coram homine iterum plicare. Si quid reficere debes, postea et clam fac, ne homo se reprehensum sentiat."
+  - "Si munus frustrationem affert, ad gradum faciliorem transi, alio tempore iterum tempta, aut simpliciter una sedete."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Quibus in operibus domesticis homo cum dementia adhuc adiuvare potest?"
+    a: "Multi homines adhuc vestes plicare, tibialia paria facere, utensilia mensae ordinare, mensam parare, mensam detergere, pulverem abstergere, verrere, plantas rigare vel massam in patera miscere possunt. Elige munera quae homo antea faciebat et ea cum iis quae nunc facere potest compara. Gradibus posterioribus, unus motus iteratus, ut mappas complanare, satis esse potest."
+  - q: "Tutumne est hominem cum dementia in culina adiuvare?"
+    a: "Potest esse, si diligenter attendis et locum recte paras. Cultras, res purgatorias et omnia calida extra ictum pone, manubriis furni tegumenta vel machinam quae furnum sponte exstinguit adhibe, et homini munus tutum da, ut holera lavare, miscere vel lances ponere. Numquam eum solum relinque, cum furnus accensus est."
+  - q: "Quid si male plicat aut rem turbat?"
+    a: "Sine esse. Propositum est tempus una agere et sensus se utilem esse, non exitus perfectus. Si quid vere reficiendum est, exspecta et postea fac, cum homo non spectat, ne se correctum sentiat."
+  - q: "Quid si adiuvare recusat?"
+    a: "Responsum negativum significare potest munus nunc nimis difficile, confusum aut defatigans videri. Noli urgere. Tempta formam simpliciorem, invita eum ut tibi potius comitetur, aut alio diei tempore, cum aptius est, iterum roga."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Multi homines cum dementia viventes per decennia domum curaverunt, familiam aluerunt aut in loco laboris ordinem servaverunt. Rogari ut veris operibus domesticis adiuvent potest dicere «adhuc huius domus pars es» modo quo paucae aliae actiones possunt. Haec pagina explicat quae munera saepe bene procedunt, quomodo ea parare, quomodo ea mutare cum res mutantur, et quomodo culinam et conclave lavatorium tuta servare.
 
-## Why do everyday chores work well as activities?
+## Cur opera cotidiana bene ut actiones valent?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Opera cotidiana bene valent, quia nota sunt et finem clarum habent. National Institute on Aging inter [cotidianas actiones quibus homines cum morbo Alzheimer frui possunt](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) enumerat lances lavare, mensam parare, verrere, pulverem abstergere, epistulas ordinare, vestes plicare et res ad recyclandum ordinare. Alzheimer's Association notat munera, ut mensam parare, homini adiuvare posse ut se [partem pretiosam domus](https://www.alz.org/help-support/caregiving/daily-care/activities) sentiat.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Opus domesticum etiam suam ipsius causam incipiendi habet. «Potesne me cum his mantelis adiuvare?» facilius est quam «Visne actionem facere?»
 
-## Which household tasks are good to try?
+## Quae opera domestica temptare utile est?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Incipe a muneribus quae homo antea faciebat, deinde ea cum iis quae hodie facere potest compara.
 
-### Laundry and linens
+### Vestes et lintea
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Mantelia et manutergia plicare.** Corbem parvorum et planorum praebe. Mantelia sunt facilia: nullo modo male plicari possunt.
+- **Tibialia paria facere.** Acervum mixtum in mensa pone. Si paria difficilia sunt visu, duobus vel tribus coloribus valde diversis tantum utere.
+- **Complanare et in acervum ponere.** Mappae, tegmenta cervicalium vel mantelia culinaria complanari et in acervum poni possunt. Hoc bene valet postea, cum plicare nimis multos gradus habet.
 
-### Table and kitchen
+### Mensa et culina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Mensam parare.** Unum locum ut exemplum pone et hominem id imitari sine. Si hoc nimis est, unam rem simul praebe: «Ecce furca pro quaque lance.»
+- **Utensilia mensae ordinare.** Furcas, cochlearia et cultros butyri mundos in capsa misce et in alveum divisum ordina. Cultras acutos omitte.
+- **Lances siccare.** Lances plasticae vel infragiles et manutergium molle hoc munus tutum faciunt.
+- **Mensam vel abacos detergere.** Pannus humidus et superficies clara. Alzheimer's Association suadet pannum offerre, si quis iam manu mensam fricat, ita motum inquietum in munus utile vertens.
 
-### Around the house
+### Per domum
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Pulverem abstergere.** Peniculus mollis et paucae superficies firmae, ut mensa parva in conclavi aut armarium librorum.
+- **Epistulas ordinare.** Epistulas inutiles et libellos mercatorios praebe, ut in acervos ordinentur: servanda, recyclanda, postea aperienda. Rationes veras et syngraphas alibi serva.
+- **Res recyclandas ordinare.** Vasa, lagoenas et chartas mundas in cistas separatas.
+- **Verrere.** Scopula parva in porticu vel solo culinae, si homo firme consistit.
+- **Plantas rigare.** Nasiternula parva et levis et paucae plantae facile attingendae.
 
-### Simple cooking with supervision
+### Simplex coctio cum attentione
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Coquere potest dulces et fortes sensus revocare. NIA suadet hominem sinere ingredientia colligere, metiri, miscere et infundere, aut simpliciter alii dicere quomodo cibus dilectus paretur. Bona munera sunt:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- holera vel poma lavare
+- massam vel acetariam frigidam miscere
+- lactucam discerpere
+- panem tostum cultro hebeti butyro illinere
+- massam crustulorum in tabula ponere
+- additamenta in pizzam ponere
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Si metiri difficile fit, Alzheimer's Association suadet ut tu mensuras perficias et deinde alium gradum, ut miscere, praebeas.
 
-## How do I set up a chore so it goes well?
+## Quomodo munus paro, ut bene procedat?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Tempus aptum elige.** Elige partem diei, qua homo plerumque quietus et tranquillus est. Multis hominibus hoc tempus est mane.
+2. **Locum para.** Unum munus, una superficies, nihil superfluum in mensa.
+3. **Invita, noli iubere.** «Manu tua egeo in his» melius valet quam «Nunc tempus est vestes plicare.»
+4. **Primum exemplum ostende.** Unum mantelium lente plica, deinde proximum praebe. Ostendere clarius est quam explicare.
+5. **Unum gradum simul da.** Nimia praecepta simul data confundere possunt. Exspecta dum unus gradus finiatur, antequam proximum nomines.
+6. **Una, latere iuxta latus, laborate.** Idem opus iuxta facere societatem, non custodiam, significat.
+7. **De munere loquere, non de exitu.** «Haec tam mollia sunt» aut «Narra mihi quomodo armarium linteorum servare solebas» sermonem invitat sine ullo examine.
 
-## How do I adapt chores as abilities change?
+## Quomodo opera domestica muto, cum facultates mutantur?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Facultates per tempus mutantur, etiam de die in diem. Alzheimer's Association suadet, progrediente morbo, ad munera simpliciora et magis iterata transire.
 
-| If this has become hard | Try this instead |
+| Si hoc difficile factum est | Hoc potius tempta |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Lintea magna plicare | Manutergia plicare vel mappas complanare |
+| Totam mensam parare | Unam mappam ad quamque sedem ponere |
+| Epistulas in genera ordinare | Epistulas in unum acervum ponere |
+| Praeceptum sequi | Miscere, aut spectare et gustare dum tu coquis |
+| Totum solum verrere | Unam parvam mensam detergere |
+| Munus omnino facere | Tecum sedere et tibi comitari, dum tu id facis |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Spectare etiam participare est. NIA notat aliquos homines simpliciter spectare iuvare, et hoc est bonus modus participandi.
 
-## How do I keep household tasks safe?
+## Quomodo opera domestica tuta servo?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Securitas prima est, praesertim in culina. [Consilia de securitate domi pro iis qui hominibus cum morbo Alzheimer curam praebent](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) a NIA data haec includunt:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Res purgatorias claude vel remove, etiam capsulas detergentis pro vestibus, quae dulcia videri possunt.
+- Cultras, forfices et instrumenta electrica in loco clauso serva.
+- Manubriis furni tegumenta tuta et machinam quae furnum sponte exstinguit adde.
+- Signa «Siste» vel «Valde calidum» prope furnum, tostarium et ferrum pone, ita ut ignem capere non possint.
+- Calefactorem aquae ad 120°F constitue, ut periculum ambustionis minuatur.
+- Fructus facticios et magnetes cibi similes remove, qui esculenti videri possunt.
 
-A few more practical habits help:
+Etiam haec consuetudines utiles sunt:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- In eodem conclavi mane, quotiens furnus, clibanus aut instrumentum acutum adhibetur.
+- Lances infragiles adhibe ad lances siccandas et mensam parandam.
+- Solum siccum et liberum serva, dum verris vel lavas.
+- Si homo olim instrumentis utebatur, Alzheimer's Association suadet res periculosas ex officina removere, ut munus tutum, ut lignum laevigare, adhuc iucundum esse possit.
 
-## What if they do it "wrong"?
+## Quid si «male» facit?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Omitte. Mantelium in tres partes, non in duas, plicatum tamen mantelium plicatum est. Alzheimer's Association hoc plane dicit: quod valet est tempus una agere et hominem se utilem sentire, non utrum mantelia recte plicata sint. Si quid vere reficiendum est, exspecta et postea clam fac.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+In ipso momento corrigere potest opus iucundum in admonitionem eorum quae amissa sunt mutare. «Gratias tibi ago, hoc multum iuvat» paene semper recte dicitur.
 
-## When should we stop?
+## Quando desistere debemus?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Desiste aut muta, cum signa frustrationis, defatigationis aut studii amissi vides. Citius desinere est bonus exitus, non defectus. Potes:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- ad gradum faciliorem transire
+- ad aliquid quietum transire, ut musicam vel poculum capuli
+- postea aut alio die iterum temptare
+- simpliciter una sedere
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Si homo negat, noli urgere. Vide [quid facere, cum dicit «non»](/caregiving/when-they-say-no/), ut modos lenes respondeat invenias.
 
-## Low-effort extras for a quieter moment
+## Additamenta facilia pro momento quietiore
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Cum opera corporalia fieri non possunt, ordinare et paria facere etiam sedendo fieri possunt. [Sort Together](/games/sort-together/) sinit te imagines in corbes culinae aut horti tangendo ponere, et [Picture Pairs](/games/picture-pairs/) est ludus lenis paria inveniendi cum magnis imaginibus et sine horologio. [Conversation Cards](/games/conversation-cards/) habet quaestiones apertas de domo et familia, quae bene cum capulo post opus confecto conveniunt.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Ad auxilium in operibus domesticis in diem disponendis, vide ducem nostrum de [placida cotidiana ratione](/activities/daily-routine/). Plures ideas pro singulis gradibus invenies in [actionibus gradus medii](/activities/middle-stage/).

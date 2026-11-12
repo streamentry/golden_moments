@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Dementia risk factors: 14 Lancet ye bayyənadə"
+seoTitle: "Dementia risk factors: 14 Lancet ye bayyənadə"
+description: "2024 Lanet Commission ye dementia risk factor 14 faltəro walzəna bayyənadə, kərmai-a loktu-a ro, awo kəlio-a kuru awo lobu-a ro manazəro."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 Lanet Commission ye dementia risk factor 14 faltəro walzəna bayyənadə:
+  ilim gana, fando kənza, LDL cholesterol kura, karəgə kuttu, kəla ro zaktə,
+  kəla cidajinba, diabetes, sigaret yaskə, bu kəbu kura, kəla ngəwu kura, lele
+  kura yaskə, am-a kəltəmba, karəgə samno dinawa-a kuru shim kənza dəgaltəro
+  koltəmbawo. Samma ro duniabe lan tajirwa dəye kashi 45 ro kəlzəna, amma kam
+  falro tabbata bawo.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Factor 14 adəye kərmai sammaa gotəna: fal kərmai badiyarambe lan, mewu kərmai dawube lan, kuru yaskə kərmai ngəlaibe lan."
+  - "Kərmai dawube lan fando kənza-a LDL cholesterol kura-a, ndusoye duniabe lan dementia tajirwa dəye kashi 7-a kəlzəna, adəye factor fallaye kura wo."
+  - "Kashi adəye jamaabe ro lissafa, kuru dalil-a nəmkəlzəna ro gotəna. Kəlzəna laa nduliso dalil gənatə mbeji."
+  - "Sa-a jinsin-a, kam faltəro walzənyi, suro dementia risk factors kura so. Risk 14 adə fulutə kam falro dementia kənzəmbawo ro tabbata cinba."
+  - "Awo laa cidajin, misallo bu kəbu, fando-a shim-a kulashi, lafiya gade lan faidaa, kuru lobu-a ro manazə shima ngəla."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Dementia risk factors 14 faltəro walzəna suwa?"
+    a: "2024 Lanet Commission ye bayyənadə: ilim gana, fando kənza, LDL cholesterol kura, karəgə kuttu, kəla ro zaktə, kəla cidajinba, diabetes, sigaret yaskə, bu kəbu kura, kəla ngəwu kura, lele kura yaskə, am-a kəltəmba, karəgə samno dinawa-a kuru shim kənza dəgaltəro koltəmbawo. Samma ro duniabe lan dementia tajirwa dəye rabin ro kərən."
+  - q: "Dementia risk factor fin ma faida kura wo?"
+    a: "Duniya jamaabe ro, Commission ye lissafadəna fando kənza-a LDL cholesterol kura-a kərmai dawube lan, ndusoye kashi 7-a kəlzəna, ngawo ilim gana-a am-a kəltəmba-a kashi 5-a kəlzəna. Kam falro fin ma faida kura wo lafiya nzə-a ro dagai, adə nankaro lobu ma shawari ngəla wo."
+  - q: "2024 lan risk factor bǝlin yirai wa?"
+    a: "Aa. 2024 ripot dəye LDL (diwi) cholesterol kura kərmai dawube lan-a shim kənza dəgaltəro koltəmbawo kərmai ngəlaibe lan-a, factor 12 2020 lan bayyənadəna ro kəlzəna. Commission ye suro tajirwa dəye kashi 7-a 2-a ro kəlzəna."
+  - q: "Sa dementia risk factor faltəro walzəna wa?"
+    a: "A'a. Sa Alzheimer’s disease ye risk factor kura soye nozana, kuru faltəro walzənyi. Jinsin ye kuru cidaa. Factor 14 shafi adəbe lan, kəlio ye bayyənadə faltəro walzəna mbeji."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,115 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Risk factor shi awo laa kərmai dondi-a kəlzəna ro bayyənajin. Adəye dalil kəla kənta nəmnyi, kuru shi mbeji ye kam falro dementia kənzəyi ro mananyi. Shafi adəye dementia risk factors 14, 2024 Lanet Commission ye faltəro walzəna ro bayyənadəna, kəlio ye su-a kəlzəna, kuru awo lobu-a ro manazəna bayyənzəyi.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Awo kura wo kəra ro, kuru jarrabawa kura soye awo fandənadə ro, na adə lan badine:
+[Dementia daftəro kolzəna mbeji wa? Awo kəlio ye bayyənadə](/brain-health/can-dementia-be-prevented/).
+Adə bayana amma, shawari lobube gəni; [bayana lobube nəmkoltəmbawo ye də](/medical-disclaimer/) ruye.
 
-## What are the 14 risk factors for dementia?
+## Dementia risk factors 14 suwa?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 Lanet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
+dementia kəlio ma 27 ye ruwozana, lissafadəna risk factors 14 faltəro
+walzəna sammaa duniabe lan dementia tajirwa dəye kashi 45 ro kəlzəna. Kashi
+factor kəla kəntabe adə, Commission ye tajirwa duniabe lan su-a kəlzəna ro
+lissafadəna, adadu samma ro kərtəna. Lissafiwa adəye kəla kəla ro kəlzəna,
+dalil am laa risk kadə mbeji, adə nankaro suro 45 ro kəlzəna, kura gəni.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Risk factor | Kərmai loktu | Tajirwa dəye kashi | Awo kəlio ye kəlzəna | Awo dim na |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Ilim gana | Kərmai badiyarambe | 5% | Maktabə sa gana kərmai kəla-a kəlzəna. Kərmai dawube lan hangal cidajin faidaa, ilim gana mbejiro. | Kərmai kənta yaye karənu, awo hangal cidajin de: karatu, awo kəskə, daras, am-a bǝri cidajin. |
+| Fando kənza | Kərmai dawube | 7% | Fando kənza dəgaltəro koltəmbawo risk kura-a kəlzəna. Am loktu kuroro kəriwu kəlio ye fando banajin faidajin-a kəlzəna. | Fando nəm kulassə. Fando banajin faidajin wa ro lobu-a ro korə. Fasartəna maa diye. Fando nəm karəgə ngəwu lan kəlne. |
+| LDL cholesterol kura | Kərmai dawube (sa 40 ro) | 7% | LDL ("diwi") cholesterol kura kərmai dawube lan risk kura-a kəlzəna. Kəlio laa ye statin faidajin risk gana-a kəlzəna, amma kərmai ngəlaibe lan jarrabawa adə fəlezənyi. | Lobu nəm-a ro manane cholesterol nəm kulatəro kuru awo dim na ro. |
+| Karəgə kuttu | Kərmai dawube | 3% | Karəgə kuttu risk kura-a kəlzəna. Kərmai ngəlaibe lan, karəgə kuttu dementia badiyarambe alama mbeji. | Karəgə kuttu au awo ra'amma faltə minggu indi lan kozəna lobu-a ro gule. Karəgə kuttu dəgaltəna mbeji. |
+| Kəla ro zaktə | Kərmai dawube | 3% | Kəla ro zaktə kərmai kənta yaye au dalil kənta yaye lan risk kura-a kəlzəna, bǝri kəla ro cidajin-a kəlzəna. | Keke cidajin lan au bǝri kəla ro cidajin lan helmet diye. Kəla tultə koltəro korə. Kəla ro zaktə ngawo tusu, kuru kulassə. |
+| Kəla cidajinba | Kərmai dawube | 2% | Kəla cidajin-a bǝri cidajin-a am dəga dementia ye kənzənyi ro. Jarrabawa dalil kura-a gade bawo. | Nyiye kəla cidajin fin ma amin wo kuru raamma ro lobu-a ro korə. [Kəla cidajin bayana ye də](/brain-health/exercise/) ruye. |
+| Diabetes | Kərmai dawube | 2% | Diabetes, musamman kərmai dawube lan badinəna maa au kuroro dagana maa, risk kura-a kəlzəna. | Buye shəkər nəm kulassə. Diabetes nəmbe mbejiya, lafiya jamaye nəm-a ro kəlne dega təmoworo. |
+| Sigaret yaskə | Kərmai dawube | 2% | Sigaret yaskə risk kura-a kəlzəna. Kəlio ye am sigaret kolzəna risk kura adəga mbejiro bayyənzəyi. | Koltəro banajin ro korə. Kərmai kənta yaye koltə faidaa. |
+| Bu kəbu kura | Kərmai dawube | 2% | Bu kəbu kura kərmai dawube lan risk kura-a kəlzəna. Bu kəbu kurwu jarrabawa ye dementia au hangal kənzamba gana ro bayyənzəyi. | Lissafi nəmbe no. Commission ye sa 40 ro badinəna bu kəbu sammaa 130 au cidiyin ro shawarzəna; nəmro fin ma dagai ro korə. |
+| Kəla ngəwu kura | Kərmai dawube | 1% | Kəla ngəwu kura kərmai dawube lan risk kura-a kəlzəna, kuru diabetes risk də-a yirajin. | Kəla ngəwu nəmbe ngəla ro lobu nəm-a ro manane. Am ngəlaibe so, lobube shawari bawo lan, kəla ngəwu fulutəro kəmbo diyi. |
+| Lele kura yaskə | Kərmai dawube | 1% | Lele kura yaskə risk kura-a kəlzəna. Lele kura yaskə lan fulutə risk gana-a kəlzəna. | Nəmro lele yaskə adadu amin ro korə, musamman kurwu nəm-a ro. |
+| Am-a kəltəmba | Kərmai ngəlaibe | 5% | Am-a kəltəmba ngəwu bawo risk kura-a kəlzəna. | Am-a kəltəm ro kəskə nəmra'amma lan dagai. [Am-a kəltəm bayana ye də](/brain-health/social-connection/) ruye. |
+| Karəgə samno dinawa | Kərmai ngəlaibe | 3% | Karəgə samno dinawa mbeji na lan kərmai risk kura-a kəlzəna. Kəlio ye karəgə ngəla risk gana-a kəlzəna. | Adə kura wo sorkaribe cidawa. Na nəmbe karəgə samno bayana ruye, kuru kawu dinawa kura lan dəgan kəsəm lan tuluro de. |
+| Shim kənza dəgaltəro koltəmbawo | Kərmai ngəlaibe | 2% | Shim kənza dəgaltəro koltəmbawo risk kura-a kəlzəna. Amirka lan kəlio kura fal ye cataract tiyata dementia risk gana-a kəlzəna. | Shim nəm loktu kənta yaye kulassə. Cataract alama kənzamba dəgaltəna mbeji wa ro korə. |
 
-## How should I read these percentages?
+## Kashi adəye futu galejin?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Hangal-a ro. Commission ye ripot nzə lan awo laa hangalro gotəna bayyənadəna:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Suro jamaabe ro bayyənzəyi, kam falro gəni.** University College London ye
+  [ripot adəye bayana gədə](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  lan gulzəna risk fulutə jamaabe ro faidajin, amma kam falro dementia
+  kənzəmbawo ro tabbata cinba.
+- **Dalil-a nəmkəlzəna ro gotəna.** Ruwo ma so dalil ngəla mbeji factorwa so
+  mane gotəna, amma kəlzəna laa nduliso dalil gənatə mbeji ro gulzəna.
+- **Adəye duniabe lissafiwa.** Bayana kura so lardəwa arzənyi lan isəna, adə
+  nankaro kashi jili lardə au jamaabe kənta yaye lan gadegade mbeji.
+- **Kashi gana so faidaa.** Factor fal duniabe lan kashi 2-a kəlzəna, am ngəwu
+  ma so ro cida.
 
-## Which risk factors were added in 2024?
+## 2024 lan risk factors fin ma yirzəna?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 ripot dəye factor indi 2020 lan bayyənadəna 12 ro kəlzəna:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **LDL cholesterol kura kərmai dawube lan**, kashi 7 ro kəlzəna.
+- **Shim kənza dəgaltəro koltəmbawo kərmai ngəlaibe lan**, kashi 2 ro kəlzəna.
 
-## What risk factors cannot be changed?
+## Risk factors fin ma faltəro walzənyi?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+National Institute on Aging ye
+[sa Alzheimer’s ye risk factor kura so](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)
+ro gulzəna, kuru kam fal ye shi-a faltəro walzənyi. Jinsin ye kuru cidaa; jinsin
+fal Alzheimer’s risk ro cida, APOE ro nozəna. NIA ye kuru gulzəna kəlio ma so
+am ngəwu lan Alzheimer’s dalil nzə samma nozanadənyi. Lanet Commission ye
+gулzəna riskwa faltəro walzəna adə, kam nduliso jinsin risk nzə mbejiya, fulutəna
+mbeji.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Sa-a jinsin-a faida kura so nankaro, am laa risk 14 adəbe falma mbejimba
+dementia kənzəyi. Adə kam ndube ayib nzə gəni.
 
-## What does the trial evidence say about changing these risks?
+## Riskwa adə faltə cidajin dalil jarrabawa ye fin gulzəna?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Risk factor fal dementia-a kəlzəna ro asutə-a shi-a faltə dementia risk
+fulutəna ro tabbata cin-a kəlanzan gadegade. Misal laa, jarrabawa dalil ye futu
+dagana:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Bu kəbu.** SPRINT MIND jarrabawa lan, bu kəbu cidiyin maslana hangal
+  kənzamba gana ngəla fulutəna. Dementia gənatə ngəla fulutənyi, amma jarrabawa
+  də gana mbeji nankaro adə fəlejinba
+  ([SPRINT MIND JAMA lan](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Fando banajin.** Lanet Commission ye sa yaskə fando banajin jarrabawa fal
+  hangal kəla lan faida samma fəlezənyi ro bayyənadəna, amma am risk kura mbeji
+  na fal lan faida fəlezəna. Loktu kuroro am kəriwu kəlio ye fando banajin
+  faidajin risk gana-a kəlzəna. [Fando bayana ye də](/brain-health/hearing/) lan
+  bayana kuru mbeji.
+- **Kəla cidajin.** National Institute on Aging ye gulzəna kəla cidajin ye hangal
+  kənzamba gana au Alzheimer’s daftəjin au fulutəjin ro tabbata ro jarrabawa
+  dalil ishinba, amma kəlio laa ye sa-a kəlzəna kənzamba lan faidaa ro
+  bayyənzəyi
+  ([NIA Alzheimer’s daftəro](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Jarrabawa kura so dementia ishiro tomajin kuruwu-a arzənyi-a, adə nankaro
+factor laa lan dalil ngəla so am sa so ro kəriwu kəlio lan isəyi. Dalil adə
+faidaa, amma jarrabawa lan gana.
 
-## What about sleep and diet?
+## Kənəm-a kəmbo-a ye nda?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Commission ye kənəm-a kəmbo-a kulassəna, amma dalil duno-a tərtə-a gəni nankaro
+suro listə ro kəlzənyi. [Kənəm bayana ye də](/brain-health/sleep/) kuru [kəmbo
+bayana ye də](/brain-health/diet/) awo nozəna bayyənzəyi.
 
-## Talk with a doctor
+## Lobu-a ro manane
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Sa ro lafiya kulashi loktu ngəla wo awo adə-a manazəro. Listə adə gotə kuru
+koro:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Bu kəbu, buye shəkər-a cholesterol lissafiwa nza fin, kuru fal-a hangal
+  maji wa?
+- Fando-a shim-a nza kulatəro wa?
+- Kəla cidajin dikki amin kuru ishin wa?
+- Kurwu nza laa hangal au takardu ro cida mbeji wa?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Kurwu, kəmbo, azumi, kəla cidajin au kəla ngəla nəm gade faltəro kawu, burwon
+lobu-a ro manane. Nyi au kam grəmma dəye hangal kəltə, kəla bǝrəm fal ye
+duno faltə, au manazə battiya, sadin lamba gənatəbe ro (112) kəlgəne.

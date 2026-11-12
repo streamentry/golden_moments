@@ -1,32 +1,34 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Пызан сайын деменция: заняттячӧй оланін да пызан вылын"
+seoTitle: "Пызан сайын деменция: заняттячӧй оланін да пызан вылын"
+description: "Небыд заняттячӧй пызан сайын деменция дырйи, оланінын либӧ пызан вылын олысьлы: музыка, вӧрзьӧдӧм, лыддьӧм, шыяс да ӧтлаын лоӧм, безопасность тӧдмӧдӧмӧн."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Пызан сайын деменция дырйи заняттячӧй подулавны сенсорнӧй гӧгӧрвоӧм вылӧ да
+  тіян ӧтлаын лоӧм вылӧ: радейтана музыка кывзӧм, ки кутӧм, небзьӧдӧмӧн ки
+  вӧрзьӧдӧм, гораа лыддьӧм, серпасъяс видлӧм, природа шыяс да ӧшинь дорын
+  либӧ ортсыын пукалӧм. Тайӧ ставыс позьӧ вӧчны оланінын либӧ пызан вылын.
+  Вӧдитӧй заняттячӧй дженьыдикӧн, видзӧдлӧй чужӧм да киӧдз шоныдлун вылӧ
+  да помалӧй быд ляксытӧм знак казялін. Тӧдмавӧй: тіян дорын лоӧм ачыс вӧвны
+  заняттячӧй.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Йитчӧм сідз жӧ позьӧ. Пызан сайын стадияын морт гӧгӧрвоӧ медшӧрӧ сенсорнӧй гӧгӧрвоӧм пыр."
+  - "Музыка, небзьӧдӧм вӧрзьӧдӧм, тӧдана шыяс да небзьӧдӧм кутанторъяс шӧркад воӧны сы дырйи, кор кывъяс нин оз вӧдитчыны."
+  - "Тані ставыс гӧгӧрво некымын идея позьӧ вӧчны морткӧд, коді оланінын либӧ пызан вылын."
+  - "Видзӧдлӧй чужӧм, ки да ловзьӧм серти, кыдзи мортлы шоныд, да дугдӧй быд ляксытӧм знак казялін."
+  - "Эн сетӧй посни торъяс да сёян-юан сетӧй сӧмын сы серти, кыдзи видзӧдысь команда висьталӧ, сы вӧсна мый ньылӧм вермас лоны ляк."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Мый позьӧ вӧчны пызан сайын деменцияӧн олысь морткӧд, коді пызан вылын?"
+    a: "Кывзӧдлӧй сылы радейтана музыка, кутӧй сылысь кисӧ, небзьӧдӧмӧн вӧрзьӧдлӧй ки лосьӧн, лыддьӧй гораа сылы радейтана книгаысь либӧ молитваысь, петкӧдлӧй серпасъяс либӧ кывзӧдлӧй небзьӧдӧм природа шыяс. Восьтӧй ӧшиньтасъяс, медым сійӧ вермис аддзыны ортсысӧ. Медшӧр бурджыка уджалӧны дженьыдик да лӧнь кадколастъяс, кор ӧтпырйӧ вӧчсьӧ ӧтик тор."
+  - q: "Вермасны-ӧ пызан сайын деменцияӧн олысь йӧз водзӧ на нимкодьны музыкаысь?"
+    a: "Унаӧн вермасны. Alzheimer's Association висьталӧ, мый пызан сайын стадияын морт вермас на вӧчны ритм вылӧ либӧ сьылӧны ичӧт кадсянь тӧдана сьыланкыв. Бӧрйӧй музыка, коді сійӧ радейтіс том дырйи, да кывзӧдлӧй небзьӧдӧмӧн."
+  - q: "Кыдзи тӧдмавны, нимкодьӧ-ӧ сійӧ заняттячӧйысь?"
+    a: "Видзӧдлӧй ичӧтик знакъяс вылӧ: лӧнь пельпом, небзьӧдӧм чужӧм, синмӧн видзӧдӧм, мурталӧм, ки топӧдӧм либӧ лӧньджыка ловзьӧм. Кымӧрччӧм, бокӧ вешйӧм, гудрасьӧм либӧ ропкӧм вермасны петкӧдлыны ляксытӧм либӧ дой. Тайӧ казялін дугдӧй да, кӧ най оз вунӧдчыны, висьталӧй видзӧдысь командаыдлы."
+  - q: "Колӧ-ӧ ветлыны, кӧ сійӧ нин оз тӧдӧ менӧ?"
+    a: "Да. National Institute on Aging висьталӧ, мый дзик дорын лоӧм вермас сетны лӧньлун, а вӧрзьӧдӧм, музыка да висьтъяс сідз жӧ вермасны сетны шоныдлун водзӧ деменция дырйи. Тіян шы да вӧрзьӧдӧм вермасны лоны тӧданаӧсь, кор ним оз тӧдны."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +50,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Пызан сайын деменция дырйи морт вермас сёрнитны вывті этша, сійӧлы колӧ отсӧг быд лунъя удж дырйи, и сійӧ вермас овны кад унджык пызан вылын либӧ оланінын. Вермас лоны, мый ӧтлаын вӧчантор нин абу. Но сійӧ эм. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) висьталӧ, мый мортлысь аслыспӧлӧслун торйӧд юкӧн вермас кольны, и тайӧ стадияын морт медшӧрӧ гӧгӧрвоӧ мирсӧ сенсорнӧй гӧгӧрвоӧм пыр. Музыка, вӧрзьӧдӧм, тӧдана шы да тіян лӧнь ӧтлаын лоӧм водзӧ на вермасны вайӧдны шоныдлун да йитчӧм кадколастъяс.
 
-## What activities help in late-stage dementia?
+## Кутшӧм заняттячӧй отсалӧны пызан сайын деменция дырйи?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Пызан сайын стадияын медбура отсалӧны простӧй сенсорнӧй заняттячӧй да лӧнь ӧтлаын лоӧм. Alzheimer's Association вӧзйӧ кывзӧдлыны радейтана музыка, лыддьӧдлыны торъя юкӧнъяс сылы важнӧй книгаысь, небзьӧдӧмӧн мавтлыны кулӧмӧн лыа кучикӧ радейтана дукӧн, да бур лунӧ ӧтлаын пукавны ортсыын. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) содтӧ: висьтавны висьтъяс, петкӧдлыны серпасъяс, небзьӧдӧм вӧрзьӧдӧм либӧ массаж, музыка, еджыд шы либӧ природа шыяс, и шуӧ, мый тіян дзик дорын лоӧм ачыс вермас сетны лӧньлун.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) висьталӧ, мый пызан сайын стадияын йӧзлы шӧркад ёна колӧ кутны мыйкӧ матӧ шоныдлун понда, и вӧзйӧ простӧй сенсорнӧй заняттячӧй, небзьӧдӧм растяжкаяс, платокӧн вӧчӧм, музыка, пемӧсъясӧн паныд тӧдмалӧм, морт вӧрзьӧдӧм да сӧмын ас кӧсйӧм серти серпасалӧм.
 
-## Activities for someone in bed or a chair
+## Заняттячӧй оланінын либӧ пызан вылын олысьлы
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Кывзӧдлӧй сылы музыка.** Бӧрйӧй сьыланкывъяс сылы том кадсянь, енлунсянь либӧ семьясянь. Кывзӧдлӧй небзьӧдӧмӧн да пуксьӧй матӧ. Ӧні кежлӧ мукӧд йӧз чунь вӧчӧны либӧ мурталӧны. Видзӧд [музыкаӧн заняттячӧй](/activities/music/).
+2. **Кутӧй киысь.** Дзик ки кутӧм, пель кынӧмӧн небзьӧдӧмӧн вӧрзьӧдӧмӧн, — тайӧ тожӧ заняттячӧй. Висьталӧй водзын, мый ті вӧчанныд.
+3. **Небзьӧдӧмӧн вӧрзьӧдлӧй ки.** Шонтыштӧй неуна лосьӧн ас киын да вӧрзьӧдлӧй кизьысь чуньӧдз. Бӧрйӧй дуктӧм лосьӧн, либӧ сыбӧр дук, кодӧс сійӧ пыр радейтіс, кӧ кучикыс буретшӧ.
+4. **Лыддьӧй гораа.** Радейтана кывбур, юкӧн радейтана книгаысь, молитва либӧ спорт юӧр. Тіян шыӧн ритмыс важнӧйджык кывъяс дорысь.
+5. **Висьталӧй висьт.** Висьталӧй семьяӧн ветлӧм йылысь либӧ гӧтрасьӧм лун йылысь. Вочавидз оз ков.
+6. **Петкӧдлӧй серпасъяс.** Кутӧй ӧти ыджыд серпас син водзын да висьталӧй сы йылысь шоныдӧн. Эн юалӧй, коді сійӧ вылын.
+7. **Сетӧй мыйкӧ небзьӧдӧм кутны.** Кык пӧв печкӧдӧм дӧра, флис юкӧн либӧ небзьӧдӧм чача. NIA вӧзйӧ сетны мортыдлы дӧра кутны вештӧм дырйи, медым сійӧ эз кутчысь тіянлысь либӧ мебельысь.
+8. **Кывзӧдлӧй природа шыяс.** Зэр, саридз шы либӧ кай шы этшаджык вылын вермасны лӧньӧдны гудранінсӧ.
+9. **Вайӧй ортсысӧ жыр вылӧ.** Восьтӧй ӧшиньтасъяс, пуктӧй лэбач сёянін ӧшинь дорӧ либӧ вайӧй неуна выль дзоридзъяс либӧ коръяс видзӧдны да вӧрзьӧдлыны.
+10. **Петӧй ортсыӧ.** Кӧ морт вермӧ пукалыны инвалид креслӧын, неуна минут шондітӧг шоныд лунӧ вермас лоны мича.
+11. **Сьыштӧй сійӧс либӧ вӧзйӧй шоныд дӧра.** Небзьӧдӧмӧн да видзчысьӧмӧн бурмӧдӧм да шоныд дӧраӧн ки-чужӧм мыськӧм вермасны сетны шоныд кӧсйӧм.
+12. **Небзьӧдӧмӧн вӧрзьӧдчӧй музыкаӧн.** Веськӧдлӧй сьӧкыдтӧм платок ӧтлаын либӧ вӧрзьӧдлӧй ки сьыланкыв ритм серти. Растяжкаяс да вӧрзьӧдӧм понда корсьӧй водзын физиотерапевтысь либӧ медсестраысь, медым висьтавлісны лякпырысь ногъяс.
+13. **Вӧчӧй сӧмын ас кӧсйӧм серти серпас.** Мавтӧй яда-тшӧктӧм краска ыджыд лист вылӧ губкаӧн либӧ киӧн, тіян ки веськӧдлӧмӧн. Правильнӧй результат абу колана.
+14. **Дугдӧй пемӧсъяслы vetлыны.** Лӧнь пемӧс пызан вылын либӧ шензьӧмын, кӧ мортӧс радейтіс пемӧсъяс да инъяс сетӧны тайӧс.
+15. **Ловзьӧй небзьӧдӧмӧн ӧтлаын.** Пуксьӧй матӧ да ловзьӧй небзьӧдӧмӧн, кывзанаӧн. [Лӧнь ловзьӧдӧм](/games/calm-breathing/) вермӧ отсавны тіянлы ӧтувтӧ, а ті ачынныд заводитанныд да дугданныд.
+16. **Дзик лой матын.** Пуксьӧй матын, мурталӧй, вяжӧй либӧ лыддьӧй лӧньӧн. Дорын лоӧмыс тырмымӧн.
 
-## How to share an activity at this stage
+## Кыдзи ӧтувъя заняттячӧйӧн тайӧ стадияын
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Матыстчӧй водзсяньыс.** Шуӧй сылы нимсӧ да ассьыныд нимсӧ, сёрнитӧй небзьӧдӧмӧн да лӧньӧн, водзын сы кыдзи вӧрзьӧданныд.
+- **Вӧзйӧй ӧтпырйӧ ӧти тор.** Кусӧдӧй телевизор, водзын сы кыдзи кывзӧданныд музыка. Вӧчӧй ӧтпырйӧ ӧти сенсорнӧй гӧгӧрвоӧм.
+- **Вӧдитӧй заняттячӧй дженьыдикӧн.** Вермас тырмыны неуна минут. Лунтырйи уна дженьыдик кадколаст бурджык ӧти кузь кадколас дорысь.
+- **Медводз лӧсьӧдӧй шоныд да лӧньӧн.** Видзӧдлӧй, мый морт шоныда да буретша пука. NIA вӧзйӧ син водз дӧсма, медым кипомъяс пукисны да вердчыныс вӧлі буретша пукан дырйи.
+- **Видзӧдлӧй вочавидз вылӧ.** Лӧнь ки, небзьӧдӧм чужӧм, синмӧн видзӧдӧм либӧ мурталӧм петкӧдлӧны шоныдлун. NIA висьталӧ, мый ропкӧм, кымӧрччӧм, лыбӧ юкӧн дорйӧм либӧ знӧя гудрасьӧм вермасны лоны дой знакъяс. Дугдӧй да висьталӧй видзӧдысь командаыдлы.
 
-## A quick guide by sense
+## Дженьыд тӧдмӧдӧм сенсорнӧй гӧгӧрвоӧм серти
 
-| Sense | Ideas | Take care |
+| Сенсорнӧй гӧгӧрвоӧм | Идеяяс | Видзӧдлӧй |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Кывзӧм | Радейтана музыка, тіян лыддьӧм шы, природа шыяс | Видзӧй шыыс этшаджык вылын; ӧтпырйӧ ӧти шы |
+| Вӧрзьӧдӧм | Ки вӧрзьӧдӧм, ки кутӧм, небзьӧдӧм дӧра, шоныд печкӧдӧм | Юалӧй либӧ висьталӧй водзын; видзӧд, медым кучикыс эз вӧв дойӧн либӧ торксьӧм |
+| Аддзӧм | Серпасъяс, дзоридзъяс, ӧшинь пыр аддзантор, небзьӧдӧм природа видео | Кутӧй торъяс син водзын; бур югӧр, яръюгӧртӧг |
+| Дукӧм | Радейтана лосьӧн, выль дзоридзъяс, матын пуан кофей дук | Эн вӧдитӧй ён дукъяс; видзӧд аллерги да ловзьӧм вылӧ |
+| Гӧгӧрвоӧм руа | Ичӧтик юкӧн радейтана руа | Сӧмын сы сёян да сідз текстура, кодъяс видзӧдысь команда шуӧны лякпырысьӧн |
 
-## Safety at this stage
+## Безопасность тайӧ стадияын
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Пызан сайын стадияын ньылӧмыс вермӧ сьӧкыдджык лоны, и NIA предупреждайтӧ, мый тайӧ содтӧ подавитчӧм риск. Эн кольӧй посни торъяс матын, и сетӧй сёян-юан сӧмын сы текстураясӧн да сы позисияясын, кыдзи видзӧдысь команда вӧзйӧ. Видзӧдлӧй кучиксӧ небзьӧдӧмӧн вӧрзьӧдӧм дырйи, сы вӧсна мый кучикыс вермӧ здук лоны торксьыны либӧ петны ляз. Лякпырысь сенсорнӧй идеяяс йылысь унджык позьӧ лыддьыны [сенсорнӧй заняттячӧй](/activities/sensory/) лист бокын.
 
-## Looking after yourself too
+## Ачымӧс тожӧ видзӧй
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Пызан сайын стадияын видзӧдӧмыс — тайӧ сьӧкыд удж синмӧн да куйӧдӧн, кӧть гортын, кӧть vetлӧм дырйи видзанінын. Хоспис да паллиативнӧй отсӧг командаяс вермасны отсавны шоныдлунӧн, дорйӧмӧн да планируйтӧмӧн, и NIA лыддьӧ найӧс отсӧг источникъяс пӧвстын. Дженьыдик да лӧнь vetлӧмъяс пӧльзаӧсь; видзӧд [ветлӧм деменцияӧн олысь морт дорӧ](/activities/visiting/). Кӧ ті веськӧдланныд группаӧн заняттячӧй, [заняттячӧй группаӧн видзанінъясын](/activities/care-home-groups/) лист бокын эм идеяяс, кыдзи лӧсьӧдны заняттячӧй. И корам, лыддьӧй [видзӧдысьлы ачсӧ видзӧм](/caregiving/caregiver-self-care/) йылысь: шойччӧмыс — бур видзӧм тор.

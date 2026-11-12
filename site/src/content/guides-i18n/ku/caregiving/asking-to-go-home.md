@@ -1,36 +1,36 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Gava Kesek bi Demansê Dixwaze Vegere Malê"
+seoTitle: "Demans û Daxwaza Vegerîna Malê: Çi Bêjin"
+description: "Çima kesek bi demansê dixwaze vegere malê tevî ku li malê be, çi bêjin, çalakiyên aramker, û çawa ew ewle bihêlin heke bixwaze derkeve."
 section: caregiving
 order: 8
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Gava kesek bi demansê dîsa û dîsa dixwaze vegere malê, "mal" pir caran wateya
+  hesteke ewlehiyê an cihê ji berê ye, ne avahiyekê. Nîqaş nekin ku ew li malê
+  ye. Hestê qebûl bikin, piştrast bikin ku ew ewle ye, li ser malê bipirsin, dû
+  re bi nermî derbasî wêne, muzîk, tiştekî xwarinê, meşekê an karekî hêsan bibin.
+  Birçîbûn, tîbûn, hewcedariya serşokê an êşê kontrol bikin. Heke ev yek ji
+  nişkê ve dest pê bike, gazî bijîjkê wî/wê bikin.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Ez dixwazim herim malê\" pir caran tê wateya \"Ez xwe ewle an aram hîs nakim,\" ne daxwazek ji bo navekî navnîşanê."
+  - "Nîqaş kirin an îsbat kirin ku ew li malê ye, pir caran xemgîniyê zêdetir dike. Li şûna wê, bersivê bidin hestê."
+  - "Ji wî/wê bixwazin ku li ser malê ji we re bêje, dû re wêne, muzîk, tiştekî xwarinê, meşekê an karekî hêsan pêşniyar bikin."
+  - "Tiştekî ku dikare were çareser kirin kontrol bikin: birçîbûn, tîbûn, hewcedariya serşokê, êş, germî an sarma zêde, deng, westandin."
+  - "Heke ev her dawiya nîvro dest pê dike, dibe ku sundowning be; bernameyeke aram û ronahiya baş dikare alîkariyê bike."
+  - "Heke bixwaze derkeve, ji bo ewlehiyê plansaz bikin, û di derbarê her guhertineke ji nişkê ve de gazî bijîjkê wî/wê bikin."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Çima diya min a bi demansê dîsa û dîsa dixwaze vegere malê tevî ku ew li malê ye?"
+    a: "Demans dikare bibe sedem ku odeyên nas xerîb xuya bikin, û carinan mirov hîs dikin ku ew di serdemeke berê ya jiyana xwe de ne. \"Mal\" dibe ku wateya mala zarokatiyê an bi tenê hesta ewle û rehetbûnê be. Bersivdana vê hestê pir caran ji nîşandana cihê ku ew lê ye çêtir dixebite."
+  - q: "Dema ku ew dixwaze vegere malê, divê ez çi bêjim?"
+    a: "Biceribînin \"Tu li vir ewle yî, û ez bi te re me,\" dû re \"Ji min re li ser mala xwe bêje.\" Guh bidin, wêneyek an stranek parve bikin, û vexwarinek an meşeke kurt pêşniyar bikin. Ji gotina \"Tu li malê yî\" wekî rastkirinekê dûr bisekinin, ji ber ku ev dikare bibe mîna ku ji wan re tê gotin ku ew şaş in."
+  - q: "Ma baş e ku em bêjin em ê paşê herin malê?"
+    a: "Malbat û rêxistinên demansê di vê mijarê de hemfikir nînin. Gelek kes pêşî bi aramiya rastgo û veguhertina baldariyê dest pê dikin, û tenê di demên ku rastî dê tenê xemgîniyekê çêbike ku kes nikare pê re mijûl bibe de, dereweke nerm bikar tînin. Hûn çi hilbijêrin jî, bi dilovanî û hevgirtî bin, û qet hesta rastiya wan tinaz nekin."
+  - q: "Heke ew bixwaze ji malê derkeve çi bikin?"
+    a: "Aram bimînin û li şûna ku rêya wî/wê bigirin, bi wî/wê re bimeşin; meşeke kurt pir caran vê daxwazê aram dike. Gavên ewlehiyê ji berê ve amade bikin, wek bendeka nasnameyê, zengilên derî û wêneyekî nû. Heke ew winda bibe, tavilê dest bi lêgerînê bikin, û heke di nav 15 deqîqeyan de wî/wê nedîtin, bangî 112 bikin û bêjin ku kes bi demansê dijî."
+  - q: "Kengî divê ez gazî bijîjkekî bikim?"
+    a: "Heke daxwazkirin an tevlihevî ji nişkê ve dest pê bike an di nav çend saetan an rojan de pir zêdetir bibe, bi taybetî bi tayê, dermanekî nû an nîşanên enfeksiyona mîzê re, tavilê gazî bijîjkê wî/wê bikin. Tevliheviya ji nişkê ve dikare delirium be, ku hewceyê lênêrîna lezgîn e. Heke kesek di xetereyê de be, bangî 112 bikin."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -67,87 +67,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+"Ez dixwazim herim malê." Ji bo gelek malbatan ev yek ji tiştên herî dijwar e ku meriv bibihîze, bi taybetî dema ku kesê ku hûn jê re lênêrînê dikin di odeya rûniştinê ya mala xwe de rûniştiye. Ev rewşeke hevpar e, dikare di her qonaxa demansê de çêbibe, û rêyên aram û pratîk hene ku meriv bersivê bide. Ev rûpel rave dike ku ev gotin pir caran çi tê wateya, çi bêjin, kîjan çalakî dikarin di wê gavê de alîkariyê bikin, û çawa ewle bimînin.
 
-## Why does someone with dementia keep asking to go home?
+## Çima kesek bi demansê dîsa û dîsa dixwaze vegere malê?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Bi gelemperî, "mal" ji cihê bêtir hestek e. Alzheimer's Society vê wekî hesta rehetiyê û ewlehiyê, an malek ji berê, şirove dike, ne mala ku niha tê de dijîn. Demans dikare bibe sedem ku odeyên nas xerîb xuya bikin, û kesek dikare hîs bike ku ew di serdemeke berê ya jiyana xwe de dijî, dema ku mal mala zarokatiyê bû an cihê ku wan zarokên xwe mezin kirin.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Ev gotin her weha dikare nîşan bide ku niha tiştekî din nebaş e: ew birçî ye, tî ye, hewceyî serşokê ye, êşê dikişîne, pir germ an pir sar e, westiyayî ye, tenê ye, ditirse, an ji dengê zêde aciz dibe. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) êş, deng, tenêtî, guhertinên di bernameyê de û dermanan di nav sedemên acizbûnê de destnîşan dike.
 
-## What should I say when they ask to go home?
+## Dema ku ew dixwaze vegere malê, divê ez çi bêjim?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Bersivê bidin hestê, ne gotinan. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) şîret dike ku hewl nedin kesê razî bikin ku ew şaş e: hestên wan rast in, ji ber vê yekê pêşî bi aramî û piştrastkirinê bersivê bidin, dû re bi nermî baldariyê veguhezînin.
 
-Phrases that often help:
+Gotinên ku pir caran alîkariyê dikin:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Hestê bi nav bikin.** "Wisa xuya dike ku tu bêriya malê dikî."
+- **Piştrast bikin.** "Tu li vir ewle yî, û ez bi te re me." [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) gotinên hêsan "Tu li vir ewle yî" pêşniyar dike.
+- **Bîranînan vexwînin.** "Ji min re li ser mala xwe bêje. Metbexa te çawa bû?" Pirskirina li ser paşerojeke dûr, pir caran ji pirsên li ser îro rehettir e.
+- **Tiştekî bi hev re pêşniyar bikin.** "Werin pêşî çayekê vexwin," an "Dixwazî alîkariya min bikî bi van destmalan re?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Dengekî germ û, heke ew jê hez dike, destdanîna li milê wî/wê, dikare ji gotinan bêtir bêje.
 
-## What should I avoid?
+## Divê ez ji çi dûr bisekinim?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Nîqaş an şîrovekirin.** "Tu niha li vir dijî" an "Ev 40 sal in mala te ye" ji wan dixwaze tiştekî qebûl bikin ku demans qebûlkirina wê dijwar dike, û ev dikare bibe mîna ku ji wan re tê gotin ku ew şaş in.
+- **Pirsên ceribandinê.** "Tu nayê bîra te?" an "Navnîşan çi ye?" zextê zêde dike.
+- **Bi hêrs girtina derî.** Heke ew ber bi derve ve diçe, aram bimînin û bi wî/wê re bimeşin. Meşeke kurt a bi hev re pir caran vê daxwazê aram dike.
+- **Lez kirin.** Berî ku hûn mijarê biguhezînin, demê bidin wî/wê ku li ser malê biaxive.
 
-## Activities that can help in the moment
+## Çalakiyên ku dikarin di wê gavê de alîkariyê bikin
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Piştî ku we hestê qebûl kir, çalakiyek aram û nas dikare baldariyê veguhezîne bêyî ku wê paşguh bike.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Li wêneyên mal û malbatê binêrin.** Rûpelan bizivirînin û şîrove bikin ("Li wî baxçê binêre") li şûna ku pirsan bikin. Li ser telefon an tabletekê, [Photo pairs](/games/photo-pairs/) wêneyên malbata we vediguhezîne lîstikeke lihevhatinê ya nerm, û wêne li ser cîhaza we dimînin.
+2. **Li ser malê biaxivin.** [Conversation cards](/games/conversation-cards/) pirsên vekirî li ser mal, metbex, cîran û cejnan pêşkêş dikin, bêyî bersivên rast an şaş.
+3. **Muzîka ku ew jê hez dike lêxin.** National Institute on Aging muzîka aramker di nav awayên aramkirina acizbûnê de destnîşan dike. [Çalakiyên me yên muzîkê](/activities/music/) bibînin.
+4. **Tiştekî xwarinê an vexwarinê bidin.** Birçîbûn û tîbûn dikarin wekî bêaramî xuya bikin. Fîncanek çay an tiştekî xwarinê yê delal di heman demê de rêûresmeke biçûk a hesta li malêbûnê ye.
+5. **Bimeşin an li derve rûnin.** Tevger û ronahiya rojê alîkariyê dikin, bi taybetî di destpêka rojê de.
+6. **Karekî nas bidin.** Qatkirina cilan, rêzkirina kevçî û çetalan an avdana kulîlkan dikare hesta xwedîkirina malekê vegerîne.
+7. **Her tiştî hêdî bikin.** Televîzyonê vemirînin, deng û ronahiya tûj kêm bikin, û rawestaneke [nefesa aram](/games/calm-breathing/) ya bi hev re biceribînin.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Heke ramanek encam nede, paşê yeke din biceribînin. Rûniştina bêdeng a bi hev re jî encameke baş e.
 
-## Check for a cause you can fix
+## Sedemek ku hûn dikarin çareser bikin kontrol bikin
 
-| Check | What to try |
+| Kontrol bikin | Çi biceribînin |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Birçî an tî ye | Vexwarinek û xwarinekî biçûk pêşkêş bikin |
+| Hewceyî serşokê ye | Bi aramî û bêyî acizkirinê serdana serşokê pêşniyar bikin |
+| Êş an nerehetî | Li nîşanên wekî rûçikandin, girtina perçeyek ji laş an qebiziyê bigerin, û ji bijîjkê wî/wê re bêjin |
+| Pir germ an pir sar e | Qatek cilê an germahiya odeyê rast bikin |
+| Deng an qelebalixî | Herin odeyek bêdengtir, televîzyonê vemirînin |
+| Westiyayî an zêde teşwîqkirî ye | Bihêlin bêhna xwe vedin, odeyê tarî bikin, muzîka nerm lêxin |
+| Dawiya nîvro | Beşa sundowning li jêr bibînin |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alzheimer's Society pêşniyar dike ku tomarek kurt bihêlin ka daxwazkirin kengî çêdibe, wekî berî xwarinê, piştî mêvanan, an dema tarîbûnê. Nimûne alîkariya plansazkirina pêşwext dikin.
 
-## Is it okay to tell a white lie?
+## Ma baş e ku meriv dereweke spî bêje?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Ev mijarek rastî nîqaş e, û malbatên dilovan dikarin bigihin encamên cuda. Alzheimer's Society dibêje ku bersivek yekane ya rast tune ye: derew dikarin hin kesan gumanbartir bikin, ji ber vê yekê li gorî berjewendiya kesê biryar bidin û hevgirtî bin. Li Penn Memory Center, nêrîna hevserok ev e ku rastî vebijarka sereke ye û dereweke nerm tenê wê demê tê qebûl kirin ku kes nikare rastiyeke taybetî fêm bike, û ku hûn qet divê rastiya wan tinaz nekin.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Gelek lênêrîner dibînin ku rêyeke navîn dixebite: pêşî aramiya rastgo û veguhertina baldariyê ("Em ê îşev li vir bimînin, û ez li vir bi te re me"), bêyî ku li ser cihê malê nîqaş bikin.
 
-## What if it happens every afternoon or evening?
+## Heke ev her piştî nîvro an êvarê çêbibe çi?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Bêaramiya ku di dawiya nîvro de dest pê dike an xirabtir dibe, pir caran sundowning tê gotin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) bernameyeke aram, ronahiya rojê û çalakiya rojane, kêmtir xewna piştî nîvro, û dûrketina ji kafeîn an alkolê di dawiya rojê de pêşniyar dike. Vekirina çirayan berî tarîbûnê jî dikare alîkariyê bike. Rêbera me ya [çalakiyên aram ên dawiya nîvro](/caregiving/late-day-restlessness/) bêtir agahî dide.
 
-## Keeping them safe if they try to leave
+## Ewlehiya wî/wê heke bixwaze derkeve
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Daxwaza vegerîna malê dikare bibe sedema gerînê (wandering). [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) texmîn dike ku şeş ji deh kesên ku bi demansê dijîn dê herî kêm carekê bigerin.
 
-**Prepare ahead:**
+**Ji berê ve amade bikin:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Bendekek nasnameyê an bijîjkî bi navê wî/wê û hejmara telefona we, û etîketên di cilên wî/wê de. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) programa MedicAlert û Alzheimer's Association Safe and Found destnîşan dike, ku dibe ku heqê wê hebe.
+- Zengilek an alarmeke derî, û kilîtên ku li jor an jêr hatine danîn. Qet kesê tenê li hundir kilît nekin.
+- Wêneyekî nêzîk ê nû, û lîsteyek ji cihên ku ew dikare herê, wekî mala berê an cihê karê berê.
+- Ji cîranên pêbawer re bêjin, û hejmara xwe bidin wan.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Heke ew winda bibe:** tavilê dest bi lêgerînê bikin; Alzheimer's Association destnîşan dike ku gelek kes di nav 1.5 mîlan de têne dîtin. Heke di nav 15 deqîqeyan de wî/wê nedîtin, bangî 112 bikin û bêjin ku kes bi demansê dijî. Heke kesek di xetereyê de be, tavilê bangî 112 bikin.
 
-## When should I call a doctor?
+## Kengî divê ez gazî bijîjkekî bikim?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Heke daxwazkirin an tevlihevî ji nişkê ve dest pê bike, an di nav çend saetan an rojan de pir zêdetir bibe, tavilê gazî bijîjkê wî/wê bikin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) dibêje ku guhartina ji nişkê ve an zû ya tevgerê, bi taybetî piştî enfeksiyonekê an guhertina dermanekê, divê tavilê were kontrol kirin. Tevliheviya ji nişkê ve dikare delirium be, ku [NHS](https://www.nhs.uk/symptoms/confusion/) dibêje hewceyê alîkariya lezgîn e; enfeksiyonên mîzê di kesên pîr de sedemeke hevpar in.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Her weha baş e ku di serdana din de behsa nimûneyeke domdar bikin, ji ber ku êş, kêfa kêm, pirsgirêkên xewê an bandorên alîgir ên dermanan hemî dikarin rolekê bilîzin.

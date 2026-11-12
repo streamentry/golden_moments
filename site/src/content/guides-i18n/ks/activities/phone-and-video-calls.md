@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "ڈیمینشیا والِس شخصس سٟتؠ فون تہٕ ویڈیو کال سرگرمیاں"
+seoTitle: "ڈیمینشیا خٲطرٕ ویڈیو کال سرگرمیاں"
+description: "ڈیمینشیا والِس شخصس سٟتؠ دۄر روزن والین خٲطرٕ فون تہٕ ویڈیو کال سرگرمیاں: ہاون، بٔڈ آواز پَرُن، گِت، مشترکہ سکرین گیم تہٕ مددگارَن خٲطرٕ مشورٕ۔"
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  ڈیمینشیا سانٛ زندٕگی گزاران شخصس سٟتؠ کال تَمہِ وقتہٕ بہتر گژھان چھے ییلہِ تِمہٕ چھوٹ، باقاعدٕ تہٕ کانٛہہ اکھ سٟتؠ کرنٕچ چیز آسہِ، مِثلَن پالُن جانور یا باغ ہاون، فوٹو وُچھن، بٔڈ آواز کِتاب یا مضمون پَرُن، پسندیدٕ گِت گاوُن یا مشترکہ سکرینس پؠٹھ اکھ نرم گیم کھیلن۔ اگر تُہؠ ہیٚکہِو تیٚلہِ پرٛتھ دۄہ اَکِس وقتس پؠٹھ کال کٔرِو، اَکِس وقتس پؠٹھ صرف اکھ شخص بوزِناوِو، تہٕ تَتہِ موجود کانٛہہ شخصس ؤنِو زِ سُہ دِیِہ مدد۔
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "کانٛہہ سرگرمی کالس اکھ ڈول دِوان چھے تہٕ گفتگو ہُند دباو کم کران چھے۔ شیئر کرنہٕ خٲطرٕ کانٛہہ اکھ سادٕ چیز منصوبہٕ بناوِو۔"
+  - "چھوٹ تہٕ باقاعدٕ کالہٕ، پرٛتھ دۄہ اَکِس وقتس پؠٹھ، اکثر زیچھ تہٕ کَدے کَدے گژھن والی کالن کھوتہٕ بہتر آسان چھے۔"
+  - "اَکِس وقتس پؠٹھ صرف اکھ شخص بوزِناوِو۔ گروپ کالہٕ یَتہِ واریاہ لُکھ اَکِس سٟتؠ بوزِناوان آسن، سمجھن مشکل آسان چھے، خاص طور بوزنَس منز دِقت آسَنہٕ پؠٹھ۔"
+  - "تَتہِ موجود مددگار ڈیوایس سیٹ کرِتھ ہیٚکہِ، شخصس نکھ بیہِتھ ہیٚکہِ، تہٕ کُنہِ گیم یا فوٹو خٲطرٕ ‹ہتھ› بٔنِتھ ہیٚکہِ۔"
+  - "اگر کال اَز ٹھیک پکان چھَنہٕ، تیٚلہِ نرمی سان ختم کٔرِو۔ پگاہ بییہٕ کوشش کرٕنۍ ٹھیک چھے۔"
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "بہٕ ڈیمینشیا والِس شخصس سٟتؠ ویڈیو کالس پؠٹھ کیا کرِتھ ہیکہٕ؟"
+    a: "کانٛہہ اکھ سادٕ سرگرمی منصوبہٕ بناوِو: پنُن باغ، پالُن جانور یا باوَرچی خانٕ ہٲوِو؛ اَکِس سٟتؠ پرونؠ فوٹو وُچھِو؛ کانٛہہ چھوٹی نظم یا چِٹھ بٔڈ آواز پٔرِو؛ تِہُند پسندیدٕ گِت گاوِو؛ اَکِس وقتس پؠٹھ اکی ترکیب پؠٹھ کھؠن پکاوِو؛ یا مشترکہ سکرینس پؠٹھ اکھ نرم تصویری گیم کھیٚلِو۔ سرگرمی کالس اکھ توجہ دِوان چھے، یُتھ نہٕ شخصس گفتگو آگے پکناوٕنۍ پٚیِہ۔"
+  - q: "ویڈیو کال کٲژ گژھ آسٕنۍ؟"
+    a: "عام طور تُہندِ خیال کھوتہٕ چھوٹی۔ کینہہ گٔر گرم منٹ کافی آسِتھ ہیکن، خاص طور ییلہِ شخص جلدی تھکان چھُ۔ پرٛتھ دۄہ اَکِس وقتس پؠٹھ باقاعدٕ کال کرٕنۍ اکثر یِمہِ کھوتہٕ زییادٕ اہم آسان چھے زِ پرٛتھ کال کٲژ چھے۔"
+  - q: "اگر تِمن ویڈیو کالن نِش پریشٲنی گژھ یا تِم ناراض گژھن تیٚلہِ کیا؟"
+    a: "کینہہ لُکن سکرینس پؠٹھ بُتھ وُچھُن پریشان کرن وول باسان چھُ۔ سادٕ فون کال آزمٲوِو، کانٛہہ ریکارڈ کٔرمٕژ ویڈیو پیغام یُس مددگار پُرسکون وقتس پؠٹھ ہاوِتھ ہیٚکہِ، یا ڈاک ذریعہٕ کارڈ تہٕ فوٹو سوزِو۔ اگر کانٛہہ کال ٹھیک گژھہ نہٕ، تیٚلہِ نرمی سان ختم کٔرِو تہٕ بییہٚ دۄہ یا بدل وقتس پؠٹھ بییہٕ کوشش کٔرِو۔"
+  - q: "میٲنِس مٲجِ ہیکہٕ بہٕ کِتھ کٔنۍ ویڈیو کالس منز مدد کٔرِتھ ییلہِ تِم فون استعمال کٔرِتھ ہیکن نہٕ؟"
+    a: "کُنہِ خاندانی رُکن، گھرِ مددگارَس یا کیئر ہوم عملس منز کانٛہہ شخصس ؤنِو زِ سُہ کال شروع کرِ تہٕ ڈیوایس تھپھ کرِ یا ٹھیک جایِ تھاوِ۔ واریاہ کیئر جایہِ خاندانہٕ سٟتؠ ویڈیو کالن منز مدد کران چھے، تَلہِ پٕرٛژھِو زِ تِم کیا دِوان چھِ۔ اَکھ ٹیبلیٹ سٹینڈس پؠٹھ، بٔڈ سکرین تہٕ کافی آواز سان، سارِنٕے خٲطرٕ آسان آسان چھُ۔"
+  - q: "کیا أسؠ ویڈیو ذریعی اَکِس سٟتؠ گیم کھیٚلِتھ ہیکو؟"
+    a: "آ، ہیکو۔ آسان ترین طریقہٕ چھُ زِ اکھ شخص ویڈیو ایپس منز پنٕنۍ سکرین شیئر کرِ تہٕ بیاکھ شخص ؤنِ زِ کمہِ تصویرس پؠٹھ ٹیپ کرُن۔ یا تَتہِ موجود مددگار اکہِ ٹیبلیٹس پؠٹھ تِی گیم کھولِ تہٕ تُہندِ ہدایت مطابق تِہندِ خٲطرٕ ٹیپ کرِ۔ تِم گیم چُنِو یِمن منز نہٕ ٹایمر آسِ تہٕ نہٕ سکور۔"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+ڈیمینشیا سانٛ زندٕگی گزاران شخصس نِش دۄر روزُن اکثر بے بس باسان چھُ۔ فون تہٕ ویڈیو کالہٕ اَکھ نٔل کٔرِتھ ہیکن نہٕ، مگر ٹھیک طریقہٕ سان سیٹ کرنہٕ پؠٹھ تِمن منز بییہِ اصلی رابطٕکؠ گٔر گرم لمحہٕ بٔنِتھ ہیکن۔ اصلی بات چھے یِہ زِ عام حال احوال پٕرٛژھنہٕ بجایِ کانٛہہ اکھ سادٕ چیز شیئر کرنُک منصوبہٕ بناوُن۔ یتھ صفس پؠٹھ چھُ بیان زِ ویڈیو تہٕ فون پؠٹھ کٔمہٕ سرگرمیاں ٹھیک چلان چھے، کال کِتھ کٔنۍ سیٹ کرٕنۍ چھے، تہٕ تَتہِ موجود شخص کِتھ کٔنۍ مدد کٔرِتھ ہیٚکہِ۔
 
-## Why plan an activity for a call?
+## کال خٲطرٕ سرگرمی منصوبہٕ کیازِ بناوٕنۍ؟
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+کانٛہہ سرگرمی کالس اکھ ڈول دِوان چھے۔ «تُہؠ کِتھ چھِو؟ اَز کیا کورُو؟» یِم سۄال شخصس یاد کرنُک تہٕ بیان کرنُک مطالبہٕ کران چھِ، یُس مشکل تہٕ دباو وول آسِتھ ہیٚکہِ۔ «وُچھِو، ٹماٹر آے پٔکِتھ» یِمہِ منز تِہندِ طرفہٕ کانٛہہ مطالبہٕ چھُنہٕ۔
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association چھُ ونان زِ بٔڈ گروپن سٟتؠ ویڈیو گفتگو مشکل آسِتھ ہیکہِ، تہٕ [کالس ڈول دِنُک مشورٕ دِوان چھُ](https://www.alz.org/help-support/caregiving/holidays) مِثلَن گِت گاوُن یا فوٹو شیئر کرٕنۍ۔
 
-## What activities work on a video call?
+## ویڈیو کالس پؠٹھ کٔمہٕ سرگرمیاں ٹھیک چلان چھے؟
 
-### Show and tell
+### ہٲوِو تہٕ ؤنِو
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+پنٕنۍ دُنیا تِمن تام نِیِو۔ کیمرا آہستہٕ آہستہٕ باغس منز پھِرٲوِو، کُتُر مِلاوِو، کیا پکاوان چھِو تیٚلہِ ہٲوِو، کُنہِ بٔچِس ہُند بناومُت تصویر تھٕپِیوٚت تھٲوِو، یا فون شیشہٕ نیرِ کُن شیٖن وُچھناوُن۔ یِکینژھ وُچھان چھِو سادٕ لفظن منز ؤنِو تہٕ ردِ عمل خٲطرٕ تھوڑا وقفہٕ تھٲوِو۔ سۄال پٕرٛژھنٕچ ضرورت چھَنہٕ۔
 
-### Look at photos together
+### اَکِس سٟتؠ فوٹو وُچھِو
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+کانٛہہ پرٛون چھپومُت فوٹو کیمرا برونٛہہ کُن تھٲوِو، یا پنٕنۍ سکرین شیئر کٔرِتھ کینہہ بٔڈ فوٹو اکھ اکھ کٔرِتھ ہٲوِو۔ یِکینژھ نظرِ گژھان چھُ تَتھ مُتعلق کَتھ کٔرِو: «وُچھِو، بابُک ٹوپی۔» «یِم کَم چھِ؟» یا «تۄہِ چھا یاد؟» یِم سۄال مَہ کٔرِو۔ اگر شخص کانٛہہ غلط ناو ؤنِ، تیٚلہِ آرام سان برونٛہہ پٔکِو۔ نرم اشارن خٲطرٕ سٲنۍ [یاد تازٕ کرنٕچ رہنمٲیی](/activities/reminiscence/) وُچھِو۔
 
-### Read aloud
+### بٔڈ آواز پٔرِو
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+کانٛہہ چھوٹی نظم، مناجات، کالس پؠٹھ موجود کُنہِ بٔچِس خٲطرٕ کانٛہہ پسندیدٕ بٔچَن ہٕنز کتاب، کُنہِ رشتہٕ دار سٕنز چِٹھ، یا تِہنز پسندیدٕ کِتابُک اکھ صفہٕ بٔڈ آواز پٔرِو۔ بٔڈ آواز پَرُن شخصس کانٛہہ پُرسکون چیز بوزنُک موقع دِوان چھُ، یَتھ خٲطرٕ جواب دِیُن ضروری چھُنہٕ۔
 
-### Sing or listen to music together
+### اَکِس سٟتؠ گِت گاوِو یا موسیقی بوزِو
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+کانٛہہ تِیُتھ گِت گاوِو یُس تِمن واریاہ جان چھُ، یا پننِہ طرفہٕ کانٛہہ پسندیدٕ ریکارڈ چلاوِو۔ واریاہ لُکن خٲطرٕ چھُ گِتس سٟتؠ گاوُن گفتگو کرنہٕ کھوتہٕ آسان۔ سٲنۍ [موسیقی سرگرمین ہٕنز رہنمٲیی](/activities/music/) وُچھِو۔
 
-### Cook or bake at the same time
+### اَکِس وقتس پؠٹھ کھؠن پکاوِو یا بیک کٔرِو
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association چھُ مشورٕ دِوان زِ کانٛہہ خاص ترکیب اَکِس سٟتؠ پکاونہٕ خٲطرٕ ویڈیو کال منصوبہٕ بناوِو۔ دۄشوے باوَرچی خانن منز کال سیٹ کٔرِو۔ تَتہِ موجود شخص ہیکہِ ہِلاوِتھ یا ژٕہ کٔرِتھ ییٚلہِ تُہؠ تِہنز پرٛٲنۍ ترکیبُک کارڈ فالو کران آسو۔
 
-### Watch something together
+### اَکِس سٟتؠ کینٛہہ وُچھِو
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Association چھُ یِتھ بییہٕ مشورٕ دِوان زِ الگ الگ گرن منز روزِتھ بییہِ اَکِس وقتس پؠٹھ کانٛہہ پسندیدٕ فلم وُچھِو تہٕ فون یا ویڈیو ذریعی کَتھ کٔرِو۔ ڈیمینشیا سانٛ زندٕگی گزاران شخصس خٲطرٕ ہیکہِ کانٛہہ چھوٹ کلپ، پرٛون ٹی وی قسط یا میچُک حصہ پوٗرٕ فلم کھوتہٕ بہتر بٔنِتھ۔
 
-### Play a gentle game on a shared screen
+### مشترکہ سکرینس پؠٹھ اکھ نرم گیم کھیٚلِو
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+واریاہ ویڈیو کال ایپن منز ہیکِو تُہؠ پنٕنۍ سکرین شیئر کٔرِتھ۔ تُہؠ گیم کھولاوان چھِو تہٕ ٹیپ کران چھِو؛ شخص ونان چھُ یا اشارٕ کران چھُ زِ کمہِ تصویرس پؠٹھ چُننہٕ۔ یا تَتہِ موجود مددگار اکہِ ٹیبلیٹس پؠٹھ تِی گیم کھولاوان چھُ تہٕ تُہندِ کَتھ دوران تِہندِ خٲطرٕ ٹیپ کران چھُ۔
 
-Games that work well this way:
+یِم گیم یتھ طریقس منز ٹھیک چلان چھِ:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Finish the Saying](/games/finish-the-saying/):** تُہؠ جانا مَنانہٕ محاورٕ پَران چھِو، تِم انجام ونان چھِ، تہٕ پتہٕ چھُ اکھ بوزنہٕ وول اشارٕ یِوان۔
+- **[Picture Pairs](/games/picture-pairs/):** بٔڈ تصویرن ہُند اکھ نرم جوڑ میلن وول گیم یُس نظرِ تل روزِتھ ہیٚکہِ، یَتھ منز نہٕ ٹایمر چھُ تہٕ نہٕ سکور۔
+- **[Conversation Cards](/games/conversation-cards/):** اکھ تصویر تہٕ اکھ کھُلہٕ اشارٕ یَتھ پؠٹھ اَکِس سٟتؠ کَتھ ہیٚکہِ۔
+- **[Photo Pairs](/games/photo-pairs/):** پننِہ ڈیوایسس پؠٹھ چُنیٚمِت فوٹن ہُند بناومُت جوڑ میلن وول گیم۔ فوٹو تُہندِس براؤزرس منز روزان چھے، تہٕ شخص تِم تُہنزِ شیئر کٔرمٕژ سکرین ذریعی وُچھان چھُ۔
 
-### Recorded messages
+### ریکارڈ کٔرِمٕتؠ پیغام
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+ییلہِ براہِ راست کالہٕ مشکل آسن، تیٚلہِ اکھ چھوٹ ویڈیو ریکارڈ کٔرِو: سلام، گِت، یا پننِس ییٚرِس منز اکھ سیر۔ مددگار ہیکہِ سُہ کُنہِ پُرسکون وقتس پؠٹھ چلاوِتھ، یُتھ واریاہ لٹہِ یُتھ شخصس پسند یِیِہ۔ Alzheimer's Association چھُ خاص لمحَن ہٕنز ریکارڈنگ سوزنُک ذِکر کران، مِثلَن بٔچَن ہُند تحفہٕ کھولُن۔
 
-## What about plain phone calls?
+## سادٕ فون کالن ہُند کیا؟
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+سادٕ فون کالہٕ بییہِ اہم چھے۔ Dementia Australia چھُ مشورٕ دِوان زِ [پرٛتھ دۄہ اَکِس وقتس پؠٹھ کال کٔرِو](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) تہٕ جلدی مَہ کٔرِو، تِکیازِ ڈیمینشیا سانٛ زندٕگی گزاران لُکن ہیکہِ رابطس منز یِنَس وقت لٔگِتھ۔ فون پؠٹھ:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- شروعَس منز پنُن ناو تہٕ رشتہٕ ؤنِو: «سلام ابّا، بہٕ چھُس جینی، تُہنز کور۔»
+- آہستہٕ بوزِناوِو، چھوٹی جُملن منز، اَکِس وقتس پؠٹھ اکھ خیال۔
+- تِمن نِش خبر منگنہٕ بجایِ تِمن خبر دِیِو: «راتس پٔکۍ میٚ تُہنزِ ترکیبہِ ہُند گوشت۔»
+- کانٛہہ چھوٹی نظم پٔرِو، یا پسندیدٕ گِتُک اکھ بند گاوِو۔
+- کال چھوٹی تھٲوِو تہٕ گٔر گرم اندازس منز ختم کٔرِو۔
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia چھُ یِتھ بییہٕ ونان زِ ییلہِ بوزُن مشکل گژھان چھُ، تیٚلہِ ویڈیو کال مدد کٔرِتھ ہیکہِ، تِکیازِ شخص تُہُند بُتھ وُچھِتھ ہیٚکہِ۔ اگر فون کالہٕ پریشان کران آسن، تیٚلہِ ویڈیو آزمٲوِو، یا تَمِک اُلٹ۔
 
-## How do I set up a video call that works?
+## ویڈیو کال ٹھیک طریقہٕ کِتھ کٔنۍ سیٹ کرٕنۍ؟
 
-**Before the call:**
+**کالہٕ برونٛہہ:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **اکھ باقاعدٕ وقت چُنِو** ییلہِ شخص عام طور پؠٹھ آرام سان آسان چھُ، تہٕ تَتھ پؠٹھ قٲیِم روٗزِو۔ معمول مدد کران چھُ۔
+2. **تَتہِ موجود مددگارس سٟتؠ رابطہٕ کٔرِو۔** اکھ دۄہ برونٛہہ سوزنہٕ آمُت پیغام تِمن منصوبہٕ بناونس منز مدد کران چھُ۔
+3. **ڈیوایس چیک کٔرِو۔** سٹینڈس پؠٹھ تھومُت ٹیبلیٹ ہَتھس منز تھٕپِتھ فون کھوتہٕ آسان آسان چھُ۔ یقین کٔرِو زِ چارج چھُ، سکرین چھے چمکان، تہٕ آواز چھے بوزنہٕ خٲطرٕ کافی۔ اگر ایپس منز کیپشن آسہِ تہٕ شخص ٹھیک پٔرِتھ ہیٚکہِ، تیٚلہِ تِم چالو کٔرِو۔
+4. **کانٛہہ اکھ سرگرمی منصوبہٕ بناوِو** تہٕ سورُے چیز تیار تھٲوِو۔
 
-**During the call:**
+**کال دوران:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **کیمرا نکھ** اچھی روشنی منز بیہِو، کھڑکِ کُن رۄخ کٔرِتھ، نہٕ زِ کھڑکی تُہندِس پتھ کُن آسِہ۔
+- **پرٛتھ لٹہِ پنُن تعارف کٔرِو،** ناو تہٕ رشتہٕ سان۔
+- **اَکِس وقتس پؠٹھ صرف اکھ آواز۔** Alzheimer's Association چھُ ونان زِ ڈیمینشیا سانٛ زندٕگی گزاران لُکن تہٕ بوزنَس منز دِقت والین لُکن خٲطرٕ واریاہن ہٕنز اَکِس سٟتؠ بوزُن مشکل آسان چھُ۔ اگر واریاہ رشتہٕ دار شامل آسن، تیٚلہِ وارِ وارِ بوزِناوِو یا صرف زٕ یا ترٛے لُکھ تھٲوِو۔
+- **اَکِس وقتس پؠٹھ اکھ سۄال پٕرٛژھِو۔** Family Caregiver Alliance چھُ [سادٕ سۄالن ہُند مشورٕ دِوان](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) یِمن ہُند جواب آ یا نہٕ آسِتھ ہیٚکہِ، تہٕ ییٚلہِ ممکن آسہِ تیٚلہِ انتخاب ہٲوِو۔
+- **زیچھ ٹھہرنہٕ خٲطرٕ وقت دِیِو۔** جوابُک انتظار کٔرِو۔ اگر تِم لفظ ژھانڈان آسن تیٚلہِ آہستہٕ لفظ سُجھاوُن ٹھیک چھُ۔
+- **پنُن بُتھ تہٕ آواز استعمال کٔرِو۔** مُسکراوِو، سر ہِلاوِو تہٕ آواز گٔر گرم تھٲوِو۔ اظہار چھُ اکثر لفظن کھوتہٕ زییادٕ ونان۔
+- **درست مَہ کٔرِو۔** اگر شخص کانٛہہ تِیُتھ چیز ؤنِ یُس ٹھیک آسہِ نہٕ، تیٚلہِ تَتھ یِتھ روزنہٕ دِیِو۔
 
-**Ending the call:**
+**کال ختم کرنہٕ وقتہٕ:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- شخصس تھکنہٕ برونٛہہ ختم کٔرِو، بہتر چھُ زِ کانٛہہ خوشگوار لمحس پؠٹھ۔
+- پرٛتھ لٹہِ اکی قسمُک الوداع ؤنِو: «بہٕ کال کرٕ پگاہ دوپہرِ کھؠنس پؠٹھ۔ مےٚ چھے تُہنز واریاہ مایا۔»
+- کال زیچھ کھٔنژِتھ مَہ تھٲوِو۔
 
-## Tips for the helper on site
+## تَتہِ موجود مددگارس خٲطرٕ مشورٕ
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+اگر تُہؠ خاندار، مددگار، بین یا عملہٕ ہُند کانٛہہ شخص چھِو یُس کالس منز مدد کران چھُ، تیٚلہِ تُہؠ چھِو یِہ ممکن بناوان۔
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **اکھ پُرسکون جایِ تیار کٔرِو۔** ٹی وی بند کٔرِو تہٕ دروازٕ بند کٔرِو۔
+- **کال پانٕے شروع کٔرِو،** پتہٕ شخصس سٹینڈس پؠٹھ تھومُت ٹیبلیٹ دِیِو یا تَتھ تِہنزِ نظرِ برابَر تھٲوِو۔
+- **تِمن نکھ بیہِو، برونٛہہ کُن نہٕ۔** تُہُند موجود آسُن چھُ تسلی دِوان۔ اگر ضرورت پٚیِہ تیٚلہِ آہستہٕ یاد دِیِو: «وُچھِو، جینی چھے۔»
+- **تُہؠ بٔنِو ہتھ۔** فوٹو تھٲوِو، گیمس پؠٹھ ٹیپ کٔرِو، کمرٕ ہاونہٕ خٲطرٕ ٹیبلیٹ پھِرٲوِو۔
+- **تھکن یا پریشٲنی ہٕنز نظر تھٲوِو،** تہٕ کال کرن والس ؤنِو ییلہِ ختم کرنُک وقت آسہِ۔
+- **کال کرن والس ؤنِو کیا چُھ ٹھیک روٗد۔** «تِم آے کُتُر وُچھِتھ واریاہ خوش» یِہ چھُ بٔیِس کالس خٲطرٕ منصوبہٕ بناونس منز مدد کران۔
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA چھُ دۄر روزن والین رشتہٕ دارن مشورٕ دِوان زِ تِم ہیکن کُنہِ بوڑ شخصس [تِہندِس فونٕکؠ خاص فیچر سِکھناونس](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving) منز مدد کٔرِتھ، مِثلَن ویڈیو کالہٕ۔ پٔتم مراحلن منز چھُ عام طور پؠٹھ مددگارس پورٕ ڈیوایس سنبھالنٕچ ضرورت آسان۔ یِہ چھُ ٹھیک۔
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+اگر شخص کیئر ہومس منز روزان چھُ، تیٚلہِ Alzheimer's Foundation of America چھُ مشورٕ دِوان زِ پٕرٛژھِو زِ کیا سُہ ادارٕ خاندانہٕ سٟتؠ ویڈیو کالن منز مدد کران چھُ۔ AFA چھُ یِتھ بییہٕ ونان زِ خاندان ہیکن کیئر عملہٕ ذریعی اکھ أکِس فوٹو سوزِتھ، تہٕ پسندیدٕ ہلکہٕ کھؠن یا ناد چیزہٕ سوزِتھ، امہِ پتہٕ زِ ادارس کیا منظور چھُ۔
 
-## What if the call doesn't go well?
+## اگر کال ٹھیک گژھہ نہٕ تیٚلہِ کیا؟
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+کینہہ کالہٕ پریشان کن، ہلکہٕ یا تکلیف دِہ آسِتھ ہیکن۔ یتھ منز تُہنز کانٛہہ غلطی چھَنہٕ، تہٕ امہِ نِش چھُنہٕ یِہ معنی نیران زِ کالہٕ بے فٲیدٕ چھے۔
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- اگر شخص سکرینس پؠٹھ پریشان باسان آسہِ، تیٚلہِ سادٕ فون کالس یا ریکارڈ کٔرمٕتِس پیغامس کُن بدلاوِو۔
+- اگر تِم ناراض گژھن، تیٚلہِ تِہُند احساس مٔنِو، کانٛہہ تسلی دِوُن لفظ ؤنِو، تہٕ نرمی سان ختم کٔرِو۔
+- اگر کالہٕ اکثر أکِس خاص وقتس پؠٹھ ٹھیک گژھان آسن نہٕ، تیٚلہِ بیاکھ وقت آزمٲوِو۔
+- اگر تِم تُہؠ کانٛہہ بیاکھ شخص سمجھان آسن، تیٚلہِ نرمی سان تِتھے کٔرِو تسلیم۔
 
-It is fine to end early. A short, warm call is a good outcome.
+جلدی ختم کرُن ٹھیک چھُ۔ اکھ چھوٹی، گٔر گرم کال چھے اکھ اچھی کامیٲبی۔
 
-## Between calls
+## کالن درمیان
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+باقی طریقن سٟتؠ بییہِ رابطس منز روٗزِو۔ Dementia Australia چھُ مشورٕ دِوان زِ کارڈ، ای میل، فوٹو یا لۄکٕچہٕ تحفہٕ سوزِو۔ اکھ ہفتہٕ وار پوسٹ کارڈ یَتھ پؠٹھ اکھ بٔڈ فوٹو تہٕ اکھ چھوٹ نوٹ آسہِ، واریاہ لٹہِ پَرِتھ ہیٚکہِ۔ چھپاوِتھ ہیٚکن واجِنؠ [Conversation Cards](/games/conversation-cards/) مددگارس سوزِتھ ہیکو بٔیِس کالس خٲطرٕ اکھ تیار موضوع فراہم کٔرِتھ۔
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+ٹیبلیٹ چُننہٕ تہٕ سیٹ کرنہٕ متعلق مشورن خٲطرٕ [ٹیبلیٹ تہٕ سکرین](/caregiving/tablets-and-screens/) وُچھِو۔ براہِ راست ملاقاتن خٲطرٕ سٲنۍ [ملاقات](/activities/visiting/) ہٕنز رہنمٲیی وُچھِو۔

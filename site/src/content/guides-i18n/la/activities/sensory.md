@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Actiones sensuum pro hominibus cum dementia"
+seoTitle: "Actiones sensuum et dementia: consilia et tutela"
+description: "Actiones sensuum hominibus cum dementia viventibus, a leni frictione manuum ad corbes pannorum et sonos naturae, cum monitis de salute."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Actiones sensuum tactum, olfactum, gustum, auditum et visum adhibent: lentam
+  frictionem manuum, corbem mollium pannorum, herbas recentes ad olfaciendum,
+  sonos naturae aut aves extra fenestram observatas. Omni gradui conveniunt et
+  postea praecipue utiles sunt. Prius cavete pericula suffocationis, allergias,
+  vitia cutis et sensum odorum acrem; unam rem simul offerte et desinite, si
+  homo inquietus videtur.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Actiones sensuum rectas responsiones non requirunt, itaque omni gradui conveniunt, etiam in lecto vel in sella."
+  - "Unum sensum simul in loco quieto offerte, et priusquam tangatis, rogate vel praemonete."
+  - "Parvas res vitate atque omnia quae ut cibus videntur vel olent, sed non sunt, quia homines ea in os ponere possunt."
+  - "Allergias, vitia cutis et difficultates spirandi inspicite, antequam unguenta, odores aut cibos adhibetis."
+  - "Nulla certa indicia sunt aromatherapiam signis dementiae prodesse; odores tantum ad simplicem delectationem adhibete, si omnino."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Quae sunt bonae actiones sensuum homini cum dementia?"
+    a: "Consilia simplicia sunt lenta frictio manuum cum unguento, tractatio mollium pannorum, olfactio herbarum recentium aut coffeae, auscultatio musicae gratae aut sonorum naturae, observatio avium aut piscinae piscium, et gustatio cibi grati in textura tuta. Unam rem simul offerte et observate quomodo homo respondeat."
+  - q: "Suntne actiones sensuum tutae homini qui res in os ponit?"
+    a: "Possunt esse, si diligenter agitis. Tantum res magnas adhibete, quae deglutiri non possunt; parva aut fragilia omittite; et unguenta, sapones resque odoratas postea extra accessum servate, quia ut cibus videri vel olere possunt. Cum homine toto tempore manete."
+  - q: "Prodestne aromatherapia dementiae?"
+    a: "Recognitio Cochrane nulla certa indicia invenit aromatherapiam hominibus cum dementia prodesse, quamquam studia parva et inconstantia erant. Si homo leni et noto odore gaudet, id licet, sed olea essentialia fortia vitate, praesertim si difficultates spirandi aut allergiae adsunt."
+  - q: "Quid est praecinctorium vel stragulum ad manus occupandas?"
+    a: "Est pannus, praecinctorium vel stragulum super genua, cui res tractandae firme assutae sunt, sicut globuli magni, claustra tractilia, taeniae et partes variae tactu. Manibus occupatis aliquid explorandum praebet. Saepe inspicite, ne quid solutum sit, quod avelli possit."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Actiones sensuum quinque sensibus utuntur: tactu, olfactu, gustu, auditu et visu. Memoriam, gradus certos aut rectas responsiones non requirunt, itaque in omni gradu utiles esse possunt. Postremo gradu plurimum valent. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notat homines postremo gradu mundum praecipue per sensus experiri, et curam per tactum, sonum, visum, gustum et olfactum ostendi posse. Paucae cautiones hae actiones omnibus tranquilliores reddunt.
 
-## What are sensory activities for dementia?
+## Quae sunt actiones sensuum pro dementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Actiones sensuum sunt experientiae simplices circa unum sensum simul compositae, ut pannum tangere, herbas olfacere aut pluviam audire. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dicit actiones gradus posterioris saepe in sensibus niti debere, et musicam, res tangendas et tractandas, atque frictionem manuum commemorat. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notat homines postremo gradu saepe magno desiderio teneri aliquid prope ad solacium tenendi.
 
-## Sensory ideas, sense by sense
+## Consilia sensuum, per singulos sensus
 
-### Touch
+### Tactus
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Frictio manuum.** Paululum unguenti in manibus vestris calefacite et lente a carpo ad digitos ducite. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) commemorat frictionem cum unguento sine odore ad solacium.
+- **Corbis pannorum.** Magna fragmenta holoserici villosi, panni costati, lanae mollis, satin et lanae ad mulcendum, complicandum et de eis loquendum.
+- **Pannus calidus.** Pannus calidus et umidus pro manibus die frigido. Temperiem prius in vestro carpo probate.
+- **Praecinctorium vel stragulum ad manus occupandas.** Globuli magni, claustra tractilia, taeniae et partes variae tactu firme assutae.
+- **Complicare et levigare.** Corbis pannorum mundorum aut mappularum ad complicandum, struendum et iterum complicandum.
+- **Aliquid molle tenendum.** Stragulum laneum molle, pulvinus aut animal molle simile verae formae, simpliciter oblatum, numquam ut ludibrium.
 
-### Smell
+### Olfactus
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Herbae recentes.** Folia menthae, roris marini, basilici aut lavandulae inter digitos terite et admovete.
+- **Odores coquinae.** Coffea cocta, panis tostus, cinnamomum aut malum aureum prope decorticatum.
+- **Flores.** Paucos flores recentes ex horto vel taberna afferte.
+- **Res nota.** Sapo vel unguentum quo homo semper usus est, si cutis id tolerat.
 
-### Taste
+### Gustus
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Sapor gratus.** Parvum cochleare eius quod homo amat, ut poma contusa, pultem dulcem aut glaciem, in textura quam tuto sumere potest.
+- **Auxilium in coquendo.** Gustatio fructuum aut paululi operimenti dulcis, dum una coquitis.
+- **Deliciae temporis anni.** Pepo aestate, potus malorum calidus autumno, temperatura tuta oblata.
 
-### Sound
+### Auditus
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Musica grata.** Cantus noti leni sono; vide [actiones musicae](/activities/music/).
+- **Soni naturae.** Pluvia, fluctus aut cantus avium. NIA notat musicam, strepitum album et sonos naturae nonnullis hominibus quietem afferre videri.
+- **Vox vestra.** Lectio clara voce, murmur cantus aut narratio.
+- **Instrumenta simplicia.** Tympanum manuale, crepitaculum aut tintinnabulum ad musicam comitandam.
 
-### Sight
+### Visus
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Observatio per fenestram.** Ales ad cibum extra fenestram, pueri domum ambulantes aut nix cadens.
+- **Piscina piscium aut imago lenta.** Motus lenis sine sono alto.
+- **Photographemata magna.** Una imago clara simul, ad altitudinem oculorum oblata.
+- **Color et forma.** Fragmenta pannorum clara, flores aut mappulae coloratae in ordinem ponenda, aut pagina simplex coloranda ex nostra collectione [coloring](/games/coloring/).
+- **Foris.** NHS hortos sensuum commendat cum plantis odoratis, variis tactibus et aqua. Vide [actiones foris et in horto](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Quomodo arcam sensuum paretis
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Thema eligite** cum vita hominis coniunctum: litus, hortus, coquina, officina, opus suendi.
+2. **Quinque aut sex res magnas et tutas eligite,** ut concham magnam, cochlear ligneum, fasciam mollem, sacculum lavandulae siccae consutum, aut trunculum ligneum levem.
+3. **Unamquamque rem inspicite,** ne partes parvae, margines acuti, fila soluta aut res fragiles adsint.
+4. **Unam rem simul proferte.** Tradite, describite et sinite hominem explorare.
+5. **Arcam postea reponite,** ut peculiaris maneat et res ante proximum usum iterum inspiciantur.
 
-## Safety first
+## Salus primum
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Actiones sensuum lenes sunt, sed pauca pericula magni momenti sunt. Nonnulli homines cum dementia viventes res quae non sunt cibus pro cibo habent, et deglutitio tempore difficilior fieri potest; NIA monet difficultates deglutiendi postremo gradu periculum suffocationis augere.
 
-| Risk | What to do |
+| Periculum | Quid faciendum |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Suffocatio | Tantum res nimis magnas ad deglutiendum adhibete. Nulli globuli, margaritae, nummi, pilae vitreae aut ludibria parva soluta in arca. Cibum tantum in texturis offerte quas turma curantium tutas esse dicit. |
+| Res quae ut cibus videntur | NIA suadet unguenta, sapones, lotiones capillorum et unguenta odorata claudere, quia ut cibus videri vel olere possunt, atque fructus artificiosos removere. Res sensuum post usum reponite. |
+| Allergiae | Antequam incipiatis, allergias ad nuces, latex, lanam, plantas aut odores inspicite. |
+| Odores fortes | Odores fortes et olea essentialia fortia vitate, praesertim si asthma aut aliae difficultates spirandi adsunt. Odores lenes et naturales tutiores sunt. |
+| Cutis | Cutem dolentem, laesam aut fragilem ante frictionem inspicite. Pressu leni utimini et desinite, si homo vultum contrahit. |
+| Temperies | Pannos calidos et potiones prius in vestro carpo probate. |
+| Res acutae aut venenatae | Nulla instrumenta acuta, vitrum aut materiae artificiosae venenatae. |
 
-## Does aromatherapy help?
+## Prodestne aromatherapia?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Probabiliter non modo qui metiri possit. [Recognitio Cochrane de aromatherapia pro dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) tredecim studia cum 708 hominibus spectavit, omnia in domibus curantibus, et nulla certa indicia utilitatis invenit. Studia parva erant, eventus inter se dissentiebant, et effectus adversi parum relati sunt. Si homo leni et noto odore gaudet, ut lavandula ex horto, haec bona causa est eum communicandi. Curatio non est.
 
-## How to offer a sensory activity
+## Quomodo actionem sensuum offeratis
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Momentum quietum eligite** et televisorium exstinguite.
+- **A fronte accedite,** nomen eius dicite, et priusquam tangatis, rogate vel dicite: „Unguentum habeo. Visne ut manus leniter fricem?”
+- **Unam rem simul offerte,** ne homo nimis oneretur.
+- **Responsum observate.** Vultus tranquillior, manus remissae aut risus bona signa sunt. Si homo se retrahit, frontem contrahit aut inquietus fit, desinite.
+- **Breve servate.** Quinque minuta tranquilla satis sunt.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Lenta pausa spirandi una, ut [calm breathing](/games/calm-breathing/), lenis modus finiendae actionis esse potest. Plura consilia ad lectum vide in [actiones gradus posterioris](/activities/late-stage/), et de inquietudine vespertina vide in [late-day restlessness](/caregiving/late-day-restlessness/).

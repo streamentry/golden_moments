@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzle am so dementia-a kərma-a: jigsaw, kalima-a kuru online"
+seoTitle: "Puzzle am so dementia-a kərma-a"
+description: "Futu jigsaw, kalima-a kuru puzzle online so am dementia-a kərma-a ro tartəgəne: kura kərtəye, sura, ruwo kura-a, kəltə cizəna-a, kuru sa shawa gənatəna."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Puzzle ngəla am dementia-a kərma-a ro, shima puzzle də kam də bana
+  gana-a kərzəna-a kənashin dəgana so wo. Jigsaw kərtə gana-a, kura-a kuru
+  sura am kura soye dəga-a fakke, sura akwati ye də fuwun yikke, kuru
+  kərtə cidiyarambe də burwon jənne. Kalima manabe-a kuru crossword so
+  ruwo kura-a lan ngəla. Puzzle online shawa so kərtə 4-a lan sa dawunbe
+  ro dəgana. Sa kənashin dəgana lan dane.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Futu cidajin lan fakke, daraja lan gani: puzzle də cidaramma gənatəna mia, kərtə gana-a fal jarapne."
+  - "Kərtə kura-a, duno-a kuru sura ngəla-a cidaram ngəla so-a, kərtə gana-a kuru sura samibe kura-a ro gənatəgəna."
+  - "Sura am kura soye də məmari. Kulo, fado, mota-a kuru dabba so, kartun gani."
+  - "Kəltə cizəna də dalil wo. Kərtə ye, cidiyarambe jənne, kuru akwati ye də fuwun yikke."
+  - "Kalima manabe ruwo kura-a kuru puzzle online shawa so kərtə 4-a bi 9-a lan shima na adəben ram."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Puzzle kərtə ndawu am dementia-a kərma-a ro ngəla wo?"
+    a: "Adadu tilo kalkal dəga bawo. Kam burwon puzzle kərtə 1,000 cizəna də, kən sa burwoyen kərtə dəri ngəwu ro kənashin fandin; am gade so kərtə kura gana-a lan ngəla. Puzzle də cidaramma bi karəgənəmma gənatəna mia, kərtə gana-a ro faltə. Puzzle surabe andeye kərtə 4 bi 9-a."
+  - q: "Puzzle jigsaw am dementia-a kərma-a ro faida-a wa?"
+    a: "Am ngəwu ro kənashin, musamman burwon puzzle so kənzaŋa cizəna ma. Puzzle də musko ro cidaramma cin, dalil ngəla-a kuru sura mana bənatəyin. Puzzle falma dementia kənza, fulutə bi dazəna dəgana sadin bawo, kuru adə nankaro kənashin-a kuru kəltə dəgana ro fakke."
+  - q: "Sa kam fal jigsaw də cizəyin ba ro waltəna mia, awi dim?"
+    a: "Gana yikke kuru cidaramma ngəwu nəmmin cizə: kərtə fal-fal lan yite, bi kərtə daryeye gana-a runzə kolne. Puzzle online kərtə 4-a, kərtə kəli lan jənnəma, bi sura dazəna də kəltə rui jarapne."
+  - q: "Crossword-a kuru kalima manabe-a am dementia-a kərma-a ro dəgana wa?"
+    a: "Sa burwoyen, ruwo kura-a lan dəgana. Kalima manabe kalima so fuwu-a kuru cidiyan runzu gənazəna də, shima kalima cidiga bi bǝlin runzu gənazəna ro gənatəgəna. Kǝla bǝlaye-a bi kalima list də kəran, kuru kəltə cizə."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw tebur bumasaben fərzəna də, cidaram kəltə cizəyin soye lan shawa fal wo. Kəltə napsayin manabe də mbeji bawo, sura də mana bənatəyin dalil cin, kuru kərtə daryeye də yikəna sa də kəji fanjin. Amma dementia faltəgəna lan, puzzle so ye faltəgə mbeji. Puzzle cidaramma ngəwu so, kausu kəji də karəgənəmma ro waltin. Warak adə futu jigsaw, kalima puzzle-a kuru puzzle online shawa so tartəgəna-a dazəna-a, kuru sa cidaramma gənatəna mia awi dim bayin.
 
-## Are puzzles good for people with dementia?
+## Puzzle so am dementia-a kərma-a ro faida-a wa?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Am ngəwu ro kənashin fanjin, musamman burwon puzzle so cizəna ma. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) kalima manabe, kād bənatə-a kuru tebur bənatə-a so sa burwoyen ro cidaram so lan bowotəna. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ye kuru bənatə-a puzzle online tablet lan cidaram kəltə dəgana ro dalil fal lan bowotəna.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzle so kənza bawo. Puzzle falma dementia fulutə bi dazəna dəgana sadin bawo; bayanna [brain games and dementia](/brain-health/brain-games/) cidaram adə manajin. Dalil puzzle cizəyin də, sa kəji-a kuru kəltə dəgana kənashin ro. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ngəla manajin: kənashin ro hangal yikke, nasara ro gani.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Am dementia-a kərma-a ro futu jigsaw puzzle tartəgəne?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Awi kam də kənzaŋa cizəna-a kuru puzzle daryeye futu cizəna lan rui, daraja lan gani.
 
-### Number of pieces
+### Kərtəye adadu
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Adadu kalkal dəga bawo. Kam kərma kərtə ngəwu cizəna də kən sa burwoyen kərtə dəri ngəwu ro kənashin fandin, kam gade so kərtə gana-a lan kəji fanjin. Dalil cidarambe: puzzle daryeye də cidaramma gənatəna mia, kərtəye adadu də təma ganajin fakke. Shawa dazəna kuru kuruwo kənzəna mia, gana tǝsǝkke.
 
-### Piece size and feel
+### Kərtəye kura-a kuru futu lezəna
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Kərtə kura-a** rui, gotə-a kuru faltəgə ro shawa.
+- **Kərtə duno-a, duno ngəla-a** na falnzən napsayin kuru cidiya kəzəptəna ye bannajin ba.
+- **Sura lulu bawo** fitila-a kuru window cidiyan nur dunotə dajin.
+- **Kərtə gana-a kolne** kam də awi fal bənzəyin alama sadin, shima dementia kərmain waltin.
 
-### The picture
+### Sura də
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Sura am kura soye.** Kulo, fado, mota kərma, dabba kulo ye, bǝla teku ye, bi bənatə kənzaŋa cizəna. Kartun bi awi tadawa soye ro lezəna gade gani.
+- **Na kəli ngəla-a fərtəna.** Fato kime, maar teku-a kuru kulo kəli so kərtəye ro gənatəgəna, samibe sura təma kura cizəna ro gənatəgəna.
+- **Kəske-a kuru kənzaŋa.** Na dəgana bi cidaram kənzaŋa cizəna sura də mana bənatəyin ngəwu cin. Na sura print cizəna so sura yalye də jigsaw ro waltin.
 
-## How do you do a puzzle together?
+## Futu kəltə puzzle cizəne?
 
-Set it up so the person can get straight to the enjoyable part.
+Kam də na kənashin ro sa dəga-nzəro dazəne.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Na ngəla fakke.** Nur ngəla, kuris musko-a kuru tebur bi tire puzzle də kəlan koltəyin.
+2. **Akwati ye kərabe də** andi yindi ye ruye ro yikke.
+3. **Kərtəye sammaa fuwu ro faltə** baditə badiyin ro.
+4. **Cidiyarambe jənne** nəmmin, bi cidiyarambe də burwon cizə kuru dawunbe də tiro kolne.
+5. **Kərtəye kəli lan** tire bi plate gana-a ro jənne.
+6. **Kərtə fal-fal lan yite** kərtəye ngəwu so hangalnzə samjin mia. «Tamma fəle adə fato ye ro lezəna.»
+7. **Sura lan mane,** cidaramma ro gani. «Adə maar bawa ye dəga-a alama lezəna.»
+8. **Kəlan kolne.** Kawu ngəwu ro waltə kuru kəltə cizə. Sa bawo.
+9. **Sa ngəla lan dane,** kərtə fal kənzəptəna ngawo, kənashin dəgana sa.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kam də baditəgə ro bana, karəgənəmma rui, kuru kam də rui runzəna ma kənzajin mia kolzəna shawari cin. Kərtə yikəmma rui-a kuru na fal naptəna bayin-a, shima cidaramma ro nganzayin.
 
-## Easy online puzzles
+## Puzzle online shawa
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Tablet lan puzzle cizəyin faida kalkal-a: kərtə fatobe bawo, sura kura-a screen sammaa cizəna, kuru tebur chirotəgə bawo.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[Picture puzzle](/games/picture-puzzle/) andeye də sura də kərtə 4 bi 9-a ro kəltin. Kərtə indi ranne fal yikko kuru sura də dazəyinro. Sura dazəna də fuwun alama ro dəgana, loktu bawo, kuru sa yaye lan danayin. Kərtə 4 am ngəwu sa dawunbe ro, kam fal kənzənzəgəna-a lan, dəgana.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Sura bənatə shawa gade ro, [Find the same](/games/find-the-same/) jarapne, na adəben sura samben dəga-a kalkal ro ranne, bi [Sort together](/games/sort-together/), na adəben sura so baskət so ro, misallo fado bi kulo ro, yikəna.
 
-## Word puzzles: word searches and crosswords
+## Kalima puzzle: kalima manabe-a kuru crossword
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Kalima puzzle am burwon kənzaŋa cizəna so-a ro dəgana, ngəwuro ma sa burwoyen.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Kalima manabe ruwo kura-a.** [Word search](/games/word-search/) andeye ruwo kura-a kuru kalima gana-a runzəgəna, fuwu-a kuru cidiyan runzu, cidiga bi bǝlin gani. Screen lan bənane bi print dəne.
+- **List də kəran.** Kam fal kalima kəranzə, kam fal də manajin. Harf burwoye runzu tǝkkənama də ngəla.
+- **Crossword ruwo kura-a** kitab puzzle soye lan sa burwoyen cidajin. Kǝla bǝlaye də kəran, qalam kəltə faidatə kuru jaawu so kəltə yikke. Crossword shawa-a, kǝla tilo-a, shima asǝr-a ro gənatəgəna.
+- **Kalima so lan mane.** «Kulo» də manabe minut 10 tomato lan mana bənatəyin ro waltin.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Karatu cidarambe-a kuru futu shawa print dəgə-a lan bayanna gade ro, [cidaram dementia ro print dəgəyin ramso](/activities/printable/) rui.
 
-## Which puzzles suit each stage?
+## Puzzle soye sa darye-a ro futu dəgana?
 
-Stages overlap, and good and hard days are normal.
+Sa so kəltəgana, kuru kawu ngəla-a kuru cidaramma so alama ngəla.
 
-| Stage | Puzzles that often fit | Your role |
+| Sa | Puzzle ngəwuro dəgana so | Cidaramma nəmbe |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Burwoye | Jigsaw kəske-a kərtəye gana-a burwoyen gənatəgəna, crossword-a kuru kalima manabe ruwo kura-a, puzzle online kərtə 9-a | Kǝma: tiro kartəgə, banazəna sa bana |
+| Dawunbe | Jigsaw kərtə kura gana-a, puzzle online kərtə 4-a, kalima manabe kəltə kəra | Dazə, kərtəye jənne, fal-fal lan yite |
+| Daryeye | Sura dazəna kəltə rui, Find the same sura indi-a, kərtə kura gana-a le | Tiro kənzəgə; kəltə dəgə nəmbe də cidaramma wo |
 
-## When should you make a puzzle easier, or stop?
+## Sa ndeya puzzle gana yikne, bi daneyin?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Kərnuwa, kərtəye təp, «rakki bawo» ngəwuro manabe, bi fuwu karəgənəmma rui. Adəma awi fal faltəgə mbeji alama, dəptəgə gani.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Gana yikke.** Kərtəye gana, bi daryeye gana-a runzə kolne.
+- **Cidaramma ngəwu nəmmin cizə** kuru na shawa so-a lan bana ro bowone.
+- **Awi na kərənzəgəna ro faltə:** kərtəye kəli lan jənnəma, puzzle online kərtə 4-a, bi [kəli rəptə](/games/coloring/).
+- **Dane.** Kolne kuru sha yaye. Kawu gade ro waltayin, bi waltəyin ba.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Puzzle so awi cidaramma gənazəna taktəgə badizəna mia, koltəgə də ngəla. Kəltə sa ngəla cizəyin dalil ngəwu-a; [cidaram shawari 101](/activities/ideas/) na ngəla manabe ro.

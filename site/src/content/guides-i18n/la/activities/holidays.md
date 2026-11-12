@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Actiones feriatae pro homine cum dementia vivente"
+seoTitle: "Consilia feriata pro hominibus cum dementia"
+description: "Simplices actiones feriatae: munera in coquina, ornatus, musica, imagines et vocationes per rete, et quomodo diem tranquilliorem paretis."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Dies festos minores servate, mane potius quam vesperi, et prope consuetudinem
+  cotidianam hominis quem curatis. Ei verum et tutum munus date, ut mensam
+  sternere, holera lavare, donum involvere aut ornamentum suspendere. Musicam
+  notam et veteres imagines una communicate, hospites antea parate et cubiculum
+  quietum praeparate. Id solum facite quod rationabiliter sustinere potestis;
+  celebratio brevis et tranquilla bona est.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Mane potius celebrate, exempli gratia prandio aut ientaculo sero, si confusio sub vesperum saepe accidit."
+  - "Vera munera proponite: mensam sternere, holera lavare, involvere, ornare aut bellaria in patinam ponere."
+  - "Musica nota, cantus festi et vetera photographematum volumina sunt faciles modi tempus anni una communicandi."
+  - "Hospitibus ante adventum dicite quid exspectent, et homini quem curatis imagines eorum qui venturi sunt ostendite."
+  - "Cubiculum quietum cum lodice aut veste grata parate, et visitatores paucos simul admittite."
+  - "Ea omittite quae nimis gravia esse possunt, etiam ornamenta quae cibum simulant et multas luces micantes."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Quid homo cum dementia vivens in die Gratiarum Actionis facere potest?"
+    a: "Ei simplex et tutum munus date, quod cum viribus eius hodiernis conveniat: holera lavare, ius oxococci miscere, mensam sternere, mappulas complicare aut bellaria in patinam ponere. Postea vetera photographemata familiae una aspicite aut cantus notos canite. Maioris momenti est diei interesse quam quomodo munus perficiatur."
+  - q: "Debemusne adhuc magnum conventum familiae habere?"
+    a: "Solum si id facile sustineri potest. Turba et strepitus graves esse possunt, itaque multae familiae ad conventum minorem et simpliciorem, ad cenam maturiorem aut ad visitatores paulatim venientes se convertunt. Alzheimer’s Association curatores hortatur ut id solum faciant quod rationabiliter et tuto sustinere possunt."
+  - q: "Quomodo familiam parem, quae iam diu non visitavit?"
+    a: "Ante adventum eis dicite de mutationibus quas animadvertere possunt, et has ex morbo, non ex persona oriri. Rogate ne corrigant neve interrogent, ut singuli loquantur et tempus ad respondendum dent. Etiam prodesse potest, si homini quem curatis antea imagines hospitum ostenditis."
+  - q: "Quae dona feriata homini cum dementia viventi conveniunt?"
+    a: "Res simplices et tutae, quibus nunc frui potest: cibus gratus, lodix mollis aut vestis, musica nota, aut photographematum volumen familiae. Electronica complicata, instrumenta et ludos tabulares difficiles vitate. Eum participem facere in donando, exempli gratia donum involvendo aut crustula quae coquere adiuvit collocando, ipsum donum esse potest."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Dies festi memorias iucundas revocare possunt, sed etiam strepitum, turbam et mutationes consuetudinis cotidianae afferre. Homini cum dementia viventi celebrationes optimae plerumque minores, lentiores et circa ea aedificatae sunt, quibus adhuc frui potest. Haec consilia ad diem Gratiarum Actionis, Nativitatem Domini, Hanukkah, Annum Novum et dies natales familiae pariter valent.
 
-## How do I plan a calmer holiday?
+## Quomodo diem festum tranquilliorem parare possum?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+A consuetudine hominis incipite et diem circa eam disponite. [Alzheimer’s Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suadet ut celebratio mane potius habeatur, quia confusio et inquietudo saepe sub vesperum crescunt (quod interdum « sundowning » appellatur). Prandium festum aut ientaculum serotinum facilius esse potest quam cena tarda.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Magnitudinem aptam servate.** Conventus minor et simplicior, aut hospites paulatim venientes, saepe faciliores sunt quam una mensa frequens.
+- **Munera distribuite.** Propinquos rogate ut cibum afferant, emptiones faciant aut cum homine tempus degant dum vos coquitis. Plane dicite quid adiuvare possit.
+- **Ornamenta simplicia servate.** [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/holidays) notat luces micantes confusionem afferre posse, et dulcia aut fructus artificiosos ornandi causa positos pro cibo haberi posse.
+- **Decernite quid omittendum sit.** Si mos aliquis difficilis aut periculosus factus est, licet eum omittere aut quietiorem experiri.
 
-## What holiday activities can we do together?
+## Quas actiones feriatas una facere possumus?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Munera et oblectamenta eligite quae cum viribus hominis hodiernis conveniant. Maioris momenti est diei interesse quam quomodo res eveniat.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Mensam una sternite.** Primum patinas, deinde mappulas, tum pocula ponite. Mappulas complicare bonum munus est quod sedendo fieri potest.
+2. **Holera lavate et digerite.** Patatas eluere aut phaselorum extrema in mensa coquinae frangere multis, qui coquere solebant, tutum et notum est.
+3. **Miscete, commiscete aut in patinam ponite.** Ius oxococci miscere, massam simplicem commiscere aut crustula in patinam ponere manus occupatas tenet procul a foco et cultris.
+4. **Donum involvite.** Chartam et taeniam adhaesivam antea secate, et sinite hominem plicare et levigare. Non refert quam eleganter involvatur.
+5. **Pauca ornamenta suspendite.** Ornamenta infrangibilia et parvum locum unum eligite, ut coronam aut parvam arborem.
+6. **Rem simplicem manu facite.** Catenae chartaceae, collago ex foliis aut charta festiva cum sigillis bene conveniunt. Dux noster [de artibus et operibus manu factis](/activities/arts-and-crafts/) plura consilia praebet.
+7. **Canite et audite.** Cantus festi noti facile una canuntur, etiam ab eo qui nunc minus loquitur. Vide ducem nostrum [de musica](/activities/music/) ad seriem cantuum parandam.
+8. **Veteres imagines festorum aspicite.** Volumina photographematum ex celebrationibus pristinis proferte et ad narrandum invitate (« Narra mihi de hac mensa ») potius quam quaeratis quis sit quis. Dux noster [de reminiscendo](/activities/reminiscence/) explicat quomodo id faciendum sit.
+9. **Ludum lenem in grege ludite.** [Picture bingo](/games/picture-bingo/) paucis minutis imprimi potest et omnibus aetatibus convenit, et [conversation cards](/games/conversation-cards/) omnibus materiam colloquii praebent.
+10. **Una colorate.** Simplices [paginae colorandae](/games/coloring/) imprimi possunt, ut pueri et avi ad mensam una iis utantur.
+11. **Pelliculam festam gratam spectate.** Pellicula nota quietem affert, et licet partem eius tantum spectare.
+12. **Brevi itinere autocineti lumina aspicite.** Iter quietum praeter domos ornatas facilius esse potest quam eventus frequens.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Si coquina magnam partem vitae hominis habuit, dux noster [de muneribus domesticis ut actionibus](/activities/household-tasks/) plures modos praebet, quibus munera coquinae tuta et grata fiant.
 
-## How do I prepare guests?
+## Quomodo hospites parare possum?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Ante adventum hospitibus dicite quid exspectent, praesertim propinquis qui iam diu non visitaverunt. Alzheimer’s Association suadet ut explicetur mutationes memoriae et morum ex morbo, non ex persona oriri.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Pauca consilia simplicia communicate:** singuli loquantur, tempus dent ut cogitatio perficiatur, ne corrigant neve interrogent, et ad animum hominis respondeant si verba difficilia sunt intellectu.
+- **Dicite quid adiuvat et quid perturbat.** Si voces magnae, festinatio aut quaedam argumenta dolorem afferunt, id dicite.
+- **Hospites antea praesentate.** Homini quem curatis imagines eorum qui venturi sunt ostendite et unam aut duas historias narrate, aut brevem vocationem telephonicam vel per rete ante diem instituite.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Dux noster [de consiliis communicandi](/caregiving/communication-tips/) plura explicat.
 
-## What if it gets to be too much?
+## Quid si res nimis graves fiunt?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Ante adventum hospitum cubiculum quietum parate, procul a strepitu, cum rebus notis quae solacium afferunt, ut lodice grata, veste aut actione simplici. Id mature et saepe proponite: « Visne paulisper in loco quietiore sedere? »
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+A mensa discedere, maturius cubitum ire aut partem diei omittere bonus exitus est, non defectus. Si homo perturbatur, vox placida, cantus notus aut ambulatio in aliud cubiculum saepe plus adiuvat quam argumentatio. Dux noster [de inquietudine sub vesperum](/caregiving/late-day-restlessness/) plura consilia ad vesperum praebet.
 
-## How can family far away take part?
+## Quomodo familia procul habitans interesse potest?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Vocationes per rete sinunt propinquos interesse sine turba augenda. Alzheimer’s Association suadet ut vocationes aliquo modo ordinentur, exempli gratia cantus festos canendo, imagines ex celebrationibus pristinis communicando, eandem escam una coquendo aut eandem pelliculam festam eodem tempore spectando. Vocationes breves servate, et rogate ut singuli loquantur, quia voces simul missae difficulter intelleguntur. Dux noster [de vocationibus telephonicis et per rete](/activities/phone-and-video-calls/) consilia gradatim explicata praebet.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Si homo in loco curae memoriae habitat, rationem visitationum cognoscite et rogate ut operarii vocationem instituere adiuvent. Dux noster [de visitatione hominis in loco curae memoriae](/activities/visiting/) explicat quid afferendum sit et quomodo bene discedendum.
 
-## What gifts suit someone with dementia?
+## Quae dona homini cum dementia viventi conveniunt?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Dona simplicia et tuta, quibus nunc frui potest, plerumque optime conveniunt: cibus gratus, lodix mollis aut vestis lanea, musica nota, calendarium litteris magnis scriptum, aut album photographematum familiae. Alzheimer’s Association monet ut instrumenta periculosa, electronica complicata et ludi tabulares difficiles vitentur.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Donare tam magni momenti esse potest quam accipere. Crustula collocare quae homo coquere adiuvit, aut eum donum a vobis emptum involvere sinere, ei permittit tempori festo interesse. Ludus cum imaginibus familiae alia cogitatio est: [photo pairs](/games/photo-pairs/) paucas imagines selectas in ludum lenem parium in navigatro interretiali mutat.
 
-## Look after yourself too
+## Etiam vobis ipsis consulite
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Dies festi curam cotidianam graviorem faciunt. Sinite alium hospites accipere aut cibum parare, dicite non eventibus qui difficiles erunt, et respirate dum alii cum homine tempus degunt. Si vos aut is quem curatis aegrotat, manus mota ex aditu autocineti aut vocatio per rete visitationem bonam praebere potest. Dux noster [de cura sui ipsius curantium](/caregiving/caregiver-self-care/) plura auxilia praebet.

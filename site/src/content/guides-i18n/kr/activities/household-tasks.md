@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Cida fatobe cidawa am dementia-a kəlanzadəro"
+seoTitle: "Cida fatobe: cidawa am dementia-a kəlanzadəro"
+description: "Karewu tawadə, kazəmu karemtə, tebur dazəmtə, kuru cida kəla-a cidaa am dementia-a kəlanzadəro faidatə mbeji. Futu dazəmi, futu faltəmi, kuru futu amnzə kəliwodəmi."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Cida fatobe yakkəgən, misallo karewu tawadə, kazəmu karemtə, tebur dazəmtə,
+  tebur fatə, kəskə njia, kuru cida kəla-a cidaa banadən, kam dementia-a kəlanzadəro
+  fatodən bana cədinma ro fajin. Cida suro nozənadə kartə, faltəgə fal-falro
+  katə, awo kəjiro so kuru kausuwo so cində, kuru cidanzə «kalkallo» dioro
+  gənatənyi, amma awo cidanzədən nashadənatə faidajin.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Cida fatobe suro nozənadə kamro faidatə-a fatodəye kəlanzə-a manajinro banajin, adəye cidanzə futu kalkallo diodən ngəwu faidajin."
+  - "Cida dəgaima faltəgə fal-falro yaktə, guljinəro fəlle, kuru faltəgə kamro zauro waljənadə sirinlan səmowo."
+  - "Kəji, awo fatə cizayinma so, kuru «detergent pod»-so na kəliben roza, kuru cidanzə kəliwodən «stove knob cover»-a «automatic shut-off»-a faidatə."
+  - "Karewu tawadənadə kam fuwunzədən waltə tawadə mburo wajimnyi. Awo waltə dioma wajia, ngawo kamdə curuiro waltəne."
+  - "Cida laa hangal kənasarro waljia, faltəgə kəlan ngəlaaro faltə, səgai gade cidane, biya rokko kəlanzən napkəne."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Cida finso kam dementia-a kəlanzadəye banajinro mbeji?"
+    a: "Am ngəwu karewu tawajin, kazəmu karemajin, awo cida buibe karemajin, tebur dazajin, tebur fatajin, kazəmu fatə cizajin, fatodə fatajin, kəskə njia, biya cidaa kəla-a ciwuzajin. Cida kamdə burwon cədənadə kartə, kuru kərmaadəye cədinma-a kəltə. Ngawo daryero, kəlaa faltəgə fal kəltəgəro, misallo karewu fatə lambutə, kəlaajin."
+  - q: "Kam dementia-a kəlanzadə cidanzə kəliwodən banajinro kəliwo wa?"
+    a: "Kəliwo mbeji, amma kəlanzəro ngəlaaro kulasatə-a dazətə kalkallo-a. Kəji, awo fatə cizayinma so, kuru awo kausuwo so na cidanzəyen mbejinniro de, «stove knob cover»-a «automatic shut-off»-a faidatə, kuru kamdro cida kəliwoma de, misallo kəskə tultə, cidaa ciwuzə, biya tasa fərtə. Kausuwo cidanzəyen ci kəlanzən koltənyi."
+  - q: "Awowa kalkallo tawadənnyi biya hangal tərtənyiyaa, awi dimi?"
+    a: "Koltə. Niyatədə sawa rokko-a faidatə-a manazə-a, cidanzə kalkallo dioro gənatənyi. Awo shima waltə dioma wajia, ngawo kamdə curuiro waltəne, kamdə hangalnzə faltənadəro mananjinro."
+  - q: "Bana dioro wanjia, awi dimi?"
+    a: "«Aʼa» maananzə shima cidama zauro, hangal faltəjin, biya kərmaadə ləptənaro manajin. Dunonjinro. Cidaa ngəlaaro jarabtə, rokko naptəro bowone, biya loktu ngəlaa gaden waltə korə."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Am dementia-a kəlanzadə ngəwu saa ngəwu fatodə kulosəna, tadawa cizəna, biya na cidabea dazəsəna. Cida fatobe jirero banazəro bowotədə, «nyi kərma fatoyedə-a» maananzə cidawa gadero cədinma yitəngən. Warak adəye cida finso faidajinma, futu dazəmi, futu waktə faltəyiro faltəmi, kuru futu cidanzə kəliwobe-a na karewubedə kəliworo daptəmi bayanzəgən.
 
-## Why do everyday chores work well as activities?
+## Ndayin cida fatobe cidawa ngəlaro faidajin?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Cida fatobe faidajin, dalilnzə suro nozəna-a niyanzə bayin-a. National Institute on Aging cidawa yakkəgən, misallo tasa tultə, tebur dazəmtə, fatodə fatə, kazəmu fatə cizayintə, wasika karemtə, karewu tawadə, kuru awo faidatənma karemtə, [am Alzheimer-a kəlanzadəye cida yakkəgə-a cədinro mbejima](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lan suro tədənadən. Alzheimerʼs Association bayanzəna, cida tebur dazəmtəye gai, kamro [fatodəye kəlanzə faidatəma manazəro banajin](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Cida fatobe kəlanzən dalil baditəbe mbeji. «Karewu anyi banasəmidə wa?» gulzə adə, «Cida laa dio raamma wa?» gulzədən ngəlaaro amnzə «aa» manajin.
 
-## Which household tasks are good to try?
+## Cida fato finso jarabtəro ngəla?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Cida kamdə burwon cədənadəye lan badinə, kuru kərmaadəye ku cədinma-a kəltə.
 
-### Laundry and linens
+### Karewu-a awo fatobe-a
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Karewu-a «washcloth»-a tawadə.** Awo kərana, kəlanzə lambu-a tasa-a teburben yikke. Karewu tawadə ngəla: futu tawadə kalkal gənatənyi.
+- **Kazəmu karemtə.** Awo kəltənadə teburben fərtə. Kazo rotaa zauro waljia, launi indi biya yakkə gade so runon faidatə.
+- **Lambutə-a dəkkə.** Karewu teburbe, karewu kənəshimbe, biya karewu tasa tulinbe lambutə-a dəkkərin. Adə ngawo daryero, tawadə faltəgə ngəwuro waljiya, faidajin.
 
-### Table and kitchen
+### Tebur-a cidanzə kəliwo-a
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Tebur dazəmtə.** Na fal dazə misalro de, kuru kamdə adəgaidəro dio. Adə zauroa, awo fal-falro kinə: «Awo cida adə tasa dəgaimaro.»
+- **Awo cida buibe karemtə.** «Fork», cokali, kuru kəji bərəmnyia tasa-a kəltə, kuru na karemtəbero yikke. Kəji kəjiso cində.
+- **Tasa fatə.** Tasa namzənyi-a karewu lambu-a adəgaidə cida kəliwoma.
+- **Tebur biya «counter» fatə.** Karewu njia-a na bayin-a. Alzheimerʼs Association shawari cin, kam laa teburro muskonzəye fatəgənadəro, karewu-a tiro kinəmia, kəla hangal faltənadə cida faidatəmaro waltəgəro.
 
-### Around the house
+### Fatodən
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Kazəmu fatə cizayintə.** Awo kazəmu fatə cizayinma lambu-a na duno ngəwu gade-a, misallo tebur kərana biya na kitawube-a.
+- **Wasika karemtə.** Wasika faidabawo-a mujallawa-a karemtəro: roza, na gadero yikke, biya ngawo karəŋa. Wasika kəmowube-a cek-a na gaden roza.
+- **Awo faidatənma karemtə.** Gasa, kwalba, kuru warak fatənadə tasa gade-gadero yikke.
+- **Fatə.** Fato cin biya cidanzə kəliwo-a fatəgəro «broom» gana-a, dazənzə kəliwoa.
+- **Kəskə njia.** Awo njibe kərana, lambu-a kəskə gade na kuruwuyen-a.
 
-### Simple cooking with supervision
+### Cida kəla ngəla kəlanzə kulasatəben
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Cidaa kəla-a kamro hangal ngəla ngəwu suro cizəgəro walzəyin. NIA bayanzəna, kamdə awo cidabe samzə, luwuzə, kəltə, kuru fizəro, biya kam gadero cida kəla ngəlaro curozəro koltə. Cida ngəla so:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- kəskə tultə biya taduwa tultə
+- cidaa ciwuzə biya salat kəba ciwuzə
+- kəskə letus namzə
+- burodiro bota kəji bərəmnyi-a yirtə
+- kuki tasa-a ben dazə
+- pizza ben awo kəla-a dazə
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Luwutə zauro waljia, Alzheimerʼs Association bayanzəna, nyi luwutədə tamone, kuru faltəgə gade, misallo ciwuzə, kamdro de.
 
-## How do I set up a chore so it goes well?
+## Futu cidanzə dazəkkiya ngəlaro waltəgə?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Loktu kalkallo kartə.** Loktu kamdə ngəwu tusu-a hangalnzə kəliwo-a ro kartə. Am ngəwuro adə suwa.
+2. **Nadə fatə.** Cida fal, na fal, teburben awo gade bawo.
+3. **Bowone, amarnyi.** «Karewu anyi banasəmidə wa?» gulzə adə, «Kərma karewu tawadəye loktu» gulzədən ngəla.
+4. **Buro fal fəlle.** Karewu fal sirinlan tawe, kuru gade dəgaimadə de. Fəllətə gulzədən ngəlaaro bayin.
+5. **Faltəgə fal-falro de.** Amari ngəwu loktu falnza kamro zauro walzəyin. Faltəgə fal dajintəro ngawo gade manəne.
+6. **Na falnza cidane.** Na falnza cida kəltə adə rokko manajin, kulasatə gənatənyi.
+7. **Cidaa manane, awowa tamotənadə gənatənyi.** «Adəgaidə shawa lambu» biya «Futu karewu fuwumdəyen na karewube dazəmiro raamma?» gulzə adə mana cizəgəro bowojin, kamma jarabtənnyi.
 
-## How do I adapt chores as abilities change?
+## Kərma faltəgənzə faltəyiro, futu cidawa faltəkki?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Kərma cidaa wakta-a yakkəgən kuru yimbi-yimbiro faltəyin. Alzheimerʼs Association shawari cin, kərmaadə ngawo daryero cizəyiro, cidawa ngəla-a kəltəgəro-a ro lewone.
 
-| If this has become hard | Try this instead |
+| Adə kərmaadəro zauro waljiya | Adəgaidə jarabtə |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Karewu kura tawadə | Karewu gana tawadə biya karewu teburbe lambutə |
+| Tebur sammaa dazəmtə | Na naptə dəgaimaro karewu fal dazə |
+| Wasika kəla-gadero karemtə | Wasika sammaa dəkkə falro yikke |
+| Cida kəla jagaitə | Ciwuzə, biya naptə-a tamtə-a sa nyi cidəmintən |
+| Fato sammaa fatə | Tebur gana fal fatə |
+| Cida sammaa dio | Rokko naptə-a kuru cidəmintə sa na kəlanzən naptə-a |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Kuru kurumadə kəltəgə. NIA bayanzəna, am laa kurumaro kasad cizayin, adəma cidanzədən nasha adinma ngəla.
 
-## How do I keep household tasks safe?
+## Futu cida fatobe kəliworo dekkə?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Kəliwo adə kərmaaye burwoyedə, ngaltema cidanzə kəliwodən. NIA ye [kuli kəliwobe shawarinzə Alzheimer kulasama ro](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) lan suro tədənadən:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Awo fatə cizayinma, «laundry detergent pod»-so suronzən, adəgaidə tamtəmaro caruiro walzayin, kəliben roza biya cində.
+- Kəji, makasi, kuru awo cidabe dunobe so na kəliben roza.
+- Cidanzə kəliwoben «stove knob cover»-a «automatic shut-off»-a yikke.
+- Alama «Dane» biya «Zauro kausu» cidanzə kəliwobe, «toaster»-a «iron»-a kəriwunzəyen de, amma kənnu ciwuzənnyi.
+- Nji kausu luwutə 120°F ro de, kənnu kasharro kasartəgəro.
+- Taduwa jirenyi-a awo tamtəmabe kəskəbe-a cində, adəgaidə tamtəmaro caruiro walzayin.
 
-A few more practical habits help:
+Adaa adabe ngəwu gade so banajin:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Kausuwo, cidanzə kəliwo, biya awo kəji-a cidaa faidatəyinma sa dəgaima, fatodə kəlanzən napkəne.
+- Tasa fatə-a tebur dazəmtə-a lan tasa namzənyi faidatə.
+- Fatə biya fatə njia sa, cidiyaram fatə-a bayin-a ro koltə.
+- Kamdə burwon awo cidabe faidatənaa, Alzheimerʼs Association bayanzəna, awo kəliwobawo cidabe nadəyen cində, cida kəliwoma, misallo kəskə gana sasartə, kərmaadən cədinro.
 
-## What if they do it "wrong"?
+## Awowa «kalkallo» cədənnyiyaa, awi dimi?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Koltə. Karewu yakkəro tawadəna, indiro tawadənnyi yaye, karewu tawadənama. Alzheimerʼs Association bayinna: faidatəmadə sawa rokko-a kamdə faidatə manazə-a, karewu kalkallo tawadənaro gənatənyi. Awo shima waltə dioma wajia, ngawo kamdə curuiro waltəne.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Loktudən faltənzə faltə adə, cida ngəlamadə awo faccənadəro taktərjinro walzəyin. «Useniya, adə bana kura» manazə adə ngəwu loktudən kalkal.
 
-## When should we stop?
+## Sawi dane?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Hangal kənasar, kəlata, biya kasada faduwuro ruuida, dane biya faltə. Gafalta dazə adə awowa kalkal, faccətə gənatənyi. Nyi:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- faltəgə ngəlaaro gadero faltəyin
+- awo tusuma, misallo kəla biya kafe-a, ro lewoyin
+- ngawo biya yimbi gaden waltə jarabtəyin
+- biya rokko kəlanzən naptəyin
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Kamdə «aʼa» manajia, dunonjinro. [«Aʼa» manajiya futu dimi](/caregiving/when-they-say-no/) kurunə, futu hangal lambulan jaawu kintə.
 
-## Low-effort extras for a quieter moment
+## Awo ngəla gade loktu tusumaro
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Cida kəla tima dio waljiya, karemtə-a kazo rotaa-a naptənadən cədin. [Sort Together](/games/sort-together/) lan fotowa tasa cidanzə kəliwobe biya kəskəbebero yikkəmi, kuru [Picture Pairs](/games/picture-pairs/) foto kura-a loktu gənatənyi-a bawo, kazo rotaa cidawa ngəla. [Conversation Cards](/games/conversation-cards/) lan koro fato-a yalwa-a manabe mbeji, cidanzə ngawo kafe-a tənadən ngəlaro faidajin.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Cidaa yimbi kəlanzəro dazəgəro bana mbejiya, andeye shawarinza [yimbi tusuma dazəgə](/activities/daily-routine/) kurunə. Futu ngawo daryero cidawa gade mbejiya, [cidawa ngawo daryebe](/activities/middle-stage/) kurunə.

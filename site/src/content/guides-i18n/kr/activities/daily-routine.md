@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Kulle yimbi kam dementia-a dəganama ro"
+seoTitle: "Kulle yimbi kam dementia-a dəganama ro"
+description: "Kulle yimbi misal kam dementia-a dəganama ro, kəmbo, cidawa-a kasutu-a kuru cidawa gade-a, futu nəmmin dəmi kuru yimbi kuttu-a faltə."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Kulle yimbiye cinowo, kəmbo, kəla ngəla kənzə-a bunowo ro loktu falro
+  kəltin, cidawa kura kam də ye loktu shi ngalwo ro gozin, kuru cidawa-a
+  kasutu-a kalkalro kəltin. Kam də ye ada dunyanza nasha lan badine, yimbi
+  də sambiso yaye kəmbu yaye, kawu bəlawuro kənzə-a kəla cistəgə-a yimbi
+  bəlawuro go, kuru yimbi kawu sandiya yaye lan faltə.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Loktu fal cinowo, kəmbo, kəla ngəla kənzə-a bunowo ro, yimbi də ro fasal notəna cizin."
+  - "Cidawa kura də loktu kam də ye ngalwo ro go."
+  - "Loktu samma kəmbunəmi yaye. Kasutu-a naptə-a kulle yimbi dəye bawo."
+  - "Nur kangal, kəla cistəgə yimbi bəlawuro, kuru kausu kura kajiri-a kausu tuwa kajiri-a koltə, kajiri dareram ngalwonzə banazayin ro banaajin."
+  - "Kulle yimbi shawari, doka gana. Kawu kuttua lan faltə, kəskənə, au koltə."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Ndayin kulle yimbi kam dementia-a dəganama ro faidajin?"
+    a: "Yimbi notəna ye shawari-a ajabba-a gana cizin, adəye am dementia-a dəganama laa ro kəla kənashim cizin. Alzheimer's Association ye gulzəna yimbi notəna ye loktu awo dimiwa ro kərtənə gana cizin, kuru loktu laa awo nandi sandiya ro dimiwa ro cizin. Adəye kəla nzəkko maji ro banazayin."
+  - q: "Kulle yimbi ngəla kam dementia-a dəganama ro futu?"
+    a: "Kulle yimbi faltilo kalkal dəgayi. Ngəla ye cinowo, kəmbo-a bunowo-a loktu falro gozin, kəla ngəla kənzə-a cidawa kura-a loktu kam də ye ngalwo ro gozin, kangal bawo au windo cinro loktu cizin, kuru kasutu ro loktu koljin. Kam də ye futu dunyanza dəgana lan badine."
+  - q: "Kam dementia-a dəganama ye kausu kangal bawo ro diwo wa?"
+    a: "Kasutu gana, kəmbo kajiri ngawo, faidajin. National Institute on Aging ye kausu kura-a kausu tuwa kajiri-a koltə ro shawari cizin, dalilnzə kəla bənatə au kənashin ngəla bawo ye kajiri dareram ngalwonzə banazayin. Kənashin də jamiya, litarinza-a manə."
+  - q: "Shi kulle yimbi də ga ro wadə?"
+    a: "Kərma kolne, ngawo au futu gade lan jarabtə. Garo wadə maana nzə kəla bənatə, dondi, karwu au shi dabbargayi. Kulle yimbi də yimbi də ngəlawo ro tədin, adəro tilasro dimi yaye."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Kulle yimbi ye yimbi də ro fasal notəna cizin: cinowo, kəmbo, cidawa gana, kasutu, kuru bunowo loktu falro. Shawari-a ajabba-a gana cizin, kuru loktu awo dimiwa notəmiyo ro shawari nəmbo. Kulle yimbi cidiyadə misal, doka gana. Shawariro faidatə, kuru kam nəm nzəkko ro kulashima ye ada nzə lan faltə.
 
-## Why does a daily routine help?
+## Ndayin kulle yimbi faidajin?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Kulle yimbi faidajin dalilnzə ada notəna ye ada bəlinro ngəla. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ye gulzəna yimbi notəna ye loktu awo dimiwa ro kərtənə gana cizin, kuru loktu awo kəji ro dimiwa ro cizin, kuru loktu fal cinowo-a bunowo-a kənashin lan-a kajiri dareram ngalwonzə-a ro banazayin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ye kasala, kazəmu kəndo-a kəmbo-a loktu falro diwo ro shawari cizin, kuru [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ye ada fal kəltəro shawari cizin.
 
-## A sample gentle day
+## Misal yimbi kulle
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Loktuwa də misal bas. Yimbi samma fəle au ngawo kam də ye adanza lan kalkalro go.
 
-| Time | What happens | Ideas | On a harder day |
+| Loktu | Awo tədin | Shawariwa | Kawu kuttu ro |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | Cinowo, kəla ngəla, kazəmu kəndo | Yimbi bəlawuro ada fal; kazəmua fuwu kəndowanzə ro go | Kəla ngəla də ngəlaro diwo; kamis bəlin məradə |
+| 8:45 a.m. | Kəmbo launzə | Kawa kuru jarida kura lan karatə, au rediyo | Rokko kəmbo bui, manano tilas ba |
+| 9:30 a.m. | Cidawa kura | Kazəmu kəliwo, kəmbo kənzə, bagar, balbal gana au lele | Gana diwo, au shi sədin ro rui |
+| 10:30 a.m. | Loktu kulle | Kida, suro kura au windo cin napkənə | Kursi kənzəm lanzə ro napkənə |
+| 11:00 a.m. | Kəmbo kajiri ro bana | Kaskari tuluwu, tebur go | Nyiro kəmbo yende; shi rokko naptə |
+| 12:00 p.m. | Kəmbo kajiri kuru ngəlaro diwo | Tebur furtə, tasa gana futo | Cidawa fato də koltə |
+| 1:00 p.m. | Kasutu gana | Si ngawon, kida kulle | Kalmanzə |
+| 2:00 p.m. | Kangal bawo au cidawa kəla ye | Lele, baranda ro napkənə, kəskə njia, balon firtə | Windo nur kəndo cin napkənə |
+| 3:00 p.m. | Am-a rokko au cidawa kəla nzə ye | Isaro, bowotə, [picture pairs](/games/picture-pairs/), rəng kənzə, kartawa | Rokko nasha-a kəmbo gana-a |
+| 4:30 p.m. | Loktu naptə | Labul kərtə, fatǝla waatə, cidawa kulle misallo tawul gana kəliwo | Kida notəna, karəgə gana |
+| 5:30 p.m. | Kəmbo dareram | Kəmbo ro banatə au tebur go | Kəmbo ngəla notəna |
+| 6:30 p.m. | Kajiri rokko | Kəmbo ngawo awo ngawo ro manano, kartawa, fidiyo kənzəm, mukko ngəlaro diwo | Rokko kulle |
+| 8:00 p.m. | Bunowo ye ada nzə | Kasala au tuluwu, kazəmu buno, kida kulle, fatǝla gana | Samma kəskənə; kəla kənashim də burwo |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Misal adə Alzheimer's Association ye misal yimbi nzə ye burwo-a dawunzə-a ro sədin: kəla ngəla-a kəmbo launzə-a lan badinə, cidawa fato, lele, kida, kasutu-a isaro-a ro lejin, kuru kəmbo dareram, awo ngawo ro manano-a bunowo ro dabbartə-a ro kərtəjin.
 
-## How do you build your own routine?
+## Futu kulle yimbinəm dəmi?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Kam də ye futu dunyanza dəgana lan badine, tablowa lan gana. Alzheimer's Association ye awo ani ro kərtə ro shawari cizin yimbi dəmin kawu:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Awo shi raana-a raagayi-a, dunonza-a kuru awo kənzəmma-a.**
+- **Futu yimbi nzə dəgana.** Kam bərni cinowo laa ye kiri kənzəmbe lejogana, kərma ye bərni lejo. Kam bune cidajin ye 8:00 a.m. raagayi.
+- **Loktu shi ngalwo.** Kasala, balbal-a cidawa kura-a nadən go.**
+- **Loktu məradə** kəmbo, kasala-a kazəmu kəndo-a ro, awo tilasro tadin yaye.
+- **Loktu fal cinowo-a bunowo-a.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Maji ye cidawa fato, kəmbo, kəla ngəla, cidawa kəla nzə ye, cidawa kəla ye, am-a rokko, addini lan cidawa-a loktu ba gade-a, misallo sawa bawo isəna-a, rokko ro shawari cizin.
 
-### Try it for a week, then adjust
+### Mbeji fal jarabtə, kuru faltə
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Kawu bəlawuro awo gana ruwo. Alzheimer's Association ye koro: cidawa fin ngəla kuru ndayin, loktu laa cidawa ngəwu au cidawa gana mbeji wa, kuru loktu ba gade də kəji au karəgə cizəna wa. Awo cidajin go, awo cidagayi faltə.
 
-### Make it visible
+### Kuru fulejin ro diwo
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Kam də ye karatu kərma ye, yimbiwa ro allon kura au katapa kura lan rubə kəla kənashim cizin. Gana kolne: «Kəmbo launzə. Sarah-a rokko lele. Kəmbo kajiri. Kasutu.» Am laa yimbiwa kuren asuyen ro karəgə cizin; Family Caregiver Alliance ye yimbiwa də loktunza isəyin maa asunəmi yaye ro shawari cizin.
 
-## How to adapt the routine
+## Futu kulle yimbi də faltə
 
-### Leave room to breathe
+### Loktu naptə ro kolne
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Loktu samma kəmbunəmi yaye. Alzheimer's Association ye kam də ye cidawa-a kasutu-a kalkalro məradənzə, kuru kasutu ngəwu məradəjin ro manajin. Boro, hangalnzə au kəla nzə bannatə maa, cidawa faltə au napne.
 
-### Protect the late afternoon
+### Kajiri dareram kəla
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Am ngəwu kajiri dareram isəyin lan ngalwonzə banazayin. NIA ye kangal bawo au windo cinro nur kangal ro loktu, yimbi bəlawuro kəla cistəgə amma ngəwu yaye, kausu tuwa-a njia kəji-a kajiri koltə, kuru kausu kura kajiri koltə ro shawari cizin. Am laa ye kajiri isəyin kawu labul kərtə-a fatǝla waatə-a faidajin. [Kajiri dareram ngalwo](/caregiving/late-day-restlessness/) kuru [kənashin](/brain-health/sleep/) rui.
 
-### Change it as needs change
+### Məradə nzə faltəyin lan faltə
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Burwo naptəram:** yimbi də rokko planne. Kam də ye rubə yimbiwa shi kəlanzə məradəjin.
+- **Dawunzə naptəram:** nyi ye ngəwu kəlane. Cidawa gana, kasutu ngəwu kuru cidawa fato notəna; [dawunzə naptəram ye cidawa](/activities/middle-stage/) rui.
+- **Darye naptəram:** yimbi də kəla kənashim, kəmbo-a kəla nzəkko-a ro waljin, dawunzən cidawa səsə gana misallo kida au mukko ngəlaro diwo; [darye naptəram ye cidawa](/activities/late-stage/) rui.
 
-### Vary the activities, not the frame
+### Cidawa faltə, fasal də gana
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Kəmbo, kasutu-a bunowo-a kalkalro kolne, dawunzən cidawa gade faltə. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ye kawu gade lan cidawa gade jarabtə ro shawari cizin. Litirin kəmbo yende, Talawu bagar dəme, kuru Laraba suroa rui. Andeye [cidawa shawari 101](/activities/ideas/) kuru [cidawa fato](/activities/household-tasks/) loktuwa də kəmbu ro banazayin.
 
-## When the day goes sideways
+## Yimbi də kalkalro letəgayi sa
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Kawu laa yimbi samma ga bawo. Dondi, bune kənashin ngəla bawo, lita ro isə au dunya faltəna ye samma bannazayin. Yimbi də kolne, awo məradə bas (kəmbo, nji, kasutu, kəla kənashim) diwo, kuru bali jarabtə. Kam də ye awo ro wadə maa, [shi wadə sa](/caregiving/when-they-say-no/) rui. Yinpalle kulle rokko, misallo [calm breathing](/games/calm-breathing/), nandi yindi ro banazayin.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Nəmmin kulle yimbinəm ye faidaa. Nəmmin ro loktu kasutu go, kuru am fado au bana kəla nzəkko ro loktu koltəro gulne. [Kəla nzəkko ye kəlanzə nzəkko](/caregiving/caregiver-self-care/) rui.

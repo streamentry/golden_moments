@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Ieiunium intermittens et dementia: quid studia dicant"
+seoTitle: "Ieiunium intermittens et dementia: quid studia dicant"
+description: "Argumenta humana de ieiunio intermittenti et dementia pauca sunt et prima. Cognoscite pericula senioribus et cur satis edere cum dementia plus valeat."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Nulla bona argumenta sunt ieiunium intermittens dementiam prohibere aut
+  tardare. Magna pars investigationum in animalibus fit, et studia humana in
+  senioribus parva et brevia sunt. Ieiunium senioribus periculosum esse potest:
+  amissio ponderis et musculorum, humilis sacchari gradus in sanguine cum
+  quibusdam medicamentis diabetae, dehydratio et casus. Hominibus cum dementia
+  viventibus satis edere et bibere plerumque maior cura est. Prius cum medico
+  loquimini.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Institutum Nationale de Senectute (National Institute on Aging) dicit non satis argumentorum esse ut ullum ieiunii aut restrictionis caloricae victum commendet, praesertim senioribus."
+  - "Magna pars investigationum de ieiunio et senectute ex animalibus venit, et ea eventa non necessario hominibus conveniunt."
+  - "Pericula possibilia senioribus sunt involuntaria amissio ponderis, amissio musculorum, humilis sacchari gradus in sanguine cum quibusdam medicamentis diabetae, dehydratio, vertigo et casus."
+  - "Homines cum dementia viventes saepe obliviscuntur edere aut bibere, aut putant se iam edisse. Eos adiuvare ut satis edant et bibant plerumque multo plus valet quam quo tempore edant."
+  - "Nolite ieiunio uti pro homine cum dementia vivente. Cum medico aut diaetista perito loquimini ante quamlibet mutationem consuetudinis edendi."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Num ieiunium intermittens morbum Alzheimer prohibet?"
+    a: "Nulla bona argumenta sunt id fieri. Magna pars investigationum in animalibus facta est, et probationes humanae plerumque breves fuerunt, in adultis iunioribus aut pinguibus, et ad amissionem ponderis spectaverunt. Institutum Nationale de Senectute (National Institute on Aging) dicit non satis argumentorum esse ut victus ieiunii publico commendentur."
+  - q: "Num ieiunium intermittens senioribus tutum est?"
+    a: "Fortasse non est. Ieiunium ad involuntariam amissionem ponderis et musculorum, dehydrationem, vertiginem et casus ducere potest, et gradum sacchari in sanguine periculose demittere potest in hominibus qui insulinum aut quaedam alia medicamenta diabetae sumunt. Mayo Clinic dicit id fortasse non aptum esse hominibus qui magno periculo amissionis ossium et casuum sunt. Cum medico loquimini antequam id temptetis."
+  - q: "Debetne homo cum dementia vivens ieiunium temptare?"
+    a: "Non. Homines cum dementia viventes saepe difficultatem habent satis edendi et bibendi, et mala nutritio indicia morum augere et amissionem ponderis efficere potest. Ieiunium periculum addit sine utilitate probata. Potius ad cibos regulares, parvas gustationes quas amant et satis potus intendite."
+  - q: "Quae sunt signa hominem cum dementia viventem non satis edere aut bibere?"
+    a: "Animadvertite amissionem ponderis, vestes laxiores, lassitudinem, infirmitatem, constipationem aut cibum recusatum. Signa dehydrationis ab Instituto Nationali de Senectute (National Institute on Aging) memorata sunt os siccum, vertigo, celer pulsus cordis et hallucinationes. Medico eius dicite, si haec animadvertitis."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Ieiunium intermittens, exempli gratia edere solum intra spatium octo horarum aut calories duobus diebus in hebdomade valde minuere, multam attentionem accipit, et quidam articuli suggerunt id fortasse cerebrum protegere posse. Si senior estis, aut hominem cum dementia viventem curatis, haec sunt quae investigationes re vera ostendunt, et cur cautio necessaria est.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Haec sunt informationes generales, non consilium medicum. Nolite ieiunium incipere, nec mutare quomodo is quem curatis edit, nisi prius cum medico aut diaetista perito loquimini. Vide nostrum [monitum medicum](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Num ieiunium intermittens dementiam prohibet?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Nulla bona argumenta sunt ieiunium intermittens dementiam prohibere aut tardare. Institutum Nationale de Senectute (National Institute on Aging, NIA) dicit non satis argumentorum esse ut ullum genus victus cum restrictione calorica aut ieiunio commendetur, et multo plura discenda esse de eorum efficacia et tutela, praesertim in senioribus ([NIA de restrictione calorica et ieiunio](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Cur argumenta tam pauca sint
 
-The NIA gives several reasons:
+NIA plures causas dat:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Plurima studia in animalibus fiunt.** Investigationes in vermibus, muscis, muribus et simiis eventa notabilia protulerunt, sed haec inventa non necessario hominibus conveniunt. Etiam in animalibus eventa mixta sunt; in quibusdam generibus murium restrictio calorica vitam breviorem fecit.
+- **Probationes humanae breves fuerunt.** Plurimae paucas hebdomades aut menses duraverunt.
+- **Plurimae probationes humanae ad amissionem ponderis spectaverunt** in adultis pinguibus, non ad memoriam aut dementiam.
+- **Seniores raro includuntur.** Multae probationes homines sexaginta annorum aut iuniores receperunt.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Recognitio systematica anni 2026 ieiunium intermittens in adultis sexaginta annorum et maioribus proprie spectavit. Invenit argumenta in hoc aetatis grege adhuc pauca esse, cum studiis parvis, brevi observatione et formis mixtis. Inventa de cogitatione et memoria ex singulis studiis venerunt, non ex eventis probationum coniunctis. Recognitio etiam notavit aliqua studia brevissima edendi spatia aut longa ieiunia cum peioribus eventibus coniunxisse, et auctores cautionem senioribus suaserunt ([recognitio anni 2026 in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Nonnulli investigatores putant mutationem corporis ad adipem urendum durante ieiunio cerebrum afficere posse, sed hoc adhuc est opinio quae investigatur. NIA dicit scientiam incertam esse.
 
-## What are the risks of fasting for older adults?
+## Quae sunt pericula ieiunii senioribus?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Ieiunium non est experimentum innocuum multis senioribus. Pericula possibilia sunt:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Involuntaria amissio ponderis.** Minus edere quam corpus postulat ad amissionem ponderis et minorem vim musculorum ducere potest, quod hominem infirmiorem facere potest.
+- **Amissio musculorum et ossium.** In probatione biennii a NIA adiuta de restrictione calorica in adultis iuvenibus et mediae aetatis, participes leves deminutiones densitatis ossium et massae corporis sine adipe habuerunt.
+- **Humilis sacchari gradus in sanguine cum medicamentis diabetae.** Homines qui insulinum aut quaedam alia medicamenta diabetae sumunt gradum sacchari in sanguine nimis demittere possunt, si cibos omittunt aut differunt, secundum [Institutum Nationale Diabetae et Morborum Digestivorum et Renum (National Institute of Diabetes and Digestive and Kidney Diseases)](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Humilis sacchari gradus vertiginem, confusionem et irritabilitatem efficere potest.
+- **Dehydratio.** Si potus una cum cibis omittuntur, homo dehydrationem pati potest.
+- **Vertigo et casus.** Mayo Clinic dicit ieiunium intermittens efficere posse ut homines valde fessi et vertiginosi sentiant, et id fortasse non esse salubrem modum hominibus qui magno periculo amissionis ossium et casuum sunt ([Mayo Clinic de ieiunio intermittenti](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Alii effectus.** Mayo Clinic etiam dolores capitis, mutationes animi et constipationem memorat, et notat aliqua argumenta esse ieiunium sedecim horarum cum spatio edendi octo horarum periculum morbi cordis augere posse, si cum aliis spatiis edendi comparatur. Haec argumenta nondum certa sunt.
 
-## Why is eating enough the bigger concern with dementia?
+## Cur satis edere maior cura est cum dementia?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Hominibus cum dementia viventibus, problema usitatum est **satis** cibi et potus accipere, non nimium. Associatio Alzheimer (Alzheimer's Association) explicat homines in mediis et posterioribus gradibus electionibus cibi obrui posse, oblivisci edere, aut putare se iam edisse. Addit malam nutritionem indicia morum augere et amissionem ponderis efficere posse ([Alzheimer's Association de cibo et edendo](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Societas Alzheimer (Alzheimer's Society) notat non satis edere ad amissionem ponderis, minorem vim musculorum, lassitudinem et infirmitatem ducere posse, quod hominem infirmiorem facit et minus aptum ad se ex infectionibus recipiendum ([Alzheimer's Society de appetitu](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**His de causis, ieiunium non est bona idea homini cum dementia viventi.** Cibi omissi facile fieri possunt cibi omnino non sumpti. Quaelibet mutatio in modo quo homo cum dementia vivens edit a medico eius aut diaetista perito duci debet.
 
-## What are the warning signs of poor eating or drinking?
+## Quae sunt signa monentia mali edendi aut bibendi?
 
-Watch for:
+Animadvertite:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Amissionem ponderis**, aut vestes laxius sedentes.
+- **Cibum relictum aut cibos recusatos**, aut cibum in ore retentum.
+- **Lassitudinem aut infirmitatem.**
+- **Constipationem**, quae cum victu et dehydratione coniungi potest.
+- **Signa dehydrationis.** NIA os siccum, vertiginem, celerem pulsum cordis et hallucinationes memorat, quae etiam a dementia ipsa effici possunt ([NIA de communibus quaestionibus medicis](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Appetitus malus multas causas possibiles habet: dentes dolentes aut denturas laxas, nova medicamenta, depressionem, constipationem, minorem actionem, aut mutationes in gustu et olfactu. De quolibet horum signorum medico hominis dicite. Causam quaerere possunt et fortasse diaetistam aut supplementa suadere.
 
-## How can you help someone eat and drink enough?
+## Quomodo hominem adiuvare potestis ut satis edat et bibat?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Parvos cibos et gustationes saepe offerte**, potius quam tres magnos cibos.
+- **Cibos dilectos praebete**, et flexibiles estote cum gustus mutantur. Cibi dulces grati esse possunt si appetitus parvus est; medicum rogate si sunt causae valetudinis ad saccharum limitandum.
+- **Potus in promptu tenete** et parvos calices per diem offerte. Iuscula, fructus, potiones mixtae et potiones lacteae etiam numerantur.
+- **Una edite** cum potestis. Cibi sunt occasio societatis, non munus festinandum.
+- **Cibos manu sumendos temptate**, sicut pastilla fartilia, segmenta fructuum aut frusta pulli, si utensilia difficilia facta sunt.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Noster [dux de victu](/brain-health/diet/) plura consilia de tempore edendi habet. In cibo parando adiuvare etiam potest esse iucunda actio communis; vide [opera domestica](/activities/household-tasks/).
 
-## Talk with a doctor
+## Cum medico loquimini
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Antequam ullum consilium ieiunii ipsi temptetis, cum medico vestro aut diaetista perito loquimini, praesertim si medicamenta pro diabete aut pressione sanguinis sumitis, nuper pondus amisistis, aut casus passi estis. Pro homine cum dementia vivente, medicum eius rogate quantum cotidie edere et bibere debeat, potius quam de ieiunio.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Auxilium medicum subitum quaerite propter subitam confusionem, animi defectionem aut signa sacchari in sanguine valde humilis quae cito non meliora fiunt.

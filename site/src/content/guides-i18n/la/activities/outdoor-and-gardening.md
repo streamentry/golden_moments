@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Foris et in horto: actiones pro hominibus cum dementia"
+seoTitle: "Hortus et actiones foris pro dementia"
+description: "Consilia de horto et actionibus foris pro hominibus cum dementia viventibus, cum lectis elatis, hortis in vasis et monitis de calore, sole et erratione."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Horticultura et tempus foris possunt esse placida et nota actio homini cum
+  dementia viventi. Conare plantas rigare, herbas in vasa serere, flores
+  marcidos demere aut brevi spatio in saepto horto ambulare. Utere lectis
+  elatis aut mensa, ne quis genibus niti debeat; evita instrumenta acuta et
+  plantas venenatas; foras exi tempore diei frigidiore et semper cum homine
+  mane.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Simplices operae in horto, ut rigare, semina serere, herbas olfacere et flores carpere, stando aut sedendo fieri possunt."
+  - "Lecti elati, vasa et mensa tecta hortum ad altitudinem coxae adducunt et periculum cadendi minuunt."
+  - "Evita instrumenta acuta, plantas spinosas aut irritantes et omnia venenata. Observa ne humus pro cibo habeatur."
+  - "Calor senioribus periculosus esse potest. Foras exi mane aut vespere, aquam et umbram para, et statim intra domum redi, si primum molestiae signum apparet."
+  - "Multi homines cum dementia viventes aliquando errant. Foris semper cum homine mane et recentem photographiam atque documentum identitatis praesto habe."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Quas actiones in horto homo cum dementia agere potest?"
+    a: "Plantas rigare, semina in parva vasa serere, herbas olfacere et tangere, flores marcidos demere, holera carpere, flores sectos disponere et semitam verrere bonae sunt electiones. Intra domum, vas herbarum in fenestra aut tabula humi in mensa tecta bene convenit. Elige operam ex iis, quae homo antea amabat et nunc commode facere potest."
+  - q: "Quomodo eum hominem, cui curam praebes, in calore tutum servo?"
+    a: "Tempus foris mane aut vespere, cum frigidius est, constitue, breve serva et aquam saepe offer. Elige umbram, petasum lato margine, vestes leves et laxas atque cremam solarem. Seniores maiore periculo morbi ex calore afficiuntur, et confusio, vertigo aut nausea signa monentia esse possunt; itaque intra domum redi et statim refrigera, si ea animadvertis."
+  - q: "Quomodo foras ire possumus, si homo errare solet?"
+    a: "Toto tempore cum homine mane, saepto horto aut area cum porta obserata utere, et fac ut homo armillam identitatis gerat aut documentum identitatis secum ferat. Recentem photographiam praesto habe. Si homo non invenitur, consociatio Alzheimer monet ut 112 voces, si intra 15 minuta non repertus est."
+  - q: "Quid, si hortum non habemus?"
+    a: "Pauca vasa in porticu, arca in fenestra aut tabula herbarum in mensa coquinae satis sunt. Etiam hortos publicos aut hortum communem visitare potes. Foris sedere et aves audire quoque actio foris est."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Multis hominibus hortus est unus ex locis notissimis. Fodere, rigare et flores carpere utuntur artibus iam pridem doctis, et esse foris aerem recentem, lucem solis et cantum avium affert. Institutum Nationale de Senectute inter actiones, quibus homines cum morbo Alzheimer frui possunt, numerat curam plantarum, sationem florum et holerum atque [sermonem de modo quo plantae crescunt](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Haec pagina ostendit quid temptare possis, quomodo hortum faciliorem reddas et quomodo tuti maneatis a calore, sole et erratione.
 
-## What outdoor and gardening activities work well?
+## Quae actiones foris et in horto bene conveniunt?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Optimae operae sunt simplices, notae et stando aut sedendo fieri possunt. Elige ex iis, quae homo antea facere amabat.
 
-### In the garden
+### In horto
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Rigare.** Situla parva et levis aut fistula cum leni ore et pauca vasa in propinquo. Rigare initium et finem clarum habet et difficile est errare.
+2. **Semina in vasis serere.** Alzheimer’s Foundation of America suadet semina in parvis vasis serere et [eorum incrementum observare](https://alzfdn.org/dementia-activity-gardening/). Semina magna, ut fabae, helianthi aut pisa, facilius manu tenentur.
+3. **Flores marcidos demere.** Flores marcidos digitis carpere est opus lene et repetitum. Elige plantas sine spinis.
+4. **Holera aut herbas carpere.** Lycopersica parva, fabae et herbae facile carpuntur et iucunde gustantur. Ea intra domum fer ad prandium adhibenda.
+5. **Herbas olfacere et tangere.** Rosmarinus, mentha et lavandula odores fortes et gratos habent. Folium inter digitos tere et porrige.
+6. **Semitam aut aream lapideam verrere.** Scopa levis in superficie plana et sicca, si homo firmiter stat.
+7. **Aviarium implere.** Deinde una sedete et spectate quae aves veniant.
 
-### Indoors, when going out is not possible
+### Intra domum, cum foras ire non licet
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Hortus herbarum in fenestra** cum basilico, petroselino aut chive.
+- **Serere in mensa tecta.** AFA suadet tabulis sicut in refectorio uti, ut humus uno loco maneat, et humum parvis poculis movere.
+- **Flores disponere** cum floribus sectis et foliis ex horto aut taberna.
+- **Flores premere** ex fasciculo florum, postea chartis agglutinandos. Plura vide in [artibus et operibus manu factis](/activities/arts-and-crafts/).
+- **Sacculos lavandulae aut rosae facere**, quod est aliud consilium AFA, ut odor horti intra domum maneat.
 
-### Getting out and about
+### Foras exire
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Brevis ambulatio** circa vicum, in horto publico aut in taberna hortensi, lento gradu et cum loco ubi sedere licet.
+- **Foris sedere** in porticu aut in scamno, ut aves audias et auram sentias. Hoc ipsum iam actio plena est.
+- **Hortum publicum visitare** tempore diei tranquillo. NHS notat aliquibus locis esse hortos sensuum cum plantis odoratis, variis texturis et aqua.
+- **Anates alere aut aves spectare** ad lacum, tuto spatio a ripa servato.
 
-## How do I make a garden easier to use?
+## Quomodo hortum faciliorem reddo?
 
-Bring the garden up to the person, not the other way around.
+Hortum ad hominem admove, non hominem ad hortum.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Lecti elati aut vasa alta** circiter ad altitudinem coxae efficiunt, ne homo genibus niti aut se inclinare debeat.
+- **Vasa in mensa** apta sunt hominibus, qui sella rotali utuntur aut sedere malunt.
+- **Semitae latae et planae** sine lapidibus solutis aut fistulis iacentibus periculum lapsus minuunt.
+- **Sedes cum bracchiis et umbra** in via, ut quiescere semper liceat.
+- **Instrumenta manubriis crassis et mollibus**, quae facile tenentur. Omitte forfices, cultros et omnia acuta.
+- **Area saepta cum porta obserata**, quam homo libere explorare potest, dum tu prope manes.
 
-## Which plants should I avoid?
+## Quas plantas vitare debeo?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Elige plantas, quae tuto tangi possunt et, si fieri potest, etiam si gustantur. AFA suadet plantas adhibere, quae cutem raro irritant, allergias inspicere et attente observare eum, qui humum pro cibo habere possit. Consilia NIA de domo tuta includunt remotionem aut inclusionem plantarum venenatarum.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Vita rosas spinosas, cactos et plantas, quarum sucus cutem irritat.
+- Si de aliqua planta dubitas, antequam seras, centrum de venenis aut tabernam hortensem loci tui consule.
+- Plantae notae et carae iucundos sensus revocare possunt. AFA rosas et cactus natalicium exempli gratia nominat. Elige genera sine spinis.
+- Stercora, venena contra pestes et herbicidas inclusa serva nec in locis utere, ad quae homo pervenire potest.
 
-## How do I stay safe in the heat and sun?
+## Quomodo a calore et sole tuti manemus?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Tempus foris secundum caelum constitue. NIA explicat seniores maiore periculo [morbi ex calore orti](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) affici, partim quia corpus minus bene mutationibus temperaturae se accommodat et quaedam medicamenta modum, quo corpus calorem tolerat, mutant.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Foras exi mane aut vespere.** Mediis horis diei mensibus calidis evita. Indicem caloris inspice, non solum temperaturam.
+- **Aquam saepe offer.** Noli exspectare, dum homo dicat se sitire. In calore alcohol et potiones cum caffeina evita.
+- **Vestes aptas elige.** Vestes levium colorum et laxas, petasum lato margine et ocularia solaria.
+- **Crema solari utere.** NIA suadet cremam solarem lati spectri SPF 15 aut maiorem, per diem iterum illitam.
+- **Umbram elige.** Mensam ad serendum sub arbore aut sub umbella pone.
+- **Breve serva.** Breve tempus foris satis esse potest, praesertim diebus calidis.
+- **Signa monentia observa.** NIA capitis dolorem, confusionem, vertiginem aut nauseam inter signa morbi ex calore numerat. Homo cum dementia fortasse non dicet se male sentire, itaque vultum et mores eius observa. Intra domum redi, aqua et linteo frigido refrigera, et auxilium medicum quaere, si cito non melius se habet. Ictus caloris, cum signis ut deliquium, confusio aut cutis sicca et rubra, subita medica necessitas est: voca 112.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Etiam frigus curandum est. Hieme tempus foris breve serva et fac ut manus et pedes calidi et sicci maneant.
 
-## How do I handle wandering when we go outside?
+## Quomodo de erratione curamus, cum foras imus?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Semper cum homine mane, cum foris est. Alzheimer’s Association dicit [sex ex decem hominibus cum dementia viventibus](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) saltem semel erraturos esse, et multos saepius. Hoc quovis gradu accidere potest.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Consilia NIA de erratione et de via amissa](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) haec includunt:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Fac ut homo armillam identitatis aut medicam gerat cum nomine, domicilio et numero telephonico tuo, aut vestes eius nota.
+- Recentem photographiam aut pelliculam hominis serva.
+- Vicinos mone hominem fortasse erraturum esse.
+- Hortum saepto et porta obserata muni.
+- Ne hominem, qui antea erravit, solum relinquas.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer’s Association etiam suadet loca intra et extra domum parare, quae tuto explorari possunt, et actiones eo tempore diei disponere, quo inquietudo saepissime apparet. Ambulatio in horto tuto et saepto bene convenire potest inquietudini vespertinae. Vide ducem nostrum de [inquietudine vespertina](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Si homo tamen abest, Alzheimer’s Association suadet statim loca propinqua quaerere et 112 vocare, si intra 15 minuta non invenitur. Vigilibus dic hominem dementiam habere.
 
-## How do I adapt gardening as things change?
+## Quomodo horticulturam accommodo, cum res mutantur?
 
-| If this has become hard | Try this instead |
+| Si hoc difficile factum est | Hoc potius tempta |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Totum pulvinum serere | Unum semen in uno vase serere |
+| Herbas malas evellere (herbas a plantis discernere) | Rigare aut flores marcidos manifesto demere |
+| Per hortum ambulare | Ad mensam sedere cum tabula humi et planta |
+| Omnino foras ire | Vas herbarum in mensa coquinae aut sedes iuxta fenestram apertam |
+| Quamlibet operam facere | Una foris sedere, audire et spectare |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Nonnulli malunt te laborantem spectare. NIA notat licere hominem simpliciter spectare, si hoc ei placet.
 
-## When should we head inside?
+## Quando intra domum redire debemus?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Intra redi, cum homo fessus, calidus, frigidus, inquietus aut paratus ad finiendum videtur. Breve et iucundum tempus decem minutorum melius est quam longum postmeridianum, quod in molestia finitur. Mature finire bonus exitus est.
 
-## Bring the garden indoors on screen
+## Hortum in schermate intra domum fer
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Diebus pluviosis, [Sort Together](/games/sort-together/) corbem horti habet ad imagines ordinandas, et [Conversation Cards](/games/conversation-cards/) quaestiones apertas praebet, quae ad fabulas de horto ducere possunt. Si ex calore festinantes redis, [Calm Breathing](/games/calm-breathing/) lentam et quietam pausam praebet, quam una agere potestis. Plura consilia, quae tactum, odorem et sonum adhibent, vide in nostro [duce de actionibus sensuum](/activities/sensory/).

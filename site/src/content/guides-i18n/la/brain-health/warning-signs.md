@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Prima signa dementiae et quando medicum adeas"
+seoTitle: "Prima signa dementiae et quando medicum adeas"
+description: "Prima signa dementiae communia, quomodo ab aetate consueta differant, causae memoriae laborantis curabiles, et quomodo ad medici consultationem te pares."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Memoriae iactura quae vitam cotidie turbat, difficultas negotia usitata conficiendi, confusio temporis aut loci,
+  et mutationes animi aut iudicii prima signa dementiae esse possunt. Multae aliae condiciones, inter quas
+  glandulae thyreoideae vitia, vitaminum B12 inopia, medicamentorum effectus adversi, tristitia et somni
+  difficultates, similes mutationes efficere possunt. Solus medicus idoneus diagnosin facere potest.
+  Subita confusio celerem curam postulat.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Oblivio interdum occurrens cum aetate communis est; mutationes quae vitam cotidianam turbant consideratione dignae sunt."
+  - "Societas Alzheimeriana decem signa monitionis describit, singulis cum consueta aetatis mutatione comparatis."
+  - "Glandulae thyreoideae vitia, vitaminum B12 inopia, medicamentorum effectus adversi, tristitia, infectio et somni difficultates memoriam afficere possunt, quaedamque curari possunt."
+  - "Solus medicus idoneus dementiam dignoscere potest; interrogationes per interretialem vel probatiunculae domesticae ad hoc non sufficiunt."
+  - "Confusio quae subito, per horas vel dies, oritur, delirium esse potest et celerem curam medicam postulat."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Estne oblivio pars normalis senectutis?"
+    a: "Aliquatenus est. Institutum Nationale Senectutis dicit res aliquas oblivisci vel libellum praetermittere plerumque levem oblivionem aetati congruentem esse. Dementia autem pars normalis senectutis non est. Memoriae difficultates quae negotia cotidiana effici difficilia reddunt, velut iter facere, telephono uti aut domum redire, consideratione medici dignae sunt."
+  - q: "Num memoriae difficultates alia causa quam dementia habere possunt?"
+    a: "Ita. Institutum Nationale Senectutis enumerat glandulae thyreoideae, renum aut hepatis vitia, medicamentorum effectus adversos, tristitiam et anxietatem, vitaminum B12 inopiam, abusus alcoholis, somni difficultates, infectiones et laesiones capitis, inter alia. Quaedam ex his, curata causa, melius fieri possunt, quam ob rem examen medicum utile est."
+  - q: "Possumne domi aliquem de dementia explorare?"
+    a: "Minime. Solus medicus idoneus dementiam dignoscere potest, adhibita historia medica, examine corporeo, probationibus memoriae et cogitationis, probationibus laboratoriis et interdum imaginibus cerebralibus. Etiam breves probationes a medicis adhibitae per se ad diagnosin dementiae non sufficiunt."
+  - q: "Quid faciendum est si quis subito confusus fit?"
+    a: "Celeriter auxilium medicum pete. Subita confusio delirium esse potest, quod apud Departmentum Veteranorum Civitatum Foederatarum casus medicus urgens esse describitur. Statim aut curatorem medicae personae voca aut numerum 112 voca, apud illum mane, et medicamenta quae sumit nota."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Mutationes in propria memoria, vel in memoria eius cui curam praebes, timorem afferre possunt. Haec pagina tibi auxilio esse potest ut decernas quando consultationem medicam petas et quomodo te ad eam pares. Non potest tibi indicare num quis dementia laboret. **Solus medicus idoneus dementiam dignoscere potest**, multaeque condiciones quae memoriae difficultates efficiunt minime sunt dementia. Quaeso, ne interrogationibus per interretialem vel probationibus ipsius periculo confidas.
 
-## What are the early signs of dementia?
+## Quae sunt prima signa dementiae?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Societas Alzheimeriana](https://www.alz.org/alzheimers-dementia/10_signs) decem prima signa describit. Singula cum consueta aetatis mutatione comparat. Nostris verbis:
 
-| Sign worth checking | More typical with age |
+| Signum quod consideratione dignum est | Quod plerumque cum aetate consuetum est |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Memoriae iactura quae vitam cotidianam turbat, velut recentium rerum oblivio vel eadem iterum atque iterum interrogare | Aliquando nomen vel constitutum oblivisci idque postea meminisse |
+| Difficultas res praeparandi aut solvendi, velut praeceptum familiare sequendi vel rationes computandi | Interdum in rationibus domesticis errare |
+| Difficultas negotia usitata domi, in opere vel foris conficiendi | Aliquando auxilio indigere ad furnum microundatum regendum vel spectaculum televisificum notandum |
+| Dies, anni tempora aut locum oblivisci | Diem hebdomadis errare, deinde illum reperire |
+| Nova difficultas distantiam diiudicandi, legendi vel colores distinguendi | Mutationes visus propter suffusiones oculorum |
+| Nova difficultas verbis utendi, velut in sermone haerere vel res falso nomine appellare | Aliquando verbum aptum invenire difficile esse |
+| Res in locis insolitis ponere nec vestigia repetere posse | Aliquando res amittere easque repetitis vestigiis invenire |
+| Malum iudicium, velut in pecunia aut cura corporis | Interdum minus recte decernere |
+| Ab studiis, opere vel consuetudinibus socialibus se removere | Aliquando non libere ad conventum familiarem vel socialem ire |
+| Mutationes animi aut personae, velut confusio, suspicio, timor vel anxietas | Consuetos agendi modos habere et irasci si ordo rerum turbatur |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Unum solum signum dementiam non necessario indicat. Praecipuum est **mutatio ab eo quod illi personae consuetum est**, praesertim si vita cotidiana difficilior fit.
 
-## How is normal aging different from dementia?
+## Quomodo senectus normalis a dementia differt?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Institutum Nationale Senectutis (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) dicit multos seniores res tardius meminisse vel interdum res amittere aut libellum oblivisci animadvertere. Haec plerumque levem oblivionem significant. **Dementia pars normalis senectutis non est.** Gravia memoriae problemata negotia cotidiana difficilia reddunt, velut iter facere, telephono uti aut domum redire.
 
-The NIA suggests talking with a doctor if someone:
+Institutum Nationale Senectutis suadet ut medicus adeatur si quis:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Easdem quaestiones iterum atque iterum ponit
+- In locis olim notis errat
+- Praecepta aut indicationes sequi difficile habet
+- Magis de tempore, personis aut locis confunditur
+- Curam sui neglegere incipit, velut male edere, lavari omittere aut periculose agere
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Quidam homines **diminutionem cognitivam levem (MCI)** habent. Id significat maiora memoriae vel cogitationis problemata quam aliis eiusdem aetatis, cum tamen negotia cotidiana gerere possint. Institutum Nationale Senectutis dicit MCI primum signum morbi Alzheimeriani esse posse, non tamen omnes qui eo laborant morbum illum contrahunt.
 
-## What else can cause memory problems?
+## Quae aliae causae memoriae difficultates efficere possunt?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Multae res praeter dementiam memoriam afficere possunt, quaedamque curatae melius fieri possunt. Institutum Nationale Senectutis enumerat:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Glandulae thyreoideae, renum aut hepatis vitia**
+- **Medicamentorum effectus adversi**
+- **Tristitiam et anxietatem**
+- **Vitaminum B12 inopiam aut alimenta sana non sufficientia**
+- **Somni difficultates**
+- **Abusum alcoholis aut medicamentorum**
+- **Infectiones, sanguinis grumos aut tumores** in cerebro
+- **Laesionem capitis**, velut concussionem
+- **Magnum animi motum aut dolorem**, velut secessum ab officio aut amissionem coniugis
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Auditus et visus vitia etiam pro confusione haberi possunt; vide [nostram paginam de auditu](/brain-health/hearing/). Quam ob rem examen medicum interest. Secundum [Societatem Alzheimerianam](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), medici saepe sanguinis probationes ordinant ad glandulae thyreoideae vitia, vitaminorum inopiam et infectiones explorandas. [Somnus](/brain-health/sleep/) bonus et tristitiae curatio etiam digna sunt quae afferantur.
 
-## Sudden confusion is an emergency
+## Subita confusio casus urgens est
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Confusio quae celeriter, per horas vel dies, oritur, celerem curam medicam postulat.** Delirium esse potest. [Departmentum Veteranorum Civitatum Foederatarum](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) delirium casum medicum urgentem esse describit et suadet ut statim aut curatorem medicae personae voces aut numerum 112 voces. Signa sunt:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Facultas cogitandi variabilis
+- Difficultas animum attendendi
+- Cogitatio perturbata
+- Insueta sopor, aut insueta inquietudo et agitatio
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Hoc cuiquam accidere potest, etiam iis qui iam dementia laborant. Secundum [NHS](https://www.nhs.uk/symptoms/confusion/), causae communes sunt infectiones (infectiones tractus urinarii apud seniores et apud eos qui dementia laborant communes sunt), ictus cerebri, humilis sanguinis saccharum apud diabeticos, laesio capitis et quaedam medicamenta. Dum auxilium exspectas, apud personam mane et eam brevibus verbis simplicibus confirma. Noli multas quaestiones ponere, et medicamenta quae sumit nota.
 
-## How do I prepare for the doctor's appointment?
+## Quomodo te ad consultationem medicam pares?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Bona consultatio a bonis notis incipit. [Societas Alzheimeriana](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suadet ut secum afferas:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Indicem mutationum** in memoria, animo et moribus, cum exemplis certis et tempore quo fere coeperunt
+2. **Problematum valetudinis praeteritorum et praesentium indicem**, una cum historia familiari memoriae problematum
+3. **Omnium praescriptionum et medicamentorum sine praescriptione indicem**
+4. **Quaecumque vitaminum aut supplementorum indicem**
+5. **Quaestiones tuas**, velut quae probationes faciendae sint, quamdiu durent et quando eventus nuntiabuntur
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Etiam utile est aliquem ex familia vel amicum qui personam bene novit secum adducere. [NIA explicat](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) medicos saepe et personam et familiarem de valetudine, medicamentis, actionibus cotidianis et mutationibus morum interrogare. Medici etiam possunt:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Probationes memoriae, solutionis problematum, attentionis, numerandi et linguae dare
+- Sanguinis, urinae et alias probationes ordinare ad alias causas investigandas
+- Tristitiam aut alias condiciones mentis explorare
+- Imagines cerebrales, velut CT aut MRI, ordinare
+- Ad specialisten remittere, velut geriatricum, neurologum, geriatricum psychiatrum aut neuropsychologum
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA notat cognitionis aestimationem partem necessariam esse Visitationis Annuae Bene Essendi per Medicare, quod opportunum tempus esse potest ad curas proferendas. Etiam breves probationes a medicis adhibitae per se ad diagnosin dementiae non sufficiunt. Primum sunt gradus ad pleniorem aestimationem, et diagnosin plus quam una consultatione postulare potest. NIA suadet ut homines memoriae difficultatibus laborantes ad medicum quaque 6 ad 12 menses redeant.
 
-## Raising the subject kindly
+## Quomodo rem benigne proferre
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Si de alia persona sollicitaris, tempus quietum et secretum elige. De rebus certis quas animadvertisti loquere, ut curam valetudinis ostendas potius quam reprehensionem. Suggestio generalis examinationis minus terrere potest. Personam in decisionibus implicare et eam ut adultam alloqui oportet. [Nostrae consilii de communicatione](/caregiving/communication-tips/) tibi auxilio esse possunt.
 
-## Talk with a doctor
+## Cum medico loquere
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Si mutationes in memoria, cogitatione, animo aut facultatibus cotidianis novas et perseverantes animadvertis, consultationem apud medicum primarium pete. Si subita confusio adest, statim numerum 112 aut curatorem medicae personae voca. Celerius examinari significat ut causae curabiles inveniri possint et, si dementia sit, plus temporis sit ad consilia capienda et auxilium inveniendum. Te quoque cura; vide [nostram paginam de cura eius qui curam praebet](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Haec pagina informationem generalem praebet, non consilium medicum. Vide [exceptionem medicam](/medical-disclaimer/).

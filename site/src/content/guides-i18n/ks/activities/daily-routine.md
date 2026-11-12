@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "ڈیمنشیا سٟتؠAffected لُکن ہٕندِ خٲطرٕ نرم دۄہلی روٹین"
+seoTitle: "ڈیمنشیا دۄہلی روٹین: اکھ لچکدار نمونہ"
+description: "ڈیمنشیا سٟتؠAffected لُکن ہٕندِ خٲطرٕ اکھ لچکدار نمونہ دۄہ، یَتھ مَنٛز کھؠن، سرگرمی تہٕ آرام چھِ اَکِس مُستقل ڈھنگس پؠٹھ، تہٕ پَنُن روٹین بناونُک طریقہ۔"
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  اکھ نرم دۄہلی روٹین چھُ وُٹھن، کھؠن، ذٲتی خیال تہٕ نِندرِ ہٕند وقت تَقریباً اَکِسے
+  وقتس پؠٹھ تھاوان، اہم سرگرمی تَتھ وقتس پؠٹھ تھٲوِتھ ییلہ تِم سَبھہ کھوتہٕ زیادٕ
+  چُست چھِ، تہٕ سرگرمی تہٕ آرامس مَنٛز توازن برقرار تھاوان۔ یِہ بناوو تِہِندین
+  تمام زِندگی ہٕندین عادتن پؠٹھ، یِہ تھٲوِو ہلکو نہ کہ بھرِتھ، پرٛتھ دۄہ گاش تہٕ حرکت
+  شٲمِل کٔرِو، تہٕ ییلہ دۄہ مشکل آسہ، تیٚلہ منصوبس مَنٛز بِلا تردد تبدیلی کٔرِو۔
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "وُٹھن، کھؠن، خیال تہٕ نِندرِ خٲطرٕ مُستقل وقت چھِ دۄہس اکھ جانان ڈول دِوان۔"
+  - "اہم سرگرمی تھٲوِو تِہِندِ دۄہکِس بہترین وقتس پؠٹھ، اکثر صُبحس۔"
+  - "پرٛتھ منٹ مَہ کٔرِو بھرِتھ۔ آرام تہٕ خاموش وقت تہِ چھُ روٹینُک حصّہ۔"
+  - "دۄہلی گاش، پرٛتھ دۄہ حرکت تہٕ دۄہس پَتہٕ لمبی نِندر یا دیر کیفیٖن نِشہ گریز کرُن ہیکہِ شامس بےچینی کم کرنس مَنٛز مدد کٔرِتھ۔"
+  - "روٹین چھُ اکھ رہنما، کانٛہہ قٲعدٕ نہ۔ مشکل دۄہن مَنٛز کانٛہہ تہِ چیز بدلاوِو، کم کٔرِو یا یَلہٕ تراوِو۔"
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "ڈیمنشیا سٟتؠAffected اَکِس شخصس خٲطرٕ روٹین کیازِ چھُ مددگار؟"
+    a: "اَکھ پؠشگویی کرنہٕ یِنہٕ وول دۄہ یِوان کم فٲصلن تہٕ حٲران کَرَن والیٚن چیزن، یُس واریاہن ڈیمنشیا سٟتؠAffected لُکن خٲطرٕ اطمینان بَخش چھُ۔ Alzheimer's Association چھُ ونان زِ منصوبہ بند دۄہس سٟتؠ چھِو تُہؠ کم وقت یِہ سوچنس مَنٛز صرف کران زِ کیاہ کرُن چھُ تہٕ زیادٕ وقت تِمن چیزن پؠٹھ یِم تُہؠ دۄنَوے پسند چھِو۔ یِہ چھُ سنبھال کرَن والین تہِ پَنُن دۄہ بہتر چلاونس مَنٛز مدد کران۔"
+  - q: "ڈیمنشیا سٟتؠAffected اَکِس شخصس خٲطرٕ بہتر دۄہلی شیڈول کیاہ چھُ؟"
+    a: "کانٛہہ اکھ صحیح شیڈول چھُنہٕ۔ اکھ بہتر شیڈول چھُ وُٹھن، کھؠن تہٕ نِندرِ ہٕند وقت تَقریباً اَکِسے وقتس پؠٹھ تھاوان، ذٲتی خیال تہٕ اہم سرگرمی تَتھ وقتس پؠٹھ تھٲوِتھ ییلہ تِم سَبھہ کھوتہٕ بہتر چھِ، نیبر یا کِرکہِ نکھہٕ وقت شٲمِل کران، تہٕ آرامس خٲطرٕ جاي دِوان۔ یِہ بناوو تِتھۍ پٲٹھۍ یِتھۍ پٲٹھۍ تِم ہمیشہٕ روزان آے چھِ۔"
+  - q: "کیاہ ڈیمنشیا سٟتؠAffected شخصس پَزِ دۄہس مَنٛز نِندر نینی؟"
+    a: "اکھ لۄکچار آرام ہیکہِ مدد کٔرِتھ، خاص کر دوپہر کہ کھؠنہٕ پتہٕ۔ National Institute on Aging چھُ مشورٕ دِوان زِ دۄہس پَتہٕ لمبی نِندر یا اونٛگُن گژِھ ٹالنہٕ یِنؠ، تِکیازِ واریاہ تھَکِتھ آسن یا مناسب آرام نہ مِلن ہیکہِ شامس بےچینی ہُرراوِتھ۔ اگر نِندر اکھ اصلی مسئلہ آسہ، تیٚلہ تِہِندِس ڈاکٹرَس سٟتؠ کٔرِو کتھ۔"
+  - q: "اگر تِم روٹین مَننس انکار کَرَن تیٚلہ کیاہ کرُن؟"
+    a: "وۄنؠ خٲطرٕ یَلہٕ تراوِو تہٕ پتہٕ دوبارٕ یا بدل طریقس سٟتؠ کوشش کٔرِو۔ انکار ہیکہِ یِہ معنی آسُن زِ تِم تھٔکِمٕتؠ چھِ، بیمار چھِ، تِمن درد چھُ یا تِم بس تیار چھِنہٕ۔ روٹین چھُ دۄہ آسان بناونہٕ خٲطرٕ، تَلہٕ یِہ کٔرِو نرم، زبردستی نہ۔"
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+اکھ نرم روٹین چھُ دۄہس اکھ جانان ڈول دِوان: وُٹھُن، کھؠن، کینٛہہ سرگرمی، آرام، تہٕ تَقریباً اَکِسے وقتس پؠٹھ بِستر۔ یِہ چھُ فٲصلن تہٕ حٲران کَرَن والیٚن چیزن کم کران، تہٕ تِمن لمحَن خٲطرٕ اکھ منصوبہ دِوان ییلہ تُہؠ سوزان آسِو زِ وۄنؠ کیاہ کرُن۔ بۄنہٕ کَنہِ دِنہٕ آمُت روٹین چھُ صرف اکھ نمونہ، کانٛہہ قٲعدٕ نہ۔ یِہ کٔرِو اکھ شروعات، پتہٕ یِہ بناوو تِہِندِ مُطٲبق یِمَن تُہؠ سنبھالان چھِو۔
 
-## Why does a daily routine help?
+## دۄہلی روٹین کیازِ چھُ مددگار؟
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+اکھ مُستقل روٹین چھُ تَمِہ موجوب مددگار زِ جانان ڈھنگ چھِ نٔوین ڈھنگن کھوتہٕ آسانی سان مَننہٕ یِوان۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) چھُ ونان زِ منصوبہ بند دۄہس سٟتؠ چھُ کیاہ کرُن یِہ سوچنس پؠٹھ کم وقت لگان تہٕ مزٕ دار سرگرمین خٲطرٕ زیادٕ وقت مِلان، تہٕ یِہ تہِ چھُ ونان زِ وُٹھنُک تہٕ نِندرِ ہُنٛد مُستقل وقت ہیکہِ نِندرِ ہٕندین مسئلن تہٕ شامس بےچینی کم کرنس مَنٛز مدد کٔرِتھ۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) چھُ پُرسکون گھرس خٲطرٕ نِہاون، کپڑٕ لاگن تہٕ کھؠن پرٛتھ دۄہ اَکِسے وقتس پؠٹھ کرنُک مشورٕ دِوان، تہٕ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) تہِ چھُ اَکِسے روٹینس پؠٹھ قائم روزنُک مشورٕ دِوان۔
 
-## A sample gentle day
+## اکھ نرم دۄہُک نمونہ
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+وقت چھِ صرف مثال۔ پورٕ دۄہ کٔرِو برونٛہہ یا پتہٕ تاکہ یِہ تِہِندِس پَننِس ڈھنگس سٟتؠ میل کھایہِ۔
 
-| Time | What happens | Ideas | On a harder day |
+| وقت | کیاہ گژھان چھُ | خیال | مشکل دۄہس پؠٹھ |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 a.m. | وُٹھُن، نِہاون، کپڑٕ لاگُن | پرٛتھ دۄہ اَکوے ترتیب؛ کپڑٕ تھٲوِو تَتھ ترتیبس مَنٛز یِتھس مَنٛز لاگنہٕ چھِ | خیال تھٲوِو سادٕ؛ اکھ تازٕ قمیض تہِ چھُ واریاہ |
+| 8:45 a.m. | ناشتہ | کافی تہٕ بُلند آوازِ مَنٛز پرنہٕ آمُت اخبار، یا ریڈیو | اَکھ أکِس سٟتؠ خاموشی سان کھؠیِو، کتھ بات کرنُک دباؤ مَہ تھٲوِو |
+| 9:30 a.m. | اہم سرگرمی | کپڑٕ نَموُن، کینٛہہ پکاؤن، باغبانی، اکھ لۄکچار نیبر پھیرُن یا سیر | اکھ لۄکچار شکل، یا تِمن دِیِو تُہؠ کران وُچھنہٕ |
+| 10:30 a.m. | خاموش وقت | موسیقی، فوٹو البم، یا کِرکہِ نکھہٕ بِہِتھ | پسندیدٕ کرسی پؠٹھ آرام |
+| 11:00 a.m. | دوپہر کہ کھؠنس مَنٛز مدد | سبزی چھَلنی، میز سجاوُن | تُہؠ پکاوِو؛ تِم روزَن تُہٕندِ سٟتؠ |
+| 12:00 p.m. | دوپہرُک کھؠن تہٕ صاف کرُن | میز پونٛچھنی، کینٛہہ برتن خشک کرنؠ | کام یَلہٕ تراوِو |
+| 1:00 p.m. | لۄکچار آرام | کھور ہیرِ کٔرِتھ، نرم موسیقی | تیوُتُے |
+| 2:00 p.m. | نیبر یا حرکت | سیر، براندس پؠٹھ بِہُن، پودن آب دِیُن، غبارٕ پھیکُن | آفتابی کِرکہِ نکھہٕ بِہِتھ |
+| 3:00 p.m. | میل جول یا تخلیقی وقت | اکھ مُلاقات، اکھ کال، [picture pairs](/games/picture-pairs/)، رنگ بھرُن، کارڈ | اَکھ أکِس سٟتؠ کینٛہہ چیُن تہٕ ہلکو کھؠن |
+| 4:30 p.m. | ٹھہرنُک وقت | پردٕ بند، لایٹہٕ جلان، اکھ پُرسکون کام مِثلَن رومال نَموُن | جانان موسیقی، کم شور |
+| 5:30 p.m. | راتُک کھؠن | رَلانس یا میز سجاونس مَنٛز مدد | سادٕ، جانان کھؠن |
+| 6:30 p.m. | شام اَکھ أکِس سٟتؠ | مِٹھائی کھؠوان کھؠوان پرانیٚن کتھن ہُنٛد ذکر، کارڈ، پسندیدٕ پروگرام، اَتھن ہُنٛد ہلکو مساج | خاموش سنگت |
+| 8:00 p.m. | نِندرِ برونٛہہُک روٹین | نِہاون یا دۄد چھَلُن، نِندرِ ہٕند کپڑٕ، نرم موسیقی، کم لایٹہٕ | پرٛتھ چیز کٔرِو مختصر؛ آرام گژِھ آسُن گۄڈنِک |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+یِہ نمونہ چھُ Alzheimer's Association ہٕندِس ابتدٲیی تہٕ درمیانی مرحلن ہٕندِس نمونہ منصوبس ہُند ڈول اپناوان، یُس ذٲتی خیال تہٕ ناشتے پیٹھہٕ شروع گژھان چھُ، پتہٕ گھرٕ کام، سیر، موسیقی، آرام تہٕ مُلاقاتن پؠٹھ پٔکِتھ رات کہ کھؠن، پرانیٚن کتھن تہٕ نِندرِ خٲطرٕ تیاری پؠٹھ ختم گژھان چھُ۔
 
-## How do you build your own routine?
+## پنُن روٹین کِتھہٕ پٲٹھۍ بناوُن؟
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+تِم کِتھہٕ پٲٹھۍ ہمیشہٕ روزان آے چھِ، تَتہِ پیٹھہٕ کٔرِو شروعات، نہ کہ کانٛہہ چارٹ پیٹھہٕ۔ منصوبہ بناونہٕ برونٛہہ چھُ Alzheimer's Association یِمن چیزن پؠٹھ غور کرنُک مشورٕ دِوان:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **تِہٕنز پسند، ناپسند، طاقتہٕ تہٕ دلچسپیاں۔**
+- **تِم کِتھہٕ پٲٹھۍ اوسُکھ پَنُن دۄہ گزاران۔** یُس شخص ہمیشہٕ صُبحس جلدی وُٹھان اوس تہٕ ہون سٟتؠ سیر کران اوس، سُہ گژِھ وۄنؠ تہِ صُبحس سیر کرُن۔ یُس راتس دۄہ چلان اوس، سُہ کرِ نہ زانٛہہ 8:00 a.m. شروعات پسند۔
+- **تِہِندِ دۄہُک بہترین وقت۔** نِہاون، نیبر پھیرُن تہٕ اہم سرگرمی تھٲوِو تَتِے۔
+- **واریاہ وقت** کھؠنہٕ، نِہاونہٕ تہٕ کپڑٕ لاگنہٕ خٲطرٕ، تاکہ کانٛہہ تہِ چیز جلدبازِ مَنٛز نہ گژِھ۔
+- **مُستقل وُٹھنُک تہٕ نِندرِ ہُنٛد وقت۔**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+تیوُتُے ماخذ چھُ مشورٕ دِوان زِ گھرٕ کأمن، کھؠنن، ذٲتی خیال، تخلیقی سرگرمین، جسمٲنی حرکت، میل جولس، روحٲنی سرگرمین تہٕ بے ساختہ لمحَن ہُنٛد میل جول شٲمِل کٔرِو، مِثلَن کانٛہہ دوست اچانک یِن۔
 
-### Try it for a week, then adjust
+### اَتھ اَکھ ہَفتہٕ آزمٲوِو، پتہٕ کٔرِو تبدیلی
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+پرٛتھ دۄہ کٔرِو اکھ سادٕ نوٹ۔ Alzheimer's Association چھُ یِہ پوچھنُک مشورٕ دِوان زِ کٔم سرگرمی گٔیہِ سَبھہ کھوتہٕ بہتر تہٕ کیازِ، کیاہ تِتھۍ وقت تہِ آے ییلہ واریاہ زیادٕ اوس یا واریاہ کم، تہٕ کیاہ بے ساختہ منصوبہ مزٕ دار آسنہٕ یا پریشٲنی ہُنٛد سبب بٔنؠ۔ یِکینژھ ٹھیک چھُ سُہ تھٲوِو برقرار تہٕ یِکینژھ ٹھیک چھُنہٕ تتھ مَنٛز کٔرِو تبدیلی۔
 
-### Make it visible
+### یِہ کٔرِو واضح
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+اگر تِم وۄنؠ تہِ پرِتھ ہیکن، اکھ وائٹ بورڈ یا بڈؠ اَچھرو سٟتؠ دۄہُک منصوبہ ہیکہِ اطمینان بَخش آسُن۔ یِہ تھٲوِو مختصر: "ناشتہ۔ سارہ سٟتؠ سیر۔ دوپہرُک کھؠن۔ آرام۔" کینٛہہ لُکھ چھِ زیادٕ برونٛہہ پیٹھہٕ زاننہٕ بغیر بہتر محسوس کران؛ Family Caregiver Alliance چھُ مشورٕ دِوان زِ اگر یِہ پریشٲنی پٲدٕ کران آسہ، تیٚلہ منصوبن ہٕنز کتھ گژِھ صرف تِمن گژھنہٕ برونٛہہ بالکل ٹھیک کرنی۔
 
-## How to adapt the routine
+## روٹینس کِتھہٕ پٲٹھۍ ڈھالوُن
 
-### Leave room to breathe
+### ساس پھۄکھنہٕ خٲطرٕ جاي تھٲوِو
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+پرٛتھ منٹ مَہ کٔرِو بھرِتھ۔ Alzheimer's Association چھُ زور دِوان زِ شخصس چھِ سرگرمی تہٕ آرامس مَنٛز توازنچ ضرورت آسان تہٕ تِمن ہیکہِ زیادٕ بار بار آرامچ ضرورت پؠنؠ۔ اگر تِم بیزار، بے توجہ یا چِڑچِڑے باسان آسن، سرگرمی بدلاوِو یا آرام کٔرِو۔
 
-### Protect the late afternoon
+### دوپہر پَتہٕ کہ وقتُک خیال تھٲوِو
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+واریاہ لُکھ چھِ گاش کم گژھنہٕ سٟتؠ زیادٕ بے چین گژھان۔ NIA چھُ مشورٕ دِوان زِ پرٛتھ دۄہ نیبر یا کِرکہِ نکھہٕ گاشس مَنٛز وقت گزارُن، پرٛتھ دۄہ سرگرم روزُن مگر واریاہ زیادٕ منصوبہ بناونہٕ بغیر، دۄہس پَتہٕ کیفیٖن تہٕ شراب نِشہ گریز کرُن، تہٕ دۄہس پَتہٕ لمبی نِندر یا اونٛگُن ٹالنہٕ یِنؠ۔ کینٛہہ خاندانن چھُ یِہ تہِ مددگار باسان زِ شام گژھنہٕ برونٛہہ پردٕ بند کرنؠ تہٕ لایٹہٕ جلاوٕنۍ۔ وُچھِو [شامس بےچینی](/caregiving/late-day-restlessness/) تہٕ [نِندر](/brain-health/sleep/)۔
 
-### Change it as needs change
+### ضرورت بدلنس سٟتؠ یِہ بدلاوِو
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **ابتدٲیی مرحلہ:** روٹین بنٲوِو مِلِتھ۔ شخص ہیکہِ اکھ لِکھِتھ شیڈول یژھان آسُن یُس سُہ پانے سنبھالہِ۔
+- **درمیانی مرحلہ:** تُہؠ کٔرِو زیادٕ رہنمٲیی۔ سرگرمی تھٲوِو لۄکچار، آرام زیادٕ، تہٕ واریاہ جانان کام؛ وُچھِو [درمیانی مرحلہ سرگرمی](/activities/middle-stage/)۔
+- **آخری مرحلہ:** روٹین چھُ آرامس، کھؠنس تہٕ ذٲتی خیالس پؠٹھ مرکوز روزان، درمیان مَنٛز لۄکچار حسی لمحَن سٟتؠ مِثلَن موسیقی یا اَتھن ہُنٛد ہلکو مساج؛ وُچھِو [آخری مرحلہ سرگرمی](/activities/late-stage/)۔
 
-### Vary the activities, not the frame
+### سرگرمی بدلاوِو، ڈول تھٲوِو برقرار
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+کھؠن، آرام تہٕ نِندرِ ہُنٛد وقت تھٲوِو مُستقل، تہٕ درمیانچ سرگرمی بدلاوِو۔ [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھُ مشورٕ دِوان زِ چیزن دلچسپ تھاونہٕ خٲطرٕ الگ الگ دۄہن الگ الگ سرگرمی آزمٲوِو۔ تُہؠ ہیکِو سوموار پکاوُن، منگل وار باغبانی کرٕنۍ تہٕ بُدھ وار فوٹو وُچھنؠ۔ أسہِ ہٕنز [101 سرگرمی ہٕند خیال](/activities/ideas/) تہٕ [گھرٕ کام](/activities/household-tasks/) ہیکن یِمن جایَن بھرنس مَنٛز مدد کٔرِتھ۔
 
-## When the day goes sideways
+## ییلہ دۄہ منصوبہ مُطٲبق نہ پٔکِہ
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+کینٛہہ دۄہ یِن نہ کانٛہہ تہِ منصوبہ مُطٲبق۔ بیماری، اکھ خراب راتھ، ڈاکٹرس ہٕنز مُلاقات یا موسمچ تبدیلی ہیکہِ پرٛتھ چیز اُلٹہٕ پُلتھ کٔرِتھ۔ منصوبہ یَلہٕ تراوِو، بنیادی چیزن پؠٹھ تھٲوِو توجہ (کھؠن، چیُن، آرام، سہولت) تہٕ پگاہ کٔرِو دوبارٕ کوشش۔ اگر تِم کُنہِ چیزس انکار کَرَن، وُچھِو [ییلہ تِم نہ وَنن](/caregiving/when-they-say-no/)۔ اَکھ أکِس سٟتؠ ساس پھۄکھنُک اکھ لۄکچار وقفہ، مِثلَن [پُرسکون ساس](/games/calm-breathing/)، ہیکہِ تُہٕندِ دۄنَوے ہٕندِ خٲطرٕ دوبارٕ سکون اَننس مَنٛز مدد کٔرِتھ۔
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+تُہُنٛد پَنُن روٹین تہِ چھُ اہم۔ پانس خٲطرٕ تہِ تھٲوِو وقفہٕ، تہٕ خاندان کہ کُنہِ فردس یا آرام دِنہٕ واجِنہِ خدمتس ؤنِو زِ تِم نِمَن مُستقل وقت چھُٹی۔ وُچھِو [سنبھال کرَن والین ہُنٛد پَنُن خیال](/caregiving/caregiver-self-care/)۔

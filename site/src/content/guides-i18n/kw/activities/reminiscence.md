@@ -1,32 +1,33 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Gwriansow Kov: Boksys Kov, Hwedhlow Bewnans ha Skeusennow"
+seoTitle: "Gwriansow Kov rag Dismyk: Tybyansow Heb Appos"
+description: "Fatell gewsel a govyon gans den ow byw gans dismyk heb apposyans: kewsel a-dro dhe skeusennow, boksys kov ha lyvrow bewnans, gans lavarow es."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Kovheans a styr pesya an termyn eus passyes war-barth dre skeusennow,
+  taklennow, ilow ha hwedhlow. Gwrewgh boks kov, gwrewgh lyver bewnans sempel,
+  po mires orth skeusennow a-denewen. Na wrewgh appos nevra: skippyewgh « A
+  borth kov dhis? » ha « Piw yw hemma? » hag usyewgh galowow ygor haval orth
+  « Deriv dhymm a-dro dhe hemma. » Kescows toemm yw moy posek es kavos an
+  taclow ewn.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Kescows yw kovheans, nid apposyans. Nyns yw ewnhder posek; lowender yw."
+  - "Chanjyewgh ‘A borth kov dhis...?’ ha ‘Piw yw hemma?’ gans kampollyow ha galowow haval orth ‘Deriv dhymm a-dro dhe’n jydh ma.’"
+  - "Boks kov a daklennow a vewnans an den a re neppyth dhe’n dhiwla ha dhe’n gowselva dhe dhalghenna."
+  - "Lyver bewnans a weres teylu, godrigoryon ha mayni gonis aswon an den, nid an diagnos unys."
+  - "Mar kwra kov dri tristys, comfortyewgh kynsa ha gwrewgh mos yn-rag yn toemm."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Pyth yw kovheans rag tus ow byw gans dismyk?"
+    a: "Kevrenna kovyon ha perthyansow an termyn eus passyes yw kovheans, yn fenowgh gans gweres skeusennow, taklennow, ilow po gwydhyowyow. Y hyll hwarvos unn dhe unn po yn bagas. An amkan yw kescows plesont ha styryek, nid previ pyth a yll an den perthi kov anodho."
+  - q: "Prag na dalvien vy govyn ‘A borth kov dhis?’"
+    a: "Govynnow a brev kov a yll gul dhe dhen omglewes meth po prederus pan na dheu an gorthyp. An National Institute on Aging a rol govyn mar porth den kov a neppyth po nebonan yn mysk an taklow dhe omwitha. Kampollyewgh an pyth a welowgh yn y le, ha gesewgh dhe’n den keworra pypynag a vynno."
+  - q: "Pyth a dalvien vy gorra yn boks kov?"
+    a: "Dewisewgh taklennow salow ha krev junys gans bewnans an den: taklennow ober, daffar gwriansow, lien vavorys, kartennow post, kartennow resaytys, kovheansow sport po dasskrifow a skeusennow. Omgwithewgh rag taklennow lymm, taklennow byghan a allsa bos lenkys, ha gwreydhek taklow na yllir aga aslea."
+  - q: "Pyth mar kwrons i kammgemeryansow a-dro dhe’n fets?"
+    a: "Gesewgh ev dhe bassya. Mars yw agas mamm ow leverel bos an skeusen ow tiskwedhes hy hwor pan yw hy henderow, da lowr yw. Ewnhe a dreyl pols toemm dhe apposyans. Sewyewgh an hwedhel ma orth hy dherivas hag enjoyewgh ev war-barth."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +42,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Kovheans a styr yn sempel enjoya an termyn eus passyes war-barth. Rag lies den ow byw gans dismyk, kovyon a dhegvledhynnyow a-dhiworth lemmyn a wra pesya klerra es an pyth a hwarva hedhyw myttin. Skeusennow, taklennow koth, ilow ha hwedhlow a yll ygeri an kovyon na ha ri dhywgh neppyth toemm dhe gevrenna. An unn rewlys: kescows yw, nevra apposyans.
 
-## What is reminiscence, and how is it different from quizzing?
+## Pyth yw kovheans, ha fatell yw dyffrans dhyworth apposya?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Kovheans yw kevrenna kovyon dre skeusennow, taklennow, ilow po gwydhyow, orth tooth an den y honan. An [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) a’n deskrif avel kevrenna perthyansow ha hwedhlow an termyn eus passyes gans gweres skeusennow, taklennow, gwydhyowyow po ilow, yn lyver po war leghen. Apposya yw dyffrans: y hwra govyn orth an den ri gorthyp ewn, hag y hyll henna dri meth yn le lowender.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) a rol govyn orth den mar porth kov a neppyth po nebonan avel neppyth dhe omwitha. An [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a brof omwitha govynnow a fydh war gov berr-dermyn ha kewsel a-dro dhe’n termyn pell yn y le.
 
-| Instead of | Try |
+| Yn le | Assayewgh |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| « A borth kov dhis a hemma? » | « Hemma a hevel bos jydh lowen. Deriv dhymm anodho. » |
+| « Piw yw hemma? » | « Ottomma Modrep Rose war an treth. Mirewgh orth an hatt na. » |
+| « Py vledhen o hemma? » | « Hemma a hevel haval dhe’n chi koth. Fatell o bewa ena? » |
+| « Na, nyns yw Bill, Frank yw. » | « Ev a hevel bos meur y lowender. » |
+| « Ty a leveris henna dhymm seulabrys. » | « My a gar an hwedhel na. » |
 
-## How do you talk about photos without quizzing?
+## Fatell gewsels a-dro dhe skeusennow heb apposya?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Dalethyewgh gans an pyth a welowgh, hag ena gesewgh spas rag an den dhe geworra neppyth mar mynno.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Esedhowgh a-denewen.** Synsyewgh an lyver skeusennow yn agas mysk may hyllydh mires war-barth, nid previ a-dreus dhe voos.
+2. **Dewisewgh nebes skeusennow.** Pymp skeusen dha yw gwell es boks leun. Pryntyow bras ha kler a ober gwell.
+3. **Henwewgh tus agas honan.** « Ottomma ty ha Tas dydh agas demedhyans » a dile gwask.
+4. **Kampollyewgh manylyon.** Dillas, kerri, boes, awel, bejethow. « Ass yw karr. Y hevel mar splann. »
+5. **Galwewgh, na wrewgh erghi.** « Deriv dhymm a-dro dhe... » po « Pyth a welwydh? » Taw yw da lowr.
+6. **Sewyewgh aga hembrenkyans.** Mars yns i ow kewsel a neppyth aral yn tien, ewgh gansa.
+7. **Hedhewgh pan yw plesont.** Degewgh an lyver kyns bos skwithder ow tos.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Rag govynnow parys a skeusennow, assayewgh [conversation cards](/games/conversation-cards/). Rag treylya agas skeusennow teylu agas honan dhe wari kesparow toemm, assayewgh [photo pairs](/games/photo-pairs/); an skeusennow a dhewisowgh a wra pesya y’gas peurel.
 
-## How do you make a memory box?
+## Fatell wrav vy boks kov?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Boks kov yw lestr a daklennow a vewnans an den dhe douchya ha kewsel a-dro dhedha.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Dewisewgh boks krev** hag es dhe ygeri, kepar ha boks eskisyow, boks hatt po kist bren byghan.
+2. **Dewisewgh testen po kemmysk.** Ober, gwrians, tyller, degvledhen, po nebes a bub tra.
+3. **Kuntellewgh taklennow salow.** Pymp dhe dheg tra yw lowr dhe dhalleth.
+4. **Usyewgh dasskrifow a daklow drudh.** Gwrewgh dasskrifow a skeusennow ha skrifennow na yllir aga aslea ha synsewgh an gwreydhek yn salow.
+5. **Kemerewgh unn dra yn-mes orth unn termyn.** Res ew dhodho, leverewgh neppyth anodho, ha gwelowgh ple h a an kowsel.
 
-Ideas to include:
+Tybyansow dhe gomprehendya:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Ober:** badj hanow, toul vian, darn uniform, lyver kovadh, pin medhek, lyver kigya a dhiwotti.
+- **Tre:** karten resayt yn aga dornskrif, lien de, lien vavorys po koler.
+- **Gwriansow:** higen byskessa heb an higen, pel vas, pel a neusen, hasen yn fardellik.
+- **Tylleryow:** kartennow post, mappys, kovheans tornyaseth, tregh a baper nowodhow an dre vewnans.
+- **Teylu:** dasskrifow a skeusennow, delinyans flogh, galow demedhyans.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Gesewgh yn-mes taklennow lymm, taklow byghan a allsa bos lenkys, ha pypynag a allsa dri kovyon ankensi, marnas hwi dhe wodhvos bos ev wolkom.
 
-## How do you make a life-story book?
+## Fatell wrav vy lyver bewnans?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Lyver bewnans yw lyver skeusennow sempel gans skeusennow ha pennlinennow berr a-dro dhe vewnans an den. Yth yw neppyth dhe vires orto war-barth, hag y weres godrigoryon ha mayni gonis gweles an den dien.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Dewisewgh furv.** Kelmyer gans gwithysi folennow, lyver skeusennow pryntys, po diskwedhyans skeusennow war leghen.
+2. **Towlewgh nebes rannow.** Flogholeth, skol, ober, teylu, tylleryow trigys, fydh, gwriansow, boes hag ilow meurgerys.
+3. **Keworrowgh unn skeusen po dew dhe bub folen** gans pennlinen verr, bras: « Mary, 22 bloodh, ow talleth ober y’n arghanti. »
+4. **Komprehendyewgh an taklow a gar ha’ga usadowyow.** « Ev a gemmer koffi gans leth. Ev a gar hympnys dy’ Sul. Ny gar pellwolok ughel. » Hemma a weres py den pynag orth aga witha.
+5. **Komprehendyewgh an den** kemmys hag a vynnons, ow tewis skeusennow, ow terivas hwedhlow po ow mires orto ow tos war-barth.
+6. **Pesyewgh ow keworra.** Ny res ev bos gorfenys rag bos dhe les.
 
-## More reminiscence ideas
+## Moy tybyansow kovheans
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Gwrewgh seni ilow a’ga yeuneth** ha kewsel a-dro dhe ble may’s tebrons i. Gwrewgh mires orth [gwriansow ilow](/activities/music/).
+- **Gwrewgh mires orth gwydhyowyow tre po towlenniow pellwolok** a’ga degvledhynnyow meurgerys.
+- **Keginewgh boes a’ga flogholeth** ha gesewgh dhe’n sawerow hembronkya an gowselva.
+- **Gwrewgh mires orth mapp** a’ga thre vewnans ha holya stretys koth.
+- **Gwrewgh handla katalogow po lyvrow-termyn koth** ha kewsel a-dro dhe brisow, gis ha kerri.
+- **Rekordyewgh aga hwedhlow** war bellgowser, gans aga kummyas, rag an teylu.
+- **Kevrennewgh dres galow.** Dolghyewgh unn skeusen yn-bann dres galow gwydhyow; gwrewgh mires orth [galowow pellgowser ha gwydhyow](/activities/phone-and-video-calls/).
+- **Degowgh skeusen po tra genowgh pan wrewgh godriga.** Y re fokus es dhe’n vysytyans; gwrewgh mires orth [godriga](/activities/visiting/).
 
-## What if a memory is painful?
+## Pyth mars yw kov ankensi?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Nebes kovyon a dheg duwon, edrek po own. Mar kwra an den dos yn ankensi, hedhewgh, comfortyewgh ev ha chanjyewgh an desten po an gwrians yn toemm. Na wrewgh dadhel a-dro dhe’n pyth a hwarva. An Family Caregiver Alliance a gusulya erbynn assaya konvynsya den bos ev kamm ha a brof gorthebi dhe’n omglywansow a dhiskwedhons, hag i yw gwir. Mars yns i ow kewsel a nebonan re verwis kepar dell veu ev yn fyw hwath, gorthebyewgh dhe’n omglywans: « Ty a’n feth. Deriv dhymm anodho. »
 
-## What does the research say?
+## Pyth a lever an hwithrans?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Daswel Cochrane a govheans](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), ow komprehendya 22 prevyans ha 1,972 den, a gavas bos an effeythyow ankesplegadow, byghan hag ow tiffra herwydh tyller ha furv. Ny gavas ev dustuni a dhrog dhe dus ow byw gans dismyk. Ni a brof kovheans drefen y hyll gul termyn toemm ha styryek war-barth, nid avel dyghtyans. Rag moy a-dro dhe gowsel es, gwrewgh mires orth [cusulyow keskomunyans](/caregiving/communication-tips/).

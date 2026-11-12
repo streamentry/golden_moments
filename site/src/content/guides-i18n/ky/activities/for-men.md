@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Деменции бар эркектер үчүн иш-чаралар"
+seoTitle: "Деменции бар эркектер үчүн турмуштук идеялар"
+description: "Деменции бар эркектер үчүн мурунку ишине, хоббилерине жана күнүмдүк адаттарына таянган иш-чара идеялары жана ар бирин коопсуз ыңгайлаштыруу кеңештери."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Деменции бар мырза үчүн эң ылайыктуу иш-чаралар анын өз жашоосунан келип
+  чыгат: кылган иши, сүйгөн хоббилери жана кармаган күнүмдүк адаттары. Мурда
+  кеңседе иштеген адам кагаздарды иреттөөдөн ырахат алышы мүмкүн, уста таза
+  аспаптарды кармоону жактырышы мүмкүн, ал эми спорт күйөрманы эски оюнду
+  көргөндү сүйүшү мүмкүн. Кызыкчылыктар ар бир адамда ар түрдүү, ошондуктан
+  жынысынан эмес, адамдын өзүнөн баштаңыз.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Ушул мырзанын өз тарыхынан баштаңыз: иши, хоббилери, адаттары жана ал эмнелер менен сыймыктанган."
+  - "Аспаптарды иреттөө, унааны жуу же жыгачты шыгымдоо сыяктуу чыныгы максаты бар иштер сабакка окшогон иш-чараларга караганда көбүрөөк жагышы мүмкүн."
+  - "Ар бир мырза аспаптарды же спортту жактыра бербейт. Көптөрү тамак бышырууну, музыкага, багбанчылыкка, сүрөт тартууга же башкаларга кам көрүүгө кызыгат. Сураңыз, байкаңыз жана анын каалоосун ээрчиңиз."
+  - "Ишке окшош тапшырмаларды курч аспаптарды алып салып жана көз салып тургандай коопсуз кылыңыз, ал эми жөндөмдөрү өзгөргөн сайын жөнөкөйлөтүңүз."
+  - "«Жок» деп айтууга болот. Милдет эмес, роль сунуштаңыз жана кийинки күнү кайра аракет кылыңыз."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Деменции бар мырзалар кандай иш-чараларды жактырат?"
+    a: "Бир гана тизме жок, анткени мырзалардын кызыкчылыктары баарыныкыдай эле ар түрдүү. Жакшы баштоо чекиттери — мурунку ишине байланышкан тапшырмалар, мисалы кагаздарды иреттөө же гайкалар менен болтторду саралоо, ошондой эле ал сүйгөн хоббилер, мисалы балык уулоо, унаалар, музыка, тамак бышыруу же спорт. Ал өзү эмне кылганын байкап, ошонун үстүнө куруп коюңуз."
+  - q: "Атам топтук иш-чаралардан баш тартат. Эмне кылсам болот?"
+    a: "Көптөгөн адамдар, мырзалар да, айымдар да, сабакка окшогон же балалыктай сезилген иш-чаралардан баш тартышы мүмкүн. Анын ордуна жардам сурап көрүңүз: «Буларды иреттөөгө жардам бересизби?» Кичинекей топтор же жекеме-жеке убакыт чоң бөлмөгө караганда ыңгайлуураак болушу мүмкүн."
+  - q: "Ага аспаптарды колдонууга уруксат берүү коопсузбу?"
+    a: "Көз салып турганда жана коопсуз аспаптар менен гана. Электр аспаптарын, бычактарды жана курч нерселердин баарын алып салыңыз, ал эми жыгач кесегин шыгымдоо, таза майда аспаптарды саралоо же чоң болтторду кол менен буралоо сыяктуу тапшырмаларды сунуштаңыз. Alzheimer’s Association устаканада курч буюмдарды алып салууну сунуштайт, ошентип жыгачты шыгымдоо сыяктуу ишти коопсуз улантууга болот."
+  - q: "Ал адис болгон. Жөнөкөй тапшырмалар аны ренжитпейби?"
+    a: "Эгер алар жөн эле бош иш катары көрсөтүлсө, ренжитиши мүмкүн. Тапшырманы чыныгы жардам катары сунуштаңыз, чоңдорго ылайыктуу нерселерди колдонуңуз жана анын мурунку ролуна жакын нерсени тандаңыз, мисалы тизмени карап чыгуу, папканы иреттөө же каттарды жөнөтүүгө даярдоого жардам берүү. Эгер ал бир нерседе абдан чебер болгон болсо, ошол эле тармактагы, бирок башкача иш-чара салыштыруу сезимин азыраак туудурушу мүмкүн."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Адамдар көбүнчө «деменции бар эркектер үчүн иш-чаралар» деп издешет, анткени адаттагы сунуштар жашоосундагы мырзага туура келбей сезилет. Бул түшүнүктүү. Бирок жооп «эркектерге ылайыктуу» иш-чаралардын тизмеси эмес. Бул конкреттүү мырзанын өзүнөн баштоо: ал эмне иш кылган, бош убактысында эмне менен алектенген жана эмнеден өзүн пайдалуу сезген. Кызыкчылыктар ар кимде ар түрдүү. Көптөгөн мырзалар тамак бышырууну, багбанчылык кылууну, сүрөт тартууну же ырдоону сүйөт, ал эми көптөгөн айымдар унааларды жана бейсболду жакшы көрөт.
 
-## How do I find activities he will actually enjoy?
+## Ал чындап жактыра турган иш-чараларды кантип тапсам болот?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Анын жашоо тарыхынан баштаңыз. Alzheimer’s Association [күнүмдүк планды](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) адамдын жактыргандарынын, жактырбагандарынын, күчтүү жактарынын жана кызыкчылыктарынын негизинде, ошондой эле ал мурун күнүн кантип уюштурганына жараша түзүүнү сунуштайт. Өзүңүздөн төмөнкүлөрдү сураңыз:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Ал кандай иш кылган?** Кеңседе, фермада, заводдо, уста катары, аскерде, соодада, мугалим болуп, айдоочу болуп же үйдөбү?
+- **Бош убактысында эмне менен алектенген?** Балык уулоо, карта оюндары, жыгач устачылык, спорт, чиркөө, музыка, тамак бышыруу, гараждагы унаабы?
+- **Анын адаттары кандай болгон?** Ар күнү эртең менен кофе ичип гезит окуганбы? Аба ырайын текшергенби? Ишемби күндөрү унааны жууганбы?
+- **Ал азыр деле эмнени өзү баштайт?** Association белгилегендей, эгер адам соруп жазуу сыяктуу иштерди суралбай эле баштаса, аларды күнүмдүк адатка кошууга болот.
+- **Ал эмнеден алыс болот?** Айрым адамдар спортту көргөндү жактырат, ал эми башкалары ылдамдыкты жана ызы-чууну тынчы жок кылат деп сезиши мүмкүн. Ал качан бактылуу, тынчсыз же ачуулуу болуп калганын байкаңыз.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Үй-бүлө жана эски достор менен да сүйлөшүңүз. Алар күнүмдүк жашоодон кеткен кызыкчылыктарды эскериши мүмкүн.
 
-## Activity ideas based on past work
+## Мурунку ишине негизделген иш-чара идеялары
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer’s Association ачык мисал келтирет: мурун кеңседе иштеген адам тыйындарды кутучага салуу, каттарды жөнөтүүгө даярдоого жардам берүү же кылынчу иштердин тизмесин түзүү сыяктуу уюштуруучу иштерден ырахат алса, мурун фермер же багбан болуп иштеген адам короодо иштегенди жактырышы мүмкүн. Ушул эле ой көптөгөн кесиптерге ылайык келет.
 
-| Past work | Activity ideas | Simpler version |
+| Мурунку иши | Иш-чара идеялары | Жөнөкөйлөштүрүлгөн түрү |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Кеңсе же бизнес | Кагаздарды папкаларга салуу, конверттерге мөөр басуу, тизмени карап чыгуу, жазуу үстөлүнүн суурмасын иреттөө | Конверттерди үйүү; кагаз кыргычтарды кутучага салуу |
+| Устачылык же механика | Таза гайкаларды, болтторду жана шайбаларды саралоо; чоң болтторду кол менен буралоо; аспаптар каталогдорун кароо | Өлчөмү боюнча эки чыныга саралоо |
+| Фермерчилик же ландшафт | Суу куюу, өсүмдүктөрдү көчөткө отургузуу, жалбырактардын күрөгүн жыйноо, бакты текшерүү | Сиз иштеп жатканда сыртта отуруу; уруктун баштыктарын кармоо |
+| Аскердик кызмат | Бут кийимди жылтыратуу, суурманы тартипке келтирүү, эгер жактырса, кызмат убагындагы сүрөттөрдү кароо | Ошол мезгилдеги музыканы угуу |
+| Соода же кардарлар менен иштөө | Конокторду тосуп алуу, тамак-аш үлүштүрүү, купондорду саралоо | Эшиктин жанында отурып салам берүү |
+| Мугалимдик | Үн чыгарып окуу, китептерди иреттөө, сүрөттөрдү темасы боюнча саралоо | Чогуу сүрөттүү китепти кароо |
+| Айдоо же транспорт | Карталарды же эски унаа журналдарын кароо, унааны жуу | Айвандан өтүп бараткан унааларды көрүү |
+| Үй-бүлө жана үй чарбалары | Кийгиз жуугандарды бүктөө, дасторкон жайуу, кечки тамакка жардам берүү | Салфеткаларды тегиздөө; аралаштыруу |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Аскердик кызмат сыяктуу айрым эскерүүлөр күчтүү сезимдерди козгошу мүмкүн. Анын каалоосун ээрчиңиз, мурунку жөнүндө сүйлөшүүнү жагымдуу багытта сактаңыз жана ал капа болуп кеткендей сезилсе, теманы акырындык менен алмаштырыңыз.
 
-## Activity ideas based on hobbies
+## Хоббилерине негизделген иш-чара идеялары
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Жыгач устачылык.** Жылма жыгач кесегин шыгымдоо же канаттуулар үчүн кичинекей үй жасоо топтомун боёо. Alzheimer’s Association устаканадан кооптуу материалдарды жана аспаптарды алып салууну сунуштайт, ошентип жыгачты шыгымдоо сыяктуу иш коопсуз жана жагымдуу боло берет.
+2. **Балык уулоо.** Илгектери алынган балык уулоо кутучасын иреттөө, балык уулоо журналдарын карап чыгуу же чогуу суу жээгинде отуруу.
+3. **Унаалар.** Унааны жуу, хром бөлүктөрүн жылтыратуу, классикалык унаалардын сүрөттөрүн көрүү же жоолукта жүрүү.
+4. **Спорт.** Эски оюнду же маанилүү учурларды көрүү, жумшак топ ыргытуу, килемдин үстүндө гольф топторун тебүү же бейсбол карталарын саралоо. Жеңил өтсүн жана упай саноону таштап коюңуз.
+5. **Карта жана оюндар.** Тааныш карта оюндун жөнөкөй туру, домино же дал келген картаны табуу үчүн карталарды которуу. Баары эс алуу абалында өтсүн.
+6. **Музыка.** Жаштык жана жигирмалык курактагы ырлар, сүйүктүү топ же руханий ыр. [Музыка иш-чаралары боюнча колдонмобузду](/activities/music/) караңыз.
+7. **Тамак бышыруу жана грилл.** Жашылчаларды жуу, соусту аралаштыруу, котлет жасоо же сиз бышырып жатканда анын атактуу чилиси кантип жасалганын айтып берүү.
+8. **Гезит.** Alzheimer’s Association дайыма гезит окуган адам мазмунун толук түшүнө албаганда да окууну улантышы мүмкүн деп белгилейт. Эртең менен кофе ичип гезит окуу адаты сакталышы мүмкүн.
+9. **Куруу.** Чоң бөлүктөрү бар моделдер же чоңдор үчүн жөнөкөй куратор топтомдору. Кармоо оңой болгон бөлүктөрдү тандаңыз.
+10. **Бир нерсеге кам көрүү.** Үй жаныбарын тамактандыруу, күтүү же сейилдетүү, канаттууларга жем салуу же өсүмдүктөргө суу куюу. NIA [үй жаныбарын тамактандыруу, күтүү же сейилдетүүнү](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) адамдар жактырышы мүмкүн болгон иш-чаралардын катарына кошот.
 
-## How do I offer an activity without it feeling like busywork?
+## Иш-чараны бош иштердей кылып көрсөтпөөнүн жолдору
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Аны чыныгы жардам катары сунуштаңыз. Alzheimer’s Association «Суранам, мага жардам бересизби?» деп сурап, тапшырмаларды максат менен байланыштыруу сунуштайт. Салыштырыңыз:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- «Бул болтторду сарагыңыз келеби?» (сыноого окшойт)
+- «Мен аралаш майда аспаптардын баштыгын сатып алдым, текчени оңдоштон мурун буларды сарап коюшуум керек. Жардам бересизби?» (ишке окшойт)
 
-Other tips:
+Дагы башка кеңештер:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Чоңдорго ылайыктуу нерселерди колдонуңуз.** Курч кырлары алынган чыныгы аспаптар, чыныгы каталогдор, чыныгы конверттер.
+- **Жанаша иштеңиз.** Эки адамдын биргелешип иштеши — шериктештик. Бир адамдын экинчисин карап турушу — көз салуу.
+- **Түзөтпөңүз.** Эгер болттор туура эмес чыныга түшсө, ошондой калсын. Маанилүүсү — чогуу өткөргөн убакыт жана пайдалуу экенин сезүү.
+- **Баштоого жардам бериңиз.** Alzheimer’s Association белгилегендей, көптөгөн адамдарда бир нерсе кылгысы келсе да, уюштуруу жана баштоо кыйын болушу мүмкүн. Биринчисин чогуу кылыңыз.
 
-## How do I adapt as things change?
+## Абал өзгөргөндө кантип ыңгайлаштыруу керек?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Деменции улана берген сайын Alzheimer’s Association жөнөкөй, кайталануучу тапшырмаларды киргизүүнү жана адам азыраак активдүү рольго өтүүгө даяр болууну сунуштайт. Мурда моторлорду оңдогон мырза азыр таза ачкычты кармап, унаалар жөнүндө сүйлөшкөндү же сиздин иштеп жатканыңызды көргөндү жактырышы мүмкүн. Көрүп отуруу да — катышуу.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Эгер ал бир нерседе абдан чебер болгон болсо, мурунку ишине байланыштуу, бирок башка иш-чара эски кесибине караганда жакшыраак сезилиши мүмкүн. Association адис сүрөтчү өз ишиндеги өзгөрүүлөрдөн капа болушу мүмкүн, ал эми ышкыбоз адам жаңы ыкманы жактырып калышы мүмкүн деп белгилейт. Ушундай эле абал чебер жыгач устага да тиешелүү болушу мүмкүн.
 
-## Safety with work-style tasks
+## Ишке окшош тапшырмалардагы коопсуздук
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Электр аспаптарын, бычактарды, мыктарды жана учу курч бурамаларды алып салыңыз.
+- Боёк эриткичтерин, бензинди жана химиялык заттарды кулпуланган жерде сактаңыз.
+- Эгер ал мындан ары унаа айдабаса, унаанын ачкычтарын көрүнбөгөн жерге коюңуз.
+- Устаканадагы жана короодогу бардык иштерге көз салып туруңуз.
+- Жутуп коюуга мүмкүн болбогудай чоң бөлүктөрдү тандаңыз.
 
-## What if he says no?
+## Ал «жок» десечы?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Муну урматтаңыз. «Жок» деген жооп тапшырма өтө кыйын, балалыктай же бүгүн ага туура келбейт дегенди билдириши мүмкүн. Alzheimer’s Association мажбурлабаш керек деп эскертет. Башка тапшырманы, башка убакытты сынап көрүңүз же жөн гана жанаша отуруңуз. [Алар «жок» дегенде эмне кылуу керек](/caregiving/when-they-say-no/) деген бөлүмдү караңыз.
 
-## Games and conversation that fit
+## Туура келген оюндар жана сүйлөшүүлөр
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) тааныш америкалык макалдарды колдонот жана сүйлөшүүгө түрткү берет. [Conversation Cards](/games/conversation-cards/) темалар боюнча ачык, сынак эмес суроолорду камтыйт, бул иш жана хоббилер жөнүндө эскерүүлөрдү ачууга жардам бериши мүмкүн. [Picture Puzzle](/games/picture-puzzle/) бөлүктөрдү алмаштырганда бүт сүрөттү көрүнүктүү калтырат, ал эми чоң жазуу менен басылган [Word Search](/games/word-search/) оюнун басып чыгып, ашкана үстөлүндө калем менен ойноого болот. Анын мурункусу тууралуу аны сыналбай сүйлөшүүнүн жолдору үчүн [эскерүү иш-чаралары боюнча колдонмобузду](/activities/reminiscence/) караңыз.

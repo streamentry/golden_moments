@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "ڈیمنشیا ہٕندۍ گۄڈنِکۍ نِشٲنِی تہٕ ڈاکٹرس نِش وُن"
+seoTitle: "ڈیمنشیا ہٕندۍ گۄڈنِکۍ نِشٲنِی تہٕ ڈاکٹرس نِش وُن"
+description: "ڈیمنشیا ہٕندۍ عام گۄڈنِکۍ نِشٲنِی، عمرس سٟتؠ گٔژھن وٲلؠ تبدیلیَن ہُنٛد فرق، یادداشتٕچ علاج ہیٚکن وٲلؠ وجوہات، تہٕ ڈاکٹرس نِش گژھنٕچ تیاری۔"
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  تِژھ یادداشت یۄسہٕ دۄہٕکۍ کامَن منز رُکاوٹ بَناوِ، مانوس کامَن منز دِقّت، وقتس یا جایِ ہُنٛد پھیر،
+  تہٕ مزاجس یا فٲصلہٕ منز تبدیلی ڈیمنشیا ہٕندۍ گۄڈنِکۍ نِشٲنِی ٲسِتھ ہیکَن۔ واریاہ بییہِ حالتو، مِثلَن
+  تھایرایڈ سمسیا، وٹامن B12 ہُنٛد کم، دَوا ہٕندۍ اَثرات، ڈِپریشن تہٕ نیندٕچ سمسیا، ہیکَن ہیوٗ تبدیلی
+  پٲدٕ کٔرِتھ۔ صِرف اکھ اہل ڈاکٹَر ہیکِہِ تشخیص کٔرِتھ۔ اچانک پھیر گَژھ فوراً طبی مدد ہُنٛد ضروٗرت۔
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "کُنہِ ساتھ کینٛہہ مٔشراوُن چھُ عمرس سٟتؠ عام؛ دۄہٕکۍ زندگی منز رُکاوٹ بناون وٲلؠ تبدیلی چھےٚ جانچ کرنٕچ قابل۔"
+  - "Alzheimer's Association چھےٚ 10 خبردار کرن وٲلؠ نِشٲنِی بیان کران، تہٕ پرٛتھ سٟتؠ چھُ موازنہٕ خٲطرٕ عمرس سٟتؠ عام تبدیلی۔"
+  - "تھایرایڈ سمسیا، وٹامن B12 ہُنٛد کم، دَوا ہٕندۍ اَثرات، ڈِپریشن، انفیکشن تہٕ نیندٕچ سمسیا ہیکَن سٲری یادداشتس پؠٹھ اَثر تراوِتھ، تہٕ کینٛہہ چھےٚ علاج سٟتؠ ٹھیک گژھن وٲلؠ۔"
+  - "صِرف اکھ اہل ڈاکٹَر ہیکِہِ ڈیمنشیا ہٕنز تشخیص کٔرِتھ؛ آن لائن کوئز تہٕ خود جانچ ہیکَن نہٕ یہِ کٔرِتھ۔"
+  - "اگر پھیر گَنٹن یا دۄہَن منز اچانک یِیِ، تیٚلہِ ہیکِہِ یہِ ڈیلیریم ٲسِتھ تہٕ فوراً طبی مدد ہُنٛد ضروٗرت چھُ۔"
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "کیا مٔشراوُن چھا عمرس سٟتؠ عام چیز؟"
+    a: "کینٛہہ حدس تام چھُ۔ National Institute on Aging چھُ ونان زِ کُنہِ ساتھ چیز تھٲوِتھ مٔشراوُن یا بِل مٔشراوُن چھُ عام طور ہلکہٕ، عمرس سٟتؠ وابستہٕ مٔشراوُن۔ ڈیمنشیا چھُنہٕ عمرس سٟتؠ عام حصہٕ۔ اگر یادداشتٕچ سمسیا دۄہٕکۍ کام، مِثلَن ڈرایونگ، فون اِستعمال کرُن یا گَر واپس گژُھن مشکل بناوِ، تیٚلہِ چھُ ڈاکٹرس سٟتؠ مشورٕ کرُن ضروری۔"
+  - q: "کیا یادداشتٕچ سمسیا ہیکِہِ ڈیمنشیا بغیر بییہِ کُنہِ وجہ سٟتؠ ٲسِتھ؟"
+    a: "آ، ہیکِہِ۔ National Institute on Aging چھُ بییہِ وجوہاتو منز تھایرایڈ، گردہ یا جگرٕچ سمسیا، دَوا ہٕندۍ اَثرات، ڈِپریشن تہٕ پریشٲنی، وٹامن B12 ہُنٛد کم، شراب ہُنٛد غلط اِستعمال، نیندٕچ سمسیا، انفیکشن تہٕ زٔخمِ دِماغ ہٕندۍ مثالہٕ دِوان۔ یِمو منز چھےٚ کینٛہہ سمسیا علاج پتہٕ بہتر گژھان، امی موجوب چھُ طبی جانچ اہم۔"
+  - q: "کیا بٔے ہیکِہٕ گَرس منز کٲنسہِ ڈیمنشیا ہٕنز جانچ کٔرِتھ؟"
+    a: "نہٕ۔ صِرف اکھ اہل ڈاکٹَر ہیکِہِ ڈیمنشیا ہٕنز تشخیص کٔرِتھ، یتھ منز طبی تاریخ، جسمٲنی جانچ، یادداشت تہٕ سوچنٕچ جانچ، لیب ٹیسٹ تہٕ کُنہِ ساتھ دِماغٕکۍ سِکین شٲمِل چھِ۔ تِم مختصر ٹیسٹ تہِ یِم ڈاکٹَر کران چھِ، چھِنہٕ پانہٕ وٲنۍ تشخیص خٲطرٕ کٲفی۔"
+  - q: "اگر کانٛہہ شخص اچانک پھیرِ، تیٚلہِ کیا کرُن؟"
+    a: "فوراً طبی مدد مَنگِو۔ اچانک پھیر ہیکِہِ ڈیلیریم ٲسِتھ، یتھ VA چھُ طبی ہنگٲمی حالت ونان۔ فوراً تٔمِ سٕندِس صحت دِہندِس نِش کال کٔرِو یا 112 پؠٹھ کال کٔرِو، تٔمِس نِش روزِو، تہٕ تِمہٕ سٲری دَوا نوٹ کٔرِو یِمہٕ سُہ چھُ ہیوان۔"
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+پَنٕنِس یادداشتس منز تبدیلی محسوس کرٕنۍ، یا تٔمِس شخصہٕ سٕندِس یادداشتس منز یَس سٟتؠ تُہؠ محبت چھُو، ہیکِہِ پریشان کُن ٲسِتھ۔ یِہ صفہٕ ہیکِہِ تُہندِ فٲصلہٕ منز مدد کٔرِتھ زِ کَمہِ وِزِ گژھ ڈاکٹرس نِش اپاینٹمنٹ بنٲوٕنۍ تہٕ تَتھ خٲطرٕ کِتھہٕ پٲٹھۍ تیاری کرٕنۍ۔ یِہ ہیکِہِ نہٕ وَنِتھ زِ کٲنسہِ چھا ڈیمنشیا۔ **صِرف اکھ اہل ڈاکٹَر ہیکِہِ ڈیمنشیا ہٕنز تشخیص کٔرِتھ**، تہٕ واریاہ تِژھ حالتو یِمہٕ یادداشتس پؠٹھ اَثر تراوان چھےٚ، چھِنہٕ ڈیمنشیا آسان۔ مہربٲنی کٔرِتھ مَہ کٔرِو آن لائن کوئزو یا خود جانچن پؠٹھ بھروسہٕ۔
 
-## What are the early signs of dementia?
+## ڈیمنشیا ہٕندۍ گۄڈنِکۍ نِشٲنِی کیا چھِ؟
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) چھےٚ 10 گۄڈنِکۍ نِشٲنِی بیان کران۔ یِم چھِ پرٛتھ نِشٲنی سٟتؠ عمرس سٟتؠ عام تبدیلی ہُنٛد موازنہٕ تہِ کران۔ سادٕ لفظَن منز:
 
-| Sign worth checking | More typical with age |
+| جانچ کرنٕچ قابل نِشٲنی | عمرس سٟتؠ زیٛادٕ عام |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| تِژھ یادداشتٕچ کَمی یۄسہٕ دۄہٕکۍ زندگی منز رُکاوٹ بَناوِ، مِثلَن تازٕ واقعہٕ مٔشراوُن یا اکھے چیز واریاہ لٹہِ پٕرٛژھُن | کُنہِ ساتھ ناو یا اپاینٹمنٹ مٔشراوُن تہٕ پتہٕ یاد پیوُن |
+| منصوبہٕ بناونس یا سمسیا حل کرنس منز دِقّت، مِثلَن مانوس ترکیب پؠٹھ عمل کرُن یا بِلَن ہُنٛد حساب تھَوُن | گَرکۍ بِلَن منز کُنہِ ساتھ غلطی گژُھن |
+| گَرس، کٲمس یا نِبر دۄہٕکۍ مانوس کام مۄکلاونس منز دِقّت | کُنہِ ساتھ مائیکروویو سیٹنگ یا ٹی وی ریکارڈنگ خٲطرٕ مددٕچ ضروٗرت پیوٕنۍ |
+| تٲریخ، موسم یا جایِ ہُنٛد احساس روزنہٕ | ہفتٕکِس دۄہس منز غلطی گژُھن تہٕ پتہٕ سمجھُن |
+| فٲصلہٕ سمجھنَس، پرنس یا رَنگَن منز فرق کرنس منز نوٚو دِقّت | موتیا بِنٛد (cataracts) سٟتؠ گژھن وٲلؠ نظرٕچ تبدیلی |
+| لفظَن سٟتؠ نوٚو دِقّت، مِثلَن کتھ باتھ منز رُکُن یا چیزن غلط ناو دِیُن | کُنہِ ساتھ صحیح لفظ لبنس منز دِقّت پیوٕنۍ |
+| چیزِ غیر معمولی جایَن تھٲوِنۍ تہٕ پتہٕ ہیکنہٕ واپس لبُن | کُنہِ ساتھ چیز مٔشراوٕنۍ تہٕ پتہٕ تلاش کٔرِتھ لبٕنۍ |
+| کمزور فٲصلہٕ، مِثلَن پیسَن یا ذٲتی صفٲئی معاملن منز | کُنہِ ساتھ غلط فٲصلہٕ کرُن |
+| شوقَن، کٲمس یا سماجی سرگرمیَن نِش الگ روزُن | کُنہِ ساتھ خاندٲنی یا سماجی پروگرامَس گژھنُک دِل کرنہٕ |
+| مزاجس یا شخصیتس منز تبدیلی، مِثلَن پھیرُن، شک کرُن، خوفزدٕ گژُھن یا پریشان گژُھن | پَننِس طرزِ عملس پؠٹھ قائم روزُن تہٕ معمول بَدلاونس پؠٹھ چِڑچِڑا گژُھن |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+صِرف اکھ نِشٲنی چھُنہٕ یِہ معنی تھاوان زِ ڈیمنشیا چھُ۔ اہم چیز چھےٚ **تٔمِس شخصہٕ سٕندِس معمولہٕ نِش تبدیلی**، خاص طور تَمہِ وِزِ یَمہِ سٟتؠ دۄہٕچ زندگی مشکل گژھِ۔
 
-## How is normal aging different from dementia?
+## عام عمرس سٟتؠ گژھن وٲلؠ تبدیلی تہٕ ڈیمنشیا منز کیا فرق چھُ؟
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) چھُ ونان زِ واریاہ بزرگ لُکھ چھِ محسوس کران زِ تِم چھِ چیزِ آہستہٕ یاد کران، یا کُنہِ ساتھ چیز مٔشراوان یا بِل مٔشراوان۔ یِم چھِ عام طور ہلکہٕ مٔشراونٕچ نِشٲنِی آسان۔ **ڈیمنشیا چھُنہٕ عمرس سٟتؠ عام حصہٕ۔** سنگین یادداشتٕچ سمسیا چھےٚ دۄہٕکۍ سرگرمی مشکل بناوان، مِثلَن ڈرایونگ، فون اِستعمال کرُن یا گَر واپس گژُھن۔
 
-The NIA suggests talking with a doctor if someone:
+NIA چھُ مشورٕ دِوان زِ اگر کانٛہہ شخص:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- اکھے سوال واریاہ لٹہِ پٕرٛژھِ
+- تِمن جایَن منز پھیرِ یِمہٕ تٔمِس جان آسہَن
+- ترکیب یا ہدایتن پؠٹھ عمل کرنس منز دِقّت محسوس کرِ
+- وقتس، لُکن تہٕ جایَن بابت واریاہ پھیرِ
+- پَنٕنِس خیال تھونس منز کوتاہی کرِ، مِثلَن ٹھیک کھینٕچ نہٕ، نہانٕچ نہٕ یا غیر محفوظ طریقہٕ عمل کرُن
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+کینٛہن لُکن چھُ **ہلکہٕ شعوری کمزوری (mild cognitive impairment، MCI)** آسان۔ یِہ چھُ یِہ معنی تھاوان زِ تٔمِس چھےٚ پَننہِ عمرٕکین بییہِ لُکن ہٕندِ مقابلہٕ یادداشت یا سوچنس منز واریاہ دِقّت، مگر سُہ چھُ دۄہٕکۍ زندگی ہُنٛد انتظام کٔرِتھ ہیکان۔ NIA چھُ ونان زِ MCI ہیکِہِ الزائمر ہٕنز گۄڈنِچ نِشٲنی ٲسِتھ، مگر پرٛتھ کٲنسہِ یَس MCI آسہِ تٔمِس چھُنہٕ ضروری الزائمر گژُھن۔
 
-## What else can cause memory problems?
+## یادداشتٕچ سمسیا بییہِ کِتھہِ وجوہاتو سٟتؠ ہیکِہِ گژُھن؟
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+ڈیمنشیا بغیر بییہِ واریاہ چیز ہیکَن یادداشتس پؠٹھ اَثر تراوِتھ، تہٕ کینٛہہ چھےٚ علاج سٟتؠ بہتر گژھان۔ NIA چھُ یِم وجوہات دِوان:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **تھایرایڈ، گردہ یا جگرٕچ سمسیا**
+- **دَوا ہٕندۍ اَثرات**
+- **ڈِپریشن تہٕ پریشٲنی**
+- **وٹامن B12 ہُنٛد کم** یا صِحتمند غذا کم کھیوُن
+- **نیندٕچ سمسیا**
+- **شراب یا نشہٕ آوُر چیزن ہُنٛد غلط اِستعمال**
+- **انفیکشن، خون جمُن یا دِماغس منز رسولی**
+- **زٔخمِ دِماغ**، مِثلَن چوٹ
+- **بوڈ دباو یا غم**، مِثلَن ریٹائرمنٹ یا شریکِ حیات سُنٛد فوت گژُھن
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+بوزنٕچ تہٕ نظرٕچ سمسیا ہیکِہِ تہِ پھیرَس سٟتؠ غلط سمجھنہٕ یِیِتھ؛ سون [بوزنٕچ رہنما](/brain-health/hearing/) وُچھِو۔ امی موجوب چھُ طبی جانچ ضروری۔ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) مُطٲبق چھِ ڈاکٹَر اکثر خونٕکۍ ٹیسٹ کرناوان، تاکہ تھایرایڈ سمسیا، وٹامنٕچ کَمی تہٕ انفیکشن ہُنٛد پتاہ لگِ۔ اچھی [نیند](/brain-health/sleep/) تہٕ ڈِپریشن ہُنٛد علاج تہِ چھُ ذکر کرنس لایق۔
 
-## Sudden confusion is an emergency
+## اچانک پھیر چھُ ہنگٲمی حالت
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**اگر پھیر گَنٹن یا دۄہَن منز اچانک یِیِ، تیٚلہِ چھُ فوراً طبی مدد ہُنٛد ضروٗرت۔** یِہ ہیکِہِ ڈیلیریم ٲسِتھ۔ [VA چھُ ڈیلیریم](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) اکھ طبی ہنگٲمی حالت قرار دِوان تہٕ فوراً شخصہٕ سٕندِس صحت دِہندِس نِش کال کرنُک یا 112 پؠٹھ کال کرنُک مشورٕ دِوان۔ نِشٲنِی ہیکَن یِم ٲسِتھ:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- صاف سوچنٕچ صلاحیت کم تہٕ واریاہ گژُھن
+- توجّہ دِنس منز دِقّت
+- بikhri سوچ
+- غیر معمولی طور سُست گژُھن، یا غیر معمولی طور بے چین تہٕ پریشان گژُھن
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+یِہ ہیکِہِ کٲنسہِ تہِ گژُھن، تِمن لُکن تہِ یِم گوڈٕ پیٹھے ڈیمنشیا سٟتؠ زندگی گزاران چھِ۔ [NHS](https://www.nhs.uk/symptoms/confusion/) مُطٲبق چھِ عام وجوہاتو منز انفیکشن (پیشابٕچ نٲلی ہُنٛد انفیکشن چھُ بزرگن تہٕ ڈیمنشیا سٟتؠ زندگی گزارن وٲلؠن لُکن منز عام)، فالج، ذیابیطس وٲلؠن منز خونَس منز شوگر کم گژُھن، زٔخمِ دِماغ تہٕ کینٛہہ دَوا شٲمِل۔ یوتام مدد واتان چھےٚ، تٔمِس شخصہٕ سٕندِس نکھ روزِو تہٕ مختصر، سادٕ لفظَن منز تسلی دِیِو۔ واریاہ سوال مَہ پٕرٛژھِو، تہٕ تِمہٕ سٲری دَوا نوٹ کٔرِو یِمہٕ سُہ چھُ ہیوان۔
 
-## How do I prepare for the doctor's appointment?
+## بٔے کِتھہٕ پٲٹھۍ ہیکِہٕ ڈاکٹرس نِش اپاینٹمنٹ خٲطرٕ تیاری کٔرِتھ؟
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+اچھ اپاینٹمنٹ چھےٚ اچھ نوٹن پؠٹھ شروع گژھان۔ [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) چھُ مشورٕ دِوان زِ سٟتؠ نِیِو:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **یادداشت، مزاج تہٕ رٔوِیہِ منز تبدیلیَن ہٕنز فہرست**، مخصوص مثالن سٟتؠ تہٕ اندازاً زِ یِم کَمہِ وِزِ شروع گٔے
+2. **پٔتمِی تہٕ موجودٕ صحت سمسیا**، یتھ منز خاندٲنی تاریخ منز یادداشتٕچ سمسیا تہِ شٲمِل چھےٚ
+3. **سٲری نُسخہٕ والی تہٕ بغیر نُسخہٕ والی دَوا**
+4. **کانٛہہ تہِ وٹامن یا سپلیمنٹ**
+5. **تُہندۍ سوال**، مِثلَن کمہِ ٹیسٹ گژھن، تِمن کینٛژھہ وقت لگِ تہٕ نتیجہٕ کَمہِ وِزِ یِن
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+اکھ خاندٲنی رُکن یا دوست سٟتؠ نِیُن یَس تٔمِس شخصہٕ سٟتؠ واریاہ واقفیت چھےٚ، چھُ تہِ مددگار آسان۔ [NIA چھُ سمجھاوان](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) زِ ڈاکٹَر ہیکَن شخصہٕ سٕندِس تہٕ خاندٲنی رُکن سٕندِس صحت، دَوا، دۄہٕکۍ سرگرمی تہٕ رٔوِیہِ منز تبدیلیَن بابت پٕرٛژھِتھ۔ ڈاکٹَر ہیکَن یہِ تہِ کٔرِتھ:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- یادداشت، سمسیا حل کرنٕچ صلاحیت، توجّہ، گِنزراونٕچ تہٕ زبانٕچ جانچ کرٕنۍ
+- بییہِ وجوہاتو ہٕنز تلاش خٲطرٕ خون، پیشاب تہٕ باقی ٹیسٹ کرنُک ہُکم دِیُن
+- ڈِپریشن یا بییہِ ذِہنی صحتٕچ حالت جانچ کرٕنۍ
+- CT یا MRI ہِوۍ دِماغٕکۍ سِکین کرنُک ہُکم دِیُن
+- کٲنسہِ ماہرَس نِش حوالہٕ دِیُن، مِثلَن بزرگن ہُنٛد ڈاکٹَر، نیورولوجسٹ، بزرگن ہُنٛد ذِہنی صحت ماہر یا نیورو سائیکالوجسٹ
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA چھُ ونان زِ شعوری جانچ چھےٚ Medicare Annual Wellness Visit ہُنٛد لازمی حصہٕ، یُس تشویش بیان کرنٕچ اکھ موزوں وِزِ ہیکِہِ ٲسِتھ۔ تِم مختصر ٹیسٹ تہِ یِم ڈاکٹَر کران چھِ، چھِنہٕ پانہٕ وٲنۍ ڈیمنشیا ہٕنز تشخیص خٲطرٕ کٲفی۔ یِم چھِ مکمل جانچ کُن اکھ گۄڈنِیُک قدم، تہٕ تشخیص خٲطرٕ ہیکِہِ اَکہِ کھوتہٕ واریاہ وِزِ یُن پرُن۔ NIA چھُ مشورٕ دِوان زِ یِمن لُکن یادداشتٕچ سمسیا آسہِ، تِم گژھن پرٛتھ 6 نِش 12 رؠتَن منز ڈاکٹرس نِش واپس گژُھن۔
 
-## Raising the subject kindly
+## نرمی سان موضوع چھیرُن
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+اگر تُہؠ بییہِ کٲنسہِ شخصہٕ سٕندِس بارس منز فکر چھُو، اکھ پُرسکون، نجی وقت چُنِو۔ تِمن خاص چیزن ہٕنز کتھ کٔرِو یِمہٕ تۄہہِ نوٹ چھےٚ کرِمَژ، تہٕ یِہ وَنِو تٔمِ سٕندِس صحتٕچ فکر کٔرِتھ، تنقید ہٕندِس اندازس منز نہٕ۔ عام طبی جانچُک مشورٕ دِیُن ہیکِہِ کم پریشان کُن لَگِتھ۔ تٔمِس شخصس فٲصلن منز شٲمِل کٔرِو تہٕ تٔمِس سٟتؠ تِتھۍ پٲٹھۍ کتھ کٔرِو یِتھہٕ پٲٹھۍ أکِس بالغس سٟتؠ گژھِ کرٕنۍ۔ سٲنۍ [کتھ باتھ ہٕندۍ ہدایتہٕ](/caregiving/communication-tips/) ہیکَن مدد کٔرِتھ۔
 
-## Talk with a doctor
+## ڈاکٹرس سٟتؠ کتھ کٔرِو
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+اگر تۄہہِ یادداشتس، سوچنس، مزاجس یا دۄہٕکین صلاحیتن منز تِژھ تبدیلی نظر یِوان چھےٚ یۄسہٕ نوٚو چھےٚ تہٕ برابر چھےٚ روزان، تیٚلہِ کٔرِو اَکھ ابتدٲیی طبیبَس نِش اپاینٹمنٹ۔ اچانک پھیرٕچ صورتس منز کٔرِو فوراً 112 پؠٹھ کال یا تٔمِ سٕندِس صحت دِہندِس نِش کال۔ جلدی جانچ کرنہٕ سٟتؠ ہیکَن علاج ہیٚکن وٲلؠ وجوہات لبنہٕ یِن، تہٕ اگر ڈیمنشیا آسہِ، تیٚلہِ چھُ منصوبہٕ بناونس تہٕ مدد لبنس خٲطرٕ واریاہ وقت آسان۔ یَتھ دوران تھٲوِو پنُن تہِ خیال؛ سون [دیکھ بھال کرن وٲلؠن ہُنٛد پَنُن خیال تھاونٕچ رہنما](/caregiving/caregiver-self-care/) وُچھِو۔
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+یِہ صفہٕ چھُ عام معلومات خٲطرٕ، طبی مشورٕ نہٕ۔ سون [طبی دستبرداری](/medical-disclaimer/) وُچھِو۔

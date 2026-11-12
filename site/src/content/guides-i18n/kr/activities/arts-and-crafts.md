@@ -1,32 +1,33 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Awo kəla-kəla am kura dementia-a kərma dəganadə ro"
+seoTitle: "Awo kəla-kəla dementia-a: Am kura-a, tada gənatənyi"
+description: "Shawarri awo kəla-kəla am kura dementia-a kərma dəganadə ro, launin rəngin, foto kolzə, fure dabbartə, kuru futu dawartə-a fasartə-a badiyaramtə-a."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Awo kəla-kəla ngəla am kura dementia-a kərma dəganadə ro kurun kuru
+  fasarlan dəganadə-a so: launin rəngin (watercolor), foto jarida lan
+  kolzə, fure dabbartə, lulu, kat katga gənatə, biya shafi rəngin za
+  am kura-a. Karewa gana laa, ngəlaro badiyaram yitə badizam bərniro
+  məmannin, cidaza cidazən manazə, kuru loktu adəga faltə rokko nəmzəna
+  ngawon no. Awo dəa tammatawuna də məmangənnyi, nzakkoyə.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Karewa-a batun-a am kura-a so kərne, misallo warak launin rəngin, fure jili-a, kuru foto jarida lan; kərəmma kəlakəla, lebal, biya shafi tada-ye gənatənyi."
+  - "Awo cidazənama dəro hangal yite: rənginwa, lulu diwal də, kuru manazə. Awo dəa tammatawuna də ngəla də, amma nadiro wajip gəni."
+  - "Futu raktə lan nadiro faida yite, misallo kat nyiya ro, biya tebur dabbartə ro."
+  - "Kam dəga badiyaram badizayinro, ngawon kənnəm gaptə. Bürus man lan badizam bərniro məmannin də sawa."
+  - "Awo dəa loktu fal lan tammatawu wajip gəni, kuru kənnəm dan ngaworo dawartə də sabsoga bawo."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Futu awo kəla-kəla də tada-ye laa gənatənyi?"
+    a: "Karewa awo jili, batun am kura-a, kuru manazə martawa lan faidatə. Kərəmma kəlakəla-a shafi tada-ye so kolzə, warak launin rəngin, lulu, foto jarida lan, kuru shafi rəngin za am kura-a faidatə. Awo dəa tada ro askərtəgai gənatənyi; sawa kam kura gade ye ro manazəgai ro manane."
+  - q: "Wane awo sura ye dementia ngawo cizəna ma ro faidajin?"
+    a: "Ngawon awo gana, hangal ro kəla so faidajin: bürus kura lan rəngin kuruwu zakkə, lulu ləbləba ritə, fure gana tasa lan dabbartə, biya lita diwal lan kolzə. Raktə bərniro badizam dəga rokko badiyamin. Nyi rəngin zakkənamin ro kurum manazənam dənma kəltə fal ye."
+  - q: "Suro shi „wu sura zaktə raknyi“ cana ya?"
+    a: "Kərtəgə dəa cəzəne. Awo jawawu kalkal bawo faidatə, misallo launin rəngin faltə, kolzə, biya fure dabbartə. Biyaladcən raktə badiyaram nyiro gulatə raayin, misallo kat ro rəngin kartə, awo də jarabtə gənatənyi amma badiyaram ro walzə."
+  - q: "Shafi rəngin za am kura ro kalkalnzə?"
+    a: "Aayi, am kura ro tədin ma soya. Batun am kura-a so kərne, misallo kulo, lita, moto, biya fǝram. Alamari gənatənyi, naptə nəmjili ro yite. Andeye shafi rəngin zayede [shafi rəngin za](/games/coloring/) lan chapta raktə biya tablɛt lan rəngin za raktə."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +49,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Awo kəla-a cidawa-a so am dementia-a kərma dəganadə ro dalil fal cizayin kuru hangalnzadəga kalma ngəla lan bayənzayinro yitə, kalma matə bərniro wajip gəni. Alzheimer's Association ye bayanzəna awo sura ye [kənjo cida tammatawuna-a nadi-a](https://www.alz.org/help-support/caregiving/daily-care/art-music) kuru hangalnzadəga bayənzayin, kam kendoye so-a kam dementia-a kərma dəganadə so-a ro. Nadi kura də awo dəga am kura-a, gana-a, kuru kərtəgə bawo ro gənatə. Shafi adə awo cidawu fallan fallan, futu dawartə, kuru futu hal də faltin ro fasartə yitə.
 
-## What makes an art activity adult and not childish?
+## Awo sura ye am kura-a, tada gənatənyi?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Awo sura am kura-a də karewa jili, batun am kura-a, kuru manazə martawa lan faidatin. Alzheimer's Association ye shawari cin awo dəga am kura-abe səviya lan gənatəro kuru awo martawa cizayi biya tada-ye gənatənyi ro gənatəro.
 
-| Feels childish | Feels adult |
+| Tada-ye gənatənyi | Am kura-a |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Kərəmma kəlakəla, lebal, shiwu | Warak launin rəngin, lita, fure nguruta |
+| Shafi tada-ye rəngin za | Shafi rəngin za kulo-a, lita-a, moto-a biya fǝram-a so |
+| Alama sammaro „ngəla dim“ manazə | Manazə jili: „Rəngin bu ye adə kəli ye dəga kəlanzəna“ |
+| Awo kəla faida bawo | Kat sawa ro, awo tebur dabbartə ro, biya kyauta ro |
+| Bayan nəmkaratə laa gənatənyi | Bowotə: „Awo adə lan səmmo raamma wa?“ |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Kam dəye raayinzadəga kuru awo ngəla kərzəna dəga taktə. Kam lita cida ngəla kərzəna so lita diwal lan cidazə ngəlaro kərzəyin. Injiniya ritiradə karewa kura-a awo maket cidawube lan cidazə raayin. Maləm ritiradə kat cidazə ngəlaro kərzəyin.
 
-## Why focus on the process, not the product?
+## Niyayi nadi cidazənama dəro hangal yituwu, awo dəa tammatawunaro gəni?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Dalil də loktu faltə rokko dəga nadiro. Shawari Alzheimer's Association ye [awo faton cidawu](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ro bayanzəna, awo cidazənama dəro hangal yite, tamma dəro gəni. Sura „rəngin bu bas“ so sura ma. Kolzə foto yakkə-a so kolzə ma.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association ye kuruma bayanzəna sura cidawu ngəla so cidanza də faltin ro hangalnzadəga tuwandiyi, amma kam bərniro surajin ma so dalil bərin hangalnzadəga bayənzayinro fandiyi. Kam də burwon sura cidawu ngəla soya, karewa gade shi ngəlaro nozəna lan gade faidatə, nəmngəla cidanadəga biskero gənatənyi, biskero gənatə.
 
-## Arts and crafts ideas to try
+## Awo kəla-a cidawa-a so jarapta raktə
 
-Each idea includes how to make it simpler if it becomes hard.
+Awo sammaro futu gana ro gənatəro dalil də mbeji.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Launin rəngin faltə.** Warak launin rəngin kura dəga nji lan de, kam dəga bürus kura lan rəngin dəa kolzəro kolne. Rəngin də kəlanzadən tarzəyin, adəye jawawu battin bawo. *Gana ro:* rəngin indi bas yite, biya warak bəlilin lan nji rəngin za, alama nji ye fəlejin.
+2. **Foto jarida lan kolzə.** Burwon jarida kulo-a, dəgə-a, moto-a, bəlata-a, biya awo ngəla kərzəna-a so lan foto kartə da. Foto kartəna dəga katǝlin lan kəljinro kolne. *Gana ro:* foto kartəna dewu-a kəljin gana-a yite, kuru kəljin dəga rokko sadə.
+3. **Fure dabbartə.** Alzheimer's Foundation of America ye [fure kartəna-a kəli-a dabbartə](https://alzfdn.org/dementia-activity-gardening/) loktu-a kəla gana ro shawari cin. Tasa kuruwu, nduli ngəla, kuru kəngal burwon kartəna lan faidatə. *Gana ro:* fure gana kofi gana lan yaktə, fal fal.
+4. **Kat fure ngurutabe.** Fure dəga kitab dawun həftə fal ro ngurutə, ngawon katǝlin kədin lan kəljin. *Gana ro:* nyi kəljin dəa yakkəmin, shi fure dəa zakkərjin.
+5. **Shafi rəngin za am kura-a.** Shafi layi tagaata-a batun jili-a so kərne. Andeye [shafi rəngin za](/games/coloring/) chapta raktə biya tablɛt lan rəngin kərnəm na fal ro rəngin za raktə. *Gana ro:* na kura kura, rəngin gana, alama kura.
+6. **Lulu biya lita ləbləba.** Lulu kanadi ye ngawojin biya lita ləbləba so ritə, fasartə. Kəli lulu lan zakkə alama gana yitə. *Gana ro:* ritə-a gilgaltə-a bas cidazə də awo cidawu tammatə. Kam də lulu dəa cinzaro gənatənyi ro hangal yite.
+7. **Kat cidazə.** Alzheimer's Association ye bayanzəna cidawu jili ro yitəro: „Sawa ro kat kəndo ngəla matəbe zuyinyen. Səmmo raamma wa?“ Katǝlin kartəna-a lebal fure-a biya tambar-a gana so ngəla.
+8. **Albəm foto be.** Foto ngawo-a, kat bəlata-a, biya tikɛt ngawo-a so kɔpi rokko shafi albəm lan yakkə. Sammaro manazəgai. [Daliya hangal ngawo ye](/activities/reminiscence/) ro futu ngawo-a so nəmjili lan manazətə ro kər.
+9. **Lita diwal kəla-a alama-a.** Lita corduroy, velvet, burlap, kuru silik diwal diwal katǝlin duno lan kəljin. Tədinma də awo cidawu ma; ngawon letə də awo gade. Shawari gade [awo hangal cidawube](/activities/sensory/) lan mbeji.
+10. **Kəska ngəla ro tədin.** Kam kəskan cidazə ngəla kərzəna ro, kəskan lezə biya fato ngudobe rəngin za awo kəlanzəna gənatə. Karewa ser ser so cəzəne kuru hangal yite.
+11. **Musko fuwu lan rəngin za.** Musko ngəla kərzəna faltə, ngawon alama biya rəngin hal də-a kəla za. Adə awo indi am ngəwu so ngəla kərzai ma. [Awo musko be](/activities/music/) rui.
 
-## How do I set up an art session?
+## Futu awo sura be dawarin?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Burwon dawartə.** Samma kartə, da, kuru dawartə kam dəga bowonin kən. Makasu matəro letə loktu dəa samzəyin.
+2. **Gana ro gənatə.** Rəngin indi biya yakkə, bürus fal, warak fal. Kartə ngəwu hangal samzəyin.
+3. **Tebur dəa fa.** Lita plastik biya lita ngawo lan batkata bawo.
+4. **Na fal lan naptə.** Shi cidanadəga cidi-a nəm rokko awo nəmmin cidane. Rokkolan cidazə gənatənyi, kurum ro.
+5. **Badiyaram badizayinro yite.** Alzheimer's Association ye bayanzəna raktə nyi bürus cidaza dəga rokko badizamma. Badizayana ngawon am ngəwu cidazərayin.
+6. **Cidazənalan manazə.** Rəngin-a diwal-a so ro manane, biya sura dəga dalil daliya ro kolne. Koro jarabtə laa gənatənyi, misallo „Adə fin?“
+7. **Loktu ngəwu yite.** Awo dəa loktu fal lan tammatawu wajip gəni.
 
-## How do I adapt art as dementia changes?
+## Futu awo sura be dementia faltin ro dawarin?
 
-| Stage | What tends to work | What to adjust |
+| Səviya | Awo ngəlaro faidajin | Futu faltə |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Bərni | Klas, shafi rəngin za bayanna, albəm, kat cidazə, foto lan sura za | Cidawu kartə yite; am so-a rokko gənatə |
+| Dawu | Kolzə kartəna, launin rəngin faltə, fure dabbartə, na kura lan rəngin za | Matə matə fal; kartə-a kəljin-a so nyi dəmin |
+| Ngawo | Bürus kuruwu lan zakkə, lulu ritə, lita letə, nyi rəngin zakkənamin ro rui | Hangal ro kəla so; ngəlaro nzakkoyiya muskon badiyane |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS ye shawari cin ngawon səviya-a so, awo cidawa də gana ro walzə kuru hangal ro kəla so ro kənzəyin. Kam gade rəngin zakkənadəga rui kuru rəngin-a ro manazə də kəltə jili. Səviya sammaro shawari gade [awo səviya sammaro](/activities/ideas/) lan rui.
 
-## Safety with art supplies
+## Karewa sura cidawube-a kəla nzəliwo
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Rəngin, alama, kuru kəljin batti bawo so kərne.
+- Makasu, kəriyeri cidawube, kuru kəljin kausu so na kam də letin ro cəzəne. Kartə samma burwon nyi dəme.
+- Kam lulu, rəngin, biya awo gana so cinzaro hangal yite.
+- Nji-a tasa fure-be ro tasa kuruwu, nduli ngəla faidatə.
 
-## When should we stop?
+## Sawiye dawayen?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Kam dəye hangalnzadə kolzəna biya hangalnzadə tuwandina ya dawane. Alzheimer's Association ye bayanzəna hangal də gana ro cizəna biya hangalnzadə tuwandina ya awo dəa dawayen biya faltən. Awo dəa na nzəliwo lan gənatə kuru awo tusu fal yite. Ballin raktə kuru rutə, biya abadan gəni. Ndi yaye ngəla.
 
-## Display the work, if the person wants
+## Awo dəa fəletə, kam də raayiyaa
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Sura dəga rejirijeratə ro kəljin biya frem lan yakkə də martawa gana ro fəlejin. Burwon koro. Am laa awo cidanadəga garu ro kərutə ngəla kərzai; am laa raayi gəni.
 
-## Pair art with our games
+## Awo andeye cidawa-a so rokko faidatə
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Yim laa rəngin dawartə duno ro walyiya, [Coloring](/games/coloring/) tablɛt lan batkata bawo faidajin. [Picture Puzzle](/games/picture-puzzle/) sura samma kənnəm lan fəletin, karewa dəga faltənama. [Conversation Cards](/games/conversation-cards/) koro bayin ma sura lan badizən daliya ro cizayin. Samma ro loktu-a lamba-a bawo. Shafi gade [awo chapta raktəbe](/activities/printable/) lan chapta raktə.

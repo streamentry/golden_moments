@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Кам көрүүчү үчүн өзүн-өзү кам көрүү: тыныгу, колдоо жана күйүүбастык белгилери"
+seoTitle: "Деменция менен кам көрүүчүлөргө өзүн-өзү кам көрүү"
+description: "Кам көрүүчүдөгү күйүүбастык белгилери, тыныгуу мүмкүнчүлүктөрүн жана колдоо топторун кантип табуу жана акысыз АКШ жардам линиялдары."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Деменция менен жашаган адамга кам көрүү кыйын, бирок өзүңдү кам көрүү да ушул иштердин
+  бир бөлүгү. Чарчоо, ачуулануу, уйку начарлоо же дос-жарандан алысташуу сыяктуу эскертүү
+  белгилерин байка. Так жардам сура, тыныгуу убактысын колдону жана колдоо тобуна кошул.
+  АКШда акысыз жардам: Альцгеймер ассоциациясынын 24/7 жардам линиясын 1-800-272-3900 номери
+  боюнча же Eldercare Locator кызматын 1-800-677-1116 номери боюнча чакырсаң болот.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Күйүүбастык көбүнчө чарчоо, ачуулануу, уйку начарлоо, кайгылануу жана өзүңдүн ден соолугуңду унутуп калуу түрүндө көрүнөт."
+  - "Тыныгууга убакыт берүү - бул сага бир нече сааттан бир нече жумага чейин, үйдө же кам көрүү мекемесинде арналган кыска мөөнөттүү кам көрүү болуп саналат."
+  - "Жардамды так тапшырмалар менен сура; көп адамдар жардам бергиси келет, бирок кандай жардам керектигин билбей калышат."
+  - "Альцгеймер ассоциациясынын 24/7 жардам линиясы (1-800-272-3900) каалаган убакта акысыз жана купуя түрдө жардам берет."
+  - "Eldercare Locator (1-800-677-1116) жергиликтүү кызматтарга, анын ичинде сенин аймагыңдагы карыларга жардам берүү агенттигине байланыштырат."
+  - "Эгер өзүн кризистик абалда сезсең, 988 номерине чал же SMS жаз. Өзгөчө кырдаалда 911 номерине чал."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Кам көрүүчүдөгү күйүүбастык белгиси кандай болот?"
+    a: "Көбүнчө белгилери: чарчоо, өзүн башыма албай калгандай же тынчсыздангандай сезүү, тез ачуулануу же сабырсыздануу, уйку кынынуу, кайгылуу же үмүтсүздүк сезими, дос-жарандан алысташуу, баш ооруу же денеде оорулар, өзүн-өзү тамактандыруу, көнүгүү же медициналык текшерүүдөн калтыруу. Эгер бул белгилер дайыма кайталанса, дарыгерге кайрыл."
+  - q: "Жергиликтүү тыныгуу кызматын кантип табам?"
+    a: "Eldercare Locator (1-800-677-1116 же eldercare.acl.gov) аркылуу аймагыңдагы карыларга жардам берүү агенттигине кайрыл. Ошондой эле ARCH улуттук тыныгуу кызматтарынын издөө системасын же Альцгеймер ассоциациясынын жардам линиясын (1-800-272-3900) чакырсаң болот. Үй-бүлөң, досторуң жана ыктыярчылар да тыныгууга жардам бере алышат."
+  - q: "Медикейр тыныгууга акы төлөп береби?"
+    a: "Эгер адам хосписке кам көрүүдө болсо, Медикейр конок үйдө же кесиптик тандоочу мекемеде ырааттуу 5 күнгө чейин болгон тыныгуу кам көрүүсынын көбүн жабат - бул тууралуу Улуттук карышкыр институту маалымдайт. Көпчүлүк жеке медициналык камсыздандыруу пландары тыныгуу кам көрүүүн жаббайт; Медикейд же кээ бир узак мөөнөттүү кам көрүү камсыздандыруу пландары жардам бере алышы мүмкүн."
+  - q: "Альцгеймер ассоциациясынын жардам линиясы чындыгында акысызбы жана түнкүсүн да иштейби?"
+    a: "Ооба. Альцгеймер ассоциациясы маалымдагандай, 1-800-272-3900 номери боюнча жардам линиясы акысыз, купуя болуп саналат жана жыл бою, суткасына 24 саат иштейт. Көп тилде эки тилдүү кызматкерлер же котормочулар аркылуу жардам көрсөтүлүшү мүмкүн. Реле кызматы үчүн 711 номерине чалсаң болот."
+  - q: "Кам көрүүдөн тыныгуу алуу өзүмчулдукпу?"
+    a: "Жок. Дем алуу сага дагы улантып кам көрүүгө мүмкүнчүлүк берет, ал эми тыныгуу кам көрүүсү деменция менен жашаган адамга да башка компания жана ар кандай иш-аракетти сунуштай алат. Көптөгөн кам көрүүчүлөр кийинчерээк жардам сураганга мурдараак сурашканын каалашканын айтышат."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +66,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Эгер сен деменция менен жашаган адамга кам көрүп жатсаң, бул макаланы түн ортоңдо, чарчап, аткарыла элек иштер тизмеси менен окуп жатышың мүмкүн. Бул кадимки көрүнүш. Өзиңдү кам көрүү - сыйлык же бардык иштерди бүтүргөндөн кийинки мактоо эмес. Бул сага дагы кам көрө берүүгө жардам берген нерсе.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Бул бетте күйүүбастык белгилери, чыныгы дем алуу кантип табуу, кайдан колдоо табуу жана бүгүн эле чала турган акысыз АКШ жардам линиялдары камтылган.
 
-## What are the signs of caregiver burnout?
+## Күйүүбастык белгилери кандай?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Күйүүбастык акырындык менен келип, көбүнчө өзүнө байкалбай калат, ошондуктан өздүк эскертүү белгилериңди билүү пайдалуу. [Улуттук карышкыр институту (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) кам көрүүчүлөрдөгү стресстин төмөнкүдөй белгилерин көрсөтүп турат:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- чарчоо, өзүн башыма албай калгандай же тынчсыздангандай сезүү;
+- тез ачуулануу же сабырсыздануу;
+- жалгыздык же башкалардан ажырагандай сезүү;
+- уйку кынынуу же жетишсиз уйку;
+- кайгылуу же үмүтсүздүк сезими, же мурда жагып келе турган нерселерге кызыккандыгын жоготуу;
+- баш ооруу, дене оорусу же башка дене көйгөйлөрү;
+- өзүнө көнүгүү же пайдалуу тамак жасоо үчүн убакыт болбостугу;
+- жуунуудан же жеке гигиенадан калтыруу;
+- алкоголду, баңгизатты же рецепт боюнча дарыларды ашыкча колдонуу.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Альцгеймер ассоциациясы](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) дагы төмөнкү белгилерди кошот: ооруну мойнуна албоо, адамга ачуулуу ("адашып жатат эле"), келечектен тынчсыздануу, көңүл буруу кыйынчылыгы жана ден соолугуна тийгизген тийгизүүсү. Эгер бул белгилер дайыма байкалса, дарыгерге кайрылууну сунуштайт.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA кеңеши: толугу менен күйүп калганга чейин күтө бербе. Өз белгилериңди эртерээк байкап, аларга чара көр.
 
-## What can I do today, in five minutes?
+## Бүгүн, беш мүнөттө эмне кыла алам?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Кичине дем алуулардын өзү да маанилүү. Алар күйүүбастыкты толук жоюп бере бербейт, бирок кыйын түштү жеңилдетүүгө жардам берет.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Далага чык.** Эгер кам көрүп жаткан адам коопсуз жана жайгашып турган болсо, кыймылдаң же почта кутусуна чейин барың.
+- **Жай дем ал.** Кыйын суроого жооп берерден мурун бир нече жолу жай дем ал. Деменция менен жашаган адам менен бирге [Тынч дем алуу](/games/calm-breathing/) көнүгүүсүн жасасаң болот.
+- **Суу ич жана бир аз тамактан.** Өз тамагынды унутуп калуу оңой.
+- **Бир досуңга кыска билдирүү жөнөт.** Жардам сурабай, жөн гана байланышуу үчүн жөнөт.
+- **Өзүңө жылуу сөз айт.** NIAнын [өзүңдү кам көрүү боюнча көрсөтмөсүндө](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) мындай сөздөр сунушталат: "Мен колумдан келгендин баарын кылып жатам", "Мен кемчиликсизмин жана бул нормалдуу", "Тынчтыкта боло турган учурларда бул учурларды баалоону үйрөнөм".
 
-## What is respite care, and how do I get it?
+## Тыныгууга убакыт берүү деген эмне жана аны кантип табам?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Тыныгууга убакыт берүү - бул деменция менен жашаган адамга кыска мөөнөткө башка кам көрүүчү тарабынан кам көрүлүүчү кызмат, ошондо сен дем алышың мүмкүн. NIAнын [тыныгуу кам көрүү жөнүндө барагында](https://www.nia.nih.gov/health/caregiving/what-respite-care) мындай деп айтылат: бул бир нече сааттан бир нече жумага чейин созулушу мүмкүн жана үйдө, медициналык мекемеде же чоңдорго арналган күндүзкү борбордо уюштурулушу мүмкүн.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Альцгеймер ассоциациясы](https://www.alz.org/help-support/caregiving/care-options/respite-care) кеңири таралган түрлөрүн төмөнкүдөй сүрөттөйт:
 
-| Type | What it is |
+| Түрү | Эмне экендиги |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Үйдө жардам берүү | Дос, тууган, ыктыярчы же акы төлөнүүчү жолдош же кам көрүүчү үйгө келет |
+| Чоңдорго арналган күндүзкү борбор | Коопсуз топто музыка, көркөм өнөр сыяктуу пландаштырылган иш-чаралар өтөт; көбүнчө транспорт жана тамак тейлөө сунушталат |
+| Түнкүсүн же кыска мөөнөттүү жайгаштыруу | Узак мөөнөттүү кам көрүү мекемеси адамды бир түнгө, бир нече күнгө же бир нече жумага кам көрөт |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Ким төлөйт?** NIA маалымдагандай, үй-бүлө, достор же ыктыярчылардан келген жардам акысыз болушу мүмкүн. Кесиптик кызматтар саатына же күнүнө төлөнөт. Эгер адам хосписке кам көрүүдө болсо, Медикейр конок үйдө же кесиптик тандоочу мекемеде ырааттуу 5 күнгө чейин болгон тыныгуу кам көрүүсынын көбүн жабат. Медикейд жардам бере алат. Көпчүлүк жеке медициналык камсыздандыруу пландары аны жаббайт, бирок кээ бир узак мөөнөттүү кам көрүү камсыздандыруу пландары камтыйт.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Кеңеш:** Альцгеймер ассоциациясы шашылыш кырдаалга чейин тыныгуу кызматтарын алдын ала сынап көрүүнү сунуштайт, ошондо керек болгондо дароо жардам таба аласың.
 
-## Where can I find help near me?
+## Жергиликтүү жардамды кайдан табам?
 
-Several free US services can point you to local help.
+АКШда акысыз бир нече кызмат сага локалдык жардамды табууга жардам берет.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Альцгеймер ассоциациясынын 24/7 жардам линиясы: 1-800-272-3900.** [Жардам линиясы](https://www.alz.org/help-support/resources/helpline) акысыз, купуя болуп саналат, жыл бою суткасына 24 саат иштейт. 200дөн ашык тилде эки тилдүү кызматкерлер же котормочулар аркылуу жардам көрсөтүлөт. Реле кызматы үчүн 711 номерине чалыңыз. Сиз жүрүм-турумдогу өзгөрүүлөр, кам көрүүчүлүктөгү стресстин, тыныгуу варианттарынын, жергиликтүү программалар жөнүндө сүйлөшө аласыз жана кам көрүү боюнча кеңешчи менен узагыраак сүйлөшүүнү сурай аласыз. Кызматкерлер медициналык кеңеш бербейт.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) - Коомдук кам көрүү бөлүмүнүн коомдук кызматы болуп, кары адамдарга жана алардын үй-бүлөлөрүнө кызматтарды табууга жардам берет. Чала аласыз, SMS жазсаңыз болот, онлайн чат аркылуу же электрондук почта менен даярдалган кызматкерлерге кайрылсаңыз болот, же жайгашкан жериңиз боюнча издей аласыз. Ал сизди аймагыңыздагы карыларга жардам берүү агенттигине байланыштыра алат.
+- **ARCH улуттук тыныгуу издөө кызматы.** [ARCH тыныгуу издөө системасы](https://archrespite.org/caregiver-resources/respitelocator/) штат боюнча тыныгуу кызмат көрсөтүүчүлөрүн табууга жардам берет жана эгер штатыңызда бар болсо, адегенде штаттык тыныгуу коалициясына же LifeSpan Respite программасына кайрылууну сунуштайт. ARCH кызмат көрсөтүүчүлөрдү текшербейт, ошондуктан алардын тажрыйбасы жана текшерүүлөрү тууралуу өзүң изилдеп көрүүң керек.
 
-## How do I find a support group?
+## Колдоо тобун кантип табам?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Жардам линиясына кайрылып көр же жакын жердеги топторду онлайн издөө. Альцгеймер ассоциациясы кам көрүүчүлөр жана деменция менен жашаган адамдар үчүн [колдоо топторун](https://www.alz.org/help-support/community/support-groups) жүзөгө ашырат - алар бетме-бет же онлайн форматта, даярдалган жөнөкөй жетекчилердин коштоосу менен өтөт. Кээ бир жерлерде атайын топтор да уюштурулат, мисалы, чоң балдар катары кам көрүүчүлөр үчүн же жаш курагында же эрте стадиядагы Альцгеймер менен жашаган адамдар үчүн. Ошондой эле, кам көрүүчүлөрдүн кеңештерин бөлүшө турган акысыз ALZConnected онлайн коомчулугу иштейт.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Колдоо тобу - сын эмес, сыймыктануу менен өзүн ачыкча билдире турган жер. Ошондой эле, ошол жактагы адамдардан практикалык кеңештерди алып, өзүн жалгыз эмессин деп сезүү үчүн да пайдалуу. Эгер биринчи топ сенин үчүн ылайыктуу болбосо, башкасын сынап көр.
 
-## How do I ask family and friends for help?
+## Үй-бүлө жана достордон жардамды кантип сурайм?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Так сура. Көп адамдар жардам бергиси келет, бирок эмнени сунуштоо керектигин билбей калышат. NIA төмөнкү кеңештерди берет:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Тизмени даярда.** Башкалар аткара турган тапшырмалардын тизмесин түзүп, адамдарга өзү тандоого мүмкүнчүлүк бер.
+- **Кичинен башта.** Эгер жардам сурауу кыйын болсо, кичине нерседен башта.
+- **Тапшырманы адамга ылайыкташтыр.** Тамак жасоону жакшы көргөн тууганың бейшембиде кечки тамак алып келет. Формаларды толтурууну жакшы билген кошуң документтерге жардам берет.
+- **SMS же электрондук почта аркылуу сура.** Бетме-бет сураганга караганда ыңгайлуу болсо, ушинтип аракет кыл.
+- **Жоопту даярда.** Бирөө жардам сунуштаганда кантип жооп берерин ойлоп көр: "Сураганың үчүн рахмат. Мына мындай жардам керек".
+- **Жок деп жоопторго даяр бол.** Аларды өзүнө жеке эмес кабыл алба.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Башка идеялар: бирөөнү жумада бир жолу деменция менен жашаган адам менен бирге отурту, кыска серүүнү өткөрүп берүүгө же конокко келип, алар менен бирге оюн ойноого сура. Биздин [бирге ойноо боюнча көрсөтмөбүздү](/caregiving/how-to-play-together/) конокторго бөлүшүүгө болот.
 
-## What if something happened to me?
+## Эгер мага бир нерсе болуп калса эмне кылышым керек?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Азыр эле жөнөкөй камдык планды даярда. NIA үй-бүлөңүз же жакын досторуңуз менен ким ордуңузга кам көрө аларын талкуулап, өзгөчө кырдаал номерлери, дарылары, иштеген жүрүм-турум кеңештери жана сүйүктүү иш-чаралары жазылган дептерди сактоону сунуштайт. Альцгеймер ассоциациясы ошондой эле адамдын медициналык байланыштарын жана жаңыланган дарылардын тизмесин оңой табылчу жерде сактоону сунуштайт.
 
-## When should I get professional or urgent help?
+## Качан кесиптик же шашылыш жардамга кайрылышым керек?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Эгер стресстин белгилери дайыма байкалса, депрессияны сезсең же көндүрүү кыйын болуп калса, дарыгерге кайрыл. Дарыгерге өзүң кам көрүүчү экендигиңди айт. NIA тынчсыздануу жана пландаштыруу боюнча психологдор жана социалдык иштер боюнча адистер жардам бере аларын, ошондой эле Медикейр, Медикейд жана кээ бир жеке камсыздандыруу пландары психикалык ден соолукту кам көрүүгө кээ бир чыгымдарды жабышы мүмкүн экенин белгилейт.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Эгер кризистик абалда болсоң же өзүңө зыян келтирүүнү ойлонуп жатсаң, акысыз жана суткасына 24 саат иштеген [988 Suicide & Crisis Lifeline](https://988lifeline.org/) кызматына 988 номерине чал же SMS жаз. Эгер кимдир бирөө дароо коопто болсо, 103 номерине чал (Кыргызстандагы тез жардамдын жергиликтүү номери).
 
-## Can shared activities give me a break too?
+## Жалпы иш-чаралар мага дем алууга жардам бере алабы?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Кээде ооба. Экиңерге жаккан тынч иш-чара күндүн тынч бөлүгү болушу мүмкүн: эски ырларды угуу, сүрөттөргө карап отуруу же туура жоопторду талап кылбаган [Сүйлөшүү карталары](/games/conversation-cards/) сыяктуу оюн. Эгер адам компанияны жакшы көрсө, карылар борборунда же чоңдорго арналган күндүзкү борбордо [Сүрөттүү бинго](/games/picture-bingo/) оюнун ойноо сага бир сааттык тыныгуу бериши мүмкүн. Идеялар үчүн [кам көрүү мекемесиндеги топтор үчүн иш-чараларды](/activities/care-home-groups/) карап көрө аласың.

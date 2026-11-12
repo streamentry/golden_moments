@@ -1,32 +1,33 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "آخری مرحلہٕ ڈیمنشیا سرگرمیہٕ: بستر تہٕ کُرسی"
+seoTitle: "آخری مرحلہٕ ڈیمنشیا سرگرمیہٕ: بستر تہٕ کُرسی"
+description: "آخری مرحلہٕ ڈیمنشیا خٲطرٕ نرم سرگرمیہٕ، بستر یا کُرسی پیٹھ بیہِتھ شخصن خٲطرٕ تہِ: موسیقی، چھُہَن، بلند آوازِ منز پرُن، آوازٕ تہٕ اکھ أکِس سٍتؠ وقت گزارُن، حفاظتی ہدایتن سٍتؠ۔"
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  آخری مرحلہٕ ڈیمنشیا منز سرگرمیہٕ چھے حواسَن تہٕ تُہندِ ساتھی پیٹھ مرکوز:
+  پسندیدٕ موسیقی بَجاوُن، اَتھ تھَف کرُن، آہستہ آہستہ اَتھَن ہُند مساج،
+  بلند آوازِ منز پرُن، فوٹو وُچھُن، قدرتی آوازٕ تہٕ کِھیڑکِ نِش یا نیبر
+  بَیہِتھ رہُن۔ یِمہٕ سرگرمیہٕ چھے بستر یا کُرسی پیٹھ تہِ ممکن۔ وقت مختصر
+  تھٲوِو، آرام خٲطرٕ بُتھ، اَتھ تہٕ ساہس کُن نَظر تھٲوِو، تہٕ یاد تھٲوِو زِ
+  صرف موجود آسُن تہِ چھُ اکھ سرگرمی۔
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "رابتہٕ ہیکہِ وُنِ تہِ بَنِتھ۔ آخری مرحلس منز چھُ انسان دُنیاہس زیادہ تر حواسَن ذٔریعہٕ محسوس کران۔"
+  - "موسیقی، نرم چھُہَن، مانوس آوازٕ تہٕ تھَف کرنہٕ خٲطرٕ نرم چیٖز اکثر تَتہِ واتان چھِ یَتہِ لفظ کم کارگر آسان چھِ۔"
+  - "یتھ جایِ دِنہٕ آمژٕ تقریباً پرٛتھ کانٛہہ سرگرمی چھے بستر یا کُرسی پیٹھ بیہِتھ شخصن خٲطرٕ تہِ موزوں۔"
+  - "بُتھس، اَتھن تہٕ ساہس منز آرام یا بیآرامی ہٕنز علامات وُچھِو، تہٕ پریشٲنی ہٕنز کانٛہہ تہِ نِشٲنی نظر یِنَس سٍتؠ رُکِو۔"
+  - "لۄکچار چیٖزَن نِش بَچِو تہٕ کھیٚن یا چیٚن صرف تِمے وقتہٕ دِیِو یُس تیم دِیِہ، کیازِ کھیٚنہٕ چیٚنہٕ وِزِ ہیکہِ غیر محفوظ گٔژھِتھ۔"
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "آخری مرحلہٕ ڈیمنشیا سٍتؠ بسترَس پیٹھ بیہِتھ شخصس سٍتؠ کٔہ سرگرمیہٕ ہیکو کٔرِتھ؟"
+    a: "تِہُنز پسندیدٕ موسیقی بَجاوِو، تِہُند اَتھ تھَف کٔرِو، آہستہ آہستہ لوشن سٍتؠ اَتھَن ہُند مساج کٔرِو، تِہنز پسندیدٕ کتاب یا دُعا ہُنٛد کانٛہہ حِصہٕ بلند آوازِ منز پٔرِو، فوٹو ہٲوِو، یا نرم قدرتی آوازٕ بَجاوِو۔ پردٕ یَلہٕ تھٲوِو تاکہ تِم ہیکَن نیبر وُچھِتھ۔ اکھ وقتہٕ اکھ چیٖز سٍتؠ مختصر، پُرسکون وقت عام طور زیادہ کارگر آسان چھُ۔"
+  - q: "کیا آخری مرحلہٕ ڈیمنشیا سٍتؠ نَفَر ہیکہِ وُنِ تہِ موسیقی نِش لطف تُلِتھ؟"
+    a: "واریاہ ہیکَن۔ Alzheimer's Association چھُ وَنان زِ آخری مرحلس منز تہِ ہیکہِ اکھ شخص بچھپنچہِ گیتہِ سٍتؠ تال دِتھ یا سٍتؠ گاوِتھ۔ تِژھ موسیقی چُنِو یۄس تِمن جوانی منز واریاہ پسند ٲس، تہٕ آواز نرم تھٲوِو۔"
+  - q: "بہٕ کِتھہٕ پٲٹھؠ زانَہ زِ تِم سرگرمی نِش لطف تُلان چھِا؟"
+    a: "لۄکچار نِشٲنِیَن کُن نَظر تھٲوِو: نرم شانہٕ، پُرسکون بُتھ، نظر مِلاوُن، ہُمہُمہ کرُن، اَتھس منز ہلکہٕ دباؤ یا آہستہ ساہ۔ بُتھ بگاڑُن، نالہٕ تراوُن، بیچینی یا کراہن ہیکہِ بیآرامی یا دردچ نِشٲنی ٲسِتھ۔ اگر یِمہٕ نظر یِن، رُکِو تہٕ اگر یِمہٕ جاری روزَن تیٚلہِ تیمس خبر کٔرِو۔"
+  - q: "کیا ملاقات کرنُک کانٛہہ فٲیدٕ چھُا اگر تِم مے وُنِ پژھان نہ چھِ؟"
+    a: "آو۔ National Institute on Aging چھُ وَنان زِ صرف موجود آسُن تہِ ہیکہِ پُرسکون دِتھ، تہٕ ترقی یافتہٕ ڈیمنشیا منز چھُہَن، موسیقی تہٕ دٔلیلہٕ وُنِ تہِ تسلّی دِیوان۔ تُہٕنز آواز تہٕ چھُہَن ہیکہِ مانوس لَگِتھ، یوتتہِ تُہُند ناو یاد نہ روزِ۔"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +49,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+ڈیمنشیا ہٕندِس آخری مرحلس منز ہیکہِ اکھ شخص کم گالھ کٔرِتھ، پرٛتھ دۄہَکِم کامہِ خٲطرٕ مَدَتچ ضرورت آسُن، تہٕ دۄہُک واریاہ حِصہٕ بسترَس یا کُرسی پیٹھ گزارُن۔ یِہ ہیکہِ یِتھہٕ پٲٹھؠ باسان زِ وۄنۍ چھُنہٕ اکھ أکِس سٍتؠ کرنہٕ خٲطرٕ کانٛہہ۔ مگر چھُ۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) چھُ وَنان زِ شخص سٕنز ذاتُک کانٛہہ حِصہٕ ہیکہِ وُنِ تہِ باقی آسِتھ، تہٕ یتھ مرحلس منز چھُ انسان دُنیاہس زیادہ تر حواسَن ذٔریعہٕ محسوس کران۔ موسیقی، چھُہَن، مانوس آواز تہٕ تُہُند پُرسکون ساتھ ہیکَن وُنِ تہِ تسلّی تہٕ رابتُک کینٛہہ لمحہٕ اَنِتھ۔
 
-## What activities help in late-stage dementia?
+## آخری مرحلہٕ ڈیمنشیا منز کٔہ سرگرمیہٕ چھے مَدَتگار؟
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+آخری مرحلس منز چھے سادٕ حِسّی سرگرمیہٕ تہٕ پُرسکون ساتھ زیادہ کارگر۔ Alzheimer's Association چھُ مشورٕ دِوان زِ پسندیدٕ موسیقی بَجاوِو، معنی خیز کِتابَن ہٕند کینٛہہ حِصہٕ پٔرِو، پسندیدٕ خوشبو دار لوشن سٍتؠ جلدَس پیٹھ آہستہ آہستہ مساج کٔرِو، تہٕ خۄشگوار دۄہس نیبر اکھ أکِس سٍتؠ بٔیِو۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) چھُ اَمِس سٍتؠ دٔلیلہٕ وَنُن، فوٹو ہاوُن، نرم چھُہَن یا مساج، تہٕ موسیقی، سفید شور یا قدرتی آوازٕ شامل کران، تہٕ چھُ وَنان زِ صرف تُہُند موجود آسُن تہِ ہیکہِ پُرسکون دِتھ۔
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھُ وَنان زِ آخری مرحلس منز نَفَرَن ہیکہِ اکثر تسلّی خٲطرٕ کانٛہہ چیٖز نکھہٕ تھَف کرنٕچ سخت ضرورت محسوس گٔژھِتھ، تہٕ سادٕ حِسّی سرگرمیہٕ، نرم سٹریچ، سکارف ہِلاوُن، موسیقی، جانورن ہٕنز ملاقات، انسانی چھُہَن تہٕ آزاد اندازِچ فنکارانہ سرگرمیہٕ مشورٕ دِوان چھُ۔
 
-## Activities for someone in bed or a chair
+## بسترَس یا کُرسی پیٹھ بیہِتھ شخصن خٲطرٕ سرگرمیہٕ
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **تِہُنز موسیقی بَجاوِو۔** تِہندِ جوانی ہٕند گیت، مذہبی نغمہٕ یا خاندٲنی گیت چُنِو۔ آواز نرم تھٲوِو تہٕ نکھہٕ بٔیِو۔ وُنِ تہِ چھِ کینٛہہ نَفَر آنگجہِ سٍتؠ تال دِوان یا ہُمہُمہ کران۔ وُچھِو [موسیقی سرگرمیہٕ](/activities/music/)۔
+2. **اَتھ تھَف کٔرِو۔** صرف اَتھ تھَف کرُن، آہستہ آہستہ انگوٹھہٕ سٍتؠ پھیر دِیُن، تہِ چھُ اکھ سرگرمی۔ چھُنہٕ برونٹھ پٔزِرٲوِو زِ تُہؠ کیا کران چھِو۔
+3. **آہستہ آہستہ اَتھَن ہُند مساج کٔرِو۔** پننِس ہَتھس منز تھوڑا لوشن گرم کٔرِو تہٕ کلٲی پیٹھہٕ آنگجن تام آہستہ آہستہ پھیرِو۔ بغیر خوشبو وول لوشن چُنِو، یا اگر تِہنز جلد برداشت کرِ تیٚلہِ تِژھ خوشبو یۄس تِمن ہمیشہ پسند ٲس۔
+4. **بلند آوازِ منز پٔرِو۔** کانٛہہ پسندیدٕ نظم، پسندیدٕ کتابُک حِصہٕ، دینی متن یا کھیل صفہٕ۔ تُہنزِ آوازِ ہٕنز تال چھُ لفظَن کھوتہٕ زیادہ اہم۔
+5. **کانٛہہ دٔلیل ؤنِو۔** خاندٲنی سفرَس مُتعلق یا تِہندِ خاندَرچہِ دۄہُک بیان کٔرِو۔ جواب یِنُک ضرورت چھُنہٕ۔
+6. **فوٹو ہٲوِو۔** اکھ وقتہٕ اکھ بٔڈ فوٹو تِہندِ نظرِ برابر تھٲوِو تہٕ نرمی سان بیان کٔرِو۔ یِہ پرژھنہٕ نِش بَچِو زِ اَتھ منز کُس چھُ۔
+7. **تھَف کرنہٕ خٲطرٕ کانٛہہ نرم چیٖز دِیِو۔** وَلِتھ رومال، فِلیسُک ٹُکڑا یا نرم کھِلونہٕ۔ NIA چھُ مشورٕ دِوان زِ شخصس ہِلاونہٕ وِزِ اَتھس منز رومال دِیُن، تاکہ تِم تُہؠ یا سامانَس کُن کم تھَف کرَن۔
+8. **قدرتی آوازٕ بَجاوِو۔** رۄدٕ، لہرٕ یا جانورن ہٕنز آواز کم آوازِ منز شور وٲلِس کمرَس منز سکون اَنِتھ ہیکہِ۔
+9. **نیبرُک منظر اندر أنِو۔** پردٕ یَلہٕ تھٲوِو، کِھیڑکِ نِش جانورن خٲطرٕ دانہٕ تھٲوِو، یا وُچھنہٕ تہٕ چھُنہٕ خٲطرٕ کینٛہہ تازٕ پھول یا پَتہٕ أندر أنِو۔
+10. **نیبر گٔژھِو۔** اگر شخص وِیل چیٚرَس پیٹھ بِہِتھ ہیکہِ، تیٚلہِ نرْم دۄہس کینٛہہ مِنٹ سایس تل روزُن ہیکہِ واریاہ خۄشگوار ٲسِتھ۔
+11. **تِہندؠ مَس کٔرِو یا گرم رومال دِیِو۔** آہستہ آہستہ تہٕ نرمی سان مَس کرُن، تہٕ اَتھن تہٕ بُتھس خٲطرٕ گرم رومال، ہیکہِ خیال تھاونُک احساس دِتھ۔
+12. **موسیقی سٍتؠ نرمی سان حرکت کٔرِو۔** اکھ ہلکہٕ سکارف اکھ أکِس سٍتؠ ہِلاوِو، یا گیتہِ ہٕندِ تالِ سٍتؠ اَتھ ہِلاوِو۔ سٹریچ تہٕ جوڑَن ہٕنز حرکت خٲطرٕ، محفوظ طریقہٕ زاننہٕ خٲطرٕ گۄڈٕ فِزیوتھراپسٹ یا نرس پیٹھ ؤنِو۔
+13. **آزاد اندازِچ فنکارانہ سرگرمی کٔرِو۔** بٔڈ کاغذَس پیٹھ بغیر زہریلی پینٹ سِپنج یا اَتھہٕ سٍتؠ پھیٚلٲوِو، پننِس اَتھہٕ ہٕنز رہنمٲیی سٍتؠ۔ اَتھ منز چھُنہٕ کانٛہہ صحیح یا غلط نتیجہٕ۔
+14. **جانورن ہٕنز ملاقات کرنٲوِو۔** اگر شخصس جانور پسند ٲسِتھ تہٕ جاے اِجازت دِیہِ، تیٚلہِ اکھ پُرسکون جانور بسترَس یا گۄڈَس پیٹھ بِہِتھ ہیکہِ۔
+15. **اکھ أکِس سٍتؠ آہستہ ساہ ہیٚو۔** نکھہٕ بٔیِو تہٕ آہستہ تہٕ بوزنہٕ یِوَن اندازَس منز ساہ ہیٚو۔ [پُرسکون ساہ](/games/calm-breathing/) ہیکہِ تُہندِ دۄنَوے خٲطرٕ رفتار تھٲوِتھ، تہٕ تُہؠ چھِو یِہ شروع تہٕ بند کران۔
+16. **صرف موجود روزِو۔** نکھہٕ بٔیِو، ہُمہُمہ کٔرِو، بُناوُن کٔرِو یا خاموشی سان کینٛہہ پٔرِو۔ موجود آسُن چھُ کافی۔
 
-## How to share an activity at this stage
+## یتھ مرحلس منز اکھ أکِس سٍتؠ سرگرمی کِتھہٕ پٲٹھؠ کٔرِو
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **برونٹھہٕ کِنۍ نکھہٕ گٔژھِو۔** تِہُند ناو تہٕ پنُن ناو ؤنِو، تہٕ چھُنہٕ برونٹھ آہستہ تہٕ نرمی سان گالھ کٔرِو۔
+- **اکھ وقتہٕ اکھ چیٖز پیش کٔرِو۔** موسیقی بَجاونہٕ برونٹھ TV بند کٔرِو۔ اکھ وقتہٕ صرف اکھ حس استعمال کٔرِو۔
+- **وقت مختصر تھٲوِو۔** کینٛہہ مِنٹ تہِ ہیکَن کافی ٲسِتھ۔ اکہِ ؤڈِس وقتہٕ کھوتہٕ چھِ دۄہس منز واریاہ لۄکچار لمحہٕ بہتر۔
+- **گۄڈٕ آرام یقینی بَناوِو۔** وُچھِو زِ شخص ٹھیک پٲٹھؠ سہارٕ سٍتؠ بیہِتھ چھُا۔ NIA چھُ مشورٕ دِوان زِ بِہِتھ آسنہٕ وِزِ اَتھن ہٕندِ آرام تہٕ جسمَس ہٕندِ سہارٕ خٲطرٕ lap board استعمال گژِھہ۔
+- **ردِعملس کُن نَظر تھٲوِو۔** نرم اَتھ، پُرسکون بُتھ، نظر مِلاوُن یا ہُمہُمہ کرُن چھُ آرامچ نِشٲنی۔ NIA چھُ وَنان زِ کراہن، بُتھ بگاڑُن، جسمُک کانٛہہ حِصہٕ بَچاوان یا اچانک بیچینی ہیکہِ دردچ نِشٲنی ٲسِتھ۔ رُکِو، تہٕ تیمس خبر کٔرِو۔
 
-## A quick guide by sense
+## حِس حسابہٕ اکھ سُہل ہدایت
 
-| Sense | Ideas | Take care |
+| حس | خیال | خیال تھٲوِو |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| بوزُن | پسندیدٕ موسیقی، تُہنز پرنٕچ آواز، قدرتی آوازٕ | آواز ہلکہٕ تھٲوِو؛ اکھ وقتہٕ اکھ آواز |
+| چھُہَن | اَتھَن ہُند مساج، اَتھ تھَف کرُن، نرم کپڑا، گرم رومال | گۄڈٕ ؤنِو یا اِجازت ہیٚو؛ وُچھِو زِ جلد چھے نہ دُکھِتھ یا ژٔٹِتھ |
+| وُچھُن | فوٹو، پھول، کِھیڑکِ نِش منظر، آہستہ قدرتی ویڈیو | چیٖز تِہندِ نظرِ برابر تھٲوِو؛ ٹھیک روشنی، چمک نِش بَچِو |
+| سُونگھُن | پسندیدٕ لوشن، تازٕ پھول، نکھہٕ بَنَن واجِن کاوٕ | تیز خوشبو نِش بَچِو؛ الرجی تہٕ ساہس ہٕنز حالت وُچھِو |
+| ذٲیقہٕ | پسندیدٕ ذٲیقُک اکھ لۄکُٹ ذائقہٕ | صرف تِمے کھیٚن چیزٕ تہٕ تِتھے ساخت، یِم تیم محفوظ چھِ وَنان |
 
-## Safety at this stage
+## یتھ مرحلس منز حفاظت
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+آخری مرحلس منز ہیکہِ کھیٚنہٕ چیٚنہٕ منز دِقت گٔژھِتھ، تہٕ NIA چھُ خبردار کران زِ اَمہِ سٍتؠ چھُ ہَرَنُک خطرٕ بڑھان۔ لۄکچار چیٖزٕ مَہ تھٲوِو نکھہٕ، تہٕ کھیٚن یا چیٚن صرف تِتھِس ساختس تہٕ تِتھِس حالتس منز دِیِو یۄس تیم سِفٲرش کران چھِ۔ چھُنہٕ وِزِ جلد نرمی سان وُچھِو، کیازِ جلد ہیکہِ آسانی سان ژٔٹِتھ یا نیل گٔژھِتھ۔ محفوظ حِسّی خیالن خٲطرٕ وُچھِو [حِسّی سرگرمیہٕ](/activities/sensory/)۔
 
-## Looking after yourself too
+## پنُن خیال تہِ تھٲوِو
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+آخری مرحلہٕ ڈیمنشیا ہٕنز دیکھ بھال چھے جسمٲنی تہٕ جذباتی طور پیٹھ سخت، خواہ گَرَس منز ٲسِتن یا کیئر ہومس منز ملاقاتن دوران۔ ہوسپِس تہٕ تسکینی دیکھ بھال ٹیمہٕ ہیکَن آرام، مَدَت تہٕ منصوبہٕ بندی منز مَدَت کٔرِتھ، تہٕ NIA چھُ تِمن مَدَتچہِ ذرایعَن منز شمار کران۔ مختصر، پُرسکون ملاقاتن ہُند تہِ فٲیدٕ چھُ؛ وُچھِو [ڈیمنشیا سٍتؠ شخصس سٍتؠ ملاقات](/activities/visiting/)۔ اگر تُہؠ گروپَن ہٕنز رہنمٲیی کران چھِو، تیٚلہِ [کیئر ہوم گروپ سرگرمیہٕ](/activities/care-home-groups/) منز چھِ سیشن ترتیب دِنہٕ خٲطرٕ خیال۔ تہٕ مہربٲنی کٔرِتھ پٔرِو [دیکھ بھال کرن وٲلین ہُند پنُن خیال](/caregiving/caregiver-self-care/): آرام چھُ اچھی دیکھ بھالُک حِصہٕ۔

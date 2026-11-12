@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Çalakiyên hestî ji bo kesên bi demansê"
+seoTitle: "Çalakiyên hestî ji bo demansê: Raman û ewlehî"
+description: "Çalakiyên hestî ji bo kesên bi demansê, ji masaja destan heta selikên qumaş û dengên xwezayê, bi notên zelal ên ewlehiyê derbarê xeniqîn, alerjî û bîhnan de."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Çalakiyên hestî destdan, bîhn, tam, deng û dîtinê bi kar tînin: masajeke hêdî
+  ya destan, selikek ji qumaşên nerm, giyayên teze ji bo bîhnkirinê, dengên
+  xwezayê, an temaşekirina çivîkan li paceyê. Ew li her qonaxê guncan in û
+  paşê bi taybetî bi kêr tên. Pêşî metirsiya xeniqînê, alerjî, pirsgirêkên çerm
+  û hesasiyeta li hember bîhnan kontrol bikin, her carê tenê tiştekî pêşkêş
+  bikin, û heke kes bêrihet xuya bike rawestin.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Çalakiyên hestî bersivên rast û şaş naxwazin, ji ber vê yekê ew li her qonaxê dixebitin, tewra di nav nivînan de an li ser kursiyekê."
+  - "Di jûreyeke bêdeng de her carê tenê ji bo hestekê tiştekî pêşkêş bikin, û berî destdanê bipirsin an bibêjin."
+  - "Ji tiştên piçûk û ji her tiştê ku wekî xwarinê xuya dike an tê bîhn lê ne xwarin e dûr bisekinin, ji ber ku dibe ku kes wan têxin devê xwe."
+  - "Berî ku losyon, bîhn an xwarin bi kar bînin, alerjî, pirsgirêkên çerm û pirsgirêkên nefesê kontrol bikin."
+  - "Tu delîlek bihêz nîne ku aromaterapî alîkariya nîşanên demansê dike; bîhnan tenê ji bo kêfa sade, heke hebe, bi kar bînin."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Ji bo kesek bi demansê çi çalakiyên hestî baş in?"
+    a: "Ramanên sade masajeke hêdî ya destan bi losyonê, desteserkirina qumaşên nerm, bîhnkirina giyayên teze an qehweyê, guhdarîkirina muzîka bijare an dengên xwezayê, temaşekirina çivîkan an hewzeke masiyan, û tamkirina xwarineke bijare bi tevnek ewle ne. Her carê tenê tiştekî pêşkêş bikin û temaşe bikin ka kes çawa bersiv dide."
+  - q: "Gelo çalakiyên hestî ji bo kesek ku tiştan dixe devê xwe ewle ne?"
+    a: "Bi baldarî dikarin ewle bin. Tenê tiştên mezin bi kar bînin ku nikarin werin daqurtandin, ji her tiştê piçûk an şikestî dûr bisekinin, û piştî wê losyon, sabûn û berhemên bîhnkirî ji destê wî dûr bihêlin, ji ber ku dikarin wekî xwarinê xuya bikin an bên bîhnkirin. Di tevahiya demê de li cem kes bimînin."
+  - q: "Gelo aromaterapî alîkariya demansê dike?"
+    a: "Lêkolîneke Cochrane tu delîlek bihêz nedît ku aromaterapî alîkariya kesên bi demansê dike, her çend lêkolîn piçûk û ne hevgirtî bûn. Heke kes ji bîhnekî nerm û nas kêfê digire, ev baş e, lê ji rûnên bingehîn ên bihêz dûr bisekinin, bi taybetî dema pirsgirêkên nefesê an alerjî hebin."
+  - q: "Pêşbenda lîstikê an çalakiyê çi ye?"
+    a: "Ew perçeyek qumaş, pêşbend an betaniyeke çokan e ku tiştên desteserkirinê bi awayekî zexm li ser hatiye dirûtin, wek bişkokên mezin, fermûar, kurdele û perçeyên bi tevnên cuda. Ew tiştekî dide destên mijûl ku bikolin. Wê gelek caran kontrol bikin da ku tiştekî sist nebe ku dikare were kişandin."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Çalakiyên hestî pênc hestan bi kar tînin: destdan, bîhn, tam, deng û dîtin. Ew ne bîrê, ne gav û ne jî bersivên rast dixwazin, ji ber vê yekê dikarin li her qonaxê bixebitin. Ew paşê herî zêde girîng dibin. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) dibêje ku di qonaxa dawî de cîhan bi giranî bi riya hestan tê jiyîn, û hûn dikarin bi destdan, deng, dîtin, tam û bîhnê xema xwe nîşan bidin. Çend kontrolên ewlehiyê van çalakiyan ji bo her kesî aram dikin.
 
-## What are sensory activities for dementia?
+## Ji bo demansê çalakiyên hestî çi ne?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Çalakiyên hestî ezmûnên sade ne ku her carê li dor hestekê hatine çêkirin, wekî desteserkirina qumaşê, bîhnkirina giyayan an guhdarîkirina baranê. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dibêje ku çalakiyên qonaxa paşîn gelek caran divê li ser hestan bisekinin, û muzîk, tiştên ji bo desteserkirin û girtin, û masaja destan dibêje. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) destnîşan dike ku dibe ku kesên di qonaxa dawî de ji bo rihetiyê hewcedariya wan a bihêz hebe ku tiştekî nêzî xwe bigirin.
 
-## Sensory ideas, sense by sense
+## Ramanên hestî, li gor her hestê
 
-### Touch
+### Destdan
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Masaja destan.** Hinekî losyonê di destên xwe de germ bikin û bi hêdî ji çokê dest heya serê tiliyên xwe bihejînin. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) ji bo rihetiyê masajkirina bi losyona bêbîhn dibêje.
+- **Selika qumaşan.** Perçeyên mezin ên kadîfe, korduroy, pelûş, saten û hirî ji bo desteserkirin, pêçandin û axaftinê li ser wan.
+- **Destmaleke germ.** Destmaleke germ û şil ji bo destan di rojeke sar de. Berî destpêkirinê germahiyê li ser çokê destê xwe biceribînin.
+- **Pêşbenda çalakiyê an betaniya çokan.** Bişkokên mezin, fermûar, kurdele û perçeyên bi tevnên cuda ku bi awayekî zexm hatine dirûtin.
+- **Pêçandin û nermkirin.** Selikek ji destmalên piçûk an napkinên paqij ji bo pêçandin, danîna li ser hev û dîsa pêçandinê.
+- **Tiştekî nerm ji bo girtinê.** Betaniyeke pelûş, balîfek an heywanekî nerm ê rast xuya, ku bi sade tê pêşkêş kirin, ne wekî lîstokek.
 
-### Smell
+### Bîhn
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Giyayên teze.** Pelên pûne, biberiye, rehan an lavantayê di navbera tiliyên xwe de bihêlin û wan nêzîk bikin.
+- **Bîhnên metbexê.** Qehweya ku tê çêkirin, nanê ku tê birajotin, darçîn an pirteqaleke ku li nêzîkê tê jêkirin.
+- **Kulîlk.** Çend kulîlkên teze ji baxçê an dikana xwarinê bînin hundir.
+- **Berhemeke nas.** Sabûn an losyona ku wî her dem bi kar dianî, heke çermê wî wê qebûl bike.
 
-### Taste
+### Tam
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Tamek bijare.** Kêlekek piçûk ji tiştekî ku ew jê hez dike, wek pûreya sêvê, puding an dondirma, bi tevnek ku ew dikare bi ewlehî bixwe.
+- **Alîkariya pijandinê.** Di dema ku hûn bi hev re dipêjin de tamkirina fêkiyan an hinekî kremê şîrîn.
+- **Xwarinên demsalî.** Zebeş di havînê de, şerbeta sêvê ya germ di payîzê de, bi germahiyeke ewle tê pêşkêş kirin.
 
-### Sound
+### Deng
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Muzîka bijare.** Stranên nas bi dengekî nerm; li [çalakiyên muzîkê](/activities/music/) binêrin.
+- **Dengên xwezayê.** Baran, pêl an dengê çivîkan. NIA dibêje ku muzîk, dengê spî û dengên xwezayê xuya dike hin kesan aram dikin.
+- **Dengê we.** Xwendina bi dengekî bilind, hûrkirin, an vegotina çîrokekê.
+- **Amûrên muzîkê yên sade.** Dembileke destan, şeqşeqok an zengilek ji bo lêdana ligel muzîkê.
 
-### Sight
+### Dîtin
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Temaşekirina ji paceyê.** Xwarindana çivîkan li derveyî paceyê, zarokên ku vedigerin malê, an berfa ku dibare.
+- **Hewzeka masiyan an vîdyoyeke hêdî.** Tevgera nerm bêyî dengekî bilind.
+- **Wêneyên mezin.** Her carê wêneyek zelal, li asta çavan tê girtin.
+- **Reng û nîgar.** Rêzkirina perçeyên qumaşê yên rengîn, kulîlkan an napkinên rengîn, an rûpeleke rengînkirinê ya sade ji koma me ya [rengînkirinê](/games/coloring/).
+- **Li derve.** NHS baxçeyên hestî yên bi riwekên bîhnxweş, tevnên cuda û taybetmendiyên avê pêşniyar dike. Li [çalakiyên li derve û baxçevaniyê](/activities/outdoor-and-gardening/) binêrin.
 
-## How to make a sensory box
+## Meriv çawa qutiyeke hestî çêdike
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Mijarekê hilbijêrin** ku bi jiyana kesê ve girêdayî ye: perav, baxçe, metbex, atolyeya kar, dirûtin.
+2. **Pênc an şeş tiştên mezin û ewle hilbijêrin,** wek kevirekî mezin ê behrê, kevçiyeke darîn, şalekî nerm, kîsekî lavantaya hişk ku hatiye dirûtin û girtin, an blokek darîn a nerm.
+3. **Her tiştî kontrol bikin** ji bo perçeyên piçûk, keviyên tûj, têlên sist û her tiştê şikestî.
+4. **Her carê tenê tiştekî derxin.** Bidin wî, wê rave bikin, û bihêlin kes wê bikole.
+5. **Piştî wê qutiyê rakeve** da ku ew taybet bimîne û berî cara din tişt dîsa werin kontrol kirin.
 
-## Safety first
+## Pêşî ewlehî
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Çalakiyên hestî nerm in, lê çend metirsî girîng in. Hin kesên bi demansê tiştên ku ne xwarin in wekî xwarinê dibînin, û bi demê re daqurtandin dikare dijwartir bibe; NIA hişyarî dide ku pirsgirêkên daqurtandinê yên qonaxa dawî metirsiya xeniqînê zêde dikin.
 
-| Risk | What to do |
+| Metirsî | Çi bikin |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Xeniqîn | Tenê tiştên ku ji bo daqurtandinê pir mezin in bi kar bînin. Tu bişkok, morîk, pere, gulî an lîstokên piçûk di qutiyê de vala nehêlin. Xwarinê tenê bi tevên ku tîma lênêrînê dibêje ewle ne pêşkêş bikin. |
+| Tiştên ku wekî xwarinê xuya dikin | NIA şîret dike ku losyon, sabûn, şampuan û bîhnê kilît bikin, ji ber ku dikarin wekî xwarinê xuya bikin an bên bîhnkirin, û fêkiyên çêkirî ji holê rakin. Piştî bikaranînê berhemên hestî rakevin. |
+| Alerjî | Berî destpêkirinê alerjiyên li hember gûzan, lateksê, hirî, riwekan an bîhnan kontrol bikin. |
+| Bîhnên bihêz | Ji bîhnên bihêz û rûnên bingehîn ên bihêz dûr bisekinin, bi taybetî dema astim an pirsgirêkên din ên nefesê hebin. Bîhnên nerm û xwezayî ewletir in. |
+| Çerm | Berî masajê çermê birîndar, şikestî an nazik kontrol bikin. Bi zextekî nerm bikin û heke ew rûyê xwe dişewitîne rawestin. |
+| Germahî | Berî destpêkirinê destmalên germ û vexwarinan li ser çokê destê xwe biceribînin. |
+| Tiştên tûj an jehrîn | Tu amûrên tûj, şûşe an malzemeyên hunerî yên jehrîn nebin. |
 
-## Does aromatherapy help?
+## Gelo aromaterapî alîkar e?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Dibe ku bi awayekî pîvandî nebe. [Lêkolîneke Cochrane ya li ser aromaterapiyê ji bo demansê](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) li 13 lêkolînan bi 708 kesan nihêrî, hemû li malên lênêrînê, û tu delîlek bihêz a sûdê nedît. Lêkolîn piçûk bûn, encam li hev nekirin, û bandorên alîgir kêm hatin raporkirin. Heke kes ji bîhnekî nerm û nas kêfê digire, wek lavantaya ji baxçê, ev sedemek baş e ku wê parve bikin. Ew ne dermankirin e.
 
-## How to offer a sensory activity
+## Meriv çawa çalakiyeke hestî pêşkêş dike
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Demeke bêdeng hilbijêrin** û televîzyonê vemirînin.
+- **Ji pêş ve nêzîk bibin,** navê wî bibêjin, û berî ku dest bidin wî bipirsin an bibêjin: «Losyonek min heye. Tu dixwazî masaja destan bikî?»
+- **Her carê tenê tiştekî pêşkêş bikin** da ku ew zêde nebe.
+- **Bersivê temaşe bikin.** Rûyekî nermtir, destên rihet an bişirînek nîşanên baş in. Vekişîn, rûxirandin an bêrihetiyê wateya rawestinê ne.
+- **Kin bihêlin.** Pênc deqeyên aram danişîneke baş e.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Rawestgeheke hêdî ya nefesê bi hev re, wek [nefesa aram](/games/calm-breathing/), dikare rêyek nerm be ji bo bidawîanînê. Ji bo bêtir ramanên li kêleka nivînê, li [çalakiyên qonaxa dawî](/activities/late-stage/) binêrin, û ji bo bêrihetiya êvarê, li [bêrihetiya dawiya rojê](/caregiving/late-day-restlessness/) binêrin.

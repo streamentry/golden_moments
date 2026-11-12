@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Gwriansow ha gwariow rag tus gans Alzheimer"
+seoTitle: "Gwriansow ha gwariow Alzheimer: tybyansow dre studh"
+description: "Gwriansow ha gwariow rag tus gans Alzheimer yn pub studh, selys war sleyneth ha kovow a bes yn fenowgh, gans gwariow heb kost dhe wari war-barth."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Da yw gwriansow rag nebonan gans Alzheimer a sely orth an pyth a bes hirra:
+  sleyneth praktisys dres termyn hir, kanow koth, oberennow koth ha’n sensow.
+  Y’n dalleth, y hyl kartys, gwariow bord, kegi ha mos yn-mes oberi hwath yn
+  fenowgh. Y’n studh gres, assayewgh plegya, sortya, kana, lyvrow skeusennow ha
+  gwariow sempel gans skeusennow. Diwettha yn’n kleves, ilow, toch ha kowethyans
+  yw an moyha posek. Dewisewgh herwydh fatel yw an person hedhyw.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer yw an acheson moyha kemmyn a dhemens, ytho tybyansow gwriansow rag demens yw gwiw dhodho ynwedh."
+  - "Kedhlow nowydh yw an kalesa yn fenowgh dhe dhallath, mes sleyneth ha kanow dyskys nans yw termyn hir a yll pesya hirra. Selyewgh warnodha."
+  - "An studhyow a wra gorgemyska, ha dydhyow da ha kales yw normal. Dewisewgh herwydh an pyth a yll an person gul ha’ga enjoya hedhyw."
+  - "Dewisewgh gwariow heb termynador, skor po govynnow, ha gadewgh an skeusennow dhe vos gweladow."
+  - "Mires, dalhenna neppyth po sempel esedha war-barth a rekn ynwedh avel kemeres rann."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Py gwriansow yw da rag nebonan gans Alzheimer?"
+    a: "Gwriansow koth gwrys nebes es: plegya dillas, araya an voos, kegi war-barth, ilow ha kana, mires orth skeusennow, kerdhes, lowarthyeth ha termyn gans aneval dov. Gwariow sempel gans skeusennow, jigsowys es ha kartennow kesklapp a ober ynwedh rag lies den. Dewisewgh an pyth a garas an person pup-prys ha gwrewgh e war-barth ganso."
+  - q: "Yw gwariow da rag tus gans Alzheimer?"
+    a: "Gwariow a yll bos fordh plesont dhe dremena termyn war-barth mars yw an person owth aga enjoya. Ny veu diskwedhys nevra bos gwari vyth ow tyghtya, lenthe, lettya po gorthebi Alzheimer, ytho dewisewgh gwariow rag delit: skeusennow bras, nebes dewisow, ha heb termynador, skor po sonyow gorthyp kamm."
+  - q: "Eus dyffrans ynter gwriansow rag demens ha gwriansow rag Alzheimer?"
+    a: "Dre vras ny’n jeves. Kleves Alzheimer yw an acheson moyha kemmyn a dhemens, ha’n keth tybyansow gwriansow a wra oberi. An pyth a weres gans Alzheimer yw godhvos bos kovow a-gynsow ow kelli kynsa yn fenowgh, ytho gwriansow selys war sleyneth, kanow ha usadowyow kottha a yll mos yn-rag moy es."
+  - q: "Pyth a yll nebonan gans Alzheimer diwettha enjoya hwath?"
+    a: "An ilow meurgerys ganso, knouk dorn medhel, taklow medhel dhe dhalhenna, bos redys dhodho, esedha yn-mes, ha kowethyans nebonan a drest ynno. Gwithewgh e berr ha kosel, ha mirewgh orth y fas ha’y gorf dhe weles an pyth a gar."
+  - q: "Fatell allav vy gul nebonan gans Alzheimer dhe vos omgemerys yn gwrians?"
+    a: "Govynnewgh gweres yn le a dherivas a-dro dhe wrians, pareusewgh pup-tra kyns, ha dallethwgh hwi agas honan may hallo ev omjunya. Dewis an termyn a’n jydh pan vo y well a wra dyffrans bras. Mars lever ev na, assayewgh arta diwettha po profyewgh versyon byghanna."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Mars eus nebonan a garowgh gans Alzheimer, martesen hwi re verkyas seulabrys bos nebes taklow ow kelli uskis ha re erel ow pesya. Martesen ev a wra ankevi galow pellgowser myttin ma mes hwath ev a yll kana pub ger a hymn, plegya towelen kepar dell wrug ev pup-prys, po ranna kartys heb prederi. Gwriansow da yw drehevys war an sleynethow hir-woes ma. An folen ma a styrgh prag, hag ena a brof tybyansow rag pub studh ha’n gwariow heb kost war an wiasva ma a dheg dhodhans.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Yw Alzheimer dyffrans a dhemens pan dheu dhe wriansow?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Nyns yw pur. Demens yw an ger ledan, ha kleves Alzheimer yw an acheson moyha kemmyn anodho: an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) a lever y vos 60 dhe 80 kansran a gasow demens. Ogas dhe bub tra skrifys a-dro dhe wriansow rag demens a wra oberi rag Alzheimer, y’ga mysk agan [101 tybyans gwrians](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+An pyth yw dhe les godhvos yw an aray usadow a janj. An [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) a styrya bos Alzheimer ow shyndya kynsa an rannow a’n ympynnyon usys rag kov, hag a-wosa ow tochya yeth, resonya ha omdhegyans socyal. An Alzheimer's Association a lever bos an arwodh dalleth moyha kemmyn kaleseth dhe berthi kov a gedhlow nowydh-dhyskys. Pubonan yw dyffrans, ha lies den a’n jeves achesonys kemyskys, mes an patron ma a furv an pyth a wra oberi yn fenowgh.
 
-## What kinds of activities suit Alzheimer's best?
+## Py eghenn gwriansow yw an gwella rag Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Gwriansow a sely war godhvos koth, praktisys yn ta, a wra mos yn-rag moy es yn fenowgh es re a rekwir neppyth nowydh dhe vos dyskys ha synsys y’n brys.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Sleyneth praktisys dres termyn hir.** An Alzheimer's Association a verkyas y hall nebonan hwath gwari kanow sempel dyskys war an piano nans yw bledhynnyow. Gwia, treusya prenn, shuffla kartys, tos toes ha plegya dillas yw haval.
+- **Kanow koth hag ilow koth.** Lies den a wor hwath pub ger a ganow aga yowynkneth hag aga degves bledhen, hymnow ha kanow aga demedhyans. Gwelewgh [gwriansow ilow](/activities/music/).
+- **Oberennow pub dedh gans porpos.** An [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) a rol golghi lestri, araya an voos, sortya lodhow ha plegya dillas yn-mysk gwriansow a yll tus enjoya. Omglewes dhe les a vern.
+- **Aswon yn le a govhe.** Poyntya orth an skeusen gowl yw esya es hy henwel a gov. Henn yw prag y hwra gwariow skeusennow gans pup-tra y’n gwel oberi gwell es apposyansow.
+- **An sensow.** Gwias, sawarn, toemmder, blas ha son a bes styryek hir wosa bos geryow kales. Gwelewgh [gwriansow sensel](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+An pyth a wra mos yn-rag le gwell yn fenowgh: neppyth gans klock, rewlys nowydh dhe dhyski, lies kamm dhe berthi kov, po govynnow a brevi kov, kepar ha « A borth kov dhis piw yw hemma? » An re na a wra gorra an rann galesa a Alzheimer a-rag.
 
-## Activities for early-stage Alzheimer's
+## Gwriansow rag Alzheimer y’n studh dalleth
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Y’n studh dalleth, an [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) a lever y hall nebonan hwath lywya, oberi ha kemeres rann yn gwriansow socyal, hag ev ow merkya fowtys kov kepar ha ankevi geryow koth po le mayth yw taklow. An fordh wella yw kespareth: govynnewgh an pyth a vynn ev pesya dhe wul ha py gweres a vynn.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Pesyewgh gans gwriansow a gar ev hwath.** Golff, bridge, gwia, kor ha bagasow eglos, gans chanjyow byghan kepar ha bagasow byghanna hag ourys kosella.
+2. **Gwariowgh kartys ha gwariow bord koth.** An [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) a rol govynnow godhvos, hwilansow geryow, gwariow kartys ha gwariow bord rag an studh dalleth. Gwariowgh avel para mars dalleth synsi skor y droubla, po gasowgh an skor yn tien.
+3. **Kegi war-barth.** Gadewgh ev dhe wul resep a wor yn ta ha hwi a with redya an kammow.
+4. **Dallethwgh ragdres istori bewnans.** Skeusennow, resepys hag istoriow yn lyver kov may hwer ev y aray. Gwelewgh [gwriansow kovheans](/activities/reminiscence/).
+5. **Ewgh yn-mes.** Bosti meurgerys orth our gosel, gwithti rag godros berr, kerdh y’n park.
+6. **Assayewgh jigsowys a dhewis ev.** Krowswerdhyn gans lytherennow bras, hwilansow geryow ha jigsowys. Gwelewgh [jigsowys rag demens](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Moy tybyansow: [gwriansow y’n studh dalleth](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Gwriansow rag Alzheimer y’n studh gres
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+An Alzheimer's Association a dheskrif an studh gres avel an hirra dre vras, hag a lever y hall pesya lies bledhen. Geryow a wra kemyska, serrys a dheu moy es, ha’n person a rekwir moy a with. An Alzheimer's Foundation of America a geworr bos edhom dhe lies den a weres dhe dhalleth po pesya gwriansow. Agas rann a janj dhe bareusi taklow, diskwedhes yn le a styrya, ha kemeres an rannow kales.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Plegya, sortya ha kesparya.** Towelyow, lodhow, lestri arghans, botonyow herwydh liw. Oberennow gwir, gwrys a-denewen.
+2. **Kana ha gwaya gans ilow.** Kleskyewgh diwleuv, swaysyewgh po donsowgh y’n gegin. Dallethwgh kana hwi agas honan ha gadewgh ev dhe omjunya.
+3. **Mirewgh dre lyvrow skeusennow.** Deskrifewgh an pyth a welowgh ha gelwelgh istoriow: « Ass yw karr. Deriv dhymm a-dro dhodho. » Sewyewgh an henwyn a wra ev usya.
+4. **Gwariowgh gwariow sempel gans skeusennow.** [Picture pairs](/games/picture-pairs/) gans peswar dhe hwegh prileghen ha skeusennow gweladow, po [Find the same](/games/find-the-same/) gans dew po tri dewis.
+5. **Gorfennewgh lavarennow koth.** « Aval pub dedh a with… » Lavarennow dyskys nans yw termyn hir a dheu yn es yn fenowgh. Assayewgh [Finish the saying](/games/finish-the-saying/), le may hyllewgh diskwedhes neb diwedh gans unn dapp.
+6. **Dowrhewgh ha gwithyewgh losow.** Pottow a-bervedh po gwel ughel, gans kanna dowr byghan.
+7. **Gwrewgh gwari kesparya a skeusennow teylu.** [Photo pairs](/games/photo-pairs/) a wra usya skeusennow a dhewisowgh war agas devis, ha ny wrons i bythkweth y asa.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Moy tybyansow: [gwriansow y’n studh gres](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Gwriansow rag Alzheimer y’n studh diwettha
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Y’n studh diwettha, an Alzheimer's Association a lever bos tus ow kelli an gallos dhe worthebi dh’aga kerghynnedh ha dhe besya kesklapp, kyns i a yll leverel geryow po lavarennow hwath. Gwrians lemmyn a styr konfort ha keskolm, dres dhe le mayth esow an person ow powes.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Gwariowgh an ilow meurgerys ganso** yn kosel, heb an bellwolok ow kesstrivya.
+2. **Rewgh knouk dorn** gans eli gans sawarn a gar ev.
+3. **Profyewgh taklow medhel dhe dhalhenna:** golgh toemm, gwlan medhel, men hir.
+4. **Redyewgh yn ughel** salmow, bardhonegow po istori koth. An ryth a vern moy es an styr.
+5. **Esedhewgh yn-mes** y’n skeus, po ryb fenester gans ydhyn dhe vires orta.
+6. **Mirewgh war-barth orth unn skeusen vras.** Howlvleujen po ki ow lenwel skrin leghen, ha hwi ow leverel an pyth a welowgh.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Moy tybyansow: [gwriansow y’n studh diwettha](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Py gwariow a ober rag nebonan gans Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Dewisewgh gwariow le na yll travyth bos fyllys. Pub gwari war an wiasva ma yw heb kost, a wra resek yn beurell ha nyns eus dhodho termynador, skor po omrolya.
 
-| Game | What you do | Often suits |
+| Gwari | Pyth a wrewgh | Gwiw yn fenowgh rag |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Picture pairs](/games/picture-pairs/) | Kesparyewgh skeusennow bras; i a yll pesya war-lergh | Studh dalleth ha gres |
+| [Find the same](/games/find-the-same/) | Tappyewgh an skeusen a gesseny orth an huni a-wartha | Studh gres ha diwettha, gans gweres |
+| [Finish the saying](/games/finish-the-saying/) | Dewisewgh an ger diwettha a lavar koth, po diskwedhewgh ev | Studh dalleth ha gres |
+| [Picture puzzle](/games/picture-puzzle/) | Keschanjyewgh 4 po 9 tamm yn aga le, gans an skeusen diskwedhys | Studh dalleth ha gres |
+| [Conversation cards](/games/conversation-cards/) | Skeusen ha govyn ygor dhe gowsel a-dro dhodho | Pub studh, gans nebonan dhe gowsel ganso |
+| [Photo pairs](/games/photo-pairs/) | Gwari kesparya gwrys a’gas skeusennow hwi | Studh dalleth ha gres |
+| [Coloring](/games/coloring/) | Tappyewgh liw, hag ena rann a skeusen; po pryntyewgh ev | Pub studh, gans gweres |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Rag fatell esedha war-barth, pygemmys gweres dhe brovia ha pan dhe heddi, redyewgh [fatell wari gwariow gans nebonan gans demens](/caregiving/how-to-play-together/). Mars owth omwovyn a-dro dhe « gwariow kov », gwelowgh [gwariow kov rag tus koth gans demens](/activities/memory-games/).
 
-## How to make any activity easier
+## Fatell wul pub gwrians esya
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Kussulyow an NIA a dheu yn-mes a nebes usadowyow: paryewgh an gwrians orth an pyth a yll an person gul, gweresewgh dhodho dalleth, mirewgh rag serrys, surhewgh ev dhe omglewes sowen, ha gadewgh ev dhe sempel mires mars yw henna an pyth a gar.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Dewisewgh an termyn a’n jydh pan vo y well,** ha gwithewgh an esedhogow berr.
+- **Gorrewgh pup-tra yn y le kyns** may hyllewgh dalleth a-dhistowgh.
+- **Gelwelgh, na worhemmynnewgh.** « A yllydh ow gweres? » a ober gwell es « Termyn rag gwrians. »
+- **Gwrewgh an kynsa kamm hwi agas honan** ha gadewgh ev dhe omjunya.
+- **Profyewgh unn kamm hag unn dewis orth unn termyn.**
+- **Gadewgh ev bos gwrys y fordh ev.** Towelyow kamm yw da lowr.
+- **Heddyewgh ha’n gwrians hwath plesont.** Gorfenna a-varr yw sewen da, nyns yw fyllel. Mars nag yw ev ow mynnes, gwelowgh [pan lever nebonan gans demens na](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+An [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) a lever yn sempel: fogella war delit, a-der kollenwel.

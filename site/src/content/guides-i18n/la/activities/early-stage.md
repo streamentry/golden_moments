@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Actiones pro dementia in gradu primo"
+seoTitle: "Actiones pro dementia prima: consilia apta"
+description: "Consilia actionum pro dementia prima: studia, ludi, itinera, scriptura et consilia communia, cum parvis mutationibus ut persona eis fruatur et praevaleat."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  In gradu primo dementiae, plerique homines ea facere possunt quae eis placent:
+  studia, ludos chartarum et mensae, coquinam, hortum colendum, ambulationes,
+  circulos, vitam religiosam et opus voluntarium. Mutationes praecipuae sunt
+  circuli minores, itinera breviora, consilia scripta simplicia et socius
+  propinquus. Rogate personam quam curas quale auxilium velit, et sinite eam ducere.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Plerique homines in gradu primo satis libere vivunt. Actiones plerumque aptandae sunt, non mutandae."
+  - "Rogate personam quale auxilium velit, et convenite de signo simplici quo indicet se auxilium accipere velle."
+  - "Circuli minores, tempora tranquilliora et itinera breviora saepe magnam differentiam faciunt."
+  - "Hoc tempus idoneum est ut persona ipsa incepta de vita sua ducat, sicut diarium vel librum de vita sua."
+  - "Ludos ad delectationem eligite. Omitte quidquid coeperit sicut probatio sentiri."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Quae actiones aptae sunt pro dementia in gradu primo?"
+    a: "Plerumque eaedem quas persona iam amat: chartae, ludi mensae, coquina, hortus colendus, ambulatio, musica, actiones religiosae, circuli et opus voluntarium. Fortasse oportet eas breviores, tranquilliores aut simpliciores facere. Diarium scribere, epistulas scribere et librum de vita sua conficere huic gradui quoque bene conveniunt."
+  - q: "Quomodo adiuvare possum sine omnia in me suscipiendo?"
+    a: "Rogate quale auxilium persona velit, et saepe quaerite. Convenite de verbo vel nutu qui significet licere vos intervenire, exempli gratia cum verbum vel nomen non occurrit. Si nullum periculum salutis est, sinite eam suo modo rem agere, etiam si longius tempus requirit."
+  - q: "Debetne aliquis cum dementia prima novas actiones temptare?"
+    a: "Ita, si id vult. Studia familiaria plerumque sunt facillima, sed multi homines aliquid novi libenter experiuntur, sicut gregem ambulationis aptum hominibus cum dementia viventibus, scholam artis vel gregem cantus. Semel sine pressione temptate et videte quomodo se habeat."
+  - q: "Suntne applicationes ad exercitationem mentis utiles in gradu primo?"
+    a: "Nonnulli homines aenigmatibus et ludis verborum gaudent, et haec delectatio ipsa satis causae est. Nulla applicatio vel ludus demonstratus est dementiam curare, retardare aut sistere. Si ludus sollicitudinem affert vel personam ita sentire facit quasi non bene faciat, eum seponite."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+In gradu primo dementiae, multi homines paene eodem modo vivunt quo antea. Fortasse laborant, opus voluntarium faciunt, amicos vident et magnam partem diei sui ipsi ordinant. Actiones plerumque non mutandae sunt; paucae accommodationes necessariae sunt ut iucundae maneant. Partes tuae magis sunt partes socii quam curatoris: aliquis qui adiuvat, una cum persona consilia facit et solum cum rogatur intervenit.
 
-## What activities are good in early-stage dementia?
+## Quae actiones aptae sunt in dementia prima?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Optimae actiones in gradu primo plerumque sunt eaedem quas persona iam amat, paulo faciliores factae. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ideas proponit sicut ludos chartarum et mensae, investigationes verborum, ambulationem, saltationem, hortum colendum, flores componendos, narrationem, picturam, musicam, diarium scribendum, epistulas scribendas, libros imaginum conficiendos, coquinam et traditiones dierum festorum.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Quod saepe mutatur est rerum contextus, non ipsa actio. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notat homines in gradu primo interdum se subducere ab eis quae eis placebant, et exemplum dat hominis qui in magna celebratione se obrui sentit, sed in parvo circulo melius se habet. Aperte colloquimini de eis quae difficiliora videntur, et una mutationes facite.
 
-## Ask first, and agree on how to help
+## Prius rogate, et convenite quomodo adiuvetis
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Consilium Alzheimer's Association pro gradu primo](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) paucos mores suadet qui etiam ad actiones pertinent:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Directe rogate.** "Quid circulum librorum tibi faciliorem faceret?" melius responsum affert quam coniectare.
+- **Putate eam posse.** Si nullum periculum salutis est, sinite personam conari, et eam confirmate potius quam rem in vos suscipere.
+- **De signo convenite.** Eligite verbum vel nutum qui significet "licet intervenire", exempli gratia cum nomen in ludo chartarum non occurrit.
+- **Saepius quaerite.** Rogate utrum modus auxilii rectus, nimius an parum esse videatur.
 
-## Activity ideas for the early stage
+## Consilia actionum pro gradu primo
 
-### Keep up roles and hobbies
+### Partes et studia familiaria servate
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Officium certum servate.** Munus voluntarium hebdomadale, chorus vel circulus hebdomadi formam dat. Si sollicitudinem affert, munus brevius vel tranquillius melius convenire potest.
+- **Una cibos parate.** Si emptio ciborum molesta facta est, Alzheimer's Association suadet rogare personam ut adiuvet cibos hebdomadis constituere et indicem scribere.
+- **Coquite et panes conficite.** Unā caram formulam sequimini. Antequam incipiatis, ingredientia ordine exponite, ut gradus videantur.
+- **Hortum colite.** Aream constituite, semina vel plantas eligite et opus una facite. Index scriptus operum horti hebdomadis adiuvat.
+- **Opus manu factum continuate.** Ars lignaria, sutura, textura vel exemplaria construenda continuari possunt cum formis simplicioribus et bona luce.
 
-### Games for enjoyment
+### Ludi ad delectationem
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Chartis et ludis mensae ludite.** Ludi familiares sunt facillimi. In turmis ludite, ne quis solus prematur, et puncta leviter numerate vel omnino omittite.
+- **Investigationem verborum magnis litteris temptate.** Nostra [investigatio verborum](/games/word-search/) in scrinio ludere vel ad quietum momentum imprimi potest.
+- **Picturas ex partibus componite.** Numerum partium eligite qui placidus, non difficilis videatur. [Aenigma picturae](/games/picture-puzzle/) est brevis forma in scrinio, et dux noster de [aenigmatibus pro dementia](/activities/puzzles/) adiuvat in eligendo.
+- **Certamini scientiae ad delectationem interesse.** Nonnulli homines vespertinum certamen scientiae in turma amant. Si probatio esse coeperit, aliud eligite, vel temptate nostras [quaestiones faciles scientiae](/activities/trivia/), quae responsa proponunt et puncta non habent.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Hic ludi ad delectationem sunt. Nullus ludus demonstratus est dementiam curare vel retardare; plura legite in [ludis mentis: quid investigatio dicat](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Scribere, cogitare et memoriae mandare
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Diarium tenete.** Alzheimer's Association diarium scribere suadet ut unum modum ad sensus post diagnosim ordinandos. Paucae lineae in dies satis sunt.
+- **Librum de vita sua ducere.** Gradus primus tempus idoneum est ut persona ipsas photographias suas eligat et historias post eas scribat vel dictet. Vide [actiones ad memoriam revocandam](/activities/reminiscence/).
+- **Epistulas scribite.** Epistula ad nepotem, veterem amicum vel collegam pristinum utrique significare potest.
+- **De photographiis colloquimini.** [Paria photographiarum](/games/photo-pairs/) photographias familiares in lenem ludum comparationis vertunt, et [chartae colloquii](/games/conversation-cards/) initia facilia sermonis praebent.
 
-### Go out and move
+### Exire et se movere
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suadet itinera familiaria continuare tam diu quam ambo commode potestis. Ea in optimo tempore diei personae disponite et cavete ne nimis longa fiant.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Breves visitationes culturales.** Museum, spectatio meridiana vel exhibitio artis, optime tempore tranquilliore.
+- **Natare.** NIA piscinam tempore diei tranquilliore suadet.
+- **Greges ambulationis et scholae saltationis.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) saltationem, tai chi, yoga, natationem et greges ambulationis commemorat, atque sessiones aptas hominibus cum dementia viventibus, ubi praesto sunt.
+- **Greges cantus et cafe memoriae.** Greges placidi ubi homines cum dementia viventes et socii eorum alios in eadem condicione convenire possunt.
 
-## Small changes that keep activities enjoyable
+## Parvae mutationes quae actiones iucundas servant
 
-| If this is getting harder | Try this |
+| Si hoc difficilius fit | Hoc temptate |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Loca negotiosa vel strepentia | Ite temporibus tranquillioribus, parvos circulos eligite, in margine loci sedete |
+| Nomina nova meminisse | Homines unoquoque tempore nominatim praesentate; rogate ut greges pittacia nominum gerant |
+| Consilia plurium graduum sequi | Gradus scribite, vel omnia prius ordine exponite |
+| Fatigari | Itinera breviora, quies postea, nihil aliud eo die constitutum |
+| Ludum sequi | In turmis ludite, regulas simpliciores facite, vel puncta omittite |
+| Verba invenire | Tempus concedite; verbum tantum offerte si signum vestrum commune id significat |
 
-## When to slow down
+## Quando remittere oporteat
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Actionem sistite vel mutate cum plus sollicitudinis quam voluptatis affert. Frustratio iterata, studium vitare vel dicere "iam non possum" digna sunt leni colloquio, non impulsu. Saepe responsum est forma minor eiusdem rei. Cum persona plus auxilii eget ad incipiendum et gradus sequendos, consilia in [actionibus pro gradu medio](/activities/middle-stage/) melius convenire possunt. Plura de sermone adiuvante legite in [consiliis de communicatione](/caregiving/communication-tips/), et plura consilia invenite in [101 actionibus](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Socii quoque auxilio egent. Gradus primus tempus bonum est ad rete auxilii vestri constituendum; vide [curam sui pro curatoribus](/caregiving/caregiver-self-care/).

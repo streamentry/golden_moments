@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Ysysytya nebonan gans demensya yn Chi Kov po yn Klatek"
+seoTitle: "Ysysytya nebonan gans demensya: Pyth dhe wul ha dhe dhri"
+description: "Pyth dhe wul pan vysytyowgh nebonan gans demensya yn chi kov, tre witha po yn klatek: pyth dhe dhri, oberow sempel, vysytyow berr ha gasa yn ta."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Pan vysytyowgh nebonan gans demensya yn chi kov po yn klatek, gwrewgh
+  hwarvos sempel: lavarowgh agas hanow pan owgh ow tevy, dri neppyth dhe ranna
+  kepar ha skeusennow, ilow po boos caradow, ha gwul unn dra sempel war-barth.
+  Ysysytyow berr ha reken a yll mos gwell ages re hir ha nebes troghow. Planowgh
+  agas fardellyans yn kosel ha parus ma vo esya gasa war-barth.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Dynnarghowgh an den/benyn herwydh y hanow ha lavarowgh piw owgh: 'Dydh da, Mamm, yth esov vy Susan, dha vergh.'"
+  - "Drewgh unn po dew dra dhe ranna, kepar ha lyver skeusennow, ilow caradow, blanket medhel po boos re beu afysys gans an venystra."
+  - "Ysysytyow berr ha reken a yll mos gwell ages ysysytyow hir ha nebes troghow. Agas osva a vern moy ages an pyth a lavarowgh."
+  - "Yn klatek, rewgh folen unn bagedh dhe'n venystra a-dro dhe'n den/benyn ha lavarowgh dhe'n medhek a-dhistowgh a neb chanj a-dhistowgh."
+  - "Planowgh agas mos: lavarowgh py eur a yllowgh resta, devnydhyowgh an kemeneth kensak ha mos heb gul gortos hir."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Pyth a dal dhymm dri pan vysytyav nebonan gans demensya?"
+    a: "Drewgh neppyth dhe ranna, kyn na vo neppyth dhe keskowsel a-dro dhodho. Lyver byghan a skeusennow, rol a ganow caradow war bellgowser, blanket medhel, loskammow dorn, lyver a-dro dhe hen oberow po boos re beu afysys gans an venystra a allas oberi yn ta. Yn chi witha, skeusennow teylu ha taklow a vern a yll gul bos chons moy teylu y'n stevel."
+  - q: "Py hir a dal dhymm resta pan vysytyav nebonan gans demensya?"
+    a: "Nyns eus hirder ewn vyth. Lies teylu a gav bos gwell ysysytyow berr ha reken ages ysysytyow hir ha nebes troghow, rag y hall an den/benyn bos skwith a-varr ha ny yll ev/hi perthi kov py hir yth esowgh ow resta. Gwrewgh miras orth arwodhyow skwithter ha mos pan vo'n vysytyans hwath da."
+  - q: "Pyth a lavarfiv pan wovynnons orthov vy mos tre?"
+    a: "Gorthewgh an omglewans, nag an geryow. 'My a vynn mos tre' a styr yn fenowgh 'Ny'm eus omglewans yn es po salow.' Assayowgh lavarowgh, 'Lavar dhymm a-dro dhe'gas chi,' miras war skeusennow war-barth, po offrynnowgh kerdh po boos. Keskessydhya po styrya prag na yllons mos a wra yn fenowgh moy kressya tristedder."
+  - q: "Pyth a hwarv mar ny'm aswonons?"
+    a: "Y hyll bos galarus, mes assayowgh na'yllowgh keworra po govenna 'Ny wodhowgh piw ov?' Dynnarghowgh hwi agas honan yn dasserghys ha sempel, ha jynn gwrydhowgh an termyn war-barth. Lies den/benyn a wra hwath lowenhe a gevri ha senti tommder vysytyans kyn na yllons perthi kov piw owgh hwi."
+  - q: "Fatel y hallav vy gweres yn diwettha klatek?"
+    a: "Gwrewgh resta gans an den/benyn mar ny yllowgh, gweresowgh orth dybri ha eva, ha drewgh taklow a vern kepar ha skeusennow. Rewgh folen gans manylyon a-dro dh'y rewl, hanow kerys, pyth a gar ev/hi, pyth na gar, ha arwodhyow anger. Lavarowgh dhe'n medhek a-dhistowgh mar hevel dhe'n den/benyn bos gwann po dyffrans yn soudh a-dhistowgh, rag gallos bos kudyn medhegel a-dryv confusion a-dhistowgh."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Ysysytya nebonan a garowgh yn chi kov, tre witha po yn klatek a yll omglewes yn feur. Y hyllowgh bos ow kovynna pyth dhe lavarowgh, pyth dhe dhri, po mars yw an vysytyans hwath a vern mar ny wra an den/benyn y berthi kov. Yw a vern. An National Institute on Aging a vemynsk anedhi may hallo tus gans Alzheimer [lowenhe a gevri](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyn na wrellons perthi kov piw yw an vysytyer. An folen ma a re kammow praktikel rag kyns, dres ha wosa vysytyans, yn unn guntell moy a vern rag diwettha klatek.
 
-## How do I get ready for a visit?
+## Fatel y'm parysav vy rag vysytyans?
 
-A little planning makes the visit easier for both of you.
+Nebes plan a wra an vysytyans esya rag an dhew.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Dewisowgh termyn da.** Dementia Australia a gomend vysytya pan vo an den/benyn moy diwysyk yn fenowgh, may yw moyha an termyn myttin po ogas dhe hanter-dydh rag lies den. An Family Caregiver Alliance a gomend dyski hwarvosow an chi hag ysysytya [dres termyn rydh kyn na vo dres termyn ober](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Govynnowgh dhe'n venystra.** Govynnowgh fatel yw an den/benyn hedhyw, ha checkowgh neb rewlys a-dro dhe voos, bestes po kerdhow yn-mes.
+- **Fardellowgh sagh byghan rag an vysytyans.** Unn po dew dra dhe ranna yw lowr (gwelowgh an rol a-woles).
+- **Planowgh nebes testennow.** Martesen ny vo nowodhow dhe ranna gans an den/benyn, ytho kemmerowgh agas huni: nowodhow teylu, an gewer, gwari pel, hwedhel dhroll.
+- **Settyowgh agas gortosow agas honan.** Nebes vysytyow a yll bos tomm ha keskowsel. Erbynn arall, y hyllons bos kosel po kales. An dhew yw normal.
 
-## What should I bring?
+## Pyth a dal dhymm dri?
 
-Bring things to share, not things that test. Good choices include:
+Drewgh taklow dhe ranna, nag taklow dhe brofi. Dewisyow da yw:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Lyver byghan a skeusennow** gans skeusennow bras ha kler. Merkyewgh anedha war an dri po gans an venystra.
+- **Rol a ganow** a ganow caradow war bellgowser, gans skovornow sempel po kowsel byghan.
+- **Neppyth medhel dhe synsi,** kepar ha blanket a vern, skarf po kryss caradow.
+- **Loskammow dorn** rag massaj dorn medhel, mar eus lowena gans an den/benyn orth toch.
+- **Lyver-golok po lyver skeusennow** a-dro dhe hen lesow, kepar ha lowarthow, kerri, edhyn po kegina.
+- **Boos caradow,** mar lavar an venystra bos salow dhodho.
+- **Taklow a vern rag an stevel.** An Family Caregiver Alliance a gomend flourys, plans, skeusennow teylu ha oberow oberti, po poster bras a skeusennow teylu dhiworth an termyn tremenys.
+- **Tablydh,** rag mires orth skeusennow teylu po gwari gwari medhel war-barth.
 
-## What can we do together during a visit?
+## Pyth a yllyn ni wul war-barth dres an vysytyans?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Gwul neppyth war-barth a wra dilea wask dhiworth keskows. Dementia Australia a gomend mires orth skeusennow, kreft esel, plansow ow tevi, ilow, ranna boos, po kerdh a-dro dhe'n tir. Niver a synsyow moy:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Mires orth skeusennow.** Styryewgh an pyth a welowgh: "Mire orth an hatt na." "Pur deg yw an treth ma." Gasa dhe'n den/benyn menystra. Na wovynnowgh "Piw yw ma?"
+2. **Gwari ilow ha cana.** Kanow a vern a yll drehevel an humeur ha gul chons kevrennys, kyn fo kales keskowsel.
+3. **Kerdh berr.** An Family Caregiver Alliance a gomend kerdhes a-dro dhe'n chi, yn arbennek yn lowarth mar eus onan. Kerdh gans kador rolyans a guntell.
+4. **Ri massaj dorn.** Nebes loskammow ha strokyow lent war an dorn a yll bos koselhe.
+5. **Gweres gans arwotter.** Dementia Australia a vemynsk brusha blew, peintya ewinedh po gweres an den/benyn y'n dillas kerys, mar eus lowena ganso.
+6. **Gwari gwari sempel.** An Family Caregiver Alliance a gomend kartennow, dominos, po pyth a wrug an den/benyn gwari kyns. War dablydh, [Picture Pairs](/games/picture-pairs/) a yll bos gwarys gans skeusennow gesys gweladow heb timer. [Photo Pairs](/games/photo-pairs/) a dro skeusennow a dhewisowgh dhe wari kessunya, ha'n skeusennow a wra gwitha y'n peurel.
+7. **Mires orth neppyth war-barth.** An Family Caregiver Alliance a gomend komedhyow ha filmow koth. Kyn na yllo an den/benyn holya an hwedhel, y hyllowgh esedha ogas ha kevranna an termyn.
+8. **Lena aloud.** Darn berr a bardhonieth, passaj caradow, po lyther dhiworth teylu.
+9. **Esedha war-barth yn udnek.** Synsi an dorn po esedha yn kosel yw vysytyans gwir. An Alzheimer's Association a vemynsk bos da na wodhvydh pyth dhe lavarowgh, ha bos a vern an moyha agas osva.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) a yll gweres pan vydh diwedh dhe bethau dhe lavarowgh. Pub garten a's teves skeusen ha govynn ygor.
 
-## How should I talk during the visit?
+## Fatel y tal dhymm keskowsel dres an vysytyans?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Dynnarghowgh agas honan pup tro.** "Dydh da, Tas, yth esov vy Mark, dha vab." An NIA a gomend dhe vysytyoryon aga honan dynnargha yn berr rag dalleth keskows.
+- **Nessa dhiworth an tal** ha esedha yn nivel lagas.
+- **Na eworryowgh po keskessydhyowgh.** An NIA a gynghor na eworrer an den/benyn mar wra ev/hi camwri po ankevi neppyth.
+- **Bodhewgh pasyans** pan vo kales kavos geryow. Ri termyn lowr.
+- **Gorthewgh an omglewansow.** Mar hevel dhe'n den/benyn bos trist po prederus, aswonowgh henna kyns chanjya an desten.
+- **Na wovynnowgh govynnow prevyans** kepar ha "Ny'm aswonowgh vy?" po "Pyth a dhybrysowgh dhe lôn?"
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Gwelowgh agan [gynghorow keskowsel](/caregiving/communication-tips/) rag moy.
 
-## What do I do when they say "I want to go home"?
+## Pyth a wrav vy pan lavarons "My a vynn mos tre"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Gorthewgh an omglewans a-dryv an geryow (agan gid a-dro dhe [pan wovynn nebonan dhe vos tre yn feur](/caregiving/asking-to-go-home/) a wra mos pell). An Family Caregiver Alliance a styry dhyn bos "My a vynn mos tre" yn fenowgh fordh dhe lavarowgh "Ny'm eus omglewans es po salow," ha komend ynni gorthebi kepar ha "Lavar dhymm a-dro dhe'gas chi" po "Pyth yw an dra gwella dhe'gas chi?" Dementia Australia a geworra bos possybyl y styr "tre" termyn po tyller may tressa an den/benyn salow, kepar ha y flouthydh.
 
-Try:
+Assayowgh:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- aswon an omglewans: "Yth hevel bos hwans dhis a dre."
+- offrynnya comffordh dre doch, mar yw diskwedhys
+- mires orth skeusennow po keskowsel a-dro dhe chi an teylu
+- offrynnya kerdh, diwas po boos
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Na eskemmewgh po styrya prag na yllons mos. Y hyll gul yn ladhha ha yn fenowgh kressya tristedder.
 
-## How long should a visit be?
+## Py hir a dal vos an vysytyans?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Ysysytyow berr ha reken a ober gwell yn fenowgh. An Family Caregiver Alliance a vemynsk nag yw kov gans an den/benyn mar restowgh pymp mynysen po pymp eur, ha komend bos gwell tri vysytyans berr an seythen ages onan hir. Dementia Australia a lavar nag eus niver ewn vyth a vysytyow po hirder ewn vyth.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Yn kynsa seythenyow wosa movya dhe chi kov, an Family Caregiver Alliance a gomend vysytya yn fenowgh, hag ena yn askel omsettya dhe batron reken. Govynnowgh dhe'n venystra an pyth a welons i.
 
-## How do I leave without upsetting them?
+## Fatel y'm gavan vy mes heb gul tristedder?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Gasa a yll bos an rann galesa. Dementia Australia a gomend:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Lavarowgh py hir a yllowgh resta pan dheuowgh.** "My a yll resta rag unn eur, ena yth edhav vy dhe wul argerdh."
+- **Devnydhyowgh obervelyeth avel diwedh naturel.** "Pan wryllon ni diwedh orth an gan ma, y mosav vy."
+- **Gorherowgh orth prys boes po obervelyeth,** po govynnowgh dhe'n venystra gweres an den/benyn omsettya yn neppyth aral.
+- **Gwrewgh an kemeneth berr ha an keth pup tro.** Gortos hir, omgemeryans po "hedhra nebes moy" a yll gul bos kalesa kemenethow a dheu.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Wosa mos, yw normal omglewes trist. Gasa agas honan powes. Mar o an den/benyn tristed, an venystra a yll gweres y/hy omsettya yn skon wosa agas mos.
 
-## Visiting someone with dementia in the hospital
+## Ysysytya nebonan gans demensya yn klatek
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Klatek yw tros, ankoth ha leun a estrenyon, ha gallo bos pur gales rag den/benyn gans demensya. Gid an NIA a-dro dhe [kemeres den/benyn gans Alzheimer dhe glatek](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) a gomend:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Gweresowgh reste gans an den/benyn** mar posybyl: aelod teylu, kær ankoth po gwither gonisoges.
+- **Rewgh folen a gedhlow personel** dhe'n venystra gans rewl an den/benyn, hanow kerys, pyth a gar ha pyth na gar, possybyl gwaskoryon, ha arwodhyow anger nag yw geryow. Gorrewgh dasskrifow yn y stevel ha dhe'n wonis vrys.
+- **Gweresowgh orth dybri ha eva.** Ymagoryon koth a yll bos yn-dann-vyv yn klatek. Ygeri kontaynyoryon, gweres orth boes, dybri war-barth, ha offrynnya diwasow.
+- **Drewgh taklow comffordh** kepar ha skeusennow po taklow spyrys.
+- **Isettyowgh an tros.** Dialhwedhowgh an pellwolok ha lehe an tros dhiworth bellgowser ha keskomunyans.
+- **Assayowgh ritalow koselhe,** kepar ha ilow kosel, lena, pysi, cana po mires orth hen skeusennow.
+- **Kekevriowgh kerdhes** mar salow, gans kummyas an venystra.
+- **Lavarowgh dhe'n medhek a-dhistowgh mar hevel dhe'n den/benyn bos gwann po dyffrans yn soudh a-dhistowgh.** An NIA a styry bos possybyl bos confusion kales a-dhistowgh, gelwys delirium, a-dryv kudynnow kepar ha kleves, torr, syghder po effeythyow a dhevnydh medhegneth, ha bos edhomm a sylwi medhegel.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Ysysytyans berr ha kosel gans fas a vern ha kan caradow a yll bos an rann moy comffordh a jydh klatek.
 
-## Bringing children on a visit
+## Kemeres fleghes war vysytyans
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Fleghes a yll dri tommder bras. Parowgh anedha kyns, yn sempel ha onest, gwrewgh an vysytyans berr, ha reowgh ober dhodhans kepar ha diskwedhes arghans po ri skeusen. An NIA a gomend bos possybyl dhe fleghes ha tus gans Alzheimer lowenhe war-barth orth oberow sempel kepar ha mires dre lyver skeusennow po goslowes orth ilow. Dementia Australia a gomend fardella sagh byghan a voos peulen po taklow kosel rag fleghes yowynk.
 
-## Take care of yourself too
+## Gwithowgh agas honan ynwedh
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ysysytya a yll bos skwith ha emosiynel, yn arbennek mar re chanjys an den/benyn yn feur. Yw da vysytya yn ladhha mar eus edhomm dhywgh, dri kær gansowgh rag skoodhya, po mos yn gyns mar vo jydh kales. Rag synsyow a-dro dhe viras orthowgh agas honan, gwelowgh [gwitha an gwithor y honan](/caregiving/caregiver-self-care/). Mar gowgh pell, gwelowgh agan gid a-dro dhe [galowow pellgowser ha gwelas dre viedo](/activities/phone-and-video-calls/).

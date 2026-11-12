@@ -1,34 +1,34 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "ڈیمینشیا والؠن لوٗکن خٲطرٕ ۱۰۱ سادٕ سرگرمیہٕ"
+seoTitle: "ڈیمینشیا سرگرمیہٕ: ۱۰۱ سادٕ تجاویز"
+description: "ڈیمینشیا سٟتؠ زندٕگی گُزارَن وٲلؠن لوٗکن خٲطرٕ ۱۰۱ سادٕ، بالغ سرگرمیہٕ، تِہ کِتھ کٔنؠ کرِو اَکھ اَکھ سۄہل ییلہ حالات سخت گَژھن۔"
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  ڈیمینشیا سٟتؠ زندٕگی گُزارَن وٲلؠن لوٗکن خٲطرٕ جان سرگرمیہٕ چھے عموماً جان، بالغ تِہ
+  اَکھ أکِس سٟتؠ سۄہل: کپڑے وٹُن، چیزٕ الگ کرنہِ، کھین بناون، موسیقی، فوٹو وچھنہِ،
+  پھیرُن، باغبانی، جانورن سٟتؠ وقت گزارُن تِہ سادٕ کھیل۔ تَس شخصہٕ سٕنز پسند مُطٲبق
+  چُنو یُس تٔمِس ہمیشہ یِوان اوس، مشکل حِصّہٕ پننہِ ذمہ گٔژھِو، تِہ ییلہ سُہ تھَکِ تہٕ
+  رکِو۔ کینٛہہ مُکمل کرنہٕ کھوتہٕ چھُ اَکھ أکِس سٟتؠ خۄشگوار وقت گزارُن زیٛادٕ اہم۔
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "تَس شخصہٕ سٕنزِ زندگی پؠٹھ کٔرِو شروعات: تِہُند کٲم، شوق، عقیدٕ تِہ پسندیدٕ موسیقی چھے بہترین رہنمٲیی۔"
+  - "ضروٗرت مُطٲبق بنٲوِو کانٛہہ تہِ سرگرمی لۄکُٹ: کم قدم، کم اِنتخاب، مشکل حِصّہٕ کٔرِو تۄہِ پننہِ۔"
+  - "وچھُن، کانٛہہ چیز تھپھ کرُن یا بس نکھہ بیہِن تہِ چھُ شمولیت شمار۔"
+  - "ییلہ تۄہِ تھکاوٹ، پریشٲنی یا بے زٲری وُچھِو، تہٕ رکِو یا سرگرمی بدلٲوِو۔ جلدی ختم کرُن چھُ اَکھ جان نٔتیجٕ۔"
+  - "اکھ أکِس سٟتؠ کرُن چھُ ٹھیک کرنہٕ کھوتہٕ زیٛادٕ اہم۔"
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "ڈیمینشیا سٟتؠ زندٕگی گُزارَن وٲلِس کٲنٛسہِ شخصہٕ خٲطرٕ کٔہ سرگرمیہٕ چھے جان؟"
+    a: "تِمے جان سرگرمیہٕ یِم سُہ شخص ؤریَن پؠٹھہٕ کران چھُ، مگر ذرا سۄہل بنٲوِتھ: کپڑے وٹُن، میز سجاون، کھین بناون، موسیقی، فوٹو وچھنہِ، پھیرُن، باغبانی تِہ جانور سٟتؠ وقت گزارُن۔ تِژھ چیزٕ چُنو یِم بالغ تِہ کارآمد باسان چھے، تِہ تِم کٔرِو اَکھ أکِس سٟتؠ۔"
+  - q: "اکھ سرگرمی کینژھ کال گژھہ چلنہِ؟"
+    a: "کانٛہہ ٹھیک مُدت چھَنہٕ۔ اَکھ دۄہ گٔژھِہن کینژھن منٹن خٲطرٕ تولیہِ وٹُن واریاہ، تِہ بییِس دۄہ ہیٚکہِ باغس منٛز اَکھ گھنٹہٕ سہل باسان۔ تَس شخصس دِیِو پننہِ رفتار مُقرر کرنُک موقع، تِہ سرگرمی تَتھ وقت ختم کٔرِو ییلہ سۄہ وُنِ تہِ خۄشگوار آسہِ۔"
+  - q: "اگر سُہ شخص کانٛہہ سرگرمی کرنہٕ نِش انکار کرِ؟"
+    a: "زور مَہ دِیِو۔ ’نہ‘ ہُند مطلب ہیٚکہِ آسُن زِ کٲم واریاہ مشکل چھُ، وقت ٹھیک چھُنہٕ، یا سُہ تھٕکوومُت چھُ یا بے آرام۔ پتہٕ کٔرِو کوٗشش، اَکھ لۄکُٹ شکل پیش کٔرِو، یا کٲم پننہِ تِہندِ نکھہ شُرو کٔرِو تِہ تِمن مَدَت خٲطرٕ ناد دِیِو۔"
+  - q: "کیا ڈیمینشیا سٟتؠ زندٕگی گُزارَن وٲلؠن لوٗکن خٲطرٕ دمٲغی کھیل چھا فٲیدٕ مند؟"
+    a: "کھیل ہیٚکن اَکھ أکِس سٟتؠ خۄشگوار وقت گزارنُک اَکھ ذریعہ آسُن، مگر کانٛہہ تہِ کھیل چھُنہٕ ثابت زِ سُہ ڈیمینشیا علاج کران چھُ، سُہ ہلکا بناوان چھُ یا رُکاوان چھُ۔ تِمے کھیل چُنو یِمن منٛز نہ ٹائمر آسہِ، نہ سکور، تِہ نہ غلط جوابُک آواز، تِہ یِم اَکھ مُشترکہ سرگرمی سمجِھو، امتحان نَہ۔"
+  - q: "بہٕ کِتھ کٔنؠ روکھہٕ زِ سرگرمیہٕ بچن ہِوۍ مَہ لَگن؟"
+    a: "اصلی، بالغ چیزٕ ورتٲوِو: اصلی تولیہِ، اصلی ترکیبہٕ، بڈن ہٕنز موسیقی تِہ آرٹ سامان، تِہ بالغ موضوع وٲلۍ تصویرٕ۔ کٲم تِژھ کٔرِو یُس تۄہِ پٔز پٲٹھؠ مَدَت چُھو، تِہ تَس شخصس سٟتؠ تِتھے کٔرِو کتھ یِتھ تۄہِ أکِس بالغس سٟتؠ کران چھِو۔"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +50,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+ڈیمینشیا سٟتؠ زندٕگی گُزارَن وٲلِس شخصہٕ خٲطرٕ بہترین سرگرمی چھے عموماً سۄہ یۄسہٕ سُہ گۄڈٕ پیٹھہٕ کران چھُ، یۄسہٕ ذرا سۄہل بنٲوِتھ تِہ کٲنٛسہِ قابلِ بھروسہ شخصہٕ سٕندِ سٟتؠ کرنہٕ یِوان چھے۔ بۄنہٕ کنہِ چھے ۱۰۱ تجاویز، قِسمہٕ وار، تِہ پرتھ أکِس سٟتؠ چھُ یِہ تہِ زِ سۄہ کِتھ کٔنؠ شُرو کرٕنۍ چھے تِہ مشکل گژھنہٕ پتہٕ کِتھ کٔنؠ سۄہل بنٲوٕنۍ۔ تۄہِ چھُنہٕ خاص سامانُک ضروٗرت، تِہ نہ چھے کینٛہہ مُکمل کرنٕچ ضروٗرت۔ اَکھ جان دوپہر ہیٚکہِ بس اَکھ ٹوکری تولیہِ تِہ اَکھ أکِس سٟتؠ اَکھ پیالہٕ کاہو آسُن۔
 
-## How do you choose the right activity?
+## تۄہِ کِتھ کٔنؠ چُنو مناسب سرگرمی؟
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+فہرست نَہ، بلکہ شخصس مُطٲبق کٔرِو انتخاب: تِمہِ چیزو پؠٹھ کٔرِو شروعات یِم تٔمِس ہمیشہ پسند چھے تِہ یِم سُہ اَز آرام سان ہیٚکہِ کرِتھ۔
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **تِہُند کٲم تِہ شوق سوچِو۔** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) چھُ تجویز دِوان زِ أکِس سٲبق دفترِ کٲم کرن وٲلِس ہیٚکہِ سکے الگ کرُن یا ڈاک تیار کرنِچ مَدَت کرٕنۍ پسند یِنۍ، تِہ أکِس مالی ہیٚکہِ باغُک کٲم پسند یُن۔
+- **تِمہِ چیزٕ وُچھِو یِم سُہ پانَے کران چھُ۔** اگر تُہُند بابہٕ پرتھ صُبح بے ناد برانڈس ژھاران چھُ، تیٚلہ کٔرِو اَتھ دۄہس منٛز شٲمِل۔
+- **حدن ہُند خیال تھٲوِو۔** تھکاوٹ، نظر، کَن، دَسن ہٕنز تکلیف تِہ توازن — یِم سٲری چھِ اہم۔
+- **تِہُند مزاج وُچھِو۔** کینژھن لوٗکن چھے مصروف، شور وٲلۍ سرگرمیہٕ پسند، تِہ باقی کینژھن ہیٚکَن یِم خوفناک باسان۔
+- **اَتھ اَکھ مقصد دِیِو۔** کٲنٛسہِ چرچ دعوت خٲطرٕ رومال وٹُن چھُ کٲنٛسہِ صرف مشق کھوتہٕ زیٛادٕ معنی خیز باسان۔
 
-### A rough guide by stage
+### مرحلہ وار اَکھ عام رہنمٲیی
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+ڈیمینشیا چھے عموماً شروٗعاتی، درمیٲنی تِہ أخری مرحلن منٛز بیان یِوان کرنہٕ۔ یِم چھِ ڈھیلے لیبل، خانہٕ نَہ، تِہ واریاہن لوٗکن چھِ کینٛہہ دۄہ بہتر تِہ کینٛہہ سخت آسان، لہٰذا اَز یِکینژھ وُچھِو تَتھ مُطٲبق چَلِو۔ [Alzheimer's Foundation of America ہٕنز مرحلہ وار فہرست](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھے اَمہِ نمونہٕ سٟتؠ میل کھٲوان۔
 
-| Topic | Early stage | Middle stage | Late stage |
+| موضوع | شروٗعاتی مرحلہ | درمیٲنی مرحلہ | أخری مرحلہ |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| تۄہِ کیا ہیٚکِو وُچھِتھ | زیادہ تر خودمختار؛ منصوبہ بندی، نٔو ناو تِہ ہجوم وٲلۍ جایہِ گژھن مشکل | شروعاتس تِہ قدمن منٛز مَدَتٕچ ضروٗرت؛ لفظ یِوان کم آسانی سان | زیادہ تر روزمرٕ دیکھ بھالس منٛز مَدَتٕچ ضروٗرت؛ حواس چھِ سب کھوتہٕ اہم |
+| سرگرمیہٕ یِم عموماً موزوں چھے | کارڈ، بورڈ کھیل، کھین پکاون، باغبانی، ڈائری لیکھن، سیر، کلب | کپڑے وٹُن، چیزٕ الگ کرنہِ، کھین پکاونٕک سادٕ قدم، گیون، فوٹو البم، مَدَت سٟتؠ سیر | پسندیدٕ موسیقی، اَتھن ہٕنز ہلکہٕ مالش، نرم چیزٕ تھپھ کرنہِ خٲطرٕ، تۄہِ سٟتؠ پرنہٕ یِنۍ، نیبر بیہِن |
+| تُہُند کردار | ساتھی: پُچھِو تِمن کیا مَدَت چاہِ | تیار کٔرِو، ہٲوِو، مشکل حِصّہٕ گٔژھِو پننہِ | سرگرمی أنِو تِمن نِش؛ تُہُنز موجودگی چھے سرگرمی |
+| مزید تجاویز | [شروٗعاتی مرحلہ](/activities/early-stage/) | [درمیٲنی مرحلہ](/activities/middle-stage/) | [أخری مرحلہ](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## ڈیمینشیا سٟتؠ زندٕگی گُزارَن وٲلِs شخصہٕ سٟتؠ سرگرمی کِتھ کٔنؠ شُرو کٔرِو؟
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+لۄکچہٕ پٲٹھؠ کٔرِو شروعات، تِہندِ سٟتؠ بیہِتھ کٔرِو، تِہ ہاں کرُن بنٲوِو آسان۔ واریاہ لُکھ چھِ وُنِ تہِ شٲمِل گژُھن یژھان مگر منصوبہ بناون یا شُرو کرُن چھُ تِمن مشکل باسان۔
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **تِہُند بہترین وقت چُنو،** عموماً صُبح۔
+2. **سورُے کینٛہہ گۄڈٕ تھٲوِو تیار** تاکہ تۄہِ فوراً شُرو ہیٚکِو کٔرِتھ۔
+3. **مَدَت منگِو، مظٲہرٕ نَہ:** "کیا تۄہِ ہیٚکِو مے یِمن سٟتؠ ذرا مَدَت کٔرِتھ؟"
+4. **پانَے کٔرِو شروعات۔** گۄڈنِک تولیہِ ؤٹِو تِہ تِمن دِیِو شٲمِل گژھنُک موقع۔ ہاون چھُ سمجھاونہٕ کھوتہٕ بہتر۔
+5. **اَکھ وقتس اَکھ قدم پیش کٔرِو۔**
+6. **سب کھوتہٕ مشکل حِصّہٕ گٔژھِو پننہِ۔** Alzheimer's Association چھُ تجویز دِوان زِ چیزٕ پننہِ ماپِو، پتہٕ دِیِو چمچ ہِلاونہٕ خٲطرٕ۔
+7. **تِمن پننہِ طریقہٕ سٟتؠ کرنہٕ دِیِو۔** الگ طریقہٕ وُٹِمِت تولیہِ تہِ چھِ ٹھیک۔
+8. **ییلہ خوشگوار آسُن ختم گژھہ، تیٚلہ رکِو۔** بے چینی، تیوری چڑھٲوٕنۍ یا "مے چھُنہٕ یِوان" چھِ بدلاون یا آرام کرنٕچ نِشٲنی۔
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+مزید وُچھِو [اَکھ أکِس سٟتؠ کِتھ کٔنؠ کھیٚلِو](/caregiving/how-to-play-together/) تِہ [کَتھ بات کرنٕچ تجاویز](/caregiving/communication-tips/)۔
 
-## Everyday tasks at home
+## گرِک روزمرٕ کٲم
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+گھرٕک کٲم چھِ جان تِہ فٲیدٕ مند، تِمہِ مۄکھہ چھِ یِم شروعات کرنٕچ اَکھ قدرتی جاے۔ [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھُ برتن، میز سجاون، ژھارُن، ڈاک الگ کرُن تِہ کپڑے وٹُن تِمن سرگرمین منٛز شٲمِل کران یِم لُکھ پسند ہیٚکن کٔرِتھ۔ مزید [گھرٕک کٲم](/activities/household-tasks/) صفس پیٹھ۔
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **تَت تولیہِ ؤٹِو۔** ڈرائرِ پیٹھہٕ ٹوکری میزس پیٹھ خٲلی کٔرِو تِہ اَکھ أکِس سٟتؠ ؤٹِو۔ پتہٕ چھُ سیدٕ کرُن تِہ تھپِ دِنۍ تہِ تِیُتھ فٲیدٕ مند۔
+2. **موزٕ جوڑِو۔** واریاہ مختلف رنگن پؠٹھ کٔرِو شروعات۔ پتہٕ چھُ گاشدار تِہ ڈل الگ کرُن واریاہ۔
+3. **میز سجٲوِو۔** اَکھ وقتس اَکھ قِسمُک سامان دِیِو۔ نمونہٕ خٲطرٕ کٔرِو اَکھ جاے پننہِ تیار۔
+4. **برتن دھوِو یا خشکاوِو۔** تَت، صابن وول آب تِہ نہ پھُٹن وٲلۍ برتن۔ بیہِتھ برتن خشکاون چھُ کھورن خٲطرٕ آسان۔
+5. **میز پوٗزِو۔** کھین پتہٕ دِیِو اَکھ نم کپڑا۔ یِہ چھُ بے چین اَتھن خٲطرٕ اصلی کٲم۔
+6. **ڈاک الگ کٔرِو۔** کیٹلاگ تِہ فضول ڈاک "تھاونہِ" تِہ "ری سائیکل" منٛز الگ کٔرِو۔ اصلی بِل تھٲوِو الگ۔
+7. **کوپن کٔٹِو۔** گول نوک وٲلۍ قینچی تِہ گروسری اشتہار۔ پتہٕ ہیٚکن پسندیدٕ چیزن اَرد گرد گول دٲیرٕ تہِ بناوِتھ۔
+8. **سکے الگ کٔرِو۔** پیسن الگ کٔرِو پیالن منٛز یا ریپرن منٛز بھرِو۔ اگر سُہ شخص چیزٕ منہس منٛز تھوان چھُ تیٚلہ مَہ ورتٲوِو لۄکژھ چیزٕ۔
+9. **ژھارِو یا گرد پوٗزِو۔** برانڈس پیٹھ ہلکہٕ ژھار، یا کرسی پؠٹھہٕ زیچھ ہینڈل وول ڈسٹر۔
+10. **کھین بناونس منٛز کٔرِو مَدَت۔** سبزی دھُن، سلاد پھاڑُن، ہِلاون۔ چھری تِہ گرمی سنبھٲلِو تۄہِ پانَے۔
+11. **خاندٲنی ترکیب پکٲوِو۔** اگر تِہندِ اَتھس لیکھِتھ کارڈ آسہِ تیٚلہ سُہ ورتٲوِو۔ پتہٕ ہیٚکن تِم صرف چکھن وٲلۍ آسِتھ۔
+12. **دفتری کٲم کٔرِو۔** خط ؤٹِو، لفافن منٛز بھرِو تِہ ڈاک ٹکٹ لَگٲوِو، یا اَکھ أکِس سٟتؠ خریدارِ فہرست لیکھِو۔
 
-## Music
+## موسیقی
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+جان موسیقی چھے لوٗکن تام واتان ییلہ لفظ مشکل گژھان چھِ۔ [Alzheimer's Association ہٕنز موسیقی تجاویز](https://www.alz.org/help-support/caregiving/daily-care/art-music) چھے جان گیت، بغیر اشتہارن تِہ ٹی وی بند تھاونٕچ تجویز دِوان۔ وُچھِو [موسیقی سرگرمیہٕ](/activities/music/)۔
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **ذٲتی پلے لِسٹ بنٲوِو۔** تِہندِ نوجوانی تِہ وۄنۍ ہُند موسیقی، تِہندِ خاندَرٕچ، عبادت گاہچ تِہ تِہندِ ثقافتٕچ موسیقی۔
+14. **اَکھ أکِس سٟتؠ گِیِو۔** پانَے کٔرِو گِیُن شُرو۔ گنگنان یا بس بوزُن تہِ چھُ ٹھیک۔
+15. **تال دِیِو۔** تھپھ تھپھ کٔرِو، رانن پیٹھ تھپکٲوِو یا ہینڈ ڈرم بجٲوِو۔ یِہ چھُ بیہِتھ تہِ تِہ أخری مرحلس منٛز تہِ ممکن۔
+16. **نَژھِو۔** کچنس منٛز آہستہ نَژھُن، یا بیہِتھ اَتھ تھپھ دِتھ ہلُن۔
+17. **پوٗرٕ البم بوزِو۔** پسندیدٕ ریکارڈ شروع پیٹھہٕ آخرس تام، کاہو سٟتؠ تِہ باقی کانٛہہ بغیر۔
+18. **موسیقی مُتعلِق کٔرِو کتھ۔** کہانِیَن خٲطرٕ دِیِو دَعوَت، حقٲیقن خٲطرٕ نَہ: "مے ونِو تِمن رقصن مُتعلِق یِمن منٛز تۄہِ گژھان ٲسِو۔"
+19. **ریکارڈ کٔرِتھ میوزیکل یا کنسرٹ وُچھِو۔** اَکھ پسندیدٕ شو ہیٚکہِ اَکھ جان شام بناوِتھ۔ کُنِ تہِ وقتس کٔرِو رکٲوِتھ۔
+20. **جان ساز بجٲوِو۔** سٲبق پیانو نواز ہیٚکہِ سادٕ ٹکڑٕ پسند کرِتھ؛ پتہٕ چھِ اَکھ أکِس سٟتؠ کینژھ سُر تہِ کافی۔
+21. **براہِ راست موسیقی بوزِو۔** اَکھ مختصر مقٲمی کنسرٹ یا کورس مشق۔ نیرنٕچ جایہٕ نکھہ بیکھِو۔
 
-## Reminiscence: photos, objects and stories
+## یادن ہٕنز سرگرمیہٕ: فوٹو، چیزٕ تِہ کہانِی
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+مٲزی سٟتؠ کٔرِو لطف، مگر امتحان مَہ بَنٲوِو۔ "تۄہِ چھا یاد؟" تِہ "یِہ کُس چھُ؟" یِمہِ سوالن نِش بٔچِو تِہ یِمن بدل کھُلہٕ دَعوَت دِیِو۔ وُچھِو [یادن ہٕنز سرگرمیہٕ](/activities/reminiscence/)۔
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **فوٹو البم وُچھِو۔** یِکینژھ وُچھِو سُہ ؤنِو: "کیا خوبصورت پوشاک۔ مے ونِو یَتھ دۄہس مُتعلِق۔" یِم ناو تِم ورتاوان چھِ تِمن سٟتؠ ہیٚیِو رٔلِتھ۔
+23. **یادن ہُند ڈبہٕ بنٲوِو۔** تِہندِ زندگی ہٕندین چیزن ہُند اَکھ جوتَن ڈبہٕ، مِثالَن کٲمُک بیج یا ترکیبُک کارڈ۔ چیزٕ کٔڑِو اَکھ اَکھ کٔرِتھ۔
+24. **زندگی کہانی ہٕنز کتاب بنٲوِو۔** پرتھ صفس پیٹھ کینژھ فوٹو تِہ بڈین حروفن منٛز کیپشن۔ یِہ چھُ نٔوین مَدَت گارن خٲطرٕ شخصس زاننَس منٛز مَدَت کران۔
+25. **کتھ بات کارڈ ورتٲوِو۔** [کتھ بات کارڈ](/games/conversation-cards/) چھِ اَکھ تصویر أکِس کھُلہٕ سوال سٟتؠ جوڑان۔
+26. **خاندٲنی فوٹو کھیل بنٲوِو۔** [فوٹو جوڑ](/games/photo-pairs/) چھُ تُہٕنزِ پننِۍ فوٹو أکِس جوڑ میلاؤن وٲلِس کھیلس منٛز بدلٲوان۔
+27. **گھرٕچ فلمہٕ یا پرٲنۍ ٹی وی وُچھِو۔** سوال پرژھنہٕ بجایہِ کٔرِو اَکھ أکِس سٟتؠ تبصرٕ۔
+28. **تِہندِ کٲمک چیزٕ تھپھ کٔرِو۔** رینچ، سٹیتھوسکوپ، لیجر۔ اکثر چھِ اَتھ کہانی ہاونہِ شُرو کران۔
+29. **بچپنُک کانٛہہ کھین بنٲوِو۔** تِم ہیٚکن ہِلاوِتھ، چکھِتھ یا بس تُہندِ سٟتؠ کچنس منٛز بیہِتھ۔
+30. **تِمن جایَن ہُند نقشہٕ وُچھِو یِتہِ تِم روزٕمِت چھِ۔** بڈِس اٹلسس منٛز کٔرِو کتھ بات کران کران جان سڑکن پیٹھ انگلی پھیرُن۔
 
-## Creative activities
+## تخلیقی سرگرمیہٕ
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+آرٹ چھُ کرنہٕ خٲطرٕ، نَہ زِ مُکمل چیز خٲطرٕ۔ سامان تھٲوِو بالغ تِہ محفوظ۔ وُچھِو [آرٹ تِہ دستکاری](/activities/arts-and-crafts/)۔
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **پٲنی رنگن سٟتؠ پینٹنگ کٔرِو۔** موٹ کاغذ، کینژھ رنگ۔ اگر شروعات مشکل آسہِ، تیٚلہ بنٲوِو گۄڈنِک لکیٖر اَکھ أکِس سٟتؠ۔
+32. **بالغ ڈیزاینن منٛز رنگ بھرِو۔** پھوٗل یا رَزٲیی، کارٹون نَہ۔ سٲنۍ [رنگ بھرنٕک صفہٕ](/games/coloring/) چھِ سکرینس پیٹھ تہِ تِہ پرنٹ کرِتھ تہِ چلان۔
+33. **کولاج بنٲوِو۔** رسالن منٛز باغ، کار یا کھینٕچ تصویرٕ پھاڑِو تِہ چسپان کٔرِو۔ پتہٕ چھُ صرف تصویرٕ چُنُن تہِ واریاہ۔
+34. **پھوٗل سجاوِو۔** دکانہٕ پیٹھہٕ اَکھ گُچھہٕ تِہ اَکھ گلدان۔ پتہٕ چھِ أکِس جارَس منٛز کینژھ ڈنڈہٕ تہِ کافی۔
+35. **اَکھ أکِس سٟتؠ سلٲیی یا کروشیا کٔرِو۔** بڈین سوین پیٹھ سادٕ قطارٕ۔ پتہٕ چھُ اون گول گول کرُن۔
+36. **خاندان خٲطرٕ کارڈ بنٲوِو۔** اصلی لوٗکن خٲطرٕ سالگرہ یا شفایابی ہٕند کارڈس پیٹھ ٹھپہٕ لَگٲوِو، دستخط کٔرِو یا سجاوِو۔
+37. **ہواس منٛز خشکہٕ گژھن وٲلِس مٹہِ سٟتؠ شکل بنٲوِو۔** اَکھ لۄکُٹ پیالہٕ دَبٲوِو۔ غیر زہریلا سامان ورتٲوِو تِہ نکھہ روزِو۔
+38. **لکڑِ رگڑِو تِہ تیار کٔرِو۔** گۄڈٕ کٔٹِتھ چول پرندٕ کِٹ تِہ رگڑ کاغذ، پاور ٹول بغیر۔ وُچھِو [مردن خٲطرٕ سرگرمیہٕ](/activities/for-men/)۔
+39. **خط لیکھِو یا لیکھناوِو۔** کٲنٛسہِ نوسہٕ یا پرٲنِس دوستس۔ اگر لیکھُن مشکل آسہِ، تیٚلہ ؤنِن تِم تِہ لیکھِو تۄہِ۔
 
-## Outdoors and gardening
+## نیبر تِہ باغبانی
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+تازٕ ہوا تِہ دۄہِچ روشنی چھے جٲن ساتھی۔ وُچھِو [نیبر تِہ باغبانی سرگرمیہٕ](/activities/outdoor-and-gardening/)۔
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **پودن دِیِو آب۔** اَکھ لۄکُٹ کین تِہ کینژھ گملہٕ۔ پرتھ دۄہ آب دِیُن چھُ دۄہس اَکھ ترتیب دِوان۔
+41. **گملس منٛز کٔرِو پودٕ لَگاونہِ۔** میزس پیٹھ تھٲوِو تاکہ کٲنٛسہِ گوڈن دِنٕچ ضروٗرت مَہ گژھہ۔ بیَن کھوتہٕ چھِ تیار پودٕ آسان۔
+42. **ناد کٔڑِو یا مُرجٲے پھوٗل کٔٹِو۔** دستانہٕ پاوِتھ، اَکھ وقتس اَکھ لۄکُٹ حصہٕ۔
+43. **وۄدرِ پتہٕ اکھٹا کٔرِو۔** اَکھ لۄکُٹ جاے۔ پتہٕ چھُ تھیلہٕ تھپھ کٔرِتھ روزُن تہِ اصلی کٲم۔
+44. **جان وتھ پیٹھ پَکِو۔** بلاک اَند یا میل باکسس تام۔ ژھوٗٹ تہِ چھُ ٹھیک۔
+45. **نیبر اَکھ أکِس سٟتؠ بیکھِو۔** نرم دۄہس برانڈس پیٹھ اَکھ کرسی۔ اوبر وُچھِو یا یِنہٕ گژھن وٲلۍ۔
+46. **جاناورن دِیِو کھین۔** اَکھ أکِس سٟتؠ فیڈر بھرِو تِہ کھڑکی نکھہ وُچھِو۔
+47. **کار دھوِو۔** بالٹی، سپنج، تَت دوپہر۔ پہیہٕ دھُن چھُ اَکھ جان اَک قدمُک کٲم۔
 
-## Sensory activities
+## حسی سرگرمیہٕ
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+ییلہ ڈیمینشیا برونٹھ پکوان چھُ، تیٚلہ چھِ چھون، خوشبو، ذٲیقہ، آواز تِہ نظر زیٛادٕ اہم گژھان۔ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) چھُ أخری مرحلن خٲطرٕ موسیقی، تھپھ کرنٕچ چیزٕ تِہ اَتھن ہٕنز مالش ہُند ذِکر کران۔ گۄڈٕ کٔرِو الرجی تِہ نر گھٹنٕچ خطرن ہٕنز جانچ؛ وُچھِو [حسی سرگرمیہٕ](/activities/sensory/)۔
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **اَتھن ہٕنز ہلکہٕ مالش دِیِو۔** گۄڈٕ پُچھِو تِہ ذرا لوشن ورتٲوِو۔ اگر جلد یا الرجی ہُند یقین آسہِ نہ تیٚلہ بے خوشبو چیز چُنو۔
+49. **کپڑَن ہُند لمس محسوس کٔرِو۔** مخمل، کارڈورائے، اون تِہ ساٹن ہُند اَکھ ٹوکری — تھپھ کرنہِ تِہ وٹَنہِ خٲطرٕ۔
+50. **جڑی بوٹی تِہ کاہو سُونگھِو۔** تازٕ پودینہٕ یا روزمیری انگلیَن منٛز رگڑِو۔ سانسک تَکلیف آسَنہٕ پتہٕ مَہ ورتٲوِو تیز خوشبو۔
+51. **تِہندۍ مست تھپکٲوِو۔** آہستہ تِہ نرم، اگر تِمن پسند یِیہِ۔
+52. **تَت نم کپڑا بٲگراوِو۔** ٹھنڈِس دۄہس اَتھن تِہ بُتھِ خٲطرٕ۔ گۄڈٕ کٔرِو گرمی ہٕنز جانچ۔
+53. **سرگرمی وول ایپرن وُچھِو۔** بڈ بٹن تِہ زِپ یِم مضبوطی سان سیونہٕ آمِت آسَن۔ یقین کٔرِو زِ کینٛہہ ہیٚکہِ نہ کھلِتھ۔
+54. **پسندیدٕ چیزُک اَکھ لۄکُٹ نوالہٕ بٲگراوِو۔** اَکھ لۄکُٹ چمچ، تِژھ ساخت یۄسہٕ تِم محفوظ طریقہٕ سنبھال ہیٚکن۔
+55. **قدرتی آوازٕ بوزٲوِو۔** روٗد، لہرٕ یا جانورن ہٕنز آواز، ہلکہٕ آوازس پیٹھ۔
+56. **کانٛہہ آہستہ چیز وُچھِو۔** مچھلی گھر، قدرتی ویڈیو یا پیون وول شیٖن۔
 
-## Games and puzzles
+## کھیل تِہ پہیلی
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+کھیل تَتھ وقت چھِ کارگر ییلہ نہ ٹائمر آسہِ، نہ سکور، تِہ نہ دباو۔ اگر کانٛہہ کھیل امتحان ہِیوٚ لَگہِ، تیٚلہ تھٲوِو سُہ تھوٚد۔ وُچھِو [ایپ تِہ کھیل چُننہٕ خٲطرٕ رہنمٲیی](/caregiving/choosing-apps-and-games/) تِہ [دمٲغی کھیل](/brain-health/brain-games/)۔
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **تصویرٕ جوڑِو۔** [تصویری جوڑ](/games/picture-pairs/) منٛز ہیٚکن تصویرٕ برونٹھ کُن روزِتھ، لہٰذا یِہ چھُ وچھنہٕ مُتعلِق، یاد تھاونہٕ مُتعلِق نَہ۔
+58. **ہِوے تصویر لٔبِو۔** [ہِوے لٔبِو](/games/find-the-same/) منٛز چھِ زٕ پؠٹھہٕ ژور اِنتخاب۔ پرتھ تصویرس پیٹھ کٔرِو کتھ بات۔
+59. **ٹوکریَن منٛز الگ کٔرِو۔** [اَکھ أکِس سٟتؠ الگ کٔرِو](/games/sort-together/) چھُ موزٕ الگ کرنہِ ہِیوٚ، مگر سکرینس پیٹھ۔
+60. **بڈین ٹُکرن وول جِگ سا پزل کٔرِو۔** بالغ تصویرٕ، کم ٹُکرٕ۔ [تصویری پزل](/games/picture-puzzle/) چھُ پوٗر تصویر نمایاں تھٲوان۔ مزید [ڈیمینشیا خٲطرٕ پہیلی](/activities/puzzles/)۔
+61. **پرون کارڈ کھیل کھیٚلِو۔** یِکینژھ تِم ؤریَن پؠٹھہٕ کھیٚلان ٲسِہ۔ پتہٕ چھُ ڈیک رنگن مُطٲبق الگ کرُن تہِ پانے اَکھ کھیل۔
+62. **ڈومینو کھیٚلِو۔** سرا جوڑِو۔ پتہٕ چھُ صرف ٹٲیلہِ اَکھ قطارس منٛز تراونہِ تہِ ٹھیک۔
+63. **بڈین حروفن وول لفظ تلاش کٔرِو۔** سون [لفظ تلاش](/games/word-search/) چھُ صرف سیدِ تِہ بۄن کُن لفظ تھٲوان، تِہ پرنٹ تہِ گژھان چھُ۔
+64. **جان محاورٕ مُکمل کٔرِو۔** [محاورٕ مُکمل کٔرِو](/games/finish-the-saying/) منٛز ہیٚکِو تۄہِ انجام کُنِ تہِ وقتس ہٲوِتھ۔
+65. **تصویری بِنگو کھیٚلِو۔** [تصویری بِنگو](/games/picture-bingo/) چھُ خاندانن تِہ گروپن خٲطرٕ موزوں۔ کارڈن پیٹھ نِشٲنی لگانس منٛز کٔرِو کھُلہٕ مَدَت۔
+66. **چیکرس کھیٚلِو۔** قاعدٕ تھٲوِو ڈھیلے۔ کتھ بات کران کران مہری ہِلاوٕنۍ تہِ چھُ کافی۔
 
-## Movement
+## حرکت
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+NIA چھُ سیر، سٹیشنری بائیک، سٹریچنگ بینڈ، نرم بال یا غبارٕ سٟتؠ کھیلن، سوپ کین تُلن تِہ بُجرگن خٲطرٕ ورزش ویڈیو ہٕنز تجویز دِوان۔ کانٛہہ نٔو چیز شُرو کرنہٕ برونٹھ کٔرِو ڈاکٹر سٟتؠ مشورٕ، خاص طور توازنک مسئلہٕ آسَنہٕ پتہٕ۔
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **غبارٕ سٟتؠ کھیٚلِو۔** اَکھ أکِس برونٹھ کُن بیکھِو۔ یِہ چھُ آہستہ پکان، تِمہِ مۄکھہ چھُ رٹُن آسان۔
+68. **بیہِتھ کرنٕچ ورزش ویڈیو وُچھِو** یۄسہٕ بُجرگن خٲطرٕ بنٲومِژ آسہِ، اَکھ أکِس سٟتؠ۔
+69. **بینڈ سٟتؠ سٹریچ کٔرِو۔** بیہِتھ ہلکہٕ بینڈ سٟتؠ نرم اَتھ کھینژُن۔
+70. **سوپ کین تُلِو۔** آہستہ اَتھ کھالنہٕ، شاید موسیقی سٟتؠ۔
+71. **سٹیشنری بائیک چَلٲوِو۔** کینژھ آسان منٹ، تۄہِ نکھہ روزِتھ۔
+72. **رومالن سٟتؠ نَژھِو۔** موسیقی سٟتؠ ہلکہٕ رومال ہِلاوِو، بیہِتھ یا ووٗتھِتھ۔
+73. **مقصد سٟتؠ پَکِو۔** خط میل کرنہٕ یا کاہو ہیننہٕ خٲطرٕ۔ گژھنُک وجہ آسُن چھُ قدرتی باسان۔
+74. **اَکھ أکِس سٟتؠ سانس ہِند آرام کٔرِو۔** [آرام دہ سانس](/games/calm-breathing/) سٟتؠ گٔژھِو اَکھ أکِس سٟتؠ آہستہ۔
 
-## Social activities
+## سماجی سرگرمیہٕ
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+ساتھ چھُ اہم آسان، ییلہ ناو یاد تھاوٕنۍ مشکل تہِ آسہِ، تِہ لۄکژھ گرۄہ چھِ بڈِن گروپن کھوتہٕ آسان۔ NIA چھُ ونان زِ شخصس ہیٚکہِ یاد نہ آسُن زِ مُلاقٲتی کُس چھُ، مگر اکثر چھُ سُہ تِہندِ موجودگی ہُند لطف تُلان۔ وُچھِو [مُلٲقات](/activities/visiting/)۔
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **اَکھ وقتس اَکھ یا زٕ مُلاقٲتی تھٲوِو۔** پُر سکون کمرس منٛز مختصر مُلاقٲت، وچھنہِ خٲطرٕ فوٹو سٟتؠ۔
+76. **خاندان سٟتؠ ویڈیو کال کٔرِو۔** مختصر کالہٕ، اَکھ وقتس اَکھ آواز۔ وُچھِو [فون تِہ ویڈیو کالہٕ](/activities/phone-and-video-calls/)۔
+77. **میُمری کیفے ہٕنز کوٗشش کٔرِو۔** یِم چھِ غیر رسمی ملاقات جایہِ تِمن لوٗکن خٲطرٕ یِم ڈیمینشیا سٟتؠ زندٕگی گُزاران چھِ تِہ تِہندین دیکھ بھال کرن والؠن خٲطرٕ۔ پننِس مقٲمی بُجرگن ہٕندِ خدماتی ایجنسی پؠٹھ پُچھِو زِ نکھہ کیا چھُ دستیاب۔
+78. **پُر سکون وقتس کٔرِو نیبر کھین۔** NIA چھُ تجویز دِوان زِ غیر مصروف وقتس اَکھ جان، پُر سکون ریستوران، تِہ بیت الخلا نکھہ میز۔
+79. **سینئر سینٹر یا ڈے پروگرام وُچھِو۔** تِمن خٲطرٕ ساتھ تِہ تۄہِ خٲطرٕ آرام۔
+80. **بچن سٟتؠ گزارِو وقت۔** نوسن نیرن ہٕنز اَکھ مختصر، پُر سکون مُلاقٲت، یا أکِس لۄکٹس بچس فوٹو کتاب پرُن۔
+81. **کاہو سٟتؠ اَکھ أکِس سٟتؠ اخبار وُچھِو۔** سرخیہِ بڈ آوازِ پرِو۔ رسم چھے خبرن کھوتہٕ زیٛادٕ اہم۔
+82. **بییہِ کٲنٛسہِ کٔرِو مَدَت۔** چرچ پروگرام ؤٹِو یا ہمسایس خٲطرٕ کارڈ بنٲوِو۔
 
-## Faith and spiritual activities
+## مذہبی تِہ روحٲنی سرگرمیہٕ
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+تَس شخصہٕ سٕنز پنٕنۍ روایت اپنٲوِو، یا کانٛہہ نہ۔ NIA چھُ جان عبادت، پرنہٕ، مقدس موسیقی، دعا، مراقبہ تِہ تہواری رسمن ہٕنز تجویز دِوان۔
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **جان عبادتس منٛز گٔژھِو شٲمِل۔** اَکھ پُر سکون عبادت چُنو، راہداری نکھہ بیکھِو، تِہ تَتہِ لوٗکن کٔرِو ڈیمینشیا مُتعلِق آگاہ۔
+84. **تِمن دۄہن وُچھِو آن لائن عبادت** ییلہ نیبر گژھُن واریاہ مشکل آسہِ۔
+85. **اَکھ أکِس سٟتؠ دعا یا پرُن کٔرِو۔** جان لفظ، آہستہ پرِو۔ تِم ہیٚکن تِمن حِصّن منٛز شٲمِل گژھِتھ یِم تِمن یاد چھِ۔
+86. **پننِہ روایتک بھجن یا مقدس موسیقی گِیِو۔**
+87. **تہواری رسمہٕ تھٲوِو برقرار۔** بیٹری وٲلۍ شمعہٕ، اَکھ دعا، تِمے سجاوٹ یِم تِم ہمیشہ ورتاوان ٲسِہ۔
+88. **خاموش وقت بٲگراوِو۔** باغس منٛز اَکھ أکِs سٟتؠ بیکھِو یا آفتاب غروب گژُھن وُچھِو۔
 
-## Pets and animals
+## جانور تِہ پالتو جانور
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+NIA چھُ پالتو جانورس کھین دِیُن، تھپکاون، سیر کرٲوٕنۍ، یا تٔمِس سٟتؠ بیہُن تِہ تھپھ کرنٕچ تجویز دِوان۔
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **أکِس پُر سکون ہوٗن یا برٲرِس کٔرِو لمہِ لمہِ تھپکن سٟتؠ برش۔**
+90. **اَکھ أکِس سٟتؠ دِیِو جانورس کھین۔** تۄہِ کٔرِو ماپ، تِم تراوِن۔
+91. **اَکھ أکِس سٟتؠ نِیِو ہوٗن سیرس پیٹھ۔** پٹہٕ تھٲوِو تۄہِ پننہِ اَتھس منٛز۔
+92. **جانور تھٲوِو گودس منٛز۔** اَکھ پُر سکون برٲر کمبلس پیٹھ ہیٚکہِ واریاہ سکون بخش آسُن۔
+93. **یِنہٕ وٲلؠن جانورن کٔرِو استقبال۔** کینژھ دیکھ بھال گھر تِہ ڈے پروگرام چھِ جانورن ہٕنز مُلاقات کرٲوان۔ مقٲمی طور پٲٹھؠ پُچھِو۔
+94. **اصلی ہِیوٚ نرم جانور پیش کٔرِو۔** اگر جانور آسہِ نہ، تیٚلہ چھِ کینژھن لوٗکن اَکھ اصلی ہِیوٚ نرم برٲر یا ہوٗن تھپھ کرُن پسند یِوان۔ سادٕ طریقہٕ پیش کٔرِو، کھلونہٕ ہِیوٚ نَہ، تِہ انکار مٲنِو۔
 
-## Seasonal activities
+## موسمی سرگرمیہٕ
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+رسمہٕ تھٲوِو برقرار، مگر سۄہل بنٲوِتھ۔ NIA چھُ تجویز دِوان زِ مصروف تہوارن دوران حقیقی توقعات تھٲوِو تِہ آرام خٲطرٕ اَکھ پُر سکون جاے تھٲوِو۔
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **موسم مُطٲبق کٔرِو سجاوٹ۔** میزس پیٹھ اَکھ اولو، اَکھ ہار یا تازٕ پھوٗل۔
+96. **تہوارُک میٹھ بناوِو۔** آٹو گوندِو یا کوکیزن پیٹھ فروسٹنگ کٔرِو۔ اوون سنبھٲلِو تۄہِ پانَے۔
+97. **سجاوٹی چیزٕ لَگٲوِو۔** نہ پھُٹن وٲلۍ سجاوٹ، اَکھ اَکھ کٔرِتھ دِیِو۔
+98. **روشنی وچھنہِ خٲطرٕ کٔرِو ڈرائیو۔** اَکھ مختصر شامٕچ سیر یَتھ منٛز صرف ساتھ چاہِ۔
+99. **بہارٕک بلب لَگٲوِو۔** ہریٛدس منٛز گملس منٛز بلب دَبٲوِو تِہ پتہٕ کٔرِو کونپلن ہُند انتظار۔
+100. **مکہٕ ژالِو یا مٹر کھولِو۔** ریتہٕ کالس برانڈس پیٹھ اَکھ کٲم، گودس منٛز پیالہٕ سٟتؠ۔
+101. **تہوارن ہٕند کارڈن پیٹھ پتاہ لیکھِو۔** تِم کٔرِن دستخط، ڈاک ٹکٹ لَگاوِن یا سیل کرِن؛ پتہٕ سنبھٲلِو تۄہِ۔
 
-## What if an activity is not working?
+## اگر کانٛہہ سرگرمی ٹھیک چَلہِ نہ؟
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+رکِو، تِہ بییہِ کُنِ وقتس کٔرِو کینٛہہ مختلف کوٗشش۔ NIA چھُ تجویز دِوان زِ پریشٲنی پیٹھ تھٲوِو نظر تِہ اگر شخص صرف وُچھُن ییژِھ تیٚلہ تٔمِس دِیِو اجازت۔ 'نہ' ہُند مطلب اکثر یِہ چھُ آسان زِ کٲم چھُ واریاہ مشکل، وقت چھُنہٕ ٹھیک، یا کانٛہہ ہور چیز چھے پریشان کران، مِثالَن درد، بۄچھ یا شور۔ اَتھ بنٲوِو لۄکُٹ، دۄہس برونٹھ کٔرِو کوٗشش، یا پانَے کٔرِو شُرو تِہ وُچھِو زِ تِم چھا یِوان شٲمِل گژھان۔ وُچھِو [ییلہ تِم نہ وَنن](/caregiving/when-they-say-no/) تِہ [شامٕچ بے چینی](/caregiving/late-day-restlessness/)۔
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+کھین تِہ آرامس درمیان سرگرمیہٕ کِتھ کٔنؠ تھاوٕنۍ، تَمہِ خٲطرٕ وُچھِو [اَکھ نرم روزمرٕ روٹین](/activities/daily-routine/)۔ تیار تھاونہِ خٲطرٕ چیزن خٲطرٕ وُچھِو [پرنٹ کرنٕچ سرگرمیہٕ](/activities/printable/)، تِہ اگر تۄہِ گروہ چلاوان چھِو تیٚلہ [دیکھ بھال گرِ منٛز گروہی سرگرمیہٕ](/activities/care-home-groups/)۔ تُہُنٛد پنُن آرام تہِ چھُ اہم: وُچھِو [دیکھ بھال کرن وٲلِس ہٕنز خیال](/caregiving/caregiver-self-care/)۔

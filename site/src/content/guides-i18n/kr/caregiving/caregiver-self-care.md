@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Kǝla kǝndǝrami: Tǝsǝne, bana-a alamaramma-a"
+seoTitle: "Kǝla kǝndǝrami: Tǝsǝne-a bana-a"
+description: "Alamaramma kǝndǝrami tǝsǝnabe, futu tǝsǝne-a bana-a fandǝmi, kuru bana US lan sadin: Alzheimer's Association 24/7 Helpline-a Eldercare Locator-a."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Kam dementia-a kǝltǝram kǝndǝram shi kǝskǝye, kuru kǝlanǝm kǝndǝram cidawa
+  adǝye bǝlin. Alamaramma gǝnyi lana: tǝsǝne, gǝrgata, kǝnǝm ngǝla bawo,
+  kuru sawaanam-a kǝltǝ. Bana takkile manǝ, tǝsǝne cida (respite care)
+  faidatǝ, kuru bana jamaa ro. Bana sadinbe US lan: Alzheimer's Association
+  24/7 Helpline 1-800-272-3900 lan-a Eldercare Locator 1-800-677-1116 lan-a.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Tǝsǝne ngǝwube alamarammaso: tǝsǝne zauro, gǝrgata, kǝnǝm ngǝla bawo, kǝla kuttu-a kǝndǝram lafiya kǝlanǝmbe kollǝ-a."
+  - "Tǝsǝne cida (respite care) nyi tǝsǝne cidi, awa gade lan har saptawa gade ro, fato lan au nasha kǝndǝrambe lan."
+  - "Bana takkile manǝ; am ngǝwu bana cido mayin, amma futu cidajin nozǝnyi."
+  - "Alzheimer's Association 24/7 Helpline (1-800-272-3900) bana sadin-a asǝrra-a, wakti yaye cidi."
+  - "Eldercare Locator (1-800-677-1116) nyi cidawa nasha nǝmye lan kǝltǝnji, Area Agency on Aging-a bǝlin."
+  - "Tawadǝro jauro lan, 988 lan bowone au sǝmǝne. Emergency bǝn, 112 bowone."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Alamaramma tǝsǝne ngǝwube kǝndǝramibe awi?"
+    a: "Alamaramma ngǝwuso: tǝsǝne zauro, kǝla kuttu au hangal kuttu, gǝrgata ngǝwu, kǝnǝm ngǝla bawo, kǝla kuttu au tama bawo, sawaanam-a kǝltǝ, kǝla duno au zǝkkǝ ngǝwu, kuru kǝmbu, cidawa jismibe au luwoyabe kǝlanǝmbe kollǝ. Alamaramma ani loktu ngǝwu lan fǝlezǝna ma, luwoya lan manǝ."
+  - q: "Futu tǝsǝne cida (respite care) nasha nǝmye lan fandǝkin?"
+    a: "Eldercare Locator (1-800-677-1116 au eldercare.acl.gov) lan badinǝ, Area Agency on Aging nǝmye fandoro, au ARCH National Respite Locator Service, au Alzheimer's Association Helpline 1-800-272-3900 lan. Fadǝwa, sawaanam-a am ngǝwu kǝriwo-a tǝsǝne cida cidi."
+  - q: "Medicare tǝsǝne cida (respite care) ro biyi?"
+    a: "Kam hospice kǝndǝram fandǝna ma, National Institute on Aging ye gulzǝna, Medicare tǝsǝne cida kawu 5 ngawon ro kǝmbu ngǝwuso asibiti lan au nasha kǝndǝrambe ngǝla lan biyin. Asǝr lafiya kambe ngǝwuso tǝsǝne cida biyin bawo; Medicaid-a asǝr lafiya loktu kuruwu gade-a bana cidi."
+  - q: "Alzheimer's Association Helpline jǝmar sadin kuru bune-a wakti yaye mbeji wa?"
+    a: "Aa. Alzheimer's Association ye gulzǝna, Helpline nzǝ 1-800-272-3900 sadin, asǝrra, kuru cidawu-a wakti yaye, kawu 365 sǝgǝdǝ bǝn, tǝlam ngǝwu lan bana mbeji. Cidawa relay ro 711 bowone."
+  - q: "Kǝndǝrami lan tǝsǝne cido shi kǝla kǝnmanǝ wa?"
+    a: "A'a. Tǝsǝne nyi kǝndǝram ngǝla tǝdoro bana cidi, kuru tǝsǝne cida-a kam dǝ nyi kǝndǝramin ma ro am gade-a cidawa gade-a cidi. Kǝndǝrama ngǝwu ngawo ye, bana burwon cidi ma gǝnazǝna."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +66,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Kam dementia-a kǝltǝram kǝndǝramma, shiye warak adǝ karanǝmin, bune lan, tǝsǝna, kuru awo cida bawo ngǝwu kǝlanǝmbo. Adǝ shi awo adabe. Kǝlanǝm kǝndǝram shi lada bawo au awo samǝm dazǝna ngawo bawo. Shi ye nyi fuwuro letǝro bana njǝdi.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Warak adǝ lan, alamaramma tǝsǝne ngǝwube, futu tǝsǝne jǝmar fandǝmi, futu bana fandǝmi, kuru lamba bana sadinbe US lan ku bowomin.
 
-## What are the signs of caregiver burnout?
+## Alamaramma tǝsǝne ngǝwube kǝndǝramibe awi?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Tǝsǝne ngǝwu hangalro yirai, adǝ nankaro alamarammanǝm nonǝm shi ngǝla. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) ye alamaramma tǝsǝne kǝndǝramibe adǝye gulzǝna:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- tǝsǝne zauro, kǝla kuttu au hangal kuttu fannǝ;
+- gǝrgata ngǝwu au hangal cistǝ bawo fannǝ;
+- kǝlanǝm kǝltǝ au am-a kǝltǝ bawo fannǝ;
+- kǝnǝm ngǝla bawo, au kǝnǝm isǝ bawo;
+- kǝla kuttu au tama bawo fannǝ, au awo burwon cida dǝye kǝrawo kollǝ;
+- kǝla duno, zǝkkǝ au kaziyi jismibe gade ngǝwu;
+- loktu cidawa jismibe au kǝmbu ngǝla kǝlanǝmbo bawo;
+- kashawa au kǝla kǝndǝram gade kollǝ;
+- nzǝru au kǝndawu gade faidatǝ, luwoye bǝlin.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) ye alamaramma gade-a kǝlanzǝna: kǝndǝwi dǝ angaro bawo, kam dǝro gǝrgata ("shi hangalnzǝ ngǝla"), fuwu nǝmbero hangal kuttu, hangal faltǝ, kuru kaziyi lafiya. Alamaramma ani loktu ngǝwu lan fǝlezǝna ma, luwoyanǝm-a manǝno.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA ye shawari cidi: tǝsǝne ngǝwuro sammǝno kawu hangalnǝm samzǝna dǝro tǝne. Alamarammanǝm burwon no, kuru awo de.
 
-## What can I do today, in five minutes?
+## Ku, minti 5 lan, awi dikki?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Tǝsǝne gana-a faida-a. Awo ani sammaso tǝsǝne ngǝwu cizǝnyi, amma yimbi zauro lan bana njǝdi.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Deya luwo.** Kam dǝ nzǝndo ngǝla lan napkǝna ma, fato cinna lan nap au sandǝk mailbox ro le.
+- **Yintǝge hangal hangal.** Kǝla kǝriwobe jawabu bawo kawu yintǝge hangal hangal kǝla gade. Kam dǝ nyi kǝndǝramin ma-a kǝltǝ [Calm Breathing](/games/calm-breathing/) lan tǝsǝne gana yade.
+- **Nji ya, kuru awo la.** Kǝmbu kǝlanǝmbe njǝrǝgǝtǝ shi ngǝwu.
+- **Sawanǝm falro sǝmǝne.** Awo gade moworo bawo, kǝltǝnǝmro.
+- **Kǝlanǝmbo kalima ngǝla gulne.** NIA ye [kǝla kǝlanǝm kǝndǝrambero shawari nzǝ](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) lan kalima aniye gulzǝna: "Wuye raktǝnadǝ sammakki," "Wu kam ngǝla bawo, shi ngǝla," kuru "Wuye loktu ngǝla kǝltǝnza lan tǝdana dǝro kǝnji fanǝkki."
 
-## What is respite care, and how do I get it?
+## Tǝsǝne cida (respite care) awi, kuru futu fandǝkki?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Tǝsǝne cida shi kǝndǝram loktu gana, kam dǝ nyi kǝndǝramin ma ro, nyi tǝsǝne fandoro. NIA ye [warak tǝsǝne cida nǝmbero](https://www.nia.nih.gov/health/caregiving/what-respite-care) lan bayanzǝna: awa gade lan har saptawa gade ro tǝdin, kuru fato lan, nasha lafiya lan au nasha kǝndǝram yimbibe lan tǝdin.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) ye jili ngǝwuso adǝye bayanzǝna:
 
-| Type | What it is |
+| Jili | Shi awi |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Bana fato lan | Sawa, fadǝwa, kam kǝriwo au cidama biyabe fato ro isin |
+| Nasha kǝndǝram yimbibe | Cidawa fasalna, misallo yono-a zane-a, jamaa ngǝla lan; kǝriwo-a kǝmbu-a ngǝwu mbeji |
+| Bune fal au napci gana | Nasha kǝndǝrambe loktu kuruwu kam dǝro bune fal, kawu gade au saptawa gade kǝndǝzǝnin |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Wande biyi?** NIA ye gulzǝna, tǝsǝne cida fadǝwa, sawaanam au am kǝriwo lan sadin tǝdin. Cidawa kǝriwobe shi awa au kawu bǝn biyi. Kam hospice kǝndǝram fandǝna ma, Medicare tǝsǝne cida kawu 5 ngawon asibiti lan au nasha kǝndǝrambe ngǝla lan ro kǝmbu ngǝwuso biyin. Medicaid bana cidi. Asǝr lafiya kambe ngǝwuso biyin bawo, amma asǝr lafiya loktu kuruwu gade biyizai.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Shawari:** Alzheimer's Association ye gulzǝna, tǝsǝne cida cidawu-a loktu emergency bawo lan jarabne, tawadǝro ngǝwuro bana mǝradǝm ma dazǝna.
 
-## Where can I find help near me?
+## Futu bana nasha nǝmye lan fandǝkki?
 
-Several free US services can point you to local help.
+Cidawa sadinbe ngǝwu US lan bana nasha nǝmye fandoro nyiro sǝdin.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** [Helpline](https://www.alz.org/help-support/resources/helpline) sadin, asǝrra, kuru cidawu-a wakti yaye, sǝgǝdǝ ye bǝn, tǝlam 200 kozǝna lan bana mbeji. Cidawa relay ro 711 bowone. Fasal hal-a, tǝsǝne kǝndǝramibe, tǝsǝne cida, cidawa nasha nǝmye-a gade nǝmbero manǝramin, kuru kǝndǝrami shawari kama lan manazǝ raktǝ. Cidawuso shawari luwoyabe cin bawo.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), cidawa jama Administration for Community Living ye, nyi am ngǝliwube-a fadǝwanza-a ro cidawa nasha nǝmye kǝltǝnji. Bowone, sǝmǝne, online manane au email yade, au nasha nǝmbe lan mata. Area Agency on Aging nǝmye fǝlejin.
+- **ARCH National Respite Locator Service.** [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) nyi tǝsǝne cida cidawu-a lardǝ bǝn fandoro bana njǝdi, kuru lardǝnǝmbe lan State Respite Coalition au Lifespan Respite program mbeji ma, burwon manano. ARCH ye gulzǝna cidawu-a kulashi bawo, adǝ nankaro kǝndǝram-a tarihinza-a kǝlanǝm rui.
 
-## How do I find a support group?
+## Futu bana jamaa fandǝkki?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Helpline dǝro koro, au online lan jamaa nasha nǝmye manǝ. Alzheimer's Association ye [bana jamaa fasalzǝnin](https://www.alz.org/help-support/community/support-groups), kǝndǝrama-a am dementia-a kǝltǝram-a ro, kǝltǝ au online lan, cidawu ilimbe-a fuwuzǝna. Nasha ngǝwu lan jamaa takkile-a mbeji, misallo kǝndǝrama kura-a ro au am Alzheimer's ngawo bawo au baditǝbe-a kǝltǝram-a ro. ALZConnected, jamaa online sadin, na kǝndǝrama shawari kǝlanzayin-a mbeji.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Bana jamaa shi na sharrah bawo lan manaro, shawari faidabe am adǝ kǝrǝnadǝ lan tǝmburo, kuru kǝlanǝm kǝltǝ bawo fannǝno. Jamaa burwoye dǝ ngǝla bawo ma, gade jarabne.
 
-## How do I ask family and friends for help?
+## Futu fadǝwa-a sawaana-aro bana mowokki?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Awo takkile manǝ. Am ngǝwu bana cido mayin, amma awi cida mbeji nozǝnyi. NIA ye shawari cidi:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Cidaa cidabe jere tǝne** am gade cidazayin, kuru karapza.
+- **Gana lan badinǝ** bana moworo kǝskǝ ma.
+- **Cida dǝ kam dǝro kalkal.** Sawanǝm dǝ kǝmbu dewo mayi ma, Alhamis ye kǝmbu kǝnzǝ. Kǝma nǝmye dǝ takarda cidaro ngǝla ma, takarda cidaro bana njǝdi.
+- **Sǝmǝne au email yade** kǝma-a kǝltǝ manaro kǝskǝ ma.
+- **Jawabu dazǝne** kam fal bana cizǝna ma: "Askǝrna, adǝ de."
+- **"A'a" ngǝwu mbeji** kuru adǝro kǝla kuttu gotǝne.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Shawari gade: kam fal kawu falro kǝma-a kǝltǝ napcoro, shiye kǝriwo gana ro kǝnzǝkǝro, au kǝltǝro bǝriyo kǝltǝ cidaro. [Shawari kǝltǝ bǝriyo nǝmbero](/caregiving/how-to-play-together/) dǝ am isǝna ro gulzǝro ngǝla.
 
-## What if something happened to me?
+## Awo wuro tǝdǝna ma?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Ku fasal gana bawo dazǝne. NIA ye shawari cidi, fadǝwa-a sawaana ngǝla-a kǝltǝ wande ishin nǝmtǝne, kuru takarda fal lan lamba emergency, kǝndawu, shawari hal ngǝla cidajin-a cidawa burwoye-a yikǝne. Alzheimer's Association ye kǝla, lamba luwoya kambe-a jerin kǝndawu ngǝwube-a fandoro ngǝla.
 
-## When should I get professional or urgent help?
+## Sakkudǝ bana kǝriwobe au emergency mbeji?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Alamaramma tǝsǝne loktu ngǝwu lan fǝlezǝna ma, kǝla kuttu ngǝwu fannin ma, au kǝndǝramro kǝskǝ fannin ma, luwoyanǝm-a manǝne. Luwoyanǝmbo nyi kǝndǝrami gulne. NIA ye gulzǝna, shawariya hangalbe-a am cidawa jamaabe-a kǝla kǝskǝbe-a fasalbe-a lan bana cidizai, kuru Medicare, Medicaid-a asǝr lafiya kambe gade-a kǝmbu kǝndǝram hangalbe gade biyizai.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Tawadǝro jauro lan fannin ma au kǝlanǝmro bannatǝ nǝmbe tammanǝm ma, 988 lan bowone au sǝmǝne [988 Suicide & Crisis Lifeline](https://988lifeline.org/) ro, sadin kuru wakti yaye mbeji. Kam fal tajirwa lan mbeji ma, 112 bowone.
 
-## Can shared activities give me a break too?
+## Cidawa kǝltǝ-a wu-a tǝsǝne gana cidizai wa?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Adǝ tǝdin. Cidawa hangalro ngǝla sandi ye burwon dǝ yimbi bǝye nǝmro hangal gana njǝdi, nyi-a kam dǝ nyi kǝndǝramin ma-a ro: yono ngawo fanǝ, foto rui, au bǝriyo kura [Conversation Cards](/games/conversation-cards/) kura jawabu kalkal mbeji bawo. Kam dǝ am-a kǝltǝ mayi ma, jamaa lan [Picture Bingo](/games/picture-bingo/) nasha am ngǝliwube lan au nasha kǝndǝram yimbibe lan nyiro awa fal tǝsǝne cida njǝdi. Shawari gade ro [cidawa jamaa nasha kǝndǝrambe lan](/activities/care-home-groups/) rui.

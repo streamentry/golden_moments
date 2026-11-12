@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "گۄڈنِک مرحلس منز ڈیمنشیا سرگرمیہ"
+seoTitle: "گۄڈنِک ڈیمنشیا سرگرمیہ: موزوں خیال"
+description: "گۄڈنِک مرحلس منز ڈیمنشیا خٲطرٕ سرگرمی ہُنٛد خیال: مشغلہ، گیٚم، سیر، لیکھن تہٕ میل ژار، یِم تَس شخصس مزس تہٕ اختیارس منز روزنس منز مدد کرن۔"
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  گۄڈنِک مرحلس منز ڈیمنشیا ہس منز ہیکن واریاہ لوٗکھ تِمۓ کام کرِتھ یِم تِمن
+  پسند چھِ: مشغلہ، تاش تہٕ بورڈ گیٚم، کھین پکہٲوُن، باغبٲنی، پکھُن، کلب،
+  مذہبی سرگرمیہ تہٕ رضاکارانہ کام۔ مۄکھ تبدیلی چھے لۄکچار جمٲژ، مختصر سیر،
+  سادٕ لِکھتھ منصوبہ تہٕ نکھ اکھ ساتھی۔ تَس شخصس پٕرژِو زِ سُہ کٔم مدد یژھان
+  چھُ، تہٕ تٔسۍ دِیو راہنمٲیی کرنُک موقع۔
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "گۄڈنِک مرحلس منز روزن وٲلؠ واریاہ لوٗکھ چھِ کافی حدس تام پانے روزگار چلٲوِتھ۔ سرگرمیہ چھے عام طور بدلٲوِنۍ گژھان، نَہ کہ بدلٲوِنۍ۔"
+  - "تَس شخصس پٕرژِو زِ سُہ کٔم مدد یژھان چھُ، تہٕ مدد منگنس خٲطرٕ اکھ سادٕ اشارہ طے کٔرِو۔"
+  - "لۄکچار جمٲژ، پرٛسکون وقت تہٕ مختصر سیر ہیکن واریاہ بڈ فرق پٲدٕ کٔرِتھ۔"
+  - "یہِ چھُ اکھ جان وقت ییٚلہِ سُہ شخص پَننہِ زندگی مُتعلق پَننہِ منصوبن ہُنٛد راہنما بنِتھ ہیکِہ، مِسلن ڈٲیری یا زندگی ہٕنز کہٲنی ہُنٛد کتاب۔"
+  - "گیٚم مزس خٲطرٕ ژٲرِو۔ یُس چیز امتحان ہِیوٚن باسان چھُ، سُہ ترٲوِو۔"
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "گۄڈنِک مرحلس منز ڈیمنشیا خٲطرٕ کٔہ سرگرمیہ چھے موزوں؟"
+    a: "عام طور تِمۓ یِم تَس شخصس گۄڈے پیٹھے پسند چھِ: تاش، بورڈ گیٚم، کھین پکہٲوُن، باغبٲنی، پکھُن، موسیقی، مذہبی سرگرمیہ، کلب تہٕ رضاکارانہ کام۔ تِم ہیکن مختصر، پرٛسکون یا سادٕ بناونہٕ یِتھ۔ ڈٲیری لیکھن، چِٹھ لیکھن تہٕ زندگی ہٕنز کہٲنی ہُنٛد کتاب بناوُن تہِ چھُ یتھ مرحلس خٲطرٕ موزوں۔"
+  - q: "بے سُہ اختیار نیِتھ بٕہ کِتھ کٔنۍ ہیکہٕ مدد کٔرِتھ؟"
+    a: "پٕرژِو زِ سُہ کٔہ قسمٕچ مدد یژھان چھُ، تہٕ وقتاً فوقتاً وچھِو۔ اکھ لفظ یا اشارہ طے کٔرِو یُس یہِ ونہِ زِ وۄن ہیکہِ مدد کرنہٕ یِتھ، مِسلن ییٚلہِ کانٛہہ لفظ یا ناو یاد نہ یِیہِ۔ اگر کانٛہہ حِفاظتی خطرہ نہ آسہِ، تٔسۍ دِیو پَننہِ طریقہٕ کٲم کرنُک موقع، اگرچہ واریاہ وقت تہِ لٲگِتھ ہیکِہ۔"
+  - q: "کیا گۄڈنِک مرحلس منز ڈیمنشیا سانْ روزن وٲلؠ شخص سٕنز نٔو سرگرمی آزمٲوِنۍ؟"
+    a: "آ، اگر سُہ یژھان آسہِ۔ مانوس مشغلہ چھِ عام طور آسان، مگر واریاہ لوٗکھ چھِ کانٛہہ نٔو چیز تہِ پسند کران، مِسلن ڈیمنشیا خٲطرٕ موزوں پکھنُک گروپ، آرٹ کلاس یا گاینُک گروپ۔ اکھ لٹہِ بغیر دباوَس آزمٲوِو تہٕ وچھِو کِتھ باسان چھُ۔"
+  - q: "کیا گۄڈنِک مرحلس منز دماغی مشق ہُنٛد ایپ فٲیدٕ مند چھِ؟"
+    a: "کینژھن لوٗکن چھِ پہیلی تہٕ لفظن ہٕند گیٚم پسند یِوان، تہٕ سۄ مزے چھے اَتھ خٲطرٕ کافی وجہ۔ کانٛہہ ایپ یا گیٚم چھُنہ آمُت ثٲبت کرنہٕ زِ سُہ ڈیمنشیا علاج کران چھُ، سُہ ہَوٹ کران چھُ یا رُکاوان چھُ۔ اگر کانٛہہ گیٚم پریشٲنی پٲدٕ کران آسہِ یا تَس شخصس باسان آسہِ زِ سُہ ناکام چھُ، سُہ ترٲوِو۔"
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+ڈیمنشیا ہُنٛدس گۄڈنِکِس مرحلس منز چھِ واریاہ لوٗکھ تقریباً تِتھۍ پٲٹھۍ زندگی گزاران یِتھۍ پٲٹھۍ تِم گۄڈٕ کران ٲسۍ۔ تِم ہیکن نوکری کٔرِتھ، رضاکارانہ کام کٔرِتھ، دوستن سٟتؠ مِلِتھ تہٕ واریاہ پَنُن دۄہ پانے چلٲوِتھ۔ سرگرمیہ چھُنہ عام طور بدلٲوِنۍ ضرورت؛ تِمن چھے بس کینژھن لۄکچن بدلٲون ہُنٛد ضرورت یُتھ تِم مزہ دار روزن۔ تُہُنٛد کردار چھُ اکھ ساتھی ہُنٛد زیٛادٕ، نَہ کہ صرف دیکھ بھال کرن وٲلؠ سُنٛد: اکھ تِیُتھ شخص یُس سہارٕ دِیِہ، تِمن سٟتؠ منصوبہ بنٲوِہ تہٕ صرف تَمی وقت قدم تُلہِ ییٚلہِ منگنہٕ یِیہِ۔
 
-## What activities are good in early-stage dementia?
+## گۄڈنِک مرحلس منز ڈیمنشیا خٲطرٕ کٔہ سرگرمیہ چھے موزوں؟
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+گۄڈنِک مرحلس منز چھے بہترین سرگرمیہ عام طور تِمۓ یِم تَس شخصس گۄڈے پیٹھے پسند چھِ، بس ذرا آسان بناونہٕ آمژٕ۔ [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) چھُ تاش تہٕ بورڈ گیٚمن، لفظن ہُنٛد تلاش، پکھنس، رقصس، باغبٲنی، پوٗش دابنس، کہٲنی ونس، پینٹنگس، موسیقی، ڈٲیری لیکھنس، چِٹھ لیکھنس، سکرٛیپ بُک بناونس، کھین پکہٲونس تہٕ تہوارن ہٕندیَن رِوایتن ہِیوِن خیالَن ہُنٛد ذِکر کران۔
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+عام طور چھے ماحول بدلِتھ یِوان، سرگرمی نَہ۔ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) چھُ ونان زِ گۄڈنِکِس مرحلس منز ہیکن کینژھ لوٗکھ تِمن چیزن نِش پیٹھ ژلان یِم تِمن پسند ٲسۍ، تہٕ مِثال دِوان چھُ زِ یُس شخص بڈِس محفلِس منز پریشان گژھان چھُ سُہ ہیکِہ لۄکچار جمٲژس منز بہتر محسوس کٔرِتھ۔ یِم چیزہ مشکل باسان چھے تِمن مُتعلق کھولِتھ کتھ کٔرِو، تہٕ میل ژار کٔرِو بدلٲو۔
 
-## Ask first, and agree on how to help
+## گۄڈٕ پٕرژِو، تہٕ مدد کرنُک طریقہ طے کٔرِو
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Alzheimer's Association ہُنٛد گۄڈنِک مرحلُک رہنما](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) چھُ کینژھن عادتن ہُنٛد مشورہ دِوان یِم سرگرمیَن تہِ لاگو چھِ:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **صاف پٕرژِو۔** «بُک کلب تُہندِ خٲطرٕ کِتھ ہیکِہ آسان بنِتھ؟» یِیہِ اندازہ لٲگنس کھۄتہٕ بہتر جواب۔
+- **سمجھِو زِ تِم ہیکن۔** اگر کانٛہہ حِفاظتی خطرہ نہ آسہِ، تَس شخصس دِیو کوشش کرنُک موقع، تہٕ اختیار نینس بجاتہٕ دِیو حوصلہ۔
+- **اکھ اشارہ طے کٔرِو۔** اکھ لفظ یا اشارہ ژٲرِو یُس یہِ ونہِ زِ «وۄن ہیکہِ تۄہہِ مدد کٔرِتھ»، مِسلن ییٚلہِ تاش کھیٚون ویزِ کانٛہہ ناو یاد نہ یِیہِ۔
+- **وقتاً فوقتاً وچھِو۔** پٕرژِو زِ مدد ہُنٛد مقدار ٹھیک چھا، واریاہ چھا یا کم۔
 
-## Activity ideas for the early stage
+## گۄڈنِک مرحلس خٲطرٕ سرگرمی ہُنٛد خیال
 
-### Keep up roles and hobbies
+### کردار تہٕ مشغلہ برقرار تھٲوِو
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **اکھ باقاعدہ ذمہ دٲری تھٲوِو۔** ہَفتہ وار رضاکارانہ شفٹ، کور یا کلب چھُ ہَفتس اکھ ڈول دِوان۔ اگر یہِ پریشان کرن وول بنہِ، اکھ مختصر یا پرٛسکون کردار ہیکِہ بہتر ٲسِتھ۔
+- **میل ژار کھینُک منصوبہ بنٲوِو۔** اگر دُکان نِش چیزہ انُن پریشان کن بنیمُت آسہِ، Alzheimer's Association چھُ مشورہ دِوان زِ تَس شخصس ؤنِو ہَفتُک کھینُک مینیو بناونس تہٕ فہرست لیکھنس منز مدد کرنہٕ خٲطرٕ۔
+- **کھین پکہٲوِو تہٕ بیک کٔرِو۔** کانٛہہ پسندیدٕ ترکیب میل ژار اپنٲوِو۔ شروع کرنہٕ برونٹھ تھٲوِو سٲری چیزہ ترتیب وار، یُتھ مرحلہ آسان بوزنہٕ یِن۔
+- **باغبٲنی کٔرِو۔** اکھ کٲری ہُنٛد منصوبہ بنٲوِو، بیہ یا پۄد ژٲرِو تہٕ کام کٔرِو میل ژار۔ ہَفتُک باغبٲنی ہُنٛد لِکھتھ فہرست چھُ مددگار۔
+- **کانٛہہ دستکاری جاری تھٲوِو۔** لکڑٕ کام، سِلوٲیی، وُنُن یا ماڈل بناوُن ہیکِہ سادٕ نمونن تہٕ جان روشنی سانْ جاری روزِتھ۔
 
-### Games for enjoyment
+### مزس خٲطرٕ گیٚم
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **تاش تہٕ بورڈ گیٚم کھیٚلِو۔** مانوس گیٚم چھِ آسان آسان۔ ٹیم بناوِتھ کھیٚلِو یُتھ کانٛہہ اکیلا دباوس منز نہ یِیہِ، تہٕ سکور ہلکِہ تھٲوِو یا بالکل مَہ تھٲوِو۔
+- **بڈٕ اَچھرن وول لفظ تلاش آزمٲوِو۔** سون [word search](/games/word-search/) ہیکِو سکرینس پیٹھ یا پرِنٹ کٔرِتھ پرٛسکون وقتس منز کھیٚلِتھ۔
+- **جِگسا پہیلی لٲگِو۔** تِیُتھ ٹُکرن ہُنٛد تعداد ژٲرِو یُس آرام دہ باسی، نَہ کہ مشکل۔ [Picture puzzle](/games/picture-puzzle/) چھُ اَمِیُک اکھ مختصر آن لائن نُسخہ، تہٕ سٲنۍ [ڈیمنشیا خٲطرٕ پہیلی](/activities/puzzles/) ہٕنز رہنما چھُ ژارنَس منز مدد کران۔
+- **مزس خٲطرٕ کوئز منز شٲمِل گٔژِو۔** کینژھن لوٗکن چھُ ٹیم کوئز رات پسند یِوان۔ اگر یہِ امتحان ہِیوٚن باسان لگہِ، کانٛہہ بیٚیہِ چیز ژٲرِو، یا سٲنۍ [آسان کوئز سوال](/activities/trivia/) وچھِو یِمن منز جواب جاے تہِ چھے تہٕ سکور تہِ چھُنہ۔
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+یَتھ جاے چھِ گیٚم خۄشی خٲطرٕ۔ کانٛہہ گیٚم چھُنہ آمُت ثٲبت کرنہٕ زِ سُہ ڈیمنشیا علاج کران چھُ یا ہَوٹ کران چھُ؛ بییہٕ پٔرِو [دماغی گیٚم: تحقیق کیا چھُ ونان](/brain-health/brain-games/)۔
 
-### Write, reflect and record
+### لیکھو، غور کٔرِو تہٕ محفوظ کٔرِو
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **ڈٲیری تھٲوِو۔** Alzheimer's Association چھُ ڈٲیری لیکھنس ہُنٛد مشورہ دِوان بطور اکھ طریقہ یُس تشخیص پتہٕ جذباتن سٟتؠ نبردازس منز مدد کران چھُ۔ دۄہس کینژھ سطرٕ چھے کافی۔
+- **زندگی ہٕنز کہٲنی ہُنٛد کتاب بنٲوِو۔** گۄڈنِک مرحلہ چھُ اکھ جان وقت ییٚلہِ سُہ شخص پانے پَننہِ فوٹو ژٲرِتھ ہیکِہ تہٕ تِمن پتہٕ کہٲنی لیکھِتھ یا ؤنِتھ ہیکِہ۔ وچھِو [یاد تازٕ کرن واجنہِ سرگرمیہ](/activities/reminiscence/)۔
+- **چِٹھ لیکھو۔** پۄتُر پۄترِ، پرٛٲنِس دوستس یا سٲبقہِ ساتھی سُنٛد خٲطرٕ اکھ چِٹھ ہیکِہ دۄنَوے خٲطرٕ معنی خیز ٲسِتھ۔
+- **فوٹو وچھِتھ کتھ کٔرِو۔** [Photo pairs](/games/photo-pairs/) چھُ خاندٲنی فوٹو اکہِ نرم میچنگ گیٚمہِ منز بدلٲوان، تہٕ [conversation cards](/games/conversation-cards/) چھِ کتھ باتھ شروع کرنہٕ خٲطرٕ آسان نُقطہ دِوان۔
 
-### Go out and move
+### نیبر نیرِو تہٕ حرکت کٔرِو
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) چھُ مشورہ دِوان زِ مانوس سیر جاری تھٲوِو یوٚتتام تُہۍ دۄشوے آرامدہ چھِو۔ تِم تَس شخصس دۄہس منٛز بہترین وقتس پیٹھ منصوبہ بنٲوِو تہٕ واریاہ زیٹھ مَہ بناوِو۔
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **مختصر ثقافتی سیر۔** عجائب گھر، میٹنی یا آرٹ نمٲیش، اگر ممکن آسہِ تیٚلہِ پرٛسکون وقتس منز۔
+- **تیرٲکی۔** NIA چھُ دۄہس منٛز ہلکِہ وقتس منز پول ہُنٛد مشورہ دِوان۔
+- **پکھنُک گروپ تہٕ رقص کلاس۔** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) چھُ رقص، تائی چی، یوگا، تیرٲکی تہٕ پکھنِک گروپن ہُنٛد ذِکر کران، تہٕ ییٚتہِ دستیاب آسَن تٔتہِ ڈیمنشیا خٲطرٕ موزوں سیشن تہِ۔
+- **گاینُک گروپ تہٕ میموری کیفے۔** آرام دہ جمٲژ ییٚتہِ ڈیمنشیا سانْ روزن وٲلؠ لوٗکھ تہٕ تِہندِ ساتھی باقین سٟتؠ مِلِتھ ہیکن یِم تِتھی حالتن منز چھِ۔
 
-## Small changes that keep activities enjoyable
+## لۄکچہ تبدیلیہ یِمہ سٟتؠ سرگرمیہ مزہ دار روزن
 
-| If this is getting harder | Try this |
+| اگر یہِ مشکل گژھان آسہِ | یہِ کٔرِو |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| گٔڈ وٲلؠ یا شور وٲلؠ جایہ | پرٛسکون وقتس منز گٔژِو، لۄکچار جمٲژ ژٲرِو، کمرس کُنہِ نِشہِ بِہِو |
+| نٔو ناو یاد تھٲوِنۍ | پرٛتھ لٹہِ لوٗکن ہُنٛد ناو نِو، جمٲژن ؤنِو ناو ٹیگ لاگنہٕ خٲطرٕ |
+| واریاہ مرحلن وٲلؠ منصوبہ سمجھنہٕ | مرحلہ لیکھِتھ تھٲوِو، یا گۄڈٕ سٲری چیزہ ترتیب وار تھٲوِو |
+| تھکُن | مختصر سیر، پتہٕ آرام، تَمہِ دۄہس کانٛہہ بیٛاکھ منصوبہ مَہ |
+| گیٚمس منز حساب تھٲوُن | ٹیم بناوِتھ کھیٚلِو، قٲعدہ سادٕ کٔرِو، یا سکور مَہ تھٲوِو |
+| لفظ لبنہٕ | وقت دِیو؛ صرف تَمی وقت لفظ دِیو ییٚلہِ تُہُنٛد طے شدہ اشارہ اجازت دِیِہ |
 
-## When to slow down
+## ییٚلہِ آہستہ پکُن چھُ بہتر
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+کانٛہہ سرگرمی تَمی وقت رُکٲوِو یا بدلٲوِو ییٚلہِ سۄ مزس کھۄتہٕ پریشٲنی زیٛادٕ اَنہِ۔ بار بار مایوسی، کانٛہہ مشغلہ نِش ژلن یا «بہٕ ہیکہٕ نَہ وۄن» وَنُن چھُ نرم کتھ باتھ ہُنٛد موقع، دباو دِنُک نَہ۔ اکثر چھُ جواب تِمۓ چیز ہُنٛد اکھ لۄکچار نُسخہ۔ ییٚلہِ تَس شخصس شروع کرنس تہٕ مرحلہ سمجنس منز مزید مددچ ضرورت پیٚیہِ، تیٚلہِ ہیکن [درمیٲنی مرحلُک سرگرمیہ](/activities/middle-stage/) ہٕندِ خیال بہتر ٲسِتھ۔ ہمدردانہ کتھ باتھ مُتعلق بییہٕ جاننہٕ خٲطرٕ وچھِو [کتھ باتھ ہٕند مشورہ](/caregiving/communication-tips/)، تہٕ واریاہ بیین خیالَن خٲطرٕ وچھِو [101 سرگرمیہ](/activities/ideas/)۔
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+ساتھیَن تہِ چھے سہارٕ چِ ضرورت آسان۔ گۄڈنِک مرحلہ چھُ اکھ جان وقت ییٚلہِ تُہۍ پَننہِ خٲطرٕ مددُک نیٹ ورک بنٲوِتھ ہیکِو؛ وچھِو [دیکھ بھال کرن وٲلؠ سُنٛد خیال](/caregiving/caregiver-self-care/)۔

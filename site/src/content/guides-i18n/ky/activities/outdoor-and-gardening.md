@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Деменция менен жашагандар үчүн бакча жана ачык аба"
+seoTitle: "Деменцияда бакча жана ачык абада иш-аракеттер"
+description: "Деменция менен жашаган адамдар үчүн бакча жана ачык абада жасоого боло турган иш-аракеттер, көтөрүлгөн грядкалар, идиштер жана ысык, күн, адашуу боюнча коопсуздук кеңештери."
 section: activities
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Бакчада иштөө жана ачык абада убакыт өткөрүү деменция менен жашаган адам үчүн
+  тынч жана тааныш иш-аракет болушу мүмкүн. Сугаруу, чөптөрдү идишке отургузуу,
+  гүлдөрдүн солгонун үзүү же короолонгон короодо кыска сейилдөө сыяктуу
+  аракеттерди сынап көрүңүз. Эч ким тизелөбөшү үчүн көтөрүлгөн грядкаларды же
+  үстөлдү колдонуңуз, курч аспаптардан жана уулуу өсүмдүктөрдөн алыс болуңуз,
+  күндүн салкын убактысында чыгып, адам дайыма жаныңызда болсун.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Сугаруу, уруктарды отургузуу, чөптөрдүн жытын сезүү жана гүл терүү сыяктуу жөнөкөй бакча иштерин туруп же отуруп жасоого болот."
+  - "Көтөрүлгөн грядкалар, идиштер жана үстү жабылган үстөл бакчаны бел бийиктигине көтөрүп, кулауу коркунучун азайтат."
+  - "Курч аспаптардан, тикенектүү же терини дүүлүктүрүүчү өсүмдүктөрдөн жана уулуу нерселерден алыс болуңуз. Топуракты тамак деп жаңылышпашын байкаңыз."
+  - "Ысык улгайган адамдар үчүн кооптуу болушу мүмкүн. Эрте же кечирээк убакта чыгып, суу жана көлөкө камсыздап, алсыздык белгиси көрүнөрү менен үйгө кириңиз."
+  - "Деменция менен жашаган көп адамдар кандайдыр бир учурда адашып калышы мүмкүн. Ачык абада адам дайыма жаныңызда болсун, жакында тартылган сүрөтүн жана жеке күбөлүгүн кол астында кармаңыз."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Деменция менен жашаган адам бакчада кандай иш-аракеттерди жасай алат?"
+    a: "Өсүмдүктөрдү сугаруу, кичине идиштерге уруктарды отургузуу, чөптөрдүн жытын сезүү жана кармоо, гүлдөрдүн солгонун үзүү, жашылчаларды терүү, кесилген гүлдөрдү түзүү жана жолду шыпыруу — мунун баары ылайыктуу. Үй ичинде терезе алдындагы чөп идиши же үстү жабылган үстөлдөгү топурак салынган табак да жарайт. Ишти адам мурун жактырган жана азыр ыңгайлуу кыла ала турган нерсеге жараша тандаңыз."
+  - q: "Деменция менен жашаган адамды ысыктан кантип коргойм?"
+    a: "Ачык абадагы убакытты күндүн салкыныраак эртең мененки же кечки маалына пландап, кыска кармаңыз жана сууну тез-тез сунуштаңыз. Көлөкөнү, кенен полялуу шляпаны, жеңил кенен кийимди жана күндөн коргоочу кремди колдонуңуз. Улгайган адамдарда ысыктан улам ооруу коркунучу жогору, ал эми абалдын чаташуусу, баш айлануу же жүрөгү айлануу коркунучтун белгиси болушу мүмкүн. Ошондуктан аларды байкасаңыз, дароо үйгө кирип, муздатыңыз."
+  - q: "Алар адашып калууга жакын болсо, сыртына кантип чыга алабыз?"
+    a: "Адам дайыма жаныңызда болсун, кулпуланган дарбазасы бар короолонгон короону же бакчаны колдонуңуз жана ал жеке маалыматы жазылган билерик тагынганын же жанында күбөлүгү бар экенин текшериңиз. Жакында тартылган сүрөтүн кол астында кармаңыз. Эгер адам жоголуп кетсе, Alzheimer’s Association аны 15 мүнөт ичинде таппасаңыз, 112ге чалууну сунуштайт."
+  - q: "Бакчабыз жок болсочы?"
+    a: "Айвандагы бир нече идиш, терезе алдындагы кутуча же ашкана үстөлүндөгү чөптөр салынган табак эле жетиштүү. Ошондой эле сейилбакка, коомдук бакчага же бакчачылар тобунун бакчасына бара аласыз. Сыртта отуруп, канаттуулардын үнүн угуу да ачык абадагы иш-аракетке эсептелет."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -51,103 +52,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Көп адамдар үчүн бакча — эң тааныш жайлардын бири. Казуу, сугаруу жана гүл терүү көп жыл мурун үйрөнүлгөн көндүмдөрдү колдонот, ал эми ачык абада болуу таза абаны, күн нурун жана канаттуулардын үнүн тартуулайт. National Institute on Aging Альцгеймер оорусу менен жашаган адамдарга жакшы келиши мүмкүн болгон иш-аракеттердин катарына өсүмдүктөргө кам көрүүнү, гүлдөрдү жана жашылчаларды отургузууну, ошондой эле [өсүмдүктөр кандай өсүп жатканын талкуулоону](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) киргизет. Бул баракта эмнени сынап көрүүгө болоору, бакчаны колдонууну кантип жеңилдетүү керектиги жана ысыкта, күндө, адашып калууда кантип коопсуз болуу керектиги жөнүндө жазылган.
 
-## What outdoor and gardening activities work well?
+## Кандай бакча жана ачык абадагы иш-аракеттер ылайыктуу?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Эң жакшы иштер жөнөкөй, тааныш жана туруп же отуруп жасала турган иштер. Адам мурун эмне жактырганына карап тандаңыз.
 
-### In the garden
+### Бакчада
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Сугаруу.** Колго жеңил, кичине лейка же жумшак агымы бар шланг учу жана жетүү оңой болгон бир нече идиш. Сугаруунун башталышы жана аягы айкын, муну туура эмес кылуу кыйын.
+2. **Идиштерге уруктарды отургузуу.** Alzheimer’s Foundation of America уруктарды кичине идиштерге отургузуп, [алардын өсүшүн байкоону](https://alzfdn.org/dementia-activity-gardening/) сунуштайт. Буурчак, күн карама же буурчак сыяктуу чоң уруктарды кармоо оңой.
+3. **Гүлдөрдүн солгонун үзүү.** Соңуп калган гүлдөрдү кол менен үзүп алуу — жумшак, кайталануучу иш. Тикенексиз өсүмдүктөрдү тандаңыз.
+4. **Жашылча же чөп терүү.** Черри помидорлорун, буурчакты жана чөптөрдү терүү оңой жана даамын көрүү жагымдуу. Түшкү тамакка колдонуу үчүн үйгө алып кириңиз.
+5. **Чөптөрдүн жытын сезүү жана кармоо.** Розмарин, жалбыз жана лаванда күчтүү, жагымдуу жыт чыгарат. Жалбырактын бирин манжаларыңыздын арасында сүртүп, жыттап көрүүгө сунуштаңыз.
+6. **Жолду же аянтчаны шыпыруу.** Теңгирликте туруу туруктуу болсо, тегиз, кургак жерде жеңил шыпыргы колдонсо болот.
+7. **Куштарды жемдөөчү идишти толтуруу.** Андан кийин ким келет деп бирге отуруп байкаңыз.
 
-### Indoors, when going out is not possible
+### Сыртка чыгуу мүмкүн болбогондо, үй ичинде
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Терезе алдындагы чөп бакчасы** — базилик, петрушка же шнит-пияз.
+- **Үстү жабылган үстөлдө отургузуу.** AFA топуракты бир жерде кармоо үчүн ашкана табактарын колдонуп, топуракты кичине чынылар менен жылдырууну сунуштайт.
+- **Гүл түзүү** — короодон же дүкөндөн алынган кесилген гүлдөр жана жалбырактар менен.
+- **Гүл кургатуу** — букеттен алып, кийинчерээк открыткага жапшыруу. Көбүрөөк идеялар үчүн [кол өнөрчүлүк жана чыгармачылык](/activities/arts-and-crafts/) бөлүмүн караңыз.
+- **Лаванда же роза капчыктарын жасоо** — AFA сунуштаган дагы бир ыкма, бакчанын жытын үйдүн ичинде сактоого жардам берет.
 
-### Getting out and about
+### Үйдөн чыгып бара турган жерлер
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Кыска сейилдөө** — кварталдын айланасында, сейилбакта же бакча дүкөнүндө жай темп менен, отура турган жери бар жерде.
+- **Сыртта отуруу** — подъездде же отургучта канаттуулардын үнүн угуп, шамалды сезүү. Бул өз алдынча толук иш-аракет.
+- **Коомдук бакчага баруу** — күндүн тынч маалында. NHS кээ бир жерлерде жыттуу өсүмдүктөрү, ар түрдүү текстуралары жана суу кооздуктары бар сезүү бакчалары болорун белгилейт.
+- **Үйрөктөрдү жемдөө же канаттууларды байкоо** — жергиликтүү көлмөнүн жээгинде, суудан коопсуз аралыкта туруп.
 
-## How do I make a garden easier to use?
+## Бакчаны колдонууну кантип жеңилдетсем болот?
 
-Bring the garden up to the person, not the other way around.
+Бакчаны адамга жакындатыңыз, адамды бакчага ыңгайлаштырууга аракет кылбаңыз.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Бөлк бийиктигиндеги көтөрүлгөн грядкалар же бийик идиштер** тизеленүүнү жана эңкейүүнү керек кылбайт.
+- **Үстөлдөгү идиштер** дөңгөлөктүү отургуч колдонгон же отуруп иштөөнү каалаган адамдарга ылайыктуу.
+- **Кең, тегиз жолдор** — бош таштарсыз жана жолдо жаткан шлангдарсыз, мүдүрүлүп кетүү коркунучун азайтат.
+- **Колтукчасы бар отургучтар жана көлөкө** — жол боюнда эс алуу дайыма мүмкүн болушу үчүн.
+- **Калың, жумшак туткасы бар аспаптар** — кармоо оңой. Секаторлорду, бычактарды жана курч нерселердин баарын колдонуудан алыс болуңуз.
+- **Кулпуланган дарбазасы бар короолонгон аймак** — сиз жанында болгондо адам эркин жүрө алат.
 
-## Which plants should I avoid?
+## Кайсы өсүмдүктөрдөн алыс болуу керек?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Колго тийүүгө коопсуз, мүмкүн болсо даамын көрүп алса да коопсуз болгон өсүмдүктөрдү тандаңыз. AFA терини адатта дүүлүктүрбөгөн өсүмдүктөрдү колдонууну, аллергияны текшерүүнү жана топуракты тамак деп жаңылышы мүмкүн адамдарды жакшылап байкоону кеңеш берет. NIAнын үйдөгү коопсуздук боюнча кеңештерине уулуу өсүмдүктөрдү алып салуу же кулпулоо да кирет.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Тикенектүү розалардан, кактустардан жана терини дүүлүктүрүүчү ширеси бар өсүмдүктөрдөн алыс болуңуз.
+- Ишенимсиз өсүмдүк болсо, отургузуудан мурун ууланууга каршы борбордон же жергиликтүү бакча дүкөнүнөн сураңыз.
+- Тааныш сүйүктүү өсүмдүктөр жагымдуу сезимдерди ойготушу мүмкүн. AFA мисал катары розаны жана рождестволук кактусту айтат. Тикенексиз түрлөрүн тандаңыз.
+- Жер семирткичтерди, зыянкечтерге каршы каражаттарды жана чөп жок кылуучу заттарды кулпуланган жерде сактаңыз жана адам жете турган жерлерде колдонбоңуз.
 
-## How do I stay safe in the heat and sun?
+## Ысыктан жана күндөн кантип коопсуз болсом болот?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Ачык абадагы убакытты аба ырайына жараша пландаңыз. NIA улгайган адамдарда [ысыктан улам ооруу](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults) коркунучу жогору экенин түшүндүрөт. Мунун себептеринин бири — организм температуранын өзгөрүшүнө анча жакшы ыңгайлаша бербейт жана айрым дары-дармектер организмдин ысыкты кабыл алуусуна таасир этет.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Эрте же кечирээк чыгыңыз.** Жылуу айларда күндүн ортосунан алыс болуңуз. Жөн эле температураны эмес, ысык индексин текшериңиз.
+- **Сууну тез-тез сунуштаңыз.** Адам өзү суусаганын айтканын күтпөңүз. Ысыкта алкоголдон жана кофеин бар суусундуктардан алыс болуңуз.
+- **Ылайыктуу кийим кийгизиңиз.** Ачык түстүү, кенен кийим, кенен полялуу шляпа жана күн көз айнек.
+- **Күндөн коргоочу крем колдонуңуз.** NIA кең спектрдеги SPF 15 же андан жогору кремди сунуштайт жана күн ичинде кайра surtүү керектигин белгилейт.
+- **Көлөкөнү тандаңыз.** Отургузуу үстөлүн дарактын же кол чатырдын астына коюңуз.
+- **Кыска кармаңыз.** Айрыкча ысык күндөрү сыртта бир аз убакыт болуу эле жетиштүү болушу мүмкүн.
+- **Коркунуч белгилерин байкаңыз.** NIA ысыктан оорунун мүмкүн болгон белгилери катары баш ооруну, абалдын чаташуусун, баш айланууну же жүрөк айланууну айтат. Деменция менен жашаган адам өзүн начар сезип жатканын айтпай коюшу мүмкүн, ошондуктан жүзүн жана жүрүм-турумун байкаңыз. Үйгө кирип, суу жана салкын нымдуу ткань менен муздатыңыз. Абалы тез жакшырбаса, медициналык жардам сураңыз. Эсинен тануу, абалдын чаташуусу же кургак, kızарган тери сыяктуу белгилери бар ысык соккусу — бул өзгөчө кырдаал: 112ге чалыңыз.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Суук аба ырайы да маанилүү. Кышында сыртта болуу убактысын кыска кармаңыз жана кол менен бут жылуу, кургак болушун текшериңиз.
 
-## How do I handle wandering when we go outside?
+## Сыртта жүргөндө адашып кетүүнү кантип алдын алабыз?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Адам сыртта болгондо дайыма жаныңызда болуңуз. Alzheimer’s Association [деменция менен жашаган 10 адамдын 6сы](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) жок дегенде бир жолу адашып кетерин, көбү бир нече жолу кетерин билдирет. Бул оорунун каалаган этабында болушу мүмкүн.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIAнын [адашып кетүү жана жолду таап албай калуу боюнча кеңештерине](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) төмөнкүлөр кирет:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Адамдын аты, дареги жана телефонуңуз жазылган жеке маалымат же медициналык билериги тагылганын текшериңиз же кийимине белги салыңыз.
+- Адамдын жакында тартылган сүрөтүн же видеосун сактаңыз.
+- Кошуналарга адам адашып кетиши мүмкүн экенин айтыңыз.
+- Корону тосмо жана кулпуланган дарбаза менен коопсуз кылыңыз.
+- Мурда адашып кеткен адамды көзөмөлсүз калтырбаңыз.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer’s Association ошондой эле коопсуз аралап жүрүүгө боло турган ички жана тышкы аймактарды түзүүнү жана тынчсыздануу көбүрөөк болуучу убакытка иш-аракеттерди пландаштырууну сунуштайт. Коопсуз, короолонгон бакчада сейилдөө күндүн экинчи жарымындагы тынчсызданууга ылайыктуу болушу мүмкүн. [Күндүн экинчи жарымындагы тынчсыздануу](/caregiving/late-day-restlessness/) боюнча кеңешибизди караңыз.
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Эгер адам жоголуп кетсе, Alzheimer’s Association жакын аймакты дароо издөө жана 15 мүнөт ичинде табылбаса 112ге чалууну сунуштайт. Полицияга адамда деменция бар экенин айтыңыз.
 
-## How do I adapt gardening as things change?
+## Абал өзгөргөндө бакча иштерин кантип ыңгайлаштырам?
 
-| If this has become hard | Try this instead |
+| Эгер бул кыйын болуп калса | Анын ордуна муну сынап көрүңүз |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Бүт грядканы отургузуу | Бир идишке бир урукту отургузуу |
+| Отоо (чөптү өсүмдүктөн айырмалоо) | Сугаруу же айкын көрүнгөн солгон гүлдөрдү үзүү |
+| Бакчанын ичинде жүрүү | Топурак жана өсүмдүк салынган табак менен үстөлдө отуруу |
+| Такыр сырткка чыкпоо | Ашкана үстөлүндөгү чөп идиши же ачылган терезе жанында отуруу |
+| Эч нерсе кылбоо | Сыртта бирге отуруп, угуу жана көрүү |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Кээ бир адамдар сиз иштеп жатканды көргөндү жактырат. NIA адам жөн эле көргүсү келсе, муну эле кылып отурушу жакшы экенин белгилейт.
 
-## When should we head inside?
+## Качан үйгө кирген туура?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Адам чарчаган, ысыган, тоңгон, ыңгайсыз болуп же токтогусу келгендей көрүнсө, үйгө кириңиз. Кыска, жагымдуу он мүнөт — капа болуп аяктаган узак түштөн жакшы. Эрте токтоо — жакшы жыйынтык.
 
-## Bring the garden indoors on screen
+## Бакчаны экран аркылуу үйгө алып кириңиз
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Жамгыр жааган күндөрү [Sort Together](/games/sort-together/) оюнунда сүрөттөрдү иреттөөгө арналған бакча себети бар, ал эми [Conversation Cards](/games/conversation-cards/) бакча тууралуу эскерүүлөргө алып баруучу ачык суроолорду камтыйт. Ысыктан шашып кирип келсеңиз, [Calm Breathing](/games/calm-breathing/) бирге бөлүшө турган жай, тынч тыныгуу мүмкүнчүлүгүн сунуштайт. Тийүү, жыт жана үн менен байланышкан дагы идеялар үчүн [сезүү иш-аракеттери боюнча кеңешибизди](/activities/sensory/) караңыз.

@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: Kəla kajiri ngəla kasken kange"
+seoTitle: "Sundowning: Kəla kajiri ngəla kasken"
+description: "Adaduwa ngəla, faltə nzəkko-a kəla kajiri-a dawari dementia-a kərma lan tawatkəna-a banazayin, kuru sa liyitara kulashiye mbeji."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning shi tawatkəna, hangal gəmtə, au gərgataa kajiri au bune badizayin
+  au ngəwuro waljin. Alama-a banazayin ma-a: adaduwa kawu yakkə, kange-a kəla
+  kajiri-a kantəga-a kausu lan, kənəm kajiri lan ngəwu gənatənyi, kafee ngəwu
+  yanyi, fatobe-a kange kəlakəlajin kawu kange cizənyi, fato-a wasaramma, kuru
+  kəla kajiri ngəla-a sura kəla, foto au kazəmu kənzəmbe-a. Alama bərin au
+  ngəwuro walzəna-a liyitara kulashiye mbeji.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning shi tawatkəna au hangal gəmtə kange cizəyin sa badizayin au ngəwuro waljin."
+  - "Cida dunoma-a, fato-a luwotə-a kuru kasala-a kantəga au kajiri kausu lan də."
+  - "Kange-a kəla kajiri-a, lele kawu yakkə, kənəm kajiri lan ngəwu gənatənyi-a kuru kafee kajiri lan ngəwu yanyi-a bune-a ngəla roajin."
+  - "Kawu kange cizənyi fatobe-a kəla ro, kowo-a fulusne, kuru kəla kajiri ngəla-a notəna-a də."
+  - "Ruwo dəgəne dalil-a asutəro, kuru tawatkəna badizayin sa hangal kəman kuru barga də."
+  - "Alama bərin au ngəwuro walzəna sa liyitara kulasne: zazzabi, dondi au kurun-a dalil ro waljin."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Sundowning sa adin badizayin?"
+    a: "Ngəwuso kajiri au bune badizayin sa, kange cizəyin sa. Sa-a kam fallo-a gade, adə nanka ruwo gana-a satiye fal au indi lan dəgəne banazayin."
+  - q: "Kəla kajiri fi-a sundowning lan banazayin?"
+    a: "Kajiri lan kəla kajiri ngəla-a, notəna-a, ngəla dioma-a: sura hangal kənzaana, foto rui, TV au film manazəna, kazəmu kənzəmbe, lele gana, au kəmowu so bǝlin. Kəla bǝrin au dunoma-a kantəga-a də."
+  - q: "Sundowning shi alama kəla lafiya ye wa?"
+    a: "Kəla lafiya-a gade-a ngəwuro walzayin, misallo zazzabi, dondi (misallo dondi duwulbe), kənəm kəla ngəla gənatənyi au kurun alamaram nzakkobe. Tawatkəna bərin, loktu tilon badizəna au ngəwuro walzəna sa, liyitara kam kəla nzasərautəma ye-a kulasne."
+  - q: "Liyitara-a kurun sundowning ye-a kəlanzəgə wa?"
+    a: "Adə mana liyitara-a so kəlanzəgə mbeji. Alzheimer's Association ye gulzəna kəla kurun ba-a burwon dioma mbeji, kuru kurun bune tawatkəna ye-a faida-a kuru tajirwa-a kulashiro ngawon notəgə. Warak adəye shawari kurun bəyin ba."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Yalla ngəwu adaduwa falnotəna: kantəga-a naptə, amma kajiri cizəna sa, kam dementia-a kərma lan zakkata tawatkəna, hangal nzakkata, hangal gəmtə au gərgataa badizayin. Shi lejin, "fato-a letə" guljin fato-a karga yaye, au loktu gana lan gərgajin. Adə-a ngəwuso sundowning lan bowojin.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Lamarra fal tilo dəganyi, amma adaduwa kawube-a, fato-a kuru kəla kajiri nzasərayin-a faltə kajiri-a ngəlaro walzayin. Warak adəye shawari kəla amari ba-a National Institute on Aging-a kuru Alzheimer's Association-a mbeji. Adə shawari liyita ba. Alama bərin, loktu tilon badizəna au ngəwuro walzəna sa, liyitara kam kəla nzasərautəma ye-a kulasne.
 
-## What is sundowning?
+## Sundowning awo?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning shi tawatkəna, hangal nzakkata, gərgataa au hangal gəmtə kange cizəyin sa, kajiri au bune badizayin au ngəwuro waljin. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ye gulzəna kərtəna ngəwu-a kajiri tawatkəna-a ngəwuro zaktin.
 
-## What can make late-day restlessness worse?
+## Awo kajiri tawatkəna-a ngəwuro zaktin?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Kəla ngəwu-a dalil ro waljin, ngəwuso kəlanzəgə ro. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) ye dalil adə-a uluzəna:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- kawu samma kərtəna;
+- na bərin au hangal gəmatəna;
+- "saatə tibe-a" kalkal zakkata, kam-a kantəga lan kənəm ngəlaro au bune lan kənəm ngəlaro gənyiro zaktin;
+- kange gana-a kuru kaunu, hangal-a gəmatin;
+- hangal nzakkata au gərgataa am dawube-a asutə;
+- kənəm gana manazəna, adə kam ngəwu kuraye lan tedin.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA ye dalil gade-a tawatkəna ye-a kəlanzəna, misallo zazzabi, hangal bannatə, hangal nzakkata, kənəm gana, suro ci dəganyi, kowo ngəwu au am ngəwu, kuru kurun-a gade au kurun kəlanzəgə.
 
-## How can I plan the day to make evenings calmer?
+## Kawu-a futu nzasəkki bune-a ngəlaro walzəro?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Cida dunoma-a kausu lan dəne, kuru kajiri-a naptəro kuru notənaro də. NIA-a kuru Alzheimer's Association-a adaduwa kawu yakkə-a shawariro cedin. Misal kawu ye, nəm ngawon faltəne:
 
-| Time | What may help |
+| Sa | Awo banazayin |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Kantəga | Liyitara rui, kasala, fato-a luwotə kuru cida dunoma samma, am ngəwu hangal kənzamben sa |
+| Kantəga dawari | Kange cidi au windo kangebe cidi sa; lele au kəla gade |
+| Dabar | Kəmowu ngəwu (Alzheimer's Association ye dabar kəmowu kura-a kuru bune kəmowu gana-a shawariro cedin) |
+| Kajiri kausu | Tussəne mbejiya tussəne, amma kənəm kuruwu kajiri lan gənatənyi |
+| Kajiri dawari | Kəla kajiri ngəla-a notəna-a; kəmowu gana-a kuru nzundu-a; kafee ba |
+| Kange cizənyi kawuro | Fato cidiben fatobe-a kəla ro kuru tagalamme-a zabne kange cizənyi kawuro |
+| Bune | Kəmowu gana, sura wasaramma, hangal nzakkata ba, adaduwa kənəmbe notəna |
 
-A few specific points from the sources:
+Kəla gana shawari cidibe-a:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Kange kəla kajiri-a.** NIA ye kawu yakkə kange cidi au windo cidi sa naptə-a shawariro cedin.
+- **Lele kawu yakkə, amma ngəwu gənatənyi.** Kawu yakkə tibe-a nzakkoro, amma kəla ngəwu gənatənyi, NIA ye gulzəna.
+- **Kajiri nzundu-a.** Kajiri lan barasa-a kuru nzundu kafee-a (misallo kafee au kola) gənatəne (NIA). Alzheimer's Association ye nikotin-a kəlanzəna.
+- **Kənəm kantəgabe.** Kənəm kuruwu-a kuru kənəm gana kajiri lan gənatəne (NIA). Alzheimer's Association ye bune kənəm kəla ngəla mbejiya, kantəga kənəm-a gana ro gənatə-a shawariro cedin.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Kawu notəna-a nzasaktəro, [kəla adaduwa kawube](/activities/daily-routine/) rui.
 
-## How can I make the home calmer in the late afternoon?
+## Kajiri lan fato-a futu naptəro nzasəkki?
 
-Reduce noise, add light and keep familiar things close.
+Kowo-a fulusne, kange-a kəlakəlane, kuru kəla notəna-a karəngen də.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Kange ngəla-a kəlakəla-a.** Alzheimer's Association ye bune fato-a kange ngəla ro dəgə-a shawariro cedin. Kaunu fulezənyi kawuro kange-a kəla ro.
+- **Kowo gana.** TV-a kuru rediyo-a cinne au fulusne, kuru sa adə lan am isayin au cida fato ngəwu-a gana ro də. Alzheimer's Association ye bune kəla hangal nzakkata-a (misallo TV, cida fato au sura kura) gana ro dəgə-a shawariro cedin.
+- **Kəla notəna-a hangal kənzaana.** NIA ye sura hangal kənzaana-a kuru kəla-a foto-a manazəna-a fato lan dəgə-a shawariro cedin.
+- **Naptə kulashi.** Alzheimer's Association ye zazzabi, kəna, ngudu, suro ci dəganyi, duwul kəmbu, kərtəna, dondi-a kuru kəli kazəli-a kulashi-a, kuru fato-a nangaro yaye ngəla ro dəgə-a shawariro cedin.
+- **Hangal nəm ngawon.** Am hangal nzakkata-a asutin. NIA ye nəm ngawon hangal nzakkata-a ngəwuro zaktin ma hangal kəman dəne, lele dəne kuru naptə-a matə.
 
-## What calm activities can we do in the late afternoon?
+## Kajiri lan kəla kajiri ngəla fi-a diye?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Kəla notəna-a, lele-a kuru dazəgə ngəla-a kartəne. Alzheimer's Association ye kəla kajiri ngəla-a (misallo sura hangal kənzaana, foto au film manazəna) kuru kəlanzəgə lele-a tawatkəna-a fulusnero shawariro cedin. NIA ye kəmowu gana au nzundu, TV manazəna, sura, lele, karatu, au cida fato gana misallo kazəmu kənzəmbe-a shawariro cedin.
 
-Ideas to try:
+Aburo matəne:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Kazəmu kəlanzəgə kənzəmbe.** NIA ye cida fato gana adə-a shawariro cedin. Tawul ngəla ro gotə, kuru cidabe dawu-a notəna.
+2. **Sura manazəna kəlane.** Sura sa nguwu mbejibe-a, kowo gana lan. Lawa kəlanzəgə dioma. Shawari gade [kəla surabe](/activities/music/) lan mbeji.
+3. **Foto rui.** Foto kitawu, au foto yalla gana [Photo Pairs](/games/photo-pairs/) lan foto-a fulezəna ro də, mana naptə-a badizayin.
+4. **Lele gana le.** Bostan lan, layi lan au soron cidiben, kange cizənyi kawuro.
+5. **Kəmowu gana-a kuru nzundu-a bǝlin.** Kəla gana, kange yaye kuru kafee ba-a, kəlanzəgə tebur lan.
+6. **Kəltə ngəla.** [Picture Pairs](/games/picture-pairs/) tayil degə-a kuru foto-a fulezəna-a badizəgə-a kuru dazəgə-a ngəla.
+7. **Kala kəla.** [Coloring](/games/coloring/) allo lan au warak lan, dazəgə nəmngalwo ba ro.
+8. **Rui kuru mana.** [Conversation Cards](/games/conversation-cards/) ye foto-a kuru koro ngəla-a cedin. Rui tilo-a kəman.
+9. **Yiwolisə tussəna.** [Calm Breathing](/games/calm-breathing/) shi tussəna lele-a kuru naptə-a, nəm ngawon badizənəm kuru dazənəm.
+10. **Muskobe cida.** Buton au suro jili, bərdi ngəla kalashi, au kəla notəna gotə. [Kəla hangalbe](/activities/sensory/) rui.
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Kəla bərin, luwotə am ngəwu-a kuru kəla hangal au taktə ngəwu manajin-a kajiri lan kolne. Kantəga-a də.
 
-## What should I do when restlessness starts?
+## Tawatkəna badizəyin sa, abi dikki?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Hangal kəman dəne, barga də, kuru lele ro faltəne. NIA ye hangal kəman lan manazə, hangal nzakkata kambe-a fanəgə, kəlaŋkəla koltə, shi naptəro walzəna-a barga dəgə, kuru banazəyin ma musko ngəla lan gotə-a shawariro cedin. Ngawo adəyen faltə: kəmowu gana, nzundu, sura au lele.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association ye mana adə-a: «Ndə na adə lan naptəro» kuru «Hangal nzakkata nəmma-a ngarəndi», kuru gulzəna kange-a kəlakəlane, lele dəne kuru kəla hangal nzakkata-a gana ro də. Kamdə-a na falro gərtəyin, zaktəyin au rotəyin ba, kuru kəlaŋkəla diyin ba.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Kamdə gərgataa badizəyin ma, NIA ye hangal nzakkata dazəyin ro naptəro na cidiyen dəgə-a shawariro cedin. Kəla tajirwa sa, 112 bowone kuru kamdə dementia-a kərma lan zakkata-a fəletəgəne.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+[Manabe kəla](/caregiving/communication-tips/) kuru [shi «a'a» gulzəyin sa awo diyo](/caregiving/when-they-say-no/) cidiyen mana ngəla-a bayin.
 
-## How do I find the triggers?
+## Dalil-a futu asukki?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Satiye fal au indi lan ruwo gana dəgəne. Alzheimer's Association ye sundowning kawu isayin sa awo badizəyin-a ruwo lan dəgə-a shawariro cedin, dalil-a asutəro. Tawatkəna badizəna sa-a, saatə fal kawuro awo kədio-a, kənəm, kəmowu-a kuru nzundu-a, am isayin-a, kowo-a kuru kange-a ruwo ne. Ruwo adə-a liyitara ro yade. NIA ye adaduwa faltə-a ruwo lan dəgə banazəyin-a kəla nzasərautəma-a kuru liyitara-a adaduwa-a asutəro banajin-a gulzəna.
 
-## When should I call a doctor about sundowning?
+## Sa adin sundowning ye-a liyitara-a kulaskə?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Tawatkəna bərin, loktu tilon ngəwuro walzəna, au faltə gade-a kəlanzəgə sa liyitara kam kəla nzasərautəma ye-a kulasne. NIA ye adaduwa faltəbe loktu tilon au duwan duwan faltəna-a, dondi ngawo au kurun faltəna ngawo, liyitara-a duwanro kulashiye mbeji-a gulzəna.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Liyitara-a kəla bune-a ngəwuro zaktin-a kulashiro korəne. Alzheimer's Association ye kəla lafiya-a (misallo dondi duwulbe, duwul rotənyi, shi tawatkəna, kənəm lan yiwolisə kəla) uluzəna, kuru kurun ye fi sa adin ngəla-a korə-a shawariro cedin. NIA ye zazzabi, suro ci dəganyi-a kuru kurun alamaram nzakkobe au kurun kəlanzəgə-a dalil ro tawatkəna ye-a uluzəna.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association ye kənəm kəla ngəla Alzheimer's-a kəlanzəna-a kurun ba-a burwon ngəla-a shawariro cedin, kuru kajiri tawatkənabe kurun-a faida-a kuru tajirwa-a kulashiro ngawon notəgə-a gulzəna. Shawari adə liyitara ye mbeji. Shawari liyita ba ro kurun, kənəm kurun au kəla gade-a badizənəmmi, dazənəmmi au faltənəmmi.
 
-## How do I get through the evenings myself?
+## Bune lan nəm ngawon futu banaski?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Kajiri-a sa kəla nzasərautəma ye-a kərən kura wo. Diyə ma, yalla fato ye, sawa au kam bana cidama-a kajiri satiye lan yaye, saatə fal ro yaye, banaro korəne. [Kəla nəm ngawon kəla nzasərautəma ye](/caregiving/caregiver-self-care/) cidiyen bana-a kuru banabe layin bowotə Alzheimer's Association ye 24/7 ba-a mbeji.

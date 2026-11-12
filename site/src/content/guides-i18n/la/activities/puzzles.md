@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzle pro hominibus cum dementia"
+seoTitle: "Puzzle pro dementia: imagines et verba"
+description: "Quomodo eligantur puzzle imaginum, verborum et in interreti pro homine cum dementia: magnitudo partium, imagines, litterae magnae et ludus communis."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Optimum puzzle pro homine cum dementia est id, quod cum paulo auxilii
+  perficere potest et inter agendum iuvat. Eligite puzzle imaginum cum
+  paucioribus et maioribus partibus et imagine clara pro adultis, imaginem
+  capsulae in conspectu tenete et partes marginis primum seponite.
+  Investigationes verborum et cruciverba optime valent litteris magnis impressa.
+  Faciliora puzzle in interreti cum 4 partibus medio gradui apta sunt. Desinite,
+  dum iucundum est.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Eligite secundum usum, non secundum gradum: si puzzle laboriosum videtur, probate unum cum paucioribus partibus."
+  - "Magnae et firmae partes atque imago clara cum distinctis areis colorum faciliores sunt quam parvae partes et magni caeli."
+  - "Imagines pro adultis magni momenti sunt. Horti, culinae, autocineta et animalia, non imagines pueriles."
+  - "Una agere est propositum. Tradite partes, seponite margines, tenete operculum capsulae in conspectu."
+  - "Investigationes verborum litteris magnis impressae et facilia puzzle in interreti cum 4 aut 9 partibus in hoc situ gratis praebentur."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Quot partes puzzle optimae sunt homini cum dementia?"
+    a: "Non est unus numerus rectus. Aliquis, qui olim puzzle ex 1,000 partibus faciebat, initio fortasse adhuc paucas centenas iucundas inveniet, dum alii optime agunt cum circiter duodecim magnis partibus. Si puzzle laboriosum videtur aut molestiam affert, transite ad pauciores partes. Nostrum puzzle imaginum in interreti habet 4 aut 9 partes."
+  - q: "Suntne puzzle imaginum utilia hominibus cum dementia?"
+    a: "Multi ea iucunda inveniunt, praesertim si antea puzzle amabant. Puzzle manibus aliquid agendum dat, propositum clarum et imaginem, de qua colloqui licet. Nullum puzzle ostendit se dementiam curare aut tardare, itaque ea eligite propter voluptatem et societatem."
+  - q: "Quid facere possum, cum aliquis iam puzzle imaginum tractare non potest?"
+    a: "Facite id minus et plura ipsi facite: tradite unam partem singillatim aut relinquite ei tantum paucas ultimas partes. Probate puzzle in interreti cum 4 partibus, partes secundum colorem digerite aut simpliciter imaginem perfectam una aspicite."
+  - q: "Aptane sunt cruciverba et investigationes verborum hominibus cum dementia?"
+    a: "Possunt apta esse in gradu primo, litteris magnis impressa. Investigationes verborum, in quibus verba solum transversa et deorsum currunt, faciliores sunt quam eae cum verbis obliquis aut retro scriptis. Legite indicia aut indicem verborum clara voce et una laborate."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Puzzle imaginum in mensa cenatoria expansum est una ex facillimis actionibus communiter participandis. Una sedere potestis sine multa locutione, imago dat materiam colloquii, et ultimam partem imponere gratum est. Puzzle tamen mutari debent, cum dementia mutatur. Puzzle nimis difficile post meridiem tranquillum in molestum convertere potest. Haec pagina explicat, quomodo eligantur et praeparentur puzzle imaginum, ludi verborum et facilia puzzle in interreti, et quid faciendum sit, cum difficilia fiunt.
 
-## Are puzzles good for people with dementia?
+## Suntne puzzle utilia hominibus cum dementia?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Multi ea iucunda inveniunt, praesertim ii, qui antea puzzle faciebant. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) investigationes verborum, ludos chartarum et ludos tabulares inter actiones gradus primi numerat, et [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ludos et puzzle in tabulis computatoriis inter modos manendi intentum commemorat.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzle non sunt curatio. Nullum puzzle ostendit se dementiam tardare aut sistere; dux noster de [ludis mentis et dementia](/brain-health/brain-games/) investigationem explicat. Causa puzzle faciendi est, quod hora iucunda et intenta una esse potest. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ita breviter dicit: voluptatem, non effectum spectate.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Quomodo eligendum est puzzle imaginum pro homine cum dementia?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Spectate ea, quae homo iucunda invenit et quomodo ultimum puzzle processit, non titulum gradus.
 
-### Number of pieces
+### Numerus partium
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Non est numerus rectus. Qui per totam vitam puzzle faciebat, initio fortasse adhuc paucas centenas partes iucundas inveniet, dum alius cum circiter duodecim contentissimus est. Regula practica: si ultimum puzzle laboriosum visum est, eligite unum cum fere dimidio partium. Si cito perfectum est et plura cupiebat, paulum augere potestis.
 
-### Piece size and feel
+### Magnitudo et forma partium
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Maiores partes** facilius videntur, capiuntur et vertuntur.
+- **Crassae et firmae partes** loco manent et deiectae melius durant.
+- **Superficies non nitida** splendorem sub lampadibus et fenestris minuit.
+- **Vitate parvas partes**, si homo fortasse res in os ponere potest, quod postea in dementia accidere potest.
 
-### The picture
+### Imago
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Res pro adultis.** Horti, culinae, autocineta vetera, animalia rustica, oppidum maritimum, studium carum. Non imagines pueriles nec res, quae ludibrium puerile videntur.
+- **Distinctae areae colorum.** Horreum rubrum, navicula caerulea et ager viridis faciliora sunt quam caelum, quod dimidium puzzle occupat.
+- **Res familiares et personales.** Imago loci, ubi homo habitabat, aut studii, quod amabat, multas occasiones colloquendi praebet. Nonnullae officinae photographiam familiae in puzzle imaginum convertere possunt.
 
-## How do you do a puzzle together?
+## Quomodo una puzzle faciendum est?
 
-Set it up so the person can get straight to the enjoyable part.
+Ita praeparate, ut homo statim ad partem iucundam venire possit.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Locum idoneum eligite.** Lumen bonum, sella cum fulcris brachiorum et mensa aut tabula, ubi puzzle manere potest.
+2. **Operculum capsulae erigite**, ut ambo id videre possitis.
+3. **Partes facie sursum vertite**, antequam incipiatis.
+4. **Partes marginis seponite** ipsi, aut marginem primum facite et medium ei relinquite.
+5. **Partes secundum colorem digerite** in pauca vasa humilia aut patellas.
+6. **Tradite unam partem singillatim**, si acervus nimius videtur. "Puto hanc partem ad horreum pertinere."
+7. **De imagine loquimini,** non de progressu. "Hoc naviculae simile est, quam pater meus habebat."
+8. **Puzzle in loco relinquite.** Per plures dies ad id redire potestis. Nulla festinatio est.
+9. **Bono momento desinite,** postquam pars imposita est, dum adhuc iucundum est.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suadet, ut homini initium faciendum adiuvetis, molestiam observetis et eum simpliciter spectare sinatis, si hoc ei magis placet. Vos partes imponentes spectare et ostendere, ubi pars poni possit, etiam est participare.
 
-## Easy online puzzles
+## Faciliora puzzle in interreti
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Puzzle in tabula computatoria commoda vera habet: nullae partes amissae, magnae imagines quae totum scrinium implent, et nulla mensa purganda.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Nostrum gratuitum [Picture puzzle](/games/picture-puzzle/) imaginem in 4 aut 9 partes secat. Tangite duas partes, ut eas permutetis, donec imago integra sit. Imago perfecta in scrinio manet ut dux, nullum horologium est, et quovis momento desinere potestis. Quattuor partes multis hominibus in gradu medio aptae sunt, si aliquis prope adest.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Pro ludo imaginum etiam simpliciore probate [Find the same](/games/find-the-same/), ubi imaginem tangitis, quae imagini superius positae respondet, aut [Sort together](/games/sort-together/), ubi imagines in corbes ponuntur, ut in culinam aut in hortum.
 
-## Word puzzles: word searches and crosswords
+## Ludi verborum: investigationes verborum et cruciverba
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Ludi verborum eis apti sunt, qui eos semper amabant, plerumque priore in dementia.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Investigatio verborum litteris magnis.** Nostra gratuita [Word search](/games/word-search/) magnis litteris utitur et pauca tantum verba habet, quae transversa et deorsum currunt, numquam oblique aut retro. In scrinio ludere aut imprimere potestis.
+- **Indicem clara voce legite.** Unus verbum legit, alter id quaerit. Satis est etiam solam primam litteram circumscribere.
+- **Cruciverba litteris magnis** ex libris aenigmatum initio apta esse possunt. Indicia clara voce legite, stilum communiter tenete et responsa una implete. Cruciverba facilia et certo argumento aptiora sunt quam difficilia.
+- **De verbis colloquimini.** "Hortus" ad decem minuta de lycopersicis ducere potest.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Plures actiones chartaceas et consilium, quomodo eas imprimatis, ut facile videantur et teneantur, invenietis in [actionibus gratuitis imprimendis pro dementia](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Quae puzzle cuique gradui apta sunt?
 
-Stages overlap, and good and hard days are normal.
+Gradus inter se transeunt, et dies boni difficilesque communes sunt.
 
-| Stage | Puzzles that often fit | Your role |
+| Gradus | Puzzle quae saepe apta sunt | Partes vestrae |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Primus | Puzzle imaginum familiaria cum paucioribus partibus quam antea, cruciverba et investigationes verborum litteris magnis, puzzle in interreti cum 9 partibus | Socius: sinite eum eligere, adiuvate cum rogati estis |
+| Medius | Puzzle imaginum cum circiter duodecim magnis partibus, puzzle in interreti cum 4 partibus, investigatio verborum una clara voce lecta | Praeparate, partes digerite, tradite unam partem singillatim |
+| Posterior | Imaginem perfectam una aspicere, Find the same cum duabus imaginibus, paucas magnas partes tractare | Ad eum afferte; societas vestra est ipsa actio |
 
-## When should you make a puzzle easier, or stop?
+## Quando puzzle facilius reddere aut desinere debetis?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Animadvertite suspiria, partes reiectas, verba saepe repetita "Non possum" aut vultus sollicitos. Haec signa sunt aliquid mutandum esse, non perseverandum.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Facite id minus.** Pauciores partes, aut relinquite ei tantum paucas ultimas.
+- **Plura ipsi facite** et eum invitate, ut in partibus facilibus adiuvet.
+- **Transite ad rem propinquam:** partes secundum colorem digerere, puzzle in interreti cum 4 partibus aut [coloring](/games/coloring/).
+- **Desinite.** Seponite id et poculum theae sumite. Alio die redire potestis, aut omnino non.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Si puzzle admonitionem eorum, quae difficilia sunt, fieri incipiunt, licet ea omittere. Multae aliae viae sunt tempus bonum una agendi; nostrae [101 notiones actionum](/activities/ideas/) bonus locus sunt, unde incipiatis.
