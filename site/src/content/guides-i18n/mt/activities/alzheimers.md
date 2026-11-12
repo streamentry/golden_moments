@@ -21,7 +21,7 @@ keyPoints:
   - "L-ħarsa, iż-żamma ta' xi ħaġa jew il-qagħda flimkien kollha jgħoddu bħala parteċipazzjoni."
 faq:
   - q: "X huma attivitajiet tajbin għal persuna b'Alzheimer?"
-    a: "Attivitajiet familjari sempliċi ftit: tiekol il-ħwejjeġ, tpoġġi l-mejda, tisjiru flimkien, il-mużika u l-kant, ħarsa lejn ritratti, il-mixi, l-ġardinaġġ u l-ħin ma' annimal domestiku. Logħbiet sempliċi bl-istampi, puzzles faċli u karti ta' konverżazzjoni jaħdmu wkoll għal ħafna nies. Agħżel dak li l-persuna dejjem igawdi u agħmlu flimkien magħha."
+    a: "Attivitajiet familjari sempliċi ftit: tiffoldja l-ħwejjeġ, tpoġġi l-mejda, tisjiru flimkien, il-mużika u l-kant, ħarsa lejn ritratti, il-mixi, l-ġardinaġġ u l-ħin ma' annimal domestiku. Logħbiet sempliċi bl-istampi, puzzles faċli u karti ta' konverżazzjoni jaħdmu wkoll għal ħafna nies. Agħżel dak li l-persuna dejjem igawdi u agħmlu flimkien magħha."
   - q: "Il-logħbiet huma tajbin għal persuni b'Alzheimer?"
     a: "Il-logħbiet jistgħu jkunu mod pjaċevoli biex tqattgħu l-ħin flimkien jekk il-persuna tgawdihom. Ebda logħba ma ntwera li tittratta, ittardja jew twaqqaf l-Alzheimer, allura agħżel logħbiet għall-pjaċir: stampi kbar, ftit għażliet, u mingħajr arloġġ, punteġġ jew ħsejjes għal tweġibiet ħżiena."
   - q: "Hemm differenza bejn attivitajiet għad-demenzja u attivitajiet għall-Alzheimer?"
@@ -54,7 +54,7 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-Jekk xi ħadd li tħobb għandu l-Alzheimer, probabbilment diġà innotajt li xi affarijiet jitilfu malajr filwaqt li oħrajn jibqgħu. Jistgħu jitilfu t-traċċa tas-telefonata ta' dal-għodu imma jkantaw kull kelma ta' innu, jitwew tuvaljola kif dejjem għamlu, jew jaqsmu ilpapa tal-karti mingħajr ma jaħsbu. L-attivitajiet tajbin huma mibnija fuq dawk il-ħiliet li jibqgħu. Din il-paġna tispjega għaliex, imbagħad toffri ideat għal kull istadju u l-logħbiet ħielsa fuq dan is-sit li jaqblu magħhom.
+Jekk xi ħadd li tħobb għandu l-Alzheimer, probabbilment diġà innotajt li xi affarijiet jitilfu malajr filwaqt li oħrajn jibqgħu. Jistgħu jitilfu t-traċċa tas-telefonata ta' dal-għodu imma jkantaw kull kelma ta' innu, itwu t-tuvalji kif dejjem għamlu, jew jaqsmu l-karti mingħajr ma jaħsbu. L-attivitajiet tajbin huma mibnija fuq dawk il-ħiliet li jibqgħu. Din il-paġna tispjega għaliex, imbagħad toffri ideat għal kull istadju u l-logħbiet ħielsa fuq dan is-sit li jaqblu magħhom.
 
 ## L-Alzheimer hija differenti mid-demenzja fir-rigward tal-attivitajiet?
 
@@ -66,11 +66,11 @@ Dak li hu utli li wieħed jaf huwa l-ordni normali tal-bidliet. L-[National Inst
 
 Attivitajiet li jistrieħu fuq għarfien antik u mħarreġ sew ġeneralment jaħdmu aħjar minn dawk li jeħtieġu li titgħallem xi ħaġa ġdida u żżomm f'moħħok ħafna affarijiet.
 
-- **Ħiliet imħarrġa għal żmien twil.** L-Alzheimer's Association tinnota li persuna tista' xorta tlaqqa' xi kanzunetti sempliċi li tgħallmet fuq il-pjanu snin ilu. Il-bjar, it-tlaqqim tal-injam, it-tqassim tal-karti, il-għaġen tal-għaġina u t-tiekol tal-ħwejjeġ huma simili.
+- **Ħiliet imħarrġa għal żmien twil.** L-Alzheimer's Association tinnota li persuna tista' xorta tkanta xi kanzunetti sempliċi li tgħallmet fuq il-pjanu snin ilu. Il-ħidma bil-labar, il-ħakk tal-injam bil-karta, it-tqassim tal-karti, il-għaġen tal-għaġina u it-tiffoldjar tal-ħwejjeġ huma simili.
 - **Kanzunetti antiki u mużika familjari.** Ħafna nies għadhom jafu kull kelma ta' kanzunetti mill-adolexxenza u l-għoxrinijiet tagħhom, innijiet u l-kanzunetti tat-tieġ tagħhom. Ara [l-attivitajiet tal-mużika](/activities/music/).
-- **Xogħlijiet ta' kuljum b'skop.** Il-[NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) telenka l-ħasil tal-platti, it-tpoġġija tal-mejda, it-tqassim tal-kalzetti u t-tiekol tal-ħwejjeġ fost l-attivitajiet li n-nies jistgħu jgħoġbuhom. Li wieħed iħoss li qed jgħin għandu importanza.
+- **Xogħlijiet ta' kuljum b'skop.** Il-[NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) telenka l-ħasil tal-platti, it-tpoġġija tal-mejda, it-tqassim tal-kalzetti u it-tiffoldjar tal-ħwejjeġ fost l-attivitajiet li n-nies jistgħu jgħoġbuhom. Li wieħed iħoss li qed jgħin għandu importanza.
 - **Tfakkir aktar milli tfakkir mill-ġdid.** Li tindika l-istampa li taqbel hija aktar faċli milli tismiha minn memorja. Għalhekk logħbiet bl-istampi kollha viżibbli jaħdmu aħjar minn mistoqsijiet.
-- **Is-sensi.** It-tqassib, ir-riħa, is-sħana, it-togħma u l-ħsejjes jibqgħu sinifikanti ħafna wara li l-kliem isir diffiċli. Ara [l-attivitajiet sensorji](/activities/sensory/).
+- **Is-sensi.** It-tessitura, ir-riħa, is-sħana, it-togħma u l-ħsejjes jibqgħu sinifikanti ħafna wara li l-kliem isir diffiċli. Ara [l-attivitajiet sensorji](/activities/sensory/).
 
 Dak li jmur inqas tajjeb: kull ħaġa b'arloġġ, regoli ġodda biex titgħallem, ħafna passi biex tiftakar, jew mistoqsijiet li jittestjaw il-memorja, bħal "Tiftakar min hu dan?". Dawn iqiegħdu l-parti l-aktar diffiċli tal-Alzheimer f'quddiem.
 
@@ -92,10 +92,10 @@ Aktar ideat: [attivitajiet għall-istadju bikri](/activities/early-stage/).
 L-Alzheimer's Association tiddeskrivi l-istadju tan-nofs bħala tipikament l-itwal, u tgħid li jista' jdum ħafna snin. Il-kliem jinħelat, il-frustrazzjoni tiġi aktar faċilment, u l-persuna teħtieġ aktar kura. L-Alzheimer's Foundation of America iżżid li ħafna nies jeħtieġu għajnuna biex jibdew jew ikomplu attivitajiet. Ir-rwol tiegħek jinbidel għal li tqiegħed l-affarijiet lesti, turi minflok tispjega, u tieħu l-partijiet iebsa.
 
 1. **Itwi, tqassam u taqbel.** Tuvalji, kalzetti, kutelerija, buttuni skont il-kulur. Xogħlijiet reali, magħmula flimkien.
-2. **Ikanta u ċaqlaq mal-mużika.** Ippalmja, ibqa' jiċċaqlaq jew iżfen fil-kċina. Ibda tikkanta int u ħalli jingħaqad magħek.
-3. **Ħares lejn albums tar-ritratti.** Iddeskrivi dak li qed tara u stieden l-istejjer: "Liema karozza! Għidli dwarha." Segwi l-ismijiet kollha li jużaw.
+2. **Ikanta u ċaqlaq mal-mużika.** Ittappja, ibqa' jiċċaqlaq jew iżfen fil-kċina. Ibda tikkanta int u ħalli jingħaqad magħek.
+3. **Ħares lejn albums tar-ritratti.** Iddeskrivi dak li qed tara u stieden l-istejjer: "Liema karozza. Għidli dwarha." Segwi l-ismijiet kollha li jużaw.
 4. **Ilgħab logħbiet sempliċi bl-istampi.** [Picture pairs](/games/picture-pairs/) b'erba' sa sitt pilloli u l-istampi jibqgħu viżibbli, jew [Find the same](/games/find-the-same/) b'żewġ għażliet jew tlieta.
-5. **Lesti sentenzi familjari.** "Tuffieħa kuljum iżomm lit-..." Sentenzi mitgħallma ilu jiġu malajr. Ipprova [Finish the saying](/games/finish-the-saying/), fejn tista' turi kull tmiem b'ħabta waħda.
+5. **Lesti sentenzi familjari.** "Tuffieħa kuljum iżomm it-tabib 'il bogħod..." Sentenzi mitgħallma ilu jiġu malajr. Ipprova [Finish the saying](/games/finish-the-saying/), fejn tista' turi kull tmiem b'ħabta waħda.
 6. **Ilma u tindif tal-pjanti.** Vażuni ġewwa jew bidu rjiedi, b'bott żgħir għall-ilma.
 7. **Agħmel logħba ta' tqabbil mir-ritratti tal-familja.** [Photo pairs](/games/photo-pairs/) juża stampi li tagħżel fuq l-apparat tiegħek, u ma joħorġux minnu qatt.
 
