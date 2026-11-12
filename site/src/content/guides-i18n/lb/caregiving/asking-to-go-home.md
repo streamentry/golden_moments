@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Wann eng Persoun mat Demenz ëmmer erëm heem wëll"
+seoTitle: "Demenz, déi heem wëll: wat Dir soen kënnt"
+description: "Firwat eng Persoun mat Demenz heem wëll, och wann si doheem ass, wat Dir soen kënnt, berouegend Aktivitéiten a wéi Dir se schützt, wann si ewechgeet."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Wann eng Persoun mat Demenz ëmmer erëm heem wëll, heescht „heem“ dacks e Gefill vu Sécherheet oder eng Plaz aus der Vergaangenheet, net e Gebai. Argumentéiert net, datt si schonn doheem ass. Erkennt d'Gefill un, versécheert se, datt si sécher ass, frot no hirem Heem, a gitt dann suanft op Fotoen, Musek, en Iessen, e Spadséiergank oder eng einfach Aufgab iwwer. Kuckt no Hunger, Duuscht, Toilette oder Schmerz. Wann et plëtzlech ufänkt, rufft hiren Dokter.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "„Ech wëll heem goen“ heescht dacks „Ech fillen mech net sécher oder nieft“, net eng Bitt em eng Adress."
+  - "Ze diskutéieren oder ze beweisen, datt si doheem ass, mécht d'Belaaschtung meeschtens nach méi schlëmm. Reagéiert op d'Gefill."
+  - "Frot se, Iech vun hirem Heem ze erzielen, an offréiert dann Fotoen, Musek, en Iessen, e Spadséiergank oder eng einfach Aufgab."
+  - "Kuckt no engem Problem, dat sech behiewe léisst: Hunger, Duuscht, Toilette, Schmerz, ze waarm oder ze kal, Kaméidi, Middegkeet."
+  - "Wann et all Owend ëm déi Zäit geschitt, kann et Sundowning sinn; eng stänneg Routine a gutt Liicht kënnen hëllefen."
+  - "Plangt fir d'Sécherheet, falls si probéiert ewechzegoen, a rufft hiren Dokter bei all plëtzlecher Ännerung un."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Firwat freet meng Mamm mat Demenz ëmmer erëm, heem ze goen, wann si doheem ass?"
+    a: "Demenz kann vertrauten Zëmmer fremd virkommen loossen, a Leit fillen sech heiansdo wéi an enger fréiere Liewensphase. „Heem“ kann e Kannerhaus sinn oder just dat Gefill, a Sécherheet an Komfort ze sinn. Op dat Gefill ze äntweren hëlleft meeschtens méi wéi ze soen, wou si ass."
+  - q: "Wat soll ech soen, wann se freet, heem ze goen?"
+    a: "Probéiert „Dir sidd hei a Sécherheet, a bleiwen bei Iech“, dann „Erzielt mir vun Ärem Heem.“ Lauschtert, deelt e Foto oder e Lidd, a bidd en Drénk oder e kuerze Spadséiergank un. Vermeit „Dir sidd heem“ als Korrektur, well dat sech wéi e Feeler ufillen kann."
+  - q: "Ass et ok ze soen, datt mir spéider heem ginn?"
+    a: "Familljen an Demenz-Organisatiounen sinn sech hei net eens. Vill fänken mat éierlecher Trouschtung an Ëmlenkung un a heiansdo, wann d'Wourecht nëmmen en Leed verursaacht, dat d'Persoun net verschaffe kann, schwätze se eng suanft Unwourecht. Wat Dir och wielt, sidd frëndlech a konsequent, a mécht ni sech iwwer d'Realitéit vun der Persoun lëschteg."
+  - q: "Wat wann se probéiert, aus dem Haus ze goen?"
+    a: "Bleift roueg a geet mat hir, anstatt hir de Wee ze versperren; e kuerze Spadséiergank beruegt de Drang dacks. Maacht virdru Sécherheetsmoossnamen, zum Beispill e ID-Armband, Tirklacken a ee rezente Foto. Wann d'Persoun verschwonnt, kuckt no nidderegen sécheren Plazen a kontaktéiert zu gudder Zäit d'lokal Police oder d'Noutdéngschter. Wart net eng fest Zuel vu Minutten, ier Dir mellt."
+  - q: "Wann soll ech en Dokter uruffen?"
+    a: "Ruff hiren Dokter direkt un, wann d'Froen oder d'Verwirrung plëtzlech ufänkt oder an Stonnen oder Deeg vill méi schlëmm gëtt, besonnesch mat Fieber, engem neien Medikament oder Symptomer vun enger Blasenentzündung. Plëtzlech Duercherneen kann e Delir sinn, dat dréngend Hëllef brauch. Ruff d'lokal Notrufnummer un, wann iergendeen a Gefor ass."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +45,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +65,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„Ech wëll heem goen.“ Fir vill Familljen ass dat ee vun den haartsten Sätz, déi se héieren, besonnesch wann d'Persoun, fir déi Dir suergt, a sengem eegene Wunnzëmmer sëtzt. Et ass gängeg, et kann an all Phase vun der Demenz virkommen, a et gi roueg, praktesch Weeër, drop ze reagéieren. Dës Säit beschreift, wat d'Wierder dacks heeschen, wat Dir soe kënnt, Aktivitéiten, déi an deem Moment hëllefe kënnen, a wéi Dir sécher bleift.
 
-## Why does someone with dementia keep asking to go home?
+## Firwat freet eng Persoun mat Demenz ëmmer erëm, heem ze goen?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Meeschtens ass „heem“ eher e Gefill wéi eng Plaz. D'Alzheimer's Society beschreift et als Gefill vu Komfort an Sécherheet oder als e Heem aus der Vergaangenheet, net als d'Haus selwer. Demenz kann vertraut Zëmmer fremd ausgesinn loossen, an eng Persoun kann sech fillen, wéi wann si an enger fréiere Liewensphase lieft, wou d'Heem e Kannerhaus war oder d'Plaz, wou si hir Kanner grousgezunn huet.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+D'Wierder kënnen och e Zeeche sinn, datt eppes anescht am Moment net stëmmt: si hunn Hunger, Duuscht, mussen op d'Toilette, hunn Schmerzen, sinn ze waarm oder ze kal, midd, eleng, Angscht oder vum Kaméidi iwwerfuerdert. D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) nennt Schmerz, Kaméidi, Alleng-Sinn, Ännerungen an der Routine an Medikamenter ënner de Ursaachen fir Opgereegtheet.
 
-## What should I say when they ask to go home?
+## Wat soll ech soen, wann se freet, heem ze goen?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Äntwert op d'Gefill, net op d'Wierder. D'[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rät dervun of, d'Persoun vun hirem Falschsinn ze iwwerzeegen: hir Gefiller sinn echt, dofir äntwert éischt mat Trouscht a Beruegung, a lenkt dann suanft ëm.
 
-Phrases that often help:
+Sätz, déi dacks hëllefen:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Benennt d'Gefill.** „Et kléngt, wéi wann Dir Är Heemecht hutt.“
+- **Berouegt.** „Dir sidd hei a Sécherheet, an ech bleiwen bei Iech.“ D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) schléit d'eenfach Wierder „Dir sidd hei a Sécherheet“ vir.
+- **Lued zu Erënnerungen an.** „Erzielt mir vun Ärem Heem. Wéi war Är Kichen?“ Vun der wäiter Vergaangenheet ze schwätzen ass dacks méi komfortabel wéi Froen iwwer haut.
+- **Maacht eppes zesummen.** „Mir huelen eng Tass Téi als Éischt“, oder „Hëlleft Dir mir mat dësen Handdicher?“
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+En waarme Ton an eng Hand um Aarm, wann si Beréierung gär hunn, kann méi soen wéi d'Wierder.
 
-## What should I avoid?
+## Wat soll ech vermeiden?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Streiden oder erklären.** „Dir wunnt elo hei“ oder „Dëst ass 40 Joer Ären Heem gewiescht“ verlaangt, datt se eppes akzeptéiert, wat d'Demenz schwéier mécht ze akzeptéieren, a sou kann et sech wéi eng Korrektur ufillen, datt si falsch leeft.
+- **Ausfroen.** „Erënnert Dir Iech net?“ oder „Wéi ass d'Adress?“ bréngt Drock.
+- **D'Dier aus Opreegung blockéieren.** Wann si erausgeet, bleift roueg a geet mat hir. E kuerze Spadséiergank zesummen beruegt den Drang dacks.
+- **Ze séier sinn.** Gitt hinnen Zäit, iwwer Heem ze schwätzen, ier Dir d'Thema wiesselt.
 
-## Activities that can help in the moment
+## Aktivitéiten, déi a deem Moment hëllefe kënnen
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Nodeems Dir d'Gefill unerkannt hutt, kann eng roueg, vertraut Aktivitéit d'Opmierksamkeet verschécken, ouni dat Gefill ze ignoréieren.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Kuckt Fotoen vun Heem a Famill un.** Blättert d'Säiten ëm a kommentéiert („Kuckt dee Gaart“) amplaz Froen ze stellen. Op engem Telefon oder Tablet mécht [Photo Pairs](/games/photo-pairs/) aus Ären eegenen Familljefotoen en en Zuordnungsspill, an d'Fotoen bleiwen op Ärem Apparat.
+2. **Schwätzt iwwer Heem.** [Conversation Cards](/games/conversation-cards/) bidden oppe Froen iwwer Haiser, Kichen, Noper a Feierdeeg, ouni richteg oder falsch Äntwerten.
+3. **Spillt Musek, déi si gär hunn.** Den National Institute on Aging nennt beruegend Musek ënner den Weeër, Opgereegtheet ze reduzéieren. Kuckt eis [Musekaktivitéiten](/activities/music/).
+4. **Huelt en Drénk oder en Snack.** Hunger a Duuscht kënnen wéi Onrou ausgesinn. Eng Tass Téi oder e Lieblingsgebäck ass och e klenge Rituel vun Heemechtegkeet.
+5. **Gitt spadséieren oder sëtzt dobaussen.** Bewegung a Daglicht hëllefen, besonnesch méi fréi um Dag.
+6. **Gitt eng vertraut Aufgab.** Wäschen zesummen falen, Besteck sortéieren oder Planzen giessen kann d'Gefill zréckbréngen, e Heem ze féieren.
+7. **Maacht alles méi lues.** Schalt den Fernseher of, reduzéiert Kaméidi a Blend, an probéiert eng gemeinsam [Atemiwwung](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Wann eng Iddi net funktionéiert, probéiert eng aner méi spéit. Roueg zesummen ze sëtzen ass och e gutt Resultat.
 
-## Check for a cause you can fix
+## Eng Ursaach, déi Dir behiewe kënnt, kontrolléieren
 
-| Check | What to try |
+| Kontroll | Wat Dir probéiere kënnt |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Hongereg oder duuschtereg | En Drénk an e klenge Snack ubidden |
+| Muss op d'Toilette | Eng Visite am Bad ubidden, roueg an ouni Opreegung |
+| Schmerz oder Onbehagen | No Zeechen kucken, wéi Grimassen, eng Kierperstell halen oder Verstoppung, an dem Dokter Bescheed soen |
+| Ze waarm oder ze kal | Eng Schicht oder d'Zëmmertemperatur upassen |
+| Kaméidi oder Gedréng | An e roueg Zëmmer plënneren, Fernseher ausschalten |
+| Midd oder iwwerfuerdert | Rou, d'Liicht dimmen, sanfte Musek spillen |
+| Spéit am Nomëtteg | Kuckt de Sundowning-Abschnitt hei ënnen |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+D'Alzheimer's Society schléit vir, eng kuerz Notiz ze féieren, wann d'Fro optrëtt, zum Beispill virum Iessen, nom Besuch oder an der Dämmerung. Muster hëllefen, virauszeplangen.
 
-## Is it okay to tell a white lie?
+## Ass et ok, eng wäiss Lug ze soen?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Dat ass eng reell Debatt, a gutt gemeint Familljen kommen zu ënnerschiddleche Schlëssen. D'Alzheimer's Society seet, datt et keng eenzeg richteg Äntwert gëtt: Unwourechten kënnen e puer Leit méi misstrauesch maachen, dofir soll een entscheeden, wat am beschte Interesse vun der Persoun ass, a konsequent sinn. Am Penn Memory Center ass d'Meenung vum Co-Direkter, datt d'Wourecht de Standard ass a eng suanft Unwourecht nëmmen akzeptabel ass, wann d'Persoun eng bestëmmte Wourecht net verschaffe kann, an datt een hir Realitéit ni verspott.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Vill Betreier fannen e Mëttelwee hëllefräich: éierlech Trouscht a Ëmlenkung als Éischt („Mir bleiwen haut Owend hei, an ech sinn ëmmer bei Iech“), ouni iwwer de Plaz vum Heem ze streiden.
 
-## What if it happens every afternoon or evening?
+## Wat wann et all Nomëtteg oder Owend geschitt?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Onrou, déi am spéiden Nomëtteg ufänkt oder schlechter gëtt, gëtt dacks Sundowning genannt. Den [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) rät zu engem stänneg Tagesablaf, Daglicht a Bewegung um Dag, weniger spéider Schlofen an kengem Koffein oder Alkohol spéit um Dag. Et hëlleft och, d'Luuchte virum Dämmer unzeschalten. Eise Guide iwwer [roueg spéit-nomëttes Aktivitéiten](/caregiving/late-day-restlessness/) huet méi.
 
-## Keeping them safe if they try to leave
+## Sécherheet, wann se probéiere ewechzegoen
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Freet no Heem kann zum Erëmlafen féieren. Den [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) schätzt, datt sechs vun zéng Leit mat Demenz op d'mannst eemol erëmlafen.
 
-**Prepare ahead:**
+**Maacht virdrun vir:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Ee ID- oder medizinescht Armband mat hirem Numm an Ärer Telefonsnummer, a Markéierungen an hir Kleeder. Den [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) nennt d'MedicAlert- an d'Alzheimer's-Association-Safe-and-Found-Programm, déi Geld kënne kaschten.
+- E Tirklack oder Alarm, an Schlässer héich oder niddereg. Späerrt d'Persoun ni eleng an.
+- En rezenten noahe Foto an eng Lëscht vu Plazen, wou si kéint higoen, zum Beispill en fréiere Heem oder Aarbechtsplaz.
+- Sot vertrauenswierdegen Noperen Bescheed, a gitt hinnen Är Nummer.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Wann si verschwonnt ass:** Kuckt no nidderegen sécheren Plazen, a kontaktéiert zu gudder Zäit d'lokal Police oder d'Noutdéngschter. Wart net eng fest Zuel vu Minutten, ier Dir mellt. E [Artikel vum U.S. Department of Justice iwwer Enquêten zu Verschwonnene](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) aus dem Joer 2021 seet, datt Strofverfollegungsbehërden keng fest Waardzäit verlaange sollen; et nennt och demenzähnlech Symptomer als Zeeche fir e héije Risiko. Lokal Meldeverfahren sinn ënnerschiddlech. Sot de Responder, datt d'Persoun Demenz huet, deelt déi lescht bekannte Plaz an e rezent Foto, a follegt hire Uweisungen. Wann en anere Helfer do ass, bieet him un, beim Telefon ze bleiwen. Sicht keng gefaarlech Plazen eleng.
 
-## When should I call a doctor?
+## Wann soll ech en Dokter uruffen?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Ruff hiren Dokter direkt un, wann d'Froen oder d'Verwirrung plëtzlech ufänkt oder an Stonnen oder Deeg vill méi schlëmm gëtt. Den [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) seet, datt plëtzlecht oder séier ännerend Verhalen, besonnesch no enger Infektioun oder enger Medikamentenännerung, direkt kontrolléiert soll ginn. Plëtzlech Duercherneen kann e Delir sinn, dat de [NHS](https://www.nhs.uk/symptoms/confusion/) als dréngend Hëllef bezeechent; Blasenentzündungen sinn eng gängeg Ursaach bei eeleren Leit.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Et hëlleft och, en stännegt Muster beim nächste Rendez-vous ze erwähnen, well Schmerz, nidderegen Stëmmung, Schlafproblemer oder Nebenwierkungen vu Medikamenter all eng Roll kënne spillen.
