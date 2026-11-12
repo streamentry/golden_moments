@@ -28,7 +28,7 @@ faq:
   - q: "Ny reniko dia tezitra rehefa mandoko loko ivelan'ny tsipika. Inona no tokony hataoko?"
     a: "Lazao azy fa tsy zava-dehibe ny tsipika. Safidio pejy misy endrika lehibe, na soraniny hanaloka ny pejy manontolo amin'ny loko iray. Ataovy fiderana ny loko voafidiny, ary ajanony raha tezitra izy."
   - q: "Azo atao amin'ny tablette ve ny fandokoana loko?"
-    a: "Azo. Manana lalao fandokoana loko i Golden Moments izay tapaka loko ary avy eo tapaka ny ampahany amin'ny sary. Tsy mila fifehezana tanana madinika izy, ary mora ny manomboka sy ny manapaka."
+    a: "Azo. Manana lalao fandokoana loko i Golden Moments izay mifidy loko ary avy eo mitsindra ampahany amin'ny sary. Tsy mila fifehezana tanana madinika izy, ary mora ny manomboka sy ny manapaka."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -60,7 +60,7 @@ Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-careg
 Matetika tsy tia sary toy ny zazakely ny olon-dehibe. Mitadiava:
 
 - **Sarin-javaboary:** zaridaina misy voninkazo lehibe, farihy misy sambo, vorona eo amin'ny sampana.
-- **Zavatra mahazatra:** théière, bisikileta, voankazo iray, satro-doha.
+- **Zavatra mahazatra:** theiera, bisikileta, voankazo iray, satro-doha.
 - **Endrika lehibe tsotra:** mandala sy endrika geometrika mazava misy faritra lehibe vitsy.
 - **Sary na sarin-javaboary** izay mety ho fantatry ny olona avy amin'ny toerana tiana na mpanakanto tiana.
 
@@ -88,7 +88,7 @@ Ny [lalao fandokoana loko](/games/coloring/) ao amin'ny Golden Moments dia miasa
 
 ## Fanitsiana araka ny fiovan'ny demensia
 
-Amin'ny dingana voalohany, ny olona maro dia mahafinaritra ny pejy misy antsipiriany ary afaka misafidy ny loko sy ny endrika. Amin'ny dingana antonony, ny sary lehibe kokoa sy safidy vitsy kokoa dia manampy. Amin'ny dingana farany, andramo endrika lehibe tokana, takelaka misy loko malemy, na fotsy fotsy mihira hira malefaka. Ny olona sasany dia mahafinaritra kokoa ny mijery sary vita noho ny mamorona izany.
+Amin'ny dingana voalohany, ny olona maro dia mahafinaritra ny pejy misy antsipiriany ary afaka misafidy ny loko sy ny endrika. Amin'ny dingana antonony, ny sary lehibe kokoa sy safidy vitsy kokoa dia manampy. Amin'ny dingana farany, andramo endrika lehibe tokana, takelaka misy loko malemy, na mihira hira malefaka miaraka amin'ny kraiona eo am-pelatanana. Ny olona sasany dia mahafinaritra kokoa ny mijery sary vita noho ny mamorona izany.
 
 Ho an'ny hevitra hafa momba ny asa kanto araka ny dingana, jereo [ny asa-tanana sy kanto ho an'ny olon-dehibe manana demensia](/activities/arts-and-crafts/) sy [ny tetikasa kanto ho an'ny olona manana demensia](/activities/art-projects/).
 
