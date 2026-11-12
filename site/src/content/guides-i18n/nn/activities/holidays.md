@@ -66,7 +66,7 @@ Vel oppgåver og tidsfordriv som passar det personen kan gjere i dag. Å vere me
 9. **Spel eit mildt gruppespel.** [Bildebingo](/games/picture-bingo/) kan skrivast ut på nokre minutt og passar alle aldrar, og [samtalekort](/games/conversation-cards/) gir alle noko å snakke om.
 10. **Fargelegg saman.** Enkle [fargeleggingsark](/games/coloring/) kan skrivast ut, slik at born og besteforeldre kan dele dei ved bordet.
 11. **Sjå ein kjend høgtidsfilm.** Ein kjend film er avslappande, og det er greitt å berre sjå ein del av han.
-12. **Ta ein kort tur for å sjå lys.** Ein roleg tur forbi pynta hus kan vere lettare enn ein trong arrangement.
+12. **Ta ein kort tur for å sjå lys.** Ein roleg tur forbi pynta hus kan vere lettare enn eit trongt arrangement.
 
 Om matlaging var ein stor del av personens liv, har vår guide til [husgjerder som aktivitetar](/activities/household-tasks/) fleire måtar å gjere kjøkkenoppgåver trygge og meiningsfulle på.
 
@@ -84,11 +84,11 @@ Våre [kommunikasjonstips](/caregiving/communication-tips/) går meir inn på de
 
 Set opp eit roleg rom før gjestene kjem, borte frå støyen, med kjende komfortting som eit yndlingsteppe, ein genser eller ein enkel aktivitet. Tilby det tidleg og ofte: «Skal vi setje oss eit roligare stad ei stund?»
 
-At nokon forlèt bordet, går tidleg til sengs eller hoppar over ein del av dagen, er eit godt resultat, ikkje eit nederlag. Om personen blir opprøyst, hjelper ein roleg stemme, ein kjend song eller ein tur til eit anna rom ofte meir enn resonnering. Vår guide til [uro på ettermiddagen](/caregiving/late-day-restlessness/) har fleire idear for kveldane.
+At nokon går frå bordet, går tidleg til sengs eller hoppar over ein del av dagen, er eit godt resultat, ikkje eit nederlag. Om personen blir opprøyst, hjelper ein roleg stemme, ein kjend song eller ein tur til eit anna rom ofte meir enn resonnering. Vår guide til [uro på ettermiddagen](/caregiving/late-day-restlessness/) har fleire idear for kveldane.
 
 ## Korleis kan familie langt borte vere med?
 
-Videosamtalar lèt slektningar delta utan å auke trengselen. Alzheimer's Association foreslår å gi samtalane ei viss struktur, til dømes å syngje sesongsongar, dele bilete frå tidlegare samlingar, lage same oppskrift saman eller sjå ein høgtidsfilm samtidig. Hald samtalane korte, og be folk snakke éin om gongen, sidan i munnen på kvarandre er vanskeleg å følgje. Vår [guide til telefon- og videosamtalar](/activities/phone-and-video-calls/) har steg-for-steg-idear.
+Videosamtalar gjer det mogleg for slektningar å delta utan å auke trengselen. Alzheimer's Association foreslår å gi samtalane ei viss struktur, til dømes å syngje sesongsongar, dele bilete frå tidlegare samlingar, lage same oppskrift saman eller sjå ein høgtidsfilm samtidig. Hald samtalane korte, og be folk snakke éin om gongen, sidan folk som snakkar i munnen på kvarandre, er vanskeleg å følgje. Vår [guide til telefon- og videosamtalar](/activities/phone-and-video-calls/) har steg-for-steg-idear.
 
 Bur personen på eit minnebustad, sjekk besøksreglane og be personalet hjelpe til med å ordne ein samtale. Vår guide til [å besøke nokon på minneavdeling](/activities/visiting/) dekker kva du bør ta med og korleis du går på ein god måte.
 
@@ -96,7 +96,7 @@ Bur personen på eit minnebustad, sjekk besøksreglane og be personalet hjelpe t
 
 Enkle, trygge gåver som dei kan glede seg over no, fungerer best: ein yndlingssnack, eit mjukt teppe eller ein kardigan, kjend musikk, ein kalender med stor skrift, eller eit fotoalbum av familien. Alzheimer's Association rår til å unngå farlege verktøy, kompliserte elektroniske ting og krevjande brettspel.
 
-Å gi kan vere like viktig som å få. Å pakke kakene personen var med på å bake, eller la dei pakke inn ei gåve du har kjøpt, gjer at dei tek del i tida. Ein familiebiletspel er ein annan idé: [bildepar](/games/photo-pairs/) gjer nokre utvalde bilete til eit mildt parspel i nettlesaren.
+Å gi kan vere like viktig som å få. Å pakke kakene personen var med på å bake, eller la dei pakke inn ei gåve du har kjøpt, gjer at dei tek del i tida. Eit familiebiletspel er ein annan idé: [bildepar](/games/photo-pairs/) gjer nokre utvalde bilete til eit mildt parspel i nettlesaren.
 
 ## Ta vare på deg sjølv òg
 

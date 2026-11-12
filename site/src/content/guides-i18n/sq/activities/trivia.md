@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Pyetje të thjeshta për personat me demencë, pa presion"
+seoTitle: "Pyetje kuizi për personat me demencë, me përgjigje"
+description: "50 pyetje të thjeshta kuizi për personat me demencë, me zgjedhje përgjigjesh dhe tema për bisedë, plus si ta organizoni kuizin që askush të mos ndihet i testuar apo i lënë anash."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Kuizi i thjeshtë për personat me demencë funksionon kur ngjan me një bisedë, jo
+  me një test. Pyesni për gjëra të mësuara shumë kohë më parë, si këngët e vjetra,
+  fjalët e urta, festat dhe jeta e përditshme, dhe ofroni gjithmonë dy ose tre
+  zgjedhje. Jepni përgjigjen lirshëm, mos e vini askënd në qendër dhe mos mbani
+  pikë. Çdo përgjigje mund të nisë një histori. Pyetjet "kjo apo ajo", pa përgjigje
+  të gabuar, i përshtaten fazave të mëvonshme.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Pyesni për gjëra që kanë qenë gjithmonë të njohura: këngë, fjalë të urta, festa, ushqime dhe jetën e përditshme të viteve më parë."
+  - "Ofroni dy ose tre zgjedhje, që përgjigjja të njihet dhe jo të kujtohet nga e para."
+  - "Thoni përgjigjen me ngrohtësi dhe kaloni tutje. Çdo hamendësim që nis një histori është një hamendësim i mirë."
+  - "Pa pikë, pa ekipe që garojnë dhe pa thirrur një person të veçantë. Lëreni përgjigjet të vijnë nga e gjithë dhoma."
+  - "Kur zgjedhja midis përgjigjeve bëhet e vështirë, kaloni te pyetjet kjo-apo-ajo, ku nuk ka përgjigje të saktë."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "A është kuizi një aktivitet i mirë për personat me demencë?"
+    a: "Mund të jetë, nëse organizohet me butësi. Fondacioni Amerikan i Alzheimerit e përfshin kuizin mes aktiviteteve për fazën e hershme. Mbajini pyetjet për tema të njohura prej kohësh, ofroni zgjedhje, mos e vini kurrë një person në pozitë të vështirë dhe i shihni përgjigjet si një rrugë drejt bisedës, jo si test."
+  - q: "Cilat tema funksionojnë më mirë për kuizin me demencë?"
+    a: "Më mirë funksionojnë gjërat e mësuara shumë kohë më parë: këngët dhe këngëtarët e njohur nga rinia e personit, fjalët e urta të njohura, festat, ushqimet, sportet dhe jeta e përditshme, si dorëzimi i qumështit me kamion dhe telefonat me disk. Shmangni lajmet e fundit dhe çdo gjë që kërkon të kujtohet diçka nga më herët në seancë."
+  - q: "Si e organizoj kuizin në një shtëpi kujdesi pa e turpëruar askënd?"
+    a: "Lexojani çdo pyetje të gjithë grupit, tregoni ose thoni zgjedhjet dhe prisni përgjigje nga kushdo. Mos thirrni individë me emër dhe mos mbani pikë. Thoni përgjigjen me buzëqeshje, pavarësisht se çfarë është hamendësuar, dhe bëni një pyetje shtesë, si „Kush këtu ka shkuar ndonjëherë në kinema me makinë?“, që të hapen histori."
+  - q: "Çfarë mund të bëj në vend të kuizit në fazat e mëvonshme?"
+    a: "Kaloni te pyetjet pa përgjigje të gabuar, si „Kafe apo çaj?“ ose „Plazh apo male?“, dhe te plotësimi bashkë i fjalëve të urta ose këngëve të njohura. Shikimi i fotove dhe përshkrimi i tyre së bashku gjithashtu funksionon mirë."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Kuizi është një nga aktivitetet e grupit më të kërkuara në shtëpitë e kujdesit dhe në programet ditore, dhe shumë familje e luajnë edhe rreth tryezës së kuzhinës. Kur luhet në mënyrën e zakonshme, me pikë dhe me një person që përgjigjet, mund ta lërë personin me demencë të ndihet i vënë në pozitë të vështirë. Kur luhet me butësi, bëhet një mënyrë e gjallë për të dëgjuar histori. Më poshtë janë 50 pyetje të thjeshta me zgjedhje përgjigjesh dhe diçka për të folur për secilën, pastaj si të organizoni një seancë.
 
-## How do you make trivia work for someone with dementia?
+## Si e bëni kuizin të funksionojë për personin me demencë?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Bëjeni të lidhur me njohjen dhe kujtimin e gjërave të së kaluarës, dhe bëni që çdo përgjigje të mirëpritet.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Pyesni për të kaluarën e largët.** [Shoqata e Alzheimerit](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) thotë se simptoma më e zakonshme e hershme e Alzheimerit është vështirësia për të kujtuar informacion të sapomësuar. Këngët, fjalët e urta dhe jeta e përditshme e dekadave më parë shpesh janë terren më i lehtë.
+2. **Ofroni gjithmonë zgjedhje.** Të zgjedhësh përgjigjen e saktë nga dy ose tre mundësi është shumë më e lehtë sesa ta nxjerrësh nga zero.
+3. **Lexoni pyetjet me zë dhe shfaqini me shkronja të mëdha.** Një tabelë e bardhë ose një tablet i mbajtur lart ndihmon personat që dëgjojnë më pak mirë.
+4. **Jepni përgjigjen lirshëm.** Nëse askush nuk e di, thoneni me ngrohtësi dhe kaloni tutje. Asnjëherë "Hajde, e di këtë."
+5. **Pa pikë.** As për individë, as për tavolina. Nëse njerëzit duan një numër, mbajeni një total të vetëm për grupin.
+6. **Mos thirrni kurrë një person të veçantë.** Lëreni përgjigjet të vijnë nga kushdo. Në një takim një-për-një, përgjigjuni bashkë: "Mendoj se është piano. Ti çfarë mendon?"
+7. **Përdorni temën për bisedë.** Përgjigja është fillimi, jo fundi. Historitë janë qëllimi i vërtetë.
+8. **Mbajeni të shkurtër.** Dhjetë pyetje me histori në mes janë mjaft.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[Instituti Kombëtar për Plakjen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) e thotë rregullin bazë thjesht: shikoni për shenja mërzie dhe sigurohuni që personi të ndihet i suksesshëm. [Fondacioni Amerikan i Alzheimerit](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) e përfshin kuizin mes aktiviteteve për fazën e hershme. Në fazën e mesme, qëndroni te dy zgjedhje dhe mbështetuni te temat për bisedë. Më vonë, kaloni te pyetjet kjo-apo-ajo më poshtë.
 
-## Music and entertainment trivia
+## Kuiz për muzikën dhe argëtimin
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Përgjigja është me **shkronja të trasha**. Përshtatini këto personit: dikush që u rrit me muzikën Motown do të dëshirojë këngëtarë të tjerë nga dikush që u rrit me orkestrat e mëdha.
 
-| Question | Choices | Talk about |
+| Pyetja | Zgjedhjet | Për çfarë të flitet |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Kush quhej Mbreti i Rock and Roll-it? | **Elvis Presley**, Frank Sinatra, Bing Crosby | A e keni parë ndonjëherë Elvis-in në televizor? |
+| Cili këngëtar quhej Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Cila këngë e Sinatra-s ju pëlqen më shumë? |
+| Bing Crosby ëndërronte një Krishtlindje të bardhë... | **Krishtlindje**, dasmë, shtëpi | Këndoni bashkë një rresht |
+| Louis Armstrong këndonte "What a Wonderful..." | Ditë, **Botë**, Jetë | Çfarë e bën botën të bukur për ju? |
+| "Over the Rainbow" e këndoi Judy Garland në cilin film? | **Magjistari i Ozit**, Me erë të kaluar, Kënduar nën shi | Ku i keni parë filmat tuaj të preferuar? |
+| Kush luajti rolin e Lucy në "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | Cilat emisione shikonte familja juaj bashkë? |
+| Cili kauboj kalëronte një kalë të quajtur Trigger? | **Roy Rogers**, Gene Autry, John Wayne | A luajti ndonjëherë kaubojë kur ishit fëmijë? |
+| Kush e udhëhoqi "The Tonight Show" për 30 vjet? | Ed Sullivan, **Johnny Carson**, Bob Hope | A rrinit zgjuar vonë për të parë televizor? |
+| Cili instrument ka 88 tasta? | Kitarë, **piano**, trumpetë | A luante ndonjë në familjen tuaj? |
+| Cili valle numërohet një-dy-tre, një-dy-tre? | **Vals**, tuist, tango | Ku shkonit të vallëzonit? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Për më shumë rreth muzikës, shihni [aktivitetet muzikore për demencën](/activities/music/).
 
-## Everyday life trivia
+## Kuiz për jetën e përditshme
 
-| Question | Choices | Talk about |
+| Pyetja | Zgjedhjet | Për çfarë të flitet |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Para frigoriferëve, shumë shtëpi mbanin ushqimet të ftohta në një... | **Kuti akulli**, furrë, soffitë | Kush sillte akullin? |
+| Kush e sillte qumështin te dera në shishe qelqi? | Postieri, **qumështoreja**, djali i gazetave | Çfarë tjetër dërgohej në shtëpi? |
+| Si e thërrisnit me telefonin me disk? | Duke shtypur butona, **duke rrotulluar një disk**, duke folur me të | Më tregoni për telefonin në shtëpinë tuaj |
+| Cila kompani e bëri makinën Model T? | **Ford**, Chevrolet, Buick | Më tregoni për një makinë që ju pëlqeu |
+| Ku do të gjeni një "soda jerk"? | **Te banaku i pijeve të gazuara**, te furrë buke, në bankë | Çfarë porosisnit te banaku? |
+| Cila lodër është një sustë metalike që mund të zbresë shkallët? | Yo-yo, **Slinky**, hula hoop | Cilat lodra ju pëlqenin? |
+| Një drive-in ishte një vend ku shihej... | **Filma nga makina juaj**, ndeshje topi, parada | Me kë shkonit? |
+| Kush është në banknotën një-dollarëshe? | Lincoln, **George Washington**, Jefferson | Çfarë blinte një dollar atëherë? |
+| Kush është në qindarkën amerikane (penny)? | **Abraham Lincoln**, Washington, Franklin | A i mblidhnit qindarkat në një kavanoz atëherë? |
+| Ç'ngjyrë ka zakonisht autobusi i shkollës? | E kuqe, **e verdhë**, blu | Si shkonit në shkollë? |
 
-## Holidays, nature and places
+## Festa, natyra dhe vende
 
-| Question | Choices | Talk about |
+| Pyetja | Zgjedhjet | Për çfarë të flitet |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Cila festë bie të enjten e katërt të nëntorit? | Dita e Punës, **Falënderimi**, Dita e Përkujtimit | Çfarë ishte gjithmonë në tryezën tuaj? |
+| Fenerët e Halloween-it bëhen për cilën festë? | **Halloween**, Pashkë, Krishtlindje | Më tregoni për Halloween-in aty ku keni rritur |
+| Festa e Pavarësisë kremton Deklaratën e... | Të drejtave, **Pavarësisë**, Lirisë | Ku e keni parë fishekzjarrin? |
+| Dita e Nënës bie në cilin muaj? | Prill, **Maj**, Qershor | Si e festonte familja juaj? |
+| Sa yje ka në flamurin amerikan? | 48, **50**, 52 | Flamuri kishte 48 yje deri në vitin 1959. Çdo përgjigje është një kujtim i mirë |
+| Cili oqean është në bregun lindor? | Paqësor, **Atlantik**, Arktik | A keni shkuar ndonjëherë në plazh? |
+| Në cilin qytet është Statuja e Lirisë? | Boston, **New York**, Filadelfia | A keni qenë ndonjëherë në New York? |
+| Çfarë bëjnë bletët? | Qumësht, **mjaltë**, mëndafsh | Mjaltë mbi bukë ose në çaj? |
+| Një viç i vogël quhet... | Kalë i vogël, **viç**, kec | A keni jetuar ndonjëherë pranë një fermë? |
+| Cila lule e lartë e verdhë është e famshme për t'u kthyer nga dielli? | Trëndafil, **luleshtrydhe e diellit**, tulipan | Çfarë rritej në kopshtin tuaj? |
+| Sa ditë ka një vit i kërcyer? | 365, **366**, 360 | Më tregoni për një ditëlindje që e mbani mend |
+| Cila stinë vjen pas dimrit? | Vjeshtë, **pranverë**, verë | Cila është stina juaj e preferuar? |
 
-## Food and sports trivia
+## Kuiz për ushqimet dhe sportet
 
-| Question | Choices | Talk about |
+| Pyetja | Zgjedhjet | Për çfarë të flitet |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rrushi i thatë bëhet nga... | Kumbulla, **rrush**, qershi | Ju mbushnit rrushin e thatë në dreka? |
+| Kumbullat e thata bëhen nga... | **Kumbulla**, fiq, mollë | Kush në familjen tuaj i donte shumë kumbullat e thata? |
+| Gjalpë kikirikesh dhe... | **Reçel**, djathë, proshutë | I kremoz apo i lëmuar? |
+| Guakamoli bëhet kryesisht nga... | Bizele, **avokado**, kastravec | Cilat salca dilnin në festa? |
+| Cila byrek është e preferuar për Falënderimin? | **Me kungull**, limon, qershi | Cilën byrek e bënit ju? |
+| Sa lojtarë ka një ekip bejsbolli në fushë? | 7, **9**, 11 | Cilin ekip e përkrahnit? |
+| Sa goditje bëjnë një jashtëzakonisht në bejsboll? | Dy, **tre**, katër | A keni luajtur ndonjëherë top? |
+| Me cilin sport ishte i famshëm Babe Ruth? | Boks, **bejsboll**, golf | Shkonit në ndeshje topi? |
+| Sa vrima ka një fushë standarde golfi? | 9, **18**, 24 | A keni luajtur ndonjëherë golf, ose mini golf? |
+| Në cilin sport bëhet një "touchdown"? | **Futboll amerikan**, hokej, basketboll | Kush shikonte futboll në shtëpinë tuaj? |
 
-## Familiar sayings
+## Fjalë të urta të njohura
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Plotësimi i një fjale të urtë mbështetet te gjuha e mësuar shumë kohë më parë dhe shpesh vjen lehtë. Loja jonë [Plotësoni fjalën e urtë](/games/finish-the-saying/) ka shumë të tjera, me një prekje për të shfaqur çdo fund.
 
-| Saying | Choices | Talk about |
+| Fjala e urtë | Zgjedhjet | Për çfarë të flitet |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Një mollë në ditë të mban larg... | **Mjekut**, shiu, macen | Kush ju e thoshte këtë? |
+| Zogu i hershëm e kap... | Autobusin, **krimbin**, trenin | A jeni person i mëngjesit? |
+| Mos i numëro pulat para se të... | **Çelen**, flejnë, këndojnë | A mbante familja juaj pula? |
+| Një qindarkë e kursyer është një qindarkë... | **E fituar**, e humbur, e shpenzuar | Kush ishte kursimtari në familje? |
+| Shtëpia është aty ku... | Është kopshti, **është zemra**, është kuzhina | Çfarë e bën një vend të ndihet si shtëpi? |
+| Më mirë vonë se... | Herët, **kurrë**, me keq | Kush vononte gjithmonë? |
+| Çdo re ka një... | **Buzë argjendi**, lugë, monedhë | Më tregoni për një fat të mirë |
+| Veprimet flasin më fort se... | **Fjalët**, muzika, bubullima | Më tregoni për dikë që e tha këtë |
 
-## This-or-that questions with no wrong answer
+## Pyetje kjo-apo-ajo pa përgjigje të gabuar
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Këto i përshtaten çdo faze, edhe më vonë, sepse nuk ka çfarë të gabohet. Pyesni, dëgjoni dhe ndani edhe përgjigjen tuaj.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafe apo çaj?
+- Plazh apo male?
+- Qen apo mace?
+- Verë apo dimër?
+- Byrek apo tortë?
+- Vallëzim apo shikim?
+- Lindje apo perëndim dielli?
+- Verandë përpara apo oborr prapa?
+- Radio apo pllaka?
+- Petulla apo vezë?
+- Trëndafila apo margaritë?
+- Udhëtim me tren apo me makinë?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Për pyetje bisede që shoqërohen me foto, provoni [Kartat e bisedës](/games/conversation-cards/), që mund t'i printoni.
 
-## How do you run a trivia session in a care home or group?
+## Si e organizoni një seancë kuizi në shtëpi kujdesi apo në grup?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Uluni njerëzit ku mund të shohin dhe dëgjojnë.** Aparatet e dëgjimit të veshura, syzet të vendosura, televizori i fikur.
+2. **Paraqiteni si bisedë.** "Kam disa pyetje për kohën e vjetër, dhe besoj se ju e dini më shumë se unë."
+3. **Lexoni çdo pyetje dy herë dhe shfaqni zgjedhjet me shkronja të mëdha.**
+4. **Mirëpritni përgjigje nga kudo në dhomë.** Përsëritni përgjigjet e mira, që të dëgjojë gjithë grupi.
+5. **Thoni përgjigjen për të gjithë,** pastaj pyesni temën e bisedës për dhomën.
+6. **Ndiqni energjinë.** Nëse një pyetje nis dhjetë minuta histori, lëreni të vazhdojë.
+7. **Mbyllni me një këngë ose një raund kjo-apo-ajo,** që të gjithë të përfundojnë me diçka të lehtë.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Për formate të tjera grupi, përfshirë bingo me foto dhe këndimin bashkë, shihni [aktivitetet e grupit për shtëpitë e kujdesit](/activities/care-home-groups/).
 
-## When to change the plan
+## Kur duhet ndryshuar plani
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Nëse dikush duket i shqetësuar, heshtet ose thotë "nuk e di" më shumë se një herë, bëjeni më të lehtë: kaloni në dy zgjedhje, përgjigjuni bashkë ose kaloni te pyetjet kjo-apo-ajo. Nëse grupi preferon të flasë për një pyetje gjatë gjithë pasdites, kjo është një sukses. Qëllimi nuk ka qenë kurrë përgjigjet e sakta. Ishte koha e kaluar në shoqëri të mirë.
