@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Selbstfleeg fir Betreier: Entlaaschtung, Hëllef a Burnout"
+seoTitle: "Selbstfleeg fir Demenz-Betreier: Entlaaschtung a Hëllef"
+description: "Burnout-Zeeche bei Betreier, Entlaaschtung an Ënnerstëtzung fannen, a gratis US-Hotlinen wéi d'Alzheimer's-Association-Helpline an den Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Fir eng Persoun mat Demenz ze suergen ass schwéier, a sech selwer ze versuergen ass Deel vun der Aufgab. Oppasst op Warnzeeche wéi Erschöpfung, Gereiztheet, schlecht Schlof a Rëckzuch vun Frënn. Freet gezielt no Hëllef, notzt Entlaaschtungs-Pflege a schléisst Iech enger Ënnerstëtzungsgrupp un. Gratis Hëllef a den USA ëmfaasst d'Alzheimer's-Association-Helpline 24/7 op 1-800-272-3900 an den Eldercare Locator op 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Burnout kënnt dacks als Erschöpfung, Gereiztheet, schlecht Schlof, Traureg a vernoléissegter eegener Gesondheet zum Virschäin."
+  - "Entlaaschtungs-Pflege gëtt Iech eng Paus, vun e puer Stonnen bis zu e puer Wochen, doheem oder an enger Pflegeplaz."
+  - "Freet no Hëllef bei konkrete Aufgaben; vill Leit wëllen hëllefen, wëssen awer net, wat se maache kënnen."
+  - "D'Alzheimer's-Association-Helpline 24/7 (1-800-272-3900) bitt gratis, vertraulech Ënnerstëtzung zu all Zäit."
+  - "Den Eldercare Locator (1-800-677-1116) verbënnt Iech mat lokale Déngschtleeschtungen, dorënner Är Area Agency on Aging."
+  - "Wann Dir Iech an enger Krise fillt, ruff oder schreift 988. Bei engem Notfall ruff d'lokal Notrufnummer."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Wat sinn d'Zeeche vu Betreier-Burnout?"
+    a: "Dacks gehéiert derzou, datt Dir Iech erschöpft, iwwerfuerdert oder ängschtlech fillt, séier rosen oder ongedëlleg sidd, schlecht schlof, traureg oder hoffnungslos sidd, Frënn meidd, dacks Kappwéi oder Schmerzen hutt, an Äre eegene Mëtteg, Sport oder Dokterbesuch iwwersprénkt. Wann esou Zeeche regelméisseg optrieden, schwätzt mat Ärem Dokter."
+  - q: "Wéi fannen ech Entlaaschtungs-Pflege bei mir?"
+    a: "Fänkt mam Eldercare Locator un (1-800-677-1116 oder eldercare.acl.gov), fir Är lokal Area Agency on Aging ze erreechen, den ARCH National Respite Locator Service oder d'Alzheimer's-Association-Helpline op 1-800-272-3900. Famill, Frënn a Fräiwëllegen kënnen och Entlaaschtung ubidden."
+  - q: "Bezuelt Medicare d'Entlaaschtungs-Pflege?"
+    a: "Fir eng Persoun, déi Hospizpflee kritt, deckt Medicare laut dem National Institute on Aging de gréissten Deel vun de Käschte fir bis zu fënnef openeen follegend Deeg Entlaaschtung an engem Spidol oder enger qualifizéierter Pflegeanstalt. Déi meescht privat Krankeversécherungen decken Entlaaschtung net; Medicaid an e puer Langzäitpflege-Versécherungen kënnen hëllefen."
+  - q: "Ass d'Alzheimer's-Association-Helpline wierklech gratis a nuets erreechbar?"
+    a: "Jo. D'Alzheimer's Association seet, datt hir Helpline op 1-800-272-3900 gratis, vertraulech ass a rund ëm d'Auer, 365 Deeg am Joer, besat ass, mat Hëllef a villen Sproochen. Wielt 711 fir e Relaisdéngscht."
+  - q: "Ass et egoistesch, eng Paus vun der Betreiung ze huelen?"
+    a: "Nee. Rou hëlleft Iech weiderhin ze suergen, an Entlaaschtung kann der Persoun, fir déi Dir suergt, och eng Ännerung vun Gesellschaft an Aktivitéit ginn. Vill Betreier soen spéider, datt se gewënscht hätten, si hätten méi fréi no Hëllef gefrot."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Wann Dir eng Persoun mat Demenz betreit, liest Dir dës Zeilen wahrscheinlech spéit, midd, a mat enger Lëscht vun Dingen, déi Dir nach net gemaach hutt. Dat ass normal. Iech selwer ze versuergen ass kee Luxus an och kee Belounung fir de Feierowend vun allem. Et ass dat, wat Iech hëlleft weiderzemaachen.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Dës Säit beschreift d'Warnzeeche vum Burnout, wéi Dir eng richteg Paus kritt, wou Dir Ënnerstëtzung fannt an gratis US-Hotlinen, déi Dir haut uruffe kënnt.
 
-## What are the signs of caregiver burnout?
+## Wat sinn d'Zeeche vum Betreier-Burnout?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Burnout schleeft sech dacks lues an, dofir ass et gutt, Är eegene Warnzeeche ze kennen. D'[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) nennt Zeeche vu Betreier-Stress, dorënner:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- sech erschöpft, iwwerfuerdert oder ängschtlech fillen;
+- séier wütend oder ongedëlleg ginn;
+- sech alleng oder vun anere getrennt fillen;
+- schlecht schlofen oder ze wéineg Schlof kréien;
+- traureg oder hoffnungslos sinn oder d'Interesse u Saachen verléieren, déi Der fréier gär hat;
+- dacks Kappwéi, Schmerzen oder aner kierperlech Problemer hunn;
+- keng Zäit hunn fir Sport oder fir gesond Iessen fir Iech selwer;
+- d'Hygiene oder aner perséinlech Pfleeg iwwersprangen;
+- Alkohol oder Drogen missbrauchen, och verschrieweni Medikamenter.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) kënnt Zeeche derbäi wéi Verleegnung vun der Krankheet, Wutt op d'Persoun („hien ass just stur“), Angscht viru der Zukunft, Schwieregkeeten beim Konzentréieren an Gesondheetsprobleemer, déi Iech belaaschten. Si rät, mam Dokter ze schwätzen, wann Dir regelméisseg esou Zeeche hutt.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Den NIA rät, net ze waarden, bis Dir komplett iwwerfuerdert sidd. Bemierkt Är Zeeche fréi a reagéiert dorop.
 
-## What can I do today, in five minutes?
+## Wat kann ech haut maachen, an fënnef Minutten?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Kleng Paus hunn och Wäert. Keng vun dësen Iddien léist Burnout, awer si kënnen Iech duerch e schwéieren Nomëtteg hëllefen.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Gitt dobaussen.** Sëtzt op d'Veranda oder gitt bis bei de Bréifkaste, wann d'Persoun sécher a roueg ass.
+- **Atmt lues.** E puer lues Atemzich, ier Dir eng schwiereg Fro beäntwert. Dir kënnt eng [Atemiwwung](/games/calm-breathing/) och mat der Persoun deelen, fir déi Dir suergt.
+- **Drénkt eppes a iesst eppes.** Et ass liicht, eegen Mëtteger ze vergiessen.
+- **Schreift engem Frënd.** Net fir eppes ze freen, just fir Kontakt.
+- **Sot Iech eppes Frëndleches.** Den [Guide vum NIA iwwer d'Selbstpfleeg](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) schléit Sätze vir wéi „Ech maachen dat Bescht, wat ech kann“, „Ech sinn net perfekt, an dat ass ok“ an „Ech genéissen d'Momenter, wann mir zesumme a Rou sinn“.
 
-## What is respite care, and how do I get it?
+## Wat ass Entlaaschtungs-Pflege, a wéi kritt ech se?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Entlaaschtungs-Pflege ass kuerzfristeg Betreiung fir d'Persoun, fir déi Dir suergt, sou datt Dir Iech ausruede kënnt. Den [NIA-Artikel iwwer Entlaaschtungs-Pflege](https://www.nia.nih.gov/health/caregiving/what-respite-care) erkläert, datt se vun e puer Stonnen bis zu e puer Wochen daueren kann a bei Iech doheem, an enger Gesondheetsanstalt oder an engem Adult-Day-Center stattfënnt.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) beschreift gängeg Typen:
 
-| Type | What it is |
+| Typ | Wat et ass |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Hëllef doheem | En Frënd, Verwandten, en Fräiwëllegen oder eng bezuelt Begleedung oder Hëllef kënnt an d'Haus |
+| Adult-Day-Center | Geplangte Aktivitéiten wéi Musek a Konscht a enger sécherer Gruppe; Transport a Iessen ginn dacks ugebueden |
+| Iwwernuechtung oder kuerze Sejour | Eng Langzäitpflege-Gemeinschaft betreit d'Persoun fir eng Nuecht, e puer Deeg oder e puer Wochen |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Wie bezilt?** Laut dem NIA kann Entlaaschtung vun Famill, Frënn oder Fräiwëllegen gratis sinn. Bezuelt Déngschtleeschtungen rechnen no Stonn oder Dag. Fir eng Persoun, déi Hospizpflee kritt, deckt Medicare de gréissten Deel vun de Käschte fir bis zu fënnef openeen follegend Deeg Entlaaschtung an engem Spidol oder enger qualifizéierter Pflegeanstalt. Medicaid kann hëllefen. Déi meescht privat Krankeversécherungen decken Entlaaschtung net, obwuel e puer Langzäitpflege-Versécherungen et maachen.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Tipp:** D'Alzheimer's Association rät, Entlaaschtungs-Ubidder an enger net-dréngender Situatioun ze probéieren, sou datt se preparéiert sinn, wann Dir plëtzlech Hëllef braucht.
 
-## Where can I find help near me?
+## Wou fannen ech Hëllef an der Géigend?
 
-Several free US services can point you to local help.
+Verschidde gratis US-Déngschter kënnen Iech op lokal Hëllef hiweisen.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** D'[Helpline](https://www.alz.org/help-support/resources/helpline) ass gratis a vertraulech, rund ëm d'Auer besat, all Dag am Joer, mat Hëllef a méi wéi 200 Sprooche duerch zweesproocheg Personal oder Dolmetscher. Wielt 711 fir e Relaisdéngscht. Dir kënnt iwwer Verhalensännerungen, Betreiungs-Stress, Entlaaschtungs-Optiounen, lokal Programmer an méi schwätzen an e méi laangt Gespréich mat engem Care Consultant verlaangen. D'Personal gëtt keng medizinesch Berodung.
+- **Eldercare Locator: 1-800-677-1116.** Den [Eldercare Locator](https://eldercare.acl.gov/), en ëffentleche Déngscht vun der Administration for Community Living, verbënnt Iech mat Déngschtleeschtungen fir eeler Leit an hir Familljen. Dir kënnt uruffen, texten, online chatten oder geschultem Personal mailen, oder no Standort sichen. Hie kann Iech op Är lokal Area Agency on Aging hiweisen.
+- **ARCH National Respite Locator Service.** De [ARCH-Respite-Locator](https://archrespite.org/caregiver-resources/respitelocator/) hëlleft Iech, Entlaaschtungs-Ubidder no Staat ze fannen, a rät, fir d'éischt Är State Respite Coalition oder dat Lifespan-Respite-Programm ze kontaktéieren, wann Ären Staat et huet. ARCH hält fest, datt et d'Ubidder net iwwerpréift, dofir kuckt Iech selwer hir Erfahrung an hiren Hannergrond un.
 
-## How do I find a support group?
+## Wéi fannen ech eng Ënnerstëtzungsgrupp?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Freet d'Helpline oder sicht online no Gruppen an Ärer Géigend. D'Alzheimer's Association [organiséiert Ënnerstëtzungsgruppen](https://www.alz.org/help-support/community/support-groups) fir Betreier an Leit, déi mat Demenz liewen, perséinlech an online, gefouert vun ausgebilte Moderatoren. Vill Standorter bidden och spezialiséiert Gruppen un, zum Beispill fir erwuessen Betreier oder fir Leit mat engem fréien oder fréi-agefaangenen Alzheimer. Si betreiwt och ALZConnected, eng gratis Online-Gemeinschaft, wou Betreier Rot ausdauschen.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Ënnerstëtzungsgruppen kënnen e Plaz sinn, fir Iech ouni Veruerteelung Loft ze maachen, praktesch Tipps vu Leit ze kréien, déi dat selwer erlieft hunn, an Iech weniger eleng ze fillen. Wann déi éischt Grupp net passt, probéiert eng aner.
 
-## How do I ask family and friends for help?
+## Wéi bieden ech Famill an Frënn ëm Hëllef?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Sot konkret, wat Dir braucht. Vill Leit wëllen hëllefen, wëssen awer net, wat se ubidden kënnen. Den NIA schléit vir:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Hält eng Lëscht** vun Aufgaben, déi anerer iwwerhuele kéinten, an losst d'Leit eng wielen.
+- **Fänkt kleng un**, wann et schwéier ass ze froen.
+- **Passt d'Aufgab op d'Persoun.** De Cousin, dee gär kacht, bréngt de Méindeg Iessen, an den Noper, dee gutt mat Formularen ëmgeet, hëlleft beim Papierkrom.
+- **Schreift oder mailt**, wann et Iech onbequem ass, perséinlech ze froen.
+- **Iwwerleet eng Äntwert** fir wann een ubitt: „Merci fir d'Fro. Hei ass, wat Dir maache kënnt.“
+- **Rechent mat e puer Neen** a probéiert, se net perséinlech ze huelen.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Anerer Iddien: eng Persoun fir en Nomëtteg pro Woch ze bidden, mat hir e kuerze Usflug maachen oder op Besuch kommen a zesumme ee Spill spillen. Eise [Guide iwwer zesumme spillen](/caregiving/how-to-play-together/) ass einfach fir Besucher ze deelen.
 
-## What if something happened to me?
+## Wat wann mir eppes géif passéieren?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Maacht elo e einfachen Notfallplang. Den NIA rät, mat Famill oder enge Frënn ze decidéieren, wien eragräift, an e Notizbuch mat Notfallnummeren, Medikamenter, Verhalenstipps, déi funktionéieren, a Lieblingsaktivitéiten ze féieren. D'Alzheimer's Association rät och, d'medizinesch Kontakter vun der Persoun an eng aktuell Medikamentelëscht liicht zougänglech ze halen.
 
-## When should I get professional or urgent help?
+## Wann soll ech professionell oder dréngend Hëllef sichen?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Schwätzt mat Ärem Dokter, wann Stress-Zeeche regelméisseg optrieden, wann Dir Iech niddergeschloe fillt oder wann Dir Schwieregkeeten hutt, mat Ärer Situatioun zeretrechtzekommen. Sot Ärem Dokter, datt Dir Betreier sidd. Den NIA hält fest, datt Berodung-Fachleit a Sozialaarbechter bei schwéiere Gefiller a bei der Planung hëllefe kënnen, an datt Medicare, Medicaid an e puer privat Versécherungen e Stéck vun den Käschte fir psychesch Gesondheet kënnen iwwerhuelen.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Wann Dir Iech an enger Krise fillt oder Gedanke hutt, Iech selwer ze schueden, ruff oder schreift 988, fir d'[988 Suicide & Crisis Lifeline](https://988lifeline.org/) z'erreechen, gratis an 24/7 verfügbar. Wann iergendeen a direkter Gefor ass, ruff d'lokal Notrufnummer.
 
-## Can shared activities give me a break too?
+## Kënnen gemeinsam Aktivitéiten Iech och eng Paus ginn?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Heiansdo. Eng roueg Aktivitéit, déi Dir zwee gär hutt, kann e méi sanfte Deel vum Dag fir Iech sinn, genau wéi fir d'Persoun, fir déi Dir suergt: al Lidder lauschteren, Fotoen kucken oder e Spill wéi [Gesprächskaarten](/games/conversation-cards/), wou et keng richteg Äntwerten brauch. Wann d'Persoun gär Gesellschaft huet, kann eng Gruppesessioun mat [Picture Bingo](/games/picture-bingo/) an engem Senioren-Zentrum oder Adult-Day-Programm Iech eng Stonn Entlaaschtung ginn. Kuckt [Aktivitéiten fir Gruppen an Pflegeheemer](/activities/care-home-groups/) fir Iddien.
