@@ -1,8 +1,10 @@
-# 100 Big Improvements Tracker
+# 500 Big Improvements Tracker
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 91 / 100 completed**
+**Progress: 91 / 500 completed**
+
+Maintainer decision (2026-11-12): target increased from 100 to 500 improvements; existing numbered rounds remain counted.
 
 ---
 
@@ -64,7 +66,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | # | Improvement Slot | Status |
 |---|---|---|
 | 92 | *Next in queue* | Pending |
-| 93–100 | Planned one by one | Pending |
+| 93–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -640,7 +642,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 ## Mobile visual audit follow-up (navigation, games, layout; 2026-11-11; separate maintenance review)
 
-This separate engineering audit records automated mobile rendering and maintenance fixes; it is not one of the 100 numbered, source-led improvements. Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text). This is automated rendering, not a device, VoiceOver or caregiver check.
+This separate engineering audit records automated mobile rendering and maintenance fixes; it is not one of the 500 numbered, source-led improvements. Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text). This is automated rendering, not a device, VoiceOver or caregiver check.
 
 | Check | Evidence | Result |
 |---|---|---|
