@@ -1,5 +1,5 @@
 ---
-title: "Hetsika ho an'ny demensia mialoha ny 65 taona: ideas ho an'ny olon-dehibe miasa"
+title: "Hetsika ho an'ny demensia mialoha ny 65 taona"
 seoTitle: "Hetsika ho an'ny demensia aloha: ideas"
 description: "Hetsika ho an'ny demensia aloha, rehefa manomboka alohan'ny 65 taona: liana, fitsangatsangana, mozika tamin'ny fahanterany, ary fanohanana ho an'ny vady sy zanaka."
 section: activities

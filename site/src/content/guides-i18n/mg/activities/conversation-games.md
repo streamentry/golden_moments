@@ -1,7 +1,7 @@
 ---
-title: "Lalao 20 fanontaniana sy lalao resaka ho an'ny olona manana demensia"
-seoTitle: "Lalao 20 fanontaniana sy resaka ho an'ny demensia"
-description: "Lalao 20 fanontaniana sy lalao resaka hafa ho an'ny olona manana demensia, ary ny olona no manam-pahalalana: tsy misy isa, tsy misy fotoana, tsy misy fanadinana."
+title: "Lalao roapolo fanontaniana sy lalao resaka ho an'ny olona manana demensia"
+seoTitle: "Lalao roapolo fanontaniana sy resaka ho an'ny demensia"
+description: "Lalao roapolo fanontaniana sy lalao resaka hafa ho an'ny olona manana demensia, ny olona no manam-pahalalana: tsy misy isa, tsy misy fotoana, tsy misy fanadinana."
 section: activities
 order: 29
 updated: 2026-11-08
@@ -20,9 +20,9 @@ keyPoints:
   - "Ny fanontaniana momba ny fisafidianana, toy ny 'Inona no tianao kokoa?', tsy misy valiny diso."
   - "Ajanony rehefa very ny liana ny olona. Fihaonana roa na telo no ampy."
 faq:
-  - q: "Tsara ho an'ny olona manana demensia ve ny lalao 20 fanontaniana?"
+  - q: "Tsara ho an'ny olona manana demensia ve ny lalao roapolo fanontaniana?"
     a: "Mety ho tsara, rehefa ny olona no mieritreritra ny valiny ary tsy misy fitsapana. Raha ampiasaina ho fanontaniana fitsapana, miaraka amin'ny mpikarakara mamaly ny zava-misy izay tsy maintsy tsarovan'ny olona, dia mety ho lasa fitsapana izany. Tazonina malalaka sy mafana ny fitsipika."
-  - q: "Inona no azon'ny olona ieritreritra amin'ny lalao 20 fanontaniana?"
+  - q: "Inona no azon'ny olona ieritreritra amin'ny lalao roapolo fanontaniana?"
     a: "Zavatra tsotra sy mahazatra no mahomby indrindra: voankazo, biby, fitaovana, karazan-voninkazo, fanaka, na toerana fantany tsara. Aza ampiasa hevitra tsy azo tsapain-tanana, anarana olona, na zavatra mety hiteraka alahelo."
   - q: "Inona raha tsy afaka mamaly eny na tsia ny olona?"
     a: "Ampiasao fanehoan-tànana, hanaovana atanana ambony na ambany, na mamelatra karatra sary iray. Azonao atao koa ny manao tombontsoa mikiakiaka ary avelao izy hamaly amin'ny fanikeham-doha, fihomehezana na teny iray."
@@ -54,7 +54,7 @@ Amin'ny fanontaniana mahazatra, iray no manontany ary iray hafa tokony hahalala.
 
 Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) dia manoro ny mpikarakara hampiasa teny fohy sy tsotra, fanontaniana iray isaky ny indray mandeha, ary feo malemy sy fandrantenana. Ireo fomba ireo dia mifanaraka tsara amin'ireo lalao famantarana.
 
-## Ahoana no fomba handalovana lalao 20 fanontaniana malemy
+## Ahoana no fomba handalovana lalao roapolo fanontaniana malemy
 
 1. **Misafidiana lohahevitra** avy amin'ny fiainan'ny olona, toy ny lakozia, ny zaridaina, ny biby na ny morontsiraka.
 2. **Avelao izy hieritreritra zavatra iray** ary lazao amim-panginana, na asehoy karatra sary mba tsy hilaina ny handre azy.

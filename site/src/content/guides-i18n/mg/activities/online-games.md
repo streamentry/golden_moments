@@ -1,5 +1,5 @@
 ---
-title: "Lalao an-tserasera maimaim-poana ho an'ny olona manana demensia, tsy mila fampidirana"
+title: "Lalao an-tserasera maimaim-poana ho an'ny demensia"
 seoTitle: "Lalao an-tserasera ho an'ny demensia, tsy mila app"
 description: "Lalao an-tserasera maimaim-poana ho an'ny demensia, misokatra amin'ny browser tsy misy app na kaonty: fitambarana sary, fikarohana, fanangonana ary fitsaharana."
 section: activities

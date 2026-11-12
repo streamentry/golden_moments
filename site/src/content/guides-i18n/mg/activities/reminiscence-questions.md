@@ -1,5 +1,5 @@
 ---
-title: "Fanontaniana momba ny fahatsiarovana ho an'ny olona manana demensia, malalaka sy tsy fitsapana"
+title: "Fanontaniana momba ny fahatsiarovana ho an'ny olona manana demensia"
 seoTitle: "Fanontaniana momba ny fahatsiarovana ho an'ny demensia"
 description: "Fanontaniana momba ny fahatsiarovana ho an'ny olona manana demensia araka ny lohahevitra: trano, asa, sakafo, mozika, fetibe; teny mafana, tsy fitsapana."
 section: activities

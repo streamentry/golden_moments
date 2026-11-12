@@ -1,5 +1,5 @@
 ---
-title: "Bingo amin'ny sary ho an'ny olon-antitra manana demensia, an-taratasy na an-efijery"
+title: "Bingo amin'ny sary ho an'ny olon-antitra manana demensia"
 seoTitle: "Bingo amin'ny sary ho an'ny demensia"
 description: "Bingo amin'ny sary ho an'ny olon-antitra manana demensia: sary lehibe, mpiantso malemy, tsy misy fanerena hahazo, ary toro-hevitra ho an'ny vondrona kely."
 section: activities
