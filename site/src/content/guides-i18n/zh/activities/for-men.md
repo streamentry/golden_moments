@@ -1,32 +1,28 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "男性失智症的活动：来自真实生活的点子"
+seoTitle: "男性失智症活动：贴近真实生活的点子"
+description: "为与失智症共同生活的男性设计的活动点子，基于他的工作、爱好和习惯而非刻板印象，并说明每项活动如何安全调整。"
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  最适合与失智症共同生活的男性的活动，来自他自己的人生：他做过的工作、喜爱的爱好，以及一直保持的日常习惯。以前在办公室工作的人可能喜欢整理文件，修理工可能喜欢拿着干净的工具，体育迷可能喜欢一场老比赛。每个男人的兴趣都不同，所以请从这个人本身出发，而不是从他的性别出发。
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "从他自己的经历开始：他的工作、爱好、日常习惯，以及他引以为傲的事。"
+  - "有真实目的的任务，例如分拣五金零件、洗车或打磨木料，往往比像上课一样的活动更吸引人。"
+  - "并非每个男人都喜欢工具或体育。许多人喜欢烹饪、音乐、园艺、绘画或照顾别人。请多问、多观察，并跟随他的带领。"
+  - "把工作式的任务做得安全：拿走尖锐的工具并在旁监督，随着能力变化再把任务简化。"
+  - "可以拒绝。提供一个角色，而不是一项指派，过一天再试。"
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "失智症的男性喜欢哪些活动？"
+    a: "没有统一的清单，因为男性的兴趣和任何人一样各不相同。好的起点包括与他过去工作相关的任务，例如整理文件或分拣螺丝螺母，以及他曾热爱的爱好，例如钓鱼、汽车、音乐、烹饪或体育。观察他独自会做什么，然后在此基础上发展。"
+  - q: "我父亲不愿意参加团体活动，我该怎么办？"
+    a: "许多人，无论男女，都会拒绝那些像上课或看起来幼稚的活动。可以改为提供一项工作：“能帮我把这些分一下类吗？”小团体或一对一的时间，也可能比大房间更让他舒服。"
+  - q: "让他使用工具安全吗？"
+    a: "只有在有人监督并使用安全工具的情况下才可以。拿走电动工具、刀片和一切尖锐的东西，并提供诸如打磨一块木头、分拣干净的五金零件，或用手拧紧大螺栓之类的任务。阿尔茨海默病协会建议从工作间中移走危险物品，这样打磨木料之类的任务仍然可以安全地享受。"
+  - q: "他以前是专业人士，简单的任务会让他觉得受辱吗？"
+    a: "如果把任务说成只是打发时间的杂事，确实可能会。请把任务说成真正需要的帮助，使用成人化的材料，并选择与他以前角色相近的事，例如核对清单、整理档案或帮忙装邮件。如果他在某项技能上非常出色，选择相关但不同的活动，可能会让他不觉得被拿来比较。"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +41,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+人们搜索“男性失智症的活动”，通常是因为常见的建议似乎都不适合他们身边的这个人。这是很合理的担心。但答案并不是一份“男性化”的活动清单，而是从这个具体的男人开始：他以前做什么工作，周末做什么，什么让他觉得自己有用。每个人的兴趣都不同。很多男人喜欢烹饪、园艺、绘画或唱歌，也有很多女性喜欢汽车和棒球。
 
-## How do I find activities he will actually enjoy?
+## 怎样找到他真正会喜欢的活动？
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+从他的人生经历开始。阿尔茨海默病协会建议，应围绕对方的喜好、不喜欢的事、优势和兴趣，并参考他过去安排一天的方式，来制定[每日计划](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan)。请问问自己：
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **他的工作是什么？** 办公室、农场、工厂、手艺、军队、销售、教书、开车，还是家务和照顾家人？
+- **他业余时间做什么？** 钓鱼、打牌、木工、体育、教会、音乐、烹饪，还是车库里的汽车？
+- **他有哪些日常习惯？** 每天早上一杯咖啡和一份报纸？会看天气？周六洗车？
+- **他还会自己主动开始做什么？** 阿尔茨海默病协会指出，如果一个人没有被要求就开始做某件事，例如扫地，这些事就可能成为他日常的一部分。
+- **他会避开什么？** 有些人喜欢看体育比赛，有些人则会被快节奏和噪音困扰。留意他什么时候看起来开心、焦虑或烦躁。
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+也和家人、老朋友聊聊。他们可能还记得一些已经从日常生活中淡出的兴趣。
 
-## Activity ideas based on past work
+## 根据过去工作设计的活动点子
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+阿尔茨海默病协会给出了一个清楚的例子：以前在办公室工作的人可能喜欢整理东西，例如把硬币放进硬币盒、帮忙装邮件或列待办事项；以前务农或做园艺的人，则可能喜欢在院子里干活。同样的道理也适用于许多其他职业。
 
-| Past work | Activity ideas | Simpler version |
+| 过去的工作 | 活动点子 | 更简单的版本 |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| 办公室或生意 | 把文件分进文件夹、贴邮票、核对清单、整理抽屉 | 叠信封；把回形针放进盒子 |
+| 手艺或修理 | 分拣干净的螺母、螺栓和垫圈；用手拧紧大螺栓；翻看工具目录 | 按大小分进两个杯子 |
+| 农业或园艺 | 浇水、盆栽、耙落叶、照看花园 | 坐在外面，看您工作；拿着种子包 |
+| 军队 | 擦鞋、整理抽屉，如果他喜欢，就看当年服役时的照片 | 听那个年代的音乐 |
+| 销售或客户服务 | 迎接来访的人、分发点心、整理优惠券 | 坐在门口打招呼 |
+| 教书 | 朗读、整理书籍、按主题分类图片 | 一起翻看图画书 |
+| 开车或运输 | 看地图或旧汽车杂志、洗车 | 从门廊看车经过 |
+| 家庭与照顾 | 叠衣服、摆餐桌、帮忙做晚餐 | 把餐巾抚平；搅拌 |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+有些回忆，例如服役的经历，可能会引起强烈的情绪。请跟随他的带领，让谈话保持正面，如果他显得不安，就温和地转换话题。
 
-## Activity ideas based on hobbies
+## 根据爱好设计的活动点子
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **木工。** 打磨一块光滑的木头，或给一个鸟屋套件上色。阿尔茨海默病协会建议从工作间中移走危险材料和工具，这样打磨木料之类的活动才能既愉快又安全。
+2. **钓鱼。** 整理一个已经拿掉鱼钩的渔具盒，翻看钓鱼杂志，或一起坐在池塘边。
+3. **汽车。** 洗车、擦亮镀铬部件、看老爷车照片，或以乘客的身份去兜风。
+4. **体育。** 看一场经典比赛或精彩集锦，轻轻抛一个软球，把高尔夫球放在地毯上，或整理棒球卡。
+5. **纸牌和游戏。** 玩一局熟悉的纸牌、多米诺骨牌，或翻牌找配对。保持轻松，不必计分。
+6. **音乐。** 他十几岁和二十出头时的歌曲、喜欢的乐队，或一首圣歌。请参阅我们的[音乐活动指南](/activities/music/)。
+7. **烹饪和烧烤。** 洗菜、搅拌酱汁、捏汉堡，或在您做菜时，描述他以前是怎样做他那道有名的辣椒的。
+8. **报纸。** 阿尔茨海默病协会指出，一个一直读报的人，即使无法完全理解内容，可能仍然喜欢这样做。咖啡和报纸可以继续成为早晨的一部分。
+9. **搭建。** 适合成人的大块模型套件或简单的组装玩具。选择容易抓握的零件。
+10. **照顾一样东西。** 喂宠物、添满鸟食器，或给植物浇水。美国国家老龄研究所列出了[喂养、梳理或遛宠物](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)，是人们可能喜欢的活动之一。
 
-## How do I offer an activity without it feeling like busywork?
+## 怎样提出活动，才不会像打发时间的杂事？
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+把活动说成真正需要的帮助。阿尔茨海默病协会建议说：“能帮我一下吗？”并把任务和一个目的连在一起。比较以下两种说法：
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- “你要不要把这些螺栓分一分？”（听起来像考试）
+- “我买了一包混装的五金件，修架子之前需要先分好。你能帮我一把吗？”（听起来像一份工作）
 
-Other tips:
+其他小建议：
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **使用成人化的材料。** 真正的工具（去掉尖锐的边缘）、真正的目录、真正的信封。
+- **并肩工作。** 两个人一起做一件事是陪伴；一个人站着看另一个人做，则像是在监督。
+- **不要纠正。** 如果螺栓被放进了错的杯子，就随它去。重要的是共度的时光，以及他感到自己有用的感觉。
+- **帮他开个头。** 阿尔茨海默病协会指出，许多人仍然有想做事的愿望，但很难组织和开始。可以先一起做第一件。
 
-## How do I adapt as things change?
+## 随着情况变化如何调整？
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+随着失智症的发展，阿尔茨海默病协会建议改为更简单、更重复的任务，并做好对方退居较被动角色的准备。一个曾经修理过引擎的人，现在可能喜欢拿着一把干净的扳手，聊聊汽车，或者看您工作。看着也是一种参与。
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+如果他以前在某项技能上非常出色，相关但不同的活动，可能会比他以前的手艺更让他舒服。阿尔茨海默病协会指出，一位专业画家可能会因为作品的变化而感到挫折，而业余爱好者则可能乐于尝试新的方式。一位资深木匠也是如此。
 
-## Safety with work-style tasks
+## 工作式任务的安全注意事项
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- 拿走电动工具、刀片、钉子和尖头的螺丝。
+- 锁好油漆稀释剂、汽油和化学品。
+- 如果他已经不再开车，把车钥匙放在看不到的地方。
+- 所有工作间和院子里的任务都要有人在旁监督。
+- 选择太大而不会被吞下的零件。
 
-## What if he says no?
+## 如果他说不，怎么办？
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+请尊重这个“不”。拒绝可能意味着这项任务现在太难、太幼稚，或者今天不对劲。阿尔茨海默病协会提醒不要勉强。可以换一个任务、换一个时间，或者就只是一起坐一会儿。请参阅[当他们说不时该怎么做](/caregiving/when-they-say-no/)。
 
-## Games and conversation that fit
+## 适合的游戏与谈话
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[找出结束语](/games/finish-the-saying/)使用美国常见的熟悉俗语，并引出谈话。[谈话卡片](/games/conversation-cards/)提供按主题分类、没有测验的开放式提问，有助于开启关于工作和爱好的故事。[图片拼图](/games/picture-puzzle/)在您交换拼块时始终保持整幅图可见；大字的[找字游戏](/games/word-search/)可以打印出来，在厨房的桌子上用笔来玩。关于如何在不考验他的情况下谈论过去，请参阅我们的[怀旧指南](/activities/reminiscence/)。

@@ -1,33 +1,29 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "节日活动：从感恩节开始，适合失智症照护对象"
+seoTitle: "节日与感恩节点子：适合失智症的安排"
+description: "适合失智症照护对象的简单节日活动：厨房帮忙、布置装饰、音乐、照片和视频通话，并说明如何安排更平静的感恩节或圣诞节。"
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  节日的安排要小一些、早一些，并尽量贴近对方平时的作息。给他们一份真实、安全的工作，例如摆餐桌、洗菜、包礼物或挂装饰。分享熟悉的音乐和旧照片，提前告诉客人情况，并准备一间安静的房间。量力而为即可，一个简短而平静的庆祝就是很好的庆祝。
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "如果傍晚常常出现混乱，可以把庆祝改在白天进行，例如午餐或早午餐。"
+  - "给对方真正的工作：摆餐桌、洗蔬菜、包装、布置或摆放甜点。"
+  - "熟悉的音乐、圣诞颂歌和旧相册，是轻松分享节日氛围的方式。"
+  - "事先告诉客人会遇到什么情况，并给对方看看即将来访的人的照片。"
+  - "准备一间安静的房间，放上喜欢的毯子或毛衣，每次只让少数几位访客进来。"
+  - "避免任何会让人不知所措的东西，包括看起来像食物的装饰品，以及很多闪烁的灯。"
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "失智症的人在感恩节可以做些什么？"
+    a: "给他一份简单、安全、符合他今天能力的工作：洗蔬菜、搅拌蔓越莓酱、摆餐桌、折餐巾，或把甜点放到盘子里。之后，可以一起翻看家庭旧照片，或唱熟悉的歌。参与这一天本身，比任务做得好不好更重要。"
+  - q: "我们还应该办一场大型的家庭聚会吗？"
+    a: "只有在能够应付的情况下才办。人多和噪音可能让人不知所措，所以许多家庭会改成规模较小、较随意的聚会，提早开饭，或让访客分批进来。阿尔茨海默病协会鼓励照护者只做自己能合理、安全地应付的事。"
+  - q: "我该怎样让很久没来看望的家人做好准备？"
+    a: "在他们到达之前告诉他们，可能会看到一些变化，而这些变化来自疾病，而不是来自这个人本身。请他们不要纠正或考问对方，一次只说一个人的话，并给对方时间回答。事先让对方看看客人的照片，也会有帮助。"
+  - q: "什么样的节日礼物适合失智症的人？"
+    a: "简单、安全、现在就能享受的东西：喜欢的零食、柔软的毛毯或毛衣、熟悉的音乐，或一本家庭相册。避免复杂的电子产品、工具和有挑战性的棋盘游戏。让他参与送礼，例如包装礼物，或装好他帮忙烤的饼干，这本身就是一份礼物。"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +36,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+节日可以唤起温暖的回忆，但也可能带来噪音、人群，以及与平常生活不同的安排。对于与失智症共同生活的人来说，最好的庆祝通常规模较小、节奏较慢，并围绕他们仍然能享受的事情来安排。这些点子适用于感恩节、圣诞节、光明节、新年以及家人的生日。
 
-## How do I plan a calmer holiday?
+## 怎样规划一个更平静的节日？
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+先从对方的作息开始，把一天围绕它来安排。[美国阿尔茨海默病基金会](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/)建议把庆祝提前到白天，因为混乱和不安往往在下午晚些时候和晚上加重（有时被称为日落综合征，即 sundowning）。节日午餐或早午餐，可能比很晚的晚餐更容易应付。
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **规模要合适。** 规模较小、较随意的聚会，或者让客人分批到达，通常比一张挤满人的餐桌更容易应付。
+- **分配任务。** 请亲友带一道菜、负责采购，或在您做饭时陪伴对方。请明确说出哪些帮助是最需要的。
+- **装饰保持简单。** [阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/holidays)指出，闪烁的灯可能令人困惑，而用作装饰的糖果或假水果，可能会被误认为食物。
+- **决定放下什么。** 如果某个传统已经变得有压力，或者有风险，那么跳过它，或者改成更安静的版本，都没关系。
 
-## What holiday activities can we do together?
+## 节日里我们可以一起做什么活动？
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+选择符合对方今天能力的工作和消遣。参与这一天本身，比结果如何更重要。
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **一起摆餐桌。** 先放盘子，再放餐巾，然后是杯子。折餐巾是一件适合坐下来做的工作。
+2. **洗蔬菜和挑拣。** 在厨房的桌子上冲洗土豆或掰断四季豆，对许多以前会做饭的人来说，既安全又熟悉。
+3. **搅拌、混合或摆盘。** 搅拌蔓越莓酱、混合简单的面糊，或把饼干摆到盘子上，让双手忙碌，同时远离炉火和刀具。
+4. **包礼物。** 把包装纸和胶带预先裁好，让对方折叠和抚平。整洁的包装不是重点。
+5. **挂几样装饰。** 选择不易碎的挂饰，并只布置一个小区域，例如一个花环或一棵小树。
+6. **做一件简单的手工。** 纸链、树叶拼贴，或用印章做的节日卡片，都很合适。我们的[手工艺指南](/activities/arts-and-crafts/)提供了更多点子。
+7. **唱歌和聆听。** 熟悉的圣诞颂歌和节日歌曲，即使对方现在说话较少，也很容易跟着哼唱。请参阅我们的[音乐指南](/activities/music/)，了解如何制作一份播放列表。
+8. **翻看节日旧照片。** 拿出过去庆祝的相册，并邀请对方讲故事（“跟我讲讲这张桌子”），而不是问照片里的人是谁。我们的[怀旧指南](/activities/reminiscence/)介绍了具体方法。
+9. **玩一个温和的小组游戏。** [图片宾果](/games/picture-bingo/)几分钟就能印好，适合各个年龄；[对话卡片](/games/conversation-cards/)则能让每个人都有话可说。
+10. **一起填色。** 可以把简单的[填色画](/games/coloring/)打印出来，让孩子和祖父母在餐桌上一起画。
+11. **看一部喜欢的节日电影。** 熟悉的电影令人放松，只看其中一部分也没关系。
+12. **短途开车去看灯饰。** 安静地开车经过装饰好的房子，有时比拥挤的活动更容易应付。
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+如果烹饪曾是对方生活的重要部分，我们关于[家务活动](/activities/household-tasks/)的指南，提供了更多让厨房工作既安全又有成就感的方法。
 
-## How do I prepare guests?
+## 怎样为客人做准备？
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+在客人到达之前，告诉他们会遇到什么情况，尤其是很久没有来看望的亲戚。阿尔茨海默病协会建议解释，记忆和行为的变化来自疾病，而不是来自这个人本身。
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **分享几个简单的提示：** 一次只说一个人的话，给对方时间把话说完，不要纠正或考问，如果对方难以跟上语言，就顺着对方的语气回应。
+- **说明什么有帮助，什么会让人不安。** 如果大声说话、被催促或某些话题会引起困扰，请直接告诉客人。
+- **事先介绍客人。** 让对方看看即将来访的人的照片，并分享一两个故事；或者在当天之前安排一次简短的电话或视频聊天。
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+我们的[沟通技巧](/caregiving/communication-tips/)有更详细的说明。
 
-## What if it gets to be too much?
+## 如果太过劳累怎么办？
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+在客人到达之前，先准备好一间安静的房间，远离噪音，并放上熟悉的舒适物品，例如喜欢的毯子、毛衣或一件简单的活动用品。尽早并经常提出：“我们去安静的地方坐一会儿，好吗？”
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+离开餐桌、提早上床睡觉，或跳过部分行程，都是很好的结果，而不是失败。如果对方变得不安，平静的声音、熟悉的歌曲或走到另一个房间里散步，往往比讲道理更有效。我们关于[傍晚的烦躁不安](/caregiving/late-day-restlessness/)的指南，提供了更多适用于傍晚的点子。
 
-## How can family far away take part?
+## 远方的家人如何参与？
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+视频通话让亲戚不必挤在现场也能加入。阿尔茨海默病协会建议为通话安排一些结构，例如一起唱节日歌曲、分享以前聚会的照片、一起做同一道食谱，或同时观看一部节日电影。通话要简短，并请大家一次只说一个人的话，因为多人同时说话很难跟上。我们的[电话和视频通话指南](/activities/phone-and-video-calls/)提供了一步一步的点子。
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+如果对方住在失智症的护理机构，请先确认探访规定，并请工作人员帮忙安排通话。我们关于[探访失智症护理机构中的人](/activities/visiting/)的指南，介绍了该带什么，以及如何好好地道别。
 
-## What gifts suit someone with dementia?
+## 什么礼物适合失智症的人？
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+通常最好的是简单、安全、现在就能享受的礼物：喜欢的零食、柔软的毛毯或开衫、熟悉的音乐、大字的日历，或一本家庭照片相册。阿尔茨海默病协会建议避免危险的工具、复杂的电子产品和有挑战性的棋盘游戏。
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+送礼也可以和收礼一样有意义。装好对方帮忙烤的饼干，或请对方包装您买的礼物，让他们也能参与节日。一个家庭照片游戏也是不错的点子：[照片配对](/games/photo-pairs/)可以把您挑选的几张照片变成一个温和的配对游戏，直接在浏览器中进行。
 
-## Look after yourself too
+## 也要照顾好自己
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+节日会增加照护的工作量。请让别人来主办或负责烤火鸡，拒绝会很辛苦的活动，并在其他人陪伴对方时休息一下。如果您或您照顾的人身体不适，在车道上挥挥手，或来一通视频通话，同样是很好的探望。我们关于[照护者的自我照顾](/caregiving/caregiver-self-care/)的指南，提供了更多支持。

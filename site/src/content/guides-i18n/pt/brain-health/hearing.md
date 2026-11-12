@@ -100,7 +100,7 @@ A perda auditiva pode ser confundida com confusão mental. O NIA observa que ido
 
 ## O que são aparelhos auditivos de venda livre?
 
-Desde 17 de outubro de 2022, a [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) permite uma categoria de aparelhos auditivos de venda livre (OTC). Veja como eles se comparam aos aparelhos com receita:
+Hoje a [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) permite uma categoria de aparelhos auditivos de venda livre (OTC). Veja como eles se comparam aos aparelhos com receita:
 
 | Característica | Aparelhos de venda livre | Aparelhos com receita |
 | --- | --- | --- |
