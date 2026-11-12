@@ -1,33 +1,33 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Hëllefen Gehirnspiller g géint Demenz? Wat d'Beweiser weisen"
+seoTitle: "Hëllefe Gehirnspiller géint Demenz? D'Beweiser"
+description: "Wat d'Fuerschung iwwer Gehirnspiller a Demenz seet: kognitiv Stimulatioun, Computer-Gehirntraining, d'ACTIVE-Studie a de FTC-Fall Lumosity, kloer erkläert."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Kee Gehirnspill ass bewisen, dass en Demenz verhënnert. Computer-Gehirntraining
+  verbessert meeschtens d'Aufgaben, déi ee gëbt. Eng Studie aus der ACTIVE-Studie
+  huet e bestëmmt Geschwindegkeetstraining mat Opfrëschungssitzungen mat manner
+  Demenz-Diagnosen iwwer 20 Joer verbonne, eng enk Feststellung. Fir Leit, déi
+  schonn mat Demenz liewen, zeege Gruppe mat kognitiver Stimulatioun kleng,
+  kuerzfristeg Virdeeler. Spiller si am beschte fir de Plaisir a fir d'Gesellschaft.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Studien zum Gehirntraining weisen, datt d'Leit an den Aufgaben, déi se üben, besser ginn, mat vill manner Beweiser, datt dat sech am Alldag weiderzitt."
+  - "An der ACTIVE-Studie hate nëmmen d'Leit, déi e bestëmmt Geschwindegkeetstraining plus Opfrëschungssitzungen gemaach hunn, iwwer 20 Joer manner Demenz-Diagnosen. Geschwindegkeetstraining ouni Opfrëschung, Gedächtnis- a Logiktraining hu dat net gewisen."
+  - "2016 huet de Maker vu Lumosity 2 Millioune Dollar bezuelt, fir FTC-Virwërf ze reglen, datt d'Firma d'Wëssenschaft fir Behaaptungen iwwer e Verzögere vun Demenz net hat."
+  - "Bei Leit mat mëller bis mëttlerer Demenz zeege Gruppen mat kognitiver Stimulatioun kleng, kuerzfristeg Virdeeler fir d'Denken a méi kloer Gewënn bei Kommunikatioun a sozialer Interaktioun."
+  - "Golden-Moments-Spiller si fir de Plaisir a gemeinsam Zäit. Si sinn keng Behandlung a verhënneren oder bremsen Demenz net."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Verhënnere Gehirnspiller Alzheimer?"
+    a: "Kee Gehirnspill ass bewisen, dass en Alzheimer oder anerer Demenz verhënnert. Den National Institute on Aging seet, datt et net genuch Beweiser gëtt, dass kommerziell Gehirntrainings-Apps d'selwecht Wierkung hunn wéi d'Training an de klinesche Studien. Spiller kënnen awer eng schéi Aart sinn, Zäit ze verbréngen."
+  - q: "Wat huet d'ACTIVE-Studie zum Geschwindegkeetstraining an Demenz erausfonnt?"
+    a: "Eng Analyse vun 2026 huet d'ACTIVE-Participanten mat hiren Medicare-Dossieren iwwer 20 Joer verbonnen. Leit, déi e Geschwindegkeetstraining fir d'Verarbechtung gemaach hunn an op d'mannst eng Opfrëschungssitzung hatten, hunn eng méi niddreg Quote u Demenz-Diagnosen gehat wéi d'Grupp ouni Training. Geschwindegkeetstraining ouni Opfrëschungen an Gedächtnis- oder Logiktraining hunn kee bedeitenden Effekt gewisen."
+  - q: "Sinn Puzzelen a Spiller gutt fir eng Persoun, déi schonn Demenz huet?"
+    a: "Si kënnen et sinn, wann d'Persoun se gär huet. Gruppen mat kognitiver Stimulatioun, mat Wuertspiller, Puzzelen, Musek a Gespréich, weisen kleng, kuerzfristeg Virdeeler fir d'Denken an méi kloer Virdeeler fir Kommunikatioun an sozial Interaktioun. Plaisir, net en Testresultat, ass dat richtegt Zil."
+  - q: "Firwat gouf Lumosity vun der FTC gebüsst?"
+    a: "2016 huet d'Federal Trade Commission ugeklot, datt Lumos Labs Behaaptunge iwwer seng Spiller gemaach huet, dorënner Verzögerung vun alterbedéngtem Réckgang an Demenz, ouni d'Wëssenschaft dofir ze hunn. D'Firma huet zougestëmmt, 2 Millioune Dollar ze bezuelen an op zouverlässeg wëssenschaftlech Beweiser ze hunn, ier se sou Behaaptungen a Zukunft mécht."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Gehirnspiller gi se iwwerall, an vill verspriechen, Äre Kapp jonk ze halen. Wann Dir eng Persoun mat Demenz betreit oder Iech selwer Suergen iwwer Äert Gedächtnis maacht, ass et normal ze froen, ob et hëllefe kéint, se ze spillen. Hei ass, wat d'Fuerschung wierklech weist, mat de Participen, déi ermutegend sinn, a deenen, déi et net sinn.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Dat ass allgemeng Informatioun, keng medizinesch Berodung. Kuckt eisen [medizinesche Virbehalt](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Verhënneren Gehirnspiller Demenz?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Kee Gehirnspill ass bewisen, dass en Demenz verhënnert. Den National Institute on Aging (NIA) rät Leit, skeptesch ze sinn bei Behaaptungen, dass Computer- a Online-Spiller d'Gedächtnis verbesseren, a seet, datt et net genuch Beweiser gëtt, dass eng kommerziell Gehirntrainings-App dee selwechte Effekt huet wéi d'Training an de klinesche Studien ([NIA iwwer d'Verhënnerung vun Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Dat mécht d'Spiller net nëtzlos. Hire Wäert läit am Plaisir, an der Gesellschaft a Routine, net am Schutz virun Demenz.
 
-## What is "near transfer", and why does it matter?
+## Wat ass „Near Transfer“, a firwat ass dat wichteg?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Wann een eng Aufgab übt, gëtt ee meeschtens an där Aufgab besser. D'Fuerscher nennen dat en Trainingseffekt. D'schwéier Fro ass, ob d'Verbesserung sech op aner Saachen iwwerdroen: op ähnlech Aufgaben (Near Transfer) oder op den Alldag, wéi sech u Rendez-vousen erënneren oder Suen verwalten (Far Transfer).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Eng gréisser Iwwersiicht vun 2016 huet d'Studien ënnersicht, déi Gehirntrainings-Firmen als hir beschte Beweiser zitéiert hunn. Si huet vill Beweiser fonnt, datt d'Leit an de trainéierte Aufgaben besser ginn, manner Beweiser, datt se bei ganz ähnlechen Aufgaben besser ginn, an e klenge Beweis, datt Training de Alldagsdenken verbessert. Vill vun den Studien haten och Designprobleemer, déi fest Schlussfolgerungen onméiglech maachen ([Simons a Kollegen, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Wat soen d'Iwwersiichten zum Computer-Gehirntraining?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane-Iwwersiichten, déi déi bescht verfügbar Studien zesummefaassen, hunn Computertraining mat mindestens 12 Wochen Dauer ënnersicht:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Gesond Erwuessener vun 65 an méi:** aacht Studien mat 1,183 Leit. D'Beweiser ware vun nidderger oder ganz nidderger Qualitéit. Et kann e klenge Virdeel direkt nom Training ginn, ouni kloer Beweis, dass en unhält ([Cochrane-Iwwersiicht, gesond eeler Erwuessener](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Leit mat mëlleger kognitiver Beaschtegung:** aacht Studien mat 660 Leit. Keng Studie huet berichtet, ob d'Leit duerno Demenz kruten, an d'Beweiser waren ze schwaach, fir Schlussfolgerungen ze zéien ([Cochrane-Iwwersiicht, mëlleg kognitiv Beaschtegung](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Wat huet d'ACTIVE-Studie erausfonnt?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ass eng grouss US-Studie, déi 1998 ugefaang huet mat 2.802 Erwuessene vun 65 an méi Joer, déi selbstständeg gewunnt hunn an keng grouss Gedächtnis- oder Denkprobleemer haten. D'Leit goufen zoufälleg enger vun dräi Aarte vu Klengruppentraining zougewisen (Geschwindegkeet vun der Verarbechtung, Gedächtnis oder Logik) oder enger Gruppe ouni Kontakt. D'Training bestoung aus bis zu zéng Sitzungen iwwer fënnef bis sechs Wochen. E puer Leit, déi di meescht Sitzunge gemaach hunn, goufen zoufälleg och Opfrëschungssitzungen ungebueden, ongeféier e Joer an dräi Joer méi spéit.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Dat Geschwindegkeetstraining huet bestanen, visuell Informatioun a ëmmer kierzeren Iwwerbléckungen ze erkennen a veraarbechten, op engem Niveau, dat sech u Verbesserungen ugepasst huet.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026 hunn d'Fuerscher 2.021 Participanten mat hire Medicare-Dossieren iwwer 20 Joer verbonnen ([ACTIVE-Analyse iwwer 20 Joer](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Hei ass genau, wat se fonnt hunn:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Geschwindegkeetstraining plus op d'mannst eng Opfrëschungssitzung:** eng méi niddreg Quote u Demenz-Diagnosen wéi bei der Gruppe ouni Kontakt (en Hazard Ratio vun 0,75, wat ongeféier heescht, datt d'Quote 25 % méi niddreg ass).
+- **Geschwindegkeetstraining ouni Opfrëschungen:** kee méi niddrege Wäert.
+- **Gedächtnis- oder Logiktraining:** kee bedeitenden Effekt op Demenz-Diagnosen.
+- **All Trainingsgrupp am Ganzen am Verglach zur Gruppe ouni Kontakt:** eng Tendenz zu méi niddrege Quoten, awer net statistesch bedeitend.
 
-### The limits of this finding
+### D'Grenze vun dësem Resultat
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Et gëtt op **eng bestëmmten Aart vu betreutem Geschwindegkeetstraining mat Opfrëschungssitzungen** ugewannt, net op Gehirnspiller allgemeng.
+- De bedeitende Resultat kënnt aus enger **Ënnergrupp** (Leit, déi di meescht vun den éischte Sitzungen fäerdeg gemaach hunn an Opfrëschungen ugebuede kruten), net aus der ganzer Geschwindegkeetsgrupp.
+- Demenz gouf iwwer **Diagnosecodes aus Medicare-Ufroen** gemooss, net duerch d'Iwwerpréiwung vun all Persoun. Ongeféier een Véierel vun den ursprénglechen Participanten gouf ausgelooss, well se bei Medicare Advantage ageschriwwen waren, wat keng vollstänneg Ufroe-Dossieren huet.
+- D'Participanten haten am Ufank keng bedeitend Denkprobleemer. D'Resultater soen näischt iwwer Spiller fir Leit, **déi schonn mat Demenz liewen**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Et ass en interessant Resultat, dat méi Fuerschung verdéngt. Et ass keen Beweis, dass eng App Demenz verhënnert.
 
-## What did the FTC say about Lumosity?
+## Wat sot d'FTC iwwer Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+Am Januar 2016 huet Lumos Labs, de Maker vu Lumosity, zougestëmmt, 2 Millioune Dollar ze bezuelen, fir Virwërf vun der Federal Trade Commission wéinst irreféierender Reklam ze reglen. D'FTC sot, d'Firma hätt ouni genuch Wëssenschaft behaapt, datt hir Spiller d'Leeschtung op der Aarbecht an an der Schoul verbesseren kënnen an alterbedéngten Réckgang, mëlleg kognitiv Beaschtegung, Demenz an Alzheimer verzögeren kéinten. D'Uerdnung verlaangt, datt d'Firma a Zukunft kompetent a zouverlässeg wëssenschaftlech Beweiser huet, ier se sou Behaaptungen mécht ([FTC-Pressematdeelung](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+D'Lektioun fir Familljen: Sidd skeptesch bei all Spill, all App oder all Programm, dat verspriecht, d'Gedächtnis ze schützen oder Demenz ze verhënneren.
 
-## Can games help someone who already has dementia?
+## Kënne Spiller engem hëllefen, dee schonn Demenz huet?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Si kënnen zu engem gudden Dag bäidroen, an dat zielt vill. Den am beschte studierte Wee ass **kognitiv Stimulatioun**: agreabel Gruppenaktivitéiten wéi Gespréich, Erënnerungsarbecht, Wuertspiller, Puzzelen an Musek, normalerweis an enger klenger Grupp, gefouert vun enger Leedung.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Eng Cochrane-Iwwersiicht vun 2023 mat 37 Studien an 2.766 Leit mat mëlleger bis mëttlerer Demenz huet fonnt ([Cochrane-Iwwersiicht iwwer kognitiv Stimulatioun](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- e **klenge, kuerzfristege Virdeel** bei Denktester (Beweiser vu mëttlerer Qualitéit);
+- **klinesch relevant Verbesserungen bei Kommunikatioun a sozialer Interaktioun** (Beweiser vun héijer Qualitéit, aus enger méi klenger Zuel u Studien);
+- **liicht Virdeeler** fir Lieweskwalitéit, Stëmmung a Verhalen.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+D'Virdeeler goufe meeschtens direkt no Programmer vun ongeféier zéng Wochen gemooss, a just e puer Studie hunn kontrolléiert, ob se unhalen. Kognitiv Stimulatioun ass e strukturéierte Gruppeprogramm, dofir gëllen dës Resultater net automatesch fir eng Persoun, déi eleng e Spill op engem Tablet spillt.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+D'Lancet-Commission vun 2024 seet och, datt Aktivitéitsprogrammer wichteg sinn fir Leit, déi mat Demenz liewen, fir Freed a Sënn ze erhalen ([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Wat sinn Spiller eigentlech gutt fir?
 
-When chosen well, games can offer:
+Wann se gutt ausgewielt sinn, kënnen Spiller bidden:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Plaisir.** Eng agreabel hallef Stonn ass fir sech selwer wäert.
+- **Verbindung.** Niewenenee spillen gëtt Iech eppes Einfaches fir ze deelen, wann Gespréich schwéier ass. Kuckt [wéi ee zesumme spillt](/caregiving/how-to-play-together/).
+- **Routine.** Eng vertraut Aktivitéit zur selwechter Zäit all Dag kann Trost ginn.
+- **Vertrauen.** Aktivitéiten, déi zu deem passen, wat eng Persoun nach gutt kann, loossen se sech fäeg fillen, net getest.
+- **Gespréich.** E Bild oder en vertraute Spréch kann eng Geschicht opmaachen. Probéiert [Gesprächskaarten](/games/conversation-cards/) oder [Spréch fäerdeg maachen](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Wat ze vermeiden ass: Zäitmiessung, Punkten, Serien an alles, wat sech wéi en Gedächtnistest unfillt. Wann d'Persoun frustréiert gëtt, hal op. Fréi ophalen oder just zesummen sëtzen ass e gutt Resultat. Eise Guide [Apps a Spiller auswielen](/caregiving/choosing-apps-and-games/) huet eng Checklëscht.
 
-## Where Golden Moments fits
+## Wou Golden Moments passt
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden-Moments-Spiller, wéi [Bildpaueren](/games/picture-pairs/), [Bildpuzzel](/games/picture-puzzle/) an [Wuertsich mat groussem Text](/games/word-search/), sinn fir de Plaisir a gemeinsam Zäit gemaach. Si hu keng Auer an keng Punktewertung. Si sinn **keng** Behandlung, a si verhënneren oder bremsen Demenz **net**. Mir soen Iech dat liwwer kloer, wéi eng Verspriechung ze maachen, déi kee Spill kann halen.
 
-## Talk with a doctor
+## Mat engem Dokter schwätzen
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Wann Dir Iech iwwer Gedächtnisännerungen bei Iech selwer oder bei enger Persoun Suergen maacht, déi Dir betreit, geht zu engem Dokter, amplaz Iech op eng App ze verloossen. E Dokter kann no behandelbaren Ursaachen sichen a mat Iech d'Schrëtt mat de beschte Beweiser duerchgoen, wéi d'Bluttdrock-Kontroll a Gehéiersiicht-Test. Kuckt [Kann Demenz verhënnert ginn?](/brain-health/can-dementia-be-prevented/) fir méi. Bei plëtzlecher Verwierrung oder aneren plëtzlechen Ännerungen sicht direkt dréngend medizinesch Hëllef.
