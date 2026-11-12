@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Спиење и здравје на мозокот: што покажуваат истражувањата и што помага"
+seoTitle: "Спиење и деменција: што покажуваат истражувањата"
+description: "Што покажуваат истражувањата за спиењето и ризикот од деменција, зошто истражувањата за „чистењето“ на мозокот се сè уште рани и практични навики за спиење за постарите возрасни и за негувателите."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Некои долгорочни студии го поврзуваат кратокот сон во средните години со поголем ризик од деменција, а лабораториските истражувања сугерираат дека спиењето може да му помогне на мозокот да исчисти отпадоци. Овие докази се сè уште рани, а Комисијата на Lancet од 2024 година не го наведе спиењето како фактор на ризик што може да се промени. Редовните навики за спиење помагаат во секојдневното чувство. Проблемите со спиењето кај деменцијата се чести и вредат да се постават пред лекар.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Британска студија што следеше околу 8.000 луѓе 25 години го поврза спиењето шест часа или помалку во средните години со поголем ризик од деменција."
+  - "Промените во спиењето можат да бидат и рана појава на деменција, па е тешко да се разликува причината од последицата."
+  - "Истражувањата за тоа дека спиењето ги отстранува бета-амилоидот од мозокот се вистински, но рани, а голем дел од нив се направени на глодари."
+  - "Апнејата во спиење е честа, може да се лекува и во студиите е поврзана со деменција; гласното грчење и дневната поспаност вредат проверка."
+  - "Никогаш не започнувајте, не прекинувајте и не менувајте лек за спиење или средство за спиење без лекар."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Дали лошото спиење предизвикува Алцхајмер?"
+    a: "Тоа не е докажано. Некои студии го поврзуваат кратокиот сон со поголем ризик од деменција, но самата деменција го нарушува спиењето, често со години пред дијагнозата. Комисијата на Lancet од 2024 година ги оцени доказите како премногу неконзистентни за спиењето да се наведе како фактор на ризик што може да се промени."
+  - q: "Колку спиење му треба на постариот возрасен?"
+    a: "National Institute on Aging вели дека на постарите возрасни им треба приближно исто како и на другите возрасни, од 7 до 9 часа ноќно. Многу постари луѓе одат на спиење и се будат порано отколку порано, што е вообичаено."
+  - q: "Зошто некој со деменција спие преку денот и се буди ноќе?"
+    a: "Деменцијата може да влијае на биолошкиот часовник, па времето за спиење и будење се меша. Болката, досадата, гладта или несаканите ефекти од лековите исто така можат да имаат улога. Дневната светлина, секојдневната активност и смирена вечерна рутина може да помогнат. Лекарот може да побара причини што можат да се лекуваат."
+  - q: "Дали треба да му дадам средство за спиење на лицето за кое се грижам?"
+    a: "Прво разговарајте со неговиот лекар, вклучувајќи и за производите што се купуваат без рецепт. National Institute on Aging наведува дека некои лекови за спиење можат да го зголемат ризикот од вртоглавица, падови и конфузија кај луѓе со Алцхајмер."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Спиењето и здравјето на мозокот очигледно се поврзани, но начинот на кој се поврзани сè уште се испитува. Некои студии го поврзуваат кратокот сон со поголем ризик од деменција. Деменцијата, пак, често го нарушува спиењето. Оваа страница објаснува што истражувањата покажуваат и што не покажуваат, дава практични навики за спиење и ги опфаќа проблемите со спиењето што се чести кај деменцијата. Таа не дава совети за лекови за спиење; тој разговор припаѓа на лекар.
 
-## Is poor sleep linked with dementia?
+## Дали лошото спиење е поврзано со деменција?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Некои долгорочни студии го поврзуваат кратокиот сон со поголем ризик од деменција, но доказите не се конечни.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Британска студија од 25 години.** Истражувачите следеле околу 8.000 возрасни во [студијата Whitehall II](https://www.nature.com/articles/s41467-021-22354-2). Луѓето што спиеле шест часа или помалку на 50 или 60 години имале поголем ризик од деменција подоцна во однос на оние што спиеле седум часа. Луѓето што спиеле шест часа или помалку на 50, 60 и 70 години имале околу 30% поголем ризик во однос на оние што редовно спиеле седум часа. Ова беше опсервациска студија, па покажува врска, а не причина.
+- **Ставот на Комисијата на Lancet.** [Комисијата на Lancet од 2024 година](https://doi.org/10.1016/S0140-6736(24)01296-0) не го додаде спиењето на својата листа од 14 фактори на ризик што може да се променат. Таа ги оцени доказите како недоволно конзистентни. Една причина е „обратна причинско-последична врска“: промените во мозокот од деменцијата почнуваат со години пред дијагнозата и можат да го нарушат спиењето. Во една голема студија, врската меѓу долгиот сон и деменцијата исчезнала откако првите пет години од следењето беа исклучени.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Значи, една кратка ноќ повремено не е причина за загриженост. Редовното, квалитетно спиење вреди да се постигне, бидејќи помага во расположението, будноста и безбедноста денес.
 
-## What is the "brain-clearing" sleep research?
+## Што е истражувањето за „чистење“ на мозокот за време на спиење?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Можеби сте читале дека спиењето го „чисти“ мозокот. Таа идеја потекнува од вистинско истражување, но тоа е рано.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Кај глодари.** Студија од 2013 година, [опишана од NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep), утврдила дека просторот меѓу мозочните клетки се зголемил за околу 60% кога глодарите спиеле. Течноста полесно течела низ мозокот, преку онаа што истражувачите ја нарекуваат глимфатички систем. Бета-амилоидот, протеин поврзан со Алцхајмер, се исчистил побрзо од мозоците на глодарите што спиеле.
+- **Кај луѓе.** Мала [студија од 2018 година](https://www.pnas.org/doi/10.1073/pnas.1721694115) скенирала 20 здрави возрасни на возраст од 22 до 72 години по нормална ноќ и по ноќ без спиење. По ноќта без спиење, сигналот на мозочниот скен за бета-амилоид порасна за околу 5% во област што вклучува хипокампус, регион важен за меморијата. Авторите го нарекоа ова прелиминарен доказ. Не знаеле дали промената исчезнува по одмор или дали одразува побавно чистење или поголемо создавање на амилоид.
+- **Важи и во двете насоки.** Комисијата на Lancet наведува дека самото натрупување на амилоид може да го наруши спиењето кај постарите возрасни.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Овие наоди помагаат да се објасни зошто истражувачите се заинтересирани за спиењето. Тие не покажуваат дека подобро спиење спречува Алцхајмер.
 
-## What sleep habits may help?
+## Кои навики за спиење може да помогнат?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Според [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults), на постарите возрасни им се потребни околу 7 до 9 часа сон ноќно, исто како и на другите возрасни. Нејзините предлози вклучуваат:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Одржувајте редовен распоред.** Одете на спиење и станувајте во исто време секој ден, дури и викендите.
+- **Изградете смирувачка рутина пред спиење.** Читајте, слушајте смирувачка музика или земете топла бања пред спиење.
+- **Направете ја спалната соба удобна,** не премногу топла и не премногу ладна.
+- **Ограничете го кофеинот доцна во денот.** Кафето, чајот, безалкохолните пијалоци и чоколадото можат да ве држат будни.
+- **Избегнувајте алкохол,** дури и во мали количини, советува NIA.
+- **Избегнувајте големи оброци два до три часа пред спиење**, како и големи пијалаци доцна во денот.
+- **Вежбајте редовно, но не во рок од 3 часа пред спиење.** Видете го нашиот [водич за вежбање](/brain-health/exercise/).
+- **Држете ги екраните надвор од спалната соба.** NIA предлага да не се гледа телевизија и да не се користи компјутер, телефон или таблет таму.
+- **Избегнувајте доцни попладневни или вечерни дремки**, ако можете.
 
-## Sleep problems in dementia
+## Проблеми со спиењето кај деменцијата
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Промените во спиењето се чести кај деменцијата. [NIA ги наведува](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) премногу спиење или премалку спиење, многукратно будење ноќе и многу дремење преку денот. Таа го опишува и т.н. „залезен синдром“ (sundowning): немир, возбуденост или конфузија што почнуваат или се влошуваат како што дневната светлина згаснува.
 
-Caregiver tips from the NIA include:
+Советите на NIA за негувателите вклучуваат:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Дневна светлина и движење рано.** Излегувајте надвор или седете покрај прозорец во текот на денот и помогнете му на лицето да биде активно секој ден. Силната светлина може да помогне да се нагласи биолошкиот часовник.
+2. **Планирајте енергични активности за утро.** Пробајте капење наутро или главниот оброк на пладне.
+3. **Одржувајте ги дремките кратки и рани.** Ограничете го дремкањето доцна во денот.
+4. **Направете ја вечерта смирена.** Намалете ја светлината, намалете ја бучавата и пуштете смирувачка музика ако лицето ужива во неа. Нашиот водич за [немир во доцниот дел од денот](/caregiving/late-day-restlessness/) содржи повеќе идеи.
+5. **Одржувајте постојана рутина за спиење.** Гласното читање во исто време секоја вечер е еден пример од NIA. [Постојаната дневна рутина](/activities/daily-routine/) исто така помага.
+6. **Ограничете го кофеинот и алкохолот.**
+7. **Користете ноќни светла** во спалната соба, ходникот и бањата.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+За будењето ноќе, [советите за безбедност во домот](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) на NIA вклучуваат ноќни светла или автоматски сензори за светлина, држачи во бањата, јарко обоена лента на работите на скалите и лекови чувани на заклучено место.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Кратка, тивка активност навечер може да ви помогне на двајцата да се смирите. Пробајте бавна [Смирувачка дишка](/games/calm-breathing/) или неколку опуштени [картички за разговор](/games/conversation-cards/). Избегнувајте што било што возбудува близу до спиење и прекинете кога лицето ќе се засити.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Прекинатото спиење исто така ги исцрпува негувателите. Нашиот [водич за грижа за себе](/caregiving/caregiver-self-care/) опфаќа начини да се одморите и да добиете помош.
 
-## What about sleep apnea?
+## Што е со апнејата во спиење?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Апнејата во спиење предизвикува кратки паузи во дишењето за време на спиењето, често многу пати ноќно. NIA вели дека, ако не се лекува, може да доведе до проблеми како висок крвен притисок, мозочен удар или губење меморија. Знаците вклучуваат гласно грчење и чувство на поспаност преку денот, а многу луѓе не знаат дека ја имаат. Комисијата на Lancet опишува преглед на 11 студии во кои луѓето со апнеја во спиење имале околу 43% поголем ризик од деменција. Малкумина од тие студии ја земале предвид тежината, па врската е несигурна.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Апнејата во спиење може да се дијагностицира и лекува. NIA наведува дека апарат CPAP речиси секогаш помага. Ако вие или лицето за кое се грижите гласно грчите, застанувате со дишење за време на спиење или сте многу поспани преку денот, кажете му на лекар.
 
-## A note about sleep medicines
+## Напомена за лековите за спиење
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Не даваме совети за лекови за спиење или додатоци. NIA наведува дека лековите за спиење можат да помогнат краткотрајно, но не се лек за несоница. Таа исто така наведува дека некои лекови што се даваат за да спијат луѓето со Алцхајмер можат да го зголемат ризикот од вртоглавица, падови и конфузија. Не започнувајте, не прекинувајте и не менувајте ниту еден лек за спиење, вклучувајќи и средства за спиење што се купуваат без рецепт, без разговор со лекар или фармацевт.
 
-## Talk with a doctor
+## Разговарајте со лекар
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Погледнете се кај лекар ако вие или лицето за кое се грижите секогаш сте уморни, имате проблеми со спиењето повеќето ноќи, гласно грчите или имате паузи во дишењето ноќе. Ако проблемите со спиењето кај деменцијата продолжат, [NIA советува](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) да се побара медицински совет. Прегледот може да најде причини како болка, друго нарушување на спиењето, болест или несакан ефект од лек. Ненадејната конфузија или ненадејна промена во спиењето заедно со конфузија бара итна нега. Прочитајте [кога да одите кај лекар](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ова е општа информација, а не медицински совет. Видете ја нашата [медицинска напомена](/medical-disclaimer/).
