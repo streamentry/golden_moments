@@ -83,7 +83,7 @@ För vägledning om dagliga rutiner och att hålla sig aktiv, se [en lugn dagsru
 
 Partner och vuxna barn känner ofta sig isolerade. Anhörigskap kan kännas som ett andra jobb ovanpå arbete och familj. Alzheimer's Associations blogginlägg rapporterar att anhöriga i grupper för yngre debut tyckte att de var till hjälp med praktiska frågor, som juridisk planering, och för att de helt enkelt kände sig förstådda. Där står också att Associationen driver gratis stödgrupper för anhöriga, bland annat grupper för dem som vårdar någon med demens med tidig debut, och att tre av dem träffas digitalt på tisdagar och onsdagar.
 
-Om du vill fråga om grupper, ring Associationens hjälplinje, öppen dygnet runt, på 800.272.3900. Vår guide om [egenvård för anhöriga](/caregiving/caregiver-self-care/) handlar om vila, avlösning och tecken på utmattning.
+Om du vill fråga om grupper, ring Associationens hjälplinje (24/7) på 800.272.3900. Vår guide om [egenvård för anhöriga](/caregiving/caregiver-self-care/) handlar om vila, avlösning och tecken på utmattning.
 
 ## Stadiet spelar fortfarande roll
 

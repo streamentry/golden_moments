@@ -1,7 +1,7 @@
 ---
 title: "Färgläggning för personer med Alzheimers och demens"
 seoTitle: "Färgläggning vid Alzheimers och demens"
-description: "Färgläggning för personer med Alzheimers eller demens: vuxna motiv, grova kritor, spel där man trycker för att färglägga och utskrivbara sidor, med tips om hur du förbereder och kan avsluta utan krångel."
+description: "Färgläggning för personer med Alzheimers eller demens: motiv för vuxna, grova kritor, skärmspel och utskrivbara sidor, med tips om att förbereda och avsluta lugnt."
 section: activities
 order: 25
 updated: 2026-11-08
