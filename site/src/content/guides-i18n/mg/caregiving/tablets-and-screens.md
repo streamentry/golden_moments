@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Fametrahana tablet na finday ho an’ny olona manana dementia"
+seoTitle: "Apetrao tablet na finday ho an’ny olona manana dementia"
+description: "Fametrahana tablet sy finday mizara dingana ho an’ny olona manana dementia: mifatotra amin’ny app iray, teny lehibe, notifikasiona kely, efijery tsotra ary feo."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Ataovy tsotra kokoa ny tablet na finday alohan’ny hanolorana azy. Mifatotra amin’ny
+  app iray amin’ny Guided Access amin’ny iPad sy iPhone na app pinning amin’ny Android,
+  na ampiasao ny Assistive Access an’i Apple ho an’ny endrika tsotra. Ataovy lehibe
+  ny soratra, afaharo ny notifikasiona, tazomina app vitsivitsy ihany amin’ny efijery
+  iray, apetraho ny feo, ampiasao stand ary ampihenao ny alalan’ny app. Ampiasao miaraka,
+  miaraka amin’ny hetsika tsy efijery.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) sy app pinning (Android) dia mitazona ny efijery amin’ny app iray mandra-pampidirana ny kaody fanokafana."
+  - "Assistive Access an’i Apple dia manome endrika tsotra natao ho an’ny olona manana fahasembanan’ny fisainana."
+  - "Ataovy lehibe ny soratra ary ajanony ny notifikasiona sy ny pop-up mba tsy hisy hanelingelina na hampisafotofoto."
+  - "Tazomina app mahazatra vitsivitsy ihany amin’ny efijery fandraisana iray, ary apetraho ny feo alohan’ny hanombohana."
+  - "Stand sy toerana fanamafisana tsy miovaova dia mahatonga ny fitaovana ho mora ampiasaina sy hitana."
+  - "Jereo ny alalan’ny app sy ny fizarana angona: ny HIPAA matetika tsy miaro izay voatahiry amin’ny fitaovana manokana."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Ahoana no fomba hisorohana ny olona manana dementia tsy hivoaka amin’ny app iray amin’ny iPad?"
+    a: "Atambeso ny Guided Access ao amin’ny Settings > Accessibility > Guided Access ary apetraho kaody fanokafana. Sokafo ny app, tsindrio telo ny bokotra ambony (na bokotra Home amin’ny iPad taloha), ary tsindrio Start. Ny iPad dia mijanona ao amin’io app io mandra-pampidirana ny kaody fanokafana."
+  - q: "Ahoana no fomba hanakatonana tablet Android amin’ny app iray?"
+    a: "Atambeso ny app pinning ao amin’ny app Settings, matetika ao ambanin’ny Security (indraindray Security & location) > Advanced > App pinning. Avy eo sokafo ny app, sokafo ny Overview, tsindrio ny kisary an’ny app ao ambony ary tsindrio Pin. Ny PIN, endrika na teny miafina no ilaina hanafoana ny pinning."
+  - q: "Azo antoka ve ny mampiasa Guided Access amin’ny finday an’ilay olona?"
+    a: "Mitandrema. Nilaza Apple fa tsy azo ampiasaina ny Crash Detection sy ny Emergency Services rehefa mandeha ny Guided Access. Raha miankina amin’ny finday ny olona ho an’ny antso vonjy maika, ampiasao Guided Access fotsiny rehefa miaraka aminy ianao, na eritreritra ny Assistive Access kosa."
+  - q: "Firy ny fotoana efijery azo ekena ho an’ny olona manana dementia?"
+    a: "Tsy misy isa voafaritra. Fitambarana fohy iraisana, mifangaro amin’ny dia an-tongotra, mozika, asa an-trano ary resaka, dia manome andro feno kokoa noho ny fotoana lava irery miaraka amin’ny efijery. Raha mahatonga fahatezerana na manakana ny hetsika hafa ny fitaovana, ampiasao kely kokoa izany."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tablet dia fomba mahafinaritra hizarana sary, mozika ary lalao tsotra. Mety ho sarotra ihany koa izany: ny tsindry diso iray dia manokatra app hafa, misy notifikasiona miseho, kely loatra ny soratra, na tsy mahita ny efijery rehefa midika lalao. Fametrahana kely avy aminao dia mamaha ny ankamaroany.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Ireo dingana ireo dia mampiasa ny fikirizana natoranao ao amin’ny iPhone, iPad ary Android. Mety miova ny anaran’ny menio eo amin’ny dikan-kafa ny rindrankajy sy ny mpanamboatra, ka raha tsy mitovy ny endrika, arahy ny pejy Apple na Google misy ny fitaovanao. Ataovy ianao ny fametrahana, alohan’ny hipetrahanareo miaraka.
 
-## Should someone with dementia use a tablet or phone?
+## Tokony hampiasa tablet na finday ve ny olona manana dementia?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Miankina amin’ny olona izany. Olona maro mahafinaritra ny mampiasa tablet miaraka amin’ny olona eo akaiky, na dia tsy afaka mampiasa irery aza izy. Atombohy amin’ny fampiasana miaraka, app iray misokatra, minitra vitsivitsy. Raha mitondra fahafinaretana sy resaka izany, mitohy. Raha mitondra fikorontanana na fahatezerana, album sary, pejy voaprint na mozika mety kokoa noho izany ho an’ny olona. Ny [hetsika azo atao amin’ny taratasy](/activities/printable/) dia iray amin’ny safidy.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Ny tablet dia matetika mora kokoa noho ny finday: lehibe kokoa ny efijery sy ny sary, ary tsy fiainana fanampiana vonjy maika ho an’ny olona.
 
-## How do I lock a tablet or phone to one app?
+## Ahoana no fomba hifatotrana tablet na finday amin’ny app iray?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Ampiasao ny Guided Access amin’ny iPhone sy iPad, na ny app pinning amin’ny Android. Samy mitazona ny efijery amin’ny app iray izy ireo mandra-pampidirana kaody, ka tsy misy tsindry na fanosehana diso ahafahan’ny hafa misokatra.
 
-### iPad and iPhone: Guided Access
+### iPad sy iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Araka ny [toromarika Guided Access an’i Apple](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Sokafo ny **Settings**, tsindrio ny **Accessibility**, avy eo tsindrio ny **Guided Access** ary ataovy mandeha izany.
+2. Ao amin’ny **Passcode Settings**, apetraho kaody Guided Access. Azonao atao koa ny mamela Face ID na Touch ID.
+3. Azo atao: ao amin’ny **Display Auto-Lock**, safidio ny haingan’ny fidirana ny efijery mandritra ny fihaonana, mba tsy ho mangirana tsy ho an-kotroka rehefa milalao.
+4. Sokafo ny app tianao ampiasaina.
+5. Tsindrio telo ny bokotra sisiny (iPhone), ny bokotra ambony (iPad), na ny bokotra Home amin’ny fitaovana taloha.
+6. Azo atao: marihy ny faritry ny efijery tsy tokony hihetsika amin’ny fikasihana. Tsindrio ny **Options** (na **Session Settings**) mba hanakatonana ny bokotra feo na hisorohana ny fihodinan’ny efijery.
+7. Tsindrio ny **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Mba hamaranana ny fihaonana, tsindrio telo indray ny bokotra mitovy, ampidiro ny kaody, ary tsindrio ny **End**. Nilaza Apple fa amin’ny dikan-kafa taloha sasany, mivoaka amin’ny tsindry roa izany.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Zava-dehibe:** Nilaza Apple fa tsy azo ampiasaina ny Crash Detection sy ny Emergency Services mandritra ny fihaonana Guided Access. Aza mamela ny Guided Access mandeha amin’ny finday izay ilain’ny olona ho an’ny antso vonjy maika.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Araka ny [fanampiana Android momba ny fanakatonana efijery](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Sokafo ny app **Settings**.
+2. Tsindrio ny **Security** (na **Security & location**), avy eo ny **Advanced**, avy eo ny **App pinning**. Raha tsy hitanao, jereo ny pejy fanampiana an’ny mpanamboatra fitaovana.
+3. Ataovy mandeha ny **App pinning**. Ny PIN, endrika na teny miafina no ilaina hanafoana.
+4. Sokafo ny app tianao. Mandroaka mankany afovoan’ny efijery ary mihazona mba hisokatra ny Overview (na tsindrio ny Overview amin’ny fandrindrana 3 bokotra).
+5. Eo ambony amin’ny topy-sary an’ny app, tsindrio ny kisary an’ny app, avy eo tsindrio ny **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Mba hanafoana amin’ny fandrindrana fihetsika, mandroaka mankany ambony ary mihazona. Amin’ny fandrindrana 3 bokotra, mihazona ny Back sy Overview. Amin’ny fandrindrana 2 bokotra, mihazona ny Back sy Home. Avy eo ampidiro ny PIN, endrika na teny miafina.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Misy ve endrika tsotra ho an’ny iPhone na iPad manontolo?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Misy. Ny Assistive Access an’i Apple dia manolo ny efijery fandraisana mahazatra amin’ny iray tsotra kokoa. [Apple dia manazava azy](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ho natao hanamora ny iPhone ho an’ny olona manana fahasembanan’ny fisainana, mba hampiasaina amim-pahaleovantena, miaraka amin’ny singa lehibe kokoa sy fiasa mifantoka kokoa. Nomen’i Apple [ilay endri-javatra mitovy amin’ny iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Iza no mametraka azy.** Nilaza Apple fa mpanohana azo itokisana, toy ny mpianakaviana na mpikarakara izay mahalala ilay olona, no manampy hifidy ny app sy ny fiasa.
+- **Aiza no hanombohana.** Mankany **Settings > Accessibility > Assistive Access**, tsindrio **Set Up Assistive Access**, avy eo **Continue**.
+- **App.** Ianao no mifidy izay app hiseho. Misy app Apple sasany manana endrika tsotra manokana, ary ny ankamaroan’ny app hafa azo ampidirina amin’ny endriny mahazatra.
+- **Endrika.** Safidio **Rows** (lisitra mora vakiana) na **Grid** (singa lehibe kokoa izay manampy ny sary sy kisary).
+- **Kaody.** Mametraka kaody Assistive Access misaraka ianao hiditra, hiala na hanova ny fikirizana. Apple dia manoro hevitra ny hanamboatra Apple Account fanavaozana mandritra ny fametrahana, satria raha tsy misy izany, ny kaody very dia midika fanamboarana indray ny fitaovana.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Mety mifanaraka amin’ny olona izay mampiasa ny fitaovany manokana isan’andro ny Assistive Access. Ny Guided Access na app pinning dia haingana kokoa ho an’ny fihaonana lalao iraisana.
 
-## How do I make text and pictures bigger?
+## Ahoana no fomba hanamafisana ny soratra sy ny sary?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Ampitomboy ny haben’ny soratra sy ny efijery, avy eo jereo raha mbola mety amin’ny efijery ny bokotra.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone sy iPad.** Araka ny [toromarika haben’ny soratra an’i Apple](https://support.apple.com/en-us/102453), mankany **Settings > Display & Brightness > Text Size** ary tsindrio ny slider. Ho an’ny soratra lehibe kokoa, mankany **Settings > Accessibility > Display & Text Size > Larger Text**. Nilaza Apple fa ny soratra lehibe be dia mety hahasarotra ny famindrana bokotra sasany, ka ampifanaraho raha ilaina.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Araka ny [fanampiana Google momba ny soratra sy ny efijery](https://support.google.com/accessibility/android/answer/11183305?hl=en), sokafo ny **Settings** ary tadiavo ny **Font size**, avy eo ampiasao ny slider. Tadiavo ny **Display size** mba hanamboarana ny zavatra rehetra eo amin’ny efijery ho lehibe kokoa. Azonao atao koa ny mampandeha ny **Bold text** ao ambanin’ny **Accessibility > Display size and text**. Ny app sasany tsy manaraka izany fikirizana izany.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Ao amin’ny lalao toy ny [Fitambarana sary](/games/picture-pairs/) sy [Mitadiava ny mitovy](/games/find-the-same/), azonao atao koa ny misafidy kapoka na safidy vitsy kokoa, izay mitazona ny zavatra ho tsotra kokoa eo amin’ny efijery.
 
-## How do I stop notifications and pop-ups?
+## Ahoana no fomba hanakanana ny notifikasiona sy ny pop-up?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Afaharo ny notifikasiona ho an’ny app tsy ilaina, ary ampiasao ny Do Not Disturb mandritra ny hetsika.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone sy iPad.** Mankany **Settings > Notifications**, tsindrio app eo ambany **Notification Style**, ary afaharo ny **Allow Notifications** ([toromarikan’i Apple momba ny fikirizana notifikasiona](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Mba hangina ny antso, fampandrenesana ary notifikasiona nandritra ny fotoana kely, sokafo ny Control Center ary ataovy mandeha ny **Do Not Disturb** avy amin’ny bokotra **Focus** ([fanampiana Apple momba ny Do Not Disturb](https://support.apple.com/en-us/105112)). Azonao atao ny mandamina izany ao ambanin’ny **Settings > Focus > Do Not Disturb > Set a Schedule**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Mandroaka avy amin’ny ambony efijery ary tsindrio **Do Not Disturb**, na mankany **Settings > Modes > Do Not Disturb** ([fanampiana Google momba ny Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Ao ambanin’ny **Notification filters** azonao safidina izay olona sy app mbola afaka mahatratra anao. Miovaova araka ny mpanamboatra fitaovana ny fikirizana.
 
-## How do I make a simple home screen?
+## Ahoana no fomba hanaovana efijery fandraisana tsotra?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Tazomina app mahazatra vitsivitsy amin’ny efijery iray ary esory any ivelany amin’ny fijerena ny sisa. Tsy misy fikirizana iray ho an’izany; momba ny fanesorana ny zavatra tsy ilaina izany.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Misafidiana app telo ka hatramin’ny enina.** Ohatra, sary, mozika, app antso video ary lalao iray.
+- **Apetraho amin’ny efijery voalohany,** amin’ny toerana mitovy isaky ny fotoana, ary afindrao ny sisa any amin’ny efijery faharoa na foldera.
+- **Ampiasao lamba-tany mazava sy mavesatra,** toy ny loko tokana na sary mahazatra iray, mba hiseho ny kisary.
+- **Esory ny app tsy ilaina.** App vitsy kokoa dia midika fahafahana kely kokoa ho an’ny fikorontanana sy angona kely kokoa azo angonina.
+- **Eritrereto ny Assistive Access** amin’ny fitaovana Apple raha tianao ho azon’ny fitaovana atao ho anao izany.
 
-## What about volume and sound?
+## Ahoana momba ny feo sy ny fampahalalana?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Apetraho ny feo mahafinaritra alohan’ny hanolorana ny fitaovana. Miaraka amin’ny Guided Access, azonao esorina ny bokotra feo mba tsy hiova mandritra ny hetsika. Jereo fa ao sy miasa ny fanampim-pandrenesana raha manana izany.
 
-## Where should the tablet live?
+## Aiza no tokony hitoeran’ny tablet?
 
-Give it a stand and a permanent charging spot.
+Omeo stand sy toerana fanamafisana maharitra.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Stand na kitapo** izay mitazona ny tablet mijoro eo ambony latabatra, ka tsy misy mila mihazona azy, ary mora kokoa ny mampiseho.
+- **Toerana iray ho an’ny fanamafisana** izay tsy mihetsika mihitsy, indrindra stand fanamafisana eo ambony latabatra ao amin’ny efitra ampiasainao isan’andro. Ny tablet dia voa-kisa foana ary eo amin’ny toerana mitovy foana.
+- **Ampihenao ny famirapiratra.** Apetraho ny efijery mitsinjo amin’ny varavarankely mamirapiratra.
 
-## How much screen time is okay?
+## Firy ny fotoana efijery azo ekena?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Tsy misy isa marina amin’ny minitra. Mirotsaha amin’ny fitambarana fohy iraisana, ho ampahany iray amin’ny andro feno izay ahitana koa hetsika ara-batana, mozika, asa an-trano, resaka ary fotoana any ivelany. Satria mety hanampy amin’ny fahatsorana andro-hariva ny hariva ho be hetsika, ataovy eritreritra ny hitazomana ny hetsika efijery any amin’ny fotoana aloha amin’ny andro. Jereo ny [hetsika mangina ariva](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Ny fampiasana tablet miaraka, fa tsy ho toy ny mpitandrina zaza, dia mitazona azy ho ara-tsosialy. Ny torolalanay momba ny [filalaovana lalao miaraka](/caregiving/how-to-play-together/) dia manazava ny fomba.
 
-## How do I protect their privacy on the device?
+## Ahoana no fomba hiarovana ny tsiambaratelony eo amin’ny fitaovana?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Ampihenao izay azon’ny app angonina, ary aza eritreritra fa ny lalàna momba ny tsiambaratelon’ny fahasalamana dia mahakasika izany. Ny Departemantin’ny Fahasalamana sy Serivisy Olombelona amerikana (HHS) [dia manazava](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) fa ny fitsipiky ny HIPAA matetika tsy miaro ny fampahalalana momba ny fahasalamana voatahiry na azo amin’ny finday sy tablet manokana. Matetika, ny HIPAA koa tsy miaro ny angona ampidirina amin’ny app ho an’ny fampiasana manokana, afa-tsy raha avy amin’ny mpanome fikarakarana ara-pahasalamana voaaro, drafitra fahasalamana, na iray amin’ny mpiara-miasa aminy ny app.
 
-HHS suggests:
+Ny HHS dia manoro hevitra:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- ny fisorohana app tsy ilaina na tsy misy antony, indrindra ireo “maimaim-poana”;
+- ny tsy fanomezana app fidirana amin’ny toerana raha tsy ilaina marina izany, toy ny sarintany.
 
-Also consider:
+Ataovy eritreritra koa:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Ampiasao kaody fanokafana** amin’ny fitaovana, ary tazomina soratra momba azy any amin’ny toerana azo antoka.
+- **Jereo ny alalana** ho an’ny sary, kamera, mikrôfôna, mpifandray ary toerana, ary afaharo izay tsy ilain’ny app.
+- **Jereo izay angona angonin’ny app** alohan’ny hametrahana azy. Ny torolalanay momba ny [fifidianana app sy lalao dementia](/caregiving/choosing-apps-and-games/) dia manana lisitra fanamarinana ny tsiambaratelo.
+- **Mitandrema amin’ny sary fianakaviana.** Zarao fotsiny ny sary izay tsy hanahirana ilay olona, ary fantaro izay toerana misy azy ao amin’ny app. Ao amin’ny [Fitambarana sary an-tokantrano](/games/photo-pairs/), ny sary safidinao mijanona ao amin’ny browser-nao.
+- **Afaharo ny fividianana ao anaty app** na esory ny antontan-kaonty ho an’ny fandoavana amin’ny kaontin’ilay olona.
