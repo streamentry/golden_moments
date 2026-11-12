@@ -75,7 +75,7 @@ Għal avveniment kbir, bħal kunċert tal-festi, poġġi l-persunal u l-voluntie
 
 ## Kif għandi nqiegħed il-kamra u s-sedili?
 
-- **Ċirku jew forma ta' ħaġa ta' ħorns.** Ir-rakkomandazzjonijiet tal-prattika jiddeskrivu ċirku ta' kondiviżjoni bħala l-aħjar f'spazju kbir biżżejjed biex kulħadd joqgħod fiċ-ċirku, mingħajr storbju tal-isfond.
+- **Ċirku jew nofs ċirku.** Ir-rakkomandazzjonijiet tal-prattika jiddeskrivu ċirku ta' kondiviżjoni bħala l-aħjar f'spazju kbir biżżejjed biex kulħadd joqgħod fiċ-ċirku, mingħajr storbju tal-isfond.
 - **Il-mexxej qrib u fl-istess livell tal-għajnejn.** Oqgħod bilqiegħda minflok tibqa' wieqaf meta tista'.
 - **Is-smigħ u l-vista l-ewwel.** Poġġi n-nies bi problemi fis-smigħ l-aktar qrib il-mexxej, fuq in-naħa li tisma' aħjar. Iċċekkja li n-nuċċali u l-għajnuniet għas-smigħ ikunu fuqhom. L-Alzheimer's Association tinnota li problemi fil-vista u fis-smigħ jistgħu jagħmlu l-komunikazzjoni aktar diffiċli.
 - **Dawl minn wara r-residenti, mhux minn wara int.** Evita li tqiegħed lil xi ħadd iħares lejn tieqa qawwija.
