@@ -99,7 +99,7 @@ Hørselstap kan blir forveksla med forvirring. NIA peiker på at eldre som ikkje
 
 ## Kva er reseptfrie høyrselsapparat?
 
-Sidan 17. oktober 2022 har [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) tillate ei kategori reseptfrie (OTC) høyrselsapparat. Slik samanliknar dei seg med apparat på resept:
+Sidan oktober 17, 2022 har [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) tillate ei kategori reseptfrie (OTC) høyrselsapparat. Slik samanliknar dei seg med apparat på resept:
 
 | Eigenskap | Reseptfrie høyrselsapparat | Høyrselsapparat på resept |
 | --- | --- | --- |

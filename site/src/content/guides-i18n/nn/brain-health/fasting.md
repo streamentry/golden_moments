@@ -112,7 +112,7 @@ Faste er ikkje eit ufarleg eksperiment for mange eldre. Moglege risikoar inklude
   ([Mayo Clinic om periodisk faste](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
 - **Andre verknader.** Mayo Clinic listar òg hovudverk, humørsvingingar og
   forstoppelse, og nemner at det finst somme bevis for at ei 16 timar lang faste med
-  eit åtte timar langt etevindauge kan auke risikoen for hjertesjukdom
+  eit 8 timar langt etevindauge kan auke risikoen for hjertesjukdom
   samanlikna med andre etevindauge. Desse bevisa er ikkje avgjorde.
 
 ## Kvifor er det å ete nok ei større bekymring ved demens?

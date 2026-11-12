@@ -220,7 +220,7 @@ nëse aplikacioni vjen nga një ofrues i mbuluar i kujdesit shëndetësor, nga n
 HHS sugjeron:
 
 - shmangien e aplikacioneve të panevojshme ose të rastësishme, sidomos ato \"falas\";
-- mos i dhënies aplikacioneve akses në vendndodhje përveç nëse vërtet e kanë nevojë, si hartat.
+- mos u jepni aplikacioneve akses në vendndodhje përveç nëse vërtet e kanë nevojë, si hartat.
 
 Gjithashtu merrni parasysh:
 
