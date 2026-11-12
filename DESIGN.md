@@ -447,7 +447,7 @@ Rules:
 
 - **Nothing below 16px** at 100% text size, including badges, tab labels and progress text.
 - **Fraunces is never smaller than 24px** and never carries a control label, a chip, a caption or a paragraph. If a title must shrink below 24, it becomes `title-md` in Roboto.
-- **Never cap or clamp the user's text scale.** Layouts must work at 200%: wrap, scroll or reflow. Never truncate a button label or instruction. Truncation is allowed only for long pack titles, at two or more lines.
+- **Text follows the phone's text size from 100% to 200%** (`gmTextScaleBuilder`; maintainer decision, 2026-11-11). Larger accessibility sizes show at 200%, because at about 310% single words broke across lines on a phone; smaller sizes show at 100%, the 16px floor. Never fix text at one size, and never clamp inside a screen. Layouts must work at 200%: wrap, scroll or reflow. Never truncate a button label or instruction. Truncation is allowed only for long pack titles, at two or more lines.
 - Use sentence case everywhere. **No ALL-CAPS** words or labels, because capitals remove word shape. No italics for paragraphs. Weight is never below 400.
 - **Tracking stays open.** Letter spacing is 0 everywhere except the web hero, where Fraunces may tighten to −0.015em above 38px. Never tighten body or label text.
 - Left-align reading text. Center only short one-line titles in dialogs or empty states.
@@ -635,7 +635,7 @@ Acceptance for any screen change. "Implemented" is not "verified"; record device
 - **Do** honor Reduce Motion and keep sound optional.
 - **Don't** add clocks, move counters, scores, streaks, confetti, countdowns or auto-dismissing dialogs, anywhere in the app or on the website.
 - **Don't** use bright gold (`accent`, `accent-pale`, `accent-deep`) for text or as the only outline, or color difficulty as green, orange or red.
-- **Don't** set text below 16px, Fraunces below 24px, ALL CAPS, tightened tracking in body text, or a clamped text scale.
+- **Don't** set text below 16px, Fraunces below 24px, ALL CAPS, tightened tracking in body text, or a text scale clamped anywhere but the app-wide 100–200% range.
 - **Don't** add a third typeface, a grey shadow, a second glow, a gradient behind body text or a dark mode.
 - **Don't** auto-advance turns, auto-hide mismatches, or raise difficulty automatically.
 - **Don't** use translucent backgrounds behind text, or pure white pages.

@@ -138,7 +138,11 @@ class _ProgressPageState extends State<ProgressPage> {
     };
 
     return Scaffold(
-      appBar: AppBar(title: Text(l10n.wellbeingHomeProgress)),
+      appBar: AppBar(
+        // Wraps and grows with the text size instead of ending in "…".
+        toolbarHeight: gmToolbarHeight(context),
+        title: GmTitle(l10n.wellbeingHomeProgress),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(

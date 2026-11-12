@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
@@ -71,37 +72,64 @@ class _DailyMomentPageState extends State<DailyMomentPage> {
     final lastStep = _step == DailyMomentPage.steps - 1;
 
     return Scaffold(
-      appBar: AppBar(title: Text(l10n.wellbeingHomeDailyMoment)),
+      appBar: AppBar(
+        // Wraps and grows with the text size instead of ending in "…".
+        toolbarHeight: gmToolbarHeight(context),
+        title: GmTitle(l10n.wellbeingHomeDailyMoment),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
             constraints: const BoxConstraints(maxWidth: gmContentMaxWidth),
-            child: Padding(
-              padding: const EdgeInsets.all(gmSpaceLg),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.stretch,
-                children: [
+            child: LayoutBuilder(
+              builder: (context, viewport) {
+                // Large text or a short screen: the page scrolls, so the
+                // prompt and buttons are never cut off (DESIGN.md › Layout).
+                // Otherwise the picture takes the room left and nothing
+                // moves.
+                final scale = MediaQuery.textScalerOf(context).scale(16) / 16;
+                final scrolls = scale > 1.3 || viewport.maxHeight < 480;
+                Widget frame(double side) => Center(
+                  child: Semantics(
+                    label: picture!.localizedLabel(l10n),
+                    image: true,
+                    // A square framed like Look together's. The drawing is
+                    // square too, so it is never letterboxed.
+                    child: SizedBox.square(
+                      dimension: side,
+                      child: DecoratedBox(
+                        decoration: ShapeDecoration(
+                          color: theme.colorScheme.surface,
+                          shape: gmTileShape(theme.colorScheme),
+                        ),
+                        child: Padding(
+                          padding: const EdgeInsets.all(gmSpaceSm),
+                          child: PictureView(picture: picture),
+                        ),
+                      ),
+                    ),
+                  ),
+                );
+                final pictureSlot = picture == null
+                    ? const SizedBox.shrink()
+                    : scrolls
+                    ? frame(
+                        min(
+                          viewport.maxWidth - gmSpaceLg * 2,
+                          max(gmTileMin * 3, viewport.maxHeight * 0.5),
+                        ),
+                      )
+                    : LayoutBuilder(
+                        builder: (context, box) =>
+                            frame(min(box.maxWidth, box.maxHeight)),
+                      );
+                final children = <Widget>[
                   Text(
                     l10n.wellbeingDailyMomentIntro,
                     style: theme.textTheme.bodyLarge,
                   ),
                   const SizedBox(height: gmSpaceLg),
-                  Expanded(
-                    child: picture == null
-                        ? const SizedBox.shrink()
-                        : Semantics(
-                            label: picture.localizedLabel(l10n),
-                            image: true,
-                            child: ClipRRect(
-                              borderRadius: BorderRadius.circular(gmRadiusLg),
-                              child: ColoredBox(
-                                color:
-                                    theme.colorScheme.surfaceContainerHighest,
-                                child: PictureView(picture: picture),
-                              ),
-                            ),
-                          ),
-                  ),
+                  if (scrolls) pictureSlot else Expanded(child: pictureSlot),
                   const SizedBox(height: gmSpaceLg),
                   Text(prompt, style: theme.textTheme.titleLarge),
                   const SizedBox(height: gmSpaceLg),
@@ -141,8 +169,8 @@ class _DailyMomentPageState extends State<DailyMomentPage> {
                     ),
                   ],
                   const SizedBox(height: gmSpaceMd),
-                  // Back is always here: to the previous picture, or out of the
-                  // page once it is saved. It never saves anything itself.
+                  // Back is always here: to the previous picture, or out of
+                  // the page once it is saved. It never saves anything.
                   Align(
                     child: TextButton(
                       style: TextButton.styleFrom(
@@ -156,8 +184,16 @@ class _DailyMomentPageState extends State<DailyMomentPage> {
                       child: Text(l10n.commonBack),
                     ),
                   ),
-                ],
-              ),
+                ];
+                const padding = EdgeInsets.all(gmSpaceLg);
+                final column = Column(
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: children,
+                );
+                return scrolls
+                    ? SingleChildScrollView(padding: padding, child: column)
+                    : Padding(padding: padding, child: column);
+              },
             ),
           ),
         ),

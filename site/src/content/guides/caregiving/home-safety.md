@@ -1,7 +1,7 @@
 ---
 title: "Home Safety for Someone with Dementia"
 seoTitle: "Home Safety Checklist for Dementia Caregivers"
-description: "A room-by-room home safety walk-through for dementia caregivers, with practical checks for lighting, trip hazards, medicines and everyday routines."
+description: "A room-by-room home safety guide for dementia caregivers, with practical checks for lighting, trip hazards, medicines and everyday routines."
 section: caregiving
 order: 10
 updated: 2026-11-11

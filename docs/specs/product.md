@@ -17,7 +17,7 @@ Keep these stable story IDs for compatibility with earlier specifications:
 | ID | Story | Acceptance / extension |
 | --- | --- | --- |
 | G1 | Start without setup or internet | Four tiles/two pairs using included content; no account/download gate; GM-001 and GM-023 |
-| G2 | Change challenge without judgment | Visible pictures by default; 4/6/8/12 tiles when available; GM-006 and GM-007 |
+| G2 | Change challenge without judgment | Visible pictures by default; 4/6/8/12 tiles when available; GM-006 and GM-007. Exception (maintainer decision, 2026-11-11): picture packs in the library keep their hidden-tile game, reached only from the menu |
 | G3 | Avoid pressure | No clock, score, penalty or automatic mismatch dismissal; easy exit; GM-002 |
 | P1 | Use selected pictures | System picker only; current collection bounded to 24 copies; GM-018 |
 | P2 | Reuse pictures offline | Normalized independent copies survive restart; GM-027 |

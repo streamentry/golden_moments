@@ -1,9 +1,8 @@
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:golden_moments/design_system.dart';
 import 'package:golden_moments/features/gentle_activities/data/gentle_preferences.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/shared/widgets/gm_choice_rows.dart';
 
 /// Comfort choices on request, from the activity or from Home (GM-003/037).
 /// Changes apply and save as they are made; the caller decides what applying
@@ -109,7 +108,7 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
             const SizedBox(height: gmSpaceMd),
             Text(l10n.comfortNumberOfTiles, style: theme.textTheme.titleMedium),
             const SizedBox(height: gmSpaceSm),
-            _ChoiceRows(
+            GmChoiceRows(
               choices: [
                 for (final pairs in GentlePreferences.pairChoices)
                   if (pairs <= widget.maxPairs)
@@ -165,78 +164,4 @@ class _GentleComfortSheetState extends State<GentleComfortSheet> {
       ),
     );
   }
-}
-
-typedef _Choice = ({String label, bool selected, VoidCallback onSelected});
-
-/// Choice chips of equal width in full rows: all on one row when every label
-/// fits, otherwise in pairs, otherwise one per row. No choice is ever left
-/// alone on a row of its own, and no label wraps.
-class _ChoiceRows extends StatelessWidget {
-  const new({required this.choices});
-
-  final List<_Choice> choices;
-
-  /// Room a chip needs for [label] on one line with its check mark: the
-  /// mark is as wide as the line is tall, plus label and chip padding.
-  static double _needed(BuildContext context, String label) {
-    final painter = TextPainter(
-      text: TextSpan(
-        text: label,
-        style: Theme.of(context).chipTheme.labelStyle,
-      ),
-      textScaler: MediaQuery.textScalerOf(context),
-      textDirection: Directionality.of(context),
-      maxLines: 1,
-    )..layout();
-    final needed = painter.width + painter.height + gmSpaceSm * 4 + 4;
-    painter.dispose();
-    return needed;
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    if (choices.isEmpty) return const SizedBox.shrink();
-    return LayoutBuilder(
-      builder: (context, constraints) {
-        final needed = choices
-            .map((choice) => _needed(context, choice.label))
-            .reduce(max);
-        final count = choices.length;
-        var columns = 1;
-        for (final candidate in {count, 2}) {
-          final width =
-              (constraints.maxWidth - gmSpaceSm * (candidate - 1)) / candidate;
-          if (count % candidate == 0 && width >= needed) {
-            columns = candidate;
-            break;
-          }
-        }
-        return Column(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: [
-            for (var start = 0; start < count; start += columns) ...[
-              if (start > 0) const SizedBox(height: gmSpaceSm),
-              Row(
-                children: [
-                  for (var i = start; i < start + columns; i++) ...[
-                    if (i > start) const SizedBox(width: gmSpaceSm),
-                    Expanded(child: _chip(choices[i])),
-                  ],
-                ],
-              ),
-            ],
-          ],
-        );
-      },
-    );
-  }
-
-  Widget _chip(_Choice choice) => ChoiceChip(
-    // Centred in the full-width chip, beside the check when chosen.
-    label: Center(child: Text(choice.label, softWrap: false)),
-    selected: choice.selected,
-    onSelected: (_) => choice.onSelected(),
-    materialTapTargetSize: MaterialTapTargetSize.padded,
-  );
 }
