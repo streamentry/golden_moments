@@ -69,7 +69,7 @@ Avelao ny olona hifidy. Ny fanontaniana hoe "Inona no tianao hataonao amin'ny to
 
 ## Ampiasao ny mozika sy ny fahatsiarovana avy amin'ny taonany
 
-Ny mozika sy ny sary avy amin'ny taona 20, 30 ary 40 an'ny olona dia mety hampiditra fahatsapana mafana sy resaka malefaka. Ny [torolalana momba ny hetsika mozika](/activities/music/) dia manazava ny fomba hanaovana playlist, ary ny [hetsika fahatsiarovana](/activities/reminiscence/) dia mampiseho ny fomba hizarana sary sy tantara tsy misy fanontaniana fitsapana. Ho an'ny lalao mahery kokoa ho an'ny olon-dehibe, andramo [ny karatra resaka](/games/conversation-cards/), misy fanentanana malalaka momba ny asa, fianakaviana, namana sy fianakaviana.
+Ny mozika sy ny sary avy amin'ny taona roapolo, telopolo ary efapolo an'ny olona dia mety hampiditra fahatsapana mafana sy resaka malefaka. Ny [torolalana momba ny hetsika mozika](/activities/music/) dia manazava ny fomba hanaovana playlist, ary ny [hetsika fahatsiarovana](/activities/reminiscence/) dia mampiseho ny fomba hizarana sary sy tantara tsy misy fanontaniana fitsapana. Ho an'ny lalao mahery kokoa ho an'ny olon-dehibe, andramo [ny karatra resaka](/games/conversation-cards/), misy fanentanana malalaka momba ny asa, fianakaviana, namana sy fianakaviana.
 
 Ny sary mitovy amin'ny fianakaviana azo ampiasaina ho lalao koa dia mety ho tsara, satria sary olona sy toerana manan-danja amin'ny olona ireo. [Photo pairs](/games/photo-pairs/) dia mitahiry ny sary ao amin'ny browser amin'io fitaovana io.
 

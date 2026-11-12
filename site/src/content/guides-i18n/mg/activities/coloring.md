@@ -1,7 +1,7 @@
 ---
 title: "Hetsika fandokoana loko ho an'ny Alzheimer sy demensia"
 seoTitle: "Fandokoana loko ho an'ny Alzheimer sy demensia"
-description: "Fandokoana loko ho an'ny olona manana Alzheimer na demensia: pejy ho an'ny olon-dehibe, kraiona matevina, lalao tap-to-color, torolalana momba ny fanombohana sy fijanonana."
+description: "Fandokoana loko ho an'ny olona manana Alzheimer na demensia: pejy olon-dehibe, kraiona matevina, lalao tap-to-color, ary fomba hanombohana sy hijanonana."
 section: activities
 order: 25
 updated: 2026-11-08

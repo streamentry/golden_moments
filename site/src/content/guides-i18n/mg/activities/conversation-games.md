@@ -7,7 +7,7 @@ order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Ny lalao 20 fanontaniana dia mety ho lalao mahafinaritra sy mampiray olona
+  Ny lalao roapolo fanontaniana dia mety ho lalao mahafinaritra sy mampiray olona
   rehefa ny olona no mahalala ny valiny. Mieritreritra izy iray, ary ianao
   manontany fanontaniana eny/tsia, ary tsy misy olona hodinihina. Ny lalao
   resaka hafa, toy ny "Ity na ity" sy ny "Inona no fidinao?", miasa toy izany:
@@ -46,7 +46,7 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Maro no mirotsaka ho manana lalao hiarahana lalao izay toy ny resaka fa tsy fitsapana. Ny lalao 20 fanontaniana sy lalao famantarana hafa dia mety ho tsara, satria tsotra ny fitsipika ary azo atao amin'ny lohahevitra rehetra ny resaka. Ny zavatra manan-danja dia ny famadihana ny andraikitra mahazatra: ny olona no mieritreritra ny valiny, ary ianao no manontany. Ity pejy ity dia manazava ny fomba hanaovana ireo lalao ireo amin'ny fomba malemy, ary ny lalao resaka tsara ho an'ny olona manana demensia.
+Maro no mirotsaka ho manana lalao hiarahana lalao izay toy ny resaka fa tsy fitsapana. Ny lalao roapolo fanontaniana sy lalao famantarana hafa dia mety ho tsara, satria tsotra ny fitsipika ary azo atao amin'ny lohahevitra rehetra ny resaka. Ny zavatra manan-danja dia ny famadihana ny andraikitra mahazatra: ny olona no mieritreritra ny valiny, ary ianao no manontany. Ity pejy ity dia manazava ny fomba hanaovana ireo lalao ireo amin'ny fomba malemy, ary ny lalao resaka tsara ho an'ny olona manana demensia.
 
 ## Nahoana no halavirina ny fitsipika mahazatra?
 
