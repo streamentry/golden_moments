@@ -1,32 +1,28 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "ආරම්භක අවධියේ ඩිමෙන්ශියාව සඳහා ක්‍රියාකාරකම්"
+seoTitle: "ආරම්භක අවධියේ ඩිමෙන්ශියා ක්‍රියාකාරකම්: සුදුසු අදහස්"
+description: "ආරම්භක අවධියේ ඩිමෙන්ශියාව සඳහා ක්‍රියාකාරකම් අදහස්: විනෝදය, ක්‍රීඩා, පිටතට යාම් සහ ලිවීම, පුද්ගලයා පාලනය තබා ගන්නා සුළු කුඩා වෙනස්කම් සමඟ."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  ආරම්භක අවධියේ ඩිමෙන්ශියාවේදී බොහෝ අයට තමන් භුක්ති විඳින දේ කරගෙන යා හැක: විනෝද, ක්‍රීඩා පත් සහ පුවරු ක්‍රීඩා, ආහාර පිසීම, උද්‍යාන වැඩ, ඇවිදීම, සමාජ කණ්ඩායම්, ආගමික ක්‍රියාකාරකම් සහ ස්වේච්ඡා සේවය. ප්‍රධාන වෙනස්කම් වන්නේ කුඩා කණ්ඩායම්, කෙටි පිටතට යාම්, සරල ලිඛිත සැලසුම් සහ ආසන්නයේ හවුල්කරුවෙකු ය. පුද්ගලයාගෙන් ඔවුන් කැමති උදව් ප්‍රමාණය විමසා, ඔවුන්ට නායකත්වය දෙන්න.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "ආරම්භක අවධියේ බොහෝ අය තරමක් ස්වාධීනව ජීවත් වේ. ක්‍රියාකාරකම් සාමාන්‍යයෙන් වෙනස් කිරීමට අවශ්‍ය වන්නේ, ඒවා ප්‍රතිස්ථාපනය කිරීමට නොවේ."
+  - "පුද්ගලයාගෙන් ඔවුන් කැමති සහයෝගය විමසා, උදව් ප්‍රිය වන විට සඳහා සරල සංඥාවක් ගැන එකඟ වන්න."
+  - "කුඩා කණ්ඩායම්, නිශ්ශබ්ද වේලා සහ කෙටි පිටතට යාම් බොහෝ විට විශාල වෙනසක් ඇති කරයි."
+  - "පුද්ගලයාට තමන්ගේම ජීවිතය ගැන ව්‍යාපෘති, උදාහරණයක් ලෙස දින පොතක් හෝ ජීවිත කතා පොත, මෙහෙයවීමට මෙය හොඳ කාලයකි."
+  - "ක්‍රීඩා භුක්තිය සඳහා තෝරන්න. පරීක්ෂණයක් වැනි හැඟෙන ඕනෑම දෙයක් මඟ හරින්න."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "ආරම්භක අවධියේ ඩිමෙන්ශියාව සඳහා කුමන ක්‍රියාකාරකම් හොඳද?"
+    a: "සාමාන්‍යයෙන් පුද්ගලයා දැනටමත් භුක්ති විඳින ඒවාම: ක්‍රීඩා පත්, පුවරු ක්‍රීඩා, ආහාර පිසීම, උද්‍යාන වැඩ, ඇවිදීම, සංගීතය, ආගමික ක්‍රියාකාරකම්, සමාජ කණ්ඩායම් සහ ස්වේච්ඡා සේවය. ඒවා කෙටි, නිශ්ශබ්ද හෝ සරල කිරීමට ඔබට අවශ්‍ය විය හැක. දින පොත් ලිවීම, ලිපි ලිවීම සහ ජීවිත කතා පොතක් සෑදීමද මෙම අවධියට හොඳින් ගැලපේ."
+  - q: "පාලනය අතට ගැනීමෙන් තොරව මට උදව් කළ හැක්කේ කෙසේද?"
+    a: "පුද්ගලයාට කුමන ආකාරයේ උදව් අවශ්‍යද කියා අසා, නිතරම පරීක්ෂා කරන්න. වචනයක් හෝ නමක් නොඑන විට මැදිහත් වීම හරි බව අදහස් කරන වාක්‍යයක් හෝ හිස් වැනීමක් එකඟ වන්න. ආරක්ෂිත අවදානමක් නොමැති නම්, කාලය වැඩි වුවත්, ඔවුන්ගේ ක්‍රමයෙන් කිරීමට ඉඩ දෙන්න."
+  - q: "ආරම්භක ඩිමෙන්ශියාව ඇති කෙනෙකු නව ක්‍රියාකාරකම් උත්සාහ කළ යුතුද?"
+    a: "ඔවුන් කැමති නම්, ඔව්. හුරුපුරුදු විනෝද බොහෝ විට පහසුම වේ, නමුත් බොහෝ අය ඩිමෙන්ශියාවට හිතකර ඇවිදීමේ කණ්ඩායමක්, කලා පන්තියක් හෝ ගායන කණ්ඩායමක් වැනි අලුත් දෙයක් භුක්ති විඳියි. එක් වරක් පීඩනයකින් තොරව උත්සාහ කර, එය දැනෙන ආකාරය බලන්න."
+  - q: "ආරම්භක අවධියේදී මොළ ක්‍රීඩා යෙදුම් වටිනාද?"
+    a: "සමහර අය ප්‍රහේලිකා සහ වචන ක්‍රීඩා භුක්ති විඳියි, එම භුක්තිය ම එය කිරීමට ප්‍රමාණවත් හේතුවකි. ඩිමෙන්ශියාව ප්‍රතිකාර කිරීමට, මන්දගාමී කිරීමට හෝ නවත්වීමට කිසිදු යෙදුමක් හෝ ක්‍රීඩාවක් පෙන්වා දී නැත. ක්‍රීඩාවක් මානසික පීඩාවක් ඇති කරන්නේ නම් හෝ පුද්ගලයා අසමත් වන බව හැඟවන්නේ නම්, එය පසෙකලන්න."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +44,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+ඩිමෙන්ශියාවේ ආරම්භක අවධියේදී බොහෝ අය තවමත් පෙර ජීවත් වූ ආකාරයටම ජීවත් වෙති. ඔවුන් වැඩ කළ හැක, ස්වේච්ඡා සේවය කළ හැක, මිතුරන් හමුවිය හැක, සහ තමන්ගේ දිනයෙන් වැඩි කොටසක් පාලනය කරයි. ක්‍රියාකාරකම් සාමාන්‍යයෙන් ප්‍රතිස්ථාපනය කිරීමට අවශ්‍ය නැත; ටිකක් සකස් කිරීම පමණක් අවශ්‍ය වේ, එවිට ඒවා භුක්තිමත්ව පවතී. ඔබේ කාර්යභාරය රැකබලා ගන්නෙකුට වඩා හවුල්කරුවෙකුට සමීප ය: සහයෝගය දක්වන, ඔවුන් සමඟ සැලසුම් කරන, සහ ඉල්ලා සිටින විට පමණක් මැදිහත් වන අයෙකු.
 
-## What activities are good in early-stage dementia?
+## ආරම්භක අවධියේ ඩිමෙන්ශියාවේදී හොඳ ක්‍රියාකාරකම් මොනවාද?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+ආරම්භක අවධියේ හොඳම ක්‍රියාකාරකම් සාමාන්‍යයෙන් පුද්ගලයා දැනටමත් ආදරය කරන, තරමක් පහසු කළ ඒවාය. [ඇමරිකානු ඇල්සයිමර් පදනම](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ලැයිස්තුගත කරන්නේ ක්‍රීඩා පත් සහ පුවරු ක්‍රීඩා, වචන සෙවීම්, ඇවිදීම, නැටීම, උද්‍යාන වැඩ, මල් සැකසීම, කථා කීම, චිත්‍ර ඇඳීම, සංගීතය, දින පොත් ලිවීම, ලිපි ලිවීම, ඡායාරූප පොත් සෑදීම, ආහාර පිසීම සහ උත්සව සම්ප්‍රදායන් ය.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+වෙනස් වන්නේ බොහෝ විට ක්‍රියාකාරකම නොව පරිසරයයි. [ඇල්සයිමර් සංගමය](https://www.alz.org/help-support/caregiving/daily-care/activities) සටහන් කරන්නේ ආරම්භක අවධියේ අය තමන් භුක්ති වින්ද දේවලින් ඉවත් වීමට පටන් ගත හැකි බවත්, විශාල සාදයක දී අභිභවනය වූ හැඟීමක් ඇති අයෙකු කුඩා කණ්ඩායමක දී වඩා හොඳින් ක්‍රියා කරන බවත්ය. කුමක් වඩා අපහසු වන්නේද යන්න විවෘතව කතා කර, එකට අනුවර්තනය කරන්න.
 
-## Ask first, and agree on how to help
+## උදව් කිරීමට පෙර අසන්න, සහ උදව් කරන ආකාරය එකඟ වන්න
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[ඇල්සයිමර් සංගමයේ ආරම්භක අවධිය පිළිබඳ මාර්ගෝපදේශය](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) ක්‍රියාකාරකම්වලටද අදාළ වන පුරුදු කිහිපයක් යෝජනා කරයි:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **සෘජුව අසන්න.** “පොත් සාකච්ඡා කණ්ඩායම ඔබට පහසු කරන්නේ කුමක්ද?” යන්න අනුමානයට වඩා හොඳ පිළිතුරක් ලබා දෙයි.
+- **ඔවුන්ට හැකි බව උපකල්පනය කරන්න.** ආරක්ෂිත අවදානමක් නොමැති නම්, පුද්ගලයාට උත්සාහ කිරීමට ඉඩ දී, පාලනය අතට ගැනීමට වඩා දිරිගැන්වීම දෙන්න.
+- **සංඥාවක් එකඟ වන්න.** “දැන් මැදිහත් වීම හරි” යන අර්ථය ඇති වාක්‍යයක් හෝ හිස් වැනීමක් තෝරන්න, උදාහරණයක් ලෙස ක්‍රීඩා පත් ක්‍රීඩාවේදී නමක් නොඑන විට.
+- **නිතිපතා පරීක්ෂා කරන්න.** උදව් ප්‍රමාණය හරි ද, වැඩියි ද, අඩුයි ද යන්න විමසන්න.
 
-## Activity ideas for the early stage
+## ආරම්භක අවධිය සඳහා ක්‍රියාකාරකම් අදහස්
 
-### Keep up roles and hobbies
+### භූමිකා සහ විනෝද දිගටම කරගෙන යන්න
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **නිතිපතා කැපවීමක් තබා ගන්න.** සතිපතා ස්වේච්ඡා වැඩ වාරයක්, ගායන කණ්ඩායමක් හෝ සමාජයක් සතියට හැඩයක් ලබා දෙයි. එය කලබලකාරී වුවහොත්, කෙටි හෝ නිශ්ශබ්ද භූමිකාවක් වඩාත් ගැලපෙන්න පුළුවන්.
+- **ආහාර එකට සැලසුම් කරන්න.** සාප්පු සවාරි ගමන කලකිරීමට පත් වී ඇත්නම්, ඇල්සයිමර් සංගමය යෝජනා කරන්නේ ඒ වෙනුවට සතියේ මෙනුව සැලසුම් කර ලැයිස්තුව ලිවීමට පුද්ගලයාගෙන් ඉල්ලන ලෙසයි.
+- **පිසීම සහ බේක් කිරීම.** ප්‍රිය වට්ටෝරුවක් එකට අනුගමනය කරන්න. ආරම්භයට පෙර අමුද්‍රව්‍ය අනුපිළිවෙලට තබන්න, එවිට පියවර දෘශ්‍යමාන වේ.
+- **උද්‍යාන වැඩ.** පඳුරක් සැලසුම් කරන්න, බීජ හෝ පැළ තෝරා, වැඩ එකට කරන්න. සතියේ උද්‍යාන වැඩ ලැයිස්තුවක් ලිඛිතව තබා ගැනීම උපකාරී වේ.
+- **අත් කලාවක් දිගටම කරගෙන යන්න.** වඩු කර්මාන්තය, මැහුම්, මුවා ගෙතීම හෝ ආකෘති තැනීම සරල රටා සහ හොඳ ආලෝකය සමඟ දිගටම කළ හැක.
 
-### Games for enjoyment
+### භුක්තිය සඳහා ක්‍රීඩා
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **ක්‍රීඩා පත් සහ පුවරු ක්‍රීඩා.** හුරුපුරුදු ක්‍රීඩා පහසුම ය. කණ්ඩායම්වලින් ක්‍රීඩා කරන්න, එවිට කිසිවෙක් ගැටලුවට පත් නොවේ, සහ ලකුණු ලිහිල්ව හෝ කිසිසේත් තබා නොගන්න.
+- **විශාල අකුරු වචන සෙවීමක් උත්සාහ කරන්න.** අපගේ [වචන සෙවීම](/games/word-search/) තිරය මත හෝ නිශ්ශබ්ද මොහොතක් සඳහා මුද්‍රණය කර ක්‍රීඩා කළ හැක.
+- **ජිග්සෝ ප්‍රහේලිකා කරන්න.** විශ්‍රාම ගැන්වෙන සුළු යැයි හැඟෙන කෑල්ල ගණනක් තෝරන්න, අභියෝගාත නොවන. [පින්තූර ප්‍රහේලිකාව](/games/picture-puzzle/) කෙටි තිර අනුවාදයකි, සහ අපගේ [ඩිමෙන්ශියාව සඳහා ප්‍රහේලිකා](/activities/puzzles/) මාර්ගෝපදේශය එකක් තෝරා ගැනීම ආවරණය කරයි.
+- **විනෝදය සඳහා ප්‍රශ්නෝත්තර තරග.** සමහර අය කණ්ඩායම් ප්‍රශ්නෝත්තර රාත්‍රියක් ප්‍රිය කරයි. එය පරීක්ෂණයක් වැනි වීමට පටන් ගත්තොත්, වෙනත් දෙයක් තෝරන්න, නැතහොත් ලකුණු නොමැතිව පිළිතුරු තේරීම් සහිත අපගේ [පහසු ප්‍රශ්නෝත්තර](/activities/trivia/) උත්සාහ කරන්න.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+ක්‍රීඩා මෙහිදී විනෝදය සඳහා ය. කිසිදු ක්‍රීඩාවක් ඩිමෙන්ශියාව ප්‍රතිකාර කිරීමට හෝ මන්දගාමී කිරීමට පෙන්වා දී නැත; වැඩි විස්තර [මොළ ක්‍රීඩා: පර්යේෂණය කියන දේ](/brain-health/brain-games/) හි කියවන්න.
 
-### Write, reflect and record
+### ලියන්න, පරාවර්තනය කර සටහන් කරන්න
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **දින පොතක් තබා ගන්න.** ඇල්සයිමර් සංගමය යෝජනා කරන්නේ රෝග විනිශ්චයෙන් පසු හැඟීම් ජය ගැනීමේ එක් ක්‍රමයක් ලෙස දින පොතක් ලිවීමයි. දිනකට පේළි කිහිපයක් ප්‍රමාණවත් ය.
+- **ජීවිත කතා පොතක් මෙහෙයවන්න.** ආරම්භක අවධිය පුද්ගලයාට තමන්ගේම ඡායාරූප තෝරා ගෙන ඒවා පිටුපස කතා ලිවීමට හෝ පැවසීමට හොඳ කාලයකි. [මතකය අවදි කරන ක්‍රියාකාරකම්](/activities/reminiscence/) බලන්න.
+- **ලිපි ලියන්න.** මුනුපුරෙකු, පැරණි මිතුරෙකු හෝ හිටපු සහකාරයෙකුට ලිපියක් දෙපැත්තටම අර්ථවත් විය හැක.
+- **ඡායාරූප ගැන කතා කරන්න.** [ඡායාරූප යුගල](/games/photo-pairs/) පවුලේ ඡායාරූප මෘදු ගැලපීමේ ක්‍රීඩාවක් බවට පත් කරන අතර, [සංවාද පත්](/games/conversation-cards/) චැට් එකක් සඳහා පහසු ආරම්භක ස්ථාන ලබා දෙයි.
 
-### Go out and move
+### පිටතට ගොස් චලනය වන්න
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) යෝජනා කරන්නේ ඔබ දෙදෙනාම සුවපහසු වන තාක් හුරුපුරුදු පිටතට යාම් දිගටම කරන ලෙසයි. ඒවා පුද්ගලයාගේ හොඳම දින වේලාවට සැලසුම් කර, දිගු වේලාවක් ධාවනය වීමෙන් වළක්වන්න.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **කෙටි සංස්කෘතික සංචාර.** කෞතුකාගාරයක්, දහවල් චිත්‍රපටයක් හෝ කලා ප්‍රදර්ශනයක්, පුළුවන් නම් වඩා නිශ්ශබ්ද වේලාවක.
+- **පිහිනීම.** NIA යෝජනා කරන්නේ දිනයේ අඩු කාර්යබහුල වේලාවක පොකුණක් භාවිතා කරන ලෙසයි.
+- **ඇවිදීමේ කණ්ඩායම් සහ නැටුම් පන්ති.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) නැටුම්, තායි චී, යෝගා, පිහිනීම සහ ඇවිදීමේ කණ්ඩායම් සහ ලබා ගත හැකි තැන්වල ඩිමෙන්ශියාවට හිතකර සැසි සඳහන් කරයි.
+- **ගායන කණ්ඩායම් සහ මතක කෝපි රැස්වීම්.** ඩිමෙන්ශියාව සමඟ ජීවත් වන අය සහ ඔවුන්ගේ හවුල්කරුවන් එම තත්ත්වයේ අනෙක් අය හමු විය හැකි සන්සුන් කණ්ඩායම්.
 
-## Small changes that keep activities enjoyable
+## විනෝදජනක ක්‍රියාකාරකම් පහසුවෙන් පවත්වා ගැනීමට කුඩා වෙනස්කම්
 
-| If this is getting harder | Try this |
+| මෙය වඩාත් දුෂ්කර වෙමින් ඇත්නම් | මෙය උත්සාහ කරන්න |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| කාර්යබහුල හෝ ශබ්දකාරී ස්ථාන | නිශ්ශබ්ද වේලාවන්හි යන්න, කුඩා කණ්ඩායම් තෝරන්න, කාමරයේ දාරයේ වාඩි වන්න |
+| නව නම් මතක තබා ගැනීම | සෑම වාරයකදීම නමෙන් හඳුන්වා දෙන්න; කණ්ඩායම්වලට නම් ලේබල භාවිතා කරන ලෙස ඉල්ලන්න |
+| බහු-පියවර සැලසුම් අනුගමනය කිරීම | පියවර ලියන්න, නැතහොත් මුලින්ම සියල්ල අනුපිළිවෙලට තබන්න |
+| වෙහෙසට පත් වීම | කෙටි පිටතට යාම්, පසුව විවේකයක්, එදින වෙන කිසිවක් සැලසුම් නොකර |
+| ක්‍රීඩාවක ලකුණු තබා ගැනීම | කණ්ඩායම්වලින් ක්‍රීඩා කරන්න, නීති සරල කරන්න, හෝ ලකුණු තැබීම මඟ හරින්න |
+| වචන සොයා ගැනීම | කාලය ඉඩ දෙන්න; එකඟ වූ සංඥාව එය කියන විට පමණක් වචනයක් ඉදිරිපත් කරන්න |
 
-## When to slow down
+## කඩිනම් කරන්න කාලය
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+ක්‍රියාකාරකමක් විනෝදයට වඩා ආයාසයක් ගෙනදෙන විට එය නවත්වන්න හෝ වෙනස් කරන්න. නිතර කලකිරීම, ක්‍රියාකාරකමෙන් ඉවත් වීම, හෝ “මට තවත් බැහැ” යැයි පැවසීම, තල්ලු නොකර, මෘදු සංවාදයකට වටී. බොහෝ විට පිළිතුර එම දෙයෙහි කුඩා අනුවාදයයි. පුද්ගලයාට පියවර ආරම්භ කිරීමට සහ අනුගමනය කිරීමට වැඩි උදව් අවශ්‍ය වුවහොත්, [මධ්‍ය අවධියේ ක්‍රියාකාරකම්](/activities/middle-stage/) හි අදහස් වඩා ගැලපිය හැක. සහාය දෙන සංවාදය ගැන වැඩි විස්තර සඳහා [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) බලන්න, සහ බොහෝ අදහස් සඳහා [ක්‍රියාකාරකම් 101](/activities/ideas/) බලන්න.
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+හවුල්කරුවන්ටද සහාය අවශ්‍යයි. ආරම්භක අවධිය ඔබේම උදව් ජාලයක් ගොඩනැගීමට හොඳ කාලයකි; [රැකබලා ගන්නන්ගේ ස්වයං සත්කාරය](/caregiving/caregiver-self-care/) බලන්න.
