@@ -1,7 +1,7 @@
 ---
 title: "Ke Hospital bersama Demensia"
 seoTitle: "Penjagaan Hospital untuk Orang dengan Demensia"
-description: "Bersedia untuk tempoh di hospital yang dirancang atau kecemasan bersama demensia: kongsikan keutamaan penjagaan, bawa barang biasa dan bersetuju tentang langkah pulang."
+description: "Bersedia untuk hospital bersama demensia: kongsi keutamaan penjagaan, bawa barang biasa dan bersetuju tentang langkah pulang."
 section: caregiving
 order: 21
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Apabila Seseorang yang Menghidap Demensia Nampak atau Dengar Sesuatu"
 seoTitle: "Halusinasi dan Demensia: Langkah Tenang untuk Penjaga"
-description: "Ketahui cara bertindak dengan tenang apabila seseorang yang menghidap demensia nampak atau dengar sesuatu, periksa persekitaran dan tahu bila perlu bantuan perubatan."
+description: "Cara bertindak dengan tenang apabila seseorang yang menghidap demensia nampak atau dengar sesuatu, periksa persekitaran dan tahu bila perlu bantuan perubatan."
 section: caregiving
 order: 36
 updated: 2026-11-11
