@@ -91,7 +91,7 @@ Os daw’r pryder i’r amlwg yn ystod gwaith tŷ a rennir, mae gan [ein canllaw
 
 Ar gyfer trefnau gyda’r nos, mae gan y [canllaw cwsg](/brain-health/sleep/) fwy am newidiadau cwsg ac arferion cyfarwydd gyda’r nos.
 
-## Sut gallaf gadw newidiadau’n barchus?
+## Sut dylem gadw newidiadau’n barchus?
 
 Mae angen i ddiogelwch ac annibyniaeth weithio gyda’i gilydd. Os yw newid yn atal rhywun rhag defnyddio ystafell neu wneud tasg gyfarwydd, oedwch ac edrychwch am ddewis llai cyfyngol. Mae rhai sefydliadau’n rhestru clo ar gyfer risgiau penodol; nid yw hynny’n gyfarwyddyd cyffredinol. Cyn newid drws neu gyfyngu ar lwybr, cewch gyngor diogelwch lleol ynghylch y cartref a thân, ac ystyriwch sut y bydd y person yn gadael mewn argyfwng. Cadwch allanfa ddiogel ar gael.
 
