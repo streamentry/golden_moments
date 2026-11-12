@@ -1,7 +1,7 @@
 ---
 title: "Menyokong Seseorang yang Menghidap Demensia dan Tinggal Sendiri"
 seoTitle: "Tinggal Sendiri dengan Demensia: Sokongan untuk Keluarga"
-description: "Sokong seseorang yang menghidap demensia dan tinggal sendiri dengan rutin yang stabil, lawatan yang dipersetujui dan bantuan praktikal, sambil mengekalkan kehendak dan kebebasannya."
+description: "Sokong orang yang menghidap demensia dan tinggal sendiri dengan rutin stabil, lawatan yang dipersetujui dan bantuan praktikal, sambil menghormati kebebasannya."
 section: caregiving
 order: 12
 updated: 2026-11-11
