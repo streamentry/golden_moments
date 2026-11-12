@@ -1,33 +1,32 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Sawm intermittenti u d-dimenzja: X’tgħid ir-riċerka"
+seoTitle: "Sawm intermittenti u d-dimenzja: X’tgħid ir-riċerka"
+description: "L-evidenza umana dwar is-sawm intermittenti u d-dimenzja hija limitata u bikrija. Ara r-riskji għall-anzjani u għalfejn li tiekol biżżejjed huwa aktar importanti."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  M’hemm l-ebda evidenza tajba li s-sawm intermittenti jipprevjeni jew idewwem id-dimenzja. Ħafna mir-riċerka
+  hija fl-annimali, u studji umani fuq anzjani huma żgħar u qosra. Is-sawm jista’ jkun ta’ riskju għall-anzjani:
+  telf ta’ piż u muskoli mhux intenzjonat, zokkor baxx fid-demm ma’ xi mediċini tad-dijabete, dehidrazzjoni u
+  waqgħat. Għal nies li jgħixu bid-dimenzja, li jieklu u jixorbu biżżejjed huwa ta’ spiss it-tħassib akbar. Kellem
+  tabib l-ewwel.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "In-National Institute on Aging jgħid li m’hemmx biżżejjed evidenza biex jiġi rakkomandat kwalunkwe dieta ta’ sawm jew tnaqqis tal-kaloriji, speċjalment għall-anzjani."
+  - "Ħafna mir-riċerka dwar is-sawm u t-tixjiħ ġejja mill-annimali, u dawk ir-riżultati mhux bilfors japplikaw għan-nies."
+  - "Riskji possibbli għall-anzjani jinkludu telf ta’ piż mhux intenzjonat, telf ta’ muskoli, zokkor baxx fid-demm ma’ xi mediċini tad-dijabete, dehidrazzjoni, tħaddid u waqgħat."
+  - "In-nies li jgħixu bid-dimenzja spiss jinsew li jieklu jew jixorbu, jew jaħsbu li diġà kielu. Jgħinhom jieklu u jixorbu biżżejjed normalment jimpurta ħafna aktar minn meta jieklu."
+  - "M’għandekx tuża s-sawm għal xi ħadd li jgħix bid-dimenzja. Kellem tabib jew dietista reġistrata qabel ma tibdel xi mod ta’ ikel."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Is-sawm intermittenti jipprevjeni l-Alzheimer?"
+    a: "M’hemm l-ebda evidenza tajba li jagħmel dan. Ħafna mir-riċerka saret fuq annimali, u trials umani kienu fil-biċċa l-kbira qosra, fuq adulti iżgħar jew xaħmin, u ffukaw fuq it-telf ta’ piż. In-National Institute on Aging jgħid li m’hemmx biżżejjed evidenza biex id-dieti tas-sawm jiġu rakkomandati lill-pubbliku."
+  - q: "Is-sawm intermittenti huwa sikur għall-anzjani?"
+    a: "Jista’ jkun le. Is-sawm jista’ jwassal għal telf mhux intenzjonat ta’ piż u muskoli, dehidrazzjoni, tħaddid u waqgħat, u jista’ jikkawża zokkor baxx fid-demm b’mod perikoluż f’nies li jieħdu insulina jew xi mediċini oħra tad-dijabete. Mayo Clinic jgħid li jista’ jkun mhux adattat għal nies b’riskju għoli ta’ telf tal-għadam u waqgħat. Kellem tabib qabel ma tipprova."
+  - q: "Persuna bid-dimenzja għandha tipprova s-sawm?"
+    a: "Le. In-nies li jgħixu bid-dimenzja spiss ikollhom diffikultà biex jieklu u jixorbu biżżejjed, u nutrizzjoni fqira tista’ żżid is-sintomi tal-imġiba u tikkawża telf ta’ piż. Is-sawm iżid riskju mingħajr benefiċċju ppruvat. Iffoka minflok fuq ikliet regolari, spuntini li jgawdu u biżżejjed xorb."
+  - q: "X’inhuma s-sinjali li xi ħadd bid-dimenzja mhux qed jiekol jew jixrob biżżejjed?"
+    a: "Oqgħod attent għal telf ta’ piż, ilbies li jsir laxk, għeja, dgħufija, kostipazzjoni jew rifjut tal-ikel. Is-sinjali tad-dehidrazzjoni elenkati mill-National Institute on Aging jinkludu ħalq niexef, tħaddid, qalb li tħabbat malajr u allucinazzjonijiet. Għid lit-tabib tagħhom jekk tinnota dawn."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +54,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Is-sawm intermittenti, bħal li tiekol biss fi tieqa ta’ tmien sigħat jew titnaqqas il-kaloriji b’mod qawwi darbtejn fil-ġimgħa, jiġbed ħafna attenzjoni, u xi artikli jissuġġerixxu li jista’ jipproteġi l-moħħ. Jekk int anzjan, jew tieħu ħsieb xi ħadd li jgħix bid-dimenzja, hawn x’juri r-riċerka verament, u għalfejn il-prudenza timpurta.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Din hi informazzjoni ġenerali, mhux parir mediku. Tibdiex is-sawm, jew tibdel kif xi ħadd li tieħu ħsiebu jiekol, mingħajr ma tkellem tabib jew dietista reġistrata. Ara [id-dikjarazzjoni medika tagħna](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Is-sawm intermittenti jipprevjeni d-dimenzja?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+M’hemm l-ebda evidenza tajba li s-sawm intermittenti jipprevjeni jew idewwem id-dimenzja. In-National Institute on Aging (NIA) jgħid li m’hemmx biżżejjed evidenza biex jiġi rakkomandat kwalunkwe tip ta’ dieta ta’ tnaqqis tal-kaloriji jew sawm, u li għad hemm ħafna x’jitgħallem dwar l-effettività u s-sikurezza tagħhom, speċjalment fl-anzjani ([NIA dwar tnaqqis tal-kaloriji u sawm](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Għalfejn l-evidenza hija limitata ħafna
 
-The NIA gives several reasons:
+In-NIA jagħti diversi raġunijiet:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Ħafna mill-istudji saru fuq annimali.** Riċerka fuq dud, dubbien, ġrieden u xadini wriet riżultati interessanti, iżda dawn is-sejbiet mhux bilfors japplikaw għan-nies. Anke fl-annimali r-riżultati huma mħallta; f’xi razez ta’ ġrieden, it-tnaqqis tal-kaloriji qassar il-ħajja.
+- **Trials umani kienu qosra.** Ħafnu minnhom damu ftit ġimgħat jew xhur.
+- **Ħafna trials umani ffukaw fuq it-telf ta’ piż** f’adulti xaħmin, mhux fuq il-memorja jew id-dimenzja.
+- **L-anzjani rarament kienu inklużi.** Ħafna trials irreklutaw nies ta’ 60 sena jew inqas.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+Reviżjoni sistematika tal-2026 ħarset speċifikament lejn is-sawm intermittenti f’adulti ta’ 60 sena jew aktar. Sabet li l-evidenza f’dan il-grupp tal-età għadha limitata, b’studji żgħar, segwitu qasir u disinji mħallta. Is-sejbiet dwar il-ħsieb u l-memorja ġew minn studji individwali aktar milli minn riżultati ta’ trials maqsuma flimkien. Ir-reviżjoni nnotat ukoll li xi studji rabtu tieqat tal-ikel qosra ħafna jew sawmiet twal ma’ riżultati agħar, u l-awturi ħeġġew kawtela għall-anzjani ([reviżjoni tal-2026 f’Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Xi riċerkaturi jaħsbu li t-tibdil tal-ġisem għall-ħruq tax-xaħam waqt sawm jista’ jaffettwa l-moħħ, imma dan għadu teorija li qed tiġi studjata. In-NIA jgħid li x-xjenza mhix ċerta.
 
-## What are the risks of fasting for older adults?
+## X’inhuma r-riskji tas-sawm għall-anzjani?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Is-sawm mhuwiex esperiment bla periklu għal ħafna nies anzjani. Riskji possibbli jinkludu:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Telf ta’ piż mhux intenzjonat.** Li tiekol inqas minn dak li l-ġisem jeħtieġ jista’ jwassal għal telf ta’ piż u inqas saħħa fil-muskoli, li jista’ jħalli persuna aktar fraġli.
+- **Telf ta’ muskoli u għadam.** F’trial ta’ sentejn ta’ tnaqqis tal-kaloriji sostnut mill-NIA f’adulti żgħar u ta’ nofs il-ħajja, il-parteċipanti kellhom tnaqqis ftit fid-densità tal-għadam u fil-massa tal-ġisem mingħajr xaħam.
+- **Zokkor baxx fid-demm ma’ mediċini tad-dijabete.** Nies li jieħdu insulina jew xi mediċini oħra tad-dijabete jistgħu jkollhom iz-zokkor fid-demm jaqa’ wisq baxx jekk jaqbżu jew jiddewwew l-ikliet, skont l-[Istitut Nazzjonali tad-Dijabete u l-Mard Diġestiv u tal-Kliewi](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Zokkor baxx fid-demm jista’ jikkawża tħaddid, konfużjoni u irritabbiltà.
+- **Dehidrazzjoni.** Jekk xorb jitħalla barra flimkien mal-ikliet, persuna tista’ tiddeżidrata.
+- **Tħaddid u waqgħat.** Mayo Clinic jgħid li s-sawm intermittenti jista’ jagħmel lin-nies iħossu għeja kbira u tħaddid, u li jista’ mhux ikun mudell tajjeb għal nies b’riskju għoli ta’ telf tal-għadam u waqgħat ([Mayo Clinic dwar is-sawm intermittenti](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Effetti oħra.** Mayo Clinic jelenka wkoll uġigħ ta’ ras, bidliet fl-burdata u kostipazzjoni, u jgħid li hemm xi evidenza li sawm ta’ 16-il siegħa b’tieqa ta’ 8 sigħat għall-ikel jista’ jżid ir-riskju tal-mard tal-qalb meta mqabbel ma’ tieqat oħra tal-ikel. Dik l-evidenza mhix stabbilita.
 
-## Why is eating enough the bigger concern with dementia?
+## Għalfejn li tiekol biżżejjed huwa t-tħassib akbar bid-dimenzja?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Għal nies li jgħixu bid-dimenzja, il-problema tas-soltu hija li jieklu u jixorbu **biżżejjed** ikel u xorb, mhux wisq. L-Alzheimer’s Association jispjega li n-nies f’stadji ta’ nofs u tardivi jistgħu iħossu mħawdin mill-għażliet tal-ikel, jinsew li jieklu, jew jaħsbu li diġà kielu. Jgħid ukoll li nutrizzjoni fqira tista’ żżid is-sintomi tal-imġiba u tikkawża telf ta’ piż ([Alzheimer’s Association dwar l-ikel u l-ikel](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+L-Alzheimer’s Society jgħid li li tiekol biżżejjed jista’ jwassal għal telf ta’ piż, inqas saħħa fil-muskoli, għeja u dgħufija, li jħalli persuna aktar fraġli u inqas kapaċi tirkupra minn infezzjonijiet ([Alzheimer’s Society dwar l-aptit](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Għal dawn ir-raġunijiet, is-sawm mhuwiex ideali għal xi ħadd li jgħix bid-dimenzja.** Ikliet imqabbda faċilment isiru ikliet mitlufa. Kwalunkwe bidla fil-mod kif persuna bid-dimenzja tiekol għandha tkun iggwidata mit-tabib tagħha jew minn dietista reġistrata.
 
-## What are the warning signs of poor eating or drinking?
+## X’inhuma s-sinjali ta’ ikel jew xorb fqir?
 
-Watch for:
+Oqgħod attent għal:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Telf ta’ piż**, jew ilbies li jsir laxk.
+- **Ħalli l-ikel jew tirrifjuta l-ikliet**, jew iżżomm l-ikel fi fommha.
+- **Għeja jew dgħufija.**
+- **Kostipazzjoni**, li tista’ tkun marbuta mad-dieta u d-dehidrazzjoni.
+- **Sinjali ta’ dehidrazzjoni.** In-NIA jelenka ħalq niexef, tħaddid, qalb li tħabbat malajr, u allucinazzjonijiet, li jistgħu jinġiebu wkoll mid-dimenzja nnifisha ([NIA dwar problemi mediċi komuni](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+L-aptit fqir għandu ħafna kawżi possibbli: snien li jweġgħu jew dentiera mhux komda, mediċini ġodda, depressjoni, kostipazzjoni, anqas attività, jew bidliet fit-togħma u r-riħa. Għid lit-tabib tal-persuna dwar kull wieħed minn dawn is-sinjali. Jistgħu ifittxu kawża u jissuġġerixxu dietista jew supplementi.
 
-## How can you help someone eat and drink enough?
+## Kif tista’ tgħin lil xi ħadd jiekol u jixrob biżżejjed?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Offri ikliet u spuntini żgħar spiss**, aktar milli tlett ikliet kbar.
+- **Servi l-ikel favorit**, u kun flessibbli hekk kif jinbidlu t-togħmiet. L-ikel ħelu jista’ jkun milqugħ jekk l-aptit ikun baxx; staqsi lit-tabib jekk hemm raġunijiet tas-saħħa biex jitnaqqas iz-zokkor.
+- **Żomm ix-xorb fil-medda** u offri kopp ċkejken matul il-ġurnata. Minestra, frott, smoothies u milkshakes jgħoddu wkoll.
+- **Ikol flimkien** meta tista’. L-ikliet huma opportunità għal kumpanija, mhux xogħol li għandu jsir bil-għaġla.
+- **Ipprova ikel bl-idejn**, bħal sandwiches, biċċiet tal-frott jew biċċiet tat-tiġieġ, jekk il-kutlar ikun sar diffiċli.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Il-[gwida tagħna dwar id-dieta](/brain-health/diet/) fiha aktar ideat għall-ikliet. It-tħejjija tal-ikel tista’ wkoll tkun attività maqsuma sabiħa; ara [xogħlijiet tad-dar](/activities/household-tasks/).
 
-## Talk with a doctor
+## Kellem tabib
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Qabel ma tipprova xi pjan ta’ sawm innifsek, kellem lit-tabib tiegħek jew dietista reġistrata, speċjalment jekk tieħu mediċini għad-dijabete jew għall-pressjoni tad-demm, tkun tilift piż reċentement, jew tkun waqajt. Għal xi ħadd li jgħix bid-dimenzja, staqsi lit-tabib tagħhom kemm għandhom jieklu u jixorbu kuljum, aktar milli dwar is-sawm.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Ikseb għajnuna medika urġenti għal konfużjoni f’daqqa, għeluq tas-sensi, jew sinjali ta’ zokkor baxx ħafna li ma jitjibx malajr.

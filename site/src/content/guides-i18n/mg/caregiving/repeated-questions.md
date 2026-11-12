@@ -58,7 +58,7 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-“Yaiza no fotoana fitsidihana dokotera?” Folo minitra aorian’izay: “Yaiza no fotoana fitsidihana dokotera?” Ny fandre fanontaniana mitovy indray mandrakariva dia iray amin’ireo ampahany mahasosotra indrindra amin’ny fikarakarana olona manana dementia. Mahazatra be izany, tsy atao amin’ny tanjona, ary misy fomba mangina hamaly izay mahasoa ny andro ho an’ny roa tonta.
+“Rahoviana no fitsidihana dokotera?” Folo minitra aorian’izay: “Rahoviana no fitsidihana dokotera?” Ny fandre fanontaniana mitovy indray mandrakariva dia iray amin’ireo ampahany mahasosotra indrindra amin’ny fikarakarana olona manana dementia. Mahazatra be izany, tsy atao amin’ny tanjona, ary misy fomba mangina hamaly izay mahasoa ny andro ho an’ny roa tonta.
 
 ## Nahoana ny olona manana dementia no manontany fanontaniana mitovy indray mandrakariva?
 
