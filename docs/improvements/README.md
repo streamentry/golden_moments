@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-11):** weighted overall **9.87 of 10**, lowest dimension 9.37 (localization), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last measured repository-wide score; this content-only round does not claim a new aggregate score. The separate mobile visual audit is recorded as a maintenance follow-up, not a numbered source-led improvement. **Improvement count: 90/100 in this branch** (Round 89 is merged in PR #232; this branch adds #90). Round 90 adds an English guide for supporting an LGBTQ+ person with dementia, with consent-based privacy, chosen supporters and care-setting questions. Local site verification, TypeScript, Python and metadata checks passed; hosted CI is pending. No LGBTQ+ reader, partner/chosen-family caregiver, care-setting staff, clinician or native-speaker review has been done.
+**Latest recorded rubric score (2026-11-11):** weighted overall **9.87 of 10**, lowest dimension 9.37 (localization), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last measured repository-wide score; this content-only round does not claim a new aggregate score. The separate mobile visual audit is recorded as a maintenance follow-up, not a numbered source-led improvement. **Improvement count: 91/100 in this branch** (Round 90 is in PR #234; this branch adds #91). Round 91 adds an English guide on multilingual communication, language preferences and interpreter options in dementia care. Site unit tests (1,869), TypeScript, Python (106), release metadata, ARB and diff checks passed locally; static generation was stopped by the host with exit 137 before page checks, so no page-count or checker claim is recorded. Hosted CI is pending. No multilingual reader, caregiver, clinician, interpreter or native-speaker review was done.
 
 | Item | Status |
 | --- | --- |
@@ -195,3 +195,9 @@ The ARB audit found those literal U.S. numbers in English only; translated help 
 The site covered residential care and after-diagnosis planning but had no focused guidance on respecting an LGBTQ+ person's identity, privacy and chosen supporters during dementia care. The new guide offers person-led questions and concrete ways to assess care-setting practices without giving legal or clinical advice.
 
 Sources include Alzheimer's Society, Alzheimer's Association and SAGE/HRC. The guide is English-only; no lived-experience, care-provider, clinician, native-speaker or live-browser review has been done.
+
+## Round 91: support multilingual communication (2026-11-12)
+
+The general communication guide did not explain how to ask about language preference or plan interpretation for appointments. This English guide says some people may use a language learned earlier, but preferences vary and language changes do not establish a dementia stage. It offers everyday supports and prompts for asking health services about interpreter options.
+
+Sources include Alzheimer's Society, Alzheimer's Association, HHS and NHS. The guide is English-only; existing translated copies of the general communication guide were not regenerated. No reader, caregiver, clinician, interpreter, native-speaker or live-browser review has been done.
