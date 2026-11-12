@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Сензорни активности за лица со деменција"
+seoTitle: "Сензорни активности за деменција: идеи и безбедност"
+description: "Сензорни активности за лица со деменција, од масажа на рака до корпи со ткаенини и звуци од природата, со јасни безбедносни совети за задавување, алергии и мириси."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Сензорните активности користат допир, мирис, вкус, звук и вид: бавна масажа на
+  рака, корпа со меки ткаенини, свежи зачини за мирисање, звуци од природата или
+  гледање птици на прозорец. Тие одговараат на секој стадиум и се особено
+  вредни подоцна. Прво проверете за ризик од задавување, алергии, проблеми со
+  кожата и чувствителност на мириси, понудете по една работа во исто време и
+  застанете ако лицето изгледа вознемирено.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Сензорните активности не бараат точни одговори, па функционираат во секој стадиум, вклучително и во кревет или на стол."
+  - "Понудете по едно чувство во тивка просторија и прашајте или најавете пред да допрете."
+  - "Избегнувајте мали предмети и сè што изгледа или мириса како храна, а не е храна, бидејќи луѓето може да стават работи во устата."
+  - "Проверете за алергии, проблеми со кожата и дишење пред да користите лосиони, мириси или храна."
+  - "Нема убедливи докази дека ароматерапијата помага кај симптомите на деменција; користете мириси само за едноставно уживање, ако воопшто."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Кои се добри сензорни активности за некој со деменција?"
+    a: "Едноставни идеи се бавна масажа на рака со лосион, допирање меки ткаенини, мирисање свежи зачини или кафе, слушање омилена музика или звуци од природата, гледање птици или акваријум со риби и вкусување омилена храна со безбедна текстура. Понудете по една работа во исто време и следете како лицето реагира."
+  - q: "Дали сензорните активности се безбедни за некој што става работи во устата?"
+    a: "Можат да бидат, со внимание. Користете само големи предмети што не можат да се проголтаат, избегнувајте сè мало или кршливо и држете лосиони, сапуни и производи со мирис надвор од дофат по активноста, бидејќи можат да изгледаат или да мирисаат како храна. Останете со лицето цело време."
+  - q: "Дали ароматерапијата помага кај деменцијата?"
+    a: "Прегледот на Cochrane не најде убедливи докази дека ароматерапијата помага кај луѓето со деменција, иако студиите беа мали и недоследни. Ако лицето ужива во благ, познат мирис, тоа е во ред, но избегнувајте силни есенцијални масла, особено кога има проблеми со дишењето или алергии."
+  - q: "Што е активна престилка или престилка за занимање?"
+    a: "Тоа е парче ткаенина, престилка или ќебе за скут со предмети за допирање цврсто прикачени на него, како големи копчиња, патенти, панделки и текстурирани закрпи. Му дава на зафатените раце нешто да истражуваат. Често проверувајте дали има нешто лабаво што може да се искине."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Сензорните активности ги користат петте сетила: допир, мирис, вкус, звук и вид. Не бараат меморија, чекори или точни одговори, па можат да функционираат во секоја фаза. Најмногу се вредни подоцна. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) наведува дека во доцната фаза светот главно се доживува преку сетилата и дека грижата може да се покаже преку допир, звук, вид, вкус и мирис. Неколку безбедносни проверки ги прават овие активности опуштени за сите.
 
-## What are sensory activities for dementia?
+## Што се сензорни активности за деменција?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Сензорните активности се едноставни искуства изградени околу едно чувство во исто време, како допирање ткаенина, мирисање зачини или слушање дожд. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) вели дека активностите во доцната фаза често треба да се фокусираат на сетилата и ги спомнува музиката, предметите за допирање и држење и масажата на рака. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) наведува дека луѓето во доцната фаза можеби имаат силна потреба да држат нешто блиску до себе за утеха.
 
-## Sensory ideas, sense by sense
+## Сензорни идеи, по сетило
 
-### Touch
+### Допир
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Масажа на рака.** Загрејте малку лосион во дланките и галете полека од зглобот до врвовите на прстите. [Националниот институт за стареење](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) спомнува масажа со лосион без мирис за утеха.
+- **Корпа со ткаенини.** Големи квадрати од велур, корд, поларфлис, сатен и волна за галење, склопување и разговор.
+- **Топла крпа за миење.** Топла, влажна крпа за рацете на ладен ден. Прво проверете ја температурата на својот зглоб.
+- **Активна престилка или ќебе за скут.** Големи копчиња, патенти, панделки и текстурирани закрпи цврсто прицврстени.
+- **Склопување и израмнување.** Корпа со чисти крпи за миење или салфетки за склопување, слагање и повторно склопување.
+- **Нешто меко за држење.** Поларфлис ќебе, перница или реалистично мека играчка, понудено едноставно, никогаш како играчка.
 
-### Smell
+### Мирис
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Свежи зачини.** Протријте лист од нане, рузмарин, босиљок или лаванда меѓу прстите и поднесете го.
+- **Мириси од кујната.** Кафе што се вари, леб што се пржи, цимет или портокал што се лупи во близина.
+- **Цвеќиња.** Донесете неколку свежи цветови од градината или од продавницата.
+- **Познат производ.** Сапунот или лосионот што секогаш го користеле, ако кожата им го поднесува.
 
-### Taste
+### Вкус
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Омилен вкус.** Мала лажица од нешто што го сакаат, како компот од јаболка, пудинг или сладолед, во текстура што безбедно можат да ја подносат.
+- **Помош при печење.** Вкусување овошје или малку глазура додека печете заедно.
+- **Сезонски деликатеси.** Диња во лето, топол сок од јабуки во есен, послужени на безбедна температура.
 
-### Sound
+### Звук
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Омилена музика.** Познати песни на нежна јачина; видете [музички активности](/activities/music/).
+- **Звуци од природата.** Дожд, бранови или пеење на птици. NIA наведува дека музиката, белиот шум и звуците од природата изгледа ги опуштаат некои луѓе.
+- **Вашиот глас.** Читање наглас, мрморење или раскажување приказна.
+- **Едноставни инструменти.** Рачен бубен, шејкер или ѕвонче за свирење во ритам со музиката.
 
-### Sight
+### Вид
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Гледање низ прозорец.** Хранилка за птици надвор од прозорецот, деца што се враќаат дома или снег што паѓа.
+- **Акваријум со риби или бавно видео.** Нежно движење без гласен звук.
+- **Големи фотографии.** Една јасна слика во исто време, држена на висина на очи.
+- **Боја и шема.** Сортирање живописни парчиња ткаенина, цвеќиња или обоени салфетки, или едноставна страница за бојадисување од нашата [збирка за бојадисување](/games/coloring/).
+- **Надвор.** NHS предлага сензорни градини со мирисни растенија, текстури и водни елементи. Видете [активности на отворено и градинарство](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Како да направите сензорна кутија
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Изберете тема** поврзана со животот на лицето: плажа, градина, кујна, работилница, шиење.
+2. **Изберете пет или шест големи, безбедни предмети,** како голема школка, дрвена лажица, мек шал, кесичка со сушена лаванда зашиена или мазен дрвен блок.
+3. **Проверете секој предмет** за мали делови, остри рабови, лабави конци и сè кршливо.
+4. **Изнесувајте по еден предмет во исто време.** Подајте го, опишете го и пуштете лицето да истражува.
+5. **Потоа вратете ја кутијата** за да остане посебна, а предметите да се проверат повторно пред следниот пат.
 
-## Safety first
+## Безбедност пред сè
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Сензорните активности се нежни, но неколку ризици се важни. Некои луѓе со деменција погрешно ги сметаат предметите што не се храна за храна, а гутањето со текот на времето може да стане потешко; NIA предупредува дека проблемите со гутањето во доцната фаза го зголемуваат ризикот од задавување.
 
-| Risk | What to do |
+| Ризик | Што да се направи |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Задавување | Користете само предмети што се преголеми за да се проголтаат. Без копчиња, мониста, монети, мермери или мали играчки лабаво во кутија. Понудете храна само во текстури што тимот за грижа вели дека се безбедни. |
+| Работи што изгледаат како храна | NIA советува да се заклучат лосиони, сапуни, шампони и парфеми, кои можат да изгледаат или да мирисаат како храна, и да се отстрани вештачко овошје. Ставајте ги сензорните производи настрана по употреба. |
+| Алергии | Проверете за алергии на ореви, латекс, волна, растенија или мириси пред да започнете. |
+| Силни мириси | Избегнувајте силни парфеми и есенцијални масла, особено кога има астма или други проблеми со дишењето. Благите, природни мириси се побезбедни. |
+| Кожа | Проверете за болна, скршена или крхка кожа пред масажа. Користете нежен притисок и застанете ако се стегнат. |
+| Температура | Прво проверете ги топлите крпи и пијалоците на својот зглоб. |
+| Остри или отровни предмети | Без остри алатки, стакло или отровни материјали за занаети. |
 
-## Does aromatherapy help?
+## Дали ароматерапијата помага?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Веројатно не на мерлив начин. [Прегледот на Cochrane за ароматерапија кај деменција](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) разгледал 13 студии со 708 луѓе, сите во домови за стари лица, и не нашол убедливи докази за корист. Студиите беа мали, резултатите не се совпаѓаа, а несаканите ефекти слабо беа пријавени. Ако лицето ужива во благ, познат мирис, како лаванда од градината, тоа е добра причина да го споделите. Тоа не е третман.
 
-## How to offer a sensory activity
+## Како да понудите сензорна активност
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Изберете тивок момент** и исклучете го телевизорот.
+- **Приближете се одпред,** кажете го нивното име и прашајте или најавете пред да допрете: „Имам малку лосион. Би сакале масажа на рака?“
+- **Понудете по една работа во исто време** за да не преоптоварите.
+- **Следете ја реакцијата.** Помек израз, опуштени раце или насмевка се добри знаци. Повлекување, мрштење или немир значи застани.
+- **Држете го кратко.** Пет смирени минути се добра сесија.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Заедничко бавно дишење, како [смирено дишење](/games/calm-breathing/), може нежно да заврши активноста. За повеќе идеи покрај кревет, видете [активности за доцен стадиум](/activities/late-stage/), а за вечерна вознемиреност видете [немир во попладневните часови](/caregiving/late-day-restlessness/).

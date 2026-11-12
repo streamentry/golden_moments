@@ -76,7 +76,7 @@ E puer Aarbechten hunn sécherheetsrelevant Aufgaben. Wann Dir net sécher sidd,
 
 Ier Dir Är Stonnen ännert oder d'Aarbecht verlooss, kuckt déi Virdeeler duerch, déi Dir iwwer Äre Patron kritt. Frot d'Personalofdeelung oder de Virdeelsverwalter no Congé, Invaliditéits- oder Akommesleeschtungen, Gesondheetsversécherung an all Friste. Bieden d'aktuell Regele schrëftlech un a bewahrt eng Kopie vun all Informatioun, déi Dir kritt.
 
-D'Viraussetzungen, d'Steieren an de Moment hänken vun Ärem Patron, Ärer Versécherungspolice a Ärem Standuert of. Fir Ären eegenen Entscheed sprecht mat enger qualifizéierter Fachpersoun fir Virdeeler oder Finanzen, déi d'Dokumenter fir Iech iwwerpréiwe kann. Ënnerschreift oder beendegt keng Versécherung just op Basis vun engem allgemengen Artikel.
+D'Viraussetzungen, d'Steieren an de Moment hänken vun Ärem Patron, Ärer Versécherungspolice a Ärem Standuert of. D'[Alzheimer's Association rät, d'Virdeeler vum Patron ze iwwerpréiwen an eng schrëftlech Bestätegung ze behalen](https://www.alz.org/help-support/i-have-alz/younger-onset). Fir Ären eegenen Entscheed sprecht mat enger qualifizéierter Fachpersoun fir Virdeeler oder Finanzen, déi d'Dokumenter fir Iech iwwerpréiwe kann. Ënnerschreift oder beendegt keng Versécherung just op Basis vun engem allgemengen Artikel.
 
 Är Famill kann och vun enger Ännerung vum Akommes oder vum Stonneplang betraff sinn. Wann Dir wëllt, schwätzt mat de Leit, déi Iech vertrauen, doriwwer, wat am wichtegsten ass a wéi Optiounen Dir wëllt ënnersichen. De [Guide zu den éischte Schrëtt nom Diagnos](/caregiving/after-dementia-diagnosis/) deckt méi breet Ënnerstëtzung an Zukunftsplanung of.
 
