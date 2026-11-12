@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 import 'package:golden_moments/l10n/l10n.dart';
 
 /// Matches `version:` in pubspec.yaml; a test keeps the two in step.
-const String appVersion = '1.9.0+13';
+const String appVersion = '1.10.0+14';
 
 /// The public help page already declared as `support_url` in the canonical
 /// store metadata (a test keeps the two identical). It is shown as text to
