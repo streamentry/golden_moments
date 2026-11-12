@@ -1,7 +1,7 @@
 ---
 title: "Fakahoko ʻa e Paʻanga mo e Dementia: Tokoni ʻOku Malu Ange"
 seoTitle: "Dementia mo e Paʻanga: Tokoni Malu ki he Fāmili"
-description: "Ako pe fēfē ke tokoni ki he ngaahi bili ʻi he dementia ʻo tauhi ʻa e tokotaha ʻi he ngāue, mahino ʻa e kau fetuʻutaki falala, mo e ngāue ʻi he taimi ʻo e fakakaukau ki he kākā."
+description: "Tokoni ki he ngaahi bili ʻi he dementia ʻo tauhi ʻa e tokotaha ʻi he ngāue, mahino ʻa e kau fetuʻutaki falala, mo e ngāue kapau ʻoku kākā ha taha."
 section: caregiving
 order: 35
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "ʻAlu ki he Hōsipitale ʻoku ʻi ai ha Dementia"
 seoTitle: "Tokanga ʻa e Hōsipitale ki ha Taha ʻoku ʻi ai ha Dementia"
-description: "Teuteu ki ha nofo hōsipitale ʻi he fuofua pe fakavave ʻi he dementia: vahevahe ʻa e ngaahi filifili ʻo e tokanga, ʻomi ʻa e ngaahi meʻa ʻoku ʻiloa, mo fakaʻaonga ʻa e sitepu ʻo e foki atu."
+description: "Teuteu ki ha nofo hōsipitale ʻi he dementia: vahevahe ʻa e ngaahi filifili ʻo e tokanga, ʻomi ʻa e ngaahi meʻa ʻoku ʻiloa, mo kole ha palani tohi."
 section: caregiving
 order: 21
 updated: 2026-11-11

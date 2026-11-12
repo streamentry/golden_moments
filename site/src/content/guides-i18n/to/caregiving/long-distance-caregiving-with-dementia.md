@@ -1,7 +1,7 @@
 ---
 title: "Tokanga mamaʻo ki ha Taha ʻoku ʻi ai ha Dementia"
 seoTitle: "Tokanga mamaʻo ʻi he Dementia: Founga ke Tokoni"
-description: "Tokoni ki ha taha ʻoku ʻi ai ha dementia mei he mamaʻo: fakapapau ʻa e ngaahi ngāue, fakatonutonu ʻa e tokoni ʻo e feituʻu, teuteu ʻa e ngaahi ʻaʻahi, mo fakaʻapaʻapa ki he loto ʻo e tokotaha."
+description: "Tokoni ki ha taha ʻoku ʻi ai ha dementia mei he mamaʻo: fakapapau ʻa e ngaahi ngāue, fakatonutonu ʻa e kau tokoni ʻi he feituʻu, teuteu ʻa e ʻaʻahi."
 section: caregiving
 order: 38
 updated: 2026-11-11
