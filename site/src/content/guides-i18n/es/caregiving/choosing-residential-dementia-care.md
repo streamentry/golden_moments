@@ -1,7 +1,7 @@
 ---
 title: "Cómo elegir una residencia para una persona con demencia"
 seoTitle: "Elegir atención para demencia: qué preguntar y qué observar"
-description: "Compare residencias para demencia según las necesidades de la persona, el trato del personal, la vida diaria y los costos. Inclúyala en las visitas y decisiones según desee."
+description: "Compare residencias para demencia según necesidades, trato del personal, vida diaria y costos. Incluya a la persona en visitas y decisiones según desee."
 section: caregiving
 order: 25
 updated: 2026-11-11

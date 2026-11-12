@@ -1,7 +1,7 @@
 ---
 title: "Cómo preparar una consulta médica con demencia"
 seoTitle: "Citas médicas y demencia: consejos para quien cuida"
-description: "Prepare una consulta médica con demencia: anote preguntas, registre los cambios, lleve los datos de los medicamentos e incluya a la persona en las decisiones con su consentimiento."
+description: "Prepare una consulta médica con demencia: anote preguntas, registre cambios, lleve los medicamentos e incluya a la persona en las decisiones."
 section: caregiving
 order: 20
 updated: 2026-11-11

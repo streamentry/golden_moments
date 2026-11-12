@@ -1,7 +1,7 @@
 ---
 title: "Cómo elegir un programa de día para adultos con demencia"
 seoTitle: "Centro de día para demencia: qué preguntar"
-description: "Compare los programas de día para demencia según actividades, personal, apoyo, transporte y si encajan con los deseos de la persona. Pregunte por las tarifas y las normas de asistencia."
+description: "Compare programas de día para demencia por actividades, personal, transporte y encaje con los deseos de la persona. Pregunte por tarifas y normas de asistencia."
 section: caregiving
 order: 27
 updated: 2026-11-11

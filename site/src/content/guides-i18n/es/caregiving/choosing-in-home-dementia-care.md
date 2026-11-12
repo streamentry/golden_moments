@@ -1,7 +1,7 @@
 ---
 title: "Cómo elegir ayuda a domicilio para una persona con demencia"
 seoTitle: "Atención a domicilio para demencia: cómo elegir apoyo"
-description: "Elija el apoyo a domicilio para demencia definiendo la ayuda necesaria, preguntando por la experiencia y el respaldo, involucrando a la persona y revisando los costos y las condiciones."
+description: "Elija apoyo a domicilio para demencia definiendo la ayuda necesaria, preguntando por la experiencia y el respaldo, e involucrando a la persona en la decisión."
 section: caregiving
 order: 24
 updated: 2026-11-11

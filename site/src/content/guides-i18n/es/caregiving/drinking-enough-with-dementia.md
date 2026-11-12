@@ -1,7 +1,7 @@
 ---
 title: "Cómo ayudar a una persona con demencia a beber lo suficiente"
 seoTitle: "Demencia y bebida: consejos para quien cuida"
-description: "Ayude a una persona con demencia a beber lo suficiente ofreciéndole sus bebidas preferidas a lo largo del día. Consulte al médico sobre sus necesidades de líquidos y los problemas al tragar."
+description: "Ayude a beber lo suficiente ofreciendo bebidas preferidas a lo largo del día. Consulte al médico sobre necesidades de líquidos y problemas al tragar."
 section: caregiving
 order: 23
 updated: 2026-11-11
