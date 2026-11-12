@@ -1,7 +1,7 @@
 ---
 title: "Kula da Dabba da Ciwon Mantuwa: Tallafa wa Tsarin Tare"
 seoTitle: "Tallafin Kula da Dabba ga Wanda ke da Ciwon Mantuwa"
-description: "Taimaka wa wanda ke da ciwon mantuwa ya riƙe tsarin kula da dabba da tunatarwa, taimakon da aka amince da shi, da tsare-tsaren ajiyar gaggawa da ke girmama zaɓin mutum da bukatun dabbar."
+description: "Taimaka wa mai ciwon mantuwa ya ci gaba da kula da dabba da tunatarwa, taimakon da aka amince da shi, da shirin ajiyar gaggawa mai girmama zaɓinsa."
 section: caregiving
 order: 15
 updated: 2026-11-11

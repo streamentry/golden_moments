@@ -1,7 +1,7 @@
 ---
 title: "Sarrafa Kuɗi a Lokacin Ciwon Mantuwa: Tallafi Mai Aminci"
 seoTitle: "Ciwon Mantuwa da Kuɗi: Tallafi Mai Aminci ga Iyali"
-description: "Koyi yadda za ka ba da taimako wajen biyan kuɗaɗe ga wanda ke da ciwon mantuwa, yayin da yake ci gaba da shiga, ka fahimci amintattun tuntuɓa, kuma ka ɗauki mataki idan ana zargin zamba."
+description: "Ba da taimakon biyan kuɗi ga mai ciwon mantuwa yayin da yake ci gaba da shiga, fahimci amintattun tuntuɓa, kuma ka ɗauki mataki idan ana zargin zamba."
 section: caregiving
 order: 35
 updated: 2026-11-11

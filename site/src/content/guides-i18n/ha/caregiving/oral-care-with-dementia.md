@@ -1,7 +1,7 @@
 ---
 title: "Kula da Baki ga Wanda ke da Ciwon Mantuwa"
 seoTitle: "Kula da Haƙori ga Wanda ke da Ciwon Mantuwa"
-description: "Taimaka wa wanda ke da ciwon mantuwa ya riƙe tsarin kula da baki da ya saba, da alamu masu sauƙi, izini, da taimakon likitan haƙori game da ciwo, haƙoran ƙarya ko sabbin matsaloli."
+description: "Taimaka wa mai ciwon mantuwa ya riƙe tsarin kula da baki da ya saba, da alamu masu sauƙi, izini, da taimakon likitan haƙori game da ciwo ko haƙoran ƙarya."
 section: caregiving
 order: 16
 updated: 2026-11-11

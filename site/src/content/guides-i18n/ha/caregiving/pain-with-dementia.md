@@ -1,7 +1,7 @@
 ---
 title: "Gane Ciwo a Wanda ke da Ciwon Mantuwa"
 seoTitle: "Ciwo da Ciwon Mantuwa: Alamu da Abin da Za a Yi"
-description: "Ciwo na iya zama da wuyar bayyanawa a lokacin ciwon mantuwa. Lura da canje-canje, tambaya da kalmomin da mutum ya sani, kuma tuntuɓi ƙwararren lafiya maimakon yin zato kan dalili."
+description: "Ciwo na iya zama da wuyar bayyanawa a ciwon mantuwa. Lura da canje-canje, tambaya da kalmomin da mutum ya sani, kuma tuntuɓi ƙwararren lafiya."
 section: caregiving
 order: 22
 updated: 2026-11-11

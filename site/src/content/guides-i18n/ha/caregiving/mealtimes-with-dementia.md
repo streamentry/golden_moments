@@ -1,7 +1,7 @@
 ---
 title: "Sauƙaƙa Lokacin Cin Abinci ga Wanda ke da Ciwon Mantuwa"
 seoTitle: "Lokacin Cin Abinci Mai Nutsuwa ga Ciwon Mantuwa"
-description: "Hanyoyi masu amfani don sa cin abinci ya fi nutsuwa ga wanda ke da ciwon mantuwa: abinci na saba, ƙarancin abubuwan ɗaga hankali, tebur mai sauƙi, isasshen lokaci, da daki ga 'yancinsa."
+description: "Hanyoyi masu amfani don cin abinci ya fi nutsuwa ga mai ciwon mantuwa: abinci na saba, ƙarancin abubuwan ɗaga hankali, tebur mai sauƙi, isasshen lokaci."
 section: caregiving
 order: 13
 updated: 2026-11-11
