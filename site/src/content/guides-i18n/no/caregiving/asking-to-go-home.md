@@ -1,7 +1,7 @@
 ---
 title: "Når noen med demens stadig vil hjem"
 seoTitle: "Demens og ønsket om å dra hjem: Hva du kan si"
-description: "Hvorfor en person med demens vil hjem selv når hun eller han er hjemme, hva du kan si, rolige aktiviteter å prøve, og hvordan du holder dem trygge hvis de prøver å gå."
+description: "Hvorfor en person med demens vil hjem selv når hun eller han er hjemme, hva du kan si, rolige aktiviteter, og hvordan dere holder dere trygge hvis de prøver å gå."
 section: caregiving
 order: 8
 updated: 2026-11-11
@@ -142,7 +142,7 @@ Uro som starter eller blir verre sent på ettermiddagen kalles ofte sundowning. 
 - Et nylig nærbilde, og en liste over steder de kan dra til, for eksempel et tidligere hjem eller arbeidssted.
 - Si fra til pålitelige naboer, og gi dem telefonnummeret ditt.
 
-**Hvis de forsvinner:** sjekk trygge steder i nærheten og kontakt lokalt politi eller nødetatene raskt. Vent ikke en fast tid før du melder fra. En artikkel fra det amerikanske justisdepartementet fra 2021 om etterforskning av savnede personer sier at politiet ikke bør kreve en fast ventetid. Den nevner også demenslignende symptomer som en høyrisikofaktor. Lokale rutiner for melding varierer. Fortell de som svarer, at personen har demens, del siste kjente sted og et nylig bilde, og følg deres anvisninger. Hvis det finnes en annen hjelper, be vedkommende bli ved telefonen. Søk ikke på utrygge steder alene.
+**Hvis de forsvinner:** sjekk trygge steder i nærheten og kontakt lokalt politi eller nødetatene raskt. Vent ikke en fast tid før du melder fra. En [artikkel fra det amerikanske justisdepartementet fra 2021 om etterforskning av savnede personer](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) sier at politiet ikke bør kreve en fast ventetid. Den nevner også demenslignende symptomer som en høyrisikofaktor. Lokale rutiner for melding varierer. Fortell de som svarer, at personen har demens, del siste kjente sted og et nylig bilde, og følg deres anvisninger. Hvis det finnes en annen hjelper, be vedkommende bli ved telefonen. Søk ikke på utrygge steder alene.
 
 ## Når bør jeg ringe lege?
 

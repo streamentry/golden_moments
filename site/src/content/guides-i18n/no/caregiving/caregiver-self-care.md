@@ -1,7 +1,7 @@
 ---
 title: "Egenomsorg for pårørende: avlastning, støtte og tegn på utbrenthet"
 seoTitle: "Egenomsorg for pårørende ved demens: avlastning og støtte"
-description: "Tegn på utbrenthet hos pårørende, hvordan du finner avlastning og støttegrupper, og gratis hjelpelinjer i USA, inkludert Alzheimer's Associations døgnlinje og Eldercare Locator."
+description: "Tegn på utbrenthet hos pårørende, avlastning og støttegrupper, samt gratis hjelpelinjer i USA, inkludert Alzheimer's Associations døgnlinje og Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25

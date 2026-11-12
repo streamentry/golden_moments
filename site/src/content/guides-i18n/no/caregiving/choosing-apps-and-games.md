@@ -1,7 +1,7 @@
 ---
 title: "Slik velger du apper og spill for demens"
 seoTitle: "Slik velger du apper og spill for demens: en sjekkliste"
-description: "En sjekkliste for pårørende når de skal velge apper og spill for demens: start med målet ditt, unngå tidtakere og annonser, sjekk personvern, og les påstander om bevis med varsomhet."
+description: "Sjekkliste for pårørende når de velger apper og spill for demens: start med målet, unngå tidtakere og annonser, sjekk personvern, og les påstander om bevis kritisk."
 section: caregiving
 order: 6
 updated: 2026-10-30
