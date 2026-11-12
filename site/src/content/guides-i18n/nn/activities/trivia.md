@@ -70,9 +70,9 @@ Svaret står i **fet skrift**. Tilpass desse til personen: nokon som vaks opp me
 | Spørsmål | Alternativ | Snakk om |
 | --- | --- | --- |
 | Kven vart kalla Rock and Roll-kongen? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Såg du nokon gong Elvis på TV? |
-| Kva sangar vart kalla Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Kva Sinatra-song likar du best? |
+| Kva artist vart kalla Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Kva Sinatra-song likar du best? |
 | Bing Crosby drøymde om ein kvit ... | **Jul**, bryllaup, hus | Syng ei line saman |
-| Louis Armstrong song «What a Wonderful ...» | Dag, **verda**, liv | Kva gjer verda vakker for deg? |
+| Louis Armstrong sang «What a Wonderful ...» | Dag, **verda**, liv | Kva gjer verda vakker for deg? |
 | «Over the Rainbow» vart sungen av Judy Garland i kva film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Kvar såg du dei favorittfilmane dine? |
 | Kven spelte Lucy i «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Kva program såg familien din saman? |
 | Kva cowboy red på hesten sin Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Lekte du cowboy som barn? |
@@ -103,14 +103,14 @@ For meir om musikk, sjå [musikkaktivitetar for demens](/activities/music/).
 | --- | --- | --- |
 | Kva høgtid er på den fjerde torsdagen i november? | Arbeidarens dag, **Thanksgiving**, Minnedagen | Kva stod alltid på bordet ditt? |
 | Jack-o'-lanterns vert laga til kva høgtid? | **Halloween**, påske, jul | Fortel meg om Halloween der du voks opp |
-| Den 4. juli feirar ein Declaration of ... | Rettar, **Independence**, fridom | Kvar såg du fyrverkeri? |
+| Den fjerde juli feirar ein Declaration of ... | Rettar, **Independence**, fridom | Kvar såg du fyrverkeri? |
 | Morsdag er i kva månad? | April, **mai**, juni | Korleis feira familien din? |
 | Kor mange stjerner er det på det amerikanske flagget? | 48, **50**, 52 | Flagget hadde 48 stjerner fram til 1959. Begge svara er gode minne |
 | Kva hav ligg på austkysten? | Stillehavet, **Atlanterhavet**, Polhavet | Har du nokon gong vore på stranda? |
 | Kva by står Frihetsgudinna i? | Boston, **New York**, Philadelphia | Har du vore i New York? |
 | Kva lagar bier? | Mjølk, **honning**, silke | Honning på brød eller i te? |
 | Ein kalv blir kalla ein ... | Føll, **kalv**, kje | Har du nokon gong budd nær ein gard? |
-| Kva høg gul blome er kjend for å snu seg mot sola? | Rose, **solsikke**, tulipan | Kva voks i hagen din? |
+| Kva høg, gul blome er kjend for å snu seg mot sola? | Rose, **solsikke**, tulipan | Kva voks i hagen din? |
 | Kor mange dagar er det i eit skotår? | 365, **366**, 360 | Fortel meg om ein bursdag du hugsar |
 | Kva årstid kjem etter vinteren? | Haust, **vår**, sommar | Kva er di favorittårstid? |
 
@@ -141,7 +141,7 @@ For meir om musikk, sjå [musikkaktivitetar for demens](/activities/music/).
 | Ein spar ein krone, og ein ... | **tener ein**, mistar ein, brukar ein | Kven var spararen i familien din? |
 | Heime er der ... | hagen er, **hjarta er**, kjøkkenet er | Kva får ein stad til å kjennast som heime? |
 | Betre seint enn ... | tidleg, **aldri**, unnskyld | Kven kom alltid for seint? |
-| Kvar sky har ei sølvkant ... | **Kant**, skei, mynt | Fortel meg om eit heldig gjennombrot |
+| Kvar sky har ei sølv ... | **kant**, skei, mynt | Fortel meg om eit heldig gjennombrot |
 | Gjerningar talar høgare enn ... | **ord**, musikk, torden | Fortel meg om nokon som sa det |
 
 ## Dette-eller-hint-spørsmål utan rett svar

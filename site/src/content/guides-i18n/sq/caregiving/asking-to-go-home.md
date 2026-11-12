@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Kur dikush me demencë vazhdon të kërkojë të shkojë në shtëpi"
+seoTitle: "Demenca kërkon vazhdimisht të shkojë në shtëpi: çfarë të thuhet"
+description: "Pse një person që jeton me demencë kërkon të shkojë në shtëpi edhe kur është në shtëpi, çfarë të thuhet, aktivitete qetësuese për t'i provuar, dhe si t'i mbani të sigurt nëse përpiqen të largohen."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Kur dikush me demencë vazhdon të kërkojë të shkojë në shtëpi, \"shtëpia\" shpesh do të thotë një ndjenjë
+  sigurie ose një vend nga e kaluara, jo një ndërtesë. Mos u argumentoni se ai ose ajo është në shtëpi.
+  Pranoni ndjenjën, siguroni se janë të sigurt, pyesni për shtëpinë, pastaj kaloni butësisht te fotografitë,
+  muzika, një ushqim i lehtë, një shëtitje ose një detyrë e thjeshtë. Kontrolloni urinë, etjen, tualetin
+  ose dhimbjen. Nëse fillon papritur, telefononi mjekun e tij ose të saj.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Dua të shkoj në shtëpi\" shpesh do të thotë \"nuk ndihem i sigurt ose i qetë\", jo një kërkesë për adresë."
+  - "Argumentimi ose vërtetimi se ai ose ajo është në shtëpi zakonisht e rrit shqetësimin. Përgjigjuni ndjenjës në vend të kësaj."
+  - "Pyeteni të të tregojë për shtëpinë, pastaj ofroni fotografi, muzikë, një ushqim të lehtë, një shëtitje ose një detyrë të thjeshtë."
+  - "Kontrolloni për diçka që mund të korrigjohet: uri, etje, tualetin, dhimbje, të nxehtë ose të ftohtë, zhurmë, lodhje."
+  - "Nëse ndodh çdo pasdite vonë, mund të jetë sundowning; një rutinë e qëndrueshme dhe drita e mirë mund të ndihmojnë."
+  - "Planifikoni sigurinë nëse përpiqen të largohen, dhe telefononi mjekun për çdo ndryshim të papritur."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Pse mamaja ime me demencë vazhdon të kërkojë të shkojë në shtëpi kur është në shtëpi?"
+    a: "Demenca mund t'i bëjë dhomat e njohura të duken të huaja, dhe njerëzit ndonjëherë ndjehen sikur janë në një periudhë më të hershme të jetës. \"Shtëpia\" mund të do të thotë shtëpia e fëmijërisë ose thjesht ndjenja e të qenit i sigurt dhe i rehatshëm. T'i përgjigjesh asaj ndjenje zakonisht funksionon më mirë sesa t'i tregosh se ku është."
+  - q: "Çfarë duhet të them kur kërkojnë të shkojnë në shtëpi?"
+    a: "Provoni \"Këtu je i sigurt, dhe unë qëndroj me ty\", pastaj \"Më trego për shtëpinë tënde.\" Dëgjoni, ndajini një fotografi ose një këngë, dhe ofroni një pije ose një shëtitje të shkurtër. Shmangni \"Ti je në shtëpi\" të thënë si korrigjim, sepse mund të ndihet si t'i thuash që gabojnë."
+  - q: "A është në rregull të them se do të shkojmë në shtëpi më vonë?"
+    a: "Familjet dhe organizatat e demencës ndryshojnë për këtë. Shumë fillojnë me rehati të sinqertë dhe ridrejtim, dhe e rezervojnë një gënjeshtër të butë për momentet kur e vërteta do të shkaktonte vetëm shqetësim që personi nuk mund ta përpunojë. Çfarëdo që zgjidhni, jini të sjellshëm dhe të qëndrueshëm, dhe mos e tallni kurrë ndjenjën e tyre të realitetit."
+  - q: "Çfarë nëse përpiqen të largohen nga shtëpia?"
+    a: "Qëndroni të qetë dhe ecni me ta në vend që t'i bllokoni; një shëtitje e shkurtër shpesh e qetëson dëshirën. Vendosni masat e sigurisë paraprakisht, si një byzylyk identifikimi, zile në derë dhe një fotografi e fundit. Nëse personi zhduket, kontrolloni vendet e sigurta aty afër ndërsa kontaktoni menjëherë policinë lokale ose shërbimet e emergjencës. Mos prisni një numër të caktuar minutash përpara se të raportoni."
+  - q: "Kur duhet të telefonoj mjekun?"
+    a: "Telefononi mjekun menjëherë nëse kërkesa ose konfuzioni fillon papritur ose përkeqësohet shumë brenda orësh ose ditësh, sidomos me temperaturë, një ilaç të ri ose shenja të infeksionit të rrugëve urinare. Konfuzioni i papritur mund të jetë delirium, që kërkon kujdes urgjent. Telefononi numrin e emergjencave në vendin tuaj nëse dikush është në rrezik."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +49,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +69,144 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+\"Dua të shkoj në shtëpi.\" Për shumë familje, kjo është një nga gjërat më të vështira për t'u dëgjuar, sidomos kur personi që kujdeseni është ulur në dhomën e vet të ndenjes. Është e zakonshme, mund të ndodhë në çdo fazë të demencës, dhe ka mënyra të qeta dhe praktike për t'iu përgjigjur. Kjo faqe mbulon atë që shpesh do të thotë fjala, çfarë të thuhet, aktivitete që mund të ndihmojnë në momentin e duhur, dhe si të qëndroni të sigurt.
 
-## Why does someone with dementia keep asking to go home?
+## Pse dikush me demencë vazhdon të kërkojë të shkojë në shtëpi?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Zakonisht, \"shtëpia\" është më shumë një ndjenjë sesa një vend. Shoqata e Alzheimerit
+(Alzheimer's Society) e përshkruan atë si një ndjenjë rehatie dhe sigurie, ose një
+shtëpi nga e kaluara, dhe jo vetë shtëpia. Demenca mund t'i bëjë dhomat e njohura
+të duken të çuditshme, dhe personi mund të ndjehet sikur jeton në një periudhë më
+të hershme të jetës, kur shtëpia ishte shtëpia e fëmijërisë ose vendi ku kanë rritur
+fëmijët.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Fjalët mund të jenë gjithashtu një shenjë se diçka tjetër nuk shkon në atë moment:
+personi është i uritur, i etur, ka nevojë për tualet, ka dhimbje, është shumë i nxehtë
+ose i ftohtë, i lodhur, i vetmuar, i frikësuar, ose i mbingarkuar nga zhurma. [Instituti
+Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
+liston dhimbjen, zhurmën, vetminë, ndryshimet në rutinë dhe ilaçet mes shkaqeve të
+agjitacionit.
 
-## What should I say when they ask to go home?
+## Çfarë të them kur kërkojnë të shkojnë në shtëpi?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Përgjigjuni ndjenjës, jo fjalëve. [Aleanca e Kujdestarëve Familjarë (Family Caregiver Alliance)](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+këshillon të mos përpiqeni ta bindni personin se gabon: ndjenjat e tij janë reale, prandaj
+përgjigjuni me rehati dhe siguri së pari, pastaj ridrejtoni butësisht.
 
-Phrases that often help:
+Fraza që shpesh ndihmojnë:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Emërtoni ndjenjën.** \"Duket sikur ju mungon shtëpia.\"
+- **Qetësoni.** \"Këtu je i sigurt, dhe unë qëndroj me ty.\" [Shoqata e Alzheimerit](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)
+  sugjeron fjalët e thjeshta \"Këtu je i sigurt.\"
+- **Ftoni kujtime.** \"Më trego për shtëpinë tënde. Si ishte kuzhina jote?\" Pyetjet për
+  të kaluarën e largët zakonisht janë më të rehatshme sesa pyetjet për sot.
+- **Ofroni diçka së bashku.** \"Të pimë një çaj së pari,\" ose \"A më ndihmon me këto peshqirë?\"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Një ton i ngrohtë dhe një dorë në krah, nëse u pëlqen prekja, mund të thonë më shumë se
+fjalët.
 
-## What should I avoid?
+## Çfarë duhet të shmangni?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Argumentimin ose shpjegimin.** \"Ti jeton këtu tani\" ose \"Kjo ka qenë shtëpia jote për
+  40 vjet\" u kërkon të pranojnë diçka që demenca e bën të vështirë për t'u pranuar, dhe
+  mund të ndihet si t'u thuash që gabojnë.
+- **Pyetjet e shumta.** \"A nuk e kujton?\" ose \"Cila është adresa?\" shton presion.
+- **Bllokimin e derës me zemërim.** Nëse nisen për jashtë, qëndroni të qetë dhe ecni me ta.
+  Një shëtitje e shkurtër së bashku shpesh e qetëson dëshirën.
+- **Nxitimin.** Jepini kohë të flasë për shtëpinë përpara se të ndryshoni temën.
 
-## Activities that can help in the moment
+## Aktivitete që mund të ndihmojnë në momentin e duhur
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Pasi keni pranuar ndjenjën, një aktivitet i qetë dhe i njohur mund ta zhvendosë
+vëmendjen pa e shpërfillur atë.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Shikoni fotografi të shtëpisë dhe të familjes.** Ktheni faqet dhe bëni komente
+   (\"Shikoni atë kopsht\") në vend që të bëni pyetje. Në telefon ose tablet, [Çiftet e fotove](/games/photo-pairs/)
+   i shndërron fotot tuaja familjare në një lojë butë përputhjeje, dhe fotot mbeten në pajisjen tuaj.
+2. **Flisni për shtëpinë.** [Kartelat e bisedës](/games/conversation-cards/) ofrojnë nxitje të
+   hapura për shtëpi, kuzhina, fqinjë dhe festa, pa përgjigje të saktë.
+3. **Luani muzikën që e duan.** Instituti Kombëtar për Plakjen liston muzikën qetësuese mes
+   mënyrave për të qetësuar agjitacionin. Shihni [aktivitetet muzikore](/activities/music/).
+4. **Hani diçka të lehtë ose pini diçka.** Uria dhe etja mund të duken si shqetësim. Një filxhan
+   çaj ose një ëmbëlsirë e preferuar është gjithashtu një ritual i vogël i të qenit në shtëpi.
+5. **Shkoni për shëtitje ose uluni jashtë.** Lëvizja dhe drita e ditës ndihmojnë, sidomos më herët gjatë ditës.
+6. **Jepni një detyrë të njohur.** Palosja e rrobave, renditja e enëve të tryezës ose
+   ujitja e bimëve mund ta sjellin ndjenjën e kujdesit për një shtëpi.
+7. **Ngadalësoni gjithçka.** Fikni TV, ulni zhurmën dhe shkëlqimin, dhe provoni një pauzë të
+   përbashkët të [frymëmarrjes së qetë](/games/calm-breathing/).
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Nëse një ide nuk funksionon, provoni një tjetër më vonë. Të uleni qetë së bashku është gjithashtu
+një rezultat i mirë.
 
-## Check for a cause you can fix
+## Kontrolloni një shkak që mund ta zgjidhni
 
-| Check | What to try |
+| Kontrolli | Çfarë të provoni |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| I uritur ose i etur | Ofroni një pije dhe një ushqim të vogël |
+| Ka nevojë për tualet | Ofroni një vizitë në banjo, qetësisht dhe pa bujë |
+| Dhimbje ose shqetësim | Kërkoni shenja si grimasa, mbajtja e një pjese të trupit ose kapsllëku, dhe tregojeni mjekut |
+| Shumë i nxehtë ose shumë i ftohtë | Rregulloni një shtresë ose temperaturën e dhomës |
+| Zhurmë ose shumë njerëz | Zhvendoseni në një dhomë më të qetë, fikni TV |
+| I lodhur ose i mbingarkuar | Pushim, ulni dritën, luani muzikë të butë |
+| Pasdite vonë | Shihni seksionin për sundowning më poshtë |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Shoqata e Alzheimerit (Alzheimer's Society) sugjeron mbajtjen e një regjistri të shkurtër kur
+ndodh kërkesa, si para vakteve, pas vizitorëve, ose në muzg. Modelet e lehtësojnë planifikimin paraprak.
 
-## Is it okay to tell a white lie?
+## A është në rregull të them një gënjeshtër të vogël?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Kjo është një debat i vërtetë, dhe familjet e mira arrijnë në pozicione të ndryshme. Shoqata e
+Alzheimerit (Alzheimer's Society) thotë se nuk ka një përgjigje të vetme të saktë: gënjeshtrat mund
+ta bëjnë disa njerëz më dyshues, prandaj vendosni çfarë është në interesin më të mirë të personit dhe
+bëhuni të qëndrueshëm. Në Qendrën e Kujtesës së Pensilvanisë (Penn Memory Center), pikëpamja e
+bashkëdrejtuesit është që e vërteta është parazgjedhja, dhe një gënjeshtër e butë është e pranueshme
+vetëm kur personi nuk mund ta përpunojë një të vërtetë të caktuar, dhe se nuk duhet kurrë ta tallni
+realitetin e tij.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Shumë kujdestarë gjejnë se funksionon një rrugë e mesme: rehati e sinqertë dhe ridrejtim së pari
+(\"Do të qëndrojmë këtu sonte, dhe unë jam këtu me ty\"), pa u argumentuar për vendin ku është shtëpia.
 
-## What if it happens every afternoon or evening?
+## Çfarë nëse ndodh çdo pasdite ose mbrëmje?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Pashqetësia që fillon ose përkeqësohet në pasdite vonë shpesh quhet sundowning. [Instituti Kombëtar
+për Plakjen (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)
+sugjeron një orar të qëndrueshëm, dritë dielli dhe aktivitet çdo ditë, më pak pushime të vona gjatë
+ditës, dhe pa kafeinë ose alkool vonë gjatë ditës. Ndezja e dritave para muzgut gjithashtu mund të
+ndihmojë. Udhëzuesi ynë për [aktivitete të qeta pasdite vonë](/caregiving/late-day-restlessness/)
+ka më shumë.
 
-## Keeping them safe if they try to leave
+## Mbajeni të sigurt nëse përpiqen të largohen
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Kërkesa për t'u kthyer në shtëpi mund të çojë në endje. [Shoqata e Alzheimerit](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)
+vlerëson se gjashtë në dhjetë persona që jetojnë me demencë do të endin të paktën një herë.
 
-**Prepare ahead:**
+**Përgatituni paraprakisht:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- Një byzylyk identifikimi ose mjekësor me emrin e tij dhe numrin tuaj të telefonit, dhe etiketa në rrobat e tij.
+  [Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and)
+  përmend programin MedicAlert dhe Safe and Found të Shoqatës së Alzheimerit, i cili mund të kushtojë para.
+- Një zile ose alarm në derë, dhe bllokime të vendosura lart ose ulët. Mos e mbyllni kurrë personin
+  vetëm brenda.
+- Një fotografi e fundit nga afër, dhe një listë vendesh ku mund të shkojë, si një shtëpi ose vend pune i mëparshëm.
+- Tregojuni fqinjëve të besuar, dhe jepuni numrin tuaj.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Nëse zhduket:** kontrolloni vendet e sigurta aty afër ndërsa kontaktoni menjëherë policinë lokale
+ose shërbimet e emergjencës. Mos prisni një numër të caktuar minutash përpara se të raportoni. Një
+artikull i vitit 2021 nga [Departamenti Amerikan i Drejtësisë (U.S. Department of Justice)](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=)
+për hetimet e personave të zhdukur thotë se agjencitë e zbatimit të ligjit nuk duhet të kërkojnë një
+periudhë të caktuar pritjeje; ai përmend gjithashtu simptomat të ngjashme me demencën si shqetësim me
+rrezik të lartë. Procedurat lokale të raportimit ndryshojnë. Tregojuni ndihmësve se personi ka
+demencë, ndajini vendndodhjen e fundit të njohur dhe një fotografi të fundit, dhe ndiqni udhëzimet e
+tyre. Nëse ka një ndihmës tjetër të disponueshëm, kërkojini të qëndrojë pranë telefonit. Mos kërkoni
+vetëm në vende të pasigurta.
 
-## When should I call a doctor?
+## Kur duhet të telefonoj mjekun?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Telefononi mjekun e tij menjëherë nëse kërkesa ose konfuzioni fillon papritur, ose përkeqësohet shumë
+brenda orësh ose ditësh. [Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
+thotë se sjellja e papritur ose që ndryshon shpejt, sidomos pas një infeksioni ose një ndryshimi ilaçi,
+duhet kontrolluar menjëherë. Konfuzioni i papritur mund të jetë delirium, që [NHS](https://www.nhs.uk/symptoms/confusion/)
+thotë se kërkon ndihmë urgjente; infeksionet e rrugëve urinare janë një shkak i zakonshëm te të moshuarit.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Gjithashtu ndihmon përmendja e një modeli të qëndrueshëm në takimin e radhës, sepse dhimbja, humori i ulët,
+problemet e gjumit ose efektet anësore të ilaçeve mund të luajnë të gjitha një rol.
