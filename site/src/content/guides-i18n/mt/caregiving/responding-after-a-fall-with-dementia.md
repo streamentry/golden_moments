@@ -1,7 +1,7 @@
 ---
 title: "X'nagħmlu wara li persuna b'demenza taqa'"
 seoTitle: "Demenza u waqgħat: x'nagħmlu meta xi ħadd jaqa'"
-description: "X'għandek tagħmel wara waqgħa li tinvolvi persuna b'demenza: meta ċċempel is-servizzi ta' emerġenza, kif tibqa' tieħu ħsieb u għaliex is-segwitu huwa importanti."
+description: "X'tagħmel wara waqgħa ta' persuna b'demenza: meta ċċempel is-servizzi ta' emerġenza, kif tibqa' tieħu ħsieb u għaliex is-segwitu huwa importanti."
 section: caregiving
 order: 39
 updated: 2026-11-11

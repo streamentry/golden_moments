@@ -1,7 +1,7 @@
 ---
 title: "Kura tal-ħalq u s-snien għal persuna b'demenza"
 seoTitle: "Kura tas-snien għal persuna b'demenza"
-description: "Għin lil persuna b'demenza iżżomm rutina familjari tal-kura tal-ħalq b'siġar sempliċi, permess u appoġġ mit-tabib tas-snien għal uġigħ jew problemi ġodda."
+description: "Għin lil persuna b'demenza iżżomm rutina familjari tal-kura tal-ħalq b'siġar sempliċi u permess, u staqsi lit-tabib tas-snien dwar uġigħ jew problemi ġodda."
 section: caregiving
 order: 16
 updated: 2026-11-11
