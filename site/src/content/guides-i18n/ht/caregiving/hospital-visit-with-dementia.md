@@ -83,8 +83,8 @@ Sejou nan lopital ka fatige moun k ap bay swen tou. Pran yon lòt moun ki fè ko
 
 Mande yon plan sòti ekri. Verifye si li eksplike randevou swivi yo, travay swen yo, nenpòt chanjman nan medikaman ak ki moun pou kontakte si gen yon pwoblèm. Si enstriksyon yo pa klè, mande ekip sòti a eksplike yo anvan ou pati.
 
-Diskite sou sipò ki pral nesesè lakay. Konsidere ki moun ki pral ede ak manje, mouvman, lavaj, randevou ak nenpòt nouvo ekipman oswa sèvis lakay. Swa onèt sou sa fanmi ak zanmi yo ka bay. Mande planifikatè sòti lopital la sou lòt sèvis lokal si plan an parèt difisil pou jere.
+Diskite sou sipò ki pral nesesè lakay. Konsidere ki moun ki pral ede ak manje, mouvman, lavaj, randevou ak nenpòt nouvo ekipman oswa sèvis lakay. Se pou w onèt sou sa fanmi ak zanmi yo ka bay. Mande planifikatè sòti lopital la sou lòt sèvis lokal si plan an parèt difisil pou jere.
 
-Apre w retounen lakay, bay tan pou repoze epi retabli woutin familye yo. Pataje plan ekri a sèlman ak moun moun nan dakò pou enplike yo. Si moun nan vin konfize toudenkou oswa li vin malad gravman, chèche èd medikal iijan olye pou w tann yon swivi woutin.
+Apre w retounen lakay, bay tan pou repoze epi retabli woutin familye yo. Pataje plan ekri a sèlman ak moun ki dakò pou enplike yo. Si moun nan vin konfize toudenkou oswa li vin malad gravman, chèche èd medikal ijan olye pou w tann yon swivi woutin.
 
 Yon vizit kalm pa toujou posib, sitou nan yon ijans. Preparasyon, kominikasyon klè ak yon plan sòti ekri ka toujou ede tout moun konnen sa k ap pase apre.

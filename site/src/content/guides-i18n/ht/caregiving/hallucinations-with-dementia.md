@@ -7,7 +7,7 @@ order: 36
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Rete kalm, rekonèt sa moun nan santi a epi verifye si limyè, lonbraj, reflè, son oswa yon èd sansoryèl ka eksplike eksperyans la. Mande konsèy medikal pou eksperyans ki nouvo oswa ki vin tounen, epi èd iijan pou konfizyon toudenkou oswa eksperyans ki enplike plizyè sans.
+  Rete kalm, rekonèt sa moun nan santi a epi verifye si limyè, lonbraj, reflè, son oswa yon èd sansoryèl ka eksplike eksperyans la. Mande konsèy medikal pou eksperyans ki nouvo oswa ki vin tounen, epi èd ijan pou konfizyon toudenkou oswa eksperyans ki enplike plizyè sans.
 keyPoints:
   - "Wè oswa tande yon bagay ke lòt moun pa wè oswa tande ka se yon idalisinasyon oswa yon move pèsepsyon; kòz la pa klè ak yon sèl evènman."
   - "Mande si eksperyans la boulvèse moun nan epi si gen yon moun ki an danje anvan ou entèvni."
@@ -79,7 +79,7 @@ Eseye yon sèl ti chanjman a la fwa. Pa reranje afè moun nan oswa retire yon ba
 
 Kontakte doktè moun nan sou eksperyans ki nouvo, ki repete, ki dire lontan oswa ki boulvèse. Chanjman nan vizyon oswa tande, maladi, medikaman ak lòt faktè ka kontribye. Yon klinisyen ka evalye sa ki ka ap pase a e si yon swivi nesesè. [Gid Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) rekòmande tou pou verifye faktè fizik, sansoryèl, medikaman ak anviwonman yo.
 
-Yon chanjman toudenkou se yon lòt bagay. [NHS di konfizyon toudenkou bezwen èd medikal imedyat](https://www.nhs.uk/symptoms/confusion/), e [Alzheimer's Society konseye èd medikal imedyat lè idalisinasyon enplike plis pase yon sans](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations). Kontakte sèvis medikal iijan lokal yo si moun nan toudenkou vin konfize oswa si idalisinasyon an enplike plizyè sans. Si yon moun nan danje imedyat, itilize sèvis ijans lokal yo.
+Yon chanjman toudenkou se yon lòt bagay. [NHS di konfizyon toudenkou bezwen èd medikal imedyat](https://www.nhs.uk/symptoms/confusion/), e [Alzheimer's Society konseye èd medikal imedyat lè idalisinasyon enplike plis pase yon sans](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations). Kontakte sèvis medikal ijan lokal yo si moun nan toudenkou vin konfize oswa si idalisinasyon an enplike plizyè sans. Si yon moun nan danje imedyat, itilize sèvis ijans lokal yo.
 
 Pa kòmanse, sispann oswa chanje yon medikaman poukont ou. Mande preskripteur oswa famasi a pou revize chanjman ki fèt resaman ak tout medikaman moun nan pran, tou de sa ki sou preskripsyon ak sa ki vann san preskripsyon. [Gid nou sou vizit doktè a](/caregiving/doctor-visit-with-dementia/) ka ede prepare kesyon yo.
 
@@ -95,6 +95,6 @@ Si moun nan dakò, ekri obsèvasyon kout pou pataje ak ekip swen an:
 
 Sèvi ak pwòp mo moun nan epi dekri sa ou remake. Pou egzanp, ekri “li te di te gen yon moun bò fenèt la” olye pou w bay evènman an yon etikèt. Pataje nòt yo ak dakò moun nan lè sa posib.
 
-Nòt sa yo pa dyagnostike kòz la. Si eksperyans lan kòmanse toudenkou ak konfizyon oswa yon gwo chanjman nan konsyans, chèche èd iijan olye pou w tann pou ranmase yon dosye.
+Nòt sa yo pa dyagnostike kòz la. Si eksperyans lan kòmanse toudenkou ak konfizyon oswa yon gwo chanjman nan konsyans, chèche èd ijan olye pou w tann pou ranmase yon dosye.
 
 [Gid sou agitasyon nan fen jounen an](/caregiving/late-day-restlessness/) kouvri limyè aswè ak woutin. Pou akizasyon sou objè ki pèdi, gade [lè yon moun ak demans sispèk](/caregiving/when-someone-with-dementia-is-suspicious/).

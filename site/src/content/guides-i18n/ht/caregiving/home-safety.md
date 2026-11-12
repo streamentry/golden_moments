@@ -99,7 +99,7 @@ Revize kay la lè woutin, mouvman oswa vizyon chanje, oswa apre yon pati ki te p
 
 Yon ergoterapeit ka evalye fason yon moun ap deplase nan kay la epi sijere ekipman oswa chanjman pou travay chak jou yo. Depann de enkyetid la, yon fizyoterapeit, yon enfimyè distrik, yon famasyen oswa yon pwofesyonèl lojman ka ede tou. Alzheimer's Society note ke yon ergoterapeit ka disponib atravè yon GP, yon lopital oswa yon sèvis swen sosyal lokal nan Wayòm Uni; chemen yo diferan lòt kote. Pou yon enstalasyon oswa yon chanjman nan ekipman gaz, elektrik, estriktirèl oswa dife, itilize yon pwofesyonèl lokal kalifye.
 
-Si ou lwe, mande pwopriyetè a oswa sèvis lojman an anvan ou fè chanjman pèmanan. Yon sèvis lokal pou granmoun oswa pou andikape ka eksplike ki evalyasyon oswa sipò ki disponib. Si yon pwoblèm itjan, okipe danje espesifik sa a an premye epi mande èd pwofesyonèl pou nenpòt bagay ou pa sèten kijan pou chanje an sekirite.
+Si ou lwe, mande pwopriyetè a oswa sèvis lojman an anvan ou fè chanjman pèmanan. Yon sèvis lokal pou granmoun oswa pou andikape ka eksplike ki evalyasyon oswa sipò ki disponib. Si yon pwoblèm ijan, okipe danje espesifik sa a an premye epi mande èd pwofesyonèl pou nenpòt bagay ou pa sèten kijan pou chanje an sekirite.
 
 ## Konbyen fwa mwen ta dwe revize kay la?
 

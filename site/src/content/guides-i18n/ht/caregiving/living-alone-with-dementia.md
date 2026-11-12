@@ -44,7 +44,7 @@ Itilize kèk sipò familye ki matche woutin moun nan. [Alzheimer's Association r
 - **Fè woutin yo vizib.** Si yon travay souvan bliye, ekri yon ti nòt oswa mete objè ki nesesè pou li nan yon plas familye. Kenbe etap yo kout epi revize yo ansanm si yo sispann ede.
 - **Fè travay kotidyen regilye yo previzib.** Yon livrezon pwodui regilye, yon vizit pou netwaye oswa yon konbinezon pou manje ka redwi kantite desizyon moun nan dwe jere pou kont li.
 
-Gid nou sou [woutin chak jou](/activities/daily-routine/) gen fason senp pou kenbe yon jou familye san li vin rijid. Objektif la se sipòte chwa moun nan, paranpli chak èdtan.
+Gid nou sou [woutin chak jou](/activities/daily-routine/) gen fason senp pou kenbe yon jou familye san li vin rijid. Objektif la se sipòte chwa moun nan, paranpli tout lè a.
 
 ## Kijan fanmi ak zanmi ka ofri èd ki itil?
 
@@ -52,7 +52,7 @@ Dakò sou yon ti kantite kontak regilye. Yon kout vizit oswa yon apèl nan yon l
 
 Fè ofri yo konkrè. “Èske sa ta ede si mwen pote pwodwi jedi a?” pi fasil pou reponn pase “Fè m konnen si ou bezwen anyen.” Yon moun ki fè konfyans ka ede ak achte, transpò, manje, fakti oswa yon kalandriye randevou. [Alzheimer's Association konseye pou ranje èd](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) ak travay lakay, manje, transpò ak rapèl medikaman lè bezwen sa yo parèt.
 
-Si plizyè moun ap ede, dakò ki moun ki pral okipe chak travay epi kijan yo pral pase nouvèl enpòtan yo. Kenbe enfòmasyon an limite ak moun moun nan chwazi yo, sof lè yon enkyetid sekirite ijan mande èd imedyat. Si w ap viv lwen, gade [gid nou sou swen a distans](/caregiving/long-distance-caregiving-with-dementia/) pou fason pou kowòdone ak moun moun nan chwazi yo. [Gid kominikasyon an](/caregiving/communication-tips/) gen plis sou diskite sou sipò san li vin yon tès.
+Si plizyè moun ap ede, dakò ki moun ki pral okipe chak travay epi kijan yo pral pase nouvèl enpòtan yo. Kenbe enfòmasyon an limite ak moun nan chwazi yo, sof lè yon enkyetid sekirite ijan mande èd imedyat. Si w ap viv lwen, gade [gid nou sou swen a distans](/caregiving/long-distance-caregiving-with-dementia/) pou fason pou kowòdone ak moun nan chwazi yo. [Gid kominikasyon an](/caregiving/communication-tips/) gen plis sou diskite sou sipò san li vin yon tès.
 
 ## Kijan yon moun ka rete konekte pandan l ap viv pou kont li?
 
