@@ -49,7 +49,7 @@ Cilvēki bieži meklē „aktivitātes vīriešiem ar demenci”, jo parastie ie
 
 ## Kā atrast aktivitātes, kas viņam tiešām patiks?
 
-Sāciet ar viņa dzīves stāstu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) iesaka veidot [dienas plānu](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ap cilvēka patikām, nepatikām, stiprajām pusēm un interesēm, kā arī ap to, kā viņš agrāk strukturēja dienu. Pajautājiet sev:
+Sāciet ar viņa dzīves stāstu. Alzheimer's Association iesaka veidot [dienas plānu](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ap cilvēka patikām, nepatikām, stiprajām pusēm un interesēm, kā arī ap to, kā viņš agrāk strukturēja dienu. Pajautājiet sev:
 
 - **Kāds bija viņa darbs?** Birojs, saimniecība, rūpnīca, amats, karadienests, pārdošana, mācīšana, braukšana, mājas?
 - **Ko viņš darīja brīvajā laikā?** Makšķerēšana, kārtis, kokapstrāde, sports, baznīca, mūzika, gatavošana, mašīna garāžā?

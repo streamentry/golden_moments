@@ -20,7 +20,7 @@ keyPoints:
   - "Apstājieties, kamēr vēl ir jautri. Par attēliem parunāšana ir labs rezultāts."
 faq:
   - q: "Kāda ir laba atmiņas spēle cilvēkam ar demenci?"
-    a: "Saskaņošanas spēle ar lieliem, pazīstamiem attēliem, ko var atstāt redzamus, piemēram, [Attēlu pāri] ar četriem vai sešiem kārtiņiem. Redzama attēla dvīņa atrašana ir patīkama, un tā netestē īstermiņa atmiņu. [Atrodi to pašu] ir vēl vienkāršāka, jo jāsaskaņo viens attēls ar divām līdz četrām izvēlēm."
+    a: "Saskaņošanas spēle ar lieliem, pazīstamiem attēliem, ko var atstāt redzamus, piemēram, Attēlu pāri ar četriem vai sešiem kārtiņiem. Redzama attēla dvīņa atrašana ir patīkama, un tā netestē īstermiņa atmiņu. Atrodi to pašu ir vēl vienkāršāka, jo jāsaskaņo viens attēls ar divām līdz četrām izvēlēm."
   - q: "Vai atmiņas spēles palīdz demencei?"
     a: "Nav pierādīts, ka kāda atmiņas spēle ārstē, palēnina vai aptur demenci. Cochrane pārskatā atklāts, ka pierādījumi par datorizētu smadzeņu treniņu ir pārāk ierobežoti, lai pateiktu, vai tas novērš demenci. Spēles tomēr var būt silts veids, kā pavadīt laiku kopā. Izvēlieties tās baudai un kompānijai."
   - q: "Vai ar cilvēku ar demenci jāspēlē klasiskā „Koncentrācija”?"

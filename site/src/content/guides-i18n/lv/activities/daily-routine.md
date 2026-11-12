@@ -16,7 +16,7 @@ keyPoints:
   - "Pastāvīgi laiki pamošanās, ēdienreizēm, aprūpei un gulētiešanai dienai piešķir pazīstamu ritmu."
   - "Galveno aktivitāti liekiet cilvēka labākajā dienas laikā, bieži vien no rīta."
   - "Neaizpildiet katru minūti. Atpūta un klusuma brīži ir daļa no rutīnas."
-  - "Dienasgaisma, ikdienas kustība un tas, ka neguļat ilgi un vēlu dienā neesat un vēlu nelietojat kofeīnu, var palīdzēt mazināt vēlās dienas nemieru."
+  - "Dienasgaisma, ikdienas kustība un tas, ka vēlu dienā neguļat ilgi un nelietojat kofeīnu, var palīdzēt mazināt vēlās dienas nemieru."
   - "Rutīna ir vadlīnija, nevis noteikums. Grūtākās dienās ko mainiet, saīsiniet vai izlaidiet."
 faq:
   - q: "Kāpēc cilvēkam ar demenci noderīga rutīna?"
@@ -63,13 +63,13 @@ Laiki ir tikai piemēri. Visu dienu var pabīdīt agrāk vai vēlāk, lai tā at
 | 10:30 | Klusais laiks | Mūzika, fotoalbums vai sēdēšana pie loga | Atpūta iecienītā krēslā |
 | 11:00 | Palīdzība pusdienu gatavošanā | Dārzeņu mazgāšana, galda klāšana | Jūs gatavojat; cilvēks ir blakus un jums seko līdzi |
 | 12:00 | Pusdienas un kārtība | Noslaucīt galdu, nosusināt dažus traukus | Izlaist mājas darbus |
-| 13:00 | Īsa atpūta | Kājas uz krēsla, maiga mūzika | Tāpat |
-| 14:00 | Ārpus telpām vai aktīvi | Pastaiga, laiks uz lieveņa, puķu laistīšana, balona mešana | Sēdēt saulainā logā |
-| 15:00 | Sabiedriski vai radoši | Viesošanās, zvans, [attēlu pāri](/games/picture-pairs/), krāsošana, kāršu spēles | Dzēriens un uzkodas kopā |
-| 16:30 | Nomierināšanās laiks | Aizvilkti aizkari, ieslēgtas gaismas, mierīgs darbs, piemēram, dvieļu salocīšana | Pazīstama mūzika, zems troksnis |
-| 17:30 | Vakariņas | Palīdzība maisīt vai galda klāšanā | Vienkāršs, pazīstams ēdiens |
-| 18:30 | Vakars kopā | Atcerēšanās pie deserta, kārtis, iecienīts seriāls, rokas masāža | Klusa kompānija |
-| 20:00 | Gulētiešanas rituāls | Vanna vai mazgāšanās, pidžama, maiga mūzika, prieksnams gaisma | Saīsiniet visu; vispirms mierinājums |
+| 1:00 pēcpusdienā | Īsa atpūta | Kājas uz krēsla, maiga mūzika | Tāpat |
+| 2:00 pēcpusdienā | Ārpus telpām vai aktīvi | Pastaiga, laiks uz lieveņa, puķu laistīšana, balona mešana | Sēdēt saulainā logā |
+| 3:00 pēcpusdienā | Sabiedriski vai radoši | Viesošanās, zvans, [attēlu pāri](/games/picture-pairs/), krāsošana, kāršu spēles | Dzēriens un uzkodas kopā |
+| 4:30 pēcpusdienā | Nomierināšanās laiks | Aizvilkti aizkari, ieslēgtas gaismas, mierīgs darbs, piemēram, dvieļu salocīšana | Pazīstama mūzika, zems troksnis |
+| 5:30 vakarā | Vakariņas | Palīdzība maisīt vai galda klāšanā | Vienkāršs, pazīstams ēdiens |
+| 6:30 vakarā | Vakars kopā | Atcerēšanās pie deserta, kārtis, iecienīts seriāls, rokas masāža | Klusa kompānija |
+| 8:00 vakarā | Gulētiešanas rituāls | Vanna vai mazgāšanās, pidžama, maiga mūzika, prieksnams gaisma | Saīsiniet visu; vispirms mierinājums |
 
 Šis paraugs seko Alzheimer's Association paraugplānam agrīnajai un vidējai stadijai, kurā diena sākas ar personīgo aprūpi un brokastīm, turpinās ar mājas darbiem, pastaigām, mūziku, atpūtu un apmeklējumiem, un beidzas ar vakariņām, atcerēšanos un sagatavošanos gulēšanai.
 

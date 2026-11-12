@@ -49,7 +49,7 @@ Daudzi cilvēki ar demenci desmitiem gadu vadīja mājsaimniecību, audzināja �
 
 ## Kāpēc ikdienas darbi labi der kā aktivitātes?
 
-Darbi der tāpēc, ka tie ir pazīstami un tiem ir skaidrs mērķis. [Nacionālais novecošanas institūts](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) min trauku mazgāšanu, galda klāšanu, slaucīšanu, putekļu slaucīšanu, pasta šķirošanu, veļas salocīšanu un atkritumu šķirošanu starp [ikdienas aktivitātēm, ko cilvēki ar Alcheimera slimību var baudīt](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) norāda, ka tādi darbi kā galda klāšana var palīdzēt cilvēkam [justies kā vērtīgam mājsaimniecības loceklim](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Darbi der tāpēc, ka tie ir pazīstami un tiem ir skaidrs mērķis. Nacionālais novecošanas institūts min trauku mazgāšanu, galda klāšanu, slaucīšanu, putekļu slaucīšanu, pasta šķirošanu, veļas salocīšanu un atkritumu šķirošanu starp [ikdienas aktivitātēm, ko cilvēki ar Alcheimera slimību var baudīt](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association norāda, ka tādi darbi kā galda klāšana var palīdzēt cilvēkam [justies kā vērtīgam mājsaimniecības loceklim](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
 Darbam ir arī pats par sevi iemesls sākt. „Vai varētu man palīdzēt ar šiem dvieļiem?” ir vieglāk pateikt jā nekā „Vai vēlaties nodarboties ar aktivitāti?”
 

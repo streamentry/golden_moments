@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "日落综合征：适合失智症家人的傍晚平静活动"
+seoTitle: "日落综合征：傍晚平静活动"
+description: "舒缓的作息、调整房间的布置和平静的活动，或许能减轻傍晚时分的不安；如果出现新的或加重的症状，请咨询医生。"
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  日落综合征是指在傍晚或夜幕降临时开始或加重的不安、混乱或易怒。可能有帮助的做法包括：稳定的每日作息、白天多接触阳光和活动、减少傍晚前的午睡、少喝含咖啡因的饮品、天黑前把室内灯打开、保持家中安静，以及选择音乐、照片或叠衣服等平静的活动。如果症状是新出现的或在加重，需要请医生检查。
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "日落综合征指的是随着日光渐暗，不安或混乱开始出现或加重。"
+  - "把需要花力气的事情，如外出和洗澡，安排在早上或午后早些时候。"
+  - "阳光、每天散步、减少傍晚前的午睡以及傍晚少喝咖啡因，或许能让夜晚过得更顺利。"
+  - "天色暗下来之前开灯，降低噪音，改做平静、熟悉的活动。"
+  - "记录一份简短的日志，帮助找出触发因素；不安开始时，保持冷静，给予安慰。"
+  - "新出现或加重的症状需要请医生检查：疼痛、感染或药物都可能有影响。"
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "日落综合征通常在一天中的什么时候出现？"
+    a: "通常在下午晚些时候或傍晚开始，或随着日光消退而加重。具体时间因人而异，所以记录一两周的简单日志会有帮助。"
+  - q: "哪些活动对日落综合征有帮助？"
+    a: "在下午晚些时候，平静、熟悉、不费力的活动通常效果最好，例如轻柔的音乐、翻看照片、看喜欢的电视节目或电影、叠衣服、短暂散步，或者一起吃点小点心。新的或有挑战性的活动，最好安排在白天较早的时候。"
+  - q: "日落综合征可能是身体问题的征兆吗？"
+    a: "疼痛、尿路感染等感染、睡眠问题或药物副作用等健康问题，都可能让症状更严重。如果不安是新出现的、突然发生的或在加重，请联系对方的医生。"
+  - q: "我应该问医生，有没有针对日落综合征的药物吗？"
+    a: "这应该与医生商量。阿尔茨海默病协会表示，非药物的方法通常应优先尝试；针对傍晚躁动的药物，只有在权衡风险和益处之后才应考虑。本页不提供用药建议。"
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+许多家人都注意到同样的情况：早上比较平稳，但随着下午慢慢过去，与失智症共同生活的人会变得不安、焦虑、混乱或易怒。他们可能来回踱步，即使已经在家里，还会要求“回家”，或者很容易就生气。这种情况常被称为日落综合征。
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+没有一种办法能彻底解决，但调整一天的节奏、房间的布置以及提供的活动类型，或许能让傍晚时分变得更平静。本页汇集了美国国家老龄研究所和阿尔茨海默病协会提出的一些实用的非医疗建议。这不是医疗建议。如果症状是新出现的、突然发生的或在加重，请与对方的医生商量。
 
-## What is sundowning?
+## 什么是日落综合征？
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+日落综合征是指在日光渐暗、即下午晚些时候或傍晚时分开始或加重的不安、激动、易怒或混乱。[美国国家老龄研究所（NIA）](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)指出，过度疲倦会增加傍晚的不安。
 
-## What can make late-day restlessness worse?
+## 是什么让傍晚的不安变得更严重？
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+往往有好几个因素同时起作用。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning)列出的因素包括：
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- 忙碌一整天后的疲惫；
+- 陌生或令人困惑的环境；
+- “体内生物钟”错位，导致白天昏昏欲睡、夜里却清醒；
+- 光线昏暗和阴影，可能让人困惑；
+- 察觉到身边的人压力很大或很烦躁；
+- 睡眠需求减少，这在老年人中很常见。
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+美国国家老龄研究所还提到了更普遍的不安原因，包括疼痛、抑郁或压力、休息不足、便秘、噪音太大或人太多，以及某些药物或药物之间的相互作用。
 
-## How can I plan the day to make evenings calmer?
+## 如何安排一天，让傍晚更平静？
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+把费力的事情提前，让傍晚时分保持轻松和可预测。美国国家老龄研究所和阿尔茨海默病协会都建议保持规律的作息。以下是一份示例安排，可根据自己的情况调整：
 
-| Time | What may help |
+| 时间 | 可能有帮助的做法 |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| 上午 | 预约、洗澡、外出，以及任何需要费力的事情，因为许多人这时最清醒 |
+| 上午晚些时候 | 在户外或阳光充足的窗边待一会儿；散步或其他活动 |
+| 中午 | 较丰盛的午餐（阿尔茨海默病协会建议午餐吃得多些，晚餐吃得清淡些） |
+| 下午早些时候 | 如有需要可以休息，但避免在傍晚前睡太久的午觉 |
+| 下午中段至晚些时候 | 平静、熟悉的活动；一份点心和饮品；不喝咖啡因饮品 |
+| 天黑之前 | 在天黑前打开室内灯，并拉上窗帘 |
+| 晚上 | 清淡的晚餐、轻柔的音乐、低刺激的环境，以及稳定的就寝流程 |
 
-A few specific points from the sources:
+资料中的几个具体建议：
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **日光。** 美国国家老龄研究所建议每天安排一些时间到户外或靠窗的地方晒晒太阳。
+- **每天活动，但不要过量。** 美国国家老龄研究所表示，每天都应保持身体活动，但不要安排太多活动。
+- **傍晚的饮品。** 美国国家老龄研究所建议，傍晚后避免饮用酒精以及含咖啡因的饮品，例如咖啡或可乐。阿尔茨海默病协会还提到了尼古丁。
+- **午睡。** 美国国家老龄研究所建议不要在傍晚时分长时间小睡或打瞌睡。如果夜间睡眠出现问题，阿尔茨海默病协会建议限制白天的午睡。
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+想了解如何建立稳定的一天，请参阅[日常作息活动](/activities/daily-routine/)。
 
-## How can I make the home calmer in the late afternoon?
+## 如何让傍晚的家里更平静？
 
-Reduce noise, add light and keep familiar things close.
+减少噪音，增加光线，让熟悉的东西触手可及。
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **明亮、均匀的照明。** 阿尔茨海默病协会建议，晚上保持房间充足的光线。在阴影出现之前，先把空间照亮。
+- **减少噪音。** 关小或关掉电视和收音机，并在这段时间限制访客或繁忙的家务。阿尔茨海默病协会建议减少傍晚的刺激，例如电视、家务和大声的音乐。
+- **熟悉的安慰。** 美国国家老龄研究所建议播放舒缓的音乐，并在家中摆放对方喜爱的物品和照片。
+- **舒适检查。** 阿尔茨海默病协会建议检查是否有疼痛、饥饿、口渴、便秘、膀胱充盈、疲倦、感染或皮肤刺激，并保持房间温度舒适。
+- **你自己的情绪。** 人会察觉到别人的压力。美国国家老龄研究所建议，如果你自己的担忧可能在加剧紧张气氛，就放慢节奏，尽量放松。
 
-## What calm activities can we do in the late afternoon?
+## 傍晚可以做哪些平静的活动？
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+选择熟悉、不催促、并且容易停下来的活动。阿尔茨海默病协会建议，可以一起做一些舒缓的活动，例如听平静的音乐、看照片或喜欢的电影，或者一起散步，以缓解不安。美国国家老龄研究所建议吃点心或喝点东西、看喜欢的电视节目、听音乐、散步、阅读，或者做一件简单的家务，例如叠衣服。
 
-Ideas to try:
+可以尝试的做法：
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **一起叠衣服。** 美国国家老龄研究所建议这类简单的家务。毛巾容易处理，而且这件事有明确的结束。
+2. **播放喜欢的音乐。** 选择对方年轻时熟悉的歌曲，音量调低。跟着哼唱也很好。更多想法请参阅[音乐活动](/activities/music/)。
+3. **看照片。** 翻看相册，或者在[照片配对](/games/photo-pairs/)中使用几张家人的照片，并让图片保持可见，这可以引出安静的交谈。
+4. **短暂散步。** 在天黑之前，在花园、街区或走廊里走一走。
+5. **一起吃点心、喝点东西。** 简单、温热、不含咖啡因的食物，在餐桌上一起享用。
+6. **轻松的配对。** [图片配对](/games/picture-pairs/)只有四张图块，图片保持可见，容易开始，也容易停下来。
+7. **涂色。** [涂色](/games/coloring/)可以在屏幕上进行，也可以用打印好的纸张，不必追求完成。
+8. **看看并聊聊。** [对话卡片](/games/conversation-cards/)提供一张图片和一个开放式的话题。只是一起看看，就已经足够。
+9. **呼吸片刻。** [平静呼吸](/games/calm-breathing/)是一个缓慢、安静的停顿，由你自己决定开始和结束。
+10. **手上的小活动。** 分拣纽扣或袜子，抚平柔软的毯子，或者握着一件熟悉的物品。请参阅[感官活动](/activities/sensory/)。
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+傍晚时分，避免新游戏、繁忙的外出，以及任何需要大量记忆或专注力的事情。把这些安排在早上。
 
-## What should I do when restlessness starts?
+## 不安开始时，我该怎么做？
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+保持冷静，给予安慰，并温和地转移注意力。美国国家老龄研究所建议平静地说话，倾听对方的担忧，避免争论，告诉对方他是安全的，并在有帮助的情况下轻轻触碰对方。然后可以尝试转移注意力：一份点心、一杯饮品、音乐或散步。
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+阿尔茨海默病协会建议说一些“你在这里很安全”和“我很抱歉你不开心”之类的话，并建议增加光线、放慢节奏、减少刺激。不要逼近、围堵或束缚对方，也不要与对方争论。
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+如果对方变得具有攻击性，美国国家老龄研究所建议保持安全距离，直到行为停止。遇到紧急情况，请致电当地紧急号码，并说明对方患有失智症。我们的[应对愤怒和攻击行为指南](/caregiving/when-anger-becomes-aggression-with-dementia/)涵盖了即时的安全措施以及事后该怎么做。
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+我们关于[沟通](/caregiving/communication-tips/)以及[对方说不时怎么办](/caregiving/when-they-say-no/)的指南，有更多关于如何用平和的话语安抚对方的内容。
 
-## How do I find the triggers?
+## 如何找出触发因素？
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+记录一份简短的日志，坚持一两周。阿尔茨海默病协会建议记录日落综合征发作前发生了什么，以找出触发因素。记下不安开始的时间、之前一小时发生的事情、午睡、餐食和饮品、访客、噪音和光线。把日志带给医生看。美国国家老龄研究所指出，记录行为的变化，能帮助照护者和医护人员发现规律。
 
-## When should I call a doctor about sundowning?
+## 什么情况下应该就日落综合征咨询医生？
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+如果不安是新出现的、突然加重的，或者伴随其他变化，请联系对方的医生。美国国家老龄研究所表示，行为突然或快速波动的变化，尤其是在感染或近期药物调整之后，应立即告知医生。
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+请医生检查可能让夜晚更难熬的因素。阿尔茨海默病协会提到了尿路感染、失禁、不宁腿综合征和睡眠呼吸暂停等身体问题，并建议询问每种药物在一天中哪个时间服用最合适。美国国家老龄研究所则把疼痛、便秘以及药物副作用或相互作用列为可能导致不安的原因。
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+阿尔茨海默病协会表示，对于与阿尔茨海默病有关的睡眠问题，一般优先采用非药物方法；只有在这些方法无效时，才应考虑针对傍晚不安的药物，并且需要权衡风险和益处。这个决定应由医生做出。未经医疗建议，请不要开始、停止或更改任何药物、助眠药或保健品。
 
-## How do I get through the evenings myself?
+## 我自己如何度过傍晚？
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+傍晚时分往往是照护者一天中最难熬的时候。如果可以，每周请家人、朋友或付费的帮手在傍晚时分替你几次，即使只是一小时。我们的[照护者自我照顾指南](/caregiving/caregiver-self-care/)列出了喘息服务的选择，以及阿尔茨海默病协会免费的全天候热线。
