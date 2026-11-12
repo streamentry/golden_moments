@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "失智症患者的拼图：拼图、文字谜与简易在线拼图"
+seoTitle: "失智症拼图：拼图与文字谜"
+description: "如何为失智症患者选择拼图、文字谜和在线拼图：块数、图片、大字版，一起完成的方法，以及何时改成更简单的版本。"
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  最适合失智症患者的拼图，是他在您的一点帮助下能够完成、并且在过程中感到愉快的那一种。选择块数较少、较大，并且图片清楚、成人化的拼图；把盒子上的图片放在看得见的地方；先把边缘的拼块分出来。寻词和填字游戏最好用大字版。四块的简易在线拼图适合中期阶段。在它还让人愉快的时候就停下来。
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "根据拼图的实际情况来选择，而不是看阶段标签：如果一个拼图让人觉得像在工作，就换一个块数较少的。"
+  - "大而结实的拼块，以及色彩区域分明的图片，比小拼块加上大片天空更容易。"
+  - "成人化的图片很重要。选花园、厨房、汽车和动物，不要卡通。"
+  - "一起完成本身就是重点。把拼块交给对方，一起分边缘，让盒盖上的图片一直看得见。"
+  - "大字版寻词和块数为4或9的简易在线拼图，都可以在本网站免费使用。"
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "失智症患者的拼图，块数多少最合适？"
+    a: "没有唯一正确的数目。以前玩过一千块拼图的人，早期可能仍然喜欢几百块的拼图，而有些人则最适合十来块较大的拼块。如果拼图让人觉得吃力或感到沮丧，就换成块数较少的。我们的在线“图片拼图”有4块或9块。"
+  - q: "拼图对失智症患者有好处吗？"
+    a: "许多人喜欢拼图，特别是以前就喜欢拼图的人。拼图让双手有事可做，有清楚的目标，也有可以谈论的图片。目前没有任何拼图被证实可以治疗或减缓失智症，因此请为了乐趣和陪伴而选择拼图。"
+  - q: "当对方已经无法完成一幅拼图时，我该怎么办？"
+    a: "把拼图变小，并由您自己多做一些：一次只交给对方一块，或只留下最后几块让他完成。可以尝试4块的在线拼图、按颜色分拣拼块，或只是一起看看完成后的图片。"
+  - q: "填字谜和寻词适合失智症患者吗？"
+    a: "在早期阶段，如果是大字版，是可以的。只有横向和纵向排列的寻词，比有斜向或倒序词的更容易。把线索或词表大声读出来，一起完成。"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+把一幅拼图摊在餐桌上，是最容易与对方分享的活动之一。您们可以不必说话地坐在一起，图片本身就是可以聊的话题，而最后一块放进去的那种满足感也很好。不过，拼图确实需要随着失智症的变化而调整。太难的拼图，可能让一个平静的下午变成令人沮丧的经历。本页介绍如何选择和准备拼图、文字谜和简易在线拼图，以及拼图变得困难时该怎么办。
 
-## Are puzzles good for people with dementia?
+## 拼图对失智症患者有益吗？
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+许多人喜欢拼图，尤其是以前就玩过拼图的人。[美国阿尔茨海默病基金会](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)把文字寻找、纸牌和棋盘游戏列为早期阶段的活动，而[英国国民保健服务（NHS）](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)则提到，平板上的在线游戏和拼图，是让人保持投入的一种方式。
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+拼图不是治疗。目前没有任何拼图被证实可以减缓或阻止失智症；我们的[脑部游戏与失智症](/brain-health/brain-games/)指南解释了相关研究。玩拼图的理由，是它能带来一个愉快、令人投入的时光，两个人一起度过。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/activities)总结得很好：重视乐趣，而不是成就。
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## 怎样为失智症患者选择拼图？
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+根据对方喜欢什么，以及上一幅拼图的情况来选，而不是看阶段标签。
 
-### Number of pieces
+### 块数
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+没有标准的数目。一个终生爱玩拼图的人，早期可能仍然喜欢几百块，而另一个人可能最适合十几块。一个实用的原则：如果上一幅拼图让人觉得像在工作，就选块数大约只有一半的。如果上一幅很快就完成了，而对方还想玩，就稍微增加一些。
 
-### Piece size and feel
+### 拼块的大小与手感
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **较大的拼块**更容易看清、拿起和转动。
+- **厚实、结实的拼块**不容易移位，掉下来也不容易损坏。
+- **哑光表面**能减少台灯和窗户光线造成的反光。
+- **避免很小的拼块**。如果对方可能把东西放进嘴里，这种情况在失智症后期可能发生，要特别注意。
 
-### The picture
+### 图片
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **成人化的主题。** 花园、厨房、旧汽车、农场动物、海边小镇，或对方喜爱的运动。不要卡通，也不要看起来像儿童玩具的东西。
+- **色彩区域分明。** 一座红色的谷仓、一艘蓝色的船和一片绿色的田野，比布满半张拼图的天空更容易。
+- **熟悉、有个人意义。** 一张对方曾经居住的地方或他热爱的爱好的图片，会让您们有许多可以谈的话题。有些打印店可以把家庭照片制作成拼图。
 
-## How do you do a puzzle together?
+## 怎样一起完成一幅拼图？
 
-Set it up so the person can get straight to the enjoyable part.
+安排好，让对方能很快进入愉快的部分。
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **选一个好位置。** 光线充足，有扶手的椅子，还有一张可以长时间摆放拼图的桌子或托盘。
+2. **把盒盖立起来，** 让您们两人都能看到。
+3. **开始前，把拼块翻到正面。**
+4. **自己先把边缘分出来。** 或者先完成外框，把中间留给对方。
+5. **按颜色把拼块分组，** 放在几个浅碟或盘子里。
+6. **一次只交一块。** 如果一堆拼块让人不知所措，就一次递一块：“我觉得这块是谷仓的一部分。”
+7. **谈论图片，** 而不是谈论进度。“这看起来像我爸爸以前的那条船。”
+8. **把拼图留在桌上。** 隔几天再回来继续。不必急。
+9. **在愉快的时候停下来，** 比如刚放好一块、还觉得舒服的时候。
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)建议帮助对方开始，留意他的挫折感，并且如果对方更喜欢只是看着，就让他看着。看着您把拼块放进去，并指出某一块可能放在哪里，也是参与的一种方式。
 
-## Easy online puzzles
+## 简易在线拼图
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+平板上的拼图有几个真正的好处：不会丢失拼块，大幅图片占满屏幕，也不需要先腾出桌子。
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+我们免费的[图片拼图](/games/picture-puzzle/)把一张图片切成4块或9块。点选两块，把它们互换位置，直到图片完整为止。完整的图片会一直显示在屏幕上作为参考，没有计时，您可以随时停下来。对于中期阶段、身边有人陪伴的许多人来说，四块最合适。
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+如果想要更简单的图片游戏，可以试试[找找相同的](/games/find-the-same/)：点选与顶部那张图片相同的图片；或者试试[一起分类](/games/sort-together/)：把图片放进厨房或花园等篮子里。
 
-## Word puzzles: word searches and crosswords
+## 文字谜：寻词与填字游戏
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+文字谜适合一直喜欢它们的人，通常是失智症比较早期的时候。
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **大字版寻词。** 我们免费的[寻词](/games/word-search/)使用大字母，只有少量词语，且只横向和纵向排列，从不斜向或倒序。可以在屏幕上玩，也可以打印出来。
+- **把词表大声读出来。** 一人读出一个词，另一人去找。只圈出第一个字母也可以。
+- **大字版填字谜。** 早期时，可以使用字谜书中的大字版填字谜。把线索读出来，共用一支笔，一起填写答案。容易而有主题的填字谜，比需要绞尽脑汁的谜题更合适。
+- **谈论这些词。** “花园”这个词，可能会引出十分钟关于番茄的话题。
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+更多纸本活动，以及如何打印得容易看清和拿取，请参阅[免费可打印的失智症活动](/activities/printable/)。
 
-## Which puzzles suit each stage?
+## 各阶段适合哪些拼图？
 
-Stages overlap, and good and hard days are normal.
+阶段之间会有重叠，好的日子和困难的日子都是正常的。
 
-| Stage | Puzzles that often fit | Your role |
+| 阶段 | 通常适合的拼图 | 您的角色 |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| 早期 | 比以前块数少的熟悉拼图、大字版填字谜和寻词、9块的在线拼图 | 伙伴：让对方选择，需要时再帮忙 |
+| 中期 | 十几块较大拼块的拼图、4块的在线拼图、一起大声读出的寻词 | 摆好、分拣拼块，一次只交一块 |
+| 后期 | 一起看完成后的图片、两张图片的“找找相同的”、拿几块较大的拼块 | 把拼图拿到对方面前；您的陪伴本身就是活动 |
 
-## When should you make a puzzle easier, or stop?
+## 什么时候应该把拼图变简单，或停下来？
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+留意叹气、把拼块推开、不断说“我做不来”，或露出担心的表情。这些都是需要改变什么的信号，而不是要继续逼下去。
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **把它变小。** 减少块数，或只留最后几块给对方。
+- **自己多做一些，** 再邀请对方帮忙做比较容易的部分。
+- **换成身边的活动：** 按颜色分拣拼块、一个4块的在线拼图，或[填色](/games/coloring/)。
+- **停下来。** 把拼图放一边，喝杯茶。可以改天再回来，也可以不再回来。
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+如果拼图开始让对方想起那些做不到的事情，就不妨放下它。还有许多其他方式可以一起度过美好的时光；我们的[101个活动点子](/activities/ideas/)是一个很好的参考。

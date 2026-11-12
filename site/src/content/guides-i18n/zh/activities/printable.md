@@ -1,33 +1,28 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "免费可打印的失智症活动"
+seoTitle: "免费可打印的失智症活动：大字版"
+description: "免费的失智症可打印活动：大字寻词、填色页、对话卡片和图片宾果，以及如何把它们打印得清楚易用的建议。"
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments 提供免费的失智症可打印活动：大字寻词、填色页、图片对话卡片和图片宾果卡。打开任何游戏页面，使用其中的打印按钮。请用大号、清楚的字体，印在较厚的纸上，每页只放一项任务。想重复使用的页面可以覆膜。您自己制作的简单打印材料，例如一页生平故事或每日时间表，也会有帮助。
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "我们的可打印活动是免费的：寻词、填色、对话卡片和图片宾果。每个游戏页面都有打印按钮。"
+  - "使用大号、清楚的字体，并保持高对比度，每页只放一项任务。"
+  - "较厚的纸或卡纸更容易拿，也不容易揉皱。覆膜后可以用白板笔反复使用。"
+  - "自己制作的打印材料，例如一页生平故事、每日时间表，或门上的图片标签，简单又实用。"
+  - "打印出来的页面是一份邀请，而不是功课。做一部分，或完全不做，都没有关系。"
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "你们的可打印失智症活动是免费的吗？"
+    a: "是的。本网站上的寻词、填色、对话卡片和图片宾果页面都可以免费使用和打印。打开游戏页面，使用打印按钮即可。"
+  - q: "哪些可打印活动最适合失智症患者？"
+    a: "最好的可打印材料简单、清楚、适合成年人：只有文字、横竖排列的大字寻词，线条清楚的填色页，能引发交谈的图片卡片，以及适合团体的图片宾果。请根据对方的兴趣和目前的能力来选择活动，并且每页只放一项任务。"
+  - q: "怎样让可打印材料更容易看清和使用？"
+    a: "使用大号、简单的字体，深色墨水印在白色或米色纸上，并留足空白。使用较厚的纸或卡纸，让纸张保持平整；选择哑光纸以减少反光。用夹板或防滑垫固定纸张，让它不会移动。覆膜有助于延长使用寿命。"
+  - q: "我可以为养老机构或日间活动中心打印您们的活动吗？"
+    a: "可以。欢迎活动人员为住民和小组打印我们的页面。图片宾果专为团体设计，并附有屏幕上的叫号器，您可以在电视或投影机上展示。"
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +47,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+有时候，最好的活动只是厨房桌上的一张纸和一支笔。可打印的材料不需要充电、不需要密码，也不需要屏幕，携带到探访或团体活动中都很方便。本页介绍我们网站上免费的可打印活动、如何打印，使它们容易看清、容易拿，以及一些家属和活动人员觉得实用的自制打印材料。
 
-## What free printable activities do you offer?
+## 你们提供哪些免费的可打印活动？
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+我们提供四种免费的打印材料。打开以下任何一个游戏页面，使用**打印**按钮，即可获得适合打印的版本。
 
-| Printable | What it is | Good for |
+| 打印材料 | 内容 | 适合 |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [大字寻词](/games/word-search/) | 大字版寻词，文字只按横向和纵向排列 | 安静的时间，用笔慢慢找；喜欢猜字谜的人 |
+| [填色](/games/coloring/) | 可以打印的填色页，也可以在屏幕上填色 | 放松、有创意的时间；任何阶段，有人协助即可 |
+| [对话卡片](/games/conversation-cards/) | 带图片的卡片，按主题提供开放、没有考问的谈话提示 | 探访、通话、家庭聚餐、回忆小组 |
+| [图片宾果](/games/picture-bingo/) | 用图片代替数字的宾果卡，并附屏幕叫号器 | 养老机构、日间活动中心、家庭聚会 |
 
-### Large-print word search
+### 大字寻词
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[大字寻词](/games/word-search/)使用大号字母，词语只按横向和纵向排列，没有斜向或倒序的词。可以一起完成：一人读出列表中的一个词，另一人去找。如果找字变得困难，可以一起圈出每个词的第一个字母，或者干脆把词表大声读出来，聊聊每个词。
 
-### Coloring pages
+### 填色页
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[填色](/games/coloring/)页可以打印出来，用记号笔或彩色铅笔涂色；也可以在平板上点选一种颜色，再点画面中的一个部分来上色。打印的页面，可以准备粗的记号笔，并且一次只放几种颜色。请参阅我们的[手工艺指南](/activities/arts-and-crafts/)，了解如何让填色保持成年人的尊严，并且轻松愉快。
 
-### Conversation cards
+### 对话卡片
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[对话卡片](/games/conversation-cards/)把一张清楚的图片与一个开放的提示配在一起，例如“跟我说说……”或“你注意到什么？”它们的写法是开放式的邀请，而不是考试题目。可以打印一整套，剪开后放一些在袋子里，探访时带着，或放在电话旁用于通话。它们在[回忆](/activities/reminiscence/)小组中也很合适。
 
-### Picture bingo cards
+### 图片宾果卡
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[图片宾果](/games/picture-bingo/)的卡片用图片代替数字。每位玩家打印一张卡，然后在笔记本电脑、电视或投影机上使用屏幕上的叫号器。我们建议一直叫到每个人的卡都被盖满，这样没有人被落下。养老机构中如何举办一场活动，请参阅[养老机构的团体活动](/activities/care-home-groups/)。
 
-## How do I print activities so they are easy to use?
+## 怎样打印活动，让它们容易使用？
 
-Small changes in how you print make a big difference.
+打印时的一些小改变，会带来很大的不同。
 
-### Make it easy to see
+### 让它容易看清
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **大号、简单的字体。** 使用仍然能放进页面的最大字号。避免花哨或草书体的字。
+- **高对比度。** 深色墨水印在白色或米色纸上。避免浅灰色或彩色底。
+- **哑光纸**能减少强光下的反光。
+- **检查眼镜和光线。** 阿尔茨海默病协会指出，视力和听力问题会让沟通更加困难，并建议定期检查。明亮、均匀的台灯也有帮助。
 
-### Make it easy to hold
+### 让它容易拿
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **较厚的纸或卡纸**，能保持平整，容易拿起，也能经得起反复使用。
+- **夹板**或防滑餐垫，可以防止纸张滑动。
+- **粗的记号笔或较粗的铅笔**，比细笔更容易握。
 
-### Make it reusable
+### 让它可以重复使用
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **覆膜**，或放进透明的文件袋。寻词和宾果卡可以用白板笔标记，然后擦干净。
+- 如果反光是问题，可以选择**哑光的覆膜袋**；覆膜后的卡片可以用剪刀把角剪圆，拿起来更舒服。
+- **保存一个收藏夹**，让您不必每周都打印同样的页面。
 
-### Keep it simple
+### 保持简单
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **每页只放一项任务。** 一个寻词，或一张图片，而不是把多个活动挤在一起。
+- **留足空白。** 页面太满，会让人感到压迫。
+- **尽量不需要阅读说明。** 直接示范给对方看，不必让他去读。
+- **把页面剪小。** 如果整页太多，就对折或剪成一半，只露出一部分。
 
-## Other useful printables you can make at home
+## 您可以在家自制的其他实用打印材料
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+并不是所有有用的打印材料都是游戏。以下几种，用文字处理软件和打印机就能轻松做出来。
 
-### A life-story page
+### 一页生平故事
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+一张“关于我”的页面，包括一张照片、对方喜欢的称呼、成长的地方、工作、家人、喜爱的食物、音乐，以及令人安心或不安的事情。澳大利亚失智症协会建议制作[回忆册](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia)，记录对方的生活经历、喜好和重要的人，帮助探访者和照护者，并引发交谈。
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+这在医院和新的照护环境中特别有用。美国国家老龄研究所建议，把[个人资料表](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital)交给医院工作人员，内容包括对方的日常作息、偏好的称呼、喜好与厌恶、可能的诱因，以及疼痛的非言语信号。
 
-### A daily schedule
+### 每日时间表
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+一份大号、简单的一日时间表，包括时间、几个字，以及每个部分的一张小图片：早餐、散步、午餐、休息、音乐、晚餐。阿尔茨海默病协会的[日常照护计划](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan)建议，根据对方状态较好的时段来安排，保持规律的起床和就寝时间，并兼顾活动与休息。把它贴在与眼睛同高的位置，比如冰箱上，并保持弹性。更多内容请参阅我们的[日常作息指南](/activities/daily-routine/)。
 
-### Picture labels for rooms and drawers
+### 房间与抽屉的图片标签
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+美国国家老龄研究所建议使用颜色鲜明的标志或简单的图片，来[标示浴室、卧室和厨房](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips)。同样的方法也适用于抽屉和橱柜：袜子抽屉上贴一张袜子的图片，杯子柜上贴一个杯子的图片。打印出来、覆膜，然后贴上去。
 
-### A sorting set
+### 分类卡片
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+把两个简单类别的图片打印在卡纸上，例如水果和花，或工具和厨房用品。剪开后，与对方一起把它们分到两个篮子里。屏幕版本就是[一起分类](/games/sort-together/)。
 
-### Song lyric sheets
+### 歌词页
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+把几首喜爱的歌词用非常大的字打印出来，供一起唱歌时使用。即使是不再常读书的人，也可能喜欢拿着这份歌词。
 
-### A family photo page
+### 家庭照片页
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+一页四到六张大幅家庭照片，每张下面写上名字。可以放在桌上，让任何人拿起来聊一聊。标签能让探访者和工作人员更容易加入谈话，也不必有人问：“这是谁？”
 
-### A recipe card
+### 食谱卡
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+用大字打印一份家传的食谱。可以一起做饭，也可以只是聊聊过去的餐点。
 
-## How do I offer a printable without it feeling like homework?
+## 怎样让打印材料不像功课？
 
-Present it as something to share, not a test.
+把它当作一件可以分享的事情，而不是考试。
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **自己先坐下来开始。** “我正在做这个寻词。你想帮我找‘花园’这个词吗？”
+- **一起完成。** 轮流来，或一人找、另一人圈。
+- **绝不标记对错。** 阿尔茨海默病协会的[居家活动指南](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf)建议注重过程而不是结果，注重乐趣而不是成就。
+- **把东西留在身边。** 同一份指南建议，把剪贴簿、相册或旧杂志放在容易拿到的地方。打印的卡片和照片页，也可以同样放在边桌上。
+- **随时可以停。** 半张填色页，也是愉快的一个下午。把页面收起来，和对方喝杯茶，同样很好。
 
-## Where to find more
+## 更多内容
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+浏览我们所有的[游戏与可打印材料](/games/)，或参阅[各阶段的活动](/activities/ideas/)，了解更多有纸或无纸的点子。
