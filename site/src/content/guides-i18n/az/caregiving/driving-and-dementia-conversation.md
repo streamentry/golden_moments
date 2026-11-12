@@ -1,7 +1,7 @@
 ---
 title: "Demans və sürücülük haqqında danışmaq"
 seoTitle: "Demans və sürücülük: söhbətə necə başlamaq"
-description: "Demans və sürücülük haqqında sakit, erkən söhbətə başlayın. Nəqliyyat seçimlərini planlaşdırın, konkret narahatlıqları qeyd edin və yerli səlahiyyətli mütəxəssisləri cəlb edin."
+description: "Demans və sürücülük haqqında sakit, erkən söhbətə başlayın. Nəqliyyat seçimlərini planlaşdırın, konkret narahatlıqları qeyd edin və yerli mütəxəssisləri cəlb edin."
 section: caregiving
 order: 19
 updated: 2026-11-11

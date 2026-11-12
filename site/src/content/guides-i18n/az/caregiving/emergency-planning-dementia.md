@@ -1,7 +1,7 @@
 ---
 title: "Demans olan şəxslə fövqəladə hallara hazırlıq"
 seoTitle: "Demans üçün fövqəladə hallar planı: nəyə hazırlaşmaq"
-description: "Demansı olan şəxslə fırtına, yanğın və ya təxliyyə üçün hazırlaşın: əlaqələri, nəqliyyatı, dərmanları və tanış rahatlıq əşyalarını planlaşdırın və yerli fövqəladə hal təlimatına əməl edin."
+description: "Demansı olan şəxslə fırtına, yanğın və ya təxliyyəyə hazırlaşın: əlaqə, nəqliyyat, dərman və tanış əşyaları planlaşdırın və yerli təlimata əməl edin."
 section: caregiving
 order: 28
 updated: 2026-11-11

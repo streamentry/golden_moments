@@ -1,7 +1,7 @@
 ---
 title: "Demans olan şəxsin kifayət qədər maye içməsinə kömək"
 seoTitle: "Demans və içmək: qayğıkeşlər üçün məsləhətlər"
-description: "Gün ərzində sevdiyi içkilərini təklif etməklə demansı olan şəxsə kifayət qədər maye içməyə kömək edin. Maye ehtiyacları və yeni udma çətinlikləri haqqında həkimdən soruşun."
+description: "Gün ərzində sevdiyi içkiləri təklif etməklə demansı olan şəxsə kifayət qədər maye içməyə kömək edin. Maye ehtiyacı və udma problemləri üçün həkimdən soruşun."
 section: caregiving
 order: 23
 updated: 2026-11-11

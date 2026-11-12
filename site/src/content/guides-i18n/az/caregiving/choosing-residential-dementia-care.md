@@ -1,7 +1,7 @@
 ---
 title: "Demans olan şəxs üçün yaşayış qayğısının seçilməsi"
 seoTitle: "Demans qayğısını seçmək: nə soruşmaq və nəyə baxmaq"
-description: "Yaşayış demans qayğısını şəxsin ehtiyaclarına, personalın yanaşmasına, gündəlik həyatına və xərclərinə görə müqayisə edin. Onu istədiyi kimi görüşlərə və qərarlara cəlb edin."
+description: "Demans qayğısını şəxsin ehtiyaclarına, personalın yanaşmasına, gündəlik həyatına və xərclərinə görə müqayisə edin. Qərarlara istədiyi qədər cəlb edin."
 section: caregiving
 order: 25
 updated: 2026-11-11

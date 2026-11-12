@@ -1,7 +1,7 @@
 ---
 title: "Ailə demans qayğısı barədə razılığa gələ bilmədikdə"
 seoTitle: "Demans qayğısı barədə ailə fikir ayrılıqları"
-description: "Demans qayğısı üzrə fikir ayrılıqlarını sakit müzakirə etmək yolu: şəxsin istəklərini nəzərə alın, faktları fərziyyələrdən ayırın, tapşırıqları bölün və kənar kömək istəyin."
+description: "Demans qayğısı barədə fikir ayrılıqlarını sakit müzakirə etmək: şəxsin istəklərini nəzərə alın, faktları fərziyyədən ayırın, tapşırıqları bölün və kənar kömək istəyin."
 section: caregiving
 order: 33
 updated: 2026-11-11

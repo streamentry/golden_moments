@@ -97,6 +97,6 @@ Dərmanları öz başınıza başlatmayın, dayandırmayın və ya dəyişdirmə
 
 Mümkün olduqda şəxsin öz sözlərindən istifadə edin və nə fərq etdiyinizi təsvir edin. Məsələn, hadisəni etiketləmək əvəzinə « pəncərənin yanında bir adam olduğunu dedi » qeyd edin. Mümkünsə, qeydləri şəxsin razılığı ilə bölüşün.
 
-Bu qeydlər səbəbi diaqnoz etmir. Təcrübə çaşqınlıqla və ya ayıqlıqda böyük dəyişiklikklə qəfildən başlayırsa, qeyd toplamaq üçün gözləməyin, təcili kömək axtarın.
+Bu qeydlər səbəbi diaqnoz etmir. Təcrübə çaşqınlıqla və ya diqqətdə böyük dəyişiklik ilə qəfildən başlayırsa, qeyd toplamaq üçün gözləməyin, təcili kömək axtarın.
 
 [Gecə narahatlığı bələdçisi](/caregiving/late-day-restlessness/) axşam işığını və rejimi əhatə edir. Əşyaların itməsi ilə bağlı ittihamlar üçün isə [demansı olan şəxs şübhəli olduqda](/caregiving/when-someone-with-dementia-is-suspicious/) səhifəsinə baxın.
