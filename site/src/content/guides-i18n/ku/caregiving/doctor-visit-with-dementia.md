@@ -47,7 +47,7 @@ Serdanek bijîşkî dikare di demeke kurt de gelek tiştan vebigire. Plansaziyek
 
 Ji kesê bipirsin ka ew herî zêde dixwaze bijîşk çi bizanibe. Bi hev re lîsteyeke kurt a pirsan binivîsin, û ya herî girîng pêşî bihêlin. Eger lîste dirêj be, ji ofîsê bipirsin ka serdanek dirêjtir an şopandinek dê alîkar be an na. Dibe ku kes bixwaze nivîseke nivîskî bîne, ne ku di dema serdanê de her tiştî bibîre bîne.
 
-Guhertinan bi awayekî konkret vebêjin. Binivîsin çi qewimî, kengê dest pê kir, çiqas caran diqewime û di wê demê de çi dirêj bû. Mînak, “Ew di mehekê de ji komeke muzîkê ya hefteyî sekinî” ji “Ew xirabtir dibe” çêtir agahî dide. Nêrînа kesê li ser guhertinê jî tevlî bikin, û texmînekê wek teşxîsê pêşkêş nekin.
+Guhertinan bi awayekî konkret vebêjin. Binivîsin çi qewimî, kengê dest pê kir, çiqas caran diqewime û di wê demê de çi dirêj bû. Mînak, “Ew di mehekê de ji komeke muzîkê ya hefteyî sekinî” ji “Ew xirabtir dibe” çêtir agahî dide. Nêrîna kesê li ser guhertinê jî tevlî bikin, û texmînekê wek teşxîsê pêşkêş nekin.
 
 Lîsteyeke heyî ya dermanan bînin, di nav de dermanên bi nusxeyê û yên bê nusxe, vîtamîn û supplement. Dibe ku kes bixwaze berçavk, alavên bihîstinê an navên pisporên din bîne. Ji ofîsê bipirsin kîjan form an tomar hewce ne, li şûna ku ji serdanê zêdetir agahiyên taybet kom bikin.
 

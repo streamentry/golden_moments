@@ -21,7 +21,7 @@ faq:
   - q: "Ez çi ji dabînkerê lênêrînê bipirsim?"
     a: "Di derbarê ezmûn û perwerdeya demansê, karên ku dikarin piştgirî bikin, referansan, kontrolkirina paşboriyê, demjimêr, lêçûn û çi diqewime eger karmendek tune be, bipirsin. Bipirsin ka kîjan kes were têkiliyê dema ku pirs hene."
   - q: "Divê kesê bi demansê alîkariya bijartina dabînkerê bike?"
-    a: "Ew qas beşdar bibe ku ew dixwaze û dikare. Bipirsin ka ew kîjan alîkariyê bi xwşî qebûl dike, wî bi dabînkerê re nas bikin û binêrin ka ew di pêwendiyê de rehet e an na."
+    a: "Ew qas beşdar bibe ku ew dixwaze û dikare. Bipirsin ka ew kîjan alîkariyê bi rehetî qebûl dike, wî bi dabînkerê re nas bikin û binêrin ka ew di pêwendiyê de rehet e an na."
   - q: "Ez çawa bikarim biryar bidim ka ev rêkeftin dixebite?"
     a: "Piştî serdanan bi kesê û dabînkerê re kontrol bikin. Bipirsin çi alîkar bû, karan an demê li gor pêdiviyê biguherînin û pê ewle bin ku eger karmendê birêkûpêk nikaribe were, planeke paşverû heye."
 sources:

@@ -102,7 +102,7 @@ Eger kes ji bo axaftinekê alîkariyê bixwaze, bipirsin ka dixwaze hûn çi bib
 
 ## Dema ku em xwe adapte dikin, jiyana rojane çawa dikare berdewam bike?
 
-Dinya û çalakiyên ku ji bo kesê girîng in, heta ku ew rehet hîs bikin, bidomînin. Teşxîs tê wateya ku her hobî, derketin an rola malê divê biweste nake. Eger tiştek dijwartir bibe, bipirsin kes dixwaze çi biguhere. Serdanekê kurttir, muzîka nas, alîkariya di gaveke yekta de an demekî cuda ya rojê dibe ku ji wî re baştir be.
+Rutîn û çalakiyên ku ji bo kesê girîng in, heta ku ew rehet hîs bikin, bidomînin. Teşxîs tê wateya ku her hobî, derketin an rola malê divê biweste nake. Eger tiştek dijwartir bibe, bipirsin kes dixwaze çi biguhere. Serdanekê kurttir, muzîka nas, alîkariya di gaveke yekta de an demekî cuda ya rojê dibe ku ji wî re baştir be.
 
 Dibe ku kes jî hewce bike ku cihekî ji bo şîrovekirina nûçeyê hebe bêyî ku plansaziyê nîqaş bike. Bi wî re têkilî daynin bêyî ku her axaftinê bike civîneke lênêrînê. Dibe ku hûn ji plansaziyê bêjin û bi awayekî asayî bi hev re wext derbas bikin.
 

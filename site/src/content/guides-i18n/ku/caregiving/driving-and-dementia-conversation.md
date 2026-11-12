@@ -20,7 +20,7 @@ faq:
   - q: "Kengê divê ez li ser ajotin û demansê bi kesekî re biaxivim?"
     a: "Zû dest pê bikin, dema ku herkes aram e, ne ku li bendê krîzê bimînin. Axaftinê kurt bihêlin û amade bin ku vegerin. Kesê di plansaziya rêwitiyê û guhertinên pêşerojê de tevlî bikin."
   - q: "Tenê teşxîsa demansê dibêje ku kes dikare bajo an na?"
-    a: "Ev rêber nikare توانایiya ajotina kesekî binirxîne an rêzikên lîsansê yên herêmî rave bike. Ji bijîşka kesê an pisporekî rehabîlîtasyona ajotinê yê pisporî bixwazin ku nirxandinekî kesane bike, û bi desthilatiya lîsansê ya herêmî kontrol bikin."
+    a: "Ev rêber nikare şiyana ajotina kesekî binirxîne an rêzikên lîsansê yên herêmî rave bike. Ji bijîşka kesê an pisporekî rehabîlîtasyona ajotinê yê pisporî bixwazin ku nirxandinekî kesane bike, û bi desthilatiya lîsansê ya herêmî kontrol bikin."
   - q: "Eger ez fikarmend im ku xetereyeke ajotinê ya tavilê heye, ez çi bikim?"
     a: "Ji bo rêwitiyê riyeke din bibînin, di heman demê de ji bijîşk an desthilatiya lîsansê ya herêmî şîreta zû bixwazin. Eger kes nişkê şaş bibe, ji xizmetên acîl ên herêmî alîkariya bijîşkî ya tavilê bixwazin."
   - q: "Piştî ku kes ajotinê dihêle, dikare çi bike?"
@@ -61,7 +61,7 @@ Li ser bûyerekê ya taybet biaxivin, ne ku hükmekî giştî bidin. Mînak, ji 
 
 Nêrîna kesê guhdar bikin. Dibe ku ew ji we re tevlihevbûn, tîrîşka ronahiyê, westîn an dijwariyeke din gotibe. An jî dibe ku bi fikara we re neyê. Ji yek axaftinê re delîl nedin ku kes fam dike an fam nake xetereyê. Tonê rêzdar bihêlin û heke her du alî aciz bûn, paşê vegerin ser mijarê.
 
-Dickenbûn Australia axaftinên kurt û dubare pêşniyar dike û balê dikişîne ser hêzên kesê û vebijêrkên erênî yên rêwitiyê. Ew jî hişyar dike ku veşartina bi dizî ya kilîtan an neçalakkirina gerîşê dibe ku di plansaziya zû de dijminane xuya bike. Heke xetereyeke ewlehiyê ya girîng û tavilê heye, gavan biavêjin ku rêwitiya bi xeterê ya paşîn asê bikin û şîreta pisporî ya zû bixwazin.
+Dementia Australia axaftinên kurt û dubare pêşniyar dike û balê dikişîne ser hêzên kesê û vebijêrkên erênî yên rêwitiyê. Ew jî hişyar dike ku veşartina bi dizî ya kilîtan an neçalakkirina gerîşê dibe ku di plansaziya zû de dijminane xuya bike. Heke xetereyeke ewlehiyê ya girîng û tavilê heye, gavan biavêjin ku rêwitiya bi xeterê ya paşîn asê bikin û şîreta pisporî ya zû bixwazin.
 
 ## Çi agahî dikarin axaftina pisporî alîkar bin?
 
