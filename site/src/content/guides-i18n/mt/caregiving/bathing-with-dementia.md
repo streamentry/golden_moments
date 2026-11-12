@@ -46,7 +46,7 @@ Qabel ma tistiednu fil-kamra tal-banju:
 
 - **Ġib l-oġġetti l-ewwel.** Poġġi t-tewwalji, il-ħwejjeġ nodfa, is-sapun, is-shampoo u l-drapp tal-ħasil fl-ordni li jintużaw. Dan jevita li tħalli lill-persuna waħedha waqt li tfittex l-oġġetti.
 - **Agħmel il-kamra komda.** Iċċekkja li tkun sħuna biżżejjed, iddawwal l-ispazju, agħlaq il-bieb jew it-tendi, u żomm l-art kemm jista' jkun niexfa.
-- **Iċċekkja l-ilma.** Ittestja t-temperatura qabel ma l-persuna tidħol fil-banju jew fid-doċċa. Tafdax fuq il-kapaċità tagħha li tgħid jekk l-ilma huwiex jaħraq wisq.
+- **Iċċekkja l-ilma.** Ittestja t-temperatura qabel ma l-persuna tidħol fil-banju jew fid-doċċa. Tiddependix fuq il-kapaċità tagħha li tgħid jekk l-ilma huwiex jaħraq wisq.
 - **Ħejji oġġetti għall-privatezza.** Tewwal kbir, libsa jew kumplament tal-banju jistgħu jgħinu lill-persuna tibqa' mgħottija waqt li tiċċaqlaq bejn il-passi.
 
 [Il-gwida tagħna dwar is-sigurtà fid-dar](/caregiving/home-safety/) fiha aktar dwar id-dawl fil-kamra tal-banju, l-uċuħ li jinżlqu u l-kunsill ta' professjonist kwalifikat dwar ħadid ta' appoġġ jew siġġu tad-doċċa.
@@ -57,7 +57,7 @@ Staqsi l-permess qabel ma tmiss lill-persuna jew tgħin f'parti privata. Spjega 
 
 Ħalli lill-persuna taħsel il-partijiet li tista' u trid taħsel. Tista' żżomm tewwal fuqha u turi biss il-parti li qed tinħasel. Jekk tippreferi, agħtiha drapp tal-ħasil jew sapun biex iżommu. Il-persuna tista' teħtieġ aktar ħin biex tibda jew biex tlesti; stenna minflok ma tgħaġġlx il-passi.
 
-Jekk il-persuna tinkwieta, tnaqqas idejk jew tgħid le, waqqaf. Agħtiha spazju u ipprova tifhem x'qed ikun skomdi. Il-kamra tista' tkun kesħa, l-ilma jista' jidher stramb, jew il-persuna tista' tixtieq għajnuna minn persuna oħra. Persuna familjari tista' tkun aktar faċli jekk il-persuna tagħżilha. Tużax sorpriża, forza jew gwida fiżika biex tlesti l-banju.
+Jekk il-persuna tinkwieta, tieħu idejk lura jew tgħid le, waqqaf. Agħtiha spazju u ipprova tifhem x'qed ikun skomdi. Il-kamra tista' tkun kesħa, l-ilma jista' jidher stramb, jew il-persuna tista' tixtieq għajnuna minn persuna oħra. Persuna familjari tista' tkun aktar faċli jekk il-persuna tagħżilha. Tużax sorpriża, forza jew gwida fiżika biex tlesti l-banju.
 
 ## Kif nista' nżomm ir-rutina familjari?
 

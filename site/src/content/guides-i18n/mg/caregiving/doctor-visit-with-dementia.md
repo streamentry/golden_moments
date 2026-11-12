@@ -48,7 +48,7 @@ Ny [torolalan'ny Alzheimer's Association momba ny fiaraha-miasa amin'ny dokotera
 
 Anontanio ny olona izay tena tiany ho fantatry ny dokotera. Soraty lisitra fohy amin'ny fanontaniana miaraka, ary apetraho eo ambony indrindra ny manan-danja. Raha lava ny lisitra, anontanio ny biraon'ny dokotera raha misy fitsidihana lava kokoa na fanarahana fitsidihana. Mety tiany hitondra takelaka soratra ny olona fa tsy hitadidy ny zavatra rehetra mandritra ny fitsidihana.
 
-Lazao ny fiovana amin'ny teny mazava. Soraty izay nitranga, rahoviana no nanomboka, matetika kesika ary inona no nitranga tamin'izany fotoana. Ohatra, “Efa nijanona nandeha tamin'ny vondrona mozika isan-kerinandro izy tato anatin'ny volana” dia tena ilaina kokoa noho ny hoe “Mihamaro ny olany”. Ampidiro ny hevitry ny olona momba ny fiovana, ary aza ataovy fanombanana ho diagnôsis.
+Lazao ny fiovana amin'ny teny mazava. Soraty izay nitranga, rahoviana no nanomboka, matetika kesika ary inona no nitranga tamin'izany fotoana. Ohatra, “Efa nijanona nandeha tamin'ny vondrona mozika isan-kerinandro izy tato anatin'ny volana” dia tena ilaina kokoa noho ny hoe “Mihamaro ny olany”. Ampidiro ny hevitry ny olona momba ny fiovana, ary aza ataovy fanombanana ho diagnostika.
 
 Entina ny lisitry ny fanafody ankehitriny, anisan'izany ny fanafody natolotry ny dokotera sy ny tsy natolotry ny dokotera, ny vitamina ary ny fanampim-pahasalamana. Mety tiany koa ny lovia maso, ny fanampiana ho an'ny ofy, na ny anaran'ny matihanina hafa. Anontanio ny biraon'ny dokotera izay taratasy na rakitra ilaina, fa aza mangataka fampahalalana manokana mihoatra ny ilain'ny fitsidihana.
 

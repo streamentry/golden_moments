@@ -68,7 +68,7 @@ Dementia Australia manoro resaka fohy sy averina ary mifantoha amin'ny hery sy s
 
 Soraty ny tranga mivantana sy ny datin'izy ireo. Ohatra, ny nanjavonana teo amin'ny lalan-kaleha, ny nahavita lalana mahazatra, ny nanadinoana famantarana na ny tsikera vaovao teo amin'ny fiara. Ampidiro izay nolazain'ny olona momba ny dia sy ny fiovan'ny fahasalamana na fanafody izay tiany hresahina.
 
-Tazonao miafina sy marina ny fanamarihana. Aza mandrekaka, manaraka na andrana ny olona amin'ny fomba miafina. Raha manaiky ny olona, ny mpianakavy izay efa tao anaty fiara dia afaka mizara izay hitany. Ny fanazavana mazava dia manome ny dokotera na ny matihanina zavatra manokana hiresahana; fa tsy manao diagnôsis ny antony na mamaritra ny fahaizana mitondra fiara izany.
+Tazonao miafina sy marina ny fanamarihana. Aza mandrekaka, manaraka na andrana ny olona amin'ny fomba miafina. Raha manaiky ny olona, ny mpianakavy izay efa tao anaty fiara dia afaka mizara izay hitany. Ny fanazavana mazava dia manome ny dokotera na ny matihanina zavatra manokana hiresahana; fa tsy manao diagnostika ny antony na mamaritra ny fahaizana mitondra fiara izany.
 
 Famantarana ao amin'ny [torolalan'ny Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/dementia-driving) dia antony hitadiavana torohevitra matihanina. Tsy mampiolo ny fanombanana manokana izany. Anontanio ny dokotera raha misy fandefasana any amin'ny mpitsabo asa na matihanina hafa momba ny fanarenana fitondrana fiara. Jereo amin'ny sampana fahazoan-dàlana eo an-toerana ny fitsipika eo an-toerana.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fandrafetana vonjy ho an'ny olona manana dementia"
 seoTitle: "Drafitra vonjy ho an'ny dementia: inona no omanina"
-description: "Manomana loza toy ny rivotra mahery, afo na fialana amin'ny dementia: mandrafitra mpifandray, fitaterana, fanafody, fitaovana hafa ary arahina ny torohevitra eo an-toerana."
+description: "Manomana loza toy ny rivotra mahery, afo na fialana amin'ny dementia: mandrafitra mpifandray, fitaterana, fanafody ary arahina ny torohevitra eo an-toerana."
 section: caregiving
 order: 28
 updated: 2026-11-11

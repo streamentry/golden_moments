@@ -1,7 +1,7 @@
 ---
 title: "Fanampiana ny olona manana dementia hisotro ampy"
 seoTitle: "Dementia sy ny fisotroana: torohevitra ho an'ny mpikarakara"
-description: "Manampy ny olona manana dementia hisotro ampy: omeo zavatra misotro tiany amin'ny andro, ary angataho matihanina momba ny filan'ny rano sy ny fahasarotana fitan-drano."
+description: "Manampy ny olona manana dementia hisotro ampy: omeo zavatra misotro tiany amin'ny andro, ary anontanio matihanina raha misy olana amin'ny rano."
 section: caregiving
 order: 23
 updated: 2026-11-11
