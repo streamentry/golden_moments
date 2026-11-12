@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Visitar Alguém com Demência em Cuidados de Memória ou no Hospital"
+seoTitle: "Visitar Alguém com Demência: o Que Fazer e Levar"
+description: "O que fazer ao visitar alguém com demência em uma instituição de cuidado de memória, em um lar de idosos ou no hospital: o que levar, atividades simples e saída tranquila."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Ao visitar alguém com demência em uma instituição de cuidado de memória ou no
+  hospital, mantenha tudo simples: diga seu nome ao chegar, leve algo para
+  compartilhar, como fotos, músicas ou um lanche preferido, e faça uma atividade
+  fácil juntos. Visitas mais curtas e regulares costumam dar mais certo do que
+  visitas longas e raras. Planeje uma despedida calma e sempre igual, para que a
+  saída seja mais fácil para os dois.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Cumprimente a pessoa pelo nome e diga quem você é, para que ela não precise descobrir: 'Oi, mãe, sou a Susan, sua filha.'"
+  - "Leve uma ou duas coisas para compartilhar, como um álbum de fotos, música preferida, uma manta macia ou um lanche aprovado pela equipe."
+  - "Visitas curtas e regulares costumam ser melhores do que visitas longas e espaçadas. Sua presença importa mais do que o que você diz."
+  - "No hospital, entregue à equipe uma folha com uma página sobre a pessoa e avise o médico logo sobre qualquer mudança repentina."
+  - "Planeje a saída: diga por quanto tempo pode ficar, use a mesma despedida sempre e saia sem demorar."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "O que devo levar ao visitar alguém com demência?"
+    a: "Leve algo para compartilhar, e não algo sobre o qual precisem conversar. Um pequeno álbum de fotos, uma playlist com as músicas favoritas, uma manta macia, loção para as mãos, uma revista sobre um antigo passatempo ou um lanche aprovado pela equipe funcionam bem. Em uma instituição, fotos da família e objetos conhecidos também podem fazer o quarto parecer mais com um lar."
+  - q: "Por quanto tempo devo ficar ao visitar alguém com demência?"
+    a: "Não existe um tempo certo. Muitas famílias acham que visitas mais curtas e mais frequentes funcionam melhor do que visitas longas e raras, porque a pessoa pode se cansar rápido e pode não lembrar quanto tempo você ficou. Fique atento aos sinais de cansaço e vá embora enquanto a visita ainda estiver boa."
+  - q: "O que digo quando ela pede para ir para casa?"
+    a: "Responda ao sentimento, e não às palavras. 'Quero ir para casa' muitas vezes significa 'não me sinto à vontade ou segura'. Experimente dizer 'Me conte sobre a sua casa', olhem fotos juntos ou ofereça uma caminhada ou um lanche. Discutir ou explicar por que ela não pode sair costuma aumentar a angústia."
+  - q: "E se ela não me reconhecer?"
+    a: "Pode doer, mas tente não corrigi-la nem perguntar 'Você não sabe quem eu sou?'. Apresente-se com carinho e de forma simples, e aproveitem o tempo juntos. Muitas pessoas ainda gostam de companhia e sentem o calor de uma visita, mesmo quando não conseguem identificar quem você é."
+  - q: "Como posso ajudar durante uma internação no hospital?"
+    a: "Fique com a pessoa sempre que puder, ajude-a a comer e beber e leve objetos familiares, como fotos. Entregue à equipe uma folha com a rotina dela, o nome de preferência, o que gosta, o que não gosta e sinais de dor. Avise o médico logo se a pessoa parecer subitamente pior ou diferente, pois confusão repentina pode indicar um problema de saúde."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Visitar alguém que você ama em uma instituição de cuidado de memória, em um lar de idosos ou no hospital pode despertar muitos sentimentos. Você pode se perguntar o que dizer, o que levar, ou se a visita sequer importa se a pessoa não vai se lembrar dela. Ela importa. O National Institute on Aging observa que pessoas com Alzheimer [costumam gostar de companhia](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) mesmo quando não lembram quem é o visitante. Esta página traz passos práticos para antes, durante e depois da visita, além de dicas específicas para internações no hospital.
 
-## How do I get ready for a visit?
+## Como me preparar para uma visita?
 
-A little planning makes the visit easier for both of you.
+Um pouco de planejamento torna a visita mais fácil para os dois.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Escolha um bom horário.** A Dementia Australia sugere visitar quando a pessoa costuma estar mais alerta, que para muitas é de manhã ou perto do meio-dia. A Family Caregiver Alliance sugere conhecer a rotina da instituição e visitar no [horário livre, e não no horário de atividades](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Converse com a equipe.** Pergunte como a pessoa esteve hoje e verifique as regras sobre comida, animais de estimação ou saídas.
+- **Prepare uma pequena bolsa de visita.** Uma ou duas coisas para compartilhar bastam (veja a lista abaixo).
+- **Planeje alguns assuntos.** A pessoa pode não ter novidades para contar, então leve as suas: notícias da família, o tempo, um jogo de futebol, uma história engraçada.
+- **Defina suas próprias expectativas.** Algumas visitas serão calorosas e animadas. Outras serão silenciosas ou difíceis. Ambas são normais.
 
-## What should I bring?
+## O que devo levar?
 
-Bring things to share, not things that test. Good choices include:
+Leve coisas para compartilhar, não coisas que testem. Boas escolhas incluem:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Um pequeno álbum de fotos** com imagens grandes e nítidas. Escreva legendas no verso para a equipe.
+- **Uma playlist** de músicas favoritas no celular, com fones simples ou uma pequena caixa de som.
+- **Algo macio para segurar,** como uma manta, um lenço ou um suéter conhecido.
+- **Loção para as mãos** para uma massagem suave, se a pessoa gostar de toque.
+- **Uma revista ou um livro de figuras** sobre um interesse antigo, como jardinagem, carros, pássaros ou culinária.
+- **Um lanche preferido,** se a equipe disser que é seguro.
+- **Objetos familiares para o quarto.** A Family Caregiver Alliance sugere flores, plantas, fotos de família e obras de arte, ou um grande cartaz com fotos antigas da família.
+- **Um tablet,** para ver fotos da família ou jogar juntos um jogo suave.
 
-## What can we do together during a visit?
+## O que podemos fazer juntos durante a visita?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Fazer algo juntos tira a pressão da conversa. A Dementia Australia sugere olhar fotos, fazer um artesanato fácil, plantar mudas, ouvir música, dividir um lanche ou dar uma volta pelo jardim. Mais algumas ideias:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Olhem fotos.** Aponte o que você vê: "Olha esse chapéu." "Esta praia é linda." Deixe a pessoa conduzir. Evite "Quem é esta pessoa?".
+2. **Ouçam música e cantem.** Canções conhecidas podem animar o clima e criar um momento compartilhado, mesmo quando falar é difícil.
+3. **Façam uma caminhada curta.** A Family Caregiver Alliance sugere caminhar pela instituição, principalmente no jardim, se houver. Um passeio de cadeira de rodas também conta.
+4. **Façam uma massagem nas mãos.** Um pouco de loção e movimentos lentos nas mãos podem acalmar.
+5. **Ajudem com a higiene e a aparência.** A Dementia Australia menciona escovar o cabelo, pintar as unhas ou vestir uma roupa preferida, se a pessoa gostar.
+6. **Joguem um jogo simples.** A Family Caregiver Alliance sugere cartas, dominó ou o que a pessoa costumava jogar. No tablet, os [Pares de figuras](/games/picture-pairs/) podem ser jogados com as imagens visíveis e sem cronômetro. Os [Pares de fotos](/games/photo-pairs/) transformam as fotos que você escolher em um jogo de pares, e as fotos ficam no seu navegador.
+7. **Assistam algo juntos.** A Family Caregiver Alliance sugere comédias e filmes antigos. Mesmo que a pessoa não acompanhe a história, vocês podem sentar perto e dividir o tempo.
+8. **Leiam em voz alta.** Um poema curto, um trecho favorito ou uma carta de um familiar.
+9. **Apenas fiquem juntos.** Dar as mãos ou sentar em silêncio é uma visita de verdade. A Alzheimer's Association observa que não há problema em não saber o que dizer, e que a sua presença é o que mais importa.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+As [Cartas de conversa](/games/conversation-cards/) podem ajudar quando faltarem assuntos. Cada carta tem uma figura e um convite aberto.
 
-## How should I talk during the visit?
+## Como devo falar durante a visita?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Apresente-se sempre.** "Oi, pai, sou o Mark, seu filho." O NIA sugere que visitas se apresentem brevemente para começar uma conversa.
+- **Aproxime-se de frente** e sente-se na altura dos olhos.
+- **Não corrija nem discuta.** O NIA orienta visitantes a não corrigir a pessoa se ela errar ou esquecer algo.
+- **Tenha paciência** quando as palavras forem difíceis de encontrar. Dê bastante tempo.
+- **Responda aos sentimentos.** Se a pessoa parecer triste ou preocupada, reconheça isso antes de mudar de assunto.
+- **Evite perguntas de teste,** como "Você se lembra de mim?" ou "O que você almoçou?".
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Veja nossas [dicas de comunicação](/caregiving/communication-tips/) para mais.
 
-## What do I do when they say "I want to go home"?
+## O que fazer quando ela diz "Quero ir para casa"?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Responda ao sentimento por trás das palavras (nosso guia sobre [quando alguém pede o tempo todo para ir para casa](/caregiving/asking-to-go-home/) vai além). A Family Caregiver Alliance explica que "Quero ir para casa" geralmente quer dizer "Não estou à vontade", e sugere respostas como "Me conte sobre a sua casa" ou "Qual é a sua coisa favorita em casa?". A Dementia Australia acrescenta que "casa" pode significar um tempo ou um lugar em que a pessoa se sentia segura, como a infância.
 
-Try:
+Experimente:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- reconhecer o sentimento: "Parece que você sente falta de casa."
+- oferecer conforto pelo toque, se for bem-vindo
+- olhar fotos ou falar sobre a casa da família
+- oferecer uma caminhada, uma bebida ou um lanche
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Evite discutir ou explicar por que ela não pode sair. Isso raramente ajuda e costuma aumentar a angústia.
 
-## How long should a visit be?
+## Quanto tempo deve durar uma visita?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Visitas mais curtas e mais frequentes costumam funcionar melhor. A Family Caregiver Alliance observa que a pessoa geralmente não lembra se você ficou cinco minutos ou cinco horas, e sugere que três visitas curtas por semana podem ser melhores do que uma longa. A Dementia Australia diz que não há um número certo de visitas nem uma duração certa.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Nas primeiras semanas depois de uma mudança para cuidado de memória, a Family Caregiver Alliance sugere visitar com frequência e, aos poucos, estabelecer um padrão regular. Pergunte à equipe o que ela está percebendo.
 
-## How do I leave without upsetting them?
+## Como sair sem chatear a pessoa?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+A saída pode ser a parte mais difícil. A Dementia Australia sugere:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Diga quanto tempo pode ficar ao chegar.** "Posso ficar uma hora, depois vou ao mercado."
+- **Use uma atividade como fim natural.** "Quando terminarmos esta música, eu vou indo."
+- **Combine com uma refeição ou atividade,** ou peça à equipe para ajudar a pessoa a se ocupar com outra coisa.
+- **Mantenha a despedida curta e sempre igual.** Demorar, pedir desculpas ou ficar "só mais um pouquinho" pode tornar as próximas despedidas mais difíceis.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Depois que você sair, é normal sentir tristeza. Permita-se descansar. Se a pessoa ficou chateada, a equipe geralmente consegue ajudá-la a se acalmar logo depois.
 
-## Visiting someone with dementia in the hospital
+## Visitar alguém com demência no hospital
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+O hospital é barulhento, desconhecido e cheio de estranhos, o que pode ser muito difícil para quem vive com demência. O guia do NIA sobre [levar uma pessoa com Alzheimer ao hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recomenda:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Ter alguém com a pessoa** o máximo possível: um familiar, um amigo de confiança ou um cuidador contratado.
+- **Entregar à equipe uma ficha de informações pessoais** com a rotina da pessoa, o nome de preferência, o que gosta e o que não gosta, possíveis gatilhos e sinais não verbais de dor. Deixe cópias no quarto e no posto de enfermagem.
+- **Ajudar com comida e bebida.** Pessoas idosas podem ficar desnutridas no hospital. Abra embalagens, ajude nas refeições, coma junto e ofereça bebidas.
+- **Levar objetos de conforto,** como fotos ou objetos espirituais.
+- **Diminuir o barulho.** Desligue a TV e reduza o volume do celular e do interfone.
+- **Experimentar rituais calmantes,** como música suave, leitura, oração, canto ou olhar fotos antigas.
+- **Incentivar o movimento** na medida do seguro, com a aprovação da equipe.
+- **Avisar o médico logo se a pessoa parecer subitamente pior ou diferente.** O NIA explica que a confusão súbita e grave, chamada delirium, pode ser causada por problemas como infecção, febre, desidratação ou efeitos colaterais de remédios, e precisa de atenção médica.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Uma visita curta e calma, com um rosto familiar e uma música preferida, pode ser a parte mais reconfortante de um dia no hospital.
 
-## Bringing children on a visit
+## Levar crianças na visita
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+As crianças podem trazer muito calor. Prepare-as antes com palavras simples e honestas, mantenha a visita curta e dê a elas uma tarefa, como mostrar um desenho ou entregar uma foto. O NIA sugere que crianças e pessoas com Alzheimer podem curtir atividades simples juntas, como olhar um álbum de fotos ou ouvir música. A Dementia Australia sugere levar uma pequena bolsa com guloseimas ou coisas silenciosas para manter as crianças pequenas ocupadas.
 
-## Take care of yourself too
+## Cuide de si também
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Visitar pode ser cansativo e emocionante, principalmente se a pessoa mudou muito. Tudo bem visitar com menos frequência se precisar, levar um amigo para dar apoio ou sair mais cedo em um dia difícil. Para ideias sobre como cuidar de si, veja [autocuidado do cuidador](/caregiving/caregiver-self-care/). Se você mora longe, veja nosso guia sobre [chamadas telefônicas e de vídeo](/activities/phone-and-video-calls/).
