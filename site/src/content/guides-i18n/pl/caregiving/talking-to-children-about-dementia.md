@@ -1,7 +1,7 @@
 ---
 title: "Rozmowa z dziećmi o demencji"
 seoTitle: "Jak rozmawiać z dziećmi o demencji"
-description: "Wyjaśnij dziecku, czym jest demencja, uczciwymi odpowiedziami dopasowanymi do wieku. Chroń jego rutynę i prywatność, zachęcaj do pytań i zostaw odpowiedzialność za opiekę dorosłym."
+description: "Wyjaśnij dziecku demencję uczciwymi słowami dopasowanymi do wieku. Chroń jego rutynę i prywatność, zachęcaj do pytań i zostaw opiekę dorosłym."
 section: caregiving
 order: 29
 updated: 2026-11-11

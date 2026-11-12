@@ -1,7 +1,7 @@
 ---
 title: "Opieka nad zwierzęciem a demencja: wspólna rutyna"
 seoTitle: "Wsparcie w opiece nad zwierzęciem dla osoby z demencją"
-description: "Pomóż osobie z demencją utrzymać rutynę opieki nad zwierzęciem dzięki przypomnieniom, uzgodnionej pomocy i planom awaryjnym, które szanują wybory osoby i potrzeby zwierzęcia."
+description: "Pomóż osobie z demencją utrzymać opiekę nad zwierzęciem dzięki przypomnieniom, uzgodnionej pomocy i planom awaryjnym, które szanują jej wybory i potrzeby zwierzęcia."
 section: caregiving
 order: 15
 updated: 2026-11-11

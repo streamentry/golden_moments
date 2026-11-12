@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Demența cu debut precoce începe înainte de 65 de ani. Oamenii se simt adesea deplasați față de vârsta lor, în raport cu activitățile oferite."
   - "Lăsați persoana să decidă, de la ce hobby să încerce până la ce ieșire să planifice."
-  - "Muzica, fotografiile și poveștile din anii 20 până la 50 sunt adesea mai semnificative decât activitățile din viața mai târzie."
+  - "Muzica, fotografiile și poveștile din tinerețe și din începutul vieții de adult sunt adesea mai semnificative decât activitățile din viața mai târzie."
   - "Rămâneți activi și sociali atunci când persoana vrea, și ajustați ritmul în loc să înlocuiți activitatea."
   - "Îngrijitorii, mai ales partenerii și copiii adulți, beneficiază de grupuri de sprijin între egali."
 faq:
@@ -51,7 +51,7 @@ Pentru că este mai puțin frecventă, oamenii pot aștepta mai mult un diagnost
 
 ## Păstrați adultul în activitate
 
-Adulții cu demență cu debut precoce de obicei nu vor să fie tratați ca niște copii. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomandă adaptarea activităților la ceea ce persoana mai poate face și bucura. Pentru cineva din anii 50, asta ar putea însemna:
+Adulții cu demență cu debut precoce de obicei nu vor să fie tratați ca niște copii. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomandă adaptarea activităților la ceea ce persoana mai poate face și bucura. Pentru cineva aflat la vârsta de muncă, asta ar putea însemna:
 
 - **Păstrați un hobby cunoscut,** precum lucrul la lemn, un sport, jocurile de cărți, un club de lectură sau un cor, cu puțin ajutor sau o sesiune mai scurtă.
 - **Mergeți pe jos sau pe bicicletă cu un însoțitor,** pe un traseu pe care persoana îl cunoaște bine.
@@ -64,7 +64,7 @@ Lăsați persoana să aleagă. Întrebarea „Ce ați vrea să faceți în după
 
 ## Folosiți muzica și amintirile din anii ei
 
-Muzica și fotografiile din anii 20, 30 și 40 ai persoanei pot aduce sentimente calde și discuții ușoare. Ghidul nostru despre [activitățile cu muzică](/activities/music/) explică cum să creați o listă de melodii, iar [activitățile de amintire](/activities/reminiscence/) arată cum să împărtășiți fotografii și povești fără să puneți întrebări de verificare. Pentru un joc mai potrivit adulților, încercați [cărțile de conversație](/games/conversation-cards/), cu sugestii deschise despre muncă, călătorii, prieteni și familie.
+Muzica și fotografiile din tinerețea și anii de adult ai persoanei pot aduce sentimente calde și discuții ușoare. Ghidul nostru despre [activitățile cu muzică](/activities/music/) explică cum să creați o listă de melodii, iar [activitățile de amintire](/activities/reminiscence/) arată cum să împărtășiți fotografii și povești fără să puneți întrebări de verificare. Pentru un joc mai potrivit adulților, încercați [cărțile de conversație](/games/conversation-cards/), cu sugestii deschise despre muncă, călătorii, prieteni și familie.
 
 Fotografiile în perechi făcute din pozele familiei pot funcționa bine, pentru că imaginile arată oameni și locuri care contează pentru persoană. [Perechi de fotografii](/games/photo-pairs/) păstrează fotografiile în browserul de pe acel dispozitiv.
 

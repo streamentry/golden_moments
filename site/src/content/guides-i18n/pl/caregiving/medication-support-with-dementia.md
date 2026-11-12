@@ -1,7 +1,7 @@
 ---
 title: "Jak pomóc osobie z demencją w przyjmowaniu leków"
 seoTitle: "Bezpieczne leki dla opiekunów osób z demencją"
-description: "Wspieraj rutynę przyjmowania leków dzięki jasnej liście, wskazówkom farmaceuty i szacunku dla samodzielności. Nigdy nie zmieniaj dawki na podstawie porad z internetu."
+description: "Wspieraj rutynę leków dzięki jasnej liście, wskazówkom farmaceuty i szacunku dla samodzielności. Nigdy nie zmieniaj dawki na podstawie porad z internetu."
 section: caregiving
 order: 26
 updated: 2026-11-11

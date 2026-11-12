@@ -1,7 +1,7 @@
 ---
 title: "Higiena jamy ustnej u osoby z demencją"
 seoTitle: "Opieka stomatologiczna dla osoby z demencją"
-description: "Pomóż osobie z demencją utrzymać znajomą rutynę dbania o zęby dzięki prostym wskazówkom, zgodzie na pomoc i wsparciu stomatologa przy bólu, protezach lub nowych problemach."
+description: "Pomóż osobie z demencją utrzymać znajomą higienę jamy ustnej dzięki prostym wskazówkom, zgodzie na pomoc i wsparciu dentysty przy bólu lub protezach."
 section: caregiving
 order: 16
 updated: 2026-11-11
