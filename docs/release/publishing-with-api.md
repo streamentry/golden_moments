@@ -1,6 +1,6 @@
 # Publishing to the App Store and Google Play with keys and APIs
 
-How 1.5.0 to 1.9.0 were built, uploaded and submitted. Do this only when the
+How 1.5.0 to 1.10.0 were built, uploaded and submitted. Do this only when the
 maintainer asks for a release: a request to edit code does not authorize
 uploading, submitting or changing store settings. Record each release in
 `docs/release/app-store-<version>-build<N>.md` and read both stores back before
