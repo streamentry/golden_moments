@@ -1,34 +1,33 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Iż-żjara lil xi ħadd bid-dimenzja fl-isptar jew f’dar tal-kura"
+seoTitle: "Iż-żjara lil persuna bid-dimenzja: x’tagħmel u x’tiġbed"
+description: "X’tagħmel meta żżur lil xi ħadd bid-dimenzja f’dar tal-kura, fi djar tal-anzjani jew fl-isptar: x’tiġbed, attivitajiet sempliċi, żjarat qosra u titlaq tajjeb."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Meta żżur lil xi ħadd bid-dimenzja f’dar tal-kura jew fl-isptar, żomm kollox sempliċi: għid ismek
+  kif tasal, ġib xi ħaġa biex taqsam bħal ritratti, mużika jew spuntin favorit, u agħmel attività waħda
+  faċli flimkien. Żjarat iqsar u regolari spiss imorru aħjar minn żjarat twal u rari. Ippjana tluq kalm
+  u konsistenti, biex it-tluq ikun aktar faċli għaż-żewġ naħat.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Laqgħa bl-isem u għid min int, biex ma jkollhomx għalfejn jaħdmu x’inhu: “Ħello Mama, jien Susan, bintek.”"
+  - "Ġib wieħed jew tnejn affarijiet biex taqsam, bħal album ritratti, mużika favorita, kuperta rqiqa jew spuntin approvat mill-persunal."
+  - "Żjarat qosra u regolari spiss imorru aħjar minn dawk twal u rari. Il-preżenza tiegħek tgħodd aktar minn dak li tgħid."
+  - "Fl-isptar, agħti lill-persunal fuljett ta’ paġna dwar il-persuna u għid lit-tabib minnufih dwar kull bidla f’daqqa."
+  - "Ippjana t-tluq tiegħek: għid kemm tista’ tibqa’, uża l-istess tislima kull darba, u itlaq mingħajr ma toqgħod wisq."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "X’għandi nġib meta nżur lil xi ħadd bid-dimenzja?"
+    a: "Ġib xi ħaġa biex taqsam aktar milli xi ħaġa biex titkellem dwarha. Album ritratti ż-żgħir, lista ta’ kanzunetti favoriti, kuperta rqiqa, krema tal-idejn, rivista dwar ħobby qadim jew spuntin approvat mill-persunal kollha jaħdmu tajjeb. F’dar tal-kura, ritratti tal-familja u oġġetti familjari jistgħu jagħmlu l-kamra tħoss aktar bħal dar."
+  - q: "Kemm għandi nibqa’ meta nżur lil xi ħadd bid-dimenzja?"
+    a: "M’hemm l-ebda tul korrett. Ħafna familji jsibu li żjarat iqsar u aktar frekwenti jaħdmu aħjar minn żjarat twal u rari, għax il-persuna tista’ tgħeja malajr u tista’ ma tiftakarx kemm bqajt. Oqgħod attent għal sinjali ta’ għeja u itlaq waqt li ż-żjara għadha tidher sabiħa."
+  - q: "X’ngħid meta jitolbu li mmorru d-dar?"
+    a: "Irrispondi għas-sentiment, mhux għall-kliem. “Irrid immur d-dar” ħafna drabi jfisser “ma nħossx komdu jew sikur.” Ipprova tgħid, “Għidli dwar darek,” ara ritratti flimkien, jew offri mixja jew spuntin. Id-dibattitu jew l-ispjegazzjoni għalfejn ma jistgħux jitilqu spiss iżid l-inkwiet."
+  - q: "X’nagħmel jekk ma jagħrafnix?"
+    a: "Jista’ jweġġa’, imma ipprova tieqaf milli tikkoreġi jew tistaqsi “Ma tafx min jien?” Ippreżenta lilek innifsek b’ġentilezza u ġawdi ż-żmien flimkien. Ħafna nies xorta jgawdu l-kumpanija u jħossu s-sħana ta’ żjara anke meta ma jistgħux jgħidu min int."
+  - q: "Kif nista’ ngħin waqt il-qgħad fl-isptar?"
+    a: "Ibqa’ mal-persuna meta tista’, għin jiekol u jixrob, u ġib oġġetti familjari bħal ritratti. Agħti lill-persunal fuljett li jelenka r-rutina tagħha, l-isem preferut, il-preferenzi, dak li ma tħobbx, u sinjali ta’ uġigħ. Għid lit-tabib minnufih jekk il-persuna tidher aktar agħar jew differenti f’daqqa, għax konfużjoni f’daqqa tista’ tindika problema medika."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +52,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Li tiżżur lil xi ħadd li tħobb f’kura tal-memorja, f’dar tal-anzjani jew fl-isptar jista’ jqajjem ħafna sentimenti. Tista’ tistaqsi x’għandek tgħid, x’għandek tġib, jew jekk iż-żjara tibqax importanti jekk ma jiftakarhiex. Hija importanti. In-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jgħid li n-nies bl-Alzheimer spiss jgawdu l-kumpanija anke meta ma jiftakrux min hu l-viżitatur. Din il-paġna tagħti passi prattiċi għal qabel, matul u wara ż-żjara, u parir speċifiku għal qgħad fl-isptar.
 
-## How do I get ready for a visit?
+## Kif nippreparaw għaż-żjara?
 
-A little planning makes the visit easier for both of you.
+Ftit ippjanar jagħmel iż-żjara aktar faċli għaż-żewġ naħat.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Agħżel ħin tajjeb.** Dementia Australia jissuġġerixxi li tiżżur meta l-persuna normalment tkun l-aktar sveglja, li għal ħafna nies tfisser filgħodu jew madwar nofsinhar. Il-Family Caregiver Alliance jissuġġerixxi li titgħallem l-iskeda tal-faċilità u tiżżur matul [il-ħin liberu aktar milli l-ħin tal-attività](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Ikkonferma mal-persunal.** Staqsi kif kienet il-persuna illum, u iċċekkja kwalunkwe regola dwar ikel, annimali jew ħarġiet.
+- **Ħejji borża żgħira għaż-żjara.** Ħaġa waħda jew tnejn biex taqsam huma biżżejjed (ara l-lista hawn taħt).
+- **Ippjana ftit suġġetti.** Il-persuna jista’ ma jkollhiex aħbarijiet biex taqsam, allura ġib int: aġġornamenti tal-familja, it-temp, logħba tal-ballun, storja umoristika.
+- **Issettja l-aspettattivi tiegħek.** Xi żjarat ikunu sbieħ u taħdit, oħrajn ikunu kwieti jew iebsin. It-tnejn huma normali.
 
-## What should I bring?
+## X’għandi nġib?
 
-Bring things to share, not things that test. Good choices include:
+Ġib affarijiet biex taqsam, mhux affarijiet li jittestjaw. Għażliet tajbin jinkludu:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Album ritratti ż-żgħir** b’ritratti kbar u ċari. Ikkettjahom minn wara għall-persunal.
+- **Playlist** ta’ kanzunetti favoriti fuq telefon, b’headphones sempliċi jew speaker żgħir.
+- **Xi ħaġa rqiqa biex iżżomm,** bħal kuperta, xalpa jew ġakketta familjari.
+- **Krema tal-idejn** għal massaġġ ħafif tal-idejn, jekk il-persuna tgawdi t-tqanqil.
+- **Rivista jew ktieb tal-istampi** dwar interess qadim, bħal ġardinaġġ, karozzi, għasafar jew tisjir.
+- **Spuntin favorit,** jekk il-persunal jgħid li hu sikur.
+- **Oġġetti familjari għall-kamra.** Il-Family Caregiver Alliance jissuġġerixxi fjuri, pjanti, ritratti tal-familja u xogħlijiet tal-arti, jew poster kbir ta’ ritratti tal-familja mill-passat.
+- **Tablet,** biex titfa’ l-ħarsa fuq ritratti tal-familja jew tilgħab logħba ħafifa flimkien.
 
-## What can we do together during a visit?
+## X’nistgħu nagħmlu flimkien matul iż-żjara?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Li tagħmel xi ħaġa flimkien jneħħi l-pressjoni mill-konverżazzjoni. Dementia Australia jissuġġerixxi li tħares lejn ritratti, xogħol sempliċi tal-idejn, tħawwel ftit fjuri, mużika, tqassim ta’ spuntin, jew mixja fil-ġnien. Ftit ideat oħra:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Ħares lejn ritratti.** Indika x’tara: “Ara dak il-kappell.” “Din is-spiaġġa tidher sabiħa.” Ħalli l-persuna tmexxi. Evita “Min hu dan?”
+2. **Ilgħab mużika u kanta.** Kanzunetti familjari jistgħu jtellgħu l-burdata u jagħtu ħin maqsum, anke meta t-taħdit ikun diffiċli.
+3. **Ħu mixja qasira.** Il-Family Caregiver Alliance jissuġġerixxi li timxi madwar il-faċilità, speċjalment fil-ġnien jekk hemm wieħed. Mixja b’siġġu tar-roti tgħodd ukoll.
+4. **Agħti massaġġ tal-idejn.** Ftit krema u daqqiet bil-mod fuq l-idejn jistgħu jkunu rilassanti.
+5. **Għin fit-tindif.** Dementia Australia isemmi t-tqaxxir tax-xagħar, it-tpinġija tal-dwiefer jew l-għajnuna biex tilbes ħwejjeġ favoriti, jekk jgawduh.
+6. **Ilgħab logħba sempliċi.** Il-Family Caregiver Alliance jissuġġerixxi karti, domino, jew kull ħaġa li l-persuna kienet tilgħab qabel. Fuq tablet, [Picture Pairs](/games/picture-pairs/) jista’ jitlgħab bir-ritratti miftuħa u mingħajr timer. [Photo Pairs](/games/photo-pairs/) iħawwel ritratti li tagħżel f’logħba tat-tqabbil, u r-ritratti jibqgħu fil-browser tiegħek.
+7. **Araw xi ħaġa flimkien.** Il-Family Caregiver Alliance jissuġġerixxi kummiedji u films qodma. Anke jekk il-persuna ma tistax issegwi l-istorja, tista’ toqgħod qrib u taqsam il-ħin.
+8. **Aqra b’leħen għoli.** Poeżija qasira, silta favorita, jew ittra minn qarib.
+9. **Oqgħod bilqiegħda flimkien.** Idejn miżmuma jew qgħad kwiet huwa żjara vera. L-Alzheimer’s Association jgħid li hu tajjeb li ma tkunx taf x’tgħid, u li l-preżenza tiegħek hija l-iktar importanti.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Conversation Cards](/games/conversation-cards/) jistgħu jgħinu meta tkun spiċċajt mill-kliem li tgħid. Kull kartolina fiha ritratt u stedina miftuħa.
 
-## How should I talk during the visit?
+## Kif nitkellem matul iż-żjara?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Introduċi lilek innifsek kull darba.** “Ħello Missier, jien Mark, ibnek.” In-NIA jissuġġerixxi li l-viżitaturi jagħrfu lilhom infushom malajr biex jibdew konverżazzjoni.
+- **Approċċa mill-quddiem** u oqgħod f’livell tal-għajnejn.
+- **Tikkoreġix u tiddiskutix.** In-NIA jagħti parir lill-viżitaturi biex ma jikkoreġux lill-persuna jekk tagħmel żball jew tinsa xi ħaġa.
+- **Kun paċenzjuż** meta l-kliem ikun diffiċli biex jinstab. Ħalli ħin biżżejjed.
+- **Irrispondi għas-sentimenti.** Jekk il-persuna tidher trista jew imħawda, irrikonoxxi dan qabel ma tbiddel is-suġġett.
+- **Evita mistoqsijiet ta’ eżami** bħal “Tiftakarni?” jew “X’kellek għall-ikel tan-nofsinhar?”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Ara [suġġerimenti għall-komunikazzjoni](/caregiving/communication-tips/) għal aktar.
 
-## What do I do when they say "I want to go home"?
+## X’nagħmel meta jgħidu “Irrid immur d-dar”?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Irrispondi għas-sentiment wara l-kliem (il-gwida tagħna dwar [meta xi ħadd ikompli jitlob li jmur lura d-dar](/caregiving/asking-to-go-home/) tispjega aktar). Il-Family Caregiver Alliance jispjega li “Irrid immur d-dar” ta’ spiss ifisser “ma nħossx komdu,” u jissuġġerixxi tweġibiet bħal “Għidli dwar darek” jew “X’hu l-aħjar ħaġa fid-dar tiegħek?” Dementia Australia jżid li “dar” tista’ tfisser żmien jew post fejn il-persuna ħasset sigura, bħat-tfulija.
 
-Try:
+Ipprova:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- tirrikonoxxi s-sentiment: “Jidher li tafda d-dar.”
+- toffri faraġ permezz tal-mess, jekk ikun mixtieq
+- tħares lejn ritratti jew titkellem dwar id-dar tal-familja
+- toffri mixja, xarba jew spuntin
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Evita li tiddiskuti jew tispjega għalfejn ma jistgħux jitilqu. Ħafna drabi ma jgħinx u spiss iżid l-inkwiet.
 
-## How long should a visit be?
+## Kemm għandha ddum żjara?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Iqsar u aktar spiss ħafna drabi jaħdem aħjar. Il-Family Caregiver Alliance jgħid li l-persuna ġeneralment ma tiftakarx jekk qgħadt ħames minuti jew ħames sigħat, u jissuġġerixxi li tliet żjarat qosra fil-ġimgħa jistgħu jkunu aħjar minn waħda twila. Dementia Australia tgħid li m’hemm l-ebda numru korrett ta’ żjarat jew tul korrett.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Fl-ewwel ġimgħat wara li jmorru f’kura tal-memorja, il-Family Caregiver Alliance jissuġġerixxi li tiżżur spiss, imbagħad tistabbilixxi ruħek gradwalment f’mudell regolari. Staqsi lill-persunal x’qed jaraw.
 
-## How do I leave without upsetting them?
+## Kif nitlaq mingħajr ma nnikket lilhom?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+It-tluq jista’ jkun l-aktar parti diffiċli. Dementia Australia jissuġġerixxi:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Għid kemm tista’ tibqa’ meta tasal.** “Nista’ nibqa’ siegħa, imbagħad immur nixtri.”
+- **Uża attività bħala tmiem naturali.** “Meta nispiċċaw din il-kanzunetta, nitlaq.”
+- **Ħejji l-ħin ma’ ikla jew attività,** jew itlob lill-persunal jgħin lill-persuna tistabbilixxi ruħha f’xi ħaġa oħra.
+- **Żomm it-tislima qasira u l-istess kull darba.** It-tqaqqif, l-iskuża jew “ftit aktar” jistgħu jagħmlu t-tislim futur aktar iebes.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Wara li titlaq, normali li tħoss xi tristezza. Ħalli lilek innifsek tistrieħ. Jekk il-persuna nkwietat, il-persunal ġeneralment jista’ jgħinha tistabbilixxi ruħha ftit wara.
 
-## Visiting someone with dementia in the hospital
+## Iż-żjara lil xi ħadd bid-dimenzja fl-isptar
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Sptar huwa mimli storbju, mhux familjari u nies mhux magħrufa, u dan jista’ jkun iebes ħafna għal persuna li qed tgħix bid-dimenzja. Il-gwida tan-NIA dwar [it-teħid ta’ persuna bl-Alzheimer fl-isptar](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) tirrakkomanda:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Ħalli xi ħadd jibqa’ mal-persuna** kemm jista’ jkun: membru tal-familja, ħabib ta’ fiduċja jew kariga mħallsa.
+- **Agħti lill-persunal fuljett ta’ informazzjoni personali** bir-rutina tal-persuna, l-isem preferut, il-preferenzi u dak li ma tħobbx, l-affarijiet li jistgħu jqajmu l-inkwiet, u sinjali mhux verbali ta’ uġigħ. Poġġi kopji fil-kamra u fl-istazzjon tal-infermiera.
+- **Għin bl-ikel u x-xorb.** L-anzjani jistgħu jsiru malnutriti fl-isptar. Iftaħ il-kontenituri, għin fl-ikliet, ikol flimkien u offri xorb.
+- **Ġib oġġetti li jagħtu kumdità,** bħal ritratti jew oġġetti spiritwali.
+- **Naqqas l-istorbju.** Itfi t-TV u naqqas il-volum tat-telefon u tal-intercom.
+- **Ipprova rituali li jikkalmaw,** bħal mużika maħlija, qari, talb, kant jew ħarsa lejn ritratti qodma.
+- **Inkoraġġixxi t-tqligħ** kemm hu sikur, bl-approvazzjoni tal-persunal.
+- **Għid lit-tabib minnufih jekk il-persuna tidher aktar agħar jew differenti f’daqqa.** In-NIA jispjega li konfużjoni severa f’daqqa, imsejħa delirium, tista’ tiġi minn problemi bħal infezzjoni, deni, nuqqas ta’ ilma fil-ġisem jew effetti sekondarji ta’ mediċina, u teħtieġ attenzjoni medika.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Żjara qasira u kwieta b’wiċċ familjari u kanzunetta favorita tista’ tkun l-aktar parti tfarrġa ta’ ġurnata fl-isptar.
 
-## Bringing children on a visit
+## Tfal fiż-żjara
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+It-tfal jistgħu jġibu ħafna sħana. Ħejjihom minn qabel b’kliem sempliċi u onest, żomm iż-żjara qasira, u agħtihom xogħol, bħal li juru disinn jew jagħtu ritratt. In-NIA jissuġġerixxi li t-tfal u n-nies bl-Alzheimer jistgħu jgawdu attivitajiet sempliċi flimkien, bħal li jħarsu album ritratti jew jisimgħu mużika. Dementia Australia jissuġġerixxi li tippakkja borża żgħira b’ħlewwiet jew oġġetti kwieti biex iżommu t-tfal iċkna okkupati.
 
-## Take care of yourself too
+## Ieħu ħsiebek ukoll
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Iż-żjarat jistgħu jkunu għejjenin u emozzjonali, speċjalment jekk il-persuna tkun inbidlet ħafna. Huwa tajjeb li tiżżur inqas spiss jekk għandek bżonn, iġib ħabib għall-appoġġ, jew titlaq kmieni f’jum iebes. Għal ideat dwar kif tieħu ħsiebek innifsek, ara [il-kura tal-ħajja tiegħek innifsek](/caregiving/caregiver-self-care/). Jekk tgħix ’il bogħod, ara l-gwida tagħna dwar [telefonati u sejħiet bil-vidjo](/activities/phone-and-video-calls/).

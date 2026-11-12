@@ -1,31 +1,28 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "නින්දත් මොළයේ සෞඛ්‍යයත්: පර්යේෂණ කියන දේ සහ උදව් වන දේ"
+seoTitle: "නින්ද සහ ඩිමෙන්ශියාව: පර්යේෂණ කියන දේ"
+description: "නින්ද සහ ඩිමෙන්ශියා අවදානම ගැන පර්යේෂණ කියන දේ, මොළය පිරිසිදු කිරීම ගැන පර්යේෂණ තවමත් මුල් අවස්ථාවේ ඇත්තේ ඇයි, සහ වැඩිහිටියන්ට ප්‍රායෝගික නින්ද පුරුදු."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  මැද වයසේ කෙටි නින්ද ඩිමෙන්ශියා අවදානම වැඩි වීමක් සමඟ සම්බන්ධ බව දිගුකාලීන සමහර අධ්‍යයන පෙන්වයි, සහ විද්‍යාගාර පර්යේෂණවලින් පෙන්වන්නේ නින්දට මොළයෙන් අපද්‍රව්‍ය ඉවත් කිරීමට උදව් විය හැකි බවයි. මෙම සාක්ෂි තවමත් මුල් අවස්ථාවේ ඇත. 2024 ලැන්සට් කොමිෂන් සභාව නින්ද වෙනස් කළ හැකි අවදානම් සාධකයක් ලෙස ලැයිස්තුගත කළේ නැත. නිත්‍ය නින්ද පුරුදු දිනපතා ඔබේ හැඟීමට උදව් වේ. ඩිමෙන්ශියාවේ නින්ද ගැටළු පොදු වන අතර වෛද්‍යවරයා සමඟ කතා කිරීම වටී.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "පැය 8,000ක් පමණ පුද්ගලයන් අවුරුදු 25ක් අනුගමනය කළ බ්‍රිතාන්‍ය අධ්‍යයනයක්, මැද වයසේ පැය හයක් හෝ ඊට අඩු නින්දක් ඩිමෙන්ශියා අවදානම වැඩි වීමක් සමඟ සම්බන්ධ කළේය."
+  - "නින්දේ වෙනස්කම් ඩිමෙන්ශියාවේ මුල් සං‍ඥාවක් ද විය හැක, එබැවින් හේතුව සහ ප්‍රතිඵලය වෙන් කර දැකීම අපහසුය."
+  - "මොළයෙන් beta-amyloid ඉවත් කිරීමට නින්දට ඇති සම්බන්ධය පර්යේෂණයෙන් සනාථ වී ඇත, එහෙත් එය මුල් අවස්ථාවේ ඇති අතර, බොහෝ දේ මීයන් මත සිදු කර ඇත."
+  - "නින්දේ ඇප්නියා (sleep apnea) පොදු වන අතර ප්‍රතිකාර කළ හැකිය, සහ අධ්‍යයනවලදී ඩිමෙන්ශියාව සමඟ සම්බන්ධ වී ඇත; උස් හඬින් නාසය හිරිවීම සහ දවසේ නින්ද ගතිය පරීක්ෂා කිරීම වටී."
+  - "වෛද්‍යවරයෙකු නොමැතිව නින්ද ඖෂධ හෝ නින්ද උපකරණ ආරම්භ කිරීම, නවතා දැමීම හෝ වෙනස් කිරීම කිසිවිට නොකරන්න."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "දුර්වල නින්ද Alzheimer's රෝගයට හේතු වේද?"
+    a: "ඒ බව පෙන්වා දී නැත. සමහර අධ්‍යයන කෙටි නින්ද ඩිමෙන්ශියා අවදානම වැඩි වීමක් සමඟ සම්බන්ධ කරයි, එහෙත් ඩිමෙන්ශියාව ම නින්ද බිඳ දමයි, බොහෝ විට රෝග විනිශ්චය කිරීමට වසර ගණනකට පෙර. 2024 ලැන්සට් කොමිෂන් සභාව සාක්ෂි වෙනස් කළ හැකි අවදානම් සාධකයක් ලෙස නින්ද ලැයිස්තුගත කිරීමට තරම් අස්ථාවර යැයි තීරණය කළේය."
+  - q: "වැඩිහිටියන්ට කොපමණ නින්ද අවශ්‍යද?"
+    a: "ජාතික වයෝවෘද්ධ ආයතනය (National Institute on Aging) පවසන්නේ වැඩිහිටියන්ට අනෙකුත් වැඩිහිටියන්ට මෙන්ම රාත්‍රියකට පැය 7 සිට 9 දක්වා නින්ද අවශ්‍ය බවයි. වැඩිහිටි බොහෝ දෙනා කලින්ට වඩා කලින් නිදා, කලින් අවදි වෙයි, එය සාමාන්‍ය දෙයකි."
+  - q: "ඩිමෙන්ශියාව ඇති කෙනෙක් දවාලේ නිදා රාත්‍රියේ අවදි වන්නේ ඇයි?"
+    a: "ඩිමෙන්ශියාව ශරීර ඔරලෝසුවට බලපෑ හැකි බැවින්, නින්ද සහ අවදි වීමේ වේලා පටලවා ගනී. වේදනාව, කම්මැලිකම, කුසගින්න හෝ ඖෂධවල අතුරු ඵල ද කොටසක් ඉටු කළ හැක. හිරු එළිය, දෛනික ක්‍රියාකාරකම් සහ සන්සුන් සන්ධ්‍යා චර්යාවක් උදව් විය හැක. ප්‍රතිකාර කළ හැකි හේතු සොයා බැලීමට වෛද්‍යවරයාට හැක."
+  - q: "මා සැලකිලිමත් වන පුද්ගලයාට නින්ද උපකරණයක් දිය යුතුද?"
+    a: "පළමුව ඔවුන්ගේ වෛද්‍යවරයා සමඟ කතා කරන්න, බලපත්‍රය නොමැති (over-the-counter) නිෂ්පාදන ගැනත් ඇතුළුව. ජාතික වයෝවෘද්ධ ආයතනය සටහන් කරන්නේ, සමහර නින්ද ඖෂධ Alzheimer's රෝගය ඇති අයෙකුට කරකැවිල්ල, වැටීම් සහ ව්‍යාකූලත්වය වැඩි කළ හැකි බවයි."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +53,73 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+නින්දත් මොළයේ සෞඛ්‍යයත් පැහැදිලිවම එකිනෙක හා සම්බන්ධ වුවද, ඒවා කෙසේ සම්බන්ධ වන්නේද යන්න තවමත් සොයා ගැනෙමින් පවතී. සමහර අධ්‍යයන කෙටි නින්ද ඩිමෙන්ශියා අවදානම වැඩි වීමක් සමඟ සම්බන්ධ කරයි. ඩිමෙන්ශියාව, අනෙක් අතට, නින්ද බොහෝ විට බිඳ දමයි. මෙම පිටුව පර්යේෂණ පෙන්වන සහ නොපෙන්වන දේ පැහැදිලි කරයි, ප්‍රායෝගික නින්ද පුරුදු ලබා දෙයි, සහ ඩිමෙන්ශියාවේ පොදු නින්ද ගැටළු ආවරණය කරයි. නින්ද ඖෂධ ගැන එය උපදෙස් නොදෙයි; ඒ සංවාදය වෛද්‍යවරයා සමඟ විය යුතුය.
 
-## Is poor sleep linked with dementia?
+## දුර්වල නින්ද ඩිමෙන්ශියාව සමඟ සම්බන්ධද?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+දිගුකාලීන සමහර අධ්‍යයන කෙටි නින්ද ඩිමෙන්ශියා අවදානම වැඩි වීමක් සමඟ සම්බන්ධ කරයි, එහෙත් සාක්ෂි තවමත් තීරණාත්මක නොවේ.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **අවුරුදු 25ක UK අධ්‍යයනය.** පර්යේෂකයන් [Whitehall II අධ්‍යයනයේ](https://www.nature.com/articles/s41467-21-22354-2) වැඩිහිටියන් 8,000ක් පමණ අනුගමනය කළහ. වයස 50 හෝ 60 දී පැය හයක් හෝ ඊට අඩුවෙන් නිදා ගත් අය, පැය හතක් නිදා ගත් අයට වඩා පසුව ඩිමෙන්ශියාව ඇති වීමේ වැඩි අවදානමක සිටියහ. 50, 60 සහ 70 වයසේදී පැය හයක් හෝ ඊට අඩුවෙන් නිදා ගත් අය, නිතිපතා පැය හතක් නිදා ගත් අයට වඩා 30%ක් පමණ වැඩි අවදානමක සිටියහ. මෙය නිරීක්ෂණ අධ්‍යයනයක් වූ බැවින්, එය සම්බන්ධතාවක් පෙන්වයි, හේතුවක් නොවේ.
+- **ලැන්සට් කොමිෂන් සභාවේ අදහස.** [2024 ලැන්සට් කොමිෂන් සභාව](https://doi.org/10.1016/S0140-6736(24)01296-0) වෙනස් කළ හැකි අවදානම් සාධක 14 ලැයිස්තුවට නින්ද එක් කළේ නැත. ඒ සාක්ෂි ප්‍රමාණවත් ලෙස එකඟ නොවන බව ඔවුන් තීරණය කළහ. එක් හේතුවක් වන්නේ “ප්‍රතිලෝම හේතුකාරකත්වය”: ඩිමෙන්ශියාවෙන් ඇති වන මොළයේ වෙනස්කම් රෝග විනිශ්චයට වසර ගණනකට පෙර ආරම්භ වී නින්දට බලපෑ හැක. එක් විශාල අධ්‍යයනයක, පළමු වසර පහ අනුගමනයෙන් ඉවත් කළ විට, දිගු නින්ද සහ ඩිමෙන්ශියාව අතර සම්බන්ධය අතුරුදහන් විය.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+ඉතින් වරක් වරක් ඇති කෙටි රාත්‍රියක් ගැන කණස්සල්ලට හේතුවක් නැත. නිත්‍ය, හොඳ තත්ත්වයේ නින්ද අපේක්ෂා කිරීම වටී, මන්ද එය අද දවසේ මනෝභාවයට, කටයුතු කිරීමේ හැකියාවට සහ ආරක්ෂාවට උදව් කරයි.
 
-## What is the "brain-clearing" sleep research?
+## “මොළය පිරිසිදු කරන” නින්ද පර්යේෂණය කුමක්ද?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+නින්දෙන් මොළය “පිරිසිදු” වන බව ඔබ කියවා ඇති විය හැක. ඒ අදහස සැබෑ පර්යේෂණයකින් ආවත්, එය මුල් අවස්ථාවේ පවතී.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **මීයන් තුළ.** [NIH විසින් විස්තර කළ](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) 2013 අධ්‍යයනයකින් හෙළි වූයේ, මීයන් නිදා ගත් විට මොළ සෛල අතර ඉඩ දළ වශයෙන් 60%කින් වැඩි වූ බවයි. පර්යේෂකයන් glymphatic system ලෙස හඳුන්වන දෙයින් මොළය හරහා තරල වඩාත් පහසුවෙන් ගලා ගියේය. Alzheimer's සමඟ සම්බන්ධ ප්‍රෝටීනයක් වන beta-amyloid, නින්දෙන් සිටින මීයන්ගේ මොළවලින් වඩා වේගයෙන් ඉවත් විය.
+- **මිනිසුන් තුළ.** 2018 කුඩා [අධ්‍යයනයක](https://www.pnas.org/doi/10.1073/pnas.1721694115) වයස 22 සිට 72 දක්වා සෞඛ්‍ය සම්පන්න වැඩිහිටියන් 20 දෙනෙකු, සාමාන්‍ය රාත්‍රියකින් පසුව සහ නින්දක් නොමැති රාත්‍රියකින් පසුව, මොළ ස්කෑන් කරන ලදී. නින්දක් නොමැති රාත්‍රියකින් පසු, මතකය සඳහා වැදගත් ප්‍රදේශයක් වන හිපොකැම්පස් ඇතුළත් ප්‍රදේශයක beta-amyloid සඳහා මොළ ස්කෑන් සං‍ඥාව දළ වශයෙන් 5%කින් ඉහළ ගියේය. කතුවරුන් මෙය මූලික සාක්ෂි ලෙස හැඳින්වූහ. විවේකයෙන් පසු වෙනස අතුරුදහන් වේද, එය මන්දගාමී ඉවත් කිරීමක් හෝ වැඩි amyloid නිපදවීමක් පිළිබිඹු කරන්නේද යන්න ඔවුන් දැන සිටියේ නැත.
+- **දෙපැත්තටම ක්‍රියා කරයි.** ලැන්සට් කොමිෂන් සභාව සටහන් කරන්නේ amyloid තැන්පත් වීම වැඩිහිටියන්ගේ නින්දට තමාම බලපෑ හැකි බවයි.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+මෙම සොයාගැනීම් නිසා පර්යේෂකයන් නින්ද ගැන උනන්දු වන්නේ ඇයි දැයි පැහැදිලි වේ. ඒවා පෙන්වන්නේ වඩා හොඳ නින්දෙන් Alzheimer's වළක්වන බව නොවේ.
 
-## What sleep habits may help?
+## උදව් විය හැකි නින්ද පුරුදු මොනවාද?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+[ජාතික වයෝවෘද්ධ ආයතනය (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults) අනුව, වැඩිහිටියන්ට අනෙකුත් වැඩිහිටියන්ට මෙන්ම රාත්‍රියකට පැය 7 සිට 9 දක්වා නින්ද අවශ්‍යයි. එහි යෝජනා අතර:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **නිත්‍ය කාලසටහනක් තබා ගන්න.** සති අන්තයේදීත්, සෑම දිනකම එකම වේලාවට නිදා, එකම වේලාවට අවදි වන්න.
+- **සන්සුන් වීමේ චර්යාවක් ගොඩනඟන්න.** නිදා ගැනීමට පෙර කියවන්න, සුවදායක සංගීතය අසන්න, හෝ උණුසුම් නාන්න.
+- **කාමරය සුවපහසු කරන්න,** වැඩි උණුසුම් හෝ වැඩි සීතල නොවන සේ.
+- **දවසේ පසු කොටසේ කැෆේන් සීමා කරන්න.** කෝපි, තේ, සෝඩා සහ චොකලට් ඔබව අවදියෙන් තබා ගත හැක.
+- **මත්පැන් වළක්වන්න,** කුඩා ප්‍රමාණයක් පවා, NIA උපදෙස් දෙයි.
+- **නිදා ගැනීමට පැය දෙකක් හෝ තුනක් ඇතුළත විශාල ආහාර වේල් වළක්වන්න,** සහ දවසේ පසු කොටසේ විශාල පාන වර්ග වළක්වන්න.
+- **නිතිපතා ව්‍යායාම කරන්න, එහෙත් නිදා ගැනීමට පැය 3ක් ඇතුළත නොකරන්න.** අපගේ [ව්‍යායාම මාර්ගෝපදේශය](/brain-health/exercise/) බලන්න.
+- **තිරවල් නිදන කාමරයෙන් බැහැර තබන්න.** එහි රූපවාහිනිය බැලීම හෝ පරිගණකය, දුරකථනය හෝ ටැබ්ලට් භාවිතා නොකරන්න යයි NIA යෝජනා කරයි.
+- **හැකි නම්, සන්ධ්‍යාවේ හෝ සවසේ නින්දට වළකින්න.**
 
-## Sleep problems in dementia
+## ඩිමෙන්ශියාවේ නින්ද ගැටළු
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+ඩිමෙන්ශියාවේ නින්දේ වෙනස්කම් පොදුය. [NIA ලැයිස්තු කරන්නේ](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) වැඩියෙන් හෝ අඩුවෙන් නිදා ගැනීම, රාත්‍රියේ බොහෝ වාරයක් අවදි වීම, සහ දවාලේ බොහෝ වාරයක් නිදා ගැනීම යි. එය sundowning ද විස්තර කරයි: හිරු එළිය මැකී යන විට ආරම්භ වන හෝ නරක් වන නොසන්සුන්කම, කලබලය හෝ ව්‍යාකූලත්වය.
 
-Caregiver tips from the NIA include:
+NIA වෙතින් සැලකිලිමත් වන අය සඳහා උපදෙස්:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **සැඩොල් ආලෝකය සහ චලනය කලින් ලබා ගන්න.** දවාලේ පිටතට යන්න හෝ ජනෙල් අසල වාඩි වන්න, සහ සෑම දිනකම පුද්ගලයා ක්‍රියාශීලී වීමට උදව් කරන්න. දීප්තිමත් ආලෝකය ශරීර ඔරලෝසුව නැවත සකස් කිරීමට උදව් විය හැක.
+2. **ශක්තිමත් ක්‍රියාකාරකම් උදෑසනට සැලසුම් කරන්න.** උදෑසන නාන්න උත්සාහ කරන්න, හෝ විශාලතම ආහාරය දහවලට ගන්න.
+3. **නිදාගැනීම කෙටි සහ කලින් තබන්න.** දවසේ පසු කොටසේ තරමට නිමිහිල් වීම සීමා කරන්න.
+4. **සවස සන්සුන් කරන්න.** ආලෝකය අඩු කර, ශබ්දය අඩු කර, පුද්ගලයා රසවිඳින්නේ නම් සුවදායක සංගීතය වාදනය කරන්න. [දවසේ පසු කොටසේ නොසන්සුන්කම](/caregiving/late-day-restlessness/) පිළිබඳ අපගේ මාර්ගෝපදේශයේ තව අදහස් ඇත.
+5. **ස්ථාවර රාත්‍රී කාලසටහනක් තබා ගන්න.** සෑම රාත්‍රියේම එකම වේලාවට හඬ කියවීම NIA උදාහරණයකි. [ස්ථාවර දෛනික චර්යාවක්](/activities/daily-routine/) ද උදව් වේ.
+6. **කැෆේන් සහ මත්පැන් සීමා කරන්න.**
+7. **රාත්‍රී ආලෝක භාවිතා කරන්න** නිදන කාමරයේ, ශාලාවේ සහ නාන කාමරයේ.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+රාත්‍රියේ අවදි වීම සඳහා, NIA හි [නිවසේ ආරක්ෂා උපදෙස්](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) වලට රාත්‍රී ආලෝක හෝ ස්වයංක්‍රීය ආලෝක සංවේදක, නාන කාමරයේ අල්ලා ගැනීමේ දණ්ඩ්, පඩි දාරවල දීප්තිමත් වර්ණ ටේප් සහ අගුළු දැමූ ස්ථානයක ගබඩා කළ ඖෂධ ඇතුළත් වේ.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+සවස කෙටි, නිශ්ශබ්ද ක්‍රියාකාරකමක් ඔබ දෙදෙනාටම සන්සුන් වීමට උදව් කළ හැක. මන්දගාමී [Calm Breathing](/games/calm-breathing/) විරාමයක් හෝ සැහැල්ලු [Conversation Cards](/games/conversation-cards/) කිහිපයක් උත්සාහ කරන්න. නින්දට ආසන්නව උත්තේජනය කරන ඕනෑම දෙයක් වළක්වන්න, සහ පුද්ගලයා ඇති තරම් ලැබුණු විට නවත්වන්න.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+බිඳුණු නින්ද සැලකිලිමත් වන අයවද මහන්සි කරයි. නිවේදනයට සහ උදව් ලබා ගැනීමට ඇති මාර්ග ගැන [සැලකිලිමත් වන අයගේ ස්වයං සත්කාර මාර්ගෝපදේශය](/caregiving/caregiver-self-care/) ආවරණය කරයි.
 
-## What about sleep apnea?
+## නින්දේ ඇප්නියාව ගැන කුමක් ද?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+නින්දේ ඇප්නියාව නින්දේදී හුස්ම ගැනීමේ කෙටි විරාම ඇති කරයි, බොහෝ විට රාත්‍රියකට බොහෝ වාර. NIA පවසන්නේ එය ප්‍රතිකාර නොකළහොත්, අධික රුධිර පීඩනය, ස්ට්‍රෝක් හෝ මතක නැතිවීම වැනි ගැටළු වලට හේතු විය හැක. ලක්ෂණ අතර උස් හඬින් නාසය හිරිවීම සහ දවාලේ නින්දට ගතිය ඇති වීම වේ, සහ බොහෝ දෙනා තමන්ට එය ඇති බව දන්නේ නැත. ලැන්සට් කොමිෂන් සභාව අධ්‍යයන 11ක සමාලෝචනයක් විස්තර කරයි, එහිදී නින්දේ ඇප්නියාව ඇති අයට ඩිමෙන්ශියා අවදානම දළ වශයෙන් 43%කින් වැඩි විය. එහෙත් එම අධ්‍යයන කිහිපයකම බර ගණනය කර නැති බැවින්, සම්බන්ධය නිශ්චිත නොවේ.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+නින්දේ ඇප්නියාව රෝග විනිශ්චය කර ප්‍රතිකාර කළ හැකිය. NIA සටහන් කරන්නේ CPAP යන්ත්‍රය බොහෝ විට සැමවිටම උදව් කරන බවයි. ඔබ හෝ ඔබ සැලකිලිමත් වන පුද්ගලයා උස් හඬින් නාසය හිරිවන්නේ නම්, නින්දේදී හුස්ම ගැනීම නවතින්නේ නම්, හෝ දවාලේ ඉතා නින්දට ගතිය ඇත්නම්, වෛද්‍යවරයාට කියන්න.
 
-## A note about sleep medicines
+## නින්ද ඖෂධ ගැන සටහනක්
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+අපි නින්ද ඖෂධ හෝ අතිරේක ද්‍රව්‍ය ගැන උපදෙස් නොදෙමු. NIA සටහන් කරන්නේ නින්ද ඖෂධ කෙටි කාලයක් උදව් විය හැකි නමුත් නිද්‍රාහීනතාවට ප්‍රතිකාරයක් නොවන බවයි. Alzheimer's ඇති අයට නිදා ගැනීමට උදව් කිරීමට දෙන සමහර ඖෂධවල කරකැවිල්ල, වැටීම් සහ ව්‍යාකූලත්වය වැඩි කළ හැකි බවද එය සටහන් කරයි. වෛද්‍යවරයෙකු හෝ ඖෂධවේදියෙකු සමඟ කතා නොකර, බලපත්‍රය නොමැති නින්ද උපකරණ ඇතුළුව, කිසිම නින්ද ඖෂධයක් ආරම්භ කිරීම, නවතා දැමීම හෝ වෙනස් කිරීම නොකරන්න.
 
-## Talk with a doctor
+## වෛද්‍යවරයා සමඟ කතා කරන්න
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+ඔබ හෝ ඔබ සැලකිලිමත් වන පුද්ගලයා සැමවිටම වෙහෙසට පත්ව සිටියහොත්, බොහෝ රාත්‍රීන්වල නින්දේ අපහසුතාව ඇත්නම්, උස් හඬින් නාසය හිරිවන්නේ නම්, හෝ රාත්‍රියේ හුස්ම ගැනීමේ විරාම ඇත්නම් වෛද්‍යවරයෙකු බලන්න. ඩිමෙන්ශියාවේ නින්ද ගැටළු දිගටම පවතී නම්, [NIA උපදෙස් දෙන්නේ](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) වෛද්‍ය උපදෙස් ලබා ගන්නා ලෙසයි. පරීක්ෂණයකින් වේදනාව, තවත් නින්ද ආබාධයක්, රෝගයක් හෝ ඖෂධයක අතුරු ඵලයක් වැනි හේතු සොයා ගත හැක. හදිසි ව්‍යාකූලත්වයක්, හෝ ව්‍යාකූලත්වය සමඟ හදිසි නින්ද වෙනසක්, ඉක්මන් සත්කාර අවශ්‍යයි. [වෛද්‍යවරයා කවදා බැලිය යුතුද](/brain-health/warning-signs/) කියවන්න.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+මෙය සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. අපගේ [වෛද්‍ය වියරු ප්‍රකාශය](/medical-disclaimer/) බලන්න.

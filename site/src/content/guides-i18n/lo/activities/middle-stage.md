@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "ກິດຈະກຳສຳລັບໄລຍະກາງຂອງໂຣກສະໝອງເສື່ອມ"
+seoTitle: "ກິດຈະກຳໄລຍະກາງຂອງໂຣກສະໝອງເສື່ອມ: ໄອເດຍງ່າຍໆ"
+description: "ກິດຈະກຳງ່າຍໆສຳລັບໄລຍະກາງຂອງໂຣກສະໝອງເສື່ອມ: ວຽກບ້ານທີ່ມີປະໂຫຍດ ດົນຕີ ຮູບພາບ ແລະເກມງ່າຍໆ ພ້ອມວິທີຕຽມ."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  ໃນໄລຍະກາງຂອງໂຣກສະໝອງເສື່ອມ ກິດຈະກຳທີ່ດີທີ່ສຸດແມ່ນສັ້ນ ຄຸ້ນເຄີຍ ແລະແບ່ງເປັນຂັ້ນຕອນດຽວໆ ເຊັ່ນ ພັບເຄື່ອງ ຈັບຄູ່ຖົງຕີນ ລ້າງຈານ ຮ້ອງເພງ ເດີນຊົມແບບມີຄົນນຳ ອັລບັ້ມຮູບ ແລະເກມຮູບງ່າຍໆ. ຕຽມທຸກຢ່າງ ສະແດງຂັ້ນທຳອິດ ຊ່ວຍສ່ວນທີ່ຍາກ ແລະໃຫ້ກິດຈະກຳມີຈຸດໝາຍ. ຢຸດເມື່ອມັນບໍ່ສະບາຍອີກຕໍ່ໄປ.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "ວຽກບ້ານໃນເຮືອນທີ່ຄຸ້ນເຄີຍມັກໄດ້ຜົນດີທີ່ສຸດ ເພາະຮູ້ສຶກວ່າມີປະໂຫຍດ ແລະເໝາະກັບຜູ້ໃຫຍ່."
+  - "ສະແດງໃຫ້ເຫັນແທນການບອກ ໃຫ້ເຮັດທີລະຂັ້ນຕອນ ແລະໃຫ້ສອງທາງເລືອກງ່າຍໆ ແທນການຖາມແບບເປີດກວ້າງ."
+  - "ຊ່ວຍສ່ວນທີ່ຍາກທີ່ສຸດ ເພື່ອໃຫ້ຜູ້ນັ້ນໄດ້ເຮັດສ່ວນທີ່ໃຫ້ຄວາມພໍໃຈ."
+  - "ການເຄື່ອນໄຫວທີ່ເກີດຂຶ້ນຊ້ຳໆມັກໝາຍເຖິງຜູ້ນັ້ນຕ້ອງການສິ່ງທີ່ຈະເຮັດ ໃຫ້ສະເໜີກິດຈະກຳທີ່ເໝາະສົມແທນການປະຕິເສດ."
+  - "ການເບິ່ງ ການຊ່ວຍເລັກນ້ອຍ ຫຼືຢຸດແຕ່ຕົ້ນ ລ້ວນແຕ່ເປັນເລື່ອງທີ່ດີທັງນັ້ນ."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "ກິດຈະກຳໃດດີສຳລັບໄລຍະກາງຂອງໂຣກສະໝອງເສື່ອມ?"
+    a: "ກິດຈະກຳທີ່ສັ້ນ ຄຸ້ນເຄີຍ ແລະໃຊ້ມືມັກໄດ້ຜົນດີທີ່ສຸດ ເຊັ່ນ ພັບຜ້າເຊັດໂຕ ຈັບຄູ່ຖົງຕີນ ລ້າງຈານ ຈັດໂຕະອາຫານ ຮ້ອງເພງທີ່ມັກແຕ່ກ່ອນ ເດີນຊົມແບບມີຄົນນຳ ເບິ່ງອັລບັ້ມຮູບ ແລະເກມຮູບງ່າຍໆ. ແບ່ງແຕ່ລະກິດຈະກຳເປັນຂັ້ນຕອນດຽວໆ ແລ້ວເຮັດນຳກັນ."
+  - q: "ຈະເຮັດໃຫ້ຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມເລີ່ມກິດຈະກຳໄດ້ແນວໃດ?"
+    a: "ຕຽມທຸກຢ່າງໃຫ້ພ້ອມ ຈາກນັ້ນເລີ່ມເຮັດເອງ ແລ້ວເຊີນໃຫ້ເຂົາເຈົ້າມາຊ່ວຍ ເຊັ່ນ “ຊ່ວຍຈັບຜ້າເຊັດໂຕພວກນີ້ໃຫ້ແດ່ໄດ້ບໍ?” ຫຼາຍຄົນຢາກມີສ່ວນຮ່ວມແຕ່ເລີ່ມຍາກ. ການສະແດງຂັ້ນທຳອິດມັກໄດ້ຜົນດີກວ່າການອະທິບາຍ."
+  - q: "ເຮັດແນວໃດເມື່ອເຂົາເຈົ້າເຮັດສິ່ງດຽວກັນຊ້ຳໆ?"
+    a: "ການເຮັດຊ້ຳມັກບໍ່ເປັນອັນຕະລາຍ ແລະອາດໝາຍເຖິງຜູ້ນັ້ນຢາກຮູ້ສຶກວ່າມີສິ່ງທີ່ຕ້ອງເຮັດ ຫຼືຕ້ອງການຄວາມໝັ້ນໃຈ. ແທນທີ່ຈະແກ້ໄຂ ໃຫ້ສະເໜີກິດຈະກຳທີ່ເໝາະກັບການເຄື່ອນໄຫວນັ້ນ ເຊັ່ນ ກະຕ່າຜ້າຂົນໜູໃຫ້ພັບ ຫຼືເພງໃຫ້ຮ້ອງນຳກັນ."
+  - q: "ຖ້າເຂົາເຈົ້າເຮັດກິດຈະກຳຜິດຈະເປັນແນວໃດ?"
+    a: "ຖ້າບໍ່ເປັນອັນຕະລາຍ ກໍ່ປ່ອຍໃຫ້ເປັນໄປ. ຜ້າທີ່ພັບຕ່າງອອກໄປ ຫຼືຊ້ອນຢູ່ບ່ອນຜິດ ກໍ່ບໍ່ສຳຄັນ. ການແກ້ໄຂອາດຮູ້ສຶກຄືການວິພາກວິຈານ ແຕ່ການໃຫ້ເຂົາເຈົ້າເຮັດໃນແບບຂອງເຂົາເຈົ້າ ຊ່ວຍໃຫ້ຮູ້ສຶກວ່າຕົນເອງເຮັດໄດ້ ແລະມີປະໂຫຍດ."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+ໄລຍະກາງຂອງໂຣກສະໝອງເສື່ອມມັກເປັນໄລຍະທີ່ຍາວນານທີ່ສຸດ ແລະເປັນຊ່ວງທີ່ກິດຈະກຳຕ້ອງການການສະໜັບສະໜູນທີ່ແທ້ຈິງ. ຄຳເວົ້າອອກມາຍາກຂຶ້ນ ຂັ້ນຕອນຕ່າງໆອາດສັບສົນ ແລະການເລີ່ມເຮັດສິ່ງໃດກໍ່ອາດຮູ້ສຶກຍາກ. ແຕ່ຄວາມປາຖະໜາທີ່ຢາກເປັນປະໂຫຍດ ແລະມີສ່ວນຮ່ວມມັກຈະຍັງຢູ່. ດ້ວຍການຕຽມເລັກນ້ອຍ ຜູ້ທີ່ຢູ່ໃນໄລຍະກາງຍັງສາມາດມີຄວາມສຸກໄດ້ຫຼາຍ ໂດຍສະເພາະກັບວຽກບ້ານທີ່ຄຸ້ນເຄີຍ ດົນຕີ ແລະຮູບພາບ ທີ່ເຮັດຄຽງຂ້າງທ່ານ.
 
-## What activities work well in middle-stage dementia?
+## ກິດຈະກຳໃດເໝາະກັບໄລຍະກາງຂອງໂຣກສະໝອງເສື່ອມ?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+ກິດຈະກຳທີ່ສັ້ນ ຄຸ້ນເຄີຍ ໃຊ້ມື ແລະແບ່ງເປັນຂັ້ນຕອນດຽວໆ ເຮັດວຽກໄດ້ດີທີ່ສຸດ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) ບອກວ່າທ່ານບໍ່ຈຳເປັນຕ້ອງຄິດສິ່ງໃໝ່ໆ: ກິດຈະກຳສາມາດເປັນສ່ວນໜຶ່ງຂອງຊີວິດປະຈຳວັນ ເຊັ່ນ ເຮັດອາຫານຄ່ຳນຳກັນ ເຮັດສວນ ຟັງເພງ ຫຼືອອກໄປຍ່າງ.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ໃຫ້ຂໍ້ສັງເກດວ່າຄົນໃນໄລຍະນີ້ມັກມີຄວາມຕ້ອງການຢາກຮູ້ສຶກວ່າມີຈຸດໝາຍ ຫຼືໄດ້ດູແລສິ່ງໃດສິ່ງໜຶ່ງ ແລະມັກຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການເລີ່ມ ຫຼືສືບຕໍ່ກິດຈະກຳ. ລາຍການໄລຍະກາງຂອງອົງການນີ້ລວມເຖິງການພັບເສື້ອຜ້າ ລ້າງຈານ ຈັບຄູ່ຖົງຕີນ ອອກກຳລັງກາຍງ່າຍໆ ເຕັ້ນຕາມເພງທີ່ຄຸ້ນເຄີຍ ການເດີນແບບມີຄົນນຳ ການຮ້ອງເພງນຳກັນ ການແຕ້ມຮູບງ່າຍໆ ແລະການເບິ່ງອັລບັ້ມຮູບ.
 
-## How do you set up an activity so it works?
+## ຈະຕັ້ງກິດຈະກຳໃຫ້ໄດ້ຜົນແນວໃດ?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+ກິດຈະກຳສ່ວນໃຫຍ່ຈະສຳເລັດຫຼືບໍ່ສຳເລັດ ຂຶ້ນກັບການຕຽມ. ນິໄສເຫຼົ່ານີ້ ທີ່ມາຈາກ [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ແລະ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ສ້າງຄວາມແຕກຕ່າງຫຼາຍທີ່ສຸດ:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **ເຮັດພື້ນທີ່ໃຫ້ໂລ່ງ.** ປິດໂທລະທັດ ປິດປະຕູ ແລະວາງພຽງສິ່ງທີ່ກິດຈະກຳຕ້ອງການອອກມາ.
+2. **ເລີ່ມເຮັດເອງ.** ເລີ່ມພັບ ຫຼືຂວນ ແລ້ວເຊີນເຂົາເຈົ້າເຂົ້າມາ: “ຊ່ວຍຂ້ອຍເຮັດອັນນີ້ໄດ້ບໍ?”
+3. **ສະແດງ ແລ້ວລໍຖ້າ.** ສາທິດຂັ້ນຕອນດຽວ ຊີ້ ຫຼືນຳມືໄປ ເຊັ່ນ ສະແດງວ່າຈານໄປວາງຢູ່ໃສ.
+4. **ໃຫ້ເທື່ອລະຂັ້ນຕອນ.** “ພັບເຄິ່ງໜຶ່ງ” ງ່າຍກວ່າ “ພັບພວກນີ້ ແລ້ວຈັດຊ້ອນຕາມສີ.”
+5. **ໃຫ້ສອງທາງເລືອກ ບໍ່ແມ່ນຄຳຖາມເປີດກວ້າງ.** “ເອົາຜ້າສີຟ້າ ຫຼືສີຂາວດີ?” ຕອບງ່າຍກວ່າ “ຢາກເຮັດຫຍັງ?”
+6. **ເຮັດສ່ວນທີ່ຍາກເອງ.** ທ່ານຕວງ ເຂົາເຈົ້າຄົນ. ທ່ານຮ້ອຍເຂັມ ເຂົາເຈົ້າຂົດເສັ້ນດ້າຍ.
+7. **ໃຫ້ເຫດຜົນ.** “ຜ້າເຊັດປາກພວກນີ້ແມ່ນສຳລັບອາຫານຄ່ຳວັນອາທິດ” ເຮັດໃຫ້ວຽກຮູ້ສຶກວ່າມີຄວາມໝາຍ.
+8. **ໃຫ້ເຂົາເຈົ້ານັ່ງເບິ່ງ ຖ້າຢາກເບິ່ງ.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ລະບຸວ່າການນັ່ງເບິ່ງກໍ່ສາມາດເປັນຄວາມສຸກໄດ້ເຊັ່ນກັນ.
 
-## Activity ideas for the middle stage
+## ໄອເດຍກິດຈະກຳສຳລັບໄລຍະກາງ
 
-### Useful jobs
+### ວຽກບ້ານທີ່ມີປະໂຫຍດ
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **ພັບຜ້າເຊັດໂຕ ແລະຜ້າເຊັດໜ້າ.** ສິ່ງຂອງທີ່ແບນແລະນ້ອຍມັກງ່າຍທີ່ສຸດ. ກະຕ່າຜ້າເຊັດໜ້າອຸ່ນໆສາມາດພັບ ລູບໃຫ້ກຽບ ແລະພັບໃໝ່ໄດ້.
+- **ຈັບຄູ່ຖົງຕີນ.** ເລີ່ມດ້ວຍບໍ່ກີ່ຄູ່ທີ່ແຕກຕ່າງກັນຫຼາຍ. ຈັດຕາມສີຢ່າງດຽວກໍ່ໄດ້.
+- **ລ້າງ ຫຼືເຊັດຈານທີ່ບໍ່ແຕກງ່າຍ.** ນ້ຳສະບູອຸ່ນໆເຮັດໃຫ້ມືສະບາຍ. ການເຊັດຈານໃນຂະນະນັ່ງຈະງ່າຍກວ່າສຳລັບຂາ.
+- **ຈັດໂຕະອາຫານ.** ມອບໃຫ້ເທື່ອລະປະເພດ ແລະຈັດຈານໜຶ່ງບ່ອນເປັນຕົວຢ່າງ.
+- **ຊ່ວຍເຮັດອາຫານຄ່ຳ.** ລ້າງມັນຝະລັ່ງ ຈີກຜັກກາດ ຫຼືຄົນໃນໝໍ້. ທ່ານຈັດການມີດ ແລະໄຟ.
+- **ກວາດ ປັດຝຸ່ນ ຫຼືເຊັດ.** ຜ້າສຳລັບເຊັດໂຕະ ໄມ້ກວາດອ່ອນໆສຳລັບລະບຽງ.
 
-See [household tasks](/activities/household-tasks/) for many more.
+ເບິ່ງ [ວຽກບ້ານໃນເຮືອນ](/activities/household-tasks/) ສຳລັບອີກຫຼາຍໄອເດຍ.
 
-### Music and movement
+### ດົນຕີ ແລະການເຄື່ອນໄຫວ
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **ຮ້ອງເພງທີ່ມັກແຕ່ກ່ອນ.** ເລີ່ມຮ້ອງເອງກ່ອນ ຫຼາຍຄົນຈະຮ່ວມຮ້ອງນຳໃນເພງທີ່ຮູ້ມາເປັນສິບປີ. ເບິ່ງ [ກິດຈະກຳດົນຕີ](/activities/music/).
+- **ເຕັ້ນຢ່າງອິດສະຫຼະ.** ໂຍກໄປມາ ຕົບມື ຫຼືເຄື່ອນໄຫວຕາມທີ່ສະບາຍ. ນັ່ງເຕັ້ນກໍ່ໄດ້.
+- **ໂຍນລູກປິ່ນ.** ມັນເຄື່ອນຊ້າ ແລະຈັບໄດ້ງ່າຍຈາກເກົ້າອີ້.
+- **ເດີນຊົມແບບມີຄົນນຳ.** ເດີນວົງສັ້ນໆທີ່ຄຸ້ນເຄີຍນຳກັນ ຈັບແຂນກັນຖ້າຊ່ວຍໄດ້.
 
-### Pictures and stories
+### ຮູບພາບ ແລະເລື່ອງລາວ
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **ເບິ່ງອັລບັ້ມຮູບນຳກັນ.** ໃຫ້ຄຳເຫັນໃນສິ່ງທີ່ເຫັນ ແທນການຖາມ: “ເບິ່ງລົດຄັນນັ້ນ. ເລົ່າໃຫ້ຟັງແດ່ສິ.” ເບິ່ງ [ກິດຈະກຳການຄິດຮອດອະດີດ](/activities/reminiscence/).
+- **ໃຊ້ບັດສົນທະນາ.** [ບັດສົນທະນາ](/games/conversation-cards/) ຈັບຄູ່ຮູບກັບຄຳຖາມເປີດກວ້າງທີ່ບໍ່ເປັນແບບທົດສອບ.
+- **ເບິ່ງໜັງເກົ່ານຳກັນ.** ເລືອກເລື່ອງທີ່ຄຸ້ນເຄີຍ ຢູ່ໃກ້ໆ ແລະຢຸດພັກເປັນລະຍະ.
 
-### Simple, pressure-free games
+### ເກມງ່າຍໆ ທີ່ບໍ່ກົດດັນ
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **ຈັບຄູ່ຮູບທີ່ສະແດງໃຫ້ເຫັນ.** [ຈັບຄູ່ຮູບ](/games/picture-pairs/) ໃຫ້ຮູບຢູ່ໃຫ້ເຫັນຕະຫຼອດ ດັ່ງນັ້ນມັນເປັນເລື່ອງຂອງການສັງເກດ ບໍ່ແມ່ນການຈື່.
+- **ຊອກຫາຮູບດຽວກັນ.** [ຊອກຮູບດຽວກັນ](/games/find-the-same/) ສະແດງຮູບໜຶ່ງ ພ້ອມພຽງສອງຫາສີ່ທາງເລືອກ.
+- **ຈັດປະເພດນຳກັນ.** [ຈັດປະເພດນຳກັນ](/games/sort-together/) ຄືການພັບເສື້ອຜ້າໃນໜ້າຈໍ: ແຕະຮູບ ແລ້ວແຕະກະຕ່າຂອງມັນ.
+- **ບິງໂກຮູບ.** [ບິງໂກຮູບ](/games/picture-bingo/) ເໝາະກັບງານລວມຄອບຄົວ ແລະກຸ່ມ.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+ຖ້າເກມເລີ່ມເຮັດໃຫ້ອຸກອັ່ງ ໃຫ້ຢຸດແລ້ວເຮັດສິ່ງອື່ນ. ເບິ່ງ [ວິທີຫຼິ້ນນຳກັນ](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## ປ່ຽນຄວາມກະວົນກະວາຍໃຫ້ເປັນກິດຈະກຳ
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+ການເຄື່ອນໄຫວທີ່ກະວົນກະວາຍ ຫຼືເກີດຊ້ຳໆ ມັກມີເຫດຜົນ. Family Caregiver Alliance ຊີ້ໃຫ້ເຫັນວ່າຄົນທີ່ເອົາເຄື່ອງອອກຈາກຕູ້ຊ້ຳໆ ອາດກຳລັງພະຍາຍາມຕອບສະໜອງຄວາມຕ້ອງການທີ່ຢາກຮູ້ສຶກວ່າຕົນຍຸ່ງ ແລະມີປະໂຫຍດ. Alzheimer's Association ແນະນຳໃຫ້ນຳພະລັງງານນັ້ນໄປສູ່ກິດຈະກຳທີ່ເໝາະສົມ ແທນການຢຸດມັນ.
 
-| What you see | Something to offer |
+| ສິ່ງທີ່ເຫັນ | ສິ່ງທີ່ຈະສະເໜີ |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| ຖູ ຫຼືແກະໂຕະ | ຜ້າຊຸບນ້ຳໜຶ່ງຜືນ ແລະຂໍໃຫ້ເຊັດໂຕະ |
+| ຂາສັ່ນ ຫຼືຕີນຕົບ | ດົນຕີທີ່ມີຈັງຫວະຊັດເຈນໃຫ້ຕີ ຫຼືຕົບຕາມ |
+| ເອົາຂອງອອກຈາກລິ້ນຊັກ ຫຼືຕູ້ | ກະຕ່າເສື້ອຜ້າ ຫຼືຜ້າເຊັດໜ້າໃຫ້ພັບ ແລະຈັດປະເພດ |
+| ຖາມຄຳຖາມດຽວກັນຊ້ຳ | ຄຳໝັ້ນໃຈ ແລ້ວເພງ ຫຼືວຽກທີ່ເຮັດນຳກັນ |
+| ຍ່າງໄປມາ | ການເດີນນຳກັນ ຫຼືວຽກທີ່ຕ້ອງຍົກຂອງ |
+| ຮູ້ສຶກບໍ່ສະບາຍໃຈໃນຊ່ວງບ່າຍແກ່ໆ | ວຽກທີ່ງຽບສະຫງົບ ຄຸ້ນເຄີຍ ໃນແສງທີ່ດີ; ເບິ່ງ [ຄວາມກະວົນກະວາຍຕອນບ່າຍແກ່](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## ເວລາໃດຄວນຢຸດ ຫຼືປ່ຽນວິທີ
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+ຢຸດເມື່ອເຫັນສັນຍານເມື່ອຍ ອຸກອັ່ງ ອາຍ ຫຼືເບື່ອ ເຊັ່ນ ບິດໄປບິດມາ ໜ້າຜາກ ຜັກສິ່ງຂອງອອກ ຫຼືເວົ້າວ່າ “ຂ້ອຍເຮັດບໍ່ໄດ້.” Alzheimer's Association ແນະນຳໃຫ້ລອງໃໝ່ໃນເວລາອື່ນຂອງມື້ ຫຼືເຮັດໃຫ້ກິດຈະກຳງ່າຍຂຶ້ນ. ຢ່າບັງຄັບ. ການປະຕິເສດອາດມາຈາກຄວາມຢ້ານ ຫຼືວຽກທີ່ຍາກເກີນໄປ; ເບິ່ງ [ເມື່ອເຂົາເຈົ້າເວົ້າວ່າບໍ່](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+ການຢຸດແຕ່ຕົ້ນກໍ່ເປັນເລື່ອງທີ່ດີ. ການນັ່ງຢູ່ນຳກັນພ້ອມຈອກຊາກໍ່ດີເຊັ່ນກັນ. ເມື່ອຄວາມສາມາດປ່ຽນໄປອີກ ໄອເດຍໃນ [ກິດຈະກຳໄລຍະທ້າຍ](/activities/late-stage/) ອາດເໝາະກວ່າ ແລະ [101 ກິດຈະກຳ](/activities/ideas/) ມີອີກຫຼາຍໃຫ້ລອງ.
