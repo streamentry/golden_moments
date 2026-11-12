@@ -1,7 +1,7 @@
 ---
 title: "Mbështetja e një personi me demencë që jeton vetëm"
 seoTitle: "Të jetosh vetëm me demencë: mbështetje për familjet"
-description: "Mbështetni një person me demencë që jeton vetëm me rutina të qëndrueshme, takime të pranuara paraprakisht dhe ndihmë praktike, duke mbajtur dëshirat dhe pavarësinë e tij në qendër."
+description: "Mbështetni një person me demencë që jeton vetëm me rutina të qëndrueshme, takime të pranuara dhe ndihmë praktike, duke respektuar dëshirat dhe pavarësinë e tij."
 section: caregiving
 order: 12
 updated: 2026-11-11

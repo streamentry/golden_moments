@@ -13,7 +13,7 @@ keyPoints:
   - "Reikalaujančias užduotis, išvykas ir maudymąsi planuokite rytą arba ankstyvą popietę."
   - "Dienos šviesa, kasdienis pasivaikščiojimas, mažiau vėlyvų miegų ir mažiau kofeino vėlyvą popietę gali padėti vakarams praeiti sklandžiau."
   - "Įjunkite šviesas prieš sutemas, sumažinkite triukšmą ir pereikite prie ramios, pažįstamos veiklos."
-  - "Vedami trumpą užrašų žurnalą, kad pastebėtumėte sukėlėjus, ir išlikite ramūs bei raminantys, kai neramumas prasideda."
+  - "Vesk trumpą užrašų žurnalą, kad pastebėtumėte sukėlėjus, ir išlikite ramūs bei raminantys, kai neramumas prasideda."
   - "Pasikonsultuokite su gydytoju dėl naujų ar blogėjančių simptomų: skausmas, infekcija ar vaistai gali turėti įtakos."
 faq:
   - q: "Kuriuo paros metu paprastai pasireiškia vakaro neramumas?"

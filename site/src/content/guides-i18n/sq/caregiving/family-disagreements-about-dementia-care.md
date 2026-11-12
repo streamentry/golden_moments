@@ -1,7 +1,7 @@
 ---
 title: "Kur familjet nuk pajtohen për kujdesin ndaj demencës"
 seoTitle: "Mosmarrëveshjet familjare për kujdesin ndaj demencës"
-description: "Një mënyrë e qetë për të diskutuar mosmarrëveshjet për kujdesin ndaj demencës: përfshini dëshirat e personit, ndani faktet nga supozimet, ndani detyrat dhe kërkoni ndihmë nga jashtë."
+description: "Mënyrë e qetë për të diskutuar mosmarrëveshjet për kujdesin ndaj demencës: përfshini dëshirat e personit, ndani faktet nga supozimet dhe ndani detyrat."
 section: caregiving
 order: 33
 updated: 2026-11-11

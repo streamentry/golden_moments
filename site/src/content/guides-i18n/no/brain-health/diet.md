@@ -1,33 +1,33 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND- og middelhavskost og demens: Hva forskningen sier"
+seoTitle: "MIND-kost og demens: Hva forskningen sier"
+description: "Hva forskningen sier om MIND- og middelhavskost og demens, hvorfor en stor studie ikke fant tydelig nytte, og hvordan du kan hjelpe en person med demens å spise godt."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Observasjonsstudier knytter middelhavsinspirert kost og MIND-kost til lavere
+  risiko for demens, men ikke konsekvent. En treårig randomisert studie av
+  MIND-kost, publisert i 2023, fant ingen signifikant forskjell i tenkeevne eller
+  hjerneskanninger sammenlignet med en kontrollditt. Ingen matvare eller
+  kosttilskudd er bevist å forebygge demens. For personer som lever med demens er
+  det viktigst å spise og drikke nok.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Noen, men ikke alle, studier som følger folk over tid, knytter middelhavs- og MIND-spisemønstre til lavere risiko for demens."
+  - "I en studie fra 2023 med 604 eldre voksne presterte de som fulgte MIND-kost, ikke bedre på tenkeprøver eller hjerneskanninger enn de som fulgte en kontrollditt, etter tre år."
+  - "National Institute on Aging sier at det ikke finnes bevis for at å spise eller unngå en bestemt matvare kan forebygge Alzheimers, og at ingen vitamin eller kosttilskudd er bevist å forebygge den."
+  - "Et kosthold rikt på grønnsaker, frukt, bønner, fullkorn og fisk støtter hjertehelsen og kan hjelpe mot risikoer som høyt blodtrykk og diabetes."
+  - "For personer som lever med demens betyr fingermat, kontrasterende tallerkener, rolige måltider og faste drikkepauser ofte mer enn en bestemt diett."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Forebygger MIND-kost demens?"
+    a: "Det er ikke vist. Observasjonsstudier knyttet MIND-kost til lavere risiko, men en treårig randomisert studie publisert i 2023 fant ingen signifikant forskjell i tenkeprøver eller hjerneskanninger mellom personer på MIND-kost og personer på en kontrollditt. Begge gruppene ble litt bedre og gikk ned omtrent like mye i vekt."
+  - q: "Hva er forskjellen mellom MIND-kost og middelhavskost?"
+    a: "Middelhavskosten vektlegger grønnsaker, frukt, fullkorn, bønner, fisk og olivenolje, med lite rødt kjøtt og søtsaker. MIND-kosten kombinerer den med DASH-kosten for blodtrykk og legger ekstra vekt på grønne bladgrønnsaker og bær, mens den begrenser rødt kjøtt, søtsaker, ost, smør og stekt mat."
+  - q: "Finnes det matvarer eller kosttilskudd som forebygger Alzheimers?"
+    a: "Nei. National Institute on Aging sier at det ikke finnes bevis for at å spise eller unngå en bestemt matvare kan forebygge Alzheimers eller aldersrelatert kognitiv svikt, og ingen vitamin eller kosttilskudd er bevist å forebygge Alzheimers. Snakk med lege før du tar kosttilskudd."
+  - q: "Hvilken mat er lettest for en person med demens å spise?"
+    a: "Små biter som kan spises med fingrene, som brødbiter, kyllingbiter, appelsinbåter eller dampede grønnsaksbiter, er ofte lettere enn å bruke bestikk. Hvis tygging eller svelging er vanskelig, kan myke retter som eggerøre, eplemos eller kesam hjelpe. Spør legen om en svelgevurdering hvis personen hoster eller kveler."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +58,146 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Du har kanskje lest at en «hjernesunn» kost kan holde Alzheimers unna. Bildet er mer
+beskjedent. Noen spisemønstre er knyttet til lavere risiko i studier som følger folk over
+tid, men den beste studien så langt fant ingen tydelig nytte. Denne siden forklarer begge
+deler, og går deretter over til det som oftest er viktigst for en person som allerede
+lever med demens: å spise og drikke nok, og å kunne nyte maten.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Dette er generell informasjon, ikke medisinsk råd. Snakk med lege eller klinisk
+ernæringsfysiolog før du endrer din egen kost eller en annen persons. Se vår
+[medisinske ansvarsfraskrivelse](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Hva er middelhavskost og MIND-kost?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) beskriver dem slik
+([NIA om kost og Alzheimers](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Middelhavskost:** mye frukt, grønnsaker, fullkorn, bønner, fisk og sjømat, og
+  olivenolje, med små mengder rødt kjøtt, egg og søtsaker.
+- **MIND-kost** (Mediterranean–DASH Intervention for Neurodegenerative Delay): en blanding
+  av middelhavskost og DASH-kosten for blodtrykk. Den vektlegger grønnsaker, særlig grønne
+  bladgrønnsaker, bær, fullkorn, bønner, nøtter, fisk minst én gang i uken og olivenolje.
+  Den begrenser rødt kjøtt, søtsaker, ost, smør eller margarin, og stekt mat eller hurtigmat.
 
-## Do these diets lower dementia risk?
+## Senker disse kostholdene risikoen for demens?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Beviset er blandet. NIA sier at noen, men ikke alle, observasjonsstudier har knyttet
+middelhavs- og MIND-kost til lavere risiko for demens sammenlignet med et vestlig kosthold
+med mer rødt kjøtt, mettet fett og sukker.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Lancet-kommisjonen fra 2024 gjennomgikk forskningen grundigere
+([Lancet-kommisjonen](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- En gjennomgang av kohortstudier knyttet høy kostkvalitet til omtrent 20 % lavere risiko
+  for demens.
+- En større analyse av tre kohorter knyttet tettere etterlevelse av MIND-kost til lavere risiko.
+- Men en svensk studie som fulgte 28 025 personer i midtlivet i omtrent 20 år, fant ingen
+  lavere risiko med verken anbefalte kosthold eller en middelhavsinspirert kost.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Observasjonsstudier kan ikke bevise årsak og virkning. Folk som spiser slik, skiller seg ofte
+også på andre måter, som inntekt, utdanning, trening og tilgang til helsetjenester.
+Kommisjonen konkluderte med at det ikke finnes nok bevis for å si at sunt kosthold direkte
+forebygger demens, selv om rikelig med frukt og grønnsaker og færre ultraprosesserte
+matvarer er bra for mange helseforhold og påvirker risikofaktorer som fedme, diabetes og
+høyt blodtrykk. Kommisjonen tok ikke kosthold med på sin liste over
+[14 risikofaktorer](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Hva fant MIND-studien fra 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Den sterkeste testen så langt var en randomisert studie publisert i New England Journal of
+Medicine i 2023 ([MIND-kost-studien](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Hvem:** 604 voksne på 65 år og eldre i områdene rundt Chicago og Boston, uten
+  tenkeproblemer, som hadde en nær slektning med demens, var overvektige og hadde et mindre
+  sunt kosthold fra start.
+- **Hva:** i tre år fulgte halvparten MIND-kost, og halvparten fulgte sitt vanlige kosthold.
+  Begge gruppene ble bedt om å spise omtrent 250 kalorier mindre hver dag, og fikk jevnlig
+  veiledning fra klinisk ernæringsfysiologer.
+- **Resultat:** tenkeprøvene ble litt bedre i **begge** gruppene. Forskjellen mellom gruppene
+  var liten og **ikke statistisk signifikant**. Hjerneskanninger viste også lignende endringer
+  i begge gruppene.
+- **Vekt:** begge gruppene gikk ned omtrent 5 kilo (rundt 11 pund).
 
-### Why might the trial have found no difference?
+### Hvorfor fant kanskje studien ingen forskjell?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Forskerne foreslo flere grunner. Kontrollgruppen forbedret sannsynligvis også kostholdet sitt,
+siden den gikk ned omtrent like mye i vekt. Gjentatte tester kan i seg selv gi bedre resultater,
+ettersom folk blir vant til testene. Tre år kan være for kort tid. De fleste deltakerne var
+godt utdannet og av europeisk avstamning, så resultatene gjelder kanskje ikke alle.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Den ærlige oppsummeringen er altså: MIND-kost slo ikke en fornuftig kaloribegrenset kost over
+tre år. Det betyr ikke at sunn mat er meningsløst. Det betyr at ingen bør forvente at en bestemt
+diett forebygger demens.
 
-## What about specific foods and supplements?
+## Hva med spesifikke matvarer og kosttilskudd?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA sier at det ikke finnes bevis for at å spise eller unngå en bestemt matvare kan forebygge
+Alzheimers eller aldersrelatert kognitiv svikt. Blåbær, bladgrønnsaker og gurkemeie er alle
+studert, uten at det er bevist noe. NIA sier også at ingen vitamin eller kosttilskudd er bevist
+å forebygge Alzheimers, og at ingen anbefales til det formålet. NIA advarer om at ubevist
+produkter som selges for å forebygge Alzheimers, kan være utrygge, bortkastede penger, eller
+begge deler, og kan forstyrre foreskrevne medisiner, så sjekk med lege før du prøver noe
+([NIA om å forebygge Alzheimers](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Hvordan kan måltidene være sunne og hyggelige?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+For de fleste eldre er målet mat som er næringsrik, kjent og god, ikke en streng plan:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Bygg måltider rundt matvarer du liker** fra middelhavsmønsteret: grønnsaker, frukt,
+  bønner, fullkorn, fisk og olivenolje.
+- **Behold favorittgodbitene.** Nytelse og appetitt betyr noe, særlig senere i livet.
+- **Spis sammen med andre** når du kan. Felles måltider er god selskap.
+- **Lag mat sammen.** Å vaske grønnsaker eller røre i en kjele er en god felles aktivitet;
+  se [husarbeid](/activities/household-tasks/). En favorittoppskrift fra familien kan også
+  vekke [minner](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Eldre voksne bør ikke kutte kalorier eller gå ned i vekt uten å snakke med lege, og faste
+medfører ekstra risiko. Se vår [veiledning om faste](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Hvordan kan du hjelpe en person med demens å spise godt?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+For personer som lever med demens er det vanligvis viktigst å spise og drikke **nok**.
+Alzheimer's Association påpeker at folk kan glemme å spise, tro at de allerede har spist, eller
+bli overveldet av valgmuligheter, og at dårlig ernæring kan øke atferdssymptomer og føre til
+vekttap ([Alzheimer's Association om mat og spising](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Disse ideene kommer fra Alzheimer's Association, NIA og Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Tilby fingermat.** Små biter som er enkle å ta opp, som brødbiter, kyllingbiter, fiskepinner,
+   appelsinbåter eller dampet brokkoli, lar personen spise selv uten bestikk.
+2. **Bruk kontrast på bordet.** Endringer i synet kan gjøre det vanskelig å skille maten fra
+   tallerkenen. Hvite tallerkener eller skåler på en kontrasterende duk kan hjelpe. Unngå
+   mønstrede servise og duker.
+3. **Server én eller to matretter om gangen.** En full tallerken kan være overveldende.
+4. **Hold måltidene rolige.** Slå av TV-en, hold bordet enkelt, og gi god tid. NIA foreslår å
+   ikke haste eller presse.
+5. **Tilby små måltider og snacks ofte.** NIA foreslår mindre, hyppigere måltider og
+   kaloririke mellommåltider hvis personen ikke spiser nok
+   ([NIA-tips for å spise godt](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Hjelp med drikke.** Tilby små kopper med vann eller andre drikker gjennom dagen, pluss mat
+   med mye vann, som frukt, suppe, milkshake og smoothies. Hvis personen ikke vil ha vann, foreslår
+   NIA å prøve juice, smaksatt vann, buljong, melk, eller koffeinfri kaffe eller te.
+7. **Sjekk temperaturen.** En person merker kanskje ikke at mat eller drikke er for varm.
+8. **Tilpass redskaper og kopper.** Skåler i stedet for tallerkener, skjeer med store håndtak og
+   kopper med lokk kan gjøre spising lettere. Ikke bekymre deg for pent spising.
+9. **Gjør maten lettere å tygge og svelge.** Skjær maten i små biter, eller tilby myke retter.
+   Hvis personen hoster eller kveler under måltidet, si fra til legen.
+10. **Unngå å tvangsmate.** NIA påpeker at appetitten naturlig avtar i de sene stadiene av Alzheimers.
 
-### Signs to tell the doctor about
+### Tegn du bør si fra om til legen
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Vekttap, at personen nekter mat, tretthet eller svakhet kan være tegn på at noen ikke spiser nok.
+Alzheimer's Society påpeker at ømme tenner eller tannprotese, depresjon, forstoppelse og endringer
+i medisiner alle kan redusere appetitten
+([Alzheimer's Society om appetitt](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Tegn på uttørring som NIA lister opp, inkluderer tørr munn, svimmelhet, rask puls og
+hallusinasjoner ([NIA om vanlige medisinske problemer](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Snakk med lege
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Før du gjør store endringer i ditt eget kosthold, eller en annen persons, snakk med lege eller
+klinisk ernæringsfysiolog, særlig hvis du har diabetes, nyresykdom, svelgeproblemer eller nylig
+gått ned i vekt. For en person som lever med demens, spør hvor mye de bør ha som mål å spise og
+drikke hver dag, og om en ernæringsfysiolog eller kosttilskudd kan hjelpe.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Få akutt hjelp hvis noen kveler, eller har plutselig forvirring, kraftig svimmelhet eller besvimer.

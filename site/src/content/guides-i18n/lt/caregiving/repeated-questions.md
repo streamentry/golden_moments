@@ -65,7 +65,7 @@ Klausimas dažnai nešasi ir jausmą. [Alzheimerio asociacija](https://www.alz.o
 
 Atsakykite ramiai ir trumpai, tarsi tai būtų pirmas kartas.
 
-- **Atsakymas trumpas ir visada tas pats.** „Gydytojas priims 14 valandą. Aš būsiu su jumis.“ Nuoseklų atsakymą lengviau suprasti.
+- **Atsakymas trumpas ir visada tas pats.** „Gydytojas priims po pietų. Aš būsiu su jumis.“ Nuoseklų atsakymą lengviau suprasti.
 - **Atsakykite į jausmą.** „Jūs galvojate apie gydytoją. Vizitas bus šiandien po pietų, ir aš nuvešiu. Jums nieko daryti nereikia.“
 - **Naudokite šiltą balsą ir švelnų prisilietimą**, jei žmogus to mėgsta. Alzheimerio asociacija pataria išlikti ramiems ir nesiremti logika bei nesiginčyti.
 - **Atsakykite taip, kaip jie laukia**, tiek kartų, kiek reikia. Alzheimerio asociacija teigia, kad atsakymą reikia kartoti tiek kartų, kiek žmogus klausia.
@@ -82,7 +82,7 @@ Kol žmogus dar gali skaityti, parašytas atsakymas, kurį jis mato, dažnai pad
 
 | Įrankis | Kaip naudoti |
 | --- | --- |
-| Užrašas dideliais raidėmis | „Gydytojas šiandien 14 val. Jonas nuvežs.“ Padėkite ten, kur žmogus dažniausiai žiūri |
+| Užrašas dideliais raidėmis | „Gydytojas šiandien popiet. Jonas nuvežs.“ Padėkite ten, kur žmogus dažniausiai žiūri |
 | Lenta | Šiandienos planas trims ar keturioms eilutėms; kiekvieną rytą nuvalykite ir perrašykite |
 | Didelis laikrodis su diena ir data | Padeda atsakyti į „Kokia šiandien diena?“ ir „Ar jau laikas?“ |
 | Kalendorius | Kiekvieną dieną brūkšnelis; apibraukite artimiausią vizitą |
@@ -92,7 +92,7 @@ Kol žmogus dar gali skaityti, parašytas atsakymas, kurį jis mato, dažnai pad
 
 ## Kalbėkite apie įvykius arti jų laiko
 
-Minėti vizitą ar išvyką kelias dienas iš anksto gali virsti valandomis trunkančiais rūpestingais klausimais. [Globėjų aljansas](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ir Alzheimerio asociacija Los Andžele pataria kalbėti apie planus, ypač stresinius, pavyzdžiui vizitus pas gydytoją ar maudymąsi, tik prieš pat jų įvykimą. Tada pasakykite, kas vyks toliau, po vieną žingsnį.
+Minėti vizitą ar išvyką kelias dienas iš anksto gali virsti valandomis trunkančiais rūpestingais klausimais. Globėjų aljansas ir Alzheimerio asociacija Los Andžele pataria kalbėti apie planus, ypač stresinius, pavyzdžiui vizitus pas gydytoją ar maudymąsi, tik prieš pat jų įvykimą. Tada pasakykite, kas vyks toliau, po vieną žingsnį.
 
 ## Veikla, kuri gali nukreipti dėmesį
 

@@ -1,7 +1,7 @@
 ---
 title: "Shtrimi në spital me demencë"
 seoTitle: "Kujdesi në spital për një person me demencë"
-description: "Përgatituni për një qëndrim të planifikuar ose emergjent në spital me demencë: ndani preferencat e kujdesit, sillni sende të njohura dhe pajtohuni për hapat e daljes."
+description: "Përgatituni për një qëndrim spitalor me demencë: ndani preferencat e kujdesit, sillni sende të njohura dhe pajtohuni për hapat e daljes."
 section: caregiving
 order: 21
 updated: 2026-11-11
