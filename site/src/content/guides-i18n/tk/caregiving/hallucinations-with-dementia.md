@@ -61,7 +61,7 @@ Rahat boluň, adamdan duýgusyny soraň we garşylaşmazdan ynamdyryjy söz aýd
 
 Tejribe zyansyz we aljyrandyrmaýan bolsa, adamyň ýolunda gidiň. Pursaty synaga ýa-da adamdan görenini subut etmegi soramaga öwürmäň.
 
-Käbir adamlar tejribäni ynamdyryjy ýa-da tanyş görýärler. Adam rahat we howpsuz bolsa, mowzugy üýtgetmek ýa-da başga ýere alyp gitmek zerur bolmaz. Näme islәýändigini soraň; her şeýle pursady lukmançylyk gürrüňine öwürmäň. Eger ol aljyrasa, siz görmeýän zadyňyz bilen hem bolsa, şol duýguya jogap beriň.
+Käbir adamlar tejribäni ynamdyryjy ýa-da tanyş görýärler. Adam rahat we howpsuz bolsa, mowzugy üýtgetmek ýa-da başga ýere alyp gitmek zerur bolmaz. Näme isleýändigini soraň; her şeýle pursady lukmançylyk gürrüňine öwürmäň. Eger ol aljyrasa, siz görmeýän zadyňyz bilen hem bolsa, şol duýguya jogap beriň.
 
 ## Otagdaky zat adam ýa-da ses ýaly görünip biler mi?
 
@@ -72,7 +72,7 @@ Kömek isleseler, ýagdaýy adam bilen birlikde barlaň. [Alzheimer's Society ha
 - **Nagyşlara serediň.** Dykyz halyçasy, perdesi ýa-da diwar kagyzy hereket ýa-da zat ýaly bolup biler. Adam başga ýerden seredip ýa-da görnüşi üýtgedip bilmegini isleýärmi diýip soraň.
 - **Duýgy kömekçilerini barlaň.** Adam gözaýnak ýa-da eşidiş kömekçisi ulanýan bolsa, ol adaty ýaly elýeterlimi we işleýärmi diýip, kömek isleýärmi soraň.
 
-Tejribe şol bir ýerde ýüze çykýan bolsa, gaýtalanýan bir zady gözläň: penjiredäki şöhle, güçli ýer nagyşy, beýleki otagdan eşidilýän telewizor ýa-da agşam garaňkylygyndaky ýagtylyk. Duýgyda üýtgeme hasaplamazdan ozal hakyky ses ýa-da zat barmy diýip barlaň. Çäwdüş üýtgetseňiz, düşündiriň we adamdan ýagşy bolandygyny soraň.
+Tejribe şol bir ýerde ýüze çykýan bolsa, gaýtalanýan bir zady gözläň: penjiredäki şöhle, güçli ýer nagyşy, beýleki otagdan eşidilýän telewizor ýa-da agşam garaňkylygyndaky ýagtylyk. Duýgyda üýtgeme hasaplamazdan ozal hakyky ses ýa-da zat barmy diýip barlaň. Gurşawy üýtgedip görseňiz, düşündiriň we adamdan rahatlandyrýarmy diýip soraň.
 
 Bir wagtda bir kiçi üýtgeşme ediň. Soramazdan adamyň zatlaryny ýerinden götermäň ýa-da gymmatly zadyny aýyrmaň. Tanyş tertip we rahat, ýagtyly giň ýer has aňsat bolup biler.
 
@@ -94,7 +94,7 @@ Adam razy bolsa, idegiň topary üçin gysga bellikleri ýazyň:
 - otagyň nähili bolandygyny, ýagtylygy, kölegeleri, sesleri we ýanynda kimiň bolandygyny;
 - size mälim bolan täze keseli, duýgy ýa-da derman üýtgeşmesini.
 
-Adamyň öz sözlerini ulanyň we görenleriňizi beýan ediň. Mysal üçin, “penjiräniň ýanynda adam bar diýdi” ýazyň, hadysany ýorgunlyk bilen ýarlyk bermäň. Mümkin bolsa, bellikleri adam bilen razylaşyp paýlaşyň.
+Adamyň öz sözlerini ulanyň we görenleriňizi beýan ediň. Mysal üçin, “penjiräniň ýanynda adam bar diýdi” ýazyň, hadysa lukmançylyk ady bilen ýarlyk bermäň. Mümkin bolsa, bellikleri adam bilen razylaşyp paýlaşyň.
 
 Bu bellikler sebäbi diagnoz etmeýär. Eger tejribe birden aljyrama ýa-da ünsüň düýpli üýtgemegi bilen başlasa, ýazgy ýygnamagy garaşmazdan derrew kömek gözläň.
 

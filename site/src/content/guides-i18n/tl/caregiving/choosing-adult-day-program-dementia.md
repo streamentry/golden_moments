@@ -1,7 +1,7 @@
 ---
 title: "Pagpili ng Adult Day Program para sa Taong may Dementia"
 seoTitle: "Adult Day Care para sa Dementia: Ano ang Itatanong"
-description: "Ihambing ang adult day program para sa dementia ayon sa aktibidad, staff, suporta, sasakyan, at kagustuhan ng tao. Magtanong tungkol sa bayad at patakaran sa pagdalo."
+description: "Ihambing ang adult day program para sa dementia ayon sa aktibidad, staff, suporta, sasakyan, at kagustuhan ng tao. Magtanong tungkol sa bayad at pagdalo."
 section: caregiving
 order: 27
 updated: 2026-11-11

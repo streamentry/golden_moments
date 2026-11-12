@@ -1,7 +1,7 @@
 ---
 title: "Pagtulong sa Taong may Dementia na Uminom ng Sapat"
 seoTitle: "Dementia at Pag-inom: Mga Tip para sa Tagapag-alaga"
-description: "Tulungan ang taong may dementia na uminom nang sapat sa pag-aalok ng paboritong inumin sa buong araw. Magtanong sa doktor tungkol sa pangangailangan at bagong problema sa paglunok."
+description: "Tulungan ang taong may dementia na uminom nang sapat sa pag-aalok ng paboritong inumin sa buong araw. Magtanong sa doktor tungkol sa pangangailangan at paglunok."
 section: caregiving
 order: 23
 updated: 2026-11-11

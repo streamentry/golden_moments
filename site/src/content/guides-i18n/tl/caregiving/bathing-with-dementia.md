@@ -1,7 +1,7 @@
 ---
 title: "Pagtulong sa Taong may Dementia sa Paliligo"
 seoTitle: "Suporta sa Paliligo para sa Taong may Dementia"
-description: "Mga praktikal na paraan sa paliligo ng taong may dementia: protektahan ang privacy, mag-alok ng pagpipilian, ihanda ang kuwarto, at huminto o subukan ang iba kung kailangan."
+description: "Praktikal na paraan sa paliligo ng taong may dementia: protektahan ang privacy, mag-alok ng pagpipilian, ihanda ang kuwarto, at huminto kung kailangan."
 section: caregiving
 order: 14
 updated: 2026-11-11

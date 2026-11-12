@@ -1,7 +1,7 @@
 ---
 title: "Pag-uusap Tungkol sa Pagmamaneho at Dementia"
 seoTitle: "Dementia at Pagmamaneho: Simulan ang Usapan"
-description: "Simulan ang mahinahon at maagang pag-uusap tungkol sa pagmamaneho at dementia. Magplano ng transportasyon, itala ang alalahanin, at isali ang kwalipikadong propesyonal."
+description: "Simulan ang mahinahong, maagang pag-uusap tungkol sa pagmamaneho at dementia. Magplano ng transportasyon, itala ang alalahanin, at isali ang propesyonal."
 section: caregiving
 order: 19
 updated: 2026-11-11
