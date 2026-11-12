@@ -316,9 +316,9 @@ This English guide adds no app or site behavior. Automated checks validate the p
 
 This is a copy-only safety clarification. Static ARB checks and widget tests can verify the regional labels, but they cannot confirm that every translation or emergency resource is appropriate for a caller's location. No local Flutter, caregiver, native-speaker or device review was completed. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
 
-## Round 90 score update (2026-11-11): mobile visual audit
+## Mobile visual audit score note (2026-11-11; separate maintenance review)
 
-App dimensions were re-measured on this branch with Flutter 3.47.7: the full suite (counts in the PR), strict analysis (clean), `test/design_system_test.dart` and the 200% text tests pass. No `site/` file changed, so the website parts carry forward from Round 45 (1,855 tests, 12,491-page build, `check-site` 0 errors). No new user-facing strings were added.
+This separate engineering review is not one of the 100 numbered, source-led improvements. App dimensions were re-measured on this branch with Flutter 3.47.7: the full suite (counts in the PR), strict analysis (clean), `test/design_system_test.dart` and the 200% text tests pass. No `site/` file changed, so the website parts carry forward from Round 45 (1,855 tests, 12,491-page build, `check-site` 0 errors). No new user-facing strings were added.
 
 | # | Dimension | Evidence | Score |
 | --- | --- | --- | --- |
@@ -332,3 +332,7 @@ App dimensions were re-measured on this branch with Flutter 3.47.7: the full sui
 | 8 | Verification health | Flutter suite and strict analysis measured here; site tests and build from Round 45 (no site change) | 10.0 |
 
 Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.4055 + 1.000 + 1.000 = **9.87**. Lowest dimension: localization at 9.37. The bar is met. Device, VoiceOver/TalkBack and caregiver checks are not verified and not scored.
+
+## Round 90 score note (2026-11-12)
+
+This content-only guide and internal link add no app behavior. Automated schema, build, checker and link checks confirm the route and source links, but do not show whether LGBTQ+ people with dementia, partners or chosen-family caregivers find the wording respectful or useful. No lived-experience, care-provider, clinician, native-speaker or live-browser review was done. Keep the latest measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this round.
