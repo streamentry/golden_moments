@@ -1,33 +1,34 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Бесплатне активности за штампање за особе са деменцијом"
+seoTitle: "Бесплатне активности за штампање: велика слова за деменцију"
+description: "Бесплатне активности за штампање за деменцију: слагалица речи великим словима, странице за бојење, картице за разговор и бинго, са саветима за штампу."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments нуди бесплатне активности за штампање за деменцију: слагалицу
+  речи великим словима, странице за бојење, картице за разговор са сликама и
+  бинго картице са сликама. Отворите било коју страницу игре и користите дугме
+  за штампање. Штампајте крупним, јасним словима на дебелом папиру, држите један
+  задатак по страници и ламинирајте странице које желите поново да користите.
+  Једноставни кућни материјали, као што су страница са животном причом или
+  дневни распоред, такође помажу.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Наше активности за штампање су бесплатне: Слагалица речи, Бојење, Картице за разговор и Бинго са сликама. Свака страница игре има дугме Штампај."
+  - "Штампајте крупним, јасним словима са јаким контрастом и држите један задатак по страници."
+  - "Дебео папир или картон лакше се држи и тешко се гужва. Ламинирајте странице да их поново користите са маркерима за суву таблу."
+  - "Кућни материјали, као што су страница са животном причом, дневни распоред или ознаке са сликама на вратима, једноставни су и корисни."
+  - "Одштампана страница је позив, а не домаћи задатак. Урадити део, или ништа, у реду је."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Да ли су ваше активности за штампање за деменцију бесплатне?"
+    a: "Да. Слагалица речи, странице за бојење, картице за разговор и бинго са сликама на овом сајту су бесплатни за коришћење и штампање. Отворите страницу игре и користите дугме за штампање."
+  - q: "Које активности за штампање су најбоље за деменцију?"
+    a: "Најбоље су једноставне, јасне и одрасле: слагалица речи великим словима са само речима које иду хоризонтално и вертикално, странице за бојење са јасним контурама, картице са сликама које покрећу разговор и бинго са сликама за групе. Прилагодите активност интересовањима и садашњим способностима особе и држите један задатак по страници."
+  - q: "Како да штампане материјале учиним лакшим за виђење и коришћење?"
+    a: "Користите велика, обична слова, тамну боју на белом или кремастом папиру и довољно простора. Штампајте на дебелом папиру или картону да страница остане равна, изаберите мат папир да смањите сјај, а користите даску или подлогу која не клизи да страница остане на месту. Ламинирање помаже да странице дуже трају."
+  - q: "Могу ли да штампам ваше активности за дом за старе или дневни програм?"
+    a: "Да. Особље за активности је добродошло да штампа наше странице за станаре и групе. Бинго са сликама је направљен за групе и укључује водитеља на екрану који можете приказати на телевизору или пројектору."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +53,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Понекад је најбоља активност лист папира и оловка за кухињским столом. Штампани материјали не треба пуњење, лозинке ни екран, а лако се носе на посету или у групу. Ова страница описује бесплатне активности за штампање на нашем сајту, како их штампати да буду лаке за виђење и држање, и неколико једноставних кућних материјала које породице и особље за активности често користе.
 
-## What free printable activities do you offer?
+## Које бесплатне активности за штампање нудимо?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Нудимо четири бесплатна материјала за штампање. Отворите било коју од ових страница игре и користите дугме **Штампај** да добијете верзију за штампу.
 
-| Printable | What it is | Good for |
+| Материјал | Шта је то | Погодно за |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Слагалица речи](/games/word-search/) | Слагалица са великим словима, где су речи само хоризонтално и вертикално | Тихо време са оловком; особа која је волела слагалице |
+| [Бојење](/games/coloring/) | Странице за бојење за штампање или бојење на екрану | Опуштено, креативно време; било која фаза уз помоћ |
+| [Картице за разговор](/games/conversation-cards/) | Картице са сликама и отвореним подстицајима за разговор по темама, без квиза | Посете, позиви, породични ручкови, групе за сећања |
+| [Бинго са сликама](/games/picture-bingo/) | Бинго картице са сликама уместо бројева, плус водитељ на екрану | Домови за старе, дневни програми, породична окупљања |
 
-### Large-print word search
+### Слагалица речи великим словима
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Слагалица речи](/games/word-search/) користи велика слова и држи речи само хоризонтално и вертикално, без дијагонала и речи уназад. Радите је заједно: једна особа чита реч са списка, а друга је тражи. Ако је проналажење речи тешко, пробајте да заокружите први слово сваке речи заједно или једноставно прочитајте списак речи наглас и причајте о свакој речи.
 
-### Coloring pages
+### Странице за бојење
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Бојење](/games/coloring/) странице могу се штампати за маркере или оловке у боји, или бојити на таблету додиривањем боје, а затим дела слике. За штампане странице понудите дебеле маркере и неколико боја истовремено. Видите наш [водич о уметности и занатству](/activities/arts-and-crafts/) за начине да бојење остане одрасло и опуштено.
 
-### Conversation cards
+### Картице за разговор
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Картице за разговор](/games/conversation-cards/) спајају јасну слику са отвореним подстицајем, као што је „Причајте ми о...“ или „Шта приметите?“ Написане су као отворени позиви, а не као квиз питања. Одштампајте сет, исеците картице и држите неколико у торби за посете или поред телефона за позиве. Добро функционишу и у групама [за сећања](/activities/reminiscence/).
 
-### Picture bingo cards
+### Бинго картице са сликама
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+Картице за [Бинго са сликама](/games/picture-bingo/) користе слике уместо бројева. Одштампајте по једну картицу за сваког играча и користите водитеља на екрану на лаптопу, телевизору или пројектору. Предлажемо да се извлачи све док свима не буду пуне картице, да нико не остане по страни. Видите [групне активности за домове за старе](/activities/care-home-groups/) за то како да водите сесију.
 
-## How do I print activities so they are easy to use?
+## Како штампати активности да буду лаке за коришћење?
 
-Small changes in how you print make a big difference.
+Мале промене у штампању праве велику разлику.
 
-### Make it easy to see
+### Учините да се лако види
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Велико, обично слово.** Користите највећу величину која и даље стаје на страницу. Избегавајте украшене или руком писане фонтове.
+- **Јак контраст.** Тамна боја на белом или кремастом папиру. Избегавајте бледо сиве или обојене позадине.
+- **Мат папир** смањује сјај под јаким светлом.
+- **Проверите наочаре и осветљење.** Alzheimer's Association напомиње да проблеми са видом и слухом могу отежати комуникацију и предлаже редовне провере. Јака, равномерна лампа такође помаже.
 
-### Make it easy to hold
+### Учините да се лако држи
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Дебео папир или картон** остаје раван, лакши је за подизање и издржи поновљену употребу.
+- **Даска за писање** или подметач који не клизи држе страницу на месту.
+- **Дебели маркери или дебеле оловке** лакше се држе него танке.
 
-### Make it reusable
+### Учините да се може поново користити
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Ламинирајте странице** или их ставите у провидне фолије. Користите маркере за суву таблу на слагалицама речи и бинго картицама, па обришите.
+- **Изаберите мат фолије** ако је сјај проблем, а **заобљите ивице** ламинираних картица маказама да буду пријатније за руковање.
+- **Чувајте фасциклу** са омиљеним страницама да не штампате исту страницу сваке недеље.
 
-### Keep it simple
+### Држите то једноставним
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Један задатак по страници.** Једна слагалица или једна слика, а не више активности нагураних заједно.
+- **Довољно белог простора.** Преплављена страница може деловати претешко.
+- **Без упутстава за читање, где је могуће.** Покажите особи шта да ради.
+- **Смањите листове.** Ако је цела страница превише, исеците је на пола или је преклопите да се види само део.
 
-## Other useful printables you can make at home
+## Друге корисне штампане материјале које можете направити код куће
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Није сваки користан штампани материјал игра. Ови се лако праве уз текст процесор и штампач.
 
-### A life-story page
+### Страница са животном причом
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Једна страница „о мени“ са фотографијом, именом по којем особа воли да је зову, местом где је одрасла, послом, породицом, омиљеном храном, музиком и стварима које умирују или узнемиравају. Dementia Australia предлаже [књигу сећања](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) са детаљима о животу особе, њеним навикама и важним људима, која помаже посетиоцима и неговатељима и подстиче разговор.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Посебно је корисна у болницама и новим установама. NIA препоручује да особље болнице добије [лични информативни лист](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) који покрива рутину особе, жељено име, навике и непријатности, могуће окидаче и невербалне знаке бола.
 
-### A daily schedule
+### Дневни распоред
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Велики, једноставан распоред за дан са временима, неколико речи и малом сликом за сваки део: доручак, шетња, ручак, одмор, музика, вечера. Дневни план неге Alzheimer's Association ([daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan)) предлаже планирање око најбољих доба дана особе, редовно буђење и време за спавање и равнотежу активности и одмора. Окачите га на висину очију, можда на фрижидер, и држите га флексибилним. Видите наш [водич о дневној рутини](/activities/daily-routine/) за више.
 
-### Picture labels for rooms and drawers
+### Ознаке за собе и фиоке
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA предлаже коришћење јарко обојених знакова или једноставних слика да [означите купатило, спаваћу собу и кухињу](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Иста идеја функционише и за фиоке и ормариће: слика чарапа на фиоци за чарапе, шоље на ормарићу за шоље. Одштампајте, ламинирајте и залепите.
 
-### A sorting set
+### Сет за слагање
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Одштампајте слике из две једноставне категорије, као што су воће и цвеће или алат и кухињски предмети, на картон. Исеците их и сложите у две корпе заједно. Верзија ове активности на екрану је [Разврставање заједно](/games/sort-together/).
 
-### Song lyric sheets
+### Листови са текстом песама
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Одштампајте речи неколико омиљених песама у веома великом слову за певање. Чак и они који више не читају много могу уживати држећи лист.
 
-### A family photo page
+### Страница са породичним фотографијама
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Једна страница са четири до шест великих породичних фотографија, са именом испод сваке. Може стајати на столу да је свако узме и прича о њој. Ознаке помажу посетиоцима и особљу да се укључе у разговор, а нико не мора да пита „Ко је ово?“
 
-### A recipe card
+### Карта рецепта
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Одштампајте омиљени породични рецепт великим словима. Користите га да заједно кувате или само да причате о јелима из прошлости.
 
-## How do I offer a printable without it feeling like homework?
+## Како понудити штампани материјал а да не делује као домаћи задатак?
 
-Present it as something to share, not a test.
+Представите га као нешто за дељење, а не као тест.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Седите и почните сами.** „Ја радим ову слагалицу речи. Хоћете ли да ми помогнете да нађем ‘башта’?“
+- **Радите заједно.** Смењујте се, или један тражи а други заокружује.
+- **Никад не означавајте тачно или нетачно.** Водич Alzheimer's Association о [активностима код куће](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) саветује да се фокусирате на процес, а не на резултат, и на уживање, а не на постигнуће.
+- **Оставите странице на видику.** Исти водич предлаже стављање албума са фотографијама, сећања или старих часописа на места до којих се лако стиже. Одштампане картице и странице са фотографијама могу стајати на бочном столу на исти начин.
+- **Станите кад год желите.** Пола странице за бојење је лепо поподне. Исто тако је и склонити страницу и попити шољу чаја.
 
-## Where to find more
+## Где наћи још
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Прегледајте све наше [игре и штампане материјале](/games/), или погледајте [активности за сваку фазу](/activities/ideas/) за више идеја, са и без папира.
