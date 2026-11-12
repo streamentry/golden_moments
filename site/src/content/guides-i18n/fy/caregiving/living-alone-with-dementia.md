@@ -58,7 +58,7 @@ As ferskate minsken helpe, makkje dan ôfspraak wa’t elke taak docht en hoe’
 
 Kies aktiviteiten en kontakt dy’t de persoan noflik fynt. Dat kin in wekelikse tillefoantsje wêze, in besite fan in buorman, in mienskiplike miel, in fertroude klub of in wandeling mei immen dy’t de persoan fertrouwt. Freegje de persoan hokker opsjes wolkom oanfielt; gean der net fan út dat mear besikers of groepen altyd better binne.
 
-Regelmjittige sosjale tiid kin de wike mear herkenber meitsje en de persoan wat jaan om nei út te sjen. As it reizgjen nei in aktiviteit lestich wurdt, tink dan oan in tillefoantsje, in rit fan in fertroude persoan of in lytser evenemint tichterby hûs. Us gids oer [sosjale ferbining](/brain-health/social-connection/) hat lege-druk manieren om kontakt te hâlden.
+Regelmjittige sosjale tiid kin de wike mear herkenber meitsje en de persoan wat jaan om nei út te sjen. As it reizgjen nei in aktiviteit lestich wurdt, tink dan oan in tillefoantsje, in rit fan in fertroude persoan of in lytser evenemint tichterby hûs. Us gids oer [sosjale ferbining](/brain-health/social-connection/) hat rêstige manieren om kontakt te hâlden.
 
 ## Hoe merke wy dat it plan feroare moat?
 
@@ -66,7 +66,7 @@ Der is gjin ienige kontrolelist dy’t bepaalt oft immen alinne wenje kin. Let y
 
 Freegje de persoan wat se opmurken hawwe. Biede ien praktyske feroaring oan en kontrolearje oft it helpt. As der werhelle soargen binne oer miel, medisinen, finânsjes, mobiliteit of hûsfeiligens, freegje de persoan dan oft se mei har dokter of in soarchprofessional prate wolle. In formele beoardieling kin helpe om stipe-opsjes te finen; it fereasket net dat de persoan elk foarstel aksepteart.
 
-As de persoan net wis is oer help, begjin dan lyts. Se kinne in wekelikse boadskippenlevering leaver hawwe as in soarchjouwer thús, of help mei papierwurk mar net mei persoanlike soarch. Lit se meidwaan by it kiezen fan de persoan dy’t helpt en wannear’t besites plakfine. De [gids oer hûsfeiligens](/caregiving/home-safety/) jout ferhuzingsferoarings keamer foar keamer as de soarch oer it hûs sels giet.
+As de persoan net wis is oer help, begjin dan lyts. Se kinne in wekelikse boadskippenlevering leaver hawwe as in soarchjouwer thús, of help mei papierwurk mar net mei persoanlike soarch. Lit se meidwaan by it kiezen fan de persoan dy’t helpt en wannear’t besites plakfine. De [gids oer hûsfeiligens](/caregiving/home-safety/) jout feroaringen keamer foar keamer as de soarch oer it hûs sels giet.
 
 ## Wat as de persoan gjin help wol?
 

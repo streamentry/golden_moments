@@ -52,7 +52,7 @@ De [tips oer hûsfeiligens fan de Alzheimer’s Society](https://www.alzheimers.
 ### Ingongen, gongen en treppen
 
 - **Meitsje de rûte maklik te sjen.** Kontrolearje oft ingongen, treppen en it paad tusken de sliepkeamer en de badkeamer stadich ljocht hawwe. In nachtljocht of in ljocht mei bewegingssensor kin helpe as de persoan nachts faak oerein is.
-- **Hâld de rûtes frij.** Ferwiderje los snoer, rommel en dingen wêr’t men maklik oer struikelt. Kontrolearje oft matten platlizze; ferwiderje of befeilige ien allinnich as er in probleem jout.
+- **Hâld de rûtes frij.** Ferwiderje los snoer, rommel en dingen wêr’t men maklik oer struikelt. Kontrolearje oft matten platlizze; ferwiderje of befeilige ien allinnich as dat in probleem jout.
 - **Sjoch nei feroaringen fan flierhichte.** As in trep of drumpel min opfalt, freegje dan in ergoterapeut of in hûsfeiligensprofessional hokker feroaring de sichtberens ferbetterje sûnder in oare râne om oer te struikeljen te meitsjen.
 - **Hâld fertroude foarwerpen dêr’t se sin hawwe.** In stoel, lampe of gewoan brûkt foarwerp kin helpe by it folgjen fan in routine. Alles ferpleatse foar in tidiger uterlik kin de rûte mear frjemd meitsje.
 
@@ -60,7 +60,7 @@ De [tips oer hûsfeiligens fan de Alzheimer’s Society](https://www.alzheimers.
 
 - **Kontrolearje it gebrûk fan apparaten.** As der in probleem west hat mei it fornuis of in oar apparaat, sykje dan nei feiligensopsjes dy’t foar dat spesifike apparaat ûntworpen binne. De Alzheimer’s Association neamt automatyske utskeakeljingsfunksjes en fornuisfeiligensapparaten as mooglikheden. Freegje foar feroaring oan gas- of elektrysk apparatuer om kwalifisearre advys.
 - **Hâld medisinen en net-iten guod apart fan iten.** De Association riedt oan medisinen feilich te bewarjen, en net op in tafel of ierdbakje lizzen te litte. As de persoan har medisinen sels beheart, freegje dan in apotheker of sûnensprofessional om in plan dat dy routine beskermet.
-- **Bewarje skjinmakmiddels en gefaarlike produkten feilich.** Hâld se yn de oarspronklike ferpakking, fuort fan iten en bûten berik as dat nedich is. Gjitte gjin gemikaliën yn in drinkfles of fiedselpot.
+- **Bewarje skjinmakmiddels en gefaarlike produkten feilich.** Hâld se yn de oarspronklike ferpakking, fuort fan iten en bûten berik as dat nedich is. Set gemikaliën net yn in drinkfles of fiedselpot.
 - **Hâld nuttige keukenguod beskikber.** In feilige ynrjochting moat de persoan taken dy’t se wol en graach dogge, sa folle mooglik yn steat stelle om troch te gean. As jo in kast of apparaat feroarje, forklearje de feroaring en kontrolearje oft it betizing feroarsaket.
 
 As de soarch komt by in dielde karweitsje, hat ús [gids oer húshâldlike taken](/activities/household-tasks/) ideeën om de taak oan te passen wylst de persoan belutsen bliuwt.
@@ -85,7 +85,7 @@ As de soarch komt by in dielde karweitsje, hat ús [gids oer húshâldlike taken
 - **Hâld in list mei noadkontakten maklik te finen.** Nim it plaatslike noadnûmer, de wichtichste kontakten fan de persoan en alle ynformaasje op dy’t in fertroude helper nedich hawwe kin. Set gjin privee details dêr’t in besiker se sjen kin.
 - **Kontrolearje it paad bûtendoar.** Sykje nei min ljocht, ûnfleate oerflakken, slangen of ark op in paad. Meitsje de feroarings ien foar ien, sadat fertroude rûtes werkenber bliuwe.
 
-Foar nachtroutines hat de [sliepgids](/brain-health/sleep/) mear oer sltypen en fertroude jûnsgewoanten.
+Foar nachtroutines hat de [sliepgids](/brain-health/sleep/) mear oer sliepferoaringen en fertroude jûnsgewoanten.
 
 ## Hoe kin ik feroarings respektfol hâlde?
 
@@ -93,14 +93,14 @@ Feiligens en selsstannigens moatte tegearre wurkje. As in feroaring foarkomt dat
 
 As it kin, forklearje in feroaring foardat jo it dogge en jou de persoan tiid om der oan wend te reitsjen. De Alzheimer’s Society advisearret om te tinken oft apparatuer feilich is om alinne te brûken, oft ynstallaasje nedich is en oft it in oare húshâldlike taak lestiger meitsje kin. Freegje de persoan wat se nei de feroaring opmerke. As se de keamer mije of ophâlde mei in ding dat se weardearje, pas dan de plan oan.
 
-Besjoch it hûs opnij as routines, beweging of sicht feroare, of nei in ûnfal dat net folslein misgien is. In keamer dy’t ferline moanne goed wurke, hat miskien no in oar ljocht of in dúdliker paad nedich. Jo kinne in koarte list hâlde fan wat feroare is en wat noch wurket, yn plak fan it hiele hûs yn ien kear opnij yn te rjochtsjen.
+Besjoch it hûs opnij as routines, beweging of sicht feroare, of nei in hast-ûngelok. In keamer dy’t ferline moanne goed wurke, hat miskien no in oar ljocht of in dúdliker paad nedich. Jo kinne in koarte list hâlde fan wat feroare is en wat noch wurket, yn plak fan it hiele hûs yn ien kear opnij yn te rjochtsjen.
 
 ## Wa kin helpe mei thúsoanpassingen?
 
-In ergoterapeut kin beoardielje hoe’t de persoan troch it hûs beweecht en apparatuer of feroarings foar deistige taken foarstelle. Ôfhinklik fan de soarch kinne ek in fysiotherapeut, wykferpleechkundige, apotheker of wenningprofessional helpe. De Alzheimer’s Society merkt op dat in ergoterapeut yn it Feriene Keninkryk fia de hûsartS, it sikenhûs of in lokale maatskiplike soarch beskikber wêze kin; de rûtes ferskille elders. Foar in ynstallaasje of feroaring oan gas-, elektryske, konstruktive of brânfeiligensapparatuer, brûk in kwalifisearre lokale professional.
+In ergoterapeut kin beoardielje hoe’t de persoan troch it hûs beweecht en apparatuer of feroarings foar deistige taken foarstelle. Ôfhinklik fan de soarch kinne ek in fysiotherapeut, wykferpleechkundige, apotheker of wenningprofessional helpe. De Alzheimer’s Society merkt op dat in ergoterapeut yn it Feriene Keninkryk fia de hûsarts, it sikenhûs of in lokale maatskiplike soarch beskikber wêze kin; de rûtes ferskille elders. Foar in ynstallaasje of feroaring oan gas-, elektryske, konstruktive of brânfeiligensapparatuer, brûk in kwalifisearre lokale professional.
 
 As jo hierje, freegje de ferhierder of wenningferiening foardat jo permanente feroarings meitsje. In pleatslike ferdwaande of hannicapte tsjinst kin ferklearje hokker beoardielingen of stipe beskikber binne. As in probleem dringend is, pak dan earst dat spesifike gefaar oan en freegje om profesjonele help foar alles wêrfan jo net wis binne hoe’t jo it feilich feroarje moatte.
 
 ## Hoe faak moat ik it hûs opnij besjen?
 
-Besjoch it opnij as in fertroude taak lestiger wurdt, beweging of sicht feroaret, of der in ûnfal ticht by is. Begjin mei de keamer of routine dy’t mei dy feroaring ferbûn is. Jo hoege net elk punt op in kontrolelist ôf te meitsjen; hâld wat goed wurket en besjoch ien praktyske feroaring tagelyk opnij. As der al in fal west hat, dan giet ús [gids oer wat te dwaan nei in fal](/caregiving/responding-after-a-fall-with-dementia/) oer de direkte stappen en fierdere opfolging.
+Besjoch it opnij as in fertroude taak lestiger wurdt, beweging of sicht feroaret, of der in hast-ûngelok bard is. Begjin mei de keamer of routine dy’t mei dy feroaring ferbûn is. Jo hoege net elk punt op in kontrolelist ôf te meitsjen; hâld wat goed wurket en besjoch ien praktyske feroaring tagelyk opnij. As der al in fal west hat, dan giet ús [gids oer wat te dwaan nei in fal](/caregiving/responding-after-a-fall-with-dementia/) oer de direkte stappen en fierdere opfolging.

@@ -58,7 +58,7 @@ Kies in tiid dêr’t genôch romte is om rêstich te gean. Hasten kin de taak s
 
 Lis de klean klear yn de folchoarder wêrop de persoan se oandwaan wol. Bied ien item tagelyk oan mei in koarte oanwizing, lykas “Hjir is jo shirt.” In breed begelieding lykas “Klaai dy oan” kin lestiger wêze om op te reagearjen. Pauzearje tusken de stappen, sadat de persoan tiid hat om te begripen en te reagearjen.
 
-Lit de persoan elk diel dwaan dat se kinne en wolle. As se net wis binne wat der folget, bied dan in herinnering oan of freegje oft help nuttich is. Tlû klean net oer harren hinne en beweegje har lichem sûnder tastimming net. As ien stap frustrearjend is, pauzearje en freegje wat it makliker meitsje soe. Soms is it genôch om letter opnij te besykjen.
+Lit de persoan elk diel dwaan dat se kinne en wolle. As se net wis binne wat der folget, bied dan in herinnering oan of freegje oft help nuttich is. Lûk klean net oer har hinne en beweegje har lichem sûnder tastimming net. As ien stap frustrearjend is, pauzearje en freegje wat it makliker meitsje soe. Soms is it genôch om letter opnij te besykjen.
 
 ## Hoe beskermje ik privacy en weardichheid?
 
@@ -84,6 +84,6 @@ As de persoan ynienen betize wurdt, sykje dan daliks medyske help fia de plaatsl
 
 Let op hokker diel fan de routine feroare is: klean kieze, se sjen, mei in sluiting omgean of it lichem yn lykwicht hâlde. Diel wat jo observearre hawwe mei de persoan en har dokter, as se dat akkoard fine. In nij probleem ferklearret de oarsaak net fan himsels. Gean der net fan út dat de persoan koppich of gedachteloos is.
 
-As jo thús of yn in soarchsetting helpe, freegje de persoan dan oft se wolle dat har foarkarren mei in oare helper dield wurde. In koarte notysje oer favoryte klean, de foarkar foar folchoarder en de oanwizing dy’t wurket, kin helpe dat oaren deselde routine folgje. Hâld de notysje priveefoar en wiskje it by as de wensken fan de persoan feroarje.
+As jo thús of yn in soarchsetting helpe, freegje de persoan dan oft se wolle dat har foarkarren mei in oare helper dield wurde. In koarte notysje oer favoryte klean, de foarkar foar folchoarder en de oanwizing dy’t wurket, kin helpe dat oaren deselde routine folgje. Hâld de notysje privee en wiskje it by as de wensken fan de persoan feroarje.
 
 De persoan bliuwt safolle as se wol de baas oer har klean. Bied allinnich de help oan dy’t se aksepteart, jou tiid en respektearje de keuzes dy’t foar har noflik fiele.

@@ -16,7 +16,7 @@ keyPoints:
   - "Feroarje gjin medisinen sûnder de klinikus fan de persoan."
 faq:
   - q: "Wat is in hallusinaasje?"
-    a: "In hallusinaasje is sjen, hearre, rûke, proeve of fiele fan wat net liket te kommen fan in bûtenste boarne. In echte skaad, patroan of lûd kin ek ferkeard ynterpretearre wurde. In famyljelid hoecht net te beslissen wat der oan de hân is."
+    a: "In hallusinaasje is sjen, hearre, rûke, proeve of fiele fan wat net liket te kommen fan in bûtenste boarne. In echte skaad, patroan of lûd kin ek ferkeard ynterpretearre wurde. In famyljelid hoecht net te besluten wat der oan de hân is."
   - q: "Moat ik tsjin immen mei demintie sizze dat wat se sjogge net echt is?"
     a: >-
       Stry net en bliuw net betoarje dat se ferkeard binne. Jo kinne earlik wêze en de gefoelens fan de persoan erkenne: “Ik sjoch gjinien, mar ik kin sjen dat dit angstich is. Ik bin hjir.”
@@ -54,7 +54,7 @@ Bliuw rêstich, freegje hoe’t de persoan him fielt en biede rêstgefoel oan s�
 
 - **Erken it gefoel.** Jo kinne sizze: “Ik sjoch gjinien, mar ik kin sjen dat dit angstich is. Ik bin hjir.” Dat is earlik en lit de persoan witte dat jo har serieus nimme.
 - **Hâld jo wurden koart.** In lang betoch of hieltyd weromkommende korreksje kin de spanning ferheegje. Lit de persoan beskriuwe wat se opmerke as se dat wolle.
-- **Bied in feroaring oan, forseer er net.** Freegje oft se earne oars sitte wolle, in oar ljocht oandwaan wolle of nei in fertroud liedsje harkje wolle. In ferhuzing nei in goed ferljochte, fertroude keamer kin helpe; stopje as de persoan net ferhuzje wol.
+- **Bied in feroaring oan, forseer net.** Freegje oft se earne oars sitte wolle, in oar ljocht oandwaan wolle of nei in fertroud liedsje harkje wolle. In ferhuzing nei in goed ferljochte, fertroude keamer kin helpe; stopje as de persoan net ferhuzje wol.
 - **Bliuw tichtby as se dat wolle.** Reitsje de persoan net ynienen oan. Freegje foardat jo in hân of in knuffel oanbiede.
 
 As de ûnderfining net skealik is en gjin spanning jout, folgje dan de lieding fan de persoan. Meitsje it momint gjin test en freegje har net om te bewizen wat se seagen.

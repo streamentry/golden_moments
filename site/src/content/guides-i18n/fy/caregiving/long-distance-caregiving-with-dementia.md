@@ -20,7 +20,7 @@ faq:
   - q: "Hoe kin ik koördinearje mei soargers dy’t tichtby wenje?"
     a: "Freegje de persoan wa’t se belutsen wolle hawwe. Mei ynstimming fan elkenien kies in kontakt foar routine-updates, in reserve en in dúdlike manier om urgente soargen oan te kaarten. Makkje ôfspraak hokker ynformaasje dield wurde mei."
   - q: "Kin in dokter my updates jaan oer de persoan?"
-    a: "Freegje it dokterspraktyk hokker tastimming of papierwurk se nedich hawwe foardat ynformaasje dield wurdt. Guon oanbieders fereaskje in frijjeftsjerklearring, en de regels ferskille. Dizze side kin jo juridyske befoegdheid net bepale."
+    a: "Freegje it dokterspraktyk hokker tastimming of papierwurk se nedich hawwe foardat ynformaasje dield wurdt. Guon oanbieders fereaskje in frijwaringsferklearring, en de regels ferskille. Dizze side kin jo juridyske befoegdheid net bepale."
   - q: "Wat moat ik dwaan by in besite?"
     a: "Freegje de persoan hoe’t se de tiid trochbringe wolle. As se it iens binne, kinne jo ek in pleatslike helper moetsje, in ôfspraak regelje of tsjinsten besjen. Lit tiid oer om tegearre te genietsjen."
   - q: "Wat as de stipe fan de persoan feroaret?"
@@ -71,7 +71,7 @@ De [Alzheimer’s Association advisearret reguliere kommunikaasje mei famylje, b
 
 ## Hokken ynformaasje kin in dokter of tsjinstferliener mei my diele?
 
-Freegje de dokter of tsjinstferliener hokker tastimming of papierwurk se nedich hawwe foardat se updates diele. De [Alzheimer’s Association merkt op dat in oanbieder miskien in frijjeftsjerklearring nedich hat foardat er mei in relatyf op ôfstân oer soarch praat](https://www.alz.org/help-support/caregiving/care-options/long-distance-caregiving). Formulieren en regels ferskille, dus freegje de oanbieder yn plak fan oan te nimmen dat in famyljebân tagong jout.
+Freegje de dokter of tsjinstferliener hokker tastimming of papierwurk se nedich hawwe foardat se updates diele. De [Alzheimer’s Association merkt op dat in oanbieder miskien in frijwaringsferklearring nedich hat foardat se mei in famyljelid op ôfstân oer soarch prate](https://www.alz.org/help-support/caregiving/care-options/long-distance-caregiving). Formulieren en regels ferskille, dus freegje de oanbieder yn plak fan oan te nimmen dat in famyljebân tagong jout.
 
 Respektearje de wensken fan de persoan oer wa’t ynformaasje krijt. Diel allinnich wat nedich is foar de ôfpraakte taak, en hâld kontaktgegevens en notysjes privee. As in juridysk dokumint of formele autoriteit belutsen is, freegje dan in kwalifisearre professional yn de lokaasje fan de persoan wat it dekt. Dizze gids bepaalt de juridyske autoriteit fan gjinien.
 

@@ -36,7 +36,7 @@ health: false
 
 As in famyljelid demintie hat, kinne relatiten it oer feiligens, soarch of de takomst net iens wêze. Ien persoan sjocht de deistige swierrichheden; in oar komt miskien minder faak del of tinkt noch oan hoe’t de persoan earder wie. Jild, ôfstân, wurk en famyljerollen kinne de druk fergrutsje. Konflikt is pynlik, mar it bewiist op himsels net dat immen minder soarget.
 
-De [Alzheimer’s Association-gids oer famyljekonflikten](https://www.alz.org/help-support/caregiving/resolving-family-conflicts) riedt oan sûnder skuld te harkjen, besprekken konkrete soarchtaken te besprekken en werom te kommen op it petear as de behoeften feroarje. [Dementia Australia](https://www.dementia.org.au/news/how-do-i-navigate-changes-my-relationships) merkt ek op dat famyljes it oer soarchbesluten net iens wurde kinne en miskien stipe fan bûten nedich hawwe. Dizze gids jout in manier om te praten; hy regelt gjin juridyske befoegdheid en beslút ek net wat de goede soarch is foar ien persoan.
+De [Alzheimer’s Association-gids oer famyljekonflikten](https://www.alz.org/help-support/caregiving/resolving-family-conflicts) riedt oan sûnder skuld te harkjen, konkrete soarchtaken te besprekken en werom te kommen op it petear as de behoeften feroarje. [Dementia Australia](https://www.dementia.org.au/news/how-do-i-navigate-changes-my-relationships) merkt ek op dat famyljes it oer soarchbesluten net iens wurde kinne en miskien stipe fan bûten nedich hawwe. Dizze gids jout in manier om te praten; hy regelt gjin juridyske befoegdheid en beslút ek net wat de goede soarch is foar ien persoan.
 
 ## Hoe hâlde wy de persoan yn it sintrum?
 

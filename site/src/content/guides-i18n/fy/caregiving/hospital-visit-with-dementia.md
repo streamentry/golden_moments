@@ -63,7 +63,7 @@ As de reis ûnferwachts is, beskriuw dan wat der barde, wannear’t it begûn is
 
 Lit it personiel witte dat de persoan demintie hat en hokker stipe normaal helpt. Freegje wa de haadkontakt wurde sil foar updates. As de persoan te wachtsjen stiet, kin in fertroude stim, in rêstich guod om nei te sjen of har bril of hearapparaten helpe, as it personiel sizze dat dy feilich brûkt wurde kinne.
 
-Folgje ynstruksjes fan it klinyske team. Foardat jo helpe mei iten, drinken, medisinen, rinnen of persoanlike soarch, kontrolearje by it personiel wat op dat stuit feilich is. Sykjen, drinkjen of behanneling yn it sikenhûs kin wat de persoan foar in tiid kin dwaan feroarje.
+Folgje ynstruksjes fan it klinyske team. Foardat jo helpe mei iten, drinken, medisinen, rinnen of persoanlike soarch, kontrolearje by it personiel wat op dat stuit feilich is. Tests of behanneling yn it sikenhûs kinne feroarje wat de persoan foar in skoft kin dwaan.
 
 ## Wat moat ik dwaan as de persoan ynienen oars liket?
 
