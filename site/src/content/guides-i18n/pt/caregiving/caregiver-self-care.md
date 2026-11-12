@@ -1,7 +1,7 @@
 ---
 title: "Autocuidado de quem cuida: descanso, apoio e sinais de esgotamento"
 seoTitle: "Autocuidado para cuidadores de demência: descanso e apoio"
-description: "Sinais de esgotamento do cuidador, como encontrar descanso e grupos de apoio, e linhas de ajuda gratuitas dos EUA, incluindo a Linha 24 horas da Alzheimer's Association e o Eldercare Locator."
+description: "Sinais de esgotamento do cuidador, descanso (respite), grupos de apoio e linhas de ajuda gratuitas dos EUA, como a da Alzheimer's Association."
 section: caregiving
 order: 7
 updated: 2026-10-25

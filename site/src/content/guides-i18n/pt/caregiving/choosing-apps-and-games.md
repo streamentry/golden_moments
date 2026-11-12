@@ -1,7 +1,7 @@
 ---
 title: "Como escolher aplicativos e jogos para demência"
-seoTitle: "Como escolher jogos e apps para demência: uma lista de verificação"
-description: "Uma lista de verificação para cuidadores escolherem aplicativos e jogos para demência: comece pelo objetivo, evite cronômetros e anúncios, confira a privacidade e leia as promessas com cuidado."
+seoTitle: "Como escolher apps e jogos para demência"
+description: "Lista de verificação para cuidadores: defina o objetivo, evite cronômetros e anúncios, confira a privacidade e leia as promessas com cuidado."
 section: caregiving
 order: 6
 updated: 2026-10-30

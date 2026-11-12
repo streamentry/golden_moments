@@ -1,7 +1,7 @@
 ---
 title: "Como configurar um tablet ou celular para alguém com demência"
 seoTitle: "Configure um tablet ou celular para alguém com demência"
-description: "Configuração passo a passo de tablet e celular para alguém com demência: travar em um só aplicativo, texto maior, menos notificações, uma tela inicial simples, volume e privacidade."
+description: "Configuração passo a passo de tablet e celular para alguém com demência: um só aplicativo, texto maior, menos notificações, tela simples e privacidade."
 section: caregiving
 order: 5
 updated: 2026-10-25

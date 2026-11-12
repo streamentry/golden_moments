@@ -1,7 +1,7 @@
 ---
 title: "Quando alguém com demência faz a mesma pergunta várias vezes"
 seoTitle: "Perguntas repetidas na demência: o que dizer e fazer"
-description: "Por que uma pessoa que vive com demência repete a mesma pergunta, formas calmas de responder, ferramentas simples que ajudam e quando uma mudança repentina exige o médico."
+description: "Por que a pessoa com demência repete perguntas, formas calmas de responder, ferramentas que ajudam e quando uma mudança repentina exige o médico."
 section: caregiving
 order: 9
 updated: 2026-10-31
