@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකුට සැහැල්ලු දෛනික චර්යාවක්"
+seoTitle: "ඩිමෙන්ශියා දෛනික චර්යාව: නම්‍යශීලී නියැදි දිනය"
+description: "ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු සඳහා නම්‍යශීලී නියැදි දිනයක්: ආහාර, ක්‍රියාකාරකම් සහ විවේකය ස්ථාවර රිද්මයකින්, සහ ඔබේම සැලැස්ම සකස් කර දුෂ්කර දින සඳහා එය අනුවර්තනය කරන ආකාරය."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  සැහැල්ලු දෛනික චර්යාවක් අවදි වීම, ආහාර, පෞද්ගලික සත්කාර සහ නිදා ගැනීම දළවශයෙන් එකම වේලාවන්හි තබා ගනී. ප්‍රධාන ක්‍රියාකාරකම පුද්ගලයා වඩාත් සජීවී වන වේලාවට තබා, ක්‍රියාකාරකම සහ විවේකය සමබර කරයි. පුද්ගලයාගේ ජීවිත කාලය පුරා පුරුදු වලින් එය ගොඩනඟන්න, අධික ලෙස පිරවීමට වඩා ලිහිල්ව තබා ගන්න, සෑම දිනකම හිරු එළිය සහ චලනය ලබා දෙන්න, සහ දිනය ඉල්ලා සිටින විට සැලැස්ම නිදහසේ වෙනස් කරන්න.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "ස්ථාවර වේලාවන් අවදි වීමට, ආහාරවලට, සත්කාරයට සහ නින්දට දවසට හුරුපුරුදු හැඩයක් ලබා දෙයි."
+  - "පුද්ගලයාගේ හොඳම දින වේලාවේ, බොහෝ විට උදෑසන, ප්‍රධාන ක්‍රියාකාරකම තබන්න."
+  - "සෑම මිනිත්තුවක්ම පුරවන්න එපා. විවේකය සහ නිශ්ශබ්ද කාලය ද චර්යාවේ කොටසකි."
+  - "හිරු එළිය, දෛනික චලනය, සහ දිනය ප්‍රමාද වීමේ දිගු නින්ද සහ ප්‍රමාද කැෆේන් වළක්වා ගැනීම දින අවසානයේ නොසන්සුන්කමට උපකාරී විය හැක."
+  - "චර්යාව රීතියක් නොව මාර්ගෝපදේශයකි. දුෂ්කර දිනවල ඕනෑම දෙයක් හුවමාරු කරන්න, කෙටි කරන්න හෝ මඟ හරින්න."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "ඩිමෙන්ශියාව ඇති කෙනෙකුට චර්යාවක් ප්‍රයෝජනවත් වන්නේ ඇයි?"
+    a: "පුරෝකථනය කළ හැකි දිනයක් අඩු තීරණ සහ අනපේක්ෂිත දේවල් ඇති කරයි, එය ඩිමෙන්ශියාව ඇති බොහෝ අයට සහනදායී වේ. ඇල්සයිමර් සංගමය සටහන් කරන්නේ සැලසුම් කළ දිනයක් ඔබට කළ යුත්තේ කුමක්ද යන්න සොයා ගැනීමට අඩු කාලයක් ගත කර, දෙදෙනාම භුක්ති විඳින දේවල් සඳහා වැඩි කාලයක් ගත කිරීමට ඉඩ දෙන බවයි. එය රැකබලා ගන්නන්ට තමන්ගේම දිනය පාලනය කර ගැනීමටද උපකාරී වේ."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා හොඳ දෛනික කාලසටහනක් කුමක්ද?"
+    a: "තනි නිවැරදි කාලසටහනක් නොමැත. හොඳ එකක් අවදි වීම, ආහාර සහ නිදා ගැනීම දළවශයෙන් එකම වේලාවන්හි තබයි, පෞද්ගලික සත්කාර සහ ප්‍රධාන ක්‍රියාකාරකම පුද්ගලයා හොඳම අවස්ථාවේ තබයි, ගෙදර පිටත හෝ ජනේලයක් අසල කාලය ඇතුළත් කරයි, සහ විවේකයට ඉඩ තබයි. පුද්ගලයා සැමවිටම ජීවත් වී ඇති ආකාරය වටා එය ගොඩනඟන්න."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකු දහවලට නිදා ගත යුතුද?"
+    a: "කෙටි විවේකයක් උපකාරී විය හැක, විශේෂයෙන් දිවා ආහාරයෙන් පසු. ජාතික වයෝවෘද්ධ ආයතනය දිගු නිදාගැනීම් සහ දින අවසානයේ නිදිමතට යාම වළක්වන ලෙස යෝජනා කරයි, මන්ද අධික ලෙස වෙහෙසට පත් වීම හෝ නින්ද ප්‍රමාණවත් නොවීම දින අවසානයේ නොසන්සුන්කමට එකතු විය හැක. නින්ද සැබෑ ගැටලුවක් නම්, ඔවුන්ගේ වෛද්‍යවරයා සමඟ කතා කරන්න."
+  - q: "ඔවුන් චර්යාව අනුගමනය කිරීමට ප්‍රතික්ෂේප කළොත් කුමක් කළ යුතුද?"
+    a: "දැනට එය අත්හරින්න, පසුව හෝ වෙනත් ආකාරයකින් නැවත උත්සාහ කරන්න. ප්‍රතික්ෂේප කිරීම අදහස් කළ හැක්කේ ඔවුන් වෙහෙසට පත්ව, අසනීපව, වේදනාවෙන් හෝ සරලව සූදානම් නොවී සිටීමයි. චර්යාව පිහිටා ඇත්තේ දිනය පහසු කිරීමටය, එබැවින් එය බලෙන් නොව නමා දෙන්න."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+සැහැල්ලු චර්යාවක් දිනයට හුරුපුරුදු හැඩයක් ලබා දෙයි: අවදි වීම, ආහාර, කුඩා ක්‍රියාකාරකමක්, විවේකය සහ නිදා ගැනීම දළවශයෙන් එකම වේලාවන්හි. එය තීරණ සහ අනපේක්ෂිත දේවල් අඩු කරන අතර, පසුව කුමක් කළ යුතුදැයි ඔබ සිතන මොහොතවලට සැලැස්මක් ලබා දෙයි. පහත චර්යාව නියැදියකි, රීතියක් නොවේ. එය ආරම්භක ස්ථානයක් ලෙස භාවිතා කර, ඔබ රැකබලා ගන්නා පුද්ගලයා වටා එය හැඩගස්වන්න.
 
-## Why does a daily routine help?
+## දෛනික චර්යාවක් උපකාරී වන්නේ ඇයි?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+ස්ථාවර චර්යාවක් උපකාරී වන්නේ හුරුපුරුදු රටා අලුත් ඒවාට වඩා අනුගමනය කිරීමට පහසු බැවිනි. [ඇල්සයිමර් සංගමය](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) පවසන්නේ සැලසුම් කළ දිනයක් කුමක් කළ යුතුද යන්න තීරණය කිරීමට අඩු කාලයක් ද, භුක්ති විඳින ක්‍රියාකාරකම් සඳහා වැඩි කාලයක් ද ලබා දෙන බවයි. අවදි වීමට සහ නිදා ගැනීමට නිතිපතා වේලාවන් නින්ද ගැටලු සහ දින අවසානයේ නොසන්සුන්කම සඳහා උපකාරී විය හැකි බවද එය සටහන් කරයි. [ජාතික වයෝවෘද්ධ ආයතනය](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) යෝජනා කරන්නේ සෑම දිනකම එකම වේලාවන්හි නාන, ඇඳුම් ඇඳ ගන්න සහ ආහාර ගන්න කියායි, එය සන්සුන් නිවසක කොටසක් ලෙසිනි. සහ [පවුල් රැකබලා ගන්නන්ගේ සංගමය](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ද එකම චර්යා පවත්වා ගැනීමට නිර්දේශ කරයි.
 
-## A sample gentle day
+## නියැදි සැහැල්ලු දිනයක්
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+වේලාවන් උදාහරණ පමණි. පුද්ගලයාගේම රිද්මයට ගැලපෙන පරිදි මුළු දිනයම ඉදිරියට හෝ පසුපසට ගෙන යන්න.
 
-| Time | What happens | Ideas | On a harder day |
+| වේලාව | සිදුවන දේ | අදහස් | දුෂ්කර දිනයක |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| පෙ.ව. 8:00 | අවදි වීම, සේදීම, ඇඳුම් ඇඳීම | සෑම දිනම එකම පිළිවෙල; ඇඳීමට පෙර ඇඳුම් ඇඳෙන පිළිවෙලට තබන්න | සරලව තබා ගන්න; පිරිසිදු කමිසයක් ප්‍රමාණවත් ය |
+| පෙ.ව. 8:45 | උදෑසන ආහාරය | කෝපි සහ පුවත්පත හඬ නගා කියවීම, හෝ ගුවන් විදුලිය | එකට නිශ්ශබ්දව ආහාර ගන්න, කතා කිරීමට බලකිරීමක් නැත |
+| පෙ.ව. 9:30 | ප්‍රධාන ක්‍රියාකාරකම | රෙදි නැමීම, බේක් කිරීම, උයන, කෙටි පිටතට යාම හෝ ඇවිදීම | කෙටි අනුවාදයක්, හෝ ඔබ එය කරන විට ඔවුන් බලා සිටීම |
+| පෙ.ව. 10:30 | නිශ්ශබ්ද කාලය | සංගීතය, ඡායාරූප ඇල්බමයක්, හෝ ජනේලය අසල වාඩි වීම | ප්‍රිය පුටුවක විවේක ගන්න |
+| පෙ.ව. 11:00 | දිවා ආහාරයට උදව් | එළවළු සෝදන්න, මේසය සකසන්න | ඔබ උයන්න; ඔවුන් ඔබ සමඟ සිටී |
+| පස්.12:00 | දිවා ආහාරය සහ පිරිසිදු කිරීම | මේසය පිසින්න, භාජන කිහිපයක් වියළන්න | වැඩ මඟ හරින්න |
+| පස්.1:00 | කෙටි විවේකය | පාද ඔසවා, මෘදු සංගීතය | එම ආකාරයටම |
+| පස්.2:00 | පිටත හෝ ක්‍රියාශීලී | ඇවිදීම, පිටත වාඩි වීම, පැලෑටි වතුර දැමීම, බැලූනයක් විසි කිරීම | හිරු එළිය සහිත ජනේලය අසල වාඩි වන්න |
+| පස්.3:00 | සමාජීය හෝ නිර්මාණශීලී | අමුත්තෙකු, ඇමතුමක්, [පින්තූර යුගල](/games/picture-pairs/), වර්ණ දීම, ක්‍රීඩා පත් | පානීයක් සහ කෑමක් එකට |
+| පස්.4:30 | සන්සුන් වීමේ කාලය | තිර වසන්න, විදුලි පහන් දල්වන්න, රෙදි කඩ නැමීම වැනි සන්සුන් කාර්යයක් | හුරුපුරුදු සංගීතය, අඩු ශබ්දය |
+| ප.ව. 5:30 | රාත්‍රී ආහාරය | කැවීමට හෝ මේසය සැකසීමට උදව් කරන්න | සරල, හුරුපුරුදු ආහාර |
+| ප.ව. 6:30 | එකට සන්ධ්‍යාව | අතීතය ගැන කතා කරමින් අතුරු කෑම, ක්‍රීඩා පත්, ප්‍රිය රූපවාහිනී වැඩසටහනක්, අත් මර්දනයක් | නිශ්ශබ්ද සහකාරිත්වය |
+| රාත්‍රී 8:00 | නිදා ගැනීමට පෙර චර්යාව | නෑම හෝ සේදීම, රාත්‍රී ඇඳුම්, මෘදු සංගීතය, අඩු ආලෝකය | සියල්ල කෙටි කරන්න; සුවය පළමුව |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+මෙම නියැදිය ඇල්සයිමර් සංගමයේම නියැදි සැලැස්මේ ආකෘතියට අනුගත වේ, එය ආරම්භක සහ මධ්‍ය අවධි සඳහා, පුද්ගලික සත්කාර සහ උදෑසන ආහාරයෙන් ගෘහ කාර්ය, ඇවිදීම්, සංගීතය, විවේකය සහ සංචාර හරහා රාත්‍රී ආහාරය, අතීතය මතක් කිරීම සහ නිදා ගැනීමට සූදානම් වීම දක්වා ගමන් කරයි.
 
-## How do you build your own routine?
+## ඔබේම චර්යාව ගොඩනඟන්නේ කෙසේද?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+සටහනකින් නොව, පුද්ගලයා සැමවිටම ජීවත් වී ඇති ආකාරයෙන් ආරම්භ කරන්න. ඇල්සයිමර් සංගමය සැලසුම් කිරීමට පෙර මේවා ගැන සිතන ලෙස යෝජනා කරයි:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **ඔවුන්ගේ කැමැත්ත, අකැමැත්ත, ශක්තීන් සහ උනන්දුව.**
+- **ඔවුන් පෙර දිනය ගත කළ ආකාරය.** ඉක්මනින් අවදි වූ, සෑම විටම සුනඛයා ඇවිද ගිය කෙනෙකු තවමත් උදෑසනම ඇවිදිය යුතුය. රාත්‍රියේ සැරිසරන කෙනෙකුට පෙ.ව. 8 ආරම්භය කිසි දිනක රසවත් නොවිය හැකිය.
+- **ඔවුන්ගේ හොඳම දින වේලාව.** නෑම, පිටතට යාම සහ ප්‍රධාන ක්‍රියාකාරකම එහි තබන්න.
+- **ආහාර, සේදීම සහ ඇඳීම සඳහා ප්‍රමාණවත් කාලය**, කිසිවක් තරහ නොවන පරිදි.
+- **නිතිපතා අවදි වීමේ සහ නිදා ගැනීමේ වේලාවන්.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+එම මූලාශ්‍රය ගෘහ කාර්ය, ආහාර, පෞද්ගලික සත්කාර, නිර්මාණශීලී ක්‍රියාකාරකම්, ශාරීරික ක්‍රියාකාරකම්, සමාජ කාලය, ආධ්‍යාත්මික ක්‍රියාකාරකම් සහ අනපේක්ෂිත මොහොත් (උදාහරණයක් ලෙස මිතුරෙකු පැමිණීම) මිශ්‍රණයක් ඇතුළත් කරන ලෙසද යෝජනා කරයි.
 
-### Try it for a week, then adjust
+### සතියක් උත්සාහ කර, පසුව සකසන්න
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+සෑම දිනකම සරල සටහනක් තබන්න. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ කුමන ක්‍රියාකාරකම වඩාත් හොඳින් ක්‍රියා කළේද සහ ඇයි, දිනයන්හි වැඩි වැඩියෙන් සිදුවීම් තිබුණාද හෝ කිරීමට අඩු දේ තිබුණාද, සහ අනපේක්ෂිත සැලසුම් භුක්ති විඳින ලද්දේද නැතහොත් කරදරයක් ඇති කළේද යන්න විමසන ලෙසයි. ක්‍රියා කළ දේ තබා ගන්න, ක්‍රියා නොකළ දේ වෙනස් කරන්න.
 
-### Make it visible
+### එය දෘශ්‍යමාන කරන්න
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+පුද්ගලයාට තවමත් කියවිය හැකි නම්, දින සැලැස්ම සහිත සුදු පුවරුවක් හෝ විශාල අකුරු කාඩ් පතක් සහනදායී විය හැක. එය කෙටිව තබන්න: “උදෑසන ආහාරය. සාරා සමඟ ඇවිදීම. දිවා ආහාරය. විවේකය.” සමහර අය ඉදිරියට කුමක් දැයි දැන නොසිටීමෙන් හොඳින් ක්‍රියා කරයි; පවුල් රැකබලා ගන්නන්ගේ සංගමය යෝජනා කරන්නේ කලබලයක් ඇති කරන්නේ නම්, සැලසුම් එය සිදුවීමට මොහොතකට පෙර පමණක් සාකච්ඡා කරන ලෙසයි.
 
-## How to adapt the routine
+## චර්යාව අනුවර්තනය කරන ආකාරය
 
-### Leave room to breathe
+### හුස්ම ගැනීමට ඉඩ තබන්න
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+සෑම මිනිත්තුවක්ම පුරවන්න එපා. ඇල්සයිමර් සංගමය අවධාරණය කරන්නේ පුද්ගලයාට ක්‍රියාකාරකම සහ විවේකය අතර සමබරතාවක් අවශ්‍ය බවත්, නිතර විවේක අවශ්‍ය විය හැකි බවත්ය. ඔවුන් කම්මැලි, අවධානය යොමු කර ගත නොහැකි හෝ කෝපයට පත් ලෙස පෙනුණොත්, ක්‍රියාකාරකම හෝ විවේකය වෙනස් කරන්න.
 
-### Protect the late afternoon
+### දින අවසානය ආරක්ෂා කරන්න
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+බොහෝ අය හිරු එළිය අඩු වන විට වැඩියෙන් නොසන්සුන් වේ. NIA යෝජනා කරන්නේ සෑම දිනකම හිරු එළිය සඳහා පිටත හෝ ජනේලය අසල කාලය, දිනපතා ක්‍රියාශීලී වීම, ප්‍රමාණවත් ලෙස සැලසුම් නොකර, දින අවසානයේ කැෆේන් සහ මත්පැන් වළක්වා ගැනීම, සහ දින අවසානයේ දිගු නිද්‍රා වළක්වා ගැනීමයි. අඳුර වීමට පෙර තිර වසා විදුලි පහන් දැල්වීම උපකාරී වන බව ඇතැම් පවුල්වලට ද පෙනී ගොස් ඇත. බලන්න [දින අවසාන නොසන්සුන්කම](/caregiving/late-day-restlessness/) සහ [නින්ද](/brain-health/sleep/).
 
-### Change it as needs change
+### අවශ්‍යතා වෙනස් වන විට එය වෙනස් කරන්න
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **ආරම්භක අවධිය:** චර්යාව එකට සැලසුම් කරන්න. පුද්ගලයා තමන්ම කළමනාකරණය කරන ලිඛිත කාලසටහනක් ගැන කැමති විය හැක.
+- **මධ්‍ය අවධිය:** ඔබ වැඩියෙන් මෙහෙයවන්න. කෙටි ක්‍රියාකාරකම්, වැඩි විවේකය සහ බොහෝ හුරුපුරුදු කාර්ය; [මධ්‍ය අවධියේ ක්‍රියාකාරකම්](/activities/middle-stage/) බලන්න.
+- **අවසාන අවධිය:** චර්යාව සුවය, ආහාර සහ සත්කාර වටා මධ්‍යගත වේ, ඒ අතර සංගීතය හෝ අත් මර්දනය වැනි කෙටි සංවේදී මොහොත් ඇත; [අවසාන අවධියේ ක්‍රියාකාරකම්](/activities/late-stage/) බලන්න.
 
-### Vary the activities, not the frame
+### ක්‍රියාකාරකම් වෙනස් කරන්න, රාමුව නොවේ
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+ආහාර, විවේකය සහ නිදා ගැනීම ස්ථාවරව තබා, ඒ අතර ක්‍රියාකාරකම් මාරු කරන්න. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) විවිධ දිනවල විවිධ ක්‍රියාකාරකම් උත්සාහ කරන ලෙස යෝජනා කරයි, එය සිත්ගන්නාසුලු තබා ගැනීමට. ඔබට සඳුදා බේක් කිරීමට, අඟහරුවාදා උයනේ වැඩ කිරීමට සහ බදාදා ඡායාරූප බැලීමට හැකිය. අපගේ [ක්‍රියාකාරකම් අදහස් 101](/activities/ideas/) සහ [ගෘහ කාර්ය](/activities/household-tasks/) මෙම කොටස් පිරවීමට උපකාරී විය හැක.
 
-## When the day goes sideways
+## දිනය ප්‍රතිවිරුද්ධ දිශාවට ගිය විට
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+සමහර දිනවල කිසිදු සැලැස්මක් අනුගමනය නොවේ. අසනීප වීම, නරක රාත්‍රියක්, වෛද්‍යවරයාගේ පැමිණීමක් හෝ කාලගුණයේ වෙනසක් සියල්ල වෙනස් කළ හැක. සැලැස්ම අත්හරින්න, මූලික දේවල් (ආහාර, පානීය, විවේකය, සුවය) තබා ගෙන හෙට නැවත උත්සාහ කරන්න. පුද්ගලයා යම් දෙයක් ප්‍රතික්ෂේප කරයි නම්, [ඔවුන් නැත කියන විට](/caregiving/when-they-say-no/) බලන්න. [සැහැල්ලු හුස්ම ගැනීම](/games/calm-breathing/) වැනි එකට ගත් මන්දගාමී හුස්ම විවේකය ඔබ දෙදෙනාටම යළි සකස් වීමට උපකාරී විය හැක.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+ඔබේම චර්යාවද වැදගත්ය. ඔබටම විවේක ගැනීමට කාලය ඇතුළත් කරන්න, සහ පවුලේ අයගෙන් හෝ විවේකදායක සේවාවකින් නිත්‍ය නිවාඩු කාලය ආවරණය කරන ලෙස ඉල්ලන්න. [රැකබලා ගන්නන්ගේ ස්වයං සත්කාරය](/caregiving/caregiver-self-care/) බලන්න.

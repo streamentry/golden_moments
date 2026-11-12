@@ -23,7 +23,7 @@ faq:
   - q: "Tokony hamela ny ankizy hanampy amin'ny fikarakarana olona manana dementia ve aho?"
     a: "Ny ankizy dia mety hifidy asa kely sy mahazatra, toy ny fijerena sary miaraka. Ny olon-dehibe no mitana andraikitra amin'ny fiarovana, fanafody, fitsidihana, fikarakarana manokana ary ny fandrosoana; tsy tokony ho mpikarakara ny ankizy."
   - q: "Inona no atao raha tsy tiany ny mitsidika na manampy ny ankizy?"
-    a: "Mihainoa tsy misy henatra na fanerena. Anontanio izay sarotra aminy ary omeo fomba hafa hifandraisana, na avelao izy hiala fotoana. Ny fanavaozana ny sisin'ny ankizy dia tsy midika fa tsy miraharaha izy."
+    a: "Mihainoa tsy misy henatra na fanerena. Anontanio izay sarotra aminy ary omeo fomba hafa hifandraisana, na avelao izy hiala fotoana. Ny fametrahan-kevitra an'ny ankizy dia tsy midika fa tsy miraharaha izy."
 sources:
   - title: "Talking to Kids About Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -84,8 +84,8 @@ Alohan'ny hilazana mpampianatra, mpanazatra na olon-dehibe hafa, ampidiro ny ank
 
 ## Yaushe no tokony hitady fanohanana bebe kokoa?
 
-Anontanio ny ankizy hoe ahoana izy amin'ny fotoana mandeha, fa tsy fotsiny taorian'ny diagnostika. Ny sasany mivaofy mazava; ny hafa mampiseho ahiahy amin'ny fatoram-pandriana, ny sekoly, ny fifandraisana na ny fitondran-tena. Ireo fiovana ireo dia mety misy antony maro ary tsy midika fa mila diagnostika ny ankizy. Mihainoa sy anontanio izay fanohanana mety.
+Anontanio ny ankizy hoe ahoana izy amin'ny fotoana mandeha, fa tsy fotsiny taorian'ny diagnostika. Ny sasany mivaofy mazava; ny hafa mampiseho ahiahy amin'ny matory, ny sekoly, ny fifandraisana na ny fitondran-tena. Ireo fiovana ireo dia mety misy antony maro ary tsy midika fa mila diagnostika ny ankizy. Mihainoa sy anontanio izay fanohanana mety.
 
-Raha tiana ny ankizy hiresaka amin'ny olona ivelan'ny fianakaviana, mety ho tombony ny mpampianatra itokisana, mpitsabo sekoly, pediatre na matihanina momba ny fahasalaman'ny saina ho an'ny ankizy. Anontanio alohan'ny hifandraisana amin'ny mpiasa sekoly momba ny diagnostika raha azo atao; mety ilaina amin'ny resaka ny ankizy. Ny fianakaviana iray izay misy dementia amin'ny taona fanomezana aretina aloha dia mety mila fanohanana momba ny asa, ny sekoly ary ny andraikitra samy hafa ao amin'ny fianakaviana.
+Raha tiana ny ankizy hiresaka amin'ny olona ivelan'ny fianakaviana, mety ho tombony ny mpampianatra itokisana, mpitsabo sekoly, pediatre na matihanina momba ny fahasalaman'ny saina ho an'ny ankizy. Anontanio alohan'ny hifandraisana amin'ny mpiasa sekoly momba ny diagnostika raha azo atao; mety ilaina amin'ny resaka ny ankizy. Ny fianakaviana iray izay misy dementia amin'ny dementia izay mipoitra aloha amin'ny fiainana dia mety mila fanohanana momba ny asa, ny sekoly ary ny andraikitra samy hafa ao amin'ny fianakaviana.
 
 Raha tsy azo antoka ianao hoe ahoana no hanazavana fiovana manokana, angataho torolalana avy amin'ny ekipan'ny fikarakarana an'ny olona na ny fikambanana momba ny dementia. Tsy ilaina amin'ny ankizy ny valiny tonga lafatra avy aminao. Ilain'izy ireo ny fampahalalana marina, ny fotoana hanontanianany indray, ary olon-dehibe mijanona miseho ho azy.
