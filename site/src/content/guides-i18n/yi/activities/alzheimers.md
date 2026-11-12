@@ -1,35 +1,30 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "אַקטיװיטעטן און שפּילן פֿאַר מענטשן מיט אַלצהײַמער"
+seoTitle: "אַלצהײַמער־אַקטיװיטעטן און שפּילן: אידעען לױט סטאַדיע"
+description: "אַקטיװיטעטן און שפּילן פֿאַר מענטשן מיט אַלצהײַמער אין יעדער סטאַדיע, געבױט אױף די לאַנג־בלײַבנדיקע פֿײקײטן און זכרונות, מיט פֿרײע שפּילן צוזאַמען."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  גוטע אַקטיװיטעטן פֿאַר אַ מענטש מיט אַלצהײַמער שטײען אױף דעם װאָס בלײַבט לענגסטן: לאַנג געפּרוּװטע פֿײקײטן, אַלטע לידער, באַקאַנטע הױזאַרבעט און די סענסן. אין די פֿרי־סטאַדיע װערן קאַרטן, ברעטשפּילן, קאָכן און אױספֿאָרן אָפֿט נאָך גוט. אין דער מיטל־סטאַדיע פּרוּװט פֿאַלדן, סאָרטירן, זינגען, פֿאָטאָ־אַלבאָמען און פּשוטע בילד־שפּילן. שפּעט אין דער קרענק זענען מוזיק, באַרירונג און געזעלשאַפֿט די וויכטיקסטע. גײט לויט װי דער מענטש איז הײַנט.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "אַלצהײַמער איז די מערסט פֿאַרשפּרײטע אורזאַך פֿון דעמענשיע, דעריבער געלטן די דעמענשיע־אַקטיװיטעט־אידעען אױך פֿאַר איר."
+  - "נײַע אינפֿאָרמאַציע איז געװײנלעך די שװערסטע צו זײַן ערשטנס, בשעת פֿײקײטן און לידער װאָס מען האָט געלערנט לאַנג צוריק בלײַבן אָפֿט לענגער. בױט אױף די."
+  - "סטאַדיעס לאָפֿן איַבער און גוטע און שװערע טעג זענען נאָרמאַל. קלײַבט לויט װאָס דער מענטש קען און האָט ליב הײַנט."
+  - "קלײַבט שפּילן אָן אַ טײמער, אָן אַ פּונקט־שטאַנד און אָן פֿרעגן, און לאָזט די בילדער זיכטבאַר בלײַבן."
+  - "קוקן, האַלטן עפּעס אָדער צוזאַמען זיצן װערט אַלץ גערעכנט פֿאַר טײלנעמען."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "װאָס פֿאַר אַקטיװיטעטן זענען גוט פֿאַר אַ מענטש מיט אַלצהײַמער?"
+    a: "באַקאַנטע טעטיקײטן, אַ ביסל פּשוטער געמאַכט: װעש פֿאַלדן, טישן, צוזאַמען קאָכן, מוזיק און זינגען, אָנקוקן פֿאָטאָס, שפּאַצירן, גאָרטנערײַ און צײט מיט אַ הונט אָדער אַ קאַץ. פּשוטע בילד־שפּילן, לײַכטע פּזלן און פֿראַגן־קאַרטן פּאַסן אױך פֿאַר פֿיל מענטשן. קלײַבט װאָס דער מענטש האָט שטענדיק געהאַט ליב און טוט עס צוזאַמען מיט אים."
+  - q: "צי זענען שפּילן גוט פֿאַר מענטשן מיט אַלצהײַמער?"
+    a: "שפּילן קענען זײַן אַ אָנגענעמע אופֿן צו פֿאַרבריגן צײַט צוזאַמען, אַז דער מענטש האָט זיי ליב. קײן שפּיל איז נישט געװיזן געװאָרן צו באַהאַנדלען, פּאַמעלעך מאַכן אָדער שטופּן אַלצהײַמער, דעריבער קלײַבט שפּילן פֿאַר פֿאַרגעניגן: גרױסע בילדער, װײניק ברירות און קײן טײמער, פּונקט אָדער טענות־געזיגל פֿאַר פֿאַלש ענטפֿער."
+  - q: "צי איז עס אַ חילוק צװישן דעמענשיע־אַקטיװיטעטן און אַלצהײַמער־אַקטיװיטעטן?"
+    a: "מערסטנס נײן. אַלצהײַמער־קרענק איז די מערסט פֿאַרשפּרײטע אורזאַך פֿון דעמענשיע, און די זעלבע אַקטיװיטעט־אידעען געלטן. װאָס העלפֿט בײַ אַלצהײַמער איז צו װיסן, אַז לעצטע זכרונות פֿאַרגײען מערסטנס ערשט, דעריבער גײען אַקטיװיטעטן װאָס בױען אױף עלטערע פֿײקײטן, לידער און רוטינעס מערסטנס גלאַטער."
+  - q: "װאָס קען אַ מענטש מיט שפּעט־סטאַדיע אַלצהײַמער נאָך הנאה האָבן?"
+    a: "ליבע מוזיק, אַ זאַנפֿטע הענט־מאַסאַזש, װײכע זאַכן צו האַלטן, פֿאָרגעלײענט װערן, זיצן דרױסן און די חבֿרשאַפֿט פֿון עמעץ װאָס ער פֿאַרטרױט. האַלט עס קורץ און רויִק און קוק אױף זײַן פּנים און גוף צו זען װאָס ער האָט ליב."
+  - q: "װי קען איך אַ מענטש מיט אַלצהײַמער אינטערעסירן אין אַ טעטיקײט?"
+    a: "בעט אים אום הילף אַנשטאָט אָנצוזאָגן אַ טעטיקײט, שטעלט אַלץ אױף פֿריער אױס און הײבט עס אָן זיך אַלײן, כּדי ער זאָל קענען צוטרעטן. די צײט פֿון טאָג װען ער איז בעסטן אין פֿאָרעם מאַכט אַ גרױסן חילוק. װען ער זאָגט נײן, פּרוּװט שפּעטער אָדער באָט אַ קלענערע װערסיע."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +49,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+אױב אײַער ליבער האָט אַלצהײַמער, האָט איר װאָרשײַנלעך שױן באַמערקט, אַז עטלעכע זאַכן פֿאַרגײען שנעל, בשעת אַנדערע בלײַבן. ער קען פֿאַרגעסן דעם רופֿ פֿון היַינט פֿרי, אָבער זינגען יעדן װאָרט פֿון אַ תּפֿילה, פֿאַלדן אַ האַנטעך װי ער האָט שטענדיק געטאָן אָדער אַ האַנט קאַרטן מישן אָן דערבײַ צו טראַכטן. גוטע אַקטיװיטעטן בױען זיך אױף יענע בלײַבנדיקע פֿײקײטן. דער דאָזיקער בלאַט דערקלערט פֿאַר װאָס, און גיט אידעען פֿאַר יעדע סטאַדיע און די פֿרײע שפּילן אױף דער זײַט װאָס פּאַסן צו זײ.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## צי איז אַלצהײַמער אַנדערש װי דעמענשיע װעגן אַקטיװיטעטן?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+נישט זייער. דעמענשיע איז דער אָנבאַקװעמער טערמין, און אַלצהײַמער־קרענק איז די מערסט פֿאַרשפּרײטע אורזאַך פֿון איר: די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) זאָגט, אַז זי מאַכט 60 ביז 80 פּראָצענט פֿון די דעמענשיע־פֿאַלן. כּמעט אַלצדינג װאָס איז געשריבן װעגן אַקטיװיטעטן פֿאַר דעמענשיע געלטן אױך פֿאַר אַלצהײַמער, אײַנגערעכנט אונדזערע [101 אַקטיװיטעט־אידעען](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+װאָס איז נוצלעך צו װיסן איז די געװײנלעכע סדר פֿון ענדערונגען. די [נאַציאָנאַלע אינסטיטוט פֿאַר עלטער](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) דערקלערט, אַז אַלצהײַמער שאַדט ערשטנס די טײלן פֿון דעם מוח װאָס זענען פֿאַרבונדן מיט זכרון, און שפּעטער װירקט עס אױף שפּראַך, פֿאַרשטאַנד און געזעלשאַפֿטלעכע פֿאַרהאַלטן. די אַלצהײַמער־אַסאָציאַציע זאָגט, אַז דער מערסט געװײנלעכער פֿרי־סימפּטאָם איז שװעריקײט מיט דערװאָרבענע נײַע אינפֿאָרמאַציע. יעדער איז אַנדערש, און פֿיל מענטשן האָבן געמישטע סיבות, אָבער דאָס מוסטער פֿאָרמט װאָס גײט גוט.
 
-## What kinds of activities suit Alzheimer's best?
+## װאָס פֿאַר טעטיקײטן פּאַסן בעסט פֿאַר אַלצהײַמער?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+אַקטיװיטעטן װאָס בױען אױף אַלטע, געװײנטע קענטשאַפֿטן גײען מערסטנס גלאַטער װי יענע װאָס דאַרפֿן עפּעס נײַס צו לערנען און צו האַלטן אין זינען.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **לאַנג געװײנטע פֿײקײטן.** די אַלצהײַמער־אַסאָציאַציע װײַזט, אַז אַ מענטש קען נאָך שפּילן פּשוטע לידער װאָס ער האָט געלערנט פֿאַר יאָרן אױפֿן פּיאַנע. שטריקן, האָלץ שלײַפֿן, קאַרטן מישן, טײג קנעטן און װעש פֿאַלדן זענען ענלעך.
+- **אַלטע לידער און באַקאַנטע מוזיק.** פֿיל מענטשן קענען נאָך יעדן װאָרט פֿון לידער פֿון זייער יוגנט, תּפֿילות און די לידער פֿון זייער חתונה. זעט [מוזיק־אַקטיװיטעטן](/activities/music/).
+- **טעגלעכע אַרבעטן מיט אַ ציל.** די [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) רשימט װאַשן געשירר, טישן, סאָקן סאָרטירן און װעש פֿאַלדן צװישן אַקטיװיטעטן װאָס מענטשן קענען הנאה האָבן. געפֿילן זיך נוצלעך איז װיכטיק.
+- **דערקענען אַנשטאָט אָפּרופֿן.** צו װײַזן אױף דעם פּאַסיקן בילד איז לײַכטער װי אים צו נענען פֿון זכרון. דעריבער אַרבעטן בילד־שפּילן מיט אַלץ װאָס איז געזען בעסער װי קװיזן.
+- **די סענסן.** טעקסטור, ריח, װאַרעמקײט, טעם און קלאַנג בלײַבן באַדײַטנדיק לאַנג נאָכן װערן שװער מיט װערטער. זעט [סענסאָרישע אַקטיװיטעטן](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+װאָס גײט װײניקער גוט: אַלץ מיט אַ זייגער, נײַע כּללים צו לערנען, פֿיל שטאַפּלען צו געדענקען, אָדער פֿראַגן װאָס פּרוּװן דאָס זכרון, װי „װײסט איר נאָך װער דאָס איז?“ די שטעלן דעם שװערן טײל פֿון אַלצהײַמער אין מיטן.
 
-## Activities for early-stage Alzheimer's
+## אַקטיװיטעטן פֿאַר פֿרי־סטאַדיע אַלצהײַמער
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+אין דער פֿרי־סטאַדיע זאָגט די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/alzheimers-dementia/stages), אַז אַ מענטש קען נאָך פֿאָרן, אַרבעטן און אָנטײל נעמען אין געזעלשאַפֿטלעכע אַקטיװיטעטן, בשעת ער באַמערקט זכרון־פֿאַרגעסן װי װערטער װאָס ער פֿאַרגעסט אָדער װוּ עפּעס איז. די בעסטע צוגאַנג איז שותפֿות: פֿרעגט װאָס ער װיל װײַטער טאָן און װאָס פֿאַר הילף ער װאָלט געװאָלט.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **האַלט אָן לאַנגיקע האָבבי־ס.** גאָלף, ברידזש, קװילטינג, כאָר און קהילה־גרופּעס, מיט קלײנע אַדזשאַסטמענטן װי קלענערע גרופּעס און רויִקערע צײטן.
+2. **שפּיל באַקאַנטע קאַרטן־ און ברעטשפּילן.** די [אַלצהײַמער־פֿאָונדײשאַן פֿון אַמעריקע](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) רשימט טריװיע, װאָרט־זוכן, קאַרטן־שפּילן און ברעטשפּילן פֿאַר דער פֿרי־סטאַדיע. שפּילט אַלס אַ מאַנשאַפֿט אױב די פּונקטן־צײלונג שטערט זיי, אָדער לאָזט די צײלונג גאָר אַװעק.
+3. **קאָכט צוזאַמען.** לאָזט אים אױספֿירן אַ רעצעפּט װאָס ער קען אױסנװײניק, בשעת איר האַנדלט מיט די שריט לײענען.
+4. **הײב אָן אַ לעבנס־געשיכטע־פּראָיעקט.** פֿאָטאָס, רעצעפּטן און געשיכטעס אין אַ סקרעפּבוך װאָס ער װײַזט אָן. זעט [זכרון־אַקטיװיטעטן](/activities/reminiscence/).
+5. **גײט אױף אױספֿאָרן.** אַ פֿאַװאָריט רעסטאָראַן אין אַ רויִקער שעה, אַ מוזיי פֿאַר אַ קורצן באַזוך, אַ שפּאַציר אין פּאַרק.
+6. **פּרוּװט פּזלן װאָס ער קלײַבט.** גרױסע־דרוק קרײַזװערטן, װאָרט־זוכן און פּזלן. זעט [פּזלן פֿאַר דעמענשיע](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+מער אידעען: [פֿרי־סטאַדיע־אַקטיװיטעטן](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## אַקטיװיטעטן פֿאַר מיטל־סטאַדיע אַלצהײַמער
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+די אַלצהײַמער־אַסאָציאַציע באַשרײַבט די מיטל־סטאַדיע אַלס טיפּיש די לענגסטע, און זאָגט אַז זי קען דויערן פֿיל יאָרן. װערטער װערן פֿאַרמישט, פֿרוסטראַציע קומט גרינגער, און דער מענטש דאַרף מער זאָרג. די אַלצהײַמער־פֿאָונדײשאַן פֿון אַמעריקע לײגט צו, אַז פֿיל מענטשן דאַרפֿן הילף אָנהײבן אָדער פֿאָרזעצן אַקטיװיטעטן. אײַער ראָלע װאַנדערט זיך צו אײַנשטעלן די זאַכן, װײַזן אַנשטאָט דערקלערן, און נעמען איבער די שװערע טיילן.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **פֿאַלדן, סאָרטירן און צונױפֿשטעלן.** טאָװלען, סאָקן, באַשטעק, קנעפּ נאָך קאָלירן. נאָטיקע אַרבעטן, געטאָן צוזאַמען נעבן איינאַנדער.
+2. **זינגען און זיך באַװעגן צו מוזיק.** קלאַפּט, שװײַגט זיך אָדער טאַנצט אין דער קיך. הײבט אָן צו זינגען אַלײן און לאָזט אים זיך אָנשליסן.
+3. **קוקט דורך פֿאָטאָ־אַלבאָמען.** באַשרײַבט װאָס איר זעט און בעט אום געשיכטעס: „אַ מאַשין. דערצײלט מיר װעגן איר.“ גײט מיט די נעמען װאָס ער ניצט.
+4. **שפּילט פּשוטע בילד־שפּילן.** [פּיקטשער פּערס](/games/picture-pairs/) מיט פֿיר ביז זעקס פּלאַטן און די בילדער װײַטער זיכטבאַר, אָדער [פֿאַר די זעלבע](/games/find-the-same/) מיט צװײ אָדער דרײַ ברירות.
+5. **ענדיקט באַקאַנטע רעדעװענדונגען.** „אַ עפּל אַ טאָג האַלט דעם דאָקטער...“ סיגאָס װאָס מען האָט לאַנג צוריק געלערנט קומען אָפֿט לײַכט. פּרוּװט [ענדיקן די רעדעװענדונג](/games/finish-the-saying/), װו איר קענט װײַזן יעדן ענדע מיט איין טאַפּ.
+6. **באַװאַסערט און פֿלעגט פֿלאַנצן.** אינװײניקיקע טעפּ אָדער אַ הױכער בעט, מיט אַ קלײנעם באַשלאָף־קאַנען.
+7. **מאַכט אַ מאַטשינג־שפּיל פֿון משפּחה־פֿאָטאָס.** [פֿאָטאָ־פּערס](/games/photo-pairs/) ניצט בילדער װאָס איר קלײַבט אױף אײַער געצײַג, און זײ פֿאַרלאָזן עס קײן מאָל נישט.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+מער אידעען: [מיטל־סטאַדיע־אַקטיװיטעטן](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## אַקטיװיטעטן פֿאַר שפּעט־סטאַדיע אַלצהײַמער
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+אין דער שפּעט־סטאַדיע זאָגט די אַלצהײַמער־אַסאָציאַציע, אַז מענטשן פֿאַרלירן די פֿײקײט צו ענטפֿערן אױף דער סביבה און צו האַלטן אַ שמועס, כאָטש זײ קענען נאָך זאָגן װערטער אָדער פֿראַזן. אַקטיװיטעט הײַסט איצט קוים און פֿאַרבינדונג, געבראַכט צו װוּ דער מענטש רוט.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **שפּילט זײַן ליבלינגס־מוזיק** שטיל, אָן דעם טעלעװיזאָר װאָס קאָנקורירט.
+2. **געבט אַ הענט־מאַסאַזש** מיט אַ סמאַרג מיט אַ ריח װאָס ער האָט ליב.
+3. **געבט װײכע זאַכן צו האַלטן:** אַ װאַרעמע דעקע, אַ פֿליסע, אַ גלאַטן שטײן.
+4. **לײענט אױף אַ קול** תּהילים, פּאָעמעס אָדער אַ באַקאַנטע געשיכטע. דער ריטם איז װיכטיקער װי דער זין.
+5. **זיצט דרױסן** אין שאָטן, אָדער נעבן אַ פֿענצטער מיט פֿייגל צו קוקן.
+6. **קוקט צוזאַמען אױף איין גרױס בילד.** אַ זונבלום אָדער אַ הונט װאָס פֿילט אַ טאַבלעט־עקראַן, און איר זאָגט װאָס איר זעט.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+מער אידעען: [שפּעט־סטאַדיע־אַקטיװיטעטן](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## װעלכע שפּילן װירקן פֿאַר אַ מענטש מיט אַלצהײַמער?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+קלײַבט שפּילן װוּ מען קען נישט פֿאַרלירן. יעדער שפּיל אױף דעם זײַט איז פֿרײ, לויפֿט אין אַ בראָװזער און האָט קײן טײמער, פּונקט אָדער אָנמעלדונג.
 
-| Game | What you do | Often suits |
+| שפּיל | װאָס איר טוט | אָפֿט פּאַסט פֿאַר |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [פּיקטשער פּערס](/games/picture-pairs/) | מאַכט גרױסע בילדער פּאָר; זײ קענען בלײַבן אױפֿגעדרײט | פֿרי און מיטל־סטאַדיע |
+| [פֿאַר די זעלבע](/games/find-the-same/) | טאַפּט דאָס בילד װאָס פּאַסט צום איינס אױבן | מיטל און שפּעט־סטאַדיע, מיט הילף |
+| [ענדיקן די רעדעװענדונג](/games/finish-the-saying/) | קלײַבט דאָס לעצטע װאָרט פֿון אַ באַקאַנטער רעדעװענדונג, אָדער װײַזט עס | פֿרי און מיטל־סטאַדיע |
+| [פּיקטשער פּזל](/games/picture-puzzle/) | שטעלט 4 אָדער 9 שטיקלעך צוריק אױף זייער אָרט, מיט דעם בילד געװײַזן | פֿרי און מיטל־סטאַדיע |
+| [שמועס־קאַרטן](/games/conversation-cards/) | אַ בילד און אַ אָפֿענע פֿראַגע צו רעדן װעגן | יעדע סטאַדיע, מיט עמעץ צו רעדן מיט |
+| [פֿאָטאָ־פּערס](/games/photo-pairs/) | אַ מאַטשינג־שפּיל פֿון אײַערע אײגענע פֿאָטאָס | פֿרי און מיטל־סטאַדיע |
+| [קאָלירן](/games/coloring/) | טאַפּט אַ קאָלער, דערנאָך אַ טייל פֿון אַ בילד; אָדער דרוקט אויס | יעדע סטאַדיע, מיט הילף |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+װעגן װי מען זיצט צוזאַמען, װי פֿיל מען העלפֿן און װען צו האַלטן, לײענט [װי מען שפּילט מיט אַ מענטש מיט דעמענשיע](/caregiving/how-to-play-together/). אױב איר פֿרעגט זיך װעגן „זכרון־שפּילן“, זעט [זכרון־שפּילן פֿאַר עלטערע מענטשן מיט דעמענשיע](/activities/memory-games/).
 
-## How to make any activity easier
+## װי קען מען יעדע אַקטיװיטעט פּשוטער מאַכן
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+די רעקאָמענדאַציעס פֿון דער נאַציאָנאַלער אינסטיטוט פֿאַר עלטער קומען צו אַ פּאָר געװױנהײטן: מאַך די טעטיקײט צו װאָס דער מענטש קען טאָן, העלף אים אָנהײבן, באַמערקט פֿרוסטראַציע, זאָרג דערפֿאַר אַז ער פֿילט זיך דערגרײכט, און לאָז אים נאָר קוקן אױב דאָס איז װאָס ער האָט ליב.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **קלײַבט די צײט פֿון טאָג װען ער איז בעסטן,** און האַלט די זיצונגען קורץ.
+- **לײגט אַלץ אױס פֿריער,** כּדי צו קענען הײבן גלײַך אָן.
+- **בעט אום הילף, באַפֿעלט נישט.** „קענט איר מיר העלפֿן?“ אַרבעט בעסער װי „צײט פֿאַר אַן אַקטיװיטעט.“
+- **טוט דעם ערשטן שריט אַלײן** און לאָזט אים זיך אָנשליסן.
+- **געבט איין שריט און איין ברירה אין אַ מאָל.**
+- **לאָזט עס זײַן געטאָן אױף זײַן אופֿן.** אַ שעקיקע טאָװאַלן אױף איין זײַט איז אױך גוט.
+- **הערט אױף בשעת עס איז נאָך אַנגענעם.** אױפֿהערן פֿריער איז אַ גוטער רעזולטאַט, נישט אַ מפּלה. װען ער װײגערט זיך, זעט [װאָס צו טאָן װען אַ מענטש מיט דעמענשיע זאָגט נײן](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+די [אַלצהײַמער־אַסאָציאַציע](https://www.alz.org/help-support/caregiving/daily-care/activities) זאָגט עס פּשוט: פֿאָקוסירט אױף הנאה, נישט אױף דערגרײכן.

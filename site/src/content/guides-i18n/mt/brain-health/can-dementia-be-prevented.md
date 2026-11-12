@@ -1,35 +1,34 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Tista’ tiġi prevenuta d-dimenzja? X’tgħid ir-riċerka"
+seoTitle: "Tista’ tiġi prevenuta d-dimenzja? X’tgħid ir-riċerka"
+description: "X’sabu l-Lancet Commission tal-2024 u trials ewlenin dwar it-tnaqqis tar-riskju tad-dimenzja, x’ma sabux, u passi biex titkellem dwarhom ma’ tabib."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ebda ħadd ma jista’ jwiegħed li jipprevjeni d-dimenzja. Il-Lancet Commission tal-2024 stmat li
+  kważi nofs il-każijiet tad-dimenzja fid-dinja huma marbuta ma’ 14 fattur ta’ riskju li jistgħu
+  potenzjalment jinbidlu, bħal pressjoni għolja tad-demm, telf tas-smigħ u nuqqas ta’ attività.
+  Trials juru effetti żgħar fuq it-testijiet tal-ħsieb, mhux prova ta’ inqas każijiet ta’ dimenzja.
+  Ħafna nies li jagħmlu kollox “tajjeb” xorta jiżviluppaw dimenzja, u mhix ħtija ta’ ħadd.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Il-Lancet Commission tal-2024 marbet madwar 45% tal-każijiet tad-dimenzja fid-dinja ma’ 14 fattur ta’ riskju li jistgħu jinbidlu. Hija stima tal-popolazzjoni, mhux garanzija personali."
+  - "It-tnaqqis tar-riskju ifisser inqas probabbiltajiet għal popolazzjoni kbira. Ma jfissirx li kwalunkwe persuna waħedha tista’ tevita d-dimenzja."
+  - "Trials kbar bħal FINGER, US POINTER u SPRINT MIND sabu benefiċċji żgħar fuq testijiet tal-ħsieb jew indebboliment kognittiv ħafif, iżda ebda wieħed ma pprova li programm ta’ stil ta’ ħajja jipprevjeni d-dimenzja."
+  - "L-età hija l-ikbar fattur ta’ riskju magħruf għall-Alzheimer, u ma tistax tinbidel. Ħafna nies b’drawwiet tajbin xorta jiżviluppaw dimenzja."
+  - "Il-passi l-iktar studjati, bħal kura tal-pressjoni għolja tad-demm, użu ta’ għajnuniet għas-smigħ u l-attività, jistħoqqilhom diskussjoni ma’ tabib għax jgħinu s-saħħa b’modi oħra wkoll."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Tista’ tiġi prevenuta d-dimenzja?"
+    a: "M’hemm l-ebda mod ippruvat biex tiġi prevenuta d-dimenzja għal ebda persuna waħedha. Ir-riċerka tissuġġerixxi li t-tnaqqis ta’ ċerti riskji, bħal pressjoni għolja tad-demm, telf tas-smigħ mhux ittrattat u tpejjip, jista’ jnaqqas il-probabbiltà ta’ dimenzja fil-popolazzjoni jew idewwem meta tibda. Dawn huma probabbiltajiet, mhux wegħdiet."
+  - q: "X’tfisser il-figura ta’ 45% mill-Lancet Commission?"
+    a: "Il-Lancet Commission tal-2024 stmat li madwar 45% tal-każijiet tad-dimenzja fid-dinja huma marbuta ma’ 14-il fattur ta’ riskju li, fit-teorija, jistgħu jinbidlu. L-istima tassumi li dawk il-fatturi jikkawżaw id-dimenzja, u l-awturi jgħidu li xi rabtiet jistgħu jkunu kawżali biss parzjalment. Tiddeskrivi popolazzjonijiet sħaħ u ma tgħidlekx ir-riskju ta’ ebda individwu."
+  - q: "Jekk il-ġenitur tiegħi kellu stil ta’ ħajja tajjeb, għalfejn ġie bid-dimenzja?"
+    a: "L-età, il-ġeni u ħafna fatturi li ħadd ma jikkontrolla għandhom sehem kbir fid-dimenzja. L-awturi tal-Lancet Commission jgħidu li t-tnaqqis tar-riskju f’popolazzjoni ma jiggarantixxix li kull individwu jevita d-dimenzja. Dijanjosi mhix sinjal li ħadd falla."
+  - q: "Huwa tard wisq biex inaqqas ir-riskju tad-dimenzja wara l-età ta’ 65?"
+    a: "Il-Lancet Commission jgħid li qatt mhu tard wisq jew bikri wisq biex jitnaqqas ir-riskju, għalkemm ħafna mill-evidenza tikkonċerna nofs il-ħajja. Il-kura tal-problemi tas-smigħ u tal-vista, l-attività u ż-żamma tal-kuntatt man-nies huma eżempji ta’ passi tal-aħħar ħajja li ġew studjati. Ikkonsulta ma’ tabib dwar dak li jaqbel mas-saħħa tiegħek."
+  - q: "Il-logħbiet tal-moħħ jew dieti speċjali jipprevjenu d-dimenzja?"
+    a: "Ebda logħba, ikel, supplement jew dieta ma ntwera li tipprevjeni d-dimenzja. Trial ta’ tliet snin tad-dieta MIND ma sab l-ebda differenza sinifikanti fil-ħsieb meta mqabbla ma’ dieta ta’ kontroll, u ma ntwerax li l-apps kummerċjali tat-taħriġ tal-moħħ għandhom l-effetti li jidhru f’triali ta’ riċerka."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +62,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Jekk qed tieħu ħsieb lil xi ħadd bid-dimenzja, jew kont qed tara lill-ġenitur tiegħek jgħix biha, probabbilment staqsejt jekk setgħetx tiġi waqfa, u jekk tistax tevita li tiġri lilek. Din il-paġna tpoġġi x’juri r-riċerka b’lingwa sempliċi. It-tweġiba qasira: ħadd ma jista’ jwiegħed li jipprevjeni d-dimenzja, imma r-riċerka tissuġġerixxi li xi riskji jistgħu jitnaqqsu, u li t-tnaqqis tagħhom fuq popolazzjoni jista’ jfisser inqas nies li jiżviluppaw dimenzja jew li jiżviluppawha aktar tard fil-ħajja.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Din hi informazzjoni ġenerali, mhux parir mediku. Jekk jogħġbok aqra [id-dikjarazzjoni medika tagħna](/medical-disclaimer/) u kellem tabib dwar saħħtek stess.
 
-## Can dementia be prevented?
+## Tista’ tiġi prevenuta d-dimenzja?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+M’hemm l-ebda mod ippruvat biex tiġi prevenuta d-dimenzja għal kull persuna waħedha. In-National Institute on Aging (NIA) jgħid li, filwaqt li [xejn ma ntwera għadu li jipprevjeni l-Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), ir-riċerkaturi sabu strateġiji promettenti u qed jitgħallmu x’jista’ u x’ma jistax jaħdem.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Dak li r-riċerka *turi* huwa li ċerti kundizzjonijiet tas-saħħa u drawwiet huma marbuta ma’ probabbiltà ogħla ta’ dimenzja. Meta dawn ir-riskji jkunu aktar baxxi f’popolazzjoni sħiħa, jista’ jkun hemm inqas nies li jiżviluppaw dimenzja, jew jiżviluppawha aktar tard fil-ħajja. Dan huwa differenti ħafna minn garanzija.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Sinjal ta’ tama: il-Lancet Commission tal-2024 irrapporta li f’xi pajjiżi b’dħul għoli, inklużi l-Istati Uniti u r-Renju Unit, il-proporzjon ta’ anzjani bid-dimenzja niżel. L-awturi jaħsbu li dan huwa probabbilment parzjalment minħabba edukazzjoni aħjar, kura tas-saħħa aħjar u inqas ħsara lill-vini tad-demm matul ħajja, skont [is-sommarju tal-Università ta’ Londra (UCL) tar-rapport](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## X’sab il-Lancet Commission tal-2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Il-Lancet Commission dwar il-prevenzjoni, l-intervent u l-kura tad-dimenzja hija grupp ta’ 27 riċerkatur tad-dimenzja li jirrevedu l-evidenza kull ftit snin. Ir-rapport tagħhom tal-2024 semma **14-il fattur ta’ riskju** li jistgħu potenzjalment jinbidlu, u stmaw li flimkien jirrappreżentaw **kważi nofs (madwar 45%) tal-każijiet tad-dimenzja fid-dinja**. Skont l-awturi, dawn il-każijiet *teoretikament* setgħu jiġu prevenuti jew idewmu jekk ir-riskji jitneħħew ([rapport tal-Lancet Commission tal-2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Il-14-il fattur, imqassma skont l-istadju tal-ħajja fejn l-evidenza hija l-iktar qawwija:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Bikrija fil-ħajja:** inqas edukazzjoni.
+- **Nofs il-ħajja (bejn madwar l-età ta’ 40 u 65):** telf tas-smigħ, kolesterol LDL ("ħażin") għoli, depressjoni, korriment fir-ras, nuqqas ta’ attività fiżika, dijabete, tpejjip, pressjoni għolja tad-demm, obeżità u xorb eċċessiv.
+- **Fl-aħħar ħajja:** iżolament soċjali, tniġġis tal-arja, u telf tal-vista mhux ittrattat.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+It-tnejn l-aktar ġodda fl-2024 kienu kolesterol LDL għoli u telf tal-vista mhux ittrattat. Il-fatturi marbuta mal-akbar sehem tal-każijiet kienu t-telf tas-smigħ u l-kolesterol LDL għoli (madwar 7% kull wieħed), segwiti minn inqas edukazzjoni u iżolament soċjali (madwar 5% kull wieħed).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Il-[gwida tagħna dwar fatturi ta’ riskju](/brain-health/risk-factors/) tgħaddi mill-14 kollha f’tabella, b’dak li r-riċerka tgħid u x’tista’ tagħmel.
 
-### What the 45% figure does not mean
+### X’ma tfissirx il-figura ta’ 45%
 
-It is easy to misread this number, so it helps to be precise:
+Dan in-numru faċli jinftiehem ħażin, għalhekk huwa utli li nkunu preċiżi:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Hija stima tal-popolazzjoni.** Tiddeskrivi każijiet tad-dimenzja madwar id-dinja, mhux ix-xansijiet tiegħek jew ta’ ġenitur tiegħek.
+- **Tassumi kawża u effett.** L-awturi jgħidu li ħadu biss fatturi ta’ riskju b’evidenza konvinċenti, iżda li xi rabtiet jistgħu jkunu kawżali biss parzjalment. Per eżempju, depressjoni fl-aħħar ħajja xi drabi tista’ tkun sintomu bikri tad-dimenzja aktar milli kawża tagħha.
+- **Ma tiggarantixxi xejn għal persuna waħda.** Is-sommarju tal-UCL jgħid li t-tnaqqis tar-riskju jaħdem fil-livell tal-popolazzjoni u ma jiggarantixxix li kull individwu jevita d-dimenzja.
+- **In-nofs l-ieħor mhux spjegat minn dawn il-fatturi.** L-età, il-ġeni u kawżi li x-xjenzjati għadhom ma fehmux sew jiffurmaw il-bqija.
 
-## What is the difference between "risk reduction" and "prevention"?
+## X’inhi d-differenza bejn “tnaqqis tar-riskju” u “prevenzjoni”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Tnaqqis tar-riskju** ifisser it-tnaqqis tax-xansijiet. Jekk grupp kbir ta’ nies inaqqas il-pressjoni tad-demm tiegħu, jista’ jkun hemm inqas minnhom li jiżviluppaw dimenzja matul ħafna snin milli kieku kien hemm. Xi individwi f’dak il-grupp xorta jiżviluppawha.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prevenzjoni** tfisser li tiġi waqfa xi ħaġa milli tiġri kompletament. Għad-dimenzja, din m’hijiex xi ħaġa li r-riċerka tista’ twiegħed lil ħadd illum.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Ir-riċerkaturi jitkellmu wkoll dwar **dewmien**. Il-Lancet Commission jirrapporta evidenza ġdida li t-tnaqqis tar-riskju jista’ jdewwem meta tibda d-dimenzja u jqassar il-ħin li persuna tqatta’ tgħix b’saħħa ħażina. Anke dewmien ta’ ftit snin jista’ jkun ta’ siwi kbir għal persuna u għall-familja tagħha.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Fuq dan is-sit, aħna nużaw “naqqas ir-riskju” u “marbut ma’” bil-quddiem. Meta tara prodott, supplement jew programm li jwiegħed li “jipprevjeni l-Alzheimer”, ittrattah b’kawtela. In-NIA jagħti parir li tikkonsulta tabib qabel ma tipprova kwalunkwe pillola jew trattament li jwiegħed li jipprevjeni l-Alzheimer, għax dawn il-prodotti jistgħu jkunu mhux sikuri, tilf ta’ flus, jew it-tnejn.
 
-## What have large trials found?
+## X’sabu trials kbar?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Studji osservattivi (li josservaw x’jiġri lin-nies maż-żmien) jistgħu juru rabtiet. Triali każwali, fejn in-nies jiġu assenjati għal programm jew grupp ta’ paragun bix-xorti, huma t-test aktar qawwi. Hawn x’sabu xi wħud mill-aktar triali magħrufa.
 
-### FINGER (Finland)
+### FINGER (il-Finlandja)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+It-trial FINGER irreġistra 1,260 adult ta’ bejn 60 u 77 sena li kienu f’riskju ogħla ta’ dimenzja. Nofshom irċevew programm ta’ sentejn ta’ parir dwar id-dieta, eżerċizzju, eżerċizzji tal-moħħ bil-kompjuter u kontrolli tas-saħħa tal-qalb u tal-vini tad-demm; in-nofs l-ieħor irċieva parir ġenerali dwar is-saħħa. Il-grupp tal-programm mar ftit aħjar fuq sensiela ta’ testijiet tal-ħsieb, differenza żgħira iżda sinifikanti statistikament ([trial FINGER fil-Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). It-trial kejjel ir-riżultati tat-testijiet, mhux dijanjosi ta’ dimenzja.
 
-### US POINTER (United States)
+### US POINTER (l-Istati Uniti)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER irreġistra 2,111 adult ta’ bejn 60 u 79 sena li kienu inattivi, kellhom dieta inqas tajba u kellhom fatturi oħra ta’ riskju. Iż-żewġ gruppi ġew inkoraġġuti biex ikunu aktar attivi fiżikament u mentalment, jieklu aħjar, jibqgħu soċjali u jimmonitorjaw is-saħħa tal-qalb. Grupp wieħed irċieva programm strutturat b’kowċ; l-ieħor immexxa lilu nnifsu. Matul sentejn, ir-riżultati tat-testijiet tal-ħsieb tjiebu **fiż-żewġ** gruppi, u ftit aktar fil-grupp strutturat ([trial US POINTER fil-JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). L-awturi jgħidu li għandu jsir aktar segwitu biex wieħed jaf jekk id-differenza tgħoddx fil-ħajja ta’ kuljum. Peress li ma kien hemm l-ebda grupp ta’ “ma tagħmel xejn”, it-trial ma jistax jgħid kemm għenu t-tnejn il-programmi meta mqabbla ma’ l-ebda bidla.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (pressjoni tad-demm)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND studja 9,361 adult Amerikani ta’ 50 sena jew aktar bi pressjoni għolja tad-demm. Ġew assenjati lil għan iktar baxx tal-pressjoni (in-numru ta’ fuq taħt 120) jew lil għan standard (taħt 140). L-għan iktar baxx naqqas b’mod sinifikanti **indebboliment kognittiv ħafif**, stadju ta’ problemi tal-memorja u tal-ħsieb li jista’ jiġi qabel id-dimenzja. Għad-**dimenzja probabbli**, kien hemm inqas każijiet fil-grupp bil-għan iktar baxx, iżda d-differenza ma kinitx sinifikanti statistikament. It-trial waqaf kmieni u kellu inqas każijiet ta’ dimenzja milli kien mistenni, allura seta’ kien żgħir wisq biex jweġeb dik il-mistoqsija ([SPRINT MIND fil-JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### X’jiżdiedu r-reviżjonijiet
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Reviżjoni ta’ Cochrane tal-2021 għaqqdet disa’ triali kbar ta’ programmi li jindirizzaw diversi riskji f’daqqa, b’aktar minn 18,000 persuna. Sabet benefiċċju żgħir fuq testijiet tal-ħsieb, iżda **ebda differenza ċara fl-għadd ta’ nies li żviluppaw dimenzja** fiż-żewġ triali li kejlu dan ([reviżjoni ta’ Cochrane ta’ intervent multi-dominju](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Rieżami tal-2017 mill-National Academies of Sciences, Engineering, and Medicine, magħmul mill-NIA, sab evidenza “inkoraġġanti iżda mhux konklussiva” għal tliet approċċi: l-immaniġġjar tal-pressjoni għolja tad-demm, iż-żieda fl-attività fiżika, u t-taħriġ kognittiv.
 
-## Does it matter when you start?
+## Għandu jimpurta meta tibda?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Il-parir tal-Lancet Commission huwa li tnaqqas ir-riskji kmieni kemm jista’ jkun u żżommhom baxxi għal żmien twil kemm jista’ jkun: “iktar kmieni, iktar tajjeb” u “iktar twil, iktar tajjeb”. Jgħid ukoll li qatt mhu tard wisq jew bikri wisq biex jitnaqqas ir-riskju. Ħafna mill-evidenza tikkonċerna nofs il-ħajja, bejn madwar 40 u 65 sena, iżda xi fatturi, bħat-telf tal-vista u l-iżolament soċjali, huma riskji tal-aħħar ħajja fejn azzjoni tista’ xorta tkun sensata.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ir-rapport jgħid li issa hemm evidenza iktar qawwija li esponiment itwal għal riskju għandu effett akbar. Per eżempju, dijabete li tibda f’nofs il-ħajja tidher li tgħodd aktar minn dijabete li tibda aktar tard.
 
-## Is dementia risk the same for everyone?
+## Ir-riskju tad-dimenzja huwa l-istess għal kulħadd?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Le. Il-Commission sabet li n-nies f’pajjiżi b’dħul baxx u medju, nies minn gruppi minoritarji u nies bi flus inqas spiss iġorru aktar minn dawn ir-riskji, u għalhekk id-dimenzja tendi tiżviluppa f’età iżgħar. Ħafna riskji huma marbuta ma’ ċirkostanzi li n-nies ma għażlux, bħal il-kwalità tal-edukazzjoni li kellhom bħala tfal, l-arja fejn jgħixu, u jekk ikel tajjeb huwiex affordabbli u qrib.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Għalhekk ir-rakkomandazzjonijiet tal-Commission huma mmirati lejn il-gvernijiet daqs lill-individwi: edukazzjoni tajba għat-tfal kollha, arja nadifa, miżuri biex jitnaqqas it-tpejjip, inqas zokkor u melħ fl-ikel li jinbiegħ fil-ħwienet u r-ristoranti, u għajnuniet għas-smigħ għal kull min jeħtieġhom. L-isforz individwali jimpurta, iżda hekk jimpurta wkoll id-dinja li n-nies jgħixu fiha. Hija raġuni oħra biex ma tagħtix il-ħtija lil ħadd għal dijanjosi.
 
-## What are the honest limits of this research?
+## X’huma l-limiti onesti ta’ din ir-riċerka?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Id-dimenzja tieħu għexieren ta’ snin biex tiżviluppa**, iżda ħafna trials jdumu sentejn sa ħames snin. Il-kejl tad-dimenzja nnifisha, u mhux biss tar-riżultati tat-testijiet, jeħtieġ studji twal ħafna u kbar ħafna.
+- **Ħafna triali jkejlu testijiet tal-ħsieb.** Titjib żgħir fuq test ma jfissirx neċessarjament li inqas nies se jiżviluppaw dimenzja jew li l-ħajja ta’ kuljum se tkun aktar faċli.
+- **Il-volontarji spiss huma iktar f’saħħithom** u edukati minn dawk tal-pubbliku ġenerali. Il-Lancet Commission jgħid li ħafna mill-evidenza għadha ġejja minn pajjiżi b’dħul għoli u li l-gruppi minoritarji huma rappreżentati inqas.
+- **Xi rabtiet imorru fi triq doppja.** Li tkun inattiv jew iżolat jista’ jkun effett bikri tad-dimenzja, mhux biss kawża tagħha.
+- **Triali tad-dieta għadhom ta’ diżappunt.** Trial ta’ tliet snin tad-dieta MIND ma sab l-ebda differenza sinifikanti fil-ħsieb meta mqabbel ma’ dieta ta’ kontroll. Ara [il-gwida tagħna dwar id-dieta](/brain-health/diet/).
+- **Logħbiet tal-moħħ mhux ippruvati li jipprevjenu d-dimenzja.** Ara [il-gwida tagħna dwar logħbiet tal-moħħ u d-dimenzja](/brain-health/brain-games/).
+- **Is-sawm għandu evidenza umana limitata ħafna**, u jista’ jkun ta’ riskju għal anzjani. Ara [il-gwida tagħna dwar is-sawm](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Jekk xi ħadd għamel kollox “tajjeb”, għalfejn xorta ġie bid-dimenzja?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Għax id-dimenzja mhix sempliċiment ir-riżultat ta’ għażliet. In-NIA jgħid li [l-età hija l-ikbar fattur ta’ riskju magħruf għall-Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), u ħadd ma jista’ jbiddilha. Il-ġeni jagħmlu sehem. U x-xjenzjati għadhom ma jifhmux sħiħ x’jikkawża l-Alzheimer fl-biċċa l-kbira tan-nies. Anke jekk jitneħħew kull wieħed mill-14-il fattur ta’ riskju, l-istima tal-Lancet Commission innifsu tħalli iktar minn nofs il-każijiet bla spjegazzjoni.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Allura jekk qed tieħu ħsieb lil xi ħadd li għamel eżerċizzju, kiel tajjeb, qatt ma pejjep u xorta ġie bid-dimenzja, ma ġara xejn ħażin mill-parti tiegħu, u lanqas mill-parti tiegħek. Jekk int qed tgħix bid-dimenzja innifsek, mhix ħtija tiegħek. Il-ħtija hija komuni fost il-familji, imma ma tistħoqqx. Dak li jimpurta issa huwa l-kumdità, il-konnessjoni u l-jiem tajba, u l-[ideat tal-attivitajiet](/activities/ideas/) tagħna u l-[gwida dwar il-kura tal-ħajja tiegħek innifsek](/caregiving/caregiver-self-care/) huma post tajjeb biex tibda.
 
-## What steps can you talk over with a doctor?
+## X’passi tista’ titkellem dwarhom ma’ tabib?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Dawn huma l-oqsma l-iktar studjati. Jistħoqqilhom jitqajmu f’eżami ta’ kuljum għax ħafnu minnhom jgħinu wkoll is-saħħa tal-qalb, il-burdata u l-indipendenza, kwalunkwe jkun l-effett tagħhom fuq id-dimenzja.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Pressjoni tad-demm.** Staqsi x’inhuma n-numri tiegħek u liema għan jaqbel miegħek. Il-Lancet Commission jissuġġerixxi li wieħed jimmira għal numru ta’ fuq ta’ 130 jew inqas minn madwar l-età ta’ 40, iżda l-mira t-tajba għal adult anzjan tiddependi fuq is-saħħa ġenerali tiegħu.
+2. **Smigħ.** Staqsi għal test tas-smigħ, u jekk l-għajnuniet għas-smigħ jgħinux. Il-[gwida tagħna dwar is-smigħ](/brain-health/hearing/) tispjega r-riċerka.
+3. **Vista.** Oħroġ għal eżamijiet regolari tal-għajnejn u staqsi jekk problemi bħal katarattu jistgħux jiġu ttrattati.
+4. **Kolesterol.** Staqsi jekk il-kolesterol LDL tiegħek għandux jiġi ċċekkjat u jekk xi ħaġa għandhiex tinbidel.
+5. **Zokkor fid-demm.** Jekk għandek dijabete, staqsi kif tmexxiha b’mod sikur.
+6. **Burdata.** Id-depressjoni hija komuni u tista’ tiġi ttrattata. Għid lit-tabib tiegħek jekk ħassejt baxx jew tlift l-interess f’affarijiet għal aktar minn ftit ġimgħat.
+7. **It-tpejjip u l-alkoħol.** Staqsi dwar appoġġ biex tieqaf tpejjep u dwar limiti sikuri għall-alkoħol.
+8. **Moviment.** Staqsi x’tip ta’ attività hija sikura għalik. Il-[gwida tagħna dwar l-eżerċizzju](/brain-health/exercise/) fiha ideat.
+9. **Protezzjoni tar-ras.** Ilbes elmett għar-rikba u l-isports ta’ kuntatt, u staqsi dwar il-prevenzjoni tal-waqgħat.
+10. **Iż-żamma tal-konnessjoni.** Il-ħin ma’ nies oħra huwa parti minn ħajja tajba. Ara l-gwida tagħna dwar [il-konnessjoni soċjali](/brain-health/social-connection/), u wkoll [l-irqad](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Qabel ma tibdel mediċini, dieta, supplementi, sawm jew eżerċizzju, kellem it-tabib tiegħek l-ewwel, speċjalment jekk għandek mard tal-qalb, dijabete, storja ta’ waqgħat, jew diġà qed tgħix bid-dimenzja.
 
-## Talk with a doctor
+## Kellem tabib
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Jekk tinnota bidliet fil-memorja jew fil-ħsieb li jqallquk, fik innifsek jew f’xi ħadd ieħor, agħmel appuntament. In-NIA jgħid li [problemi tal-memorja jistgħu jkollhom kawżi oħra](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), bħal effetti sekondarji tal-mediċini, problemi tat-tirojde, depressjoni jew nuqqas ta’ vitamina B12, u li xi wħud minn dawn il-problemi jisparixxu meta l-kawża tiġi ttrattata. [Il-gwida tagħna dwar sinjali ta’ twissija](/brain-health/warning-signs/) tispjega x’għandek tipprova tara.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Ikseb għajnuna urġenti** għal bidliet f’daqqa: konfużjoni f’daqqa, dgħufija jew tkexkix f’naħa waħda, diffikultà biex titkellem, jew uġigħ ta’ ras qawwi jistgħu jkunu sinjali ta’ puplesija jew emerġenza oħra. Ċempel in-numru tal-emerġenzi lokali tiegħek.
 
-## Where Golden Moments fits
+## Fejn jaqa’ Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments jagħmel attivitajiet sempliċi maqsumin, bħal [conversation cards](/games/conversation-cards/), [picture bingo](/games/picture-bingo/) u [waqfa ta’ nifs kalma](/games/calm-breathing/). Huma għall-pjaċir u l-ħin flimkien. M’huma trattament, u ma jipprevjenux jew jgħaffu d-dimenzja.
