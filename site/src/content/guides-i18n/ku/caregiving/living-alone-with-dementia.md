@@ -1,7 +1,7 @@
 ---
 title: "Piştgirîkirina Kesê bi Demansiyê ku Bi Tenê Dijî"
 seoTitle: "Bi Tenê Jiyana bi Demansiyê re: Piştgirî ji Malbatan re"
-description: "Kesê bi demansiyê ku bi tenê dijî bi rêzeyên domdar, kontrolên li ser bingeha lihevkirinê û alîkariya pratîkî piştgirî bikin, bi berjewendiya daxwaz û serbixwebûna wan."
+description: "Kesê bi demansiyê ku bi tenê dijî bi rêzeyên domdar, kontrolên lihevkirî û alîkariya pratîkî piştgirî bikin, bi rêzgirtina daxwaz û serbixwebûna wan."
 section: caregiving
 order: 12
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Dema Kesek bi Demansiyê Tiştan Dibîne an Dibihîze"
 seoTitle: "Halusînasyon û Demansiya: Gavên Aram ji Lênihêrvanan re"
-description: "Fêr bibin ka dema kesek bi demansiyê tiştan dibîne an dibihîze çawa aram bersiv bidin, derdora xwe kontrol bikin û bizanin kengê guhertinên nişkê hewceyê alîkariya bijîşkî ne."
+description: "Fêr bibin ka dema kesek bi demansiyê tiştan dibîne an dibihîze çawa aram bersiv bidin, derdora xwe kontrol bikin û kengê alîkariya bijîşkî hewce ye."
 section: caregiving
 order: 36
 updated: 2026-11-11
