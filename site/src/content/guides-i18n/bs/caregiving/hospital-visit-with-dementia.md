@@ -55,7 +55,7 @@ Podijelite detalje koji pomažu osoblju da komunicira s ovom osobom i brine o nj
 
 Držite bilješku kratkom i privatnom. Podijelite je s članovima tima za njegu koji je trebaju. Pitajte osoblje kako želi da primi ove informacije i gdje da se čuvaju. Nemojte osjetljive detalje stavljati na javnu tablu niti ih dijeliti s posjetiocima kojima nisu potrebni.
 
-Osoba treba da bude dio razgovora kad god je to moguće. Zamolite osoblje da razgovara direktno s njom, koristi jednostavne riječi i dâ vremena za odgovor. Ako treba dodati nešto što osoba možda neće zapamtiti, objasnite šta ste primijetili, bez nagađanja o uzroku.
+Osoba treba da bude dio razgovora kad god je to moguće. Zamolite osoblje da razgovara direktno s njom, koristi jednostavne riječi i da joj vremena za odgovor. Ako treba dodati nešto što osoba možda neće zapamtiti, objasnite šta ste primijetili, bez nagađanja o uzroku.
 
 ## Kako da pomognem tokom posjete hitnoj službi?
 
