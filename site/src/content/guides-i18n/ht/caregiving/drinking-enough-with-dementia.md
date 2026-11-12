@@ -69,11 +69,11 @@ Pa bezwen ensiste sou yon sèl bwason si moun nan refize l. Ofri yon lòt chwa f
 
 Pa diminye likid pou evite aksidan sof si yon pwofesyonèl sante ba yon plan endividyèl. [Alzheimer’s Association avèti](https://www.alz.org/help-support/caregiving/daily-care/incontinence) ke limite likid ka mennen nan dezidratasyon ak lòt pwoblèm. Yon moun ki bezwen èd pou jwenn oswa itilize twalèt ka benefisye de yon kalite sipò diferan. [Gid nou an sou kontinans](/caregiving/toileting-and-incontinence-with-dementia/) kouvri woutin twalèt ak entimite.
 
-Gaspiye ofrann yo nan tout jounen an olye pou w mande moun nan bwè anpil nan yon sèl fwa. Swiv nenpòt enstriksyon medikal ki deja la epi mande yon doktè ki kantite ki bon pou moun nan. Pa konte sou yon nimewo jeneral sou entènèt; bezwen likid varye, epi gen moun ki gen yon plan likid medikal.
+Distribye ofrann yo nan tout jounen an olye pou w mande moun nan bwè anpil nan yon sèl fwa. Swiv nenpòt enstriksyon medikal ki deja la epi mande yon doktè ki kantite ki bon pou moun nan. Pa konte sou yon nimewo jeneral sou entènèt; bezwen likid varye, epi gen moun ki gen yon plan likid medikal.
 
 ## Ki chanjman mwen ta dwe remake?
 
-Fè atansyon ak sa ki diferan de modèl abitye moun nan. Li ka bwè bokou mwens pase dabitid, kite yon bwason li renmen San touche oswa bezwen plis èd pase avan. Yon bouch sèch, vètij, fatig ki pa nòmal oswa chanjman nan pipi ka tou se rezon pou verifye ak yon pwofesyonèl sante. Siy sa yo ka gen lòt kòz, kidonk pa dyagnostike dezidratasyon pou kont ou.
+Fè atansyon ak sa ki diferan de modèl abitye moun nan. Li ka bwè bokou mwens pase dabitid, kite yon bwason li renmen san li pa touche oswa bezwen plis èd pase avan. Yon bouch sèch, vètij, fatig ki pa nòmal oswa chanjman nan pipi ka tou se rezon pou verifye ak yon pwofesyonèl sante. Siy sa yo ka gen lòt kòz, kidonk pa dyagnostike dezidratasyon pou kont ou.
 
 Ekri sa ou remake ak lè li rive. Enkli si moun nan te malad, si li te nan yon kote cho oswa si li te gen pwoblèm pou kenbe oswa vale yon bwason. [Alzheimer’s Association note ke siy dezidratasyon ka difisil pou remake nan yon moun ki gen demans](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Si gen yon chanjman toudenkou oswa ou enkyete, kontakte yon doktè oswa yon lòt pwofesyonèl sante.
 

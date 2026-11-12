@@ -21,7 +21,7 @@ faq:
   - q: "Èske m dwe pale pou moun nan nan randevou a?"
     a: "Mande li si li vle ou la epi kijan li vle ou ede. Kite li reponn kesyon doktè a an premye, epi ajoute detay ak akò li oswa lè doktè a mande sa."
   - q: "Kisa nou dwe fè apre yon vizit doktè?"
-    a: "Mande doktè a rekapitile pwen prensipal yo ak pwochen etap yo. Ekri travay swivi yo, ki moun ki pral fè yo ak ki lè pwochen kontak la planifye. Pataje nòt yo sèlman ak moun moun nan dakò pou enplike."
+    a: "Mande doktè a rekapitile pwen prensipal yo ak pwochen etap yo. Ekri travay swivi yo, ki moun ki pral fè yo ak ki lè pwochen kontak la planifye. Pataje nòt yo sèlman ak moun ki dakò pou enplike."
   - q: "Èske m dwe tann yon randevou si yon moun toudenkou vin dezoryante?"
     a: "Non. Konfizyon toudenkou ka mande atansyon medikal imedyat. Itilize sèvis ijans lokal yo oswa swiv konsèy swen ijans pou zòn ou ye a."
 sources:

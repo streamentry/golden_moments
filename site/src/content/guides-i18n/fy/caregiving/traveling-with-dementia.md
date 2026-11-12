@@ -22,7 +22,7 @@ faq:
   - q: "Hoe kinne wy reizgjen minder benaud meitsje?"
     a: "Hâld it plan ienfâldich, reizgje op in tiid dy't meastal goed wurket, lit ekstra tiid foar rêst en freegje de oanbieders fan tefoaren nei help. Hâld fertroude mielen, sliep- en medisynroutines sa fier mooglik oerein."
   - q: "Wat moatte wy meinimme op reis?"
-    a: "Nim de gewoane medisyn en in aktuele medisynlist, identiteitsbewiis en neikomst-kontakten, in skriftlik reisplan, wetter, snacks en in wiksel klean mei. Kontrolearje de aktuele regels by de loftfeartmaatskippij of ferfierder foardat jo fertrekke."
+    a: "Nim de gewoane medisyn en in aktuele medisynlist, identiteitsbewiis en needkontakten, in skriftlik reisplan, wetter, snacks en in wiksel klean mei. Kontrolearje de aktuele regels by de loftfeartmaatskippij of ferfierder foardat jo fertrekke."
   - q: "Wat as de reis te folle wurdt?"
     a: "Pauzearje earne rêstiger, koarte it úitstapje yn of gean werom nei it ferbliuw. Jo hoege it programma net ôf te meitsjen. It wolwêzen fan de persoan telt swierder as it plan folgje."
 sources:
