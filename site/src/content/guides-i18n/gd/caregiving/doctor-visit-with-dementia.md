@@ -1,7 +1,7 @@
 ---
 title: "Deiseachadh airson Tadhal Dotair le Trom-inntinn"
 seoTitle: "Tadhalan Dotair agus Trom-inntinn: Comhairle don Neach-Cùraim"
-description: "Deiseachadh airson tadhal dotair le trom-inntinn: liostaich ceistean, sgrìobh sìos atharrachaidhean, thoir fiosrachadh mun chungaidh-leigheis agus thoir an neach a-steach."
+description: "Deiseachadh airson tadhal dotair le trom-inntinn: liostaich ceistean, sgrìobh sìos atharrachaidhean, thoir liosta nan cungaidhean leat agus gabh an neach a-steach."
 section: caregiving
 order: 20
 updated: 2026-11-11

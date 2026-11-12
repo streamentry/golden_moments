@@ -1,7 +1,7 @@
 ---
 title: "A’ Bruidhinn mu Dhraibheadh agus Trom-inntinn"
 seoTitle: "Trom-inntinn agus Draibheadh: Tòisich air a’ Chòmhradh"
-description: "Tòisich air còmhradh socair tràth mu dhraibheadh agus trom-inntinn. Planaich roghainnean còmhdhail, mìnich draghan sònraichte agus obraich le proifeisinnich ionadail."
+description: "Tòisich air còmhradh socair tràth mu dhraibheadh agus trom-inntinn. Planaich còmhdhail, mìnich draghan sònraichte agus obraich le proifeisinnich ionadail."
 section: caregiving
 order: 19
 updated: 2026-11-11
