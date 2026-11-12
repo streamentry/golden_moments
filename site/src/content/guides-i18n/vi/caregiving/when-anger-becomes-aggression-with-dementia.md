@@ -82,7 +82,7 @@ Dùng những gì bạn đã quan sát để điều chỉnh lần tương tác 
 
 ## Tôi có thể làm gì sau khi tình huống đã lắng xuống?
 
-Hãy trấn an và quay lại một hoạt động quen thuộc, ít đòi hỏi nếu người ấy muốn. Đừng mắng mỏ, đổ lỗi hay trừng phạt. [Alzheimer's Society lưu ý rằng người ấy vẫn có thể cảm thấy buồn sau khi hành vi đã qua, ngay cả khi họ không nhớ điều gì đã xảy ra](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression).
+Hãy trấn an và quay lại một hoạt động quen thuộc, ít đòi hỏi nếu người ấy muốn. Đừng mắng mỏ, đổ lỗi hay trừng phạt. Alzheimer's Society lưu ý rằng người ấy vẫn có thể cảm thấy buồn sau khi hành vi đã qua, ngay cả khi họ không nhớ điều gì đã xảy ra.
 
 Nếu bạn muốn hiểu một kiểu hình, hãy ghi lại ngắn gọn riêng tư điều đã xảy ra ngay trước đó, những gì bạn quan sát, nó kéo dài bao lâu và điều gì dường như đã giúp ích. Giữ ghi chú thực tế và chia sẻ với đội ngũ chăm sóc của người ấy khi phù hợp. Đừng ghi âm hay ghi hình người ấy, cũng như chia sẻ thông tin riêng tư khi chưa được cho phép.
 
