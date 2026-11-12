@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "මෙඩිටරේනියන් සහ MIND ආහාර වේල් සහ ඩිමෙන්ශියාව: පර්යේෂණ පවසන දේ"
+seoTitle: "MIND ආහාර වේල සහ ඩිමෙන්ශියාව: පර්යේෂණ පවසන දේ"
+description: "MIND සහ මෙඩිටරේනියන් ආහාර වේල් සහ ඩිමෙන්ශියාව ගැන පර්යේෂණ පවසන දේ, ප්‍රධාන අත්හදා බැලීමකට පැහැදිලි ප්‍රතිලාභයක් නොමැති වූයේ ඇයි, සහ ආහාර හොඳින් ගැනීමට උදව් කරන ආකාරය."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  කාලයත් සමඟ මිනිසුන් අනුගමනය කරන නිරීක්ෂණ අධ්‍යයනවල මෙඩිටරේනියන් ශෛලියේ සහ MIND ආහාර වේලවල් ඩිමෙන්ශියා අවදානම අඩු වීම සමඟ සම්බන්ධ කර ඇත, නමුත් එය සෑම විටම නොවේ. 2023 දී ප්‍රකාශිත MIND ආහාර වේලේ වසර තුනක අහඹු අත්හදා බැලීමකින් පාලන ආහාර වේලක් හා සසඳන විට චින්තනයේ හෝ මොළ ස්කෑන් වල සැලකිය යුතු වෙනසක් හමු නොවීය. ඩිමෙන්ශියාව වළක්වන බව ඔප්පු වූ ආහාරයක් හෝ අතිරේකයක් නැත. ඩිමෙන්ශියාව ඇති අයෙකුට වඩාත් වැදගත් වන්නේ ප්‍රමාණවත් ලෙස කෑම හා පානය ගැනීමයි.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "කාලයත් සමඟ මිනිසුන් අනුගමනය කරන සියලු ම නොව සමහර අධ්‍යයනවල, මෙඩිටරේනියන් සහ MIND ආහාර රටා ඩිමෙන්ශියා අවදානම අඩු වීම සමඟ සම්බන්ධ කර ඇත."
+  - "2023 දී වැඩිහිටියන් 604ක් සම්බන්ධ අත්හදා බැලීමකින්, වසර තුනකට පසු MIND ආහාර වේලේ සිටි අය චින්තන පරීක්ෂාවල හෝ මොළ ස්කෑන් වල පාලන ආහාර වේලේ සිටි අයට වඩා හොඳ වූයේ නැත."
+  - "ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය පවසන්නේ නිශ්චිත ආහාරයක් ගැනීමෙන් හෝ වර්ජනය කිරීමෙන් ඇල්සයිමර් වළක්වන බවට කිසිදු සාක්ෂියක් නැති බවයි, සහ ඇල්සයිමර් වළක්වන බව ඔප්පු වූ විටමින් හෝ අතිරේකයක් ද නැත."
+  - "එළවළු, පළතුරු, බෝංචි, සම්පූර්ණ ධාන්‍ය සහ මත්ස්‍ය වලින් පොහොසත් ආහාර වේලක් හෘද සෞඛ්‍යයට සහාය වන අතර, අධික රුධිර පීඩනය සහ දියවැඩියාව වැනි අවදානම්වලට උදව් විය හැකිය."
+  - "ඩිමෙන්ශියාව ඇති අය සඳහා, අතින් ගන්නා කෑම, වර්ණ වෙනස් වන තහඩු, සන්සුන් ආහාර වේලා සහ නිතර පානය බොහෝ විට ඕනෑ ම විශේෂිත ආහාර වේලකට වඩා වැදගත් වේ."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND ආහාර වේල ඩිමෙන්ශියාව වළක්වයිද?"
+    a: "එය ඔප්පු වී නැත. නිරීක්ෂණ අධ්‍යයනවල MIND ආහාර වේලත් අඩු අවදානමත් සම්බන්ධ වූ නමුත්, 2023 දී ප්‍රකාශිත වසර තුනක අහඹු අත්හදා බැලීමකින් MIND ආහාර වේලේ සිටින අය සහ පාලන ආහාර වේලේ සිටින අය අතර චින්තන පරීක්ෂා ප්‍රතිඵල හෝ මොළ ස්කෑන් වල සැලකිය යුතු වෙනසක් හමු නොවීය. දෙකම කණ්ඩායම් ටිකක් වැඩි දියුණු වූ අතර සමාන බරක් අඩු කළහ."
+  - q: "MIND ආහාර වේලට සහ මෙඩිටරේනියන් ආහාර වේලට අතර වෙනස කුමක්ද?"
+    a: "මෙඩිටරේනියන් ආහාර වේල එළවළු, පළතුරු, සම්පූර්ණ ධාන්‍ය, බෝංචි, මාළු සහ ඔලිව් තෙල් මත අවධානය යොමු කරන අතර, රතු මස් සහ මිහිරි ආහාර අඩුවෙන් ඇත. MIND ආහාර වේලෙහි එය රුධිර පීඩනය සඳහා වන DASH ආහාර වේල සමඟ ඒකාබද්ධ කර, කොළ පැහැති එළවළු සහ බෙරි වලට අවධානය එක් කරන අතර, රතු මස්, මිහිරි ආහාර, චීස්, බටර් සහ බැදුණු ආහාර සීමා කරයි."
+  - q: "ඇල්සයිමර් වළක්වන ආහාර හෝ අතිරේක තිබේද?"
+    a: "නැත. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය පවසන්නේ නිශ්චිත ආහාරයක් ගැනීමෙන් හෝ වර්ජනය කිරීමෙන් ඇල්සයිමර් හෝ වයස සම්බන්ධ සංජානන පිරිහීම වළක්වන බවට කිසිදු සාක්ෂියක් නැති බවයි, සහ ඇල්සයිමර් වළක්වන බව ඔප්පු වූ විටමින් හෝ අතිරේකයක් නැත. අතිරේක ගැනීමට පෙර වෛද්‍යවරයා සමඟ කථා කරන්න."
+  - q: "ඩිමෙන්ශියාව ඇති අයෙකුට කෑමට පහසු ම ආහාර මොනවාද?"
+    a: "ඇඟිලිවලින් ගත හැකි කුඩා කැබලි, උදාහරණ ලෙස සෑන්ඩ්විච් කැබලි, කුකුළු මස් කැබලි, තොඩ කැබලි හෝ වාෂ්ප උයන ලද එළවළු කැබලි, බොහෝ විට ආහාර භාණ්ඩ භාවිතයට වඩා පහසුය. චවනය හෝ ගිලීම අපහසු නම්, ගොඩ ගැසූ බිත්තර, ඇපල් සෝස් හෝ කොටේජ් චීස් වැනි මෘදු ආහාර උදව් කළ හැකිය. කැස්ස හෝ හුස්ම හිර වීමක් ඇති වුවහොත් වෛද්‍යවරයාගෙන් ගිලීමේ තක්සේරුවක් ගැන අසන්න."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+ඔබ “මොළයට හිතකර” ආහාර වේලක් ඇල්සයිමර් දුරු කළ හැකි යැයි කියවා ඇති විය හැකිය. සැබෑ චිත්‍රය වඩාත් මෘදු ය. කාලයත් සමඟ මිනිසුන් අනුගමනය කරන අධ්‍යයනවල සමහර ආහාර රටා අඩු අවදානම සමඟ සම්බන්ධ වී ඇත, නමුත් මෙතෙක් වඩාත් හොඳ අත්හදා බැලීමේ පැහැදිලි ප්‍රතිලාභයක් හමු නොවීය. මෙම පිටුව දෙකම පැහැදිලි කරන අතර, දැනටමත් ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු සඳහා සාමාන්‍යයෙන් වැදගත් වන දේ වෙත හැරේ: ප්‍රමාණවත් ලෙස කෑම හා පානය ගැනීම සහ එය භුක්ති විඳීම.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+මෙය සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. ඔබේ හෝ වෙනත් කෙනෙකුගේ ආහාර වේලෙහි විශාල වෙනස්කම් කිරීමට පෙර වෛද්‍යවරයෙකු හෝ ලියාපදිංචි පෝෂණ විශේෂඥයෙකු සමඟ කථා කරන්න. අපේ [වෛද්‍ය වගකීම් ප්‍රකාශය](/medical-disclaimer/) බලන්න.
 
-## What are the Mediterranean and MIND diets?
+## මෙඩිටරේනියන් සහ MIND ආහාර වේල් යනු මොනවාද?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය (NIA) ඒවා මෙසේ විස්තර කරයි ([ආහාර වේල සහ ඇල්සයිමර් ගැන NIA](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **මෙඩිටරේනියන් ආහාර වේලෙහි:** පළතුරු, එළවළු, සම්පූර්ණ ධාන්‍ය, බෝංචි, මාළු සහ මුහුදු ආහාර සහ ඔලිව් තෙල් බහුල ව ඇති අතර, රතු මස්, බිත්තර සහ මිහිරි ආහාර අඩු ප්‍රමාණයෙන් ඇත.
+- **MIND ආහාර වේල** (Mediterranean–DASH Intervention for Neurodegenerative Delay): මෙඩිටරේනියන් ආහාර වේලෙහි සහ රුධිර පීඩනය සඳහා වන DASH ආහාර වේලෙහි මිශ්‍රණයකි. එහි එළවළු, විශේෂයෙන් කොළ පැහැති එළවළු; බෙරි; සම්පූර්ණ ධාන්‍ය; බෝංචි; ගෙඩි වර්ග; සතියකට එක් වරක්වත් මාළු; සහ ඔලිව් තෙල් ඇතුළත් වේ. එය රතු මස්, මිහිරි ආහාර, චීස්, බටර් හෝ මාගරින් සහ බැදුණු හෝ ඉක්මන් ආහාර සීමා කරයි.
 
-## Do these diets lower dementia risk?
+## මෙම ආහාර වේල් ඩිමෙන්ශියා අවදානම අඩු කරයිද?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+සාක්ෂි මිශ්‍ර ය. NIA පවසන්නේ, සියලු ම නොව සමහර නිරීක්ෂණ අධ්‍යයනවල, මෙඩිටරේනියන් සහ MIND ආහාර වේල් රතු මස්, සන්තෘප්ත මේද සහ සීනි වැඩි බටහිර ශෛලියේ ආහාර වේලක් හා සසඳන විට අඩු ඩිමෙන්ශියා අවදානම සමඟ සම්බන්ධ වී ඇති බවයි.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 Lancet කොමිෂන් සභාව පර්යේෂණය වඩාත් විස්තරාත්මකව සමාලෝචනය කළේ ය ([Lancet කොමිෂන් සභාව](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- කොහෝට් අධ්‍යයන පිළිබඳ එක් සමාලෝචනයකින් ආහාර ගුණාත්මකභාවය ඉහළ වීම, ඩිමෙන්ශියා අවදානම දළ වශයෙන් 20%කින් අඩු වීම සමඟ සම්බන්ධ විය.
+- කොහෝට් තුනක විශාල විශ්ලේෂණයකින් MIND ආහාර වේලට සමීපව අනුගමනය කිරීම අඩු අවදානම සමඟ සම්බන්ධ විය.
+- නමුත් වයස මැද වියේ පිරිස් 28,025ක් දළ වශයෙන් වසර 20ක් අනුගමනය කළ ස්වීඩන අධ්‍යයනයකින්, නිර්දේශිත ආහාර වේල් දෙකෙන් කිසිවක් හෝ මෙඩිටරේනියන් ශෛලියේ ආහාර වේලක් මගින් අඩු අවදානමක් හමු නොවීය.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+නිරීක්ෂණ අධ්‍යයනවලට හේතුඵල ඔප්පු කළ නොහැක. මෙසේ ආහාර ගන්නා අය බොහෝ විට ආදායම, අධ්‍යාපනය, ව්‍යායාම සහ සෞඛ්‍ය සේවාවට ප්‍රවේශය වැනි අනෙක් අංශවලින් ද වෙනස් වේ. කොමිෂන් සභාව නිගමනය කළේ සෞඛ්‍ය සම්පන්න ආහාර වේල් ඩිමෙන්ශියාව සෘජුවම වළක්වන බවට ප්‍රමාණවත් සාක්ෂි නොමැති බවයි, පළතුරු සහ එළවළු බහුල ව ගැනීම සහ අතිශය සැකසූ ආහාර අඩුවෙන් ගැනීම බොහෝ සෞඛ්‍ය තත්ත්ව සඳහා හොඳ වන අතර, තරබාරුව, දියවැඩියාව සහ අධික රුධිර පීඩනය වැනි අවදානම් සාධකවලට බලපාන නමුත්. එය ආහාර වේල එහි [අවදානම් සාධක 14](/brain-health/risk-factors/) ලැයිස්තුවට එක් කළේ නැත.
 
-## What did the 2023 MIND diet trial find?
+## 2023 MIND ආහාර වේල් අත්හදා බැලීම සොයා ගත්තේ කුමක්ද?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+මෙතෙක් ඇති ප්‍රබලතම පරීක්ෂාව 2023 දී New England Journal of Medicine හි ප්‍රකාශිත අහඹු අත්හදා බැලීමකි ([MIND ආහාර වේල් අත්හදා බැලීම](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **කවුද:** ශිකාගෝ සහ බොස්ටන් ප්‍රදේශවල වයස 65 සහ ඊට වැඩි, චින්තන ගැටළු නොමැති, ඩිමෙන්ශියාව ඇති සමීප ඥාතියෙකු සිටින, තරබාරු, සහ ආරම්භයේ දී අඩු සෞඛ්‍ය සම්පන්න ආහාර වේලක් තිබූ වැඩිහිටියන් 604ක්.
+- **කුමක්ද:** වසර තුනක් පුරා, අඩකට MIND ආහාර වේලත්, අනෙක් අඩකට ඔවුන්ගේ සාමාන්‍ය ආහාර වේලත් අනුගමනය කරන ලදී. දෙකම කණ්ඩායම්වලින් දිනකට කැලරි 250ක් අඩු ගන්නා ලෙස ඉල්ලා සිටි අතර, ලියාපදිංචි පෝෂණ විශේෂඥයන්ගෙන් නිත්‍ය මඟ පෙන්වීම ලැබුණි.
+- **ප්‍රතිඵලය:** චින්තන පරීක්ෂා ප්‍රතිඵල **දෙකම** කණ්ඩායම්වල තරමක් වැඩි දියුණු විය. කණ්ඩායම් අතර වෙනස කුඩා වූ අතර **සංඛ්‍යානමය වශයෙන් සැලකිය යුතු නොවීය**. මොළ ස්කෑන් ද දෙකම කණ්ඩායම්වල සමාන වෙනස්කම් පෙන්වීය.
+- **බර:** දෙකම කණ්ඩායම් කිලෝග්‍රෑම් 5ක් (වාතාවරණය අනුව පවුම් 11ක් පමණ) දළ වශයෙන් අඩු කළහ.
 
-### Why might the trial have found no difference?
+### අත්හදා බැලීමේ වෙනසක් නොතිබිය හැකි ඇයි?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+පර්යේෂකයන් හේතු කිහිපයක් යෝජනා කළහ. පාලන කණ්ඩායමත් එහි ආහාර වේල වැඩි දියුණු කර ඇති විය හැකිය, මන්ද එය සමාන බරක් අඩු කළ නිසා. නැවත නැවත පරීක්ෂා කිරීම, මිනිසුන් පරීක්ෂාවලට හුරු වන විට, එමඟින් ම ප්‍රතිඵල වැඩි දියුණු කළ හැකිය. වසර තුනක් කෙටි විය හැකිය. සහභාගිවන්නන්ගෙන් බහුතරය හොඳින් අධ්‍යාපනය ලැබූ, යුරෝපීය සම්භවයක් ඇති අය වූ නිසා, ප්‍රතිඵල සැමට අදාළ නොවිය හැකිය.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+එබැවින් අවංක සාරාංශය: MIND ආහාර වේල වසර තුනක් තුළ සාධාරණ කැලරි අඩු කළ ආහාර වේලක් ජය ගත්තේ නැත. එයින් අදහස් වන්නේ සෞඛ්‍ය සම්පන්න ආහාර ගැනීම නිෂ්ඵල බව නොවේ. එයින් අදහස් වන්නේ කිසිවෙකු නිශ්චිත ආහාර වේලක් ඩිමෙන්ශියාව වළක්වයි කියා අපේක්ෂා නොකළ යුතු බවයි.
 
-## What about specific foods and supplements?
+## නිශ්චිත ආහාර සහ අතිරේක ගැන කුමක් ද?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA පවසන්නේ නිශ්චිත ආහාරයක් ගැනීමෙන් හෝ වර්ජනය කිරීමෙන් ඇල්සයිමර් හෝ වයස සම්බන්ධ සංජානන පිරිහීම වළක්වන බවට සාක්ෂි නැති බවයි. බ්ලූබෙරි, කොළ පැහැති එළවළු සහ කහ ඉඟුරු යන සියල්ල අධ්‍යයනය කර ඇති නමුත් ඔප්පුවක් නැත. ඇල්සයිමර් වළක්වන බව ඔප්පු වූ විටමින් හෝ අතිරේකයක් නැති බවත්, ඒ අරමුණු සඳහා කිසිවක් නිර්දේශ නොකරන බවත් NIA තවදුරටත් පවසයි. ඇල්සයිමර් වළක්වන ලෙස විකුණන ඔප්පු නොවූ නිෂ්පාදන අනිරාපදායී, මුදල් නාස්තියක්, හෝ දෙකම විය හැකි බවත්, නියම කළ ඖෂධවලට බාධා කළ හැකි බවත් ප්‍රවේශම් කරන NIA, ඕනෑම දෙයක් උත්සාහ කිරීමට පෙර වෛද්‍යවරයා සමඟ පරීක්ෂා කරන ලෙස කියයි ([ඇල්සයිමර් වළක්වා ගැනීම ගැන NIA](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## ආහාර සෞඛ්‍ය සම්පන්න සහ රසවත් ව තබා ගන්නේ කෙසේද?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+බොහෝ වැඩිහිටියන් සඳහා ඉලක්කය තදින් සැලසුම් කළ ක්‍රමයක් නොව, පෝෂණය ලබා දෙන, හුරු, සහ සුවපහසු ආහාර වේ:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **ඔබ කැමති ආහාර මත ආහාර වේල් ගොඩ නඟන්න** මෙඩිටරේනියන් රටාවෙන්: එළවළු, පළතුරු, බෝංචි, සම්පූර්ණ ධාන්‍ය, මාළු සහ ඔලිව් තෙල්.
+- **ප්‍රිය රසවත් දෑ තබා ගන්න.** විශේෂයෙන් ජීවිතයේ පසු කොටසේ, භුක්තිය සහ රුචිය වැදගත් ය.
+- **හැකි විට අන් අය සමඟ කන්න.** එකට බෙදා ගන්නා ආහාර හොඳ සහවාසයකි.
+- **එකට උයන්න.** එළවළු සෝදීම හෝ බඳුනක් කලවම් කිරීම හොඳ සහයෝගී ක්‍රියාකාරකමකි; [ගෘහස්ථ කාර්යයන්](/activities/household-tasks/) බලන්න. ප්‍රිය පවුල් ව්‍යංජනයක් [පැරණි මතක](/activities/reminiscence/) ද ඇවිළවිය හැකිය.
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+වැඩිහිටියන් වෛද්‍යවරයෙකු සමඟ කථා කිරීමකින් තොරව කැලරි අඩු කිරීම හෝ බර අඩු කිරීම නොකළ යුතු අතර, උපවාසයට අමතර අවදානම් ඇත. අපේ [උපවාස මාර්ගෝපදේශය](/brain-health/fasting/) බලන්න.
 
-## How can you help someone with dementia eat well?
+## ඩිමෙන්ශියාව ඇති අයෙකුට හොඳින් ආහාර ගැනීමට ඔබ උදව් කරන්නේ කෙසේද?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+දැනටමත් ඩිමෙන්ශියාව සමඟ ජීවත් වන අය සඳහා, **ප්‍රමාණවත්** ලෙස කෑම හා පානය ගැනීම සාමාන්‍යයෙන් ප්‍රධාන සැලකිල්ල වේ. ඇල්සයිමර් සංගමය සටහන් කරන්නේ මිනිසුන් කෑම ගැනීම අමතක කිරීමට, දැනටමත් කෑවා යැයි සිතීමට, හෝ තේරීම් නිසා අධික ලෙස බරපතල වීමට ඉඩ ඇති බවත්, දුර්වල පෝෂණය හැසිරීම් රෝග ලක්ෂණ වැඩි කර බර අඩු වීමට හේතු විය හැකි බවත්ය ([ඇල්සයිමර් සංගමය ආහාර සහ කෑම ගැනීම ගැන](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). මෙම අදහස් ඇල්සයිමර් සංගමයෙන්, NIA සහ ඇල්සයිමර් සමාජයෙන් ලැබේ:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **ඇඟිලිවලින් ගත හැකි ආහාර පිරිනමන්න.** අතට ගැනීමට පහසු කුඩා කැබලි, උදාහරණ ලෙස සෑන්ඩ්විච් කැබලි, කුකුළු මස් කැබලි, මාළු ලෑලි, තොඩ කැබලි හෝ වාෂ්ප බ්‍රොකොලි, භාණ්ඩ නොමැතිව පුද්ගලයාට ම තමන් පෝෂණය කර ගැනීමට ඉඩ දෙයි.
+2. **මේසය මත වර්ණ වෙනස්කම් භාවිතා කරන්න.** දෘෂ්ටියේ වෙනස්කම් නිසා කෑම තහඩුවෙන් වෙන් කර හඳුනා ගැනීම අපහසු විය හැකිය. වෙනස් වර්ණයේ ස්ථානීය ආවරණයක් මත සුදු තහඩු හෝ බඳුන් උදව් විය හැකිය. රටා සහිත භාණ්ඩ සහ මේස රෙදි වළක්වන්න.
+3. **එකවර ආහාර එක හෝ දෙකක් පමණක් පිරිනමන්න.** සම්පූර්ණ තහඩුවක් අධික ලෙස බර විය හැකිය.
+4. **ආහාර වේලා සන්සුන් ව තබන්න.** රූපවාහිනිය නවත්වන්න, මේසය සරලව තබන්න, සහ බොහෝ කාලයක් ඉඩ දෙන්න. NIA යෝජනා කරන්නේ හදිසි නොකර, බල නොකර සිටින ලෙසයි.
+5. **කුඩා ආහාර වේලවල් සහ කෑම නිතර පිරිනමන්න.** පුද්ගලයා ප්‍රමාණවත් ලෙස නොකන්නේ නම්, කුඩා, නිතර ආහාර වේලවල් සහ කැලරි බහුල කෑම් NIA යෝජනා කරයි ([හොඳින් ආහාර ගැනීමට NIA ඉඟි](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **පානය ගැනීමට උදව් කරන්න.** දවස පුරා කුඩා කෝප්ප වතුර හෝ වෙනත් පාන, සහ ගෙඩි, සූප්, මිල්ක්ෂේක් සහ ස්මූතී වැනි ජලය බහුල ආහාර ලබා දෙන්න. පුද්ගලයා වතුර ඉල්ලන්නේ නැත්නම්, රස සහිත වතුර, බඩගොඩ, කිරි, හෝ ඩීකැෆ් කෝපි හෝ තේ උත්සාහ කරන ලෙස NIA යෝජනා කරයි.
+7. **උෂ්ණත්වය පරීක්ෂා කරන්න.** ආහාරයක් හෝ පානයක් අධික ලෙස උණුසුම් බව පුද්ගලයා නොදැනිය හැකිය.
+8. **උපකරණ සහ කෝප්ප අනුවර්තනය කරන්න.** තහඩු වෙනුවට බඳුන්, විශාල අතුරු සහිත හැඳි, සහ පියන සහිත කෝප්ප ආහාර ගැනීම පහසු කළ හැකිය. අලංකාරය ගැන කරදර නොවන්න.
+9. **ආහාර හපන්නට සහ ගිලීමට පහසු කරන්න.** ආහාර කුඩා කැබලි කරන්න හෝ මෘදු ආහාර පිරිනමන්න. පුද්ගලයා ආහාර ගන්නා විට කැස්සෙන් හෝ හුස්ම හිර වීමෙන් පෙළේ නම්, ඔවුන්ගේ වෛද්‍යවරයාට කියන්න.
+10. **බලෙන් කෑම වළක්වන්න.** ඇල්සයිමර් හි පසු අවධිවල රුචිය ස්වභාවිකව පහත වන බව NIA සටහන් කරයි.
 
-### Signs to tell the doctor about
+### වෛද්‍යවරයාට කියන්න ඕනෑ ලකුණු
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+බර අඩු වීම, ආහාර ප්‍රතික්ෂේප කිරීම, වෙහෙස හෝ දුර්වලතාව යනු කෙනෙකු ප්‍රමාණවත් ලෙස නොකන බවේ ලකුණු විය හැකිය. ඇල්සයිමර් සමාජය සටහන් කරන්නේ දත් වේදනාව හෝ දත් ඇටවුම්, මානසික අවපීඩනය, මල බද්ධය සහ ඖෂධ වෙනස්කම් සියල්ලම රුචිය අඩු කළ හැකි බවයි ([රුචිය ගැන ඇල්සයිමර් සමාජය](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). NIA විසින් ලැයිස්තුගත කළ විජලනයේ ලකුණු අතර කට වියළීම, කරකැවිල්ල, වේගවත් හෘද ස්පන්දනය සහ මායා දර්ශන ඇතුළත් වේ ([පොදු වෛද්‍ය ගැටළු ගැන NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## වෛද්‍යවරයෙකු සමඟ කථා කරන්න
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+ඔබේම ආහාර වේලෙහි හෝ වෙනත් කෙනෙකුගේ ආහාර වේලෙහි විශාල වෙනස්කම් කිරීමට පෙර, විශේෂයෙන් ඔබට දියවැඩියාව, වකුගඩු රෝගය, ගිලීමේ ගැටළු හෝ මෑතකදී බර අඩු වී ඇත්නම්, වෛද්‍යවරයෙකු හෝ ලියාපදිංචි පෝෂණ විශේෂඥයෙකු සමඟ කථා කරන්න. ඩිමෙන්ශියාව ඇති අයෙකු සඳහා, ඔවුන් සෑම දිනකම කොපමණ කෑම හා පානය ගත යුතු ද, සහ පෝෂණ විශේෂඥයෙකු හෝ අතිරේක උදව් විය හැකි ද යන්න අසන්න.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+කෙනෙකු හුස්ම හිර වීමට ලක්ව සිටිනවා නම්, හෝ හදිසි ව්‍යාකූලත්වය, දරුණු කරකැවිල්ල හෝ සිහිසුන් වීම ඇති නම්, වහාම වෛද්‍ය ආධාර ලබා ගන්න.
