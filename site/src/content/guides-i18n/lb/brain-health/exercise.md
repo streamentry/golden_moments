@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Bewegung a Gehirngesondheet: wat d'Fuerschung verbënnt an, wéi ee sech sécher beweegt"
+seoTitle: "Bewegung a Demenz: wat d'Fuerschung seet"
+description: "Wat d'Fuerschung zwëschen kierperlecher Aktivitéit a Demenz-Risiko verbënnt, mat sécheren a schéine Weeër fir eeler Leit a Leit mat Demenz sech ze beweegen."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Studien verbannen regelméisseg kierperlech Aktivitéit mat engem méi niddrege
+  Demenz-Risiko, an d'Lancet-Commission vun 2024 nennt kierperlech Inaktivitéit
+  ee vun 14 änneraren Risikofaktoren. Studien hunn net bewisen, datt Bewegung
+  Demenz verhënnert. Bewegung hëlleft awer nach ëmmer bei Kraaft, Gläichgewiicht,
+  Stëmmung an Schlof, dofir sinn Spadséiergäng, Stuhlübungen a Danz et wäert fir
+  sech selwer. Sprecht mam Dokter, ier Dir eppes Neies ufänkt.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Kierperlech aktiv Leit hunn am Duerchschnëtt e méi niddrege Demenz-Risiko, awer dat kënnt virun allem aus beobachtende Studien, net aus Studien."
+  - "An enger fënnef Joer laanger Bewegungsstudie mat eeleren Erwuessenen gouf kee kloren Ënnerscheed bei de Denkfäegkeeten tëscht de Gruppen fonnt."
+  - "D'CDC-Empfehlung fir Erwuessener ab 65 deckt Ausdauer-, Kraaft- a Gläichgewiichtsübungen of a seet, datt eppes Bewegung besser ass wéi keng."
+  - "Fir Leit, déi mat Demenz liewen, zielen kuerz, vertraut, gemeinsam Bewegungen wéi e däägleche Spadséiergang oder sëtzend Spiller méi wéi all Zil."
+  - "Méi wéi een vun véier eelere Leit fält all Joer, dofir kommen Gläichgewiichtsübungen an e sécheren Ëmfeld als Éischt."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Kann Bewegung Demenz verhënneren?"
+    a: "Dat kann keen versprieche. Vill Studien verbannen Aktivitéit mat engem méi niddrege Demenz-Risiko, awer klinesch Studien hunn net gewisen, datt Bewegung Demenz verhënnert. Bewegung huet vill anerer bewisen Virdeeler, dofir ass et weiderhin wäert."
+  - q: "Ass Bewegung sécher fir eng Persoun, déi mat Demenz lieft?"
+    a: "Meeschtens ja, mat e bësse Planung. Den National Institute on Aging rät, mam Dokter vun der Persoun ze schwätzen, ier een eng nei Routine ufänkt, bequem Schong ze wielen, Waasser unzebidden a Sessiounen kuerz ze halen. Hält un, wann d'Persoun midd, onsécher oder onzefridde wierkt."
+  - q: "Wéi Übungen kann ee sëtzend maachen?"
+    a: "Sëtzend Méiglechkeeten sinn Stuhl-Dehnungen oder Stuhl-Yoga, mat engem Ballon oder engem weiche Ball werfen, mat engem Sandsäckel werfen, Supp-Dosen hiewen, Dehnbänner an Pedal-Trainer. Dat sinn gutt Wiele, wann Spadséieren schwéier ass."
+  - q: "Wat, wann d'Persoun sech net wëll beweegen?"
+    a: "Drängt net. Probéiert et méi spéit nach eng Kéier, maacht selwer mat, setzt vertraut Musek dobäi oder maacht d'Bewegung zu enger Aufgab, wéi Fegen oder Planzen gieden. E kuerze Spadséiergang bis bei de Bréifkaste zielt, an dat zielt och, zesummen just dobaussen ze sëtzen."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Aktiv sinn ass ee vun den am meeschte studierten Gewunnechten an der Gehirngesondheets-Fuerschung. Studien verbannen et mat engem méi niddrege Demenz-Risiko, awer si hunn net bewisen, datt Bewegung Demenz verhënnert. Kloer ass, datt Bewegung a jidderem Alter bei Kraaft, Gläichgewiicht, Stëmmung a Schlof hëlleft. Dës Säit erkläert, wat d'Fuerschung seet, wéi vill Aktivitéit eeler Leit empfohlen gëtt, a sanfte Weeër, sech mat engem Mënsch mat Demenz ze beweegen.
 
-## Does exercise lower the risk of dementia?
+## Senkt Bewegung d'Risiko vu Demenz?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+D'Fuerschung seet, datt kierperlech aktiv Leit manner oft Demenz kréien, awer d'Beweiser hunn hir Grenzen. D'[Lancet-Commission vun 2024 iwwer Demenz](https://doi.org/10.1016/S0140-6736(24)01296-0) nennt kierperlech Inaktivitéit ee vun 14 änneraren Risikofaktoren. Zesummen maachen dës 14 Faktoren no hirem Modell ongeféier 45 % vun der Demenz weltwäit aus.
 
-Here is what the evidence looks like:
+Sou gesäit d'Beweislag aus:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Beobachtend Studien weisen an eng Richtung.** Eng Iwwersiicht vu 58 Studien, déi d'Commission diskutéiert huet, fond, datt kierperlech aktiv Leit ongeféier 20 % manner Demenz-Risiko haten. De gréisste Ënnerscheed war tëscht Leit, déi bal guer net aktiv waren, an deene, déi op d'mannst e bëssen aktiv waren.
+- **De Zesummenhang kann a béide Richtunge goen.** D'Commission hält fest, datt Inaktivitéit de Risiko erhéijen kann. Si hält och fest, datt déi fréie Gehirnännerungen bei Demenz, déi Joren virun der Diagnos ufänken, Leit dacks manner aktiv maachen.
+- **Studien sinn manner kloer.** An enger Studie goufen 945 eeler Erwuessener mat engem Duerchschnëttsalter vun 78 Joer fënnef Joer lang zweemol d'Woch betreit Bewegung zougewisen oder enger Vergläichsgrupp. Um Enn hunn sech d'Denkfäegkeeten net kloer tëscht de Gruppe ënnerscheet. Vill Leit an der Vergläichsgrupp waren och aktiv, wat d'Resultat schwéier liesbar mécht.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+Den [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) seet et kloer. Et ass keen kloren Zesummenhang tëscht kierperlecher Aktivitéit an der Verhënnerung vun Alzheimer gewisen, an et gëtt net genuch Studienbeweiser, fir ze soen, datt Bewegung en verhënnert oder verlangsamt. Bewegung senkt awer nach ëmmer d'Risiko vu Stierzen, Depressioun, Diabetes, héijem Bluttdrock an Schlag. E puer vun dësen Zoustänn hänken selwer mat engem Réckgang vun de Denkfäegkeeten zesummen.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Déi éierlech Konklusioun ass, sech ze beweegen, well et Iech haut besser fillen a besser funktionéieren léisst. All Virdeel fir d'Gehir ass en méigleche Bonus, kee Versprieche.
 
-## How much activity do older adults need?
+## Wéi vill Aktivitéit brauchen eeler Leit?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+D'[CDC-Empfehlung fir Erwuessener ab 65](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) schléit dräi Aarte vun Aktivitéit all Woch vir:
 
-| Type | Weekly amount | Examples |
+| Aart | Wéi vill pro Woch | Beispiller |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Ausdauer | Op d'mannst 150 Minutten mëttler Aktivitéit, zum Beispill 30 Minutten un 5 Deeg | Zëmlech séier spadséieren, danzen, Waasseraerobic |
+| Muskelkraaft | Op d'mannst 2 Deeg, mat allen gréisste Muskelgruppen | Liichte Gewiichter oder Supp-Dosen hiewen, Dehnbänner |
+| Gläichgewiicht | Reegelméisseg | Vu Fouss op Fouss goen, vun engem Stull opstoen |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Dat sinn Ziler, keng Eegangsvoraussetzungen. D'CDC seet, datt wann ee se net erreeche kann, een esou aktiv sollt sinn, wéi seng Fäegkeeten an d'Gesondheet et erlaben. Eppes Bewegung ass besser wéi keng.
 
-## Gentle ways to move for older adults
+## Sanft Weeër, fir eeler Leit an Bewegung ze kommen
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Spadséiert mat Gesellschaft.** E deeglechen Spadséiergang mat engem Frënd, Noper oder enger Spadséiergruppe bréngt Gespréich a Sécherheet.
+- **Stuhlübungen.** Sëtzend Armheben, Knöchelkreesen, op der Plaz marschéieren a Stuhl-Yoga bauen Kraaft ouni Gläichgewiichtsrisiko.
+- **Danzen an der Kichen.** Setzt Musek aus der Teenager- an Zwanzegerzäit vun der Persoun op a schwéngt, klappt oder trëppelt. Eise [Guide zu Musekaktivitéiten](/activities/music/) huet Iddien.
+- **Kraaft mat Haushaltssaachen.** Hiewt gefëllte Waasserfläschen oder Supp-Dosen, wärend Dir eng Lieblingssendung kuckt.
+- **Gäertnerei oder Hausaarbecht.** Planzen gieden, rechen, fegen a Wäsch falen zielen alles. Kuckt [Aktivitéiten dobaussen a Gäertnerei](/activities/outdoor-and-gardening/) an [Haushaltsaufgaben](/activities/household-tasks/).
+- **Waasserübungen.** Den NIA nennt Waasseraerobic-Kursen als eng Optioun fir Leit, déi Landübungen op de Gelenker schwéier fannen.
 
-## How to exercise with someone living with dementia
+## Wéi ee mat enger Persoun mat Demenz Bewegung mécht
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Fir eng Persoun, déi mat Demenz lieft, zielt Komfort, Plaisir a d'Erhalen vun alldeegleche Fäegkeeten, net d'Erreechen vun enger Zuel. Den NIA seet, datt kierperlech Aktivitéit hëlleft, d'Muskelen, d'Gelenker an d'Häerz vun enger Persoun mat Alzheimer a gudder Form ze halen, an och d'Stëmmung an de Schlof verbesseren kann. Sprecht mat hirem Dokter, ier Dir eng nei Routine ufänkt. Tipps aus dem [Betreiwerguide vum NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sinn:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Spadséiert all Dag zesummen.** Wielt e sécheren, vertraute Wee ouni Hindernisser. Wann d'Persoun eleng geet, ass e Liewensmëttel-Ausweis-Band mat Ärer Telefonsnummer eng gutt Iddi.
+2. **Probéiert Übungsvideoen fir eeler Leit.** Mach zesummen mat, sëtzend oder stoend.
+3. **Halt d'Sessiounen kuerz.** E puer kleng „Mini-Workouts“ kënnen besser funktionéieren wéi een laangen.
+4. **Setzt Musek dobäi.** Vertraut Lidder maachen d'Bewegung zu enger Aktivitéit, net zu enger Aufgab. Danzt, wann d'Persoun dat gär huet.
+5. **Bidd Waasser a bequem Schong un.** Bidd Waasser oder Saft wärend an no der Bewegung un, a wielt bequem Kleeder an gutt sëtzend Schong, déi fir Sport gemaach sinn.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Wann Spadséieren schwéier ass, schléit den [NIA-Guide fir d'Betreiung vun enger Persoun mat Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sëtzend Optioune vir. Dorënner sinn Stuhlübungen oder Yoga, mat engem Sandsäckel werfen, e weiche Ball oder Ballon werfen, Dehnbänner, liicht Haushaltssaachen hiewen a Pedal-Trainer. Einfach Aarbechte wéi Fegen a Staub wëschen zielen och.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Ginn Iech realistesch, wat Bewegung ka leeschten. D'Lancet-Commission huet kee Beweis fonnt, datt Bewegung Verhalensännerungen wéi Onrou reduzéiert. Bewegt Iech zesummen, well et gutt tun kann, net als Mëttel fir en schwéiere Nomëtteg ze reparéieren. Wann d'Persoun Nee seet, ass dat a Rou. Eise Guide [wann se Nee sot](/caregiving/when-they-say-no/) huet sanfte Weeër, méi spéit nach eng Kéier ze probéieren. Fréi ophalen oder just zesummen dobaussen sëtzen ass och e gutt Resultat.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Nom Bewegen kann eng roueg Paus wéi [Ruege Atmen](/games/calm-breathing/) Iech béid hëllefen, zur Rou ze kommen. Fir eng sëtzend Aktivitéit mat sanfter Armbewegung funktionéieren [Zesummen sortéieren](/games/sort-together/) an [Bildbingo](/games/picture-bingo/) gutt um Dësch.
 
-## Balance and fall safety
+## Gläichgewiicht a Sécherheet beim Stierzen
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Stierzen ass heefeg a seriö. D'[CDC mellt](https://www.cdc.gov/falls/data-research/facts-stats/index.html), datt méi wéi ee vun véier eelere Leit all Joer fält, awer manner wéi d'Hallschent sot et hirem Dokter. Ee Stierz verduebelt d'Chance, nach eng Kéier ze fallen. D'Risikofaktoren, déi d'CDC opzielt, sinn:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Schwächt an de Been an an de Hëften
+- Schwieregkeeten beim Goen an am Gläichgewiicht
+- E puer Medikamenter, dorënner Sedativa an e puer Antidepressiva
+- Visiounsprobleemer
+- Fousschmerz oder schlecht Schong
+- Gefor am Haus, wéi Onuerdnung, Teppecher, déi rutschen, a kaputt Trëtt
 
-To move more safely:
+Fir sech sécherer ze beweegen:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Benotzt e stabile Stull** ouni Rieder, a halt eng Tëschebank oder e Geländer a Reichwäit fir d'Stoe-Übungen.
+- **Maacht de Raum fräi** vun Teppecher, Kabelen a Onuerdnung als Éischt.
+- **Gitt lues, wann Dir opstitt**, a hält un, wann d'Persoun schwindeleg oder onsécher ass.
+- **Droe stabil Schong**, net nëmmen Socken oder locker Pantoffele.
+- **Üben Gläichgewiicht naass bei enger Stëtz.** Vun engem Stull opstoen a Fouss vir Fouss goen sinn Beispiller vun der CDC fir Gläichgewiichtsübungen.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+D'CDC rät, dass eng eeler Persoun, déi fält an sech de Kapp stéisst, direkt zum Dokter sollt, besonnesch wann se Blutverdënnner hëlt.
 
-## Talk with a doctor
+## Mat engem Dokter schwätzen
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Sprecht mam Dokter, ier Dir eng nei Bewegungsroutine ufänkt, besonnesch wann d'Persoun Häerz- oder Lungenprobleemer, Gelenkschmerzen, Gläichgewiichtsprobleemer oder Demenz huet. En Dokter oder en Physiotherapeut kann sécher Aktivitéite virschloen an iwwerpréiwen, ob Medikamenter den Gläichgewiicht beaflossen. Sot dem Dokter Bescheed iwwer all Stierz, och een ouni Verletzung. Wann eppes weh deet oder sech bei der Bewegung falsch ufillt, hal op. Bei plëtzlechen Broscht-Schmerzen, Atemschwieregkeeten oder plëtzlecher Verwierrung ruff direkt Är lokal Noutnummer un.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Dës Säit ass allgemeng Informatioun, keng medizinesch Berodung. Kuckt eisen [medizinesche Virbehalt](/medical-disclaimer/). Fir dat gréisst Bild liest [wat d'Fuerschung iwwer Risikofaktoren vu Demenz seet](/brain-health/risk-factors/) an [ob Demenz verhënnert ka ginn](/brain-health/can-dementia-be-prevented/).
