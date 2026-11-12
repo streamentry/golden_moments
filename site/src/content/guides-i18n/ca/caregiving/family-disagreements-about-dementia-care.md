@@ -1,7 +1,7 @@
 ---
 title: "Quan la família no està d'acord sobre l'atenció a la demència"
 seoTitle: "Desacords familiars sobre l'atenció a la demència"
-description: "Una manera serena de parlar dels desacords sobre l'atenció a la demència: tenir en compte els desitjos de la persona, separar fets i suposicions, repartir tasques i demanar ajuda externa."
+description: "Una manera serena de parlar dels desacords sobre l'atenció a la demència: incloure els desitjos de la persona, separar fets de suposicions i repartir tasques."
 section: caregiving
 order: 33
 updated: 2026-11-11

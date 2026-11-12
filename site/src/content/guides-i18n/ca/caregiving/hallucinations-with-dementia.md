@@ -24,7 +24,7 @@ faq:
   - q: "He de dir a una persona amb demència que el que veu no és real?"
     a: >-
       No discuteixi ni insisteixi que s'equivoca. Pot ser sincer i reconèixer els
-      seus sentiments: «No hi veig ningú, però entenc que això l'espanta. Soc aquí
+      seus sentiments: «No hi veig ningú, però entenc que això l'espanta. Sóc aquí
       amb vostè.»
   - q: "Hi pot haver altres causes, a part de la demència, per a les al·lucinacions?"
     a: "Sí. Els canvis en la vista o l'oïda, les malalties, els medicaments i l'entorn hi poden contribuir. Un clínic pot avaluar la situació de la persona; no intenti diagnosticar la causa a partir d'un sol episodi."
@@ -58,10 +58,10 @@ Una experiència pot ser una al·lucinació, però també una percepció erròni
 
 Mantingui la calma, pregunti com se sent la persona i ofereixi tranquil·litat sense discutir. L'[Alzheimer's Association aconsella valorar si l'experiència és angoixant o perillosa](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations). Si la persona està tranquil·la i segura, pot no ser necessari interrompre-la.
 
-- **Reconegui el sentiment.** Podria dir: «No hi veig ningú, però entenc que això l'espanta. Soc aquí amb vostè.» És sincer i fa que la persona noti que la pren seriosament.
+- **Reconegui el sentiment.** Podria dir: «No hi veig ningú, però entenc que això l'espanta. Sóc aquí amb vostè.» És sincer i fa que la persona noti que la pren seriosament.
 - **Faci frases curtes.** Una explicació llarga o una correcció repetida pot augmentar l'estrès. Deixi que la persona descrigui el que nota si vol.
 - **Ofereixi un canvi, no l'imposi.** Pregunti si vol seure en un altre lloc, encendre una altra llum o escoltar una cançó coneguda. Canviar-se a una habitació ben il·luminada i familiar pot ajudar; pari si la persona no vol moure's.
-- **Quedi's a prop si vol que hi siguí.** No la toqui de cop. Pregunti abans d'oferir la mà o una abraçada.
+- **Quedi's a prop si vol que hi sigui.** No la toqui de cop. Pregunti abans d'oferir la mà o una abraçada.
 
 Si l'experiència és inofensiva i no molesta, segueixi el ritme de la persona. No converteixi el moment en una prova ni li demani que demostri què ha vist.
 
