@@ -1,7 +1,7 @@
 ---
 title: "Raha-asiat dementian kanssa: turvallisempi tuki"
 seoTitle: "Dementia ja raha: turvallista tukea perheille"
-description: "Oppikaa tarjoamaan apua laskujen kanssa niin, että dementiaa sairastava ihminen pysyy mukana. Ymmärtäkää luotetun yhteyshenkilön rooli ja toimikaa nopeasti, jos epäilette huijausta."
+description: "Tarjotkaa apua laskujen kanssa niin, että ihminen pysyy mukana. Ymmärtäkää luotetun yhteyshenkilön rooli ja toimikaa nopeasti, jos epäilette huijausta."
 section: caregiving
 order: 35
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Suunhoito dementiaa sairastavalle"
 seoTitle: "Hammashoito dementiaa sairastavalle"
-description: "Auttakaa dementiaa sairastavaa pitämään tuttu suunhoitorutiini yllä selkeiden vihjeiden, luvan ja hammaslääkärin tuen avulla kivun, proteesien tai uusien ongelmien varalta."
+description: "Auttakaa pitämään tuttu suunhoitorutiini yllä selkeiden vihjeiden, luvan ja hammaslääkärin tuen avulla kivun, proteesien tai uusien ongelmien varalta."
 section: caregiving
 order: 16
 updated: 2026-11-11
