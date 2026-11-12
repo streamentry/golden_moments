@@ -73,6 +73,7 @@
   "photosIntro": "ऐसी फ़ोटो चुनें जिन्हें साथ बैठकर देखना आपको अच्छा लगे।",
   "photosPrivacyNote": "सिर्फ़ चुनी गई फ़ोटो ही इस ऐप में कॉपी होती हैं। न कोई अकाउंट, न परिवार के साथ सिंक करने वाला सर्वर। कॉपियाँ आपके डिवाइस के बैकअप में शामिल हो सकती हैं।",
   "photosCount": "{max, plural, =1{1 में से {count} फ़ोटो} other{{max} में से {count} फ़ोटो}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "इन फ़ोटो के साथ खेलें",
   "photosNeedTwoShowHidden": "मिलान का खेल बनाने के लिए कम से कम दो फ़ोटो दिखाएँ। {count, plural, other{छिपी हुई फ़ोटो: {count}।}}",
   "photosNeedTwoAdd": "मिलान का खेल बनाने के लिए कम से कम दो फ़ोटो जोड़ें।",

@@ -77,6 +77,150 @@ Photo Pairs now displays a one-line comfort reminder before selection. It adds n
 
 The website now lets a person look at one selected photo without matching; two or more photos are required for matching and navigation. The site suite (1,855 tests), TypeScript, 12,491-page build and `check-site` pass with 0 errors. The prior weighted score of **9.62** and lowest dimension **7.5** remain the last measured repository-wide score. I did not recalculate it: Flutter is unavailable, PR #184 included app changes that have not been tested here, and the dynamic photo view did not receive browser or assistive-technology testing. These checks remain unverified, not release claims.
 
+## Round 46 score update (2026-11-11)
+
+The Today tool now reveals one suggestion first and keeps alternatives behind a native disclosure. It adds no timer, score, storage or telemetry. The 1,857 site tests, TypeScript, full build and site checker pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); this website-only change does not establish new browser, caregiver or person-with-dementia usability evidence.
+
+## Round 47 score update (2026-11-11)
+
+Photo Pairs now shows one 14-word setup reminder before photo selection. Existing site styles handle the text, and the English key falls back on untranslated pages. The full site suite, TypeScript, build and checker pass; Python and metadata checks pass. This adds one untranslated string until reviewed translations are available. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no new aggregate score or live usability evidence is claimed.
+
+## Round 48 score update (2026-11-11)
+
+The Today choice board keeps two pictured options and adds a familiar-music guide link beside one game. It reuses the existing layout, picture art and English-only tool copy. The site suite, TypeScript, build, checker, Python tests and metadata check pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); the actual interaction and caregiver/person response remain unverified.
+
+## Round 49 score update (2026-11-11)
+
+Today notes now accept one optional time band. Old records remain valid, and the new value stays in the existing local-only note. The site tests, TypeScript, build, checker, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate score or live usability result is claimed.
+
+## Round 50 score update (2026-11-11)
+
+The Today help copy now labels U.S.-based emergency and support numbers and gives a local-number alternative. It adds no locale detection or external request. Existing English-only behavior remains. The full site checks pass; interactive and regional user comprehension were not tested. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 51 score update (2026-11-11)
+
+Today now offers a confirmed way to clear its local notes, using a native button group and the existing storage helper. This adds no external data flow. The site suite, TypeScript, build, checker, Python tests and metadata check pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); the new flow has no live usability review.
+
+## Round 52 score update (2026-11-11)
+
+The new caregiving guide turns opened home-safety sources into a room-by-room review and advice on choosing adaptations. It avoids one-size-fits-all instructions and keeps caregiver, participant and professional review open. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 53 score update (2026-11-11)
+
+Japanese Photo Pairs now describes the one-photo viewing choice and its controls in Japanese instead of falling back to English. The translation is machine-made and has no native-speaker review. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 54 score update (2026-11-11)
+
+The new English travel guide offers a flexible preparation checklist while leaving individual suitability and provider rules to the person, care team and current transport providers. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 55 score update (2026-11-11)
+
+The new English guide focuses on everyday routines and support chosen with a person living alone with dementia. It does not define a stage cutoff or prescribe monitoring. Site verification, TypeScript, Python and metadata checks pass; no caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 56 score update (2026-11-11)
+
+The new caregiver guide focuses on the mealtime setting and support for independence; it does not prescribe a diet or swallowing technique. It directs new eating concerns to health professionals. Site verification, TypeScript, Python and metadata checks pass. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no caregiver, clinician or user review has been done.
+
+## Round 57 score update (2026-11-11)
+
+The new bathing guide centers privacy, permission, routine and the option to stop. It does not instruct caregivers to force care or use hands-on techniques. Site verification, TypeScript, Python and metadata checks pass; no caregiver or professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 58 score update (2026-11-11)
+
+The new guide helps families make a pet-care backup plan while keeping the person's preferences and the animal's welfare in view. It does not claim that pets treat dementia or that every person should keep a pet. Site verification, TypeScript, Python and metadata checks pass; no person, caregiver or animal-care professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 59 score update (2026-11-11)
+
+The Traditional Chinese warning-signs guide now describes low blood sugar in people with diabetes without using the generic patient label. The source's medical meaning is preserved and the checker warning is gone. Site verification, TypeScript, Python and metadata checks pass; no native-speaker or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 60 score update (2026-11-11)
+
+The English oral-care guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No caregiver, person, dental-professional or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 61 score update (2026-11-11)
+
+The English dressing guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No caregiver, person or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 62 score update (2026-11-11)
+
+The English toileting and continence guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No caregiver, person, continence-specialist or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 63 score update (2026-11-11)
+
+The English driving guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, physician or driving-specialist review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 64 score update (2026-11-11)
+
+The English doctor-visit guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 65 score update (2026-11-11)
+
+The English hospital-visit guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, hospital-staff or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 66 score update (2026-11-11)
+
+The English pain guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 67 score update (2026-11-11)
+
+The English drinking guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, dietitian or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 68 score update (2026-11-11)
+
+The English in-home-care guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, provider or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 69 score update (2026-11-11)
+
+The English residential-care guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, care-home staff member or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 70 score update (2026-11-11)
+
+The English medication guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, pharmacist or prescriber review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 71 score update (2026-11-11)
+
+The English Activities and Caregiving hubs now offer local guide filtering. Record automated and browser checks in [TRACKING.md](TRACKING.md). No caregiver or assistive-technology review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 72 score update (2026-11-11)
+
+The English adult-day guide adds caregiver information without changing the app or site's interaction design. Record the checks and limitations in [TRACKING.md](TRACKING.md). No person, caregiver, adult-day staff or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 73 score update (2026-11-11)
+
+The emergency-planning guide adds caregiver information without changing the app or site's interaction design. Record checks and limitations in [TRACKING.md](TRACKING.md). No person or caregiver review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 74 score update (2026-11-11)
+
+The family conversation guide adds caregiver information without changing the app or site's interaction design. Record checks and limitations in [TRACKING.md](TRACKING.md). No child, parent or caregiver review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 75 score update (2026-11-11)
+
+The English art-project guide now follows the site's person-first wording rule in its H1, search title, summary and FAQ. Record checks and limitations in [TRACKING.md](TRACKING.md). No person-with-dementia, caregiver or native-speaker review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 76 score update (2026-11-11)
+
+The post-diagnosis guide adds a starting point for people living with dementia and families without making treatment, legal or financial recommendations. Record checks and limitations in [TRACKING.md](TRACKING.md). No person recently diagnosed, caregiver or professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 77 score update (2026-11-11)
+
+The younger-onset work guide adds general decision support without interpreting employment law or assessing a person's ability to work. Record checks and limitations in [TRACKING.md](TRACKING.md). No person living with younger-onset dementia, caregiver, employer or employment professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 78 score update (2026-11-11)
+
+The non-recognition guide adds general communication support without diagnosing causes or assuming a person's feelings. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, family member, caregiver or clinician review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 79 score update (2026-11-11)
+
+The two missing-person passages now advise prompt contact with local responders without a fixed wait or search radius. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, caregiver or law-enforcement review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 80 score update (2026-11-11)
+
+The family disagreement guide adds a discussion structure without making a care or legal decision for a family. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, family member, caregiver or mediator review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
+## Round 81 score update (2026-11-11)
+
+The suspicion guide gives general conversation and safeguarding prompts without diagnosing a delusion or dismissing reports. Record checks and limitations in [TRACKING.md](TRACKING.md). No person with dementia, family member, caregiver or safeguarding professional review has been done. Keep the last measured repository-wide score at **9.62** (lowest dimension **7.5**); no aggregate recalculation is claimed.
+
 ## Not verified (not scored, not blockers)
 
 - VoiceOver and TalkBack on hardware; a physical phone at 200% text.
@@ -137,3 +281,29 @@ History (round 3): Sort Together and Word Search completed flows improved. In So
 History: the library Settings action first failed three 200% tests when put in the app bar; it passes as a body-level button at the end of the page. Hint and Options now sit under the board and scroll with it; the download controls moved into their own wrapping row. The new `commonPause` word is machine-translated in 64 languages (unreviewed). Loading and error states of the library home no longer show Settings.
 
 History (full axe pass): axe-core 4.14 over all 3,920 built pages at 375 px found one rule failing, `scrollable-region-focusable`, on 402 pages: wide markdown tables scroll sideways but could not take keyboard focus. Fix: `FocusableTables.astro` (a bundled script that sets `tabindex="0"` on every `.prose table`) and a `:focus-visible` outline. An `@astrojs/markdown-remark` rehype plugin was not used because Astro 7's default markdown processor does not run it without a new dependency. The table is announced as a table with no extra name.
+
+## Round 82 score note (2026-11-11)
+
+The cap hint uses the existing body text role, surface-variant color and scrollable photo page. A 200% small-phone regression test is written, but could not be run because Flutter and Dart are unavailable. The phrase falls back to English in 66 non-English ARBs. No independent user, device or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score from this not run widget test.
+
+
+## Round 83 score note (2026-11-11)
+
+This round adds an English caregiver guide and one internal link. The site build and automated checks can validate its schema, route, text and links, but they do not prove that the financial guidance is understandable or suitable for people with dementia. No reader, caregiver, financial/legal professional or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 90 score update (2026-11-11): mobile visual audit
+
+App dimensions were re-measured on this branch with Flutter 3.47.7: the full suite (counts in the PR), strict analysis (clean), `test/design_system_test.dart` and the 200% text tests pass. No `site/` file changed, so the website parts carry forward from Round 45 (1,855 tests, 12,491-page build, `check-site` 0 errors). No new user-facing strings were added.
+
+| # | Dimension | Evidence | Score |
+| --- | --- | --- | --- |
+| 1 | Plain language | No new strings; carried forward | 10.0 |
+| 2 | Type and contrast | Design-system tests pass; tokens unchanged | 9.75 |
+| 3 | Targets and navigation | App target tests pass; planner chips ≥48 high; every action keeps a word | 10.0 |
+| 4 | Structure and semantics | App semantics tests pass; site carried forward | 10.0 |
+| 5 | Reflow and large text | App 200% tests pass; Daily moment overflow at 200% (308px on `main`) fixed; site carried forward | 10.0 |
+| 6 | Localization completeness | No new keys; carried forward | 9.37 |
+| 7 | Product integrity | Gentle-mode guards pass; Look together drops the "1 of 183" count; mobile packs keep hidden tiles by maintainer decision | 10.0 |
+| 8 | Verification health | Flutter suite and strict analysis measured here; site tests and build from Round 45 (no site change) | 10.0 |
+
+Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.4055 + 1.000 + 1.000 = **9.87**. Lowest dimension: localization at 9.37. The bar is met. Device, VoiceOver/TalkBack and caregiver checks are not verified and not scored.

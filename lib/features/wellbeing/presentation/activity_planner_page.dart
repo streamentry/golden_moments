@@ -6,6 +6,7 @@ import 'package:golden_moments/features/gentle_activities/presentation/photo_tog
 import 'package:golden_moments/features/wellbeing/data/routines.dart';
 import 'package:golden_moments/features/wellbeing/presentation/daily_moment_page.dart';
 import 'package:golden_moments/l10n/l10n.dart';
+import 'package:golden_moments/shared/widgets/gm_choice_rows.dart';
 
 /// Suggested routines for the day, for oneself or for someone one cares for.
 /// Choosing a time and a person only changes the suggestions; nothing is saved
@@ -28,7 +29,11 @@ class _ActivityPlannerPageState extends State<ActivityPlannerPage> {
     final steps = routineFor(_time, _who);
 
     return Scaffold(
-      appBar: AppBar(title: Text(l10n.wellbeingHomePlanner)),
+      appBar: AppBar(
+        // Wraps and grows with the text size instead of ending in "…".
+        toolbarHeight: gmToolbarHeight(context),
+        title: GmTitle(l10n.wellbeingHomePlanner),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(
@@ -46,27 +51,21 @@ class _ActivityPlannerPageState extends State<ActivityPlannerPage> {
                   style: theme.textTheme.titleMedium,
                 ),
                 const SizedBox(height: gmSpaceSm),
-                SegmentedButton<PlanTime>(
-                  style: SegmentedButton.styleFrom(
-                    minimumSize: const Size(gmTargetMin, gmTargetMin),
-                  ),
-                  segments: [
-                    ButtonSegment(
-                      value: PlanTime.morning,
-                      label: Text(l10n.wellbeingPlannerMorning),
-                    ),
-                    ButtonSegment(
-                      value: PlanTime.afternoon,
-                      label: Text(l10n.wellbeingPlannerAfternoon),
-                    ),
-                    ButtonSegment(
-                      value: PlanTime.evening,
-                      label: Text(l10n.wellbeingPlannerEvening),
-                    ),
+                // Equal chips in full rows, never a word broken across
+                // lines (DESIGN.md › Comfort-level chips).
+                GmChoiceRows(
+                  choices: [
+                    for (final (time, label) in [
+                      (PlanTime.morning, l10n.wellbeingPlannerMorning),
+                      (PlanTime.afternoon, l10n.wellbeingPlannerAfternoon),
+                      (PlanTime.evening, l10n.wellbeingPlannerEvening),
+                    ])
+                      (
+                        label: label,
+                        selected: _time == time,
+                        onSelected: () => setState(() => _time = time),
+                      ),
                   ],
-                  selected: {_time},
-                  onSelectionChanged: (selection) =>
-                      setState(() => _time = selection.single),
                 ),
                 const SizedBox(height: gmSpaceLg),
                 Text(
@@ -74,23 +73,18 @@ class _ActivityPlannerPageState extends State<ActivityPlannerPage> {
                   style: theme.textTheme.titleMedium,
                 ),
                 const SizedBox(height: gmSpaceSm),
-                SegmentedButton<PlanFor>(
-                  style: SegmentedButton.styleFrom(
-                    minimumSize: const Size(gmTargetMin, gmTargetMin),
-                  ),
-                  segments: [
-                    ButtonSegment(
-                      value: PlanFor.me,
-                      label: Text(l10n.wellbeingPlannerForMe),
-                    ),
-                    ButtonSegment(
-                      value: PlanFor.someoneICare,
-                      label: Text(l10n.wellbeingPlannerForCared),
-                    ),
+                GmChoiceRows(
+                  choices: [
+                    for (final (who, label) in [
+                      (PlanFor.me, l10n.wellbeingPlannerForMe),
+                      (PlanFor.someoneICare, l10n.wellbeingPlannerForCared),
+                    ])
+                      (
+                        label: label,
+                        selected: _who == who,
+                        onSelected: () => setState(() => _who = who),
+                      ),
                   ],
-                  selected: {_who},
-                  onSelectionChanged: (selection) =>
-                      setState(() => _who = selection.single),
                 ),
                 const SizedBox(height: gmSpaceXl),
                 Text(

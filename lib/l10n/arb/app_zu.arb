@@ -73,6 +73,7 @@
   "photosIntro": "Khethani izithombe enizozijabulela ukuzibuka ndawonye.",
   "photosPrivacyNote": "Kukopishwa izithombe ezikhethiwe kuphela ku-app. Akukho akhawunti noma iseva yokwabelana komndeni. Amakhophi angafakwa ku-backup yedivayisi yenu.",
   "photosCount": "{max, plural, =1{{count} kwesithombe esingu-1} other{{count} kwezithombe ezingu-{max}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Dlalani ngalezi zithombe",
   "photosNeedTwoShowHidden": "Khombisani okungenani izithombe ezimbili ukuze kwenziwe umdlalo wokufanisa. {count, plural, other{Kufihliwe: {count}.}}",
   "photosNeedTwoAdd": "Engezani okungenani izithombe ezimbili ukuze kwenziwe umdlalo wokufanisa.",

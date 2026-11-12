@@ -73,6 +73,7 @@
   "photosIntro": "Pilih foto yang akan menyenangkan untuk dilihat bersama.",
   "photosPrivacyNote": "Hanya foto yang dipilih yang disalin ke aplikasi ini. Tanpa akun atau server sinkronisasi keluarga. Salinan mungkin ikut tersimpan dalam cadangan perangkat Anda.",
   "photosCount": "{max, plural, =1{{count} dari 1 foto} other{{count} dari {max} foto}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Main dengan foto-foto ini",
   "photosNeedTwoShowHidden": "Tampilkan setidaknya dua foto untuk membuat permainan mencocokkan. {count, plural, other{{count} disembunyikan.}}",
   "photosNeedTwoAdd": "Tambahkan setidaknya dua foto untuk membuat permainan mencocokkan.",

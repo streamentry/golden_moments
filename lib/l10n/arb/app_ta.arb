@@ -73,6 +73,7 @@
   "photosIntro": "சேர்ந்து பார்த்து மகிழக்கூடிய புகைப்படங்களைத் தேர்ந்தெடுங்கள்.",
   "photosPrivacyNote": "நீங்கள் தேர்ந்தெடுத்த புகைப்படங்கள் மட்டுமே இந்த ஆப்பில் நகலெடுக்கப்படும். கணக்கோ குடும்ப ஒத்திசைவு சர்வரோ இல்லை. நகல்கள் உங்கள் சாதன காப்புப்பிரதியில் சேரக்கூடும்.",
   "photosCount": "{max, plural, =1{1 புகைப்படத்தில் {count}} other{{max} புகைப்படங்களில் {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "இந்தப் புகைப்படங்களுடன் விளையாடு",
   "photosNeedTwoShowHidden": "பொருத்தும் விளையாட்டுக்கு குறைந்தது இரண்டு புகைப்படங்களைக் காட்டுங்கள். {count, plural, other{மறைந்தவை: {count}.}}",
   "photosNeedTwoAdd": "பொருத்தும் விளையாட்டுக்கு குறைந்தது இரண்டு புகைப்படங்களைச் சேருங்கள்.",

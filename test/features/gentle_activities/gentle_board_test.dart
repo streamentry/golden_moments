@@ -10,6 +10,25 @@ void main() {
     expect(board.cards.where((id) => id == 'a').length, 2);
     expect(board.cards.where((id) => id == 'b').length, 2);
   });
+  test('four tiles put each pair on a diagonal of the 2 x 2 board', () {
+    final firsts = <String>{};
+    for (var seed = 0; seed < 50; seed++) {
+      final cards = GentleBoard(['a', 'b'], random: Random(seed)).cards;
+      // Row by row: 0 1 / 2 3. Diagonals are tiles 0 and 3, and 1 and 2.
+      expect(cards[0], cards[3]);
+      expect(cards[1], cards[2]);
+      expect(cards[0], isNot(cards[1]));
+      firsts.add(cards[0]);
+    }
+    // Which picture is where is still left to chance.
+    expect(firsts, {'a', 'b'});
+  });
+  test('larger boards keep every picture twice', () {
+    final cards = GentleBoard(['a', 'b', 'c'], random: Random(3)).cards;
+    for (final id in ['a', 'b', 'c']) {
+      expect(cards.where((c) => c == id), hasLength(2));
+    }
+  });
   test('invalid or duplicate inputs are rejected', () {
     expect(() => GentleBoard(['a']), throwsArgumentError);
     expect(() => GentleBoard(['a', 'a']), throwsArgumentError);

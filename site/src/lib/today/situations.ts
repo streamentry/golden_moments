@@ -19,6 +19,16 @@ export const SITUATION_IDS = [
 
 export type SituationId = (typeof SITUATION_IDS)[number];
 
+export interface GuideActivityChoice {
+  type: 'guide';
+  href: string;
+  label: string;
+  description: string;
+  picture: string;
+}
+
+export type ActivityChoice = GameSlug | GuideActivityChoice;
+
 export interface Situation {
   id: SituationId;
   /** In the caregiver's own words. */
@@ -29,14 +39,14 @@ export interface Situation {
   help: string;
   /** One gentle activity on this site. */
   activity?: { href: string; label: string };
-  /** Two picture activities when the person may prefer to point to a choice. */
-  choices?: readonly [GameSlug, GameSlug];
+  /** Two pictured activities when the person may prefer to point to a choice. */
+  choices?: readonly [ActivityChoice, ActivityChoice];
   /** The full guide this answer comes from. */
   guide: { href: string; label: string };
 }
 
 const DOCTOR =
-  'Call their doctor the same day if this starts suddenly or gets much worse over hours or days, or comes with a fever, pain or a new medicine. In an emergency, call 911.';
+  'Call their doctor the same day if this starts suddenly or gets much worse over hours or days, or comes with a fever, pain or a new medicine. In the U.S., call 911 for emergencies. Elsewhere, use your local emergency number.';
 
 export const SITUATIONS: readonly Situation[] = [
   {
@@ -96,7 +106,16 @@ export const SITUATIONS: readonly Situation[] = [
       'Watching, holding something or sitting close all count. Stopping early is fine.',
     ],
     help: DOCTOR,
-    choices: ['picture-pairs', 'conversation-cards'],
+    choices: [
+      'picture-pairs',
+      {
+        type: 'guide',
+        href: '/activities/music/',
+        label: 'Listen to a familiar song',
+        description: 'Choose music they enjoy. Listening together is enough.',
+        picture: 'radio',
+      },
+    ],
     guide: { href: '/activities/ideas/', label: '101 activity ideas' },
   },
   {
@@ -119,7 +138,7 @@ export const SITUATIONS: readonly Situation[] = [
       'Bring one or two things to share: a photo album, a favorite song, a soft blanket.',
       'Keep it short, use the same goodbye each time, and leave without lingering.',
     ],
-    help: 'If you notice a sudden change during a visit, tell the staff or their doctor the same day. In an emergency, call 911.',
+    help: 'If you notice a sudden change during a visit, tell the staff or their doctor the same day. In the U.S., call 911 for emergencies. Elsewhere, use your local emergency number.',
     activity: { href: '/games/photo-pairs/', label: 'Make a pairs game from family photos' },
     guide: { href: '/activities/visiting/', label: 'Visiting someone with dementia' },
   },
@@ -128,10 +147,10 @@ export const SITUATIONS: readonly Situation[] = [
     label: 'I’m worn out',
     tries: [
       'Ask one person for one specific thing this week: a meal, an afternoon, a phone call.',
-      'Call the Alzheimer’s Association 24/7 Helpline, 1-800-272-3900. It is free and confidential.',
-      'Ask the Eldercare Locator, 1-800-677-1116, about respite care near you.',
+      'In the U.S., call the Alzheimer’s Association 24/7 Helpline at 1-800-272-3900. It is free and confidential.',
+      'In the U.S., call the Eldercare Locator at 1-800-677-1116 about respite care near you.',
     ],
-    help: 'If you feel in crisis, call or text 988. In an emergency, call 911.',
+    help: 'In the U.S. and its territories, call or text 988 for crisis support. Elsewhere, contact local crisis support. For emergencies, call 911 in the U.S. or your local emergency number elsewhere.',
     activity: { href: '/games/calm-breathing/', label: 'Take one slow minute for yourself' },
     guide: { href: '/caregiving/caregiver-self-care/', label: 'Looking after yourself' },
   },

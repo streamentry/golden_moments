@@ -73,6 +73,7 @@
   "photosIntro": "Wybierz zdjęcia, które miło będzie razem oglądać.",
   "photosPrivacyNote": "Do aplikacji kopiowane są tylko wybrane zdjęcia. Bez konta i bez serwera do synchronizacji z rodziną. Kopie mogą trafić do kopii zapasowej urządzenia.",
   "photosCount": "{max, plural, =1{{count} z 1 zdjęcia} few{{count} z {max} zdjęć} many{{count} z {max} zdjęć} other{{count} z {max} zdjęć}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Zagraj z tymi zdjęciami",
   "photosNeedTwoShowHidden": "Pokaż co najmniej dwa zdjęcia, aby zagrać w pary. {count, plural, other{Ukryte: {count}.}}",
   "photosNeedTwoAdd": "Dodaj co najmniej dwa zdjęcia, aby zagrać w pary.",

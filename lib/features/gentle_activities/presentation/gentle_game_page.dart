@@ -441,10 +441,12 @@ class _GentleGamePageState extends State<GentleGamePage> {
     // The row sits under the board and scrolls with it when the screen is
     // short or text is large; it never takes room from the board's first
     // place on screen. Tooltips stay for pointer users.
+    // Start-aligned like the text above it and the picture-pack game's
+    // tools. (Centred, a Wrap is only as wide as its widest button, so a
+    // narrower one sat off-centre under it.)
     final toolRow = Wrap(
       spacing: gmSpaceSm,
       runSpacing: gmSpaceSm,
-      alignment: WrapAlignment.center,
       children: [
         Tooltip(
           message: l10n.gentleGameHowThisWorks,

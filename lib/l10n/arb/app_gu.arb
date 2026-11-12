@@ -73,6 +73,7 @@
   "photosIntro": "સાથે બેસીને જોવાની મજા આવે તેવા ફોટા પસંદ કરો.",
   "photosPrivacyNote": "ફક્ત પસંદ કરેલા ફોટાની જ નકલ આ ઍપમાં થાય છે. કોઈ એકાઉન્ટ કે પરિવાર-સિંક સર્વર નથી. નકલો આપના ડિવાઇસ બૅકઅપમાં સામેલ હોઈ શકે છે.",
   "photosCount": "{max, plural, =1{1 ફોટોમાંથી {count}} other{{max} ફોટોમાંથી {count}}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "આ ફોટા સાથે રમો",
   "photosNeedTwoShowHidden": "જોડી મેળવવાની રમત માટે ઓછામાં ઓછા બે ફોટા બતાવો. {count, plural, other{છુપાવેલ: {count}.}}",
   "photosNeedTwoAdd": "જોડી મેળવવાની રમત માટે ઓછામાં ઓછા બે ફોટા ઉમેરો.",

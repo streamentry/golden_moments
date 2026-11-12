@@ -73,6 +73,7 @@
   "photosIntro": "Pilih poto anu anjeun resep ningalina babarengan.",
   "photosPrivacyNote": "Ngan poto anu dipilih anu disalin kana aplikasi ieu. Teu aya akun atanapi server sinkronisasi kulawarga. Salinan tiasa kaasup dina cadangan alat anjeun.",
   "photosCount": "{max, plural, =1{{count} tina 1 poto} other{{count} tina {max} poto}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Maén ku poto ieu",
   "photosNeedTwoShowHidden": "Témbongkeun sahanteuna dua poto kanggo nyieun kaulinan nyocogkeun. {count, plural, other{{count} disumputkeun.}}",
   "photosNeedTwoAdd": "Tambahkeun sahanteuna dua poto kanggo nyieun kaulinan nyocogkeun.",

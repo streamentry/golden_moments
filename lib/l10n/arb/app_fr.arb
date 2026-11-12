@@ -73,6 +73,7 @@
   "photosIntro": "Choisissez des photos que vous aimeriez regarder ensemble.",
   "photosPrivacyNote": "Seules les photos sélectionnées sont copiées dans cette application. Ni compte, ni serveur de synchronisation familiale. Les copies peuvent être incluses dans la sauvegarde de votre appareil.",
   "photosCount": "{max, plural, =1{{count} sur 1 photo} other{{count} sur {max} photos}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Jouer avec ces photos",
   "photosNeedTwoShowHidden": "Affichez au moins deux photos pour créer un jeu de paires. {count, plural, one{{count} photo masquée.} other{{count} photos masquées.}}",
   "photosNeedTwoAdd": "Ajoutez au moins deux photos pour créer un jeu de paires.",

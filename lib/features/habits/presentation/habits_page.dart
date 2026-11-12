@@ -28,7 +28,11 @@ class HabitsPage extends StatelessWidget {
     ];
 
     return Scaffold(
-      appBar: AppBar(title: Text(l10n.habitsTitle)),
+      appBar: AppBar(
+        // Wraps and grows with the text size instead of ending in "…".
+        toolbarHeight: gmToolbarHeight(context),
+        title: GmTitle(l10n.habitsTitle),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(

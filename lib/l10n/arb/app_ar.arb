@@ -73,6 +73,7 @@
   "photosIntro": "اختر صورًا تستمتعان بالنظر إليها معًا.",
   "photosPrivacyNote": "تُنسخ الصور التي تختارها فقط إلى هذا التطبيق. لا حساب ولا خادم لمزامنة صور العائلة. قد تُضمَّن النسخ في النسخة الاحتياطية لجهازك.",
   "photosCount": "{max, plural, =1{{count} من صورة واحدة} two{{count} من صورتين} few{{count} من {max} صور} many{{count} من {max} صورة} other{{count} من {max} صورة}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "العب بهذه الصور",
   "photosNeedTwoShowHidden": "أظهِر صورتين على الأقل لتكوين لعبة مطابقة. {count, plural, one{صورة واحدة مخفية.} two{صورتان مخفيتان.} few{{count} صور مخفية.} many{{count} صورة مخفية.} other{{count} صورة مخفية.}}",
   "photosNeedTwoAdd": "أضف صورتين على الأقل لتكوين لعبة مطابقة.",

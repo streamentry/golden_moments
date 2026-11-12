@@ -73,6 +73,7 @@
   "photosIntro": "ଯେଉଁ ଫଟୋ ମିଶି ଦେଖିବାକୁ ଆପଣଙ୍କୁ ଭଲ ଲାଗିବ, ସେଗୁଡ଼ିକ ବାଛନ୍ତୁ।",
   "photosPrivacyNote": "କେବଳ ବଛାଯାଇଥିବା ଫଟୋ ଏହି ଆପ୍‌ରେ କପି ହୁଏ। କୌଣସି ଆକାଉଣ୍ଟ କିମ୍ବା ପରିବାର-ସିଙ୍କ୍ ସର୍ଭର ନାହିଁ। କପିଗୁଡ଼ିକ ଆପଣଙ୍କ ଡିଭାଇସ୍ ବ୍ୟାକଅପ୍‌ରେ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇପାରେ।",
   "photosCount": "{max, plural, =1{1ଟି ଫଟୋ ମଧ୍ୟରୁ {count}ଟି} other{{max}ଟି ଫଟୋ ମଧ୍ୟରୁ {count}ଟି}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "ଏହି ଫଟୋ ସହିତ ଖେଳନ୍ତୁ",
   "photosNeedTwoShowHidden": "ମେଳ ଖେଳ ତିଆରି କରିବାକୁ ଅତିକମ୍‌ରେ ଦୁଇଟି ଫଟୋ ଦେଖାନ୍ତୁ। {count, plural, other{{count}ଟି ଲୁଚାଯାଇଛି।}}",
   "photosNeedTwoAdd": "ମେଳ ଖେଳ ତିଆରି କରିବାକୁ ଅତିକମ୍‌ରେ ଦୁଇଟି ଫଟୋ ଯୋଗ କରନ୍ତୁ।",

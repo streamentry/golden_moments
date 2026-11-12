@@ -73,6 +73,7 @@
   "photosIntro": "함께 보며 즐길 만한 사진을 골라 보세요.",
   "photosPrivacyNote": "고르신 사진만 이 앱에 복사돼요. 계정도, 가족 동기화 서버도 없어요. 사본은 기기 백업에 포함될 수 있어요.",
   "photosCount": "{max, plural, =1{사진 {count}장 (최대 1장)} other{사진 {count}장 (최대 {max}장)}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "이 사진으로 게임하기",
   "photosNeedTwoShowHidden": "짝 맞추기 게임을 하려면 사진을 두 장 이상 보이게 해 주세요. {count, plural, other{숨긴 사진 {count}장이 있어요.}}",
   "photosNeedTwoAdd": "짝 맞추기 게임을 하려면 사진을 두 장 이상 추가해 주세요.",

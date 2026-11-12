@@ -184,9 +184,21 @@ void main() {
     expect(find.text('Done for now'), findsOneWidget);
     await _tap(tester, 'Look at the included pictures');
     expect(
-      find.text('Picture 1 of ${ActivityPicture.samples.length}'),
+      find.bySemanticsLabel(ActivityPicture.samples.first.label),
       findsOneWidget,
     );
+    // A library to browse, not a set to finish: no "1 of 183" count.
+    expect(find.textContaining(RegExp(r'^Picture \d+ of')), findsNothing);
+  });
+
+  testWidgets('family photos keep their small "Picture N of M" count', (
+    tester,
+  ) async {
+    await _open(tester, const [
+      ActivityPicture(id: 'p1', label: 'Photo 1', path: '/nowhere/1.jpg'),
+      ActivityPicture(id: 'p2', label: 'Photo 2', path: '/nowhere/2.jpg'),
+    ]);
+    expect(find.text('Picture 1 of 2'), findsOneWidget);
   });
 
   testWidgets('hiding the last picture never unhides others', (tester) async {

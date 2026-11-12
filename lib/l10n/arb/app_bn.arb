@@ -73,6 +73,7 @@
   "photosIntro": "যে ফটোগুলো একসঙ্গে দেখতে আপনাদের ভালো লাগবে, সেগুলো বেছে নিন।",
   "photosPrivacyNote": "শুধু বেছে নেওয়া ফটোই এই অ্যাপে কপি হয়। কোনো অ্যাকাউন্ট বা পারিবারিক সিঙ্ক সার্ভার নেই। কপিগুলো আপনার ডিভাইসের ব্যাকআপে থাকতে পারে।",
   "photosCount": "{max, plural, =1{১টি ফটোর মধ্যে {count}টি} other{{max}টি ফটোর মধ্যে {count}টি}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "এই ফটোগুলো নিয়ে খেলুন",
   "photosNeedTwoShowHidden": "মেলানোর খেলা বানাতে অন্তত দুটি ফটো দেখান। {count, plural, other{{count}টি লুকানো আছে।}}",
   "photosNeedTwoAdd": "মেলানোর খেলা বানাতে অন্তত দুটি ফটো যোগ করুন।",

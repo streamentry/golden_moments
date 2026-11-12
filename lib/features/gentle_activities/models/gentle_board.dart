@@ -9,9 +9,20 @@ class GentleBoard {
         pictureIds.toSet().length != pictureIds.length) {
       throw ArgumentError('Choose between two and six different pictures.');
     }
-    cards = List<String>.unmodifiable(
-      [...pictureIds, ...pictureIds]..shuffle(random ?? Random()),
-    );
+    final shuffled = [...pictureIds, ...pictureIds]
+      ..shuffle(random ?? Random());
+    // Four tiles sit two by two. Pairs side by side would look already
+    // solved, so each pair goes on a diagonal: every picture stays in view
+    // and easy to find, but the first board still reads as a game to play
+    // (maintainer decision, 2026-11-11). Which picture is where stays
+    // random. Larger boards keep the plain shuffle.
+    if (pictureIds.length == 2) {
+      final first = shuffled.first;
+      final second = first == pictureIds[0] ? pictureIds[1] : pictureIds[0];
+      cards = List<String>.unmodifiable([first, second, second, first]);
+    } else {
+      cards = List<String>.unmodifiable(shuffled);
+    }
   }
 
   new _restored(

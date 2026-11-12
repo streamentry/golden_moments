@@ -36,7 +36,11 @@ class LanguagePage extends StatelessWidget {
     final choices = pickable(AppLocalizations.supportedLocales);
 
     return Scaffold(
-      appBar: AppBar(title: Text(l10n.languageTitle)),
+      appBar: AppBar(
+        // Wraps and grows with the text size instead of ending in "…".
+        toolbarHeight: gmToolbarHeight(context),
+        title: GmTitle(l10n.languageTitle),
+      ),
       body: SafeArea(
         child: Center(
           child: ConstrainedBox(

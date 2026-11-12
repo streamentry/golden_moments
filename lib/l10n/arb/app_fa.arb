@@ -73,6 +73,7 @@
   "photosIntro": "عکس‌هایی را انتخاب کنید که دوست دارید با هم نگاه کنید.",
   "photosPrivacyNote": "فقط عکس‌های انتخاب‌شده در این برنامه کپی می‌شوند. حسابی لازم نیست و سروری برای همگام‌سازی خانوادگی وجود ندارد. ممکن است نسخه‌ها در پشتیبان‌گیری دستگاه شما قرار بگیرند.",
   "photosCount": "{max, plural, =1{{count} از 1 عکس} other{{count} از {max} عکس}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "بازی با این عکس‌ها",
   "photosNeedTwoShowHidden": "برای ساختن بازی جفت‌یابی دست‌کم دو عکس را نمایان کنید. {count, plural, other{{count} عکس پنهان است.}}",
   "photosNeedTwoAdd": "برای ساختن بازی جفت‌یابی دست‌کم دو عکس اضافه کنید.",

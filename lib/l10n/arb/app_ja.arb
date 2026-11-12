@@ -73,6 +73,7 @@
   "photosIntro": "いっしょに眺めて楽しめそうな写真を選んでください。",
   "photosPrivacyNote": "選んだ写真だけが、このアプリにコピーされます。アカウントや、家族間で同期するサーバーはありません。コピーは端末のバックアップに含まれることがあります。",
   "photosCount": "{max, plural, =1{写真{count}枚（最大1枚）} other{写真{count}枚（最大{max}枚）}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "この写真で遊ぶ",
   "photosNeedTwoShowHidden": "絵合わせをするには、写真を2枚以上表示してください。{count, plural, other{{count}枚を非表示にしています。}}",
   "photosNeedTwoAdd": "絵合わせをするには、写真を2枚以上追加してください。",

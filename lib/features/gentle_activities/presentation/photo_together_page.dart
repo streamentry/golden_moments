@@ -122,6 +122,11 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
     if (saved) _showPicture();
   }
 
+  /// True when every picture is a bundled drawing rather than a photo.
+  bool get _allIncludedDrawings =>
+      _pictures.isNotEmpty &&
+      _pictures.every((p) => p.asset != null && p.path == null);
+
   void _useIncluded() => setState(() {
     _pictures = ActivityPicture.samples;
     _usingIncluded = true;
@@ -255,12 +260,17 @@ class _PhotoTogetherPageState extends State<PhotoTogetherPage> {
             style: textTheme.headlineSmall,
           ),
         ],
-        const SizedBox(height: gmSpaceMd),
-        Text(
-          l10n.togetherPosition(_index + 1, _pictures.length),
-          textAlign: TextAlign.center,
-          style: textTheme.bodyLarge,
-        ),
+        // The included drawings are a large library to browse, not a set
+        // to get through, so they carry no "1 of 183" count (maintainer
+        // decision, 2026-11-11). Family photos keep their small count.
+        if (!_allIncludedDrawings) ...[
+          const SizedBox(height: gmSpaceMd),
+          Text(
+            l10n.togetherPosition(_index + 1, _pictures.length),
+            textAlign: TextAlign.center,
+            style: textTheme.bodyLarge,
+          ),
+        ],
         if (_showPrompt) ...[
           const SizedBox(height: gmSpaceMd),
           Text(

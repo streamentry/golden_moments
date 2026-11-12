@@ -73,6 +73,7 @@
   "photosIntro": "Pilih foto yang anda gemar lihat bersama.",
   "photosPrivacyNote": "Hanya foto yang dipilih disalin ke dalam aplikasi ini. Tiada akaun atau pelayan penyegerakan keluarga. Salinan mungkin termasuk dalam sandaran peranti anda.",
   "photosCount": "{max, plural, =1{{count} daripada 1 foto} other{{count} daripada {max} foto}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Main dengan foto ini",
   "photosNeedTwoShowHidden": "Tunjukkan sekurang-kurangnya dua foto untuk membuat permainan padanan. {count, plural, other{{count} disembunyikan.}}",
   "photosNeedTwoAdd": "Tambah sekurang-kurangnya dua foto untuk membuat permainan padanan.",

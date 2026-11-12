@@ -73,6 +73,7 @@
   "photosIntro": "Kies foto’s die jullie graag samen bekijken.",
   "photosPrivacyNote": "Alleen de foto’s die je kiest, worden naar deze app gekopieerd. Geen account en geen server om foto’s met familie te delen. Kopieën kunnen in de back-up van je apparaat terechtkomen.",
   "photosCount": "{max, plural, =1{{count} van 1 foto} other{{count} van {max} foto’s}}",
+  "photosAtLimit": "The collection is full. To add one, open a photo's Options and choose Remove this copy.",
   "photosPlay": "Spelen met deze foto’s",
   "photosNeedTwoShowHidden": "Laat minstens twee foto’s zien om paren te kunnen zoeken. {count, plural, other{{count} verborgen.}}",
   "photosNeedTwoAdd": "Voeg minstens twee foto’s toe om paren te kunnen zoeken.",
