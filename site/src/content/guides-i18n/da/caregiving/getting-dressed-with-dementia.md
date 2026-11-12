@@ -42,7 +42,7 @@ related: [caregiving/bathing-with-dementia, caregiving/oral-care-with-dementia, 
 health: true
 ---
 
-At klæde sig på er noget personligt. En person med demens kan have sssværere ved valgmuligheder, lukninger eller rækkefølgen af trinene end før. De kan også have en stærk præference for velkendt tøj eller en bestemt stil. Målet er at støtte komfort og valgfrihed, ikke at overtage eller få tøjet til at se ud på en bestemt måde.
+At klæde sig på er noget personligt. En person med demens kan have sværere ved valgmuligheder, lukninger eller rækkefølgen af trinene end før. De kan også have en stærk præference for velkendt tøj eller en bestemt stil. Målet er at støtte komfort og valgfrihed, ikke at overtage eller få tøjet til at se ud på en bestemt måde.
 
 [Alzheimer's Associations vejledning om påklædning](https://www.alz.org/help-support/caregiving/daily-care/dressing-grooming) og [Dementia Australias råd om at klæde sig på](https://www.dementia.org.au/living-dementia/home-life/getting-dressed) anbefaler at give nok tid, holde valgene enkle og støtte personen i at gøre det, de kan. Denne side giver generelle idéer. Spørg en læge om nye problemer med påklædning eller andre helbredsspørgsmål.
 
