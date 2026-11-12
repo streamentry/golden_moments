@@ -1,7 +1,7 @@
 ---
 title: "Setelah Diagnosis Demensia: Mulai dari Mana"
 seoTitle: "Langkah Setelah Diagnosis Demensia"
-description: "Titik awal yang jelas setelah diagnosis demensia: rencanakan kontrol lanjutan, cari dukungan, dan libatkan orang tersebut dalam pilihan dengan kecepatan yang nyaman baginya."
+description: "Titik awal yang jelas setelah diagnosis demensia: rencanakan kontrol lanjutan, cari dukungan, dan libatkan orang tersebut dalam pilihan sesuai kecepatannya."
 section: caregiving
 order: 30
 updated: 2026-11-11
