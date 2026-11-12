@@ -56,7 +56,7 @@ Dakatar da aikin, koma baya, kuma ka yi amfani da jumla gajera cikin natsuwa. [�
 
 ## Me zai iya haifar da wannan hali?
 
-Akwai dalilai fiye da ɗaya, kuma mai kulawa na iyali ba zai iya gano dalilin ba. [Ƙungiyar Alzheimer ta Amurka ta lissafa rashin jin daɗin jiki, damuwar muhalli da matsalolin sadarwa a cikin abubuwan da za su iya ba da gudunmawa](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger).
+Akwai dalilai fiye da ɗaya, kuma mai kulawa na iyali ba zai iya gano dalilin ba. Ƙungiyar Alzheimer ta Amurka ta lissafa rashin jin daɗin jiki, damuwar muhalli da matsalolin sadarwa a cikin abubuwan da za su iya ba da gudunmawa.
 
 Ka yi tunani kan abin da ya faru jim kaɗan kafin canjin:
 
@@ -82,7 +82,7 @@ Don ra'ayoyi na takamaiman aiki, duba jagororinmu kan [wanka](/caregiving/bathin
 
 ## Me zan iya yi bayan al'amarin ya lafa?
 
-Ba da ƙarfafawa kuma ka koma ga aiki mai sauƙi da aka saba da shi idan mutumin yana so. Kada ka tsawata, zargi ko hukunta. [Ƙungiyar Alzheimer ta Ingila ta lura cewa mutum na iya ci gaba da jin damuwa bayan halin ya wuce, koda ba ya tuna abin da ya faru](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression).
+Ba da ƙarfafawa kuma ka koma ga aiki mai sauƙi da aka saba da shi idan mutumin yana so. Kada ka tsawata, zargi ko hukunta. Ƙungiyar Alzheimer ta Ingila ta lura cewa mutum na iya ci gaba da jin damuwa bayan halin ya wuce, koda ba ya tuna abin da ya faru.
 
 Idan kana son fahimtar wani tsari, ka rubuta gajeriyar bayani ta sirri game da abin da ya faru kafin, abin da ka lura, tsawon lokacin da ya ɗauka, da abin da ya zama kamar yana taimakawa. Ka sa bayanin ya zama na gaskiya, kuma ka raba shi da ƙungiyar kulawar mutumin idan ya dace. Ka guji yin rikodin mutumin ko raba bayanai na sirri ba tare da izini ba.
 

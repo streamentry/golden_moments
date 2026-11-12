@@ -1,7 +1,7 @@
 ---
 title: "Taimako Game da Bayan Gida da Rashin Riƙe Fitsari ko Najasa ga Mutanen da ke da Ciwon Mantuwa"
 seoTitle: "Ciwon Mantuwa da Rashin Riƙe Fitsari: Taimakon Mai Kulawa"
-description: "Taimaka wa mutum zuwa bayan gida cikin sirri, da al'adun yau da kullum da alamu masu sauƙi. Tambayi likita game da sabbin matsaloli, kuma kada ka takaita ruwa ba tare da shawara ba."
+description: "Taimaka wa mutum zuwa bayan gida cikin sirri da al'ada mai sauƙi. Tambayi likita game da sabbin matsaloli, kuma kada ka takaita ruwa ba tare da shawara ba."
 section: caregiving
 order: 18
 updated: 2026-11-11
@@ -81,7 +81,7 @@ Za ka iya shirya sabbin tufafi ko jaka mai sirri don tafiya idan mutumin yana so
 
 ## Ya kamata in takaita ruwa ko in zaɓi kayan riƙe fitsari?
 
-Kada ka rage ruwan mutum don hana hatsari sai dai idan ƙwararren lafiyarsa ya ba da shawara ta musamman. [Ƙungiyar Alzheimer ta Amurka](https://www.alz.org/help-support/caregiving/daily-care/incontinence) ta gargadi cewa takaita ruwa na iya haifar da bushewar jiki da wasu matsaloli. Mutanen da ke da ciwon mantuwa na iya buƙatar tunatarwa ko taimako don sha isasshen ruwa. Ka bi tsarin kulawa na mutum ɗaya idan akwai iyakar ruwa.
+Kada ka rage ruwan mutum don hana hatsari sai dai idan ƙwararren lafiyarsa ya ba da shawara ta musamman. Ƙungiyar Alzheimer ta Amurka ta gargadi cewa takaita ruwa na iya haifar da bushewar jiki da wasu matsaloli. Mutanen da ke da ciwon mantuwa na iya buƙatar tunatarwa ko taimako don sha isasshen ruwa. Ka bi tsarin kulawa na mutum ɗaya idan akwai iyakar ruwa.
 
 Pad, tufafin kariya ko shimfiɗar da ba ta shiga ruwa zaɓi ne na mutum. Suna iya taimakawa wasu mutane, amma babu wani samfuri guda da ya dace da kowa. Ka tattauna da likita ko mai ba da shawara kan riƙe fitsari game da zaɓuɓɓuka, jin daɗi, dacewa, matsalolin fata, da yadda mutumin yake so ya yi amfani da su. Kada ka sanya samfuri ga wanda ya ƙi; ka tambaye shi abin da zai ji daɗi a gare shi.
 
