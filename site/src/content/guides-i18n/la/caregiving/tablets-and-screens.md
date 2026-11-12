@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Tabellam aut telephonum parare pro homine cum dementia"
+seoTitle: "Tabellam aut telephonum para pro homine cum dementia"
+description: "Gradatim parare tabellam aut telephonum pro homine cum dementia: unam applicationem solam aperire, litteras maiores, pauciores nuntios, domum simplicem, sonum et secretum."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Tabellam aut telephonum simpliciorem fac antequam eum tradas. Unam applicationem
+  solam Guided Access in iPad et iPhone aut app pinning in Android adhibendo
+  claude, aut Assistive Access Apple pro ordine simplificato utere. Litteras
+  maiores fac, nuntios tace, paucas applicationes in una domo serva, sonum
+  constitue, stativo utere, et licentias applicationum limita. Simul utere, cum
+  actionibus sine schermo.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) et app pinning (Android) schermam in una applicatione servant, donec tu eam resignes."
+  - "Assistive Access Apple ordinem simplificatum offert, qui pro hominibus cum difficultatibus cognitivis designatus est."
+  - "Litteras maiores fac et nuntios ac fenestras emergentes exstingue, ne quid interrumpat aut confundat."
+  - "Tantum paucas applicationes notas in una prima pagina serva, et sonum ante incipiendum constitue."
+  - "Stativum et locum constantem ad onerandum, qui numquam movetur, instrumentum facilius usui et invento facit."
+  - "Licentias applicationum et communicationem datorum recense: HIPAA plerumque non tuetur quae in instrumento personali servantur."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Quomodo impediam ne homo cum dementia applicationem in iPad relinquat?"
+    a: "Guided Access in Settings > Accessibility > Guided Access accende et tesseram secretam constitue. Applicationem aperi, summum bulam ter preme (aut bulam Domus in iPad veteribus), et Start tange. iPad in illa applicatione manet, donec aliquis tesseram secretam inserat."
+  - q: "Quomodo tabellam Android ad unam applicationem figam?"
+    a: "App pinning in applicatione Settings accende, plerumque sub Security (interdum Security & location) > Advanced > App pinning. Deinde applicationem aperi, Overview aperi, iconem applicationis in summo tange et Pin tange. Ad resignandum PIN, figura aut tessera necessaria est."
+  - q: "Estne tutum Guided Access in telephono proprio hominis uti?"
+    a: "Cautus esto. Apple dicit Crash Detection et Emergency Services dum Guided Access in usu est non praesto esse. Si persona telephono ad vocationes in emergentia confidit, Guided Access tantum dum tecum est adhibe, aut potius Assistive Access considera."
+  - q: "Quantum temporis in schermo homini cum dementia licet?"
+    a: "Numerus constitutus non est. Sessiones breves et communes, cum ambulationibus, musica, laboribus et colloquio mixtae, diem plenum faciunt quam longa spatia solus cum schermo. Si instrumentum frustrationem efficit aut ceteras actiones opprimit, minus utere."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Tabella potest esse pulchra via imagines, musicam et ludos simplices communicandi. Potest etiam confundere: tactus errans aliam applicationem aperit, nuntius emergit, littera minuta est, aut scherma in medio ludo obscuratur. Parum parationis a te haec plerumque sanat.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Hi gradus instrumentis aedificatis in iPhone, iPad et Android utuntur. Nomina menuum inter versiones programmatum et fabricatores mutari possunt; si aliquid aliter appareat, paginam Apple aut Google in instrumento tuo cui nexus est sequere. Parationem ipse fac, antequam simul sedeatis.
 
-## Should someone with dementia use a tablet or phone?
+## Debetne homo cum dementia tabella aut telephono uti?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Id ab homine pendet. Multi tabella cum aliquo iuxta sedente delectantur, etiam si per se non sustinerent. Incipe simul uti, una applicatione aperta, per paucos minutos. Si laetitiam et colloquium affert, perge. Si confusionem aut frustrationem, album photographiarum, paginae impressae aut musica magis convenire possunt. Nostrae [actiones impressae](/activities/printable/) alternativa una est.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Tabella plerumque facilior est quam telephonum: scherma et imagines maiores sunt, nec est simul vita personae ad vocationes in emergentia.
 
-## How do I lock a tablet or phone to one app?
+## Quomodo tabellam aut telephonum ad unam applicationem figam?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Utere Guided Access in iPhone et iPad, aut app pinning in Android. Ambo schermam in una applicatione servant, donec codicem inseras, ut tactus aut ductus errans nihil aliud aperire possit.
 
-### iPad and iPhone: Guided Access
+### iPad et iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Ex [instructionibus Apple de Guided Access](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Aperi **Settings**, tange **Accessibility**, deinde tange **Guided Access** et accende.
+2. Sub **Passcode Settings** tesseram Guided Access constitue. Potes etiam Face ID aut Touch ID permittere.
+3. Optio: sub **Display Auto-Lock** elige quam cito scherma in sessione se claudat, ne in medio ludo obscuretur.
+4. Aperi applicationem quam vis.
+5. Ter preme latus bulae (iPhone), bulam summam (iPad), aut bulam Domus in instrumentis veteribus.
+6. Optio: circumscribe partes schermae quas tactui non responsuras vis. Tange **Options** (aut **Session Settings**) ut bulas sonoris exstinguas aut versionem schermae impedias.
+7. Tange **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Ad sessionem finiendam, ter preme eandem bulam, tesseram inseri et **End** tange. Apple notat in quibusdam versionibus veteribus programmatum bis premendum esse.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Momentum:** Apple dicit Crash Detection et Emergency Services dum sessio Guided Access est non praesto esse. Noli Guided Access in telephono relinquere quod persona ad vocationes in emergentia fortasse indiget.
 
 ### Android: app pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Ex [auxilio Google de figendis schermis](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Aperi applicationem **Settings**.
+2. Tange **Security** (aut **Security & location**), deinde **Advanced**, deinde **App pinning**. Si non invenis, paginas auxilii fabricatoris instrumenti inspice.
+3. Accende **App pinning**. PIN, figura aut tessera ad resignandum necessaria erit.
+4. Aperi applicationem quam vis. Sursum scrolla ad medium schermae et tene ut Overview aperias (aut tange Overview in navigatione trium bulorum).
+5. In summo spectaculi applicationis tange iconem applicationis, deinde tange **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Ad resignandum navigatione gestuum, sursum scrolla et tene. Navigatione trium bulorum, Back et Overview tene. Navigatione duorum bulorum, Back et Home tene. Deinde PIN, figuram aut tesseram insere.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Estne modus simplicior pro toto iPhone aut iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ita. Assistive Access Apple solitam paginam domesticam ordine simpliciore mutat. [Apple eam describit](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) ut consilium ad iPhone facilius usui hominibus cum difficultatibus cognitivis faciendum, cum maioribus rebus in scherma et functionibus intentis. Apple [eandem functionem in iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) quoque offert.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Qui instituit.** Apple suadet ut fidelis adiutor, ut familiaris aut curator qui hominem novit, applicationes et functiones eligere adiuvet.
+- **Unde incipere.** Ad **Settings > Accessibility > Assistive Access** vade, tange **Set Up Assistive Access**, deinde **Continue**.
+- **Applicationes.** Tu eligis quae applicationes appareant. Quaedam applicationes Apple versiones simplificatas speciales habent, et plerasque ceteras applicationes suo consilio usuali addere potes.
+- **Forma.** Elige **Rows** (index facile legibilis) aut **Grid** (res maiores, quae imagines et icones exstant).
+- **Tessera.** Tesseram Assistive Access separatam ad intrandum, exeundum vel optiones mutandas constituis. Apple suadet ut Apple Account recuperationis in institutione constituatur, quia sine eo tessera oblita significat instrumentum restituendum esse.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access fortasse convenit homini qui suo instrumento cotidie utitur. Guided Access aut app pinning celerius est ad sessionem ludi communem.
 
-## How do I make text and pictures bigger?
+## Quomodo litteras et imagines maiores faciam?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Magnitudinem textus et schematis auge, deinde vide num bulae adhuc in scherma capiantur.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone et iPad.** Ex [instructionibus Apple de magnitudine litterarum](https://support.apple.com/en-us/102453), ad **Settings > Display & Brightness > Text Size** vade et regulam trahe. Ad textum etiam maiorem, ad **Settings > Accessibility > Display & Text Size > Larger Text** vade. Apple notat textum nimis magnum bulas quasdam difficiliores ad tangendum facere posse; si opus est, adiusta.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Ex [auxilio Google de textu et schemate](https://support.google.com/accessibility/android/answer/11183305?hl=en), **Settings** aperi et **Font size** quaere, deinde regulam move. Ad omnia in scherma maiora faciendum **Display size** quaere. Potes etiam **Bold text** accendere sub **Accessibility > Display size and text**. Quaedam applicationes hos modos non sequuntur.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+In ludis ut [Paria imaginum](/games/picture-pairs/) et [Idem inveni](/games/find-the-same/) pauciores tesseras aut optiones eligere potes, quod schermam simpliciorem servat.
 
-## How do I stop notifications and pop-ups?
+## Quomodo nuntios et fenestras emergentes exstinguam?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Nuntios applicationum quas non opus habes exstingue, et Do Not Disturb in actionibus utere.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone et iPad.** Ad **Settings > Notifications** vade, applicationem sub **Notification Style** tange, et **Allow Notifications** exstingue ([duce Apple de nuntiis](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Ad vocationes, monitiones et nuntios ad tempus silendos, Control Center aperi et Do Not Disturb accende per bulam **Focus** ([auxilium Apple de Do Not Disturb](https://support.apple.com/en-us/105112)). Potes eum in **Settings > Focus > Do Not Disturb > Set a Schedule** constituere.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Ex summo schermae sursum scrolla et **Do Not Disturb** tange, aut ad **Settings > Modes > Do Not Disturb** vade ([auxilium Google de Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Sub **Notification filters** eligere potes qui homines et quae applicationes adhuc pervenire possint. Optiones inter fabricatores variant.
 
-## How do I make a simple home screen?
+## Quomodo primam paginam domesticam simplicem faciam?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Paucas applicationes notas in una pagina serva, ceteras extra conspectum move. Nulla est una optio ad hoc; res est de supervacaneis tollendis.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Tres ad sex applicationes elige.** Exempli gratia, imagines, musicam, applicationem vocationum video et unum ludum.
+- **In prima pagina pone,** semper in eodem loco, ceteras in secundam paginam aut dossier move.
+- **Chartam plane et magni contrasti adhibe,** ut colorem unum aut unam imaginem notam, ut icones eminerent.
+- **Applicationes non necessarias dele.** Pauciores applicationes pauciores confusiones et minus datorum collectorum significant.
+- **Assistive Access considera** in instrumentis Apple, si instrumentum id tibi facere vis.
 
-## What about volume and sound?
+## Quid de sono et voce?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Sonum commodum constitue antequam instrumentum tradas. Cum Guided Access, bulas sonoris exstinguere potes, ne in medio actionis mutetur. Vide num auxilia auditus inserta et functionentia sint.
 
-## Where should the tablet live?
+## Ubi tabella stare debet?
 
-Give it a stand and a permanent charging spot.
+Stativum et locum constantem ad onerandum da.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Stativum aut theca** quae tabellam in mensa erectam tenet, ne quis eam tenere debeat, et monstrare facilius est.
+- **Unum locum ad onerandum** qui numquam movetur, idealiter stativum oneris in mensa in cubiculo quod cotidie utimur. Tabella semper onerata et semper in eodem loco est.
+- **Splendorem minue.** Schermam a fenestra clara abverte.
 
-## How much screen time is okay?
+## Quantum schermo licet?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Numerus minutorum rectus non est. Sessiones breves et communes sit pars plenae diei, quae etiam motum, musicam, labores domesticos, colloquium et tempus extra domum comprehendit. Quia vesperae occupatae inquietudinem sero augere possunt, actiones in schermo ad priorem partem diei serva. Vide [actiones placidas sub vesperam](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Tabellam simul uti, non quasi custodem infantis, socialem eam servat. Nostrum ducem de [ludis simul ludendis](/caregiving/how-to-play-together/) explicat quomodo.
 
-## How do I protect their privacy on the device?
+## Quomodo secretum eius in instrumento tutabor?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Quid applicationes colligere possint limita, et noli putare legem de sanitatis secreto id tueri. Ministerium Salutis et Humanorum Servitiorum Civitatum Foederatarum (HHS) [explicat](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) Regulas HIPAA plerumque non tueri informationem sanitatis quae in telephonis aut tabellis personalibus servatur aut accessa est. Plerumque HIPAA etiam non tuetur data in applicationes ad usum personalem inserta, nisi applicatio ab fautore curae sanitatis, consilio salutis aut eorum sociis operariis venit.
 
-HHS suggests:
+HHS suadet:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- ut applicationes inutiles aut casuales vites, praesertim “liberas”;
+- ut accessum ad locum ne des applicationibus nisi vere opus est, ut mappis.
 
-Also consider:
+Etiam considera:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Tesseram in instrumento utere,** et eam alicubi tuto nota.
+- **Licentias recense** pro photographiis, camera, microphono, contactibus et loco, et quae applicatio non necessitat, exstingue.
+- **Quid applicatio colligat inspice** antequam instituas. Nostrum ducem de [eligendis applicationibus et ludis dementiae](/caregiving/choosing-apps-and-games/) indicem secreti habet.
+- **Photographias familiares cum cura tracta.** Tantum photographias communica quas persona libenter videat, et scito ubi applicatio eas servet. In [Paria photographiarum](/games/photo-pairs/) photographiae quas eligis in tuo navigatore manent.
+- **Emptiones in applicationibus exstingue** aut rationes solutionis ex rationibus quas persona utitur tolle.

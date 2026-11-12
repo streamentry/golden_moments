@@ -113,7 +113,7 @@ Eeler Leit sollen ouni Gespréich mam Dokter keng Kalorien schneiden oder Gewiic
 
 ## Wéi kënnt Dir eng Persoun mat Demenz hëllefen, gutt ze iessen?
 
-Fir Leit, déi mat Demenz liewen, ass et meeschtens Haaptsorg, datt se **genuch** iessen a drénken. D'Alzheimer's Association seet, datt Leit vergiesse kënnen ze iessen, mengen, si hätten schonn ze Mëtteg gäss, oder vun de Méiglechkeeten iwwerfuer sinn, a datt schlecht Ernärung behavioural Symptomer verstäerken an Gewiichtsverloscht verursaache kann ([Alzheimer's Association iwwer Iessen a Ernärung](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Dës Iddien kommen vun der Alzheimer's Association, vum NIA an der Alzheimer's Society:
+Fir Leit, déi mat Demenz liewen, ass et meeschtens Haaptsorg, datt se **genuch** iessen a drénken. D'Alzheimer's Association seet, datt Leit vergiesse kënnen ze iessen, mengen, si hätten schonn ze Mëtteg gäss, oder vun de Méiglechkeeten iwwerfuer sinn, a datt schlecht Ernärung Verhalenssymptomer verstäerken an Gewiichtsverloscht verursaache kann ([Alzheimer's Association iwwer Iessen a Ernärung](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Dës Iddien kommen vun der Alzheimer's Association, vum NIA an der Alzheimer's Society:
 
 1. **Bidd Fangerfudder un.** Mundgerecht Stécker, déi einfach ze gräifen sinn, wéi Sandwichstécker, Poulet-Stécker, Fëschstécker, Orangenabschnitter oder gedämpft Broccoli, loossen eng Persoun sech selwer ouni Besteck fidderen.
 2. **Benotzt Kontrast um Dësch.** Verännerungen an der Visioun kënnen et schwéier maachen, Iessen vum Teller ze ënnerscheeden. Wäiss Teller oder Schüsselen op engem kontrastéierende Dësch-Ënnerlag kënnen hëllefen. Vermeit gemosterte Geschir a Dëschdicher.
@@ -128,7 +128,7 @@ Fir Leit, déi mat Demenz liewen, ass et meeschtens Haaptsorg, datt se **genuch*
 
 ### Zeeche fir dem Dokter Bescheed ze sot
 
-Gewiichtsverloscht, Refus vum Iessen, Middegkeet oder Schwächt kënnen Zeeche sinn, datt eng Persoun net genuch iesst. D'Alzheimer's Society seet, datt wéi eeme Mëtt wéi wéi schmerzhaft Zänn oder Zännprothesen, Depressioun, Verstopfung an Ännerungen bei Medikamenter den Appetit senken kënnen ([Alzheimer's Society iwwer Appetit](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Zeechen vun Austrocknung, déi den NIA opzielt, sinn dréchen Mond, Schwindel, schnellen Häerzschlag a Halluzinatiounen ([NIA iwwer typesch medizinesch Problemer](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Gewiichtsverloscht, Refus vum Iessen, Middegkeet oder Schwächt kënnen Zeeche sinn, datt eng Persoun net genuch iesst. D'Alzheimer's Society seet, datt schmerzhaft Zänn oder Zännprothesen, Depressioun, Verstopfung an Ännerungen bei Medikamenter den Appetit senken kënnen ([Alzheimer's Society iwwer Appetit](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Zeechen vun Austrocknung, déi den NIA opzielt, sinn dréchen Mond, Schwindel, schnellen Häerzschlag a Halluzinatiounen ([NIA iwwer typesch medizinesch Problemer](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
 ## Mat engem Dokter schwätzen
 

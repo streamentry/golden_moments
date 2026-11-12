@@ -1,7 +1,7 @@
 ---
 title: "Wanneer iemand met demensie jou nie herken nie"
 seoTitle: "Demensie: wat om te sê as iemand jou nie herken nie"
-description: "As iemand met demensie jou nie herken nie, stel jou kalm voor, moenie toetsvrae vra nie, bied bekende leidrade as dit welkom is en soek hulp vir skielike veranderinge."
+description: "As iemand met demensie jou nie herken nie, stel jou kalm voor, vermy toetsvrae, bied bekende leidrade as dit welkom is en soek hulp vir skielike veranderinge."
 section: caregiving
 order: 32
 updated: 2026-11-11
