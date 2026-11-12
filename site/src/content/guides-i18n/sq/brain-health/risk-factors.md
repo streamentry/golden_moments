@@ -1,33 +1,34 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Faktorët e rrezikut për demencën: 14-të e emëruar nga Komisioni Lancet"
+seoTitle: "Faktorët e rrezikut për demencën: 14 faktorët e Lancet"
+description: "14 faktorët e rrezikut për demencën që mund të ndryshohen, sipas Komisionit Lancet 2024, sipas fazës së jetës, me atë që hulumtimet lidhin dhe atë që mund ta diskutoni me mjekun."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Komisioni Lancet 2024 emëroi 14 faktorë të rrezikut për demencën që mund të
+  ndryshohen: arsimim më i ulët, humbje dëgjimi, kolesterol LDL i lartë,
+  depresion, dëmtim i trurit nga goditja në kokë, mungesë lëvizjeje, diabet,
+  duhan, presion i lartë i gjakut, obezitet, pirje e tepërt alkooli, izolim
+  social, ndotje e ajrit dhe humbje e shikimit e patrajtuar. Së bashku ato
+  lidhen me rreth 45% të rasteve në botë, pa asnjë garanci për asnjë person
+  të veçantë.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Të 14 faktorët shtrihen gjatë gjithë jetës: një në jetën e hershme, dhjetë në moshën e mesme dhe tre në jetën e mëvonshme."
+  - "Humbja e dëgjimit dhe kolesteroli LDL i lartë në moshën e mesme lidhen secili me rreth 7% të rasteve të demencës në botë, pjesët më të mëdha nga çdo faktor i vetëm."
+  - "Këto përqindje janë vlerësime të popullatës që supozojnë shkak dhe pasojë. Disa lidhje mund të jenë shkakësore vetëm pjesërisht."
+  - "Mosha dhe gjenet, që askush nuk mund t'i ndryshojë, janë gjithashtu faktorë të rëndësishëm rreziku. Ulja e 14 rreziqeve nuk garanton që dikush do të shmangë demencën."
+  - "Shumica e hapave të përfshirë, si kontrolli i presionit të gjakut, i dëgjimit dhe i shikimit, janë të mirë për shëndetin edhe në aspekte të tjera dhe vlen të diskutohen me mjekun."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Cilët janë 14 faktorët e ndryshueshëm të rrezikut për demencën?"
+    a: "Komisioni Lancet 2024 emëroi arsimin më të ulët, humbjen e dëgjimit, kolesterolin LDL të lartë, depresionin, dëmtimin traumatik të trurit, mungesën e lëvizjes fizike, diabetin, duhanin, presionin e lartë të gjakut, obezitetin, pijen e tepërt të alkoolit, izolimin social, ndotjen e ajrit dhe humbjen e patrajtuar të shikimit. Së bashku ato lidhen me pothuajse gjysmën e rasteve të demencës në botë."
+  - q: "Cili faktor i rrezikut për demencën është më i rëndësishmi?"
+    a: "Për popullatën e botës, Komisioni vlerësoi se humbja e dëgjimit dhe kolesteroli LDL i lartë në moshën e mesme lidhen secili me rreth 7% të rasteve, pasuar nga arsimimi më i ulët dhe izolimi social me rreth 5% secili. Cili faktor ka më shumë rëndësi për një person varet nga shëndeti i vet, prandaj mjeku është udhëzuesi më i mirë."
+  - q: "A u shtuan dy faktorët e rinj të rrezikut në vitin 2024?"
+    a: "Po. Raporti i vitit 2024 shtoi kolesterolin LDL (\"të keq\") të lartë në moshën e mesme dhe humbjen e patrajtuar të shikimit në jetën e mëvonshme, në 12 faktorët e emëruar në vitin 2020. Komisioni i lidhi ato me rreth 7% dhe 2% të rasteve, respektivisht."
+  - q: "A është mosha faktor i rrezikut që mund të ndryshohet?"
+    a: "Jo. Mosha është faktori më i madh i njohur i rrezikut për sëmundjen e Alzheimerit dhe nuk mund të ndryshohet. Gjenet gjithashtu luajnë një rol. 14 faktorët në këtë faqe janë ata që hulumtimi sugjeron se mund të ndryshohen."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +50,127 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Faktori i rrezikut është diçka që lidhet me një shans më të lartë për të
+zhvilluar një gjendje shëndetësore. Ai nuk është shkak në çdo rast, dhe të
+kesh një faktor rreziku nuk do të thotë se do të zhvillosh demencë. Kjo faqe
+liston 14 faktorët e rrezikut për demencën që Komisioni Lancet 2024 thotë se
+mund të ndryshohen, çfarë lidh hulumtimi me ta, dhe çfarë mund të diskutoni me
+mjekun.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Për pamjen më të gjerë, përfshirë atë që gjetën provat e mëdha klinike, filloni
+me [A mund të parandalohet demenca? Çfarë thotë hulumtimi](/brain-health/can-dementia-be-prevented/).
+Ky është informacion i përgjithshëm, jo këshillë mjekësore; shihni
+[shënimin tonë mjekësor](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Cilët janë 14 faktorët e rrezikut për demencën?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Komisioni Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0),
+i shkruar nga 27 hulumtues të demencës, vlerësoi se 14 faktorët e rrezikut që
+mund të ndryshohen së bashku përbëjnë rreth 45% të rasteve të demencës në botë.
+Përqindja për secilin faktor më poshtë është vlerësimi i Komisionit për pjesën
+e rasteve në botë që lidhet me të, e rrumbullakosur në numra të plotë. Shifrat
+mbivendosen, sepse shumë njerëz kanë disa rreziqe njëkohësisht, prandaj mblidhen
+në 45% dhe jo më shumë.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Faktori i rrezikut | Faza e jetës | Pjesa e rasteve | Çfarë lidh hulumtimi | Çfarë mund të bëni |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Arsimim më i ulët | Jeta e hershme | 5% | Më pak vite shkollimi lidhen me rrezik më të lartë. Të qenit aktiv mendërisht në moshën e mesme duket gjithashtu mbrojtës, edhe për njerëzit me pak shkollim. | Vazhdoni të mësoni dhe të bëni gjëra që angazhojnë mendjen në çdo moshë: lexim, hobi, kurse, lojëra me të tjerë. |
+| Humbje e dëgjimit | Mosha e mesme | 7% | Humbja e patrajtuar e dëgjimit lidhet me rrezik më të lartë. Studimet që ndjekin njerëzit me kalimin e kohës lidhin përdorimin e aparateve të dëgjimit me rrezik më të ulët. | Bëni test dëgjimi. Pyesni nëse aparatet e dëgjimit do të ndihmonin, dhe përdoreni ato nëse ju janë përshkruar. Mbroni veshët nga zhurma e fortë. |
+| Kolesterol LDL i lartë | Mosha e mesme (nga rreth 40 vjeç) | 7% | Kolesteroli LDL (\"i keq\") i lartë në moshën e mesme lidhet me rrezik më të lartë. Studimet vëzhguese lidhin përdorimin e statinave me rrezik më të ulët, por provat në moshën e mëvonshme nuk e kanë treguar këtë. | Pyesni mjekun tuaj nëse duhet kontrolluar kolesteroli juaj dhe çfarë, nëse ka diçka, të bëni për të. |
+| Depresion | Mosha e mesme | 3% | Depresioni lidhet me rrezik më të lartë. Në moshën e mëvonshme, depresioni mund të jetë gjithashtu një shenjë e hershme e demencës. | Tregoni te mjeku ulje shpirtërore ose humbje interesi që zgjat më shumë se dy javë. Depresioni trajtohet. |
+| Dëmtim traumatik i trurit | Mosha e mesme | 3% | Goditja në kokë në çdo moshë dhe nga çdo burim, përfshirë sportet e kontaktit, lidhet me rrezik më të lartë. | Vishni helmetë kur bëni biçikletë dhe sporte kontakti. Pyesni për parandalimin e rënieve. Pushoni dhe bëni kontroll pas një goditjeje në kokë. |
+| Mungesë lëvizjeje fizike | Mosha e mesme | 2% | Njerëzit që ushtrohen dhe luajnë sport kanë më pak gjasa të zhvillojnë demencë. Provat nga eksperimentet janë ende të kufizuara. | Pyesni çfarë aktiviteti është i sigurt për ju, dhe gjeni diçka që ju pëlqen. Shihni [udhëzuesin tonë për ushtrimet](/brain-health/exercise/). |
+| Diabeti | Mosha e mesme | 2% | Diabeti, sidomos kur fillon në moshën e mesme ose zgjat më shumë, lidhet me rrezik më të lartë. | Kontrolloni sheqerin në gjak. Nëse keni diabet, punoni me ekipin tuaj kujdesës për ta menaxhuar atë në mënyrë të sigurt. |
+| Duhani | Mosha e mesme | 2% | Pirja e duhanit lidhet me rrezik më të lartë. Studimet tregojnë se ish-pirësit nuk kanë të njëjtin rrezik të shtuar si ata që vazhdojnë të pinë. | Pyesni për mbështetje për ta lënë. Ia vlen ta lini në çdo moshë. |
+| Presion i lartë i gjakut | Mosha e mesme | 2% | Presioni i lartë i gjakut në moshën e mesme lidhet me rrezik më të lartë. Provat e ilaçeve për presionin sugjerojnë një rrezik të përfshirë më të ulët për demencë ose dëmtim njohës. | Njihni numrat tuaj. Komisioni sugjeron një numër sipror prej 130 ose më të ulët nga rreth 40 vjeç; pyesni cili objektiv ju përshtatet. |
+| Obeziteti | Mosha e mesme | 1% | Obeziteti në moshën e mesme lidhet me rrezik më të lartë, dhe gjithashtu rrit rrezikun e diabetit. | Pyesni mjekun tuaj për një peshë të shëndetshme për ju. Të rriturit më të moshuar nuk duhet të bëjnë dietë për të humbur peshë pa këshillë mjekësore. |
+| Pirja e tepërt e alkoolit | Mosha e mesme | 1% | Pirja e madhe e alkoolit lidhet me rrezik më të lartë. Pakësimi i pirjes së madhe lidhet me rrezik më të ulët. | Pyesni cili është një kufi i sigurt për ju, sidomos me ilaçet që merrni. |
+| Izolimi social | Jeta e mëvonshme | 5% | Kontakti i rrallë social lidhet me rrezik më të lartë. | Mbani lidhje me njerëzit në mënyra që ju pëlqejnë. Shihni [udhëzuesin tonë për lidhjet sociale](/brain-health/social-connection/). |
+| Ndotja e ajrit | Jeta e mëvonshme | 3% | Jetesa me më shumë ndotje të ajrit lidhet me rrezik më të lartë. Studimet lidhin ajrin më të pastër me rrezik më të ulët. | Kryesisht është çështje e politikës publike. Kontrolloni njoftimet lokale për cilësinë e ajrit dhe kufizoni kohën jashtë në ditët shumë të ndotura. |
+| Humbje e patrajtuar e shikimit | Jeta e mëvonshme | 2% | Problemet e shikimit që nuk korrigjohen lidhen me rrezik më të lartë. Një studim i madh amerikan lidhi operacionin e kataraktës me rrezik më të ulët. | Bëni kontrolle të rregullta të syve. Pyesni nëse probleme si katarakta mund të trajtohen. |
 
-## How should I read these percentages?
+## Si duhet t'i lexoni këto përqindje?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Me kujdes. Raporti i vetë Komisionit ngre disa pika që vlen t'i mbani parasysh:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Ato përshkruajnë popullata, jo persona.** [Përmbledhja e raportit](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  nga University College London thekson se ulja e rrezikut funksionon në nivel
+  popullate dhe nuk garanton që çdo person i veçantë do të shmangë demencën.
+- **Ato supozojnë shkak dhe pasojë.** Autorët përfshinë vetëm faktorët me prova
+  bindëse, por thonë se disa lidhje mund të jenë shkakësore vetëm pjesërisht.
+- **Janë shifra botërore.** Shumica e të dhënave vijnë nga vendet me të ardhura
+  të larta, dhe pjesa reale për çdo vend ose komunitet të veçantë do të ndryshojë.
+- **Përqindjet e vogla mund të kenë ende rëndësi.** Një faktor i lidhur me 2%
+  të rasteve në botë prek ende një numër shumë të madh njerëzish.
 
-## Which risk factors were added in 2024?
+## Cilët faktorë rreziku u shtuan në vitin 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Raporti i vitit 2024 shtoi dy faktorë në 12-të e emëruar në vitin 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Kolesteroli LDL i lartë në moshën e mesme**, i lidhur me rreth 7% të rasteve.
+- **Humbja e patrajtuar e shikimit në jetën e mëvonshme**, e lidhur me rreth 2%
+  të rasteve.
 
-## What risk factors cannot be changed?
+## Cilët janë rreziqet që nuk mund të ndryshohen?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Instituti Kombëtar për Plakjen (National Institute on Aging) thotë se
+[mosha është faktori më i madh i njohur i rrezikut për Alzheimerin](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+dhe askush nuk mund ta ndryshojë atë. Gjenet gjithashtu luajnë një rol; një
+gjen i njohur që ndikon në rrezikun e Alzheimerit quhet APOE. NIA shton se
+shkencëtarët ende nuk e kuptojnë plotësisht se çfarë shkakton Alzheimerin te
+shumica e njerëzve. Komisioni Lancet thekson se rreziqet që mund të ndryshohen
+mund të ulen, pavarësisht rrezikut gjenetik të një personi.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Meqenëse mosha dhe gjenet luajnë një rol kaq të madh, shumë njerëz që nuk kanë
+asnjë nga 14 faktorët e rrezikut zhvillojnë ende demencë. Kjo nuk është faji i
+askujt.
 
-## What does the trial evidence say about changing these risks?
+## Çfarë thotë prova nga eksperimentet për ndryshimin e këtyre rreziqeve?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Lidhja e një faktori rreziku me demencën nuk është e njëjta gjë me vërtetimin
+se ndryshimi i tij ul rrezikun e demencës. Disa shembuj se ku qëndrojnë provat
+nga eksperimentet:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Presioni i gjakut.** Në eksperimentin SPRINT MIND, një objektiv më i ulët i
+  presionit të gjakut zvogëloi ndjeshëm dëmtimin e lehtë njohës. Nuk e zvogëloi
+  ndjeshëm demencën e mundshme, megjithëse eksperimenti mund të ketë qenë shumë
+  i vogël për ta treguar këtë
+  ([SPRINT MIND në JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Aparatet e dëgjimit.** Komisioni Lancet përshkruan një eksperiment tre-vjeçar
+  me aparate dëgjimi që nuk gjeti asnjë efekt të përgjithshëm në të menduarit,
+  por një dobi në një nëngrup njerëzish me rrezik më të lartë. Studimet që ndjekin
+  njerëzit me kalimin e kohës lidhin përdorimin e aparateve të dëgjimit me rrezik
+  më të ulët. Udhëzuesi ynë për [dëgjimin](/brain-health/hearing/) ka më shumë.
+- **Aktiviteti fizik.** Instituti Kombëtar për Plakjen thotë se nuk ka prova të
+  mjaftueshme nga eksperimentet klinike për të arritur në përfundimin se
+  ushtrimi mund të parandalojë ose ngadalësojë dëmtimin e lehtë njohës ose
+  Alzheimerin, megjithëse disa studime sugjerojnë se mund të ndihmojë me rënien
+  që lidhet me moshën
+  ([NIA për parandalimin e Alzheimerit](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Eksperimentet e gjata që presin të zhvillohet demenca janë të ngadalta dhe të
+shtrenjta, prandaj për shumicën e faktorëve provat më të mira do të vazhdojnë
+të vijnë nga studimet që ndjekin njerëzit për vite. Kjo evidencë është e dobishme,
+por është më e dobët se një eksperiment.
 
-## What about sleep and diet?
+## Po gjumi dhe dieta?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Komisioni shqyrtoi gjumin dhe dietën, por nuk i shtoi në listë, sepse provat
+nuk ishin mjaft të forta ose të qëndrueshme. Udhëzuesit tanë për [gjumin](/brain-health/sleep/)
+dhe [dietën](/brain-health/diet/) shpjegojnë atë që dihet.
 
-## Talk with a doctor
+## Flisni me mjekun
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Një kontroll vjetor është një kohë e mirë për t'i ngritur këto tema. Mund të
+sillni këtë listë dhe të pyesni:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Cilët janë numrat e mi të presionit të gjakut, të sheqerit dhe të kolesterolit,
+  dhe a kanë nevojë për vëmendje?
+- A duhet të kontrollohen dëgjimi dhe sytë e mi?
+- A është aktiviteti që bëj i sigurt dhe i mjaftueshëm për mua?
+- A mund të ndikojë ndonjë nga ilaçet e mia në kujtesë ose të menduar?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Përpara se të ndryshoni ilaçe, dietë, agjërim, ushtrime ose suplemente, flisni
+fillimisht me mjekun. Nëse ju ose një person që kujdesteni ka konfuzion të
+papritur, dobësi në njërën anë ose vështirësi në të folur, telefononi numrin e
+emergjencave në vendin tuaj.
