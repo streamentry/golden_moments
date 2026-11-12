@@ -1,7 +1,7 @@
 ---
 title: "Marka Qof Qaba Dementia Uusan Ku Aqoonin Adiga"
 seoTitle: "Dementia: Maxaad Dhahdaa Marka Qofku Aanu Ku Aqoonin"
-description: "Haddii qof qaba dementia aanu ku aqoonin, is-soo-bandhig deggan samee, ha tijaabin xusuusta, calaamad caadi ah isticmaal haddii raaxo keento, oo raadi caawimo degdeg ah."
+description: "Haddii qof qaba dementia aanu ku aqoonin, is-soo-bandhig deggan samee, ha tijaabin xusuusta, calaamad caadi ah isticmaal haddii ay ku habboon tahay."
 section: caregiving
 order: 32
 updated: 2026-11-11

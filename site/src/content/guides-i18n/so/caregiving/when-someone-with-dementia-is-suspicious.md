@@ -71,7 +71,7 @@ Haddii aadan hubin in welwelku sax yahay, weydii qof dhexdhexaad ah inuu caawiyo
 
 ## Sidee dhaqammada joogtada ah ay u caawin karaan waxyaabaha lumay?
 
-Waxyaabaha inta badan lumaa u dhig meel caadi ah. Weel furaha, dhaqaq boorsada ama fiiro gacmo leh ayaa laga yaabaa inay ka dhigto inuu mar dambe la helo. Alzheimer's Society wuxuu talinayaa in meel joogto ah loo isticmaalo waxyaabo sida furaha ama muraayadaha. Weydii qofka meel uu u arko mid macno leh.
+Waxyaabaha inta badan lumaa u dhig meel caadi ah. Weel furaha, dhaqaq boorsada ama fiiro gacmo leh ayaa laga yaabaa inay ka dhigto inuu mar dambe la helo. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) wuxuu talinayaa in meel joogto ah loo isticmaalo waxyaabo sida furaha ama muraayadaha. Weydii qofka meel uu u arko mid macno leh.
 
 Isbeddel mid mid isku day. Waxyaabaha la raro iyada oo aan wax la sharixin ayaa qofka ka dhigi kara mid aan hubsanayn meesha ay waxyaabuhu ku yaallaan. Haddii shay qiimo yar ah oo inta badan lumo, nuqul ayaa laga yaabaa inay caawiso guryaha qaarkood, laakiin ma beddeli karto hubinta in asalka la tuugay ama la waayay.
 

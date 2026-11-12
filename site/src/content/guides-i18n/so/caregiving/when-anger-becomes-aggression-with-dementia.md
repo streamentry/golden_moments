@@ -94,7 +94,7 @@ Haddii dadaal ka dhasha walaac joogto ah, beddel waqtiga ama habka, ama codso qo
 
 ## Goorma ayaan talo caafimaad doonaa?
 
-La xiriir dhakhtarka qofka ee ku saabsan xoog-isticmaal cusub, degdeg ah, soo noqnoqda ama xumaanaya. Alzheimer's Association wuxuu talinayaa baaritaan caafimaad isbeddelka dabeecadda, gaar ahaan markii ay degdeg u soo baxaan. Xanuunka, jirrada, hurdada, deegaanka iyo daawooyinka oo dhan ayaa laga yaabaa inay u baahan yihiin dib u eegis. Dhakhtarku wuxuu qiimayn karaa xaaladda qofka.
+La xiriir dhakhtarka qofka ee ku saabsan xoog-isticmaal cusub, degdeg ah, soo noqnoqda ama xumaanaya. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) wuxuu talinayaa baaritaan caafimaad isbeddelka dabeecadda, gaar ahaan markii ay degdeg u soo baxaan. Xanuunka, jirrada, hurdada, deegaanka iyo daawooyinka oo dhan ayaa laga yaabaa inay u baahan yihiin dib u eegis. Dhakhtarku wuxuu qiimayn karaa xaaladda qofka.
 
 Caawimo degdeg ah oo caafimaad raadi haddii qofku si degdeg ah u jahwareero, dhaawac soo gaaro, ama uu si xoog leh u xanuunsado. Haddii adiga ama qof kale khatar hadda ku jirto, la xiriir adeegyada degdegga ah ee maxalliga ah. Ha sugin inaad qoraalada ururiso ama aad sababta marka hore ogaato.
 
