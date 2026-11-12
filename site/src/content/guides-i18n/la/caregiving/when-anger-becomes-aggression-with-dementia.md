@@ -59,7 +59,7 @@ Actionem interrumpe, retro recede et sententia brevi et tranquilla utere. [Alzhe
 
 ## Quid causam mutationis adiuvare potest?
 
-Causae plures esse possunt, et propinquus causam diagnoscere non potest. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) inter causas fortasse incommodum corporis, stressum ambientis et difficultates communicationis enumerat.
+Causae plures esse possunt, et propinquus causam diagnoscere non potest. Alzheimer's Association inter causas fortasse incommodum corporis, stressum ambientis et difficultates communicationis enumerat.
 
 Cogita quid paulo ante mutationem accidisset:
 
@@ -85,7 +85,7 @@ Ad actiones speciales, vide libellos de [lavatione](/caregiving/bathing-with-dem
 
 ## Quid faciam postquam res sedata est?
 
-Solacium offer et ad actionem familiarem et levem redi, si homo id vult. Noli obiurgare, culpam imponere aut punire. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) notat hominem etiam post mutationem adhuc turbatum esse posse, quamvis non meminerit quid accidisset.
+Solacium offer et ad actionem familiarem et levem redi, si homo id vult. Noli obiurgare, culpam imponere aut punire. Alzheimer's Society notat hominem etiam post mutationem adhuc turbatum esse posse, quamvis non meminerit quid accidisset.
 
 Si rationem intellegere vis, breve notam privatam fac: quid paulo ante accidit, quid observasti, quamdiu duravit et quid adiuvisse videtur. Nota sit facta et, ubi convenit, cum curis medicis hominis communica. Vita privata et personalia sine consensu ne registres aut communices.
 

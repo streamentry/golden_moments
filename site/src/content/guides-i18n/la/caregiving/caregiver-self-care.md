@@ -1,7 +1,7 @@
 ---
 title: "Cura sui curatoris: respite, subsidium et signa defectus"
 seoTitle: "Cura sui curatoris dementiae: respite et subsidium"
-description: "Signa defectus curatoris, quomodo requiem et coetus subsidii inveniatur, et lineae auxilii liberae in Civitatibus Foederatis, cum Alzheimer's Association et Eldercare Locator."
+description: "Signa defectus curatoris, requies, coetus subsidii et lineae auxilii liberae in Civitatibus Foederatis: Alzheimer's Association et Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
@@ -111,7 +111,7 @@ Respite cura brevis est pro homine quem curas, ut tu requiescas. [NIA libellus d
 
 **Quis solvit?** Secundum NIA, respite a familia, amicis aut voluntariis nihil constare potest. Servitia professionalia horaria aut diurna pretium habent. Pro homine qui curam hospitalem accipit, Medicare plerumque sumptus usque ad quinque dies continuos respite in nosocomio aut in statione peritorum nursing constituit. Medicaid adiuvare potest. Plerumque assecuratio privata respite non tegit, quamvis nonnulla consilia curae diuturnae id faciant.
 
-**Consilium:** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) suadet ut respite praebentes in situ non urgenti experiare, ut parati sint, si subito auxilium opus est.
+**Consilium:** Alzheimer's Association suadet ut respite praebentes in situ non urgenti experiare, ut parati sint, si subito auxilium opus est.
 
 ## Ubi auxilium prope me invenio?
 

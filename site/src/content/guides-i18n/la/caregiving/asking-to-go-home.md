@@ -72,7 +72,7 @@ health: false
 
 ## Cur homo dementia laborans identidem domum ire petit?
 
-Plerumque “domus” sensus est magis quam locus. [Alzheimer's Society](https://www.alzheimers.org.uk/blog/i-want-go-home-what-to-say-to-someone-in-dementia-care) describit eam sensum commoditatis et securitatis esse, aut domum praeteritam, non ipsam aedificationem. Dementia cubicula familiaria aliena facere potest, et homo sentire potest se in tempore vitae priore esse, cum domus infantiae aut locus ubi liberos educavit erat.
+Plerumque “domus” sensus est magis quam locus. Alzheimer's Society describit eam sensum commoditatis et securitatis esse, aut domum praeteritam, non ipsam aedificationem. Dementia cubicula familiaria aliena facere potest, et homo sentire potest se in tempore vitae priore esse, cum domus infantiae aut locus ubi liberos educavit erat.
 
 Verba etiam signum esse possunt, aliquid nunc non recte esse: famem, sitim, latrinam, dolorem, lassitudinem, calorem aut frigus, solitudinem, timorem aut strepitu oppressionem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) inter causas inquietudinis dolorem, strepitum, solitudinem, mutationes consuetudinis et medicamenta enumerat.
 
@@ -91,7 +91,7 @@ Tonus benignus et manus in brachio, si tactum amat, plus dicere possunt quam ver
 
 ## Quid vitare debeo?
 
-- **Altercari aut explicare.** “Hic iam habitas” aut “Hanc domum per quadraginta annos habuisti” petunt ut accipiat quod dementia accipere difficile facit, et sentiri potest ut dictum falsum.
+- **Altercari aut explicare.** “Hic iam habitas” aut “Hanc domum per 40 annos habuisti” petunt ut accipiat quod dementia accipere difficile facit, et sentiri potest ut dictum falsum.
 - **Interrogare.** “Non meministi?” aut “Quod est nomen viae?” pressionem addit.
 - **Ostium iracunde obstruere.** Si exire vult, tranquillus mane et cum eo ambula. Breve ambulatio una saepe impetum sedat.
 - **Festinare.** Da ei tempus loquendi de domo, antequam thema mutes.
@@ -102,7 +102,7 @@ Postquam sensum agnovisti, actio familiaris et tranquilla attentionem transferre
 
 1. **Imagines domus et familiae inspice.** Paginas verte et commenta (“Vide hortum illum”) potius quam quaerendo. In telephono aut tabulato, [Photo pairs](/games/photo-pairs/) imagines familiares tuas in ludum mollem paris convertit, et imagines in tuo apparatu manent.
 2. **De domo loquere.** [Conversation cards](/games/conversation-cards/) sollicitationes apertas de domibus, culinis, vicinis et festis praebent, sine responsis rectis.
-3. **Musicam amatam ludas.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) musicam lenientem inter modos inquietudinem sedandi enumerat. Vide nostras [actiones musicales](/activities/music/).
+3. **Musicam amatam ludas.** National Institute on Aging musicam lenientem inter modos inquietudinem sedandi enumerat. Vide nostras [actiones musicales](/activities/music/).
 4. **Cibum aut potionem habe.** Fames et sitis inquietudinem imitari possunt. Potio calida aut cibus amatus etiam parvum ritum esse domi est.
 5. **Ambula aut sede extra.** Motus et lux diei, praesertim mane, adiuvant.
 6. **Officium familiare da.** Linteos plicare, cultros ordinare aut plantas rigare sensum gubernandae domus reddere possunt.
@@ -122,11 +122,11 @@ Si una idea non succedit, aliam postea tempta. Tranquille simul sedere etiam bon
 | Lassus aut nimis excitatus | Quiesce, lumen tempera, musicam mollem preme |
 | Vespere sero | Vide partem de sundowning infra |
 
-[Alzheimer's Society](https://www.alzheimers.org.uk/blog/i-want-go-home-what-to-say-to-someone-in-dementia-care) suadet ut breve diarium servetur, quando petitio fiat, ut ante prandium, post visitatores aut crepusculo. Ordines facilius efficiunt ut ante praeparemus.
+Alzheimer's Society suadet ut breve diarium servetur, quando petitio fiat, ut ante prandium, post visitatores aut crepusculo. Ordines facilius efficiunt ut ante praeparemus.
 
 ## Num licet mendacium album dicere?
 
-Haec disputatio vera est, et familiae benignae in diversis locis consistunt. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/difficult-questions-truth-telling) dicit nullam responsum unicum rectum esse: falsa aliquos suspiciosiores reddere possunt, itaque decide quid optimum sit ad hominis interesse et esto constans. In [Penn Memory Center](https://pennmemorycenter.org/telling-white-lies-may-justified-patient-alzheimers-disease/) co-director opinatur veritatem esse ut normam, et mendacium lene tantum licere, cum homo veritatem particularem tractare non potest, numquamque eius realitatem deridendam esse.
+Haec disputatio vera est, et familiae benignae in diversis locis consistunt. Alzheimer's Society dicit nullam responsum unicum rectum esse: falsa aliquos suspiciosiores reddere possunt, itaque decide quid optimum sit ad hominis interesse et esto constans. In Penn Memory Center co-director opinatur veritatem esse ut normam, et mendacium lene tantum licere, cum homo veritatem particularem tractare non potest, numquamque eius realitatem deridendam esse.
 
 Multi curatores medium iter efficiunt: primum comfortatio honesta et diversio (“Hac nocte hic manebimus, et ego tecum sum”), sine disputatione de eo ubi domus sit.
 
