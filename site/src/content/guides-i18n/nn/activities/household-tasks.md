@@ -153,6 +153,6 @@ Om personen seier nei, ikkje press. Sjå [kva du gjer når dei seier nei](/careg
 
 ## Lågterskel-tillegg for eit roligare augeblikk
 
-Når fysiske gjerder ikkje er mogleg, kan sortering og paring likevel gjerast sittande. [Sort Together](/games/sort-together/) let deg trykkje på bilete og legge dei i kjøkken- eller hagekurver, og [Bildepar](/games/picture-pairs/) er eit mildt parspel med store bilete og utan tidtakar. [Samtalekort](/games/conversation-cards/) har opne spørsmål om heim og familie som passar godt saman med ein kaffi når arbeidet er gjort.
+Når fysiske gjerder ikkje er mogleg, kan sortering og paring likevel gjerast sittande. [Sortere saman](/games/sort-together/) let deg trykkje på bilete og legge dei i kjøkken- eller hagekurver, og [Biletepar](/games/picture-pairs/) er eit mildt parspel med store bilete og utan tidtakar. [Samtalekort](/games/conversation-cards/) har opne spørsmål om heim og familie som passar godt saman med ein kaffi når arbeidet er gjort.
 
 For hjelp med å passe gjerder inn i dagen, sjå vår guide til ein [rolig dagsrytme](/activities/daily-routine/). For fleire idear etter stadium, sjå [aktivitetar på middels stadium](/activities/middle-stage/).

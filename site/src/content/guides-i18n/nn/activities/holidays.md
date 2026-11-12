@@ -1,7 +1,7 @@
 ---
 title: "Høgtidsaktivitetar for ein som har demens, frå Thanksgiving og utover"
 seoTitle: "Høgtids- og Thanksgiving-idear ved demens"
-description: "Enkle høgtidsaktivitetar for ein som har demens: kjøkkenoppgåver, pynting, musikk, bilete og videosamtalar, pluss korleis du planlegg ei roligare Thanksgiving- eller juleforteljing."
+description: "Enkle høgtidsaktivitetar for ein med demens: kjøkkenoppgåver, pynting, musikk, bilete og videosamtalar, pluss korleis du planlegg ei roligare feiring."
 section: activities
 order: 21
 updated: 2026-10-30
@@ -63,7 +63,7 @@ Vel oppgåver og tidsfordriv som passar det personen kan gjere i dag. Å vere me
 6. **Lag eit enkelt handarbeid.** Papirkjeder, eit bladcollage eller eit høgtidskort med frimerke fungerer godt. Vår [guide til kunst og handarbeid](/activities/arts-and-crafts/) har fleire idear.
 7. **Syng og lytt.** Kjende julesongar og høgtidssongar er enkle å vere med på, også for ein som snakkar mindre no. Sjå vår [musikkguide](/activities/music/) for å lage ei spellista.
 8. **Sjå på gamle høgtidsbilete.** Ta fram album frå tidlegare feiringar, og inviter til historier («Fortel meg om dette bordet») heller enn å spørje kven som er kven. Vår [guide til minneaktivitetar](/activities/reminiscence/) forklarar korleis.
-9. **Spel eit mildt gruppespel.** [Bildebingo](/games/picture-bingo/) kan skrivast ut på nokre minutt og passar alle aldrar, og [samtalekort](/games/conversation-cards/) gir alle noko å snakke om.
+9. **Spel eit mildt gruppespel.** [Biletebingo](/games/picture-bingo/) kan skrivast ut på nokre minutt og passar alle aldrar, og [samtalekort](/games/conversation-cards/) gir alle noko å snakke om.
 10. **Fargelegg saman.** Enkle [fargeleggingsark](/games/coloring/) kan skrivast ut, slik at born og besteforeldre kan dele dei ved bordet.
 11. **Sjå ein kjend høgtidsfilm.** Ein kjend film er avslappande, og det er greitt å berre sjå ein del av han.
 12. **Ta ein kort tur for å sjå lys.** Ein roleg tur forbi pynta hus kan vere lettare enn eit trongt arrangement.
@@ -96,7 +96,7 @@ Bur personen på eit minnebustad, sjekk besøksreglane og be personalet hjelpe t
 
 Enkle, trygge gåver som dei kan glede seg over no, fungerer best: ein yndlingssnack, eit mjukt teppe eller ein kardigan, kjend musikk, ein kalender med stor skrift, eller eit fotoalbum av familien. Alzheimer's Association rår til å unngå farlege verktøy, kompliserte elektroniske ting og krevjande brettspel.
 
-Å gi kan vere like viktig som å få. Å pakke kakene personen var med på å bake, eller la dei pakke inn ei gåve du har kjøpt, gjer at dei tek del i tida. Eit familiebiletspel er ein annan idé: [bildepar](/games/photo-pairs/) gjer nokre utvalde bilete til eit mildt parspel i nettlesaren.
+Å gi kan vere like viktig som å få. Å pakke kakene personen var med på å bake, eller la dei pakke inn ei gåve du har kjøpt, gjer at dei tek del i tida. Eit familiebiletspel er ein annan idé: [biletepar](/games/photo-pairs/) gjer nokre utvalde bilete til eit mildt parspel i nettlesaren.
 
 ## Ta vare på deg sjølv òg
 

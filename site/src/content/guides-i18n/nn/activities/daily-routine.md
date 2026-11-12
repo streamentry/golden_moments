@@ -57,19 +57,19 @@ Tidene er berre døme. Flytt heile dagen tidlegare eller seinare for å passe pe
 
 | Tid | Kva skjer | Idear | På ein tyngre dag |
 | --- | --- | --- | --- |
-| kl. 8.00 | Stå opp, vask, kle på seg | Same rekkjefølgje kvar dag; legg fram klede i den rekkjefølgja dei skal takast på | Hald stellet enkelt; ei fersk skjorte er nok |
-| kl. 8.45 | Frukost | Kaffi og avisa lest høgt, eller radioen | Et saman i stillheit, ingen press om å snakke |
-| kl. 9.30 | Hovudaktivitet | Brette tøy, bake, stelle hagen, ein kort tur ut eller ei gåtur | Ei kortare utgåve, eller la personen sjå på at du gjer det |
-| kl. 10.30 | Stille tid | Musikk, eit fotoalbum, eller å sitje ved eit vindu | Kvile i ein favorittstol |
-| kl. 11.00 | Hjelp til lunsj | Vaske grønsaker, dekke bordet | Du lagar mat; personen held deg med selskap |
-| kl. 12.00 | Lunsj og rydding | Tørke bordet, tørke nokre få kopp og fat | Hopp over husarbeidet |
-| kl. 13.00 | Kort kvil | Føtene opp, mjuk musikk | Det same |
-| kl. 14.00 | Ute eller aktiv | Gåtur, tid på verandaen, vatne plantar, kaste ein ballong | Sitje ved eit solrikt vindu |
-| kl. 15.00 | Sosialt eller kreativt | Eit besøk, ein telefonsamtale, [bildepar](/games/picture-pairs/), fargelegging, kortspel | Ein drikke og ein snack saman |
-| kl. 16.30 | Roleg tid | Gardinane att, lys på, ei roleg oppgåve som å brette vaskeklutar | Kjend musikk, lite støy |
-| kl. 17.30 | Middag | Hjelpe til med å røre eller dekke bordet | Enkel, kjend mat |
-| kl. 18.30 | Kveld saman | Minnast over dessert, kortspel, eit yndlingsprogram, ein handmassasje | Roleg selskap |
-| kl. 20.00 | Leggerutine | Bad eller vask, pyjamas, mjuk musikk, dempa lys | Kort ned alt; komfort først |
+| 8:00 a.m. | Stå opp, vask, kle på seg | Same rekkjefølgje kvar dag; legg fram klede i den rekkjefølgja dei skal takast på | Hald stellet enkelt; ei fersk skjorte er nok |
+| 8:45 a.m. | Frukost | Kaffi og avisa lest høgt, eller radioen | Et saman i stillheit, ingen press om å snakke |
+| 9:30 a.m. | Hovudaktivitet | Brette tøy, bake, stelle hagen, ein kort tur ut eller ei gåtur | Ei kortare utgåve, eller la personen sjå på at du gjer det |
+| 10:30 a.m. | Stille tid | Musikk, eit fotoalbum, eller å sitje ved eit vindu | Kvile i ein favorittstol |
+| 11:00 a.m. | Hjelp til lunsj | Vaske grønsaker, dekke bordet | Du lagar mat; personen held deg med selskap |
+| 12:00 p.m. | Lunsj og rydding | Tørke bordet, tørke nokre få kopp og fat | Hopp over husarbeidet |
+| 1:00 p.m. | Kort kvil | Føtene opp, mjuk musikk | Det same |
+| 2:00 p.m. | Ute eller aktiv | Gåtur, tid på verandaen, vatne plantar, kaste ein ballong | Sitje ved eit solrikt vindu |
+| 3:00 p.m. | Sosialt eller kreativt | Eit besøk, ein telefonsamtale, [biletepar](/games/picture-pairs/), fargelegging, kortspel | Ein drikke og ein snack saman |
+| 4:30 p.m. | Roleg tid | Gardinane att, lys på, ei roleg oppgåve som å brette vaskeklutar | Kjend musikk, lite støy |
+| 5:30 p.m. | Middag | Hjelpe til med å røre eller dekke bordet | Enkel, kjend mat |
+| 6:30 p.m. | Kveld saman | Minnast over dessert, kortspel, eit yndlingsprogram, ein handmassasje | Roleg selskap |
+| 8:00 p.m. | Leggerutine | Bad eller vask, pyjamas, mjuk musikk, dempa lys | Kort ned alt; komfort først |
 
 Dette dømet følgjer forma av Alzheimerforeininga sin eigen dømeplan for tidleg og middels stadium, som går frå personleg stell og frukost gjennom husgjerder, turar, musikk, kvile og besøk til middag, minne og klargjering for seng.
 
@@ -78,7 +78,7 @@ Dette dømet følgjer forma av Alzheimerforeininga sin eigen dømeplan for tidle
 Ta utgangspunkt i korleis personen alltid har levd, ikkje i eit skjema. Alzheimerforeininga foreslår å tenkje over desse tinga før du planlegg:
 
 - **Kva personen likar, ikkje likar, er gode i og er interessert i.**
-- **Korleis personen brukte dagane sine tidlegare.** Ein tidleg oppstått person som alltid gjekk tur med hunden, bør framleis gå tidleg. Ein nattugle vil kanskje aldri like ein start kl. 8.00.
+- **Korleis personen brukte dagane sine tidlegare.** Ein tidleg oppstått person som alltid gjekk tur med hunden, bør framleis gå tidleg. Ein nattugle vil kanskje aldri like ein start 8:00.
 - **Personens beste tid på dagen.** Legg bading, turar og hovudaktiviteten dit.
 - **Nok tid** til måltid, vask og påkledning, slik at ingenting blir hasta.
 - **Faste tider for å stå opp og gå til seng.**
@@ -115,6 +115,6 @@ Hald måltid, kvile og leggetid stabile, og skift på aktivitetane midt i. [NIA]
 
 ## Når dagen går skeivt
 
-Somme dagar vil ikkje følgje nokon plan. Sjukdom, ei dårleg natt, eit besøk frå legen eller eit skifte i vêret kan kaste alt om ende. Legg planen til side, behald det grunnleggjande (mat, drikke, kvile, komfort), og prøv igjen i morgon. Om personen nektar noko, sjå [når dei seier nei](/caregiving/when-they-say-no/). Ei stund med roleg pusting saman, som [roleg pusting](/games/calm-breathing/), kan hjelpe dykk begge å starte på nytt.
+Somme dagar vil ikkje følgje nokon plan. Sjukdom, ei dårleg natt, eit besøk frå legen eller eit skifte i vêret kan kaste alt om ende. Legg planen til side, behald det grunnleggjande (mat, drikke, kvile, komfort), og prøv igjen i morgon. Om personen nektar noko, sjå [når dei seier nei](/caregiving/when-they-say-no/). Ei stund med roleg pust saman, som [roleg pust](/games/calm-breathing/), kan hjelpe dykk begge å starte på nytt.
 
 Din eigen rytme betyr òg noko. Legg inn pausar for deg sjølv, og be familie eller ei avlastningsteneste dekke fast fritid for deg. Sjå [eigenomsorg for pårørande](/caregiving/caregiver-self-care/).

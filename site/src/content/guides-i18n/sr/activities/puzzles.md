@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Слагалице за особе са деменцијом: сложанке, слагалице речи и лаке онлајн слагалице"
+seoTitle: "Слагалице за деменцију: сложанке и слагалице речи"
+description: "Како изабрати сложанке, слагалице речи и онлајн слагалице за особу са деменцијом: величина делова, слике, велика слова и заједнички рад."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Најбоља слагалица за особу са деменцијом је она коју може да доврши уз мало
+  помоћи и да ужива док то ради. Изаберите сложанке са мање, већих делова и
+  јасном одраслом сликом, држите слику са кутије на видику и прво сложите ивичне
+  делове. Слагалице речи и укрштене речи најбоље функционишу великим словима. Лаке
+  онлајн слагалице са четири дела погодне су за средњу фазу. Станите док је
+  пријатно.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Бирајте према томе како иде, а не према ознаци фазе: ако слагалица делује као посао, пробајте једну са мање делова."
+  - "Велики, чврсти делови и јасна слика са различитим областима боје лакши су од ситних делова и великих неба."
+  - "Слике за одрасле су важне. Баште, кухиње, аутомобили и животиње, а не цртани филмови."
+  - "Заједнички рад је поента. Предајте делове, сложите ивице, држите поклопац кутије на видику."
+  - "Слагалице речи великим словима и лаке онлајн слагалице са 4 или 9 делова бесплатне су на овом сајту."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Колико делова слагалице је најбоље за особу са деменцијом?"
+    a: "Нема једног правог броја. Особа која је слагала слагалице од 1.000 делова можда ће и даље уживати у неколико стотина на почетку, а неком другом најбоље иде десетак већих делова. Ако слагалица делује као посао или изазива фрустрацију, пређите на мање делова. Наша онлајн Слагалица са сликом има 4 или 9 делова."
+  - q: "Да ли су сложанке добре за особе са деменцијом?"
+    a: "Многе уживају у њима, нарочито ако су их волели и раније. Слагалица даје рукама нешто да раде, јасан циљ и слику о којој можете да причате. Ниједна слагалица није показала да лечи или успорава деменцију, па их бирајте због уживања и друштва."
+  - q: "Шта да радим кад особа више не може да сложи сложанку?"
+    a: "Смањите је и више урадите сами: предајте по један део или оставите само последњих неколико делова њој. Пробајте онлајн слагалицу са четири дела, слагање делова по боји или једноставно гледање готове слике заједно."
+  - q: "Да ли су укрштене речи и слагалице речи погодне за деменцију?"
+    a: "Могу бити у раној фази, ако су великим словима. Слагалице речи са речима само хоризонтално и вертикално лакше су од оних са дијагоналним или речима уназад. Прочитајте питања или списак речи наглас и радите заједно."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Сложанка раширена на трпезаријском столу једна је од најлакших активности за дељење. Можете сести заједно без потребе да причате, слика вам даје нешто о чему можете да разговарате, а стављање последњег дела доноси пријатан осећај. Слагалице ипак морају да се мењају како се деменција мења. Слагалица која је превише тешка може претворити миран поподневни час у фрустрирајући. Ова страница описује како да изаберете и поставите сложанке, слагалице речи и лаке онлајн слагалице и шта да радите кад постану тешке.
 
-## Are puzzles good for people with dementia?
+## Да ли су слагалице добре за особе са деменцијом?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Многи уживају у њима, нарочито они који су слагали слагалице раније. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) наводи слагалице речи, карташке игре и игре на табли међу активностима за рану фазу, а [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) помиње онлајн игре и слагалице на таблетима као један од начина да особа остане укључена.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Слагалице нису лек. Ниједна слагалица није показала да успорава или зауставља деменцију; наш водич о [играма за мозак и деменцији](/brain-health/brain-games/) објашњава истраживања. Разлог да радите слагалицу јесте то што може бити пријатан, занимљив сат заједно. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) то сажима: фокусирајте се на уживање, а не на постигнуће.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Како изабрати сложанку за особу са деменцијом?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Водите се према томе шта особа воли и како је прошла последња слагалица, а не према ознаци фазе.
 
-### Number of pieces
+### Број делова
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Нема тачног броја. Доживотни љубитељ слагалица можда ће и даље уживати у неколико стотина делова на почетку, док је некоме другом најпријатније са десетак. Практично правило: ако је последња слагалица деловала као посао, изаберите ону са отприлике половином делова. Ако је брзо завршена и они су желели још, мало повећајте број.
 
-### Piece size and feel
+### Величина и осећај делова
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Већи делови** лакше се виде, подижу и окрећу.
+- **Дебели, чврсти делови** остају на месту и издрже пад.
+- **Мат површина** смањује сјај од лампи и прозора.
+- **Избегавајте ситне делове** ако особа може да стави ствари у уста, што се може десити касније у деменцији.
 
-### The picture
+### Слика
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Одрасли мотиви.** Баште, кухиње, стари аутомобили, фармске животиње, приморски град, омиљени спорт. Не цртани филмови или било шта што личи на дечју играчку.
+- **Јасне области боје.** Црвени штал, плави чамац и зелено поље лакши су од неба које заузима пола слагалице.
+- **Познато и лично.** Слика места где су живели или хобија који су волели даје вам пуно о чему да причате. Неке штампарије могу породичну фотографију претворити у сложанку.
 
-## How do you do a puzzle together?
+## Како заједно радити слагалицу?
 
-Set it up so the person can get straight to the enjoyable part.
+Поставите је тако да особа може одмах да пређе на пријатан део.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Изаберите добро место.** Добро светло, столица са наслонима за руке и сто или подлога где слагалица може да остане.
+2. **Подуприте поклопац кутије** тамо где можете обоје да га видите.
+3. **Окрените делове лицем нагоре** пре почетка.
+4. **Сложите ивице сами**, или прво урадите оквир, а средину оставите њој.
+5. **Сложите делове по боји** у неколико плитких тацни или тањира.
+6. **Предајте по један део** ако је гомила превелика. „Мислим да је овај део штала.“
+7. **Причајте о слици,** а не о напретку. „То личи на чамац мог оца.“
+8. **Оставите је.** Вратите се на њу током неколико дана. Нема журбе.
+9. **Станите на лепом месту,** након што део уђе на своје место, док је још пријатно.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) саветује да помогнете особи да почне, пазите на фрустрацију и пустите је да само гледа ако јој је то пријатније. Гледање како ви стављате делове и показивање где би један могао да иде и даље је учешће.
 
-## Easy online puzzles
+## Лаке онлајн слагалице
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Слагалица на таблету има неке стварне предности: нема изгубљених делова, велике слике које испуњавају екран и не треба чистити сто.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Наша бесплатна [Слагалица са сликом](/games/picture-puzzle/) исецкава слику на 4 или 9 делова. Додирните два дела да их замените док слика не буде цела. Потпуна слика остаје на екрану као водич, нема тајмера и можете стати у било ком тренутку. Четири дела одговарају многима у средњој фази уз некога поред себе.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+За још једноставнију игру са сликама пробајте [Пронађи исту](/games/find-the-same/), где додирујете слику која се поклапа с оном на врху, или [Разврставање заједно](/games/sort-together/), где слике иду у корпе као кухиња или башта.
 
-## Word puzzles: word searches and crosswords
+## Слагалице речи и укрштене речи
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Слагалице речи одговарају људима који су их увек волели, обично раније у деменцији.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Слагалица речи великим словима.** Наша бесплатна [Слагалица речи](/games/word-search/) користи велика слова и само неколико речи, које иду хоризонтално и вертикално, никад дијагонално или уназад. Играјте је на екрану или је одштампајте.
+- **Прочитајте списак наглас.** Једна особа чита реч, друга је тражи. Довољно је и заокружити само први слово.
+- **Укрштене речи великим словима** из књига слагалица могу функционисати на почетку. Читајте питања наглас, делите оловку и попуњавајте одговоре заједно. Лаке, тематске укрштене речи боље су од шифрованих.
+- **Причајте о речима.** „Башта“ може довести до десет минута разговора о парадајзу.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+За још папирних активности и како их штампати да буду лаке за виђење и држање, видите [бесплатне активности за штампање за деменцију](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Који слагалице одговарају свакој фази?
 
-Stages overlap, and good and hard days are normal.
+Фазе се преклапају, а добри и тешки дани су нормални.
 
-| Stage | Puzzles that often fit | Your role |
+| Фаза | Слагалице које често одговарају | Ваша улога |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Рана | Познате сложанке са мање делова него раније, укрштене речи и слагалице речи великим словима, онлајн слагалице са 9 делова | Партнер: нека бира, помозите кад затраже |
+| Средња | Сложанке са десетак већих делова, онлајн слагалице са 4 дела, слагалице речи прочитане наглас заједно | Поставите, сложите ивице, предајте по један део |
+| Касна | Гледање готове слике заједно, Пронађи исту са две слике, руковање са неколико великих делова | Донесите им је; ваше друштво је активност |
 
-## When should you make a puzzle easier, or stop?
+## Кад да поједноставите слагалицу, а кад да станете?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Пазите на уздисање, одгуравање делова, поновљено „не могу“ или забринуте погледе. То су знаци да нешто треба променити, а не да наставите да гурате.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Смањите је.** Мање делова или оставите само последњих неколико за њих.
+- **Више урадите сами** и позовите их да помогну у лакшим деловима.
+- **Пређите на нешто блиско:** слагање делова по боји, онлајн слагалица са 4 дела или [бојење](/games/coloring/).
+- **Станите.** Одложите је и попијте шољу чаја. Можете се вратити другог дана, или уопште не.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ако слагалице почну да делују као подсетник на оно што је тешко, у реду је да их пустите. Има много других начина да проведете добро време заједно; наш списак [101 идеја за активности](/activities/ideas/) је добро место за тражење.

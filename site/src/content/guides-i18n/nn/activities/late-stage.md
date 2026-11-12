@@ -73,7 +73,7 @@ Enkle sanseaktivitetar og roleg selskap hjelper mest i seint stadium. Alzheimer'
 12. **Beveg deg mildt til musikk.** Vift eit lett skjerf saman, eller beveg hendene i takt med ein song. For strekk og leddrørsle, be ein fysioterapeut eller ein sjukepleiar vise deg trygge måtar først.
 13. **Lag fri kunst.** Spreie ikkje-giftig maling på stort papir med ein svamp eller ei hand, med hjelp av di hand. Det finst ikkje noko rett resultat.
 14. **Ønskje dyrebesøk velkomne.** Eit roleg kjæledyr på senga eller i fanget, om personen likte dyr og omgjevnadane tillet det.
-15. **Pust roleg saman.** Sit nær og pust langsamt og høyrbart. [Roleg pusting](/games/calm-breathing/) kan setje takten for de begge, og du startar og stoppar han.
+15. **Pust roleg saman.** Sit nær og pust langsamt og høyrbart. [Roleg pust](/games/calm-breathing/) kan setje takten for de begge, og du startar og stoppar han.
 16. **Vere der.** Sit i nærleiken, nynn, strikk eller les stille. Å vere til stades er nok.
 
 ## Korleis deler du ein aktivitet på dette stadiet

@@ -1,7 +1,7 @@
 ---
 title: "Aktivitetar for folk med demens: 101 enkle idear"
 seoTitle: "Idear til demensaktivitetar: 101 enkle aktivitetar"
-description: "101 enkle aktivitetar for vaksne som lever med demens, frå å brette handklede til musikk og bilete, med råd om korleis du tilpassar kvar enkelt når det blir vanskelegare."
+description: "101 enkle, vaksne aktivitetar for folk med demens, frå å brette handklede til musikk og bilete, med råd om å tilpasse kvar enkelt når det blir tyngre."
 section: activities
 order: 1
 updated: 2026-10-25
@@ -127,7 +127,7 @@ Nyt fortida saman utan å teste den. Hopp over «Hugsar du...?» og «Kven er de
 23. **Lag ein minneboks.** Ein skoeske med ting frå livet deira, som eit arbeidsmerke eller eit oppskriftskort. Ta ut éin gjenstand om gongen.
 24. **Start ei livshistorie-bok.** Nokre få bilete per side med store bildetekstar. Det hjelper nye hjelparar å kjenne personen.
 25. **Bruk samtalekort.** [Samtalekort](/games/conversation-cards/) parar eit bilete med eit opent spørsmål.
-26. **Lag eit familiebiletspel.** [Bildepar](/games/photo-pairs/) gjer dine eigne bilete til eit paringsspel.
+26. **Lag eit familiebiletspel.** [Biletepar](/games/photo-pairs/) gjer dine eigne bilete til eit paringsspel.
 27. **Sjå heimefilmar eller gamalt fjernsyn.** Kommenter saman heller enn å stille spørsmål.
 28. **Hald i gjenstandar frå arbeidslivet.** Ein skiftenøkkel, eit stetoskop, ein rekneskapsbok. Hendene leier ofte forteljinga.
 29. **Lag ein rett frå barndommen.** Dei kan røre, smake eller berre sitje på kjøkkenet saman med deg.
@@ -178,15 +178,15 @@ Berøring, lukt, smak, lyd og syn betyr meir etter kvart som demensen utviklar s
 
 Spel fungerer når det ikkje er tidtakar, poeng eller press. Om eitt begynner å kjennast ut som ein prøve, legg det bort. Sjå [val av appar og spel](/caregiving/choosing-apps-and-games/) og [hjernespel](/brain-health/brain-games/).
 
-57. **Pare bilete.** [Bildepar](/games/picture-pairs/) lèt biletene vere opp, så det handlar om å leggje merke til, ikkje å hugse.
+57. **Pare bilete.** [Biletepar](/games/picture-pairs/) lèt biletene vere opp, så det handlar om å leggje merke til, ikkje å hugse.
 58. **Finn same bilete.** [Finn det same](/games/find-the-same/) gir to til fire val. Snakk om kvart bilete.
-59. **Sortere i kurver.** [Sort together](/games/sort-together/) er som å sortere sokkar på skjerm.
-60. **Legg eit puslespel med store brikker.** Vaksne motiv, eit lett tal brikker. [Bildepuslespel](/games/picture-puzzle/) held heile biletet synleg. Meir i [puslespel ved demens](/activities/puzzles/).
+59. **Sortere i kurver.** [Sortere saman](/games/sort-together/) er som å sortere sokkar på skjerm.
+60. **Legg eit puslespel med store brikker.** Vaksne motiv, eit lett tal brikker. [Bileteputle](/games/picture-puzzle/) held heile biletet synleg. Meir i [puslespel ved demens](/activities/puzzles/).
 61. **Spel eit gamalt kortspel.** Det dei spela i mange år. Seinare er det eit spel i seg sjølv å sortere kortstokken etter farge.
 62. **Spel domino.** Pare endane. Seinare er det greitt berre å leggje brikkene på rad.
 63. **Prøv eit ordsøk med stor skrift.** Vårt [ordsøk](/games/word-search/) har berre ord vassrett og loddrett, og kan skrivast ut.
-64. **Fullfør kjende ordtak.** [Finish the saying](/games/finish-the-saying/) lèt deg vise slutten når som helst.
-65. **Spel bildebingo.** [Bildebingo](/games/picture-bingo/) passar familiar og grupper. Hjelp gjerne til med å krysse av.
+64. **Fullfør kjende ordtak.** [Fullfør ordtaket](/games/finish-the-saying/) lèt deg vise slutten når som helst.
+65. **Spel biletebingo.** [Biletebingo](/games/picture-bingo/) passar familiar og grupper. Hjelp gjerne til med å krysse av.
 66. **Spel dam.** Hald reglane laust. Å flytte brikkene medan de snakkar tel.
 
 ## Rørsle
@@ -200,7 +200,7 @@ NIA foreslår turgåing, sykkel på stad, strekkband, å kaste ein myk ball elle
 71. **Sykle på stad.** Nokre få lette minutt, med deg i nærleiken.
 72. **Dans med skjerf.** Vift lette skjerf til musikk, sitjande eller stående.
 73. **Gå med eit føremål.** For å poste eit brev eller kjøpe ein kaffi. Ein grunn til å gå kjennest naturleg.
-74. **Del ein pustepause.** Ro ned saman med [roleg pusting](/games/calm-breathing/).
+74. **Del ein pustepause.** Ro ned saman med [roleg pust](/games/calm-breathing/).
 
 ## Sosiale aktivitetar
 

@@ -79,7 +79,7 @@ Det som ofte endrar seg, er omgivnaden, ikkje aktiviteten. [Alzheimer's Associat
 
 - **Spel kort- og brettspel.** Kjende spel er lettast. Spel i lag, så ingen står i sentrum, og før poeng laust eller ikkje i det heile.
 - **Prøv eit ordsøk med stor skrift.** Vårt [ordsøk](/games/word-search/) kan spelast på skjerm eller skrivast ut for ei roleg stund.
-- **Legg puslespel.** Vel eit talet brikker som kjennest avslappande, ikkje utfordrande. [Bildepuslespel](/games/picture-puzzle/) er ei kort utgåve på skjerm, og vår guide til [puslespel ved demens](/activities/puzzles/) hjelper deg med å velje.
+- **Legg puslespel.** Vel eit talet brikker som kjennest avslappande, ikkje utfordrande. [Bileteputle](/games/picture-puzzle/) er ei kort utgåve på skjerm, og vår guide til [puslespel ved demens](/activities/puzzles/) hjelper deg med å velje.
 - **Vær med på quiz for moro skuld.** Somme elskar eit lagquiz. Om det byrjar å kjennast ut som ein prøve, vel noko anna, eller prøv våre [enkle quizspørsmål](/activities/trivia/), som har svaralternativ og inga poengsum.
 
 Spel er her for gleda. Ingen spel har vist seg å behandle eller bremse demens; les meir i [hjernetrening: kva forskinga seier](/brain-health/brain-games/).
@@ -89,7 +89,7 @@ Spel er her for gleda. Ingen spel har vist seg å behandle eller bremse demens; 
 - **Før dagbok.** Alzheimer's Association foreslår dagbokskriving som ein måte å arbeide seg gjennom kjensler etter ein diagnose. Nokre få linjer om dagen er nok.
 - **Led ei livshistorie-bok.** Tidleg stadium er ein god tid for personen å velje sine eigne bilete og skrive eller diktere historiene bak dei. Sjå [minneaktivitetar](/activities/reminiscence/).
 - **Skriv brev.** Eit brev til eit barnebarn, ein gammal venn eller ein tidlegare kollega kan bety mykje for begge sider.
-- **Snakk om bilete.** [Bildepar](/games/photo-pairs/) gjer familiebilete til eit mildt parspel, og [samtalekort](/games/conversation-cards/) gir enkle utgangspunkt for ein prat.
+- **Snakk om bilete.** [Biletepar](/games/photo-pairs/) gjer familiebilete til eit mildt parspel, og [samtalekort](/games/conversation-cards/) gir enkle utgangspunkt for ein prat.
 
 ### Kom deg ut og rør deg
 
