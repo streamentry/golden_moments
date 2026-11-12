@@ -1,7 +1,7 @@
 ---
 title: "Pagpunta sa Ospital na may Dementia"
 seoTitle: "Pangangalaga sa Ospital para sa Taong may Dementia"
-description: "Maghanda para sa nakaplanong o biglaang pagpapaospital ng taong may dementia: ibahagi ang kagustuhan sa pag-aalaga, magdala ng pamilyar na gamit at pagkasunduan ang pag-uwi."
+description: "Maghanda sa pagpapaospital ng taong may dementia: ibahagi ang kagustuhan sa pag-aalaga, magdala ng pamilyar na gamit at pagkasunduan ang plano sa pag-uwi."
 section: caregiving
 order: 21
 updated: 2026-11-11

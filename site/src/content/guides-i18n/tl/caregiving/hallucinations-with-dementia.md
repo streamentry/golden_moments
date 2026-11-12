@@ -1,7 +1,7 @@
 ---
 title: "Kapag may Nakikita o Naririnig ang Taong may Dementia"
 seoTitle: "Guni-guni at Dementia: Mahinahong Hakbang para sa Tagapag-alaga"
-description: "Matutong tumugon nang mahinahon kapag may nakikita o naririnig ang taong may dementia, suriin ang paligid, at alamin kung kailan kailangan ang agarang tulong medikal."
+description: "Tumugon nang mahinahon kapag may nakikita o naririnig ang taong may dementia, suriin ang paligid, at alamin kung kailan kailangan ng agarang tulong medikal."
 section: caregiving
 order: 36
 updated: 2026-11-11

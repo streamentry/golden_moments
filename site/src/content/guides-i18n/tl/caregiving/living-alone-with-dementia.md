@@ -1,7 +1,7 @@
 ---
 title: "Pagsuporta sa Taong may Dementia na Nakatira Mag-isa"
 seoTitle: "Nakatira Mag-isa na may Dementia: Suporta para sa Pamilya"
-description: "Suportahan ang taong may dementia na nakatira mag-isa sa matatag na rutin, napagkasunduang check-in at praktikal na tulong, habang pinananatili ang kanyang kagustuhan."
+description: "Suportahan ang taong may dementia na nakatira mag-isa sa matatag na rutin, napagkasunduang check-in at praktikal na tulong, habang iginagalang ang kagustuhan niya."
 section: caregiving
 order: 12
 updated: 2026-11-11
