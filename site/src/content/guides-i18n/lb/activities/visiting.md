@@ -1,34 +1,35 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Een Persoun mat Demenz an der Memory-Care oder am Spidol besichen"
+seoTitle: "Eng Persoun mat Demenz besichen: wat maachen a mathuelen"
+description: "Wat Dir maache kënnt, wann Dir eng Persoun mat Demenz an der Memory-Care, engem Altersheem oder am Spidol besicht: mathuelen, Aktivitéiten, kuerz Besuch a gutt goen."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Wann Dir eng Persoun mat Demenz an der Memory-Care oder am Spidol besicht,
+  halt et einfach: sot Äre Numm, wann Dir ukomm, bréngt eppes fir ze deelen mat,
+  wéi Fotoen, Musek oder en Liiblingssnack, a maacht zesummen eng einfach
+  Saach. Méi kuerz, regelméisseg Besuch ginn dacks besser wéi selten, laang.
+  Plangt en roueg, gläich bleiwende Ofscheed, sou datt d'Goen fir Iech béid
+  méi einfach ass.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Begréisst d'Persoun mam Numm a sot, wien Dir sidd, sou datt si et net muss erausfannen: „Hallo Mamm, ech sinn d'Susan, Är Duechter.“"
+  - "Bréngt een oder zwee Saache fir ze deelen mat, wéi e Fotoalbum, Liiblingsmusek, eng weech Decken oder e Snack, deen d'Personal ugeholl huet."
+  - "Kuerz, regelméisseg Besuch ginn dacks besser wéi selten, laang. Är Präsenz zielt méi wéi dat, wat Dir sot."
+  - "Am Spidol gitt dem Personal eng Säit mat Informatiounen iwwer d'Persoun a sot dem Dokter direkt Bescheed, wann sech eppes plëtzlech veränneret."
+  - "Plangt Äre Ofscheed: sot am Viraus, wéi laang Dir bleift, benotzt all Kéier dee selwechte Ofscheed a gitt ouni laang ze zéieren."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Wat soll ech mathuelen, wann ech eng Persoun mat Demenz besichen?"
+    a: "Bréngt eppes mat, fir ze deelen, an net eppes, wou Dir driwwer musst schwätzen. En klenge Fotoalbum, eng Playlist mat hire Liiblingslidder, eng weech Decken, Handcrème, eng Zäitschrëft iwwer e fréiere Hobby oder en Snack, deen d'Personal ugeholl huet, funktionéiere gutt. An engem Altersheem kënne Familljefotoen an vertraut Saachen de Raum méi no un Doheem maachen."
+  - q: "Wéi laang soll ech bleiwen, wann ech eng Persoun mat Demenz besichen?"
+    a: "Et gëtt keng richteg Dauer. Vill Famillen fannen, datt kuerz, dacks Besuch besser funktionéiert wéi laang, selten, well d'Persoun séier midd ka ginn an sech vläicht net erënnert, wéi laang Dir bliwwen sidd. Oppassen op Zeeche vu Middegkeet a goe fort, wann de Besuch sech nach gutt ufillt."
+  - q: "Wat soen ech, wann si froen, ob si heem kënne goen?"
+    a: "Äntwert op d'Gefill, net op d'Wierder. „Ech wëll heem goen“ heescht dacks „Ech fille mech net wuel oder sécher.“ Probéiert „Erzielt mir vun Ärem Doheem“, kuckt zesummen Fotoen un oder bidd e Spadséiergank oder en Snack un. Argumentéieren oder erklären, firwat si net goe kënnen, mécht den Drock meeschtens nach gréisser."
+  - q: "Wat, wann si mech net méi erkennen?"
+    a: "Dat kann wéi, probéiert awer, si net ze korrigéieren oder „Weess Dir net, wien ech sinn?“ ze froen. Stellt Iech warm a einfach vir a geneisst d'Zäit zesummen. Vill Leit genéissen nach ëmmer Gesellschaft a fillen d'Wärme vun engem Besuch, och wann si net kënnen zouordnen, wien Dir sidd."
+  - q: "Wéi kann ech während engem Spidolsaufenthalt hëllefen?"
+    a: "Bleift bei der Persoun, wann Dir kënnt, hëlleft hir beim Iessen a Drénken a bréngt vertraut Saachen wéi Fotoen mat. Gitt dem Personal eng Lëscht mat hirem Alldag, dem bevorzugten Numm, Liiblingssaachen, Sachen, déi si net gär huet, a Zeeche vu Schmerz. Sot dem Dokter direkt Bescheed, wann d'Persoun op eemol méi schlecht oder anescht wierkt, well eng plëtzlech Verwirrung en medizinescht Problem uweise kann."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +54,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Eng Persoun, déi Dir gär hutt, an der Memory-Care, engem Altersheem oder am Spidol ze besichen, kann vill Gefiller weckrufen. Dir froot Iech vläicht, wat Dir sot, wat Dir mathuelt oder ob de Besuch iwwerhaapt eppes bréngt, wann si sech dran net erënnert. Et bréngt eppes. D'National Institute on Aging hält fest, datt Leit mat Alzheimer [oft Gesellschaft genéissen](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease), och wann si net méi wëssen, wien de Besuch ass. Dës Säit gëtt praktesch Schrëtt fir virum, während an nom Besuch, dertëscht spezifesch Tipps fir Spidolsaufenthalter.
 
-## How do I get ready for a visit?
+## Wéi bereede ech mech op e Besuch vir?
 
-A little planning makes the visit easier for both of you.
+E bësse Planung mécht de Besuch fir Iech béid méi einfach.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Wielt eng gutt Zäit.** Dementia Australia rät, am Moment ze besichen, wou d'Persoun normalerweis am waachsten ass, dat ass bei villen Leit de Moien oder ëm Mëttes. D'Family Caregiver Alliance rät, de Plang vun der Institutioun ze kennen an [wärend der fräier Zäit statt wärend der Aktivitéitszäit](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/) ze besichen.
+- **Frot d'Personal.** Frot, wéi et der Persoun haut geet, a kuckt no Reegelen zu Iessen, Hausdéieren oder Ausflich.
+- **Packt eng kleng Besuchstasch.** Eng oder zwee Saache fir ze deelen, reicht (kuckt d'Lëscht hei ënnen).
+- **Plangt e puer Themen.** D'Persoun huet vläicht keng Neiegkeeten fir ze deelen, dofir bréngt Är eege mat: Familljennouvellen, d'Wieder, en Ballspill, eng lëschteg Geschicht.
+- **Setzt Iech Är eege Erwaardungen.** E puer Besuch ginn waarm a schwätzeg sinn. Anerer si roueg oder schwéier. Béid sinn normal.
 
-## What should I bring?
+## Wat soll ech mathuelen?
 
-Bring things to share, not things that test. Good choices include:
+Bréngt Saache mat, déi ee gemeinsam benotze kann, net Saachen, déi Prüfung sinn. Gutt Iddien sinn:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **En klenge Fotoalbum** mat grousse, kloeren Fotoen. Schreift op der Réck Notizen fir d'Personal.
+- **Eng Playlist** mat Liiblingslidder op engem Telefon, mat einfachen Kopfhierer oder engem klenge Lautsprecher.
+- **Eppes Weechs zum Hal,** wéi eng vertraut Decken, e Schal oder e Pullover.
+- **Handcrème** fir eng suanft Handmassage, wann d'Persoun Beréierung gär huet.
+- **Eng Zäitschrëft oder e Bilderbuch** iwwer en eelt Interessi, wéi Gäertnerei, Autoen, Vulen oder Kachen.
+- **En Liiblingssnack**, wann d'Personal seet, datt et sécher ass.
+- **Vertraut Saachen fir de Raum.** D'Family Caregiver Alliance schléit Blummen, Planzen, Familljebiller a Konscht oder e grousst Poster mat Familljefotoen aus der Vergaangenheet vir.
+- **E Tablet,** fir Familljefotoen ze kucken oder zesummen en ruegen Spill ze spillen.
 
-## What can we do together during a visit?
+## Wat kënne mir zesummen während engem Besuch maachen?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Eppes zesummen ze maachen hëlleft, de Gespréichsdrock erauszehuelen. Dementia Australia schléit vir, Fotoen ze kucken, eng einfach Bastelaarbecht, Setzlinge pflanzen, Musek, e Snack deelen oder e Spadséiergank duerch d'Ufeld. Nach e puer weider Iddien:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Kuckt Fotoen un.** Weist op dat, wat Dir gesitt: „Kuck dee Mutz.“ „Dee Strand gesäit schéi aus.“ Loosst d'Persoun féieren. Vermeit „Wien ass dat?“
+2. **Spillt Musek an sangt.** Vertraut Lidder kënnen d'Stëmmung heben an e gemeinsamt Moment schafen, och wann Schwätzen schwéier fält.
+3. **Maacht e kuerzen Spadséiergank.** D'Family Caregiver Alliance schléit vir, an der Ëmgéigend ze goen, besonnesch am Gaart, wann et ee gëtt. E Rollstull-Spadséiergank zielt och.
+4. **Gitt eng Handmassage.** E bëssen Handcrème an lues Streechen op den Hänn kann beruegend sinn.
+5. **Hëlleft beim Pfleegen.** Dementia Australia nennt Hoer bürsten, d'Neel molen oder hëllefen, an en Liiblingsoutfit ze kommen, wann d'Persoun dat gär huet.
+6. **Spillt en einfacht Spill.** D'Family Caregiver Alliance schléit Kaarten, Dominosteng oder dat vir, wat d'Persoun fréier gespillt huet. Op engem Tablet kann [Bildpaueren](/games/picture-pairs/) mat sichtbare Bilder a ouni Zäitmiessung gespillt ginn. [Fotopaueren](/games/photo-pairs/) mécht Fotoen, déi Dir auswielt, zu engem Zuurdnungsspill, an d'Fotoe bleiwen an Ärem Browser.
+7. **Kuckt eppes zesummen.** D'Family Caregiver Alliance schléit Komedien an al Filmer vir. Och wann d'Persoun d'Geschicht net ka verfollegen, kënnt Dir no beienee sëtzen an d'Zäit deelen.
+8. **Liest laut vir.** E kuerze Gedicht, eng Lieblingsstell oder en Bréif vun engem Familljemember.
+9. **Sëtzt just zesummen.** Hänn halen oder roueg zesumme sëtzen ass e richtege Besuch. D'Alzheimer's Association sot, datt et an Ordnung ass, net ze wëssen, wat ee soll soen, an datt Är Präsenz am meeschte zielt.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Gesprächskaarten](/games/conversation-cards/) kënnen hëllefen, wann Dir keng Themen méi hutt. All Kaart huet e Bild an eng oppe Fro.
 
-## How should I talk during the visit?
+## Wéi soll ech während dem Besuch schwätzen?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Stellt Iech all Kéier vir.** „Hallo Papp, ech sinn den Mark, Äre Jong.“ D'NIA rät Besucher, sech kuerz virzestellen, fir e Gespréich unzefänken.
+- **Kënnt vir vir a setzt Iech op d'Aen-Héicht.**
+- **Korrigéiert net an argumentéiert net.** D'NIA rät Besucher, d'Persoun net ze korrigéieren, wann si e Feeler mécht oder eppes vergiess.
+- **Gedëlleg sinn**, wann d'Wierder schwéier fale. Gitt vill Zäit.
+- **Reagéiert op d'Gefiller.** Wann d'Persoun traureg oder besuergt wierkt, erkennt dat un, ier Dir d'Thema wiesselt.
+- **Vermeit Quiz-Froen** wéi „Erkennt Dir mech?“ oder „Wat hutt Dir zu Mëtteg giess?“
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Kuckt eis [Tipps fir d'Kommunikatioun](/caregiving/communication-tips/) fir méi.
 
-## What do I do when they say "I want to go home"?
+## Wat maachen ech, wann si „Ech wëll heem goen“ soen?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Äntwert op d'Gefill hannert de Wierder (eise Guide iwwer [wann een ëmmer frëcht, ob een heem kann](/caregiving/asking-to-go-home/) geet méi wäit). D'Family Caregiver Alliance erklärt, datt „Ech wëll heem goen“ meeschtens heescht „Ech fille mech net wuel“, a schléit Äntwerte vir wéi „Erzielt mir vun Ärem Doheem“ oder „Wat ass Äre Liiblingsplaz doheem?“. Dementia Australia ergänzt, datt „Doheem“ eng Zäit oder e Plaz kann heeschen, wou d'Persoun sech sécher gefillt huet, zum Beispill als Kand.
 
-Try:
+Probéiert:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- d'Gefill unerkennen: „Et kléngt, wéi wann Dir Äre Heem vermësst.“
+- Trost ginn duerch Beréierung, wann dat gewollt ass
+- Fotoen kucken oder iwwer d'Familljenhaus schwätzen
+- e Spadséiergank, e Getrénks oder e Snack uebidden
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Vermeit ze argumentéieren oder ze erklären, firwat si net goe kënnen. Dat hellt selten a mécht dacks den Drock méi grouss.
 
-## How long should a visit be?
+## Wéi laang soll e Besuch sinn?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Méi kuerz a méi dacks funktionéiert dacks besser. D'Family Caregiver Alliance hält fest, datt d'Persoun sech meeschtens net erënnert, ob Dir fënnef Minutte oder fënnef Stonnen bliwwen sidd, a schléit vir, datt dräi kuerz Besuch an der Woch besser sinn wéi een laange. Dementia Australia seet, datt et keng richteg Unzuel u Besuch an och keng richteg Längt gëtt.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+An den éischte Wochen nodeem d'Persoun an d'Memory-Care gezu ass, schléit d'Family Caregiver Alliance vir, dacks ze besichen an sech dann lues an e regelméissegt Muster anzeleben. Frot d'Personal, wat si gesinn.
 
-## How do I leave without upsetting them?
+## Wéi goen ech fort, ouni si opzeregen?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+De Goen ass dacks de schwéierste Pert. Dementia Australia schléit vir:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Sot bei der Ukunft, wéi laang Dir bleift.** „Ech kann eng Stonn bleiwen, dann muss ech akafen.“
+- **Benotzt eng Aktivitéit als natierlechen Enn.** „Wann mir dëst Lidd fäerdeg hunn, gi mir.“
+- **Plangt de Goe mat engem Iessen oder enger Aktivitéit,** oder biet dem Personal un, et bei der Persoun ze hëllefen, sech a eppes anescht ze vertiwwen.
+- **Haalt den Ofscheed kuerz a jiddes Mol dee selwechten.** Zéiere, Entschëllegen oder „nach ëmmer e bësschen“ bleiwen kann kommend Ofscheeder méi schwéier maachen.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Nodeem Dir fort sidd, ass et normal, traureg ze sinn. Gitt Iech Rou. Wann d'Persoun opgereegt war, kann d'Personal se meeschtens séier nach der Kéier berouegen.
 
-## Visiting someone with dementia in the hospital
+## Eng Persoun mat Demenz am Spidol besichen
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+E Spidol ass lout, onbekannt a voller Friemer, wat fir eng Persoun mat Demenz ganz schwéier ka sinn. De Guide vun der NIA iwwer [eng Persoun mat Alzheimer an d'Spidol bréngen](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommandéiert:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Loosst iemand bei der Persoun bleiwen,** sou vill wéi méiglech: e Familljemember, en Vertrauensfrënd oder eng bezuelt Pflegekraaft.
+- **Gitt dem Personal e perséinleche Informatiounsblat** mat dem Alldag der Persoun, dem bevorzugten Numm, Liiblings- a Mëssfalls-Saachen, méigleche Ausléiser a nonverbale Zeeche vu Schmerz. Leet Kopien am Zëmmer an an de Stationsbüro.
+- **Hëlleft beim Iessen a Drénken.** Eeler Leit kënnen am Spidol ënnerernéiert ginn. Maacht d'Behälter op, hëlleft beim Iessen, iesst zesummen a bidd Gedrénks un.
+- **Bréngt tréischtend Saachen mat,** wéi Fotoen oder perséinlech Gäschter.
+- **Reduzéiert de Kaméidi.** Mécht den Fernseh aus a senkt d'Lautstäerkt vum Telefon an vum Intercom.
+- **Probéiert beruegend Rituelen,** wéi bequem Musek, Liesen, Bieden, Sangen oder alt Fotoen ukucken.
+- **Encouragéiert zum Beweegen,** sou vill wéi sécher ass, mat Zoustëmmung vum Personal.
+- **Sot dem Dokter direkt Bescheed, wann d'Persoun op eemol méi schlecht oder anescht wierkt.** D'NIA erklärt, datt eng plëtzlech schwéier Verwirrung, Delir genannt, duerch Problemer wéi Infektiounen, Fieber, Austrocknung oder Nebenwierkunge vu Medikamenter ausgeléist ka ginn, a medizinesch Opmierksamkeet brauch.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+E kuerze, roueg Besuch mat engem vertraute Gesiicht an engem Liiblingslidd kann den tréischtendsten Deel vun engem Spidolsdag sinn.
 
-## Bringing children on a visit
+## Kanner matbréngen
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Kanner kënne vill Wärme bréngen. Bereet se am Viraus mat einfache, éierlechen Wierder vir, haalt de Besuch kuerz a gitt hinnen eng Opgab, wéi een Zeechnung ze weisen oder e Foto weiderzeginn. D'NIA schléit vir, datt Kanner an Leit mat Alzheimer zesumme einfach Aktivitéite genéisse kënnen, wéi e Fotoalbum kucken oder Musek lauschteren. Dementia Australia rät, e klenge Beutel mat Leckereien oder roueg Saachen ze packen, fir jonk Kanner beschäftegt ze halen.
 
-## Take care of yourself too
+## Passt och op Iech selwer op
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+De Besuch kann midd a emotionell maachen, besonnesch wann d'Persoun sech vill veréiert huet. Et ass a Rou erlaabt, manchmol manner oft ze besichen, eng Frëndin fir Ënnerstëtzung matzebréngen oder en schwéieren Dag fréier ze verloossen. Fir Ideeën, wéi Dir fir Iech selwer suergt, kuckt [Selbstpflege fir Betreier](/caregiving/caregiver-self-care/). Wunnt Dir weit ewech, kuckt eise Guide iwwer [Telefons- a Videoopruff](/activities/phone-and-video-calls/).

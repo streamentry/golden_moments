@@ -142,7 +142,7 @@ Alia consilia: rogare ut aliquis cum homine uno die per hebdomadam sedeat, eum i
 
 ## Quid si mihi aliquid accidit?
 
-Nunc consilium subsidiarium simplex fac. NIA suadet ut cum familia aut amicis proximis decernas quis subsiliat, et ut libellum servet cum numeris urgentiae, medicamentis, consiliis de moribus quae prosunt et actionibus favoritis. Alzheimer's Association etiam suadet ut contactus medicos hominis et indicem medicamentorum recentem facile invenibiles servetur.
+Nunc consilium subsidiarium simplex fac. NIA suadet ut cum familia aut amicis proximis decernas quis succurrat, et ut libellum servet cum numeris urgentiae, medicamentis, consiliis de moribus quae prosunt et actionibus favoritis. Alzheimer's Association etiam suadet ut contactus medicos hominis et indicem medicamentorum recentem facile invenibiles servetur.
 
 ## Quando auxilium professionale aut urgens petere debeo?
 
