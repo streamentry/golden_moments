@@ -60,7 +60,7 @@ Vazifani toʻxtating, orqaga chekining va qisqa, xotirjam jumla ayting. [Alzheim
 
 ## Xulqqa nima sabab boʻlayotgan boʻlishi mumkin?
 
-Bir nechta omil boʻlishi mumkin, va oila aʼzosi sababni tashxis qila olmaydi. [Alzheimer assotsiatsiyasi](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) jismoniy noqulaylik, atrof-muhit bosimi va muloqot muammolarini mumkin bo'lgan sabablar qatorida sanaydi.
+Bir nechta omil boʻlishi mumkin, va oila aʼzosi sababni tashxis qila olmaydi. Alzheimer assotsiatsiyasi jismoniy noqulaylik, atrof-muhit bosimi va muloqot muammolarini mumkin bo'lgan sabablar qatorida sanaydi.
 
 Oʻzgarish oldidan nima boʻlganini eslang:
 
@@ -86,7 +86,7 @@ Vazifaga oid gʻoyalar uchun [yuvinish](/caregiving/bathing-with-dementia/) va [
 
 ## Vaziyat tinchlangandan keyin nima qilish mumkin?
 
-Odam istasa, uni tasalli bilan qoʻllab-quvvatlang va tanish, kam talabli mashgʻulotga qaytish taklif qiling. Ayblamang, tanbeh bermang va jazolamang. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) xabar berishicha, xulq oʻtib ketgandan keyin ham odam nima boʻlganini eslamasa-da, hali ham xafa boʻlib yurishi mumkin.
+Odam istasa, uni tasalli bilan qoʻllab-quvvatlang va tanish, kam talabli mashgʻulotga qaytish taklif qiling. Ayblamang, tanbeh bermang va jazolamang. Alzheimer's Society xabar berishicha, xulq oʻtib ketgandan keyin ham odam nima boʻlganini eslamasa-da, hali ham xafa boʻlib yurishi mumkin.
 
 Naqshni tushunmoqchi boʻlsangiz, oldin nima boʻlganini, nimani kuzatganingizni, qancha davom etganini va nima yordam berganini qisqa shaxsiy yozuvda saqlang. Yozuvni faktlar bilan cheklang va kerak boʻlsa, odamning tibbiy jamoasi bilan ulashing. Ruxsatsiz odamni yozib olmang yoki shaxsiy maʼlumotlarni ulashmang.
 
