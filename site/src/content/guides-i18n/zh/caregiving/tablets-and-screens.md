@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "为失智症家人设置平板电脑或手机"
+seoTitle: "为失智症家人设置平板或手机"
+description: "为失智症家人逐步设置平板电脑或手机：锁定在一个应用、放大字体、减少通知、简化主屏幕、调整音量并保护隐私。"
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  把平板电脑或手机交给对方之前，先把它变得更简单。在 iPad 和 iPhone 上使用引导式访问（Guided Access），在 Android 上使用应用固定（app pinning），把屏幕锁定在一个应用上；或者使用苹果的辅助访问（Assistive Access），获得简化的界面。放大文字，关闭通知，每个主屏幕只保留几个应用，设置好音量，使用支架，并限制应用权限。最好与对方一起使用，并搭配不使用屏幕的活动。
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "引导式访问（iPhone、iPad）和应用固定（Android）会把屏幕保持在一个应用上，直到你解锁为止。"
+  - "苹果的辅助访问提供为认知障碍人士设计的简化界面。"
+  - "放大文字，并关闭通知和弹出窗口，让画面不会打扰或混淆对方。"
+  - "每个主屏幕只保留几个熟悉的应用，并在开始前设置好音量。"
+  - "放置支架，并固定充电的位置，让设备更容易使用，也更容易找到。"
+  - "检查应用权限和数据共享：HIPAA 通常不保护存放在个人设备上的数据。"
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "如何防止失智症家人在 iPad 上离开某个应用？"
+    a: "在“设置 > 辅助功能 > 引导式访问”中打开引导式访问，并设置密码。打开应用后，连按顶部按钮（较旧的 iPad 则按主屏幕按钮）三次，然后点击“开始”。除非有人输入密码，iPad 会一直停留在该应用中。"
+  - q: "如何把 Android 平板电脑锁定在一个应用上？"
+    a: "在“设置”应用中打开应用固定，通常位于“安全”（有时是“安全与位置”）> “高级” > “应用固定”下。然后打开应用，进入最近任务界面，点击顶部的应用图标，再点击“固定”。取消固定需要输入你的 PIN、图案或密码。"
+  - q: "在对方自己的手机上使用引导式访问安全吗？"
+    a: "请谨慎使用。苹果表示，引导式访问开启期间，“碰撞检测”和“紧急服务”不可用。如果对方依靠手机拨打紧急电话，请只在你陪伴他时使用引导式访问，或者考虑改用辅助访问。"
+  - q: "失智症患者每天使用屏幕多久是合适的？"
+    a: "没有固定的时间。比起长时间独自盯着屏幕，短时间的共同使用，并与散步、音乐、家务和交谈穿插在一起，会让一天更充实。如果设备引起了挫败感，或挤占了其他活动，就减少使用。"
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+平板电脑可以是一种很好的方式，用来分享照片、音乐和简单的游戏。但它也可能让人困惑：一次误触打开了另一个应用，弹出一个通知，文字太小，或者游戏进行到一半屏幕变黑。你只需稍作设置，就能解决大部分问题。
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+这些步骤使用 iPhone、iPad 和 Android 的内置设置。不同软件版本和设备厂商的菜单名称可能有所不同，如果看到的内容不一样，请按照链接中对应苹果或谷歌页面的说明，针对你的设备操作。请在和对方一起坐下来之前，自己先完成设置。
 
-## Should someone with dementia use a tablet or phone?
+## 失智症患者适合使用平板电脑或手机吗？
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+这要看具体的人。许多人在有人陪伴的情况下会喜欢使用平板电脑，即使他们自己无法独立完成操作。先与对方一起使用，只开一个应用，用几分钟试试。如果它带来了乐趣和交流，就继续；如果它带来了困惑或挫败感，那么相册、打印的图片或音乐可能更适合对方。我们的[可打印活动](/activities/printable/)就是一种替代选择。
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+平板电脑通常比手机更容易使用：屏幕和图片更大，而且它不会同时成为对方紧急求助的工具。
 
-## How do I lock a tablet or phone to one app?
+## 如何把平板电脑或手机锁定在一个应用上？
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+在 iPhone 和 iPad 上使用引导式访问（Guided Access），在 Android 上使用应用固定（app pinning）。两者都会把屏幕保持在一个应用上，直到你输入密码，因此一次误触或滑动都不会打开其他东西。
 
-### iPad and iPhone: Guided Access
+### iPad 和 iPhone：引导式访问（Guided Access）
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+以下内容来自[苹果的引导式访问说明](https://support.apple.com/en-us/111795)：
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. 打开“**设置**”，点按“**辅助功能**”（Accessibility），然后点按“**引导式访问**”（Guided Access）并将其打开。
+2. 在“**密码设置**”（Passcode Settings）下，设置引导式访问的密码。你也可以允许使用面容 ID 或触控 ID。
+3. 可选：在“**自动锁定**”（Display Auto-Lock）下，选择一次使用期间屏幕自动锁定的时间，以免游戏进行到一半屏幕变黑。
+4. 打开你想让对方使用的应用。
+5. 在 iPhone 上连按侧边按钮，在 iPad 上连按顶部按钮，或在较旧的设备上连按主屏幕按钮，连按三次。
+6. 可选：圈出屏幕上你不希望对触摸作出反应的区域。点按“**选项**”（Options，或 Session Settings）来关闭音量按钮，或阻止屏幕旋转。
+7. 点按“**开始**”（Start）。
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+要结束使用，再次连按同一个按钮三次，输入密码，然后点按“**结束**”（End）。苹果提示，在某些较旧的系统版本上，需要双击而不是连按三次。
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**重要：** 苹果表示，在引导式访问期间，“碰撞检测”和“紧急服务”不可用。如果对方的手机可能需要用来拨打紧急电话，请不要让引导式访问一直开着。
 
-### Android: app pinning
+### Android：应用固定（app pinning）
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+以下内容来自[谷歌 Android 帮助中关于固定屏幕的说明](https://support.google.com/android/answer/9455138?hl=en)：
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. 打开“**设置**”应用。
+2. 点按“**安全**”（或“**安全与位置**”），然后点按“**高级**”，再点按“**应用固定**”（App pinning）。如果找不到，请查看设备厂商的帮助页面。
+3. 打开“**应用固定**”。取消固定时需要输入你的 PIN、图案或密码。
+4. 打开你想要的应用。从屏幕底部向上滑动到中间并按住，打开最近任务界面（如果使用三键导航，则点按“最近任务”）。
+5. 在应用预览的顶部，点按应用图标，然后点按“**固定**”（Pin）。
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+使用手势导航时，向上滑动并按住即可取消固定。使用三键导航时，同时长按“返回”和“最近任务”。使用两键导航时，同时长按“返回”和“主屏幕”。然后输入你的 PIN、图案或密码。
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## 整台 iPhone 或 iPad 有没有更简单的模式？
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+有。苹果的辅助访问（Assistive Access）会用一个更简单的主屏幕取代通常的主屏幕。[苹果的说明](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios)称，它的设计目的是让认知障碍人士更容易独立使用 iPhone，具有更大的屏幕项目和更集中的功能。苹果也在 [iPad 上提供了同样的功能](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados)。
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **谁来设置。** 苹果建议由了解对方的可信赖的支持者，例如家人或照护者，协助选择应用和功能。
+- **从哪里开始。** 前往“**设置 > 辅助功能 > 辅助访问**”（Assistive Access），点按“**设置辅助访问**”（Set Up Assistive Access），然后点按“**继续**”（Continue）。
+- **应用。** 你可以选择哪些应用出现在界面上。一些苹果自带的应用有专门的简化版本，大多数其他应用则可以按照其常规设计加入。
+- **布局。** 选择“**行**”（Rows，易于阅读的列表）或“**网格**”（Grid，更大的项目，突出图片和图标）。
+- **密码。** 你需要设置一个单独的辅助访问密码，用于进入、退出或更改设置。苹果建议在设置时添加一个恢复用的 Apple 账户，因为如果没有它，忘记密码就只能重置设备。
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+辅助访问可能适合每天使用自己设备的人。对于一起玩的共享游戏，引导式访问或应用固定则更快捷。
 
-## How do I make text and pictures bigger?
+## 如何把文字和图片放大？
 
-Increase the text and display size, then check that buttons still fit on screen.
+增大文字和显示尺寸，然后检查按钮是否仍能完整显示在屏幕上。
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone 和 iPad。** 按照[苹果的字体大小说明](https://support.apple.com/en-us/102453)，前往“**设置 > 显示与亮度 > 文本大小**”（Text Size），拖动滑块。如需更大的文字，请前往“**设置 > 辅助功能 > 显示与文字大小 > 更大字体**”（Larger Text）。苹果提示，非常大的文字可能会让一些按钮更难点按，因此需要时请适当调整。
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android。** 按照[谷歌的文字和显示设置帮助](https://support.google.com/accessibility/android/answer/11183305?hl=en)，打开“**设置**”，搜索“**字体大小**”（Font size），然后移动滑块。搜索“**显示大小**”（Display size），让屏幕上的所有内容变大。你还可以在“**辅助功能 > 显示大小和文字**”下打开“**粗体文字**”（Bold text）。有些应用不会遵循这些设置。
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+在[图片配对](/games/picture-pairs/)和[找出相同](/games/find-the-same/)等游戏中，你也可以选择更少的图块或选项，让屏幕上的内容更简单。
 
-## How do I stop notifications and pop-ups?
+## 如何关闭通知和弹出窗口？
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+关闭你不需要的应用的通知，并在活动期间使用“勿扰模式”。
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone 和 iPad。** 前往“**设置 > 通知**”，在“**通知样式**”下点按某个应用，然后关闭“**允许通知**”（Allow Notifications）（[苹果的通知设置指南](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)）。如需暂时静音来电、提醒和通知，请打开“控制中心”，从“**专注模式**”按钮打开“**勿扰模式**”（Do Not Disturb）（[苹果的勿扰模式帮助](https://support.apple.com/en-us/105112)）。你也可以在“**设置 > 专注模式 > 勿扰模式 > 设定时间表**”中安排它。
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android。** 从屏幕顶部向下滑动并点按“**勿扰模式**”（Do Not Disturb），或前往“**设置 > 模式 > 勿扰模式**”（[谷歌的勿扰模式帮助](https://support.google.com/android/answer/9069335?hl=en)）。在“**通知过滤**”下，你可以选择哪些人和应用仍然可以通知你。设置因设备厂商而异。
 
-## How do I make a simple home screen?
+## 如何做一个简单的主屏幕？
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+在同一个屏幕上保留几个熟悉的应用，把其余的移到视线之外。没有单一的设置可以做到这一点；关键在于减少杂乱。
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **选三到六个应用。** 例如照片、音乐、视频通话应用和一款游戏。
+- **把它们放在第一屏，** 每次都放在同样的位置，把其他的移到第二屏或文件夹里。
+- **使用简单、高对比度的壁纸，** 例如单一颜色或一张熟悉的照片，让图标更突出。
+- **删除不需要的应用。** 应用越少，造成困惑的机会就越少，收集的数据也越少。
+- **如果是苹果设备，可以考虑辅助访问，** 让设备替你完成这些设置。
 
-## What about volume and sound?
+## 音量和声音呢？
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+在把设备交给对方之前，先设置一个舒适的音量。使用引导式访问时，你可以关闭音量按钮，以免活动进行中音量被意外改变。同时确认助听器已佩戴好并且正常工作。
 
-## Where should the tablet live?
+## 平板电脑应该放在哪里？
 
-Give it a stand and a permanent charging spot.
+为它配一个支架，并固定一个充电位置。
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **支架或保护套**可以让平板电脑在桌上保持直立，这样就不需要有人一直拿着它，指向屏幕也更容易。
+- **一个固定的充电位置**，最好是放在每天都会用到的房间的桌子上的充电支架。平板电脑总是充满电，也总在同一个地方。
+- **减少眩光。** 让屏幕避开明亮的窗户。
 
-## How much screen time is okay?
+## 每天使用屏幕多久是合适的？
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+没有统一的分钟数。目标是短时间的共同使用，作为一天中的一部分，而这一天还包括活动身体、音乐、家务、交谈和户外时间。由于忙碌的傍晚可能会加剧傍晚的不安，可以考虑把屏幕活动安排在白天较早的时候。请参阅[傍晚平静活动](/caregiving/late-day-restlessness/)。
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+一起使用平板电脑，而不是把它当作哄孩子的工具，能让它保持社交性。我们关于[一起玩游戏](/caregiving/how-to-play-together/)的指南解释了具体做法。
 
-## How do I protect their privacy on the device?
+## 如何保护设备上的隐私？
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+限制应用可以收集的内容，并且不要以为健康隐私法律会覆盖这些应用。美国卫生与公众服务部（HHS）[解释说](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html)，HIPAA 规则通常不保护存放在个人手机和平板电脑上、或通过其访问的健康信息。在大多数情况下，HIPAA 也不保护为个人用途输入应用中的数据，除非该应用来自受保护的医疗服务提供者、健康计划或它们的业务伙伴。
 
-HHS suggests:
+HHS 建议：
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- 避免不必要或随意安装的应用，尤其是“免费”的应用；
+- 除非确实需要，例如地图，否则不要允许应用访问位置信息。
 
-Also consider:
+另外也请考虑：
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **为设备设置密码，** 并把密码记在安全的地方。
+- **检查权限，** 包括照片、相机、麦克风、通讯录和位置，关闭应用不需要的权限。
+- **在安装前查看应用收集了什么信息。** 我们关于[如何选择失智症应用和游戏](/caregiving/choosing-apps-and-games/)的指南中有一份隐私检查清单。
+- **谨慎对待家庭照片。** 只分享对方乐意被看到的照片，并且清楚应用把照片存放在哪里。在[照片配对](/games/photo-pairs/)中，你选择的照片会留在你的浏览器中。
+- **关闭应用内购买，** 或从对方使用的账户中移除付款信息。

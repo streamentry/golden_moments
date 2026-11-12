@@ -119,7 +119,7 @@ Gyvenimo istorijos knyga – tai paprastas nuotraukų ir trumpų antraštių alb
 
 ## Ką daryti, jei prisiminimas skausmingas?
 
-Kai kurie prisiminimai sukelia sielvartą, gailestį ar baimę. Jei žmogus sujaudinamas, sustokite, paguoskite jį ir švelniai pakeiskite temą ar veiklą. Nesiginčykite dėl to, kas nutiko. [Šeimos slaugytojų aljansas](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) pataria nebandyti įtikinti žmogaus, kad jis klysta, ir reaguoti į jo jausmus, kurie yra tikri. Jei jis kalba apie žmogų, kuris mirė, lyg jis būtų gyvas, reaguokite į jausmą: „Tau jo trūksta. Papasakok apie jį.“
+Kai kurie prisiminimai sukelia sielvartą, gailestį ar baimę. Jei žmogus sujaudinamas, sustokite, paguoskite jį ir švelniai pakeiskite temą ar veiklą. Nesiginčykite dėl to, kas nutiko. Šeimos slaugytojų aljansas pataria nebandyti įtikinti žmogaus, kad jis klysta, ir reaguoti į jo jausmus, kurie yra tikri. Jei jis kalba apie žmogų, kuris mirė, lyg jis būtų gyvas, reaguokite į jausmą: „Tau jo trūksta. Papasakok apie jį.“
 
 ## Ką rodo tyrimai?
 

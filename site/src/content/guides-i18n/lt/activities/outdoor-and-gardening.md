@@ -122,7 +122,7 @@ Planuokite laiką lauke pagal orą. NIA paaiškina, kad vyresni žmonės yra lab
 
 ## Kaip elgtis su klajojimu, kai einame lauke?
 
-Visada būkite su žmogumi, kai jis lauke. Alzheimerio asociacija teigia, kad [šeši iš dešimties žmonių, gyvenančių su demencija](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering), bent kartą klajos, o daugelis tai daro ne vieną kartą. Tai gali nutikti bet kurioje stadijoje.
+Visada būkite su žmogumi, kai jis lauke. Alzheimerio asociacija teigia, kad [šeši iš 10 žmonių, gyvenančių su demencija](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering), bent kartą klajos, o daugelis tai daro ne vieną kartą. Tai gali nutikti bet kurioje stadijoje.
 
 NIA [patarimai dėl klajojimo ir pasiklydimo](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) apima:
 

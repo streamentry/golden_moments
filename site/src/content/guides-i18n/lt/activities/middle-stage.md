@@ -1,7 +1,7 @@
 ---
 title: "Veiklos vidutinės stadijos demencijos atveju"
 seoTitle: "Vidutinės stadijos demencijos veiklos: paprastos idėjos"
-description: "Paprastos veiklos vidutinės stadijos demencijai: naudingi darbai, muzika, nuotraukos ir lengvi žaidimai, su žingsnis po žingsnio paruošimu ir būdais, kaip nukreipti neramumą."
+description: "Paprastos veiklos vidutinės stadijos demencijai: naudingi darbai, muzika, nuotraukos ir lengvi žaidimai, su žingsnis po žingsnio paruošimu ir patarimais."
 section: activities
 order: 3
 updated: 2026-10-25
