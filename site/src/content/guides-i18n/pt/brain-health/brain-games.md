@@ -1,7 +1,7 @@
 ---
 title: "Jogos para o Cérebro Previnem a Demência? O Que as Evidências Mostram"
 seoTitle: "Jogos para o Cérebro Previnem a Demência? As Evidências"
-description: "O que a pesquisa diz sobre jogos cerebrais e demência: estimulação cognitiva, treino cerebral no computador, o estudo ACTIVE e o caso FTC da Lumosity, explicados com clareza."
+description: "O que a pesquisa diz sobre jogos cerebrais e demência: estimulação cognitiva, treino no computador, o estudo ACTIVE e o caso FTC da Lumosity, de forma clara."
 section: brain-health
 order: 3
 updated: 2026-10-25
