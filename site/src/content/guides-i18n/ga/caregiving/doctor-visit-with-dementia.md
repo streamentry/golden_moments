@@ -40,7 +40,7 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: true
 ---
 
-Is féidir le cuairt ar an dochtúir mórán a chlúdach i gceann tamaill ghearr. Cabhraíonn plean gairid leis an duine agus leis an tacaí na ceisteanna is tábhachtaí a ardú, na freagraí a thuiscint agus céimeanna soiléire chun cinn a fháil. Ba chóir don duine a bhfuil néaltrú air a bheith ina pháirt den chomhrá agus de na cinntí chomh mór agus is mian leo.
+Is féidir le cuairt ar an dochtúir mórán a chlúdach i gceann tamaill ghearr. Cabhraíonn plean gairid leis an duine agus leis an gcúramóir na ceisteanna is tábhachtaí a ardú, na freagraí a thuiscint agus céimeanna soiléire chun cinn a fháil. Ba chóir don duine a bhfuil néaltrú air a bheith ina pháirt den chomhrá agus de na cinntí chomh mór agus is mian leo.
 
 Molann [treoir Chumann Alzheimer maidir le hoibriú leis an dochtúir](https://www.alz.org/help-support/caregiving/daily-care/working-with-the-doctor) ceisteanna a scríobh síos, athruithe sonracha a thaifeadadh agus an dochtúir a iarraidh an plean a athinsint. Cuireann [comhairle Dementia Australia maidir le hoibriú le dochtúirí](https://www.dementia.org.au/living-dementia/staying-healthy/working-doctors) béim ar thoiliú, ar éisteacht leis an duine agus ar fhaisnéis a roinnt go discréideach nuair is gá. Is leid ghinearálta ullmhúcháin é an leathanach seo, ní comhairle leighis.
 
@@ -50,7 +50,7 @@ Fiafraigh den duine cad is mian leo a bheadh ar eolas ag an dochtúir. Scríobh 
 
 Déan athruithe a chur i bhfocail shoiléire. Tabhair faoi deara cad a tharla, cathain a thosaigh sé, cé chomh minic a tharlaíonn sé agus cad a bhí ar siúl ag an am. Mar shampla, tá “Tá sí tar éis stopadh de dhul chuig an ngrúpa ceoil seachtainiúil le mí anuas” níos úsáidí ná “Tá sí ag éirí níos measa.” Cuir tuairim an duine féin faoin athrú san áireamh, agus ná cuir tuairmse i láthair mar dhiagnóis.
 
-Tabhair liosta reatha de chógais leat, lena n-áirítear cógais ar oideas agus gan oideas, vitimíní agus lóin. B’fhéidir go mba mhaith leis an duine a sprionglinsí, a gcluasán nó ainmneacha clinicéirí eile a thabhairt leo. Fiafraigh den oifig cé na foirmeacha nó na taifid a theastaíonn, seachas tuilleadh faisnéise príobháidí a bhailiú ná mar a theastaíonn don chuairt.
+Tabhair liosta reatha de chógais leat, lena n-áirítear cógais ar oideas agus gan oideas, vitimíní agus lóin. B’fhéidir go mba mhaith leis an duine a spéaclaí, a gcluasán nó ainmneacha clinicéirí eile a thabhairt leo. Fiafraigh den oifig cé na foirmeacha nó na taifid a theastaíonn, seachas tuilleadh faisnéise príobháidí a bhailiú ná mar a theastaíonn don chuairt.
 
 ## Conas is féidir liom an duine a ghabháil leis le linn na cuairte?
 

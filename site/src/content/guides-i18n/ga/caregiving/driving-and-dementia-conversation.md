@@ -57,7 +57,7 @@ Cuir an duine san áireamh i gcinntí faoi thaisteal amach anseo, a fhad a theas
 
 ## Conas is féidir liom imní a thógáil gan argóint a dhéanamh as?
 
-Pléigh imeacht shonrach in ionad breithiúnas leathan a dhéanamh. Mar shampla, déan cur síos ar dhul ar strae ar bhealach eolach, ar stop comhartha a chailleadh nó ar scrape le déanaí ar an gcarr. Abair cad a chonaic tú agus fiafraigh cad a chuimhníonn an duine air nó cad a mhothaigh siad. Ná glaoigh orthu tiománaí dona agus ná tástáil a gcuimhne le ceisteanna.
+Pléigh imeacht shonrach in ionad breithiúnas leathan a dhéanamh. Mar shampla, déan cur síos ar dhul ar strae ar bhealach eolach, ar stop comhartha a chailleadh nó ar scríobadh le déanaí ar an gcarr. Abair cad a chonaic tú agus fiafraigh cad a chuimhníonn an duine air nó cad a mhothaigh siad. Ná glaoigh orthu tiománaí dona agus ná tástáil a gcuimhne le ceisteanna.
 
 Éist le tuairim an duine. B’fhéidir go mbeidh siad tar éis mearbhall, dallrú, tuirse nó deacracht eile a thabhairt faoi deara. Nó b’fhéidir nach n-aontaíonn siad leat. Ná glac le comhrá amháin mar fhianaise go dtuigeann siad an riosca nó nach dtuigeann. Coinnigh an ton measúil agus fill ar an ábhar ar ball má tá duine ar bith ag éirí míshásta.
 

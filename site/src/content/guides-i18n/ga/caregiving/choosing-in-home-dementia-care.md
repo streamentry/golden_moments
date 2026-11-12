@@ -67,7 +67,7 @@ Iarr tagairtí agus fiafraigh conas a scagann an ghníomhaireacht a cuid oibrith
 
 Má aontaíonn an duine, socraigh cruinniú sa bhaile sula dtosaíonn an chéad chuairt. Breathnaigh an labhraíonn an soláthraí leis an duine go díreach, an éisteann sé lena gcuid roghanna agus an dtugann sé am dóibh freagra a thabhairt. Fiafraigh den duine conas a mhothaigh an cruinniú, ar bhealach ar féidir leo freagra a thabhairt go compordach.
 
-Molann Cumann Alzheimer go mbeadh duine iontaofa eile i láthair le linn agallaimh, ionas gur féidir leat do thuairimí a phlé ina dhiaidh sin. Úsáid an cruinniú chun cuairt nòrmálta a phlé: teacht isteach, beannú, an tasc pleanáilte agus conas is féidir leis an duine iarraidh stad nó sos a ghlacadh.
+Molann Cumann Alzheimer go mbeadh duine iontaofa eile i láthair le linn agallaimh, ionas gur féidir leat do thuairimí a phlé ina dhiaidh sin. Úsáid an cruinniú chun cuairt normálta a phlé: teacht isteach, beannú, an tasc pleanáilte agus conas is féidir leis an duine iarraidh stad nó sos a ghlacadh.
 
 Más féidir, socraigh cuairt ghearr tosaigh agus athbhreithnigh í leis an duine. B’fhéidir go mbeidh soláthraí feiliúnach ar pháipéar agus nach mbeidh sé oiriúnach go pearsanta don duine. Glac le freagra an duine agus pléigh roghanna eile má tá imní ar dhuine agaibh.
 
@@ -81,7 +81,7 @@ Is féidir leis an [treoir maidir le hullmhú do chuairt chuig an dochtúir](/ca
 
 ## Conas is féidir liom an socrú a athbhreithniú le himeacht ama?
 
-Seiceáil leis an duine tar éis cuairteanna. Fiafraigh cad a bhí compordach, cad a bhain taitneamh astu agus cad a athrófaidís. Mura bhfuil mórán focal á n-úsáid acu, féach an nglacann siad leis an gcúntóir, an mbíonn siad at ease agus an mian leo go leanfadh an chuairt ar aghaidh. Ní scór iad na breathnuithe seo; úsáid chun comhrá a threorú iad.
+Seiceáil leis an duine tar éis cuairteanna. Fiafraigh cad a bhí compordach, cad a bhain taitneamh astu agus cad a athrófaidís. Mura bhfuil mórán focal á n-úsáid acu, féach an nglacann siad leis an gcúntóir, an mbíonn siad compordach agus an mian leo go leanfadh an chuairt ar aghaidh. Ní scór iad na breathnuithe seo; úsáid chun comhrá a threorú iad.
 
 Aontaigh leis an soláthraí conas nuashonruithe rialta a roinnt agus conas imní a láimhseáil. Má chuirtear cuairt ar ceal, bí ar an eolas cé is féidir cúltacaíocht a sholáthar nó cad ba mhaith leis an duine a dhéanamh ina ionad. Athbhreithnigh na tascanna nuair a athraíonn gnáthlá, sláinte nó riachtanais tacaíochta an duine.
 

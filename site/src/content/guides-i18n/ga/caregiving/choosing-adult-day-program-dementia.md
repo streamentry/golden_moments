@@ -55,7 +55,7 @@ Athraíonn seirbhísí. Díríonn cuid de na hionaid ar chomhluadar agus ar ghn�
 
 Faigh amach faoi ghníomhaíochtaí, ní hamháin faoi theideal an sceidil. Fiafraigh cad a dhéanann rannpháirtithe i ndáiríre, an féidir leo rogha a dhéanamh idir roghanna agus an bhfuil spéiseanna eolacha san áireamh, mar cheol, ealaín, garraíodóireacht nó comhrá. Ní gá don duine gach gníomhaíocht a dhéanamh. Fiafraigh an bhfuil spás ciúin nó am le scíth a ligean ar fáil.
 
-Mura bhfuil an duine ag cur bhus leis an gcabhair maidir le leigheas, bogadh, ithe nó cúram pearsanta, fiafraigh go cruinn cé a sholáthraíonn an tacaíocht sin agus cén oiliúint atá acu. Ná glac leis go dtugann clár lae cúram leighis nó go bhféadfaidh sé gach riachtanas a shásamh. Deimhnigh aon treoracha a bhaineann le sláinte le foireann cúraim an duine.
+Má theastaíonn cabhair ón duine maidir le cógais, bogadh, ithe nó cúram pearsanta, fiafraigh go cruinn cé a sholáthraíonn an tacaíocht sin agus cén oiliúint atá acu. Ná glac leis go dtugann clár lae cúram leighis nó go bhféadfaidh sé gach riachtanas a shásamh. Deimhnigh aon treoracha a bhaineann le sláinte le foireann cúraim an duine.
 
 ## Cad is féidir liom a lorg le linn cuairte?
 
@@ -67,7 +67,7 @@ Más féidir, tabhair cuairt le linn gníomhaíochta nó béile. Breathnaigh an 
 
 ## Cad iad na sonraí praiticiúla a chaithfidh mé a sheiceáil?
 
-Fiafraigh faoi uaireanta, laethanta, táillí, íosfhreastal, rialacha cealaithe agus aon chostas breise. Fiafraigh cad béilí nó suppers atá san áireamh agus an féidir aiste bia speisialta a thacú. Athraíonn costais agus seirbhísí ó áit go háit, mar sin iarr ar an ionad a théarmaí scríofa a mhíniú.
+Fiafraigh faoi uaireanta, laethanta, táillí, íosfhreastal, rialacha cealaithe agus aon chostas breise. Fiafraigh cad iad na béilí agus na suipéir atá san áireamh agus an féidir aiste bia speisialta a thacú. Athraíonn costais agus seirbhísí ó áit go háit, mar sin iarr ar an ionad a théarmaí scríofa a mhíniú.
 
 Faigh amach an bhfuil iompar ar fáil, cad a chosnaíonn sé agus an bhfeileann sé don duine. Fiafraigh faoi amanna bailithe, cabhair chun dul isteach agus amach as an bhfeithicil agus cad a tharlaíonn má bhíonn an tiománaí déanach. Más baill teaghlaigh a thabharfaidh na turais, cuir an t-am agus an costas sin i do phlean.
 

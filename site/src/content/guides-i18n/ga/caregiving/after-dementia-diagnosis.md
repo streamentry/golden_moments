@@ -18,7 +18,7 @@ keyPoints:
   - "Cuir an duine san áireamh sna roghanna agus sa phleanáil don todhchaí de réir a mhian, agus faigh comhairle ghairmiúil áitiúil maidir le ceisteanna dlí nó airgeadais."
 faq:
   - q: "Cad ba chóir dom a dhéanamh ar dtús tar éis diagnóis néaltrais?"
-    a: "Tosaigh le céim úsáideach amháin, mar shampla plean leantacháin a shoiléiriú leis an gclinicí a rinne an diagnóis, nó seirbhís tacaíochta iontaofa a aimsiú. B’fhéidir go dteastaíonn am ón duine chun an diagnóis a phróiseáil, mar sin ní gá liosta fada a chríochnú in aon lá amháin."
+    a: "Tosaigh le céim úsáideach amháin, mar shampla plean leantacháin a shoiléiriú leis an gclinicéir a rinne an diagnóis, nó seirbhís tacaíochta iontaofa a aimsiú. B’fhéidir go dteastaíonn am ón duine chun an diagnóis a phróiseáil, mar sin ní gá liosta fada a chríochnú in aon lá amháin."
   - q: "An gciallaíonn diagnóis néaltrais nach féidir leis an duine cinntí a dhéanamh a thuilleadh?"
     a: "Ní fhreagraíonn diagnóis amháin cad is féidir leis an duine a chinneadh. Fiafraigh den duine conas is mian leo a bheith rannpháirteach, agus lorg comhairle cháilithe áitiúil maidir le cinneadh sonrach sláinte, dlí nó airgeadais."
   - q: "An ndéarfaidh mé le teaghlach agus cairde faoin diagnóis?"

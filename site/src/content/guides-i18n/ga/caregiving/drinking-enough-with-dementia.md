@@ -62,7 +62,7 @@ Le haghaidh turais, tabhair deoch a thaitníonn leis an duine leat agus tairg í
 
 ## Cad iad na deochanna nó na bianna is féidir liom a thairiscint?
 
-Tosaigh le deochanna a bhaineann taitneamh astu agus is féidir leo a ól go sábháilte. Is rogha amháin é uisce; is féidir le bainne, anraithe, smoothies nó deochanna eolacha eile oireamh do roghanna an duine agus dá bplean cúraim freisin. Tá uisce ag roinnt torthaí agus bianna eile freisin. [Liostaíonn Cumann Alzheimer torthaí, anraithe, milkshakes agus smoothies](https://www.alz.org/help-support/caregiving/daily-care/food-eating) mar roghanna a bhfuil ábhar uisce ard iontu.
+Tosaigh le deochanna a bhaineann taitneamh astu agus is féidir leo a ól go sábháilte. Is rogha amháin é uisce; is féidir le bainne, anraithe, smoothies nó deochanna eolacha eile oireamh do roghanna an duine agus dá bplean cúraim freisin. Tá uisce ag roinnt torthaí agus bianna eile freisin. [Liostaíonn Cumann Alzheimer torthaí, anraithe, deochanna bainne agus smoothies](https://www.alz.org/help-support/caregiving/daily-care/food-eating) mar roghanna a bhfuil ábhar uisce ard iontu.
 
 Ní gá brú a chur ar dheoch amháin má dhiúltaíonn an duine dó. Tairg rogha eolach eile nó bain triail as ar ball. Fiafraigh de dhochtúir nó de dhiaiteoir an duine sula n-athraíonn tú a n-aiste bia nó a bplean deochanna, go háirithe más treoracha leighis maidir le sreabháin atá acu cheana.
 
@@ -76,7 +76,7 @@ Scaip tairiscintí ar feadh an lae in ionad a iarraidh ar an duine go leor a ól
 
 Díriú ar an rud atá difriúil ó ghnáthphatrún an duine. B’fhéidir go n-ólann siad i bhfad níos lú ná mar is gnách, go bhfágann siad deoch is fearr leo gan a ól nó go mbeidh cabhair de dhíth orthu níos mó ná roimhe seo. Is féidir béal tirim, meadhrán, tuirse neamhghnách nó athruithe ar uiríneáil a bheith ina gcúiseanna le seiceáil le gairm sláinte. Féadfaidh na comharthaí seo cúiseanna eile a bheith leo, mar sin ná déan diagnóis ar dhíhiodráitiú duit féin.
 
-Scríobh síos cad a thug tú faoi deara agus cathain. Cuir san áireamh an raibh an duine tinn, i teas nó ag fulaingt le deoch a shealbhú nó a shlogadh. Tugann [Cumann Alzheimer faoi deara go bhfuil comharthaí díhiodráitithe deacair a aithint i ndaoine a bhfuil néaltrú orthu](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Má tharlaíonn athrú tobann nó má tá imní ort, déan teagmháil le dochtúir nó gairm sláinte eile.
+Scríobh síos cad a thug tú faoi deara agus cathain. Cuir san áireamh an raibh an duine tinn, sa teas nó ag fulaingt le deoch a shealbhú nó a shlogadh. Tugann [Cumann Alzheimer faoi deara go bhfuil comharthaí díhiodráitithe deacair a aithint i ndaoine a bhfuil néaltrú orthu](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Má tharlaíonn athrú tobann nó má tá imní ort, déan teagmháil le dochtúir nó gairm sláinte eile.
 
 ## Cad a dhéanaim má bhíonn sé deacair deoch a ól?
 

@@ -19,7 +19,7 @@ keyPoints:
   - "Má tá folcadh iomlán ina chúis imní, stop agus smaoinigh ar lámh-ní nó am eile."
 faq:
   - q: "Cad a dhéanaim má dhiúltaíonn duine a bhfuil néaltrú air folcadh a ghlacadh?"
-    a: "Glac leis an freagra don Lá Inniu. Stad, seiceáil an bhfuil an duine fuar, tuirseach, míchompordach nó buartha faoi phríobháideacht, agus tairg am eile nó ní níos simplí. Ná bí ag argóint ná ná brúigh an ghníomhaíocht."
+    a: "Glac leis an freagra don uair seo. Stad, seiceáil an bhfuil an duine fuar, tuirseach, míchompordach nó buartha faoi phríobháideacht, agus tairg am eile nó ní níos simplí. Ná bí ag argóint ná ná brúigh an ghníomhaíocht."
   - q: "Conas is féidir liom príobháideacht an duine a chosaint?"
     a: "Dún an doras nó na cuirtíní, bí cinnte go bhfuil tuáille mór nó gúna folcadh réidh agus nocht an chuid atá á ní amháin. Fiafraigh sula gcabhróidh tú leo agus seiceáil an bhfuil siad compordach go bhfuil tusa i láthair."
   - q: "An dteastaíonn folcadh iomlán gach lá ó dhuine a bhfuil néaltrú air?"
@@ -69,7 +69,7 @@ Coinnigh an t-am gnáthach den lá agus ord na gcéimeanna nuair a oibríonn sia
 
 ## Cad a dhéanaim má tá folcadh iomlán ró-dheacair?
 
-Ní hé folcadh iomlán an t-aon bhealach amháin chun cabhrú le duine mothú glan. Má tá an duine compordach leis, bain triail as níochán ag an doirteal, ag úsáid gallúnaigh the nó ag ní ceann codanna amháin ag an am. Is féidir gruaig a ní lá eile má is é sin an chuid is measa leo. Coinnigh an duine clúdaithe agus rannpháirteach, agus stad mura gcruthaíonn an rogha eile buairt chomh maith.
+Ní hé folcadh iomlán an t-aon bhealach amháin chun cabhrú le duine mothú glan. Má tá an duine compordach leis, bain triail as níochán ag an doirteal, ag úsáid gallúnaigh nó ag ní ceann codanna amháin ag an am. Is féidir gruaig a ní lá eile má is é sin an chuid is measa leo. Coinnigh an duine clúdaithe agus rannpháirteach, agus stad mura gcruthaíonn an rogha eile buairt chomh maith.
 
 Má dhiúltaíonn an duine inniu, glac leis agus bain triail eile as ar ball. Is fearr níochán ciúin amárach ná iarracht a bheith eagla ar an duine inniu. Tá níos mó bealaí chun cabhair a thairiscint gan brú sa [treoir maidir le nuair a deir duine níl](/caregiving/when-they-say-no/).
 
