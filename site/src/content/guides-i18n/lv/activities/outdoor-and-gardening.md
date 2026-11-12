@@ -117,7 +117,7 @@ Arī aukstais laiks ir svarīgs. Ziemā turiet laiku ārā īsu un pārlieciniet
 
 ## Kā rīkoties ar klaiņošanu, ja ejam ārā?
 
-Paliciet ar cilvēku vienmēr, kad viņš ir ārā. Alzheimer's Association saka, ka [seši no desmit cilvēkiem ar demenci](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vismaz vienreiz klaiņos, un daudzi to dara vairāk nekā vienreiz. Tas var notikt jebkurā stadijā.
+Paliciet ar cilvēku vienmēr, kad viņš ir ārā. Alzheimer's Association saka, ka [seši no 10 cilvēkiem ar demenci](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vismaz vienreiz klaiņos, un daudzi to dara vairāk nekā vienreiz. Tas var notikt jebkurā stadijā.
 
 NIA [padomi klaiņošanas un pazušanas gadījumā](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) ietver:
 
