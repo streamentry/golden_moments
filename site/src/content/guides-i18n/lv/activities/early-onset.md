@@ -83,7 +83,7 @@ Ja interesē ikdienas rutīna un aktivitāte, skatiet rakstu [maiga ikdienas rut
 
 Partneri un pieaugušie bērni bieži jūtas izolēti. Aprūpe var šķist kā otrs darbs līdzās darbam un ģimenei. Alcheimera asociācijas emuāra ierakstā norādīts, ka aprūpētājiem agrīnās demences grupās bija noderīgi praktiskie jautājumi, piemēram, juridiskā plānošana, un vienkārši sajūta, ka viņus saprot. Tajā arī minēts, ka asociācija rīko bezmaksas aprūpētāju atbalsta grupas, tostarp grupas cilvēkiem, kas rūpējas par kādu ar agrīnu demenci, un trīs no tām notiek tiešsaistē otrdienās un trešdienās.
 
-Lai uzzinātu par grupām, zvaniet asociācijas diennakts palīdzības līnijā 800.272.3900. Mūsu [rokasgrāmata par aprūpētāja pašaprūpi](/caregiving/caregiver-self-care/) aptver atpūtu, īslaicīgu atvieglojumu un izdegšanas pazīmes.
+Lai uzzinātu par grupām, zvaniet asociācijas palīdzības līnijā (24/7) 800.272.3900. Mūsu [rokasgrāmata par aprūpētāja pašaprūpi](/caregiving/caregiver-self-care/) aptver atpūtu, īslaicīgu atvieglojumu un izdegšanas pazīmes.
 
 ## Stadijas joprojām ir svarīgas
 
