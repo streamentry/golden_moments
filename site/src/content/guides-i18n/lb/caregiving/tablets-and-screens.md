@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "En Tablet oder Telefon fir eng Persoun mat Demenz astellen"
+seoTitle: "Tablet oder Telefon fir Demenz astellen"
+description: "Schrëtt-fir-Schrëtt Ufank fir eng Persoun mat Demenz: op eng App festleeën, gréisser Schrëft, weniger Notifikatiounen, en einfache Startbildschierm, Lautstäerkt an Privatsphär."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Maacht e Tablet oder Telefon méi einfach, ier Dir et weiderginn. Leet et op eng App fest mat Guided Access um iPad a iPhone oder App-Pinning op Android, oder benotzt Apples Assistive Access fir en vereinfachten Layout. Maacht d'Schrëft méi grouss, schalt Notifikatiounen aus, hält nëmmen e puer Apps um Startbildschierm, stellt d'Lautstäerkt an, benotzt e Standfouss a begrenzt d'App-Berechtegungen. Benotzt et zesumme, nieft Aktivitéiten ouni Bildschierm.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Guided Access (iPhone, iPad) an App-Pinning (Android) halen de Bildschierm op enger App, bis Dir se entspaart."
+  - "Apples Assistive Access bitt en vereinfachten Layout, dee fir Mënschen mat kognitiven Behënnerungen gemaach ass."
+  - "Maacht d'Schrëft méi grouss a schalt Notifikatiounen an Opspréngfenster aus, sou datt näischt stéiert oder verwiescht."
+  - "Hält nëmmen e puer vertraut Apps op engem Startbildschierm, a stellt d'Lautstäerkt an, ier Dir ufänkt."
+  - "En Standfouss an eng Laaderplaz, déi ni wiesselt, maachen de Gerät méi einfach ze benotzen an ze fannen."
+  - "Kontrolléiert d'App-Berechtegungen an d'Datedeelung: HIPAA schützt op engem perséinleche Gerät allgemeng net, wat do gespäichert ass."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Wéi verhënneren ech, datt eng Persoun mat Demenz op engem iPad eng App verléisst?"
+    a: "Schalt Guided Access an de Settings ënner Accessibility > Guided Access an, a leet e Passcode fest. Mecht d'App op, drécken de Knäppchen uewen dräimol (oder den Home-Knäppchen op ältere iPads) a tippt op Start. Den iPad bleift an där App, bis iergendeen de Passcode aginn."
+  - q: "Wéi leet ech en Android-Tablet op eng App fest?"
+    a: "Schalt App-Pinning an de Settings an, normalerweis ënner Security (heiansdo Security & location) > Advanced > App pinning. Dann d'App opmaachen, Overview opmaachen, op d'Icon vun der App uewen tippen an Pin tippen. Fir d'Festleeung ze lafen, bracht Dir Är PIN, Muster oder Passwuert."
+  - q: "Ass et sécher, Guided Access op dem Telefon vun der Persoun ze benotzen?"
+    a: "Sidd virsiichteg. Apple seet, datt Crash Detection an Emergency Services wärend Guided Access net verfügbar sinn. Wann d'Persoun op hiert Telefon fir Notruffe ugewise ass, benotzt Guided Access nëmmen, wann Dir bei hinnen sidd, oder denkt amplaz un Assistive Access."
+  - q: "Wéi vill Bildschierm-Zäit ass fir eng Persoun mat Demenz a Rot?"
+    a: "Et gëtt keng fest Zuel. Kuerz, gemeinsam Sessiounen, gemëscht mat Spadséiergänge, Musek, Hausaarbechten an Ënnerhalung, maachen e vollere Dag wéi laang Stonnen alleng mat engem Bildschierm. Wann d'Gerät Frustratioun bréngt oder anerer Aktivitéiten verdrängt, benotzt en manner."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+E Tablet kann eng schéi Manéier sinn, Biller, Musek a einfache Spiller ze deelen. Et kann awer och verwirrend sinn: en falsche Tipp mécht eng aner App op, eng Notifikatioun poppt op, d'Schrëft ass ze kleng, oder de Bildschierm geet mat ënnen am Spill duer. E bëssen Astellung vun Iech léist dat meeschtens.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Dës Schrëtt benotzen d'agebaute Astellungen op iPhone, iPad a Android. Menünumm kënnen zwëschen Software-Versiounen an Hersteller variéieren. Wann eppes anescht ausgesäit, follegt déi verlinkt Apple- oder Google-Säit fir Äre Gerät. Maacht d'Astellung selwer, ier Dir zesumme sëtzt.
 
-## Should someone with dementia use a tablet or phone?
+## Soll eng Persoun mat Demenz e Tablet oder Telefon benotzen?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Dat hänkt vun der Persoun of. Vill Mënsche genéissen et, mat engem Tablet ze sëtzen, wann een nieft hinne sëtzt, och wann si et alleng net géifen packen. Fänkt mat engem gemeinsame Gebrauch un, mat enger App op, fir e puer Minutten. Wann et Freed a Gespréich bréngt, maacht weider. Wann et Verwirrung oder Frustratioun bréngt, kënne en Fotosalbum, gedréckte Blieder oder Musek besser passen. Eis [gedréckte Aktivitéiten](/activities/printable/) sinn eng Alternativ.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+E Tablet ass meeschtens einfacher wéi e Telefon: den Écran an d'Biller sinn méi grouss, a et ass net zougläich d'Notruffsverbindung vun der Persoun.
 
-## How do I lock a tablet or phone to one app?
+## Wéi leet ech en Tablet oder Telefon op eng App fest?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Benotzt Guided Access op iPhone an iPad oder App-Pinning op Android. Béid halen den Écran op enger eenzeger App, bis Dir e Code aginn, sou datt e falschen Tipp oder e Wësch näischt anescht opmaache kann.
 
-### iPad and iPhone: Guided Access
+### iPad an iPhone: Guided Access
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+No [Apples Guided-Access-Uleedung](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Öffnet **Settings**, tippt op **Accessibility**, dann op **Guided Access** a schalt et an.
+2. Ënner **Passcode Settings** leet e Guided-Access-Passcode fest. Dir kënnt och Face ID oder Touch ID erlaben.
+3. Optional: Ënner **Display Auto-Lock** wielt, wéi séier den Écran während enger Sessioun gespaart gëtt, sou datt en mat ënnen am Spill net ausgeet.
+4. Maacht d'App op, déi Dir benotze wëllt.
+5. Dréckt dräimol den Seitekniff (iPhone), den oberen Knäppchen (iPad) oder den Home-Knäppchen op ältere Geräter.
+6. Optional: Markéiert Beräicher vum Écran, déi op Berühdung net reagéieren sollen. Tippt op **Options** (oder **Session Settings**), fir d'Lautstäerkt-Knäppchen auszeschalten oder d'Dréiung vum Écran ze stoppen.
+7. Tippt op **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Fir d'Sessioun ze beenden, dréckt de selwechte Knäppchen nach eng Kéier dräimol, gitt de Passcode an a tippt op **End**. Apple seet, datt Dir bei e puer ältere Software-Versioune amplaz zweemol dréckt.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Wichteg:** Apple seet, datt Crash Detection an Emergency Services wärend enger Guided-Access-Sessioun net verfügbar sinn. Loosst Guided Access net op engem Telefon lafen, wat d'Persoun fir Notruffe brauche kann.
 
-### Android: app pinning
+### Android: App-Pinning
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+No [Googles Android-Hëllef zum Festleeë vu Bildschierm](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Öffnet d'**Settings**-App.
+2. Tippt op **Security** (oder **Security & location**), dann **Advanced**, dann **App pinning**. Wann Dir et net fannt, kuckt op den Hëllefssäiten vum Hersteller.
+3. Schalt **App pinning** an. Är PIN, Muster oder Passwuert brauch Der fir d'Festleeung ze läsen.
+4. Maacht d'App op, déi Dir wëllt. Wëscht a lues an d'Mëtt vum Écran a halt, fir Overview opzemaachen (oder tippt bei 3-Knäppchen-Navigatioun op Overview).
+5. Tippt uewen an der Virschau vun der App op d'Icon vun der App, dann tippt op **Pin**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Fir d'Festleeung mat Gestennavigatioun ze läsen, wëscht no uewen a halt. Bei 3-Knäppchen-Navigatioun haalt Back an Overview gedréckt. Bei 2-Knäppchen-Navigatioun haalt Back an Home gedréckt. Dann gitt Är PIN, Muster oder Passwuert an.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Gëtt et en méi einfache Modus fir de ganzen iPhone oder iPad?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Jo. Apples Assistive Access ersetzt den üblechen Startbildschierm duerch e méi einfachen. [Apple beschreift et](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) als Hëllefsmëttel, dat et Mënschen mat kognitiven Behënnerungen erliichtert, den iPhone selbstänneg ze benotzen, mat méi grousse Elementer um Écran an méi gezielten Funktiounen. Apple bitt [dee selwechte Modus och um iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados) un.
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Wien en astellt.** Apple schléit vir, datt eng vertrauenswierdeg Ënnerstëtzung, wéi e Familljemember oder e Betreier, deen d'Persoun kennt, hëlleft d'Apps an d'Funktiounen auszesichen.
+- **Wou ufänken.** Gitt op **Settings > Accessibility > Assistive Access**, tippt op **Set Up Assistive Access**, dann op **Continue**.
+- **Apps.** Dir wielt, welch Apps erschéngen. E puer Apple-Apps hunn spezial vereinfacht Versiounen, an déi meescht aner Apps kënnen a hirem üblechen Design dobäi gesat ginn.
+- **Layout.** Wielt **Rows** (eng liesbar Lëscht) oder **Grid** (méi grouss Elementer, déi Biller a Symboler betounen).
+- **Passcode.** Dir setzt en eegene Assistive-Access-Passcode, fir Astellungen ze eroffen, ze verloossen oder z'änneren. Apple recommandéiert, beim Astellen en Apple-Account fir d'Wiederhuelung anzeriichten, well ouni deen e vergiessene Passcode heescht, datt d'Gerät muss zeréckgesat ginn.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access kann passen, wann d'Persoun hiren eegenen Gerät all Dag benotzt. Guided Access oder App-Pinning ass méi séier fir eng gemeinsam Spillsessioun.
 
-## How do I make text and pictures bigger?
+## Wéi maache ech Text an Biller méi grouss?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Vergréissert d'Text- an Display-Gréisst, a kuckt dann, ob d'Knäppchen nach op den Écran passen.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone an iPad.** Nach [Apples Uleedung zur Schrëftgréisst](https://support.apple.com/en-us/102453) gitt op **Settings > Display & Brightness > Text Size** a schiebt de Schieber. Fir nach méi grouss Text gitt op **Settings > Accessibility > Display & Text Size > Larger Text**. Apple seet, datt ganz grouss Text et schwéierer maache kann, e puer Knäppchen ze drécken, dofir passt et bei Bedarf un.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Nach [Googles Hëllef zu Text- an Display-Astellungen](https://support.google.com/accessibility/android/answer/11183305?hl=en) öffnet **Settings** a sicht no **Font size**, dann schiebt de Schieber. Sicht no **Display size**, fir alles um Écran méi grouss ze maachen. Dir kënnt och **Bold text** ënner **Accessibility > Display size and text** aschalten. E puer Apps falen dës Astellungen net.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+A Spiller wéi [Picture Pairs](/games/picture-pairs/) an [Find the Same](/games/find-the-same/) kënnt Dir och manner Kaarten oder Auswiel wielen, wat den Écran méi einfach hält.
 
-## How do I stop notifications and pop-ups?
+## Wéi stoppen ech Notifikatiounen an Opspréngfenster?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Schalt Notifikatiounen fir Apps aus, déi Dir net braucht, a benotzt Do Not Disturb wärend Aktivitéiten.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone an iPad.** Gitt op **Settings > Notifications**, tippt bei enger App ënner **Notification Style** op a schalt **Allow Notifications** aus ([Apples Guide zu Notifikatiounen](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Fir Uriff, Alarmer a Notifikatiounen fir eng Zäit stëll ze maachen, opmaachen Control Center a schalt **Do Not Disturb** iwwer de **Focus**-Knäppchen an ([Apples Hëllef zu Do Not Disturb](https://support.apple.com/en-us/105112)). Dir kënnt en ënner **Settings > Focus > Do Not Disturb > Set a Schedule** planen.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Wëscht vum Rand vum Écran no ënnen a tippt op **Do Not Disturb**, oder gitt op **Settings > Modes > Do Not Disturb** ([Googles Hëllef zu Do Not Disturb](https://support.google.com/android/answer/9069335?hl=en)). Ënner **Notification filters** kënnt Dir wielen, wéi Leit an Apps weiderhin duerchkommen. D'Astellungen variéieren no Hersteller.
 
-## How do I make a simple home screen?
+## Wéi maache ech en einfache Startbildschierm?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Hält e puer vertraut Apps op engem Écran a rëtscht de Rescht aus dem Siicht. Et gëtt keng eenzeg Astellung dofir; et geet ëm d'Entfernung vu Chaos.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Wielt dräi bis sechs Apps.** Zum Beispill Fotoen, Musek, eng Video-Ruffapp an ee Spill.
+- **Setzt se op den éischte Écran,** ëmmer op déi selwecht Plazen, an rëtscht alles anescht op en zweete Bildschierm oder an e Dossier.
+- **Benotzt e eifacht, kontrastreeche Hannergrond,** wéi eng eenzeg Faarf oder ee vertraute Foto, sou datt d'Symboler sech ofhiewen.
+- **Läscht Apps, déi Dir net braucht.** Manner Apps bedeiten manner Méiglechkeeten fir Verwirrung a manner gesammelt Daten.
+- **Denkt a Assistive Access** op Apple-Geräter, wann Dir wëllt, datt de Gerät dat fir Iech mécht.
 
-## What about volume and sound?
+## Wat ass mat Lautstäerkt an Toun?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Stellt eng bequem Lautstäerkt an, ier Dir de Gerät weiderginn. Mat Guided Access kënnt Dir d'Lautstäerkt-Knäppchen ausschalten, sou datt se sech wärend der Aktivitéit net veränneren. Kuckt, datt Hörgeräter dra sinn an funktionéieren.
 
-## Where should the tablet live?
+## Wou soll de Tablet leie?
 
-Give it a stand and a permanent charging spot.
+Gitt him en Standfouss an eng Plaz zum Lueden, déi bleift.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **E Standfouss oder eng Hülle,** déi de Tablet um Dësch opriicht, sou datt keen en halen muss an d'Beräiren méi einfach ass.
+- **Eng Laaderplaz,** déi ni wiesselt, am beschten e Lueden-Standfouss op engem Dësch an engem Zëmmer, dat Dir all Dag benotzt. De Tablet ass ëmmer gelueden an ëmmer op der selwechter Plaz.
+- **Reduzéiert Glanz.** Setzt den Écran weg vun engem hellen Fënster.
 
-## How much screen time is okay?
+## Wéi vill Bildschierm-Zäit ass a Rot?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Et gëtt keng richteg Zuel vu Minutten. Strebt kuerz, gemeinsam Sessiounen un, als een Deel vun engem ganze Dag, deen och Bewegung, Musek, Hausaarbechten, Gespréich a Zäit dobaussen enthält. Well voll Owenden d'Onrou um spéiden Nomëtteg kënnen erhéijen, kënnt Dir iwwerleeën, Bildschierm-Aktivitéiten op den Moien ze halen. Kuckt [roueg Aktivitéiten um spéiden Nomëtteg](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Wann Dir de Tablet gemeinsam benotzt an net als Beschäftegung, bleift et sozial. Eise Guide iwwer [zesumme spillen](/caregiving/how-to-play-together/) erkläert, wéi dat geet.
 
-## How do I protect their privacy on the device?
+## Wéi schützt ech hir Privatsphär um Gerät?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Begrenzt, wat Apps sammele kënnen, a glaabt net, datt d'Gesondheetsprivatsphär-Gesetz dat ofdeckt. D'U.S. Department of Health and Human Services (HHS) [erkläert](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html), datt d'HIPAA-Reegele Gesondheetsinformatiounen, déi op perséinleche Telefonen a Tablets gespäichert sinn oder dorop zougänglech sinn, allgemeng net schützen. Dacks schützt HIPAA och Daten, déi a privat benotzte Apps aginn ginn, net, ausser d'App kënnt vun engem gedeckte Gesondheetsdéngschtleeschter, enger Krankekeess oder engem vun hiren Geschäftspartner.
 
-HHS suggests:
+HHS rott:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- Vermeit onnéideg oder zoufälleg Apps, besonnesch "gratis" Apps;
+- gitt Apps keen Zougang zu der Standuert, ausser si brauchen en wierklech, wéi Kaarten.
 
-Also consider:
+Denkt och un:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Benotzt e Passcode** um Gerät, an hëlt eng Notiz dovun un enger sécherer Plaz.
+- **Kontrolléiert d'Berechtegungen** fir Fotoen, Kamera, Mikrofon, Kontakter a Standuert, a schalt aus, wat eng App net brauch.
+- **Kuckt, wat eng App sammelt,** ier Dir se installéiert. Eise Guide iwwer [Dementie-Apps a Spiller auswielen](/caregiving/choosing-apps-and-games/) huet eng Checkliste zur Privatsphär.
+- **Sidd virsiichteg mat Familljefotoen.** Deelt nëmmen Fotoe, mat deenen d'Persoun sech wuel fillt, an wësst, wou eng App se späichert. Bei [Photo Pairs](/games/photo-pairs/) bleiwen d'Fotoen, déi Dir wielt, anÄrem Browser.
+- **Schalt Käufe bannent der App aus** oder läscht Zuelungsdaten aus de Kontoe, déi d'Persoun benotzt.

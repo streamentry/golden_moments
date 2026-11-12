@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Wann eng Persoun mat Demenz d'selwecht Fro ëmmer erëm stellt"
+seoTitle: "Demenz a widderhuelend Froen: wat ze soen an ze maachen"
+description: "Warum eng Persoun mat Demenz déiselwecht Fro ëmmer erëm stellt, roueg Weeër fir ze äntweren, einfach Hëllefsmëttel a wéini eng plötzlech Ännerung en Dokter brauch."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Widderhuelend Froen si bei Demenz heefeg: d'Persoun erënnert sech meeschtens net, datt se d'Fro gestallt huet, an d'Fro dréit dacks eng Suerg mat sech. Äntwert roueg a kuerz, wéi wann et dat éischt Mol wier, gitt op d'Gefill hannert der Fro an sot ni „Dir hutt dat schonn gefrot“. Schreift d'Äntwert op, wou se se gesinn, schwätzt iwwer Eventer nëmmen kuerz virdrun a bitt eng agenehm Aktivitéit un. Eng plötzlech Ännerung brauch en Dokter.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "D'Persoun erënnert sech meeschtens net, d'Fro gestallt ze hunn; et ass net mat Absicht."
+  - "D'Fro verstéckt dacks en Gefill, wéi d'Suerg iwwer en Rendez-vous oder de Wonsch, sech sécher ze fillen."
+  - "Äntwert roueg, kuerz a frëndlech, wéi wann et dat éischt Mol wier. Sot ni „Dir hutt dat schonn gefrot“."
+  - "E Bréif, en Whiteboard, eng Auer oder e Kalenner an der Siicht kann d'Fro fir Iech beäntweren."
+  - "Erwähnt stresseg Eventer nëmme kuerz virdrun."
+  - "Hält eng kuerz Paus, wann Dir se braucht, a ruff en Dokter bei all plötzlecher Ännerung."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Firwat stellt mäi Papp mat Demenz d'selwecht Fro ëmmer erëm?"
+    a: "Demenz beaflosst d'Kuerzzäitgedächtnis, dofir kann et sinn, datt hie sech wierklech net erënnert, d'Fro gestallt oder d'Äntwert gehéiert ze hunn. Dacks dréit d'Fro och e Gefill mat, wéi d'Suerg iwwer dat, wat als nächst kënnt, oder de Bedarf no Beruhegung. Op dat Gefill anzegoen hëlleft meeschtens méi wéi d'Fakte ze widderhuelen."
+  - q: "Soll ech hinnen soen, datt se et schonn gefrot hunn?"
+    a: "Nee. Et kann hinnen net beim Erënnere hëllefen, an et kann sech wéi eng Korrektur uhéieren. Demenz-Organisatiounen rode, all Kéier roueg ze äntweren, wéi wann et dat éischt Mol wier, a d'Äntwert kuerz ze halen."
+  - q: "Hëlleft et, d'Äntwert opzeschreiwen?"
+    a: "Et kann, solange d'Persoun nach liesen kann. Eng Notiz, en Whiteboard mam Dagesplang, eng grouss Auer oder e Kalenner, wou se dacks kucken, léisst si d'Äntwert selwer nokucken. Weist sanft drop, amplaz ze soen „Ech hu dir et gesot“."
+  - q: "Wéini soll ech iwwer Rendez-vousen oder Ausflich schwätzen?"
+    a: "Nach nobäi dem Zäitpunkt. Wann Dir en Dokterbesuch oder eng Rees Deeg viru erwähnt, kann dat an Stonnen vu besuergte Froen ausarten. Sot hinnen et kuerz virdrun, roueg, mat deem, wat als nächst geschitt."
+  - q: "Wéini ass d'Widderhuele en Grond, en Dokter ze ruffen?"
+    a: "Wann Froen, Verwirrung oder Verhalen a Stonnen oder Deeg plötzlech änneren oder vill schlëmmer ginn, ruff hir Dokter direkt un. Infektiounen, en neit Medikament, Schmerz, Verstoppung oder Dehydratioun kënne plötzlech Verwirrung ausléisen, Delirium genannt, a dat brauch séier Versuergung."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +53,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Wéini ass den Dokter?“ Zéng Minutten méi spéit: „Wéini ass den Dokter?“ Déi selwecht Fro ëmmer erëm ze héieren, ass ee vun den ustrengendste Deeler, wann een eng Persoun mat Demenz betreit. Et ass ganz heefeg, et geschitt net mat Absicht, an et gi roueg Weeër fir ze äntweren, déi den Dag fir Iech bäid méi einfach maachen.
 
-## Why does someone with dementia ask the same question over and over?
+## Firwat stellt eng Persoun mat Demenz d'selwecht Fro ëmmer erëm?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Meeschtens wéinst dem Gedächtnis. Demenz beaflosst d'Kuerzzäitgedächtnis, sou datt d'Persoun dacks net dra denkt, d'Fro gestallt ze hunn, oder d'Äntwert net méi weess. D'[Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) beschreift, Froen ëmmer erëm ze stellen, als heefeg a normal.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+D'Fro dréit dacks och e Gefill mat. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) erkläert, datt eng widderhuelend Fro eng Suerg, eng Bitt ëm Hëllef oder Ängschtlechkeet an Onsécherheet ausdrécke kann, an datt d'Persoun dacks Trost a Vertrautheet sicht. „Wéini fuere mir?“ kann eigentlech heeschen „Ech sinn nervös, datt mir fueren.“ Langweil, Angscht, Lärm an Ännerungen am Rhythmus kënnen dat ausléisen, an eng widderhuelend Fro kann och e Bedierfnis uweisen, wéi d'Toilette ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Wat soll ech soen?
 
-Answer calmly and briefly, as if it were the first time.
+Äntwert roueg a kuerz, wéi wann et dat éischt Mol wier.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Hält d'Äntwert kuerz an d'selwecht.** „Den Dokter ass um zwee Auer. Ech sinn bei Iech.“ Eng konsequent Äntwert gëtt méi einfach opgeholl.
+- **Äntwert dem Gefill.** „Dir denkt un den Dokter. Et ass haut den Nomëtteg, an ech fueren eis. Dir musst näischt maachen.“
+- **Benotzt eng waarm Stëmm an, wann se Beréierung gär hunn, eng sanft Beréierung.** D'Alzheimer's Association rott, roueg ze bleiwen a keng Logik ze benotzen oder ze streiden.
+- **Gitt d'Äntwert, déi se sichen, sou oft wéi néideg.** D'Alzheimer's Association seet, se esou oft ze widderhuelen, wéi se et freet.
 
-## What should I avoid?
+## Wat soll ech vermeiden?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„Dir hutt mech dat schonn gefrot.“** D'[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rott dovun of, drop hinzeweisen, datt si et grad gefrot hunn. Dat hëlleft hinnen net beim Erënnere, a et kann sech wéi eng Zurechtweisung unhéieren.
+- **Laang Erklärungen.** Méi Wierder ginn méi Saachen, déi vergiess ginn.
+- **Séifzen, d'Ae verdréinen oder e schaarfe Ton.** Den [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) rott zu Geduld a keng Frustratioun ze weisen. Dat ass schwéier; kuckt de Abschnitt iwwer Paus ënnen.
 
-## Simple tools that answer the question for you
+## Einfach Hëllefsmëttel, déi d'Fro fir Iech beäntwerten
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Solange d'Persoun nach liesen kann, hëlleft eng geschriwwen Äntwert, déi se gesinn, dacks méi wéi eng gesprocheng.
 
-| Tool | How to use it |
+| Hëllefsmëttel | Wéi een et benotzt |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Eng Notiz a grousse Buschtawen | „Dokter haut um 2 pm. Mary fiert.“ Hänkt se do, wou se am meeschte kucken |
+| E Whiteboard | Den Dagesplang an dräi oder véier Zeilen; all Moien wëschen a nei schreiwen |
+| Eng grouss Auer mam Dag an dem Datum | Hëlleft bei „Wat fir en Dag ass et?“ an „Ass et schonn Zäit?“ |
+| E Kalenner | All Dag ofhaken; den nächsten Besuch ronderëm kreessen |
+| Vertraut Fotoe | E Foto vun der Persoun, déi kënnt, kann „Wien kënnt op Besuch?“ beäntweren |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Dës Iddien kommen vun der [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) an vun [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Weist sanft op d'Notiz („Kuckt zesummen op d'Tafel“), amplaz ze soen „Ech hunn dat fir Iech opgeschriwwen“.
 
-## Tell them about events close to the time
+## Eventer rechtzäiteg ernimmen
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+E Rendez-vous oder en Ausfluch Deeg virdrun ze ernimmen, kann an Stonnen vu besuergte Froen ausarten. D'Family Caregiver Alliance an Alzheimer's Los Angeles schloen béid vir, iwwer Pläng ze schwätzen, besonnesch iwwer staark belaaschtend, wéi Dokterbesich oder Duschen, nëmme kuerz virdrun. Dann sot, wat als nächst geschitt, Schrëtt fir Schrëtt.
 
-## Activities that can shift attention
+## Aktivitéiten, déi d'Opmierksamkeet ännere kënnen
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Wann Dir geäntwert hutt an d'Gefill unerkannt hutt, kann eng roueg, agreabel Aktivitéit hëllefen, besonnesch wann Langweil hannert de Froen steet. All Quell hei uewen rott, op eppes ëmzeleeden, wat d'Persoun gär huet.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **E kuerze, einfache Spill zesummen.** [Picture pairs](/games/picture-pairs/) hält d'Bilder siichtbar, sou datt näischt muss gemierkt ginn.
+2. **Eng vertraut Aufgab.** Handtéicher falen, Socke sortéieren oder den Dësch decken. [Sort together](/games/sort-together/) ass eng Bildschierm-Versioun dovun.
+3. **Iwwer eppes schwätzen, wat se gär hunn.** [Conversation cards](/games/conversation-cards/) bidden oppe Froen ouni richteg oder falsch Äntwerten.
+4. **Musek, e Spadséiergank oder e Snack.** Den National Institute on Aging nennt dës als einfach Weeër fir ëmzeleeden.
+5. **Eng roueg Paus.** Setzt Iech zesummen, kuckt duerch d'Fënster oder probéiert zesummen e Moment vun [calm breathing](/games/calm-breathing/).
 
-If they return to the question, answer it again, kindly. That is fine.
+Wann se op d'Fro zeréckkommen, äntwert nach eng Kéier, frëndlech. Dat ass a Rot.
 
-## Look for patterns
+## Muster kucken
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+D'Alzheimer's Association rott, ze kucken, ob d'Froen zu bestëmmte Tageszäiten, bei bestëmmte Leit oder op bestëmmte Plazen kommen. Wann se ëmmer ufänken, ier Besuch kënnt, oder um spéiden Nomëtteg, kënnt Dir virausplangen: eng Notiz iwwer de Besuch, eng vertraut Aktivitéit parat, e méi roueg Zëmmer. Eise Guide iwwer [roueg Aktivitéiten um spéiden Nomëtteg](/caregiving/late-day-restlessness/) kann hëllefen, wann d'Owenden am schwéierste sinn.
 
-## Take care of yourself
+## Sorgt fir Iech selwer
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Déi selwecht Fro fir déi zwanzegst Kéier ze beäntweren, ass erschöpfend. Wann Är Gedold ausgeet an d'Persoun a Sécherheet ass, gitt fir e puer Minutten an en aneren Zëmmer a schnaufft, wéi [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) proposéiert. Den [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encouragéiert Betreier, Hëllef ze froen an Entlaaschtungs-Pflege ze berücksichtegen. Méi Iddien stinn an eisem Guide iwwer [Selbstpflege fir Betreier](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Wéini soll ech en Dokter ruffen?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Ruff den Dokter vun der Persoun séier un, wann Froen, Verwirrung oder Verhalensännerungen plötzlech kommen oder a Stonnen oder Deeg vill schlëmmer ginn. Den [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) seet, datt plötzlech oder séier wiesselend Verhalen, besonnesch no enger Infektioun oder enger Medikamentenännerung, direkt dem Dokter gemellt solle ginn. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) erkläert, datt Infektiounen, Medikamenter, Dehydratioun, Schmerz oder Verstoppung Delirium ausléise kënnen, eng plötzlech, staark Verwirrung, déi séier Behandlung brauch. Ruff de lokalen Notruff un, wann iergendeen a Gefor ass.
