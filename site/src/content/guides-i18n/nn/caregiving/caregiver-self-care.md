@@ -1,7 +1,7 @@
 ---
 title: "Eigenomsorg for pårørande: avlasting, støtte og teikn på utbrenthet"
 seoTitle: "Eigenomsorg for pårørande ved demens: avlasting og støtte"
-description: "Teikn på utbrenthet hos pårørande, korleis du finn avlasting og støttegrupper, og gratis hjelpelinjer i USA, mellom anna Alzheimer's Association 24/7 Helpline og Eldercare Locator."
+description: "Teikn på utbrenthet, korleis du finn avlastning og støttegrupper, og gratis hjelpelinjer i USA som Alzheimer's Association 24/7 Helpline og Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25

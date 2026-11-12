@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Gedächtnisspiller fir eeler Leit mat Demenz: sanft Versioune, déi net testen"
+seoTitle: "Déi bescht Gedächtnisspiller bei Demenz: sanfte Iddien"
+description: "Matching-, Bild- a Kaartespiller fir eeler Leit mat Demenz, a wéi Dir se spillt, ouni Test: Bilder oben, weniger Päre, keng Punkten, zesumme spillen."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Gedächtnisspiller fir eeler Leit mat Demenz funktionéiere am besten, wann se net vum
+  Gedächtnis ofhänken. Spillt Matching-Spiller mat Bilder, déi oben liegen, mat véier
+  bis sechs Kaarten, zesumme als Team, ouni Punkten. Een Bild ze erkennen ass méi
+  einfach wéi ee sech u een ze erënneren, dofir wielt Spiller, bei deenen alles
+  siichtbar bleift. D'Ziel ass de Plaisir, net en Resultat.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Klassesch Gedächtnisspiller verstoppen d'Kaarten, an dat testet genau dat, wat Demenz schwéier mécht. Léiert d'Bilder stattdessen oben liegen."
+  - "Wéineg Stécker, gréisser Bilder an eng Wiel op eemol halen d'Spill schéin."
+  - "Spillt zesummen als Team, wiesselt Iech mat Hëllef of an verzichtet op d'Punkten. Keen soll an de Mëttelpunkt gestallt ginn."
+  - "Kee Gedächtnisspill huet bewisen, Demenz ze behandelen, ze verlangsamen oder opzehalen. Spillt, well et schéi Zäit zesummen ass."
+  - "Hält un, solang et nach Freed mécht. Iwwer d'Bilder ze schwätzen ass e gudden Resultat."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Wat ass en gudde Gedächtnisspill fir eng Persoun mat Demenz?"
+    a: "E Matching-Spill mat grousse, vertraute Bilder, déi oben kënne liegen, wéi Billerpuerer op véier oder sechs Kaarten. D'Zwillingsbild vun engem Bild ze fannen, dat Dir gesitt, ass zefriddestellend, ouni dat kuerzfristeg Gedächtnis ze testen. Dat selwecht fannen ass nach méi einfach, mat engem Bild, dat een aus zwee bis véier Wiel passt."
+  - q: "Hëllefe Gedächtnisspiller bei Demenz?"
+    a: "Kee Gedächtnisspill huet bewisen, Demenz ze behandelen, ze verlangsamen oder opzehalen. Eng Cochrane-Iwwersiicht huet festgestallt, dass d'Beweiser fir computerisierte Gehirntraining ze limitéiert sinn, fir ze soen, ob et Demenz verhënnert. Spiller kënnen trotzdem eng waarm Aart sinn, Zäit zesummen ze verbréngen. Wielt se fir de Plaisir an d'Gesellschaft."
+  - q: "Soll ech klassescht Concentration mat enger Persoun mat Demenz spillen?"
+    a: "Am Ufank hunn e puer Leit nach Freed drun, besonnesch mat enger klenger Unzuel Kaarten. Wann d'Erënnerung un d'Plaz vun de Kaarten Frustratioun bréngt, dréint d'Kaarten mat der Bildsäit no uewen a fannt d'Päre just zesumme. Dat hält d'Matching a léisst de Gedächtnistest weg."
+  - q: "Wat sinn gutt Gedächtnisspiller fir eeler Leit an enger Grupp?"
+    a: "Billerbingo mat engem Ruffer um Bildschierm, Sprëch fäerdegmaachen, déi een kennt, a Gespréichskaarten funktionéieren all an Gruppen. Spillt bis all Kaart voll ass, a ruff net aus, wien eng Äntwert hat, sou datt keen eleng dasteet."
+  - q: "Gëtt et gratis Gedächtnisspiller fir eeler Leit online?"
+    a: "Jo. D'Spiller op dëser Säit, dorënner Billerpuerer, Dat selwecht fannen, Fotopueren a Billerpuzzel, sinn gratis, brauchen keng Umeldung a funktionéieren op Telefonen, Tabletten a Computeren. Keen huet e Timer oder en Score."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Sicht Dir no „Gedächtnisspiller fir eeler Leit“, an Dir fannt meeschtens Sachen, déi fir Leit gemaach goufen, déi e mentalt Training wëllen: verstoppte Kaarten, Zäitlimitten, Niveauen a Punkten. Bei enger Persoun mat Demenz maachen dës Eegeschafte aus engem Spill e Test vun deem, wat schonn schwéier ass. Déiselwecht Spiller kënnen awer op eng gentille Aart gespillt ginn. Dës Säit weist, wéi, an hëlt Spiller op, déi an all Phase gutt funktionéieren.
 
-## Why do classic memory games frustrate people with dementia?
+## Firwat stierzen klassesch Gedächtnisspiller Leit mat Demenz?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Well se dorop bauen, nei Informatioun am Kapp ze halen, an dat ass meeschtens als Éischt dat, wat Alzheimer, déi heefegst Ursaach vun der Demenz, beaflosst. D'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) seet, dass dat heefegst fréi Symptom vun Alzheimer Schwieregkeeten sinn, sech u frësch geléiert Informatioun z'erënneren. Bei der klassescher Concentration dréit Dir zwou Kaarte ëm, merkt Iech, wou se louchen, a benotzt dat eng Minutt méi spéit. Dat ass nei Informatioun, gehalen a rëm opgeruff.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Setzt Dir e Timer, eng Punktzuel oder en Summer fir falsch Äntwerten dobäi, erënnert dat d'Persoun un dat, wat se net méi kann, virun engem Mënsch, deen se gär huet. Vill Leit hält einfach op, ze wëllen spillen.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Eng Saach ze erkennen, déi een gesäit, ass eng anerer an normalerweis méi einfach Aufgab. Op déi zweet Teesch ze weisen, wann nëmmen zwou gesi ginn, fillt sech gutt un. Den Trick ass also, d'Matching ze behalen a de Gedächtnistest fortzeloossen.
 
-## How do you make a memory game gentle?
+## Wéi maacht een en Gedächtnisspill sanft?
 
-These adjustments work for card games, board games and games on a screen.
+Dës Upassunge funktionéieren bei Kaarten-, Brettspiller a Spiller um Bildschierm.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Léiert d'Bilder oben liegen.** Bilder ze matchen, déi een gesäit, ass nach ëmmer e richtegt Spill, an dacks e befriddegendt.
+2. **Benotzt wéineg Stécker.** Fänkt mat zwee oder dräi Päre un. Nëmmen méi derbäi, wann et ze einfach ass an si méi wëllen.
+3. **Wielt grouss, vertraut, erwuessen Bilder.** E Teeschen, eng Sonnebléi, e Segelboot. Keng Cartoons a keng vollgeluede Szenen.
+4. **Spillt als Team.** „Loosst eis d'Hënn fannen“ amplaz „Dir sidd um Zuch.“ Wiesselt Iech mat Weisen a Hëllef of.
+5. **Léisst d'Punkten fort.** Keen muss gewannen. Wann een freet, reecht e einfaches „Mir hunn et gepackt“.
+6. **Rennt nie géint d'Auer.** Keng Timeren an kee Gedrängel tëscht de Ronnen.
+7. **Schwätzt iwwer d'Bilder.** „Kuckt dat Boot. Sidd Dir jeemools mat sengelt?“ Dat Gespréich ass dacks dee beschte Bestanddeel.
+8. **Hält op engem gudden Punkt.** Ophalen nom Match, wann et nach schéi sech unfillt.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gëtt déiselwecht Iddi als allgemeng Rot: d'Aktivitéit op dat ofstëmmen, wat d'Persoun kann, opmierksam sinn, wann se frustréiert ass, a sécher sinn, datt se sech erfollegräich fillt.
 
-## Gentle memory and matching games to try
+## Sanft Gedächtnis- an Matching-Spiller fir ze probéieren
 
-### Picture pairs (matching with pictures showing)
+### Billerpuerer (Matching mat sichtbare Biller)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Billerpuerer](/games/picture-pairs/) ass e Matching-Spill mat grousse Bilder an 4 bis 12 Kaarten. D'Bilder kënnen siichtbar bleiwen, dofir geet et ëm d'Fannen vun den Zwillingen, net ëm d'Erënnerung u d'Plaz. Fänkt mat véier Kaarten un. Fir eng Persoun an der fréier Phase, déi e bësse méi Erausfuerderung gär huet, kënnt Dir op **Verstoppte Biller** wiessele, mee geet direkt zréck op de Bilder-Modus, sobal et Freed verléiert.
 
-### Find the same
+### Dat selwecht fannen
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Dat selwecht fannen](/games/find-the-same/) weist e Bild uewen an zwee bis véier Wiel drënner. Tippt op dat, wat passt. Et ass dat einfachst Matching-Spill op der Säit a passt fir Leit, déi en voll Gitter ze vill fannen, och vill an den spéiderer Phasen, wann een nieft hinne sëtzt.
 
-### Photo pairs (family photo memory game)
+### Fotopueren (Gedächtnisspill mat Familljefotoe)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Fotopueren](/games/photo-pairs/) mécht Fotoe, déi Dir auswielt, zu engem Matching-Spill: den Hond, de Gaart, d'Haus um See. Vertraut Gesiichter a Plazen bréngen dacks méi Gespréich a Gang wéi all Stockbild. D'Fotoe bleiwen an Ärem Browser a ginn ni eropgelueden.
 
-### Sort together
+### Zesumme sortéieren
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Zesumme sortéieren](/games/sort-together/) bieft Iech un, all Bild an de Kuerf ze leeën, wou et hieleng gehéiert, zum Beispill an d'Kichen oder an de Gaart. Sortéieren zitt op laang bestehend Wëssen zréck, wéi d'Welt funktionéiert, net op kuerzfristeg Erënnerung.
 
-### Picture puzzle
+### Bildpuzzel
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Billerpuzzel](/games/picture-puzzle/) deelt e Bild an 4 oder 9 Stécker. Tippt zwee Stécker un, fir se ze tauschen, bis d'Bild ganz ass. Dat ganzt Bild bleift um Bildschierm als Guide.
 
-### Real cards on the table
+### Richteg Kaarten um Dësch
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Dir braucht kee Bildschierm. Huelt zwee Kaartespiller oder en Set mat Bildkaarten an huelt passend Päre eraus. Leet se mat der Bildsäit no uewen an zwou Reien a fannt d'Päre zesummen. Méi spéit kënnt Dir no Faarf oder Serie sortéieren. D'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nennt Kaarte- a Brettspiller ënnert den Aktivitéiten fir déi fréi Phase.
 
-## Which memory games suit each stage?
+## Wéi Gedächtnisspiller passen zu all Phase?
 
-Stages are loose labels. Go by what the person enjoys today.
+Phasen sinn grob Etiketten. Gitt no deem, wat d'Persoun haut genéisst.
 
-| Stage | Games that often fit | How to set them up |
+| Phase | Spiller, déi dacks passen | Wéi se opsetzen |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Fréi | Billerpuerer, Fotopueren, Billerpuzzel mat 9 Stécker, vertraut Kaartespiller | Léiert d'Persoun wielen. Stécker kënnen ëmgedréit ginn, wann se et genéisst; loosst d'Punkten fort, wann se stéiert |
+| Mëttler | Billerpuerer mat 4 bis 6 Kaarten oben, Dat selwecht fannen, Zesumme sortéieren | Bilder ëmmer siichtbar. Sëtzt nieft hinnen a wiesselt Iech mat Hëllef of |
+| Spéit | Dat selwecht fannen mat zwou Wiel, zesumme ee grousst Bild kucken | Ganz kuerz. Dir hält den Tablet; si weist mat dem Fanger oder kuckt just a lauschtert |
 
-## Do memory games help with dementia?
+## Hëllefe Gedächtnisspiller bei Demenz?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Kee Gedächtnisspill huet bewisen, Demenz ze behandelen, ze verlangsamen oder opzehalen. Eng [Cochrane-Iwwersiicht](https://pubmed.ncbi.nlm.nih.gov/30864747/) vu computerisiertem kognitivem Training bei Leit mat mildem kognitivem Defizit huet festgestallt, dass d'Beweiser ze limitéiert sinn, fir ze soen, ob et Demenz verhënnert. Eise Guide zu [Gehirntraining a Demenz](/brain-health/brain-games/) erkläert, wat Studien weisen an wat net.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Dat ass keen Grond, Spiller ze skippen. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) rät, sech op de Plaisir ze konzentréieren, net op Leeschtung. Zéng Minutten Biller matchen an doriwwer schwätzen kënnen en richtegen gudden Deel vum Dag sinn.
 
-## What about memory games for seniors without dementia?
+## Wat ass mat Gedächtnisspiller fir eeler Leit ouni Demenz?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Wann e eeler Erwuessene ouni Gedächtnisproblemer Spiller mat Zäitlimit, Punkten a schwéiere Niveauen gär huet, ass dat ok. Verlooss Iech just net dorop, datt et virun Demenz schützt; kee Spill huet dat bewisen. Déi sanften Versiounen hei funktionéieren och gutt, wann d'Generatiounen zesummen spillen: en Grousselter mat Demenz an en jonkt Enkelkand kënnen zesummen Biller matchen, a keen vun hinnen gëtt getest.
 
-## When should you stop or change the game?
+## Wann sollt ech stoppen oder d'Spill wiesselen?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Seufzen, den Tablet fortschieben, sou eppes sou „Ech kann dat net“ oder ängschtlech Ausgesinn sinn all Zeechen, fir et méi einfach ze maachen oder ze stoppen. Probéiert weniger Stécker, dréint d'Bilder mat der Bildsäit no uewen, wiesselt op [Dat selwecht fannen](/games/find-the-same/) oder kuckt einfach d'Bilder un a schwätzt. Wann si iwwerhaapt net wëlle spillen, ass dat och ok. Eise Guide zu [wéi een zesumme spillt](/caregiving/how-to-play-together/) huet méi Tipps zum Tempo a Mëtmaachen.

@@ -73,7 +73,7 @@ health: false
 
 ## Kvifor spør nokon med demens stadig om å reise heim?
 
-Vanlegvis er «heim» meir ei kjensle enn ein stad. [Alzheimer's Society](https://www.alzheimers.org.uk/blog/i-want-go-home-what-to-say-to-someone-in-dementia-care)
+Vanlegvis er «heim» meir ei kjensle enn ein stad. Alzheimer's Society
 skildrar det som ei kjensle av trøyst og tryggleik, eller ein heim frå fortida, heller enn sjølve huset. Demens kan gjere kjende rom framande, og ein person kan kjenne seg som om dei lever i ei tidlegare tid i livet, då heimen var barndomshuset eller staden der dei fekk barna sine.
 
 Orda kan òg vere eit teikn på at noko anna er gale akkurat no: dei er sultne, tørste, må på toalettet, har vondt, er for varme eller kalde, er trøytte, einsame, redde eller overvelda av støy. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)

@@ -11,7 +11,7 @@ summary: >-
   tyder på at søvn kan hjelpe hjernen med å rense ut avfall. Bevisa er framleis tidlege, og Lancet-kommisjonen i 2024 tok ikkje med søvn som ein risikofaktor som kan endrast. Faste søvnvanar hjelper
   korleis du har det frå dag til dag. Søvnproblem ved demens er vanlege og bør takast opp med lege.
 keyPoints:
-  - "Ei britisk studie som fulgde om lag 8 000 menneske i 25 år, kopla søvn på seks timar eller mindre i midtlivet til høgare risiko for demens."
+  - "Ei britisk studie som fulgde om lag 8000 menneske i 25 år, kopla søvn på seks timar eller mindre i midtlivet til høgare risiko for demens."
   - "Endringar i søvnen kan òg vere eit tidleg teikn på demens, så det er vanskeleg å skilje årsak frå verknad."
   - "Forskinga på at søvn fjernar beta-amyloid frå hjernen er reell, men tidleg, og mykje av henne er gjord på mus."
   - "Søvnapné er vanleg, kan behandlast og er kopla til demens i studiar. Høgt snork og søvnig dagar bør sjekkast."
@@ -67,7 +67,7 @@ samtalen høyrer heime hos lege.
 Somme langsiktige studiar kopler kort søvn til høgare risiko for demens, men
 bevisa er ikkje avklara.
 
-- **Ein britisk studie over 25 år.** Forskarane fulgde om lag 8 000 vaksne i
+- **Ein britisk studie over 25 år.** Forskarane fulgde om lag 8000 vaksne i
   [Whitehall II-studien](https://www.nature.com/articles/s41467-021-22354-2).
   Dei som sov seks timar eller mindre i 50- eller 60-årsalderen, hadde høgare
   risiko for å få demens seinare enn dei som sov sju timar. Dei som sov seks
