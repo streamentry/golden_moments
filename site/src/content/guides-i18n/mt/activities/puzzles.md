@@ -1,32 +1,31 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzles għad-dimenzja: Jigsaws u puzzles tal-kliem"
+seoTitle: "Puzzles għad-dimenzja: Jigsaws u puzzles tal-kliem"
+description: "Kif tagħżel jigsaw, puzzle tal-kliem jew puzzle online għal persuna bid-dimenzja: daqs tal-biċċiet, ritratti, kitba kbira u meta tagħmlu aktar sempliċi."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  L-aħjar puzzle għal persuna bid-dimenzja huwa wieħed li tista’ tlesti b’ftit għajnuna u tgawdi
+  matul il-proċess. Agħżel jigsaws b’inqas biċċiet kbar u ritratt ċar għall-adulti, żomm ir-ritratt
+  tal-kaxxa viżibbli, u aqsam il-biċċiet tat-tarf l-ewwel. Puzzles tal-kliem jaħdmu l-aħjar b’kitba
+  kbira. Puzzles online sempliċi b’erba’ biċċiet jaqblu mal-istadju ta’ nofs. Waqqaf meta jibqa’ pjaċevoli.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Agħżel skont kif jaħdem, mhux skont it-tikketta tal-istadju: jekk puzzle jidher bħal xogħol, ipprova wieħed b’inqas biċċiet."
+  - "Biċċiet kbar u qawwija u ritratt ċar b’żoni distinti ta’ kulur huma aktar faċli milli biċċiet żgħar u sema kbir."
+  - "Ritratti għall-adulti jagħmlu differenza. Ġonna, kuċini, karozzi u annimali, mhux karikaturi."
+  - "Li tagħmluha flimkien huwa l-punt. Aqsam il-biċċiet, aqsam it-truf u żomm il-għatu tal-kaxxa viżibbli."
+  - "Puzzles tal-kliem b’kitba kbira u puzzles online b’4 jew 9 biċċiet huma b’xejn fuq dan is-sit."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Kemm għandu jkun l-għadd tal-biċċiet tajjeb għal persuna bid-dimenzja?"
+    a: "M’hemm l-ebda numru korrett wieħed. Persuna li għamlet puzzles ta’ 1,000 biċċa tista’ xorta tgawdi ftit mijiet fil-bidu, filwaqt li oħrajn l-aktar kuntenti b’tnax-il biċċa kbira. Jekk puzzle jidher bħal xogħol jew jikkawża frustrazzjoni, mur għal inqas biċċiet. Il-Picture puzzle tagħna online għandu 4 jew 9 biċċiet."
+  - q: "Il-jigsaws huma tajbin għal persuni bid-dimenzja?"
+    a: "Ħafna jgawduhom, speċjalment jekk kienu jħobbu l-puzzles qabel. Puzzle jagħti lill-idejn xi ħaġa x’tagħmel, għan ċar u ritratt biex titkellem dwaru. Ebda puzzle ma ntwera li jikkura jew jgħaffi d-dimenzja, għalhekk agħżel dawn għall-pjaċir u l-kumpanija."
+  - q: "X’nagħmel meta xi ħadd ma jibqax jaħdem jigsaw?"
+    a: "Agħmilha iqsar u agħmel int aktar minnha: agħti biċċa waħda kull darba, jew ħalli biss l-aħħar ftit biċċiet għalihom. Ipprova puzzle online b’4 biċċiet, qsim tal-biċċiet skont il-kulur, jew sempliċiment ħares lejn ir-ritratt tlesta flimkien."
+  - q: "Il-puzzles tal-kliem u l-word searches huma xierqa għad-dimenzja?"
+    a: "Jistgħu jkunu fl-istadju bikri, b’kitba kbira. Word searches bil-kliem biss fuq u isfel huma aktar faċli minn dawk b’kliem dijagonali jew lura. Aqra l-mistoqsijiet jew il-lista tal-kliem b’leħen għoli u ħadmu flimkien fuqha."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +44,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Jigsaw mxerred fuq il-mejda tal-kolazzjon huwa wieħed mill-aktar attivitajiet sempliċi biex tqsam. Tista’ tqgħod flimkien mingħajr ma jkollok bżonn titkellmu, ir-ritratt jagħtik xi ħaġa x’titkellmu dwarha, u t-tqegħid tal-aħħar biċċa jħoss tajjeb. Puzzles iridu jinbidlu madankollu, hekk kif id-dimenzja tinbidel. Puzzle li jkun wisq iebes jista’ jaqleb filgħaxija kwieta f’waħda ta’ frustrazzjoni. Din il-paġna tkopri kif tagħżel u tqiegħed jigsaws, puzzles tal-kliem u puzzles online sempliċi, u x’tagħmel meta jsiru iebsin.
 
-## Are puzzles good for people with dementia?
+## Il-puzzles jaħdmu tajjeb għal persuni bid-dimenzja?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Ħafna nies jgawduhom, speċjalment dawk li għamlu puzzles qabel. L-[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) jelenka l-word finds, il-logħbiet tal-karti u tal-bord fost l-attivitajiet għall-istadju bikri, u l-[NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) isemmi logħbiet u puzzles online fuq tablets bħala mod wieħed biex tibqa’ involut.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Il-puzzles mhumiex trattament. Ebda puzzle ma ntwera li jgħaffi jew iwaqqaf id-dimenzja; il-gwida tagħna dwar [logħbiet tal-moħħ u d-dimenzja](/brain-health/brain-games/) tispjega r-riċerka. Ir-raġuni għal puzzle hija li jista’ jkun siegħa pjaċevoli u assorbenti flimkien. L-[Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) jgħidha f’sentenza: iffoka fuq il-pjaċir, mhux fuq il-kisba.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kif tagħżel jigsaw għal persuna bid-dimenzja?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Ibbaża l-għażla fuq dak li l-persuna tgawdi u kif kien l-aħħar puzzle, mhux fuq tikketta ta’ stadju.
 
-### Number of pieces
+### Għadd tal-biċċiet
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+M’hemm l-ebda numru korrett. Min għamel puzzles tul ħajtu jista’ xorta jgawdi ftit mijiet ta’ biċċiet fil-bidu, filwaqt li oħrajn ikunu l-aktar kuntenti b’tnax-il biċċa. Regola prattika: jekk l-aħħar puzzle ħass bħal xogħol, agħżel wieħed b’madwar nofs il-biċċiet. Jekk intemm malajr u riedu aktar, żid ftit.
 
-### Piece size and feel
+### Daqs u sensazzjoni tal-biċċiet
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Biċċiet akbar** huma aktar faċli biex jidhru, jinqabdu u jiddawru.
+- **Biċċiet ħoxnin u qawwija** jibqgħu f’posthom u jgħixu meta jaqgħu.
+- **Finitura opaka** tnaqqas il-brillanza taħt dwal u twieqi.
+- **Evita biċċiet żgħar** jekk il-persuna tista’ tqiegħed affarijiet f’fommha, li jista’ jiġri aktar tard fid-dimenzja.
 
-### The picture
+### Ir-ritratt
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Suġġetti għall-adulti.** Ġonna, kuċini, karozzi qodma, annimali tar-razzett, belt baħrija, sport favorit. Mhux karikaturi jew xi ħaġa li tidher bħal ġugarell tat-tfal.
+- **Żoni distinti ta’ kulur.** Xadina ħamra, dgħajsa blu u għalqa ħadra huma aktar faċli milli sema li jimla nofs il-puzzle.
+- **Familjari u personali.** Ritratt ta’ post fejn għexu jew ta’ hobby li għoġbuhom jagħtik ħafna x’titkellem dwaru. Xi stampaturi jistgħu jħawlu ritratt tal-familja f’jigsaw.
 
-## How do you do a puzzle together?
+## Kif tagħmel puzzle flimkien?
 
-Set it up so the person can get straight to the enjoyable part.
+Itpoġġih b’mod li l-persuna tkun tista’ tilħaq direttament il-parti pjaċevoli.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Agħżel post tajjeb.** Dawl tajjeb, siġġu bl-idejn, u mejda jew tabella fejn il-puzzle jista’ jibqa’ barra.
+2. **Ħalli l-għatu tal-kaxxa mxejjed** fejn tirawh tnejnkom.
+3. **Qalleb il-biċċiet** qabel tibda.
+4. **Aqsam it-truf int,** jew agħmel il-bordura l-ewwel u ħalli n-nofs għalihom.
+5. **Aqsam il-biċċiet skont il-kulur** f’ftit tabelli baxxi jew platti.
+6. **Agħti biċċa waħda kull darba** jekk il-pila tkun sopraffatta. “Naħseb li din hi parti mix-xadina.”
+7. **Itkellem dwar ir-ritratt,** mhux dwar il-progress. “Dan jixbah id-dgħajsa li kellu missieri.”
+8. **Ħalliha barra.** Erġa’ ara fiha matul diversi ġranet. M’hemm l-ebda għaġla.
+9. **Waqqaf b’nota tajba,** wara li tinħadem biċċa, waqt li għadu jidher pjaċevoli.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+In-[NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jagħti parir biex tgħin lill-persuna tibda, tara għal frustrazzjoni u tħalliha sempliċiment tara jekk dan tgawdih aktar. Li tqiegħed biċċiet u tindika fejn waħda tista’ tmur, xorta huwa sehem.
 
-## Easy online puzzles
+## Puzzles online sempliċi
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Puzzle fuq tablet għandu xi vantaġġi reali: m’hemm l-ebda biċċa mitlufa, ritratti kbar li jimlew l-iskrin, u m’hemmx mejda biex titnaddaf.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Il-[Picture puzzle](/games/picture-puzzle/) b’xejn tagħna taqsam ritratt f’4 jew 9 biċċiet. Ikklikkja żewġ biċċiet biex tbiddilhom sakemm ir-ritratt jiġi sħiħ. Ir-ritratt kollu jibqa’ fuq l-iskrin bħala gwida, m’hemm l-ebda timer, u tista’ tieqaf fi kwalunkwe ħin. Erba’ biċċiet jaqblu ma’ ħafna nies fl-istadju ta’ nofs b’xi ħadd qrib.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Għal logħba tar-ritratti aktar sempliċi, ipprova [Find the same](/games/find-the-same/), fejn tikklikkja r-ritratt li jaqbel ma’ wieħed fil-quċċata, jew [Sort together](/games/sort-together/), fejn ir-ritratti jmorru f’basketti bħall-kuċina jew il-ġnien.
 
-## Word puzzles: word searches and crosswords
+## Puzzles tal-kliem: word searches u crosswords
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Puzzles tal-kliem jaqblu ma’ nies li dejjem gawdewhom, ġeneralment qabel fid-dimenzja.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Word search b’kitba kbira.** Il-[word search](/games/word-search/) tagħna b’xejn juża ittri kbar u ftit kliem biss, miktub fuq u isfel, qatt dijagonali jew lura. Tista’ tilgħabha fuq l-iskrin jew tistampaha.
+- **Aqra l-lista b’leħen għoli.** Persuna waħda taqra kelma, l-oħra tfittixha. Tiċċirkonda l-ewwel ittra biss hija tajba.
+- **Crosswords b’kitba kbira** minn kotba tal-puzzles jistgħu jaħdmu fil-bidu. Aqra l-indizji b’leħen għoli, aqsmu l-pinna u imlew it-tweġibiet flimkien. Crosswords sempliċi u b’tema huma aħjar minn dawk kriptiċi.
+- **Itkellmu dwar il-kliem.** “Ġnien” jista’ jwassal għal għaxar minuti dwar it-tadam.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Għal aktar attivitajiet fuq il-karta u kif tistampahom biex jidhru u jinżammu faċilment, ara [attivitajiet stampabbli b’xejn](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Liema puzzles jaqblu ma’ kull stadju?
 
-Stages overlap, and good and hard days are normal.
+L-istadji jaqbżu lil xulxin, u jiem tajbin u iebsin huma normali.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadju | Puzzles li spiss jaqblu | Ir-rwol tiegħek |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Bikri | Jigsaws familjari b’inqas biċċiet minn qabel, crosswords u word searches b’kitba kbira, puzzles online b’9 biċċiet | Sieħeb: ħalliha tagħżel, għin meta jintalab |
+| Nofs | Jigsaws b’madwar tnax-il biċċa kbira, puzzles online b’4 biċċiet, word search maqrija b’leħen għoli flimkien | Waqqaf, aqsam il-biċċiet, agħti biċċa waħda kull darba |
+| Tardiv | Ħares flimkien ritratt tlesta, Find the same b’żewġ ritratti, tmiss ftit biċċiet kbar | Ġib lilhom il-puzzle; il-kumpanija tiegħek hija l-attività |
 
-## When should you make a puzzle easier, or stop?
+## Meta għandek tagħmel puzzle aktar faċli, jew tieqaf?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Oqgħod attent għal xi ħruq, għat-tbegħid tal-biċċiet, għal “ma nistax” ripetut jew għal ħarsiet imħassba. Dawn huma sinjali biex tbiddel xi ħaġa, mhux biex tagħfas.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Agħmlu iżgħar.** Inqas biċċiet, jew ħalli biss l-aħħar ftit għalihom.
+- **Agħmel int aktar minnu** u stiedha tgħin fil-partijiet faċli.
+- **Aqleb għal xi ħaġa qrib:** qsim tal-biċċiet skont il-kulur, puzzle online b’4 biċċiet, jew [kulur](/games/coloring/).
+- **Waqqaf.** Poġġih ’il bogħod u ieħu tazza tè. Tista’ terġa’ tiġi lura għalih f’jum ieħor, jew xejn.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Jekk puzzles jibdew jidhru bħala tfakkira ta’ dak li hu iebes, huwa tajjeb li tħalli jmorru. Hemm ħafna modi oħra biex tqattgħu ħin tajjeb flimkien; il-[101 ideat għall-attivitajiet](/activities/ideas/) tagħna huwa post tajjeb biex tfittex.
