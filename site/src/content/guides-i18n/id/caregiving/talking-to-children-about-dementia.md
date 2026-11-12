@@ -1,7 +1,7 @@
 ---
 title: "Berbicara dengan Anak tentang Demensia"
 seoTitle: "Cara Bicara dengan Anak tentang Demensia"
-description: "Jelaskan demensia kepada anak dengan jawaban jujur yang sesuai usianya. Jaga rutinitas dan privasinya, dorong pertanyaan, dan serahkan tanggung jawab perawatan pada orang dewasa."
+description: "Jelaskan demensia kepada anak dengan jawaban jujur yang sesuai usianya. Jaga rutinitas dan privasinya, dorong pertanyaan, dan serahkan perawatan pada orang dewasa."
 section: caregiving
 order: 29
 updated: 2026-11-11

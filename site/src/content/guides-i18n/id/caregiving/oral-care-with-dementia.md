@@ -1,7 +1,7 @@
 ---
 title: "Perawatan Mulut untuk Orang dengan Demensia"
 seoTitle: "Perawatan Gigi untuk Orang dengan Demensia"
-description: "Bantu orang dengan demensia menjaga rutinitas mulut yang familiar dengan isyarat sederhana, izin, dan dukungan dokter gigi untuk nyeri, gigi palsu, atau masalah baru."
+description: "Bantu orang dengan demensia menjaga rutinitas mulut yang familiar: isyarat sederhana, izin, dan dukungan dokter gigi untuk nyeri, gigi palsu, atau masalah baru."
 section: caregiving
 order: 16
 updated: 2026-11-11
