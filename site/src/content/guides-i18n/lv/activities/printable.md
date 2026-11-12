@@ -1,33 +1,28 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Bezmaksas drukājamas aktivitātes demencei"
+seoTitle: "Bezmaksas drukājamas aktivitātes demencei: liels teksts"
+description: "Bezmaksas drukājamas aktivitātes demencei: vārdu meklēšana lielā drukā, krāsojamās lapas, sarunu kartītes un attēlu bingo, kā tās labi izdrukāt."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments piedāvā bezmaksas drukājamas aktivitātes demencei: vārdu meklēšanu lielā drukā, krāsojamās lapas, attēlu sarunu kartītes un attēlu bingo kartītes. Atveriet jebkuras spēles lapu un izmantojiet tās pogu Drukāt. Drukājiet lielā, vienkāršā tekstā uz biezāka papīra, vienā lapā turiet vienu uzdevumu un laminējiet lapas, ko vēlaties izmantot atkārtoti. Arī vienkāršas pašu veidotas lapas, piemēram, dzīves stāsta lapa vai dienas grafiks, var palīdzēt.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Mūsu drukājamās aktivitātes ir bezmaksas: vārdu meklēšana, krāsošana, sarunu kartītes un attēlu bingo. Katrai spēles lapai ir poga Drukāt."
+  - "Drukājiet lielā, vienkāršā tekstā ar spēcīgu kontrastu un vienā lapā turiet vienu uzdevumu."
+  - "Biezs papīrs vai kartons ir vieglāk turams un mazāk saburzās. Laminējiet lapas, lai tās varētu izmantot atkārtoti ar sausajiem dzēšamajiem marķieriem."
+  - "Pašu veidotas lapas, piemēram, dzīves stāsta lapa, dienas grafiks vai attēlu uzlīmes durvīm, ir vienkāršas un noderīgas."
+  - "Izdrukāta lapa ir uzaicinājums, nevis mājasdarbs. Ja padarīts ir tikai daļa vai nekas, tas ir labi."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Vai jūsu drukājamās aktivitātes demencei ir bezmaksas?"
+    a: "Jā. Vārdu meklēšana, krāsošana, sarunu kartītes un attēlu bingo lapas šajā vietnē ir bezmaksas lietošanai un drukāšanai. Atveriet spēles lapu un izmantojiet pogu Drukāt."
+  - q: "Kādas drukājamās aktivitātes ir labākās demencei?"
+    a: "Labākās drukājamās lapas ir vienkāršas, skaidras un pieaugušajiem atbilstošas: vārdu meklēšana lielā drukā ar vārdiem tikai horizontāli un vertikāli, krāsojamas lapas ar skaidriem kontūrām, attēlu kartītes, kas rosina sarunu, un attēlu bingo grupām. Pielāgojiet aktivitāti cilvēka interesēm un pašreizējām spējām un turiet vienu uzdevumu vienā lapā."
+  - q: "Kā padarīt drukājamās lapas vieglāk redzamas un lietojamas?"
+    a: "Izmantojiet lielu, vienkāršu tekstu, tumšu tinti uz balta vai krēmkrāsas papīra un daudz vietas. Drukājiet uz biezāka papīra vai kartona, lai lapa paliek plakana, izvēlieties matētu papīru, lai mazinātu atspīdumu, un izmantojiet dēlīti vai neslīdošu paliktni, lai lapa nekustētos. Laminēšana palīdz lapām ilgāk kalpot."
+  - q: "Vai drīkstu izdrukāt jūsu aktivitātes aprūpes namam vai dienas programmai?"
+    a: "Jā. Aktivitāšu darbinieki laipni aicināti drukāt mūsu lapas iemītniekiem un grupām. Attēlu bingo ir paredzēts grupām, un tajā ir ekrāna vadītājs, ko var rādīt televizorā vai projektorā."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +47,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Dažreiz labākā aktivitāte ir papīra lapa un pildspalva virtuves galdā. Drukājamām lapām nav nepieciešama uzlāde, paroles vai ekrāns, un tās ir viegli paņemt līdzi uz apmeklējumu vai grupu. Šajā lapā aprakstītas mūsu vietnes bezmaksas drukājamās aktivitātes, kā tās izdrukāt, lai tās būtu viegli redzamas un turamas, un dažas vienkāršas pašu veidotas lapas, ko ģimenes un aktivitāšu darbinieki atzinuši par noderīgām.
 
-## What free printable activities do you offer?
+## Kādas bezmaksas drukājamas aktivitātes ir pieejamas?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Piedāvājam četras bezmaksas drukājamas lapas. Atveriet jebkuru no šīm spēļu lapām un izmantojiet pogu **Drukāt**, lai iegūtu versiju drukāšanai.
 
-| Printable | What it is | Good for |
+| Drukājamā lapa | Kas tas ir | Kam der |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Vārdu meklēšana](/games/word-search/) | Vārdu meklēšana lielā drukā, kur vārdi ir tikai horizontāli un vertikāli | Kluss laiks ar pildspalvu; cilvēkam, kam patika mīklas |
+| [Krāsošana](/games/coloring/) | Krāsojamas lapas, ko izdrukāt vai krāsot ekrānā | Atslābinošs, radošs laiks; jebkurā stadijā ar palīdzību |
+| [Sarunu kartītes](/games/conversation-cards/) | Attēlu kartītes ar atklātiem sarunu jautājumiem bez pārbaudes, pēc tēmām | Apmeklējumi, zvani, ģimenes maltītes, atmiņu grupas |
+| [Attēlu bingo](/games/picture-bingo/) | Bingo kartītes ar attēliem skaitļu vietā un ekrāna vadītājs | Aprūpes nami, dienas programmas, ģimenes salidojumi |
 
-### Large-print word search
+### Vārdu meklēšana lielā drukā
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Vārdu meklēšanā](/games/word-search/) ir lieli burti, un vārdi ir tikai horizontāli un vertikāli, bez diagonālēm un atpakaļ lasāmiem vārdiem. Strādājiet kopā: viens cilvēks nolasa vārdu no saraksta, otrs to meklē. Ja vārdu atrašana kļūst grūta, izmēģiniet kopā apvilkt katra vārda pirmo burtu vai vienkārši nolasīt vārdu sarakstu skaļi un pārrunāt katru vārdu.
 
-### Coloring pages
+### Krāsojamās lapas
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Krāsošanas](/games/coloring/) lapas var izdrukāt krāsošanai ar marķieriem vai krāsu zīmuļiem, vai krāsot planšetē, pieskaroties krāsai un pēc tam attēla daļai. Izdrukātām lapām piedāvājiet biezus marķierus un dažas krāsas vienlaikus. Skatiet mūsu [amatniecības ceļvedi](/activities/arts-and-crafts/), kā krāsošanu saglabāt pieaugušai un atslābinošai.
 
-### Conversation cards
+### Sarunu kartītes
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Sarunu kartītes](/games/conversation-cards/) sapāro skaidru attēlu ar atklātu uzaicinājumu, piemēram, „Pastāstiet man par...” vai „Ko jūs pamanāt?” Tās rakstītas kā atklāti uzaicinājumi, nevis viktorīnas jautājumi. Izdrukājiet komplektu, izgrieziet kartītes un turiet dažas somā apmeklējumiem vai pie tālruņa zvaniem. Tās labi darbojas arī [atmiņu](/activities/reminiscence/) grupās.
 
-### Picture bingo cards
+### Attēlu bingo kartītes
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Attēlu bingo](/games/picture-bingo/) kartītēs ir attēli, nevis cipari. Izdrukājiet vienu kartīti katram dalībniekam un izmantojiet ekrāna vadītāju klēpjdatorā, televizorā vai projektorā. Mēs iesakām saukt, līdz visu kartītes ir pilnas, lai neviens netiek atstāts malā. Skatiet [grupu aktivitātes aprūpes namiem](/activities/care-home-groups/), kā vadīt nodarbību.
 
-## How do I print activities so they are easy to use?
+## Kā drukāt aktivitātes, lai tās būtu viegli lietojamas?
 
-Small changes in how you print make a big difference.
+Nelieli izdrukas iestatījumu pielāgojumi dod lielu atšķirību.
 
-### Make it easy to see
+### Padariet viegli redzamu
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Liels, vienkāršs teksts.** Izmantojiet lielāko drukas izmēru, kas vēl ietilpst lapā. Izvairieties no dekoratīviem vai rokraksta fontiem.
+- **Spēcīgs kontrasts.** Tumša tinte uz balta vai krēmkrāsas papīra. Izvairieties no bāli pelēkiem vai krāsainiem fona.
+- **Matēts papīrs** mazina atspīdumu spilgtā apgaismojumā.
+- **Pārbaudiet brilles un apgaismojumu.** Alzheimer's Association norāda, ka redzes un dzirdes problēmas var padarīt saziņu grūtāku, un iesaka tās regulāri pārbaudīt. Arī spilgta, vienmērīga lampa palīdz.
 
-### Make it easy to hold
+### Padariet viegli turamu
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Biezs papīrs vai kartons** paliek plakans, to ir vieglāk paņemt, un tas iztur atkārtotu lietošanu.
+- **Dēlītis** vai neslīdošs paliktnis neļauj lapai slīdēt.
+- **Biezi marķieri vai resni zīmuļi** ir vieglāk satverami nekā plānas pildspalvas.
 
-### Make it reusable
+### Padariet atkārtoti lietojamu
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Laminējiet lapas** vai ievietojiet tās caurspīdīgās plēvēs. Vārdu meklēšanā un bingo kartītēs izmantojiet sausos dzēšamos marķierus un pēc tam notīriet.
+- **Izvēlieties matētus maisiņus**, ja atspīdums ir problēma, un **noapaļojiet laminēto kartīšu stūrus** ar šķērēm, lai tās būtu ērti turamas.
+- **Turiet mapi** ar iecienītākajām lapām, lai katru nedēļu nedrukātu to pašu.
 
-### Keep it simple
+### Vienkāršojiet
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Viens uzdevums lapā.** Viena vārdu meklēšana vai viens attēls, nevis vairākas aktivitātes sablīvētas kopā.
+- **Daudz balta laukuma.** Aizņemta lapa var šķist pārāk pārslogota.
+- **Ja iespējams, bez instrukciju lasīšanas.** Parādiet cilvēkam, ko darīt.
+- **Samaziniet lapas.** Ja pilna lapa ir par daudz, pārgrieziet to uz pusēm vai saliecieties tā, lai redzama būtu tikai daļa.
 
-## Other useful printables you can make at home
+## Citas noderīgas drukājamās lapas, ko var izveidot mājās
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ne katra noderīga drukājamā lapa ir spēle. Tās ir viegli izveidot ar teksta redaktoru un printeri.
 
-### A life-story page
+### Dzīves stāsta lapa
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Viena lapa „par mani” ar fotogrāfiju, vārdu, ko cilvēks vēlas, lai to sauc, to, kur viņš uzaudzis, darbu, ģimeni, iecienītākajiem ēdieniem, mūziku un lietām, kas mierina vai satrauc. Dementia Australia iesaka [atmiņu grāmatu](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ar informāciju par cilvēka dzīvi, vēlmēm un svarīgiem cilvēkiem, lai palīdzētu apmeklētājiem un aprūpētājiem un lai rosinātu sarunu.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Tā ir īpaši noderīga slimnīcās un jaunās aprūpes vidēs. NIA iesaka dot slimnīcas personālam [personas informācijas lapu](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), kurā ir cilvēka rutīna, vēlamais vārds, patikas un nepatikas, iespējamie izraisītāji un neverbālas sāpju pazīmes.
 
-### A daily schedule
+### Dienas grafiks
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Liels, vienkāršs dienas grafiks ar laikiem, dažiem vārdiem un nelielu attēlu katrai daļai: brokastis, pastaiga, pusdienas, atpūta, mūzika, vakariņas. Alzheimer's Association [dienas aprūpes plāns](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) iesaka plānot ap cilvēka labākajiem dienas laikiem, ar regulārām pamošanās un gulētiešanas stundām un līdzsvaru starp aktivitāti un atpūtu. Novietojiet to acu augstumā, piemēram, uz ledusskapja, un turiet elastīgu. Vairāk skatiet mūsu [dienas rutīnas ceļvedī](/activities/daily-routine/).
 
-### Picture labels for rooms and drawers
+### Attēlu uzlīmes istabām un atvilktnēm
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA iesaka izmantot spilgti krāsainas zīmes vai vienkāršus attēlus, lai [apzīmētu vannasistabu, guļamistabu un virtuvi](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Tā pati ideja darbojas arī atvilktnēm un skapjiem: zeķu attēls uz zeķu atvilktnes, krūzes uz krūžu skapja. Izdrukājiet, laminējiet un piestipriniet.
 
-### A sorting set
+### Kārtošanas komplekts
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Izdrukājiet attēlus no divām vienkāršām kategorijām, piemēram, augļi un ziedi vai instrumenti un virtuves priekšmeti, uz kartona. Izgrieziet tos un kopā sakārtojiet divos grozos. Ekrāna versija tam ir [Kārtojiet kopā](/games/sort-together/).
 
-### Song lyric sheets
+### Dziesmu tekstu lapas
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Izdrukājiet dažu mīļu dziesmu vārdus ļoti lielā drukā dziedāšanai līdzi. Pat cilvēki, kas vairs daudz nelasa, var baudīt lapas turēšanu rokās.
 
-### A family photo page
+### Ģimenes fotogrāfiju lapa
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Viena lapa ar četrām līdz sešām lielām ģimenes fotogrāfijām, katrai ar vārdu zem tās. Tā var stāvēt uz galda, lai ikviens to paņemtu un par to runātu. Uzraksti palīdz apmeklētājiem un darbiniekiem pievienoties sarunai, un neviens nav jāvaicā „Kas tas ir?”
 
-### A recipe card
+### Receptes kartīte
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Izdrukājiet mīļu ģimenes recepti lielā drukā. Izmantojiet to, lai kopā gatavotu, vai vienkārši, lai runātu par maltītēm no pagātnes.
 
-## How do I offer a printable without it feeling like homework?
+## Kā piedāvāt drukājamu lapu, lai tā neizskatās pēc mājasdarba?
 
-Present it as something to share, not a test.
+Pasniedziet to kā kaut ko, ko dalīties, nevis kā testu.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Apsēdieties un sāciet pats.** „Es daru šo vārdu meklēšanu. Vai gribi palīdzēt man atrast „dārzs”?”
+- **Strādājiet kopā.** Ejiet pa kārtai, vai viens atrod, bet otrs apvelk.
+- **Nekad neatzīmējiet pareizi vai nepareizi.** Alzheimer's Association [ceļvedis par aktivitātēm mājās](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) iesaka koncentrēties uz procesu, nevis rezultātu, un uz baudu, nevis sasniegumu.
+- **Atstājiet lapas redzamas.** Tas pats ceļvedis iesaka novietot albumus, fotoalbumus vai vecus žurnālus viegli sasniedzamās vietās. Izdrukātas kartītes un fotogrāfiju lapas var novietot uz sāna galdiņa tādā pašā veidā.
+- **Apstājieties, kad vēlaties.** Pusē nokrāsota lapa ir labs pēcpusdienas laiks. Labi ir arī nolikt lapu malā un padzert tēju.
 
-## Where to find more
+## Kur atrast vairāk?
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Pārlūkojiet visas mūsu [spēles un drukājamās lapas](/games/) vai skatiet [aktivitātes katrai stadijai](/activities/ideas/), lai atrastu vairāk ideju ar papīru un bez tā.
