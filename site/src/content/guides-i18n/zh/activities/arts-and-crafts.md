@@ -44,7 +44,7 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-艺术与手工让失智症的人有一种表达自己的方式，而不必依赖找到恰当的词语。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/art-music)指出，艺术项目可以带来[成就感和生活目标](https://www.alz.org/help-support/caregiving/daily-care/art-music)，也能提供自我表达的机会，对照顾者和失智症的人同样有益。关键在于让活动保持成人化、简单，并且没有压力。本页提供具体的项目、准备方法，以及随着情况变化如何调整。
+艺术与手工让失智症的人有一种表达自己的方式，而不必依赖找到恰当的词语。阿尔茨海默病协会指出，艺术项目可以带来[成就感和生活目标](https://www.alz.org/help-support/caregiving/daily-care/art-music)，也能提供自我表达的机会，对照顾者和失智症的人同样有益。关键在于让活动保持成人化、简单，并且没有压力。本页提供具体的项目、准备方法，以及随着情况变化如何调整。
 
 ## 怎样的艺术活动才是成人化而不是幼稚的？
 

@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "失智症团体活动指南：护理机构与日间照护中心"
+seoTitle: "失智症团体活动：宾果、歌唱、故事"
+description: "适合记忆照护、护理院与成人日间照护中心的团体活动：图片宾果、大家一起唱歌和回忆小组，以及座位与人数的建议。"
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  记忆照护和成人日间照护中心中有效的团体活动，应简短、熟悉，并且每个人都能以适合自己的程度参与：图片宾果、大家一起唱歌、回忆小组、简单的律动，以及共同的文字游戏。团体尽量小，座位安排要让每个人都看得见、听得清，每次只给一个清楚的步骤；并为需要的人准备较轻松的角色和安静的离开方式。
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "小团体通常比一次大型活动效果更好，也能让更多人积极参与，而不只是旁观。"
+  - "让人围成圆圈或马蹄形坐在带领者附近，考虑听力和视力的需要，并关掉背景噪音。"
+  - "每个活动都设计两到三个参与层次，让能力不同的人都能加入。"
+  - "避免考问、计分和比出赢家。图片宾果可以让每个人最后都铺满一张卡片。"
+  - "中途离开、只是观看或打盹都是可以的。请安排工作人员随时准备陪同需要安静空间的人。"
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "失智症活动的适合团体人数是多少？"
+    a: "没有一个正确的数字，要视参加者、房间大小，以及工作人员的人数而定。许多团队发现，小团体能让每个人都看得见、听得清，并参与其中；而大厅的活动往往会让更多人只是旁观。如果要举办大型活动，请增派工作人员或志愿者，坐在参加者之间，每人或每两人提供协助。"
+  - q: "如何带领能力不同的团体？"
+    a: "每项活动都要规划不止一种参与方式。在大家一起唱歌时，有些人能唱出每一个字，有些人拍手或哼唱，有些人则拿着沙锤。在图片宾果中，有些人能自己找到图片，有些人则需要协助者替他们指出。把需要更多帮助的人安排在工作人员或志愿者旁边。"
+  - q: "怎样玩图片宾果，又不会变得竞争？"
+    a: "把每一张图片都叫到，直到每个人的卡片都铺满，没有人被落下。每叫出一张图片时，都聊一聊它，不设奖品，或者给每个人同样的小礼物。重点是大家一起注意、一起交谈，而不是谁先完成。"
+  - q: "团体活动时，可以用你们的游戏放在大屏幕上吗？"
+    a: "可以。我们的游戏在网页浏览器中运行，您可以用连接电视或投影机的笔记本电脑或平板电脑来播放。图片宾果包括可打印的卡片和屏幕上的叫号功能。接俗语和图片配对，也很适合在大屏幕上由一人点选、全组一起参与。"
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+本指南面向活动主任、记忆照护团队以及成人日间照护中心的带领者。内容包括适用的团体形式、房间布置、为能力不同的人调整同一项活动，以及如何使用我们可打印的宾果卡片和大屏幕游戏。所有内容都以舒适、联系和选择为目标。这里没有任何考试。
 
-## What makes a group activity work in memory care?
+## 什么样的团体活动适合记忆照护？
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+好的团体活动应该熟悉、简短、任何程度的人都容易加入，并且没有压力。阿尔茨海默病协会的[失智症照护实务建议](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf)把有意义的参与描述为：支持一个人的兴趣和偏好，让他有选择的余地并能获得成功的体验，即使失智症已经相当严重。同一份文件也指出，传统的活动方案常常每天依赖一两场大型团体活动，而居民往往只是被动地参与。
 
-That points to a few practical rules:
+这点明了几条实际的原则：
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **熟悉胜过新奇。** 来自居民年轻时的歌曲、俗语、图片和物品，更容易让人加入。
+- **简短胜过冗长。** 时间安排应配合团体通常能保持的注意力，并在中途设有自然的停顿。
+- **动手胜过旁观。** 给每个人一些可以拿、可以拍、可以选择或可以开口的东西。
+- **一个活动，多个层次。** 设计较容易和较有挑战的参与方式。
+- **没有输赢，没有分数。** 竞争性的形式会让一些人觉得自己失败了。
 
-## How big should the group be?
+## 团体应该多大？
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+小一点通常更容易。阿尔茨海默病协会指出，对于觉得大型聚会会让人不知所措的人来说，在较小的团体里，他们可能会更成功地互动。没有唯一正确的人数，要看参加者、房间，以及可用的工作人员和志愿者人数。
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+一个实用的检查方法：每个人是否都能看到带领者的脸、听清楚，并且在几秒钟之内就有协助者能够靠近？如果做不到，就把团体分开，增加协助者，或换到较小的房间。
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+对于大型活动，例如节日音乐会，请把工作人员和志愿者安排在居民之间就座，而不是沿墙排列。
 
-## How should I set up the room and seating?
+## 房间与座位应如何安排？
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **围成圆圈或马蹄形。** 失智症照护实务建议指出，最好的分享圈，是在一个足够大、可以让每个人围坐成圆圈的空间里，并且没有背景噪音。
+- **带领者靠近，并保持视线平齐。** 能坐下时就坐下。
+- **先考虑听力和视力。** 把听力较弱的人安排在离带领者最近的位置，并且让对方用较好的那一侧耳朵听。确认眼镜和助听器都已戴好。阿尔茨海默病协会指出，视力和听力问题会使沟通更加困难。
+- **光线从居民背后照来，而不是从您背后。** 避免让任何人面对明亮的窗户就座。
+- **关掉电视和收音机。** 阿尔茨海默病协会建议，在音乐活动中去除竞争的噪音。
+- **一次只有一个人说话。** 阿尔茨海默病协会在其[节日指南](https://www.alz.org/help-support/caregiving/holidays)中指出，多人同时说话，对失智症的人和听力较弱的人来说都很困难。
+- **清楚的出口和安静的角落。** 任何想离开的人都应该可以轻易离开，并有工作人员陪同走出去。
 
-## Group activity ideas
+## 团体活动的点子
 
-### Picture bingo
+### 图片宾果
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+图片宾果用清楚的图片取代数字，例如茶壶、小狗或玫瑰，因此没有人需要追踪很长的数字或看小字。
 
-**How to run it:**
+**如何进行：**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. 从我们的[图片宾果](/games/picture-bingo/)页面，使用打印按钮，为每个人印一张卡片。厚纸比较容易拿，可以覆膜以便重复使用。
+2. 发给每人便于拿取的大号标记，例如筹码、瓶盖或剪成方块的卡纸。
+3. 在电视或投影机上使用屏幕上的叫号功能，让大家在您说出图片名字时都能看到它。
+4. 每叫一张图片就停顿一下，邀请大家简短地说几句："有没有人想跟我们讲讲，以前养过的一只狗？"或"大家觉得这一张怎么样？"
+5. 一直叫，直到每张卡片都铺满。每个人都能完成。
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**调整方式：** 对于觉得满卡太忙乱的人，可以使用较少的格子。如果需要，协助者可以替需要帮助的人指出对应的图片。有些人可能更喜欢拿着叫号的图片卡，并把它展示给全组看。
 
-### Sing-alongs
+### 大家一起唱歌
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+音乐是最受欢迎的团体活动之一。阿尔茨海默病协会指出，即使到了后期阶段，一个人仍可能能够[跟着节拍轻拍，或唱出童年时的歌曲](https://www.alz.org/help-support/caregiving/daily-care/art-music)。
 
-**How to run it:**
+**如何进行：**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- 选择居民从小熟悉的歌曲，而不是带领者自己喜欢的歌。问问家属，每个人喜欢什么。
+- 使用没有广告的音乐，阿尔茨海默病协会指出，广告可能会令人困惑。
+- 歌词用大字印出，给会阅读的人使用，但不要求每个人都读。
+- 提供沙锤、手鼓或丝巾让大家挥动。
+- 鼓励拍手和身体律动，音量保持舒适。
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**调整方式：** 有些人会唱出每一个字，有些人会哼唱，有些人会轻踩脚，还有些人只是静静地听。这些都算参与。更多内容请参阅我们的[音乐活动指南](/activities/music/)。
 
-### Reminiscence groups
+### 回忆小组
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+回忆小组围绕一个主题聚会，例如求学时光、第一辆车、厨房或夏天，并运用照片、物品和音乐。目的是愉快的交谈，而不是准确的回忆。
 
-**How to run it:**
+**如何进行：**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. 选定一个主题，并带来几件可以拿在手里的物品：一个手动打蛋器、一只棒球手套、一顶帽子、一本种子目录。
+2. 一次传一件物品。提出开放式的问题："跟我讲讲这个吧。""您注意到什么？""以前有谁用过类似的东西？"
+3. 欢迎每一个回答。不要纠正日期或事实。
+4. 把谈话引导到温暖的回忆上。失智症照护实务建议指出，照护人员应该引导回忆朝向正面的记忆，而不是可能引起痛苦的记忆。
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[对话卡片](/games/conversation-cards/)提供可打印的图片卡，附有按主题分类的开放式提问，很适合作为讨论的开端。更多点子请参阅我们的[回忆指南](/activities/reminiscence/)。
 
-### Finish the saying
+### 接俗语
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+大家熟悉的俗语（"一寸光阴一寸金，寸金难买……"）邀请每个人一起把结尾喊出来。在大屏幕上显示[接俗语](/games/finish-the-saying/)，让全组以一个声音回答。每句俗语之后都有一个谈话提示。如果没有人接出结尾，就显示出来，然后继续。没有对错之分。
 
-### Large-print word search, together
+### 大字寻词，大家一起玩
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+把大字版的[大字寻词游戏](/games/word-search/)投影到屏幕上，全组一起找词；或者印出一份份给喜欢坐在桌边独自看的人。文字只沿横向和纵向排列。
 
-### Gentle movement
+### 轻柔的律动
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+坐着做伸展，传递一个软球或气球，或随着熟悉的音乐在椅子上摇摆。带领者应该先示范每个动作，而不只是口头描述。
 
-### Sorting and matching at the table
+### 桌边的分类与配对
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+三到四人的小桌子，可以一起分类图片、布料样本或餐具。在屏幕上，[图片配对](/games/picture-pairs/)可以在图片保持显示的情况下进行，由一人点选，同桌的人一起谈论每一张图片。
 
-## How do I use your games on a big screen?
+## 如何在大屏幕上使用我们的游戏？
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+我们的游戏在网页浏览器中运行，您无需安装任何软件，就能在电视或投影机上使用。
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. 用线缆或投屏，把笔记本电脑或平板电脑连接到屏幕上，然后打开游戏。
+2. 把浏览器切换到全屏，并把声音调到舒适的音量。
+3. 由一位带领者负责点选，全组大声说出选项。或者把平板交给想要轮流操作的居民。
+4. 在大家准备好的时候随时停下来。游戏没有计时、分数，也没有强制的结束。
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[图片宾果](/games/picture-bingo/)、[接俗语](/games/finish-the-saying/)、[图片配对](/games/picture-pairs/)和[对话卡片](/games/conversation-cards/)通常最适合团体。所有选项请见我们的[游戏页面](/games/)。
 
-## How do I adapt one activity for mixed abilities?
+## 如何为能力不同的人调整同一项活动？
 
-Plan at least three ways to join every activity.
+每项活动至少规划三种参与方式。
 
-| Activity | More independent | Some support | Most support |
+| 活动 | 较能自主 | 需要一些协助 | 需要较多协助 |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| 图片宾果 | 自己找图片、自己盖上 | 协助者指出；由本人盖上 | 拿着图片卡；聆听并观看 |
+| 大家一起唱歌 | 唱歌，并挑选下一首歌 | 哼唱、拍手，或使用沙锤 | 聆听，拿着丝巾，或让人轻拍手 |
+| 回忆小组 | 讲述故事 | 回答是或否，或用手指点选 | 拿着并感受物品 |
+| 大字寻词 | 使用自己印出的那一份 | 在大屏幕上与协助者一起找词 | 在读出文字时聆听 |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+对于处于后期阶段的居民，英国国家医疗服务体系（NHS）指出，活动通常需要更简单，并更侧重感官，例如音乐、可以触摸的物品，以及手部按摩。在团体活动的过程中或之后，一对一的时刻可能更适合他们。请参阅[后期活动](/activities/late-stage/)。
 
-## How should leaders talk during a group?
+## 带领者应该如何说话？
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- 每次都自我介绍，并使用每个人喜欢的称呼。
+- 说话放慢，一次一个步骤，先示范再说明。
+- 提出开放式的邀请（"跟我讲讲……"）或简单的选择，不要用考问式的问题（"您还记得……吗？"）。
+- 不要纠正。对每一次的发言都表示感谢。
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+更多相关内容请参阅我们的[沟通技巧](/caregiving/communication-tips/)。
 
-## Ending well, and letting people leave
+## 有始有终，并让人可以离开
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+停下来也是好的结果。留意有人是否感到疲倦、烦躁或不安，并让协助者提议散步，或到别处找一个安静的座位。有人在唱歌时打盹，也许只是觉得舒服。
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+每次团体活动都以同样的方式结束，例如一首熟悉的歌或一句简单的道谢，让结束的感觉平静而可以预期。事后请记下什么有效，以及谁喜欢什么。这些笔记会让下一次的活动更好。
