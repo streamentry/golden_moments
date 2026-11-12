@@ -1,7 +1,7 @@
 ---
 title: "Pangkulay bilang Gawain para sa Alzheimer's at Dementia"
 seoTitle: "Pangkulay para sa Alzheimer's at Dementia"
-description: "Pangkulay para sa taong may Alzheimer's o dementia: pahinang pang-matanda, malalaking krayola, larong pangkulay sa tablet at mga printable, may mga tip sa paghahanda."
+description: "Pangkulay para sa taong may Alzheimer's o dementia: pahinang pang-matanda, malalaking krayola, larong pangkulay sa tablet at printable, may mga tip sa paghahanda."
 section: activities
 order: 25
 updated: 2026-11-08

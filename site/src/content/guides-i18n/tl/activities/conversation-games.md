@@ -1,13 +1,13 @@
 ---
 title: "Mga Larong Tanong at Usapan para sa Taong may Dementia"
-seoTitle: "20 Tanong at Larong Usapan para sa Dementia"
-description: "Larong 20 tanong at iba pang larong usapan para sa taong may dementia, kung saan ang tao ang eksperto: walang iskor, walang timer at walang pagsusulit."
+seoTitle: "Dalawampung Tanong at Larong Usapan para sa Dementia"
+description: "Larong dalawampung tanong at iba pang larong usapan para sa taong may dementia, kung saan ang tao ang eksperto: walang iskor, walang timer at walang pagsusulit."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Puwedeng maging magaan at masayang laro ang 20 tanong kapag ang tao ang may
+  Puwedeng maging magaan at masayang laro ang dalawampung tanong kapag ang tao ang may
   alam ng sagot. Mag-iisip sila ng isang bagay, magtatanong kayo ng oo o hindi,
   at walang sinusubok. Ganoon din ang iba pang larong usapan, gaya ng "Ito o iyon"
   at "Alin ang pipiliin mo?", na nag-aanyaya ng opinyon at kuwento sa halip na mga
@@ -20,9 +20,9 @@ keyPoints:
   - "Ang mga tanong ng opinyon, gaya ng 'Alin ang mas gusto mo?' o 'Alin ang paborito mo?', ay walang maling sagot."
   - "Tapusin kapag nawalan ng interes ang tao. Sapat na ang dalawa o tatlong round."
 faq:
-  - q: "Mabuti ba ang 20 tanong para sa taong may dementia?"
+  - q: "Mabuti ba ang dalawampung tanong para sa taong may dementia?"
     a: "Puwede, kapag ang tao ang nag-iisip ng sagot at walang sinusubok. Kapag ginawa itong pagsusulit, kung saan ka nanghuhula ng katotohanang dapat alalahanin ng tao, maaari itong maging nakakapagod. Panatilihing bukas at mainit ang mga patakaran."
-  - q: "Anong bagay ang puwedeng isipin ng tao sa 20 tanong?"
+  - q: "Anong bagay ang puwedeng isipin ng tao sa dalawampung tanong?"
     a: "Pinakamainam ang simple at pamilyar na bagay: prutas, hayop, kasangkapan, uri ng bulaklak, muwebles, o lugar na kilalang-kilala nila. Iwasan ang mga abstraktong ideya, pangalan ng tao, at anumang maaaring magdulot ng lungkot."
   - q: "Paano kung hindi makasagot ang tao ng oo o hindi?"
     a: "Gumamit ng kilos, hinlalaki pataas o pababa, o ituro ang larawan. Puwede ka ring manghula nang malakas at hayaan silang tumugon sa pamamagitan ng tango, ngiti o isang salita."
@@ -46,7 +46,7 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Maraming pamilya ang gustong magkaroon ng larong maaaring laruin nang magkasama, na parang usapan at hindi pagsusulit. Maaaring maging mabuti ang 20 tanong at katulad na larong panghuhula dahil simple ang mga patakaran at maaaring mapunta kahit saan ang usapan. Ang lihim ay baligtarin ang karaniwang papel: ang tao ang mag-iisip ng sagot, at ikaw ang magtatanong. Ipinapaliwanag ng pahinang ito kung paano patakbuhin nang marahan ang mga larong ito, at kung aling larong usapan ang bagay sa taong may dementia.
+Maraming pamilya ang gustong magkaroon ng larong maaaring laruin nang magkasama, na parang usapan at hindi pagsusulit. Maaaring maging mabuti ang dalawampung tanong at katulad na larong panghuhula dahil simple ang mga patakaran at maaaring mapunta kahit saan ang usapan. Ang lihim ay baligtarin ang karaniwang papel: ang tao ang mag-iisip ng sagot, at ikaw ang magtatanong. Ipinapaliwanag ng pahinang ito kung paano patakbuhin nang marahan ang mga larong ito, at kung aling larong usapan ang bagay sa taong may dementia.
 
 ## Bakit baligtarin ang karaniwang patakaran?
 
@@ -54,7 +54,7 @@ Sa karaniwang pagsusulit, isa ang nagtatanong at dapat alam ng isa ang sagot. Da
 
 Pinapayuhan ng [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ang mga tagapag-alaga na gumamit ng maiikling simpleng pangungusap, isang tanong sa bawat pagkakataon, at mahinahon at matiyagang tono. Bagay na bagay ang mga ugaling iyon sa mga larong panghuhula.
 
-## Paano maglaro ng 20 tanong nang marahan
+## Paano maglaro ng dalawampung tanong nang marahan
 
 1. **Pumili ng tema** mula sa buhay ng tao, gaya ng kusina, hardin, mga hayop o dagat.
 2. **Hayaan silang mag-isip ng isang bagay** at sabihin ito nang mahina, o magpakita ng larawan para hindi mo na kailangang marinig ito.

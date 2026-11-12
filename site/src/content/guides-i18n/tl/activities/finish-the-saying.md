@@ -1,7 +1,7 @@
 ---
 title: "Mga Laro ng Pagtatapos ng Kasabihan para sa Matatandang may Dementia"
 seoTitle: "Laro ng Pagtatapos ng Kasabihan para sa Dementia"
-description: "Mga laro ng pagtatapos ng kasabihan at salawikain para sa matatandang may dementia: paano maglaro gamit ang pamilyar na kasabihan, mag-alok ng pagpipilian, iwasan ang pagsusulit."
+description: "Mga laro ng pagtatapos ng kasabihan para sa matatandang may dementia: maglaro gamit ang pamilyar na kasabihan, mag-alok ng pagpipilian, at iwasan ang pagsusulit."
 section: activities
 order: 23
 updated: 2026-11-08

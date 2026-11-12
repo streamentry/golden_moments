@@ -1,7 +1,7 @@
 ---
 title: "Bingo na may Larawan para sa Matatandang may Dementia, Naka-print o sa Screen"
 seoTitle: "Bingo na may Larawan para sa Matatandang may Dementia"
-description: "Bingo na may larawan para sa matatandang may dementia, naka-print o sa screen: malalaking larawan, mahinahong tagatawag, walang pressure sa panalo, at mga tip para sa maliliit na grupo."
+description: "Bingo na may larawan para sa matatandang may dementia, naka-print o sa screen: malalaking larawan, mahinahong tagatawag, at walang pressure sa pagpanalo."
 section: activities
 order: 24
 updated: 2026-11-08
