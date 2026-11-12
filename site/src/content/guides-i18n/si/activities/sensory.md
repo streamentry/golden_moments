@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "ඩිමෙන්ශියා ඇති අය සඳහා ඉන්ද්‍රිය ක්‍රියාකාරකම්"
+seoTitle: "ඩිමෙන්ශියාව සඳහා ඉන්ද්‍රිය ක්‍රියාකාරකම්: අදහස් සහ ආරක්ෂාව"
+description: "ඩිමෙන්ශියා ඇති අයට ඉන්ද්‍රිය ක්‍රියාකාරකම්: අත් මසාජයේ සිට රෙදි බඳුන් සහ ස්වභාවික ශබ්ද දක්වා, ගිලීම, අසාත්මිකතා සහ සුවඳ පිළිබඳ ආරක්ෂක සටහන් සමඟ."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  ඉන්ද්‍රිය ක්‍රියාකාරකම් ස්පර්ශය, සුවඳ, රස, ශබ්දය සහ දෘෂ්ටිය භාවිත කරයි: මන්දගාමී අත් මසාජයක්, මෘදු රෙදි බඳුනක්, රස විඳීමට තිබෙන තාජා ඖෂධ පැළෑටි, ස්වභාවික ශබ්ද, හෝ කුරුල්ලන් ජනේලයෙන් බැලීම. ඒවා සියලු අවධිවලට ගැලපෙන අතර, පසුකාලීනව විශේෂයෙන් වටිනා වේ. ගිලීම, අසාත්මිකතා, සමේ ගැටලු සහ සුවඳ සංවේදීතාව සඳහා පළමුව පරීක්ෂා කර, එක් දෙයක් එක් වරකට දෙන්න, සහ පුද්ගලයා අපහසු ආකාරයක් දැකීනොත් නවතන්න.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "ඉන්ද්‍රිය ක්‍රියාකාරකම්වලට නිවැරදි පිළිතුරු අවශ්‍ය නැත, එබැවින් ඒවා සෑම අවධියකම, ඇඳේ හෝ පුටුවේ පවා ක්‍රියා කරයි."
+  - "නිශ්ශබ්ද කාමරයක එක් ඉන්ද්‍රියක් එක් වරකට දෙන්න, සහ ස්පර්ශ කිරීමට පෙර අහන්න හෝ දන්වන්න."
+  - "ගිලීමට හෝ ආහාරයක් ලෙස සිතීමට හැකි කුඩා වස්තු සහ ආහාර ලෙස පෙනෙන හෝ සුවඳ දෙන නමුත් ආහාර නොවන දේ වළකින්න, මන්ද මිනිසුන් දේවල් මුඛයට දමන්නට ඇත."
+  - "ලෝෂන්, සබන් හෝ ආහාර භාවිත කිරීමට පෙර අසාත්මිකතා, සමේ ගැටලු සහ හුස්ම ගැනීමේ ගැටලු පරීක්ෂා කරන්න."
+  - "ඇරෝමාතෙරපි ඩිමෙන්ශියා රෝග ලක්ෂණ වලට උදව් කරන බවට විශ්වාසදායී සාක්ෂි නැත; සුවඳ භාවිත කරන්නේ නම්, සරල රසවිඳීම සඳහා පමණි."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා හොඳ ඉන්ද්‍රිය ක්‍රියාකාරකම් මොනවාද?"
+    a: "සරල අදහස් අතර ලෝෂන් සමඟ මන්දගාමී අත් මසාජයක්, මෘදු රෙදි හැසිරවීම, අලුත් ඖෂධ පැළෑටි හෝ කෝපි සුවඳ දැනීම, ප්‍රිය සංගීතය හෝ ස්වභාවික ශබ්ද ඇසීම, කුරුල්ලන් හෝ මාළු ටැංකියක් බැලීම, සහ ආරක්ෂිත වයනයකින් ප්‍රිය ආහාරයක් රස බැලීම ඇතුළත් වේ. එක් දෙයක් එක් වරකට දී, පුද්ගලයා එයට ප්‍රතික්‍රියා කරන ආකාරය බලන්න."
+  - q: "ඉන්ද්‍රිය ක්‍රියාකාරකම් දේවල් මුඛයට දමන පුද්ගලයෙකුට ආරක්ෂිතද?"
+    a: "ප්‍රවේශමෙන් කළහොත් ඒවා ආරක්ෂිත විය හැක. ගිලිය නොහැකි විශාල වස්තු පමණක් භාවිත කරන්න, කුඩා හෝ කැඩෙන ඕනෑම දෙයක් වළකින්න, සහ ඉන්පසු ලෝෂන්, සබන් සහ සුවඳ සහිත නිෂ්පාදන අත් නොවන ස්ථානයක තබන්න, මන්ද ඒවා ආහාර ලෙස පෙනෙන හෝ සුවඳ දිය හැක. සියල්ල පුරාම පුද්ගලයා සමඟ සිටින්න."
+  - q: "ඇරෝමාතෙරපි ඩිමෙන්ශියාවට උදව් කරයිද?"
+    a: "Cochrane review එකක් ඩිමෙන්ශියා ඇති අයට ඇරෝමාතෙරපි උදව් කරන බවට විශ්වාසදායී සාක්ෂි නොමැති බව සොයා ගත්තේය, නමුත් අධ්‍යයන කුඩා සහ අසමාන විය. පුද්ගලයා මෘදු, හුරු සුවඳක් රස විඳින්නේ නම්, එය හොඳය, නමුත් ප්‍රබල අත්‍යවශ්‍ය තෙල් වළකින්න, විශේෂයෙන් හුස්ම ගැනීමේ ගැටලු හෝ අසාත්මිකතා අසල."
+  - q: "ෆිජට් හෝ ක්‍රියාකාරකම් ඇප්‍රන් යනු කුමක්ද?"
+    a: "එය රෙදි කැබැල්ලක්, ඇප්‍රනක් හෝ උකුල් බ්ලැන්කට් එකක්, එයට අල්ලා ගත යුතු දේවල් තදින් මැසූ ඒවා ඇත, උදාහරණයක් ලෙස විශාල බොත්තම්, සිප්, රිබන් සහ වයනික පැච්. එය කාර්යබහුල අත්වලට ගවේෂණය කිරීමට යමක් ලබා දෙයි. ගැලවී යා හැකි ඕනෑම දෙයක් සඳහා එය නිතර පරීක්ෂා කරන්න."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+ඉන්ද්‍රිය ක්‍රියාකාරකම් ස්පර්ශය, සුවඳ, රස, ශබ්දය සහ දෘෂ්ටිය භාවිත කරයි. ඒවාට මතකයක්, පියවර හෝ නිවැරදි පිළිතුරු අවශ්‍ය නැත, එබැවින් ඒවා ඕනෑම අවධියක ක්‍රියා කළ හැක. පසුකාලීනව ඒවා වඩාත් වැදගත් වේ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) සඳහන් කරන්නේ ප්‍රමාද අවධියේදී ලෝකය බොහෝ දුරට ඉන්ද්‍රියන් හරහා අත්දකින බවත්, ස්පර්ශය, ශබ්දය, දෘෂ්ටිය, රසය සහ සුවඳ හරහා ඔබට සැලකිල්ල පෙන්විය හැක බවත්ය. ආරක්ෂක පරීක්ෂා කිහිපයක් සියල්ලන්ටම මෙම ක්‍රියාකාරකම් සන්සුන් කරයි.
 
-## What are sensory activities for dementia?
+## ඉන්ද්‍රිය ක්‍රියාකාරකම් ඩිමෙන්ශියාව සඳහා කුමක්ද?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+ඉන්ද්‍රිය ක්‍රියාකාරකම් එක් ඉන්ද්‍රියක් එක වරකට මත ගොඩනඟා ඇති සරල අත්දැකීම් වේ, උදාහරණයක් ලෙස රෙදි ස්පර්ශ කිරීම, ඖෂධ පැළෑටි සුවඳ දැනීම, හෝ වැසි හඬ ඇසීම. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) පවසන්නේ පසුකාලීන අවධියේ ක්‍රියාකාරකම් බොහෝ විට ඉන්ද්‍රියන් කෙරෙහි අවධානය යොමු කළ යුතු බවත්, සංගීතය, ස්පර්ශ කර හැසිරවිය හැකි වස්තු, සහ අත් මසාජය ගැන සඳහන් කරන බවත්ය. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) සඳහන් කරන්නේ ප්‍රමාද අවධියේ සිටින අයට සහනය සඳහා යමක් තදින් තබා ගැනීමට ප්‍රබල අවශ්‍යතාවක් තිබිය හැකි බවයි.
 
-## Sensory ideas, sense by sense
+## ඉන්ද්‍රිය අදහස්, ඉන්ද්‍රියෙන් ඉන්ද්‍රියට
 
-### Touch
+### ස්පර්ශය
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **අත් මසාජය.** ඔබේ අත්වල ලෝෂන් මඳක් උණුසුම් කර, මන්දගාමීව කොටුවේ සිට ඇඟිලි තුඩු දක්වා අතගාන්න. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) සහනය සඳහා සුවඳ රහිත ලෝෂන් සමඟ මසාජ කිරීම ගැන සඳහන් කරයි.
+- **රෙදි බඳුන.** වෙල්වට්, කෝඩරෝයි, ෆ්ලීස්, සැටින් සහ ලොම් වල විශාල කොටු, අතගාන්න, නමන්න සහ ඒවා ගැන කතා කරන්න.
+- **උණුසුම් රෙදි කැබැල්ල.** සීතල දිනයක අත් සඳහා උණුසුම්, තෙත් රෙදි කැබැල්ලක්. පළමුව ඔබේම කටිය මත උෂ්ණත්වය පරීක්ෂා කරන්න.
+- **ක්‍රියාකාරකම් ඇප්‍රන් හෝ උකුල් බ්ලැන්කට්.** විශාල බොත්තම්, සිප්, රිබන් සහ වයනික පැච් තදින් මසා ඇත.
+- **නමා සමතලා කිරීම.** පිරිසිදු රෙදි කැබැල්ලක් හෝ නැප්කින් බඳුනක් නමා, ගොඩගසා, නැවත නමන්න.
+- **යමක් මෘදුව ගෙන තබා ගැනීමට.** ෆ්ලීස් ලේප්, කොට්ටයක් හෝ යථාර්ථවාදී මෘදු සත්වයෙක්, සරලව ඉදිරිපත් කර, කිසි විටෙක සෙල්ලම් බඩුවක් ලෙස නොව.
 
-### Smell
+### සුවඳ
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **ඖෂධ පැළෑටි.** පුදීන, රොසමරි, තුලසි හෝ ලැවැන්ඩර් කොළ ඔබේ ඇඟිලි අතර ගා, ඒවා ඉදිරියට ගෙන යන්න.
+- **මුළුතැන්ගෙයි සුවඳ.** කෝපි උඳු වීම, පාන් ටෝස්ට් වීම, කුරුඳු හෝ අඹරු පොතු ගැලවීම ආසන්නයේ.
+- **මල්.** ගෙවත්තෙන් හෝ සිල්ලර වෙළඳසැලෙන් අලුත් මල් කිහිපයක් ගෙනෙන්න.
+- **හුරු නිෂ්පාදනයක්.** ඔවුන් සැමවිටම භාවිත කළ සබන් හෝ ලෝෂන්, ඔවුන්ගේ සම ඉවසන්නේ නම්.
 
-### Taste
+### රස
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **ප්‍රිය රසයක්.** ඔවුන් ප්‍රිය කරන දෙයින් කුඩා හැඳියක්, උදාහරණයක් ලෙස ඇපල් සෝස්, පුඩින් හෝ අයිස්ක්‍රීම්, ආරක්ෂිතව කළ හැකි වයනයකින්.
+- **බේකිං වලට උදව් කරන්න.** ඔබ එකට බේක් කරන අතරේ පලතුරු හෝ ටිකක් ෆ්‍රොස්ටින් රස බැලීම.
+- **සෘතුමය ආහාර.** ගිම්හානයේ කොමඩු, සරත් සමයේ උණුසුම් සයිඩර්, ආරක්ෂිත උෂ්ණත්වයකින් ලබා දෙයි.
 
-### Sound
+### ශබ්දය
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **ප්‍රිය සංගීතය.** මෘදු ශබ්දයෙන් හුරු ගීත; [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
+- **ස්වභාවික ශබ්ද.** වර්ෂාව, රළ හෝ කුරුල් ගීය. NIA සඳහන් කරන්නේ සංගීතය, සුදු ශබ්දය සහ ස්වභාවික ශබ්ද සමහර අයට සහනදායක බවයි.
+- **ඔබේ හඬ.** හඬ නගා කියවීම, හූම්කාරය, හෝ කථාවක් කීම.
+- **සරල උපකරණ.** සංගීතය සමඟ වාදනය කිරීමට අත් බෙර, රැට්ල් හෝ සීනුවක්.
 
-### Sight
+### දෘෂ්ටිය
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **ජනේලයෙන් බැලීම.** ජනේලය පිටත කුරුල්ලන්ගේ ආහාර බඳුනක්, ගෙදරට යන දරුවන්, හෝ වැටෙන හිම.
+- **මාළු ටැංකියක් හෝ මෘදු වීඩියෝ.** ශබ්දය නැතිව මෘදු චලනය.
+- **විශාල ඡායාරූප.** එක වරකට එක පැහැදිලි පින්තූරයක්, ඇස් මට්ටමේ තබා ගෙන.
+- **වර්ණ සහ රටාව.** දීප්තිමත් රෙදි කොටස්, මල් හෝ වර්ණවත් නැප්කින් වර්ග කිරීම, හෝ [වර්ණ තීන්ත](/games/coloring/) වෙතින් සරල වර්ණ තීන්ත පිටුවක්.
+- **පිටතට.** NHS ප්‍රදේශවල සුවඳ ශාක, වයන සහ ජල විශේෂාංග සහිත ඉන්ද්‍රිය උද්‍යාන සඳහන් කරයි. [පිටත සහ ගෙවතු ක්‍රියාකාරකම්](/activities/outdoor-and-gardening/) බලන්න.
 
-## How to make a sensory box
+## ඉන්ද්‍රිය පෙට්ටියක් සාදන්නේ කෙසේද?
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **පුද්ගලයාගේ ජීවිතයට සම්බන්ධ තේමාවක් තෝරන්න:** වෙරළ, ගෙවත්ත, මුළුතැන්ගෙය, වැඩමුළුව, මැහුම.
+2. **විශාල, ආරක්ෂිත අයිතම පහක් හෝ හයක් තෝරන්න,** උදාහරණයක් ලෙස විශාල මුහුදු කටුවක්, ලී හැඳියක්, මෘදු ස්කාර්ෆ් එකක්, මැහූ වියළි ලැවැන්ඩර් පැකට් එකක් හෝ සමතලා දැව කුට්ටියක්.
+3. **සෑම අයිතමයක්ම පරීක්ෂා කරන්න** කුඩා කොටස්, තියුණු දාර, ලිහිල් නූල් සහ කැඩෙන ඕනෑම දෙයක් සඳහා.
+4. **එක වරකට එක අයිතමයක් පමණක් ඉදිරිපත් කරන්න.** එය ලබා දී, විස්තර කර, පුද්ගලයාට ගවේෂණය කිරීමට ඉඩ දෙන්න.
+5. **පසුව පෙට්ටිය ඉවත තබන්න,** එය විශේෂ ලෙස පවතින සහ ඊළඟ වාරයට පෙර අයිතම නැවත පරීක්ෂා වන පරිදි.
 
-## Safety first
+## ආරක්ෂාව මුලින්ම
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+ඉන්ද්‍රිය ක්‍රියාකාරකම් මෘදු වුවද, අවදානම් කිහිපයක් වැදගත්ය. ඩිමෙන්ශියාව ඇති සමහර අය ආහාර නොවන දේ ආහාර ලෙස වරදවා ගනී, සහ කාලයත් සමඟ ගිලීම දුෂ්කර විය හැක; NIA අවධානය යොමු කරන්නේ ප්‍රමාද අවධියේ ගිලීමේ ගැටලු හුස්ම හිරවීමේ අවදානම වැඩි කරන බවටය.
 
-| Risk | What to do |
+| අවදානම | කළ යුතු දේ |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| හුස්ම හිරවීම | ගිලිය නොහැකි තරම් විශාල අයිතම පමණක් භාවිත කරන්න. පෙට්ටියක බොත්තම්, පබළු, කාසි, මාබල් හෝ කුඩා සෙල්ලම් බඩු ලිහිලිව නොතබන්න. ආහාර ලබා දෙන්නේ රැකවරණ කණ්ඩායම ආරක්ෂිත යැයි කියන වයනවලින් පමණි. |
+| ආහාර ලෙස පෙනෙන දේවල් | NIA උපදෙස් දෙන්නේ ලෝෂන්, සබන්, ආහාර ලෙස පෙනෙන හෝ සුවඳ දිය හැකි ෂැම්පූ සහ සුවඳ විලවුන් අගුලු දමා, කෘතිම පලතුරු ඉවත් කරන ලෙසය. ඉන්ද්‍රිය නිෂ්පාදන භාවිතයෙන් පසු ඒවා ඉවත තබන්න. |
+| අසාත්මිකතා | ක්‍රියාකාරකම ආරම්භ කිරීමට පෙර, ගෙඩි ඇට, ලේටෙක්ස්, ලොම්, ශාක හෝ සුවඳ කෙරෙහි අසාත්මිකතා පරීක්ෂා කරන්න. |
+| ප්‍රබල සුවඳ | ප්‍රබල සුවඳ විලවුන් සහ අත්‍යවශ්‍ය තෙල් වළකින්න, විශේෂයෙන් ඇදුම් (asthma) හෝ වෙනත් හුස්ම ගැනීමේ ගැටලු ඇති විට. මෘදු, ස්වභාවික සුවඳ ආරක්ෂිතය. |
+| සම | මසාජයට පෙර රිදුණු, කැඩුණු හෝ දුර්වල සම පරීක්ෂා කරන්න. මෘදු පීඩනය භාවිත කර, ඔවුන් මුහුණ ඇඹරුවොත් නවතන්න. |
+| උෂ්ණත්වය | උණුසුම් රෙදි සහ පානීය පළමුව ඔබේම කටිය මත පරීක්ෂා කරන්න. |
+| තියුණු හෝ විෂ සහිත අයිතම | තියුණු උපකරණ, වීදුරු හෝ විෂ සහිත ශිල්ප ද්‍රව්‍ය නැත. |
 
-## Does aromatherapy help?
+## ඇරෝමාතෙරපි උදව් කරයිද?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+මනින හැකි ආකාරයකින් එසේ නොවිය හැක. [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) අධ්‍යයන 13ක්, පුද්ගලයන් 708ක් ආවරණය කරමින් පරීක්ෂා කළ අතර, ඒවා සියල්ලම රැකවරණ නිවාසවල විය, සහ විශ්වාසදායී ප්‍රතිලාභ සාක්ෂි නොසොයා ගත්තේය. අධ්‍යයන කුඩා වූ අතර, ප්‍රතිඵල එකිනෙකට පටහැනි වූ අතර, අනිෂ්ට ඵල දැඩි ලෙස වාර්තා නොවී තිබුණි. පුද්ගලයා මෘදු, හුරු සුවඳක් රස විඳින්නේ නම්, ගෙවත්තේ ලැවැන්ඩර් වැනි, එය බෙදා ගැනීමට හොඳ හේතුවකි. එය ප්‍රතිකාරයක් නොවේ.
 
-## How to offer a sensory activity
+## ඉන්ද්‍රිය ක්‍රියාකාරකමක් ඉදිරිපත් කරන්නේ කෙසේද?
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **නිශ්ශබ්ද මොහොතක් තෝරන්න** සහ රූපවාහිනිය නවතන්න.
+- **ඉදිරිපසින් ළඟා වන්න,** ඔවුන්ගේ නම කියන්න, සහ ස්පර්ශ කිරීමට පෙර අහන්න හෝ කියන්න: “මා ළඟ ලෝෂන් ටිකක් තියෙනවා. අත් මසාජයක් කරන්න කැමතිද?”
+- **එක වරකට එක දෙයක් දෙන්න** එය බර නොවන පරිදි.
+- **ප්‍රතිචාරය බලන්න.** මෘදු මුහුණක්, ලිහිල් අත් හෝ සිනාවක් යහපත් ලකුණුය. ඈත් වීම, රැළි වූ මුහුණක් හෝ නොසන්සුන්තාව යනු නවතින්න යන සංඥාවයි.
+- **කෙටිව තබන්න.** මිනිත්තු පහක සන්සුන් කාලය හොඳ සැසියකි.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+ඔබ එකට කරන මන්දගාමී හුස්ම ගැනීමේ විරාමයක්, [සන්සුන් හුස්ම ගැනීම](/games/calm-breathing/) වැනි, අවසන් කිරීමට මෘදු ක්‍රමයක් විය හැක. ප්‍රමාද අවධියට තවත් අදහස් සඳහා, [ප්‍රමාද අවධියේ ක්‍රියාකාරකම්](/activities/late-stage/) බලන්න, සහ සන්ධ්‍යා වේලාවේ අසහනය සඳහා, [දවස අවසානයේ නොසන්සුන්තාව](/caregiving/late-day-restlessness/) බලන්න.
