@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: placidae actiones sero pro hominibus cum dementia"
+seoTitle: "Sundowning: placidae actiones sero"
+description: "Ordines lenes, mutationes cubiculorum et actiones placidae quae inquietudinem serotinam in dementia mitigare possint, cum quando medicum de novis aut peiorantibus signis adire oporteat."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning est inquietudo, confusio aut irritabilitas quae post meridiem seu
+  vesperi incipit aut peior fit. Gradus practici qui forsan iuvent sunt ordo
+  diei constans, lux et actio mane potius, pauciores somni serotini, minus
+  caffeini, lumina interiora clara ante crepusculum, domus quietior, et actiones
+  placidae ut musica, photographiae aut lintea plicare. Signa nova aut peiora
+  medici inspectionem postulant.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning significat inquietudinem aut confusionem quae incipit aut peior fit lucis decrescente."
+  - "Munera gravia, excursiones et balneum in matutinum aut primam partem post meridiem pone."
+  - "Lux, ambulatio cotidiana, pauciores somni serotini et minus caffeini sero fortasse vesperas faciliores reddunt."
+  - "Lumina ante crepusculum accende, strepitum minue, et ad actiones placidas et notas transi."
+  - "Diarium tene ut causas inveniat, et in primo signo inquietudinis tranquillus et consolans esto."
+  - "Medicum adi de novis aut peioribus signis: dolor, infectio aut medicamenta partem habere possunt."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Quo tempore diei sundowning plerumque accidit?"
+    a: "Plerumque incipit aut peior fit post meridiem vel vesperi primo, lucis decrescente. Tempus accurate per hominem variat, quare brevis diarium per unam aut duas hebdomades servare auxilium est."
+  - q: "Quae actiones sundowning iuvant?"
+    a: "Actiones placidae, notae et parvi laboris sero plerumque optime succedunt: musica lenis, photographiae spectatae, spectaculum aut film favitus televisifice, lintea plicata, brevis ambulatio, aut cibus parvus simul. Novas aut difficiles actiones in primam partem diei serva."
+  - q: "Potestne sundowning signum rei medicae esse?"
+    a: "Peior fieri potest per res valetudinarias ut dolor, infectiones ut infectiones viarum urinariarum, problemata somni aut effectus collaterales medicamentorum. Si inquietudo nova, subita aut peior est, medicum eius adi."
+  - q: "Debeone medicum de medicamento pro sundowning rogare?"
+    a: "Id cum medico colloquendum est. Alzheimer's Association dicit methodos sine medicamento plerumque primo praeferri, et medicamentum pro agitatione vespertina tantum post pensatas utilitates et pericula considerandum esse. Haec pagina consilium de medicamentis non dat."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Multi familiae eandem rationem animadvertunt: mane satis tranquillum est, sed cum post meridiem procedit, homo cum dementia vivens inquietus, anxius, confusus aut iratus fit. Vagari potest, “domum ire” petere etiam cum domi est, aut facile commovetur. Hoc saepe sundowning appellatur.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Nulla una medela est, sed mutationes rhythmi diei, cubiculi et generis actionum quas offers vesperas tranquilliores facere possunt. Haec pagina consilia practica et non medica ex Instituto Nationali de Senectute et ex Alzheimer's Association colligit. Non est consilium medicum. Si signa nova, subita aut peiora sunt, cum medico eius loquere.
 
-## What is sundowning?
+## Quid est sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning est inquietudo, agitatio, irritabilitas aut confusio quae incipit aut peior fit lucis decrescente, post meridiem seu vesperi primo. [Institutum Nationale de Senectute (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notat nimiam lassitudinem inquietudinem serotinam augere posse.
 
-## What can make late-day restlessness worse?
+## Quid inquietudinem serotinam peiorare potest?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Plures res fortasse conferunt, saepe simul. Alzheimer's Association res huiusmodi enumerat:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- defatigationem post diem plenum;
+- loca nova aut confusa;
+- “horologium corporis internum” discors, quo homo interdiu somnolentus et noctu vigil est;
+- lucem debilem et umbras, quae confundere possunt;
+- sensum tensionis aut frustrationis ab iis qui circa sunt;
+- minorem somni necessitatem, quae in senibus communis est.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA addit causas agitationis generaliter, inter quas dolorem, depressionem aut sollicitudinem, parum quietis, obstipationem, nimium strepitum aut nimis multos homines, et quaedam medicamenta aut earum interactiones.
 
-## How can I plan the day to make evenings calmer?
+## Quomodo diem dispones ut vesperae tranquilliores sint?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Res gravia prius transfer, et post meridiem lenem et praevisibilem serva. Et NIA et Alzheimer's Association ordinem regularem commendant. Diem exemplarem, ad tuum adapta:
 
-| Time | What may help |
+| Tempus | Quid iuvare potest |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Mane | Visita, balneum, excursiones et omne munus laboriosum, cum multi homines maxime vigent |
+| Medio mane | Tempus extra domum aut prope fenestram soli expositam; ambulatio aut alia actio |
+| Medio die | Prandium maius (Alzheimer's Association prandium maius et cenam leviorem suadet) |
+| Primo post meridiem | Quies si opus est, sed longos somnos sero vita |
+| Medio ad sero post meridiem | Actiones placidae et notae; cibus parvus et potio; nullum caffeinum |
+| Ante crepusculum | Lumina interiora accende et cortinas claude antequam obscurum fiat |
+| Vespere | Cena levior, musica placida, paucus stimulus, ordo constans ad cubitum |
 
-A few specific points from the sources:
+Quaedam ex fontibus specifica:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Lux.** NIA suadet ut quotidie tempus extra domum aut prope fenestram ad solem habeatur.
+- **Motus quotidianus, sed non nimis.** Quotidie corpore active esse propositum sit, sine multis actionibus nimis complexis, ait NIA.
+- **Potiones serotinae.** Vita alcohol et potiones caffeinum continentes, ut capulus aut cola, sero (NIA). Alzheimer's Association etiam nicotinam commemorat.
+- **Somni.** Longos somnos et dormitationes sero vita (NIA). Alzheimer's Association suadet ut somni diurni minuantur si somnus nocturnus problema est.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Plura de constituenda die stabili vide in [actionibus ordinis cotidiani](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Quomodo domum sero tranquilliorem faciam?
 
-Reduce noise, add light and keep familiar things close.
+Strepitum minue, lucem adde et res notas prope serva.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Lux clara et aequalis.** Alzheimer's Association domum sero bene illuminatam servare commendat. Spatium accende antequam umbrae appareant.
+- **Minus strepitus.** Televisionem et radiophonum claude aut minue, et hoc tempore visitatores aut opera domestica occupata limita. Alzheimer's Association stimulum vespertinum minuere suadet, ut televisionem, labores et musicam clamosam.
+- **Solacia nota.** NIA suadet musicam lenem et res amatas et photographias circum domum servare.
+- **Cura de commodo.** Alzheimer's Association suadet ut dolor, fames, sitis, obstipatio, vesica plena, lassitudo, infectiones et irritatio cutis inspiciantur, et ut cubiculum temperie commoda sit.
+- **Tuus animus.** Homines sollicitudinem sentiunt. NIA suadet ut tu ipse lentius procedas et te relaxare studeas, si tuae curae tensionem augent.
 
-## What calm activities can we do in the late afternoon?
+## Quas actiones placidas post meridiem faciamus?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Actiones notas, non festinantes et facile desinendas elige. Alzheimer's Association actiones lenientes suadet, ut musicam placidam, photographias aut film favitum, et ambulationem simul ad inquietudinem mitigandam. NIA cibum parvum aut potionem, spectaculum televisificum favitum, musicam, ambulationem, lectionem, aut laborem domesticum simplicem ut lintea plicare suadet.
 
-Ideas to try:
+Ideae temptandae:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Lintea simul plica.** NIA huiusmodi laborem domesticum simplicem suadet. Linteamina facile tractantur, et munus finem clarum habet.
+2. **Musicam amatam pone.** Cantica familiaria ex iuventute, voce demissa. Mussitare cum eis pro cantu valet. Plures ideas in [actionibus musicis](/activities/music/).
+3. **Photographias spectate.** Album photographiarum, aut paucae imagines familiares in [Paria photographiarum](/games/photo-pairs/) imaginibus visibilibus relictis, ad colloquium tranquillum ducere possunt.
+4. **Breve ambulationem fac.** Per hortum, per viam aut per corridorem, antequam obscurum fiat.
+5. **Cibum et potionem simul divide.** Aliquid simplex, calidum et sine caffeino, ad mensam simul.
+6. **Paria lenia.** [Paria imaginum](/games/picture-pairs/) cum quattuor tesseris et imaginibus visibilibus facile incipitur et facile desinitur.
+7. **Colorare.** [Colorare](/games/coloring/) in scherma aut in charta impressa, nullo proposito finiendi.
+8. **Spectare et loqui.** [Chartae colloquii](/games/conversation-cards/) imaginem et interrogationem apertam offerunt. Simpliciter spectare sufficit.
+9. **Pausa respirationis.** [Respiratio placida](/games/calm-breathing/) est pausa lenta et tranquilla, quam ipse incipis et desinis.
+10. **Manuum munera.** Globulos aut tibiales digerere, linteum molle complanare, aut rem notam tenere. Vide [actiones sensuales](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Vita ludos novos, excursiones occupatas et omnia quae multam memoriam aut attentionem sero postulant. Ea mane serva.
 
-## What should I do when restlessness starts?
+## Quid faciam cum inquietudo incipit?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Tranquillus mane, confirma, et leniter converte attentionem. NIA suadet ut tranquille loquaris, sollicitudines hominis audias, disputationes vites, eum confirmes se tutum esse, et contactu leni utaris si iuvat. Deinde distractionem tempta: cibum parvum, potionem, musicam aut ambulationem.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association dicta ut “Hic tutus es” et “Doleo quod tu anxius es” suadet, et lumen addere, lentius procedere et stimulum limitare. Non hominem in angulum premas, non coarctes aut coerceas, neque cum eo disputes.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Si homo violentus fit, NIA suadet ut a tuto spatio maneas donec mos desinat. In periculo, numerum localem emergentiae voca et explica hominem dementia laborare. Nostrum [ducem de responsione ad iram et violentiam](/caregiving/when-anger-becomes-aggression-with-dementia/) tutelam immediatam et quid postea faciendum sit tractat.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Nostri duces de [communicatione](/caregiving/communication-tips/) et [quid faciendum sit cum negat](/caregiving/when-they-say-no/) plura de verbis lenientibus habent.
 
-## How do I find the triggers?
+## Quomodo causas inveniam?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Diarium breve per unam aut duas hebdomades tene. Alzheimer's Association commendat ut quid ante episodia sundowning accidat notetur, ut causae inveniantur. Nota tempus quo inquietudo incepit, quid in hora antea accidit, somnos, cibos et potiones, visitatores, strepitum et lucem. Diarium ad medicum fer. NIA notat mutationum morum observationem caregivers et medicis prodesse ad cognoscendum ordinem.
 
-## When should I call a doctor about sundowning?
+## Quando medicum de sundowning adire debeo?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Medicum eius adi si inquietudo nova est, subito peior, aut cum aliis mutationibus venit. NIA dicit mutationes morum subitas aut celeriter fluctuantes, praesertim post infectionem aut recentes mutationes medicamentorum, statim medico indicandas esse.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Rogare medicum ut ea inspiciat quae vesperas difficiliores facere possunt. Alzheimer's Association problemata corporis commemorat, ut infectiones viarum urinariarum, incontinentiam, pedes inquietos et apnoeam somni, et suadet ut quaeratur quibus temporibus diei singula medicamenta optima sint. NIA dolorem, obstipationem et effectus collaterales aut interactiones medicamentorum inter causas agitationis possibiles enumerat.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association dicit methodos sine medicamento generaliter praeferri pro problematibus somni cum Alzheimer coniunctis, et medicamentum pro agitatione post meridiem tantum considerandum esse si illae deficiunt, post pensatas utilitates et pericula. Id consilium ad medicum pertinet. Nullum medicamentum, adiutorium somni aut supplementum sine consilio medico incipias, desinas aut mutes.
 
-## How do I get through the evenings myself?
+## Quomodo ipse vesperas transeam?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Post meridiem sero saepe pars difficillima diei curatoris est. Si potes, rogato familiarem, amicum aut mercennarium auxiliarium ut post meridiem aliquot diebus per hebdomadam tegant, etiam per unam horam. Nostrum ducem de [cura sui ipsius curatoris](/caregiving/caregiver-self-care/) optiones quietis et liberam lineam Alzheimer's Association 24/7 Helpline enumerat.

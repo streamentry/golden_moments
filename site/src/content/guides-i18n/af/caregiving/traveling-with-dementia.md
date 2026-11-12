@@ -69,7 +69,7 @@ Hoeveel inligting jy saamdra, hang van die reis af. Hou persoonlike besonderhede
 
 ## Hoe maak ons die reisdag makliker?
 
-Vertel die persoon wat volgende gaan gebeur, een stap op ’n slag. Gee ekstra tyd om klaar te maak, in te checkk, die badkamer te gebruik en tussen plekke te beweeg. As planne verander, verduidelik die volgende stap eenvoudig in plaas van ’n lang reisplan te herhaal.
+Vertel die persoon wat volgende gaan gebeur, een stap op ’n slag. Gee ekstra tyd om klaar te maak, in te check, die badkamer te gebruik en tussen plekke te beweeg. As planne verander, verduidelik die volgende stap eenvoudig in plaas van ’n lang reisplan te herhaal.
 
 Bly saam in besige of onbekende plekke. As die persoon moeg of ontsteld raak, stop op ’n stiller plek, bied water of ’n bekende aktiwiteit aan, en besluit saam of julle moet voortgaan. Laat die persoon nie alleen in ’n onbekende omgewing nie, waar hulle verward of ontsteld kan raak.
 

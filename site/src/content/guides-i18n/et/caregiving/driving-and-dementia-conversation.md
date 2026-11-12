@@ -48,7 +48,7 @@ Autojuhtimine võib olla osa inimese identiteedist, iseseisvusest ja igapäevase
 
 Alustage enne sõidujuhtumit, mis sunniks kiiresti otsustama, kui see on võimalik. Valige rahulik aeg, kui inimene ei valmistu kuhugi minema ega tule pingelisest sõidust tagasi. See võib olla mitmest vestlusest esimene, mitte ühekordne teade.
 
-Küsige, mida autojuhtimine inimesele tähendab. See võib olla viis sõbraudele külla minna, poodi jõuda, pereliikmetele abiks olla, tööd teha või tunda end iseseisvana. Selle tähenduse tunnustamine ei lahenda ohutusküsimust. See näitab, et mõistate, mida võib kaotada, ja miks planeerimine on oluline.
+Küsige, mida autojuhtimine inimesele tähendab. See võib olla viis sõprade juurde külla minna, poodi jõuda, pereliikmetele abiks olla, tööd teha või tunda end iseseisvana. Selle tähenduse tunnustamine ei lahenda ohutusküsimust. See näitab, et mõistate, mida võib kaotada, ja miks planeerimine on oluline.
 
 Kaasake inimene tulevaste sõitude valikutesse seni, kuni ta soovib osaleda. Ta võib eelistada kindlat inimest juhi rolli, tuttavat marsruuti või kindlat kellaaega. Kirjutage üles valikud, mis talle meeldivad, ja proovige neid enne pingelist päeva, kui ta nõustub.
 

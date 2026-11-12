@@ -20,7 +20,7 @@ faq:
     a: "Ärge piirake vedelikke õnnetuste vältimiseks, kui tervishoiutöötaja pole andnud individuaalset plaani. Liiga vähene vedelik võib põhjustada dehüdratsiooni ja muid probleeme. Küsige inimese arstilt tema vajaduste kohta."
   - q: "Millised märgid võivad viidata dehüdratsioonile?"
     a: "Kuiv suu, pearinglus, ebatavaline väsimus või muutused urineerimises võivad olla märgid, kuid neil võib olla ka muid põhjuseid. Kui olete mures, pöörduge tervishoiutöötaja poole ja äkilise segaduse korral otsige kohe abi."
-  - q: "Mis siis, kui inimeneköhib või lämbub joomisel?"
+  - q: "Mis siis, kui inimene köhib või lämbub joomisel?"
     a: "Peatage ja pöörduge nõu saamiseks tervishoiutöötaja poole. Ärge paksendage jooke ega muutke nende konsistentsi, kui kvalifitseeritud spetsialist ei ole seda just sellele inimesele soovitanud."
 sources:
   - title: "Food & Eating"

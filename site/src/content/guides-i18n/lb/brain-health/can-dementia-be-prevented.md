@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Kann Demenz verhënnert ginn? Wat d'Fuerschung seet"
+seoTitle: "Kann Demenz verhënnert ginn? Wat d'Fuerschung seet"
+description: "Wat d'Lancet-Commission 2024 an gréisser Studien iwwer d'Senkung vum Demenz-Risiko fonnt hunn, wat net, an Schrëtt fir mam Dokter ze besprechen."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Kee kann versprieche, Demenz ze verhënneren. D'Lancet-Commission vun 2024 huet
+  geschat, datt bal d'Hallschent vun de Demenz-Fäll weltwäit mat 14 Risikofaktoren
+  zesummenhänkt, déi potenziell änneren kann, wéi héije Bluttdrock, Gehéiersverloscht
+  an Inaktivitéit. Studien weisen kleng Effekter bei Denktester, kee Beweis fir
+  manner Demenz-Fäll. Vill Leit, déi alles „richteg“ maachen, kréien awer trotzdeem
+  Demenz, an et ass kenger Schold.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "D'Lancet-Commission vun 2024 huet ongeféier 45 % vun de Demenz-Fäll weltwäit mat 14 potenziell änneren Risikofaktoren verbonnen. Dat ass eng Bevëlkerungsschätzung, keng perséinlech Garantie."
+  - "Risikosenkung heescht, d'Chancen an enger ganzer Bevëlkerung ze senken. Et heescht net, datt eng eenzel Persoun Demenz vermeide kann."
+  - "Grouss Studien wéi FINGER, US POINTER a SPRINT MIND fonnt kleng Virdeeler bei Denktester oder mëlleger kognitiver Beaschtegung, awer keng bewisen, datt e Liewensstil-Programm Demenz verhënnert."
+  - "D'Alter ass de gréissten bekannte Risikofaktor fir Alzheimer a kann net geännert ginn. Vill Leit mat gesonde Gewunnechten kréien trotzdeem Demenz."
+  - "D'Schrëtt, déi am meeschte studiert goufen, wéi d'Behandlung vum héije Bluttdrock, Gehéiergeräter a aktiv bleiwen, sinn et wäert, mam Dokter ze besprechen, well se der Gesondheet och op anere Weeër hëllefen."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Kann Demenz verhënnert ginn?"
+    a: "Fir kee eenzelt Mënsch gëtt et keen bewisene Wee, Demenz ze verhënneren. D'Fuerschung seet, datt d'Senkung vu bestëmmte Risiken, wéi héije Bluttdrock, onbehandelte Gehéiersverloscht a Rauchen, d'Chance op Demenz an enger Bevëlkerung kann senken oder de Beginn no hannen verschiewen. Dat sinn Chancen, keng Versprieche."
+  - q: "Wat heescht d'45-Prozent-Zuel vun der Lancet-Commission?"
+    a: "D'Lancet-Commission vun 2024 huet geschat, datt ongeféier 45 % vun de Demenz-Fäll weltwäit mat 14 Risikofaktoren zesummenhänken, déi theoretesch geännert ginn kënnen. D'Schätzung geet dovun aus, datt dës Faktoren Demenz verursaachen, an d'Autoren weisen drop hin, datt e puer Zesummenhäng nëmmen deelweis ursächlech sinn. Si beschreift ganz Bevëlkerungen a seet Iech näischt iwwer d'Risiko vun enger eenzelner Persoun."
+  - q: "Wann mäi Elterendeel en gesonde Liewensstil haat, firwat huet hien oder si dann Demenz kritt?"
+    a: "Alter, Gene an vill Faktoren, déi keen kontrolléiert, spillen eng grouss Roll bei Demenz. D'Autoren vun der Lancet-Commission weisen drop hin, datt d'Senkung vum Risiko an enger Bevëlkerung net garantéiert, datt all eenzel Persoun Demenz vermeit. Eng Diagnos ass kee Zeechen, datt iergendeen versot huet."
+  - q: "Ass et ze spéit, d'Demenz-Risiko nom 65. Liewensjoer ze senken?"
+    a: "D'Lancet-Commission seet, datt et ni ze fréi oder ze spéit ass, de Risiko ze senken, obwuel vill vun den Beweiser d'Mëttelalter betreffen. Behandlung vu Gehéier- a Visiounsproblemer, aktiv bleiwen an d'Kontakt mat Leit halen sinn Beispiller fir Schrëtt am spéiderem Liewen, déi untersicht goufen. Sprecht mat engem Dokter driwwer, wat zu Ärer Gesondheet passt."
+  - q: "Verhënneren Gehirnspiller oder speziell Diäten Demenz?"
+    a: "Kee Spill, kee Liewensmëttel, kee Präparat an keng Diät ass bewisen, Demenz ze verhënneren. Eng dräi Joer laang Studie zur MIND-Diät fonnt kee bedeitende Ënnerscheed beim Denken am Verglach zu enger Kontrolldiät, a kommerziell Gehirntrainings-Apps goufen net bewisen, dass se d'Wierkunge vun de klinesche Studien hunn."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Wann Dir eng Persoun mat Demenz betreit oder mat deem Erlieft hutt, e Familljemember mat dëser Krankheet ze gesinn, hutt Dir wahrscheinlech geduecht, ob et hätt kënne gestoppt ginn, a ob Dir selwer kënnt verhënneren, datt se Iech trëfft. Dës Säit setzt auserneen, wat d'Fuerschung wierklech seet, a just a klorer Sprooch. Déi kuerz Äntwert: Kee kann versprieche, Demenz ze verhënneren. D'Fuerschung weist awer, datt e puer Risiken kënne gesenkt ginn, a datt d'Senkung an enger Bevëlkerung kann heeschen, datt manner Leit Demenz kréien oder se méi spéit kréien.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Dat ass allgemeng Informatioun, keng medizinesch Berodung. Liest w.e.g. eisen [medizinesche Virbehalt](/medical-disclaimer/) a sprecht mam Dokter iwwer Är eegen Gesondheet.
 
-## Can dementia be prevented?
+## Kann Demenz verhënnert ginn?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Et gëtt kee bewisene Wee, Demenz bei engem eenzelen Mënsch ze verhënneren. Den National Institute on Aging (NIA) seet, datt, [wärend nach näischt bewisen ass, fir Alzheimer ze verhënneren](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), d'Fuerscher villverspriechend Strategien fonnt hunn a gelieft hunn, wat funktionéiere kann a wat net.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Wat d'Fuerschung *wierklech* weist, ass, datt bestëmmte Gesondheetszoustänn a Gewunnechten mat enger méi héijer Chance op Demenz zesummenhänken. Wann dës Risiken an enger ganzer Bevëlkerung méi niddreg sinn, kréien vläicht manner Leit Demenz, oder si kréien se méi spéit am Liewen. Dat ass ganz anescht wéi eng Garantie.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+E hoffnungsvollt Zeechen: D'Lancet-Commission vun 2024 huet gemellt, datt an e puer Länner mat héijem Akommes, dorënner d'USA a Groussbritannien, den Undeel vun eelere Leit mat Demenz gesonke ass. D'Autoren mengen, dat hänkt wahrscheinlech deelweis mat enger besserer Ausbildung, besserer Gesondheetsversuergung an manner Schued fir d'Bluttgefässer iwwer e ganzt Liewen zesummen, laut der [Zesummefassung vum Rapport vum University College London](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Wat huet d'Lancet-Commission vun 2024 fonnt?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+D'Lancet-Commission iwwer d'Verhënnerung, d'Interventioun a Pflege vun Demenz ass eng Grupp vun 27 Demenz-Fuerscher, déi d'Beweiser all puer Joer iwwerpréiwen. Hire Rapport vun 2024 huet **14 Risikofaktoren** genannt, déi potenziell geännert ginn kënnen, an geschat, datt se zesumme **bal d'Halschent (ongeféier 45 %) vun de Demenz-Fäll weltwäit** ausmaachen. No de Wierder vun den Autoren kéinten dës Fäll *theoretesch* verhënnert oder verschuewe ginn, wann d'Risiken eliminéiert wieren ([Rapport vun der Lancet-Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+Déi 14 Faktoren, gruppéiert no dem Liewensofschnëtt, wou d'Beweiser am stäerksten sinn:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Fréi am Liewen:** manner Ausbildung.
+- **Mëttelalter (ongeféier 40 bis 65 Joer):** Gehéiersverloscht, héije LDL-Cholesterin („schlecht“), Depressioun, Kapp-Verletzung, kierperlech Inaktivitéit, Diabetes, Rauchen, héije Bluttdrock, Adipositas a vill Alkohol.
+- **Spéider am Liewen:** sozial Isoléierung, Loftverschmotzung an onbehandelte Visiounsverloscht.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Déi zwee neisten Ergänzunge vun 2024 waren héije LDL-Cholesterin an onbehandelte Visiounsverloscht. Déi Faktoren, mat deenen déi gréisste Quote vun de Fäll zesummenhänken, waren Gehéiersverloscht a héije LDL-Cholesterin (ongeféier 7 % jiddereen), gefollegt vu manner Ausbildung an sozialer Isoléierung (ongeféier 5 % jiddereen).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Eise [Guide zu de Risikofaktoren](/brain-health/risk-factors/) geet all 14 an enger Tabell duerch, mat deem, wat d'Fuerschung verbënnt, an deem, wat Dir maache kënnt.
 
-### What the 45% figure does not mean
+### Wat déi 45 % Zuel net heescht
 
-It is easy to misread this number, so it helps to be precise:
+Dës Zuel ass liicht falsch ze verstoen, dofir ass et gutt, präzis ze sinn:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Et ass eng Bevëlkerungsschätzung.** Si beschreift Demenz-Fäll weltwäit, net Är Chancen oder déi vun Ärem Elterendeel.
+- **Si geet vun Ursaach a Wierkung aus.** D'Autoren soen, si hätten nëmmen Risikofaktoren mat iwwerzeegenden Beweiser abezunn, awer datt e puer Zesummenhäng nëmmen deelweis ursächlech sinn. Zum Beispill kann Depressioun am spéiderem Liewen heiansdo en Éischt-Symptom vun Demenz sinn an net eng Ursaach.
+- **Si garantéiert näischt fir eng eenzel Persoun.** D'Zesummefassung vun UCL seet, datt d'Senkung vum Risiko op der Ebene vun enger Bevëlkerung funktionéiert a net garantéiert, datt eng eenzel Persoun Demenz vermeit.
+- **Déi aner Halschent gëtt duerch dës Faktoren net erkläert.** Alter, Gene an Ursaachen, déi d'Wëssenschaft nach net verstitt, maachen de Rescht aus.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Wat ass den Ënnerscheed tëscht „Risikosenkung“ a „Verhënnerung“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Risikosenkung** heescht, d'Chancen ze senken. Wann eng grouss Gruppe vu Leit hiren Bluttdrock senkt, kréien vläicht iwwer vill Joren manner vun hinnen Demenz, wéi soss wier. E puer Leit an där Grupp kréien en awer trotzdeem.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Verhënnerung** heescht, datt eppes guer net geschitt. Bei Demenz kann d'Fuerschung dat haut bei kengem versprieche.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+D'Fuerscher schwätzen och vun **Verzögerung**. D'Lancet-Commission rapportéiert nei Beweiser, datt d'Senkung vum Risiko de Beginn vun Demenz kann no hannen schécken an d'Zäit verkierzen, an där eng Persoun mat schlechter Gesondheet lieft. Och eng Verzögerung vu puer Joer kann fir eng Persoun an hir Famill ganz vill bedeiten.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Op dëser Säit benotze mir „Risiko senken“ an „verbonnen mat“ mat Absicht. Wann Dir e Produkt, e Präparat oder e Programm gesitt, dat „Alzheimer verhënnert“ verspriecht, gitt mat Virsicht dervun. Den NIA rät, mam Dokter ze schwätzen, ier een eng Pill oder eng Behandlung probéiert, déi Alzheimer zu verhënneren verspriecht, well sou Produkter onsécher, Geldverschwendung oder béides sinn.
 
-## What have large trials found?
+## Wat hunn grouss Studien fonnt?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Beobachtend Studien (déi verfollegen, wat mat de Leit iwwer Zäit geschitt) kënnen Zesummenhäng weisen. Randomiséiert Studien, bei deenen d'Leit duerch Zoufall engem Programm oder enger Vergläichsgrupp zougewisen ginn, sinn de stäerkere Test. Hei ass, wat e puer vun den bekanntsten Studien fonnt hunn.
 
-### FINGER (Finland)
+### FINGER (Finnland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+D'FINGER-Studie huet 1.260 Erwuessener vun 60 bis 77 Joer ageschriwwen, déi e méi héicht Demenz-Risiko haten. D'Halschent kruut e zweijärege Programm mat Ernärungsberodung, Bewegung, Computer-Gehirnübungen an Kontrollen vun Häerz- a Gefässgesondheet; déi aner Halschent krut allgemeng Gesondheetsberodung. D'Programmgrupp huet e bësse besser an enger Rei vu Denktester ofgeschnidden, e klenge, awer statistesch bedeitende Ënnerscheed ([FINGER-Studie am Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). D'Studie huet Testresultater gemooss, keng Demenz-Diagnosen.
 
-### US POINTER (United States)
+### US POINTER (Vereenegt Staaten)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER huet 2.111 Erwuessener vun 60 bis 79 Joer ageschriwwen, déi inaktiv waren, eng manner gesond Ernärung haten an aner Risikofaktoren hunn. Béid Gruppen goufen encouragéiert, sech méi kierperlech an geeschteg ze beweegen, besser ze iessen, sozial ze bleiwen an hir Häerzgesondheet ze kontrolléieren. Eng Grupp krut e strukturéierte, betreit Programm; déi aner huet sech selwer gefouert. Iwwer zwee Joer sinn d'Resultater vun den Denktester bei **béiden** Gruppen besser ginn, an e bësse méi bei der strukturéierter Grupp ([US-POINTER-Studie am JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). D'Autoren soen, datt méi Nokontroll néideg ass, fir ze wëssen, ob den Ënnerscheed am Alldag zielt. Well et keng Gruppe „mécht näischt“ gouf, kann d'Studie net soen, wéi vill ee vun de Programmer am Verglach zu enger Ännerung vun Null bruecht huet.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (Bluttdrock)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND huet 9.361 US-Erwuessener vun 50 Joer an iwwer studéiert, déi héije Bluttdrock haten. Si goufen engem méi niddrege Bluttdrock-Zil zougewisen (ieweschte Wäert ënner 120) oder dem Standardziel (ënner 140). De méi niddrege Zil huet **mëlleg kognitiv Beaschtegung** bedeitend gesenkt, eng Phase vu Gedächtnis- a Denkproblemer, déi der Demenz kann virausgoen. Bei **wahrscheinlecher Demenz** gouf et an der Grupp mat dem méi niddrege Zil manner Fäll, awer de Ënnerscheed war net statistesch bedeitend. D'Studie gouf fréi gestoppt a hat manner Demenz-Fäll wéi erwaart, sou datt se vläicht ze kleng war, fir dës Fro ze beäntweren ([SPRINT MIND am JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Wat d'Iwwersiichten zesummen ergi
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Eng Cochrane-Iwwersiicht vun 2021 huet nei grouss Studien zu Programmer zesummegefaasst, déi e puer Risiken zur selwechter Zäit ugräifen, mat méi wéi 18.000 Leit. Si huet e klenge Virdeel bei Denktester fonnt, awer **keen kloeren Ënnerscheed, wéi vill Leit Demenz kruten**, an den zwou Studien, déi dat gemooss hunn ([Cochrane-Iwwersiicht zu Multi-Domain-Interventiounen](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+Eng Iwwersiicht vun 2017 vun der National Academies of Sciences, Engineering, and Medicine, vum NIA zesummegefaasst, huet „ermutegend, awer net schlussendlech“ Beweiser fir dräi Approche fonnt: Behandlung vum héijen Bluttdrock, méi kierperlech Aktivitéit an Kognitiv Training.
 
-## Does it matter when you start?
+## Mecht et e Ënnerscheed, wann ee fänkt?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+D'Lancet-Commission rät, Risiken sou fréi wéi méiglech ze senken a se sou laang wéi méiglech niddreg ze halen: „Wat méi fréi, desto besser“ an „Wat méi laang, desto besser“. Si seet och, datt et ni ze fréi oder ze spéit ass, de Risiko ze senken. Vill vun den Beweiser betreffen d'Mëttelalter, ongeféier 40 bis 65 Joer, awer e puer Faktoren, wéi Visiounsverloscht an sozial Isoléierung, sinn Risiken am spéiderem Liewen, wou et och weider Sënn mécht ze handelen.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+De Rapport seet, datt et elo méi staark Beweiser gëtt, datt eng méi laang Belaaschtung mat engem Risiko eng gréisser Wierkung huet. Zum Beispill schéngt Diabetes, deen am Mëttelalter ufänkt, méi ze wéien wéi Diabetes, deen méi spéit ufänkt.
 
-## Is dementia risk the same for everyone?
+## Ass d'Risiko fir Demenz fir jiddereen dee selwechten?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nee. D'Commission huet fonnt, datt Leit a Länner mat nidderegem a mëttlerem Akommes, Leit aus Minoritéitsgruppen an Leit mat manner Geld dacks méi vun dësen Risiken droen, sou datt Demenz dacks méi fréi ufänkt. Vill Risiken hänken un Ëmstänn, déi d'Leit net selwer gewielt hunn, wéi d'Qualitéit vun der Schoul an hirer Kandheet, d'Loft am Wuenquartier an d'Fro, ob gesond Iessen bezuelbar a no ass.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Dofir richten sech d'Empfehlungen vun der Commission sou vill u Regierungen wéi u Eenzelpersounen: gutt Ausbildung fir all Kanner, propper Loft, Moossnamen fir manner ze rauchen, manner Zocker a Salz an de Liewensmëttel, déi a Geschäfter a Restauranten verkaaft ginn, a Gehéiergeräter fir jiddereen, deen se brauch. Individuell Ustrengung zielt, mee och d'Welt, an där d'Leit liewen. Dat ass ee weidere Grond, kee fir eng Diagnos ze beschëllegen.
 
-## What are the honest limits of this research?
+## Wat sinn déi éierlech Grenze vun dëser Fuerschung?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demenz brauch Joerzéngten, bis se sech entwéckelt**, mee déi meescht Studien daueren zwee bis fënnef Joer. Demenz selwer ze moossen, net nëmmen Testresultater, verlaangt ganz laang an ganz grouss Studien.
+- **Déi meescht Studien moossen Denktester.** Eng kleng Verbesserung bei engem Test heescht net onbedéngt, datt manner Leit Demenz kréien oder datt de Alldag méi einfach gëtt.
+- **Freiwëlleger si dacks gesënner** an gebilt wéi d'Allgemengheet. D'Lancet-Commission seet, datt d'Majoritéit vun den Beweiser nach ëmmer aus Länner mat héijem Akommes kënnt an datt Minoritéitsgruppen ënnerrepresentéiert sinn.
+- **E puer Zesummenhäng lafen a béide Richtunge.** Manner aktiv oder manner sozial ze sinn kann en Éischt-Effekt vu Demenz sinn, an net nëmmen eng Ursaach.
+- **Diät-Studien waren bis elo enttäuschend.** Eng dräi Joer laang Studie zur MIND-Diät fonnt kee bedeitende Ënnerscheed beim Denken am Verglach zu enger Kontrolldiät. Kuckt eise [Guide zur Diät](/brain-health/diet/).
+- **Gehirnspiller sinn net bewisen, Demenz ze verhënneren.** Kuckt eise Guide zu [Gehirnspiller a Demenz](/brain-health/brain-games/).
+- **Fasten huet ganz wéineg Beweiser bei Mënschen**, a kann fir eeler Leit geféierlech sinn. Kuckt eise [Fasten-Guide](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Wann een alles „richteg“ gemaach huet, firwat huet hien oder si trotzdeem Demenz kritt?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Well Demenz net einfach d'Resultat vun Entscheedungen ass. Den NIA seet, [d'Alter ass de gréissten bekannte Risikofaktor fir Alzheimer](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), a keen kann et änneren. Gene spillen och eng Roll. An d'Wëssenschaftler verstinn nach net ganz, wat bei de meeschte Leit Alzheimer ausléist. Och wann all 14 Risikofaktoren eliminéiert wieren, léisst d'eegen Schätzung vun der Lancet-Commission méi wéi d'Halschent vun de Fäll onerkläert.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Also, wann Dir eng Persoun betreit, déi sech bewegt huet, gesond giess, ni geraucht huet a Demenz trotzdeem kritt huet, ass op hirer Säit näischt falsch gelaf, an och net op Ärer. Wann Dir selwer mat Demenz lieft, ass et net Äre Feeler. Schold fillen ass bei Famillen heefeg, mee et ass net verdéngt. Wat elo zielt, sinn Komfort, Verbindung a gutt Deeg. Eis [Aktivitéitsiddien](/activities/ideas/) an de [Guide zur Selbstpflege fir Betreier](/caregiving/caregiver-self-care/) sinn e gudde Startpunkt.
 
-## What steps can you talk over with a doctor?
+## Wéi Schrëtt kënnt Dir mam Dokter besprechen?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Dat sinn d'Beräicher, déi am meeschte studiert ginn. Et ass wäert, se beim Kontroll ze sprechen, well déi meescht vun hinnen och Häerzgesondheet, Gemittsverfassung an Selbstännegkeet hëllefen, egal wat hir Wierkung op Demenz um Enn ass.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Bluttdrock.** Frot no Ärer Zuel an wat fir en Zil zu Iech passt. D'Lancet-Commission schléit vir, eng ieweschte Wäert vun 130 oder manner vun ongeféier 40 Joer un unzestriewen, mee dat richtegt Zil fir eng eeler Persoun hänkt vun hirer allgemenger Gesondheet of.
+2. **Gehéier.** Frot no engem Gehéierstest a ob Gehéiergeräter hëllefe kéinten. Eise [Guide zum Gehéier](/brain-health/hearing/) erkläert d'Fuerschung.
+3. **Visioun.** Maacht regelméisseg Aueschtcheck a frot, ob Problemer wéi Katarakt behandelbar sinn.
+4. **Cholesterin.** Frot, ob Äre LDL-Cholesterin gemooss soll ginn a ob eppes soll änneren.
+5. **Blutzocker.** Wann Dir Diabetes hutt, frot, wéi Dir en sécher manéiert.
+6. **Gemüt.** Depressioun ass heefeg a behandelbar. Sot Äre Dokter Bescheed, wann Dir mindestens e puer Wochen niddergeschloe gewiescht sidd oder kee Interessi méi un Saachen hutt.
+7. **Rauchen an Alkohol.** Frot no Ënnerstëtzung fir mat Rauchen opzehalen an no sécheren Limiten fir Alkohol.
+8. **Bewegung.** Frot, wéi eng Aart Aktivitéit fir Iech sécher ass. Eise [Guide zur Bewegung](/brain-health/exercise/) huet Iddien.
+9. **Kapp-Schutz.** Traagt en Helm beim Vëloen an bei Kontaktsportarten a frot no Moossnamen géint Stierzen.
+10. **Verbonnen bleiwen.** Zäit mat anere Leit ass Deel vun engem gesonde Liewen. Kuckt eisen Guide zu [sozialer Verbindung](/brain-health/social-connection/) an och [Schlof](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Ier Dir Medikamenter, Ernärung, Präparater, Fasten oder Bewegung änneren, sprecht fir d'Éischt mam Dokter, besonnesch wann Dir Häerzkrankheet, Diabetes, en Stierzverlaf hutt oder schonn mat Demenz lieft.
 
-## Talk with a doctor
+## Mat engem Dokter schwätzen
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Wann Dir Gedächtnis- oder Denkännerungen bemierkt, déi Iech Suergen maachen, bei Iech selwer oder bei engem anere, mécht en Rendez-vous. Den NIA seet, [Gedächtnisproblemer kënnen aner Ursaachen hunn](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), wéi Nebenwierkunge vu Medikamenter, Schilddrüsenproblemer, Depressioun oder e Mangel u Vitamin B12, a datt e puer vun dësen Problemer verschwannen, wann d'Ursaach behandelt ass. Eise [Guide zu de Warnzeechen](/brain-health/warning-signs/) erkläert, wat Dir beobachte sollt.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Sicht sofort dréngend Hëllef** bei plëtzlechen Ännerungen: plëtzlech Verwierrung, Schwächt oder Gefill-Verloscht op enger Säit, Schwieregkeeten beim Schwätzen oder e staarken Kappwéi kënnen Zeeche vun engem Schlaganfall oder engem aneren Notfall sinn. Ruff direkt Är lokal Noutnummer un.
 
-## Where Golden Moments fits
+## Wou Golden Moments passt
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments mécht efach gemeinsam Aktivitéiten, wéi [Gesprächskaarten](/games/conversation-cards/), [Bildbingo](/games/picture-bingo/) an eng [ruege Atmungspaus](/games/calm-breathing/). Si sinn fir de Plaisir a fir Zäit zesummen. Si sinn keng Behandlung, a si verhënneren oder bremsen Demenz net.
