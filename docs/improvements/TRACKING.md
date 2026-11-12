@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 87 / 100 completed**
+**Progress: 88 / 100 completed**
 
 ---
 
@@ -63,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 88 | *Next in queue* | Pending |
-| 89–100 | Planned one by one | Pending |
+| 89 | *Next in queue* | Pending |
+| 90–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -611,3 +611,16 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,520 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
 | Render inspection | Built `/caregiving/after-dementia-diagnosis/` includes the prompt section and links to the opened sources. | Static output checked; no live-browser run. |
 | Not verified | No recently diagnosed person, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 88: respond safely after a fall (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society advises emergency help for possible head, back, neck or hip injury, serious injury or inability to get up; urgent advice for pain, injury or feeling unwell; and GP follow-up after a fall even when no injury is obvious. NHS advises keeping a fallen person comfortable and warm and not lifting them yourself. Its falls and head-injury pages give urgent escalation signs. | Supports immediate safety, follow-up and a cautious boundary; local emergency numbers are not hard-coded. |
+| Existing coverage and gap | Home-safety discusses reducing fall hazards; bathing and in-home care mention falls in particular contexts. The site had no general page for what to do immediately after a fall and how to follow up. | Added the site's 78th English caregiving guide and linked it from home safety and bathing. |
+| Change | Added immediate response steps, escalation guidance, a reminder not to lift the person alone, questions for follow-up and brief observation notes. | Does not teach a transfer technique, diagnose injury or replace emergency instructions. |
+| Safety boundary | Use local emergency services for serious injury, possible head/back/neck/hip injury or inability to get up. Seek urgent advice for pain, injury or feeling unwell. | General information; follow dispatchers and local health professionals. |
+| Implementation commit | `79da749e0453eea1b6394015ffca2abc92ec6c4a` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,521 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built route `/caregiving/responding-after-a-fall-with-dementia/`, caregiving hub, home-safety guide and bathing guide contain the page and cross-links. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |

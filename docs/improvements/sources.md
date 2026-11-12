@@ -416,3 +416,11 @@ Application: the site had separate guides for living alone, in-home support, eme
 - [National Institute on Aging: Planning After a Dementia Diagnosis](https://www.nia.nih.gov/health/legal-and-financial-planning-people-alzheimers) — search result seen; opening returned HTTP 405; not used.
 
 Application: the existing after-diagnosis page said to discuss future wishes and ask local professionals, but did not offer sample questions, a permission-to-pause cue or a simple way to record the person's words for follow-up. The new section adds these steps without making medical choices or naming a universal legal document.
+
+## Round 88: falls and dementia (read 2026-11-11)
+
+- [Alzheimer's Society: Why is a person with dementia more likely to have a fall, and what can you do to help?](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help) — opened. It advises emergency help for possible head, back, neck or hip injury, serious injury or inability to get up; urgent advice for pain, injury or feeling unwell; and contacting a GP after a fall even if no injury is obvious. Its 999/111 numbers are UK-specific and were generalized to local emergency and urgent services.
+- [NHS: Falls](https://www.nhs.uk/conditions/falls/) — opened; last reviewed 6 March 2025. It advises checking for pain or injury, keeping someone comfortable and warm, not trying to lift them yourself, and getting urgent help for specified injuries or inability to get up.
+- [NHS: Head injury and concussion](https://www.nhs.uk/conditions/head-injury-and-concussion/) — opened; last reviewed 29 May 2025. It lists emergency and urgent-care signs after a head injury. The guide directs readers to urgent services for head-injury concerns rather than reproducing a full clinical triage list.
+
+Application: home safety addressed fall prevention and bathing guidance mentioned falls during that task, but there was no general post-fall response page. The new guide covers immediate safety, urgent escalation, follow-up and factual notes without diagnosing injury or teaching a lifting technique.
