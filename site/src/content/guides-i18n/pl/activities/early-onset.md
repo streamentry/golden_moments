@@ -24,7 +24,7 @@ faq:
   - q: "Jakie zajęcia pasują osobie z demencją wczesnego początku?"
     a: "Najlepiej działają zajęcia zgodne z jej dorosłym życiem: ulubione hobby, spacer z przyjacielem, dyżur wolontariacki, wspólne gotowanie dla rodziny, muzyka z własnej młodości albo wyjazd w miejsce, które kocha. Niech sama wybiera, a dostosowuj długość i towarzystwo, a nie samo zajęcie."
   - q: "Gdzie partner lub dorosłe dziecko może znaleźć wsparcie?"
-    a: "Alzheimer's Association oferuje bezpłatne grupy wsparcia dla opiekunów, w tym grupy dla osób opiekujących się kimś z demencją wczesnego początku. Można zadzwonić pod całodobową infolinię 800.272.3900, by zapytać o grupy i zasoby."
+    a: "Alzheimer's Association oferuje bezpłatne grupy wsparcia dla opiekunów, w tym grupy dla osób opiekujących się kimś z demencją wczesnego początku. Można zadzwonić pod całodobową infolinię (24/7) 800.272.3900, by zapytać o grupy i zasoby."
   - q: "Czy osoba z demencją wczesnego początku powinna nadal robić to, co lubi?"
     a: "Tak, o ile jest to bezpieczne i ona tego chce. Hobby, wspólnota religijna, ruch i kontakty towarzyskie są częścią pełnego życia. Dostosuj otoczenie, zabierz towarzysza i zaplanuj odpoczynek, a przerwij, gdy zajęcie przestanie sprawiać przyjemność."
 sources:
@@ -82,7 +82,7 @@ Wskazówek o codziennej rutynie i aktywności szukaj w [łagodnym planie dnia](/
 
 Partnerzy i dorosłe dzieci często czują się odizolowani. Opieka bywa jak drugi etat obok pracy i rodziny. Wpis na blogu Alzheimer's Association podaje, że opiekunowie w grupach dla wczesnego początku uznawali je za pomocne w praktycznych sprawach, takich jak planowanie prawne, i po prostu w poczuciu, że ktoś ich rozumie. Stowarzyszenie prowadzi też bezpłatne grupy wsparcia dla opiekunów, w tym dla osób opiekujących się kimś z demencją wczesnego początku, a trzy z nich spotykają się wirtualnie we wtorki i środy.
 
-Aby zapytać o grupy, zadzwoń na całodobową infolinię Stowarzyszenia: 800.272.3900. Nasz [poradnik o dbaniu o siebie jako opiekun](/caregiving/caregiver-self-care/) opisuje odpoczynek, odciążenie i sygnały wypalenia.
+Aby zapytać o grupy, zadzwoń na całodobową (24/7) infolinię Stowarzyszenia: 800.272.3900. Nasz [poradnik o dbaniu o siebie jako opiekun](/caregiving/caregiver-self-care/) opisuje odpoczynek, odciążenie i sygnały wypalenia.
 
 ## Etapy nadal mają znaczenie
 
