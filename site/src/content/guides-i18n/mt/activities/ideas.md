@@ -123,7 +123,7 @@ Il-mużika familjari tista’ tilħaq lin-nies anke meta l-kliem ikun diffiċli.
 
 Ifirħu fil-passat flimkien mingħajr ma tittestjah. Aqta’ “Tiftakar...?” u “Min hu dan?” u uża stedini miftuħa minflok. Ara [attivitajiet tat-tfakkir](/activities/reminiscence/).
 
-22. **Ħares fl-album tar-ritratti.** Għid dak li tara: “Liema libsa! Għidli dwar dan il-jum.” Imxi ma’ kull isem li jużaw.
+22. **Ħares fl-album tar-ritratti.** Għid dak li tara: “Liema libsa sabiħa. Għidli dwar dan il-jum.” Imxi ma’ kull isem li jużaw.
 23. **Agħmel kaxxa tal-memorji.** Kaxxa tal-żraben b’oġġetti minn ħajjithom, bħal badge tax-xogħol jew karta tal-wasfa. Ħu oġġett wieħed kull darba.
 24. **Ibda ktieb tal-istorja tal-ħajja.** Ftit ritratti f’kull paġna b’tarġiet b’ittri kbar. Jgħin lill-għajnuna l-ġodda jafu l-persuna.
 25. **Uża conversation cards.** [Conversation cards](/games/conversation-cards/) jgħaqqdu ritratt ma’ stedina miftuħa.

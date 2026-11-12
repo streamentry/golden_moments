@@ -1,33 +1,34 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Hetsika fahatsapana ho an’ny olona manana dementia"
+seoTitle: "Hetsika fahatsapana dementia: hevitra sy fiarovana"
+description: "Hetsika fahatsapana ho an’ny olona manana dementia: fanosotra tanana, lamba, feon’ny natiora ary fitandremana momba ny tsiro sy ny allergie."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Ny hetsika fahatsapana dia mampiasa ny fikasihana, fofona, tsiro, feo ary
+  fijery: fanosotra tanana miadana, vata lamba malemy, ravina vaovao hofofonana,
+  feon’ny natiora, na fijerena vorona eo amin’ny varavarankely. Mety amin’ny
+  sehatra rehetra ireo ary manan-danja indrindra any aoriana. Jereo aloha ny
+  loza amin’ny fitsimana, allergie, olana amin’ny hoditra ary fahatezeran’ny
+  fofona, omeo zavatra iray isaky ny fotoana, ary ajanony raha mahatsapa ahiahy
+  ny olona.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Ny hetsika fahatsapana tsy mila valiny marina, ka mety amin’ny sehatra rehetra, anisan’izany eo am-pandriana na seza."
+  - "Omeo fahatsapana iray isaky ny fotoana ao amin’ny efitra mangina, ary anontanio na lazao alohan’ny hikasihana."
+  - "Aza ampiasa zavatra kely na izay mitovy amin’ny sakafo nefa tsy sakafo, satria mety hampidi-pofona ny olona."
+  - "Jereo ny allergie, olana amin’ny hoditra ary olana amin’ny fofonaina alohan’ny hampiasana crème, fofona na sakafo."
+  - "Tsy misy porofo mahatoky fa mahasoa ny aromaterapia amin’ny famantarana dementia; ampiasao ny fofona ho fahafinaretana tsotra fotsiny, raha ampiasaina."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Inona no hetsika fahatsapana tsara ho an’ny olona manana dementia?"
+    a: "Hevitra tsotra dia ny fanosotra tanana miadana amin’ny crème, fikasihana lamba malemy, fofonana ravina vaovao na kafe, mihaino mozika tiana na feon’ny natiora, fijerena vorona na vata trondro, ary fanandramana sakafo tiana amin’ny endrika azo antoka. Omeo zavatra iray isaky ny fotoana ary jereo ny valin’ny olona."
+  - q: "Azo antoka ve ny hetsika fahatsapana ho an’ny olona mametra zavatra any am-bava?"
+    a: "Azo, raha misy fitandremana. Ampiasao zavatra lehibe fotsiny izay tsy azo mihinina, aza ampiasa zavatra kely na mora torotoro, ary tazomina ho tsy takatry ny tanana ny crème, savony ary zavatra misy lofina aorian’izay, satria mety ho toy ny sakafo izy ireo. Mijanona miaraka amin’ny olona mandritra izany."
+  - q: "Mahasoa ve ny aromaterapia amin’ny dementia?"
+    a: "Ny famerenana Cochrane dia nahita fa tsy misy porofo mahatoky fa mahasoa ny aromaterapia ho an’ny olona manana dementia, na dia kely sy tsy mitovy aza ny fanandramana. Raha tia lofina mahazatra malemy ny olona, tsy olana izany, fa aza ampiasa menaka mahery, indrindra akaikin’ny olana amin’ny fofonaina na allergie."
+  - q: "Inona no fanampiana kely na lamba hanaovana fihetsehana?"
+    a: "Lamba, akanjo na kobaka eo am-pelatra misy zavatra hozarina an-tsokajy, toy ny bokotra lehibe, tadivava, tadin-lamba ary sombintsombin-tsambo misy rindrina. Izany dia manome tanana mivezivezy zavatra hijerena. Jereo matetika izany mba hahitana zavatra mikoroka izay mety hovesatra."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +49,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Hetsika fahatsapana dia mampiasa ny fahatsapana dimy: fikasihana, fofona, tsiro, feo ary fijery. Tsy mila fahatsiarovana, tsy mila dingana ary tsy misy valiny marina izy, ka mety amin’ny sehatra rehetra. Manan-danja indrindra izy any aoriana. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) dia manamarika fa amin’ny sehatra farany dia ny fahatsapana no ahazoan’ny olona ny izao rehetra indrindra, ary azonao asehoana fikarakarana amin’ny alalan’ny fikasihana, feo, fijery, tsiro ary fofona. Fanamarinana fiarovana vitsivitsy dia manao ireo hetsika ho malefaka ho an’ny rehetra.
 
-## What are sensory activities for dementia?
+## Inona no hetsika fahatsapana ho an’ny dementia?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Hetsika fahatsapana dia traikefa tsotra mifototra amin’ny fahatsapana iray isaky ny fotoana, toy ny fikasihana lamba, fofonana ravina na fihainoana orana. Ny [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dia milaza fa ny hetsika amin’ny sehatra farany matetika dia tokony hifantoka amin’ny fahatsapana, ary manondro mozika, zavatra azo ikasihana sy azo tanana, ary fanosotra tanana. Ny [Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) dia manamarika fa olona amin’ny sehatra farany mety handany ny fahatiana hitazona zavatra akaiky ho fampiononana.
 
-## Sensory ideas, sense by sense
+## Hevitra fahatsapana, ny fahatsapana tsirairay
 
-### Touch
+### Fikasihana
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Fanosotra tanana.** Mafanaha crème kely eo am-pitan-tananao ary mikasiha miadana avy amin’ny tanan-tsoka ka hatramin’ny vavaron-tanana. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) dia manonona ny fanosotra amin’ny crème tsy misy lofina mba hampionona.
+- **Vata lamba.** Vata lamba velours, corduroy, fleece, satin ary lanezy lehibe hikasihana, hamafisana ary hiresahana momba azy.
+- **Lamba mafana.** Lamba mafana sy mando ho an’ny tanana amin’ny andro mangatsiaka. Andramo ny hafanana amin’ny tanan-tsoka aloha.
+- **Akanjo fihetsehana na kobaka eo am-pelatra.** Bokotra lehibe, tadivava, tadin-lamba ary sombintsombin-tsambo misy rindrina mifatotra mafy.
+- **Fanamafisana sy fanasokajana.** Vata lamba fanasan-tanana na serviety madio hamafisina, hozarina ary hamafisina indray.
+- **Zavatra malemy hazonina.** Kobaka malemy, lamba fanasana na biby malemy mifanaraka amin’ny zava-misy, omeo tsotra, fa tsy ho lalao mihitsy.
 
-### Smell
+### Fofona
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Ravina vaovao.** Mikosoka ravina menta, rosemary, basilika na lavanda eo anelanelan’ny rantsantananao ary ampitaovy.
+- **Fofona ao amin’ny lakozia.** Kafe mandeha, mofo mandrendrika, kanely na voankazo orange miolak’akaiky.
+- **Voninkazo.** Entano voninkazo vaovao vitsivitsy avy amin’ny zaridaina na amin’ny fivarotana sakafo.
+- **Vokatra mahazatra.** Ny savony na crème nampiasain’ny olona foana, raha mety amin’ny hoditra izany.
 
-### Taste
+### Tsiro
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Tsiro tiana.** Lovia kely amin’ny zavatra tiany, toy ny applesauce, pudding na ice cream, amin’ny endrika azo antoka.
+- **Fanampiana amin’ny fanaovana mofo.** Mitsiro voankazo na crème kely rehefa mamonjy mofo miaraka.
+- **Sakafo fety arak’ny vanim-potoana.** Anana amin’ny fahavaratra, cider mafana amin’ny fararano, natolotra amin’ny hafanana azo antoka.
 
-### Sound
+### Feo
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Mozika tiana.** Hira mahazatra amin’ny feo malemy; jereo ny [hetsika mozika](/activities/music/).
+- **Feon’ny natiora.** Orana, onja na feon’ny vorona. Ny NIA dia milaza fa ny mozika, feo fanjavonana ary feon’ny natiora dia toa manampy amin’ny fanamaivanana ny olona sasany.
+- **Ny feonao.** Famakiana mafy, fihira kely, na fitantarana tantara.
+- **Fitaovana mozika tsotra.** Tiokely kely, shaker na lakolosy hilalaovana miaraka amin’ny mozika.
 
-### Sight
+### Fijery
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Fijerena varavarankely.** Vata vorona eo ivelan’ny varavarankely, zaza mandeha any an-trano, na lanezy milatsaka.
+- **Tanky trondro na horonan-tsary miadana.** Fihetsehana malemy tsy misy feo mafy.
+- **Sary lehibe.** Sary mazava iray isaky ny fotoana, azo tazonina eo amin’ny sakan’ny maso.
+- **Loko sy endrika.** Mandamina takelaka lamba mamirapiratra, voninkazo na serviety mivaloko, na pejy hosodoko tsotra avy amin’ny [hosodoko](/games/coloring/) ataonay.
+- **Any ivelany.** Ny NHS dia manoro hevitra ny zaridaina fahatsapana misy zavamaniry mahamarina, rafitra samy hafa ary rano. Jereo ny [hetsika any ivelany sy zaridaina](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Ahoana no fomba hanamboarana boaty fahatsapana
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Misafidiana lohahevitra** mifandray amin’ny fiainan’ny olona: ny fitsangantsanganana, ny zaridaina, ny lakozia, ny atrikasa, ny fanjaitra.
+2. **Misafidiana zavatra lehibe dimy na enina azo antoka,** toy ny sakan-dranomasina lehibe, spatula hazo, lamba malemy, sachet lavanda maina natsindrina, na vato hazo malama.
+3. **Jereo ny zavatra tsirairay** ho an’ny anjara kely, sisiny maranitra, tady miala, ary izay azo torotoro.
+4. **Entano zavatra iray isaky ny fotoana.** Omeo izy, lazao izany, ary avelao ny olona hijery.
+5. **Apetraho ao anaty boaty aorian’izay** mba ho manokana mandrakariva, ary jereo indray ny zavatra alohan’ny manaraka.
 
-## Safety first
+## Fiarovana aloha
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Malemy ny hetsika fahatsapana, fa misy loza vitsivitsy manan-danja. Ny olona sasany manana dementia mety hieritreritra fa sakafo ny zavatra tsy sakafo, ary mety ho sarotra kokoa ny mitsimafy amin’ny fotoana. Ny NIA dia mampitandrina fa ny olana amin’ny fitsimana amin’ny sehatra farany dia mampitombo ny loza amin’ny fitsimana.
 
-| Risk | What to do |
+| Loza | Inona no ataovy |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Fitsimana | Ampiasao zavatra lehibe loatra ho azo mihinina ihany. Aza misy bokotra, vato kely, vola kely, marbila na fanaovana kely miseho amin’ny boaty. Omeo sakafo amin’ny endrika azo antoka ihany araka ny lazain’ny ekipa mikarakara. |
+| Zavatra mitovy amin’ny sakafo | Ny NIA dia manoro hevitra ny hanakatonana crème, savony, shampoo ary lofina, izay mety ho toy ny sakafo na mitovy fofona aminy, ary ny fanesorana voankazo tsy misy tena. Apetraho amin’ny toerana misy fiarovana ireo vokatra fahatsapana aorian’ny fampiasana. |
+| Allergie | Jereo ny allergie amin’ny voanio, latex, lanezy, zavamaniry na fofona alohan’ny hanombohana. |
+| Fofona mahery | Aza ampiasa lofina mahery sy menaka mahery, indrindra raha misy hany na olana hafa amin’ny fofonaina. Ny fofona malemy sy voajanahary dia azo antoka kokoa. |
+| Hoditra | Jereo raha misy hoditra marary, maratra na malemy alohan’ny fanosotra tanana. Ampiasao tsindry malemy ary ajanony raha misintona izy. |
+| Hafanana | Andramo lamba mafana sy zava-pisotro amin’ny tananao aloha. |
+| Zavatra maranitra na mampidi-doza | Aza ampiasa fitaovana maranitra, fitaovana fanaovan-tanana misy menaka, na fitaovana mahamaina. |
 
-## Does aromatherapy help?
+## Aromaterapia: mahasoa ve?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Tsy dia mahasoa tanteraka araka ny azo refesina. Ny [famerenana Cochrane momba ny aromaterapia amin’ny dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) dia nijery fikarohana 13 misy olona 708, izay rehetra tao amin’ny trano fikarakarana, ary tsy nahita porofo mahatoky fa mahasoa. Kely ny fikarohana, samy hafa ny valiny, ary tsy voatatitra tsara ny vokatra ara-pitsaboana. Raha tia fofona malemy mahazatra ny olona, toy ny lavanda avy amin’ny zaridaina, izany dia antony tsara hizarana azy. Fa tsy fitsaboana izany.
 
-## How to offer a sensory activity
+## Ahoana no fomba hanolorana hetsika fahatsapana
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Misafidiana fotoana mangina** ary afaharo ny TV.
+- **Atombohy avy any anoloany,** antsoy ny anarany, ary anontanio na lazao alohan’ny hikasihana: “Manana crème aho. Tiana ve ny hanosotra tanana?”
+- **Omeo zavatra iray isaky ny fotoana** mba tsy hahasosotra.
+- **Jereo ny valiny.** Tavy malemy, tanana malemy na fitsiky dia famantarana tsara. Mihetsika mankaleo, mampirenireny na tsy afa-tsaina dia midika ajanony.
+- **Tazomina fohy.** Fotoana fito minitra mangina dia fampiasana tsara.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Fitsaharana fofonaina miaraka, toy ny [fisefoana mangina](/games/calm-breathing/), dia afaka ho fomba malemy hamaranana. Ho an’ny hevitra akaikin’ny fandriana bebe kokoa, jereo ny [hetsika amin’ny sehatra farany](/activities/late-stage/), ary ho an’ny ahiahy amin’ny ariva, jereo ny [fahatsorana andro-hariva](/caregiving/late-day-restlessness/).
