@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "ඩිමෙන්ශියා ඇති වැඩිහිටියන් සඳහා චිත්‍ර සහ අත්කම්"
+seoTitle: "ඩිමෙන්ශියාව සඳහා චිත්‍ර සහ අත්කම්: ළමා ගතියක් නැති, වැඩිහිටි"
+description: "ඩිමෙන්ශියාව සහිත වැඩිහිටියන්ට ජල වර්ණ සිට මල් සැකසීම දක්වා වැඩිහිටි චිත්‍ර සහ අත්කම් අදහස්, සැකසීමේ, අනුවර්තනයේ ඉඟි සමඟ."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  ඩිමෙන්ශියාව සහිත වැඩිහිටියන්ට හොඳ චිත්‍ර සහ අත්කම් වැඩිහිටි ස්වභාවයක් ඇත: ජල වර්ණ, සඟරාවලින් කොලාජ්, මල් සැකසීම, මැටි, සරල කාඩ් සෑදීම හෝ වැඩිහිටි වර්ණ දීමේ පිටු. ද්‍රව්‍ය කිහිපයක් තබා, අවශ්‍ය නම් පළමු පහරට උදව් කර, වැඩ කරන අතරතුර කතා කර, එකට ගත කරන කාලය ම ප්‍රධාන කරුණ ලෙස සලකන්න. අවසන් කළ කෘතියක් විකල්පයකි.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "වැඩිහිටි ස්වභාවයක් ඇති ද්‍රව්‍ය සහ තේමා තෝරන්න, ජල වර්ණ කඩදාසි, සැබෑ මල් සහ සඟරා රූප වැනි; බැබළුම් කැට, ස්ටිකර් හෝ කාටුන් වැඩ පත්‍ර නොවේ."
+  - "ක්‍රියාවලියට අවධානය යොමු කරන්න: වර්ණ, මැටියේ හැඟීම, සංවාදය. අවසන් කෘතිය බෝනසයක්, ඉලක්කයක් නොවේ."
+  - "හැකි විට අරමුණක් දෙන්න, උදාහරණයක් ලෙස මුනුපුරෙකුට කාඩ්පතක් හෝ මේසයට මධ්‍යස්ථානයක්."
+  - "ඔවුන් ආරම්භ කිරීමට උදව් කර, පසුව පසුබසින්න. ජල වර්ණ පහරක් එක්ව ආරම්භ කිරීම බොහෝ විට ප්‍රමාණවත්ය."
+  - "ව්‍යාපෘති එක් වාරයකින් අවසන් කළ යුතු නැත, සහ මුලින්ම නවතින්න ඕනෑම විටක හරියි."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "අත්කම් ළමා ගතියක් නොවන ලෙස තබා ගන්නේ කෙසේද?"
+    a: "සැබෑ කලා ද්‍රව්‍ය, වැඩිහිටි තේමා සහ ගෞරවණීය ස්වරයක් භාවිත කරන්න. බැබළුම් සහ කාටුන් පිටු වෙනුවට ජල වර්ණ කඩදාසි, රෙදි, මල්, සඟරා ඡායාරූප සහ සවිස්තරාත්මක වර්ණ දීමේ පිටු භාවිත කරන්න. ළමයෙකුගේ චිත්‍රයක් ප්‍රශංසා කරන ආකාරයට කෘතිය කිසිදා ප්‍රශංසා නොකරන්න; ඕනෑම වැඩිහිටි මිත්‍රයෙකු සමඟ කතා කරන ආකාරයට එය ගැන කතා කරන්න."
+  - q: "ඩිමෙන්ශියාවේ පසු අවධියේදී කුමන කලා ක්‍රියාකාරකම් ක්‍රියා කරයි?"
+    a: "සරල, සංවේදී ව්‍යාපෘති පසුව හොඳින් ක්‍රියා කරයි: විශාල බුරුසුවකින් පුළුල් පහරවල් ඇඳීම, මෘදු මැටි පීඩනය, මල් බඳුනක මල් කිහිපයක් සැකසීම, හෝ රෙදි සාම්පල ස්පර්ශයෙන් වර්ග කිරීම. චලනය එක්ව ආරම්භ කිරීමට ඔබට අවශ්‍ය විය හැක. ඔබ චිත්‍ර ඇඳීම බලා, වර්ණ ගැන කතා කිරීමද සහභාගී වීමේ ක්‍රමයකි."
+  - q: "ඔවුන් කියන්නේ ඔවුන්ට ඇඳීමට බැරි බවයි නම් කුමක් කළ යුතුද?"
+    a: "පීඩනය ඉවත් කරන්න. නිවැරදි පිළිතුරක් නැති ව්‍යාපෘති උත්සාහ කරන්න, උදාහරණයක් ලෙස ජල වර්ණ තින්තක්, කොලාජ් හෝ මල් සැකසීම. ඔබට නිශ්චිත දෙයකට උදව් අවශ්‍යයි කියා ද කියන්න, උදාහරණයක් ලෙස කාඩ්පතක වර්ණ තෝරා ගැනීමට, එවිට කාර්යය පරීක්ෂණයක් නොව උදව්වක් ලෙස දැනේ."
+  - q: "වර්ණ දීමේ පිටු වැඩිහිටියන්ට ළමා ගතිය ඇති ඒවාද?"
+    a: "වැඩිහිටියන් සඳහා සැලසුම් කළ විට නොවේ. උයන්, කිලිමිලි, මෝටර් රථ හෝ භූ දර්ශන වැනි වැඩිහිටි විෂයන් ඇති පිටු තෝරා ගෙන, ඒවා ඉගැන්වීමක් ලෙස නොව විවේකදායක ලෙස ඉදිරිපත් කරන්න. අපගේ වර්ණ දීමේ පිටු මුද්‍රණය කළ හැක, නැතහොත් ටැබ්ලට් එකේ වර්ණ දිය හැක."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+කලා සහ අත්කම් ඩිමෙන්ශියාව සහිත අයට නිසි වචන සොයා ගැනීමට අවශ්‍ය නොවන ආත්ම ප්‍රකාශනයේ ක්‍රමයක් ලබා දේ. Alzheimer's Association සටහන් කරන්නේ කලා ව්‍යාපෘති [ජයග්‍රහණයේ හා අරමුණේ හැඟීමක්](https://www.alz.org/help-support/caregiving/daily-care/art-music) සහ ආත්ම ප්‍රකාශනයට අවස්ථාවක් ගෙන දිය හැකි බවයි, ඩිමෙන්ශියා ඇති පුද්ගලයාටත්, සාත්තුකරුවාටත්. යතුර වන්නේ දේවල් වැඩිහිටි, සරල සහ පීඩනයෙන් තොර තබා ගැනීමයි. මෙම පිටුව නිශ්චිත ව්‍යාපෘති, ඒවා සකස් කරන ආකාරය සහ වෙනස්වීම් සමඟ ඒවා අනුවර්තනය කරන ආකාරය ලබා දෙයි.
 
-## What makes an art activity adult and not childish?
+## කලා ක්‍රියාකාරකමක් වැඩිහිටි සහ ළමා නොවන වන්නේ කෙසේද?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+වැඩිහිටි කලා ක්‍රියාකාරකමක් සැබෑ ද්‍රව්‍ය, වැඩිහිටි විෂයන් සහ ගෞරවණීය ස්වරයක් භාවිත කරයි. Alzheimer's Association උපදෙස් දෙන්නේ ව්‍යාපෘති වැඩිහිටි මට්ටමේ තබා, ළමා ගතියක් ඇති හෝ අවමන් සහගත ලෙස පෙනෙන දේවල් වළක්වන ලෙසයි.
 
-| Feels childish | Feels adult |
+| ළමා ගතියක් ලෙස පෙනෙන | වැඩිහිටි ලෙස පෙනෙන |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| බැබළුම්, පා ස්ටිකර්, ඇස් ලෙස බොත්තම් | ජල වර්ණ කඩදාසි, රෙදි, තද මල් |
+| කාටුන් වර්ණ දීමේ පත්‍ර | උයන්, කිලිමිලි, මෝටර් රථ හෝ භූ දර්ශන වර්ණ දීමේ පිටු |
+| සෑම ලකුණකටම “හොඳ වැඩක්” ප්‍රශංසා | සැබෑ සංවාදය: “ඒ නිල් පාට කොළ ළඟ ලස්සනයි” |
+| ප්‍රයෝජනයක් නැති අත්කමක් | මිතුරෙකුට කාඩ්පතක්, මධ්‍යස්ථානයක්, තෑගියක් |
+| උගන්වන්නා සේ කියවන උපදෙස් | ආරාධනාවක්: “මට මේකට උදව් කරන්න පුළුවන්ද?” |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+ඔබ පුද්ගලයාගේම රසය ගැන සිතන්න. සූචි වැඩ ආදරය කළ කෙනෙකුට රෙදි හැසිරවීම රසවත් විය හැක. විශ්‍රාමික ඉංජිනේරුවෙකු විශාල කොටස් සහිත ආකෘති කට්ටලයක් හෝ ව්‍යාපෘතියක් සඳහා හාඩ්වෙයාර් වර්ග කිරීම වඩාත් කැමති විය හැක. හිටපු ගුරුවරයෙකු කාඩ් සෑදීම රසවිඳිය හැක.
 
-## Why focus on the process, not the product?
+## ක්‍රියාවලිය මත අවධානය, ප්‍රතිඵලය මත නොව, ඇයි?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+මන්ද එකට ගත කරන කාලය ප්‍රධාන නිසා. Alzheimer's Association හි [ගෙදර ක්‍රියාකාරකම්](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) මාර්ගෝපදේශය පවසන්නේ ප්‍රතිඵලය නොව ක්‍රියාවලිය කෙරෙහි අවධානය යොමු කරන ලෙසයි. “ඉතා නිල්” වූ සිතුවමක් එයද සිතුවමකි. රූප තුනකින් යුත් කොලාජයක් තවමත් කොලාජයකි.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association එසේම සටහන් කරන්නේ දක්ෂ චිත්‍ර ශිල්පියෙකු තම වැඩවල වෙනස්වීම් නිසා කලකිරීමට පත් විය හැක, නමුත් ආධුනිකයෙකු ආත්ම ප්‍රකාශනය සඳහා නව අවස්ථාවක් රසවිඳිය හැක. පුද්ගලයා දක්ෂ චිත්‍ර ශිල්පියෙකු වූයේ නම්, ඔවුන් ප්‍රවීණ වූ මාධ්‍යයෙන් වෙනත් මාධ්‍යයක් උත්සාහ කරන්න, එවිට එය සංසන්දනයක් නොව ක්‍රීඩාවක් ලෙස දැනේ.
 
-## Arts and crafts ideas to try
+## උත්සාහ කළ යුතු කලා සහ අත්කම් අදහස්
 
-Each idea includes how to make it simpler if it becomes hard.
+සෑම අදහසකටම දුෂ්කර වුවහොත් එය සරල කරන ආකාරය ඇතුළත් වේ.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **ජල වර්ණ පහර.** බර ජල වර්ණ කඩදාසි තෙත් කර, පුද්ගලයාට විශාල බුරුසුවකින් වර්ණ වැටීමට ඉඩ දෙන්න. වර්ණ තමන්ටම පැතිරේ, එබැවින් වැරදි ප්‍රතිඵලයක් නැත. *සරල:* වර්ණ දෙකක් පමණක් දෙන්න, නැතහොත් තෙත් ලකුණු පෙනෙන අඳුරු කඩදාසියක ජලයෙන් අඳින්න.
+2. **සඟරා කොලාජ්.** උයන්, ආහාර පිසීම, මෝටර් රථ, සංචාර හෝ පුද්ගලයාගේ පැරණි විනෝදාංශ ගැන සඟරාවලින් කලින් රූප කපන්න. ඔවුන්ට තෝරා කාඩ් ස්ටොක් මත ඇලවීමට ඉඩ දෙන්න. *සරල:* පෙර කපා ඇති රූප හතරක් සහ ගම් බට්ටයක් දෙන්න, ඇලවීම එක්ව කරන්න.
+3. **මල් සැකසීම.** Alzheimer's Foundation of America [කපන ලද මල් සහ කොළ](https://alzfdn.org/dementia-activity-gardening/) වාරයට ගැලපෙන සරල සැරසිලි බවට සකස් කරන ලෙස යෝජනා කරයි. ස්ථාවර, බර මල් බඳුනක් සහ දැනටමත් කපා ඇති මල් දණ්ඩ භාවිත කරන්න. *සරල:* කුඩා කෝප්පයකට මල් දණ්ඩ කිහිපයක් එක විට එකක් බැගින් තබන්න.
+4. **මල් ඔබා ඇති කාඩ්.** මල් ගුලියකින් සති එකක් පොත් පිටු අතර ඔබා තබන්න, ඉන්පසු නමා ඇති කාඩ් ස්ටොක් මත ඇලවන්න. *සරල:* ඔබ ගම් තබන්න, ඔවුන් මල් තද කරන්න.
+5. **වැඩිහිටි වර්ණ දීමේ පිටු.** පැහැදිලි රේඛා සහ සැබෑ විෂයන් ඇති පිටු තෝරන්න. අපගේ මුද්‍රණය කළ හැකි [වර්ණ දීමේ පිටු](/games/coloring/) තිරය මත ද වර්ණ දිය හැක: වර්ණයක් තට්ටු කර, පසුව චිත්‍රයේ කොටසක් තට්ටු කරන්න. *සරල:* විශාල ප්‍රදේශ, අඩු වර්ණ, ඝන පින්සල්.
+6. **මැටි හෝ මෘදු පිටි.** වායුවෙන් වියළෙන මැටි හෝ මෘදු මෝල්ඩිං පිටි රෝල් කර, තට්ටු කර, හැඩ ගන්වන්න. මැටි මත කොළයක් තද කිරීම සරල මුද්‍රා ටයිල් එකක් සාදයි. *සරල:* මැටි පීඩනය සහ රෝල් කිරීම පමණක් සම්පූර්ණ ක්‍රියාකාරකමකි. පුද්ගලයා මැටි මුඛයට දමන්නේ නැති බව බලා සිටින්න.
+7. **කාඩ් සෑදීම.** Alzheimer's Association යෝජනා කරන්නේ එය සැබෑ කාර්යයක් ලෙස රාමු කරන ලෙසයි: “අපි මිතුරෙකුට සුවය ලබන්නට කාඩ්පතක් යවනවා. ඔබ උදව් කරනවාද?” කලින් කපා ඇති කාඩ් ස්ටොක් සහ මල් හෝ මුද්‍රා ස්ටිකර් කිහිපයක් හොඳින් ක්‍රියා කරයි.
+8. **ස්ක්‍රැප්බුකින්.** පැරණි ඡායාරූප, තැපැල් කාඩ් හෝ ටිකට් කොටස් ඇල්බම පිටු මත එක්ව තබන්න. යන අතරතුර එක් එකක් ගැන කතා කරන්න. අතීතය ගැන කතා කිරීමට සැහැල්ලු ක්‍රම සඳහා අපගේ [මතක ක්‍රියාකාරකම් මාර්ගෝපදේශය](/activities/reminiscence/) බලන්න.
+9. **රෙදි සහ ස්පර්ශ පුවරු.** දෘඪ කාඩ් මත හබල්, වෙල්වට්, බර්ලැප් සහ සේද රෙදි සාම්පල ඇලවන්න. එය සෑදීම ක්‍රියාකාරකමයි; පසුව ස්පර්ශ කිරීම තවත් එකකි. වැඩි අදහස් [ඉන්ද්‍රිය ක්‍රියාකාරකම් මාර්ගෝපදේශයේ](/activities/sensory/) ඇත.
+10. **සරල ලී ඔප දැමීම.** ලී වැඩ කිරීමට කැමති අයෙකු සඳහා, සුමට ලී කුට්ටියක් ඔප දැමීම හෝ කුරුල්ලන් නිවාසයක් සඳහා කට්ටලයක් වර්ණ ගැන්වීම හුරු ලෙස දැනිය හැක. තියුණු මෙවලම් ඉවත් කර අධීක්ෂණය කරන්න.
+11. **සංගීතයට චිත්‍ර ඇඳීම.** ප්‍රිය ගීතයක් දමා, මනෝභාවයට ගැලපෙන හැඩ හෝ වර්ණ අඳින්න. මෙය බොහෝ දෙනා රසවිඳින ක්‍රියාකාරකම් දෙකක් එකතු කරයි. [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
 
-## How do I set up an art session?
+## කලා සැසියක් සකස් කරන්නේ කෙසේද?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **පළමුව සූදානම් වන්න.** පුද්ගලයා ආරාධනා කිරීමට පෙර සියල්ල කපා, හැඩ ගන්වා, සකස් කරන්න. ලිය සොයමින් සිටීම නිමේෂය නැති කළ හැක.
+2. **කුඩාව තබන්න.** වර්ණ දෙක-තුනක්, එක් පින්සලක්, එක් කඩදාසි පත්‍රයක්. ඉතා වැඩි තේරීම් අභිභව විය හැක.
+3. **මේසය ආරක්ෂා කරන්න.** ප්ලාස්ටික් රෙදි හෝ පරණ පත්‍රයක් ඇති කර, අපිරිසිදුවීම ගැන කරදරයක් නොවන ලෙස තබන්න.
+4. **පැත්තෙන් පැත්තට වාඩි වන්න.** ඔබේම කෘතිය ඔවුන්ගේ අසල වැඩ කරන්න. එය බෙදා ගත් දෙයක් මෙන් දැනේ, අධීක්ෂණයක් නොව.
+5. **ඔවුන්ට ආරම්භ කිරීමට උදව් කරන්න.** Alzheimer's Association සටහන් කරන්නේ පුද්ගලයා සමඟ බුරුසු චලනය ආරම්භ කිරීමට ඔබට අවශ්‍ය විය හැකි බවයි. ආරම්භ වූ පසු, බොහෝ දෙනා දිගටම කරති.
+6. **වැඩ කරන අතරතුර කතා කරන්න.** වර්ණ හෝ වයනයන් ගැන අදහස් දක්වන්න, නැතහොත් කලාව කතාන්දරවලට මග පාදන්න. “මෙය කුමක්ද?” වැනි ප්‍රශ්න විභාග ආකාරයෙන් වළකින්න.
+7. **බොහෝ කාලයක් ඉඩ දෙන්න.** ව්‍යාපෘතියක් එක් වාරයකින් අවසන් කිරීම අවශ්‍ය නැත.
 
-## How do I adapt art as dementia changes?
+## ඩිමෙන්ශියාව වෙනස් වන විට කලාව අනුවර්තනය කරන්නේ කෙසේද?
 
-| Stage | What tends to work | What to adjust |
+| අවධිය | ක්‍රියා කරන දේ | සකස් කළ යුතු දේ |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| මුල් | පන්ති, සවිස්තර වර්ණ දීම, ස්ක්‍රැප්බුක්, කාඩ් සෑදීම, ඡායාරූපයකින් අඳීම | ව්‍යාපෘති තේරීම ලබා දෙන්න; සමාජීය තබා ගන්න |
+| මධ්‍ය | කලින් කපා ඇති කොලාජ්, ජල වර්ණ තින්ත, මල් සැකසීම, විශාල ප්‍රදේශ වර්ණ දීම | එක් පියවරක් එක විට; කපා ඇලවීම ඔබ කරන්න |
+| ප්‍රමාද | පුළුල් බුරුසු පහරවල්, මැටි පීඩනය, රෙදි ස්පර්ශය, ඔබ අඳින ආකාරය නැරඹීම | සංවේදන කෙරෙහි අවධානය; අතට මෘදුව මඟ පෙන්වන්න, ඉඩ දෙනවා නම් |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS යෝජනා කරන්නේ පසු අවධිවලදී ක්‍රියාකාරකම් බොහෝ විට සරල කර සංවේදනයන් කෙරෙහි අවධානය යොමු කරන බවයි. වෙනත් අයෙකු අඳින ආකාරය නැරඹීම සහ වර්ණ ගැන කතා කිරීම සහභාගී වීමේ සැබෑ ක්‍රමයකි. තවත් අවධි අනුව අදහස් සඳහා, [සෑම අවධියක් සඳහාම ක්‍රියාකාරකම්](/activities/ideas/) බලන්න.
 
-## Safety with art supplies
+## කලා ද්‍රව්‍ය සමඟ ආරක්ෂාව
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- විෂ නැති තින්ත, පැන් සහ ගම් බට්ටය තෝරන්න.
+- කත්තරම්, කලා පිහි සහ උණුසුම් ගම් තුවක්කු ළඟා විය නොහැකි තැන තබන්න. කැපීමක් ඕනෑම කෙනෙක් කරනවා නම් ඔබම, කලින් කරන්න.
+- පුද්ගලයා මැටි, තින්ත හෝ කුඩා භාණ්ඩ මුඛයට දමන්නේදැයි බලා සිටින්න.
+- ජලය සහ බඳුන් සඳහා ස්ථාවර, බර බඳුන් භාවිත කරන්න.
 
-## When should we stop?
+## අපි කවදා නවතිනවාද?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+අවධානය ඉවත් වන විට හෝ කලකිරීම පෙනෙන විට නවතින්න. Alzheimer's Association යෝජනා කරන්නේ අවධානය ක්ෂය වන විට හෝ කලකිරීම වැඩි වන විට ක්‍රියාකාරකම අවසන් කිරීම හෝ වෙනස් කිරීමයි. ව්‍යාපෘතිය ආරක්ෂිත ස්ථානයක තබා, සහනදායක දෙයක් ඉදිරිපත් කරන්න. ඔබට එය හෙට ආපසු ගෙන ඒමට හැක, නැතහොත් කිසි දිනක නැත. දෙකම හරි.
 
-## Display the work, if the person wants
+## පුද්ගලයා කැමති නම් කෘතිය ප්‍රදර්ශනය කරන්න
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+ශීතකරණයේ චිත්‍රයක් ඇලවීම හෝ කොලාජයක් රාමු කිරීම ගෞරවය පෙන්වීමේ නිහඬ ක්‍රමයක් විය හැක. පළමුව අසන්න. සමහරු තම වැඩ බිත්තියේ දැකීමට ආදරය කරති; තවත් අය එය නොකිරීමට කැමතිය.
 
-## Pair art with our games
+## කලා අපගේ ක්‍රීඩා සමඟ යුගල කරන්න
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+තීන්ත සකස් කිරීම අධික වන දවසක, [වර්ණ දීම](/games/coloring/) ටැබ්ලට් එකේ කුළු නැති ලෙස වැඩ කරයි. [Picture Puzzle](/games/picture-puzzle/) කොටස් හුවමාරු කරන අතරතුර මුළු චිත්‍රය මාර්ගෝපදේශයක් ලෙස දෘශ්‍යමානව තබයි. [Conversation Cards](/games/conversation-cards/) චිත්‍රයකින් කතාන්දරයකට යා හැකි විවෘත ප්‍රශ්න ලබා දෙයි. ඒ සියල්ල කාල මානකයක් හෝ ලකුණු නොමැත. ඔබට අපගේ [මුද්‍රණ ක්‍රියාකාරකම්](/activities/printable/) එකතුවෙන් පිටු මුද්‍රණය කළ හැක.
