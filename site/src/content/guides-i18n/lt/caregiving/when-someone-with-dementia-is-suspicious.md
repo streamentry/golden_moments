@@ -57,7 +57,7 @@ Atsakykite į susirūpinimą, nepritardami tam, ko nežinote. Trumpas, ramus ats
 - **Siūlykite praktinę pagalbą.** Jei žmogus nori, kartu patikrinkite įprastas vietas arba paklauskite, ar jis norėtų, kad padėtų kas nors kitas.
 - **Sustokite, jei nerimas auga.** Suteikite žmogui erdvės ir grįžkite prie rūpesčio vėliau, jei tai saugu.
 
-Kaltinimas gali atrodyti asmeniškas. Stenkitės atskirti žmogaus baimę nuo to, kas iš tikrųjų žinoma apie įvykį. Jūs nesate pareigingi prisiimti kaltės už tai, ko nepadarėte, ir nebūtina išspręsti visų nesutarimų tuo momentu.
+Kaltinimas gali atrodyti asmeniškas. Stenkitės atskirti žmogaus baimę nuo to, kas iš tikrųjų žinoma apie įvykį. Jūs neprivalote prisiimti kaltės už tai, ko nepadarėte, ir nebūtina išspręsti visų nesutarimų tuo momentu.
 
 ## Ar rūpestis gali būti susijęs su tikrai dingusiu daiktu?
 

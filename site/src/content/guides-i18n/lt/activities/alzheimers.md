@@ -17,7 +17,7 @@ keyPoints:
   - "Alzheimerio liga yra dažniausia demencijos priežastis, todėl ir demencijai skirtos veiklos idėjos tinka."
   - "Naujos informacijos dažniausiai sunkiausiai įsisavinama, o seniau išmoktus įgūdžius ir dainas žmonės dažnai išlaiko ilgiau. Remkitės jais."
   - "Etapai persidengia, geros ir sunkios dienos yra įprastos. Rinkitės pagal tai, ką žmogus šiandien moka ir mėgsta."
-  - "Rinkitės žaidimus be laikmačio, taškų ir klausinėjimo, o paveikslėliai lai lieka matomi."
+  - "Rinkitės žaidimus be laikmačio, taškų ir klausinėjimo, o paveikslėliai lieka matomi."
   - "Stebėjimas, daikto laikymas rankose ar tiesiog kartu sėdėjimas – visa tai yra dalyvavimas."
 faq:
   - q: "Kokios veiklos tinka žmogui su Alzheimerio liga?"
