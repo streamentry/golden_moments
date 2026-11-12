@@ -1,11 +1,11 @@
-Warning: truncated output (original token count: 32775)
-Total output lines: 587
+Warning: truncated output (original token count: 33422)
+Total output lines: 600
 
 # 100 Big Improvements Tracker
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 85 / 100 completed**
+**Progress: 86 / 100 completed**
 
 ---
 
@@ -66,8 +66,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 86 | *Next in queue* | Pending |
-| 87–100 | Planned one by one | Pending |
+| 87 | *Next in queue* | Pending |
+| 88–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -175,19 +175,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | Check | Evidence | Result |
 |---|---|---|
-| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatme…2775 tokens truncated… celebrations, and the early-stage activities guide mentions short outings. Neither helps a caregiver prepare for a longer trip, transport assistance, medication lists or a return plan. | Added the site's 50th English guide with a decision checklist, simple itinerary, essentials, provider assistance and permission to shorten or stop. |
-| Boundaries | The guide does not make medical clearance, insurance or transportation-policy decisions. It tells readers to check current rules with providers and ask a health professional about medical or medication questions. | Advice is general; provider procedures and local requirements vary. |
-| Checks | `pnpm --dir site verify`: 1,865 tests, 12,493 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
-| Render inspection | The built `/caregiving/traveling-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
-| Not verified | No caregiver, participant, travel professional, clinician, native-speaker or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim suitability or user validation. |
-
-## Round 55: support for someone living alone with dementia
-
-| Check | Evidence | Result |
-|---|---|---|
-| Source fit | The Alzheimer's Association says many people with Alzheimer's live alone, particularly earlier on, with adjustments and support. It lists help with meals, household tasks, transportation and medication reminders, and regular contact with others. | A practical guide can focus on routines and support chosen with the person. This is not a decision tool for whether someone may live alone. |
-| Existing coverage and gap | Round 52 added room-by-room home-safety advice, but the site had no guide on daily routines, agreed check-ins, help with recurring tasks or adding support gradually for someone living alone. | Added the site's 51st English guide. It centers the person's priorities and avoids a fixed cutoff, stage score or monitoring requirement. |
-| Checks | `pnpm --dir site verify`: 1,865 tests, 12,494 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
+| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatme…3422 tokens truncated… pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
 | Render inspection | The built `/caregiving/living-alone-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
 | Not verified | No caregiver, participant, clinician, native-speaker or device review. The browser workflow is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim a safety or suitability assessment. |
 
@@ -524,4 +512,17 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Implementation commit | `7f5d727991e4ab0b669cdb7c64661daeec1b8dd9` | Source state for the checks recorded below. |
 | Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,519 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
 | Render inspection | Built route `/caregiving/when-anger-becomes-aggression-with-dementia/`, caregiving hub, refusal guide and late-day guide contain the new page and cross-links. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 86: coordinate dementia care from a distance (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes remote tasks such as appointments, local-service research, coordinating helpers, visits and respite; it says to ask the clinic what release it needs before sharing updates. Its early-stage guidance notes that remote helpers may not be able to assess needs directly and recommends connecting with the person's chosen support network. Family Caregiver Alliance recommends identifying needs, researching local services, planning visits and using support. | Supports person-led coordination and clear permission boundaries. No legal authority or health outcome is claimed. |
+| Existing coverage and gap | The living-alone guide covers agreed check-ins; in-home care and emergency planning cover specific services and crises; family disagreements covers task sharing. None provides a focused plan for remote helpers coordinating with local support across living arrangements. | Added the site's 77th English caregiving guide and cross-links from living-alone and family-disagreement guidance. |
+| Change | Added remote task examples, an agreed contact and backup plan, provider permission checks, visit planning and support for local caregivers. | Does not ask readers to monitor or inspect the person without consent. |
+| Safety boundary | Ask what the person wants shared; provider permission, legal authority and services vary by location. Sudden health changes need the person's local care team or urgent service. | General planning information; no legal or clinical determination. |
+| Implementation commit | `e769c37d2e3070d4accd2c2f6ac380a7653ddfe0` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,520 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built route `/caregiving/long-distance-caregiving-with-dementia/`, caregiving hub, living-alone guide and family-disagreements guide contain the new page and cross-links. | Static output checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |

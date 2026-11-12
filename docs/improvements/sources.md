@@ -398,3 +398,12 @@ Application: the site has guidance on sundowning, suspicion, non-recognition and
 - [National Institute on Aging: Coping with agitation, aggression, and sundowning](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) — search result seen; opening returned HTTP 405; not used.
 
 Application: the site mentioned frustration, pain and aggression inside activity-refusal, communication, pain and late-day guidance, but had no focused response page. The new guide offers immediate safety steps, calm de-escalation, private observation notes and escalation boundaries without diagnosing intent or cause.
+
+## Round 86: long-distance dementia caregiving (read 2026-11-11)
+
+- [Alzheimer's Association: Long Distance Caregiving](https://www.alz.org/help-support/caregiving/care-options/long-distance-caregiving) — opened. It describes remote support tasks, local coordination, regular communication, permission for provider updates, visits and support for nearby caregivers. Its U.S. resources and stage-based examples were not transferred as universal rules.
+- [Alzheimer's Association: Early-Stage Alzheimer's & Dementia Caregiving](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) — opened. Its “Secondary care partners” section includes remote relatives and notes that distance limits direct observation; it recommends connecting with the chosen support network and asking the person how help feels.
+- [Family Caregiver Alliance: FAQ, How can I help with caregiving from far away?](https://www.caregiver.org/faq/how-can-i-help-with-caregiving-from-far-away/) — opened. It recommends identifying needs, researching services where the person lives, planning visits, considering respite and seeking support.
+- [National Institute on Aging: Long-distance caregiving](https://www.nia.nih.gov/health/long-distance-caregiving) — search result seen; opening returned HTTP 405; not used.
+
+Application: the site had separate guides for living alone, in-home support, emergency planning and family disagreements, but no practical page on remote care roles and coordination. The new guide keeps the person involved, asks readers to confirm provider permission requirements, and avoids specific legal or health determinations.
