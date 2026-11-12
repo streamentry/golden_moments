@@ -82,7 +82,7 @@ For veiledning om daglige rutiner og å holde seg aktiv, se [en rolig dagsrytme]
 
 Partnere og voksne barn føler seg ofte isolert. Omsorg kan føles som en ekstrajobb oppå arbeid og familie. Innlegget på Alzheimer's Association sin blogg forteller at pårørende i grupper for yngre debut fant dem nyttige for praktiske spørsmål, som juridisk planlegging, og for å føle seg forstått. Der står også at foreningen tilbyr gratis støttegrupper for pårørende, også grupper for personer som tar seg av noen med yngre debut, og at tre av dem møtes digitalt på tirsdager og onsdager.
 
-For å spørre om grupper kan du ringe foreningens døgnåpne hjelpelinje på 800.272.3900. Veiledningen vår om [egenomsorg for pårørende](/caregiving/caregiver-self-care/) dekker hvile, avlastning og tegn på utbrenthet.
+For å spørre om grupper kan du ringe foreningens hjelpelinje (24/7) på 800.272.3900. Veiledningen vår om [egenomsorg for pårørende](/caregiving/caregiver-self-care/) dekker hvile, avlastning og tegn på utbrenthet.
 
 ## Stadiene betyr fortsatt noe
 

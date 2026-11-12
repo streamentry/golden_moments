@@ -15,7 +15,7 @@ summary: >-
 keyPoints:
   - "Bruk bilder i stedet for tall, og gjør hvert bilde stort, tydelig og om én kjent ting."
   - "Rop opp langsomt, vis bildet og si navnet. Gjenta navnet én gang, og vent."
-  - "Hold gruppene på fire til åtte personer, og sett personen der hen kan se opplesingen og kortet."
+  - "Hold gruppene på fire til åtte personer, og sett personen der personen kan se opplesingen og kortet."
   - "Gjør det valgfritt å vinne. Noen økter kan avsluttes med at alle roper opp et bilde de liker."
   - "Spør før dere roper opp en vinner. Noen synes en premie eller klapping er ubehagelig, og det er helt greit."
 faq:
@@ -26,7 +26,7 @@ faq:
   - q: "Hjelper bildebingo hukommelsen?"
     a: "Ingen aktivitet har vist at den behandler eller bremser demens. Bildebingo er et felles, sosialt spill. Verdien ligger i selskapet, lyden av opplesingen og gleden ved å finne et bilde, ikke i noen effekt på hukommelsen."
   - q: "Hva hvis noen vil stoppe, eller ikke finner bildet?"
-    a: "La personen stoppe. Tilby å lete sammen, peke på bildet, eller flytte brikken for hen med tillatelse. Å holde personen trygg er viktigere enn å fullføre kortet."
+    a: "La personen stoppe. Tilby å lete sammen, peke på bildet, eller flytte brikken for personen med tillatelse. Å holde personen trygg er viktigere enn å fullføre kortet."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -54,7 +54,7 @@ Du kan bruke de utskrivbare kortene fra våre [gratis utskrivbare aktiviteter](/
 
 - **Velg en liten gruppe.** Fire til åtte personer er en god størrelse. Større grupper er vanskeligere å følge og kan føles hastet.
 - **Gjør bildene store.** Bruk tydelige streker og én kjent ting per rute. Unngå overfylte kort.
-- **Sett folk på en god plass.** Plasser hver deltaker der hen kan se oppleseren og sitt eget kort, og nær en hjelper hvis det trengs.
+- **Sett folk på en god plass.** Plasser hver deltaker der personen kan se oppleseren og sitt eget kort, og nær en hjelper hvis det trengs.
 - **Bruk enkle merker.** Store brikker, mynter eller et fingertrykk fungerer bedre enn blyanter. Ha noen reserver.
 - **Planlegg en kort økt.** Tretti minutter er ofte nok. Stopp tidlig hvis energien synker.
 
@@ -72,7 +72,7 @@ Du kan bruke de utskrivbare kortene fra våre [gratis utskrivbare aktiviteter](/
 
 Konkurranse kan være et problem. En person som taper, kan føle seg testet, og en som er engstelig for å vinne, kan bli anspent. Her er noen alternativer:
 
-- **Alle vinner et bilde.** Hver deltaker roper opp ett bilde hen liker, og gruppen beundrer det.
+- **Alle vinner et bilde.** Hver deltaker roper opp ett bilde personen liker, og gruppen beundrer det.
 - **Del et helt kort.** Be deltakerne si noe om ett bilde på kortet sitt.
 - **Spill til bildene er brukt opp.** Rop opp alle bildene på et kort, og start deretter et nytt, uten at noen får status som første vinner.
 - **Hold premien liten, eller hopp over den.** En kjeks eller en sang fungerer bedre enn en pokal.
