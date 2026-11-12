@@ -57,7 +57,7 @@ Se una stanza è buia o affollata, provi un cambiamento alla volta: accenda una 
 
 ## Che cosa posso dire nel momento?
 
-Si avvicini dove la persona la possa vedere e parli con una voce calma e familiare. Dica il suo nome e il rapporto in modo semplice, come farebbe salutandola in un altro giorno: «Ciao, sono Alex, la tua figlia». Poi faccia una pausa e osservi come risponde.
+Si avvicini dove la persona la possa vedere e parli con una voce calma e familiare. Dica il suo nome e il rapporto in modo semplice, come farebbe salutandola in un altro giorno: «Ciao, sono Alex, sono tua figlia». Poi faccia una pausa e osservi come risponde.
 
 - **Se sembra a suo agio,** prosegua con una conversazione normale. Parli di ciò che sta succedendo adesso, oppure chieda se la persona vuole sedersi insieme.
 - **Se sembra incerta,** offra una breve rassicurazione: «Va tutto bene. Sono qui con te». Le lasci il tempo di rispondere.

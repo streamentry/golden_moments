@@ -70,7 +70,7 @@ Pensi a che cosa è successo poco prima del cambiamento:
 - La persona aveva difficoltà a vedere o a sentire ciò che stava succedendo?
 - Un farmaco, una routine, un assistente o una condizione di salute sono cambiati di recente?
 
-[L’Alzheimer's Society suggerisce di cercare dei schemi e di considerare come la situazione poteva apparire dal punto di vista della persona](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression). Queste domande servono a osservare, non a dimostrare che un singolo fattore abbia causato il comportamento. Non cerchi di visitare, trattenere o sedare la persona da solo.
+[L’Alzheimer's Society suggerisce di cercare degli schemi e di considerare come la situazione poteva apparire dal punto di vista della persona](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression). Queste domande servono a osservare, non a dimostrare che un singolo fattore abbia causato il comportamento. Non cerchi di visitare, trattenere o sedare la persona da solo.
 
 ## Come posso ridurre il rischio di un altro episodio?
 
