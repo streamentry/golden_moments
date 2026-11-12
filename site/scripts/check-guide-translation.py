@@ -76,8 +76,12 @@ def width(text: str) -> int:
 
 
 def numbers(text: str) -> list[str]:
-    found = (re.sub(r'[,.   ]', '', n) for n in NUMBER.findall(text))
-    return sorted(n for n in found if n)
+    found = []
+    for token in NUMBER.findall(text):
+        value = ''.join(str(unicodedata.decimal(ch)) for ch in token if ch.isdecimal())
+        if value:
+            found.append(value)
+    return sorted(found)
 
 
 def links(body: str) -> list[str]:
@@ -110,8 +114,15 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
         errors.append('link targets differ from English (same links, same order)')
 
     source_numbers, translated_numbers = numbers(src_body), numbers(body)
-    if not source_numbers and translated_numbers:
-        errors.append('numbers added though the English body has none')
+    remaining_numbers = source_numbers.copy()
+    added_numbers = []
+    for number in translated_numbers:
+        if number in remaining_numbers:
+            remaining_numbers.remove(number)
+        else:
+            added_numbers.append(number)
+    if added_numbers:
+        errors.append(f'numbers added that are absent from English ({", ".join(added_numbers)})')
     elif source_numbers != translated_numbers:
         warnings.append('numbers in the body differ from English')
     shown = ' '.join(str(front.get(k, '')) for k in ('title', 'seoTitle', 'description', 'summary')) + body

@@ -62,7 +62,7 @@ health: true
 keyPoints: []
 faq: []
 ---
-Contact local urgent medical services.
+Contact local urgent medical services on 2021.
 '''
         translated = '''---
 section: caregiving
@@ -76,7 +76,7 @@ health: true
 keyPoints: []
 faq: []
 ---
-Contact local urgent medical services at 112.
+Contact local urgent medical services on 2021 at 112.
 '''
         problems = agy_translate.guide_problems(source, translated)
         self.assertIn('numbers added that are absent from the English source', problems)

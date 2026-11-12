@@ -465,6 +465,15 @@ def translate_guide(lang: dict, rel: str) -> str:
     raise RuntimeError(f'{code}/{rel}: {last}')
 
 
+def number_tokens(text: str) -> list[str]:
+    values = []
+    for token in re.findall(r'\d+(?:[,.]\d+)*', text):
+        value = ''.join(str(int(ch)) for ch in token if ch.isdecimal())
+        if value:
+            values.append(value)
+    return sorted(values)
+
+
 def guide_problems(src: str, out: str) -> str:
     import yaml
     try:
@@ -488,8 +497,13 @@ def guide_problems(src: str, out: str) -> str:
     h = re.compile(r'^(#{2,6})\s', re.M)
     if h.findall(ba) != h.findall(bb):
         errs.append('heading levels differ')
-    if not re.search(r'\d', ba) and re.search(r'\d', bb):
-        errs.append('numbers added that are absent from the English source')
+    remaining_numbers = number_tokens(ba)
+    for value in number_tokens(bb):
+        if value in remaining_numbers:
+            remaining_numbers.remove(value)
+        else:
+            errs.append('numbers added that are absent from the English source')
+            break
     return '; '.join(errs)
 
 
