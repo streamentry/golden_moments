@@ -1,32 +1,28 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "ඩිමෙන්ශියා ඇති අයට ක්‍රියාකාරකම් ලෙස ගෘහ කාර්ය"
+seoTitle: "ඩිමෙන්ශියා සඳහා ගෘහ ක්‍රියාකාරකම්: දෛනික කාර්ය"
+description: "ඩිමෙන්ශියා ඇති අයට අර්ථවත් ක්‍රියාකාරකම්: රෙදි නැමීම, වර්ග කිරීම, මේසය සැකසීම සහ සරල ආහාර පිසීම, ආරක්ෂිතව සකසා."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  රෙදි තුවා නැමීම, මේස් සොක්ස් වර්ග කිරීම, මේසය සැකසීම, බල්ලු ගෙවීම, පැලෑටි වතුර දැමීම සහ සරල ආහාර පිසීමට උදව් කිරීම වැනි දෛනික කාර්යයන්, ඩිමෙන්ශියාව ඇති පුද්ගලයෙකුට උදව් කිරීමට සැබෑ මාර්ගයක් ලබා දිය හැක. ඔවුන් දන්නා කාර්ය තෝරා, එක් පියවරක් වශයෙන් බෙදන්න, තියුණු හෝ උණුසුම් අනතුරු ඉවත් කර, “නිවැරදිව” කිරීමට වඩා කොටසක් වීමට වටිනාකම දෙන්න.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "හුරුපුරුදු කාර්ය පුද්ගලයාට ප්‍රයෝජනවත් හා නිවසේ කොටසක් ලෙස හැඟීමට උපකාරී විය හැක, එය බොහෝ විට කාර්ය කෙතරම් හොඳින් කළාද යන්නට වඩා වැදගත් වේ."
+  - "සෑම කාර්යක්ම තනි පියවරයන්ට බෙදන්න, කියවීමට වඩා පෙන්වන්න, සහ දුෂ්කර වී ඇති ඕනෑම පියවරක් නිහඬව ඔබ භාර ගන්න."
+  - "පිහි, පිරිසිදු කිරීමේ ද්‍රව්‍ය සහ රෙදි සෝදන පොඩ්ස් අගුලු දමා තබන්න, සහ එකට උයන්නට පෙර ලිප් ගුලි ආවරණ හෝ ස්වයංක්‍රීය නිවීමක් එක් කරන්න."
+  - "නැමූ තුවා පුද්ගලයාගේ ඉදිරියේ නැවත නැමීමට අවශ්‍ය නැත. යමක් නැවත කළ යුතු නම්, පසුව සහ දෘෂ්ටියෙන් ඉවතින් කරන්න."
+  - "කාර්යයක් කලකිරීමක් ගෙන ආවොත්, පහසු පියවරකට මාරු වන්න, වෙනත් වේලාවක නැවත උත්සාහ කරන්න, හෝ සරලව එකට වාඩි වන්න."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකුට තවමත් කුමන ගෘහ කාර්යවලට උදව් කළ හැකිද?"
+    a: "බොහෝ අයට තවමත් රෙදි නැමීම, සොක්ස් ගැලපීම, වෙන් කිරීම, මේසය සැකසීම, මේසය පිසීම, දූවිලි පිසීම, අතුගෑම, පැලෑටි වතුර දැමීම හෝ පිටි බඳුනක් කලවම් කිරීම කළ හැක. පුද්ගලයා අතීතයේ කළ කාර්ය තෝරා, ඔවුන් දැන් කළ හැකි දෙයට ගළපන්න. පසු අවධීන්හි, නැප්කින් සමතලා කිරීම වැනි එක් පුනරාවර්තන චලනයක් ප්‍රමාණවත් විය හැක."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකුට මුළුතැන්ගෙයි උදව් කිරීම ආරක්ෂිතද?"
+    a: "සමීප අධීක්ෂණය සහ නිවැරදි සැකසුම සමඟ එය විය හැක. පිහි, පිරිසිදු කිරීමේ ද්‍රව්‍ය සහ උණුසුම් ඕනෑම දෙයක් ළඟට නොයන සේ තබා ගන්න, ලිප් ගුලි ආවරණ හෝ ස්වයංක්‍රීය නිවීමක් භාවිතා කරන්න, සහ එළවළු සේදීම, කලවම් කිරීම හෝ තහඩු සකස් කිරීම වැනි ආරක්ෂිත කාර්යක් ඔවුන්ට දෙන්න. ලිප පත්තු කර ඇති විට ඔවුන් තනිව කිසි විටෙකත් නොතබන්න."
+  - q: "ඔවුන් දේවල් වැරදියට නමා හෝ අවුල් කළොත් කුමක් කළ යුතුද?"
+    a: "එය එසේම තබන්න. ඉලක්කය එකට ගත කරන කාලය සහ ප්‍රයෝජනවත් වීමේ හැඟීමයි, නිර්දොෂ ප්‍රතිඵලය නොවේ. යමක් සැබවින්ම නැවත කළ යුතු නම්, පසුව බලා සිටලා, පුද්ගලයා නොබලන විට එය කරන්න, එවිට ඔවුන්ට නිවැරදි කර ඇතැයි හැඟීමක් නොවේ."
+  - q: "ඔවුන් උදව් කිරීමට ප්‍රතික්ෂේප කළොත් කුමක් කළ යුතුද?"
+    a: "නැත යන්න අදහස් කළ හැක්කේ මෙම මොහොතේ කාර්යය ඉතා අපහසු, ව්‍යාකූල හෝ වෙහෙස ගෙන දෙන බවයි. බල කරන්න එපා. සරල අනුවාදයක් උත්සාහ කරන්න, ඒ වෙනුවට ඔබට සහකාරිත්වය දෙන ලෙස ආරාධනා කරන්න, හෝ දිනයේ වඩා හොඳ වේලාවක නැවත අසන්න."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +41,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+ඩිමෙන්ශියාව ඇති බොහෝ අය දශක ගණනාවක් නිවසක් පවත්වාගෙන යාම, පවුලක් හැදීම හෝ වැඩ ස්ථානයක් සුලභව තබා ගැනීම කළහ. සැබෑ ගෘහ කාර්යවලට උදව් කරන ලෙස ඉල්ලීම, වෙනත් ක්‍රියාකාරකම් කිහිපයකට නොහැකි ආකාරයෙන් “ඔබ තවමත් මේ නිවසේ කොටසකි” යැයි කියයි. මෙම පිටුව කුමන කාර්ය හොඳින් ක්‍රියා කරන්නේද, ඒවා සකස් කරන ආකාරය, දේවල් වෙනස් වන විට ඒවා අනුවර්තනය කරන ආකාරය, සහ මුළුතැන්ගෙය සහ රෙදි සෝදන කාමරය ආරක්ෂිතව තබා ගන්නේ කෙසේද යන්න ආවරණය කරයි.
 
-## Why do everyday chores work well as activities?
+## දෛනික ගෘහ කාර්ය ක්‍රියාකාරකම් ලෙස හොඳින් ක්‍රියා කරන්නේ ඇයි?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+ගෘහ කාර්ය ක්‍රියා කරන්නේ ඒවා හුරුපුරුදු වන අතර පැහැදිලි අරමුණක් ඇති බැවිනි. ජාතික වයෝවෘද්ධ ආයතනය භාණ්ඩ සේදීම, මේසය සැකසීම, අතුගෑම, දූවිලි පිසීම, තැපැල් වර්ග කිරීම, රෙදි නැමීම සහ ප්‍රතිචක්‍රීකරණය කළ හැකි දේ වර්ග කිරීම, [ඇල්සයිමර් ඇති අය භුක්ති විඳිය හැකි දෛනික ක්‍රියාකාරකම්](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) අතර ලැයිස්තුගත කරයි. ඇල්සයිමර් සංගමය සටහන් කරන්නේ මේසය සැකසීම වැනි කාර්ය පුද්ගලයෙකුට [නිවසේ වටින කොටසක් ලෙස හැඟීමට](https://www.alz.org/help-support/caregiving/daily-care/activities) උපකාරී විය හැකි බවයි.
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+කාර්යයකට ආරම්භ කිරීමට තමන්ගේම හේතුවක් ද ඇත. “මට මේ තුවා සමඟ උදව් කළ හැකිද?” යන්න “ඔබට ක්‍රියාකාරකමක් කිරීමට අවශ්‍යද?” යනුවෙන් ඇසීමට වඩා “ඔව්” කීමට පහසු ය.
 
-## Which household tasks are good to try?
+## ගෘහ කාර්ය මොනවා උත්සාහ කිරීමට හොඳද?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+පුද්ගලයා අතීතයේ කළ කාර්යයන්ගෙන් ආරම්භ කර, ඔවුන් අද කළ හැකි දේට ගළපන්න.
 
-### Laundry and linens
+### රෙදි සහ ඇඳ ඇතිරිලි
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **තුවා සහ මුහුණු තුවා නැමීම.** කුඩා, පැතලි භාණ්ඩ බඳුනක් ලබා දෙන්න. තුවා සමාවන සුළුය: එය නැමීමට වැරදි ක්‍රමයක් නැත.
+- **සොක්ස් ගැලපීම.** මේසය මත මිශ්‍ර ගොඩක් තබන්න. යුගල සොයා ගැනීම දුෂ්කර වුවහොත්, ඉතා වෙනස් වර්ණ දෙක තුනක් පමණක් භාවිතා කරන්න.
+- **සමතලා කර ගොඩගැසීම.** නැප්කින්, පිලෝ කවර හෝ බඳුන් තුවා සමතලා කර ගොඩගැසිය හැක. නැමීම පියවර වැඩි වූ විට, පසු අවධියේදී මෙය හොඳින් ක්‍රියා කරයි.
 
-### Table and kitchen
+### මේසය සහ මුළුතැන්ගෙය
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **මේසය සැකසීම.** ස්ථානය එක් සැකසුමක් ආදර්ශයක් ලෙස තබා, පුද්ගලයාට පිටපත් කිරීමට ඉඩ දෙන්න. එය වැඩිය නම්, එක් වරකට එක් භාණ්ඩයක් ලබා දෙන්න: “මෙන්න එක් තහඩුවකට එක් හරණ.”
+- **හරණ වර්ග කිරීම.** පිරිසිදු හරණ, හැඳි සහ බටර් පිහි ටබ් එකක මිශ්‍ර කර බෙදුම් ට්‍රේයක වර්ග කරන්න. තියුණු පිහි ඉවතින් තබන්න.
+- **භාජන වියළීම.** ප්ලාස්ටික් හෝ නොබිඳෙන භාජන සහ මෘදු තුවායක් එය ආරක්ෂිත කාර්යයක් කරයි.
+- **මේසය හෝ මේස් පිසීම.** තෙත් රෙදි කඩදාසියක් සහ පැහැදිලි මතුපිටක්. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ යමෙක් දැනටමත් අතින් මේසය ඇඹරීමෙන් නොසන්සුන් චලනය ප්‍රයෝජනවත් එකක් බවට පත් කිරීමට රෙදි කඩදාසියක් ලබා දෙන ලෙසයි.
 
-### Around the house
+### ගෙවත්තේ සහ නිවස වටා
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **දූවිලි පිසීම.** මෘදු දූවිලි පිසින මැෂිමක් සහ ශක්තිමත් මතුපිට කිහිපයක්, උදාහරණයක් ලෙස කෝපි මේසය හෝ පොත් රාක්කය.
+- **තැපැල් වර්ග කිරීම.** අනවශ්‍ය තැපැල් සහ නාමාවලි ගොඩවල් වලට වර්ග කිරීමට ලබා දෙන්න: තබා ගන්න, ප්‍රතිචක්‍රීකරණය කරන්න, පසුව විවෘත කරන්න. සැබෑ බිල්පත් සහ චෙක්පත් වෙනත් තැනක තබන්න.
+- **ප්‍රතිචක්‍රීකරණය වර්ග කිරීම.** පිරිසිදු ටින්, බෝතල් සහ කඩදාසි වෙන වෙනම බඳුන්වල වර්ග කරන්න.
+- **අතුගෑම.** බාල්කනියක හෝ මුළුතැන්ගෙය බිමේ කුඩා වියළි අත්තක්, සමතුලිතතාවය ස්ථාවර නම්.
+- **පැලෑටි වතුර දැමීම.** කුඩා, සැහැල්ලු වතුර කෝප්පයක් සහ පහසුවෙන් ළඟා විය හැකි පැලෑටි කිහිපයක්.
 
-### Simple cooking with supervision
+### අධීක්ෂණයෙන් සරල ආහාර පිසීම
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+ආහාර පිසීම ප්‍රබල, සතුටුදායක හැඟීම් නැවත ගෙන ආ හැකිය. ජාතික වයෝවෘද්ධ ආයතනය යෝජනා කරන්නේ පුද්ගලයාට අමුද්‍රව්‍ය එකතු කිරීමට, මැනීමට, කලවම් කිරීමට සහ වත් කිරීමට ඉඩ දීම, නැතහොත් ප්‍රිය වට්ටෝරුවක් වෙනත් අයෙකුට කෙසේ කරන්නේ දැයි කීමට ඉඩ දීමයි. හොඳ කාර්යයන් අතර:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- එළවළු හෝ පලතුරු සේදීම
+- පිටි හෝ සිසිල් සලාතයක් කලවම් කිරීම
+- කොස්ලෙට්ටු ඉරා දැමීම
+- මොට පිහියකින් ටෝස්ට් එකට බටර් ගැසීම
+- කුකීස් පිටි ට්‍රේයක තැබීම
+- පීසා මත උඩින් දේවල් තැබීම
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+මැනීම දුෂ්කර වුවහොත්, ඇල්සයිමර් සංගමය යෝජනා කරන්නේ ඔබ මැනීම අවසන් කර, පසුව කලවම් කිරීම වැනි වෙනත් පියවරක් ලබා දෙන ලෙසයි.
 
-## How do I set up a chore so it goes well?
+## කාර්යයක් හොඳින් යන ආකාරයට සකස් කරන්නේ කෙසේද?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **නිවැරදි වේලාව තෝරන්න.** පුද්ගලයා සාමාන්‍යයෙන් විවේකීව සහ සන්සුන්ව සිටින දිනයේ කොටසක් තෝරන්න. බොහෝ අය සඳහා මෙය උදෑසනයි.
+2. **අවකාශය පිරිසිදු කරන්න.** එක් කාර්යයක්, එක් මතුපිටක්, මේසය මත වෙනත් කිසිවක් නැත.
+3. **ආරාධනා කරන්න, නියම නොකරන්න.** “මට මේවා සමඟ අතක් අවශ්‍යයි” යනු “දැන් රෙදි නැමීමේ වේලාවයි” යනුවට වඩා හොඳින් ක්‍රියා කරයි.
+4. **පළමුව පෙන්වන්න.** එක් තුවායක් සෙමින් නමා, පසුව ඊළඟ එක ලබා දෙන්න. පැහැදිලි කිරීමට වඩා පෙන්වීම පැහැදිලි ය.
+5. **එක් වරකට එක් පියවරක් දෙන්න.** එකවර දිශාවන් ගණනාවක් ඉතා වැඩි විය හැක. ඊළඟ එක නම් කිරීමට පෙර එක් පියවරක් අවසන් වන තුරු බලා සිටින්න.
+6. **පැත්තෙන් පැත්තට වැඩ කරන්න.** එකම කාර්යය එකට අසල කිරීම අධීක්ෂණයක් ලෙස නොව, සහකාරිත්වයක් ලෙස දැනේ.
+7. **ප්‍රතිඵලය නොව, කාර්ය ගැන කතා කරන්න.** “මේවා කොතරම් මෘදුද” හෝ “රෙදි අල්මාරිය තබා ගත් ආකාරය මට කියන්න” කිසිවෙකු පරීක්ෂා නොකර සංවාදයට ආරාධනා කරයි.
 
-## How do I adapt chores as abilities change?
+## හැකියාවන් වෙනස් වන විට කාර්ය අනුවර්තනය කරන්නේ කෙසේද?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+හැකියාවන් කාලයත් සමඟ, සහ දිනෙන් දිනට පවා වෙනස් වේ. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ රෝගය ප්‍රගතියත් සමඟ සරල, වඩාත් පුනරාවර්තන කාර්යයන් වෙත යොමු වන ලෙසයි.
 
-| If this has become hard | Try this instead |
+| මෙය දුෂ්කර වී ඇත්නම් | ඒ වෙනුවට මෙය උත්සාහ කරන්න |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| විශාල ඇඳ ඇතිරිලි නැමීම | මුහුණු තුවා නැමීම හෝ නැප්කින් සමතලා කිරීම |
+| පූර්ණ මේසයක් සැකසීම | එක් එක් ආසනයේ එක් නැප්කින් තැබීම |
+| තැපැල් කාණ්ඩවලට වර්ග කිරීම | කවර එක් ගොඩක ගොඩගැසීම |
+| වට්ටෝරුවක් අනුගමනය කිරීම | කලවම් කිරීම, හෝ ඔබ උයන විට බැලීම සහ රස බැලීම |
+| මුළු බිම අතුගෑම | කුඩා මේසයක් පිසීම |
+| කාර්යය කිසිසේත් කිරීම | ඔබ එය කරන විට ඔබ සමඟ වාඩි වී සහකාරිත්වය දීම |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+බැලීම ද ගණනය වේ. ජාතික වයෝවෘද්ධ ආයතනය සටහන් කරන්නේ සමහර අයට සරලව බැලීම භුක්ති විඳින බවත්, ඒ සහභාගී වීමේ හොඳ ක්‍රමයක් බවත්ය.
 
-## How do I keep household tasks safe?
+## ගෘහ කාර්ය ආරක්ෂිතව තබා ගන්නේ කෙසේද?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+ආරක්ෂාව ප්‍රථම වේ, විශේෂයෙන් මුළුතැන්ගෙයේ. ජාතික වයෝවෘද්ධ ආයතනයේ [ඇල්සයිමර් රැකබලා ගන්නන් සඳහා නිවාස ආරක්ෂණ ඉඟි](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ඇතුළත් වන්නේ:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- පිරිසිදු කිරීමේ ද්‍රව්‍ය, රෙදි සෝදන පොඩ්ස් ඇතුළුව, අගුලු දමන්න හෝ ඉවත් කරන්න. ඒවා කැන්ඩි වැනි පෙනිය හැක.
+- පිහි, කතුර සහ බල මෙවලම් අගුළු දැමූ ස්ථානයක ගබඩා කරන්න.
+- ලිපට ආරක්ෂිත ගුලි සහ ස්වයංක්‍රීය නිවීමේ ස්විච් එක් කරන්න.
+- උදුන, ටෝස්ටරය සහ යකඩ අසල “නවතන්න” හෝ “ඉතා උණුසුමයි” ලකුණු තබන්න, ගින්න අල්ලා ගත නොහැකි ලෙස තබා.
+- පිච්චීමේ අවදානම අඩු කිරීමට ජල තාපකය 120°F ට සකසන්න.
+- කෑමට සමාන පෙනෙන නිසා කෘත්‍රිම පලතුරු සහ ආහාර හැඩැති චුම්බක ඉවත් කරන්න.
 
-A few more practical habits help:
+තවත් ප්‍රායෝගික පුරුදු කිහිපයක් උපකාර වේ:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- ලිප, උදුන හෝ මුවහත් මෙවලමක් භාවිතා වන සෑම විටම කාමරයේ සිටින්න.
+- වියළීම සහ මේසය සැකසීම සඳහා නොබිඳෙන භාජන භාවිතා කරන්න.
+- අතුගාන හෝ මොප් කරන විට බිම වියළි සහ පැහැදිලිව තබා ගන්න.
+- පුද්ගලයා එක් කාලයක මෙවලම් භාවිතා කළේ නම්, ඇල්සයිමර් සංගමය යෝජනා කරන්නේ වැඩ කාමරයෙන් අනතුරු සහිත අයිතම ඉවත් කරන ලෙසයි, එවිට දැව කොටසක් ඔප දැමීම වැනි ආරක්ෂිත කාර්යයක් තවමත් භුක්ති විඳිය හැකි වේ.
 
-## What if they do it "wrong"?
+## ඔවුන් එය “වැරදියට” කළොත් කුමක් කළ යුතුද?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+එය යන්න දෙන්න. තුවායක් භාග දෙකකට වෙනුවට තුනකට නමා ඇත්නම් එය තවමත් නමන ලද තුවායකි. ඇල්සයිමර් සංගමය එය පැහැදිලිව කියයි: වැදගත් වන්නේ එකට කාලය ගත කිරීම සහ පුද්ගලයා ප්‍රයෝජනවත් යැයි හැඟීමයි, තුවා නිසියාකාරව නමා තිබේද යන්න නොවේ. යමක් සැබවින්ම නැවත කළ යුතු නම්, පසුව බලා සිටලා, දෘෂ්ටියෙන් ඉවතින් එය කරන්න.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+එම මොහොතේදීම නිවැරදි කිරීම, සුඛ කාර්යයක් අහිමි වූ දේ පිළිබඳ මතක් කිරීමක් බවට පත් කළ හැක. “ස්තූතියි, ඒක මට විශාල උදවක්” යැයි කීම බොහෝ විට නිවැරදි දෙයයි.
 
-## When should we stop?
+## අපි කවදා නවත්වමු ද?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+ඔබ කලකිරීම, වෙහෙස හෝ නැති වූ උනන්දුවේ සංඥා දකින විට නවත්වන්න හෝ වෙනස් කරන්න. කලින් අවසන් කිරීම අසාර්ථකත්වයක් නොව, හොඳ ප්‍රතිඵලයකි. ඔබට කළ හැක්කේ:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- පහසු පියවරකට මාරු වීම
+- සංගීතය හෝ එක් කෝප්පයක් කෝපි වැනි විවේකදායක දෙයකට යාම
+- පසුව හෝ වෙනත් දිනක නැවත උත්සාහ කිරීම
+- සරලව එකට වාඩි වී සිටීම
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+පුද්ගලයා නැත කිව්වොත්, බල නොකරන්න. ගෞරවාන්විතව ප්‍රතිචාර දැක්වීමට ක්‍රම සඳහා [ඔවුන් නැත කියන විට කළ යුතු දේ](/caregiving/when-they-say-no/) බලන්න.
 
-## Low-effort extras for a quieter moment
+## නිශ්ශබ්ද මොහොතකට අඩු-ප්‍රයත්න අමතර දේවල්
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+ශාරීරික කාර්ය කළ නොහැකි වූ විට, වර්ග කිරීම සහ ගැලපීම තවමත් වාඩි වී කළ හැක. [එකට වර්ග කරන්න](/games/sort-together/) මගින් ඔබට චිත්‍ර මුළුතැන්ගෙය හෝ ගෙවත්තේ කූඩයන් තුළට තට්ටු කළ හැකි අතර, [ඡායාරූප යුගල](/games/picture-pairs/) විශාල චිත්‍ර සහ කාල ගණකයක් නොමැති මෘදු ගැලපීමේ ක්‍රීඩාවකි. [සංවාද පත්](/games/conversation-cards/) නිවස සහ පවුල ගැන විවෘත ප්‍රශ්න ඇති අතර, කාර්යය අවසන් වූ පසු කෝපි සමඟ හොඳින් ගැලපේ.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+දින සටහනට ගෘහ කාර්ය ගැලපීමට උදව් සඳහා, අපගේ [සන්සුන් දෛනික චර්යාව](/activities/daily-routine/) මාර්ගෝපදේශය බලන්න. අවධි අනුව තවත් අදහස් සඳහා, [මධ්‍ය අවධියේ ක්‍රියාකාරකම්](/activities/middle-stage/) බලන්න.
