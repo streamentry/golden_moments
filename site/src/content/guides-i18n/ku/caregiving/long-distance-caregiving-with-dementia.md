@@ -18,7 +18,7 @@ faq:
   - q: "Ez dikarim alîkariya kesekî bi demansiyê bikim eger ez dûr bijîm?"
     a: "Erê. Dibe ku hûn hevdîtinan rêxin, karûbarên herêmî lêkolin bikin, tiştên pêdivî ferman bikin an ji lênihêrvanekî herêmî re di serdanekê de vehesandinekê pêşkêş bikin. Ji kesê nexweş bipirsin çi piştgiriyê dixwaze û li ser her karekî li hev bikin."
   - q: "Ez çawa dikarim bi lênihêrvanên li nêzî xwe re hevrêz bibim?"
-    a: "Bipirsin kesê nexweş kê dixwaze tevlî bibe. Bi razîbûna hemûyan, ji bo nûçeyên birêkûpêk, pişt-girekê û rêyekê ji bo rakirina fikarên acîl hilbijêrin. Li ser ka çi agahî divê were parvekirin li hev bikin."
+    a: "Bipirsin kesê nexweş kê dixwaze tevlî bibe. Bi razîbûna hemûyan, ji bo nûçeyên birêkûpêk, piştgirekê û rêyekê ji bo rakirina fikarên acîl hilbijêrin. Li ser ka çi agahî divê were parvekirin li hev bikin."
   - q: "Ma bijîşk dikare ji min re nûçeyan bide der barê kesê nexweş?"
     a: "Ji ofîsa bijîşk bipirsin ka berî parvekirina agahiyan çi destûr an kaxez hewce ne. Hin dabînker serbestberdanekê hewce dikin, û qaîde cuda ne. Ev rûpel nikare desthilatdariya qanûnî ya we diyar bike."
   - q: "Divê ez di serdanê de çi bikim?"
