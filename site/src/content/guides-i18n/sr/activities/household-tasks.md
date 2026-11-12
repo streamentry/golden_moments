@@ -1,32 +1,33 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Кућни послови као активности за особе са деменцијом"
+seoTitle: "Кућне активности за деменцију: свакодневни послови"
+description: "Слагање, сортирање, постављање стола и једноставно кување могу бити смислене активности за особе са деменцијом. Како их припремити, прилагодити и учинити безбедним."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Свакодневни послови као што су слагање пешкира, сортирање чарапа, постављање
+  стола, брисање пултова, заливање биљака и помоћ при једноставном кувању могу
+  особи која живи са деменцијом пружити стваран начин да помогне. Изаберите
+  послове које познаје, раставите их на један корак у исто време, уклоните
+  оштре и вреле опасности и цените учешће више од тога да се посао уради
+  „како треба“.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Познати послови могу особи дати осећај корисности и припадности домаћинству, што често важи више од тога колико је посао добро урађен."
+  - "Раставите сваки задатак на појединачне кораке, показујте уместо да објашњавате и тихо преузмите сваки корак који је постао тежак."
+  - "Закључајте ножеве, средства за чишћење и капсуле за веш, а пре заједничког кувања ставите заштитнике на дугмад шпорета или аутоматско искључивање."
+  - "Сложени пешкири не морају да се поново слажу пред особом. Ако нешто мора да се уради поново, урадите то касније и ван погледа."
+  - "Ако посао изазива фрустрацију, пређите на лакши корак, пробајте касније или једноставно седите заједно."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Са којим пословима особа са деменцијом још може да помогне?"
+    a: "Многи људи још увек могу да слажу веш, упаре чарапе, сортирају прибор за јело, постављају сто, бришу пулт, брису прашину, мете, заливају биљке или мешају посуду са тестом. Изаберите послове које је особа радила у прошлости и ускладите их са оним што сада може. У каснијим фазама довољан може бити један понављајући покрет, на пример углађивање салвета."
+  - q: "Да ли је безбедно да особа са деменцијом помаже у кухињи?"
+    a: "Може, уз пажљив надзор и правилно постављање. Ножеве, средства за чишћење и све што је вруће држите ван домашаја, користите заштитнике на дугмадима шпорета или аутоматско искључивање и дајте особи безбедан посао, попут прања поврћа, мешања или постављања тањира. Никад је не остављајте саму уз укључен шпорет."
+  - q: "Шта ако све ураде погрешно или направе неред?"
+    a: "Пустите то. Циљ је заједнички време и осећај корисности, а не савршен резултат. Ако нешто заиста мора поново да се уради, сачекајте касније и урадите то кад особа не гледа, како се не би осећала исправљено."
+  - q: "Шта ако одбију да помогну?"
+    a: "Одбијање може значити да је посао у том тренутку превише тежак, збуњујући или заморан. Не наваљујте. Пробајте једноставнију верзију, позовите особу да вам само прави друштво или питајте поново у бољем делу дана."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +46,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Многи људи који живе са деменцијом деценијама су водили кућу, подизали породицу или одржавали ред на радном месту. Када их замолите за помоћ у стварним пословима, то може рећи „и даље си део ове куће“ на начин на који то мало које друге активности могу. Ова страница описује које послове обично добро функционишу, како их припремити, како их прилагођавати кад се ствари мењају и како кухињу и пералницу држати безбедним.
 
-## Why do everyday chores work well as activities?
+## Зашто свакодневни послови добро функционишу као активности?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Послови функционишу јер су познати и имају јасну сврху. Национални институт за старење (National Institute on Aging) наводи прање судова, постављање стола, метење, брисање прашине, сортирање поште, слагање веша и разврставање отпада међу [дневним активностима које особе са Алцхајмеровом болешћу могу да воле](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association напомиње да послови попут постављања стола могу помоћи особи да се осети као [цењен део домаћинства](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Посао такође има свој разлог да почне. „Можеш ли да ми помогнеш са овим пешкирима?“ лакше је прихватити него „Хоћеш ли да се бавиш активношћу?“
 
-## Which household tasks are good to try?
+## Који кућни послови су добри за пробу?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Почните од послова које је особа некада радила, па их ускладите са оним што данас може.
 
-### Laundry and linens
+### Веш и постељина
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Слагање пешкира и крпица.** Дајте корпу са малим, равним стварима. Пешкири су опроштајни: не постоји погрешан начин да се слаже пешкир.
+- **Упаривање чарапа.** Ставите мешану гомилу на сто. Ако парове постане тешко препознати, користите само две или три веома различите боје.
+- **Углађивање и слагање.** Салвете, јастучнице или кухињске крпе могу се углачати и сложити. Ово добро функционише касније, када је слагање постало превише корака.
 
-### Table and kitchen
+### Сто и кухиња
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Постављање стола.** Поставите један прибор као узор и нека особа га копира. Ако је то превише, дајте по један предмет у исто време: „Ево виљушке за сваки тањир.“
+- **Сортирање прибора за јело.** Помешајте чисте виљушке, кашике и путере ножеве у кади и сложите их у посуду с преградама. Оштре ножеве оставите по страни.
+- **Брисање судова.** Пластични или нерасклопиви судови и мека крпа чине овај посао безбедним.
+- **Брисање стола или пулта.** Влажна крпа и чиста површина. Alzheimer's Association предлаже да понудите крпу ако неко већ трља сто руком, па немирни покрет претворите у користан.
 
-### Around the house
+### По кући
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Брисање прашине.** Мека крпа и неколико чврстих површина, попут ниског стола за кафу или полице за књиге.
+- **Сортирање поште.** Дајте рекламну пошту и каталоге да се слажу у гомилице: задржати, рециклирати, отворити касније. Праве рачуне и чекове чувајте на другом месту.
+- **Сортирање отпада за рециклажу.** Очишћене лименке, флаше и папир по одвојеним канти.
+- **Метење.** Мала метла на тераси или на поду у кухињи, ако је равнотежа стабилна.
+- **Заливање биљака.** Мала, лака канта за заливање и неколико биљака на дохват руке.
 
-### Simple cooking with supervision
+### Једноставно кување уз надзор
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Кување може да врати јака, пријатна осећања. NIA предлаже да особа купи састојке, мери, меша и сипа или да једноставно каже некоме како да припреми омиљени рецепт. Добри послови су:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- прање поврћа или воћа
+- мешање теста или хладне салате
+- кидање зелене салате
+- мазање тоста туповим ножем
+- стављање теста за колачиће на плех
+- стављање прелива на пицу
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ако мерење постане тешко, Alzheimer's Association предлаже да ви завршите мерење, па дате други корак, на пример мешање.
 
-## How do I set up a chore so it goes well?
+## Како да поставим посао да прође добро?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Изаберите право време.** Изаберите део дана када је особа обично одморна и мирна. За многе људе то је јутро.
+2. **Расчистите простор.** Један посао, једна површина, ништа вишка на столу.
+3. **Позовите, не додељујте.** „Требала би ми помоћ са овим“ делује боље од „Време је за слагање веша.“
+4. **Прво покажите.** Сложите један пешкир полако, па дајте следећи. Показивање је јасније од објашњавања.
+5. **Дајте један корак у исто време.** Превише упутстава одједном може преплавити. Сачекајте да се један корак заврши пре него што именујете следећи.
+6. **Радите једно поред другог.** Исти посао обављен један уз други осећа се као друштво, а не као надзор.
+7. **Причајте о послу, а не о резултату.** „Ово је тако меко“ или „Причај ми како си волела да слажеш орман са постељином“ позива на разговор, а никога не тестира.
 
-## How do I adapt chores as abilities change?
+## Како да прилагођавам послове кад се способности мењају?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Способности се мењају током времена и чак из дана у дан. Alzheimer's Association предлаже прелазак на једноставније и понављајуће послове како болест напредује.
 
-| If this has become hard | Try this instead |
+| Ако је ово постало тешко | Пробајте уместо тога |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Слагање великих чаршава | Слагање крпица или углађивање салвета |
+| Постављање пуног стола | Постављање једне салвете на свако место |
+| Сортирање поште по категоријама | Слагање коверата у једну гомилу |
+| Праћење рецепта | Мешање, или гледање и кушање док ви кувате |
+| Метење целог пода | Брисање једног малог стола |
+| Обављање посла уопште | Седење уз вас и прављење друштва док радите |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Посматрање се рачуна. NIA напомиње да неки људи једноставно воле да посматрају, а то је леп начин да учествују.
 
-## How do I keep household tasks safe?
+## Како да кућне послове држим безбедним?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Безбедност иде прво, нарочито у кухињи. [Савети NIA о безбедности дома за неговатеље особа са Алцхајмеровом болешћу](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) укључују:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Закључајте или уклоните средства за чишћење, укључујући капсуле за веш, које могу личити на бомбоне.
+- Ножеве, маказе и електричне алате чувајте у закљученом простору.
+- Додајте безбедносне заштитнике и аутоматско искључивање на шпорет.
+- Ставите знакове „Стоп“ или „Веома вруће“ у близини рерне, тостера и пеглице, тако да не могу да се запале.
+- Подесите бојлер на 120°F како бисте смањили ризик од опекотина.
+- Уклоните вештачко воће и магнете у облику хране, које могу изгледати јестиво.
 
-A few more practical habits help:
+Још неколико практичних навика помаже:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Останите у соби кад су шпорет, рерна или оштар алат у употреби.
+- Користите нерасклопиве судове за сушење и постављање стола.
+- Држите подове сувим и слободним док метете или рибате.
+- Ако је особа некада користила алат, Alzheimer's Association предлаже да уклоните опасне предмете из радионице, како би безбедан посао, попут брушења комада дрвета, и даље могао да се ужива.
 
-## What if they do it "wrong"?
+## Шта ако све ураде „погрешно“?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Пустите то. Пешкир савијен на трећине уместо на половине и даље је сложен пешкир. Alzheimer's Association то каже јасно: важно је да проведете време заједно и да се особа осећа корисно, а не да ли су пешкири савршено сложени. Ако нешто заиста мора поново да се уради, сачекајте касније и урадите то ван погледа.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Исправљање у том тренутку може пријатан посао претворити у подсетник на оно што је изгубљено. „Хвала, ово ми много помаже“ скоро увек је права ствар да се каже.
 
-## When should we stop?
+## Када треба стати?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Прекините или пређите на други посао када видите знаке фрустрације, умора или изгубљеног интересовања. Рано прекидање је добар исход, а не неуспех. Можете:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- пребацити се на лакши корак
+- прећи на нешто што опушта, попут музике или шоље кафе
+- пробати касније или неки други дан
+- једноставно седети заједно
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ако особа каже не, не наваљујте. Погледајте [шта радити кад неко каже не](/caregiving/when-they-say-no/) за нежне начине реаговања.
 
-## Low-effort extras for a quieter moment
+## Лаке допуне за тиши тренутак
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Када физички послови нису могући, сортирање и упаривање и даље могу да се раде седећи. [Сортирај заједно](/games/sort-together/) вам омогућава да додирујете слике у корпе за кухињу или башту, а [парови слика](/games/picture-pairs/) је нежна игра упаривања са великим сликама и без тајмера. [Карте за разговор](/games/conversation-cards/) садрже отворена питања о дому и породици која се лепо уклапају уз шољу кафе кад посао буде завршен.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+За помоћ при уклапању послова у дан погледајте наш водич о [мирној дневној рутини](/activities/daily-routine/). За још идеја по фазама погледајте [активности у средњој фази](/activities/middle-stage/).
