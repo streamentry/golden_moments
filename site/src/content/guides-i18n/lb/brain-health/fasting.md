@@ -1,33 +1,33 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Intermittéierend Fasten a Demenz: wat d'Fuerschung seet"
+seoTitle: "Intermittéierend Fasten a Demenz: wat d'Fuerschung seet"
+description: "Beweiser bei Mënschen zu Fasten a Demenz sinn begrenzt a fréi. Erfuer d'Risiken fir eeler Leit an firwat genuch Iessen mat Demenz méi zielt."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Et gëtt kee gudden Beweis, dass intermittéierend Fasten Demenz verhënnert oder
+  verlangsamt. Vill vun der Fuerschung ass bei Déieren, an d'Studien bei eeleren
+  Mënschen sinn kleng a kuerz. Fasten kann fir eeler Leit geféierlech sinn:
+  Gewiichts- an Mussleverloscht, nidderegen Blutzocker bei e puer Diabetes-
+  Medikamenter, Austrocknung a Stierzen. Fir Leit, déi mat Demenz liewen, ass
+  genuch Iessen a Drénken meeschtens méi wichteg. Sprecht fir d'Éischt mam Dokter.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Den National Institute on Aging seet, datt et net genuch Beweiser gëtt, fir eng Fasten- oder Kalorienreduktiounsdiät ze empfeelen, besonnesch fir eeler Leit."
+  - "Vill vun der Fuerschung iwwer Fasten an d'Alterung kënnt vun Déieren, a dës Resultater gëllen net onbedéngt fir Mënschen."
+  - "Méigleche Risiken fir eeler Leit sinn ongewollten Gewiichtsverloscht, Mussleverloscht, nidderegen Blutzocker bei e puer Diabetes-Medikamenter, Austrocknung, Schwindel a Stierzen."
+  - "Leit, déi mat Demenz liewen, vergiessen dacks ze iessen oder ze drénken, oder mengen, si hätten et schonn. Hëllefen, datt se genuch iessen a drénken, zielt meeschtens vill méi wéi de Moment, wann se iessen."
+  - "Benotzt kee Fasten fir eng Persoun mat Demenz. Sprecht mam Dokter oder enger diplomée Ernärungsberoderin, ier Dir eppes un der Ernärung ännert."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Verhënnert intermittéierend Fasten Alzheimer?"
+    a: "Et gëtt kee gudden Beweis dofir. Vill vun der Fuerschung ass bei Déieren gemaach ginn, a Studien bei Mënschen waren meeschtens kuerz, mat jonke oder iwwergewiichtege Erwuessenen, a konzentréiert sech op Gewiichtsverloscht. Den National Institute on Aging seet, datt et net genuch Beweiser gëtt, fir Fasten-Diäten der Allgemengheet ze empfeelen."
+  - q: "Ass intermittéierend Fasten fir eeler Leit sécher?"
+    a: "Dat ass vläicht net de Fall. Fasten kann zu ongewollter Gewiichts- an Mussleverloscht, Austrocknung, Schwindel a Stierzen féieren a kann bei Leit, déi Insulin oder e puer aner Diabetes-Medikamenter huelen, gefährlech nidderegen Blutzocker ausléisen. D'Mayo Clinic seet, datt et vläicht net zu Leit passt, déi e héicht Risiko fir Knochenverloscht a Stierzen hunn. Sprecht mam Dokter, ier Dir et probéiert."
+  - q: "Soll eng Persoun mat Demenz fasten probéieren?"
+    a: "Nee. Leit, déi mat Demenz liewen, hunn dacks Schwieregkeeten, genuch ze iessen a ze drénken, a schlecht Ernärung kann Verhalenssymptomer verstäerken an Gewiichtsverloscht verursaachen. Fasten bréngt Risiken, ouni bewisen Virdeel. Konzentréiert Iech stattdiessen op reegelméisseg Miselen, Snacks, déi d'Persoun gär huet, an genuch Drénken."
+  - q: "Wat sinn Zeeche, datt eng Persoun mat Demenz net genuch iesst oder drénkt?"
+    a: "Oppassen op Gewiichtsverloscht, Kleeder, déi lockerer ginn, Middegkeet, Schwächt, Verstopfung oder Refus vum Iessen. Zeeche vun Austrocknung, déi den National Institute on Aging opzielt, sinn dréchen Mond, Schwindel, schnellen Häerzschlag a Halluzinatiounen. Wann Der dat beobachtt, sot et hirem Dokter."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +55,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Intermittéierend Fasten, wéi nëmme bannent engem aacht-Stonnen-Fënster ze iessen oder un zwee Deeg an der Woch d'Kalorien staark ze reduzéieren, kritt vill Opmierksamkeet, an e puer Artikelen schloen vir, datt et d'Gehir schützen kéint. Wann Dir en eelere Mënsch sidd oder eng Persoun mat Demenz betreit, hei ass, wat d'Fuerschung wierklech weist, a firwat Virsicht wichteg ass.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Dat ass allgemeng Informatioun, keng medizinesch Berodung. Fänkt kee Fasten un a ännert net, wéi eng Persoun, déi Dir betreit, iesst, ouni mat engem Dokter oder enger diplomée Ernärungsberoderin ze schwätzen. Kuckt eisen [medizinesche Virbehalt](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Verhënnert intermittéierend Fasten Demenz?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Et gëtt kee gudden Beweis, dass intermittéierend Fasten Demenz verhënnert oder verlangsamt. Den National Institute on Aging (NIA) seet, datt et net genuch Beweiser gëtt, fir eng Kalorienreduktiouns- oder Fasten-Diät ze empfeelen, an datt nach vill méi musse gelaart ginn iwwer hir Wierksamkeet a Sécherheet, besonnesch bei eeleren Leit ([NIA iwwer Kalorienreduktioun a Fasten](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Firwat d'Beweislag sou begrenzt ass
 
-The NIA gives several reasons:
+Den NIA nennt e puer Grënn:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Vill Studien sinn bei Déieren gemaach.** D'Fuerschung mat Wierm, Fléie, Miisen a Affen huet interessant Resultater bruecht, mee dës Erkenntnisser gëlle net onbedéngt fir Mënschen. Och bei Déieren si Resultater gemëscht; bei e puer Miis-Stämme huet Kalorienreduktioun d'Liewensdauer verkierzt.
+- **Mënschlech Studien waren kuerz.** Déi meescht hu just e puer Wochen oder Méint gedauert.
+- **Déi meescht mënschlech Studien konzentréiere sech op Gewiichtsverloscht** bei iwwergewiichtege Erwuessenen, net op Gedächtnis oder Demenz.
+- **Eeler Leit sinn selten dobäi.** Vill Studien hunn Leit vun 60 oder méi jonk rekrutéiert.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+E systematesche Review vun 2026 huet speziell intermittéierend Fasten bei Erwuessenen ab 60 Joer ënnersicht. Hien huet fonnt, datt d'Beweiser an dësem Alter begrenzt bleiwen, mat klenge Studien, kuerzer Nokontroll a gemëschte Designen. Resultater zum Denken an Gedächtnis kommen aus eenzelne Studien a sinn net zesummegefaasst. De Review huet och festgehalen, datt e puer Studien ganz kuerz Iessensfënstere oder laang Fasten mat schlechtere Resultater verbonnen hunn, an d'Autoren hunn zu Virsicht bei eeleren Leit opgeruff ([Review vun 2026 am Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+E puer Fuerscher denken, datt de Wiessel vum Kierper op d'Verbrennung vu Fett beim Fasten d'Gehir beaflosse kann, awer dat ass nach ëmmer eng Theorie, déi ënnersicht gëtt. Den NIA hält fest, datt d'Wëssenschaft onsécher ass.
 
-## What are the risks of fasting for older adults?
+## Wat sinn d'Risiken vum Fasten fir eeler Leit?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Fir vill eeler Leit ass Fasten kee harmlost Experiment. Méiglech Risiken sinn:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Ongewollten Gewiichtsverloscht.** Manner iessen, wéi de Kierper brauch, kann zu Gewiichtsverloscht an manner Mussleknaft féieren, wat eng Persoun méi schwaach maache kann.
+- **Muskel- an Knochenverloscht.** In enger vum NIA ënnerstëtzter zweijäreger Studie zu Kalorienreduktioun bei jonke an mëttelalterleche Erwuessenen hu Participanten liicht Réckgäng bei der Knochendicht an bei der mageren Kierpermass gewisen.
+- **Nidderegen Blutzocker bei Diabetes-Medikamenter.** Leit, déi Insulin oder e puer aner Diabetes-Medikamenter huelen, kënnen en zu nidderegen Blutzocker kréien, wann se Miselen iwwersprangen oder verspéiten, laut dem [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Nidderegen Blutzocker kann Schwindel, Verwierrung a Rizbarkeet ausléisen.
+- **Austrocknung.** Wann mat den Iessen och d'Drénken iwwersprongen gëtt, kann eng Persoun austrocknen.
+- **Schwindel a Stierzen.** D'Mayo Clinic seet, datt intermittéierend Fasten dacks zu grousser Middegkeet a Schwindel féiere kann an datt et vläicht kee gesond Muster ass fir Leit mat engem héijen Risiko fir Knochenverloscht a Stierzen ([Mayo Clinic iwwer intermittéierend Fasten](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Aner Effekter.** D'Mayo Clinic nennt och Kappwéi, Stëmmungsschwankungen a Verstopfung a seet, datt e puer Beweiser existéieren, dass en 16-Stonnen-Fasten mat engem 8-Stonnen-Iessensfënster d'Häerzkrankheetsrisiko am Verglach zu anere Iessensfënstere kéint erhéijen. Dës Beweiser sinn net gekläert.
 
-## Why is eating enough the bigger concern with dementia?
+## Firwat ass genuch Iessen mat Demenz méi wichteg?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Fir Leit, déi mat Demenz liewen, ass dat üblecht Problem, **genuch** Iessen a Drénken ze kréien, net ze vill. D'Alzheimer's Association erkläert, datt Leit a mëttlere a spéiden Stadien vun de Iessensauswiel iwwerfuer sinn, vergiessen ze iessen oder mengen, si hätten schonn ze iessen. Si fügt derbäi, datt schlecht Ernärung Verhalenssymptomer verstäerke kann an Gewiichtsverloscht verursaache kann ([Alzheimer's Association iwwer Iessen a Ernärung](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+D'Alzheimer's Society seet, datt wann eng Persoun net genuch iesst, et zu Gewiichtsverloscht, manner Mussleknaft, Middegkeet a Schwächt féiere kann, sou datt eng Persoun méi schwaach ass a sech méi lues vun Infektiounen erhëlt ([Alzheimer's Society iwwer Appetit](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Aus dësen Grënn ass Fasten keng gutt Iddi fir eng Persoun, déi mat Demenz lieft.** Iwwersprongen Miselen kënne séier verpasst Miselen ginn. All Ännerung, wéi eng Persoun mat Demenz iesst, sollt vum Dokter oder enger diplomée Ernärungsberoderin begleet ginn.
 
-## What are the warning signs of poor eating or drinking?
+## Wat sinn d'Warnzeechen fir schlecht Iessen oder Drénken?
 
-Watch for:
+Oppassen op:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Gewiichtsverloscht**, oder Kleeder, déi méi locker sëtzen.
+- **Iessen iwwerloossen oder Miselen refuséieren**, oder Iessen am Mond behalen.
+- **Middegkeet oder Schwächt.**
+- **Verstopfung**, déi mat der Ernärung an der Austrocknung zesummenhänke kann.
+- **Zeeche vun Austrocknung.** Den NIA nennt dréchen Mond, Schwindel, schnellen Häerzschlag an Halluzinatiounen, déi och duerch Demenz selwer kënne verursaacht ginn ([NIA iwwer typesch medizinesch Problemer](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Schlechten Appetit huet vill méiglech Ursaachen: schmerzhaft Zänn oder lues sëtzend Zännprothesen, nei Medikamenter, Depressioun, Verstopfung, manner Aktivitéit oder Ännerungen am Geschmaacks- a Geroochssënn. Sot dem Dokter vun der Persoun Bescheed iwwer all dës Zeechen. Si kënnen no enger Ursaach sichen a kënnen eng Diätologin oder Präparater virschloen.
 
-## How can you help someone eat and drink enough?
+## Wéi kënnt Dir hëllefen, datt eng Persoun genuch iesst a drénkt?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Bidd oft kleng Miselen an Snacks un**, amplaz dräi grouss Miselen.
+- **Serv Liiblingsiessen**, an sidd flexibel, well sech de Geschmaack ännert. Séiss Iessen kënnen erwënscht sinn, wann de Appetit kleng ass; frot den Dokter, ob et gesondheetlech Grënn gëtt, Zocker ze limitéieren.
+- **Hält d'Gedrénks bei der Hand** a bidd den Dag iwwer kleng Tassen un. Zopp, Uebst, Smoothies a Milchshakes zielen och.
+- **Iesst zesummen**, wann et geet. D'Miselen sinn eng Geleeënheet fir Gesellschaft, keng Aufgab, déi ee soll iwwerhetzen.
+- **Probéiert Fangerfudder**, wéi Sandwichen, Uebstscheiwen oder Poulet-Stécker, wann d'Besteck schwéier ginn ass.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Eis [Diät-Guide](/brain-health/diet/) huet méi Iddien fir d'Miselszäit. D'Hëllef bei der Zubereedung vum Iessen kann och eng schéi gemeinsam Aktivitéit sinn; kuckt [Haushaltsaufgaben](/activities/household-tasks/).
 
-## Talk with a doctor
+## Mat engem Dokter schwätzen
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Ier Dir selwer en Fasten-Plang probéiert, sprecht mam Dokter oder enger diplomée Ernärungsberoderin, besonnesch wann Dir Medikamenter fir Diabetes oder Bluttdrock hëlt, viru kuerzem Gewiicht verluer hutt oder gefall sidd. Fir eng Persoun, déi mat Demenz lieft, frot hiren Dokter, wéi vill se pro Dag sollt iessen a drénken, anstatt iwwer Fasten ze schwätzen.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Sicht direkt dréngend medizinesch Hëllef bei plëtzlecher Verwierrung, Ouniwuelsinn oder Zeeche vu ganz nidderegem Blutzocker, déi sech net séier verbesseren.
