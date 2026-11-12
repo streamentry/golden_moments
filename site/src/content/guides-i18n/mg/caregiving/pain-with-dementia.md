@@ -8,7 +8,7 @@ updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
   Anontanio momba ny fanaintainana amin'ny teny fantatry ny olona ary jereo ny
-  fiovana amin'ny endrika, ny fihetsika, ny torimaso, ny hanina na ny fitondran-tena.
+  fiovana amin'ny endrika, ny fihetsika, ny fanehoan-tava, ny hanina na ny fitondran-tena.
   Mety misy antony maro ireo famantarana ireo. Zaraho ny zavatra hitanao amin'ny
   matihanina ara-pahasalamana; aza manao diagnostika na manova fanafody.
 keyPoints:
@@ -18,12 +18,12 @@ keyPoints:
   - "Anontanio matihanina ara-pahasalamana hanombana ny fanaintainana vaovao na mitohy."
 faq:
   - q: "Afaka ho mijaly ve ny olona manana dementia nefa tsy milaza izany amiko?"
-    a: "Eny. Mety ho sarotra ho azy ny mahatakatra na manazava izay mampijaly. Anontanio amin'ny teny fantatry ny olona toy ny ‘mahatsiravina’, ‘maraina’ na ‘tsy mahafinaritra’, ary jereo ny fiovana amin'ny endrika, ny fihetsika, ny torimaso na ny hanina."
+    a: "Eny. Mety ho sarotra ho azy ny mahatakatra na manazava izay mampijaly. Anontanio amin'ny teny fantatry ny olona toy ny ‘mijaly’ na ‘tsy mahafinaritra’, ary jereo ny fiovana amin'ny endrika, ny fihetsika, ny fanehoan-tava na ny hanina."
   - q: "Mety ho famantarana fanaintainana ve ny fahatezerana?"
     a: "Ny fanaintainana dia iray amin'ireo antony azo eritreretina amin'ny fiovana fitondran-tena, nefa tsy ny hany. Soraty izay niova sy ny fotoana, avy eo miresaha amin'ny matihanina ara-pahasalamana fa aza eritreritra fa mamaly amin'ny fomba ratsy ny olona."
   - q: "Tokony hanome fanafody fanaintainana ve raha mihevitra aho fa mijaly ny olona?"
     a: "Anontanio ny dokotera an'ny olona na araho ny drafitra fikarakarana ankehitriny. Aza manomboka, aza miala, na aza manova fanafody noho ny lahatsoratra ankapobeny, satria miankina amin'ny fahasalamany sy ny fanafody hafa ny safidy tsara."
-  - q: "Yaushe no tena ilaina ny fampahalalana haingana momba ny fahatongavan'ny fahadisoana tampoka?"
+  - q: "Yaushe no ilaina fitsaboana haingana ny fahadisoana tampoka?"
     a: "Ny fahadisoana tampoka dia mila fitsaboana avy hatrany. Ampiasao ny serasera fanampiana ara-pitsaboana na ny fomba fikarakarana haingana eo amin'ny faritanao. Aza mihevitra fa dementia ihany ny fiovana tampoka."
 sources:
   - title: "Pain"
@@ -48,19 +48,19 @@ Ny [torohevitra momba ny fanaintainana avy amin'ny Dementia Australia](https://w
 
 Eny. Marina ny fanaintainana na dia tsy hitan'ny olona ny teny hanazavana azy aza. Mety tsy ho azy ny mahatakatra fanontaniana momba ny ampahany manokana amin'ny vatana, na sarotra ho azy ny milaza hoe rahoviana sy ahoana no mampijaly. Aza eritreritra fa ny fanginana dia midika fa tsy mijaly ny olona.
 
-Anontanio amin'ny fotoana mangina amin'ny teny fantatry ny olona. “Mampijaly ve izany?” na “Mahatsiravina ve?” dia mety ho mora kokoa noho ny fanazavana lava. Ny sasany dia mahafantatra ny teny hoe “mahatsiravina”, “tsy mahafinaritra” na “mijaly”. Omeo fotoana hamaly, ary raisy ny valiny tsy misy fanandramana na fanitsiahana.
+Anontanio amin'ny fotoana mangina amin'ny teny fantatry ny olona. “Mampijaly ve izany?” na “Tsy mahafinaritra ve?” dia mety ho mora kokoa noho ny fanazavana lava. Ny sasany dia mahafantatra ny teny hoe “mahatsiravina”, “tsy mahafinaritra” na “mijaly”. Omeo fotoana hamaly, ary raisy ny valiny tsy misy fanandramana na fanitsiahana.
 
 Anontanio fanontaniana iray, dia ajanony. Mety hampiseho, hanoro tànana na hampiasa teny mahazatra fantatra ny olona fa tsy hilaza ny anaran'ny ampahan-vatana. Aza manontany haingana be na mitarika azy ho amin'ny “eny”. Raha manao “tsia” izy nefa efa nahita fiovana ianao, zarao ilay fiovana amin'ny matihanina ara-pahasalamana fa aza miady hevitra momba izay raha misy fanaintainana.
 
 ## Inona no fiovana azo jerena?
 
-Jereo ny fiovana amin'ny endrika, ny fihetsika ary ny fandaharana mahazatry ny olona. Mety hanaovana tsiky mikitikitika, mifona, mitomany, mikoroka, miaro ampahany amin'ny vatana, mihetsi-bitsy kely, matory tsy mahazatra, na very ny liazany amin'ny sakafo. Mety ho tezitra, tezitra be na hanetsiketsika koa izy.
+Jereo ny fiovana amin'ny endrika, ny fihetsika ary ny fandaharana mahazatry ny olona. Mety hanaovana mikitikitika, mifona, mitomany, mikoroka, miaro ampahany amin'ny vatana, mihetsi-bitsy kely, matory tsy mahazatra, na very ny liazany amin'ny sakafo. Mety ho tezitra, tezitra be na hanetsiketsika koa izy.
 
 Tsy mampiseho mazava izany famantarana izany fa mijaly ny olona. Mety misy antony maro. Ny fandavana sakafo, ohatra, dia mety mifandray amin'ny fanaintainan'ny vava, nefa mety misy antony hafa koa. Zarao izay hitanao amin'ny dokotera na mpitsabo, ary avelao izy hanombana ny antony.
 
 ## Ahoana no fanazavana izay hitanao?
 
-Soraty kely ny zavatra ho fanazavana ny fiovana. Lazao izay niseho, rahoviana no nanombohany, matetika cmo hitanao izany, ary inona no nitranga tamin'izany fotoana. Ohatra, lazao raha mihaiky rehefa mitsangana ny olona, raha tsy mankany amin'ny asa mahazatra izy, na raha mihinana kely kokoa noho ny mahazatra. Ampidiro ny teniny na ny fanehoan-tànany.
+Soraty kely ny zavatra ho fanazavana ny fiovana. Lazao izay niseho, rahoviana no nanombohany, matetika ny hitanao izany, ary inona no nitranga tamin'izany fotoana. Ohatra, lazao raha mihaiky rehefa mitsangana ny olona, raha tsy mankany amin'ny asa mahazatra izy, na raha mihinana kely kokoa noho ny mahazatra. Ampidiro ny teniny na ny fanehoan-tànany.
 
 Mampitovy ny fiovana amin'ny fomba mahazatra ny olona, fa tsy amin'ny olon-hafa. Ny olona mangina dia mety tsy mikiakiaka rehefa mijaly; ny sasany kosa mampiseho ny fanaintainana amin'ny fihetsika na ny teny maro kokoa. Aza mamorona isa fanaintainana na mifidy fa iray ihany no antony amin'ny fitondran-tena. Ny tanjona dia ny hanomezana ny matihanina fandinihana mahasoa.
 
@@ -88,4 +88,4 @@ Lazao ny olona izay ataonao alohan'ny hanampiana azy. Angataho alalana alohan'ny
 
 Anontanio ny olona izay teny na karazana fanampiana tiany. Miaraka amin'ny fanekeny, zarao ny fampahalalana ilaina amin'ny mpanampy hafa izay azo itokisana, mba tsy hitaky ny olona hanazava ny zavatra hafa indroa. Aza miresaka momba azy toy ny hoe tsy eo izy.
 
-Ny fanaintainana dia sarotra ho hita avy any ivelany. Ny fanontaniana malemy, ny fijerena ny fiovana, ary ny torohevitra avy amin'ny matihanina dia afaka manampy ny olona hihaino, nefa tsy mamaritra famantarana ho diagnostika.
+Ny fanaintainana dia sarotra ho hita avy any ivelany. Ny fanontaniana tsotra, ny fijerena ny fiovana, ary ny torohevitra avy amin'ny matihanina dia afaka manampy ny olona hihaino, nefa tsy mamaritra famantarana ho diagnostika.
