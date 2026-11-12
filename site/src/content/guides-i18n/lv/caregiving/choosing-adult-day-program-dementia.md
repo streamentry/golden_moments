@@ -1,7 +1,7 @@
 ---
 title: "Dienas aprūpes programmas izvēle cilvēkam ar demenci"
 seoTitle: "Dienas aprūpe demences gadījumā: ko jautāt"
-description: "Salīdziniet dienas programmas demences gadījumā pēc aktivitātēm, darbiniekiem, atbalsta, transporta un atbilstības cilvēka vēlmēm. Jautājiet par maksu un apmeklējuma noteikumiem."
+description: "Salīdziniet dienas programmas demences gadījumā pēc aktivitātēm, darbiniekiem, atbalsta, transporta un atbilstības cilvēka vēlmēm. Jautājiet par maksu un noteikumiem."
 section: caregiving
 order: 27
 updated: 2026-11-11

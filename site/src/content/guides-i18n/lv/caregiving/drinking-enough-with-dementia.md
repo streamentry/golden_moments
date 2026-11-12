@@ -1,7 +1,7 @@
 ---
 title: "Palīdzība cilvēkam ar demenci dzert pietiekami"
 seoTitle: "Demence un dzeršana: padomi aprūpētājam"
-description: "Palīdziet cilvēkam ar demenci dzert pietiekami, piedāvājot iecienītus dzērienus visas dienas garumā. Jautājiet ārstam par šķidruma vajadzībām un jaunām rīšanas grūtībām."
+description: "Palīdziet cilvēkam ar demenci dzert pietiekami, piedāvājot iecienītus dzērienus visas dienas garumā. Jautājiet ārstam par šķidruma vajadzībām un rīšanas izmaiņām."
 section: caregiving
 order: 23
 updated: 2026-11-11

@@ -20,7 +20,7 @@ faq:
   - q: "Kā sagatavoties ārsta vizītei ar cilvēku, kam ir demence?"
     a: "Pierakstiet galvenos jautājumus un nesenās izmaiņas un paņemiet aktuālu zāļu sarakstu. Jautājiet klīnikai par vizītes ilgumu vai citu atbalstu, kas cilvēkam var būt vajadzīgs."
   - q: "Vai vizītē man jārunā cilvēka vietā?"
-    a: "Jautājiet, vai viņš vēlas, lai jūs būtu klāt, un kā viņš vēlas, lai jūs palīdzat. Ļaujiet viņam atbildēt uz ārsta jautājumiem pirmajam un pēc tam pievienojiet detaļas ar viņa piekrišanu vai tad, kad ārsts to lūdz."
+    a: "Jautājiet, vai viņš vēlas, lai jūs būtu klāt, un kā viņš vēlas, lai jūs palīdzētu. Ļaujiet viņam atbildēt uz ārsta jautājumiem pirmajam un pēc tam pievienojiet detaļas ar viņa piekrišanu vai tad, kad ārsts to lūdz."
   - q: "Ko darīt pēc ārsta vizītes?"
     a: "Lūdziet ārstam atkārtot galvenos punktus un nākamos soļus. Pierakstiet turpmākos uzdevumus, to, kas tos veiks, un kad plānots nākamais kontakts. Dalieties ar piezīmēm tikai ar tiem cilvēkiem, kurus iesaistīt ir piekritis pats cilvēks."
   - q: "Vai man jāgaida vizīte, ja cilvēks pēkšņi kļūst apjucis?"
@@ -54,7 +54,7 @@ Paņemiet aktuālu zāļu sarakstu, iekļaujot receptes un bezrecepšu zāles, v
 
 ## Kā iesaistīt cilvēku vizītes laikā?
 
-Jautājiet, vai cilvēks vēlas, lai jūs ieietu vizītē. Viņš var vēlēties, lai jūs braucat līdzi, bet runājat ar ārstu vieni, vai arī viņš var jūs gaidīt kā piezīmju rakstītāju. Pirms vizītes sākuma jautājiet, kā viņš vēlas, lai jūs palīdzat.
+Jautājiet, vai cilvēks vēlas, lai jūs ieietu vizītē. Viņš var vēlēties, lai jūs braucat līdzi, bet runājat ar ārstu vieni, vai arī viņš var jūs gaidīt kā piezīmju rakstītāju. Pirms vizītes sākuma jautājiet, kā viņš vēlas, lai jūs palīdzētu.
 
 Ļaujiet cilvēkam pirmajam atbildēt uz ārsta jautājumiem. Pievienojiet detaļas tikai tad, kad viņš to vēlas vai kad ārsts lūdz informāciju, ko cilvēks varbūt neatceras. Runājiet ar cilvēku, nevis tikai ar ārstu. Ja viņam vajadzīgs laiks atbildei, pagaidiet, nevis aizpildiet katru pauzi.
 

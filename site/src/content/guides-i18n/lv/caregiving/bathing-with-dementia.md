@@ -1,7 +1,7 @@
 ---
 title: "Palīdzība cilvēkam ar demenci mazgāties"
 seoTitle: "Mazgāšanās atbalsts cilvēkam ar demenci"
-description: "Praktiski veidi, kā atbalstīt mazgāšanos ar demenci: sargājiet privātumu, piedāvājiet izvēli, sagatavojiet telpu un, ja vajag, apstājieties vai izmēģiniet citu pieeju."
+description: "Praktiski veidi, kā atbalstīt mazgāšanos ar demenci: sargājiet privātumu, piedāvājiet izvēli, sagatavojiet telpu un, ja vajag, apstājieties vai mainiet pieeju."
 section: caregiving
 order: 14
 updated: 2026-11-11
