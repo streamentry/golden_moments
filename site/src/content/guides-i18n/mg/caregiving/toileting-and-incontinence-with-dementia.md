@@ -1,7 +1,7 @@
 ---
 title: "Fanohanana ny fandehanana any amin'ny efitrano fandroana sy ny tsy fifehezan-kibo ho an'ny olona manana dementia"
 seoTitle: "Dementia sy tsy fifehezan-kibo: fanohanana ho an'ny mpikarakara"
-description: "Tohano ny fandehanana any amin'ny efitrano fandroana amin'ny fiarovana, fomba mahazatra ary famporisihana tsotra. Anontanio momba ny olana vaovao, ary aza mameno rano."
+description: "Tohano ny fandehanana any amin'ny efitrano fandroana amin'ny fiarovana, fomba mahazatra ary famporisihana tsotra. Anontanio ny olana vaovao; aza mampihena ny rano."
 section: caregiving
 order: 18
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Inona no atao aorian'ny fianjeran'ny olona manana dementia"
 seoTitle: "Dementia sy fianjerana: inona no atao rehefa mianjera"
-description: "Inona no atao aorian'ny fianjerana misy olona manana dementia: rahoviana no tokony hiantso fanampiana ara-pitsaboana, ahoana ny fiarovana ary ahoana ny fanarahan-dalana."
+description: "Inona no atao aorian'ny fianjerana misy olona manana dementia: rahoviana no hiantso fanampiana ara-pitsaboana, ahoana ny fiarovana sy ny fanaraha-maso."
 section: caregiving
 order: 39
 updated: 2026-11-11

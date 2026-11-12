@@ -1,7 +1,7 @@
 ---
 title: "Miresaka amin'ny ankizy momba ny dementia"
 seoTitle: "Ahoana no hiresahana amin'ny ankizy momba ny dementia"
-description: "Mazavao ny dementia amin'ny ankizy amin'ny teny marina sy mety amin'ny taona. Tandremo ny fanaony sy ny tsiambaratelony, ary arovy ny andraikitra amin'ny olon-dehibe."
+description: "Mazavao ny dementia amin'ny ankizy amin'ny teny marina sy mety amin'ny taona. Tandremo ny fanaony, ary arovy ny andraikitra amin'ny olon-dehibe."
 section: caregiving
 order: 29
 updated: 2026-11-11
