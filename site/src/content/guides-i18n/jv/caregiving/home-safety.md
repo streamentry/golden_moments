@@ -67,7 +67,7 @@ Tuliskaken masalah ing tembung ingkang gampil: “Lorong dados peteng sasampunip
 - **Simpen pembersih lan produk ingkang mbebayani kanthi aman.** Simpen ing wadhah asli, adoh saking panganan, lan ing papan ingkang boten kegayut nalika dibetahaken. Aja mindhah bahan kimia dados wadhah ombèn utawi toples panganan.
 - **Tetepaken barang dapur ingkang migunani saged dicapai.** Susunan ingkang aman kedah ngidinaken tiyang nerusaken tugas ingkang dipun-senengi nalika saged. Menawi panjenengan ngowahi lemari utawi piranti, jelasaken owah-owahan menika lan priksa menawi nimbulaken kebingungan.
 
-Menawi kuwatosan punika muncul nalika tugas bareng, panduan tugas griya kita nyedhiyakaken gagasan kangge ngowahi pagawean kanthi tetep nglibataken tiyang ingkang nandhang.
+Menawi kuwatosan punika muncul nalika tugas bareng, [panduan tugas griya](/activities/household-tasks/) kita nyedhiyakaken gagasan kangge ngowahi pagawean kanthi tetep nglibataken tiyang ingkang nandhang.
 
 ### Kamar mandi
 

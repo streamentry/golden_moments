@@ -1,7 +1,7 @@
 ---
 title: "Mbiyantu Tiyang Demensia ingkang Manggen Piyambakan"
 seoTitle: "Manggen Piyambakan kaliyan Demensia: Dhukungan Kulawarga"
-description: "Dhukungan tiyang demensia ingkang manggen piyambakan: rutinitas ajeg, kontak rutin ingkang sampun disepakati, lan pitulungan praktis, tetep ngajeni kersa lan kamandirian."
+description: "Dhukungan tiyang demensia ingkang manggen piyambakan: rutinitas ajeg, kontak rutin sing disepakati, lan pitulungan praktis, ngajeni kersa lan kamandirian."
 section: caregiving
 order: 12
 updated: 2026-11-11
