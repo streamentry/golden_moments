@@ -1,7 +1,7 @@
 ---
 title: "Erindringsaktiviteter: minneesker, livshistorier og bilder"
 seoTitle: "Erindringsaktiviteter ved demens: ideer uten quiz"
-description: "Slik deler du minner med en person som lever med demens uten å stille quizspørsmål: prat om bilder, minneesker og livshistorieboker, med fraser som holder det avslappet."
+description: "Slik deler du minner med en person med demens uten quiz: prat om bilder, minneesker og livshistorieboker, med fraser som holder det avslappet."
 section: activities
 order: 6
 updated: 2026-10-25

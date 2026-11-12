@@ -1,7 +1,7 @@
 ---
 title: "Puslespill for personer med demens: puslespill, ordgåter og enkle nettpuslespill"
 seoTitle: "Puslespill ved demens: puslespill og ordgåter"
-description: "Slik velger du puslespill, ordgåter og enkle nettpuslespill for en person med demens: brikkestørrelse, bilder, stor skrift, å gjøre det sammen og når det bør forenkles."
+description: "Slik velger du puslespill, ordgåter og nettpuslespill for en person med demens: brikkestørrelse, bilder, stor skrift, å gjøre det sammen og når du bør forenkle."
 section: activities
 order: 20
 updated: 2026-10-25
@@ -118,7 +118,7 @@ Stadiene overlapper, og gode og vanskelige dager er normalt.
 | --- | --- | --- |
 | Tidlig | Kjente puslespill med færre brikker enn før, kryssord og ordsøk med stor skrift, nettpuslespill med 9 brikker | Partner: la dem velge, hjelp når de ber om det |
 | Midt | Puslespill med et dusin store brikker, nettpuslespill med 4 brikker, ordsøk lest høyt sammen | Legg til rette, sorter brikker, gi én av gangen |
-| Sent | Se på et ferdig bilde sammen, Finn det samme med to bilder, å håndtere noen få store brikker | Ta det til dem; din selskap er aktiviteten |
+| Sent | Se på et ferdig bilde sammen, Finn det samme med to bilder, å håndtere noen få store brikker | Ta det til dem; ditt selskap er aktiviteten |
 
 ## Når bør du gjøre et puslespill enklere, eller stoppe?
 

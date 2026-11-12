@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Sansebaserte aktiviteter for personer med demens"
+seoTitle: "Sansebaserte aktiviteter ved demens: ideer og sikkerhet"
+description: "Sansebaserte aktiviteter for personer med demens, fra håndmassasje til stoffkurver og naturlyder, med tydelige sikkerhetsmerknader om kvelning, allergi og lukt."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Sansebaserte aktiviteter bruker berøring, lukt, smak, lyd og syn: en rolig
+  håndmassasje, en kurv med myke stoffer, friske urter å lukte på, naturlyder, eller
+  å se fugler gjennom et vindu. De passer i alle stadier og er særlig verdifulle
+  senere. Sjekk først for kvelningsfare, allergier, hudproblemer og
+  duftfølsomhet, tilby én ting om gangen, og stopp hvis personen virker urolig.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Sansebaserte aktiviteter har ingen riktige svar, og det gjør at de fungerer i alle stadier, også i seng eller i stol."
+  - "Tilby én sans om gangen i et stille rom, og spør eller si fra før du tar på personen."
+  - "Unngå små gjenstander og alt som ser ut som eller lukter som mat uten å være det, siden folk kan putte ting i munnen."
+  - "Sjekk for allergier, hudproblemer og pustevansker før du bruker kremer, dufter eller mat."
+  - "Det finnes ingen overbevisende dokumentasjon for at aromaterapi hjelper mot demenssymptomer. Bruk dufter bare for enkel glede, om i det hele tatt."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Hva er gode sansebaserte aktiviteter for en person med demens?"
+    a: "Enkle ideer er en langsom håndmassasje med krem, å håndtere myke stoffer, lukte på friske urter eller kaffe, lytte til favorittmusikk eller naturlyder, se på fugler eller et akvarium, og smake på en favorittmat med en trygg tekstur. Tilby én ting om gangen, og følg med på hvordan personen reagerer."
+  - q: "Er sansebaserte aktiviteter trygge for noen som putter ting i munnen?"
+    a: "De kan være det, med forsiktighet. Bruk bare store gjenstander som ikke kan svelges, hopp over alt som er lite eller lett å knuse, og hold kremer, såpe og parfymerte produkter utenfor rekkevidde etterpå, fordi de kan se ut eller lukte som mat. Vær sammen med personen hele tiden."
+  - q: "Hjelper aromaterapi mot demens?"
+    a: "En Cochrane-gjennomgang fant ingen overbevisende dokumentasjon for at aromaterapi hjelper personer med demens, selv om studiene var små og motstridende. Hvis personen liker en mild, kjent duft, er det fint, men unngå sterke eteriske oljer, særlig ved pusteproblemer eller allergi."
+  - q: "Hva er en fidget- eller aktivitetsforkle?"
+    a: "Det er et stykke stoff, et forkle eller et skjøtteteppe med ting å holde i sydd fast på, for eksempel store knapper, glidelåser, bånd og strukturerte lapper. Det gir opptatte hender noe å utforske. Sjekk det ofte for løse deler som kan trekkes av."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Sansebaserte aktiviteter bruker de fem sansene: berøring, lukt, smak, lyd og syn. De krever ingen hukommelse, ingen trinn og ingen riktige svar, og derfor kan de fungere i alle stadier. De betyr mest senere. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) påpeker at verden i sluttfasen i hovedsak oppleves gjennom sansene, og at du kan vise omsorg gjennom berøring, lyd, syn, smak og lukt. Noen få sikkerhetssjekker gjør disse aktivitetene avslappende for alle.
 
-## What are sensory activities for dementia?
+## Hva er sansebaserte aktiviteter for demens?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Sansebaserte aktiviteter er enkle opplevelser bygget rundt én sans om gangen, som å kjenne på stoff, lukte på urter eller lytte til regn. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) sier at aktiviteter i sluttfasen ofte må fokusere på sansene, og nevner musikk, gjenstander å ta på og håndtere, og håndmassasje. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) påpeker at folk i sluttfasen kan ha et sterkt behov for å holde noe nært for trøstens skyld.
 
-## Sensory ideas, sense by sense
+## Sansebaserte ideer, sans for sans
 
-### Touch
+### Berøring
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Håndmassasje.** Varm litt krem i hendene og stryk langsomt fra håndledd til fingertupper. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nevner å massere med parfymefri krem for trøst.
+- **Stoffkurv.** Store firkanter av fløyel, kordfløyel, fleece, satin og ull å stryke, brette og snakke om.
+- **Varm vaskeklut.** En varm, fuktig klut for hendene på en kald dag. Test temperaturen på ditt eget håndledd først.
+- **Aktivitetsforkle eller skjøtteteppe.** Store knapper, glidelåser, bånd og strukturerte lapper sydd godt fast.
+- **Brette og glatte.** En kurv med rene vaskekluter eller servietter å brette, stable og brette igjen.
+- **Noe mykt å holde.** Et fleecepledd, en pute eller et realistisk mykt dyr, tilbudt enkelt, aldri som en leke.
 
-### Smell
+### Lukt
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Friske urter.** Gni mynte-, rosmarin-, basilikum- eller lavendelblader mellom fingrene og hold dem under nesen.
+- **Kjøkkendufter.** Kaffe som brygges, brød som toastes, kanel eller en appelsin som skrelles i nærheten.
+- **Blomster.** Ta med noen friske blomster fra hagen eller dagligvarebutikken.
+- **Et kjent produkt.** Såpen eller kremen de alltid brukte, hvis huden tåler det.
 
-### Taste
+### Smak
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **En favorittsmak.** En liten skje av noe de elsker, som eplemos, pudding eller is, i en tekstur de kan håndtere trygt.
+- **Hjelp med baking.** Smake på frukt eller litt glasur mens dere baker sammen.
+- **Sesongmat.** Vannmelon om sommeren, varm eplecider om høsten, servert ved en trygg temperatur.
 
-### Sound
+### Lyd
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Favorittmusikk.** Kjente sanger med en mild lydstyrke; se [musikkaktiviteter](/activities/music/).
+- **Naturlyder.** Regn, bølger eller fuglesang. NIA påpeker at musikk, hvit støy og naturlyder ser ut til å roe noen mennesker.
+- **Stemmen din.** Å lese høyt, nynne eller fortelle en historie.
+- **Enkle instrumenter.** En håndtromme, shaker eller bjelle å spille med til musikk.
 
-### Sight
+### Syn
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Se ut av vinduet.** Et fuglebrett utenfor vinduet, barn som går hjem fra skolen, eller snø som faller.
+- **Et akvarium eller en rolig video.** Mild bevegelse uten høy lyd.
+- **Store bilder.** Ett tydelig bilde om gangen, holdt i øyehøyde.
+- **Farge og mønster.** Sortere fargerike stoffrester, blomster eller fargede servietter, eller et enkelt fargeleggingsark fra vårt [fargeleggingssett](/games/coloring/).
+- **Ute.** NHS foreslår sansehager med duftende planter, teksturer og vannspeil. Se [utendørs- og hageaktiviteter](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Hvordan lager du en sansekasse?
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Velg et tema** knyttet til personens liv: stranden, hagen, kjøkkenet, verkstedet, syingen.
+2. **Plukk ut fem eller seks store, trygge ting,** for eksempel en stor skjell, en tresleiv, et mykt skjerf, en lukket pose med tørket lavendel, eller en glatt treklosse.
+3. **Sjekk hver ting** for små deler, skarpe kanter, løse tråder og alt som kan knuse.
+4. **Ta ut én ting om gangen.** Gi den til personen, beskriv den, og la dem utforske.
+5. **Legg kassen bort etterpå,** slik at den forblir spesiell, og gjenstandene sjekkes igjen før neste gang.
 
-## Safety first
+## Sikkerhet først
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Sansebaserte aktiviteter er milde, men noen få risikoer betyr noe. Noen personer med demens tar ikke-matvarer for mat, og å svelge kan bli vanskeligere over tid; NIA advarer om at svelgeproblemer i sluttfasen øker risikoen for kvelning.
 
-| Risk | What to do |
+| Risiko | Hva du skal gjøre |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Kvelning | Bruk bare gjenstander som er for store til å svelges. Ingen knapper, perler, mynter, kuler eller små leker løst i en kasse. Tilby mat bare i teksturer omsorgsteamet sier er trygge. |
+| Ting som ser ut som mat | NIA råder til å låse inne kremer, såpe, sjampo og parfyme, som kan se ut eller lukte som mat, og å fjerne kunstig frukt. Legg sansprodukter bort etter bruk. |
+| Allergier | Sjekk for allergi mot nøtter, lateks, ull, planter eller duft før du begynner. |
+| Sterke dufter | Unngå sterk parfyme og eteriske oljer, særlig ved astma eller andre pusteproblemer. Milde, naturlige dufter er tryggere. |
+| Hud | Sjekk for øm, skadet eller skjør hud før massasje. Bruk mildt trykk, og stopp hvis personen rynker på nesen. |
+| Temperatur | Test varme kluter og drikke på ditt eget håndledd først. |
+| Skarpe eller giftige ting | Ingen skarpe verktøy, glass eller giftige håndverksmaterialer. |
 
-## Does aromatherapy help?
+## Hjelper aromaterapi?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Sannsynligvis ikke på noen målbar måte. En [Cochrane-gjennomgang av aromaterapi mot demens](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) så på 13 studier med 708 personer, alle på sykehjem, og fant ingen overbevisende dokumentasjon for effekt. Studiene var små, resultatene var motstridende, og bivirkninger var dårlig rapportert. Hvis personen liker en mild, kjent duft, som lavendel fra hagen, er det en fin grunn til å dele den. Det er ikke en behandling.
 
-## How to offer a sensory activity
+## Hvordan tilbyr du en sansebasert aktivitet?
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Velg et stille øyeblikk** og slå av TV-en.
+- **Nærm deg forfra,** si navnet deres, og spør eller si fra før du tar på dem: «Jeg har litt krem. Vil du ha en håndmassasje?»
+- **Tilby én ting om gangen** slik at det ikke blir overveldende.
+- **Følg med på reaksjonen.** Et mykere ansikt, avslappede hender eller et smil er gode tegn. Å trekke seg unna, rynke pannen eller bli rastløs betyr stopp.
+- **Hold det kort.** Fem rolige minutter er en god økt.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+En langsom pustepause sammen, som [rolig pust](/games/calm-breathing/), kan være en mild måte å avslutte på. For flere ideer til sengekanten, se [aktiviteter for sluttfasen](/activities/late-stage/), og for kveldsuro, se [uro på ettermiddagen](/caregiving/late-day-restlessness/).

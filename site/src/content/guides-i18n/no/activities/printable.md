@@ -14,14 +14,14 @@ summary: >-
   igjen. Enkle hjemmelagde utskrifter, som en livshistorie-side eller en
   dagsplan, hjelper også.
 keyPoints:
-  - "Våre utskrivbare aktiviteter er gratis: Ordsøk, Farlegging, Samtalekort og Bildebingo. Hver spillside har en Skriv ut-knapp."
+  - "Våre utskrivbare aktiviteter er gratis: Ordsøk, Fargelegging, Samtalekort og Bildebingo. Hver spillside har en Skriv ut-knapp."
   - "Skriv ut med stor, enkel skrift og sterk kontrast, og ha én oppgave per side."
   - "Tykt papir eller kartong er lettere å holde i og knekker mindre. Laminer sider for å bruke dem om igjen med tørrtusj."
   - "Hjemmelagde utskrifter, som en livshistorie-side, en dagsplan eller bildeskilt på dører, er enkle og nyttige."
   - "En utskrevet side er en invitasjon, ikke lekser. Å gjøre en del av den, eller ingenting, er greit."
 faq:
   - q: "Er de utskrivbare demensaktivitetene deres gratis?"
-    a: "Ja. Ordsøk, Farlegging, Samtalekort og Bildebingo på denne siden er gratis å bruke og skrive ut. Åpne spillsiden og bruk Skriv ut-knappen."
+    a: "Ja. Ordsøk, Fargelegging, Samtalekort og Bildebingo på denne siden er gratis å bruke og skrive ut. Åpne spillsiden og bruk Skriv ut-knappen."
   - q: "Hvilke utskrivbare aktiviteter er best ved demens?"
     a: "De beste utskriftene er enkle, tydelige og voksne: et ordsøk med stor skrift der ordene bare står på tvers og loddrett, fargeleggingsark med tydelige omrisser, bildekort som starter en samtale, og bildebingo for grupper. Tilpass aktiviteten til personens interesser og nåværende evner, og ha én oppgave per side."
   - q: "Hvordan gjør jeg utskrifter lettere å se og bruke?"
@@ -61,7 +61,7 @@ Vi tilbyr fire gratis utskrifter. Åpne en av disse spillsidene og bruk **Skriv 
 | Utskrift | Hva det er | Passer til |
 | --- | --- | --- |
 | [Ordsøk](/games/word-search/) | Et ordsøk med stor skrift, der ordene bare står på tvers og loddrett | Stille tid med penn; noen som likte gåter |
-| [Farlegging](/games/coloring/) | Fargeleggingsark å skrive ut, eller å fargelegge på skjermen | Avslappet, kreativ tid; alle stadier med hjelp |
+| [Fargelegging](/games/coloring/) | Fargeleggingsark å skrive ut, eller å fargelegge på skjermen | Avslappet, kreativ tid; alle stadier med hjelp |
 | [Samtalekort](/games/conversation-cards/) | Bildekort med åpne samtaleoppfordringer uten quiz, etter tema | Besøk, samtaler, familiemiddager, erindringsgrupper |
 | [Bildebingo](/games/picture-bingo/) | Bingokort med bilder i stedet for tall, pluss en caller på skjermen | Sykehjem, dagtilbud, familiesamlinger |
 

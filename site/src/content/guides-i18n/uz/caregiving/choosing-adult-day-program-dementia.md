@@ -1,7 +1,7 @@
 ---
 title: "Demensiyali kattalar uchun kunduzgi dasturni tanlash"
 seoTitle: "Demensiya uchun kunduzgi parvarish: nimalarni soʻrash kerak"
-description: "Demensiya uchun kunduzgi dasturlarni faoliyat, xodimlar, yordam, transport va insonning istaklariga mosligi boʻyicha solishtiring. Toʻlovlar va qatnashish qoidalarini soʻrang."
+description: "Demensiya uchun kunduzgi dasturlarni faoliyat, xodimlar, yordam, transport va istaklarga mosligi boʻyicha solishtiring. Toʻlov va qatnashish qoidalarini soʻrang."
 section: caregiving
 order: 27
 updated: 2026-11-11

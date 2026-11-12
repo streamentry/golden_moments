@@ -121,7 +121,7 @@ Kulde er også viktig. Om vinteren bør utetiden holdes kort, og du bør sørge 
 
 ## Hvordan håndterer jeg vandring når vi går ut?
 
-Vær sammen med personen når de er ute. Alzheimer's Association sier at [6 av 10 personer som lever med demens](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vil vandre av sted minst én gang, og mange gjør det mer enn én gang. Det kan skje i alle stadier.
+Vær sammen med personen når de er ute. Alzheimer's Association sier at [seks av 10 personer som lever med demens](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vil vandre av sted minst én gang, og mange gjør det mer enn én gang. Det kan skje i alle stadier.
 
 NIAs [tips om vandring og å gå seg bort](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inkluderer:
 

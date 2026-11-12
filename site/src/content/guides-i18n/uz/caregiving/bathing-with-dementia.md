@@ -1,7 +1,7 @@
 ---
 title: "Demensiyali insonga choʻmilishda yordam berish"
 seoTitle: "Demensiyali inson uchun choʻmilishda yordam"
-description: "Demensiya bilan choʻmilishda yordam berishning amaliy yoʻllari: maxfiylikni saqlang, tanlov taklif qiling, xonani tayyorlang va kerak boʻlsa toʻxtab, boshqa usulni sinab koʻring."
+description: "Demensiyali insonga choʻmilishda yordam: maxfiylikni saqlang, tanlov taklif qiling, xonani tayyorlang va kerak boʻlsa toʻxtab, boshqa usulni sinab koʻring."
 section: caregiving
 order: 14
 updated: 2026-11-11
