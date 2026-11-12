@@ -1,10 +1,10 @@
 ---
 title: "Home Safety for Someone with Dementia"
 seoTitle: "Home Safety Checklist for Dementia Caregivers"
-description: "A room-by-room home safety guide for dementia caregivers, with practical checks for lighting, trip hazards, medicines and everyday routines."
+description: "A room-by-room home safety review for dementia caregivers, with practical checks for lighting, trip hazards, medicines and everyday routines."
 section: caregiving
 order: 10
-updated: 2026-11-11
+updated: 2026-11-12
 summary: >-
   Check one room at a time, starting with a concern you have noticed. Improve
   lighting, clear walking routes, store medicines and cleaning products safely,
@@ -33,7 +33,7 @@ sources:
     publisher: "Alzheimer's Society"
     url: "https://www.alzheimers.org.uk/get-support/publications-and-factsheets/dementia-together/tips-staying-safe-secure-home-dementia"
 relatedGames: []
-related: [activities/household-tasks, brain-health/sleep, caregiving/when-they-say-no]
+related: [activities/household-tasks, brain-health/sleep, caregiving/when-they-say-no, caregiving/responding-after-a-fall-with-dementia]
 health: false
 ---
 
@@ -105,4 +105,4 @@ If you rent, ask the landlord or housing provider before making permanent change
 
 ## How often should I review the home?
 
-Review it when a familiar task becomes harder, movement or vision changes, or there is a near miss. Start with the room or routine connected to that change. You do not need to complete every item on a checklist; keep what is working and revisit one practical change at a time.
+Review it when a familiar task becomes harder, movement or vision changes, or there is a near miss. Start with the room or routine connected to that change. You do not need to complete every item on a checklist; keep what is working and revisit one practical change at a time. If a fall has already happened, our [guide to what to do after a fall](/caregiving/responding-after-a-fall-with-dementia/) covers immediate steps and follow-up.

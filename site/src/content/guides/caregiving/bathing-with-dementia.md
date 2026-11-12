@@ -23,7 +23,7 @@ faq:
   - q: "Does someone with dementia need a full bath every day?"
     a: "There is no single routine that fits everyone. Follow the person's usual preferences and ask a health professional for advice if bathing, skin care or hygiene becomes difficult."
   - q: "What if the person has pain or falls during bathing?"
-    a: "Stop and address immediate safety. Speak with a health professional or occupational therapist about new pain, falls, difficulty getting in or out, or equipment that might help."
+    a: "Stop and address immediate safety. Speak with a health professional or occupational therapist about new pain, falls, difficulty getting in or out, or equipment that might help. For general steps after a fall, see our [guide to what to do after a fall](/caregiving/responding-after-a-fall-with-dementia/)."
 sources:
   - title: "Bathing"
     publisher: "Alzheimer's Association"

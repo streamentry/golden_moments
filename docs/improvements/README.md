@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 83/100 in this branch** (Round 82 is in PR #225; this branch adds #83). Round 83 adds an English guide to person-led money support and scam response. On Node 24.11.1, site verification passes 1,869 tests, builds 12,517 pages and reports 0 checker errors with 535 warnings; TypeScript, 106 Python tests, release metadata and `git diff --check` pass. No person with dementia, caregiver, bank/financial/legal professional, safeguarding professional or native-speaker review has been done.
+**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 89/100 in this branch** (Round 88 is in PR #231; this branch adds #89). Round 89 labels U.S. emergency and crisis numbers in the app's English Today advice and directs readers elsewhere to local services. Verification and review status are recorded in [TRACKING.md](TRACKING.md). Flutter/widget and human review remain unverified.
 
 | Item | Status |
 | --- | --- |
@@ -152,3 +152,40 @@ Implementation commit: `7bf89995aa5349e80b8005ecb9aae7ce663c5dfb`. The 65 comple
 The site had general future-planning advice but no practical page on helping with bills, understanding trusted-contact limits, noticing possible exploitation or responding to a scam. This guide keeps the person involved, separates informal bill help from transaction authority and gives U.S. reporting steps with local-law caveats.
 
 Implementation commit: `cbd3725a6fd9be632d434a4a78f3618270e5118c`. Sources include Alzheimer's Society, Alzheimer's Association, CFPB, FTC and the Administration for Community Living. On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,517 pages and found 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, 106 Python tests, `python3 scripts/release_metadata.py --check` and `git diff --check` passed. Built output contains the guide route and the caregiving-hub link. The guide is English only. No live browser, person-with-dementia, caregiver, banker, financial/legal professional, safeguarding professional or native-speaker review has been done.
+
+
+## Round 84: responding when someone sees or hears things (2026-11-11)
+
+The site discussed sundowning, suspicion and sudden confusion, but had no focused page for a person who sees or hears things others do not. The new guide suggests calm, honest responses; simple checks for shadows, reflections, sounds and sensory aids; and a medical boundary for sudden or distressing changes. It does not diagnose hallucinations or advise changing medicine.
+
+Sources include Alzheimer's Society, Alzheimer's Association, Dementia Australia and the NHS. The static route, caregiving hub and related-guide link are checked in built output. The guide is English only. No live-browser, person-with-dementia, caregiver, clinician or native-speaker review has been done.
+
+## Round 85: responding when anger becomes aggression (2026-11-11)
+
+The refusal, communication, pain and late-day guides mentioned anger or aggression only in context. This new English guide puts immediate safety first, suggests calm ways to pause and give space, describes possible triggers without diagnosing them, and tells readers when to contact a clinician or local emergency service. It does not recommend restraint or medicine changes.
+
+Sources include the Alzheimer's Association and Alzheimer's Society. The guide links back to refusal and late-day advice. Person, caregiver, clinician, native-speaker and live-browser review remain open.
+
+## Round 86: coordinate dementia care from a distance (2026-11-11)
+
+The site covered living alone, in-home help, emergency planning and family task disagreements, but lacked a focused guide for relatives or friends supporting someone from another city. This English guide helps the person choose who is involved, assigns practical remote tasks, sets an agreed update and backup plan, and points local health-information rules back to providers.
+
+Sources include the Alzheimer's Association and Family Caregiver Alliance. No person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 87: future-care conversation prompts (2026-11-11)
+
+The after-diagnosis guide recommended discussing future wishes but gave no practical prompts. It now offers optional, one-question-at-a-time starters, permission to pause, and a way to note the person's own words for later discussion. It does not prescribe treatments or substitute for local legal documents.
+
+Sources include the Alzheimer's Association, Alzheimer's Society and National Institute on Aging. No recently diagnosed person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 88: responding after a fall (2026-11-11)
+
+The home-safety guide focuses on reducing hazards, while the bathing guide mentions falls during personal care. This English guide covers the immediate response, when to call local emergency services, not lifting someone alone, health follow-up and simple observations to share with a clinician. It does not diagnose an injury or teach a transfer technique.
+
+Sources include the Alzheimer's Society and NHS. The guide uses local rather than country-specific emergency instructions. No person, caregiver, clinician, native-speaker or live-browser review has been done.
+
+## Round 89: label U.S. emergency numbers in mobile Today advice (2026-11-11)
+
+Round 50 updated the website's Today guidance, but the app has separate English Today strings that named 911 and 988 without their U.S. scope. The English app text now labels 911 and 988 for the U.S. and gives local emergency/crisis alternatives elsewhere. No location detection or permissions were added.
+
+The ARB audit found those literal U.S. numbers in English only; translated help strings were left as they were. Local Flutter generation and widget tests could not run because Flutter/Dart are unavailable here; hosted CI remains pending.

@@ -125,7 +125,7 @@ Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, list
 
 The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia. Our [guide to responding to anger and aggression](/caregiving/when-anger-becomes-aggression-with-dementia/) covers immediate safety and what to do afterward.
 
 Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
 
