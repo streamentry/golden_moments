@@ -1,33 +1,34 @@
 ---
-title: "Comunicació multilingüe en l'atenció a la demència"
-seoTitle: "Demència i idiomes: suport en diverses llengües"
-description: "Doni suport a una persona multilingüe amb demència preguntant quina llengua prefereix, fent servir indicacions familiars i organitzant ajuda lingüística per a les cites."
+title: "Com donar suport a la comunicació multilingüe"
+seoTitle: "Demència i llengua: suport en diverses llengües"
+description: "Doneu suport a una persona amb demència que parla diverses llengües preguntant quina prefereix, fent servir pistes familiars i demanant ajuda lingüística per a les visites."
 section: caregiving
 order: 41
 updated: 2026-11-12
 translatedFrom: 2026-11-12
 summary: >-
-  Pregunti quina llengua vol fer servir la persona. Algunes persones multilingües
-  amb demència poden fer servir una llengua après abans, però això varia. Faci
-  servir paraules i gestos coneguts, i pregunti als serveis de salut quin suport
-  d'intèrpret hi ha per a les cites.
+  Pregunteu quina llengua vol fer servir la persona. Algunes persones amb
+  demència que parlen diverses llengües poden utilitzar una llengua que van
+  aprendre abans, però això varia. Feu servir paraules i gestos familiars, i
+  pregunteu als serveis de salut quina ajuda amb l'idioma hi ha disponible per
+  a les visites.
 keyPoints:
-  - "Pregunti quina llengua és més còmoda per a aquesta conversa; no ho doni per fet."
-  - "Algunes persones poden fer servir una llengua après abans, però això no passa a tothom ni indica l'etapa de la persona."
-  - "Faci servir paraules conegudes, doni més temps i ajudi la parla amb imatges o gestos."
-  - "Per a les cites de salut, contacti el proveïdor amb antelació i pregunti quin suport d'intèrpret hi ha."
-  - "Un canvi sobtat en la comunicació amb confusió necessita atenció mèdica."
+  - "Pregunteu quina llengua és més còmoda per a aquesta conversa; no ho doneu per fet."
+  - "Algunes persones poden fer servir una llengua que van aprendre abans, però això no passa a tothom ni indica en quina fase es troba la persona."
+  - "Feu servir paraules familiars, doneu més temps i recolzeu la parla amb imatges o gestos."
+  - "Per a les visites mèdiques, contacteu amb el centre amb antelació i pregunteu quina ajuda amb l'idioma hi ha disponible."
+  - "Un canvi sobtat en la comunicació acompanyat de confusió requereix atenció mèdica."
 faq:
-  - q: "La demència farà que una persona torni a usar la seva llengua materna?"
-    a: "Algunes persones amb demència poden començar a fer servir una llengua après abans, i d'altres no. Les preferències lingüístiques poden variar segons la persona, el tema i el dia. Pregunti quina llengua li resulta còmoda en lloc d'usar-la per jutjar l'etapa de la persona."
-  - q: "He de parlar la llengua materna de la persona?"
-    a: "Pregunti quina llengua vol fer servir ara. Si vostè la parla, faci servir paraules conegudes i doni temps per respondre. Si no la parla, pregunti si vol que una persona de confiança bilingüe s'uneixi a una conversa habitual."
-  - q: "Què faig si no entenc el que diu la persona?"
-    a: "Mantingui la calma i pregunti-li si vol mostrar-ho, assenyalar-ho o dir-ho amb una altra paraula. Una imatge, un objecte familiar o un gest pot ajudar. No la posi a prova ni fingeixi que entén informació de salut important."
-  - q: "Com puc preparar una cita mèdica?"
-    a: "Contacti la clínica abans de la visita, digui quina llengua prefereix la persona i pregunti quines opcions d'intèrpret hi ha. Pregunti a la persona qui vol que l'acompanyi; un acompanyant pot assistir sense parlar en nom seu."
-  - q: "Un canvi sobtat de llengua forma part de la demència?"
-    a: "Un canvi de llengua per si sol no n'explica la causa. Si la persona es confon de cop o la seva comunicació canvia bruscament, busqui ajuda mèdica immediata en lloc de suposar que es tracta de l'evolució de la demència."
+  - q: "La demència farà que algú torni a fer servir la seva primera llengua?"
+    a: "Algunes persones amb demència poden començar a fer servir una llengua que van aprendre abans, mentre que d'altres no. Les preferències lingüístiques poden variar segons la persona, el tema i el dia. Pregunteu quina llengua li resulta còmoda en lloc de fer-ho servir per jutjar en quina fase es troba."
+  - q: "Hauria de parlar la primera llengua de la persona?"
+    a: "Pregunteu quina llengua li agradaria fer servir ara. Si la compartiu, feu servir paraules familiars i doneu-li temps per respondre. Si no la parleu, pregunteu si li agradaria que una persona bilingüe de confiança s'unís a una conversa quotidiana."
+  - q: "Què puc fer si no entenc el que diu la persona?"
+    a: "Mantingueu la calma i demaneu-li que ho mostri, que ho assenyali o que faci servir una altra paraula si vol. Una imatge, un objecte familiar o un gest poden ajudar. No la poseu a prova ni fingiu entendre informació mèdica important."
+  - q: "Com em puc preparar per a una visita mèdica?"
+    a: "Contacteu amb la clínica abans de la visita, expliqueu quina llengua prefereix la persona i pregunteu quines opcions d'interpretació hi ha disponibles. Pregunteu a la persona qui vol que l'acompanyi; una persona de suport pot assistir-hi sense parlar per ella."
+  - q: "Un canvi sobtat en la llengua forma part de la demència?"
+    a: "Un canvi en la llengua per si sol no n'explica la causa. Si la persona es desorienta de sobte o la seva comunicació canvia bruscament, busqueu ajuda mèdica immediata en lloc de suposar que es tracta de l'evolució de la demència."
 sources:
   - title: "How to communicate with a person with dementia"
     publisher: "Alzheimer's Society"
@@ -49,50 +50,50 @@ related: [caregiving/communication-tips, caregiving/doctor-visit-with-dementia, 
 health: true
 ---
 
-Les persones que parlen més d'una llengua poden comunicar-se de manera diferent quan la demència afecta la recerca de paraules o la comprensió. Algunes comencen a fer servir una llengua après abans; d'altres no. El primer pas més útil és preguntar quina llengua és més còmoda ara i seguir el ritme de la persona.
+Les persones que parlen més d'una llengua poden comunicar-se de manera diferent a mesura que la demència canvia la seva capacitat per trobar paraules o comprendre-les. Algunes persones comencen a fer servir una llengua que van aprendre abans; d'altres no. El primer pas més útil és preguntar quina llengua li resulta còmoda ara i seguir el ritme de la persona.
 
-L'[Alzheimer's Society indica que les preferències lingüístiques poden variar i suggereix fer servir la llengua en què la persona es comunica habitualment](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). L'[Alzheimer's Association inclou també el retorn a la llengua materna com un possible canvi en la comunicació](https://www.alz.org/help-support/caregiving/daily-care/communications). Aquests canvis no passen a tothom i no indiquen l'etapa de la persona.
+La [Alzheimer's Society diu que les preferències lingüístiques poden variar i suggereix fer servir la llengua en què la persona es comunica habitualment](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). L'[Alzheimer's Association també esmenta tornar a la llengua materna com un possible canvi en la comunicació](https://www.alz.org/help-support/caregiving/daily-care/communications). Aquests canvis no passen a tothom i no indiquen en quina fase es troba la persona.
 
-## Quina llengua he d'usar?
+## Quina llengua hauria de fer servir?
 
-Pregunti a la persona quina llengua vol fer servir en aquesta conversa. La seva preferència pot canviar segons el tema, l'entorn o l'hora del dia. Si canvia de llengua, no ho tracti com una prova ni insisteixi que continuï en la llengua que vostè entén.
+Pregunteu a la persona quina llengua vol fer servir per a aquesta conversa. La seva preferència pot canviar segons el tema, el lloc o el moment del dia. Si canvia de llengua, no ho tracteu com una prova ni insistiu que continuï en la llengua que vostè entén.
 
-Si vostè parla la llengua que ella prefereix, faci servir paraules conegudes i doni temps per respondre. Si només en coneix unes poques, sigui honest i faci servir també gestos, objectes o imatges. La [guia de llenguatge de l'Alzheimer's Society](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) indica que la capacitat lingüística pot variar d'un dia a l'altre i pot veure's afectada pel cansament, el dolor o la malaltia.
+Si parleu la llengua que prefereix, feu servir paraules familiars i doneu-li temps per respondre. Si només en coneixeu algunes paraules, sigueu sincer i feu servir també gestos, objectes o imatges. La [guia sobre llengua de l'Alzheimer's Society](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) assenyala que la capacitat lingüística pot variar d'un dia a l'altre i que el cansament, el dolor o una malaltia la poden afectar.
 
-## Què pot ajudar en una conversa habitual?
+## Què pot ajudar en una conversa quotidiana?
 
-Tingui en compte els consells habituals de comunicació i afegeixi el suport que encaixa amb la llengua de la persona:
+Tingueu presents els consells habituals de comunicació i afegiu-hi el suport que s'ajusti a la llengua de la persona:
 
-- **Faci servir paraules i noms coneguts.** Pregunti a la persona o a algú de confiança quines paraules fa servir per a les coses de cada dia, els familiars i les rutines.
-- **Mostri a més de dir.** Assenyali una tassa, mostri dues opcions o faci servir una foto o un objecte conegut. Un gest pot ajudar quan la paraula justa és difícil de trobar.
-- **Espereu.** Doni temps a la persona per escoltar i respondre. No acabi cada frase per ella ni repeteixi la pregunta en diverses llengües alhora.
-- **Una idea cada vegada.** Una explicació llarga pot ser difícil en qualsevol llengua. Faci servir una frase curta, faci una pausa i miri si vol més informació.
-- **Comprovi l'oïda i la vista.** Les ulleres, els audiòfons, una bona il·luminació i un entorn silenciós poden facilitar el seguiment de la conversa.
+- **Feu servir paraules i noms familiars.** Pregunteu a la persona o a algú de confiança quines paraules fa servir per als objectes quotidians, els familiars i les rutines.
+- **Mostreu-ho a més de dir-ho.** Assenyaleu una tassa, oferiu dues opcions o feu servir una fotografia o un objecte familiar. Un gest pot ajudar quan costa trobar la paraula adequada.
+- **Espereu.** Doneu temps a la persona per escoltar i respondre. No acabeu totes les frases ni repetiu la pregunta en diverses llengües alhora.
+- **Tracteu una idea cada vegada.** Una explicació llarga pot ser difícil en qualsevol llengua. Feu servir una frase curta, feu una pausa i comproveu si vol més informació.
+- **Comproveu l'oïda i la vista.** Les ulleres, els audiòfons, una bona il·luminació i un entorn tranquil poden facilitar que la persona segueixi la llengua.
 
-Si la persona prefereix llegir, pregunti si hi ha informació escrita important en la seva llengua. No confiï en una traducció automàtica per a una decisió mèdica, un consentiment o una instrucció de medicació; confirmi la informació important amb el proveïdor d'atenció.
+Si la persona prefereix llegir, pregunteu si la informació escrita important està disponible en la seva llengua. No us baseu en una traducció automàtica per a una decisió mèdica, un consentiment o una instrucció sobre medicació; confirmeu la informació important amb el professional sanitari.
 
-## Què faig si no parlo la llengua que la persona prefereix?
+## Què puc fer si no parlo la llengua que prefereix la persona?
 
-Pregunti si vol que un amic o un familiar bilingüe de confiança s'uneixi a una conversa habitual. No doni per fet que la persona vol que algú altre faci d'intèrpret; pot preferir gestos, imatges o una altra llengua que tots dos comparteixin.
+Pregunteu si li agradaria que una amistat o un familiar bilingüe de confiança s'unís a una conversa rutinària. No doneu per fet que la persona vol que algú altre faci d'intèrpret; potser prefereix gestos, imatges o una altra llengua que comparteixin.
 
-Per a una cita mèdica o una altra conversa que necessiti informació precisa, truqui a la clínica o al servei d'atenció amb antelació. Digui quina llengua prefereix la persona i pregunti quin suport d'intèrpret hi ha. El [Departament de Salut i Serveis Humans dels Estats Units explica](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html) que els familiars i els amics poden no ser capaços d'interpretar amb precisió informació mèdica important; el servei pot explicar les seves opcions i els requisits locals. La persona pot decidir si un acompanyant hi va, mentre el proveïdor organitza qualsevol assistència lingüística necessària.
+Per a una visita mèdica o una altra conversa que requereixi informació precisa, truqueu a la clínica o al servei d'atenció amb antelació. Expliqueu-los quina és la llengua preferida de la persona i pregunteu quina ajuda amb l'idioma hi ha disponible. El [U.S. Department of Health and Human Services explica](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html) que familiars i amistats potser no poden interpretar informació mèdica important amb precisió; el servei pot explicar-vos les opcions i els requisits locals. La persona pot triar si vol que l'acompanyi algú de suport, mentre el centre organitza l'ajuda lingüística necessària.
 
-Durant la visita, adreci's directament a la persona i doni temps perquè l'intèrpret parli. Comprovi que la persona entén la pregunta i que té l'oportunitat de respondre amb les seves paraules. Si l'acompanya, afegeixi context només quan ella ho vulgui.
+Durant la visita, adreceu-vos directament a la persona i doneu temps perquè l'intèrpret parli. Comproveu que la persona entén la pregunta i que té l'oportunitat de respondre amb les seves pròpies paraules. Si l'esteu acompanyant, afegiu context només quan ella ho vulgui.
 
-## Quan he de buscar consell mèdic?
+## Quan hauria de demanar consell mèdic?
 
-Les dificultats de llenguatge poden canviar amb el temps, però un canvi sobtat és diferent. La [NHS aconsella buscar ajuda mèdica immediata quan una persona es confon de cop](https://www.nhs.uk/symptoms/confusion/). No doni per fet que una pèrdua sobtada de comunicació és simplement part de la demència. Si la persona es confon de cop, es troba molt malament o costa de despertar, contacti els serveis mèdics d'urgència locals.
+Les dificultats amb la llengua poden canviar amb el temps, però un canvi sobtat és diferent. El [NHS aconsella demanar ajuda mèdica immediata quan algú es desorienta de sobte](https://www.nhs.uk/symptoms/confusion/). No doneu per fet que una pèrdua sobtada de la comunicació forma part simplement de la demència. Si la persona es desorienta de sobte, es troba molt malament o costa molt despertar-la, contacteu amb els serveis mèdics d'urgència locals.
 
-Per als canvis graduals, anoti el que observa i demani consell al clínic de la persona. Registri quina llengua feia servir, què l'ajudava a comunicar-se i si estava cansada o malalta. Això és una descripció per a una conversa, no un diagnòstic. La nostra [guia per a visites al metge](/caregiving/doctor-visit-with-dementia/) pot ajudar a preparar les preguntes.
+Si els canvis són graduals, anoteu el que observeu i demaneu consell al professional sanitari de la persona. Apunteu quina llengua feia servir, què la va ajudar a comunicar-se i si estava cansada o es trobava malament. Això és una descripció per a una conversa, no un diagnòstic. La nostra [guia per a la visita mèdica](/caregiving/doctor-visit-with-dementia/) us pot ajudar a preparar preguntes.
 
-## Què puc explicar a altres ajudants?
+## Què puc explicar a altres persones que l'ajuden?
 
-Amb l'acord de la persona, mantingui una nota curta per a les persones que ella vol que hi participin. Pot indicar la llengua o el dialecte que prefereix per parlar i per llegir, els noms o les paraules conegudes, i què l'ajuda a seguir una conversa. Pregunti si vol que algú en concret hi sigui present a les cites o a les actualitzacions d'atenció. Eviti anotar detalls privats que no calen per al suport, i digui a la persona qui pot veure la nota. Una nota sobre la llengua ajuda a iniciar una conversa amb més comoditat; no substitueix un intèrpret en una conversa de salut complexa.
+Amb l'acord de la persona, podeu preparar una nota breu per a les persones que ella vulgui que hi participin. Pot incloure la llengua o el dialecte que prefereix per parlar i llegir, paraules o noms familiars i el que l'ajuda a seguir una conversa. Pregunteu si vol que hi hagi algú en concret a les visites o en les actualitzacions sobre la seva atenció. Eviteu anotar detalls privats que no siguin necessaris per donar suport i expliqueu a la persona qui podrà veure la nota. Una nota sobre la llengua ajuda a iniciar una conversa amb més comoditat; no substitueix un intèrpret en una conversa sanitària complexa.
 
 ## Com puc respectar les decisions de la persona?
 
-La llengua és una part de com una persona es relaciona, però no és tota la seva identitat. Pregunti per les rutines, els interessos, les preferències de lectura i les persones que vol que hi participin. Si la persona hi està d'acord, anoti paraules o frases útils per a altres persones que l'acompanyen i expliqui-les com fer-les servir. Guardi les notes en privat i comparteixi només el que la persona ha acordat.
+La llengua forma part de la manera com una persona es connecta amb els altres, però no és tot el que és. Pregunteu per les seves rutines, els seus interessos, les seves preferències de lectura i les persones que vol que hi participin. Si la persona hi està d'acord, apunteu paraules o frases útils per a altres persones que la donin suport i expliqueu com fer-les servir. Mantingueu les notes en privat i compartiu només allò que la persona ha acceptat compartir.
 
-No insisteixi perquè la persona practiqui, tradueixi per als altres o demostri què entén. Algunes converses poden ser més fàcils en una llengua i altres en una altra. La comoditat, la privacitat i l'elecció de la persona importen més que mantenir-se en una sola llengua.
+No insisteixi que la persona practiqui, faci de traductora per a altres o demostri el que entén. Algunes converses poden ser més fàcils en una llengua i d'altres en una altra. La comoditat, la privadesa i les decisions de la persona són més importants que mantenir-se en una sola llengua.
 
-La nostra [guia de consells de comunicació](/caregiving/communication-tips/) explica com parlar de manera senzilla, escoltar i fer servir imatges. Per planificar després d'un diagnòstic, vegi [primers passos després d'un diagnòstic de demència](/caregiving/after-dementia-diagnosis/).
+Els nostres [consells de comunicació](/caregiving/communication-tips/) expliquen com parlar amb senzillesa, escoltar i fer servir imatges. Per obtenir ajuda per planificar els primers passos després del diagnòstic, consulteu [primers passos després d'un diagnòstic de demència](/caregiving/after-dementia-diagnosis/).

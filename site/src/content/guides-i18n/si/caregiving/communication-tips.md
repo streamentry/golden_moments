@@ -1,33 +1,29 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "ඩිමෙන්ෂියාව ඇති අය සමඟ කතා කරන විට සන්නිවේදන ඉඟි"
+seoTitle: "ඩිමෙන්ෂියාව සහ කතාබස්: කියන්න දේ සහ වළක්වන්න දේ"
+description: "ඩිමෙන්ෂියාව සමඟ ජීවත් වන අය සමඟ කතා කිරීමට ප්‍රායෝගික උපදෙස්: සංවාදයක් සූදානම් කරන ආකාරය, විමසීම් හෝ නිවැරදි කිරීම් වෙනුවට කියන්න දේ, සහ සවන් දෙන ආකාරය."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  නිහඬ තැනක කතා කරන්න, පුද්ගලයාට මුහුණලා සිටින්න, ඔවුන්ගේ නම භාවිත කරන්න, සහ කෙටි, සරල වාක්‍ය වලින් සෙමින් කතා කරන්න. එකවර එක ප්‍රශ්නයක් අසන්න, විවෘත ප්‍රශ්න වෙනුවට විකල්ප දෙකක් ඉදිරිපත් කරන්න, සහ සාමාන්‍යයෙන් දැනෙන වේලාවට වඩා වැඩි කාලයක් රැඳී සිටින්න. තර්ක නොකරන්න, නිවැරදි නොකරන්න, විමසීම් නොකරන්න. වචන පිටුපස ඇති හැඟීමට ප්‍රතිචාර දක්වන්න, සහ කථනය අඩු වන විට ස්පර්ශය, පින්තූර සහ අභිනයන් භාවිත කරන්න.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "කතා කිරීමට පෙර පසුබිම් ශබ්ද අඩු කර ඇස් සම්බන්ධතාවය ඇති කර ගන්න."
+  - "කෙටි වාක්‍ය, එකවර එක අදහසක්, සහ ඔහු, ඇය හෝ ඔවුන් වෙනුවට නම් භාවිත කරන්න."
+  - "විවෘත ප්‍රශ්න වෙනුවට විකල්ප දෙකක් හෝ ඔව්/නැත ප්‍රශ්නයක් ඉදිරිපත් කරන්න."
+  - "පිළිතුරක් සඳහා රැඳී සිටින්න. ඔවුන්ගේ අදහස නොතේරුණහොත්, එකම වචන නැවත කියන්න, පසුව වෙනත් වචන උත්සාහ කරන්න."
+  - "තර්ක නොකරන්න, නිවැරදි නොකරන්න. ඔවුන් කියන දේ පිටුපස ඇති හැඟීමට ප්‍රතිචාර දක්වන්න."
+  - "වචන අඩු වන විට, ස්පර්ශය, හඬේ ස්වරය, මුහුණේ ඉරියව් සහ එකට බලන පින්තූර හරහා සන්නිවේදනය කරන්න."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "ඩිමෙන්ෂියාව ඇති කෙනෙකුට නොකිය යුතු දේවල් මොනවාද?"
+    a: "විමසීම් (\"ඔබට මතකද...?\"), නිවැරදි කිරීම (\"ඒක වැරදියි\"), අහිමි වූ දේවල් මතක් කිරීම (\"මම දැනටමත් ඔයාට කිව්වා\") සහ ඔවුන් එහි නොසිටින ආකාරයට ඔවුන් ගැන කතා කිරීම වළකින්න. ළමා භාෂාව වළකින්න. මේවා උපකාරයක් නොවෙමින් ලැජ්ජාවක් හෝ කලකිරීමක් ඇති කිරීමට බොහෝ විට හේතු වේ."
+  - q: "ඔවුන් කරුණු වැරදියට කිව්වොත් මම ඒවා නිවැරදි කළ යුතුද?"
+    a: "සාමාන්‍යයෙන් අවශ්‍ය නැත. වැරදි කරුණක් හානිකර නොවේ නම්, එය එසේම තබන්න. තර්ක කිරීමෙන් පුද්ගලයාගේ අදහස වෙනස් වීම බොහෝ විට සිදු නොවන අතර, ඔවුන් කලබල වීමට හේතු විය හැක. දැන් ඔවුන්ට දැනෙන හැඟීම් සහ අවශ්‍ය දේවල් කෙරෙහි අවධානය යොමු කරන්න."
+  - q: "ඔවුන්ට වචනයක් සොයාගත නොහැකි වූ විට මම කුමක් කළ යුතුද?"
+    a: "පළමුව ඔවුන්ට වේලාව දෙන්න. ඔවුන් පැහැදිලිවම අරගල කරන බව පෙනේ නම්, මෘදු ලෙස වචනයක් යෝජනා කිරීම හෝ ඔවුන් අදහස් කළ දේ අනුමාන කර එය නිවැරදිදැයි ඇසීම සුදුසුය. ඇඟිල්ලෙන් පෙන්වීම, අභිනයන් සහ පින්තූර ද උපකාර විය හැක."
+  - q: "අවසාන අවධියේ ඩිමෙන්ෂියාව ඇති, කලාතුරකින් පමණක් කතා කරන කෙනෙකු සමඟ මම කෙසේ කතා කළ යුතුද?"
+    a: "ඉදිරිපසින් ළඟා වන්න, ඔබ කවුදැයි කියන්න, සහ සන්සුන් හඬක් හා මෘදු ස්පර්ශයක් භාවිත කරන්න. හැඟීම් තේරුම් ගැනීමට මුහුණේ ඉරියව් සහ ශරීර භාෂාව නිරීක්ෂණය කරන්න. ඔබගේ පැමිණීම, හුරුපුරුදු ගීතයක් හෝ අත අල්ලාගෙන සිටීම වචන නොමැතිවම බොහෝ දේ සන්නිවේදනය කළ හැක."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +35,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+ඩිමෙන්ෂියාව නිසා වචන සොයා ගැනීම, දිගු වාක්‍යයක් අනුගමනය කිරීම, හෝ පසුබිම් ශබ්ද මඟහරවා ගැනීම අමාරු විය හැක. එයින් කියවෙන්නේ පුද්ගලයාට තවදුරටත් සම්බන්ධතාවක් අවශ්‍ය නොවන බවක් නොවේ. සංවාදයක් සූදානම් කරන ආකාරය, ඔබ කතා කරන ආකාරය සහ ඔබ සවන් දෙන ආකාරය ගැන කුඩා වෙනස්කම් කිරීමෙන්, ඔබ දෙදෙනාටම කතාබස් කිරීම පහසු හා සන්සුන් කළ හැක.
 
-## What are the most important tips for talking with someone who has dementia?
+## ඩිමෙන්ෂියාව ඇති අය සමඟ කතා කිරීමේදී වැදගත්ම උපදෙස් මොනවාද?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+ඔවුන්ගේ අවධානය ලබා ගන්න, දේවල් සරලව තබා ගන්න, සහ ඉවසිලිවන්ත වන්න. ඔබට මතක තබා ගත හැක්කේ දේවල් පහක් පමණක් නම්:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **කාමරය නිහඬ කර ඔවුන්ට මුහුණලා සිටින්න.** රූපවාහිනිය ක්‍රියා විරහිත කරන්න, ඇස් මට්ටමින් වාඩි වන්න, සහ ඔවුන්ගේ නම භාවිත කරන්න.
+2. **එකවර එක දෙයක් කියන්න.** කෙටි වාක්‍ය, එක අදහසක්, එක ප්‍රශ්නයක්.
+3. **විකල්ප දෙකක් ඉදිරිපත් කරන්න.** "තේ ද කෝපි ද?" යන්න "ඔබට කුමක් ඕනද?" යන්නට වඩා පහසුය.
+4. **රැඳී සිටින්න.** පිළිතුරක් සඳහා සාමාන්‍යයෙන් දැනෙන වේලාවට වඩා වැඩි කාලයක් දෙන්න, සහ බාධා නොකරන්න.
+5. **කවදාවත් තර්ක නොකරන්න, විමසීම් නොකරන්න.** කරුණු නිවැරදිද යන්නට වඩා ඔවුන්ට දැනෙන හැඟීම් කෙරෙහි ප්‍රතිචාර දක්වන්න.
 
-## How should I start a conversation?
+## මම සංවාදයක් ආරම්භ කළ යුත්තේ කෙසේද?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+පුද්ගලයාට ඔබ කෙරෙහි අවධානය යොමු කළ හැකි වන පරිදි පසුබිම සකසන්න. [Family Caregiver Alliance මාර්ගෝපදේශය](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) පළමුව ශබ්ද සීමා කිරීමට යෝජනා කරයි: රේඩියෝව හෝ රූපවාහිනිය ක්‍රියා විරහිත කරන්න, තිර හෝ දොර වසන්න, නැතහොත් වඩා නිහඬ තැනකට යන්න.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **ඉදිරිපසින් ළඟා වන්න.** පිටුපසින් හෝ පැත්තකින් ළඟා වීමෙන් පුද්ගලයා හදිසියේම බිය විය හැක.
+- **ඔබ කවුදැයි කියන්න.** "ආයුබෝවන් තාත්තේ, මම සාරා, ඔබේ දුව." මෙය ඔවුන්ට ඔබේ නම සොයා ගැනීමට උත්සාහ කිරීමට අවශ්‍ය නොකරයි.
+- **ඔවුන්ගේ මට්ටමට එන්න.** ඔවුන් වාඩි වී සිටී නම්, ඔබේ ඇස් ඔවුන්ගේ ඇස් මට්ටමේ වන පරිදි වාඩි වන්න හෝ දණින් වන්න.
+- **ඔබේ මුහුණේ ඉරියව් සහ හඬේ ස්වරය ගැන සැලකිලිමත් වන්න.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ඔබේ ස්වරය, හඬේ ප්‍රමාණය, මුහුණේ ඉරියව් සහ ශරීර භාෂාව ගැන සැලකිලිමත් වීමටත්, උණුසුම් සහ සරල ස්වරයක් භාවිත කිරීමටත් උපදෙස් දෙයි.
+- **කණ්ණාඩි සහ ශ්‍රවණාධාර සවි කර ඇතිදැයි බලන්න.** හොඳින් නොපෙනෙන හෝ නොඇසෙන සංවාදයක් අනුගමනය කිරීම අමාරුය.
 
-## How should I phrase what I say?
+## මම කතා කළ යුත්තේ කෙසේද?
 
-Use simple words, short sentences and a calm, low voice.
+සරල වචන, කෙටි වාක්‍ය සහ සන්සුන්, පහත් හඬක් භාවිත කරන්න.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **එක් වාක්‍යයකට එක අදහසක්.** "අපි ඔබේ කබාය ඇඳ ගනිමු. ඊට පස්සේ අපි එළියට යමු." එකම වාක්‍යයක දෙකම නොකියන්න.
+- **සර්වනාම වෙනුවට නම් භාවිත කරන්න.** "ඇය කතා කළා" යන්නට වඩා "ආන්ටි ජීන් කතා කළා" යන්න පැහැදිලිය.
+- **හඬ උස් කරනවාට වඩා පහත් කරන්න.** Family Caregiver Alliance හඬ උස් කරනවාට වඩා පහත් ස්වරයක් භාවිත කිරීමට යෝජනා කරයි.
+- **නැවත කියන්න, පසුව වෙනස් වචනවලින් කියන්න.** ඔවුන්ට නොතේරුණේ නම්, එකම වචන එක වරක් නැවත කියන්න. එය වැඩ නොකළහොත්, මොහොතක් රැඳී වෙනත් වචනවලින් උත්සාහ කරන්න.
+- **කීම පමණක් නොව පෙන්වන්න.** කෝප්පය වෙත ඇඟිල්ලෙන් පෙන්වන්න, ස්වීටර් දෙක අතට ගන්න, හෝ පළමු පියවර පෙන්වන්න.
+- **ඔවුන් සමඟ කතා කරන්න, ඔවුන් ගැන කතා නොකරන්න.** NIA පුද්ගලයා එහි නොසිටින ආකාරයට ඔවුන් ගැන කතා කිරීම සහ "ළමා භාෂාව" භාවිත කිරීම වළක්වා ගැනීමට අනතුරු අඟවයි.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA සාමාන්‍ය ප්‍රශ්නවල සරල ආකෘති යෝජනා කරයි. එම ආකාරයේ උදාහරණ මෙන්න:
 
-| Instead of | Try |
+| ඒ වෙනුවට | මෙය උත්සාහ කරන්න |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "රාත්‍රී ආහාරයට ඔබට කුමක් ඕනද?" | "ඔබට මාළු ද කුකුළු මස් ද ඕනද?" |
+| "ඔබට කොහොම දැනෙනවද?" | "ඔබට මහන්සියි ද?" |
+| "ඔබට බඩගිනියි ද?" | "රාත්‍රී ආහාරය මිනිත්තු පහකින් සූදානම්." |
+| "ඒක එහෙම කරන්න බැහැ." | "අපි මේ විදියට උත්සාහ කරමු." |
+| "අපි වැවට ගිය චාරිකාව ඔබට මතකද?" | "මම අපි වැවට ගිය චාරිකාව ගැන හිතමින් හිටියා. ඔබට ඒ ගැන කැමති වූ දේවල් මට කියන්න." |
+| "මම දැනටමත් ඔයාට කිව්වා." | පළමු වතාවේ මෙන් කරුණාවෙන් නැවත පිළිතුරු දෙන්න. |
 
-## How do I listen well?
+## මම හොඳින් සවන් දෙන්නේ කෙසේද?
 
-Listen for the meaning and the feeling, not just the words.
+වචන පමණක් නොව, අර්ථය සහ හැඟීම සඳහා සවන් දෙන්න.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **රැඳී සිටින්න.** නිශ්ශබ්දතාව බොහෝ විට සිතන වේලාවකි. අතරට පැමිණීමට පෙර සෙමින් දහයක් දක්වා ගණන් කරන්න.
+- **ඔවුන් පැටලී ඇත්නම් පමණක් වචනයක් යෝජනා කරන්න.** Family Caregiver Alliance කියන්නේ, කෙනෙකු අරගල කරන විට වචන යෝජනා කිරීම සුදුසු බවයි.
+- **ඔබට ඇසුණු දේ තහවුරු කර ගන්න.** [Alzheimer's Association හි සන්නිවේදන මාර්ගෝපදේශය](https://www.alz.org/help-support/caregiving/daily-care/communications) ඔවුන්ගේ වචන පිටුපස ඇති අර්ථය සොයා බලා, ඔබට තේරුණාදැයි පරීක්ෂා කිරීමට එය නැවත කියන්නැයි යෝජනා කරයි. "ඔබ කාර් එක ගැන කනස්සල්ලෙන් ඉන්නවද?"
+- **ඔවුන්ගේ මුහුණ සහ ශරීරය නිරීක්ෂණය කරන්න.** කථනය අමාරු වන විට, NIA සටහන් කරන්නේ, මුහුණේ ඉරියව් වචනවලට වඩා පැහැදිලිව දුක, කෝපය හෝ කලකිරීම පෙන්විය හැකි බවයි.
+- **කනස්සල්ල serious ලෙස සලකන්න.** කනස්සල්ලක් වැරදි කරුණක් මත පදනම් වුවද, එම හැඟීම සැබෑය.
 
-## What if they say something that is not true?
+## ඔවුන් සත්‍ය නොවන දෙයක් කිව්වොත් කුමක් කළ යුතුද?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+තර්ක නොකරන්න. ඔබ ජයග්‍රහණය කිරීමේ ඉඩකඩ අඩුය, සහ පුද්ගලයාට ලැජ්ජාවක් හෝ බියක් දැනිය හැක. ඒ වෙනුවට, හැඟීමට සම්බන්ධ වී, මෘදු ලෙස තවත් දෙයකට යොමු කරන්න.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance යෝජනා කරන්නේ ඔබ යොමු කිරීමට පෙර හැඟීම පිළිගන්නා ලෙසයි. උදාහරණයක් ලෙස, ඔබේ අම්මා ළමයින්ව පාසලෙන් රැගෙන යා යුතු බව තරයේ කියා සිටී නම්:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- ඒ වෙනුවට: "අම්මේ, ඔබේ දරුවෝ දැන් වැඩිහිටියෝ. ඒක අවුරුදු හතළිහකට කලින්."
+- මෙය උත්සාහ කරන්න: "ඔබ හැමවිටම හරිම ස्नेහशील අම්මෙක්. ඔවුන්ව රැගෙන යන එක ගැන මට කියන්න. අපි මුලින්ම කෑමක් කමුද?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association ද ඔබ එකඟ නොවන ප්‍රකාශයන් ගැන තර්ක නොකරන්නැයි උපදෙස් දෙයි. සුදුසු අවස්ථා තෝරන්න: වැරදි විශ්වාසයක් හානිකර නොවේ නම්, එය එසේම තබන්න.
 
-## How does communication change as dementia progresses?
+## ඩිමෙන්ෂියාව වර්ධනය වන විට සන්නිවේදනය කෙසේ වෙනස් වේද?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+කාලයත් සමඟ අවශ්‍යතා වෙනස් වේ, එබැවින් ඔබේ ආකාරය අනුවර්තනය කරන්න. Alzheimer's Association පුළුල් අවධීන් තුනක් විස්තර කරයි:
 
-| Stage | What helps |
+| අවධිය | උපකාරී වන දේ |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| මුල් අවධිය | ඔවුන්ට සන්නිවේදනය කළ නොහැකි යැයි උපකල්පනය නොකරන්න. සංවාදවලට ඔවුන්ව ඇතුළත් කරන්න, ඔවුන් සමඟ කෙලින්ම කතා කරන්න, ඔවුන්ට අවශ්‍ය සහාය කුමක්දැයි අසන්න, සහ එය උපකාරී නම් හාස්‍යය භාවිත කරන්න. |
+| මැද අවධිය | නිහඬ තැනක එකින් එක සංවාද. සෙමින් කතා කරන්න, ඇස් සම්බන්ධතාවය තබා ගන්න, ඔව්/නැත ප්‍රශ්න භාවිත කරන්න, පියවරෙන් පියවර උපදෙස් දෙන්න, සහ විවේචනය හෝ නිවැරදි කිරීම නොකරන්න. |
+| අවසාන අවධිය | ඉදිරිපසින් ළඟා වී ඔබ කවුදැයි කියන්න. ඇඟිල්ලෙන් පෙන්වීමට සහ අභිනයන්ට උනන්දු කරන්න. ස්පර්ශය, ශබ්ද, දර්ශන සහ සුවඳ භාවිත කරන්න. ඔවුන් එහි නොසිටින ආකාරයට කවදාවත් කතා නොකරන්න. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+සෑම පුද්ගලයෙකුම වෙනස්ය, සහ එකම පුද්ගලයාට හොඳ දින සහ අමාරු දින තිබිය හැක. ලේබලයකට නොව, දැන් ඔවුන් කෙසේ සිටීද යන්නට ප්‍රතිචාර දක්වන්න.
 
-## Can pictures and activities make conversation easier?
+## පින්තූර සහ ක්‍රියාකාරකම් සංවාදය පහසු කළ හැකිද?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+ඔව්. එකට බලන පින්තූරයක් පීඩනය අඩු කර, ඔබ දෙදෙනාටම දෙස බලා ඇඟිල්ලෙන් පෙන්වීමට දෙයක් ලබා දෙයි.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **පින්තූර ආධාරක.** [Conversation Cards](/games/conversation-cards/) විමසීම් නොකරන විවෘත ප්‍රශ්න සහිත පින්තූර ඉදිරිපත් කරයි.
+- **පවුලේ ඡායාරූප.** [Photo Pairs](/games/photo-pairs/) ඔබ තෝරාගත් ඡායාරූප මෘදු ගැළපීමේ ක්‍රීඩාවක් බවට පත් කරයි, එය බොහෝ විට මතකයන් බෙදා ගැනීමට හේතු වේ.
+- **හුරුපුරුදු කියමන්.** [Finish the Saying](/games/finish-the-saying/) හොඳින් දන්නා කියමන් භාවිත කර, පසුව කතාබස් කිරීමට ආරාධනයක් ලබා දෙයි.
+- **පසුබිමක් ලෙස ගැළපීමේ ක්‍රීඩා.** [Picture Pairs](/games/picture-pairs/) ඔබ කතා කරන අතරතුර අත් දෙකට කිරීමට දෙයක් ලබා දෙයි.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+වැඩිදුර සඳහා [එකට ක්‍රීඩා කරන ආකාරය](/caregiving/how-to-play-together/) සහ [මතකයන් නැවත සිහිපත් කරන ක්‍රියාකාරකම්](/activities/reminiscence/) බලන්න. සංචාර සහ ඇමතුම් සඳහා, [සංචාර කිරීම](/activities/visiting/) සහ [දුරකථන හා වීඩියෝ ඇමතුම්](/activities/phone-and-video-calls/) පිළිබඳ අපගේ මාර්ගෝපදේශ බලන්න.
 
-## What if I lose my patience?
+බහු භාෂා කතා කරන පුද්ගලයෙකු සඳහා, [භාෂා හරහා සන්නිවේදනය කිරීම පිළිබඳ අපගේ මාර්ගෝපදේශය](/caregiving/language-and-dementia-communication/) බලන්න.
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## මට ඉවසීම නැති වූ විට කුමක් කළ යුතුද?
+
+එය ඕනෑම කෙනෙකුට සිදුවිය හැකිය. ඔබ කලකිරීමට පත් වූ විට, NIA යෝජනා කරන්නේ ඔබට සන්සුන් වීමට ටික වේලාවක් ගන්නා ලෙසයි. තවත් කාමරයකට ගොස්, සෙමින් හුස්ම ගෙන, නැවත සන්සුන් වූ විට ආපසු එන්න. ඔබට සැමවිටම සංවාදය නැවත ආරම්භ කළ හැකි අතර, ඔබ වඩා සන්සුන්ව සිටින විට පුද්ගලයා එයට ප්‍රතිචාර දැක්විය හැක. කලකිරීම නිරන්තරවම ඇති වන බවක් දැනේ නම්, එය ඔබ අසමත් වන බවක සලකුණක් නොව, ඔබට වැඩි සහාය අවශ්‍ය බවක සලකුණකි. [සත්කාරකයන්ගේ ස්වයං රැකවරණය](/caregiving/caregiver-self-care/) පිළිබඳ අපගේ මාර්ගෝපදේශයේ සහාය ලබා ගත හැකි ස්ථාන සඳහන් වේ.

@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Maele a u amba na ane a tshila na vhulwadze ha u hangwa"
+seoTitle: "Maele a mbambedzo kha vhulwadze ha u hangwa"
+description: "Nḓila dza u amba na muthu ane a khou tshila na vhulwadze ha u hangwa: u dzudzanya nyambedzano, zwine zwa tea u ambiwa na u thetshelesa."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Ambani fhethu hu re na mulalo, sedzani muthu nga haṱhoni, shumisani dzina
+  ḽawe, nahone ambani nga u ongolowa nga mafhungo mapfufhi na o leluwaho.
+  Vhudzisani mbudziso nthihi nga tshifhinga, ṋeani khetho mbili nṱhani ha
+  mbudziso dzo vuleaho, nahone lindelani u fhira zwine zwa tou vha zwi tshi
+  vhonala zwi zwo ḓoweleaho. Ni songo ṱaṱisana, u lulamisa kana u linga. Fhindulani
+  kha vhupfi vhune ha vha murahu ha maipfi, nahone shumisani u fara, zwifanyiso na
+  zwiga musi u amba zwi tshi konda.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Fhelisani phosho ya murahu nahone ni sedzane nga haṱhoni ni sa athu u thoma u amba."
+  - "Shumisani mafhungo mapfufhi, muhumbulo muthihi nga tshifhinga, na madzina nṱhani ha ene kana vhone."
+  - "Ṋeani khetho ya zwithu zwivhili, kana mbudziso ya ee kana hai, nṱhani ha mbudziso dzo vuleaho."
+  - "Lindelani phindulo. Arali vha sa pfesesei, dovholosani maipfi a no fana, nga murahu ni lingedze maṅwe."
+  - "Ni songo ṱaṱisana kana u lulamisa. Fhindulani kha vhupfi vhune ha vha murahu ha zwine vha amba."
+  - "Musi maipfi a tshi khou ngalangala, ambani nga u fara, ipfi, tshifhaṱuwo na zwifanyiso zwine na zwi shumisa noṱhe."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ndi zwifhio zwine ni songo zwi amba na muthu ane a khou tshila na vhulwadze ha u hangwa?"
+    a: "Ni songo linga (sa \"Ni a humbula...?\"), u lulamisa (\"A si zwone\"), u vha humbudza nga ha zwine vha lozwa (\"Ndo no ni vhudza\") kana u amba nga ha vhone unga vho ngo vha hone. Ni songo amba unga ni khou amba na ṅwana. Hezwi zwi anzela u ita uri muthu a shone kana a ṱungufhale hu si na thuso."
+  - q: "Ndi tea u vha lulamisa musi vho khakha mafhungo?"
+    a: "Kanzhi a zwo ngo tea. Arali mafhungo o khakheaho a sa khou vhaisa muthu, litshani zwo ralo. U ṱaṱisana a zwi anzeli u shandukisa muhumbulo wa muthu nahone kanzhi zwi ita uri a ṱungufhale. Sedzani kha uri vha khou pfa hani na zwine vha zwi ṱoḓa zwino."
+  - q: "Ndi ite mini musi vha sa khou kona u wana ipfi?"
+    a: "Thomani nga u vha ṋea tshifhinga. Arali zwi tshi khou vhonala uri vha khou kondelwa, a si vhukhakhi u vha thusa nga u themendela ipfi kana u humbulela zwine vha khou amba nahone na vhudzisa uri ndi zwone naa. U sumbedza, zwiga na zwifanyiso na zwone zwi nga thusa."
+  - q: "Ndi amba hani na muthu ane a vha kha tshiṱeidzhi tsha vhufhelo tsha vhulwadze ha u hangwa ane a sa anzeli u amba?"
+    a: "Sendelani phanḓa hawe, amba uri ni nnyi, nahone shumisani ipfi ḽo dzikaho na u fara nga vhulenda. Sedzani zwifhaṱuwo na muvhili uri ni pfe vhupfi hawe. U vha hone haṋu, luimbo lwo ḓoweleaho kana u farana zwanḓa zwi nga amba zwithu zwinzhi naho hu si na maipfi."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Vhulwadze ha u hangwa vhu nga ita uri zwi konḓe u wana maipfi, u tevhela fhungo ḽilapfu, kana u sa takalelwa phosho ya murahu. Hezwi a zwi ambi uri muthu ha tsha ṱoḓa u ṱangana na vhaṅwe. Tshanduko dziṱuku kha nḓila ine na dzudzanya ngayo nyambedzano, nḓila ine na amba ngayo na nḓila ine na thetshelesa ngayo dzi nga ita uri u amba hu leluwe nahone hu dzike kha vhoiṋe.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ndi maele afhio a ndeme kha u amba na muthu ane a khou tshila na vhulwadze ha u hangwa?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Wanani ṱhogomelo yawe, dzudzanyani zwithu nga nḓila yo leluwaho, nahone ni vhe na u konḓelela. Arali na humbula zwithu zwiṱanu fhedzi:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Itani uri lufhera lu dzike nahone ni sedzane nae.** Dzimani TV, dzulani ni tshi sedzana nga haṱhoni, nahone ni shumise dzina ḽawe.
+2. **Ambani tshithu tshithihi nga tshifhinga.** Mafhungo mapfufhi, muhumbulo muthihi, mbudziso nthihi.
+3. **Ṋeani khetho ya zwithu zwivhili.** "Tie kana khofi?" zwi leluwa u fhira "Ni ṱoḓa mini?"
+4. **Lindelani.** Ṋeani tshifhinga tshinzhi tsha u fhindula u fhira zwine zwa tou vha zwi tshi vhonala zwi zwo ḓoweleaho, nahone ni lingedze u sa vha fhambanya.
+5. **Ni songo ṱaṱisana kana u linga.** Fhindulani kha nḓila ine vha pfa ngayo, hu si kha uri mafhungo ndi one naa.
 
-## How should I start a conversation?
+## Ndi tea u thoma hani nyambedzano?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Dzudzanyani zwithu uri muthu a kone u sedza kha inwi. [Tsumbanḓila ya Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) i themendela u thoma nga u fhungudza phosho: dzimani radio kana TV, valani kheteni kana muṋango, kana ni ye fhethu hu re na mulalo.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Sendelani phanḓa hawe.** U bva murahu kana nga thungo zwi nga mu tshuwisa.
+- **Ambani uri ni nnyi.** "Ndaa Baba, ndi nne Sarah, ṅwananyana waṋu." Hezwi zwi mu thusa uri a si ṱoḓe u humbula dzina ḽaṋu.
+- **Dzulani ni tshi sedzana nga haṱhoni.** Arali o dzula, dzulani kana ni gwadame uri maṱo aṋu a sedzane.
+- **Sedzani tshifhaṱuwo tshaṋu na ipfi ḽaṋu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i themendela u ṱhogomela ipfi ḽaṋu, vhulapfu halo, tshifhaṱuwo na muvhili, nahone ni lingedze u vha na vhulenda na u dzika.
+- **Vhonani uri ngilasi dza maṱo na dza u pfa dzo ambadzwa.** Zwi a konda u tevhela nyambedzano ine ni sa khou i vhona kana u i pfa zwavhuḓi.
 
-## How should I phrase what I say?
+## Ndi tea u amba hani zwine ndi tshi khou zwi amba?
 
-Use simple words, short sentences and a calm, low voice.
+Shumisani maipfi o leluwaho, mafhungo mapfufhi na ipfi ḽo dzikaho, ḽi re fhasi.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Muhumbulo muthihi kha fhungo ḽiṅwe na ḽiṅwe.** "Kha ri ambadze dzhesi yaṋu. Nga murahu ri ḓo bvela nnḓa." Ni songo zwi ṱangana nga tshifhinga tshithihi.
+- **Shumisani madzina, hu si maipfi a u imela.** "Makhulu Jean vho founa" zwi pfesesea u fhira "Vho founa."
+- **Ambani nga ipfi ḽi re fhasi, hu si ḽihulwane.** Family Caregiver Alliance i themendela ipfi ḽi re fhasi nṱhani ha u ḽi takusa.
+- **Dovholosani, nga muraho ni shandukise maipfi.** Arali vho ngo pfesesa, dovholosani maipfi a no fana luthihi. Arali zwo sa shume, lindelani nyana ni lingedze maṅwe maipfi.
+- **Sumbedzani na u amba.** Sumbedzani khaphu, imisani dzhesi mbili, kana ni sumbedze liga ḽa u thoma.
+- **Ambani navho, hu si nga ha vhone.** NIA i sevha nga ha u amba nga ha muthu unga ho ngo vha hone, na u amba unga ni khou amba na ṅwana.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA i themendela nḓila dzo leluwaho dza u vhudzisa mbudziso dzo ḓoweleaho. Hedzi ndi tsumbo dza uhu u fheleledza:
 
-| Instead of | Try |
+| Nṱhani ha | Lingedzani |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Ni ṱoḓa u ḽa mini nga tshiswiṱulo?" | "Ni ṱoḓa khovhe kana khuhu?" |
+| "Ni khou pfa hani?" | "Ni khou pfa no neta?" |
+| "Ni na nḓala?" | "Tshiswiṱulo tshi ḓo vha tsho lugela nga murahu ha miminete miṱanu." |
+| "A si nḓila yone ya u ita zwenezwo." | "Kha ri lingedze nga heyi nḓila." |
+| "Ni a humbula lwendo lwashu lwa dzivhani?" | "Ndo vha ndi tshi khou humbula lwendo lwashu lwa dzivhani. Kha vha mpfele zwine vha zwi funesa nga halwo." |
+| "Ndo no ni vhudza." | Fhindulani hafhu, nga vhulenda, unga ndi lwa u thoma. |
 
-## How do I listen well?
+## Ndi thetshelesa hani zwavhuḓi?
 
-Listen for the meaning and the feeling, not just the words.
+Thetshelesani ṱhalutshedzo na vhupfi, hu si maipfi fhedzi.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Lindelani.** U fhumula kanzhi ndi tshifhinga tsha u humbula. Vhalani nga u ongolowa u swika kha fumi ni sa athu u dzhenelela.
+- **Ṋeani ipfi arali vho kundelwa fhedzi.** Family Caregiver Alliance i ri a si vhukhakhi u themendela maipfi musi muthu a tshi khou kondelwa.
+- **Sedzulusani zwine no pfa.** [Tsumbanḓila ya Alzheimer’s Association ya mbambedzo](https://www.alz.org/help-support/caregiving/daily-care/communications) i themendela u ṱoḓa ṱhalutshedzo murahu ha maipfi nahone ni dovholose u vhona arali no pfesesa. "Ni khou vhilaela nga goloi?"
+- **Sedzani tshifhaṱuwo tshawe na muvhili wawe.** Musi u amba zwi tshi konda, NIA i vhiga uri zwifhaṱuwo zwi nga sumbedza u ṱungufhala, mbiti kana u khakhathea u fhira maipfi.
+- **Dzhiani mbilaelo dzawe nga ndeme.** Naho mbilaelo yo ḓisendeka kha mafhungo o khakheaho, vhupfi ho ngo ralo ndi ha vhukuma.
 
-## What if they say something that is not true?
+## Ndi ite mini arali vha tshi amba tshithu tshi si tsha vhukuma?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ni songo ṱaṱisana. A zwi nga leluwi uri ni kunde, nahone muthu a nga fhedzisela o shona kana o tshuwa. Nṱhani hazwo, ṱanganani na vhupfi, nga murahu ni sudzuluse nga vhulenda.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance i themendela u tendela vhupfi ni sa athu u sudzulusa. Sa tsumbo, arali mme aṋu vha tshi khou omelela uri vha tea u yo dzhia vhana tshikoloni:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Nṱhani ha: "Mma, vhana vhaṋu vho no hula. Ho no fhela miṅwaha ya furathi."
+- Lingedzani: "Vho vha mme vha lufuno vhukuma. Kha vha mpfele nga ha musi ni tshi vha dzhia. Ri nga thoma nga u ḽa zwiḽiwa zwituku?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association na yone i themendela uri ni songo ṱaṱisana nga ha mafhungo ane na sa tendelane nao. Nangani tshifhinga: arali lutendo lwo khakheaho lu si na khombo, litshani lu ralo.
 
-## How does communication change as dementia progresses?
+## Mbambedzo i shanduka hani musi vhulwadze ha u hangwa vhu tshi khou ya phanḓa?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ṱhoḓea dzi a shanduka nga tshifhinga, ngauralo shandukisani nḓila yaṋu. Alzheimer’s Association i ṱalusa zwipiḓa zwiraru zwihulwane:
 
-| Stage | What helps |
+| Tshiṱeidzhi | Zwine zwa thusa |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Tsha u thoma | Ni songo humbula uri a vha tsha kona u amba. Vha dzheniseni kha nyambedzano, ambani navho nga ho livhaho, vhudzisani uri ndi thuso ifhio ine vha i ṱoḓa, nahone ni shumise misevho arali i tshi thusa. |
+| Tsha vhukati | Nyambedzano ya muthu na muthu fhethu hu re na mulalo. Ambani nga u ongolowa, ni sedzane nga haṱhoni, shumisani mbudziso dza ee kana hai, ṋeani ndaela nga zwiga, nahone ni songo sola kana u lulamisa. |
+| Tsha vhufhelo | Sendelani phanḓa hawe nahone ni ambe uri ni nnyi. Ṱuṱuwedzani u sumbedza na zwiga. Shumisani u fara, mibvumo, zwine zwa vhonala na zwine zwa nukhelelwa. Ni songo vhuya na amba unga vho ngo vha hone. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Muthu muṅwe na muṅwe o fhambana, nahone muthu muthihi a nga vha na maḓuvha avhuḓi na a konḓaho. Fhindulani kha nḓila ine a vha ngayo zwino, hu si kha dzina ḽa tshiimo.
 
-## Can pictures and activities make conversation easier?
+## Zwifanyiso na nyito zwi nga ita uri nyambedzano i leluwe naa?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ee. Tshifanyiso tshine na tshi shumisa noṱhe tshi fhungudza mutsiko nahone tshi ṋea vhoiṋe tshithu tshine na nga tshi sedza na u tshi sumbedza.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Zwifanyiso zwa u thoma nyambedzano.** [Conversation Cards](/games/conversation-cards/) dzi ṋea zwifanyiso zwi re na mbudziso dzo vuleaho dzine a dzi lingi.
+- **Zwifanyiso zwa muṱa.** [Photo Pairs](/games/photo-pairs/) i shandula zwifanyiso zwine na zwi nanga u vha mutambo wo leluwaho wa u livhanyisa, zwine kanzhi zwi vusulusa mafhungo.
+- **Maambele o ḓoweleaho.** [Finish the Saying](/games/finish-the-saying/) i shumisa maambele o ḓoweleaho, a tevhelwa nga mbudziso ya u amba.
+- **Mitambo ya u livhanyisa sa murahu.** [Picture Pairs](/games/picture-pairs/) i ṋea zwanḓa zwaṋu tshithu tsha u ita ni tshi khou amba.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Vhonani [u tamba mitambo noṱhe](/caregiving/how-to-play-together/) na [nyito dza u humbula](/activities/reminiscence/) u wana zwo engedzeaho. Kha u dalela na u founa, vhalani tsumbanḓila dzashu dza [u dalela](/activities/visiting/) na [luṱingo na vidio](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Kha muthu ane a amba nyambo nnzhi, vhonani [tsumbanḓila yashu ya mbambedzo nga nyambo dzo fhambanaho](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Ndi ite mini arali nda xelelwa nga u konḓelela?
+
+Zwi a itea kha vhathu vhoṱhe. NIA i themendela uri arali na ṱungufhala, ni dzhie tshifhinga tsha u dzika. Yani kha ḽiṅwe lufhera, femani nga u ongolowa lwa tshifhinga nyana, nahone ni vhuye musi ni tshi vho kona. Ni nga dovha na thoma nyambedzano, nahone muthu a nga fhindula zwavhuḓi kha u dzika haṋu. Arali u ṱungufhala hu tshi khou vha tshithu tsha misi yoṱhe, tshenetsho ndi tshiga tsha uri ni ṱoḓa thikhedzo yo engedzeaho, hu si uri ni khou kundelwa. Tsumbanḓila yashu ya [u ḓiṱhogomela ha mutshidzi](/caregiving/caregiver-self-care/) i na fhethu hune na nga wana thuso.

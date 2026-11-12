@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Mazano ekutaura neane chirwere chekurasikirwa nendangariro"
+seoTitle: "Mazano ekutaura neane chirwere chekurasikirwa nendangariro"
+description: "Mazano ari nyore ekutaura nemunhu anorarama nechirwere chekurasikirwa nendangariro: magadzirirwo, zvokutaura, uye mateerero akanaka."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Taurai panzvimbo yakanyarara, tarisanai nemunhu wacho, shandisai zita rake,
+  uye taurayi zvishoma nezvishoma nemitsara mipfupi iri nyore. Bvunzai mubvunzo
+  mumwe panguva, ipai sarudzo mbiri pane mibvunzo yakavhurika, uye mirirai
+  kwenguva yakareba kupfuura yamunofunga. Musapikisane, musagadzirise, kana
+  kuedza kumuongorora. Pindurai manzwiro ari seri kwemashoko, uye shandisai
+  kubata, mifananidzo nezviratidzo zvemaoko kana kutaura kwava kuoma.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Deredzai ruzha uye tarisanai maziso musati matanga kutaura."
+  - "Shandisai mitsara mipfupi, pfungwa imwe panguva, nemazita panzvimbo pa“iye” kana “ivo”."
+  - "Ipai sarudzo mbiri, kana mubvunzo unoda “hongu” kana “kwete”, pane mibvunzo yakavhurika."
+  - "Mirirai mhinduro. Kana vasinganzwisisike, dzokororai mashoko mamwe chete, mozopedzisira maedza mamwe."
+  - "Musapikisane kana kugadzirisa. Pindurai manzwiro ari seri kwezvavanotaura."
+  - "Kana mashoko ava kushomeka, tauriranai kuburikidza nekubata, inzwi, chitarisiko chechiso nemifananidzo yamunogovana."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ndezvipi zvandisingafaniri kutaura kumunhu anorarama nechirwere chekurasikirwa nendangariro?"
+    a: "Dzivisai kumuongorora (“Unoyeuka here...?”), kumugadzirisa (“Hazvina kunaka”), kumuyeuchidza nezvezvaakarasikirwa nazvo (“Ndakakuudza kare”) uye kutaura nezvake sokunge asipo. Dzivisai kutaura semwana mudiki. Izvi zvinowanzoita kuti anzwe kunyara kana kushungurudzika pasina kubatsira."
+  - q: "Ndinofanira kumugadzirisa here paanokanganisa chokwadi?"
+    a: "Kazhinji kwete. Kana chokwadi chakakanganiswa chisina kukuvadza, chiregei. Kupikisana hakuwanzochinji pfungwa dzemunhu uye kazhinji kunomugumbura. Tarisisai manzwiro ake nezvaanoda panguva iyoyo."
+  - q: "Ndinoitei kana akatadza kuwana izwi?"
+    a: "Mutangei nokumupa nguva. Kana zvichioneka kuti ari kunetseka, zvakanaka kumubatsira zvinyoro nezwi kana kufungidzira zvaanoreva mozobvunza. Kunongedzera, zviratidzo zvemaoko nemifananidzo zvinogonawo kubatsira."
+  - q: "Ndingataura sei nemunhu ari padanho rekupedzisira rechirwere chekurasikirwa nendangariro asingawanzo taura?"
+    a: "Swederai pamberi pake, taurai kuti ndimi ani, uye shandisai inzwi rakadzikama nekubata zvinyoro. Cherechedzai zviso nemutauro wemuviri kuti munzwisise manzwiro. Kuvapo kwenyu, rwiyo rwaanoziva kana kubata maoko zvinogona kutaura zvakawanda pasina mashoko."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Chirwere chekurasikirwa nendangariro chinogona kuita kuti zviome kuwana mashoko, kunzwisisa mutsara murefu, kana kufuratira ruzha rwakapoteredza. Izvi hazvirevi kuti munhu wacho haasisiri kuda kubatana nevamwe. Kuchinja kudiki mumagadzirirwo amunoita hurukuro, matauriro amunoita uye mateerero amunoita kunogona kuita kuti kutaura kuve nyore uye kwakadzikama kwamuri mese.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ndeapi mazano anonyanya kukosha ekutaura nemunhu anorarama nechirwere chekurasikirwa nendangariro?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Kwezvai ngwariro yavo, taurai zviri nyore, uye ivai nemwoyo murefu. Kana mukarangarira zvinhu zvishanu chete:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Nyaradzai nzvimbo uye tarisanai naye.** Dzimai TV, garai pamwero wemaziso ake, uye shandisai zita rake.
+2. **Taurai chinhu chimwe panguva.** Mitsara mipfupi, pfungwa imwe, mubvunzo mumwe.
+3. **Ipai sarudzo mbiri.** “Tii kana kofi?” zviri nyore kupfuura “Munoda chii?”
+4. **Mirirai.** Ipai nguva yakawanda yekupindura kupfuura yamunofunga, uye edzai kusamudimburira.
+5. **Musapikisane kana kumuongorora.** Pindurai manzwiro ake, kwete kuti chokwadi chakarurama here.
 
-## How should I start a conversation?
+## Ndingatanga sei hurukuro?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Gadzirai zvinhu kuitira kuti munhu wacho akwanise kutarisa kwamuri. [Gwaro reFamily Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rinokurudzira kutanga nekuderedza ruzha: dzimai redhiyo kana TV, vharai maketeni kana gonhi, kana kuenda kune imwe nzvimbo yakanyarara.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Swederai pamberi pake.** Kuuya kubva kumashure kana parutivi kunogona kumuvhundutsa.
+- **Taurai kuti ndimi ani.** “Mhoro Baba, ndini Sarah, mwanasikana wenyu.” Izvi zvinomubatsira kuti asatsvage zita renyu.
+- **Dererai kusvika pamwero wake.** Kana akagara, garai kana kupfugama kuitira kuti maziso enyu aenzane.
+- **Tarisisai chitarisiko chenyu nenzwi renyu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) inopa zano rekucherechedza inzwi renyu, simba remanzwi, chitarisiko chechiso nemutauro wemuviri, uye kuedza kuva neunyoro uye kutaura kwakajairika.
+- **Iva nechokwadi kuti magirazi ekunzwa nemidziyo yekubatsira kunzwa zviripo.** Zvakaoma kutevera hurukuro yausingakwanisi kuona kana kunzwa zvakanaka.
 
-## How should I phrase what I say?
+## Ndinofanira kutaura sei?
 
-Use simple words, short sentences and a calm, low voice.
+Shandisai mashoko ari nyore, mitsara mipfupi uye inzwi rakadzikama, rakaderera.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Pfungwa imwe pamutsara.** “Ngatipfekei bhachi renyu. Tozobuda panze.” Kwete zvese kamwe chete.
+- **Shandisai mazita, kwete zvivakashure.** “Tete Jean vafona” zviri pachena kupfuura “Iye afona.”
+- **Dzikisai inzwi, kwete kurikwidza.** Family Caregiver Alliance inokurudzira inzwi rakaderera pane rakakwidziridzwa.
+- **Dzokororai, mozotsanangura neimwe nzira.** Kana vasina kunzwisisa, dzokororai mashoko mamwe chete kamwe. Kana zvisina kubatsira, mirirai kwekanguva moedza mamwe mashoko.
+- **Ratidzai pamwe nekutsanangura.** Nongedzerai kapu, simudzai masweta maviri, kana kuratidza danho rekutanga.
+- **Taurai naye, kwete nezvake.** NIA inoyambira nezvekutaura nezvemunhu sokunge asipo, uye nezve kutaura semwana mudiki.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA inokurudzira nzira dziri nyore dzemibvunzo yakajairika. Heino mienzaniso:
 
-| Instead of | Try |
+| Pane kuti | Edzai kuti |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Munoda kudyei manheru?" | "Munoda hove kana huku?" |
+| "Muri kunzwa sei?" | "Muri kunzwa kuneta here?" |
+| "Mune nzara here?" | "Kudya kwemanheru kuchagadzirira mumaminitsi mashanu." |
+| "Hazviitwe saizvozvo." | "Ngatiedzei nenzira iyi." |
+| "Munoyeuka rwendo rwedu kugungwa here?" | "Ndanga ndichifunga nezverwendo rwedu kugungwa. Ndiudzei zvamaifarira nezvarwo." |
+| "Ndakakuudza kare." | Pindurai zvakare, zvinyoro, sokunge kekutanga. |
 
-## How do I listen well?
+## Ndingateerera sei zvakanaka?
 
-Listen for the meaning and the feeling, not just the words.
+Teererai zvinoreva mashoko uye manzwiro, kwete mashoko chete.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Mirirai.** Kunyarara kazhinji inguva yekufunga. Verengai zvishoma nezvishoma kusvika pagumi musati mapindira.
+- **Ipai izwi chete kana vanyatsokakama.** Family Caregiver Alliance inoti zvakanaka kupa mazwi kana munhu ari kunetseka.
+- **Tarisisai zvamanzwa.** [Gwaro reAlzheimer's Association rekutaurirana](https://www.alz.org/help-support/caregiving/daily-care/communications) rinokurudzira kutsvaga zvinoreva mashoko avo uye kudzokorora kuti muone kana manzwisisa. “Muri kunetseka nemota here?”
+- **Tarisisai chiso nemuviri wavo.** Kana kutaura kwava kuoma, NIA inocherechedza kuti chitarisiko chechiso chinogona kuratidza kusuwa, kutsamwa kana kushungurudzika zvakajeka kupfuura mashoko.
+- **Torerai zvinovanetsa seseri.** Kunyange kana kunetseka kwakavakirwa pachokwadi chisiri icho, manzwiro acho ndeechokwadi.
 
-## What if they say something that is not true?
+## Ko kana vakataura chinhu chisiri chechokwadi?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Musapikisane. Hazviwanzo kubatsira, uye munhu wacho anogona kupedzisira ava kunyara kana kutya. Pane kudaro, batiranai nemanzwiro acho, mozofamba zvinyoro mberi.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance inokurudzira kubvuma manzwiro acho musati maendesa pfungwa kune chimwe chinhu. Semuenzaniso, kana amai venyu vachisimbirira kuti vanofanira kunotora vana kuchikoro:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Pane kuti: “Amai, vana venyu vakura. Izvozvo zvaiva makore makumi mana apfuura.”
+- Edzai kuti: “Maigara muri amai vane rudo. Ndiudzei nezvekuvanotora. Tingadye here chinhu chidiki kutanga?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association inopawo zano rekusapikisana nezvirevo zvamusingabvumirani nazvo. Sarudzai nguva: kana kutenda kusiri kwechokwadi kusina kukuvadza, kuregei.
 
-## How does communication change as dementia progresses?
+## Kutaurirana kunochinja sei chirwere chekurasikirwa nendangariro pachinofambira mberi?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Zvinodiwa zvinoshanduka nekufamba kwenguva, saka gadzirisai matauriro enyu. Alzheimer's Association inotsanangura matanho matatu akafara:
 
-| Stage | What helps |
+| Danho | Zvinobatsira |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Rekutanga | Musafunga kuti havagoni kutaurirana. Vasanganisirei muhurukuro, taurirai navo zvakananga, bvunzai rubatsiro rwavanoda, uye shandisai kuseka kana zvichibatsira. |
+| Repakati | Hurukuro dzemunhu mumwe chete panzvimbo yakanyarara. Taurai zvishoma nezvishoma, chengetai kutarisana maziso, shandisai mibvunzo inoda “hongu” kana “kwete”, ipai mirayiridzo nhanho nenhanho, uye musashora kana kugadzirisa. |
+| Rekupedzisira | Swederai pamberi pavo uye taurai kuti ndimi ani. Vakurudzirei kunongedzera nezviratidzo zvemaoko. Shandisai kubata, manzwi, zvinoonekwa uye zvinonhuhwirira. Musambotaura sokunge vasipo. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Munhu wese akasiyana, uye munhu mumwe chete anogona kuva nemazuva akanaka neakaoma. Pindurai mamiriro avakaita izvozvi, kwete zita redanho.
 
-## Can pictures and activities make conversation easier?
+## Mifananidzo nezviitwa zvinogona kuita kuti hurukuro ive nyore here?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Hongu. Mufananidzo wamunogovana unobvisa kumanikidzwa uye unopa imi mese chinhu chekutarisa nekunongedzera.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Mifananidzo inokurudzira hurukuro.** [Conversation Cards](/games/conversation-cards/) inopa mifananidzo ine mibvunzo yakavhurika isingamboongorori.
+- **Mifananidzo yemhuri.** [Photo Pairs](/games/photo-pairs/) inoshandura mifananidzo yamunosarudza kuita mutambo wakapfava wekufananidza, izvo zvinowanzomutsa nyaya.
+- **Tsumo dzinozivikanwa.** [Finish the Saying](/games/finish-the-saying/) inoshandisa tsumo dzinozivikanwa, dzichiteverwa nemubvunzo wekukurukura.
+- **Mitambo yekufananidza sehwaro hwehurukuro.** [Picture Pairs](/games/picture-pairs/) inopa maoko enyu chinhu chekuita muchikurukura.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Onai [matambiro amungaite pamwe chete](/caregiving/how-to-play-together/) uye [zviitwa zvekukurudzira ndangariro](/activities/reminiscence/) kuti muwane zvimwe. Nezvekushanya nekufona, verengai gwara redu re[kushanya](/activities/visiting/) nere[nhare nekufona kwevhidhiyo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Kune munhu anotaura mitauro inopfuura mumwe, onai [gwaro redu rekutaurirana mumitauro yakasiyana](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Ko kana ndikapererwa nemwoyo murefu?
+
+Zvinoitika kumunhu wese. NIA inoti kana mukashungurudzika, torai nguva yekudzikama. Endai kune imwe kamuri, torai mweya zvishoma nezvishoma, mozodzoka kana magadzikana. Munogona kutangazve hurukuro, uye munhu wacho anogona kupindura zvakanaka kumamiriro enyu akadzikama. Kana kushungurudzika kwava nguva dzose, chiratidzo chekuti munoda rumwe rubatsiro, kwete kuti muri kukundikana. Gwaro redu re[kuzvichengetedza kwemuchengeti](/caregiving/caregiver-self-care/) rine nzvimbo dzamungawana rubatsiro.

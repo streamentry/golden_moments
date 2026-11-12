@@ -1,27 +1,31 @@
 ---
-title: "Zaɓar Kulawar Zama Ga Mai Ciwon Mantuwa"
-seoTitle: "Zaɓar Kulawar Ciwon Mantuwa: Abin da Za a Tambaya"
-description: "Kwatanta kulawar zama ga mai ciwon mantuwa ta buƙatun mutum, ma'aikata, rayuwar yau da kullum da kudi. Ka sa shi ya shiga zaɓi gwargwadon yadda yake so."
+title: "Zaɓar Gidan Kula ga Mai Rayuwa da Dimanshiya"
+seoTitle: "Zaɓar Kula da Dimanshiya: Abin da Za a Tambaya"
+description: "Kwatanta gidajen kula da dimanshiya ta la’akari da bukatun mutum, halayen ma’aikata, rayuwar yau da kullum da kuɗi. Ku sa shi a cikin yanke shawara."
 section: caregiving
 order: 25
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Fara da buƙatun kulawar mutum, abubuwan da yake so, da burinsa na ci gaba da zama tare da mutane da al'adun da ya saba da su. Ziyarci gidaje da suka dace, ka tambaya game da horon ma'aikata, tsara kulawa, ayyuka da kudi, kuma ka sa mutum ya shiga yanke shawara gwargwadon yadda yake so.
+  Fara da bukatun kulawa na mutum, abubuwan da yake so da kuma burinsa na ci gaba
+  da hulɗa da mutanen da ya saba da su da kuma yadda ya saba rayuwa. Ku ziyarci
+  gidajen da za ku iya zaɓa, ku yi tambaya game da horar da ma’aikata, yadda ake
+  tsara kulawa, ayyukan yau da kullum da kuɗi, sannan ku sa mutum a cikin yanke
+  shawara gwargwadon yadda yake so.
 keyPoints:
-  - "Babu doka ɗaya da ke nuna lokacin da kulawar zama ta dace."
-  - "Rubuta buƙatun mutum da abubuwan da yake so kafin ka kwatanta gidaje."
-  - "Ka ziyarci a lokuta daban-daban, kuma ka lura yadda ma'aikata da mazauna suke mu'amala."
-  - "Ka nemi cikakkun bayanai a rubuce game da ayyuka, kudi da buƙatun kulawa na gaba."
+  - "Babu ƙa’ida guda ɗaya da ke nuna lokacin da gidan kula ya dace."
+  - "Ku rubuta bukatun mutum da abubuwan da yake so kafin kwatanta gidaje."
+  - "Ku kai ziyara a lokuta daban-daban ku kuma lura da yadda ma’aikata da mazauna gidan suke hulɗa."
+  - "Ku nemi bayani a rubuce dalla-dalla game da ayyuka, kuɗi da bukatun kulawa na gaba."
 faq:
-  - q: "Yaushe ya kamata in yi tunanin kulawar zama ga mai ciwon mantuwa?"
-    a: "Duba ko tallafin da mutum yake samu yanzu yana biyan buƙatunsa, da ko zama a gida yana iya ci gaba ga shi da masu kulawarsa. Yi magana da mutum da ƙungiyar lafiya ko zamantakewar da take kulawa da shi; babu wani mataki ɗaya ko jerin abubuwa da ke yanke shawara ga kowane iyali."
-  - q: "Shin mai ciwon mantuwa ya kamata ya koma wurin kulawar ƙwaƙwalwa?"
-    a: "Ba kowa ne ke buƙatar wurin da ya kebanta da ciwon mantuwa ba. Ka tambaya irin taimakon da mutum yake buƙata da abin da kowane gida yake bayarwa, ciki har da horon ma'aikata, ayyuka, sirri da shigar iyali."
-  - q: "Me ya kamata in tambayi gidan kulawar zama?"
-    a: "Ka tambaya game da horon ciwon mantuwa, samuwar ma'aikata, kulawar mutum, ayyuka, sadarwa da iyali, ziyara da yadda ake duba kulawa. Ka nemi bayanai a rubuce game da ayyuka, kudi da yadda tallafi zai canja yayin da buƙatu suka canja."
-  - q: "Ta yaya zan taimaka wa mutum ya saba da sauyin wuri?"
-    a: "Ka sa shi ya shiga zaɓi gwargwadon yadda yake so. Ka kawo kayan da ya saba da su, ka raba al'adu, abubuwan da yake so da hanyoyin sadarwa da yake son ma'aikata su sani. Ci gaba da aiki tare da ma'aikata bayan sauyin."
+  - q: "Ta yaya zan san lokacin da ya kamata a yi la’akari da gidan kula ga mai rayuwa da dimanshiya?"
+    a: "Ku yi la’akari da ko tallafin da mutum yake samu yanzu yana biyan bukatunsa, da kuma ko zama a gida har yanzu yana yiwuwa a gare shi da kuma ga masu ba shi kulawa. Ku tattauna da mutum da kuma ƙungiyar kula da lafiyarsa ko ta tallafin zamantakewa; babu wani mataki ko jerin abubuwa guda ɗaya da ke yanke hukunci ga kowane iyali."
+  - q: "Shin ya kamata mai rayuwa da dimanshiya ya koma sashin kula na musamman ga dimanshiya?"
+    a: "Ba kowa ne yake buƙatar sashi na musamman ga dimanshiya ba. Ku yi tambaya game da irin tallafin da mutum yake buƙata da kuma abin da kowane gida ke bayarwa, ciki har da horar da ma’aikata, ayyuka, sirri da sa hannun iyali."
+  - q: "Me ya kamata in tambayi gidan kula?"
+    a: "Ku yi tambaya game da horarwa kan kula da dimanshiya, samuwar ma’aikata, kulawar mutum, ayyuka, sadarwa da iyali, lokutan ziyara da kuma yadda ake duba kulawa. Ku nemi bayani a rubuce game da ayyuka, kuɗi da kuma yadda tallafi zai iya canzawa yayin da bukatu suka canza."
+  - q: "Ta yaya zan iya taimaka wa mutum ya saba da ƙaura?"
+    a: "Ku sa shi a cikin zaɓi gwargwadon yadda yake so. Ku kawo masa kayayyakin da ya saba da su, sannan ku sanar da ma’aikata game da yadda ya saba rayuwa, abubuwan da yake so da hanyoyin sadarwa da yake son su sani. Ku ci gaba da aiki tare da ma’aikata bayan ƙaura."
 sources:
   - title: "Long-Term Care"
     publisher: "Alzheimer's Association"
@@ -40,58 +44,58 @@ related: [caregiving/choosing-in-home-dementia-care, caregiving/living-alone-wit
 health: true
 ---
 
-Tunanin kulawar zama na iya kawo sauƙi, baƙin ciki, rashin tabbas ko ji da yawa a lokaci ɗaya. Shawarar tana game da neman tallafi da ya dace da buƙatun mutum da abubuwan da yake so. Ba gwaji ba ne na yadda iyali ke kulawa, kuma ba mataki ne da kowa zai kai a lokaci ɗaya ba.
+Yin tunanin komawa gidan kula na iya haifar da jin sauƙi, baƙin ciki, rashin tabbas ko ji daban-daban a lokaci guda. Wannan shawara ta shafi nemo tallafin da ya dace da bukatun mutum da abubuwan da yake so. Ba gwajin nuna yawan kulawar iyali ba ce, kuma ba mataki ne da kowa dole ya kai a lokaci ɗaya ba.
 
-[Jagorar Alzheimer's Association kan kulawar dogon lokaci](https://www.alz.org/help-support/caregiving/care-options/long-term-care), [jerin tambayoyinta kan kulawar zama](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) da [jagorar Dementia Australia kan kulawar zama](https://www.dementia.org.au/living-dementia/care-options/residential-care) suna ba da shawarar duba buƙatun mutum, ma'aikata, ayyuka, muhalli da kudi. Wannan shafi ba ya ba da shawarar wani gida ko maye gurbin shawarar ƙwararrun gida na lafiya ko kuɗi.
+Jagorar [Alzheimer's Association guide to long-term care](https://www.alz.org/help-support/caregiving/care-options/long-term-care), da [residential-care checklist](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) da kuma [Dementia Australia's residential-care guidance](https://www.dementia.org.au/living-dementia/care-options/residential-care) suna ba da shawarar a duba bukatun mutum, ma’aikata, ayyuka, muhalli da kuɗi. Wannan shafi ba ya ba da shawarar wani gida na musamman, kuma ba ya maye gurbin shawarwarin ƙwararru na gida ko na kuɗi.
 
-## Yaya zan san ko kulawar zama ta cancanci bincike?
+## Ta yaya zan iya fahimtar ko ya dace a bincika gidan kula?
 
-Duba irin tallafin da mutum yake buƙata yanzu, da ko ana iya bayar da shi a gida. Yi la'akari da amincinsa, buƙatun kulawa na yau da kullum, rayuwar zamantakewa da abubuwan da yake so. Yi la'akari kuma ko buƙatun kula da shi suna shafar lafiyar mutum ko na masu tallafa masa.
+Ku duba irin tallafin da mutum yake buƙata yanzu da kuma ko ana iya ba da wannan tallafin a gida. Ku yi la’akari da aminci, bukatun kulawa na yau da kullum, rayuwar zamantakewa da abubuwan da mutum yake so. Ku kuma yi la’akari da ko nauyin bayar da kulawa yana shafar lafiyar mutum ko lafiyar masu tallafa masa.
 
-Babu wani mataki ɗaya ko jerin abubuwa da ke yanke shawarar lokacin da mutum ya kamata ya koma. Wani mutum na iya fifita yanayin al'umma, ko yana so ya zauna a gida da ƙarin taimako. Ka yi magana da mutum, kuma idan ya dace, likitansa, ma'aikacin zamantakewa ko mai daidaita kulawa. Ka tambaya irin tallafin da zai dace kafin ka yi alkawarin canji.
+Babu wani mataki ko jerin abubuwa guda ɗaya da ke yanke hukunci kan lokacin da ya kamata mutum ya ƙaura. Mutum na iya fifita zama a cikin al’umma ta gidan kula, ko kuma yana iya son ci gaba da zama a gida tare da ƙarin taimako. Ku tattauna da mutum, kuma idan ya dace, ku tattauna da likitansa, ma’aikacin tallafin zamantakewa ko mai tsara kulawa. Ku yi tambaya game da nau’ikan tallafin da za su iya dacewa kafin yanke shawarar ƙaura.
 
-Ka sa mutum ya shiga yanke shawara gwargwadon yadda yake so. Ka tambaye shi abin da ke da muhimmanci a gare shi: wuri, abinci, harshe, al'ada, addini, al'adun da ya saba da su ko ziyara daga iyali da abokai. Abubuwan da yake so na iya taimakawa wajen rage jerin zaɓi koda wasu buƙatun kulawa suna canzawa.
+Ku sa mutum a cikin yanke shawara gwargwadon yadda yake so. Ku tambaye shi abin da ya fi muhimmanci a gare shi: wuri, abinci, harshe, al’ada, ibada, ayyukan da ya saba da su ko ziyartar ’yan uwa da abokai. Abubuwan da yake so na iya taimakawa wajen taƙaita jerin gidaje, ko da yake wasu bukatun kulawa na iya canzawa.
 
-## Me zan gano kafin in ziyarci gidaje?
+## Me ya kamata in sani kafin ziyartar gidaje?
 
-Da farko, yi gajeren jerin tallafin da mutum yake buƙata. Wannan na iya haɗawa da taimako a ayyukan yau da kullum, jinya, haɗuwa da mutane, harshe da ya saba da shi ko wurin fita waje. Ka tambayi ƙwararren lafiya ko zamantakewa wane sabis ake buƙata idan ba ka da tabbas.
+Da farko, ku yi ɗan gajeren jerin tallafin da mutum yake buƙata. Wannan na iya haɗawa da taimako a ayyukan yau da kullum, jinya, hulɗa da jama’a, harshe da ya saba da shi ko wurin da zai iya shakatawa a waje. Idan ba ku da tabbas, ku tambayi ƙwararre a fannin lafiya ko tallafin zamantakewa game da ayyukan da za a iya buƙata.
 
-Kira gidaje kafin ka ziyarce su. Ka tambaya ko za su iya biyan buƙatun mutum, ko akwai ɗaki, menene matakai na gaba da kuma bayanan da suke buƙata daga gare ka. Nemi bayani a rubuce game da ayyuka da kudi. Dokokin cancanta, kudade da lasisi sun bambanta daga wuri zuwa wuri, don haka ka duba tushen gida maimakon dogaro da labarin gaba ɗaya.
+Ku kira gidajen kafin ku kai ziyara. Ku tambaya ko za su iya tallafa wa bukatun mutum, ko akwai ɗaki, mene ne matakai na gaba da kuma irin bayanan da suke buƙata daga gare ku. Ku nemi bayanai a rubuce game da ayyuka da kuɗi. Dokokin cancanta, tallafin kuɗi da lasisi sun bambanta daga wuri zuwa wuri, don haka ku duba bayanan yankinku maimakon dogaro da wani bayani na gaba ɗaya.
 
-Ka tambaya ko ma'aikata suna da horon kulawar ciwon mantuwa, yadda ake yin tsarin kulawa, da yadda iyali za su raba sabuntawa. Ka gano yadda ake gudanar da al'adun yau da kullum, abubuwan da ake bayarwa da yadda ake tallafa wa mazauna su zaɓa. Ɗakin kulawar ƙwaƙwalwa zaɓi ne, amma ba kowa ne ke buƙatarsa ba; ka kwatanta tallafin da kowane wuri yake bayarwa a zahiri.
+Ku tambaya ko ma’aikata sun samu horo kan kula da dimanshiya, ta yaya ake tsara tsarin kulawa da kuma ta yaya iyali za su iya ba da sabbin bayanai. Ku san yadda tsarin yau da kullum yake, irin ayyukan da ake bayarwa da kuma yadda ake tallafa wa mazauna gidan wajen yanke zaɓi. Sashin kula na musamman ga dimanshiya zaɓi ne guda ɗaya, amma ba kowa ne yake buƙatarsa ba; ku kwatanta ainihin tallafin da kowane wuri ke bayarwa.
 
-## Me zan lura da shi yayin ziyara?
+## Me ya kamata in lura da shi yayin ziyara?
 
-Ka ziyarci gidaje fiye da ɗaya idan za ka iya. Ka tsara ziyara ta farko na yawon gani, sannan ka tambaya ko za ka iya dawowa a lokaci daban ko lokacin cin abinci. Ziyara ta biyu na iya nuna ƙarin al'adun yau da kullum kuma ta ba ka damar haɗuwa da wasu ma'aikata.
+Idan zai yiwu, ku ziyarci gidaje fiye da ɗaya. Ku tsara ziyara ta farko, sannan ku tambaya ko za ku iya dawowa a wani lokaci ko kuma lokacin cin abinci. Ziyara ta biyu na iya nuna ƙarin yadda rayuwar yau da kullum take, kuma tana iya ba ku damar saduwa da wasu ma’aikatan.
 
-Lura yadda ma'aikata suke magana da mazauna. Shin suna kiran mutane da girmamawa, suna ba su lokaci su amsa, kuma suna sa su cikin zaɓuɓɓukan yau da kullum? Shin mazauna suna da kwanciyar hankali, suna da abin yi da ya dace da sha'awoyinsu da iyawarsu? Ka tambaya ko za ka iya ganin jadawalin ayyuka, wuraren cin abinci, wuraren waje da wuraren sirri.
+Ku lura da yadda ma’aikata suke magana da mazauna gidan. Shin suna magana da mutane cikin girmamawa, suna ba su lokaci su amsa kuma suna sa su a cikin zaɓin yau da kullum? Shin mazauna gidan suna jin daɗi, kuma suna da abubuwan yi da suka dace da abubuwan da suke so da kuma abin da za su iya yi? Ku tambaya ko za ku iya ganin jadawalin ayyuka, wuraren cin abinci, wuraren waje da kuma wuraren sirri.
 
-Nemi abubuwan da suke da muhimmanci ga wannan mutumin: alamu masu sauƙin fahimta, hanya bayyananna zuwa bandaki, kayan da ya saba da su, wurare natsuwa, tallafin harshe da al'ada, da damar ganin masoya. Babban ɗakin baƙi shi kaɗai ba ya nuna yadda kulawar yau da kullum take aiki.
+Ku duba ƙananan abubuwan da suke da muhimmanci ga wannan mutum: alamomi masu sauƙin fahimta, hanyoyi bayyanannu zuwa bandaki, kayayyakin da ya saba da su, wuraren shiru, tallafin harshe da al’ada, da damar ganin ’yan uwa. Kyakkyawan zauren shiga kaɗai ba ya nuna yadda kulawa ta yau da kullum take gudana.
 
-Kawo amintaccen aboki ko dangi idan hakan zai taimaka maka tuna tambayoyi da kwatanta ra'ayoyi bayan haka. Za ka iya amfani da [jerin tambayoyin Alzheimer's Association](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) don rubuta abin da ka gani. Ka ɗauki bayananka a matsayin abubuwan tattaunawa, ba maki da ke zaɓar gida a gare ka ba.
+Idan zai taimaka muku, ku tafi tare da amintaccen aboki ko ɗan uwa don ya taimaka muku tunawa da tambayoyi da kwatanta ra’ayoyinku daga baya. Kuna iya amfani da [Alzheimer's Association checklist](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) don rubuta abin da kuka gani. Ku ɗauki rubutunku a matsayin abin da zai taimaka wajen tattaunawa, ba a matsayin maki da zai zaɓar gida a madadinku ba.
 
-## Wadanne tambayoyi ne ke taimakawa wajen kwatanta kulawa?
+## Waɗanne tambayoyi ne za su taimaka wajen kwatanta kulawa?
 
-Ka tambaya yadda ma'aikata suke rarraba aiki a lokuta daban-daban na rana, yadda ma'aikata suke koyon al'adun mutum, da abin da ke faruwa idan buƙatunsa suka canja. Ka tambaya wanda yake duba tsarin kulawa da yadda iyali za su kawo damuwa. Idan mutum yana buƙatar taimako da abinci, kulawar mutum ko sadarwa, ka tambaya yadda wannan tallafi yake a zahiri.
+Ku tambaya yadda tsarin ma’aikata yake a lokuta daban-daban na rana, ta yaya ma’aikata suke koyon yadda mutum ya saba rayuwa da kuma abin da ke faruwa idan bukatunsa suka canza. Ku tambaya wanene ke duba tsarin kulawa da kuma ta yaya iyali za su iya gabatar da damuwa. Idan mutum yana buƙatar taimako wajen cin abinci, kulawar jiki ko sadarwa, ku tambaya yadda wannan tallafin yake a aikace.
 
-Ka tambaya game da ziyarar iyali, tafiye-tafiye, alƙawuran likita, ayyuka da ikon mutum na kawo abubuwan da ya saba da su. Idan gida yana da shirin ciwon mantuwa, ka tambaya irin horo, ayyuka da tallafin yau da kullum da ya ƙunsa. Ka nemi misalan yadda ake sa mazauna cikin zaɓi, maimakon dogaro da sunan shirin kawai.
+Ku tambaya game da ziyarar iyali, fita waje, alƙawuran likita, ayyuka da kuma damar mutum ya kawo kayayyakin da ya saba da su. Idan gidan yana da shiri na musamman ga dimanshiya, ku tambaya irin horo, ayyuka da tallafin yau da kullum da shirin ya ƙunsa. Ku nemi misalai kan yadda ake sa mazauna gidan a cikin yanke zaɓi, maimakon dogaro da sunan shirin kaɗai.
 
-Ka nemi cikakken bayanin kudade, abin da ke cikinsa da yadda caji zai iya canjawa. Ka karanta yarjejeniyoyi a hankali, kuma ka nemi shawarar ƙwararre a gida idan sharuddan kuɗi ko shari'a ba su bayyana ba. Kada ka ɗauka cewa sabis yana cikin inshora ko yana samuwa bisa bayanai daga wata jiha ko ƙasa ta daban.
+Ku nemi bayani dalla-dalla game da kuɗaɗen da ake biya, abin da ya ƙunsa da kuma yadda cajin zai iya canzawa. Ku karanta yarjejeniyoyi a hankali, kuma ku nemi shawarar ƙwararre a yankinku idan sharuddan kuɗi ko na doka ba su bayyana ba. Kada ku ɗauka cewa ana samun wani sabis ko an rufe shi da kuɗi bisa bayanin da ya fito daga wata jiha ko wata ƙasa.
 
-Idan asalin mutum, dangantakarsa ko sirrinsa suna buƙatar kulawa ta musamman, duba [jagorarmu kan tallafawa mutum mai LGBTQ+ da ciwon mantuwa](/caregiving/supporting-lgbtq-person-with-dementia/). Yana ɗauke da tambayoyi game da sunayen da yake so, baƙi, kulawar mutum da manufofin masu bayarwa.
+Idan asalin mutum, alaƙarsa ko sirrinsa na buƙatar ƙarin kulawa, ku duba [jagorarmu kan tallafa wa mutum mai rayuwa da dimanshiya ɗan LGBTQ+](/caregiving/supporting-lgbtq-person-with-dementia/). Ta ƙunshi tambayoyi game da sunan da mutum yake so a kira shi da shi, masu ziyara, kulawar jiki da manufofin masu ba da kulawa.
 
-## Yaya zan taimaka da sauyin wuri?
+## Ta yaya zan iya taimakawa lokacin ƙaura?
 
-Sa mutum ya shiga zaɓi gwargwadon yadda yake so. Ziyara ga gida, cin abinci a can ko zaman gajeren hutun kulawa na iya taimaka wa wasu su saba da muhalli, idan akwai shi kuma yana karɓuwa a gare su. Mutum na iya so ya zaɓi wani abu na ɗaki, tufafi ko al'ada da zai kawo.
+Ku sa mutum a cikin zaɓi gwargwadon yadda yake so. Ziyartar gidan, cin abinci a can ko ɗan zama na ɗan lokaci na iya taimaka wa wasu mutane su saba da muhalli, idan akwai wannan dama kuma mutum ya amince da ita. Mutum na iya son zaɓar wani abu na ɗaki, tufafi ko tsarin yau da kullum da zai tafi da shi.
 
-Raba bayanai masu amfani da ma'aikata, tare da izinin mutum. Wannan na iya haɗawa da sunan da yake so, yadda yake sadarwa, al'adunsa na yau da kullum, abincin da yake so, ayyukan da yake jin daɗi da abin da ke taimaka masa ya ji nutsuwa. Ka kiyaye bayanin a takaice kuma mai alaƙa da kulawa. Mutum ya kamata ya ci gaba da kasancewa cikin tattaunawa game da shi.
+Ku raba bayanai masu amfani da ma’aikata, da yardar mutum. Wannan na iya haɗawa da sunan da yake so a kira shi da shi, salon sadarwarsa, yadda ya saba rayuwa, abincin da yake so, ayyukan da yake jin daɗi da kuma abin da ke taimaka masa ya ji nutsuwa. Ku taƙaita bayanin, ku kuma mayar da hankali kan kulawa. Ya kamata mutum ya ci gaba da kasancewa a cikin tattaunawa game da shi.
 
-Kawo kayan da ya saba da su idan gidan ya yarda da hakan. Ka tambayi ma'aikata yadda ɗakin mutum zai iya zama sananne ba tare da sa wuya a motsa ba. Hoto, bargo da aka fi so ko agogo da aka saba da shi na iya zama mai muhimmanci fiye da yunƙurin sake gina gida gaba ɗaya.
+Idan gidan ya yarda, ku kawo kayayyakin da mutum ya saba da su. Ku tambayi ma’aikata yadda ɗakin mutum zai iya zama abin da ya saba da shi ba tare da yana hana motsi cikin sauƙi ba. Hoto, bargo da yake so ko agogo da ya saba da shi na iya fi muhimmanci fiye da ƙoƙarin mayar da ɗakin kamar gidan da ya bari.
 
-## Yaya zan ci gaba da kasancewa cikin tafiyarsa bayan sauyin?
+## Ta yaya zan iya ci gaba da kasancewa a kusa bayan ƙaura?
 
-Yi aiki da ma'aikata don sanin yadda ake raba sabuntawa da wanda za a tuntuɓa. Ka tambayi mutum yadda yake ji game da ziyara da ayyuka. Wasu mutane na iya son ziyara gajeru da yawa; wasu na iya fifita lokaci don su saba. Ka lura da abin da ya zama mai daɗi a gare su, kuma ku daidaita tare.
+Ku yi aiki tare da ma’aikata don sanin yadda ake ba da sabbin bayanai da kuma wanda za a tuntuba. Ku tambayi mutum yadda yake ji game da ziyara da ayyuka. Wasu mutane na iya son gajerun ziyarce-ziyara akai-akai; wasu kuma na iya son ɗan lokaci don su saba. Ku lura da abin da ya fi dacewa a gare shi, sannan ku daidaita tare.
 
-Buƙatun kulawa da abubuwan da mutum yake so na iya canjawa. Ka sake duba tsarin kulawa tare da mutum da ma'aikata, ka tambaya idan wani abu bai bayyana ba, kuma ka raba sabon bayani da zai iya taimakawa. Idan mutum ba zato ba tsammani ya ruɗe ko ya yi rashin lafiya sosai, ka sanar da ƙungiyar kulawa nan da nan; rikicewar hankali kwatsam tana buƙatar kulawar likita nan take, a cewar [NHS](https://www.nhs.uk/symptoms/confusion/).
+Bukatun kulawa da abubuwan da mutum yake so na iya canzawa. Ku sake duba tsarin kulawa tare da mutum da ma’aikata, ku yi tambaya idan wani abu bai bayyana ba, kuma ku ba da sabbin bayanai da za su iya taimakawa. Idan mutum ya fara rikicewa ba zato ba tsammani ko ya fi rashin lafiya sosai, ku sanar da ƙungiyar kulawa nan da nan; rikicewa kwatsam na buƙatar kulawar likita nan take, kamar yadda [NHS](https://www.nhs.uk/symptoms/confusion/) ta bayyana.
 
-Zaɓar gida shawara ce mai muhimmanci, kuma zaɓin farko bazai zama mafi dacewa ba. Ka tattara bayanai, ka sa mutum ya shiga, ka tambaya game da kulawar yau da kullum, kuma ka ci gaba da sadarwa a buɗe bayan sauyin.
+Zaɓar gida babbar shawara ce, kuma zaɓin farko ba lallai ya ci gaba da kasancewa wanda ya fi dacewa ba. Ku tattara bayanai, ku sa mutum a ciki, ku yi tambaya game da kulawar yau da kullum, kuma ku ci gaba da sadarwa a buɗe bayan ƙaura.

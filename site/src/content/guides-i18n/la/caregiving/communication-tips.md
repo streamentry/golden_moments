@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Consilia colloquendi cum homine dementia laborante"
+seoTitle: "Consilia de dementia colloquendi: quid dicere et quid vitare"
+description: "Rationes utiles colloquendi cum homine dementia laborante: quomodo colloquium instituere, quid potius dicere quam interrogare aut corrigere, et quomodo audire."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  In loco quieto colloquere, contra eum sede vel sta, nomen eius adhibe, et lente
+  brevibusque simplicibus sententiis loquere. Unam quaestionem simul propone, potius
+  duas optiones quam quaestionem apertam offer, et diutius exspecta quam tibi naturale
+  videatur. Ne alterceris, ne corrigas, ne percontando explores. Adfectum qui post
+  verba latet respice, et, cum sermo difficilior fit, tactu, imaginibus et gestibus
+  utere.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Strepitum circumstantem remove et oculos in eum dirige antequam loqui incipias."
+  - "Brevibus sententiis utere, unam notionem simul tracta, et nomina potius quam pronomina adhibe."
+  - "Potius duas optiones offer, aut quaestionem cui respondeatur 'ita' vel 'non', quam quaestionem apertam propone."
+  - "Ad responsum exspecta. Si non intellegitur, eadem verba repete, deinde alia verba tempta."
+  - "Ne alterceris neque corrigas. Adfectum potius respice quam veritatem factorum."
+  - "Cum verba deficiunt, per tactum, vocis sonum, vultum et imagines communes colloquere."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Quid vitandum est cum homine dementia laborante loquar?"
+    a: "Vita percontationes ut \"Meministine...?\", correctiones ut \"Hoc falsum est\", admonitiones de iacturis ut \"Iam tibi dixi\", et loqui de eo quasi non adsit. Puerilis etiam locutio vitanda est. Haec verecundiam vel perturbationem movere solent, nec quicquam adiuvant."
+  - q: "Num corrigendus est, si facta falsa dicit?"
+    a: "Fere non est corrigendus. Si res falsa nihil nocet, silentio praetereas. Rixari mentem eius mutare vix umquam potest et saepe eum perturbat. Potius adfectum eius et necessitatem praesentem respice."
+  - q: "Quid faciendum est, si verbum invenire non potest?"
+    a: "Primum ei tempus da. Si manifestum est eum laborare, licet leniter verbum suggerere aut conicere quid velit et an recte conieceris quaerere. Digiti monstratio, gestus et imagines quoque adiuvare possunt."
+  - q: "Quomodo cum homine in ultimo gradu dementiae loquar, qui raro loquitur?"
+    a: "A fronte accede, quis sis dic, voce tranquilla et tactu leni utere. Vultum et corporis habitum observa ad adfectus cognoscendos. Tua praesentia, cantus notus aut manuum complexus multum significare possunt sine verbis."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia verba invenire, longam sententiam sequi aut strepitum circumstantem arcere difficilius reddere potest. Nihil tamen horum significat eum velle coniungi desisse. Parvae mutationes in modo colloquii instituendi, loquendi et audiendi loquelam faciliorem et tranquilliorem utrique reddere possunt.
 
-## What are the most important tips for talking with someone who has dementia?
+## Quae sunt praecipua consilia colloquendi cum homine dementia laborante?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Attentionem eius elice, simpliciter loquere et patientiam habe. Si quinque tantum meminisse vis:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Strepitum compesce et contra eum sta.** Televisificum exstingue, ad oculorum gradum sede, et nomen eius adhibe.
+2. **Unum quidque simul dic.** Breves sententias, unam notionem, unam quaestionem.
+3. **Duas optiones offer.** Facilius est "thean an capulus?" quam "Quid vis?"
+4. **Exspecta.** Plus temporis ad responsum da quam tibi naturale videatur, et cave ne interrumpas.
+5. **Numquam altercare aut percontando explore.** Adfectum respice, non utrum facta recta sint.
 
-## How should I start a conversation?
+## Quomodo colloquium incipiam?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ita res para ut homo ad te attendere possit. [Dux curatoris familiae](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) commendat primum strepitum minuere: radiophonum aut televisificum exstingue, vela aut ianuam claude, vel in locum quietiorem te confer.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **A fronte accede.** Ex tergo aut a latere accedens eum terrere potest.
+- **Dic quis sis.** "Salve, pater, ego Sara sum, filia tua." Sic eum labore nominis tui inveniendi levas.
+- **Ad eius gradum te demitte.** Si sedet, sede aut genua flecte ut oculi tui ad eius oculos perveniant.
+- **Vultum et sonum vocis observa.** [Institutum Nationale Senectutis (NIS)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) monet ut vocis sonum, volumen, vultum et corporis habitum consideres, et voce placida atque simplici loquaris.
+- **Cura ut vitrea aut audiendi instrumenta adhibeantur.** Difficile est colloquium sequi si non plene videre aut audire potest.
 
-## How should I phrase what I say?
+## Quomodo verba apta eligam?
 
-Use simple words, short sentences and a calm, low voice.
+Simplicibus verbis, brevibus sententiis et voce tranquilla humilioreque utere.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Unam notionem in una sententia.** "Pallium tuum induamus. Dein foras ibimus." Non ambo in uno spiritu.
+- **Nomina adhibe, non pronomina.** Clarius est "Amita Ioanna vocavit" quam "Illa vocavit."
+- **Vox humilior sit, non clarior.** Dux curatoris familiae vocem demittere potius quam attollere suadet.
+- **Repete, deinde aliter dic.** Si non intellexit, eadem verba semel repete. Si hoc non sufficit, paulisper exspecta et alia verba tempta.
+- **Ostende simul ac dicas.** Poculum monstra, duos tunicas tene, aut primum gradum demonstra.
+- **Cum eo loquere, non de eo.** NIS monet ne de eo loquaris quasi non adsit, neve voce puerili utaris.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIS simpliciores formas quaestionum communium suadet. Exempla in hunc sensum:
 
-| Instead of | Try |
+| Pro | Tenta |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Quid vis ad cenam?" | "Visne piscem an pullum?" |
+| "Quomodo te habes?" | "Esne defessus?" |
+| "Esne esuriens?" | "Cena mox parata erit." |
+| "Non ita faciendum est." | "Hoc modo temptemus." |
+| "Meministine itineris nostri ad lacum?" | "De itinere nostro ad lacum cogitabam. Quid tibi maxime placuit?" |
+| "Iam tibi dixi." | Iterum benigne responde, quasi primum dicas. |
 
-## How do I listen well?
+## Quomodo bene audiam?
 
-Listen for the meaning and the feeling, not just the words.
+Non solum verba, sed sensum et adfectum quaere.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Exspecta.** Silentium saepe tempus cogitandi est. Lente ad decem numera antequam interrumpas.
+- **Verbum offer solum si haeret.** Dux curatoris familiae concedit verba suggerere, cum quis laborat ea invenire.
+- **Quod audisti confirma.** [Dux Societatis Alzheimerianae de communicatione](https://www.alz.org/help-support/caregiving/daily-care/communications) suadet sensum post verba quaerere et eum restituere ut intellexeris. "De curru sollicitaris?"
+- **Vultum et corpus observa.** Cum sermo difficilior fit, NIS animadvertit vultus tristitiam, iram aut frustrationem clarius quam verba ostendere posse.
+- **Sollicitudines serio accipe.** Etiamsi sollicitudo ex falso facto oritur, adfectus verus est.
 
-## What if they say something that is not true?
+## Quid si aliquid falsum dicit?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ne alterceris. Mentem mutare difficile est et homo se verecundum aut territum sentire potest. Potius cum adfectu coniungere et leniter ad aliud transire conare.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Dux curatoris familiae suadet adfectum agnoscere priusquam avertas. Verbi gratia, si mater tua affirmat se liberos ad scholam petere debere:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Pro: "Mater, filii tui adulti sunt. Id quadraginta abhinc annis fuit."
+- Tenta: "Semper mater amantissima eras. Dic mihi, quomodo eos petebas. Num libenter panem gustaremus primum?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Societas Alzheimeriana quoque monet ne de sententiis dissentientibus alterceris. Elige tempus: si falsa opinio nihil nocet, eam praetereas.
 
-## How does communication change as dementia progresses?
+## Quomodo communicatio mutatur dementia progrediente?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Necessitates tempore mutantur, itaque ratio aptanda est. Societas Alzheimeriana tres gradus generales describit:
 
-| Stage | What helps |
+| Gradus | Quid adiuvat |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Primus | Ne putes eum non posse communicare. In colloquiis eum include, directe alloquere, quaere quale auxilium velit, et ioco utere si iuvat. |
+| Medius | Colloquium unius ad unum in loco quieto habe. Lente loquere, oculorum conspectum serva, quaestiones quibus 'ita' vel 'non' respondeatur propone, gradatim instrue, nec reprehende aut corrige. |
+| Postremus | A fronte accede et quis sis dic. Digitorum monstrationem et gestus fove. Tactu, sonis, aspectu, odoribus utere. Numquam quasi non adsit de eo loquaris. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Quisque homo diversus est, idemque homo bonos et difficiles dies habere potest. Ad praesentem statum eius respice, non ad titulum.
 
-## Can pictures and activities make conversation easier?
+## Num imagines et actiones colloquium facilius reddere possunt?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ita. Imago communis pressionem minuit et utrique praebet quod aspiciant et quod monstrent.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Imagines ad colloquium excitandum.** [Chartae Colloquii](/games/conversation-cards/) imagines cum quaestionibus offerunt quae numquam ad explorandum destinatae sunt.
+- **Photographiae familiares.** [Paria Photographiarum](/games/photo-pairs/) photographias quas elegeris in ludum lenem congruentiae vertit, qui saepe narrationes excitat.
+- **Dicta notissima.** [Sententiam Comple](/games/finish-the-saying/) dicta Americana bene nota adhibet, deinde ad colloquium provocat.
+- **Ludi congruentiae ut fundus colloquii.** [Paria Imaginum](/games/picture-pairs/) manus occupat dum colloquimini.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Vide [quomodo una ludere](/caregiving/how-to-play-together/) et [actiones reminiscentiae](/activities/reminiscence/) plura. De visitationibus et vocationibus lege duces nostros [de visitatione](/activities/visiting/) et [de vocationibus per telephonum vel video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Si homo pluribus linguis utitur, vide ducem nostrum [de communicatione inter linguas](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Quid si patientiam amitto?
+
+Hoc omnibus accidit. NIS suadet ut, si frustraris, tempus ad te colligendum sumas. In aliud cubiculum discede, lente aliquot spiritus duc, et redi cum tranquillior esse potes. Colloquium semper denuo incipere licet, et homo saepe ad animum tuum tranquilliorem respondere potest. Si frustratio assidua fit, hoc signum est te maiore auxilio egere, non te deficere. Dux noster [de cura curatoris](/caregiving/caregiver-self-care/) locos monstrat quo te vertere possis.

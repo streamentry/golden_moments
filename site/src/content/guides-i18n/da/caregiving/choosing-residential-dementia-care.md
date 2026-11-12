@@ -1,29 +1,30 @@
 ---
-title: "Valg af botilbud til en person med demens"
-seoTitle: "Valg af demenspleje: hvad du skal spørge om"
-description: "Sammenlign botilbud til demens ud fra personens behov, personalets tilgang, hverdagen og priser. Inddrag personen i besøg og valg, så meget de ønsker."
+title: "Valg af plejehjem til en person med demens"
+seoTitle: "Valg af demenspleje: Hvad du bør spørge om"
+description: "Sammenlign plejehjem efter personens behov, personalets tilgang, dagligliv og omkostninger. Involver personen i besøg og beslutninger, så meget de ønsker."
 section: caregiving
 order: 25
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Start med personens plejebehov, ønsker og ønsket om at holde kontakten til kendte mennesker og
-  rutiner. Besøg de mulige steder, og spørg til personalets uddannelse, plejeplanlægning, aktiviteter
-  og priser. Inddrag personen i beslutningerne, så meget de ønsker.
+  Start med personens plejebehov, præferencer og ønske om at forblive
+  tæt på kendte mennesker og velkendte rutiner. Besøg mulige plejehjem,
+  spørg til personalets uddannelse, plejeplanlægning, aktiviteter og omkostninger,
+  og involver personen i beslutninger, så meget de ønsker.
 keyPoints:
-  - "Der er ingen fast regel for, hvornår et botilbud er det rigtige."
-  - "Skriv personens behov og ønsker ned, før du sammenligner steder."
-  - "Besøg på forskellige tidspunkter, og læg mærke til, hvordan personalet og beboerne omgås."
-  - "Bed om klare skriftlige oplysninger om ydelser, priser og fremtidige behov for pleje."
+  - "Der er ingen fast regel for, hvornår et plejehjem er det rette valg."
+  - "Lav en liste over personens behov og præferencer, før du sammenligner plejehjem."
+  - "Besøg på forskellige tidspunkter, og læg mærke til, hvordan personale og beboere interagerer."
+  - "Bed om klare, skriftlige oplysninger om ydelser, gebyrer og eventuelle ændringer i plejebehov."
 faq:
-  - q: "Hvornår skal man overveje et botilbud til en person med demens?"
-    a: "Overvej, om personens nuværende støtte dækker deres behov, og om det fortsat er muligt for dem og deres pårørende at bo hjemme. Tal med personen og deres sundheds- eller socialfaglige team; der findes ikke ét trin eller én tjekliste, der afgør det for alle familier."
-  - q: "Skal en person med demens flytte til en hukommelsesafdeling?"
-    a: "Ikke alle har brug for en afdeling specielt for demens. Spørg, hvilken støtte personen har brug for, og hvad hvert sted tilbyder, herunder personalets uddannelse, aktiviteter, privatliv og inddragelse af familien."
-  - q: "Hvad skal jeg spørge et botilbud om?"
-    a: "Spørg om demensuddannelse, personalets tilgængelighed, personlig pleje, aktiviteter, kommunikation med familien, besøg og hvordan plejen bliver gennemgået. Bed om skriftlige oplysninger om ydelser, priser, og hvordan støtten kan ændre sig, når behovene ændrer sig."
-  - q: "Hvordan kan jeg hjælpe en person med at vænne sig til en flytning?"
-    a: "Inddrag dem i valgene, så meget de ønsker. Tag velkendte ting med, og del de rutiner, præferencer og kommunikationsmåder, de ønsker, at personalet skal kende. Bliv ved med at samarbejde med personalet efter flytningen."
+  - q: "Hvordan ved jeg, hvornår jeg bør overveje et plejehjem til en person med demens?"
+    a: "Overvej, om den nuværende støtte dækker personens behov, og om det stadig er muligt for både personen og de pårørende at bo hjemme. Tal med personen og eventuelt deres læge, socialrådgiver eller koordinator for pleje. Der er ikke noget enkelt trin eller en tjekliste, der kan træffe beslutningen for hele familien."
+  - q: "Behøver en person med demens at flytte til en særlig demensafdeling?"
+    a: "Nej, ikke alle har brug for en demensspecifik afdeling. Spørg, hvilke behov personen har, og hvad hvert enkelt plejehjem kan tilbyde med hensyn til personalets uddannelse, aktiviteter, privatliv og involvering af pårørende."
+  - q: "Hvad bør jeg spørge et plejehjem om?"
+    a: "Spørg om demensuddannelse, personalets tilstedeværelse, personlig pleje, aktiviteter, kommunikation med pårørende, besøgsmuligheder og hvordan plejen gennemgås. Bed om skriftlige oplysninger om ydelser, gebyrer og hvordan støtten kan ændre sig, efterhånden som behovene ændrer sig."
+  - q: "Hvordan kan jeg hjælpe en person med at vænne sig til et flyt?"
+    a: "Involver personen i valgene, så meget de ønsker. Medbring velkendte ejendele, og del de rutiner, præferencer og måder at kommunikere på, som du gerne vil have, at personalet kender. Bliv ved med at samarbejde med personalet efter flytningen."
 sources:
   - title: "Long-Term Care"
     publisher: "Alzheimer's Association"
@@ -42,58 +43,58 @@ related: [caregiving/choosing-in-home-dementia-care, caregiving/living-alone-wit
 health: true
 ---
 
-At overveje et botilbud kan give lettelse, sorg, usikkerhed eller flere følelser på én gang. Beslutningen handler om at finde støtte, der passer til personens behov og ønsker. Det er ikke en prøve på, hvor meget en familie holder af hinanden, og det er heller ikke et fast trin, som alle når på samme tidspunkt.
+At overveje et plejehjem kan vække både lettelse, sorg og usikkerhed på samme tid. Beslutningen handler om at finde den rette støtte til personens behov og præferencer. Den er ikke et bevis på, hvor meget en familie bekymrer sig, og heller ikke et skridt, alle når på samme tidspunkt.
 
-[Alzheimer's Associations guide til langtidspleje](https://www.alz.org/help-support/caregiving/care-options/long-term-care), dens [tjekliste til botilbud](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) og [Dementia Australias vejledning om botilbud](https://www.dementia.org.au/living-dementia/care-options/residential-care) foreslår, at man ser på personens behov, personale, aktiviteter, omgivelser og priser. Denne side anbefaler ikke et bestemt sted og erstatter ikke lokal faglig rådgivning om sundhed eller økonomi.
+Ifølge [Alzheimer's Associations vejledning om langtidspleje](https://www.alz.org/help-support/caregiving/care-options/long-term-care), deres [tjekliste til valg af plejehjem](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) og [Dementia Australias vejledning om plejehjem](https://www.dementia.org.au/living-dementia/care-options/residential-care) bør du se på personens behov, personale, aktiviteter, omgivelser og omkostninger. Denne side anbefaler ikke et bestemt plejehjem og kan ikke erstatte lokal professionel eller økonomisk rådgivning.
 
-## Hvordan kan jeg vurdere, om et botilbud er værd at undersøge?
+## Hvordan ved jeg, om jeg bør undersøge muligheden for et plejehjem?
 
-Se på, hvilken støtte personen har brug for nu, og om den støtte kan gives i hjemmet. Overvej personens sikkerhed, daglige plejebehov, sociale liv og præferencer. Overvej også, om omsorgsopgaverne påvirker helbredet hos personen eller de mennesker, der støtter dem.
+Se på, hvilken støtte personen har brug for lige nu, og om denne støtte kan ydes derhjemme. Tænk over personens sikkerhed, behov for daglig pleje, sociale liv og præferencer. Overvej også, om plejeopgaverne påvirker personens eller de pårørendes helbred.
 
-Der findes ikke én fase eller én tjekliste, der afgør, hvornår nogen bør flytte. En person kan foretrække et fællesskab, eller de vil måske blive i hjemmet med ekstra hjælp. Tal med personen og, hvis det er nyttigt, med deres læge, socialrådgiver eller koordinator. Find ud af, hvilke typer støtte der kan passe, før du forpligter dig til en flytning.
+Der er ikke noget enkelt trin eller en tjekliste, der afgør, hvornår nogen bør flytte. Nogle foretrækker et fællesskab uden for hjemmet, mens andre ønsker at blive hjemme med ekstra hjælp. Tal med personen og eventuelt deres læge, socialrådgiver eller koordinator for pleje. Spørg, hvilke former for støtte der kan være relevante, før I forpligter jer til et flyt.
 
-Inddrag personen i beslutningerne, så meget de ønsker. Spørg, hvad der betyder noget for dem: beliggenhed, måltider, sprog, kultur, religiøs praksis, kendte aktiviteter eller besøg fra familie og venner. Deres præferencer kan hjælpe med at indsnævre listen, også selvom nogle plejebehov ændrer sig.
+Involver personen i beslutningerne, så meget de ønsker. Spørg, hvad der betyder mest for dem: placering, måltider, sprog, kultur, religiøs praksis, velkendte aktiviteter eller besøg fra familie og venner. Deres præferencer kan hjælpe med at indsnævre udvalget, selv hvis nogle plejebehov ændrer sig over tid.
 
-## Hvad skal jeg finde ud af, før jeg besøger steder?
+## Hvad bør jeg finde ud af, før jeg besøger plejehjem?
 
-Lav først en kort liste over den støtte, personen har brug for. Det kan omfatte hjælp til dagligdags aktiviteter, sygepleje, socialt samvær, et kendt sprog eller et sted at være udendørs. Spørg en sundheds- eller socialfaglig person, hvilke ydelser der kan være nødvendige, hvis du er usikker.
+Start med at lave en kort liste over den støtte, personen har brug for. Det kan dreje sig om hjælp til daglige gøremål, sygepleje, socialt samvær, et velkendt sprog eller mulighed for at være udenfor. Hvis du er usikker, kan du spørge en sundheds- eller socialfaglig medarbejder, hvilke ydelser der kan være nødvendige.
 
-Ring til stederne, før du besøger dem. Spørg, om de kan dække personens behov, om der er en ledig plads, hvad de næste skridt er, og hvilke oplysninger de har brug for fra dig. Bed om skriftlige oplysninger om ydelser og priser. Regler for berettigelse, finansiering og godkendelse varierer fra sted til sted, så tjek lokale kilder i stedet for at stole på en generel artikel.
+Ring til plejehjemmene, før du besøger dem. Spørg, om de kan imødekomme personens behov, om der eventuelt er en ledig plads, hvilke næste skridt der er, og hvilke oplysninger de har brug for fra dig. Bed om skriftlig information om ydelser og gebyrer. Regler for berettigelse, finansiering og tilsyn kan variere fra sted til sted, så tjek altid lokale kilder fremfor at stole på generelle artikler.
 
-Spørg, om personalet har uddannelse i demenspleje, hvordan plejeplaner laves, og hvordan familier kan dele opdateringer. Find ud af, hvordan dagligdagen fungerer, hvilke aktiviteter der tilbydes, og hvordan beboere støttes i at træffe valg. En afdeling for hukommelsespleje er én mulighed, men ikke alle har brug for en; sammenlign den faktiske støtte, hvert sted giver.
+Spørg, om personalet har fået uddannelse i demenspleje, hvordan plejeplaner udarbejdes, og hvordan pårørende kan dele opdateringer. Find ud af, hvordan hverdagen er struktureret, hvilke aktiviteter der tilbydes, og hvordan beboerne støttes i at træffe egne valg. En særlig demensafdeling kan være en mulighed, men ikke alle har brug for den. Sammenlign derfor den konkrete støtte, hvert sted tilbyder.
 
-## Hvad skal jeg lægge mærke til under et besøg?
+## Hvad bør jeg lægge mærke til under et besøg?
 
-Besøg mere end ét sted, hvis det er muligt. Aftal en første rundvisning, og spørg derefter, om du kan komme igen på et andet tidspunkt eller under et måltid. Et andet besøg kan vise mere af den sædvanlige rutine og give dig mulighed for at møde andet personale.
+Besøg gerne mere end ét plejehjem, hvis det er muligt. Aftal en rundvisning, og spørg derefter, om du kan komme igen på et andet tidspunkt eller i forbindelse med et måltid. Et andet besøg giver ofte et bedre billede af hverdagen og mulighed for at møde andet personale.
 
-Læg mærke til, hvordan personalet taler med beboerne. Taler de respektfuldt til folk, giver de tid til at svare, og inddrager de dem i almindelige valg? Virker beboerne trygge, og har de noget at tage sig til, der passer til deres interesser og evner? Spørg, om du kan se aktivitetsplaner, spisesteder, udendørsarealer og private områder.
+Læg mærke til, hvordan personalet taler med beboerne. Adresserer de folk respektfuldt, giver de tid til svar, og involverer de dem i almindelige valg? Ser beboerne ud til at være trygge, og er der aktiviteter, der passer til deres interesser og evner? Spørg, om du kan se aktivitetsplaner, spisesale, udearealer og private områder.
 
-Se efter de detaljer, der betyder noget for netop denne person: skilte, der er lette at forstå, tydelige veje til toilettet, velkendte ting, stille rum, sprog- og kulturstøtte og muligheder for at se nære mennesker. En flot indgangshal alene viser ikke, hvordan den daglige pleje fungerer.
+Vær opmærksom på de detaljer, der betyder noget for netop denne person: letforståelige skilte, tydelige veje til toilettet, mulighed for at have velkendte ejendele med, rolige rum, sprog- og kulturstøtte samt muligheder for at se kære mennesker. En flot lobby siger ikke nødvendigvis noget om, hvordan plejen fungerer i hverdagen.
 
-Tag gerne en betroet ven eller et familiemedlem med, hvis det hjælper dig med at huske spørgsmål og sammenligne indtryk bagefter. Du kan bruge [Alzheimer's Associations tjekliste](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) til at notere det, du ser. Brug dine noter som udgangspunkt for en drøftelse, ikke som en score, der vælger stedet for dig.
+Tag en betroet ven eller et familiemedlem med, hvis det kan hjælpe dig med at huske spørgsmålene og sammenligne indtryk bagefter. Du kan bruge [Alzheimer's Associations tjekliste](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) til at notere dine observationer. Brug dine notater som samtalepunkter - ikke som en score, der automatisk vælger plejehjemmet for dig.
 
-## Hvilke spørgsmål hjælper med at sammenligne plejen?
+## Hvilke spørgsmål kan hjælpe mig med at sammenligne plejehjem?
 
-Spørg, hvordan bemandingen fungerer på forskellige tidspunkter af døgnet, hvordan personalet lærer personens rutiner at kende, og hvad der sker, når deres behov ændrer sig. Spørg, hvem der gennemgår plejeplanerne, og hvordan familien kan rejse en bekymring. Hvis personen har brug for hjælp til måltider, personlig pleje eller kommunikation, så spørg, hvordan den hjælp ser ud i praksis.
+Spørg, hvordan bemandingen ser ud på forskellige tidspunkter af døgnet, hvordan personalet lærer personens rutiner at kende, og hvad der sker, hvis behovene ændrer sig. Spørg, hvem der gennemgår plejeplanen, og hvordan pårørende kan rette henvendelse, hvis de har bekymringer. Hvis personen har brug for hjælp til måltider, personlig pleje eller kommunikation, så spørg, hvordan denne støtte ser ud i praksis.
 
-Spørg til familiebesøg, udflugter, lægeaftaler, aktiviteter og personens mulighed for at medbringe kendte ting. Hvis et sted har et specifikt demensprogram, så spørg, hvilken uddannelse, hvilke aktiviteter og hvilken daglig støtte det omfatter. Bed om eksempler på, hvordan beboere inddrages i valg, i stedet for kun at stole på navnet på programmet.
+Spørg til besøg fra familie, udflugter, lægebesøg, aktiviteter og muligheden for at medbringe velkendte ejendele. Hvis et plejehjem tilbyder et demensspecifikt program, så spørg, hvilken uddannelse, hvilke aktiviteter og hvilken støtte det konkret indeholder. Bed om eksempler på, hvordan beboerne involveres i egne valg, fremfor kun at stole på programmets navn.
 
-Bed om en detaljeret oversigt over priser, hvad der er inkluderet, og hvordan betalingerne kan ændre sig. Læs aftalerne grundigt, og få kvalificeret lokal rådgivning, hvis økonomiske eller juridiske vilkår er uklare. Antag ikke, at en ydelse er dækket eller findes, ud fra oplysninger fra en anden region eller et andet land.
+Bed om en specificeret oversigt over gebyrer, hvad der er inkluderet, og hvordan udgifterne kan ændre sig over tid. Læs aftalerne grundigt, og søg kvalificeret lokal rådgivning, hvis økonomiske eller juridiske vilkår er uklare. Antag ikke, at en ydelse er dækket eller tilgængelig ud fra oplysninger fra et andet område eller land.
 
-Hvis personens identitet, relationer eller privatliv kræver ekstra opmærksomhed, se vores [guide til at støtte en LGBTQ+-person med demens](/caregiving/supporting-lgbtq-person-with-dementia/). Den indeholder spørgsmål om foretrukne navne, besøgende, personlig pleje og udbyderes politikker.
+Hvis personens identitet, relationer eller privatliv kræver særlig opmærksomhed, kan du se vores [vejledning om at støtte en LGBTQ+-person med demens](/caregiving/supporting-lgbtq-person-with-dementia/). Den indeholder spørgsmål om foretrukne navne, besøgende, personlig pleje og udbyderens politikker.
 
 ## Hvordan kan jeg hjælpe med flytningen?
 
-Inddrag personen i valgene, så meget de ønsker. Et besøg på stedet, et måltid der eller et kort aflastningsophold kan hjælpe nogle med at blive fortrolige med omgivelserne, hvis det er muligt og acceptabelt for dem. Personen vil måske selv vælge en ting til værelset, et tøjstykke eller en rutine at tage med.
+Involver personen i valgene, så meget de ønsker. Et besøg på plejehjemmet, et måltid der eller et kort ophold kan hjælpe nogle med at blive bekendt med stedet, hvis det er muligt og acceptabelt for dem. Personen kan selv vælge, hvilken genstand til værelset, hvilket tøj eller hvilken rutine de vil medbringe.
 
-Del nyttige oplysninger med personalet, med personens accept. Det kan være deres foretrukne navn, kommunikationsstil, daglige rutiner, mad de kan lide, aktiviteter de nyder, og hvad der hjælper dem med at føle sig trygge. Hold oplysningerne korte og fokuserede på plejen. Personen bør være med i samtalerne om dem.
+Del relevante oplysninger med personalet med personens samtykke. Det kan være personens foretrukne navn, kommunikationsstil, daglige rutiner, yndlingsmad, aktiviteter de nyder, og hvad der hjælper dem med at føle sig trygge. Hold oplysningerne korte og fokuserede på plejen. Personen bør fortsat være en del af samtaler om sig selv.
 
-Tag velkendte ting med, hvis stedet tillader det. Spørg personalet, hvordan værelset kan føles genkendeligt uden at gøre det svært at bevæge sig rundt. Et fotografi, et yndlingstæppe eller et kendt ur kan betyde mere end at forsøge at genskabe hele hjemmet.
+Medbring velkendte ejendele, hvis plejehjemmet tillader det. Spørg personalet, hvordan personens værelse kan gøres genkendeligt uden at gøre det besværligt at færdes der. Et fotografi, et yndlingstæppe eller et velkendt ur kan ofte betyde mere, end at prøve at genskabe hele hjemmet.
 
-## Hvordan kan jeg være involveret efter flytningen?
+## Hvordan kan jeg forblive involveret efter flytningen?
 
-Arbejd sammen med personalet om, hvordan opdateringer deles, og hvem man skal kontakte. Spørg personen, hvordan de har det med besøg og aktiviteter. Nogle har måske brug for hyppige, korte besøg; andre foretrækker tid til at falde til. Læg mærke til, hvad der virker behageligt for dem, og justér sammen.
+Samarbejd med personalet om at finde ud af, hvordan opdateringer deles, og hvem du skal kontakte. Spørg personen, hvordan de har det med besøg og aktiviteter. Nogle foretrækker hyppige, korte besøg, mens andre har brug for tid til at vænne sig. Vær opmærksom på, hvad der føles rart for personen, og juster sammen.
 
-Plejebehov og ønsker kan ændre sig. Gennemgå plejeplanen sammen med personen og personalet, stil spørgsmål, når noget er uklart, og del nye oplysninger, der kan hjælpe. Hvis personen pludselig bliver forvirret eller meget mere syg, så giv plejeteamet besked med det samme; pludselig forvirring kræver straks lægehjælp, ifølge [NHS](https://www.nhs.uk/symptoms/confusion/).
+Plebebehov og præferencer kan ændre sig over tid. Gennemgå plejeplanen sammen med personen og personalet, stil spørgsmål, hvis noget er uklart, og del ny information, der kan hjælpe. Hvis personen pludselig bliver forvirret eller markant dårligere, så kontakt plejeteamet med det samme. Pludselig forvirring kræver øjeblikkelig lægefaglig opmærksomhed ifølge [NHS](https://www.nhs.uk/symptoms/confusion/).
 
-At vælge et hjem er en alvorlig beslutning, og det første valg behøver ikke at være det bedste. Saml oplysninger, inddrag personen, spørg til den daglige pleje, og hold kommunikationen åben efter flytningen.
+At vælge et plejehjem er en alvorlig beslutning, og det første valg er ikke nødvendigvis det rigtige i længden. Indhent information, involver personen, spørg til den daglige pleje, og hold kommunikationen åben efter flytningen.

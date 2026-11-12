@@ -1,30 +1,34 @@
 ---
-title: "Mehrsprachige Verständigung in der Demenzpflege"
-seoTitle: "Demenz und Sprache: Unterstützung über Sprachgrenzen"
-description: "Unterstützen Sie eine mehrsprachige Person mit Demenz, indem Sie nach ihrer Sprache fragen, vertraute Hinweise nutzen und bei Terminen Sprachhilfe organisieren."
+title: "Mehrsprachige Kommunikation bei Demenz begleiten"
+seoTitle: "Demenz und Sprache: Unterstützung über Sprachen"
+description: "Begleiten Sie eine mehrsprachige Person mit Demenz: Fragen Sie nach der gewünschten Sprache, nutzen Sie vertraute Hinweise und klären Sie Sprachhilfe für Termine."
 section: caregiving
 order: 41
 updated: 2026-11-12
 translatedFrom: 2026-11-12
 summary: >-
-  Fragen Sie, in welcher Sprache die Person sprechen möchte. Manche mehrsprachigen Menschen mit Demenz nutzen eine früher erlernte Sprache, doch das ist unterschiedlich. Verwenden Sie vertraute Wörter und Gesten und fragen Sie die Gesundheitsdienste, welche Dolmetschunterstützung es für Termine gibt.
+  Fragen Sie, welche Sprache die Person nutzen möchte. Manche mehrsprachigen
+  Menschen mit Demenz verwenden möglicherweise eine Sprache, die sie früher
+  gelernt haben, doch das ist von Person zu Person unterschiedlich. Nutzen Sie
+  vertraute Wörter und Gesten, und fragen Sie bei Gesundheitsdiensten nach,
+  welche Sprachunterstützung für Termine verfügbar ist.
 keyPoints:
-  - "Fragen Sie, welche Sprache sich für dieses Gespräch am angenehmsten anfühlt; nehmen Sie nichts an."
-  - "Manche Menschen nutzen eine früher erlernte Sprache, das trifft aber nicht auf alle zu und zeigt nicht das Stadium einer Person."
-  - "Verwenden Sie vertraute Wörter, geben Sie mehr Zeit und unterstützen Sie das Sprechen mit Bildern oder Gesten."
-  - "Bei Gesundheitsterminen nehmen Sie vorab Kontakt mit der Praxis auf und fragen Sie, welche Dolmetschunterstützung es gibt."
-  - "Eine plötzliche Veränderung der Verständigung mit Verwirrung braucht ärztliche Aufmerksamkeit."
+  - "Fragen Sie, welche Sprache sich für dieses Gespräch am angenehmsten anfühlt; gehen Sie nicht davon aus."
+  - "Manche Menschen verwenden möglicherweise eine früher gelernte Sprache, doch das betrifft nicht alle und sagt nichts über das Stadium einer Person aus."
+  - "Nutzen Sie vertraute Wörter, lassen Sie mehr Zeit und unterstützen Sie das Sprechen mit Bildern oder Gesten."
+  - "Kontaktieren Sie für Arzttermine den Anbieter im Voraus und fragen Sie, welche Sprachunterstützung verfügbar ist."
+  - "Eine plötzliche Veränderung in der Kommunikation zusammen mit Verwirrtheit braucht medizinische Aufmerksamkeit."
 faq:
-  - q: "Wird eine Demenz dazu führen, dass jemand wieder seine Muttersprache spricht?"
-    a: "Manche Menschen mit Demenz beginnen, eine früher erlernte Sprache zu sprechen, andere nicht. Sprachpräferenzen können je nach Person, Thema und Tag unterschiedlich sein. Fragen Sie, welche Sprache sich angenehm anfühlt, statt sie zu nutzen, um das Stadium einer Person zu beurteilen."
-  - q: "Sollte ich die Muttersprache der Person sprechen?"
-    a: "Fragen Sie, welche Sprache sie jetzt verwenden möchte. Wenn Sie sie sprechen, nutzen Sie vertraute Wörter und geben Sie Zeit zu antworten. Wenn nicht, fragen Sie, ob sie eine vertraute zweisprachige Person bei einem alltäglichen Gespräch dabeihaben möchte."
-  - q: "Was ist, wenn ich nicht verstehe, was die Person sagt?"
-    a: "Bleiben Sie ruhig und bitten Sie sie, es zu zeigen, darauf zu deuten oder ein anderes Wort zu verwenden, wenn sie das möchte. Ein Bild, ein vertrauter Gegenstand oder eine Geste kann helfen. Fragen Sie nicht ab und tun Sie nicht so, als würden Sie wichtige Gesundheitsinformationen verstehen."
-  - q: "Wie bereite ich einen medizinischen Termin vor?"
-    a: "Nehmen Sie vor dem Besuch Kontakt mit der Praxis auf, teilen Sie mit, welche Sprache die Person bevorzugt, und fragen Sie nach den Dolmetschmöglichkeiten. Fragen Sie die Person, wen sie begleiten soll; eine Begleitperson kann dabei sein, ohne für die Person zu sprechen."
-  - q: "Gehört ein plötzlicher Sprachwechsel zur Demenz?"
-    a: "Ein Sprachwechsel allein erklärt seine Ursache nicht. Wenn die Person plötzlich verwirrt wird oder sich ihre Verständigung abrupt verändert, holen Sie sofort medizinische Hilfe, statt von einem Fortschreiten der Demenz auszugehen."
+  - q: "Führt Demenz dazu, dass jemand wieder seine Erstsprache verwendet?"
+    a: "Manche Menschen mit Demenz beginnen möglicherweise, eine Sprache zu verwenden, die sie früher gelernt haben, andere tun das nicht. Sprachvorlieben können je nach Person, Thema und Tag unterschiedlich sein. Fragen Sie, welche Sprache sich angenehm anfühlt, anstatt daran das Stadium einer Person einzuschätzen."
+  - q: "Soll ich die Erstsprache der Person sprechen?"
+    a: "Fragen Sie, welche Sprache die Person jetzt nutzen möchte. Wenn Sie diese Sprache teilen, verwenden Sie vertraute Wörter und geben Sie ihr Zeit zum Antworten. Wenn nicht, fragen Sie, ob eine vertraute zweisprachige Person bei einem alltäglichen Gespräch dabei sein soll."
+  - q: "Was kann ich tun, wenn ich nicht verstehe, was die Person sagt?"
+    a: "Bleiben Sie ruhig und bitten Sie die Person, etwas zu zeigen, darauf zu zeigen oder ein anderes Wort zu verwenden, wenn sie möchte. Ein Bild, ein vertrauter Gegenstand oder eine Geste kann helfen. Stellen Sie keine Fragen wie in einer Prüfung und tun Sie nicht so, als würden Sie wichtige Gesundheitsinformationen verstehen."
+  - q: "Wie kann ich mich auf einen Arzttermin vorbereiten?"
+    a: "Kontaktieren Sie die Praxis vor dem Besuch, teilen Sie mit, welche Sprache die Person bevorzugt, und fragen Sie, welche Möglichkeiten für eine Sprachmittlung verfügbar sind. Fragen Sie die Person, wen sie dabeihaben möchte; eine begleitende Person kann anwesend sein, ohne für sie zu sprechen."
+  - q: "Gehört eine plötzliche Sprachveränderung zu Demenz?"
+    a: "Eine Sprachveränderung allein erklärt nicht ihre Ursache. Wenn die Person plötzlich verwirrt wird oder sich ihre Kommunikation abrupt verändert, holen Sie sofort medizinische Hilfe, anstatt anzunehmen, dass es sich um ein Fortschreiten der Demenz handelt."
 sources:
   - title: "How to communicate with a person with dementia"
     publisher: "Alzheimer's Society"
@@ -46,50 +50,50 @@ related: [caregiving/communication-tips, caregiving/doctor-visit-with-dementia, 
 health: true
 ---
 
-Menschen, die mehr als eine Sprache sprechen, können sich verständigen, indem sie anders formulieren, wenn Demenz das Wortfinden oder das Verstehen verändert. Manche beginnen, eine früher erlernte Sprache zu benutzen; andere nicht. Der hilfreichste erste Schritt ist, zu fragen, welche Sprache sich jetzt angenehm anfühlt, und dann der Person zu folgen.
+Menschen, die mehr als eine Sprache sprechen, kommunizieren möglicherweise anders, wenn sich durch Demenz das Finden von Wörtern oder das Verstehen verändert. Manche Menschen beginnen, eine Sprache zu verwenden, die sie früher gelernt haben; andere tun das nicht. Der hilfreichste erste Schritt ist zu fragen, welche Sprache sich jetzt angenehm anfühlt, und sich dann an der Person zu orientieren.
 
-Die [Alzheimer's Society weist darauf hin, dass Sprachvorlieben unterschiedlich sein können, und empfiehlt, die Sprache zu verwenden, in der sich die Person gewöhnlich verständigt](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). Die [Alzheimer's Association nennt die Rückkehr zur Muttersprache auch als mögliche Veränderung der Verständigung](https://www.alz.org/help-support/caregiving/daily-care/communications). Diese Veränderungen treten nicht bei allen auf und zeigen kein Stadium an.
+Die [Alzheimer’s Society sagt, dass Sprachvorlieben unterschiedlich sein können, und schlägt vor, die Sprache zu verwenden, in der sich die Person gewöhnlich mitteilt](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). Die [Alzheimer’s Association nennt die Rückkehr zur Muttersprache ebenfalls als eine mögliche Veränderung in der Kommunikation](https://www.alz.org/help-support/caregiving/daily-care/communications). Diese Veränderungen betreffen nicht alle Menschen und sagen nichts über das Stadium einer Person aus.
 
 ## Welche Sprache sollte ich verwenden?
 
-Fragen Sie die Person, welche Sprache sie für dieses Gespräch nutzen möchte. Ihre Vorliebe kann sich mit Thema, Umgebung oder Tageszeit ändern. Wechselt sie die Sprache, behandeln Sie das nicht als Test und bestehen Sie nicht darauf, dass sie in der Sprache weiterspricht, die Sie verstehen.
+Fragen Sie die Person, welche Sprache sie für dieses Gespräch nutzen möchte. Ihre Vorliebe kann sich je nach Thema, Umgebung oder Tageszeit ändern. Wenn sie die Sprache wechselt, behandeln Sie das nicht wie eine Prüfung und bestehen Sie nicht darauf, dass sie in der Sprache weiterspricht, die Sie verstehen.
 
-Sprechen Sie Sie die bevorzugte Sprache, nutzen Sie vertraute Wörter und geben Sie Zeit für eine Antwort. Kennen Sie nur wenige Wörter, seien Sie ehrlich und nutzen Sie zusätzlich Gesten, Gegenstände oder Bilder. Die [Sprachhinweise der Alzheimer's Society](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) besagen, dass die Sprachfähigkeit von Tag zu Tag schwanken kann und durch Müdigkeit, Schmerzen oder Krankheit beeinflusst werden kann.
+Wenn Sie die bevorzugte Sprache sprechen, verwenden Sie vertraute Wörter und geben Sie der Person Zeit zum Antworten. Wenn Sie nur ein paar Wörter kennen, seien Sie ehrlich und nutzen Sie zusätzlich Gesten, Gegenstände oder Bilder. Die [Sprachhinweise der Alzheimer’s Society](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) weisen darauf hin, dass Sprachfähigkeiten von Tag zu Tag unterschiedlich sein können und von Müdigkeit, Schmerzen oder Krankheit beeinflusst werden können.
 
-## Was hilft im alltäglichen Gespräch?
+## Was kann in einem alltäglichen Gespräch helfen?
 
-Behalten Sie die üblichen Hinweise zur Verständigung im Blick und ergänzen Sie Unterstützung, die zur Sprache der Person passt:
+Behalten Sie die üblichen Tipps zur Kommunikation im Blick und ergänzen Sie sie mit Unterstützung, die zur Sprache der Person passt:
 
-- **Vertraute Wörter und Namen verwenden.** Fragen Sie die Person oder jemanden, dem sie vertraut, welche Wörter für Alltagsgegenstände, Familienmitglieder und Routinen benutzt werden.
-- **Zeigen und sagen.** Deuten Sie auf eine Tasse, halten Sie zwei Möglichkeiten hoch oder nutzen Sie ein vertrautes Foto oder einen Gegenstand. Eine Geste hilft, wenn das richtige Wort schwer zu finden ist.
-- **Warten.** Geben Sie der Person Zeit zuzuhören und zu antworten. Beenden Sie nicht jeden Satz für sie und wiederholen Sie die Frage nicht gleichzeitig in mehreren Sprachen.
-- **Eine Idee nach der anderen.** Eine lange Erklärung kann in jeder Sprache schwer sein. Verwenden Sie einen kurzen Satz, machen Sie eine Pause und sehen Sie dann, ob die Person mehr hören möchte.
-- **Gehör und Sehvermögen prüfen.** Brille, Hörgerät, gutes Licht und eine ruhige Umgebung können es leichter machen, einem Gespräch zu folgen.
+- **Nutzen Sie vertraute Wörter und Namen.** Fragen Sie die Person oder jemanden, dem sie vertraut, welche Wörter sie für Alltagsgegenstände, Familienmitglieder und Abläufe verwendet.
+- **Zeigen und sagen Sie es.** Zeigen Sie auf eine Tasse, halten Sie zwei Auswahlmöglichkeiten hoch oder nutzen Sie ein vertrautes Foto oder einen vertrauten Gegenstand. Eine Geste kann helfen, wenn das richtige Wort schwer zu finden ist.
+- **Warten Sie.** Geben Sie der Person Zeit zuzuhören und zu antworten. Beenden Sie nicht jeden Satz und wiederholen Sie die Frage nicht in mehreren Sprachen auf einmal.
+- **Bleiben Sie bei einem Gedanken nach dem anderen.** Eine lange Erklärung kann in jeder Sprache schwierig sein. Verwenden Sie einen kurzen Satz, machen Sie eine Pause und schauen Sie dann, ob die Person mehr hören möchte.
+- **Achten Sie auf Hören und Sehen.** Brille, Hörgeräte, gute Beleuchtung und eine ruhige Umgebung können es erleichtern, Sprache zu verstehen.
 
-Möchte die Person lieber lesen, fragen Sie, ob wichtige schriftliche Informationen in ihrer Sprache vorliegen. Verlassen Sie sich bei einer medizinischen Entscheidung, einer Einwilligung oder einer Medikamentenanweisung nicht auf eine automatische Übersetzung; bestätigen Sie wichtige Angaben bei der Pflegestelle.
+Wenn die Person lieber liest, fragen Sie, ob wichtige schriftliche Informationen in ihrer Sprache verfügbar sind. Verlassen Sie sich bei medizinischen Entscheidungen, Einwilligungen oder Anweisungen zu Medikamenten nicht auf eine automatische Übersetzung; klären Sie wichtige Informationen mit dem Gesundheitsanbieter ab.
 
-## Was tun, wenn ich die bevorzugte Sprache der Person nicht spreche?
+## Was, wenn ich die von der Person bevorzugte Sprache nicht spreche?
 
-Fragen Sie, ob sie eine vertraute zweisprachige Freundin, einen Freund oder einen Angehörigen bei einem alltäglichen Gespräch dabeihaben möchte. Nehmen Sie nicht an, dass die Person möchte, dass jemand anderes übersetzt; sie bevorzugt vielleicht Gesten, Bilder oder eine andere Sprache, die Sie beide teilen.
+Fragen Sie, ob eine vertraute zweisprachige Freundin, ein vertrauter zweisprachiger Freund oder ein Angehöriger bei einem alltäglichen Gespräch dabei sein soll. Gehen Sie nicht davon aus, dass die Person möchte, dass jemand anderes dolmetscht; sie bevorzugt vielleicht Gesten, Bilder oder eine andere Sprache, die beide teilen.
 
-Für einen medizinischen Termin oder ein anderes Gespräch, das genaue Angaben braucht, rufen Sie die Praxis oder den Pflegedienst vorab an. Teilen Sie die bevorzugte Sprache der Person mit und fragen Sie, welche Dolmetschunterstützung verfügbar ist. Das [US-Gesundheitsministerium (HHS) erklärt](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html), dass Familie und Freunde wichtige medizinische Angaben möglicherweise nicht genau übersetzen können; der Dienst kann seine Möglichkeiten und die örtlichen Vorgaben erklären. Die Person kann entscheiden, ob eine Begleitperson mitkommt, während die Praxis die nötige Sprachunterstützung organisiert.
+Bei einem Arzttermin oder einem anderen Gespräch, bei dem genaue Informationen wichtig sind, rufen Sie die Praxis oder den Pflegedienst im Voraus an. Teilen Sie die bevorzugte Sprache der Person mit und fragen Sie, welche Sprachunterstützung verfügbar ist. Das [U.S. Department of Health and Human Services erklärt](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html), dass Familie und Freunde wichtige medizinische Informationen möglicherweise nicht genau wiedergeben können; der Dienst kann die verfügbaren Möglichkeiten und örtlichen Vorgaben erläutern. Die Person kann entscheiden, ob eine begleitende Person dabei ist, während der Anbieter eine nötige Sprachunterstützung organisiert.
 
-Während des Termins sprechen Sie die Person direkt an und geben der dolmetschenden Person Zeit zu sprechen. Achten Sie darauf, dass die Person die Frage verstanden hat und in eigenen Worten antworten kann. Unterstützen Sie sie, aber ergänzen Sie nur dann Zusammenhänge, wenn sie das möchte.
+Sprechen Sie während des Termins die Person direkt an und lassen Sie Zeit, damit die dolmetschende Person sprechen kann. Prüfen Sie, ob die Person die Frage versteht und die Möglichkeit hat, mit ihren eigenen Worten zu antworten. Wenn Sie die Person begleiten, ergänzen Sie Informationen nur dann, wenn sie das möchte.
 
 ## Wann sollte ich ärztlichen Rat einholen?
 
-Sprachschwierigkeiten können sich über die Zeit verändern, eine plötzliche Veränderung ist aber etwas anderes. Der [NHS rät, sofort medizinische Hilfe zu holen, wenn jemand plötzlich verwirrt wird](https://www.nhs.uk/symptoms/confusion/). Nehmen Sie nicht an, dass ein plötzlicher Verlust der Verständigung einfach zur Demenz gehört. Wird die Person plötzlich verwirrt, sehr krank oder ist sie schwer zu wecken, wenden Sie sich an die örtlichen medizinischen Notdienste.
+Sprachschwierigkeiten können sich mit der Zeit verändern, aber eine plötzliche Veränderung ist etwas anderes. Der [NHS rät, sofort medizinische Hilfe zu holen, wenn jemand plötzlich verwirrt wird](https://www.nhs.uk/symptoms/confusion/). Gehen Sie nicht davon aus, dass ein plötzlicher Verlust der Kommunikationsfähigkeit einfach Teil der Demenz ist. Wenn die Person plötzlich verwirrt wirkt, sich sehr unwohl fühlt oder schwer aufzuwecken ist, kontaktieren Sie die örtlichen medizinischen Notdienste.
 
-Bei schleichenden Veränderungen notieren Sie, was Ihnen auffällt, und fragen Sie die behandelnde Fachperson um Rat. Halten Sie fest, welche Sprache die Person verwendet hat, was ihr beim Verständigen geholfen hat und ob sie müde oder krank war. Das ist eine Beschreibung für ein Gespräch, keine Diagnose. Unser [Ratgeber zum Arztbesuch](/caregiving/doctor-visit-with-dementia/) hilft bei der Vorbereitung der Fragen.
+Bei allmählichen Veränderungen notieren Sie, was Ihnen auffällt, und fragen Sie die behandelnde medizinische Fachperson der Person um Rat. Halten Sie fest, welche Sprache verwendet wurde, was bei der Kommunikation geholfen hat und ob die Person müde oder unwohl war. Das ist eine Beschreibung für ein Gespräch, keine Diagnose. Unser [Leitfaden für den Arztbesuch](/caregiving/doctor-visit-with-dementia/) kann Ihnen bei der Vorbereitung von Fragen helfen.
 
-## Was kann ich anderen Helfenden mitteilen?
+## Was kann ich anderen helfenden Personen mitteilen?
 
-Halten Sie mit Einverständnis der Person eine kurze Notiz für Menschen bereit, die sie einbeziehen möchte. Sie kann die Sprache oder den Dialekt nennen, die oder der zum Sprechen und Lesen bevorzugt wird, vertraute Wörter oder Namen und was ihr hilft, einem Gespräch zu folgen. Fragen Sie, ob bestimmte Personen zu Terminen oder zu Pflegeneuigkeiten eingeladen werden sollen. Vermeiden Sie es, private Angaben festzuhalten, die für die Unterstützung nicht gebraucht werden, und sagen Sie der Person, wer die Notiz sehen kann. Eine Sprachnotiz hilft, ein Gespräch entspannter zu beginnen; sie ersetzt aber keine Dolmetschung bei einem komplexen Gesundheitsgespräch.
+Erstellen Sie mit Zustimmung der Person eine kurze Notiz für Menschen, die sie einbeziehen möchte. Darin können die Sprache oder der Dialekt stehen, den sie zum Sprechen und Lesen bevorzugt, vertraute Wörter oder Namen und was ihr hilft, einem Gespräch zu folgen. Fragen Sie, ob sie bestimmte Personen bei Terminen oder bei Informationen zur Unterstützung dabeihaben möchte. Vermeiden Sie es, persönliche Details festzuhalten, die für die Unterstützung nicht nötig sind, und sagen Sie der Person, wer die Notiz sehen kann. Eine Sprachnotiz hilft Menschen, ein Gespräch angenehmer zu beginnen; sie ersetzt keine Sprachmittlung bei einem komplexen gesundheitlichen Gespräch.
 
-## Wie unterstütze ich die Entscheidungen der Person?
+## Wie kann ich die Entscheidungen der Person unterstützen?
 
-Sprache ist ein Teil davon, wie ein Mensch Kontakt hält, aber nicht alles, was er ist. Fragen Sie nach Alltag, Interessen, Lesevorlieben und den Menschen, die er dabeihaben möchte. Wenn die Person einverstanden ist, schreiben Sie hilfreiche Wörter oder Redewendungen für andere Unterstützende auf und erklären Sie, wie man sie verwendet. Halten Sie Notizen privat und teilen Sie nur, was die Person zu teilen erlaubt hat.
+Sprache ist ein Teil davon, wie ein Mensch Verbindung aufnimmt, aber sie macht nicht den ganzen Menschen aus. Fragen Sie nach Gewohnheiten, Interessen, Lesevorlieben und den Menschen, die einbezogen werden sollen. Wenn die Person einverstanden ist, schreiben Sie hilfreiche Wörter oder Sätze für andere unterstützende Personen auf und erklären Sie, wie sie verwendet werden können. Bewahren Sie Notizen vertraulich auf und teilen Sie nur das, wozu die Person zugestimmt hat.
 
-Verlangen Sie nicht, dass die Person übt, für andere übersetzt oder beweist, was sie versteht. Manche Gespräche gelingen in der einen Sprache leichter, andere in einer anderen. Wohlbefinden, Privatsphäre und Wahlfreiheit der Person sind wichtiger als das Festhalten an einer einzigen Sprache.
+Bestehen Sie nicht darauf, dass die Person übt, für andere übersetzt oder beweist, was sie versteht. Manche Gespräche sind in der einen Sprache vielleicht leichter und andere in einer anderen Sprache. Das Wohlbefinden, die Privatsphäre und die Entscheidungen der Person sind wichtiger, als bei einer einzigen Sprache zu bleiben.
 
-Unsere [Tipps zur Verständigung](/caregiving/communication-tips/) erklären, wie man einfach spricht, zuhört und Bilder nutzt. Hilfe bei der Planung nach der Diagnose finden Sie unter [Erste Schritte nach einer Demenz-Diagnose](/caregiving/after-dementia-diagnosis/).
+Unsere [Tipps zur Kommunikation](/caregiving/communication-tips/) behandeln einfaches Sprechen, Zuhören und den Einsatz von Bildern. Hilfe bei der Planung nach einer Diagnose finden Sie unter [Erste Schritte nach einer Demenzdiagnose](/caregiving/after-dementia-diagnosis/).

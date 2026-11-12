@@ -1,30 +1,30 @@
 ---
-title: "Demans olan şəxs üçün yaşayış qayğısının seçilməsi"
-seoTitle: "Demans qayğısını seçmək: nə soruşmaq və nəyə baxmaq"
-description: "Demans qayğısını şəxsin ehtiyaclarına, personalın yanaşmasına, gündəlik həyatına və xərclərinə görə müqayisə edin. Qərarlara istədiyi qədər cəlb edin."
+title: "Demensiya üçün yaşayış qayğısı seçimi"
+seoTitle: "Demensiya qayğısı: Nələrə baxmalı və nə soruşmalı"
+description: "Yaşayış qayğısını ehtiyaclara, işçi yanaşmasına, gündəlik həyata və xərclərə görə müqayisə edin. İstəsələr, şəxsi ziyarət və qərarlara daxil edin."
 section: caregiving
 order: 25
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Şəxsin qayğı ehtiyaclarından, üstünlüklərindən və tanış insanlarla və adi
-  rejimlə əlaqəsini qorumaq istəyindən başlayın. Mümkün olan evləri ziyarət
-  edin, personalın təlimi, qayğı planlaşdırılması, fəaliyyətlər və xərclər
-  haqqında soruşun və qərarlara istədiyi qədər şəxsi cəlb edin.
+  Qayğı göstərdiyiniz şəxsin qayğı ehtiyaclarından, seçimlərindən və tanış
+  insanlarla, gündəlik vərdişlərlə əlaqəni saxlamaq istəyindən başlayın. Mümkün
+  evləri ziyarət edin, işçilərin hazırlığı, qayğı planlaması, fəaliyyətlər və
+  xərclər haqqında soruşun və şəxsi istədiyi qədər qərarlara daxil edin.
 keyPoints:
-  - "Yaşayış qayğısının nə vaxt doğru olduğuna dair vahid qayda yoxdur."
-  - "Evləri müqayisə etməzdən əvvəl şəxsin ehtiyaclarını və üstünlüklərini siyahıya alın."
-  - "Müxtəlif vaxtlarda ziyarət edin və personalın sakinlərlə necə davrandığına diqqət yetirin."
+  - "Yaşayış qayğısının nə vaxt uyğun olduğu barədə tək bir qayda yoxdur."
+  - "Evləri müqayisə etməzdən əvvəl şəxsin ehtiyac və seçimlərini yazın."
+  - "Müxtəlif vaxtlarda ziyarət edin və işçilərlə sakinlərin ünsiyyətinə diqqət edin."
   - "Xidmətlər, ödənişlər və gələcək qayğı ehtiyacları haqqında aydın yazılı məlumat istəyin."
 faq:
-  - q: "Demans olan şəxs üçün yaşayış qayğısını nə vaxt düşünmək lazımdır?"
-    a: "Şəxsin indiki dəstəyinin ehtiyaclarını ödəyib-ödəmədiyinə və evdə yaşamağın onun və qayğıkeşləri üçün hələ də mümkün olub-olmadığına baxın. Şəxslə və onun səhiyyə və ya sosial qayğı komandası ilə danışın; hər ailə üçün qərar verəcək vahid mərhələ və ya siyahı yoxdur."
-  - q: "Demans olan şəxs yaddaş qayğısı bölməsinə köçməlidir?"
-    a: "Hamıya demansa xüsusi bölmə lazım deyil. Şəxsin hansı dəstəyə ehtiyacı olduğunu və hər evin nə təklif etdiyini soruşun: personalın təlimi, fəaliyyətlər, məxfilik və ailənin iştirakı daxil olmaqla."
-  - q: "Yaşayış qayğı evindən nə soruşmalıyam?"
-    a: "Demans təlimi, personalın olması, şəxsi qayğı, fəaliyyətlər, ailə ilə ünsiyyət, ziyarətlər və qayğının necə nəzərdən keçirildiyi haqqında soruşun. Xidmətlər, ödənişlər və ehtiyaclar dəyişdikcə dəstəyin necə dəyişə biləcəyi barədə yazılı məlumat istəyin."
-  - q: "Köçməyə necə alışmasına kömək edə bilərəm?"
-    a: "Şəxsi istədiyi qədər seçimlərə cəlb edin. Tanış əşyalarını gətirin və personalın bilməsini istədiyiniz adət, üstünlük və ünsiyyət üsullarını bölüşün. Köçdükdən sonra da personalla işləməyə davam edin."
+  - q: "Demensiya ilə yaşayan biri üçün yaşayış qayğısını nə vaxt düşünməliyəm?"
+    a: "Şəxsin hazırkı dəstəyinin ehtiyaclarını qarşılayıb-qurğəlamadığını və evdə yaşamağın onun və ona dəstək olanlar üçün hələ də əlverişli olub-olmadığını düşünün. Bu barədə şəxslə və onun sağlamlıq və ya sosial qayğı komandası ilə danışın; hər ailə üçün qərar verən tək bir mərhələ və ya siyahı yoxdur."
+  - q: "Demensiya ilə yaşayan biri yaddaş qayğısı bölməsinə köçməlidirmi?"
+    a: "Hər kəsə demensiyaya yönəlmiş ayrıca bölmə lazım deyil. Şəxsin hansı dəstəyə ehtiyacı olduğunu və hər evin nə təklif etdiyini, o cümlədən işçilərin hazırlığını, fəaliyyətləri, məxfiliyi və ailənin iştirakını soruşun."
+  - q: "Yaşayış qayğısı evi haqqında nə soruşmalıyam?"
+    a: "Demensiya üzrə hazırlıq, işçilərin əlçatanlığı, şəxsi qayğı, fəaliyyətlər, ailə ilə əlaqə, ziyarətlər və qayğının necə yenidən nəzərdən keçirildiyi haqqında soruşun. Xidmətlər, ödənişlər və ehtiyaclar dəyişdikcə dəstəyin necə dəyişə biləcəyi barədə yazılı məlumat istəyin."
+  - q: "Köçmə zamanı birinə uyğunlaşmaqda necə kömək edə bilərəm?"
+    a: "Şəxsi istədiyi qədər seçimlərə daxil edin. Tanış əşyalar gətirin və işçilərin bilməsini istədiyi gündəlik vərdişləri, seçimləri və ünsiyyət üsullarını paylaşın. Köçdükdən sonra da işçilərlə əməkdaşlığı davam etdirin."
 sources:
   - title: "Long-Term Care"
     publisher: "Alzheimer's Association"
@@ -43,58 +43,58 @@ related: [caregiving/choosing-in-home-dementia-care, caregiving/living-alone-wit
 health: true
 ---
 
-Yaşayış qayğısını düşünmək eyni vaxtda rahatlıq, kədər, qeyri-müəyyənlik və ya bir neçə hiss gətirə bilər. Qərar şəxsin ehtiyaclarına və üstünlüklərinə uyğun dəstək tapmaqla bağlıdır. Bu, ailənin nə qədər qayğı göstərdiyinin sınağı və ya hamının eyni vaxtda çatdığı sabit bir addım deyil.
+Yaşayış qayğısını düşünmək rahatlıq, kədər, qeyri-müəyyənlik və ya bir neçə hissi eyni anda yarada bilər. Bu qərar şəxsin ehtiyaclarına və seçimlərinə uyğun dəstək tapmaq haqqındadır. Bu, ailənin nə qədər qayğı göstərdiyini ölçən bir sınaq və ya hər kəsin eyni vaxtda gəldiyi sabit bir addım deyil.
 
-[Alzheimer Assosiasiyasının uzunmüddətli qayğı üzrə təlimatı](https://www.alz.org/help-support/caregiving/care-options/long-term-care), onun [yaşayış qayğısı üzrə yoxlama siyahısı](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) və [Dementia Australia-nın yaşayış qayğısı üzrə tövsiyələri](https://www.dementia.org.au/living-dementia/care-options/residential-care) şəxsin ehtiyaclarına, personala, fəaliyyətlərə, mühitə və xərclərə baxmağı tövsiyə edir. Bu səhifə konkret bir evi tövsiyə etmir və yerli peşəkar, maliyyə məsləhətini əvəz etmir.
+[Alzheimer's Association-ın uzunmüddətli qayğıya dair bələdçisi](https://www.alz.org/help-support/caregiving/care-options/long-term-care), onun [yaşayış qayğısı üçün yoxlama siyahısı](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) və [Dementia Australia-nın yaşayış qayğısı üzrə tövsiyələri](https://www.dementia.org.au/living-dementia/care-options/residential-care) şəxsin ehtiyaclarına, işçilərə, fəaliyyətlərə, mühitə və xərclərə baxmağı tövsiyə edir. Bu səhifə müəyyən bir evi tövsiyə etmir və yerli peşəkar və ya maliyyə məsləhətinin yerini tutmur.
 
-## Yaşayış qayğısının araşdırmağa dəyər olub-olmadığını necə anlaya bilərəm?
+## Yaşayış qayğısını düşünməyə dəyərmi, bunu necə anlaya bilərəm?
 
-Şəxsin indi hansı dəstəyə ehtiyacı olduğuna və bu dəstəyin evdə təmin oluna biləcəyinə baxın. Şəxsin təhlükəsizliyini, gündəlik qayğı ehtiyaclarını, sosial həyatını və üstünlüklərini nəzərə alın. Həmçinin qayğı tələblərinin şəxsin və ona kömək edənlərin sağlamlığına təsir edib-etmədiyinə baxın.
+Şəxsin hazırda hansı dəstəyə ehtiyacı olduğuna və bu dəstəyin evdə göstərilib-göstərilə bilməyəcəyinə baxın. Şəxsin təhlükəsizliyini, gündəlik qayğı ehtiyaclarını, sosial həyatını və seçimlərini nəzərə alın. Həmçinin qayğı göstərmə tələblərinin şəxsin və ya ona dəstək olan insanların sağlamlığına təsir edib-etmədiyini düşünün.
 
-Kimin nə vaxt köçməli olduğunu müəyyən edən vahid mərhələ və ya siyahı yoxdur. Şəxs icma tipli mühiti üstün tuta bilər, ya da evdə əlavə kömək ilə qalmaq istəyə bilər. Şəxslə, lazım gələrsə, onun həkimi, sosial işçisi və ya qayğı koordinatoru ilə danışın. Köçməyə qərar verməzdən əvvəl hansı dəstək növlərinin uyğun ola biləcəyini soruşun.
+Kimin nə vaxt köçməli olduğuna qərar verən tək bir mərhələ və ya siyahı yoxdur. Bəzi insanlar icma mühitini üstün tuta bilər, bəziləri isə əlavə köməklə evdə qalmaq istəyə bilər. Bu barədə şəxslə və lazım gələrsə, onun həkimi, sosial işçisi və ya qayğı əlaqələndiricisi ilə danışın. Köçmə barədə qərar verməzdən əvvəl hansı dəstək növlərinin uyğun ola biləcəyini soruşun.
 
-Şəxsi istədiyi qədər qərarlara cəlb edin. Onun üçün nəyin vacib olduğunu soruşun: yer, yemək, dil, mədəniyyət, dini təcrübə, tanış fəaliyyətlər və ailə və dostların ziyarətləri. Onun üstünlükləri, bəzi qayğı ehtiyacları dəyişsə belə, siyahını daraltmağa kömək edə bilər.
+Şəxsi istədiyi qədər qərarlara daxil edin. Onun üçün nəyin önəmli olduğunu soruşun: yer, yeməklər, dil, mədəniyyət, dini vərdişlər, tanış fəaliyyətlər və ya ailə və dostların ziyarətləri. Bəzi qayğı ehtiyacları dəyişsə belə, şəxsin seçimləri siyahını daraltmağa kömək edə bilər.
 
 ## Evləri ziyarət etməzdən əvvəl nəyi öyrənməliyəm?
 
-Əvvəlcə şəxsin ehtiyac duyduğu dəstəyin qısa siyahısını hazırlayın. Buraya gündəlik fəaliyyətlərdə kömək, tibbi baxış, sosial əlaqə, tanış dil və ya çöldə vaxt keçirmək üçün yer daxil ola bilər. Əmin deyilsinizsə, hansı xidmətlərin lazım ola biləcəyini səhiyyə və ya sosial qayğı mütəxəssisindən soruşun.
+Əvvəlcə şəxsin ehtiyac duyduğu dəstəyi qısaca yazın. Buraya gündəlik işlərdə kömək, tibb bacısı dəstəyi, sosial əlaqə, tanış dil və ya açıq havada vaxt keçirmək üçün yer daxil ola bilər. Hansı xidmətlərin lazım ola biləcəyindən əmin deyilsinizsə, sağlamlıq və ya sosial qayğı üzrə mütəxəssisdən soruşun.
 
-Ziyarətdən əvvəl evlərə zəng edin. Şəxsin ehtiyaclarını ödəyə biləcəklərini, otaq olub-olmadığını, növbəti addımların nə olduğunu və sizdən hansı məlumata ehtiyac duyduqlarını soruşun. Xidmətlər və ödənişlər haqqında yazılı məlumat istəyin. Uyğunluq, maliyyələşmə və lisenziya qaydaları yerdən yerə dəyişir, ona görə ümumi bir məqaləyə deyil, yerli mənbələrə etibar edin.
+Ziyarətdən əvvəl evlərlə əlaqə saxlayın. Şəxsin ehtiyaclarını qarşılaya bilib-bilmədiklərini, otağın mövcud olub-olmadığını, növbəti addımların nələr olduğunu və sizdən hansı məlumatların lazım olduğunu soruşun. Xidmətlər və ödənişlər haqqında yazılı məlumat istəyin. Uyğunluq, maliyyələşmə və lisenziya qaydaları yerə görə dəyişir, buna görə ümumi məqaləyə güvənməkdənsə, yerli mənbələri yoxlayın.
 
-Personalın demans qayğısı üzrə təlim alıb-almadığını, qayğı planlarının necə hazırlandığını və ailələrin yeniliklər haqqında necə məlumat ala biləcəyini soruşun. Gündəlik rejimin necə işlədiyini, hansı fəaliyyətlərin təklif olunduğunu və sakinlərin seçim etmələrinə necə kömək edildiyini öyrənin. Yaddaş qayğısı bölməsi bir variantdır, amma hamıya lazım deyil; hər yerin real dəstəyini müqayisə edin.
+İşçilərin demensiya qayğısı üzrə hazırlığı olub-olmadığını, qayğı planlarının necə hazırlandığını və ailələrin yenilikləri necə paylaşa bildiyini soruşun. Gündəlik vərdişlərin necə qurulduğunu, hansı fəaliyyətlərin təklif olunduğunu və sakinlərin seçim etməsinə necə dəstək verildiyini öyrənin. Yaddaş qayğısı bölməsi bir seçimdir, amma hər kəsə lazım deyil; hər yerin verdiyi real dəstəyi müqayisə edin.
 
-## Ziyarət zamanı nəyə diqqət etməliyəm?
+## Ziyarət zamanı nələrə diqqət etməliyəm?
 
-Mümkünsə, birdən çox evi ziyarət edin. İlkin gəzinti üçün görüş təyin edin, sonra başqa vaxtda və ya yemək zamanı yenidən gəlməyə icazə istəyin. İkinci ziyarət adi rejimi daha yaxşı göstərə bilər və digər personalla tanış olmağa imkan verər.
+Mümkünsə, bir neçə evi ziyarət edin. İlk baxış üçün görüş təyin edin, sonra fərqli vaxtda və ya yemək zamanı yenidən gəlib-gəlməyəcəyinizi soruşun. İkinci ziyarət adi gündəlik rejimi daha yaxşı göstərir və başqa işçilərlə tanış olmağa imkan verir.
 
-Personalın sakinlərlə necə danışdığına diqqət edin. İnsanlara hörmətlə müraciət edirlərmi, cavab vermək üçün vaxt verirlərmi və adi seçimlərdə onları iştirak etdirirlərmi? Sakinlər rahat görünürlərmi və maraqlarına və bacarıqlarına uyğun işləri varmı? Fəaliyyət cədvəllərinə, yemək otaqlarına, açıq məkanlara və şəxsi yerlərə baxa biləcəyinizi soruşun.
+İşçilərin sakinlərlə necə danışdığına diqqət edin. İnsanlara hörmətlə müraciət edirlərmi, cavab vermək üçün vaxt ayırırlar və onları adi seçimlərə daxil edirlərmi? Sakinlər rahat görünürmü və onların maraq və bacarıqlarına uyğun məşğuliyyətləri varmı? Fəaliyyət cədvəllərini, yemək sahələrini, açıq məkanları və şəxsi sahələri görüb-görə bilməyəcəyinizi soruşun.
 
-Bu şəxs üçün vacib olan detallara baxın: asan başa düşülən işarələr, tualetə aydın yollar, tanış əşyalar, sakit yerlər, dil və mədəni dəstək və sevdiklərini görmək imkanları. Təmiz və gözəl qəbul zalının özü gündəlik qayğının necə işlədiyini göstərmir.
+Bu şəxs üçün önəmli detallara baxın: başa düşülməsi asan işarələr, tualetə aydın yollar, tanış əşyalar, sakit yerlər, dil və mədəni dəstək, həmçinin sevdikləri insanlarla görüş imkanı. Təkcə səliqəli giriş zalı gündəlik qayğının necə olduğunu göstərmir.
 
-Əgər kömək edərsə, sualları yadda saxlamaq və sonra təəssüratları müqayisə etmək üçün etibar etdiyiniz dostu və ya qohumu özünüzlə aparın. Gördüklərinizi qeyd etmək üçün [Alzheimer Assosiasiyasının yoxlama siyahısından](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) istifadə edə bilərsiniz. Qeydlərinizi müzakirə üçün işarə kimi saxlayın, evi sizin yerinizə seçən bir bal kimi yox.
+Sualları yadda saxlamaq və sonradan təəssüratları müqayisə etmək üçün kömək edəcəksə, etibarlı bir dost və ya qohumunuzla gedin. Gördüklərinizi qeyd etmək üçün [Alzheimer's Association-ın yoxlama siyahısından](https://www.alz.org/getmedia/2f238875-3f5d-447e-adcc-dd9fc07f828b/alzheimers-dementia-choosing-residential-care-ts.pdf) istifadə edə bilərsiniz. Qeydlərinizə evi sizin yerinizə seçən bir xal kimi deyil, söhbət üçün əsas kimi baxın.
 
-## Qayğını müqayisə etmək üçün hansı suallar kömək edir?
+## Qayğını müqayisə etmək üçün hansı suallar faydalıdır?
 
-Gün ərzində fərqli vaxtlarda personalın necə bölündüyünü, personalın şəxsin adətlərini necə öyrəndiyini və ehtiyaclar dəyişəndə nə olduğunu soruşun. Qayğı planlarını kimin nəzərdən keçirdiyini və ailənin narahatlığını necə bildirə biləcəyini soruşun. Əgər şəxs yemək, şəxsi qayğı və ya ünsiyyətdə kömək istəyirsə, bu dəstəyin praktikada necə göründüyünü soruşun.
+Günün müxtəlif vaxtlarında işçi təminatının necə qurulduğunu, işçilərin şəxsin gündəlik vərdişlərini necə öyrəndiyini və ehtiyaclar dəyişəndə nə baş verdiyini soruşun. Qayğı planlarını kimin yenidən nəzərdən keçirdiyini və ailənin narahatlığını necə bildirə biləcəyini öyrənin. Şəxsin yemək, şəxsi qayğı və ya ünsiyyət üçün köməyə ehtiyacı varsa, bu dəstəyin gündəlik həyatda necə göründüyünü soruşun.
 
-Ailə ziyarətləri, gəzintilər, tibbi görüşlər, fəaliyyətlər və şəxsin tanış əşyaları gətirə bilmə imkanı haqqında soruşun. Əgər evdə demansa yönəlmiş proqram varsa, bu proqramın hansı təlimi, fəaliyyətləri və gündəlik dəstəyi əhatə etdiyini soruşun. Yalnız proqramın adına deyil, sakinlərin seçimlərə necə cəlb olunduğuna dair nümunələr istəyin.
+Ailə ziyarətləri, gəzintilər, tibbi görüşlər, fəaliyyətlər və şəxsin tanış əşyalar gətirmə imkanı haqqında soruşun. Əgər evdə demensiyaya yönəlmiş proqram varsa, bu proqramın hansı hazırlığı, fəaliyyətləri və gündəlik dəstəyi əhatə etdiyini öyrənin. Sakinlərin seçimlərə necə daxil edildiyinə dair nümunələr istəyin və yalnız proqramın adına güvənməyin.
 
-Ödənişlərin hər bir hissəsinin ayrıca təsvirini, nəyin daxil olduğunu və ödənişlərin necə dəyişə biləcəyini istəyin. Müqavilələri diqqətlə oxuyun və maliyyə və ya hüquqi şərtlər aydın deyilsə, yerli peşəkar məsləhət alın. Başqa region və ya ölkədən olan məlumata əsaslanaraq bir xidmətin əhatə olunduğunu və ya mövcud olduğunu fərz etməyin.
+Ödənişlərin maddə-maddə təsvirini, nəyin daxil olduğunu və ödənişlərin necə dəyişə biləcəyini soruşun. Razılaşmaları diqqətlə oxuyun və maliyyə və ya hüquqi şərtlər aydın deyilsə, yerli ixtisaslı məsləhət alın. Başqa bölgə və ya ölkədən alınan məlumatlara əsaslanaraq bir xidmətin daxil edildiyini və ya mövcud olduğunu güman etməyin.
 
-Əgər şəxsin kimliyi, münasibətləri və ya məxfiliyi əlavə diqqət tələb edirsə, [LGBTQ+ şəxsə demans zamanı dəstək verilməsi haqqında bələdçiyə](/caregiving/supporting-lgbtq-person-with-dementia/) baxın. Orada istifadə olunan adlar, ziyarətçilər, şəxsi qayğı və xidmət göstərənlərin qaydaları haqqında suallar var.
+Şəxsin kimliyi, münasibətləri və ya məxfiliyi əlavə diqqət tələb edirsə, [LGBTQ+ demensiya ilə yaşayan birinə dəstək haqqında bələdçimizə](/caregiving/supporting-lgbtq-person-with-dementia/) baxın. Orada üstün tutulan adlar, ziyarətçilər, şəxsi qayğı və qurumların qaydaları haqqında suallar var.
 
-## Köçməkdə necə kömək edə bilərəm?
+## Köçmə zamanı necə kömək edə bilərəm?
 
-Şəxsi istədiyi qədər seçimlərə cəlb edin. Evi ziyarət etmək, orada yemək və ya qısa müvəqqəti qalma bəzi insanlara mühitə tanış olmağa kömək edə bilər, əgər mövcuddursa və onun üçün məqbuldursa. Şəxs otağa gətirmək üçün bir əşya, geyim və ya adət seçmək istəyə bilər.
+Şəxsi istədiyi qədər seçimlərə daxil edin. Mümkünsə və şəxs razıdırsa, evi ziyarət etmək, orada yemək yemək və ya qısa müddətli fasilə qalışı bəzi insanlar üçün mühitə öyrəşməyə kömək edə bilər. Şəxs özü ilə aparmaq üçün otaq əşyası, geyim və ya gündəlik vərdiş seçmək istəyə bilər.
 
-Şəxsin razılığı ilə personalla faydalı məlumatları bölüşün. Buraya onun istədiyi ad, ünsiyyət tərzi, gündəlik adətlər, sevdiyi yeməklər, sevdiyi fəaliyyətlər və onu rahat hiss etdirən şeylər daxil ola bilər. Məlumatı qısa və qayğıya yönəlmiş saxlayın. Onunla bağlı söhbətlərdə şəxs iştirakçı olaraq qalmalıdır.
+Şəxsin razılığı ilə işçilərlə faydalı məlumat paylaşın. Buraya üstün tutduğu ad, ünsiyyət tərzi, gündəlik vərdişlər, sevdiyi yeməklər, xoşladığı fəaliyyətlər və onu sakitləşdirən üsullar daxil ola bilər. Məlumatı qısa saxlayın və qayğıya yönəldin. Şəxs özü haqqında aparılan söhbətlərin bir hissəsi olmalıdır.
 
-Ev icazə verirsə, tanış əşyalar gətirin. Personaldan soruşun ki, otaq hərəkət etməyi çətinləşdirmədən necə tanış hiss etdirə bilər. Fotoşəkil, sevimli yorğan və ya tanış saat bütün evi yenidən yaratmaqdan daha vacib ola bilər.
+Ev icazə verirsə, tanış əşyalar gətirin. İşçilərdən şəxsin otağının hərəkəti çətinləşdirmədən necə tanış görünə biləcəyini soruşun. Bir fotoşəkil, sevimli yorğan və ya tanış saat bəzən bütün evi yenidən yaratmaqdan daha önəmli ola bilər.
 
 ## Köçdükdən sonra necə iştirak etməyə davam edə bilərəm?
 
-Personalla birlikdə yeniliklərin necə bölüşüldüyünü və kimlə əlaqə saxlamaq lazım olduğunu öyrənin. Şəxsdən ziyarətlər və fəaliyyətlər barədə nə hiss etdiyini soruşun. Bəziləri qısa, tez-tez ziyarətləri istəyə bilər; digərləri özlərini yerləşdirmək üçün vaxt istəyə bilər. Onun üçün nəyin rahat olduğuna diqqət edin və birlikdə tənzimləyin.
+Yeniliklərin necə paylaşıldığını və kiminlə əlaqə saxlamalı olduğunuzu öyrənmək üçün işçilərlə işləyin. Şəxsdən ziyarətlər və fəaliyyətlər barədə necə hiss etdiyini soruşun. Bəzi insanlar tez-tez qısa ziyarətlər istəyə bilər, bəziləri isə öyrəşmək üçün vaxt istəyə bilər. Onun üçün nəyin rahat göründüyünə diqqət edin və birlikdə uyğunlaşın.
 
-Qayğı ehtiyacları və üstünlükləri dəyişə bilər. Qayğı planını şəxslə və personalla birlikdə nəzərdən keçirin, aydın olmayan şeylər barədə suallar verin və kömək edə biləcək yeni məlumatları bölüşün. Əgər şəxs qəfildən çaşqın olarsa və ya xeyli pis hiss edərsə, qayğı komandasına dərhal xəbər verin; [NHS-in](https://www.nhs.uk/symptoms/confusion/) göstərdiyinə görə qəfil çaşqınlıq dərhal tibbi diqqət tələb edir.
+Qayğı ehtiyacları və seçimlər dəyişə bilər. Qayğı planını şəxslə və işçilərlə birlikdə yenidən nəzərdən keçirin, bir şey aydın olmayanda suallar verin və faydalı ola biləcək yeni məlumatları paylaşın. Şəxs qəfil çaşqınlıq yaşayırsa və ya vəziyyəti nəzərəçarpacaq dərəcədə pisləşirsə, dərhal qayğı komandasına bildirin; [NHS](https://www.nhs.uk/symptoms/confusion/)-ə görə qəfil çaşqınlıq dərhal tibbi diqqət tələb edir.
 
-Yaşayış evi seçmək ciddi qərardır və ilk seçim ən uyğun olmaya bilər. Məlumat toplayın, şəxsi cəlb edin, gündəlik qayğı haqqında soruşun və köçdükdən sonra da ünsiyyəti açıq saxlayın.
+Ev seçimi ciddi qərardır və ilk seçim həmişə ən uyğun seçim olaraq qalmaya bilər. Məlumat toplayın, şəxsi daxil edin, gündəlik qayğı haqqında soruşun və köçdükdən sonra da əlaqəni açıq saxlayın.

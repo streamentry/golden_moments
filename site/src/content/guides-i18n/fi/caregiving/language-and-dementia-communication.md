@@ -1,32 +1,33 @@
 ---
-title: "Monikielinen viestintä dementiahoidossa"
-seoTitle: "Dementia ja kieli: tukea useilla kielillä"
-description: "Tukekaa monikielistä dementiaa sairastavaa kysymällä hänen kielivalintaansa, käyttämällä tuttuja vihjeitä ja järjestämällä kielitukea lääkärikäynneille."
+title: "Monikielisen viestinnän tukeminen muistisairauden kanssa"
+seoTitle: "Muistisairaus ja kieli: tukea eri kielillä"
+description: "Tue muistisairautta sairastavaa monikielistä henkilöä kysymällä kielitoiveesta, käyttämällä tuttuja vihjeitä ja selvittämällä tulkkausapu ajanvarauksiin."
 section: caregiving
 order: 41
 updated: 2026-11-12
 translatedFrom: 2026-11-12
 summary: >-
-  Kysykää, mitä kieltä ihminen haluaa käyttää. Jotkut monikieliset dementiaa sairastavat voivat
-  käyttää aiemmin opittua kieltä, mutta tilanne vaihtelee. Käyttäkää tuttuja sanoja ja eleitä ja
-  kysykää terveyspalveluista, mitä tulkkipalvelua käynteihin on saatavilla.
+  Kysykää, mitä kieltä henkilö haluaa käyttää. Jotkut muistisairautta
+  sairastavat monikieliset ihmiset saattavat käyttää aiemmin oppimaansa kieltä,
+  mutta tämä vaihtelee. Käyttäkää tuttuja sanoja ja eleitä, ja kysykää
+  terveyspalveluista, millaista tulkkausapua vastaanotoille on saatavilla.
 keyPoints:
-  - "Kysykää, mikä kieli tuntuu mukavimmalta tähän keskusteluun. Älkää oletako."
-  - "Jotkut voivat käyttää aiemmin opittua kieltä, mutta tämä ei koske kaikkia eikä kerro ihmisen vaiheesta."
-  - "Käyttäkää tuttuja sanoja, antakaa lisäaikaa ja tukekaa puhetta kuvilla tai elein."
-  - "Terveyspalveluihin soittakaa etukäteen ja kysykää, mitä tulkkipalvelua on tarjolla."
-  - "Äkillinen muutos viestinnässä yhdessä sekavuuden kanssa vaatii lääkärin huomiota."
+  - "Kysykää, mikä kieli tuntuu mukavimmalta tässä keskustelussa; älkää olettako."
+  - "Jotkut saattavat käyttää aiemmin oppimaansa kieltä, mutta näin ei käy kaikille eikä se kerro sairauden vaiheesta."
+  - "Käyttäkää tuttuja sanoja, antakaa enemmän aikaa ja tukekaa puhetta kuvilla tai eleillä."
+  - "Ottakaa terveydenhuollon vastaanottoon yhteyttä etukäteen ja kysykää, millaista tulkkausapua on saatavilla."
+  - "Äkillinen muutos viestinnässä yhdessä sekavuuden kanssa vaatii lääkärin arvioa."
 faq:
-  - q: "Palaako dementiaa sairastava takaisin ensimmäiselle kielelleen?"
-    a: "Jotkut dementiaa sairastavat alkavat käyttää aiemmin opittua kieltä, toiset eivät. Kielivalinta voi vaihdella ihmisen, aiheen ja päivän mukaan. Kysykää, mikä kieli tuntuu mukavalta, älkääkä käyttäkö sitä arvioidaksenne ihmisen vaihetta."
-  - q: "Pitäisikö minun puhua ihmisen ensimmäistä kieltä?"
-    a: "Kysykää, mitä kieltä hän haluaa nyt käyttää. Jos puhutte sitä, käyttäkää tuttuja sanoja ja antakaa aikaa vastata. Jos ette puhu sitä, kysykää, haluaisiko hän luotettavan kaksikielisen henkilön mukaan arkiseen keskusteluun."
-  - q: "Mitä teen, jos en ymmärrä, mitä ihminen sanoo?"
-    a: "Pysykää rauhallisena ja pyytäkää häntä näyttämään, osoittamaan tai käyttämään toista sanaa, jos hän haluaa. Kuva, tuttu esine tai ele voi auttaa. Älkää kysykö häneltä kokeen omaista kysymyksiä tai teeskennelkö ymmärtävänne tärkeää terveystietoa."
-  - q: "Miten valmistaudun lääkärikäyntiin?"
-    a: "Ottakaa yhteyttä vastaanottoon ennen käyntiä, kertokaa, mitä kieltä ihminen haluaa käyttää, ja kysykää, mitä tulkkausvaihtoehtoja on tarjolla. Kysykää ihmiseltä, kenen hän haluaa tulevan mukaan; tukihenkilö voi olla paikalla puhumatta hänen puolestaan."
-  - q: "Kuuluuko äkillinen kielen muutos dementiaan?"
-    a: "Pelkkä kielen muutos ei selitä sen syytä. Jos ihminen muuttuu äkillisesti sekavaksi tai hänen viestintänsä muuttuu yhtäkkiä, hakekaa välitön lääkärin apu sen sijaan, että olettaisitte dementian etenevän."
+  - q: "Saako muistisairaus ihmisen käyttämään jälleen äidinkieltään?"
+    a: "Jotkut muistisairautta sairastavat ihmiset saattavat alkaa käyttää aiemmin oppimaansa kieltä, kun taas toiset eivät. Kielitoiveet voivat vaihdella henkilön, aiheen ja päivän mukaan. Kysykää, mikä kieli tuntuu mukavalta, älkääkä käyttäkö kielen vaihtumista sairauden vaiheen arvioimiseen."
+  - q: "Pitäisikö minun puhua henkilön äidinkieltä?"
+    a: "Kysykää, mitä kieltä henkilö haluaa nyt käyttää. Jos osaatte samaa kieltä, käyttäkää tuttuja sanoja ja antakaa aikaa vastata. Jos ette osaa, kysykää, haluaisiko henkilö luotettavan kaksikielisen henkilön mukaan arjen keskusteluun."
+  - q: "Mitä jos en ymmärrä, mitä henkilö sanoo?"
+    a: "Pysykää rauhallisina ja pyytäkää henkilöä näyttämään, osoittamaan tai käyttämään toista sanaa, jos hän haluaa. Kuva, tuttu esine tai ele voi auttaa. Älkää kuulustelko henkilöä älkääkä teeskö ymmärtävänne tärkeitä terveyteen liittyviä asioita."
+  - q: "Miten voin valmistautua lääkärikäyntiin?"
+    a: "Ottakaa yhteyttä vastaanottoon ennen käyntiä, kertokaa mitä kieltä henkilö mieluiten käyttää ja kysykää, millaisia tulkkausvaihtoehtoja on saatavilla. Kysykää henkilöltä, kenen hän haluaa mukaan; tukihenkilö voi olla mukana puhumatta hänen puolestaan."
+  - q: "Onko äkillinen kielen muutos osa muistisairautta?"
+    a: "Kielen muutos yksinään ei kerro sen syytä. Jos henkilö muuttuu äkillisesti sekavaksi tai hänen viestintänsä muuttuu yhtäkkiä, hakeutukaa välittömästi lääkäriin sen sijaan, että olettaisitte kyseessä olevan muistisairauden eteneminen."
 sources:
   - title: "How to communicate with a person with dementia"
     publisher: "Alzheimer's Society"
@@ -48,50 +49,50 @@ related: [caregiving/communication-tips, caregiving/doctor-visit-with-dementia, 
 health: true
 ---
 
-Ihmiset, jotka puhuvat useampaa kieltä, voivat viestiä eri tavoin, kun dementia vaikeuttaa sanojen löytämistä tai ymmärtämistä. Jotkut alkavat käyttää aiemmin opittua kieltä, toiset eivät. Hyödyllisin ensiaskel on kysyä, mikä kieli tuntuu mukavalta juuri nyt, ja seurata sitten ihmisen johdatusta.
+Useampaa kieltä puhuvat ihmiset saattavat viestiä eri tavoin, kun muistisairaus muuttaa sanojen löytämistä tai ymmärtämistä. Jotkut alkavat käyttää aiemmin oppimaansa kieltä, toiset eivät. Hyödyllisin ensimmäinen askel on kysyä, mikä kieli tuntuu nyt mukavalta, ja seurata sitten henkilön toiveita.
 
-[Alzheimer's Society toteaa, että kielivalinnat voivat vaihdella, ja ehdottaa käyttämään kieltä, jolla ihminen yleensä viestii](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). [Alzheimer's Association mainitsee myös äidinkielen palaamisen yhtenä mahdollisena viestinnän muutoksena](https://www.alz.org/help-support/caregiving/daily-care/communications). Nämä muutokset eivät koske kaikkia, eivätkä ne kerro ihmisen vaiheesta.
+[Alzheimer’s Societyn mukaan kielitoiveet voivat vaihdella ja se suosittelee käyttämään kieltä, jota henkilö tavallisesti käyttää viestiessään](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). [Alzheimer’s Association mainitsee myös äidinkieleen palaamisen yhtenä mahdollisena viestinnän muutoksena](https://www.alz.org/help-support/caregiving/daily-care/communications). Näitä muutoksia ei tapahdu kaikilla, eivätkä ne kerro henkilön sairauden vaiheesta.
 
-## Mitä kieltä minun pitäisi käyttää?
+## Mitä kieltä minun kannattaa käyttää?
 
-Kysykää ihmiseltä, mitä kieltä hän haluaa käyttää tässä keskustelussa. Hänen toivomuksensa voi vaihdella aiheen, ympäristön tai vuorokaudenajan mukaan. Jos hän vaihtaa kieltä, älkää pitäkö sitä kokeena äläkä vaatikaa, että hän jatkaa kielellä, jonka te ymmärrätte.
+Kysykää henkilöltä, mitä kieltä hän haluaa käyttää tässä keskustelussa. Toive voi muuttua aiheen, tilanteen tai vuorokaudenajan mukaan. Jos hän vaihtaa kieltä, älkää pitäkö sitä kokeena tai vaadiko jatkamaan kielellä, jota te ymmärrätte.
 
-Jos osaatte ihmisen toivoman kielen, käyttäkää tuttuja sanoja ja antakaa hänelle aikaa vastata. Jos osaatte vain muutaman sanan, olkaa rehellisiä ja käyttäkää myös eleitä, esineitä tai kuvia. [Alzheimer's Societyn kieliohje](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) toteaa, että kielitaito voi vaihdella päivittäin ja sen voivat heikentää väsymys, kipu tai sairaus.
+Jos puhutte kieltä, jota henkilö toivoo, käyttäkää tuttuja sanoja ja antakaa hänelle aikaa vastata. Jos osaatte vain muutamia sanoja, olkaa rehellisiä ja käyttäkää samalla eleitä, esineitä tai kuvia. [Alzheimer’s Societyn kieliohjeissa](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) todetaan, että kielitaito voi vaihdella päivästä toiseen ja siihen voivat vaikuttaa väsymys, kipu tai sairaus.
 
-## Mikä voi auttaa arkisessa keskustelussa?
+## Mikä voi auttaa arjen keskusteluissa?
 
-Pitäkää mielessä tavanomaiset viestintävinkit ja lisätkää tukea, joka sopii ihmisen kieleen:
+Pitäkää mielessä tavalliset viestinnän vinkit ja lisätkää tukea, joka sopii henkilön kieleen:
 
-- **Käyttäkää tuttuja sanoja ja nimiä.** Kysykää ihmiseltä tai hänen luottamaltaan henkilöltä, mitä sanoja hän käyttää arkisista esineistä, perheenjäsenistä ja rutiineista.
-- **Näyttäkää myös sanomisen lisäksi.** Osoittakaa kuppia, näyttäkää kaksi vaihtoehtoa tai käyttäkää tuttua kuvaa tai esinettä. Ele voi auttaa, kun oikean sanan löytäminen on vaikeaa.
-- **Odottakaa.** Antakaa ihmiselle aikaa kuunnella ja vastata. Älkää lopettako lausetta hänen puolestaan äläkä toistakaa kysymystä useilla kielillä yhtä aikaa.
-- **Pitäkää yksi ajatus kerrallaan.** Pitkä selitys voi olla vaikea millä kielellä tahansa. Käyttäkää lyhyttä lausetta, pitäkää tauko ja katsokaa, haluaako hän lisää.
-- **Tarkistakaa kuulo ja näkö.** Silmälasit, kuulokojeet, hyvä valaistus ja rauhallinen ympäristö voivat helpottaa kielen seuraamista.
+- **Käyttäkää tuttuja sanoja ja nimiä.** Kysykää henkilöltä tai hänelle läheiseltä ihmiseltä, millä sanoilla hän tarkoittaa arjen esineitä, perheenjäseniä ja rutiineja.
+- **Näyttäkää ja sanokaa.** Osoittakaa kupista, näyttäkää kaksi vaihtoehtoa tai käyttäkää tuttua valokuvaa tai esinettä. Ele voi auttaa, kun oikeaa sanaa on vaikea löytää.
+- **Odottakaa.** Antakaa henkilölle aikaa kuunnella ja vastata. Älkää täydentäkö jokaista lausetta tai toistako kysymystä usealla kielellä peräkkäin.
+- **Pitäkää yksi asia kerrallaan.** Pitkä selitys voi olla vaikea millä tahansa kielellä. Käyttäkää lyhyttä lausetta, pitäkää tauko ja katsokaa, haluaako henkilö kuulla lisää.
+- **Huolehtikaa kuulosta ja näöstä.** Silmälasit, kuulokojeet, hyvä valaistus ja rauhallinen ympäristö voivat helpottaa kielen seuraamista.
 
-Jos ihminen haluaa lukea, kysykää, onko tärkeä kirjallinen tieto saatavilla hänen kielellään. Älkää luottako automaattiseen käännökseen lääketieteellisessä päätöksessä, suostumuksessa tai lääkeohjeessa, vaan varmistakaa tärkeät tiedot hoitavalta taholta.
+Jos henkilö mieluiten lukee, kysykää, onko tärkeää kirjallista tietoa saatavilla hänen kielellään. Älkää luottako automaattiseen käännökseen lääketieteellisessä päätöksessä, suostumuksessa tai lääkeohjeissa; varmistakaa tärkeät asiat hoitohenkilöstöltä.
 
-## Mitä jos en puhu ihmisen toivomaa kieltä?
+## Mitä jos en puhu kieltä, jota henkilö toivoo?
 
-Kysykää, haluaisiko hän luotettavan kaksikielisen ystävän tai sukulaisen mukaan tavanomaiseen keskusteluun. Älkää oleta, että ihminen haluaa jonkun toisen tulkkaavan. Hän voi pitää parempana eleitä, kuvia tai yhteistä kieltä, jota molemmat osaavat.
+Kysykää, haluaisiko hän luotettavan kaksikielisen ystävän tai sukulaisen mukaan tavalliseen keskusteluun. Älkää olettako, että henkilö haluaa jonkun toisen tulkkaavan; hän saattaa toivoa eleitä, kuvia tai toista yhteistä kieltä.
 
-Lääkärikäyntiä tai muuta keskustelua, joka vaatii tarkkaa tietoa, varten soittakaa klinikalle tai hoitopalveluun etukäteen. Kertokaa ihmisen toivoma kieli ja kysykää, mitä tulkkipalvelua on tarjolla. [Yhdysvaltain terveys- ja palveluministeriö selittää](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html), että perheenjäsenet ja ystävät eivät välttämättä pysty tulkkaamaan tärkeää lääketieteellistä tietoa tarkasti. Palvelu voi kertoa vaihtoehdoistaan ja paikallisista vaatimuksista. Ihminen voi itse päättää, tuleeko tukihenkilö mukaan, ja palveluntarjoaja järjestää tarvittavan kielituen.
+Jos kyseessä on lääkärikäynti tai muu tilanne, jossa tiedon on oltava täsmällistä, soittakaa vastaanottoon tai hoitopalveluun etukäteen. Kertokaa henkilön toivoma kieli ja kysykää, millaista tulkkausapua on saatavilla. [Yhdysvaltain terveysministeriö selittää](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html), etteivät perheenjäsenet ja ystävät välttämättä pysty tulkkaamaan tärkeitä lääketieteellisiä tietoja tarkasti; palvelu voi kertoa vaihtoehdoistaan ja paikallisista käytännöistä. Henkilö voi valita, tuleeko tukihenkilö mukaan, ja palveluntarjoaja järjestää tarvittavan kieliavun.
 
-Käynnin aikana puhukaa ihmiselle suoraan ja antakaa tulkin puhua rauhassa. Varmistakaa, että hän ymmärtää kysymyksen ja saa mahdollisuuden vastata omin sanoin. Jos autatte häntä, lisätkää taustatietoja vain silloin, kun hän haluaa sitä.
+Käynnin aikana puhukaa suoraan henkilölle ja antakaa tulkille aikaa puhua. Varmistakaa, että henkilö ymmärtää kysymyksen ja saa mahdollisuuden vastata omin sanoin. Jos olette mukana tukemassa, lisätkää taustatietoa vain silloin, kun henkilö sitä toivoo.
 
-## Milloin minun pitäisi hakea lääketieteellistä neuvoa?
+## Milloin lääkärin apua kannattaa hakea?
 
-Kielellisissä vaikeuksissa voi tapahtua muutoksia ajan myötä, mutta äkillinen muutos on eri asia. [NHS neuvoo hakemaan välitöntä lääkärin apua, kun ihminen muuttuu äkillisesti sekavaksi](https://www.nhs.uk/symptoms/confusion/). Älkää olettako, että äkillinen viestinnän katoaminen kuuluu vain dementiaan. Jos ihminen muuttuu äkillisesti sekavaksi, hän voi olla hyvin huonovointinen tai vaikeasti herätettävissä, ottakaa yhteyttä paikallisiin kiireellisiin terveyspalveluihin.
+Kielivaikeudet voivat muuttua ajan myötä, mutta äkillinen muutos on eri asia. [NHS kehottaa hakemaan välitöntä lääketieteellistä apua, jos joku muuttuu äkillisesti sekavaksi](https://www.nhs.uk/symptoms/confusion/). Älkää olettako, että äkillinen viestinnän vaikeutuminen olisi vain osa muistisairautta. Jos henkilö muuttuu äkillisesti sekavaksi, voi hyvin huonosti tai on vaikea herättää, ottakaa yhteyttä paikallisiin päivystys- tai kiireellisiin terveyspalveluihin.
 
-Hitaammista muutoksista kirjatkaa ylös, mitä huomaatte, ja kysykää neuvoa ihmisen hoitavalta lääkäriltä. Merkitkää, mitä kieltä hän käytti, mikä auttoi häntä viestimään ja oliko hän väsynyt tai sairas. Tämä on kuvaus keskustelua varten, ei diagnoosi. [Lääkärikäyntiopas](/caregiving/doctor-visit-with-dementia/) auttaa valmistelemaan kysymyksiä.
+Hitaasti tapahtuvien muutosten kohdalla kirjoittakaa ylös havaintonne ja kysykää neuvoa henkilön lääkäriltä. Merkitkää muistiin, mitä kieltä hän käytti, mikä auttoi viestinnässä ja oliko hän väsynyt tai sairas. Tämä on kuvaus keskustelua varten, ei diagnoosi. [Lääkärikäyntiä käsittelevä opas](/caregiving/doctor-visit-with-dementia/) voi auttaa kysymysten valmistelussa.
 
-## Mitä voin kertoa muille avustajille?
+## Mitä voin kertoa muille auttajille?
 
-Ihmisen luvalla pitäkää lyhyt muistiinpano niille, jotka hän haluaa mukaan. Siihen voi kuulua kieli tai murre, jota hän haluaa puhua ja lukea, tutut sanat tai nimet ja se, mikä auttaa häntä seuraamaan keskustelua. Kysykää, haluaako hän jonkun tietyn henkilön mukaan käynneille tai hoitotiedotteisiin. Älkää kirjatko yksityisiä tietoja, joita tuen antamiseen ei tarvita, ja kertokaa ihmiselle, kuka muistiinpanon näkee. Kielimuistiinpano auttaa aloittamaan keskustelun mukavammin, mutta se ei korvaa tulkkia monimutkaisessa terveyskeskustelussa.
+Henkilön suostumuksella voitte tehdä lyhyen muistiinpanon niille ihmisille, joiden hän haluaa olevan mukana. Siihen voi kirjata kielen tai murteen, jota hän mieluiten puhuu ja lukee, hänelle tuttuja sanoja tai nimiä ja sen, mikä auttaa häntä seuraamaan keskustelua. Kysykää, haluaako hän jonkun tietyn henkilön mukaan vastaanotolle tai hoitoa koskeviin päivityksiin. Välttäkää kirjaamasta yksityisiä tietoja, joita ei tarvita tuen antamiseen, ja kertokaa henkilölle, ketkä näkevät muistiinpanon. Kielimuistiinpano voi auttaa aloittamaan keskustelun mukavammin, mutta se ei korvaa tulkkia vaativassa terveyteen liittyvässä keskustelussa.
 
-## Miten tuen ihmisen valintoja?
+## Miten voin tukea henkilön omia valintoja?
 
-Kieli on osa siitä, miten ihminen on yhteydessä muihin, mutta se ei ole koko hänen persoonansa. Kysykää hänen rutiineistaan, kiinnostuksen kohteistaan, lukemismieltymyksistään ja ihmisistä, jotka hän haluaa mukaan. Jos hän suostuu, kirjoittakaa muille avustajille hyödyllisiä sanoja tai lauseita ja selittäkää, miten niitä käytetään. Pitäkää muistiinpanot yksityisinä ja jakakaa vain se, mihin hän on suostunut.
+Kieli on osa sitä, miten ihminen luo yhteyttä muihin, mutta se ei kerro kaikesta hänestä. Kysykää hänen rutiineistaan, kiinnostuksen kohteistaan, lukutottumuksistaan ja ihmisistä, joiden hän haluaa olevan mukana. Jos henkilö suostuu, kirjoittakaa muille auttajille ylös hyödyllisiä sanoja tai ilmauksia ja kertokaa, miten niitä voi käyttää. Säilyttäkää muistiinpanot yksityisinä ja jakakaa vain se, minkä jakamiseen henkilö on antanut luvan.
 
-Älkää vaatiko, että hän harjoittelee, tulkkaa muille tai todistaa, mitä hän ymmärtää. Jotkin keskustelut voivat olla helpompia yhdellä kielellä ja toiset toisella. Ihmisen mukavuus, yksityisyys ja valinta ovat tärkeämpiä kuin yhden kielen noudattaminen.
+Älkää vaadiko henkilöä harjoittelemaan, tulkkaamaan muille tai todistamaan, mitä hän ymmärtää. Jotkut keskustelut voivat olla helpompia yhdellä kielellä ja toiset toisella. Henkilön mukavuus, yksityisyys ja omat valinnat ovat tärkeämpiä kuin yhden kielen noudattaminen.
 
-[Viestintävinkit](/caregiving/communication-tips/) käsittelevät yksinkertaista puhetta, kuuntelemista ja kuvien käyttöä. Diagnoosin jälkeisistä ensiaskelista kertoo lisää [dementiadiagnoosin jälkeiset ensiaskeleet](/caregiving/after-dementia-diagnosis/) -opas.
+[Viestintävinkit](/caregiving/communication-tips/) käsittelevät yksinkertaista puhetta, kuuntelemista ja kuvien käyttämistä. Apua suunnitteluun diagnoosin jälkeen löydätte sivulta [ensiaskeleet muistisairausdiagnoosin jälkeen](/caregiving/after-dementia-diagnosis/).

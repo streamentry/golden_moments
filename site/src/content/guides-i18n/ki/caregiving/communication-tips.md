@@ -1,34 +1,29 @@
 ---
-title: "Ũrĩa Mũngĩaranĩria na Mũndũ Ũrĩ na Kĩharĩro kĩa Kwĩririkana"
-seoTitle: "Ũtaarani wa Kĩharĩro kĩa Kwĩririkana: Ũrĩa Mũngĩaria"
-description: "Njĩra cia kwaranĩria na mũndũ ũrĩa ũtũũraga na kĩharĩro kĩa kwĩririkana: ũrĩa wa kwĩhaarĩria, ũrĩa wa kuuga, na ũrĩa wa gũthikĩrĩria."
+title: "Mĩhagĩro ya Kwaria na Mũndũ Ũrĩ na Dementia"
+seoTitle: "Mĩhagĩro ya Kwaria na Mũndũ Ũrĩ na Dementia"
+description: "Njĩra iria njega cia kwaria na mũndũ ũrĩ na dementia: gũthondeka njũũra, kwaria na kũigua wega, na kwaga kũmũũria kana kũmũkaania."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Aranĩriai handũ hatarĩ inegene, mũmwĩhũgĩre mũndũ ũcio, mũmũgwete na rĩĩtwa
-  rĩake, na mwarie kahora na ciugo nguhĩ na njũrũ. Ũriai kĩũria kĩmwe o hĩndĩ,
-  mũmũhe ũthuri wa maũndũ meerĩ handũ ha ciũria njariĩ, na mweterere ihinda
-  iraiha gũkĩra ũrĩa mũĩciiragia. Mũtigakararanie, mũtikamũrũngĩrie kana mũkamũgerie.
-  Cokiai ũhoro mũkĩrora maigua marĩa marĩ thĩinĩ wa ciugo ciake, na mũhũthĩre
-  kũhutania, mbica na mĩgarũrũko ya mwĩrĩ rĩrĩa ciugo irathiiha.
+  Aria handũ hũthũ, wĩhaande ũrĩ o harĩa mũndũ ũcio arĩ, ũgwĩte rĩĩtwa rĩake, na warie na mĩario mĩkuhĩ, mĩhĩnyũku. Ũmũũrie kĩũria kĩmwe o ihinda, na handũ ha kĩũria kĩrĩa gĩtangĩthuurwo, mũhe njĩra igĩrĩ cia gũthuurwo. Eterera ihinda iraaya gũkĩra ũrĩa ũciiragia. Ndũkagaane, ndũkamũkaanie, na ndũkamũũrie maũndũ ma tene nĩguo ũmũhĩngĩrĩrie. Igũrĩra maũndũ marĩa mũndũ ũcio angĩkorwo aragia, na ũhũthĩre kũhutia mũndũ, mĩhianano kana ciama rĩrĩa mĩario ĩkambĩrĩria gũthira.
 keyPoints:
-  - "Ninĩriai inegene na mũgĩe na kũonania maitho na maitho mũtanambĩrĩria kwaria."
-  - "Hũthĩrai ciugo nguhĩ, rĩciria rĩmwe o hĩndĩ, na marĩĩtwa handũ ha 'we', 'ake' kana 'o'."
-  - "Heanai ũthuri wa maũndũ meerĩ, kana kĩũria kĩa 'ĩĩ' kana 'aca', handũ ha ciũria njariĩ."
-  - "Etererai macokio. Angĩkorwo ndarataũkĩrwo, cookereraiai ciugo o cio, mũcooke mũgerie ciugo ingĩ."
-  - "Mũtigakararanie kana mũkamũrũngĩrie. Cokiai ũhoro mũkĩrora maigua marĩa marĩ thĩinĩ wa ũrĩa ekuuga."
-  - "Rĩrĩa ciugo irathiiha, aranagĩriai na njĩra ya kũhutania, mũgambo, ithiithi cia ũthiũ na mbica iria mũrarora hamwe."
+  - "Thirũria mũgambo na wĩhaande maitho na maitho mbere ya kwambĩrĩria kwaria."
+  - "Hũthĩra mĩario mĩkuhĩ, mwĩhoko umwe o ihinda, na ũgwĩte rĩĩtwa rĩake handũ ha 'we', 'ake', kana 'ao'."
+  - "Mũhe njĩra igĩrĩ cia gũthuurwo, kana kĩũria kĩrĩa gĩcookagĩrĩria 'ĩĩ' kana 'aca', handũ ha kĩũria kĩrĩa kĩtagĩrĩire macookio maingĩ."
+  - "Eterera macookio. Angĩaga kũmenyeka wega, cookeria mĩario ĩyo ĩmwe, na thuutha ũhũthĩre mĩario ĩngĩ."
+  - "Ndũkagaane kana kũmũkaania. Igũrĩra maũndũ marĩa mũndũ ũcio aramũigua."
+  - "Rĩrĩa mĩario ĩkambĩrĩria gũthira, aragĩrĩra na ũndũ wa kũmũhutia, mũgambo, mũhianĩre wa ithiithi, na mĩhianano ĩrĩa mũrĩ nayo hamwe."
 faq:
-  - q: "Nĩ maũndũ marĩkũ mũtagĩrĩirwo nĩ kuuga kũrĩ mũndũ ũrĩa ũrĩ na kĩharĩro kĩa kwĩririkana?"
-    a: "Girĩrĩriai kũmũgeria (\"Nĩũririkanaga...?\"), kũmũrũngĩria (\"Ũcio ti ũguo\"), kũmũririkania maũndũ marĩa orĩte (\"Nĩngwĩrire\") na kwaria ũhoro wake ta atarĩ ho. Girĩrĩriai kwaria ta mũrĩ na mwana. Maũndũ maya no matũme aconoke kana athĩĩnĩke hatarĩ ũteithio."
-  - q: "No mũhaka ndũngĩrie rĩrĩa ekwĩhia ũhoro?"
-    a: "Kaingĩ aca. Angĩkorwo ũhoro ũcio mũhĩtĩku ndũrĩ ũũru, ũtige ũthire. Gũkararania gũtiũaga gũcenjia meciiria ma mũndũ ũcio na no gũtũme arakara. Iganai na ũrĩa araigua na ũrĩa abataire ihinda rĩu."
-  - q: "Nĩngwĩka atĩa rĩrĩa angĩremwo nĩ kuona kiugo?"
-    a: "Amba mũmũhe ihinda. Angĩkorwo nĩarona thĩĩna, nĩ wega kũmũteithia na kiugo kahora kana gũtaurania ũrĩa ekwendaga kuuga na mũkebũrania. Kuonia na kĩara, mĩgarũrũko ya mwĩrĩ na mbica no iteithie."
-  - q: "Ingĩaranĩria atĩa na mũndũ ũrĩ itĩna rĩa kĩharĩro kĩa kwĩririkana ũrĩa ũtaragia kaingĩ?"
-    a: "Mũthiĩ mũromete mbere yake, mwĩyugie, na mũhũthĩre mũgambo mũhooreeru na kũhutania kwa ũhooreri. Rorai ithiithi cia ũthiũ na mwĩrĩ wake nĩguo mũmenye ũrĩa araigua. Gũkorwo ho kwanyu, rwĩmbo rwamenyeretwo kana kũnyiitana moko no kũrĩ ũhoro mũingĩ o na hatarĩ ciugo."
+  - q: "Nĩ kĩĩ gĩtagĩrĩire kwĩra mũndũ ũrĩ na dementia?"
+    a: "Eheria kũmũũria maũndũ ma tene (\"Nĩ ũririkanaga...?\"), kũmũkaania (\"Ũguo ti wa ma\"), kũmũririkania maũndũ marĩa maahĩtũku (\"Nĩndakũĩra o ro rĩu\"), na kwaria ũhoro wake arĩ ho ta atĩ ndarĩ ho. Ndũkahũthĩre mĩario ta ya mwana. Maũndũ maya nĩmatũmaga mũndũ aconoke kana etiguĩre na ruo hatarĩ ũteithio."
+  - q: "Nĩngĩmũkaania rĩrĩa aragia maũndũ mataarĩ ma ma?"
+    a: "Kaingĩ, ti nginya. Angĩkorwo maũndũ macio mataarĩ ma ũgwati, rekia mathire. Kũgaana gũtirĩ hingo ĩngĩgarũra meciiria ma mũndũ ũcio, na nĩkũmũtũmaga etiguĩre na ruo. Handũ ha ũguo, igũrĩra ũrĩa aramũigua na ũndũ ũrĩa aendaga ihinda rĩu."
+  - q: "Ngĩĩka atĩa rĩrĩa mũndũ ũcio atangĩona kiugo?"
+    a: "Mũhe ihinda mbere. Angĩkorwo nĩ arĩ na shĩni ya gũcaria kiugo, nĩ wega gũmũhe kiugo na ũrĩ na wara, kana ũciirie ũrĩa aendaga kuuga na ũmũũrie kana nĩguo. Kũonania na guoko, ciama, na mĩhianano nacio nĩ cian teithia."
+  - q: "Ngĩaria atĩa na mũndũ ũrĩ na dementia ya mũthia ũrĩa ũtakwaria mũno?"
+    a: "Tambĩrĩra uumĩte mbere, mwĩre ũrĩa wee ũrĩ, ũhũthĩre mũgambo mũhooreri na kũmũhutia na wara. Rora mũhianĩre wa ithiithi na mwĩrĩ wake nĩguo ũmenye ũrĩa aramũigua. Kuumĩrĩra gwaku, rwĩmbo rũrĩa amenete, kana kũnyiitana moko nĩkuo kwahota kũheana ũhoro mũnene mũno o na hatarĩ mĩario."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +35,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Kĩharĩro kĩa kwĩririkana no gĩtũme mũndũ aremwo nĩ kuona ciugo, kũrũmĩrĩra ciugo ndaaya, kana kwĩhitha inegene cia gĩcigo. Ũndũ ũcio ndũkuuga atĩ mũndũ ũcio ndacikwenda kũgĩa na ngwatanĩro na arĩa angĩ. Mĩgarũrũko mĩnini ya ũrĩa mũkwĩhaarĩria kwaranĩria, ũrĩa mũkwaria na ũrĩa mũgũthikĩrĩria no ĩtũme kwaranĩria gũkorwo kũhũthũ na kũhooreru kũrĩ inyuĩ eerĩ.
+Dementia nĩĩtũmaga gũkorwo na shĩni ya gũcaria mĩario, kũrũmĩrĩra ndungĩra ndaihu, kana kweheria mĩgambo ya mũndũ ũngĩ. Maũndũ macio matiugĩrĩte atĩ mũndũ ũcio nĩatigĩte kwenda gwĩkĩrĩra na andũ angĩ. Gũgarũra tũndũ tũnini twĩa gũthondeka njũũra, ũrĩa waragia na ũrĩa ũiguaga nĩgũteithia kwaria na gũkorwo na thayũ nĩ inyuĩ eerĩ.
 
-## Nĩ mataaro marĩkũ ma bata ma kwaranĩria na mũndũ ũrĩ na kĩharĩro kĩa kwĩririkana?
+## Nĩ mĩhagĩro ĩrĩkũ ĩrĩ ya bata mũno rĩrĩa waragia na mũndũ ũrĩ na dementia?
 
-Gĩa na ũrũmbũi wake, tũma maũndũ makorwo mahũthũ, na ũkorwo na wetereri. Ũngĩririkana maũndũ matano tu:
+Mũhe attention, aragie na mĩario mĩhĩnyũku, na wĩhũthĩre na kĩeha. Angĩkorwo ũrĩ na maũndũ matano tu wa kũririkana:
 
-1. **Hooreria nyũmba na ũmwĩhũgĩre.** Horia TV, ikara mũiganaine maitho, na ũmũgwete na rĩĩtwa rĩake.
-2. **Uga ũndũ ũmwe o hĩndĩ.** Ciugo nguhĩ, rĩciria rĩmwe, kĩũria kĩmwe.
-3. **Heana ũthuri wa maũndũ meerĩ.** “Cai kana kahũa?” nĩ ũhũthũ gũkĩra “Ũkwenda kĩ?”
-4. **Eterera.** Heana ihinda iraiha rĩa gũcokia gũkĩra ũrĩa wĩciiragia, na wĩrige gũtinia mĩario yake.
-5. **Ndũkanakararanie kana ũmũgerie.** Cokia ũhoro ũkĩrora ũrĩa araigua, no ti kana ũhoro nĩ wa ma.
+1. **Thirũria mũgambo na wĩhaande maitho na maitho.** Hora TV, ikaara o harĩa arĩ, na ũgwĩte rĩĩtwa rĩake.
+2. **Aria kiugo kĩmwe o ihinda.** Hũthĩra mĩario mĩkuhĩ, mwĩhoko umwe, na kĩũria kĩmwe.
+3. **Mũhe njĩra igĩrĩ cia gũthuurwo.** "Tĩĩ kana kahuwa?" nĩ kũhũthũ gũkĩra "Nĩ kĩĩ ũngĩenda?"
+4. **Eterera.** Mũhe ihinda iraaya gũkĩra ũrĩa ũciiragia nĩguo acookie, na ndũkamũtembũrũkie.
+5. **Ndũkagaane kana kũmũũria maũndũ ma tene.** Igũrĩra ũrĩa aramũigua, ti kana nĩ maũndũ ma ma kana aca.
 
-## Ingĩambĩrĩria atĩa kwaranĩria?
+## Ngĩambĩrĩria atĩa njũũra?
 
-Haarĩria maũndũ nĩguo mũndũ ũcio ahote kwĩganĩra harĩ we. [Kĩbatabata kĩa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gĩtaaraga kũambĩrĩria na kũnyiihia inegene: horia redio kana TV, hinga marigita kana mũrango, kana mũthiĩ handũ hatarĩ inegene.
+Thondeka maũndũ nĩguo mũndũ ũcio ahote kũrũmbũiya nawe we wiki. Kũringana na [mũtongoria wa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), ambĩrĩria na kweheria mũgambo: hora redio kana TV,hinga mũrango kana makiriti, kana thiĩ handũ hũthũ.
 
-- **Mũthiĩ mũromete mbere yake.** Gũthiĩ na thuutha kana mwena no kũmũmakie.
-- **Uga wee nĩwe ũ.** “Ũhoro waku Baba, nĩ niĩ Sarah, mwarĩ waku.” Ũndũ ũyũ nĩũmũteithagia ndakanoe gũcaria rĩĩtwa rĩaku.
-- **Ikara mũiganaine maitho.** Angĩkorwo nĩaikarĩte, ikara kana turia nĩguo maitho manyu maigane.
-- **Rora ithiithi cia ũthiũ waku na mũgambo waku.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ĩtaaraga kũmenya mũgambo waku, ũrĩa wa kwaria, ithiithi cia ũthiũ na mĩgarũrũko ya mwĩrĩ, na ũtuĩke wa ũrĩrĩ na wa kĩhooto.
-- **Tigĩrĩra atĩ nĩekĩrĩte ngirathi na indo cia gũigua.** Nĩ ũndũ ũritũ kũrũmĩrĩra mĩario ĩrĩa ndarona wega kana ndaraigua wega.
+- **Tambĩrĩra uumĩte mbere.** Kũũka thuutha kana mwena nĩgũtũmaga atangĩke.
+- **Mwĩre ũrĩa wee ũrĩ.** "Ũhoro, Baba, nĩ niĩ Sarah, mwarĩ waku." Ũguo nĩgũteithia kweheria shĩni ya gũcaria rĩĩtwa rĩaku.
+- **Ikaara o igũrũ rĩake.** Angĩkorwo aikarĩte, ikaara kana thinya nĩguo maitho manyu maringane.
+- **Rora mũhianĩre waku na mũgambo waku.** Kũringana na [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers), menyereria mũgambo, mũigana, mũhianĩre wa ithiithi, na mwĩrĩ waku, na ũhũthĩre mũgambo mũhooreri na wa kũiguithania.
+- **Menya kana maitho ma ngoro kana kĩrĩa gĩa kũigua nĩ igũrĩ.** Nĩ gũkorwo na shĩni kũrũmĩrĩra njũũra ũrĩa ũtangĩona wega kana ũtangĩigua wega.
 
-## Ingĩuga atĩa ũrĩa ngwenda kuuga?
+## Ngĩgamba atĩa maũndũ?
 
-Hũthĩra ciugo njũrũ, ciugo nguhĩ na mũgambo mũhooreeru na wa thĩ.
+Hũthĩra ciugo irĩ mũhĩnyũku, mĩario mĩkuhĩ, na mũgambo mũhooreri na mũiku.
 
-- **Rĩciria rĩmwe harĩ kiugo o kĩmwe.** “Reke twĩkĩre ikoti. Tũcooke tũthiĩ nja.” No ti ciothe hamwe.
-- **Hũthĩra marĩĩtwa, no ti ciugo cia gũcookanĩrĩria ta 'we' kana 'ake'.** “Tata Jean nĩahurire thimũ” nĩ gũtaũkĩka wega gũkĩra “Nĩahurire thimũ.”
-- **Ikia mũgambo thĩ, no ti na igũrũ mũno.** Family Caregiver Alliance ĩtaaraga kũhũthĩra mũgambo wa thĩ handũ ha kwanĩrĩra.
-- **Cookerera, ũcooke ũgarũre ciugo.** Angĩkorwo ndarataũkĩrwo, cookerera ciugo o cio rĩmwe. Ũngĩona ti ũguo, eterera kahinda ũcooke ũgerie ciugo ingĩ.
-- **Onia o na ũkĩaria.** Onia gĩkombe, ambararia macibati meerĩ, kana onania ĩkĩinya rĩa mbere.
-- **Aria nake, no ti ũmwarie.** NIA ĩkanaga na kwaria ũhoro wa mũndũ ũcio ta atarĩ ho, na kwaria ta mũrĩ na mwana.
+- **Mwĩhoko umwe o ndungĩra.** "Twĩkĩre nguo cia igũrũ. Thuutha tũthiĩ nja." Ti "Twĩkĩre nguo cia igũrũ nĩguo tũthiĩ nja" o rĩmwe.
+- **Hũthĩra marĩĩtwa, ti mahĩndĩri.** "Aunt Jean nĩamũtũmĩire" nĩ kũmenyeka wega gũkĩra "Nĩamũtũmĩire."
+- **Thikĩrĩria mũgambo mũiku, ti kũũgĩria.** Kũringana na Family Caregiver Alliance, nĩ kaba gũthikĩrĩria mũgambo mũiku gũkĩra kũũgĩria.
+- **Cookeria, thuutha ũgarũre.** Angĩaga kũmenya, cookeria ciugo icio o ro icio o ihinda rĩmwe. Angĩaga kũteithika, eterera o ihinda na ũhũthĩre ciugo ingĩ.
+- **Onania na ũgambage.** Tuĩrĩria gikombe, onereria nguo igĩrĩ iria ũrenda amũthurĩre, kana muonanie ihinda rĩa mbere.
+- **Aria nake, ti ũhoro wake arĩ ho.** NIA nĩĩkaania kwaria ũhoro wa mũndũ ũcio arĩ ho ta atĩ ndarĩ ho, na kwaria nake ta kũrĩ mwana.
 
-NIA ĩonanagia ciugo njũrũ cia ciũria cia mũthenya. Ici nĩ cionereria kũringana na ũtaaro ũcio:
+NIA nĩĩheanaga mĩakarata mĩhĩnyũku ya ciũria iria cia mũndũ. Hĩndĩ ĩno nĩ mĩakarata:
 
 | Handũ ha | Geria |
 | --- | --- |
-| "Ũkwenda kĩrĩa kĩrĩkũ kĩa hwainĩ?" | "Ũkwenda thamaki kana ngũkũ?" |
-| "Ũraigua atĩa?" | "Nĩũraigua ũnogete?" |
-| "Nĩũraigua ng'aragu?" | "Irio cia hwainĩ nĩigũkorwo iharĩirie thutha wa ndagĩka ithano." |
-| "Tiguo ũgwĩkaga ũguo." | "Reke tũgerie ũũ." |
-| "Nĩũririkanaga rũgendo rwitũ rwa iria?" | "Nĩndĩreciragia ũhoro wa rũgendo rwitũ rwa iria. Njĩĩra ũrĩa wendeete mũno igũrũ rĩaguo." |
-| "Nĩngwĩrire." | Cokia ũhoro rĩngĩ, na ũhooreri, ta nĩ rwa mbere. |
+| "Nĩ kĩĩ ũngĩenda kũrĩa irio cia hwaĩ-inĩ?" | "Nĩ ũngĩenda thamaki kana ngũrwe?" |
+| "Ũrĩ atĩa?" | "Nĩ ũrĩ na ũrũaru wa mũgogo?" |
+| "Nĩ ũrĩ na njara?" | "Irio cia hwaĩ-inĩ nĩikarĩa thutha wa dakika ithano." |
+| "Ti ũguo wagĩrĩire gwĩka." | "Nĩtũgerie ũguo." |
+| "Nĩ ũririkanaga rũgendo rwitũ rũa iria rĩa lake?" | "Ndaririkana rũgendo rwitũ rũa iria rĩa lake. Ndagũthaitha, njĩĩre ũrĩa wakendeire mũno." |
+| "Nĩndakũĩra o ro rĩu." | Cookeria o ro ũguo, na ũrĩ na thayũ, ta ũrĩa ũngĩĩra ihinda rĩa mbere. |
 
-## Ingĩthikĩrĩria atĩa wega?
+## Ngĩigua atĩa wega?
 
-Thikĩrĩria gĩtũmi na maigua, no ti ciugo tu.
+Igũrĩra ũrĩa aendaga kuuga na ũrĩa aramũigua, ti ciugo ciake wiki.
 
-- **Eterera.** Gũkira o rĩmwe nĩ ihinda rĩa gwĩciria. Tara nginya ikũmi kahora mbere ya kwinjĩra mĩario-inĩ.
-- **Mũhe kiugo tu angĩkorwo nĩanyagĩte.** Family Caregiver Alliance yugaga atĩ nĩ wega kũruta kiugo mũndũ angĩkorwo nĩarona thĩĩna.
-- **Tigĩrĩra ũrĩa ũiguĩte.** [Kĩbatabata kĩa Alzheimer's Association gĩa ũtaarani](https://www.alz.org/help-support/caregiving/daily-care/communications) gĩtaaraga gũcaria gĩtũmi kĩrĩa kĩrĩ thĩinĩ wa ciugo ciake na gũcokia ũhoro nĩguo ũmenye kana nĩũmũtaũkĩirwo. “Nĩũrĩ na mĩhang'o igũrũ rĩa ngari?”
-- **Rora ithiithi cia ũthiũ wake na mwĩrĩ wake.** Rĩrĩa kwaria gũgũkorwo kũritũ, NIA yugaga atĩ ithiithi cia ũthiũ no cionanie kĩeha, marakara kana kũmaka wega gũkĩra ciugo.
-- **Oya mĩhang'o yake na bata.** O na mĩhang'o ĩyo ĩkorwo yumĩte ũhoro-inĩ mũhĩtĩku, maigua macio nĩ ma ma.
+- **Eterera.** Kũkiria nĩ ihinda rĩa gũciiria. Taria o ta mĩtwarĩrĩre ĩkũmi mbere ya kũingĩra.
+- **Heana kiugo tu angĩkorwo nĩarĩ na shĩni.** Kũringana na Family Caregiver Alliance, nĩ wega gũtaara ciugo rĩrĩa mũndũ arĩ na shĩni ya gũcicaria.
+- **Menyereria ũrĩa wamenyete.** Kũringana na [mũtongoria wa Alzheimer's Association wa kwaria](https://www.alz.org/help-support/caregiving/daily-care/communications), rora ũrĩa aendaga kuuga na ũmũcookerie nĩguo ũmenye kana nĩwamũmenya wega. "Nĩ ũrĩ na mũhaka ũhoro wa ngai ya motoka?"
+- **Rora ithiithi na mwĩrĩ wake.** Rĩrĩa mĩario ĩkambĩrĩria gũthira, kũringana na NIA, mũhianĩre wa ithiithi nĩũngĩonania kĩeha, marakara, kana thĩĩna wega gũkĩra ciugo.
+- **Oya maũndũ make na kwĩrumba.** O na angĩkorwo mũhaka wake ũrĩ na mũthingi wa maũndũ mataarĩ ma ma, ũrĩa aramũigua nĩ wa ma.
 
-## Angĩuga ũndũ ũtarĩ wa ma atĩa?
+## Ngĩĩka atĩa angĩaria kiugo kĩrĩa kĩtarĩ ma?
 
-Ndũkanakararanie. Ndũkũhoteka gũtooria, na mũndũ ũcio no arĩke aconokete kana etigĩre. Handũ ha ũguo, ngwatanĩra na maigua make, ũcooke ũgarũre mũario kahora.
+Ndũkagaane. Ndũrĩ hingo ya kũhootana, na mũndũ ũcio no etiguĩre na thoni kana guoya. Handũ ha ũguo, anĩrĩra hamwe nake ũhoro wa ũrĩa aramũigua, thuutha ũmũgarũre na ũhooreri.
 
-Family Caregiver Alliance ĩtaaraga gwĩtĩkĩra maigua macio mbere ya kũgarũra mũario. Kwa mũhiano, maitũguo angĩrũrĩria atĩ no mũhaka athiĩ kuoya ciana cukuru:
+Kũringana na Family Caregiver Alliance, ambĩrĩria na kũigũrĩra meciiria mbere ya kũgarũra maũndũ. Kwa mũgerekania, nyina waku angĩrenda thiĩ gũthugũra ciana kuuma thukuru:
 
-- Handũ ha: “Maitũ, ciana ciaku nĩ iria ikũrũ. Ũcio nĩ ũhoro wa mĩaka mĩrongo ĩna mĩhĩtũku.”
-- Geria: “Wee warĩ mũtumia wa ciana mũtugi mũno. Njĩĩra ũrĩa wamoyaga. Tũngĩamba kũrĩa kĩndũ gĩtambe?”
+- Handũ ha: "Mama, ciana ciaku nĩ ikũrũ. Nĩ cia mĩaka mĩrongo ĩna ihĩtũku."
+- Geria: "Wari mũreri mwega mũno. Njĩĩre ũrĩa wakoragwo ũgĩciũthugũra. Nĩtũrĩe irio tũnini mbere?"
 
-Alzheimer's Association o nayo ĩtaaraga mũtigakararanie igũrũ rĩa maũndũ marĩa mũtiguĩkanĩte namo. Thuura ihinda: wĩtĩkio mũhĩtĩku ũngĩkorwo ũtarĩ ũũru, ũtige ũthire.
+Alzheimer's Association nacio nĩĩkaania kũgaana na ciugo iria ũtangĩetenya. Thuura ihinda rĩagĩrĩru: angĩkorwo meciiria macio mataarĩ ma ũgwati, rekia mathire.
 
-## Ũtaarani ũcenjagia atĩa rĩrĩa kĩharĩro kĩa kwĩririkana gĩthiiaga na mbere?
+## Kwaria gũkũgarũrũka atĩa rĩrĩa dementia ĩkũraga?
 
-Mabataro nĩmacenjagia na ihinda, nĩ ũndũ ũcio garũra njĩra yaku. Alzheimer's Association ĩtaaragia icunjĩ ithatũ cia ihinda:
+Maendario nĩmagarũrũkaga na ihinda, nĩ ũndũ ũcio no nginya ũgarũre njĩra yaku. Alzheimer's Association nĩĩgayanaga na mĩgwanja ĩtatũ ĩrĩa ya mũhaka:
 
-| Icunjĩ | Ũrĩa ũngĩteithia |
+| Gĩthaa | Ũrĩa wagĩrĩire gũteithia |
 | --- | --- |
-| Kĩambĩrĩria | Ndũgetuĩrie atĩ ndangĩhota kwaranĩria. Mũingĩrie mĩario-inĩ, aria nake we mwene, mũũrie ũteithio ũrĩkũ endaga, na mũhũthĩre itherũ angĩkorwo nĩikũmũteithia. |
-| Gatagatĩ | Mĩario ya mũndũ ũmwe na ũmwe handũ hatarĩ inegene. Aria kahora, mũikarage mũroranĩtie maitho, hũthĩra ciũria cia "ĩĩ" kana "aca", heana mataaro nginya nginya, na ndũkanamũrũithie kana ũmũrũngĩrie. |
-| Gĩcunjĩ kĩa mũthia | Mũthiĩ mũromete mbere yake na mwĩyugie. Mũkĩrĩrĩrie kuonia na kĩara na mĩgarũrũko ya mwĩrĩ. Hũthĩra kũhutania, mĩgambo, maũndũ marĩa monagwo na marĩa manungaga. Ndũkanarie ta atarĩ ho. |
+| Kĩambĩrĩria | Ndũtige kũciiria atĩ ndangĩhota kwaria. Mũingĩrĩrie njũũra, aria nake o we, mũũrie ũteithio ũrĩa aendaga, na ũhũthĩre mũkeno angĩkorwo ũrĩ wa gũteithia. |
+| Gatagatĩ | Aria mũmwe na mũmwe handũ hũthũ. Aria na mũigana mũiku, mũhaande maitho na maitho, hũthĩra ciũria cia 'ĩĩ' kana 'aca', heana maathani ihinda rĩmwe rĩmwe, na ndũkamũkaanie kana kũmũũria maũndũ ma tene. |
+| Mũthia | Tambĩrĩra uumĩte mbere na mwĩre ũrĩa wee ũrĩ. Mũreke aonanie na guoko kana ciama. Hũthĩra kũhutia, mĩgambo, maoneko na manungi. Ndũkarie ũhoro wake arĩ ho ta atĩ ndarĩ ho. |
 
-O mũndũ nĩ mwanya, na mũndũ o ro ũcio no akorwo na mĩthenya mĩega na mĩritũ. Cokia ũhoro kũringana na ũrĩa arĩ ihinda rĩu, no ti kũringana na rĩĩtwa rĩa ũrũaru.
+Mũndũ o wothe nĩ wa mwanya, na o mũndũ o ro ũcio no akorwo na mĩthenya njega na mĩthenya mĩũru. Igũrĩra ũrĩa arĩ ihinda rĩu, ti rĩĩtwa rĩa gĩthaa kĩu.
 
-## Mbica na maũndũ ma gwĩkwo hamwe no matũme kwaranĩria kũhũthe?
+## Nĩ mĩhianano na maũndũ ma gwĩkĩra hamwe nĩ mangĩteithia njũũra?
 
-Ĩĩ. Mbica ĩrĩa mũrarora hamwe nĩĩnyiihagia mĩhang'o na ĩkamũhe inyuĩ eerĩ kĩndũ gĩa kũrora na kuonia na kĩara.
+Ĩĩ. Mũhianano ũrĩa mũrĩ naguo hamwe nĩũeheragia shĩni na nĩũheanaga kĩndũ kĩa kũrora na kũtuĩrĩria hamwe.
 
-- **Mbica cia kwambĩrĩria mĩario.** [Conversation Cards](/games/conversation-cards/) iheanaga mbica hamwe na ciũria njariĩ itamũgeragia.
-- **Mbica cia mũciĩ.** [Photo Pairs](/games/photo-pairs/) ĩgarũraga mbica iria mũthuurĩte ikatuĩka mũtugo mũhooreeru wa kũringithania, na kaingĩ ũndũ ũcio nĩũrehaga ng'ano.
-- **Mĩario ya mũtũũrĩre ĩmenyereku.** [Finish the Saying](/games/finish-the-saying/) ĩhũthagĩra mĩario ya mũtũũrĩre ĩmenyereku, ĩgacoka ĩkũrũmĩrĩrwo nĩ kĩũria gĩa kwambĩrĩria mĩario.
-- **Mĩtugo ya kũringithania mũrĩ hamwe.** [Picture Pairs](/games/picture-pairs/) ĩheanaga moko manyu kĩndũ gĩa gwĩka mũkĩaragia.
+- **Mĩhianano ya kũambĩrĩria njũũra.** [Makarata ma Njũũra](/games/conversation-cards/) nĩmaheanaga mĩhianano ĩrĩ na ciũria iria itatumaga mũndũ ahĩngĩrĩrie gũcookia.
+- **Mĩhianano ya mbarĩ ya andũ.** [Mĩhianano ĩrĩa ĩiganaine](/games/photo-pairs/) nĩgarũraga mĩhianano ĩrĩa mũthurĩte ĩtuĩke mũrũo mũhooreri wa gũigana, na kaingĩ nĩũambĩrĩria ng'ano.
+- **Ciugo iria ciamenyekete.** [Rĩkĩrĩria Kiugo](/games/finish-the-saying/) nĩhũthĩragia ciugo iria ciamenyekete mũno, thuutha ĩcookerie na kĩũria kĩa kwaria.
+- **Mĩrũo ya kũiganaine ta kĩndũ gĩa gwĩkĩra.** [Mĩhianano ĩrĩa ĩiganaine](/games/picture-pairs/) nĩheana kĩndũ gĩa moko gwĩka rĩrĩa mũkwaria.
 
-Rora [ũrĩa mũngĩtuga hamwe](/caregiving/how-to-play-together/) na [maũndũ ma kwĩririkania](/activities/reminiscence/) nĩguo ũmenye makĩria. Ha ũhoro wa gũceera na kũhũrana thimũ, thoma mĩtaratara iitũ ya [gũceera](/activities/visiting/) na [kũhũrana thimũ na video](/activities/phone-and-video-calls/).
+Rora [ũrĩa wa gwĩkĩra maũndũ hamwe](/caregiving/how-to-play-together/) na [maũndũ ma gũririkana](/activities/reminiscence/) nĩguo ũmenye maingĩ. Nĩ ũndũ wa gũceera kana kũhũthĩra simu na vidio, soma mĩtongoria iitũ ya [gũceera](/activities/visiting/) na [simu na vidio](/activities/phone-and-video-calls/).
 
-## Ingĩaga wetereri atĩa?
+Angĩkorwo mũndũ ũcio nĩaragia thiomi ingĩ, rora mũtongoria witũ wa [kwaria na thiomi ingĩ](/caregiving/language-and-dementia-communication/).
 
-Ũndũ ũcio nĩũkoragwo kũrĩ andũ othe. NIA ĩtaaraga atĩ ũngĩrakara, wĩhe ihinda rĩa kũhoorera. Thiĩ nyũmba ĩngĩ, hũma mĩhũmũ mĩhooreeru, ũcooke rĩrĩa ũngĩhota. No wambĩrĩrie kwaranĩria rĩngĩ, na mũndũ ũcio no acokie wega nĩ ũndũ wa ũhooreri waku. Ũngĩkorwo ũtarĩ na wetereri kaingĩ, nĩ kĩmenyithia atĩ nĩũbataire ũteithio makĩria, no ti atĩ nĩũraremwo. Mũtaratara witũ wa [kwĩmenyerera kwa mũmũmenyereri](/caregiving/caregiver-self-care/) ũrĩ na kũndũ ũngĩruta ũteithio.
+## Ngĩĩka atĩa rĩrĩa ndikinyagia kĩeha?
+
+Nĩ gũkorwo na andũ othe. Kũringana na NIA, angĩkorwo wĩ na marakara mũno, oya ihinda nĩguo wĩhoorerie. Thiĩ kanyũmba kangĩ, humia na makinya mahoro, na cooka rĩrĩa ũngĩhota. No wambĩrĩrie njũũra rĩngĩ, na mũndũ ũcio no acookie kwaria nawe rĩrĩa mũgambo waku ũrĩ mũhooreri. Angĩkorwo marakara nĩmaragĩrĩra mahinda mothe, ũcio nĩ akĩĩria atĩ nĩũbataire na teithio ingĩ, ti atĩ wee nĩ wĩ na mahĩtia. Mũtongoria witũ wa [gũteithia mũreri we mwene](/caregiving/caregiver-self-care/) nĩũheanaga kũrĩa ũngĩthiĩ gũcaria teithio.

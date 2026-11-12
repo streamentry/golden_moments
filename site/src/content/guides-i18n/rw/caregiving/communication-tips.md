@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Inama zo kuganira n'umuntu ubana n'indwara yo kwibagirwa"
+seoTitle: "Uko mwaganira n'umuntu ubana n'indwara yo kwibagirwa"
+description: "Uburyo bworoshye bwo kuganira n'umuntu ubana n'indwara yo kwibagirwa: uko mwitegura ikiganiro, ibyo mwavuga, n'uko mwamutega amatwi."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Ganirize ahantu hatuje, murebane mu maso, mumuhamagare mu izina rye, kandi
+  muvuge buhoro mu nteruro ngufi kandi zoroshye. Mubaze ikibazo kimwe icyarimwe,
+  mutange amahitamo abiri aho kubaza ibibazo bifunguye, kandi mutegereze igihe
+  kirekire kurusha uko byaba bisanzwe. Ntimugashyikirane impaka, ntimukosore
+  cyangwa ngo musake ibibazo byo kumugerageza. Mwitabire ibyiyumvo biri inyuma
+  y'amagambo avuga, kandi mukoreshe gukoraho, amafoto n'ibimenyetso by'intoki
+  mu gihe kuvuga biba bigoye.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Mugabanye urusaku kandi murebane mu maso mbere yo gutangira kuganira."
+  - "Mukoreshe interuro ngufi, igitekerezo kimwe icyarimwe, n'amazina aho gukoresha we, bo cyangwa byo."
+  - "Mutange amahitamo abiri, cyangwa ikibazo gisubizwa ngo yego cyangwa oya, aho kubaza ibibazo bifunguye."
+  - "Mutegereze igisubizo. Niba adasobanutse, musubiremo amagambo amwe, hanyuma mugerageze andi."
+  - "Ntimugashyikirane impaka cyangwa ngo mukosore. Mwitabire ibyiyumvo biri inyuma y'ibyo avuga."
+  - "Mu gihe amagambo agenda agabanuka, muvugane binyuze mu gukoraho, ijwi, isura yo mu maso n'amafoto musangira."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ni iki mutagomba kubwira umuntu ubana n'indwara yo kwibagirwa?"
+    a: "Mwirinde kumugerageza mubaza ngo (« Urabyibuka...? »), kumukosora (« Ibyo si byo »), kumwibutsa ibyatakaye (« Nabikubwiye ») no kuvuga ibimwerekeye nk'aho adahari. Mwirinde kuvuga nk'aho ari umwana. Ibi akenshi bitera ikimwaro cyangwa kubabara nta cyo bifasha."
+  - q: "Ese nkwiye kumukosora igihe yibeshye ku makuru?"
+    a: "Akenshi si ngombwa. Niba ikintu yibeshyeho kidateza ikibazo, kireke. Impaka ntizikunze guhindura uko umuntu abitekereza, kandi akenshi zituma ababazwa. Mushingire ku kuntu yiyumva n'icyo akeneye muri ako kanya."
+  - q: "Nakora iki igihe adashobora kubona ijambo rikwiriye?"
+    a: "Mubanze mumuhe umwanya. Niba bigaragara ko abigorwa, nta kibazo kiri mu kumufasha buhoro mutanga ijambo cyangwa mukagerageza kumenya icyo ashaka kuvuga hanyuma mukabimubaza. Kwerekana ibintu, ibimenyetso by'intoki n'amafoto na byo bishobora gufasha."
+  - q: "Navugana nte n'umuntu uri mu cyiciro cya nyuma cy'indwara yo kwibagirwa uvuga gake cyane?"
+    a: "Mumwegere muri imbere, muvuge uwo muri we, kandi mukoreshe ijwi rituje no kumukoraho mu bugwaneza. Mwitegereze isura ye n'imyitwarire y'umubiri kugira ngo mumenye uko yiyumva. Kuba muhari, indirimbo amenyereye cyangwa kumufata ukuboko bishobora kuvuga byinshi nubwo nta magambo avuzwe."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Indwara yo kwibagirwa ishobora gutuma kubona amagambo, gukurikira interuro ndende, cyangwa kutumva urusaku rwo hafi bigorana. Ibyo ntibivuze ko umuntu atagishaka kugirana umushyikirano n'abandi. Impinduka nto mu buryo mwitegura ikiganiro, uko muvuga n'uko mutega amatwi zishobora gutuma kuganira byoroha kandi bigatuza kuri mwembi.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ni izihe nama z'ingenzi zo kuganira n'umuntu ubana n'indwara yo kwibagirwa?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Mushake kumwitaho, mubigire byoroshye, kandi mwihangane. Niba mwibuka ibintu bitanu gusa:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Mucecekeshe aho muri kandi mumurebe.** Muzimye televiziyo, mwicare ku rwego rumwe n'amaso ye, kandi mumuhamagare mu izina rye.
+2. **Muvuge ikintu kimwe icyarimwe.** Interuro ngufi, igitekerezo kimwe, ikibazo kimwe.
+3. **Mutange amahitamo abiri.** « Icyayi cyangwa ikawa? » biroroshye kurusha « Ni iki wifuza? »
+4. **Mutegereze.** Mutange umwanya munini wo gusubiza kurusha uko byaba bisanzwe, kandi mwirinde kumuca mu ijambo.
+5. **Ntimugashyikirane impaka cyangwa ngo musake ibibazo byo kumugerageza.** Mwitabire uko yiyumva, atari ukuri kw'amakuru.
 
-## How should I start a conversation?
+## Nakwiye gutangira nte ikiganiro?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Mwitegure ku buryo umuntu ashobora kwibanda kuri mwe. [Inyobora ya Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) isaba kubanza kugabanya urusaku: muzimye radiyo cyangwa televiziyo, mufunge amadirishya cyangwa urugi, cyangwa mujye ahantu hatuje kurushaho.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Mumwegere muri imbere.** Kumuturuka inyuma cyangwa ku ruhande bishobora kumutangaza.
+- **Muvuge uwo muri we.** « Muraho Papa, ni njye Sarah, umukobwa wawe. » Ibi bimukiza gushakisha izina ryanyu.
+- **Mumanuke muge ku rwego rwe.** Niba yicaye, mwicare cyangwa mupfukame kugira ngo amaso yanyu ahure.
+- **Mwite ku isura yanyu n'ijwi ryanyu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) itanga inama yo kwitondera ijwi, ubunini bwaryo, isura yo mu maso n'imyitwarire y'umubiri, no kugerageza kugaragaza ubugwaneza n'ubutuje.
+- **Murebe ko indorerwamo n'ibikoresho byo kumva byambaye.** Biragoye gukurikira ikiganiro umuntu adashobora kubona neza cyangwa kumva neza.
 
-## How should I phrase what I say?
+## Nakwiye kuvuga nte ibyo nshaka kuvuga?
 
-Use simple words, short sentences and a calm, low voice.
+Mukoreshe amagambo yoroshye, interuro ngufi n'ijwi rituje, rito.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Igitekerezo kimwe muri buri nteruro.** « Reka twambare ikoti ryawe. Hanyuma tujye hanze. » Aho kubivuga byose icyarimwe.
+- **Mukoreshe amazina, aho gukoresha amazina ngenga.** « Nyirasenge Jean yarahamagaye » birasobanutse kurusha « Yarahamagaye. »
+- **Mumanure ijwi, ntimurizamure.** Family Caregiver Alliance isaba gukoresha ijwi rito aho gukoresha ijwi riranguruye.
+- **Musubiremo, hanyuma muvuge mu bundi buryo.** Niba atabyumvise, musubiremo amagambo amwe rimwe. Niba bitagize icyo bihindura, mutegereze gato hanyuma mugerageze andi magambo.
+- **Mwerekane kandi muvuge.** Mwerekane igikombe, muzamure amakoti abiri, cyangwa mwerekane intambwe ya mbere.
+- **Muganire na we, ntimuganire ibimwerekeye.** NIA ibuza kuvuga ibireba umuntu nk'aho adahari, no kuvuga nk'aho ari umwana.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA itanga ingero z'uburyo bwo koroshya ibibazo bisanzwe. Dore ingero zijyanye na byo:
 
-| Instead of | Try |
+| Aho kuvuga | Mugerageze kuvuga |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Ni iki wifuza kurya nimugoroba? » | « Urashaka amafi cyangwa inkoko? » |
+| « Wiyumva ute? » | « Wumva urushye? » |
+| « Urashonje? » | « Ifunguro rya nimugoroba rizaba ryiteguye mu minota itanu. » |
+| « Si uko bigenda. » | « Reka tubigerageze muri ubu buryo. » |
+| « Uribuka urugendo twagize ku kiyaga? » | « Natekereje ku rugendo twagize ku kiyaga. Mbwira icyo wakunze cyane. » |
+| « Nabikubwiye. » | Musubize kandi, mu bugwaneza, nk'aho ari ubwa mbere. |
 
-## How do I listen well?
+## Natega amatwi neza nte?
 
-Listen for the meaning and the feeling, not just the words.
+Mutegere amatwi igisobanuro n'ibyiyumvo, atari amagambo gusa.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Mutegereze.** Guceceka akenshi ni igihe cyo gutekereza. Mubare buhoro mu mutima kugeza kuri cumi mbere yo kugira icyo muvuga.
+- **Mutange ijambo gusa niba yamaze kugorwa.** Family Caregiver Alliance ivuga ko nta kibazo kiri mu gutanga amagambo igihe umuntu abigorwa.
+- **Mugenzure icyo mwumvise.** [Inyobora ya Alzheimer's Association ku itumanaho](https://www.alz.org/help-support/caregiving/daily-care/communications) isaba gushaka igisobanuro kiri inyuma y'amagambo ye no kukimusubiriramo kugira ngo mumenye niba mwabyumvise neza. « Uhangayikishijwe n'imodoka? »
+- **Mwitegereze isura ye n'umubiri we.** Mu gihe kuvuga bigenda bigorana, NIA ivuga ko isura yo mu maso ishobora kugaragaza agahinda, uburakari cyangwa kwiheba kurusha amagambo.
+- **Mufate impungenge ze nk'ikintu cy'ingenzi.** Nubwo impungenge zaba zishingiye ku makuru atari yo, ibyiyumvo bye ni ukuri.
 
-## What if they say something that is not true?
+## Byagenda bite navuze ikintu kitari ukuri?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ntimugashyikirane impaka. Ntibishoboka ko muzatsinda, kandi umuntu ashobora kurangiza yumva afite ikimwaro cyangwa ubwoba. Ahubwo, mwiyunge n'ibyiyumvo bye, hanyuma mumuyobore buhoro mu kindi.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance isaba kubanza kwemera ibyiyumvo bye mbere yo kumuhindurira icyerekezo. Urugero, niba mama wawe ahangayitse avuga ko agomba kujya gutora abana ku ishuri:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Aho kuvuga: « Mama, abana bawe barakuze. Hashize imyaka mirongo ine. »
+- Mugerageze kuvuga: « Wahoze uri umubyeyi witangira abana cyane. Mbwira uko wabatoraga. Reka tubanze turye utuntu duto? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association na yo itanga inama yo kudashyikirana impaka ku byo mudahujeho. Muhitemo igihe kibikwiriye: niba imyizerere itari yo idateza ikibazo, muyireke.
 
-## How does communication change as dementia progresses?
+## Itumanaho rihinduka rite uko indwara yo kwibagirwa igenda ikura?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Ibyo umuntu akeneye bigenda bihinduka uko igihe gihita, bityo muhindure uburyo mubigenzamo. Alzheimer's Association isobanura ibyiciro bitatu rusange:
 
-| Stage | What helps |
+| Icyiciro | Ibyafasha |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Icyiciro cya mbere | Ntimutekereze ko adashobora kuvugana. Mumushyire mu biganiro, mumuganirize mu buryo butaziguye, mumubaze ubufasha yifuza, kandi mukoreshe urwenya niba rubafasha. |
+| Icyiciro cyo hagati | Ibiganiro byo muri babiri ahantu hatuje. Muvuge buhoro, murebane mu maso, mubaze ibibazo bisubizwa ngo yego cyangwa oya, mutange amabwiriza intambwe ku yindi, kandi ntimunegure cyangwa ngo mukosore. |
+| Icyiciro cya nyuma | Mumwegere muri imbere kandi muvuge uwo muri we. Mumushishikarize kwerekana ibintu no gukoresha ibimenyetso by'intoki. Mukoreshe gukoraho, amajwi, ibyo abona n'impumuro. Ntimukavuge na rimwe nk'aho adahari. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Buri muntu aratandukanye, kandi umuntu umwe ashobora kugira iminsi myiza n'iminsi igoye. Mwitabire uko ameze muri ako kanya, atari uko icyiciro cye cyitwa.
 
-## Can pictures and activities make conversation easier?
+## Ese amafoto n'imikino bishobora koroshya ikiganiro?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Yego. Ifoto musangiye igabanya igitutu kandi ibaha mwembi ikintu mwitegereza mukanakerekana.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ibibutsa binyuze mu mafoto.** [Conversation Cards](/games/conversation-cards/) zitanga amafoto hamwe n'ibibazo bifunguye bitagerageza umuntu.
+- **Amafoto y'umuryango.** [Photo Pairs](/games/photo-pairs/) ihindura amafoto mwahisemo umukino woroshye wo guhuza, bikunze gutuma havuka inkuru n'ibyo mwibuka.
+- **Imvugo zimenyerewe.** [Finish the Saying](/games/finish-the-saying/) ikoresha imvugo zizwi muri Amerika, hanyuma igakurikirwa n'ikibazo gituma muganira.
+- **Imikino yo guhuza nk'urufatiro rwo kuganira.** [Picture Pairs](/games/picture-pairs/) iha amaboko yanyu icyo akora mu gihe muganira.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Reba [uko mwakinira hamwe imikino](/caregiving/how-to-play-together/) n'[ibikorwa byo kwibuka](/activities/reminiscence/) kugira ngo mubone ibindi. Ku bijyanye no gusura no guhamagara, soma inyobora zacu ku [gusura](/activities/visiting/) no ku [masimu n'amashusho](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ku muntu uvuga indimi nyinshi, reba [inyobora yacu ku itumanaho mu ndimi zitandukanye](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Byagenda bite ndamutse mbuze ukwihangana?
+
+Bibaho kuri buri wese. NIA itanga inama yo gufata umwanya wo gutuza igihe mwumva mubabaye. Mujye mu kindi cyumba, muhumeke buhoro inshuro nke, hanyuma mugaruke igihe mushobora. Mushobora kongera gutangira ikiganiro, kandi birashoboka ko umuntu azitabira uko mutuje. Niba kubura ukwihangana bihora bibaho, ni ikimenyetso cyerekana ko mukeneye ubufasha burenzeho, si ikimenyetso cyerekana ko munaniwe. Inyobora yacu ku [kwiyitaho kw'abafasha abandi](/caregiving/caregiver-self-care/) igaragaza aho mwabona ubufasha.

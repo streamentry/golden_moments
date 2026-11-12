@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Tips veur ’t praote mit emes mit dementie"
+seoTitle: "Praotetips bie dementie: wat ze zegk of laot"
+description: "Praktische tips veur ’t praote mit emes mit dementie: wie geer e gespreik inricht, wat ze bèter zegk in plaats van oetvraoge of verbaetere, en wie geer loestert."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Praot op ’n rustige plek, kiek de meens aan, gebroek ziene naam en praot
+  rustig in kórte, einveljige zinne. Stèl eine vraog tegelyk, bej tösse twie
+  keuzes in plaats van open vraoge, en wach langer es gewen leef aonveult.
+  Maak gein ruzie, verbaeter neet en vraog neet oet. Reageer op ’t geveul
+  achter de waord, en gebroek aanraking, plaetjes en gebaere es praote
+  meujeliker weurt.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Maak achtergróndgeluud zachter en maak ougcontact ierdat geer begint te praote."
+  - "Gebroek kórte zinne, ein gedachte tegelyk, en name in plaats van hie, zie of ze."
+  - "Bej ein keus tösse twie, of ein ja-of-nee-vraog, in plaats van open vraoge."
+  - "Wach op e antwoord. Es emes neet begrepe weurt, herhaal dan dezelfde waord en probeer daarna anger waord."
+  - "Maak gein ruzie en verbaeter neet. Reageer op ’t geveul achter wat emes zegk."
+  - "Es waord minder weure, praot dan mit aanraking, toonsoart, gezichts-oetdrokking en same nao plaetjes kieke."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Wat mós ze bèter neet zage taenge emes mit dementie?"
+    a: "Vermeij oetvraoge („Weet se nag…?“), verbaetere („Det klop neet“), vermaone aan verlus („Det höb ich dich al gezag“) en euver emes praote es-of dae der neet bie is. Vermeij ouch kinnetaal. Det geuf de meens dèk geneer of óngeruste, zónger dat ’t help."
+  - q: "Mót ich emes verbaetere es de feite neet kloppe?"
+    a: "Meistal neet. Es ’n verkeierd feit neet sjajelik is, laot ’t dan laope. Ruzie maak verangert zelde wat de meens denks en maak emes dèk van streek. Riech dich op wie emes zich noe veult en wat emes noe nudig haet."
+  - q: "Wat doon ich es emes ’t waord neet kan vinje?"
+    a: "Gaef ierste tied. Es emes duujelik meuj haet, is ’t oké om zacht e waord veur te sjtèlle of te raaje wat emes meent en det nao te vraoge. Wieve, gebaere en plaetjes kónne ouch helpe."
+  - q: "Wie praot ich mit emes in ’n let stadium van dementie dae zelde nog praot?"
+    a: "Gank van veuroaf nao de meens toe, zag wie se zint, en gebroek e rustige stem en zachte aanraking. Kiek nao gezichte en lichemstaal veur geveulens. Oer aanwezigheid, e bekend leedsje of handje vasthaaje kan zónger waord al väöl zegge."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementie kan ’t meujeliker make om waord te vinje, ’n lange zin te volge of achtergróndgeluud te negere. Det beteikent neet dat de meens gein contact mie wilt make. Kleine verangeringe in wie geer e gespreik inricht, wie geer praot en wie geer loestert, kónne praote veur allebei einveljiger en rustiger make.
 
-## What are the most important tips for talking with someone who has dementia?
+## Wat zint de belankriekste tips veur ’t praote mit emes mit dementie?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Kreig de aandach, haaj ’t einveljig en höb geduld. Es geer mar vief dinge onthawt:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Maak de kamer rustig en kiek de meens aan.** Zet de tv oet, zit op ougheugde en gebroek de naam van de meens.
+2. **Zag ein ding tegelyk.** Kórte zinne, ein gedachte, ein vraog.
+3. **Bej ein keus tösse twie.** „Thee of koffee?“ is einveljiger es „Wat wils se drinke?“
+4. **Wach.** Gaef mie tied veur e antwoord es gewen leef aonveult, en probeer neet in de raej te valle.
+5. **Maak gein ruzie en vraog neet oet.** Reageer op wie emes zich veult, neet op of de feite kloppe.
 
-## How should I start a conversation?
+## Wie begin ich e gespreik?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Riech ’t zoe in dat de meens zich op uch kan rieppe. De [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) raodt aon om ierste ’t geluud te beperke: zet de radio of tv oet, doon de gerdiene of deur dich, of gank nao ’n rustigere plek.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Gank van veuroaf nao de meens toe.** Van achtere of van de zijkant kómme kan sjrikke.
+- **Zag wie se zint.** „Hoi papa, ich bin Sarah, dien dochter.“ Zoe haet de meens neet te zeuke nao oeren naam.
+- **Gank op dezelfde heugde zitte.** Es emes zit, zit of kniel dan zoedat oer ouge op dezelfde heugde zint.
+- **Let op oer gezich en oere toonsoart.** ’t [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) raodt aon om te lette op oere toonsoart, volume, gezichts-oetdrokking en lichemstaal, en te kèze veur e warme, rustige manier van praote.
+- **Kiek of de bril en ’t heuropparaat in zint.** ’t Is meujelik om e gespreik te volge es geer ’t neet good kint zeen of heure.
 
-## How should I phrase what I say?
+## Wie mós ich formuleere wat ich zag?
 
-Use simple words, short sentences and a calm, low voice.
+Gebroek einveljige waord, kórte zinne en e rustige, leage stem.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ein gedachte per zin.** „V’r doon oere jas aon. Dan gaon v’r nao boete.“ Neet alles in eine teum.
+- **Gebroek name, gein veurnaamwaord.** „Tante Jean haet gebeld“ is duujeliker es „Zie haet gebeld“.
+- **Praot leager, neet harder.** De Family Caregiver Alliance raodt e leagere stem aon in plaats van harder praote.
+- **Herhaal, dan herformuleer.** Es emes ’t neet begrepe haet, herhaal dan eine kier dezelfde waord. Es det neet wirk, wach dan efkes en probeer anger waord.
+- **Laot zeen en zag ’t.** Wies nao de kop, haaj de twie truie op, of laot de ierste sjtap zeen.
+- **Praot taenge emes, neet euver emes.** ’t NIA waorsjoewt deveur om euver de meens te praote es-of dae der neet bie is, en deveur om „kinnetaal“ te gebroeke.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+’t NIA sjtèlt einveljigere versies veur van gewoone vraoge. Hie zint veurbildje in dae geest:
 
-| Instead of | Try |
+| In plaats van | Probeer |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „Wat wils se ète?“ | „Wils se vèsj of kip?“ |
+| „Wie geit ’t mit dich?“ | „Bis se mój?“ |
+| „Hös se hónger?“ | „’t Ète steit euver vief minute klaor.“ |
+| „Zoe mós se det neet doon.“ | „V’r probere ’t op deze meneer.“ |
+| „Weet se nag oze oetstap nao ’t meir?“ | „Ich dachs aan oze oetstap nao ’t meir. Vertèl mich is wat se dao leuk vónjs.“ |
+| „Det höb ich dich al gezag.“ | Gaef nogins vrunjelik antwoord, es-of ’t de ierste kier is. |
 
-## How do I listen well?
+## Wie loester ich good?
 
-Listen for the meaning and the feeling, not just the words.
+Loester nao de beteikenis en ’t geveul, neet allein nao de waord.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Wach.** Sjtilte is dèk tied om nao te denke. Tèl rustig tot tein ierdat geer tössekump.
+- **Sjtèl allein e waord veur es emes vaslöp.** De Family Caregiver Alliance zagk dat ’t oké is om waord veur te sjtèlle es emes meuj haet.
+- **Kiek of geer ’t good begrepe höbt.** De [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) sjtèlt veur om te kieke nao de beteikenis achter de waord en det in anger waord te herhale om nao te gaon of geer ’t begrepe höbt. „Bis se óngerust euver de auto?“
+- **Kiek nao ’t gezich en ’t lichem.** Es praote meujeliker weurt, loet ’t NIA weite, kónne gezichts-oetdrokkinge verdreet, boosheid of frustrasie duujeliker laote zeen es waord.
+- **Num zörge èrns.** Zelfs es e zörg op e verkeierd feit beruhs, is ’t geveul èch.
 
-## What if they say something that is not true?
+## Wat es emes get zegk wat neet klop?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Maak gein ruzie. Geer wint waarsjienlik neet, en de meens kan zich danao geneerd of bang veule. Zoek in plaats daovan contact mit ’t geveul en gank dan zacht wieder.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+De Family Caregiver Alliance raodt aon om ierste ’t geveul te erkenne ierdat geer aafsjtuur. Zum veurbild, es oere mam drop sjteit dat zie de kinder van sjaol mós hale:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- In plaats van: „Mam, dien kinder zint groewt. Det is vaertig jaor gelaje.“
+- Probeer: „Doe wors ummer zoe ’n lieve mam. Vertèl mich euver ’t hale van sjaol. Zölle v’r ierste get ete?“
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+De Alzheimer's Association raodt ouch aon om gein ruzie te make euver zage wo geer ’t neet mit eins zint. Kees oere momente: es e verkeierd gedachte neet sjajelik is, laot ’t dan zoe.
 
-## How does communication change as dementia progresses?
+## Wie verangert communicatie es dementie wieder geit?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+De behoefte verangert mit de tied, dus pas oere meneer van praote aon. De Alzheimer's Association besjrief drie brede fases:
 
-| Stage | What helps |
+| Fase | Wat help |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Vroeg | Gank der neet van oet dat emes neet kan communisere. Num emes op in gespreike, praot direk taenge emes, vraog welke steun emes wilt en gebroek humor es det help. |
+| Midde | Gespreike ein-op-ein op ’n rustige plek. Praot rustig, haaj ougcontact, sjtèl ja-of-nee-vraoge, gaef sjtap-veur-sjtap oonwiezinge, en bekritiseer of verbaeter neet. |
+| Let | Gank van veuroaf nao de meens toe en zag wie se zint. Moedig aon om te wieve en gebaere te gebroeke. Gebroek aanraking, geluide, beelde en geure. Praot noets es-of emes der neet bie is. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Eder meens is anges, en dezelfde meens kan goeie en meujelike daag höbbe. Reageer op wie ’t noe geit, neet op e label.
 
-## Can pictures and activities make conversation easier?
+## Kónne plaetjes en aktiviteite e gespreik einveljiger make?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Jao. E gezamelik plaetje haolt de drök deraf en geuf allebei get om nao te kieke en nao te wieve.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Plaetjes es aonleiding.** [Conversation Cards](/games/conversation-cards/) beje plaetjes mit open vraoge die noets oetvraoge.
+- **Familiefoto’s.** [Photo Pairs](/games/photo-pairs/) maak van foto’s die geer oetzuch e zachtaardig memory-sjpel, wat dèk verhaole losmaak.
+- **Bekende spreuke.** [Finish the Saying](/games/finish-the-saying/) gebroek bekende spreuke, gevolleg door e vraog om euver te praote.
+- **Memory-sjpele es achtergrond.** [Picture Pairs](/games/picture-pairs/) geuf oere henj get om te doon terwiel geer praot.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Kiek ouch nao [wie geer same sjpelt](/caregiving/how-to-play-together/) en [aktiviteite mit herinneringe](/activities/reminiscence/). Veur bezeuk en belsjtaota zint d’r oze gidsen euver [op bezeuk gaon](/activities/visiting/) en [telifoon- en videogespreike](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Veur emes dae mie tale sjprik, zuch oze [gids euver communicatie in mie tale](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Wat es ich mien geduld verleer?
+
+Det euverkump ederein. ’t NIA sjtèlt veur dat geer, es geer gefrustreerd raak, efkes tied nimp om tot rust te kómme. Gank nao ’n anger kamer, haol e paar kier rustig aojem en kóm trök es geer det kan. Geer kint ’t gespreik ummer opnuuj beginne, en de meens reageert mesjien good op oere rustigere stemming. Es frustrasie hiel de tied dao is, is det e teike dat geer mie steun nudig höbt, neet dat ’t neet good geit. Oze gids euver [zelfzörg veur mantelzörgers](/caregiving/caregiver-self-care/) geuf plekke wo geer terecht kint.

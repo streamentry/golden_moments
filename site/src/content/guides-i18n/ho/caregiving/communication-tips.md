@@ -1,34 +1,34 @@
 ---
-title: "Herevadia Daladia: Dementia Ida Taunimanima Ida Hereva"
-seoTitle: "Dementia Herevadia Daladia: Dahaka O Gwau, Dahaka Namo"
-description: "Dementia ida e nohova taunimanima ida hereva daladia: hereva o hamatamaia dalana, dahaka o gwau, bona o kamonai dalana."
+title: "Hereva Dala Namodia: Tau Dementia Ida Noho"
+seoTitle: "Dementia Hereva Dala Namodia"
+description: "Hereva dala namodia ena tau dementia ida noho: edena bamona oi hereva hegamegai, dahaka oi gwau, bona edena bamona oi kamonai namonamo."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Gabuna manada ta ai hereva, taunimanima vairana oi itaia, ena ladana oi
-  gwaurai, bona metau bona hereva kwadogi ai oi hereva. Henanadai ta oi
-  henia negana ta, henanadai rua oi henia henanadai daudau namonamo, bona
-  haere danu oi naria. Namo hepapahuahu, namo hamaoromaoro, bona namo
-  nanadai. Ena hereva lalonai ena lalohadai oi haere henia, bona hereva e
-  auka neganai, tauanina, laulau, vairana itaia bona laulau hegwau oi gaukaralaia.
+  Gabuna mauri ta ai oi hereva, tau oi itaia, ena ladana oi gwauraia, bona
+  sisina oi hereva haraga, hereva kwadogidia oi gaukaralaia. Taim ta ai henanadai
+  ta oi henia, henanadai bada lasi to rua oi henia, bona oi naria lou — mauri
+  dina oi laloa lasi. Oi hepapahuahu, oi hamaoromaoro, o oi nanadai lasi. Ena
+  hereva lalonai ena lalo oi kamonai, bona hereva e goada lasi neganai, oi
+  tohohoa, laulau, bona toana oi gaukaralaia.
 keyPoints:
-  - "Regerege oi hakauka bona hereva oi hamatamaia neganai ena mata oi itaia."
-  - "Hereva kwadogi, lalohadai ta negana ta, bona ladana oi gaukaralaia, ia, ia, idia namonamo."
-  - "Henanadai daudau namonamo, henanadai rua eiava ioe/lasu henanadai oi henia."
-  - "Haere oi naria. Asi kamonai namonamo, hereva tamona oi lou, murinai hereva ma haida oi tohoa."
-  - "Namo hepapahuahu eiava hamaoromaoro. Ena hereva lalonai ena lalohadai oi haere henia."
-  - "Hereva e auka neganai, tauanina, gadona, vairana itaia bona laulau hebou ai hereva."
+  - "Hereva oi hamatamaia lasi neganai, regena oi hamauria bona tau ena mata oi itaia."
+  - "Hereva kwadogidia oi gaukaralaia, taim ta ai lalo ta, bona 'ia' o 'idia' to ena ladana oi gwauraia."
+  - "Henanadai bada lasi to rua oi henia, o 'io' o 'lası' henanadai ta, henanadai bada lasi."
+  - "Dina oi naria. Ia e kamonai lasi, ginigunai hereva tauanai oi gwauraia lou, gabeai hereva ma ta oi gwauraia."
+  - "Oi hepapahuahu o oi hamaoromaoro lasi. Ena hereva lalonai ena lalo oi kamonai."
+  - "Hereva e goada lasi neganai, tohoa, gadona, vairana, bona oi itaia laulau amo oi hereva."
 faq:
-  - q: "Dementia ida e nohova taunimanima dekenai dahaka na namo gwaurai?"
-    a: "Nanadai namo gwaurai (\"Oi laloatao, a?\"), hamaoromaoro (\"Unai be kerere\"), gau e boio idia oi laloatao (\"Lau gwauraia vadaeni\") bona ia be inai lasi bamona hereva. Mero herevadia namo gaukaralaia. Unai herevadia ese hemataurai eiava lalohisihisi e havaraia, to asi durua."
-  - q: "Ene hereva be kerere neganai, lau na hamaoromaoro, a?"
-    a: "Momokani lasi. Kerere ta be asi dika, oi rakatania. Hepapahuahu ese taunimanima ena lalohadai asi haidaua, to ia e lalohisihisi. Harihari ia e lalohadai bona e ura henia gau oi laloa."
+  - q: "Dahaka tau dementia ida noho dekenai na gwauraia lasi?"
+    a: "Nanadai oi henia lasi (\"Oi laloatao, a?\"), oi hamaoromaoro lasi (\"Una e kerere\"), gau e boio ela oi gwauraia lou lasi (\"Lau gwauraia vadaeni\"), bona ia noho gabunai ia dekenai oi hereva lasi, ia ia kamonai lasi bamona. Meri maragi hereva bamona oi hereva lasi. Unai herevadia ese ia e hahemarai o e lalohisihisi, to e durua lasi."
+  - q: "Ena hereva e kerere neganai, lau na hamaoromaoroa, a?"
+    a: "Momokani, lasi. Kerere ta e dika lasi bema, oi rakatania. Hepapahuahu ese tau ena lalo e haidaua lasi, to momo ia e habadua. Harihari ia e laloa dalana bona ena ura oi itaia namonamo."
   - q: "Hereva ta e tahua lasi neganai, dahaka lau na karaia?"
-    a: "Ginigunai nega oi henia. Ia e heqarahi momokani, hereva ta oi henia eiava ia e gwauraia oi laloa bona oi nanadai be namo. Dagi, laulau hegwau bona laulau ese danu e durua."
-  - q: "Dementia gabana dokona ai taunimanima ta be hereva momo lasi neganai, ede lau na hereva toma?"
-    a: "Vairana amo oi lao, oi be daika oi gwaurai, bona gadona manada bona tauanina maragi oi gaukaralaia. Ena vairana bona tauanina itaia amo ena lalohadai oi diba. Oi noho, ane diba ta eiava imana oi dogoatao ese hereva lasi danu gau momo e gwauraia diba."
+    a: "Ginigunai oi naria. Ia e hekwarahi momokani bema, oi durua namonamo — hereva ta oi gwauraia o ia e gwau totona oi laloa bona oi nanadaia. Oi poinia, imana amo oi hahedinaraia, bona laulau ese danu e durua."
+  - q: "Dementia e goada neganai, tau ia hereva momo lasi bema, edena bamona lau na hereva?"
+    a: "Vairanai amo oi lao mai, oi be daika, bona gadona mauri bona tohoa namonamo oi gaukaralaia. Ena vairana bona tauanina oi itaia, ena lalo oi diba totona. Oi noho ia ida, ane ta ia diba, o imana oi dogoatao — unai ese hereva lasi danu gaudia bada e hahedinaraia diba."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia ese hereva tahua, hereva daudau kamonai, eiava regerege kokia e haaukadia. Unai be anina lasi ia be taunimanima ida hebou ura e ore. Hereva oi hamatamaia dalana, oi hereva dalana bona oi kamonai dalana ai haidaua maragidia oi karaia neganai, umui ruaosi dekemui hereva e auka bona e manada.
+Dementia ese tau ta e durua diba hereva ta ia tahua lasi, hereva daudau ia kamonai lasi, o regena ia dadaraia lasi. To unai anina lasi ia ura lasi umui hebou. Hereva gabuna oi hegamegai dalana, oi hereva dalana, bona oi kamonai dalana oi haidaua maragidia ese, umui ruaosi dekenai hereva e namo bona e mauri.
 
-## Dementia ida e nohova taunimanima ida hereva daladia badadia be dahaka?
+## Dahaka gaudia badadia tau dementia ida noho oi hereva henia totona?
 
-Ena lalohadai oi abia, gau oi haidaudia, bona oi naria. Gau ima oi laloatao:
+Ena lalo oi veria, hereva oi hamaoromaoroa, bona oi naria. Gau ima oi laloatao bema:
 
-1. **Ruma oi hamanada bona ena vairana oi itaia.** TV oi hakauka, ena mata hegeregerena ai oi helai, bona ena ladana oi gaukaralaia.
-2. **Gau ta negana ta oi gwaurai.** Hereva kwadogi, lalohadai ta, henanadai ta.
-3. **Henanadai rua oi henia.** "Ti eiava kofi?" be e auka, "Dahaka oi uramu?" namonamo.
-4. **Oi naria.** Haere dekenai nega daudau oi henia, bona namo hakauka.
-5. **Namo hepapahuahu eiava nanadai.** Ia e lalohadai dalana oi haere henia, hereva be momokani eiava lasi namonamo.
+1. **Gabuna oi hamauria bona ia oi itaia.** TV oi hakapua, ia danu mata hegeregere oi helai, bona ena ladana oi gwauraia.
+2. **Taim ta ai gau ta oi gwauraia.** Hereva kwadogidia, lalo ta, henanadai ta.
+3. **Rua oi henia ia abia hidi.** "Ti o kofi?" e namo, "Dahaka oi ura?" ia auka bada.
+4. **Oi naria.** Ia haere henia totona nega daudau oi henia, oi laloa lasi bamona, bona oi hadoa lasi.
+5. **Oi hepapahuahu o oi nanadai lasi.** Ena hereva e momokani o lasi to, ena lalo oi kamonai.
 
-## Hereva ede lau na hamatamaia?
+## Edena bamona hereva lau na hamatamaia?
 
-Taunimanima ese oi do dekenai e itaia diba dalana oi hamatamaia. [Family Caregiver Alliance ena hakaua hereva](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) e gwau, gunai regerege oi hakauka: redio eiava TV oi hakauka, windou eiava iduara oi koua, eiava gabuna manada ta ai oi lao.
+Gabuna oi hegamegai, tau ia be oi oi kamonai namonamo. [Family Caregiver Alliance ena diba gaudia](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ia gwau, ginigunai regena oi hamauria: redio o TV oi hakapua, windou o iduara oi koua, o gabuna mauri ta ai oi lao.
 
-- **Vairana amo oi lao.** Murina eiava kahana amo lao be ia e hahegadaia diba.
-- **Oi be daika oi gwaurai.** "Bona dina Tama, lau be Sara, oi natumu hahine." Unai ese oi ladamu ia e tahua e durua.
-- **Ena hegeregerena ai oi helai.** Ia e helai neganai, oi danu oi helai eiava oi tuaruka ena mata hegeregerena ai.
-- **Oi vairamu bona gadomu oi itaia.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) e gwau, oi gadomu, regemu, oi vairamu bona oi tauanimu oi laloa, bona gadona manada bona hereva momokani ai oi hereva.
-- **Mata galasi bona kamonai gauna e karaia oi itaia.** Hereva ta be asi itaia namonamo eiava asi kamonai namonamo, ia e kamonai auka.
+- **Vairanai amo oi lao mai.** Murinai o kahana amo oi lao bema, ia e gari diba.
+- **Oi be daika.** "Bona dina Tama, lau Sara, oi natumu hahine." Unai ese ia ladamu ia tahua lasi.
+- **Ena mata hegeregere oi helai.** Ia e helai noho bema, oi danu oi helai o oi tui, matamu ruaosi hegeregere.
+- **Vairamu bona gadomu oi itaia namonamo.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ia gwau, gadomu, regemu, vairamu, bona tauanimu oi laloa namonamo, bona gadona mauri bona namo oi gaukaralaia.
+- **Mata galasi bona kamonai gaudia e noho, a lasi, oi itaia.** Ia itaia o ia kamonai namonamo lasi bema, hereva ia badinaia e auka.
 
-## Lau na hereva dalana be ede?
+## Edena bamona lau na gwauraia?
 
-Hereva daidia, hereva kwadogi bona gadona manada, gabana ai oi gaukaralaia.
+Hereva maorodia, hereva kwadogidia, bona gadona mauri bona diho oi gaukaralaia.
 
-- **Hereva ta ai lalohadai ta.** "Oi kwatua na atoa. Gabeai ita lao murimuri." Hereva ta ai ruaosi namonamo.
-- **Ladana oi gaukaralaia, ladana abia hereva lasi.** "Aunt Jean e phone" be e maoro, "Ia e phone" namonamo.
-- **Gadomu oi habada, regemu namo habada.** Family Caregiver Alliance e gwau, gadona gabana be namo, regena namonamo.
-- **Oi lou, gabeai hereva ma haida.** Ia asi kamonai namonamo, hereva tamona oi lou negana ta. Unai asi durua, nega maragi oi naria bona hereva ma haida oi tohoa.
-- **Oi hahedinaraia danu, oi gwauraia danu.** Kapu oi dagilaia, kwatua rua oi abiaisi, eiava kara ta gunana oi hahedinaraia.
-- **Ia ida oi hereva, ia dekenai lasi.** NIA e gwau, taunimanima dekenai lasi hereva, ia be inai lasi bamona, bona mero herevadia namo gaukaralaia.
+- **Hereva ta ai lalo ta.** "Oi kwatua ta mai. Gabeai ita lao." Ruaosi ta ta amo oi gwauraia lasi.
+- **Ladadia oi gaukaralaia, 'ia' o 'idia' lasi.** "Aunty Jean e phone" e maoro, "Ia e phone" ia maoro lasi.
+- **Gadomu oi hadikoa lasi, oi habada lasi.** Family Caregiver Alliance ia gwau, gadomu oi habada lasi, to oi hadikoa.
+- **Oi gwauraia lou, gabeai hereva ma ta oi gaukaralaia.** Ia e kamonai lasi bema, ginigunai hereva tauanai oi gwauraia lou. Unai e durua lasi bema, nega maragi oi naria, gabeai hereva ma ta oi gwauraia.
+- **Oi hahedinaraia bona oi gwauraia.** Kapu oi poinia, kwatua rua oi abiaisi, o kara ta ginigunai oi hahedinaraia.
+- **Ia dekenai oi hereva, ia dekenai lasi.** NIA ia gwau, tau ia noho gabunai ia dekenai oi hereva lasi, ia ia kamonai lasi bamona, bona meri maragi hereva bamona oi hereva lasi.
 
-NIA ese henanadai e auka daladia haida e henia. Inai bamona:
+NIA ese henanadai maorodia e hahedinaraia. Inai bamona:
 
-| Unai namonamo | Inai oi tohoa |
+| Unai totona | Inai oi gwauraia |
 | --- | --- |
-| "Adorahi ai dahaka oi ania uramu?" | "Qarume eiava kokoroku oi uramu?" |
-| "Ede oi lalohadai?" | "Oi e hekwarahi, a?" |
-| "Oi e hitolo, a?" | "Adorahi be minute 5 murinai e hegaegae." |
-| "Unai dalana be kerere." | "Inai dalana ita tohoa." |
-| "Goada ai ita lao sivarai oi laloatao, a?" | "Goada ai ita lao sivarai lau laloatao. Dahaka oi moalelaia sivaraina oi hamaoroa." |
-| "Lau gwauraia vadaeni." | Oi lou gwaurai, lalokau ida, ginigunana bamona. |
+| "Dahaka oi ura adorahi ai?" | "Qarume o kokoroku oi ura?" |
+| "Edena bamona oi noho?" | "Oi hesigu, a?" |
+| "Oi hitolo, a?" | "Adorahi e hegamegai vadaeni, miniti ima lalonai." |
+| "Unai bamona oi karaia lasi." | "Inai bamona ita karaia toho." |
+| "Oi laloatao ita be goada ai ita lao, a?" | "Lau laloa ita be goada ai ita lao. Dahaka oi moalelaia bada?" |
+| "Lau gwauraia vadaeni." | Namo ida oi haere henia lou, ginigunai bamona. |
 
-## Ede lau na kamonai namonamo?
+## Edena bamona lau na kamonai namonamo?
 
-Hereva lalonai anina bona lalohadai oi kamonai, hereva sibona lasi.
+Herevadia sibona lasi, to badina bona lalo oi kamonai.
 
-- **Oi naria.** Noho koukouna be laloa negana. Oi helai totona, 10 oi duahia gabeai oi lao.
-- **Hereva ta oi henia, ia e heqarahi neganai sibona.** Family Caregiver Alliance e gwau, taunimanima e heqarahi neganai hereva ta henia be namo.
-- **Oi kamonai gau oi hamaoromaoroa.** [Alzheimer's Association ena herevadia hakaua hereva](https://www.alz.org/help-support/caregiving/daily-care/communications) e gwau, ena hereva lalonai anina oi tahua bona oi lou gwaurai oi kamonai namonamo oi diba totona. "Kara dekenai oi lalohisihisi?"
-- **Ena vairana bona tauanina oi itaia.** Hereva e auka neganai, NIA e gwau, vairana ese lalohisihisi, badu eiava hekwakwanai e hahedinaraia diba, hereva namonamo.
-- **Ena lalohisihisi oi abia momokani.** Lalohisihisi ta be kerere gau ta ai e hamatamaia, to ena lalohadai be momokani.
+- **Oi naria.** Nega mauri momo e laloa nega. Oi durua lasi neganai, sisina oi duahia.
+- **Ia e hekwarahi bema sibona, hereva ta oi henia.** Family Caregiver Alliance ia gwau, tau ia hekwarahi neganai, hereva ta oi gwauraia namo.
+- **Oi kamonai gauna oi hahetoa.** [Alzheimer's Association ena hereva diba gaudia](https://www.alz.org/help-support/caregiving/daily-care/communications) ia gwau, ena hereva lalonai badina oi tahua bona oi gwauraia lou, oi diba totona oi kamonai momokani, a lasi. "Oi lalohekwarahi motuka dekenai?"
+- **Ena vairana bona tauanina oi itaia.** Hereva e auka neganai, NIA ia gwau, vairana ese lalohisihisi, badu, o goada lasi e hahedinaraia diba, hereva ia hereva lasi neganai danu.
+- **Ena lalohekwarahi oi abia dae.** Gau ta e kerere bamona ia laloa bema danu, ena lalo ia momokani.
 
-## Ia e gwauraia gau be momokani lasi neganai, dahaka lau na karaia?
+## Ia e gwau gau ta e momokani lasi bema, dahaka lau na karaia?
 
-Namo hepapahuahu. Oi e qalimu karana be maragi, bona taunimanima e hemataurai eiava e gari. Unai namonamo, ena lalohadai ida oi hebou, gabeai maragimaragi oi haidaua.
+Oi hepapahuahu lasi. Momokani, oi davaria lasi, bona tau ia e hemarai o e gari diba. Unai totona, ena lalo oi kamonai, gabeai maragimaragi oi haidaua.
 
-Family Caregiver Alliance e gwau, oi haidaua totona, ginigunai ena lalohadai oi abia dae. Hegeregere, oi sinamu e gwau, natuna mero e abia lao sikuli ai:
+Family Caregiver Alliance ia gwau, ginigunai ena lalo oi abia dae, gabeai oi haidaua. Heḡereḡere, sinamu ia gwau ia be natuna ia abia mai sikuli ai bema:
 
-- Unai namonamo: "Sina, oi natumu be e bada vadaeni. Unai be lagani 40 gunana."
-- Inai oi tohoa: "Oi be sina lalokau ta. Idia abia lao sivaraina oi hamaoroa. Ginigunai aniani maragi ta ita ania, a?"
+- Unai totona lasi: "Sina, natumu e lata vadaeni. Unai nega daudau e lao vadaeni."
+- Inai bamona: "Oi be natumu oi lalokau badinaia sinana namo. Oi abidia mai sivaraina oi gwauraia lau dekenai. Ginigunai ita aniani maragi ta ita ania, a?"
 
-Alzheimer's Association danu e gwau, oi asi abia dae herevadia dekenai namo hepapahuahu. Nega namodia oi abia hidi: kerere lalohadai ta be asi dika, oi rakatania.
+Alzheimer's Association danu ia gwau, oi abia dae lasi herevadia dekenai oi hepapahuahu lasi. Nega namodia oi abia hidi: gau kerere ta ia dika lasi bema, oi rakatania.
 
-## Dementia e lao neganai, hereva dalana be ede e haidaua?
+## Dementia e goada neganai, hereva dalana e haidaua be ede?
 
-Ura gauna e haidaua negadiai, oi dalamu danu oi haidaua. Alzheimer's Association ese gabana toi e gwauraia:
+Nega e lao neganai ura e haidaua, unai dainai oi hereva dalana danu oi haidaua. Alzheimer's Association ese negadia toi e gwauraia:
 
-| Gabana | Dahaka e durua |
+| Nega | Dahaka e durua |
 | --- | --- |
-| Gunana | Ia be hereva diba lasi namo laloa. Hereva lalonai oi hakaua, ia ida oi hereva, dahaka durua e uramu oi nanadaia, bona hemarai e durua neganai oi gaukaralaia. |
-| Huwana | Gabuna manada ai taunimanima ta ida hereva. Metau ai oi hereva, ena mata oi itaia, ioe/lasu henanadai oi gaukaralaia, kara hahekau herevadia oi henia, bona namo koaulaia eiava hamaoromaoro. |
-| Dokona | Vairana amo oi lao bona oi be daika oi gwaurai. Dagi bona laulau hegwau oi hagoadaia. Tauanina, regerege, gau itaia bona bona gauna oi gaukaralaia. Ia be inai lasi bamona hereva namo gwaurai. |
+| Matamatana | Oi laloa lasi ia hereva diba lasi. Hereva lalonai ia oi atoa, ia dekenai oi hereva, dahaka durua ia ura oi nanadaia, bona e namo bema, hahetoho oi gaukaralaia. |
+| Huwahuana | Gabuna mauri ta ai, tau ta ta hereva. Sisina oi hereva, matana oi itaia, 'io' o 'lası' henanadai oi gaukaralaia, kara ta ta oi hahedinaraia, bona oi hamaoromaoro o oi hadikaia lasi. |
+| Dokona | Vairanai amo oi lao mai bona oi be daika. Imana amo o tauanina amo ia hahedinaraia oi hagoadaia. Tohoa, regena, itaia, bona bonana oi gaukaralaia. Ia ia noho lasi bamona oi hereva lasi. |
 
-Taunimanima ta ta be idauidau, bona taunimanima ta be dina namodia bona dina aukadia e davaria diba. Harihari ia e noho dalana oi itaia, ladana lasi.
+Tau ta ta idia idau, bona tau ta ia danu dina ta ta ia idau. Ia harihari edena bamona ia noho, unai oi itaia, ladana sibona lasi.
 
-## Laulau bona kara ta ese hereva e haaukaia diba, a?
+## Laulau bona gaukara karadia ese hereva e hanamoa diba, a?
 
-Ioe. Laulau ta umui hebou oi itaia neganai hekwakwanai e maragi, bona umui ruaosi gau ta oi itaia bona oi dagilaia diba.
+Io. Laulau ta umui ruaosi oi itaia bema, goada e maragi, bona umui ruaosi gau ta oi poinia bona oi itaia diba.
 
-- **Laulau henanadai.** [Conversation Cards](/games/conversation-cards/) ese laulau bona henanadai daudau e henia, nanadai lasi.
-- **Ruma bese laulau.** [Photo Pairs](/games/photo-pairs/) ese oi abia hidi laulau amo gadara hebou ta e karaia, sivarai momo e havaraia.
-- **Hereva diba.** [Finish the Saying](/games/finish-the-saying/) ese hereva diba e gaukaralaia, gabeai hereva henanadai ta.
-- **Hebou gadara bamona.** [Picture Pairs](/games/picture-pairs/) ese imamu e gaukaralaia hereva neganai.
+- **Hereva hamatamaia laulau.** [Conversation Cards](/games/conversation-cards/) ese laulau bona henanadai e henia, nanadai lasi.
+- **Ruma bese ena laulau.** [Photo Pairs](/games/photo-pairs/) ese oi abia hidi laulau e haidaua gaukara namo ta ai, bona momo sivarai e havaraia.
+- **Hereva diba.** [Finish the Saying](/games/finish-the-saying/) ese hereva diba taudia e gaukaralaia, gabeai hereva hamatamaia ta e henia.
+- **Heḡereḡere gaukara.** [Picture Pairs](/games/picture-pairs/) ese imamui e gaukara henia, umui hereva neganai.
 
-[Hebou gadara itaia dalana](/caregiving/how-to-play-together/) bona [laloatao kara](/activities/reminiscence/) oi itaia. Vadivadi bona phone eiava video phone totona, [vadivadi](/activities/visiting/) bona [phone bona video phone](/activities/phone-and-video-calls/) emai hakaua hereva oi duahia.
+Diba ma haida totona, [edena bamona umui hebou umui gadara](/caregiving/how-to-play-together/) bona [laloatao gaukaradia](/activities/reminiscence/) oi itaia. Vadivadi bona phone/video hereva totona, [vadivadi](/activities/visiting/) bona [phone bona video hereva](/activities/phone-and-video-calls/) oi duahia.
 
-## Lau lalogu e hisihisi neganai, dahaka lau na karaia?
+Tau ta ia gado ma haida ia hereva bema, [gado ma haida ai hereva dalana ena diba](/caregiving/language-and-dementia-communication/) oi itaia.
 
-Unai be taunimanima iboudiai dekenai e vara. NIA e gwau, oi lalomu e hisihisi neganai, nega maragi oi abia oi hamanada totona. Ruma ma ta ai oi lao, lauma maragimaragi oi abia, bona oi giroa neganai oi lou. Hereva oi hamatamaia lou diba, bona taunimanima ese oi gadomu manada e kamonai diba. Lalohisihisi e vara hanaihanai neganai, unai be anina oi durua ma haida oi ura, oi e kerere lasi. [Naria tauna sibona naria](/caregiving/caregiver-self-care/) emai hakaua hereva ai durua gabudia oi itaia diba.
+## Lau na badu harihari bema, dahaka lau na karaia?
+
+Unai e vara tau iboudiai dekenai. NIA ia gwau, oi badu bema, nega maragi oi abia oi mauri totona. Ruma ma ta ai oi lao, sisina oi mahuta maragimaragi, bona oi mauri lou bema oi giroa mai. Hereva oi hamatamaia lou diba, bona oi mauri neganai, tau ia danu e kamonai namo diba. Badu e vara momo neganai, unai anina oi durua ma haida oi ura, oi kerere lasi. [Oi naria taumu](/caregiving/caregiver-self-care/) ena diba ai durua gabudia oi davaria diba.

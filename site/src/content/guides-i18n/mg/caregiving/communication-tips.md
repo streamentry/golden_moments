@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Torohevitra hifampiresaka amin’olona manana dementia"
+seoTitle: "Fifampiresahana sy dementia: torolalana tsotra"
+description: "Fomba tsotra hifampiresahana amin’olona manana dementia: fanomanana, teny tsara holazaina, sy fomba fihainoana amim-pahamendrehana."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Miresaha amin’ny toerana mangina, mitodika amin’ilay olona, teneno ny anarany,
+  ary miresaha moramora amin’ny fehezanteny fohy sy tsotra. Mametraha fanontaniana
+  iray isaky ny mandeha, manolora safidy roa fa tsy fanontaniana misokatra, ary
+  miandrasa ela kokoa noho ny mahazatra anao. Aza miady hevitra, manitsy na
+  manadina. Valio ny fahatsapana ao ambadiky ny teny lazainy, ary ampiasao ny
+  fikasihana, sary ary fihetsika rehefa manjary sarotra ny fitenenana.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Ahenao ny tabataba ary mifandraisa maso alohan’ny hanombohanao miresaka."
+  - "Mampiasà fehezanteny fohy, hevitra iray isaky ny mandeha, ary anarana fa tsy izy, izy ireo na ry zareo."
+  - "Manolora safidy roa, na fanontaniana valiana amin’ny eny na tsia, fa tsy fanontaniana misokatra."
+  - "Miandrasa valiny. Raha tsy azo tsara ny teniny, avereno indray ny teny mitovy, dia andramo teny hafa."
+  - "Aza miady hevitra na manitsy. Valio ny fahatsapana ao ambadiky ny zavatra lazainy."
+  - "Rehefa mihavitsy ny teny, mifandraisa amin’ny alalan’ny fikasihana, feon’ny feo, endriky ny tarehy ary sary ijerena miaraka."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Inona no tsy tokony holazaina amin’olona manana dementia?"
+    a: "Fadio ny fanadinana (« Tadidinao ve...? »), ny fanitsiana (« Diso izany »), ny fampahatsiahivana azy ny zavatra very (« Efa nolazaiko taminao izany ») ary ny firesahana momba azy toy ny hoe tsy eo izy. Fadio ny fiteny toy ny amin’ny zaza kely. Ireo dia matetika mety hahatonga henatra na fahasahiranana nefa tsy manampy."
+  - q: "Tokony hanitsy azy ve aho raha diso ny zavatra lazainy?"
+    a: "Matetika tsy ilaina. Raha tsy mampidi-doza ilay fahadisoana, avelao ihany. Ny adihevitra dia zara raha manova ny hevitr’ilay olona ary matetika mampalahelo azy. Ifantohy amin’ny zavatra tsapany sy ilainy amin’izao fotoana izao."
+  - q: "Inona no hataoko rehefa tsy hitany ny teny tiany holazaina?"
+    a: "Omeo fotoana aloha izy. Raha hitanao fa sahirana tokoa izy, azo atao ny manolotra teny moramora na maminavina ny tiany holazaina ary manamarina izany. Mety hanampy koa ny fanondro, ny fihetsika ary ny sary."
+  - q: "Ahoana no hifampiresahako amin’olona manana dementia efa eo amin’ny dingana farany izay zara raha miteny?"
+    a: "Manatòna azy avy eo anoloana, lazao hoe iza ianao, ary mampiasà feo tony sy fikasihana malefaka. Jereo ny tarehiny sy ny fihetsiky ny vatany mba hahafantarana ny fahatsapany. Ny fanatrehanao, hira mahazatra na ny fitanana ny tanany dia afaka mampita zavatra betsaka na dia tsy misy teny aza."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Ny dementia dia mety hanasarotra ny fitadiavana teny, ny fanarahana fehezanteny lava, na ny tsy fihainoana ny tabataba manodidina. Tsy midika anefa izany fa tsy maniry hifandray intsony ilay olona. Ny fanovana kely amin’ny fomba fanomanana resaka, ny fomba fitenenana ary ny fomba fihainoana dia afaka manamora sy mampitony kokoa ny fifampiresahana ho anareo roa.
 
-## What are the most important tips for talking with someone who has dementia?
+## Inona avy ireo torohevitra manan-danja indrindra rehefa miresaka amin’olona manana dementia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Ataovy izay hahazoana ny sainy, tsorina ny resaka, ary manàna faharetana. Raha zavatra dimy ihany no tadidinao:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ataovy mangina ny efitrano ary mitodika aminy.** Vonoy ny fahitalavitra, mipetraha amin’ny haavon’ny masony, ary teneno ny anarany.
+2. **Lazao tsirairay ny zavatra tianao holazaina.** Fehezanteny fohy, hevitra iray, fanontaniana iray.
+3. **Manolora safidy roa.** Mora kokoa ny « Dite sa kafe? » noho ny « Inona no tianao hosotroina? ».
+4. **Miandrasa.** Omeo fotoana lava kokoa noho ny mahazatra mba hamaliana izy, ary aza manapaka ny teniny.
+5. **Aza miady hevitra na manadina mihitsy.** Valio ny fahatsapany fa tsy ny hoe marina sa diso ny zavatra lazainy.
 
-## How should I start a conversation?
+## Ahoana no hanombohana resaka?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Omano ny toe-javatra mba hahafahan’ilay olona mifantoka aminao. Ny [torolalan’ny Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dia manoro hevitra ny hampihena ny tabataba aloha: vonoy ny radio na ny fahitalavitra, akatòny ny ridao na ny varavarana, na mifindrà any amin’ny toerana mangina kokoa.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Manatòna avy eo anoloana.** Mety hampitahotra ny fanatonana avy ao aoriana na avy amin’ny sisiny.
+- **Lazao hoe iza ianao.** « Salama Dada, izaho i Sarah, zanakao vavy. » Manampy azy tsy hila hitady ny anaranao izany.
+- **Mifanaraha amin’ny haavony.** Raha mipetraka izy, mipetraha na mandohalika mba hitovy haavo ny masonareo.
+- **Jereo ny endriky ny tarehinao sy ny feon’ny feonao.** Ny [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) dia manoro hevitra ny hahatsiarovan-tena amin’ny feonao, ny hamafin’ny feo, ny endriky ny tarehy ary ny fihetsiky ny vatana, ka mikendry fomba fiteny mafana sy tsotra.
+- **Hamarino fa eo ny solomaso sy ny fitaovana fanampiana fihainoana.** Sarotra ny manaraka resaka raha tsy hitanao na renao tsara.
 
-## How should I phrase what I say?
+## Ahoana no tokony handrafetana ny zavatra holazaina?
 
-Use simple words, short sentences and a calm, low voice.
+Mampiasà teny tsotra, fehezanteny fohy ary feo tony sy ambany.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Hevitra iray isaky ny fehezanteny.** « Andao hanao palitao. Dia hivoaka isika avy eo. » Fa tsy izy roa miaraka ao anatin’ny fehezanteny iray.
+- **Mampiasà anarana fa tsy mpisolo anarana.** Mazava kokoa ny « Niantso i Nenitoa Jean » noho ny « Niantso izy ».
+- **Ataovy ambany kokoa ny feo fa tsy mafy kokoa.** Ny Family Caregiver Alliance dia manoro hevitra ny hampiasa feo ambany kokoa fa tsy hanasatra ny feo.
+- **Avereno, dia ovao fomba hafa.** Raha tsy azony ilay izy, avereno indray ilay teny mitovy. Raha mbola tsy mandeha izany, miandrasa kely dia andramo teny hafa.
+- **Asehoy ary koa lazao.** Tondroy ilay kaopy, asehoy ireo akanjo roa, na asehoy ny dingana voalohany.
+- **Miresaha aminy fa tsy miresaka momba azy.** Ny NIA dia mampitandrina tsy hiresaka momba ilay olona toy ny hoe tsy eo izy, ary tsy hampiasa « fiteny amin’ny zaza kely ».
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Ny NIA dia manolotra fomba tsotra kokoa hametrahana fanontaniana mahazatra. Ireto misy ohatra amin’izany:
 
-| Instead of | Try |
+| Raha tokony hiteny hoe | Andramo izao |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Inona no tianao hohanina amin’ny hariva? » | « Tianao ve ny trondro sa ny akoho? » |
+| « Manao ahoana ny fahatsapanao? » | « Reraka ve ianao? » |
+| « Noana ve ianao? » | « Ho vonona afaka dimy minitra ny sakafo hariva. » |
+| « Tsy izany no fomba fanaovana azy. » | « Andao andramana amin’ity fomba ity. » |
+| « Tadidinao ve ny dia nankany amin’ny farihy? » | « Nieritreritra ny dia nankany amin’ny farihy aho. Tantarao kely izay tianao tamin’izany. » |
+| « Efa nolazaiko taminao izany. » | Valio indray amim-pahalemem-panahy, toy ny hoe voalohany. |
 
-## How do I listen well?
+## Ahoana no fomba fihainoana tsara?
 
-Listen for the meaning and the feeling, not just the words.
+Henoy ny hevitra sy ny fahatsapana, fa tsy ny teny fotsiny.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Miandrasa.** Matetika ny fahanginana dia fotoana fisainana. Manisa moramora hatramin’ny folo alohan’ny hidiranao an-tsehatra.
+- **Manolora teny raha tena sahirana izy.** Milaza ny Family Caregiver Alliance fa azo atao ny manolotra teny rehefa sahirana ilay olona.
+- **Hamarino izay renao.** Ny [torolalan’ny Alzheimer’s Association momba ny fifampiresahana](https://www.alz.org/help-support/caregiving/daily-care/communications) dia manoro hevitra ny hitady ny hevitra ao ambadiky ny teniny sy hamerina izany mba hanamarinana fa azonareo. « Manahy momba ny fiara ve ianao? »
+- **Jereo ny tarehiny sy ny vatany.** Rehefa manjary sarotra ny fitenenana, hoy ny NIA, ny endriky ny tarehy dia mety haneho alahelo, fahatezerana na fahasosorana mazava kokoa noho ny teny.
+- **Raiso am-po ny ahiahiny.** Na dia mifototra amin’ny zavatra diso aza ny ahiahy iray, tena izy ilay fahatsapana.
 
-## What if they say something that is not true?
+## Ahoana raha milaza zavatra tsy marina izy?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Aza miady hevitra. Tsy azo antoka fa handresy ianao, ary mety hahatsiaro ho menatra na hatahotra ilay olona. Mifandraisa kosa amin’ilay fahatsapana, dia ampio moramora hiala amin’izany.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Ny Family Caregiver Alliance dia manoro hevitra ny hanaiky ilay fihetseham-po alohan’ny hanovana moramora ny lohahevitra. Ohatra, raha manizingizina ny reninao fa mila maka ny ankizy any an-tsekoly izy:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Raha tokony hiteny hoe: « Neny, efa lehibe ny zanakao. Efa efapolo taona lasa izay. »
+- Andramo hoe: « Reny be fiahiana tokoa ianao hatramin’izay. Tantarao kely ny fomba nitondranao azy ireo. Te-hisotro na hihinana kely ve isika aloha? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Ny Alzheimer’s Association koa dia manoro hevitra ny tsy hiady hevitra amin’ny fanambarana tsy ekenao. Fidio ny fotoana mety: raha tsy mampidi-doza ilay hevi-diso, avelao ihany.
 
-## How does communication change as dementia progresses?
+## Ahoana no fiovan’ny fifampiresahana rehefa mandroso ny dementia?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Miova arakaraka ny fotoana ny zavatra ilaina, koa amboary ny fomba fanao. Ny Alzheimer’s Association dia mamaritra dingana telo lehibe:
 
-| Stage | What helps |
+| Dingana | Izay manampy |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Voalohany | Aza mieritreritra mialoha fa tsy afaka mifampiresaka izy. Ampidiro amin’ny resaka izy, miresaha mivantana aminy, anontanio izay fanohanana tiany, ary mampiasà vazivazy raha manampy izany. |
+| Afovoany | Resaka eo amin’ny olona roa ihany, amin’ny toerana mangina. Miresaha moramora, mifandraisa maso, mampiasà fanontaniana valiana amin’ny eny na tsia, omeo toromarika tsikelikely, ary aza mitsikera na manitsy. |
+| Farany | Manatòna avy eo anoloana ary lazao hoe iza ianao. Amporisiho ny hanondro sy hampiasa fihetsika. Mampiasà fikasihana, feo, zavatra hita ary fofona. Aza miresaka mihitsy toy ny hoe tsy eo izy. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Samy hafa ny olona tsirairay, ary ny olona iray ihany dia mety hanana andro tsara sy andro sarotra. Valio araka ny toetrany amin’izao fotoana izao, fa tsy araka ny anarana iantsoana ny toe-javatra misy azy.
 
-## Can pictures and activities make conversation easier?
+## Mety hanamora ny resaka ve ny sary sy ny hetsika iombonana?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Eny. Ny sary jerena miaraka dia manamaivana ny fanerena ary manome zavatra hojerena sy hotondroina ianareo roa.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Sary manokatra resaka.** [Conversation Cards](/games/conversation-cards/) dia manolotra sary misy fanontaniana misokatra izay tsy manadina mihitsy.
+- **Sarin’ny fianakaviana.** [Photo Pairs](/games/photo-pairs/) dia mamadika ireo sary nofidianao ho lalao fampifanarahana malefaka, izay matetika mampipoitra tantara.
+- **Ohabolana mahazatra.** [Finish the Saying](/games/finish-the-saying/) dia mampiasa ohabolana amerikana fanta-daza, arahin’ny fanontaniana hanokafana resaka.
+- **Lalao fampifanarahana ho toy ny lamosina.** [Picture Pairs](/games/picture-pairs/) dia manome zavatra azo ataon’ny tanana rehefa miresaka ianareo.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Jereo [ny fomba hilalaovana miaraka](/caregiving/how-to-play-together/) sy [ny hetsika fampahatsiahivana](/activities/reminiscence/) raha mila fanazavana fanampiny. Ho an’ny fitsidihana sy ny antso, vakio ny torolalanay momba ny [fitsidihana](/activities/visiting/) sy ny [antso an-telefaona sy antso video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ho an’ny olona miteny fiteny maro, jereo ny [torolalanay momba ny fifampiresahana amin’ny fiteny samihafa](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Ahoana raha very faharetana aho?
+
+Mitranga amin’ny olona rehetra izany. Ny NIA dia manoro hevitra fa raha sosotra ianao, makà fotoana hampitoniana ny tenanao. Mifindrà any amin’ny efitrano hafa, miaina moramora imbetsaka, ary miverena rehefa afaka. Azonao atao foana ny manomboka indray ny resaka, ary mety hamaly tsara kokoa ilay olona rehefa mahita anao milamina kokoa. Raha lasa maharitra ny fahasosorana, izany dia famantarana fa mila fanohanana bebe kokoa ianao, fa tsy hoe tsy mahavita tsara. Ny torolalanay momba ny [fikarakarana ny tenanao ho mpikarakara](/caregiving/caregiver-self-care/) dia manolotra toerana azonao itodihana.

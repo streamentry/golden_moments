@@ -1,33 +1,33 @@
 ---
-title: "Podpora vícejazyčné komunikace v péči o demenci"
-seoTitle: "Demence a jazyk: podpora v různých jazycích"
-description: "Podpořte vícejazyčného člověka s demencí tím, že se zeptáte, jaký jazyk preferuje, použijete známá slova a zajistíte jazykovou pomoc při návštěvách lékaře."
+title: "Podpora vícejazyčné komunikace při péči o demenci"
+seoTitle: "Demence a jazyk: podpora napříč jazyky"
+description: "Podpořte vícejazyčného člověka s demencí. Zeptejte se na jazyk, používejte známé podněty a domluvte jazykovou pomoc na schůzky."
 section: caregiving
 order: 41
 updated: 2026-11-12
 translatedFrom: 2026-11-12
 summary: >-
-  Zeptejte se, jakým jazykem chce člověk mluvit. Někteří vícejazyční lidé s demencí
-  mohou použít jazyk, který se naučili dřív, ale je to různé. Používejte známá slova
-  a gesta a zeptejte se zdravotních služeb, jakou tlumočnickou podporu nabízejí na
-  návštěvy.
+  Zeptejte se, jakým jazykem chce člověk mluvit. Někteří vícejazyční lidé
+  žijící s demencí mohou používat jazyk, který se naučili dříve, ale není to
+  pravidlem. Používejte známá slova a gesta a zjistěte si u zdravotnických
+  služeb, jakou jazykovou podporu mohou nabídnout při schůzkách.
 keyPoints:
-  - "Zeptejte se, který jazyk je v této chvíli nejpříjemnější; nepředpokládejte to."
-  - "Někteří lidé mohou použít jazyk, který se naučili dřív, ale netýká se to každého a neukazuje to stádium člověka."
-  - "Používejte známá slova, dejte více času a podpořte řeč obrázky nebo gesty."
-  - "Před zdravotní návštěvou kontaktujte poskytovatele a zeptejte se, jakou tlumočnickou podporu nabízí."
-  - "Náhlá změna v komunikaci spojená se zmatením vyžaduje lékařskou pozornost."
+  - "Zeptejte se, jaký jazyk je pro tento rozhovor nejpříjemnější; nic nepředpokládejte."
+  - "Někteří lidé mohou používat jazyk naučený dříve, ale neděje se to u každého a neukazuje to, v jaké fázi se člověk nachází."
+  - "Používejte známá slova, dopřejte více času a podporujte řeč obrázky nebo gesty."
+  - "Před návštěvou lékaře kontaktujte poskytovatele péče a zeptejte se, jaká je k dispozici podpora tlumočníka."
+  - "Náhlá změna v komunikaci spojená se zmateností vyžaduje lékařskou pomoc."
 faq:
-  - q: "Přinese demence zpět prvního jazyka?"
-    a: "Někteří lidé s demencí mohou začít používat jazyk, který se naučili dřív, jiní ne. Jazykové preference se mohou lišit podle člověka, tématu i dne. Zeptejte se, který jazyk je příjemný, a nepoužívejte to k posuzování stádia člověka."
-  - q: "Mám mluvit jazykem, který je pro člověka prvním?"
-    a: "Zeptejte se, který jazyk chce teď používat. Pokud ho mluvíte, používejte známá slova a dejte mu čas na odpověď. Pokud ne, zeptejte se, zda by chtěl, aby se do běžného rozhovoru zapojil důvěryhodný dvojjazyčný člověk."
-  - q: "Co když nerozumím tomu, co člověk říká?"
-    a: "Zachovejte klid a požádejte ho, aby ukázal, ukázal na něco nebo použil jiné slovo, pokud chce. Pomoci může obrázek, známý předmět nebo gesto. Neprověřujte ho a nepředstírejte, že rozumíte důležitým zdravotním informacím."
-  - q: "Jak se mám připravit na návštěvu lékaře?"
-    a: "Před návštěvou kontaktujte ordinaci, řekněte jim, jaký jazyk člověk preferuje, a zeptejte se, jaké možnosti tlumočení mají k dispozici. Zeptejte se člověka, koho si přeje doprovodit; doprovod se může zúčastnit, aniž by za něj mluvil."
+  - q: "Způsobí demence, že se člověk vrátí ke svému prvnímu jazyku?"
+    a: "Někteří lidé žijící s demencí mohou začít používat jazyk, který se naučili dříve, jiní ne. Jazykové preference se mohou lišit podle člověka, tématu i dne. Zeptejte se, jaký jazyk je příjemný, místo abyste podle toho posuzovali, v jaké fázi se člověk nachází."
+  - q: "Mám mluvit prvním jazykem daného člověka?"
+    a: "Zeptejte se, jakým jazykem by chtěl nyní mluvit. Pokud tento jazyk ovládáte, používejte známá slova a dopřejte mu čas na odpověď. Pokud ne, zeptejte se, zda by si přál, aby se běžného rozhovoru zúčastnil důvěryhodný dvojjazyčný člověk."
+  - q: "Co dělat, když nerozumím tomu, co člověk říká?"
+    a: "Zachovejte klid a požádejte ho, aby to ukázal, naznačil nebo použil jiné slovo, pokud chce. Pomoci může obrázek, známý předmět nebo gesto. Nezkoušejte ho a nepředstírejte, že rozumíte důležitým informacím o zdraví."
+  - q: "Jak se mohu připravit na návštěvu lékaře?"
+    a: "Před návštěvou kontaktujte ordinaci, sdělte, jaký jazyk člověk upřednostňuje, a zeptejte se, jaké možnosti tlumočení jsou k dispozici. Zeptejte se člověka, koho chce mít u sebe; doprovod může být přítomen, aniž by za něj mluvil."
   - q: "Je náhlá změna jazyka součástí demence?"
-    a: "Samotná změna jazyka nevysvětluje svou příčinu. Pokud se člověk najednou zmate nebo se jeho komunikace prudce změní, vyhledejte okamžitou lékařskou pomoc a nepředpokládejte, že jde o postup demence."
+    a: "Samotná změna jazyka nevysvětluje svou příčinu. Pokud se člověk náhle stane zmateným nebo se jeho komunikace náhle změní, okamžitě vyhledejte lékařskou pomoc, místo abyste to považovali za postup demence."
 sources:
   - title: "How to communicate with a person with dementia"
     publisher: "Alzheimer's Society"
@@ -49,50 +49,50 @@ related: [caregiving/communication-tips, caregiving/doctor-visit-with-dementia, 
 health: true
 ---
 
-Lidé, kteří mluví více jazyky, se mohou při změnách demence domlouvat jinak, protože se jim hůř vybavují slova nebo hůř chápou řeč. Někteří lidé začnou používat jazyk, který se naučili dřív; jiní ne. Nejužitečnějším prvním krokem je zeptat se, který jazyk je teď pro ně příjemný, a pak se řídit jejich vedením.
+Lidé, kteří mluví více než jedním jazykem, mohou s demencí komunikovat jinak, například když se mění jejich hledání slov nebo porozumění. Někteří lidé začnou používat jazyk, který se naučili dříve, jiní ne. Nejužitečnějším prvním krokem je zeptat se, jaký jazyk je nyní příjemný, a potom se řídit tím, co člověk potřebuje.
 
-[Alzheimer's Society uvádí, že jazykové preference se mohou lišit, a doporučuje používat jazyk, kterým člověk obvykle mluví](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). [Alzheimer's Association mezi možné změny v komunikaci řadí i návrat k mateřskému jazyku](https://www.alz.org/help-support/caregiving/daily-care/communications). Tyto změny se netýkají každého a neříkají nic o tom, v jakém stádiu se člověk nachází.
+[Alzheimer's Society uvádí, že jazykové preference se mohou lišit, a doporučuje používat jazyk, ve kterém člověk obvykle komunikuje](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). [Alzheimer's Association také uvádí návrat k rodnému jazyku jako jednu z možných změn v komunikaci](https://www.alz.org/help-support/caregiving/daily-care/communications). Tyto změny se nestávají u každého a neukazují, v jaké fázi se člověk nachází.
 
-## Který jazyk mám použít?
+## Jaký jazyk mám používat?
 
-Zeptejte se člověka, jakým jazykem chce pro tento rozhovor mluvit. Jeho preference se může měnit podle tématu, prostředí nebo denní doby. Pokud přepne jazyk, nepovažujte to za zkoušku a netrvejte na tom, aby pokračoval v jazyce, kterému rozumíte vy.
+Zeptejte se člověka, jakým jazykem chce v tomto rozhovoru mluvit. Jeho preference se může měnit podle tématu, prostředí nebo denní doby. Pokud přejde do jiného jazyka, neberte to jako zkoušku a netrvejte na tom, aby pokračoval v jazyce, kterému rozumíte vy.
 
-Pokud ovládáte jazyk, který preferuje, používejte známá slova a dejte mu čas na odpověď. Pokud znáte jen pár slov, buďte upřímní a použijte také gesta, předměty nebo obrázky. [Jazykové pokyny Alzheimer's Society](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) upozorňují, že jazykové schopnosti mohou kolísat ze dne na den a mohou je ovlivnit únava, bolest nebo nemoc.
+Pokud mluvíte jazykem, který upřednostňuje, používejte známá slova a dopřejte mu čas na odpověď. Pokud znáte jen několik slov, buďte upřímní a použijte také gesta, předměty nebo obrázky. [Pokyny Alzheimer’s Society k jazyku](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) uvádějí, že jazykové schopnosti se mohou ze dne na den lišit a mohou být ovlivněny únavou, bolestí nebo nemocí.
 
 ## Co může pomoci v běžném rozhovoru?
 
-Mějte na paměti obvyklé tipy ke komunikaci a přidejte podporu, která odpovídá jazyku člověka:
+Myslete na běžné zásady komunikace a přidejte podporu, která odpovídá jazyku daného člověka:
 
-- **Používejte známá slova a jména.** Zeptejte se člověka nebo někoho, komu důvěřuje, jaká slova používá pro běžné věci, členy rodiny a rutiny.
-- **Ukazujte i říkejte.** Ukažte na šálek, nabídněte dvě možnosti nebo použijte známou fotografii či předmět. Gesto pomůže, když se správné slovo hledá těžko.
-- **Počkejte.** Dejte člověku čas na poslech a odpověď. Nedokončujte za něj každou větu a neopakujte otázku najednou v několika jazycích.
-- **Držte se jedné myšlenky.** Dlouhé vysvětlení může být obtížné v jakémkoli jazyce. Použijte krátkou větu, udělejte pauzu a pak zjistěte, zda chce víc.
-- **Zkontrolujte sluch a zrak.** Brýle, naslouchadla, dobré osvětlení a klidné prostředí mohou usnadnit sledování řeči.
+- **Používejte známá slova a pojmenování.** Zeptejte se člověka nebo někoho, komu důvěřuje, jaká slova používá pro běžné věci, členy rodiny a denní činnosti.
+- **Ukazujte i mluvte.** Ukažte na hrnek, nabídněte dvě možnosti nebo použijte známou fotografii či předmět. Gesto může pomoci, když je těžké najít správné slovo.
+- **Počkejte.** Dopřejte člověku čas poslouchat a odpovědět. Nedokončujte každou větu a neopakujte otázku hned v několika jazycích.
+- **Říkejte jednu věc po druhé.** Dlouhé vysvětlování může být náročné v jakémkoli jazyce. Použijte krátkou větu, udělejte pauzu a pak se podívejte, zda chce slyšet víc.
+- **Všímejte si sluchu a zraku.** Brýle, naslouchátka, dobré osvětlení a klidné prostředí mohou usnadnit porozumění.
 
-Pokud člověk dává přednost čtení, zeptejte se, zda jsou důležité písemné informace dostupné v jeho jazyce. Nespoléhejte na automatický překlad pro lékařské rozhodnutí, souhlas nebo pokyny k lékům; důležité informace potvrďte u poskytovatele péče.
+Pokud člověk raději čte, zeptejte se, zda jsou důležité písemné informace dostupné v jeho jazyce. Nespoléhejte na automatický překlad při lékařském rozhodnutí, souhlasu nebo pokynech k lékům; důležité informace si ověřte u poskytovatele péče.
 
-## Co dělat, když nemluvím jazykem, který člověk preferuje?
+## Co když nemluvím jazykem, který člověk upřednostňuje?
 
-Zeptejte se, zda by chtěl, aby se do běžného rozhovoru zapojil důvěryhodný dvojjazyčný přítel nebo příbuzný. Nepředpokládejte, že chce, aby za něj mluvil někdo jiný; může dát přednost gestům, obrázkům nebo jinému jazyku, kterému oba rozumíte.
+Zeptejte se, zda by si přál, aby se běžného rozhovoru zúčastnil důvěryhodný dvojjazyčný přítel nebo příbuzný. Nepředpokládejte, že člověk chce, aby mu někdo jiný tlumočil; může dát přednost gestům, obrázkům nebo jinému jazyku, kterému oba rozumíte.
 
-Pro návštěvu lékaře nebo jiný rozhovor, který vyžaduje přesné informace, zavolejte ordinaci nebo službu předem. Řekněte jim, jaký jazyk člověk preferuje, a zeptejte se, jakou tlumočnickou podporu nabízejí. [Ministerstvo zdravotnictví a sociálních služeb USA vysvětluje](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html), že rodina a přátelé nemusejí být schopni důležité lékařské informace přeložit přesně; služba vám vysvětlí své možnosti a místní požadavky. Člověk může rozhodnout, zda ho doprovod provází, zatímco poskytovatel zajistí potřebnou jazykovou pomoc.
+Při návštěvě lékaře nebo jiné situaci, kde je potřeba přesné porozumění, zavolejte do ordinace nebo služby péče předem. Sdělte, jaký jazyk člověk upřednostňuje, a zeptejte se, jaká podpora tlumočníka je k dispozici. [Ministerstvo zdravotnictví a sociálních služeb USA vysvětluje](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html), že rodina a přátelé nemusí být schopni přesně tlumočit důležité zdravotní informace; služba vám může vysvětlit své možnosti a místní požadavky. Člověk se může rozhodnout, zda chce mít u sebe doprovod, zatímco poskytovatel zajistí případnou potřebnou jazykovou pomoc.
 
-Během návštěvy oslovujte člověka přímo a dejte tlumočníkovi čas, aby mluvil. Ověřte, že člověk otázce rozumí a má příležitost odpovědět vlastními slovy. Pokud ho doprovázíte, přidejte souvislosti jen tehdy, když to chce.
+Během návštěvy mluvte přímo s člověkem a dopřejte čas na tlumočení. Ujistěte se, že člověk otázce rozumí a má možnost odpovědět vlastními slovy. Pokud ho doprovázíte, doplňujte souvislosti jen tehdy, když si to přeje.
 
-## Kdy vyhledat lékařskou radu?
+## Kdy mám vyhledat lékařskou pomoc?
 
-Jazykové obtíže se mohou měnit v čase, ale náhlá změna je něco jiného. [NHS doporučuje, aby člověk, který se náhle zmate, okamžitě vyhledal lékařskou pomoc](https://www.nhs.uk/symptoms/confusion/). Nepředpokládejte, že náhlá ztráta schopnosti komunikovat je jen součástí demence. Pokud se člověk najednou zmate, výrazně se necítí dobře nebo se hůř probouzí, kontaktujte místní urgentní zdravotní služby.
+Potíže s jazykem se mohou postupně měnit, ale náhlá změna je něco jiného. [NHS doporučuje okamžitě vyhledat lékařskou pomoc, pokud se někdo náhle stane zmateným](https://www.nhs.uk/symptoms/confusion/). Nepovažujte náhlou ztrátu schopnosti komunikovat automaticky za součást demence. Pokud se člověk náhle stane zmateným, je mu velmi špatně nebo je obtížné ho probudit, kontaktujte místní pohotovostní zdravotní služby.
 
-U postupných změn si zapisujte, co pozorujete, a zeptejte se lékaře na radu. Poznamenejte, jakým jazykem člověk mluvil, co mu pomáhalo se domluvit a zda byl unavený nebo nemocný. Jde o popis pro rozhovor, ne o diagnózu. Naše [příručka k návštěvě lékaře](/caregiving/doctor-visit-with-dementia/) pomůže připravit otázky.
+Při postupných změnách si poznamenejte, čeho si všímáte, a požádejte o radu lékaře daného člověka. Zapište si, jakým jazykem mluvil, co mu v komunikaci pomáhalo a zda byl unavený nebo mu nebylo dobře. Jde o popis pro rozhovor, nikoli o diagnózu. Náš [průvodce návštěvou lékaře](/caregiving/doctor-visit-with-dementia/) vám může pomoci připravit otázky.
 
-## Co mohu sdělit dalším pomocníkům?
+## Co mohu říct dalším lidem, kteří pomáhají?
 
-S souhlasem člověka si pro lidi, které chce zapojit, uchovávejte krátkou poznámku. Může obsahovat jazyk nebo nářečí, kterým člověk preferuje mluvit a číst, známá slova nebo jména a to, co mu pomáhá sledovat rozhovor. Zeptejte se, zda chce při návštěvách nebo informování o péči někoho konkrétního. Nezaznamenávejte soukromé údaje, které nejsou k podpoře potřeba, a řekněte člověku, kdo může poznámku vidět. Jazyková poznámka pomůže lidem snáze začít rozhovor; nenahrazuje tlumočníka při složitém zdravotním rozhovoru.
+Se souhlasem člověka si můžete připravit krátkou poznámku pro lidi, které chce zapojit. Může obsahovat jazyk nebo nářečí, které upřednostňuje při mluvení i čtení, známá slova nebo pojmenování a to, co mu pomáhá sledovat rozhovor. Zeptejte se, zda chce, aby se schůzek nebo informování o péči účastnil někdo konkrétní. Nezapisujte soukromé údaje, které pro podporu nejsou potřeba, a řekněte člověku, kdo si poznámku může přečíst. Jazyková poznámka může lidem pomoci začít rozhovor pohodlněji; nenahrazuje však tlumočníka při složitější zdravotní domluvě.
 
-## Jak podpořit volby člověka?
+## Jak mohu podpořit volby daného člověka?
 
-Jazyk je součástí toho, jak se člověk spojuje s okolím, ale není celým jeho já. Zeptejte se na jeho rutiny, zájmy, čtení a lidi, které si přeje zapojit. Pokud s tím člověk souhlasí, zapište užitečná slova nebo fráze pro ostatní pomocníky a vysvětlete, jak je používat. Poznámky držte v soukromí a sdílejte jen to, na čem se člověk dohodl.
+Jazyk je součástí toho, jak člověk navazuje spojení s okolím, ale není to vše, kým je. Zajímejte se o jeho zvyky, zájmy, to, co rád čte, a o lidi, které chce mít nablízku. Pokud s tím člověk souhlasí, zapište užitečná slova nebo fráze pro další pečující osoby a vysvětlete, jak je používat. Poznámky uchovávejte v soukromí a sdílejte jen to, se sdílením čeho člověk souhlasil.
 
-Netlačte na něj, aby cvičil, tlumočil pro ostatní nebo dokazoval, čemu rozumí. Některé rozhovory mohou být snazší v jednom jazyce a jiné v druhém. Pohodlí, soukromí a volba člověka jsou důležitější než držet se jediného jazyka.
+Netrvejte na tom, aby člověk jazyk procvičoval, tlumočil pro ostatní nebo dokazoval, čemu rozumí. Některé rozhovory mohou být snazší v jednom jazyce a jiné v jiném. Pohodlí, soukromí a volba člověka jsou důležitější než setrvání u jednoho jazyka.
 
-Naše [tipy ke komunikaci](/caregiving/communication-tips/) popisují, jak mluvit jednoduše, naslouchat a používat obrázky. Pomoc s plánováním po diagnóze najdete v článku [první kroky po diagnóze demence](/caregiving/after-dementia-diagnosis/).
+Naše [tipy pro komunikaci](/caregiving/communication-tips/) zahrnují jednoduché vyjadřování, naslouchání a používání obrázků. Pokud potřebujete pomoc s plánováním po stanovení diagnózy, podívejte se na [první kroky po stanovení diagnózy demence](/caregiving/after-dementia-diagnosis/).

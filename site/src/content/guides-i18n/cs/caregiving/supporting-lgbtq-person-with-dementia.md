@@ -1,30 +1,31 @@
 ---
-title: "Podpora člověka s demencí, který je LGBTQ+"
-seoTitle: "Péče o LGBTQ+ s demencí: identita, soukromí a podpora"
-description: "Praktické způsoby, jak respektovat identitu, soukromí, partnera a zvolené blízké člověka, který je LGBTQ+, při plánování péče o demenci."
+title: "Podpora osoby s demencí, která je LGBTQ+"
+seoTitle: "Péče o LGBTQ+ osobu s demencí: identita a soukromí"
+description: "Praktické tipy, jak respektovat identitu, soukromí, partnera či partnerku a blízké osoby člověka s demencí, který je LGBTQ+, při plánování péče."
 section: caregiving
 order: 40
 updated: 2026-11-12
 translatedFrom: 2026-11-12
 summary: >-
-  Zeptejte se, jak chce být člověk oslovován, koho chce zapojit a co smí být
-  sdíleno. Respektujte partnery a zvolenou rodinu, chraňte soukromí a ptejte se
-  poskytovatelů péče, jak jejich zásady fungují v každodenním životě.
+  Ptejte se, jak chce člověk oslovovat, koho chce zapojit do péče a co chce
+  sdílet. Respektujte partnery, partnerky i zvolené blízké osoby, chraňte
+  soukromí a zeptejte se poskytovatelů péče, jak jejich postupy fungují
+  v každodenním životě.
 keyPoints:
-  - "Zeptejte se na jméno člověka, zájmena, vztahy a přání ohledně soukromí; nepředpokládejte je."
-  - "Nechte člověka rozhodnout, zda, kdy a s kým bude sdílet osobní informace."
-  - "Zeptejte se, koho člověk považuje za rodinu a kdo smí dostávat informace nebo ho navštěvovat."
-  - "Ověřte, jak poskytovatelé péče zaznamenávají preference, chrání soukromí a reagují na připomínky."
+  - "Ptejte se na jméno, zájmena, vztahy a preference ohledně soukromí; nic nepředpokládejte."
+  - "Nechte člověka rozhodnout, zda, kdy a s kým chce sdílet osobní informace."
+  - "Zjistěte, koho člověk považuje za blízkou osobu a kdo může dostávat informace nebo ho navštěvovat."
+  - "Ověřte si, jak poskytovatelé péče zaznamenávají preference, chrání soukromí a řeší obavy."
   - "Identita je důležitá, ale je jen jednou částí života člověka a jeho péče."
 faq:
-  - q: "Mám personálu péče říct, že někdo je LGBTQ+?"
-    a: "Zeptejte se člověka, co chce, aby personál věděl, a kdo to smí vědět. Pokud to jde, sdílejte jen to, s čím člověk souhlasí, a zeptejte se poskytovatele, jak budou informace zaznamenány a kdo je uvidí."
+  - q: "Mám pracovníkům v péči říct, že je někdo LGBTQ+?"
+    a: "Zeptejte se člověka, co chce, aby pracovníci věděli, a kdo to může vědět. Pokud je to možné, sdílejte pouze to, s čím souhlasí, a zeptejte se poskytovatele, jak budou informace zaznamenány a kdo je uvidí."
   - q: "Kdo by měl být zapojen do rozhovorů o péči?"
-    a: "Zeptejte se člověka, komu důvěřuje a koho chce zapojit. Může to být partner, přítel, příbuzný nebo zvolená rodina. Nepředpokládejte, že preferovaným kontaktem je biologický příbuzný."
-  - q: "Na co se zeptat v domově pro seniory ohledně inkluze LGBTQ+ osob?"
-    a: "Zeptejte se, jak se jména a zájmena zaznamenávají, jak fungují návštěvy a soukromý čas, jak se řeší společné ubytování a osobní péče, jaké školení personál absolvuje a jak se řeší připomínky. Pokud na tom záleží, vyžádejte si aktuální písemné zásady."
-  - q: "Co když člověk změní, co chce sdílet?"
-    a: "Preference se mohou lišit podle člověka, prostředí a času. Pokud to jde, ověřte si je znovu přímo s člověkem a nesdělujte informace podle dřívějšího rozhovoru, pokud vás nyní žádá, aby zůstaly v soukromí."
+    a: "Zeptejte se člověka, komu důvěřuje a koho chce do rozhovorů zapojit. Může to být partner či partnerka, přítel či přítelkyně, příbuzný či příbuzná nebo zvolená blízká osoba; nepředpokládejte, že biologický příbuzný je preferovaný kontakt."
+  - q: "Na co se mám zeptat domova pro seniory ohledně začlenění LGBTQ+ lidí?"
+    a: "Zeptejte se na jména a zájmena v záznamech, na návštěvy a soukromí, na bydlení a preference při osobní péči, na školení pracovníků a na to, jak se řeší obavy. Pokud je to důležité, požádejte o aktuální písemné zásady."
+  - q: "Co když člověk změní to, co chce sdílet?"
+    a: "Preference se mohou lišit podle člověka, prostředí i času. Pokud je to možné, zeptejte se člověka znovu a nesdělujte informace na základě dřívějšího rozhovoru, pokud vás nyní požádá, abyste je nechali v soukromí."
 sources:
   - title: "Supporting an LGBTQ+ person with dementia"
     publisher: "Alzheimer's Society"
@@ -43,49 +44,48 @@ related: [caregiving/choosing-residential-dementia-care, caregiving/after-dement
 health: true
 ---
 
-Identita člověka, který je LGBTQ+, je jednou částí toho, kým je. Zeptejte se, co je pro něj důležité, používejte slova, která sám zvolí, a nechte ho rozhodnout, kdo smí znát osobní údaje. Nepředpokládejte jeho identitu, partnera, podporu rodiny ani přání ohledně soukromí podle vzhledu, starých záznamů nebo toho, kdo ho navštěvuje.
+Identita člověka, který je LGBTQ+, je jen jednou částí toho, kým je. Ptejte se, na čem mu záleží, používejte slova, která si zvolí, a nechte ho rozhodnout, kdo se může dozvědět osobní informace. Nepředpokládejte identitu člověka, jeho partnera či partnerku, rodinnou podporu ani to, co chce mít v soukromí, podle vzhledu, starých záznamů nebo podle toho, kdo ho navštěvuje.
 
-[Průvodce Alzheimer's Society o podpoře člověka s demencí, který je LGBTQ+](https://www.alzheimers.org.uk/get-support/help-dementia-care/supporting-lgbtq-dementia), doporučuje ptát se na přání člověka a vyhýbat se domněnkám o vztazích. [Zdroje Alzheimer's Association pro LGBTQ+ osoby s demencí](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) také popisují obavy ze stigmatu a hledání vstřícné péče. Lidé se liší; použijte tyto myšlenky jako podnět k rozhovoru, ne jako seznam, který někoho definuje.
+[Průvodce Alzheimer's Society pro podporu osoby s demencí, která je LGBTQ+](https://www.alzheimers.org.uk/get-support/help-dementia-care/supporting-lgbtq-dementia) doporučuje ptát se na přání člověka a vyhnout se domněnkám o vztazích. [Zdroje Alzheimer's Association pro LGBTQ+ komunitu a demenci](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) také popisují obavy ze stigmatizace a z hledání vstřícné péče. Lidé se liší; berte tyto podněty jako nápady pro rozhovor, ne jako seznam, který někoho definuje.
 
 ## Jak se zeptat na jméno, zájmena a soukromí?
 
-Vyberte si soukromou a klidnou chvíli. Můžete se zeptat: „Jaké jméno a zájmena chcete, abychom používali?“ nebo „Je něco o vaší identitě nebo vztazích, co chcete, aby lidé, kteří vám pomáhají, věděli?“ Člověk může odpovědět jen zčásti, říct ne nebo se k tomu vrátit později. Nemusíte klást osobní otázky, které nesouvisejí s jeho péčí.
+Vyberte si klidnou chvíli v soukromí. Můžete se zeptat: „Jaké jméno a zájmena chcete, abychom používali?“ nebo „Je něco o vaší identitě nebo vztazích, co by měli vědět lidé, kteří vám pomáhají?“ Člověk může odpovědět jen částečně, odmítnout nebo se k tomu vrátit později. Nemusíte se ptát na osobní věci, které nesouvisejí s jeho péčí.
 
-Zeptejte se, kdo smí co vědět. Někdo může chtít, aby personál uznával jeho partnera, ale nechce, aby se širší rodina dozvěděla o jeho sexuální orientaci nebo genderové identitě. Člověk může také preferovat jiné formulace v různých prostředích. Nesdílejte podrobnosti o identitě s příbuznými, návštěvami nebo personálem jen proto, že je znáte.
+Zeptejte se, kdo se může dozvědět co. Někdo může chtít, aby pracovníci uznávali jeho partnera či partnerku, ale nemusí chtít, aby se širší rodina dozvěděla o jeho sexuální orientaci nebo genderové identitě. Člověk také může v různých prostředích upřednostňovat jiné vyjádření. Nesdělujte informace o identitě příbuzným, návštěvám ani pracovníkům jen proto, že je znáte.
 
-Pokud chce člověk, aby byla preference zaznamenána, zeptejte se, co přesně se má napsat a kdo to smí vidět. Ověřte, jak poskytovatel zachází se jménem, které se liší od ostatních záznamů, včetně toho, zda mohou zaměstnanci v rozhovoru používat preferované jméno. Mějte na paměti soukromí člověka; ne každý, kdo pomáhá s péčí, potřebuje znát všechny podrobnosti.
+Pokud si člověk přeje, aby byla jeho preference zaznamenána, zeptejte se, co má být zapsáno a kdo to má vidět. Ověřte si, jak poskytovatel pracuje se jménem, které se liší od jiných záznamů, včetně toho, zda mohou pracovníci v rozhovoru používat preferované jméno. Myslete na soukromí člověka; ne každý, kdo pomáhá s péčí, potřebuje znát všechny podrobnosti.
 
-Preference se mohou měnit. Ptejte se znovu, když může člověk vyjádřit svou volbu, zejména před stěhováním nebo novým uspořádáním péče. Pokud není jasné, co chce sdílet, nepředpokládejte to. Dodržujte jasnou preferenci, kterou dříve vyjádřil, a s otázkami na oprávnění k péči nebo pravidla sdílení informací se obraťte na kvalifikovaného odborníka v místě bydliště.
+Preference se mohou měnit. Zeptejte se znovu, když člověk může vyjádřit své přání, zejména před stěhováním nebo novým uspořádáním péče. Pokud není jasné, co chce sdílet, nic nepředpokládejte. Respektujte jakékoli jasné přání, které dříve vyjádřil, a v otázkách týkajících se oprávnění rozhodovat o péči nebo pravidel sdílení informací požádejte o pomoc kvalifikovaného odborníka ve vašem okolí.
 
-## Koho zapojit do rozhovorů o péči?
+## Kdo by měl být zapojen do rozhovorů o péči?
 
-Zeptejte se člověka, komu důvěřuje a koho chce zapojit. Jeho podpůrná síť může zahrnovat manžela nebo manželku, partnera, blízkého přítele, příbuzného nebo „zvolenou rodinu“, tedy lidi, kteří ho podporují jako rodinu, i když s ním nejsou příbuzní. Někteří lidé se opírají o rodinu, do které se narodili; jiní ne. Nechte člověka popsat jeho vztahy vlastními slovy.
+Zeptejte se člověka, komu důvěřuje a koho chce zapojit. Jeho síť podpory může zahrnovat manžela či manželku, partnera či partnerku, blízkého přítele či přítelkyni, příbuzného či příbuznou nebo „zvolenou rodinu“ — tedy lidi, kteří ho podporují jako rodina, i když s ním nejsou příbuzní. Někteří lidé se opírají o původní rodinu, jiní ne. Nechte člověka popsat své vztahy vlastními slovy.
 
-Ptejte se na praktické věci: Kdo smí navštěvovat? Komu má personál zavolat, když se plány změní? Kdo smí dostávat informace? Pokud poskytovatel před sdílením informací vyžaduje souhlas nebo papíry, zeptejte se, co potřebuje, a vysvětlete možnosti člověku. Být partnerem nebo zvoleným blízkým člověka automaticky neznamená právní oprávnění k rozhodování; pravidla se liší podle místa.
+Ptejte se na praktické věci: Kdo ho může navštěvovat? Komu mají pracovníci zavolat, když se změní plány? Kdo může dostávat informace? Pokud poskytovatel vyžaduje před sdílením informací souhlas nebo dokumenty, zeptejte se, co je potřeba, a vysvětlete možnosti danému člověku. To, že je někdo partner či partnerka nebo zvolená blízká osoba, samo o sobě neznamená, že má zákonné oprávnění rozhodovat; pravidla se liší podle místa.
 
-Používejte označení vztahu, které člověk preferuje. Pečovatel, který nazve partnera „kamarádem“ nebo „příbuzným“, ačkoli člověk chce, aby byl uznán jako partner, může způsobit tíseň. Krátká poznámka, která vychází ze souhlasu člověka, může personálu sdělit, jak představovat lidi a jaké údaje lze sdílet.
+Používejte označení vztahu, které si člověk přeje. Pokud pracovník v péči označí partnera či partnerku jako „kamaráda“, „kamarádku“ nebo „příbuzného“, i když si člověk přeje, aby byl uznán jako partner či partnerka, může to být pro něj zraňující. Krátká poznámka založená na souhlasu může pracovníkům říct, jak mají lidi představovat a jaké údaje mohou sdílet.
 
-## Na co se mohu zeptat poskytovatele péče?
+## Na co se můžete zeptat poskytovatele péče?
 
-Při porovnávání pobytové péče, péče v domácnosti nebo denních center se zeptejte člověka, jaké otázky chce položit a zda chce, abyste u toho byli. [Průvodce SAGE o vstřícných službách](https://www.sageusa.org/resource/10-tips-for-finding-lgbt-affirming-services/) upozorňuje, že sdílení osobních informací s poskytovatelem může být zranitelné. Požádejte poskytovatele, aby srozumitelně vysvětlil své současné postupy.
+Při porovnávání pobytové péče, podpory v domácnosti nebo denních služeb se zeptejte člověka, jaké otázky chce položit a zda tam chce, abyste byli s ním. [Průvodce SAGE pro hledání vstřícných služeb](https://www.sageusa.org/resource/10-tips-for-finding-lgbt-affirming-services/) uvádí, že sdílení osobních informací s poskytovatelem může být citlivé. Požádejte poskytovatele, aby vám srozumitelně vysvětlil své současné postupy.
 
-- Jak zaznamenáváte preferované jméno a zájmena? Které zaměstnance mohou tyto údaje vidět?
-- Jak může člověk vybrat, kdo ho navštíví, a mít soukromý čas s partnerem nebo jiným blízkým?
-- Jak zjišťujete a respektujete preference ohledně společného ubytování, oblečení a osobní péče?
-- Jaké školení absolvují zaměstnanci o starších osobách LGBTQ+ a demenci?
-- Jak může obyvatel nebo jeho blízký vznést připomínku k soukromí nebo neuctivému zacházení a co se pak stane?
+- Jak zaznamenáváte preferované jméno a zájmena? Kteří pracovníci tyto informace vidí?
+- Jak si může člověk vybrat, kdo ho navštěvuje, a mít soukromí s partnerem, partnerkou nebo jinou blízkou osobou?
+- Jak zjišťujete a respektujete preference člověka ohledně bydlení, oblečení a osobní péče?
+- Jaké školení absolvují pracovníci v oblasti péče o starší LGBTQ+ lidi a demenci?
+- Jak může klient nebo blízká osoba vznést obavu ohledně soukromí nebo neúcty a co se pak stane?
 
-[Průvodce SAGE a Human Rights Campaign Foundation o inkluzivní dlouhodobé péči](https://www.sageusa.org/wp-content/uploads/2025/08/lei-consumer-guide-finding-lgbtq-inclusive-ltcc.pdf) doporučuje ověřit písemné zásady týkající se návštěv, ubytování a praxe personálu. Byl vydán v roce 2021; použijte ho jako seznam otázek, ne jako přehled současného místního práva. Zásady a služby se liší podle místa.
+[Průvodce SAGE a Human Rights Campaign Foundation pro inkluzivní dlouhodobou péči](https://www.sageusa.org/wp-content/uploads/2025/08/lei-consumer-guide-finding-lgbtq-inclusive-ltcc.pdf) doporučuje ověřit si písemné zásady týkající se návštěv, bydlení a postupu pracovníků. Byl vydán v roce 2021; používejte ho jako zdroj otázek, které můžete položit, nikoli jako vyjádření k aktuálním místním zákonům. Zásady a služby se liší podle místa.
 
-Logo, brožura nebo jedna uklidňující odpověď nemohou zaručit, jaká bude každodenní péče. Pokud chce člověk navštívit konkrétní zařízení, všímejte si, jak ho personál oslovuje a jak reaguje na jeho partnera nebo blízké. Pokud by to člověku pomohlo cítit se bezpečně, požádejte o soukromý rozhovor s některým zaměstnancem.
+Logo, brožura nebo jedna uklidňující odpověď nemohou zaručit, jaká bude každodenní péče ve skutečnosti. Pokud si to člověk přeje a může zařízení navštívit, všímejte si, jak ho pracovníci oslovují a jak reagují na jeho partnera, partnerku nebo zvolené blízké osoby. Pokud by to pomohlo člověku cítit se bezpečně, požádejte o soukromý rozhovor s pracovníkem.
 
-## Jak podpořit celého člověka?
+## Jak můžete podpořit člověka jako celek?
 
-Ptejte se na jeho obvyklé zájmy, rutiny, jazyk, kulturu, víru, přátele a komunitu. Jeho identita může být důležitým tématem, nebo může chtít trávit čas s jinými částmi života. Nepřeměňujte každou návštěvu v rozhovor o identitě a nepředpokládejte, že každý člověk, který je LGBTQ+, prožil totéž.
+Zajímejte se o běžné zájmy člověka, jeho rutiny, jazyk, kulturu, víru, přátele a komunitu. Může být důležité mluvit o jeho identitě, nebo může dávat přednost tomu trávit čas jinými částmi života. Neměňte každou návštěvu v rozhovor o identitě a nepředpokládejte, že všichni LGBTQ+ lidé mají stejné zkušenosti.
 
-Někteří lidé se setkali s odmítnutím nebo diskriminací a ke službám mohou být opatrní. Jiní to tak nevnímají. Naslouchejte, aniž byste po člověku chtěli, aby cokoli vysvětloval nebo dokazoval. Pokud je vzpomínka, fotografie nebo příběh z minulosti pro něj bolestný, zeptejte se, zda chce přestat nebo změnit téma.
+Někteří lidé se setkali s odmítnutím nebo diskriminací a mohou k službám přistupovat opatrně. Jiní to jako obavu nevnímají. Naslouchejte, aniž byste po člověku chtěli cokoli vysvětlovat nebo dokazovat. Pokud je vzpomínka, fotografie nebo příběh z minulosti znepokojující, zeptejte se, zda chce přestat nebo změnit téma.
 
-Pokud jste partner, přítel nebo člen rodiny, záleží i na vaší podpoře. Zeptejte se člověka, jak si přeje, abyste se zapojili, a pokud potřebujete radu, vyhledejte místní organizaci zaměřenou na demenci nebo na stárnutí LGBTQ+ osob. [Stránka zdrojů Alzheimer's Association](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) odkazuje na komunitní a pečovatelské zdroje; co je k dispozici, závisí na tom, kde žijete.
+Pokud jste partner či partnerka, přítel či přítelkyně nebo člen rodiny, je důležité myslet i na vaši vlastní podporu. Zeptejte se člověka, jakou roli od vás očekává, a pokud potřebujete radu, vyhledejte místní organizaci zaměřenou na demenci nebo na stárnutí LGBTQ+ lidí. [Stránka se zdroji Alzheimer's Association](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) odkazuje na zdroje pro komunitu a pečující osoby; dostupnost závisí na tom, kde žijete.
 
-Širší kontrolní seznam při porovnávání domovů pro seniory najdete v článku [Jak vybrat pobytovou péči při demenci](/caregiving/choosing-residential-dementia-care/). Pomoc s plánováním po diagnóze najdete v článku [První kroky po diagnóze demence](/caregiving/after-dementia-diagnosis/).
-
+Širší seznam otázek při porovnávání domovů pro seniory najdete v textu [jak vybrat pobytovou péči při demenci](/caregiving/choosing-residential-dementia-care/). Pomoc s plánováním po stanovení diagnózy najdete v textu [první kroky po diagnóze demence](/caregiving/after-dementia-diagnosis/).

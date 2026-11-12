@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Маслиҳатҳо барои суҳбат бо шахси гирифтори деменсия"
+seoTitle: "Маслиҳатҳо барои суҳбат ҳангоми деменсия"
+description: "Роҳҳои амалӣ барои суҳбат бо шахси гирифтори деменсия: чӣ гуна омодагӣ дидан, чӣ гуфтан ва чӣ гуна гӯш кардан."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Дар ҷои ором суҳбат кунед, рӯ ба рӯи шахс биншинед, бо номаш муроҷиат кунед
+  ва оҳиста, бо ҷумлаҳои кӯтоҳ ва сода ҳарф занед. Як саволро дар як вақт
+  бипурсед, ба ҷои саволҳои кушод ду интихоб пешниҳод кунед ва назар ба одат
+  бештар интизор шавед. Баҳс накунед, ислоҳ накунед ва санҷиш накунед. Ба
+  эҳсосоти паси суханон посух диҳед ва вақте ки гуфтан душвор мешавад, аз
+  ламс, тасвирҳо ва ишораҳо истифода баред.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Пеш аз оғози суҳбат садои атрофро кам кунед ва кӯшиш кунед, ки чашм ба чашм нигаред."
+  - "Ҷумлаҳои кӯтоҳ, як фикр дар як вақт ва номҳоро ба ҷои «ӯ» ё «онҳо» истифода баред."
+  - "Ба ҷои саволҳои кушод, ду интихоб ё саволи «ҳа» ё «не» пешниҳод кунед."
+  - "Ба ҷавоб интизор шавед. Агар шахс фаҳмида нашавад, ҳамон суханонро такрор кунед, баъд калимаҳои дигарро кӯшиш кунед."
+  - "Баҳс ва ислоҳ накунед. Ба эҳсосоти паси суханон посух диҳед."
+  - "Вақте ки калимаҳо кам мешаванд, тавассути ламс, оҳанги овоз, ифодаи рӯй ва тасвирҳои муштарак суҳбат кунед."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ба шахси гирифтори деменсия чӣ набояд гуфт?"
+    a: "Аз санҷидан («Ёдат ҳаст…?»), ислоҳ кардан («Ин нодуруст аст»), ба ёд овардани талафот («Ман аллакай ба ту гуфта будам») ва гуфтан дар бораи шахс гӯё ӯ дар он ҷо нест, худдорӣ кунед. Аз забони кӯдакона истифода набаред. Инҳо бештар метавонанд шармсарӣ ё нооромӣ ба вуҷуд оранд, на кӯмак."
+  - q: "Оё бояд ӯро ҳангоми иштибоҳ гуфтани фактҳо ислоҳ кунам?"
+    a: "Одатан не. Агар факти нодуруст зараре надорад, беҳтараш гузаред. Баҳс кам ба тағйири ақидаи шахс оварда мерасонад ва аксар вақт ӯро ноором мекунад. Ба эҳсос ва ниёзи ӯ дар ҳамин лаҳза диққат диҳед."
+  - q: "Вақте ки ӯ калимаи лозимиро ёфта наметавонад, чӣ кор кунам?"
+    a: "Аввал ба ӯ вақт диҳед. Агар ӯ равшан душворӣ кашад, шумо метавонед оҳиста калимаеро пешниҳод кунед ё фаҳмидаи худро бипурсед. Ишора кардан, имову ишораҳо ва тасвирҳо низ метавонанд кӯмак расонанд."
+  - q: "Чӣ гуна бо шахсе суҳбат кунам, ки дар марҳалаи охири деменсия кам сухан мегӯяд?"
+    a: "Аз пеши рӯ наздик шавед, худро муаррифӣ кунед ва бо овози ором ва ламси нарм ҳарф занед. Барои фаҳмидани эҳсосот ба ифодаи рӯй ва забони бадан диққат диҳед. Ҳузури шумо, суруди ошно ё даст доштан бе сухан ҳам бисёр чизро мерасонанд."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменсия метавонад ёфтани калимаҳо, фаҳмидани ҷумлаҳои дароз ё нодида гирифтани садои атрофро душвор кунад. Аммо ин маънои онро надорад, ки шахс дигар намехоҳад бо дигарон робита дошта бошад. Тағйироти хурд дар омодагӣ ба суҳбат, тарзи сухан гуфтан ва гӯш кардан метавонанд суҳбатро барои ҳардуи шумо осонтар ва оромтар созанд.
 
-## What are the most important tips for talking with someone who has dementia?
+## Муҳимтарин маслиҳатҳо барои суҳбат бо шахси гирифтори деменсия кадомҳоянд?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Диққати ӯро ҷалб кунед, содда ҳарф занед ва сабр дошта бошед. Агар танҳо панҷ чизро дар ёд доред:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ҳона ором бошад ва рӯ ба рӯ биншинед.** Телевизорро хомӯш кунед, дар сатҳи чашм биншинед ва бо номаш муроҷиат кунед.
+2. **Дар як вақт як чиз гӯед.** Ҷумлаҳои кӯтоҳ, як фикр, як савол.
+3. **Ду интихоб пешниҳод кунед.** «Чой ё қаҳва?» нисбат ба «Шумо чӣ мехоҳед?» осонтар аст.
+4. **Интизор шавед.** Барои ҷавоб назар ба одат бештар вақт диҳед ва кӯшиш кунед сухани ӯро набуред.
+5. **Ҳеҷ гоҳ баҳс ва санҷиш накунед.** Ба эҳсосоти ӯ посух диҳед, на ба дуруст ё нодуруст будани фактҳо.
 
-## How should I start a conversation?
+## Сӯҳбатро чӣ гуна оғоз кунам?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Шароити суҳбатро тавре фароҳам оред, ки шахс тавонад ба шумо диққат диҳад. [Дастури Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) тавсия медиҳад, ки аввал садои атрофро кам кунед: радио ё телевизорро хомӯш кунед, пардаро ё дарро пӯшед ё ба ҷои оромтар гузаред.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Аз пеши рӯ наздик шавед.** Наздик шудан аз қафо ё паҳлӯ метавонад шахсро ба ваҳм орад.
+- **Худро муаррифӣ кунед.** «Салом падар, ман Сара ҳастам, духтари шумо.» Ин ба ӯ кӯмак мекунад, ки номи шуморо ҷустуҷӯ накунад.
+- **Дар сатҳи чашми ӯ бошед.** Агар ӯ нишаста бошад, шумо ҳам биншинед ё зону занед, то чашмҳо дар як сатҳ бошанд.
+- **Ба ифодаи рӯй ва оҳанги овози худ диққат диҳед.** [Пажӯҳишгоҳи миллии пиронсолӣ (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) маслиҳат медиҳад, ки ба оҳанг, баландии овоз, ифодаи рӯй ва забони бадани худ диққат диҳед ва бо табъи гарм, вале оддӣ ҳарф занед.
+- **Боварӣ ҳосил кунед, ки айнак ва асбоби шунавоӣ дар ҷои худ ҳастанд.** Пайравӣ кардани суҳбате, ки хуб дида ё шунида намешавад, душвор аст.
 
-## How should I phrase what I say?
+## Суханони худро чӣ гуна баён кунам?
 
-Use simple words, short sentences and a calm, low voice.
+Калимаҳои содда, ҷумлаҳои кӯтоҳ ва овози ором ва пастро истифода баред.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Дар ҳар ҷумла як фикр.** «Биёед куртаатонро пӯшем. Баъд берун меравем.» На ҳарду дар як нафас.
+- **Ба ҷои ҷонишинҳои исм номҳоро истифода баред.** «Хола Ҷин занг зад» нисбат ба «Ӯ занг зад» равшантар аст.
+- **Овозро пасттар кунед, на баландтар.** Family Caregiver Alliance маслиҳат медиҳад, ки овози паст беҳтар аз овози баланд аст.
+- **Такрор кунед, баъд дигар хел гӯед.** Агар шахс нафаҳмид, ҳамон суханонро як бор такрор кунед. Агар ин кор накунад, каме интизор шавед ва бо калимаҳои дигар кӯшиш кунед.
+- **Ҳам нишон диҳед, ҳам гӯед.** Ба пиёла ишора кунед, ду свитерро нишон диҳед ё қадами аввалро намоиш диҳед.
+- **Бо ӯ ҳарф занед, на дар бораи ӯ.** NIA ҳушдор медиҳад, ки дар бораи шахс гӯё ӯ дар он ҷо нест, сухан нагӯед ва аз забони кӯдакона истифода набаред.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA вариантҳои соддатари саволҳои маъмулро пешниҳод мекунад. Намунаҳо дар ҳамин рӯҳ:
 
-| Instead of | Try |
+| Ба ҷои | Кӯшиш кунед гуфтан |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Шумо барои хӯроки шом чӣ мехоҳед?» | «Шумо моҳӣ мехоҳед ё мурғ?» |
+| «Шумо худро чӣ ҳис мекунед?» | «Шумо худро хаста ҳис мекунед?» |
+| «Шумо гуруснаед?» | «Хӯроки шом пас аз панҷ дақиқа тайёр мешавад.» |
+| «Ин корро ин тавр намекунанд.» | «Биёед ин тавр кӯшиш кунем.» |
+| «Сафари мо ба соҳили кӯлро дар ёд доред?» | «Ман дар бораи сафари мо ба соҳили кӯл фикр мекардам. Ба шумо дар он ҷо чӣ маъқул буд?» |
+| «Ман аллакай ба ту гуфта будам.» | Боз бо меҳрубонӣ ҷавоб диҳед, гӯё бори аввал аст. |
 
-## How do I listen well?
+## Чӣ гуна хуб гӯш кунам?
 
-Listen for the meaning and the feeling, not just the words.
+Ба маъно ва эҳсос гӯш кунед, на танҳо ба калимаҳо.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Интизор шавед.** Хомӯшӣ аксар вақт вақти фикр кардан аст. Пеш аз дахолат кардан, оҳиста то даҳ шуморед.
+- **Танҳо вақте ки ӯ дармонда бошад, калима пешниҳод кунед.** Family Caregiver Alliance мегӯяд, ки вақте касе душворӣ мекашад, пешниҳоди калима ҷоиз аст.
+- **Фаҳмидаи худро санҷед.** [Дастури Alzheimer's Association дар бораи муошират](https://www.alz.org/help-support/caregiving/daily-care/communications) тавсия медиҳад, ки ба маънои паси суханон диққат диҳед ва онро бозгӯй кунед, то фаҳмиши худро санҷед. «Шумо дар бораи мошин нигаронед?»
+- **Ба ифодаи рӯй ва бадан диққат диҳед.** Тибқи гуфтаи NIA, вақте сухан гуфтан душвор мешавад, ифодаи рӯй метавонад ғамгинӣ, хашм ё ноумедиро равшантар аз калимаҳо нишон диҳад.
+- **Нигарониҳоро ҷиддӣ қабул кунед.** Ҳатто агар нигаронӣ бар асоси факти нодуруст бошад ҳам, эҳсоси шахс воқеӣ аст.
 
-## What if they say something that is not true?
+## Агар ӯ чизи нодуруст гӯяд, чӣ кор кунам?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Баҳс накунед. Эҳтимоли ғолиб шудан кам аст ва шахс метавонад худро шармсор ё тарсон ҳис кунад. Ба ҷои ин, бо эҳсоси ӯ пайваст шавед ва баъд оҳиста мавзӯъро иваз кунед.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance пешниҳод мекунад, ки пеш аз тағйири самти суҳбат эҳсоси шахсро эътироф кунед. Масалан, агар модаратон исрор кунад, ки бояд ба назди кӯдакон ба мактаб равад:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Ба ҷои: «Модар, фарзандонат калон шудаанд. Ин чил сол пеш буд.»
+- Кӯшиш кунед: «Шумо ҳамеша модари меҳрубон будед. Дар бораи бурдани онҳо ба мактаб ба ман нақл кунед. Аввал каме чизе мехӯрем?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association низ маслиҳат медиҳад, ки дар бораи суханоне, ки шумо бо онҳо розӣ нестед, баҳс накунед. Лаҳзаро дуруст интихоб кунед: агар боварии нодуруст зараре надорад, бигзоред ҳамин тавр бимонад.
 
-## How does communication change as dementia progresses?
+## Бо пеш рафтани деменсия муошират чӣ гуна тағйир меёбад?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Бо гузашти вақт ниёзҳо тағйир меёбанд, бинобар ин тарзи наздик шуданатонро мутобиқ кунед. Alzheimer's Association се марҳалаи умумиро тавсиф мекунад:
 
-| Stage | What helps |
+| Марҳала | Чӣ кӯмак мекунад |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Аввал | Гумон набаред, ки ӯ дигар наметавонад муошират кунад. Ӯро ба суҳбатҳо ҷалб кунед, мустақиман бо ӯ ҳарф занед, бипурсед, ки кадом кӯмакро мехоҳад ва агар мувофиқ бошад, аз ҳазлу шӯхӣ истифода баред. |
+| Миёна | Суҳбатҳои як ба як дар ҷои ором. Оҳиста ҳарф занед, чашм ба чашм нигоҳ кунед, саволҳои «ҳа» ё «не» бипурсед, дастурҳоро қадам ба қадам диҳед ва танқид ё ислоҳ накунед. |
+| Охир | Аз пеши рӯ наздик шавед ва худро муаррифӣ кунед. Ба ишора кардан ва имову ишораҳо ташвиқ кунед. Аз ламс, садоҳо, манзараҳо ва бӯйҳо истифода баред. Ҳеҷ гоҳ гӯё ӯ дар он ҷо нест, сухан нагӯед. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Ҳар шахс фарқ мекунад ва ҳамон як шахс метавонад рӯзҳои хуб ва рӯзҳои душвор дошта бошад. Ба ҳолати ӯ дар ҳамин лаҳза ҷавоб диҳед, на ба як номгузорӣ.
 
-## Can pictures and activities make conversation easier?
+## Оё тасвирҳо ва фаъолиятҳо метавонанд суҳбатро осонтар кунанд?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Бале. Тасвири муштарак фишорро кам мекунад ва ба ҳардуи шумо чизе медиҳад, ки ба он нигоҳ ва ишора кунед.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Саволҳои тасвирӣ.** [Conversation Cards](/games/conversation-cards/) тасвирҳоро бо саволҳои кушод пешниҳод мекунанд, ки ҳеҷ гоҳ санҷиш намекунанд.
+- **Акси оилавӣ.** [Photo Pairs](/games/photo-pairs/) аксҳоеро, ки шумо интихоб мекунед, ба бозии нарми мувофиқкуни табдил медиҳад, ки аксар вақт хотираҳоро бедор мекунад.
+- **Ибораҳои ошно.** [Finish the Saying](/games/finish-the-saying/) ибораҳои маъруфи амрикоиро истифода мебарад ва баъд саволи суҳбатро пешниҳод мекунад.
+- **Бозиҳои мувофиқкунӣ ҳамчун заминаи суҳбат.** [Picture Pairs](/games/picture-pairs/) ҳангоми суҳбат ба дастҳои шумо коре медиҳад.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Барои маълумоти бештар, [чӣ гуна якҷоя бозӣ кардан](/caregiving/how-to-play-together/) ва [фаъолиятҳои хотираангез](/activities/reminiscence/) нигаред. Барои диданҳо ва зангҳо, дастурҳои мо дар бораи [диданҳо](/activities/visiting/) ва [зангҳои телефонӣ ва видеоӣ](/activities/phone-and-video-calls/) хонед.
 
-## What if I lose my patience?
+Барои шахсе, ки бо якчанд забон ҳарф мезанад, [дастури мо дар бораи муошират бо забонҳои гуногун](/caregiving/language-and-dementia-communication/) нигаред.
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Агар сабрам тамом шавад, чӣ кор кунам?
+
+Ин бо ҳама рӯй медиҳад. NIA пешниҳод мекунад, ки агар нохушоҳанг шавед, барои ором шудан каме вақт гиред. Ба утоқи дигар равед, чанд нафаси оҳиста кашед ва вақте ки оромтар шудед, баргардед. Шумо ҳамеша метавонед суҳбатро аз нав оғоз кунед ва эҳтимол дорад, ки шахс ба ҳолати оромтари шумо хуб ҷавоб диҳад. Агар нохушоҳангӣ доимӣ шавад, ин нишонаест, ки ба шумо кӯмаки бештар лозим аст, на он ки шумо нокомед. Дастури мо дар бораи [ғамхории шахсии парастор](/caregiving/caregiver-self-care/) ҷойҳое дорад, ки метавонед ба онҳо муроҷиат кунед.

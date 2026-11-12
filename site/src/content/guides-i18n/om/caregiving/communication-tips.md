@@ -1,34 +1,34 @@
 ---
-title: "Gorsa haasaa nama dementia qabu waliin"
-seoTitle: "Gorsa haasaa dementiaaf: maal jechuu fi maal dhiisuu"
-description: "Karaawwan hojii irra oolan nama dementia wajjin jiraatu waliin haasa'uuf: haasaa akkamitti qopheessuu, qormaata fi sirreessuu bakka maal jechuu, fi dhaggeeffachuu."
+title: "Mala haasa'aa nama dimimmisaa jiraatu waliin"
+seoTitle: "Mala haasa'aa dimimmisaa: maal jennee, maal dhiisnu"
+description: "Akkaataa nama dimimmisaa jiraatu waliin haasa'uu: haasa'a qopheessuu, gaafii qorannoo fi sirreessaa dhiisuu, fi akkaataa sirriitti dhaggeeffachuu."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Bakka callisaa haasa'aa, nama sana ilaalaa, maqaa isaatiin waamaa, suuta
-  fi hima gabaabaa fi salphaadhaan dubbadhaa. Yeroo tokko gaaffii tokko
-  gaafadhaa, gaaffii bantuu bakka filannoo lama kennaa, akkasumas eeggachuu
-  baay'ee eegaa. Hin falmatinaa, hin sirreessinaa, hin qorinaa. Miira jecha
-  duubaa jiru deebisaa, akkasumas yeroo haasaan ulfaatu tuquu, suuraa fi
-  mallattoo harkaa fayyadamaa.
+  Bakka tasgabbaa'aa ta'etti haasa'aa, fuula namichaa garagalaa, maqaa isaa
+  fayyadamaa, suuta fi himoota gabaabaa salphaa ta'anin dubbadhaa. Yeroo tokkotti
+  gaaffii tokko gaafadhaa; gaaffii banaa dhiisuudhaan filannoo lama dhiheessaa,
+  yeroo yaadattan caalaa eegaa. Wal hin morminaa, hin sirreessinaa, hin qorinaa.
+  Ergaa dubbii duubaa jiruuf deebisaa; yeroo dubbii ulfaatu, tuqaatii, suuraa fi
+  mallattoolee fayyadamaa.
 keyPoints:
-  - "Osoo hin haasa'in dura sagalee biraa xiqqeessaa, ija wal ilaalaa."
-  - "Hima gabaabaa, yaada tokko yeroo tokko fayyadamaa, maqaa fayyadamaa malee “inni, isheen, isaan” hin fayyadaminaa."
-  - "Gaaffii bantuu bakka filannoo lama ykn gaaffii eeyyee-ykn-lakki kennaa."
-  - "Deebii eegaa. Yoo hin hubatamne, jecha wal-fakkaatu irra deebi'aa, ergasii jecha haaraa yaalaa."
-  - "Hin falmatinaa, hin sirreessinaa. Miira wanta jedhan duubaa jiru deebisaa."
-  - "Jechoonni yeroo dhabaman, tuquu, sagalee, fuula fi suuraa waliin ilaalan fayyadamaa."
+  - "Haasaa'a jalqabuun dura sagalee duubaa hir'isaa, ija walitti fudhadhaa."
+  - "Himoota gabaabaa, yaada tokko yeroo tokkotti, fi maqaa fayyadamaa; 'inni', 'isheen' yookaan 'isaan' dhiisaa."
+  - "Gaaffii banaa dhiisuudhaan filannoo lama yookaan gaaffii 'eeyyee' ykn 'lakki' gaafadhaa."
+  - "Deebii eeggadhaa. Yoo hin hubatamne, jechoota wal fakkaatan irra deebi'aa; sana booda jechoota biroo yaalaa."
+  - "Wal hin morminaa, hin sirreessinaa. Miira ergaa isaanii duubaa jiruuf deebisaa."
+  - "Yeroo jechoonni dhabaman, tuqaatiin, sagalee, ibsa fuulaa fi suuraalee waliin ilaaluu fayyadamaa haasa'aa."
 faq:
-  - q: "Nama dementia qabuuf maal hin jechinu?"
-    a: "Qorachuu (“Ni yaadattaa...?”), sirreessuu (“Sun dogoggora”), wanta dhabame yaadachiisuu (“Duraan sitti himeera”), akkasumas nama sana osoo hin jirre fakkaatee waa'ee isaanii dubbachuu irraa of qusadhaa. Dubbii daa'imaa irraa of qusadhaa. Wantoonni kunniin gargaaruu male qaanii ykn dhiphina fiduu danda'u."
-  - q: "Yeroo dhugaa dogoggorsan isaan sirreessuu qabnaa?"
-    a: "Yeroo baay'ee hin sirreessinaa. Yoo dhugaan dogoggoraa miidhaa hin qabne ta'e, dhiisaa. Wal falmuun yaada nama sanaa yeroo baay'ee hin jijjiiru, yeroo baay'ee isaan mufachiisa. Amma akkamitti akka itti dhaga'amu fi wanta isaan barbaadan irratti xiyyeeffadhaa."
-  - q: "Yeroo jecha argachuu hin dandeenye maal gochuu qabna?"
-    a: "Dursa yeroo kennaa. Yoo ifatti rakkatan, jecha laafaan dhiheessuu ykn wanta jedhan tilmaamuu fi mirkaneeffachuun sirrii dha. Agarsiisuu, mallattoo harkaa fi suuraa illee gargaaruu danda'a."
-  - q: "Nama dementia sadarkaa boodaa qabu kan darbee darbee dubbatu akkamitti haasofsiisna?"
-    a: "Fuula duraa irraa dhiyaadhaa, eenyu akka taatan himaa, sagalee tasgabbaa'aa fi tuquu laafaa fayyadamaa. Miira argachuuf fuula fi qaama isaanii ilaalaa. Argamuun keessan, weedduu beekamaa ykn harka wal qabuun jechoota male baay'ee dubbachuu danda'a."
+  - q: "Nama dimimmisaa jiraatu maal jechuu hin qabnu?"
+    a: "Gaafii qorannoo (\"Yaadattaa...?\"), sirreessuu (\"Sun dogoggora\"), gatii dhabuun yaadachiisuu (\"Kana duraan siifan jedheera\") fi akka waan achi hin jirreetti waa'ee isaa dubbachuu dhiisaa. Akkuma daa'imaatti dubbachuu dhiisaa. Kunniin gargaarsa kennuu dhiisuudhaan qaana'uu yookaan miira namaa miidhuu danda'u."
+  - q: "Yeroo dhugaa sirrii hin taane dubbatan sirreessuun qaba?"
+    a: "Yeroo baay'ee hin barbaachisu. Yoo dogoggorri sun miidhaa hin qabne, dhiisuun gaariidha. Wal falmiin yaada namichaa jijjiiru hin danda'u; yeroo baay'ee garuu isa miidha. Har'a inni maal akka miiratuu fi maal akka barbaadu irratti xiyyeeffadhaa."
+  - q: "Yeroo jecha barbaadan hin arganne maal godha?"
+    a: "Jalqaba yeroo kennaaf. Yoo ifatti rakkachaa jiran, jecha tokko suuta dhiheessuun yookaan maal jechuu akka barbaadan tilmaamuun gaariidha. Qubaan agarsiisuun, mallattoolee fi suuraaleenis ni gargaaru."
+  - q: "Nama dimimmisaan sadarkaa dhumaa irra jiru, yeroo baay'ee hin dubbanne akkamittan haasa'a?"
+    a: "Fuula duraa irraa gara isaa dhaqaa, eenyu akka taatan himaa, sagalee tasgabbaa'aa fi tuqaa laafaa fayyadamaa. Miira isaa hubachuuf fuulaa fi sochii qaamaa isaa ilaalaa. Achuma jiraachuun keessan, sirbi beekamaa yookaan harka wal qabachuun jechoota malee baay'ee ibsuu danda'a."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia jecha argachuu, hima dheeraa hordofuu, ykn sagalee biraa cufuu ulfaachisuu danda'a. Kun hundi namni sun walitti dhufuu barbaaduu dhiise jechuu miti. Jijjiirama xiqqoo haasaa akkamitti qopheessitan, akkamitti dubbattan fi akkamitti dhaggeeffattan keessatti haasa'uu lamaan keessanuuf salphaa fi tasgabbaa'aa gochuu danda'a.
+Dimimmisaan jechoota argachuu, hima dheeraa hordofuu yookaan sagalee duubaa of irraa ittisuun namatti ulfaachuu danda'a. Kun garuu namichi walitti dhufeenya argachuu fedhii dhabuu hin agarsiisu. Akkaataa haasa'a itti qopheessitan, akkaataa itti dubbattan fi akkaataa itti dhaggeeffattan irratti jijjiirama xixiqqoo gochuun haasa'a lachuu keessaniif salphaa fi tasgabbaa'aa gochuu danda'a.
 
-## Gorsi baay'ee barbaachisaa nama dementia qabu waliin haasa'uuf maali?
+## Yeroo nama dimimmisaa jiraatu waliin haasa'uu maaltu baay'ee barbaachisa?
 
-Xiyyeeffannaa isaanii argadhaa, salphaa godhaa, obsaa ta'aa. Yoo wanta shan qofa yaadattan:
+Xiyyeeffannoo isaa argadhaa, waan jettan salphisaa, obsa qabaadhaa. Waan shan qofa yaadattan yoo ta'e:
 
-1. **Kutaa callisaa godhaa, nama sana ilaalaa.** Televijiiniin cufaa, ija gita taa'aa, maqaa isaatiin waamaa.
-2. **Wanta tokko yeroo tokko jedhaa.** Hima gabaabaa, yaada tokko, gaaffii tokko.
-3. **Filannoo lama kennaa.** “Shaayii moo buna?” “Maal barbaaddu?” caalaa salphaa dha.
-4. **Eegaa.** Yeroo deebisuuf yeroo uumamaan sirrii fakkaatu caalaa dheeraa kennaa, gidduu hin seenin.
-5. **Hin falmatinaa, hin qorinaa.** Miira isaanii deebisaa, dhugaan sirrii ta'uu isaa irratti miti.
+1. **Kutaa tasgabbeessaa fuula isaatti taa'aa.** Televizyinii dhaamsaa, ijaan walitti hanga'u taa'aa, maqaa isaa fayyadamaa.
+2. **Yeroo tokkotti waan tokko dubbadhaa.** Himoota gabaabaa, yaada tokko, gaaffii tokko.
+3. **Filannoo lama dhiheessaa.** "Shaayii moo buna?" jechuun "Maal dhuguu barbaadda?" jechuun caalaa salphaadha.
+4. **Eeggadhaa.** Deebii argachuuf yeroo yaadattan caalaa kennaa; akka hin dabarre yaalaa.
+5. **Wal hin morminaa, hin qorinaa.** Dhugaan sirrii ta'uu fi dhiisuu isaatiif utuu hin taane, inni maal akka miiratuuf deebisaa.
 
-## Haasaa akkamitti jalqabna?
+## Haasa'a akkamiin jalqabuu qaba?
 
-Nama sun isin irratti xiyyeeffachuu akka danda'u haala mijeessaa. [Qajeelfamni Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dursa sagalee xiqqeessuu gorsa: raadiyoo ykn televijiiniin cufaa, golgaa ykn balbala cufaa, ykn bakka callisaa deemaa.
+Namichi isin irratti akka xiyyeeffatu qopheessaa. [Qajeelfamni Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) dura sagalee duubaa hir'isuu gorsa: raadiyoo yookaan televizyinii dhaamsaa, golgaa yookaan balbala cufaa, yookaan bakka tasgabbaa'aa ta'etti deema.
 
-- **Fuula duraa irraa dhiyaadhaa.** Duubaa ykn cinaa irraa dhufuun nama sodaachisuu danda'a.
-- **Eenyu akka taatan himaa.** “Akkam abbaa, ani intala keessan Saaraa dha.” Kun maqaa keessan barbaaduu irraa isaan baasa.
-- **Sadarkaa isaanii irratti gadi bu'aa.** Yoo taa'an, ija keessan wal-qixa akka ta'uuf taa'aa ykn jilbeenfadhaa.
-- **Fuula fi sagalee keessan ilaalaa.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) sagalee, ol-sagalee, ibsa fuulaa fi haala qaama keessan beekuu, akkasumas haala ho'aa fi idilee ta'e qabaachuu gorsa.
-- **Ija ilaalchisaa fi meeshaa dhaggeeffannaa seenuu mirkaneessaa.** Haasaa guutummaatti hin arginne ykn hin dhaga'ne hordofuun ulfaata.
+- **Fuula duraa irraa gara isaa dhaqaa.** Duuba yookaan cinaa irraa dhufuun nama rifachiisuu danda'a.
+- **Eenyu akka taatan himaa.** "Akkam Abbaa, ana Siifan dha, intala kee." Kun maqaa keessan barbaaduu irraa isa baraara.
+- **Sadarkaa isaa irratti gad taa'aa.** Yoo inni taa'ee jiru, ijaan keessan walitti akka hanga'u taa'aa yookaan jilbeenfadhaa.
+- **Fuulaa fi sagalee keessan ilaalaa.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) sagalee, olka'iinsa sagalee, ibsa fuulaa fi sochii qaamaa keessan hubachuuf, akkasumas haala ho'aa fi tasgabbaa'aa ta'een dubbachuuf gorsa.
+- **Ijaaja fi meeshaa dhageettii akka kaa'ate mirkaneessaa.** Haasa'a sirriitti arguu yookaan dhaga'uu hin dandeenye hordofuun ulfaataadha.
 
-## Wanta jedhu akkamitti jedha?
+## Waan jedhu akkamiin ibsuu qaba?
 
-Jechoota salphaa, hima gabaabaa fi sagalee tasgabbaa'aa gadi aanaa fayyadamaa.
+Jechoota salphaa, himoota gabaabaa fi sagalee tasgabbaa'aa gad aanaa fayyadamaa.
 
-- **Hima tokkotti yaada tokko.** “Kootii kee uffannaa. Booda alatti ba'a.” Lamaan isaanii hafuura tokkotti miti.
-- **Maqaa fayyadamaa, “inni/isheen” miti.** “Adaadaa Jiin bilbilte” “Isheen bilbilte” caalaa ifa dha.
-- **Sagalee gadi-fudhadhaa, ol hin kaasinaa.** Family Caregiver Alliance sagalee ol kaasuu irra sagalee gadi aanaa gorsa.
-- **Irra deebi'aa, ergasii jijjiiraa.** Yoo hin hubatamne, jecha wal-fakkaatu al tokko irra deebi'aa. Yoo hin hojjenne, yeroo muraasa eegaa jecha biraa yaalaa.
-- **Agarsiisaa malee hin himaa.** Koppii agarsiisaa, siwwetarii lamaan ol qabaa, ykn tarkaanfii jalqabaa agarsiisaa.
-- **Isaan waliin haasa'aa, waa'ee isaanii miti.** NIA nama sana osoo hin jirre fakkaatee waa'ee isaanii haasa'uu fi “dubbii daa'imaa” irraa akeekkachiisa.
+- **Hima tokko keessatti yaada tokko.** "Kottaa kottaa kee kaa'annaa. Sana booda ala baanaa." Hafuura tokkoon lamaanuu hin dubbatin.
+- **Bakka bu'aa maqaa jechaa fayyadamaa.** "Adeettiin Jaan bilbilte" jechuun "Isheen bilbilte" caalaa ifaadha."
+- **Sagalee gad aanaa, osoo hin ol kaasne.** Family Caregiver Alliance sagalee ol kaasuu irra sagalee gad aanaa fayyadamuu gorsa.
+- **Irra deebi'aa, sana booda haala biraatiin ibsaa.** Yoo hin hubanne, jechoota wal fakkaatan yeroo tokko irra deebi'aa. Yoo sun hin hojjenne, yeroo muraasa eegaa jechoota biroo yaalaa.
+- **Agarsiisaa akkasumas himaa.** Kubbaayatti agarsiisaa, lammii uffata keessaa lama ka'aa, yookaan tarkaanfii jalqabaa agarsiisaa.
+- **Isatti dubbadhaa, waa'ee isaa hin dubbatin.** NIA akka waan namichi achi hin jirreetti waa'ee isaa dubbachuu fi akka daa'imaatti dubbachuu irraa of eeggachuuf akeekkachiisa.
 
-NIA bifa salphaa gaaffiiwwan idilee gorsa. Fakkeenyawwan karaa kanaan:
+NIA gaaffiiwwan beekamoo salphisuuf fakkeenya kenna. Fakkeenyota kana ilaalaa:
 
-| Kana bakka | Kana yaalaa |
+| Kanaa mannaa | Kanaan yaalaa |
 | --- | --- |
-| “Laaqanaaf maal barbaaddu?” | “Qurxummii moo lukkuu barbaaddu?” |
-| “Akkam dhaga'amtu?” | “Dadhabdee?” |
-| “Beelaa'aa?” | “Laaqanni daqiiqaa shan keessatti qophaa'a.” |
-| “Akkasitti hin hojjetan.” | “Akkana yaalaa.” |
-| “Imala keenya gara haroo yaadatta?” | “Imala keenya gara haroo yaadaan turre. Wanta itti gammadde natti himi.” |
-| “Duraan sitti himeera.” | Irra deebi'aa deebisaa, gaarummaadhaan, akka al jalqabaa taatee. |
+| "Laaqanaaf maal nyaachuu barbaadda?" | "Qurxummii moo foon lukkuu barbaadda?" |
+| "Akkamitti sitti dhaga'ama?" | "Dadhabbiin sitti dhaga'amaa?" |
+| "Beela'aa jirtaa?" | "Laaqanni daqiiqaa muraasa keessatti ni qophaa'a." |
+| "Akka sana hin hojjetamu." | "Haala kanaan haa yaallu." |
+| "Imala gara harootti deemne yaadattaa?" | "Waa'ee imala haroo sanaa yaadaa ture. Waan sitti tole natti himi." |
+| "Kana duraan siifan jedheera." | Akka yeroo jalqabaatiif, gaarummaan irra deebi'ii deebisi. |
 
-## Akkamitti gaarii dhaggeeffanna?
+## Akkamiin sirriitti dhaggeeffachuu danda'a?
 
-Hiika fi miira dhaggeeffadhaa, jechoota qofa miti.
+Jechoota qofa utuu hin taane, hiikaa fi miira isaanii dhaggeeffadhaa.
 
-- **Eegaa.** Callisni yeroo baay'ee yeroo yaaduu dha. Osoo hin seenin dura suuta suutaan hanga kudhaniitti lakkaa'aa.
-- **Yoo isaan rakkatan qofa jecha dhiheessaa.** Family Caregiver Alliance yeroo namni rakkatu jecha dhiheessuun sirrii dha jedha.
-- **Wanta dhaga'an mirkaneeffadhaa.** [Qajeelfamni Alzheimer's Association waa'ee haasaa](https://www.alz.org/help-support/caregiving/daily-care/communications) hiika jechoota isaanii duubaa jiru barbaaduu fi isa deebisanii hubachuu keessan mirkaneeffachuu gorsa. “Waa'ee konkolaataa yaaddeessitaa?”
-- **Fuula fi qaama isaanii ilaalaa.** Haasaan yeroo ulfaatu, NIA akka jedhutti, ibsi fuulaa gadda, aarii ykn dhiphina jechoota caalaa ifatti mul'isuu danda'a.
-- **Yaaddoo isaanii cimsaa fudhadhaa.** Yaaddoon dhugaa dogoggoraa irratti hundaa'e illee, miirri sun dhugaa dha.
+- **Eeggadhaa.** Callisuun yeroo baay'ee yeroo yaadaa ti. Utuu hin seenin dura suuta hamma kudhanitti lakkaa'aa.
+- **Yoo dhugumaan rakkatan qofa jecha gargaaraa dhiheessaa.** Family Caregiver Alliance yeroo namni tokko rakkatu jecha gargaaraa dhiheessuun akka gaarii ta'e ibsa.
+- **Waan dhageessan mirkaneessaa.** [Qajeelfamni haasa'aa Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) hiikaa jechoota isaanii duubaa jiru barbaaduu fi sirriitti hubachuu keessan mirkaneessuuf irra deebi'uu gorsa. "Waa'ee konkolaataa yaaddoftaa?"
+- **Fuulaa fi qaama isaa ilaalaa.** Akka NIA ibsutti, yeroo dubbachuun ulfaatu, ibsi fuulaa gadda, aarii yookaan mufannaa jechoota caalaa ifatti agarsiisuu danda'a.
+- **Yaaddoo isaanii fudhadhaa.** Yaaddon tokko yoo dhugaa sirrii hin taane irratti hundaa'e illee, miirri isaa dhugaa dha.
 
-## Yoo wanta dhugaa hin taane jedhan hoo?
+## Yoo waan dhugaa hin taane dubbatan hoo?
 
-Hin falmatinaa. Injifachuun hin danda'amu, namni sun qaanii ykn sodaa dhaga'uu danda'a. Mannaa, miira isaanii waliin walitti dhufaa, ergasii suuta suuta jijjiiraa.
+Wal hin morminaa. Mo'achuun isin hin danda'amu, namichis qaana'uu yookaan sodaa keessa bu'uu danda'a. Kanaa mannaa, miira isaa hubadhaa, sana booda suuta gara waan biraatti cehaa.
 
-Family Caregiver Alliance dursa miira beekuu, ergasii gara biraatti geessuu gorsa. Fakkeenyaaf, yoo haati keessan daa'imman mana barnootaa irraa fuudhuu qabaachuu isaa jedhan:
+Family Caregiver Alliance miira isaa fudhachuu fi sana booda gara waan biraatti qajeelchuuf gorsa. Fakkeenyaaf, haati keessan ijoollee fudhachuuf gara mana barumsaatti deemuuf akka qabdu yoo cichite:
 
-- Kana bakka: “Haadha, ijoolleen kee guddatanii jiru. Sun waggaa afurtama dura ture.”
-- Kana yaalaa: “Yeroo hundaa haadha kunuunsaa turtee. Waa'ee isaan fuudhuu natti himi. Dura nyaata xiqqoo nyaanna moo?”
+- Kanaa mannaa: "Haadha, ijoolleen kee guddataniiru. Sun waggaa baay'ee dura ture."
+- Kanaan yaalaa: "Yeroo hunda haadha jaalalaa turte. Waa'ee isaan fudhachuu kee natti himi. Dura waan xiqqoo nyaannaa?"
 
-Alzheimer's Association akkasumas dubbii isin hin amantan irratti hin falmatinaa jedha. Yeroo filadhaa: yoo amantaan dogoggoraa miidhaa hin qabne ta'e, haa ta'u.
+Alzheimer's Associationis yaada isin waliin walii hin galle irratti falmuu dhiisuuf gorsa. Yeroo filadhaa: amantiin dogoggoraa tokko yoo miidhaa hin qabne, akka ta'etti dhiisaa.
 
-## Dementia yeroo dabalu haasaan akkamitti jijjiiramaa?
+## Dimimmisaan yeroo guddatutti haasa'aan akkamitti jijjiirama?
 
-Fedhiin yeroo waliin jijjiirama, kanaaf karaa keessan sirreessaa. Alzheimer's Association sadarkaa bal'aa sadii ibsa:
+Barbaachisummaa yeroo waliin ni jijjiirama; kanaaf akkaataa keessan sirreessaa. Alzheimer's Association sadarkaa sadii bal'aa ibsa:
 
-| Sadarkaa | Wanti gargaaru |
+| Sadarkaa | Waan gargaaru |
 | --- | --- |
-| Jalqaba | Haasa'uu akka hin dandeenye hin yaadinaa. Haasaa keessatti hammachiisaa, kallattiidhaan isaan waliin haasa'aa, deeggarsa maal akka barbaadan gaafadhaa, yoo gargaare kolfisiisuu (humor) fayyadamaa. |
-| Gidduu | Haasaa nama tokko nama tokko waliin bakka callisaa keessatti. Suuta dubbadhaa, ija wal ilaalaa, gaaffii eeyyee-ykn-lakki fayyadamaa, qajeelfama tarkaanfii tarkaanfiidhaan kennaa, hin balaaleffatinaa fi hin sirreessinaa. |
-| Boodaa | Fuula duraa irraa dhiyaadhaa, eenyu akka taatan himaa. Agarsiisuu fi mallattoo harkaa jajjabeessaa. Tuquu, sagalee, wanta argamu fi urgaa fayyadamaa. Nama sana osoo hin jirre fakkaatee gonkumaa hin dubbatinaa. |
+| Jalqabaa | Haasa'uu akka hin dandeenye hin tilmaamin. Haasa'a keessatti hirmaachisaa, kallattiidhaan itti dubbadhaa, deeggarsa akkamii akka barbaadu gaafadhaa, yoo gargaare tapha salphaa fayyadamaa. |
+| Giddugaleessaa | Haasa'a nama tokkoo tokkoo bakka tasgabbaa'aa ta'etti. Suuta dubbadhaa, ijaan walitti qabaa, gaaffii 'eeyyee' ykn 'lakki' gaafadhaa, qajeelfama tarkaanfii tarkaanfiin kennaa, hin komatin yookaan hin sirreessin. |
+| Dhuma | Fuula duraa irraa gara isaa dhaqaa, eenyu akka taatan himaa. Qubaan agarsiisuu fi mallattoo fayyadamuu jajjabeessaa. Tuqaa, sagalee, waan arguufi waan urgaa'u fayyadamaa. Akka waan achi hin jirreetti gonkumaa hin dubbatin. |
 
-Nama hundi adda dha, nama tokko illee guyyoota gaarii fi ulfaataa qabaachuu danda'a. Amma akkamitti akka ta'e deebisaa, maqaa itti kennuu irratti miti.
+Namni hundi adda adda; namni tokko iyyuu guyyaa gaarii fi guyyaa rakkisaa qabaachuu danda'a. Maqaa sadarkaa irratti utuu hin taane, amma inni akkamiin akka jiru irratti hundaa'aa.
 
-## Suuraa fi hojiiwwan haasaa salphisuu danda'aa?
+## Suuraaleen fi gochoonni haasa'a salphisuu danda'u?
 
-Eeyyee. Suuraan waliin ilaalan dhiibbaa kaasa, lamaan keessan wanta ilaaluu fi itti agarsiisuu isiniif kenna.
+Eeyyee. Suuraan waliin ilaalamu dhiibbaa hir'isa; isiniif wanti tokko isin irratti waliin ilaaluu fi agarsiisuun ni argama.
 
-- **Suuraa haasaa.** [Kaartii Haasaa](/games/conversation-cards/) suuraa fi gaaffii banaa kan hin qorre kenna.
-- **Suuraa maatii.** [Lamaan Suuraa Maatii](/games/photo-pairs/) suuraa isin filattan gara tapha wal-simsiisuu laafaatti jijjiira, kunis yeroo baay'ee seenaa kaasa.
-- **Jechoota beekamoo.** [Dhumaa Jechaa Xumuri](/games/finish-the-saying/) jechoota beekamoo Ameerikaa fayyadama, ergasii gaaffii haasaa kenna.
-- **Taphoota wal-simsiisuu duubaatti.** [Lamaan Suuraa](/games/picture-pairs/) yeroo isin haasa'an harka keessan hojii kenna.
+- **Kaka'umsa suuraa.** [Conversation Cards](/games/conversation-cards/) suuraalee gaaffii banaa kan gonkumaa hin qoranne dhiheessa.
+- **Suuraalee maatii.** [Photo Pairs](/games/photo-pairs/) suuraalee isin filattan gara tapha walitti fiduu laafaatti jijjiira; kun yeroo baay'ee seenaa yaadachiisa.
+- **Jechoota beekamoo.** [Finish the Saying](/games/finish-the-saying/) jechoota beekamoo fayyadama; sana booda kaka'umsa haasa'aa kenna.
+- **Taphoota walitti fiduu akka duubbee haasa'atti.** [Picture Pairs](/games/picture-pairs/) yeroo haasa'aa jirtan harki keessan waan hojjetu kenna.
 
-Dabalataaf [akkamitti taphoota waliin taphachuu](/caregiving/how-to-play-together/) fi [hojiiwwan yaadannoo](/activities/reminiscence/) ilaalaa. Daawwannaa fi bilbilaaf, qajeelfama keenya [daawwachuu](/activities/visiting/) fi [bilbilaa fi viidiyoo](/activities/phone-and-video-calls/) dubbisaa.
+Dabalataaf [akkaataa waliin taphachuu dandeessan](/caregiving/how-to-play-together/) fi [gochoota yaadannoo](/activities/reminiscence/) ilaalaa. Daawwannaa fi bilbilaa irratti, qajeelfama keenya [daawwannaa](/activities/visiting/) fi [bilbila fi bilbila viidiyoo](/activities/phone-and-video-calls/) dubbisaa.
 
-## Yoo obsa dhabe hoo?
+Nama afaanota hedduu dubbatuuf, [qajeelfama haasa'aa afaanota gidduutti](/caregiving/language-and-dementia-communication/) ilaalaa.
 
-Namoota hundumaaf ta'a. NIA yoo mufattan yeroo tokko of tasgabbeessuu gorsa. Kutaa biraatti seenaa, hafuura suuta muraasa baafadhaa, yoo danda'e deebi'aa. Yeroo kamiyyuu haasaa irra deebi'ee jalqabuu dandeessu, namni sun haala tasgabbaa'aa keessan irratti gaarii deebisuu danda'a. Yoo mufachuun yeroo hundaa ta'e, kun mallattoo deeggarsa dabalataa barbaaddan, hin kufne. [Qajeelfamni of kunuunsuu kunuunsaa keenya](/caregiving/caregiver-self-care/) bakka itti deebi'an qaba.
+## Yoo obsi na jalaa dhume hoo?
+
+Namni hundi akkasitti miira. Yoo aarrii isin qabate, NIA yeroo muraasa of tasgabbeessuuf fudhachuu gorsa. Gara kutaa biraatti deema, suuta hafuura fudhadhaa baafadhaa, yeroo tasgabbaa'aa taatanitti deebi'aa. Haasa'a irra deebi'uun yeroo hunda ni danda'ama; namichis miira tasgabbaa'aa keessaniif deebii kennuu mala. Yoo aarrii sun yeroo hunda itti fufe, kun deeggarsa dabalataa akka barbaaddan agarsiisa, osoo kufaatii keessan hin taane. Qajeelfamni keenya [of kunuunsaa kunuunsitootaa](/caregiving/caregiver-self-care/) bakka gargaarsa argattan agarsiisa.

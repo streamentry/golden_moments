@@ -1,33 +1,33 @@
 ---
-title: "Demensiya qayğısında çoxdilli ünsiyyətin dəstəklənməsi"
-seoTitle: "Demensiya və dil: müxtəlif dillərdə dəstək"
-description: "Çoxdilli demensiyası olan şəxsə dəstək olun: dil üstünlüyünü soruşun, tanış sözlər və işarələrdən istifadə edin və görüşlər üçün dil köməyini təşkil edin."
+title: "Demensiya qayğısında çoxdilli ünsiyyətə dəstək"
+seoTitle: "Demensiya və dil: Dillərarası dəstək"
+description: "Demensiya yaşayan çoxdilli şəxsə hansı dili istədiyini soruşmaqla, tanış işarələrlə və görüşlər üçün dil dəstəyi ayırmaqla kömək edin."
 section: caregiving
 order: 41
 updated: 2026-11-12
 translatedFrom: 2026-11-12
 summary: >-
-  Şəxsdən hansı dildə danışmaq istədiyini soruşun. Çoxdilli demensiyası olan
-  bəzi insanlar əvvəllər öyrəndikləri dildən istifadə edə bilər, lakin bu hər
-  kəsdə eyni deyil. Tanış sözlərdən və işarələrdən istifadə edin və səhiyyə
-  xidmətlərindən görüşlər üçün hansı tərcümə dəstəyinin olduğunu soruşun.
+  Şəxsin hansı dildə danışmaq istədiyini soruşun. Demensiya yaşayan bəzi
+  çoxdilli insanlar daha əvvəl öyrəndikləri dildə danışa bilərlər, amma bu,
+  hər kəsdə fərqli olur. Tanış sözlərdən və jestlərdən istifadə edin və tibbi
+  görüşlər üçün hansı tərcümə dəstəyinin olduğunu əvvəlcədən öyrənin.
 keyPoints:
-  - "Bu söhbət üçün hansı dilin ən rahat olduğunu soruşun; fərz etməyin."
-  - "Bəziləri əvvəllər öyrəndiyi dildən istifadə edə bilər, lakin bu hər kəsə aid deyil və şəxsin mərhələsini göstərmir."
-  - "Tanış sözlərdən istifadə edin, cavab üçün daha çox vaxt verin və nitqi şəkillər və ya işarələrlə dəstəkləyin."
-  - "Səhiyyə görüşləri üçün xidmət təminatçısına əvvəlcədən zəng edin və hansı tərcümə dəstəyinin olduğunu soruşun."
-  - "Çaşqınlıqla birlikdə ünsiyyətdə qəfil dəyişiklik tibbi diqqət tələb edir."
+  - "Bu söhbət üçün hansı dilin daha rahat olduğunu soruşun; əvvəlcədən fərziyyə yürütməyin."
+  - "Bəzi insanlar daha əvvəl öyrəndikləri dildə danışa bilərlər, amma bu, hər kəsdə baş vermir və şəxsin hansı mərhələdə olduğunu göstərmir."
+  - "Tanış sözlər işlədin, daha çox vaxt verin və danışığı şəkillər və ya jestlərlə dəstəkləyin."
+  - "Tibbi görüşlər üçün əvvəlcədən əlaqə saxlayın və hansı tərcümə dəstəyinin mövcud olduğunu soruşun."
+  - "Ünsiyyətdə qarışıqlıqla birlikdə baş verən ani dəyişiklik tibbi yardım tələb edir."
 faq:
-  - q: "Demensiya insanı yenidən ana dilində danışmağa məcbur edəcəkmi?"
-    a: "Demensiyası olan bəzi insanlar əvvəllər öyrəndikləri dildən istifadə etməyə başlaya bilər, bəziləri isə etmir. Dil üstünlüyü şəxsdən, mövzudan və gündən asılı olaraq dəyişə bilər. Dil seçimini şəxsin mərhələsini qiymətləndirmək üçün yox, onun rahat hiss etdiyi dili soruşmaq üçün istifadə edin."
-  - q: "Şəxsin ana dilində danışmalıyam?"
-    a: "İndi hansı dildə danışmaq istədiyini soruşun. Əgər o dili bilirsinizsə, tanış sözlərdən istifadə edin və cavab vermək üçün ona vaxt verin. Bilmirsinizsə, gündəlik söhbətə etibar etdiyi ikidilli bir insanın qoşulmasını istəyib-istəmədiyini soruşun."
-  - q: "Şəxsin dediklərini başa düşmürəmsə, nə etməliyəm?"
-    a: "Sakit qalın və istəsə, göstərməsini, işarə etməsini və ya başqa söz işlətməsini xahiş edin. Şəkil, tanış əşya və ya işarə kömək edə bilər. Onu imtahana çəkməyin və vacib səhiyyə məlumatını başa düşmüş kimi davranmayın."
+  - q: "Demensiya bir insanın yenidən ilk dilində danışmasına səbəb ola bilərmi?"
+    a: "Demensiya yaşayan bəzi insanlar daha əvvəl öyrəndikləri dildə danışmağa başlaya bilərlər, digərlərində isə bu baş vermir. Dil üstünlükləri insandan, mövzudan və gündən asılı olaraq dəyişə bilər. Şəxsin hansı mərhələdə olduğunu qiymətləndirmək üçün deyil, hansı dilin ona rahat olduğunu soruşun."
+  - q: "Şəxsin ilk dilində danışmalıyam?"
+    a: "İndi hansı dildə danışmaq istədiyini soruşun. Əgər bu dili bilirsinizsə, tanış sözlər işlədin və cavab verməsi üçün ona vaxt verin. Bilmirsinizsə, gündəlik söhbətə etibar etdiyi ikidilli bir şəxsin qoşulmasını istəyib-istəmədiyini soruşun."
+  - q: "Şəxsin dediklərini başa düşməsəm nə etməliyəm?"
+    a: "Sakit qalın və istəsə, göstərməsini, işarə etməsini və ya başqa söz işlətməsini xahiş edin. Şəkil, tanış bir əşya və ya jest kömək edə bilər. Onu dindirib-soruşmayın və vacib tibbi məlumatı başa düşmüş kimi davranmayın."
   - q: "Tibbi görüşə necə hazırlaşa bilərəm?"
-    a: "Görüşdən əvvəl klinikaya zəng edin, şəxsin hansı dili üstün tutduğunu bildirin və hansı tərcümə variantlarının olduğunu soruşun. Şəxsdən soruşun ki, yanında kimin olmasını istəyir; dəstəkçi onun əvəzinə danışmadan iştirak edə bilər."
-  - q: "Qəfil dil dəyişikliyi demensiyanın bir hissəsidirmi?"
-    a: "Tək dil dəyişikliyi səbəbini izah etmir. Şəxs qəfil çaşarsa və ya ünsiyyəti kəskin dəyişərsə, bunu demensiyanın irəliləməsi kimi qəbul etməyin, dərhal tibbi kömək alın."
+    a: "Görüşdən əvvəl klinika ilə əlaqə saxlayın, şəxsin hansı dili üstün tutduğunu bildirin və hansı tərcümə imkanlarının olduğunu soruşun. Şəxsdən kimin onu müşayiət etməsini istədiyini soruşun; dəstək olan şəxs onun yerinə danışmadan yanında ola bilər."
+  - q: "Dildə ani dəyişiklik demensiyanın bir hissəsidirmi?"
+    a: "Təkcə dildəki dəyişiklik bunun səbəbini izah etmir. Əgər şəxs birdən-birə qarışıq vəziyyətə düşərsə və ya ünsiyyəti qəfil dəyişərsə, bunu demensiyanın ağırlaşması hesab etmək əvəzinə dərhal tibbi yardım alın."
 sources:
   - title: "How to communicate with a person with dementia"
     publisher: "Alzheimer's Society"
@@ -49,50 +49,50 @@ related: [caregiving/communication-tips, caregiving/doctor-visit-with-dementia, 
 health: true
 ---
 
-Bir neçə dildə danışan insanlar demensiya sözləri tapmağa və ya başa düşməyə başladıqda fərqli ünsiyyət qura bilərlər. Bəziləri əvvəllər öyrəndikləri dildən danışmağa başlayır; başqaları isə yox. Ən faydalı ilk addım indi hansı dilin rahat olduğunu soruşmaq, sonra isə şəxsin seçimini izləməkdir.
+Birdən çox dildə danışan insanlar demensiya onların söz tapmasını və ya başa düşməsini dəyişdikcə fərqli şəkildə ünsiyyət qura bilərlər. Bəzi insanlar daha əvvəl öyrəndikləri dildə danışmağa başlayır, digərləri isə yox. Ən faydalı ilk addım indi hansı dilin daha rahat olduğunu soruşmaq və sonra şəxsin seçiminə uyğun davam etməkdir.
 
-[Alzheimer's Society dil üstünlüklərinin dəyişə biləcəyini və şəxsin adətən ünsiyyət qurduğu dilin istifadə olunmasını təklif etdiyini bildirir](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). [Alzheimer's Association isə ana dilinə qayıtmağı mümkün ünsiyyət dəyişikliklərindən biri kimi sadalayır](https://www.alz.org/help-support/caregiving/daily-care/communications). Bu dəyişikliklər hər kəsin başına gəlmir və şəxsin mərhələsini sizə demir.
+[Alzheimer’s Society dil üstünlüklərinin dəyişə biləcəyini bildirir və şəxsin adətən ünsiyyət qurduğu dildən istifadə etməyi tövsiyə edir](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia). [Alzheimer’s Association da ana dilinə qayıtmağı mümkün ünsiyyət dəyişikliklərindən biri kimi göstərir](https://www.alz.org/help-support/caregiving/daily-care/communications). Bu dəyişikliklər hər kəsdə baş vermir və şəxsin hansı mərhələdə olduğunu göstərmir.
 
-## Hansı dildən istifadə etməliyəm?
+## Hansı dildə danışmalıyam?
 
-Bu söhbət üçün şəxsdən hansı dildə danışmaq istədiyini soruşun. Onun seçimi mövzudan, şəraitdən və ya günün vaxtından asılı olaraq dəyişə bilər. Dil dəyişirsə, bunu imtahan kimi qəbul etməyin və başa düşdüyünüz dildə davam etməsini tələb etməyin.
+Şəxsdən bu söhbət üçün hansı dildə danışmaq istədiyini soruşun. Onun seçimi mövzudan, məkandan və ya günün vaxtından asılı olaraq dəyişə bilər. Əgər dili dəyişirsə, bunu sınaq kimi qəbul etməyin və ya anladığınız dildə davam etməyə təkid etməyin.
 
-Əgər onun üstün tutduğu dili bilirsinizsə, tanış sözlərdən istifadə edin və cavab vermək üçün ona vaxt verin. Yalnız bir neçə söz bilirsinizsə, bunu açıq deyin və jestlərdən, əşyalardan və ya şəkillərdən də istifadə edin. [Alzheimer's Society-nin dil üzrə təlimatı](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) qeyd edir ki, dil bacarığı gündən-günə dəyişə və yorğunluq, ağrı və ya xəstəlikdən təsirlənə bilər.
+Əgər üstün tutduğu dili bilirsinizsə, tanış sözlər işlədin və cavab verməsi üçün ona vaxt verin. Yalnız bir neçə söz bilirsinizsə, bunu açıq şəkildə deyin və jestlərdən, əşyalardan və ya şəkillərdən də istifadə edin. [Alzheimer’s Society-nin dil üzrə tövsiyələrində](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/dementia-and-language) dil bacarıqlarının gündən-günə dəyişə biləcəyi və yorğunluq, ağrı və ya xəstəlikdən təsirlənə biləcəyi qeyd olunur.
 
 ## Gündəlik söhbətdə nə kömək edə bilər?
 
 Adi ünsiyyət məsləhətlərini yadda saxlayın və şəxsin dilinə uyğun dəstək əlavə edin:
 
-- **Tanış sözlər və adlar işlədin.** Şəxsdən və ya ona etibar edən birindən soruşun ki, gündəlik əşyalar, ailə üzvləri və rutinlər üçün hansı sözləri işlədir.
-- **Deyin və göstərin.** Fincanı göstərin, iki seçimi qaldırın və ya tanış şəkil və ya əşyadan istifadə edin. Düzgün sözü tapmaq çətin olduqda işarə kömək edə bilər.
-- **Gözləyin.** Şəxsə dinləmək və cavab vermək üçün vaxt verin. Hər cümləni onun əvəzinə bitirməyin və sualı bir neçə dildə eyni anda təkrarlamayın.
-- **Hər dəfə bir fikir deyin.** Uzun izah istənilən dildə çətin ola bilər. Qısa cümlə deyin, sonra dayanın və daha çox istəyib-istəmədiyinə baxın.
-- **Eşitmə və görməni yoxlayın.** Eynək, eşitmə aparatı, yaxşı işıqlandırma və sakit mühit dili izləməyi asanlaşdıra bilər.
+- **Tanış sözlərdən və adlardan istifadə edin.** Gündəlik əşyalar, ailə üzvləri və vərdişlər üçün hansı sözləri işlətdiyini şəxsdən və ya onun güvəndiyi birindən soruşun.
+- **Həm söyləyin, həm göstərin.** Fincanı göstərin, iki seçim təqdim edin və ya tanış bir şəkil və ya əşya istifadə edin. Düzgün sözü tapmaq çətin olduqda jest kömək edə bilər.
+- **Gözləyin.** Şəxsə dinləmək və cavab vermək üçün vaxt verin. Hər cümləni onun yerinə tamamlamayın və sualı eyni anda bir neçə dildə təkrarlamayın.
+- **Hər dəfə bir fikir deyin.** Uzun izah istənilən dildə çətin ola bilər. Qısa bir cümlə işlədin, fasilə verin, sonra daha çox istədiyini yoxlayın.
+- **Eşitmə və görməni nəzərə alın.** Eynək, eşitmə cihazı, yaxşı işıqlandırma və sakit mühit dili izləməyi asanlaşdıra bilər.
 
-Əgər şəxs oxumağı üstün tutursa, vacib yazılı məlumatın onun dilində olub-olmadığını soruşun. Tibbi qərar, razılıq və ya dərman təlimatı üçün avtomatik tərcüməyə güvənməyin; vacib məlumatı qayğı təminatçısı ilə yoxlayın.
+Əgər şəxs oxumağı üstün tutursa, vacib yazılı məlumatın onun dilində olub-olmadığını soruşun. Tibbi qərar, razılıq və ya dərman göstərişi üçün avtomatik tərcüməyə güvənməyin; vacib məlumatları qayğı xidməti ilə birlikdə dəqiqləşdirin.
 
-## Şəxsin üstün tutduğu dili bilmirəmsə nə etməliyəm?
+## Şəxsin üstün tutduğu dili bilməsəm nə etməliyəm?
 
-Gündəlik söhbətə etibar etdiyi ikidilli dost və ya qohum qoşulmasını istəyib-istəmədiyini soruşun. Şəxsin başqasının tərcümə etməsini istədiyini fərz etməyin; o, jestləri, şəkilləri və ya ikinizin də bildiyi başqa bir dili üstün tuta bilər.
+Gündəlik söhbətə etibar etdiyi ikidilli bir dostunun və ya qohumunun qoşulmasını istəyib-istəmədiyini soruşun. Başqasının tərcümə etməsini istədiyini əvvəlcədən fərz etməyin; o, jestləri, şəkilləri və ya hər ikisinin bildiyi başqa bir dili üstün tuta bilər.
 
-Tibbi görüş və ya dəqiq məlumat tələb edən başqa müzakirə üçün klinikaya və ya qayğı xidmətinə əvvəlcədən zəng edin. Şəxsin üstün tutduğu dili deyin və hansı tərcümə dəstəyinin olduğunu soruşun. [ABŞ Səhiyyə və İnsan Xidmətləri Nazirliyi izah edir](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html) ki, ailə üzvləri və dostlar vacib tibbi məlumatı dəqiq tərcümə edə bilməyə bilər; xidmət öz variantlarını və yerli tələbləri izah edə bilər. Yanında dəstəkçinin olub-olmaması şəxsin seçimidir, lazım olan dil köməyini isə təminatçı təşkil edir.
+Tibbi görüş və ya dəqiq məlumat tələb edən başqa bir söhbət üçün əvvəlcədən klinika və ya qayğı xidməti ilə əlaqə saxlayın. Şəxsin üstün tutduğu dili bildirin və hansı tərcümə dəstəyinin mövcud olduğunu soruşun. [ABŞ Səhiyyə və İnsan Xidmətləri Nazirliyi izah edir](https://www.hhs.gov/civil-rights/for-individuals/faqs/may-an-lep-person-use-a-family-member-as-an-interpreter/index.html) ki, ailə üzvləri və dostlar vacib tibbi məlumatı dəqiq tərcümə edə bilməyə bilərlər; xidmət mövcud imkanları və yerli tələbləri izah edə bilər. Şəxs kimin onu müşayiət edəcəyini seçə bilər, lazım olan dil dəstəyini isə xidmət təşkil edir.
 
-Görüş zamanı şəxsə birbaşa müraciət edin və tərcüməçinin danışması üçün vaxt verin. Şəxsin sualı başa düşdüyünə və cavabı öz sözləri ilə verə bildiyinə əmin olun. Əgər onu dəstəkləyirsinizsə, yalnız o istədikdə kontekst əlavə edin.
+Görüş zamanı birbaşa şəxsə müraciət edin və tərcüməçiyə danışmaq üçün vaxt verin. Şəxsin sualı başa düşdüyünü və öz sözləri ilə cavab vermək imkanı olduğunu yoxlayın. Əgər siz onu dəstəkləyirsinizsə, əlavə məlumatı yalnız o istədikdə verin.
 
-## Nə zaman tibbi məsləhət almalıyam?
+## Nə vaxt tibbi məsləhət almaq lazımdır?
 
-Dil çətinlikləri zamanla dəyişə bilər, lakin qəfil dəyişiklik fərqlidir. [NHS qəfil çaşan şəxs üçün dərhal tibbi kömək almağı tövsiyə edir](https://www.nhs.uk/symptoms/confusion/). Ünsiyyətin qəfil itməsini sadəcə demensiyanın bir hissəsi kimi qəbul etməyin. Şəxs qəfil çaşarsa, çox pis hiss edərsə və ya oyatmaq çətin olarsa, yerli təcili tibbi xidmətlərlə əlaqə saxlayın.
+Dil çətinlikləri zamanla dəyişə bilər, amma ani dəyişiklik fərqlidir. [NHS kiminsə birdən-birə qarışıq vəziyyətə düşdüyü zaman dərhal tibbi yardım almağı məsləhət görür](https://www.nhs.uk/symptoms/confusion/). Ünsiyyətdə ani dəyişiklikləri sadəcə demensiyanın bir hissəsi hesab etməyin. Əgər şəxs birdən-birə qarışıq vəziyyətə düşərsə, özünü çox pis hiss edərsə və ya oyatmaq çətinləşərsə, yerli təcili tibbi yardım xidmətləri ilə əlaqə saxlayın.
 
-Tədricən dəyişikliklər üçün nə müşahidə etdiyinizi qeyd edin və şəxsin həkiminə məsləhət üçün müraciət edin. Şəxsin hansı dildən istifadə etdiyini, ünsiyyətinə nəyin kömək etdiyini və yorğun və ya xəstə olub-olmadığını yazın. Bu, söhbət üçün təsvirdir, diaqnoz deyil. [Həkim görüşü təlimatımız](/caregiving/doctor-visit-with-dementia/) suallara hazırlaşmağınıza kömək edə bilər.
+Tədricən baş verən dəyişikliklər üçün gördüklərinizi qeyd edin və şəxsin həkimindən məsləhət istəyin. Hansı dildə danışdığını, nəyin ünsiyyətə kömək etdiyini və yorğun və ya xəstə olub-olmadığını yazın. Bu, söhbət üçün hazırlanmış qeyddir, diaqnoz deyil. [Həkim görüşü üzrə bələdçimiz](/caregiving/doctor-visit-with-dementia/) sualları hazırlamağa kömək edə bilər.
 
-## Digər köməkçilərlə nə paylaşa bilərəm?
+## Başqa köməkçilərə nə deyə bilərəm?
 
-Şəxsin razılığı ilə, cəlb etmək istədiyi insanlar üçün qısa qeyd saxlayın. Burada danışmaq və oxumaq üçün üstün tutduğu dil və ya ləhcə, tanış sözlər və adlar və söhbəti izləməsinə nəyin kömək etdiyi göstərilə bilər. Görüşlərə və ya qayğı yeniliklərinə kimin daxil edilməsini istədiyini soruşun. Dəstək üçün lazım olmayan şəxsi təfərrüatları qeyd etməyin və qeydi kimin görə biləcəyini şəxsə deyin. Dil qeyd söhbətə daha rahat başlamağa kömək edir, lakin mürəkkəb səhiyyə müzakirəsi üçün tərcüməçinin yerini tutmur.
+Şəxsin razılığı ilə, onun istədiyi insanlar üçün qısa bir qeyd hazırlayın. Bu qeydə danışmaq və oxumaq üçün üstün tutduğu dili və ya dialekti, tanış sözləri və ya adları və söhbəti izləməsinə nəyin kömək etdiyini daxil edə bilərsiniz. Görüşlərə və ya qayğı ilə bağlı yeniliklərə kimin daxil edilməsini istədiyini soruşun. Dəstək üçün lazım olmayan şəxsi məlumatları qeyd etməyin və qeydi kimin görə biləcəyini şəxsə söyləyin. Dil haqqında qeyd söhbətə daha rahat başlamağa kömək edə bilər; mürəkkəb tibbi söhbət zamanı tərcüməçini əvəz etmir.
 
-## Şəxsin seçimlərinə necə dəstək ola bilərəm?
+## Şəxsin seçimlərini necə dəstəkləyə bilərəm?
 
-Dil şəxsin özünü ifadə etməsinin bir hissəsidir, lakin onun bütün kimliyi deyil. Rutinləri, maraqlarını, oxu üstünlüklərini və daxil olmasını istədiyi insanları soruşun. Şəxs razı olarsa, digər dəstəkçilər üçün faydalı sözləri və ifadələri yazın və onlardan necə istifadə ediləcəyini izah edin. Qeydləri məxfi saxlayın və yalnız şəxsin paylaşmağa razı olduğu məlumatı paylaşın.
+Dil şəxsin əlaqə qurma üsulunun bir hissəsidir, amma onun kimliyinin hamısı deyil. Gündəlik vərdişləri, maraqları, oxuma üstünlükləri və yanında olmasını istədiyi insanlar haqqında soruşun. Şəxs razılaşarsa, digər köməkçilər üçün faydalı söz və ya ifadələri yazın və onlardan necə istifadə olunacağını izah edin. Qeydləri məxfi saxlayın və yalnız şəxsin razılıq verdiyi məlumatları paylaşın.
 
-Şəxsdən məşq etməsini, başqaları üçün tərcümə etməsini və ya başa düşdüyünü sübut etməsini tələb etməyin. Bəzi söhbətlər bir dildə, bəziləri isə başqa dildə daha asan ola bilər. Şəxsin rahatlığı, məxfiliyi və seçimi bir dilə sadiq qalmaqdan daha vacibdir.
+Şəxsi məşq etməyə, başqaları üçün tərcümə etməyə və ya nəyi başa düşdüyünü sübut etməyə məcbur etməyin. Bəzi söhbətlər bir dildə, digərləri isə başqa dildə daha asan ola bilər. Şəxsin rahatlığı, məxfiliyi və seçimi bir dildə qalmaqdan daha vacibdir.
 
-[Ünsiyyət məsləhətlərimiz](/caregiving/communication-tips/) sadə danışmağı, dinləməyi və şəkillərdən istifadəni əhatə edir. Diaqnozdan sonra planlaşdırmaya kömək üçün isə [demensiya diaqnozundan sonra ilk addımlar](/caregiving/after-dementia-diagnosis/) məqaləsinə baxın.
+[Ünsiyyət üzrə məsləhətlərimizdə](/caregiving/communication-tips/) sadə danışmaq, dinləmək və şəkillərdən istifadə etmək barədə məlumat var. Diaqnozdan sonra planlaşdırma ilə bağlı kömək üçün [demensiya diaqnozundan sonrakı ilk addımlara](/caregiving/after-dementia-diagnosis/) baxın.

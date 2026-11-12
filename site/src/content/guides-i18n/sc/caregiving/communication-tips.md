@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Cussìgios pro faeddare cun una persone cun demèntzia"
+seoTitle: "Cussìgios pro faeddare cun chie tenet demèntzia"
+description: "Maneras pràticas pro faeddare cun una persone cun demèntzia: comente preparare sa chistionada, ite nàrrere e comente ascurtare."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Faeddade in unu logu trancuillu, ponet·ti a cara a cara, imprea su nùmene
+  suo e faedda a bellu cun frases curtzas e simpres. Pedi una cosa a sa borta,
+  oferide duas sèberas imbetzes de preguntas abertas, e iseta prus tempus de
+  su chi ti paret naturale. No discutire, non torrare a curregire e non faghere
+  preguntas a manera de esàmene. Risponde a su sentimentu chi b’est a palas
+  de is paraulas, e imprea su tocu, is immàgines e is gestos cando sas
+  paraulas si faghent prus difìtziles.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Lessa a banda is rumores e chirca de tènnere su cuntatu visual in antis de cumintzare a faeddare."
+  - "Imprea frases curtzas, un’idea a sa borta, e nùmenes imbetzes de issu, issa o issos."
+  - "Oferi una sèbera intre duas cosas, o una pregunta a sa cale si podet rispòndere cun eja o nono, imbetzes de preguntas abertas."
+  - "Iseta una risposta. Si no ti cumprendent, torra a nàrrere sas matessi paraulas, a pustis proa cun àteras."
+  - "No discutire e non torrare a curregire. Risponde a su sentimentu chi b’est a palas de su chi narat."
+  - "Cando sas paraulas si faghent prus pagas, comunicade cun su tocu, su tonu, s’espressione de sa cara e immàgines cumpartzidas."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ite non si diat nàrrere a una persone cun demèntzia?"
+    a: "Evita de li faghere preguntas a manera de esàmene («Ti nde ammentas...?»), de la curregire («Custu no est giustu»), de li ammentare pèrdidas («T’apo giai nadu») e de faeddare de issa comente chi non b’esseret. Evita su faeddu de pitzinnos. Custas cosas, su prus de is bortas, causant imbaratzu o dispraghere chene agiudare."
+  - q: "Depo curregire sa persone cando is fatos chi narat non sunt giustos?"
+    a: "De sòlitu nono. Si unu fatu isballiadu no faghet dannu, lassalu andare. Discutire pagas bortas mudat s’idea de sa persone e a s’ispissu dda faghet istentare. Cuncentra·ti in comente si sentit e de ite tenet bisòngiu immoe."
+  - q: "Ite depo faghere cando non agat sa paràula giusta?"
+    a: "In antis de totu, dade·li tempus. Si si bidet chi est faghende fadiga, podet andare bene de li oferire una paràula cun delicadesa o de intèndere ite cheret nàrrere e poi ddu verificare. Faghere sinnos, gestos e impreare immàgines podent agiudare puru."
+  - q: "Comente potzo faeddare cun una persone in un’istàgiu avantzadu de demèntzia chi faeddat pagu?"
+    a: "Acùrtzia·ti dae in antis, nara·li chie ses, e imprea una boghe calma e unu tocu delicadu. Abbista a sa cara e a sos movimentos de su corpus pro cumprèndere comente si sentit. Sa presèntzia tua, una cantzone connota o li tènnere sa manu podent comunicare meda, fintzas chene paraulas."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Sa demèntzia podet fàghere prus difìtzile agatare sas paraulas, sighire una frase longa o no dare importu a is rumores de atesu. Custu non bolet nàrrere chi sa persone at firmadu de bòlere tènnere unu ligàmene cun is àteros. Modìficos piticos in comente preparas una chistionada, in comente faeddas e in comente ascurtas podent fàghere sa comunicatzione prus fàtzile e prus trancuilla pro totus duos.
 
-## What are the most important tips for talking with someone who has dementia?
+## Cales sunt is cussìgios prus importantes pro faeddare cun una persone cun demèntzia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Chirca de tènnere s’atentzione sua, mantene sas cosas simpres e siast passente. Si t’ammentas isceti chimbe cosas:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Faghe silèntziu in s’aposentu e pone·ti a cara a cara.** Istuda sa televisione, setzi·ti a s’altura de is ogros suos e imprea su nùmene suo.
+2. **Nara una cosa a sa borta.** Frases curtzas, un’idea, una pregunta.
+3. **Oferi una sèbera intre duas cosas.** «Tè o cafè?» est prus fàtzile de «Ite boles bìere?».
+4. **Iseta.** Dade·li prus tempus pro rispòndere de su chi ti paret naturale, e chirca de non la firmare in mesu.
+5. **No discutire mai e non faghere preguntas a manera de esàmene.** Risponde a comente si sentit, non a si is fatos sunt giustos o nono.
 
-## How should I start a conversation?
+## Comente depo cumintzare una chistionada?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Prepara sas cosas in manera chi sa persone si potzat cuncentrare in tue. Sa [ghia de sa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) cussìgiat de limitare, prima de totu, is rumores: istuda sa ràdiu o sa televisione, serra is tendas o sa janna, o bae in unu logu prus trancuillu.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Acùrtzia·ti dae in antis.** Arribare dae a palas o dae unu costadu dda podet ispramare.
+- **Nara·li chie ses.** «Salude, babbu, so Sara, fiza tua.» Custu li lèvat sa fadiga de chircare de s’ammentare de su nùmene tuo.
+- **Pone·ti a s’altura sua.** Si est setzidu, setzi·ti o pone·ti in genùgios pro tènnere is ogros a sa matessi altura.
+- **Abbista a s’espressione de sa cara tua e a su tonu de boghe.** Su [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) cussìgiat de dare contu a su tonu, a su volume, a s’espressione de sa cara e a is movimentos de su corpus, chirchende de tènnere una manera calda e natziale.
+- **Controlla chi tèngiat is ulleras e is aparitzos pro intèndere.** Est difìtzile sighire una chistionada chi non si podet bìdere o intèndere bene.
 
-## How should I phrase what I say?
+## Comente depo nàrrere su chi cherjo nàrrere?
 
-Use simple words, short sentences and a calm, low voice.
+Imprea paraulas simpres, frases curtzas e una boghe calma e bassa.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Un’idea pro cada frase.** «Nos ponimus sa giaca. A pustis bessimus a foras.» No totu in una sola tirada.
+- **Imprea is nùmenes, no is pronùmenes.** «At tzerriadu Tzia Zuanne» est prus craru de «At tzerriadu issa».
+- **Abbassa su tonu, no l’artzia.** Sa Family Caregiver Alliance cussìgiat una boghe prus bassa imbetzes de una prus arta.
+- **Torra a nàrrere, a pustis muda sas paraulas.** Si no at cumprèndidu, torra a nàrrere sas matessi paraulas una borta. Si non funtzionat, iseta unu pagu e proa cun paraulas diferentes.
+- **Mustra e nara.** Sinnala sa tzìchera, mustra is duos mallotos o faghe bìdere su primu passu.
+- **Faedda cun issa, no de issa.** Su NIA avertit de no faeddare de sa persone comente chi non bi fit, e de no impreare unu faeddu de pitzinnos.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+Su NIA cussìgiat versiones prus simpres de preguntas comunes. Inoghe bi sunt carchi esèmpiu in custu sensu:
 
-| Instead of | Try |
+| Imbetzes de | Proa a nàrrere |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Ite boles pro chenare?» | «Boles pisca o pudda?» |
+| «Comente ti ses sentende?» | «Ti ses sentende istancu?» |
+| «Tenes fàmine?» | «Sa chena at a èssere pronta de immoe a chimbe minutos.» |
+| «No est aici chi si faghet.» | «Amus a proare in custa manera.» |
+| «Ti nde ammentas de su biàgiu nostru a su lagu?» | «So pensende a su biàgiu nostru a su lagu. Nara·mi ite t’est pràghidu.» |
+| «T’apo giai nadu.» | Risponde torra, cun caridade, comente si fit sa prima borta. |
 
-## How do I listen well?
+## Comente potzo ascurtare bene?
 
-Listen for the meaning and the feeling, not just the words.
+Ascurta su significadu e su sentimentu, non isceti is paraulas.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Iseta.** A s’ispissu, su silèntziu est tempus pro pensare. Conta a bellu fintzas a deghe in antis de intrare in mesu.
+- **Oferi una paràula isceti si est firmada.** Sa Family Caregiver Alliance narat chi podet andare bene de cussigiare paraulas cando una persone est faghende fadiga.
+- **Verifica ite as cumprèndidu.** Sa [ghia de s’Alzheimer’s Association a sa comunicatzione](https://www.alz.org/help-support/caregiving/daily-care/communications) cussìgiat de chircare su significadu a palas de is paraulas e de ddu torrare a nàrrere pro verificare si as cumprèndidu bene. «Ses preocupadu pro sa màchina?».
+- **Abbista a sa cara e a su corpus suo.** Cando faeddare si faghet prus difìtzile, su NIA anotat chi is espressiones de sa cara podent mustrare tristura, arrabiu o frustatzione prus craru de is paraulas.
+- **Piga in cunsìderu is preocupatziones suas.** Fintzas si una preocupatzione si basat in unu fatu isballiadu, su sentimentu est beru.
 
-## What if they say something that is not true?
+## E si narat una cosa chi no est bera?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+No discutire. Est difìtzile chi la fatas cambiare idea, e sa persone si diat pòdere sentire imbaratzada o ispramada. Imbetzes, chirca de ti acapiare cun su sentimentu suo e, a pustis, muda argumentu cun delicadesa.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Sa Family Caregiver Alliance cussìgiat de reconnòschere s’emotzione in antis de torrare a indiritzare s’atentzione. Pro esèmpiu, si mama tua narat chi depet andare a pigare is pitzinnos a s’iscola:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Imbetzes de: «Mama, is pitzinnos tuos sunt mannos immoe. Sunt colados batoranta annos.»
+- Proa a nàrrere: «Ses istada semper una mama meda premurosa. Nara·mi de cando ddos andaias a pigare. Cheres chi papemus una cosa prima?».
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+S’Alzheimer’s Association cussìgiat fintzas de no discutire pro cosas in sas cales non ses de acordu. Sèbera su momentu giustu: si una idea isballiada no faghet dannu, lassala andare.
 
-## How does communication change as dementia progresses?
+## Comente mudat sa comunicatzione in s’avantzare de sa demèntzia?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Is bisòngios mudant cun su tempus, e tando depes atatare sa manera tua. S’Alzheimer’s Association descriet tres fases generales:
 
-| Stage | What helps |
+| Istàgiu | Ite agiudat |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Initziale | No pensare chi non potzat comunicare. Include·la in is chistionadas, faedda·li deretu, pedi·li de cale agiudu tenet bisòngiu e, si agiudat, imprea s’umorismu. |
+| Intermèdiu | Chistionadas una a una in unu logu trancuillu. Faedda a bellu, mantene su cuntatu visual, faghe preguntas a is cales si podet rispòndere cun eja o nono, dae inditos passu a passu e non ddu criticare e non ddu curregire. |
+| Avantzadu | Acùrtzia·ti dae in antis e nara·li chie ses. Incuràgia·la a faghere sinnos e gestos. Imprea su tocu, is sonos, is immàgines e is olores. No faeddare mai comente chi non bi fit. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Cada persone est diferente, e sa matessi persone podet tènnere dies bonos e dies difìtziles. Risponde a comente si sentit immoe, no a un’eticheta.
 
-## Can pictures and activities make conversation easier?
+## Is immàgines e is atividades podent fàghere sa chistionada prus fàtzile?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Eja. Un’immàgine cumpartzida faghet calare sa pressione e dat a totus duos una cosa de bìdere e de sinnalare.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ispuntos cun immàgines.** [Conversation Cards](/games/conversation-cards/) oferint immàgines cun preguntas abertas chi no sunt mai un’esàmene.
+- **Fotografias de famìlia.** [Photo Pairs](/games/photo-pairs/) trasformat is fotografias chi sèberas tue in unu giogu trancuillu de cuncòrdias, chi a s’ispissu faghet essire contos.
+- **Nàrreres connotas.** [Finish the Saying](/games/finish-the-saying/) imprea nàrreres connotas, sighidas dae un’ispuntu pro faeddare.
+- **Giogos de cuncòrdias comente isfundu.** [Picture Pairs](/games/picture-pairs/) dat a is manos una cosa de fàghere in su mentres chi faeddades.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Abbista a [comente giogare paris](/caregiving/how-to-play-together/) e a is [atividades de regordu](/activities/reminiscence/) pro àteras ideas. Pro is bìsitas e is tzerriadas, leghe is ghias nostras a pitzus de [bìsitas](/activities/visiting/) e [tzerriadas a telèfonu e in vìdeu](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Pro una persone chi faeddat prus lìnguas, leghe sa [ghia nostra a sa comunicatzione in prus lìnguas](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## E si perdo sa passèntzia?
+
+Capat a totus. Su NIA cussìgiat chi, si ti ses sentende frustradu, ti pigas unu pagu de tempus pro ti calmare. Intra in un’àteru aposentu, respira a bellu unas cantas bortas e torra cando ti ses calmadu. Podes semper torrare a cumintzare sa chistionada, e sa persone diat pòdere rispòndere bene a s’umore prus trancuillu tuo. Si sa frustatzione si faghet de su cuntinu, est unu sinnale chi tenes bisòngiu de prus agiudu, no chi ses faghende male. Sa ghia nostra a pitzus de [comente si pigare cura de se etotu](/caregiving/caregiver-self-care/) tenet indicatziones a ue ti podes bortare.

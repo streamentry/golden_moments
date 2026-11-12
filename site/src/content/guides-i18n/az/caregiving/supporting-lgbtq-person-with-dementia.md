@@ -1,31 +1,31 @@
 ---
-title: "Demans olan LGBTQ+ şəxsə dəstək"
-seoTitle: "LGBTQ+ demans qayğısı: kimlik, məxfilik və dəstək"
-description: "LGBTQ+ şəxsin kimliyinə, məxfiliyinə, partnyoruna və seçdiyi dəstəkçilərinə hörmət etməyin praktik yolları, demans qayğısı planlanarkən."
+title: "Demensiya yaşayan LGBTQ+ insana dəstək"
+seoTitle: "LGBTQ+ və demensiya: kimlik, məxfilik və dəstək"
+description: "Demensiya qayğısını planlayarkən LGBTQ+ insanın kimliyinə, məxfiliyinə, partnyoruna və seçdiyi yaxınlarına hörmət etməyin praktiki yolları."
 section: caregiving
 order: 40
 updated: 2026-11-12
 translatedFrom: 2026-11-12
 summary: >-
-  Şəxsdən necə müraciət olunmasını, kimin iştirak etməsini istədiyini və nəyin
-  paylaşılmasını istədiyini soruşun. Partnyora və seçdiyi ailəyə hörmət edin,
-  məxfiliyi qoruyun və qayğı təminatçılarından siyasətlərinin gündəlik həyatda necə
-  işlədiyini soruşun.
+  İnsandan necə müraciət olunmasını, kimin prosesə daxil olmasını və nələrin
+  paylaşılmasını istədiyini soruşun. Partnyorlara və seçilmiş ailəyə hörmət
+  edin, məxfiliyi qoruyun və qayğı təminatçılarından qaydalarının gündəlik
+  həyatda necə işlədiyini soruşun.
 keyPoints:
-  - "Şəxsin adı, əvəzlik formaları, münasibətləri və məxfilik istəkləri barədə soruşun; fərz etməyin."
-  - "Şəxsin şəxsi məlumatı nə vaxt, necə və kimlə paylaşacağına özünün qərar verməsinə icazə verin."
-  - "Şəxsin kimi ailə hesab etdiyini və kimin yeniliklər ala və ya ziyarət edə biləcəyini soruşun."
-  - "Qayğı təminatçılarının üstünlükləri necə qeyd etdiyini, məxfiliyi necə qoruduğunu və narahatlıqlara necə cavab verdiyini yoxlayın."
-  - "Kimlik vacibdir, lakin şəxsin həyatının və qayğısının yalnız bir hissəsidir."
+  - "İnsanın adı, əvəzlikləri, münasibətləri və məxfilik seçimləri barədə soruşun; fərziyyələr yürütməyin."
+  - "Şəxsi məlumatların paylaşılıb-paylaşılmamasına, nə vaxt və kimlə paylaşılmasına insanın özü qərar versin."
+  - "İnsanın kimi ailə hesab etdiyini və kimin məlumat ala və ya ziyarət edə biləcəyini soruşun."
+  - "Qayğı təminatçılarının seçimləri necə qeyd etdiyini, məxfiliyi necə qoruduğunu və narahatlıqlara necə cavab verdiyini öyrənin."
+  - "Kimlik vacibdir, amma bu, insanın həyatının və qayğısının yalnız bir hissəsidir."
 faq:
-  - q: "LGBTQ+ olduğunu qayğı işçilərinə deməliyəmmi?"
-    a: "Şəxsdən işçilərin nəyi bilməsini istədiyini və bunu kimin bilə biləcəyini soruşun. Mümkün olduqda yalnız razılaşdığı məlumatı paylaşın və təminatçıdan məlumatın necə qeyd olunacağını və kimin görə biləcəyini soruşun."
-  - q: "Qayğı söhbətlərində kim iştirak etməlidir?"
-    a: "Şəxsdən kimə etibar etdiyini və kimin iştirak etməsini istədiyini soruşun. Bu, partnyor, dost, qohum və ya seçdiyi ailə ola bilər; bioloji qohumun əsas əlaqə şəxsi olduğunu fərz etməyin."
-  - q: "Qayğı evindən LGBTQ+ daxilliyi barədə nə soruşmalıyam?"
-    a: "Qeydlərdə ad və əvəzlik formalarının necə istifadə olunduğunu, ziyarətçilərin və şəxsi vaxtın necə təşkil olunduğunu, yataq yerinin və şəxsi baxım üstünlüklərinin necə nəzərə alındığını, işçi təlimini və narahatlıqların necə həll olunduğunu soruşun. Vacib olduqda cari yazılı siyasətləri istəyin."
-  - q: "Şəxs paylaşmaq istədiyi məlumatı dəyişsə nə etməli?"
-    a: "Üstünlüklər şəxsdən, mühitdən və vaxtdan asılı olaraq fərqli ola bilər. Mümkün olduqda şəxslə yenidən yoxlayın və o, indi məlumatı gizli saxlamağı istəyirsə, əvvəlki söhbətə əsaslanaraq açıqlama etməyin."
+  - q: "Qayğı heyətinə kiminsə LGBTQ+ olduğunu deməliyəmmi?"
+    a: "İnsandan heyətin nələri bilməsini istədiyini və bunu kimin bilməsinə icazə verdiyini soruşun. Mümkün olduqda yalnız razılaşdığı məlumatları paylaşın və təminatçıdan bu məlumatın necə qeyd olunacağını və onu kimin görə biləcəyini soruşun."
+  - q: "Qayğı ilə bağlı söhbətlərə kimlər daxil edilməlidir?"
+    a: "İnsandan kimə güvəndiyini və kimin iştirak etməsini istədiyini soruşun. Bu, partnyor, dost, qohum və ya seçilmiş ailə üzvü ola bilər; bioloji qohumun üstünlük verilən əlaqə şəxsi olduğunu düşünməyin."
+  - q: "Qayğı evindən LGBTQ+ dəstəyi barədə nə soruşmalıyam?"
+    a: "Adların və əvəzliklərin qeydlərdə necə yazıldığını, ziyarətçiləri və şəxsi vaxtı, otaq və şəxsi qayğı seçimlərini, heyətin təlimini və narahatlıqların necə həll edildiyini soruşun. Vacib olduqda mövcud yazılı qaydaları istəyin."
+  - q: "İnsan paylaşmaq istədiyi barədə fikrini dəyişsə, nə etməliyəm?"
+    a: "Seçimlər insandan, mühitdən və zamandan asılı olaraq fərqlənə bilər. Mümkün olduqda insanla yenidən yoxlayın və əvvəlki söhbətə əsaslanaraq məlumat paylaşmayın, əgər o, indi bunun məxfi qalmasını istəyirsə."
 sources:
   - title: "Supporting an LGBTQ+ person with dementia"
     publisher: "Alzheimer's Society"
@@ -44,48 +44,48 @@ related: [caregiving/choosing-residential-dementia-care, caregiving/after-dement
 health: true
 ---
 
-LGBTQ+ şəxsin kimliyi onun kim olmasının bir hissəsidir. Onun nəyin vacib olduğunu soruşun, seçdiyi sözlərdən istifadə edin və şəxsi məlumatı kimin bilməli olduğuna o özü qərar versin. Şəxsin kimliyini, partnyorunu, ailə dəstəyini və məxfilik istəklərini görünüşündən, köhnə qeydlərdən və ya kimin ziyarət etməsindən təxmin etməyin.
+LGBTQ+ insanın kimliyi onun şəxsiyyətinin bir hissəsidir. Onun üçün nəyin vacib olduğunu soruşun, seçdiyi sözlərdən istifadə edin və şəxsi məlumatları kimin biləcəyinə özünün qərar verməsinə imkan yaradın. İnsanın kimliyi, partnyoru, ailə dəstəyi və ya məxfilik istəkləri barədə görünüşünə, köhnə qeydlərə və ya onu kimin ziyarət etdiyinə əsaslanaraq fərziyyə yürütməyin.
 
-[Alzheimer's Society-nin demansı olan LGBTQ+ şəxsə dəstək bələdçisi](https://www.alzheimers.org.uk/get-support/help-dementia-care/supporting-lgbtq-dementia) şəxsin istəklərini soruşmağı və münasibətlər barədə fərziyyələrdən çəkinməyi məsləhət görür. [Alzheimer's Association-ın LGBTQ+ demans resursları](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) da damğalanma narahatlıqlarından və xoş qarşılayan qayğı tapmaqdan bəhs edir. İnsanlar fərqlidir; bu ideyaları söhbət üçün başlanğıc kimi istifadə edin, kimsəni müəyyən edən yoxlama siyahısı kimi yox.
+[Alzheimer’s Society-nin demensiya yaşayan LGBTQ+ insana dəstək barədə bələdçisi](https://www.alzheimers.org.uk/get-support/help-dementia-care/supporting-lgbtq-dementia) insanın istəkləri barədə soruşmağı və münasibətlər haqqında fərziyyələrdən qaçmağı tövsiyə edir. [Alzheimer’s Association-un LGBTQ+ demensiya resursları](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) isə damğalanma və qəbul edən qayğı tapmaqla bağlı narahatlıqlara da toxunur. İnsanlar fərqlidir; bu fikirləri kimisə müəyyən etmək üçün yoxlama siyahısı kimi deyil, söhbət üçün başlanğıc nöqtələri kimi istifadə edin.
 
-## Adı, əvəzlik formalarını və məxfiliyi necə soruşa bilərəm?
+## Ad, əvəzliklər və məxfilik barədə necə soruşa bilərəm?
 
-Şəxsi və tələsmədən olduğunuz bir an seçin. Belə soruşa bilərsiniz: “Sizi necə çağırmağımızı istərdiniz və hansı əvəzlik formalarından istifadə edək?” və ya “Kimliyiniz və münasibətləriniz barədə dəstək verən insanların bilməsini istədiyiniz bir şey varmı?” Şəxs qismən cavab verə, “yox” deyə və ya sonra geri qayıda bilər. Qayğısı ilə bağlı olmayan şəxsi suallar verməyə ehtiyac yoxdur.
+Sakit və tələsik olmayan bir vaxt seçin. Məsələn, „Sizə necə müraciət etməyimizi və hansı əvəzliklərdən istifadə etməyimizi istəyirsiniz?“ və ya „Kimliyiniz və ya münasibətlərinizlə bağlı sizə dəstək olanların bilməsini istədiyiniz bir şey varmı?“ deyə soruşa bilərsiniz. İnsan qismən cavab verə, imtina edə və ya bu söhbəti başqa vaxta saxlaya bilər. Qayğı ilə bağlı olmayan şəxsi sualları vermək lazım deyil.
 
-Kimin nəyi bilə biləcəyini soruşun. Kiməsə partnyorunun işçilər tərəfindən tanınmasını istədiyi, lakin geniş ailəsinin cinsi yönümü və ya gender kimliyi barədə məlumatlandırılmasını istəmədiyi ola bilər. İnsan müxtəlif mühitlərdə fərqli ifadələr də istəyə bilər. Kimisə tanıdığınız üçün kimlik məlumatını qohumlara, ziyarətçilərə və ya işçilərə açıqlamayın.
+Nəyin kimlə paylaşılacağını soruşun. Biri partnyorunun heyət tərəfindən tanınmasını istəyə, amma cinsi yönümü və ya gender kimliyi barədə daha geniş ailəsinə məlumat verilməsini istəməyə bilər. İnsan fərqli mühitlərdə fərqli ifadələrə üstünlük verə bilər. Kimliklə bağlı məlumatları yalnız bildiyiniz üçün qohumlarla, ziyarətçilərlə və ya heyətlə paylaşmayın.
 
-Şəxs bir üstünlüyün qeyd olunmasını istəyirsə, nəyi yazmağı və kimin görəcəyini soruşun. Təminatçının adın digər qeydlərdən fərqləndiyi halda necə idarə etdiyini yoxlayın, o cümlədən işçilərin söhbətdə şəxsin üstün tutduğu adından istifadə edə bilib-bilmədiyini. Məxfiliyi nəzərdə saxlayın; qayğıda kömək edən hər kəsin hər təfərrüatı bilməsinə ehtiyac yoxdur.
+İnsan bir seçimin qeyd olunmasını istəyirsə, nə yazılacağını və bunu kimin görəcəyini soruşun. Təminatçıdan digər qeydlərdəki addan fərqli adı necə qeyd etdiyini, o cümlədən heyətin söhbət zamanı insanın üstünlük verdiyi addan istifadə edib-etməyəcəyini öyrənin. Məxfiliyi nəzərə alın; qayğıya kömək edən hər kəsin hər detalı bilməsinə ehtiyac yoxdur.
 
-Üstünlüklər dəyişə bilər. Şəxs seçim edə bildiyi zaman yenidən yoxlayın, xüsusilə köçməzdən və ya yeni qayğı düzənləşdirməzdən əvvəl. Nəyin paylaşılmasını istədiyi aydın deyilsə, fərziyyə etməyin. Əvvəllər verdiyi aydın üstünlüyə əməl edin və qayğı səlahiyyəti və ya məlumat paylaşımı qaydaları ilə bağlı suallar üçün yerli ixtisaslı mütəxəssisdən kömək alın.
+Seçimlər dəyişə bilər. İnsan seçim bildirə bildikdə, xüsusən köç və ya yeni qayğı düzeni öncəsi yenidən soruşun. Nəyin paylaşılacağı aydın deyilsə, fərziyyə yürütməyin. İnsan əvvəlcədən açıq şəkildə bildirdiyi seçimə əməl edin və qayğı səlahiyyəti və ya məlumat paylaşımı qaydaları ilə bağlı suallar üçün ixtisaslı yerli mütəxəssisdən kömək istəyin.
 
-## Qayğı söhbətlərinə kim daxil edilməlidir?
+## Qayğı ilə bağlı söhbətlərə kimlər daxil edilməlidir?
 
-Şəxsdən kimə etibar etdiyini və kimin iştirak etməsini istədiyini soruşun. Onun dəstək şəbəkəsinə həyat yoldaşı, partnyor, yaxın dost, qohum və ya “seçdiyi ailə” daxil ola bilər — qohum olmasalar da, ailə kimi dəstək verən insanlar. Bəziləri doğulduğu ailəyə güvənir, bəziləri isə güvənmir. Şəxsin münasibətlərini öz terminləri ilə təsvir etməsinə imkan verin.
+İnsandan kimə güvəndiyini və kimin iştirak etməsini istədiyini soruşun. Onun dəstək şəbəkəsinə həyat yoldaşı, partnyor, yaxın dost, qohum və ya „seçilmiş ailə“ — qohum olmasalar da ona ailə kimi dəstək olan insanlar — daxil ola bilər. Bəzi insanlar öz doğma ailəsinə arxalanır, bəziləri isə yox. İnsanın münasibətlərini öz sözləri ilə anlatmasına imkan verin.
 
-Praktik suallar verin: Kim ziyarət edə bilər? Planlar dəyişəndə işçilər kimə zəng etməlidir? Kim yeniliklər ala bilər? Təminatçı məlumat paylaşmazdan əvvəl icazə və ya sənəd tələb edirsə, nə lazım olduğunu soruşun və seçimləri şəxsə izah edin. Partnyor və ya seçilmiş dəstəkçi olmaq qərar vermək üçün avtomatik hüquqi səlahiyyət vermir; qaydalar yerdən yerə fərqlənir.
+Praktiki suallar verin: Kim ziyarət edə bilər? Planlar dəyişəndə heyət kimə zəng etməlidir? Kim yeniliklər barədə məlumat ala bilər? Təminatçı məlumat paylaşmazdan əvvəl icazə və ya sənəd tələb edirsə, nəyə ehtiyac olduğunu soruşun və variantları insana izah edin. Partnyor və ya seçilmiş dəstəkçi olmaq avtomatik olaraq qərar vermək üçün hüquqi səlahiyyət yaratmır; qaydalar yerə görə fərqlənir.
 
-Şəxsin üstün tutduğu münasibət adından istifadə edin. Şəxs partnyorunun partnyor kimi tanınmasını istəyəndə, qayğı işçisinin onu “dost” və ya “qohum” adlandırması narahatlıq yarada bilər. Qısa, icazəyə əsaslanan qeyd işçilərə insanları necə təqdim edəcəklərini və hansı məlumatın paylaşıla biləcəyini göstərə bilər.
+İnsanın üstünlük verdiyi münasibət adından istifadə edin. Qayğı işçisinin partnyoru, insan onu partnyor kimi tanınmasını istədiyi halda, „dost“ və ya „qohum“ adlandırması narahatlıq yarada bilər. İcazəyə əsaslanan qısa bir qeyd heyətə insanları necə təqdim etməyi və hansı məlumatların paylaşılacağını göstərə bilər.
 
 ## Qayğı təminatçısından nə soruşa bilərəm?
 
-Qayğı evini, evdə dəstəyi və ya gündüz xidmətlərini müqayisə edərkən, şəxsdən hansı sualları qaldırmaq istədiyini və sizin orada olmağınızı istəyib-istəmədiyini soruşun. [SAGE-in LGBT-ni dəstəkləyən xidmətlər bələdçisi](https://www.sageusa.org/resource/10-tips-for-finding-lgbt-affirming-services/) təminatçıya şəxsi məlumat vermənin insanı həssas hiss etdirə biləcəyini qeyd edir. Təminatçıdan cari praktikalarını sadə dillə izah etməsini xahiş edin.
+Yaşayış yeri olan qayğı, evdə dəstək və ya gündüz xidmətlərini müqayisə edərkən insandan hansı sualları vermək istədiyini və sizin orada olmağınızı istəyib-istəmədiyini soruşun. [SAGE-in qəbul edən xidmətlər tapmaq barədə bələdçisi](https://www.sageusa.org/resource/10-tips-for-finding-lgbt-affirming-services/) şəxsi məlumatı təminatçı ilə paylaşmağın insanda həssaslıq yarada biləcəyini qeyd edir. Təminatçıdan mövcud təcrübələrini sadə dillə izah etməsini istəyin.
 
-- Üstün tutulan adı və əvəzlik formalarını necə qeyd edirsiniz? Bu məlumata hansı işçilər baxa bilər?
-- Şəxs kimin ziyarət edəcəyini necə seçə bilər və partnyoru və ya başqa dəstəkçisi ilə şəxsi vaxt keçirə bilərmi?
-- Yataq yeri, geyim və şəxsi baxım üstünlüklərini necə öyrənir və nəzərə alırsınız?
-- İşçilər LGBTQ+ yaşlı insanlar və demans barədə hansı təlim alır?
-- Sakin və ya dəstəkçi məxfilik və ya hörmətsizlik barədə narahatlığını necə bildirə bilər və sonra nə baş verir?
+- Üstünlük verilən ad və əvəzlikləri necə qeyd edirsiniz? Bu məlumatı hansı əməkdaşlar görə bilər?
+- İnsan ziyarətçiləri necə seçə və partnyoru və ya başqa bir dəstəkçisi ilə şəxsi vaxt keçirə bilər?
+- Otaq, geyim və şəxsi qayğı ilə bağlı insanın seçimlərini necə öyrənir və onlara necə hörmət edirsiniz?
+- Heyət LGBTQ+ yaşlı insanlar və demensiya barədə hansı təlimləri alır?
+- Sakin və ya dəstəkçi məxfilik və ya hörmətsizliklə bağlı narahatlığı necə bildirə bilər və sonra nə baş verir?
 
-[SAGE və Human Rights Campaign Foundation-un inklüziv uzunmüddətli qayğı bələdçisi](https://www.sageusa.org/wp-content/uploads/2025/08/lei-consumer-guide-finding-lgbtq-inclusive-ltcc.pdf) ziyarət, yataq yeri və işçi praktikası ilə bağlı yazılı siyasətləri yoxlamağı təklif edir. O, 2021-ci ildə nəşr olunub; onu verilməli suallar üçün istifadə edin, cari yerli qanunların bəyanatı kimi yox. Siyasətlər və xidmətlər yerdən asılı olaraq fərqlənir.
+[SAGE və Human Rights Campaign Foundation-un inklüziv uzunmüddətli qayğıya dair bələdçisi](https://www.sageusa.org/wp-content/uploads/2025/08/lei-consumer-guide-finding-lgbtq-inclusive-ltcc.pdf) ziyarət, otaq yerləşməsi və heyət təcrübəsi ilə bağlı yazılı qaydaları yoxlamağı təklif edir. Bu bələdçi 2021-ci ildə nəşr olunub; onu soruşulacaq suallar üçün istifadə edin, mövcud yerli qanunların təsviri kimi yox. Qaydalar və xidmətlər yerə görə fərqlənir.
 
-Loqo, broşür və ya bir ürəkaçan cavab gündəlik qayğının necə olacağına zəmanət verə bilməz. Şəxs ziyarət etmək istəyirsə, işçilərin onu necə çağırdığına və partnyoruna və ya seçilmiş dəstəkçilərinə necə yanaşdığına diqqət edin. Şəxsin özünü təhlükəsiz hiss etməsinə kömək edəcəksə, işçi ilə təklikdə danışmağı xahiş edin.
+Loqo, broşür və ya bir arxayınedici cavab gündəlik qayğının necə olacağına zəmanət verə bilməz. İnsan ziyarət etmək istəyirsə, heyətin ona necə müraciət etdiyinə və partnyoruna və ya seçdiyi dəstəkçilərinə necə cavab verdiyinə diqqət yetirin. İnsanın özünü təhlükəsiz hiss etməsi üçün faydalı olacaqsa, bir heyət üzvü ilə ayrıca danışmağı xahiş edin.
 
-## Bütün şəxsi necə dəstəkləyə bilərəm?
+## Bütöv bir insan kimi necə dəstək ola bilərəm?
 
-Şəxsin adi maraqları, rutini, dili, mədəniyyəti, dini, dostları və icması barədə soruşun. Kimlik müzakirə etmək üçün vacib ola bilər, ya da o, həyatının digər hissələri ilə məşğul olmağı üstün tutur. Hər görüşü kimlik söhbətinə çevirməyin və hər LGBTQ+ insanın eyni təcrübə yaşadığını fərz etməyin.
+İnsanın gündəlik maraqları, vərdişləri, dili, mədəniyyəti, inancı, dostları və ictimai mühiti barədə soruşun. Kimliyi haqqında danışmaq onun üçün vacib ola bilər və ya o, vaxtını həyatının digər hissələrinə sərf etməyə üstünlük verə bilər. Hər görüşü kimlik mövzusuna çevirməyin və bütün LGBTQ+ insanların eyni təcrübələri yaşadığını düşünməyin.
 
-Bəziləri rədd edilmə və ya ayrıseçkilik ilə üzləşib və xidmətlərə ehtiyatla yanaşa bilər. Digərləri bunu narahatlıq kimi görməyə bilər. Şəxsdən bir şeyi izah etməsini və ya sübut etməsini istəmədən dinləyin. Keçmişlə bağlı bir xatirə, şəkil və ya hekayə onu incidirsə, dayanmaq və ya mövzunu dəyişmək istəyib-istəmədiyini soruşun.
+Bəzi insanlar rədd edilmə və ya ayrı-seçkiliklə üzləşmiş ola bilər və xidmətlərə ehtiyatla yanaşa bilər. Digərləri üçün bu narahatlıq olmaya bilər. İnsandan heç nəyi izah etməsini və ya sübut etməsini istəmədən dinləyin. Keçmişlə bağlı bir xatirə, foto və ya hekayə onu narahat edirsə, dayanmaq və ya mövzunu dəyişmək istəyib-istəmədiyini soruşun.
 
-Əgər siz partnyor, dost və ya ailə üzvüsünüzsə, öz dəstəyiniz də vacibdir. Şəxsdən sizin necə iştirak etməyinizi istədiyini soruşun və məsləhət lazımdırsa, yerli demans və ya LGBTQ+ yaşlanma təşkilatı axtarın. [Alzheimer's Association-ın resurs səhifəsi](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) icma və qayğıkeş resurslarına keçidlər verir; nəyin mövcud olduğu yaşadığınız yerdən asılıdır.
+Əgər siz partnyor, dost və ya ailə üzvüsünüzsə, özünüzün də dəstəyə ehtiyacı ola bilər. İnsandan sizi prosesə necə daxil etmək istədiyini soruşun və məsləhətə ehtiyacınız varsa, yerli demensiya və ya LGBTQ+ yaşlanma təşkilatı axtarın. [Alzheimer’s Association-un resurs səhifəsi](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) icma və qayğıverən resurslarına keçidlər verir; mövcud imkanlar yaşadığınız yerə görə dəyişir.
 
-Qayğı evlərini müqayisə edərkən daha geniş yoxlama siyahısı üçün [demans üçün yaşayış qayğısını seçmək](/caregiving/choosing-residential-dementia-care/) bələdçisinə baxın. Diaqnozdan sonra planlaşdırma üçün isə [demans diaqnozundan sonra ilk addımlar](/caregiving/after-dementia-diagnosis/) səhifəsinə baxın.
+Qayğı evlərini müqayisə edərkən daha geniş yoxlama siyahısı üçün [yaşayış yeri olan demensiya qayğısının seçilməsi](/caregiving/choosing-residential-dementia-care/) bölməsinə baxın. Diaqnozdan sonra planlamaqda kömək üçün [demensiya diaqnozundan sonrakı ilk addımlar](/caregiving/after-dementia-diagnosis/) bölməsinə baxın.

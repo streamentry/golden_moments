@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Switsundzuxo swo vulavula ni munhu la hanyaka ni vuvabyi bya ku rivala"
+seoTitle: "Switsundzuxo swo vulavula hi vuvabyi bya ku rivala"
+description: "Tindlela to olova to vulavula ni munhu la hanyaka ni vuvabyi bya ku rivala: ndlela yo lulamisa mbulavurisano, leswi u nga swi vulaka, ni ndlela yo yingisela."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Vulavulani endhawini yo miyela, langutani munhu, tirhisani vito ra yena, naswona
+  vulavulani hi ku nonoka hi swivulwa swo koma ni swo olova. Vutisani xivutiso xin’we
+  hi nkarhi, nyikani swilo swimbirhi swo hlawula ematshan’weni ya swivutiso swo pfuleka,
+  naswona yimani nkarhi wo leha kutlula leswi swi titwakaka swi tolovelekile. Mi nga
+  kanetani, mi nga lulamisi kumbe ku kambisisa. Hlamulani eka matitwelo lama nga endzhaku
+  ka marito, naswona tirhisani ku khumba, swifaniso ni swikombiso loko marito ma ya ma nonoha.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Hungutani pongo ra le ndzhaku naswona mi kumana hi mahlo mi nga si sungula ku vulavula."
+  - "Tirhisani swivulwa swo koma, xianakanyo xin’we hi nkarhi, ni mavito ematshan’weni ya u, yena kumbe vona."
+  - "Nyikani nhlawulo wa swilo swimbirhi, kumbe xivutiso xa ina kumbe e-e, ematshan’weni ya swivutiso swo pfuleka."
+  - "Yimani mi rindzela nhlamulo. Loko a nga twisisiwi, phindhani marito lama fanaka, kutani mi ringeta man’wana."
+  - "Mi nga kanetani kumbe ku lulamisa. Hlamulani eka matitwelo lama nga endzhaku ka leswi a swi vulaka."
+  - "Loko marito ma ya ma nyamalala, vulavulani hi ku khumba, rito, nkombiso wa xikandza ni swifaniso leswi mi swi langutanaka swin’we."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Xana i yini leswi mi nga fanelangiki ku swi vula eka munhu la hanyaka ni vuvabyi bya ku rivala?"
+    a: "Papalatani ku kambisisa (“Xana wa swi tsundzuka...?”), ku lulamisa (“Leswo a hi swona”), ku n’wi tsundzuxa ku lahlekeriwa (“Ndzi ku byerile khale”) ni ku vulavula hi yena onge a nga ri kona. Papalatani marito ya vana. Leswi swi tala ku vanga tingana kumbe ku karhateka handle ko pfuna."
+  - q: "Xana ndzi fanele ndzi n’wi lulamisa loko a hoxa timhaka?"
+    a: "Hakanyingi a swi bohi. Loko xihoxo xi nga vavisi, xi tshikeni. Ku kanetana a swi talanga ku cinca mianakanyo ya munhu naswona hakanyingi swi n’wi kwatisa. Kongomisani eka ndlela leyi a titwaka hayona ni leswi a swi lavaka sweswi."
+  - q: "Xana ndzi endla yini loko a nga kumi rito?"
+    a: "Rhanga mi n’wi nyika nkarhi. Loko swi tikomba kahle leswaku wa tikeriwa, swi lulamile ku n’wi nyika rito hi ku olova kumbe ku anakanya leswi a swi vulaka ivi mi tiyisisa. Ku kombetela, swikombiso ni swifaniso na swona swi nga pfuna."
+  - q: "Xana ndzi vulavula njhani ni munhu la nga eka xiyimo xo hetelela xa vuvabyi bya ku rivala loyi a nga vulavuleki ngopfu?"
+    a: "Tshaneni hi le mahlweni, vulani leswaku mi mani, naswona tirhisani rito ro rhula ni ku khumba hi vukheta. Langutani swikandza ni ririmi ra miri ku vona matitwelo. Ku va kona ka n’wina, risimu leri a ri tivekaka kumbe ku khomana hi mavoko swi nga vulavula swo tala handle ka marito."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Vuvabyi bya ku rivala byi nga endla leswaku swi tika ku kuma marito, ku landzelela xivulwa xo leha, kumbe ku honisa pongo ra le ndzhaku. Leswi a swi vuli leswaku munhu u tshikile ku lava ku hlangana ni van’wana. Ku cinca kutsongo eka ndlela leyi mi lulamisaka mbulavurisano hayona, ndlela leyi mi vulavulaka hayona ni ndlela leyi mi yingiselaka hayona swi nga endla leswaku ku vulavula ku olova ni ku rhula eka n’wina havumbirhi.
 
-## What are the most important tips for talking with someone who has dementia?
+## Xana i switsundzuxo swihi swa nkoka swinene loko mi vulavula ni munhu la hanyaka ni vuvabyi bya ku rivala?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Kumani nyingiseto wa yena, mi endla swilo swi olova, naswona mi va ni mbilu yo lehisa. Loko mi tsundzuka swilo swa ntlhanu ntsena:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Miyelisani kamara naswona mi n’wi languta.** Timani TV, tshamani mi ringana hi mahlo, naswona tirhisani vito ra yena.
+2. **Vulani xilo xin’we hi nkarhi.** Swivulwa swo koma, xianakanyo xin’we, xivutiso xin’we.
+3. **Nyikani nhlawulo wa swilo swimbirhi.** “Tiya kumbe kofi?” swi olova kutlula “U lava yini?”
+4. **Yimani.** Nyikani nkarhi wo tala ku hlamula kutlula leswi swi titwakaka swi tolovelekile, naswona ringetani ku nga n’wi tsemeli marito.
+5. **Mi nga kanetani kumbe ku kambisisa.** Hlamulani eka ndlela leyi a titwaka hayona, ku nga ri loko timhaka ti ri ntiyiso kumbe ti nga ri swona.
 
-## How should I start a conversation?
+## Xana ndzi fanele ndzi sungula njhani mbulavurisano?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Lulamisani swilo leswaku munhu a kota ku kongomisa eka n’wina. [Xiletelo xa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) xi tsundzuxa ku hunguta pongo ku sungula: timani xiyanimoya kumbe TV, pfalani makheteni kumbe nyangwa, kumbe mi ya endhawini yo miyela swinene.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Tshaneni hi le mahlweni.** Ku ta hi le ndzhaku kumbe hi le tlhelo swi nga n’wi chavisa.
+- **Vulani leswaku mi mani.** “Avuxeni Tatana, hi mina Sarah, n’wana wa wena wa nhwanyana.” Leswi swi n’wi ponisa ku lava vito ra n’wina.
+- **Tshaneni mi ringana na yena.** Loko a tshamile, tshamani kumbe khinsamani leswaku mahlo ya n’wina ma ringana.
+- **Langutani xikandza ni rito ra n’wina.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) yi tsundzuxa ku lemuka rito ra n’wina, mpimo wa rito, nkombiso wa xikandza ni ririmi ra miri, ni ku kongomisa eka ndlela yo kufumela ni yo olova.
+- **Tiyisisani leswaku swilanguti ni swipfuno swo twa swi le kona.** Swi tika ku landzelela mbulavurisano lowu mi nga wu voniki kumbe ku wu twa kahle.
 
-## How should I phrase what I say?
+## Xana ndzi fanele ndzi vumba marito ya mina njhani?
 
-Use simple words, short sentences and a calm, low voice.
+Tirhisani marito yo olova, swivulwa swo koma ni rito ro rhula, ra le hansi.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Xianakanyo xin’we hi xivulwa.** “A hi ambareneni bakiti ya wena. Kutani hi ta ya ehandle.” Ku nga ri haswimbirhi hi nkarhi wun’we.
+- **Tirhisani mavito, ku nga ri maviti yo siva.** “Hahani Jean u fonile” swi twala kutlula “U fonile.”
+- **Ehlesani rito, mi nga ri tlakusi.** Family Caregiver Alliance yi ringanyeta rito ra le hansi ematshan’weni ya rito ro tlakuka.
+- **Phindhani, kutani mi cinca marito.** Loko a nga twisisanga, phindhani marito lama fanaka kan’we. Loko leswi swi nga pfuni, yimani nyana kutani mi ringeta marito man’wana.
+- **Kombisani ni ku vula.** Kombetelani khapi, yimisani tisweta timbirhi, kumbe kombisani goza ro sungula.
+- **Vulavulani na yena, ku nga ri hi yena.** NIA yi lemukisa hi ku vulavula hi munhu onge a nga ri kona, ni hi “marito ya vana”.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA yi ringanyeta tinxaka to olova ta swivutiso leswi tolovelekeke. Hi leswi swikombiso hi moya wolowo:
 
-| Instead of | Try |
+| Ematshan’weni ya | Ringetani |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “U lava yini eka swakudya swa madyambu?” | “U lava nhlampfi kumbe huku?” |
+| “U titwa njhani?” | “Xana u titwa u karhele?” |
+| “Xana u twa ndlala?” | “Swakudya swa madyambu swi ta va swi lunghekile eka timinete ta ntlhanu.” |
+| “A hi swona ndlela yo swi endla.” | “A hi ringeteni hi ndlela leyi.” |
+| “Xana wa wu tsundzuka riendzo ra hina etiveni?” | “A ndzi ehleketa hi riendzo ra hina etiveni. Ndzi byele leswi u swi tsakelaka ha swona.” |
+| “Ndzi ku byerile khale.” | Hlamulani nakambe, hi musa, onge i ro sungula. |
 
-## How do I listen well?
+## Xana ndzi yingisela njhani kahle?
 
-Listen for the meaning and the feeling, not just the words.
+Yingiselani nhlamuselo ni matitwelo, ku nga ri marito ntsena.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Yimani.** Ku miyela hakanyingi i nkarhi wo ehleketa. Hlayani hi ku nonoka ku fikela eka khume mi nga si nghenelela.
+- **Nyikani rito ntsena loko a tsandzekile.** Family Caregiver Alliance yi vula leswaku swi lulamile ku ringanyeta marito loko munhu a tikeriwa.
+- **Tiyisisani leswi mi swi tweke.** [Xiletelo xa Alzheimer’s Association xa mbulavurisano](https://www.alz.org/help-support/caregiving/daily-care/communications) xi ringanyeta ku lava nhlamuselo endzhaku ka marito ya yena ni ku yi vuyisela ku tiyisisa leswaku mi twisisile. “U vilela hi movha?”
+- **Langutani xikandza ni miri wa yena.** Loko ku vulavula ku ya ku nonoha, NIA yi boxa leswaku mikombiso ya xikandza yi nga kombisa gome, ku hlundzuka kumbe ku karhateka ku twala kutlula marito.
+- **Tekani swivilelo swi ri swa nkoka.** Hambi loko ku vilela ku simekiwile eka xihoxo, matitwelo ma kona i ya ntiyiso.
 
-## What if they say something that is not true?
+## Xana swi njhani loko a vula nchumu lowu nga riki ntiyiso?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Mi nga kanetani. A swi talanga leswaku mi ta hlula, naswona munhu a nga hetelela a titwa a nga na tingana kumbe a chuhile. Ematshan’weni ya sweswo, hlanganani na matitwelo ya yena, kutani mi susa nyingiseto hi vukheta.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance yi ringanyeta ku amukela matitwelo mi nga si kongomisa kun’wana. Hi xikombiso, loko manana wa n’wina a sindzisa leswaku u fanele a ya teka vana exikolweni:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Ematshan’weni ya: “Manana, vana va wena va kurile. A ku ri malembe ya mune wa makume lama hundzeke.”
+- Ringetani: “A wu ri manana wo khathala swinene. Ndzi byele hi ku va teka. Xana hi nga rhanga hi dya xanchumu xo olova?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association na yona yi tsundzuxa ku nga kanetani hi swivulwa leswi mi nga pfumelelani na swona. Hlawulani mikarhi ya n’wina: loko ripfumelo leri hoxeke ri nga vavisi, ri tshikeni.
 
-## How does communication change as dementia progresses?
+## Xana mbulavurisano wu cinca njhani loko vuvabyi bya ku rivala byi ya emahlweni?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Swilaveko swi cinca hi ku famba ka nkarhi, hikwalaho lulamisani ndlela ya n’wina. Alzheimer’s Association yi hlamusela swiyimo swinharhu swo anama:
 
-| Stage | What helps |
+| Xiyimo | Leswi swi pfunaka |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Xo sungula | Mi nga ehleketi leswaku a nga ha koti ku vulavula. N’wi katekiseni eka mimbulavurisano, vulavulani na yena hi ku kongoma, vutisani mpfuno lowu a wu lavaka, naswona tirhisani vuhungasi loko swi pfuna. |
+| Xa le xikarhi | Mimbulavurisano ya munhu un’we ni un’we endhawini yo miyela. Vulavulani hi ku nonoka, mi tshama mi langutane hi mahlo, tirhisani swivutiso xa ina kumbe e-e, nyikani swiletelo hi magoza, naswona mi nga sola kumbe ku lulamisa. |
+| Xo hetelela | Tshaneni hi le mahlweni naswona mi vula leswaku mi mani. Hlohlotelani ku kombetela ni swikombiso. Tirhisani ku khumba, mipfumawulo, swilo leswi voniwaka ni risema. Mi nga tshami mi vulavula onge a nga ri kona. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Munhu un’wana ni un’wana u hambanile, naswona munhu un’we a nga va ni masiku lamanene ni lama tikaka. Hlamulani eka ndlela leyi a nga hayona sweswi, ku nga ri eka vito ra xiyimo.
 
-## Can pictures and activities make conversation easier?
+## Xana swifaniso ni mintirho swi nga endla leswaku mbulavurisano wu olova?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ina. Xifaniso lexi mi xi langutanaka swin’we xi hunguta ntikelo naswona xi nyika n’wina havumbirhi nchumu wo wu languta ni ku wu kombetela.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Switshunxo swa swifaniso.** [Conversation Cards](/games/conversation-cards/) yi nyika swifaniso ni swivutiso swo pfuleka leswi swi nga kambisisiki.
+- **Swifaniso swa ndyangu.** [Photo Pairs](/games/photo-pairs/) yi hundzula swifaniso leswi mi swi hlawulaka ku va ntlangu wo fambelanisa wo olova, leswi hakanyingi swi pfuxaka mitsheketo.
+- **Swivulavulelo leswi tivekaka.** [Finish the Saying](/games/finish-the-saying/) yi tirhisa swivulavulelo leswi tivekaka swa le Amerika, ivi yi landzeriwa hi xitshunxo xa mbulavurisano.
+- **Mintlangu yo fambelanisa tanihi ndhawu yo burisana.** [Picture Pairs](/games/picture-pairs/) yi nyika mavoko ya n’wina xanchumu xo xi endla loko mi ri karhi mi vulavula.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Vonani [ndlela yo tlanga swin’we](/caregiving/how-to-play-together/) ni [mintirho ya ku tsundzuka swilo swa khale](/activities/reminiscence/) ku kuma swo tala. Eka ku endzela ni ku bela riqingho, hlayani swiletelo swa hina swa [ku endzela](/activities/visiting/) ni [tifoyini ni tiqingho ta vhidiyo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Loko munhu a tirhisa tindzimi to tlula yin’we, vonani [xiletelo xa hina xa mbulavurisano hi tindzimi to hambana](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Xana ndzi endla yini loko ndzi lahlekeriwa hi mbilu yo lehisa?
+
+Swi humelela eka un’wana ni un’wana. NIA yi ringanyeta leswaku loko mi karhateka, mi teka nkarhi wo rhula. Yani ekamareni rin’wana, hefemulani hi ku nonoka kambirhi kumbe kanharhu, kutani mi vuya loko mi kota. Mi nga tlhela mi sungula mbulavurisano, naswona swi nga endleka leswaku munhu a ta hlamula eka moya wa n’wina wo rhula. Loko ku karhateka ku va nchumu wa nkarhi hinkwawo, i xikombiso xa leswaku mi lava nseketelo wo tala, ku nga ri leswaku mi tsandzeka. Xiletelo xa hina xa [ku tihlayisa ka muhlayisi](/caregiving/caregiver-self-care/) xi na tindhawu leti mi nga lavaka mpfuno eka tona.

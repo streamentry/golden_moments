@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Kommunikasjonstips for samtalar med ein person med demens"
+seoTitle: "Kommunikasjonstips ved demens: Kva seie og unngå"
+description: "Praktiske råd for å snakke med ein person som lever med demens: korleis leggje til rette for ein samtale, kva seie i staden for å teste eller rette, og korleis lytte."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Snakk ein stad der det er stille, vend deg mot personen, bruk namnet deira og
+  snakk sakte i korte, enkle setningar. Still eitt spørsmål om gongen, tilby to
+  val i staden for opne spørsmål, og vent lenger enn det kjennest naturleg.
+  Ikkje krangl, rett eller test. Svar på kjensla bak orda, og bruk berøring,
+  bilete og gestar når det blir vanskelegare å snakke.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Demp bakgrunnsstøy og få augekontakt før de byrjar å snakke."
+  - "Bruk korte setningar, éin tanke om gongen, og namn i staden for han, ho eller dei."
+  - "Tilby eit val mellom to, eller eit ja- eller nei-spørsmål, i staden for opne spørsmål."
+  - "Vent på eit svar. Dersom personen ikkje blir forstått, gjenta dei same orda, og prøv så med nye."
+  - "Ikkje krangl eller rett. Svar på kjensla bak det personen seier."
+  - "Når orda blir færre, kan de kommunisere gjennom berøring, tonefall, ansiktsuttrykk og delte bilete."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Kva bør du ikkje seie til ein person med demens?"
+    a: "Unngå å teste («Hugsar du …?»), rette («Det er feil»), minne dei på tap («Eg har allereie sagt det») og å snakke om dei som om dei ikkje er til stades. Unngå barnespråk. Dette kan ofte føre til at personen blir flau eller lei seg, utan at det hjelper."
+  - q: "Bør eg rette dei når dei seier noko som ikkje stemmer?"
+    a: "Vanlegvis ikkje. Dersom ein feil ikkje gjer skade, kan du la han liggje. Å krangle endrar sjeldan meininga til personen, og gjer ofte at dei blir opprørte. Fokuser på korleis dei har det og kva dei treng akkurat no."
+  - q: "Kva gjer eg når dei ikkje finn ordet?"
+    a: "Gje dei tid først. Dersom dei tydeleg strevar, er det greitt å forsiktig foreslå eit ord eller gjette kva dei meiner og sjekke. Å peike, bruke gestar og bilete kan også hjelpe."
+  - q: "Korleis snakkar eg med ein person med demens i sein fase som sjeldan snakkar?"
+    a: "Nærm deg framforfrå, sei kven du er, og bruk ein roleg stemme og varsam berøring. Sjå etter kjensler i ansikt og kroppsspråk. Nærværet ditt, ein kjend song eller å halde hender kan seie mykje utan ord."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +39,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demens kan gjere det vanskelegare å finne ord, følgje ei lang setning eller blokkere ut bakgrunnsstøy. Det betyr ikkje at personen har slutta å ønskje kontakt. Små endringar i korleis du legg til rette for ein samtale, korleis du snakkar og korleis du lyttar, kan gjere det lettare og rolegare for dykk begge å snakke saman.
 
-## What are the most important tips for talking with someone who has dementia?
+## Kva er dei viktigaste tipsa for å snakke med ein person som har demens?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Få merksemda deira, hald det enkelt, og ver tolmodig. Dersom du berre hugsar fem ting:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Gjer rommet stille og vend deg mot dei.** Slå av TV-en, sit i auge høgd, og bruk namnet deira.
+2. **Sei éin ting om gongen.** Korte setningar, éin tanke, eitt spørsmål.
+3. **Tilby eit val mellom to.** «Te eller kaffi?» er lettare enn «Kva vil du ha?»
+4. **Vent.** Gje meir tid til å svare enn det som kjennest naturleg, og prøv å ikkje avbryte.
+5. **Ikkje krangl eller test.** Svar på korleis dei har det, ikkje på om fakta stemmer.
 
-## How should I start a conversation?
+## Korleis bør eg starte ein samtale?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Legg til rette slik at personen kan fokusere på deg. [Rettleiinga frå Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tilrår å avgrense støy først: slå av radioen eller TV-en, trekk for gardinene eller lukk døra, eller flytt til ein stad der det er rolegare.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Nærm deg framforfrå.** Å kome bakfrå eller frå sida kan skremme.
+- **Sei kven du er.** «Hei, pappa, det er Sarah, dottera di.» Dette sparer personen for å måtte leite etter namnet ditt.
+- **Kom ned i auge høgd.** Dersom personen sit, kan du setje deg eller knele slik at de er i same høgd.
+- **Ver merksam på ansikt og tonefall.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) rår til å vere merksam på tonefall, stemmestyrke, ansiktsuttrykk og kroppsspråk, og å prøve å vere varm og tydeleg.
+- **Sjekk at briller og høyreapparat er på plass.** Det er vanskeleg å følgje ein samtale ein ikkje kan sjå eller høyre skikkeleg.
 
-## How should I phrase what I say?
+## Korleis bør eg formulere det eg seier?
 
-Use simple words, short sentences and a calm, low voice.
+Bruk enkle ord, korte setningar og ei roleg, låg stemme.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Éin tanke per setning.** «La oss ta på jakka. Så går vi ut.» Ikkje begge deler i same åndedrag.
+- **Bruk namn, ikkje pronomen.** «Tante Jean ringde» er tydelegare enn «Ho ringde».
+- **Snakk lågare, ikkje høgare.** Family Caregiver Alliance føreslår ei lågare stemme i staden for ei høgare.
+- **Gjenta, så omformuler.** Dersom personen ikkje forstod, kan du gjenta dei same orda éin gong. Dersom det ikkje hjelper, vent litt og prøv med andre ord.
+- **Vis i tillegg til å fortelje.** Peik på koppen, hald opp dei to genserane, eller vis det første steget.
+- **Snakk til dei, ikkje om dei.** NIA åtvarar mot å snakke om personen som om dei ikkje er til stades, og mot «barnespråk».
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA føreslår enklare versjonar av vanlege spørsmål. Her er døme i same stil:
 
-| Instead of | Try |
+| I staden for | Prøv |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Kva vil du ha til middag?» | «Vil du ha fisk eller kylling?» |
+| «Korleis har du det?» | «Er du trøytt?» |
+| «Er du svolten?» | «Middagen er klar om fem minutt.» |
+| «Slik gjer du det ikkje.» | «La oss prøve det slik.» |
+| «Hugsar du turen vår til vatnet?» | «Eg tenkte på turen vår til vatnet. Fortel meg kva du likte med han.» |
+| «Eg har allereie sagt det.» | Svar igjen, vennleg, som om det var første gongen. |
 
-## How do I listen well?
+## Korleis lyttar eg godt?
 
-Listen for the meaning and the feeling, not just the words.
+Lytt etter meininga og kjensla, ikkje berre orda.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Vent.** Stille er ofte tid til å tenkje. Tel sakte til ti før du grip inn.
+- **Tilby eit ord berre dersom dei står fast.** Family Caregiver Alliance seier at det er greitt å foreslå ord når nokon strevar.
+- **Sjekk det du høyrde.** [Rettleiinga om kommunikasjon frå Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) føreslår å sjå etter meininga bak orda og gjenta ho for å sjekke at du forstod. «Er du uroa for bilen?»
+- **Sjå på ansikt og kropp.** Etter kvart som det blir vanskelegare å snakke, peikar NIA på at ansiktsuttrykk kan vise sorg, sinne eller frustrasjon tydelegare enn ord.
+- **Ta uro på alvor.** Sjølv om ei uro byggjer på noko som ikkje stemmer, er kjensla ekte.
 
-## What if they say something that is not true?
+## Kva om dei seier noko som ikkje er sant?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ikkje krangl. Du vil truleg ikkje vinne, og personen kan ende opp med å kjenne seg flau eller redd. Prøv i staden å møte kjensla, og lei deretter samtalen varsamt vidare.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance føreslår å anerkjenne kjensla før du leier samtalen vidare. Dersom mora di til dømes insisterer på at ho må hente barna på skulen:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- I staden for: «Mamma, barna dine er vaksne. Det var for førti år sidan.»
+- Prøv: «Du var alltid ei så omsorgsfull mor. Fortel meg om då du henta dei. Skal vi ta ein matbit først?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association rår også til å ikkje krangle om utsegner du er usamd i. Vel kampane dine: dersom ei feil tru ikkje gjer skade, kan du la ho liggje.
 
-## How does communication change as dementia progresses?
+## Korleis endrar kommunikasjonen seg etter kvart som demensen utviklar seg?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Behova endrar seg over tid, så tilpass måten du kommuniserer på. Alzheimer's Association skildrar tre overordna fasar:
 
-| Stage | What helps |
+| Fase | Kva som kan hjelpe |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Tidleg | Ikkje gå ut frå at personen ikkje kan kommunisere. Inkluder dei i samtalar, snakk direkte til dei, spør kva støtte dei ønskjer, og bruk humor dersom det hjelper. |
+| Mellomfase | Samtalar ein til ein på ein stille stad. Snakk sakte, hald augekontakt, bruk ja- og nei-spørsmål, gje instruksjonar steg for steg, og ikkje kritiser eller rett. |
+| Sein fase | Nærm deg framforfrå og sei kven du er. Oppmuntre til å peike og bruke gestar. Bruk berøring, lydar, synsinntrykk og lukt. Snakk aldri som om dei ikkje er til stades. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Alle menneske er ulike, og den same personen kan ha gode og vanskelege dagar. Svar på korleis dei har det akkurat no, ikkje på ein merkelapp.
 
-## Can pictures and activities make conversation easier?
+## Kan bilete og aktivitetar gjere samtalar lettare?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ja. Eit delt bilete tek bort noko av presset og gjev dykk begge noko å sjå på og peike på.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Bilete som samtalestartar.** [Conversation Cards](/games/conversation-cards/) har bilete med opne spørsmål som aldri testar.
+- **Familiebilete.** [Photo Pairs](/games/photo-pairs/) gjer bilete du vel ut om til eit roleg spel der ein finn par, og det kan ofte sette i gang forteljingar.
+- **Kjende uttrykk.** [Finish the Saying](/games/finish-the-saying/) bruker velkjende amerikanske uttrykk, etterfølgde av eit spørsmål som kan starte ein samtale.
+- **Parspel som bakteppe.** [Picture Pairs](/games/picture-pairs/) gjev hendene noko å gjere medan de pratar.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Sjå [korleis de kan spele saman](/caregiving/how-to-play-together/) og [aktivitetar med minner](/activities/reminiscence/) for meir. For besøk og samtalar kan du lese rettleiingane våre om [å besøkje](/activities/visiting/) og [samtalar på telefon og video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+For ein person som bruker fleire språk, sjå [rettleiinga vår om kommunikasjon på tvers av språk](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Kva om eg mistar tolmodet?
+
+Det hender alle. NIA føreslår at dersom du blir frustrert, kan du ta deg litt tid til å roe deg ned. Gå inn i eit anna rom, ta nokre rolege andedrag, og kom tilbake når du kan. Du kan alltid starte samtalen på nytt, og personen kan ofte reagere på at du er rolegare. Dersom frustrasjonen blir vedvarande, er det eit teikn på at du treng meir støtte, ikkje på at du sviktar. Rettleiinga vår om [eigenomsorg for personar som har omsorg for andre](/caregiving/caregiver-self-care/) har forslag til kvar du kan vende deg.

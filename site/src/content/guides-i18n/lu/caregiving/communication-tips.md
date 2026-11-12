@@ -1,33 +1,35 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Mibelu ya kuyukila ne muntu udi ne dimiisha dia lungenyi"
+seoTitle: "Mibelu ya diyukila bua dimiisha dia lungenyi"
+description: "Mishindu mipepele ya kuyukila ne muntu udi ne dimiisha dia lungenyi: mushindu wa kulongolola diyuki, tshia kuamba, ne mushindu wa kuteleja."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Yukilayi muaba udi kawuyi mutoyi, tangilayi muntu au ku mêsu, mbikilaayi
+  dîna diende, ne akulayi bitekete mu mêyi makese ne mapepele. Elayi lukonko
+  lumue musangu umue, peshaayi bua kusungula pankatshi pa bintu bibidi pamutu
+  pa nkonko mitoke, ne indilayi mutantshi mule kupita muudi wela meji. Kanuyi
+  kutandangana, kululamija anyi kukonka bua kuteta bu muvuaye muvuluke to.
+  Andamunayi ku mushindu udiye udiumvua panyima pa mêyi ende, ne enzaayi mudimu
+  ne dilenga, bimfuanyi ne bienzedi padi mêyi enda akolela.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Kepeshayi mutoyi ne tangilayi muntu au ku mêsu kumpala kua kubanga kuyukila."
+  - "Enzaayi mudimu ne mêyi makese, lungenyi lumue musangu umue, ne mêna pamutu pa yeye anyi bobu."
+  - "Peshaayi bua kusungula pankatshi pa bintu bibidi, anyi lukonko lua kuandamuna ne eyowa anyi tòo, pamutu pa nkonko mitoke."
+  - "Indilayi diandamuna. Bobu kabayi bumvue bimpe, ambululayi mêyi amue amue, pashishe tetaayi mêyi makuabu."
+  - "Kanuyi kutandangana anyi kululamija to. Andamunayi ku mushindu udiye udiumvua panyima pa bivuaye wamba."
+  - "Padi mêyi enda ajimina, yukilayi ku diambuluisha dia dilenga, dîyi, mpala ne bimfuanyi binudi nutangila pamue."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Ntshinyi tshiudi kuyi ne bua kuambila muntu udi ne dimiisha dia lungenyi?"
+    a: "Epuka kumukonka bua kuteta bu muvuaye muvuluke (« Udi uvuluka anyi...? »), kumululamija (« Abi mbibi »), kumuvuluija bintu bidiye mujimije (« Nkuambile kale ») ne kuyukila bua bualu buende bu ne yeye kêna pabuipi to. Epuka diyukila bu ne muana mutekete. Bionso ebi bidi mua kumufikisha ku bundu anyi kanyinganyinga kabiyi bimuambuluisha."
+  - q: "Ndi ne bua kumululamija padiye wamba bualu budi kabuyi bulelela anyi?"
+    a: "Misangu ya bungi tòo. Bikalabi ne bualu budiye mupingaje kabuyi buenzela muntu bibi, lekela kabuyile. Kutandangana kutu anu misangu mikese kushintulula meji a muntu, kadi kutu misangu ya bungi kumunyingalaja. Teka ntema ku mudiye udiumvua ne ku bidiye nabi dijinga mpindieu."
+  - q: "Nengenze tshinyi padiye kayi upeta dîyi?"
+    a: "Anji mumupesha dîba. Bikalaye utata bimueneka, mbimpe bua kumupesha dîyi bitekete anyi kukeba kumanya tshidiye musue kuamba ne kumuebeja bua kujadika. Kuleja ne munu, bienzedi ne bimfuanyi bidi kabidi mua kuambuluisha."
+  - q: "Mmushindu kayi undi mua kuyukila ne muntu udi mu tshitupa tshia ndekelu tshia dimiisha dia lungenyi udi kayi wakula bikole?"
+    a: "Semena kudiye kumpala, dimanyisha, ne enza mudimu ne dîyi dimpe ne dilenga dia bupole. Tangila mpala wende ne bienzedi bia mubidi wende bua kumanya mudiye udiumvua. Dikala diebe pabuipi nende, musambu udiye mumanye anyi kumukuata ku tshianza bidi mua kuamba malu a bungi nansha kakuyi mêyi."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dimiisha dia lungenyi didi mua kukolesha dipeta dia mêyi, diumvua dia tshiambilu tshile, anyi diepuka dia mutoyi udi pabuipi. Kadi bionso abi kabiena biumvuija ne muntu au mmuleke dijinga dia kusomba ne bakuabu to. Mashintuluka makese mu mushindu uudi ulongolola diyuki, muudi wakula ne muudi uteleja adi mua kupepeja diyukidilangana ne kudienza dia bupole kunudi nuenu bonso babidi.
 
-## What are the most important tips for talking with someone who has dementia?
+## Mmalu kayi a mushinga menemene a kuyukila ne muntu udi ne dimiisha dia lungenyi?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Koka ntema yende, wamba malu mu bupepele, ne ikala ne lutulu. Wewe muvuluke anu malu atanu aa:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Puwisha mutoyi mu nzubu ne mutangila ku mêsu.** Jima TV, shikama ku bunene buende bua mêsu, ne mbikila dîna diende.
+2. **Amba bualu bumue musangu umue.** Mêyi makese, lungenyi lumue, lukonko lumue.
+3. **Mupesha bua kusungula pankatshi pa bintu bibidi.** « Teyi anyi kafe? » bidi bipepele kupita « Udi musue tshinyi? »
+4. **Indila.** Mupesha dîba dia bungi bua kuandamuna kupita muudi wela meji, ne teta bua kumupinganyina mêyi mu njila to.
+5. **Kutandangana anyi kukonka bua kuteta bu muvuaye muvuluke to.** Andamuna ku mudiye udiumvua, kabiyi ku bulelela bua bualu to.
 
-## How should I start a conversation?
+## Ndi ne bua kubanga diyuki mushindu kayi?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Longolola malu bua muntu au ikale mua kuteka ntema yende kuudi. [Mukanda wa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) udi ufila lungenyi lua kubanga ne dikepesha dia mutoyi: jima radio anyi TV, punga malongu anyi tshiibi, anyi ya muaba udi kawuyi mutoyi.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Semena kudiye kumpala.** Kusemena panyima anyi ku luseke kudi mua kumukemesha.
+- **Dimanyisha.** « Moyo Tatu, ndi Sarah, muanebe wa bakaji. » Bidi bimuambuluisha bua kakebi dîna diebe.
+- **Shikama ku bunene buende bua mêsu.** yeye mushikame, shikama anyi tukamisha binu bua mêsu enu ikale ku bunene bumue.
+- **Tangila mpala webe ne dîyi diebe.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) udi ufila mubelu wa kuteya ntema ku dîyi diebe, bukole buadi, mpala webe ne bienzedi bia mubidi, ne kuikala ne mushindu wa diyukila wa bulenga ne wa bupole.
+- **Jadikila ne: ngilasa ya mêsu ne bia kumvua nabi bidi bimpe.** Mbikole bua kulonda diyuki diudi kuyi umona anyi umvua bimpe.
 
-## How should I phrase what I say?
+## Ndi ne bua kuamba mêyi anyi mushindu kayi?
 
-Use simple words, short sentences and a calm, low voice.
+Enza mudimu ne mêyi mapepele, mêyi makese ne dîyi dimpe dia panshi.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Lungenyi lumue mu tshiambilu tshionso.** « Tuasayi kazaku kebe. Pashishe netupatuke pambelu. » Kabiyi bionso mu diambuluisha dimue to.
+- **Enza mudimu ne mêna, kabiyi miaku ya pa muaba wa mêna to.** « Tatu Jean wakubikila » bidi bimueneka bimpe kupita « Yeye wakubikila ».
+- **Puekesha dîyi, kupitshishi bukole buadi to.** Family Caregiver Alliance udi ufila lungenyi lua kuenza mudimu ne dîyi dia panshi pamutu pa kudibandisha.
+- **Ambulula, pashishe shintulula mêyi.** Yeye kayi mumvue, ambulula mêyi amue amue musangu umue. Bikalabi kabiakuenze mudimu, indila katupa kakese pashishe teta mêyi makuabu.
+- **Leja kabidi, kuambi anu mêyi nkayawu to.** Leja dikopo, ambulula masweta abidi, anyi leja tshidia tshia kumpala.
+- **Yukila nende, kuyukidi bua bualu buende bu ne kêna pabuipi to.** NIA udi udimuija bua kuepuka diyukila bua muntu bu ne kêna pabuipi, ne kuepuka diyukila bu ne muana mutekete.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA udi ufila mishindu mipepele ya nkonko ya pa tshibidilu. Mona bimue bilejilu bidi mu lungenyi elu:
 
-| Instead of | Try |
+| Pamutu pa | Teta kuamba |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Udi musue kudia tshinyi dilolo edi? » | « Udi musue mushipa anyi nzolo? » |
+| « Udi udiumvua mushindu kayi? » | « Udi udiumvua mutshioke anyi? » |
+| « Udi ne nzala anyi? » | « Biakudia bia dilolo nebikale bimane mu minite itanu. » |
+| « Ki mmushindu wa kuenza nanku to. » | « Tutetayi mushindu eu. » |
+| « Udi uvuluka luendu luetu ku dijiba anyi? » | « Ndi mvuluka luendu luetu ku dijiba. Ngambilaku tshiuvua musue menemene. » |
+| « Nkuambile kale. » | Andamuna kabidi, ne bulenga, bu ne musangu wa kumpala. |
 
-## How do I listen well?
+## Ndi mua kuteleja bimpe mushindu kayi?
 
-Listen for the meaning and the feeling, not just the words.
+Teleja diumvuija ne mushindu udiye udiumvua, kabiyi anu mêyi nkayawu to.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Indila.** Ditalala ditu misangu ya bungi dîba dia kuela meji. Bala bupole too ne ku dikumi kumpala kua kubuela mu njila.
+- **Mupesha dîyi anu yeye mushale mu njila.** Family Caregiver Alliance udi wamba ne: mbimpe kufila dîyi padi muntu utata.
+- **Jadikila tshiudi mumvue.** [Mukanda wa Alzheimer's Association bua diyukidilangana](https://www.alz.org/help-support/caregiving/daily-care/communications) udi ufila lungenyi lua kukeba diumvuija didi panyima pa mêyi ende ne kuambulula bua kujadika ne: udi mumvue bimpe. « Udi ne kanyinganyinga bua mashinyi anyi? »
+- **Tangila mpala wende ne mubidi wende.** Padi diyukila dienda dikola, NIA udi uleja ne: mpala udi mua kuleja kanyinganyinga, tshiji anyi dibungama bimpe kupita mêyi.
+- **Angata malu adi amutonda ne mushinga.** Nansha kanyinganyinga kakafumine ku bualu bulelela, mushindu udiye udiumvua ngua bushuwa.
 
-## What if they say something that is not true?
+## Nengenze tshinyi yeye muambe bualu budi kabuyi bulelela?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Kutandangana to. Bidi bikole bua wewe kutshimuna, ne muntu au udi mua kudiumvua ne bundu anyi buôwa. Pamutu pa nanku, sukasuka ku mushindu udiye udiumvua, pashishe umukokeshe bupole mu lungenyi lukuabu.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance udi ufila lungenyi lua kuitaba mushindu udiye udiumvua kumpala kua kumukokesha mu bualu bukuabu. Tshilejilu, mamu webe yeye ushindamena ne udi ne bua kuya kuangata bana ku kalasa:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Pamutu pa: « Mamu, bana bebe mbakulakaje. Bivua bidimu makumi anayi bishale. »
+- Teta kuamba: « Uvua mamu wa dinanga bikole. Ngambilaku muvua uya kubangata. Tudie tshintu tshimpe kumpala anyi? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association udi kabidi ufila mubelu bua kubenga kutandangana pa mêyi audi kuyi witaba. Sungula bikondo biakane: bikalabi ne lungenyi ludi kaluyi luakane kadi kaluyi luenzela muntu bibi, lekela kabuyile.
 
-## How does communication change as dementia progresses?
+## Diyukidilangana didi dishintuluka mushindu kayi padi dimiisha dia lungenyi dienda diya kumpala?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Majinga adi ashintuluka ne dîba, nunku shintulula mushindu webe wa kuenza malu. Alzheimer's Association udi uleja bitupa bisatu binene:
 
-| Stage | What helps |
+| Tshitupa | Tshidi tshiambuluisha |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Tshia kumpala | Kuela meji ne kêna mua kuyukila to. Mubueje mu diyukidilangana, yukila nende buludiludi, muebeje diambuluisha didiye musue, ne enza mudimu ne tuseku bikalabi bimuambuluisha. |
+| Tshia munkatshi | Diyuki pankatshi pa bantu babidi muaba udi kawuyi mutoyi. Akula bitekete, lamata mêsu ku mêsu, enza mudimu ne nkonko ya kuandamuna ne eyowa anyi tòo, pesha mêyi matalame dia ku dia, ne kubedi anyi kululamiji to. |
+| Tshia ndekelu | Semena kudiye kumpala ne dimanyisha. Mukankamije bua kuleja ne munu ne kuenza bienzedi. Enza mudimu ne dilenga, miadi, bimona ne dipembu. Kuyukidi nansha musangu umue bu ne kêna pabuipi to. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Muntu yonso mmushilangane, ne muntu umue udi mua kuikala ne matuku mimpe ne makuabu makole. Andamuna ku mudiye mpindieu, kabiyi ku dîna dia tshitupa to.
 
-## Can pictures and activities make conversation easier?
+## Bimfuanyi ne midimu bidi mua kupepeja diyukidilangana anyi?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Eyowa. Tshimfuanyi tshinudi nutangila pamue tshidi tshikepesha bujitu ne tshinupesha nuenu bonso tshintu tshia kutangila ne kuleja.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Bimfuanyi bia kubanga diyuki.** [Conversation Cards](/games/conversation-cards/) idi ifila bimfuanyi ne nkonko mitoke idi kayiyi ikukonka bua kukuteta.
+- **Bimfuanyi bia dîku.** [Photo Pairs](/games/photo-pairs/) idi ishintulula bimfuanyi biudi musungule mu dinaya dimpe dia kufuanyikija, didi misangu ya bungi dibisha miyuki.
+- **Mêyi a kale a dimanya.** [Finish the Saying](/games/finish-the-saying/) udi wenza mudimu ne mêyi a dimanya adi bantu ba mu États-Unis bamanye bikole, alonda kudi lukonko lua kuyukila.
+- **Manaya a kufuanyikija bu tshiakudia tshia diyuki.** [Picture Pairs](/games/picture-pairs/) udi upesha bianza biebe tshia kuenza panuadi uyukila.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Mona [mushindu wa kunaya pamue](/caregiving/how-to-play-together/) ne [midimu ya kuvuluka malu a kale](/activities/reminiscence/) bua malu makuabu. Bua matuku a dikumbula ne mabikila, bala mikanda yetu ya [dikumbula](/activities/visiting/) ne [mabikila a ku telefone ne a ku video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Bua muntu udi wakula miakulu ya bungi, mona [mukanda wetu wa diyukidilangana mu miakulu mishilangane](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Nengenze tshinyi meme mujimije lutulu?
+
+Bidi bifikila muntu yonso. NIA udi ufila lungenyi ne: wewe mumvue tshiji, wangate dîba dia kupuwa. Ya mu nzubu mukuabu, eela mupuya bupole misangu mikese, ne pingana paukadi mupuwe. Udi mua kubanga diyuki kabidi, ne muntu au udi mua kuandamuna bimpe ku bupole buebe. Bikalabi ne tshiji tshidi tshilua misangu yonso, bidi bileja ne udi ne dijinga dia diambuluisha dia bungi, kabiyi ne udi uditshimuna to. Mukanda wetu wa [diditatshisha bua muntu udi utabalela bakuabu](/caregiving/caregiver-self-care/) udi ne miaba iudi mua kupeta diambuluisha.
