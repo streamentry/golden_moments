@@ -61,7 +61,7 @@ Benaderje dêr wêr't de persoan jo sjen kin en sprek mei in rêstige, fertroude
 
 - **As se rêstich liket,** gean dan troch mei in gewoan petear. Praat oer wat no bart, of freegje oft se mei jo sitte wolle.
 - **As se ûnwis liket,** biede dan in koarte rêstjefte: “Jo binne feilich. Ik bin hjir by jo.” Jou har tiid om te reagearjen.
-- **As se bang liket of jo freget om fuort te gean,** stap dan werom en jou har romte. Forsearje gjin knuffel, bin der net op dat se jo werkenne, en herhelje gjin ynformaasje dy't har lykje oerstjoer te meitsjen.
+- **As se bang liket of jo freget om fuort te gean,** stap dan werom en jou har romte. Forsearje gjin knuffel, dring net oan dat se jo werkenne, en herhelje gjin ynformaasje dy't har lykje oerstjoer te meitsjen.
 - **As se jo mei in oare namme oanroppet,** kinne jo josels ien kear foarstelle sûnder der in korreksje fan te meitsjen. As se noch altyd op har gemak is, gean dan troch nei in ûnderwerp of aktiviteit dat se leuk fynt.
 
 De [kommunikaasjegids](/caregiving/communication-tips/) rydt oan om koarte, rêstige taal te brûken en testfragen of diskusjes te mijen. Besykje net te freegjen: “Witte jo noch wa't ik bin?” Dy fraach kin as in test oanfiele en kin de persoan net helpe jo werkenne.
@@ -75,7 +75,7 @@ Soms kin in oanwizing de persoan helpe jo te plak, mar it wurket net foar elkeni
 - **Probearje in gewoane dielde aktiviteit.** In fertroud lied, drankje of taak kin it momint makliker meitsje. Folgje de reaksje fan de persoan; it is goed om it ûnderwerp te feroarjen of it besite ôf te meitsjen.
 - **Ferminder betizing om jo hinne.** Kontrolearje dat de keamer genôch ljocht hat en dat de persoan har bril of hearapparaten hat as se dy brûke. In rustiger plak kin helpe as in protte minsken tagelyk prate.
 
-Gean net troch mei it tafoegjen fan oanwizings as de persoan ûnrêstich bliuwt. In lang ferhaal of in rige foto's kin har oerweldigje. Der krekt wêze kin genôch wêze; it is ek goed om in pauze te nimmen en letter opnij te besykjen.
+Gean net troch mei it tafoegjen fan oanwizings as de persoan ûnrêstich bliuwt. In lang ferhaal of in rige foto's kin har oerweldigje. Krekt der wêze kin genôch wêze; it is ek goed om in pauze te nimmen en letter opnij te besykjen.
 
 ## Hoe kin ik besites makliker meitsje?
 

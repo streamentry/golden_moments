@@ -79,7 +79,7 @@ Soarch dat de persoan sjen en hearre sa noflik mooglik kin. Dementia Australia n
 
 ## Wannear moat ik medyske of bûtenste help freegje?
 
-Fertel de klinikus fan de persoan as fertocht nij is, faker foarkomt of benaud makket. Notearje wannear't it barde, wat der oan 'e hân wie en oft der wat feroare is yn sûnens, routine, omjouwing of medisyn. Begjin of stopje of feroarje gjin medisyn op basis fan in algemien artikel.
+Fertel de klinikus fan de persoan as fertocht nij is, faker foarkomt of benaud makket. Notearje wannear't it barde, wat der oan 'e hân wie en oft der wat feroare is yn sûnens, routine, omjouwing of medisyn. Begjin, stopje of feroarje gjin medisyn op basis fan in algemien artikel.
 
 Hommelse betizing of in abrupte feroaring fan gedrach of sûnens freget om direkte medyske help. De [NHS-rjochtline oer hommelse betizing](https://www.nhs.uk/symptoms/confusion/) seit dat jo direkt medyske help krije moatte. Brûk it lokale needgefal- of urgint-soarchsysteem dêr't de persoan wennet.
 
@@ -87,6 +87,6 @@ As in beskuldiging mooglik stellerij, ferwaarloazing of misbrûk belutsen is, so
 
 ## Hoe kin ik foar mysels soargje?
 
-Werhelle beskuldigingen kinne in relaasje belêste. Praat mei immen dy't jo fertrouwe of mei in begelieder, en freegje om help mei soarchtaken as jo oerweldige fiele. De [gids oer famyljeûnienigens oer demintessoarch](/caregiving/family-disagreements-about-dementia-care/) suggerearret manieren om ferantwurdlikheden te dielen, en de [gids oer selssoarch foar soarchjouwers](/caregiving/caregiver-self-care/) behannelt respyt en stipe.
+Werhelle beskuldigingen kinne in relaasje belêste. Praat mei immen dy't jo fertrouwe of mei in begelieder, en freegje om help mei soarchtaken as jo oerweldige fiele. De [gids oer famyljeûnienigens oer demintensoarch](/caregiving/family-disagreements-about-dementia-care/) suggerearret manieren om ferantwurdlikheden te dielen, en de [gids oer selssoarch foar soarchjouwers](/caregiving/caregiver-self-care/) behannelt respyt en stipe.
 
 Bliuw rjochte op wat kontrolearre wurde kin, hoe't de persoan har fielt en wat foar stipe nedich is. Jo hoege net yn elk petear jo soarch te bewizen. As in soarch werom bliuwt, freegje it soarchteam om help by it finen fan in oanpak dy't de persoan respektearret en elkenien beskermet.
