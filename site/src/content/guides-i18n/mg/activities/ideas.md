@@ -1,34 +1,35 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "Hetsika ho an’ny olona manana dementia: hevitra tsotra 101"
+seoTitle: "Hevitra hetsika dementia: hetsika tsotra 101"
+description: "Hetsika tsotra 101 ho an’ny olona lehibe manana dementia, avy amin’ny fanamafisana lamba ka hatramin’ny mozika sy sary, miaraka amin’ny fomba hanovana azy."
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  Hetsika tsara ho an’ny olona manana dementia dia mahazatra, ho olona lehibe
+  ary mora zarana: fanamafisana lamba, fandamina, fahandro, mozika, fijerena
+  sary, fandehanana an-tongotra, zaridaina, fotoana miaraka amin’ny biby fiompy
+  ary lalao tsotra. Safidio izay efa tian’ny olona nandritra ny androm-piainany,
+  raiso ny ampahany sarotra, ary ajanony rehefa reraka izy. Ny fotoana mafana
+  miaraka no zava-dehibe kokoa noho ny fahavitana zavatra.
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "Atombohy amin’ny fiainan’ny olona manokana: ny asany, hobby-ny, finoany ary mozika tiany no torolalana tsara indrindra."
+  - "Ataovy kely kokoa ny hetsika rehefa ilaina: dingana kevitra kevitra, safidy kevitra kevitra, ary ianao no mandray ny ampahany sarotra."
+  - "Ny fijerena, ny fitazonana zavatra na ny fipetrahana akaiky dia mety ho fandraisana anjara."
+  - "Ajanony na ovao rehefa mahita reraka, fahasosorana na fahakiviana. Ny fanapahana aloha dia valiny tsara."
+  - "Ny fanaovana miaraka dia zava-dehibe kokoa noho ny fanaovana marina."
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "Inona no hetsika tsara ho an’ny olona manana dementia?"
+    a: "Hetsika mahazatra izay efa natao nandritra ny taona maro, ataovy tsotra kokoa kely: fanamafisana lamba, fametrahana latabatra, fahandro, mozika, fijerena sary, fandehanana an-tongotra, zaridaina ary fotoana miaraka amin’ny biby fiompy. Safidio zavatra mety ho olona lehibe sy ilaina, ary ataovy miaraka."
+  - q: "Hafiriana no tokony hitohy hetsika?"
+    a: "Tsy misy halavan’ny marina. Minitra vitsivitsy amin’ny fanamafisana lamba dia ampy indray andro, ary iray ora any an-zaridaina mety ho mora amin’ny andro hafa. Avelao ny olona hifidy ny hafainganana ary ajanony raha mbola mahafinaritra."
+  - q: "Inona raha tsy mankasitraka hetsika ny olona?"
+    a: "Aza manery. Ny ‘tsia’ dia mety midika fa sarotra loatra ny asa, tsy mety ny fotoana, na reraka na tsy mahafinaritra izy. Andramo any aoriana, omeo version kely kokoa, na atombohy ny asa ianao akaiky ary angataho izy hanampy."
+  - q: "Tsara ve ny lalao fanofanana atidoha ho an’ny olona manana dementia?"
+    a: "Lalao dia afaka ho fomba mahafinaritra handanianana fotoana miaraka, fa tsy misy lalao naseho fa mitsabo, miadana na mampijanona ny dementia. Safidio lalao tsy misy minitra, isa na feo valiny diso, ary ataovy hetsika iraisana, fa tsy fitsapana."
+  - q: "Ahoana no fomba hitazomana ny hetsika tsy ho toy ny ankizy?"
+    a: "Ampiasao fitaovana marina sy an’olona lehibe: lamba marina, dika mitovy marina, mozika sy fitaovana sary an’olona lehibe, ary sary misy lohahevitra an’olona lehibe. Ampahafantaro ny asa ho fanampiana tena ilaina, ary miresaha amin’ny olona ho olona lehibe izy."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +51,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+Ny hetsika tsara indrindra ho an’ny olona manana dementia dia matetika izay efa fantany ny fomba hanaovana azy, ataovy tsotra kely ary atao miaraka amin’ny olona izay matoky azy. Eto ambany ny hevitra 101, voasokajy araka ny karazana, ary ny fomba hanaovana azy sy hanamorana azy rehefa sarotra. Tsy ilaina ny fitaovana manokana, ary tsy ilaina ny mahavita zavatra. Ny mari-potoana tsara dia mety ho fanaovana fanamafisana lamba iray sarivongana miaraka amin’ny kafe iray.
 
-## How do you choose the right activity?
+## Ahoana no fomba hifidianana ny hetsika mety?
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+Misafidiana araka ny olona, fa tsy araka ny lisitra: atombohy amin’izay efa tiany foana sy izay afaka mahazo aina amin’ny androany.
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **Eritreretina ny asany sy ny hobby-ny.** Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dia milaza fa ny mpiasa biraom-pitantanana taloha mety ho tia mandamina vola kely na manangona taratasy fandefasana, ary ny mpikarakara zaridaina mety ho tia asa an-tanimbary.
+- **Jereo izay efa ataony.** Raha manasa ny terasa isan-maraina ny rainao nefa tsy nangatahina, ampidiro izany amin’ny andro.
+- **Mikarakara ny fetra.** Ny reraka, ny fahitana, ny fandrenesana, ny tanana marary sy ny fifandanjana dia samy zava-dehibe.
+- **Jereo ny toetran’ny olona.** Ny hetsika be asa sy be feo dia mety amin’ny olona sasany, fa mampatahotra ny hafa.
+- **Omeo tanjona.** Ny fanamafisana lamba fanasana ho an’ny sakafo fiangonana dia mahasoa kokoa noho ny fanazarana ho an’ny tenany.
 
-### A rough guide by stage
+### Torolalana malemy araka ny sehatra
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+Matetika no lazaina ny dementia ho sehatra voalohany, antonony ary farany. Ireo dia marika malemy, tsy efitra mikitona, ary maro no manana andro tsara sy andro sarotra, ka jereo izay hitanao androany. Ny [lisitry ny Alzheimer’s Foundation of America araka ny sehatra](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) dia manaraka endrika mitovy.
 
-| Topic | Early stage | Middle stage | Late stage |
+| Lohahevitra | Sehatra voalohany | Sehatra antonony | Sehatra farany |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| Inona no mety hitanao | Ny ankamaroany mahaleo tena; ny fandrindrana, anarana vaovao sy toerana be dia sarotra kokoa | Mila fanampiana amin’ny fanombohana sy ny dingana; ny teny tsy mora mivoaka intsony | Mila fanampiana amin’ny ankamaroan’ny fikarakarana andavanandro; ny fahatsapana no lehibe indrindra |
+| Hetsika matetika mety | Karatra, lalao an-tabilao, sakafo, zaridaina, fanoratana gazety, fivoahana, vondrona | Fanamafisana lamba, fandamina, dingana tsotra amin’ny sakafo, hira, album sary, fandehanana an-tongotra miaraka amin’ny torolalana | Mozika tiana, fanosotra tanana, zavatra malemy hazonina, famakiana ho azy, fipetrahana any ivelany |
+| Ny anjaranao | Mpiara-miasa: anontanio izay fanohanana tiany | Mamorona, mampiseho, ary maka ny ampahany sarotra | Ento ny hetsika ho azy; ny fiaraha-monin’ny olona no hetsika |
+| Hevitra hafa | [Sehatra voalohany](/activities/early-stage/) | [Sehatra antonony](/activities/middle-stage/) | [Sehatra farany](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## Ahoana no fomba hanombohana hetsika miaraka amin’ny olona manana dementia?
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+Atombohy kely, atombohy miaraka aminy, ary ataovy mora ny manaiky. Olona maro mbola te handray anjara fa sarotra kokoa ho azy ny mandamina na manomboka.
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **Misafidiana ny fotoana tsaran’ny olona,** matetika ny maraina.
+2. **Apetraho aloha ny zavatra rehetra** mba ahafahanao manomboka avy hatrany.
+3. **Angataho fanampiana, fa tsy fampisehoana:** “Afaka manampy ahy amin’ireto ve ianao?”
+4. **Atombohy ianao.** Mamafisa lamba voalohany ary avelao izy hiditra. Ny fampisehoana dia mihoatra ny fanazavana.
+5. **Omeo dingana iray isaky ny fotoana.**
+6. **Raiso ny ampahany sarotra indrindra.** Ny Alzheimer’s Association dia manoro hevitra ny hanandrana ny akora ianao, avy eo omeo ny lovia hanetsika.
+7. **Avelao hatao amin’ny fomba azy.** Tsy olana ny lamba natao hafa fomba.
+8. **Ajanony rehefa tsy mahafinaritra intsony.** Ny fihetsiketsehana, ny fikorontanana hoditra na ny hoe “tsy afaka aho” dia famantarana hanovana na hitsahatra.
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+Jereo koa [ahoana no fomba hilalaovana miaraka](/caregiving/how-to-play-together/) sy [torolalana momba ny fifandraisana](/caregiving/communication-tips/).
 
-## Everyday tasks at home
+## Asa andavanandro ao an-trano
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+Ny asa an-trano dia mahazatra sy ilaina, ka toerana natural hanombohana izany. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia milaza ny fanasana vilia, ny fametrahana latabatra, ny fanafenana, ny fandamina taratasy ary ny fanamafisana lamba fanasana ho anisan’ny hetsika mety ho tian’ny olona. Hafa ao amin’ny [asa an-trano](/activities/household-tasks/).
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **Mamafisa lamba mafana.** Ario ny korintsaina avy amin’ny mpanamaina ho amin’ny latabatra ary mamafisa miaraka sisiny sisiny. Any aoriana, ny fanamafisana sy ny fametrahana an-tsokajy dia mahasoa mitovy.
+2. **Mampifandray sosa.** Atombohy amin’ny loko samy hafa be. Any aoriana, ny fandamina ny maivana sy ny maizina dia ampy.
+3. **Mametraka latabatra.** Omeo karazana zavatra iray isaky ny fotoana. Ataovy ianao ny toerana iray ho modely.
+4. **Manasa na mamainty lovia.** Rano mafana misy savony sy lovia tsy mety torotoro. Ny famainty amin’ny fipetrahana dia mora kokoa amin’ny tongotra.
+5. **Mamafa latabatra.** Omeo lamba mando aorian’ny sakafo. Asa marina izany ho an’ny tanana tsy mitsahatra.
+6. **Mandamina taratasy.** Katalaogy sy taratasy tsy ilaina ho amin’ny “hitazona” sy “hanala”. Aoka ho ala ny sheky marina.
+7. **Mikitika kupon.** Fikitihana misy tendrony boribory sy takelaka fividianana sakafo. Any aoriana, mety ihany ny manaporofo sakafo tiany.
+8. **Mandamina vola madio.** Mandamina vola kely ho amin’ny kapoka na mamonosy azy ho amin’ny fonosana. Esory ny zavatra kely raha mametra ny olona ho eo am-bavany.
+9. **Manafy na mamafa vovoka.** Balai maivana eo amin’ny terasa, na famafana vovoka lava-tampona izay ampiasaina avy amin’ny seza.
+10. **Manampy mamorona sakafo.** Manasa legioma, mandroaka laitiaka, mampifangaro. Ianao no mikarakara antsy sy hafanana.
+11. **Mamorona mofo fianakaviana.** Ampiasao ny karatra misy ny sora-tanany raha anananao. Any aoriana, mety ho mpandanja izy.
+12. **Manao asa biraom-pitantanana.** Mamandrika ittera, mametraka sy mamoaka taratasy amin’ny envelopa, na manoratra lisitra fividianana miaraka.
 
-## Music
+## Mozika
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+Ny mozika mahazatra dia mety ho tonga amin’ny olona na dia sarotra aza ny teny. Ny [torolalanan’ny Alzheimer’s Association momba ny mozika](https://www.alz.org/help-support/caregiving/daily-care/art-music) dia manoro hevitra ny hira mahazatra, tsy misy fampielezan-kevitra, ary ny TV tsy mihetsika. Jereo ny [hetsika mozika](/activities/music/).
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **Manamboatra lisitra mozika manokana.** Mozika avy amin’ny fahazazany sy fahatanorany, ny fanambadiany, ny fiangonany ary ny kolontsainy.
+14. **Mihira miaraka.** Atombohy ny mihira ianao. Ny fihira mangina na fihainoana dia mitovy.
+15. **Mitazona ny rithmy.** Mikapoka tanana, mamely tiokely na mikapoka tabaka. Mety rehefa mipetraka ary amin’ny sehatra farany.
+16. **Mihetsika am-pandihizana.** Mandihy miadana ao amin’ny lakozia, na mikoriana mipetraka raha mifampitana tanana.
+17. **Mampilalao album feno.** Rakitra tiana manomboka ka hatramin’ny farany, miaraka amin’ny kafe ary tsy misy hafa atao.
+18. **Miresaha momba ny mozika.** Asaivo tantara, fa tsy zavatra: “Lazao ahy momba ireo fandihizana nandeha tamin’izy.”
+19. **Mijery fampisehoana mozika na konsera voarakitra.** Fampisehoana tiany dia lasa alina tsara. Ajanony na oviana na oviana.
+20. **Milalao zavatra mozika mahazatra.** Mpilalao piano teo aloha dia mety ho faly amin’ny hira tsotra; any aoriana, feo vitsivitsy miaraka.
+21. **Mihaino mozika velona.** Konsera fiarahamonina fohy na fanazarana kôra. Mipetraha akaiky ny varavarana fivoahana.
 
-## Reminiscence: photos, objects and stories
+## Fahatsiarovana: sary, zavatra ary tantara
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+Mifalia ny lasa miaraka, fa aza andramana izany. Aza manontany hoe “Tsara ny tadidinao…?” na “Iza izy ity?”, fa asaivo fanasana malalaka. Jereo ny [hetsika fahatsiarovana](/activities/reminiscence/).
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **Mijery album sary.** Lazao izay hitanao: “Tena lamba tsara. Lazao ahy momba ilay andro.” Manaraka ny anarana izay ampiasain’ny olona.
+23. **Manao boaty fahatsiarovana.** Boaty kiraro misy zavatra avy amin’ny fiainany, toy ny takelaka asa na karatra sakafo. Esory ny zavatra iray isaky ny fotoana.
+24. **Manomboka boky tantaram-piainana.** Sary vitsivitsy isaky ny pejy miaraka amin’ny lohatenin-tsoratra lehibe. Manampy ny mpanampy vaovao hahafantatra ny olona.
+25. **Mampiasa karatra fifampiresahana.** [Karatra fifampiresahana](/games/conversation-cards/) dia mampifandray sary amin’ny fanontaniana malalaka.
+26. **Mamorona lalao sary fianakaviana.** [Fitambarana sary](/games/photo-pairs/) dia mampiova ny sarinao ho lalao fitambarana.
+27. **Mijery sarimihetsika an-trano na fahitalavitra taloha.** Miresaha miaraka rehefa mijery, fa tsy manontany.
+28. **Mikasika zavatra avy amin’ny fiainany niasana.** Fitaovana, stethoscope, bokikely. Matetika ny tanana no mitarika ny tantara.
+29. **Mahandro sakafo tamin’ny fahazazana.** Mety manetsika, mandrafitra na mipetraka fotsiny miaraka aminao any amin’ny lakozia.
+30. **Mijery sarintany amin’ireo toerana nipetrahany.** Mamaritra lalana mahazatra amin’ny atlasy lehibe rehefa miresaha ianao.
 
-## Creative activities
+## Hetsika famoronana
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+Ny kanto dia momba ny fanaovana, fa tsy ny zavatra vita farany. Tazomina ho an’olona lehibe sy azo antoka ny fitaovana. Jereo ny [asa-tanana sy fanamboarana](/activities/arts-and-crafts/).
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **Mandoko amin’ny loko rano.** Taratasy matevina, loko vitsivitsy. Raha sarotra ny manomboka, atoro miaraka ny fanaovana voalohany.
+32. **Mikoloro sary an’olona lehibe.** Voninkazo na tamba-kiraro, fa tsy katon-tantara. Ny [pejy hosodoko](/games/coloring/) dia azo ampiasaina amin’ny efijery na amin’ny taratasy nopetraka.
+33. **Manao collage.** Mihaza sary avy amin’ny gazety momba ny zaridaina, fiara na sakafo, ary mampifatotra azy. Any aoriana, ny fisafidianana sary ihany dia ampy.
+34. **Mametraka voninkazo.** Vondrona voninkazo avy amin’ny fivarotana sy vata iray. Any aoriana, tsanga vitsivitsy ao amin’ny tavoahangy.
+35. **Mihetsika fitaina na crochet miaraka.** Andalana tsotra amin’ny fanjaitra lehibe. Any aoriana, ny famindrana ny tari-kofehy ho bola.
+36. **Mamorona karatra ho an’ny fianakaviana.** Mametraka stampa, manao sonia na mamolavola karatra fankalazana andro fahaterahana na fanatsarana ho an’ny olona marina.
+37. **Mamolavola tanimbary maina amin’ny rivotra.** Mamolavola lovia kely. Ampiasao fitaovana tsy misy poizina ary mijanona akaiky.
+38. **Mamaranana sy mamita hazo.** Kitra vorona efa voaisa sy taratasy fanasana, tsy misy fitaovana herinaratra. Jereo ny [hetsika ho an’ny lehilahy](/activities/for-men/).
+39. **Manoratra na milaza ittera.** Ho an’ny zafikely na namana taloha. Raha sarotra ny manoratra, izy no miresaha ary ianao no manoratra.
 
-## Outdoors and gardening
+## Any ivelany sy zaridaina
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+Ny rivotra madio sy ny jiro andro dia namana tsara. Jereo ny [hetsika any ivelany sy zaridaina](/activities/outdoor-and-gardening/).
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **Manorana zavamaniry.** Kitapo kely sy vilia vitsivitsy. Ny fanorana isan’andro dia manome rithmy ny andro.
+41. **Mamboly vilia.** Apetraho amin’ny latabatra mba tsy hisy hipetraka amin’ny tany. Ny tanimboaloboaka dia mora kokoa noho ny voaloboka.
+42. **Mamafa ahitra na manala voninkazo maty.** Mitanana fitaovana fiarovana, fitoerana kely iray indray mandeha.
+43. **Manangona ravin-kazo.** Faritra kely iray. Any aoriana, ny fitazonana ny kitapo misokatra dia asa marina.
+44. **Mandeha amin’ny lalana mahazatra.** Manodidina ny tanàna na mankany amin’ny boaty taratasy. Fohy dia tsara.
+45. **Mipetraka any ivelany miaraka.** Seza eny amin’ny terasa amin’ny andro mafana. Jereo ny lanitra na ny olona mandalo.
+46. **Manome sakafo ny vorona.** Mameno vata vorona miaraka ary mijery avy amin’ny varavarankely.
+47. **Manasa fiara.** Vata, siponza, andro hariva mafana. Ny fanasana ny kodiarana dia asa iray dingana tsara.
 
-## Sensory activities
+## Hetsika fahatsapana
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+Ny fikasihana, ny fofona, ny tsiro, ny feo ary ny fijery dia manan-danja kokoa rehefa mandroso ny dementia. Ny [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dia milaza mozika, zavatra azo zaraina ary fanosotra tanana ho an’ny sehatra farany. Jereo aloha ny alerzia sy ny loza fitsimana; jereo ny [hetsika fahatsapana](/activities/sensory/).
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **Manome fanosotra tanana.** Anontanio aloha ary ampiasao crème kely. Safidio ny tsy misy lofina raha tsy azo antoka momba ny hoditra na alerzia.
+49. **Mandrehetra lamba.** Vata misy velours, corduroy, lanezy ary satin hikasihana sy hamafisana.
+50. **Mihintsy ravina sy kafe.** Mikosoka menta vaovao na rosemary eo anelanelan’ny rantsantanana. Esory ny lofina mafy raha misy olana fofonaina.
+51. **Mamehy volo.** Miadana sy malemy, raha tiany izany.
+52. **Mizara lamba mafana.** Ho an’ny tanana sy ny endrika amin’ny andro mangatsiaka. Andramo ny hafanana aloha.
+53. **Mikarakara lamba hanaovana hetsika.** Bokotra lehibe sy tadivava mifatotra mafy. Jereo fa tsy misy zavatra mety hilatsaka.
+54. **Mahatsapa sakafo tiana.** Ny sotro kely, amin’ny endrika azo antoka ho azy.
+55. **Mampilalao feon’ny natiora.** Orana, onja na feon’ny vorona amin’ny feo malemy.
+56. **Mijery zavatra miadana.** Vata misy hazandrano, horonan-tsary natiora na lanitra mamaivay.
 
-## Games and puzzles
+## Lalao sy puzzle
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+Mety ny lalao rehefa tsy misy minitra, isa na fanerena. Raha manomboka mahatonga toy ny fitsapana ny iray, esory izany. Jereo ny [fifidianana fampiharana sy lalao](/caregiving/choosing-apps-and-games/) ary ny [lalao atidoha](/brain-health/brain-games/).
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **Mitambara sary.** [Fitambarana sary](/games/picture-pairs/) dia mamela ny sary hiseho, ka ny fijerena no zava-dehibe, fa tsy ny fahatsiarovana.
+58. **Mitadiava sary mitovy.** [Mitadiava ny mitovy](/games/find-the-same/) dia manolotra safidy roa hatramin’ny efatra. Mifampiresaha momba ny sary tsirairay.
+59. **Mandamina ho amin’ny kapoka.** [Mandamina miaraka](/games/sort-together/) dia toy ny fandamina sosa amin’ny efijery.
+60. **Manao puzzle ampahany lehibe.** Sary an’olona lehibe, isa ampahany mora. [Puzzle sary](/games/picture-puzzle/) dia mitazona ny sary manontolo hita. Hafa ao amin’ny [puzzle ho an’ny dementia](/activities/puzzles/).
+61. **Milalao karatra taloha.** Izay nilalaony nandritra ny taona maro. Any aoriana, ny fandamina ny karatra araka ny loko dia lalao manokana.
+62. **Milalao domino.** Mifanaraka ny faran-tsoratra. Any aoriana, ny fametrahana tapa-kazo mirindra dia ampy.
+63. **Mitady teny amin’ny soratra lehibe.** Ny [fitadiavana teny](/games/word-search/) nataonay dia misy teny miverina ho eo amin’ny sakany sy ambany ihany, ary azo atao sary soratra.
+64. **Mamita ohabolana mahazatra.** [Mamita ny ohabolana](/games/finish-the-saying/) dia ahafahanao mampiseho ny faran’ny teny na yaiza na yaiza.
+65. **Milalao bingo sary.** [Bingo sary](/games/picture-bingo/) dia mety amin’ny fianakaviana sy vondrona. Afaka manamarika karatra malalaka ianao.
+66. **Milalao dama.** Tazomina malemy ny fitsipika. Ny fanetsehana ny vato raha miresaka ianao dia isa.
 
-## Movement
+## Fihetsehana
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+Ny NIA dia manoro hevitra ny dia an-tongotra, bisikileta mijanona, tadin-tsaina famelezana, famolavolana baolina malemy na baolina lanezy, fanakarana kaopy sakafo, ary horonan-tsary fanatanjahan-tena ho an’ny olona antitra. Alohan’ny hanombohana zavatra vaovao, jereo amin’ny dokotera, indrindra raha misy olana fifandanjana.
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **Mamolavola baolina lanezy.** Mipetraha mifanandrify. Miadana izy ka mora azo.
+68. **Manaraka horonan-tsary fanatanjahan-tena miseho** natao ho an’ny olona antitra, miara-mipetraka.
+69. **Mitanitanitra amin’ny tadin-tsaina.** Fitarihana tanana malemy amin’ny tadin-tsaina maivana rehefa mipetraka.
+70. **Manakara kaopy sakafo.** Fitsanganana tanana miadana, angamba miaraka amin’ny mozika.
+71. **Mitsangana bisikileta mijanona.** Minitra vitsivitsy malemy, ianao akaiky.
+72. **Mandihy amin’ny lamba lava.** Mikoriana lamba lava maivana amin’ny mozika, mipetraka na mijoro.
+73. **Mandeha ho amin’ny tanjona.** Hanaterana taratasy na hividy kafe. Ny antony handeha dia mahamora.
+74. **Mizara fisefoana miadana.** Miadana miaraka amin’ny [fisefoana mangina](/games/calm-breathing/).
 
-## Social activities
+## Hetsika ara-tsosialy
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+Ny fiaraha-monina dia zava-dehibe na dia sarotra aza ny anarana, ary mora kokoa ny vondrona kely noho ny lehibe. Ny NIA dia milaza fa mety tsy ho tadidin’ny olona ny vahiny iray, fa matetika mbola mahafinaritra azy ny fiaraha-monina. Jereo ny [fitsidihana](/activities/visiting/).
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **Manan-vahiny iray na roa isaky ny fotoana.** Fitsidihana fohy amin’ny efitra mangina, miaraka amin’ny sary hijerena.
+76. **Antso video amin’ny fianakaviana.** Antso fohy, feo iray isaky ny fotoana. Jereo ny [antso telefaona sy video](/activities/phone-and-video-calls/).
+77. **Mitsidika memory café.** Fivoriana malalaka ho an’ny olona manana dementia sy ny mpikarakara. Anontanio ny Area Agency on Aging eo an-toerana izay misy eo akaiky.
+78. **Mihinana any ivelany amin’ny fotoana mangina.** Ny NIA dia manoro hevitra trano fisakafoanana mahazatra sy mangina amin’ny fotoana tsy mahazatra, misy latabatra akaiky ny efitrano fampiasana.
+79. **Mitsidika toerana fiaraha-monina ho an’ny olona antitra na fandaharana andro.** Fiaraha-monina ho azy sy fitsaharana ho anao.
+80. **Mandany fotoana miaraka amin’ny ankizy.** Fitsidihana fohy sy mangina avy amin’ny zafikely, na famakiana boky sary ho an’ny zazakely.
+81. **Mizara gazety miaraka amin’ny kafe.** Mamaky lohateny mafy. Ny fomba no zava-dehibe kokoa noho ny vaovao.
+82. **Manampy olon-kafa.** Mandamina programa fiangonana na mamorona karatra ho an’ny mpifanolobo.
 
-## Faith and spiritual activities
+## Hetsika finoana sy ara-panahy
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+Manaraka ny fomban-drazan’ny olona, na tsy misy akory. Ny NIA dia manoro hevitra ny fanompoana mahazatra, famakiana, mozika masina, vavaka, fisainana ary fomba fankalazana.
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **Mandeha amin’ny fanompoana mahazatra.** Misafidiana iray mangina kokoa, mipetraha akaiky ny lalana, ary ampahafantaro ny olona eo an-toerana ny amin’ny dementia.
+84. **Mijery fanompoana an-tserasera** amin’ny andro tsy mahazo mivoaka.
+85. **Mivavaka na mamaky miaraka.** Teny mahazatra, vakiana miadana. Mety hanaraka izy amin’ny ampahany fantany.
+86. **Mihira hira fiderana na mozika masina** avy amin’ny fomban-drazany.
+87. **Mitazona fomba fankalazana mahazatra.** Kandela batterie, fitahiana, ireo fanamboarana izay nampiasainy foana.
+88. **Mizara fotoana mangina.** Mipetraka any amin’ny zaridaina na mijery ny masoandro milentika miaraka.
 
-## Pets and animals
+## Biby fiompy sy biby
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+Ny NIA dia manoro hevitra ny fanomezana sakafo, fikarakarana, fitondrana, na fipetrahana akaiky sy fitazonana biby fiompy.
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **Mamaka alika na saka mangina** amin’ny fanasana miadana sy lava.
+90. **Manome sakafo ny biby miaraka.** Ianao no mandrefy; izy no mandatsaka.
+91. **Mitondra alika miaraka.** Ianao no mihazona ny tady.
+92. **Mitazona biby fiompy eo amin’ny lohalika.** Saka mangina eo ambonin’ny lamba fandriana dia afaka mampionona be.
+93. **Mandray biby mitsidika.** Misy trano fikarakarana sy fandaharana andro mampiditra biby mitsidika. Anontanio eo an-toerana.
+94. **Manome biby malemy toy ny velona.** Raha tsy manana biby fiompy, mety tia mitazona saka na alika plush toy ny velona ny sasany. Omeo izany amin’ny fomba malemy, fa tsy ho lalao, ary ekeo ny “tsia”.
 
-## Seasonal activities
+## Hetsika andro sasany
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+Tazomina ny fomban-drazana, fa ataovy tsotra kokoa. Ny NIA dia manoro hevitra ny ho marina sy ny fisian’ny toerana mangina ho an’ny fitsaharana mandritra ny fety be asa.
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **Mamboly ho an’ny vanim-potoana.** Voatavo, tamba-kiraro na voninkazo vaovao eo ambonin’ny latabatra.
+96. **Mamorona sakafo fety.** Mamolavola mofo na manakanjo cookies. Ianao no miasa amin’ny lafaoro.
+97. **Mametraka hafanana.** Kapoka tsy mandrava, omena iray isaky ny fotoana.
+98. **Mitondra fiara hijery jiro.** Dia fiara fohy mandritra ny hariva, izay mangataka fiaraha-monina ihany.
+99. **Mamafy voanjo ny lohataona.** Tsindrio ny voanjo ao amin’ny vata amin’ny fararano ary jereo ny fitombon’ny ravina.
+100. **Mamoaka katsaka na mamoaka voaloboka.** Asa ambanivohitra amin’ny fahavaratra miaraka amin’ny vata ao amin’ny lohalika.
+101. **Manoratra karatra fety.** Manao sonia, mametraka stampa na manidy izy; ianao no mikarakara ny adiresy.
 
-## What if an activity is not working?
+## Inona raha tsy mandeha tsara ny hetsika?
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+Ajanony, ary andramo zavatra hafa any aoriana. Ny NIA dia manoro hevitra ny hijery ny fahatezerana ary avelao ny olona hijery fotsiny raha izany no tiany. Ny “tsia” matetika dia midika fa sarotra loatra ny asa, tsy mety ny fotoana, na misy zavatra hafa manahirana azy, toy ny fanaintainana, hanoanana na feo. Ataovy kely kokoa, andramo aloha amin’ny andro, na atombohy ianao ary jereo raha hiditra izy. Jereo ny [inona no ataoko rehefa manao “tsia” izy](/caregiving/when-they-say-no/) sy ny [fahatsorana andro-hariva](/caregiving/late-day-restlessness/).
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+Ho an’ny fametrahana hetsika eo anelanelan’ny sakafo sy ny fitsaharana, jereo ny [fandaharam-andro andavanandro malefaka](/activities/daily-routine/). Ho an’ny zavatra hanomanana aloha, jereo ny [hetsika azo atao amin’ny taratasy nopetraka](/activities/printable/), ary raha mitarika vondrona ianao, ny [hetsika vondrona ao amin’ny trano fikarakarana](/activities/care-home-groups/). Ny fitsaharanao manan-danja koa: jereo ny [fikarakarana tena ho an’ny mpikarakara](/caregiving/caregiver-self-care/).

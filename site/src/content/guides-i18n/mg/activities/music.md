@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Hetsika mozika ho an’ny olona manana dementia"
+seoTitle: "Hetsika mozika ho an’ny dementia: lisitra sy hevitra"
+description: "Fomba hizarana mozika amin’ny olona manana dementia: lisitra manokana, hetsika mozika 15 tsotra, ary toro-hevitra ho an’ny sehatra tsirairay."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Ny mozika dia iray amin’ny hetsika mora indrindra hizarana amin’ny olona manana
+  dementia. Manamboara lisitra manokana avy amin’ny mozika tamin’ny fahazazany,
+  finoany ary fianakaviany, ampilalao izany tsy misy dokam-barotra na feo
+  ambadika, ary mihira, mikapoka tanana, mihetsika na mihaino miaraka. Safidio
+  mozika malemy na mafy araka ny fotoana, tazomina malemy ny feo, ary ajanony
+  raha manahirana azy hira iray.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Ny mozika manokana no mahomby indrindra: ny karazana tiany tamin’ny fahatanorany, ary ny mozika avy amin’ny finoany, kolontsainy ary fety fianakaviana."
+  - "Milalaova zavatra iray isaky ny fotoana, tsy misy dokam-barotra ary ny TV dia afaharo."
+  - "Ny fihirana, ny fikapohana tanana, ny fihetsika ary ny fihainoana fotsiny dia samy fomba handraisana anjara."
+  - "Ampiasao mozika malemy hanamaivanana ary mozika mafy kely hampiakarana ny toetra, ary jereo ny valin’ny olona."
+  - "Ny fikarohana momba ny fivoriana mozika voafandrika dia voafetra; atolotray ny mozika ho zavatra mahafinaritra hizarana, fa tsy fitsaboana."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Karazana mozika inona no tsara indrindra ho an’ny olona manana dementia?"
+    a: "Mozika izay efa fantany sy tiany nandritra ny fotoana ela, matetika avy amin’ny fahazazany sy fahatanorany, ary koa ny mozika avy amin’ny finoany, kolontsainy ary fankalazana fianakaviana. Raha azo atao, avelao izy hifidy. Jereo ny endriky ny tavany sy ny vatany mba hahafantarana izay tiany, ary esory izay toa mampikorontana azy."
+  - q: "Tokony hampiasa headphone ve aho?"
+    a: "Olona sasany tia ny headphone satria manakana ny feo, fa ny hafa kosa mahita azy ho sarotra na mampisafotofoto. Andramo speaker voalohany mba ahafahanareo mihaino miaraka. Raha mampiasa headphone ianao, tazomina malemy ny feo ary mijanona akaiky."
+  - q: "Afaka manampy amin’ny fahatsorana na fikorontanana ve ny mozika?"
+    a: "Ny mozika malemy sy mahazatra dia afaka manampy hamoronana toe-tsaina mangina, ary ny Alzheimer’s Association dia manoro hevitra ny hampiasana mozika hanaovana ny toetra tianao. Tsy mandeha foana izany. Raha manahirana ny olona, jereo koa ny fanaintainana, hanoanana, feo na reraka."
+  - q: "Mbola afaka mahafinaritra ny mozika ve ny olona manana dementia amin’ny sehatra farany?"
+    a: "Maro no afaka. Ny Alzheimer’s Association dia milaza fa olona amin’ny sehatra farany mbola mety mikapoka ny rindrin-kaliana na mihira hira tamin’ny fahazazany. Mipetraha akaiky, ampilalao mozika malemy ary mihazona ny tanany na mihetsika miaraka."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Ny mozika dia iray amin’ny zavatra tsotra indrindra azonao zarainao amin’ny olona manana dementia. Tsy mila valiny marina izy, tsy mila dingana hotarafina. Hira mahazatra dia afaka mahatonga fitsiky, tongotra mikapoka, na teny vitsivitsy hihiraina miaraka, na dia amin’ny andro sarotra ho an’ny resaka aza. Ilaina ihany ny mozika mety ho an’io olona io sy fotoana mangina hampilalaovana azy.
 
-## What music activities work for people with dementia?
+## Inona no hetsika mozika mandeha amin’ny olona manana dementia?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Mihaino, mihira, mikapoka tanana, mihetsika ary miresaka momba ny mozika dia mandeha tsara ny rehetra. Ny [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) dia manoro hevitra ny hampilalao mozika, miresaka momba ny mozika sy ny mpihira, mihira na mandihy amin’ny hira fantatra, ary mandeha any amin’ny konsera na programa mozika ao amin’ny fiaraha-monina. Ny [Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) dia manampy fa ny hetsika toy ny fikapohana tanana na fandihizana dia mety hanampy amin’ny fahafinaretana, ary fa ny mozika dia afaka ho fomba hifandraisana rehefa sarotra ny teny.
 
-## How do you build a personal playlist?
+## Ahoana no fomba hanamboarana lisitra mozika manokana?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Ny zavatra manan-danja indrindra azo ataonao dia lisitra mozika izay manan-kahulugana ho an’ity olona ity. Ny [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) dia manasongadina koa ny mozika manana heviny manokana. Ito ny fomba tsotra hanamboarana iray.
 
-### Start with their life
+### Atombohy amin’ny fiainany
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Fahazazany sy fahatanorany.** Eritreritra izay tamin’ny radio, fety dihy ary sarimihetsika tamin’ny fotoana tanora izy.
+- **Fotoana lehibe.** Mozika tamin’ny fanambadiany, dihy voalohany, na album tiana tamin’ny dia an-tsehatra fianakaviana.
+- **Finoana sy kolontsaina.** Hira fiderana, gospel, mozika masina, na hira amin’ny teny voalohany.
+- **Asa sy fanompoana.** Orkesta mandeha an-tsehatra, hira asa, na mozika mifandray amin’ny vanim-potoana tamin’ny tafika.
+- **Izay tsaroan’ny fianakaviana.** Anontanio ny rahalahy, ny zanaka ary ny namana taloha izay nihira na nilalao foana.
 
-### Think in genres, not just songs
+### Eritrereto araka ny karazana, fa tsy hira tokana
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Raha tsy fantatrao hoe aiza no hanombohana, andramo minitra vitsivitsy avy amin’ireto karazana ireto ary jereo ny valin’ny olona: big band sy swing, doo-wop, Motown sy soul, rock and roll tany aloha, country sy western, bluegrass, gospel sy hira fiderana, hira an-tsehatra Broadway, jazz standards, mozika latina toy ny bolero na mariachi, polka, folk ary klasika. Tazomina izay mampitsiky na mampikapoka tongotra; esory izay mampahatezitra.
 
-### Make it easy to play
+### Ataovy mora ny milalao
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Tsy misy dokam-barotra.** Ny Alzheimer’s Association dia mampitandrina fa mety hiteraka fikorontanana ny fampielezan-kevitra. Ampiasao mozika natao download, CD, rakitra fitaovana, na serivisy tsy misy anonce.
+- **Fitaovana iray tsotra.** Speaker misy bokotra lehibe iray, na lisitra voatahiry ary vonona, mba ahafahan’ny olona rehetra manomboka azy.
+- **Lisitra fohy roa.** Lisitra malemy hanamafisana sy lisitra mafy hampiakarana ny toe-tsaina.
+- **Mariho azy.** Soraty ny anaran’ny olona sy “mozika tiana” eo amin’ny fitaovana mba hahafahan’ny fianakaviana mitsidika sy ny mpiasa fikarakarana mampiasa azy koa.
 
-## 15 music activities to try
+## Hetsika mozika 15 azo andramana
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Mihaino miaraka.** Mipetraha akaiky ary tsy misy hafa atao. Ny fihainoana dia hetsika feno ihany.
+2. **Mihira miaraka.** Atombohy ny mihira ianao. Ny fihira mangina na fanenjehana ny teny dia isa.
+3. **Mikapoka tanana na mamely ny rithmy.** Mikapoka tavy, mikapoka ny latabatra, na mampiasa tiokely kely na shaker.
+4. **Dihy miadana.** Mifampitana tanana ary mikoriana ao amin’ny lakozia, na mandihy mipetraka, mihetsika ny sandry miaraka.
+5. **Dihy amin’ny lamba lava.** Mikoriana lamba lava maivana araka ny mozika, mijoro na mipetraka.
+6. **Miresaha momba ny mozika.** Mamelatra, fa aza mizaha: “Toa lapa mandihy izany. Lazao ahy momba ny dihy.” Aza manontany mihitsy hoe “Tsara ve ny tadidinao ity hira ity?”
+7. **Mampilalao album feno.** Ampidiro rakitra tiany, manomboka ka hatramin’ny farany, miaraka amin’ny kafe.
+8. **Mijery sarin’ny album mozika.** Ny sarin’ny rakitra taloha dia tsara amin’ny resaka momba ny lamba, fiara ary endrika.
+9. **Mijery sarimihetsika mozika.** Sarimihetsika mozika na konsera voarakitra avy amin’ny vanim-potoany dia alina tsara. Ajanony ho an’ny fitsaharana.
+10. **Milalao zavatra mozika fantany.** Mpilalao piano na gitara teo aloha dia mety ho faly amin’ny filalaovana tsotra. Any aoriana, ny fanaovana feo vitsivitsy miaraka dia ampy.
+11. **Mozika mandritra ny asa.** Milalao hira tiana rehefa mamafisa lamba na mametraka ny latabatra.
+12. **Hira maraina.** Atombohy ny andro tsirairay amin’ny hira mahafaly mitovy ho ampahany amin’ny fomba andavanandro.
+13. **Mihira hira fiderana na mozika masina.** Ampilalao mozika avy amin’ny fomban-drazan’ny finoany ary mihira miaraka.
+14. **Miditra vondrona mihira.** Ny NHS dia milaza fa vondrona mihira dia tsara ho an’ny toe-tsaina sy ny fahasalamana. Anontanio eo an-toerana momba ny kôra mety ho an’ny dementia.
+15. **Mandeha any amin’ny mozika velona.** Konsera fiaraha-monina fohy na orkesta any ivelany. Mipetraha akaiky ny varavarana fivoahana ary mandehana rehefa tiana.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Raha tadiavinao hetsika malemy kokoa miaraka amin’ny teny mahazatra, andramo [mamita ny ohabolana](/games/finish-the-saying/), izay ahafahanao mampiseho ny faran’ny teny foana.
 
-## Matching music to the moment
+## Mifanaraka amin’ny mozika amin’ny fotoana
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Ny Alzheimer’s Association dia manoro hevitra ny hampiasana mozika hamoronana ny toe-tsaina tianao: mozika malemy ho an’ny toerana mangina, ary hira mafy avy amin’ny fahatanoran’ny olona hampiakarana ny fanahy.
 
-| Moment | Try | Tip |
+| Fotoana | Andramo | Toro-hevitra |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Mifoha | Hira mahazatra sy mahafaly | Hira mitovy isan’maraina dia lasa famporisihana malemy |
+| Asa an-trano | Tiana mafy | Ny mozika dia mahatonga ny asa ho toy ny fiaraha-monina |
+| Sakafo | Mozika instrumental malemy | Tazomina mangina mba tsy hifaninana amin’ny fihinanana |
+| Ariva tolakandro | Mozika malemy sy mahazatra amin’ny mazava tsara | Jereo ny [fahatsorana andro-hariva](/caregiving/late-day-restlessness/) |
+| Fotoana matory | Mozika miadana sy malemy | Ampidinao miaraka ny feo sy ny mazava |
+| Sehatra farany | Hira tiany indrindra, malemy be | Mipetraha akaiky ary mihazona tanana |
 
-## Tips for a good experience
+## Toro-hevitra ho an’ny traikefa tsara
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Esory ny feo hafa.** Ny Alzheimer’s Association dia manoro hevitra ny hakatonana ny varavarankely sy ny varavarana ary ny fanafoanana ny TV mba ho mozika ihany no feo.
+- **Tazomina malemy ny feo.** Mozika tokony ho mora ampiasaina, fa tsy mafy loatra. Raha mampiasa fanampiana fandrenesana ny olona, jereo fa ao sy miasa izy; jereo ny [fandrenesana](/brain-health/hearing/).
+- **Mariho ny fifandraisana malahelo.** Misy hira mampiseho alahelo, ady na fahaverezana. Raha manahirana azy hira iray, mampionona azy ary ovao izany.
+- **Avelao izy hitarika.** Raha azo atao, avelao ny olona hifidy ny mozika, ary ekeo ny “tsia”.
+- **Ajanony rehefa mahita izany.** Dimy minitra mozika dia hetsika tsara. Ary ny fanapahana ny mozika sy ny fipetrahana mangina miaraka koa tsara.
 
-## What does the research say about music and dementia?
+## Inona no lazain’ny fikarohana momba ny mozika sy ny dementia?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Voafetra ny porofo. Ny [famerenana Cochrane tamin’ny 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) dia nijery fikarohana 30 momba ny fivoriana mozika voafandrika, indrindra tamin’ny vondrona ao amin’ny trano fikarakarana. Hitany fa ireo fivoriana ireo angamba nanamaivana kely ny famantarana fahakiviana raha oharina amin’ny fikarakarana mahazatra, fa tsy nahita fiantraikany mazava amin’ny fikorontanana, ny fahasalamana ara-tsaina na ny fahatsiarovana, ary tsy nisy fiantraikany niaina taorian’ny fiafaran’ny fivoriana.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Hizarantsika ny mozika satria fomba mahafinaritra sy tsy misy fanerena hanandanianana fotoana miaraka, fa tsy ho fitsaboana. Ho an’ny toerana vondrona, jereo ny [hetsika vondrona ao amin’ny trano fikarakarana](/activities/care-home-groups/); ho an’ny fampiasana mozika miaraka amin’ny sary sy tantara, jereo ny [hetsika fahatsiarovana](/activities/reminiscence/).
