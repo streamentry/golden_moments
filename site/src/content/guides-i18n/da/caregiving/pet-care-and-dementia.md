@@ -77,4 +77,4 @@ Planen kan ændre sig over tid. Gennemgå den, når personens rutine, mobilitet 
 
 ## Hvad hvis et besøg eller en aktivitet med dyret ikke er behagelig?
 
-Lad personen og dyret bestemme tempoet. Tilbyd kun tid sammen, hvis begge virker trygge. Et kort besøg, at sidde i nærheden eller at kigge på et billede af dyret kan være nok. Stop, hvis personen bliver urolig, dyret forsøger at trække sig væk, eller dyret virker stresset. Sidens [aktivitetsidéer](/activities/ideas/) rummer flere andre kendte måder at være sammen på.
+Lad personen og dyret bestemme tempoet. Tilbyd kun tid sammen, hvis begge virker trygge. Et kort besøg, at sidde i nærheden eller at kigge på et billede af dyret kan være nok. Stop, hvis personen bliver urolig, dyret forsøger at trække sig væk, eller dyret virker stresset. Webstedets [aktivitetsidéer](/activities/ideas/) rummer flere andre kendte måder at være sammen på.

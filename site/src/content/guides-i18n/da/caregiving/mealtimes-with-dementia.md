@@ -44,7 +44,7 @@ Et måltid kan være svært at følge, når rummet er støjende, bordet er propp
 
 Hvis personen nyder selskab, så sid og spis sammen med dem. Hold samtalen enkel, og lad dem koncentrere sig om måltidet, når de har lyst. Undgå at rette, hvordan de bruger et redskab, eller stille spørgsmål, der gør måltidet til en prøve. Hvis bordet bliver støjende eller travlt, så reducér antallet af personer, eller flyt til et roligere sted.
 
-Når madlavning er blevet trættende, kan en kendt færdiglavet ret eller hjælp til en del af opgaven gøre måltidet lettere at styre. [Dementia Australia foreslår](https://www.dementia.org.au/living-dementia/home-life/eating-and-dementia) hjemmebragte eller færdiglavede måltider som muligheder, når der er behov for det. Spørg, hvilke retter personen kan lide, og hvilken hjælp de vil acceptere; bekvemmelighed bør stadig give plads til præference.
+Når madlavning er blevet trættende, kan en kendt færdiglavet ret eller hjælp til en del af opgaven gøre måltidet lettere at styre. Dementia Australia foreslår hjemmebragte eller færdiglavede måltider som muligheder, når der er behov for det. Spørg, hvilke retter personen kan lide, og hvilken hjælp de vil acceptere; bekvemmelighed bør stadig give plads til præference.
 
 ## Hvordan gør jeg bordet lettere at følge?
 

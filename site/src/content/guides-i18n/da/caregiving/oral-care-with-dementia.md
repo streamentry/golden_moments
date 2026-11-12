@@ -1,7 +1,7 @@
 ---
 title: "Mundpleje for en person med demens"
 seoTitle: "Tandpleje for en person med demens"
-description: "Hjælp en person med demens med at holde fast i en kendt mundplejerutine med enkle signaler, tilladelse og støtte fra tandlægen ved smerter, tandproteser eller nye problemer."
+description: "Hjælp en person med demens med en kendt mundplejerutine med enkle signaler, tilladelse og støtte fra tandlægen ved smerter, tandproteser eller nye problemer."
 section: caregiving
 order: 16
 updated: 2026-11-11
