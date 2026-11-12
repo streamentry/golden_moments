@@ -1,6 +1,6 @@
 ---
 title: "Nasihu Kan Yin Magana da Mutumin da Ke Rayuwa da Cutar Dementia"
-seoTitle: "Nasihu Kan Magana da Mai Cutar Dementia: Abin da Za a Fada da Abin da Za a Gujewa"
+seoTitle: "Nasihu Kan Magana da Mai Dementia: Abin da Za a Fada da Abin da Za a Gujewa"
 description: "Hanyoyi masu amfani na yin magana da mutumin da ke rayuwa da cutar dementia: yadda za a shirya tattaunawa, abin da za a ce maimakon tambayar da za ta sa ya tuna ko gyara shi, da yadda za a saurara."
 section: caregiving
 order: 2
