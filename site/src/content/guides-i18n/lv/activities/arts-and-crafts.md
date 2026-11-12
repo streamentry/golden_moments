@@ -88,7 +88,7 @@ Katrai idejai ir norādīts, kā to vienkāršot, ja tā kļūst grūta.
 
 ## Kā sagatavot mākslas nodarbību?
 
-1. **Sagatavojiet iepriekš.** Sagrieziet, apgrieziet un izklājiet visu, pirms uzaicināt cilvēku. Gaidīšana, kamēr meklējat šķēres, var nogalināt brīdi.
+1. **Sagatavojiet iepriekš.** Sagrieziet, apgrieziet un izklājiet visu, pirms uzaicināt cilvēku. Gaidīšana, kamēr meklējat šķēres, var izjaukt noskaņojumu.
 2. **Turiet to nelielu.** Divas vai trīs krāsas, viena ota, viena papīra lapa. Pārāk daudz izvēļu var pārslogot.
 3. **Pasargājiet galdu.** Plastmasas galdauts vai vecs palags nozīmē, ka netīrums nav problēma.
 4. **Sēdiet blakus.** Strādājiet ar savu darbu blakus viņa darbam. Tas izskatās kopīgs, nevis uzraudzīts.
