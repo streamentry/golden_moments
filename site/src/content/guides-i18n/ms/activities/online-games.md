@@ -1,7 +1,7 @@
 ---
 title: "Permainan Dalam Talian Percuma untuk Orang yang Menghidapi Demensia, Tanpa Muat Turun"
 seoTitle: "Permainan Dalam Talian Percuma untuk Demensia"
-description: "Permainan dalam talian percuma untuk orang dengan demensia yang dibuka dalam pelayar, tanpa aplikasi atau akaun: padanan gambar, menyusun, teka-teki dan jeda pernafasan."
+description: "Permainan dalam talian percuma untuk demensia yang dibuka dalam pelayar, tanpa aplikasi atau akaun: padanan gambar, menyusun, teka-teki dan jeda pernafasan."
 section: activities
 order: 22
 updated: 2026-11-08

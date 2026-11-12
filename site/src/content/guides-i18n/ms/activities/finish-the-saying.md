@@ -1,7 +1,7 @@
 ---
 title: "Permainan Lengkapkan Pepatah untuk Warga Emas yang Menghidapi Demensia"
 seoTitle: "Permainan Lengkapkan Pepatah untuk Warga Emas yang Demensia"
-description: "Permainan lengkapkan pepatah dan peribahasa untuk warga emas yang menghidapi demensia: cara bermain dengan pepatah biasa, beri pilihan, elak ujian dan jadikan jawapan tertinggal sebagai perbualan."
+description: "Permainan lengkapkan pepatah untuk warga emas yang menghidapi demensia: cara bermain dengan pepatah biasa, beri pilihan tanpa menguji dan jadikannya perbualan."
 section: activities
 order: 23
 updated: 2026-11-08
