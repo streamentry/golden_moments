@@ -1,13 +1,13 @@
 ---
 title: "Asɛmbisa Akyiri Akwan ne Asɛm Ka Adwuma ma Nnipa a Wɔwɔ Dementia"
-seoTitle: "Nsɛmmisa 20 ne Asɛm Ka Adwuma ma Dementia"
-description: "Nsɛmmisa 20 ne asɛm ka adwuma foforɔ ma nnipa a wɔwɔ dementia, a wɔasesa sɛ obi no ne nimdeɛ no ɔkyerɛ; ɛnni asɛnka, bere anaa nsɛmmisa."
+seoTitle: "Nsɛmmisa Aduonu ne Asɛm Ka Adwuma ma Dementia"
+description: "Nsɛmmisa Aduonu ne asɛm ka adwuma foforɔ ma nnipa a wɔwɔ dementia, a wɔasesa sɛ obi no ne nimdeɛ no ɔkyerɛ; ɛnni asɛnka, bere anaa nsɛmmisa."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Nsɛmmisa 20 betumi ayɛ adwuma a ɛyɛ mmerɛw ne nnipa biara ne ho, sɛ obi a ɔwɔ
+  Nsɛmmisa Aduonu betumi ayɛ adwuma a ɛyɛ mmerɛw ne nnipa biara ne ho, sɛ obi a ɔwɔ
   nea ɔbɛka no ne nea ɔnim mmuae no. Ɔbɛsusuw biribi, na wo ara wobisa nsɛmmisa a
   mmuae ne yes anaa no. Wɔnnwɛn obi. Asɛm ka adwuma foforɔ, te sɛ "Eyi anaa
   saa?" ne "Dɛn na wopaw?", nso yɛ saa: wɔfrɛ nkɔmhyɛ ne asɛm firi obi, na ɛnyɛ
@@ -20,9 +20,9 @@ keyPoints:
   - "Nsɛmmisa a ɛfa ɔpɛ, te sɛ 'Wopɛ sɛ...?' anaa 'Ɛhe na wopɛ sen biara?', nni mmuae a ɛyɛ nea ɛnteɛ."
   - "Gyae bere a obi no nni anigye bio. Akwan abien anaa mmiensa ase yɛ nea ɛfata."
 faq:
-  - q: "Nsɛmmisa 20 yɛ adwuma a ɛfata nnipa a wɔwɔ dementia?"
+  - q: "Nsɛmmisa Aduonu yɛ adwuma a ɛfata nnipa a wɔwɔ dementia?"
     a: "Ɛbetumi ayɛ saa, sɛ obi no ne nea ɔsusuw mmuae no ne sɛ obi biara nyɛ sɔhwɛ. Sɛ wɔde sɛ asɛmmisa ara, na ɔboafoɔ no bɛka nokwaredeɛ a obi no hia sɛ ɔkae, ɛbetumi ayɛ sɛ obi ahu sɛ wɔrehwɛ no. Ma mmara no nyɛ den, na ɛnyɛ ɔkwan a ɛma obi hyɛ ahuhuro."
-  - q: "Dɛn na obi a ɔwɔ nsɛmmisa 20 mu betumi asusuw?"
+  - q: "Dɛn na obi a ɔwɔ nsɛmmisa Aduonu mu betumi asusuw?"
     a: "Nneɛma a wonim na ɛyɛ mmerɛw nti ɛyɛ yiye: aduaba, aboa, nneɛma a wɔde yɛ adwuma, abɔ a wɔwɔ, adan biribi, anaa baabi a wonim yiye. Fa nsusuwii a ɛyɛ abstract, din a ɛfa nnipa, ne biribi a ɛbetumi ama ɛnwu hyɛ no ahodoɔ."
   - q: "Dɛn na ɛbɛyɛ sɛ obi no ntumi mmuae yes anaa no?"
     a: "Fa nsaa, nsa a ɛkɔ soro anaa fam sɛ wɔdi ha, anaa fa nsa ka picture card. Wobetumi nso aka nkɔmhyɛ wɔ nea ɛyɛ nea wɔteaseɛ, na ɛma wɔn mmuae ne nsɛnnennen, ɔseesei, anaa asɛm baako."
@@ -46,7 +46,7 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Nnipa pii pɛ adwuma a wobetumi ayɛ bom a ɛyɛ sɛ asɛm ka, na ɛnyɛ sɛ wɔbɔ ho mmɔden. Nsɛmmisa 20 ne nsɛmmisa a ɛte saa betumi ayɛ yiye, efisɛ mmara no yɛ mmerɛw na asɛm no betumi akɔ baabi biara. Ɛho nsɛnkyerɛnne ne sɛ wosesa nneyɛe a wɔde ayɛ bere nyinaa: obi no ne nea ɔbɛka mmuae, na wo ara wobisa. Saa kratafa yi kyerɛ sɛnea wobɛyɛ saa adwuma yi ni nnwen, ne asɛm ka adwuma bɛn na ɛfata nnipa a wɔwɔ dementia.
+Nnipa pii pɛ adwuma a wobetumi ayɛ bom a ɛyɛ sɛ asɛm ka, na ɛnyɛ sɛ wɔbɔ ho mmɔden. Nsɛmmisa Aduonu ne nsɛmmisa a ɛte saa betumi ayɛ yiye, efisɛ mmara no yɛ mmerɛw na asɛm no betumi akɔ baabi biara. Ɛho nsɛnkyerɛnne ne sɛ wosesa nneyɛe a wɔde ayɛ bere nyinaa: obi no ne nea ɔbɛka mmuae, na wo ara wobisa. Saa kratafa yi kyerɛ sɛnea wobɛyɛ saa adwuma yi ni nnwen, ne asɛm ka adwuma bɛn na ɛfata nnipa a wɔwɔ dementia.
 
 ## Adɛn nti na yɛsesa mmara a ɛyɛ nkutoo?
 
@@ -54,7 +54,7 @@ Sɛ yɛyɛ nsɛmmisa a ɛyɛ kɔkɔ, obi baako bisa na afoforo nim mmuae. Ɛma o
 
 [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ka kyerɛ ahwɛfoɔ sɛ wɔnfa nsɛm kɛse a ɛyɛ mmerɛw ne nsɛmmisa baako baako, na wɔnfa ɔkwan a ɛyɛ dodow a ɛsisi ne nea ɛyɛ mmerɛw. Saa nneyɛe yi fata nsɛmmisa a ɛyɛ adwuma ma no.
 
-## Sɛnea wobɛyɛ nsɛmmisa 20 a ɛyɛ mmerɛw
+## Sɛnea wobɛyɛ nsɛmmisa Aduonu a ɛyɛ mmerɛw
 
 1. **Paw asɛm bi** a ɛfiri obi nkwa mu, te sɛ aduane, afuom, mmoa anaa beaeɛ a ɛbɛn po.
 2. **Ma obi no nsusuw biribi,** ka no ase kɔkɔɔkɔɔ, anaa fa picture card kyerɛ wo, na ɛnsɛ sɛ wotie.
@@ -82,7 +82,7 @@ Sɛ obi no ntumi nni akwankyerɛ no, sesa no kɔ nea ɛyɛ mmerɛw: ka nneɛma k
 - **Eyi anaa saa.** Ma nneɛma abien na bisa nea ɔpɛ sen: tii anaa kɔfi, bepɔ anaa po, ntadeɛ tuntum anaa nea ɛyɛ bo. Mmuae biara nni mu a ɛteɛ.
 - **Dɛn na wopaw?** Bisa asɛm a ɛyɛ fɛ a ɛyɛ mmerɛw: "Wopɛ sɛ wo ho nyɛ fɛ bere a ɔyɛ prɛko anaa wodi aduan wɔ baabi?"
 - **Ka asɛm a ɛfa beaeɛ ho.** Ma obi no kyerɛ dan a ɔdɔ, kurow anaa baabi a ɔhwɛ, na ɔmmɔ wo nso mfonini no.
-- **Nsɛm a ɛfa nneɛma a wɔde yɛ adwuma ho.** Fa nneɛma a obi no nim dodo ka ho, na ɛma ɔka sɛnea wɔyɛɛ no.
+- **Ka nea wɔayɛ.** Ma obi no nkyerɛ nneɛma a ɔnim yiye, na ka [finish-the-saying](/activities/finish-the-saying/) ho asɛm wɔ ɔkwan a ɛyɛ mmerɛw.
 - **Asɛmmisa a ɛwɔ kaad so.** Nsɛmmisa a ɛwɔ [kaad ho](/games/conversation-cards/) ma asɛm nyinaa, na wobetumi adi ho asɛm wɔ ɔtabre so.
 
 Ma nsusuwii a ɛfa nkwa mu ne asɛm nkɔnwa ho ahodoɔ, hwɛ [nsɛmmisa a ɛfa nkaeɛ](/activities/reminiscence-questions/). Ma mmara a ɛyɛ anigye a wɔde nkwadaa yɛ, hwɛ [trivia a ɛyɛ mmerɛw ma akɛse a wɔwɔ dementia](/activities/trivia/), a ɛde mmuae a wɔpaw ne nneyɛe a wɔnnyɛ ho asɛnkyerɛnne.

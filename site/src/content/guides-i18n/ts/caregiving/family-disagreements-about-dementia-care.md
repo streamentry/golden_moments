@@ -55,7 +55,7 @@ Hi nkarhi wa nkhomiso, tsala leswi u swi vonaka ni leswi u swi ehleketaka. Xikom
 
 ## Xana hi ta vulavula yini enhlanganweni?
 
-Kumbe nkhomiso wu va wa mahanyelo. Nkhomiso wu nga pfuna ndyangu wu suka wu ri ni nyiko yo kumeka leyi tiyeke leswaku ku endleka swinyiko. Xikombiso xo kumeka:
+Nkomiso wu nga pfuna ndyangu ku tlhela wu endla swiboho leswi tiyeke. Xikombiso xo kumeka:
 
 | Xiyimo | Xivutiso xo vulavula |
 | --- | --- |
