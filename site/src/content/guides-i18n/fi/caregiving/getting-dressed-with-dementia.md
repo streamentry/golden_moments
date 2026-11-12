@@ -60,7 +60,7 @@ Valitkaa aika, jolloin on tilaa edetä hitaasti. Kiire voi tehdä tehtävästä 
 
 Asetelkaa vaatteet siihen järjestykseen, jossa ihminen haluaa pukea ne päälleen. Tarjotkaa yksi esine kerrallaan ja käyttäkää lyhyttä vihjettä, kuten ”Tässä on paitasi.” Laaja ohje, kuten ”Pue päällesi”, voi olla vaikeampi toteuttaa. Pitäkää tauko vaiheiden välissä, jotta ihmisellä on aikaa ymmärtää ja vastata.
 
-Antakaa ihmisen tehdä jokainen osa, johon hän pystyy ja jonka hän haluaa tehdä. Jos hän ei ole varma, mitä tulee seuraavaksi, tarjotkaa muistutus tai kysykää, olisiko apu tarpeen. Älkää vetäkää vaatteita hänen päälleen tai siirtäkö hänen kehoaan ilman suostumusta. Jos yksi vaihe turhauttaa, pysähtykää ja kysykää, mikä sen helpottaisi. Joskus riittää, että yrittää myöhemmin uudelleen.
+Antakaa ihmisen tehdä jokainen osa, johon hän pystyy ja jonka hän haluaa tehdä. Jos hän ei ole varma, mitä tulee seuraavaksi, tarjotkaa muistutus tai kysykää, olisiko apu tarpeen. Älkää vetäkää vaatteita hänen päälleen tai siirtäkää hänen kehoaan ilman suostumusta. Jos yksi vaihe turhauttaa, pysähtykää ja kysykää, mikä sen helpottaisi. Joskus riittää, että yrittää myöhemmin uudelleen.
 
 ## Miten suojaan yksityisyyttä ja arvokkuutta?
 

@@ -1,7 +1,7 @@
 ---
 title: "Choisir une aide à domicile pour une personne atteinte de démence"
 seoTitle: "Aide à domicile et démence : bien choisir"
-description: "Choisissez une aide à domicile en définissant les besoins, en interrogeant le prestataire sur son expérience et son remplacement, en associant la personne et en vérifiant les coûts et les conditions."
+description: "Choisissez une aide à domicile en définissant les besoins, en interrogeant le prestataire sur son expérience et son remplacement, et en associant la personne."
 section: caregiving
 order: 24
 updated: 2026-11-11

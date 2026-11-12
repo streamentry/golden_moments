@@ -65,7 +65,7 @@ Jos kokemus on vaaraton eikä ahdista, seuratkaa ihmisen johdatusta. Älkää te
 
 Jotkut ihmiset kokevat kokemuksen lohduttavana tai tuttuna. Jos ihminen on rauhallinen ja turvassa, ei ehkä tarvitse vaihtaa aihetta tai viedä häntä muualle. Kysykää, mitä hän haluaa. Älkää muuttako jokaista tällaista hetkeä lääketieteelliseksi keskusteluksi. Jos hän pelkää, vastatkaa tuohon tunteeseen, vaikka ette itse näkisi samaa.
 
-## Voiko huoneessa oleva asia olla sekoitettu ihmiseen taiääneen?
+## Voiko huoneessa oleva asia olla sekoitettu ihmiseen tai ääneen?
 
 Tarkistakaa ympäristö ihmisen kanssa, jos hän ottaa avun vastaan. [Alzheimer's Society erottaa harhat havainnon virheistä](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations), joissa todellinen esine tai kuvio nähdään väärin.
 

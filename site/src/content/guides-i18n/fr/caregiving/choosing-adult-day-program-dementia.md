@@ -1,7 +1,7 @@
 ---
 title: "Choisir un accueil de jour pour une personne atteinte de démence"
 seoTitle: "Accueil de jour et démence : que demander"
-description: "Comparez les accueils de jour pour la démence selon les activités, le personnel, l’accompagnement, le transport et le respect des souhaits de la personne. Renseignez-vous sur les tarifs et les règles de présence."
+description: "Comparez les accueils de jour selon les activités, le personnel, le transport et les tarifs, en tenant compte des souhaits de la personne."
 section: caregiving
 order: 27
 updated: 2026-11-11
