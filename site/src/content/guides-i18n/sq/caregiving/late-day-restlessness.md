@@ -53,7 +53,7 @@ shpesh quhet sundowning.
 
 Nuk ka një zgjidhje të vetme, por ndryshimet në ritmin e ditës, në dhomë dhe në llojin e aktiviteteve
 që ofroni mund t'i bëjnë pasditet vonë më të qeta. Kjo faqe mbledh ide praktike dhe jo mjekësore nga
-[Instituti Kombëtar për Plakjen](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
+Instituti Kombëtar për Plakjen
 dhe Shoqata e Alzheimerit. Nuk është këshillë mjekësore. Nëse simptomat janë të reja, të papritura ose
 po përkeqësohen, flisni me mjekun e personit.
 

@@ -28,7 +28,7 @@ faq:
   - q: "A janë këto lojëra një mënyrë për të testuar kujtesën?"
     a: "Jo. Lojërat tona janë aktivitete të thjeshta të përbashkëta për kënaqësi dhe bisedë. Nuk janë test kujtese, nuk matin asgjë, dhe nuk janë trajtim për demencën."
   - q: "Cila lojë është më e mira për të filluar?"
-    a: "Filloni me atë më të thjeshtën që i përshtatet personit. [Çiftet e figurave](/games/picture-pairs/) me katër pllaka dhe figura që mbeten të dukshme, ose Gjej të njëjtën me dy zgjedhje, janë pika të buta fillimi. [Kartelat e bisedës](/games/conversation-cards/) funksionojnë mirë nëse personit i pëlqen më shumë të flasë sesa të prekë."
+    a: "Filloni me atë më të thjeshtën që i përshtatet personit. Çiftet e figurave me katër pllaka dhe figura që mbeten të dukshme, ose Gjej të njëjtën me dy zgjedhje, janë pika të buta fillimi. Kartelat e bisedës funksionojnë mirë nëse personit i pëlqen më shumë të flasë sesa të prekë."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"

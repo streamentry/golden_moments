@@ -113,7 +113,7 @@ Tregojuni shënimin butësisht (\"Të shohim tabelën bashkë\"), në vend që t
 
 ## Përmendni ngjarjet afër kohës
 
-Përmendja e një takimi ose dalje ditë më parë mund të kthehet në orë pyetjesh të shqetësuara. [Aleanca e Kujdestarëve Familjarë](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+Përmendja e një takimi ose dalje ditë më parë mund të kthehet në orë pyetjesh të shqetësuara. Aleanca e Kujdestarëve Familjarë
 dhe Alzheimer's Los Angeles sugjerojnë që të flisni për planet, sidomos ato stresuese si vizitat te mjeku ose
 larja, vetëm pak përpara se të ndodhin. Pastaj thoni çfarë do të ndodhë më pas, një hap në një kohë.
 

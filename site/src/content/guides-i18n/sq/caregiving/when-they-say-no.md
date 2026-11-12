@@ -1,34 +1,33 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Kur dikush me demencë refuzon ose frustrohet me një aktivitet"
+seoTitle: "Kur dikush me demencë refuzon një aktivitet"
+description: "Pse një person që jeton me demencë mund të refuzojë ose të mërzitet me një aktivitet, çfarë të provoni në vend të tij, çfarë të shmangni, dhe kur një ndryshim i papritur kërkon mjek."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Kur dikush me demencë thotë jo, pranojeni qetë dhe provoni përsëri më vonë ose ofroni diçka tjetër.
+  Refuzimi shpesh ka një arsye: detyra duket shumë e vështirë ose fëminore, janë të lodhur, në dhimbje,
+  të uritur, ose të mbingarkuar nga zhurma. Mos u argumentoni dhe mos insistoni. Thjeshtësoni, ofroni dy
+  zgjedhje, ose kërkoni ndihmën e tyre. Sjellja e papritur ose që ndryshon shpejt, sidomos pas një infeksioni
+  ose një ilaçi të ri, kërkon mjek menjëherë.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "Një \"jo\" është një përgjigje që duhet respektuar, jo një problem për t'u kapërcyer."
+  - "Refuzimi zakonisht ka një shkak: shumë e vështirë, shumë fëminore, i lodhur, i sëmurë, i pakëndshëm, ose i mbingarkuar."
+  - "Tërhiquni, prisni dhe provoni më vonë, në një kohë tjetër, ose me një version më të thjeshtë."
+  - "Kërkimi i ndihmës së tyre funksionon më mirë sesa t'u kërkoni të performojnë."
+  - "Mos u argumentoni, mos insistoni, mos bëni pyetje dhe mos korrigjoni. Kontrolloni veten për nxitim ose shtyrje."
+  - "Sjellja e papritur ose që ndryshon shpejt, sidomos me infeksion ose ilaçe të reja, duhet të shkojë te mjeku menjëherë."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "A është në rregull t'i lë të kapërcejnë plotësisht aktivitetet?"
+    a: "Po, në çdo ditë të caktuar. Të uleni bashkë, të dëgjoni muzikë ose të shikoni jashtë mund të mjaftojë. Nëse dikush pushon së shijuari gjithçka për javë, përmendeni te mjeku i tij, sepse humori i ulët, dhimbja ose probleme të tjera shëndetësore mund të jenë pjesë e pamjes."
+  - q: "Përse refuzojnë gjëra që dikur i donin?"
+    a: "Një hobi e vjetër mund të bëhet e frustrueshme kur tani kërkon aftësi që demenca i ka bërë më të vështira, dhe personi mund të ndihet i turpëruar. Provoni një pjesë më të thjeshtë të të njëjtit aktivitet, si renditja e butonave në vend të qepjes, ose shikimi i figurave të kopshtit në vend të mbjelljes."
+  - q: "A duhet të përpiqem t'i bind?"
+    a: "Jo. Shtyrja e dikujt të bëjë diçka që demenca e ka bërë të vështirë është një shkaktar i njohur i agjitacionit. Pranojeni jo-në, ndryshoni temën, dhe ofrojeni përsëri më vonë ose në një mënyrë tjetër."
+  - q: "Kur është një ndryshim në sjellje emergjencë?"
+    a: "Telefononi numrin e emergjencave në vendin tuaj nëse dikush është në rrezik ose ka shenja të një emergjence mjekësore. Për konfuzion të papritur ose sjellje që ndryshon shpejt brenda orësh ose ditësh, sidomos me temperaturë, infeksion ose një ilaç të ri, kontaktoni menjëherë mjekun e tyre."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +49,109 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Ju përgatitni gjithçka, ofroni një lojë ose një shëtitje, dhe dëgjoni \"Jo.\" Ose aktiviteti fillon mirë
+dhe mbaron me një tablet të shtyrë larg dhe një fjalë të prerë. Është e dekurajueshme, dhe është shumë e
+zakonshme. Refuzimi dhe frustrimi zakonisht janë një mesazh, jo kokëfortësi. Kuptimi i asaj që thotë mesazhi
+shpesh ju tregon çfarë të provoni më pas.
 
-## Why does someone with dementia refuse activities?
+## Pse dikush me demencë refuzon aktivitetet?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Zakonisht ka një arsye, edhe nëse personi nuk mund ta shprehë me fjalë. [Shoqata e Alzheimerit](https://www.alz.org/help-support/caregiving/daily-care/activities)
+shënon se rezistenca mund të thotë që personi nuk mund ta bëjë detyrën ose ka frikë ta provojë. Shkaqet e zakonshme përfshijnë:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Duket shumë e vështirë.** Aktiviteti tani kërkon aftësi që demenca i ka bërë të vështira, dhe dështimi para dikujt është i turpshëm.
+- **Duket fëminor.** Të rriturit vërejnë figura karikaturale, zëra të tipit këngë dhe aktivitete që duken sikur janë bërë për fëmijë.
+- **Lodhje.** Shumë njerëz kanë më pak energji vonë gjatë ditës. Shihni [aktivitetet e qeta pasdite vonë](/caregiving/late-day-restlessness/).
+- **Pakëndshmëri fizike.** [Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)
+  liston dhimbjen, mungesën e gjumit, vështirësitë për të parë ose dëgjuar, kapsllëkun, urinë, etjen dhe efektet anësore të ilaçeve
+  të reja si shkaqe të mundshme të shqetësimit.
+- **Shumë gjëra njëkohësisht.** Një TV i zhurmshëm, disa biseda ose një dhomë plot njerëz mund të jenë të mbingarkueshme.
+- **Ndjenja se po shtyhen.** NIA e përmend si shkak agjitacioni të detyruarit për të bërë diçka që Alzheimeri e ka bërë shumë të vështirë,
+  ose për të kujtuar ngjarje ose njerëz.
+- **Humor i ulët.** Humbja e interesit për gjërat mund të jetë shenjë depresioni, që vlen të ngrihet te mjeku.
+- **Thjesht nuk duan.** Të rriturit kanë të drejtë të thonë jo.
 
-## What should I try when they say no?
+## Çfarë të provoni kur thonë jo?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Pranojeni jo-në qetë, pastaj ndryshoni diçka: kohën, aktivitetin, vështirësinë ose mënyrën si pyesni.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Lëreni për tani.** \"Nuk ka problem. Ndoshta më vonë.\" Pastaj kaloni diçka tjetër pa psherëtirë.
+2. **Provoni përsëri më vonë.** Shoqata e Alzheimerit sugjeron të provoni përsëri më vonë, ose në një kohë tjetër të ditës.
+3. **Bëjeni më të vogël.** Një çift në vend të një loje të tërë. Një peshqir në vend të shportës me rroba. Më pak figura, më pak zgjedhje, figura që mbeten të dukshme.
+4. **Ofroni dy mundësi.** \"Do të doni të shikoni figurat me zogj apo të dëgjoni pak muzikë?\" Një zgjedhje u kthen një ndjenjë kontrolli.
+5. **Kërkoni ndihmë në vend të performancës.** \"A mund të më ndihmoni t'i renditni këto?\" ose \"Më thoni cila ngjyrë duket më mirë?\" Të jesh i nevojshëm ndihet shumë ndryshe nga të testohesh.
+6. **Filloni vetë.** Nisni aktivitetin pranë tyre pa pyetur. Shumë njerëz bashkohen kur diçka tashmë po ndodh, dhe nëse nuk bashkohen, prapë keni kaluar kohë bashkë.
+7. **Kaloni në diçka fizike ose qetësuese.** Një shëtitje e shkurtër, muzikë, një ushqim i lehtë, palosja e rrobave, ose një pauzë e përbashkët [frymëmarrjeje të qetë](/games/calm-breathing/).
+   NIA sugjeron ridrejtimin e vëmendjes drejt muzikës, një libri ose një shëtitjeje.
+8. **Lëreni ta bëjë me mënyrën e vet.** Nëse duan të luajnë ndryshe nga rregullat, pranojeni. Shoqata e Alzheimerit këshillon fleksibilitet.
 
-## What should I say when they get frustrated?
+## Çfarë të them kur frustrohen?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Ngadalësoni, uleni zërin dhe qetësoni. [Udhëzimi i Shoqatës së Alzheimerit për agjitacionin](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)
+sugjeron të tërhiqeni dhe të kërkoni leje, të përdorni deklarata të qeta dhe pozitive, dhe të ofroni një zgjedhje të udhëzuar mes dy
+mundësish. Fraza në këtë frymë:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- \"Më vjen keq, ky është i mërzitshëm. Ndalojmë.\"
+- \"Po e bëni mirë. Unë jam këtu.\"
+- \"A keni kohë të më ndihmoni me diçka tjetër?\"
+- \"Të pimë një filxhan çaj në vend të kësaj?\"
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Pastaj mbylleni aktivitetin pa e bërë një çështje të madhe. Udhëzuesi ynë për [këshillat e komunikimit](/caregiving/communication-tips/)
+ka më shumë rreth asaj që duhet thënë.
 
-## What should I avoid?
+## Çfarë duhet të shmangni?
 
-Some natural reactions tend to make things worse.
+Disa reagime natyrore kanë tendencë t'i përkeqësojnë gjërat.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Argumentimi ose insistimi.** \"Hajde, vetëm një të fundit\" ose \"Ti e do këtë\" rrallë ndihmon.
+- **Pyetja ose korrigjimi.** \"Ti e di se çfarë është kjo\" ose \"Jo, ajo është e gabuar\" shton presion.
+- **Marrja personalisht.** NIA i kujton kujdestarët se sëmundja, jo personi, shkakton këto ndryshime.
+- **Ngushtimi ose nxitimi.** Shoqata e Alzheimerit këshillon të mos ngrini zërin, të mos tregoni alarm, të mos e ngushtoni, rrethoni, kufizoni,
+  kritikoni, injoroni ose argumentoni me personin, dhe të shmangni lëvizjet e papritura jashtë shikimit të tij.
+- **Përdorimi i fajit.** \"I kam organizuar gjithë këto për ty\" i lë të dy të ndjehen më keq.
+- **Etiketimi.** \"Kokëfortë\" ose \"i vështirë\" fsheh arsyen e vërtetë dhe e bën më të vështirë zgjidhjen.
 
-## How can I find out what is behind repeated refusals?
+## Si mund të zbuloj çfarë qëndron pas refuzimeve të përsëritura?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Mbani një shënim të thjeshtë për një ose dy javë. NIA thotë se ndjekja e ndryshimeve të sjelljes mund t'i ndihmojë kujdestarët dhe
+ofruesit shëndetësorë të njohin një model dhe të gjejnë shkakun.
 
-Jot down:
+Shkruani:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- orën e ditës;
+- çfarë keni ofruar dhe si e keni pyetur;
+- çfarë po ndodhte përreth (zhurmë, vizitorë, TV);
+- si kanë fjetur, ngrënë dhe pirë, dhe kur kanë përdorur banjën për herë të fundit;
+- çdo ilaç të ri ose sëmundje të fundit.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Modelet shpesh shfaqen shpejt: refuzime që ndodhin vetëm pas orës 4 pasdite, vetëm me një lojë të caktuar, ose vetëm kur TV
+është ndezur. [Udhëzuesi i Aleancës së Kujdestarëve Familjarë për sjelljet e demencës](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+e thotë thjesht: ne nuk mund ta ndryshojmë personin, por mund ta ndryshojmë sjelljen tonë dhe mjedisin.
 
-## When should I talk to a doctor about refusal or frustration?
+## Kur duhet të flisni me mjekun për refuzimin ose frustrimin?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Flisni me mjekun kur sjellja ndryshon papritur, shpejt, ose bashkë me shenja sëmundjeje. NIA thotë se ndryshimet e papritura ose që
+luhaten shpejt në sjellje, sidomos nëse personi ka pasur një infeksion ose ndryshime të fundit të ilaçeve, duhet t'i sillen menjëherë
+në vëmendjen e mjekut.
 
-Contact their doctor promptly if you notice:
+Kontaktoni mjekun e tyre menjëherë nëse vini re:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- konfuzion të papritur ose një ndryshim të madh brenda orësh ose ditësh;
+- shenja dhimbjeje, si grimasa, mbrojtja e një pjese të trupit, ose vështirësi të reja në lëvizje;
+- temperaturë ose shenja të tjera infeksioni;
+- ilaçe të reja ose të ndryshuara, e pas tyre një ndryshim në sjellje;
+- humbje interesi pothuajse për gjithçka, lot ose tërheqje që zgjat më shumë se dy javë;
+- refuzim i ushqimit ose i pijes.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Shoqata e Alzheimerit rekomandon një kontroll të plotë mjekësor për këdo me simptoma sjelljeje, sidomos kur ato shfaqen papritur.
+Aleanca e Kujdestarëve Familjarë gjithashtu këshillon të kontrolloni fillimisht me mjekun, sepse problemet e sjelljes mund të kenë një
+shkak mjekësor. Mos filloni, ndaloni ose ndryshoni asnjë ilaç pa biseduar me mjekun ose farmacistin.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Nëse dikush është në rrezik ose ka shenja të një emergjence mjekësore, telefononi numrin e emergjencave në vendin tuaj. NIA sugjeron t'i
+thoni operatorit se personi ka demencë. Për hapat e menjëhershëm të sigurisë kur zemërimi bëhet fizik, shihni [udhëzuesin tonë për zemërimin dhe agresionin në demencë](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## A është në rregull nëse nuk bëjmë asgjë fare?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Po. Disa ditë aktiviteti më i mirë është pa aktivitet: të uleni bashkë, të mbani duart, të dëgjoni një disk të preferuar, ose të shikoni
+zogjtë nga dritarja. Kjo nuk është dështim. Udhëzuesi ynë për [lojën bashkë](/caregiving/how-to-play-together/) shpjegon pse ndalimi herët,
+ose mos nisja fare, mund të jetë vendimi i duhur.
