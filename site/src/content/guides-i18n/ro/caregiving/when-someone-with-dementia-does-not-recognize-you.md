@@ -1,7 +1,7 @@
 ---
 title: "Când o persoană cu demență nu vă recunoaște"
 seoTitle: "Demență: ce să spuneți când nu vă recunoaște"
-description: "Dacă o persoană cu demență nu vă recunoaște, prezentați-vă calm, evitați testele de memorie, oferiți indicii familiare dacă sunt binevenite și cereți ajutor la schimbări bruște."
+description: "Dacă o persoană cu demență nu vă recunoaște, prezentați-vă calm, evitați testele, oferiți indicii familiare dacă sunt binevenite și cereți ajutor la schimbări bruște."
 section: caregiving
 order: 32
 updated: 2026-11-11

@@ -60,7 +60,7 @@ Opriți sarcina, faceți un pas înapoi și folosiți o propoziție scurtă și 
 
 ## Ce ar putea contribui la comportament?
 
-Pot exista mai mulți factori, iar un membru al familiei nu poate stabili cauza. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) enumeră printre posibilii factori disconfortul fizic, stresul din mediu și problemele de comunicare.
+Pot exista mai mulți factori, iar un membru al familiei nu poate stabili cauza. Alzheimer's Association enumeră printre posibilii factori disconfortul fizic, stresul din mediu și problemele de comunicare.
 
 Gândiți-vă la ce s-a întâmplat chiar înainte de schimbare:
 
@@ -86,7 +86,7 @@ Pentru idei legate de sarcini concrete, consultați ghidurile noastre despre [ba
 
 ## Ce pot face după ce situația s-a liniștit?
 
-Oferiți liniște și reveniți la o activitate familiară, cu puține cerințe, dacă persoana dorește asta. Nu certați, nu dați vina și nu pedepsiți. [Alzheimer's Society notează](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) că persoana poate fi încă tulburată după ce comportamentul a trecut, chiar dacă nu își amintește ce s-a întâmplat.
+Oferiți liniște și reveniți la o activitate familiară, cu puține cerințe, dacă persoana dorește asta. Nu certați, nu dați vina și nu pedepsiți. Alzheimer's Society notează că persoana poate fi încă tulburată după ce comportamentul a trecut, chiar dacă nu își amintește ce s-a întâmplat.
 
 Dacă doriți să înțelegeți un tipar, notați pe scurt și privat ce s-a întâmplat chiar înainte, ce ați observat, cât a durat și ce pare să fi ajutat. Păstrați notița factuală și împărtășiți-o echipei de îngrijire, atunci când este potrivit. Evitați înregistrarea persoanei sau împărtășirea unor detalii private fără permisiune.
 

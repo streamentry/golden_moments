@@ -75,7 +75,7 @@ Oferiți obiectelor pe care le pierd des un loc familiar. Un bol pentru chei, o 
 
 Schimbați câte un lucru pe rând. Mutarea obiectelor fără să explicați ce faceți poate face persoana mai nesigură în privința locului în care se află lucrurile. Dacă un obiect ieftin se pierde des, un rezervor poate ajuta în unele case, dar nu ar trebui să înlocuiască verificarea dacă cel original a fost luat sau pus greșit.
 
-Asigurați-vă că persoana vede și aude cât mai confortabil. [Dementia Australia notează](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) că problemele de vedere sau de auz, boala, efectele medicamentelor, o rutină schimbată sau un mediu copleșitor pot contribui la schimbări ale percepției. Întrebați persoana dacă locul pare prea zgomotos sau necunoscut și verificați dacă are ochelarii sau aparatele auditive, dacă le folosește.
+Asigurați-vă că persoana vede și aude cât mai confortabil. Dementia Australia notează că problemele de vedere sau de auz, boala, efectele medicamentelor, o rutină schimbată sau un mediu copleșitor pot contribui la schimbări ale percepției. Întrebați persoana dacă locul pare prea zgomotos sau necunoscut și verificați dacă are ochelarii sau aparatele auditive, dacă le folosește.
 
 ## Când ar trebui să cer ajutor medical sau din afară?
 
