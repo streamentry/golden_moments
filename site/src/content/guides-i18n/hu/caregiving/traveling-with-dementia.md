@@ -1,7 +1,7 @@
 ---
 title: "Utazás demenciával élő személlyel"
 seoTitle: "Utazás demenciával: gondozói útmutató"
-description: "Tervezzen utazást demenciával élő személlyel: válasszon kényelmes útvonalat, őrizze meg a megszokott rutint, készítse el a csomagot és legyen egyszerű tartalék terve."
+description: "Tervezzen utazást demenciával élő személlyel: kényelmes útvonal, megszokott rutin, alapvető csomagolnivalók és egyszerű tartalék terv."
 section: caregiving
 order: 11
 updated: 2026-11-11
