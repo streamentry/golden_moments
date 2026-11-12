@@ -1,7 +1,7 @@
 ---
 title: "Saat Orang dengan Demensia Tidak Mengenali Anda"
 seoTitle: "Demensia: Apa yang Dikatakan saat Tidak Dikenali"
-description: "Jika orang dengan demensia tidak mengenali Anda, perkenalkan diri dengan tenang, hindari tes ingatan, tawarkan isyarat akrab jika diterima, dan cari bantuan untuk perubahan mendadak."
+description: "Jika orang dengan demensia tidak mengenali Anda, perkenalkan diri dengan tenang, hindari tes ingatan, dan cari bantuan untuk perubahan mendadak."
 section: caregiving
 order: 32
 updated: 2026-11-11
