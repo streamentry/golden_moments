@@ -1520,17 +1520,17 @@
   "@todayGetHelp": {
     "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. Heading above when to call a doctor or helpline."
   },
-  "todayHelpDoctor": "Call their doctor the same day if this starts suddenly or gets much worse over hours or days. Do the same if there is a fever, pain or a new medicine. In an emergency, call 911.",
+  "todayHelpDoctor": "Call their doctor the same day if this starts suddenly or gets much worse over hours or days. Do the same if there is a fever, pain or a new medicine. In the U.S., call 911 for emergencies. Elsewhere, use your local emergency number.",
   "@todayHelpDoctor": {
-    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help, for most situations. '911' is the US emergency number: use the local emergency number or the words 'emergency services'."
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help for most situations. Label 911 as a U.S. emergency number and give readers elsewhere a local emergency-number alternative; do not infer location."
   },
-  "todayHelpVisit": "If you notice a sudden change during a visit, tell the staff or their doctor the same day. In an emergency, call 911.",
+  "todayHelpVisit": "If you notice a sudden change during a visit, tell the staff or their doctor the same day. In the U.S., call 911 for emergencies. Elsewhere, use your local emergency number.",
   "@todayHelpVisit": {
-    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help, for a visit. '911' is the US emergency number: use the local emergency number or the words 'emergency services'."
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help during a visit. Label 911 as a U.S. emergency number and give readers elsewhere a local emergency-number alternative; do not infer location."
   },
-  "todayHelpCrisis": "If you feel in crisis, call or text 988. In an emergency, call 911.",
+  "todayHelpCrisis": "If you feel in crisis, call or text 988 in the U.S. and its territories. Elsewhere, contact a local crisis line. In an emergency, call 911 in the U.S. or use a local emergency number elsewhere.",
   "@todayHelpCrisis": {
-    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help, for a worn-out caregiver. 988 is the US crisis line: use the local crisis line or 'a crisis line'. '911' is the US emergency number: use the local emergency number or the words 'emergency services'."
+    "description": "'What is hardest today?' page, for the family caregiver, not the person living with dementia. When to get help for a worn-out caregiver. 988 serves the U.S. and its territories; elsewhere use a local crisis line. Label 911 as U.S.-only and include a local emergency-number alternative. Do not infer location."
   },
   "todayActivityHeading": "One gentle activity",
   "@todayActivityHeading": {

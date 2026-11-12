@@ -128,7 +128,7 @@ Contact their doctor promptly if you notice:
 
 The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia. For immediate safety steps when anger becomes physical, see our [guide to anger and aggression in dementia](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
 ## Is it okay if we do nothing at all?
 

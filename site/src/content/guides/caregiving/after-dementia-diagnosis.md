@@ -33,6 +33,15 @@ sources:
   - title: "Planning ahead"
     publisher: "Dementia Australia"
     url: "https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead"
+  - title: "Advanced Care Planning"
+    publisher: "Alzheimer's Association"
+    url: "https://www.alz.org/professionals/health-systems-medical-professionals/management/advanced-care-planning"
+  - title: "Planning ahead as a person with dementia"
+    publisher: "Alzheimer's Society"
+    url: "https://www.alzheimers.org.uk/get-support/living-with-dementia/planning-ahead"
+  - title: "Caring for a Person With Alzheimer's Disease"
+    publisher: "National Institute on Aging"
+    url: "https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf"
   - title: "Sudden confusion (delirium)"
     publisher: "NHS"
     url: "https://www.nhs.uk/symptoms/confusion/"
@@ -66,6 +75,20 @@ Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has ideas for 
 A diagnosis alone does not tell you what a person can decide or how they want to take part. Ask the person directly. Give them time, explain the choice in plain language and ask what support would make the conversation easier. Some choices may be easier to discuss in a quiet setting or across more than one conversation.
 
 If the person wants to plan for future health care, finances or living arrangements, start with what matters to them and who they trust. The [Dementia Australia planning guide](https://www.dementia.org.au/living-dementia/what-next-after-your-diagnosis/planning-ahead) recommends discussing wishes with trusted people and relevant professionals. Legal documents and decision-making rules differ by location, so ask a qualified local professional before relying on a general guide. For everyday bill help and scam concerns, see our [guide to managing money with dementia](/caregiving/managing-money-with-dementia/).
+
+### What can we ask in a first conversation about future care?
+
+Ask if the person wants to talk now, then bring up one topic at a time. The [Alzheimer's Association recommends several small conversations, plain language and listening for the person's wishes, beliefs and values](https://www.alz.org/professionals/health-systems-medical-professionals/management/advanced-care-planning). The [Alzheimer's Society notes that people differ in how ready they feel to think ahead](https://www.alzheimers.org.uk/get-support/living-with-dementia/planning-ahead). It is fine to pause and return another day.
+
+If the person wants prompts, try one of these:
+
+- "What parts of your day would you most want to keep?"
+- "Who would you like included when we talk about future care?"
+- "What helps you feel comfortable and respected when you need help?"
+- "Is there anything you want your care team to know about what matters to you?"
+- "Would you like me to write down what you said, and who should see it?"
+
+Listen without asking for a decision right away. The [National Institute on Aging describes meaningful conversations about values and preferences as central to advance care planning](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf). If the person agrees, note their words, the date and who was there. Ask permission before sharing the note. These notes can guide later conversations, but they are not legal documents or medical orders.
 
 Do not make assumptions based only on the diagnosis or on one conversation. The person's preferences may change, and they can ask to pause or return to a topic later. Keep them involved in decisions that affect them as much as they want.
 

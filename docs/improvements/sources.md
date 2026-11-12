@@ -378,3 +378,58 @@ Application: the app disabled `Choose photos` at 24 of 24 copies. The count alon
 - CFPB search results for “Planning for diminished capacity and illness” and “Reporting elder financial abuse” led to pages that returned 404 when opened. They are not used; the guide relies on the opened CFPB, FTC and ACL pages above for its reporting boundaries.
 
 Application: the site mentioned finances in after-diagnosis and care-choice guidance, but had no practical page on consent-based bill help, what a trusted contact can do, possible exploitation signs or steps after a scam. The new English guide covers those topics without recommending account changes or interpreting local law.
+
+
+## Round 84: hallucinations and dementia (read 2026-11-11)
+
+- [Alzheimer's Society: Hallucinations and dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/hallucinations) — opened. It distinguishes hallucinations from misperceptions and misidentifications, describes sensory, environmental, illness and medication factors, and advises immediate help for experiences involving multiple senses plus medical attention for frightening, prolonged or frequent experiences or increased confusion.
+- [Alzheimer's Association: Hallucinations](https://www.alz.org/help-support/caregiving/stages-behaviors/hallucinations) — opened. It advises assessing distress and danger, reassuring without arguing, using gentle distraction if welcome and checking lighting, mirrors and background sounds.
+- [Dementia Australia: Hallucinations and delusions](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) — opened. It discusses sensory, illness, medicine and environment factors, with responses such as reassurance, checking glasses/hearing aids and keeping routines familiar.
+- [NHS: Sudden confusion (delirium)](https://www.nhs.uk/symptoms/confusion/) — opened. It says sudden confusion needs immediate medical help and advises staying with the person and speaking simply while help is arranged.
+- [NIA: Alzheimer's Caregiving: Coping With Hallucinations, Delusions, and Paranoia](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-coping-hallucinations?topics=33&types=BSC.Blog) — search result seen, but opening returned HTTP 405; not used.
+
+Application: the site has guidance on sundowning, suspicion, non-recognition and urgent confusion, but no page focused on what to do when someone sees or hears things others do not. The new page distinguishes a person's experience from a diagnosis, offers low-risk environmental checks and points sudden confusion and multi-sensory hallucinations to urgent care.
+
+## Round 85: anger and aggression in dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Aggression and Anger](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) — opened. It describes physical discomfort, environment and communication as possible contributors; recommends calm reassurance, attention to immediate triggers, fewer distractions, a medical check for sudden changes and safety support in emergencies.
+- [Alzheimer's Society: Preventing and managing aggressive behaviour in people with dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) — opened. It advises stepping back, giving space, avoiding restraint and sudden touch, stopping a task when possible, seeking help if physical violence occurs, and not blaming or punishing afterward.
+- [Alzheimer's Association: Anxiety and Agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) — opened. It advises asking permission, simplifying tasks, reducing stimulation, avoiding cornering, crowding or restraint, and seeking a medical review for sudden behavior changes.
+- [National Institute on Aging: Coping with agitation, aggression, and sundowning](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) — search result seen; opening returned HTTP 405; not used.
+
+Application: the site mentioned frustration, pain and aggression inside activity-refusal, communication, pain and late-day guidance, but had no focused response page. The new guide offers immediate safety steps, calm de-escalation, private observation notes and escalation boundaries without diagnosing intent or cause.
+
+## Round 86: long-distance dementia caregiving (read 2026-11-11)
+
+- [Alzheimer's Association: Long Distance Caregiving](https://www.alz.org/help-support/caregiving/care-options/long-distance-caregiving) — opened. It describes remote support tasks, local coordination, regular communication, permission for provider updates, visits and support for nearby caregivers. Its U.S. resources and stage-based examples were not transferred as universal rules.
+- [Alzheimer's Association: Early-Stage Alzheimer's & Dementia Caregiving](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) — opened. Its “Secondary care partners” section includes remote relatives and notes that distance limits direct observation; it recommends connecting with the chosen support network and asking the person how help feels.
+- [Family Caregiver Alliance: FAQ, How can I help with caregiving from far away?](https://www.caregiver.org/faq/how-can-i-help-with-caregiving-from-far-away/) — opened. It recommends identifying needs, researching services where the person lives, planning visits, considering respite and seeking support.
+- [National Institute on Aging: Long-distance caregiving](https://www.nia.nih.gov/health/long-distance-caregiving) — search result seen; opening returned HTTP 405; not used.
+
+Application: the site had separate guides for living alone, in-home support, emergency planning and family disagreements, but no practical page on remote care roles and coordination. The new guide keeps the person involved, asks readers to confirm provider permission requirements, and avoids specific legal or health determinations.
+
+## Round 87: future-care conversation prompts (read 2026-11-11)
+
+- [Alzheimer's Association: Advanced Care Planning](https://www.alz.org/professionals/health-systems-medical-professionals/management/advanced-care-planning) — opened. Its communication section recommends starting early, using several small conversations and plain language, and learning the person's wishes, beliefs and values. Its U.S.-specific legal examples and documentation claims were not transferred.
+- [Alzheimer's Society: Planning ahead as a person with dementia](https://www.alzheimers.org.uk/get-support/living-with-dementia/planning-ahead) — opened. It says there is no single right pace, some people prefer to think alone before sharing, and people may choose to discuss some or none of the planning topics. UK-specific legal forms and terms were not transferred.
+- [National Institute on Aging: Caring for a Person With Alzheimer's Disease](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) — opened, advance-care-planning chapter. It describes meaningful conversations about the person's values and preferences, with the person involved while they can participate. Its list of legal documents is not reproduced.
+- [National Institute on Aging: Planning After a Dementia Diagnosis](https://www.nia.nih.gov/health/legal-and-financial-planning-people-alzheimers) — search result seen; opening returned HTTP 405; not used.
+
+Application: the existing after-diagnosis page said to discuss future wishes and ask local professionals, but did not offer sample questions, a permission-to-pause cue or a simple way to record the person's words for follow-up. The new section adds these steps without making medical choices or naming a universal legal document.
+
+## Round 88: falls and dementia (read 2026-11-11)
+
+- [Alzheimer's Society: Why is a person with dementia more likely to have a fall, and what can you do to help?](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help) — opened. It advises emergency help for possible head, back, neck or hip injury, serious injury or inability to get up; urgent advice for pain, injury or feeling unwell; and contacting a GP after a fall even if no injury is obvious. Its 999/111 numbers are UK-specific and were generalized to local emergency and urgent services.
+- [NHS: Falls](https://www.nhs.uk/conditions/falls/) — opened; last reviewed 6 March 2025. It advises checking for pain or injury, keeping someone comfortable and warm, not trying to lift them yourself, and getting urgent help for specified injuries or inability to get up.
+- [NHS: Head injury and concussion](https://www.nhs.uk/conditions/head-injury-and-concussion/) — opened; last reviewed 29 May 2025. It lists emergency and urgent-care signs after a head injury. The guide directs readers to urgent services for head-injury concerns rather than reproducing a full clinical triage list.
+
+Application: home safety addressed fall prevention and bathing guidance mentioned falls during that task, but there was no general post-fall response page. The new guide covers immediate safety, urgent escalation, follow-up and factual notes without diagnosing injury or teaching a lifting technique.
+
+## Round 89: regional emergency wording in the mobile app (read 2026-11-11)
+
+- [National 911 Program: Calling 911](https://www.911.gov/calling-911/) — opened. It directs people to call 911 in an emergency and identifies the National 911 Program as a U.S. public-safety program.
+- [U.S. Department of State: Communicating While Abroad](https://travel.state.gov/en/international-travel/planning/guidance/communication-abroad.html) — opened; last updated 8 May 2026. It says emergency numbers differ by country and recommends learning the local equivalent of 911.
+- [988 Lifeline: Get Help](https://988lifeline.org/get-help/) — opened. It describes call, text and chat support across the United States and its territories.
+- Website Round 50 used the same regional boundary for /today/. Round 89 applies it to the separate mobile Today page. A scan of 67 app ARBs found literal 911/988 values for these three help strings only in English. The pt and zh parent ARBs omit these keys; resolveAppLocale routes Portuguese to the Brazilian or Portugal files and Chinese to the Hans or Hant files, which carry their own localized help text.
+
+Application: the app's English help text names 911 and 988 but did not say those resources are U.S.-specific, unlike the website. The app now keeps those numbers within scope and gives a local emergency/crisis alternative without detecting location.

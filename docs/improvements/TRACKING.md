@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 83 / 100 completed**
+**Progress: 89 / 100 completed**
 
 ---
 
@@ -63,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 84 | *Next in queue* | Pending |
-| 85–100 | Planned one by one | Pending |
+| 90 | *Next in queue* | Pending |
+| 91–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -559,6 +559,85 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Render inspection | Built route `/caregiving/managing-money-with-dementia/` contains the guide title and money-scam steps; built `/caregiving/` hub links to it. The existing after-diagnosis page links to the new guide. | Static output checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, banker, financial/legal professional, safeguarding professional, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
 
+
+## Round 84: responding when someone with dementia sees or hears things (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society distinguishes hallucinations from misperceptions, notes sensory, illness and medication factors, and advises immediate help for hallucinations involving multiple senses. Alzheimer's Association recommends calm reassurance, not arguing, and checking the environment. Dementia Australia suggests reassurance, sensory aids, familiar surroundings and recording patterns. NHS says sudden confusion needs immediate medical help. | Supports calm, non-diagnostic responses and a clear urgent-care boundary. No treatment or prevention claim. |
+| Existing coverage and gap | The sleep and late-day-restlessness guides mention evening light and sleep changes; the suspicion and non-recognition guides cover related experiences. None gives a focused response guide for seeing, hearing, smelling, tasting or feeling things others do not. | Added the site's 75th English caregiving guide and a link from the related suspicion guide. |
+| Change | Added calm example language, checks for shadows/reflections/sounds/sensory aids, optional redirection and neutral notes for a clinician. | Does not tell families to confirm or deny an experience, diagnose its cause or change medication. |
+| Safety boundary | New, repeated, prolonged or distressing experiences should be discussed with a clinician; sudden confusion or hallucinations involving multiple senses need immediate medical help. Immediate danger needs local emergency support. | General information only; no diagnosis. |
+| Implementation commit | `5149e2c57160eb8e4d946817243d21a86e20d8c0` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,518 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built route `/caregiving/hallucinations-with-dementia/` contains the guide title and response steps; built `/caregiving/` hub links to it; the related suspicion guide links to it. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim user or clinical validation. |
+
+## Round 85: respond safely when anger becomes aggression (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes physical discomfort, the environment and communication as possible contributors, recommends calm words and reduced distractions, and calls for a medical check when behavior changes suddenly. Alzheimer's Society advises stepping back, avoiding restraint and sudden touch, leaving if physical violence occurs, and not blaming or punishing afterward. | Supports immediate safety, person-centered response and medical follow-up without assuming intent or cause. |
+| Existing coverage and gap | The activity-refusal, communication, pain and late-day-restlessness guides mention frustration or aggression in context. None gives one place for immediate safety steps, what to do after an episode and when to seek help. | Added the site's 76th English caregiving guide and links from the refusal and late-day guides. |
+| Change | Added calm, brief steps; space and stopping a task; possible needs and triggers; private factual notes; and follow-up for sudden or worsening changes. | Does not diagnose the cause, recommend restraint or advise medicine changes. |
+| Safety boundary | Move people to safety and use local emergency services for immediate danger or injury. Contact a clinician about new, sudden or worsening aggression. | General information only; no diagnosis or personalized safety plan. |
+| Implementation commit | `7f5d727991e4ab0b669cdb7c64661daeec1b8dd9` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,519 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built route `/caregiving/when-anger-becomes-aggression-with-dementia/`, caregiving hub, refusal guide and late-day guide contain the new page and cross-links. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 86: coordinate dementia care from a distance (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes remote tasks such as appointments, local-service research, coordinating helpers, visits and respite; it says to ask the clinic what release it needs before sharing updates. Its early-stage guidance notes that remote helpers may not be able to assess needs directly and recommends connecting with the person's chosen support network. Family Caregiver Alliance recommends identifying needs, researching local services, planning visits and using support. | Supports person-led coordination and clear permission boundaries. No legal authority or health outcome is claimed. |
+| Existing coverage and gap | The living-alone guide covers agreed check-ins; in-home care and emergency planning cover specific services and crises; family disagreements covers task sharing. None provides a focused plan for remote helpers coordinating with local support across living arrangements. | Added the site's 77th English caregiving guide and cross-links from living-alone and family-disagreement guidance. |
+| Change | Added remote task examples, an agreed contact and backup plan, provider permission checks, visit planning and support for local caregivers. | Does not ask readers to monitor or inspect the person without consent. |
+| Safety boundary | Ask what the person wants shared; provider permission, legal authority and services vary by location. Sudden health changes need the person's local care team or urgent service. | General planning information; no legal or clinical determination. |
+| Implementation commit | `e769c37d2e3070d4accd2c2f6ac380a7653ddfe0` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,520 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built route `/caregiving/long-distance-caregiving-with-dementia/`, caregiving hub, living-alone guide and family-disagreements guide contain the new page and cross-links. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 87: start a future-care conversation after diagnosis (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association guidance recommends several small conversations, plain language and learning the person's wishes, beliefs and values. Alzheimer's Society says people differ in readiness and may reflect before sharing. NIA describes meaningful conversations about values and preferences as central to advance care planning. Jurisdiction-specific legal forms and medical orders were not transferred. | Supports person-led conversation prompts and a cautious boundary. No treatment recommendation. |
+| Existing coverage and gap | The after-diagnosis guide advised discussing future wishes and consulting local professionals, but had no sample questions or permission-based way to capture what the person wants others to know. | Added a short prompt list and note-taking guidance to the existing English guide; no new route or form. |
+| Change | Added one-question-at-a-time prompts, permission to pause, and optional notes in the person's own words for later discussion. | Notes are not legal documents or medical orders. |
+| Safety boundary | The person chooses whether and when to talk. Formal legal documents and clinical decisions require local professionals; this guide does not determine capacity or authority. | General conversation support only. |
+| Implementation commit | `bf86954008cf86f0fa3800ec5f03971e2858f601` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,520 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built `/caregiving/after-dementia-diagnosis/` includes the prompt section and links to the opened sources. | Static output checked; no live-browser run. |
+| Not verified | No recently diagnosed person, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 88: respond safely after a fall (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society advises emergency help for possible head, back, neck or hip injury, serious injury or inability to get up; urgent advice for pain, injury or feeling unwell; and GP follow-up after a fall even when no injury is obvious. NHS advises keeping a fallen person comfortable and warm and not lifting them yourself. Its falls and head-injury pages give urgent escalation signs. | Supports immediate safety, follow-up and a cautious boundary; local emergency numbers are not hard-coded. |
+| Existing coverage and gap | Home-safety discusses reducing fall hazards; bathing and in-home care mention falls in particular contexts. The site had no general page for what to do immediately after a fall and how to follow up. | Added the site's 78th English caregiving guide and linked it from home safety and bathing. |
+| Change | Added immediate response steps, escalation guidance, a reminder not to lift the person alone, questions for follow-up and brief observation notes. | Does not teach a transfer technique, diagnose injury or replace emergency instructions. |
+| Safety boundary | Use local emergency services for serious injury, possible head/back/neck/hip injury or inability to get up. Seek urgent advice for pain, injury or feeling unwell. | General information; follow dispatchers and local health professionals. |
+| Implementation commit | `79da749e0453eea1b6394015ffca2abc92ec6c4a` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,521 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built route `/caregiving/responding-after-a-fall-with-dementia/`, caregiving hub, home-safety guide and bathing guide contain the page and cross-links. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |
+
+## Round 89: label U.S. emergency and crisis numbers in mobile Today help (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | 911.gov gives 911 emergency instructions in the U.S.; the State Department says emergency numbers differ by country. The 988 Lifeline says its call, text and chat service covers the U.S. and its territories. | The English app copy should label those numbers and provide local alternatives; no location inference. |
+| Existing coverage and gap | Round 50 corrected the website Today page. The app's separate English Today help strings still said 911 and 988 without scope. A scan of 67 app ARBs found 911/988 in these help keys only in English; the pt and zh parent files omit the keys, while runtime locale resolution selects pt_BR or zh_Hans/zh_Hant. | App-only follow-up; translated ARB wording was not changed. |
+| Change | The English app now labels U.S. 911 and 988, gives local emergency/crisis alternatives elsewhere, and tests the wording in doctor, visit and caregiver-crisis situations. | No location detection, network call, permission or new dependency. |
+| Safety boundary | Emergency numbers and crisis services vary by location. The app does not infer location or claim that the U.S. numbers work elsewhere. | Static guidance only; local services must be confirmed by the user. |
+| Implementation commit | `921722f1a130564ad6fd3373230bafe9bcb88726` | Source state for the checks recorded below. |
+| Checks | `python3 scripts/check_arb.py lib/l10n/arb/app_en.arb` and `python3 -m unittest discover -s tests -p 'test_*.py'` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. A scan of 67 app ARBs found 911/988 only in English; pt/zh parent files omit these keys and resolve to regional variants. | Flutter/Dart unavailable locally, so gen-l10n, `dart format` and Flutter widget tests were not run. Hosted CI is pending. |
+| Render inspection | The copy and widget-test source were reviewed, but the Today screen was not rendered. | Flutter SDK unavailable; no device review. |
+| Not verified | Flutter/Dart were unavailable locally, so gen-l10n, Flutter widget tests, analyzer and formatter did not run. No caregiver, native-speaker, device or live review. | Hosted CI is pending; do not claim rendered or device verification. |
+
 ## Round 90: mobile visual audit (navigation, games, layout)
 
 Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, iPhone SE 375×667, iPad 1024×1366, and 200% text) and reviewed one by one. This is automated rendering, not a device, VoiceOver or caregiver check.
@@ -574,5 +653,5 @@ Screens were rendered with the shipped fonts in widget tests (iPhone 390×844, i
 | Full checks | See the PR for the final head: `dart format`, strict analyze, full `flutter test --coverage`, Python tests and the release metadata check. | Pass. |
 | Maintainer decisions (2026-11-11) | Look together: no "Picture 1 of 183" count for the included drawings; family photos keep "Picture N of M". Starter board: the maintainer asked the agent to decide; each pair now sits on a diagonal of the 2 × 2 board (side by side it looked already solved), with which picture is where still random. | Implemented. `photo_together_test.dart` and `gentle_board_test.dart` cover both; the Look together simulator journey was updated but not run (no simulator here). |
 | Text size (maintainer decision, 2026-11-11) | The maintainer asked not to follow every system text size. Renders at about 310% (the largest iPhone accessibility size) broke single words across lines on a phone ("Me/nu" on Home, "to/gether" on the finish heading); every screen was clean at 200% and in landscape. A fixed size was not chosen: it would take larger text from the older adults the app is for and fail Apple's Larger Text label. | `gmTextScaleBuilder` holds the phone's text size between 100% (the 16px floor) and 200% app-wide, dialogs and sheets included. `DESIGN.md` and `AGENTS.md` record the rule; `test/app/view/text_scale_test.dart` covers 85%, 100%, 150%, 200% and 310% and fails without the change. |
-| Rubric | `rubric.md` › Round 84: **9.87**, lowest 9.37 (localization). | Bar met. |
+| Rubric | `rubric.md` › Round 90: **9.87**, lowest 9.37 (localization). | Bar met. |
 | Not verified | No device, simulator, VoiceOver/TalkBack, caregiver or person-with-dementia check of these screens. | Open. |

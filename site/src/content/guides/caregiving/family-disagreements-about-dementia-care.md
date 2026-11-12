@@ -70,7 +70,7 @@ If an issue needs medical advice, write down the question and ask the care team.
 
 Fair does not always mean equal. The [Alzheimer's Association suggests making a task list that includes the time, money and effort involved](https://www.alz.org/help-support/caregiving/resolving-family-conflicts). Then ask what each person prefers and can realistically do.
 
-Some people may help with regular visits or personal care. Others may be better placed to handle appointment scheduling, transport, meal delivery, paperwork or a weekly check-in. A relative who lives far away can still coordinate calls, look up local services or arrange supplies, if the person agrees.
+Some people may help with regular visits or personal care. Others may be better placed to handle appointment scheduling, transport, meal delivery, paperwork or a weekly check-in. A relative who lives far away can still coordinate calls, look up local services or arrange supplies, if the person agrees. Our [long-distance caregiving guide](/caregiving/long-distance-caregiving-with-dementia/) gives a fuller plan for roles, updates and visits.
 
 Put agreed tasks in one shared calendar or written list. Include who is responsible, how often and who to contact if plans change. Review the list if someone's health, work schedule or caregiving capacity changes. The [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to ask other people to share support.
 

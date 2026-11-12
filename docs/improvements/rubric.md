@@ -291,6 +291,31 @@ The cap hint uses the existing body text role, surface-variant color and scrolla
 
 This round adds an English caregiver guide and one internal link. The site build and automated checks can validate its schema, route, text and links, but they do not prove that the financial guidance is understandable or suitable for people with dementia. No reader, caregiver, financial/legal professional or native-speaker review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
 
+
+## Round 84 score note (2026-11-11)
+
+This English content change adds no app or site behavior. Automated schema, build, checker and link checks can validate the route and wording, but they do not show whether the advice is clear or useful to people with dementia or family caregivers. No reader, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 85 score note (2026-11-11)
+
+This English guide adds no app or site behavior. The build and checker can validate the route, schema and links; they cannot establish that a real caregiver can use the advice safely in a crisis. No reader, caregiver, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 86 score note (2026-11-11)
+
+This English guide adds no app or site behavior. Automated checks can validate the page, route and links; they cannot show whether a remote caregiver or the person receiving support finds the plan useful. No reader, caregiver, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 87 score note (2026-11-11)
+
+This content change adds no app or site behavior. Automated checks validate the changed page and links, but cannot show whether these questions feel comfortable to a person newly diagnosed with dementia or help a family use their wishes well. No reader, caregiver, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 88 score note (2026-11-11)
+
+This English guide adds no app or site behavior. Automated checks validate the page and route, but cannot show whether a caregiver can apply the urgent-care guidance safely under stress. No reader, caregiver, clinician, native-speaker or live-browser review was done. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
+## Round 89 score note (2026-11-11)
+
+This is a copy-only safety clarification. Static ARB checks and widget tests can verify the regional labels, but they cannot confirm that every translation or emergency resource is appropriate for a caller's location. No local Flutter, caregiver, native-speaker or device review was completed. Keep the last measured repository-wide score at **9.62** and verification-health score at **7.5**; do not infer a new aggregate score.
+
 ## Round 90 score update (2026-11-11): mobile visual audit
 
 App dimensions were re-measured on this branch with Flutter 3.47.7: the full suite (counts in the PR), strict analysis (clean), `test/design_system_test.dart` and the 200% text tests pass. No `site/` file changed, so the website parts carry forward from Round 45 (1,855 tests, 12,491-page build, `check-site` 0 errors). No new user-facing strings were added.
