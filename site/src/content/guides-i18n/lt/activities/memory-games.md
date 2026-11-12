@@ -79,11 +79,11 @@ Pamatyti ir atpažinti tai, ką matote, yra kitokia ir paprastai lengvesnė užd
 
 ### Nuotraukų poros (atitikmenys su matomais paveikslėliais)
 
-Nuotraukų poros(/games/picture-pairs/) yra atitikmenų žaidimas su dideliais paveikslėliais ir 4–12 gabalėlių. Paveikslėliai gali likti matomi, todėl tai apie dvynių radimą, o ne apie tai, kur jie buvo. Pradėkite nuo keturių gabalėlių. Jei ankstyvoje stadijoje esančiam žmogui patinka šiek tiek didesnis iššūkis, galite pereiti į **Paslėptus paveikslėlius**, bet grįžkite prie matomų paveikslėlių tą akimirką, kai tai nustoja būti smagu.
+[Nuotraukų poros](/games/picture-pairs/) yra atitikmenų žaidimas su dideliais paveikslėliais ir 4–12 gabalėlių. Paveikslėliai gali likti matomi, todėl tai apie dvynių radimą, o ne apie tai, kur jie buvo. Pradėkite nuo keturių gabalėlių. Jei ankstyvoje stadijoje esančiam žmogui patinka šiek tiek didesnis iššūkis, galite pereiti į **Paslėptus paveikslėlius**, bet grįžkite prie matomų paveikslėlių tą akimirką, kai tai nustoja būti smagu.
 
 ### Rask tokį patį
 
-Rask tokį patį(/games/find-the-same/) rodo vieną paveikslėlį viršuje ir du–keturis pasirinkimus apačioje. Palieskite tą, kuris atitinka. Tai paprasčiausias atitikmenų žaidimas svetainėje, tinkantis žmonėms, kuriems pilnas tinklelis per daug painus, įskaitant daugelį vėlyvojoje stadijoje esančių žmonių, kai šalia yra kitas žmogus.
+[Rask tokį patį](/games/find-the-same/) rodo vieną paveikslėlį viršuje ir du–keturis pasirinkimus apačioje. Palieskite tą, kuris atitinka. Tai paprasčiausias atitikmenų žaidimas svetainėje, tinkantis žmonėms, kuriems pilnas tinklelis per daug painus, įskaitant daugelį vėlyvojoje stadijoje esančių žmonių, kai šalia yra kitas žmogus.
 
 ### Nuotraukų poros (šeimos nuotraukų atminties žaidimas)
 
@@ -123,4 +123,4 @@ Jei vyresnio amžiaus žmogui be atminties problemų patinka galvosūkius žaid�
 
 ## Kada reikėtų sustoti ar pakeisti žaidimą?
 
-Atodūsis, planšetės nustūmimas, sakymas „aš nebegaliu“ ar nerimastingas žvilgsnis – visi tai ženklai, kad reikia palengvinti ar sustoti. Pabandykite mažiau gabalėlių, atverskite paveikslėlius, perjunkite į Rask tokį patį(/games/find-the-same/) arba tiesiog pažiūrėkite paveikslėlius ir pakalbėkite. Jei jis visai nenori žaisti, tai taip pat gerai. Daugiau apie tempą ir padėjimą rasite mūsų gide apie [kaip žaisti kartu](/caregiving/how-to-play-together/).
+Atodūsis, planšetės nustūmimas, sakymas „aš nebegaliu“ ar nerimastingas žvilgsnis – visi tai ženklai, kad reikia palengvinti ar sustoti. Pabandykite mažiau gabalėlių, atverskite paveikslėlius, perjunkite į [Rask tokį patį](/games/find-the-same/) arba tiesiog pažiūrėkite paveikslėlius ir pakalbėkite. Jei jis visai nenori žaisti, tai taip pat gerai. Daugiau apie tempą ir padėjimą rasite mūsų gide apie [kaip žaisti kartu](/caregiving/how-to-play-together/).
