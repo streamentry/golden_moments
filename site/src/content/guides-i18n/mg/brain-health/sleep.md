@@ -87,9 +87,9 @@ Olona antitra dia mila eo ho eo ora 7 ka hatramin’ny 9 isan’alina, mitovy am
 - **Mitazona fandaharam-potoana mahazatra.** Mandry sy mifoha amin’ny fotoana mitovy isan’andro, na amin’ny faran’ny herinandro aza.
 - **Manorina fomba fanamaivanana alohan’ny matory.** Mamaky, mihaino mozika malemy na mandro rano mafana alohan’ny hatory.
 - **Ataovy mafana tsara ny efitra fandriana,** fa tsy be hafanana loatra na mangatsiaka loatra.
-- **Mifehezà ny kafeinina any aoriana andro.** Kafe, tea, soda ary sôkola dia mety mitazona anao miaina.
+- **Mifeheza ny kafeinina any aoriana andro.** Kafe, tea, soda ary sôkola dia mety mitazona anao miaina.
 - **Mialà amin’ny alikaola,** na kely aza ny habetsany, araka ny toro-hevitra NIA.
-- **Mialà amin’ny sakafo lehibe ao anatin’ny ora roa ka ka telo alohan’ny hatory,** ary amin’ny zava-pisotro lehibe aorian’ny andro.
+- **Mialà amin’ny sakafo lehibe ao anatin’ny ora roa ka hatramin’ny telo alohan’ny hatory,** ary amin’ny zava-pisotro lehibe aorian’ny andro.
 - **Manatanjaka matetika, fa aza ho ao anatin’ny ora 3 alohan’ny hatory.** Jereo ny [torolalana momba ny fanatanjahan-tena](/brain-health/exercise/).
 - **Tazomina ivelan’ny efitra fandriana ny efijery.** Ny NIA dia manoro hevitra ny tsy hijery TV na hampiasa ordinatera, finday na tablet ao.
 - **Mialà amin’ny torimaso any aoriana andro na ariva** raha azo atao.
@@ -126,6 +126,6 @@ Tsy manome toro-hevitra momba ny fanafody torimaso na fanampiny izahay. Ny NIA d
 
 ## Miresaha amin’ny dokotera
 
-Mijereña dokotera raha ianao na ny olona tianao dia reraka mandrakariva, manana olana amin’ny torimaso ny alina ankamaroany, mikoraka mafy, na misy fitsaharana amin’ny fofonaina alina. Raha mitohy ny olan’ny torimaso amin’ny dementia, ny [NIA manoro hevitra](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ny hitady toro-hevitra ara-pitsaboana. Fanamarinana iray dia afaka mahita antony toy ny fanaintainana, olana torimaso hafa, aretina na vokatry ny fanafody. Ny fikorontanana tampoka, na fiovana tampoka amin’ny torimaso miaraka amin’ny fikorontanana, dia mila fitsaboana haingana. Vakio [rehefa tokony hijery dokotera](/brain-health/warning-signs/).
+Mijereo dokotera raha ianao na ny olona tianao dia reraka mandrakariva, manana olana amin’ny torimaso ny alina ankamaroany, mikoraka mafy, na misy fitsaharana amin’ny fofonaina alina. Raha mitohy ny olan’ny torimaso amin’ny dementia, ny [NIA manoro hevitra](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ny hitady toro-hevitra ara-pitsaboana. Fanamarinana iray dia afaka mahita antony toy ny fanaintainana, olana torimaso hafa, aretina na vokatry ny fanafody. Ny fikorontanana tampoka, na fiovana tampoka amin’ny torimaso miaraka amin’ny fikorontanana, dia mila fitsaboana haingana. Vakio [rehefa tokony hijery dokotera](/brain-health/warning-signs/).
 
 Ity pejy ity dia vaovao ankapobeny, fa tsy torolalana ara-pitsaboana. Jereo ny [fampitandremana ara-pitsaboana](/medical-disclaimer/).

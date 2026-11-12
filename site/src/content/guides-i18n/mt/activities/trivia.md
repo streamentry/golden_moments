@@ -1,32 +1,32 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Trivia faċli għal anzjani bid-dimenzja, mingħajr pressjoni"
+seoTitle: "Mistoqsijiet tat-trivja għad-dimenzja, bit-tweġibiet"
+description: "50 mistoqsija faċli tat-trivja għal anzjani bid-dimenzja, b’għażliet u punti għal taħdita, u kif tmexxiha biex ħadd ma jħoss ittestjat jew imħalli barra."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  It-trivja faċli għal anzjani bid-dimenzja taħdem meta tħoss bħal konverżazzjoni, mhux eżami.
+  Staqsi dwar affarijiet imtgħallma minn żmien twil, bħal kanzunetti qodma, proverbji, festi u
+  l-ħajja ta’ kuljum, u dejjem offri tnejn jew tlieta għażliet. Agħti t-tweġiba b’mod ħieles, qatt
+  tagħżel persuna waħda, itfa’ l-punteġġ, u uża kull tweġiba biex tibda stejjer. Mistoqsijiet ta’
+  “dan jew dak” bla tweġiba ħażina jaqblu mal-istadji tardivi.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Staqsi dwar affarijiet familjari għal żmien twil: kanzunetti, proverbji, festi, ikel u l-ħajja ta’ kuljum ta’ snin ilu."
+  - "Offri tnejn jew tlieta għażliet biex it-tweġiba tkun tista’ tiġi rikonoxxuta aktar milli mfakkra."
+  - "Għid it-tweġiba b’ġentilezza u mur ’il quddiem. Kull taħmin li jibda stejjer huwa taħmin tajjeb."
+  - "La punti, la timijiet li jirraċċaw, u lanqas ċempel persuna waħda. Ħalli t-tweġibiet ġejjin mill-kamra kollha."
+  - "Meta l-għażla bejn it-tweġibiet issir diffiċli, aqleb għal mistoqsijiet ta’ “dan jew dak” bla tweġiba korretta."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "It-trivja hija attività tajba għal persuni bid-dimenzja?"
+    a: "Tista’ tkun, jekk titmexxa b’ġentilezza. L-Alzheimer’s Foundation of America jelenka t-trivja fost l-attivitajiet għall-istadju bikri. Żomm il-mistoqsijiet dwar suġġetti familjari għal żmien twil, offri għażliet, qatt tqiegħed persuna waħda f’pożizzjoni diffiċli, u ħu t-tweġibiet bħala mod biex tidħol fil-konverżazzjoni, mhux bħala test."
+  - q: "X’suġġetti jaħdmu l-aħjar għat-trivja tad-dimenzja?"
+    a: "Affarijiet imtgħallma minn żmien twil normalment jaħdmu l-aħjar: kanzunetti u kantanti popolari mit-tfulija tal-persuna, proverbji familjari, festi, ikel, sport u l-ħajja ta’ kuljum bħal konsenji tal-ħalib u telefowns b’rota. Evita aħbarijiet reċenti u kull ħaġa li teħtieġ li tiftakar xi ħaġa minn qabel fis-sessjoni."
+  - q: "Kif immexxi t-trivja f’dar tal-kura mingħajr ma nbarra lil ħadd?"
+    a: "Aqra kull mistoqsija lill-grupp kollu, uri jew għid l-għażliet, u laqa’ t-tweġibiet minn kull min. Tagħżilx individwi u tiżammx punteġġ. Għid it-tweġiba bi tbissima, qatt mhux meta xi ħadd jaħseb, u staqsi mistoqsija ta’ segwitu bħal “Min minnkom mar qatt fi drive-in?” biex jinbdew stejjer."
+  - q: "X’nista’ nagħmel minflok it-trivja fl-istadji tardivi?"
+    a: "Aqleb għal mistoqsijiet mingħajr tweġiba ħażina, bħal “Kafè jew te?” jew “Bajja jew muntanji?”, u għal ittimbrar ta’ proverbji jew kanzunetti flimkien. Li tħarsu flimkien ritratti u tiddeskrivuhom flimkien jaħdem ukoll tajjeb."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +45,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+It-trivja hija waħda mill-attivitajiet tal-grupp l-aktar mitluba f’djar tal-kura u f’programmi tal-jum, u ħafna familji jilagħbuha wkoll mal-mejda tal-kuċina. Imħaddma bil-mod kif issir normalment, b’punti u persuna waħda li tweġeb, tista’ tħalli lil xi ħadd bid-dimenzja mqiegħed f’pożizzjoni diffiċli. Imħaddma b’ġentilezza, hija mod ħajjan biex tisma’ stejjer. Hawn taħt hemm 50 mistoqsija faċli b’għażliet ta’ tweġiba u xi ħaġa x’titkellmu dwarha għal kull waħda, flimkien ma’ kif tmexxi sessjoni.
 
-## How do you make trivia work for someone with dementia?
+## Kif tagħmel it-trivja tajba għal persuna bid-dimenzja?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Agħmilha dwar li tirrikonoxxi u tiftakar affarijiet ta’ żmien ilu, u agħmel kull tweġiba mistqarra.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Staqsi dwar il-passat il-bogħod.** L-[Alzheimer’s Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) jgħid li l-iktar sintomu bikri komuni tal-Alzheimer huwa d-diffikultà biex titfakkar informazzjoni li għadha kemm tgħallimt. Kanzunetti, proverbji u l-ħajja ta’ kuljum ta’ għexieren ta’ snin ilu spiss huma art aktar faċli.
+2. **Dejjem agħti għażliet.** Li tagħżel it-tweġiba t-tajba minn tnejn jew tlieta huwa ferm aktar faċli milli tipproduċiha minn xejn.
+3. **Aqra l-mistoqsijiet b’leħen għoli u uriha bl-ittri kbar.** Lavanja bil-kitba jew tablet imrfgħa jgħinu lill-persuni li jisimgħu ftit.
+4. **Agħti t-tweġiba b’mod ħieles.** Jekk ħadd ma jkun jaf, għidha b’ġentilezza u mur ’il quddiem. Qatt “Ejja, int taf dan.”
+5. **Ebda punteġġ.** La għal individwi u lanqas għal mejdiet. Jekk in-nies jixtiequ numru, żomm total wieħed għall-grupp.
+6. **Qatt ma tagħżel persuna waħda.** Ħalli t-tweġibiet ġejjin minn kull min. F’wieħed għal wieħed, weġbu flimkien: “Naħseb li hu l-pjanu. Int x’taħseb?”
+7. **Uża l-punt ta’ taħdita.** It-tweġiba hija l-bidu, mhux it-tmiem. L-istejjer huma l-għan veru.
+8. **Żommha qasira.** Għaxar mistoqsijiet bl-istejjer bejniethom huma biżżejjed.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+L-[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jgħid ir-regola ewlenija b’mod sempliċi: oqgħod attent għall-frustrazzjoni u żgura li l-persuna thoss li rnexxielha. L-[Alzheimer’s Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) jelenka t-trivja fost l-attivitajiet għall-istadju bikri. Fl-istadju ta’ nofs, żomm għal żewġ għażliet u appoġġa fuq il-punti ta’ taħdita. Aktar tard, aqleb għall-mistoqsijiet ta’ “dan jew dak” aktar ’l isfel.
 
-## Music and entertainment trivia
+## Trivja tal-mużika u d-divertiment
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+It-tweġiba hija b’**bold**. Addatta dawn għall-persuna: min kiber bil-Motown se jrid kantanti differenti minn min kiber bil-big bands.
 
-| Question | Choices | Talk about |
+| Mistoqsija | Għażliet | Ikkonversa dwaru |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Min kien imsejjaħ is-Re tar-Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Qatt rajt lil Elvis fuq it-TV? |
+| Liema kantant kien laqmu Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Liema kanzunetta ta’ Sinatra togħġbok l-aktar? |
+| Bing Crosby ħolom dwar Milied… abjad? | **Milied**, tieġ, dar | Ikanta linja flimkien |
+| Louis Armstrong kanta “What a Wonderful…” | Jum, **Dinja**, Ħajja | X’jagħmel id-dinja sabiħa għalik? |
+| “Over the Rainbow” kantat minn Judy Garland f’liema film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Fejn rajt il-films favoriti tiegħek? |
+| Min li lagħab lil Lucy f’“I Love Lucy”? | **Lucille Ball**, Doris Day, Betty White | Liema wirjiet kienet tara l-familja flimkien? |
+| Liema kowboj kien isuq żiemel jismu Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Kont tilgħab il-kowboj fit-tfulija? |
+| Min kien jippreżenta “The Tonight Show” għal 30 sena? | Ed Sullivan, **Johnny Carson**, Bob Hope | Kont tibqa’ miexi wara nofsillejl biex tara t-TV? |
+| Liema strument għandu 88 tasta? | Kitarra, **pjanu**, trumbetta | Xi ħadd fil-familja tagħkom kien idoqq? |
+| Liema żfin jiġi kkontat wieħed-tnejn-tlieta, wieħed-tnejn-tlieta? | **Valzer**, twist, tango | Fejn kont tmur tiżfen? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Għal aktar dwar il-mużika, ara [attivitajiet tal-mużika għad-dimenzja](/activities/music/).
 
-## Everyday life trivia
+## Trivja tal-ħajja ta’ kuljum
 
-| Question | Choices | Talk about |
+| Mistoqsija | Għażliet | Ikkonversa dwaru |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Qabel il-friġġijiet, ħafna djar kienu jżommu l-ikel kiesaħ f’… | **Kaxxa tas-silġ**, forn, soffitta | Min kien iġib is-silġ? |
+| Min kien iġib il-ħalib sal-bieb f’flixkuni tal-ħġieġ? | Il-pustier, **il-bejjiegħ tal-ħalib**, it-tifel tal-gazzetti | X’kien jasal ieħor fid-dar? |
+| Kif kont tagħżel numru fuq it-telefon bir-rota? | Tgħaffas buttuni, **iddawwar rota**, titkellem miegħu | Għidli dwar it-telefon fid-dar tiegħek |
+| Liema kumpanija għamlet il-Model T? | **Ford**, Chevrolet, Buick | Għidli dwar karozza li għoġbitek |
+| Fejn issib “soda jerk”? | **Fontana tal-soda**, forn tal-ħobż, bank | X’ordnajt fuq il-kontuwar? |
+| X’tip ta’ ġugarell huwa springa tal-metall li tista’ timxi l-iskali? | Yo-yo, **Slinky**, hula hoop | Liema ġugarelli għoġbuk? |
+| Drive-in kien post fejn tara… | **Films mill-karozza tiegħek**, logħbiet tal-ballun, parati | Ma min mort? |
+| Liema wiċċ jidher fuq il-banknota ta’ dollaru? | Lincoln, **George Washington**, Jefferson | X’setgħa tixtri dollaru f’dak iż-żmien? |
+| Min jidher fuq il-penny? | **Abraham Lincoln**, Washington, Franklin | Kont tiffranka l-pennies f’kaxxa f’dak iż-żmien? |
+| Liema kulur normalment huwa l-karozza tal-iskola? | Aħmar, **isfar**, blu | Kif kont tmur l-iskola? |
 
-## Holidays, nature and places
+## Festi, natura u postijiet
 
-| Question | Choices | Talk about |
+| Mistoqsija | Għażliet | Ikkonversa dwaru |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Liema festa tiġi fir-raba’ Ħamis ta’ Novembru? | Labor Day, **Thanksgiving**, Memorial Day | X’kien dejjem fuq il-mejda tagħkom? |
+| Jack-o'-lanterns isiru għal liema festa? | **Halloween**, Għid, Milied | Għidli dwar Halloween fejn tkabbret |
+| Il-Fourth of July jiċċelebra d-Dikjarazzjoni ta’… | Drittijiet, **Indipendenza**, Libertà | Fejn rajt il-logħbiet tan-nar? |
+| Festa tal-Ommijiet tinsab f’liema xahar? | April, **Mejju**, Ġunju | Kif iċċelebrat il-familja tagħkom? |
+| Kemm stilla hemm fuq il-bandiera Amerikana? | 48, **50**, 52 | Il-bandiera kellha 48 stilla sal-1959. Kwalunkwe tweġiba hija tfakkira tajba |
+| Liema oċean jinsab fuq il-Kosta tal-Lvant? | Paċifiku, **Atlantiku**, Artiku | Qatt ġejt il-bajja? |
+| F’liema belt tinsab il-Istatwa tal-Libertà? | Boston, **New York**, Philadelphia | Ġejt New York? |
+| X’jagħmlu n-naħal? | Ħalib, **għasel**, ħarir | Għasel fuq it-tost jew fit-te? |
+| Baqra żgħira tissejjaħ… | Żiemel żgħir, **għeġla**, ċappra żgħira | Qatt għext qrib razzett? |
+| Liema fjura safra qamra li hija famuża għad-dawran lejn ix-xemx? | Warda, **Girasole**, Tulipan | X’kien jikber fil-ġnien tagħkom? |
+| Kemm jiem hemm f’sena bisestili? | 365, **366**, 360 | Għidli dwar għeluq sninijiet li tiftakar |
+| Liema staġun jiġi wara x-xitwa? | Ħarifa, **rebbiegħa**, sajf | X’inhu l-istaġun favorit tiegħek? |
 
-## Food and sports trivia
+## Ikel u sports
 
-| Question | Choices | Talk about |
+| Mistoqsija | Għażliet | Ikkonversa dwaru |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Ir-ramliet huma… mnixxfa | Priżmbli, **għeneb**, ċirasi | Kont tippakkja r-ramliet fil-lanċijiet? |
+| Il-prunes huma… mnixxfa | **Priżmbli**, fiġ, tuffieħ | Min fil-familja tagħkom kien iħobb il-prunes? |
+| Peanut butter u… | **Jelly**, ġobon, ħam | Kruncy jew bil-lixx? |
+| Guacamole isir l-aktar minn… | Piżelli, **avokado**, ħjar | X’kien jaqbel mal-ħobż fil-festi? |
+| Liema torta hija favorit fit-Thanksgiving? | **Pumpkin**, lemon, cherry | Liema torta għamilt int? |
+| Kemm plejers ikollu tim tal-baseball fuq il-kamp? | 7, **9**, 11 | Liema tim kont tfaqqa’ għalih? |
+| Kemm strajk jagħmel out fil-baseball? | Tnejn, **tlieta**, erba’ | Qatt ilgħabt il-ballun? |
+| Babe Ruth kien famuż għal liema sport? | Boxing, **baseball**, golf | Kont tmur tara logħbiet tal-ballun? |
+| Kemm toqob hemm fuq kors tal-golf standard? | 9, **18**, 24 | Qatt ilgħabt golf jew mini golf? |
+| F’liema sport tikseb touchdown? | **Football**, hockey, basketball | Min kien jara l-football f’dik id-dar? |
 
-## Familiar sayings
+## Proverbji familjari
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Biex tlesti proverbju tiddependi fuq lingwa mitgħallma minn żmien twil u spiss tiġi faċilment. Il-logħba tagħna [Finish the saying](/games/finish-the-saying/) għandha ħafna aktar, b’lemħa biex turi kull tmiem.
 
-| Saying | Choices | Talk about |
+| Proverbju | Għażliet | Ikkonversa dwaru |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Tuffieħa kuljum iżomm… | **it-tabib ’il bogħod**, ix-xita ’l bogħod, il-qattus ’l bogħod | Min kien jgħidlek dan? |
+| Min jqum kmieni jaqbad… | Il-karozza, **id-dud**, it-tren | Int persuna ta’ filgħodu? |
+| Tgħoddx il-bajd qabel ma… | **Jifaqqsu**, jirqdu, jgħannu | Il-familja tagħkom kellha tiġieġ? |
+| Sold iffrankat huwa sold… | **miksub**, mitluf, imqatta’ | Min kien il-ħarrieġ fil-familja tagħkom? |
+| Dar hi fejn… | Il-ġnien hu, **il-qalb hi**, il-kuċina hi | X’jagħmel post iħoss bħal dar? |
+| Aħjar tard milli… | Kmieni, **qatt**, skuża | Min kien dejjem tard? |
+| Kull sħaba għandha… tal-fidda | **bitna**, mgħarfa, muniti | Ħidli dwar xi ħaġa tajba li ġrat sew għalik |
+| L-azzjonijiet jitkellmu aktar b’leħen għoli mill-… | **Kliem**, mużika, ragħad | Għidli dwar xi ħadd li qal dan |
 
-## This-or-that questions with no wrong answer
+## Mistoqsijiet ta’ “dan jew dak” bla tweġiba ħażina
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Dawn jaqblu ma’ kull stadju, anke aktar tard, għax m’hemm xejn x’jinsab tajjeb. Staqsi, isma’, u aqsam ukoll it-tweġiba tiegħek.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafè jew te?
+- Bajja jew muntanji?
+- Klieb jew qtates?
+- Sajf jew xitwa?
+- Torta jew kejk?
+- Tiżfen jew tara?
+- Ix-xarqa jew it-tramuntana?
+- Veranda ta’ quddiem jew bitħa ta’ wara?
+- Radju jew rekords?
+- Pancakes jew bajd?
+- Roži jew margerites?
+- Vjaġġ bit-tren jew vjaġġ bil-karozza?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Għal stedini tal-konverżazzjoni li jmorru ma’ ritratti, ipprova l-[Conversation cards](/games/conversation-cards/) stampabbli tagħna.
 
-## How do you run a trivia session in a care home or group?
+## Kif tmexxi sessjoni tat-trivja f’dar tal-kura jew grupp?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Poġġi lin-nies biex jarau u jisimgħu.** Apparat tas-smigħ imdaħħal, nuċċali mqiegħda, u t-TV mitfi.
+2. **Ippreżentaha bħala taħdita.** “Għandi xi mistoqsijiet dwar iż-żminijiet tal-qadim, u nibet li tafu aktar minni.”
+3. **Aqra kull mistoqsija darbtejn u uri l-għażliet b’kitba kbira.**
+4. **Laqa’ tweġibiet minn kull post fil-kamra.** Erġa’ għid it-tweġibiet tajbin biex kulħadd jisma’.
+5. **Għid it-tweġiba għal kulħadd,** imbagħad staqsi l-punt ta’ taħdita lill-kamra.
+6. **Segwi l-enerġija.** Jekk mistoqsija waħda tibda għaxar minuti ta’ stejjer, ħallihom.
+7. **Ispiċċa b’kanzunetta jew b’rawnd ta’ “dan jew dak”,** biex kulħadd jispiċċa b’xi ħaġa sempliċi.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Għal formati oħra ta’ grupp, inklużi bingo tar-ritratti u kant flimkien, ara [attivitajiet ta’ grupp għad-djar tal-kura](/activities/care-home-groups/).
 
-## When to change the plan
+## Meta tbiddel il-pjan
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Jekk xi ħadd jidher inkwiet, jieqaf jitkellem jew jgħid “ma naf” iktar minn darba, agħmilha aktar faċli: naqqas għal żewġ għażliet, weġbu flimkien, jew aqleb għal mistoqsijiet ta’ “dan jew dak”. Jekk il-grupp jippreferi jitkellem dwar mistoqsija waħda l-ħin kollu tal-wara nofsinhar, dan huwa suċċess. Il-għan qatt ma kien it-tweġibiet korretti. Kien il-ħin f’kumpanija tajba.
