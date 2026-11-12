@@ -1,7 +1,7 @@
 ---
 title: "Þegar einhver með heilabilun þekkir þig ekki"
 seoTitle: "Heilabilun: hvað á að segja þegar einhver þekkir þig ekki"
-description: "Ef einhver með heilabilun þekkir þig ekki, kynnið ykkur rólega, sleppið minnisprófum, bjóðið kunnuglega vísbendingu ef hún er vel þegin og leitið hjálpar við skyndilegar breytingar."
+description: "Ef einhver með heilabilun þekkir þig ekki, kynnið ykkur rólega, sleppið minnisprófum, bjóðið kunnuglega vísbendingu ef hún er vel þegin og leitið ráða ef þörf er á."
 section: caregiving
 order: 32
 updated: 2026-11-11
