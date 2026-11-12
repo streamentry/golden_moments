@@ -1,6 +1,6 @@
 ---
 title: "Demensiyali insonga yetarli suyuqlik ichishga yordam berish"
-seoTitle: "Demensiya va suyuqlik ichish: parvarish qiluvchi uchun maslahatlar"
+seoTitle: "Demensiya va ichimlik: parvarish qiluvchi uchun maslahat"
 description: "Kun davomida yoqtirgan ichimliklarni taklif qilib, demensiyali insonga yetarli suyuqlik ichishga yordam bering. Suyuqlik ehtiyoji haqida shifokordan soʻrang."
 section: caregiving
 order: 23

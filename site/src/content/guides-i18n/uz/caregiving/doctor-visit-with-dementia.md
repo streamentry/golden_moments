@@ -1,6 +1,6 @@
 ---
 title: "Demensiyali inson shifokor qabuliga tayyorlanish"
-seoTitle: "Shifokor qabuli va demensiya: parvarish qiluvchi uchun maslahatlar"
+seoTitle: "Shifokor qabuli va demensiya: parvarish qiluvchiga maslahat"
 description: "Shifokor qabuliga tayyorlanish: savollar tuzing, oʻzgarishlarni yozing, dori maʼlumotini olib boring va roziligi bilan insonni qarorlarga jalb qiling."
 section: caregiving
 order: 20

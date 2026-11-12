@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Besøk en person med demens på demensavdeling eller sykehus"
+seoTitle: "Besøk en person med demens: hva du gjør og tar med"
+description: "Hva du kan gjøre når du besøker en person med demens på demensavdeling, i sykehjem eller på sykehus: hva du tar med, enkle aktiviteter, korte besøk og en god avskjed."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Når du besøker en person med demens på demensavdeling eller sykehus, hold det
+  enkelt: si navnet ditt når du kommer, ta med noe å dele, som bilder, musikk
+  eller en favorittsnacks, og gjør én enkel ting sammen. Kortere, jevnlige
+  besøk går ofte bedre enn lange, sjeldne. Planlegg en rolig og fast avskjed, så
+  det blir lettere å dra for dere begge.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Hils på personen med navn og si hvem du er, så de slipper å regne det ut selv: «Hei mamma, det er Susan, datteren din.»"
+  - "Ta med en eller to ting å dele, som et fotoalbum, favorittmusikk, et mykt teppe eller en snacks personalet har godkjent."
+  - "Korte, jevnlige besøk går ofte bedre enn lange og sjeldne. Din tilstedeværelse betyr mer enn hva du sier."
+  - "På sykehuset: gi personalet et ark på én side om personen, og si fra til legen med én gang om en plutselig endring."
+  - "Planlegg avslutningen: si hvor lenge du kan være, bruk den samme avskjeden hver gang, og dra uten å dvele."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Hva bør jeg ta med når jeg besøker en person med demens?"
+    a: "Ta med noe å dele, heller enn noe å snakke om. Et lite fotoalbum, en spilleliste med favorittsangene, et mykt teppe, håndkrem, et blad om en gammel hobby eller en snacks personalet har godkjent, fungerer alle godt. På sykehjem kan familiebilder og kjente ting også gjøre rommet mer som et hjem."
+  - q: "Hvor lenge bør jeg bli når jeg besøker en person med demens?"
+    a: "Det finnes ingen riktig lengde. Mange familier opplever at kortere og hyppigere besøk fungerer bedre enn lange og sjeldne, fordi personen kan bli trøtt fort og kanskje ikke husker hvor lenge du var der. Se etter tegn på trøtthet, og dra mens besøket fortsatt føles godt."
+  - q: "Hva sier jeg når de vil hjem?"
+    a: "Svar på følelsen, ikke på ordene. «Jeg vil hjem» betyr ofte «jeg har det ikke bra eller trygt». Prøv å si «Fortell meg om hjemmet ditt», se på bilder sammen, eller tilby en tur eller en snacks. Å krangle eller forklare hvorfor de ikke kan dra, øker vanligvis uroen."
+  - q: "Hva om de ikke kjenner meg igjen?"
+    a: "Det kan gjøre vondt, men prøv å ikke rette dem eller spørre «Vet du ikke hvem jeg er?». Presenter deg varmt og enkelt, og nyt tiden sammen. Mange nyter fortsatt selskap og merker varmen i et besøk, selv når de ikke kan plassere hvem du er."
+  - q: "Hvordan kan jeg hjelpe under et sykehusopphold?"
+    a: "Vær sammen med personen når du kan, hjelp dem å spise og drikke, og ta med kjente ting som bilder. Gi personalet et ark med rutinene, foretrukket navn, det personen liker og ikke liker, og tegn på smerte. Si fra til legen med én gang hvis personen plutselig virker dårligere eller annerledes, for plutselig forvirring kan være tegn på et medisinsk problem."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Å besøke noen du er glad i på demensavdeling, i sykehjem eller på sykehus kan vekke mange følelser. Du lurer kanskje på hva du skal si, hva du skal ta med, eller om besøket i det hele tatt betyr noe når de ikke vil huske det. Det gjør det. National Institute on Aging skriver at personer med Alzheimers [ofte liker selskap](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) også når de ikke husker hvem besøkende er. Denne siden gir praktiske steg før, under og etter et besøk, pluss spesifikke tips for sykehusopphold.
 
-## How do I get ready for a visit?
+## Hvordan gjør jeg meg klar til et besøk?
 
-A little planning makes the visit easier for both of you.
+Litt planlegging gjør besøket lettere for dere begge.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Velg et godt tidspunkt.** Dementia Australia foreslår å besøke når personen vanligvis er mest våken, som for mange er om morgenen eller rundt middag. Family Caregiver Alliance foreslår at du setter deg inn i institusjonens timeplan og besøker i [fritiden heller enn i aktivitetstiden](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Snakk med personalet.** Spør hvordan personen har hatt det i dag, og sjekk eventuelle regler om mat, kjæledyr eller turer ut.
+- **Pakk en liten besøkspose.** Én eller to ting å dele er nok (se listen under).
+- **Planlegg noen temaer.** Personen har kanskje ingen nyheter å fortelle, så ta med dine egne: familieoppdateringer, været, en kampreferanse, en morsom historie.
+- **Sett dine egne forventninger.** Noen besøk blir varme og prater mye. Andre blir stille eller vanskelige. Begge deler er normalt.
 
-## What should I bring?
+## Hva bør jeg ta med?
 
-Bring things to share, not things that test. Good choices include:
+Ta med ting som deles, ikke ting som tester. Gode valg er blant annet:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Et lite fotoalbum** med store, tydelige bilder. Skriv navn på baksiden til personalet.
+- **En spilleliste** med favorittsanger på en telefon, med enkle hodetelefoner eller en liten høyttaler.
+- **Noe mykt å holde i,** som et kjent teppe, skjerf eller en genser.
+- **Håndkrem** til en mild håndmassasje, hvis personen liker berøring.
+- **Et blad eller en bildebok** om en gammel interesse, som hagearbeid, biler, fugler eller matlaging.
+- **En favorittsnacks**, hvis personalet sier at det er trygt.
+- **Kjente ting til rommet.** Family Caregiver Alliance foreslår blomster, planter, familiebilder og kunst, eller et stort plakat med familiebilder fra fortiden.
+- **Et nettbrett,** for å se på familiebilder eller spille et rolig spill sammen.
 
-## What can we do together during a visit?
+## Hva kan vi gjøre sammen under et besøk?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Å gjøre noe sammen tar presset av samtalen. Dementia Australia foreslår å se på bilder, en enkel håndverksaktivitet, å så frø, musikk, å dele en snacks eller en tur rundt på området. Noen flere ideer:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Se på bilder.** Pek på det du ser: «Se på den hatten.» «Den stranden ser fin ut.» La personen lede an. Unngå «Hvem er dette?»
+2. **Spill musikk og syng.** Kjente sanger kan løfte stemningen og gi et felles øyeblikk, selv når det er vanskelig å snakke.
+3. **Ta en kort tur.** Family Caregiver Alliance foreslår å gå rundt på institusjonen, særlig i hagen hvis det finnes en. En tur i rullestol teller også.
+4. **Gi en håndmassasje.** Litt krem og langsomme strøk på hendene kan være beroligende.
+5. **Hjelp til med stell.** Dementia Australia nevner å børste håret, lakkere neglene eller hjelpe personen i en favorittklesdrakt, hvis de liker det.
+6. **Spill et enkelt spill.** Family Caregiver Alliance foreslår kortspill, domino, eller det personen pleide å spille. På et nettbrett kan [Bildepar](/games/picture-pairs/) spilles med bildene synlige og uten tidtaker. [Fotopar](/games/photo-pairs/) gjør bilder du velger til et parspill, og bildene blir værende i nettleseren din.
+7. **Se noe sammen.** Family Caregiver Alliance foreslår komedier og gamle filmer. Selv om personen ikke kan følge handlingen, kan du sitte nær og dele tiden.
+8. **Les høyt.** Et kort dikt, en favorittpassasje eller et brev fra et familiemedlem.
+9. **Bare sitt sammen.** Å holde hender eller sitte stille er et ekte besøk. Alzheimer's Association skriver at det er greit å ikke vite hva man skal si, og at din tilstedeværelse betyr mest.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Samtalekort](/games/conversation-cards/) kan hjelpe når du går tom for ting å si. Hvert kort har et bilde og et åpent spørsmål.
 
-## How should I talk during the visit?
+## Hvordan bør jeg snakke under besøket?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Presenter deg hver gang.** «Hei pappa, det er Mark, sønnen din.» NIA foreslår at besøkende kort presenterer seg for å starte en samtale.
+- **Nærm deg forfra** og sett deg i øyehøyde.
+- **Ikke rett opp eller krangle.** NIA råder besøkende til ikke å rette personen hvis de tar feil eller glemmer noe.
+- **Vær tålmodig** når ord er vanskelige å finne. Gi god tid.
+- **Svar på følelser.** Hvis personen virker trist eller bekymret, anerkjenn det før du skifter tema.
+- **Unngå quizspørsmål** som «Husker du meg?» eller «Hva spiste du til lunsj?»
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Se våre [kommunikasjonstips](/caregiving/communication-tips/) for mer.
 
-## What do I do when they say "I want to go home"?
+## Hva gjør jeg når de sier «Jeg vil hjem»?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Svar på følelsen bak ordene (vår veiledning om [når noen spør om å få dra hjem](/caregiving/asking-to-go-home/) går lenger). Family Caregiver Alliance forklarer at «Jeg vil hjem» vanligvis er en måte å si «Jeg har det ikke bra», og foreslår svar som «Fortell meg om hjemmet ditt» eller «Hva er det fineste du har hjemme?» Dementia Australia legger til at «hjem» kan bety en tid eller et sted der personen følte seg trygg, for eksempel barndommen.
 
-Try:
+Prøv:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- å anerkjenne følelsen: «Det høres ut som du savner hjemme.»
+- å gi trøst gjennom berøring, hvis det er velkomment
+- å se på bilder eller snakke om familiehjemmet
+- å tilby en tur, en drikke eller en snacks
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Unngå å krangle eller forklare hvorfor de ikke kan dra. Det hjelper sjelden og øker ofte uroen.
 
-## How long should a visit be?
+## Hvor lenge bør et besøk vare?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Kortere og hyppigere fungerer ofte bedre. Family Caregiver Alliance skriver at personen vanligvis ikke husker om du var der i fem minutter eller fem timer, og foreslår at tre korte besøk i uken kan være bedre enn ett langt. Dementia Australia sier at det ikke finnes noe riktig antall besøk eller riktig lengde.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+I de første ukene etter flytting til demensavdeling foreslår Family Caregiver Alliance å besøke ofte, og deretter gradvis finne et fast mønster. Spør personalet hva de ser.
 
-## How do I leave without upsetting them?
+## Hvordan drar jeg uten å gjøre dem opprørt?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Å dra kan være den vanskeligste delen. Dementia Australia foreslår:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Si hvor lenge du kan være når du kommer.** «Jeg kan være her en time, så skal jeg handle.»
+- **Bruk en aktivitet som en naturlig slutt.** «Når vi er ferdige med denne sangen, må jeg gå.»
+- **Tidfest det til et måltid eller en aktivitet,** eller be personalet hjelpe personen å falle til ro med noe annet.
+- **Hold avskjeden kort og lik hver gang.** Å dvele, be om unnskyldning eller bli «bare litt lenger» kan gjøre fremtidige avskjeder vanskeligere.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Etter at du har dratt, er det normalt å føle seg lei seg. Gi deg selv tid til å hvile. Hvis personen ble opprørt, kan personalet vanligvis hjelpe dem å falle til ro kort tid etterpå.
 
-## Visiting someone with dementia in the hospital
+## Å besøke en person med demens på sykehus
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Et sykehus er bråkete, ukjent og fullt av fremmede, noe som kan være svært vanskelig for en person med demens. NIAs veiledning om [å ta en person med Alzheimers til sykehuset](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) anbefaler:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Få noen til å være hos personen** så mye som mulig: et familiemedlem, en tillitsfull venn eller en lønnet omsorgsperson.
+- **Gi personalet et personlig informasjonsark** med personens rutiner, foretrukket navn, det de liker og ikke liker, mulige utløsere og ikke-verbale tegn på smerte. Legg kopier på rommet og ved sykepleierens post.
+- **Hjelp med mat og drikke.** Eldre voksne kan bli underernærte på sykehus. Åpne emballasje, hjelp til med måltider, spis sammen og tilby drikke.
+- **Ta med trøstende ting** som bilder eller åndelige gjenstander.
+- **Senk støyen.** Skru av TV-en og reduser lyden på telefoner og høyttalere.
+- **Prøv beroligende rutiner,** som rolig musikk, lesing, bønn, sang eller å se på gamle bilder.
+- **Oppmuntre til bevegelse** så mye det er trygt, med personalets godkjenning.
+- **Si fra til legen med én gang hvis personen plutselig virker dårligere eller annerledes.** NIA forklarer at plutselig alvorlig forvirring, kalt delirium, kan skyldes problemer som infeksjon, feber, uttørring eller bivirkninger av medisin, og trenger medisinsk oppfølging.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Et kort, rolig besøk med et kjent ansikt og en favorittsang kan være den mest trøstende delen av en sykehusdag.
 
-## Bringing children on a visit
+## Å ta med barn på besøk
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Barn kan gi mye varme. Forbered dem på forhånd med enkle og ærlige ord, hold besøket kort, og gi dem en oppgave, som å vise en tegning eller gi over et bilde. NIA foreslår at barn og personer med Alzheimers kan ha glede av enkle aktiviteter sammen, som å se i et fotoalbum eller høre på musikk. Dementia Australia foreslår å pakke en liten pose med godteri eller stille ting som holder små barn opptatt.
 
-## Take care of yourself too
+## Ta vare på deg selv også
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Å besøke kan være slitsomt og følelsesmessig, særlig hvis personen har endret seg mye. Det er greit å besøke sjeldnere hvis du trenger det, å ta med en venn for støtte, eller å dra tidlig på en vanskelig dag. For ideer om å ta vare på deg selv, se [egenomsorg for pårørende](/caregiving/caregiver-self-care/). Hvis du bor langt unna, se vår veiledning om [telefon- og videosamtaler](/activities/phone-and-video-calls/).
