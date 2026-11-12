@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "Медитеранска и MIND исхрана и деменција: шта кажу истраживања"
+seoTitle: "MIND исхрана и деменција: шта кажу истраживања"
+description: "Шта истраживања кажу о MIND и медитеранској исхрани и деменцији, зашто велико испитивање није нашло јасну корист и како помоћи особи са деменцијом да добро једе."
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  Опсервационе студије повезују исхрану у медитеранском стилу и MIND исхрану с мањим ризиком од деменције, али не доследно. Трогодишње рандомизовано испитивање MIND дијете, објављено 2023, није нашло значајну разлику у размишљању ни на снимцима мозга у поређењу с контролном дијетом. Ниједна храна или додатак исхрани није доказано да спречава деменцију. За особе које живе с деменцијом, најважније је да довољно једу и пију.
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "Неке, али не све студије које прате људе током времена повезују медитеранске и MIND обрасце исхране с мањим ризиком од деменције."
+  - "У испитивању из 2023. са 604 старија одрасла, особе на MIND дијети нису имале боље резултате на тестовима размишљања или снимцима мозга од особа на контролној дијети након три године."
+  - "Национални институт за старење каже да нема доказа да једење или избегавање одређене хране може спречити Алцхајмерову болест, и да ниједан витамин или додатак исхрани није доказано спречава је."
+  - "Исхрана богата поврћем, воћем, махунаркама, целим житарицама и рибом подржава здравље срца и може помоћи код ризика попут високог крвног притиска и дијабетеса."
+  - "За особе које живе с деменцијом, храна за руку, тањири у контрастној боји, миран оброк и редовно пиће често су важнији од било које посебне дијете."
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "Да ли MIND дијета спречава деменцију?"
+    a: "Није показано да је спречава. Опсервационе студије повезале су MIND дијету с мањим ризиком, али трогодишње рандомизовано испитивање објављено 2023. није нашло значајну разлику у резултатима тестова размишљања или снимцима мозга између особа на MIND дијети и особа на контролној дијети. Обе групе су се нешто побољшале и изгубиле слично у тежини."
+  - q: "Која је разлика између MIND и медитеранске дијете?"
+    a: "Медитеранска дијета наглашава поврће, воће, целе житарице, махунарке, рибу и маслиново уље, уз мало црвеног меса и слаткиша. MIND дијета комбинује је с DASH дијетом за крвни притисак и додаје нагласак на зелено лиснато поврће и бобичасто воће, а ограничава црвено месо, слаткише, сир, путер и пржену храну."
+  - q: "Постоје ли храна или додаци који спречавају Алцхајмерову болест?"
+    a: "Не. National Institute on Aging каже да нема доказа да једење или избегавање одређене хране може спречити Алцхајмерову болест или опадање размишљања повезано са старошћу, а ниједан витамин или додатак исхрани није доказано да спречава Алцхајмерову болест. Пре узимања додатака разговарајте с лекаром."
+  - q: "Која храна је најлакша за особу са деменцијом?"
+    a: "Комадићи хране величине залогаја, као што су делови сендвича, комадићи пилетине, наранџини режњеви или комадићи куване поврћа, често су лакши од јела прибором. Ако је жвакање или гутање тешко, меке намирнице као што су пржена јаја, јабучни пире или свеж сир могу помоћи. Питајте лекара за преглед гутања ако дође до кашљања или гушења."
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+Можда сте читали да „исхрана за здрав мозак“ може држати Алцхајмерову болест подаље. Стварна слика је скромнија. Неки обрасци исхране повезани су с мањим ризиком у студијама које прате људе током времена, али најбоље испитивање до сада није нашло јасну корист. Ова страница објашњава оба, а затим прелази на оно што обично највише значи некоме ко већ живи с деменцијом: довољно јести и пити, и уживати у томе.
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+Ово су опште информације, а не медицински савет. Пре промене своје или туђе исхране разговарајте с лекаром или регистрованим дијететичарем. Погледајте наше [медицинско упозорење](/medical-disclaimer/).
 
-## What are the Mediterranean and MIND diets?
+## Шта су медитеранска и MIND дијета?
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+National Institute on Aging (NIA) их описује на следећи начин ([NIA о исхрани и Алцхајмеровој болести](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **Медитеранска дијета:** пуно воћа, поврћа, целих житарица, махунарки, рибе и морских плодова и маслиновог уља, уз мале количине црвеног меса, јаја и слаткиша.
+- **MIND дијета** (Mediterranean–DASH Intervention for Neurodegenerative Delay): мешавина медитеранске дијете и DASH дијете за крвни притисак. Укључује поврће, посебно зелено лиснато; бобичасто воће; целе житарице; махунарке; орашасте плодове; рибу најмање једном недељно; и маслиново уље. Ограничава црвено месо, слаткише, сир, путер или маргарин и пржену или брзу храну.
 
-## Do these diets lower dementia risk?
+## Да ли ове дијете смањују ризик од деменције?
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+Докази су мешовити. NIA каже да су неке, али не све опсервационе студије повезале медитеранску и MIND дијету с мањим ризиком од деменције у поређењу с исхраном западног типа, богатом црвеним месом, засићеним мастима и шећером.
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+Ланцет комисија из 2024. детаљније је прегледала истраживања ([Ланцет комисија](https://doi.org/10.1016/S0140-6736(24)01296-0)):
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- Један преглед студија кохорте повезао је висок квалитет исхране с отприлике 20% нижим ризиком од деменције.
+- Већа анализа три кохорте повезала је чвршће придржавање MIND дијете с нижим ризиком.
+- Али шведска студија која је пратила 28.025 људи средњих година око 20 година није нашла нижи ризик ни код препоручених дијета ни код дијете медитеранског типа.
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+Опсервационе студије не могу доказати узрок и последицу. Људи који тако једу често се разликују и на друге начине, као што су приход, образовање, вежбање и приступ здравственој заштити. Комисија је закључила да нема довољно доказа да здраве дијете директно спречавају деменцију, иако је јело много воћа и поврћа и мање ултрапрерађене хране добро за многа здравствена стања и утиче на факторе ризика као што су гојазност, дијабетес и висок крвни притисак. Исхрану није додала на своју листу [14 фактора ризика](/brain-health/risk-factors/).
 
-## What did the 2023 MIND diet trial find?
+## Шта је показало испитивање MIND дијете из 2023?
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+Најјаче испитивање до сада било је рандомизовано испитивање објављено у New England Journal of Medicine 2023. ([испитивање MIND дијете](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **Ко:** 604 одрасле особе од 65 година и старије у подручјима Чикага и Бостона, без проблема с размишљањем, које су имале блиског сродника с деменцијом, били су прекомерне тежине и раније су имали мање здраву исхрану.
+- **Шта:** три године, половина је следила MIND дијету, а половина своју уобичајену исхрану. Обема групама је речено да поједу око 250 калорија мање дневно и добијале су редовно вођење од регистрованих дијететичара.
+- **Резултат:** резултати тестова размишљања нешто су се побољшали у **обе** групе. Разлика између група била је мала и **није статистички значајна**. Снимци мозга такође су показали сличне промене у обе групе.
+- **Тежина:** обе групе су изгубиле око 5 килограма (отприлике 11 фунти).
 
-### Why might the trial have found no difference?
+### Зашто испитивање можда није нашло разлику?
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+Истраживачи су навели неколико могућих разлога. Контролна група је вероватно и сама побољшала исхрану, јер је изгубила слично у тежини. Понављано тестирање може само по себи побољшати резултате, јер се људи навикну на тестове. Три године можда нису довољне. Већина учесника била је добро образована и европског порекла, па се резултати можда не односе на све.
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+Дакле, искрен закључак је: MIND дијета није била боља од разумно смањене калоричне исхране током три године. То не значи да здрава исхрана нема смисла. Значи да нико не треба да очекује да ће нека посебна дијета спречити деменцију.
 
-## What about specific foods and supplements?
+## Шта је са појединачним намирницама и додацима исхрани?
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA каже да нема доказа да једење или избегавање одређене хране може спречити Алцхајмерову болест или опадање размишљања повезано са старошћу. Боровнице, лиснато зелено поврће и куркума су сви проучавани, без доказа. NIA такође каже да ниједан витамин или додатак исхрани није доказано спречава Алцхајмерову болест и да се ни за ту сврху не препоручује. NIA упозорава да непроверени производи који се продају за спречавање Алцхајмерове болести могу бити небезбедни, бескорисни или и једно и друго, и да могу ометати прописане лекове, па проверите са лекаром пре него што пробате било шта ([NIA о спречавању Алцхајмерове болести](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-## How can eating stay healthy and enjoyable?
+## Како исхрана може остати здрава и пријатна?
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+За већину старијих особа циљ је храна која храни, позната је и пријатна, а не строг план:
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **Градите оброке око намирница које волите** из медитеранског обрасца: поврће, воће, махунарке, целе житарице, рибу и маслиново уље.
+- **Задржите омиљене посластице.** Задовољство и апетит су важни, посебно у касном животу.
+- **Једите с другима** кад можете. Заједнички оброци су добро друштво.
+- **Кувајте заједно.** Прање поврћа или мешање у лонцу је добра заједничка активност; погледајте [кућне послове](/activities/household-tasks/). Омиљени породични рецепт може покренути [присећање](/activities/reminiscence/).
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+Старије особе не би требало да смањују калорије или губе тежину без разговора с лекаром, а пост носи додатне ризике. Погледајте наш [водич о посту](/brain-health/fasting/).
 
-## How can you help someone with dementia eat well?
+## Како можете да помогнете особи са деменцијом да добро једе?
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+За особе које живе са деменцијом, најважнија брига је обично да једу и пију **довољно**. Alzheimer's Association напомиње да особе могу да заборављају да једу, мисле да су већ јеле или да се осећају преплављено избором, и да лоша исхрана може појачати симптоме понашања и довести до губитка тежине ([Alzheimer's Association о храни и јелу](https://www.alz.org/help-support/caregiving/daily-care/food-eating)). Ове идеје потичу од Alzheimer's Association, NIA и Alzheimer's Society:
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **Нудите храну за руку.** Комадићи величине залогаја који се лако узимају, као што су делови сендвича, комадићи пилетине, штапићи рибе, наранџини режњеви или на пари куван брокула, омогућавају особи да се храни сама без прибора.
+2. **Користите контраст на столу.** Промене вида могу отежати разликовање хране од тањира. Бели тањири или чиније на контрастној подлози могу помоћи. Избегавајте шаре на посуђу и столњацима.
+3. **Служите једну или две намирнице одједном.** Пун тањир може бити преплашујући.
+4. **Држите оброке мирним.** Искључите телевизор, држите сто једноставним и оставите довољно времена. NIA предлаже да не журите и не форсирате.
+5. **Нудите мале оброке и ужине често.** NIA предлаже мање и чешће оброке и ужине богате калоријама ако особа не једе довољно ([NIA савети за здраву исхрану](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
+6. **Помозите око пијења.** Нудите мале шоље воде или другог пића током дана, плус храну с много воде, као што су воће, супа, милкшејкови и смути. Ако особа не жели воду, NIA предлаже да пробате сок, ароматизовану воду, бујон, млеко или декофеинисану кафу или чај.
+7. **Проверите температуру.** Особа можда неће приметити да је храна или пиће преврело.
+8. **Прилагодите прибор и шоље.** Чиније уместо тањира, кашике с широким дршкама и шоље с поклопцем могу олакшати јело. Не брините о уредности.
+9. **Учините храну лакшом за жвакање и гутање.** Исеците храну на мале комаде или нудите меку храну. Ако особа кашље или се гуши док једе, реците њеном лекару.
+10. **Избегавајте присилно храњење.** NIA напомиње да апетит природно опада у касним фазама Алцхајмерове болести.
 
-### Signs to tell the doctor about
+### Знаци о којима треба рећи лекару
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+Губитак тежине, одбијање хране, умор или слабост могу бити знаци да особа не једе довољно. Alzheimer's Society напомиње да болни зуби или протезе, депресија, запор и промене лекова могу смањити апетит ([Alzheimer's Society о апетиту](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)). Знаци дехидрације које наводи NIA укључују суву уста, вртоглавицу, убрзан рад срца и халуцинације ([NIA о честим медицинским проблемима](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-## Talk with a doctor
+## Разговарајте са лекаром
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+Пре већих промена у својој исхрани или у туђој, разговарајте са лекаром или регистрованим дијететичаром, посебно ако имате дијабетес, болест бубрега, проблеме с гутањем или недавни губитак тежине. За особу која живи с деменцијом, питајте колико треба да једе и пије сваког дана и да ли би дијететичар или додаци могли помоћи.
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+Потражите хитну помоћ ако се неко гуши, или ако има нагла конфузија, јаку вртоглавицу или несвестицу.
