@@ -2,9 +2,9 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Source improvements: 91 / 500 implemented**
+**Source improvements: 92 / 500 implemented**
 
-**Full 185-language coverage: 2 / 500 verified under the updated completion gate**
+**Full 185-language coverage: 3 / 500 verified under the updated completion gate**
 
 Maintainer decision (2026-11-12): target increased from 100 to 500 improvements; existing numbered rounds remain counted.
 
@@ -14,9 +14,10 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 
 | Rounds | Changed scope | Coverage status |
 |---|---|---|
-| 1–89 | Earlier app and website changes | Not yet audited against the 185-code gate; backfill where any changed user-facing text is missing. |
-| 90 | LGBTQ+ guide and residential-care crosslink | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 16 non-fatal width warnings; lived-experience/native review open. |
-| 91 | Multilingual guide and communication-tips crosslink | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
+| 1–89 | Earlier app and website changes | Not yet audited. PR #237 merged an initial partial guide backfill; PR #240 reports about 3,500 guide files still missing, a count not yet independently audited. Backfill any missing changed user-facing text. |
+| 90 | LGBTQ+ guide and residential-care cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 16 non-fatal width warnings; lived-experience/native review open. |
+| 91 | Multilingual guide and communication-tips cross-link | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
+| 92 | Changed-guide translation gate | Complete: no end-user copy added. Site CI now validates every added or changed English guide across all 184 registered non-English codes and five additional active site variants. |
 
 ---
 
@@ -75,11 +76,11 @@ The source log records which product improvements exist. The separate 185-langua
 
 ---
 
-## Improvement Pipeline (Target: 100)
+## Improvement Pipeline (Target: 500)
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 92 | *Next in queue* | Pending |
+| 92 | Changed-guide translation coverage gate | Implemented in this branch; hosted CI pending. |
 | 93–500 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
@@ -682,7 +683,7 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Safety and rights boundary | The person decides what identity details to share and with whom where possible. A partner or chosen supporter is not automatically a legal decision-maker; provider permissions and authority rules vary by location. | General caregiving information; no legal or clinical determination. |
 | Implementation commit | `5061b4376f93eb07e484c0d2f01993ea522d86d` | Source commit on `codex/improvement-90-lgbtq-care`. |
 | Translation coverage | Machine translations for the LGBTQ+ guide and updated residential-care parent cover all 184 non-English registry codes and five additional active site variants (189 routes per page). | 378 translated pages; unreviewed. |
-| Translation checks | Structural guide checks covered both pages in all 189 active non-English routes; targeted translator status reports 0 pending. | 0 errors, 16 non-fatal metadata-width warnings; lived-experience and native review remain open. |
+| Translation checks | Structural guide checks covered both pages in all 189 active non-English routes; targeted translator status reports 0 pending. | 0 errors, 16 non-fatal metadata-width warnings. The post-backfill site build generated 13,157 pages; check-site reported 0 errors and 541 warnings (Round 92 verification). Lived-experience and native review remain open. |
 | Checks | On Node 24.11.1, `pnpm --dir site verify`: 1,869 tests, 12,522 pages, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106 tests), `scripts/release_metadata.py --check`, `scripts/check_arb.py lib/l10n/arb/app_en.arb` and `git diff --check` passed. | Local automated checks passed; hosted site build and page checks, browser visual run, spell, app, design-system and release-metadata checks passed on PR #234 head c855d4340d58d4930267a0a2bc4a3da057d1c626. |
 | Render inspection | Built route `/caregiving/supporting-lgbtq-person-with-dementia/` and residential-care cross-link appear in the static output. | Static build checked; no live browser run. |
 | Not verified | No LGBTQ+ person with dementia, partner, chosen-family caregiver, care-setting staff, clinician, native-speaker or live-browser review. | Open; do not claim user, legal or clinical validation. |
@@ -698,7 +699,19 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Emergency number boundary | The English guide refers to local urgent medical services without naming a number. Early drafts added 112 in some locales and were discarded. | Final translated copies pass the checker, which rejects emergency numbers absent from English. |
 | Implementation commit | `ad4191c664105a9747f63ab9e1f1e3fc6123249d` | Source commit on `codex/improvement-91-language-support`. |
 | Translation coverage | Machine translations for the guide and updated parent page cover all 184 non-English registry codes and five additional active site variants (189 routes per page). | 378 translated pages; unreviewed. |
-| Translation checks | Structural guide checks covered both pages in all 189 active non-English routes; targeted translator status reports 0 pending. | 0 errors, 9 non-fatal metadata-width warnings; reader and native review remain open. |
-| Checks | On Node 24.11.1, 1,869 site unit tests passed. TypeScript, Python suite (106 tests), release metadata, ARB validation, cspell JSON validation and `git diff --check` passed on the source PR. Astro was killed by the host with exit 137 during static route generation; `check-site` did not run. | Source PR checks do not validate this translation backfill; a full site build remains open. |
-| Render inspection | The static route and caregiver-hub fallback were not inspected because the build did not complete. | Open. |
+| Translation checks | Structural guide checks covered both pages in all 189 active non-English routes; targeted translator status reports 0 pending. | 0 errors, 9 non-fatal metadata-width warnings. The post-backfill site build generated 13,157 pages; check-site reported 0 errors and 541 warnings (Round 92 verification). Reader and native review remain open. |
+| Checks | On Node 24.11.1, 1,869 site unit tests passed. TypeScript, Python suite (106 tests), release metadata, ARB validation, cspell JSON validation and git diff checks passed on the source PR. Astro exited 137 before page checks in that run. | Round 92 then ran the full local site workflow after correcting the translated SEO-title schema: 13,157 pages and 0 check-site errors. |
+| Render inspection | The generated guide route and caregiving-hub fallback are present; the hub links to the new route. | Static output confirmed; no live-browser inspection. |
 | Not verified | No multilingual reader, person with dementia, caregiver, clinician, interpreter, native-speaker or live-browser review. The NIA interpreter pages were seen in search but returned HTTP 405 when opened; they were not used. | Do not claim user, clinical or native-language validation. |
+
+
+## Round 92: guard changed English guides against missing translations (read 2026-11-12)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | [Alzheimer's Society communication guidance](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) says language preferences vary and some people may use the first language they learned. | Keeping new and revised guides available in every published language is an engineering response to a real access need; it does not claim that machine translation is accurate. |
+| Existing gap | The site build validates translated guides that exist, but the page checker does not require copies for each locale when an English guide changes. The per-guide validator rejects added emergency numbers not in English, but CI did not run it across the required locales. A Hausa Round 91 search title at 81 characters also failed the translated schema's 80-character cap, even though the guide checker only warned on display width. | A new or revised guide could be missing in published locales, and a full translation could fail the build on an arbitrary metadata cap. |
+| Change | Site CI compares base and PR guide paths, then runs the existing structural validator for every non-English registry code and active site locale. It rejects missing copies, stale translatedFrom dates, mismatched headings/links and unsupported added numbers. Translated SEO-title schema now allows up to 140 characters, while existing search-width warnings remain. No user-facing copy, storage, telemetry, permission or network behavior changed. | Applies to added, modified, copied and renamed English Markdown guides. |
+| Tests | python3 tests/test_guide_coverage.py (4); python3 site/scripts/test_guide_translation.py (8); python3 -m unittest discover -s tests -p 'test_*.py' -v (117); pnpm exec vitest run (1,869); pnpm exec astro sync; pnpm exec tsc --noEmit; pnpm exec astro build (13,157 pages); pnpm exec node scripts/check-site.mjs (0 errors, 541 warnings). The guide gate passed four English source guides across 189 locales with 0 errors and 25 warnings. | Local isolated YAML-validator install was blocked by DNS; tests used preinstalled version 6.0.3. Hosted CI must confirm the pinned venv install. |
+| Render inspection | The Hausa communication-tips route contains the full 81-character search title; the caregiving hub contains the Round 90 and 91 links. | Static output confirmed; no live-browser review. |
+| Limits | Machine translations remain unreviewed. The gate checks structure and added numbers but not semantic translation quality or native-speaker review; it also does not close the historical missing-guide backlog. | PR #237 merged a partial batch; PR #240 is open and reports about 3,500 guide files remain missing. |

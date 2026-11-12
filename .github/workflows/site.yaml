@@ -34,6 +34,21 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Set up guide translation validator
+        run: |
+          python3 -m venv "$RUNNER_TEMP/guide-check"
+          "$RUNNER_TEMP/guide-check/bin/python" -m pip install --disable-pip-version-check -r scripts/requirements-guide-check.txt
+      - name: Check changed English guide translations
+        env:
+          GUIDE_DIFF_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+          GUIDE_DIFF_HEAD: ${{ github.sha }}
+        run: "$RUNNER_TEMP/guide-check/bin/python" scripts/check-guide-coverage.py --base "$GUIDE_DIFF_BASE" --head "$GUIDE_DIFF_HEAD"
+      - name: Test guide translation coverage gate
+        run: |
+          "$RUNNER_TEMP/guide-check/bin/python" ../tests/test_guide_coverage.py
+          "$RUNNER_TEMP/guide-check/bin/python" scripts/test_guide_translation.py
       - uses: pnpm/action-setup@v6
         with:
           version: 10.33.0

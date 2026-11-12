@@ -453,3 +453,9 @@ Application: the residential-care guide already asks readers to consider visits,
 - National Institute on Aging pages on communication and doctor appointments were seen in search results but returned HTTP 405 when opened; not used.
 
 Application: the site’s communication guide covered short sentences, listening, gestures and photos but had no language-preference or appointment-interpreter advice. The new English guide keeps language reversion non-universal, does not infer stage from it, and directs sudden confusion to urgent local medical help.
+
+
+## Round 92: language coverage for new and revised guides (read 2026-11-12)
+
+- [Alzheimer's Society: How to communicate with a person with dementia](https://dementiaconnect.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/how-to-communicate-dementia) — opened. It describes person-specific language preferences and notes that some people may begin communicating in the first language they learned.
+- Application: the user requires all new guide text to cover the 185-code registry. The site build checked existing translated files but did not require every locale copy when an English guide changed. It also rejected a Hausa Round 91 search title at 81 characters against an 80-character cap even though the translation checker treated its display width as a warning. The CI gate enforces changed-guide coverage and structure; the wider translated title cap preserves full wording while existing width warnings remain.

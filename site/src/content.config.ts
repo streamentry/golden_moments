@@ -63,7 +63,8 @@ const guidesI18n = defineCollection({
   schema: guideSchema.extend({
     /** Translated headings can expand; keep the full wording instead of cutting it off. */
     title: z.string().max(140),
-    seoTitle: z.string().max(80).optional(),
+    /** Keep full translated wording; check-site reports long search display widths as warnings. */
+    seoTitle: z.string().max(140).optional(),
     /** Translated descriptions use the 50–360 display-width bounds in check-site.mjs. */
     description: z.string().min(30).max(360),
     /** Preserve translated summaries that expand beyond the English character limit. */
