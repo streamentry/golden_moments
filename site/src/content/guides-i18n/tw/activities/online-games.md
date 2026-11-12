@@ -79,7 +79,7 @@ Word search, coloring ne picture bingo wɔ nneɛma a wɔde ahyɛ ho so. Hwɛ [nn
 2. **Fa screen a ɛyɛ kɛse.** Tablet a wɔde ayɛ stand anaa komputa a wɔde browser zoom ano yɛ mmerɛw sɛ obi bɛhu na obi bɛtɔ.
 3. **Gyae tabs foforɔ na tu notifications.** Pop-up a ɛba ntɛmntɛm ma obi ayɛ ɔfrɛ, na ɛbetumi asɛe bere a ɛyɛ.
 4. **Fa wo ho ntɛ obi no ho, na nnyɛ sɛ wo ne no gu nkyɛn.** Sɛ wohwɛ bom no, ɛbɛyɛ sɛ ɔwɔ wo nkyɛn sen sɛ ɛyɛ adwuma a wɔhwɛ.
-5. **Fi ase nnwomkɔ baako mma simma 5 kosi 10.** Ma obi no ntɔ screen no anaa ɔnkyerɛ, na mmom mo nyinaa mmɔ ne nnu.
+5. **Fi ase nnwomkɔ baako mma simma mmienu kosi mmiɛnsa.** Ma obi no ntɔ screen no anaa ɔnkyerɛ, na mmom mo nyinaa mmɔ ne nnu.
 6. **Gyae wɔ anigye mu.** Wie ɔsɛ baako, na ka mfonini baako ho asɛm anaa ka sɛ mo nnom tea.
 
 ## Ahobammɔ ne privacy wɔ device a afoforɔ nso di dwuma so
@@ -93,7 +93,7 @@ Sɛ wopɛ nkyerɛkyerɛ a ɛyɛ kɛse, hwɛ [how to choose dementia apps and gam
 
 ## Nneɛma a nnwomkɔ yi betumi ayɛ ne nneɛma a ɛntumi nyɛ
 
-Nnwomkɔ a ɛwɔ intaneti ma nnipa a wɔwɔ dementia nya anigye bere tiaa, hwɛ mfonini wɔ ho, na wɔn ho ayɛ wɔ ade a ɛnhia ahohia. Ɛntumi nyɛ dementia ayaresa, ɛnntew ne kɔ so, anaa ɛnntumi nkɔ so. Ɛbɛyɛ nkyerɛkyerɛ a ɛyɛ 2016 [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) a ɛfa nkɔsoɔ a wɔkaa a wɔantumi anhwɛ ho. Fa ho ɛnhwɛ ntɛntɛn wɔ nnwomkɔ, app anaa websaet a ɛka sɛ ɛbɛma adwene ayɛ yie, ɛbɛhwɛ wʼadwene anaa ɛbɛsesa sɛnea ɔyɛ den ankasa.
+Nnwomkɔ a ɛwɔ intaneti ma nnipa a wɔwɔ dementia nya anigye bere tiaa, hwɛ mfonini wɔ ho, na wɔn ho ayɛ wɔ ade a ɛnhia ahohia. Ɛntumi nyɛ dementia ayaresa, ɛnntew ne kɔ so, anaa ɛnntumi nkɔ so. Ɛbɛyɛ nkyerɛkyerɛ a ɛyɛ [Federal Trade Commission's 2016 action against Lumosity](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) a ɛfa nkɔsoɔ a wɔkaa a wɔantumi anhwɛ ho. Fa ho ɛnhwɛ ntɛntɛn wɔ nnwomkɔ, app anaa websaet a ɛka sɛ ɛbɛma adwene ayɛ yie, ɛbɛhwɛ wʼadwene anaa ɛbɛsesa sɛnea ɔyɛ den ankasa.
 
 Fa nnwomkɔ yi yɛ adwuma a ɛyɛ ɛka nnwom, nantew, asɛm ne ahome ho. Ma nsɛm a ɛyɛ mmerɛw a ɛfa nnwomkɔ ho, hwɛ [how to play games with someone who has dementia](/caregiving/how-to-play-together/) ne [memory games that do not test](/activities/memory-games/).
 

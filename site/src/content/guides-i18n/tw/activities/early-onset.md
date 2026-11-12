@@ -15,7 +15,7 @@ summary: >-
 keyPoints:
   - "Dementia a ɛfi ase ntɛm fi ase ansa na obi aduru 65. Nnipa pii hu sɛ wɔn mfe nni ho yɛ adwuma a wɔde ma wɔn."
   - "Ma obi no ara tumi paw nea ɔbɛyɛ, efi adekyeɛ a ɔbɛsɔ hwɛ kosi nea ɔbɛkɔ ne baabi."
-  - "Dwom, mfonini ne abakɔsɛm firi ne mfe 20 kosi 50 hwɛ sɛ ɛyɛ nea ɛwɔ hia sen nneyɛe a wɔyɛ wɔ ne mmere a ɔyɛ akɛse."
+  - "Dwom, mfonini ne abakɔsɛm firi n'asetena a ɛdi kan kosi n'asetena a ɛdi mu hwɛ sɛ ɛyɛ nea ɛwɔ hia sen nneyɛe a wɔyɛ wɔ ne mmere a ɔyɛ akɛse."
   - "Ma ɔno ntena adwuma ne nkɔm ase bere a ɔpɛ, na sesa ntɛmpɔn no, na ɛnyɛ sɛ wobɛsesa adwuma no."
   - "Ahwɛfoɔ, titiriw kunu ne mmofra a wɔakɔ, benefit firi nkɔm a nnipa a wɔne wɔn pɛ wɔ mu."
 faq:
@@ -45,7 +45,7 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Nsɛm pii a wɔka ho wɔ dementia no fa sɛ obi no yɛ mfe 70 anaa 80. Ɛbɛyɛ sɛ obi a wɔka ne yare wɔ ne mfe 40 anaa 50 no, nneɛma a ɛba n'afiase no yɛ adi soronko. Ɔbetumi nka sɛ ɔwɔ adwuma, ɔwɔ sika a ɔde ka ho, ɔwɔ mmofra a ɛwɔ fie, anaa ɔwɔ maame a ɔsɛ ɔhwɛ. Nneyɛe ho hia sɛ ɛhwɛ adwuma a obi no yɛ wɔ nkwa mu. Saa kratafa yi kyerɛ nneɛma a ɛsakra, nneɛma a wobetumi asɔ hwɛ, ne baabi a ɛbɛyɛ sɛ mpɔn ne ba a wɔakɔ hwehwɛ boafoɔ.
+Nsɛm pii a wɔka ho wɔ dementia no fa sɛ obi no yɛ mfe a ɛdi akyiri. Ɛbɛyɛ sɛ obi a wɔka ne yare wɔ ne mfe a ɛdi mu no, nneɛma a ɛba n'afiase no yɛ adi soronko. Ɔbetumi nka sɛ ɔwɔ adwuma, ɔwɔ sika a ɔde ka ho, ɔwɔ mmofra a ɛwɔ fie, anaa ɔwɔ maame a ɔsɛ ɔhwɛ. Nneyɛe ho hia sɛ ɛhwɛ adwuma a obi no yɛ wɔ nkwa mu. Saa kratafa yi kyerɛ nneɛma a ɛsakra, nneɛma a wobetumi asɔ hwɛ, ne baabi a ɛbɛyɛ sɛ mpɔn ne ba a wɔakɔ hwehwɛ boafoɔ.
 
 ## Dementia a ɛfi ase ntɛm ne dɛn?
 
@@ -55,7 +55,7 @@ Dementia a ɛfi ase ntɛm ne dementia a ɛfi ase ansa na obi aduru mfe 65, a wɔ
 
 ## Ma ɔkunu no ka adwuma no mu
 
-Nnipa a wɔwɔ early-onset dementia pɛ sɛ wɔnfa wɔn sɛ mmofra. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wɔnsesa adwuma sɛnea obi betumi ayɛ na ɔpɛ, a ɛma ɔkunu a ɔwɔ mfe 50 ayɛ:
+Nnipa a wɔwɔ early-onset dementia pɛ sɛ wɔnfa wɔn sɛ mmofra. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) kyerɛ sɛ wɔnsesa adwuma sɛnea obi betumi ayɛ na ɔpɛ, a ɛma ɔkunu a ɔwɔ mfe a ɛdi mu ayɛ:
 
 - **Kɔ so de adekyeɛ a ɔdɔ,** te sɛ dwumadie, agyinaso, kaad anaa nwoma ho kuw, anaa dwom kuw, de nkyerɛ nkɔm anaa bere tiaa.
 - **Nantew anaa tu ɔpɔnkɔ de ɔkamfo,** wɔ akwan a ɔnim yiye.
@@ -68,7 +68,7 @@ Ma obi no paw. Ɛyɛ nidi sen sɛ wobɛpaw ma no sɛ, "Wopɛ sɛ yɛyɛ dɛn ɛn
 
 ## Fa dwom ne nneɛma a ɔkaeɛ firi ne mmere
 
-Dwom ne mfonini firi mfe a ɔnyinyii, mfe 30, ne mfe 40 betumi ama adwene ne asɛm a ɛyɛ mmerɛw aba. [Music activities](/activities/music/) a ɛwɔ yɛn nkyerɛkyerɛ mu kyerɛ sɛnea wobɛyɛ playlist, na [reminiscence activities](/activities/reminiscence/) kyerɛ sɛnea wobɛkyerɛ mfonini ne nsɛm a wɔbɛnkyerɛ na wɔnnsɛ nsɛmmisa. Sɛ wopɛ adwuma a ɛfata nnipa akɛse, sɔ [conversation cards](/games/conversation-cards/) a ɛwɔ nsɛmmisa a ɛfa adwuma, akwantuo, nnamfo ne abusua ho.
+Dwom ne mfonini firi mfe a ɔnyinyii, mfe a ɛdi kan, ne mfe a ɛdi mu betumi ama adwene ne asɛm a ɛyɛ mmerɛw aba. [Music activities](/activities/music/) a ɛwɔ yɛn nkyerɛkyerɛ mu kyerɛ sɛnea wobɛyɛ playlist, na [reminiscence activities](/activities/reminiscence/) kyerɛ sɛnea wobɛkyerɛ mfonini ne nsɛm a wɔbɛnkyerɛ na wɔnnsɛ nsɛmmisa. Sɛ wopɛ adwuma a ɛfata nnipa akɛse, sɔ [conversation cards](/games/conversation-cards/) a ɛwɔ nsɛmmisa a ɛfa adwuma, akwantuo, nnamfo ne abusua ho.
 
 Mfonini a wɔafiri abusua mu nso betumi ayɛ yiye, efisɛ mfonini no yɛ nnipa ne baabi a ɛyɛ obi no dɔ. [Photo pairs](/games/photo-pairs/) de mfonini no sie wɔ browser mu wɔ saa device no so.
 
