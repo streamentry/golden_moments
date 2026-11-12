@@ -40,7 +40,7 @@ related: [caregiving/communication-tips, caregiving/repeated-questions, activiti
 health: true
 ---
 
-ଡିମେନ୍ସିଆ ଥିବା ବ୍ୟକ୍ତି ଆଉ ଆପଣଙ୍କୁ ଚିହ୍ନି ନ ପାରିଲେ ସେ ମୁହୂର୍ତ୍ତ ଦୁଃଖଦାୟକ ଓ ବିଭ୍ରାନ୍ତିକର ଲାଗିପାରେ। ଆପଣ ଭାବି ପାରନ୍ତି କ'ଣ କହିବେ, ବା ସମ୍ପର୍କ ପୁନଃ ବୁଝାଇବେ କି ନାହିଁ। ପ્રତ୍ୟେକ ପରିସ୍ଥିତି ଭିନ୍ନ। ବ୍ୟକ୍ତି ସୁରକ୍ଷିତ ଓ ଆରାମରେ ଅନୁଭବ କରିବା ପାଇଁ କ'ଣ ସାହାଯ୍ୟ କରେ, ସେଥିରୁ ଆରମ୍ଭ କରନ୍ତୁ, ସେମାନେ କ'ଣ ମନେ ରଖିଛନ୍ତି ତାହାର ପରୀକ୍ଷା ନୁହେଁ।
+ଡିମେନ୍ସିଆ ଥିବା ବ୍ୟକ୍ତି ଆଉ ଆପଣଙ୍କୁ ଚିହ୍ନି ନ ପାରିଲେ ସେ ମୁହୂର୍ତ୍ତ ଦୁଃଖଦାୟକ ଓ ବିଭ୍ରାନ୍ତିକର ଲାଗିପାରେ। ଆପଣ ଭାବି ପାରନ୍ତି କ'ଣ କହିବେ, ବା ସମ୍ପର୍କ ପୁନଃ ବୁଝାଇବେ କି ନାହିଁ। ପ୍ରତ୍ୟେକ ପରିସ୍ଥିତି ଭିନ୍ନ। ବ୍ୟକ୍ତି ସୁରକ୍ଷିତ ଓ ଆରାମରେ ଅନୁଭବ କରିବା ପାଇଁ କ'ଣ ସାହାଯ୍ୟ କରେ, ସେଥିରୁ ଆରମ୍ଭ କରନ୍ତୁ, ସେମାନେ କ'ଣ ମନେ ରଖିଛନ୍ତି ତାହାର ପରୀକ୍ଷା ନୁହେଁ।
 
 [Alzheimer's Association ର ସ୍ମୃତି ହ୍ରାସ ଓ ଭ୍ରମ ମାର୍ଗଦର୍ଶିକା](https://www.alz.org/help-support/caregiving/stages-behaviors/memory-loss-confusion)ରେ ପରିବାରକୁ ଚିହ୍ନି ନ ପାରିବା ଏକ ସମ୍ଭାବ୍ୟ ପରିବର୍ତ୍ତନ ଭାବରେ ଅନ୍ତର୍ଭୁକ୍ତ। [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/hallucinations-and-delusions) ଏବଂ [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/how-dementia-changes-perception) ବ୍ୟାଖ୍ୟା କରନ୍ତି ଯେ ବ୍ୟକ୍ତି ଜାଣିଥିବା ଲୋକଙ୍କୁ ଅନ୍ୟ କେହି ଭାବି ପାରନ୍ତି। ଏହା ସାଧାରଣ ମାର୍ଗଦର୍ଶନ; ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ପରିବର୍ତ୍ତନ କାହିଁକି ଘଟୁଛି ତାହା ଏହା କହିପାରିବ ନାହିଁ।
 
