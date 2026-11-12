@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Ndia tî tene na zo so ayeke na kobêla tî lê"
+seoTitle: "Ndia tî tene na zo so ayeke na kobêla tî lê"
+description: "Ndia tî tene na zo so ayeke na kobêla tî lê: léngö tî leke lisoro, aye so a lingbi ti sara wala ti sara pëpe, na léngö tî mä tënë."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Tene na yâ tî ndo so ayeke na siriri, bâ zo ni na lê, iri ïrï tî lo, nga tene na
+  yanga tî go na yâ tî mbamba kpälë tënë. Hunda mbamba hunda oko oko, mu soro na
+  yâ tî aye use wala hunda tî « ïn » wala « en-en », nga ku ngbâ ti ye so a lingbi ti
+  sara sï lo wara kiringo. Sara tënë na ngoi pëpe, sara asï na lege ni pëpe, nga
+  hunda zo pëpe. Kiri tënë na yâ tî bibê so a yeke na ndö tî tënë tî lo, nga sara
+  kua na gboto, na âfoto, na âlêgë tî tërê tî mo tongana tënë a ga kpälë.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Zia kpengba na peko nga bâ zo ni na lê kozo mo tö ndö tî tene."
+  - "Sara kua na âkpälë tënë, mbamba tënë oko na ngoi oko, nga iri âzo na ndö tî lo wala ala wala âla."
+  - "Mu soro na yâ tî aye use, wala hunda tî « ïn » wala « en-en », na ndö tî ahunda so ayeke huru."
+  - "Ku kiringo. Tongana a mä lo pëpe, kiri âmbênî tënë ni, na pekoni sara kua na ânde tënë."
+  - "Sara tënë na ngoi wala sara asï na lege ni pëpe. Kiri tënë na yâ tî bibê so a yeke na ndö tî aye so lo tene."
+  - "Tongana tënë a ga kpälë, sara lisoro na gboto, na yanga tî go tî mo, na lê tî yâ tî mo, nga na âfoto so âla kue abâ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Nyen a lingbi ti tene na zo so ayeke na kobêla tî lê pëpe?"
+    a: "Gbu li tî mo na ahunda tî hunda na ngoi (\"Mo lingbi mbï ti...?\"), sara asï na lege ni (\"So ayeke sïön pëpe\"), fa zo na agbïngö-yângâ tî lo (\"Mbï tene so awâ na mo\"), wala tene na ndö tî lo tongaso lo yeke dä pëpe. Tene na lo na lege tî molengé pëpe. Aye so a sara sï kamë a wara son wala a yeke na nzoni pëpe, nga a mû maboko pëpe."
+  - q: "Ë lingbi ti sara asï na lege ni tongana lo sala kusala na ndö tî atënë?"
+    a: "Mingï pëpe. Tongana kusala ni ayeke ngangu pëpe, zia ni. Tënë na ngoi a gbûnzi bibê tî lo nî pëpe, nga a sara sï lo wara nzoni pëpe. Bâ lé tî aye so lo yeke bâa na yâ tî bê tî lo na ngoi so sï."
+  - q: "Nyen ë lingbi ti sara tongana lo wara tënë pëpe?"
+    a: "Mu ngoi na lo kozo. Tongana lo yeke tî wara ngangu, a yeke nzoni ti mû mbamba tënë wala ti gi tënë so lo yeke tî tene nga hunda lo. Fango na âlêgë tî tërê tî mo wala âfoto a lingbi ti mû maboko."
+  - q: "Légé wa ë lingbi ti tene na zo so ayeke na yâ tî kobêla tî lê tî pekoni so a sara ngbâ ti tënë pëpe?"
+    a: "Londo lo na lê, fa iri tî mo, nga sara kua na yanga tî go tî siriri na mbamba gboto. Bâ lê tî yâ tî lo na tërê tî lo ti bâ abibê tî lo. Dütïngö tî mo, mbamba biani so lo hinga ni wala müngö tî maboko a lingbi ti fa tënë mingi, ata töngana âtënë ayeke dä pëpe."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Kobêla tî lê a lingbi ti sara sï warango tî âtënë a ga kpälë, mängö tî kpälë tënë, wala gbüngö kpengba na peko. So kue ayeke tî fa pëpe so zo ni a zia nzara tî lo tî lïngbi na ambeni zo. Âketê sôasôango na yâ tî léngö so mo leke lisoro, léngö so mo tene, nga léngö so mo mä tënë a lingbi ti mû maboko ti sara sï lisoro a ga yeke ngâ nga na siriri na ala kue.
 
-## What are the most important tips for talking with someone who has dementia?
+## Ândia nzoni wa a yeke da ti tene na zo so ayeke na kobêla tî lê?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Wara nzara tî lo, bata ni na lege tî hio, nga wara wungo-bê. Tongana mo lingbi ti ndâ na aye oko sï:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Sara sï ndo ni a yeke na siriri nga bâ zo ni na lê.** Zia tele wala radio, duti na lêgë oko na lo, nga iri ïrï tî lo.
+2. **Tene mbamba tënë oko na ngoi oko.** Âkpälë tënë, mbamba bibê oko, mbamba hunda oko.
+3. **Mu soro na yâ tî aye use.** « Thé wala café? » a yeke hio ahön ndö tî « Nyen mo ye ti nyon? »
+4. **Ku.** Mu ngoi ti wara kiringo ahön ndö tî aye so mo bi, nga gi ti kâ nî pëpe.
+5. **Sara tënë na ngoi wala hunda zo pëpe.** Kiri tënë na yâ tî aye so lo yeke bâa, na ndö tî sï atënë ayeke tâ wala nzoni pëpe.
 
-## How should I start a conversation?
+## Légé wa ë lingbi ti tö ndö tî lisoro?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Leke aye sï zo ni a lingbi ti bata bibê tî lo na ndo tî mo. [Atënë tî Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a fa na mo ti ketë kpengba kozo: zia radio wala tele, kanga âdengbe wala yanga, wala londo na ndo so ayeke na siriri ahön.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Londo lo na lê.** Londo na mbïni wala na gbängö a lingbi ti sara sï lo buba.
+- **Fa iri tî mo.** « Bara mo baba, mbï Sarah, molengé-wali tî mo. » So a mû maboko na lo ti wara ïrï tî mo pëpe.
+- **Ga na lêgë oko na lo.** Tongana lo dutï, duti wala gbä gèrê ti ga na lêgë oko na lê tî lo.
+- **Bâ lê tî yâ tî mo nga yanga tî go tî mo.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a fa na mo ti bâ yanga tî go tî mo, ngangu tî lo, lê tî yâ tî mo nga tërê tî mo, nga ti sara kua na lege tî ngbânga-bê na lege tî nzoni.
+- **Bâ sï âlunette nga âma-mä-tënë tî lo ayeke na ndo ni.** A yeke kpälë ti mä lisoro so mo lingbi ti bâ wala ti mä ni nzoni pëpe.
 
-## How should I phrase what I say?
+## Légé wa ë lingbi ti leke âtënë tî mbï?
 
-Use simple words, short sentences and a calm, low voice.
+Sara kua na âhio tënë, âkpälë tënë nga yanga tî go tî siriri so ayeke na gbe.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Mbamba bibê oko na yâ tî kpälë tënë oko.** « E yeke ti li bongo tî mo. Na pekoni e londo na kpo. » Na ndö ti tene ni kue na ngoi oko.
+- **Sara kua na âïrï, na ndö tî lo wala ala wala âla.** « Tante Jean a iri » a yeke hio ahön ndö tî « Lo iri. »
+- **Tene na gbe, na ndö ti kpakpa ngangu pëpe.** Family Caregiver Alliance a fa na mo ti sara kua na yanga tî go so ayeke na gbe ahön ndö tî yanga tî go so ayeke kpakpa.
+- **Kiri, na pekoni gbian tënë ni.** Tongana lo mä pëpe, kiri âmbênî tënë ni na ngoi oko. Tongana so a sara ye pëpe, ku kete ngoi nga tara ti tene na ânde tënë.
+- **Fa nga tene.** Fa na âlêgë tî verre, fa âbongo use, wala fa yètê kpälë kusala ni.
+- **Tene na lo, na ndö tî lo pëpe.** NIA a fa na mo ti tene na ndö tî zo ni tongaso lo yeke dä pëpe, nga ti tene na lo na lege tî molengé.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA a mû âhio lege tî ahunda so a sara ngbâ ti sara. Âtapande ayeke na yâ tî lege ni:
 
-| Instead of | Try |
+| Na ndö tî | Tara |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Nyen mo ye ti të na yâ tî lakwi? » | « Mo ye sïsï wala kondo tî ngonda? » |
+| « Mo yeke tongana nye? » | « Mo yeke na ngbungo tî tere? » |
+| « Nzara tî tënë a sara mo? » | « Tënë ni a ga yeke ni da na yâ tî âkota ngbangbo oko. » |
+| « Légé ni ayeke tongaso pëpe. » | « E tara ni tongaso. » |
+| « Mo lingbi ti gingo ti so e gue na tere tî ngu? » | « Mbï yeke tî bä ndö tî güengo tî e na tere tî ngu. Fa na mbï aye so mo ye na ni. » |
+| « Mbï tene so awâ na mo. » | Kiri tënë ni na lege tî nzoni, tongaso na yètê ngoi ni. |
 
-## How do I listen well?
+## Légé wa ë lingbi ti mä tënë nzoni?
 
-Listen for the meaning and the feeling, not just the words.
+Mä sïngö tî tënë nga bibê so a yeke na yâ ni, na ndö tî âtënë gbâ pëpe.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Ku.** Siriri a lingbi ti ga ngoi tî bibê. Dî na yâ tî bê tî mo ti si na oko ti awe kozo mo lï na popo tî lo.
+- **Mû tënë tongana lo wara ngangu sï.** Family Caregiver Alliance a tene so a yeke nzoni ti mû âtënë tongana zo a yeke tî wara ngangu.
+- **Bâ sï mo mä tënë ni nzoni.** [Atënë tî lisoro tî Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) a fa na mo ti gi sïngö tî âtënë tî lo nga ti kiri ni ti bâ sï mo mä ni nzoni. « Mo yeke na ngoi na ndö tî kutukutu? »
+- **Bâ lê tî yâ tî lo nga tërê tî lo.** Tongana sara tî tënë a ga kpälë, NIA a fa so lê tî yâ tî lo a lingbi ti fa vundu, ngonzo wala ngbangö-bê nzoni ahön ndö tî âtënë.
+- **Mü ayeke-ngoi tî lo na lege tî nzoni.** Ata tongana ayeke-ngoi ni a londo na ndo tî mbênî tënë so ayeke tâ, bibê ni ayeke tâ sï.
 
-## What if they say something that is not true?
+## Tongana lo tene mbênî tënë so ayeke tâ pëpe?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Sara tënë na ngoi pëpe. A ga kpälë ti sara sï mo wara ndali, nga zo ni a lingbi ti wara son wala mbïto na pekoni. Na ndö ni, lïngbi na bibê tî lo, na pekoni gbian ni na lege tî ngbânga-bê.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance a fa na mo ti bâ yâ tî bibê kozo mo gbian ni. Na tapande, tongana mama tî mo a tene kpälë-kpälë so a lingbi ti gue ti mû amolengé na da-mbëtï:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Na ndö tî: « Mama, amolengé tî mo akono awe. So angbâ na ngbêere oko na ângö. »
+- Tara: « Mo yeke fadeso mama tî ngbânga-bê. Fa na mbï na ndö tî müngö tî ala. E lingbi ti të mbênî yë kozo? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association a fa na mo nga ti sara tënë na ngoi na ndö tî atënë so mo mû lege na ni pëpe. Soro angbonga: tongana mbênî bibê so ayeke tâ a sara ngangu pëpe, zia ni tongaso.
 
-## How does communication change as dementia progresses?
+## Légé wa lisoro a gbian na pekoni tongana kobêla tî lê a ngbâ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Aye so a lingbi a gbian na ngoi, sô mo lingbi ti gbian lege tî mo. Alzheimer’s Association a fa na ndö tî ota akota angbonga:
 
-| Stage | What helps |
+| Angbonga | Aye so a mû maboko |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Na tongo nda ni | Gi ti bâ so lo lingbi ti sara lisoro pëpe. Zia lo na yâ tî lisoro, tene na lo, hunda lo nyen maboko so lo ye, nga sara kua na ngia tongana so a mû maboko. |
+| Na popo | Lisoro na ndö tî zo oko na ndo so ayeke na siriri. Tene na lege tî ngbânga-bê, bata lê na lê, sara kua na ahunda tî « ïn » wala « en-en », mu ândia na kpälë kpälë, nga sara atënë-tî-vundu wala sara asï na lege ni pëpe. |
+| Na pekoni | Londo lo na lê nga fa iri tî mo. Fa nzara tî fango na âlêgë tî tërê tî mo. Sara kua na gboto, âkpengba, âyë nga âfun. Tene ngbâ na lêgë so lo yeke dä pëpe. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Zo kue ayeke nde, nga zo oko a lingbi ti wara ânzoni alango na âkpälë alango. Kiri tënë na yâ tî léngö so lo yeke fadeso, na ndö tî mbênî ïrï pëpe.
 
-## Can pictures and activities make conversation easier?
+## Âfoto nga âsângo-yanga a lingbi ti sara sï lisoro a ga hio?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Ïn. Foto so ala kue abâ a zia ngbangö nga a mû aye na ala kue ti bâ wala ti fa na âlêgë tî tërê tî ala.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Âfoto ti lisoro.** [Conversation Cards](/games/conversation-cards/) a mû âfoto na ahunda so ayeke huru, so a hunda zo pëpe.
+- **Âfoto tî sewa.** [Photo Pairs](/games/photo-pairs/) a gbian âfoto so mo soro na yâ tî sângo-yanga tî ngbânga-bê, so a lingbi ti huru âtënë tî ngbêere.
+- **Âmbênî tënë so a hinga ni.** [Finish the Saying](/games/finish-the-saying/) a sara kua na âmbênî tënë so a hinga ni mingi, na pekoni a mû hunda ti lisoro.
+- **Âsângo-yanga tî lïngbi.** [Picture Pairs](/games/picture-pairs/) a mû kusala na âmaboko tî mo na ngoi so mo tene.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Bâ [légé ti sânga sângo-yanga kue na mo](/caregiving/how-to-play-together/) nga [âsângo-yanga tî tândä na ândö tî ngbêere](/activities/reminiscence/) ti wara âmbênî aye. Na ndö tî agüengo ti bâ zo nga abango tî tënë, dîko âatënë tî e na ndö tî [güengo ti bâ zo](/activities/visiting/) nga [abango tî tënë na video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Na ndö tî zo so a tene ayanga mingi, bâ [atënë tî e na ndö tî lisoro na popo tî ayanga](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Tongana wungo-bê tî mbï a hon?
+
+So a lï na ndo tî zo kue. NIA a fa na mo ti mu ngoi ti sara sï bê tî mo a ga na siriri tongana mo yeke na ngonzo. Londo na mbênî da, yû wungo-yângâ na lege tî ngbânga-bê, nga kiri tongana mo lingbi. Mo lingbi ti tö ndö tî lisoro ni na ndâ ni, nga a lingbi so zo ni a kiri tënë na yâ tî siriri tî mo. Tongana ngonzo ni a sara ngbâ ti ga na ngoi kue, so ayeke yângâ tî fa so mo ye maboko ahön, ayeke tî fa pëpe so mo sara pëpe. Atënë tî e na ndö tî [batango tî bê tî mo](/caregiving/caregiver-self-care/) a fa ândo so mo lingbi ti wara maboko.

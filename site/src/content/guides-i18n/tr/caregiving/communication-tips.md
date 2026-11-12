@@ -1,33 +1,33 @@
 ---
-title: "Demansı Olan Biriyle Konuşma İpuçları: Ne Söylemeli, Ne Söylememeli"
-seoTitle: "Demansla Yaşayan Biriyle Konuşma: Ne Söylemeli"
-description: "Demansla yaşayan biriyle nasıl konuşulur: sohbeti nasıl başlatmalı, sorgulamak ya da düzeltmek yerine ne söylemeli ve nasıl dinlemeli. Pratik ipuçları."
+title: "Demansla Yaşayan Biriyle İletişim İçin İpuçları"
+seoTitle: "Demans İletişim İpuçları: Ne Söylenir, Nelerden Kaçınılır"
+description: "Demansla yaşayan biriyle konuşmanın pratik yolları: sohbeti hazırlamak, sorgulamak veya düzeltmek yerine ne söylemek ve nasıl dinlemek."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sessiz bir yerde konuşun, kişiye dönün, adıyla hitap edin ve yavaş, kısa,
-  basit cümlelerle konuşun. Her seferinde tek soru sorun, açık sorular yerine iki
-  seçenek sunun ve doğal gelenden daha uzun bekleyin. Tartışmayın, düzeltmeyin,
-  sorguya çekmeyin. Sözlerin ardındaki duyguya karşılık verin; konuşma
-  zorlaştıkça dokunmayı, resimleri ve jestleri kullanın.
+  Sessiz bir yerde konuşun, kişinin yüzüne dönün, adını kullanın ve kısa, yalın
+  cümlelerle yavaş konuşun. Her seferinde tek bir soru sorun, açık uçlu sorular
+  yerine iki seçenek sunun ve size doğal gelenden daha uzun süre bekleyin.
+  Tartışmayın, düzeltmeyin ve sorgulamayın. Sözlerin arkasındaki duyguyu
+  yanıtlayın; konuşmak zorlaştıkça dokunuş, resimler ve jestlerle iletişim kurun.
 keyPoints:
-  - "Konuşmaya başlamadan önce arka plan gürültüsünü kesin ve göz teması kurun."
-  - "Kısa cümleler kullanın, her seferinde tek fikir verin ve “o” ya da “onlar” gibi zamirler yerine isimleri kullanın."
-  - "Açık sorular yerine iki seçenekli ya da evet-hayır soruları sorun."
-  - "Cevabı bekleyin. Anlaşılmadıysanız aynı sözleri tekrarlayın, sonra yeni sözcükler deneyin."
-  - "Tartışmayın ya da düzeltmeyin. Söylediklerinin ardındaki duyguya karşılık verin."
-  - "Sözcükler azaldıkça dokunma, ses tonu, yüz ifadesi ve birlikte bakılan resimlerle iletişim kurun."
+  - "Konuşmaya başlamadan önce ortam gürültüsünü azaltın ve göz teması kurun."
+  - "Kısa cümleler kurun, her seferinde tek bir düşünce paylaşın ve o, bu, onlar yerine ad kullanın."
+  - "Açık uçlu sorular yerine iki seçenek sunun ya da evet-hayır soruları sorun."
+  - "Yanıt için bekleyin. Anlaşılmadıysa aynı sözleri yineleyin, sonra farklı sözler deneyin."
+  - "Tartışmayın ve düzeltmeyin. Söylenenlerin arkasındaki duyguyu yanıtlayın."
+  - "Sözler zorlaştıkça dokunuş, ses tonu, yüz ifadesi ve birlikte bakılan resimlerle iletişim kurun."
 faq:
-  - q: "Demansı olan birine ne söylenmemeli?"
-    a: "Sorguya çekmekten (“Hatırlıyor musunuz...?”), düzeltmekten (“Yanlış”), kayıplarını hatırlatmaktan (“Size söylemiştim”) ve orada değilmiş gibi onun hakkında konuşmaktan kaçının. Bebek diliyle konuşmayın. Bunlar yardımcı olmadan utanmaya ya da sıkıntıya yol açma eğilimindedir."
-  - q: "Bilgileri yanlış söylediğinde düzeltmeli miyim?"
-    a: "Genellikle hayır. Yanlış bilgi zararsızsa üzerinde durmayın. Tartışmak nadiren kişinin fikrini değiştirir ve çoğu zaman onu üzer. Nasıl hissettiğine ve şu anda neye ihtiyacı olduğuna odaklanın."
+  - q: "Demansla yaşayan birine ne söylenmemeli?"
+    a: "Sorgulamaktan (“Hatırlıyor musun...?”), düzeltmekten (“Bu yanlış”), kayıpları hatırlatmaktan (“Sana zaten söyledim”) ve kişi oradaymış gibi hakkında konuşmaktan kaçının. Çocuk gibi konuşmaktan da kaçının. Bunlar genellikle yardımcı olmadan utanca veya üzüntüye yol açar."
+  - q: "Yanlış bir şey söylediğinde onu düzeltmeli miyim?"
+    a: "Genellikle hayır. Yanlış bilgi zararsızsa, üzerinde durmayın. Tartışmak kişinin fikrini nadiren değiştirir ve çoğu zaman onu üzer. Nasıl hissettiğine ve şu anda neye ihtiyacı olduğuna odaklanın."
   - q: "Sözcüğü bulamadığında ne yapmalıyım?"
-    a: "Önce ona zaman verin. Açıkça zorlanıyorsa nazikçe bir sözcük önermeniz ya da ne demek istediğini tahmin edip doğrulamanız uygundur. İşaret etmek, jestler ve resimler de yardımcı olabilir."
-  - q: "İleri evre demansı olan ve nadiren konuşan biriyle nasıl konuşurum?"
-    a: "Önden yaklaşın, kim olduğunuzu söyleyin, sakin bir ses ve nazik bir dokunuş kullanın. Duygular için yüzüne ve beden diline bakın. Sizin varlığınız, tanıdık bir şarkı ya da el ele tutuşmak, sözcük olmadan çok şey anlatabilir."
+    a: "Önce ona zaman verin. Belirgin şekilde zorlanıyorsa, nazikçe bir sözcük önermek ya da ne demek istediğini tahmin edip kontrol etmek uygun olabilir. İşaret etmek, jestler ve resimler de yardımcı olabilir."
+  - q: "İleri evre demansla yaşayan ve çok az konuşan biriyle nasıl konuşmalıyım?"
+    a: "Önden yaklaşın, kim olduğunuzu söyleyin, sakin bir ses tonu ve nazik bir dokunuş kullanın. Duyguları anlamak için yüz ifadesini ve beden dilini izleyin. Varlığınız, tanıdık bir şarkı veya el ele tutuşmak, sözsüz de çok şey anlatabilir."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +39,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Demans, sözcükleri bulmayı, uzun bir cümleyi izlemeyi ya da arka plandaki gürültüyü dışarıda bırakmayı zorlaştırabilir. Bunların hiçbiri kişinin bağ kurmak istemekten vazgeçtiği anlamına gelmez. Sohbeti nasıl kurduğunuzda, nasıl konuştuğunuzda ve nasıl dinlediğinizde yapacağınız küçük değişiklikler, konuşmayı ikiniz için de daha kolay ve sakin hâle getirebilir.
+Demans, sözcükleri bulmayı, uzun bir cümleyi takip etmeyi veya arka plan gürültüsünü engellemeyi zorlaştırabilir. Bunların hiçbiri, kişinin bağ kurma isteğinin kalmadığı anlamına gelmez. Sohbeti nasıl hazırladığınızda, nasıl konuştuğunuzda ve nasıl dinlediğinizde yapacağınız küçük değişiklikler, konuşmayı sizin ve bakım verdiğiniz kişi için daha kolay ve daha sakin hale getirebilir.
 
-## Demansı olan biriyle konuşmanın en önemli ipuçları nelerdir?
+## Demansla yaşayan biriyle konuşurken en önemli ipuçları nelerdir?
 
-Dikkatini çekin, basit tutun ve sabırlı olun. Yalnızca beş şey hatırlayacaksanız:
+Dikkatini alın, konuşmanızı sade tutun ve sabırlı olun. Yalnızca beş şeyi hatırlayacaksanız:
 
-1. **Odayı sessizleştirin ve kişiye dönün.** Televizyonu kapatın, göz hizasında oturun ve adıyla hitap edin.
-2. **Bir seferde tek şey söyleyin.** Kısa cümleler, tek fikir, tek soru.
-3. **İki seçenek sunun.** “Çay mı kahve mi?”, “Ne istersiniz?” sorusundan daha kolaydır.
-4. **Bekleyin.** Doğal gelenden daha fazla cevap süresi verin ve sözünü kesmemeye çalışın.
-5. **Asla tartışmayın ya da sorguya çekmeyin.** Gerçeklerin doğru olup olmadığına değil, nasıl hissettiğine karşılık verin.
+1. **Ortamı sessizleştirin ve yüzüne dönün.** Televizyonu kapatın, göz hizasında oturun ve adını kullanın.
+2. **Her seferinde tek bir şey söyleyin.** Kısa cümleler, tek bir düşünce, tek bir soru.
+3. **İki seçenek sunun.** “Çay mı kahve mi?” sorusu, “Ne istersin?” sorusundan daha kolaydır.
+4. **Bekleyin.** Yanıt için size doğal gelenden daha uzun süre verin ve sözünü kesmemeye çalışın.
+5. **Asla tartışmayın veya sorgulamayın.** Bilgilerin doğru olup olmadığına değil, nasıl hissettiğine yanıt verin.
 
-## Sohbeti nasıl başlatmalıyım?
+## Bir sohbete nasıl başlamalıyım?
 
-Kişinin size odaklanabileceği şekilde ortamı hazırlayın. [Family Caregiver Alliance rehberi](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) önce gürültüyü sınırlamayı öneriyor: radyoyu ya da televizyonu kapatın, perdeyi ya da kapıyı kapatın veya daha sessiz bir yere geçin.
+Ortamı, kişinin size odaklanabileceği şekilde düzenleyin. [Family Caregiver Alliance rehberi](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), önce gürültüyü azaltmayı önerir: Radyoyu veya televizyonu kapatın, perdeleri ya da kapıyı kapatın veya daha sessiz bir yere geçin.
 
-- **Önden yaklaşın.** Arkadan ya da yandan gelmek ürkütebilir.
-- **Kim olduğunuzu söyleyin.** “Merhaba baba, ben Elif, kızın.” Bu, adınızı aramak zorunda kalmasını önler.
-- **Göz hizasına inin.** Oturuyorsa oturun ya da diz çökün; böylece gözleriniz aynı hizada olur.
-- **Yüzünüze ve ses tonunuza dikkat edin.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers), ses tonunuzun, ses yüksekliğinizin, yüz ifadenizin ve beden dilinizin farkında olmanızı ve sıcak, doğal bir tavır hedeflemenizi öneriyor.
-- **Gözlüğün ve işitme cihazının takılı olduğundan emin olun.** Tam göremediğiniz ya da duyamadığınız bir sohbeti izlemek zordur.
+- **Önden yaklaşın.** Arkadan veya yandan yaklaşmak kişiyi şaşırtabilir.
+- **Kim olduğunuzu söyleyin.** “Merhaba baba, ben Sarah, kızınım.” Bu, kişinin adınızı aramak zorunda kalmasını önler.
+- **Göz hizasına inin.** Oturuyorsa, siz de oturun veya diz çökün; gözleriniz aynı hizada olsun.
+- **Yüz ifadenize ve ses tonunuza dikkat edin.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers), ses tonunuzun, ses seviyenizin, yüz ifadenizin ve beden dilinizin farkında olmanızı; sıcak ve sakin bir üslup benimsemenizi önerir.
+- **Gözlük ve işitme cihazlarının takılı olduğundan emin olun.** Tam olarak göremediğiniz veya duyamadığınız bir konuşmayı takip etmek zordur.
 
 ## Söylediklerimi nasıl ifade etmeliyim?
 
-Basit sözcükler, kısa cümleler ve sakin, alçak bir ses kullanın.
+Yalın sözcükler, kısa cümleler ve sakin, alçak bir ses tonu kullanın.
 
-- **Cümle başına tek fikir.** “Montunuzu giyelim. Sonra dışarı çıkarız.” İkisini tek nefeste söylemeyin.
-- **Zamir değil isim kullanın.** “Ayşe teyze aradı”, “O aradı”dan daha açıktır.
-- **Sesinizi yükseltmeyin, alçaltın.** Family Caregiver Alliance, sesi yükseltmek yerine daha alçak bir ses kullanmayı öneriyor.
-- **Tekrarlayın, sonra başka türlü söyleyin.** Anlamadıysa aynı sözcükleri bir kez tekrarlayın. İşe yaramazsa bir an bekleyin ve farklı sözcükler deneyin.
-- **Söylemekle kalmayın, gösterin.** Fincanı işaret edin, iki kazağı gösterin ya da ilk adımı gösterin.
-- **Onunla konuşun, onun hakkında değil.** NIA, kişi orada değilmiş gibi onun hakkında konuşmaya ve “bebek diline” karşı uyarıyor.
+- **Her cümlede tek bir düşünce olsun.** “Hadi montunu giyelim. Sonra dışarı çıkacağız.” İkisini aynı anda söylemeyin.
+- **Zamir yerine ad kullanın.** “Jean teyzen aradı” ifadesi, “O aradı” ifadesinden daha açıktır.
+- **Sesinizi yükseltmek yerine alçaltın.** Family Caregiver Alliance, sesi yükseltmek yerine daha alçak bir ses tonu kullanmayı önerir.
+- **Önce yineleyin, sonra farklı ifade edin.** Anlamadıysa, aynı sözleri bir kez yineleyin. Bu işe yaramazsa, bir an bekleyin ve farklı sözcüklerle deneyin.
+- **Anlattığınız kadar gösterin de.** Bardağı işaret edin, iki kazağı gösterin veya ilk adımı yaparak gösterin.
+- **Onunla konuşun, hakkında konuşmayın.** NIA, kişi oradaymış gibi hakkında konuşmaktan ve “çocuk gibi konuşmaktan” kaçınmayı öğütler.
 
-NIA, sık sorulan soruların daha basit hâllerini öneriyor. Bu anlayışta bazı örnekler:
+NIA, yaygın soruların daha yalın biçimlerini önerir. İşte bu anlayışa uygun örnekler:
 
-| Yerine | Deneyin |
+| Bunun yerine | Şunu deneyin |
 | --- | --- |
-| “Akşam yemeğinde ne istersiniz?” | “Balık mı tavuk mu istersiniz?” |
-| “Nasıl hissediyorsunuz?” | “Yorgun musunuz?” |
-| “Aç mısınız?” | “Yemek beş dakika sonra hazır.” |
-| “Bu böyle yapılmaz.” | “Bir de şöyle deneyelim.” |
-| “Göle gittiğimiz geziyi hatırlıyor musunuz?” | “Göle gittiğimiz geziyi düşünüyordum. Bana en çok neyi sevdiğinizi anlatır mısınız?” |
-| “Size söylemiştim.” | Nazikçe, ilk kez soruluyormuş gibi yeniden cevap verin. |
+| “Akşam yemeğinde ne istersin?” | “Balık mı tavuk mu istersin?” |
+| “Nasıl hissediyorsun?” | “Kendini yorgun mu hissediyorsun?” |
+| “Acıktın mı?” | “Akşam yemeği beş dakika içinde hazır olacak.” |
+| “Böyle yapılmıyor.” | “Bunu şöyle deneyelim.” |
+| “Göl kenarındaki gezimizi hatırlıyor musun?” | “Göl kenarındaki gezimizi düşünüyordum. Orada en çok nelerden hoşlandığını anlatır mısın?” |
+| “Sana zaten söyledim.” | Sanki ilk kez söylüyormuş gibi nazikçe yeniden yanıtlayın. |
 
-## İyi dinlemeyi nasıl yaparım?
+## Nasıl iyi dinlerim?
 
-Yalnızca sözcüklere değil, anlama ve duyguya kulak verin.
+Yalnızca sözcüklere değil, anlama ve duygulara kulak verin.
 
-- **Bekleyin.** Sessizlik çoğu zaman düşünme zamanıdır. Araya girmeden önce yavaşça ona kadar sayın.
-- **Yalnızca takılırsa sözcük önerin.** Family Caregiver Alliance, biri zorlanırken sözcük önermenin uygun olduğunu söylüyor.
-- **Ne duyduğunuzu doğrulayın.** [Alzheimer's Association'ın iletişim rehberi](https://www.alz.org/help-support/caregiving/daily-care/communications), sözlerinin ardındaki anlamı aramanızı ve anladığınızı doğrulamak için yeniden ifade etmenizi öneriyor. “Arabadan mı endişe ediyorsunuz?”
-- **Yüzüne ve bedenine bakın.** NIA’nın belirttiğine göre konuşma zorlaştıkça yüz ifadeleri üzüntüyü, öfkeyi ya da hayal kırıklığını sözcüklerden daha net gösterebilir.
-- **Endişelerini ciddiye alın.** Bir endişe yanlış bir bilgiye dayansa bile duygu gerçektir.
+- **Bekleyin.** Sessizlik çoğu zaman düşünme süresidir. Araya girmeden önce yavaşça ona kadar sayın.
+- **Yalnızca takıldığında bir sözcük önerin.** Family Caregiver Alliance, biri zorlandığında sözcük önermenin uygun olduğunu belirtir.
+- **Duyduğunuzu kontrol edin.** [Alzheimer's Association iletişim rehberi](https://www.alz.org/help-support/caregiving/daily-care/communications), sözcüklerin arkasındaki anlamı aramayı ve doğru anlayıp anlamadığınızı kontrol etmek için yeniden ifade etmeyi önerir. “Araba için mi endişeleniyorsun?”
+- **Yüzünü ve bedenini izleyin.** NIA, konuşmak zorlaştıkça yüz ifadelerinin üzüntü, öfke veya hayal kırıklığını sözcüklerden daha açık gösterebileceğini belirtir.
+- **Kaygıları ciddiye alın.** Bir endişe yanlış bir bilgiye dayansa bile, duygu gerçektir.
 
-## Doğru olmayan bir şey söylerse ne olur?
+## Doğru olmayan bir şey söylerse ne yapmalıyım?
 
-Tartışmayın. Kazanma ihtimaliniz düşüktür ve kişi utanmış ya da korkmuş hissedebilir. Bunun yerine duyguyla bağ kurun, sonra nazikçe devam edin.
+Tartışmayın. Karşı tarafı ikna etmeniz pek olası değildir ve kişi kendini utanmış veya korkmuş hissedebilir. Bunun yerine duyguyla bağ kurun, sonra nazikçe konuyu değiştirin.
 
-Family Caregiver Alliance, dikkati başka yöne çevirmeden önce duyguyu kabul etmeyi öneriyor. Örneğin annenizin çocukları okuldan alması gerektiği konusunda ısrar ettiğini varsayalım:
+Family Caregiver Alliance, yönlendirmeden önce duyguyu kabul etmeyi önerir. Örneğin anneniz çocukları okuldan almaya gitmesi gerektiğinde ısrar ederse:
 
-- Şöyle demek yerine: “Anne, çocukların büyüdü. Bu kırk yıl önceydi.”
-- Şunu deneyin: “Hep çok şefkatli bir anneydin. Onları okuldan almaktan söz et bana. Önce bir şeyler atıştıralım mı?”
+- Bunun yerine: “Anne, çocukların büyüdü. Aradan kırk yıl geçti.”
+- Şunu deneyin: “Sen her zaman çok ilgili bir anneydin. Onları almaya gittiğin zamanları anlatır mısın? Önce bir şeyler atıştıralım mı?”
 
-Alzheimer's Association da aynı fikirde olmadığınız ifadeler üzerine tartışmamayı öneriyor. Anları seçin: yanlış bir inanç zararsızsa öyle kalsın.
+Alzheimer's Association da katılmadığınız ifadeler üzerine tartışmamayı öğütler. Anınızı seçin: Yanlış bir inanç zararsızsa, olduğu gibi bırakın.
 
 ## Demans ilerledikçe iletişim nasıl değişir?
 
-İhtiyaçlar zamanla değişir; bu yüzden yaklaşımınızı ayarlayın. Alzheimer's Association üç geniş evreyi anlatıyor:
+İhtiyaçlar zamanla değişir, bu nedenle yaklaşımınızı uyarlayın. Alzheimer's Association üç genel dönemden söz eder:
 
-| Evre | Ne yardımcı olur |
+| Evre | Neler yardımcı olur |
 | --- | --- |
-| Erken | İletişim kuramayacağını varsaymayın. Onu sohbetlere dahil edin, doğrudan ona konuşun, hangi desteği istediğini sorun ve işe yarıyorsa mizah kullanın. |
-| Orta | Sessiz bir yerde birebir konuşmalar. Yavaş konuşun, göz temasını koruyun, evet-hayır soruları kullanın, adım adım yönergeler verin ve eleştirmeyin ya da düzeltmeyin. |
-| İleri | Önden yaklaşın ve kim olduğunuzu söyleyin. İşaret etmeyi ve jestleri teşvik edin. Dokunmayı, sesleri, görüntüleri ve kokuları kullanın. Orada değilmiş gibi asla onun hakkında konuşmayın. |
+| Erken evre | İletişim kuramayacağını varsaymayın. Onu sohbetlere dahil edin, doğrudan onunla konuşun, ne tür destek istediğini sorun ve yardımcı oluyorsa mizah kullanın. |
+| Orta evre | Sessiz bir yerde bire bir konuşun. Yavaş konuşun, göz temasını sürdürün, evet-hayır soruları sorun, adım adım yönergeler verin, eleştirmeyin ve düzeltmeyin. |
+| İleri evre | Önden yaklaşın ve kim olduğunuzu söyleyin. İşaret etmeyi ve jestleri teşvik edin. Dokunuş, sesler, görüntüler ve kokular kullanın. Asla orada değilmiş gibi konuşmayın. |
 
-Her insan farklıdır ve aynı kişinin iyi ve zor günleri olabilir. Bir etikete değil, şu anda nasıl olduğuna karşılık verin.
+Her kişi farklıdır ve aynı kişi için iyi günler ve daha zor günler olabilir. Bir etikete değil, şu anda nasıl olduğuna yanıt verin.
 
 ## Resimler ve etkinlikler sohbeti kolaylaştırabilir mi?
 
-Evet. Birlikte bakılan bir resim baskıyı hafifletir ve ikinize de bakacak ve işaret edecek bir şey verir.
+Evet. Ortak bir resim baskıyı azaltır ve ikinize de bakıp işaret edebileceğiniz bir şey sunar.
 
-- **Resimli ipuçları.** [Sohbet kartları](/games/conversation-cards/), asla sorgulamayan açık sorularla resimler sunar.
-- **Aile fotoğrafları.** [Fotoğraf eşleştirme](/games/photo-pairs/), seçtiğiniz fotoğrafları nazik bir eşleştirme oyununa dönüştürür; bu da çoğu zaman hikâyeleri başlatır.
-- **Tanıdık sözler.** [Atasözünü tamamla](/games/finish-the-saying/), iyi bilinen sözler kullanır ve ardından bir sohbet ipucu verir.
-- **Arka plan olarak eşleştirme oyunları.** [Resim eşleştirme](/games/picture-pairs/), siz sohbet ederken ellerine bir iş verir.
+- **Resimli sohbet başlatıcılar.** [Conversation Cards](/games/conversation-cards/), hiçbir zaman sorgulamayan açık uçlu sorularla resimler sunar.
+- **Aile fotoğrafları.** [Photo Pairs](/games/photo-pairs/), seçtiğiniz fotoğrafları nazik bir eşleştirme oyununa dönüştürür; bu da çoğu zaman anıların paylaşılmasına yol açabilir.
+- **Tanıdık sözler.** [Finish the Saying](/games/finish-the-saying/), iyi bilinen Amerikan deyimlerini kullanır ve ardından bir sohbet sorusu sunar.
+- **Arka planda eşleştirme oyunları.** [Picture Pairs](/games/picture-pairs/), sohbet ederken ellerinize yapacak bir şey verir.
 
-Daha fazlası için [birlikte oyun oynama](/caregiving/how-to-play-together/) ve [anıları anma etkinliklerine](/activities/reminiscence/) bakın. Ziyaretler ve aramalar için [ziyaret](/activities/visiting/) ve [telefon ve görüntülü görüşme](/activities/phone-and-video-calls/) rehberlerimizi okuyun.
+Daha fazlası için [birlikte nasıl oyun oynanır](/caregiving/how-to-play-together/) ve [anımsama etkinlikleri](/activities/reminiscence/) sayfalarına bakın. Ziyaretler ve aramalar için [ziyaret etme](/activities/visiting/) ve [telefon ve görüntülü aramalar](/activities/phone-and-video-calls/) rehberlerimizi okuyun.
 
-## Sabrımı kaybedersem ne olur?
+Birden fazla dil konuşan biri için [diller arası iletişim rehberimize](/caregiving/language-and-dementia-communication/) bakın.
 
-Herkesin başına gelir. NIA, sinirlendiğinizde sakinleşmek için biraz zaman ayırmanızı öneriyor. Başka bir odaya geçin, birkaç yavaş nefes alın ve hazır olduğunuzda geri dönün. Sohbete her zaman yeniden başlayabilirsiniz ve kişi daha sakin ruh halinize büyük olasılıkla karşılık verecektir. Hayal kırıklığı sürekli hâle geliyorsa, bu başarısız olduğunuzun değil, daha fazla desteğe ihtiyacınız olduğunun işaretidir. [Bakım verenin kendine bakımı](/caregiving/caregiver-self-care/) rehberimiz başvurabileceğiniz yerleri listeliyor.
+## Sabrım taşarsa ne yapmalıyım?
+
+Bu herkesin başına gelebilir. NIA, kendinizi zorlanmış hissederseniz sakinleşmek için biraz zaman ayırmanızı önerir. Başka bir odaya geçin, birkaç yavaş nefes alın ve kendinizi daha sakin hissettiğinizde geri dönün. Sohbete her zaman yeniden başlayabilirsiniz ve kişi daha sakin halinize iyi yanıt verebilir. Bu zorlanma sürekli hale geliyorsa, bu başarısız olduğunuzun değil, daha fazla desteğe ihtiyaç duyduğunuzun bir işaretidir. [Bakım verenler için öz bakım](/caregiving/caregiver-self-care/) rehberimizde başvurabileceğiniz yerler bulabilirsiniz.

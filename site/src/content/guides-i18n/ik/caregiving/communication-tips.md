@@ -1,33 +1,33 @@
 ---
-title: "Uqaluktitñi ikayuutit dementiaqaqtumik"
-seoTitle: "Dementia uqaluktitñi: qanuq uqalukniq"
-description: "Ikayuutit uqaluktitñi dementiaqaqtumik: qanuq pigiagniq, suna uqaluktaġniqsaq, suli qanuq naalaġniq."
+title: "Uqautchikun ikayuutit: uqaqatigiġnaqługu inuk dementia-lik"
+seoTitle: "Dementia uqautchikun ikayuutit: uqaqtuat aglaat"
+description: "Ikayuutit uqaqatigiġnaqługich inuk dementia-lik: qaiñiq uqautchiġniaqtuq, suna uqautigiñiaqtuq, qanurli naalaġniaqtuq."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Uqalukqi nipaiqsami, inuum kigiŋagun uqalukługu, atqa atuġlugu, suli
-  sukatchiani naipiqtumi uqallautinik uqaluk. Atausiq apiqqun taimaagmi, apiqqutini
-  aŋitchianik malġuŋnik piŋŋaġluk, suli utaqqiḷḷaŋaruq isumagigigñiqsaqñik. Akiḷḷaġnasi,
-  iluiññaqtuiññasi suli apirriqsuiññasi. Kiuvigiŋŋa iḷitqusiat uqausiit tunŋaanun, suli
-  aktuqtaun, piksraqtautit, iḷḷatiqsautit atuġlugit uqausiit suliġmata.
+  Uqaqatigiigik nipaitchumi, qiñiġlugu inuk, atchaanik atuġlugu, uqallak
+  sukkasuġlugu uqautinik naŋŋiitchuanik. Apiqsruġlugu atausiġmik apiqqutimik,
+  nalunaiqsiguk malġuk piġukpakkik, utaqqiḷḷu sivunniġiḷlugu. Akkiuŋitchuŋa,
+  aaqqiŋitchuŋa, apiqsruŋitchuŋalu itqaumaniġmik. Kiuvigiuk isumaa uqautini,
+  aktuġlugiḷḷu aktuqtuutit, aglaktaat, argaksaallu uqautit piḷḷuata.
 keyPoints:
-  - "Nipaitchuiḷḷaġu iñiq suli iñuum iññi tautuŋŋa pigiagñiaġikpiñ uqaluktitñik."
-  - "Naipiqtunik uqallautinik atuġin, atausiq isumaa taimaagmi, suli atqanik atuġin ilaiññun taiguaqtitñik."
-  - "Malġuŋnik piŋŋaġutitaiññiq, uvva ii-aga apiqqut, aŋitchiani apiqqutiniññiqsaq."
-  - "Utaqqiḷḷaŋaruq kiuvia. Naalaġumiññagu, atausiqtukkut uqautchikkit, taigua taŋŋiqsaaq uqausiŋnik atuġin."
-  - "Akiḷḷaġnasi suli iluiññaqtuiññasi. Kiuvigiŋŋa qanuq iḷitqusiq uqausiit tunŋaanun."
-  - "Uqausiit suliġmata, uqaluktigñiq aktuqtautikun, nipiqqusiakun, kigiŋakun suli piqatauyumi piksraqtautiniglu."
+  - "Nipaitchuk iñiq, qiñiqatigiiglu uqaqtiŋŋaġmiḷu."
+  - "Atuġlukit uqautit naŋŋiitchuat, atausiq isumaaq atausiġmi, atqallu atuġlugit kiiññakun."
+  - "Nalunaiqsiguk malġuk piġukpakkik, imaluunniit ii-ŋŋa-ŋŋa apiqqut, apiqqutimit aŋiḷḷaġmiñ."
+  - "Utaqqiḷlugu kiuviñmik. Tusaagasuiññagumi, uqallak avatimik, taaġnalu allaŋnik uqautinik."
+  - "Akkiuŋitchuŋa, aaqqiŋitchuŋalu. Kiuvigiuk isumaa uqautini."
+  - "Uqautit piḷḷuata, uqaqatigiigiḷlugu aktuqtuutinik, nipamik, kigitimik, aglaktaaniklu avatimnik."
 faq:
-  - q: "Suna uqaluktaunġitchaiññiq dementiaqaqtumik?"
-    a: "Apirriqsuiññiq (\"Iññiqsuiññiqpiñ...?\"), iluiññaqtuiññiq (\"Taamna iluaŋitchuq\"), tammaqsimaniŋanik itqaumaġutiqsuut (\"Uqautchiktuŋa\"), suli uvaŋa taŋŋiŋaniġmi uqaluktitñiq atuġnasi. Nutaraugun uqaluktuiññasi. Taukuat kanniqsisuut qiñiġñiqsisuullu ikayuġniqsuġaiḷḷutik."
-  - q: "Iluiññaqtuksraqpiŋa iluaŋitkaluaġumi?"
-    a: "Amisuuvani pitaqługu. Iluaŋitkaluaq aquviġumiññagu, taimaali. Akiḷḷaġniq iñuum isumaa allanniġumiññaaqtuq, aglaan qiñiġñiqsisuulluni. Iḷitqusiat suli pisuktat uvuŋa taŋŋiŋanun kamagiŋŋa."
-  - q: "Suna piḷḷugu uqausiq naviġumiññagu?"
-    a: "Utaqqiḷḷaŋaruq sivulliq. Qanuq nalaunmiññagu, ikayuġnaqtuq uqausiq piqpagniq uvva apirriqługu iluaŋitkaa. Uqautiqsraqtautit, iḷḷatiqsautit suli piksraqtautit ikayuġnaqtuut."
-  - q: "Qanuq uqaluktitñiqsaq uqaluktuġaġmiññagumi?"
-    a: "Kigiŋagun saŋŋi, kinaunigñik uqallak, nipaiqsakun nipikun suli aktuqtautimik atuġlutin. Kigiŋa timalu tautugik iḷitqusiat naipiqtuġlugit. Taŋŋiŋatigñiq, ilisaq atchiq uvva argak aktuqtautigiŋŋa uqausiqsuġaiḷḷutik amisuŋnik uqaqtautauŋnaqtuq."
+  - q: "Suna uqautigiñiaŋitchuŋa inukmun dementia-ligmik?"
+    a: "Apiqsruŋitchuŋa itqaumaniġmik („Itqauvitpiun?“), aaqqiŋitchuŋa („Taamna nalaŋitchuq“), itqaumaksraiŋitchuŋalu tammagaanik („Uqaluktuŋa taaptumaŋa“) imaalu uqaqtigiŋitchuŋa inuk tasiġmiñ ittuŋasugilugu. Nutaraqsuŋitchuŋalu. Tamakkuat kangusuktitaasuurut ikayuŋił̣ł̣uŋisigai."
+  - q: "Aaqqiksraġigiga uqaluŋagumi nalaŋitchuanik?"
+    a: "Ammakkaq atchaksraŋitchuq. Nalaŋitchuaq aqulliŋagumi, piñaksaġilugu. Akkiuġaġniq iñuum isumaatigut allanguutigivallaiññiaqtait, aqaluktitkaasuurullu. Isumaanik qanuq ittuŋanik piḷḷuata tugliġuk."
+  - q: "Sumiḷi uqautimik naviñiaŋitchuŋagumi?"
+    a: "Utaqqiḷlugu sivulliq. Aŋalatchigiḷlugu ikayuġniaqtutin uqautimik nalunaiqsiḷlugulu isumaminik, apiqsruġlutiḷu nalaunŋaruq. Tigummiirutit, argaksaat, aglaktaallu ikayuutaasuurut."
+  - q: "Qanuq uqaqatigiġniaqpiŋa inuk uqausiḷ̣ḷuata, uqaqtuŋaruq?"
+    a: "Sivunniġñi qaiġlutin, uqallak kinauvit, nipamik satqunnaqtuamik atuġlutin, saktumiḷḷu aktuġlutin. Qiñigilugit kigiŋit timmiŋalu isumaanik takkuġlugit. Iḷuvni ittutigin, atuutchiaq ilisimasuq, imaluunniit argautchikun aktuqtuq ikayuutaġniġaaq uqautinik pitquŋił̣ł̣uni."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +39,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia uqausiit naviqsitniġisigut, takiq uqallaut naalaġniġisigut, uvva nipaitchuiñiq aquviqsitniġisigut sapiġnaqtuq. Taamna isumaaġitniaŋitchuq inuum ilaanun piqatauyumaunaqsigaa. Mikitqiat allaniġniqsat qanuq uqaluktitñiq pigiagniġigñik, qanuq uqalukniġigñik suli qanuq naalaġniġigñik, uqaluktitñiq mikiġḷiuġnaqtuq suli nipaiġḷiuġnaqtuq ilivsiññun malġuuġnik.
+Dementia-ḷu uqautinik naviñiaqsiññaqtait, takku uqautit sivisuuġut tusaumaġniaqsiññaqtait, nipillu allat naalaŋniaqsiññaqtait. Taamna nalunaiqsuŋił̣ł̣ugu inuk piŋasugisaġuiqł̣uni ilauniq. Mikiġuuruat allanguqtut qaiñiq uqaqatigiigñiaġuvich, qanuq uqallakniaġuvich, qanuqlu naalaġniaġuvich, uqaqatigiigniq ikayuġniġaa, satqunnaqsisaġlugulu ilivsiḷḷu.
 
-## Sunat atausiġñiqsaq ikayuutit uqaluktitñi dementiaqaqtumik?
+## Sumik ikayuutinik nalaunŋaruakun uqaqatigiġnaqługu inuk dementia-lik?
 
-Naalaktuŋŋa, piqpagniq, suli utaqqiḷḷaŋaruq. Tallimanik iññiqsraġuviñ:
+Nalautchaaġa naalaġtiġlugu, naŋŋiitchuakługu, utaqqivigilu. Tallimanik itqauguvich:
 
-1. **Nipaitchuiḷḷaġu iñiq suli kigiŋagun uqaluk.** TV qiḷaŋŋa, iññi avataanun aquvit, suli atqa atuġlugu.
-2. **Atausiq uqausiq taimaagmi.** Naipiqtut uqallautit, atausiq isumaa, atausiq apiqqut.
-3. **Malġuŋnik piŋŋaġutitaiññiq.** “Coffee-lu tea-ḷu?” apiqqutaun aŋitchiani “Suna piŋusukkikpiñ?”
-4. **Utaqqiḷḷaŋaruq.** Kiuviaksraŋanik utaqqiḷḷaŋaruq isumagigigñiqsaqñik, suli uqaqtiġaiññagiḷḷaŋaruq.
-5. **Akiḷḷaġnasi suli apirriqsuiññasi.** Qanuq iḷitqusiq kiuvigiŋŋa, iluaŋiŋat iluaŋitniŋallu pisuktaunġitkaluaġumi.
+1. **Nipaitchuk iñiq qiñiqatigiigiḷlugulu.** TV-guaq qamitkik, aquvitigilugu irri qiñiqatigiigiḷlugu, atchaanillu atuġlugu.
+2. **Atausiġmik uqallak.** Uqautit naŋŋiitchuat, atausiq isumaaq, atausiq apiqqut.
+3. **Nalunaiqsiguk malġuk piġukpakkik.** „Tii-na immaqaq kaapi-na?“ ikayuutaunġaruq apiqqutimit „Sumiñik imiqsukpiñ?“.
+4. **Utaqqiḷlugu.** Utaqqisigiñaqtutin kiuviñmik sivunniġiḷlugu, akkupaksriŋił̣ḷuŋalu.
+5. **Akkiuŋitchuŋa, apiqsruŋitchuŋalu itqaumaniġmik.** Kiuvigiuk qanuq isummanŋanik, nalaunŋaruakun uqaluaŋił̣ḷuŋanik.
 
-## Qanuq uqaluktitñiq pigiaqniaġiga?
+## Qanuq uqaqatiqatiġniaqpiŋa?
 
-Piqpaksriuq inuk ilignun kamagiŋniaqtuaq. [Family Caregiver Alliance-m ikayuutaŋa](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nipaitchuiñiq sivulliqpigaa: radio uvva TV qiḷaŋŋa, qiḷaŋŋiuvik uvva upkuak paġlaqługik, uvva nipaiqsaruanun nuutin.
+Piqsiññaqtilugu inuk iligniq naalaġtigiñaqłutin. [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sivulliq nipaitchukquvlugu: qamitkik radio-guaq TV-gualu, umiktitkik qalgiġñiaq qulliġñialu, imaluunniit nipaitchuamun nuutkik.
 
-- **Kigiŋagun saŋŋi.** Tunuagun uvva saniagun saŋŋiġniq quviasuktuġnaqtuq.
-- **Kinaunigñik uqallak.** “Haluu Aapa, uvanga Sarah, paniġñiqpich.” Taamna atqiñik naviqsuiññaqtiġaa.
-- **Iññi avataanun aquvit.** Aquviġumi, aquvit uvva sikuvik iññiñik atautchimun.
-- **Kigiŋik suli nipiqqusik kamagiŋŋak.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) uqaqtuq nipiqqusik, nipiqpaŋa, kigiŋik suli timiqqusik kamagiŋŋaġlugit, uummaġnaqtuq nalupqisuġaiḷḷu.
-- **Iriġaak tautuktitñiik naalaġutitñiiglu iligik.** Uqaluktitñiq naalaġniq suli tautugniq sapiġnaqtuq iluaġumiññaguk.
+- **Sivunniġñi qaiġlutin.** Tunuaniññiḷḷuuniḷḷu sanianiññiḷḷuuniḷḷu qaiġniq iqsiļ̣ḷaatchisuunġaaq.
+- **Uqallak kinauvit.** „Uvuŋa Aapa, uvanga Sarah, paniġñik.“ Taamna ikayuġniġaa inuk atqanik uuktuŋił̣ḷugu.
+- **Aquvitigilugu irri qiñiqatigiigiḷlugu.** Aquviġumi, aquvitigilugu imaluunniit sikiġvigilugu irri qiñiqatigiigiḷlugu.
+- **Qiñigilugu kigiñik nipiḷḷu.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) uqallak nipiġñik, kigiñik, timmiḷḷu takkuġñaanik ilisimaniġmik, uummanŋamik satqunnaqtuanillu uqaqłutin.
+- **Tautuġaich siutiġaillu iḷḷatigilugit.** Naalaġniq taphumaniġaa qiñigisuiññaqługu tusaagisuiññaqługulu.
 
-## Qanuq uqallautikka piqpagniaksratka?
+## Qanuq uqautigiñiaġiga uqallautimnik?
 
-Naipiqtunik uqausiŋnik, naipiqtunik uqallautinik suli nipaiqsakun nipikun atuġin.
+Atuġlukit uqautit naŋŋiitchuat, sukkasuġlutit nipamik satqunnaqtuamik.
 
-- **Atausiq isumaa uqallautimun.** “Atigik atullak. Taigua aniluta.” Atausiġmiññak.
-- **Atqanik atuġin, taiguaqtitñik pinnasi.** “Aunt Jean uqaġmiuq” nalaunġaruq “Iḷisa uqaġmiuq”-ñik.
-- **Nipik akuniġḷiġu, nipiqpagñasi.** Family Caregiver Alliance nipiqpaniġḷiutaiññiq nipim akuniġḷiutaa piqpagaa.
-- **Uqautchikkit, taigua allakkiññaqtit.** Naalaġumiññagu, atausiqtukkut uqautchikkit. Pitaqługu, utaqqiḷḷaŋaruq, taigua alla uqausiŋnik atuġin.
-- **Tautuktitḷu uqallu.** Imiġaut uqautilugu, atigit malġuk tautuktitlugik, uvva sivulliq pigiagniq nalunaiqsaiñŋa.
-- **Uvaŋagun uqaluk, taŋŋiŋaniġmiññak.** NIA uqaqtuq inuum taŋŋiŋaniġmi uqaluktuiññiq, suli nutaraugun uqaluktuiññiq atuġnasi.
+- **Atausiq isumaaq atausiġmi uqautimi.** „Atikłukput atigiñiaqtugut. Taaġnalu aniñiaqtugut.“ Atausiġmiññaq uqallaŋił̣ł̣ugu.
+- **Atqanik atuġlutit, kiiññakun atuŋił̣ḷutin.** „Aunt Jean uqaqtuq“ nalaunŋaruq „Iḷa uqaqtuq“-miñ.
+- **Nipanik akkuunġitkaḷlugu, nipichuŋił̣ḷugu.** Family Caregiver Alliance nipanik akkuutquvlugu nipitquŋił̣ḷugu.
+- **Avatimik uqallak, taaġnalu allaŋnik.** Tusaagasuiññagumi, avatimik uqallak uqautinik atausiġmik. Ikayuŋił̣ḷugumi, utaqqiḷḷu allaŋnik uqautinik atuġlutin.
+- **Takkuġlutiḷu uqaḷḷu.** Tigummiilugu kaafi, takkuġlugit malġuk atigit, imaluunniit sivulliq savak takkuġlugu.
+- **Uqaqtigigik, uqautigiŋił̣ḷugu allanut.** NIA uqaqtigiŋił̣ḷugu inuk tasiġmiñ ittuŋasugilugu, nutaraqsuŋił̣ḷugulu.
 
-NIA piqpagaa apiqqutini naipiqsaqtautit. Tautuktitit makua:
+NIA nalunaiqsivaaq naŋŋiitchuanik apiqqutinik. Taimak atuġlugit:
 
-| Taamna atuġnaiññagu | Taamna atuġin |
+| Taamna atuŋił̣ḷugu | Una atuġlugu |
 | --- | --- |
-| “Suna niġiñiaqpiñ unnuksami?” | “Iqaluk kuutchiglu niġiŋniaqpiñ?” |
-| “Qanuq iḷitqusikpiñ?” | “Qaiñiaqpiñ?” |
-| “Kaakpiñ?” | “Niġi five minutes-niiḷḷuni itqaumavik.” |
-| “Taima piḷḷaġuiññatin.” | “Uvva taima piḷḷavuk.” |
-| “Iññiqsuiññiqpiñ tasiġmun aullaqtautivut?” | “Isumagiga tasiġmun aullaqtautivut. Uqautilaŋa sunik piqusrigigñik.” |
-| “Uqautchiktuŋa.” | Atautchikun kiuvigiñŋa, sivulliqtutun. |
+| „Sumiñik niġisukpiñ unnugmi?“ | „Iqaluŋmik niġisukpiñ, immaqaq tuuttuŋmik?“ |
+| „Qanuq ittuviñ?“ | „Iḷḷaqsuŋaruatpiñ?“ |
+| „Kaakpiñ?“ | „Niġi tallimani minutchimi piñiaqtuq.“ |
+| „Taimanna savaŋitchuat.“ | „Una atuġluta qiñiqta.“ |
+| „Itqauvitpiun isiqtautivut tasiġmun?“ | „Isummaġiga isiqtautivut tasiġmun. Uqalukkik sumi piuġigikpan.“ |
+| „Uqaluktuŋa taaptumaŋa.“ | Avatimik kiuvigilugu, uummanŋamik, sivulliqtutun. |
 
-## Qanuq nalaunġaruakun naalaġniaġiga?
+## Qanuq naalaġniġaruak niaquġniaqpiŋa?
 
-Uqausiit tunŋaa suli iḷitqusiat naalaġigik, uqausiit kisiisa pinnagit.
+Naalaġlugu isumaa isumaallu, uqautit kisiisa piŋił̣ḷugit.
 
-- **Utaqqiḷḷaŋaruq.** Nipaiñiq isumałiqniqsuġnaqtuq. Qulit kisitkik ikayuġñiaġikpiñ.
-- **Uqausiq piqpagniq naviġumi kisimi.** Family Caregiver Alliance uqaqtuq ikayuġnaqtuq uqausiq piqpagniq inuk naviġumi.
-- **Naalaġniqnik nalunaiqsaiññiq.** [Alzheimer's Association-m ikayuutaŋa uqaluktitñi](https://www.alz.org/help-support/caregiving/daily-care/communications) piqpagaa uqausiit tunŋaa nalupqiḷugu suli uqautchikkit nalaunġaruq naalaġigigñik. “Kamautimun iñiqsukpiñ?”
-- **Kigiŋa timalu tautugik.** Uqausiit sapiġmata, NIA uqaqtuq, kigiŋa aliasuġniq, qiñiġñiq uvva naviksraqniq nalunaiqsautigiŋaa uqausiit sivunniiġlugit.
-- **Iñiqsutit kamagiŋŋagit.** Iluaŋitkaluaq isumaa iñiqsułiqniq, iḷitqusiat iluaŋitchut.
+- **Utaqqiḷlugu.** Nipaitchuaq isumaaluktuaqsiññaaq. Qulitnik kisitchivakłutin iḷuvata savaŋŋaġmiḷu.
+- **Uqautimik ikayuġlugu aŋalatchigiḷlugu.** Family Caregiver Alliance uqallak ikayuġniaqtuq uqautimik nalunaiqsiḷlugu aŋalatchigiḷlugu.
+- **Tusaagniq nalaunŋaruakun apiqsruġlugu.** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) nalunaiqsivaaq uqautini isumaa uuktuġlugu, avatimik uqaḷlugu tusaamanŋaruatpan. „Suuqsiñiaqtutin aġviumik?“
+- **Qiñigilugit kigiŋit timmiŋalu.** Uqautit piḷḷuata, NIA nalunaiqsivaaq, kigiŋit takkuġniġaat aliasuġniq, uumisugniq, imaluunniit aqaluksuġniq uqautiniñ nalaunŋaruakun.
+- **Isummaniq nalaunŋaruakun tugliġlugu.** Siñiktuq nalaŋitchuaŋagumiḷḷu, isumaa nalaunŋaruq.
 
-## Iluaŋitkaluaq uqaqtuq, suna piḷḷugu?
+## Uqalungagumi nalaŋitchuanik?
 
-Akiḷḷaġnasi. Allanniġumiññaaqsi, inuklu kanniqtitaunġnaqtuq uvva quviasuktuġnaqtuq. Taamna ataani, iḷitqusiat piqataugik, taigua sukatchiani allamut saġlutin.
+Akkiuŋitchuŋa. Savaqatigivallaġniq sapivallaġniġaa, inuk kangusukłuni imaluunniit iqsiļ̣ḷaatiḷuni. Taavrumaniññaq, isumaatigut tugliġlutin, sukkasuġlutin.
 
-Family Caregiver Alliance piqpagaa iḷitqusiat kamagiŋŋaġlugit sivulliq allamun saġḷutin. Imŋa, aakaġñiq uqaqtuq miqłiqtuanik iliŋniaqtuaq:
+Family Caregiver Alliance nalunaiqsivaaq isumaatigut tugliġlugu sivulliq, taaġnalu allaŋmun saġlutin. Iḷisaatigun, amaagñik uqallakumi miqłiqtunik aullaqtuksraġiguni:
 
-- Taamna atuġnaiññagu: “Aaka, miqłiqtutit aŋiññiqsut. Sisamat qulit ukiut qaŋŋani.”
-- Taamna atuġin: “Nakuuqpiñ miqłiqtunik kamanaqsrauruatin. Uqautilaŋa iliŋniġigñik. Niġaġniaqtuguk sivulliq?”
+- Taamna atuŋił̣ḷugu: „Aamaa, miqłiqtutik aŋutuŋarut. Sisamani qulit ukiuq taaptumaŋa.“
+- Una atuġlugu: „Aŋayuqaam naunaiġiḷḷuŋaruak miqłiqtunik. Uqalukkik aullaqtiqativigigigit. Niġivakługu sivulliq?“
 
-Alzheimer's Association piqpagaał̣u akiḷḷaġuiññiq iluaŋitkaġigikpiñ uqausiit. Piŋŋaġutit: iluaŋitkaluaq aquviġumiññagu, taimaali.
+Alzheimer's Association nalunaiqsivaalu akkiuŋił̣ḷugu uqaluanik nalaunŋasugigikpan. Nakuuruakun piġukpakkik nalunaiqsilugit: nalaŋitchuaq aqulliŋagumi, piñaksaġilugu.
 
-## Qanuq uqaluktitñiq allaniqpa dementia suliġman?
+## Qanuq uqaqatigiigniq allanguqtuaguq dementia sivunniġiḷlugu?
 
-Pisuktat allaniqtut, taimaimmat pigiagniq allanniqsiuŋ. Alzheimer's Association piŋasut qanuġmiuŋat nalunaiqsautigai:
+Piḷḷuata allanguqtuat, atuġniq allanguqtiġlugu. Alzheimer's Association nalunaiqsivaaq piŋasuut tallimat:
 
-| Qanuġmiuŋa | Ikayuutaq |
+| Sivunniġniq | Ikayuutaq |
 | --- | --- |
-| Sivulliq | Uqaluktuksraunġitkumiññaq isumanasi. Uqaluktitñun ilautilugu, uvaŋagun uqaluklugu, sunik ikayuutinik piŋusukkumi apirriuglugu, suli quviasuut ikayuġumi atuġlugu. |
-| Qitqani | Atausiŋŋuumun uqaluktitñiq nipaiqsami. Sukatchiani uqaluk, iññi tautuglugu, ii-aga apiqqutinik atuġin, atausiŋŋuaq-tukku pigiagniqnik uqautilugu, suli iluiññaqtuiññiq uvva qiñiġñiġuiññiq. |
-| Kinguliq | Kigiŋagun saŋŋi suli kinaunigñik uqallak. Uqautiqsraġniq iḷḷatiqsraġniġlu ikayuutigiŋŋagit. Aktuqtautinik, nipiŋnik, tautuktuŋnik suli tipiŋnik atuġin. Taŋŋiŋaniġmi taimaatun uqaluktuiññatin. |
+| Sivulliq | Uqaqatigiiññaqsuił̣ḷugu isumaaġñaŋił̣ḷugu. Ilautitquvlugu uqaqatigiigniqmun, uqaqtigigik, apiqsruġlugu qanuq ikayuqsukpan, quviasuglutiḷu ikayuġumi. |
+| Qitŋani | Inuk atausiq uqaqatigiigilugu nipaitchumi. Sukkasuġlutin uqallak, qiñiqatigiigilugu, ii-ŋŋa-ŋŋa apiqqutinik atuġlutin, malġuġnianik uqautilugit, aaqqiŋił̣ḷugulu nalunaiqsiŋił̣ḷugulu. |
+| Kingulliq | Sivunniġñi qaiġlutin, uqallak kinauvit. Tigummiirutinik argaksaanillu ikayuġlugu. Aktuqtuutinik, nipanik, tautuutinik, naimmautinik atuġlutin. Uqaqtigiŋił̣ḷugu tasiġmiñ ittuŋasugilugu. |
 
-Inuit allatqiigñiqsut, atausiullu inuk uvluŋni allatqiigñiqsiruq. Uvuŋa taŋŋiŋanun qanuq iḷitqusiq kamagiŋŋa, nalunaiqsautaiññamiññak.
+Inuit allatqiich allatqiit, atauchimuŋaullu iñuk uvlut allatqiit ittuasuurut. Kiuvigiuk qanuq ittuŋanik uvluakun, nalunaiqsimaniġmiñ piŋił̣ḷugu.
 
-## Piksraqtautit piḷḷuatiglu uqaluktitñiq ikayuġniġaa?
+## Aglaktaat savaallu ikayuġniġaat uqaqatigiigniq?
 
-Ii. Piksraq piqatauyuq naviksraqniq mikiġḷiġaa, malġuuġniḷ̣u tautugniagaksraq suli uqautiqsraġniagaksraq piqpagaa.
+Ii. Aglaktaq avatimik takkuġnaq ikayuġniġaaq aqulliqsaaġutigilugu, ilivsiḷḷu takkuġnaqsiññaaġik tigummiirvigilugulu.
 
-- **Piksraŋnik uqautchiksraqtautit.** [Conversation Cards](/games/conversation-cards/) piksraqtautit piqpagai apiqqutinik apirriqsuiññaniġmi.
-- **Iḷagiigñiq piksrait.** [Photo Pairs](/games/photo-pairs/) piksranik piŋŋaġutinik nalautchiksraŋmik piqpagaa, amisuuvani uqausiqsraqtauniqaqtuq.
-- **Ilisaġutit.** [Finish the Saying](/games/finish-the-saying/) ilisaqtuŋnik ilisaġutinik atuġai, taigua uqausiqsraqtautimik.
-- **Nalautchiksrat piqatauyumi.** [Picture Pairs](/games/picture-pairs/) arganik piḷḷuagaksraq piqpagaa uqaluktitñiḷḷusi.
+- **Aglaktaakun uqautchikun.** [Conversation Cards](/games/conversation-cards/) aglaktaanik apiqqutiniglu aitchuġai itqaumaniġmik apiqsruŋił̣ł̣ugit.
+- **Iḷagiit aglaktaŋit.** [Photo Pairs](/games/photo-pairs/) aglaktaat piġukpakkik nalautchaaġutiqsuġai, uqautchianik aullaqtitaasuurut.
+- **Uqautchit ilisimanaruat.** [Finish the Saying](/games/finish-the-saying/) atuġai uqautchinik ilisimanaruanik, taaġnalu uqautchimik aitchuġai.
+- **Nalautchaaġutit savakpaksraq.** [Picture Pairs](/games/picture-pairs/) argakkik savakpaksraġnik aitchuġaa uqaqtiḷusi.
 
-Tautuguk [qanuq piḷḷuaniq piqatauyumi](/caregiving/how-to-play-together/) suli [iññiqsuit piḷḷuaniŋit](/activities/reminiscence/) allat ikayuutit. Pulaaqtitñi suli uqaluktuutit, tautugik ikayuutit [pulaaqtitñi](/activities/visiting/) suli [telefon-kun video-kullu uqaluktitñi](/activities/phone-and-video-calls/).
+Takkuġlugu [qanuq savakatigilugit](/caregiving/how-to-play-together/) imaalu [itqaumaniġmik savakpaksrat](/activities/reminiscence/). Isiqtausranik uqalukkraġniglu, atuġlugit [isiqtausrat](/activities/visiting/) imaalu [uqalukkraġniq video-lu](/activities/phone-and-video-calls/).
 
-## Sumiñaqpa qiñiġñiqsiruŋa?
+Uqausiŋnik allatqiinik uqaqtuamun, takkuġlugu [uqausiŋnik allatqiinik uqaqatigiigniq](/caregiving/language-and-dementia-communication/).
 
-Tamaita taima iḷitqusiqaqtut. NIA piqpagaa qiñiġñiqsiruviñ, nipaiġḷutin utaqqiḷḷaŋaruq. Alla iñiqmun iḷḷutin, sukatchiani aniqłutin, suli nipaiġḷutin utiqsutin. Uqaluktitñiq nutaaq pigiaġnaqtuq, inuglu nipaiġñiqnik kiuvigiŋnaqtuq. Qiñiġñiq taimaagmiuġumi, taamna ikayuutinik allaŋnik pisuksraġniq nalunaiqsautigaa, iluitchuġniŋitñik pinnaitchuq. Ikayuutaqput [kamanaqsriurutinik iñuksraq](/caregiving/caregiver-self-care/) ikayuġniaqtuanik nalunaiqsautigaa.
+## Isumanngusukkumiñaqa?
+
+Taimanna ittuuruat. NIA uqallak isumanngusukkumiñaguvich, saktuġumaaqłutin. Aullaqłutin allaŋmun iñiqmun, aniqsaaġlutin sukkasuġlutin, utivakłutin satqunnaqtuanŋaguvich. Uqaqatigiigniq avatimik aullaqtisaġigaat, inuk satqunnaġniġñik kiuviniaġnaraaq. Isumanngusukniq suli iññaanŋagumi, ikayuġutiksaqaqtutin, iḷḷuaqtuŋił̣ḷutin. [Caregiver self-care](/caregiving/caregiver-self-care/) ikayuutinik takkuġviqaqtuq.

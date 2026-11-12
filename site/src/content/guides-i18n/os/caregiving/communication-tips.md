@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Деменциимæ цæугæ адæмимæ ныхасы фæлвæзтæ"
+seoTitle: "Деменциимæ ныхас: цы зæгъын æмæ цы ма"
+description: "Фæлвæзтæ, куыд ныхас кæнын деменциимæ цæугæ адæймагимæ: ныхас райдайын, æмæ куыд хъуыдыйы æмæ ахæм хъуыдыйытæн ныхъхъæрын."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Ныхас кæнут сабыр бынатмæ, адæймæджы разыл аразут, йæ ном арæзт кæнут æмæ
+  æнцон, цыбыр хъуыдыйæдты сабырæй дзурут. Иу хатт æрцæмæй иу хъуыдыйы
+  бафæрсут, гом хъуыдыйыты бæстæ дыууæ æвæрут æмæ уæлæмхасæн дæр лæмбынæг
+  банхъæлмæ кæсут. Ма ныхъхъæрут, ма сраст кæнут æмæ ма фаскъуыд кæнут. Дзырды
+  фæстæ цы æнкъарæн ис, уыймæ уын бакаст кæнут; куы ныхас цъусдæр у, уæд
+  æнкъарæнмæ гæсгæ нывæн, зард, цæсгывзист æмæ иумæ кæсын нывтæ пайда кæнут.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Ныхас райдайы размæ сыбырдзинад æрхаста кæнут æмæ адæймæджы цæстытыл бакæсут."
+  - "Цыбыр хъуыдыйæдтæ æмæ иу хæстæгæй иу хъуыдыйы пайда кæнут; «уый», «уыйы» номивæгты бæстæ номæй ныхас кæнут."
+  - "Гом хъуыдыйыты бæстæ дыууæй иу æвæрут кæнæ «о»/«нæ» хъуыдыйы бафæрсут."
+  - "Дзуаппæн банхъæлмæ кæсут. Кæд дæм нæ æмбæрстой, уæд уыцы иу дзырдтæ ногæй зæгъут, стæй та ног дзырдтæй бафæлварут."
+  - "Ма ныхъхъæрут æмæ ма сраст кæнут. Адæймаг цы зæгъы, уыйы фæстæ цы æнкъарæн ис, уыймæ дзуапп раттут."
+  - "Куы дзырдтæ уæлдæр сты, уæд æнкъарын кæнут æнкъардзинады, зарджы, цæсгывзисты æмæ иумæ кæсын нывты æххуысæй."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Цы нæ хъæуы зæгъын деменциимæ цæугæ адæймагæн?"
+    a: "Ма фаскъуыд кæнут («Дæ фендис…?»), ма сраст кæнут («Уый раст нæу»), ма фæдзæхсут йын цы фесæфт, уый («Æз дын ныффысстон»), æмæ ма ныхас кæнут йæ тыххæй, куыд дзы нæу æххæст. Сыгъдæг адæймæн хуызæн ма дзурут. Ахæм дзырдтæ æвæццæгæн хицæн кæнæ хъыг дарынц, фæйнæрдæн нæ кæнынц."
+  - q: "Хъæуы æппын йын, кæд йæ факты раст нæ сты?"
+    a: "Æвæццæгæн нæ. Кæд раст нæуæг факты зиан нæ кæны, уæд уый нæл раудут. Ныхъхъæрст æвæццæгæн адæймаджы хъуыды нæ ивы, фæлæ йын æвæццæгæн хъыг дары. Сæвæрут йын, цы æнкъары æмæ цы йын ныр хъæуы."
+  - q: "Цы хъæуы кæнын, кæд йын дзырд агурын нæ бантыс?"
+    a: "Фыццаг банхъæлмæ кæсут йын. Кæд æрзæгъгæ цъус кæны, уæд бæззы æнцонæй дзырд æвæрын кæнæ бафæрсын, кæй аргъ кæныс, æмæ уый сфидар кæнын. Нывæн, рæстдзинад æмæ нывтæ дæр баххуыс кæнынц."
+  - q: "Куыд ныхас кæнын æгæр дарддæр деменциимæ цæугæ адæймагимæ, кæцы æрмæст тынг дзуры?"
+    a: "Размæ æрцæуут, дæ ном зæгъут æмæ сабыр зæрдæй æмæ æнцон æнкъардыдзинадæй дзурут. Цæсгом æмæ уадзылдзинадмæ кæсут, цæмæй йæ æнкъарæнтæ базонат. Дæ уæвæн, зонд къæвзар кæнæ къухы дард æнæдзырдæй дæр бирæ хъусын кæнынц."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Деменци адæймæн бацъусын кæны дзырд агурын, даргъ хъуыдый бамбарын кæнæ сыбырдзинады астæуæй хибарæй уæвын. Уый нæ нысан кæны, адæймаг æнæмæнг хъуысы фæнды ма. Куыд ныхас райдайыс, куыд дзурыс æмæ куыд хъусыс, уыцы чысыл ивддзинæдтæ дыууæн дæр ныхасæн хъæсдæртæ æмæ сабырдæртæ скæнынц.
 
-## What are the most important tips for talking with someone who has dementia?
+## Деменциимæ цæугæ адæймагимæ ныхасы уæвæр фæлвæзтæ кæцытæ сты?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Йæ сæрхъуыд аразут, хъуыдыйæдтæ хуымæтæг скæнут æмæ бæрæгбангæ уæвæг кæнут. Кæд æрмæст фондз уацмæ дæ зæрдыл æрлæууын кæныс, уæд:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Уат сабыр кæнут æмæ йæ разыл аразут.** Телевизор ахуыс кæнут, йæ цæстыл бадт, æмæ йæ ном арæзт кæнут.
+2. **Иу хатт æрцæмæй иу миниуæг зæгъут.** Цыбыр хъуыдыйæдтæ, иу хæстæг, иу хъуыдый.
+3. **Дыууæй иу æвæрут.** «Цай кæнæ кофе?» уæлæмхасæн хуындæр у, «Цы дæ фæнды нуазын?»-æй.
+4. **Банхъæлмæ кæсут.** Дзуаппæн цасдæр рæстæг дæттут, куыд зæрдыл дæр дарыс, æмæ ма фæцалх кæнут йæ ныхасы.
+5. **Ма ныхъхъæрут æмæ ма фаскъуыд кæнут.** Йæ æнкъарæнмæ уын бакаст кæнут, нæ факты раст у, æви нæ, уыймæ.
 
-## How should I start a conversation?
+## Куыд хъæуы райдайын ныхас?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Цавæрдæр аразут, цæмæй адæймагæн дæм уын бакæсын бон уæвæт. [Family Caregiver Alliance-ы амынд](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) фæлвæз кæны фыццаг сыбырдзинад къаддæр кæнын: радио кæнæ телевизор ахуыс кæнут, тæтæрттæ кæнæ дуар сæхгæнут, кæнæ сабырдæр бынатмæ ауыдут.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Размæ æрцæуут.** Фæстæ кæнæ галиуæй æрцæуын йын æнгом кæнын йæ бон ис.
+- **Дæхи рабæрæг кæн.** «Байрай, фыд, æз Сара дæн, дæ чызг.» Уый йæм баххуыс кæны, цæмæй дæ номæн ма акæса.
+- **Йæ бæрцыл бадт.** Кæд йын бадт, уæд дæхи дæр бадт кæнæ æркъуыпп кæн, цæмæй дæ цæстытæ йæ цæстытимæ æмбæрц уой.
+- **Дæ цæсгывзист æмæ дæ зæрдыл æрлæуу.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) фæлвæз кæны дæ зард, дæ ныхасы бæрц, цæсгывзист æмæ уадзылдзинадмæ сæрхъуыд дарын æмæ тæргъæн, æххуысгæнæг уавæр хæцын.
+- **Бакæс, йæм цæсты хуызæнтæ æмæ хъусынгæнæнтæ ис, æви нæ.** Цъус у уый ныхасы фæстæдард кæнын, кæцы æнæхъæнæй дæр нæ уыныс æмæ нæ хъусыc.
 
-## How should I phrase what I say?
+## Куыд хъæуы мидæг сæвæрын мæ ныхас?
 
-Use simple words, short sentences and a calm, low voice.
+Хуымæтæг дзырдтæ, цыбыр хъуыдыйæдтæ æмæ сабыр, дæллаг зæрд пайда кæнут.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Æрхъуыдыйы иу хæстæг.** «Дæ хуыз æмбæрзæм. Стæй радмæ ацæуæм.» Ма уый иу æнкъарды зæгъ.
+- **Номтæ пайда кæнут, нæ номивæгтæ.** «Фыстæг Фос къуыри» уæлæмхасæн бирæнысæй у, «Уый къуыри»-йæ.
+- **Дæлдæр зæрдæй дзур, нæ хъæрдæр.** Family Caregiver Alliance фæлвæз кæны дæллаг зæрд, нæ æрбадгæ.
+- **Фæлвар, стæй та ноджытытæй зæгъ.** Кæд дæм нæ æмбæрстой, уæд уыцы иу дзырдтæ иу хатт ногæй зæгъ. Кæд уый нæ баххуыс кæны, уæд цыбыр банхъæлмæ кæс æмæ æндæр дзырдтæй бафæлвар.
+- **Æвдис ма æрмæст зæгъ, фæлæ дæр.** Тагъддзиджымæ ныв, дыууæ уæлладжы равдис кæнæ фыццаг фæлгонц равдис.
+- **Йæм дзур, нæ йæ тыххæй.** NIA сæрибар кæны адæймаджы тыххæй ныхас кæнын, куыд дзы нæу æххæст, æмæ сывæллæттæн хуызæн ныхас кæнын.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA æнхъæлмæ кæсы хуымæтæгдæр хъуыдыйæдты хуызтæ. Мысæнтæ сты:
 
-| Instead of | Try |
+| Уыйы бæстæ | Бафæлвар |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Цы дæ фæнды æхсæвæр хорын?» | «Дæ фæнды кæсаг кæнæ карык хорын?» |
+| «Куыд дæх æнкъарыс?» | «Фæллад дæ?» |
+| «Мæргуыс дæ?» | «Æхсæвæр фондз минуты фæстæ цæттæ уыдзæн.» |
+| «Ахæм нæ кæнынц уый.» | «Афтæ бафæлварæм.» |
+| «Дæ фендис нæ цад цыдыдзинадыл?» | «Нæ цады тыххæй хъуыды кодтон. Зæгъ-дæ мæнæн, цы дæ уæлæмхасæн уыд.» |
+| «Æз дын ныффысстон.» | Ногæй, сæбæрæй радзуапп дæтт, куыд фыццаг хатт. |
 
-## How do I listen well?
+## Куыд хъæуы хорзæй хъусын?
 
-Listen for the meaning and the feeling, not just the words.
+Дзырдты æхсæнæй хъуыдый æмæ æнкъарæнмæ хъус. 
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Банхъæлмæ кæс.** Æнхъæлмæст æвæццæгæн хъуыды рæстæг у. Дæсмæ схæс, цæмæй йæ ныхасы ма фæцалх кæнай.
+- **Дзырд æрмæст уæд æвæр, кæд йын уæгъдиау цæуы.** Family Caregiver Alliance зæгъы, хорз у дзырд æвæрын, кæд адæймæгæн уæгъдиау цæуы.
+- **Сфидар кæн, цы дæм æмбæрста.** [Alzheimer's Association-ы ныхасы амынд](https://www.alz.org/help-support/caregiving/daily-care/communications) фæлвæз кæны йæ дзырдты фæстæ хъуыдый агурын æмæ уый ныхъхъæрæй йын фæдзæхсын, цæмæй бамбæрсай, раст æмбæрстой æви нæ. «Машинæйы тыххæй тырх дæ?»
+- **Йæ цæсгом æмæ уадзылдзинадмæ кæс.** Куы ныхас цъус у, уæд, NIA-ы зæгъæй, цæсгывзист æвæццæгæн хъыг, мæсты кæнæ æнгомдзинад дзырдтæй хуындæр æвдисы.
+- **Тырхгæнæнтæ серьёзонæй райс.** Тырх кæд раст нæуæг фактымæ гæсгæ у дæр, йæ æнкъарæн æцæг у.
 
-## What if they say something that is not true?
+## Цы хъæуы кæнын, кæд йын раст нæуæг миниуæг зæгъы?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Ма ныхъхъæр. Ды уыйæй нал уайдзæн, æмæ адæймæн æвæццæгæн йæхицæн æфхæрды кæнæ тасдзинад æнкъарын йæ бон уыдзæн. Уыйы бæстæ йæ æнкъарæнмæ баст у æмæ стæй æнцонæй æндæр хæстæгмæ йæ раив.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance фæлвæз кæны, йæ æнкъарæн базонын, цæмæй йæ стæй æндæр хæстæгмæ раивын. Зæгъæм, кæд дæ мад сывæллæттæм скъолайæ кæсынмæ ацæуын хъæуы, уæд:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Уыйы бæстæ: «Мад, дæ сывæллæттæ ныр стыр сты. Уый цыппарыс азы фæстæ уыд.»
+- Бафæлвар: «Ды æдзухæй тынг тард мад уыдтæ. Зæгъ-дæ мæнæн, куыд сынмæ кæсыс. Раздæр ба чысыл хæринаг хорам?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association дæр фæлвæз кæны нæ ныхъхъæрын уыцы хъуыдыйæдты тыххæй, кæцытæм ды нæ разы дæ. Рæстæг æвзар: кæд раст нæуæг хъуыды зиан нæ кæны, уæд уый нæл раудут.
 
-## How does communication change as dementia progresses?
+## Деменци куы рæзын кæны, уæд ныхас куыд ивы?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Хъæуыты рæстæджы ивынц, уымæ гæсгæ дæ ныхасы уавæр дæр баив. Alzheimer's Association æрцыд æртæ гыццыл фазæ:
 
-| Stage | What helps |
+| Фазæ | Цы баххуыс кæны |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Райдайæн | Ма сæвæр, адæймæн ныхас кæнын нæй гæнæн. Йæ ныхасмæ баиу кæн, йæм комкоммæ дзур, бафæрс йæм, цавæр æххуыс йын хъæуы, æмæ рæсугъддзинад пайда кæн, кæд уый баххуыс кæны. |
+| Астæуккаг | Сабыр бынаты æрмæст адæймагимæ ныхас. Сабырæй дзур, йæ цæстытыл кæс, «о»/«нæ» хъуыдыйытæ бафæрс, фæлгонц фæлгонцмæ амынд ратт æмæ ма сраст кæн. |
+| Фæстаг | Размæ æрцæу, дæхи рабæрæг кæн. Нывæн æмæ рæстдзинадæн ницæмæ ма уыдзæн. Æнкъардыдзинад, зæрдтæ, уын æмæ смæллтæ пайда кæн. Ма дзур, куыд йын нæу æххæст. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Алы адæймаг дæр хицæн у, æмæ уыцы иу адæймæн æндæрæндæр бонтæ хорз æмæ цъус дæр ис. Ныртæккæ йæм уын бакаст кæнут, нæ йæ фазæйы номæн.
 
-## Can pictures and activities make conversation easier?
+## Нывтæ æмæ архайдтæ ныхасæн хъæсдæртæ скæнынц, æви нæ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+О, скæнынц. Иумæ кæсын ныв æнкъарæнæй сыстады къаддæр кæны æмæ дыууæн дæр цы нывæнтæ æмæ цæмæй кæсын у, уый ратты.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ныхасы нывтæ.** [Conversation Cards](/games/conversation-cards/) нывтæ æмæ гом хъуыдыйытæ дæтты, кæцытæ нæ фаскъуыд кæнынц.
+- **Бинонты нывтæ.** [Photo Pairs](/games/photo-pairs/) ды цы нывтæ æвзæрыс, уыдонæй æнцон æмбæлыд ахуыргæнæн кæны, кæцы æвæццæгæн радзырдтæ сгуыхты.
+- **Зонд дзырдгæсгæтæ.** [Finish the Saying](/games/finish-the-saying/) пайда кæны зонд америкон дзырдгæсгæтæй, стæй та ныхасы фæлвæзæнæй.
+- **Æмбæлыд хъæзтытæ ныхасы фæстæгæй.** [Picture Pairs](/games/picture-pairs/) дæ къухтæн куыст дæтты, цалынмæ ды дзурыс.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+[Куыд иумæ хъазын](/caregiving/how-to-play-together/) æмæ [фæдзæхсты архайдтæ](/activities/reminiscence/) фылдæр базонынæн кæс. Бацæуæн æмæ фæрстытæн нæ [бацæуæны](/activities/visiting/) æмæ [телефон æмæ видео фæрстыты](/activities/phone-and-video-calls/) амындтæ бакæс.
 
-## What if I lose my patience?
+Бирææвзаг адæймагæн кæс нæ [алы æвзагыл ныхасы амынд](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Цы хъæуы кæнын, кæд мæ бæрæгбангæ фæцæуы?
+
+Алы адæймæн дæр уый æрцæуы. NIA фæлвæз кæны: кæд æхсæрхъыггаг уыс, уæд цыбыр рæстæг дæр дæх сабыр кæн. Æндæр уатмæ бацу æмæ цалдæр сабыр, даргъ улæфт ратт, стæй та фæстæмæ æрбацу, куы сабырдæр уыс. Ныхас æппæт ногæй дæр райдайын дæ бон у, æмæ адæймæн дæ сабырдæр уавæрмæ æнкъарын йæ гæнæн ис. Кæд æхсæрхъыггаг уæвын алыхатт кæны, уый у, дын фылдæр æххуыс хъæуы, нæ кæй дæ бон нæ цæуы, уый. Нæ [хъусынгæнинагæн йæхи хъахъхъæныны амынд](/caregiving/caregiver-self-care/) дæм баххуыс кæнæт.

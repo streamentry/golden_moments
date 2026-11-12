@@ -1,32 +1,34 @@
 ---
-title: "Nasveti za pogovor z osebo, ki ima demenco"
-seoTitle: "Sporazumevanje pri demenci: kaj reči in česa se izogniti"
-description: "Praktični načini pogovora z osebo, ki živi z demenco: kako začeti pogovor, kaj reči namesto izpraševanja ali popravljanja in kako dobro poslušati."
+title: "Nasveti za pogovor z osebo, ki živi z demenco"
+seoTitle: "Nasveti za pogovor ob demenci: kaj reči"
+description: "Praktični nasveti za pogovor z osebo, ki živi z demenco: kako se pripraviti, kaj reči namesto spraševanja ali popravljanja ter kako poslušati."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Govorite na mirnem mestu, obrnite se k osebi, uporabljajte njeno ime in govorite počasi s kratkimi,
-  preprostimi stavki. Zastavite eno vprašanje naenkrat, ponudite dve izbiri namesto odprtih vprašanj
-  in počakajte dlje, kot se zdi naravno. Ne prepirajte se, ne popravljajte in ne izpraševajte. Odzovite
-  se na občutek za besedami ter uporabljajte dotik, slike in geste, ko govor postaja težji.
+  Pogovarjajte se v tihem prostoru, obrnite se proti osebi, uporabite njeno
+  ime in govorite počasi v kratkih, preprostih povedih. Postavite eno
+  vprašanje naenkrat, namesto odprtih vprašanj ponudite dve možnosti in
+  počakajte dlje, kot se vam zdi naravno. Ne prepirajte se, ne popravljajte
+  in ne sprašujte. Odzovite se na čustvo, ki je v besedah, ter ko govor
+  postaja težji, uporabljajte dotik, slike in kretnje.
 keyPoints:
-  - "Pred pogovorom zmanjšajte hrup v ozadju in vzpostavite stik z očmi."
-  - "Uporabljajte kratke stavke, eno misel naenkrat in imena namesto „on“, „ona“ ali „oni“."
-  - "Ponudite izbiro med dvema možnostma ali vprašanje z da ali ne, namesto odprtih vprašanj."
-  - "Počakajte na odgovor. Če ne razumejo, ponovite iste besede, nato poskusite z novimi."
-  - "Ne prepirajte se in ne popravljajte. Odzovite se na občutek za tem, kar rečejo."
-  - "Ko besede zbledijo, se sporazumevajte z dotikom, tonom, izrazom obraza in skupnimi slikami."
+  - "Preden začnete govoriti, zmanjšajte hrup v ozadju in vzpostavite očesni stik."
+  - "Uporabljajte kratke povedi, eno misel naenkrat ter imena namesto on, ona ali oni."
+  - "Namesto odprtih vprašanj ponudite izbiro med dvema možnostma ali vprašanje, na katero je mogoče odgovoriti z da ali ne."
+  - "Počakajte na odgovor. Če osebe ne razumete, ponovite iste besede, nato poskusite z drugimi."
+  - "Ne prepirajte se in ne popravljajte. Odzovite se na čustvo, ki je v tem, kar oseba pove."
+  - "Ko besede postajajo redkejše, komunicirajte z dotikom, tonom glasu, izrazom obraza in skupnim gledanjem slik."
 faq:
-  - q: "Česa ne bi smel reči osebi z demenco?"
-    a: "Izogibajte se izpraševanju („Se spomnite ...?“), popravljanju („To je narobe“), spominjanju na izgube („Saj sem vam že povedal“) in govorjenju o njih, kot da jih ni prisotne. Izogibajte se tudi dojenčkovskemu govoru. To ponavadi povzroči zadrego ali stisko, ne pomaga pa."
-  - q: "Ali naj jih popravim, kadar se zmotijo v dejstvih?"
-    a: "Ponavadi ne. Če je zmotno dejstvo nenevarno, ga pustite. Prepiranje redko spremeni mnenje osebe in pogosto jo razburi. Osredotočite se na to, kako se počuti in kaj potrebuje zdaj."
-  - q: "Kaj storim, ko ne najdejo besede?"
-    a: "Najprej jim dajte čas. Če se očitno mučijo, je v redu, da nežno ponudite besedo ali ugibate, kaj mislijo, in preverite. Pomagajo lahko tudi kazanje, geste in slike."
-  - q: "Kako se pogovarjam z osebo v poznem stadiju demence, ki redko govori?"
-    a: "Približajte se od spredaj, povejte, kdo ste, in uporabite miren glas ter nežen dotik. Opazujte obraze in telesno govorico, da odkrijete čustva. Vaša prisotnost, znana pesem ali držanje za roke lahko veliko sporočita brez besed."
+  - q: "Kaj ne bi smeli reči osebi z demenco?"
+    a: "Izogibajte se spraševanju (»Se spomnite ...?«), popravljanju (»To ni prav«), opominjanju na izgube (»To sem vam že povedal/a«) in pogovorom o osebi, kot da je ni zraven. Izogibajte se otročjemu govoru. Takšne besede pogosto povzročijo zadrego ali stisko, ne pomagajo pa."
+  - q: "Ali naj osebo popravim, ko se zmoti pri dejstvih?"
+    a: "Običajno ne. Če je napačno dejstvo neškodljivo, ga raje pustite. S prepiranjem redko spremenite prepričanje osebe, pogosto pa jo razburite. Osredotočite se na to, kako se počuti in kaj potrebuje prav zdaj."
+  - q: "Kaj storim, ko oseba ne najde prave besede?"
+    a: "Najprej ji dajte čas. Če opazite, da ima očitne težave, je v redu, da nežno predlagate besedo ali ugibate, kaj misli, in to preverite. Pomagajo lahko tudi kazanje, kretnje in slike."
+  - q: "Kako se pogovarjati z osebo v poznejši stopnji demence, ki le redko govori?"
+    a: "Približajte se od spredaj, povejte, kdo ste, in uporabite miren glas ter nežen dotik. Opazujte obraz in govorico telesa, da razumete čustva. Vaša prisotnost, znana pesem ali prijem za roko lahko sporočita veliko tudi brez besed."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -38,110 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Demenca lahko oteži iskanje besed, sledenje dolgemu stavku ali izključevanje hrupa v ozadju. Nič od tega ne pomeni,
-da oseba ne želi več stika. Majhne spremembe v tem, kako začnete pogovor, kako govorite in kako poslušate, lahko pogovor
-naredijo lažji in mirnejši za oba.
+Demenca lahko oteži iskanje besed, sledenje daljši povedi ali izločanje hrupa v ozadju. To ne pomeni, da si oseba ne želi več stika z drugimi. Majhne spremembe v tem, kako pripravite pogovor, kako govorite in kako poslušate, lahko pogovor olajšajo in pomirijo za oba.
 
-## Kateri so najpomembnejši nasveti za pogovor z osebo z demenco?
+## Kateri nasveti so najpomembnejši pri pogovoru z osebo, ki živi z demenco?
 
-Pridobite njeno pozornost, ohranite preprostost in bodite potrpežljivi. Če si zapomnite le pet stvari:
+Pridobite njeno pozornost, govorite preprosto in bodite potrpežljivi. Če si zapomnite le pet stvari:
 
-1. **Umirite prostor in se obrnite k njej.** Izklopite televizor, sedite na višini oči in uporabite njeno ime.
-2. **Povejte eno stvar naenkrat.** Kratki stavki, ena misel, eno vprašanje.
-3. **Ponudite izbiro med dvema.** „Čaj ali kava?“ je lažje kot „Kaj bi radi?“
-4. **Počakajte.** Dajte si več časa za odgovor, kot se zdi naravno, in se poskušajte ne vmešavati.
-5. **Nikoli se ne prepirajte in ne izpraševanjte.** Odzovite se na to, kako se počuti, ne na to, ali so dejstva prav.
+1. **Umirite prostor in se obrnite proti osebi.** Izklopite televizijo, sedite v višini oči in uporabite njeno ime.
+2. **Povejte eno stvar naenkrat.** Kratke povedi, ena misel, eno vprašanje.
+3. **Ponudite izbiro med dvema možnostma.** »Čaj ali kava?« je lažje kot »Kaj bi radi?«
+4. **Počakajte.** Dajte več časa za odgovor, kot se vam zdi naravno, in se potrudite, da ne prekinjate.
+5. **Nikoli se ne prepirajte in ne sprašujte.** Odzovite se na to, kako se oseba počuti, ne na to, ali so dejstva pravilna.
 
 ## Kako naj začnem pogovor?
 
-Uredite stvari tako, da se lahko oseba osredotoči na vas. [Vodnik Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
-priporoča, da najprej omejite hrup: izklopite radio ali televizor, zaprite zavese ali vrata ali pa se preselite v tišji prostor.
+Pripravite se tako, da se bo oseba lahko osredotočila na vas. [Vodnik organizacije Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) priporoča, da najprej omejite hrup: izklopite radio ali televizijo, zaprite zavese ali vrata ali pa se preselite v tišji prostor.
 
-- **Približajte se od spredaj.** Prihod od zadaj ali s strani lahko prestraši.
-- **Povejte, kdo ste.** „Živjo, oči, jaz sem Sara, tvoja hči.“ To jim prihrani iskanje vašega imena.
-- **Pojdite na njihovo višino.** Če sedijo, sedite ali klečite, da so vaše oči na isti višini.
-- **Preverite svoj obraz in ton.** [Nacionalni inštitut za staranje (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers)
-  svetuje, da se zavedate svojega tona, glasnosti, izraza obraza in telesne govorice ter si prizadevate za topel, stvaren način.
-- **Poskrbite, da sta očala in slušni aparati na mestu.** Težko je slediti pogovoru, če ga ne morete popolnoma videti ali slišati.
+- **Približajte se od spredaj.** Če pridete od zadaj ali s strani, lahko osebo presenetite.
+- **Povejte, kdo ste.** »Živijo, oče, tukaj sem Sarah, vaša hči.« Tako ji prihranite iskanje vašega imena.
+- **Spustite se v višino njenih oči.** Če oseba sedi, se usedite ali počepnite, da ste z očmi v isti višini.
+- **Bodite pozorni na izraz obraza in ton glasu.** [Nacionalni inštitut za staranje (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) svetuje, da ste pozorni na ton, glasnost, izraz obraza in govorico telesa ter si prizadevate za topel, miren način govora.
+- **Preverite, ali ima oseba očala in slušni aparat.** Težko je slediti pogovoru, če ga ne vidite ali slišite dobro.
 
-## Kako naj oblikujem, kar govorim?
+## Kako naj oblikujem, kar rečem?
 
-Uporabljajte preproste besede, kratke stavke in miren, nizek glas.
+Uporabljajte preproste besede, kratke povedi in miren, tih glas.
 
-- **Ena misel na stavek.** „Obujmo vašo jakno. Potem gremo ven.“ Ne oboje v enem dihu.
-- **Uporabljajte imena, ne zaimkov.** „Teta Jean je klicala“ je jasneje kot „Ona je klicala.“
-- **Nižje, ne glasneje.** Družinski skrbniki priporočajo nižji glas namesto dvignjenega.
-- **Ponovite, nato preoblikujte.** Če niso razumeli, enkrat ponovite iste besede. Če to ne deluje, počakajte trenutek in poskusite z drugimi besedami.
-- **Pokažite in ne samo povejte.** Pokažite na skodelico, držite dva pulovra ali pokažite prvi korak.
-- **Govorite z njimi, ne o njih.** NIA opozarja pred govorjenjem o osebi, kot da je ni, in pred „dojenčkovskim govorom“.
+- **Ena misel na poved.** »Oblecimo si plašč. Potem bomo šli ven.« Ne povejte obojega v enem zamahu.
+- **Uporabljajte imena, ne zaimkov.** »Poklicala je teta Jean« je jasneje kot »Poklicala je ona«.
+- **Govorite nižje, ne glasneje.** Organizacija Family Caregiver Alliance priporoča nižji glas namesto povišanega.
+- **Ponovite, nato preoblikujte.** Če oseba ni razumela, enkrat ponovite iste besede. Če to ne pomaga, počakajte trenutek in poskusite z drugimi besedami.
+- **Pokažite in povejte.** Pokažite na skodelico, dvignite oba puloverja ali pokažite prvi korak.
+- **Govorite z osebo, ne o njej.** NIA opozarja, naj o osebi ne govorite, kot da je ni zraven, in naj se izogibate otročjemu govoru.
 
-NIA predlaga preprostejše različice pogostih vprašanj. Tu so primeri v tem duhu:
+NIA predlaga preprostejše različice pogostih vprašanj. Tukaj je nekaj primerov v tem duhu:
 
-| Namesto tega | Poskusite |
+| Namesto | Poskusite |
 | --- | --- |
-| „Kaj si želite za večerjo?“ | „Bi raje ribo ali piščanca?“ |
-| „Kako se počutite?“ | „Ali ste utrujeni?“ |
-| „Ali ste lačni?“ | „Večerja bo pripravljena čez pet minut.“ |
-| „Tako se to ne dela.“ | „Poskusimo tako.“ |
-| „Se spomnite našega izleta na jezero?“ | „Mislila sem na naš izlet na jezero. Povejte mi, kaj vam je bilo všeč.“ |
-| „Saj sem vam že povedal.“ | Odgovorite znova, prijazno, kot da bi bilo prvič. |
+| »Kaj bi radi za večerjo?« | »Bi radi ribo ali piščanca?« |
+| »Kako se počutite?« | »Ste utrujeni?« |
+| »Ste lačni?« | »Večerja bo pripravljena čez pet minut.« |
+| »Tako se to ne dela.« | »Poskusimo takole.« |
+| »Se spomnite našega izleta na jezero?« | »Razmišljal/a sem o našem izletu na jezero. Povejte mi, kaj vam je bilo všeč.« |
+| »To sem vam že povedal/a.« | Ponovno odgovorite prijazno, kot da je prvič. |
 
-## Kako naj dobro poslušam?
+## Kako dobro poslušati?
 
-Poslušajte pomen in občutek, ne samo besed.
+Poslušajte pomen in čustvo, ne le besed.
 
-- **Počakajte.** Tišina je pogosto čas za razmišljanje. Preden posežete vmes, počasi štejte do deset.
-- **Ponudite besedo le, če se zatakne.** Family Caregiver Alliance pravi, da je v redu predlagati besede, kadar se nekdo muči.
-- **Preverite, kaj ste slišali.** [Vodnik Alzheimerjevega združenja o sporazumevanju](https://www.alz.org/help-support/caregiving/daily-care/communications)
-  svetuje, da poiščete pomen za njihovimi besedami in ga ponovite, da preverite, ali ste razumeli. „Skrbi vas avto?“
-- **Opazujte njihov obraz in telo.** Ko govor postaja težji, NIA opozarja, da lahko izrazi obraza pokažejo žalost, jezo ali frustracijo
-  bolj jasno kot besede.
-- **Jemljite skrbi resno.** Tudi če skrb temelji na zmotnem dejstvu, je občutek resničen.
+- **Počakajte.** Tišina je pogosto čas za razmišljanje. Počasi štejte do deset, preden posežete vmes.
+- **Besedo predlagajte le, če se oseba zatakne.** Organizacija Family Caregiver Alliance pravi, da je v redu predlagati besede, ko ima nekdo težave.
+- **Preverite, kaj ste slišali.** [Vodnik Alzheimerjeve zveze o komunikaciji](https://www.alz.org/help-support/caregiving/daily-care/communications) priporoča, da poiščete pomen za besedami in ga povzamete, da preverite, ali ste pravilno razumeli. »Skrbi vas avto?«
+- **Opazujte obraz in telo.** Ko govor postaja težji, NIA poudarja, da lahko izraz obraza kaže žalost, jezo ali stisko jasneje kot besede.
+- **Skrbi jemljite resno.** Tudi če skrb temelji na napačnem dejstvu, je čustvo resnično.
 
-## Kaj, če rečejo nekaj, kar ni res?
+## Kaj, če oseba pove nekaj, kar ne drži?
 
-Ne prepirajte se. Malo verjetno je, da boste zmagali, oseba pa se lahko na koncu počuti v zadregi ali prestrašena. Namesto tega se povežite
-z občutkom in se nato nežno premaknite naprej.
+Ne prepirajte se. Verjetno ne boste uspeli, oseba pa se lahko na koncu počuti osramočeno ali prestrašeno. Namesto tega se povežite s čustvom in nato nežno nadaljujte.
 
-Family Caregiver Alliance predlaga, da priznate čustvo, preden preusmerite. Na primer, če vaša mama vztraja, da mora iti po otroke v šolo:
+Organizacija Family Caregiver Alliance predlaga, da najprej prepoznate čustvo in šele nato preusmerite pogovor. Na primer, če vaša mama vztraja, da mora iti po otroke v šolo:
 
-- Namesto: „Mama, vaši otroci so odrasli. To je bilo pred štiridesetimi leti.“
-- Poskusite: „Vedno ste bili tako skrbna mama. Povejte mi o tem, kako ste jih pobirali. Najprej si privoščiva prigrizek?“
+- Namesto: »Mama, tvoji otroci so odrasli. To je bilo pred štiridesetimi leti.«
+- Poskusite: »Vedno ste bili tako skrbna mama. Povejte mi, kako ste jih hodili iskat. Bi najprej kaj prigriznili?«
 
-Alzheimerjevo združenje tudi svetuje, da se ne prepirate o izjavah, s katerimi se ne strinjate. Izbirajte trenutke: če je zmotno prepričanje
-nenevarno, ga pustite.
+Alzheimerjeva zveza prav tako svetuje, naj se ne prepirate glede trditev, s katerimi se ne strinjate. Izberite trenutke: če je napačno prepričanje neškodljivo, ga pustite.
 
-## Kako se sporazumevanje spreminja, ko demenca napreduje?
+## Kako se komunikacija spreminja z napredovanjem demence?
 
-Potrebe se skozi čas spreminjajo, zato prilagodite pristop. Alzheimerjevo združenje opisuje tri široke faze:
+Potrebe se s časom spreminjajo, zato prilagodite svoj pristop. Alzheimerjeva zveza opisuje tri širše stopnje:
 
-| Faza | Kaj pomaga |
+| Stopnja | Kaj pomaga |
 | --- | --- |
-| Zgodnja | Ne predpostavljajte, da se ne morejo sporazumevati. Vključite jih v pogovore, govorite jim neposredno, vprašajte, kakšno podporo si želijo, in uporabite humor, če pomaga. |
-| Srednja | Pogovori eden na enega na mirnem mestu. Govorite počasi, ohranjajte stik z očmi, uporabljajte vprašanja z da ali ne, dajte navodila po korakih ter ne kritizirajte ali popravljajte. |
-| Pozna | Približajte se od spredaj in povejte, kdo ste. Spodbujajte kazanje in geste. Uporabite dotik, zvoke, prizore in vonje. Nikoli ne govorite, kot da jih ni tukaj. |
+| Zgodnja | Ne sklepajte, da oseba ne more komunicirati. Vključite jo v pogovore, govorite neposredno z njo, vprašajte, kakšno podporo si želi, in po potrebi uporabite humor. |
+| Srednja | Pogovori ena na ena v tihem prostoru. Govorite počasi, ohranjajte očesni stik, uporabljajte vprašanja z odgovorom da ali ne, dajte navodila po korakih ter ne kritizirajte in ne popravljajte. |
+| Pozna | Približajte se od spredaj in povejte, kdo ste. Spodbujajte kazanje in kretnje. Uporabljajte dotik, zvoke, podobe in vonjave. Nikoli ne govorite, kot da osebe ni zraven. |
 
-Vsak človek je drugačen, in isti človek lahko ima dobre in težke dni. Odzovite se na to, kako je oseba zdaj, ne na oznako.
+Vsaka oseba je drugačna, isti osebi pa so lahko dnevi različni. Odzovite se na to, kakšna je oseba prav zdaj, ne na oznako.
 
 ## Ali lahko slike in dejavnosti olajšajo pogovor?
 
-Da. Skupna slika odvzame pritisk in vsakemu daje nekaj, kar lahko gledata in kažeta.
+Da. Skupna slika zmanjša pritisk in vama obema da nekaj, kar si lahko ogledate in na kar pokažete.
 
-- **Slike kot vodila.** [Kartice za pogovor](/games/conversation-cards/) ponujajo slike z odprtimi vprašanji, ki nikoli ne izpraševajo.
-- **Družinske fotografije.** [Pari fotografij](/games/photo-pairs/) spremeni fotografije, ki jih izberete, v nežno igro ujemanja, ki pogosto sproži zgodbe.
-- **Znani reki.** [Dokončaj rek](/games/finish-the-saying/) uporablja znane ameriške reke, za vsakim sledi vodilo za pogovor.
-- **Igre za ozadje.** [Pari slik](/games/picture-pairs/) da rokam nekaj, s čimer se zaposlijo, medtem ko klepetate.
+- **Slikovne pobude.** [Conversation Cards](/games/conversation-cards/) ponujajo slike z odprtimi vprašanji, ki nikoli ne sprašujejo na pamet.
+- **Družinske fotografije.** [Photo Pairs](/games/photo-pairs/) spremeni fotografije, ki jih izberete, v nežno igro ujemanja, ki pogosto spodbudijo spomine.
+- **Znani reki.** [Finish the Saying](/games/finish-the-saying/) uporablja dobro znane ameriške reke, ki jim sledi spodbudno vprašanje za pogovor.
+- **Igre ujemanja kot podpora.** [Picture Pairs](/games/picture-pairs/) vam da nekaj, kar lahko počnete z rokami, medtem ko se pogovarjate.
 
-Več o tem najdete v [igranju iger skupaj](/caregiving/how-to-play-together/) in [obujanju spominov](/activities/reminiscence/). Za obiske in klice
-preberite naša vodnika o [obiskih](/activities/visiting/) in [telefonskih in videoklicih](/activities/phone-and-video-calls/).
+Več o tem si preberite v vodnikih [kako se skupaj igrati](/caregiving/how-to-play-together/) in [dejavnosti obujanja spominov](/activities/reminiscence/). Za obiske in klice si oglejte tudi vodnika [obiski](/activities/visiting/) ter [telefonski in video klici](/activities/phone-and-video-calls/).
+
+Za osebo, ki govori več jezikov, si oglejte naš [vodnik za komunikacijo v različnih jezikih](/caregiving/language-and-dementia-communication/).
 
 ## Kaj, če izgubim potrpljenje?
 
-Vsakomur se to zgodi. NIA svetuje, da se, če postanete frustrirani, vzamete nekaj časa za umiritev. Stopite v drugo sobo, nekajkrat počasi
-zadihajte in se vrnite, ko lahko. Pogovor lahko vedno začnete znova, oseba pa se bo morda odzvala na vaše mirnejše razpoloženje. Če frustracija
-postaja stalna, je to znak, da potrebujete več podpore, ne da ste neuspešni. Naš vodnik o [skrbi zase](/caregiving/caregiver-self-care/) ima mesta,
-kamor se lahko obrnete.
+To se zgodi vsakomur. NIA priporoča, da si, če postanete razdraženi, vzamete nekaj časa, da se umirite. Stopite v drugo sobo, nekajkrat počasi vdihnite in se vrnite, ko boste lahko. Pogovor lahko vedno začnete znova, oseba pa se bo morda dobro odzvala na vaše mirnejše razpoloženje. Če postaja razdražljivost stalna, je to znak, da potrebujete več podpore, ne da ste neuspešni. Naš vodnik [skrb zase za skrbnike](/caregiving/caregiver-self-care/) navaja, kam se lahko obrnete.

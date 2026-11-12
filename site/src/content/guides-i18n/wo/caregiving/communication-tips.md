@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Ndimbal ngir waxtaane ak nit ku dëkk ak demans"
+seoTitle: "Ndimbal ngir waxtaane ak nit ku dëkk ak demans"
+description: "Ndimbal yu am solo ngir waxtaane ak nit ku dëkk ak demans: naka lañuy waajale waxtaan, lan lañuy wax, ak naka lañuy dégg bu baax."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Waxtaanal ci barab bu dal, jàkkaarlook nit ki, jëfandikoo turam, te waxal
+  ndànk ci baat yu gàtt te yomb. Laaj benn laaj rekk ci benn yoon, jox ñaari
+  tànnéef ci kaw laaj yu ubbeeku, te xaaral lu gën a gudd li nga yaakaar.
+  Bul weddi, bul jubanti, te bul laaj laaj yu mel ni natt. Tontul ci yëg-yëg
+  yi nekk ci biir baat yi, te jëfandikoo laal, nataal ak jëmmal su baat yi
+  gënatee di jafe.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Wàññil coow gi te amal jàkkaarlook gët yi balaa ngay tàmbali waxtaan."
+  - "Jëfandikool baat yu gàtt, benn xalaat ci benn yoon, ak tur yi ci kaw moom, moom, ñoom."
+  - "Jox tànnéef ci ñaari mbir, mbaa laaj bu ñuy tontu waaw walla déed, lu gën a baax laaj yu ubbeeku."
+  - "Xaaral tontu. Su ñu ko déggul bu baax, baamtu baat yi, gannaaw loolu jéemal baat yu bees."
+  - "Bul weddi, bul jubanti. Tontul ci yëg-yëg yi nekk ci li mu wax."
+  - "Su baat yi di wàññeeku, waxtaaneel ak laal, melokaanu baat, melokaanu kanam ak nataal yi ngeen bokk."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Lan la waruloo wax nit ku dëkk ak demans?"
+    a: "Bul laaj laaj yu mel ni natt («Ndax fàttaliku nga...? »), bul jubanti («Loolu baaxul»), bul fàttali ko ñàkk yi («Waxoon naa la ko ba noppi») te bul waxtaan ci mbiram ni mel ni fii nekku. Bul ko waxal ni xale. Loolu mën na indi gàcce mbaa metit te du jàppale."
+  - q: "Ndax war naa ko jubanti su mu juum ci ay xibaar?"
+    a: "Li ëpp, déedet. Su juum gi amul lu ñaw, bàyyil ko. Weddi dafay yées jëm ci coppite xalaat nit ki, te dafay gën a faral di ko merloo. Xanaa defal sa xel ci ni mu yëg ak li soxla leegi."
+  - q: "Lan laay def su mu mënuñoo gis baat bi?"
+    a: "Jox ko lu njëkk diir. Su mu mel ni mu ngi sonn, baax na su nga jéemal di ko dimbali ak benn baat mbaa di xalaat li mu bëgg a wax te laaj ko. Jëmmal ak nataal mën nañu itam jàppale."
+  - q: "Naka laay waxtaane ak nit ku tollu ci tolluwaayu demans bu mujj te du faral di wax?"
+    a: "Jegesi ko ci kanam, wax ko yaw kan la, te jëfandikoo baat bu dal ak laal bu nooy. Xoolal kanamam ak jëmmalam ngir xam yëg-yëgam. Sa teew, woy wu mu xam mbaa ŋàbbante loxo mën nañu yóbbu lu bari te doo soxla baat."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Demans mën na def mu gën a jafe nit ki ngir gis baat, topp baat yu gudd, mbaa baña déglu coow yi ko wër. Loolu du firi ne nit ki dootu bëgg a jokkoo. Coppite yu ndaw ci naka nga waajale waxtaan, naka nga waxe ak naka nga dégg mën na def waxtaan gi gën a yomb te gën a dalal ñépp.
 
-## What are the most important tips for talking with someone who has dementia?
+## Yan ndimbal la gën a am solo ngir waxtaane ak nit ku dëkk ak demans?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Tegal xelam ci yaw, defal mbir yi yomb, te muñal. Su fekkee juróom mbir rekk nga mën a fàttaliku:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Defal néeg bi dal te jàkkaarlook moom.** Fayeel televisioŋ bi, toogal ci tolluwaayu gëtam, te jëfandikoo turam.
+2. **Waxal benn mbir ci benn yoon.** Baat yu gàtt, benn xalaat, benn laaj.
+3. **Jox ñaari tànnéef.** «Ataaya mbaa kafe?» moo gën a yomb «Lan nga bëgg a naan?»
+4. **Xaaral.** Jox ko diir bu gën a gudd ngir mu tontu lu gën li nga yaakaar, te bul ko dogal.
+5. **Bul weddi, bul laaj laaj yu mel ni natt.** Tontul ci ni mu yëg, du ci ndax xibaar yi jub nañu.
 
-## How should I start a conversation?
+## Naka laay tàmbalee waxtaan?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Waajalal mbir yi ba nit ki mën a def sa xel ci yaw. [Gindi gi Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) diglé nañu ñu njëkk a wàññi coow: fayeel raajo wala televisioŋ, tëj rido yi wala bunt bi, mbaa demal barab bu gën a dal.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Jegesi ko ci kanam.** Soo ko jëlee ci gannaaw mbaa ci wet gi mën na ko jaaxal.
+- **Wax ko yaw kan la.** «Nanga def Baay, man laa Sarah, sa doom ju jigéen.» Loolu mën na wallu ko ba du soxla di wut sa tur.
+- **Wàccal ci tolluwaayam.** Su mu toogee, toogal mbaa sukklul ba sa gët yi tollook ay gëtam.
+- **Saytul sa kanam ak melokaanu sa baat.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) diglé na ñuy bàyyi xel ci melokaanu baat, dooleem, melokaanu kanam ak jëmmal, te jéem a am melokaanu bu tàng te wóor.
+- **Seetal ndax lunet yi ak jumtukaayi dégg yi ci nekk nañu.** Dafa jafe a topp waxtaan boo mënu koo gis mbaa dégg bu baax.
 
-## How should I phrase what I say?
+## Naka laay tëral baat yi may wax?
 
-Use simple words, short sentences and a calm, low voice.
+Jëfandikool baat yu yomb, baat yu gàtt ak baat bu dal te suufe.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Benn xalaat ci benn baat.** «Ñu sol sa palto. Gannaaw loolu ñu dem biti.» Du ñaar ñoo bokk ci benn yoon.
+- **Jëfandikool tur, du turu tékkal.** «Nijaayam Jean moo woote» moo gën a leer «Moom moo woote».
+- **Wàññil baat bi, bul ko kawe.** Family Caregiver Alliance diglé na ñuy wàññi baat bi lu gën a baax kawe ko.
+- **Baamtu, gannaaw loolu soppi baat yi.** Su déggul, baamtul baat yi benn yoon. Su loolu doxul, xaaral tuuti te jéemal baat yu wuute.
+- **Won ko itam li ngay wax.** Jëmmal ci kaas bi, yëgal ñaari pull yi, mbaa wonal jéego ji njëkk.
+- **Waxtaaneel ak moom, bul waxtaan ci mbiram.** NIA artu na ci baña waxtaane ci nit ki ni mel ni fii nekku, ak baña wax ak moom ni xale.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA diglé na ay pexe yu yomb ngir ay laaj yu ñuy faral di def. Ñii ay misaal ci loolu:
 
-| Instead of | Try |
+| Ci kaw | Jéemal |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Lan nga bëgg a lekk ci reer?» | «Ndax jën mbaa ganaar nga bëgg?» |
+| «Naka nga yëgee?» | «Ndax dangay sonn?» |
+| «Ndax xiif nga?» | «Reer dina ñów ci juróom i simili.» |
+| «Du noonu lañuy defe.» | «Ñu jéem ko nii.» |
+| «Ndax fàttaliku nga sunu tukki ci dex gi?» | «Damaa doon xalaat sunu tukki ci dex gi. Wax ma li la ci neexoon.» |
+| «Waxoon naa la ko ba noppi.» | Tontu ko ci baat yu baax, ni mel ni yoon bi njëkk la. |
 
-## How do I listen well?
+## Naka laay dégg bu baax?
 
-Listen for the meaning and the feeling, not just the words.
+Déglul baat yi rekk, waaye déglul itam li ñuy tekki ak yëg-yëg yi ci nekk.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Xaaral.** Lu ñuy noppi lu bari ay jamono la yu ñuy xalaate. Waŋñal ba fukk balaa nga dugg.
+- **Jox ko baat su mu taxawee rekk.** Family Caregiver Alliance nee baax na su ñuy dimbali nit ki ak ay baat su mu doon sonn.
+- **Saytul li nga dégg.** [Gindi gi Alzheimer’s Association ci waxtaan](https://www.alz.org/help-support/caregiving/daily-care/communications) diglé na ñuy seet li baat yi di tekki te baamtu ko ngir xam ndax dégg nañu bu baax. «Yaa ngi jaaxle ci oto bi?»
+- **Xoolal kanamam ak jëmmalam.** Su wax di gën a jafe, NIA wone na ne melokaanu kanam mën na wone naqqar, mer mbaa sonn lu gën a leer baat yi.
+- **Jëlal ay jaaxle bu am solo.** Donte jaaxle bi ci xibaar bu jubul la jógee, yëg-yëg bi dëgg la.
 
-## What if they say something that is not true?
+## Su mu waxee mbir mu dëggul?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Bul weddi. Mënuloo am ndam te nit ki mën na gàcce mbaa tiit. Waaye, jokkoo ak yëg-yëg bi, gannaaw loolu doxal ko ndànk ci yoon wu beneen.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance diglé na ñuy njëkk a nangu yëg-yëg bi balaa ñuy soppiku. Misaal, su sa yaay saxee ne war na jël xale yi ci daara:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Ci kaw: «Yaay, say doom mag ña. Loolu am na ñaar fukk ak ñenti at.»
+- Jéemal: «Danga doon yaay bu baax te yërëm. Wax ma naka nga daan jëlee leen. Ndax ñu lekk tuuti lu njëkk?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association itam diglé na ñu bañ a weddi ci ay wax yu ñu àndul. Tànnal jamono yi: su xalaat bu jubul amul lu ñaw, bàyyil ko noonu.
 
-## How does communication change as dementia progresses?
+## Naka la waxtaan di soppeeku su demans di gën a màgg?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Soxla yi dañuy soppeeku ci diir bi, kon soppi sa yoon. Alzheimer’s Association wone na ñetti tolluwaay yu mag:
 
-| Stage | What helps |
+| Tolluwaay | Li mën a jàppale |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Tàmbali | Bul yaakaar ne mënuñu waxtaane. Dugal leen ci waxtaan yi, waxal ak ñoom ci bopp, laaj leen ndimbal lu ñu soxla, te jëfandikoo kaf su loolu mën a jàppale. |
+| Diggante | Waxtaan ci ñaari nit ci barab bu dal. Waxal ndànk, jàkkaarlook gët yi, jëfandikoo laaj yu ñuy tontu waaw walla déed, jox ndigal jéego ci jéego, te bul ŋàññ mbaa di jubanti. |
+| Mujj | Jegesi ko ci kanam te wax ko yaw kan la. Yëgal jëmmal ak digal ak baaraam. Jëfandikoo laal, coow, gis-gis ak xet. Bul mukk a waxtaan ni mel ni fii nekku. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Benn nit du mel ni beneen, te nit kenn ki mën na am bés yu baax ak yu metti. Jàngal ci ni mu mel leegi, du ci turu feebar bi.
 
-## Can pictures and activities make conversation easier?
+## Ndax nataal ak ay liggéey mën nañu yombal waxtaan?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Waaw. Nataal bu ngeen bokk day wàññi naqar bi te jox ñépp mbir mu ñuy xool te jëmmal.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Ay nataal yu yóbbu waxtaan.** [Conversation Cards](/games/conversation-cards/) dañuy jox nataal ak laaj yu ubbeeku te duñu natt.
+- **Nataali njaboot.** [Photo Pairs](/games/photo-pairs/) dafay soppi nataal yi nga tànn di liggéeyu jàppante bu nooy, te dafay faral di yóbbu nettali.
+- **Ay kàddu yu ñuy xam.** [Finish the Saying](/games/finish-the-saying/) dafay jëfandikoo kàddu yu ñuy xam te ñu topp ko ak laaj ngir waxtaan.
+- **Ay liggéeyu jàppante.** [Picture Pairs](/games/picture-pairs/) dafay jox sa loxo mbir mu ñuy def di waxtaan.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Xoolal [naka lañuy foogante liggéey yi](/caregiving/how-to-play-together/) ak [liggéey yu fàttaliku](/activities/reminiscence/) ngir yeneen xibaar. Ngir seetsi ak woote, jàngal sunuy gindi ci [seetsi](/activities/visiting/) ak [woote telefon ak wideo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ngir nit ku làkk yu bari, xoolal sunu [gindi ci waxtaan ci làkk yu wuute](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Su ma xawaaree sama muñ?
+
+Loolu mën na am ku nekk. NIA diglé na ne su nga merlee, jëlal tuuti diir ngir dalal sa bopp. Demal beneen néeg, noyyil ndànk, te dellusi soo gën a dal. Mën nga tàmbaliwaat waxtaan bi, te nit ki mën na tontu bu baax ci sa dal. Su mer di am saa su ne, loolu mooy màndarga ne soxla nga yeneen ndimbal, du ne yaa ngi lëj. Sunu gindi ci [toppatoo sa bopp](/caregiving/caregiver-self-care/) am na barab yu nga mën a wàcce ngir ndimbal.

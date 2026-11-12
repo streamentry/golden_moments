@@ -1,34 +1,34 @@
 ---
-title: "Tips Rembagan kaliyan Tiyang ingkang Gadhah Demensia"
-seoTitle: "Tips Komunikasi Demensia: Punapa ingkang Dipunaturaken"
-description: "Cara praktis ngobrol kaliyan tiyang ingkang gesang kaliyan demensia: nyiapaken rembagan, ingkang dipunaturaken tinimbang nguji utawi mbenerake, lan mirengaken."
+title: "Tips Komunikasi karo Wong sing Urip karo Demensia"
+seoTitle: "Tips Komunikasi Demensia: Sing Perlu Diomongaké"
+description: "Cara praktis omong-omongan karo wong sing urip karo demensia: nyiapaké pacelathon, apa sing luwih becik diomongaké, lan carané ngrungokaké."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Rembagan ing papan ingkang sepi, madhep dhateng piyambakipun, ngginakaken
-  namanipun, lan ngandika alon kanthi ukara cekak lan prasaja. Tanglet
-  setunggal-setunggal, aturaken kalih pilihan tinimbang pitakenan terbuka, lan
-  ngentosi langkung dangu tinimbang ingkang karaos limrah. Sampun mbantah,
-  mbenerake, utawi nguji. Mangsuli raos ing wingking tembungipun, lan
-  ginakaken sentuhan, gambar, lan isyarat nalika ngandika dados langkung awrat.
+  Ngomonga ing papan sing sepi, madep wong mau, gunakaké jenengé, lan alon-alon
+  nganggo ukara sing cendhak lan prasaja. Takokna siji pitakonan saben wektu,
+  wènèhana rong pilihan tinimbang pitakonan sing mbukak, lan entèni luwih suwe
+  tinimbang sing lumrah. Aja padu, mbeneraké, utawa nguji. Tanggepana perasaan
+  sing ana ing mburi tembungé, lan gunakaké sentuhan, gambar, lan gerak awak
+  nalika omongan dadi saya angel.
 keyPoints:
-  - "Kurangi swanten latar lan angsal tatapan mripat sakderengipun miwiti ngandika."
-  - "Ginakaken ukara cekak, setunggal gagasan sepisan, lan nama tinimbang piyambakipun utawi tiyang menika."
-  - "Aturaken pilihan kalih, utawi pitakenan inggih-utawi-boten, tinimbang pitakenan terbuka."
-  - "Ngentosi wangsulan. Manawi boten dipunmangertosi, ulangi tembung ingkang sami, lajeng cobi tembung énggal."
-  - "Sampun mbantah utawi mbenerake. Mangsuli raos ing wingking punapa ingkang dipunandharaken."
-  - "Nalika tembung saya sekedhik, komunikasi liwat sentuhan, nada, ekspresi rai, lan gambar ingkang dipunbagekaken."
+  - "Suda swara latar lan jalin kontak mripat sadurunge miwiti omong-omongan."
+  - "Gunakaké ukara cendhak, siji gagasan saben wektu, lan jeneng tinimbang dhèwèké."
+  - "Wènèhana pilihan loro, utawa pitakonan ya utawa ora, tinimbang pitakonan sing mbukak."
+  - "Entèni wangsulané. Yen ora dimangerteni, balèni tembung sing padha, banjur coba tembung liya."
+  - "Aja padu utawa mbeneraké. Tanggepana perasaan sing ana ing mburi omongané."
+  - "Nalika tembung saya suda, komunikasina liwat sentuhan, nada swara, ekspresi rai, lan gambar sing dideleng bebarengan."
 faq:
-  - q: "Punapa ingkang boten kedah dipunaturaken dhateng tiyang kaliyan demensia?"
-    a: "Singkiri nguji (\"Panjenengan émut...?\"), mbenerake (\"Menika lepat\"), ngéngetaken kilangan (\"Kula sampun ngandharaken\"), lan ngrembag piyambakipun kados-kados boten wonten ing mriku. Singkiri ngandika kados dhateng bocah. Menika limrahipun nuwuhaken kawirangan utawi kasusahan tanpa mbiyantu."
-  - q: "Punapa kula kedah mbenerake piyambakipun manawi lepat bab kasunyatan?"
-    a: "Limrahipun boten. Manawi kasunyatan ingkang lepat menika boten mbebayani, pasrahaken. Mbantah arang ngewahi pamanggih tiyang menika lan asring damel piyambakipun susah. Tumuju dhateng raosipun lan punapa ingkang dipunbetahaken sapunika."
-  - q: "Punapa ingkang kedah dipundamel manawi piyambakipun boten saged nemokaken tembung?"
-    a: "Paringi wekdal rumiyin. Manawi piyambakipun cetha kesulitan, mboten punapa-punapa nawisaken tembung kanthi alus utawi nerka punapa ingkang dipuntegesaken lan mastekaken. Nuding, isyarat, lan gambar ugi saged mbiyantu."
-  - q: "Kados pundi ngandika kaliyan tiyang ing demensia tahap lanjut ingkang arang ngandika?"
-    a: "Nyaketi saking ngajeng, sebataken sinten panjenengan, lan ginakaken swanten ingkang tentrem lan sentuhan ingkang alus. Awasi rai lan basa badan kangge ngertos raosipun. Kahanan panjenengan, lagu ingkang akrab, utawi gandhèng tangan saged ngandharaken kathah bab tanpa tembung."
+  - q: "Apa sing ora becik diomongaké marang wong sing urip karo demensia?"
+    a: "Aja nguji (“Panjenengan isih éling…?”), mbeneraké (“Kuwi salah”), ngélingaké bab sing wis ilang (“Aku wis ngomong mau”), lan ngomongké dhèwèké kaya-kaya ora ana ing kono. Aja nganggo basa kaya marang bocah cilik. Iki kerep ndadèkaké isin utawa susah tanpa mbantu."
+  - q: "Apa aku kudu mbeneraké nalika dhèwèké salah nyebutaké fakta?"
+    a: "Biasané ora. Yen fakta sing salah ora mbebayani, kejarna waé. Padhu kerep ora ngowahi pikirané lan malah kerep ndadèkaké dhèwèké susah. Fokus ing apa sing dirasakaké lan sing dibutuhaké saiki."
+  - q: "Apa sing kudu taklakoni nalika dhèwèké angel golek tembung?"
+    a: "Wènèhana wektu dhisik. Yen katon cetha lagi kangèlan, ora apa-apa alon-alon mbantu nyebutaké tembung utawa ngira apa sing dimaksud banjur mriksa. Nuding, gerak awak, lan gambar uga bisa mbantu."
+  - q: "Kepiye carané omong-omongan karo wong ing tahap pungkasan demensia sing arang ngomong?"
+    a: "Nyedhakia saka ngarep, sebutna sapa Panjenengan, lan gunakaké swara sing tenang lan sentuhan sing alon. Gatèkaké rai lan basa awak kanggo ngerti perasaané. Anané Panjenengan, lagu sing akrab, utawa nyekel tangané bisa ngandhakaké akeh bab tanpa tembung."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Demensia saged damel langkung awrat madosi tembung, ngetutaken ukara ingkang dawa, utawi ngilangaken swanten latar. Boten wonten saking menika ingkang ateges tiyang menika sampun mandheg kepéngin nyambung. Owah-owahan alit ing cara panjenengan nyiapaken rembagan, cara panjenengan ngandika, lan cara panjenengan mirengaken saged damel rembagan langkung gampil lan langkung tentrem kangge kalih-kalihipun.
+Demensia bisa ndadèkaké wong luwih angel golek tembung, ngetutaké ukara sing dawa, utawa nyaring swara latar. Nanging kuwi ora ateges wong mau ora pengin nyambung karo liyané. Owah-owahan cilik ing carané Panjenengan nyiapaké pacelathon, carané ngomong, lan carané ngrungokaké bisa ndadèkaké omong-omongan luwih gampang lan luwih tentrem kanggo Panjenengan loro.
 
-## Punapa tips ingkang paling wigati kangge ngandika kaliyan tiyang ingkang gadhah demensia?
+## Apa tips sing paling penting nalika omong-omongan karo wong sing urip karo demensia?
 
-Tarik kawigatosanipun, damel prasaja, lan sabar. Manawi panjenengan namung émut gangsal bab:
+Tarik kawigaténé, jaga supaya tetep prasaja, lan sabar. Yen Panjenengan mung éling limang bab:
 
-1. **Damel ruangan sepi lan madhep dhateng piyambakipun.** Pejahaken TV, lenggah sejajar kaliyan mripatipun, lan ginakaken namanipun.
-2. **Ngandika setunggal bab sepisan.** Ukara cekak, setunggal gagasan, setunggal pitakenan.
-3. **Aturaken pilihan kalih.** "Teh utawi kopi?" langkung gampil tinimbang "Panjenengan kersa punapa?"
-4. **Ngentosi.** Paringi wekdal langkung kathah kangge mangsuli tinimbang ingkang karaos limrah, lan sampun nyelani.
-5. **Sampun nate mbantah utawi nguji.** Mangsuli raosipun, sanes punapa kasunyatanipun leres.
+1. **Sepèkna kamar lan madepa dhèwèké.** Patèni TV, lungguh sejajar mripat, lan gunakaké jenengé.
+2. **Kandhakaké siji bab saben wektu.** Ukara cendhak, siji gagasan, siji pitakonan.
+3. **Wènèhana rong pilihan.** “Tèh utawa kopi?” luwih gampang tinimbang “Panjenengan arep ngombe apa?”
+4. **Entèni.** Wènèhana wektu luwih suwe kanggo mangsuli tinimbang sing lumrah, lan usahakna aja nyelani.
+5. **Aja padu utawa nguji.** Tanggepana apa sing dirasakaké, dudu bener orané fakta.
 
-## Kados pundi miwiti rembagan?
+## Kepiye carané miwiti pacelathon?
 
-Atur supados tiyang menika saged tumuju dhateng panjenengan. [Pandhuan Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) maringi pamrayogi mbatesi swanten rumiyin: pejahaken radio utawi TV, nutup kordhèn utawi lawang, utawi pindhah dhateng papan ingkang langkung sepi.
+Siapakna kahanan supaya wong mau bisa fokus marang Panjenengan. [Pandhuan Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) nyaranaké kanggo mbatesi swara rame dhisik: patèni radio utawa TV, tutup gordhèn utawa lawang, utawa pindhah menyang papan sing luwih sepi.
 
-- **Nyaketi saking ngajeng.** Rawuh saking wingking utawi saking sisih saged damel kaget.
-- **Sebataken sinten panjenengan.** "Bapak, menika Sari, putri Bapak." Menika ngicalaken piyambakipun saking pados nama panjenengan.
-- **Mudhun sejajar kaliyan piyambakipun.** Manawi piyambakipun lenggah, lenggah utawi jengkeng supados mripat panjenengan sejajar.
-- **Priksa rai lan nada panjenengan.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) maringi pamrayogi supados sadhar dhateng nada, swanten, ekspresi rai, lan basa badan panjenengan, lan ngarah cara ingkang anget lan wajar.
-- **Priksa manawi kacamata lan alat bantu pamireng sampun dipunpasang.** Awrat ngetutaken rembagan ingkang boten saged katingal utawi kapireng kanthi jangkep.
+- **Nyedhakia saka ngarep.** Nyedhak saka mburi utawa sisih bisa ndadèkaké kaget.
+- **Sebutna sapa Panjenengan.** “Halo Bapak, iki Sarah, putriné Panjenengan.” Iki mbantu supaya dhèwèké ora kudu golek jeneng Panjenengan.
+- **Mudhun nganti sejajar mripaté.** Yen dhèwèké lungguh, lungguh utawa dhengkluk supaya mripat Panjenengan sejajar.
+- **Priksaa ekspresi rai lan nada swara Panjenengan.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) nyaranaké supaya nggatèkaké nada, volume, ekspresi rai, lan basa awak, lan ngupaya nganggo cara sing anget lan wajar.
+- **Priksa manawa kacamata lan piranti pangrungu wis dipasang.** Angel ngetutaké pacelathon yen ora bisa ndeleng utawa krungu kanthi cetha.
 
-## Kados pundi cara ngandika?
+## Kepiye carané milih tembung sing takomongaké?
 
-Ginakaken tembung ingkang prasaja, ukara cekak, lan swanten ingkang tentrem lan andhap.
+Gunakaké tembung sing prasaja, ukara cendhak, lan swara sing tenang lan rada asor.
 
-- **Setunggal gagasan saben ukara.** "Mangga kula pasangaken jaket panjenengan. Lajeng kita medal." Sanes kalih-kalihipun ing satunggal ambegan.
-- **Ginakaken nama, sanes sesebutan.** "Bulik Sri nembe telpun" langkung cetha tinimbang "Piyambakipun nembe telpun."
-- **Nada langkung andhap, sanes langkung banter.** Family Caregiver Alliance maringi pamrayogi swanten ingkang langkung andhap tinimbang ingkang dipunundhakaken.
-- **Ulangi, lajeng ewahi.** Manawi piyambakipun boten mangertos, ulangi tembung ingkang sami sepisan. Manawi menika boten mujarab, ngentosi sekedhap lan cobi tembung ingkang benten.
-- **Tuduhaken, sanes namung ngandika.** Nuding cangkir, angkat kalih sweater, utawi tuduhaken langkah sepisanan.
-- **Ngandika dhateng piyambakipun, sanes bab piyambakipun.** NIA ngelingaken supados boten ngrembag tiyang menika kados-kados boten wonten ing mriku, lan boten ngandika kados dhateng bocah ("baby talk").
+- **Siji gagasan saben ukara.** “Ayo nganggo jaket. Banjur awake dhéwé metu.” Aja loro-loroné ing siji ambegan.
+- **Gunakaké jeneng, dudu tembung ganti.** “Bulik Jean telpon” luwih cetha tinimbang “Dhèwèké telpon.”
+- **Asoraké swara, aja digedhèkaké.** Family Caregiver Alliance nyaranaké swara sing luwih asor tinimbang sing luwih banter.
+- **Balèni, banjur owahi tembungé.** Yen dhèwèké ora mangerti, balèni tembung sing padha sepisan. Yen isih ora bisa, entèni sedhela banjur coba tembung liya.
+- **Tuduhaké uga nalika nerangaké.** Nuding gelas, angkat loro sweter, utawa tuduhaké langkah kapisan.
+- **Ajak dhèwèké ngomong, aja mung ngomongké dhèwèké.** NIA ngélingaké supaya aja ngomongké wong mau kaya-kaya ora ana ing kono, lan aja nganggo basa kaya marang bocah cilik.
 
-NIA maringi pamrayogi wujud pitakenan limrah ingkang langkung prasaja. Menika conto ing semangat menika:
+NIA nyaranaké versi sing luwih prasaja kanggo pitakonan sing umum. Iki conto kanthi semangat sing padha:
 
-| Tinimbang | Cobi |
+| Tinimbang | Coba |
 | --- | --- |
-| "Panjenengan kersa dhahar dalu punapa?" | "Panjenengan kersa lele utawi pitik?" |
-| "Kados pundi raos panjenengan?" | "Punapa panjenengan ngraos kesel?" |
-| "Punapa panjenengan ngelih?" | "Dhahar dalu badhe siyap ing gangsal menit." |
-| "Boten makaten caranipun." | "Mangga kita cobi kanthi cara menika." |
-| "Panjenengan émut lelungan kita dhateng tlaga?" | "Kula nembe émut lelungan kita dhateng tlaga. Mangga dipuncariyosaken dhateng kula punapa ingkang panjenengan remeni." |
-| "Kula sampun ngandharaken." | Mangsuli malih, kanthi alus, kados sepisanan. |
+| “Panjenengan arep nedha apa bengi iki?” | “Panjenengan arep iwak utawa pitik?” |
+| “Rasané kepiye saiki?” | “Panjenengan krasa sayah?” |
+| “Panjenengan luwe?” | “Sedhane bakal siap limang menit manèh.” |
+| “Carané dudu ngono.” | “Ayo dicoba kanthi cara iki.” |
+| “Panjenengan isih éling piknik menyang tlaga?” | “Aku lagi kelingan piknik menyang tlaga. Critakna apa sing Panjenengan senengi.” |
+| “Aku wis ngomong mau.” | Wangsulana manèh, kanthi alus, kaya sepisanan. |
 
-## Kados pundi mirengaken kanthi sae?
+## Kepiye carané ngrungokaké kanthi becik?
 
-Mirengaken teges lan raosipun, sanes namung tembungipun.
+Rungokna makna lan perasaané, ora mung tembungé.
 
-- **Ngentosi.** Sepi asring wekdal kangge mikir. Etang alon dumugi sedasa sakderengipun nyelani.
-- **Aturaken tembung namung manawi piyambakipun macet.** Family Caregiver Alliance ngandika mboten punapa-punapa ngusulaken tembung nalika wonten tiyang ingkang kesulitan.
-- **Priksa punapa ingkang panjenengan mirengaken.** [Pandhuan Alzheimer's Association bab komunikasi](https://www.alz.org/help-support/caregiving/daily-care/communications) maringi pamrayogi madosi teges ing wingking tembungipun lan nerangaken malih kangge mastekaken bilih panjenengan mangertos. "Panjenengan kuwatos bab mobil?"
-- **Awasi rai lan badanipun.** Nalika ngandika dados langkung awrat, NIA nyebataken, ekspresi rai saged nuduhaken sedhih, duka, utawi gela langkung cetha tinimbang tembung.
-- **Anggepen kuwatosipun kanthi sungguh-sungguh.** Sanajan kuwatos menika adhedhasar kasunyatan ingkang lepat, raosipun menika nyata.
+- **Entèni.** Meneng kerep dadi wektu kanggo mikir. Etung alon nganti sepuluh sadurunge nyelani.
+- **Wènèhana tembung mung yen dhèwèké mandheg.** Family Caregiver Alliance kandha ora apa-apa nyaranaké tembung nalika wong lagi kangèlan.
+- **Priksa apa sing Panjenengan krungu.** [Pandhuan komunikasi Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) nyaranaké kanggo nggoleki makna ing mburi tembungé lan mbalèni maneh kanggo mriksa manawa Panjenengan wis mangerti. “Panjenengan kuwatir bab mobilé?”
+- **Gatèkaké rai lan awaké.** Nalika omongan saya angel, NIA nyebutaké, ekspresi rai bisa nuduhaké sedhih, nesu, utawa frustasi luwih cetha tinimbang tembung.
+- **Anggepa rasa kuwatir kanthi tenanan.** Sanajan kuwatir iku adhedhasar fakta sing salah, perasaané tetep nyata.
 
-## Kados pundi manawi piyambakipun ngandika bab ingkang boten leres?
+## Kepiye yen dhèwèké ngomong bab sing ora bener?
 
-Sampun mbantah. Panjenengan boten mesthi menang, lan tiyang menika saged dados ngraos wirang utawi ajrih. Tinimbang menika, nyambung kaliyan raosipun, lajeng alon-alon pindhah dhateng bab sanes.
+Aja padu. Kamungkinan Panjenengan ora bakal menang, lan wong mau bisa dadi rumangsa isin utawa wedi. Nanging, sambungna karo perasaané, banjur alon-alon alihna omongan.
 
-Family Caregiver Alliance maringi pamrayogi ngakeni raos rumiyin sakderengipun ngalihaken. Contonipun, manawi ibu panjenengan ndhesek bilih piyambakipun kedah methuk lare-lare saking sekolah:
+Family Caregiver Alliance nyaranaké kanggo ngakoni emosiné sadurunge ngalihaké. Contoné, yen ibu Panjenengan ngeyel kudu njupuk bocah-bocah ing sekolah:
 
-- Tinimbang: "Bu, lare-lare sampun diwasa. Menika sampun kawandasa taun kepungkur."
-- Cobi: "Panjenengan tansah dados ibu ingkang kebak katresnan. Mangga dipuncariyosaken dhateng kula bab methuk piyambakipun. Mangga ngunjuk teh rumiyin?"
+- Tinimbang: “Bu, anak-anakmu wis gedhé. Kuwi wis patang puluh taun kepungkur.”
+- Coba: “Panjenengan biyen ibu sing perhatian banget. Critakna nalika njupuk bocah-bocah. Apa arep dhahar cemilan dhisik?”
 
-Alzheimer's Association ugi maringi pamrayogi supados boten mbantah bab pamanggih ingkang panjenengan boten sarujuk. Pilih wekdal panjenengan: manawi kapitadosan ingkang lepat boten mbebayani, pasrahaken kemawon.
+Alzheimer’s Association uga nyaranaké supaya aja padu babagan omongan sing ora Panjenengan setujoni. Pilih wektu sing pas: yen kapercayan sing salah ora mbebayani, kejarna waé.
 
-## Kados pundi komunikasi ewah nalika demensia saya majeng?
+## Kepiye komunikasi owah nalika demensia saya maju?
 
-Kabetahan ewah salebeting wekdal, dados saluyakaken cara panjenengan. Alzheimer's Association nggambaraken tigang tahap ageng:
+Kabutuhan bisa owah saka wektu menyang wektu, mula cara Panjenengan uga kudu diatur. Alzheimer’s Association njlèntrèhaké telung tahap umum:
 
-| Tahap | Punapa ingkang mbiyantu |
+| Tahap | Sing mbantu |
 | --- | --- |
-| Awal | Sampun nganggep piyambakipun boten saged komunikasi. Lebetaken piyambakipun ing rembagan, ngandika langsung dhateng piyambakipun, tanglet dhukungan punapa ingkang dipunkajengaken, lan ginakaken humor manawi mbiyantu. |
-| Tengah | Rembagan setunggal-setunggal ing papan ingkang sepi. Ngandika alon, njagi tatapan mripat, ginakaken pitakenan inggih-utawi-boten, paringi pandhuan langkah-langkah, lan sampun ngritik utawi mbenerake. |
-| Lanjut | Nyaketi saking ngajeng lan sebataken sinten panjenengan. Aturi nuding lan ngginakaken isyarat. Ginakaken sentuhan, swanten, pemandangan, lan ambu. Sampun nate ngandika kados-kados piyambakipun boten wonten. |
+| Awal | Aja nganggep dhèwèké ora bisa komunikasi. Ajak dhèwèké melu pacelathon, omong langsung karo dhèwèké, takokna dhukungan apa sing dipéngini, lan gunakaké guyon yen mbantu. |
+| Tengah | Pacelathon siji-lawan-siji ing papan sing sepi. Ngomonga alon, jaga kontak mripat, gunakaké pitakonan ya utawa ora, wènèhana pandhuan langkah demi langkah, lan aja ngritik utawa mbeneraké. |
+| Pungkasan | Nyedhakia saka ngarep lan sebutna sapa Panjenengan. Ajaka nuding lan nganggo gerak awak. Gunakaké sentuhan, swara, pemandangan, lan ambu-ambuan. Aja tau ngomong kaya-kaya dhèwèké ora ana ing kono. |
 
-Saben tiyang benten, lan tiyang ingkang sami saged gadhah dinten ingkang sae lan awrat. Mangsuli kados pundi piyambakipun sapunika, sanes dhateng label.
+Saben wong iku béda, lan wong sing padha bisa nduwéni dina sing apik lan dina sing angel. Tanggepana kahanané saiki, dudu labelé.
 
-## Punapa gambar lan kegiatan saged damel rembagan langkung gampil?
+## Apa gambar lan aktivitas bisa ndadèkaké pacelathon luwih gampang?
 
-Inggih. Gambar ingkang dipunbagekaken ngilangaken tekanan lan maringi panjenengan kalih bab kangge dipunpirsani lan dipuntuding.
+Iya. Gambar sing dideleng bebarengan bisa ngurangi tekanan lan menehi barang sing bisa dideleng lan dituding bareng.
 
-- **Gambar pamicu.** [Kertu rembagan](/games/conversation-cards/) maringi gambar kaliyan pitakenan terbuka ingkang boten nate nguji.
-- **Foto kulawarga.** [Pasangan foto](/games/photo-pairs/) ndadosaken foto ingkang panjenengan pilih dados dolanan nyocogaken ingkang alus, ingkang asring nuwuhaken cariyos.
-- **Paribasan ingkang akrab.** [Nglengkapi paribasan](/games/finish-the-saying/) ngginakaken paribasan Jawi ingkang kondhang, dipunsusul pangajeng rembagan.
-- **Dolanan nyocogaken minangka latar.** [Pasangan gambar](/games/picture-pairs/) maringi tangan panjenengan pakaryan nalika rembagan.
+- **Pancingan gambar.** [Conversation Cards](/games/conversation-cards/) nyedhiyakaké gambar kanthi pitakonan sing mbukak lan ora tau nguji.
+- **Foto kulawarga.** [Photo Pairs](/games/photo-pairs/) ngowahi foto sing Panjenengan pilih dadi dolanan cocog gambar sing alus, sing kerep bisa micu crita.
+- **Paribasan sing akrab.** [Finish the Saying](/games/finish-the-saying/) nggunakaké paribasan sing dikenal, banjur diterusaké karo pancingan omong-omongan.
+- **Dolanan cocog gambar minangka latar.** [Picture Pairs](/games/picture-pairs/) menehi aktivitas kanggo tangan nalika Panjenengan ngobrol.
 
-Pirsani [cara dolanan sesarengan](/caregiving/how-to-play-together/) lan [kegiatan reminiscence](/activities/reminiscence/) kangge langkung kathah. Kangge nilik lan telpun, waosen pandhuan kawula bab [nilik](/activities/visiting/) lan [telpun lan video call](/activities/phone-and-video-calls/).
+Delengen [carané dolanan bareng](/caregiving/how-to-play-together/) lan [aktivitas kelingan kenangan](/activities/reminiscence/) kanggo informasi luwih lengkap. Kanggo kunjungan lan telpon, waca pandhuan kita babagan [kunjungan](/activities/visiting/) lan [telpon lan telpon video](/activities/phone-and-video-calls/).
 
-## Kados pundi manawi kula kelangan kesabaran?
+Kanggo wong sing nganggo luwih saka siji basa, delengen [pandhuan komunikasi lintas basa](/caregiving/language-and-dementia-communication/).
 
-Menika kedadosan dhateng sedaya tiyang. NIA maringi pamrayogi bilih manawi panjenengan dados gela, panjenengan ngaso supados tentrem. Tindak dhateng ruangan sanes, ambegan alon sawetawis kaping, lan wangsul manawi panjenengan saged. Panjenengan tansah saged miwiti rembagan malih, lan tiyang menika saged nanggapi swasana manah panjenengan ingkang langkung tentrem. Manawi raos gela dados tansah wonten, menika tandha bilih panjenengan mbetahaken dhukungan langkung kathah, sanes bilih panjenengan gagal. [Pandhuan ngrawat badan panjenengan piyambak](/caregiving/caregiver-self-care/) kawula wonten papan kangge nyuwun pitulungan.
+## Kepiye yen aku kelangan sabar?
+
+Iki bisa kedadeyan marang sapa waé. NIA nyaranaké, yen Panjenengan wiwit frustasi, njupuk wektu sedhela kanggo nenangaké awak. Pindhah menyang kamar liya, ambegan alon sawetara wektu, lan balia nalika Panjenengan wis luwih tenang. Panjenengan tansah bisa miwiti pacelathon maneh, lan wong mau bisa uga nanggapi swasana ati Panjenengan sing luwih tenang. Yen rasa frustasi dadi terus-terusan, kuwi tandha yen Panjenengan butuh dhukungan luwih akeh, dudu tandha yen Panjenengan gagal. Pandhuan kita babagan [ngrawat dhiri kanggo sing ngrawat](/caregiving/caregiver-self-care/) nduwéni sawetara papan kanggo golek bantuan.

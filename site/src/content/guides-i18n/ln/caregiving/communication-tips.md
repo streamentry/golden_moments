@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Toli ya kosolola na moto oyo azali na bokono bwa kobosana"
+seoTitle: "Toli ya kosolola na moto ya bokono bwa kobosana"
+description: "Mayele ya kosolola na moto oyo azali kobika na bokono bwa kobosana: ndenge ya kobongisa lisolo, oyo ya koloba, mpe ndenge ya koyoka malamu."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Solola na esika ya kimya, talana na moto na miso, loba nkombo na ye, mpe
+  loba malembe na bafraze mokuse mpe ya pete. Tuna motuna moko na mbala moko,
+  pesa ye baponami mibale na esika ya mituna ya polele, mpe zela molai koleka
+  ndenge omiyokaka. Koswana te, kobongisa te, mpe komeka ye te. Yoka mpenza
+  ndenge azali koyoka na sima ya maloba na ye, mpe salela kosimba, bilili mpe
+  bilembo soki maloba ekomi mpasi.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Longola makelele mpe luka kotala na miso liboso ya kobanda kosolola."
+  - "Salela bafraze mokuse, likanisi moko na mbala moko, mpe bankombo na esika ya ye, bango to bango."
+  - "Pesa baponami mibale, to motuna ya iyo to te, na esika ya mituna ya polele."
+  - "Zela eyano. Soki bazwi ye te, zongela maloba ya ndenge moko, na sima meka maloba mosusu."
+  - "Koswana te mpe kobongisa te. Yoka mpenza ndenge azali koyoka na sima ya oyo azali koloba."
+  - "Soki maloba ekomi moke, solola na nzela ya kosimba, mongongo, elongi ya elongi mpe bilili oyo bozali kotala elongo."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Eloko nini osengeli te koloba na moto oyo azali na bokono bwa kobosana?"
+    a: "Kima komeka ye (« Ozali kokanisa...? »), kobongisa ye (« Ezali mabe »), koyebisa ye makambo oyo abungisaki (« Nayebisaki yo déjà ») mpe koloba na tina na ye lokola azali wana te. Kima maloba ya lokola na mwana moke. Makambo oyo ekoki kopesa ye nsɔni to kobungisa ye makanisi, kasi esalisaka mingi te."
+  - q: "Nasengeli kobongisa ye soki alobi makambo oyo ezali ya solo te?"
+    a: "Mbala mingi te. Soki likambo oyo ezali ya solo te ezali kobebisa eloko te, tika yango. Koswana ekoki mpenza te kobongola makanisi ya moto yango mpe mbala mingi epesaka ye mawa. Tala ndenge azali koyoka mpe oyo azali na posa na yango sikoyo."
+  - q: "Nasala nini soki azali kozwa liloba te?"
+    a: "Pesa ye ntango liboso. Soki ozali komona ete azali kobunda mpenza, ezali malamu kopesa ye liloba na boboto to kokanisa oyo alingi koloba mpe kotuna soki ezali bongo. Kotambwisa mosapi, bilembo mpe bilili ekoki mpe kosalisa."
+  - q: "Ndenge nini nakoki kosolola na moto oyo azali na bokono bwa kobosana ya suka mpe alobaka mingi te?"
+    a: "Pusana na ye na liboso, loba ozali nani, mpe salela mongongo ya kimya mpe kosimba ya boboto. Talaka bilongi mpe nzoto na ye mpo na koyeba ndenge azali koyoka. Kozala pene na ye, nzembo oyo ayebi malamu to kosimba maboko ekoki koloba makambo mingi ata soki maloba ezali te."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Bokono bwa kobosana ekoki kosala ete ezala mpasi mpo na kozwa maloba, kolanda fraze molai, to kotika makelele ya zingazinga. Yango elingi koloba te ete moto yango atiki koluka kozala pene na bato mosusu. Mbongwana mike na ndenge obongisaka lisolo, ndenge olobaka mpe ndenge oyokaka ekoki kosala ete kosolola ezala pete mpe ya kimya mpo na bino mibale.
 
-## What are the most important tips for talking with someone who has dementia?
+## Mayele nini ya ntina mingi mpo na kosolola na moto oyo azali na bokono bwa kobosana?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Zwa likebi na ye, tika makambo ezala pete, mpe zala na motema molai. Soki okoki kokanisa makambo mitano kaka:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Sala ete esika ezala ya kimya mpe talana na ye.** Kanga televizyó, vanda na nivo ya miso na ye, mpe loba nkombo na ye.
+2. **Loba likambo moko na mbala moko.** Bafraze mokuse, likanisi moko, motuna moko.
+3. **Pesa baponami mibale.** « Tii to kafe? » ezali pete koleka « Olingi nini? »
+4. **Zela.** Pesa ye ntango molai mpo na koyanola koleka ndenge omiyokaka, mpe meka kobuka maloba na ye te.
+5. **Koswana te mpe komeka ye te.** Yoka ndenge azali koyoka, kasi te soki makambo oyo alobi ezali ya solo to te.
 
-## How should I start a conversation?
+## Ndenge nini nasengeli kobanda lisolo?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Bongisa makambo mpo ete moto yango akoka kotya likebi na yo. [Mokanda ya Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) elobi ete okitisa makelele liboso: kanga radio to televizyó, kanga rido to ekuke, to kende na esika ya kimya koleka.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Pusana na ye na liboso.** Koya na sima to na mopanzi ekoki kobangisa ye.
+- **Loba ozali nani.** « Mbote Papa, ezali ngai Sarah, mwana na yo ya mwasi. » Yango esalisaka ye mpo ete aluka nkombo na yo te.
+- **Kita na nivo na ye.** Soki avandi, vanda to fukama mpo ete miso na bino ezala na nivo moko.
+- **Talá elongi mpe mongongo na yo.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ekebisi ete ozala na bokebi na mongongo na yo, makasi ya mongongo, elongi ya elongi mpe nzoto na yo, mpe oluka kozala na boboto mpe na kimya.
+- **Tala soki maneti to bisaleli ya koyoka ezali na esika na yango.** Ezali mpasi kolanda lisolo oyo okoki komona to koyoka malamu te.
 
-## How should I phrase what I say?
+## Ndenge nini nasengeli koloba maloba na ngai?
 
-Use simple words, short sentences and a calm, low voice.
+Salela maloba ya pete, bafraze mokuse mpe mongongo ya kimya, ya nse.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Likanisi moko na fraze moko.** « Tólata kazaka na yo. Na sima tokobima libanda. » Kasi te nyonso na mbala moko.
+- **Salela bankombo, kasi te ba pronom.** « Tanti Jean abengaki » ezali polele koleka « Ye abengaki. »
+- **Kitisa mongongo, komatisa yango te.** Family Caregiver Alliance elobi ete mongongo ya nse ezali malamu koleka mongongo ya likolo.
+- **Zongela, na sima bongola maloba.** Soki azwaki te, zongela maloba ya ndenge moko mbala moko. Soki esali te, zela mwa moke mpe meka maloba mosusu.
+- **Lakisa mpe loba.** Tambwisa mosapi na kopo, lakisa banzwete mibale, to lakisa etape ya liboso.
+- **Solola na ye, kasi te na tina na ye.** NIA ekebisi ete koloba na tina na moto lokola azali wana te, mpe maloba ya lokola na mwana moke, ezali malamu te.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA epesi bandakisa ya ndenge ya kopesa mituna na ndenge ya pete. Tala bandakisa oyo:
 
-| Instead of | Try |
+| Na esika ya | Meka |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| « Olingi kolia nini na mpokwa? » | « Olingi mbisi to nkoko? » |
+| « Ozali koyoka ndenge nini? » | « Ozali koyoka bolembu? » |
+| « Ozali na nzala? » | « Bilanga ekokoma pene na miniti mitano. » |
+| « Ezali ndenge wana te osengeli kosala. » | « Tómeka ndenge oyo. » |
+| « Ozali kokanisa mobembo na biso na lac? » | « Nazalaki kokanisa mobembo na biso na lac. Yebisa ngai oyo osepelaki na yango. » |
+| « Nayebisaki yo déjà. » | Yanola lisusu, na boboto, lokola ezali mpo na mbala ya liboso. |
 
-## How do I listen well?
+## Ndenge nini nakoki koyoka malamu?
 
-Listen for the meaning and the feeling, not just the words.
+Yoka ndimbola mpe mayoki, kasi te maloba kaka.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Zela.** Kimya mbala mingi ezali ntango ya kokanisa. Tanga malembe kino na zomi liboso ya kokɔta.
+- **Pesa liloba kaka soki akangami.** Family Caregiver Alliance elobi ete ezali malamu kopesa maloba soki moto azali kobunda.
+- **Talela soki oyoki malamu.** [Mokanda ya Alzheimer’s Association mpo na kosolola](https://www.alz.org/help-support/caregiving/daily-care/communications) elobi ete luka ndimbola oyo ezali na sima ya maloba na ye mpe zongela yango mpo na kotala soki oyoki malamu. « Ozali komitungisa mpo na motuka? »
+- **Talá elongi mpe nzoto na ye.** Soki koloba ekomi mpasi, NIA elobi ete bilongi ya elongi ekoki kolakisa mawa, kanda to kobungisama makanisi polele koleka maloba.
+- **Zwa mitungisi na ye na ntina.** Ata soki motungisi eutá na likambo oyo ezali ya solo te, mayoki yango ezali ya solo.
 
-## What if they say something that is not true?
+## Soki alobi likambo oyo ezali ya solo te?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Koswana te. Ekoki kozala mpasi mpo na kolonga, mpe moto yango akoki koyoka nsɔni to kobanga. Na esika ya yango, yeba mayoki na ye, na sima kamba ye na boboto na likambo mosusu.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance elobi ete yamba mayoki liboso ya kobongola likambo. Na ndakisa, soki mama na yo alobi na makasi ete asengeli kokende kozwa bana na eteyelo:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Na esika ya: « Mama, bana na yo bakómi mikóló. Ezali mibu tuku minei. »
+- Meka: « Ozalaki mama ya boboto mingi. Yebisa ngai ndenge ozalaki kokende kozwa bango. Tólia mwa eloko ya kolia liboso? »
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association mpe ekebisi ete koswana te na makambo oyo ondimi te. Pona bantango: soki likanisi oyo ezali ya solo te ezali kobebisa eloko te, tika yango.
 
-## How does communication change as dementia progresses?
+## Ndenge nini kosolola ekoki kobongwana soki bokono bwa kobosana ekómi makasi?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Baposami ekoki kobongwana na ntango, yango wana bongola ndenge na yo. Alzheimer’s Association elobeli biteni misato ya monene:
 
-| Stage | What helps |
+| Etape | Oyo esalisaka |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Ebandeli | Kokanisa te ete akoki lisusu kosolola te. Kotisa ye na masolo, solola na ye mbala moko, tuna ye lisungi nini alingi, mpe salela maseki soki esalisaka. |
+| Katikati | Masolo ya moto na moto na esika ya kimya. Loba malembe, talana na miso, salela mituna ya iyo to te, pesa mitindo etape na etape, mpe kopamela to kobongisa te. |
+| Suka | Pusana na ye na liboso mpe loba ozali nani. Lendisa ye atambwisa mosapi mpe asalela bilembo. Salela kosimba, makelele, bilili, biloko ya komona mpe nsolo. Koloba ata moke te lokola azali wana te. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Moto nyonso azali ndenge na ye, mpe moto moko akoki kozala na mikolo ya malamu mpe mikolo ya mpasi. Yoka ndenge azali sikoyo, kasi te bilembo ya etape.
 
-## Can pictures and activities make conversation easier?
+## Bilili mpe misala ekoki kosala ete lisolo ezala pete?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Iyo. Elili oyo bozali kotala elongo ekitisaka bozito mpe epesaka bino mibale eloko ya kotala mpe kotambwisa mosapi.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Bilili mpo na kobanda lisolo.** [Conversation Cards](/games/conversation-cards/) epesaka bilili elongo na mituna ya polele oyo emekaka moto te.
+- **Bilili ya libota.** [Photo Pairs](/games/photo-pairs/) ebongolaka bilili oyo oponi na lisano ya boboto ya kokokisa, oyo mbala mingi ebimisaka masapo.
+- **Maloba ya boyebi.** [Finish the Saying](/games/finish-the-saying/) esalelaka maloba ya boyebi ya Amerika, na sima etinda lisolo.
+- **Masano ya kokokisa lokola lisungi.** [Picture Pairs](/games/picture-pairs/) epesaka maboko na yo eloko ya kosala ntango bozali kosolola.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Tala [ndenge ya kosakana elongo](/caregiving/how-to-play-together/) mpe [misala ya kokanisa makambo ya kala](/activities/reminiscence/) mpo na koyeba makambo mosusu. Mpo na botali mpe kobenga na telefone to na video, tánga mikanda na biso mpo na [botali](/activities/visiting/) mpe [kobenga na telefone mpe na video](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Mpo na moto oyo alobaka minɔkɔ mingi, tala [mokanda na biso mpo na kosolola na minɔkɔ ndenge na ndenge](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Soki nabungisi motema molai?
+
+Ekómelaka moto nyonso. NIA elobi ete soki ozali koyoka mawa to kobungisama, kamata mwa ntango mpo na kokita motema. Kende na shambre mosusu, pema malembe mbala mwa moke, mpe zonga soki okoki. Okoki kobanda lisolo lisusu, mpe moto yango akoki koyanola malamu na kimya na yo. Soki kobungisama ezali kosalema mbala na mbala, ezali elembo ete ozali na posa ya lisungi mingi koleka, kasi te ete ozali kokweya. Mokanda na biso mpo na [komibatela lokola mobateli](/caregiving/caregiver-self-care/) ezali na bisika oyo okoki kozwa lisungi.

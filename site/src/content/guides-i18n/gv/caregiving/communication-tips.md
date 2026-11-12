@@ -1,34 +1,34 @@
 ---
-title: "Coyrle Loayrt rish Persoon ta Bio lesh Meenaghtys"
-seoTitle: "Coyrle Loayrt: Meenaghtys"
-description: "Raaueyn yindyssagh son loayrt rish persoon ta bio lesh meenaghtys: kys dy ghra, cre dy yannoo, as kys dy eaishtagh."
+title: "Coyrle son Taggloo lesh Co-ennymaght y Chooinsheanse"
+seoTitle: "Coyrle Taggloo: Co-ennymaght y Chooinsheanse"
+description: "Raaghyn ymmydoil dy haggloo rish persoon ta beaghey marish co-ennymaght y chooinsheanse: kys dy ghlenney co-loayrtys, cre dy ghra, as kys dy eaishtagh."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Loayr ayns boayl feagh, jeeagh er y persoon, jean ymmyd jeh'n ennym oc, as
-  loayr dy moal ayns raaueyn giare as aashagh. Cur un eysht ec y traa, cur daa
-  reihyn ayns ynnyd jeh eyshtyn foshlit, as fuirree ny sodjey na s'cadjin. Ny
-  jean arganey, ny jean kiartaghey, ny jean quizzal. Cur freggyrt da'n ennaghtyn
-  cheu chooylloo ny focklyn, as jean ymmyd jeh bentyn, jallooyn as cowraghyn myr
-  ta loayrt goll ny s'doillee.
+  Taggloo ayns boayl feagh, jeeagh er y persoon, jean ymmyd jeh’n ennym oc, as
+  loayr dy moal ayns raaghyn giare as aashagh. Cur un cheist ec y traa, cur daa
+  reihyn ayns ynnyd jeh ceistey foshlee, as farkiaght ny sodjey na oddys
+  meereaght. Ny jean arganey, ny cur lesh feyshtyn, ny jean shirrey. Cur freggyrt
+  da’n ennaghtyn ta cheu-sthie jeh ny focklyn, as jean ymmyd jeh bentyn,
+  jallooyn as cowraghyn myr ta loayrt gaase ny s’doillee.
 keyPoints:
-  - "Jean y boayl ny s'feagh as gow sooilley-marish roish my toou goaill toshiaght."
-  - "Jean ymmyd jeh raaueyn giare, un smooinaght ec y traa, as enmyn ayns ynnyd jeh eh, ee ny ad."
-  - "Cur reih jeh jees, ny eysht ta/fegooish, ayns ynnyd jeh eyshtyn foshlit."
-  - "Fuirree son freggyrt. Mannagh vel ad toiggit, jean ny focklyn cheddin reesht, eisht prowal focklyn noa."
-  - "Ny jean arganey ny kiartaghey. Cur freggyrt da'n ennaghtyn cheu chooylloo ny t'ad gra."
-  - "Myr ta focklyn goll er-sooyl, loayr trooid bentyn, coraa, eddin, as jallooyn ry-akin ry-cheilley."
+  - "Jean yn boayl ny s’chiune as cur shilley er y persoon roish my toshiaght oo dy haggloo."
+  - "Jean ymmyd jeh raaghyn giare, un smooinaght ec y traa, as enmyn ayns ynnyd jeh eh, ee ny adsyn."
+  - "Cur reih jeh jees, ny cre’n fa nagh, ayns ynnyd jeh ceistey foshlee."
+  - "Farkiaght son freggyrt. Mannagh vel ad toiggit, aarey ny focklyn cheddin, eisht jean eab er focklyn noa."
+  - "Ny jean arganey ny shirrey. Cur freggyrt da’n ennaghtyn ta cheu-sthie jeh ny t’ad dy ghra."
+  - "Myr ta focklyn goll ersooyl, jean ymmyd jeh bentyn, coraa, eddin, as jallooyn ry-heet ry-cheilley."
 faq:
-  - q: "Cre nagh lhisagh oo gra rish persoon lesh meenaghtys?"
-    a: "Jean shaghnaghey quizzal (“Vel cooinaghtyn ayd...?”), kiartaghey (“Ta shen kiart”), cur cooinaghtyn daue jeh coayl (“Dinsh mee dhyt hannah”) as loayrt mychione oc myr nagh vel ad ayns shen. Jean shaghnaghey glare paitçhey. Ta reddyn myr shen cliaghtey cur orroo gennaghtyn nearey ny seaghnit, gyn cooney."
-  - q: "Lhisagh dou ad y chiartey tra t'ad kiart mychione fysseree?"
-    a: "Cha nel, son y chooid smoo. My ta fysseree neu-chiart gyn assee, lhig shaghey eh. S'goan ta arganey caghlaa aigney y persoon, as t'eh dy mennick cur orroo gennaghtyn trimshagh. Cur geill da kys t'ad gennaghtyn as cre t'ad laccal nish."
-  - q: "Cre nee'm tra nagh vod ad feddyn fockle?"
-    a: "Cur traa daue hoshiaght. My t'ad dy firrinagh goll er streeu, ta shen mie dy chur fockle daue dy meein ny dy hoiggal cre t'ad er-chee loayrt mychione as feysht y chur. Foddee cowraghyn, gesmadyn as jallooyn cooney myrgeddin."
-  - q: "Kys nee'm loayrt rish persoon ayns jerrey meenaghtys nagh vel loayrt agh beggan?"
-    a: "Tar er nyn doshiaght, abbyr quoi oo hene, as jean ymmyd jeh coraa feagh as bentyn meein. Jeeagh er eddinyn as glare y chorp son ennaghtyn. Foddee dty enish, arrane ennagh, ny greimmey laueyn loayrt mooar gyn focklyn."
+  - q: "Cre nagh lhisagh oo gra rish persoon ta beaghey marish co-ennymaght y chooinsheanse?"
+    a: "Shaghney shirrey (“Vel cooinaghtyn ayd...?”), shirrey (“Cha nel shen kiart”), cur cooinaghtyn daue er coayl (“Ta mee er ghra shen dhyt hannah”) as loayrt mychione oc myr nagh vel ad ayns shen. Shaghney loayrt myr rish paitçhey. Ta ny reddyn shoh cliaghtey cur nearey ny seaghyn orroo gyn cooney."
+  - q: "Lhisagh mee ad y chur lesh tra t’ad jannoo marranys mychione reddyn?"
+    a: "Cha nel, dy mennick. My ta marranys gyn assee, lhig da. Seldom ta arganey caghlaa aigney y persoon, as t’eh dy mennick cur seaghyn orroo. Cur geill da kys t’ad gennaghtyn as cre t’ad feme nish."
+  - q: "Cre lhisagh mee jannoo tra nagh vod ad fockle y gheddyn?"
+    a: "Cur traa daue hoshiaght. My t’ad dy baghtal streeu, ta shen mie dy chur fockle daue dy meein ny dy chur sheiltynys er cre t’ad er-chee as jean shickyr. Foddee cowraghyn, cowraghey lesh laueyn, as jallooyn cooney myrgeddin."
+  - q: "Kys lhisagh mee taggloo rish persoon ayns jerrey co-ennymaght y chooinsheanse nagh vel loayrt monney?"
+    a: "Tar nyn raaue veih’n toshiaght, abbyr quoi oo, as jean ymmyd jeh coraa feagh as bentyn meein. Jeeagh er eddinyn as glare y chorp son ennaghtyn. Foddee dty enish, arrane ennagh ny cummal laueyn cur ymmodee reddyn er e hoshiaght gyn focklyn."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Foddee meenaghtys jannoo eh ny s'doillee focklyn y gheddyn, raaue foddey y eiyrt, ny sheean y vogrey. Cha nel shen erbee gra nagh vel y persoon foast geearree kiangley. Foddee caghlaaghyn beggey ayns kys t'ou kiartaghey coloayrtys, kys t'ou loayrt as kys t'ou eaishtagh jannoo loayrt ny s'aashe as ny s'feagh diuish y vees.
+Foddee co-ennymaght y chooinsheanse jannoo eh ny s’doillee focklyn y gheddyn, raa ghiare y hoiggal, ny fea y gheddyn veih sheean y chooyrloo. Cha nel shen erbee jeh ny reddyn shoh çheet er y persoon dy scuirr veih laccal ceangal. Foddee caghlaaghyn beggey ayns kys ta oo jannoo aarloo son co-loayrtys, kys ta oo loayrt as kys ta oo eaishtagh jannoo taggloo ny sassey as ny s’fea son y jees jiu.
 
-## Cre ny coyrleyn smoo scanshoil son loayrt rish persoon ta bio lesh meenaghtys?
+## Cre ny coyrleyn smoo scanshoil son taggloo rish persoon ta beaghey marish co-ennymaght y chooinsheanse?
 
-Gow nyn geill, jean eh aashagh, as bee surransagh. My vel oo cooinaghtyn er queig reddyn ny lomarcan:
+Cur nyn geill, jean eh aashagh, as bee surransagh. My ta oo cooinaghtyn er queig reddyn ny lomarcan:
 
-1. **Jean y shamyr ny s'feagh as jeeagh orroo.** Cur yn çhellveeish ass, soie ec leval ny sooillyn, as jean ymmyd jeh'n ennym oc.
-2. **Abbyr un red ec y traa.** Raaueyn giare, un smooinaght, un eysht.
-3. **Cur reih jeh jees.** Ta “Tey ny key? as ny s'aashe na “Cre by vie lhiat?”
-4. **Fuirree.** Cur ny smoo traa son freggyrt na s'cadjin, as jean dty chooid share gyn brishey stiagh.
-5. **Ny jean arganey ny quizzal rieau.** Cur freggyrt da kys t'ad gennaghtyn, cha nee da vel ny fysseree kiart.
+1. **Jean yn çhamyr ny s’chiune as jeeagh orroo.** Cur magh yn çhellveeish, soie ec un cheim shilley, as jean ymmyd jeh’n ennym oc.
+2. **Abbyr un red ec y traa.** Raaghyn giare, un smooinaght, un cheist.
+3. **Cur reih jeh jees.** Ta “Tey ny coffey?” ny sassey na “Cre by vie lhiat?”
+4. **Farkiaght.** Cur ny smoo traa daue dy chur freggyrt na oddys meereaght, as jean eab gyn brishey stiagh.
+5. **Ny jean arganey ny shirrey erbee.** Cur freggyrt da’n ennaghtyn oc, cha nee da vel ny feyshtyn kiart.
 
-## Kys lhisagh dou toshiaght er coloayrtys?
+## Kys lhisagh mee toshiaght co-loayrtys?
 
-Jean eh aashagh da'n persoon cur geill ort. Ta [lioar Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) coyrlaghey dy yannoo ny sloo jeh'n sheean hoshiaght: cur yn radio ny çhellveeish ass, dooney ny curtanyn ny dorrys, ny gow dys boayl ny s'feagh.
+Jean aarloo dy vod y persoon cur geill ort. Ta [Lioar Stiuree Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) coyrlaghey dy chur sheean er lhiattee hoshiaght: cur magh y radio ny’n çhellveeish, dooney ny coodaghyn ny’n dorrys, ny gow dys boayl ny s’chiune.
 
-- **Tar er nyn doshiaght.** Foddee cheet voish nyn gooyl ny veih'n lhiattee ad y ghoostey.
-- **Abbyr quoi oo hene.** “Hooar, Ayr, mish Sarah, dty inneen.” Ta shen sauail ad veih shirrey son dty ennym.
-- **Tar dys y leval oc.** My t'ad nyn soie, soie ny croym sheese myr dy bee ny sooillyn erriu ec yn un leval.
-- **Jeeagh er dty eddin as dty choraa.** Ta [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) coyrlaghey dy ve tastey jeh dty choraa, dty ard, eddin as glare y chorp, as dy ve çheh as dooghysagh.
-- **Jeagh dy vel speeikeyryn as claaseyn-cluashey orroo.** Ta eh doillee eiyrt er coloayrtys nagh vod oo fakin ny clashtyn dy kiart.
+- **Tar nyn raaue veih’n toshiaght.** Foddee cheet veih nyn drom ny veih’n cheu cur aggle orroo.
+- **Abbyr quoi oo.** “Haink, Ayr, she Sarah mish, dty inneen.” Ta shen sauail ad veih shirrey son dty ennym.
+- **Tar sheese dys nyn lhiattee.** My t’ad nyn soie, soie ny lhig ort glioon dy vel ny sooillyn eu ec yn un cheim.
+- **Jeeagh er dty eddin as dty choraa.** Ta [Yn Institiud Ashoonagh er Shenn Eaysley (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) coyrlaghey dy ve toiggalagh jeh dty choraa, ardjaghey, eddin as glare y chorp, as jannoo ymmyd jeh aght çheh, dooie.
+- **Jean shickyr dy vel speckleyn as saaseyn-clashtyn oc.** T’eh doillee geiyrt er co-loayrtys nagh vod oo fakin ny clashtyn dy slane.
 
-## Kys lhisagh dou ny focklyn aym y chummey?
+## Kys lhisagh mee ny focklyn aym y chummey?
 
-Jean ymmyd jeh focklyn aashagh, raaueyn giare as coraa feagh, injil.
+Jean ymmyd jeh focklyn aashagh, raaghyn giare, as coraa feagh, injil.
 
-- **Un smooinaght dagh raaue.** “Lhig dooin dty chooat y chur ort. Eisht hed mayd magh.” Cha nee y daa red ayns un ennal.
-- **Jean ymmyd jeh enmyn, cha nee pronoonyn.** Ta “Ren Aunt Jean fone y chur” ny s'clear na “Ren ee fone y chur”.
-- **Jean dty choraa ny s'injil, cha nee ny s'ard.** Ta Family Caregiver Alliance coyrlaghey coraa ny s'injil ayns ynnyd jeh coraa ny s'ard.
-- **Abbyr reesht, eisht caghlaa ny focklyn.** Mannagh doig ad, abbyr ny focklyn cheddin un cheayrt. Mannagh jean shen gobbraghey, fuirree tammylt as prowal focklyn elley.
-- **Jean soilshaghey chammah as loayrt.** Jean cowrey dys y chappan, cum seose y daa jerkit, ny jean soilshaghey yn chied cheim.
-- **Loayr roo, cha nee mychione oc.** Ta NIA coyrlaghey nagh lhisagh oo loayrt mychione y persoon myr nagh vel ad ayns shen, as nagh lhisagh oo glare paitçhey y ymmyd.
+- **Un smooinaght dagh raa.** “Lhig dooin cur ort dty chooat. Eisht hem mayd magh.” Cha nee ny jees cooidjagh.
+- **Jean ymmyd jeh enmyn, cha nee raa-scarreyderyn.** Ta “Ren Moir Jean fone y chur” ny s’cronnal na “Ren ee fone y chur.”
+- **Jean eh ny s’injil, cha nee ny s’ard.** Ta Family Caregiver Alliance coyrlaghey coraa ny s’injil ayns ynnyd jeh coraa ny syrjey.
+- **Aarey, eisht cur eh er aght elley.** Mannagh ren ad toiggal, aarey ny focklyn cheddin un cheayrt. Mannagh vel shen gobbraghey, farkiaght tammylt as eab focklyn elley.
+- **Soilshaghey chammah as gra.** Jean cowraghey dys y choppan, cum seose yn daa gheay, ny soilshaghey y chied cheim.
+- **Loayr roo, cha nee mychione oc.** Ta’n NIA cur raaue noi loayrt mychione y persoon myr nagh vel ad ayns shen, as noi “loayrt myr rish paitçhey”.
 
-Ta NIA coyrlaghey cummaghyn ny s'aashe jeh eyshtyn cadjin. Shoh sampleyryn ayns y spirit shen:
+Ta’n NIA coyrlaghey cummaghyn ny sassey jeh ceistey cadjin. Shoh sampleyryn ayns yn aght shen:
 
-| Ayns ynnyd jeh | Prowal |
+| Ayns ynnyd jeh | Jean eab er |
 | --- | --- |
-| “Cre by vie lhiat son jinnair?” | “Vel eeast ny kellagh by vie lhiat?” |
-| “Kys t'ou gennaghtyn?” | “Vel oo gennaghtyn skee?” |
+| “Cre by vie lhiat son jinnair?” | “By vie lhiat eeast ny kirkey?” |
+| “Kys t’ou gennaghtyn?” | “Vel oo skee?” |
 | “Vel accrys ort?” | “Bee jinnair aarloo ayns queig minnidyn.” |
-| “Cha nee shen yn aght t'ou jannoo eh.” | “Lhig dooin eh y phrowal myr shoh.” |
-| “Vel cooinaghtyn ayd er y turas gys y logh?” | “Va mee smooinaghtyn er y turas gys y logh. Insh dou cre by vie lhiat mychione.” |
-| “Dinsh mee dhyt hannah.” | Cur freggyrt reesht, dy kenjal, myr dy beagh eh yn chied cheayrt. |
+| “Cha nee shen yn aght dy yannoo eh.” | “Lhig dooin eab er yn aght shoh.” |
+| “Vel cooinaghtyn ayd er y thurrys ain gys y logh?” | “Va mee smooinaghtyn er y thurrys ain gys y logh. Insh dou cre by vie lhiat mychione.” |
+| “Ta mee er ghra shen dhyt hannah.” | Cur freggyrt reesht, dy kenjal, myr dy beagh eh son y chied cheayrt. |
 
-## Kys nee'm eaishtagh dy mie?
+## Kys oddym’s eaishtagh dy mie?
 
-Eaisht son y cheeayl as yn ennaghtyn, cha nee ny focklyn ny lomarcan.
+Eaisht rish y çheer as y vree, cha nee ny focklyn ny lomarcan.
 
-- **Fuirree.** Dy mennick she traa smooinaghtyn ta ayns tostid. Coont dy moal gys jeih roish my jig oo stiagh.
-- **Cur fockle ny lomarcan my t'ad dooint.** Ta Family Caregiver Alliance gra dy vel eh mie focklyn y chur tra ta persoon goll er streeu.
-- **Jeagh cre ren oo clashtyn.** Ta [lioar Alzheimer’s Association mychione loayrt](https://www.alz.org/help-support/caregiving/daily-care/communications) coyrlaghey dy yeeaghyn son y cheeayl cheu chooylloo ny focklyn as eh y ghra reesht dy hoiggal vel oo er hoiggal. “Vel oo imneagh mychione y ghleashtan?”
-- **Jeeagh er nyn eddin as y corp oc.** Myr ta loayrt goll ny s'doillee, ta NIA cur-my-ner, foddee eddinyn soilshaghey trimshey, corree ny seaghyn ny s'clear na focklyn.
-- **Gow imnea serioosagh.** Ga dy vel imnea er bun fysseree neu-chiart, ta'n ennaghtyn fior.
+- **Farkiaght.** T’eh dy mennick traa dy smooinaghtyn. Coont dy moal gys jeih roish my jagh oo stiagh.
+- **Cur fockle daue ny lomarcan my t’ad shassoo.** Ta Family Caregiver Alliance gra dy vel eh mie focklyn y chur roish tra ta persoon streeu.
+- **Jean shickyr er ny cheayll oo.** Ta [Stiurey Alzheimer’s Association er co-loayrtys](https://www.alz.org/help-support/caregiving/daily-care/communications) coyrlaghey dy yeeaghyn son y çheer cheu-sthie jeh ny focklyn oc as eh y ghra reesht dy chur shickyr dy vel oo er hoiggal. “Vel imnea ort mychione yn ghleashtan?”
+- **Jeeagh er nyn eddin as glare y chorp.** Myr ta loayrt gaase ny s’doillee, ta’n NIA gra, foddee eddinyn soilshaghey trimshey, corree ny frustyraght ny s’baghtal na focklyn.
+- **Cur geill daue.** Ga dy vel imnea er bun marranys, ta’n ennaghtyn feer.
 
-## Cre my t'ad gra red nagh vel fior?
+## Cre my t’ad gra red nagh vel firrinagh?
 
-Ny jean arganey. Cha nel eh lickly dy jig oo er e hoshiaght, as foddee yn persoon gennaghtyn nearey ny agglit. Ayns ynnyd jeh shen, jean kiangley rish yn ennaghtyn, eisht gow er dy meein.
+Ny jean arganey. Seldom nee oo cosney, as foddee yn persoon gennaghtyn nearey ny agglit ec y jerrey. Ayns yn ynnyd shen, jean ceangal rish yn ennaghtyn, eisht gow er aght dy meein.
 
-Ta Family Caregiver Alliance coyrlaghey dy ghoail rish yn ennaghtyn roish my vel oo caghlaa y cooish. Myr sampleyr, my ta dty voir gra dy vel ee laccal goll dy hroggal y paitçhyn veih scoill:
+Ta Family Caregiver Alliance coyrlaghey dy ghoail rish yn ennaghtyn roish my hyndaa oo yn co-loayrtys. Myr sampleyr, my ta dty voir gra dy lhisagh ee ny paitçhyn y chruinnaghey veih’n scoill:
 
-- Ayns ynnyd jeh: “Voir, ta dty phaitçhyn aasit. Va shen da-eed blein er dy henney.”
-- Prowal: “V'ou rieau dty voir feer chiarailagh. Insh dou mychione troggal ad. Jean mayd gee red ennagh hoshiaght?”
+- Ayns ynnyd jeh: “Voir, ta dty phaitçhyn aasit nish. Va shen da-eed blein er dy henney.”
+- Jean eab er: “V’ou rieau dty voir feer chaarjoil. Insh dou mychione cruinnaghey ad. Jeanmayd gee red beg hoshiaght?”
 
-Ta Alzheimer’s Association myrgeddin coyrlaghey nagh lhisagh oo arganey harrish raaghyn nagh vel oo cordail roo. Reih dty traa: my ta credjue neu-chiart gyn assee, lhig da ve.
+Ta Alzheimer’s Association myrgeddin coyrlaghey gyn arganey mychione raaghyn nagh vel oo coardail roo. Reih dty hraa: my ta credjue marranagh gyn assee, lhig da ve.
 
-## Kys ta loayrt caghlaa myr ta meenaghtys goll er?
+## Kys ta co-loayrtys caghlaa myr ta co-ennymaght y chooinsheanse goll er?
 
-Ta femeyn caghlaa harrish traa, myr shen jean dty aght y chaghlaa. Ta Alzheimer’s Association cur-my-ner three aghtyn mooarey:
+Ta femeaghyn caghlaa harrish traa, myr shen jean caghlaa er dty aght. Ta Alzheimer’s Association cur sheese tree rheynnyn mooarey:
 
-| Stayd | Cre ta cooney |
+| Keim | Cre ta cooney |
 | --- | --- |
-| Toshiaght | Ny jean croo nagh vod ad loayrt. Cur stiagh ad ayns coloayrtyn, loayr roo dy jeeragh, feysht cre'n cooney by vie lhieu, as jean ymmyd jeh aittys my ta shen cooney. |
-| Mean | Coloayrtyn un-ry-un ayns boayl feagh. Loayr dy moal, cum sooilley-marish, jean ymmyd jeh eyshtyn ta/fegooish, cur sareyyn ayns cummaghyn keim-ry-keim, as ny jean criteeaghey ny kiartaghey. |
-| Jerrey | Tar er nyn doshiaght as abbyr quoi oo hene. Cur greinnaghey daue cowrey y yannoo as gesmadyn y ymmyd. Jean ymmyd jeh bentyn, sheean, fakinys as soar. Ny loayr rieau myr nagh vel ad ayns shen. |
+| Moghey | Ny jean toiggal nagh vod ad loayrt. Cur stiagh ad ayns co-loayrtyn, loayr roo dy jeeragh, jean briaght cre’n cooney by vie lhieu, as jean ymmyd jeh aittys my ta shen cooney. |
+| Meanagh | Co-loayrtyn unnane rish unnane ayns boayl feagh. Loayr dy moal, cum shilley, jean ymmyd jeh ceistey ta ny cre’n fa nagh, cur sarey ayns ceimyn, as ny jean oghsan ny shirrey. |
+| Anmagh | Tar nyn raaue veih’n toshiaght as abbyr quoi oo. Cur greinnaghey daue cowraghey lesh laueyn. Jean ymmyd jeh bentyn, sheeanyn, reddyn ry-akin as soar millish. Ny loayr dy bragh myr nagh vel ad ayns shen. |
 
-Ta dagh persoon er-lheh, as foddee yn un persoon laaghyn mie as laaghyn doillee y ve oc. Cur freggyrt da kys t'ad nish, cha nee da lipaid.
+Ta dagh persoon erskyn towse, as foddee yn un persoon laaghyn mie as laaghyn doillee y ve oc. Cur freggyrt da kys t’ad nish, cha nee da lipaid.
 
-## Vel jallooyn as cloie ry-cheilley cur cooney da coloayrtys?
+## Vel jallooyn as cloie cooney dy yannoo co-loayrtys ny sassey?
 
-Ta. Ta jalloo ry-akin ry-cheilley goaill ersooyl yn chruaaghey as cur red ennagh diuish y vees dy yeeaghyn er as dy chowrey huggey.
+Ta. Ta jalloo ry-heet ry-cheilley cur ersooyl yn tranlaase as cur red ennagh diu y jees dy yeeaghyn er as dy chowraghey huggey.
 
-- **Jallooyn son loayrt.** Ta [Conversation Cards](/games/conversation-cards/) cur jallooyn lesh eyshtyn foshlit nagh vel quizzal rieau.
-- **Jallooyn lught-thie.** Ta [Photo Pairs](/games/photo-pairs/) jannoo cloie cochiangley meein ass jallooyn t'ou reih, as t'eh dy mennick cur skeealyn er-ash.
-- **Raaghyn ennagh.** Ta [Finish the Saying](/games/finish-the-saying/) jannoo ymmyd jeh raaghyn ennagh, as eisht cur eysht son loayrt.
-- **Cloie cochiangley.** Ta [Picture Pairs](/games/picture-pairs/) cur red ennagh da ny laueyn y yannoo choud's t'ou loayrt.
+- **Jallooyn son co-loayrtys.** Ta [Conversation Cards](/games/conversation-cards/) cur jallooyn marish ceistey foshlee nagh jean shirrey erbee.
+- **Jallooyn lught-thie.** Ta [Photo Pairs](/games/photo-pairs/) jannoo cloie co-chosney meein ass jallooyn ta oo reih, as t’eh dy mennick cur skeealyn er bun.
+- **Raaghyn ennagh.** Ta [Finish the Saying](/games/finish-the-saying/) jannoo ymmyd jeh raaghyn ennagh Americaanagh, as eisht ta feysht son loayrt.
+- **Cloie co-chosney myr cooylrey.** Ta [Picture Pairs](/games/picture-pairs/) cur red ennagh da dty laueyn dy yannoo choud’s ta oo taggloo.
 
-Jeeagh er [kys dy chloie cloie ry-cheilley](/caregiving/how-to-play-together/) as [cooishyn cooinaghtyn](/activities/reminiscence/) son tooilley. Son keayrtyn as fónaghyn, lhaih nyn lioaryn mychione [keayrtyn](/activities/visiting/) as [fónaghyn as fónaghyn-fysseree](/activities/phone-and-video-calls/).
+Jeeagh er [kys dy chloie cooidjagh](/caregiving/how-to-play-together/) as [rish taghyrtyn cooinaghtyn](/activities/reminiscence/) son tooilley. Son cuirraghtyn as foneyn, lhaih nyn stiurey er [cuirraghtyn](/activities/visiting/) as [foneyn as feyshtyn video](/activities/phone-and-video-calls/).
+
+Son persoon ta loayrt ymmodee çhengaghyn, jeeagh er nyn [stiurey er co-loayrtys harrish çhengaghyn](/caregiving/language-and-dementia-communication/).
 
 ## Cre my ta mee coayl my hurranse?
 
-T'eh taghyrt da dy chooilley pheiagh. Ta NIA coyrlaghey, my t'ou cheet dy ve corree, dy ghow oo tammylt dy gholl feagh. Gow stiagh ayns shamyr elley, gow kuse dy ennalyn moal, as tar er ash tra oddys oo. Foddee oo toshiaght er y coloayrtys reesht rieau, as foddee dy jean y persoon freggyrt mie da dty choraa ny s'feagh. My ta corree cheet dy ve kinjagh, she cowrey eh dy vel feme ayd er ny smoo cooney, cha nee dy vel oo failleil. Ta boaylyn cooney ayns nyn lioar mychione [kiarail ort hene](/caregiving/caregiver-self-care/).
+T’eh taghyrt da dagh unnane. Ta’n NIA coyrlaghey, my t’ou goll er frustyraght, dy ghoaill traa dy ve feagh. Gow stiagh ayns çhamyr elley, gow tammylt dy ennal dy moal, as tar erash tra oddys oo. Foddee oo dy kinjagh y co-loayrtys y thoshiaght reesht, as foddee yn persoon freggyrt dy mie da dty choraa ny s’fea. My ta frustyraght dy kinjagh taghyrt, ta shen cowrey dy vel oo feme ny smoo cooney, cha nee dy vel oo failleil. Ta nyn stiurey er [hene-choadey son persoonyn ta cur kiarail](/caregiving/caregiver-self-care/) cur boaylyn dy heet er cooney.

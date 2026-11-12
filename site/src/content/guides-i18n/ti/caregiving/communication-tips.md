@@ -1,33 +1,29 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "ምኽርታት ርክብ፦ ምስ ድመንሻ ዘለዎ ሰብ ከመይ ኢልካ ትዘራረብ"
+seoTitle: "ምኽርታት ርክብ ድመንሻ፦ እንታይ ትብልን እንታይ ትወግድን"
+description: "ምስ ድመንሻ ዝነብር ሰብ ንምዝርራብ ጠቓሚ መንገድታት፦ ዝርርብ ከመይ ኢልካ ትጀምር፣ ኣብ ክንዲ ምፍታን ወይ ምእራም እንታይ ትብል፣ ከምኡውን ብጥንቃቐ ከመይ ትሰምዕ።"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  ኣብ ህድእ ቦታ ተዘራረቡ፣ ንሰብኡ ገጽ ንገጽ ርኣይዎ፣ ስሙ ተጠቐሙ፣ ከምኡውን ብዝጠራሕን ሓጻርን ቀሊልን ሓሳባት ተዛረቡ። ሓደ ሕቶ ኣብ ሓደ ግዜ ሕተቱ፣ ኣብ ክንዲ ክፉት ሕቶታት ክልተ ምርጫታት ሃቡ፣ ከምኡውን ካብ ዝመስለኩም ንላዕሊ ተጸበዩ። ኣይትከራኸሩ፣ ኣይተኣርሙ ወይ ኣይትፍትኑ። ንስምዒት ድሕሪ ቃላቱ መልሲ ሃቡ፣ ከምኡውን ምዝራብ ክኸብድ ምስ ዝጅምር ብምትንካፍ፣ ስእልታትን ምልክታትን ተጠቐሙ።
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "ቅድሚ ምዝራብ ድምጺ ዘዘራርብ ነገራት ቀንሱን ናይ ዓይኒ ርክብ ግበሩን።"
+  - "ሓጻር ሓሳባት፣ ሓደ ሓሳብ ኣብ ሓደ ግዜ፣ ከምኡውን ኣብ ክንዲ ንሱ፣ ንሳ ወይ ንሶም ስማት ተጠቐሙ።"
+  - "ኣብ ክንዲ ክፉት ሕቶታት፣ ካብ ክልተ ምርጫ ወይ እወ፡ ኣይፋል ዝብል ሕቶ ሃቡ።"
+  - "መልሲ ተጸበዩ። እንተዘይተረድኡኩም፡ ተመሳሳሊ ቃላት ደጊምኩም ተዛረቡ፡ ድሕሪኡ ካልእ ቃላት ፈትኑ።"
+  - "ኣይትከራኸሩ ወይ ኣይተኣርሙ። ንስምዒት ድሕሪ ዝብልዎ መልሲ ሃቡ።"
+  - "ቃላት ክቕንሱ ምስ ዝጅምሩ፡ ብምትንካፍ፡ ብድምጺ፡ ብገጽ መግለጺን ብሓባራዊ ስእልታትን ተራኸቡ።"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "ንድመንሻ ዘለዎ ሰብ እንታይ ክትብሉ የብልኩምን?"
+    a: "ምፍታን («ትዝክሮ ዲኻ?»)፡ ምእራም («እዚ ጌጋ እዩ»)፡ ናይ ምጥፋእ መዘኻኸሪ («ድሮ ነጊረካ እየ»)፡ ከምኡውን ከምዘየለዉ ገይርካ ምዝራብ ኣወግዱ። ከም ቆልዓ ምዝራብ ኣወግዱ። እዚኣቶም መብዛሕትኡ ግዜ ክሕግዙ ኣብ ክንዲ ምኻን፡ ዕንወት ወይ ጭንቀት የምጽኡ።"
+  - q: "ሓቂ ክጌጉ ከለዉ ክኣርመሎም ይግባእ ድዩ?"
+    a: "መብዛሕትኡ ግዜ ኣይኮነን። እቲ ዝጌገ ሓቂ ጉዳእ እንተዘይብሉ፡ ሰደድዎ እሞ ሕለፍዎ። ምክርኻር ናይ ሰብኡ ሓሳብ ብዙሕ ግዜ ኣይቕይሮን እዩ፡ መብዛሕትኡ ግዜ ድማ የሕርቆ። ኣብዚ ሕጂ እዋን ከመይ ከም ዝስምዖምን እንታይ ከም ዘድልዮምን ጥራይ ኣተኩሩ።"
+  - q: "ቃል ክረኽቡ ክጸግሙ ከለዉ እንታይ ክገብር?"
+    a: "መጀመርታ ግዜ ሃብዎም። ብንጹር ይጸግሙ ከምዘለዉ እንተተራእዩኩም፡ ብህድእነት ቃል ምሕጋዝ ወይ እንታይ ምባሎም ከምዝደለዩ ብምግምት ምሕታት ጽቡቕ እዩ። ምጥቃም፡ ምልክታትን ስእልታትን እውን ክሕግዙ ይኽእሉ።"
+  - q: "ኣብ ዳሕራይ ደረጃ ድመንሻ ዘሎ ሰብ ዳርጋ ዘይዝርርብ ከሎ ከመይ ክዛረበሉ?"
+    a: "ካብ ቅድሚት ቀረብዎ፡ መን ምዃንኩም ንገርዎ፡ ከምኡውን ህዱእ ድምጽን ቀሊል ምትንካፍን ተጠቐሙ። ስምዒቶም ንምርዳእ ገጾምን ቋንቋ ኣካላቶምን ተዓዘቡ። ኣብ ጎኖም ምህላውኩም፡ ዝፈልጥዎ ደርፊ ወይ ኢዶም ምሓዝ ብዘይ ቃላት ብዙሕ ክገልጽ ይኽእል።"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +35,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+ድመንሻ ቃላት ምርካብ፡ ነዊሕ ሓሳብ ምስዓብ ወይ ድምጺ ዘዘራርብ ነገራት ምእጋድ ከተጸግም ይኽእል። እዚ ግን እቲ ሰብ ምስ ካልኦት ክራኸብ ዘይደሊ ማለት ኣይኮነን። ዝርርብ ከመይ ኢልኩም ከም እትዳሎዉ፡ ከመይ ከም እትዛረቡን ከመይ ከም እትሰምዑን ንኣሽቱ ለውጢ ምግባር ንኽልቲኣቱም ዝርርብ ዝያዳ ቀሊልን ህዱእን ክገብሮ ይኽእል።
 
-## What are the most important tips for talking with someone who has dementia?
+## ምስ ድመንሻ ዘለዎ ሰብ ክትዛረቡ ከለኹም እቶም ኣዝዮም ኣገደስቲ ምኽርታት እንታይ እዮም?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+ቀዳምነት ኣትሕዝዎም፡ ቀሊል ግበርዎ፡ ከምኡውን ተጻበዩ። ሓሙሽተ ነገራት ጥራይ ክትዝክሩ እንተኾይንኩም፦
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **እቲ ክፍሊ ህዱእ ግበርዎን ገጽ ንገጽ ተራኸቡን።** ተለቪዥን ዕጸትዎ፡ ኣብ ደረጃ ዓይኒ ተቐመጡ፡ ስሙ ድማ ተጠቐሙ።
+2. **ሓደ ነገር ኣብ ሓደ ግዜ ተዛረቡ።** ሓጻር ሓሳባት፡ ሓደ ሓሳብ፡ ሓደ ሕቶ።
+3. **ካብ ክልተ ምርጫ ሃቡ።** «ሻሂ ወይ ቡን?» ካብ «እንታይ ክትሰቲ ትደሊ?» ዝያዳ ቀሊል እዩ።
+4. **ተጸበዩ።** ካብ ዝመስለኩም ንላዕሊ ግዜ ሃብዎም፡ ኣብ ማእከል ድማ ኣይትቋርጽዎም።
+5. **ፈጺምኩም ኣይትከራኸሩ ወይ ኣይትፍትኑ።** እቲ ሓቂ ቅኑዕ ምዃኑ ዘይኮነስ፡ ከመይ ከም ዝስምዖም ተኣዘዙ።
 
-## How should I start a conversation?
+## ዝርርብ ከመይ ክጅምር?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+እቲ ሰብ ንዓኻትኩም ክትኩር ክገብር ዝኽእለሉ ኩነታት ኣዳልዉ። [ናይ Family Caregiver Alliance መምርሒ](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) መጀመርታ ድምጺ ዘዘራርብ ነገራት ክትቀንሱ ይምክር፦ ራድዮ ወይ ተለቪዥን ዕጸትዎ፡ መጋረጃ ወይ ማዕጾ ዕጸውዎ፡ ወይ ናብ ዝያዳ ህዱእ ቦታ ተሰጋገሩ።
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **ካብ ቅድሚት ቀረብዎ።** ካብ ድሕሪት ወይ ካብ ጎኒ ምቕራብ ክዘንግዖም ይኽእል።
+- **መን ምዃንኩም ንገርዎ።** «ሰላም ኣቦይ፡ ኣነ ሳራ ጐይታኻ እየ።» እዚ ስምኩም ክዝክሩ ኣይጸግሙን።
+- **ኣብ ደረጃ ዓይኖም ውረዱ።** እንተ ተቐሚጦም እንተኾይኖም፡ ተቐመጡ ወይ ተንበርከኹ ከምኡ ዓይኖም ምስ ዓይኒኹም ተመጣጣኒ ክኸውን ግበሩ።
+- **ገጽኩምን ድምጽኹምን ኣረጋግጹ።** [ናይ ሃገራዊ ትካል ዕድመ (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ንድምጽኹም፡ መጠን ድምጽኹም፡ ናይ ገጽ መግለጽኹምን ቋንቋ ኣካላትኩምን ትኹረት ክትገብሩ፡ ውዕይን ህዱእን ባህሪ ክትሕዙ ድማ ይመክር።
+- **መነጸር ዓይኒን መሳርሒ ምስማዕን ከምዘለዎም ኣረጋግጹ።** ብጽቡቕ ዘይትርእይዎ ወይ ዘይትሰምዕዎ ዝርርብ ምክትታል ከቢድ እዩ።
 
-## How should I phrase what I say?
+## ዝትብልዎ ነገር ከመይ ጌርኩም ትዛረቡ?
 
-Use simple words, short sentences and a calm, low voice.
+ቀሊል ቃላት፡ ሓጻር ሓሳባትን ህዱእን ትሑትን ድምጽን ተጠቐሙ።
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **ኣብ ሓደ ሓሳብ ሓደ ሓሳብ ጥራይ።** «ኮትካ ንኽደይ። ድሕሪኡ ናብ ደገ ንወጽእ።» ኣብ ክንዲ ክልቲኡ ኣብ ሓደ እምባ ምባል።
+- **ኣብ ክንዲ ተክእ ስማት ስማት ተጠቐሙ።** «ዓንቲ ዠን ደዊላ» ካብ «ንሳ ደዊላ» ዝያዳ ንጹር እዩ።
+- **ድምጺ ትሑት ግበርዎ እምበር ከብሕትዎ ኣይኮነን።** ናይ Family Caregiver Alliance ካብ ምዕባይ ይልቅ ድምጺ ክትሑት ምግባር ይመክር።
+- **ደጊምኩም ተዛረቡ፡ ድሕሪኡ ብካልእ መንገዲ ተዛረቡ።** እንተዘይተረድኡኩም፡ ተመሳሳሊ ቃላት ሓንሳብ ደጊምኩም ተዛረቡ። እዚ እንተዘይሰርሐ፡ ቁሩብ ተጸበዩ ድሕሪኡ ካልእ ቃላት ፈትኑ።
+- **ከም እትዛረቡ ከምኡውን ኣርእዩ።** ናብ እቲ ኩባያ ኣመልክቱ፡ ነቶም ክልተ ሾርባ ኣርእዩ፡ ወይ ነቲ ቀዳማይ ስጉምቲ ኣርእዩ።
+- **ምስኡ ተዛረቡ እምበር ብዛዕባኡ ኣይትዛረቡ።** NIA ከምዘየለዉ ገይርካ ብዛዕባ ሰብኡ ምዝራብን «ከም ቆልዓ ምዝራብን» ከይትገብሩ የጠንቅቕ።
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ንልሙዳት ሕቶታት ዝያዳ ቀሊል ቅርጺ ክትጥቀሙ ይመክር። ኣብዚ መንፈስ ዝተመርኮሱ ኣብነታት እነሆ፦
 
-| Instead of | Try |
+| ኣብ ክንዲ | ከምዚ ፈትኑ |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «ንድራር እንታይ ክትበልዕ ትደሊ?» | «ዓሳ ወይ ድርሆ ትደሊ?» |
+| «ከመይ ይስምዓካ?» | «ድኻም ይስምዓካ ድዩ?» |
+| «ጥሜት ኣለካ ድዩ?» | «ድራር ኣብ ሓሙሽተ ደቓይቕ ድሉው ክኸውን እዩ።» |
+| «ከምኡ ኣይግበርን እዩ።» | «ከምዚ ንፍትኖ።» |
+| «ናብ ቀላይ ዝኸድናሉ ጉዕዞ ትዝክሮ ዲኻ?» | «ብዛዕባ ናብ ቀላይ ዝኸድናሉ ጉዕዞ ይሓስብ ነይረ። እንታይ ከምዘፍቀርካዮ ንገረኒ።» |
+| «ድሮ ነጊረካ እየ።» | ከም ንቀዳማይ ግዜ ኢልካ፡ ብየውሃት ደጊምካ መልስ። |
 
-## How do I listen well?
+## ብጽቡቕ ከመይ ክሰምዕ?
 
-Listen for the meaning and the feeling, not just the words.
+ንቃላት ጥራይ ዘይኮነስ፡ ነቲ ትርጉምን ስምዒትን ስምዑ።
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **ተጸበዩ።** ስቕታ መብዛሕትኡ ግዜ ናይ ምሕሳብ ግዜ እዩ። ቅድሚ ምእታው ብዝጠራሕ ክሳብ ዓሰርተ ቁጸር።
+- **እንተተደናገዩ ጥራይ ቃል ሕግዞም።** ናይ Family Caregiver Alliance ሰብ ክጸግም ከሎ ቃላት ምሕጋዝ ጽቡቕ ከምዝኾነ ይብል።
+- **ዝሰማዕኩም ኣረጋግጹ።** [ናይ Alzheimer’s Association መምርሒ ርክብ](https://www.alz.org/help-support/caregiving/daily-care/communications) ድሕሪ ቃላቶም ዘሎ ትርጉም ክትርእዩን ብጽቡቕ ከም ዝረዳእኩም ንምርግጋጽ ክትድግሙን ይመክር። «ብዛዕባ እታ መኪና ትጨነቕ ዲኻ?»
+- **ገጾምን ኣካላቶምን ተዓዘቡ።** ምዝራብ ክኸብድ ምስ ዝጅምር፡ NIA ከምዝብሎ፡ ናይ ገጽ መግለጺታት ሓዘን፡ ኹራ ወይ ቑጣ ካብ ቃላት ዝያዳ ብንጹር ከርእዩ ይኽእሉ።
+- **ጭንቀቶም ብጥንቃቐ ውሰድዎ።** ጭንቀት ኣብ ዝጌገ ሓቂ ዝተመርኮሰ እንተኾነ እውን፡ እቲ ስምዒት ሓቀኛ እዩ።
 
-## What if they say something that is not true?
+## ሓቂ ዘይኮነ ነገር እንተተዛሪቦምስ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+ኣይትከራኸሩ። ክትዕወቱ ኣይትኽእሉን ኢኹም፡ እቲ ሰብ ድማ ዕንወት ወይ ፍርሒ ክስምዖ ይኽእል። ኣብ ክንዲኡ፡ ምስ ስምዒቱ ተራኸቡ፡ ድሕሪኡ ብህድእነት ናብ ካልእ ነገር ቀይርዎ።
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+ናይ Family Caregiver Alliance ቅድሚ ምቕያር ነቲ ስምዒት ምቕባል ይመክር። ንኣብነት፡ ኣደኹም ቆልዑ ካብ ቤት ትምህርቲ ክትወስዶም ከምዘለዋ እንተጸኒዓ፦
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- ኣብ ክንዲ፦ «ኣደይ፡ ቆልዕኺ ዓብዮም እዮም። እዚ ኣርብዓ ዓመታት ቅድሚ ሕጂ እዩ ኔሩ።»
+- ከምዚ ፈትኑ፦ «ኩሉ ግዜ ኣዝያ ተኸናኻኒት ኣደ ኢኺ ኔርኪ። ብዛዕባ ምውሳዶም ንገርኒ። ቅድሚ ክንከይድ ቁሩብ መግቢ ንበልዕ ዶ?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association እውን ዘይትሰማምዑሎም ነገራት ከይትከራኸሩ ይመክር። እዋን ምረጹ፦ እቲ ዝጌገ እምነት ጉዳእ እንተዘይብሉ፡ ሰደድዎ እሞ ሕለፍዎ።
 
-## How does communication change as dementia progresses?
+## ድመንሻ ክዓቢ ምስ ዝጅምር ርክብ ከመይ ይቕየር?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+ድሌታት ምስ ግዜ ይቕየሩ፡ ስለዚ ኣገባብኩም ኣመዓራርዩ። Alzheimer’s Association ሰለስተ ሰፊሕ ደረጃታት ይገልጽ፦
 
-| Stage | What helps |
+| ደረጃ | ዝሕግዝ ነገር |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| መጀመርታ | ክራኸቡ ኣይክኽእሉን ኢሎም ኣይትሓስቡ። ኣብ ዝርርባት ኣካትትዎም፡ ብቐጥታ ምሳኦም ተዛረቡ፡ እንታይ ዓይነት ሓገዝ ከም ዝደልዩ ሕተትዎም፡ እንተ ሓጊዙኩም ድማ ቀልዲ ተጠቐሙ። |
+| ማእከላይ | ኣብ ህዱእ ቦታ ብናይ ሓደ ንሓደ ዝርርብ። ብዝጠራሕ ተዛረቡ፡ ናይ ዓይኒ ርክብ ሓዙ፡ እወ፡ ኣይፋል ዝብሉ ሕቶታት ተጠቐሙ፡ ብስጉምቲ ስጉምቲ መምርሒ ሃቡ፡ ከምኡውን ኣይትነቕፉ ወይ ኣይተኣርሙ። |
+| ዳሕራይ | ካብ ቅድሚት ቀረብዎን መን ምዃንኩም ንገርዎን። ምጥቃምን ምልክታትን ኣተባብዑ። ምትንካፍ፡ ድምጽታት፡ ምርኣይን ምሽታታትን ተጠቐሙ። ከምዘየለዉ ገይርኩም ፈጺምኩም ኣይትዛረቡ። |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+ነፍሲ ወከፍ ሰብ ፍሉይ እዩ፡ ሓደ ዓይነት ሰብ እውን ጽቡቕ መዓልታትን ከቢድ መዓልታትን ክህልዉዎ ይኽእሉ። ንምልክት ዘይኮነስ፡ ኣብዚ ሕጂ እዋን ከመይ ከም ዘሎ ተኣዘዙ።
 
-## Can pictures and activities make conversation easier?
+## ስእልታትን ንጥፈታትን ዝርርብ ክቀልሉ ይኽእሉ ዶ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+እወ። ሓባራዊ ስእሊ ጸቕጢ ይቕንስ እሞ ክልቲኣትኩም ክትርእዩን ክተመልክቱን ዝኽእልኩምሉ ነገር ይህበኩም።
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **ናይ ስእሊ ሓገዝቲ።** [Conversation Cards](/games/conversation-cards/) ፈጺምኩም ዘይፍትኑ ክፉት ሕቶታት ዘለዎም ስእልታት የቕርብ።
+- **ናይ ስድራ ስእልታት።** [Photo Pairs](/games/photo-pairs/) እትመርጽዎም ስእልታት ናብ ህዱእ ናይ ምምሳሳል ጸወታ ይቕይሮም፡ እዚ ድማ መብዛሕትኡ ግዜ ዛንታታት የተባብዕ።
+- **ዝፍለጡ ጥቕስታት።** [Finish the Saying](/games/finish-the-saying/) ዝፍለጡ ናይ ኣመሪካ ጥቕስታት ይጥቀም፡ ድሕሪኡ ናይ ዝርርብ ሕቶ ይህብ።
+- **ናይ ምምሳሳል ጸወታታት።** [Picture Pairs](/games/picture-pairs/) ክትዛረቡ ከለኹም ኢድኹም ክትሰርሑሉ ነገር ይህበኩም።
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+ተወሳኺ ሓበሬታ ንምርካብ [ብሓባር ጸወታታት ከመይ ክትጻወቱ](/caregiving/how-to-play-together/) ከምኡውን [ናይ መዘኻኸሪ ንጥፈታት](/activities/reminiscence/) ርአዩ። ብዛዕባ ምብጻሕን ጻውዒታትን ድማ ናይ [ምብጻሕ](/activities/visiting/) ከምኡውን [ናይ ስልኪን ቪድዮን ጻውዒታት](/activities/phone-and-video-calls/) መምርሒታትና ኣንብቡ።
 
-## What if I lose my patience?
+ብዙሕ ቋንቋታት ዝዛረብ ሰብ እንተሃልዩኩም፡ [ብዙሕ ቋንቋታት ብምጥቃም ዝግበር ርክብ መምርሒና](/caregiving/language-and-dementia-communication/) ርአዩ።
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## ትዕግስተይ እንተተወዲኡኒስ?
+
+እዚ ንዅሉ ሰብ ይኸውን። NIA ቑጣ እንተተሰሚዑኩም፡ ንኽትህድኡ ቁሩብ ግዜ ክትወስዱ ይመክር። ናብ ካልእ ክፍሊ ኺዱ፡ ብዝጠራሕ ሒደት ግዜ ሕሰቡ፡ ድሕሪኡ ምስ ረጋጋእኩም ተመለሱ። ዝርርብ ኩሉ ግዜ ከም ብሓድሽ ክትጅምሩ ትኽእሉ ኢኹም፡ እቲ ሰብ ድማ ንህዱእ ስምዒትኩም ክምልሰልኩም ይኽእል። ቑጣ ቀጻሊ እንተኾይኑ፡ እዚ ተወሳኺ ደገፍ ከምዘድልየኩም ዘርኢ ምልክት እዩ እምበር ተሳኺዕኩም ከምዘይኮንኩም ኣይኮነን። ናይ [ንክንክን ሰብ ንባዕሉ ምክንኻን መምርሒና](/caregiving/caregiver-self-care/) ናብ ክትምርሕዎም ዝኽእሉ ቦታታት ኣለዎ።

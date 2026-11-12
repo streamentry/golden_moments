@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Suġġerimenti għal Kif Titkellem ma’ Persuna bid-Dimenzja"
+seoTitle: "Kif Titkellem ma’ Persuna li Tgħix bid-Dimenzja"
+description: "Modi prattiċi kif titkellem ma’ persuna li tgħix bid-dimenzja: kif tipprepara konverżazzjoni, x’tista’ tgħid minflok ma tittestja jew tikkoreġi, u kif tisma’."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Tkellmu f’post kwiet, ħarsu lejha, użaw isimha, u tkellmu bil-mod fi sentenzi
+  qosra u sempliċi. Staqsu mistoqsija waħda kull darba, offru żewġ għażliet
+  minflok mistoqsijiet miftuħa, u stennew aktar milli forsi tidhrilkom normali.
+  Targumentawx, tikkoreġux u tittestjawx. Wieġbu għas-sentiment wara l-kliem,
+  u użaw il-mess, l-istampi u l-ġesti hekk kif il-kliem isir aktar diffiċli.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Naqqsu l-istorbju fl-isfond u agħmlu kuntatt tal-għajnejn qabel ma tibdew titkellmu."
+  - "Użaw sentenzi qosra, idea waħda kull darba, u ismijiet minflok hu, hi jew huma."
+  - "Offru għażla bejn tnejn, jew mistoqsija b’iva jew le, minflok mistoqsijiet miftuħa."
+  - "Stennew tweġiba. Jekk ma tinftiehmux, erġgħu għidu l-istess kliem, imbagħad ippruvaw kliem ieħor."
+  - "Targumentawx u tikkoreġux. Wieġbu għas-sentiment wara dak li jgħidu."
+  - "Hekk kif il-kliem jonqos, ikkomunikaw permezz tal-mess, tat-ton tal-vuċi, tal-espressjoni tal-wiċċ u ta’ stampi li taraw flimkien."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "X’għandek tevita li tgħid lil persuna li tgħix bid-dimenzja?"
+    a: "Evitaw li tittestjaw (“Tiftakar...?”), li tikkoreġu (“Dak mhux tajjeb”), li tfakkruhom f’telfiet (“Diġà għedtlek”) u li titkellmu dwarhom bħallikieku mhumiex preżenti. Evitaw ukoll kliem tat-trabi. Dawn l-affarijiet spiss iġibu skumdità jew dwejjaq mingħajr ma jgħinu."
+  - q: "Għandi nikkoreġiha meta tgħid xi ħaġa li mhix eżatta?"
+    a: "Ġeneralment le. Jekk fatt mhux eżatt ma jagħmilx ħsara, ħalluh jgħaddi. L-argumenti rari jibdlu l-fehma tal-persuna u spiss iwasslu biex tħossokha imdejqa. Iffokaw fuq kif qed tħossha u x’għandha bżonn bħalissa."
+  - q: "X’nagħmel meta ma ssibx il-kelma t-tajba?"
+    a: "L-ewwel agħtuha l-ħin. Jekk tidher li qed issibha diffiċli, m’hix problema li toffrilha kelma bil-mod jew tipprova taqta’ x’riedet tfisser u tiċċekkja magħha. Li tipponta, il-ġesti u l-istampi jistgħu jgħinu wkoll."
+  - q: "Kif nitkellem ma’ persuna fi stadju avvanzat tad-dimenzja li rari titkellem?"
+    a: "Avviċinaw minn quddiem, għidu min intom, u użaw vuċi kalma u mess ġentili. Osservaw l-espressjonijiet tal-wiċċ u l-lingwaġġ tal-ġisem biex tifhmu s-sentimenti. Il-preżenza tagħkom, kanzunetta familjari jew li żżommu idejn xulxin jistgħu jikkomunikaw ħafna anke mingħajr kliem."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +39,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Id-dimenzja tista’ tagħmilha aktar diffiċli li ssib il-kliem, li ssegwi sentenza twila, jew li tinjora l-istorbju tal-isfond. Dan ma jfissirx li l-persuna m’għadhiex tixtieq tikkonnettja. Bidliet żgħar fil-mod kif tippreparaw konverżazzjoni, kif titkellmu u kif tisimgħu jistgħu jagħmlu t-taħdit aktar faċli u kalm għalikom it-tnejn.
 
-## What are the most important tips for talking with someone who has dementia?
+## X’inhuma l-aktar suġġerimenti importanti biex titkellem ma’ persuna li tgħix bid-dimenzja?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Iġibu l-attenzjoni tagħha, żommu l-affarijiet sempliċi, u ħudu paċenzja. Jekk tiftakru biss ħames affarijiet:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Agħmlu l-post kwiet u ħarsu lejha.** Itfu t-televixin, poġġu fil-livell tal-għajnejn, u użaw isimha.
+2. **Għidu ħaġa waħda kull darba.** Sentenzi qosra, idea waħda, mistoqsija waħda.
+3. **Offru għażla bejn tnejn.** “Tè jew kafè?” huwa aktar faċli minn “X’tixtieq?”
+4. **Stennew.** Agħtuha aktar ħin biex twieġeb milli forsi jidhrilkom normali, u ppruvaw ma tinterrompux.
+5. **Qatt targumentaw jew tittestjaw.** Wieġbu għal kif qed tħossha, mhux għal jekk il-fatti humiex korretti.
 
-## How should I start a conversation?
+## Kif għandi nibda konverżazzjoni?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ippreparaw l-ambjent sabiex il-persuna tkun tista’ tiffoka fuqkom. Il-[gwida tal-Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) tissuġġerixxi li l-ewwel tnaqqsu l-istorbju: itfu r-radju jew it-televixin, agħlqu l-purtieri jew il-bieb, jew morru f’post aktar kwiet.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Avviċinaw minn quddiem.** Li taslu minn wara jew mill-ġenb jista’ jbeżżagħha.
+- **Għidu min intom.** “Bonġu Pa, jien Sarah, binti.” Dan jevita li jkollha tfittex ismek.
+- **Inżlu fil-livell tagħha.** Jekk hi bilqiegħda, poġġu bilqiegħda jew inżlu għarkupptejkom sabiex għajnejkom ikunu fl-istess livell.
+- **Oqogħdu attenti għall-espressjoni ta’ wiċċkom u għat-ton tal-vuċi.** In-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) tagħti parir li toqogħdu attenti għat-ton, il-volum, l-espressjoni tal-wiċċ u l-lingwaġġ tal-ġisem, u li żżommu mod ta’ kif titkellmu sabiħ u kalm.
+- **Kun żgur li n-nuċċali u l-apparat tas-smigħ qegħdin f’posthom.** Huwa diffiċli li ssegwi konverżazzjoni li ma tistax tara jew tisma’ sew.
 
-## How should I phrase what I say?
+## Kif għandi nifformula dak li ngħid?
 
-Use simple words, short sentences and a calm, low voice.
+Użaw kliem sempliċi, sentenzi qosra u vuċi kalma u baxxa.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Idea waħda f’kull sentenza.** “Ejja nilbsu l-kowt. Imbagħad noħorġu barra.” Mhux it-tnejn f’daqqa.
+- **Użaw l-ismijiet, mhux il-pronomi.** “Ċempet iz-zija Jean” huwa aktar ċar minn “Hi ċempet.”
+- **Vuċi aktar baxxa, mhux ogħla.** Il-Family Caregiver Alliance tissuġġerixxi vuċi aktar baxxa minflok waħda mgħollija.
+- **Erġgħu għidu, imbagħad ifformulaw mill-ġdid.** Jekk ma fehmitx, erġgħu għidu l-istess kliem darba. Jekk dan ma jaħdimx, stennew ftit u ppruvaw bi kliem differenti.
+- **Urup kif ukoll għidu.** Ippuntaw lejn it-tazza, urup iż-żewġ ġersijiet, jew urup l-ewwel pass.
+- **Tkellmu magħha, mhux dwarha.** In-NIA twissi kontra li titkellmu dwar il-persuna bħallikieku mhix preżenti, u kontra “kliem tat-trabi”.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+In-NIA tissuġġerixxi verżjonijiet aktar sempliċi ta’ mistoqsijiet komuni. Dawn huma eżempji fl-istess sens:
 
-| Instead of | Try |
+| Minflok | Ippruvaw |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “X’tixtieq tiekol għall-pranzu?” | “Trid ħut jew tiġieġ?” |
+| “Kif qed tħossok?” | “Qed tħossok għajjien/a?” |
+| “Għandek il-ġuħ?” | “Il-pranzu jkun lest f’ħames minuti.” |
+| “Mhux hekk tagħmilha.” | “Ejja nippruvawha b’dan il-mod.” |
+| “Tiftakar il-vjaġġ tagħna lejn il-lag?” | “Kont qed naħseb fil-vjaġġ tagħna lejn il-lag. Għidli x’ħadt gost bih.” |
+| “Diġà għedtlek.” | Erġa’ wieġeb, bil-kalma, bħallikieku għall-ewwel darba. |
 
-## How do I listen well?
+## Kif nista’ nisma’ tajjeb?
 
-Listen for the meaning and the feeling, not just the words.
+Isimgħu t-tifsira u s-sentiment, mhux biss il-kliem.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Stennew.** Spiss is-skiet ikun ħin ta’ ħsieb. Għoddu bil-mod sa għaxra qabel ma tintervjenu.
+- **Offru kelma biss jekk tkun verament imblukkata.** Il-Family Caregiver Alliance tgħid li huwa tajjeb li tissuġġerixxi kliem meta xi ħadd qed isibha diffiċli.
+- **Iċċekkjaw dak li smajtu.** Il-[gwida tal-Alzheimer’s Association dwar il-komunikazzjoni](https://www.alz.org/help-support/caregiving/daily-care/communications) tissuġġerixxi li tiftakru t-tifsira wara l-kliem u terġgħu tgħiduha biex tiċċekkjaw li fhimtu. “Qed tinkwieta dwar il-karozza?”
+- **Osservaw wiċċha u ġisimha.** Hekk kif il-kliem isir aktar diffiċli, in-NIA tinnota li l-espressjonijiet tal-wiċċ jistgħu juru dwejjaq, rabja jew frustrazzjoni b’mod aktar ċar mill-kliem.
+- **Ħudu t-tħassib bis-serjetà.** Anke jekk tħassib ikun ibbażat fuq fatt mhux eżatt, is-sentiment huwa reali.
 
-## What if they say something that is not true?
+## X’jiġri jekk tgħid xi ħaġa li mhix vera?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Targumentawx. X’aktarx li ma tirbħux l-argument, u l-persuna tista’ tispiċċa tħossha skomda jew imbeżża’. Minflok, irrikonoxxu s-sentiment u mbagħad imxu ’l quddiem bil-mod.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Il-Family Caregiver Alliance tissuġġerixxi li tirrikonoxxu l-emozzjoni qabel ma tbiddlu s-suġġett. Pereżempju, jekk ommok tinsisti li trid tmur tiġbor it-tfal mill-iskola:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Minflok: “Ma, uliedek kbar. Dak kien erbgħin sena ilu.”
+- Ippruvaw: “Dejjem kont omm tant ħanina. Għidli dwar meta kont tmur tiġborhom. Trid nieħdu xi ħaġa ħafifa l-ewwel?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+L-Alzheimer’s Association tagħti wkoll parir li ma targumentawx dwar affarijiet li ma taqblux magħhom. Agħżlu l-mumenti tagħkom: jekk twemmin mhux eżatt ma jagħmilx ħsara, ħalluh jgħaddi.
 
-## How does communication change as dementia progresses?
+## Kif tinbidel il-komunikazzjoni hekk kif id-dimenzja tavvanza?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Il-bżonnijiet jinbidlu maż-żmien, għalhekk aġġustaw l-approċċ tagħkom. L-Alzheimer’s Association tiddeskrivi tliet fażijiet ġenerali:
 
-| Stage | What helps |
+| Stadju | X’jgħin |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Bikri | Taqblux li ma tistax tikkomunika. Involvuha fil-konversazzjonijiet, kellmuha direttament, staqsuha x’tip ta’ appoġġ tixtieq, u użaw l-umoriżmu jekk jgħin. |
+| Nofsani | Konversazzjonijiet wieħed ma’ wieħed f’post kwiet. Tkellmu bil-mod, żommu kuntatt tal-għajnejn, użaw mistoqsijiet b’iva jew le, agħtu struzzjonijiet pass pass, u tikkritikawx jew tikkoreġux. |
+| Avvanzat | Avviċinaw minn quddiem u għidu min intom. Ħeġġuha tipponta u tuża l-ġesti. Użaw il-mess, il-ħsejjes, dak li tara, u r-riħa. Qatt ma titkellmu bħallikieku mhix preżenti. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Kull persuna hija differenti, u l-istess persuna jista’ jkollha ġranet tajbin u oħrajn aktar diffiċli. Wieġbu għal kif tinsab bħalissa, mhux għal tikketta.
 
-## Can pictures and activities make conversation easier?
+## L-istampi u l-attivitajiet jistgħu jagħmlu l-konverżazzjoni aktar faċli?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Iva. Stampa li taraw flimkien tnaqqas il-pressjoni u tagħtikom it-tnejn xi ħaġa li tħarsu lejha u tippuntaw lejha.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Stampi li jiftħu t-taħdit.** [Conversation Cards](/games/conversation-cards/) joffru stampi b’mistoqsijiet miftuħa li qatt ma jittestjaw.
+- **Ritratti tal-familja.** [Photo Pairs](/games/photo-pairs/) jibdel ritratti li tagħżlu f’logħba ta’ tqabbil ġentili, li spiss tqanqal stejjer.
+- **Qwiel familjari.** [Finish the Saying](/games/finish-the-saying/) juża qwiel magħrufa, segwiti minn mistoqsija biex tiftaħ it-taħdit.
+- **Logħob ta’ tqabbil bħala sfond.** [Picture Pairs](/games/picture-pairs/) jagħti lil idejkom xi ħaġa x’tagħmlu waqt li tiċċettjaw.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Ara [kif tilagħbu logħob flimkien](/caregiving/how-to-play-together/) u [attivitajiet ta’ tifkiriet](/activities/reminiscence/) għal aktar ideat. Għal żjarat u telefonati, aqra l-gwidi tagħna dwar [iż-żjarat](/activities/visiting/) u [telefonati u sejħiet bil-vidjo](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Għal persuna li titkellem aktar minn lingwa waħda, ara l-[gwida tagħna dwar il-komunikazzjoni f’lingwi differenti](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## X’jiġri jekk nitlef il-paċenzja?
+
+Jiġri lil kulħadd. In-NIA tissuġġerixxi li jekk tħossok frustrat/a, tieħu ftit ħin biex tikkalma. Mur f’kamra oħra, ħu ftit nifsiet bil-mod, u erġa’ lura meta tkun tista’. Dejjem tista’ terġa’ tibda l-konverżazzjoni, u l-persuna x’aktarx li tirrispondi għall-burdata aktar kalma tiegħek. Jekk il-frustrazzjoni qed issir kostanti, dan huwa sinjal li għandek bżonn aktar appoġġ, mhux li qed tfalli. Il-gwida tagħna dwar [il-kura personali ta’ min jieħu ħsieb](/caregiving/caregiver-self-care/) għandha postijiet fejn tista’ ddur għal għajnuna.
