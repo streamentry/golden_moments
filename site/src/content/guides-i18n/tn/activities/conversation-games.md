@@ -1,7 +1,7 @@
 ---
 title: "Dipapadi tsa Go Botsa le Ditiro tsa Puisano tsa Batho ba ba Nang le Dementia"
 seoTitle: "Dipotso tse Some le Ditiro tsa Puisano ka Dementia"
-description: "Dipotso tse some le ditiro tse dingwe tsa puisano tsa batho ba ba nang le dementia, di tlhophilwe gore motho e nne yo o itseng; ga go na dikgong, nako, kgotsa tlhatlhobo."
+description: "Dipotso tse some le ditiro tsa puisano tsa batho ba ba nang le dementia, motho e le ene yo o itseng; ga go na dikgong, nako kgotsa tlhatlhobo."
 section: activities
 order: 29
 updated: 2026-11-08

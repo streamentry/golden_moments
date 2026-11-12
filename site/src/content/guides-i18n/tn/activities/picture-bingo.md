@@ -1,7 +1,7 @@
 ---
 title: "Bingo ya Ditshwantsho ya Batho ba Bagolo ba ba Nang le Dementia, e e Tlhatlhobang kgotsa e e Mo Sekerineng"
 seoTitle: "Bingo ya Ditshwantsho ya Batho ba ba Nang le Dementia"
-description: "Bingo ya ditshwantsho ya batho ba ba nang le dementia, e e tlhatlhobang kgotsa e e mo sekerineng: ditshwantsho tse dikgolo, mmereki o o bonya, ga go na kgatelelo ya go tlhola."
+description: "Bingo ya ditshwantsho ya batho ba ba nang le dementia, e e tlhatlhobang kgotsa e e mo sekerineng: ditshwantsho tse dikgolo, mmereki o o bonya, ga go na kgatelelo."
 section: activities
 order: 24
 updated: 2026-11-08

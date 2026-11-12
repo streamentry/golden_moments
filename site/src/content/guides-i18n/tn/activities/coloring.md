@@ -1,7 +1,7 @@
 ---
 title: "Ditiro tsa Go Kolora tsa Alzheimer le Dementia"
 seoTitle: "Go Kolora ka Alzheimer le Dementia"
-description: "Go kolora ka motho yo o nang le Alzheimer kgotsa dementia: ditshwantsho tsa batho bagolo, dikrayone tse dikgolo, dipapadi tsa go tlhapa, le dikgato tsa go emisa ka bonolo."
+description: "Go kolora ka motho yo o nang le Alzheimer kgotsa dementia: ditshwantsho tsa batho bagolo, dikrayone tse dikgolo, dipapadi tsa go tlhapa le go emisa ka bonolo."
 section: activities
 order: 25
 updated: 2026-11-08

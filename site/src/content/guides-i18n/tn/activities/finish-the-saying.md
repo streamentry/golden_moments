@@ -1,7 +1,7 @@
 ---
 title: "Dipapadi tsa Go Fedisa Polelo Batho ba Bagolo ba ba Nang le Dementia"
 seoTitle: "Dipapadi tsa Go Fedisa Polelo ba Nang le Dementia"
-description: "Dipapadi tsa go fedisa polelo le maele ba ba nang le dementia: go dira ka dipolelo tse di tlwaelegileng, go fa dikgetho, go se tlhatlhobe le go fetola karabo e e sa siamang."
+description: "Dipapadi tsa go fedisa polelo le maele a batho ba ba nang le dementia: dipolelo tse di tlwaelegileng, dikgetho, go se tlhatlhobe le go fetola karabo."
 section: activities
 order: 23
 updated: 2026-11-08

@@ -1,7 +1,7 @@
 ---
 title: "Dipapadi tsa Inthanete tse di Sa Tlhokeng Go Tsenya Lenaneo, Batho ba ba Nang le Dementia"
 seoTitle: "Dipapadi tsa Mahala tsa Dementia, Ga go Tlhokege Go Tsenya"
-description: "Dipapadi tsa mahala tsa inthanete tsa batho ba ba nang le dementia tse di bulegang mo browser, ntle le app kgotsa akaonto: go tsenya ditshwantsho, go tlhopa, dipuzzle, le go phefo."
+description: "Dipapadi tsa mahala tsa inthanete tsa batho ba ba nang le dementia, tse di bulang mo browser ntle le app kgotsa akaonto: ditshwantsho, go tlhopa, puzzle le go phefo."
 section: activities
 order: 22
 updated: 2026-11-08
