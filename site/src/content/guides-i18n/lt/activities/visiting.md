@@ -1,34 +1,34 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "Lankymas žmogaus su demencija priežiūros skyriuje ar ligoninėje"
+seoTitle: "Lankymas žmogaus su demencija: ką daryti ir ką atsinešti"
+description: "Ką daryti lankant žmogų su demencija priežiūros skyriuje, slaugos namuose ar ligoninėje: ką atsinešti, paprastos veiklos, trumpi apsilankymai ir tinkamas išėjimas."
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  Lankydami žmogų su demencija priežiūros skyriuje ar ligoninėje, viskas turi būti
+  paprasta: atvykę pasakykite savo vardą, atsinešti ką nors pasidalyti, pavyzdžiui,
+  nuotraukų, muzikos ar mėgstamą užkandį, ir kartu atlikite vieną lengvą veiklą.
+  Trumpi, dažni apsilankymai dažnai vyksta geriau nei ilgi ir reti. Suplanuokite
+  ramų, nuoseklų atsisveikinimą, kad išeiti būtų lengviau abiem.
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "Pasveikinkite žmogų vardu ir pasakykite, kas esate, kad jam nereikėtų spręsti patiems: „Labas, mama, čia Sūzana, tavo dukra.“"
+  - "Atsineškite vieną ar du dalykus pasidalyti, pavyzdžiui, nuotraukų albumą, mėgstamą muziką, minkštą pledą ar užkandį, kurį darbuotojai leido."
+  - "Trumpi, dažni apsilankymai dažnai vyksta geriau nei ilgi ir reti. Jūsų buvimas svarbesnis nei tai, ką sakote."
+  - "Ligoninėje duokite darbuotojams vieno puslapio lapelį apie žmogų ir iš karto pasakykite gydytojui apie staigius pokyčius."
+  - "Suplanuokite išėjimą: pasakykite, kiek galite pasilikti, kiekvieną kartą sakykite tą patį atsisveikinimą ir išeikite neužsibuvę."
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "Ką atsinešti lankant žmogų su demencija?"
+    a: "Atsineškite ką nors pasidalyti, o ne tai, dėl ko reikia kalbėti. Gerai tinka mažas nuotraukų albumas, mėgstamų dainų grojaraštis, minkštas pledas, rankų kremas, žurnalas apie seną pomėgį ar darbuotojų patvirtintas užkandis. Priežiūros skyriuje šeimos nuotraukos ir pažįstami daiktai taip pat gali kambarį padaryti jaukesnį, panašesnį į namus."
+  - q: "Kiek laiko pasilikti lankant žmogų su demencija?"
+    a: "Nėra vieno teisingo laiko. Daugelis šeimų pastebi, kad trumpi, dažnesni apsilankymai vyksta geriau nei ilgi ir reti, nes žmogus gali greitai pavargti ir gali neprisiminti, kiek laiko pasilikote. Stebėkite nuovargio ženklus ir išeikite tuomet, kai vizitas dar jaučiasi gerai."
+  - q: "Ką sakyti, kai jie prašo parvežti namo?"
+    a: "Reaguokite į jausmą, o ne į žodžius. „Noriu namo“ dažnai reiškia „man nejauku ar nesaugu“. Pabandykite pasakyti: „Papasakok apie savo namus“, pažiūrėkite kartu nuotraukas arba pasiūlykite pasivaikščiojimą ar užkandį. Ginčas ar aiškinimas, kodėl negalima išeiti, paprastai tik padidina įtampą."
+  - q: "Ką daryti, jei manęs neatpažįsta?"
+    a: "Tai gali skaudėti, bet stenkitės nepataisyti ir neklausti: „Argi nežinai, kas aš?“. Šiltai prisistatykite ir paprasčiausiai mėgaukitės laiku kartu. Daugelis žmonių vis dar mėgsta kompaniją ir jaučia apsilankymo šilumą, net kai nebegali prisiminti, kas esate."
+  - q: "Kaip galiu padėti ligoninėje?"
+    a: "Būkite su žmogumi, kai galite, padėkite jam valgyti ir gerti, atsineškite pažįstamų daiktų, pavyzdžiui, nuotraukų. Duokite darbuotojams lapelį su jo įprasta tvarka, pageidaujamu vardu, mėgstamais ir nemėgstamais dalykais bei skausmo ženklais. Iš karto pasakykite gydytojui, jei žmogus staiga atrodo blogiau ar kitaip, nes staigus sumišimas gali signalizuoti apie sveikatos problemą."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +53,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+Lankyti mylimą žmogų priežiūros skyriuje, slaugos namuose ar ligoninėje gali sukelti daug jausmų. Galite svarstyti, ką sakyti, ką atsinešti ar ar apsilankymas vis dar svarbus, jei žmogus jo neprisimins. Jis svarbus. Nacionalinis senėjimo institutas (National Institute on Aging) pažymi, kad žmonės su Alzheimerio liga [dažnai mėgaujasi kompanija](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) net tada, kai neprisimena, kas jiems atvyko. Šiame puslapyje pateikiami praktiniai žingsniai prieš apsilankymą, jo metu ir po jo, taip pat konkretūs patarimai dėl ligoninės.
 
-## How do I get ready for a visit?
+## Kaip pasiruošti apsilankymui?
 
-A little planning makes the visit easier for both of you.
+Šiek tiek planavimo padaro vizitą lengvesnį abiem.
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **Pasirinkite gerą laiką.** Dementia Australia pataria lankytis tuo metu, kai žmogus paprastai labiausiai budrus, o daugeliui tai yra rytas ar apie vidurdienį. Family Caregiver Alliance pataria susipažinti su įstaigos tvarkaraščiu ir lankytis per [laisvalaikį, o ne per užsiėmimų laiką](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
+- **Pasitarkite su darbuotojais.** Paklauskite, kaip žmogus jaučiasi šiandien, ir patikrinkite taisykles dėl maisto, augintinių ar išvykų.
+- **Susikraukite mažą krepšį.** Pakanka vieno ar dviejų dalykų pasidalyti (žr. sąrašą žemiau).
+- **Suplanuokite kelias temas.** Žmogus gali neturėti naujienų, todėl atsineškite savo: šeimos naujienas, orą, sporto rungtynes, juokingą istoriją.
+- **Nusistatykite savo lūkesčius.** Kai kurie apsilankymai bus šilti ir pilni pokalbių. Kiti bus tylūs ar sunkūs. Abu variantai yra normalūs.
 
-## What should I bring?
+## Ką atsinešti?
 
-Bring things to share, not things that test. Good choices include:
+Atsineškite dalykų pasidalyti, o ne tokių, kurie tikrina. Tinkami pasirinkimai:
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **Mažas nuotraukų albumas** su didelėmis, aiškiomis nuotraukomis. Ant nugarėlės užrašykite, kas jose, darbuotojams.
+- **Grojaraštis** su mėgstamomis dainomis telefone, su paprastomis ausinėmis ar mažu garsiakalbiu.
+- **Kažkas minkšto laikyti,** pavyzdžiui, pažįstamas pledas, šalikas ar megztinis.
+- **Rankų kremas** švelniam rankų masažui, jei žmogus mėgsta prisilietimus.
+- **Žurnalas ar paveikslėlių knyga** apie seną pomėgį, pavyzdžiui, sodininkystę, automobilius, paukščius ar kulinariją.
+- **Mėgstamas užkandis**, jei darbuotojai sako, kad jis saugus.
+- **Pažįstami daiktai kambariui.** Family Caregiver Alliance pataria gėles, augalus, šeimos nuotraukas ir meno kūrinius ar didelį plakatą su šeimos nuotraukomis iš praeities.
+- **Planšetė** šeimos nuotraukoms pažiūrėti ar lengvam žaidimui kartu.
 
-## What can we do together during a visit?
+## Ką galime veikti kartu per apsilankymą?
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+Bendra veikla palengvina pokalbį. Dementia Australia pataria žiūrėti nuotraukas, atlikti paprastą rankdarbį, sodinti daigus, klausytis muzikos, dalytis užkandžiu ar pasivaikščioti po teritoriją. Dar keletas idėjų:
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **Žiūrėkite nuotraukas.** Parodykite, ką matote: „Pažiūrėk į tą skrybėlę.“ „Šis paplūdimys atrodo gražiai.“ Leiskite žmogui vadovauti. Venkite klausimo „Kas čia?“.
+2. **Klausykite muzikos ir dainuokite.** Pažįstamos dainos gali pakelti nuotaiką ir sukurti bendrą akimirką, net kai kalbėti sunku.
+3. **Trumpai pasivaikščiokite.** Family Caregiver Alliance pataria pasivaikščioti po įstaigą, ypač sode, jei jis yra. Pasivažinėjimas vežimėlyje taip pat skaičiuojasi.
+4. **Padarykite rankų masažą.** Šiek tiek kremo ir lėti glostymai ant rankų gali nuraminti.
+5. **Padėkite prižiūrėti išvaizdą.** Dementia Australia mini plaukų šukavimą, nagų dažymą ar padėjimą apsivilkti mėgstamus drabužius, jei žmogus to mėgsta.
+6. **Žaiskite paprastą žaidimą.** Family Caregiver Alliance pataria kortas, domino ar tai, ką žmogus anksčiau žaidė. Planšetėje [Paveikslėlių poros](/games/picture-pairs/) žaidžiamos su matomais paveikslėliais be laikmačio. [Nuotraukų poros](/games/photo-pairs/) paverčia jūsų pasirinktas nuotraukas atitikimo žaidimu, o nuotraukos lieka jūsų naršyklėje.
+7. **Žiūrėkite ką nors kartu.** Family Caregiver Alliance pataria komedijas ir senus filmus. Net jei žmogus nesugeba sekti siužeto, galite sėdėti šalia ir dalytis laiku.
+8. **Skaitykite balsu.** Trumpą eilėraštį, mėgstamą ištrauką ar laišką nuo šeimos nario.
+9. **Tiesiog sėdėkite kartu.** Laikyti rankas ar tyliai sėdėti taip pat yra tikras apsilankymas. Alzheimer's Association pažymi, kad gerai nežinoti, ką pasakyti, o jūsų buvimas svarbiausias.
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+[Pokalbių kortos](/games/conversation-cards/) gali padėti, kai nebežinote, ką sakyti. Kiekviena kortelė turi paveikslėlį ir atvirą klausimą.
 
-## How should I talk during the visit?
+## Kaip kalbėtis per apsilankymą?
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **Kiekvieną kartą prisistatykite.** „Labas, tėti, čia Markas, tavo sūnus.“ NIA pataria lankytojams trumpai prisistatyti, kad pradėtų pokalbį.
+- **Artėkite iš priekio** ir sėskitės akių lygyje.
+- **Netaisykite ir neginčykitės.** NIA pataria lankytojams nekoriguoti žmogaus, jei jis suklysta ar ko nors nepamena.
+- **Būkite kantrūs,** kai žodžiai sunkiai ateina. Duokite pakankamai laiko.
+- **Reaguokite į jausmus.** Jei žmogus atrodo liūdnas ar nerimaujantis, pripažinkite tai prieš keisdami temą.
+- **Venkite testo klausimų,** tokių kaip „Ar prisimeni mane?“ ar „Ką valgei pietums?“.
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+Daugiau patarimų rasite mūsų [bendravimo patarimuose](/caregiving/communication-tips/).
 
-## What do I do when they say "I want to go home"?
+## Ką daryti, kai sako „noriu namo“?
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+Reaguokite į jausmą, slypintį už žodžių (mūsų vadove apie [kai žmogus nuolat klausia, ar gali eiti namo](/caregiving/asking-to-go-home/) yra daugiau). Family Caregiver Alliance paaiškina, kad „noriu namo“ dažniausiai reiškia „man nejauku“, ir pataria tokius atsakymus kaip „Papasakok apie savo namus“ ar „Kas tavo mėgstamiausia daiktas namuose?“. Dementia Australia priduria, kad „namai“ gali reikšti laiką ar vietą, kur žmogus jautėsi saugus, pavyzdžiui, vaikystę.
 
-Try:
+Pabandykite:
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- pripažinti jausmą: „Atrodo, kad ilgiesi namų.“
+- suteikti paguodą prisilietimu, jei jis priimtinas
+- žiūrėti nuotraukas ar kalbėti apie šeimos namus
+- pasiūlyti pasivaikščiojimą, gėrimą ar užkandį
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+Venkite ginčytis ar aiškinti, kodėl negalima išeiti. Tai retai padeda ir dažnai padidina įtampą.
 
-## How long should a visit be?
+## Kiek turėtų trukti apsilankymas?
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+Trumpesni ir dažnesni dažnai veikia geriau. Family Caregiver Alliance pažymi, kad žmogus paprastai neprisimena, ar pasilikote penkias minutes, ar penkias valandas, ir pataria, kad trys trumpi apsilankymai per savaitę gali būti geresni nei vienas ilgas. Dementia Australia sako, kad nėra vieno teisingo apsilankymų skaičiaus ar trukmės.
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+Pirmosiomis savaitėmis po persikėlimo į priežiūros skyrių Family Caregiver Alliance pataria lankytis dažnai, o vėliau palaipsniui įsitvirtinti įprastame ritme. Paklauskite darbuotojų, ką jie mato.
 
-## How do I leave without upsetting them?
+## Kaip išeiti neerzinant?
 
-Leaving can be the hardest part. Dementia Australia suggests:
+Išėjimas gali būti sunkiausia dalis. Dementia Australia pataria:
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **Pasakykite, kiek galite pasilikti, atvykę.** „Galiu pasilikti valandą, tada eisiu į parduotuvę.“
+- **Panaudokite veiklą kaip natūralią pabaigą.** „Kai baigsime šią dainą, išeisiu.“
+- **Suderinkite su valgiu ar veikla** arba paprašykite darbuotojų padėti žmogui įsitraukti į ką nors kita.
+- **Atsisveikinkite trumpai ir kiekvieną kartą vienodai.** Užsibuvimas, atsiprašinėjimas ar „dar truputį“ gali padaryti būsimus atsisveikinimus sunkesnius.
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+Išėjus natūralu jaustis liūdnam. Leiskite sau pailsėti. Jei žmogus supyko, darbuotojai paprastai gali padėti jam nusiraminti netrukus po to.
 
-## Visiting someone with dementia in the hospital
+## Lankymas žmogaus su demencija ligoninėje
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+Ligoninė triukšminga, nepažįstama ir pilna nepažįstamų žmonių, o tai gali būti labai sunku žmogui, gyvenančiam su demencija. NIA vadove, kaip [nuvežti žmogų su Alzheimerio liga į ligoninę](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), rekomenduojama:
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **Kad su žmogumi būtų kas nors nuolat,** kiek įmanoma: šeimos narys, patikimas draugas ar samdomas slaugytojas.
+- **Duokite darbuotojams asmeninės informacijos lapelį** su žmogaus įpročiais, pageidaujamu vardu, mėgstamais ir nemėgstamais dalykais, galimais dirgikliais ir neverbaliniais skausmo ženklais. Padėkite kopijas kambaryje ir slaugytojų poste.
+- **Padėkite valgyti ir gerti.** Vyresnio amžiaus žmonės ligoninėje gali pradėti trūkti maisto medžiagų. Atidarykite indus, padėkite per valgį, valgykite kartu ir siūlykite gėrimų.
+- **Atsineškite ramybę teikiančių daiktų,** pavyzdžiui, nuotraukų ar dvasinių daiktų.
+- **Sumažinkite triukšmą.** Išjunkite televizorių ir sumažinkite telefonų bei domofono garsą.
+- **Bandykite raminančius ritualus,** pavyzdžiui, ramią muziką, skaitymą, maldą, dainavimą ar senų nuotraukų žiūrėjimą.
+- **Skatinkite judėti** kiek saugu, su darbuotojų pritarimu.
+- **Iš karto pasakykite gydytojui, jei žmogus atrodo staiga blogiau ar kitaip.** NIA paaiškina, kad staigų stiprų sumišimą, vadinamą deliriumu, gali sukelti tokios problemos kaip infekcija, karščiavimas, dehidratacija ar vaistų šalutinis poveikis, ir jam reikalingas medicininis dėmesys.
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+Trumpas, ramus apsilankymas su pažįstamu veidu ir mėgstama daina gali būti guodžiausia ligoninės dienos dalis.
 
-## Bringing children on a visit
+## Vedami vaikai
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+Vaikai gali atnešti daug šilumos. Iš anksto paruoškite juos paprastais, nuoširdžiais žodžiais, laikykite vizitą trumpą ir duokite jiems vaidmenį, pavyzdžiui, parodyti piešinį ar įteikti nuotrauką. NIA pataria, kad vaikai ir žmonės su Alzheimerio liga gali kartu mėgautis paprasta veikla, pavyzdžiui, žiūrint nuotraukų albumą ar klausantis muzikos. Dementia Australia pataria pasiimti mažą maisto ar tylių daiktų krepšelį, kad mažieji būtų užsiėmę.
 
-## Take care of yourself too
+## Pasirūpinkite ir savimi
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Lankymas gali būti varginantis ir emocingas, ypač jei žmogus labai pasikeitė. Gerai lankytis rečiau, jei reikia, atsivesti draugą paramai ar išeiti anksčiau sunkią dieną. Patarimų, kaip rūpintis savimi, rasite [globėjo savipagalbos](/caregiving/caregiver-self-care/) puslapyje. Jei gyvenate toli, žiūrėkite mūsų vadovą apie [telefono ir vaizdo skambučius](/activities/phone-and-video-calls/).
