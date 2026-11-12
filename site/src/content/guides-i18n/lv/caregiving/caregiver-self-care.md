@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Aprūpētāja pašaprūpe: atelpa, atbalsts un izdegšanas pazīmes"
+seoTitle: "Demences aprūpētāja pašaprūpe: atelpa un atbalsts"
+description: "Aprūpētāja izdegšanas pazīmes, kā atrast atelpu un atbalsta grupas, un bezmaksas ASV palīdzības līnijas, tostarp Alcheimera asociācijas 24/7 līnija."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Rūpes par cilvēku ar demenci ir grūtas, un rūpes par sevi ir daļa no šī darba. Pievērsiet uzmanību brīdinājuma pazīmēm, piemēram, izsīkumam, aizkaitināmībai, sliktam miegam un atkāpšanās no draugiem. Lūdziet konkrētu palīdzību, izmantojiet atelpas aprūpi un pievienojieties atbalsta grupai. Bezmaksas palīdzība ASV ietver Alcheimera asociācijas 24/7 palīdzības līniju pa tālruni 1-800-272-3900 un Eldercare Locator pa tālruni 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Izdegšana bieži parādās kā izsīkums, aizkaitināmība, slikts miegs, skumjas un jūsu pašu veselības aprūpes atlikšana."
+  - "Atelpas aprūpe dod jums atpūtu no dažām stundām līdz vairākām nedēļām, mājās vai aprūpes iestādē."
+  - "Lūdziet palīdzību konkrētos uzdevumos; daudzi cilvēki vēlas palīdzēt, bet nezina, kā."
+  - "Alcheimera asociācijas 24/7 palīdzības līnija (1-800-272-3900) piedāvā bezmaksas, konfidenciālu atbalstu jebkurā laikā."
+  - "Eldercare Locator (1-800-677-1116) savieno ar vietējiem pakalpojumiem, tostarp ar jūsu reģiona Vecāka gadagājuma aģentūru (Area Agency on Aging)."
+  - "Ja jūtaties krīzē, zvaniet vai rakstiet īsziņu uz 988. Ja ir ārkārtas situācija, zvaniet vietējos neatliekamās palīdzības dienestos."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Kādas ir aprūpētāja izdegšanas pazīmes?"
+    a: "Biežākās pazīmes ir izsīkums, pārslodze vai trauksme, viegla dusmošanās vai nepacietība, miega problēmas, skumjas vai bezcerība, atkāpšanās no draugiem, bieži galvassāpes vai sāpes un izlaisti savi ēdieni, vingrošana vai medicīniskā aprūpe. Ja šādas pazīmes parādās regulāri, runājiet ar savu ārstu."
+  - q: "Kā atrast atelpas aprūpi tuvumā?"
+    a: "Sāciet ar Eldercare Locator (1-800-677-1116 vai eldercare.acl.gov), lai sazinātos ar savu vietējo Vecāka gadagājuma aģentūru, ARCH National Respite Locator Service vai Alcheimera asociācijas palīdzības līniju pa tālruni 1-800-272-3900. Atelpu var sniegt arī ģimene, draugi un brīvprātīgie."
+  - q: "Vai Medicare sedz atelpas aprūpi?"
+    a: "Cilvēkam, kas saņem hospisa aprūpi, Medicare, saskaņā ar Nacionālo novecošanās institūtu, sedz lielāko daļu izmaksu par līdz pieciem secīgiem atelpas aprūpes dienām slimnīcā vai kvalificētā aprūpes iestādē. Lielākā daļa privātu veselības apdrošināšanas polišu neatlīdzina atelpu; Medicaid un dažas ilgtermiņa aprūpes apdrošināšanas programmas var palīdzēt."
+  - q: "Vai Alcheimera asociācijas palīdzības līnija tiešām ir bezmaksas un pieejama naktīs?"
+    a: "Jā. Alcheimera asociācija saka, ka tās palīdzības līnija pa tālruni 1-800-272-3900 ir bezmaksas, konfidenciāla un strādā visu diennakti, 365 dienas gadā, un palīdzība ir pieejama daudzās valodās. Lai izmantotu releju pakalpojumu, zvaniet 711."
+  - q: "Vai ir egoistiski atpūsties no aprūpes?"
+    a: "Nē. Atpūta palīdz turpināt rūpēties, un atelpa var dot cilvēkam, par kuru rūpējaties, arī maiņu sabiedrībā un aktivitātē. Daudzi aprūpētāji vēlāk saka, ka vēlējās palūgt palīdzību agrāk."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ja rūpējaties par cilvēku, kas dzīvo ar demenci, jūs, visticamāk, lasāt šo vēlu, noguris un ar sarakstu ar lietām, ko neesat paspējis izdarīt. Tas ir normāli. Rūpes par sevi nav greznums vai balva par visu pabeigšanu. Tās ir tas, kas ļauj turpināt.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Šajā lapā aplūkotas izdegšanas brīdinājuma pazīmes, kā iegūt patiesu atpūtu, kur atrast atbalstu un ASV bezmaksas palīdzības līnijas, kur var zvanīt jau šodien.
 
-## What are the signs of caregiver burnout?
+## Kādas ir aprūpētāja izdegšanas pazīmes?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Izdegšana bieži ielavās lēni, tāpēc palīdz zināt savas brīdinājuma pazīmes. [Nacionālais novecošanās institūts (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) uzskaita aprūpes stresa pazīmes, tostarp:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- izsīkumu, pārslodzi vai trauksmi;
+- viegli dusmoties vai kļūt nepacietīgam;
+- vientulību vai atsvešinātību no citiem;
+- miega problēmas vai nepietiekamu miegu;
+- skumjas vai bezcerību vai interešu zudumu par lietām, kas agrāk patika;
+- bieži galvassāpes, sāpes vai citas fiziskas problēmas;
+- nav laika vingrot vai gatavot veselīgu ēdienu sev;
+- izlaistu higiēnu vai citu personīgo aprūpi;
+- alkohola vai narkotiku, arī recepšu zāļu, nepareizu lietošanu.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alcheimera asociācija](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) pievieno tādas pazīmes kā noliegums par slimību, dusmas uz cilvēku ("viņš vienkārši ir stūrgalvīgs"), trauksme par nākotni, grūtības koncentrēties un veselības problēmas, kas ņem savu. Tā iesaka runāt ar ārstu, ja šādas pazīmes parādās regulāri.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA padoms ir negaidīt, līdz esat pilnīgi pārslogots. Pamanāt savas pazīmes agri un rīkojieties.
 
-## What can I do today, in five minutes?
+## Ko varu izdarīt šodien, piecās minūtēs?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Īsas pauzes skaitās. Neviena no tām neizārstē izdegšanu, taču tās var palīdzēt izturēt grūtu pēcpusdienu.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Izejiet ārā.** Apsēdieties uz verandas vai aizejiet līdz pastkastītei, kamēr cilvēks ir drošībā un mierīgs.
+- **Elpojiet lēni.** Dažas lēnas elpas, pirms atbildat uz grūtu jautājumu. Jūs varat arī kopā ar cilvēku, par kuru rūpējaties, izmantot [Mierīgās elpošanas](/games/calm-breathing/) pauzi.
+- **Padzeriet ūdeni un ēdiet kaut ko.** Ir viegli aizmirst savas maltītes.
+- **Uzrakstiet vienam draugam.** Nevis lūgt kaut ko, bet vienkārši sazināties.
+- **Sakiet sev kaut ko laipnu.** NIA [ceļvedis par sevis aprūpēšanu](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) iesaka tādas frāzes kā "Es daru, ko varu," "Es neesmu ideāls, un tas ir labi" un "Es baudīšu brīžus, kad varam būt kopā mierā."
 
-## What is respite care, and how do I get it?
+## Kas ir atelpas aprūpe un kā to saņemt?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Atelpas aprūpe ir īslaicīga aprūpe cilvēkam, par kuru rūpējaties, lai jūs varētu atpūsties. NIA [lapa par atelpas aprūpi](https://www.nia.nih.gov/health/caregiving/what-respite-care) paskaidro, ka tā var ilgt no dažām stundām līdz vairākām nedēļām un var notikt mājās, veselības aprūpes iestādē vai pieaugušo dienas aprūpes centrā.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alcheimera asociācija](https://www.alz.org/help-support/caregiving/care-options/respite-care) apraksta biežākos veidus:
 
-| Type | What it is |
+| Veids | Kas tas ir |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Palīdzība mājās | Draugs, radinieks, brīvprātīgais vai algots pavadonis vai palīgs ierodas mājās |
+| Pieaugušo dienas centrs | Plānotas aktivitātes, piemēram, mūzika un māksla drošā grupas vidē; bieži piedāvā transportu un maltītes |
+| Nakts vai īsa uzturēšanās | Ilgtermiņa aprūpes kopiena rūpējas par cilvēku vienu nakti, dažas dienas vai dažas nedēļas |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kas maksā?** Saskaņā ar NIA atelpa no ģimenes, draugiem vai brīvprātīgajiem var nemaksāt neko. Profesionāli pakalpojumi tiek apmaksāti pēc stundām vai dienām. Cilvēkam, kas saņem hospisa aprūpi, Medicare sedz lielāko daļu izmaksu par līdz pieciem secīgiem atelpas aprūpes dienām slimnīcā vai kvalificētā aprūpes iestādē. Medicaid var palīdzēt. Lielākā daļa privātās veselības apdrošināšanas neatlīdzina atelpu, lai gan dažas ilgtermiņa aprūpes apdrošināšanas programmas to dara.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Padoms:** Alcheimera asociācija iesaka izmēģināt atelpas pakalpojumu sniedzējus situācijā, kas nav ārkārtas, lai viņi būtu gatavi, ja pēkšņi būs vajadzīga palīdzība.
 
-## Where can I find help near me?
+## Kur atrast palīdzību tuvumā?
 
-Several free US services can point you to local help.
+Vairāki bezmaksas ASV pakalpojumi var norādīt uz vietēju palīdzību.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alcheimera asociācijas 24/7 palīdzības līnija: 1-800-272-3900.** [Palīdzības līnija](https://www.alz.org/help-support/resources/helpline) ir bezmaksas un konfidenciāla, strādā visu diennakti katru gadu, un palīdzība ir pieejama vairāk nekā 200 valodās ar divvalodīgiem darbiniekiem vai tulkiem. Lai izmantotu releju pakalpojumu, zvaniet 711. Jūs varat pārrunāt uzvedības izmaiņas, aprūpētāja stresu, atelpas iespējas, vietējās programmas un citas tēmas, un lūgt ilgāku sarunu ar aprūpes konsultantu. Darbinieki nesniedz medicīnisku padomu.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), Kopienas dzīves administrācijas sabiedrisks pakalpojums, savieno jūs ar pakalpojumiem vecāka gadagājuma cilvēkiem un viņu ģimenēm. Jūs varat zvanīt, rakstīt īsziņu, tērzēt tiešsaistē vai sūtīt e-pastu apmācītiem darbiniekiem vai meklēt pēc vietas. Tas var norādīt uz jūsu vietējo Vecāka gadagājuma aģentūru (Area Agency on Aging).
+- **ARCH National Respite Locator Service.** [ARCH atelpas meklētājs](https://archrespite.org/caregiver-resources/respitelocator/) palīdz atrast atelpas pakalpojumu sniedzējus pēc štata, un iesaka vispirms sazināties ar jūsu štata Atelpas koalīciju (State Respite Coalition) vai Lifespan Respite programmu, ja jūsu štatā tāda ir. ARCH norāda, ka tas nepārbauda pakalpojumu sniedzējus, tāpēc pārskatiet viņu pieredzi un pagātni paši.
 
-## How do I find a support group?
+## Kā atrast atbalsta grupu?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Pajautājiet palīdzības līnijā vai meklējiet tiešsaistē grupas tuvumā. Alcheimera asociācija [vada atbalsta grupas](https://www.alz.org/help-support/community/support-groups) aprūpētājiem un cilvēkiem, kas dzīvo ar demenci, klātienē un tiešsaistē, ko vada apmācīti moderatori. Daudzās vietās ir arī specializētas grupas, piemēram, pieaugušiem aprūpētājiem vai cilvēkiem ar agrīnu sākumu vai agrīnu Alcheimera slimības stadiju. Tā arī uztur ALZConnected, bezmaksas tiešsaistes kopienu, kur aprūpētāji dalās ar padomiem.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Atbalsta grupas var būt vieta, kur izrunāties bez vērtējuma, uzzināt praktiskus padomus no cilvēkiem, kas ir tajā pašā situācijā, un justies mazāk vienatnē. Ja pirmā grupa neder, izmēģiniet citu.
 
-## How do I ask family and friends for help?
+## Kā lūgt ģimeni un draugus palīdzēt?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Esiet konkrēts. Daudzi cilvēki vēlas palīdzēt, bet nezina, ko piedāvāt. NIA iesaka:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Turiet sarakstu** ar uzdevumiem, ko citi varētu uzņemties, un ļaujiet cilvēkiem izvēlēties.
+- **Sāciet ar nelielu**, ja lūgt ir grūti.
+- **Saskaņojiet uzdevumu ar cilvēku.** Brālēns, kam patīk gatavot, atnes vakariņas ceturtdienās. Kaimiņš, kas labi prot ar dokumentiem, palīdz ar papīriem.
+- **Rakstiet īsziņu vai e-pastu**, ja lūgt klātienē ir neērti.
+- **Iepriekš izdomājiet atbildi**, kad kāds piedāvā palīdzību: "Paldies, ka jautājāt. Lūk, ko jūs varat darīt."
+- **Sagaidiet dažus noraidījumus** un centieties tos neuztvert personiski.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Citas idejas: lūdziet kādu pavadīt cilvēku vienu pēcpusdienu nedēļā, aizvest viņu īsā izbraukumā vai apciemot un kopā spēlēt spēli. Mūsu [ceļvedis par kopīgu spēlēšanu](/caregiving/how-to-play-together/) ir viegli nodot apmeklētājiem.
 
-## What if something happened to me?
+## Ko darīt, ja kaut kas notiktu ar mani?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Sagatavojiet vienkāršu rezerves plānu jau tagad. NIA iesaka vienoties ar ģimeni vai tuviem draugiem, kas iesaistīsies, un turēt piezīmju grāmatiņu ar ārkārtas numuriem, zālēm, uzvedības padomiem, kas darbojas, un iecienītākajām aktivitātēm. Alcheimera asociācija arī iesaka viegli atrodamus cilvēka medicīniskos kontaktus un aktuālu zāļu sarakstu.
 
-## When should I get professional or urgent help?
+## Kad man meklēt profesionālu vai steidzamu palīdzību?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Runājiet ar savu ārstu, ja stresa pazīmes ir regulāras, ja jūtaties nomākts vai ja jums ir grūtības tikt galā. Pastāstiet ārstam, ka esat aprūpētājs. NIA norāda, ka konsultanti un sociālie darbinieki var palīdzēt ar grūtām sajūtām un plānošanu, un ka Medicare, Medicaid un dažas privātās apdrošināšanas programmas var segt dažas garīgās veselības izmaksas.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Ja jūtaties krīzē vai domājat par sevis kaitēšanu, zvaniet vai rakstiet īsziņu uz 988, lai sazinātos ar [988 Suicide & Crisis Lifeline](https://988lifeline.org/), kas ir bezmaksas un pieejama visu diennakti. Ja kādam ir tūlītējas briesmas, zvaniet vietējos neatliekamās palīdzības dienestos.
 
-## Can shared activities give me a break too?
+## Vai kopīgas aktivitātes var dot atpūtu arī man?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Dažreiz. Mierīga aktivitāte, kas patīk jums abiem, var būt maigāka dienas daļa gan jums, gan cilvēkam, par kuru rūpējaties: vecu dziesmu klausīšanās, fotogrāfiju skatīšana vai spēle, piemēram, [Sarunu kartītes](/games/conversation-cards/), kurai nav pareizu atbilžu. Ja cilvēks labprāt ir kompānijā, grupas nodarbība ar [Attēlu bingo](/games/picture-bingo/) vecāku cilvēku centrā vai pieaugušo dienas programmā var dot jums stundu atpūtas. Skatiet [aktivitātes aprūpes iestāžu grupām](/activities/care-home-groups/) idejām.

@@ -1,36 +1,31 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Egenomsorg for pårørende: avlastning, støtte og tegn på utbrenthet"
+seoTitle: "Egenomsorg for pårørende ved demens: avlastning og støtte"
+description: "Tegn på utbrenthet hos pårørende, hvordan du finner avlastning og støttegrupper, og gratis hjelpelinjer i USA, inkludert Alzheimer's Associations døgnlinje og Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Det er krevende å ta vare på noen med demens, og å ta vare på seg selv er en del av jobben. Se etter varselsignaler som utmattelse, irritasjon, dårlig søvn og at du trekker deg fra venner. Be om konkret hjelp, bruk avlastning, og bli med i en støttegruppe. Gratis hjelp i USA inkluderer Alzheimer's Associations døgnlinje på 1-800-272-3900 og Eldercare Locator på 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Utbrenthet viser seg ofte som utmattelse, irritasjon, dårlig søvn, tristhet og at du ikke tar vare på din egen helse."
+  - "Avlastning gir deg en pause, fra noen timer til flere uker, hjemme eller på en omsorgsinstitusjon."
+  - "Be om hjelp til konkrete oppgaver. Mange vil gjerne hjelpe, men vet ikke hva de kan gjøre."
+  - "Alzheimer's Associations døgnlinje (1-800-272-3900) tilbyr gratis, konfidentiell støtte når som helst."
+  - "Eldercare Locator (1-800-677-1116) kobler deg til lokale tjenester, inkludert ditt lokale eldrekontor (Area Agency on Aging)."
+  - "Hvis du føler deg i krise, ring eller send tekstmelding til 988. I en nødsituasjon, ring lokalt nødnummer."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Hva er tegnene på utbrenthet hos pårørende?"
+    a: "Vanlige tegn er å føle seg utmattet, overveldet eller engstelig, å bli lett sint eller utålmodig, søvnproblemer, å føle seg trist eller håpløs, å trekke seg fra venner, hyppig hodepine eller smerte, og å hoppe over egne måltider, trening eller medisinsk behandling. Hvis slike tegn kommer regelmessig, snakk med legen din."
+  - q: "Hvordan finner jeg avlastning i nærheten?"
+    a: "Start med Eldercare Locator (1-800-677-1116 eller eldercare.acl.gov) for å nå ditt lokale eldrekontor (Area Agency on Aging), ARCH National Respite Locator Service, eller Alzheimer's Associations hjelpelinje på 1-800-272-3900. Familie, venner og frivillige kan også gi avlastning."
+  - q: "Dekker Medicare avlastning?"
+    a: "For en person som får hospiceomsorg, dekker Medicare ifølge det amerikanske instituttet for aldring (NIA) det meste av kostnaden for opptil fem sammenhengende dager med avlastning på sykehus eller i et kvalifisert sykehjem. De fleste private helseforsikringer dekker ikke avlastning. Medicaid og noen langtidsomsorgsforsikringer kan hjelpe."
+  - q: "Er Alzheimer's Associations hjelpelinje virkelig gratis og tilgjengelig om natten?"
+    a: "Ja. Alzheimer's Association sier at hjelpelinjen på 1-800-272-3900 er gratis, konfidensiell og bemannet døgnet rundt, 365 dager i året, med hjelp på mange språk. Ring 711 for en relétjeneste."
+  - q: "Er det egoistisk å ta en pause fra omsorgen?"
+    a: "Nei. Hvile hjelper deg til å fortsette å ta vare på andre, og avlastning kan også gi personen du passer på et skifte i selskap og aktivitet. Mange pårørende sier senere at de skulle ønske de hadde bedt om hjelp tidligere."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +62,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Hvis du tar vare på noen som lever med demens, leser du sannsynligvis dette sent, trøtt, og med en liste over ting du ikke har fått gjort. Det er normalt. Å ta vare på deg selv er ikke en luksus eller en belønning for å ha fullført alt. Det er det som lar deg fortsette.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Denne siden tar for seg varselsignalene på utbrenthet, hvordan du får en reell pause, hvor du finner støtte, og gratis hjelpelinjer i USA du kan ringe i dag.
 
-## What are the signs of caregiver burnout?
+## Hva er tegnene på utbrenthet hos pårørende?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Utbrenthet snegler seg ofte inn sakte, så det hjelper å kjenne dine egne varselsignaler. [Det amerikanske instituttet for aldring (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lister opp tegn på belastning hos pårørende, blant annet:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- å føle seg utmattet, overveldet eller engstelig;
+- å bli lett sint eller utålmodig;
+- å føle seg ensom eller frakoblet andre;
+- søvnproblemer, eller at du ikke sover nok;
+- å føle deg trist eller håpløs, eller å miste interessen for ting du pleide å like;
+- hyppig hodepine, smerte eller andre fysiske plager;
+- ingen tid til å trene eller lage sunn mat til deg selv;
+- at du hopper over dusj eller annen personlig stell;
+- misbruk av alkohol eller narkotika, inkludert reseptbelagte medisiner.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) legger til tegn som benektelse av sykdommen, sinne mot personen («han er bare sta»), engstelse for fremtiden, konsentrasjonsproblemer og helseplager som tar på. Den råder deg til å snakke med legen hvis du har slike tegn regelmessig.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA sitt råd er å ikke vente til du er helt overveldet. Legg merke til tegnene tidlig, og gjør noe med dem.
 
-## What can I do today, in five minutes?
+## Hva kan jeg gjøre i dag, på fem minutter?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Små pauser teller. Ingen av disse fikser utbrenthet, men de kan få deg gjennom en vanskelig ettermiddag.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Gå ut.** Sitt på verandaen eller gå til postkassen mens personen er trygg og rolig.
+- **Pust rolig.** Noen rolige pust før du svarer på et vanskelig spørsmål. Du kan også dele en [rolig pust](/games/calm-breathing/)-pause med personen du passer på.
+- **Drikk litt vann og spis noe.** Det er lett å glemme egne måltider.
+- **Send en melding til en venn.** Ikke for å be om noe, bare for å holde kontakten.
+- **Si noe snilt til deg selv.** NIAs [veiledning om å ta vare på deg selv](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) foreslår setninger som «Jeg gjør så godt jeg kan», «Jeg er ikke perfekt, og det er greit» og «Jeg vil nyte øyeblikkene når vi kan være sammen i ro».
 
-## What is respite care, and how do I get it?
+## Hva er avlastning, og hvordan får jeg det?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Avlastning er kortvarig omsorg for personen du tar vare på, slik at du kan hvile. NIAs [side om avlastning](https://www.nia.nih.gov/health/caregiving/what-respite-care) forklarer at den kan vare fra noen timer til flere uker, og at den kan skje hjemme, i en helseinstitusjon eller på et dagsenter for voksne.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) beskriver vanlige typer:
 
-| Type | What it is |
+| Type | Hva det er |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Hjemmehjelp | En venn, slektning, frivillig eller betalt følgesvenn eller assistent kommer hjem til deg |
+| Dagsenter for voksne | Planlagte aktiviteter som musikk og kunst i en trygg gruppe; transport og måltider tilbys ofte |
+| Overnatting eller kortopphold | Et langtidsomsorgstilbud tar seg av personen i en natt, noen dager eller noen uker |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Hvem betaler?** Ifølge NIA kan avlastning fra familie, venner eller frivillige koste ingenting. Profesjonelle tjenester tar betalt per time eller dag. For en person som får hospiceomsorg, dekker Medicare det meste av kostnaden for opptil fem sammenhengende dager med avlastning på sykehus eller i et kvalifisert sykehjem. Medicaid kan hjelpe. De fleste private helseforsikringer dekker ikke avlastning, men noen langtidsomsorgsforsikringer gjør det.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Tips:** Alzheimer's Association foreslår at du prøver avlastningstilbydere i en situasjon som ikke er en nødsituasjon, slik at de er klare hvis du plutselig trenger hjelp.
 
-## Where can I find help near me?
+## Hvor finner jeg hjelp i nærheten?
 
-Several free US services can point you to local help.
+Flere gratis tjenester i USA kan vise deg til lokal hjelp.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimer's Associations døgnlinje: 1-800-272-3900.** [Hjelpelinjen](https://www.alz.org/help-support/resources/helpline) er gratis og konfidensiell, bemannet døgnet rundt hver dag i året, med hjelp på mer enn 200 språk gjennom tospråklige ansatte eller tolker. Ring 711 for en relétjeneste. Du kan snakke om endringer i atferd, belastning som pårørende, avlastningsmuligheter, lokale programmer med mer, og be om en lengre samtale med en omsorgskonsulent. Ansatte gir ikke medisinsk råd.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), en offentlig tjeneste fra Administration for Community Living, kobler deg til tjenester for eldre voksne og deres familier. Du kan ringe, sende tekstmelding, chatte på nett eller sende e-post til opplært personale, eller søke etter sted. Den kan vise deg til ditt lokale eldrekontor (Area Agency on Aging).
+- **ARCH National Respite Locator Service.** [ARCH-søkeverktøyet for avlastning](https://archrespite.org/caregiver-resources/respitelocator/) hjelper deg å finne avlastningstilbydere etter delstat, og foreslår at du først kontakter ditt delstatlige avlastningsnettverk (State Respite Coalition) eller et Lifespan Respite-program hvis delstaten har det. ARCH sier at de ikke kontrollerer tilbyderne, så vurder erfaring og bakgrunn selv.
 
-## How do I find a support group?
+## Hvordan finner jeg en støttegruppe?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Spør hjelpelinjen, eller søk etter grupper i nærheten på nettet. Alzheimer's Association [driver støttegrupper](https://www.alz.org/help-support/community/support-groups) for pårørende og personer som lever med demens, både fysisk og på nett, ledet av opplærte fasilitatorer. Mange steder tilbyr også spesialiserte grupper, for eksempel for voksne pårørende eller for personer med tidlig start eller tidlig stadium av Alzheimers. Foreningen driver også ALZConnected, et gratis nettsamfunn der pårørende deler råd.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Støttegrupper kan være et sted å lufte frustrasjon uten å bli dømt, få praktiske tips fra folk som har vært der, og føle seg mindre alene. Hvis den første gruppen ikke passer, prøv en annen.
 
-## How do I ask family and friends for help?
+## Hvordan ber jeg familie og venner om hjelp?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Vær konkret. Mange vil gjerne hjelpe, men vet ikke hva de kan tilby. NIA foreslår:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Lag en liste** over oppgaver andre kan ta over, og la folk velge.
+- **Start i det små** hvis det er vanskelig å spørre.
+- **Tilpass oppgaven til personen.** Fetteren som elsker å lage mat, kommer med middag på torsdager. Naboen som er god med skjemaer, hjelper til med papirarbeidet.
+- **Send tekstmelding eller e-post** hvis det er ubehagelig å spørre ansikt til ansikt.
+- **Øv på et svar** for når noen tilbyr hjelp: «Takk for at du spør. Her er det du kan gjøre.»
+- **Regn med noen nei** og prøv å ikke ta dem personlig.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Andre ideer: be noen sitte med personen én ettermiddag i uken, ta dem med på en kort utflukt, eller besøk og spill et spill sammen. Vår [veiledning om å leke sammen](/caregiving/how-to-play-together/) er lett å dele med besøkende.
 
-## What if something happened to me?
+## Hva om noe skjer med meg?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Lag en enkel reserveplan nå. NIA foreslår at du blir enig med familie eller nære venner om hvem som kan tre inn, og at du har en notatbok med nødnumre, medisiner, atferdstips som fungerer, og favorittaktiviteter. Alzheimer's Association anbefaler også at personens medisinske kontakter og en oppdatert medisinliste er lett å finne.
 
-## When should I get professional or urgent help?
+## Når bør jeg få profesjonell eller akutt hjelp?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Snakk med legen din hvis belastningssignalene er regelmessige, hvis du føler deg deprimert, eller hvis du sliter med å takle situasjonen. Si at du er pårørende. NIA påpeker at rådgivere og sosionomer kan hjelpe med vanskelige følelser og planlegging, og at Medicare, Medicaid og noen private forsikringer kan dekke noen av kostnadene for psykisk helse.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Hvis du føler deg i krise eller har tanker om å skade deg selv, ring eller send tekstmelding til 988 for å nå [988 Suicide & Crisis Lifeline](https://988lifeline.org/). Den er gratis og tilgjengelig døgnet rundt. Hvis noen er i umiddelbar fare, ring lokalt nødnummer.
 
-## Can shared activities give me a break too?
+## Kan felles aktiviteter gi meg en pause også?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Noen ganger. En rolig aktivitet dere begge liker, kan være en mildere del av dagen for deg så vel som for personen du passer på: å lytte til gamle sanger, se på bilder, eller et spill som [Samtalekort](/games/conversation-cards/), som ikke krever riktige svar. Hvis personen liker selskap, kan en gruppeøkt med [Bildebingo](/games/picture-bingo/) på et seniorsenter eller dagtilbud gi deg en time med avlastning. Se [aktiviteter for grupper på sykehjem](/activities/care-home-groups/) for ideer.
