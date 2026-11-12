@@ -23,7 +23,7 @@ faq:
     a: "No restringiu els líquids per evitar accidents, tret que un professional de la salut hagi donat un pla individual. Beure poc pot provocar deshidratació i altres problemes. Pregunteu al metge de la persona quines són les seves necessitats."
   - q: "Quins signes poden indicar que algú està deshidratat?"
     a: "La boca seca, els marejos, un cansament inusual o un canvi en la manera d'orinar poden ser senyals, però poden tenir altres causes. Poseu-vos en contacte amb un professional de la salut si us preocupa, i busqueu ajuda immediata si hi ha confusió sobtada."
-  - q: "Què passa si algú tus o s'ofega en beure?"
+  - q: "Què passa si algú fa tos o s'ofega en beure?"
     a: "Atureu-vos i consulteu un professional de la salut per obtenir consell. No espesseu les begudes ni canvieu-ne la textura tret que un professional qualificat ho hagi recomanat per a aquella persona."
 sources:
   - title: "Food & Eating"
@@ -80,7 +80,7 @@ Anoteu què heu observat i quan. Incloeu si la persona estava malalta, si era en
 
 ## Què passa si beure s'ha tornat difícil?
 
-Si la persona tus, s'ofega, es queda el menjar o la beguda a la boca, o té una dificultat nova per empassar, atureu-vos i demaneu consell a un professional de la salut qualificat. No espesseu les begudes, no canvieu la textura dels aliments ni proveu tècniques per empassar tret que un professional hagi recomanat aquest pla per a la persona. La nostra [guia sobre els menjars](/caregiving/mealtimes-with-dementia/) explica què fer amb els nous problemes per mastegar o empassar.
+Si la persona fa tos, s'ofega, es queda el menjar o la beguda a la boca, o té una dificultat nova per empassar, atureu-vos i demaneu consell a un professional de la salut qualificat. No espesseu les begudes, no canvieu la textura dels aliments ni proveu tècniques per empassar tret que un professional hagi recomanat aquest pla per a la persona. La nostra [guia sobre els menjars](/caregiving/mealtimes-with-dementia/) explica què fer amb els nous problemes per mastegar o empassar.
 
 Si la persona té la boca seca, dolor a les dents o una pròtesi dental que li resulta incòmoda, pregunteu-li què nota i poseu-vos en contacte amb un dentista o un metge. El dolor a la boca pot fer més difícil beure. Consulteu la nostra [guia sobre la cura bucal](/caregiving/oral-care-with-dementia/) per veure maneres suaus de donar suport a la higiene de la boca.
 
