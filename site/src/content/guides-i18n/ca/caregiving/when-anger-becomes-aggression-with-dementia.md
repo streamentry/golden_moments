@@ -76,7 +76,7 @@ La [Alzheimer's Society suggereix buscar patrons i pensar com se sentia la situa
 Feu servir el que heu observat per ajustar la següent interacció. Pot ajudar, però no pot garantir que la conducta no tornarà a passar. Proveu un canvi cada vegada, perquè sigui més fàcil veure si la persona sembla més còmoda.
 
 - **Trieu un moment més tranquil.** Si una tasca sovint surt malament quan la persona està cansada, pregunteu-vos si funciona millor un altre moment.
-- **Feu l'entorn més fàcil.** Apagueu el soroll de fons, redu­íu el nombre de persones a l'habitació i reuniu el que necessiteu abans de començar.
+- **Feu l'entorn més fàcil.** Apagueu el soroll de fons, reduíu el nombre de persones a l'habitació i reuniu el que necessiteu abans de començar.
 - **Expliqueu un pas i espereu.** Acosteu-vos des de davant, digueu què esteu fent, pregunteu abans d'ajudar i doneu temps a la persona per respondre.
 - **Atureu-vos quan hi hagi senyals d'angoixa.** Una negativa, un gest d'allunyar-se, una cara tensa o una veu més alta poden ser un senyal per fer una pausa. No doneu més importància a acabar la tasca que a la comoditat.
 - **Compartiu un pla senzill.** Si diverses persones ajuden en l'atenció, acordeu els senyals que volen dir «pausa», una frase tranquil·la per fer servir i a qui cal contactar si el patró canvia.
