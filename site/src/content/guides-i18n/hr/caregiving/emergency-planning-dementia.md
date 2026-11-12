@@ -7,7 +7,7 @@ order: 28
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Napravite plan za hitne situacije prema osobinoj komunikaciji, pokretljivosti, lijekovima i potrebama za utjehom. Odaberite rezervne pomoćnike, pripremite mali komplet za hitne slučajeve i znajte gdje pronaći lokalne upute za skrivanje ili evakuaciju.
+  Napravite plan za hitne situacije prema osobnoj komunikaciji, pokretljivosti, lijekovima i potrebama za utjehom. Odaberite rezervne pomoćnike, pripremite mali komplet za hitne slučajeve i znajte gdje pronaći lokalne upute za skrivanje ili evakuaciju.
 keyPoints:
   - "Planirajte zajedno s osobom i navedite više od jednog pouzdanog pomoćnika."
   - "Imajte mali komplet s ključnim kontaktima, popisom lijekova, punjačima i predmetima za utjehu."

@@ -56,7 +56,7 @@ Uključite osobu u izbore o budućem prijevozu dok to želi. Možda želi da voz
 
 Govorite o konkretnom događaju, a ne o širokoj prosudbi. Na primjer, opišite da se izgubila na poznatoj ruti, propustila prometni znak ili da je nedavno ogrebala auto. Recite što ste vidjeli i pitajte što osoba pamti ili kako se osjećala. Izbjegavajte da je nazivate lošim vozačem ili da testirate njezino pamćenje pitanjima.
 
-Saslušajte osobino gledište. Možda je i ona primijetila zbunjenost, odsjaj, umor ili neku drugu poteškoću. Ili se može ne slagati s vašom brigom. Nemojte jedan razgovor smatrati dokazom da razumije ili ne razumije rizik. Zadržite uljudan ton i vratite se temi kasnije ako se itko od vas uzruja.
+Saslušajte njezino gledište. Možda je i ona primijetila zbunjenost, odsjaj, umor ili neku drugu poteškoću. Ili se može ne slagati s vašom brigom. Nemojte jedan razgovor smatrati dokazom da razumije ili ne razumije rizik. Zadržite uljudan ton i vratite se temi kasnije ako se itko od vas uzruja.
 
 Dementia Australia predlaže kratke, ponovljene razgovore i usredotočenost na snage osobe i pozitivne mogućnosti putovanja. Također upozorava da potajno skrivanje ključeva ili onesposobljavanje auta može djelovati neprijateljski tijekom ranog planiranja. Ako postoji ozbiljna neposredna briga za sigurnost, poduzmite korake da se izbjegne sljedeće rizično putovanje i brzo potražite stručni savjet.
 
