@@ -78,7 +78,7 @@ Dette dømet følgjer forma av Alzheimerforeininga sin eigen dømeplan for tidle
 Ta utgangspunkt i korleis personen alltid har levd, ikkje i eit skjema. Alzheimerforeininga foreslår å tenkje over desse tinga før du planlegg:
 
 - **Kva personen likar, ikkje likar, er gode i og er interessert i.**
-- **Korleis personen brukte dagane sine tidlegare.** Ein tidleg oppstått person som alltid gjekk tur med hunden, bør framleis gå tidleg. Ein nattugle vil kanskje aldri like ein start 8:00.
+- **Korleis personen brukte dagane sine tidlegare.** Ein tidleg oppstått person som alltid gjekk tur med hunden, bør framleis gå tidleg. Ein nattugle vil kanskje aldri like ein start klokka 8 om morgonen.
 - **Personens beste tid på dagen.** Legg bading, turar og hovudaktiviteten dit.
 - **Nok tid** til måltid, vask og påkledning, slik at ingenting blir hasta.
 - **Faste tider for å stå opp og gå til seng.**
