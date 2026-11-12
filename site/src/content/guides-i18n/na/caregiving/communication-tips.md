@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Anan bwe korero ngaga aramwan eo dementia"
+seoTitle: "Anan korero ngaga aramwan eo dementia"
+description: "Anan ibiboki bwe korero ngaga aramwan eo dementia: anan kamarar, dorer bwe korero, tsieda bwe ening, me anan bwe meo etsing."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Korero ion ean obwe me emwarar, bwareia aramwan eo, oeta ian, me korero emwarar
+  ngaga dorer imwiit me emwakwit. Eok anũ ereri bwe etsing amea, eita koru ereri
+  bwe enim, me omaen ngagoen bwe etsing „eo“ me „eõ“. Omaen edae ngagoen bwe
+  ouga ouga. Bwe tsieda, bwe itsiok me bwe ereri kamarar. Ouga ouga ngaga anan
+  etsing me amune eo eab ouga. Ngagoen dorer eab ouge, oea etsing ngaga tsieda
+  eab, eõded, anan eab me eimwiit ngaga etsiõ.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Eita ouwa dorer ion obwe me bwareia aramwan eo mo ean am korero."
+  - "Eita dorer imwiit me emwakwit, amea ion amea, me oeta ian tsieda bwe „eñ“, „eñan“ me „irũ“."
+  - "Eita koru ereri bwe enim, me ereri bwe „eo“ me „eõ“, tsieda bwe ereri emwite."
+  - "Omaen. Ngaga eñ eab ouga ouga, ouga ouga dorer edorer, ngagoen eo eab ouga ouga, eita ouga ouga dorer enim."
+  - "Bwe tsieda me bwe itsiok. Ouga ouga ngaga anan etsing me amune eo eñ ouga."
+  - "Ngagoen dorer eab ouge, korero ngaga tsieda eab, bõk, anan eõded me eimwiit ngaga etsiõ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Dorer bwan bwe korero ngaga aramwan eo dementia?"
+    a: "Bwe ereri kamarar (\"Am gadar...?\"), bwe itsiok (\"Eo eab õmwin\"), bwe kamarar ngaga ouwa eo eab ouge (\"Iya ouga ouga am me\"), me bwe korero ngaga eñ ngagoen eñ eab ion edae. Bwe korero ngagoen ngeni. Dorer inim eab ouga ouga mebũ me ouwak, me eab ibiboki."
+  - q: "Iya an itsiok eñ ngagoen eñ ouga ouga ouwa eab õmwin?"
+    a: "Eab õn ouga ouga. Ngaga ouwa eo eab õmwin me eab ouga ouwak, eita ouge. Tsieda eab ouga ouga anan etsing aramwan eo, me eab ouga ouga eñ mebũ. Eita ouga ouga ngaga anan etsing me ouwa eo eñ en me ngagoen."
+  - q: "Iya an ouga ouga ngagoen eñ eab gadar dorer?"
+    a: "Eita omaen mo. Ngaga eñ ouwak ouwak bwe gadar dorer, õn bwe ibiboki ngaga dorer me ereri anan ouga ouga eñ me ouga ouga. Eimwiit, tsieda eab me etsiõ ian eab ibiboki."
+  - q: "Anan bwe korero ngaga aramwan eo dementia eon eab ouga ouga korero?"
+    a: "Bwareia eñ eon bwareia, ouga ouga am enim, me eita bõk emwarar me tsieda emwarar. Bwareia anan eõded me anan eab bwe gadar anan etsing. Am ion edae, eijõk eo eñ gadar, me tsieda eab eab ouga ouga ouwa ebũgibũgi ngagoen eab dorer."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia eab ouga ouga eñ ouwak bwe gadar dorer, bwe ouga ouga dorer eanõ, me bwe eita ouwa dorer ion obwe eo eõrõk. Eo eab ouga ouga bwe aramwan eo eab en me bwe ouga ouga ngaga aramwan. Anan imwiit ngagoen am kamarar korero, anan am korero me anan am ening eab ouga ouga korero emwarar me emwakwit ngaga amirũ me eñ.
 
-## What are the most important tips for talking with someone who has dementia?
+## Anan ibiboki ebũgibũgi bwe korero ngaga aramwan eo dementia?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Eita anan etsing eñ, ouga ouga emwakwit, me omaen. Ngaga am gadar amea iõn iõn:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Ouwa obwe emwarar me bwareia eñ.** Eita ouwa TV, ijo ngagoen emem, me oeta ian eñ.
+2. **Ouga ouga amea ion amea.** Dorer imwiit, ouwa amea, ereri amea.
+3. **Eita ereri bwe enim.** „Ti me kofe?“ eab emwakwit ngagoen „Am en me dorer bwan?“
+4. **Omaen.** Eita ngagoen bwe ouga ouga ngagoen eo ouwak õn, me bwe ouga ouga ion etsing eñ.
+5. **Bwe tsieda me bwe ereri kamarar.** Ouga ouga ngaga anan etsing eñ, eab ngaga ouwa eo õmwin me eab.
 
-## How should I start a conversation?
+## Anan bwe iya kamarar korero?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Ouwa ouwa ngagoen aramwan eo eab ouga ouga anan etsing ngaga am. [Anan ibiboki eab Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ouga ouga bwe eita ouwa dorer ion obwe mo: eita ouwa redio me TV, ouwa katen me dor, me dogin ion ean obwe me emwarar.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Bwareia eñ eon bwareia.** Bwareia eñ eon mur me eon itubũg eab ouga ouga eñ ouwak.
+- **Ouga ouga am enim.** „Mao Mama, iya Sarah, ngeniõm.“ Eo eab ibiboki eñ bwe eñ eab dogin iõm.
+- **Ijo ngagoen emem ngaga eñ.** Ngaga eñ ijo, ijo me meõ ngagoen emem eõm emem ngaga emem eñ.
+- **Bwareia anan eõded me bõk eõm.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ouga ouga bwe am anan bwareia bõk, ouwak, anan eõded me anan eab eõm, me ouga ouga anan emwarar me emwakwit.
+- **Bwareia bwe glas me ibiboki ening ion edae.** Eab ouwak bwe ouga ouga korero eo am eab ouga ouga bwareia me ening õn.
 
-## How should I phrase what I say?
+## Anan bwe iya ouga ouga dorer eiy?
 
-Use simple words, short sentences and a calm, low voice.
+Eita dorer emwakwit, dorer imwiit me bõk emwarar me eab ouwak.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ouwa amea ion dorer amea.** „An ouwa kwet eõm. Me an dogin ion ijeij.“ Bwe ouga ouga meõ ion amea ion.
+- **Eita ian, bwe dorer ngagoen „eñ“.** „Aunt Jean eab ijeij“ eab emwakwit ngagoen „Eñ eab ijeij“.
+- **Bõk eab ion, bwe eab ouwak.** Family Caregiver Alliance ouga ouga bõk eab ion tsieda bwe bõk eab ouwak.
+- **Ouga ouga me, ngagoen eo eab ouga ouga, ouga ouga dorer enim.** Ngaga eñ eab ouga ouga, ouga ouga dorer edorer amea ion. Ngaga eo eab ibiboki, omaen imwiit me eita dorer enim.
+- **Eimwiit me ouga ouga.** Eimwiit kap, ouga ouga koru sweta, me eimwiit ouwa amea mo.
+- **Korero ngaga eñ, bwe korero ngaga eñ ngagoen eñ eab ion edae.** NIA ouga ouga bwe bwe korero ngaga aramwan eo ngagoen eñ eab ion edae, me bwe korero ngagoen ngeni.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ouga ouga dorer emwakwit ngaga ereri eo ouga ouga. Inim ouwa ngagoen anan eo:
 
-| Instead of | Try |
+| Tsieda bwe | Eita ouga ouga |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| „Am en me dorer bwan ngaga ama?“ | „Am en me iõ me iõk?“ |
+| „Anan etsing eõm?“ | „Am etsing ouwak?“ |
+| „Am iõr?“ | „Ama eab marar ion iõn minit.“ |
+| „Eo eab anan bwe ouga ouga.“ | „An eita ouga ouga ngagoen inim.“ |
+| „Am gadar dogin ead ngaga reke?“ | „Iya etsing ngaga dogin ead ngaga reke. Ouga ouga iya ouwa eo am en me ngaga eo.“ |
+| „Iya ouga ouga am me.“ | Ouga ouga me, emwarar, ngagoen eo amea mo. |
 
-## How do I listen well?
+## Anan bwe iya ening õn?
 
-Listen for the meaning and the feeling, not just the words.
+Ening ngaga ouwa me anan etsing, eab amea dorer iõn.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Omaen.** Etsing emwarar eab ouga ouga ngagoen eo etsing. Eita ouga ouga ngagoen iwe iõn mo am ouga ouga.
+- **Eita dorer amea ngaga eñ ouwak.** Family Caregiver Alliance ouga ouga bwe õn bwe eita dorer ngagoen aramwan eo ouwak.
+- **Bwareia ouwa eo am ening.** [Anan ibiboki eab Alzheimer’s Association ngaga korero](https://www.alz.org/help-support/caregiving/daily-care/communications) ouga ouga bwe am dogin ouwa me anan etsing ion dorer eñ me ouga ouga me bwe bwareia bwe am ouga ouga. „Am ouwak ngaga kar?“
+- **Bwareia anan eõded me anan eab eñ.** Ngagoen korero eab ouwak, NIA ouga ouga, anan eõded eab ouga ouga mebũ, mebũbũ me ouwak emwakwit ngagoen dorer.
+- **Eita ouwa ouwak eñ ngagoen ouwa õn.** Ngagoen ouwak eñ eon ouwa eab õmwin, anan etsing eo õn.
 
-## What if they say something that is not true?
+## Ngagoen eñ ouga ouga ouwa eo eab õmwin?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Bwe tsieda. Eab õn ouga ouga bwe am eab ouga ouga, me aramwan eo eab ouga ouga mebũ me ouwak. Tsieda bwe eo, ouga ouga ngaga anan etsing eñ, me eita dogin emwarar ngaga ouwa enim.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ouga ouga bwe eita ouga ouga anan etsing mo am dogin ngaga ouwa enim. Ngaga ouwa, ngaga mama eõm ouga ouga bwe eñ en bwe dogin ngeni eab ion skul:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Tsieda bwe: „Mama, ngeniõm irũ eab aramwan ebũgibũgi. Eo eab ouwa ngagoen iõr ebak iõn.“
+- Eita ouga ouga: „Am ouga ouga mama eo en me ngeni. Ouga ouga iya ngaga dogin irũ. An ama ouwa imwiit mo?“
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer’s Association ian ouga ouga bwe bwe tsieda ngaga ouwa eo am eab ouga ouga ngaga. Eita enim ngagoen: ngaga ouwa eab õmwin me eab ouga ouga ouwak, eita ouge.
 
-## How does communication change as dementia progresses?
+## Anan korero eab enim ngagoen dementia eab dogin?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Anan en me eab enim ngagoen ngagoen, eita enim anan eõm. Alzheimer’s Association ouga ouga koru ouwa ebũgibũgi:
 
-| Stage | What helps |
+| Ouwa | Ouwa eo ibiboki |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Mo | Bwe etsing bwe eñ eab ouga ouga korero. Eita eñ ion korero, korero ngaga eñ, ereri ibiboki bwan eo eñ en me, me eita ouga ouga ngagoen eo ibiboki. |
+| Etubũg | Korero amea me amea ion ean obwe me emwarar. Korero emwarar, ouga ouga emem ngaga emem, eita ereri bwe „eo“ me „eõ“, eita ouga ouga ouwa amea me amea, me bwe itsiok me bwe tsieda. |
+| Eon | Bwareia eñ eon bwareia me ouga ouga am enim. Eita ibiboki bwe eñ eimwiit me ouga ouga ngaga tsieda eab. Eita tsieda eab, dorer, ouwa bwe bwareia me ouwa bwe emwarar. Bwe korero ngagoen eñ eab ion edae. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Aramwan amea amea eab enim, me aramwan edorer ian eab ouga ouga ran õn me ran ouwak. Ouga ouga ngaga anan eñ ngagoen ngagoen, eab ngaga ian.
 
-## Can pictures and activities make conversation easier?
+## Etsiõ me ouwa eab ouga ouga korero emwakwit?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Eo. Etsiõ eo amirũ bwareia eab eita ouwa ouwak ouge me eab ouga ouga ouwa eo amirũ eab bwareia me eimwiit.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Etsiõ ngaga korero.** [Conversation Cards](/games/conversation-cards/) ouga ouga etsiõ ngaga ereri eo eab ouga ouga korero me eab ereri kamarar.
+- **Etsiõ ngaga eimõm.** [Photo Pairs](/games/photo-pairs/) ouga ouga etsiõ eo am enim ngaga ouwa emwarar bwe bwareia emem, eo eab ouga ouga ouga ouga ouwa eab me.
+- **Dorer eo aramwan gadar.** [Finish the Saying](/games/finish-the-saying/) eita dorer eo gadar, me ngagoen eo ouga ouga ereri ngaga korero.
+- **Ouwa bwe bwareia emem.** [Picture Pairs](/games/picture-pairs/) ouga ouga ouwa ngaga eab eõm ngagoen am korero.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Bwareia [anan bwe ouga ouga ouwa ngaga](/caregiving/how-to-play-together/) me [ouwa ngaga ouga ouga ouwa eab me](/activities/reminiscence/) ngaga ouwa enim. Ngaga dogin me korero ngaga fon me eimwiit, eita ekereri [dogin](/activities/visiting/) me [korero ngaga fon me eimwiit eõded](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Ngaga aramwan eo korero dorer enim, bwareia [anan ibiboki ead ngaga korero ion dorer enim](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Ngagoen iya ouge omaen eiy?
+
+Eo eab ouga ouga ngaga aramwan amea amea. NIA ouga ouga bwe ngaga am mebũ, eita ngagoen imwiit bwe am emwarar. Dogin ion obwe enim, ouwa bõk emwarar imwiit ngagoen, me mwitin ngagoen am ouga ouga emwarar. Am eab ouga ouga kamarar korero me, me aramwan eo eab ouga ouga ouga ouga ngaga anan emwarar eõm. Ngaga mebũ eab ouga ouga ngagoen amea amea, eo ouga ouga bwe am en me ibiboki enim, eab bwe am eab ouga ouga õn. Anan ibiboki ead ngaga [anan bwe ouga ouga amur](/caregiving/caregiver-self-care/) eab ouga ouga ean bwe dogin ibiboki.

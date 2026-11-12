@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Doihgyaeq Gangjvah caeuq Boux Youq Bingh Seizmoh"
+seoTitle: "Doihgyaeq Gangjvah: Gij Vah raeuz Gangj, Gij Vah mbouj raeuz"
+description: "Gij fanghfap gangjvah caeuq boux youq bingh seizmoh: chuanqbi gangjvah, yiengh lawz gangj, caeuq yiengh lawz dingq."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Gangjvah youq giz cingjing, doengh ndaej boux, hoiq mingz de, caeuq gangj
+  manh manh, aenvaih, yiengh gij cih danh caep. Cam mwngz caeux mwngz cih yit
+  di, hawj de raen gij raeuz song boux, caeuq daengj de dap gvaq raeuj. Mbouj
+  raeuz caengz, mbouj raeuz gaij, mbouj raeuz cam mwngz. Dap yinx gij gamjcingz
+  laebdaej gij vah de, caeuq aeu dwk, doenghvei caeuq saeh youq seiz vah gig
+  nan.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Gaej seiz yaek biuj caeuq ndaej rox ndang de cij gangjvah."
+  - "Aeu gij cih danh caep, mwngz cih yit di, caeuq aeu mingz daiqtiu he, she roxnaeuz they."
+  - "Hawj de raen gij raeuz song boux, roxnaeuz cam mwngz baenz rox mbouj rox, mbouj raeuz cam mwngz gvangq."
+  - "Daengj de dap. Mbouj raeuz de mingz, couh gangj doengzyiengh caeuq cungj, raeuj couh yiengh gij vah wnq."
+  - "Mbouj raeuz caengz roxnaeuz gaij. Dap yinx gij gamjcingz laebdaej gij vah de."
+  - "Seiz vah gig nan, gangjvah aeu dwk, singq, biekginj caeuq doenghvei cawz raeuj."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Gij vah maz mbouj raeuz gangj caeuq boux youq bingh seizmoh?"
+    a: "Mbouj raeuz cam mwngz baenzlawz \"Mwngz cix geiq ndei ma?\", mbouj raeuz gaij \"Gijneix couh mbouj deng\", mbouj raeuz daeuj gwnz gij saeh caeuqbaenz \"Gou caeux gangj gvaq le\", caeuq mbouj raeuz gangj de baenzlawz de mbouj youq gizneix. Mbouj raeuz gangjvah baenzlawz gangj caeuq lwg. Gij saeh neix cungj hawj de yaeknyamj roxnaeuz gig nyienh, yaep mbouj bang de."
+  - q: "Seiz de gangj saeh mbouj deng, gou raeuz gaij de mbouj raeuz?"
+    a: "Daengz biengz mbouj raeuz. Miz yiengh saeh mbouj deng yaep mbouj miz maz saeh, couh hawj de bae. Caengz daeuj daengz biengz mbouj gaij ndaej sim de, yaep cungj hawj de yaeknyamj. Gyoengqde daj gij gamjcingz caeuq gij de siengj seizneix."
+  - q: "Seiz de ra gwnz mbouj ndaej cij vah, gou raeuz baenzlawz?"
+    a: "Sien hawj de miz seiz. Mbouj raeuz de gig nan, couh manh manh bang de aeu yit di vah roxnaeuz caeuq de cam rox gou mingz deng mbouj deng. Gim raeuj, saeh youq caeuq doenghvei cungj bang ndaej."
+  - q: "Gou raeuz yiengh lawz gangjvah caeuq boux youq bingh seizmoh doenghci seiz gangjvah gig gyae?"
+    a: "Yiengh ndawng de raeuj, gangj gou dwg bouxlawz, aeu singq cingjing caeuq dwk manh manh. Cawj biekginj caeuq saeh ndang de, rox de gamjcingz baenzlawz. Mwngz youq gizneix, yit di go cix rox, roxnaeuz dwk fwngz de, cungj gangj ndaej lai saeh, cij youq mbouj aeu vah."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Bingh seizmoh hawj vunz ra gwnz mbouj ndaej cij vah, ganj mbouj ndaej cij yiengh caep gyae, roxnaeuz mbouj ndaej gangj youq giz yaek biuj lai. Gijneix mbouj dwg yienghneix de mbouj siengj caeuq vunz raeuj. Mwngz gaij yit diemj: chuanqbi gangjvah, gangjvah, caeuq dingq, couh bang mwngz caeuq de gangjvah ndaej yiengh, ndaej cingjing gvaq.
 
-## What are the most important tips for talking with someone who has dementia?
+## Gij doihgyaeq ganj daih couh dwg gijmaz seiz gangjvah caeuq boux youq bingh seizmoh?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Hawj de dingq mwngz, gangj aenvaih, caeuq miz naengh. Mbouj raeuz mwngz geiq ndaej haj di saeh, couh geiq gijneix:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Hawj giz cingjing caeuq doengh ndaej de.** Gaej diensya, coj youq doenghcij ndang, caeuq hoiq mingz de.
+2. **Gangj yit di cih yit seiz.** Gij cih danh, yit di saeh, yit di mwngz.
+3. **Hawj de raen song boux.** "Cah roxnaeuz gaephv?" couh yiengh gvaq "Mwngz siengj gwn maz?"
+4. **Daengj.** Hawj de miz seiz dap gvaq raeuj, mbouj raeuz gaep vah de.
+5. **Mbouj raeuz caengz roxnaeuz cam mwngz.** Dap yinx gij gamjcingz de, mbouj dwg saeh deng rox mbouj deng.
 
-## How should I start a conversation?
+## Gou raeuz yiengh lawz kaiqsi gangjvah?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Chuanqbi hawj boux ndaej gyoengqde mwngz. [Gij cidu Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) gangj hawj gaej seiz yaek biuj: gaej diensya roxnaeuz yungyiemh, haeuj lienz roxnaeuz menh, roxnaeuz dauq bae giz cingjing gvaq.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Yiengh ndawng de raeuj.** Yiengh laeb roxnaeuz biengz raeuj, miz cingz hawj de giknyaengq.
+- **Gangj mwngz dwg bouxlawz.** "Bah, gou dwg Sarah, lwgmbwk mwngz." Gijneix bang de mbouj aeu ra mingz mwngz.
+- **Coj doenghcij ndang de.** Mbouj raeuz de coj, mwngz couh coj roxnaeuz naemj, hawj ndang caeuq ndang doenghcij.
+- **Cawj biekginj caeuq singq mwngz.** [Gij saehsik National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) gangj hawj mwngz liuzsim singq, seng, biekginj caeuq saeh ndang, aeu singq onj caeuq bingzciengz.
+- **Cawj rox mwngz daenj ngazva caeuq gij dingq.** Mbouj raeuz mbouj raen mbouj dingq cingcuj, couh nan ganj gij gangjvah.
 
-## How should I phrase what I say?
+## Gou raeuz yiengh lawz gangj?
 
-Use simple words, short sentences and a calm, low voice.
+Aeu gij vah aenvaih, gij cih danh caep, caeuq singq manh, daemq.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Yit cih yit di saeh.** "Daj mbaw mwngz haenx bae. Raeuj couh ok bae." Mbouj raeuz gangj song di doengzseiz.
+- **Aeu mingz, mbouj aeu daihcih.** "Guh Jean hoiq daihvah" couh mingz gvaq "De hoiq daihvah".
+- **Singq daemq, mbouj raeuz hamq.** Family Caregiver Alliance cimh hawj aeu singq daemq, mbouj raeuz hamq seng.
+- **Gangj cungj, raeuj couh yiengh vah wnq.** Mbouj raeuz de mbouj mingz, gangj gij vah cungj doengzyiengh caeuq yit baenz. Mbouj ndei, daengj yit diemj, raeuj couh yiengh gij vah wnq.
+- **Caeuq raeuj ok, caeuq gangj ok.** Gim raeuj bae buj, hawj de raen song gyaj mbaw, roxnaeuz yiengh bouh it.
+- **Gangj caeuq de, mbouj raeuz gangj de yiengh baenzlawz de mbouj youq giz.** NIA mbouj cimh gangj boux youq seizneix baenzlawz de mbouj youq, caeuq mbouj cimh gangjvah baenzlawz gangj caeuq lwg.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA cimh gij fanghfap aenvaih gvaq, baenz gij neix:
 
-| Instead of | Try |
+| Mbouj raeuz gangj | Gyae gangj |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| "Mwngz siengj gwn maz seiz haemh?" | "Mwngz siengj gwn bya roxnaeuz gyaeij?" |
+| "Mwngz gamj baenzlawz?" | "Mwngz fatigued mbouj fatigued?" |
+| "Mwngz ndoj mbouj ndoj?" | "Fan haemh couh itdingh le." |
+| "Mwngz yiengh neix mbouj deng." | "Daj raeuz yiengh neix cawj." |
+| "Mwngz cix geiq ndaej seiz raeuz bae huz ma?" | "Gou caeux siengj daeuj seiz raeuz bae huz. Mwngz doiq gijneix haih gijmaz?" |
+| "Gou caeux gangj gvaq le." | Dap cungj, onj, baenzlawz caeux gangj bouh it. |
 
-## How do I listen well?
+## Gou raeuz yiengh lawz dingq ndei?
 
-Listen for the meaning and the feeling, not just the words.
+Dingq gij yisi caeuq gij gamjcingz, mbouj dwg cij gij vah.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Daengj.** Seiz mbouj miz singq cungj dwg seiz swhgeij. Saep doengz cib raeuj cij gaep vah.
+- **Bang aeu vah cij seiz de gig nan.** Family Caregiver Alliance gangj, seiz vunz ra gwnz nan, bang de aeu yit di vah couh ndaej.
+- **Cawj rox gou dingj ndaej deng mbouj deng.** [Gij cidu gangjvah couh Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) cimh hawj ra gij yisi laebdaej gij vah de, caeuq gangj cungj caeux cawj rox. "Mwngz doiq ceh haenx gig yaenmbouj?"
+- **Cawj biekginj caeuq saeh ndang de.** Seiz gangjvah gig nan, NIA gangj, biekginj ndaej raen ok yaeknyamj, nyinh roxnaeuz gig nanz gvaq gij vah.
+- **Dingq gij de gig yaenmbouj.** Cijmiz gij saeh de gig yaenmbouj dwg mbouj deng, gij gamjcingz de couh dwg cienzsaed.
 
-## What if they say something that is not true?
+## Mbouj raeuz de gangj gij saeh mbouj dwg cienz, gou raeuz baenzlawz?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Mbouj raeuz caengz. Mwngz daengz biengz mbouj yiengj ndaej, yaep de ndaej yaeknyamj roxnaeuz haenh. Gyoengqde doiq gij gamjcingz de, raeuj couh manh manh yiengh saeh wnq.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance cimh hawj nyienh gij gamjcingz de sien, raeuj couh daiq de yiengh wnq. Bileij, mbouj raeuz mah mwngz laeblaeb gangj de aeu bae daih lwg youq yohdang:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Mbouj raeuz gangj: "Mah, lwg mwngz doek hung le. Gijneix dwg seiz seiqcib bi gvaq bae le."
+- Gyae gangj: "Mwngz cungj dwg boux mah hai lwg. Gangj gou dingq seiz mwngz bae daih lwg. Raemx raeuz bae gwn diemj saeh sien mbouj raeuz?"
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association cungj cimh mbouj raeuz caengz gij saeh mwngz mbouj daengz. Raen seiz: mbouj raeuz gij saeh mbouj deng mbouj miz maz saeh, couh hawj de bae.
 
-## How does communication change as dementia progresses?
+## Seiz bingh seizmoh caen gvaq, gangjvah yiengh lawz gaij?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Gij siengj gaij youq seiz, mwngz couh aeu yiengh fanghfap gaij. Alzheimer's Association gangj sam bouh doengz:
 
-| Stage | What helps |
+| Giai段 | Gij bang ndaej |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Kaiqsi | Mbouj raeuz nyinh de mbouj gangjvah ndaej. Hawj de youq ndaw gangjvah, gangj caeuq de, cam de siengj mwngz bang gijmaz, caeuq mbouj raeuz gig qyaq couh aeu qyaq. |
+| Gihcunh | Gangjvah doxdoengz youq giz cingjing. Gangj manh manh, ndaej ndang de, aeu mwngz baenz rox mbouj rox, gangj yit bouh yit bouh, mbouj raeuz zeiq roxnaeuz gaij. |
+| Hauhgi | Yiengh ndawng de raeuj caeuq gangj mwngz dwg bouxlawz. Ciq de gim raeuj caeuq saeh. Aeu dwk, singq, raen, caeuq biuj. Cungj mbouj raeuz gangj baenzlawz de mbouj youq gizneix. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Mouxboux doengzlaengz mbouj doengzyiengh, doengzyiengh boux youq ngoenz mbouj doengzyiengh cungj miz ngoenz ndei caeuq ngoenz nan. Dap yinx de seizneix baenzlawz, mbouj dwg aeu yit di mingz.
 
-## Can pictures and activities make conversation easier?
+## Doenghvei caeuq gij guhdoih bang gangjvah yiengh mbouj?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Bang ndaej. Yit buj doenghvei youq doengz bang gaej seiz yah, caeuq hawj song boux miz saeh raen, miz saeh gim.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Doenghvei ciq gangjvah.** [Conversation Cards](/games/conversation-cards/) hawj doenghvei caeuq mwngz gvangq, mbouj cam mwngz.
+- **Doenghvei ranz.** [Photo Pairs](/games/photo-pairs/) yiengh doenghvei mwngz raen bae baenz gij guhdoih doxdoengz, cungj ciq ok lai gousaeh.
+- **Gij vah cix rox.** [Finish the Saying](/games/finish-the-saying/) aeu gij vah cix rox, raeuj miz mwngz ciq gangjvah.
+- **Gij guhdoih doxdoengz baenz beijing.** [Picture Pairs](/games/picture-pairs/) hawj fwngz mwngz miz saeh guh, seiz gangjvah.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Cawj [yiengh lawz guhdoih doengz](/caregiving/how-to-play-together/) caeuq [gij guhdoih swhgeij gousaeh](/activities/reminiscence/). Doiq seiz raen roxnaeuz daihvah, cawj gij cidu raeuz doiq [raen vunz](/activities/visiting/) caeuq [daihvah dienhua caeuq ndang](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+Mbouj raeuz boux gangj lai cungj vah, cawj [gij cidu gangjvah youq giz vah mbouj doengzyiengh](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Mbouj raeuz gou yaeknyamj couh baenzlawz?
+
+Mouxboux cungj miz seiz neix. NIA cimh, mbouj raeuz mwngz gig yaeknyamj, couh hawj mwngz miz seiz cingjing raeuj. Dauq bae fangj wnq, biuj manh manh geij baenz, cingjing le couh dauq ma. Mwngz cungj ndaej gangj caeux cungj, de cungj ndaej dap yinx gij sim cingjing mwngz. Mbouj raeuz yaeknyamj miz cingq cungj, gijneix dwg ciq mwngz siengj miz bang gvaq, mbouj dwg mwngz guh mbouj ndei. Gij cidu raeuz doiq [guhgwn boux guhhuz](/caregiving/caregiver-self-care/) miz giz bang mwngz.

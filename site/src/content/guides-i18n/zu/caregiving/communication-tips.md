@@ -1,35 +1,35 @@
 ---
-title: "Amathiphu Okukhuluma Nomuntu One-Dementia"
-seoTitle: "Ukuxhumana Ne-Dementia: Okushiwo Nokugwemayo"
-description: "Izindlela zokukhuluma nomuntu ophila ne-dementia: ukuqala ingxoxo, okufanele kushiwo esikhundleni sokubuza imibuzo noma ukulungisa, nokulalela."
+title: "Amathiphu Okuxoxa Nomuntu Ophila Nokuwohloka Kwengqondo"
+seoTitle: "Amathiphu Okuxoxa Ngokwohloka Kwengqondo"
+description: "Izindlela ezilusizo zokuxoxa nomuntu ophila nokuwohloka kwengqondo: indlela yokuqala ingxoxo, ongakusho, nokuthi ulalele kanjani."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Khulumani endaweni ethulile, bhekanani nomuntu, sebenzisani igama lakhe,
-  futhi nikhulume kancane ngemisho emifushane, elula. Buzani umbuzo oyedwa
-  ngesikhathi, nikeze ukukhetha phakathi kwezinto ezimbili esikhundleni
-  semibuzo evulekile, futhi nilinde isikhathi eside kunalokho okuzwakala
-  kujwayelekile. Ningaphikisani, ningalungisi noma nihlole. Phendulani umuzwa
-  osemuva kwamagama, futhi nisebenzise ukuthinta, izithombe nezinkomba
-  lapho ukukhuluma sekunzima.
+  Xoxani endaweni ethule, bhekana nomuntu, sebenzisa igama lakhe, futhi ukhulume
+  kancane ngemisho emifushane nelula. Buza umbuzo owodwa ngesikhathi, nikeza
+  izinketho ezimbili esikhundleni semibuzo evulekile, futhi ulinde isikhathi
+  eside kunaleso esivame ukuzwakala silungile. Ungaphikisani, ungalungisi futhi
+  ungabuzi imibuzo yokuhlola inkumbulo. Phendula imizwa esemuva kwamagama, futhi
+  usebenzise ukuthinta, izithombe nezimpawu zomzimba njengoba ukukhuluma kuba
+  nzima.
 keyPoints:
-  - "Nciphisani umsindo osemuva futhi nithole ukubukana ngamehlo ngaphambi kokuqala ukukhuluma."
-  - "Sebenzisani imisho emifushane, umbono owodwa ngesikhathi, namagama abantu esikhundleni sokusebenzisa nje “yena” noma “bona”."
-  - "Nikezani ukukhetha phakathi kwezinto ezimbili, noma umbuzo othi yebo-noma-cha, kunemibuzo evulekile."
-  - "Lindani impendulo. Uma bengaqondwa, phindani amagama afanayo, bese nizama amasha."
-  - "Ningaphikisani noma nilungise. Phendulani umuzwa osemuva kwalokho abakushoyo."
-  - "Lapho amagama ehla, xhumanani ngokuthinta, ithoni yezwi, ukubukeka kobuso nezithombe enabelana ngazo."
+  - "Nciphisa umsindo ongemuva futhi uqiniseke ukuthi nibhekene emehlweni ngaphambi kokuba uqale ukukhuluma."
+  - "Sebenzisa imisho emifushane, umqondo owodwa ngesikhathi, namagama abantu esikhundleni sokuthi u-, yena noma bona."
+  - "Nikeza ukukhetha phakathi kwezinto ezimbili, noma umbuzo ophendulwa ngo-yebo noma cha, esikhundleni semibuzo evulekile."
+  - "Linda impendulo. Uma engaqondwa, phinda amagama afanayo, bese uzama amanye amagama."
+  - "Ungaphikisani noma ulungise. Phendula imizwa esemuva kwalokho akushoyo."
+  - "Njengoba amagama encipha, xhumanani ngokuthinta, izwi, ukubukeka kobuso nezithombe enizibuka ndawonye."
 faq:
-  - q: "Yini okungafanele ishiwo kumuntu one-dementia?"
-    a: "Gwemani ukubuza ukuhlola (“Uyakhumbula...?”), ukulungisa (“Lokho akulungile”), ukubakhumbuza ngokulahlekelwa (“Sengikutshelile”) nokukhuluma ngabo sengathi abekho. Gwemani ukukhuluma ngolimi lwezingane ezincane. Lokhu kuvame ukubangela amahloni noma ukukhathazeka ngaphandle kokusiza."
-  - q: "Kufanele yini ngibalungise uma beyenza iphutha ngamaqiniso?"
-    a: "Ngokuvamile cha. Uma iphutha lingenabungozi, lishiyeni. Ukuphikisana akuvamile ukushintsha umqondo womuntu futhi kuvame ukumcasula. Gxilani ekutheni uzizwa kanjani nokuthi udingani manje."
-  - q: "Ngenzenjani uma bengakwazi ukuthola igama?"
-    a: "Nikeze isikhathi kuqala. Uma kusobala ukuthi bayanda, kulungile ukunikeza igama ngomusa noma ukuqagela abakushoyo nibuze. Ukukhomba, izinkomba zomzimba nezithombe nakho kungasiza."
-  - q: "Ngikhuluma kanjani nomuntu one-dementia esigabeni sokuphela okhuluma kancane?"
-    a: "Sondelani ngaphambili, nisho ukuthi ningobani, futhi nisebenzise izwi elithulile nokuthinta okuthambile. Bhekani ubuso nolimi lomzimba ukuze nibone imizwa. Ukuba khona kwenu, ingoma eyaziwayo noma ukubambana ngezandla kungaxhumana okuningi ngaphandle kwamagama."
+  - q: "Yini okungafanele uyisho kumuntu ophila nokuwohloka kwengqondo?"
+    a: "Gwema imibuzo yokuhlola inkumbulo („Uyakhumbula...?“), ukulungisa („Lokho akulungile“), ukumkhumbuza ngokulahlekelwa („Ngikutshelile vele“) nokukhuluma ngaye sengathi akekho. Gwema ukukhuluma njengokungathi ukhuluma nengane. Lokhu kuvame ukudala amahloni noma ukucindezeleka ngaphandle kokusiza."
+  - q: "Ingabe kufanele ngimlungise uma esho into engalungile?"
+    a: "Ngokuvamile akudingeki. Uma iphutha lingalimazi, liyeke. Ukuphikisana akuvamile ukushintsha umqondo womuntu futhi kuvame ukumkhathaza. Gxila endleleni azizwa ngayo nakulokho akudingayo manje."
+  - q: "Ngenzenjani uma engalitholi igama?"
+    a: "Mqale ngokumnika isikhathi. Uma kubonakala ngokucacile ukuthi uyazabalaza, kulungile ukusikisela igama ngobumnene noma ukuqagela ukuthi uqonde ukuthini bese uyabuza. Ukukhomba, izimpawu zomzimba nezithombe nakho kungasiza."
+  - q: "Ngikhuluma kanjani nomuntu osesigabeni sakamuva sokuwohloka kwengqondo ongakhulumi kakhulu?"
+    a: "Sondela phambi kwakhe, usho ukuthi ungubani, futhi usebenzise izwi elizolile nokuthinta ngobumnene. Bheka ubuso nomzimba wakhe ukuze uqonde imizwa. Ukuba khona kwakho, ingoma ajwayele ukuyizwa noma ukubambana izandla kungakhuluma okuningi ngaphandle kwamagama."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-I-dementia ingenza kube nzima ukuthola amagama, ukulandela umusho omude, noma ukuvimba umsindo osemuva. Akukho kulokho okusho ukuthi umuntu uyekile ukufuna ukuxhumana. Izinguquko ezincane endleleni enihlela ngayo ingxoxo, ekhulumeni nasekulaleleni kungenza ukukhuluma kube lula futhi kuthule kunobabili.
+Ukuwohloka kwengqondo kungenza kube nzima ukuthola amagama, ukulandela umusho omude noma ukunganaki umsindo ongemuva. Lokho akusho ukuthi umuntu useyekile ukufuna ukuxhumana nabanye. Izinguquko ezincane endleleni olungiselela ngayo ingxoxo, indlela okhuluma ngayo nendlela olalela ngayo zingenza ukukhuluma kube lula futhi kuthule kakhudlwana kini nobabili.
 
-## Yiziphi izeluleko ezibaluleke kakhulu zokukhuluma nomuntu one-dementia?
+## Yimaphi amathiphu abaluleke kakhulu okuxoxa nomuntu ophila nokuwohloka kwengqondo?
 
-Tholani ukunaka kwabo, gcina kulula, futhi yibani nesineke. Uma nikhumbula izinto ezinhlanu kuphela:
+Thola ukunaka kwakhe, gcina izinto zilula, futhi ube nesineke. Uma ukhumbula izinto ezinhlanu kuphela:
 
-1. **Thulisani igumbi futhi nibhekane nabo.** Valani ithelevishini, hlalani ezingeni lamehlo, futhi nisebenzise igama labo.
-2. **Shoni into eyodwa ngesikhathi.** Imisho emifushane, umbono owodwa, umbuzo owodwa.
-3. **Nikezani ukukhetha phakathi kwezinto ezimbili.** “Itiye noma ikhofi?” lilula kuno-“Ufuna ini?”
-4. **Lindani.** Nikezani isikhathi esiningi sokuphendula kunalokho okuzwakala kujwayelekile, futhi nizame ukungavimbi.
-5. **Ningaphikisani noma nihlole.** Phendulani ukuthi bazizwa kanjani, hhayi ukuthi amaqiniso alungile yini.
+1. **Thulisa igumbi bese nibhekana.** Cisha i-TV, hlala ezingeni lamehlo akhe, futhi usebenzise igama lakhe.
+2. **Yisho into eyodwa ngesikhathi.** Imisho emifushane, umqondo owodwa, umbuzo owodwa.
+3. **Nikeza ukukhetha phakathi kwezinto ezimbili.** „Itiye noma ikhofi?“ kulula kunokuthi „Ufuna ukuphuza ini?“
+4. **Linda.** Nikeza isikhathi esiningi sempendulo kunaleso esivame ukuzwakala silungile, futhi uzame ukungamphazamisi.
+5. **Ungaphikisani noma ubuze imibuzo yokuhlola inkumbulo.** Phendula indlela azizwa ngayo, hhayi ukuthi amaqiniso alungile yini.
 
-## Ngiqala kanjani ingxoxo?
+## Kufanele ngiyiqale kanjani ingxoxo?
 
-Lungisani izinto ukuze umuntu agxile kinina. [Umhlahlandlela we-Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) uncoma ukunciphisa umsindo kuqala: vala umsakazo noma ithelevishini, vala amakhethini noma umnyango, noma niye endaweni ethule kakhulu.
+Lungiselela izinto ukuze umuntu akwazi ukugxila kuwe. [Umhlahlandlela we-Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) uncoma ukuthi uqale ngokunciphisa umsindo: cisha umsakazo noma i-TV, vala amakhethini noma umnyango, noma niye endaweni ethule kakhudlwana.
 
-- **Sondelani ngaphambili.** Ukuza ngemuva noma ngasohlangothini kungamethusa.
-- **Shoni ukuthi ningobani.** “Sawubona Baba, nginguSarah, indodakazi yakho.” Lokhu kumsindisa ekufuneni igama lenu.
-- **Fikani ezingeni labo.** Uma behleli, hlalani noma nigobe ukuze amehlo enu alingane.
-- **Hlolani ubuso nethoni yenu.** I-[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) incoma ukwazi ithoni yenu, ivolumu, ukubukeka kobuso nolimi lomzimba, nokuhlosa indlela efudumele, ethula.
-- **Qinisekisani ukuthi izingilazi zamehlo nezinsiza zokuzwa zifakiwe.** Kunzima ukulandela ingxoxo ongakwazi ukuyibona noma ukuyizwa ngokuphelele.
+- **Sondela phambi kwakhe.** Ukuza ngemuva noma eceleni kungamethusa.
+- **Yisho ukuthi ungubani.** „Sawubona baba, yimina uSarah, indodakazi yakho.“ Lokhu kuyamsiza angadingi ukufuna igama lakho.
+- **Yehlela ezingeni lakhe.** Uma ehleli, hlala noma guqa ukuze amehlo enu abe sezingeni elifanayo.
+- **Qaphela ubuso bakho nezwi lakho.** [I-National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) iyeluleka ukuthi uqaphele izwi lakho, ukuphakama kwalo, ukubukeka kobuso bakho nomzimba wakho, futhi uzame ukuba nomoya ofudumele noqondile.
+- **Qiniseka ukuthi izibuko namehlo kanye nezinsiza zokuzwa zikhona.** Kunzima ukulandela ingxoxo ongeke uyibone noma uyizwe kahle.
 
-## Ngikubeka kanjani engikushoyo?
+## Kufanele ngiwabeke kanjani amagama engiwashoyo?
 
-Sebenzisani amagama alula, imisho emifushane nezwi elithulile, eliphansi.
+Sebenzisa amagama alula, imisho emifushane nezwi elizolile neliphansi.
 
-- **Umbono owodwa emshweni ngamunye.** “Ake sifake ibhantshi lakho. Bese siphuma ngaphandle.” Hhayi kokubili ngomphefumulo owodwa.
-- **Sebenzisani amagama, hhayi nje “yena” noma “bona”.** “UJean ushayele ucingo” kucacile kune-“Ushayele ucingo.”
-- **Yehlisani izwi, ningalikhuphuli.** I-Family Caregiver Alliance iphakamisa izwi eliphansi kunelikhuphuliwe.
-- **Phindani, bese nishintsha amagama.** Uma bengaqondanga, phindani amagama afanayo kanye. Uma lokho kungasebenzi, lindani umzuzu bese nizama amagama ahlukile.
-- **Khombisani futhi nisho.** Khombani indebe, phakamisani omajezi ababili, noma nikhombise isinyathelo sokuqala.
-- **Khulumani nabo, hhayi ngabo.** I-NIA ixwayisa ngokukhuluma ngomuntu sengathi akekho, nangokukhuluma ngolimi lwezingane ezincane.
+- **Umqondo owodwa emshweni ngamunye.** „Asigqoke ijazi lakho. Bese siyaphuma.“ Hhayi kokubili ngesikhathi esisodwa.
+- **Sebenzisa amagama abantu, hhayi izabizwana.** „U-Anti Jean ushayile ucingo“ kucacile kunokuthi „Ushayile ucingo.“
+- **Yehlisa izwi, ungakhulumi kakhulu.** I-Family Caregiver Alliance iphakamisa izwi eliphansi kunelizwakala liphakeme.
+- **Phinda, bese uchaza ngenye indlela.** Uma engaqondanga, phinda amagama afanayo kanye. Uma lokho kungasebenzi, linda kancane bese uzama amanye amagama.
+- **Khombisa futhi usho.** Khomba inkomishi, phakamisa amajezi amabili, noma ukhombise isinyathelo sokuqala.
+- **Khuluma naye, hhayi ngaye.** I-NIA ixwayisa ngokukhuluma ngomuntu sengathi akekho, nangokukhuluma njengokungathi ukhuluma nengane.
 
-I-NIA iphakamisa izinhlobo ezilula zemibuzo ejwayelekile. Nazi izibonelo ngalo moya:
+I-NIA iphakamisa izindlela ezilula zemibuzo evamile. Nazi izibonelo ezihambisana nalokho:
 
-| Esikhundleni salokhu | Zamani |
+| Esikhundleni sokuthi | Zama lokhu |
 | --- | --- |
-| “Ufuna ukudlani ngesidlo sakusihlwa?” | “Ufuna inhlanzi noma inkukhu?” |
-| “Uzizwa kanjani?” | “Uzizwa ukhathele?” |
-| “Ulambile?” | “Isidlo sakusihlwa sizobe sesilungile ngemizuzu emihlanu.” |
-| “Akwenziwa kanjalo.” | “Ake sizame ngale ndlela.” |
-| “Uyalikhumbula uhambo lwethu oluya echibini?” | “Bengicabanga ngohambo lwethu oluya echibini. Ngitshele ukuthi yini obuyithanda kulo.” |
-| “Ngikutshelile kakade.” | Phendulani futhi, ngomusa, sengathi kuyisikhathi sokuqala. |
+| „Ufuna ukudlani kusihlwa?“ | „Ufuna inhlanzi noma inkukhu?“ |
+| „Uzizwa kanjani?“ | „Uzizwa ukhathele?“ |
+| „Ulambile?“ | „Ukudla kwakusihlwa kuzobe sekulungile emizuzwini emihlanu.“ |
+| „Ayikho indlela oyenza ngayo leyo.“ | „Asizame ngendlela le.“ |
+| „Uyakhumbula uhambo lwethu oluya echibini?“ | „Bengicabanga ngohambo lwethu oluya echibini. Ngitshele ukuthi yini oyithandile ngalo.“ |
+| „Ngikutshelile vele.“ | Phendula futhi, ngomusa, sengathi okokuqala. |
 
-## Ngilalela kanjani kahle?
+## Ngingalalela kanjani kahle?
 
-Lalelani incazelo nomuzwa, hhayi nje amagama.
+Lalela incazelo nemizwa, hhayi amagama kuphela.
 
-- **Lindani.** Ukuthula kuvame ukuba yisikhathi sokucabanga. Balani kancane kuze kube yishumi ngaphambi kokungena.
-- **Nikezani igama kuphela uma bebambekile.** I-Family Caregiver Alliance ithi kulungile ukuphakamisa amagama lapho umuntu enenkinga.
-- **Hlolani lokho enikuzwile.** [Umhlahlandlela we-Alzheimer's Association wokuxhumana](https://www.alz.org/help-support/caregiving/daily-care/communications) uphakamisa ukufuna incazelo emuva kwamagama abo nokuyiphinda ukuze nihlole ukuthi niyiqondile. “Ukhathazekile ngemoto?”
-- **Bhekani ubuso nomzimba wabo.** Njengoba ukukhuluma kuya ngokuba nzima, i-NIA iphawula, ukubukeka kobuso kungase kubonise usizi, ulaka noma ukuphoxeka ngokucacile kunamagama.
-- **Thathani izikhathazi zabo njengezibalulekile.** Ngisho noma ukukhathazeka kusekelwe emaqinisweni angalungile, umuzwa uyiqiniso.
+- **Linda.** Ukuthula kuvame ukuba isikhathi sokucabanga. Bala kancane ufike eshumini ngaphambi kokungenelela.
+- **Siza ngegama kuphela uma ebambekile.** I-Family Caregiver Alliance ithi kulungile ukuphakamisa amagama uma umuntu ezabalaza.
+- **Qinisekisa lokho okuzwile.** [Umhlahlandlela we-Alzheimer's Association wokuxhumana](https://www.alz.org/help-support/caregiving/daily-care/communications) uphakamisa ukuthi ubheke incazelo esemuva kwamagama akhe bese uyiphinda ukuze uqinisekise ukuthi uqondile. „Ukhathazekile ngemoto?“
+- **Bheka ubuso bakhe nomzimba wakhe.** Njengoba ukukhuluma kuba nzima, i-NIA iphawula ukuthi ukubukeka kobuso kungase kubonise ukudabuka, intukuthelo noma ukukhungatheka ngokucacile kunamagama.
+- **Thatha ukukhathazeka ngokungathi sína.** Ngisho noma ukukhathazeka kusekelwe eqinisweni elingalungile, umuzwa wangempela.
 
-## Kuthiwani uma bethi okuthile okungeyona iqiniso?
+## Kuthiwani uma esho into engeyilo iqiniso?
 
-Ningaphikisani. Akunakwenzeka ukuthi nizinqobe, futhi umuntu angaphetha ngokuzizwa ehlazekile noma esaba. Esikhundleni salokho, xhumanani nomuzwa, bese niqhubekela phambili ngomusa.
+Ungaphikisani. Cishe ngeke uwine, futhi umuntu angagcina ezizwa enamahloni noma esaba. Esikhundleni salokho, xhumana nomuzwa, bese uqhubeka ngobumnene.
 
-I-Family Caregiver Alliance iphakamisa ukuvuma umuzwa ngaphambi kokuthi niwuhambise kwenye indawo. Isibonelo, uma umama wenu esho ngokuqinile ukuthi kufanele athathe izingane esikoleni:
+I-Family Caregiver Alliance iphakamisa ukuthi uvume umuzwa ngaphambi kokuba uqondise ingxoxo kwenye indawo. Isibonelo, uma umama wakho ephikelela ngokuthi kumele ayolanda izingane esikoleni:
 
-- Esikhundleni salokhu: “Mama, izingane zakho sezikhulile. Kwakuyiminyaka engu-40 edlule.”
-- Zamani: “Wawuhlale uyisimame onakekelayo. Ngitshele ngokuzithatha. Ake sidle okuthile kuqala?”
+- Esikhundleni sokuthi: „Mama, izingane zakho sezikhulile. Lokho kwenzeka eminyakeni engamashumi amane edlule.“
+- Zama lokhu: „Wawuhlale ungumama onothando kakhulu. Ngitshele ngokuzilanda. Singaqale ngokudla okuncane kuqala?“
 
-I-Alzheimer's Association iphinde income ukungaphikisani ngezitatimende ongavumelani nazo. Khethani izikhathi zenu: uma inkolelo engalungile ingenabungozi, yiyeni.
+I-Alzheimer's Association iphinde yeluleke ukuthi ungaphikisani nezitatimende ongavumelani nazo. Khetha izikhathi zakho: uma inkolelo engalungile ingalimazi, yiyeke ibe njalo.
 
-## Ukuxhumana kushintsha kanjani njengoba i-dementia iqhubeka?
+## Ukuxhumana kushintsha kanjani njengoba ukuwohloka kwengqondo kuqhubeka?
 
-Izidingo ziyashintsha ngokuhamba kwesikhathi, ngakho lungisani indlela yenu. I-Alzheimer's Association ichaza izigaba ezintathu ezibanzi:
+Izidingo ziyashintsha ngokuhamba kwesikhathi, ngakho lungisa indlela yakho. I-Alzheimer's Association ichaza izigaba ezintathu ezibanzi:
 
-| Isigaba | Okusizayo |
+| Isigaba | Okungasiza |
 | --- | --- |
-| Sokuqala | Ningacabangi ukuthi abakwazi ukuxhumana. Bafakeni ezingxoxweni, khulumani nabo ngqo, buzani ukuthi yisiphi usizo abalufunayo, futhi nisebenzise amahlaya uma kusiza. |
-| Maphakathi | Izingxoxo munye-nomunye endaweni ethulile. Khulumani kancane, gcinani ukubukana ngamehlo, sebenzisani imibuzo ethi yebo-noma-cha, nikeze iziqondiso zesinyathelo ngesinyathelo, futhi ningagxeki noma nilungise. |
-| Sokuphela | Sondelani ngaphambili futhi nisho ukuthi ningobani. Khuthazani ukukhomba nezinkomba zomzimba. Sebenzisani ukuthinta, imisindo, okubonwayo nokuhogelwayo. Ningalokothi nikhulume sengathi abekho. |
+| Ekuqaleni | Ungacabangi ukuthi akakwazi ukuxhumana. Mbandakanye ezingxoxweni, khuluma naye ngqo, buza ukuthi yiluphi usizo alufunayo, futhi usebenzise amahlaya uma kusiza. |
+| Phakathi nendawo | Izingxoxo zomuntu oyedwa endaweni ethule. Khuluma kancane, gcina nibhekene emehlweni, sebenzisa imibuzo ephendulwa ngo-yebo noma cha, nikeza imiyalelo isinyathelo ngesinyathelo, futhi ungagxeki noma ulungise. |
+| Kamuva | Sondela phambi kwakhe bese usho ukuthi ungubani. Khuthaza ukukhomba nezimpawu zomzimba. Sebenzisa ukuthinta, imisindo, okubukwayo namaphunga. Ungakhulumi sengathi akekho. |
 
-Umuntu ngamunye uhlukile, futhi umuntu ofanayo angaba nezinsuku ezinhle nezinzima. Phendulani ukuthi bayiphi isimo manje, hhayi ilebuli.
+Wonke umuntu uhlukile, futhi umuntu oyedwa angaba nezinsuku ezinhle nezinzima. Phendula indlela anjalo ngayo manje, hhayi ilebula.
 
-## Izithombe nemisebenzi zingenza ingxoxo ibe lula?
+## Ingabe izithombe nemisebenzi kungenza ingxoxo ibe lula?
 
-Yebo. Isithombe esabelwanayo sisusa ingcindezi futhi sinikeza nobabili okuthile ongakubheka nokukukhomba.
+Yebo. Isithombe enisibuka ndawonye sinciphisa ingcindezi futhi sininika nobabili okuthile eningakubuka nikukhombe.
 
-- **Izithombe ezikhuthaza ingxoxo.** [Amakhadi Engxoxo](/games/conversation-cards/) anikeza izithombe ezinemibuzo evulekile engahloli.
-- **Izithombe zomndeni.** [Amapheya Ezithombe Zomndeni](/games/photo-pairs/) enza izithombe ozikhethayo zibe umdlalo othambile wokufanisa, ovame ukuvusa izindaba.
-- **Izisho ezaziwayo.** [Qeda Isisho](/games/finish-the-saying/) isebenzisa izisho zesiNgisi zase-US ezaziwayo, ezilandelwa umbuzo wengxoxo.
-- **Imidlalo yokufanisa njengendawo yangasemuva.** [Amapheya Ezithombe](/games/picture-pairs/) anikeza izandla zenu okuthile okufanele zikwenze ngenkathi nixoxa.
+- **Izikhuthazi zezithombe.** [Conversation Cards](/games/conversation-cards/) inikeza izithombe ezinemibuzo evulekile engahloli inkumbulo.
+- **Izithombe zomndeni.** [Photo Pairs](/games/photo-pairs/) iguqula izithombe ozikhethayo zibe umdlalo omnene wokuqondanisa, ovame ukuvusa izindaba.
+- **Izisho ezijwayelekile.** [Finish the Saying](/games/finish-the-saying/) isebenzisa izisho ezaziwayo zaseMelika, zilandelwe umbuzo wokuxoxa.
+- **Imidlalo yokuqondanisa njengesisekelo sengxoxo.** [Picture Pairs](/games/picture-pairs/) inikeza izandla zenu okuthile okungenziwa ngenkathi nixoxa.
 
-Bhekani [indlela yokudlala imidlalo ndawonye](/caregiving/how-to-play-together/) kanye [nemisebenzi yokukhumbula](/activities/reminiscence/) ukuthola okwengeziwe. Ngokuvakasha nezingcingo, funda imihlahlandlela yethu ye-[ukuvakasha](/activities/visiting/) kanye [nezingcingo namakholi evidiyo](/activities/phone-and-video-calls/).
+Bheka [indlela yokudlala imidlalo ndawonye](/caregiving/how-to-play-together/) kanye [nemisebenzi yokukhumbula](/activities/reminiscence/) ukuze uthole okwengeziwe. Ukuze uthole ulwazi ngokuvakasha nezingcingo, funda imihlahlandlela yethu mayelana [nokuvakasha](/activities/visiting/) kanye [nezingcingo nezingcingo zevidiyo](/activities/phone-and-video-calls/).
 
-## Kuthiwani uma ngilahlekelwa yisineke?
+Uma umuntu ekhuluma izilimi ezingaphezu kolulodwa, bheka [umhlahlandlela wethu wokuxhumana ngezilimi ezahlukene](/caregiving/language-and-dementia-communication/).
 
-Kwenzeka kubo bonke. I-NIA iphakamisa ukuthi uma niphoxeka, nithathe isikhathi ukuze nihlise umoya. Ngenani kwelinye igumbi, phefumulani kancane izikhathi ezimbalwa, futhi nibuye uma nikwazi. Ningaqala ingxoxo kabusha noma nini, futhi umuntu angase aphendule isimo senu esithule kakhulu. Uma ukuphoxeka kuba njalo, lokho kuyisibonakaliso sokuthi nidinga usizo olwengeziwe, hhayi ukuthi niyahluleka. [Umhlahlandlela wethu wokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) unezindawo ongaphendukela kuzo.
+## Kuthiwani uma ngiphelelwa isineke?
+
+Kwenzeka kuwo wonke umuntu. I-NIA iphakamisa ukuthi uma ukhungatheka, uzinike isikhathi sokuthola ukuzola. Iya kwelinye igumbi, uphefumule kancane izikhathi ezimbalwa, bese ubuya uma usukwazi. Ungakwazi njalo ukuqala ingxoxo futhi, futhi kungenzeka ukuthi umuntu aphendule kangcono esimweni sakho esizolile. Uma ukukhungatheka sekuphenduke into ehlala njalo, lokho kuwuphawu lokuthi udinga ukwesekwa okwengeziwe, hhayi ukuthi uyehluleka. Umhlahlandlela wethu mayelana [nokuzinakekela komnakekeli](/caregiving/caregiver-self-care/) unezindawo ongaphendukela kuzo.

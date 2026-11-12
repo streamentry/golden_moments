@@ -1,33 +1,34 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "Dementia Rogena Sahajīvantena Saddhiṃ Kathane Upāyā"
+seoTitle: "Dementia Kathane Upāyā: Kiṃ Vattabbaṃ, Kiṃ Vajjeyyaṃ"
+description: "Dementia rogena sahajīvantena saddhiṃ kathanāya upāyā: kathaṃ ārabheyya, kiṃ vadeyya, kiñca sādhukaṃ suṇeyya."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  Santavihāre ṭhāne kathatha, tassa sammukhaṃ nisīdatha, nāmena āmantetha, ca
+  saṇikaṃ saṅkhittāhi saralāhi vācāhi vadatha. Ekasmiṃ khaṇe ekaṃ pañhaṃ pucchatha,
+  vivatapañhānaṃ ṭhāne dve vikalpe detha, ca yathābhūtato dīghataraṃ kālaṃ
+  paṭimānetha. Na vivadatha, na sodhetha, na parikkhatha. Vacanānaṃ pacchato
+  vedanaṃ paṭivadatha; vācā dubbalaṃ honti, phassa-sadda-mukhabhāva-cittesu ca
+  sahabhāgehi saññāpetha.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "Kathanārambhato pubbe parito saddaṃ hāpetvā tassa cakkhūhi samphassaṃ karotha."
+  - "Saṅkhittā vācā, ekasmiṃ khaṇe ekaṃ atthaṃ, ca so, sā, te ti nāmānaṃ ṭhāne nāmaṃ payojetha."
+  - "Vivatapañhānaṃ ṭhāne dve vikalpe vā āma-na-pañhaṃ vā pucchatha."
+  - "Uttaraṃ paṭimānetha. Sace na bujjhati, tāneva saddāni puna vadatha, tato aññe saddāni payojetha."
+  - "Na vivadatha, na sodhetha. Yaṃ vuttaṃ, tassa pacchato vedanaṃ paṭivadatha."
+  - "Saddā hāyante, phassena, sarena, mukhabhāvena ca sahabhāgehi cittehi saññāpetha."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "Dementia rogena sahajīvantena saddhiṃ kiṃ na vattabbaṃ?"
+    a: "Parikkhāpañhe (\"Sarasi nu...?\") vajjetha, sodhanaṃ (\"Taṃ micchā\") vajjetha, hāniṃ anussaraṇaṃ (\"Ahaṃ pubbe vuttavā\") vajjetha, ca tassa asammukhā viya kathanampi vajjetha. Bālakathanaṃ vajjetha. Ime ākārā lajjāṃ vā dukkhaṃ vā uppādenti, na ca sahāyakā honti."
+  - q: "Sace so tathyaṃ virujjhati, sodhetabbaṃ nu?"
+    a: "Yebhuyyena no. Sace viruddhaṃ tathyaṃ ahitaṃ na hoti, taṃ vissajjetha. Vivādo tassa matiṃ viralaṃ parivatteti, bahudhā pana taṃ dukkhiṃ karoti. Idāni tassa vedanāya ca tass’ atthāya ca manasikarotha."
+  - q: "Sace saddaṃ na labhati, kiṃ kātabbaṃ?"
+    a: "Paṭhamaṃ kālaṃ detha. Sace so pākaṭaṃ kilamati, mudukena saddaṃ upanetuṃ vā yaṃ adhippetaṃ taṃ anuminitvā pucchituṃ vā yujjati. Aṅguliyā dassanaṃ, hatthavikārā, citrāni ca sahāyakāni honti."
+  - q: "Antimāvasthāya dementia rogena sahajīvantena, yo viralaṃ katheti, kathaṃ kathitabbaṃ?"
+    a: "Sammukhato upagantvā attānaṃ nivedetha, santaṃ saddaṃ mudukañca phassaṃ payojetha. Vedanāsu mukhāni ca sarīrabhāvañca oloketha. Tumhākaṃ sannidhānaṃ, paricito gītaṃ vā hatthaggahaṇaṃ vā, saddavirahitepi bahuṃ saññāpetuṃ sakkoti."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+Dementia saddānaṃ gavesanaṃ, dīghaṃ vācaṃ anugamanaṃ, vā parito saddaṃ nivāranaṃ dukkaraṃ kātuṃ sakkoti. Etaṃ na dasseti yaṃ so sambandhaṃ icchituṃ virato. Kathaṃ kathanaṃ sajjetha, kathaṃ vadeyya, kathaṃ suṇeyya ti appakesu parivattanesu ubhinnaṃ kathanā sukhatarā santatarā ca bhavituṃ sakkoti.
 
-## What are the most important tips for talking with someone who has dementia?
+## Dementia rogena sahajīvantena saddhiṃ kathane sabbapadhānā upāyā ke?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+Tassa manasikāraṃ labhatha, saralaṃ karotha, khamatha. Sace pañca eva dhāretha:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **Gharaṃ santaṃ karotha, sammukhaṃ nisīdatha.** Dūrasaddaṃ vā dūrasaddanissaraṇaṃ vā nibbāpetha, cakkhusamena ṭhāne nisīdatha, ca tassa nāmena āmantetha.
+2. **Ekasmiṃ khaṇe ekaṃ vadatha.** Saṅkhittā vācā, eko attho, eko pañho.
+3. **Dve vikalpe detha.** «Teyyo vā kāphī vā?» ti pucchanaṃ «Kiṃ icchasi?» ti vivatapañhato sukharaṃ hoti.
+4. **Paṭimānetha.** Uttarāya yathābhūtato dīghataraṃ kālaṃ detha, ca antarā na chindatha.
+5. **Na vivadatha, na parikkhatha.** Tathyehi sammattehi vā asammattehi vā, tassa vedanaṃ paṭivadatha.
 
-## How should I start a conversation?
+## Kathaṃ kathanaṃ ārabheyyaṃ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+Evaṃ sajjetha yathā so tumhesu manasikātuṃ sakkoti. [Family Caregiver Alliance maggo](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) paṭhamaṃ parito saddaṃ hāpetuṃ ovadati: radiyo vā dūrasaddaṃ vā nibbāpetha, pavesanapaṭṭaṃ vā dvāraṃ vā pidahatha, vā santataraṃ ṭhānaṃ gacchatha.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **Sammukhato upagacchatha.** Pacchato vā passato vā āgamanaṃ taṃ ubbijjāpetuṃ sakkoti.
+- **Attānaṃ nivedetha.** «Namo tāta, ahaṃ Sārā, tava dhītā.» Evaṃ so tumhākaṃ nāmaṃ gavesituṃ na kilamati.
+- **Tassa samena ṭhāne nisīdatha.** Sace so nisinno, nisīdatha vā jāṇukehi ṭhatha vā yathā tumhākaṃ cakkhūni samāni honti.
+- **Tumhākaṃ mukhaṃ ca saddaṃ ca oloketha.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) sarassa, uccatāya, mukhabhāvassa ca sarīrabhāvassa ca satiṃ dhāretuṃ, ca usumaṃ pākaṭaṃ ākāraṃ payojetuṃ ovadati.
+- **Cakkhupāni ca savana-sahāyakāni ca yathāṭhāne santi ti vīmaṃsatha.** Yaṃ na sakkā sammā passituṃ vā sotuṃ vā, taṃ anugantuṃ dukkaraṃ hoti.
 
-## How should I phrase what I say?
+## Kiṃ vadāmi, kathaṃ vattabbaṃ?
 
-Use simple words, short sentences and a calm, low voice.
+Sarale sadde, saṅkhitte vācā, santañca nīcañca saddaṃ payojetha.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **Ekāya vācāya eko attho.** «Āgaccha, nivāsanaṃ nivāsema. Tato bahi gacchissāma.» Na ekaṃsena ubho.
+- **Sarvanāmānaṃ ṭhāne nāmāni payojetha.** «Jean mātulā pakkositvā avadi» ti «Sā pakkositvā avadi» ti tato pākaṭataraṃ hoti.
+- **Nīcataraṃ, na uccataraṃ.** Family Caregiver Alliance uccasaddato nīcasaddaṃ ovadati.
+- **Puna vadatha, tato aññathā vadatha.** Sace na bujjhi, tāneva saddāni ekavāraṃ puna vadatha. Sace na sampajjati, khaṇaṃ paṭimānetvā aññehi saddehi vadatha.
+- **Dassethāpi, na kevalaṃ vadatha.** Kapālaṃ dassetha, dve nivāsane uṭṭhāpetha, vā paṭhamaṃ padaṃ dassetha.
+- **Tena saddhiṃ kathatha, na tassa pariyantato.** NIA taṃ janaṃ asammukhaṃ viya kathaṃ, bālakathañca vajjetuṃ ovadati.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA sāmantapañhānaṃ saralataraṃ rūpaṃ dasseti. Idha tādisā udāharaṇāni:
 
-| Instead of | Try |
+| Etassa ṭhāne | Evaṃ vadatha |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| «Sāyaṃbhojane kiṃ icchasi?» | «Macchaṃ vā kukkuṭamaṃsaṃ vā icchasi?» |
+| «Kathaṃ vedesi?» | «Kilanto asi nu?» |
+| «Jighacchā atthi nu?» | «Pañca-nimisesu sāyaṃbhojanaṃ sajjaṃ bhavissati.» |
+| «Evaṃ na kātabbaṃ.» | «Etena ākārena karoma.» |
+| «Sarasi nu amhākaṃ taḷākayātrā?» | «Amhākaṃ taḷākayātrā anussarāmi. Tattha kiṃ te rucci, taṃ kathehi.» |
+| «Ahaṃ pubbe vuttavā.» | Mettāya puna vadatha, paṭhamaṃ viya. |
 
-## How do I listen well?
+## Kathaṃ sādhukaṃ suṇeyyaṃ?
 
-Listen for the meaning and the feeling, not just the words.
+Kevalaṃ sadde na, atthaṃ ca vedanañca suṇātha.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **Paṭimānetha.** Tuṇhībhāvo bahudhā cintanakālo hoti. Antarā pavisitvā pubbe dasa gaṇetha.
+- **Sace so laggo hoti, saddaṃ upanetha.** Family Caregiver Alliance vadati: yo kilamati, tassa saddāni upanetuṃ yujjati.
+- **Yaṃ sutaṃ taṃ vīmaṃsatha.** [Alzheimer's Association kathana-maggo](https://www.alz.org/help-support/caregiving/daily-care/communications) tassa saddānaṃ pacchato atthaṃ gavesituṃ, ca taṃ puna vatvā sammā bujjhitanti vīmaṃsitunti ovadati. «Rathassa atthāya cintesi nu?»
+- **Mukhāni ca sarīrabhāvañca oloketha.** Vācā dukkarā honti, NIA vadati, mukhabhāvā sokaṃ, kodhaṃ vā vibādhaṃ vā saddehi pākaṭataraṃ dassetuṃ sakkonti.
+- **Tassa cintā gambhīraṃ gaṇhatha.** Sace cintā viruddhatathye patiṭṭhitāpi, vedanā saccā hoti.
 
-## What if they say something that is not true?
+## Sace so asaccaṃ vadati, kiṃ kātabbaṃ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+Na vivadatha. Tumhe jinituṃ na sakkhissatha, so ca lajjito vā bhīto vā bhavituṃ sakkoti. Tassa ṭhāne vedanāya sambandhaṃ karotha, tato mudukena aññattha gacchatha.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance vadati: aññattha nayituṃ pubbe vedanaṃ sampaṭicchatha. Udāharaṇaṃ: sace tumhākaṃ mātā dārake pāṭhasālāto gahetuṃ gantabbaṃ ti daḷhaṃ vadati:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- Etassa ṭhāne: «Amma, tava dārakā vuḍḍhā jātā. Taṃ cattālīsa vassāni atītāni.»
+- Evaṃ vadatha: «Tvaṃ sadā mettacittā mātā ahosi. Tesaṃ gahetvā āgamanaṃ kathehi. Paṭhamaṃ appakaṃ bhuñjāma nu?»
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association pi yaṃ tumhe na anujānātha, tattha vivādaṃ na kātunti ovadati. Khaṇaṃ cinotha: sace viruddhā diṭṭhi ahitā na hoti, taṃ ṭhātu.
 
-## How does communication change as dementia progresses?
+## Dementia vaḍḍhante kathanā kathaṃ parivattati?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+Kālena atthā parivattanti, tasmā tumhākaṃ ākāraṃ pi parivattetha. Alzheimer's Association tayo saṅkhepato avasthā dasseti:
 
-| Stage | What helps |
+| Avasthā | Yaṃ sahāyakaṃ hoti |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| Ādikā | So saññāpetuṃ na sakkotīti mā maññatha. Kathāsu taṃ antokarotha, tena saddhiṃ ujukaṃ kathatha, kiṃ sahāyaṃ icchatīti pucchatha, ca sace sahāyakaṃ hoti, hāsaṃ payojetha. |
+| Majjhimā | Santasmiṃ ṭhāne ekekena kathanaṃ. Saṇikaṃ kathatha, cakkhusamphassaṃ dhāretha, āma-na-pañhe pucchatha, padānupadaṃ ovādaṃ detha, ca na ujjhāyatha, na sodhetha. |
+| Antimā | Sammukhato upagacchatha, attānaṃ nivedetha. Aṅguliyā dassanaṃ hatthavikāre ca ussāhetha. Phassaṃ, sadde, dassanīye, gandhe ca payojetha. So asammukho viya mā kathatha. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+Ekoeko puggalo viseso hoti, ca ekasseva puggalassa sukhadivasā dukkhadivasā ca honti. Nāmena na, idāni so kathaṃ atthīti taṃ paṭivadatha.
 
-## Can pictures and activities make conversation easier?
+## Citrāni ca kammāni ca kathanāya sahāyakāni honti nu?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+Āma. Sahabhāgaṃ cittaṃ pīḷanaṃ hāpeti, ca ubhinnaṃ oloketuṃ dassetuñca kiñci deti.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **Cittanimantanāni.** [Conversation Cards](/games/conversation-cards/) citrāni vivatapañhehi saddhiṃ denti, ye kadāci na parikkhanti.
+- **Kulacitrāni.** [Photo Pairs](/games/photo-pairs/) tumhehi cinitāni citrāni mudukaṃ samayojanakammaṃ karoti, yaṃ bahudhā kathā uppādeti.
+- **Paricitā vācā.** [Finish the Saying](/games/finish-the-saying/) paricitā vacanāni payojeti, pacchā kathananimantanaṃ deti.
+- **Samayojanakammāni kathanaṭṭhāne.** [Picture Pairs](/games/picture-pairs/) kathentānaṃ hatthehi kiñci kātuṃ deti.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+Adhikaṃ [kathaṃ saha kīḷitabbaṃ](/caregiving/how-to-play-together/) ca [anussaraṇakammāni](/activities/reminiscence/) passatha. Dassanehi ca pakkosanehi atthāya amhākaṃ [dassana-maggo](/activities/visiting/) ca [dūrasadda-dūradassanapakkosana-maggo](/activities/phone-and-video-calls/) ca pathatha.
 
-## What if I lose my patience?
+Sace so anekabhāsāsu kusalo hoti, amhākaṃ [bhāsantarena kathana-maggo](/caregiving/language-and-dementia-communication/) passatha.
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## Sace mayhaṃ khanti hāyati, kiṃ kātabbaṃ?
+
+Etaṃ sabbesaṃ hoti. NIA vadati: sace vighātajāto hosi, samathaṃ pāpuṇituṃ kālaṃ gaṇhāhi. Aññaṃ gharaṃ pavisitvā, saṇikaṃ katipayavāre assāsa-passāsaṃ karitvā, sace sakkosi santena cittena puna āgaccha. Kathaṃ puna ārabhituṃ sakkā hoti, ca so tumhākaṃ santabhāvaṃ paṭivadituṃ sakkoti. Sace vighāto niccaṃ hoti, etaṃ dasseti yaṃ tumhākaṃ adhikaṃ sahāyo icchitabbo, na yaṃ tumhe asamatthā. Amhākaṃ [paṭijaggakassa attasaṅgaha-maggo](/caregiving/caregiver-self-care/) gatabbāni ṭhānāni dasseti.

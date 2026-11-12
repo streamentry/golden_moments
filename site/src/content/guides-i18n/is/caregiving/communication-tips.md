@@ -1,7 +1,7 @@
 ---
 title: "Samskiptaráð þegar þú talar við einhvern með heilabilun"
-seoTitle: "Samskiptaráð við heilabilun: Hvað á að segja"
-description: "Hagnýt ráð um samskipti við einhvern með heilabilun: hvernig á að undirbúa samtal, hvað á að segja í stað spurninga eða leiðréttinga og hvernig á að hlusta."
+seoTitle: "Samskipti við fólk með heilabilun: ráð og dæmi"
+description: "Hagnýt ráð um samskipti við einhvern sem lifir með heilabilun: hvernig á að undirbúa samtal, hvað má segja í stað þess að yfirheyra eða leiðrétta og hvernig á að hlusta."
 section: caregiving
 order: 2
 updated: 2026-10-25
@@ -9,26 +9,26 @@ translatedFrom: 2026-10-25
 summary: >-
   Talið á rólegum stað, snúið ykkur að viðkomandi, notið nafn hans eða hennar
   og talið hægt í stuttum, einföldum setningum. Spyrjið einnar spurningar í
-  einu, bjóðið upp á tvo kosti í stað opinna spurninga og bíðið lengur en
-  kannski finnst eðlilegt. Forðist rifrildi, leiðréttingar og yfirheyrslur.
-  Takið tillit til tilfinninganna á bak við orðin og notið snertingu, myndir
-  og bendingar eftir því sem tal verður erfiðara.
+  einu, bjóðið upp á tvo valkosti í stað opinna spurninga og bíðið lengur en
+  þykir eðlilegt. Ekki rífast, leiðrétta eða yfirheyra. Takið eftir
+  tilfinningunni á bak við orðin og notið snertingu, myndir og bendingar eftir
+  því sem talið verður erfiðara.
 keyPoints:
   - "Minnkið bakgrunnshljóð og náið augnsambandi áður en þið byrjið að tala."
-  - "Notið stuttar setningar, eina hugmynd í einu, og nöfn í stað hann, hún eða þau."
-  - "Bjóðið upp á tvo kosti eða já/nei-spurningu í stað opinna spurninga."
-  - "Bíðið eftir svari. Ef ekki næst samband, endurtakið sömu orðin og reynið svo önnur."
-  - "Forðist rifrildi og leiðréttingar. Takið tillit til tilfinninganna á bak við það sem sagt er."
+  - "Notið stuttar setningar, eina hugmynd í einu og nöfn í stað hans, hennar eða þeirra."
+  - "Bjóðið upp á tvo valkosti eða já/nei-spurningu í stað opinna spurninga."
+  - "Bíðið eftir svari. Ef skilningur næst ekki, endurtakið sömu orðin og prófið síðan önnur."
+  - "Ekki rífast eða leiðrétta. Takið eftir tilfinningunni á bak við það sem er sagt."
   - "Þegar orðin dvína má nota snertingu, tón, svipbrigði og sameiginlegar myndir til að eiga í samskiptum."
 faq:
   - q: "Hvað ætti maður ekki að segja við einhvern með heilabilun?"
-    a: "Forðist að yfirheyra („Manstu...?“), leiðrétta („Þetta er rangt“), minna á missi („Ég sagði þér þetta nú þegar“) og tala um viðkomandi eins og hann eða hún sé ekki viðstaddur. Forðist barnamál. Slíkt veldur oft vandræðum eða vanlíðan án þess að hjálpa."
-  - q: "Ætti ég að leiðrétta ef staðreyndir eru rangar?"
-    a: "Yfirleitt ekki. Ef rangt atriði skaðar ekki, er best að láta það liggja á milli hluta. Rifrildi breyta sjaldan skoðun viðkomandi og gera hann eða hana oft í uppnámi. Einbeitið ykkur að því hvernig viðkomandi líður og hvað hann eða hún þarfnast núna."
-  - q: "Hvað geri ég þegar viðkomandi finnur ekki orðið?"
-    a: "Gefið fyrst tíma. Ef greinilega er verið að glíma við að finna orðið, er í lagi að stinga varlega upp á orði eða giska á hvað átt er við og spyrja hvort það sé rétt. Að benda, nota bendingar og myndir getur líka hjálpað."
+    a: "Forðist að yfirheyra („Manstu eftir...?“), leiðrétta („Þetta er rangt“), minna á missi („Ég sagði þér þetta nú þegar“) og tala um viðkomandi eins og hann eða hún sé ekki viðstadd(ur). Forðist barnamál. Slíkt veldur oft skömm eða vanlíðan án þess að hjálpa."
+  - q: "Ætti ég að leiðrétta þegar staðreyndir eru rangar?"
+    a: "Yfirleitt ekki. Ef rangar staðreyndir valda ekki skaða er best að láta þær liggja. Rifrildi breyta sjaldan skoðun viðkomandi og gera hann eða hana oft í uppnámi. Einbeitið ykkur að því hvernig viðkomandi líður og hvers hann eða hún þarf núna."
+  - q: "Hvað geri ég þegar viðkomandi finnur ekki rétt orð?"
+    a: "Gefið fyrst tíma. Ef greinilega er verið að glíma við að finna orðið er í lagi að bjóða varlega fram orð eða giska á hvað átt er við og spyrja hvort það sé rétt. Að benda, nota bendingar og myndir getur líka hjálpað."
   - q: "Hvernig tala ég við einhvern á síðstigi heilabilunar sem talar sjaldan?"
-    a: "Nálgist að framan, segið hver þið eruð og notið rólegan tón og varkára snertingu. Fylgist með svipbrigðum og líkamsmáli til að skilja tilfinningar. Nærvera ykkar, kunnuglegt lag eða að halda í höndina getur sagt mjög mikið án orða."
+    a: "Nálgist að framan, segið hver þið eruð og notið rólega rödd og varkára snertingu. Fylgist með svipbrigðum og líkamsmáli til að skilja tilfinningar. Nærvera ykkar, kunnuglegt lag eða að halda í höndina getur sagt mjög mikið án orða."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Heilabilun getur gert erfiðara að finna orð, fylgja langri setningu eða hunsa bakgrunnshljóð. Það þýðir ekki að viðkomandi hafi hætt að vilja tengjast öðrum. Litlar breytingar á því hvernig þið undirbúið samtal, hvernig þið talið og hvernig þið hlustið geta gert samskipti auðveldari og rólegri fyrir ykkur bæði.
+Heilabilun getur gert erfiðara að finna orð, fylgja langri setningu eða hunsa bakgrunnshljóð. Það þýðir ekki að viðkomandi hafi misst löngunina til að tengjast öðrum. Litlar breytingar á því hvernig þið undirbúið samtal, hvernig þið talið og hvernig þið hlustið geta gert samskipti auðveldari og rólegri fyrir ykkur bæði.
 
-## Hver eru mikilvægustu ráðin um samskipti við einhvern með heilabilun?
+## Hver eru mikilvægustu ráðin þegar talað er við einhvern með heilabilun?
 
-Náið athygli viðkomandi, hafið það einfalt og sýnið þolinmæði. Ef þið munið aðeins fimm atriði:
+Náið athygli viðkomandi, haldið því einföldu og sýnið þolinmæði. Ef þið munið aðeins fimm atriði:
 
 1. **Gerið rýmið rólegt og snúið ykkur að viðkomandi.** Slökkvið á sjónvarpinu, sitjið í augnhæð og notið nafn hans eða hennar.
 2. **Segið eitt í einu.** Stuttar setningar, ein hugmynd, ein spurning.
-3. **Bjóðið upp á tvo kosti.** „Te eða kaffi?“ er auðveldara en „Hvað viltu fá?“
-4. **Bíðið.** Gefið lengri tíma til að svara en finnst eðlilegt og reynið að grípa ekki fram í.
-5. **Forðist rifrildi og yfirheyrslur.** Takið tillit til tilfinninga viðkomandi, ekki til þess hvort staðreyndirnar séu réttar.
+3. **Bjóðið upp á tvo valkosti.** „Te eða kaffi?“ er auðveldara en „Hvað viltu fá?“
+4. **Bíðið.** Gefið meiri tíma til að svara en þykir eðlilegt og reynið að trufla ekki.
+5. **Ekki rífast eða yfirheyra.** Takið eftir tilfinningum viðkomandi, ekki hvort staðreyndirnar séu réttar.
 
 ## Hvernig ætti ég að byrja samtal?
 
-Undirbúið aðstæður þannig að viðkomandi geti einbeitt sér að ykkur. [Leiðbeiningar Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mæla fyrst og fremst með að draga úr hávaða: slökkvið á útvarpi eða sjónvarpi, lokið gardínum eða hurð, eða færið ykkur á rólegri stað.
+Undirbúið aðstæður svo viðkomandi geti einbeitt sér að ykkur. [Leiðbeiningar Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) mæla með að draga fyrst úr hávaða: slökkvið á útvarpi eða sjónvarpi, lokið gardínum eða hurð, eða færið ykkur á rólegri stað.
 
-- **Nálgist að framan.** Að koma að aftan eða frá hlið getur brugðið.
-- **Segið hver þið eruð.** „Sæll pabbi, þetta er Sara, dóttirin þín.“ Þetta sparar viðkomandi að þurfa að leita að nafninu ykkar.
-**Farið niður í augnhæð.** Ef viðkomandi situr, setjist eða krjúpið svo augun séu í sömu hæð.
-- **Gætið að svipbrigðum og tón.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ráðleggur að vera meðvituð um tón, hljóðstyrk, svipbrigði og líkamsmál og leitast við að vera hlýleg og róleg.
-- **Gakktu úr skugga um að gleraugu og heyrnartæki séu til staðar.** Erfitt er að fylgja samtali sem ekki sést eða heyrast vel í.
+- **Nálgist að framan.** Að koma að aftan eða frá hlið getur komið á óvart.
+- **Segið hver þið eruð.** „Hæ pabbi, þetta er Sara, dóttir þín.“ Þá þarf viðkomandi ekki að leita að nafninu.
+- **Komið ykkur í augnhæð.** Ef viðkomandi situr, setjist eða krjúpið svo augun séu í sömu hæð.
+- **Fylgist með svipbrigðum og tón.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ráðleggur að vera meðvituð um tón, styrk raddar, svipbrigði og líkamsmál og leitast við að vera hlýleg(ur) og hógvær(ð).
+- **Gætið þess að gleraugu og heyrnartæki séu til staðar.** Það er erfitt að fylgja samtali sem ekki næst að sjá eða heyra til fulls.
 
 ## Hvernig ætti ég að orða það sem ég segi?
 
 Notið einföld orð, stuttar setningar og rólega, lága rödd.
 
-- **Ein hugmynd í hverri setningu.** „Við skulum fara í jakkann. Svo förum við út.“ Ekki bæði í einu.
-- **Notið nöfn, ekki fornöfn.** „Frænka Guðrún hringdi“ er skýrara en „Hún hringdi“.
-- **Talið lægra, ekki hærra.** Family Caregiver Alliance mælir með lægri rödd frekar en að hækka hana.
-- **Endurtakið, síðan umorðið.** Ef ekki skildist, endurtakið sömu orðin einu sinni. Ef það dugar ekki, bíðið augnablik og reynið önnur orð.
-- **Sýnið líka, ekki bara segið.** Bendið á bollann, haldið uppi peysunum tveimur eða sýnið fyrsta skrefið.
-- **Talið við viðkomandi, ekki um hann eða hana.** NIA varar við að tala um viðkomandi eins og hann eða hún sé ekki viðstaddur, og við að nota barnamál.
+- **Ein hugmynd í hverri setningu.** „Við skulum fara í jakkann. Síðan förum við út.“ Ekki bæði í einu.
+- **Notið nöfn, ekki fornafn.** „Frænka Anna hringdi“ er skýrara en „Hún hringdi.“
+- **Lækkið röddina frekar en að hækka hana.** Family Caregiver Alliance leggur til lægri rödd frekar en hærri.
+- **Endurtakið og síðan umorðið.** Ef skilningur næst ekki, endurtakið sömu orðin einu sinni. Ef það dugar ekki, bíðið augnablik og reynið önnur orð.
+- **Sýnið jafnframt því sem þið segið.** Bendið á bollann, haldið uppi peysunum tveimur eða sýnið fyrsta skrefið.
+- **Talið við viðkomandi, ekki um hann eða hana.** NIA varar við því að tala um viðkomandi eins og hann eða hún sé ekki viðstadd(ur) og við að nota „barnamál“.
 
 NIA stingur upp á einfaldari útgáfum af algengum spurningum. Hér eru dæmi í sama anda:
 
-| Í stað þess að segja | Prófið þetta |
+| Í stað þess að segja | Prófið frekar |
 | --- | --- |
-| „Hvað viltu í matinn?“ | „Viltu fisk eða kjúkling?“ |
+| „Hvað viltu fá í kvöldmat?“ | „Viltu fisk eða kjúkling?“ |
 | „Hvernig líður þér?“ | „Ertu þreytt(ur)?“ |
-| „Ertu svöng/svangur?“ | „Maturinn verður tilbúinn eftir fimm mínútur.“ |
+| „Ertu svöng/svangur?“ | „Kvöldmaturinn verður tilbúinn eftir fimm mínútur.“ |
 | „Svona á ekki að gera þetta.“ | „Við skulum prófa svona.“ |
-| „Manstu ferðina okkar að vatninu?“ | „Ég var að hugsa um ferðina okkar að vatninu. Segðu mér hvað þér fannst skemmtilegt.“ |
-| „Ég sagði þér þetta nú þegar.“ | Svarið aftur, af hlýju, eins og í fyrsta sinn. |
+| „Manstu eftir ferðinni okkar að vatninu?“ | „Ég var að hugsa um ferðina okkar að vatninu. Segðu mér hvað þér fannst skemmtilegt við hana.“ |
+| „Ég sagði þér þetta nú þegar.“ | Svarið aftur, vingjarnlega, eins og í fyrsta skipti. |
 
 ## Hvernig hlusta ég vel?
 
 Hlustið eftir merkingunni og tilfinningunni, ekki bara orðunum.
 
-- **Bíðið.** Þögn er oft hugsaðartími. Teljið hægt upp að tíu áður en þið grípið inn í.
-- **Stingið upp á orði aðeins ef viðkomandi er fastur.** Family Caregiver Alliance segir að það sé í lagi að stinga upp á orðum þegar einhver á í erfiðleikum.
-- **Staðfestið hvað þið heyrðuð.** [Leiðbeiningar Alzheimer’s Association um samskipti](https://www.alz.org/help-support/caregiving/daily-care/communications) mæla með að leita að merkingunni á bak við orðin og endurtaka hana til að ganga úr skugga um að þið hafið skilið. „Þú hefur áhyggjur af bílnum?“
-- **Fylgist með svip og líkamsmáli.** Þegar tal verður erfiðara geta svipbrigði, samkvæmt NIA, sýnt sorg, reiði eða gremju skýrar en orð.
-- **Takið áhyggjur alvarlega.** Jafnvel þótt áhyggja byggist á rangri staðreynd, þá er tilfinningin raunveruleg.
+- **Bíðið.** Þögn er oft tími til að hugsa. Teljið hægt upp að tíu áður en þið grípið fram í.
+- **Bjóðið fram orð aðeins ef viðkomandi er fastur.** Family Caregiver Alliance segir að það sé í lagi að stinga upp á orðum þegar einhver á í erfiðleikum.
+- **Staðfestið það sem þið heyrðuð.** [Leiðbeiningar Alzheimer’s Association um samskipti](https://www.alz.org/help-support/caregiving/daily-care/communications) mæla með að leita að merkingunni á bak við orðin og endurtaka hana til að ganga úr skugga um að þið hafið skilið rétt. „Þú hefur áhyggjur af bílnum?“
+- **Fylgist með svipbrigðum og líkamsmáli.** Þegar tal verður erfiðara geta svipbrigði, samkvæmt NIA, sýnt sorg, reiði eða gremju skýrar en orð.
+- **Takið áhyggjur alvarlega.** Jafnvel þótt áhyggja byggist á röngum staðreyndum eru tilfinningarnar raunverulegar.
 
-## Hvað ef sagt er eitthvað sem er ekki satt?
+## Hvað ef viðkomandi segir eitthvað sem er ekki satt?
 
-Forðist rifrildi. Ólíklegt er að það leiði til árangurs og viðkomandi gæti orðið vandræðalegur eða hræddur. Reynið í staðinn að tengjast tilfinningunni og færið síðan samtalið varlega áfram.
+Ekki rífast. Þið munuð líklega ekki sannfæra viðkomandi og honum eða henni gæti liðið illa eða orðið hrætt. Reynið í staðinn að tengjast tilfinningunni og færið síðan samtalið varlega áfram.
 
-Family Caregiver Alliance leggur til að viðurkenna tilfinninguna áður en þið leiðið samtalið í aðra átt. Til dæmis ef mamma ykkar fullyrðir að hún þurfi að sækja börnin í skólann:
+Family Caregiver Alliance leggur til að viðurkenna tilfinninguna áður en þið beinið athyglinni að öðru. Til dæmis, ef mamma ykkar fullyrðir að hún þurfi að sækja börnin í skólann:
 
 - Í stað þess: „Mamma, börnin þín eru orðin fullorðin. Þetta var fyrir fjörutíu árum.“
-- Prófið: „Þú hefur alltaf verið svo umhyggjusöm móðir. Segðu mér frá því þegar þú sóttir þau. Eigum við að fá okkur snarl fyrst?“
+- Prófið: „Þú varst alltaf svo umhyggjusöm móðir. Segðu mér frá því að sækja þau. Eigum við að fá okkur snarl fyrst?“
 
-Alzheimer’s Association ráðleggur líka gegn því að rífast um fullyrðingar sem þið eruð ósammála. Veljið ykkur augnablikin: ef röng trú skaðar ekki, er best að láta hana vera.
+Alzheimer’s Association ráðleggur einnig að rífast ekki um staðhæfingar sem þið eruð ósammála. Veljið ykkur stundir: ef röng trú er skaðlaus er oftast best að láta hana vera.
 
 ## Hvernig breytast samskipti eftir því sem heilabilun versnar?
 
-Þarfir breytast með tíma, svo aðlaga þarf nálgunina. Alzheimer’s Association lýsir þremur meginstigum:
+Þarfir breytast með tímanum, svo aðlaga þarf nálgunina. Alzheimer’s Association lýsir þremur víðum stigum:
 
-| Stig | Hvað hjálpar |
+| Stig | Það sem hjálpar |
 | --- | --- |
-| Snemma | Ganga ekki út frá því að viðkomandi geti ekki átt í samskiptum. Hafi hann eða hana með í samtölum, talið beint við viðkomandi, spyrjið hvaða stuðning hann eða hún vill fá og notið húmor ef hann hjálpar. |
-| Miðstig | Samtöl tveggja í einu á rólegum stað. Talið hægt, haldið augnsambandi, notið já/nei-spurningar, gefið leiðbeiningar skref fyrir skref og forðist gagnrýni eða leiðréttingar. |
-| Síðstig | Nálgist að framan og segið hver þið eruð. Hvetjið til þess að benda og nota bendingar. Notið snertingu, hljóð, sjónræna hluti og lykt. Talið aldrei eins og viðkomandi sé ekki viðstaddur. |
+| Snemmstig | Gerið ekki ráð fyrir að viðkomandi geti ekki átt í samskiptum. Hafið hann eða hana með í samtölum, talið beint við viðkomandi, spyrjið hvaða stuðning hann eða hún vill fá og notið húmor ef það hjálpar. |
+| Meðalstig | Samtöl tveggja í rólegu umhverfi. Talið hægt, haldið augnsambandi, notið já/nei-spurningar, gefið leiðbeiningar skref fyrir skref og forðist gagnrýni eða leiðréttingar. |
+| Síðstig | Nálgist að framan og segið hver þið eruð. Hvetjið til að benda og nota bendingar. Notið snertingu, hljóð, sjónræna hluti og lykt. Talið aldrei eins og viðkomandi sé ekki viðstadd(ur). |
 
-Allir eru ólíkir og sami einstaklingur getur átt góða og erfiða daga. Takið mið af því hvernig viðkomandi hefur það núna, ekki af flokkun.
+Allir eru ólíkir og sami einstaklingurinn getur átt góða og erfiða daga. Mætið viðkomandi eins og hann eða hún er núna, ekki út frá flokkun.
 
-## Geta myndir og sameiginleg verkefni auðveldað samtal?
+## Geta myndir og verkefni gert samtal auðveldara?
 
-Já. Sameiginleg mynd dregur úr þrýstingi og gefur ykkur báðum eitthvað til að horfa á og benda á.
+Já. Sameiginleg mynd dregur úr pressu og gefur ykkur báðum eitthvað til að horfa á og benda á.
 
-- **Myndir sem samtalsefni.** [Conversation Cards](/games/conversation-cards/) bjóða upp á myndir með opnum spurningum sem eru aldrei yfirheyrslur.
-- **Fjölskyldumyndir.** [Photo Pairs](/games/photo-pairs/) breytir myndum sem þið veljið í mildan samstæduleik, sem vekur oft upp sögur.
-- **Kunnugleg orðatiltæki.** [Finish the Saying](/games/finish-the-saying/) notar vel þekkt orðatiltæki og býður síðan upp á umræðuefni.
-- **Samstæduleikir til að styðja við samtalið.** [Picture Pairs](/games/picture-pairs/) gefur höndunum eitthvað að gera á meðan spjallað er.
+- **Myndir sem samtalsefni.** [Conversation Cards](/games/conversation-cards/) býður upp á myndir með opnum spurningum sem aldrei yfirheyra.
+- **Fjölskyldumyndir.** [Photo Pairs](/games/photo-pairs/) breytir myndum sem þið veljið í vinalegan samstæduleik, sem vekur oft upp sögur.
+- **Kunnugleg orðatiltæki.** [Finish the Saying](/games/finish-the-saying/) notar vel þekkt bandarísk orðatiltæki og býður síðan upp á umræðuefni.
+- **Samstæduleikir sem bakgrunnur.** [Picture Pairs](/games/picture-pairs/) gefur höndunum eitthvað að gera á meðan spjallað er.
 
-Sjá [hvernig hægt er að spila saman](/caregiving/how-to-play-together/) og [minningastarf](/activities/reminiscence/) til að fá fleiri hugmyndir. Fyrir heimsóknir og símtöl er hægt að lesa leiðbeiningarnar okkar um [heimsóknir](/activities/visiting/) og [símtöl og myndsímtöl](/activities/phone-and-video-calls/).
+Sjáið [hvernig á að spila saman](/caregiving/how-to-play-together/) og [endurminningaverkefni](/activities/reminiscence/) til að fá fleiri hugmyndir. Um heimsóknir og símtöl er hægt að lesa leiðbeiningarnar okkar um [heimsóknir](/activities/visiting/) og [símtöl og myndsímtöl](/activities/phone-and-video-calls/).
+
+Ef viðkomandi er tvítyngdur eða margtyngdur, sjáið [leiðbeiningar okkar um samskipti á fleiri en einu tungumáli](/caregiving/language-and-dementia-communication/).
 
 ## Hvað ef ég missi þolinmæðina?
 
-Það gerist hjá öllum. NIA leggur til að ef þið verðið svekkt, takið ykkur tíma til að róa ykkur. Farið inn í annað herbergi, takið nokkur róleg andköf og komið aftur þegar þið getið. Þið getið alltaf byrjað samtalið aftur og viðkomandi gæti vel brugðist við rólegri framkomu ykkar. Ef pirringurinn verður stöðugur er það merki um að þið þurfið meiri stuðning, ekki að þið séuð að mistakast. Leiðbeiningarnar okkar um [sjálfshirðu aðstandenda](/caregiving/caregiver-self-care/) benda á hvert er hægt að leita.
+Það gerist hjá öllum. NIA leggur til að ef þið verðið svekkt(ur) takið ykkur tíma til að róast. Farið í annað herbergi, takið nokkur róleg andköf og komið aftur þegar þið eruð rólegri. Alltaf er hægt að byrja samtalið aftur og viðkomandi gæti vel brugðist við rólegri framkomu ykkar. Ef gremjan er orðin stöðug er það merki um að þið þurfið meiri stuðning, ekki um að þið standið ykkur illa. Leiðbeiningarnar okkar um [sjálfsumönnun fyrir aðstandendur](/caregiving/caregiver-self-care/) benda á hvert er hægt að leita.

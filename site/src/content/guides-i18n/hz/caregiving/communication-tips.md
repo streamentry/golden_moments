@@ -1,34 +1,34 @@
 ---
-title: "Omazuviro wokuhungira nomundu ngu novikondambunda"
-seoTitle: "Omazuviro wokuhungira: okutja nokuyandja ombango"
-description: "Omazuviro omatjate wokuhungira nomundu ngu hupa novikondambunda: okuṱuna ehungiro, okutja pendje yokupura nokurunga, nokupuratena."
+title: "Omahongero wokuhungira nomundu ngu nomutjise wokuzemba"
+seoTitle: "Omahongero wokuhungira tji pe nomutjise wokuzemba"
+description: "Omayuva omapupu wokuhungira nomundu ngu nomutjise wokuzemba: okutunina ehungi, okutja vi nokuyepa okupura nokurukisa, nokupuratena nawa."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
   Hungira poruveze pu pa mwina, tara momundu, ungurisa ena re, nu hungira
-  kouteṱe momambo omasupi nomapupu. Pura epuriro rimwe poruveze, yandja
-  omazuviro yevari pendje yomapuriro omapaturuke, nu undja orure pu
-  tji tji muna kutja orusupi. O mu sere okurwisa, okurunga poo okupura
-  otja omakonḓononeno. Zirire koumune mbu ri kombunda yomambo, nu ungurisa
-  okutuna, ozombendero novitjengisa omambo tji maye rire omakukutu.
+  kouṱiṱi nomambo omasupi nomapupu. Pura epuriro rimwe porwe, yandja
+  ozondyero mbari pendje yokupura pu pa paturuka, nu undja orure tjinene
+  pu pe munika. O kupatasana, o kurukisa nu o kumurora. Zirire komerimwino
+  ngu ri kongotwe yomambo, nu ungurisa okutuna, ozombirimbi novitjitwa tji
+  omahungiro maye rira omakukutu.
 keyPoints:
-  - "Isa ombosiro yombunda nu muna omutima nomuho ngunda au hiya hungira."
-  - "Ungurisa omambo omasupi, ondunge imwe poruveze, nomana pendje yotja eye, oyo poo owo."
-  - "Yandja ezuviro pokati koviviri, poo epuriro ndi ri ee poo indee, pendje yomapuriro omapaturuke."
-  - "Undja eziriro. Tji ve hi nokuzuva nawa, hungira omambo tjingewo, nu kombunda ungurisa omambo omape."
-  - "O mu sere okurwisa poo okurunga. Zirire koumune mbu ri kombunda ya imbi mbi mave tja."
-  - "Omambo tji maye nana, hungira mokutuna, eraka, omurungu nozombendero novitjengisa mu mu tara pamwe."
+  - "Isapo ombosiro yongotwe nu tara momuho we ngunda au hiya uta okuhungira."
+  - "Ungurisa omambo omasupi, ondunge imwe porwe, nomana pendje yo 'eye' poo 'owo'."
+  - "Yandja ondyero pokati kozondyero mbari, poo epuriro rokutja 'ii' poo 'kako', pendje yomapuriro nga paturuka."
+  - "Undja eziriro. Tje hi nokuzuva nawa, kururura omambo tjingewo, nu kombunda yaho rora omambo warwe."
+  - "O kupatasana nu o kurukisa. Zirire komerimwino ngu ri kongotwe ya imbi mbye hungire."
+  - "Omambo tji maye pupu, hungira nokutuna, neraka, nomurungu wotjiuru nozombirimbi mbu mu tara pamwe."
 faq:
-  - q: "Ovikeṋa mbi hi sokutjivirwa omundu ngu novikondambunda?"
-    a: "Yandja ombango komapuriro wokurora (\"U zemburuka...?\"), okurunga (\"Opo posyo\"), okuvezemburukisa ozondataiziro (\"Ami mbe ku raerere rukuru\") nokuhungira ohunga na ye otja tje he ri po. Yandja ombango komahungiro wovanatje. Ihi tji eta ohoni poo ombamutima nu ka tji vatera."
-  - q: "Hi sokumurunga indu tji va posa oviṋa?"
-    a: "Potuingi indee. Tji otjiṋa tji tja posa tji hi nokuyeta oumba, tji esa. Okurwisa potuingi ka ku rundurura ombango yomundu nu povikando ovingi ku mu hihamisa. Yandera koumune we na ku imbi mbi ma hepa nai."
-  - q: "Hi tjiti vi indu tji ve hi nokumuna embo?"
-    a: "Rutenga ve pa oruveze. Tji mave munika kutja mave kondjo tjinene, o sema okuveyandjera embo kouteṱe poo okurora kutja mave hee tjike nokukonḓonona. Okuraisa nomunwe, ovitjengisa nozombendero wina mavi yenene okuvatera."
-  - q: "Hi hungire vi nomundu ngu ri morukondwa orusenina rwovikondambunda nu ngu ha hungire tjinene?"
-    a: "Enda ku ye okuza komurungu, tja kutja oove uṋe, nu ungurisa eraka ekutu nokutuna kouteṱe. Tara omirungu norutu okutjiwa omuinyo. Okukara kwoye, eimburiro ndi va tjiwa poo okukwaterasana omake ku yenena okuhungira ovingi nandarire nokuhina omambo."
+  - q: "Ovikwaye mbi u ha sokutja komundu ngu nomutjise wokuzemba?"
+    a: "Yepa okumurora (\"U zemburuka...?\"), okumurukisa (\"Opo hapo ri nao\"), okumuzemburukisa ombazu (\"Ami mbe ku raere rukuru\") nokuhungira ohunga na ye otja tje he po. Yepa okuhungira otja kokanatje. Oviṋa mbi potuingi vi eta ohoni poo ombameno nu kavi vatera."
+  - q: "Hi sokumurukisa indu tja posa ouatjiri?"
+    a: "Potuingi kako. Tji ombapositisiwa kai nokuhihamisa, i esa. Okupatasana potuingi kaku rundurura omb thoughts ye nu potuingi ku mu hihamisa. Ripurira komuano mbu me rimunu nokutja ma hepa tjike nai."
+  - q: "Me tjiti vi indu tje hi nokumuna embo?"
+    a: "Rutenga mu pa oruveze. Tje ri nokumunika kutja ma kondjo, o sema okumuvatera nembo poo okuripura kutja ma hee tjike nu o mu pure. Okuraisa nomunwe, ovitjitwa nozombirimbi wina mavi vatere."
+  - q: "Me hungire vi nomundu ngu ri korusenina rwokomaandero rwomutjise wokuzemba, ngu ha hungire tjinene?"
+    a: "Enda ku ye komurungu, tja kutja oove une, nu ungurisa eraka ekumuke nokutuna kouṱiṱi. Tara omirungu norutu kwe okumuna omuano mbu me rimunu. Okukara po kwoye, eimburiro ndi tji i tjiukwa poo okukatera pomake mavi hungire ovingi nandarire nokuhinambo."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Ovikondambunda mavi yenene okutjita kutja ku rire oukukutu okumuna omambo, okuzuva embo erire, poo okuyandja ombango kombosiro yombunda. Ihi katji hee kutja omundu wa isa okuvanga okukara pamwe novakwao. Omazuviro omanḓiṱi mokuṱuna ehungiro, momuano mu mo hungire na momuano mu mo puratene maye yenene okutjita kutja okuhungira ku rire okupupu nokukutura ku eṋe aveyevari.
+Omutjise wokuzemba mau yenene okutjita kutja omundu a ha munu omambo mourumbu, a ha kongorere ehungi erire, poo a ha yenene okuisa ombosiro yongotwe pehi. Ihi katji hee kutja omundu wa isa okupahera okukwatakana novandu. Omarundurukiro omatiti momuano mu u tunina ehungi, mu u hungira na momuano mu u puratena maye yenene okutjita kutja okuhungira ku rire okupupu nokukumuka kweṋe amuyevari.
 
-## Omazuviro yeṋe omanandengu tjinene mokuhungira nomundu ngu novikondambunda?
+## Omahongero omananḓengu tjinene wokuhungira nomundu ngu nomutjise wokuzemba maye ri pi?
 
-Muna ombango ye, kara noupupu, nu kara nomuretima. Tji wa zemburuka oviṋa vitano uriri:
+Paha ombango ye, kara noupupu, nu kara nomuretima. Tji wa zemburuka oviṋa vitano uriri:
 
-1. **Tjita kutja ondjuwo i mwine nu tara ku ye.** Zepa o-TV, kara pehi moruveze rwomeho, nu ungurisa ena re.
-2. **Tja otjiṋa tjimwe poruveze.** Omambo omasupi, ondunge imwe, epuriro rimwe.
-3. **Yandja ezuviro pokati koviviri.** "Otee poo okofi?" ku pupu pu "Mo vanga tjike?"
-4. **Undja.** Yandja oruveze oruingi okuzira pu tji tji muna kutja orusupi, nu kondja okuha tjaerera pokati.
-5. **O mu sere okurwisa poo okupura otja omakonḓononeno.** Zirire koumune mbu mave raisa, ka kouṱakame woviṋa.
+1. **Kumisa oruveze nu mu tare.** Zepa otivi, haama moruveze pu mu yenena okutara momuho, nu ungurisa ena re.
+2. **Hungira otjiṋa tjimwe porwe.** Omambo omasupi, ondunge imwe, epuriro rimwe.
+3. **Yandja ondyero pokati kozondyero mbari.** "Otee poo okofi?" oupupu tjinene pu "Mo vanga tjike?"
+4. **Undja.** Yandja oruveze orure tjinene pu pe munika kokuzira, nu kondja okuha mu hukura pokati.
+5. **O kupatasana nu o kumurora.** Zirire komuano mbu me rimunu, kakuatjiri kutja ouatjiri ouṋe.
 
-## Hi sokuta vi ehungiro?
+## Me sokuta vi ehungi?
 
-Ṱuna oviṋa kutja omundu ma yenene okuyandja ombango ku ove. [Omuhunga wa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) u tunduuza okutja rutenga isa ombosiro: zepa oradio poo o-TV, pata ozoketena poo omuvero, poo ryanga koruveze pu pa mwina.
+Tunina oviṋa kutja omundu ma yenene okupuratena kove. [Omuhunga wa Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) u tunduuza okuteya ombosiro rutenga: zepa oradio poo otivi, pata omaketanga poo omuvero, poo tjinda poruveze pu pa mwina.
 
-- **Enda ku ye okuza komurungu.** Okuyenda okuza kombunda poo pomunda ku yenena okumuhingisa.
-- **Tja kutja oove uṋe.** "Moro Tate, owami Sarah, omuatje woye omukazona." Ihi tji mu vatera kutja a ha paha ena roye.
-- **Rira moruveze rwomeho we.** Tji ma kara pehi, kara pehi poo twika ozongoro kutja omeho woye ye kare moruveze rumwe.
-- **Tara omurungu woye neraka roye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i tunduuza okukara nondjiviro yeraka roye, oure wero, omurungu woye norutu roye, nokukondja okuraisa omuinyo omuwa noupupu.
-- **Tjiwa kutja ozombakete zomeho nozokuzuva ze ri po.** Ouzeu okuzuva ehungiro ndi u hi nokumuna poo okuzuva nawa.
+- **Enda ku ye komurungu.** Okueya kongotwe poo kombanda ma ku yenene okumutirisa.
+- **Tja kutja oove une.** "Moro Tate, owami Sarah, omuatje woye omukazona." Ihi tji mu vatere kutja a ha paha ena roye.
+- **Heruka moruveze rwe.** Tje haama, haama poo tumbama kutja omeho woye ye kare moruveze rimwe.
+- **Ripurira komurungu woye neraka roye.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) i tunduuza okukara nondjiviro neraka roye, omasa waro, omurungu woye norutu rwoye, nokukondja okukara noupore nomuano omuwa.
+- **Tara kutja omakende womeho novitwiira vi ri mo.** Ouzeu okukongorera ehungi ndi u hi nokuyenena okumuna poo okuzuva nawa.
 
-## Hi sokutja vi imbi mbi me hungire?
+## Me sokuhungira vi omambo wandje?
 
-Ungurisa omambo omapupu, omambo omasupi neraka ekutu nda he ri kombanda.
+Ungurisa omambo omapupu, omambo omasupi neraka ekumuke ndi ri pehi.
 
-- **Ondunge imwe membo rimwe.** "Ngatu zare ombaka yoye. Nu matu piti pendje." Ka moviṋa vivari poruveze rumwe.
-- **Ungurisa omana, ka omambo wokuisapo.** "Inakulu Jean wa ningira" ku zuvaka nawa pu "Eye wa ningira."
-- **Isa eraka kehi, ka kombanda.** Family Caregiver Alliance i tunduuza eraka nda ri kehi pendje yokuisa kombanda.
-- **Hungira rukwao, nu tjita omambo omape.** Tji ve hi nokuzuva, hungira omambo tjingewo rukwao rumwe. Tji ku hi nokuvatera, undja okaruveze nu ungurisa omambo warwe.
-- **Raisa nu wina tja.** Raisa komakopi, yera ozombanda mbari, poo raisa ondanaukiro ondenga.
-- **Hungira na ye, ka ohunga na ye.** NIA i tjaera okuhungira ohunga nomundu otja tje he ri po, nokuhungira otja kovanatje.
+- **Ondunge imwe mehungi rimwe.** "Ngatu zare ombanda yoye. Okuzambo matu i pendje." Hapo ayevari moruveze rumwe.
+- **Ungurisa omana, hapo omambo nga pingena omana.** "Tante Jean wa ningira ongodi" opaturuka nawa pu "Eye wa ningira ongodi."
+- **Herura eraka, hapo ri kurisa.** Family Caregiver Alliance i tunduuza eraka ndi ri pehi pendje nondi riyerurura.
+- **Kururura, nu okuzambo rundurura omambo.** Tje ha zuvire, kururura omambo tjingewo rukwao. Tji tji ha ungurire, undja okaruveze nu rora omambo warwe.
+- **Raisa nu wina hungira.** Raisa ekopi, yera ozombanda mbari, poo raisa ondanaukiro ondenga.
+- **Hungira kuna ye, hapo ohunga na ye.** NIA i tjaera okuhungira ohunga nomundu otja tje he po, nokuhungira otja kokanatje.
 
-NIA i yandja omiano omipupu vyomapuriro womayuva aehe. Ngeri omihorera mehupo ndo:
+NIA i yandja omiano omapupu womapuriro wotuveze azehe. Oviṋa mbi ri kehi vi ri momuano mbwo:
 
-| Pendje ya | Rora |
+| Pendje na tji | Rora tji |
 | --- | --- |
-| "Mo vanga tjike keriro rongurova?" | "Mo vanga ohi poo ohunguriva?" |
-| "U ri vi?" | "U muna ondjasu?" |
-| "U nondjara?" | "Eriro rongurova mari kara po moure wominute ndano." |
-| "Ka tji tjitwa nao." | "Ngatu rore nao." |
-| "U zemburuka oruyenda rwetu ketjombo?" | "Ami me ripura noruyenda rwetu ketjombo. Ndjiraera imbi mbi wa suverere mu ro." |
-| "Ami mbe ku raerere rukuru." | Zirire rukwao, nomutima omuwa, otja potjikando otjitenga. |
+| "Mo vanga tjike koviṋa vyongurova?" | "Mo vanga ohi poo ohunguriva?" |
+| "U ri vi?" | "U urwa?" |
+| "U nondjara?" | "Oviṋa vyongurova mavi kara vyarongerisiwa moure wominute vitano." |
+| "Kamu tjitirwa nao." | "Ngatu rorero momuano mbwi." |
+| "U zemburuka oruyende rwetu ketu?" | "Ami me ripurire koruyende rwetu ketu. Ndjiraere imbi mbi wa suverere mu rwo." |
+| "Ami mbe ku raere rukuru." | Zirire rukwao, noupore, otja otjikando otjitenga. |
 
 ## Me puratene vi nawa?
 
-Puratena kondunge nokoumune, ka komambo uriri.
+Puratena kondunge na komerimwino, hapo komambo uriri.
 
-- **Undja.** Omwina povikando ovingi oruveze rwokuripura. Vara kouteṱe nga komurongo ngunda au hiya ya mo.
-- **Yandja embo tji va kambulwa uriri.** Family Caregiver Alliance i tja o sema okuyandja omambo omundu tji ma kondjo.
-- **Konḓonona imbi mbi wa zuu.** [Omuhunga wokuhungira wa Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) u tunduuza okutarera kondunge ndji ri kombunda yomambo nokuihungira rukwao okukonḓonona kutja wa zuva nawa. "U nomeripura nohina?"
-- **Tara omurungu norutu rwe.** Omambo tji maye rire omakukutu, NIA i tja, omirungu mai raisa nawa oruhoze, omazenge poo ombamutima pu nomambo.
-- **Yakura omeripura nouṱakame.** Nandarire tji eripura ra zikamena kotjiṋa tji tja posa, oumune owo ouatjiri.
+- **Undja.** Okumwina potuingi oruveze rwokuripura. Vara kazeu nga omulongo ngunda au hiya kondonona.
+- **Yandja embo uriri tja pandjara.** Family Caregiver Alliance i tja o sema okuyandja omambo indu omundu tji ma kondjo.
+- **Tara kutja wa zuvire nawa.** [Omuhunga wa Alzheimer's Association wokuhungira](https://www.alz.org/help-support/caregiving/daily-care/communications) u tunduuza okupaha ondunge kongotwe yomambo nokuihungira rukwao okutara kutja wa zuvire nawa. "U rikende nOhauto?"
+- **Tara omurungu we norutu rwe.** Okuhungira tji maku rire ouzeu, NIA i tja, omirungu mavi yenene okuraisa oruhoze, omazenge poo ombameno nawa pu nomambo.
+- **Yakura omaurikiro we nouṱakame.** Nandarire orikendero tji ra zikamena kouatjiri mbu ha ri ouatjiri, omerimwino oweatjiri.
 
-## Vi tji va tja otjiṋa tji tji he ri ouatjiri?
+## Me tjiti vi tja hungire otjiṋa tji tji he ri ouatjiri?
 
-O rwisa. Ka pe nokukara omasa kutja mo toṋa, nu omundu ma yenene okumuna ohoni poo okutira. Pendje na po, kara pamwe noumune, nu kombunda ryanga kouteṱe.
+O kupatasana. Ouṱiṱi kutja mo toṋa, nu omundu ma yenene okumuna ohoni poo okutira. Pendje na tjo, kwatakanena nomerimwino, nu okuzambo mu isa kutja ve ende komurungu kouṱiṱi.
 
-Family Caregiver Alliance i tunduuza okuyakura omuinyo ngunda au hiya rundurura ondjira. Otjotjihorera, tji mama woye ma panḓere kutja ma sokukatoora ovanatje posikore:
+Family Caregiver Alliance i tunduuza okuyakura omerimwino ngunda au hiya rundurura otjiṋa. Otjotjihorera, ina tja ṱakama kutja ma sokukaisapo ovanatje kosikore:
 
-- Pendje ya: "Mama, ovanatje voye va kurire. Pa pita ozombura omirongo vine."
-- Rora: "Ove aruhe wa ri ina omunatjari. Ndjiraera ohunga nokukevetoora. Ngatu ri otjokuria otjiṱiṱi rutenga?"
+- Pendje na tji: "Mama, ovanatje voye va kura. Ozozombura omirongo vine ndaa kapita."
+- Rora tji: "Aruhe wa ri ina omunatjenda. Ndjiraere ohunga nokukevekaisapo. Ngatu riye otjiṋa otjititi rutenga?"
 
-Alzheimer's Association wina i tunduuza okuha rwisa ohunga noviṋa mbi u hi nokuyakura. Toorora oruveze: tji ondjiviro ndja posa kai nokuyeta oumba, i esa.
+Alzheimer's Association wina i tunduuza okuha patasana nomambo ngu u hi nokuyakura. Toorora oruveze: tji ongamburiro ndji ha ri ouatjiri kai nokuhihamisa, i esa.
 
-## Okuhungira ku runduruka vi ovikondambunda tji mavi kurire ko?
+## Okuhungira ku runduruka vi omutjise wokuzemba tji mau ryanga komurungu?
 
-Omahepero ye runduruka moruveze, okutja rundurura omuano woye. Alzheimer's Association i kahurura ozombazu ndatu ozonene:
+Ozombatero ze runduruka moruveze, okutja rundurura omuano woye. Alzheimer's Association i kahurura ozoruveze ndatu ozonene:
 
-| Orukondwa | Otji tji vatera |
+| Orusenina | Otjiṋa tji matji vatere |
 | --- | --- |
-| Etenga | O kambura kutja ka ve yenene okuhungira. Ve eta momahungiro, hungira na wo oveni, pura ombatero ndji mave vanga, nu ungurisa omanyando tji maye vatera. |
-| Pokati | Omahungiro pokati komundu nomundu poruveze pu pa mwina. Hungira kouteṱe, kara nomutima nomuho, ungurisa omapuriro ee poo indee, yandja omaraerero konḓunḓu imwe aihe, nu o ve nyonḓorora poo okuverunga. |
-| Orusenina | Enda ku wo okuza komurungu nu tja kutja oove uṋe. Ve tunduuza okuraisa nomunwe novitjengisa. Ungurisa okutuna, ombosiro, imbi mbi mave munu nozombepo. O hungire nao otja tji ve he ri po. |
+| Rwokutenga | O kara nondunge kutja kamaa yenene okuhungira. Mu hitisa momahungi, hungira kuna ye tjimuna, mu pura ombatero ndji ma vanga, nu ungurisa omajando tji maye vatere. |
+| Rwopokati | Omahinji pokati komundu umwe nomukwao moruveze pu pa mwina. Hungira kouṱiṱi, kara nokutara momuho, ungurisa omapuriro wokutja ii poo kako, yandja omaraerero kongondanaukiro, nu o munya poo o murukisa. |
+| Rwokomaandero | Enda ku ye komurungu nu tja kutja oove une. Mu tunduuza okuraisa nomunwe nokutjita ovitjitwa. Ungurisa okutuna, ombosiro, imbi mbi mu muna nomazumba. O hungire otja tje he po. |
 
-Omundu auhe wa panguka, nu omundu tjingewo ma yenene okukara nomayuva omawa nomakukutu. Zirire komuano mu ve ri nai, ka kembo ndi ri kombanda yawo.
+Omundu auhe u ri peke, nu omundu tjingewo ma yenene okukara nomayuva omawa nomauzeu. Zirire komuano mbu me ri nai, hapo kena.
 
-## Ozombendero novitjitwa mavi yenene okutjita kutja ehungiro ri rire olupupu?
+## Ozombirimbi novitjitwa mavi yenene okutjita kutja ehungi ri rire oupupu?
 
-Ii. Ombendero ndji mu tara pamwe i isa ombingiro nu i mu pa eṋe aveyevari otjiṋa okutara nokuraisa nomunwe.
+Ii. Otjiperendero tji mu tara pamwe tji isa ombameno pehi nu tji mu pa eṋe amuyevari otjiṋa tji mu yenena okutara nokuraisa.
 
-- **Ozombendero zokuta ehungiro.** [Conversation Cards](/games/conversation-cards/) ze yandja ozombendero nomapuriro omapaturuke nge hi nokupura otja omakonḓononeno.
-- **Ozombendero zeṱunḓu.** [Photo Pairs](/games/photo-pairs/) i tjita ozombendero nḓu wa toorora otjotjitwa tjokuyapurasana kouteṱe, nu povikando ovingi tji eta omahungi.
-- **Omambo womapanga nge tjiukwa.** [Finish the Saying](/games/finish-the-saying/) i ungurisa omambo womapanga nga tjiukwa nawa, nu kombunda ku kara epuriro rokuhungira.
-- **Ovitjitwa vyokuyapurasana otjombunda.** [Picture Pairs](/games/picture-pairs/) i pa omake woye otjiṋa okutjita ngunda amu hungire.
+- **Omapuriro nozombirimbi.** [Conversation Cards](/games/conversation-cards/) ze yandja ozombirimbi nomapuriro nga paturuka nu nga ha roro.
+- **Ozombirimbi zeṱunḓu.** [Photo Pairs](/games/photo-pairs/) i tjita ozombirimbi nḓu wa toorora kutja ze rire otjinyanda otjipupu tjokusanisa, nu potuingi tji uta omahungi.
+- **Omambo omaṱiukwa nawa.** [Finish the Saying](/games/finish-the-saying/) i ungurisa omambo omaṱiukwa nawa, nu kombunda i yandja epuriro rehungi.
+- **Otinyanda tjokusanisa otjongotwe yehungi.** [Picture Pairs](/games/picture-pairs/) tji yandja omake woye otjiṋa okutjita ngunda amu hungire.
 
-Tara [omuano wokunyanda pamwe](/caregiving/how-to-play-together/) na [ovitjitwa vyokuzemburuka](/activities/reminiscence/) komakwizikiro warwe. Komaryangeero nomangiriro, lesa omihunga vyetu ohunga [nomaryangeero](/activities/visiting/) na [nomangiriro wongodi novidiyo](/activities/phone-and-video-calls/).
+Tara [omuano wokunyanda pamwe](/caregiving/how-to-play-together/) na [ovitjitwa vyokuzemburuka](/activities/reminiscence/) komiano vyarwe. Komaryangeero nomaningiriro wongodi, lesa omihunga vyetu ohunga [nomaryangeero](/activities/visiting/) na [omaningiriro wongodi nozombosiro](/activities/phone-and-video-calls/).
 
-## Vi tji mba pandjara omuretima wandje?
+Komundu ngu hungira omaraka omengi, tara [omuhunga wetu wokuhungira pokati komaraka](/caregiving/language-and-dementia-communication/).
 
-Tji tjitwa ku auhe. NIA i tunduuza kutja tji wa hihamwa omutima, toora oruveze okurikutura. Ryanga kondjuwo yarwe, suvana kouteṱe povikando oviṱiṱi, nu kotoka tji wa kutura. Mo yenene okuta ehungiro rukwao, nu omundu ma yenene okuzira nawa komuinyo woye omukutu. Tji ombamutima mai rire otjiṋa tje yenda komurungu, ihi otjiraisiro kutja mo hepa ombatero yokomurungu, ka kutja mo pandjara. Omuhunga wetu ohunga [nokuriyandja ombango omuṱakamise](/caregiving/caregiver-self-care/) u na pu mo yenene okupa ombatero.
+## Me tjiti vi tji mba pandjara omuretima?
+
+Tji tjitwa ku auhe. NIA i tunduuza kutja tji wa pindikisiwa, u toore oruveze okukumuka. Konda kondjuwo yarwe, suvana kouṱiṱi povikando ovingi, nu kotoka tji wa kumuka. Aruhe mo yenene okuta ehungi rukwao, nu omundu ma yenene okuzira nawa komuano woye omukumuke. Tji ombindikiro mai rire otjiṋa atjihe eyuva, iho otjiraisiro kutja mo hepa ombatero yokombanda, hapo kutja mo ponyoka. Omuhunga wetu ohunga [nokuritjevera kwomuṱakamise](/caregiving/caregiver-self-care/) u nombatero ku mo yenene okuyenda.

@@ -4,19 +4,19 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 **Source improvements: 91 / 500 implemented**
 
-**Full 185-language coverage: 0 / 500 verified under the updated completion gate**
+**Full 185-language coverage: 1 / 500 verified under the updated completion gate**
 
 Maintainer decision (2026-11-12): target increased from 100 to 500 improvements; existing numbered rounds remain counted.
 
-Maintainer decision (2026-11-12): completion also requires all user-facing text changed by each improvement in the 185 unique codes in docs/languages.csv (English source plus 184 non-English translations). Previous rounds require a coverage audit and any needed backfill. Machine translations count as translated coverage only after structural checks and remain explicitly unreviewed.
+Maintainer decision (2026-11-12): completion also requires all user-facing text changed by each improvement in the 185 unique codes in docs/languages.csv (English source plus 184 non-English translations). Previous rounds require a coverage audit and any needed backfill. For these site guides, this backfill also covers five additional active locale variants. Machine translations count as translated coverage only after structural checks and remain explicitly unreviewed.
 
 ## 185-language coverage audit
 
 | Rounds | Changed scope | Coverage status |
 |---|---|---|
 | 1–89 | Earlier app and website changes | Not yet audited against the 185-code gate; backfill where any changed user-facing text is missing. |
-| 90 | LGBTQ+ dementia-care guide | Translation backfill in progress on the Round 91 branch. |
-| 91 | Multilingual dementia communication guide | 184 non-English translations in progress; validation follows generation. |
+| 90 | LGBTQ+ guide and residential-care crosslink | Backfill in progress. |
+| 91 | Multilingual guide and communication-tips crosslink | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
 
 ---
 
@@ -691,10 +691,12 @@ This separate engineering audit records automated mobile rendering and maintenan
 |---|---|---|
 | Source fit | Alzheimer's Society says communication preferences vary and some people may use a language learned earlier; it suggests using the person's usual language and asking about interpreter help. Alzheimer's Association lists return to a native language as one possible change, not a universal rule. HHS cautions that family or friends may not reliably interpret important medical information; the cited FAQ is U.S.-specific and its legal rules are not generalized. NHS says sudden confusion needs immediate medical help. | Keep language changes person-specific; do not use them to infer stage. |
 | Existing coverage and gap | The communication guide covered short sentences, listening, gestures and pictures, but did not explain language preference or interpreter options for appointments. | Added a focused English guide and linked it from the general communication guide. |
-| Change | Added a question-led guide for asking which language the person prefers, supporting everyday conversation, contacting care providers about interpretation, and preparing a private language-preference note with the person's agreement. | No app changes or new data collection. Existing translated communication-tip pages were not regenerated. |
+| Change | Added a question-led guide for asking which language the person prefers, supporting everyday conversation, contacting care providers about interpretation, and preparing a private language-preference note with the person's agreement. | No app changes or new data collection. The updated parent page now has translated copies. |
 | Safety boundary | Language changes alone do not establish why communication changed or indicate a dementia stage. A sudden change with confusion needs urgent assessment. Interpreter access and provider procedures vary by location. | General communication guidance; no diagnosis or legal advice. |
-| Emergency number boundary | The English guide refers to local urgent medical services without naming a number. Initial machine translations added 112 in some locales. | The prompt and checker now reject emergency numbers absent from English; affected draft files are being regenerated. |
+| Emergency number boundary | The English guide refers to local urgent medical services without naming a number. Early drafts added 112 in some locales and were discarded. | Final translated copies pass the checker, which rejects emergency numbers absent from English. |
 | Implementation commit | `ad4191c664105a9747f63ab9e1f1e3fc6123249d` | Source commit on `codex/improvement-91-language-support`. |
-| Checks | On Node 24.11.1, 1,869 site unit tests passed. TypeScript, Python suite (106 tests), release metadata, ARB validation, cspell JSON validation and `git diff --check` passed locally. Astro was killed by the host with exit 137 during static route generation; `check-site` did not run. Hosted CI is pending. | Site content build and page-check result remain unverified. |
+| Translation coverage | Machine translations for the guide and updated parent page cover all 184 non-English registry codes and five additional active site variants (189 routes per page). | 378 translated pages; unreviewed. |
+| Translation checks | Structural guide checks covered both pages in all 189 active non-English routes; targeted translator status reports 0 pending. | 0 errors, 9 non-fatal metadata-width warnings; reader and native review remain open. |
+| Checks | On Node 24.11.1, 1,869 site unit tests passed. TypeScript, Python suite (106 tests), release metadata, ARB validation, cspell JSON validation and `git diff --check` passed on the source PR. Astro was killed by the host with exit 137 during static route generation; `check-site` did not run. | Source PR checks do not validate this translation backfill; a full site build remains open. |
 | Render inspection | The static route and caregiver-hub fallback were not inspected because the build did not complete. | Open. |
 | Not verified | No multilingual reader, person with dementia, caregiver, clinician, interpreter, native-speaker or live-browser review. The NIA interpreter pages were seen in search but returned HTTP 405 when opened; they were not used. | Do not claim user, clinical or native-language validation. |

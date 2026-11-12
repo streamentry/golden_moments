@@ -1,33 +1,33 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "स्मृतिभ्रंशयुक्तजनेन सह संवादसूचनाः"
+seoTitle: "स्मृतिभ्रंशे संवादः: किं वक्तव्यं किम् वर्जनीयम्"
+description: "स्मृतिभ्रंशेन सह जीवन्तं जनं प्रति संवादस्य व्यावहारिकाः उपायाः: कथं आरम्भः, प्रश्नपरीक्षां संशोधनं च विना किं वक्तव्यम्, कथं च श्रोतव्यम्।"
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  शान्ते स्थाने सम्भाषणं कुरुत, तस्य जनस्य सम्मुखं तिष्ठत, तस्य नाम उपयुज्यताम्,
+  शनैः लघुभिः सरलैः च वाक्यैः वदत। एकस्मिन् समये एकं प्रश्नं पृच्छत, मुक्तप्रश्नानां
+  स्थाने द्वौ विकल्पौ यच्छत, स्वाभाविकात् अधिकं कालं प्रतीक्षध्वम्। न विवादं कुरुत,
+  न संशोधयत, न परीक्षध्वम्। शब्दानां पृष्ठतः स्थितं भावं अवगच्छत, वाचः कठिनतायां
+  स्पर्शं, चित्राणि, सङ्केतान् च उपयुज्यताम्।
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "सम्भाषणात् पूर्वं पार्श्वध्वनिं न्यूनीकुरुत, तस्य जनस्य दृष्टिसम्पर्कं च स्थापयत।"
+  - "लघूनि वाक्यानि, एकस्मिन् समये एकः विचारः, सः सा ते इत्यादीनां स्थाने नाम उपयुज्यताम्।"
+  - "मुक्तप्रश्नानां स्थाने द्वौ विकल्पौ अथवा आम्-न-इति प्रश्नं पृच्छत।"
+  - "उत्तराय प्रतीक्षध्वम्। यदि सः न अवगम्यते, तर्हि तान् एव शब्दान् पुनः वदत, ततः नूतनान् शब्दान् प्रयतध्वम्।"
+  - "न विवादं कुरुत, न संशोधयत। यत् सः वदति तस्य पृष्ठतः स्थितं भावं अवगच्छत।"
+  - "यदा शब्दाः क्षीयन्ते, तदा स्पर्शेन, स्वरेण, मुखभावेन, सहदृष्टैः चित्रैः च संवादं कुरुत।"
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "स्मृतिभ्रंशयुक्ताय जनाय किं न वक्तव्यम्।"
+    a: "प्रश्नपरीक्षां (“भवान् स्मरति वा...?”), संशोधनं (“तत् अशुद्धम्”), हानिस्मारणं (“अहं पूर्वम् एव अवदम्”) तथा तस्य उपस्थितिं विना तस्य विषये कथनं वर्जयत। बालोचितभाषां च वर्जयत। एतानि प्रायः साहाय्यं विना लज्जां क्लेशं वा जनयन्ति।"
+  - q: "यदि सः तथ्येषु भ्रम्यति, तर्हि किं मया संशोधनीयम्।"
+    a: "प्रायः न। यदि भ्रान्तं तथ्यं अहानिकरम्, तत् त्यजत। विवादेन प्रायः तस्य मतिः न परिवर्तते, प्रायः सः उद्विग्नः च भवति। इदानीं तस्य भावे आवश्यकतायां च ध्यानं दत्त।"
+  - q: "यदि सः समुचितं शब्दं न लभते, तर्हि किं करणीयम्।"
+    a: "प्रथमं तस्मै समयं दत्त। यदि सः स्पष्टतया यतते, तर्हि मृदुतया शब्दं सूचयितुं वा तस्य आशयं अनुमाय पृष्टुं शक्यते। अङ्गुलिनिर्देशः, सङ्केताः, चित्राणि च उपयोगिनः भवितुम् अर्हन्ति।"
+  - q: "अन्तिमावस्थायां स्मृतिभ्रंशयुक्तेन सह, यः विरलं वदति, कथं सम्भाषणं करणीयम्।"
+    a: "अग्रतः गत्वा, भवान् कः इति वदत, शान्तं स्वरं मृदुं स्पर्शं च उपयुज्यताम्। भावान् ज्ञातुं मुखं शरीरभाषां च पश्यत। भवतः उपस्थितिः, परिचितं गीतम्, हस्तग्रहणं वा शब्दैः विना अपि बहु संवादयितुं शक्नोति।"
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +39,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+स्मृतिभ्रंशेन शब्दान्वेषणं, दीर्घं वाक्यं अनुसरणं, पार्श्वध्वनिं च अवहेलनं कठिनं भवितुम् अर्हति। तथापि एतत् न अर्थयति यत् स जनः सम्बन्धं न इच्छति। भवतः सम्भाषणव्यवस्थायां, भवतः वचने, भवतः श्रवणे च लघवः परिवर्तनाः उभयोः कृते संवादं सुकरं शान्तं च कर्तुं शक्नुवन्ति।
 
-## What are the most important tips for talking with someone who has dementia?
+## स्मृतिभ्रंशयुक्तजनेन सह सम्भाषणे मुख्याः सूचनाः काः।
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+तस्य ध्यानं आकर्षत, सरलतया वदत, धैर्यं धारयत। यदि भवान् पञ्च एव विषयान् स्मरति, तर्हि एतान् स्मरतु:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **कक्षं शान्तं कुरुत, तस्य सम्मुखं च तिष्ठत।** दूरदर्शनं निष्क्रियं कुरुत, नेत्रसमे उपविशत, तस्य नाम च उपयुज्यताम्।
+2. **एकस्मिन् समये एकम् एव वदत।** लघूनि वाक्यानि, एकः विचारः, एकः प्रश्नः।
+3. **द्वौ विकल्पौ यच्छत।** “चायः वा काफ़ी वा?” इति प्रश्नः “भवान् किं इच्छति?” इति प्रश्नात् सुकरः।
+4. **प्रतीक्षध्वम्।** उत्तराय स्वाभाविकात् अधिकं समयं दत्त, मध्ये न अवरोधयत।
+5. **न विवादं कुरुत, न परीक्षध्वम्।** तथ्यं सम्यक् अस्ति वा न इति न, अपितु तस्य भावं अवगच्छत।
 
-## How should I start a conversation?
+## सम्भाषणम् आरभमाणेन मया कथं कर्तव्यम्।
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+तथा व्यवस्थां कुरुत यथा स जनः भवति ध्यानं दातुं शक्नोति। [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) प्रथमं ध्वनिं न्यूनीकर्तुं सूचयति: आकाशवाणीं दूरदर्शनं वा निष्क्रियं कुरुत, यवनिकाः द्वारं वा पिदधातु, अथवा शान्ततरं स्थानं गच्छत।
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **अग्रतः गच्छत।** पृष्ठतः वा पार्श्वतः आगमनं तं भीतं कर्तुम् अर्हति।
+- **भवान् कः इति वदत।** “नमस्ते तात, अहं सारा, भवतः पुत्री।” एतेन तस्य नामस्मरणस्य यत्नः न आवश्यकः।
+- **तस्य स्तरं प्रति आगच्छत।** यदि सः उपविष्टः, तर्हि भवान् अपि उपविशत वा जानुनी स्थापयत यथा भवतः नेत्रे तस्य नेत्रसमे भवतः।
+- **स्वस्य मुखभावं स्वरं च पश्यत।** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) सूचयति यत् भवतः स्वरः, उच्चता, मुखभावः, शरीरभाषा च प्रति सजगः भवतु, उष्णः सरलः च व्यवहारः भवतु।
+- **चश्मा श्रवणयन्त्रं च सन्ति वा इति पश्यत।** यत् सम्यक् दृश्यते श्रूयते वा न, तत् अनुसर्तुं कठिनम्।
 
-## How should I phrase what I say?
+## मया मम वचनानि कथं वक्तव्यानि।
 
-Use simple words, short sentences and a calm, low voice.
+सरलान् शब्दान्, लघूनि वाक्यानि, शान्तं नीचं च स्वरं उपयुज्यताम्।
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **एकस्मिन् वाक्ये एकः विचारः।** “वयं भवतः प्रावारकं धरामः। ततः बहिः गमिष्यामः।” न तु उभौ एकस्मिन् एव श्वासे।
+- **सर्वनाम्नां स्थाने नामानि उपयुज्यताम्।** “पितृव्यी जीन् दूरभाषं अकरोत्” इति “सा दूरभाषं अकरोत्” इति अपेक्षया स्पष्टम्।
+- **स्वरः नीचः भवतु, न उच्चः।** Family Caregiver Alliance उच्चस्वरात् नीचस्वरं सूचयति।
+- **पुनः वदत, ततः अन्यथा वदत।** यदि सः न अवगच्छति, तर्हि तान् एव शब्दान् एकवारं पुनः वदत। यदि तत् न साहाय्यं करोति, किञ्चित् प्रतीक्ष्य भिन्नान् शब्दान् प्रयतध्वम्।
+- **दर्शयत अपि, वदत अपि।** चषकं निर्दिशत, द्वौ स्वेदरौ दर्शयत, अथवा प्रथमं पदं प्रदर्शयत।
+- **तेन सह वदत, न तु तस्य विषये।** NIA सूचयति यत् तस्य उपस्थितिं विना तस्य विषये कथनं बालोचितभाषा च वर्जनीया।
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA सामान्यप्रश्नानां सरलरूपाणि सूचयति। तादृशानि उदाहरणानि अत्र सन्ति:
 
-| Instead of | Try |
+| एतस्य स्थाने | इदं प्रयतध्वम् |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “रात्रिभोजने भवान् किं इच्छति?” | “भवान् मत्स्यं वा कुक्कुटमांसं वा इच्छति?” |
+| “भवान् कथम् अस्ति?” | “भवान् श्रान्तः अस्ति वा?” |
+| “भवते बुभुक्षा अस्ति वा?” | “रात्रिभोजनं पञ्चनिमेषेषु सज्जं भविष्यति।” |
+| “एवं न करणीयम्।” | “वयं एवं प्रयतामहे।” |
+| “भवान् सरोवरयात्रां स्मरति वा?” | “अहं सरोवरयात्रां चिन्तयामि। भवान् तस्यां किं रोचते स्म इति कथयतु।” |
+| “अहं पूर्वम् एव अवदम्।” | प्रथमवारम् इव पुनः मृदुतया उत्तरं दत्त। |
 
-## How do I listen well?
+## अहं सम्यक् कथं श्रोतुं शक्नोमि।
 
-Listen for the meaning and the feeling, not just the words.
+शब्दानाम् एव न, अपितु आशयं भावं च शृणुत।
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **प्रतीक्षध्वम्।** मौनं प्रायः चिन्तनकालः भवति। हस्तक्षेपात् पूर्वं शनैः दश यावत् गणयत।
+- **केवलं तस्य अटके सति शब्दं सूचयत।** Family Caregiver Alliance वदति यत् यदा कश्चित् यतते, तदा शब्दसूचनं समुचितं भवितुम् अर्हति।
+- **यत् भवता श्रुतं तत् परीक्षत।** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) सूचयति यत् तस्य शब्दानां पृष्ठतः स्थितम् आशयं अन्विष्य, भवता सम्यक् अवगतम् इति परीक्षितुं तत् पुनः वदत। “भवान् यानविषये चिन्तितः अस्ति वा?”
+- **तस्य मुखं शरीरं च पश्यत।** यथा यथा वाक् कठिना भवति, तथा तथा NIA उल्लेखति यत् मुखभावाः दुःखं, क्रोधं, निराशां वा शब्देभ्यः स्पष्टतरं दर्शयितुम् अर्हन्ति।
+- **चिन्ताः गम्भीरतया गृह्यन्ताम्।** यद्यपि चिन्ता भ्रान्ततथ्ये आधृता, भावः तु वास्तविकः।
 
-## What if they say something that is not true?
+## यदि सः असत्यं वदति, तर्हि किं करणीयम्।
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+न विवादं कुरुत। भवतः विजयः प्रायः न भविष्यति, स जनः च लज्जितः भीतः वा अनुभूतुं शक्नोति। तस्य स्थाने भावेन सह सम्बध्यत, ततः मृदुतया विषयं परिवर्तयत।
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance सूचयति यत् विषयपरिवर्तनात् पूर्वं भावः स्वीकर्तव्यः। उदाहरणार्थम्, यदि भवतः माता आग्रहं करोति यत् सा बालकान् विद्यालयात् आनेतुं गच्छति:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- एतस्य स्थाने: “अम्ब, भवत्याः बालकाः वृद्धाः जाताः। तत् चत्वारिंशद्वर्षेभ्यः पूर्वम् आसीत्।”
+- इदं प्रयतध्वम्: “भवती सदा स्निग्धा माता आसीत्। तान् आनेतुं गमनस्य विषये कथयतु। किं वयं प्रथमं किञ्चित् खादामः?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association अपि सूचयति यत् येषु वचनेषु भवान् न सहमतः, तेषु विवादः न करणीयः। उचितं समयं चिनुत: यदि भ्रान्ता धारणा अहानिकरा, तर्हि तां त्यजत।
 
-## How does communication change as dementia progresses?
+## स्मृतिभ्रंशस्य प्रगतौ संवादः कथं परिवर्तते।
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+समयेन आवश्यकताः परिवर्तन्ते, अतः भवतः उपायः अपि परिवर्तनीयः। Alzheimer's Association त्रीन् व्यापकान् स्तरान् वर्णयति:
 
-| Stage | What helps |
+| स्तरः | किं साहाय्यं करोति |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| प्रारम्भिकः | सः संवादं कर्तुं न शक्नोति इति न मन्यताम्। तं सम्भाषणेषु समावेशयत, प्रत्यक्षं तेन सह वदत, तस्मै कीदृशं साहाय्यं रोचते इति पृच्छत, यदि उपकारकं तर्हि हास्यं अपि उपयुज्यताम्। |
+| मध्यमः | शान्ते स्थाने एकैकसंवादः। शनैः वदत, दृष्टिसम्पर्कं धारयत, आम्-न-इति प्रश्नान् उपयुज्यताम्, क्रमशः निर्देशान् दत्त, न निन्दत, न संशोधयत। |
+| अन्तिमः | अग्रतः गत्वा, भवान् कः इति वदत। अङ्गुलिनिर्देशं सङ्केतान् च प्रोत्साहयत। स्पर्शं, ध्वनीन्, दृश्यानि, गन्धान् च उपयुज्यताम्। सः तत्र नास्ति इव कदापि न वदत। |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+प्रत्येकः जनः भिन्नः, स एव जनः च कदाचित् सुकरान् कदाचित् कठिनान् दिनानि अनुभवितुम् अर्हति। इदानीं सः कथम् अस्ति इति दृष्ट्वा प्रतिक्रियां कुरुत, न तु कस्यचन नाम्नः आधारेण।
 
-## Can pictures and activities make conversation easier?
+## किं चित्राणि क्रियाः च संवादं सुकरं कर्तुं शक्नुवन्ति।
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+आम्। सहदृष्टं चित्रं दबावं न्यूनीकरोति, उभाभ्यां च किञ्चित् द्रष्टुं निर्देष्टुं च ददाति।
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **चित्रप्रेरणाः।** [Conversation Cards](/games/conversation-cards/) चित्राणि मुक्तप्रश्नान् च यच्छन्ति, ये कदापि न परीक्षन्ते।
+- **परिवारचित्राणि।** [Photo Pairs](/games/photo-pairs/) भवता चितानि चित्राणि मृदुयोजनक्रीडायां परिवर्तयति, या प्रायः कथाः प्रेरयति।
+- **परिचिताः उक्तयः।** [Finish the Saying](/games/finish-the-saying/) सुप्रसिद्धाः अमेरिकीयाः उक्तीः उपयुज्य, ततः सम्भाषणप्रेरणां ददाति।
+- **पृष्ठभूमिरूपेण योजनक्रीडाः।** [Picture Pairs](/games/picture-pairs/) सम्भाषणकाले हस्ताभ्यां कर्तुं किञ्चित् ददाति।
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+अधिकं ज्ञातुं [कथं सह क्रीडनीयम्](/caregiving/how-to-play-together/) तथा [स्मरणक्रियाः](/activities/reminiscence/) पश्यत। भेटानां दूरभाषसम्भाषणानां च कृते [भेटाः](/activities/visiting/) तथा [दूरभाषदृश्यसम्भाषणानि](/activities/phone-and-video-calls/) इति मार्गदर्शिकाः पठत।
 
-## What if I lose my patience?
+बहुभाषिकजनस्य कृते [भाषान्तरेण संवादविषयिका मार्गदर्शिका](/caregiving/language-and-dementia-communication/) पश्यत।
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## यदि मम धैर्यं नश्यति, तर्हि किं करणीयम्।
+
+एतत् सर्वेषां भवति। NIA सूचयति यत् यदि भवान् निराशः भवति, तर्हि शान्तये किञ्चित् समयं गृह्णातु। अन्यस्मिन् कक्षे गत्वा, कतिचन शनैः श्वासान् गृह्णातु, यदा भवान् शान्तः भवति तदा पुनः आगच्छतु। भवान् सम्भाषणं पुनः आरब्धुं शक्नोति, भवतः शान्तभावं दृष्ट्वा स जनः सम्यक् प्रतिक्रियां कर्तुम् अर्हति। यदि निराशा नित्या भवति, तर्हि एषः सङ्केतः अस्ति यत् भवते अधिकं साहाय्यं आवश्यकम्, न तु यत् भवान् विफलः। [परिचारकस्य आत्मपरिचर्या](/caregiving/caregiver-self-care/) इति अस्माकं मार्गदर्शिकायां साहाय्यस्थानानि सन्ति।

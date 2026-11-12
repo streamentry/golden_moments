@@ -1,32 +1,29 @@
 ---
-title: "Handarzā Paiti-mraoi yaŋhe Manaŋhō Frasisiyeiti"
-seoTitle: "Vacō Handarzā: Čit Mruye čitca Para-mruye"
-description: "Hu-dāitya paiti-mraoi yōim xratu-frasisištīm dārayeiti: ciϑa vacō dāiti, čit mraoiti vī a-pərəsa, yaϑaca gaošayāiti."
+title: "𐬵𐬀𐬨⸱𐬬𐬀𐬗𐬀𐬵 𐬛𐬀𐬉𐬥𐬌𐬌𐬁 𐬫𐬀𐬙 𐬵𐬀𐬨⸱𐬨𐬆𐬭𐬆𐬥𐬀𐬵"
+seoTitle: "𐬵𐬀𐬨⸱𐬬𐬀𐬗𐬀𐬵 𐬛𐬀𐬉𐬥𐬌𐬌𐬁: 𐬐𐬀𐬚𐬁 𐬬𐬀𐬗 𐬐𐬀𐬚𐬁 𐬨𐬁"
+description: "𐬵𐬀𐬨⸱𐬬𐬀𐬗𐬀𐬵 𐬛𐬀𐬉𐬥𐬌𐬌𐬁 𐬫𐬀𐬙 𐬵𐬀𐬨⸱𐬨𐬆𐬭𐬆𐬥𐬀𐬵: 𐬐𐬀𐬚𐬁 𐬭𐬀𐬰, 𐬐𐬀𐬚𐬁 𐬬𐬀𐬗, 𐬐𐬀𐬚𐬁 𐬯𐬭𐬀𐬊𐬙𐬀."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Tušnō-stāne mraoya, paiti-ainika stahi, nāmanəm paiti-mruye, yāskərətamca
-  mərəzu-vacahi mraoya. Aēva-pərəsam aēva-zruye pərəsa, duye vara dāhiti,
-  darəγamca māraya. Mā a-ərəzō paiti-saŋha, mā frasa zōžda. Manaŋhō cistīm
-  paiti-mruye, zastaca, paēsa, aojō yasca vacō frasisiyeiti.
+  𐬑𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬯𐬙𐬁𐬥𐬀 𐬫𐬀𐬙 𐬬𐬀𐬗, 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌, 𐬥𐬁𐬨𐬀 𐬬𐬀𐬗, 𐬛𐬆𐬭𐬆𐬖𐬀 𐬎𐬙𐬀 𐬯𐬎𐬐𐬌 𐬬𐬀𐬗𐬀 𐬬𐬀𐬗. 𐬀𐬉𐬎𐬎𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬞𐬆𐬭𐬆𐬯, 𐬛𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬀𐬉, 𐬎𐬙𐬀 𐬛𐬆𐬭𐬆𐬖𐬀𐬙𐬀𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀. 𐬨𐬁 𐬞𐬀𐬌𐬙𐬌⸱𐬬𐬀𐬗, 𐬨𐬁 𐬀𐬯𐬀𐬭𐬆, 𐬨𐬁 𐬞𐬆𐬭𐬆𐬯⸱𐬫𐬀𐬯𐬥𐬀. 𐬵𐬎𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀, 𐬎𐬙𐬀 𐬵𐬀𐬯𐬙𐬀, 𐬗𐬌𐬚𐬭𐬀, 𐬎𐬙𐬀 𐬵𐬀𐬨⸱𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙.
 keyPoints:
-  - "Tušnīm karana dāraya, cašmanō paiti-ainikəm vīna para paiti-vacahya."
-  - "Mərəzu-vacā mruye, aēva cistīm aēvada, nāmanica dāraya paiti taēibyō."
-  - "Duwayå vī-ciϑəm dāraya, ayauua a-nōit pərəsa, vī vispa-pərəsam."
-  - "Paiti-vacahya māraya. Yezi nōit gaošāite, tāmca vacīm paiti-mruye, pasca anya vacā."
-  - "Mā paiti-ərəzayeiti. Paiti-ainike manaŋhō garəma paiti-mruye yā mraoiti."
-  - "Yadā vacō frasisiyeiti, zasta-paiti, garəma-vacahya, ainika, paēsaica paiti-mraoya."
+  - "𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬛𐬭𐬆𐬥𐬘 𐬀𐬞𐬀⸱𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙 𐬎𐬙𐬀 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬉."
+  - "𐬯𐬎𐬐𐬌 𐬬𐬀𐬗𐬀 𐬬𐬀𐬗, 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬥𐬀𐬵, 𐬎𐬙𐬀 𐬥𐬁𐬨𐬀 𐬬𐬀𐬗 𐬫𐬀𐬚𐬀 𐬵𐬋, 𐬵𐬁, 𐬙𐬀𐬉."
+  - "𐬛𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬀𐬉, 𐬫𐬀𐬙 𐬵𐬀𐬎𐬎𐬀/𐬥𐬋𐬌𐬙 𐬞𐬆𐬭𐬆𐬯𐬀, 𐬥𐬋𐬌𐬙 𐬎𐬔𐬭𐬀 𐬞𐬆𐬭𐬆𐬯𐬀."
+  - "𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀. 𐬫𐬆𐬰𐬌 𐬥𐬋𐬌𐬙 𐬠𐬎𐬜𐬀, 𐬵𐬀𐬨𐬀 𐬬𐬀𐬗𐬀 𐬞𐬀𐬙𐬌 𐬬𐬀𐬗, 𐬙𐬀𐬙 𐬀𐬥𐬌𐬌𐬁 𐬬𐬀𐬗𐬀 𐬬𐬀𐬗."
+  - "𐬨𐬁 𐬞𐬀𐬌𐬙𐬌⸱𐬬𐬀𐬗 𐬎𐬙𐬀 𐬨𐬁 𐬀𐬯𐬀𐬭𐬆. 𐬵𐬎𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀."
+  - "𐬫𐬀𐬙 𐬬𐬀𐬗𐬀 𐬀𐬞𐬀𐬌𐬌𐬈𐬌𐬙𐬌, 𐬵𐬀𐬯𐬙𐬀, 𐬕𐬀𐬑𐬭𐬀, 𐬀𐬑𐬱𐬌, 𐬎𐬙𐬀 𐬵𐬀𐬨⸱𐬗𐬌𐬚𐬭𐬀 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙."
 faq:
-  - q: "Čit nōit paiti-mraoya ahmāi yaŋhe manaŋhō frasisiyeiti?"
-    a: "Para-mruye a-pərəsa (\"Aiti-mərəti...?\"), arəm-karana (\"Nōit aša asti\"), ayauua a-frasa ahmya yaϑa nōit ahmya asti. Mā vīra-apara vacā mraoya. Imā xrafstra cistīm dāiti a-rafnō."
-  - q: "Paiti-ərəzāne-vā yadā a-dāityō mraon?"
-    a: "Nōit yākarə. Yezi a-aša nōit duš-ciϑra, haca-para dāraya. Paiti-saŋha nōit manaŋhō pairi-kerete, xratu-ərəzō tbaēšō dāiti. Dāraya yaϑa garəma manaŋhō asti nūra."
-  - q: "Čit varəsayāmi yadā nōit vacəm vindaiti?"
-    a: "Paoirīm zrvānəm dāraya. Yezi vī-baon, paiti-vohum vacəm dāhiti ayauua pərəsa čit xratūm cisti. Zastayā daxštəm, paēsaica ahmya avastara bånti."
-  - q: "Ciϑa mraomi ahmāi yaŋhe darəγō-marəzō asti yasca apanō-vacō?"
-    a: "Paiti-ainikəm a-cara, nāmanəm saŋha, tušnō-vacahya zasta dāraya. Ainika gaošaya. Haca thwā stiti, sraoša-gāϑā, ayauua zasta-dārayana paiti-vacahya borzō asti a-vacahya."
+  - q: "𐬐𐬀𐬚𐬁 𐬨𐬁 𐬬𐬀𐬗 𐬞𐬀𐬌𐬙𐬌 𐬫𐬀𐬙 𐬵𐬀𐬨⸱𐬨𐬆𐬭𐬆𐬥𐬀𐬵 𐬀𐬯𐬙𐬌?"
+    a: "𐬞𐬆𐬭𐬆𐬯⸱𐬫𐬀𐬯𐬥𐬀 𐬨𐬁 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙 (\"𐬛𐬀𐬉𐬥𐬌𐬌𐬁?\"), 𐬀𐬯𐬀𐬭𐬆 𐬨𐬁 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙 (\"𐬥𐬋𐬌𐬙 𐬀𐬴𐬀\"), 𐬞𐬀𐬙𐬌⸱𐬯𐬨𐬀𐬭𐬀𐬥𐬀 𐬨𐬁 𐬛𐬀𐬉 (\"𐬥𐬋 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬎𐬑𐬙𐬀\"), 𐬎𐬙𐬀 𐬨𐬁 𐬬𐬀𐬗 𐬫𐬀𐬚𐬀 𐬵𐬋 𐬥𐬀 𐬀𐬯𐬙𐬌. 𐬨𐬁 𐬬𐬀𐬗 𐬫𐬀𐬚𐬀 𐬞𐬎𐬚𐬭𐬀. 𐬀𐬉𐬙𐬀 𐬛𐬎𐬑𐬌𐬙𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬥𐬙𐬌, 𐬎𐬙𐬀 𐬥𐬋𐬌𐬙 𐬀𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌."
+  - q: "𐬫𐬀𐬙 𐬵𐬋 𐬀𐬯𐬀𐬭𐬆 𐬬𐬀𐬗, 𐬀𐬵𐬨𐬀𐬌 𐬀𐬯𐬀𐬭𐬆 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬎𐬀?"
+    a: "𐬠𐬀𐬵𐬎 𐬥𐬋𐬌𐬙. 𐬫𐬆𐬰𐬌 𐬀𐬯𐬀𐬭𐬆 𐬥𐬀 𐬛𐬎𐬑𐬌𐬙𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌, 𐬎𐬞𐬀 𐬵𐬌𐬱𐬙𐬀. 𐬞𐬀𐬌𐬙𐬌⸱𐬬𐬀𐬗 𐬥𐬋𐬌𐬙 𐬨𐬀𐬥𐬀𐬵 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬈𐬌𐬙𐬌, 𐬎𐬙𐬀 𐬠𐬀𐬵𐬎 𐬛𐬎𐬑𐬌𐬙𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌. 𐬵𐬎𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀 𐬎𐬙𐬀 𐬫𐬀𐬙 𐬥𐬎 𐬀𐬥𐬔𐬵𐬀𐬙𐬌."
+  - q: "𐬫𐬀𐬙 𐬵𐬋 𐬬𐬀𐬗 𐬥𐬀 𐬎𐬎𐬌𐬥𐬛𐬀𐬙𐬌, 𐬐𐬀𐬚𐬁 𐬐𐬆𐬭𐬆𐬥𐬀𐬎𐬎𐬀?"
+    a: "𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀. 𐬫𐬆𐬰𐬌 𐬵𐬋 𐬛𐬎𐬔𐬭𐬀 𐬀𐬯𐬙𐬌, 𐬯𐬎𐬐𐬌 𐬬𐬀𐬗 𐬛𐬀𐬉 𐬫𐬀𐬙 𐬞𐬆𐬭𐬆𐬯, 𐬀𐬴𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬢𐬔𐬎𐬱𐬙𐬀, 𐬞𐬀𐬌𐬙𐬌⸱𐬐𐬆𐬭𐬆𐬥𐬀, 𐬎𐬙𐬀 𐬗𐬌𐬚𐬭𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌."
+  - q: "𐬫𐬀𐬙 𐬵𐬀𐬨⸱𐬨𐬆𐬭𐬆𐬥𐬀𐬵 𐬀𐬞𐬀𐬭𐬀 𐬀𐬯𐬙𐬌 𐬎𐬙𐬀 𐬠𐬀𐬵𐬎 𐬥𐬀 𐬬𐬀𐬗, 𐬐𐬀𐬚𐬁 𐬬𐬀𐬗?"
+    a: "𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬀𐬌𐬙𐬌, 𐬥𐬁𐬨𐬀 𐬬𐬀𐬗 𐬐𐬀𐬵𐬌𐬌𐬁 𐬀𐬯𐬌, 𐬎𐬙𐬀 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬕𐬀𐬑𐬭𐬀 𐬎𐬙𐬀 𐬯𐬎𐬐𐬌 𐬵𐬀𐬯𐬙𐬀 𐬬𐬀𐬗. 𐬀𐬑𐬱𐬌 𐬎𐬙𐬀 𐬙𐬀𐬥𐬏 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀 𐬵𐬎𐬱𐬌. 𐬫𐬎𐬱𐬨𐬀𐬐𐬀 𐬀𐬯𐬙𐬌, 𐬞𐬭𐬌𐬌𐬀 𐬔𐬁𐬚𐬀, 𐬫𐬀𐬙 𐬵𐬀𐬯𐬙𐬀 𐬛𐬀𐬭𐬆𐬥𐬀 𐬠𐬀𐬵𐬎 𐬬𐬀𐬗 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬥𐬙𐬌, 𐬀𐬥𐬌𐬌𐬀 𐬬𐬀𐬗𐬀 𐬥𐬀."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -38,98 +35,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Xratu-frasisištiš vacanąm vi-vidəm, darəγō-vacahya paiti-ayəm, ayauua garəma-sraoša tušnəm karanam kašu bavāiti. Nōit aēte cisti yaϑa nā yōim tū pātayasi nōit vasaiti haxədra. Kasu-tarō vī-daēza ahmya ciϑa paiti-vacō fravarəzahi, ciϑa mraohi, ciϑaca gaošayahi paiti-vacō hu-tarəm tušnō-tarəmca dāiti duwayō paiti.
+𐬵𐬀𐬨⸱𐬨𐬆𐬭𐬆𐬥𐬀𐬵 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌 𐬫𐬀𐬙 𐬬𐬀𐬗𐬀 𐬎𐬎𐬌𐬥𐬛𐬀𐬙𐬌, 𐬛𐬆𐬭𐬆𐬖𐬀 𐬬𐬀𐬗 𐬯𐬭𐬀𐬊𐬙𐬀, 𐬫𐬀𐬙 𐬛𐬭𐬆𐬥𐬘 𐬀𐬞𐬀⸱𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌 𐬛𐬎𐬔𐬭𐬀 𐬀𐬯𐬙𐬌. 𐬀𐬉𐬙𐬀 𐬥𐬀 𐬨𐬀𐬥𐬀𐬌𐬙𐬌 𐬫𐬀𐬙 𐬵𐬋 𐬥𐬋𐬌𐬙 𐬵𐬀𐬨⸱𐬠𐬀𐬥𐬛𐬀 𐬎𐬎𐬀𐬥𐬙𐬌. 𐬯𐬎𐬐𐬌 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬥𐬀 — 𐬐𐬀𐬚𐬁 𐬭𐬀𐬰, 𐬐𐬀𐬚𐬁 𐬬𐬀𐬗, 𐬐𐬀𐬚𐬁 𐬯𐬭𐬀𐬊𐬙𐬀 — 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬯𐬎𐬑𐬀 𐬎𐬙𐬀 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬥𐬙𐬌 𐬫𐬎𐬎𐬁𐬐𐬀𐬨 𐬎𐬙𐬀 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨.
 
-## Čit asti mašišta handarzā paiti-mraoi yaŋhe manaŋhō frasisiyeiti?
+## 𐬐𐬀𐬚𐬁 𐬨𐬀𐬵𐬌𐬱𐬙𐬀 𐬛𐬀𐬉𐬥𐬌𐬌𐬁 𐬀𐬯𐬙𐬌 𐬫𐬀𐬙 𐬵𐬀𐬨⸱𐬨𐬆𐬭𐬆𐬥𐬀𐬵 𐬵𐬀𐬨⸱𐬬𐬀𐬗?
 
-Uši dāraya, mərəzu dāraya, darəγō-manahca bava. Yezi 5 aēte paitī-marahi:
+𐬵𐬎𐬱𐬌 𐬎𐬎𐬀𐬥, 𐬯𐬎𐬐𐬌 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙, 𐬎𐬙𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀. 𐬫𐬆𐬰𐬌 𐬞𐬀𐬧𐬗𐬀 𐬯𐬨𐬀𐬭𐬀𐬙𐬀:
 
-1. **Tušnīm garəzō dāraya, ainika stahi.** Paiti-sraošəm para-dāraya, cašmanō daēza paiti-nica, nāmanəmca mraoya.
-2. **Aēva cistīm aēvada saŋha.** Mərəzu-vacā, aēva daēza, aēva pərəsa.
-3. **Duwayå vī-ciϑəm dāraya.** "Xaoma-vā kafo-vā?" hu-tarəm asti yaϑa "Čit vasahi?"
-4. **Māraya.** Zrvānəm dāraya paiti-vacahya darəγō-tarəm, māca a-zrvāne ahmya antarə-cara.
-5. **Mā paiti-ərəzaya mā pərəsa zōžda.** Manaŋhō garəma paiti-mruye, nōit aša-vā dāityō-vā asti.
+1. **𐬯𐬙𐬁𐬥𐬀 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬎𐬙𐬀 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬀𐬯𐬙𐬀.** TV 𐬀𐬞𐬀⸱𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙, 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬀, 𐬎𐬙𐬀 𐬥𐬁𐬨𐬀 𐬬𐬀𐬗.
+2. **𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬥𐬀𐬵 𐬞𐬆𐬭𐬆𐬯.** 𐬯𐬎𐬐𐬌 𐬬𐬀𐬗𐬀, 𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬥𐬀𐬵, 𐬀𐬉𐬎𐬎𐬀 𐬞𐬆𐬭𐬆𐬯𐬀.
+3. **𐬛𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀 𐬛𐬀𐬉.** "𐬗𐬁𐬌 𐬫𐬀𐬙 𐬐𐬀𐬵𐬎𐬎𐬀?" 𐬯𐬎𐬑𐬀𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌 𐬫𐬀𐬚𐬀 "𐬐𐬀𐬙𐬀𐬭𐬀 𐬎𐬎𐬀𐬥𐬙𐬌?"
+4. **𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀.** 𐬛𐬆𐬭𐬆𐬖𐬀𐬙𐬀𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀, 𐬎𐬙𐬀 𐬨𐬁 𐬬𐬀𐬗 𐬀𐬞𐬀⸱𐬗𐬌𐬥.
+5. **𐬨𐬁 𐬞𐬀𐬌𐬙𐬌⸱𐬬𐬀𐬗 𐬎𐬙𐬀 𐬨𐬁 𐬞𐬆𐬭𐬆𐬯⸱𐬫𐬀𐬯𐬥𐬀.** 𐬵𐬎𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀, 𐬥𐬋𐬌𐬙 𐬫𐬀𐬙 𐬀𐬴𐬀 𐬀𐬯𐬙𐬌 𐬫𐬀𐬙 𐬥𐬋𐬌𐬙.
 
-## Ciϑa paoirīm paiti-vacahya fravarəzāmi?
+## 𐬐𐬀𐬚𐬁 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬀𐬭𐬀𐬵𐬌𐬌𐬁?
 
-Vərəzyō yaϑa nā paitī thwā uši dārayeiti. [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) handarzā dāiti tušnəm karanam paoirīm: paiti-sraošəm para-dāraya, dvarəm cašmanō-vāra-ca paiti-mada, ayauua tušnō-stāne cara.
+𐬫𐬀𐬚𐬀 𐬵𐬋 𐬞𐬀𐬌𐬙𐬌 𐬫𐬎𐬱𐬨𐬀𐬐𐬀 𐬵𐬎𐬱𐬌 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌. [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬛𐬭𐬆𐬥𐬘 𐬀𐬞𐬀⸱𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙: 𐬭𐬁𐬛𐬌𐬌𐬋 𐬫𐬀𐬙 TV 𐬀𐬞𐬀⸱𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙, 𐬛𐬎𐬎𐬀𐬭𐬀 𐬫𐬀𐬙 𐬛𐬀𐬭 𐬠𐬀𐬥𐬛, 𐬫𐬀𐬙 𐬯𐬙𐬁𐬥𐬀 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬀𐬌𐬙𐬌.
 
-- **Paoirīm ainikəm a-cara.** Apasca ayauua a-arəzō a-cara tərəsənti.
-- **Nāmanəm saŋha ci-ahi.** "Dātarə, azəm Sarah thwā duhda." Aēte ahmāi rafnō dāiti vī nāma vīndəm.
-- **Ainika-daēzəm nica-cara.** Yezi stāiti, nica-hida ayauua zānubyō stahi yaϑa cašmanō daēza aēva asti.
-- **Ainika vacahya garəmaca vi-mana.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) saŋhaiti garəma-vacō, sraoša, ainika yasca kehrp-daxšta uši dāraya, hu-manahca hu-dāityaca bava.
-- **Cašmō-yāna sraoša-yānaca dāraya.** Hu-vacō paiti-ayəm nōit bavaiti yezi nōit vīnaiti ayauua sraota.
+- **𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬀𐬌𐬙𐬌.** 𐬀𐬞𐬀𐬱𐬙𐬀 𐬀𐬌𐬙𐬌 𐬛𐬎𐬑𐬌𐬙𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌.
+- **𐬥𐬁𐬨𐬀 𐬬𐬀𐬗 𐬐𐬀𐬵𐬌𐬌𐬁 𐬀𐬯𐬌.** "𐬥𐬀𐬨𐬋 𐬞𐬌𐬙𐬀, 𐬀𐬵𐬆𐬨 Sarah, 𐬛𐬎𐬖𐬛𐬀 𐬙𐬀𐬎𐬎𐬀." 𐬀𐬉𐬙𐬀 𐬵𐬋 𐬀𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌 𐬫𐬀𐬙 𐬥𐬁𐬨𐬀 𐬥𐬀 𐬞𐬀𐬌𐬙𐬌 𐬯𐬀𐬉𐬙𐬌.
+- **𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬥𐬌𐬱𐬀𐬯𐬙𐬀.** 𐬫𐬆𐬰𐬌 𐬵𐬋 𐬥𐬌𐬱𐬀𐬯𐬙𐬀, 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬥𐬌𐬱𐬀𐬯𐬙𐬀 𐬫𐬀𐬚𐬀 𐬀𐬑𐬱𐬌 𐬵𐬀𐬨𐬀 𐬀𐬯𐬙𐬌.
+- **𐬀𐬑𐬱𐬌 𐬎𐬙𐬀 𐬕𐬀𐬑𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬕𐬀𐬑𐬭𐬀, 𐬎𐬗𐬀, 𐬀𐬑𐬱𐬌, 𐬎𐬙𐬀 𐬙𐬀𐬥𐬏 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀, 𐬎𐬙𐬀 𐬵𐬎𐬱𐬌, 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬎𐬎𐬆𐬭𐬆𐬰 𐬀𐬯𐬙𐬎.
+- **𐬀𐬑𐬱𐬌⸱𐬗𐬀𐬱𐬨𐬀 𐬎𐬙𐬀 𐬔𐬀𐬊𐬱𐬀⸱𐬯𐬭𐬀𐬊𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬎.** 𐬫𐬀𐬙 𐬥𐬀 𐬛𐬀𐬭𐬆𐬖 𐬫𐬀𐬙 𐬥𐬀 𐬯𐬭𐬀𐬊𐬙𐬀, 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬛𐬎𐬔𐬭𐬀 𐬀𐬯𐬙𐬌.
 
-## Ciϑa vacā paiti-saŋhāmi?
+## 𐬐𐬀𐬚𐬁 𐬬𐬀𐬗 𐬬𐬀𐬗?
 
-Hu-vacā, mərəzu-vacā, tušnō-tarəmca gaošō-vacō dāraya.
+𐬯𐬎𐬐𐬌 𐬬𐬀𐬗𐬀, 𐬯𐬎𐬐𐬌 𐬬𐬀𐬗, 𐬎𐬙𐬀 𐬑𐬎𐬎𐬀𐬯𐬙𐬀, 𐬥𐬌𐬛𐬀 𐬕𐬀𐬑𐬭𐬀 𐬬𐬀𐬗.
 
-- **Aēva cistīm aēva-vacahi.** "Vastra pairi-dāma. Pasca bērūn šavāma." Nōit duwayō aēva-hazaŋha.
-- **Nāmanica dāraya, nōit taēibyō.** "Jean paiti-mraot" hu-tarəm asti yaϑa "Hō paiti-mraot."
-- **Nica-sraoša, nōit borzō.** Family Caregiver Alliance nica-sraoša vacō rafnō dāiti nōit borzō-sraošəm.
-- **Paiti-mraoya, pasca vī-vacō.** Yezi nōit gaošāite, tāmca vacīm aēvada paiti-mruye. Yezi nōit vərəzyeiti, māraya kašu, pasca anya vacā vərəzya.
-- **Daxšta zastaica dāraya.** Jam a-daxštaya, duye vastra dāraya, ayauua paoirīm pada daxštaya.
-- **Ahmāi mraoya, nōit tarō ahmāi.** NIA paiti-tbaēšiti tarō ahmya mruye yaϑa nōit ahmya asti, vī-ca vīra-apara vacā.
+- **𐬀𐬉𐬎𐬎𐬀 𐬨𐬀𐬥𐬀𐬵 𐬞𐬆𐬭𐬆𐬯 𐬬𐬀𐬗.** "𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬛𐬀𐬭𐬆𐬨. 𐬙𐬀𐬙 𐬠𐬀𐬵𐬌𐬭𐬀 𐬫𐬁𐬨." 𐬥𐬋𐬌𐬙 𐬎𐬎𐬌𐬯𐬞𐬀 𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨.
+- **𐬥𐬁𐬨𐬀 𐬬𐬀𐬗, 𐬥𐬋𐬌𐬙 𐬞𐬭𐬀𐬙𐬌⸱𐬥𐬁𐬨𐬀.** "Aunt Jean 𐬬𐬀𐬗𐬀𐬙" 𐬯𐬞𐬀𐬱𐬙𐬀𐬙𐬀𐬭𐬀 𐬀𐬯𐬙𐬌 𐬫𐬀𐬚𐬀 "𐬵𐬁 𐬬𐬀𐬗𐬀𐬙."
+- **𐬥𐬌𐬛𐬀, 𐬥𐬋𐬌𐬙 𐬎𐬗𐬀.** Family Caregiver Alliance 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬥𐬌𐬛𐬀 𐬕𐬀𐬑𐬭𐬀, 𐬥𐬋𐬌𐬙 𐬎𐬗𐬀.
+- **𐬞𐬀𐬙𐬌 𐬬𐬀𐬗, 𐬙𐬀𐬙 𐬀𐬥𐬌𐬌𐬁 𐬬𐬀𐬗𐬀.** 𐬫𐬆𐬰𐬌 𐬥𐬀 𐬠𐬎𐬜𐬀, 𐬵𐬀𐬨𐬀 𐬬𐬀𐬗𐬀 𐬀𐬉𐬎𐬎𐬀 𐬞𐬀𐬙𐬌 𐬬𐬀𐬗. 𐬫𐬆𐬰𐬌 𐬥𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌, 𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀 𐬎𐬙𐬀 𐬀𐬥𐬌𐬌𐬁 𐬬𐬀𐬗𐬀 𐬬𐬀𐬗.
+- **𐬛𐬀𐬭𐬆𐬖 𐬎𐬙𐬀 𐬬𐬀𐬗.** 𐬞𐬀𐬌𐬙𐬌 𐬐𐬀𐬯𐬀 𐬀𐬢𐬔𐬎𐬱𐬙𐬀, 𐬛𐬎𐬎𐬀 𐬎𐬎𐬀𐬯𐬙𐬭𐬀 𐬛𐬀𐬭𐬆𐬖, 𐬫𐬀𐬙 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬐𐬆𐬭𐬆𐬥𐬀 𐬛𐬀𐬭𐬆𐬖.
+- **𐬵𐬋 𐬞𐬀𐬌𐬙𐬌 𐬬𐬀𐬗, 𐬥𐬋𐬌𐬙 𐬞𐬀𐬌𐬙𐬌 𐬵𐬋.** NIA 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬨𐬁 𐬬𐬀𐬗 𐬫𐬀𐬚𐬀 𐬵𐬋 𐬥𐬀 𐬀𐬯𐬙𐬌, 𐬎𐬙𐬀 𐬨𐬁 𐬬𐬀𐬗 𐬫𐬀𐬚𐬀 𐬞𐬎𐬚𐬭𐬀.
 
-NIA hu-tarəm vī-daēzəm frasanąm dāiti. Aēte ahmya daēzya:
+NIA 𐬯𐬎𐬐𐬌 𐬎𐬎𐬆𐬭𐬆𐬰𐬀 𐬛𐬀𐬉𐬙𐬌. 𐬀𐬉𐬙𐬀 𐬎𐬛𐬁𐬵𐬀𐬭𐬀𐬥𐬀 𐬀𐬯𐬙𐬌:
 
-| Para-mruye | Vərəzyō |
+| 𐬀𐬎𐬎𐬀 𐬫𐬀𐬙 | 𐬀𐬉𐬙𐬀 𐬬𐬀𐬗 |
 | --- | --- |
-| "Čit xvarəϑāi vasahi?" | "Masyō-vā vā sayanəm vasahi?" |
-| "Ciϑa manaŋha ahi?" | "Škəndo-vā ahi?" |
-| "Āsitō-vā ahi?" | "Xvarəϑa 5 kašu-zrvāne dāitīm bavaiti." |
-| "Nōit aēm daēvō-dāta asti." | "Ahmya dāitye vərəzyāma." |
-| "Paitī-marahi yānəm awai vairye?" | "Manaŋha dārayeimi aēm yānəm awai vairye. Saŋha čit thwāi fra-dāiti." |
-| "Paoirīm thwā saŋhəmi." | Paiti-mruye paiti, hu-manaŋha, yaϑa paoirīm zrvāne. |
+| "𐬐𐬀𐬙𐬀𐬭𐬀 𐬑𐬴𐬀𐬟𐬥𐬌𐬌𐬀 𐬎𐬎𐬀𐬥𐬙𐬌?" | "𐬨𐬀𐬯𐬌𐬌𐬀 𐬫𐬀𐬙 𐬐𐬎𐬎𐬀 𐬎𐬎𐬀𐬥𐬙𐬌?" |
+| "𐬐𐬀𐬚𐬁 𐬀𐬯𐬙𐬌?" | "𐬙𐬀𐬥𐬏 𐬛𐬎𐬔𐬭𐬀 𐬀𐬯𐬙𐬌?" |
+| "𐬑𐬴𐬎𐬛𐬭𐬀 𐬎𐬎𐬀𐬥𐬙𐬌?" | "𐬑𐬴𐬀𐬟𐬥𐬌𐬌𐬀 𐬞𐬀𐬧𐬗𐬀 𐬨𐬌𐬥𐬎𐬙𐬀 𐬭𐬀𐬰𐬀 𐬀𐬯𐬙𐬌." |
+| "𐬀𐬉𐬙𐬀 𐬥𐬋𐬌𐬙 𐬀𐬴𐬀 𐬀𐬯𐬙𐬌." | "𐬀𐬉𐬙𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬨." |
+| "𐬫𐬁𐬙𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬌𐬌𐬀 𐬛𐬀𐬉𐬥𐬌𐬌𐬁?" | "𐬥𐬋 𐬫𐬁𐬙𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬌𐬌𐬀 𐬨𐬀𐬥𐬀𐬌𐬌𐬀. 𐬐𐬀𐬙𐬀𐬭𐬀 𐬞𐬭𐬌𐬌𐬀 𐬀𐬯𐬙𐬌 𐬎𐬱𐬙𐬀?" |
+| "𐬥𐬋 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬎𐬑𐬙𐬀." | 𐬞𐬀𐬙𐬌 𐬵𐬎𐬱𐬌, 𐬫𐬀𐬚𐬀 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀, 𐬎𐬑𐬙𐬀. |
 
-## Ciϑa hupaiti gaošayāmi?
+## 𐬐𐬀𐬚𐬁 𐬵𐬎𐬱𐬌 𐬯𐬭𐬀𐬊𐬙𐬀?
 
-Gaošaya cistīm garəmaca manaŋhō, nōit aēva vacā.
+𐬨𐬀𐬥𐬀𐬵 𐬎𐬙𐬀 𐬵𐬎𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀, 𐬥𐬋𐬌𐬙 𐬎𐬎𐬀𐬗𐬀 𐬀𐬉𐬎𐬎𐬀.
 
-- **Māraya.** Tušnīm zrvān cistīm dāiti. Yāskərətam paiti 10 frasaŋha para antarə-carahi.
-- **Vacəm dāhiti yezi a-vīndō.** Family Caregiver Alliance saŋhaiti hu-dāityam asti vacəm dāiti yezi vī-baon.
-- **Paiti-daēza čit sraota.** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) saŋhaiti cistīm a-vacahi gaošaya, paiti-saŋha yaϑa gaošāite. "Vaza-paitī šaēti-vā ahi?"
-- **Ainika kehrp-ca daēza.** Yadā vacō frasisiyeiti, NIA saŋhaiti, ainika arskəm, aēšəm, ayauua škəndəm ahmya dāiti hu-tarəm yaϑa vacā.
-- **Zōžda manah paiti-dāraya.** Yezi tbaēšō haca a-aša bavāiti, garəma manaŋhō aša asti.
+- **𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀.** 𐬵𐬎𐬱𐬌 𐬠𐬀𐬵𐬎 𐬨𐬀𐬥𐬀𐬵⸱𐬐𐬀𐬭𐬀 𐬀𐬯𐬙𐬌. 𐬛𐬀𐬯𐬀 𐬞𐬀𐬌𐬙𐬌 𐬔𐬀𐬥 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬵𐬌𐬱𐬙𐬀.
+- **𐬬𐬀𐬗 𐬛𐬀𐬉 𐬫𐬆𐬰𐬌 𐬵𐬋 𐬛𐬎𐬔𐬭𐬀 𐬀𐬯𐬙𐬌.** Family Caregiver Alliance 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬬𐬀𐬗 𐬛𐬀𐬉 𐬀𐬴𐬀 𐬀𐬯𐬙𐬌, 𐬫𐬀𐬙 𐬵𐬋 𐬛𐬎𐬔𐬭𐬀 𐬀𐬯𐬙𐬌.
+- **𐬫𐬀𐬙 𐬯𐬭𐬎𐬙𐬀 𐬞𐬀𐬌𐬙𐬌 𐬞𐬆𐬭𐬆𐬯.** [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬨𐬀𐬥𐬀𐬵 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀 𐬎𐬙𐬀 𐬞𐬀𐬙𐬌 𐬬𐬀𐬗 𐬫𐬀𐬙 𐬠𐬎𐬜𐬀 𐬐𐬀𐬚𐬁 𐬀𐬴𐬀 𐬀𐬯𐬙𐬌. "𐬙𐬎𐬎𐬀𐬨 𐬭𐬀𐬚𐬀 𐬞𐬀𐬌𐬙𐬌 𐬀𐬧𐬔𐬵𐬀?"
+- **𐬀𐬑𐬱𐬌 𐬎𐬙𐬀 𐬙𐬀𐬥𐬏 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀.** 𐬫𐬀𐬙 𐬬𐬀𐬗 𐬛𐬎𐬔𐬭𐬀 𐬀𐬯𐬙𐬌, NIA 𐬎𐬑𐬙𐬀, 𐬀𐬑𐬱𐬌 𐬛𐬎𐬑𐬌𐬙𐬀, 𐬀𐬉𐬱𐬨𐬀, 𐬫𐬀𐬙 𐬀𐬧𐬔𐬵𐬀 𐬛𐬀𐬭𐬆𐬖 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌.
+- **𐬀𐬧𐬔𐬵𐬀 𐬞𐬀𐬌𐬙𐬌 𐬵𐬎𐬱𐬌 𐬔𐬆𐬭𐬆𐬠.** 𐬀𐬧𐬔𐬵𐬀 𐬀𐬴𐬀 𐬀𐬯𐬙𐬌, 𐬀𐬯𐬀𐬭𐬆 𐬥𐬀 𐬀𐬯𐬙𐬌.
 
-## Čit yezi nōit ašəm mraon?
+## 𐬫𐬆𐬰𐬌 𐬵𐬋 𐬀𐬥𐬌𐬌𐬀 𐬬𐬀𐬗 𐬫𐬀𐬙 𐬀𐬴𐬀 𐬥𐬀 𐬀𐬯𐬙𐬌, 𐬐𐬀𐬚𐬁?
 
-Mā paiti-ərəzaya. Nōit parō-bavahi, nāca škəndō ayauua tarsnu bavāiti. Haxədra garəməm dāraya, pasca hu-manaŋha tarō-cara.
+𐬨𐬁 𐬞𐬀𐬌𐬙𐬌⸱𐬬𐬀𐬗. 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬥𐬋𐬌𐬙 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬈𐬌𐬙𐬌, 𐬎𐬙𐬀 𐬵𐬋 𐬛𐬎𐬑𐬌𐬙𐬀 𐬫𐬀𐬙 𐬙𐬀𐬭𐬯𐬙𐬀 𐬀𐬧𐬵𐬀𐬌𐬌𐬈𐬌𐬙𐬌. 𐬀𐬎𐬎𐬀 𐬫𐬀𐬙, 𐬵𐬎𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬵𐬀𐬨⸱𐬠𐬀𐬥𐬛, 𐬙𐬀𐬙 𐬯𐬎𐬐𐬌 𐬀𐬥𐬌𐬌𐬀 𐬞𐬀𐬌𐬙𐬌 𐬫𐬁.
 
-Family Caregiver Alliance saŋhaiti garəməm manaŋhō paiti-dāraya para tarō-carahi. Daēza, yezi mātā paiti-saŋhaiti yaϑa vasaiti apara-yō vi-carana:
+Family Caregiver Alliance 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬵𐬎𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬔𐬆𐬭𐬆𐬠, 𐬙𐬀𐬙 𐬀𐬥𐬌𐬌𐬀 𐬞𐬀𐬌𐬙𐬌 𐬎𐬎𐬆𐬭𐬆𐬰. 𐬎𐬛𐬁𐬵𐬀𐬭𐬀𐬥𐬀: 𐬫𐬆𐬰𐬌 𐬨𐬁𐬙𐬀 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬵𐬋 𐬞𐬎𐬚𐬭𐬀 𐬞𐬀𐬌𐬙𐬌 𐬯𐬐𐬎𐬎𐬀 𐬎𐬎𐬀𐬥𐬙𐬌:
 
-- Para-mruye: "Mātō, apanō-vīra hando. Aēm 40 zrvāna para āsta."
-- Vərəzyō: "Tū dāim hu-pātaye mātā āsta. Saŋha maibyō yaϑa pātayata. Paoirīm-vā kašu xvarəϑəm xvarāma?"
+- 𐬀𐬎𐬎𐬀 𐬫𐬀𐬙: "𐬨𐬁𐬙𐬀, 𐬞𐬎𐬚𐬭𐬀 𐬙𐬀𐬎𐬎𐬀 𐬎𐬎𐬀𐬑𐬱𐬙𐬀. 𐬀𐬉𐬙𐬀 𐬗𐬀𐬚𐬎𐬎𐬀𐬭𐬆𐬯𐬀𐬙 𐬫𐬁𐬭𐬀 𐬀𐬯𐬙𐬌."
+- 𐬀𐬉𐬙𐬀 𐬬𐬀𐬗: "𐬙𐬎𐬎𐬀𐬨 𐬵𐬀𐬨𐬀 𐬵𐬎𐬱𐬌 𐬨𐬁𐬙𐬀 𐬀𐬯𐬙𐬌. 𐬞𐬀𐬌𐬙𐬌 𐬵𐬋 𐬎𐬱𐬙𐬀 𐬐𐬀𐬚𐬁 𐬀𐬯𐬙𐬌? 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬑𐬴𐬀𐬟𐬥𐬌𐬌𐬀 𐬑𐬎𐬎𐬀𐬭𐬀𐬨?"
 
-Alzheimer's Association ahmya paiti-saŋhaiti mā paiti-ərəzaya ahmya yaŋhe a-ašō ahi. Zrvānəm vī-ci: yezi a-dāitya a-duš-ciϑra asti, dāraya bavaiti.
+Alzheimer's Association 𐬀𐬞𐬌 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬨𐬁 𐬞𐬀𐬌𐬙𐬌⸱𐬬𐬀𐬗 𐬫𐬀𐬙 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬥𐬀 𐬵𐬀𐬨𐬀⸱𐬨𐬀𐬙𐬀 𐬀𐬯𐬙𐬌. 𐬫𐬆𐬰𐬌 𐬀𐬯𐬀𐬭𐬆 𐬥𐬀 𐬛𐬎𐬑𐬌𐬙𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌, 𐬎𐬞𐬀 𐬵𐬌𐬱𐬙𐬀.
 
-## Ciϑa paiti-vacō paityeiti yadā xratu-frasisištiš tarō-aiti?
+## 𐬐𐬀𐬚𐬁 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬈𐬌𐬙𐬌 𐬫𐬀𐬙 𐬵𐬀𐬨⸱𐬨𐬆𐬭𐬆𐬥𐬀𐬵 𐬎𐬎𐬀𐬑𐬱𐬙𐬀 𐬀𐬯𐬙𐬌?
 
-Zrvān tarō-aiti, handarzā vī-daēzya. Alzheimer's Association 3 paiti-pada dāiti:
+𐬀𐬥𐬔𐬵𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬈𐬌𐬙𐬌, 𐬎𐬙𐬀 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬎𐬎𐬆𐬭𐬆𐬰 𐬀𐬞𐬌 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬈𐬌𐬙𐬌. Alzheimer's Association 𐬚𐬭𐬌 𐬎𐬎𐬀𐬑𐬱𐬙𐬀 𐬛𐬀𐬭𐬆𐬖 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌:
 
-| Zrvān | Čit rafnō dāiti |
+| 𐬎𐬎𐬀𐬑𐬱𐬙𐬀 | 𐬐𐬀𐬙𐬀𐬭𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌 |
 | --- | --- |
-| Paoirya | Mā manayō yaϑa nōit paiti-vacō dārayeiti. Paiti-vacahi dāraya, ahmāi frasaŋha, pərəsa čit rafnō vasahi, caratu-ca dāraya yezi rafnō dāiti. |
-| Maidyāna | Aēva aēvada paiti-vacō tušnō-stāne. Yāskərətam mraoya, cašmanō dāraya, a-nōit pərəsa, aēva-pada handarzā dāraya, mā paiti-tbaēša mā paiti-ərəzaya. |
-| Apara | Paiti-ainikəm a-cara nāmanəmca saŋha. Zastayā daxšta dāraya. Zasta-paiti, sraoša, ainika, baoidica dāraya. Mā mraoya yaϑa ahmya nōit asti. |
+| 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 | 𐬨𐬁 𐬨𐬀𐬥𐬀𐬌𐬙𐬀 𐬫𐬀𐬙 𐬵𐬋 𐬥𐬀 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌. 𐬵𐬋 𐬞𐬀𐬌𐬙𐬌 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬔𐬆𐬭𐬆𐬠, 𐬵𐬋 𐬞𐬀𐬌𐬙𐬌 𐬬𐬀𐬗, 𐬞𐬆𐬭𐬆𐬯 𐬐𐬀𐬙𐬀𐬭𐬀 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬎𐬎𐬀𐬥𐬙𐬌, 𐬎𐬙𐬀 𐬵𐬀𐬯𐬌𐬙𐬀 𐬎𐬎𐬀𐬗 𐬫𐬆𐬰𐬌 𐬀𐬎𐬎𐬀𐬌𐬌𐬈𐬌𐬙𐬌. |
+| 𐬨𐬀𐬜𐬌𐬌𐬀 | 𐬀𐬉𐬎𐬎𐬀⸱𐬞𐬀𐬌𐬙𐬌⸱𐬀𐬉𐬎𐬎𐬀 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬯𐬙𐬁𐬥𐬀 𐬑𐬎𐬎𐬀𐬯𐬙𐬀. 𐬛𐬆𐬭𐬆𐬖𐬀 𐬬𐬀𐬗, 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀, 𐬵𐬀𐬎𐬎𐬀/𐬥𐬋𐬌𐬙 𐬞𐬆𐬭𐬆𐬯𐬀 𐬬𐬀𐬗, 𐬀𐬉𐬎𐬎𐬀⸱𐬞𐬀𐬌𐬙𐬌⸱𐬀𐬉𐬎𐬎𐬀 𐬛𐬀𐬉𐬥𐬌𐬌𐬁 𐬛𐬀𐬉, 𐬎𐬙𐬀 𐬨𐬁 𐬀𐬯𐬀𐬭𐬆 𐬫𐬀𐬙 𐬨𐬁 𐬥𐬌𐬥𐬛𐬀. |
+| 𐬀𐬞𐬀𐬭𐬀 | 𐬞𐬀𐬊𐬎𐬭𐬎𐬎𐬀 𐬀𐬑𐬱𐬌 𐬞𐬀𐬌𐬙𐬌 𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬥𐬁𐬨𐬀 𐬬𐬀𐬗. 𐬀𐬢𐬔𐬎𐬱𐬙𐬀 𐬎𐬙𐬀 𐬞𐬀𐬌𐬙𐬌⸱𐬐𐬆𐬭𐬆𐬥𐬀 𐬎𐬙𐬙𐬆𐬘 𐬐𐬆𐬭𐬆𐬥𐬎𐬌𐬙. 𐬵𐬀𐬯𐬙𐬀, 𐬕𐬀𐬑𐬭𐬀, 𐬛𐬀𐬭𐬆𐬖, 𐬎𐬙𐬀 𐬔𐬀𐬥𐬛𐬀 𐬬𐬀𐬗. 𐬨𐬁 𐬬𐬀𐬗 𐬫𐬀𐬚𐬀 𐬵𐬋 𐬥𐬀 𐬀𐬯𐬙𐬌. |
 
-Vispō nā anyō asti, aēva nā hu-aząn vā škənda-aząn dāiti. Dāraya yaϑa nūra asti, nōit haca nāmanəm.
+𐬵𐬀𐬭 𐬨𐬀𐬭𐬆𐬙𐬀 𐬀𐬥𐬌𐬌𐬀 𐬀𐬯𐬙𐬌, 𐬎𐬙𐬀 𐬵𐬀𐬨𐬀 𐬨𐬀𐬭𐬆𐬙𐬀 𐬵𐬎𐬱𐬌 𐬎𐬙𐬀 𐬛𐬎𐬔𐬭𐬀 𐬀𐬌𐬌𐬀𐬭𐬀 𐬀𐬯𐬙𐬌. 𐬐𐬀𐬚𐬁 𐬥𐬎 𐬀𐬯𐬙𐬌 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀, 𐬥𐬋𐬌𐬙 𐬞𐬀𐬌𐬙𐬌 𐬥𐬁𐬨𐬀.
 
-## Paēsa kərərəzvantō-vā paiti-vacō hu-tarəm karənaunti?
+## 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙𐬀 𐬐𐬆𐬭𐬆𐬥𐬀 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬯𐬎𐬑𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬥𐬙𐬌?
 
-Ān. Haoma paēsa tbaēšəm nica-dāiti, duwayōca dāiti cistīm daēzəm zasta-daxštəmca.
+𐬵𐬀𐬎𐬎𐬀. 𐬵𐬀𐬨⸱𐬗𐬌𐬚𐬭𐬀 𐬛𐬎𐬔𐬭𐬀 𐬀𐬞𐬀⸱𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌 𐬎𐬙𐬀 𐬫𐬎𐬎𐬁𐬐𐬀𐬨 𐬞𐬀𐬌𐬙𐬌 𐬀𐬥𐬌𐬌𐬀 𐬛𐬀𐬭𐬆𐬖 𐬎𐬙𐬀 𐬀𐬢𐬔𐬎𐬱𐬙𐬀 𐬛𐬀𐬉𐬙𐬌.
 
-- **Paēsa pərəsa.** [Conversation Cards](/games/conversation-cards/) paēsa dāiti a-frasanąm yōi nōit pərəsa zōžda.
-- **Nmānya paēsa.** [Photo Pairs](/games/photo-pairs/) thwā paēsa hu-vī-ciϑəm kərənauiti, yā vacō haxədrəm dāiti.
-- **Hu-dāitya vacā.** [Finish the Saying](/games/finish-the-saying/) vīspō-vohum vacō dāiti, pasca paiti-vacō fravarəzaiti.
-- **Paēsa pairi-daēza.** [Picture Pairs](/games/picture-pairs/) zastayā rafnō dāiti yōi vacō mraon.
+- **𐬗𐬌𐬚𐬭𐬀⸱𐬞𐬆𐬭𐬆𐬯𐬀.** [Conversation Cards](/games/conversation-cards/) 𐬗𐬌𐬚𐬭𐬀 𐬎𐬙𐬀 𐬎𐬔𐬭𐬀 𐬞𐬆𐬭𐬆𐬯𐬀 𐬛𐬀𐬉𐬙𐬌 𐬫𐬀𐬙 𐬥𐬀 𐬞𐬆𐬭𐬆𐬯⸱𐬫𐬀𐬯𐬥𐬀 𐬀𐬯𐬙𐬌.
+- **𐬐𐬎𐬎𐬀 𐬗𐬌𐬚𐬭𐬀.** [Photo Pairs](/games/photo-pairs/) 𐬗𐬌𐬚𐬭𐬀 𐬫𐬀𐬙 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬗𐬌𐬥𐬀𐬙𐬀 𐬞𐬀𐬌𐬙𐬌 𐬯𐬎𐬐𐬌 𐬵𐬀𐬨⸱𐬗𐬌𐬚𐬭𐬀 𐬐𐬆𐬭𐬆𐬥𐬀 𐬎𐬎𐬆𐬭𐬆𐬰𐬀𐬌𐬌𐬈𐬌𐬙𐬌, 𐬫𐬀𐬙 𐬠𐬀𐬵𐬎 𐬐𐬀𐬚𐬁 𐬛𐬀𐬉𐬥𐬌𐬌𐬁 𐬀𐬭𐬀𐬵𐬌𐬌𐬀𐬙𐬌.
+- **𐬞𐬭𐬌𐬌𐬀 𐬬𐬀𐬗𐬀.** [Finish the Saying](/games/finish-the-saying/) 𐬞𐬭𐬌𐬌𐬀 𐬬𐬀𐬗𐬀 𐬬𐬀𐬗, 𐬙𐬀𐬙 𐬵𐬀𐬨⸱𐬬𐬀𐬗⸱𐬞𐬆𐬭𐬆𐬯𐬀.
+- **𐬵𐬀𐬨⸱𐬗𐬌𐬚𐬭𐬀 𐬐𐬆𐬭𐬆𐬥𐬀.** [Picture Pairs](/games/picture-pairs/) 𐬵𐬀𐬯𐬙𐬀 𐬞𐬀𐬌𐬙𐬌 𐬐𐬀𐬭𐬀 𐬛𐬀𐬉𐬙𐬌 𐬫𐬀𐬙 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬥𐬙𐬌.
 
-Vīna [how to play games together](/caregiving/how-to-play-together/) yasca [reminiscence activities](/activities/reminiscence/) parō. Yānō-caranāi sraoša-caranāica, paiti-frasa handarzā [visiting](/activities/visiting/) yasca [phone and video calls](/activities/phone-and-video-calls/).
+[how to play games together](/caregiving/how-to-play-together/) 𐬎𐬙𐬀 [reminiscence activities](/activities/reminiscence/) 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬖. 𐬫𐬀𐬙 𐬀𐬌𐬙𐬌 𐬎𐬙𐬀 𐬬𐬀𐬗, [visiting](/activities/visiting/) 𐬎𐬙𐬀 [phone and video calls](/activities/phone-and-video-calls/) 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀.
 
-## Čit yezi darəγō-sahištim fra-marāmi?
+𐬫𐬆𐬰𐬌 𐬵𐬋 𐬠𐬀𐬵𐬎 𐬵𐬌𐬰𐬎𐬎𐬀 𐬬𐬀𐬗, [guide to communication across languages](/caregiving/language-and-dementia-communication/) 𐬞𐬀𐬌𐬙𐬌 𐬛𐬀𐬭𐬆𐬖.
 
-Vispa ahmya bavaiti. NIA saŋhaiti yezi škəndō bave, zrvānəm dāraya tušnō bavāi. Anya garəzō cara, kašu darəγō-vohum manah dāraya, pasca paiti-cara yadā vīndahi. Paiti-vacō paoirīm paiti fravarəzāhi, nāca thwā tušnō manaŋhō gaošāite. Yezi aēm škəndō dāim bavaiti, aēm daxšta asti yaϑa rafnō vasahi, nōit yaϑa a-vərəzō ahi. Handarzā [caregiver self-care](/caregiving/caregiver-self-care/) paiti-dārayana stāna dāiti.
+## 𐬫𐬆𐬰𐬌 𐬥𐬋 𐬞𐬀𐬌𐬙𐬌 𐬵𐬌𐬱𐬙𐬀 𐬥𐬀 𐬀𐬯𐬙𐬌, 𐬐𐬀𐬚𐬁?
+
+𐬀𐬉𐬙𐬀 𐬵𐬀𐬭 𐬐𐬀𐬯⸱𐬗𐬌𐬙 𐬀𐬯𐬙𐬌. NIA 𐬎𐬑𐬙𐬀 𐬫𐬀𐬙 𐬫𐬆𐬰𐬌 𐬙𐬎𐬎𐬀𐬨 𐬀𐬧𐬔𐬵𐬀 𐬀𐬯𐬙𐬌, 𐬞𐬀𐬌𐬙𐬌 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬵𐬌𐬱𐬙𐬀. 𐬀𐬥𐬌𐬌𐬀 𐬔𐬀𐬙𐬎 𐬀𐬌𐬙𐬌, 𐬛𐬆𐬭𐬆𐬖𐬀 𐬯𐬎𐬱𐬙𐬌 𐬔𐬆𐬭𐬆𐬠, 𐬎𐬙𐬀 𐬫𐬀𐬙 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬀𐬯𐬙𐬌 𐬞𐬀𐬙𐬌 𐬀𐬌𐬙𐬌. 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬵𐬀𐬨⸱𐬬𐬀𐬗 𐬞𐬀𐬙𐬌 𐬀𐬭𐬀𐬵𐬌𐬌𐬀 𐬐𐬆𐬭𐬆𐬥𐬀𐬊𐬌𐬙𐬌, 𐬎𐬙𐬀 𐬵𐬋 𐬫𐬎𐬱𐬨𐬀𐬐𐬀 𐬑𐬎𐬎𐬀𐬯𐬙𐬀 𐬨𐬀𐬥𐬀𐬵 𐬞𐬀𐬌𐬙𐬌 𐬯𐬭𐬀𐬊𐬙𐬀. 𐬫𐬆𐬰𐬌 𐬀𐬧𐬔𐬵𐬀 𐬵𐬀𐬨𐬀 𐬀𐬯𐬙𐬌, 𐬀𐬉𐬙𐬀 𐬛𐬀𐬭𐬆𐬖 𐬫𐬀𐬙 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬀𐬥𐬔𐬵𐬀𐬙𐬌, 𐬥𐬋𐬌𐬙 𐬫𐬀𐬙 𐬫𐬎𐬱𐬨𐬀𐬐𐬀𐬨 𐬛𐬎𐬑𐬌𐬙𐬀 𐬀𐬯𐬙𐬌. [caregiver self-care](/caregiving/caregiver-self-care/) 𐬞𐬀𐬌𐬙𐬌 𐬀𐬎𐬎𐬀𐬌𐬌𐬀 𐬛𐬀𐬭𐬆𐬖.

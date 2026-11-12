@@ -1,35 +1,35 @@
 ---
-title: "Mga Tip sa Pakikipag-usap sa Taong may Dementia"
-seoTitle: "Pakikipag-usap sa may Dementia: Ano ang Sasabihin at Iiwasan"
-description: "Mga praktikal na paraan ng pakikipag-usap sa taong may dementia: paghahanda ng usapan, ano ang sasabihin sa halip na magtanong o magtama, at paano makinig."
+title: "Mga Tip sa Pakikipag-usap sa Taong May Dementia"
+seoTitle: "Mga Tip sa Pakikipag-usap sa May Dementia"
+description: "Praktikal na paraan ng pakikipag-usap sa taong may dementia: paghahanda, mga dapat sabihin sa halip na pagsusulit o pagtutuwid, at pakikinig nang may pag-unawa."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Mag-usap sa tahimik na lugar, humarap sa tao, gamitin ang pangalan niya, at
-  magsalita nang mabagal sa maikli at payak na pangungusap. Magtanong nang
-  isa-isa, mag-alok ng dalawang pagpipilian sa halip na bukas na tanong, at
-  maghintay nang mas matagal kaysa natural sa pakiramdam. Huwag makipagtalo,
-  magtama o magtanong na parang pagsusulit. Tugunan ang damdaming nasa likod ng
-  mga salita, at gumamit ng paghawak, larawan at kilos habang humihirap ang
-  pagsasalita.
+  Makipag-usap sa tahimik na lugar, humarap sa tao, tawagin siya sa pangalan,
+  at magsalita nang dahan-dahan gamit ang maikli at simpleng pangungusap.
+  Magtanong nang paisa-isa, magbigay ng dalawang pagpipilian sa halip na
+  bukas na tanong, at maghintay nang mas matagal kaysa sa karaniwan. Huwag
+  makipagtalo, magtuwid, o magsagawa ng pagsusulit. Tugunan ang damdaming
+  nasa likod ng mga sinasabi, at gumamit ng hawak, larawan, at galaw habang
+  nahihirapan na siyang magsalita.
 keyPoints:
-  - "Bawasan ang ingay sa paligid at makipagtitigan bago magsimulang magsalita."
-  - "Gumamit ng maiikling pangungusap, isang ideya sa bawat pagkakataon, at mga pangalan sa halip na siya o sila."
-  - "Mag-alok ng pagpipilian ng dalawa, o tanong na oo-o-hindi, sa halip na mga bukas na tanong."
-  - "Maghintay ng sagot. Kung hindi naintindihan, ulitin ang parehong mga salita, saka subukan ang mga bago."
-  - "Huwag makipagtalo o magtama. Tugunan ang damdaming nasa likod ng sinasabi nila."
-  - "Habang nawawala ang mga salita, makipag-usap sa pamamagitan ng paghawak, tono, ekspresyon ng mukha at mga larawang pinagsasaluhan."
+  - "Bawasan ang ingay sa paligid at makipagtinginan muna bago magsalita."
+  - "Gumamit ng maikli at simpleng pangungusap, isang ideya sa bawat pagkakataon, at pangalan sa halip na siya o sila."
+  - "Magbigay ng dalawang pagpipilian, o tanong na masasagot ng oo o hindi, sa halip na bukas na tanong."
+  - "Maghintay ng sagot. Kung hindi kayo nagkaintindihan, ulitin muna ang parehong salita, saka subukang gumamit ng ibang salita."
+  - "Huwag makipagtalo o magtuwid. Tugunan ang damdaming nasa likod ng sinasabi nila."
+  - "Habang unti-unting nahihirapan sa pagsasalita, makipag-usap sa pamamagitan ng hawak, tono ng boses, ekspresyon ng mukha, at mga larawang pinagsasaluhan."
 faq:
-  - q: "Ano ang hindi dapat sabihin sa taong may dementia?"
-    a: "Iwasan ang pagtatanong na parang pagsusulit (\"Naaalala po ba ninyo...?\"), pagtatama (\"Mali iyan\"), pagpapaalala ng mga nawala sa kanila (\"Sinabi ko na po sa inyo\") at pagsasalita tungkol sa kanila na parang wala sila roon. Iwasan ang baby talk. Karaniwang nagdudulot ang mga ito ng hiya o pagkabagabag nang hindi nakakatulong."
-  - q: "Dapat ko ba silang itama kapag mali ang mga detalye nila?"
-    a: "Karaniwang hindi. Kung hindi nakakapinsala ang maling detalye, hayaan na lang. Bihirang mabago ng pakikipagtalo ang isip ng tao at madalas itong nagpapagalit sa kanila. Tumuon sa nararamdaman nila at sa kailangan nila ngayon."
-  - q: "Ano ang gagawin ko kapag hindi nila mahanap ang salita?"
-    a: "Bigyan muna sila ng oras. Kung halatang nahihirapan sila, okay lang na banayad na mag-alok ng salita o hulaan ang ibig nilang sabihin at tiyakin ito. Makakatulong din ang pagturo, kilos at mga larawan."
-  - q: "Paano ako makikipag-usap sa taong nasa huling yugto ng dementia na bihirang magsalita?"
-    a: "Lumapit mula sa harap, sabihin kung sino kayo, at gumamit ng mahinahong boses at banayad na paghawak. Pagmasdan ang mga mukha at kilos ng katawan para sa mga damdamin. Maraming maipapahayag nang walang salita ang presensya ninyo, isang pamilyar na awit o pagkakahawak-kamay."
+  - q: "Ano ang mga hindi dapat sabihin sa taong may dementia?"
+    a: "Iwasan ang pagsusulit (“Naaalala mo ba...?”), pagtutuwid (“Mali iyan”), pagpapaalala ng mga pagkawala (“Nasabi ko na sa iyo”), at ang pag-uusap tungkol sa kanya na parang wala siya roon. Iwasan din ang pagsasalitang parang bata. Madalas itong nagdudulot ng hiya o pagkalungkot nang hindi naman nakakatulong."
+  - q: "Dapat ko ba siyang ituwid kapag mali ang sinasabi niyang detalye?"
+    a: "Kadalasan, hindi. Kung ang maling detalye ay hindi naman nakakasama, hayaan na lang. Ang pakikipagtalo ay bihirang magpabago ng iniisip ng tao at madalas pa itong nagdudulot ng sama ng loob. Ituon ang pansin sa nararamdaman nila at sa kailangan nila sa sandaling iyon."
+  - q: "Ano ang gagawin ko kapag hindi niya mahanap ang tamang salita?"
+    a: "Bigyan muna siya ng oras. Kung halatang nahihirapan siya, maaari kayong magmungkahi nang magalang ng salita o hulaan ang ibig niyang sabihin at tanungin kung tama ito. Makakatulong din ang pagturo, mga galaw ng kamay, at mga larawan."
+  - q: "Paano ako makikipag-usap sa taong nasa huling yugto ng dementia na bihira nang magsalita?"
+    a: "Lumapit mula sa harap, sabihin kung sino kayo, at gumamit ng mahinahon na boses at magiliw na hawak. Pansinin ang mukha at kilos ng katawan para malaman ang nararamdaman niya. Ang inyong presensya, isang pamilyar na awit, o ang paghawak sa kamay ay maaaring magpahayag ng marami kahit walang salita."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,98 +41,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Maaaring gawing mas mahirap ng dementia ang paghahanap ng salita, pagsunod sa mahabang pangungusap, o pagbalewala sa ingay sa paligid. Hindi ibig sabihin ng alinman doon na tumigil na ang tao sa pagnanais na makipag-ugnayan. Ang maliliit na pagbabago sa paghahanda ng usapan, sa paraan ng pagsasalita at sa pakikinig ay makakapagpadali at makakapagpakalma ng pag-uusap para sa inyong dalawa.
+Ang dementia ay maaaring magpahirap sa paghahanap ng salita, pagsunod sa mahabang pangungusap, o pagbalewala sa ingay sa paligid. Hindi ito nangangahulugang ayaw na ng taong makipag-ugnayan. Ang maliliit na pagbabago sa paraan ng paghahanda sa pag-uusap, pagsasalita, at pakikinig ay maaaring magpadali at magpakalma ng pag-uusap para sa inyong dalawa.
 
 ## Ano ang pinakamahahalagang tip sa pakikipag-usap sa taong may dementia?
 
-Kunin ang atensyon nila, panatilihing payak, at magpasensya. Kung limang bagay lang ang matatandaan ninyo:
+Kunin ang kanilang pansin, panatilihing simple ang mga sinasabi, at maging matiyaga. Kung lima lang ang maaalala ninyo:
 
-1. **Patahimikin ang silid at humarap sa kanila.** Patayin ang TV, umupo sa antas ng mata, at gamitin ang pangalan nila.
-2. **Isang bagay lang ang sabihin sa isang pagkakataon.** Maiikling pangungusap, isang ideya, isang tanong.
-3. **Mag-alok ng pagpipilian ng dalawa.** Mas madali ang "Tsaa po o kape?" kaysa sa "Ano po ang gusto ninyo?"
-4. **Maghintay.** Magbigay ng mas mahabang oras sa pagsagot kaysa natural sa pakiramdam, at subukang huwag sumabat.
-5. **Huwag kailanman makipagtalo o magtanong na parang pagsusulit.** Tugunan kung ano ang nararamdaman nila, hindi kung tama ang mga detalye.
+1. **Patahimikin ang paligid at humarap sa kanila.** Patayin ang TV, umupo nang kapantay ng kanilang mga mata, at tawagin sila sa pangalan.
+2. **Isang bagay lang sa bawat pagkakataon.** Maikling pangungusap, isang ideya, isang tanong.
+3. **Magbigay ng dalawang pagpipilian.** Mas madali ang “Tsaa o kape?” kaysa sa “Ano ang gusto ninyo?”
+4. **Maghintay.** Bigyan sila ng mas mahabang oras para sumagot kaysa sa karaniwan, at iwasang putulin ang kanilang pagsasalita.
+5. **Huwag makipagtalo o magsagawa ng pagsusulit.** Tugunan ang nararamdaman nila, hindi kung tama o mali ang mga detalye.
 
-## Paano ako magsisimula ng usapan?
+## Paano ko dapat simulan ang isang pag-uusap?
 
-Ihanda ang paligid para makapagpokus sa inyo ang tao. Inirerekomenda ng [gabay ng Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) na limitahan muna ang ingay: patayin ang radyo o TV, isara ang kurtina o pinto, o lumipat sa mas tahimik na lugar.
+Ayusin ang paligid para makapagtuon ang tao sa inyo. Iminumungkahi ng [gabay ng Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) na bawasan muna ang ingay: patayin ang radyo o TV, isara ang kurtina o pinto, o lumipat sa mas tahimik na lugar.
 
-- **Lumapit mula sa harap.** Maaaring makagulat ang paglapit mula sa likod o gilid.
-- **Sabihin kung sino kayo.** "Magandang araw po, Tatay, si Sarah po ito, ang anak ninyo." Naiiwasan nitong hanapin pa nila ang pangalan ninyo.
-- **Bumaba sa antas nila.** Kung nakaupo sila, umupo o lumuhod para pantay ang mata ninyo.
-- **Suriin ang mukha at tono ninyo.** Ipinapayo ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) na maging mulat sa tono, lakas ng boses, ekspresyon ng mukha at kilos ng katawan, at layuning maging magiliw at natural ang dating.
-- **Tiyaking suot ang salamin at hearing aid.** Mahirap sundan ang usapang hindi mo lubos na nakikita o naririnig.
+- **Lumapit mula sa harap.** Ang paglapit mula sa likod o gilid ay maaaring makagulat sa kanila.
+- **Sabihin kung sino kayo.** “Kumusta po, Tay, ako po si Sarah, ang anak ninyo.” Nakakatulong ito upang hindi na nila kailangang hulaan ang pangalan ninyo.
+- **Umupo nang kapantay ng kanilang mga mata.** Kung nakaupo sila, umupo o lumuhod upang magkapantay ang inyong mga mata.
+- **Pansinin ang inyong mukha at tono.** Pinapayuhan ng [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) na maging mulat sa tono, lakas ng boses, ekspresyon ng mukha, at kilos ng katawan, at sikaping maging magiliw at mahinahon.
+- **Siguraduhing suot ang salamin at hearing aid.** Mahirap sumunod sa usapan kung hindi ito ganap na nakikita o naririnig.
 
-## Paano ko dapat bigkasin ang sasabihin ko?
+## Paano ko dapat sabihin ang mga gusto kong ipahayag?
 
-Gumamit ng payak na salita, maiikling pangungusap at mahinahon at mababang boses.
+Gumamit ng simpleng salita, maikling pangungusap, at mahinahon at mababang tinig.
 
-- **Isang ideya sa bawat pangungusap.** "Isuot po natin ang amerikana ninyo. Pagkatapos, lalabas po tayo." Hindi ang dalawa sa isang hinga.
-- **Gumamit ng pangalan, hindi panghalip.** Mas malinaw ang "Tumawag po si Tita Jean" kaysa sa "Tumawag siya."
-- **Gawing mas mababa ang tono, hindi mas malakas.** Iminumungkahi ng Family Caregiver Alliance ang mas mababang boses sa halip na pinalakas.
-- **Ulitin, saka sabihin sa ibang paraan.** Kung hindi nila naintindihan, ulitin nang minsan ang parehong mga salita. Kung hindi pa rin, maghintay sandali at subukan ang ibang mga salita.
-- **Ipakita at sabihin.** Ituro ang tasa, itaas ang dalawang sweater, o ipakita ang unang hakbang.
-- **Kausapin sila, huwag pag-usapan sila.** Nagbababala ang NIA laban sa pagsasalita tungkol sa tao na parang wala siya roon, at laban sa "baby talk".
+- **Isang ideya sa bawat pangungusap.** “Isuot po natin ang inyong coat. Pagkatapos, lalabas tayo.” Huwag pagsamahin sa iisang buntong-hininga.
+- **Gumamit ng pangalan, hindi panghalip.** Mas malinaw ang “Tumawag si Tita Jean” kaysa sa “Tumawag siya.”
+- **Mas mainam ang mas mababang tinig, hindi mas malakas.** Iminumungkahi ng Family Caregiver Alliance ang mas mababang tinig kaysa sa pasigaw na paraan ng pagsasalita.
+- **Ulitin, saka baguhin ang pagkakasabi.** Kung hindi nila naintindihan, ulitin muna ang parehong salita nang isang beses. Kung hindi pa rin, maghintay sandali at subukang gumamit ng ibang salita.
+- **Ipakita pati sabihin.** Ituro ang tasa, ipakita ang dalawang sweater, o ipakita ang unang hakbang.
+- **Kausapin sila, hindi pag-usapan sila.** Nagbabala ang NIA laban sa pakikipag-usap tungkol sa tao na parang wala siya roon, at laban sa pagsasalitang parang bata.
 
-Nagmumungkahi ang NIA ng mas payak na bersyon ng mga karaniwang tanong. Narito ang mga halimbawa sa diwang iyon:
+Nagmumungkahi ang NIA ng mas simpleng paraan ng pagtatanong. Narito ang ilang halimbawa sa ganitong diwa:
 
-| Sa halip na | Subukan |
+| Sa halip na | Subukan ito |
 | --- | --- |
-| "Ano po ang gusto ninyong ulam?" | "Isda po ba o manok ang gusto ninyo?" |
-| "Kumusta po ang pakiramdam ninyo?" | "Pagod po ba kayo?" |
-| "Gutom na po ba kayo?" | "Handa na po ang hapunan sa loob ng limang minuto." |
-| "Hindi po ganyan ang paggawa niyan." | "Subukan po nating gawin sa ganitong paraan." |
-| "Naaalala po ba ninyo ang biyahe natin sa lawa?" | "Naisip ko po ang biyahe natin sa lawa. Ikuwento po ninyo sa akin kung ano ang nagustuhan ninyo roon." |
-| "Sinabi ko na po sa inyo." | Sagutin muli, nang may kabaitan, na parang unang beses. |
+| “Ano ang gusto ninyong hapunan?” | “Gusto po ba ninyo ng isda o manok?” |
+| “Kumusta po ang pakiramdam ninyo?” | “Pagod po ba kayo?” |
+| “Nagugutom po ba kayo?” | “Handa na po ang hapunan sa loob ng limang minuto.” |
+| “Hindi ganyan ang paggawa niyan.” | “Subukan po natin sa ganitong paraan.” |
+| “Naaalala po ba ninyo ang lakad natin sa lawa?” | “Naalala ko po ang lakad natin sa lawa. Ano po ang nagustuhan ninyo roon?” |
+| “Nasabi ko na po sa inyo.” | Sagutin muli nang magiliw, na parang unang beses pa lang. |
 
 ## Paano ako makikinig nang mabuti?
 
-Making sa kahulugan at sa damdamin, hindi lang sa mga salita.
+Pakinggan ang kahulugan at damdamin, hindi lang ang mga salita.
 
-- **Maghintay.** Madalas na oras ng pag-iisip ang katahimikan. Magbilang nang mabagal hanggang sampu bago sumabat.
-- **Mag-alok ng salita lang kung nahihirapan sila.** Sinasabi ng Family Caregiver Alliance na okay lang magmungkahi ng mga salita kapag nahihirapan ang isang tao.
-- **Tiyakin ang narinig ninyo.** Iminumungkahi ng [gabay ng Alzheimer's Association sa komunikasyon](https://www.alz.org/help-support/caregiving/daily-care/communications) na hanapin ang kahulugan sa likod ng mga salita nila at ulitin ito para matiyak na naintindihan ninyo. "Nag-aalala po ba kayo tungkol sa kotse?"
-- **Pagmasdan ang mukha at katawan nila.** Habang humihirap ang pagsasalita, binabanggit ng NIA na maaaring mas malinaw na maipakita ng ekspresyon ng mukha ang lungkot, galit o pagkainis kaysa sa mga salita.
-- **Seryosohin ang mga alalahanin nila.** Kahit ang pag-aalala ay nakabatay sa maling detalye, totoo ang damdamin.
+- **Maghintay.** Ang katahimikan ay madalas na oras ng pag-iisip. Dahan-dahang magbilang hanggang sampu bago sumabat.
+- **Magmungkahi ng salita lamang kung talagang nahihirapan siya.** Sinasabi ng Family Caregiver Alliance na maayos lang na magmungkahi ng salita kapag nahihirapan ang isang tao.
+- **Suriin ang inyong narinig.** Iminumungkahi ng [gabay ng Alzheimer’s Association sa pakikipag-usap](https://www.alz.org/help-support/caregiving/daily-care/communications) na hanapin ang kahulugan sa likod ng mga salita at ulitin ito upang tiyaking naintindihan ninyo. “Nag-aalala po kayo tungkol sa kotse?”
+- **Pansinin ang kanilang mukha at kilos.** Habang nahihirapang magsalita, binabanggit ng NIA na ang ekspresyon ng mukha ay maaaring magpakita ng lungkot, galit, o inis nang mas malinaw kaysa sa salita.
+- **Seryosohin ang kanilang mga alalahanin.** Kahit nakabatay ang isang alalahanin sa maling detalye, totoo ang nararamdamang damdamin.
 
-## Paano kung may sabihin silang hindi totoo?
+## Paano kung may sinabi silang hindi totoo?
 
-Huwag makipagtalo. Malamang na hindi kayo mananalo, at maaaring mauwi ang tao sa hiya o takot. Sa halip, makipag-ugnay sa damdamin, saka banayad na lumipat ng paksa.
+Huwag makipagtalo. Malamang na hindi ninyo siya mapapabago ng isip, at maaari pang makaramdam ng hiya o takot ang tao. Sa halip, unawain ang damdamin, saka dahan-dahang lumipat sa ibang paksa.
 
-Iminumungkahi ng Family Caregiver Alliance na kilalanin ang emosyon bago ibaling ang atensyon. Halimbawa, kung giit ng nanay ninyo na kailangan niyang sunduin ang mga bata sa eskwela:
+Iminumungkahi ng Family Caregiver Alliance na kilalanin muna ang damdamin bago mag-iba ng direksyon. Halimbawa, kung iginiit ng inyong nanay na kailangan niyang sunduin ang mga bata sa paaralan:
 
-- Sa halip na: "Nanay, malalaki na po ang mga anak ninyo. Apatnapung taon na po ang nakalipas."
-- Subukan: "Napakaalagain po ninyong ina noon. Ikuwento po ninyo sa akin ang pagsundo sa kanila. Magmeryenda po muna tayo?"
+- Sa halip na: “Nay, matatanda na ang mga anak ninyo. Apatnapung taon na ang nakalipas.”
+- Subukan ito: “Napakamaalaga ninyong ina. Ikwento po ninyo sa akin ang pagsundo ninyo sa kanila. Gusto po ba ninyong magmeryenda muna tayo?”
 
-Ipinapayo rin ng Alzheimer's Association na huwag makipagtalo sa mga pahayag na hindi ninyo sinasang-ayunan. Piliin ang mga sandali: kung hindi nakakapinsala ang maling paniniwala, hayaan na lang.
+Pinapayuhan din ng Alzheimer’s Association na huwag makipagtalo sa mga pahayag na hindi ninyo sinasang-ayunan. Piliin ang mga pagkakataon: kung ang maling paniwala ay hindi naman nakakasama, hayaan na lang.
 
-## Paano nagbabago ang komunikasyon habang lumalala ang dementia?
+## Paano nagbabago ang pakikipag-usap habang lumalala ang dementia?
 
-Nagbabago ang mga pangangailangan sa paglipas ng panahon, kaya ayusin ang paraan ninyo. Inilalarawan ng Alzheimer's Association ang tatlong malawak na yugto:
+Nagbabago ang pangangailangan sa paglipas ng panahon, kaya kailangang baguhin din ang paraan ng pakikipag-usap. Inilalarawan ng Alzheimer’s Association ang tatlong malawak na yugto:
 
-| Yugto | Ang nakakatulong |
+| Yugto | Ano ang nakakatulong |
 | --- | --- |
-| Maaga | Huwag ipagpalagay na hindi sila makakapag-usap. Isama sila sa mga usapan, kausapin sila nang tuwiran, itanong kung anong suporta ang gusto nila, at gumamit ng katatawanan kung nakakatulong. |
-| Gitna | Mga usapang isa-isa sa tahimik na lugar. Magsalita nang mabagal, panatilihin ang titigan, gumamit ng tanong na oo-o-hindi, magbigay ng hakbang-hakbang na tagubilin, at huwag pumuna o magtama. |
-| Huli | Lumapit mula sa harap at sabihin kung sino kayo. Hikayatin ang pagturo at kilos. Gumamit ng paghawak, tunog, tanawin at amoy. Huwag kailanman magsalita na parang wala sila roon. |
+| Maaga | Huwag isipin na hindi na sila makikipag-usap. Isama sila sa mga pag-uusap, kausapin sila nang direkta, tanungin kung anong tulong ang gusto nila, at gumamit ng magaan na biro kung nakakatulong ito. |
+| Gitna | Makipag-usap nang isa-isa sa tahimik na lugar. Magsalita nang dahan-dahan, makipagtinginan, gumamit ng mga tanong na masasagot ng oo o hindi, magbigay ng sunod-sunod na tagubilin, at huwag mamuna o magtuwid. |
+| Huli | Lumapit mula sa harap at sabihin kung sino kayo. Hikayatin ang pagturo at mga galaw ng kamay. Gumamit ng hawak, tunog, mga nakikita, at mga amoy. Huwag kailanman makipag-usap na parang wala sila roon. |
 
-Magkakaiba ang bawat tao, at maaaring magkaroon ng magaan at mahirap na araw ang iisang tao. Tugunan kung ano sila ngayon, hindi ang isang tatak.
+Magkakaiba ang bawat tao, at ang parehong tao ay maaaring magkaroon ng magagaan at mahihirap na araw. Tumugon sa kalagayan nila sa kasalukuyan, hindi sa isang tawag o etiketa.
 
-## Makakapagpadali ba ng usapan ang mga larawan at aktibidad?
+## Makakatulong ba ang mga larawan at gawain para mas mapadali ang pag-uusap?
 
-Oo. Binabawasan ng sabay na tinitingnang larawan ang presyon at binibigyan kayong dalawa ng titingnan at ituturo.
+Oo. Ang pinagsasaluhang larawan ay nakababawas ng pressure at nagbibigay sa inyong dalawa ng bagay na titingnan at ituturo.
 
-- **Mga larawang panimula.** Nag-aalok ang [Mga kard ng usapan](/games/conversation-cards/) ng mga larawang may bukas na tanong na hindi kailanman parang pagsusulit.
-- **Mga litrato ng pamilya.** Ginagawang banayad na larong pagtutugma ng [Magkapares na litrato](/games/photo-pairs/) ang mga litratong pipiliin ninyo, na madalas magpasimula ng mga kuwento.
-- **Mga pamilyar na kasabihan.** Gumagamit ang [Tapusin ang kasabihan](/games/finish-the-saying/) ng mga kilalang kasabihan, na sinusundan ng paanyaya sa usapan.
-- **Mga larong pagtutugma bilang pantulong.** Binibigyan ng [Magkapares na larawan](/games/picture-pairs/) ng gagawin ang mga kamay ninyo habang nag-uusap.
+- **Mga larawang panimula sa pag-uusap.** Nag-aalok ang [Conversation Cards](/games/conversation-cards/) ng mga larawang may bukas na tanong na hindi nagsisilbing pagsusulit.
+- **Mga larawan ng pamilya.** Ang [Photo Pairs](/games/photo-pairs/) ay ginagawang magaan na larong pagtutugma ang mga larawang pipiliin ninyo, na madalas magbukas ng mga kuwento.
+- **Mga pamilyar na kasabihan.** Gumagamit ang [Finish the Saying](/games/finish-the-saying/) ng mga kilalang kasabihan, na sinusundan ng tanong para makapag-usap.
+- **Mga larong pagtutugma habang nag-uusap.** Ang [Picture Pairs](/games/picture-pairs/) ay nagbibigay ng magaan na gawain para sa mga kamay habang nag-uusap kayo.
 
-Tingnan ang [paano maglaro nang magkasama](/caregiving/how-to-play-together/) at [mga aktibidad sa pagbabalik-tanaw](/activities/reminiscence/) para sa higit pa. Para sa mga pagbisita at tawag, basahin ang aming mga gabay sa [pagbisita](/activities/visiting/) at [mga tawag sa telepono at video](/activities/phone-and-video-calls/).
+Tingnan ang [paano maglaro nang magkasama](/caregiving/how-to-play-together/) at [mga gawain ng paggunita](/activities/reminiscence/) para sa higit pa. Para sa mga pagbisita at tawag, basahin ang aming mga gabay sa [pagbisita](/activities/visiting/) at [mga tawag sa telepono at video](/activities/phone-and-video-calls/).
 
-## Paano kung maubusan ako ng pasensya?
+Para sa taong marunong ng higit sa isang wika, tingnan ang aming [gabay sa pakikipag-usap sa iba’t ibang wika](/caregiving/language-and-dementia-communication/).
 
-Nangyayari ito sa lahat. Iminumungkahi ng NIA na kung nainis kayo, maglaan ng oras para kumalma. Pumasok sa ibang silid, huminga nang mabagal nang ilang beses, at bumalik kapag kaya na ninyo. Maaari ninyong simulan muli ang usapan anumang oras, at maaaring tumugon ang tao sa mas kalmado ninyong damdamin. Kung palagian na ang pagkainis, senyales iyon na kailangan ninyo ng mas maraming suporta, hindi na pumapalpak kayo. May mga mapupuntahan sa aming gabay sa [pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/).
+## Paano kung mawalan ako ng pasensya?
+
+Nangyayari ito sa lahat. Iminumungkahi ng NIA na kung nagagalit kayo, maglaan ng oras upang kumalma. Pumunta sa ibang silid, huminga nang dahan-dahan nang ilang beses, at bumalik kapag kaya na ninyo. Maaari ninyong simulan muli ang pag-uusap, at madalas na mas tutugon ang tao sa mas kalmado ninyong pakikitungo. Kung madalas na kayong nawawalan ng pasensya, senyales ito na kailangan ninyo ng higit pang suporta, hindi ibig sabihin na nagkukulang kayo. Ang aming gabay sa [pag-aalaga sa sarili ng tagapag-alaga](/caregiving/caregiver-self-care/) ay may mga mapupuntahan para sa tulong.

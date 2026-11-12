@@ -1,33 +1,32 @@
 ---
-title: "Communication Tips for Talking with Someone Who Has Dementia"
-seoTitle: "Dementia Communication Tips: What to Say and Avoid"
-description: "Practical ways to talk with someone living with dementia: how to set up a conversation, what to say instead of quizzing or correcting, and how to listen."
+title: "ຄຳແນະນຳໃນການສົນທະນາກັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ"
+seoTitle: "ຄຳແນະນຳການສື່ສານກັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ"
+description: "ວິທີການສົນທະນາກັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ: ການກະກຽມການສົນທະນາ, ສິ່ງທີ່ຄວນເວົ້າແທນການຖາມຫຼືແກ້ໄຂ, ແລະ ວິທີຮັບຟັງ."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Talk somewhere quiet, face the person, use their name, and speak slowly in
-  short, simple sentences. Ask one question at a time, offer two choices
-  instead of open questions, and wait longer than feels natural. Do not argue,
-  correct or quiz. Respond to the feeling behind the words, and use touch,
-  pictures and gestures as speech becomes harder.
+  ເວົ້າໃນບ່ອນທີ່ງຽບ, ຫັນໜ້າເຂົ້າຫາຜູ້ທີ່ທ່ານເບິ່ງແຍງ, ເອີ້ນຊື່ຂອງເຂົາເຈົ້າ, ແລະ ເວົ້າຊ້າໆ
+  ເປັນປະໂຫຍກສັ້ນໆ ແລະ ເຂົ້າໃຈງ່າຍ. ຖາມທີລະຄຳຖາມ, ໃຫ້ທາງເລືອກສອງຢ່າງແທນຄຳຖາມປາຍເປີດ,
+  ແລະ ລໍຖ້າດົນກວ່າທີ່ຮູ້ສຶກປົກກະຕິ. ຢ່າໂຕ້ຖຽງ, ແກ້ໄຂ ຫຼື ຖາມທົດສອບ. ຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກທີ່ຢູ່ເບື້ອງຫຼັງຄຳເວົ້າ,
+  ແລະ ໃຊ້ການສຳຜັດ, ຮູບພາບ ແລະ ທ່າທາງເມື່ອການເວົ້າເລີ່ມຍາກຂຶ້ນ.
 keyPoints:
-  - "Cut background noise and get eye contact before you start talking."
-  - "Use short sentences, one idea at a time, and names instead of he, she or they."
-  - "Offer a choice of two, or a yes-or-no question, rather than open questions."
-  - "Wait for an answer. If they are not understood, repeat the same words, then try new ones."
-  - "Do not argue or correct. Respond to the feeling behind what they say."
-  - "As words fade, communicate through touch, tone, facial expression and shared pictures."
+  - "ຫຼຸດສຽງລົບກວນ ແລະ ສ້າງການສົບຕາກ່ອນເລີ່ມເວົ້າ."
+  - "ໃຊ້ປະໂຫຍກສັ້ນໆ, ທີລະຄວາມຄິດ, ແລະ ໃຊ້ຊື່ແທນຄຳວ່າ ລາວ ຫຼື ພວກເຂົາ."
+  - "ໃຫ້ເລືອກສອງຢ່າງ ຫຼື ຖາມຄຳຖາມທີ່ຕອບໄດ້ວ່າ ແມ່ນ ຫຼື ບໍ່, ແທນຄຳຖາມປາຍເປີດ."
+  - "ລໍຖ້າຄຳຕອບ. ຖ້າເຂົາເຈົ້າບໍ່ເຂົ້າໃຈ, ໃຫ້ເວົ້າຄຳເດີມຊ້ຳ, ຫຼັງຈາກນັ້ນລອງໃຊ້ຄຳໃໝ່."
+  - "ຢ່າໂຕ້ຖຽງ ຫຼື ແກ້ໄຂ. ໃຫ້ຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກທີ່ຢູ່ເບື້ອງຫຼັງສິ່ງທີ່ເຂົາເຈົ້າເວົ້າ."
+  - "ເມື່ອຄຳເວົ້າເລີ່ມນ້ອຍລົງ, ໃຫ້ສື່ສານຜ່ານການສຳຜັດ, ນ້ຳສຽງ, ສີໜ້າ ແລະ ຮູບພາບທີ່ເບິ່ງຮ່ວມກັນ."
 faq:
-  - q: "What should you not say to someone with dementia?"
-    a: "Avoid quizzing (\"Do you remember...?\"), correcting (\"That's wrong\"), reminding them of losses (\"I already told you\") and talking about them as if they are not there. Avoid baby talk. These tend to cause embarrassment or distress without helping."
-  - q: "Should I correct them when they get facts wrong?"
-    a: "Usually not. If a mistaken fact is harmless, let it go. Arguing rarely changes the person's mind and often makes them upset. Focus on how they feel and what they need right now."
-  - q: "What do I do when they cannot find the word?"
-    a: "Give them time first. If they are clearly struggling, it is fine to gently offer a word or guess what they mean and check. Pointing, gestures and pictures can also help."
-  - q: "How do I talk with someone in late-stage dementia who rarely speaks?"
-    a: "Approach from the front, say who you are, and use a calm voice and gentle touch. Watch faces and body language for feelings. Your presence, a familiar song or holding hands can communicate a great deal without words."
+  - q: "ຄວນຫຼີກລ່ຽງການເວົ້າແບບໃດກັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ?"
+    a: "ຫຼີກລ່ຽງການຖາມທົດສອບ (ເຊັ່ນ: “ເຈົ້າຈື່ໄດ້ບໍ່...?”), ການແກ້ໄຂ (ເຊັ່ນ: “ນັ້ນບໍ່ຖືກ”), ການເຕືອນເຖິງສິ່ງທີ່ສູນເສຍໄປ (ເຊັ່ນ: “ຂ້ອຍບອກເຈົ້າແລ້ວ”) ແລະ ການເວົ້າເຖິງເຂົາເຈົ້າຄືກັບວ່າເຂົາເຈົ້າບໍ່ໄດ້ຢູ່ທີ່ນັ້ນ. ຫຼີກລ່ຽງການເວົ້າຄືກັບເດັກນ້ອຍ. ສິ່ງເຫຼົ່ານີ້ມັກເຮັດໃຫ້ເຂົາເຈົ້າຮູ້ສຶກອາຍ ຫຼື ບໍ່ສະບາຍໃຈ ໂດຍບໍ່ໄດ້ຊ່ວຍຫຍັງ."
+  - q: "ຂ້ອຍຄວນແກ້ໄຂເມື່ອເຂົາເຈົ້າເວົ້າຂໍ້ເທັດຈິງຜິດບໍ?"
+    a: "ສ່ວນໃຫຍ່ແລ້ວບໍ່ຈຳເປັນ. ຖ້າຂໍ້ເທັດຈິງທີ່ຜິດບໍ່ເປັນອັນຕະລາຍ, ໃຫ້ປ່ອຍຜ່ານໄປ. ການໂຕ້ຖຽງບໍ່ຄ່ອຍເຮັດໃຫ້ຄວາມຄິດຂອງເຂົາເຈົ້າປ່ຽນ ແລະ ມັກເຮັດໃຫ້ເຂົາເຈົ້າບໍ່ສະບາຍໃຈ. ໃຫ້ເນັ້ນໄປທີ່ຄວາມຮູ້ສຶກ ແລະ ສິ່ງທີ່ເຂົາເຈົ້າຕ້ອງການໃນຕອນນີ້."
+  - q: "ຂ້ອຍຄວນເຮັດແນວໃດເມື່ອເຂົາເຈົ້າຫາຄຳສັບບໍ່ເຈີ?"
+    a: "ໃຫ້ເວລາເຂົາເຈົ້າກ່ອນ. ຖ້າເຫັນວ່າເຂົາເຈົ້າກຳລັງພະຍາຍາມຢ່າງຍາກ, ການຊ່ວຍບອກຄຳສັບ ຫຼື ຄາດເດົາຄວາມໝາຍແລ້ວຖາມຢືນຢັນກໍເຮັດໄດ້. ການຊີ້, ທ່າທາງ ແລະ ຮູບພາບກໍຊ່ວຍໄດ້ເຊັ່ນກັນ."
+  - q: "ຂ້ອຍຄວນສົນທະນາແນວໃດກັບຜູ້ທີ່ຢູ່ໃນຊ່ວງທ້າຍຂອງພາວະສະໝອງເສື່ອມທີ່ບໍ່ຄ່ອຍເວົ້າ?"
+    a: "ເຂົ້າຫາຈາກດ້ານໜ້າ, ບອກວ່າທ່ານແມ່ນໃຜ, ແລະ ໃຊ້ນ້ຳສຽງທີ່ສະຫງົບ ແລະ ການສຳຜັດທີ່ອ່ອນໂຍນ. ສັງເກດສີໜ້າ ແລະ ພາສາກາຍເພື່ອເບິ່ງຄວາມຮູ້ສຶກ. ການຢູ່ຂ້າງໆ, ເພງທີ່ຄຸ້ນເຄີຍ ຫຼື ການຈັບມືກັນກໍສາມາດສື່ສານໄດ້ຫຼາຍ ໂດຍບໍ່ຕ້ອງໃຊ້ຄຳເວົ້າ."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -39,98 +38,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia can make it harder to find words, follow a long sentence, or block out background noise. None of that means the person has stopped wanting to connect. Small changes in how you set up a conversation, how you speak and how you listen can make talking easier and calmer for both of you.
+ພາວະສະໝອງເສື່ອມອາດເຮັດໃຫ້ການຫາຄຳສັບ, ການຕິດຕາມປະໂຫຍກຍາວໆ ຫຼື ການຕັດສຽງລົບກວນເປັນເລື່ອງຍາກຂຶ້ນ. ແຕ່ນັ້ນບໍ່ໄດ້ໝາຍຄວາມວ່າຜູ້ທີ່ທ່ານເບິ່ງແຍງບໍ່ຢາກສື່ສານອີກຕໍ່ໄປ. ການປັບປ່ຽນເລັກນ້ອຍໃນການກະກຽມການສົນທະນາ, ວິທີເວົ້າ ແລະ ວິທີຮັບຟັງ ອາດຊ່ວຍໃຫ້ການສົນທະນາງ່າຍຂຶ້ນ ແລະ ສະບາຍໃຈຂຶ້ນສຳລັບທັງສອງຝ່າຍ.
 
-## What are the most important tips for talking with someone who has dementia?
+## ຄຳແນະນຳທີ່ສຳຄັນທີ່ສຸດໃນການສົນທະນາກັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມແມ່ນຫຍັງ?
 
-Get their attention, keep it simple, and be patient. If you remember only five things:
+ດຶງຄວາມສົນໃຈຂອງເຂົາເຈົ້າ, ເວົ້າໃຫ້ງ່າຍ, ແລະ ມີຄວາມອົດທົນ. ຖ້າທ່ານຈື່ໄດ້ພຽງຫ້າຢ່າງ:
 
-1. **Quiet the room and face them.** Turn off the TV, sit at eye level, and use their name.
-2. **Say one thing at a time.** Short sentences, one idea, one question.
-3. **Offer a choice of two.** "Tea or coffee?" is easier than "What would you like?"
-4. **Wait.** Give more time to answer than feels natural, and try not to interrupt.
-5. **Never argue or quiz.** Respond to how they feel, not to whether the facts are right.
+1. **ເຮັດໃຫ້ຫ້ອງງຽບ ແລະ ຫັນໜ້າເຂົ້າຫາເຂົາເຈົ້າ.** ປິດໂທລະພາບ, ນັ່ງໃນລະດັບສາຍຕາດຽວກັນ, ແລະ ເອີ້ນຊື່ຂອງເຂົາເຈົ້າ.
+2. **ເວົ້າທີລະຢ່າງ.** ໃຊ້ປະໂຫຍກສັ້ນໆ, ທີລະຄວາມຄິດ, ທີລະຄຳຖາມ.
+3. **ໃຫ້ເລືອກສອງຢ່າງ.** “ດື່ມຊາ ຫຼື ກາເຟ?” ງ່າຍກວ່າ “ຢາກດື່ມຫຍັງ?”
+4. **ລໍຖ້າ.** ໃຫ້ເວລາໃນການຕອບດົນກວ່າທີ່ຮູ້ສຶກປົກກະຕິ, ແລະ ພະຍາຍາມບໍ່ເວົ້າສອດ.
+5. **ຢ່າໂຕ້ຖຽງ ຫຼື ຖາມທົດສອບ.** ໃຫ້ຕອບສະໜອງຕໍ່ຄວາມຮູ້ສຶກຂອງເຂົາເຈົ້າ, ບໍ່ແມ່ນວ່າຂໍ້ເທັດຈິງຖືກ ຫຼື ຜິດ.
 
-## How should I start a conversation?
+## ຂ້ອຍຄວນເລີ່ມການສົນທະນາແນວໃດ?
 
-Set things up so the person can focus on you. The [Family Caregiver Alliance guide](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise first: turn off the radio or TV, close the curtains or door, or move somewhere quieter.
+ກະກຽມໃຫ້ຜູ້ທີ່ທ່ານເບິ່ງແຍງສາມາດຕັ້ງໃຈກັບທ່ານໄດ້. [ຄູ່ມືຂອງ Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ແນະນຳໃຫ້ຫຼຸດສຽງລົບກວນກ່ອນ: ປິດວິທະຍຸ ຫຼື ໂທລະພາບ, ປິດຜ້າມ່ານ ຫຼື ປະຕູ, ຫຼື ຍ້າຍໄປບ່ອນທີ່ງຽບກວ່າ.
 
-- **Approach from the front.** Coming from behind or the side can startle.
-- **Say who you are.** "Hi Dad, it's Sarah, your daughter." This saves them from searching for your name.
-- **Get down to their level.** If they are sitting, sit or kneel so your eyes are level.
-- **Check your face and tone.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) advises being aware of your tone, volume, facial expression and body language, and aiming for a warm, matter-of-fact manner.
-- **Make sure glasses and hearing aids are in.** It is hard to follow a conversation you cannot fully see or hear.
+- **ເຂົ້າຫາຈາກດ້ານໜ້າ.** ການເຂົ້າຫາຈາກດ້ານຫຼັງ ຫຼື ດ້ານຂ້າງອາດເຮັດໃຫ້ເຂົາເຈົ້າຕົກໃຈ.
+- **ບອກວ່າທ່ານແມ່ນໃຜ.** “ສະບາຍດີພໍ່, ຂ້ອຍແມ່ນ Sarah, ລູກສາວຂອງພໍ່.” ນີ້ຊ່ວຍໃຫ້ເຂົາເຈົ້າບໍ່ຕ້ອງພະຍາຍາມຄິດຊື່ຂອງທ່ານ.
+- **ລົງມາໃນລະດັບດຽວກັນ.** ຖ້າເຂົາເຈົ້ານັ່ງຢູ່, ໃຫ້ທ່ານນັ່ງ ຫຼື ຄຸເຂົ່າເພື່ອໃຫ້ສາຍຕາຢູ່ໃນລະດັບດຽວກັນ.
+- **ສັງເກດສີໜ້າ ແລະ ນ້ຳສຽງຂອງທ່ານ.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) ແນະນຳໃຫ້ໃສ່ໃຈນ້ຳສຽງ, ລະດັບສຽງ, ສີໜ້າ ແລະ ພາສາກາຍຂອງທ່ານ, ແລະ ພະຍາຍາມໃຊ້ທ່າທີທີ່ອົບອຸ່ນ ແລະ ເປັນທຳມະຊາດ.
+- **ກວດເບິ່ງວ່າໃສ່ແວ່ນຕາ ແລະ ເຄື່ອງຊ່ວຍຟັງແລ້ວຫຼືຍັງ.** ມັນຍາກທີ່ຈະຕິດຕາມການສົນທະນາທີ່ເບິ່ງ ຫຼື ໄດ້ຍິນບໍ່ຊັດເຈນ.
 
-## How should I phrase what I say?
+## ຂ້ອຍຄວນເວົ້າແນວໃດ?
 
-Use simple words, short sentences and a calm, low voice.
+ໃຊ້ຄຳສັບງ່າຍໆ, ປະໂຫຍກສັ້ນໆ ແລະ ນ້ຳສຽງທີ່ສະຫງົບ ແລະ ຕ່ຳ.
 
-- **One idea per sentence.** "Let's put on your coat. Then we'll go outside." Not both in one breath.
-- **Use names, not pronouns.** "Aunt Jean called" is clearer than "She called."
-- **Pitch lower, not louder.** The Family Caregiver Alliance suggests a lower voice rather than a raised one.
-- **Repeat, then rephrase.** If they did not understand, repeat the same words once. If that does not work, wait a moment and try different words.
-- **Show as well as tell.** Point to the cup, hold up the two sweaters, or demonstrate the first step.
-- **Talk to them, not about them.** The NIA cautions against talking about the person as if they are not there, and against "baby talk".
+- **ທີລະຄວາມຄິດຕໍ່ປະໂຫຍກ.** “ໃສ່ເສື້ອກັນໜາວກ່ອນ. ຫຼັງຈາກນັ້ນພວກເຮົາຈະອອກໄປຂ້າງນອກ.” ຢ່າເວົ້າທັງສອງຢ່າງໃນຄັ້ງດຽວ.
+- **ໃຊ້ຊື່, ບໍ່ໃຊ້ຄຳສັບພະນາມ.** “ປ້າ Jean ໂທມາ” ຊັດເຈນກວ່າ “ລາວໂທມາ”.
+- **ໃຊ້ນ້ຳສຽງຕ່ຳ, ບໍ່ແມ່ນດັງຂຶ້ນ.** Family Caregiver Alliance ແນະນຳໃຫ້ໃຊ້ນ້ຳສຽງຕ່ຳກວ່າການເວົ້າໃຫ້ດັງຂຶ້ນ.
+- **ເວົ້າຊ້ຳ, ຫຼັງຈາກນັ້ນປ່ຽນຄຳເວົ້າ.** ຖ້າເຂົາເຈົ້າບໍ່ເຂົ້າໃຈ, ໃຫ້ເວົ້າຄຳເດີມອີກຄັ້ງ. ຖ້າຍັງບໍ່ໄດ້ຜົນ, ໃຫ້ລໍຖ້າຈັກໜ່ອຍ ແລ້ວລອງໃຊ້ຄຳອື່ນ.
+- **ສະແດງໃຫ້ເຫັນຄຽງຄູ່ກັບການເວົ້າ.** ຊີ້ໄປທີ່ຈອກ, ຍົກເສື້ອກັນໜາວສອງຕົວໃຫ້ເຫັນ, ຫຼື ສະແດງຂັ້ນຕອນທຳອິດ.
+- **ເວົ້າກັບເຂົາເຈົ້າ, ບໍ່ແມ່ນເວົ້າເຖິງເຂົາເຈົ້າ.** NIA ເຕືອນບໍ່ໃຫ້ເວົ້າເຖິງຜູ້ທີ່ທ່ານເບິ່ງແຍງຄືກັບວ່າເຂົາເຈົ້າບໍ່ໄດ້ຢູ່ທີ່ນັ້ນ, ແລະ ບໍ່ໃຫ້ໃຊ້ການເວົ້າຄືກັບເດັກນ້ອຍ.
 
-The NIA suggests simpler versions of common questions. Here are examples in that spirit:
+NIA ແນະນຳຮູບແບບຄຳຖາມທີ່ງ່າຍຂຶ້ນສຳລັບຄຳຖາມທົ່ວໄປ. ນີ້ແມ່ນຕົວຢ່າງໃນແນວຄິດດຽວກັນ:
 
-| Instead of | Try |
+| ແທນທີ່ຈະເວົ້າວ່າ | ລອງເວົ້າວ່າ |
 | --- | --- |
-| "What do you want for dinner?" | "Do you want fish or chicken?" |
-| "How are you feeling?" | "Are you feeling tired?" |
-| "Are you hungry?" | "Dinner will be ready in five minutes." |
-| "That's not how you do it." | "Let's try it this way." |
-| "Do you remember our trip to the lake?" | "I was thinking about our trip to the lake. Tell me what you liked about it." |
-| "I already told you." | Answer again, kindly, as if for the first time. |
+| “ຢາກກິນຫຍັງແດ່ຕອນແລງ?” | “ຢາກກິນປາ ຫຼື ໄກ່?” |
+| “ຮູ້ສຶກແນວໃດ?” | “ຮູ້ສຶກເມື່ອຍບໍ?” |
+| “ຫິວເຂົ້າບໍ?” | “ອາຫານແລງຈະພ້ອມໃນອີກຫ້ານາທີ.” |
+| “ເຮັດແບບນັ້ນບໍ່ຖືກ.” | “ລອງເຮັດແບບນີ້ເບິ່ງ.” |
+| “ຈື່ທ່ຽວທີ່ໄປທະເລສາບໄດ້ບໍ?” | “ຂ້ອຍຄິດເຖິງທ່ຽວທີ່ພວກເຮົາໄປທະເລສາບ. ເຈົ້າມັກຫຍັງແດ່ໃນທ່ຽວນັ້ນ?” |
+| “ຂ້ອຍບອກເຈົ້າແລ້ວ.” | ຕອບອີກຄັ້ງຢ່າງໃຈດີ, ຄືກັບວ່າເປັນຄັ້ງທຳອິດ. |
 
-## How do I listen well?
+## ຂ້ອຍຈະຮັບຟັງໃຫ້ດີໄດ້ແນວໃດ?
 
-Listen for the meaning and the feeling, not just the words.
+ໃຫ້ຮັບຟັງຄວາມໝາຍ ແລະ ຄວາມຮູ້ສຶກ, ບໍ່ແມ່ນພຽງແຕ່ຄຳເວົ້າ.
 
-- **Wait.** Silence is often thinking time. Count slowly to ten before stepping in.
-- **Offer a word only if they are stuck.** The Family Caregiver Alliance says it is fine to suggest words when someone is struggling.
-- **Check what you heard.** The [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) suggests looking for the meaning behind their words and restating it to check you understood. "You're worried about the car?"
-- **Watch their face and body.** As speech gets harder, the NIA notes, facial expressions may show sadness, anger or frustration more clearly than words.
-- **Take concerns seriously.** Even if a worry is based on a mistaken fact, the feeling is real.
+- **ລໍຖ້າ.** ຄວາມງຽບມັກເປັນເວລາທີ່ເຂົາເຈົ້າກຳລັງຄິດ. ນັບຊ້າໆ ເຖິງສິບກ່ອນທີ່ຈະເຂົ້າໄປຊ່ວຍ.
+- **ຊ່ວຍບອກຄຳສັບກໍຕໍ່ເມື່ອເຂົາເຈົ້າຕິດຂັດ.** Family Caregiver Alliance ບອກວ່າການແນະນຳຄຳສັບເມື່ອເຂົາເຈົ້າກຳລັງພະຍາຍາມເວົ້າກໍເຮັດໄດ້.
+- **ກວດສອບສິ່ງທີ່ທ່ານໄດ້ຍິນ.** [ຄູ່ມືການສື່ສານຂອງ Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) ແນະນຳໃຫ້ສັງເກດຄວາມໝາຍທີ່ຢູ່ເບື້ອງຫຼັງຄຳເວົ້າ ແລະ ເວົ້າທວນເພື່ອກວດສອບວ່າທ່ານເຂົ້າໃຈຖືກຫຼືບໍ່. ເຊັ່ນ: “ເຈົ້າເປັນຫ່ວງລົດບໍ?”
+- **ສັງເກດສີໜ້າ ແລະ ພາສາກາຍ.** ເມື່ອການເວົ້າຍາກຂຶ້ນ, NIA ລະບຸວ່າສີໜ້າອາດສະແດງຄວາມເສົ້າ, ຄວາມໃຈຮ້າຍ ຫຼື ຄວາມຫຍຸ້ງຍາກໄດ້ຊັດເຈນກວ່າຄຳເວົ້າ.
+- **ໃຫ້ຄວາມສຳຄັນກັບຄວາມກັງວົນ.** ແມ່ນວ່າຄວາມກັງວົນຈະມາຈາກຂໍ້ເທັດຈິງທີ່ຜິດ, ແຕ່ຄວາມຮູ້ສຶກນັ້ນແມ່ນຄວາມຈິງ.
 
-## What if they say something that is not true?
+## ຖ້າເຂົາເຈົ້າເວົ້າສິ່ງທີ່ບໍ່ຖືກຕ້ອງຂ້ອຍຄວນເຮັດແນວໃດ?
 
-Do not argue. You are unlikely to win, and the person may end up feeling embarrassed or frightened. Instead, connect with the feeling, then gently move on.
+ຢ່າໂຕ້ຖຽງ. ທ່ານອາດບໍ່ສາມາດເຮັດໃຫ້ເຂົາເຈົ້າປ່ຽນຄວາມຄິດໄດ້, ແລະ ສຸດທ້າຍອາດເຮັດໃຫ້ເຂົາເຈົ້າຮູ້ສຶກອາຍ ຫຼື ຢ້ານ. ແທນທີ່ຈະເຮັດແນວນັ້ນ, ໃຫ້ເຂົ້າໃຈຄວາມຮູ້ສຶກຂອງເຂົາເຈົ້າ ແລ້ວຄ່ອຍໆ ປ່ຽນເລື່ອງ.
 
-The Family Caregiver Alliance suggests acknowledging the emotion before you redirect. For example, if your mom insists she needs to pick up the children from school:
+Family Caregiver Alliance ແນະນຳໃຫ້ຮັບຮູ້ຄວາມຮູ້ສຶກກ່ອນແລ້ວຄ່ອຍປ່ຽນທິດທາງ. ຕົວຢ່າງ, ຖ້າແມ່ຂອງທ່ານຢືນຢັນວ່າຕ້ອງໄປຮັບລູກໆ ຈາກໂຮງຮຽນ:
 
-- Instead of: "Mom, your kids are grown. That was forty years ago."
-- Try: "You were always such a caring mother. Tell me about picking them up. Shall we have a snack first?"
+- ແທນທີ່ຈະເວົ້າວ່າ: “ແມ່, ລູກໆ ໂຕແລ້ວ. ນັ້ນແມ່ນສີ່ສິບປີກ່ອນແລ້ວ.”
+- ລອງເວົ້າວ່າ: “ແມ່ເປັນແມ່ທີ່ໃສ່ໃຈລູກຫຼາຍ. ເລົ່າໃຫ້ຟັງແດ່ກ່ຽວກັບຕອນໄປຮັບລູກໆ. ພວກເຮົາກິນຂອງຫວ່າງກ່ອນດີບໍ?”
 
-The Alzheimer's Association also advises not to argue over statements you disagree with. Pick your moments: if a mistaken belief is harmless, let it be.
+Alzheimer's Association ກໍແນະນຳເຊັ່ນກັນວ່າບໍ່ຄວນໂຕ້ຖຽງກັບຄຳເວົ້າທີ່ທ່ານບໍ່ເຫັນດ້ວຍ. ໃຫ້ເລືອກເວລາທີ່ເໝາະສົມ: ຖ້າຄວາມເຊື່ອທີ່ຜິດບໍ່ເປັນອັນຕະລາຍ, ໃຫ້ປ່ອຍຜ່ານໄປ.
 
-## How does communication change as dementia progresses?
+## ການສື່ສານປ່ຽນແປງແນວໃດເມື່ອພາວະສະໝອງເສື່ອມຮຸນແຮງຂຶ້ນ?
 
-Needs change over time, so adjust your approach. The Alzheimer's Association describes three broad phases:
+ຄວາມຕ້ອງການປ່ຽນແປງໄປຕາມເວລາ, ດັ່ງນັ້ນໃຫ້ປັບວິທີການຂອງທ່ານ. Alzheimer's Association ອະທິບາຍເປັນສາມໄລຍະກວ້າງໆ:
 
-| Stage | What helps |
+| ໄລຍະ | ສິ່ງທີ່ຊ່ວຍໄດ້ |
 | --- | --- |
-| Early | Don't assume they can't communicate. Include them in conversations, speak to them directly, ask what support they want, and use humor if it helps. |
-| Middle | One-to-one talks in a quiet place. Speak slowly, keep eye contact, use yes-or-no questions, give step-by-step instructions, and don't criticize or correct. |
-| Late | Approach from the front and say who you are. Encourage pointing and gestures. Use touch, sounds, sights and smells. Never talk as if they aren't there. |
+| ໄລຍະເລີ່ມຕົ້ນ | ຢ່າຄິດວ່າເຂົາເຈົ້າສື່ສານບໍ່ໄດ້. ໃຫ້ເຂົາເຈົ້າມີສ່ວນຮ່ວມໃນການສົນທະນາ, ເວົ້າກັບເຂົາເຈົ້າໂດຍກົງ, ຖາມວ່າເຂົາເຈົ້າຕ້ອງການການຊ່ວຍເຫຼືອແບບໃດ, ແລະ ໃຊ້ອາລົມຂັນຖ້າເໝາະສົມ. |
+| ໄລຍະກາງ | ສົນທະນາແບບຕົວຕໍ່ຕົວໃນບ່ອນງຽບ. ເວົ້າຊ້າໆ, ສົບຕາ, ໃຊ້ຄຳຖາມທີ່ຕອບໄດ້ວ່າ ແມ່ນ ຫຼື ບໍ່, ໃຫ້ຄຳແນະນຳເປັນຂັ້ນຕອນ, ແລະ ຢ່າຕຳໜິ ຫຼື ແກ້ໄຂ. |
+| ໄລຍະທ້າຍ | ເຂົ້າຫາຈາກດ້ານໜ້າ ແລະ ບອກວ່າທ່ານແມ່ນໃຜ. ສົ່ງເສີມການຊີ້ ແລະ ທ່າທາງ. ໃຊ້ການສຳຜັດ, ສຽງ, ພາບ ແລະ ກິ່ນ. ຢ່າເວົ້າຄືກັບວ່າເຂົາເຈົ້າບໍ່ໄດ້ຢູ່ທີ່ນັ້ນ. |
 
-Every person is different, and the same person may have good and hard days. Respond to how they are right now, not to a label.
+ແຕ່ລະຄົນແຕກຕ່າງກັນ, ແລະ ຄົນດຽວກັນອາດມີມື້ທີ່ດີ ແລະ ມື້ທີ່ຍາກ. ໃຫ້ຕອບສະໜອງຕາມສະພາບຂອງເຂົາເຈົ້າໃນຕອນນີ້, ບໍ່ແມ່ນຕາມປ້າຍກຳກັບ.
 
-## Can pictures and activities make conversation easier?
+## ຮູບພາບ ແລະ ກິດຈະກຳຊ່ວຍໃຫ້ການສົນທະນາງ່າຍຂຶ້ນໄດ້ບໍ?
 
-Yes. A shared picture takes the pressure off and gives you both something to look at and point to.
+ໄດ້. ຮູບພາບທີ່ເບິ່ງຮ່ວມກັນຊ່ວຍຫຼຸດຄວາມກົດດັນ ແລະ ໃຫ້ທັງສອງຝ່າຍມີສິ່ງທີ່ຈະເບິ່ງ ແລະ ຊີ້ໄປຫາ.
 
-- **Picture prompts.** [Conversation Cards](/games/conversation-cards/) offer pictures with open questions that never quiz.
-- **Family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a gentle matching game, which often sparks stories.
-- **Familiar sayings.** [Finish the Saying](/games/finish-the-saying/) uses well-known American sayings, followed by a talking prompt.
-- **Matching games as a backdrop.** [Picture Pairs](/games/picture-pairs/) gives your hands something to do while you chat.
+- **ຮູບພາບຊວນຄົນທະນາ.** [Conversation Cards](/games/conversation-cards/) ມີຮູບພາບພ້ອມຄຳຖາມປາຍເປີດທີ່ບໍ່ໄດ້ຖາມທົດສອບ.
+- **ຮູບພາບຄອບຄົວ.** [Photo Pairs](/games/photo-pairs/) ປ່ຽນຮູບພາບທີ່ທ່ານເລືອກໃຫ້ເປັນເກມຈັບຄູ່ແບບອ່ອນໂຍນ, ເຊິ່ງມັກຊ່ວຍກະຕຸ້ນໃຫ້ເກີດເລື່ອງລາວ.
+- **ສຳນວນທີ່ຄຸ້ນເຄີຍ.** [Finish the Saying](/games/finish-the-saying/) ໃຊ້ສຳນວນອາເມລິກັນທີ່ຄົນຮູ້ຈັກດີ, ຕາມດ້ວຍຄຳຖາມຊວນຄົນທະນາ.
+- **ເກມຈັບຄູ່ເປັນກິດຈະກຳຄຽງຄູ່.** [Picture Pairs](/games/picture-pairs/) ໃຫ້ມືມີສິ່ງທີ່ຈະເຮັດໃນຂະນະທີ່ທ່ານສົນທະນາກັນ.
 
-See [how to play games together](/caregiving/how-to-play-together/) and [reminiscence activities](/activities/reminiscence/) for more. For visits and calls, read our guides to [visiting](/activities/visiting/) and [phone and video calls](/activities/phone-and-video-calls/).
+ເບິ່ງເພີ່ມເຕີມທີ່ [ວິທີຫຼິ້ນເກມຮ່ວມກັນ](/caregiving/how-to-play-together/) ແລະ [ກິດຈະກຳລະນຶກເຖິງຄວາມຊົງຈຳ](/activities/reminiscence/). ສຳລັບການຢ້ຽມຢາມ ແລະ ການໂທ, ອ່ານຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ການຢ້ຽມຢາມ](/activities/visiting/) ແລະ [ການໂທ ແລະ ວິດີໂອຄໍ](/activities/phone-and-video-calls/).
 
-## What if I lose my patience?
+ສຳລັບຜູ້ທີ່ໃຊ້ຫຼາຍພາສາ, ເບິ່ງ [ຄູ່ມືການສື່ສານຂ້າມພາສາ](/caregiving/language-and-dementia-communication/).
 
-It happens to everyone. The NIA suggests that if you become frustrated, you take some time to calm down. Step into another room, take a few slow breaths, and come back when you can. You can always start the conversation again, and the person may well respond to your calmer mood. If frustration is becoming constant, that is a sign you need more support, not that you are failing. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has places to turn.
+## ຖ້າຂ້ອຍເລີ່ມໃຈຮ້ອນຂຶ້ນຂ້ອຍຄວນເຮັດແນວໃດ?
+
+ເລື່ອງນີ້ເກີດຂຶ້ນໄດ້ກັບທຸກຄົນ. NIA ແນະນຳວ່າຖ້າທ່ານຮູ້ສຶກຫຍຸ້ງຍາກ, ໃຫ້ໃຊ້ເວລາຈັກໜ່ອຍເພື່ອໃຫ້ໃຈເຢັນລົງ. ອອກໄປຫ້ອງອື່ນ, ຫາຍໃຈເຂົ້າອອກຊ້າໆ ສອງສາມເທື່ອ, ແລະ ກັບມາເມື່ອທ່ານພ້ອມ. ທ່ານສາມາດເລີ່ມການສົນທະນາໃໝ່ໄດ້ສະເໝີ, ແລະ ຜູ້ທີ່ທ່ານເບິ່ງແຍງອາດຕອບສະໜອງໄດ້ດີຂຶ້ນເມື່ອເຫັນອາລົມຂອງທ່ານສະຫງົບຂຶ້ນ. ຖ້າຄວາມຫຍຸ້ງຍາກເກີດຂຶ້ນເລື້ອຍໆ, ນັ້ນເປັນສັນຍານວ່າທ່ານຕ້ອງການການຊ່ວຍເຫຼືອເພີ່ມເຕີມ, ບໍ່ແມ່ນວ່າທ່ານກຳລັງເຮັດບໍ່ດີ. ຄູ່ມືຂອງພວກເຮົາກ່ຽວກັບ [ການເບິ່ງແລຕົນເອງຂອງຜູ້ເບິ່ງແຍງ](/caregiving/caregiver-self-care/) ມີແຫຼ່ງຊ່ວຍເຫຼືອທີ່ທ່ານສາມາດຫັນໄປຫາໄດ້.

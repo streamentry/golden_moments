@@ -1,34 +1,34 @@
 ---
-title: "Tips Berkomunikasi dengan Orang yang Hidup dengan Demensia"
-seoTitle: "Tips Berkomunikasi dengan Penderita Demensia: Yang Dikatakan"
-description: "Cara praktis berbicara dengan orang yang hidup dengan demensia: menyiapkan percakapan, apa yang dikatakan alih-alih menguji atau mengoreksi, dan cara mendengarkan."
+title: "Cara Berkomunikasi dengan Orang dengan Demensia"
+seoTitle: "Tips Komunikasi Demensia: Yang Perlu Diucapkan"
+description: "Cara praktis berbicara dengan orang yang hidup dengan demensia: menyiapkan percakapan, apa yang diucapkan, dan cara mendengarkan."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Berbicaralah di tempat yang tenang, hadapi orangnya, sebut namanya, dan
-  bicaralah pelan dengan kalimat pendek dan sederhana. Ajukan satu pertanyaan
-  setiap kali, tawarkan dua pilihan alih-alih pertanyaan terbuka, dan tunggu
-  lebih lama daripada yang terasa wajar. Jangan berdebat, mengoreksi, atau
-  menguji. Tanggapi perasaan di balik kata-katanya, dan gunakan sentuhan, gambar,
-  dan gerakan tubuh ketika bicara makin sulit.
+  Berbicaralah di tempat yang tenang, hadaplah orang tersebut, sebut namanya,
+  dan berbicara perlahan dengan kalimat pendek dan sederhana. Ajukan satu
+  pertanyaan pada satu waktu, tawarkan dua pilihan alih-alih pertanyaan terbuka,
+  dan tunggu lebih lama dari yang terasa wajar. Jangan berdebat, mengoreksi,
+  atau menguji ingatan. Tanggapi perasaan di balik kata-katanya, dan gunakan
+  sentuhan, gambar, serta gerak tubuh saat berbicara menjadi lebih sulit.
 keyPoints:
-  - "Kurangi kebisingan latar dan pastikan kontak mata sebelum mulai berbicara."
-  - "Gunakan kalimat pendek, satu gagasan setiap kali, dan sebut nama, bukan “dia” atau “mereka”."
-  - "Tawarkan pilihan dua, atau pertanyaan ya-atau-tidak, alih-alih pertanyaan terbuka."
-  - "Tunggu jawabannya. Jika tidak dimengerti, ulangi kata yang sama, lalu coba kata lain."
-  - "Jangan berdebat atau mengoreksi. Tanggapi perasaan di balik apa yang beliau katakan."
-  - "Ketika kata-kata memudar, berkomunikasilah lewat sentuhan, nada suara, ekspresi wajah, dan gambar bersama."
+  - "Kurangi suara bising dan lakukan kontak mata sebelum mulai berbicara."
+  - "Gunakan kalimat pendek, satu hal pada satu waktu, dan sebut nama alih-alih dia atau mereka."
+  - "Tawarkan dua pilihan, atau pertanyaan ya atau tidak, alih-alih pertanyaan terbuka."
+  - "Tunggu jawabannya. Jika orang tersebut tidak dipahami, ulangi kata-kata yang sama, lalu coba kata-kata lain."
+  - "Jangan berdebat atau mengoreksi. Tanggapi perasaan di balik apa yang mereka katakan."
+  - "Saat kata-kata mulai berkurang, berkomunikasilah melalui sentuhan, nada suara, ekspresi wajah, dan gambar bersama."
 faq:
-  - q: "Apa yang sebaiknya tidak dikatakan kepada orang dengan demensia?"
-    a: "Hindari menguji (“Ingat tidak...?”), mengoreksi (“Itu salah”), mengingatkan pada hal yang hilang (“Kan sudah saya bilang”), dan membicarakan beliau seolah-olah tidak ada di situ. Hindari berbicara seperti kepada anak kecil. Hal-hal ini cenderung menimbulkan rasa malu atau tertekan tanpa membantu."
-  - q: "Perlukah saya mengoreksi beliau ketika salah menyebut fakta?"
-    a: "Biasanya tidak. Jika fakta yang keliru itu tidak berbahaya, biarkan saja. Berdebat jarang mengubah pikiran seseorang dan sering membuatnya kesal. Fokuslah pada perasaannya dan apa yang beliau butuhkan saat ini."
-  - q: "Apa yang harus dilakukan ketika beliau tidak menemukan kata yang dicari?"
-    a: "Beri waktu lebih dulu. Jika beliau jelas kesulitan, boleh dengan lembut menawarkan sebuah kata atau menebak maksudnya lalu memastikannya. Menunjuk, gerakan tubuh, dan gambar juga bisa membantu."
-  - q: "Bagaimana berbicara dengan orang dengan demensia tahap lanjut yang jarang bicara?"
-    a: "Dekati dari depan, sebutkan siapa Anda, dan gunakan suara yang tenang serta sentuhan yang lembut. Perhatikan wajah dan bahasa tubuhnya untuk menangkap perasaannya. Kehadiran Anda, lagu yang akrab, atau menggenggam tangan dapat menyampaikan banyak hal tanpa kata."
+  - q: "Apa yang sebaiknya tidak dikatakan kepada seseorang dengan demensia?"
+    a: "Hindari menguji ingatan (“Apakah Anda ingat...?”), mengoreksi (“Itu salah”), mengingatkan tentang kehilangan (“Saya sudah bilang”), dan membicarakan orang tersebut seolah-olah mereka tidak ada di sana. Hindari bahasa kekanak-kanakan. Hal-hal ini cenderung menimbulkan rasa malu atau tertekan tanpa membantu."
+  - q: "Apakah saya perlu mengoreksi ketika mereka salah menyebutkan fakta?"
+    a: "Biasanya tidak. Jika kesalahan fakta itu tidak berbahaya, biarkan saja. Berdebat jarang mengubah pikiran orang tersebut dan sering kali membuat mereka kesal. Fokuslah pada perasaan dan kebutuhan mereka saat ini."
+  - q: "Apa yang harus saya lakukan ketika mereka sulit menemukan kata yang tepat?"
+    a: "Beri mereka waktu terlebih dahulu. Jika mereka tampak jelas kesulitan, tidak apa-apa untuk dengan lembut membantu menyebutkan kata atau menebak maksud mereka lalu memastikannya. Menunjuk, gerak tubuh, dan gambar juga dapat membantu."
+  - q: "Bagaimana cara berbicara dengan seseorang pada demensia tahap lanjut yang jarang berbicara?"
+    a: "Dekati dari depan, sebutkan siapa Anda, dan gunakan suara yang tenang serta sentuhan lembut. Perhatikan wajah dan bahasa tubuh untuk memahami perasaan mereka. Kehadiran Anda, lagu yang akrab, atau menggenggam tangan dapat menyampaikan banyak hal tanpa kata-kata."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Demensia bisa membuat seseorang lebih sulit menemukan kata, mengikuti kalimat yang panjang, atau mengabaikan kebisingan di sekitarnya. Semua itu tidak berarti orang tersebut berhenti ingin terhubung. Perubahan kecil dalam cara Anda menyiapkan percakapan, cara Anda berbicara, dan cara Anda mendengarkan dapat membuat percakapan lebih mudah dan lebih tenang bagi Anda berdua.
+Demensia dapat membuat seseorang lebih sulit menemukan kata, mengikuti kalimat panjang, atau mengabaikan suara bising di sekitar. Hal itu tidak berarti orang tersebut tidak lagi ingin terhubung dengan orang lain. Perubahan kecil dalam cara Anda menyiapkan percakapan, cara Anda berbicara, dan cara Anda mendengarkan dapat membuat percakapan menjadi lebih mudah dan lebih tenang bagi Anda berdua.
 
-## Apa tips terpenting untuk berbicara dengan orang yang hidup dengan demensia?
+## Apa tips terpenting saat berbicara dengan seseorang yang hidup dengan demensia?
 
-Tarik perhatiannya, buat tetap sederhana, dan bersabarlah. Jika Anda hanya ingat lima hal:
+Dapatkan perhatian mereka, buatlah tetap sederhana, dan bersabarlah. Jika Anda hanya mengingat lima hal:
 
-1. **Tenangkan ruangan dan hadapi beliau.** Matikan TV, duduk sejajar dengan matanya, dan sebut namanya.
-2. **Katakan satu hal setiap kali.** Kalimat pendek, satu gagasan, satu pertanyaan.
-3. **Tawarkan pilihan dua.** “Teh atau kopi?” lebih mudah daripada “Mau minum apa?”
-4. **Tunggu.** Beri waktu menjawab lebih lama daripada yang terasa wajar, dan usahakan tidak menyela.
-5. **Jangan pernah berdebat atau menguji.** Tanggapi perasaannya, bukan apakah faktanya benar.
+1. **Tenangkan ruangan dan hadap mereka.** Matikan TV, duduk sejajar dengan mata, dan sebut nama mereka.
+2. **Sampaikan satu hal pada satu waktu.** Kalimat pendek, satu gagasan, satu pertanyaan.
+3. **Tawarkan dua pilihan.** “Teh atau kopi?” lebih mudah daripada “Anda ingin minum apa?”
+4. **Tunggu.** Beri waktu lebih lama untuk menjawab daripada yang terasa wajar, dan usahakan untuk tidak memotong.
+5. **Jangan pernah berdebat atau menguji ingatan.** Tanggapi apa yang mereka rasakan, bukan apakah faktanya benar.
 
-## Bagaimana memulai percakapan?
+## Bagaimana sebaiknya saya memulai percakapan?
 
-Atur keadaan agar orang tersebut bisa memusatkan perhatian kepada Anda. [Panduan Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menganjurkan untuk membatasi kebisingan lebih dulu: matikan radio atau TV, tutup tirai atau pintu, atau pindah ke tempat yang lebih tenang.
+Siapkan suasana agar orang tersebut dapat fokus pada Anda. [Panduan Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) menyarankan untuk mengurangi kebisingan terlebih dahulu: matikan radio atau TV, tutup tirai atau pintu, atau pindah ke tempat yang lebih tenang.
 
-- **Dekati dari depan.** Datang dari belakang atau samping bisa mengagetkan.
-- **Sebutkan siapa Anda.** “Halo, Pak, ini Sari, anak Bapak.” Dengan begitu beliau tidak perlu mencari-cari nama Anda.
-- **Turunkan diri ke tingkat pandangannya.** Jika beliau duduk, duduk atau berlututlah agar mata Anda sejajar.
-- **Perhatikan wajah dan nada Anda.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) menganjurkan agar Anda menyadari nada, volume, ekspresi wajah, dan bahasa tubuh Anda, serta berupaya bersikap hangat dan apa adanya.
-- **Pastikan kacamata dan alat bantu dengar terpasang.** Sulit mengikuti percakapan yang tidak bisa dilihat atau didengar sepenuhnya.
+- **Dekati dari depan.** Mendekat dari belakang atau samping dapat mengejutkan.
+- **Sebutkan siapa Anda.** “Halo Ayah, ini Sarah, putri Ayah.” Ini membantu mereka agar tidak perlu mencari-cari nama Anda.
+- **Sejajarkan posisi Anda.** Jika mereka duduk, duduklah atau berlutut agar mata Anda sejajar.
+- **Perhatikan wajah dan nada suara Anda.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) menyarankan untuk memperhatikan nada suara, volume, ekspresi wajah, dan bahasa tubuh Anda, serta berusaha bersikap hangat dan tenang.
+- **Pastikan kacamata dan alat bantu dengar terpasang.** Sulit untuk mengikuti percakapan jika Anda tidak dapat melihat atau mendengar dengan jelas.
 
-## Bagaimana menyusun kalimat yang diucapkan?
+## Bagaimana sebaiknya saya menyampaikan kata-kata?
 
-Gunakan kata-kata sederhana, kalimat pendek, dan suara yang tenang dan rendah.
+Gunakan kata-kata sederhana, kalimat pendek, dan suara yang tenang serta rendah.
 
-- **Satu gagasan per kalimat.** “Ayo kita pakai jaketnya. Setelah itu kita keluar.” Jangan keduanya dalam satu tarikan napas.
-- **Gunakan nama, bukan kata ganti.** “Tante Rina menelepon” lebih jelas daripada “Dia menelepon.”
-- **Rendahkan nada, bukan keraskan suara.** Family Caregiver Alliance menyarankan suara yang lebih rendah, bukan yang meninggi.
-- **Ulangi, lalu ubah susunannya.** Jika beliau tidak mengerti, ulangi kata yang sama satu kali. Jika tidak berhasil, tunggu sebentar dan coba kata yang berbeda.
-- **Tunjukkan, bukan hanya katakan.** Tunjuk cangkirnya, angkat kedua sweter itu, atau peragakan langkah pertamanya.
-- **Berbicaralah kepada beliau, bukan tentang beliau.** NIA mengingatkan agar tidak membicarakan orang tersebut seolah-olah ia tidak ada di situ, dan agar tidak berbicara seperti kepada anak kecil.
+- **Satu gagasan per kalimat.** “Mari kita pakai jaket Anda. Setelah itu kita keluar.” Jangan menggabungkan semuanya dalam satu kalimat.
+- **Gunakan nama, bukan kata ganti.** “Bibi Jean menelepon” lebih jelas daripada “Dia menelepon.”
+- **Rendahkan nada suara, bukan meninggikannya.** Family Caregiver Alliance menyarankan suara yang lebih rendah alih-alih suara yang lebih keras.
+- **Ulangi, lalu ubah kata-katanya.** Jika mereka tidak memahami, ulangi kata-kata yang sama sekali. Jika masih belum berhasil, tunggu sebentar dan coba dengan kata-kata yang berbeda.
+- **Tunjukkan sekaligus jelaskan.** Tunjuk cangkirnya, angkat dua sweter, atau peragakan langkah pertama.
+- **Bicaralah dengan mereka, bukan tentang mereka.** NIA mengingatkan agar tidak membicarakan orang tersebut seolah-olah mereka tidak ada di sana, dan agar tidak menggunakan bahasa kekanak-kanakan.
 
-NIA menyarankan versi yang lebih sederhana dari pertanyaan yang umum. Berikut contoh-contoh dalam semangat yang sama:
+NIA menyarankan versi yang lebih sederhana untuk pertanyaan umum. Berikut beberapa contoh dengan semangat yang sama:
 
-| Alih-alih | Coba |
+| Alih-alih | Coba katakan |
 | --- | --- |
-| “Mau makan apa malam ini?” | “Mau ikan atau ayam?” |
-| “Bagaimana perasaan Ibu?” | “Apakah Ibu merasa lelah?” |
-| “Ibu lapar?” | “Makan malamnya siap lima menit lagi.” |
-| “Bukan begitu caranya.” | “Coba kita lakukan begini.” |
-| “Ingat tidak waktu kita ke pantai?” | “Saya teringat perjalanan kita ke pantai. Ceritakan apa yang Ibu suka dari sana.” |
-| “Kan sudah saya bilang.” | Jawab lagi dengan ramah, seolah-olah baru pertama kali. |
+| “Anda mau makan apa untuk makan malam?” | “Anda mau ikan atau ayam?” |
+| “Apa yang Anda rasakan?” | “Apakah Anda merasa lelah?” |
+| “Apakah Anda lapar?” | “Makan malam akan siap dalam lima menit.” |
+| “Bukan begitu caranya.” | “Mari kita coba dengan cara ini.” |
+| “Apakah Anda ingat perjalanan kita ke danau?” | “Saya sedang memikirkan perjalanan kita ke danau. Ceritakan apa yang Anda sukai dari perjalanan itu.” |
+| “Saya sudah bilang.” | Jawab lagi dengan ramah, seolah-olah untuk pertama kalinya. |
 
-## Bagaimana mendengarkan dengan baik?
+## Bagaimana cara menjadi pendengar yang baik?
 
 Dengarkan makna dan perasaannya, bukan hanya kata-katanya.
 
-- **Tunggu.** Keheningan sering kali adalah waktu berpikir. Hitung pelan sampai sepuluh sebelum Anda masuk.
-- **Tawarkan kata hanya jika beliau buntu.** Family Caregiver Alliance mengatakan boleh mengusulkan kata ketika seseorang kesulitan.
-- **Pastikan apa yang Anda dengar.** [Panduan komunikasi Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/communications) menyarankan untuk mencari makna di balik kata-katanya dan mengulanginya untuk memastikan Anda mengerti. “Ibu khawatir soal mobilnya?”
-- **Perhatikan wajah dan tubuhnya.** Ketika bicara makin sulit, catat NIA, ekspresi wajah mungkin menunjukkan kesedihan, kemarahan, atau frustrasi lebih jelas daripada kata-kata.
-- **Anggap serius kekhawatirannya.** Meskipun sebuah kekhawatiran didasarkan pada fakta yang keliru, perasaannya nyata.
+- **Tunggu.** Keheningan sering kali adalah waktu untuk berpikir. Hitung perlahan sampai sepuluh sebelum membantu.
+- **Tawarkan kata hanya jika mereka benar-benar kesulitan.** Family Caregiver Alliance menyatakan bahwa tidak apa-apa untuk menyarankan kata ketika seseorang kesulitan.
+- **Pastikan apa yang Anda dengar.** [Panduan komunikasi Alzheimer’s Association](https://www.alz.org/help-support/caregiving/daily-care/communications) menyarankan untuk mencari makna di balik kata-kata mereka dan mengulanginya untuk memastikan Anda memahami. “Anda khawatir tentang mobil?”
+- **Perhatikan wajah dan tubuh mereka.** Saat berbicara menjadi lebih sulit, NIA mencatat bahwa ekspresi wajah dapat menunjukkan kesedihan, kemarahan, atau frustrasi lebih jelas daripada kata-kata.
+- **Anggap serius kekhawatiran mereka.** Bahkan jika kekhawatiran itu didasarkan pada fakta yang keliru, perasaan tersebut tetap nyata.
 
-## Bagaimana jika beliau mengatakan sesuatu yang tidak benar?
+## Bagaimana jika mereka mengatakan sesuatu yang tidak benar?
 
-Jangan berdebat. Anda kecil kemungkinan menang, dan orang tersebut bisa merasa malu atau takut. Sebaliknya, terhubunglah dengan perasaannya, lalu pelan-pelan beralih.
+Jangan berdebat. Kemungkinan besar Anda tidak akan menang, dan orang tersebut bisa merasa malu atau takut. Sebaliknya, pahami perasaannya, lalu alihkan dengan lembut.
 
-Family Caregiver Alliance menyarankan untuk mengakui emosinya sebelum Anda mengalihkan. Misalnya, jika ibu Anda berkeras harus menjemput anak-anak dari sekolah:
+Family Caregiver Alliance menyarankan untuk mengakui emosi terlebih dahulu sebelum mengalihkan. Misalnya, jika ibu Anda bersikeras harus menjemput anak-anak dari sekolah:
 
-- Alih-alih: “Bu, anak-anak Ibu sudah dewasa. Itu sudah empat puluh tahun lalu.”
-- Coba: “Ibu dulu selalu begitu perhatian sebagai ibu. Ceritakan tentang menjemput mereka. Kita makan camilan dulu, yuk?”
+- Alih-alih: “Bu, anak-anak Ibu sudah dewasa. Itu sudah empat puluh tahun yang lalu.”
+- Coba katakan: “Ibu selalu menjadi sosok ibu yang sangat perhatian. Ceritakan tentang saat Ibu menjemput mereka. Bagaimana kalau kita makan camilan dulu?”
 
-Alzheimer's Association juga menganjurkan untuk tidak berdebat tentang pernyataan yang tidak Anda setujui. Pilih saat yang tepat: jika keyakinan yang keliru itu tidak berbahaya, biarkan saja.
+Alzheimer’s Association juga menyarankan agar tidak berdebat atas pernyataan yang tidak Anda setujui. Pilih momen Anda: jika keyakinan yang keliru itu tidak berbahaya, biarkan saja.
 
 ## Bagaimana komunikasi berubah seiring perkembangan demensia?
 
-Kebutuhan berubah dari waktu ke waktu, jadi sesuaikan pendekatan Anda. Alzheimer's Association menggambarkan tiga fase besar:
+Kebutuhan berubah seiring waktu, jadi sesuaikan pendekatan Anda. Alzheimer’s Association menjelaskan tiga tahap umum:
 
-| Tahap | Yang membantu |
+| Tahap | Apa yang membantu |
 | --- | --- |
-| Awal | Jangan menganggap beliau tidak bisa berkomunikasi. Libatkan beliau dalam percakapan, bicaralah langsung kepadanya, tanyakan dukungan apa yang beliau inginkan, dan gunakan humor jika membantu. |
-| Menengah | Obrolan empat mata di tempat yang tenang. Bicara pelan, jaga kontak mata, gunakan pertanyaan ya-atau-tidak, beri petunjuk selangkah demi selangkah, dan jangan mengkritik atau mengoreksi. |
-| Lanjut | Dekati dari depan dan sebutkan siapa Anda. Dorong beliau menunjuk dan bergerak. Gunakan sentuhan, bunyi, pemandangan, dan aroma. Jangan pernah berbicara seolah-olah beliau tidak ada. |
+| Awal | Jangan berasumsi mereka tidak dapat berkomunikasi. Libatkan mereka dalam percakapan, ajak bicara secara langsung, tanyakan dukungan apa yang mereka inginkan, dan gunakan humor jika membantu. |
+| Menengah | Percakapan satu lawan satu di tempat yang tenang. Bicaralah perlahan, jaga kontak mata, gunakan pertanyaan ya atau tidak, berikan petunjuk langkah demi langkah, dan jangan mengkritik atau mengoreksi. |
+| Lanjut | Dekati dari depan dan sebutkan siapa Anda. Dorong mereka untuk menunjuk dan menggunakan gerak tubuh. Gunakan sentuhan, suara, penglihatan, dan penciuman. Jangan pernah berbicara seolah-olah mereka tidak ada di sana. |
 
-Setiap orang berbeda, dan orang yang sama bisa mengalami hari yang baik dan hari yang sulit. Tanggapi keadaannya saat ini, bukan sebuah label.
+Setiap orang berbeda, dan orang yang sama dapat mengalami hari yang baik dan hari yang sulit. Tanggapi kondisi mereka saat ini, bukan sekadar labelnya.
 
-## Bisakah gambar dan kegiatan membuat percakapan lebih mudah?
+## Apakah gambar dan kegiatan dapat memudahkan percakapan?
 
-Bisa. Gambar bersama mengurangi tekanan dan memberi Anda berdua sesuatu untuk dilihat dan ditunjuk.
+Ya. Gambar bersama dapat mengurangi tekanan dan memberi Anda berdua sesuatu untuk dilihat dan ditunjuk.
 
-- **Ajakan bicara lewat gambar.** [Kartu obrolan](/games/conversation-cards/) menawarkan gambar dengan pertanyaan terbuka yang tidak pernah menguji.
-- **Foto keluarga.** [Pasangan foto](/games/photo-pairs/) mengubah foto pilihan Anda menjadi permainan mencocokkan yang lembut, yang sering memancing cerita.
-- **Peribahasa yang akrab.** [Lengkapi peribahasa](/games/finish-the-saying/) memakai peribahasa yang dikenal luas, diikuti ajakan bicara.
-- **Permainan mencocokkan sebagai latar.** [Pasangan gambar](/games/picture-pairs/) memberi tangan Anda sesuatu untuk dikerjakan sambil mengobrol.
+- **Pemicu gambar.** [Conversation Cards](/games/conversation-cards/) menawarkan gambar dengan pertanyaan terbuka yang tidak pernah menguji ingatan.
+- **Foto keluarga.** [Photo Pairs](/games/photo-pairs/) mengubah foto pilihan Anda menjadi permainan mencocokkan yang lembut, yang sering memicu cerita.
+- **Ungkapan yang akrab.** [Finish the Saying](/games/finish-the-saying/) menggunakan ungkapan Amerika yang dikenal, diikuti dengan ajakan untuk berbicara.
+- **Permainan mencocokkan sebagai latar.** [Picture Pairs](/games/picture-pairs/) memberi tangan Anda sesuatu untuk dilakukan sambil mengobrol.
 
-Lihat [cara bermain bersama](/caregiving/how-to-play-together/) dan [kegiatan mengenang masa lalu](/activities/reminiscence/) untuk lebih lanjut. Untuk kunjungan dan panggilan, baca panduan kami tentang [berkunjung](/activities/visiting/) dan [telepon dan panggilan video](/activities/phone-and-video-calls/).
+Lihat [cara bermain bersama](/caregiving/how-to-play-together/) dan [kegiatan mengenang](/activities/reminiscence/) untuk informasi lebih lanjut. Untuk kunjungan dan panggilan, baca panduan kami tentang [berkunjung](/activities/visiting/) dan [panggilan telepon serta video](/activities/phone-and-video-calls/).
+
+Untuk seseorang yang menggunakan lebih dari satu bahasa, lihat [panduan kami tentang komunikasi lintas bahasa](/caregiving/language-and-dementia-communication/).
 
 ## Bagaimana jika saya kehilangan kesabaran?
 
-Itu terjadi pada semua orang. NIA menyarankan agar, jika Anda merasa frustrasi, Anda meluangkan waktu untuk menenangkan diri. Pindah ke ruangan lain, tarik beberapa napas pelan, dan kembalilah ketika Anda sudah siap. Anda selalu bisa memulai percakapan lagi, dan orang tersebut mungkin akan menanggapi suasana hati Anda yang lebih tenang. Jika frustrasi mulai terjadi terus-menerus, itu tanda bahwa Anda membutuhkan lebih banyak dukungan, bukan bahwa Anda gagal. Panduan kami tentang [merawat diri sendiri bagi pendamping](/caregiving/caregiver-self-care/) berisi tempat untuk meminta bantuan.
+Hal ini bisa terjadi pada siapa saja. NIA menyarankan agar jika Anda merasa frustrasi, luangkan waktu untuk menenangkan diri. Pergilah ke ruangan lain, tarik napas perlahan beberapa kali, dan kembali saat Anda sudah lebih tenang. Anda selalu dapat memulai percakapan lagi, dan orang tersebut mungkin akan merespons suasana hati Anda yang lebih tenang. Jika rasa frustrasi terus-menerus terjadi, itu adalah tanda bahwa Anda membutuhkan lebih banyak dukungan, bukan tanda bahwa Anda gagal. Panduan kami tentang [perawatan diri bagi pendamping](/caregiving/caregiver-self-care/) memiliki beberapa tempat untuk mencari bantuan.

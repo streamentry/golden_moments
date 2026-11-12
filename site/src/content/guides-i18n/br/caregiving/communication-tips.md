@@ -1,34 +1,34 @@
 ---
-title: "Awennoù evit kaozeal gant unan a zo gant dementia"
-seoTitle: "Awennoù kaozeal evit dementia: petra lavarout ha petra skuilhañ"
-description: "Modoù pleustr evit kaozeal gant unan a vev gant dementia: penaos kregiñ ar gaozeadenn, petra lavarout e-lec'h goulenn pe reizhañ, ha penaos selaou."
+title: "Alioù evit komz gant un den gant an divgofoni"
+seoTitle: "Komz gant un den gant an divgofoni: alioù"
+description: "Doareoù talvoudus da gomz gant un den a vev gant an divgofoni: penaos prientiñ ar gaozeadenn, petra lavarout ha penaos selaou."
 section: caregiving
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Kaozeal en ul lec'h distaol, sellout ouzh an den, implijout he anv hag
-  komz araokaet gant frazennoù berr hag aesaet. Goulenn unan dre unan, kinnig
-  daou dibab e-lec'h goulennoù digor, ha gortoz harzoc'h eget a vefe naturel.
-  Na strivit ket, na reizhit ket ha na gofennit ket. Respontit d'ar fiv a zo
-  en-dro d'ar gerioù, ha implijit an taol-dorn, ar skeudennoù ha ar c'hwizhiadoù
-  pa vez diaezoc'h ar gaozeal.
+  Komzit en ul lec’h sioul, sellit ouzh an den, grit gant e anv ha komzit
+  goustadik e frazennoù berr ha simpl. Goulennit ur goulenn hepken war un
+  dro, kinnigit daou zibab e-lec’h goulennoù digor, ha gortozit pelloc’h eget
+  ma seblant naturel. Arabat arguzout, reizhañ pe amprouiñ. Respontit d’an
+  doare-santout a zo a-dreñv ar gerioù, ha grit gant an douch, ar skeudennoù
+  hag ar jestroù pa vez diaesoc’h ar gerioù.
 keyPoints:
-  - "Lamit ar gurzhenn a-enep ar son ha kavit an daol-lagad a-raok kregiñ da gaozeal."
-  - "Frazennoù berr, ur soñj dre wech, hag anvioù e-lec'h he, hi pe int."
-  - "Kinnig dibab etre daou, pe ur goulenn ya pe ne, e-lec'h goulennoù digor."
-  - "Gortozit ur respont. Ma n'eo ket komprenet, lavarit an henañ gerioù adarre, ha goude klaskit gerioù nevez."
-  - "Na strivit ket ha na reizhit ket. Respontit d'ar fiv a zo en-dro d'ar pezh a lavar."
-  - "Pa ziskar ar gerioù, kenderc'hit gant an taol-dorn, an ton, ar mirdi hag ar skeudennoù boas."
+  - "Lamit an trouzioù a-dreñv ha klaskit darempred gant an daoulagad a-raok kregiñ da gomz."
+  - "Grit gant frazennoù berr, ur mennozh war un dro, hag anvioù e-lec’h « anezhañ », « anezhi » pe « int »."
+  - "Kinnigit un dibab etre daou dra, pe ur goulenn « ya » pe « ket », e-lec’h goulennoù digor."
+  - "Gortozit ur respont. Ma ne vez ket komprenet, adlavarit ar memes gerioù, ha klaskit gerioù all da c’houde."
+  - "Arabat arguzout pe reizhañ. Respontit d’an doare-santout a zo a-dreñv ar pezh a lavar."
+  - "Pa ziskenn ar gerioù, kehentit dre an douch, an ton, ar minus hag ar skeudennoù rannet."
 faq:
-  - q: "Petra na lavarfe ket da unan a zo gant dementia?"
-    a: "Chomit hep goulennoù kizidik (« Da c'houzout a rit...? »), hep reizhañ (« Gaou eo ! »), hep dizoursiñ dezho o c'hollo (« Lavaret em eus dija ! ») ha hep komz diwar o fenn evel pa vefent ket énno. Chomit hep komz gant ur yezh bihan. Kement-se a gas aon pe trouz hep sikour ebet."
-  - q: "Ha reizhout a rankan ma fazi ar gwirioù?"
-    a: "Peurliesañ ne rankit ket. Ma'z eo ur fazi didrouz, lezit anezhi da dremen. Ar strivoù a chench prou ur wech ermaez tro an den, ha skuiñ a ra alies. Sellit ouzh penaos e santont hag ouzh ar pezh a ranker en-dro d'ezho."
-  - q: "Petra ran pa na gav ket ar ger?"
-    a: "Roit dezhañ amzer da gentañ. Ma'z eo gwelet e tromplont, mat eo kinnig ur ger en un doare hep pres pe soñjal ar pezh a fell dezhañ hag en em welet. Diskouezout, taolioù-dorn ha skeudennoù a c'hall sikour ivez."
-  - q: "Penaos kaozeal gant unan a zo e-kerzh an dementia diwezhañ ha n'emañ ket o komz alies?"
-    a: "Tostait a-raok, lavarit piv oc'h, ha implijit ur mouezh digalon ha ur c'hendiviz un tammig. Sellit ouzh an dremmoù hag ar c'horf evit gouzout ar pezh a santont. Ho c'hi, ur ganaouenn anavezet pe dorn bevennet a c'hall lavarout kalz hep gerioù."
+  - q: "Petra ne zlefe ket bezañ lavaret d’un den gant an divgofoni?"
+    a: "Arabat amprouiñ (« Ha soñj hoc’h eus...? »), reizhañ (« Fazi eo »), degas da soñj kollioù (« Laret em eus dija deoc’h ») pe komz diwar e benn evel pa ne vefe ket amañ. Arabat ober komz baby. An traoù-se a c’hall lakaat an den da gaout mez pe enkrez, hep sikour."
+  - q: "Ha rankout a ran e reizhañ pa fazi war ar fedoù?"
+    a: "Peurliesañ, ket. Ma ne ra gaou ur fed drouk ebet, lezit anezhañ a-gostez. Ar arguzoù ne cheñchont ket soñj an den, peurvuiañ, ha gallout a reont e drubuilhañ. Lakait ho soñj war an doare ma sant hag ar pezh en deus ezhomm dioutañ bremañ."
+  - q: "Petra ober pa ne gav ket ar ger mat?"
+    a: "Roit amzer dezhañ da gentañ. M’hoc’h eus gwel eo diaes dezhañ, mat eo kinnig ur ger gant dousder pe divinout ar pezh a fell dezhañ lavarout ha gwiriañ. Gallout a ra an diskouezh, ar jestroù hag ar skeudennoù sikour ivez."
+  - q: "Penaos komz gant un den e stumm diwezhañ an divgofoni, a gomz nebeut?"
+    a: "Tostait diouzh an tu dirak, lavarit piv oc’h, ha grit gant ur vouezh sioul hag un douch dous. Sellit ouzh ar visajoù hag ar yezh korf evit kompren an doareoù-santout. Gallout a ra ho prezantidigezh, ur ganaouenn anavezet pe derc’hel e zorn kehentiñ kalz hep gerioù."
 sources:
   - title: "Communicating With Someone Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -40,98 +40,100 @@ sources:
     publisher: "Family Caregiver Alliance"
     url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
 relatedGames: [conversation-cards, photo-pairs, finish-the-saying, picture-pairs]
-related: [caregiving/how-to-play-together, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
+related: [caregiving/how-to-play-together, caregiving/language-and-dementia-communication, caregiving/when-they-say-no, activities/reminiscence, activities/visiting, activities/phone-and-video-calls]
 health: false
 ---
 
-Dementia a c'hall ober dreistoc'h da gavout ar gerioù, da heuliañ ur frazenn hir pe da zistreiñ diwar ar sonerezh. Netra eus an dra-se ne lavar ket e en deus paouezet an den da fellout dezhañ en em genstagañ. Cheñchamantoù bihan en doare ma kefeleziñ ar gaozeadenn, en doare ma komzit ha en doare ma selaouit a c'hall ober ar gaozeal aesoc'h ha kalmoc'h evidoc'h c'hwi an daou.
+An divgofoni a c’hall lakaat da vezañ diaesoc’h kavout ar gerioù, heuliañ ur frazenn hir, pe terriñ an trouz a-dreñv. Ne dalv ket an den-mañ n’en deus ket c’hoant ken da zaremprediñ. Cheñchamantoù bihan er mod ma prientit ur gaozeadenn, er mod ma komzit hag er mod ma selaouit a c’hall lakaat ar gaoz da vezañ aesoc’h ha siouloc’h evidoc’h ho taou.
 
-## Pe awennoù a zo ar pouezusañ evit kaozeal gant unan a zo gant dementia?
+## Petra eo an alioù pouezusañ evit komz gant un den gant an divgofoni?
 
-Degasit he zapl, gwellhaet ar fraezh ha bezit pasius. Ma kofec'h nemet pemp tra:
+Tapit e evezh, dalc’hit ar pezh a lavarit simpl, ha bezit pasiant. Ma talc’hit soñj eus pemp tra hepken:
 
-1. **Lamit ar gurzhenn hag en em lakait a-enep dezhañ.** Diweredit ar TV, azezit a-live al lagad hag implijit hec'h anv.
-2. **Lavarit unan dre unan.** Frazennoù berr, ur soñj, ur goulenn.
-3. **Kinnig dibab etre daou.** « Te pe kafe? » a zo aesoc'h eget « Petra a fell dit? »
-4. **Gortozit.** Roit amzer hirrikoc'h eget ar pezh a vefe naturel evit respont, ha na strivit ket.
-5. **Na strivit ket ha na reizhit ket biken.** Respontit d'ar fiv a zo en-dro d'ar pezh a santont, ha n'eo ket d'ar wirioù.
+1. **Grit da vezañ sioul ha sellit outañ.** Lazhit ar skinwel, azezit e live an daoulagad, ha grit gant e anv.
+2. **Lavirit un dra hepken war un dro.** Frazennoù berr, ur mennozh, ur goulenn.
+3. **Kinnigit un dibab etre daou dra.** « Te pe kafe? » a zo aesoc’h eget « Petra ho peus c’hoant da evañ? »
+4. **Gortozit.** Roit muioc’h a amzer da respont eget ma seblant naturel, ha klaskit chom hep troc’hañ e gomz.
+5. **Arabat arguzout pe amprouiñ.** Respontit d’e zoare-santout, ket da wirionez ar fedoù.
 
-## Penaos kregiñ ar gaozeadenn?
+## Penaos stagañ gant ur gaozeadenn?
 
-Staliit an traoù evit ma c'hall an den sellout ouzhoc'h. Ar [sturlevr Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a argi lakaat ar son da vont da vihanaat da gentañ: diweredit ar radio pe ar TV, serriit ar c'hurtinennoù pe an nor, pe mont e lec'h distaolloc'h.
+Prientit an traoù evit ma c’hallo an den stagañ e soñj warnoc’h. [Sturlevr Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) a ali da vezañ strizh gant an trouz da gentañ: lazhiñ ar skingomz pe ar skinwel, serriñ ar ridozerioù pe an nor, pe mont en ul lec’h siouloc’h.
 
-- **Tostait a-raok.** Mont a-dostu dre a-dreuz pe dre an donedigezh a c'hall lakaat ac'hanoc'h da sachañ.
-- **Lavarit piv oc'h.** « Demat Tad, Anna emaon, da verc'h. » Evel-se ne rank ket an den klask hoc'h anv.
-- **Dont d'ar c'hel-lec'h.** Mar eo azezet, azezit pe pleget ar ganol evit ma vefe ho daoulagad war an hevelep live.
-- **Gwiriit ho tremen hag ho ton.** An [Institut Nazional evit an Henaoued (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a gan d'ober evezh ouzh ho ton, ho mouezh, ho fenn ha ho korf, hag a sikour da gaout un doare tener ha simpl.
-- **Sellit ma'z eo ar spektakloù hag ar stered ennon.** Diaes eo heuliañ ur gaozeadenn ma n'hoc'h eus ket gwelet pe klevet mat.
+- **Tostait diouzh an tu dirak.** Dont a-dreñv pe eus an tu a c’hall spontañ.
+- **Lavaret piv oc’h.** « Demat Tad, Sarah on, da verc’h. » Evel-se ne vo ket ret dezhañ klask hoc’h anv.
+- **Lakait hoc’h-unan e live e zaoulagad.** M’emañ azezet, azezit pe lakaat hoc’h-unan war ho taoulin evit ma vo ho taoulagad war ar memes live.
+- **Taolit evezh ouzh ho tispleg ha hoc’h ton.** An [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) a ali da vezañ evezhiek ouzh ho ton, ho live mouezh, ho tispleg ha yezh ho korf, ha da glask ur mod tostaat ha simpl.
+- **Gwiriit ez eus e lunedoù hag e benvegoù-klevet ganzañ.** Diaes eo heuliañ ur gaozeadenn ma ne c’haller ket he gwelout pe he c’hlevout mat.
 
-## Penaos lavarout ar pezh a lavarit?
+## Penaos troiñ ar pezh a lavaran?
 
-Implijit gerioù simpl, frazennoù berr ha ur mouezh kalm hag izel.
+Grit gant gerioù simpl, frazennoù berr hag ur vouezh sioul, izel.
 
-- **Un soñj dre frazenn.** « Lakomp da c'hwiskañ da gorn. Neuze e vimp er-maez. » Ha n'eo ket an daou dre ur gwezenn anall.
-- **Implijit anvioù, n'eus ket pronaioù.** « Tante Jean he deus galvet » a zo prizoc'h eget « Hi he deus galvet. »
-- **Komzit izelloc'h, n'eo ket uheloc'h.** Ar Family Caregiver Alliance a ginnig ur mouezh izel e-lec'h ur mouezh uheloc'h.
-- **Lavarit adarre, neuze adlavarit en un doare all.** Ma n'eo ket bet komprenet, lavarit ar memes gerioù ur wech. Ma n'eo ket aotreet, gortozit un tammig ha klaskit gerioù all.
-- **Diskouezit, n'eo ket hepken lavarout.** Lakait ho pizh war ar c'hoant, diskouezit an dillad pe diskouezit ar c'hentañ kamm.
-- **Komzit outo, n'eo ket diwar o fenn.** An NIA a c'hourdrouz ouzh komz diwar an den evel pa vefe ket énno, ha ouzh ar « komz bugel ».
+- **Ur mennozh dre frazenn.** « Lakomp da vantell. Goude ez aimp er-maez. » E-lec’h an daou dra en un analiñ.
+- **Grit gant anvioù, ket ragantoù.** « Galvet en deus Moereb Jean » a zo sklaeroc’h eget « Galvet he deus. »
+- **Uhelit izeloc’h, ket kreñvoc’h.** Family Caregiver Alliance a ali da ober gant ur vouezh izeloc’h e-lec’h ur vouezh uheloc’h.
+- **Adlavarit, ha goude kemmit ar gerioù.** Ma n’eo ket bet komprenet, adlavarit ar memes gerioù ur wech. Ma ne ya ket en-dro, gortozit un tamm ha klaskit gerioù all.
+- **Diskouezit kement ha lavaret.** Diskouezit an tas, kinnigit an daou jiletenn, pe diskouezit ar pazenn gentañ.
+- **Komzit outañ, ket diwar e benn.** An NIA a gemenn ouzh komz diwar-benn an den evel pa ne vefe ket amañ, hag ouzh ar « c’homz baby ».
 
-An NIA a ginnig stumm simploc'h evit goulennoù boazh. Setu skouer evel-just:
+An NIA a ginnig stummoù simploc’h evit goulennoù boutin. Setu skouerioù en ar memes doare:
 
-| Peseurt goulenn | Klaskit ar pezh-mañ |
+| E-lec’h | Klaskit |
 | --- | --- |
-| "Petra a fell dit da zebriñ ?" | "Fell dit pesk pe yar ?" |
-| "Penaos ez out o santout ?" | "Sentet out skuizh ?" |
-| "Naet out ?" | "Ar boued a vo prest a-benn pemp munud." |
-| "Ne vez ket graet evel-se." | "Klaskomp ober evel-mañ." |
-| "Soñjout a rit eus hor veaj d'al lenn ?" | "Soñjal a rean eus hor veaj d'al lenn. Lavar din petra a blijas dit ennañ." |
-| "Lavaret em eus dija dit." | Respontit adarre, gant tener, evel pa vefe ar gentañ gwech. |
+| « Petra ho peus c’hoant da zebriñ da goan? » | « Pesked pe kig-yar ho peus c’hoant? » |
+| « Penaos e santit ac’hanoc’h? » | « Skuizh oc’h? » |
+| « Naon oc’h? » | « Prest e vo ar c’hoan a-benn pemp munutenn. » | 
+| « N’eo ket evel-se e reer. » | « Klaskomp ober evel-se. » |
+| « Ha soñj hoc’h eus eus hor beaj d’al lenn? » | « O soñjal e oan en hor beaj d’al lenn. Lavaret din petra hoc’h eus karet. » |
+| « Laret em eus dija deoc’h. » | Respontit en-dro, gant madelezh, evel pa vefe evit ar wech gentañ. |
 
 ## Penaos selaou mat?
 
-Selaouit ar pezh a vez lavaret hag ar pezh a santont, n'eo ket hepken ar gerioù.
+Selaouit ouzh an talvoudegezh hag an doare-santout, ket ouzh ar gerioù hepken.
 
-- **Gortozit.** Ar distaouezh a vez alies amzer soñjal. Kontit harzoc'h betek dek a-raok ma kavfec'h ar ger.
-- **Kinnig ur ger nemet ma'z int prennet.** Ar Family Caregiver Alliance a lavar e c'hall ober mat kinnig gerioù pa vez enep ouzh unan o klask.
-- **Gwiriit ar pezh a glevsoc'h.** Sturlevr Alzheimer's Association diwar ar c'haozeal (« [Alzheimer's Association guide to communication](https://www.alz.org/help-support/caregiving/daily-care/communications) ») a gan da glask ar gwir ster en-dro d'ho gerioù ha da adlavarout anezhi evit gwiriekaat ho peus komprenet. « Pe, ec'h emaoc'h o vezañ aon diwar-benn ar c'harr ? »
-- **Sellit ouzh an dremm ha ouzh ar c'horf.** Pa vez diaesoc'h ar gaozeal, a lavar an NIA, e c'hall an dremmoù diskouezout tristidigezh, koulskoude pe frustradeg gwelloc'h eget ar gerioù.
-- **Kemerit ar pezhioù gravus.** Hyd ma vefe ar c'hraz diazezet war ur fazi, ar santiadenn a zo gwir.
+- **Gortozit.** Alies eo an didrouz amzer evit prederiañ. Kontit a-hiziv betek dek a-raok kemer ar ger.
+- **Kinnig ur ger ma’z eo sac’het nemetken.** Family Caregiver Alliance a lavar eo mat kinnig gerioù pa vez diaes gant unan.
+- **Gwiriit ar pezh hoc’h eus komprenet.** [Sturlevr Alzheimer’s Association diwar-benn ar c’heheñtiñ](https://www.alz.org/help-support/caregiving/daily-care/communications) a ali da glask an talvoudegezh a-dreñv ar gerioù hag adlavaret anezhañ evit gwiriañ hoc’h eus komprenet. « Nec’het oc’h diwar-benn ar c’harr? »
+- **Sellit ouzh e visaj hag e gorf.** Pa vez diaesoc’h ar gomz, e tiskouez an NIA e c’hall ar visajoù diskwel tristidigezh, kounnar pe enkrez sklaeroc’h eget ar gerioù.
+- **Kemeriit an nec’hioù o-unan.** Ha pa vefe diazezet un nec’h war ur fed fall, gwir eo an doare-santout.
 
-## Ha mar lavar un dra n'eo ket gwir?
+## Petra ober ma lavar un dra direizh?
 
-Na strivit ket. N'ho pefe ket tu da orin ha tapout a rafe an den e vefe enkrez pe spont. Kentoc'h, kengit gant ar santiadenn, ha neuze kit war-raok emdro.
+Arabat arguzout. Ne vo ket aes trec’hiñ, ha gallout a rafe an den santout mez pe spont. E-lec’h, kevreit gant an doare-santout, ha goude kit war-raok gant dousder.
 
-Ar Family Caregiver Alliance a gasa da anaout ar santiadenn a-raok ober tro d'an dra all. Evit skouer, mar kredo ho mamm e rankfe mont da gemer ar vugale en skol:
+Family Caregiver Alliance a ali da anzav an emzalc’h a-raok adkas ar gaoz war un hent all. Da skouer, ma lavar ho mamm e rank mont da glask ar vugale er skol:
 
-- Da c'houzout : « Mamm, ho pugale a zo bet bras-tre. Kement-se a oa daou-ugent vloaz zo. »
-- Klaskit : « Bezet bet ur vamm kenavezet bepred. Lavar din penaos e kemerec'h ar vugale. Ha ni yuc'hfe ur seurt bihan a-raok? »
+- E-lec’h: « Mamm, bras eo da vugale bremañ. Dek vloaz ha pevar-ugent zo. »
+- Klaskit: « Ur vamm a garie kement ac’hanout. Kont din penaos e tec’he da glask anezho. Ha c’hoant ho peus da gaout un tamm bouedig da gentañ? »
 
-Alzheimer's Association a ginnig ivez da n'em strivout ket diwar-benn ar pezhioù n'omp ket asant anezho. Dibabit ho taolioù: ma'z eo ur gredenn didrouz, lezit anezhi da vezañ.
+Alzheimer’s Association a ali ivez da chom hep arguzout diwar-benn lavarennoù ne asantit ket outo. Dibabit ho padoù: ma ne ra gaou ur soñj drouk ebet, lezit anezhañ evel m’emañ.
 
-## Penaos e cheñch ar c'heñveriañ pa sav an dementia?
+## Penaos e cheñch ar c’heheñtiñ pa ya an divgofoni war-raok?
 
-An ezhommoù a gemm dre an amzer, ha dre se e rankit cheñch ho doare. Alzheimer's Association a zeskrivo teir kamm bras:
+An ezhommoù a cheñch a-hed an amzer, setu perak eo mat kemmañ ho toare. Alzheimer’s Association a zispleg teir fazenn vras:
 
-| Kamm | Petra a sikour |
+| Fazi | Ar pezh a sikour |
 | --- | --- |
-| Kentañ | Na soñjit ket e c'hallont ket kaozeal. Degasit anezho d'ar gaozeadennoù, komzit ouzh-unan outo, goulennit petra a sikour a fell dezho, hag implijit ar c'hoarzh ma sikour. |
-| Etre-dezhañ | Kaozeadennoù unan-ouzh-unan en ul lec'h distaol. Komzit harzoc'h, derc'hit ho daoulagad, implijit goulennoù ya pe ne, roit kinnig pas-dre-bas ha na reizhit ket. |
-| Diwezhañ | Tostait a-raok ha lavarit piv oc'h. Lakit anezhi da diskouez gant an taol-dorn hag an taolioù-dorn. Implijit an douarn, ar sonioù, ar gweladennoù ha an arnevoù. Na gomzit morse evel pa n'int ket énno. |
+| Kentañ | Arabat krediñ ne c’hall ket kehentiñ. Lakait anezhañ er c’haozeadennoù, komzit eeun outañ, goulennit peseurt sikour a fell dezhañ, ha grit gant an imor ma sikour. |
+| Kreiz | Kaozeadennoù unan ouzh unan en ul lec’h sioul. Komzit goustadik, dalc’hit darempred gant an daoulagad, grit gant goulennoù « ya » pe « ket », roit kemennoù pazenn-ha-pazenn, ha na grit ket tamalloù pe reizhadurioù. |
+| Diwezhañ | Tostait diouzh an tu dirak ha lavarit piv oc’h. Broudit anezhañ da ziskouezh ha d’ober jestroù. Grit gant an douch, ar sonioù, ar gwel, an c’hwezhioù. Arabat komz evel pa ne vefe ket amañ. |
 
-Pep den a zo disheñvel, ha an hevelep den a c'hall kaout devezhioù mat hag all, hag e-lec'h ar c'hreñvoù. Respontit d'ar fed ma'z int bremañ, ha n'eo ket d'ar label.
+Disheñvel eo pep den, hag an hevelep den a c’hall kaout deizioù mat ha deizioù diaesoc’h. Respontit d’an doare ma’z eo bremañ, ket d’un dikedenn.
 
-## Ha skeudennoù ha c'hoarioù a c'hall aesaat ar gaozeal?
+## Ha gallout a ra skeudennoù hag obererezhioù sikour ar gaozeadenn?
 
-Ya. Ur skeudenn boutin a laosk ar pouez hag a ro dimp daou un dra da sellout outañ ha da ziskouezout.
+Ya. Ur skeudenn rannet a lamm ar gwask hag a ro un dra da sellet outañ ha da ziskouezh evidoc’h ho taou.
 
-- **Gourlavarioù gant skeudennoù.** [Conversation Cards](/games/conversation-cards/) a ro skeudennoù gant goulennoù digor n'o deus ket tu da reizhañ.
-- **Luc'hskeudennoù tud ho kerent.** [Photo Pairs](/games/photo-pairs/) a drosta al luc'hskeudennoù a zibabit en ur c'hoari kempar tener, a zegas alies istorioù.
-- **Lavarioù boutin.** [Finish the Saying](/games/finish-the-saying/) a implij lavarioù anavezet e brezhoneg, ha goude ur gourlavar da gaozeal.
-- **Kempar en-dro d'ar gaozeadenn.** [Picture Pairs](/games/picture-pairs/) a ro un dra d'ho taouarn da c'hwarel dre ma kaozeal.
+- **Skeudennoù da lañsañ ar gaoz.** [Conversation Cards](/games/conversation-cards/) a ginnig skeudennoù gant goulennoù digor ha ne amprouont morse.
+- **Luc’hskeudennoù ar familh.** [Photo Pairs](/games/photo-pairs/) a dro al luc’hskeudennoù a zibabit en ur c’hoari kenglotañ dous, hag a lañsa alies istorioù.
+- **Lavarennoù anavezet.** [Finish the Saying](/games/finish-the-saying/) a implij lavarennoù brudet, heuliet gant ur goulenn evit komz.
+- **C’hoarioù kenglotañ da gefridi.** [Picture Pairs](/games/picture-pairs/) a ro un dra da ober gant ho taouarn e-pad ma komzit.
 
-Sellit ouzh [penaos c'hoari asambles](/caregiving/how-to-play-together/) ha [oberiantizoù kofad](/activities/reminiscence/) evit muioc'h. Evit ar vizitoù ha ar c'halvoù, lennit hon sturlevrioù diwar-benn [ar vizitoù](/activities/visiting/) ha [ar c'halvoù telefon hag video](/activities/phone-and-video-calls/).
+Gwelit [penaos c’hoari asambles](/caregiving/how-to-play-together/) hag [obererezhioù evit adkavout soñjoù](/activities/reminiscence/) evit muioc’h. Evit gweladennoù ha pellgomzioù, lennit hor sturlevrioù diwar-benn [gweladenniñ](/activities/visiting/) ha [pellgomz ha pellgomz video](/activities/phone-and-video-calls/).
 
-## Ha ma kollan ma basianted?
+Evit un den liesyezhek, sellit ouzh hor [sturlevr diwar-benn ar c’heheñtiñ etre yezhoù](/caregiving/language-and-dementia-communication/).
 
-Kement-se a c'hoarvez d'an holl. An NIA a gav mat ma vez fraezh ac'hanoc'h, ma kemerit amzer evit diskuiet. Mont en un all ti, kemer un nebeut anadennoù bras, ha distreiñ pa vezo gallout. Gallout a rit bepred kregiñ ar gaozeadenn adarre, ha pa vo ho stad spered kalmoc'h, an den a c'hallo respont mat. Ma tiskouez ar frustradeg bezañ kendalc'h, se a ziskouez e rankit kaout skoazell ouzhpenn, ha n'eo ket e tegouezhfe ober fazi. Hon sturlevr diwar-benn [ar soursiñ d'ho c'horf hag ho spered](/caregiving/caregiver-self-care/) a ro tachennoù evit kavout skoazell.
+## Petra ober ma kollan va fasianted?
+
+C’hoarvezout a ra gant an holl. An NIA a ali, ma teuoc’h da vezañ nec’het, da gemer amzer evit en em sioulañ. Kit en ur sal all, kemerit un nebeud analiñ goustadik, ha deuit en-dro pa c’hallit. Gallout a rit stagañ gant ar gaozeadenn en-dro bepred, hag an den a c’hall respont mat d’ho sioulder. Ma teu an nec’h da vezañ bepred, ur sin eo hoc’h eus ezhomm muioc’h a sikour, ket ez oc’h o c’hwitañ. Hor sturlevr diwar-benn [en em gemer e kont evel tud a ra war-dro](/caregiving/caregiver-self-care/) a ginnig lec’hioù da dreiñ outo.
