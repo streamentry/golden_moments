@@ -1,35 +1,30 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "ඩිමෙන්ශියාව වළක්වා ගත හැකිද? පර්යේෂණ පවසන දේ"
+seoTitle: "ඩිමෙන්ශියාව වළක්වා ගත හැකිද? පර්යේෂණ පවසන දේ"
+description: "2024 Lancet කොමිෂන් සභාව සහ ප්‍රධාන අත්හදා බැලීම් ඩිමෙන්ශියා අවදානම අඩු කිරීම ගැන සොයා ගත් දේ, සොයා නොගත් දේ, සහ වෛද්‍යවරයා සමඟ සාකච්ඡා කළ යුතු පියවර."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  ඩිමෙන්ශියාව වළක්වන බවට කිසිවෙකුට පොරොන්දු විය නොහැක. 2024 Lancet කොමිෂන් සභාව ගණන් බලා ඇත්තේ ලොව පුරා ඩිමෙන්ශියා රෝගීන්ගේ අර්ධයකට ආසන්න ප්‍රමාණය වෙනස් කළ හැකි විය හැකි අවදානම් සාධක 14ක් සමඟ සම්බන්ධ බවයි, උදාහරණ ලෙස අධික රුධිර පීඩනය, ශ්‍රවණ හානිය සහ අක්‍රියතාව. අත්හදා බැලීම් මගින් චින්තන පරීක්ෂාවල කුඩා බලපෑම් පෙන්වයි, ඩිමෙන්ශියා රෝගීන් අඩු බවට සාක්ෂි නොවේ. “නිවැරදි” සෑම දෙයක් ම කරන බොහෝ අය තවමත් ඩිමෙන්ශියාව වර්ධනය කරන අතර, එයට කිසිවෙකුගේ වරදක් නැත.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 Lancet කොමිෂන් සභාව ලොව පුරා ඩිමෙන්ශියා රෝගීන්ගෙන් දළ වශයෙන් 45%ක් වෙනස් කළ හැකි විය හැකි අවදානම් සාධක 14ක් සමඟ සම්බන්ධ කළේය. එය ජනගහන ඇස්තමේන්තුවකි, පුද්ගලික සහතිකයක් නොවේ."
+  - "අවදානම අඩු කිරීම යනු සමස්ත ජනගහනයක් තුළ අවස්ථාවන් අඩු කිරීමයි. එයින් කිසිම එක් පුද්ගලයෙකුට ඩිමෙන්ශියාවෙන් වැළකිය හැකි බව අදහස් නොවේ."
+  - "FINGER, US POINTER සහ SPRINT MIND වැනි විශාල අත්හදා බැලීම්වල චින්තන පරීක්ෂාවලට හෝ සැහැල්ලු සංජානන දුර්වලතාවට කුඩා ප්‍රතිලාභ හමු වූ නමුත්, ජීවන රටා වැඩසටහනක් ඩිමෙන්ශියාව වළක්වන බව කිසිවක් ඔප්පු කළේ නැත."
+  - "ඇල්සයිමර් සඳහා දන්නා විශාලතම අවදානම් සාධකය වයසයි, එය වෙනස් කළ නොහැක. යහපත් පුරුදු ඇති බොහෝ අය තවමත් ඩිමෙන්ශියාව වර්ධනය කරති."
+  - "බහුලව අධ්‍යයනය කරන පියවර, උදාහරණ ලෙස අධික රුධිර පීඩනයට ප්‍රතිකාර කිරීම, ශ්‍රවණ උපකරණ භාවිතය සහ ක්‍රියාශීලී ව සිටීම, වෛද්‍යවරයා සමඟ සාකච්ඡා කිරීම වටී, මන්ද ඒවා වෙනත් ආකාරවලින් ද සෞඛ්‍යයට උදව් කරයි."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "ඩිමෙන්ශියාව වළක්වා ගත හැකිද?"
+    a: "ඕනෑ ම එක් පුද්ගලයෙකුට ඩිමෙන්ශියාව වළක්වන බව ඔප්පු වූ ක්‍රමයක් නැත. අධික රුධිර පීඩනය, ප්‍රතිකාර නොකළ ශ්‍රවණ හානිය සහ දුම්පානය වැනි සමහර අවදානම් අඩු කිරීමෙන්, සමස්ත ජනගහනය තුළ ඩිමෙන්ශියා ඇතිවීමේ හැකියාව අඩු කිරීමට හෝ එය ආරම්භ වීම ප්‍රමාද කිරීමට හැකි බවට පර්යේෂණ යෝජනා කරයි. මේවා අවස්ථා ය, පොරොන්දු නොවේ."
+  - q: "Lancet කොමිෂන් සභාවේ 45% අංකය අදහස් කරන්නේ කුමක්ද?"
+    a: "2024 Lancet කොමිෂන් සභාව ඇස්තමේන්තු කළේ ලොව පුරා ඩිමෙන්ශියා රෝගීන්ගෙන් දළ වශයෙන් 45%ක් න්‍යායිකව වෙනස් කළ හැකි අවදානම් සාධක 14ක් සමඟ සම්බන්ධ බවයි. මෙම ඇස්තමේන්තුව මඟින් එම සාධක ඩිමෙන්ශියාව ඇති කරන බව උපකල්පනය කරන අතර, කතෘවරු පවසන්නේ සමහර සම්බන්ධතා සම්පූර්ණයෙන් ම හේතුඵල නොවිය හැකි බවයි. එය සමස්ත ජනගහනයන් විස්තර කරන අතර, කිසිම පුද්ගලයෙකුගේ අවදානම ගැන ඔබට නොකියයි."
+  - q: "මගේ දෙමව්පියන් සෞඛ්‍ය සම්පන්න ජීවන රටාවක් තිබුණත්, ඔවුන්ට ඩිමෙන්ශියාව ආවේ ඇයි?"
+    a: "වයස, ජාන සහ කිසිවෙකු පාලනය නොකරන බොහෝ සාධක ඩිමෙන්ශියාව තුළ විශාල කොටසක් ගනී. Lancet කොමිෂන් සභාවේ කතෘවරු සටහන් කරන්නේ ජනගහනය තුළ අවදානම අඩු කිරීම කිසිදු පුද්ගලයෙකුට ඩිමෙන්ශියාවෙන් වැළකීම සහතික නොකරන බවයි. රෝග විනිශ්චයක් කිසිවෙකු අසාර්ථක වූ බවේ ලකුණක් නොවේ."
+  - q: "වයස 65 ට පසු ඩිමෙන්ශියා අවදානම අඩු කිරීමට දැන් ප්‍රමාද ද?"
+    a: "Lancet කොමිෂන් සභාව පවසන්නේ අවදානම අඩු කිරීමට එය කිසි විටෙක වැඩි කාලයක් හෝ අඩු කාලයක් නොවන බවයි, නමුත් සාක්ෂිවල බොහෝ කොටස මැද වයසට අදාළ ය. ශ්‍රවණ සහ දෘෂ්ටි ගැටළුවලට ප්‍රතිකාර කිරීම, ක්‍රියාශීලී ව සිටීම සහ මිනිසුන් සමඟ සම්බන්ධතා පවත්වා ගැනීම අධ්‍යයනය කරන ලද පසු-ජීවිත පියවර උදාහරණ වේ. ඔබේ සෞඛ්‍යයට ගැළපෙන දේ ගැන වෛද්‍යවරයා සමඟ කථා කරන්න."
+  - q: "මොළ ක්‍රීඩා හෝ විශේෂ ආහාර වේල් ඩිමෙන්ශියාව වළක්වයිද?"
+    a: "ඩිමෙන්ශියාව වළක්වන බව ඔප්පු වූ ක්‍රීඩාවක්, ආහාරයක්, අතිරේකයක් හෝ ආහාර වේලක් නැත. MIND ආහාර වේලේ වසර තුනක අත්හදා බැලීමකින් පාලන ආහාර වේලක් හා සසඳන විට චින්තනයේ සැලකිය යුතු වෙනසක් හමු නොවීය, සහ වාණිජ මොළ පුහුණු යෙදුම් පර්යේෂණ අත්හදා බැලීම්වල දක්නා ලද බලපෑම් ඇති බවට පෙන්වා නැත."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +58,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+ඔබ ඩිමෙන්ශියාව ඇති අයෙකු රැකබලා ගන්නේ නම්, හෝ දෙමව්පියෙකු එය සමඟ ජීවත් වනු දැක ඇත්නම්, එය නතර කළ හැකි වූයේ ද කියා ඔබ විමසා ඇති අතර, එය ඔබටත් සිදු වීම වළක්වා ගත හැකි ද කියා ද සිතා ඇති විය හැක. මෙම පිටුව පර්යේෂණය සැබවින් ම පවසන දේ සරල භාෂාවෙන් ඉදිරිපත් කරයි. කෙටි පිළිතුර: ඩිමෙන්ශියාව වළක්වන බවට කිසිවෙකුට පොරොන්දු විය නොහැක, නමුත් සමහර අවදානම් අඩු කළ හැකි බවට පර්යේෂණ යෝජනා කරන අතර, ජනගහනය පුරා ඒවා අඩු කිරීමෙන් ඩිමෙන්ශියාව වර්ධනය කරන අය අඩු වීමට හෝ පසුව ආරම්භ වීමට ඉඩ ඇත.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+මෙය සාමාන්‍ය තොරතුරු වන අතර වෛද්‍ය උපදෙස් නොවේ. කරුණාකර අපේ [වෛද්‍ය වගකීම් ප්‍රකාශය](/medical-disclaimer/) කියවා, ඔබේම සෞඛ්‍ය ගැන වෛද්‍යවරයා සමඟ කථා කරන්න.
 
-## Can dementia be prevented?
+## ඩිමෙන්ශියාව වළක්වා ගත හැකිද?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+ඕනෑ ම එක් පුද්ගලයෙකුට ඩිමෙන්ශියාව වළක්වන බව ඔප්පු වූ ක්‍රමයක් නැත. ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය (NIA) පවසන්නේ, [ඇල්සයිමර් වළක්වන බව තවමත් ඔප්පු වී නොමැති වුවත්](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), පර්යේෂකයන් පොරොන්දු වන උපාය මාර්ග සොයා ගෙන ඇති අතර, කුමක් ක්‍රියා කළ හැකි ද කුමක් නොහැකි ද යන්න ඉගෙන ගනිමින් සිටින බවයි.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+පර්යේෂණය **කරන්නේ** යම් සෞඛ්‍ය තත්ත්ව සහ පුරුදු ඩිමෙන්ශියාව ඇතිවීමේ වැඩි අවස්ථාවක් සමඟ සම්බන්ධ බව පෙන්වීමයි. එම අවදානම් සමස්ත ජනගහනය තුළ අඩු වන විට, ඩිමෙන්ශියාව වර්ධනය කරන අය අඩු විය හැකි අතර, නැතහොත් ඔවුන් ජීවිතයේ පසුව ඒ වර්ධනය කළ හැක. එය සහතිකයකට බෙහෙවින් වෙනස් ය.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+බලාපොරොත්තු දෙන සලකුණක්: 2024 Lancet කොමිෂන් සභාව වාර්තා කළේ, එක්සත් ජනපදය සහ එක්සත් රාජධානිය ඇතුළු සමහර ඉහළ ආදායම් රටවල, වැඩිහිටියන් අතර ඩිමෙන්ශියාව ඇති අය සංඛ්‍යාව අඩු වී ඇති බවයි. කතෘවරුන් සිතන්නේ මෙය කොටසක් වශයෙන් වඩා හොඳ අධ්‍යාපනය, වඩා හොඳ සෞඛ්‍ය සේවාව සහ ජීවිත කාලය පුරා රුධිර නාල වලට අඩු හානියක් නිසා විය හැකි බවයි. මෙය [ලන්ඩන් විශ්ව විද්‍යාල විද්‍යාලයේ (UCL) වාර්තාවේ සාරාංශයට](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) අනුව වේ.
 
-## What did the 2024 Lancet Commission find?
+## 2024 Lancet කොමිෂන් සභාව කුමක් සොයා ගත්තේ ද?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+ඩිමෙන්ශියා වළක්වා ගැනීම, මැදිහත් වීම සහ රැකවරණය පිළිබඳ Lancet කොමිෂන් සභාව යනු සෑම වසර කිහිපයකට වරක් සාක්ෂි සමාලෝචනය කරන ඩිමෙන්ශියා පර්යේෂකයන් 27 දෙනෙකුගේ කණ්ඩායමකි. ඔවුන්ගේ 2024 වාර්තාවෙන් වෙනස් කළ හැකි විය හැකි **අවදානම් සාධක 14ක්** නම් කළ අතර, ඒවා එකට ගත් කල **ලොව පුරා ඩිමෙන්ශියා රෝගීන්ගෙන් අර්ධයට ආසන්න (දළ වශයෙන් 45%ක්)** ප්‍රමාණයක් ගණනය කළේය. කතෘවරුන්ගේ වචනවලින්, අවදානම් ඉවත් කළහොත් මෙම රෝගීන් **න්‍යායිකව** වළක්වා ගත හැකි හෝ ප්‍රමාද කළ හැකි විය ([2024 Lancet කොමිෂන් සභා වාර්තාව](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+සාක්ෂි වඩාත් ශක්තිමත් වන ජීවිත අවධිය අනුව සමූහ කළ සාධක 14:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **ආරම්භක ජීවිතය:** අඩු අධ්‍යාපනය.
+- **මැද වයස (දළ වශයෙන් වයස 40 සිට 65 දක්වා):** ශ්‍රවණ හානිය, ඉහළ LDL (“නරක”) කොලෙස්ටරෝල්, මානසික අවපීඩනය, හිසට තුවාල, ශාරීරික අක්‍රියතාව, දියවැඩියාව, දුම්පානය, අධික රුධිර පීඩනය, තරබාරුව සහ අධික මත්පැන් පානය.
+- **පසු ජීවිතය:** සමාජ හුදකලාව, වායු දූෂණය සහ ප්‍රතිකාර නොකළ දෘෂ්ටි හානිය.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+2024 දී එක් කර ගත් නව දෙක වූයේ ඉහළ LDL කොලෙස්ටරෝල් සහ ප්‍රතිකාර නොකළ දෘෂ්ටි හානියයි. රෝග ප්‍රමාණයෙන් වැඩිම කොටසක් සම්බන්ධ සාධක වූයේ ශ්‍රවණ හානිය සහ ඉහළ LDL කොලෙස්ටරෝල් (සෑම එකක් ම දළ වශයෙන් 7%ක්) ය, ඉන් පසු අඩු අධ්‍යාපනය සහ සමාජ හුදකලාව (සෑම එකක් ම දළ වශයෙන් 5%ක්) ය.
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+අපේ [අවදානම් සාධක මාර්ගෝපදේශය](/brain-health/risk-factors/) මෙම 14 ම වගුවක් ඔස්සේ යන අතර, පර්යේෂණය සම්බන්ධ කරන දේ සහ ඔබට කළ හැකි දේ පෙන්වයි.
 
-### What the 45% figure does not mean
+### 45% අංකය අදහස් නොකරන දේ
 
-It is easy to misread this number, so it helps to be precise:
+මෙම අංකය වැරදි ලෙස කියවීම පහසු ය, එබැවින් නිරවද්‍ය වීම උපකාරී වේ:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **එය ජනගහන ඇස්තමේන්තුවකි.** එය ලොව පුරා ඩිමෙන්ශියා රෝගීන් විස්තර කරන අතර, ඔබේ හෝ ඔබේ දෙමව්පියන්ගේ අවස්ථා නොවේ.
+- **එය හේතුඵල උපකල්පනය කරයි.** කතෘවරු පවසන්නේ විශ්වාසදායක සාක්ෂි ඇති අවදානම් සාධක පමණක් ඇතුළත් කළ නමුත්, සමහර සම්බන්ධතා කොටසකට පමණක් හේතුඵල විය හැකි බවයි. උදාහරණයක් ලෙස, පසු ජීවිතයේ මානසික අවපීඩනය සමහර විට ඩිමෙන්ශියාවේ මුල් රෝග ලක්ෂණයක් විය හැකි මිස, හේතුවක් නොවේ.
+- **එය එක් පුද්ගලයෙකුට කිසිවක් සහතික නොකරයි.** UCL සාරාංශයේ සටහන් කරන්නේ අවදානම අඩු කිරීම ජනගහන මට්ටමින් ක්‍රියා කරන අතර, කිසිම පුද්ගලයෙකුට ඩිමෙන්ශියාවෙන් වැළකීම සහතික නොකරන බවයි.
+- **අනෙක් අර්ධය මෙම සාධකවලින් පැහැදිලි නොවේ.** වයස, ජාන සහ විද්‍යාඥයන් තවමත් නොතේරෙන හේතු ඉතිරිය සාදයි.
 
-## What is the difference between "risk reduction" and "prevention"?
+## “අවදානම අඩු කිරීම” සහ “වළක්වා ගැනීම” අතර වෙනස කුමක්ද?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**අවදානම අඩු කිරීම** යනු අවස්ථා අඩු කිරීමයි. විශාල පිරිසක් ඔවුන්ගේ රුධිර පීඩනය අඩු කළහොත්, වසර ගණනාවක් තුළ ඔවුන්ගෙන් අඩු දෙනෙකු ඩිමෙන්ශියාව වර්ධනය කළ හැකි වේ. එම කණ්ඩායමේ සමහර පුද්ගලයන් තවමත් එය වර්ධනය කරනු ඇත.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**වළක්වා ගැනීම** යනු යම් දෙයක් සම්පූර්ණයෙන් ම සිදු වීම නවත්වන බවයි. ඩිමෙන්ශියාව සම්බන්ධයෙන්, අද පර්යේෂණයට කිසිවෙකුට එය පොරොන්දු විය නොහැක.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+පර්යේෂකයන් **ප්‍රමාදය** ගැනත් කථා කරයි. Lancet කොමිෂන් සභාව වාර්තා කරන්නේ අවදානම අඩු කිරීමෙන් ඩිමෙන්ශියාව ආරම්භ වීම පසුපසට තල්ලු කළ හැකි සහ පුද්ගලයා ආබාධිත ලෙස ජීවත් වන කාලය කෙටි කළ හැකි බවට නව සාක්ෂි ඇති බවයි. වසර කිහිපයක ප්‍රමාදයක් පවා පුද්ගලයෙකුට සහ ඔවුන්ගේ පවුලට ඉතා වැදගත් විය හැකිය.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+මෙම අඩවියේ අපි “අවදානම අඩු කිරීම” සහ “සම්බන්ධ” යන වචන හිතාමතා භාවිතා කරමු. “ඇල්සයිමර් වළක්වන” බවට පොරොන්දු වන නිෂ්පාදනයක්, අතිරේකයක් හෝ වැඩසටහනක් දුටුවොත්, එයට පරිස්සමින් සලකන්න. NIA උපදෙස් දෙන්නේ ඇල්සයිමර් වළක්වන බවට පොරොන්දු වන ඕනෑම පෙති හෝ ප්‍රතිකාරයක් උත්සාහ කිරීමට පෙර වෛද්‍යවරයා සමඟ පරීක්ෂා කරන ලෙසයි, මන්ද එවැනි නිෂ්පාදන අනිරාපදායී, මුදල් නාස්තියක්, හෝ දෙකම විය හැකි නිසාය.
 
-## What have large trials found?
+## විශාල අත්හදා බැලීම් කුමක් සොයා ගත්තේ ද?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+නිරීක්ෂණ අධ්‍යයනවලට (කාලයත් සමඟ මිනිසුන්ට කුමක් සිදු වේදැයි බලන) සම්බන්ධතා පෙන්විය හැකිය. අහඹු අත්හදා බැලීම්, එනම් මිනිසුන් වැඩසටහනකට හෝ සංසන්දන කණ්ඩායමකට අහඹු ලෙස පවරන අවස්ථා, වඩා ශක්තිමත් පරීක්ෂාවකි. වඩාත් ප්‍රසිද්ධ අත්හදා බැලීම් කිහිපයක් සොයා ගත් දේ මෙන්න.
 
-### FINGER (Finland)
+### FINGER (ෆින්ලන්තය)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER අත්හදා බැලීමට ඩිමෙන්ශියා අවදානම වැඩි වයස 60 සිට 77 දක්වා වැඩිහිටි 1,260ක් ඇතුළත් විය. අඩකට වසර දෙකක ආහාර උපදෙස්, ව්‍යායාම, පරිගණක මොළ ව්‍යායාම සහ හෘද හා රුධිර නාල සෞඛ්‍ය පරීක්ෂාවන් අඩංගු වැඩසටහනක් ලැබුණු අතර, අනෙක් අඩුව සාමාන්‍ය සෞඛ්‍ය උපදෙස් ලැබුණි. වැඩසටහන් කණ්ඩායම චින්තන පරීක්ෂා කට්ටලයක තරමක් හොඳින් කළ අතර, එය කුඩා නමුත් සංඛ්‍යානමය වශයෙන් වැදගත් වෙනසකි ([The Lancet හි FINGER අත්හදා බැලීම](https://pubmed.ncbi.nlm.nih.gov/25771249/)). අත්හදා බැලීම මැනුවේ පරීක්ෂා ප්‍රතිඵල, ඩිමෙන්ශියා රෝග විනිශ්චයන් නොවේ.
 
-### US POINTER (United States)
+### US POINTER (එක්සත් ජනපදය)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER ට වයස 60 සිට 79 දක්වා ක්‍රියාශීලී නොවූ, අඩු සෞඛ්‍ය සම්පන්න ආහාර වේලක් තිබූ සහ වෙනත් අවදානම් සාධක තිබූ වැඩිහිටියන් 2,111ක් ඇතුළත් විය. දෙකම කණ්ඩායම්වලට ශාරීරිකව හා මානසිකව වැඩි ක්‍රියාකාරී වීම, වඩා හොඳින් ආහාර ගැනීම, සමාජ ව සිටීම සහ හෘද සෞඛ්‍ය නිරීක්ෂණය කිරීම දිරිමත් කරන ලදී. එක් කණ්ඩායමකට ව්‍යුහගත, පුහුණුකරුවෙකු සහිත වැඩසටහනක් ලැබුණු අතර, අනෙක් කණ්ඩායම තමන් ම මඟ පෙන්වාගත්තේ ය. වසර දෙකක් තුළ, චින්තන පරීක්ෂා ප්‍රතිඵල **දෙකම** කණ්ඩායම්වල වැඩි දියුණු වූ අතර, ව්‍යුහගත කණ්ඩායමේ තරමක් වැඩියෙන් වූ ([JAMA හි US POINTER අත්හදා බැලීම](https://pubmed.ncbi.nlm.nih.gov/40720610/)). වෙනස දෛනික ජීවිතයේ වැදගත් ද යන්න දැන ගැනීමට වැඩි පසු විපරමක් අවශ්‍ය බව කතෘවරු පවසති. “කිසිවක් නොකරන” කණ්ඩායමක් නොතිබුණු නිසා, කිසිදු වැඩසටහනක් කිසිවක් නොවෙනස් කිරීමට සාපේක්ෂව කොපමණ උදව් වූයේදැයි අත්හදා බැලීමට පැවසිය නොහැක.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (රුධිර පීඩනය)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND හි වයස 50 හා ඊට වැඩි, අධික රුධිර පීඩනය ඇති එක්සත් ජනපද වැසියන් 9,361ක් අධ්‍යයනය කරන ලදී. ඔවුන්ට අඩු රුධිර පීඩන ඉලක්කයක් (ඉහළ අංකය 120 ට අඩු) හෝ සාමාන්‍ය ඉලක්කයක් (140 ට අඩු) පවරන ලදී. අඩු ඉලක්කය **සැහැල්ලු සංජානන දුර්වලතාව** සැලකිය යුතු ලෙස අඩු කළේය, එය ඩිමෙන්ශියාවට පෙර ඇති විය හැකි මතක සහ චින්තන ගැටළු අවධියකි. **සම්භාව්‍ය ඩිමෙන්ශියාව** සඳහා, අඩු ඉලක්ක කණ්ඩායමේ අඩු අවස්ථා තිබුණත්, වෙනස සංඛ්‍යානමය වශයෙන් සැලකිය යුතු නොවීය. අත්හදා බැලීම අපේක්ෂිතට වඩා අඩු ඩිමෙන්ශියා අවස්ථා සමඟ කලින් නතර විය, එබැවින් එම ප්‍රශ්නයට පිළිතුරු දීමට එය ඉතා කුඩා වන්නට ඇත ([JAMA හි SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### සමාලෝචන එකතු වන ආකාරය
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 Cochrane සමාලෝචනයක, අවදානම් කිහිපයක් එකවර ඉලක්ක කරන වැඩසටහන්වල විශාල අත්හදා බැලීම් නවයක්, පුද්ගලයන් 18,000කට වැඩි සංඛ්‍යාවක් සමඟ එකතු කරන ලදී. එයින් චින්තන පරීක්ෂාවල කුඩා ප්‍රතිලාභයක් හමු වූ නමුත්, ඩිමෙන්ශියාව වර්ධනය කළ අය ගණන ගැන **පැහැදිලි වෙනසක් නොමැති විය**, මෙය මැනුණු අත්හදා බැලීම් දෙකේ ය ([Cochrane බහු-වසම් මැදිහත්වීම් සමාලෝචනය](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 දී ජාතික විද්‍යා, ඉංජිනේරු සහ වෛද්‍ය ඇකඩමිවල සමාලෝචනයක්, NIA විසින් සාරාංශ කරන ලද, අධික රුධිර පීඩනය කළමනාකරණය, ශාරීරික ක්‍රියාකාරකම් වැඩි කිරීම සහ සංජානන පුහුණුව යන ප්‍රවේශ තුනක් සඳහා “දිරිගන්වන නමුත් නිශ්චිත නොවන” සාක්ෂි සොයා ගත්තේය.
 
-## Does it matter when you start?
+## ඔබ ආරම්භ කරන කාලය වැදගත් ද?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet කොමිෂන් සභාවේ උපදේශය වන්නේ අවදානම් හැකි ඉක්මනින් අඩු කර හැකි තාක් කල් අඩුව තබා ගන්නයි: “කලින් වැඩි හොඳ” සහ “දිගු කාලයක් වැඩි හොඳ” යනුවෙනි. එය තවදුරටත් පවසන්නේ අවදානම අඩු කිරීමට එය කිසි විටෙක ඉතා කලින් හෝ ඉතා ප්‍රමාද නොවන බවයි. සාක්ෂිවල බොහෝ කොටස දළ වශයෙන් වයස 40 සිට 65 දක්වා මැද වයසට අදාළ ය, නමුත් දෘෂ්ටි හානිය සහ සමාජ හුදකලාව වැනි සමහර සාධක පසු-ජීවිත අවදානම් වන අතර, ඒවා ගැන ක්‍රියා කිරීම තවමත් අර්ථවත් විය හැක.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+වාර්තාවේ පවසන්නේ අවදානමකට දීර්ඝ කාලයක් නිරාවරණය වීම වඩා විශාල බලපෑමක් ඇති බවට දැන් වඩා ශක්තිමත් සාක්ෂි ඇති බවයි. උදාහරණයක් ලෙස, මැද වයසේ ආරම්භ වන දියවැඩියාව පසුව ආරම්භ වන දියවැඩියාවට වඩා වැදගත් බවක් පෙනේ.
 
-## Is dementia risk the same for everyone?
+## ඩිමෙන්ශියා අවදානම සියලු දෙනාට සමාන ද?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+නැත. කොමිෂන් සභාව සොයා ගත්තේ අඩු සහ මධ්‍ය ආදායම් රටවල වෙසෙන අය, සුළුතර කණ්ඩායම්වල අය සහ අඩු මුදල් ඇති අය බොහෝ විට මෙම අවදානම් වැඩියෙන් දරන බවත්, එබැවින් ඩිමෙන්ශියාව බොහෝ විට කලින් වයසකදී ඇති වන බවත්ය. බොහෝ අවදානම් මිනිසුන් නොතෝරා ගත් තත්ත්වයන් හා බැඳී ඇත, උදාහරණ ලෙස ඔවුන් දරුවන් ලෙස ලැබූ පාසල් අධ්‍යාපනයේ ගුණාත්මකභාවය, ඔවුන් ජීවත් වන ස්ථානයේ වාතය, සහ සෞඛ්‍ය සම්පන්න ආහාර පහසුවෙන් ලබා ගත හැකි ද යන්න.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+ඒ නිසා කොමිෂන් සභාවේ නිර්දේශ පුද්ගලයන්ට මෙන් ම රජයන්ට ද ඉලක්ක කර ඇත: සියලු දරුවන්ට හොඳ අධ්‍යාපනය, පිරිසිදු වාතය, දුම්පානය අඩු කිරීමේ ක්‍රියාමාර්ග, වෙළඳසැල්වල සහ අවන්හල්වල විකුණන ආහාරවල සීනි සහ ලුණු අඩු කිරීම, සහ ශ්‍රවණ උපකරණ අවශ්‍ය සියලු දෙනාට. පුද්ගල උත්සාහය වැදගත් ය, නමුත් මිනිසුන් ජීවත් වන ලෝකය ද එසේ ය. ඩිමෙන්ශියා රෝග විනිශ්චයක් සඳහා කිසිවෙකුට වරදකරු නොකිරීමට තවත් හේතුවකි.
 
-## What are the honest limits of this research?
+## මෙම පර්යේෂණයේ අවංක සීමාවන් මොනවාද?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **ඩිමෙන්ශියාව වර්ධනය වීමට දශක ගණනාවක් ගතවන නමුත්**, බොහෝ අත්හදා බැලීම් වසර දෙකේ සිට පහ දක්වා පවතී. ඩිමෙන්ශියාවම මැනීමට, පරීක්ෂා ප්‍රතිඵල පමණක් නොව, ඉතා දිගු සහ ඉතා විශාල අධ්‍යයන අවශ්‍ය වේ.
+- **බොහෝ අත්හදා බැලීම් චින්තන පරීක්ෂා මනිනු ලබයි.** පරීක්ෂාවක කුඩා වැඩිදියුණුවක් අවශ්‍යයෙන් ම ඩිමෙන්ශියාව වර්ධනය කරන අය අඩු වේ යැයි හෝ දෛනික ජීවිතය පහසු වේ යැයි අදහස් නොවේ.
+- **ස්වේච්ඡා සේවකයන් බොහෝ විට** සාමාන්‍ය ජනතාවට වඩා සෞඛ්‍ය සම්පන්න සහ වැඩි අධ්‍යාපනයක් ලැබූ අය වේ. Lancet කොමිෂන් සභාව සටහන් කරන්නේ බොහෝ සාක්ෂි තවමත් ඉහළ ආදායම් රටවලින් ලැබෙන අතර සුළුතර කණ්ඩායම් අඩුවෙන් නියෝජනය වන බවයි.
+- **සමහර සම්බන්ධතා දෙපසට ම ක්‍රියා කරයි.** අඩුවෙන් ක්‍රියාශීලී හෝ අඩුවෙන් සමාජ ව සිටීම ඩිමෙන්ශියාවේ මුල් බලපෑමක් විය හැකි මිස, හේතුව පමණක් නොවේ.
+- **ආහාර වේල් අත්හදා බැලීම් මෙතෙක් අපේක්ෂාභංගකර වී ඇත.** MIND ආහාර වේලේ වසර තුනක අත්හදා බැලීමකින් පාලන ආහාර වේලක් හා සසඳන විට චින්තනයේ සැලකිය යුතු වෙනසක් හමු නොවීය. අපේ [ආහාර මාර්ගෝපදේශය](/brain-health/diet/) බලන්න.
+- **මොළ ක්‍රීඩා ඩිමෙන්ශියාව වළක්වන බව ඔප්පු වී නැත.** අපේ [මොළ ක්‍රීඩා සහ ඩිමෙන්ශියාව](/brain-health/brain-games/) ගැන මාර්ගෝපදේශය බලන්න.
+- **උපවාසය සඳහා මිනිසුන් අතර සාක්ෂි ඉතා සීමිත වන අතර**, වැඩිහිටියන්ට එය අවදානම් විය හැක. අපේ [උපවාස මාර්ගෝපදේශය](/brain-health/fasting/) බලන්න.
 
-## If someone did everything "right", why did they still get dementia?
+## “නිවැරදි” සියල්ල කළ කෙනෙකුට ඩිමෙන්ශියාව ආවේ ඇයි?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+මන්ද ඩිමෙන්ශියාව සරලව තේරීම්වල ප්‍රතිඵලයක් නොවන බැවිනි. NIA පවසන්නේ [වයස ඇල්සයිමර් සඳහා දන්නා විශාලතම අවදානම් සාධකය වන](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease) බවයි, එය කිසිවෙකුට වෙනස් කළ නොහැක. ජාන ද කොටසක් ගනී. බොහෝ අයගේ ඇල්සයිමර් ඇති කරන්නේ කුමක්දැයි විද්‍යාඥයන් තවමත් සම්පූර්ණයෙන් තේරුම් ගෙන නැත. 14 අවදානම් සාධක සියල්ලම ඉවත් කළත්, Lancet කොමිෂන් සභාවේ ම ඇස්තමේන්තුව අනුව රෝගීන්ගෙන් අර්ධයකට වඩා වැඩි ප්‍රමාණයක් පැහැදිලි නොවේ.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+එබැවින් ඔබ ව්‍යායාම කළ, හොඳින් ආහාර ගත්, කිසි විටෙක දුම් නොබී, තවමත් ඩිමෙන්ශියාව වර්ධනය කළ අයෙකු රැකබලා ගන්නේ නම්, ඔවුන්ගේ හෝ ඔබේ පැත්තෙන් කිසිවක් වැරදී නැත. ඔබ ම ඩිමෙන්ශියාව සමඟ ජීවත් වන්නේ නම්, එය ඔබේ වරද නොවේ. පවුල් අතර වරදකාරිත්වය පොදු ය, නමුත් එයට එය ලැබීමට සුදුසු නැත. දැන් වැදගත් වන්නේ සැනසීම, සම්බන්ධතාව සහ හොඳ දින ය, සහ අපේ [ක්‍රියාකාරකම් අදහස්](/activities/ideas/) සහ [රැකබලා ගන්නා අයගේ ස්වයං සැලකිල්ල පිළිබඳ මාර්ගෝපදේශය](/caregiving/caregiver-self-care/) ආරම්භ කිරීමට හොඳ ස්ථානයකි.
 
-## What steps can you talk over with a doctor?
+## වෛද්‍යවරයා සමඟ සාකච්ඡා කළ හැකි පියවර මොනවාද?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+මේවා බහුලව අධ්‍යයනය කරන ක්ෂේත්‍ර වේ. පරීක්ෂණයකදී ඒවා මතු කිරීම වටී, මන්ද ඩිමෙන්ශියාවට ඒවායේ බලපෑම කුමක් වුවත්, ඒවායින් බොහොමයක් හෘද සෞඛ්‍යයට, මනෝභාවයට සහ ස්වාධීනත්වයට ද උදව් කරයි.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **රුධිර පීඩනය.** ඔබේ සංඛ්‍යා කුමක්ද සහ ඔබට ගැළපෙන ඉලක්කය කුමක්ද කියා අසන්න. Lancet කොමිෂන් සභාව වයස 40 දළ වශයෙන් සිට ඉහළ අංකය 130 හෝ ඊට අඩු කිරීමට ඉලක්ක කරන ලෙස යෝජනා කරයි, නමුත් වැඩිහිටියෙකුට සුදුසු ඉලක්කය ඔවුන්ගේ සමස්ත සෞඛ්‍යය මත රඳා පවතී.
+2. **ශ්‍රවණය.** ශ්‍රවණ පරීක්ෂණයක් ලබා ගන්න, සහ ශ්‍රවණ උපකරණ උදව් කරයිද කියා අසන්න. අපේ [ශ්‍රවණ මාර්ගෝපදේශය](/brain-health/hearing/) පර්යේෂණය පැහැදිලි කරයි.
+3. **දෘෂ්ටිය.** නිත්‍ය ඇස් පරීක්ෂණ ලබා ගන්න, සහ සැත්කම් ඇති කරන කටාරකට් වැනි ගැටළු ප්‍රතිකාර කළ හැකිද කියා අසන්න.
+4. **කොලෙස්ටරෝල්.** ඔබේ LDL කොලෙස්ටරෝල් පරීක්ෂා කළ යුතුද සහ යමක් වෙනස් විය යුතුද කියා අසන්න.
+5. **රුධිර සීනි.** ඔබට දියවැඩියාව ඇත්නම්, එය ආරක්ෂිතව කළමනාකරණය කරන්නේ කෙසේද කියා අසන්න.
+6. **මනෝභාවය.** මානසික අවපීඩනය සාමාන්‍ය වන අතර ප්‍රතිකාර කළ හැකිය. සති දෙකකට වඩා වැඩි කාලයක් ඔබ පහත් හෝ දේවල් කෙරෙහි උනන්දුව නැති වී ඇත්නම් ඔබේ වෛද්‍යවරයාට කියන්න.
+7. **දුම්පානය සහ මත්පැන්.** දුම්පානය නතර කිරීමට සහාය සහ මත්පැන් සඳහා ආරක්ෂිත සීමා ගැන අසන්න.
+8. **චලනය.** ඔබට ආරක්ෂිත වන්නේ කුමන වර්ගයේ ක්‍රියාකාරකමද කියා අසන්න. අපේ [ව්‍යායාම මාර්ගෝපදේශයේ](/brain-health/exercise/) අදහස් ඇත.
+9. **හිස ආරක්ෂාව.** සයිකල් පැදීමට සහ ස්පර්ශ ක්‍රීඩාවලට හෙල්මට් පළඳින්න, සහ වැටීම් වැළැක්වීම ගැන අසන්න.
+10. **සම්බන්ධව සිටීම.** අන් අය සමඟ කාලය ගත කිරීම සෞඛ්‍ය සම්පන්න ජීවිතයේ කොටසකි. අපේ [සමාජ සම්බන්ධතා](/brain-health/social-connection/) මාර්ගෝපදේශය, සහ [නින්ද](/brain-health/sleep/) ගැන ද බලන්න.
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+ඖෂධ, ආහාර, අතිරේක, උපවාස හෝ ව්‍යායාම වෙනස් කිරීමට පෙර, විශේෂයෙන් ඔබට හෘද රෝග, දියවැඩියාව, වැටීම් ඉතිහාසයක් හෝ දැනටමත් ඩිමෙන්ශියාව ඇත්නම්, ඔබේ වෛද්‍යවරයා සමඟ පළමුව කථා කරන්න.
 
-## Talk with a doctor
+## වෛද්‍යවරයෙකු සමඟ කථා කරන්න
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+ඔබේ හෝ වෙනත් කෙනෙකුගේ මතක හෝ චින්තන වෙනස්කම් ඔබට කනස්සල්ලක් ඇති කරන්නේ නම්, හමුවීමක් වෙන් කරන්න. NIA පවසන්නේ [මතක ගැටළුවලට වෙනත් හේතු තිබිය හැකි](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) බවයි, උදාහරණ ලෙස ඖෂධවල අතුරු ආබාධ, තයිරොයිඩ් ගැටළු, මානසික අවපීඩනය හෝ අඩු විටමින් B12, සහ මෙම ගැටළු සමහරක් හේතුව ප්‍රතිකාර කළ පසු අතුරුදහන් වන බවයි. අපේ [අනතුරු ඇඟවීමේ ලකුණු මාර්ගෝපදේශය](/brain-health/warning-signs/) කුමක් බලා සිටිය යුතු ද යන්න පැහැදිලි කරයි.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**හදිසි ආධාර ලබා ගන්න** හදිසි වෙනස්කම් සඳහා: හදිසි ව්‍යාකූලත්වය, එක් පැත්තක දුබලතාව හෝ සංවේදනය නැතිවීම, කථා කිරීමේ අපහසුතාව, හෝ දරුණු හිසරදයක් ආඝාතයක හෝ වෙනත් හදිසි අවස්ථාවක ලකුණු විය හැකිය. ඔබේ ප්‍රදේශයේ හදිසි අංකයට අමතන්න.
 
-## Where Golden Moments fits
+## Golden Moments කොහේ ගැළපේ ද
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments සරල, එක්ව කරන ක්‍රියාකාරකම් සාදයි, උදාහරණ ලෙස [සංවාද කාඩ්පත්](/games/conversation-cards/), [චිත්‍ර බින්ගෝ](/games/picture-bingo/) සහ [සන්සුන් හුස්ම ගැනීමේ විරාමය](/games/calm-breathing/). ඒවා විනෝදය සහ එකට ගත කරන කාලය සඳහා ය. ඒවා ප්‍රතිකාරයක් නොවන අතර, ඩිමෙන්ශියාව වළක්වන හෝ මන්දගාමී කරන්නේ නැත.
