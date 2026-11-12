@@ -1,7 +1,7 @@
 ---
 title: "Perawatan Sato Peliharaan jeung Dementia: Ngarojong Rutinitas Babarengan"
 seoTitle: "Dukungan Perawatan Sato Peliharaan pikeun Jalma nu Boga Déménsia"
-description: "Bantu jalma nu boga déménsia tetep ngajaga rutinitas perawatan sato kalayan pangingetan, pitulung nu disapuk jeung rencana cadangan nu ngahargaan pilihan jalma éta jeung kabutuhan sato."
+description: "Bantu jalma nu boga déménsia tetep ngurus sato kalayan pangingetan, pitulung nu disapuk jeung rencana cadangan nu ngahargaan pilihan jeung kabutuhan sato."
 section: caregiving
 order: 15
 updated: 2026-11-11

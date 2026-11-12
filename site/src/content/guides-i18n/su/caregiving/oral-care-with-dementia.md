@@ -1,7 +1,7 @@
 ---
 title: "Perawatan Sungut pikeun Jalma nu Boga Déménsia"
 seoTitle: "Perawatan Huntu pikeun Jalma nu Boga Déménsia"
-description: "Bantu jalma nu boga déménsia tetep ngajaga rutinitas sungut nu geus dikenal kalayan pangingetan basajan, idin jeung dukungan dokter huntu pikeun nyeri, gigi palsu atawa masalah anyar."
+description: "Bantu jalma nu boga déménsia tetep ngajaga rutinitas sungut nu geus dikenal kalayan pangingetan basajan jeung dukungan dokter huntu lamun aya masalah."
 section: caregiving
 order: 16
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Naon nu Kudu Dilakukeun Sanggeus Jalma nu Boga Déménsia Ragrag"
 seoTitle: "Dementia jeung Ragrag: Naon nu Kudu Dilakukeun"
-description: "Naon nu kudu dilakukeun sanggeus ragrag nu aya hubunganana jeung jalma nu boga dementia: iraha nelepon layanan darurat, kumaha ngajaga kasalametan jeung naha tuturan saterusna penting."
+description: "Naon nu kudu dilakukeun sanggeus ragrag: iraha nelepon layanan darurat, kumaha ngajaga kasalametan jeung naha pariksaan saterusna penting."
 section: caregiving
 order: 39
 updated: 2026-11-11

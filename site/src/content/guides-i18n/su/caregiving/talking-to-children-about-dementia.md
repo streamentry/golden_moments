@@ -1,7 +1,7 @@
 ---
 title: "Ngobrol jeung Barudak ngeunaan Dementia"
 seoTitle: "Kumaha Ngobrol jeung Barudak ngeunaan Dementia"
-description: "Jelaskeun dementia ka barudak kalayan jawaban nu jujur jeung sasuai umur. Jaga rutinitas jeung privasina, tarima patanya, sarta tetepkeun tanggung jawab perawatan ka déwasa."
+description: "Jelaskeun dementia ka barudak ku jawaban nu jujur jeung sasuai umur. Jaga rutinitas jeung privasina, tarima patanya, sarta tetepkeun perawatan ka déwasa."
 section: caregiving
 order: 29
 updated: 2026-11-11
