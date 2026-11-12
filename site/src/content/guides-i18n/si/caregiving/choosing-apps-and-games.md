@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "ඩිමෙන්ශියා යෙදුම් සහ ක්‍රීඩා තෝරා ගන්නේ කෙසේද"
+seoTitle: "ඩිමෙන්ශියා යෙදුම් සහ ක්‍රීඩා තෝරා ගන්නේ කෙසේද: පරීක්ෂා ලැයිස්තුව"
+description: "ඩිමෙන්ශියා යෙදුම් සහ ක්‍රීඩා තෝරන සැලකිලිමත් වන්නෙකුගේ ලැයිස්තුව: ඔබේ ඉලක්කයෙන් ආරම්භ කරන්න, කාල ගණක සහ දැන්වීම් වළක්වන්න, රහස්‍යතාව පරීක්ෂා කරන්න."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  ඔබ යෙදුම එයින් කළ යුතු දේ ගැන ආරම්භ කරන්න: මෘදු උත්තේජනය, මතක අවධි, සන්සුන් බව හෝ සම්බන්ධතාවය. ඉන්පසු ඒ වේලාවේ පුද්ගලයාගේ හැකියාවන්ට ගැළපෙන එකක් තෝරන්න, විශාල රූප, කාල ගණක, ලකුණු හෝ දැන්වීම් නොමැතිව, සහ නැවැත්වීමට පහසු ක්‍රමයක් සහිතව. එය කුමන දත්ත එකතු කරන්නේද සහ ඒවා මකා දැමිය හැකිද පරීක්ෂා කරන්න. යෙදුමක් ඩිමෙන්ශියාව වළක්වයි හෝ සුව කරයි යන ප්‍රකාශවලට පරෙස්සම් වන්න; එක් අධ්‍යයනයක් සාක්ෂියක් නොවේ.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "පළමුව ඉලක්කය තීරණය කරන්න: උත්තේජනය, මතක අවධි, සන්සුන් බව හෝ සම්බන්ධතාවය වෙනස් යෙදුම් අවශ්‍ය කරයි."
+  - "අවධි ලේබලයක් නොව, එදින පුද්ගලයාගේ හැකියාවන්ට ගැළපෙන්න, සහ පාලන සරලව තබන්න."
+  - "කාල ගණක, ලකුණු, ජීවිත, අඛණ්ඩ ජයග්‍රහණ, දැන්වීම් හෝ මිලදී ගැනීමේ ඉල්ලීම් ඇති යෙදුම් මඟ හරින්න."
+  - "දත්ත එකතු කිරීම, බෙදා ගැනීම සහ මකා දැමීම පරීක්ෂා කරන්න. HIPAA සාමාන්‍යයෙන් පාරිභෝගික යෙදුම් ආවරණය නොකරයි."
+  - "“ඩිමෙන්ශියාව වළක්වයි” යන ප්‍රකාශවලට සැක කරන්න. එක් පරීක්ෂණයක් හෝ යෙදුමේ හොඳ ලකුණු සාක්ෂියක් නොවේ."
+  - "Golden Moments යනු විනෝදාත්මක ක්‍රියාකාරකමකි. එය කිසිම සායනික ප්‍රකාශයක් නොකරයි."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "මොළ ක්‍රීඩා මගින් ඩිමෙන්ශියාව වළක්වා ගත හැකිද?"
+    a: "වාණිජ මොළ ක්‍රීඩා යෙදුම් ඩිමෙන්ශියාව වළක්වන හෝ මන්දගාමී කරන බවට හොඳ සාක්ෂියක් නැත. ජාතික වයෝවෘද්ධ ආයතනය (National Institute on Aging) පවසන්නේ, වාණිජව ලබා ගත හැකි මොළ පුහුණු යෙදුම් විශාල පර්යේෂණ අත්හදා බැලීමකදී පරීක්ෂා කළ ව්‍යුහගත පුහුණුවට සමාන බලපෑමක් ඇති බවට ප්‍රමාණවත් සාක්ෂි නොමැති බවයි. යෙදුම් ඖෂධ ලෙස නොව, විනෝදය සහ සම්බන්ධතාවය සඳහා තෝරන්න."
+  - q: "ඩිමෙන්ශියා යෙදුමක් HIPAA මගින් ආවරණය වේද?"
+    a: "සාමාන්‍යයෙන් නැත. HIPAA සාමාන්‍යයෙන් සෞඛ්‍ය සත්කාර සපයන්නන්, සෞඛ්‍ය සැලසුම් සහ ඔවුන්ගේ ව්‍යාපාරික සහයෝගීන්ට අදාළ වේ. ඔබ විසින්ම බාගත් යෙදුමක් සාමාන්‍යයෙන් ඔවුන්ගෙන් එකක් විසින් සපයා නොමැති නම් ආවරණය නොවේ. FTC හි Health Breach Notification Rule HIPAA ආවරණය නොකරන බොහෝ සෞඛ්‍ය යෙදුම් ආවරණය කරයි."
+  - q: "හොඳ ඩිමෙන්ශියා ක්‍රීඩාවක් කෙසේ පෙනිය යුතුද?"
+    a: "විශාල, පැහැදිලි රූප සහ පෙළ, සෑම තිරයකම එක් පැහැදිලි දෙයක් කිරීමට, කාල ගණකයක් හෝ ලකුණු නැතිව, වැරදි සඳහා බෙර ශබ්ද නැතිව, දැන්වීම් නැතිව, සහ විරාම කිරීමට හෝ නැවැත්වීමට පහසු ක්‍රමයක් සහිතව. එය වැඩිහිටියන් සඳහා සාදන ලද ආකාරයක් පෙනිය යුතු අතර, දෙවන පුද්ගලයෙකුට එකතු වීමට පහසු විය යුතුය."
+  - q: "Golden Moments මතකය උදව් කරන බව කියනවාද?"
+    a: "නැත. Golden Moments විනෝදය සහ සංවාදය සඳහා සරල, බෙදා ගන්නා ක්‍රියාකාරකම් ලබා දෙයි. එය ඩිමෙන්ශියාව රෝග විනිශ්චය, ප්‍රතිකාර, වැළැක්වීම හෝ මැනීම නොකරයි, සහ මතකය හෝ චින්තනය ගැන කිසිම ප්‍රකාශයක් නොකරමු."
+  - q: "ඩිමෙන්ශියා යෙදුමක් සඳහා මුදල් ගෙවිය යුතුද?"
+    a: "පළමුව නොමිලේ විකල්ප හෝ නොමිලේ අත්හදා බැලීම් උත්සාහ කරන්න, සහ සති කිහිපයක් පුරා පුද්ගලයා එයට කෙසේ ප්‍රතිචාර දක්වන්නේද යන්න බලන්න. යෙදුමක් සඳහා ගෙවීම එය වඩා ඵලදායී කරන්නේ නැත. දායකත්වයක් ගන්නට පෙර අවලංගු කරන ආකාරය පරීක්ෂා කරන්න."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+App stores මගින් වැඩිහිටියන්, මතකය හෝ ඩිමෙන්ශියාව සඳහා ලේබල් කළ ක්‍රීඩා පිරී ඇත. සමහර ඒවා සැලසුම් කර ඇත්තේ සිතා බලා ය. අන් ඒවා වෛද්‍ය ශබ්දයක් ඇති පොරොන්දු, ක්‍රීඩාව පරීක්ෂණයක් බවට හරවන කාල ගණක, හෝ දැන්වීම් සහ දත්ත එකතු කිරීම එකතු කරයි. මෙම පිටුව ඕනෑම යෙදුමක් ඔබම විනිශ්චය කිරීමට ක්‍රමයක් ලබා දෙයි. අප වෙනත් නිෂ්පාදන ශ්‍රේණිගත හෝ සමාලෝචනය නොකරමු.
 
-## What should I decide before choosing a dementia app?
+## ඩිමෙන්ශියා යෙදුමක් තෝරා ගැනීමට පෙර මා තීරණය කළ යුත්තේ කුමක්ද?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+යෙදුම එයින් කළ යුතු දේ තීරණය කරන්න. “අම්මාට ක්‍රීඩාවක්” යන්නෙන් ඉතා විවිධ දේවල් අදහස් විය හැකි අතර, එක් ඉලක්කයකට හොඳම තේරීම බොහෝ විට තවත් ඉලක්කයකට දුර්වල තේරීමකි.
 
-| Goal | What it looks like | What to look for |
+| ඉලක්කය | එය කෙසේ පෙනේද | කුමක් බලන්නද |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| මෘදු උත්තේජනය | ගැලපීම, වර්ග කිරීම, සරල ප්‍රහේලිකා, වචන ක්‍රීඩා | සීරුමාරු කළ හැකි දුෂ්කරතාව, දෘශ්‍යමාන ව පවතින රූප, කාල පීඩනයක් නැත |
+| මතක අවධි | පැරණි ඡායාරූප, හුරුපුරුදු කියමන්, ඔවුන්ගේ තරුණ කාලයේ සංගීතය | ඔබේම ඡායාරූප, විවෘත ඉඟි, ප්‍රශ්න විභාග නැත |
+| සන්සුන් බව | මන්දගාමී දෘශ්‍ය, නිශ්ශබ්ද ශබ්ද, හුස්ම ගැනීම, ස්වභාවය | පහසුවෙන් ආරම්භ හා නැවැත්විය හැක, දීප්තිමත් දැල්වීම් (flashing) නැත, පුදුම නැත |
+| සම්බන්ධතාවය | එකට ක්‍රීඩා කිරීම හෝ කතා කිරීම, ප්‍රත්‍යක්ෂව හෝ වීඩියෝ හරහා | පුද්ගල දෙදෙනෙකු සඳහා නිර්මාණය කර ඇත, සංවාදය සඳහා ඉඟි |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+“ව්‍යුහගත ‘සංජානන උත්තේජනය’” සඳහා ඩිමෙන්ශියාව ඇති අයට ඇති පර්යේෂණ බොහෝ විට පුහුණු කාර්ය මණ්ඩලය මෙහෙයවන කණ්ඩායම් සැසි ඇතුළත් වේ, එහි සාකච්ඡා, වචන ක්‍රීඩා, ප්‍රහේලිකා, සංගීතය සහ නිර්මාණාත්මක ක්‍රියාකාරකම් ඇත. [Cochrane සමාලෝචනයක්](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) අධ්‍යයන අතර වෙනස් වන, සාමාන්‍යයෙන් කුඩා ප්‍රතිලාභ සොයා ගත්තේය. එවැනි සමාජීය, විවිධ වැඩසටහනක් තනි යෙදුමකට සමාන නොවේ, එබැවින් ඕනෑම යෙදුමක් බොහෝ අතරින් එක් බෙදා ගන්නා ක්‍රියාකාරකමක් ලෙස සලකන්න.
 
-## How do I know if an app fits the person's abilities?
+## යෙදුමක් පුද්ගලයාගේ හැකියාවන්ට ගැළපේද යන්න මා දන්නේ කෙසේද?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+රෝග විනිශ්චයක් හෝ අවධි ලේබලයක් මත රඳා නොසිට, ඔවුන් ප්‍රතිචාර දක්වන ආකාරය බලන්න. “එකම අවධියේ” සිටින පුද්ගලයන් දෙදෙනෙකුට දෘෂ්ටිය, ශ්‍රවණය, අත් පාලනය, භාෂාව සහ තිර සමඟ සුවපහසුව ගැන විශාල වෙනස්කම් තිබිය හැක. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) යෝජනා කරන්නේ අතීත උනන්දුව සහ වර්තමාන හැකියාවන් මනසේ තබාගෙන, ජයග්‍රහණයට වඩා රසවිඳීම කෙරෙහි අවධානය යොමු කරන ලෙසයි.
 
-Signs of a good fit:
+හොඳ ගැලපීමේ සං‍ඥා:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- ඔවුන් බොහෝ උනන්දු කිරීමක් නැතිව ආරම්භ කරයි හෝ එකතු වේ;
+- ඔවුන් සිනාසෙයි, අදහස් දක්වයි හෝ කථාවක් කියයි;
+- වැරදි ඔවුන්ට බලපාන බවක් නොපෙනේ;
+- කාලය පැමිණි විට නැවතීමට ඔවුන් සතුටුයි.
 
-Signs it is a poor fit:
+ගැලපීම දුර්වල බවේ සං‍ඥා:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- නිතර “මට බැහැ” හෝ “මේක විහිළුයි” යන වචන;
+- ටැප් කළ යුත්තේ කුමක්ද යන්න ගැන ව්‍යාකූලත්වය;
+- කලකිරීම, ලජ්ජාව හෝ උපාංගය දුරට තල්ලු කිරීම;
+- ඔබ පාහේ සියල්ල කරන්නේ නම් පමණක් ක්‍රියා කරයි.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+අසහනය සං‍ඥාවකි, තල්ලු කර යා යුතු දෙයක් නොවේ. [ඔවුන් නැත යැයි කියන විට කුමක් කළ යුතුද](/caregiving/when-they-say-no/) බලන්න. යෙදුම් වලට අමතරව අවධි මත පදනම් වූ අදහස් සඳහා, [මුල් අවධිය](/activities/early-stage/) සහ [පසු අවධිය](/activities/late-stage/) ක්‍රියාකාරකම් බලන්න.
 
-## What design features should I look for or avoid?
+## කුමන සැලසුම් ලක්ෂණ සොයන්නද හෝ වළකින්නද?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+සන්සුන්, සරල, වැඩිහිටි සැලසුමක් සොයන්න, සහ පීඩනය එකතු කරන ඕනෑම දෙයක් වළකින්න.
 
-| Look for | Be wary of |
+| සොයන්න | පරෙස්සම් වන්න |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| විශාල රූප සහ පෙළ, ඉහළ වෙනසක් | කුඩා නිරූපක, අවුල් වූ තිර |
+| තිරයකට එක් පැහැදිලි ක්‍රියාවක් | බොත්තම්, මෙනු, හෝ බහු-පියවර උපදෙස් ගණනාවක් |
+| කාල ගණකයක් නැත, හෝ ඔබට අක්‍රිය කළ හැකි කාල ගණකයක් | ගණන් කිරීම්, වේග බෝනස්, “ඔබේ කාලය පරාජය කරන්න” |
+| ලකුණු නැත, හෝ මෘදු ප්‍රතිපෝෂණය | ලකුණු, ජීවිත, අඛණ්ඩ ජයග්‍රහණ, ශ්‍රේණිගත කිරීම්, “මොළ වයස” |
+| වැරදි නිසංසලව හසුරුවයි | බෙර ශබ්ද, රතු X ලකුණු, “වැරදියි” පණිවිඩ |
+| වැඩිහිටි, සැබෑ ලෝකයේ රූප | කාටූන් හෝ ළමයින්ගේ තේමා |
+| නියමිත ලෙස ක්‍රියා කරයි, ආරම්භ කිරීමට ගිණුමක් අවශ්‍ය නැත | ඇතුළු වීමට, පිවිසීමට හෝ පළමුව අන්තර්ගතය බාගත කිරීමට අවශ්‍යයි |
+| පහසුවෙන් විරාම කිරීම සහ නැවැත්වීම | තව ක්‍රීඩා කිරීමට හෝ යෙදුම ශ්‍රේණිගත කිරීමට ඉල්ලන උත්පතන |
+| දැන්වීම් නැත, පැහැදිලි එකවර හෝ දායකත්ව මිල | දැන්වීම්, loot boxes, නිතර මිලදී ගැනීමේ ඉල්ලීම් |
+| දෙවන පුද්ගලයෙකුට එකතු වීමට පහසුයි | තනි-ක්‍රීඩකයා පමණි, තරඟකාරී සැලසුම |
 
-Ads and purchase prompts are easy to tap by accident.
+දැන්වීම් සහ මිලදී ගැනීමේ ඉල්ලීම් වැරදීමෙන් ටැප් කිරීමට පහසුයි.
 
-## How do I check an app's privacy?
+## යෙදුමක රහස්‍යතාව මා පරීක්ෂා කරන්නේ කෙසේද?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+යෙදුම කුමක් එකතු කරන්නේද, කාට බෙදා ගන්නේද, සහ ඔබට එය මකා දැමිය හැකිද යන්න පරීක්ෂා කරන්න. ස්ථාපනය කිරීමට පෙර:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **ස්ටෝරයේ රහස්‍යතා සාරාංශය කියවන්න.** Google Play හි [Data safety කොටස](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) සහ App Store හි [රහස්‍යතා තොරතුරු කොටස](https://support.apple.com/en-us/102399) යෙදුමක් එකතු කර බෙදා ගත හැකි දත්ත වර්ග ලැයිස්තු කරයි. සමාගම් දෙකම සටහන් කරන්නේ මෙම තොරතුරු සංවර්ධකයන් විසින්ම සපයන බවයි, එබැවින් එය විගණනයක් නොව ආරම්භක ලක්ෂ්‍යයකි.
+2. **ගිණුමක් අවශ්‍යද කියා අසන්න.** යෙදුමක් ඡායාරූප හෝ සරල ක්‍රීඩා පමණක් පෙන්වන්නේ නම්, ඔබේ නම, ඊමේල් හෝ උපන් දිනය දැන සිටීමට එයට හේතුවක් නොමැති විය හැක.
+3. **අවසර පරීක්ෂා කරන්න.** ගැලපීමේ ක්‍රීඩාවකට ස්ථානය, සම්බන්ධතා, මයික්‍රොෆෝනය හෝ ඔබේ සම්පූර්ණ ඡායාරූප පුස්තකාලය ඇත්තටම අවශ්‍යද? එයට අවශ්‍ය නොවන ඕනෑම දෙයක් ක්‍රියාවිරහිත කරන්න.
+4. **දැන්වීම් සහ විශ්ලේෂණ සොයන්න.** දැන්වීම් සහ ලුහුබැඳීමේ මෙවලම් යෙදුම භාවිතා කරන ආකාරය පිළිබඳ දත්ත වෙනත් සමාගම්වලට යැවිය හැක.
+5. **ඡායාරූප කොහේ යන්නේද සොයන්න.** ඔබ පවුලේ ඡායාරූප එක් කරන්නේ නම්, ඒවා උපාංගයේ පවතින්නේද නැතහොත් සේවාදායකයකට උඩුගත වන්නේද? ඒවා ඉවත් කළ හැකිද?
+6. **මකා දැමීම පරීක්ෂා කරන්න.** දත්ත සහ ගිණුම මකා දැමන ආකාරය රහස්‍යතා ප්‍රතිපත්තිය හෝ දත්ත සාරාංශයේ බලන්න. දත්ත මකා දැමිය නොහැකි බව පවසන යෙදුමකට, විශේෂයෙන් එය ඡායාරූප හෝ සෞඛ්‍ය විස්තර දරන්නේ නම්, අමතර පරෙස්සම අවශ්‍යයි.
+7. **රහස්‍යතා ප්‍රතිපත්තිය කියවන්න** එය එකතු කරන දේ, ඇයි, කොපමණ කාලයක් සහ කා සමඟ බෙදා ගන්නේද යන්න පිළිබඳ පැහැදිලි පිළිතුරු සඳහා.
 
-### Does HIPAA protect information in dementia apps?
+### ඩිමෙන්ශියා යෙදුම්වල තොරතුරු HIPAA ආරක්ෂා කරන්නේද?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+සාමාන්‍යයෙන් නැත, එය බොහෝ දෙනෙකුට පුදුමයකි. එක්සත් ජනපද Department of Health and Human Services [පැහැදිලි කරන්නේ](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) HIPAA අදාළ වන්නේ සෞඛ්‍ය සැලසුම්, බොහෝ සෞඛ්‍ය සත්කාර සපයන්නන්, සෞඛ්‍ය දත්ත ගනුදෙනු මධ්‍යස්ථාන (clearinghouses) සහ ඔවුන්ගේ ව්‍යාපාරික සහයෝගීන්ටය. බොහෝ අවස්ථාවල ඔබ පෞද්ගලික භාවිතයට යෙදුමකට ඇතුළත් කරන දත්ත එය ආවරණය නොකරයි, ආවරණය වන ආයතනයක් හෝ එහි ව්‍යාපාරික සහයෝගියෙකු යෙදුම සපයා නොමැති නම්. ස්ටෝරයෙන් ලබා ගත් “ඩිමෙන්ශියා යෙදුමක්” බොහෝ විට HIPAA වලින් පිටත වේ, එය සෞඛ්‍ය ගැන කතා කළත්ද.
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA ආවරණය නොකරන යෙදුම්වල සෞඛ්‍ය දත්ත ආරක්ෂා කරන්නේ කුමක්ද?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Federal Trade Commission හි Health Breach Notification Rule ඒ බොහෝ ඒවා ආවරණය කරයි. 2024 දී FTC රීතිය HIPAA මගින් ආවරණය නොවන සෞඛ්‍ය යෙදුම් සහ සමාන තාක්ෂණයන්ට අදාළ වන බව පැහැදිලි කරන [වෙනස්කම් අවසන් කළේය](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule). “උල්ලංඝනයක්” යනු හැකර් ක්‍රියාවට පමණක් නොව, අවසර නොලත් හෙළි කිරීම්ද ඇතුළත් කරයි, සහ සමාගම් බලපෑමට ලක් වූ පුද්ගලයන්ට සහ FTC වෙත දැනුම් දිය යුතුය. එය යමක් වැරදී ගිය පසු ආරක්ෂක දැලක් වන අතර, යෙදුමක් අවශ්‍ය දේ පමණක් එකතු කරන බවට පොරොන්දුවක් නොවේ.
 
-## How should I read claims about research and evidence?
+## පර්යේෂණ සහ සාක්ෂි ගැන ප්‍රකාශ මා කියවන්නේ කෙසේද?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+සාක්ෂි ප්‍රකාශ මන්දගාමීව කියවන්න, සහ විශාලතම පොරොන්දු ගැන වඩාත් සැක කරන්න. ඇසිය යුතු ප්‍රශ්න:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **හරියටම කුමක් අධ්‍යයනය කරන ලදද?** එක් පුහුණු වැඩසටහනක අධ්‍යයනයක් යෙදුමක සෑම ක්‍රීඩාවක්ම එකම ආකාරයට ක්‍රියා කරන බව නොපෙන්වයි.
+- **කාට අධ්‍යයනය කරන ලදද?** නිරෝගී වැඩිහිටියන් තුළ ප්‍රතිඵල ඩිමෙන්ශියාව ඇති කෙනෙකුට අදාළ නොවිය හැක.
+- **කුමක් මනින ලදද?** ක්‍රීඩාවම වඩා හොඳ වීම දෛනික ජීවිතය, සංවාදය, මනෝභාවය හෝ ස්වාධීනත්වයේ වෙනස්කම්වලට වෙනස් වේ.
+- **අධ්‍යයනය කෙතරම් ශක්තිමත්ද?** අහඹු පාලිත අත්හදා බැලීමක් (RCT) යෙදුම භාවිතා කරන කණ්ඩායමක් එය භාවිතා නොකරන කණ්ඩායමක් සමඟ සසඳයි. එය හොඳ සැලසුමකි, එහෙත් එක් කුඩා හෝ කෙටි RCT එකක් සාක්ෂියක් නොවේ. ස්වාධීන පර්යේෂකයන් විසින් කරන ලද, එකඟ වන අධ්‍යයන කිහිපයක් සොයන්න.
+- **එය රෝගය වෙනස් කරන බවට කියනවාද?** පරීක්ෂණයක කුඩා වැඩි දියුණුවක් පෙන්වන අධ්‍යයනයක් යෙදුමක් ඩිමෙන්ශියාව මන්දගාමී කරයි, වළක්වයි හෝ සුව කරයි යන්නට සාක්ෂියක් නොවේ.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+ජාතික වයෝවෘද්ධ ආයතනයේ [සංජානන සෞඛ්‍යය සහ වැඩිහිටියන්](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) පිටුව, ව්‍යුහගත සංජානන පුහුණුව පිළිබඳ විශාල NIH අරමුදල් ලත් පරීක්ෂණයක් විස්තර කරන අතර, පසුව පාඨකයන් සමහර පරිගණක සහ අන්තර්ජාල ක්‍රීඩා මතකය සහ චින්තනය වැඩි දියුණු කළ හැකි යන ප්‍රකාශවලට පරෙස්සම් වන ලෙස අනතුරු ඇඟවයි. වාණිජව ලබා ගත හැකි මොළ පුහුණු යෙදුම් එම පරීක්ෂණයේ පරීක්ෂා කළ පුහුණුවට සමාන බලපෑමක් ඇති බවට තවම ප්‍රමාණවත් සාක්ෂි නොමැති බව එය පවසයි. [මොළ ක්‍රීඩා සහ සාක්ෂි](/brain-health/brain-games/) සහ [ඩිමෙන්ශියාව වැළැක්වීම ගැන පර්යේෂණ කියන දේ](/brain-health/can-dementia-be-prevented/) ගැන අපගේ මාර්ගෝපදේශයේ තව දේ කියවිය හැක.
 
-### What is a public example of a misleading claim?
+### නොමඟ යවන ප්‍රකාශයක ප්‍රසිද්ධ උදාහරණය කුමක්ද?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 ජනවාරියේදී, FTC “මොළ පුහුණුව” වැඩසටහනක් වන Lumosity හි නිෂ්පාදකයන් සමඟ [විසඳුමක් ප්‍රකාශ කළේය](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program). FTC චෝදනා කළේ සමාගම ප්‍රමාණවත් සාක්ෂියකින් තොරව, එහි ක්‍රීඩා වයස ආශ්‍රිත සංජානන පිරිහීම ප්‍රමාද කළ හැකි බවත්, mild cognitive impairment, ඩිමෙන්ශියාව සහ Alzheimer's රෝගයෙන් ආරක්ෂා කළ හැකි බවත් කියා ඇති බවයි. සමාගම ඩොලර් මිලියන 2ක් ගෙවීමට එකඟ වූ අතර, අනාගතයේ එවැනි ප්‍රකාශ කිරීමට පෙර සමර්ථ හා විශ්වාසදායක විද්‍යාත්මක සාක්ෂි තිබිය යුතු යයි. ප්‍රචාරක භාෂාව සාක්ෂියක් නොවේ යන්න මෙම නඩුව ප්‍රයෝජනවත් සිහිකැඳවීමකි.
 
-### Which words are red flags?
+### කුමන වචන රතු කොඩි ද?
 
-Be cautious when an app or ad says it:
+යෙදුමක් හෝ දැන්වීමක් පවසන විට පරෙස්සම් වන්න:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- ඩිමෙන්ශියාව හෝ Alzheimer's “වළක්වයි,” “ආපසු හරවයි,” “නවතී” හෝ “සුව කරයි”;
+- අධ්‍යයනය, එහි කවුරුන් සිටියාද සහ කුමක් මනින ලදද යන්න නම් නොකර “සායනිකව ඔප්පු වූ”;
+- රෝග විනිශ්චයක් ඇඟවෙන “මොළ වයස” හෝ මතක ලකුණක්;
+- මොළය “තියුණු කරයි,” “ඉහළ නංවයි” හෝ “පුහුණු කරයි”;
+- සාක්ෂි ලෙස අත්දැකීම් ප්‍රකාශ භාවිතා කිරීම.
 
-If you are unsure about a claim, ask the person's doctor.
+ප්‍රකාශයක් ගැන ඔබට විශ්වාසයක් නැත්නම්, පුද්ගලයාගේ වෛද්‍යවරයාගෙන් අසන්න.
 
-## Where does Golden Moments fit?
+## Golden Moments කොතැනට ගැලපේද?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments සරල, බෙදා ගන්නා ක්‍රියාකාරකම් ලබා දෙයි, මතක පරීක්ෂණයක්, චිකිත්සාවක් හෝ වෛද්‍ය උපදෙස් නොවේ. [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) සහ [Calm Breathing](/games/calm-breathing/) වැනි අපගේ ක්‍රීඩා විනෝදය සහ සංවාදය සඳහා සාදා ඇත. ඒවා ඩිමෙන්ශියාව රෝග විනිශ්චය, ප්‍රතිකාර, වැළැක්වීම හෝ මැනීම නොකරයි, සහ මතකය හෝ චින්තනය ගැන කිසිම ප්‍රකාශයක් නොකරමු.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+අපි නොමිලේ යෙදුමක්ද සාදමු, [iPhone, iPad සහ Android සඳහා Golden Moments](/app/). එහි විශාල ටයිල් සහිත සන්සුන් රූප ගැලපීම, ඔබ තෝරන පවුලේ ඡායාරූප සහිත ක්‍රීඩා, සහ නොබැඳි ක්‍රියා කරන රූප පැකේජ ඇත, ගිණුමක්, දැන්වීමක්, කාල ගණකයක් හෝ ලකුණු නැතිව. එම පරීක්ෂා ලැයිස්තුව එයටද අදාළයි: එහි App Store රහස්‍යතා ලේබලය “Data Not Collected” ලෙස කියවන අතර, [යෙදුමේ රහස්‍යතා ප්‍රතිපත්තිය](/app-privacy/) ඡායාරූප පිටපත් කොහේ තබන්නේද යන්න පැහැදිලි කරයි.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+අප ඔබට විශ්වාස කිරීමට වඩා ඔබ අප විනිශ්චය කරනු ඇතැයි අපි කැමැත්තෙමු. මෙම පිටුවේ ඇති ලැයිස්තුව භාවිතා කරන්න, අපගේ [රහස්‍යතා පිටුව](/privacy/) සහ [වෛද්‍ය වියරු ප්‍රකාශය](/medical-disclaimer/) කියවන්න, සහ ඔබ සැලකිලිමත් වන පුද්ගලයාට නොගැළපෙන ඕනෑම දෙයක් නවත්වන්න, අපගේවත් ඇතුළුව.
 
-## What is a sensible way to try a new app?
+## නව යෙදුමක් උත්සාහ කිරීමට සාධාරණ ක්‍රමය කුමක්ද?
 
-Try it together for a couple of weeks and watch what happens.
+සති කිහිපයක් එකට උත්සාහ කර බලා දේ නිරීක්ෂණය කරන්න.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **පළමුව සකසන්න** [ටැබ්ලට් සහ දුරකථන සැකසුම් මාර්ගෝපදේශය](/caregiving/tablets-and-screens/) භාවිතා කර, පහසුම මට්ටමෙන් ආරම්භ කරන්න.
+2. **සැසි කෙටිව තබන්න,** සිනාසීම, සංවාදය සහ සන්සුන් බව නිරීක්ෂණය කර, හොඳ මොහොතකින් අවසන් කරන්න.
+3. **එය කලකිරීමක් ඇති කරන්නේ නම් අත්හරින්න,** එය කෙතරම් ඉහළ ශ්‍රේණිගත වී තිබුණත්.

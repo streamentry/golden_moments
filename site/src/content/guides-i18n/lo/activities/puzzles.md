@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "ເກມຕໍ່ຮູບ ແລະເກມຄຳສຳລັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ"
+seoTitle: "ເກມຕໍ່ຮູບ ແລະເກມຄຳສຳລັບສະໝອງເສື່ອມ"
+description: "ວິທີເລືອກເກມຕໍ່ຮູບ ເກມຄຳ ແລະເກມອອນລາຍສຳລັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ: ຂະໜາດຊິ້ນ ຮູບ ຕົວໜັງສື ແລະເວລາຈະເຮັດໃຫ້ງ່າຍລົງ."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  ເກມທີ່ດີທີ່ສຸດສຳລັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມ ແມ່ນເກມທີ່ເຂົາເຈົ້າສາມາດເຮັດສຳເລັດດ້ວຍການຊ່ວຍເລັກນ້ອຍ ແລະມີຄວາມສຸກໃນລະຫວ່າງນັ້ນ. ເລືອກເກມຕໍ່ຮູບທີ່ມີຊິ້ນໜ້ອຍແລະໃຫຍ່ ແລະຮູບຜູ້ໃຫຍ່ທີ່ຊັດເຈນ ເບິ່ງຮູບໃນກ່ອງຕະຫຼອດ ແລະແຍກຊິ້ນຂອບກ່ອນ. ເກມຄຳສັ້ນ ແລະຄຳຊອກຫາ ເໝາະກັບຕົວໜັງສືໃຫຍ່. ເກມອອນລາຍງ່າຍໆ 4 ຊິ້ນເໝາະກັບໄລຍະກາງ. ຢຸດເມື່ອຍັງມີຄວາມສຸກ.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "ເລືອກຕາມວິທີທີ່ມັນເປັນໄປ ບໍ່ແມ່ນຕາມປ້າຍໄລຍະ: ຖ້າເກມຮູ້ສຶກຄືວຽກ ໃຫ້ລອງເກມທີ່ມີຊິ້ນໜ້ອຍລົງ."
+  - "ຊິ້ນໃຫຍ່ແຂງແຮງ ແລະຮູບທີ່ຊັດເຈນທີ່ມີສີທີ່ແຕກຕ່າງກັນ ງ່າຍກວ່າຊິ້ນນ້ອຍ ແລະທ້ອງຟ້າກວ້າງ."
+  - "ຮູບຜູ້ໃຫຍ່ມີຄວາມສຳຄັນ. ສວນ ເຮືອນຄົວ ລົດ ແລະສັດ ບໍ່ແມ່ນການ໌ຕູນ."
+  - "ການເຮັດນຳກັນແມ່ນຈຸດສຳຄັນ. ສົ່ງຊິ້ນໃຫ້ ຈັດຂອບ ແລະໃຫ້ຝາກ່ອງຢູ່ໃນສາຍຕາ."
+  - "ເກມຄຳຕົວໃຫຍ່ ແລະເກມອອນລາຍ 4 ຫຼື 9 ຊິ້ນ ມີໃຫ້ຟຣີໃນເວັບໄຊທ໌ນີ້."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "ຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມຄວນໃຊ້ຈຳນວນຊິ້ນເທົ່າໃດດີທີ່ສຸດ?"
+    a: "ບໍ່ມີຕົວເລກທີ່ຖືກຕ້ອງດຽວ. ຜູ້ທີ່ເຄີຍຕໍ່ເກມ 1,000 ຊິ້ນອາດຍັງຊອບຫຼາຍຮ້ອຍຊິ້ນໃນຕອນຕົ້ນ ໃນຂະນະທີ່ຄົນອື່ນມີຄວາມສຸກທີ່ສຸດກັບປະມານສິບກວ່າຊິ້ນໃຫຍ່. ຖ້າເກມຮູ້ສຶກຄືວຽກ ຫຼືເຮັດໃຫ້ໜັກໃຈ ໃຫ້ຍ້າຍໄປຊິ້ນໜ້ອຍລົງ. ເກມຕໍ່ຮູບອອນລາຍຂອງພວກເຮົາມີ 4 ຫຼື 9 ຊິ້ນ."
+  - q: "ເກມຕໍ່ຮູບເໝາະກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມບໍ?"
+    a: "ຫຼາຍຄົນມັກ ໂດຍສະເພາະຖ້າເຄີຍມັກເກມຕໍ່ຮູບມາກ່ອນ. ເກມຕໍ່ຮູບໃຫ້ມືມີສິ່ງທີ່ຈະເຮັດ ມີເປົ້າໝາຍທີ່ຊັດເຈນ ແລະມີຮູບໃຫ້ລົມກັນ. ບໍ່ມີເກມຕໍ່ຮູບໃດທີ່ພິສູດວ່າປິ່ນປົວ ຫຼືຊ້າລົງໄດ້ຂອງໂຣກສະໝອງເສື່ອມ ສະນັ້ນໃຫ້ເລືອກເພື່ອຄວາມສຸກແລະການຢູ່ນຳກັນ."
+  - q: "ຈະເຮັດແນວໃດເມື່ອຜູ້ນັ້ນຕໍ່ເກມຕໍ່ຮູບບໍ່ໄດ້ແລ້ວ?"
+    a: "ເຮັດໃຫ້ນ້ອຍລົງ ແລະເຮັດຫຼາຍຂຶ້ນດ້ວຍຕົວເອງ: ສົ່ງຊິ້ນໃຫ້ເທື່ອລະຊິ້ນ ຫຼືເຫຼືອພຽງບາງຊິ້ນສຸດທ້າຍໃຫ້ເຂົາເຈົ້າ. ລອງເກມອອນລາຍ 4 ຊິ້ນ ຈັດຊິ້ນຕາມສີ ຫຼືພຽງແຕ່ເບິ່ງຮູບທີ່ຕໍ່ສຳເລັດແລ້ວນຳກັນ."
+  - q: "ເກມຄຳໄຂວ້ ແລະເກມຊອກຄຳເໝາະກັບໂຣກສະໝອງເສື່ອມບໍ?"
+    a: "ໄດ້ໃນໄລຍະຕົ້ນ ໂດຍໃຊ້ຕົວໜັງສືໃຫຍ່. ເກມຊອກຄຳທີ່ມີແຕ່ຄຳແນວນອນ ແລະແນວຕັ້ງງ່າຍກວ່າແບບທີ່ມີແນວທະແຍງ ຫຼືຄຳຍ້ອນຫຼັງ. ອ່ານຄຳໃບ້ ຫຼືລາຍການຄຳອອກສຽງ ແລ້ວເຮັດນຳກັນ."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+ການຕໍ່ຮູບໃສ່ໂຕະອາຫານເປັນໜຶ່ງໃນກິດຈະກຳທີ່ງ່າຍທີ່ສຸດທີ່ຈະແບ່ງປັນກັນ. ທ່ານສາມາດນັ່ງນຳກັນໂດຍບໍ່ຈຳເປັນຕ້ອງເວົ້າ ຮູບໃຫ້ມີສິ່ງທີ່ຈະສົນທະນາ ແລະຄວາມຮູ້ສຶກດີເມື່ອໃສ່ຊິ້ນສຸດທ້າຍ. ແຕ່ເກມຕໍ່ຮູບຕ້ອງປ່ຽນແປງຕາມການປ່ຽນແປງຂອງໂຣກສະໝອງເສື່ອມ. ເກມທີ່ຍາກເກີນໄປອາດເຮັດໃຫ້ບ່າຍທີ່ສະຫງົບກາຍເປັນບ່າຍທີ່ໜັກໃຈ. ໜ້ານີ້ອະທິບາຍວິທີເລືອກແລະຕັ້ງເກມຕໍ່ຮູບ ເກມຄຳ ແລະເກມອອນລາຍງ່າຍໆ ແລະສິ່ງທີ່ຕ້ອງເຮັດເມື່ອມັນຍາກຂຶ້ນ.
 
-## Are puzzles good for people with dementia?
+## ເກມຕໍ່ຮູບເໝາະກັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມບໍ?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+ຫຼາຍຄົນມັກ ໂດຍສະເພາະຜູ້ທີ່ເຄີຍຫຼິ້ນມາກ່ອນ. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ລະບຸເກມຄຳຊອກຫາ ເກມໄພ່ ແລະເກມກະດານ ໃນບັນດາກິດຈະກຳສຳລັບໄລຍະຕົ້ນ ແລະ [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ກ່າວເຖິງເກມອອນລາຍ ແລະເກມຕໍ່ຮູບໃນແທັບເລັດ ເປັນວິທີໜຶ່ງໃນການຮັກສາຄວາມສົນໃຈ.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+ເກມຕໍ່ຮູບບໍ່ແມ່ນການປິ່ນປົວ. ບໍ່ມີເກມຕໍ່ຮູບໃດທີ່ພິສູດວ່າຊ່ວຍຢຸດ ຫຼືຊ້າລົງໄດ້ຂອງໂຣກສະໝອງເສື່ອມ; ຄູ່ມື[ເກມສະໝອງ ແລະໂຣກສະໝອງເສື່ອມ](/brain-health/brain-games/) ຂອງພວກເຮົາອະທິບາຍການວິໄຈ. ເຫດຜົນທີ່ຈະເຮັດເກມຕໍ່ຮູບແມ່ນມັນສາມາດເປັນຊົ່ວໂມງທີ່ໜ້າພໍໃຈ ແລະດຶງດູດໃຈນຳກັນ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) ສະຫຼຸບວ່າ: ໃຫ້ເນັ້ນຄວາມສຸກ ບໍ່ແມ່ນຜົນສຳເລັດ.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## ຈະເລືອກເກມຕໍ່ຮູບສຳລັບຜູ້ທີ່ມີໂຣກສະໝອງເສື່ອມແນວໃດ?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+ເລືອກຕາມສິ່ງທີ່ຜູ້ນັ້ນມັກ ແລະເກມຄັ້ງສຸດທ້າຍເປັນແນວໃດ ບໍ່ແມ່ນຕາມປ້າຍໄລຍະ.
 
-### Number of pieces
+### ຈຳນວນຊິ້ນ
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+ບໍ່ມີຈຳນວນທີ່ຖືກຕ້ອງ. ຜູ້ທີ່ຕໍ່ເກມມາຕະຫຼອດຊີວິດອາດຍັງມັກເກມຫຼາຍຮ້ອຍຊິ້ນໃນຕອນຕົ້ນ ໃນຂະນະທີ່ຄົນອື່ນມີຄວາມສຸກທີ່ສຸດກັບປະມານສິບກວ່າຊິ້ນ. ກົດງ່າຍໆ: ຖ້າເກມຄັ້ງກ່ອນຮູ້ສຶກຄືວຽກ ໃຫ້ເລືອກເກມທີ່ມີປະມານເຄິ່ງໜຶ່ງຂອງຊິ້ນ. ຖ້າເກມຈົບໄວ ແລະເຂົາເຈົ້າຢາກໄດ້ຫຼາຍຂຶ້ນ ໃຫ້ເພີ່ມເລັກນ້ອຍ.
 
-### Piece size and feel
+### ຂະໜາດຊິ້ນ ແລະຄວາມຮູ້ສຶກ
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **ຊິ້ນໃຫຍ່** ເບິ່ງເຫັນງ່າຍ ຈັບ ແລະຫັນໄດ້ງ່າຍ.
+- **ຊິ້ນໜາແຂງແຮງ** ຢູ່ໄດ້ດີ ແລະທົນການຕົກ.
+- **ຜິວດ້ານ** ຫຼຸດແສງສະທ້ອນຈາກໂຄມໄຟ ແລະປ່ອງຢ້ຽມ.
+- **ຫຼີກເວັ້ນຊິ້ນນ້ອຍ** ຖ້າຜູ້ນັ້ນອາດເອົາສິ່ງຕ່າງໆເຂົ້າປາກ ເຊິ່ງອາດເກີດຂຶ້ນໃນພາຍຫຼັງຂອງໂຣກສະໝອງເສື່ອມ.
 
-### The picture
+### ຮູບ
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **ຫົວຂໍ້ຜູ້ໃຫຍ່.** ສວນ ເຮືອນຄົວ ລົດເກົ່າ ສັດໃນຟາມ ເມືອງຊາຍທະເລ ກີລາທີ່ມັກ. ບໍ່ແມ່ນການ໌ຕູນ ຫຼືສິ່ງທີ່ເບິ່ງຄືຂອງຫຼິ້ນເດັກ.
+- **ພື້ນທີ່ສີທີ່ແຕກຕ່າງ.** ໂຮງນາສີແດງ ເຮືອສີຟ້າ ແລະທົ່ງນາສີຂຽວງ່າຍກວ່າທ້ອງຟ້າທີ່ກິນເນື້ອທີ່ເຄິ່ງໜຶ່ງຂອງເກມ.
+- **ຄຸ້ນເຄີຍ ແລະສ່ວນຕົວ.** ຮູບສະຖານທີ່ທີ່ເຂົາເຈົ້າເຄີຍອາໄສຢູ່ ຫຼືງານອະດິເລກທີ່ຮັກ ໃຫ້ເລື່ອງລາວຫຼາຍໃຫ້ລົມກັນ. ບາງຮ້ານພິມສາມາດປ່ຽນຮູບຄອບຄົວເປັນເກມຕໍ່ຮູບໄດ້.
 
-## How do you do a puzzle together?
+## ຈະຕໍ່ເກມນຳກັນແນວໃດ?
 
-Set it up so the person can get straight to the enjoyable part.
+ຕັ້ງໃຫ້ຜູ້ນັ້ນໄດ້ເຂົ້າໄປສູ່ສ່ວນທີ່ໜ້າພໍໃຈໄດ້ທັນທີ.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **ເລືອກບ່ອນດີ.** ແສງດີ ເກົ້າອີ້ທີ່ມີທີ່ວາງແຂນ ແລະໂຕະ ຫຼືຖາດທີ່ເກມຈະຢູ່ໄດ້.
+2. **ຢຶດຝາກ່ອງ** ໃຫ້ທັງສອງເຫັນໄດ້.
+3. **ຫັນຊິ້ນໜ້າຂຶ້ນ** ກ່ອນເລີ່ມ.
+4. **ແຍກຊິ້ນຂອບ** ດ້ວຍຕົວເອງ ຫຼືເຮັດຂອບກ່ອນແລ້ວປ່ອຍສ່ວນກາງໃຫ້ເຂົາເຈົ້າ.
+5. **ຈັດຊິ້ນຕາມສີ** ໃສ່ຖາດ ຫຼືຈານຕື້ນໆບໍ່ກີ່ອັນ.
+6. **ສົ່ງຊິ້ນໃຫ້ເທື່ອລະຊິ້ນ** ຖ້າກອງຊິ້ນໜັກເກີນໄປ. “ຂ້ອຍວ່າອັນນີ້ເປັນສ່ວນຂອງໂຮງນາ.”
+7. **ເວົ້າກ່ຽວກັບຮູບ** ບໍ່ແມ່ນຄວາມຄືບໜ້າ. “ເບິ່ງຄືເຮືອທີ່ພໍ່ຂ້ອຍເຄີຍມີ.”
+8. **ປ່ອຍໄວ້ໃຫ້ເຫັນ.** ກັບມາຕໍ່ໃນຫຼາຍມື້. ບໍ່ຕ້ອງຮີບຮ້ອນ.
+9. **ຢຸດດ້ວຍຄວາມຮູ້ສຶກດີ** ຫຼັງຊິ້ນໜຶ່ງຕໍ່ລົງໄປ ໃນຂະນະທີ່ຍັງຮູ້ສຶກສະບາຍ.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ແນະນຳໃຫ້ຊ່ວຍຜູ້ນັ້ນເລີ່ມ ສັງເກດຄວາມອຸກອັ່ງ ແລະໃຫ້ເຂົາເຈົ້າພຽງແຕ່ເບິ່ງຖ້າເຂົາເຈົ້າຊອບການເບິ່ງຫຼາຍກວ່າ. ການເບິ່ງທ່ານໃສ່ຊິ້ນ ແລະຊີ້ບອກບ່ອນທີ່ຊິ້ນໜຶ່ງອາດຢູ່ ຍັງຖືເປັນການມີສ່ວນຮ່ວມຢູ່.
 
-## Easy online puzzles
+## ເກມຕໍ່ຮູບອອນລາຍງ່າຍໆ
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+ເກມຕໍ່ຮູບໃນແທັບເລັດມີຂໍ້ດີທີ່ແທ້ຈິງ: ບໍ່ມີຊິ້ນຫາຍ ຮູບໃຫຍ່ທີ່ເຕັມໜ້າຈໍ ແລະບໍ່ຕ້ອງເກັບໂຕະ.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+[ເກມຕໍ່ຮູບ](/games/picture-puzzle/) ຟຣີຂອງພວກເຮົາຕັດຮູບເປັນ 4 ຫຼື 9 ຊິ້ນ. ແຕະສອງຊິ້ນເພື່ອສະຫຼັບຈົນຮູບສົມບູນ. ຮູບທີ່ສົມບູນຈະຢູ່ໃນໜ້າຈໍເປັນແນວທາງ ບໍ່ມີເວລາ ແລະທ່ານສາມາດຢຸດເມື່ອໃດກໍ່ໄດ້. 4 ຊິ້ນເໝາະກັບຫຼາຍຄົນໃນໄລຍະກາງ ເມື່ອມີຄົນນັ່ງຢູ່ຂ້າງໆ.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+ສຳລັບການຫຼິ້ນຮູບງ່າຍໆທີ່ສຸດ ລອງ[ຊອກຮູບດຽວກັນ](/games/find-the-same/) ທີ່ທ່ານແຕະຮູບທີ່ກົງກັບຮູບດ້ານເທິງ ຫຼື[ຈັດປະເພດນຳກັນ](/games/sort-together/) ທີ່ຮູບຖືກໃສ່ກະຕ່າ ເຊັ່ນ ເຮືອນຄົວ ຫຼືສວນ.
 
-## Word puzzles: word searches and crosswords
+## ເກມຄຳ: ເກມຊອກຄຳ ແລະເກມໄຂວ້
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+ເກມຄຳເໝາະກັບຜູ້ທີ່ເຄີຍມັກມາຕະຫຼອດ ໂດຍປົກກະຕິໃນຕອນຕົ້ນຂອງໂຣກສະໝອງເສື່ອມ.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **ເກມຊອກຄຳຕົວໃຫຍ່.** [ເກມຊອກຄຳ](/games/word-search/) ຟຣີຂອງພວກເຮົາໃຊ້ຕົວອັກສອນໃຫຍ່ ແລະມີພຽງບໍ່ກີ່ຄຳ ຢູ່ແນວນອນ ແລະແນວຕັ້ງ ບໍ່ເຄີຍເປັນແນວທະແຍງ ຫຼືຍ້ອນຫຼັງ. ຫຼິ້ນເທິງໜ້າຈໍ ຫຼືພິມອອກກໍ່ໄດ້.
+- **ອ່ານລາຍການອອກສຽງ.** ຄົນໜຶ່ງອ່ານຄຳ ອີກຄົນໜຶ່ງຊອກຫາ. ວົງພຽງຕົວອັກສອນທຳອິດກໍ່ພໍໄດ້.
+- **ເກມໄຂວ້ຕົວໃຫຍ່** ຈາກປຶ້ມເກມອາດໃຊ້ໄດ້ໃນຕອນຕົ້ນ. ອ່ານຄຳໃບ້ອອກສຽງ ແບ່ງປາກກາກັນ ແລະຕອບນຳກັນ. ເກມໄຂວ້ງ່າຍໆທີ່ມີຫົວຂໍ້ດີກວ່າເກມທີ່ເປັນຄຳປິດບັງ.
+- **ລົມກັນກ່ຽວກັບຄຳ.** “ສວນ” ອາດນຳໄປສູ່ເວລາສິບນາທີກ່ຽວກັບໝາກເລັ່ນ.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+ສຳລັບກິດຈະກຳເຈ້ຍເພີ່ມເຕີມ ແລະວິທີພິມໃຫ້ເບິ່ງເຫັນ ແລະຖືງ່າຍ ເບິ່ງ[ກິດຈະກຳສະໝອງເສື່ອມທີ່ພິມອອກໄດ້ຟຣີ](/activities/printable/).
 
-## Which puzzles suit each stage?
+## ເກມໃດເໝາະກັບແຕ່ລະໄລຍະ?
 
-Stages overlap, and good and hard days are normal.
+ໄລຍະຈະທັບຊ້ອນກັນ ແລະມື້ດີ ມື້ຍາກເປັນເລື່ອງປົກກະຕິ.
 
-| Stage | Puzzles that often fit | Your role |
+| ໄລຍະ | ເກມທີ່ມັກເໝາະ | ບົດບາດຂອງທ່ານ |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| ຕົ້ນ | ເກມຕໍ່ຮູບທີ່ຄຸ້ນເຄີຍແຕ່ມີຊິ້ນໜ້ອຍກວ່າເກົ່າ ເກມໄຂວ້ຕົວໃຫຍ່ ແລະເກມຊອກຄຳ ເກມອອນລາຍ 9 ຊິ້ນ | ຄູ່ຮ່ວມ: ໃຫ້ເຂົາເຈົ້າເລືອກ ຊ່ວຍເວລາຖືກຖາມ |
+| ກາງ | ເກມຕໍ່ປະມານສິບກວ່າຊິ້ນໃຫຍ່ ເກມອອນລາຍ 4 ຊິ້ນ ເກມຊອກຄຳອ່ານອອກສຽງນຳກັນ | ຈັດແຈງ ແຍກຊິ້ນ ສົ່ງເທື່ອລະຊິ້ນ |
+| ທ້າຍ | ເບິ່ງຮູບທີ່ຕໍ່ສຳເລັດແລ້ວນຳກັນ ຈັບຄູ່ຮູບກັບສອງຮູບ ຖືຊິ້ນໃຫຍ່ບໍ່ກີ່ຊິ້ນ | ນຳມາໃຫ້ເຂົາເຈົ້າ ການຢູ່ນຳກັນຄືກິດຈະກຳ |
 
-## When should you make a puzzle easier, or stop?
+## ເວລາໃດຄວນເຮັດໃຫ້ເກມງ່າຍລົງ ຫຼືຢຸດ?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+ສັງເກດການຖອນຫາຍໃຈ ການຍູ້ຊິ້ນອອກ ຄຳວ່າ “ຂ້ອຍເຮັດບໍ່ໄດ້” ຊ້ຳໆ ຫຼືການເບິ່ງທີ່ກັງວົນ. ນັ້ນເປັນສັນຍານໃຫ້ປ່ຽນບາງຢ່າງ ບໍ່ແມ່ນໃຫ້ກົດດັນຕໍ່ໄປ.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **ເຮັດໃຫ້ນ້ອຍລົງ.** ຊິ້ນໜ້ອຍລົງ ຫຼືເຫຼືອພຽງບາງຊິ້ນສຸດທ້າຍໃຫ້ເຂົາເຈົ້າ.
+- **ເຮັດຫຼາຍຂຶ້ນດ້ວຍຕົວເອງ** ແລະເຊີນໃຫ້ເຂົາເຈົ້າຊ່ວຍໃນສ່ວນທີ່ງ່າຍ.
+- **ປ່ຽນໄປສິ່ງໃກ້ໆ:** ຈັດຊິ້ນຕາມສີ ເກມອອນລາຍ 4 ຊິ້ນ ຫຼື[ການລະບາຍສີ](/games/coloring/).
+- **ຢຸດ.** ເກັບໄວ້ ແລະດື່ມຊາ. ທ່ານສາມາດກັບມາໃນມື້ອື່ນ ຫຼືບໍ່ກັບມາເລີຍກໍ່ໄດ້.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+ຖ້າເກມເລີ່ມຮູ້ສຶກຄືການເຕືອນເຖິງສິ່ງທີ່ຍາກ ການປ່ອຍວາງກໍ່ບໍ່ເປັນຫຍັງ. ມີວິທີອື່ນຫຼາຍທີ່ຈະໃຊ້ເວລາດີຮ່ວມກັນ; [101 ໄອເດຍກິດຈະກຳ](/activities/ideas/) ຂອງພວກເຮົາເປັນບ່ອນທີ່ດີໃນການຊອກຫາ.
