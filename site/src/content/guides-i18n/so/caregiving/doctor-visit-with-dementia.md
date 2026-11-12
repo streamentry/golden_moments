@@ -1,7 +1,7 @@
 ---
 title: "Diyaargarowga Booqashada Dhakhtarka ee Qof Qaba Dementia"
 seoTitle: "Ballanka Dhakhtarka iyo Dementia: Talooyinka Daryeelaha"
-description: "Diyaargaroow booqasho dhakhtar oo dementia ah: qor su'aalaha, qor isbeddelada, qaado macluumaadka daawada oo qofka ka qayb geli go'aannada iyada oo ogolaansho la helay."
+description: "Diyaargaroow booqasho dhakhtar oo dementia ah: qor su'aalaha iyo isbeddelada, qaado liiska daawooyinka, oo qofka ka qayb geli go'aannada iyadoo ogolaansho la helay."
 section: caregiving
 order: 20
 updated: 2026-11-11

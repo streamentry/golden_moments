@@ -1,7 +1,7 @@
 ---
 title: "Caawinta Qofka Qaba Dementia Inuu Cabbo Ku Filan"
 seoTitle: "Dementia iyo Cabitaanka: Talooyinka Daryeelaha"
-description: "Caawi qofka qaba dementia inuu cabbo ku filan iyada oo la siinayo cabitaannada uu jecel yahay maalinta oo dhan. Weydii dhakhtarka baahiyaha dareeraha iyo dhibaatooyinka cusub."
+description: "Caawi qofka qaba dementia inuu cabbo ku filan, isagoo cabitaannada uu jecel yahay helaya maalin kasta. Weydii dhakhtarka baahiyaha dareeraha iyo dhibaatada cusub."
 section: caregiving
 order: 23
 updated: 2026-11-11

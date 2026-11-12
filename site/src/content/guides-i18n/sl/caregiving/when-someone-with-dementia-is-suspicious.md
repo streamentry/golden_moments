@@ -20,7 +20,7 @@ faq:
   - q: "Zakaj me oseba z demenco morda sumi, da sem nekaj ukradel?"
     a: "Oseba lahko pozabi, kam je odložila predmet, ali napačno razume, kaj se je zgodilo, kar lahko vodi v sum. Ne domnevajte pa, da je vsaka skrb posledica demence. Mirno preverite dejstva in razmislite, ali bi pomagal kak zaupanja vreden človek."
   - q: "Kaj naj rečem, ko me oseba obtoži kraje?"
-    a: "Ostanite mirni, priznajte skrb in npr. rečete: „Skrbi vas, da vam manjka denarnica. Poglejmo skupaj.“ Ne prepirajte se in ne vztrajajte, da se oseba moti. Odgovorite kratko in preidite na drugo temo le, če se zdi pripravljena."
+    a: "Ostanite mirni, priznajte skrb in lahko rečete: „Skrbi vas, da vam manjka denarnica. Poglejmo skupaj.“ Ne prepirajte se in ne vztrajajte, da se oseba moti. Odgovorite kratko in preidite na drugo temo le, če se zdi pripravljena."
   - q: "Ali naj obtožbo ignoriram, ker ima oseba demenco?"
     a: "Ne. Vzemite jo resno in preverite, ali se je kaj zgodilo. Če skrb zadeva možno kraljo, zanemarjanje ali zlorabo, za pomoč zaprosite zaupanja vrednega strokovnjaka ali lokalno službo za zaščito odraslih."
   - q: "Kdaj naj pokličem zdravnika?"

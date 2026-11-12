@@ -1,7 +1,7 @@
 ---
 title: "Dooritaanka Caawimada Guriga ee Qof Qaba Dementia"
 seoTitle: "Daryeelka Guriga ee Dementia: Doorashada Taageerada"
-description: "Dooro caawimada guriga ee dementia adigoo go'aaminaya caawimada loo baahan yahay, weydiinaya khibrada iyo kaydka, ka qayb geli qofka oo hubi kharashka iyo shuruudaha."
+description: "Dooro caawimada guriga ee dementia: go'aami caawimada loo baahan yahay, weydii khibrada iyo kaydka, ka qayb geli qofka oo hubi kharashka iyo shuruudaha."
 section: caregiving
 order: 24
 updated: 2026-11-11
@@ -58,7 +58,7 @@ Haddii qofku aanu hubin, ka bilow hal baahi oo caadi ah ama booqasho gaaban meel
 
 Wac dhowr bixiye oo sharax hawlaha qofku rabo caawimada. Weydii haddii ay awoodaan inay u gutaan baahiyahaas, goorta ay diyaar yihiin iyo haddii ay hore u daryeeleen qof qaba dementia. Weydii tababarka dementia ee shaqaalahooda helaan iyo sida ay u taageeraan qof ka welwelsan, daalan ama wax ku dhibaateysan.
 
-Caddee faahfaahinta taabata nolosha maalinlaha ah: cidda imaanaysa, inta jeer, inta saac ee booqashadu socoto, waxa dhaca haddii shaqaale uu jiro uu jiro, iyo cidda loo wacayo welwel kasta. Haddii qofku rabo inuu isla caawiye ahaado marka suurtagal tahay, weydii haddii adeeggu bixin karo joogteynta taas.
+Caddee faahfaahinta taabata nolosha maalinlaha ah: cidda imaanaysa, inta jeer, inta saac ee booqashadu socoto, waxa dhaca haddii shaqaale joogta uusan iman, iyo cidda loo wacayo welwel kasta. Haddii qofku rabo inuu isla caawiye ahaado marka suurtagal tahay, weydii haddii adeeggu bixin karo joogteynta taas.
 
 Weydii tixraacyo iyo sida hay'addu u baarto shaqaalaha. Ogow haddii baaritaanka dambiyada, tababarka iyo shahaadooyinka la hubiyo, iyo waxa shaqaaluhu ogolaan yihiin inay sameeyaan. Qaanuunnada iyo magacyada xirfadaha way kala duwan yihiin, sidaas darteed xaqiiji shuruudaha xirfadda ama shatiga ruqsadda meesha.
 

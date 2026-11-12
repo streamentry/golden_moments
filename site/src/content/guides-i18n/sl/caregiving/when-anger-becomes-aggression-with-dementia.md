@@ -59,7 +59,7 @@ Prekinite opravilo, umaknite se in uporabite mirno, kratko poved. [Alzheimer's A
 
 ## Kaj lahko prispeva k vedenju?
 
-Vzrokov je lahko več, družinski član pa vzroka ne more postaviti. [Alzheimer's Association med možne dejavnike navaja telesno nelagodje, stres iz okolja in težave s sporazumevanjem](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger).
+Vzrokov je lahko več, družinski član pa vzroka ne more postaviti. Alzheimer's Association med možne dejavnike navaja telesno nelagodje, stres iz okolja in težave s sporazumevanjem.
 
 Pomislite, kaj se je zgodilo tik pred spremembo:
 
@@ -78,14 +78,14 @@ Kar ste opazili, uporabite za prilagoditev naslednjega stika. To lahko pomaga, n
 - **Izberite mirnejši čas.** Če opravilo pogosto slabo poteka, ko je oseba utrujena, vprašajte, ali bi drug čas bolje deloval.
 - **Poenostavite okolje.** Izklopite ozadje, zmanjšajte število ljudi v sobi in pripravite vse potrebno, preden začnete.
 - **Razložite en korak in počakajte.** Pristopite od spredaj, povejte, kaj delate, vprašajte, preden pomagate, in pustite čas za odgovor.
-- **Ustavite se ob znakih stiske.** Zavračanje, odmikanje, napet obraz ali glasnejši glas je lahko znak, da je treba postati. Dokončanje opravila ne sme biti pomembnejše od udobja.
+- **Ustavite se ob znakih stiske.** Zavračanje, odmikanje, napet obraz ali glasnejši glas je lahko znak, da je treba ustaviti. Dokončanje opravila ne sme biti pomembnejše od udobja.
 - **Dogovorite se za preprost načrt.** Če skrbi več ljudi, se dogovorite o znakih, ki pomenijo „počakaj“, o mirni besedi, ki jo lahko uporabite, in o tem, koga poklicati, če se vzorec spremeni.
 
 Za nasvete o posameznih opravilih glejte naša vodnika o [kopanju](/caregiving/bathing-with-dementia/) in [oblačenju](/caregiving/getting-dressed-with-dementia/). [Vodnik o sporazumevanju](/caregiving/communication-tips/) pokriva, kako govoriti in poslušati brez dodatnega pritiska.
 
 ## Kaj lahko naredim, ko se situacija umiri?
 
-Ponudite tolažbo in se vrnite k znani, nezahtevni dejavnosti, če si jo oseba želi. Ne grajajte, ne krivite in ne kaznujte. [Alzheimer's Society opozarja, da se oseba lahko še vedno počuti razburjeno, tudi ko vedenje mine, čeprav se morda ne spomni, kaj se je zgodilo](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression).
+Ponudite tolažbo in se vrnite k znani, nezahtevni dejavnosti, če si jo oseba želi. Ne grajajte, ne krivite in ne kaznujte. Alzheimer's Society opozarja, da se oseba lahko še vedno počuti razburjeno, tudi ko vedenje mine, čeprav se morda ne spomni, kaj se je zgodilo.
 
 Če želite razumeti vzorec, si na kratko zapišite, kaj se je zgodilo tik pred tem, kaj ste opazili, kako dolgo je trajalo in kaj se je zdelo, da pomaga. Zapis naj bo dejsten in ga po potrebi delite z ekipo, ki skrbi za osebo. Ne snemajte osebe in ne delite zasebnih podrobnosti brez dovoljenja.
 
