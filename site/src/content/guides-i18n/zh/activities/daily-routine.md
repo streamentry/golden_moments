@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "与失智症共同生活的人：温和的日常作息"
+seoTitle: "失智症日常作息：灵活的一天安排示例"
+description: "一天的灵活安排示例，包括用餐、活动和休息，节奏稳定。说明如何制定自己的作息，以及在困难的日子里如何调整。"
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  温和的日常作息，让起床、用餐、个人护理和睡前时间大致保持在同一时刻，把主要活动安排在对方最清醒的时段，并让活动与休息保持平衡。请从对方一生的习惯出发来制定，不要排得太满，每天争取日光和活动，并在需要时随时调整计划。
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "起床、用餐、护理和睡前的时间保持稳定，能让一天有熟悉的节奏。"
+  - "把主要活动安排在对方状态最好的时段，通常是上午。"
+  - "不要把每一分钟都排满。休息和安静的时间也是作息的一部分。"
+  - "日光、每天的活动，以及避免很晚的长时间午睡和很晚喝咖啡因饮品，可能有助于缓解傍晚的烦躁不安。"
+  - "作息只是参考，不是规定。困难的日子里，可以调换、缩短或跳过任何一项。"
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "为什么日常作息对失智症患者有帮助？"
+    a: "可预测的一天意味着更少的决定和意外，许多与失智症共同生活的人会因此感到安心。阿尔茨海默病协会指出，有计划的一天让您少花时间想该做什么，多花时间做你们都喜欢的事。它也能帮助照护者安排自己的一天。"
+  - q: "失智症照护对象适合怎样的日程？"
+    a: "没有唯一正确的日程。好的日程会让起床、用餐和睡前大致保持同一时刻，把个人护理和主要活动安排在对方状态最好的时候，包括到户外或靠近窗边的时间，并留出休息的空间。请围绕对方一直以来的生活方式来安排。"
+  - q: "失智症的人白天可以午睡吗？"
+    a: "短暂休息会有帮助，尤其是午饭后。美国国家老龄研究所建议避免长时间午睡和傍晚打盹，因为过度疲倦或休息不足可能加重傍晚的烦躁不安。如果睡眠确实是个问题，请与对方的医生谈谈。"
+  - q: "如果对方不愿意按作息进行怎么办？"
+    a: "先放一放，稍后或换个方式再试。拒绝可能表示对方累了、不舒服、疼痛，或者还没有准备好。作息是为了让一天更轻松，所以应该灵活调整，而不是强迫执行。"
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+温和的作息让一天有熟悉的节奏：起床、用餐、一点活动、休息，以及大致在同一时间上床睡觉。它能减少决定和意外，也为您提供一个计划，让您不必在每个时刻都想接下来做什么。下面的作息只是示例，并非规定。请把它当作起点，再根据您照顾的人来调整。
 
-## Why does a daily routine help?
+## 日常作息为什么有帮助？
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+稳定的作息有帮助，因为熟悉的模式比陌生的模式更容易跟上。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan)指出，有计划的一天意味着少花时间决定做什么，多花时间做让人愉快的活动，并提到固定的起床和就寝时间有助于改善睡眠问题和傍晚的烦躁不安。[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)建议每天在相同的时间洗澡、穿衣和用餐，作为平静家居环境的一部分；[家庭照护者联盟](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)也建议保持相同的日常习惯。
 
-## A sample gentle day
+## 一天的温和示例
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+时间只是举例。请把整个时间表提前或推后，以配合对方自己的节奏。
 
-| Time | What happens | Ideas | On a harder day |
+| 时间 | 发生的事 | 建议 | 在困难的一天 |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 上午8:00 | 起床、洗漱、穿衣 | 每天顺序相同；按穿衣的顺序先把衣服摆好 | 保持简单；换一件干净的衬衫就够了 |
+| 上午8:45 | 早餐 | 咖啡和报纸（读给对方听），或收音机 | 安静地一起吃，不必勉强说话 |
+| 上午9:30 | 主要活动 | 叠衣服、烘焙、园艺、短途外出或散步 | 做简短的版本，或让对方在旁边看您做 |
+| 上午10:30 | 安静时间 | 音乐、相册，或坐在窗边 | 在喜欢的椅子上休息 |
+| 上午11:00 | 帮忙准备午餐 | 洗菜、摆餐桌 | 您来做饭；对方陪着您 |
+| 中午12:00 | 午餐和收拾 | 擦桌子，擦干几个碗 | 跳过家务 |
+| 下午1:00 | 短暂休息 | 脚抬高，播放轻柔的音乐 | 同上 |
+| 下午2:00 | 户外或活动 | 散步、门廊坐坐、浇花、玩一下气球 | 坐在阳光充足的窗边 |
+| 下午3:00 | 社交或创意活动 | 探访、通话、[图片配对](/games/picture-pairs/)、填色、纸牌 | 一起喝点东西，吃点小点心 |
+| 下午4:30 | 安定时间 | 拉上窗帘、开灯，做一件平静的小事，比如折小毛巾 | 熟悉的音乐，减少噪音 |
+| 下午5:30 | 晚餐 | 帮忙搅拌或摆餐具 | 简单、熟悉的食物 |
+| 晚上6:30 | 晚间相处 | 饭后聊往事、纸牌、喜欢的节目、手部按摩 | 安静地陪伴 |
+| 晚上8:00 | 睡前程序 | 洗澡或擦洗、换睡衣、轻柔的音乐、调暗灯光 | 一切从简；舒适优先 |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+这份示例沿用了阿尔茨海默病协会自己针对早期和中期的示例计划的结构：从个人护理和早餐开始，经过家务、散步、音乐、休息和探访，到晚餐、聊往事，最后为睡觉做准备。
 
-## How do you build your own routine?
+## 如何制定自己的作息？
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+请从对方一直以来的生活方式出发，而不是从一张表格出发。阿尔茨海默病协会建议在计划前先考虑以下几点：
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **他或她的喜好、不喜欢的事、优势和兴趣。**
+- **他或她过去是怎样度过一天的。** 过去习惯早起、每天遛狗的人，现在仍然可以早上散步。习惯晚睡的人，可能永远都不喜欢早上八点开始的安排。
+- **他或她状态最好的时段。** 把洗澡、外出和主要活动安排在这个时段。
+- **足够的时间** 用于用餐、洗漱和穿衣，不让任何事情显得匆忙。
+- **固定的起床和睡觉时间。**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+同一份资料还建议，作息中应包括家务、用餐、个人护理、创意活动、身体活动、社交时间、灵性活动，以及临时的时刻，例如有朋友顺路来访。
 
-### Try it for a week, then adjust
+### 先试一周，再调整
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+每天记下简单的笔记。阿尔茨海默病协会建议思考：哪些活动效果最好，为什么；哪些时候安排太满，哪些时候又太空闲；临时的计划是令人愉快还是引起担忧。保留有效的做法，改掉没有效果的做法。
 
-### Make it visible
+### 让计划看得见
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+如果对方仍然能阅读，一块白板或一张大字的当天计划卡可能会让他们安心。内容要简短，例如：“早餐。和Sarah散步。午餐。休息。”有些人在提前很久知道计划时反而不安；家庭照护者联盟建议，如果提前讨论计划会引起担忧，就等到快开始时再说。
 
-## How to adapt the routine
+## 如何调整作息
 
-### Leave room to breathe
+### 留出喘息的空间
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+不要把每一分钟都排满。阿尔茨海默病协会强调，对方需要活动与休息的平衡，并且可能需要更频繁的休息。如果他或她显得无聊、分心或烦躁，就换个活动，或者休息一下。
 
-### Protect the late afternoon
+### 保护傍晚的时段
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+许多人在天色变暗时会变得更不安。美国国家老龄研究所建议每天在户外或窗边接受阳光照射，每天都要活动，但不要安排太满，避免傍晚之后摄入咖啡因和酒精，并避免傍晚时的长时间午睡。有些家庭发现，在天黑前拉上窗帘、开灯也会有帮助。请参阅[傍晚的烦躁不安](/caregiving/late-day-restlessness/)和[睡眠](/brain-health/sleep/)。
 
-### Change it as needs change
+### 随着需要的变化而调整
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **早期：** 一起制定作息。对方可能希望有一张自己管理的书面时间表。
+- **中期：** 您需要多带领一些。活动时间更短，休息更多，并以许多熟悉的家务为主；请参阅[中期活动](/activities/middle-stage/)。
+- **晚期：** 作息以舒适、饮食和护理为中心，中间穿插音乐或手部按摩等短暂的感官时刻；请参阅[晚期活动](/activities/late-stage/)。
 
-### Vary the activities, not the frame
+### 变化活动，而不是框架
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+让用餐、休息和睡前时间保持稳定，中间的活动则轮换安排。[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)建议在不同的日子尝试不同的活动，让生活保持新鲜。例如周一烘焙，周二园艺，周三看照片。我们的[101个活动点子](/activities/ideas/)和[家务活动](/activities/household-tasks/)都可以用来填补这些时段。
 
-## When the day goes sideways
+## 当一天不如预期时
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+有些日子无论怎样安排都不会按计划进行。生病、一夜没睡好、医生来访或天气变化，都可能打乱一切。请放下计划，守住基本需求（食物、饮水、休息、舒适），明天再试。如果对方拒绝某件事，请参阅[当他们说不时](/caregiving/when-they-say-no/)。一起做一次缓慢的呼吸停顿，比如[平静呼吸](/games/calm-breathing/)，能帮助你们两人都重新调整状态。
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+您自己的作息也很重要。请为自己安排休息，并请家人或喘息服务在固定的时间替您照顾，让您有空休假。请参阅[照护者的自我照顾](/caregiving/caregiver-self-care/)。

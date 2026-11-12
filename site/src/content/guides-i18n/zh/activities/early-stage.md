@@ -1,32 +1,28 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "早期失智症的活动"
+seoTitle: "早期失智症活动：适合的点子"
+description: "早期失智症的活动点子：爱好、游戏、外出、写作和一起规划。稍作调整，让对方继续享受，并由对方做主。"
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  在早期失智症阶段，大多数人仍能继续做自己喜欢的事：爱好、纸牌和棋盘游戏、烹饪、园艺、散步、社团、信仰活动和志愿服务。主要的改变通常是小一些的团体、短一些的外出、简单的书面计划，以及身边有一位伙伴。请先问问对方需要什么样的帮助，并由对方来带领。
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "大多数处于早期阶段的人仍能相当独立地生活。通常需要调整活动，而不是替换活动。"
+  - "问问对方希望得到怎样的支持，并约定一个简单的信号，表示什么时候可以帮忙。"
+  - "小一些的团体、安静的时段和短一些的外出，往往能带来很大的不同。"
+  - "现在是对方主导关于自己生活的项目的好时机，例如写日记或制作生命故事书。"
+  - "游戏是为了享受。遇到让人觉得像考试的游戏，就不要玩了。"
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "早期失智症适合哪些活动？"
+    a: "通常就是对方原本已经喜欢的活动，只需做得短一些、安静一些或简单一些：纸牌、棋盘游戏、烹饪、园艺、散步、音乐、信仰活动、社团和志愿服务。写日记、写信和制作生命故事书，在这个阶段也很合适。"
+  - q: "我怎样在帮忙的同时不替对方做主？"
+    a: "问问对方想要怎样的帮助，并经常确认。约定一句话或一个点头，表示可以插手，例如想不起某个词或名字的时候。如果没有安全风险，就让对方用自己的方式做，即使会花更多时间。"
+  - q: "早期失智症的人应该尝试新的活动吗？"
+    a: "如果对方愿意，可以尝试。熟悉的爱好通常最容易，但许多人也喜欢新的东西，例如适合失智症人士的健走小组、美术班或歌唱小组。可以不带压力地先试一次，看看感觉如何。"
+  - q: "早期阶段的脑力训练应用程序值得用吗？"
+    a: "有些人喜欢拼图和文字游戏，单是这份乐趣就已经足够。目前没有任何应用程序或游戏被证实能治疗、减缓或阻止失智症。如果某个游戏让人紧张，或让对方觉得自己做不好，就把它放下。"
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +44,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+在失智症的早期阶段，许多人的生活仍和以前差不多。他们可能还在工作、做志愿服务、和朋友见面，并且仍然能掌控大部分的日常安排。活动通常不需要替换，只需要做一些小调整，让它们继续令人愉快。您的角色更像是伙伴，而不是照护者：支持对方，与对方一起规划，只在对方需要时才出手。
 
-## What activities are good in early-stage dementia?
+## 早期失智症适合哪些活动？
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+早期阶段最好的活动，通常是对方本来就喜欢的活动，只是做得稍微容易一些。[美国阿尔茨海默病基金会](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)列出了许多点子，例如纸牌和棋盘游戏、找字游戏、散步、跳舞、园艺、插花、讲故事、绘画、音乐、写日记、写信、剪贴簿、烹饪和节日传统。
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+常常需要改变的是环境，而不是活动本身。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/activities)指出，早期阶段的人可能开始退出过去喜欢的事情，并举例说，有人在大型派对上会感到不知所措，但在小团体里就表现得很好。请坦诚地讨论哪些地方变得更困难，然后一起调整。
 
-## Ask first, and agree on how to help
+## 先问问，再约定如何帮忙
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[阿尔茨海默病协会针对早期阶段的指导](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage)提出了几个习惯，同样适用于活动：
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **直接问。** “读书会怎样做会让你更轻松？”比猜测更能得到好的答案。
+- **相信对方做得到。** 如果没有安全风险，就让对方去尝试，并给予鼓励，而不是替对方做。
+- **约定信号。** 选一句话或一个点头，表示“可以插手了”，例如在纸牌游戏中想不起某个名字的时候。
+- **经常确认。** 问问帮忙的程度是否刚好，是太多还是太少。
 
-## Activity ideas for the early stage
+## 早期阶段的活动点子
 
-### Keep up roles and hobbies
+### 保持角色与爱好
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **保持固定的承诺。** 每周一次的志愿服务、合唱团或社团，能让一周有规律。如果变得有压力，可以改做时间较短或较安静的角色。
+- **一起计划饭菜。** 如果采购已经令人挫折，阿尔茨海默病协会建议请对方帮忙规划一周的菜单，并由对方来写购物清单。
+- **烹饪和烘焙。** 一起照着喜欢的食谱做。开始前先把材料按顺序摆好，让每个步骤都看得见。
+- **园艺。** 一起规划花圃、挑选种子或植物，并一起动手。写下本周的园艺工作清单会有帮助。
+- **继续手工。** 木工、缝纫、织毛线或模型制作，可以用更简单的图样和充足的光线继续进行。
 
-### Games for enjoyment
+### 为享受而玩的游戏
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **玩纸牌和棋盘游戏。** 熟悉的游戏最容易。采用团队形式，让没有人被推到风口浪尖；计分可以随意，或者干脆不计分。
+- **尝试大字的找字游戏。** 我们的[找字游戏](/games/word-search/)可以在屏幕上玩，也可以打印出来，在安静的时候用。
+- **拼图。** 选择让人放松、不会有挑战感的块数。[图片拼图](/games/picture-puzzle/)是一个简短的屏幕版本，我们关于[失智症拼图](/activities/puzzles/)的指南则介绍如何选择。
+- **有趣的问答。** 有些人很喜欢团队问答夜。如果开始让人觉得像考试，就换一种方式，或者试试我们的[简单问答题](/activities/trivia/)，这些题目有选项，也没有计分。
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+游戏在这里是为了快乐。目前没有任何游戏被证实能治疗或减缓失智症；更多内容请参阅[脑力游戏：研究怎么说](/brain-health/brain-games/)。
 
-### Write, reflect and record
+### 书写、回想与记录
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **写日记。** 阿尔茨海默病协会建议，可以通过写日记来整理确诊后的各种感受。每天几行就足够了。
+- **主导一本生命故事书。** 早期阶段是对方亲自挑选照片，并写下或口述照片背后故事的好时机。请参阅[怀旧活动](/activities/reminiscence/)。
+- **写信。** 写给孙子女、老朋友或前同事的信，对双方来说都可能很有意义。
+- **一起看照片聊天。** [照片配对](/games/photo-pairs/)可以把家庭照片变成温和的配对游戏，而[对话卡片](/games/conversation-cards/)则提供轻松的聊天话题。
 
-### Go out and move
+### 外出与活动身体
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)建议，只要两人都觉得舒服，就继续进行熟悉的外出。把外出安排在对方状态最好的时段，并避免时间太长。
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **短途的文化活动。** 博物馆、下午场电影或艺术展览，最好选择人少的时段。
+- **游泳。** 美国国家老龄研究所建议选择人少的时段去泳池。
+- **健走小组和舞蹈班。** [英国国家医疗服务体系（NHS）](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)提到了舞蹈、太极、瑜伽、游泳和健走小组，并说明在有条件的地方可以参加适合失智症人士的课程。
+- **歌唱小组和记忆咖啡馆。** 轻松的小组，让失智症人士和他们的伴侣认识处境相似的人。
 
-## Small changes that keep activities enjoyable
+## 让活动保持愉快的小调整
 
-| If this is getting harder | Try this |
+| 如果这件事变得更困难 | 可以试试这样做 |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| 地方太忙或太吵 | 选择安静的时段，挑小一些的团体，坐在房间的边缘 |
+| 记不住新的名字 | 每次都重新介绍名字；请团体戴名牌 |
+| 跟不上多步骤的计划 | 把步骤写下来，或先把所有东西按顺序摆好 |
+| 容易累 | 外出时间缩短，之后休息，当天不再安排其他事 |
+| 游戏中需要记住得分 | 采用团队形式，简化规则，或不计分 |
+| 找不到词语 | 留出时间；只有在约定的信号出现时才提供词语 |
 
-## When to slow down
+## 何时该放慢或停下
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+当活动带来的压力多过乐趣时，就应该停下或改变。反复的挫折、逐渐回避某个爱好，或者说“我真的做不下去了”，都值得温和地谈一谈，而不是强迫对方。通常答案是把同一件事做得小一些。如果对方开始需要更多帮助才能开始和完成步骤，那么[中期活动](/activities/middle-stage/)中的点子可能更合适。关于支持性的对话，请参阅[沟通技巧](/caregiving/communication-tips/)；更多活动点子，请参阅[101个活动](/activities/ideas/)。
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+伴侣也需要支持。早期阶段是建立自己的互助网络的好时机；请参阅[照护者的自我照顾](/caregiving/caregiver-self-care/)。
