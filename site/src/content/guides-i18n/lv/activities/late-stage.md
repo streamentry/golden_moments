@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Aktivitātes vēlīnā demences stadijā, arī gultā vai krēslā"
+seoTitle: "Vēlīnās stadijas demences aktivitātes: gultai un krēslam"
+description: "Maigas aktivitātes vēlīnā demences stadijā, arī cilvēkam gultā vai krēslā: mūzika, pieskāriens, lasīšana skaļi, skaņas un kopā būšana, ar drošības padomiem."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Vēlīnās demences stadijā aktivitātes balstās uz maņām un jūsu kompāniju:
+  iecienītas mūzikas klausīšanās, roku turēšana, lēna rokas masāža, lasīšana skaļi,
+  fotogrāfiju skatīšana, dabas skaņas un sēdēšana pie loga vai ārā. Tās der arī
+  gultā vai krēslā. Turiet sesijas īsas, vērojiet sejas un rokas, vai ir komforts,
+  un atcerieties, ka klātbūtne pati par sevi ir aktivitāte.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Saskarsme joprojām ir iespējama. Vēlīnā stadijā pasauli cilvēks piedzīvo galvenokārt caur maņām."
+  - "Mūzika, maigs pieskāriens, pazīstamas balsis un mīksti priekšmeti, ko turēt, bieži sasniedz cilvēkus tad, kad vārdi vairs nespēj."
+  - "Gandrīz visas šīs idejas der cilvēkam gultā vai krēslā."
+  - "Vērojiet komfortu vai diskomfortu sejā, rokās un elpošanā un apstājieties, ja redzat ciešanas pazīmes."
+  - "Izvairieties no sīkiem priekšmetiem un piedāvājiet ēdienu vai dzērienu tikai tā, kā iesaka aprūpes komanda, jo rīšana var kļūt nedroša."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Kādas aktivitātes var veikt ar cilvēku vēlīnā demences stadijā, kas guļ gultā?"
+    a: "Atskaņojiet iecienītu mūziku, turiet roku, dariet lēnu rokas masāžu ar krēmu, lasiet skaļi lūgšanu vai grāmatu, ko viņš mīl, rādiet fotogrāfijas vai atskaņojiet maigas dabas skaņas. Atveriet aizkarus, lai viņš var redzēt ārā. Īsas, mierīgas sesijas ar vienu lietu vienlaikus parasti strādā vislabāk."
+  - q: "Vai cilvēks vēlīnā demences stadijā joprojām var baudīt mūziku?"
+    a: "Daudzi var. Alzheimer's Association norāda, ka pat vēlīnā stadijā cilvēks var sist ritmu vai dziedāt līdzi dziesmai no bērnības. Izvēlieties mūziku, ko viņš mīlēja jaunāks, un turiet skaņu klusu."
+  - q: "Kā zināt, vai viņam patīk aktivitāte?"
+    a: "Vērojiet nelielas pazīmes: atslābinātus plecus, mīkstāku seju, acu kontaktu, dūkšanu, rokas spiedienu vai lēnāku elpošanu. Grimasa, atrauties, nemiers vai stenēšana var nozīmēt diskomfortu vai sāpes. Ja redzat tās, apstājieties un, ja tās turpinās, pastāstiet aprūpes komandai."
+  - q: "Vai ir vērts apmeklēt, ja viņš vairs neatpazīst jūs?"
+    a: "Jā. Nacionālais novecošanas institūts norāda, ka vienkārša klātbūtne var nomierināt un ka pieskāriens, mūzika un stāsti joprojām var sniegt mierinājumu progresējošā demencē. Jūsu balss un pieskāriens var būt pazīstams arī tad, kad vārds ir aizmirsts."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Vēlīnās demences stadijā cilvēks var runāt ļoti maz, vajadzēt palīdzību ar visu ikdienas aprūpi un lielu daļu dienas pavadīt gultā vai krēslā. Var šķist, ka kopā vairs nav, ko darīt. Ir. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) norāda, ka cilvēka „es” kodols var palikt, un šajā stadijā pasauli piedzīvo galvenokārt caur maņām. Mūzika, pieskāriens, pazīstama balss un jūsu mierīgā kompānija joprojām var sniegt mierinājumu un īsus saskarsmes brīžus.
 
-## What activities help in late-stage dementia?
+## Kādas aktivitātes palīdz vēlīnajā stadijā?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Šajā stadijā vislabāk palīdz vienkāršas maņu aktivitātes un klusa kompānija. Alzheimer's Association iesaka klausīties iecienītu mūziku, lasīt daļas no nozīmīgām grāmatām, ierīvēt krēmu ar mīļu smaržu ādā un sēdēt ārā kopā labā dienā. [Nacionālais novecošanas institūts](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) papildina stāstīšanu, fotogrāfiju rādīšanu, maigu pieskārienu vai masāžu un mūziku, baltu troksni vai dabas skaņas, un norāda, ka pati jūsu klātbūtne var nomierināt.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) norāda, ka cilvēkiem vēlīnā stadijā bieži ir spēcīga vajadzība kaut ko turēt pie sevis mierinājumam, un iesaka vienkāršas maņu aktivitātes, maigus stiepienus, šalles kustības, mūziku, dzīvnieku vizītes, cilvēka pieskārienu un brīvu mākslu.
 
-## Activities for someone in bed or a chair
+## Aktivitātes cilvēkam gultā vai krēslā
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Atskaņojiet viņa mūziku.** Izvēlieties dziesmas no jaunības gadiem, ticības vai ģimenes. Turiet skaļumu mīkstu un sēdiet tuvu. Pat tagad daži cilvēki pieskaras ar pirkstu vai dūc. Skatiet [mūzikas aktivitātes](/activities/music/).
+2. **Turiet rokas.** Pats roku turēšana ar maigu īkšķa glāstu ir aktivitāte. Vispirms pasakiet, ko darāt.
+3. **Dariet lēnu rokas masāžu.** Sasildiet nedaudz krēma plaukstās un glāstiet no plaukstas locītavas līdz pirkstu galiem. Izvēlieties krēmu bez smaržas vai smaržu, ko viņš vienmēr mīlējis, ja āda to panes.
+4. **Lasiet skaļi.** Iecienītu dzeju, fragmentu no mīļas grāmatas, Bībeli vai sporta lapu. Jūsu balss ritms ir svarīgāks par vārdiem.
+5. **Stāstiet stāstu.** Runājiet par ģimenes ceļojumu vai dienu, kad viņš apprecējās. Atbildes nav vajadzīgas.
+6. **Rādiet fotogrāfijas.** Turiet vienu lielu fotogrāfiju vienlaikus acu augstumā un silti aprakstiet to. Nejautājiet, kas tajā ir.
+7. **Piedāvājiet ko mīkstu turēt.** Salocītu lupatiņu, flīsa kvadrātu vai mīkstu dzīvnieciņu. NIA iesaka dot cilvēkam lupatiņu turēt, kamēr viņu pārvieto, lai mazāk ticams, ka viņš sagrābs jūs vai mēbeles.
+8. **Atskaņojiet dabas skaņas.** Lietus, viļņi vai putnu dziesmas zemā skaļumā var mīkstināt trokšņainu istabu.
+9. **Ienesiet ārpusi iekšā.** Atveriet aizkarus, novietojiet putnu barotavu pie loga vai ienesiet dažus svaigus ziedus vai lapas, ko apskatīt un aptaustīt.
+10. **Dodieties ārā.** Ja cilvēks var sēdēt ratiņkrēslā, daži minūtes ēnā siltā dienā var būt skaistas.
+11. **Sukājiet matus vai piedāvājiet siltu lupatiņu.** Lēna, maiga kopšana un silta lupatiņa rokām un sejai var šķist rūpīga.
+12. **Kustieties maigi ar mūziku.** Mājiet vieglai šallei kopā vai kustiniet rokas dziesmas ritmā. Stiepiena vai locītavu kustībām vispirms lūdziet fizioterapeitu vai māsu parādīt drošus veidus.
+13. **Veidojiet brīvu mākslu.** Izklājiet netoksisku krāsu uz lielas lapas ar sūkli vai roku, vadot savai. Nav pareiza rezultāta.
+14. **Sveiciniet dzīvnieku vizītes.** Mierīgs mājdzīvnieks uz gultas vai klēpī, ja cilvēks mīlēja dzīvniekus un vide to atļauj.
+15. **Elpojiet lēni kopā.** Sēdiet tuvu un elpojiet lēni un dzirdami. [Mierīga elpošana](/games/calm-breathing/) var saskaņot jūs abus, un jūs sākat un beidzat to.
+16. **Vienkārši esiet klāt.** Sēdiet tuvu, dūciet, adiet vai klusi lasiet. Klātbūtne ir pietiekama.
 
-## How to share an activity at this stage
+## Kā dalīties aktivitātē šajā stadijā
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Tuvojieties no priekšpuses.** Sakiet viņa vārdu un savu vārdu, un runājiet lēni un maigi, pirms pieskaraties.
+- **Piedāvājiet vienu lietu vienlaikus.** Izslēdziet televizoru, pirms atskaņojat mūziku. Vienu maņu vienlaikus.
+- **Turiet īsu.** Dažas minūtes var būt pietiekamas. Vairāki īsi brīži dienas laikā ir labāki nekā viena gara sesija.
+- **Vispirms nodrošiniet komfortu.** Pārbaudiet, vai cilvēks ir labi atbalstīts. NIA iesaka klēpja dēli, lai atbalstītu rokas un augšējo ķermeni, kad viņš sēž taisni.
+- **Vērojiet reakciju.** Atslābinātas rokas, mīkstāka seja, acu kontakts vai dūkšana norāda uz komfortu. NIA norāda, ka stenēšana, grimasas, ķermeņa daļas aizsargāšana vai pēkšņs satraukums var būt sāpju pazīmes. Apstājieties un pastāstiet aprūpes komandai.
 
-## A quick guide by sense
+## Īsa rokasgrāmata pēc maņām
 
-| Sense | Ideas | Take care |
+| Maņa | Idejas | Ņemiet vērā |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Dzirde | Iecienīta mūzika, jūsu balss lasot, dabas skaņas | Turiet skaļumu zemu; viena skaņa vienlaikus |
+| Tauste | Rokas masāža, roku turēšana, mīksts audums, silta lupatiņa | Pajautājiet vai paziņojiet iepriekš; pārbaudiet, vai āda nav sāpīga vai bojāta |
+| Redze | Fotogrāfijas, ziedi, skats pa logu, lēns dabas video | Turiet priekšmetus acu augstumā; laba gaisma, bez atspīduma |
+| Oža | Iecienīts krēms, svaigi ziedi, kafijas smarža tuvumā | Izvairieties no spēcīgām smaržām; pārbaudiet alerģijas un elpošanu |
+| Garša | Neliels iecienīta garšas daudzums | Tikai pārtika un konsistences, ko aprūpes komanda uzskata par drošām |
 
-## Safety at this stage
+## Drošība šajā stadijā
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Rīšana vēlīnajā stadijā var kļūt grūta, un NIA brīdina, ka tas paaugstina aizrīšanās risku. Nepieļaujiet sīkus priekšmetus sasniedzamībā un piedāvājiet ēdienu vai dzērienu tikai tajā konsistencē un pozīcijā, ko iesaka aprūpes komanda. Maigi pārbaudiet ādu pieskārienu aktivitāšu laikā, jo āda var viegli plīst vai zilumoties. Vairāk par drošām maņu idejām skatiet [maņu aktivitātes](/activities/sensory/).
 
-## Looking after yourself too
+## Rūpējieties arī par sevi
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Vēlīnās stadijas aprūpe ir fiziski un emocionāli smaga neatkarīgi no tā, vai tā notiek mājās vai apmeklējot aprūpes māju. Hospisu un paliatīvās aprūpes komandas var palīdzēt ar komfortu, atbalstu un plānošanu, un NIA tās min kā palīdzības avotu. Īsi, mierīgi apmeklējumi ir vērti; skatiet [apmeklēt cilvēku ar demenci](/activities/visiting/). Ja vadāt grupas, [aprūpes mājas grupu aktivitātēs](/activities/care-home-groups/) ir idejas, kā pielāgot nodarbības. Un, lūdzu, izlasiet [aprūpētāja pašaprūpi](/caregiving/caregiver-self-care/): atpūta ir daļa no labas aprūpes.
