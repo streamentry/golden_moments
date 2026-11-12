@@ -1,7 +1,7 @@
 ---
 title: "At tale med børn om demens"
 seoTitle: "Sådan taler du med børn om demens"
-description: "Forklar demens til et barn med ærlige svar, der passer til alderen. Beskyt deres rutiner og privatliv, hold døren åben for spørgsmål, og lad voksne have ansvaret for plejen."
+description: "Forklar demens til et barn med ærlige svar, der passer til alderen. Beskyt rutiner og privatliv, byd spørgsmål velkomne, og lad voksne have ansvaret for plejen."
 section: caregiving
 order: 29
 updated: 2026-11-11
