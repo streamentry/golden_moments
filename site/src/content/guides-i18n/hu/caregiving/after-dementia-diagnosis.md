@@ -1,7 +1,7 @@
 ---
 title: "Demencia-diagnózis után: honnan érdemes kezdeni?"
 seoTitle: "Következő lépések demencia-diagnózis után"
-description: "Egyértelmű kiindulópont demencia-diagnózis után: tervezze meg a további kivizsgálást, keressen támogatást, és a személyt a számára megfelelő ütemben vonja be a döntésekbe."
+description: "Egyértelmű kiindulópont demencia-diagnózis után: tervezze meg a további kivizsgálást, keressen támogatást, és a személyt a neki megfelelő ütemben vonja be."
 section: caregiving
 order: 30
 updated: 2026-11-11
