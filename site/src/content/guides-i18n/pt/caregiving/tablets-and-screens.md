@@ -1,34 +1,34 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Como configurar um tablet ou celular para alguém com demência"
+seoTitle: "Configure um tablet ou celular para alguém com demência"
+description: "Configuração passo a passo de tablet e celular para alguém com demência: travar em um só aplicativo, texto maior, menos notificações, uma tela inicial simples, volume e privacidade."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Deixe um tablet ou celular mais simples antes de entregá-lo. Trave-o em um só
+  aplicativo com o Acesso Guiado no iPad e no iPhone, ou com a fixação de app no
+  Android, ou use o Acesso Assistido da Apple para um layout simplificado.
+  Aumente o texto, silencie as notificações, deixe só alguns aplicativos em uma
+  tela inicial, ajuste o volume, use um suporte e limite as permissões dos
+  aplicativos. Use o aparelho junto com a pessoa, ao lado de atividades sem tela.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "O Acesso Guiado (iPhone, iPad) e a fixação de app (Android) mantêm a tela em um só aplicativo até você desbloquear."
+  - "O Acesso Assistido da Apple oferece um layout simplificado, pensado para pessoas com deficiências cognitivas."
+  - "Aumente o texto e desligue notificações e pop-ups para que nada interrompa ou confunda."
+  - "Deixe só alguns aplicativos conhecidos em uma única tela inicial e ajuste o volume antes de começar."
+  - "Um suporte e um lugar fixo para carregar o aparelho facilitam o uso e o encontrar."
+  - "Revise as permissões dos aplicativos e o compartilhamento de dados: a HIPAA geralmente não protege o que fica guardado em um aparelho pessoal."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Como impeço que alguém com demência saia de um aplicativo no iPad?"
+    a: "Ative o Acesso Guiado em Ajustes > Acessibilidade > Acesso Guiado e defina uma senha. Abra o aplicativo, clique três vezes no botão superior (ou no botão Início, em iPads mais antigos) e toque em Iniciar. O iPad permanece nesse aplicativo até que alguém digite a senha."
+  - q: "Como travo um tablet Android em um só aplicativo?"
+    a: "Ative a fixação de app nos Ajustes, normalmente em Segurança (às vezes Segurança e localização) > Avançado > Fixação de app. Depois abra o aplicativo, abra Visão geral, toque no ícone do aplicativo no topo e toque em Fixar. É preciso digitar o PIN, o padrão ou a senha para desafixar."
+  - q: "É seguro usar o Acesso Guiado no celular da própria pessoa?"
+    a: "Tenha cuidado. A Apple diz que a Detecção de Acidentes e os Serviços de Emergência não ficam disponíveis enquanto o Acesso Guiado está ativo. Se a pessoa depende do celular para fazer ligações de emergência, use o Acesso Guiado apenas quando estiver com ela, ou considere o Acesso Assistido."
+  - q: "Quanto tempo de tela é adequado para alguém com demência?"
+    a: "Não existe um número fixo. Sessões curtas e compartilhadas, combinadas com caminhadas, música, tarefas domésticas e conversa, tornam o dia mais completo do que longos períodos sozinho diante de uma tela. Se o aparelho causar frustração ou tomar o lugar de outras atividades, use-o menos."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +65,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Um tablet pode ser uma forma muito agradável de compartilhar fotos, músicas e jogos simples. Ele também pode confundir: um toque errado abre outro aplicativo, surge uma notificação, o texto fica pequeno ou a tela apaga no meio de um jogo. Um pouco de preparação sua resolve a maior parte disso.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Estes passos usam as configurações nativas do iPhone, do iPad e do Android. Os nomes dos menus podem mudar entre versões de software e fabricantes, então, se algo parecer diferente, siga a página da Apple ou do Google indicada para o seu aparelho. Faça a configuração você mesmo, antes de sentar junto com a pessoa.
 
-## Should someone with dementia use a tablet or phone?
+## Alguém com demência deve usar tablet ou celular?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Depende da pessoa. Muitas gostam de usar um tablet com alguém ao lado, mesmo que não conseguissem sozinhas. Comece usando juntos, com um aplicativo aberto, por alguns minutos. Se trouxer prazer e conversa, continue. Se trouxer confusão ou frustração, um álbum de fotos, páginas impressas ou música podem combinar mais. Nossas [atividades para imprimir](/activities/printable/) são uma alternativa.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Um tablet costuma ser mais fácil do que um celular: a tela e as imagens são maiores, e ele não é também a linha de emergência da pessoa.
 
-## How do I lock a tablet or phone to one app?
+## Como travo um tablet ou celular em um só aplicativo?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Use o Acesso Guiado no iPhone e no iPad, ou a fixação de app no Android. Os dois mantêm a tela em um único aplicativo até que você digite um código, então um toque ou deslize acidental não consegue abrir outra coisa.
 
-### iPad and iPhone: Guided Access
+### iPad e iPhone: Acesso Guiado
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Pelas [instruções da Apple sobre o Acesso Guiado](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Abra **Ajustes**, toque em **Acessibilidade**, depois toque em **Acesso Guiado** e ative.
+2. Em **Ajustes de Senha**, defina uma senha do Acesso Guiado. Você também pode permitir Face ID ou Touch ID.
+3. Opcional: em **Bloqueio Automático da Tela**, escolha após quanto tempo a tela trava durante a sessão, para que ela não apague no meio de um jogo.
+4. Abra o aplicativo que você quer usar.
+5. Clique três vezes no botão lateral (iPhone), no botão superior (iPad) ou no botão Início, em aparelhos mais antigos.
+6. Opcional: circule as partes da tela que você quer que deixem de responder ao toque. Toque em **Opções** (ou **Ajustes da Sessão**) para desligar os botões de volume ou impedir que a tela gire.
+7. Toque em **Iniciar**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+Para encerrar a sessão, clique três vezes no mesmo botão de novo, digite a senha e toque em **Encerrar**. A Apple observa que, em algumas versões mais antigas do software, é preciso clicar duas vezes.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Importante:** a Apple diz que a Detecção de Acidentes e os Serviços de Emergência não estão disponíveis durante uma sessão de Acesso Guiado. Não deixe o Acesso Guiado ativo em um celular que a pessoa possa precisar para fazer ligações de emergência.
 
-### Android: app pinning
+### Android: fixação de app
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Pela [ajuda do Android sobre fixação de telas](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Abra o aplicativo **Configurações**.
+2. Toque em **Segurança** (ou **Segurança e localização**), depois em **Avançado**, depois em **Fixação de app**. Se não encontrar, consulte as páginas de ajuda do fabricante do seu aparelho.
+3. Ative a **Fixação de app**. Será preciso digitar o PIN, o padrão ou a senha para desafixar.
+4. Abra o aplicativo que você quer. Deslize para cima até o meio da tela e segure para abrir a Visão geral (ou toque em Visão geral na navegação de 3 botões).
+5. No topo da prévia do aplicativo, toque no ícone do aplicativo e depois toque em **Fixar**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+Para desafixar com a navegação por gestos, deslize para cima e segure. Com a navegação de 3 botões, toque e segure Voltar e Visão geral. Com a navegação de 2 botões, toque e segure Voltar e Início. Depois digite o PIN, o padrão ou a senha.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Existe um modo mais simples para o iPhone ou iPad inteiro?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Sim. O Acesso Assistido da Apple substitui a tela inicial habitual por uma mais simples. [A Apple descreve](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) o recurso como pensado para facilitar o uso do iPhone por pessoas com deficiências cognitivas, com itens maiores na tela e funções mais focadas. A Apple oferece [o mesmo recurso no iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Quem configura.** A Apple sugere que um apoiador de confiança, como um familiar ou cuidador que conheça a pessoa, ajude a escolher os aplicativos e os recursos.
+- **Por onde começar.** Vá em **Ajustes > Acessibilidade > Acesso Assistido**, toque em **Configurar Acesso Assistido** e depois em **Continuar**.
+- **Aplicativos.** Você escolhe quais aplicativos aparecem. Alguns aplicativos da Apple têm versões simplificadas especiais, e a maioria dos outros pode ser adicionada no design habitual.
+- **Layout.** Escolha **Linhas** (uma lista fácil de ler) ou **Grade** (itens maiores que destacam imagens e ícones).
+- **Senha.** Você define uma senha separada do Acesso Assistido, para entrar, sair ou alterar os ajustes. A Apple recomenda configurar uma Conta Apple de recuperação durante a configuração, porque, sem ela, uma senha esquecida significa redefinir o aparelho.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+O Acesso Assistido pode servir para quem usa o próprio aparelho todos os dias. O Acesso Guiado ou a fixação de app são mais rápidos para uma sessão de jogo compartilhada.
 
-## How do I make text and pictures bigger?
+## Como deixo o texto e as imagens maiores?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Aumente o texto e o tamanho da tela, depois confira se os botões ainda cabem na tela.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone e iPad.** Conforme as [instruções da Apple sobre tamanho da fonte](https://support.apple.com/en-us/102453), vá em **Ajustes > Tela e Brilho > Tamanho do Texto** e arraste o controle deslizante. Para um texto ainda maior, vá em **Ajustes > Acessibilidade > Tela e Tamanho do Texto > Texto Maior**. A Apple observa que um texto muito grande pode dificultar o toque em alguns botões, então ajuste se necessário.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Conforme a [ajuda do Google sobre configurações de texto e tela](https://support.google.com/accessibility/android/answer/11183305?hl=en), abra **Configurações** e procure **Tamanho da fonte**, depois mova o controle deslizante. Procure **Tamanho da tela** para deixar tudo na tela maior. Você também pode ativar **Texto em negrito** em **Acessibilidade > Tamanho da tela e texto**. Alguns aplicativos não seguem essas configurações.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+Em jogos como [Pares de imagens](/games/picture-pairs/) e [Encontre o igual](/games/find-the-same/), você também pode escolher menos peças ou opções, o que deixa a tela mais simples.
 
-## How do I stop notifications and pop-ups?
+## Como paro as notificações e os pop-ups?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Desligue as notificações dos aplicativos que você não precisa e use o Não Perturbe durante as atividades.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone e iPad.** Vá em **Ajustes > Notificações**, toque em um aplicativo abaixo de **Estilo de Notificação** e desligue **Permitir Notificações** ([guia da Apple sobre notificações](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). Para silenciar chamadas, alertas e notificações por um tempo, abra a Central de Controle e ative **Não Perturbe** pelo botão **Foco** ([ajuda da Apple sobre Não Perturbe](https://support.apple.com/en-us/105112)). Você pode programar em **Ajustes > Foco > Não Perturbe > Definir um Horário**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Deslize de cima para baixo a partir do topo da tela e toque em **Não perturbe**, ou vá em **Configurações > Modos > Não perturbe** ([ajuda do Google sobre Não perturbe](https://support.google.com/android/answer/9069335?hl=en)). Em **Filtros de notificação** você pode escolher quais pessoas e aplicativos ainda podem chegar até você. As configurações variam conforme o fabricante.
 
-## How do I make a simple home screen?
+## Como faço uma tela inicial simples?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Mantenha alguns aplicativos conhecidos em uma tela e tire o restante da vista. Não existe um ajuste único para isso; é uma questão de tirar o excesso.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Escolha de três a seis aplicativos.** Por exemplo, fotos, música, um aplicativo de videochamada e um jogo.
+- **Coloque-os na primeira tela,** sempre nos mesmos lugares, e mova todo o resto para uma segunda tela ou uma pasta.
+- **Use um papel de parede simples, de alto contraste,** como uma cor única ou uma foto conhecida, para que os ícones se destaquem.
+- **Apague os aplicativos que não são necessários.** Menos aplicativos significam menos chances de confusão e menos dados coletados.
+- **Considere o Acesso Assistido** nos aparelhos Apple, se quiser que o próprio aparelho faça isso por você.
 
-## What about volume and sound?
+## E o volume e o som?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Defina um volume confortável antes de entregar o aparelho. Com o Acesso Guiado, você pode desligar os botões de volume para que ele não mude no meio da atividade. Confira se o aparelho auditivo está colocado e funcionando.
 
-## Where should the tablet live?
+## Onde o tablet deve ficar?
 
-Give it a stand and a permanent charging spot.
+Dê a ele um suporte e um lugar fixo para carregar.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Um suporte ou capa** que mantenha o tablet em pé na mesa significa que ninguém precisa segurá-lo, e apontar fica mais fácil.
+- **Um lugar fixo para carregar** que nunca mude, de preferência um suporte de carregamento em uma mesa de um cômodo que vocês usem todo dia. O tablet fica sempre carregado e sempre no mesmo lugar.
+- **Reduza o reflexo.** Posicione a tela longe de uma janela muito iluminada.
 
-## How much screen time is okay?
+## Quanto tempo de tela é adequado?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Não existe um número certo de minutos. Procure sessões curtas e compartilhadas, como parte de um dia completo que também inclua movimento, música, tarefas domésticas, conversa e tempo ao ar livre. Como noites agitadas podem aumentar a inquietação no fim do dia, considere deixar as atividades de tela para o início do dia. Veja [atividades calmas no fim da tarde](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Usar o tablet juntos, em vez de como uma babá eletrônica, mantém a atividade social. Nosso guia sobre [como jogar juntos](/caregiving/how-to-play-together/) explica como fazer isso.
 
-## How do I protect their privacy on the device?
+## Como protejo a privacidade da pessoa no aparelho?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Limite o que os aplicativos podem coletar e não presuma que a lei de privacidade de saúde cobre tudo. O Departamento de Saúde e Serviços Humanos (HHS) dos EUA [explica](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) que as regras da HIPAA geralmente não protegem as informações de saúde guardadas em celulares e tablets pessoais ou acessadas por eles. Na maioria dos casos, a HIPAA também não protege os dados inseridos em aplicativos de uso pessoal, a menos que o aplicativo venha de um prestador de saúde coberto, de um plano de saúde ou de um de seus parceiros de negócios.
 
-HHS suggests:
+O HHS sugere:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- evitar aplicativos desnecessários ou aleatórios, sobretudo os “gratuitos”;
+- não dar aos aplicativos acesso à localização, a menos que realmente precisem, como mapas.
 
-Also consider:
+Considere também:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Use uma senha** no aparelho e anote-a em um lugar seguro.
+- **Revise as permissões** de fotos, câmera, microfone, contatos e localização, e desative as que o aplicativo não precisa.
+- **Confira o que um aplicativo coleta** antes de instalar. Nosso guia sobre [como escolher aplicativos e jogos para demência](/caregiving/choosing-apps-and-games/) tem uma lista de verificação de privacidade.
+- **Tenha cuidado com fotos da família.** Compartilhe apenas fotos com as quais a pessoa ficaria à vontade e saiba onde o aplicativo as guarda. Em [Pares de fotos](/games/photo-pairs/), as fotos que você escolhe ficam no seu navegador.
+- **Desative as compras dentro dos aplicativos** ou remova os dados de pagamento das contas que a pessoa usa.
