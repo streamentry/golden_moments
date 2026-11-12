@@ -1,31 +1,34 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Fahasembanan’ny fandrenesana sy loza dementia: izay asehon’ny fikarohana"
+seoTitle: "Fandrenesana sy dementia: izay hitan’ny fikarohana"
+description: "Nahoana ny fahasembanan’ny fandrenesana no loza amin’ny dementia, izay hitan’ny fitsapana ACHIEVE, ary ny fomba hanamarinana ny fandrenesana."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Ny Lancet Commission 2024 dia manamarika ny fahasembanan’ny fandrenesana ho
+  iray amin’ireo loza dementia azo ovaina lehibe indrindra. Tao amin’ny fitsapana
+  ACHIEVE, ny fanampim-pandrenesana tsy nampihena ny fihenan’ny fisainana amin’ny
+  ankapobeny, na dia ny vondrona manana loza ambony kokoa aza dia nampiseho
+  fihenana kely kokoa. Ny fanampim-pandrenesana dia manampy ny resaka sy ny fiainana
+  andavanandro na izany aza. Jereo ny fandrenesanao, mety ny fanampim-pandrenesana
+  voasoratra na tsy voasoratra, ary resaho amin’ny dokotera.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Ny Lancet Commission dia manombana fa ny fahasembanan’ny fandrenesana dia mahatonga 7% eo ho eo amin’ny dementia manerantany, mitovy amin’ny cholesterol LDL avo ho an’ny anjara lehibe indrindra amin’ny loza 14."
+  - "Tao amin’ny fitsapana ACHIEVE tamin’ny olona antitra 977, ny fanampim-pandrenesana dia tsy nanova ny fihenan’ny fisainana nandritra ny telo taona amin’ny ankapobeny."
+  - "Tao amin’ny vondrona kely kokoa sy manana loza avo kokoa ao amin’ny ACHIEVE, ny fihenan’ny fisainana dia 48% miadana kokoa miaraka amin’ny fanampim-pandrenesana; ilaina ny fanamarinana izany."
+  - "Hatramin’ny Oktobra 2022, ny olona amerikana manana fahasembanan’ny fandrenesana maivana ka mahamaro izay mihevitra azy ho toy izany dia afaka mividy fanampim-pandrenesana FDA no fehezina tsy misy fanoratana fanafody."
+  - "Ny fahasembanan’ny fahitana tsy voatsabo dia nampidirina ho loza dementia vaovao tamin’ny 2024, ka zava-dehibe koa ny fanadinana ny maso."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Misakana ny dementia ve ny fanampim-pandrenesana?"
+    a: "Tsy naporofo izany. Ny fitsapana ACHIEVE dia tsy nahita fiantraikany ankapobeny amin’ny fihenan’ny fisainana nandritra ny telo taona, na dia ny vondrona iray manana loza avo kokoa aza dia nanao tsara kokoa. Mbola azo heverina ny fanampim-pandrenesana satria manampy amin’ny resaka, ny fiarovana ary ny fiainana andavanandro."
+  - q: "Iza no afaka mividy fanampim-pandrenesana tsy voasoratra?"
+    a: "Ny FDA dia mamela olona lehibe 18 taona ka mihoatra izay mihevitra fa manana fahasembanan’ny fandrenesana maivana ka mahamaro, hividy fanampim-pandrenesana OTC any amin’ny magazay na an-tserasera tsy misy fanoratana. Tsy natao ho an’ny fahasembanan’ny fandrenesana mafy izy ireo. Ny olona manana fanaintainan-tsofina, rano avy amin’ny tsofina, filoha-tsaina na fiovana tampoka amin’ny fandrenesana dia tokony hijery dokotera aloha."
+  - q: "Mety ho toy ny dementia ve ny fahasembanan’ny fandrenesana?"
+    a: "Indraindray. Ny National Institute on Aging dia manamarika fa ny olona antitra izay tsy afaka mandre tsara dia indraindray diovan’ny olona ho very saina na tsy mihetsika na tsy mifanaraka. Ny fanamarinana ny fandrenesana dia dingana mahitsy raha toa ka mialoha-tena ny olona na tsy mahatsapa izay lazaina."
+  - q: "Firy no tokony hanamarinana ny maso ny olona antitra?"
+    a: "Ny National Institute on Aging dia manoro hevitra fanadinana maso misy fanamaivanana ny mason-tsoka isan-taona na roa taona aorian’ny 60 taona, na araka ny torolalan’ny manam-pahaizana momba ny maso. Ny olona manana diabeta na tosidra ra avo dia matetika mila fanadinana farafahakeliny indray isan-taona."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +53,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Ny fahasembanan’ny fandrenesana dia mahazatra amin’ny fiainana any aoriana, ary mandray azy tsara ny mpikaroka ho loza dementia. Tsy midika izany fa porofo naseho ho fomba fisakanana ny dementia ny fanampim-pandrenesana; ny fitsapana tsara indrindra hatramin’izao dia nanana valiny samy hafa. Ity pejy ity dia manazava izay asehon’ny fikarohana, ny fomba hanamarinana ny fandrenesana, izay fanampim-pandrenesana tsy voasoratra any Etazonia, ary ny fomba hanamorana ny resaka.
 
-## Why does hearing matter for brain health?
+## Nahoana no zava-dehibe ny fandrenesana ho an’ny atidoha?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Ny fahasembanan’ny fandrenesana dia mifandray amin’ny loza ambony kokoa amin’ny dementia. Ny [Lancet Commission 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) dia manombana fa mahatonga 7% eo ho eo amin’ny dementia manerantany izany. Izany dia mampitovy azy amin’ny cholesterol LDL avo amin’ny anjara lehibe indrindra amin’ireo loza 14 azo ovaina ao amin’ny modely an’ny Commission, araka ny [fintinin’ny UCL momba ny tatitra](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Ireto ny hita lehibe avy amin’ny Commission:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Loza ambony rehefa misy fahasembanan’ny fandrenesana.** Tao amin’ny famintinana natambatra tamin’ny fianarana kalitao avo enina, ny olona manana fahasembanan’ny fandrenesana dia nanana loza ambony eo ho eo 37% amin’ny dementia raha oharina amin’ny olona mandre tsara.
+- **Be ny fahasembanana, be ny loza.** Ny fianarana izay nijery ny habetsahan’ny fahasembanana dia nahita fa miakatra ny loza rehefa mihamaizina ny fandrenesana.
+- **Antony azo tsapain-tsaina, tsy voaporofo mazava.** Ny hevitra dia ahitana ny fahakiviana sy ny fitokana, ny fahaketrahana, ny tsy fahampian’ny fanentanana ho an’ny atidoha, ary ny ezaka saina fanampiny izay ilain’ny fihainoana.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Ny fahasembanan’ny fandrenesana dia mahazatra. Ny [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) dia milaza fa eo ho eo ampahatelon’ny olona antitra no manana izany, ary miakatra ny mety hisy izany rehefa mihamaro taona.
 
-## What did the ACHIEVE hearing aid trial find?
+## Inona no hitan’ny fitsapana fanampim-pandrenesana ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE no fitsapana randomized voalohany momba ny fanampim-pandrenesana sy ny fihenan’ny fisainana. Matetika tsy voalaza marina ny valiny, ka ito ny antsipiriany avy amin’ny [tatitra navoaka momba ny fitsapana](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/):
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Iza no nandray anjara:** olona lehibe 977 taona 70 ka hatramin’ny 84 izay manana fahasembanan’ny fandrenesana tsy voatsabo ary tsy manana olana lehibe amin’ny fisainana, tao amin’ny toerana fiaraha-monina efatra any Etazonia.
+- **Inona no nampitahaina:** ny antsasany nahazo fanampim-pandrenesana miaraka amin’ny fivoriana fampianarana amin’ny audiologist. Ny antsasany kosa nahazo programa fampianarana momba ny fiantombohan’ny fahasalamana.
+- **Valin’ny fitsapana lehibe:** aorian’ny telo taona, **tsy nisy fahasamihafana** amin’ny fihenan’ny fisainana eo amin’ny vondrona roa amin’ny ankapobeny.
+- **Valin’ny vondrona kely:** nandray fitsapana avy amin’ny loharano roa ny fitsapana. 238 olona avy amin’ny fianarana fahasalaman’ny fo naharitra (ARIC), ary ho vondrona dia nanana loza ambony kokoa amin’ny fihenan’ny fisainana. Ao amin’io vondrona io, ny fihenana dia **48% miadana kokoa** miaraka amin’ny fanampim-pandrenesana. Tao amin’ny mpandray anjara fanampiny 739 izay mpiasa an-tsitrapo fiaraha-monina salama, tsy nisy fiantraikany mazava hita.
 
-How to read this honestly:
+Hamaky izany amim-pahamarinana:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Ny valiny ankapobeny dia tsy nisy fiantraikany.
+- Ny hitan’ny vondrona kely dia voalaza talohan’ny fanatanterahana, fa avy amin’ny famakafakana faharoa momba ny vondrona kely kokoa. Ilaina ny fanamarinana amin’ny fianarana hafa.
+- Fantatry ny mpandray anjara izay programa niandrasany, ary mety hisy fiantraikany amin’ny valiny izany.
+- Ny Lancet Commission dia mamaky ny porofo amin’ny fomba hilazana fa ny fanampim-pandrenesana dia toa tena manampy indrindra amin’ny olona manana fahasembanan’ny fandrenesana miaraka amin’ny loza dementia hafa.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Ny famintinana farany dia tsy fomba naporofo fisorohana ny dementia ny fanampim-pandrenesana. Manampy azy ireo ny olona hihaino, hanatrika resaka ary hitazona ny fifandraisana, izay antony ampy hieritreretana azy ireo.
 
-## How do I know if hearing should be checked?
+## Ahoana no fahafantarana raha tokony hojerena ny fandrenesana?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+Ny NIA dia manoro hevitra ny hijery dokotera raha ianao na olona tianao miandraikitra anao:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Manana sarotra amin’ny fahatakarana olona amin’ny telefaona
+- Sarotra ny manaraka resaka rehefa olona roa na mihoatra no miteny
+- Matetika manontany olona mba hiverina hilaza
+- Mampiakatra ny TV mafy dia mafy be ka misy mitaraina
+- Sarotra ny mahatakatra feo rehefa misy feo fanaovan-tsakana
+- Mieritreritra fa mikomkomy ny olona hafa
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Manomboka amin’ny dokotera fitsaboana voalohany, izay mety hampita anao any amin’ny audiologist (manam-pahaizana momba ny fandrenesana) na dokotera ny sofina, ny orony ary ny vava. Ny fahalotan’ny tsofina dia antony iray mahazatra amin’ny fahasembanan’ny fandrenesana izay azon’ny dokotera jerena. **Ny fahasembanan’ny fandrenesana tampoka dia fanamby ara-pitsaboana**, ary ny NIA dia manoro hevitra ny hijery dokotera avy hatrany.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Ny fahasembanan’ny fandrenesana dia mety ho diovina ho fikorontanana. Ny NIA dia manamarika fa ny olona antitra izay tsy afaka mandre tsara dia indraindray diovan’ny olona ho very saina, tsy mamaly na tsy mifanaraka. Raha toa mialoha-tena ny olona tianao na tsy mahatsapa izay lazaina, dia fanamarinana ny fandrenesana no dingana tsara voalohany.
 
-## What are over-the-counter hearing aids?
+## Inona no fanampim-pandrenesana tsy voasoratra?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Hatramin’ny Oktobra 17, 2022, ny [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) dia namela sokajy fanampim-pandrenesana tsy voasoratra (OTC). Ito ny fampitahana azy amin’ny fanampim-pandrenesana voasoratra:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Lohahevitra | Fanampim-pandrenesana OTC | Fanampim-pandrenesana voasoratra |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Ho an’iza izy | Olona lehibe 18 taona ka mihoatra izay mihevitra fa fahasembanan’ny fandrenesana maivana ka mahamaro | Ny habe rehetra amin’ny fahasembanan’ny fandrenesana, na taona inona na inona |
+| Ny fomba mahazo azy | Magazay na an-tserasera, tsy mila fitsapana na fanoratana | Amin’ny alalan’ny manam-pahaizana mahazo alalana momba ny fandrenesana |
+| Fanamafisana | Ianao no manova ny fikirizany, matetika amin’ny app | Manam-pahaizana no manamafy azy ho an’ny fandrenesanao |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+Ny FDA dia milaza fa tsy natao ho an’ny fahasembanan’ny fandrenesana mafy na lalina ny fanampim-pandrenesana OTC. Manoro hevitra izy ny hijery dokotera, indrindra fa dokotera momba ny sofina, ny orony ary ny vava, alohan’ny hividianana raha manana:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Fanaintainan’ny sofina na fanaintainana
+- Rano, pus na ran-dra avy amin’ny sofina tamin’ny enim-bolana farany
+- Fiovana tampoka na mivalona amin’ny fandrenesana
+- Fandrenesana mafy kokoa amin’ny sofina iray, na fikirikiriana amin’ny sofina iray fotsiny
+- Filoha-tsaina na vertigo
+- Be dia be ny lahan-tsofina
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Ny fampiasana fanampim-pandrenesana dia mila fanazarana, ka jereo ny politika fiverenana alohan’ny hividianana, araka ny toro-hevitra FDA. Ny NIA dia manoro hevitra ny hanontanianao raha manome ampahany amin’ny vidiny ny fanomezan-toky-nyanao. Ho an’ny olona manana dementia, audiologist dia afaka manampy hanapa-kevitra izay karazana fanampim-pandrenesana sy fametrahana mora kokoa tantanana isan’andro.
 
-## How can I talk more easily with someone who has hearing loss?
+## Ahoana no fomba hiresahana kokoa amin’ny olona manana fahasembanan’ny fandrenesana?
 
-The NIA suggests:
+Ny NIA dia manoro hevitra:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Mijery ny olona ary mijanona miaraka amin’ny fijerena maso**, amin’ny mazava tsara, mba hahitany ny lela sy ny endri-tarehinao.
+2. **Mitady toerana mangina.** Afaharo ny TV na mandehana any amin’ny feo.
+3. **Miteny mafy kely, fa aza mikiakiaka.** Miteny araka ny natiora sy amin’ny hafainganana mahamety.
+4. **Tazomina madio ny vavanao.** Aza mihinana, mihinana sakafo na manarona ny vavanao rehefa miteny.
+5. **Avereno amin’ny teny hafa fa aza averina ihany** rehefa tsy voaheno zavatra.
+6. **Olona iray isaky ny fotoana.** Ao amin’ny vondrona, ataovy tanjona ny hampidirana ilay olona.
+7. **Miezaha ho mahari-po ary anontanio hoe ahoana no ahafahanao manampy.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Ireto toro-hevitra ireto dia mifanaraka tsara amin’ny [toro-hevitra momba ny fifandraisana amin’ny dementia](/caregiving/communication-tips/). Ny hetsika mifototra amin’ny sary koa dia mampihena ny fanerena amin’ny fihainoana. [Fitambarana sary](/games/picture-pairs/) sy [Karatra fifampiresahana](/games/conversation-cards/) dia miasa amin’ny zavatra hitanao, ary [Mamita ny ohabolana](/games/finish-the-saying/) ahafahanao mampiseho ny faran’ny teny fa tsy milaza azy. Ho an’ny antso, jereo ny torolalanay momba ny [antso telefaona sy video](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Fahitana koa no zava-dehibe
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Tamin’ny 2024 ny Lancet Commission dia nampiditra ny fahasembanan’ny fahitana tsy voatsabo ho loza vaovao amin’ny dementia. Ny fintinin’ny UCL dia milaza azy ho 2% eo ho eo amin’ny tranga dementia, ary ny Commission dia manoro hevitra ny hanome fanadinana sy fitsaboana ho an’ny olona rehetra amin’ny olana amin’ny fahitana. Ny [NIA dia manoro hevitra](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) ny fanadinana maso misy fanamaivanana ny mason-tsoka isan-taona na roa taona aorian’ny 60 taona, ary ny fanamarinana ny fanampin-tsary ihany koa. Na ny fiovana kely amin’ny fahitana dia afaka mampitombo ny loza amin’ny fianjerana.
 
-## Talk with a doctor
+## Miresaha amin’ny dokotera
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Anontanio dokotera momba ny fanamarinana ny fandrenesana sy ny maso raha mahita famantarana iray amin’ireo etsy ambony. Mitady fitsaboana avy hatrany raha misy fahasembanan’ny fandrenesana tampoka, fanaintainan’ny sofina, na rano avy amin’ny sofina. Raha mikarakara olona manana dementia ianao, lazao ny dokotera azy ny fiovana amin’ny fandrenesana na amin’ny maso, izay mety hisy fiantraikany amin’ny toe-tsaina, ny fiarovana ary ny fahaizan’ny olona hiditra amin’ny fifanerasera.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Ity pejy ity dia vaovao ankapobeny, fa tsy torolalana ara-pitsaboana. Jereo ny [fampitandremana ara-pitsaboana](/medical-disclaimer/). Vakio koa momba ny [fifandraisana ara-tsosialy sy ny fahasalaman’ny atidoha](/brain-health/social-connection/).
