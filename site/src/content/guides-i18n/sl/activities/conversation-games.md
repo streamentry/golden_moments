@@ -58,7 +58,7 @@ V običajnem kvizu eden sprašuje, drugi mora vedeti. To postavi osebo z demenco
 
 1. **Izberite temo** iz življenja osebe, na primer kuhinja, vrt, živali ali morje.
 2. **Naj nekaj izbere** in to tiho pove ali pokaže sliko na kartici, da vam ni treba slišati.
-3. **Postavljajte eno vprašanje naenkrat, na katero se odgovarja z da ali ne.** »Ali je to nekaj, kar se je? « »Ali je večje od čevlja?«
+3. **Postavljajte eno vprašanje naenkrat, na katero se odgovarja z da ali ne.** »Ali je to nekaj, kar se je?« »Ali je večje od čevlja?«
 4. **Sprejmite vsak odgovor.** Kimanje, odkimavanje ali smeh štejejo.
 5. **Ugibajte na glas in uživajte.** Če uganete, skupaj proslavite.
 6. **Ponudite namige,** kadar se oseba zatakne: »To je nekaj v kuhinji.«
