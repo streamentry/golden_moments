@@ -1,36 +1,35 @@
 ---
-title: "When Someone with Dementia Asks the Same Question Again and Again"
-seoTitle: "Dementia Repeating Questions: What to Say and Do"
-description: "Why a person living with dementia asks the same question over and over, calm ways to answer, simple tools that help, and when a sudden change needs a doctor."
+title: "Kad cilvēks ar demenci jautā to pašu atkal un atkal"
+seoTitle: "Demences atkārtoti jautājumi: ko teikt un darīt"
+description: "Kāpēc cilvēks ar demenci atkārtoti jautā vienu un to pašu, kā maigi atbildēt, kādi rīki palīdz un kad pēkšņas izmaiņas prasa ārsta palīdzību."
 section: caregiving
 order: 9
 updated: 2026-10-31
 translatedFrom: 2026-10-31
 summary: >-
-  Repeated questions are common in dementia: the person usually does not
-  remember asking, and the question often carries a worry. Answer calmly and
-  briefly as if for the first time, respond to the feeling behind it, and never
-  say "you already asked." Write the answer where they can see it, mention
-  events only shortly before, and offer an enjoyable activity. A sudden change
-  needs a doctor.
+  Atkārtoti jautājumi demencē ir bieži: cilvēks parasti neatceras, ka jau jautājis,
+  un jautājums bieži nes kādu bažu. Atbildiet mierīgi un īsi, it kā pirmo reizi,
+  reaģējiet uz sajūtu aiz jautājuma un nekad neteiciet „jūs jau jautājāt”. Uzrakstiet
+  atbildi tur, kur to var redzēt, pieminiet notikumus tikai neilgi pirms tiem un
+  piedāvājiet patīkamu aktivitāti. Pēkšņas izmaiņas prasa ārstu.
 keyPoints:
-  - "The person usually does not remember asking; it is not on purpose."
-  - "The question often hides a feeling, such as worry about an appointment or wanting to feel safe."
-  - "Answer calmly, briefly and kindly, as if it were the first time. Never say \"you already asked.\""
-  - "A note, whiteboard, clock or calendar in view can answer the question for you."
-  - "Mention stressful events only shortly before they happen."
-  - "Take a short break when you need one, and call a doctor about any sudden change."
+  - "Cilvēks parasti neatceras, ka jau jautājis; tas nav tīšām."
+  - "Jautājums bieži slēpj sajūtu, piemēram, bažas par vizīti vai vēlmi justies drošībā."
+  - "Atbildiet mierīgi, īsi un laipni, it kā pirmo reizi. Nekad neteiciet „jūs jau jautājāt”."
+  - "Piezīme, tāfele, pulkstenis vai kalendārs redzamā vietā var atbildēt uz jautājumu jūsu vietā."
+  - "Stresainus notikumus pieminiet tikai neilgi pirms tiem."
+  - "Ja nepieciešams, dodiet sev īsu pārtraukumu, un zvaniet ārstam par jebkuru pēkšņu izmaiņu."
 faq:
-  - q: "Why does my dad with dementia keep asking the same question?"
-    a: "Dementia affects short-term memory, so he may truly not remember asking or hearing the answer. Often the question also carries a feeling, such as worry about what happens next or a need for reassurance. Answering that feeling usually helps more than repeating the facts."
-  - q: "Should I tell them they already asked?"
-    a: "No. It cannot help them remember and it can feel like a correction. Dementia organizations advise answering calmly each time, as if for the first time, and keeping the answer short."
-  - q: "Does writing the answer down help?"
-    a: "It can, while the person can still read. A note, a whiteboard with today's plan, a large clock or a calendar where they often look lets them check the answer themselves. Point to it gently rather than saying \"I told you.\""
-  - q: "When should I talk about appointments or outings?"
-    a: "Close to the time. Mentioning a doctor's visit or a trip days ahead can turn into hours of worried questions. Tell them shortly before, calmly, with what will happen next."
-  - q: "When is repetition a reason to call a doctor?"
-    a: "If questions, confusion or behavior change suddenly or get much worse over hours or days, call their doctor promptly. Infection, a new medicine, pain, constipation or dehydration can cause sudden confusion called delirium, which needs quick care."
+  - q: "Kāpēc mans tēvs ar demenci jautā vienu un to pašu jautājumu?"
+    a: "Demence ietekmē īstermiņa atmiņu, tāpēc viņš patiesi var neatcerēties, ka jautājis, vai neatcerēties atbildi. Bieži jautājumam ir arī sajūta, piemēram, bažas par to, kas notiks tālāk, vai vajadzība pēc nomierinājuma. Atbilde uz šo sajūtu parasti palīdz vairāk nekā faktu atkārtošana."
+  - q: "Vai man vajadzētu teikt, ka viņi jau jautāja?"
+    a: "Nē. Tas nepalīdz atcerēties, un tas var izskatīties pēc labojuma. Demences organizācijas iesaka katru reizi atbildēt mierīgi, it kā pirmo reizi, un turēt atbildi īsu."
+  - q: "Vai atbildes uzrakstīšana palīdz?"
+    a: "Var palīdzēt, kamēr cilvēks vēl spēj lasīt. Piezīme, tāfele ar šodienas plānu, liels pulkstenis vai kalendārs, kur viņš bieži skatās, ļauj pārbaudīt atbildi pašam. Norādiet uz to maigi, nevis sakot „es tev teicu”."
+  - q: "Kad runāt par vizītēm vai izbraukumiem?"
+    a: "Tuvu laikam. Ja par ārsta vizīti vai braucienu runājat dienas iepriekš, tas var pārvērsties stundām ilgos jautājumos ar bažām. Pastāstiet neilgi pirms tam, mierīgi, paskaidrojot, kas notiks tālāk."
+  - q: "Kad atkārtošanās ir iemesls zvanīt ārstam?"
+    a: "Ja jautājumi, apjukums vai uzvedības izmaiņas pēkšņi rodas vai ievērojami pasliktinās stundu vai dienu laikā, nekavējoties sazinieties ar ārstu. Infekcija, jauna zāle, sāpes, aizcietējums vai dehidratācija var izraisīt pēkšņu apjukumu, ko sauc par deliriju, un tas prasa ātru palīdzību."
 sources:
   - title: "Repetition"
     publisher: "Alzheimer's Association"
@@ -58,67 +57,67 @@ related: [caregiving/asking-to-go-home, caregiving/communication-tips, caregivin
 health: false
 ---
 
-"What time is the doctor?" Ten minutes later: "What time is the doctor?" Hearing the same question again and again is one of the most tiring parts of caring for someone living with dementia. It is very common, it is not done on purpose, and there are calm ways to answer that make the day easier for both of you.
+„Cikos ir ārsta vizīte?” Desmit minūtes vēlāk: „Cikos ir ārsta vizīte?” Dzirdēt vienu un to pašu jautājumu atkal un atkal ir viena no nogurdinošākajām lietām, rūpējoties par cilvēku ar demenci. Tas ir ļoti bieži, tas nenotiek tīšām, un ir maigi veidi, kā atbildēt, kas padara dienu vieglāku abiem.
 
-## Why does someone with dementia ask the same question over and over?
+## Kāpēc cilvēks ar demenci jautā vienu un to pašu atkal un atkal?
 
-Mostly because of memory. Dementia affects short-term memory, so the person often does not remember asking, or does not remember the answer. The [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) describes asking questions many times as common and expected.
+Galvenokārt atmiņas dēļ. Demence ietekmē īstermiņa atmiņu, tāpēc cilvēks bieži neatceras, ka jau jautājis, vai neatceras atbildi. [Alzheimer's Foundation of America](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/) raksturo jautājumu atkārtošanu daudzas reizes kā ierastu un gaidāmu.
 
-The question often carries a feeling too. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) explains that a repeated question may express a worry, a request for help, or anxiety and insecurity, and that the person is often looking for comfort and familiarity. "When are we going?" may really mean "I'm nervous about going." Boredom, fear, noise and changes in routine can all set it off, and a repeated question can also signal a need, such as the bathroom ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
+Jautājumam bieži ir arī sajūta. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) skaidro, ka atkārtots jautājums var izteikt bažas, lūgumu pēc palīdzības vai trauksmi un nedrošību, un cilvēks bieži meklē mierinājumu un pazīstamību. „Kad mēs dosimies?” patiesībā var nozīmēt „Es uztraucos par to”. Garlaicība, bailes, troksnis un izmaiņas ikdienas ritmā var to izraisīt, un atkārtots jautājums var norādīt arī uz vajadzību, piemēram, pēc tualetes ([Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)).
 
-## What should I say?
+## Ko teikt?
 
-Answer calmly and briefly, as if it were the first time.
+Atbildiet mierīgi un īsi, it kā pirmo reizi.
 
-- **Keep the answer short and the same.** "The doctor is at two o'clock. I'll be with you." A consistent answer is easier to take in.
-- **Answer the feeling.** "You're wondering about the doctor. It's this afternoon, and I'll drive us. There's nothing you need to do."
-- **Use a warm voice and gentle touch,** if they like touch. The Alzheimer's Association advises staying calm and not using logic or arguing.
-- **Give the answer they are looking for,** as often as needed. The Alzheimer's Association says to repeat it as many times as they ask.
+- **Turiet atbildi īsu un vienmēr vienādu.** „Ārsts ir pulksten divos. Es būšu kopā ar jums.” Vienāda atbilde ir vieglāk uztverama.
+- **Atbildiet uz sajūtu.** „Jūs domājat par ārstu. Tas būs šodien pēcpusdienā, un es jūs aizvedīšu. Jums nav nekas jādara.”
+- **Silta balss un maigs pieskāriens,** ja cilvēks to pieņem. Alzheimer's Association iesaka saglabāt mieru un nelietot loģiku vai nestrīdēties.
+- **Sniedziet atbildi, ko viņš meklē,** tik bieži, cik vajadzīgs. Alzheimer's Association norāda, ka atbildi var atkārtot tik reizes, cik viņš jautā.
 
-## What should I avoid?
+## Ko izvairīties teikt?
 
-- **"You already asked me that."** The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against pointing out that they just asked. It cannot help them remember, and it can feel like being told off.
-- **Long explanations.** More words give more to forget.
-- **Sighing, eye-rolling or a sharp tone.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) advises patience and not showing frustration. That is hard; see the section on breaks below.
+- **„Jūs jau to jautājāt.”** [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) iesaka neatgādināt, ka viņi tikko jautāja. Tas nepalīdz atcerēties, un tas var izskatīties pēc rājiena.
+- **Garus skaidrojumus.** Vairāk vārdu nozīmē vairāk aizmirstamā.
+- **Nopūtas, acu pārvelšana vai ass tonis.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) iesaka būt pacietīgam un neparādīt vilšanos. Tas ir grūti; skatiet tālāk sadaļu par pārtraukumiem.
 
-## Simple tools that answer the question for you
+## Vienkārši rīki, kas atbild uz jautājumu jūsu vietā
 
-While the person can still read, a written answer they can see often helps more than a spoken one.
+Kamēr cilvēks vēl spēj lasīt, rakstīta atbilde, ko var redzēt, bieži palīdz vairāk nekā mutiska.
 
-| Tool | How to use it |
+| Rīks | Kā to lietot |
 | --- | --- |
-| A note in big letters | "Doctor today at 2 pm. Mary will drive." Put it where they look most |
-| A whiteboard | Today's plan in three or four lines; wipe and rewrite each morning |
-| A large clock with the day and date | Helps with "What day is it?" and "Is it time yet?" |
-| A calendar | Cross off each day; circle the next visit |
-| Familiar photos | A photo of the person who is coming can answer "Who's visiting?" |
+| Piezīme lielos burtos | „Ārsts šodien pulksten 14. Marija vedīs.” Novietojiet to vietā, kur viņš visbiežāk skatās |
+| Tāfele | Šodienas plāns trīs vai četrās rindās; katru rītu noslaukiet un pārrakstiet |
+| Liels pulkstenis ar dienu un datumu | Palīdz atbildēt uz „Kāda diena šodien?” un „Vai jau ir laiks?” |
+| Kalendārs | Svītrojiet katru pagājušo dienu; apvelciet nākamo vizīti |
+| Pazīstamas fotogrāfijas | Cilvēka, kas nāk, fotogrāfija var atbildēt uz „Kas ciemos?” |
 
-These ideas come from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) and [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Point to the note gently ("Let's look at the board together") rather than saying "I wrote it down for you."
+Šīs idejas nāk no [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition) un [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). Norādiet uz piezīmi maigi („Apskatīsimies tāfeli kopā”), nevis sakot „Es to uzrakstīju jums”.
 
-## Tell them about events close to the time
+## Stāstiet par notikumiem tuvu laikam
 
-Mentioning an appointment or outing days ahead can turn into hours of worried questions. The Family Caregiver Alliance and Alzheimer's Los Angeles both suggest talking about plans, especially stressful ones such as doctor's visits or bathing, only shortly before they happen. Then say what will happen next, one step at a time.
+Ja par tikšanos vai izbraukumu runājat dienas iepriekš, var rasties stundām ilgi jautājumi ar bažām. Family Caregiver Alliance un Alzheimer's Los Angeles abi iesaka runāt par plāniem, īpaši par stresainiem, piemēram, ārsta vizītēm vai mazgāšanos, tikai neilgi pirms tiem. Tad pastāstiet, kas notiks tālāk, pa vienam solim.
 
-## Activities that can shift attention
+## Aktivitātes, kas var novirzīt uzmanību
 
-Once you have answered and acknowledged the feeling, a calm, enjoyable activity can help, especially if boredom is behind the questions. Every source above suggests redirecting to something the person likes.
+Kad esat atbildējis un atzinis sajūtu, mierīga, patīkama aktivitāte var palīdzēt, īpaši, ja aiz jautājumiem slēpjas garlaicība. Katrs iepriekš minētais avots iesaka novirzīt uzmanību uz to, ko cilvēks mīl.
 
-1. **A short, easy game together.** [Picture pairs](/games/picture-pairs/) keeps the pictures showing, so nothing has to be remembered.
-2. **A familiar job.** Folding towels, sorting socks or setting the table. [Sort together](/games/sort-together/) is an on-screen version.
-3. **Talk about something they love.** [Conversation cards](/games/conversation-cards/) give open prompts with no right answers.
-4. **Music, a walk or a snack.** The National Institute on Aging lists these among simple ways to redirect.
-5. **A quiet pause.** Sit together, look out of the window, or try a shared [calm breathing](/games/calm-breathing/) moment.
+1. **Īsa, vienkārša spēle kopā.** [Attēlu pāri](/games/picture-pairs/) attēli paliek redzami, tāpēc nekas nav jāatceras.
+2. **Pazīstams darbs.** Dvieļu salocīšana, zeķu kārtošana vai galda klāšana. [Kopā sakārtot](/games/sort-together/) ir ekrāna versija.
+3. **Runājiet par to, ko viņš mīl.** [Sarunu kārtis](/games/conversation-cards/) piedāvā atvērtus jautājumus bez pareizām atbildēm.
+4. **Mūzika, pastaiga vai uzkoda.** National Institute on Aging min šos starp vienkāršiem veidiem, kā novirzīt uzmanību.
+5. **Klusa pauze.** Sēdiet kopā, skatieties pa logu vai izmēģiniet kopīgu [mierīgās elpošanas](/games/calm-breathing/) brīdi.
 
-If they return to the question, answer it again, kindly. That is fine.
+Ja viņi atgriežas pie jautājuma, atbildiet vēlreiz, laipni. Tas ir pilnīgi kārtībā.
 
-## Look for patterns
+## Meklējiet modeļus
 
-The Alzheimer's Association suggests noticing whether the questions come at certain times of day, around certain people or in certain places. If they always start before visitors arrive, or in the late afternoon, you can plan ahead: a note about the visit, a familiar activity ready, a quieter room. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) may help if evenings are hardest.
+Alzheimer's Association iesaka pamanīt, vai jautājumi rodas noteiktā dienas laikā, ap noteiktiem cilvēkiem vai noteiktās vietās. Ja tie vienmēr sākas pirms apmeklētāju ierašanās vai vēlā pēcpusdienā, varat plānot iepriekš: piezīme par vizīti, gatava pazīstama aktivitāte, klusāka istaba. Mūsu ceļvedis par [mierīgām aktivitātēm vēlā pēcpusdienā](/caregiving/late-day-restlessness/) var palīdzēt, ja vakari ir visgrūtākie.
 
-## Take care of yourself
+## Rūpējieties par sevi
 
-Answering the same question for the twentieth time is exhausting. If you feel your patience running out and the person is safe, step into another room for a few minutes and breathe, as [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf) suggests. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) encourages caregivers to ask for help and consider respite care. More ideas are in our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Atbildēt uz vienu un to pašu jautājumu divdesmitajo reizi ir noguldinoši. Ja jūtat, ka jūsu pacietība izsīkst, bet cilvēks ir drošībā, uz dažām minūtēm dodieties uz citu istabu un ieelpojiet, kā iesaka [Alzheimer's Los Angeles](https://eastonad.ucla.edu/sites/default/files/media/documents/Caregiver-Tip-Sheets_Repeating-AlzLA-2018-2021.pdf). [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) mudina aprūpētājus lūgt palīdzību un apsvērt atelpas aprūpi. Vairāk ideju ir mūsu [aprūpētāja pašaprūpes ceļvedī](/caregiving/caregiver-self-care/).
 
-## When should I call a doctor?
+## Kad vērsties pie ārsta?
 
-Call their doctor promptly if questions, confusion or behavior change suddenly or get much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or fast-changing behavior, especially after an infection or a medicine change, should be brought to a doctor's attention right away. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) explains that infection, medicines, dehydration, pain or constipation can cause delirium, a sudden, severe confusion that needs quick treatment. Call 911 if anyone is in danger.
+Sazinieties ar ārstu nekavējoties, ja jautājumi, apjukums vai uzvedības izmaiņas pēkšņi rodas vai ievērojami pasliktinās stundu vai dienu laikā. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) norāda, ka pēkšņas vai strauji mainīgas uzvedības izmaiņas, īpaši pēc infekcijas vai zāļu maiņas, nekavējoties jānodod ārsta uzmanībai. [Dementia Australia](https://www.dementia.org.au/living-dementia/mood-and-behaviour-changes/delirium) skaidro, ka infekcija, zāles, dehidratācija, sāpes vai aizcietējums var izraisīt deliriju, pēkšņu un smagu apjukumu, kam nepieciešama ātra ārstēšana. Ja kāds ir apdraudēts, zvaniet vietējiem ārkārtas dienestiem.

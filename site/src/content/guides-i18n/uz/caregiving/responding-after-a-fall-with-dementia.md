@@ -51,7 +51,7 @@ Inson hushyorligini, jarohat yoki sogʻliqning yomonlashganini va odatdagidek ja
 
 - **Mahalliy shoshilinch xizmatga murojaat qiling**, agar bu jiddiy belgilardan biri boʻlishi mumkin boʻlsa. Dispetcherning koʻrsatmalariga amal qiling.
 - **Insonni qulay va iliq saqlang** yordam kutayotganda. Jiddiy jarohat ehtimoli bor boʻlsa yoki xavfsiz ekanligiga ishonchingiz boʻlmasa, uni harakatlantirmang.
-- **Imkon boʻlsa, yoniда qoling.** Qisqa va xotirjam soʻzlar ishlating. Nima boʻlganini soʻrab siqmang va turishni majburlamang.
+- **Imkon boʻlsa, yonida qoling.** Qisqa va xotirjam soʻzlar ishlating. Nima boʻlganini soʻrab siqmang va turishni majburlamang.
 - **Inson ogʻrigan, jarohatlangan yoki sogʻligi yomon boʻlsa, lekin darhol xavf boʻlmasa,** koʻrsatma uchun mahalliy shoshilinch tibbiy maslahatga yoki sogʻliqni saqlash mutaxassisiga murojaat qiling.
 
 Insonni yolgʻiz oʻzingiz koʻtarishga yoki olib ketishga urinmang. Agar yiqilishga oid parvarish rejasi boʻlsa, uni faqat hozirgi vaziyatga mos kelsagina bajaring; inson jiddiy jarohat olgan boʻlishi mumkin boʻlsa, shoshilinch yordam chaqiring.

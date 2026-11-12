@@ -1,7 +1,7 @@
 ---
 title: "Demensiyali insonda ogʻriqni aniqlash"
 seoTitle: "Demensiya va ogʻriq: belgilar va nima qilish kerak"
-description: "Demensiya bilan ogʻriqni aytish qiyin boʻlishi mumkin. Oʻzgarishlarga eʼtibor bering, tanish soʻzlar bilan soʻrang va sababni taxmin qilmay, mutaxassisga murojaat qiling."
+description: "Demensiya bilan ogʻriqni aytish qiyin boʻlishi mumkin. Oʻzgarishlarga eʼtibor bering, tanish soʻzlarda soʻrang va sababni taxmin qilmay mutaxassisga murojaat qiling."
 section: caregiving
 order: 22
 updated: 2026-11-11
@@ -40,7 +40,7 @@ related: [caregiving/oral-care-with-dementia, caregiving/hospital-visit-with-dem
 health: true
 ---
 
-Demensiya bilan yashayotgan insonlar ogʻriqni aniq tushuntira olmasa ham, uni his qiladi. Inson ogʻriq haqida boshqa soʻzlar, imo-ishoralar yoki xulq-atvor oʻzgarishi orqali bilдirishi mumkin. Parvarish qiluvchi bularni sezib, aytib berishi mumkin, lekin sababni yolgʻiz oʻzi tashxislamasligi kerak.
+Demensiya bilan yashayotgan insonlar ogʻriqni aniq tushuntira olmasa ham, uni his qiladi. Inson ogʻriq haqida boshqa soʻzlar, imo-ishoralar yoki xulq-atvor oʻzgarishi orqali bildirishi mumkin. Parvarish qiluvchi bularni sezib, aytib berishi mumkin, lekin sababni yolgʻiz oʻzi tashxislamasligi kerak.
 
 [Dementia Australia ogʻriq boʻyicha tavsiyasi](https://www.dementia.org.au/living-dementia/staying-healthy/pain) toʻgʻridan-toʻgʻri soʻrashni va ogʻriq gumon qilinganda shifokor bahosini olishni tavsiya qiladi. [Alzheimer's Association ham](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) jismoniy noqulaylik xulq-atvor oʻzgarishiga taʼsir qilishi mumkinligini qayd etadi. Bu qoʻllanma umumiy maʼlumot beradi, ogʻriqni baholash yoki davolash rejasi emas.
 
