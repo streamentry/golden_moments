@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzelen fir Mënschen mat Demenz: Stécker, Wuerträtsel a Online-Puzzelen"
+seoTitle: "Puzzelen bei Demenz: Stécker- an Wuerpuzzelen"
+description: "Stécker-, Wuer- a Online-Puzzelen fir Demenz wielen: Stéckgréisst, Biller, grouss Schrëft, zesummen maachen a wann et Zäit ass fir ze vereinfachen."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Dat bescht Puzzel fir eng Persoun mat Demenz ass eent, dat si mat e bësse Hëllef
+  fäerdeg kritt an ënnerwee genéisst. Wielt Stécker-Puzzelen mat méi wéinege, méi
+  grousse Stécker an engem klore Bild fir Erwuessener, hält d'Schuessbild an der
+  Siicht a sortéiert fir d'Randstécker als Éischt. Wuertsich a Kräizwuerträtsel
+  funktionéieren am beschten a grousser Schrëft. Einfach Online-Puzzelen mat véier
+  Stécker passen zum Mëttelstadium. Hält op, wann et nach Spaass mécht.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Wielt no deem, wéi et leeft, net no engem Stadiumsnumm: wann e Puzzel wéi Aarbecht wierkt, probéiert ee mat méi wéinege Stécker."
+  - "Grouss, staark Stécker an e klore Bild mat klore Faarfberäicher sinn méi einfach wéi kleng Stécker an grouss Himmelen."
+  - "Bild fir Erwuessener zielen. Gäert, Käch, Autoen a Déieren, net Cartoons."
+  - "Et geet ëm dat Zesummen. Gitt Stécker weider, sortéiert d'Ränner, a hält d'Schuessbild an der Siicht."
+  - "Grouss-Schrëft-Wuertsich a einfach Online-Puzzelen mat 4 oder 9 Stécker sinn op dëser Säit gratis."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Wéi vill Puzzelstécker sinn am beschten fir eng Persoun mat Demenz?"
+    a: "Et gëtt keng eenzeg richteg Zuel. Eng Persoun, déi 1.000-Stécker-Puzzelen gemaach huet, kann um Ufank nach ëmmer e puer honnert Stécker genéissen, anerer sinn am beschte mat e puer Dosen grousse Stécker. Wann e Puzzel wéi Aarbecht wierkt oder Frustratioun ausléist, wiesselt op manner Stécker. Eis Online-Bildpuzzel huet 4 oder 9 Stécker."
+  - q: "Sinn Stécker-Puzzelen gutt fir Leit mat Demenz?"
+    a: "Vill Leit genéisse se, besonnesch wann si Puzzelen och virdrun gär haten. E Puzzel gëtt den Hänn eppes ze maachen, en kloert Zil an e Bild, iwwer dat ee schwätze kann. Kee Puzzel huet gewisen, datt en Demenz heelt oder bremst, dofir wielt se fir de Genoss an d'Gesellschaft aus."
+  - q: "Wat kann ech maachen, wann eng Persoun en Stécker-Puzzel net méi schafft?"
+    a: "Maacht et méi kleng a maacht méi selwer: gitt ee Stéck op eng Kéier, oder loosst nëmmen déi lescht puer Stécker fir si. Probéiert e Online-Puzzel mat 4 Stécker, Stécker no Faarf ze sortéieren oder d'fäerdeg Bild zesummen unzekucken."
+  - q: "Sinn Kräizwuerträtsel a Wuertsich fir Demenz gëeegent?"
+    a: "Si kënnen am Fréistadium a grousser Schrëft passen. Wuertsich, bei deenen d'Wierder nëmmen horizontal an vertikal lafen, sinn einfacher wéi déi mat diagonale oder réckwäerts Wierder. Liest d'Hiweiser oder d'Wuertlëscht laut vir a schafft zesummen drun."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+E Stécker-Puzzel, dat op dem Iesstëschdësch ausgeluegt ass, ass ee vun den einfachsten Aktivitéiten fir zesumme ze deelen. Dir kënnt zesummen sëtzen, ouni datt Dir musst schwätzen, d'Bild gëtt Iech eppes, iwwer dat Dir schwätze kënnt, an dat leschte Stéck ze setzen fillt sech gutt un. Puzzelen mussen sech awer änneren, wann d'Demenz sech änneren. E Puzzel, dat ze schwéier ass, kann e roueg Nomëtteg an e frustrérend verwandelen. Dës Säit beschreift, wéi Dir Stécker-, Wuer- a liicht Online-Puzzelen wielt an opbaut, an wat Dir maache kënnt, wann se schwéier ginn.
 
-## Are puzzles good for people with dementia?
+## Sinn Puzzelen gutt fir Mënschen mat Demenz?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Vill Leit genéisse se, besonnesch déi, déi virdrun Puzzelen gemaach hunn. D'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nennt Wuertsichen, Kaartespiller a Brettspiller ënner den Aktivitéiten fir de Fréistadium, an den [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) erwänt Online-Spiller a Puzzelen um Tablet als eng Manéier, am Gespréich ze bleiwen.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzelen sinn keng Behandlung. Kee Puzzel huet gewisen, datt Demenz sech verlangsamt oder stoppt; eise Guide zu [Gehirnspiller a Demenz](/brain-health/brain-games/) erkläert d'Fuerschung. De Grond fir e Puzzel ze maachen ass, datt et eng agreabel, fassend Stonn zesummen ka sinn. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) faasst et zesummen: den Genoss am Vierdergrond, net d'Leeschtung.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Wéi wielt ee en Stécker-Puzzel fir eng Persoun mat Demenz?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Riicht Iech no deem, wat d'Persoun gär huet an wéi dat leschte Puzzel gaangen ass, net no engem Stadiumsnumm.
 
-### Number of pieces
+### Zuel vun de Stécker
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Et gëtt keng richteg Zuel. Eng Persoun, déi hiert Liewe laang Puzzelen gemaach huet, kann um Ufank nach ëmmer e puer honnert Stécker genéisse, eng anerer ass am gléckleechsten mat e puer Dosen. Eng praktesch Regel: wann dat leschte Puzzel wéi Aarbecht war, wielt ee mat ongeféier der Halschent vun de Stécker. Wann et séier fäerdeg war an si méi wollt, geet e bëssen eropp.
 
-### Piece size and feel
+### Stéckgréisst a Gefill
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Gréisser Stécker** sinn einfacher ze gesinn, opzehuelen a ëmzedréinen.
+- **Déck, staark Stécker** bleiwe stoen a vertrëtt et, wann se falen.
+- **Eng mattent Uewerfläch** reduzéiert d'Spigelung ënner Luuchten a Fënstere.
+- **Vermeit kleng Stécker**, wann d'Persoun Saachen an de Mond stécke kéint, wat spéider an der Demenz kann virkommen.
 
-### The picture
+### D'Bild
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Erwuessen Themen.** Gäert, Kächen, al Autoen, Bauerendéieren, eng Séistad, en Liiblingssport. Keng Cartoons oder alles, wat no engem Kannerspillzeug ausgesäit.
+- **Kloer Faarfberäicher.** Eng rout Scheier, en blo Boot an e gréng Feld si méi einfach wéi en Himmel, deen d'Hallschent vum Puzzel fëllt.
+- **Vertraut a perséinlech.** E Bild vun engem Ort, wou si gewunnt huet, oder vun engem Hobby, dat si gär hat, gëtt Iech vill ze schwätzen. E puer Drockereien kënnen e Famillefoto a en Puzzel ëmwandelen.
 
-## How do you do a puzzle together?
+## Wéi maacht een zesummen en Puzzel?
 
-Set it up so the person can get straight to the enjoyable part.
+Riicht et sou an, datt d'Persoun direkt zum agreabelen Deel kënnt.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Sicht e gudde Plaz.** Gutt Liicht, e Stull mat Armlänen, an e Dësch oder en Tablett, wou de Puzzel bleiwe kann.
+2. **Stellt de Schuessdeckel op**, wou Dir beid hien gesitt.
+3. **Dréint d'Stécker mat der Bild no uewen**, ier Dir ufänkt.
+4. **Sortéiert d'Ränner selwer**, oder maacht de Rand als Éischt a loosst d'Mëtt fir si.
+5. **Gruppéiert d'Stécker no Faarf** a flaach Schüsselen oder Teller.
+6. **Gitt ee Stéck op eng Kéier**, wann den Haufen ze vill ass. „Ech mengen, dat hei gehéiert zum Scheier.“
+7. **Schwätzt iwwer d'Bild**, net iwwer de Fortschrëtt. „Dat gesäit aus wéi d'Boot vum Papa.“
+8. **Lauschtert et leien.** Kënnt iwwer e puer Deeg zréck drop zréck. Et gëtt keng Eil.
+9. **Hält op, wann et gutt leeft**, nodeems e Stéck agesat ass, solang et nach agreabel ass.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) rot, der Persoun beim Ufänken ze hëllefen, op Frustratioun opzepassen a se einfach kucke ze loossen, wann si dat méi genéisst. Zouzekucken, wéi Dir Stécker abausst, an ze weisen, wou een hikënnt, ass nach ëmmer matmaachen.
 
-## Easy online puzzles
+## Einfach Online-Puzzelen
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+En Tablet-Puzzel huet e puer kloer Virdeeler: keng verluer Stécker, grouss Biller, déi de Bildschierm fëllen, an kee Dësch, deen ee muss eroumaachen.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Eisen gratis [Bild-Puzzel](/games/picture-puzzle/) schneidt en Bild a 4 oder 9 Stécker. Tippt zwee Stécker un, fir se ze wiesselen, bis d'Bild ganz ass. D'Gesamtbild bleift als Hëllef um Bildschierm, et gëtt keen Auer, a Dir kënnt zu all Moment ophalen. Véier Stécker passen fir vill Leit am Mëttelstadium, wann een nieft hinnen sëtzt.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Fir nach méi einfach Bildspiller probéiert [Dat Selwecht fannen](/games/find-the-same/), wou Dir dat Bild tippt, dat dem Bild uewen entsprécht, oder [Zesumme sortéieren](/games/sort-together/), wou d'Biller a Kierf kommen, wéi d'Küche oder de Gaart.
 
-## Word puzzles: word searches and crosswords
+## Wuerpuzzelen: Wuertsich a Kräizwuerträtsel
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Wuerpuzzelen passen fir Leit, déi se ëmmer gär haten, normalerweis am Fréistadium vun der Demenz.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Wuertsich mat grousser Schrëft.** Eise gratis [Wuertsich](/games/word-search/) benotzt grouss Buschtawen a just e puer Wierder, déi horizontal an vertikal lafen, ni diagonal oder réckwäerts. Spillt et um Bildschierm oder drockt et.
+- **Wuertlëscht laut liesen.** Eng Persoun liest e Wuert, déi aner sicht et. Et ass a Rutsch, just den éischte Buschtaf ze ëmkreesen.
+- **Kräizwuerträtsel mat grousser Schrëft** aus Rätselbicher kënne fréi am Stadium funktionéieren. Liest d'Hiweiser lues vir, deelt de Stëft a fëllt d'Äntwerte zesummen aus. Einfach, themesch Kräizwuerträtsel si besser wéi kryptesch.
+- **Schwätzt iwwer d'Wierder.** „Gaart“ kann zu zéng Minutte Gespréich iwwer Tomaten féieren.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Fir méi Papieraktivitéiten an wéi Dir se drécke sou datt se einfach ze gesinn an ze halen sinn, kuckt [gratis dréckbar Demenz-Aktivitéiten](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Welch Puzzelen passen zu all Stadium?
 
-Stages overlap, and good and hard days are normal.
+Stadien iwwerlappen, a gutt an schwéier Deeg sinn normal.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadium | Puzzelen, déi dacks passen | Är Roll |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Fréi | Vertraut Stécker-Puzzelen mat manner Stécker wéi virdrun, Kräizwuerträtsel a Wuertsich mat grousser Schrëft, 9-Stécker-Online-Puzzelen | Partner: si wielen, hëllefen wann gefrot |
+| Mëttel | Stécker-Puzzelen mat ongeféier e puer Dosen grousse Stécker, 4-Stécker-Online-Puzzelen, Wuertsich, dat zesumme lues virgelies gëtt | Opriichten, Stécker sortéieren, ee No deem anere ginn |
+| Spéit | Zesummen en fäerdegt Bild ukucken, Find the same mat zwee Biller, e puer grouss Stécker a Hand huelen | Bréngt et hinnen; Är Gesellschaft ass d'Aktivitéit |
 
-## When should you make a puzzle easier, or stop?
+## Wann sollt Dir en Puzzel vereinfachen oder ophalen?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Oppasst op Seufzen, Stécker wegdréckelen, widderhuelt „Ech kann dat net“ oder besuergt Gesiichter. Dat sinn Zeechen, fir eppes ze änneren, net fir weider ze drécken.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Maacht et méi kleng.** Manner Stécker, oder nëmmen déi lescht puer fir si loossen.
+- **Maacht méi selwer** a lued se bei den einfache Stécker mat an.
+- **Wiesselt op eppes Nidderschwelleges:** Stécker no Faarf sortéieren, en 4-Stécker-Online-Puzzel oder [Ausmolen](/games/coloring/).
+- **Hält op.** Leet et bei Säit, drénkt eng Tass Téi. Dir kënnt en anere Dag zréckkommen, oder guer net.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Wann Puzzelen sech wéi eng Erënnerung u dat ufillen, wat schwéier ass, ass et a Rutsch, se lass ze loossen. Et gi vill aner Weeër, gutt Zäit zesummen ze verbréngen; eis [101 Aktivitéiten-Iddien](/activities/ideas/) ass e gudde Platz fir ze kucken.
