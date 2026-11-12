@@ -17,9 +17,9 @@ faq:
   - q: "Čo mám dať do núdzovej súpravy pre človeka s demenciou?"
     a: "Zvážte aktuálny zoznam liekov, dôležité kontaktné údaje, nabíjačky, okuliare alebo načúvací prístroj, potrebné pomôcky na pohyb, obľúbené oblečenie a predmet na útechu. Zásoby a doklady uchovávajte na mieste, kam sa dostanete rýchlo a bezpečne."
   - q: "Ako sa mám pripraviť na evakuáciu?"
-    a: "Určite, kto môže pomôcť, ako človek cestuje a kam môžete ísť. Opýtajte sa miestnych záchranných služieb alebo úradov na bezbariérové možnosti a riaďte sa ich aktuálnymi pokynmi."
+    a: "Určte, kto môže pomôcť, ako človek cestuje a kam môžete ísť. Opýtajte sa miestnych záchranných služieb alebo úradov na bezbariérové možnosti a riaďte sa ich aktuálnymi pokynmi."
   - q: "Čo ak nebudem počas núdze k dispozícii?"
-    a: "Určite druhého alebo tretieho dôveryhodného pomocníka a dohodnite sa, ako sa s človekom spojí. Plán s nimi zdieľajte a dajte im len lekárske alebo podporné informácie, ktoré potrebujú na pomoc."
+    a: "Určte druhého alebo tretieho dôveryhodného pomocníka a dohodnite sa, ako sa s človekom spojí. Plán s nimi zdieľajte a dajte im len lekárske alebo podporné informácie, ktoré potrebujú na pomoc."
   - q: "Čo ak sa človek počas núdze náhle zmätie?"
     a: "Povedzte to záchranárom alebo zdravotníckemu personálu. Náhla zmätenosť si vyžaduje okamžitú lekársku pomoc; nepredpokladajte, že ide o bežnú zmenu pri demencii."
 sources:
@@ -55,13 +55,13 @@ Pripravte si malú súpravu, ktorú sa ľahko nesie. Patria do nej aktuálne kon
 
 Dôležité doklady uchovávajte na mieste, kam sa dostanete rýchlo, ale chráňte súkromné údaje. Opýtajte sa človeka, ktoré položky chce zdieľať a s kým. Pomocník môže potrebovať meno človeka, preferovaný spôsob komunikácie, dôležité kontaktné údaje a informácie o liekoch, ale nepotrebuje všetky súkromné záznamy.
 
-Najlepšie sú veci, ktoré človek naozaj používa. Obľúbený sveter, fotografia, kniha alebo malý známy predmet môže upokojiť viac než nepoznané zásoby. Súpravu udržiavajte dostatočne ľahkú, aby ju niekto mohol bezpečneniesť alebo zdvihnúť.
+Najlepšie sú veci, ktoré človek naozaj používa. Obľúbený sveter, fotografia, kniha alebo malý známy predmet môže upokojiť viac než nepoznané zásoby. Súpravu udržiavajte dostatočne ľahkú, aby ju niekto mohol bezpečne zdvihnúť alebo zdvihnúť.
 
 ## Čo by mal obsahovať písomný plán?
 
 Krátky plán sa náhradnému pomocníkovi zdieľa ľahšie než dlhý zoznam poznámok. So súhlasom človeka uveďte:
 
-- **Koho kontaktovať.** Uveďte hlavných a náhradných pomocníkov, poskytovateľov starostlivosti a spôsob, ako ich zastihnúť. Určite, kto ostatných informuje, ak sa domácnosť presunie.
+- **Koho kontaktovať.** Uveďte hlavných a náhradných pomocníkov, poskytovateľov starostlivosti a spôsob, ako ich zastihnúť. Určte, kto ostatných informuje, ak sa domácnosť presunie.
 - **Ako komunikovať.** Poznačte si preferované oslovenie človeka, ako najlepšie chápe informácie a známe slová alebo rutiny, ktoré mu môžu pomôcť zorientovať sa.
 - **Ako cestovať.** Zaznamenajte druh dopravy a pomôcky na pohyb alebo komunikáciu, na ktoré sa človek spolieha. Pred núdzou sa opýtajte poskytovateľa alebo miestneho úradu na bezbariérové možnosti.
 - **Kde nájsť základné veci.** Poznačte, kde sú uložené súprava a aktuálny zoznam liekov. Súkromné záznamy uchovávajte na bezpečnom mieste a zdieľajte len údaje, ktoré každý pomocník potrebuje.

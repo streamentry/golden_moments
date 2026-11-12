@@ -64,7 +64,7 @@ Dementia Australia odporúča krátke, opakované rozhovory a zameranie sa na si
 
 Zapisujte si konkrétne udalosti a kedy sa stali. Môže ísť napríklad o zmätenosť na križovatke, stratu cesty k známemu miestu, prehliadnutie značiek alebo nové poškodenie auta. Uveďte, čo človek povedal o ceste, a všetky zmeny zdravia alebo liekov, o ktorých chce hovoriť.
 
-Poznámky nech sú vecné a súkromné. Človeka nesledujte, netajne nenahrávajte ani ho netestujte. Ak s tým človek súhlasí, člen rodiny, ktorý bol s ním v aute, môže podeľte o to, čo pozoroval. Jasný opis dá lekárovi alebo odborníkovi konkrétnu tému na rozhovor; neurčuje príčinu ani nerozhoduje o schopnosti šoférovať.
+Poznámky nech sú vecné a súkromné. Človeka nesledujte, netajne nenahrávajte ani ho netestujte. Ak s tým človek súhlasí, člen rodiny, ktorý bol s ním v aute, sa môže o to podeliť, čo pozoroval. Jasný opis dá lekárovi alebo odborníkovi konkrétnu tému na rozhovor; neurčuje príčinu ani nerozhoduje o schopnosti šoférovať.
 
 Varovné signály uvedené v [návode Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/dementia-driving) sú dôvodom vyhľadať odbornú radu. Nenahrádzajú individuálne posúdenie. Opýtajte sa lekára človeka, či ho nemôže odporučiť ergoterapeutovi alebo inému kvalifikovanému odborníkovi na rehabilitáciu vodičov. Miestne pravidlá pre vodičské oprávnenia si overte u štátneho alebo regionálneho úradu.
 

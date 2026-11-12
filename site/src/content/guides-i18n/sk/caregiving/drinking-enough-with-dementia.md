@@ -53,7 +53,7 @@ Postavte nápoj, ktorý človek má rád, tam, kde ho uvidí a dosiahne. Použit
 
 Nápoje ponúkajte ako súčasť rutín, ktoré človek už pozná, napríklad pri jedle, oddychu alebo pri návšteve vonku. Malý pohár môže pôsobiť menej náročne než veľký. Ďalší nápoj ponúknite neskôr bez toho, aby z toho bol test alebo pripomenutie, že človek zabudol.
 
-Ak človek vie nalievať alebo niesť nápoj sám, nechajte ho. Ak chce pomoc, opýtajte sa skôr, než nalejete alebo vložíte pohár do jeho ruky. Nový pohár, slamka alebo miesto môžu pôsobiť neznáme, preto mente vždy len jednu vec a ponechajte to, čo funguje.
+Ak človek vie nalievať alebo niesť nápoj sám, nechajte ho. Ak chce pomoc, opýtajte sa skôr, než nalejete alebo vložíte pohár do jeho ruky. Nový pohár, slamka alebo miesto môžu pôsobiť neznáme, preto meňte vždy len jednu vec a ponechajte to, čo funguje.
 
 Na výlet si zoberte nápoj, ktorý človek má rád, a ponúknite ho počas oddychu alebo jedla. Ak pomáha viac ľudí, s jeho súhlasom sa podeľte o jeho obľúbený nápoj a pohár. Nápoj nech je v dosahu, ale pred tým, ako ho premiestnite alebo mu ho podáte, sa opýtajte.
 

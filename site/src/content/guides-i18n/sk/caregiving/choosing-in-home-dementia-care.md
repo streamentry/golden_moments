@@ -86,4 +86,4 @@ Náklady, rozvrhy a dostupné služby sa líšia. Od poskytovateľa si vyžiadaj
 
 Ak sa človek zrazu zmätie alebo sa výrazne zhorší, nepredpokladajte, že zmena je spôsobená demenciou. [NHS odporúča okamžitú lekársku pomoc pri náhlej zmätenosti](https://www.nhs.uk/symptoms/confusion/). Pri dlhodobých obavách o starostlivosť sa porozprávajte s lekárom alebo iným kvalifikovaným odborníkom.
 
-Cieľom je podpora, ktorá zapadne do života človeka. Určite úlohu, overte skúsenosti poskytovateľa a jeho záložný plán, zapojte človeka do každého rozhodnutia a prehodnocujte, ako sa dohoda osvedčuje v čase.
+Cieľom je podpora, ktorá zapadne do života človeka. Určte úlohu, overte skúsenosti poskytovateľa a jeho záložný plán, zapojte človeka do každého rozhodnutia a prehodnocujte, ako sa dohoda osvedčuje v čase.
