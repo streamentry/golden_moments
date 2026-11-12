@@ -60,7 +60,7 @@ Görevi durdurun, geri çekilin ve kısa, sakin bir cümle kullanın. [Alzheimer
 
 ## Davranışın altında ne yatıyor olabilir?
 
-Birden fazla etken olabilir ve bir bakıcı nedeni teşhis edemez. [Alzheimer's Association, olası katkıda bulunan etkenler arasında fiziksel rahatsızlık, çevresel stres ve iletişim sorunlarını sayıyor](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger).
+Birden fazla etken olabilir ve bir bakıcı nedeni teşhis edemez. Alzheimer's Association, olası katkıda bulunan etkenler arasında fiziksel rahatsızlık, çevresel stres ve iletişim sorunlarını sayıyor.
 
 Değişiklikten hemen önce neler olduğunu düşünün:
 
@@ -86,7 +86,7 @@ Göreve özel fikirler için [banyo](/caregiving/bathing-with-dementia/) ve [giy
 
 ## Durum yatıştıktan sonra ne yapabilirim?
 
-Kişi isterse güvence verin ve düşük talep gerektiren, tanıdık bir etkinliğe dönün. Azarlamayın, suçlamayın ve cezalandırmayın. [Alzheimer's Society, kişinin davranış geçtikten sonra da üzgün kalabileceğini, olanları hatırlamasa bile bunu belirtiyor](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression).
+Kişi isterse güvence verin ve düşük talep gerektiren, tanıdık bir etkinliğe dönün. Azarlamayın, suçlamayın ve cezalandırmayın. Alzheimer's Society, kişinin davranış geçtikten sonra da üzgün kalabileceğini, olanları hatırlamasa bile bunu belirtiyor.
 
 Bir deseni anlamak istiyorsanız, neyin hemen öncesinde olduğunu, neleri gözlemlediğinizi, ne kadar sürdüğünü ve neyin yardımcı olduğunu kısaca ve özel olarak not edin. Notu olgusal tutun ve uygun olduğunda bakım ekibiyle paylaşın. İzin almadan kişiyi kaydetmekten ya da özel bilgileri paylaşmaktan kaçının.
 

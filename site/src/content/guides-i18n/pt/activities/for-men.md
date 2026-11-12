@@ -1,7 +1,7 @@
 ---
 title: "Atividades para Homens com Demência"
 seoTitle: "Atividades para Homens com Demência: Ideias do Dia a Dia"
-description: "Ideias de atividades para homens que vivem com demência, baseadas em trabalho passado, passatempos e rotinas, e não em estereótipos, com dicas para adaptar cada uma com segurança."
+description: "Ideias de atividades para homens com demência, baseadas em trabalho passado, passatempos e rotinas, não em estereótipos, com dicas para adaptá-las com segurança."
 section: activities
 order: 11
 updated: 2026-10-25

@@ -1,7 +1,7 @@
 ---
 title: "Atividades para a Demência em Fase Inicial"
 seoTitle: "Atividades para Demência Inicial: Ideias que Cabem"
-description: "Ideias de atividades para a demência em fase inicial: passatempos, jogos, passeios, escrita e planejamento juntos, com pequenas mudanças que mantêm a pessoa no controle."
+description: "Ideias de atividades para a demência inicial: passatempos, jogos, passeios, escrita e planejamento juntos, com pequenas mudanças que mantêm a pessoa no controle."
 section: activities
 order: 2
 updated: 2026-10-25

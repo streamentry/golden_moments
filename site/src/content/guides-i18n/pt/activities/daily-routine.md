@@ -1,7 +1,7 @@
 ---
 title: "Uma Rotina Diária Gentil para Quem Vive com Demência"
 seoTitle: "Rotina Diária para Demência: Um Dia de Exemplo Flexível"
-description: "Um dia de exemplo flexível para quem vive com demência, com refeições, atividades e descanso em um ritmo estável, além de como montar o seu e adaptá-lo em dias difíceis."
+description: "Um dia de exemplo flexível para quem vive com demência, com refeições, atividades e descanso em ritmo estável, e como montar o seu e adaptá-lo."
 section: activities
 order: 15
 updated: 2026-10-25
@@ -57,19 +57,19 @@ Os horários são apenas exemplos. Adiante ou atrase o dia inteiro para combinar
 
 | Horário | O que acontece | Ideias | Em um dia mais difícil |
 | --- | --- | --- | --- |
-| 8h | Acordar, lavar-se, vestir-se | Sempre na mesma ordem; deixe as roupas arrumadas na ordem em que são vestidas | Mantenha os cuidados simples; uma camisa limpa basta |
-| 8h45 | Café da manhã | Café e o jornal lido em voz alta, ou o rádio | Comam juntos em silêncio, sem pressão para conversar |
-| 9h30 | Atividade principal | Dobrar roupas, assar, cuidar do jardim, um passeio curto ou uma caminhada | Uma versão mais curta, ou deixe a pessoa apenas observar você fazer |
-| 10h30 | Momento tranquilo | Música, um álbum de fotos ou sentar perto de uma janela | Descansar em uma poltrona preferida |
-| 11h | Ajudar no almoço | Lavar legumes, pôr a mesa | Você cozinha; a pessoa faz companhia |
-| 12h | Almoço e arrumação | Limpar a mesa, secar alguns pratos | Pule as tarefas |
-| 13h | Descanso curto | Pés para cima, música suave | O mesmo |
-| 14h | Ao ar livre ou ativo | Caminhada, tempo na varanda, regar plantas, jogar uma bexiga | Sentar perto de uma janela ensolarada |
-| 15h | Social ou criativo | Uma visita, uma ligação, [pares de figuras](/games/picture-pairs/), colorir, cartas | Uma bebida e um lanche juntos |
-| 16h30 | Hora de acalmar | Cortinas fechadas, luzes acesas, uma tarefa calma como dobrar panos de prato | Música conhecida, pouco barulho |
-| 17h30 | Jantar | Ajudar a mexer ou a pôr a mesa | Comida simples e familiar |
-| 18h30 | Noite juntos | Relembrar na sobremesa, cartas, um programa preferido, uma massagem nas mãos | Companhia tranquila |
-| 20h | Rotina de dormir | Banho ou lavagem, pijama, música suave, luz baixa | Encurte tudo; o conforto vem primeiro |
+| 8:00 da manhã | Acordar, lavar-se, vestir-se | Sempre na mesma ordem; deixe as roupas arrumadas na ordem em que são vestidas | Mantenha os cuidados simples; uma camisa limpa basta |
+| 8:45 | Café da manhã | Café e o jornal lido em voz alta, ou o rádio | Comam juntos em silêncio, sem pressão para conversar |
+| 9:30 | Atividade principal | Dobrar roupas, assar, cuidar do jardim, um passeio curto ou uma caminhada | Uma versão mais curta, ou deixe a pessoa apenas observar você fazer |
+| 10:30 | Momento tranquilo | Música, um álbum de fotos ou sentar perto de uma janela | Descansar em uma poltrona preferida |
+| 11:00 | Ajudar no almoço | Lavar legumes, pôr a mesa | Você cozinha; a pessoa faz companhia |
+| 12:00 | Almoço e arrumação | Limpar a mesa, secar alguns pratos | Pule as tarefas |
+| 1:00 da tarde | Descanso curto | Pés para cima, música suave | O mesmo |
+| 2:00 da tarde | Ao ar livre ou ativo | Caminhada, tempo na varanda, regar plantas, jogar uma bexiga | Sentar perto de uma janela ensolarada |
+| 3:00 da tarde | Social ou criativo | Uma visita, uma ligação, [pares de figuras](/games/picture-pairs/), colorir, cartas | Uma bebida e um lanche juntos |
+| 4:30 da tarde | Hora de acalmar | Cortinas fechadas, luzes acesas, uma tarefa calma como dobrar panos de prato | Música conhecida, pouco barulho |
+| 5:30 da tarde | Jantar | Ajudar a mexer ou a pôr a mesa | Comida simples e familiar |
+| 6:30 da noite | Noite juntos | Relembrar na sobremesa, cartas, um programa preferido, uma massagem nas mãos | Companhia tranquila |
+| 8:00 da noite | Rotina de dormir | Banho ou lavagem, pijama, música suave, luz baixa | Encurte tudo; o conforto vem primeiro |
 
 Este exemplo segue o formato do próprio plano de exemplo da Alzheimer's Association para as fases inicial e intermediária, que vai dos cuidados pessoais e do café da manhã às tarefas da casa, caminhadas, música, descanso e visitas, até o jantar, a lembrança do passado e a preparação para dormir.
 
@@ -78,7 +78,7 @@ Este exemplo segue o formato do próprio plano de exemplo da Alzheimer's Associa
 Comece pelo jeito como a pessoa sempre viveu, não por uma tabela. A Alzheimer's Association sugere pensar nestes pontos antes de planejar:
 
 - **Gostos, aversões, pontos fortes e interesses.**
-- **Como a pessoa passava o dia antes.** Quem sempre acordou cedo e levava o cachorro para passear deve continuar passeando cedo. Quem é coruja talvez nunca goste de começar às 8h.
+- **Como a pessoa passava o dia antes.** Quem sempre acordou cedo e levava o cachorro para passear deve continuar passeando cedo. Quem é coruja talvez nunca goste de começar o dia tão cedo.
 - **O melhor momento do dia.** Coloque ali o banho, os passeios e a atividade principal.
 - **Tempo suficiente** para as refeições, para lavar-se e para vestir-se, para que nada seja apressado.
 - **Horários regulares de acordar e de dormir.**

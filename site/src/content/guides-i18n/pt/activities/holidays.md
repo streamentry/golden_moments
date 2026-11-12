@@ -1,7 +1,7 @@
 ---
 title: "Atividades de Festas para Quem Tem Demência, a Partir da Ceia de Fim de Ano"
 seoTitle: "Ideias para Festas e Ceia de Fim de Ano com Demência"
-description: "Atividades simples de festas para quem tem demência: tarefas na cozinha, decoração, música, fotos e chamadas de vídeo, além de como planejar uma celebração mais calma."
+description: "Atividades simples de festas para quem tem demência: tarefas na cozinha, decoração, música, fotos e chamadas de vídeo, e como planejar uma celebração calma."
 section: activities
 order: 21
 updated: 2026-10-30
