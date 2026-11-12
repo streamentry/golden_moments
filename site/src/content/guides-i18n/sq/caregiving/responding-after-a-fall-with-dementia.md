@@ -59,7 +59,7 @@ Mos provoni ta mbani ose ngrini personin vetëm. Nëse ekziston një plan kujdes
 
 ## Çfarë nëse personi duket i aftë të ngrihet?
 
-Mos e nxitoni personin. Pyesni si ndihet dhe nëse dëshiron ndihmë. Nëse duket i palënduar dhe mund të ngrihet me mbështetjen e zakonshme pa u ngritur, lëreni kohë dhe qëndroni afër. Ndaloni nëse ndjen dhimbje, i vjen rrotull ose nuk e përballon ddot. Nëse nuk jeni të sigurt, pyesni një profesionist shëndetësor në vend që të provoni një transferim që nuk ju është treguar si ta bëni.
+Mos e nxitoni personin. Pyesni si ndihet dhe nëse dëshiron ndihmë. Nëse duket i palënduar dhe mund të ngrihet me mbështetjen e zakonshme pa u ngritur, lëreni kohë dhe qëndroni afër. Ndaloni nëse ndjen dhimbje, i vjen rrotull ose nuk e përballon dot. Nëse nuk jeni të sigurt, pyesni një profesionist shëndetësor në vend që të provoni një transferim që nuk ju është treguar si ta bëni.
 
 [NHS këshillon të merrni kohë dhe të pushoni pasi ngriheni](https://www.nhs.uk/conditions/falls/). Udhëzimet e tij për vetëndihmë janë për një person që ndihet i aftë të ngrihet; ato nuk janë arsye për ta tërhequr ose mbajtur dikë që ka rënë. Lëvizshmëria, ekuilibri dhe nevojat shëndetësore të një personi ndryshojnë.
 
