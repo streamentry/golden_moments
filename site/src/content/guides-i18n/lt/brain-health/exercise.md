@@ -1,32 +1,32 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Judėjimas ir smegenų sveikata: ką sieja tyrimai ir kaip judėti saugiai"
+seoTitle: "Pratimai ir demencija: ką sako tyrimai"
+description: "Ką tyrimai sieja tarp fizinio aktyvumo ir demencijos rizikos bei saugūs, malonūs būdai vyresnio amžiaus žmonėms ir žmonėms su demencija judėti."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Tyrimai sieja reguliarų fizinį aktyvumą su mažesne demencijos rizika, o 2024 m.
+  Lancet komisija fizinį neaktyvumą įvardija kaip vieną iš 14 keičiamų rizikos veiksnių.
+  Tyrimai neįrodė, kad pratimai užkerta kelią demencijai. Judėjimas vis tiek padeda
+  jėgai, pusiausvyrai, nuotaikai ir miegui, todėl vaikščiojimas, pratimai sėdint ir šokis
+  verti dėmesio patys savaime. Prieš pradedant ką nors naujo, pasitarkite su gydytoju.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Fiziškai aktyvūs žmonės vidutiniškai turi mažesnę demencijos riziką, bet tai daugiausia rodo stebėjimo tyrimai, o ne bandymai."
+  - "Penkerių metų pratimų tyrime vyresnio amžiaus žmonių grupių mąstymo gebėjimuose aiškaus skirtumo nerasta."
+  - "CDC rekomendacijos vyresnio amžiaus suaugusiesiems nuo 65 metų apima aerobinius, raumenis stiprinančius ir pusiausvyros pratimus bei sako, kad šiek tiek veiklos yra geriau nei jokios."
+  - "Žmonėms, gyvenantiems su demencija, svarbiau nei bet koks tikslas yra trumpas, pažįstamas, bendras judėjimas, pavyzdžiui, kasdienis pasivaikščiojimas ar žaidimai sėdint."
+  - "Daugiau nei vienas iš keturių vyresnio amžiaus žmonių kasmet patiria kritimą, todėl pirmiausia svarbūs pusiausvyros pratimai ir saugi erdvė."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Ar pratimai gali užkirsti kelią demencijai?"
+    a: "Niekas to negali pažadėti. Daugelis tyrimų sieja aktyvumą su mažesne demencijos rizika, bet klinikiniai tyrimai neparodė, kad pratimai ją užkerta. Pratimai turi daug kitų įrodytų naudų, todėl jie vis tiek verti dėmesio."
+  - q: "Ar saugu žmogui, gyvenančiam su demencija, sportuoti?"
+    a: "Paprastai taip, tik reikia šiek tiek planuoti. Nacionalinis senėjimo institutas pataria prieš pradedant naują režimą pasitarti su žmogaus gydytoju, rinktis patogius batus, siūlyti vandens ir laikyti sesijas trumpas. Sustokite, jei žmogus atrodo pavargęs, nestabilus ar nelaimingas."
+  - q: "Kokius pratimus galima atlikti sėdint?"
+    a: "Sėdint tinka pratimai ant kėdės ar joga ant kėdės, balionėlio ar minkšto kamuolio metimas, pupelių maišelio metimas, konservų skardinių kėlimas, tempimo juostos ir pedalų treniruokliai. Tai geri pasirinkimai, kai vaikščioti sunku."
+  - q: "Ką daryti, jei žmogus nenori judėti?"
+    a: "Nespauskite. Bandykite vėliau, prisijunkite patys, įjunkite pažįstamą muziką arba judėjimą paverskite darbu, pavyzdžiui, šluotojimu ar augalų laistymu. Trumpas pasivaikščiojimas iki pašto dėžutės irgi skaičiuojasi, kaip ir tiesiog kartu sėdėjimas lauke."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +51,136 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Aktyvumas – viena labiausiai tirtų sveikatos įpročių smegenų sveikatos srityje. Tyrimai jį
+sieja su mažesne demencijos rizika, bet neįrodė, kad pratimai užkerta kelią demencijai. Aišku
+tik tai, kad judėjimas padeda jėgai, pusiausvyrai, nuotaikai ir miegui bet kuriame amžiuje.
+Šiame puslapyje aptariama, ką rodo tyrimai, kiek aktyvumo rekomenduojama vyresnio amžiaus
+žmonėms ir kaip švelniai judėti kartu su žmogumi, gyvenančiu su demencija.
 
-## Does exercise lower the risk of dementia?
+## Ar pratimai mažina demencijos riziką?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Tyrimai rodo, kad fiziškai aktyvūs žmonės rečiau suserga demencija, tačiau įrodymai turi ribų.
+[2024 m. Lancet komisija dėl demencijos](https://doi.org/10.1016/S0140-6736(24)01296-0) fizinį
+neaktyvumą įvardija kaip vieną iš 14 keičiamų rizikos veiksnių. Kartu šie 14 veiksnių, pagal jos
+modelį, lemia apie 45 % demencijos atvejų pasaulyje.
 
-Here is what the evidence looks like:
+Štai kaip atrodo įrodymai:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Stebėjimo tyrimai rodo vieną kryptį.** Komisijos aptarta 58 tyrimų apžvalga parodė, kad fiziškai
+  aktyvūs žmonės turėjo maždaug 20 % mažesnę demencijos riziką. Didžiausias skirtumas buvo tarp
+  žmonių, kurie beveik visiškai nejudėjo, ir tų, kurie bent šiek tiek judėjo.
+- **Ryšys gali veikti abiem kryptimis.** Komisija pažymi, kad neaktyvumas gali didinti riziką. Ji taip
+  pat pažymi, kad ankstyvi demencijos smegenų pokyčiai, prasidedantys metais iki diagnozės, gali
+  žmones paskatinti mažiau judėti.
+- **Bandymai aiškesni nėra.** Viename tyrime 945 vyresnio amžiaus suaugusieji, kurių vidutinis amžius
+  buvo 78 metai, buvo priskirti penkeriems metams prižiūrimų pratimų du kartus per savaitę arba
+  palyginimo grupei. Pabaigoje mąstymo gebėjimai tarp grupių aiškiai nesiskyrė. Daugelis palyginimo
+  grupės žmonių taip pat buvo aktyvūs, todėl rezultatą sunkiau interpretuoti.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Nacionalinis senėjimo institutas (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)
+pasako aiškiai: aiškaus ryšio tarp fizinio aktyvumo ir Alzheimerio ligos prevencijos nenustatyta,
+o bandymų įrodymų nepakanka, kad pratimai ją užkerta kelią ar sulėtina. Vis dėlto pratimai mažina
+kritimų, depresijos, diabeto, aukšto kraujospūdžio ir insulto riziką. Kai kurios iš šių būklių
+patys yra susijusios su kognityviniu nuosmukiu.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Sąžiningas išvadas: judėkite todėl, kad tai padeda jaustis ir funkcionuoti geriau šiandien. Bet koks
+naudingas poveikis smegenims yra galimas bonusas, o ne pažadas.
 
-## How much activity do older adults need?
+## Kiek aktyvumo reikia vyresnio amžiaus suaugusiesiems?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDC rekomendacijos suaugusiesiems nuo 65 metų](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html)
+siūlo tris veiklos rūšis kiekvieną savaitę:
 
-| Type | Weekly amount | Examples |
+| Rūšis | Savaitinis kiekis | Pavyzdžiai |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobinis | Bent 150 minučių vidutinio intensyvumo veiklos, pavyzdžiui, 30 minučių 5 dienas | Greitas ėjimas, šokis, vandens aerobika |
+| Raumenis stiprinantis | Bent 2 dienas, dirbant visas pagrindines raumenų grupes | Lengvų svarelių ar konservų skardinių kėlimas, tempimo juostos |
+| Pusiausvyra | Reguliariai | Ėjimas pėda prie pėdos, atsistojimas nuo kėdės |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Tai tikslai, o ne įėjimo reikalavimai. CDC sako, kad jei jų pasiekti negalite, būkite tiek aktyvūs,
+kiek leidžia jūsų galimybės ir sveikata. Šiek tiek veiklos yra geriau nei jokios.
 
-## Gentle ways to move for older adults
+## Švelnūs judėjimo būdai vyresnio amžiaus žmonėms
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Vaikščiokite su kompanija.** Kasdienis pasivaikščiojimas su draugu, kaimynu ar vaikščiojimo grupe
+  prideda pokalbio ir saugumo.
+- **Pratimai ant kėdės.** Rankų kėlimas sėdint, kulkšnių sukimas, žingsniavimas vietoje ir joga ant
+  kėdės stiprina jėgą be pusiausvyros rizikos.
+- **Šokis virtuvėje.** Įjunkite muziką iš žmogaus paauglystės ir jaunystės ir siūbuokite, plakite ar
+  žingsniuokite. Mūsų [muzikinių veiklų vadove](/activities/music/) yra idėjų.
+- **Jėga su namų ūkio daiktais.** Kelkite pripiltus vandens butelius ar konservų skardines, žiūrėdami
+  mėgstamą laidą.
+- **Sodinimas ar namų darbai.** Augalų laistymas, grėbimas, šlavimas ir skalbinių lankstymas irgi
+  skaičiuojasi. Žr. [sodo ir lauko veiklas](/activities/outdoor-and-gardening/) ir [namų ūkio darbus](/activities/household-tasks/).
+- **Pratimai vandenyje.** NIA kaip vieną pasirinkimą mini vandens aerobikos užsiėmimus žmonėms, kuriems
+  sąnariai sunkiai toleruoja pratimus sausumoje.
 
-## How to exercise with someone living with dementia
+## Kaip sportuoti kartu su žmogumi, gyvenančiu su demencija?
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Žmogui, gyvenančiam su demencija, tikslas – patogumas, malonumas ir gebėjimų išlaikymas kasdieniame
+gyvenime, o ne skaičiaus pasiekimas. NIA sako, kad fizinis aktyvumas padeda išlaikyti Alzheimerio ligą
+turinčio žmogaus raumenis, sąnarius ir širdį geros būklės, taip pat gali pagerinti nuotaiką ir miegą.
+Prieš pradedant naują režimą, pasitarkite su jo gydytoju. Patarimai iš [NIA globėjų vadovo](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf):
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Vaikščiokite kartu kasdien.** Pasirinkite saugų, pažįstamą kelią be kliūčių. Jei žmogus vaikšto
+   vienas, verta turėti ID apyrankę su jūsų telefono numeriu.
+2. **Pabandykite vyresnio amžiaus žmonėms skirtus pratimų vaizdo įrašus.** Kartu sekite juos sėdint arba
+   stovint.
+3. **Laikykite sesijas trumpas.** Keli trumpi „mini treniruotės“ gali veikti geriau nei viena ilga.
+4. **Pridėkite muzikos.** Pažįstamos dainos judesį paverčia veikla, o ne užduotimi. Šokite, jei žmogui
+   tai patinka.
+5. **Siūlykite vandens ir patogių batų.** Siūlykite vandens ar sulčių per treniruotę ir po jos, rinkitės
+   patogius drabužius ir tinkamo dydžio batus, skirtus sportui.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Jei vaikščioti sunku, [NIA vadovas, kaip prižiūrėti žmogų su Alzheimerio liga](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf)
+siūlo pratimus sėdint. Tai pratimai ant kėdės ar joga, pupelių maišelio metimas, minkšto kamuolio ar
+balionėlio metimas, tempimo juostos, lengvų namų ūkio daiktų kėlimas ir pedalų treniruokliai. Paprasti
+darbai, kaip šlavimas ar dulkių valymas, irgi skaičiuojasi.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Būkite realistai dėl to, ką judėjimas gali padaryti. Lancet komisija nerado įrodymų, kad pratimai
+mažina elgesio pokyčius, pavyzdžiui, agitaciją. Judėkite kartu todėl, kad tai gali būti malonu, o ne
+kaip būdą išspręsti sunkią popietę. Jei žmogus sako ne, tai normalu. Mūsų vadove [kai jie sako ne](/caregiving/when-they-say-no/)
+rasite švelnių būdų pabandyti vėliau. Anksti baigti ar tiesiog kartu sėdėti lauke taip pat yra geras rezultatas.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Po judėjimo ramus pauzė, pavyzdžiui, [Ramus kvėpavimas](/games/calm-breathing/), gali padėti abiem nurimti.
+Sėdint prie stalo su švelniu rankų judesiu gerai tinka [Rūšiuokite kartu](/games/sort-together/) ir
+[Paveikslėlių bingo](/games/picture-bingo/).
 
-## Balance and fall safety
+## Pusiausvyra ir saugumas nuo kritimų
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Kritimai yra dažni ir rimti. [CDC duomenimis](https://www.cdc.gov/falls/data-research/facts-stats/index.html),
+daugiau nei vienas iš keturių vyresnio amžiaus žmonių kasmet patiria kritimą, bet mažiau nei pusė apie tai
+pasako gydytojui. Vieną kartą nukritus, tikimybė nukristi vėl padvigubėja. CDC išvardytos rizikos
+veiksniai apima:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Kojų ir klubų silpnumą
+- Sunkumus vaikščiojant ir išlaikant pusiausvyrą
+- Kai kuriuos vaistus, įskaitant raminamuosius ir kai kuriuos antidepresantus
+- Regos problemas
+- Pėdų skausmą ar prastus batus
+- Namų pavojus, pavyzdžiui, daiktų netvarką, kilimėlius ir sulūžusius laiptus
 
-To move more safely:
+Kad judėtumėte saugiau:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Naudokite tvirtą kėdę** be ratukų ir laikykite stalviršį ar turėklą pasiekiamą atsistojimo pratimams.
+- **Pirmiausia išvalykite erdvę** nuo kilimėlių, laidų ir daiktų.
+- **Atsistokite lėtai** ir sustokite, jei žmogus jaučia svaigulį ar nestabilumą.
+- **Mūvėkite tvirtus batus,** o ne kojines ar laisvas šlepetes.
+- **Treniruokitės pusiausvyrą šalia atramos.** Atsistojimas nuo kėdės ir ėjimas pėda prie pėdos yra CDC
+  pavyzdžiai pusiausvyros veiklai.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC pataria, kad vyresnio amžiaus žmogus, nukritęs ir trenkęsis galva, iš karto kreiptųsi į gydytoją,
+ypač jei vartoja kraujo skystinančius vaistus.
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Prieš pradedant naują pratimų režimą, pasitarkite su gydytoju, ypač jei žmogus turi širdies ar plaučių
+problemų, sąnarių skausmą, pusiausvyros sutrikimų ar demenciją. Gydytojas ar fizioterapeutas gali
+pasiūlyti saugias veiklas ir patikrinti, ar vaistai veikia pusiausvyrą. Pasakykite gydytojui apie bet
+kokį kritimą, net ir be traumos. Jei pratimų metu kas nors skauda ar atrodo blogai, sustokite. Esant
+staigiam krūtinės skausmui, kvėpavimo sunkumams ar staigiam sumišimui, skambinkite vietinei skubiosios
+pagalbos tarnybai.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Šis puslapis yra bendra informacija, ne medicininė konsultacija. Žr. mūsų
+[medicininį atsakomybės apribojimą](/medical-disclaimer/). Platesniam vaizdui perskaitykite, [ką tyrimai
+sako apie demencijos rizikos veiksnius](/brain-health/risk-factors/) ir [ar demencijos galima išvengti](/brain-health/can-dementia-be-prevented/).

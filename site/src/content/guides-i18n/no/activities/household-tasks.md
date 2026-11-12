@@ -1,32 +1,28 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Husarbeid som aktiviteter for personer med demens"
+seoTitle: "Husaktiviteter ved demens: hverdagsoppgaver"
+description: "Brette klesvask, sortere, dekke bordet og enkel matlaging kan være meningsfulle aktiviteter for personer med demens. Slik legger du til rette og holder det trygt."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Hverdagsoppgaver som å brette håndklær, sortere sokker, dekke bordet, tørke benkene, vanne planter og hjelpe til med enkel matlaging kan gi en person med demens en reell måte å bidra på. Velg oppgaver hen kjenner, del dem i ett steg om gangen, fjern skarpe eller varme farer, og sett verdi på å være med mer enn å gjøre det «riktig».
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Kjente gjøremål kan hjelpe personen å føle seg nyttig og en del av husstanden, og det betyr ofte mer enn hvor godt jobben blir gjort."
+  - "Del hver oppgave i enkelte steg, vis heller enn å forklare, og ta stille over et steg som har blitt vanskelig."
+  - "Lås bort kniver, rengjøringsmidler og oppvaskmiddelkapsler, og sett på komfyrknappdeksler eller automatisk avstengning før dere lager mat sammen."
+  - "Brettede håndklær trenger ikke brettes om igjen foran personen. Hvis noe må gjøres om, gjør det senere og utenfor synsfeltet."
+  - "Hvis en oppgave skaper frustrasjon, bytt til et enklere steg, prøv igjen en annen gang, eller bare sitt sammen."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Hvilke gjøremål kan en person med demens fortsatt hjelpe til med?"
+    a: "Mange kan fortsatt brette klesvask, pare sokker, sortere bestikk, dekke bordet, tørke en benk, støvsuge, feie, vanne planter eller røre i en skål med røre. Velg oppgaver personen gjorde tidligere, og tilpass dem til det hen kan nå. I senere stadier kan en enkelt gjentatt bevegelse, som å glatte ut servietter, være nok."
+  - q: "Er det trygt for en person med demens å hjelpe til på kjøkkenet?"
+    a: "Det kan det være, med tett oppsyn og riktig oppsett. Hold kniver, rengjøringsmidler og alt varmt utenfor rekkevidde, bruk knappdeksler eller automatisk avstengning på komfyren, og gi personen en trygg oppgave som å vaske grønnsaker, røre eller sette fram tallerkener. La aldri personen være alene med komfyren på."
+  - q: "Hva hvis de brett ting feil eller roter?"
+    a: "La det være. Målet er tid sammen og følelsen av å være nyttig, ikke et perfekt resultat. Hvis noe virkelig må gjøres om, vent til senere og gjør det når personen ikke ser på, slik at hen ikke føler seg korrigert."
+  - q: "Hva hvis de nekter å hjelpe?"
+    a: "Et nei kan bety at oppgaven føles for vanskelig, forvirrende eller utmattende akkurat nå. Ikke press. Prøv en enklere versjon, be dem heller holde deg med selskap, eller spør igjen på et bedre tidspunkt på dagen."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +41,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Mange med demens har brukt flere tiår på å drive hjem, oppdra familie eller holde orden på en arbeidsplass. At de blir bedt om å hjelpe til med ekte gjøremål, kan si «du er fortsatt en del av dette hjemmet» på en måte få andre aktiviteter klarer. Denne siden tar for seg hvilke oppgaver som vanligvis fungerer, hvordan du legger til rette for dem, hvordan du tilpasser dem når ting endrer seg, og hvordan du holder kjøkkenet og vaskerommet trygt.
 
-## Why do everyday chores work well as activities?
+## Hvorfor fungerer hverdagsoppgaver så godt som aktiviteter?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Gjøremål fungerer fordi de er kjente og har et klart formål. National Institute on Aging lister opp å vaske opp, dekke bordet, feie, støvsuge, sortere post, brette klesvask og sortere avfall blant [daglige aktiviteter folk med Alzheimers kan like](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association påpeker at oppgaver som å dekke bordet kan hjelpe en person med å [føle seg som en verdsatt del av husstanden](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+En oppgave har også en egen grunn til å starte. «Kan du hjelpe meg med disse håndklærne?» er lettere å si ja til enn «Vil du være med på en aktivitet?»
 
-## Which household tasks are good to try?
+## Hvilke husarbeidsoppgaver er gode å prøve?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Begynn med oppgaver personen gjorde tidligere, og tilpass dem deretter til det hen klarer i dag.
 
-### Laundry and linens
+### Klesvask og sengetøy
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Brette håndklær og vaskekluter.** Gi personen en kurv med små, flate ting. Håndklær er tilgivende: det finnes ingen feil måte å brette et håndkle på.
+- **Pare sokker.** Legg en blandet haug på bordet. Hvis par blir vanskelig å se, bruk bare to eller tre svært ulike farger.
+- **Glatte ut og stable.** Servietter, putevar eller oppvaskhåndklær kan glattes og stables. Dette fungerer godt senere, når brettingen har blitt for mange steg.
 
-### Table and kitchen
+### Bord og kjøkken
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Dekke bordet.** Legg ett sted som modell og la personen kopiere det. Hvis det er for mye, gi ett element om gangen: «Her er en gaffel til hver tallerken.»
+- **Sortere bestikk.** Bland rene gafler, skjeer og smørkniver i et kar, og sorter dem i en delt brett. La skarpe kniver ligge igjen.
+- **Tørke opp.** Plast- eller knuseløse tallerkener og et mykt håndkle gjør dette til en trygg oppgave.
+- **Tørke bord eller benker.** En fuktig klut og en ryddig flate. Alzheimer's Association foreslår å gi en klut hvis noen allerede gnir bordet med hånden, slik at en urolig bevegelse blir til noe nyttig.
 
-### Around the house
+### Rundt i huset
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Støvtørke.** En myk klut og noen solide flater, som et salongbord eller en bokhylle.
+- **Sortere post.** Gi reklame og kataloger å sortere i stabler: behold, kast i avfall, åpne senere. Ekte regninger og sjekker oppbevares et annet sted.
+- **Sortere avfall.** Rene bokser, flasker og papir i hver sin beholder.
+- **Feie.** En liten kost på terrassen eller kjøkkengulvet, hvis balansen er stabil.
+- **Vanne planter.** En liten, lett vannkanne og noen få planter innen rekkevidde.
 
-### Simple cooking with supervision
+### Enkel matlaging med oppsyn
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Matlaging kan vekke sterke, gode følelser. NIA foreslår at personen får samle ingredienser, måle, røre og helle, eller bare fortelle noen andre hvordan de lager en favorittoppskrift. Gode oppgaver er blant annet:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- å vaske grønnsaker eller frukt
+- å røre i røre eller en kald salat
+- å rive salat
+- å smøre brød med en sløv kniv
+- å legge kakedeig på et brett
+- å legge tilbehør på en pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Hvis det blir vanskelig å måle, foreslår Alzheimer's Association at du selv fullfører målingen og deretter gir personen et annet steg, for eksempel å røre.
 
-## How do I set up a chore so it goes well?
+## Hvordan legger jeg til rette for en oppgave slik at den går bra?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Velg riktig tidspunkt.** Velg en del av dagen når personen vanligvis er uthvilt og rolig. For mange er det morgenen.
+2. **Rydd plassen.** En oppgave, én flate, ingenting ekstra på bordet.
+3. **Inviter, ikke tildel.** «Jeg kunne trengt en hånd med disse» fungerer bedre enn «Nå er det tid for å brette klesvask.»
+4. **Vis det første.** Brett ett håndkle sakte, og gi så det neste. Å vise er tydeligere enn å forklare.
+5. **Gi ett steg om gangen.** For mange beskjeder på en gang kan bli overveldende. Vent til ett steg er ferdig før du nevner det neste.
+6. **Jobb side om side.** Å gjøre samme oppgave ved siden av hverandre føles som selskap, ikke tilsyn.
+7. **Snakk om oppgaven, ikke resultatet.** «Disse er så myke» eller «Fortell meg hvordan du pleide å ordne linskapet» inviterer til samtale uten å teste noen.
 
-## How do I adapt chores as abilities change?
+## Hvordan tilpasser jeg oppgavene når evnene endrer seg?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Evnene endrer seg over tid og til og med fra dag til dag. Alzheimer's Association foreslår å gå over til enklere og mer repetitive oppgaver etter hvert som sykdommen utvikler seg.
 
-| If this has become hard | Try this instead |
+| Hvis dette har blitt vanskelig | Prøv dette i stedet |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Å brette store laken | Brette vaskekluter eller glatte ut servietter |
+| Å dekke et fullt bord | Legge én serviett ved hver plass |
+| Å sortere post i kategorier | Stable konvolutter i én bunke |
+| Å følge en oppskrift | Røre, eller se på og smake mens du lager mat |
+| Å feie et helt gulv | Tørke av ett lite bord |
+| Å gjøre oppgaven i det hele tatt | Sitte med deg og holde deg med selskap mens du gjør den |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Å se på teller også. NIA påpeker at noen rett og slett liker å se på, og det er en fin måte å delta på.
 
-## How do I keep household tasks safe?
+## Hvordan holder jeg husarbeidet trygt?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Sikkerhet kommer først, særlig på kjøkkenet. NIAs [tips om hjemmesikkerhet for pårørende til Alzheimerspasienter](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) inkluderer:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Lås inn eller fjern rengjøringsmidler, inkludert vaskemiddelkapsler, som kan se ut som godteri.
+- Oppbevar kniver, saks og elektriske verktøy i et låst rom.
+- Sett sikkerhetsknotter og automatisk avstengning på komfyren.
+- Sett opp skilt med «Stopp» eller «Svært varmt» nær ovnen, brødristeren og strykejernet, plassert slik at de ikke kan ta fyr.
+- Still varmtvannsberederen til 120°F for å redusere faren for forbrenning.
+- Fjern kunstige frukter og magneter formet som mat, som kan se spiselige ut.
 
-A few more practical habits help:
+Noen flere praktiske vaner hjelper:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Bli i rommet når komfyren, ovnen eller et skarpt verktøy er i bruk.
+- Bruk knuseløse tallerkener til å tørke opp og dekke bordet.
+- Hold gulvet tørt og fritt når du feier eller moper.
+- Hvis personen pleide å bruke verktøy, foreslår Alzheimer's Association å fjerne farlige ting fra verkstedet, slik at en trygg oppgave, som å pusse et trestykke, fortsatt kan gi glede.
 
-## What if they do it "wrong"?
+## Hva hvis de gjør det «feil»?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+La det være. Et håndkle brettet i tredjedeler i stedet for halvdeler er fortsatt et brettet håndkle. Alzheimer's Association sier det rett ut: det som betyr noe, er å bruke tid sammen og at personen føler seg nyttig, ikke om håndklærne er brettet riktig. Hvis noe virkelig må gjøres om, vent til senere og gjør det utenfor synsfeltet.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Å korrigere i øyeblikket kan gjøre en hyggelig oppgave til en påminnelse om det som er tapt. «Takk, det var en stor hjelp» er nesten alltid det riktige å si.
 
-## When should we stop?
+## Når bør vi stoppe?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Stopp eller bytt når du ser tegn på frustrasjon, trøtthet eller tapt interesse. Å avslutte tidlig er et godt utfall, ikke et nederlag. Du kan:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- bytte til et enklere steg
+- gå over til noe hvilende, som musikk eller en kopp kaffe
+- prøve igjen senere eller en annen dag
+- rett og slett sitte sammen
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Hvis personen sier nei, ikke press. Se [hva du gjør når personen sier nei](/caregiving/when-they-say-no/) for milde måter å svare på.
 
-## Low-effort extras for a quieter moment
+## Lavinnsatsekstra for et roligere øyeblikk
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Når fysiske gjøremål ikke er mulig, kan sortering og paring fortsatt gjøres sittende. [Sort Together](/games/sort-together/) lar deg trykke på bilder og legge dem i kjøkken- eller hagekurver, og [Bildepar](/games/picture-pairs/) er et rolig memoryspill med store bilder og uten tidtaker. [Samtalekort](/games/conversation-cards/) har åpne spørsmål om hjem og familie som passer godt sammen med en kaffe etter at arbeidet er gjort.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+For hjelp med å få plass til gjøremål i dagen, se vår veiledning om en [rolig daglig rutine](/activities/daily-routine/). For flere ideer etter stadium, se [aktiviteter på middels stadium](/activities/middle-stage/).

@@ -1,33 +1,34 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Periodinis badavimas ir demencija: ką sako tyrimai"
+seoTitle: "Periodinis badavimas ir demencija: ką sako tyrimai"
+description: "Žmonių tyrimų apie periodinį badavimą ir demenciją įrodymai riboti. Sužinokite riziką vyresnio amžiaus žmonėms ir kodėl pakankamas valgymas svarbesnis."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Nėra gero įrodymo, kad periodinis badavimas užkerta kelią demencijai ar ją
+  sulėtina. Didžioji dalis tyrimų atlikta su gyvūnais, o tyrimai su vyresnio
+  amžiaus žmonėmis yra maži ir trumpi. Badavimas gali būti pavojingas vyresnio
+  amžiaus žmonėms: gali netekti svorio ir raumenų, nukristi cukraus kiekis kraujyje
+  vartojant kai kuriuos diabeto vaistus, atsirasti dehidratacija ir kritimai.
+  Žmogui, gyvenančiam su demencija, paprastai svarbiau pakankamai valgyti ir gerti.
+  Pirmiausia pasitarkite su gydytoju.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "Nacionalinis senėjimo institutas sako, kad nepakanka įrodymų rekomenduoti bet kokią badavimo ar kalorijų ribojimo dietą, ypač vyresnio amžiaus žmonėms."
+  - "Didžioji dalis tyrimų apie badavimą ir senėjimą atlikta su gyvūnais, o šie rezultatai nebūtinai taikomi žmonėms."
+  - "Galimos rizikos vyresnio amžiaus žmonėms: nenumatytas svorio kritimas, raumenų netekimas, mažas cukraus kiekis kraujyje vartojant kai kuriuos diabeto vaistus, dehidratacija, svaigulys ir kritimai."
+  - "Žmonės, gyvenantys su demencija, dažnai pamiršta valgyti ar gerti arba mano, kad jau valgė. Padėti jiems pakankamai valgyti ir gerti paprastai svarbiau nei tai, kada jie valgo."
+  - "Žmogui, gyvenančiam su demencija, badavimo nederinkite. Prieš bet kokį mitybos režimo pokytį pasitarkite su gydytoju ar registruotu mitybos specialistu."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Ar periodinis badavimas užkerta kelią Alzheimerio ligai?"
+    a: "Nėra geros įrodymų, kad taip. Didžioji dalis tyrimų atlikta su gyvūnais, o tyrimai su žmonėmis dažniausiai buvo trumpi, atlikti su jaunesniais ar antsvorio turinčiais suaugusiaisiais ir daugiausia sutelkti į svorio netekimą. Nacionalinis senėjimo institutas sako, kad nepakanka įrodymų rekomenduoti badavimo dietas visuomenei."
+  - q: "Ar periodinis badavimas saugus vyresnio amžiaus žmonėms?"
+    a: "Gali būti, kad ne. Badavimas gali sukelti nenumatytą svorio ir raumenų netekimą, dehidrataciją, svaigulį ir kritimus, o žmonėms, vartojantiems insuliną ar kai kuriuos kitus diabeto vaistus, gali sukelti pavojingai mažą cukraus kiekį kraujyje. Mayo klinika pažymi, kad tai gali netikti žmonėms, kuriems kyla didelė kaulų netekimo ir kritimų rizika. Prieš bandydami, pasitarkite su gydytoju."
+  - q: "Ar žmogus su demencija turėtų bandyti badavimą?"
+    a: "Ne. Žmonėms, gyvenantiems su demencija, dažnai sunku pakankamai valgyti ir gerti, o prasta mityba gali didinti elgesio simptomus ir sukelti svorio netekimą. Badavimas prideda rizikos be įrodytos naudos. Vietoj to sutelkite dėmesį į įprastus valgius, užkandžius, kurie patinka, ir pakankamą gėrimų kiekį."
+  - q: "Kokie ženklai rodo, kad žmogus su demencija nepakankamai valgo ar geria?"
+    a: "Stebėkite svorio netekimą, drabužius, kurie tampa per laisvi, nuovargį, silpnumą, vidurių užkietėjimą ar atsisakymą valgyti. Nacionalinio senėjimo instituto išvardyti dehidratacijos ženklai yra sausa burna, svaigulys, greitas širdies plakimas ir haliucinacijos. Jei tai pastebite, pasakykite jo gydytojui."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +56,125 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Periodinis badavimas, pavyzdžiui, valgymas tik per aštuonių valandų langą arba
+smarkus kalorijų mažinimas dvi dienas per savaitę, sulaukia daug dėmesio, o kai
+kuriuose straipsniuose teigiama, kad tai gali saugoti smegenis. Jei esate vyresnio
+amžiaus arba rūpinatės žmogumi, gyvenančiu su demencija, štai ką iš tikrųjų rodo
+tyrimai ir kodėl svarbu būti atsargiems.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Tai bendra informacija, ne medicininė konsultacija. Nepradėkite badauti ir nekeiskite
+to, kaip valgo jūsų globojamas žmogus, nepasitarę su gydytoju ar registruotu mitybos
+specialistu. Žr. mūsų [medicininį atsakomybės apribojimą](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Ar periodinis badavimas užkerta kelią demencijai?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Nėra geros įrodymų, kad periodinis badavimas užkerta kelią demencijai ar ją sulėtina.
+Nacionalinis senėjimo institutas (NIA) sako, kad nepakanka įrodymų rekomenduoti bet
+kokią kalorijų ribojimo ar badavimo dietą ir kad dar daug reikia sužinoti apie jų
+veiksmingumą ir saugumą, ypač vyresnio amžiaus suaugusiesiems
+([NIA apie kalorijų ribojimą ir badavimą](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Kodėl įrodymai tokie riboti
 
-The NIA gives several reasons:
+NIA pateikia kelias priežastis:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **Dauguma tyrimų atlikti su gyvūnais.** Tyrimai su kirminais, muselėmis, pelėmis ir
+  beždžionėmis davė įdomių rezultatų, bet šie radiniai nebūtinai taikomi žmonėms. Net ir
+  gyvūnams rezultatai prieštaringi: kai kuriose pelių linijose kalorijų ribojimas sutrumpino
+  gyvenimą.
+- **Tyrimai su žmonėmis buvo trumpi.** Dauguma truko kelias savaites ar mėnesius.
+- **Dauguma tyrimų su žmonėmis sutelkti į svorio netekimą** antsvorio turinčiems suaugusiesiems,
+  o ne į atmintį ar demenciją.
+- **Vyresnio amžiaus žmonės retai įtraukiami.** Daugelyje tyrimų dalyvavo žmonės, kuriems buvo
+  60 metų ar jaunesni.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+2026 m. sisteminė apžvalga konkrečiai nagrinėjo periodinį badavimą suaugusiesiems nuo 60 metų.
+Ji rado, kad šioje amžiaus grupėje įrodymai vis dar riboti: mažos apklausos, trumpas stebėjimas
+ir įvairūs tyrimų dizainai. Mąstymo ir atminties radiniai buvo gauti iš atskirų tyrimų, o ne iš
+apibendrintų bandymų rezultatų. Apžvalgoje taip pat pažymėta, kad kai kurie tyrimai sieja labai
+trumpus valgymo langus ar ilgus badavimus su blogesniais rezultatais, todėl autoriai ragino
+vyresnio amžiaus žmones būti atsargiems
+([2026 m. apžvalga žurnale Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Kai kurie mokslininkai mano, kad kūno perjungimas į riebalų deginimą badavimo metu gali paveikti
+smegenis, tačiau tai vis dar teorija, kuriama tyrimais. NIA pažymi, kad mokslas čia neaiškus.
 
-## What are the risks of fasting for older adults?
+## Kokia badavimo rizika vyresnio amžiaus žmonėms?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Daugeliui vyresnio amžiaus žmonių badavimas nėra nekenksmingas eksperimentas. Galimos rizikos:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Nenumatytas svorio netekimas.** Valgant mažiau, nei reikia organizmui, gali prarasti svorį ir
+  raumenų jėgą, todėl žmogus gali tapti dar silpnesnis.
+- **Raumenų ir kaulų netekimas.** NIA remiamame dvejų metų kalorijų ribojimo tyrime su jaunais ir
+  viduriniojo amžiaus suaugusiaisiais dalyviai turėjo nedidelį kaulų tankio ir liesos kūno masės
+  sumažėjimą.
+- **Mažas cukraus kiekis kraujyje vartojant diabeto vaistus.** Žmonės, vartojantys insuliną ar kai
+  kuriuos kitus diabeto vaistus, gali turėti per mažą cukraus kiekį kraujyje, jei praleidžia ar
+  atideda valgymą, pagal
+  [Nacionalinį diabeto, virškinimo ir inkstų ligų institutą](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
+  Mažas cukraus kiekis gali sukelti svaigulį, sumišimą ir irzlumą.
+- **Dehidratacija.** Jei praleidžiami ne tik valgiai, bet ir gėrimai, žmogus gali dehidruotis.
+- **Svaigulys ir kritimai.** Mayo klinika pažymi, kad periodinis badavimas gali sukelti stiprų
+  nuovargį ir svaigulį, ir kad tai gali būti netinkamas modelis žmonėms, kuriems didelė kaulų
+  netekimo ir kritimų rizika
+  ([Mayo klinika apie periodinį badavimą](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Kiti poveikiai.** Mayo klinika taip pat mini galvos skausmą, nuotaikos svyravimus ir vidurių
+  užkietėjimą, o taip pat pažymi, kad kai kurie įrodymai rodo, jog 16 valandų badavimas su 8 valandų
+  valgymo langu gali didinti širdies ligų riziką, palyginti su kitais valgymo langais. Šie įrodymai
+  dar nėra galutiniai.
 
-## Why is eating enough the bigger concern with dementia?
+## Kodėl pakankamas valgymas yra didesnis rūpestis esant demencijai?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+Žmonėms, gyvenantiems su demencija, dažniausia problema yra gauti **pakankamai** maisto ir gėrimų, o
+ne per daug. Alzheimer's Association paaiškina, kad žmonės vidutinėje ir vėlyvojoje stadijoje gali
+pasijusti priblokšti maisto pasirinkimų, pamiršti valgyti ar manyti, kad jau valgė. Ji priduria, kad
+prasta mityba gali didinti elgesio simptomus ir sukelti svorio netekimą
+([Alzheimer's Association apie maistą ir valgymą](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society pažymi, kad nepakankamas valgymas gali sukelti svorio netekimą, mažesnę raumenų
+jėgą, nuovargį ir silpnumą, todėl žmogus tampa silpnesnis ir sunkiau atsigauna po infekcijų
+([Alzheimer's Society apie apetitą](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Dėl šių priežasčių badavimas nėra gera mintis žmogui, gyvenančiam su demencija.** Praleisti valgiai
+lengvai virsta praleistais valgiais. Bet kokį žmogaus su demencija valgymo pokytį turėtų vadovauti jo
+gydytojas ar registruotas mitybos specialistas.
 
-## What are the warning signs of poor eating or drinking?
+## Kokie yra prastos mitybos ar gėrimų ženklai?
 
-Watch for:
+Stebėkite:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Svorio netekimą** ar drabužius, kurie tampa laisvesni.
+- **Maisto palikimą ar valgio atsisakymą** arba maisto laikymą burnoje.
+- **Nuovargį ar silpnumą.**
+- **Vidurių užkietėjimą**, kuris gali būti susijęs su mityba ir dehidratacija.
+- **Dehidratacijos ženklus.** NIA išvardija sausą burną, svaigulį, greitą širdies plakimą ir
+  haliucinacijas, kurias taip pat gali sukelti pati demencija
+  ([NIA apie dažnas medicinines problemas](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Prasto apetito priežasčių gali būti daug: skaudantys dantys ar laisvi protezai, nauji vaistai, depresija,
+vidurių užkietėjimas, mažesnis aktyvumas ar skonio ir kvapo pokyčiai. Apie bet kurį iš šių ženklų
+pasakykite žmogaus gydytojui. Jie gali ieškoti priežasties ir gali pasiūlyti mitybos specialistą ar papildus.
 
-## How can you help someone eat and drink enough?
+## Kaip padėti žmogui pakankamai valgyti ir gerti?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Siūlykite mažus valgius ir užkandžius dažnai,** o ne tris didelius valgius.
+- **Duokite mėgstamo maisto** ir būkite lankstūs, kai skoniai keičiasi. Saldūs patiekalai gali būti
+  maloniai priimami, jei apetitas menkas; paklauskite gydytojo, ar yra sveikatos priežasčių riboti cukrų.
+- **Laikykite gėrimus pasiekiamus** ir siūlykite mažus puodelius per visą dieną. Sriubos, vaisiai,
+  glotnučiai ir pieno kokteiliai irgi skaičiuojasi.
+- **Valgykite kartu,** kai galite. Valgis – proga pabendrauti, o ne užduotis, kurią reikia skubiai atlikti.
+- **Bandykite maistą rankomis,** pavyzdžiui, sumuštinius, vaisių skilteles ar vištienos gabalėlius,
+  jei įrankiais naudotis tapo sunku.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Mūsų [mitybos vadove](/brain-health/diet/) yra daugiau idėjų apie valgymo laiką. Maisto ruošimas gali
+būti malonia bendra veikla; žr. [namų ūkio darbus](/activities/household-tasks/).
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Prieš bandydami bet kokį badavimo planą patys, pasitarkite su gydytoju ar registruotu mitybos
+specialistu, ypač jei vartojate diabeto ar kraujospūdžio vaistus, neseniai numetėte svorio ar
+patyrėte kritimų. Žmogui, gyvenančiam su demencija, paklauskite jo gydytojo, kiek jis turėtų valgyti
+ir gerti per dieną, o ne apie badavimą.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Skubios medicininės pagalbos kreipkitės dėl staigaus sumišimo, alpimo ar ženklų, kad cukraus kiekis
+kraujyje labai žemas ir greitai negerėja.

@@ -1,32 +1,28 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Atmiņu aktivitātes: kastes, dzīves stāsti un fotogrāfijas"
+seoTitle: "Atmiņu aktivitātes demencei: idejas bez viktorīnas"
+description: "Kā dalīties atmiņās ar cilvēku ar demenci bez viktorīnas: sarunas par fotogrāfijām, atmiņu kastes un dzīves stāstu grāmatas ar vienkāršām frāzēm."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Atmiņu aktivitāte nozīmē kopā priecāties par pagātni, izmantojot fotogrāfijas, priekšmetus, mūziku un stāstus. Izveidojiet atmiņu kasti, vienkāršu dzīves stāsta grāmatu vai aplūkojiet fotogrāfijas līdzās. Nekad neizjautājiet: neizmantojiet „Vai atceries?” un „Kas tas ir?”, bet aicinājumus, piemēram, „Pastāsti man par šo.” Silta saruna ir svarīgāka par pareiziem faktiem.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Atmiņu aktivitāte ir saruna, nevis tests. Precizitāte nav svarīga; svarīga ir bauda."
+  - "Aizstājiet „Vai atceries...?” un „Kas tas ir?” ar komentāriem un aicinājumiem, piemēram, „Pastāsti man par šo dienu.”"
+  - "Atmiņu kaste ar priekšmetiem no cilvēka dzīves dod rokām un sarunai ko turēties."
+  - "Dzīves stāsta grāmata palīdz ģimenei, apmeklētājiem un aprūpes darbiniekiem iepazīt cilvēku, nevis tikai diagnozi."
+  - "Ja atmiņa atnes skumjas, vispirms nomieriniet un maigi pārejiet tālāk."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Kas ir atmiņu aktivitāte cilvēkiem ar demenci?"
+    a: "Atmiņu aktivitāte ir atmiņu un pagātnes pieredzes dalīšanās, bieži ar fotogrāfiju, priekšmetu, mūzikas vai video palīdzību. Tā var notikt viens pret vienu vai grupā. Mērķis ir patīkama, nozīmīga saruna, nevis pārbaudīt, ko cilvēks spēj atcerēties."
+  - q: "Kāpēc nevajadzētu jautāt „Vai tu atceries?”"
+    a: "Jautājumi, kas pārbauda atmiņu, var likt cilvēkam justies kaunīgam vai nemierīgam, ja atbilde nenāk. National Institute on Aging kā izvairāmu uzskaita jautājumu, vai cilvēks atceras kaut ko vai kādu. Tā vietā komentējiet, ko redzat, un ļaujiet cilvēkam pievienot, ko vēlas."
+  - q: "Ko likt atmiņu kastē?"
+    a: "Izvēlieties drošus, izturīgus priekšmetus, kas saistīti ar cilvēka dzīvi: darba lietas, hobija piederumus, mīļu šalli, pastkartes, receptes kartītes, sporta suvenīrus vai fotogrāfiju kopijas. Izvairieties no asiem priekšmetiem, sīkiem priekšmetiem, ko varētu norīt, un neatjaunojamiem oriģināliem."
+  - q: "Ko darīt, ja viņi sajauc faktus?"
+    a: "Ļaujiet tam būt. Ja mamma saka, ka fotogrāfijā ir viņas māsa, kad tā ir brālēns, tas ir labi. Labošana silto brīdi pārvērš testā. Sekojiet stāstam, ko viņi stāsta, un baudiet to kopā."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +37,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Atmiņu aktivitāte vienkārši nozīmē kopā priecāties par pagātni. Daudziem cilvēkiem ar demenci atmiņas no pirms desmitgadēm ir skaidrākas nekā tas, kas notika šorīt. Fotogrāfijas, pazīstami priekšmeti, mūzika un stāsti var šīs atmiņas atvērt un dot kaut ko siltu, ko dalīties. Viens noteikums: tā ir saruna, nekad viktorīna.
 
-## What is reminiscence, and how is it different from quizzing?
+## Kas ir atmiņu aktivitāte un kā tā atšķiras no izjautāšanas?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Atmiņu aktivitāte ir atmiņu dalīšanās ar fotogrāfiju, priekšmetu, mūzikas vai video palīdzību, cilvēka paša tempā. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) to raksturo kā pagātnes pieredzes un stāstu dalīšanos ar fotogrāfiju, priekšmetu, video vai mūzikas palīdzību, grāmatā vai planšetē. Izjautāšana ir cita lieta: tā prasa dot pareizu atbildi, un tas var radīt kaunu, nevis baudu.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) kā izvairāmu uzskaita jautājumu, vai cilvēks atceras kaut ko vai kādu. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) iesaka izvairīties no jautājumiem, kas balstīti uz īstermiņa atmiņu, un tā vietā runāt par tālāku pagātni.
 
-| Instead of | Try |
+| Tā vietā, lai teiktu | Izmēģiniet |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „Vai tu to atceries?” | „Šķiet, ka tā bija laimīga diena. Pastāsti man par to.” |
+| „Kas tas ir?” | „Šeit ir tante Roze pludmalē. Paskaties uz to cepuri.” |
+| „Kurš gads tas bija?” | „Šķiet, ka tā ir vecā māja. Kā bija dzīvot tur?” |
+| „Nē, tas nav Bils, tas ir Frenks.” | „Viņš izskatās ļoti jautrs.” |
+| „Tu man to jau stāstīji.” | „Man patīk šis stāsts.” |
 
-## How do you talk about photos without quizzing?
+## Kā runāt par fotogrāfijām, nejautājot?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Sāciet ar to, ko redzat, un pēc tam atstājiet vietu, lai cilvēks var kaut ko pievienot, ja vēlas.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sēdiet blakus.** Turiet albumu starp sevi, lai skatāties kopā, nevis pārbaudāt pāri galdam.
+2. **Izvēlieties dažas fotogrāfijas.** Pieci labi attēli ir labāki par visu kasti. Vislabāk darbojas lielas, skaidras drukas.
+3. **Nosauciet cilvēkus paši.** „Šeit esat tu un tētis savās kāzu dienā” noņem spiedienu.
+4. **Komentējiet detaļas.** Apģērbs, automašīnas, ēdiens, laika apstākļi, sejas. „Cik skaista mašīna. Šķiet, ka tā ir tik spīdīga.”
+5. **Aicinājiet, nepieprasiet.** „Pastāsti man par...” vai „Ko tu pamani?” Klusums ir labi.
+6. **Sekojiet viņu vadībai.** Ja viņi runā par pavisam ko citu, dodieties līdzi.
+7. **Apstājieties, kamēr tas ir patīkami.** Aizveriet albumu, pirms parādās nogurums.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Gatavām attēlu uzvednēm izmantojiet [sarunu kartītes](/games/conversation-cards/). Lai savas ģimenes fotogrāfijas pārvērstu maigā sapārošanas spēlē, izmantojiet [fotogrāfiju pārus](/games/photo-pairs/); izvēlētās fotogrāfijas paliek jūsu pārlūkprogrammā.
 
-## How do you make a memory box?
+## Kā izveidot atmiņu kasti?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Atmiņu kaste ir trauks ar priekšmetiem no cilvēka dzīves, ko aplūkot un par ko runāt.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Izvēlieties izturīgu kasti,** ko ir viegli atvērt, piemēram, kurpju kasti, cepures kasti vai nelielu koka lādīti.
+2. **Izvēlieties tēmu vai maisījumu.** Darbs, hobijs, vieta, dekāde vai nedaudz no visa.
+3. **Savāciet drošus priekšmetus.** Sākumam pietiek ar pieciem līdz desmit.
+4. **Izmantojiet dārgu lietu kopijas.** Kopējiet neatjaunojamas fotogrāfijas un dokumentus, bet oriģinālus glabājiet drošībā.
+5. **Izņemiet pa vienam.** Pasniedziet vienu, pastāstiet kaut ko par to un redziet, kur saruna aizved.
 
-Ideas to include:
+Iekļaujamās idejas:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Darbs:** vārda identifikators, neliels instruments, uniformas aplikācija, reģistrācijas grāmata, medmāsas piespraude, ēdienu grāmata no kafejnīcas.
+- **Mājas:** receptes kartīte viņu rokrakstā, virtuves dvielis, mīļa šalle vai kaklasaite.
+- **Hobiji:** makšķerēšanas mānekļis bez āķa, beisbola bumba, dzijas kamols, sēklu paciņa.
+- **Vietas:** pastkartes, kartes, tūrisma suvenīrs, dzimtās pilsētas laikraksta izgriezums.
+- **Ģimene:** fotogrāfiju kopijas, bērna zīmējums, kāzu ielūgums.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Izlaidiet asus priekšmetus, sīkas lietas, ko varētu norīt, un visu, kas var atnest sāpīgas atmiņas, ja vien nezināt, ka tas ir gaidīts.
 
-## How do you make a life-story book?
+## Kā izveidot dzīves stāsta grāmatu?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Dzīves stāsta grāmata ir vienkāršs fotogrāfiju albums ar īsiem parakstiem par cilvēka dzīvi. To var aplūkot kopā, un tā palīdz apmeklētājiem un aprūpes darbiniekiem redzēt visu cilvēku.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Izvēlieties formātu.** Mape ar plēvēm, drukāta fotogrāfiju grāmata vai slaidrāde planšetē.
+2. **Ieplānojiet dažas sadaļas.** Bērnība, skola, darbs, ģimene, dzīvotās vietas, ticība, hobiji, iecienītākie ēdieni un mūzika.
+3. **Pievienojiet vienu vai divas fotogrāfijas lapā** ar īsu parakstu lielā drukā: „Marija, 22 gadi, sāk strādāt bankā.”
+4. **Iekļaujiet patikas un rutīnu.** „Dzer kafiju ar pienu. Mīl svētdienas korāļus. Nepatīk skaļš televizors.” Tas palīdz ikvienam, kas viņu aprūpē.
+5. **Iesaistiet cilvēku** tik, cik viņš vēlas: izvēloties fotogrāfijas, stāstot stāstus vai vienkārši vērojot, kā tā top.
+6. **Turpiniet papildināt.** Tai nav jābūt pabeigtai, lai tā būtu noderīga.
 
-## More reminiscence ideas
+## Vairāk atmiņu aktivitāšu ideju
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Atskaņojiet mūziku no viņu jaunības** un runājiet par to, kur tā viņus aizved. Skatiet [mūzikas aktivitātes](/activities/music/).
+- **Skatieties mājas filmas vai TV pārraides** no viņiem mīļākajām dekādēm.
+- **Pagatavojiet bērnības ēdienu** un ļaujiet smaržām vadīt sarunu.
+- **Apskatiet karti** savas dzimtās pilsētas un iezīmējiet pazīstamas ielas.
+- **Aplūkojiet vecus katalogus vai žurnālus** un runājiet par cenām, modi un automašīnām.
+- **Ierakstiet viņu stāstus** tālrunī, ar viņu atļauju, ģimenei.
+- **Dalieties zvanu laikā.** Video zvanā parādiet vienu fotogrāfiju; skatiet [telefona un video zvanus](/activities/phone-and-video-calls/).
+- **Atnesiet fotogrāfiju vai priekšmetu, kad apmeklējat.** Tas dod apmeklējumam vienkāršu fokusu; skatiet [apmeklējumus](/activities/visiting/).
 
-## What if a memory is painful?
+## Ko darīt, ja atmiņa ir sāpīga?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Dažas atmiņas atnes skumjas, nožēlu vai bailes. Ja cilvēks kļūst satraukts, apstājieties, mierinājiet viņu un maigi mainiet tēmu vai aktivitāti. Nestrīdieties par to, kas notika. Family Caregiver Alliance iesaka neapgalvot, ka cilvēks kļūdās, un reaģēt uz jūtām, kas ir īstas. Ja viņš runā par kādu, kas miris, it kā tas būtu dzīvs, reaģējiet uz sajūtu: „Tu ilgojies pēc viņas. Pastāsti man par viņu.”
 
-## What does the research say?
+## Ko saka pētījumi?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane pārskats par atmiņu terapiju](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), kurā apskatīti 22 pētījumi un 1 972 cilvēki, atrada, ka ietekme bija nekonsekventa, neliela un atšķīrās atkarībā no vides un formāta. Nekādu pierādījumu par kaitējumu cilvēkiem ar demenci nebija. Mēs iesakām atmiņu aktivitātes, jo tās var padarīt siltu un nozīmīgu kopā pavadītu laiku, nevis kā ārstēšanu. Vairāk par vienkāršu sarunu skatiet [saziņas padomus](/caregiving/communication-tips/).
