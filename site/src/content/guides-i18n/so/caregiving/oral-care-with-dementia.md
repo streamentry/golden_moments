@@ -23,7 +23,7 @@ faq:
     a: "Diyaari burushka ilkaha iyo agabka kale, kadibna isticmaal tilmaam gaaban oo ku saabsan hal tallaabo mar kasta. U daa qofku inuu ilkihiisa keligiis tuuro meelaha uu awoodo, oo ogolaansho weydii ka hor inta aadan caawin shaqo gaar ah."
   - q: "Intee jeer ayuu qofka dementia qabo u baahan yahay inuu tago dhakhtarka ilkaha?"
     a: "Raac talada dhakhtarka ilkaha ee qofkaas. U sheeg kooxda ilkaha isbedelada xiriirka iyo baahiyaha taageerada si ay u soo jeediyaan qorshe ballan oo ku habboon."
-  - q: "Maxay tahay calaamad xanuunka afka ama ilkaha la-dhaqan ah?"
+  - q: "Maxay tahay calaamad xanuunka afka ama ilkaha ee la xiriira?"
     a: "Qofku wuxuu jiifsan karaa wejiga, diidi karaa tuurista ama cuntada, ama wuu u muuqan karaa mid aan raaxo lahayn. Calaamadahan sababo kale ayay leeyihiin, sidaas darteed weydii dhakhtarka ilkaha inuu hubiyo ha isku dayin inaad dhibaatada qudhaada ogaato."
 sources:
   - title: "Dental Care"
@@ -57,9 +57,27 @@ Weydii ka hor inta aadan caawin, xitaa haddii qofku hore u baahnaa caawimo. U sh
 
 Haddii qofku u baahan yahay caawimo jidh-ku-jir ah, sharax tallaabo kasta ka hor inta aadan sameynin, oo jooji haddii uu muujiyo welwel. Dhakhtarka ilkaha ayaa tusi kara habka ammaan ah ee u habboon baahiyaha qofka. Ha isku dayin hage jireed oo aad isku haysid, ama farsamo aan xirfadle caafimaad ahi kuu tusin.
 
-## Maxaan ka ogaado dhakhaatiirta ilkaha?
+## Maxaan ku saabsan yahay ilkaha been abuurka ah?
 
-Ilkaha meesha ka dhaca ma aha mid had iyo jeer si fudud loo sharxi karo. Ka jiifsashada wejiga, diidista burushka, isbedelka cunista ama hurdada oo jirta ayaa laga yaabaa inay yihiin calaamado, laakiin ma caddeeyaan dhibaato ilkaha. U sheeg dhakhtarka ilkaha waxa aad aragtay iyo markii ay bilaabatay. Dhakhtarka ilkaha ayaa hubin kara xanuunka, dhibaatada dhuxusha, qalalaaska ilkaha ama ilkaha la-dhaqan ah oo aan wali si fiican u qaadin.
+Ilkaha been abuurka ah dhig meesha caadiga ah ee qofku ku aqoonsan yahay. Weydii dhakhtarka ilkaha sida loo nadiifiyo oo loo kaydiyo, iyo haddii la hubin karo inay ku habboon yihiin haddii qofku welwel muujiyo. Haddii ilkaha la xidho goob daryeel ah, calaamee weelka kaydinta si shaqaalaha ay u aqoonsadaan.
+
+Ha ku qasbin ilkaha been abuurka ah afka qofka haddii uu diido ama uu u muuqdo inuu xanuun qabo. Ilkaha dhaqaajiya ama aan raaxo lahayn ayaa cunista ka dhigi kara mid adag; weydii dhakhtarka ilkaha waxa la sameeyo. [Hagaha cuntada](/caregiving/mealtimes-with-dementia/) wuxuu daboolayaa sida loo habeeyo cunto degan iyo goorta dhibaatooyinka cuntada ay u baahan yihiin talo xirfadle.
+
+## Sidee u diyaarin karaa booqashada ilkaha?
+
+Ballan qabso waqti ay qofku badanaa nasan yahay. Marka qofku oggolaado, u sheeg xafiiska ilkaha horay in ay u baahan karaan waqti dheeraad ah, sharax degan, ama caawimo qof ay isku kalsoon yihiin. Qaado liis casri ah oo daawooyinka iyo qoraal gaaban oo ku saabsan waxa ku adkaaday, sida burushka, cunista ama xidhashada ilkaha been abuurka ah.
+
+Weydii kooxda ilkaha inay sharxaan waxa dhici doona tallaabo tallaabo. Qof uu yaqaan ayaa caawin kara qofka inuu dareemo nabad, laakiin qofku waa inuu ka qayb galo wada hadalka iyo go'aannada. Haddii safarka xafiiska caadiga ah adkaado, weydii dhakhtarka ilkaha ikhtiyaarrada ballanka ee la gaadhi karo deegaankaaga.
+
+## Sidee caawiyayaasha kale u ilaali karaan habka isku mid ah?
+
+Haddii xubin qoyska, shaqaale guriga daryeelka ama shaqaale goob daryeel caawiyo, la heshiiso qofka habka uu ku raaxaysto. Isticmaal meesha la yaqaan iyo tilmaam gaaban marka ay suurtogal tahay. Weydii haddii qofku doorbido in qof gaar ah uu caawiyo mar kasta.
+
+Haddii qofku ogolaado, la wadaag oo keliya faahfaahinta ku caawisa caawiyaha xiga: waqtiga la doorbido, waxa uu qofku isagu sameyn karo, tallaabada adag iyo goorta uu rabo in caawimadu joogsato. Qoraalka ilaali si qarsoodi ah, oo raac habka caadiga ah ee goobta daryeelka. Qoraal habka waa hage, ma aha ogolaansho in la sii wado markii qofku yiraahdo maya. Doorashooyinku way isbeddeli karaan, sidaas darteed weydii mar kale oo la waafaqsan. Haddii habab badan ay noqdeen kuwo adag, u sharax dhakhtarka ilkaha waxa aad aragtay oo weydii talo qofkaas.
+
+## Maxaan u sheegaa dhakhtarka ilkaha?
+
+Ilkaha meesha ka dhaca ma aha mid had iyo jeer si fudud loo sharxi karo. Ka jiifsashada wejiga, diidista burushka, isbedelka cunista ama hurdada oo jirta ayaa laga yaabaa inay yihiin calaamado, laakiin ma caddeeyaan dhibaato ilkaha. U sheeg dhakhtarka ilkaha waxa aad aragtay iyo markii ay bilaabatay. Dhakhtarka ilkaha ayaa hubin kara xanuunka, dhibaatada dhudhunka, godad ilkaha ama ilkaha ee la xiriira oo aan wali si fiican u qaadin.
 
 Haddii qof uu dhibaato cusub ka qabo nuugista ama cunista, la xiriir xirfadlahiisa caafimaadka ama dhakhtarka ilkaha. Ha beddelin qaabka cuntada, ha isticmaalin daawooyin afka, ama ha isku dayin habab nuugis oo ku salaysan maqaal guud. Raadi caawimo degdeg ah xanuun daran, barar, dhiig ama dhibaato kale oo caafimaad oo degdeg ah.
 
