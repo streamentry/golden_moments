@@ -1,7 +1,7 @@
 ---
 title: "Tlhokomelo ya Dipholo le Dementia: Thusa Tlwaelo e e Abelanwang"
 seoTitle: "Thuso ya Tlhokomelo ya Dipholo ya Motho yo o nang le Dementia"
-description: "Thusa motho yo o nang le dementia go tswelela ka tlwaelo ya tlhokomelo ya phoofolo ka dikgopotso, thuso e e dumelanweng le merero ya tsosoloso e e tlotlang dikgetso tsa motho le tlhokego ya phoofolo."
+description: "Thusa motho yo o nang le dementia go tswelela ka tlhokomelo ya phoofolo ka dikgopotso, thuso e e dumelanweng le merero ya tsosoloso e e tlotlang dikgetso tsa gagwe."
 section: caregiving
 order: 15
 updated: 2026-11-11
