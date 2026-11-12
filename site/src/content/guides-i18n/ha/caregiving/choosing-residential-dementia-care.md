@@ -1,7 +1,7 @@
 ---
 title: "Zaɓar Kulawar Zama Ga Mai Ciwon Mantuwa"
 seoTitle: "Zaɓar Kulawar Ciwon Mantuwa: Abin da Za a Tambaya"
-description: "Kwatanta kulawar zama ga mai ciwon mantuwa ta buƙatun mutum, hanyar ma'aikata, rayuwar yau da kullum da kudi. Ka sa shi ya shiga ziyara da yanke shawara gwargwadon yadda yake so."
+description: "Kwatanta kulawar zama ga mai ciwon mantuwa ta buƙatun mutum, ma'aikata, rayuwar yau da kullum da kudi. Ka sa shi ya shiga zaɓi gwargwadon yadda yake so."
 section: caregiving
 order: 25
 updated: 2026-11-11

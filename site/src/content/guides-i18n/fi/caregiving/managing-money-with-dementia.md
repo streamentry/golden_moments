@@ -66,7 +66,7 @@ Tämä opas antaa yleistä tietoa Yhdysvaltain lukijoille. Pankkivaihtoehdot ja 
 
 Kysykää ihmiseltä, mihin raha-asiaan hän haluaisi apua. Hän voi haluta katsoa laskun yhdessä, lajitella postia, muistaa eräpäivän tai tarkistaa odottamattoman pyynnön. Ihminen voi haluta apua joihinkin tehtäviin ja hoitaa muut itse.
 
-- **Kysykää ennen toimimista.** Kokeilkaa: ”Haluaisitko katsoa tämän laskun yhdessä?” Antakaa ihmiselle aikaa päättää.
+- **Kysykää ennen toimimista.** Kokeilkaa esimerkiksi: ”Katsotaanko tämä lasku yhdessä?” Antakaa ihmiselle aikaa päättää.
 - **Keskittykää yhteen tehtävään.** Jos ihminen suostuu, käykää läpi summa, eräpäivä ja maksuvaihtoehdot yhdessä. Antakaa hänen tehdä ne valinnat, jotka hän haluaa tehdä.
 - **Tehkää yhdessä yksinkertainen muistiinpano.** Lyhyt lista laskuista, eräpäivistä tai sovituista vaiheista voi auttaa molempia näkemään, mitä on hoidettu.
 - **Kysykää pankilta sen vaihtoehdoista.** Pankki voi tarjota tapoja helpottaa maksamista tai tilitapahtumien seurantaa. Kysykää, mitä kukin vaihtoehto sallii, ennen kuin muutatte tilin asetuksia.
