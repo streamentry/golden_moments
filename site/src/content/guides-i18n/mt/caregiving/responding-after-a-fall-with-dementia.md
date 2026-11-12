@@ -12,14 +12,14 @@ summary: >-
   jew fil-werrej, għal korriment serju, jew jekk ma tkunx tista' tqum. Anke jekk
   tidher tajba, ikkuntattja professjonist tas-saħħa għal parir.
 keyPoints:
-  - "Iċċekkja għal korriment jew uġigħ, imma tgħaġġilx lill-persuna u tiġbidhiex biex tqumm."
+  - "Iċċekkja għal korriment jew uġigħ, imma tgħaġġilx lill-persuna u tiġbidhiex biex tqum."
   - "Uża s-servizzi ta' emerġenza lokali jekk hemm possibbiltà ta' korriment fir-ras, fid-dahar, fl-għonq jew fil-werrej, korriment serju, jew jekk il-persuna ma tistax tqum."
-  - "Tippruvax terfa' lill-persuna waħedek; żomm lilha komda u sħuna filwaqt li tistenna l-għajnuna."
+  - "Tippruvax terfa' lill-persuna waħdek; żomm lilha komda u sħuna filwaqt li tistenna l-għajnuna."
   - "Ikkuntattja professjonist tas-saħħa wara waqgħa, anke jekk ma tkunx tidher korriment ċar."
   - "Ladarba jiġu indirizzati l-bżonnijiet immedjati, innota x'ġara u staqsi dwar is-segwitu."
 faq:
   - q: "X'għandi nagħmel immedjatament wara li persuna b'demenza taqa'?"
-    a: "Oqgħod kalma, iċċekkja jekk il-persuna hijiex morda jew mhix tajba, u tgħaġġilhiex biex toqgħod. Ikkuntattja l-għajnuna ta' emerġenza għal korriment serju possibbli jew jekk ma tkunx tista' tqum. Jekk m'intix ċert x'għandek tagħmel, ikkuntattja parir mediku urġenti lokali."
+    a: "Oqgħod kalm, iċċekkja jekk il-persuna hijiex morda jew mhix tajba, u tgħaġġilhiex biex toqgħod. Ikkuntattja l-għajnuna ta' emerġenza għal korriment serju possibbli jew jekk ma tkunx tista' tqum. Jekk m'intix ċert x'għandek tagħmel, ikkuntattja parir mediku urġenti lokali."
   - q: "Meta għandi nċempel is-servizzi ta' emerġenza?"
     a: "Ċempel is-servizzi ta' emerġenza lokali jekk il-persuna setgħet tkun weġġgħet ir-ras, id-dahar, l-għonq jew il-werrej, għandha korriment serju ieħor, jew ma tistax tqum. Segwi l-istruzzjonijiet tal-operatur tal-emerġenza."
   - q: "Għandi nqajjem il-persuna mill-art?"
@@ -58,15 +58,15 @@ Tippruvax iġġorr jew terfa' lill-persuna waħdek. Jekk hemm pjan tal-kura għa
 
 ## X'nagħmel jekk il-persuna tidher kapaċi tqum?
 
-Tgħaġġilhiex. Staqsi kif tħossha u jekk trid għajnuna. Jekk tidher mingħajr korrimenti u tista' tqum bl-appoġġ tas-soltu tagħha mingħajr ma terfagħha, agħtiha ħin u oqgħod qrib. Ieqaf jekk thoss uġigħ, tħoss ħakk jew ma tkunx tista' tkompli. Jekk m'intix ċert, staqsi professjonist tas-saħħa minflok ma tipprova tittrasferixxi lill-persuna b'mod li ma ġietx muri kif tagħmlu.
+Tgħaġġilhiex. Staqsi kif tħossha u jekk trid għajnuna. Jekk tidher mingħajr korrimenti u tista' tqum bl-appoġġ tas-soltu tagħha mingħajr ma terfagħha, agħtiha ħin u oqgħod qrib. Ieqaf jekk thoss uġigħ, tħoss diżżjoni jew ma tkunx tista' tkompli. Jekk m'intix ċert, staqsi professjonist tas-saħħa minflok ma tipprova tittrasferixxi lill-persuna b'mod li ma ġietx muri kif tagħmlu.
 
 [In-NHS jagħti parir li wieħed jieħu ħin u jistrieħ wara li jqum](https://www.nhs.uk/conditions/falls/). L-istruzzjonijiet ta' self-help tagħha huma għal persuna li tħoss li tista' tqum; mhumiex raġuni biex tiġbed jew iġġorr xi ħadd li waqa'. Il-mobilità, l-bilanċ u l-bżonnijiet tas-saħħa ta' persuna jvarjaw.
 
 ## Għandi nikkuntattja tabib anke jekk ma narax korriment?
 
-Iva. [L-Alzheimer's Society tirrakkomanda li tkellem lit-tabib tal-familja (GP) wara waqgħa, anke meta ma taħsibx li l-persuna hi mweġġa'](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help). Jekk innotajt daqqa fir-ras, uġigħ, konfużjoni ġdida, dgħufija, tbexbix jew bidla mill-imġieba tas-soltu tal-persuna, semmi dan meta ċċempel. Tużax lista ta' kontroll minn websajt biex tiddeċiedi li valutazzjoni mediċi mhix meħtieġa.
+Iva. [L-Alzheimer's Society tirrakkomanda li tkellem lit-tabib tal-familja (GP) wara waqgħa, anke meta ma taħsibx li l-persuna hi mweġġa'](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help). Jekk innotajt daqqa fir-ras, uġigħ, konfużjoni ġdida, dgħufija, diżżjoni jew bidla mill-imġieba tas-soltu tal-persuna, semmi dan meta ċċempel. Tużax lista ta' kontroll minn websajt biex tiddeċiedi li valutazzjoni mediċi mhix meħtieġa.
 
-Jekk kien hemm korriment fir-ras, segwi l-parir ta' tabib jew tas-servizz tal-kura urġenti lokali. [Il-gwida tal-NHS dwar korriment fir-ras](https://www.nhs.uk/conditions/head-injury-and-concussion/) tiddeskrivi sintomi li jeħtieġu attenzjoni urġenti. Jekk il-persuna ssir f'daqqa konfuża ħafna, tkun għajjenija ħafna, titfarrak jew tidher morda b'mod akut, fittex għajnuna urġenti minflok ma tistenna appuntament rutinarju.
+Jekk kien hemm korriment fir-ras, segwi l-parir ta' tabib jew tas-servizz tal-kura urġenti lokali. [Il-gwida tal-NHS dwar korriment fir-ras](https://www.nhs.uk/conditions/head-injury-and-concussion/) tiddeskrivi sintomi li jeħtieġu attenzjoni urġenti. Jekk il-persuna ssir f'daqqa konfuża ħafna, tkun għajjenija ħafna, tqi jew tidher morda b'mod akut, fittex għajnuna urġenti minflok ma tistenna appuntament rutinarju.
 
 ## Liema informazzjoni tista' tgħin lill-professjonist tas-saħħa?
 
@@ -94,7 +94,7 @@ Għid lit-tabib x'taf u x'ma taħx. Jekk il-waqgħa ma kinitx innotata, għid da
 
 ## Kif nistgħu naħsbu dwar waqgħa oħra?
 
-Wara li jiġu indirizzati l-kwistjonijiet mediċi immedjati, ikkunsidra x'kien qed jiġri fl-ambjent u fir-rutina. Triq imħawla, bidla fid-dawl jew rotta mhux familjari jistgħu jkunu rilevanti, imma tassumix li perikolu wieħed ikkaġuna l-waqgħa. Staqsi lill-persuna x'innotat u x'jagħmel l-ispazju aktar faċli biex tuża. Jekk il-persuna ma tistax tiftakar jew tispjega l-waqgħa, aqsam dak li osservajt mingħajr ma tagħfasha biex tagħti dettalji. Innota l-ħin, il-post, is-sarġa, id-dawl, l-attività u kwalunkwe bidla mill-moviment jew mill-imġieba tas-soltu tagħha. Nota qasira tista' tgħin lit-tabib ifittex xejriet; ma tidentifikax il-kawża.
+Wara li jiġu indirizzati l-kwistjonijiet mediċi immedjati, ikkunsidra x'kien qed jiġri fl-ambjent u fir-rutina. Triq imħawla, bidla fid-dawl jew rotta mhux familjari jistgħu jkunu rilevanti, imma tassumix li perikolu wieħed ikkaġuna l-waqgħa. Staqsi lill-persuna x'innotat u x'jagħmel l-ispazju aktar faċli biex tuża. Jekk il-persuna ma tistax tiftakar jew tispjega l-waqgħa, aqsam dak li osservajt mingħajr ma tagħfasha biex tagħti dettalji. Innota l-ħin, il-post, iż-żraben, id-dawl, l-attività u kwalunkwe bidla mill-moviment jew mill-imġieba tas-soltu tagħha. Nota qasira tista' tgħin lit-tabib ifittex xejriet; ma tidentifikax il-kawża.
 
 Il-[gwida tagħna dwar is-sigurtà fid-dar](/caregiving/home-safety/) tkopri kontrolli kamra b'kamra. Jekk il-waqgħa seħħet waqt il-kenn, ara l-[gwida tagħna dwar il-kenn](/caregiving/bathing-with-dementia/). Tabib, terapista okkupazzjonali jew servizz lokali tal-waqgħat jista' jivvaluta tħassib individwali u jirrakkomanda bidliet xierqa. Tinstallax tagħmir jew tbiddilx mediċina li tkun ġiet preskritta abbażi biss ta' din il-paġna.
 

@@ -1,32 +1,28 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "ඩිමෙන්ශියාව ඇති පිරිමින් සඳහා ක්‍රියාකාරකම්"
+seoTitle: "ඩිමෙන්ශියා ඇති පිරිමින් සඳහා ක්‍රියාකාරකම්: සැබෑ ජීවිතයේ අදහස්"
+description: "ඩිමෙන්ශියාව ඇති පිරිමින් සඳහා ක්‍රියාකාරකම් අදහස්: අතීත වැඩ, විනෝද සහ දෛනික පුරුදු මත පදනම්ව, එක් එක් එය ආරක්ෂිතව සකස් කිරීමේ ඉඟි සමඟ."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  ඩිමෙන්ශියාව ඇති පිරිමියෙකු සඳහා හොඳම ක්‍රියාකාරකම් ඔහුගේම ජීවිතයෙන් පැමිණේ: ඔහු කළ වැඩ, ඔහු ආදරය කළ විනෝද සහ ඔහු රැක ගත් දෛනික චර්යා. කාර්යාල සේවකයෙකුට ලේඛන වර්ගීකරණය භුක්ති විඳිය හැක, යන්ත්‍ර කාර්මිකයෙකුට පිරිසිදු මෙවලම් හැසිරවීම භුක්ති විඳිය හැක, සහ ක්‍රීඩා රසිකයෙකුට පැරණි ක්‍රීඩාවක් භුක්ති විඳිය හැක. උනන්දුව පිරිමියාගෙන් පිරිමියා වෙනස් වේ, එබැවින් ඔහුගේ පිරිමි භාවයෙන් නොව පුද්ගලයාගෙන් ආරම්භ කරන්න.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "මේ පිරිමියාගේම ඉතිහාසයෙන් ආරම්භ කරන්න: ඔහුගේ රැකියාව, විනෝද, දෛනික චර්යා සහ ඔහු ආඩම්බර වූ දේ."
+  - "යකඩ බඩු වර්ග කිරීම, මෝටර් රථය සේදීම හෝ දැව ඔප දැමීම වැනි සැබෑ අරමුණක් ඇති කාර්ය, බොහෝ විට පන්තියක් වැනි හැඟෙන ක්‍රියාකාරකමකට වඩා ආකර්ෂණීය වේ."
+  - "සියලු පිරිමින් මෙවලම් හෝ ක්‍රීඩා ප්‍රිය නොකරයි. බොහෝ අය ආහාර පිසීම, සංගීතය, උද්‍යාන වැඩ, කලාව හෝ අන් අය රැකබලා ගැනීම ප්‍රිය කරයි. අසන්න, නිරීක්ෂණය කරන්න, ඔහුගේ මග අනුගමනය කරන්න."
+  - "තියුණු මෙවලම් ඉවත් කර අධීක්ෂණය කිරීමෙන් වැඩ-ශෛලියේ කාර්ය ආරක්ෂිත කරන්න, සහ හැකියාවන් වෙනස් වන විට ඒවා සරල කරන්න."
+  - "නැත යැයි කීම අවසර ඇත. කාර්යයක් නොව භූමිකාවක් දෙන්න, සහ වෙනත් දිනක නැවත උත්සාහ කරන්න."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "ඩිමෙන්ශියාව ඇති පිරිමින් කුමන ක්‍රියාකාරකම්වලින් භුක්ති විඳියිද?"
+    a: "තනි ලැයිස්තුවක් නොමැත, මන්ද පිරිමින්ගේ උනන්දුව ඕනෑම කෙනෙකුගේ මෙන්ම විවිධ වේ. හොඳ ආරම්භක ස්ථාන වන්නේ ඔහුගේ අතීත වැඩට සම්බන්ධ කාර්ය, උදාහරණයක් ලෙස ලේඛන පිළිවෙළට තැබීම හෝ ඇණ සහ බෝල්ට් වර්ග කිරීම, සහ ඔහු ආදරය කළ විනෝද, උදාහරණයක් ලෙස මසුන් ඇල්ලීම, මෝටර් රථ, සංගීතය, ආහාර පිසීම හෝ ක්‍රීඩා. ඔහු තනිව කරන දේ නිරීක්ෂණය කර, එය මත ගොඩනඟන්න."
+  - q: "මගේ තාත්තා කණ්ඩායම් ක්‍රියාකාරකම් ප්‍රතික්ෂේප කරයි. මට කළ හැක්කේ කුමක්ද?"
+    a: "පිරිමින් හා ගැහැණුන් දෙදෙනාම බොහෝ දෙනෙක් පන්තියක් වැනි හෝ දරුවන් වැනි පෙනෙන ක්‍රියාකාරකම් ප්‍රතික්ෂේප කරයි. ඒ වෙනුවට රාජකාරියක් ලබා දීමට උත්සාහ කරන්න: “මට මේවා වර්ග කිරීමට උදව් කළ හැකිද?” කුඩා කණ්ඩායම් හෝ එක් එක් අයට කාලය, විශාල කාමරයකට වඩා සුවපහසු විය හැක."
+  - q: "ඔහුට මෙවලම් භාවිතා කිරීමට ඉඩ දීම ආරක්ෂිතද?"
+    a: "අධීක්ෂණය සහ ආරක්ෂිත මෙවලම් සහිතව පමණි. බල මෙවලම්, තල සහ තියුණු ඕනෑම දෙයක් ඉවත් කර, දැව කුට්ටියක් ඔප දැමීම, පිරිසිදු යකඩ බඩු වර්ග කිරීම හෝ විශාල බෝල්ට් අතින් තද කිරීම වැනි කාර්ය ලබා දෙන්න. ඔප දැමීම වැනි කාර්යයක් තවමත් ආරක්ෂිතව භුක්ති විඳිය හැකි වන පරිදි වැඩ කාමරයෙන් අනතුරු සහිත අයිතම ඉවත් කරන ලෙස ඇල්සයිමර් සංගමය යෝජනා කරයි."
+  - q: "ඔහු වෘත්තිකයෙක් විය. සරල කාර්ය ඔහුට අවමානයක් ලෙස දැනේද?"
+    a: "ඒවා තිරිසන් වැඩක් ලෙස ඉදිරිපත් කළහොත් එසේ විය හැක. කාර්යය සැබෑ උදවක් ලෙස රාමු කර, වැඩිහිටි ද්‍රව්‍ය භාවිතා කර, ඔහුගේ පැරණි භූමිකාවට සමීප දෙයක් තෝරන්න, උදාහරණයක් ලෙස ලැයිස්තුවක් සමාලෝචනය කිරීම, ගොනුවක් පිළිවෙළට තැබීම හෝ තැපැල් යැවීමක් එකලස් කිරීමට උදව් කිරීම. ඔහු යමක් ඉතා දක්ෂව කළේ නම්, සම්බන්ධ නමුත් වෙනස් ක්‍රියාකාරකමක් සංසන්දනයක් ලෙස දැනීම අඩු කළ හැක."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +41,84 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+ මිනිසුන් බොහෝ විට “ඩිමෙන්ශියාව ඇති පිරිමින් සඳහා ක්‍රියාකාරකම්” ලෙස සොයන්නේ, සාමාන්‍ය යෝජනා ඔවුන්ගේ ජීවිතයේ පිරිමියාට නොගැලපෙන බැවිනි. එය සාධාරණ කනගාටුවකි. නමුත් පිළිතුර “පිරිමි” ක්‍රියාකාරකම්වල ලැයිස්තුවක් නොවේ. එය මෙම විශේෂිත පුද්ගලයාගෙන් ආරම්භ කිරීමයි: ඔහු ජීවත් වීමට කළ දේ, ඔහුගේ සති අන්තයන්හි කළ දේ, සහ ඔහුට ප්‍රයෝජනවත් යැයි හැඟුණු දේ. උනන්දුව සියලු දෙනාට විවිධ ය. පිරිමින් බොහෝ දෙනෙක් ආහාර පිසීම, උද්‍යාන වැඩ, චිත්‍ර ඇඳීම හෝ ගායනා කිරීම ප්‍රිය කරන අතර, කාන්තාවන් බොහෝ දෙනෙක් මෝටර් රථ සහ බේස්බෝල් ප්‍රිය කරති.
 
-## How do I find activities he will actually enjoy?
+## ඔහු සැබවින්ම භුක්ති විඳින ක්‍රියාකාරකම් මා සොයා ගන්නේ කෙසේද?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+ඔහුගේ ජීවිත කතාවෙන් ආරම්භ කරන්න. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ [දෛනික සැලැස්මක්](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) පුද්ගලයාගේ කැමැත්ත, අකැමැත්ත, ශක්තීන් සහ උනන්දුව වටා, සහ ඔහු තම දිනය ව්‍යුහගත කළ ආකාරය වටා ගොඩනඟන ලෙසයි. ඔබෙන්ම මෙවා විමසන්න:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **ඔහුගේ වැඩ කුමක්ද?** කාර්යාලය, ගොවිපල, කර්මාන්ත ශාලාව, වෙළඳ කර්මාන්තය, හමුදාව, විකිණීම, ඉගැන්වීම, රිය පැදවීම, නිවස?
+- **ඔහු නිදහස් කාලයේ කුමක් කළේද?** මසුන් ඇල්ලීම, කාඩ් ක්‍රීඩා, දැව වැඩ, ක්‍රීඩා, පල්ලිය, සංගීතය, ආහාර පිසීම, ගරාජයේ මෝටර් රථයක්?
+- **ඔහුගේ චර්යා මොනවාද?** සෑම උදෑසනකම කෝපි සහ පුවත්පත? කාලගුණය පරීක්ෂා කිරීම? සෙනසුරාදා මෝටර් රථය සේදීම?
+- **ඔහු තවමත් තනිවම ආරම්භ කරන්නේ කුමක්ද?** ඇසුවාම නොවන විට පවා ඔහු කාර්ය ආරම්භ කරන්නේ නම්, උදාහරණයක් ලෙස මහල අතුගාීම, එම කාර්ය චර්යාවේ කොටසක් විය හැක, ඇල්සයිමර් සංගමය සටහන් කරයි.
+- **ඔහු වළක්වන්නේ කුමක්ද?** සමහර අය ක්‍රීඩා නැරඹීම භුක්ති විඳියි; තවත් අය වේගය සහ ශබ්දය කලබලකාරී යැයි සිතයි. ඔහු සතුටින්, කලබලයෙන් හෝ කලකිරීමෙන් පෙනෙන විට නිරීක්ෂණය කරන්න.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+පවුලේ අය සහ පැරණි මිතුරන් සමඟද කතා කරන්න. ඔවුන් දෛනික ජීවිතයෙන් මැකී ගිය උනන්දුව මතක තබා ගත හැක.
 
-## Activity ideas based on past work
+## අතීත වැඩ මත පදනම් වූ ක්‍රියාකාරකම් අදහස්
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+ඇල්සයිමර් සංගමය පැහැදිලි උදාහරණයක් ලබා දෙයි: පෙර කාර්යාල සේවකයෙකුට මුදල් හිමියෙකුට දැමීම, තැපැල් යැවීමක් එකලස් කිරීමට උදව් කිරීම හෝ කළ යුතු දේවල් ලැයිස්තුවක් සෑදීම වැනි කාර්ය වින්දනය කළ හැකි අතර, පෙර ගොවියෙකු හෝ උද්‍යානවේදියෙකු ගෙවත්තේ වැඩ කිරීම භුක්ති විඳිය හැක. එම අදහස බොහෝ රැකියා සඳහා අදාළ වේ.
 
-| Past work | Activity ideas | Simpler version |
+| අතීත වැඩ | ක්‍රියාකාරකම් අදහස් | සරල අනුවාදය |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| කාර්යාලය හෝ ව්‍යාපාරය | ලේඛන ගොනුවලට වර්ග කිරීම, කවර්වලට මුද්දර ගැසීම, ලැයිස්තුවක් සමාලෝචනය කිරීම, මේසයේ ලාච්චුව පිළිවෙළට තැබීම | කවර ගොඩගැසීම; කඩදාසි ක්ලිප් පෙට්ටියකට දැමීම |
+| වෘත්තීන් හෝ යාන්ත්‍ර කාර්මිකයන් | පිරිසිදු ඇණ, බෝල්ට් සහ වොෂර වර්ග කිරීම; විශාල බෝල්ට් අතින් තද කිරීම; මෙවලම් ඇල්බම බැලීම | ප්‍රමාණය අනුව කෝප්ප දෙකකට වර්ග කිරීම |
+| ගොවිකම් හෝ භූදර්ශන වැඩ | වතුර දැමීම, පැලෑටි බඳුනකට බදින්න, කොළ අතුගාීම, උද්‍යානය පරීක්ෂා කිරීම | ඔබ වැඩ කරන විට පිටත වාඩි වීම; බීජ පැකට් අල්ලා සිටීම |
+| හමුදාව | සපත්තු ඔප දැමීම, ලාච්චුවක් හරියට සකස් කිරීම, ඔහු භුක්ති විඳින්නේ නම් සේවයෙන් ලැබූ ඡායාරූප බැලීම | එම යුගයේ සංගීතය අසා සිටීම |
+| විකිණීම හෝ පාරිභෝගික සේවාව | අමුත්තන් පිළිගැනීම, කෑම ලබා දීම, කූපන් වර්ග කිරීම | ආගන්තුකයන්ට ආයුබෝවන් කීමට දොරකඩ වාඩි වීම |
+| ඉගැන්වීම | ශබ්දයෙන් කියවීම, පොත් පිළිවෙළට තැබීම, පින්තූර තේමාව අනුව වර්ග කිරීම | චිත්‍ර පොතක් එකට බැලීම |
+| රිය පැදවීම හෝ ප්‍රවාහනය | සිතියම් හෝ පැරණි මෝටර් රථ සඟරා බැලීම, මෝටර් රථය සේදීම | මළුවේ සිට මෝටර් රථ යන ආකාරය නැරඹීම |
+| නිවස සහ පවුල | රෙදි නැමීම, මේසය සැකසීම, රාත්‍රී ආහාරයට උදව් කිරීම | කඩදාසි රෙද්ද මෘදු කිරීම; කලවම් කිරීම |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+සමහර මතකයන්, උදාහරණයක් ලෙස හමුදා සේවය, ප්‍රබල හැඟීම් ඇති කළ හැක. ඔහුගේ මග අනුගමනය කරන්න, අතීතය ගැන කතාව ධනාත්මකව තබන්න, සහ ඔහු කලබල වන බව පෙනුණොත් මෘදුවට මාතෘකාව වෙනස් කරන්න.
 
-## Activity ideas based on hobbies
+## විනෝද මත පදනම් වූ ක්‍රියාකාරකම් අදහස්
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **දැව වැඩ.** සිනිඳු දැව කුට්ටියක් ඔප දැමීම හෝ කුරුල්ලන් නිවසක් කට්ටලයක් පින්තාරු කිරීම. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ වැඩ කාමරයෙන් අනතුරු සහිත ද්‍රව්‍ය සහ මෙවලම් ඉවත් කරන ලෙසයි, එවිට ඔප දැමීම වැනි ක්‍රියාකාරකමක් භුක්තිමත් හා ආරක්ෂිත විය හැක.
+2. **මසුන් ඇල්ලීම.** කොකු ඉවත් කළ මසුන් ඇල්ලීමේ පෙට්ටියක් වර්ග කිරීම, මසුන් ඇල්ලීමේ සඟරා බැලීම, හෝ එකට පොකුණක් අසල වාඩි වීම.
+3. **මෝටර් රථ.** මෝටර් රථය සේදීම, ක්‍රෝම් ඔප දැමීම, පැරණි මෝටර් රථ ඡායාරූප බැලීම, හෝ මගියෙකු ලෙස රිය යාත්‍රාවක් යාම.
+4. **ක්‍රීඩා.** පැරණි ක්‍රීඩාවක් හෝ ප්‍රධාන අංශ නැරඹීම, මෘදු බෝලයක් විසි කිරීම, ගොල්ෆ් බෝල කාපට් එකක තැබීම, හෝ බේස්බෝල් කාඩ් වර්ග කිරීම.
+5. **කාඩ් සහ ක්‍රීඩා.** හුරුපුරුදු කාඩ් ක්‍රීඩාවක සරල අත්තක්, ඩොමිනෝ, හෝ ගැලපීමක් සොයා කාඩ් පෙරළීම. සන්සුන්ව තබා, ලකුණු තැබීම අත්හරින්න.
+6. **සංගීතය.** ඔහුගේ නව යොවුන් හා විසිහැවිරිදි කාලයේ ගීත, ප්‍රිය සංගීත කණ්ඩායමක්, හෝ ගීතයක්. අපගේ [සංගීත ක්‍රියාකාරකම් මාර්ගෝපදේශය](/activities/music/) බලන්න.
+7. **ආහාර පිසීම සහ ග්‍රිල් කිරීම.** එළවළු සේදීම, සෝස් කලවම් කිරීම, බර්ගර හැඩගැස්වීම, හෝ ඔබ උයන විට ඔහු ප්‍රසිද්ධ චිලි තැනූ ආකාරය විස්තර කිරීම.
+8. **පුවත්පත.** ඇල්සයිමර් සංගමය සටහන් කරන්නේ සෑම විටම පුවත්පත කියවූ පුද්ගලයෙකුට අන්තර්ගතය සම්පූර්ණයෙන් අනුගමනය කළ නොහැකි වුවද, එය තවමත් භුක්ති විඳිය හැකි බවයි. කෝපි සහ පුවත්පත උදෑසනේ කොටසක් ලෙස පවතින්න පුළුවන්.
+9. **ගොඩනැගීම.** වැඩිහිටියන් සඳහා විශාල කොටස් ආකෘති කට්ටල හෝ සරල ඉදිකිරීම් කට්ටල. අල්ලා ගැනීමට පහසු කොටස් තෝරන්න.
+10. **යමක් රැකබලා ගැනීම.** සුරතලෙකුට ආහාර දීම, කුරුල්ලන්ගේ ආහාර ටේබලය පිරවීම, හෝ පැලෑටි වතුර දැමීම. [සුරතලෙකුට ආහාර දීම, රැවුල කැපීම හෝ ඇවිද යාම](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ජනතාවට භුක්ති විඳිය හැකි ක්‍රියාකාරකම් අතර ජාතික වයෝවෘද්ධ ආයතනය (NIA) ලැයිස්තුගත කරයි.
 
-## How do I offer an activity without it feeling like busywork?
+## වැඩ-ශෛලියේ ක්‍රියාකාරකම් ආරක්ෂිත කරන්නේ කෙසේද?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+## ක්‍රියාකාරකමක් තිරිසන් වැඩක් ලෙස නොපෙනෙන ලෙස ඉදිරිපත් කරන්නේ කෙසේද?
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+සැබෑ උදවක් ලෙස ඉදිරිපත් කරන්න. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ “කරුණාකර මට උදව් කළ හැකිද?” යැයි ඇසීමට සහ කාර්ය අරමුණකට සම්බන්ධ කිරීමට ය. සසඳන්න:
 
-Other tips:
+- “මේ බෝල්ට් වර්ග කරන්නද?” (පරීක්ෂණයක් වැනි ශබ්දයි)
+- “මම මිශ්‍ර යකඩ බඩු පැකට් එකක් ගත්තා, ෂෙල්ෆ් එක හදන්න කලින් මේවා වර්ග කරන්න ඕන. මට අතක් දෙන්න පුළුවන්ද?” (රැකියාවක් වැනි ශබ්දයි)
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+වෙනත් ඉඟි:
 
-## How do I adapt as things change?
+- **වැඩිහිටි ද්‍රව්‍ය භාවිතා කරන්න.** තියුණු දාර ඉවත් කළ සැබෑ මෙවලම්, සැබෑ කැටලොග්, සැබෑ කවර.
+- **එකට පැත්තෙන් පැත්තට වැඩ කරන්න.** රැකියාවක් මත දෙදෙනෙක් වැඩ කිරීම සහකාරිත්වයයි. එක් අයෙකු අනෙකා බලා සිටීම අධීක්ෂණයයි.
+- **නිවැරදි නොකරන්න.** බෝල්ට් වැරදි කෝප්පයට ගියොත්, එය එසේම තබන්න. වැදගත් වන්නේ එකට ගත කරන කාලය සහ ප්‍රයෝජනවත් වීමේ හැඟීමයි.
+- **ඔහුට ආරම්භ කිරීමට උදව් කරන්න.** ඇල්සයිමර් සංගමය සටහන් කරන්නේ බොහෝ අයට තවමත් දේවල් කිරීමට ආශාව ඇති නමුත් සංවිධානය කර ආරම්භ කිරීමට අමාරු බවයි. පළමු එක එකට කරන්න.
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+## දේවල් වෙනස් වන විට මා අනුවර්තනය වන්නේ කෙසේද?
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+ඩිමෙන්ශියාව ප්‍රගතිය ලබන විට, ඇල්සයිමර් සංගමය යෝජනා කරන්නේ සරල, වඩාත් පුනරාවර්තන කාර්ය හඳුන්වා දී, පුද්ගලයා අඩු සක්‍රිය භූමිකාවක් ගැනීමට සූදානම් වන ලෙසයි. එක් කාලයක එන්ජින් නැවත තැනූ පිරිමියෙකුට දැන් පිරිසිදු පන්හිඳක් අල්ලා ගෙන මෝටර් රථ ගැන කතා කිරීම, හෝ ඔබ වැඩ කරන විට බැලීම භුක්ති විඳිය හැක. බැලීම ද සහභාගී වීමකි.
 
-## Safety with work-style tasks
+ඔහු යමක් ඉතා දක්ෂව කළේ නම්, ඔහුගේ පැරණි ශිල්පයට වඩා සම්බන්ධ ක්‍රියාකාරකමක් වඩා හොඳින් දැනිය හැක. වෘත්තීය චිත්‍ර ශිල්පියෙකු ඔහුගේ වැඩවල වෙනස්කම් නිසා කලකිරීමට පත් විය හැකි අතර, ආධුනිකයෙකු නව ප්‍රකාශන මාර්ගයක් භුක්ති විඳිය හැකි බව සංගමය සටහන් කරයි. දක්ෂ වඩුකාරයෙකුට ද එය එසේමය.
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+## වැඩ-ශෛලියේ කාර්ය සඳහා ආරක්ෂාව
 
-## What if he says no?
+- බල මෙවලම්, තල සහ තියුණු තුඩු සහිත ඇණ සහ ඉස්කුරුප්පු ඉවත් කරන්න.
+- පින්තාරු තනුක කරන ද්‍රව්‍ය, පෙට්‍රල් සහ රසායනික ද්‍රව්‍ය අගුලු දමන්න.
+- ඔහු තවදුරටත් රිය නොපදවයි නම් මෝටර් රථ යතුරු දෘෂ්ටියෙන් ඉවතට තබන්න.
+- වැඩ කාමරයේ සහ ගෙවත්තේ සියලු කාර්ය අධීක්ෂණය කරන්න.
+- ගිලිය නොහැකි විශාල කොටස් තෝරන්න.
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+## ඔහු නැත යැයි කිව්වොත් කුමක් කළ යුතුද?
 
-## Games and conversation that fit
+ඒ ගැන ගෞරව කරන්න. නැත යන්න අදහස් කළ හැක්කේ කාර්යය ඉතා අපහසු යැයි, ළමයි වැනි යැයි, හෝ අද එය නිවැරදි නොවන බවයි. ඇල්සයිමර් සංගමය එය බලෙන් නොකරන ලෙස අනතුරු අඟවයි. වෙනත් කාර්යක්, වෙනත් වේලාවක්, නැතහොත් සරලව එකට වාඩි වී සිටින්න. [ඔවුන් නැත කියන විට කළ යුතු දේ](/caregiving/when-they-say-no/) බලන්න.
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+## ගැලපෙන ක්‍රීඩා සහ සංවාද
+
+[කියමන සම්පූර්ණ කරන්න](/games/finish-the-saying/) ඇමරිකානු හුරුපුරුදු කියමන් භාවිතා කර සංවාදයට යොමු කරයි. [සංවාද පත්](/games/conversation-cards/) තේමා අනුව විවෘත, ප්‍රශ්නාවලියක් නොවන ඉඟි ඇති අතර, ඒවා ඔහුගේ වැඩ සහ විනෝද ගැන කතා විවෘත කළ හැක. [පින්තූර ප්‍රහේලිකාව](/games/picture-puzzle/) කැබලි මාරු කරන අතරතුර සම්පූර්ණ පින්තූරය දෘශ්‍යමාන තබා ගන්නා අතර, විශාල අකුරු සහිත [වචන සෙවීම](/games/word-search/) මුද්‍රණය කර, කුස්සියේ මේසය අසල පෑනකින් කළ හැක. ඔහු පරීක්ෂා නොකර ඔහුගේ අතීතය ගැන කතා කිරීමට ක්‍රම සඳහා, අපගේ [මතක් කිරීමේ මාර්ගෝපදේශය](/activities/reminiscence/) බලන්න.
