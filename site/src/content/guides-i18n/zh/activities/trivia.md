@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "无压力的简单问答，适合失智症长者"
+seoTitle: "失智症长者问答题，附答案"
+description: "50 道简单问答题，附选项和聊天话题，并说明怎样组织问答，让每个人都不觉得被考问，也不会被冷落。"
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  失智症长者适合的问答，应该像聊天而不是考试。多问一些很久以前的事，比如老歌、俗语、节日和日常生活，并且总是提供两三个选项。温和地说出答案，不要点名某个人，不计分，并借每个答案开启一段故事。没有对错之分的二选一问题，适合后期阶段。
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "多问熟悉已久的事：老歌、俗语、节日、食物，以及多年前的日常生活。"
+  - "提供两三个选项，让人可以辨认作答，而不是凭空回想。"
+  - "温和地说出答案，然后继续。任何能引出故事的猜测，都是好猜测。"
+  - "不计分，不让小组比赛，也不点名某个人。答案应来自全场。"
+  - "当选择答案变得困难时，改用没有标准答案的二选一问题。"
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "问答对失智症患者是好的活动吗？"
+    a: "如果进行得温和，是可以的。美国阿尔茨海默病基金会把问答列在早期阶段的活动之中。问题应围绕熟悉已久的话题，提供选项，不要让某一个人难堪，并把答案当作打开话题的门，而不是一场考试。"
+  - q: "哪些话题最适合失智症问答？"
+    a: "很久以前学到的东西通常最有效：年轻时流行的歌曲和歌手、熟悉的俗语、节日、食物、体育，以及牛奶配送、转盘电话这类日常生活。避免近期新闻，以及需要记住刚才聊过内容的题目。"
+  - q: "在养老院组织问答，怎样才不让人尴尬？"
+    a: "把每道题读给全体听，说出或展示选项，欢迎任何人作答。不要点名个人，也不要记分。无论大家猜了什么，都微笑着说出答案，并追问一句，比如“这里有谁以前去过露天汽车电影院？”，把它变成一段故事。"
+  - q: "到了后期阶段，可以用什么代替问答？"
+    a: "改用没有错误答案的问题，比如“喝咖啡还是喝茶？”或“去海边还是去山里？”，也可以一起把熟悉的俗语或歌曲接着说完、唱完。看着图片一起描述，也很有效。"
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+问答是养老院和日间照护中心最常安排的集体活动之一，许多家庭也会在饭桌上玩。如果按常规方式进行，计分，并且只让一个人作答，失智症患者可能会觉得被当场考问，很不自在。轻松地玩，它却能引出许多动人的故事。下面是 50 道简单题目，每题都附有选项和可以聊的话题，最后说明如何组织一次问答。
 
-## How do you make trivia work for someone with dementia?
+## 怎样让问答适合失智症患者？
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+重点是让人辨认和回想很久以前的事，并且欢迎每一个回答。
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **多问久远的往事。** [阿尔茨海默病协会](https://www.alz.org/alzheimers-dementia/what-is-alzheimers)指出，阿尔茨海默病最常见的早期症状，是难以记住刚学到的新信息。几十年前的歌曲、俗语和日常生活，通常更容易想起。
+2. **总是提供选项。** 从两三个选项中选出正确答案，比凭空说出答案容易得多。
+3. **大声读出题目，并用大字展示。** 白板或举起平板电脑，能帮助听力较弱的人。
+4. **大方地说出答案。** 如果没有人知道答案，就温和地说出来，然后继续。千万不要说“来吧，你明明知道的”。
+5. **不计分。** 不记个人分数，也不记小组分数。如果大家想要一个数字，可以只记全组的总分。
+6. **从不点名某一个人。** 答案可以来自任何人。如果只有一对一，就一起作答：“我想是钢琴，你觉得呢？”
+7. **善用话题。** 答案只是开始，不是结束。讲故事才是真正的目的。
+8. **保持简短。** 十道题，中间穿插故事，就已经很充实了。
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)把最核心的原则说得很简单：留意对方是否感到挫败，并确保他感到自己做得到。[美国阿尔茨海默病基金会](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)把问答列为早期阶段适合的活动之一。到了中期阶段，选项保持在两个，多依靠话题引导。之后可以改用下面的二选一问题。
 
-## Music and entertainment trivia
+## 音乐和娱乐问答
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+答案以**粗体**标出。请按照对方的情况调整：在摩城音乐中长大的人，和在大乐队时代长大的人，会想听不同的歌手。
 
-| Question | Choices | Talk about |
+| 问题 | 选项 | 可以聊的 |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| 谁被称为“摇滚之王”？ | **埃尔维斯·普雷斯利**、弗兰克·辛纳屈、宾·克罗斯比 | 你在电视上看过埃尔维斯的表演吗？ |
+| 哪位歌手被称为“蓝眼睛老大哥”？ | 迪安·马丁、**弗兰克·辛纳屈**、佩里·科莫 | 你最喜欢辛纳屈的哪首歌？ |
+| 宾·克罗斯比梦想着一个白色的…… | **圣诞节**、婚礼、房子 | 一起唱一句 |
+| 路易斯·阿姆斯特朗唱道：“多么美好的……” | 白天、**世界**、生命 | 什么让你觉得世界很美好？ |
+| 朱迪·加兰在哪部电影中唱了《彩虹之上》？ | **《绿野仙踪》**、《飘》、《雨中曲》 | 你在哪里看过最喜欢的电影？ |
+| 谁在《我爱露西》中饰演露西？ | **露西尔·鲍尔**、多丽丝·戴、贝蒂·怀特 | 你们一家人一起看过什么节目？ |
+| 哪位牛仔骑着一匹名叫“特里格”的马？ | **罗伊·罗杰斯**、吉恩·奥特里、约翰·韦恩 | 小时候你玩过牛仔游戏吗？ |
+| 谁主持《今夜秀》长达 30 年？ | 艾德·沙利文、**约翰尼·卡森**、鲍勃·霍普 | 你以前会熬夜看电视吗？ |
+| 哪种乐器有 88 个键？ | 吉他、**钢琴**、小号 | 你们家里有人弹过吗？ |
+| 哪种舞蹈的节拍是一二三、一二三？ | **华尔兹**、扭摆舞、探戈 | 你以前去哪里跳舞？ |
 
-For more on music, see [music activities for dementia](/activities/music/).
+想了解更多音乐相关内容，请看[失智症音乐活动](/activities/music/)。
 
-## Everyday life trivia
+## 日常生活问答
 
-| Question | Choices | Talk about |
+| 问题 | 选项 | 可以聊的 |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| 在有电冰箱之前，许多人家用一个……保存食物 | **冰柜**、烤箱、阁楼 | 谁来送冰块？ |
+| 谁用玻璃瓶把牛奶送到门口？ | 邮递员、**送奶工**、报童 | 还有什么东西会送上门？ |
+| 你怎么拨转盘电话？ | 按按钮、**转动转盘**、对着它说话 | 说说你家里的电话。 |
+| 哪家公司生产了 T 型车？ | **福特**、雪佛兰、别克 | 说说你喜欢过的一辆车。 |
+| 在哪里能找到“汽水吧台”？ | **汽水吧台**、面包店、银行 | 你在柜台上点过什么？ |
+| 哪种玩具是一个能顺着楼梯走下来的金属弹簧？ | 悠悠球、**Slinky 弹簧玩具**、呼啦圈 | 你小时候最爱玩什么玩具？ |
+| 露天汽车电影院是用来看……的地方 | **坐在车里看电影**、看球赛、看游行 | 你当时跟谁一起去的？ |
+| 一美元纸钞上是谁的头像？ | 林肯、**乔治·华盛顿**、杰斐逊 | 那时一美元能买什么？ |
+| 一分硬币上是谁的头像？ | **亚伯拉罕·林肯**、华盛顿、富兰克林 | 你小时候有没有把硬币存在罐子里？ |
+| 校车通常是什么颜色？ | 红色、**黄色**、蓝色 | 你上学是怎么去的？ |
 
-## Holidays, nature and places
+## 节日、自然与地方
 
-| Question | Choices | Talk about |
+| 问题 | 选项 | 可以聊的 |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| 哪个节日在十一月的第四个星期四？ | 劳动节、**感恩节**、阵亡将士纪念日 | 你们家餐桌上总有什么？ |
+| 南瓜灯是为哪个节日做的？ | **万圣节**、复活节、圣诞节 | 说说你家乡的万圣节。 |
+| 七月四日是为了纪念《……宣言》 | 权利、**独立**、自由 | 你在哪里看过烟花？ |
+| 母亲节在哪个月？ | 四月、**五月**、六月 | 你们家以前怎么庆祝？ |
+| 美国国旗上有多少颗星？ | 48、**50**、52 | 1959 年以前国旗上有 48 颗星。两个答案都是很好的回忆。 |
+| 哪个大洋在美国东海岸？ | 太平洋、**大西洋**、北冰洋 | 你去过海边吗？ |
+| 自由女神像在哪座城市？ | 波士顿、**纽约**、费城 | 你去过纽约吗？ |
+| 蜜蜂会酿造什么？ | 牛奶、**蜂蜜**、丝绸 | 抹在吐司上，还是泡在茶里？ |
+| 小牛叫做……？ | 小马驹、**牛犊**、小山羊 | 你以前住在农场附近吗？ |
+| 哪种高高的黄色花以朝向太阳而闻名？ | 玫瑰、**向日葵**、郁金香 | 你的花园里种过什么？ |
+| 闰年有多少天？ | 365、**366**、360 | 说说你记得的一个生日。 |
+| 冬天之后是哪个季节？ | 秋天、**春天**、夏天 | 你最喜欢哪个季节？ |
 
-## Food and sports trivia
+## 食物和体育问答
 
-| Question | Choices | Talk about |
+| 问题 | 选项 | 可以聊的 |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| 葡萄干是晒干的……| 李子、**葡萄**、樱桃 | 你以前会在孩子的午餐里装葡萄干吗？ |
+| 西梅是晒干的…… | **李子**、无花果、苹果 | 你家里谁最爱吃西梅？ |
+| 花生酱和…… | **果酱**、奶酪、火腿 | 你喜欢颗粒的，还是细滑的？ |
+| 牛油果酱主要是用……做的 | 豌豆、**牛油果**、黄瓜 | 聚会上常上哪些蘸酱？ |
+| 哪种派是感恩节的最爱？ | **南瓜派**、柠檬派、樱桃派 | 你做过哪种派？ |
+| 一支棒球队场上有几名球员？ | 7、**9**、11 | 你支持哪支球队？ |
+| 棒球里几次挥棒落空会三振出局？ | 两次、**三次**、四次 | 你打过棒球吗？ |
+| 贝比·鲁思以哪项运动闻名？ | 拳击、**棒球**、高尔夫 | 你以前去看过球赛吗？ |
+| 标准高尔夫球场有几个洞？ | 9、**18**、24 | 你打过高尔夫，或迷你高尔夫吗？ |
+| 哪项运动会得到达阵（touchdown）？ | **美式足球**、曲棍球、篮球 | 你们家以前谁看美式足球？ |
 
-## Familiar sayings
+## 熟悉的俗语
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+续说俗语会用到很久以前学过的语言，往往很容易想起。我们的[补全俗语](/games/finish-the-saying/)游戏还有更多，点一下就能看到任何一个结尾。
 
-| Saying | Choices | Talk about |
+| 俗语 | 选项 | 可以聊的 |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| 早起的鸟儿有……吃 | 面包、**虫子**、鱼 | 你是早起的人吗？ |
+| 每天一个苹果，……不找我 | 老板、**医生**、邻居 | 以前谁常这样跟你说？ |
+| 别在小鸡还没……之前就数它们 | **孵出**、睡醒、啼叫 | 你们家以前养过鸡吗？ |
+| 省下一分钱，就等于……一分钱 | **赚到**、丢掉、花掉 | 家里谁最会省钱？ |
+| 心在哪里，哪里就是…… | 花园、**家**、厨房 | 什么让一个地方感觉像家？ |
+| 迟做总比……强 | 早做、**不做**、慢做 | 以前谁总是迟到？ |
+| 乌云背后，总有…… | 雨、**阳光**、雷声 | 说说一次幸运的转机。 |
+| 行动胜于…… | **言语**、音乐、雷声 | 说说有人说过这句话的情况。 |
 
-## This-or-that questions with no wrong answer
+## 没有对错之分的二选一问题
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+这类问题适合每个阶段，包括后期，因为没有对错可言。请提问、倾听，也分享你自己的答案。
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- 咖啡还是茶？
+- 海边还是山里？
+- 狗还是猫？
+- 夏天还是冬天？
+- 派还是蛋糕？
+- 跳舞还是看别人跳？
+- 日出还是日落？
+- 前廊还是后院？
+- 收音机还是唱片？
+- 煎饼还是炒蛋？
+- 玫瑰还是雏菊？
+- 坐火车旅行还是自驾游？
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+想找配合图片的谈话提示，可以试试我们可打印的[对话卡片](/games/conversation-cards/)。
 
-## How do you run a trivia session in a care home or group?
+## 怎样在养老院或小组中组织一次问答？
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **让大家坐得能看清、听清。** 助听器戴好，眼镜戴上，电视关掉。
+2. **以聊天的方式开场。** “我有几个关于过去的问题，我猜你们知道的比我多。”
+3. **每题读两遍，选项用大字展示。**
+4. **欢迎房间里任何人作答。** 把好的答案再重复一遍，让每个人都听得见。
+5. **替大家说出答案，** 然后把话题抛给全场。
+6. **顺着大家的兴致。** 如果一道题引出了十分钟的故事，就让它继续。
+7. **最后以一首歌或一轮二选一结束，** 让大家在轻松的事情上收尾。
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+其他小组形式，包括图片宾果和大家一起唱歌，请看[养老院集体活动](/activities/care-home-groups/)。
 
-## When to change the plan
+## 什么时候该调整计划
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+如果有人看起来担心、变得沉默，或者不止一次说“我不知道”，就把难度降下来：只留两个选项，大家一起作答，或改用二选一问题。如果大家愿意整个下午都围绕一个问题聊下去，那就是成功。问答的目的从来不是答对，而是一段在好的陪伴中度过的时光。

@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Māksla un amatniecība pieaugušajiem ar demenci"
+seoTitle: "Māksla un amatniecība demences gadījumā: pieaugušajiem, nevis bērnišķīgi"
+description: "Pieaugušo mākslas un amatniecības idejas cilvēkiem ar demenci: no akvareļa un kolāžas līdz ziedu sakārtošanai, ar padomiem par sagatavošanu, pielāgošanu un procesu."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Labā māksla un amatniecība pieaugušajiem ar demenci izskatās un jūtas
+  pieaugusi: akvarelis, kolāža no žurnāliem, ziedu sakārtošana, māls, vienkārša
+  kartīšu gatavošana vai pieaugušo krāsojamās lapas. Sagatavojiet dažus
+  materiālus, palīdziet ar pirmo triepienu, runājiet, kamēr strādājat, un
+  uzskatiet kopā pavadīto laiku par galveno. Gatavs darbs nav obligāts.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Izvēlieties materiālus un tēmas, kas izskatās pieaugušas, piemēram, akvareļpapīru, īstus ziedus un žurnālu attēlus, nevis spīdumu, uzlīmes vai multfilmu lapas."
+  - "Koncentrējieties uz procesu: krāsām, māla sajūtu, sarunu. Gatavs darbs ir bonuss, nevis mērķis."
+  - "Ja iespējams, dodiet mērķi, piemēram, kartīti mazbērnam vai centrālo dekorāciju galdam."
+  - "Palīdziet sākt, tad atkāpieties. Kopīgs pirmais otas triepiens bieži vien ir pietiekams."
+  - "Projektus nav jāpabeidz vienā reizē, un agrs apstāšanās vienmēr ir labi."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Kā neļaut amatniecībai izskatīties bērnišķīgai?"
+    a: "Izmantojiet īstus mākslas materiālus, pieaugušu tematiku un cieņpilnu toni. Spīdumu un multfilmu lapas aizstājiet ar akvareļpapīru, audumu, ziediem, žurnālu fotogrāfijām un detalizētām krāsojamām lapām. Nekad neslavējiet darbu tā, kā slavētu bērna zīmējumu; runājiet par to tā, kā ar jebkuru pieaugušu draugu."
+  - q: "Kādas mākslas aktivitātes der vēlīnā demences stadijā?"
+    a: "Vienkārši, sensori projekti darbojas vislabāk: krāsošana ar platiem triepieniem un lielu otu, mīksta māla spiešana, dažu ziedu salikšana vāzē vai audumu paraugu šķirošana pēc sajūtas. Iespējams, kustību vajadzēs sākt kopā. Skatīties, kā jūs gleznojat, un runāt par krāsām ir arī veids, kā piedalīties."
+  - q: "Ko darīt, ja viņš saka, ka nevar zīmēt?"
+    a: "Noņemiet spiedienu. Izmēģiniet projektus bez pareizas atbildes, piemēram, akvareļa lāpījumu, kolāžu vai ziedu sakārtošanu. Varat arī pateikt, ka jums vajag palīdzību ar kaut ko konkrētu, piemēram, izvēlēties krāsas kartītei, lai uzdevums izskatītos kā labvēlība, nevis tests."
+  - q: "Vai krāsojamās lapas ir pārāk bērnišķīgas pieaugušajiem?"
+    a: "Nē, ja tās ir paredzētas pieaugušajiem. Izvēlieties lapas ar pieaugušu tematiku, piemēram, dārzus, kvilti, automobiļus vai ainavas, un pasniedziet tās kā relaksējošas, nevis kā stundu. Mūsu krāsojamās lapas var izdrukāt vai krāsot planšetdatorā."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Māksla un amatniecība dod cilvēkiem ar demenci veidu, kā izteikties, kas nav atkarīgs no pareizo vārdu atrašanas. Alcheimera asociācija norāda, ka mākslas projekti var sniegt [paveikta darba sajūtu un mērķi](https://www.alz.org/help-support/caregiving/daily-care/art-music) un iespēju izteikties gan aprūpētājam, gan cilvēkam ar demenci. Galvenais ir saglabāt aktivitāti pieaugušu, vienkāršu un bez spiediena. Šajā lapā ir konkrēti projekti, kā tos sagatavot un kā tos pielāgot, kad situācija mainās.
 
-## What makes an art activity adult and not childish?
+## Kas padara mākslas aktivitāti pieaugušu, nevis bērnišķīgu?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Pieaugušu mākslas aktivitāti veido īsti materiāli, pieaugušas tēmas un cieņpilns tonis. Alcheimera asociācija iesaka saglabāt projektus pieaugušu līmenī un izvairīties no kaut kā, kas var šķist pazemojošs vai bērnišķīgs.
 
-| Feels childish | Feels adult |
+| Izskatās bērnišķīgi | Izskatās pieaugušam |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Spīdums, putuplasta uzlīmes, acis ar kustīgiem zīlītēm | Akvareļpapīrs, audums, presēti ziedi |
+| Multfilmu krāsojamās lapas | Dārzu, kvilta, automobiļu vai ainavu krāsojamās lapas |
+| „Labi padarīts“ par katru svītru | Īsta saruna: „Tā zilā krāsa ir skaista blakus zaļajai“ |
+| Amatniecība bez nekāda lietojuma | Kartīte draugam, centrālā dekorācija, dāvana |
+| Norādījumi, kas izskatās pēc stundas | Uzaicinājums: „Vai palīdzētu man ar šo?“ |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Padomājiet par cilvēka paša gaumi. Cilvēkam, kurš mīlējis adīšanu, var patikt strādāt ar audumu. Bijušajam inženierim var patikt modeļu komplekts ar lieliem elementiem vai kārtošana ar skrūvēm projektam. Bijušajam skolotājam var patikt kartīšu gatavošana.
 
-## Why focus on the process, not the product?
+## Kāpēc koncentrēties uz procesu, nevis rezultātu?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Tāpēc, ka kopā pavadītais laiks ir svarīgākais. Alcheimera asociācijas ceļvedis par [aktivitātēm mājās](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) iesaka koncentrēties uz procesu, nevis rezultātu. Glezna, kas ir „tikai zila“, joprojām ir glezna. Kolāža ar trim attēliem joprojām ir kolāža.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Asociācija arī norāda, ka profesionāls mākslinieks var kļūt frustrēts par izmaiņām savā darbā, bet amatieris var priecāties par jaunu iespēju izteikties. Ja cilvēks bija prasmīgs mākslinieks, izmēģiniet citu tehniku, nevis to, ko viņš labi pārvalda, lai tas izskatītos pēc spēles, nevis salīdzinājuma.
 
-## Arts and crafts ideas to try
+## Mākslas un amatniecības idejas, ko izmēģināt
 
-Each idea includes how to make it simpler if it becomes hard.
+Katrai idejai ir norādīts, kā to vienkāršot, ja tā kļūst grūta.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Akvareļa lāpījumi.** Samitriniet lielu akvareļpapīra lapu un ļaujiet cilvēkam ar lielu otu uzlāt krāsu. Krāsas izplūst pašas, tāpēc nav nepareiza rezultāta. *Vienkāršāk:* piedāvājiet tikai divas krāsas vai krāsojiet ar ūdeni uz tumša papīra, kas parāda slapjās svītras.
+2. **Kolāža no žurnāliem.** Iepriekš izgriezt attēlus no žurnāliem par dārzkopību, ēdienu, automobiļiem, ceļojumiem vai cilvēka vecajiem vaļaspriekiem. Ļaujiet izvēlēties un uzlīmēt attēlus uz kartona. *Vienkāršāk:* piedāvājiet četrus iepriekš izgrieztus attēlus un līmi, un līmēšanu veiciet kopā.
+3. **Ziedu sakārtošana.** Alcheimera slimības fonds Amerikā iesaka [sakārtot griezti ziedus un zaļumus](https://alzfdn.org/dementia-activity-gardening/) vienkāršās sezonas kompozīcijās. Izmantojiet smagu, stabilu vāzi un jau apgrieztus kātus. *Vienkāršāk:* ievietojiet dažus kātus mazā glāzē pa vienam.
+4. **Presēto ziedu kartītes.** Spiediet ziedus starp grāmatas lapām nedēļu, pēc tam uzlīmējiet tos uz salocītas kartona kartītes. *Vienkāršāk:* jūs uzlieciet līmi, bet cilvēks piespiež ziedu.
+5. **Pieaugušu krāsojamās lapas.** Izvēlieties lapas ar skaidriem kontūriem un īstām tēmām. Mūsu izdrukājamās [krāsojamās lapas](/games/coloring/) var krāsot arī ekrānā, pieskaroties krāsai un tad daļai no attēla. *Vienkāršāk:* lielākas laukumi, mazāk krāsu, biezi marķieri.
+6. **Māls vai mīksta mīkla.** Veltnējiet, spiediet un veidojiet gaisā cietējošu mālu vai mīkstu modelēšanas masu. Lapas spiedums mālā veido vienkāršu nospiedumu plāksni. *Vienkāršāk:* vien spiešana un veltņošana ir pilnvērtīga aktivitāte. Sekojiet, lai cilvēks neievieto mālu mutē.
+7. **Kartīšu gatavošana.** Alcheimera asociācija iesaka to ieturēt kā īstu uzdevumu: „Mēs sūtām atveseļošanās kartīti draugam. Vai palīdzēsiet?“ Iepriekš izgriezts kartons un dažas uzlīmes ar ziediem vai zīmogi labi darbojas.
+8. **Albumu veidošana.** Ielieciet kopijas no vecām fotogrāfijām, pastkartēm vai biļešu talonu albuma lapās kopā. Runājiet par katru, kamēr strādājat. Maigus veidus, kā runāt par pagātni, skatiet mūsu [atmiņu ceļvedī](/activities/reminiscence/).
+9. **Auduma un tekstūras dēļi.** Uzlīmējiet auduma paraugus, piemēram, velvetu, samtu, džuti un zīdu, uz stingra kartona. Veidošana pati ir aktivitāte; vēlāk tos sajust ir cita. Vairāk ideju ir mūsu [sensoro aktivitāšu ceļvedī](/activities/sensory/).
+10. **Vienkārša koka apstrāde.** Cilvēkam, kam patika kokapstrāde, gluda koka bloka slīpēšana vai putnu mājiņas komplekta krāsošana var šķist pazīstama. Noņemiet asos instrumentus un uzraugiet.
+11. **Glezniešana pie mūzikas.** Ieslēdziet mīļāko ierakstu un gleznojiet formas vai krāsas, kas atbilst noskaņojumam. Tas apvieno divas aktivitātes, kas daudziem patīk. Skatiet [mūzikas aktivitātes](/activities/music/).
 
-## How do I set up an art session?
+## Kā sagatavot mākslas nodarbību?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Sagatavojiet iepriekš.** Sagrieziet, apgrieziet un izklājiet visu, pirms uzaicināt cilvēku. Gaidīšana, kamēr meklējat šķēres, var nogalināt brīdi.
+2. **Turiet to nelielu.** Divas vai trīs krāsas, viena ota, viena papīra lapa. Pārāk daudz izvēļu var pārslogot.
+3. **Pasargājiet galdu.** Plastmasas galdauts vai vecs palags nozīmē, ka netīrums nav problēma.
+4. **Sēdiet blakus.** Strādājiet ar savu darbu blakus viņa darbam. Tas izskatās kopīgs, nevis uzraudzīts.
+5. **Palīdziet sākt.** Alcheimera asociācija norāda, ka, iespējams, kustība ar otu jāsāk kopā ar cilvēku. Kad tā sākta, daudzi turpina paši.
+6. **Runājiet, strādājot.** Komentējiet krāsas un tekstūras vai ļaujiet darbam novest pie stāstiem. Izvairieties no viktorīnas tipa jautājumiem, piemēram, „Kas tas ir?“
+7. **Atvēliet daudz laika.** Projekts nav jāpabeidz vienā reizē.
 
-## How do I adapt art as dementia changes?
+## Kā pielāgot mākslu, mainoties demencei?
 
-| Stage | What tends to work | What to adjust |
+| Stadija | Kas parasti darbojas | Ko pielāgot |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Agrīnā | Nodarbības, detalizētas krāsojamās lapas, albumi, kartīšu gatavošana, glezniešana pēc fotogrāfijas | Piedāvājiet projektu izvēli; saglabājiet sociālu |
+| Vidējā | Iepriekš izgriezta kolāža, akvareļa lāpījumi, ziedu sakārtošana, krāsošana ar lieliem laukumiem | Viens solis vienlaikus; griešanu un līmēšanu veicat jūs |
+| Vēlīnā | Plati otas triepieni, māla spiešana, auduma sajušana, skatīšanās, kā jūs gleznojat | Koncentrējieties uz maņām; maigi vadiet roku, ja tas ir gaidīts |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS norāda, ka vēlākajās stadijās aktivitātes parasti vienkāršo un koncentrē uz maņām. Skatīties, kā kāds cits glezno, un runāt par krāsām, ir īsts veids, kā piedalīties. Vairāk ideju pa stadijām skatiet [aktivitātes katrā stadijā](/activities/ideas/).
 
-## Safety with art supplies
+## Drošība ar mākslas materiāliem
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Izvēlieties netoksiskas krāsas, marķierus un līmes zīmuļus.
+- Turiet šķēres, amatniecības nažus un karstās līmes pistoles ārpus sasniedzamības. Visu griešanu veiciet pats iepriekš.
+- Sekojiet, vai kāds neievieto mālu, krāsu vai sīkus priekšmetus mutē.
+- Ūdenim un vāzēm izmantojiet stabilus, smagus traukus.
 
-## When should we stop?
+## Kad apstāties?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Apstājieties, kad uzmanība noklīst vai parādās frustrācija. Alcheimera asociācija iesaka pārtraukt vai mainīt aktivitāti, kad uzmanības spēja mazinās vai frustrācija pieaug. Novietojiet projektu drošā vietā un piedāvājiet kaut ko atpūtinošu. Varat atgriezties pie tā rīt vai nekad. Abi varianti ir labi.
 
-## Display the work, if the person wants
+## Izstādiet darbu, ja cilvēks to vēlas
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Ieliktā glezna uz ledusskapja vai ieēvelēta kolāža var būt klusa cieņas izrādīšana. Vispirms pajautājiet. Daudziem cilvēkiem patīk redzēt savu darbu sienā; citi labāk negribētu.
 
-## Pair art with our games
+## Apvienojiet mākslu ar mūsu spēlēm
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Dienās, kad krāsu sagatavošana ir par daudz, [Krāsošana](/games/coloring/) darbojas planšetdatorā bez netīrumiem. [Attēlu puzle](/games/picture-puzzle/) saglabā visu attēlu redzamu kā vadlīniju, kamēr maināt gabalus. [Sarunu kartītes](/games/conversation-cards/) piedāvā atvērtus jautājumus, kas no attēla var novest līdz stāstam. Visas tās ir bez taimera un punktiem. Varat izdrukāt lapas arī no mūsu [izdrukājamām aktivitātēm](/activities/printable/) kolekcijas.
