@@ -66,7 +66,7 @@ Jekk il-persuna taqbel, organizzaw laqgħa f'dar qabel l-ewwel żjara. Innota je
 
 L-Alzheimer's Association tissuġġerixxi li jkun hemm persuna fidata oħra preżenti waqt intervista, biex tkun tista' tiddiskuti l-impressjonijiet wara. Uża l-laqgħa biex titkellem dwar żjara tipika: id-dħul, it-tislim, il-kompitu ppjanat u kif il-persuna tista' titlob biex titwaqqaf jew tieħu pawża.
 
-Jekk ikun possibbli, aqbilu dwar żjara qasira ta' bidu u irrieżaminaha mal-persuna. Fornitur jista' jidher kwalifikat fuq il-karta u madankollu ma jkunx ajdu tajjeb personalment. Irrispetta r-reazzjoni tal-persuna uiddiskutu alternattivi jekk xi wieħed minnkom ikollu tħassib.
+Jekk ikun possibbli, aqbilu dwar żjara qasira ta' bidu u irrieżaminaha mal-persuna. Fornitur jista' jidher kwalifikat fuq il-karta u madankollu ma jkunx kompatibbli tajjeb mal-persuna fuq il-livell personali. Irrispetta r-reazzjoni tal-persuna u iddiskutu alternattivi jekk xi wieħed minnkom ikollu tħassib.
 
 ## Liema tagħrif nista' nqassam ma' għajnuna?
 
@@ -82,7 +82,7 @@ Iċċekkja mal-persuna wara ż-żjarat. Staqsi x'ħassitha komda, x'agħġbitha 
 
 Aqbilu mal-fornitur kif tingħataw aġġornamenti rutinarji u kif jiġu trattati t-tħassib. Jekk żjara tiġi kkanċellata, kun af min jista' jipprovdi sostituzzjoni jew x'tippreferi l-persuna li tagħmel minflok. Irrieżamina l-kompiti meta r-rutina ta' kuljum, is-saħħa jew il-bżonnijiet ta' appoġġ tal-persuna jinbidlu.
 
-L-ispejjeż, l-iskejjed u s-servizzi disponibbli jvarjaw. Itlob lill-fornitur kundizzjonijiet bil-miktub, inkluż ir-rati, it-tul minimu taż-żjara, ir-regoli tal-kanċellazzjoni u kull ħlas addizzjonali. It-tabib tal-persuna, is-servizzi lokali għall-anzjani jew organizzazzjonijiet dwar id-demenza jistgħu jissuġġerixxu fejn tfittex, imma qabbel il-fornituri int u l-persuna.
+L-ispejjeż, l-iskedi u s-servizzi disponibbli jvarjaw. Itlob lill-fornitur kundizzjonijiet bil-miktub, inkluż ir-rati, it-tul minimu taż-żjara, ir-regoli tal-kanċellazzjoni u kull ħlas addizzjonali. It-tabib tal-persuna, is-servizzi lokali għall-anzjani jew organizzazzjonijiet dwar id-demenza jistgħu jissuġġerixxu fejn tfittex, imma qabbel il-fornituri int u l-persuna.
 
 Jekk il-persuna ssir konfuża f'daqqa jew tagħmel ħafna agħar, tassumix li l-bidla hija minħabba d-demenza. [In-NHS tirrakkomanda għajnuna medika minnufih għal konfużjoni f'daqqa](https://www.nhs.uk/symptoms/confusion/). Għal tħassib kontinwu dwar il-kura, kellem lit-tabib jew professjonist kwalifikat ieħor.
 

@@ -7,7 +7,7 @@ order: 20
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Ippreparaw lista qasira ta' mistoqsijiet, innotaw bidliet speċifiċi u ġibu lista aġġornata tal-mediċini. Staqsu lill-persuna jekk trid lilek fil-kamra, ħalluha twieġeb l-ewwel u itmiu bi pjan bil-miktub għall-pass li jmiss.
+  Ippreparaw lista qasira ta' mistoqsijiet, innotaw bidliet speċifiċi u ġibu lista aġġornata tal-mediċini. Staqsu lill-persuna jekk trid lilek fil-kamra, ħalluha twieġeb l-ewwel u jitilqu bi pjan bil-miktub għall-pass li jmiss.
 keyPoints:
   - "Agħżlu l-aktar mistoqsijiet importanti u iktebhom qabel l-appuntament."
   - "Innotaw x'inbidel, meta jiġri u x'innotat il-persuna."
@@ -51,7 +51,7 @@ Iddeskrivi l-bidliet b'termini konkreti. Innota x'ġara, meta bdiet, kemm-il dar
 
 ## Kif nista' ninvolvi lill-persuna matul iż-żjara?
 
-Staqsi jekk il-persuna trid li tidħol mal-appuntament. Tista' tixtieq vjaġġ u tippreferi tkellem lit-tabib waħedha, jew tista' tilqagħek bħala min jieħu n-noti. Staqsiha kif tixtieq li tgħin qabel jibda l-appuntament.
+Staqsi jekk il-persuna trid li tidħol mal-appuntament. Tista' tixtieq vjaġġ u tippreferi titkellem lit-tabib waħedha, jew tista' tkun preżenti bħala min jieħu n-noti. Staqsiha kif tixtieq li tgħin qabel jibda l-appuntament.
 
 Ħalli lill-persuna twieġeb l-ewwel il-mistoqsijiet tat-tabib. Żid dettalji biss meta trid, jew meta t-tabib jistaqsi tagħrif li l-persuna tista' ma tiftakarx. Kellem lill-persuna, mhux biss lit-tabib. Jekk teħtieġ ħin biex twieġeb, stenna minflok ma timla kull pawża.
 
@@ -72,7 +72,7 @@ Dawn huma eżempji, mhux lista li trid tlesti f'kull żjara. Il-persuna tista' j
 
 Ikteb sommarju qasir tal-ispjegazzjoni tat-tabib, l-azzjonijiet miftiehma u l-ħin tas-segwitu. Innota min se jieħu ħsieb kull azzjoni, bħal li ċċempel lill-klinika jew tibbuka appuntament ieħor. Jekk il-persuna taqbel, aqsam id-dettalji mal-membru tal-familja jew mal-għajnuna li teħtieġhom.
 
-Żomm in-noti tas-saħħa privati u faċli biex il-persuna ssibhom. Evita li tibgħathom permezz ta' kont jew grupp komuni jekk il-persuna ma qablitx għal dan. Jekk xi istruzzjoni ma tkunx ċara meta tasal id-dar, ċempel lill-kklinika u itlob spjegazzjoni. Tibdiex, tieqafx jew tbiddilx mediċina abbażi tan-noti tiegħek mingħajr ma tiċċekkja mal-persuna li tikteb ir-riċetta.
+Żomm in-noti tas-saħħa privati u faċli biex il-persuna ssibhom. Evita li tibgħathom permezz ta' kont jew grupp komuni jekk il-persuna ma qablitx għal dan. Jekk xi istruzzjoni ma tkunx ċara meta tasal id-dar, ċempel lill-klinika u itlob spjegazzjoni. Tibdilx, tieqafx jew tbiddel mediċina abbażi tan-noti tiegħek mingħajr ma tiċċekkja mal-persuna li tikteb ir-riċetta.
 
 Qabel titlaq, iċċekkja jekk għandhom jiġu ppjanati segwitu jew test, u min għandek tikkuntattja b'mistoqsijiet. Il-persuna tista' tixtieq iżżomm kopja tal-pjan bil-miktub jew tagħżel persuna fidata biex iżżommu. Staqsi, minflok ma tiddeċiedi għaliha.
 
@@ -86,6 +86,6 @@ Bidla gradwali tista' wkoll tkun ta' min jitkellem dwarha mat-tabib, iżda hija 
 
 Staqsi x'jagħmel iż-żjara aktar faċli. Il-persuna tista' tippreferi ħin familjari għall-appuntament, stennija iqsar jew kumpanji fidati. Ċempel bil-quddiem biex tistaqsi lill-klinika dwar il-bżonnijiet ta' aċċess, l-appoġġ għas-smigħ jew il-lingwa, u jekk il-mistoqsijiet jistgħux jintbagħtu qabel iż-żjara.
 
-Jekk il-persuna tkun ansjuża, spjega l-pjan b'mod kalm u dirett li jaqbel magħha. Ġib oġġett familjari jew xi ħaġa x'tagħmel waqt li tistenna, jekk il-persuna tixtiqu. Staqsi kemm ta' avviż tippreferi: xi nies iridu ż-żmien biex jippreparaw, filwaqt li oħrajn jippreferu tfakkira qasira eqreb taż-żjara. Uża spjegazzjoni onesta li taħdem għaliha.
+Jekk il-persuna tkun ansjuża, spjega l-pjan b'mod kalm u dirett li jaqbel magħha. Ġib oġġett familjari jew xi ħaġa biex tagħmel waqt li tistenna, jekk il-persuna tixtieq. Staqsi kemm ta' avviż tippreferi: xi nies iridu ż-żmien biex jippreparaw, filwaqt li oħrajn jippreferu tfakkira qasira eqreb taż-żjara. Uża spjegazzjoni onesta li taħdem għaliha.
 
-Iż-żjara t-tajba thalli lill-persuna msemmgħa, bl-passi li jmiss mifhuma. Ippreparaw flimkien, ipproteġu l-privatezza u itolbu lill-klinika jiċċara kull ħaġa li għadha mhix ċerta.
+Iż-żjara t-tajba tħalli lill-persuna mismugħa, bl-passi li jmiss mifhuma. Ippreparaw flimkien, ipproteġu l-privatezza u itolbu lill-klinika jiċċara kull ħaġa li għadha mhix ċerta.
