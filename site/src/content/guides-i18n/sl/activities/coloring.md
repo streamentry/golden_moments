@@ -1,7 +1,7 @@
 ---
 title: "Barvanje za osebe z Alzheimerjevo boleznijo in demenco"
 seoTitle: "Barvanje pri Alzheimerjevi bolezni in demenci"
-description: "Barvanje za osebe z Alzheimerjevo boleznijo ali demenco: slike za odrasle, debele barvice, igre z dotikom in natisljive liste, z nasveti za pripravo in za mirno zaključitev."
+description: "Barvanje za osebe z Alzheimerjevo boleznijo ali demenco: slike za odrasle, debele barvice, igre z dotikom in natisljive liste ter nasveti za mirno zaključitev."
 section: activities
 order: 25
 updated: 2026-11-08

@@ -82,7 +82,7 @@ Za nasvete o dnevnih rutinah in ohranjanju aktivnosti glejte [nežno dnevno ruti
 
 Partnerji in odrasli otroci se pogosto počutijo osamljeno. Skrb je lahko kot drugo delo poleg službe in družine. Blog Alzheimerjevega združenja navaja, da so skrbniki v skupinah za zgodnjo obliko demence te skupine cenili zaradi praktičnih vprašanj, na primer pravnega načrtovanja, in zaradi občutka, da jih kdo razume. Navaja tudi, da združenje vodi brezplačne podporne skupine za skrbnike, vključno s skupinami za ljudi, ki skrbijo za osebo z zgodnjo obliko demence, tri od njih pa se srečujejo prek spleta ob torkih in sredah.
 
-Za vprašanja o skupinah pokličite 24-urno linijo združenja na številko 800.272.3900. Naš vodnik o [samopomoči skrbnika](/caregiving/caregiver-self-care/) obravnava počitek, oddih in znake izgorelosti.
+Za vprašanja o skupinah pokličite linijo združenja 24/7 na številko 800.272.3900. Naš vodnik o [samopomoči skrbnika](/caregiving/caregiver-self-care/) obravnava počitek, oddih in znake izgorelosti.
 
 ## Stopnje še vedno štejejo
 
