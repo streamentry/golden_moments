@@ -7,7 +7,7 @@ Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct
 
 ## Status
 
-**Latest recorded rubric score (2026-11-10):** weighted overall **9.62 of 10**, lowest dimension 7.5 (verification health), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last repository-wide score; no content-only round is claimed as a new aggregate measurement. **Improvement count: 89/100 in this branch** (Round 88 is in PR #231; this branch adds #89). Round 89 labels U.S. emergency and crisis numbers in the app's English Today advice and directs readers elsewhere to local services. Verification and review status are recorded in [TRACKING.md](TRACKING.md). Flutter/widget and human review remain unverified.
+**Latest recorded rubric score (2026-11-11):** weighted overall **9.87 of 10**, lowest dimension 9.37 (localization), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last measured repository-wide score; this content-only round does not claim a new aggregate score. The separate mobile visual audit is recorded as a maintenance follow-up, not a numbered source-led improvement. **Improvement count: 90/100 in this branch** (Round 89 is merged in PR #232; this branch adds #90). Round 90 adds an English guide for supporting an LGBTQ+ person with dementia, with consent-based privacy, chosen supporters and care-setting questions. Local site verification, TypeScript, Python and metadata checks passed; hosted CI is pending. No LGBTQ+ reader, partner/chosen-family caregiver, care-setting staff, clinician or native-speaker review has been done.
 
 | Item | Status |
 | --- | --- |
@@ -189,3 +189,9 @@ Sources include the Alzheimer's Society and NHS. The guide uses local rather tha
 Round 50 updated the website's Today guidance, but the app has separate English Today strings that named 911 and 988 without their U.S. scope. The English app text now labels 911 and 988 for the U.S. and gives local emergency/crisis alternatives elsewhere. No location detection or permissions were added.
 
 The ARB audit found those literal U.S. numbers in English only; translated help strings were left as they were. Local Flutter generation and widget tests could not run because Flutter/Dart are unavailable here; hosted CI remains pending.
+
+## Round 90: inclusive support for LGBTQ+ people with dementia (2026-11-12)
+
+The site covered residential care and after-diagnosis planning but had no focused guidance on respecting an LGBTQ+ person's identity, privacy and chosen supporters during dementia care. The new guide offers person-led questions and concrete ways to assess care-setting practices without giving legal or clinical advice.
+
+Sources include Alzheimer's Society, Alzheimer's Association and SAGE/HRC. The guide is English-only; no lived-experience, care-provider, clinician, native-speaker or live-browser review has been done.

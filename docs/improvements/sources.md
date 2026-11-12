@@ -1,4 +1,4 @@
-# Sources learned from (updated 2026-11-11)
+# Sources learned from (updated 2026-11-12)
 
 Purpose: the dementia, Alzheimer's and caregiver material this project learns from. Each entry says what was **read** (fetched and checked) and what was only **seen in search results**, because a search snippet is not evidence. Where a source could not be opened, that is stated.
 
@@ -433,3 +433,12 @@ Application: home safety addressed fall prevention and bathing guidance mentione
 - Website Round 50 used the same regional boundary for /today/. Round 89 applies it to the separate mobile Today page. A scan of 67 app ARBs found literal 911/988 values for these three help strings only in English. The pt and zh parent ARBs omit these keys; resolveAppLocale routes Portuguese to the Brazilian or Portugal files and Chinese to the Hans or Hant files, which carry their own localized help text.
 
 Application: the app's English help text names 911 and 988 but did not say those resources are U.S.-specific, unlike the website. The app now keeps those numbers within scope and gives a local emergency/crisis alternative without detecting location.
+
+## Round 90: inclusive support for LGBTQ+ people with dementia (read 2026-11-12)
+
+- [Alzheimer's Society: Supporting an LGBTQ+ person with dementia](https://www.alzheimers.org.uk/get-support/help-dementia-care/supporting-lgbtq-dementia) — opened. It advises against assumptions, recommends asking about preferred pronouns and disclosure, recognizes partners and families of choice, and suggests planning for respectful care settings. Its UK legal statements are not used.
+- [Alzheimer's Association: LGBTQ+ Community Dementia Resources](https://www.alz.org/alzheimers-dementia/how-alzheimers-impacts-different-groups/lgbtq-dementia-resources) — opened. It describes concerns about stigma, social isolation and finding welcoming providers, and links to community and caregiver resources. No prevalence figures or legal claims were transferred.
+- [SAGE: 10 Tips for Finding LGBT-Affirming Services](https://www.sageusa.org/resource/10-tips-for-finding-lgbt-affirming-services/) — opened; published 8 August 2025. It notes that sharing personal information with care providers can feel vulnerable and stresses trust and respectful service.
+- [SAGE and Human Rights Campaign Foundation: Finding an LGBTQ+ Inclusive Long-Term Care Community](https://www.sageusa.org/wp-content/uploads/2025/08/lei-consumer-guide-finding-lgbtq-inclusive-ltcc.pdf) — opened; the PDF itself is ©2021. Its examples suggest asking about written visitation, rooming and staff-training policies. The guide's U.S. legal statements are dated and are not used as current or universal advice.
+
+Application: the residential-care guide already asks readers to consider visits, preferences and staff, but had no focused guidance on privacy, names and pronouns, chosen supporters or LGBTQ+-inclusive care-setting questions. The new guide adds those questions, preserves the person's control over disclosure and separates trusted involvement from local legal decision-making authority.
