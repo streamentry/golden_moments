@@ -60,7 +60,7 @@ health: false
 
 Pulla bağlı qərarlar şəxsin müstəqilliyinə və gündəlik həyatına təsir edir. Bir iş çətinləşirsə, hər şeyi başqasının götürməli olduğunu fərz etmək əvəzinə, məhz o işdən başlayın. Şəxsdən hansı kömək istədiyini soruşun və onu prosesdə saxlayın.
 
-Bu təlimat ABŞ oxucuları üçün ümumi məlumat verir. Bank variantları və hüquqi qaydalar yerdən asılı olaraq fərqlənir. [Alzheimer's Society-nin maliyyənin idarə edilməsi təlimatı](https://www.alzheimers.org.uk/get-support/help-dementia-care/managing-a-persons-finances) şəxsin rolunu qoruyaraq ona necə dəstək olmaq barədə məlumat verir. [Istehlakçı Maliyyə Mühafizəsi Bürosu (CFPB)](https://www.consumerfinance.gov/ask-cfpb/i-would-like-to-be-able-to-have-my-friend-or-family-member-help-with-my-bill-paying-and-banking-what-are-my-options-en-1145/) isə izahlı yardım, etibar edilən əlaqə şəxsi və hüquqi səlahiyyətin fərqli şeylər olduğunu izah edir.
+Bu təlimat ABŞ oxucuları üçün ümumi məlumat verir. Bank variantları və hüquqi qaydalar yerdən asılı olaraq fərqlənir. [Alzheimer's Society-nin maliyyənin idarə edilməsi təlimatı](https://www.alzheimers.org.uk/get-support/help-dementia-care/managing-a-persons-finances) şəxsin rolunu qoruyaraq ona necə dəstək olmaq barədə məlumat verir. [İstehlakçı Maliyyə Mühafizəsi Bürosu (CFPB)](https://www.consumerfinance.gov/ask-cfpb/i-would-like-to-be-able-to-have-my-friend-or-family-member-help-with-my-bill-paying-and-banking-what-are-my-options-en-1145/) isə izahlı yardım, etibar edilən əlaqə şəxsi və hüquqi səlahiyyətin fərqli şeylər olduğunu izah edir.
 
 ## Hökmranlıq etmədən necə kömək edə bilərəm?
 
