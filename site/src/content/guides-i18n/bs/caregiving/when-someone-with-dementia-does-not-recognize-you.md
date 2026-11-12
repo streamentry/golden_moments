@@ -1,7 +1,7 @@
 ---
 title: "Kada osoba s demencijom ne prepoznaje vas"
 seoTitle: "Demencija: šta reći kada vas osoba ne prepoznaje"
-description: "Ako vas osoba s demencijom ne prepoznaje, predstavite se mirno, izbjegavajte provjere pamćenja, ponudite poznate znakove ako su dobrodošli i potražite pomoć kod naglih promjena."
+description: "Kada vas osoba s demencijom ne prepoznaje, predstavite se mirno, bez provjere pamćenja. Poznat znak ponudite samo ako je dobrodošao. Za nagle promjene tražite pomoć."
 section: caregiving
 order: 32
 updated: 2026-11-11
