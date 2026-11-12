@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "ඩිමෙන්ශියා ඇති අය සඳහා ප්‍රහේලිකා: ජිග්සෝ, වචන ප්‍රහේලිකා සහ පහසු ඔන්ලයින් ප්‍රහේලිකා"
+seoTitle: "ඩිමෙන්ශියාව සඳහා ප්‍රහේලිකා: ජිග්සෝ සහ වචන ප්‍රහේලිකා"
+description: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා ජිග්සෝ, වචන සහ ඔන්ලයින් ප්‍රහේලිකා තෝරන්නේ කෙසේද: කොටස් ප්‍රමාණය, පින්තූර, විශාල අකුරු සහ සරල කිරීමට වේලාව."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා හොඳම ප්‍රහේලිකාව වන්නේ ඔවුන්ට මඳක් උදව් ඇතිව අවසන් කර ගත හැකි සහ ගමන දී රසවිඳිය හැකි එකයි. අඩු, විශාල කොටස් සහිත ජිග්සෝ සහ පැහැදිලි වැඩිහිටි පින්තූරයක් තෝරා, පෙට්ටියේ පින්තූරය දෘශ්‍යමානව තබා, මුලින් දාර කොටස් වර්ග කරන්න. වචන සෙවීම් සහ ක්‍රොස්වර්ඩ් විශාල අකුරින් හොඳින් වැඩ කරයි. කුඩා ප්‍රහේලිකා හතරක් සහිත පහසු ඔන්ලයින් ප්‍රහේලිකා මධ්‍ය අවධියට ගැලපේ. රසවිඳින තාක් නවතන්න.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "අවධියක් අනුව නොව, එය ක්‍රියා කරන ආකාරය අනුව තෝරන්න: ප්‍රහේලිකාවක් වැඩක් මෙන් දැනුණහොත්, කොටස් අඩු ප්‍රහේලිකාවක් උත්සාහ කරන්න."
+  - "විශාල, ශක්තිමත් කොටස් සහ වර්ණ ප්‍රදේශ පැහැදිලිව වෙන්ව ඇති පින්තූරය, කුඩා කොටස් සහ විශාල අහසකට වඩා පහසුය."
+  - "වැඩිහිටි විෂයන් වැදගත්ය. උද්‍යාන, මුළුතැන්ගෙය, මෝටර් රථ, සත්ත්වයන්, කාටූන් නොව."
+  - "එකට කිරීමම ඉලක්කයයි. කොටස් අතින් දෙන්න, දාර වර්ග කරන්න, පෙට්ටියේ ආවරණය දෘශ්‍යමානව තබන්න."
+  - "විශාල අකුරු වචන සෙවීම් සහ කොටස් හතර හෝ නවයක් සහිත ඔන්ලයින් ප්‍රහේලිකා මේ වෙබ් අඩවියේ නොමිලේ ලැබේ."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා ප්‍රහේලිකා කොටස් කී ගණනක් හොඳද?"
+    a: "නිශ්චිත නිවැරදි අංකයක් නැත. 1,000 කොටස් ප්‍රහේලිකා කළ කෙනෙකුට මුලදී කොටස් සිය ගණනක් තවමත් රුචිකර විය හැකි අතර, අනෙක් අය විශාල කොටස් දොළහක් හෝ ඊට ආසන්න ප්‍රමාණයකින් වඩාත් සතුටු වේ. ප්‍රහේලිකාව වැඩක් මෙන් දැනෙන හෝ කලකිරීමක් ඇති කරන්නේ නම්, අඩු කොටස්වලට මාරු වන්න. අපේ ඔන්ලයින් Picture puzzle හි කොටස් 4ක් හෝ 9ක් ඇත."
+  - q: "ජිග්සෝ ප්‍රහේලිකා ඩිමෙන්ශියා ඇති අයට හොඳද?"
+    a: "බොහෝ දෙනා ඒවා රසවිඳිති, විශේෂයෙන් ඔවුන් මීට පෙර ප්‍රහේලිකා ප්‍රිය කළේ නම්. ප්‍රහේලිකාවක් අත්වලට කිරීමට දෙයක්, පැහැදිලි ඉලක්කයක් සහ කථා කිරීමට පින්තූරයක් ලබා දෙයි. ඩිමෙන්ශියාව සුව කරන හෝ මන්දගාමී කරන බව පෙන්වා දී ඇති ප්‍රහේලිකාවක් නැත, එබැවින් ඒවා රසවිඳීම සහ සහයෝගීතාව සඳහා තෝරන්න."
+  - q: "ජිග්සෝ තවදුරටත් කළ නොහැකි කෙනෙකුට මම කුමක් කළ හැකිද?"
+    a: "එය කුඩා කර, වැඩි කොටසක් ඔබම කරන්න: එක වරකට එක් කොටසක් අතින් දෙන්න, හෝ අවසාන කොටස් කිහිපයක් ඔවුන්ට ඉතිරි කරන්න. කුඩා කොටස් හතරක ඔන්ලයින් ප්‍රහේලිකාවක්, කොටස් වර්ණය අනුව වර්ග කිරීම, හෝ අවසන් කළ පින්තූරය එකට බැලීම උත්සාහ කරන්න."
+  - q: "ක්‍රොස්වර්ඩ් සහ වචන සෙවීම් ඩිමෙන්ශියාවට සුදුසුද?"
+    a: "ඒවා මුල් අවධියේදී විශාල අකුරින් කළ හැක. එක් දිශාවට සහ පහළට පමණක් වචන ඇති වචන සෙවීම්, කර්ණ හෝ පසුපසට වචන ඇති ඒවාට වඩා පහසුය. ඉඟි හෝ වචන ලැයිස්තුව හඬ නගා කියවා, එකට වැඩ කරන්න."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,88 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+විශාල ජිග්සෝ ප්‍රහේලිකාවක් කෑම මේසය මත පැතිරී ඇති විට, බෙදා ගැනීමට පහසුම ක්‍රියාකාරකම්වලින් එකකි. කතා කිරීමට අවශ්‍ය නොවී ඔබට එකට වාඩි විය හැක, පින්තූරය කතා කිරීමට දෙයක් ලබා දෙයි, සහ අවසන් කොටස තැබීම හොඳ හැඟීමක් ඇති කරයි. කෙසේවෙතත්, ඩිමෙන්ශියාව වෙනස් වන විට ප්‍රහේලිකා ද වෙනස් විය යුතුය. ඉතා දුෂ්කර ප්‍රහේලිකාවක් සන්සුන් දහවලක් කලකිරීම් සහිත දහවලක් බවට පත් කළ හැක. මෙම පිටුවෙන් ජිග්සෝ, වචන ප්‍රහේලිකා සහ පහසු ඔන්ලයින් ප්‍රහේලිකා තෝරා සකස් කරන ආකාරයත්, ඒවා දුෂ්කර වන විට කළ යුතු දේත් ආවරණය වේ.
 
-## Are puzzles good for people with dementia?
+## ප්‍රහේලිකා ඩිමෙන්ශියා ඇති අයට හොඳද?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+බොහෝ දෙනා ඒවා රසවිඳිති, විශේෂයෙන් ඒවා මීට පෙර කළ අය. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) මුල් අවධියේ ක්‍රියාකාරකම් අතර වචන සෙවීම්, කාඩ් ක්‍රීඩා සහ පුවරු ක්‍රීඩා ලැයිස්තුගත කරන අතර, [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ටැබ්ලට් මත ඔන්ලයින් ක්‍රීඩා සහ ප්‍රහේලිකා නිරත වීමේ එක් ක්‍රමයක් ලෙස සඳහන් කරයි.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+ප්‍රහේලිකා ප්‍රතිකාරයක් නොවේ. ප්‍රහේලිකාවක් මගින් ඩිමෙන්ශියාව මන්දගාමී කර හෝ නවතා ඇති බව පෙන්වා දී නැත; පර්යේෂණ පිළිබඳ පැහැදිලි කිරීම සඳහා අපේ [මොළයේ ක්‍රීඩා සහ ඩිමෙන්ශියාව](/brain-health/brain-games/) මාර්ගෝපදේශය බලන්න. ප්‍රහේලිකාවක් කිරීමේ හේතුව වන්නේ එය සුවපහසු, අවශෝෂණය කරන පැයක් එකට ගත කළ හැකි වීමයි. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) එය සාරාංශ කරන්නේ ජයග්‍රහණය නොව රසවිඳීම කෙරෙහි අවධානය යොමු කරන ලෙසයි.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## ජිග්සෝ ප්‍රහේලිකාවක් ඩිමෙන්ශියා ඇති කෙනෙකු සඳහා තෝරන්නේ කෙසේද?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+අවධි ලේබලයක් අනුව නොව, පුද්ගලයා ප්‍රිය කරන දේ සහ පසුගිය ප්‍රහේලිකාව ගියේ කෙසේද යන්න අනුව යන්න.
 
-### Number of pieces
+### කොටස් ගණන
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+නිශ්චිත නිවැරදි ගණනක් නැත. ජීවිත කාලය පුරා ප්‍රහේලිකා කළ කෙනෙකු මුලදී කොටස් සිය ගණනක් රසවිඳිය හැක, අනෙකෙකු ඉතා සතුටින් සිටින්නේ කොටස් දොළහක් සමඟය. ප්‍රායෝගික නීතියක්: පසුගිය ප්‍රහේලිකාව වැඩක් මෙන් දැනුණා නම්, කොටස් ගණනින් අඩකට ආසන්න එකක් තෝරන්න. එය ඉක්මනින් අවසන් වී ඔවුන්ට තව ඕනෑ නම්, තව ටිකක් වැඩි කරන්න.
 
-### Piece size and feel
+### කොටසේ ප්‍රමාණය සහ හැඟීම
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **විශාල කොටස්** දැකීමට, ඔසවා ගැනීමට සහ හැරවීමට පහසුය.
+- **ඝන, ශක්තිමත් කොටස්** ස්ථානයේ පවතින අතර, වැටුණත් ඔරොත්තු දෙයි.
+- **මැට් ආවරණයක්** ලාම්පු සහ ජනේල යටතේ දීප්තිය අඩු කරයි.
+- **කුඩා කොටස් වළකින්න** පුද්ගලයා ද්‍රව්‍ය මුඛයට දැමිය හැකි නම්, ඩිමෙන්ශියාව පසුව දියුණු වන විට එය සිදුවිය හැක.
 
-### The picture
+### පින්තූරය
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **වැඩිහිටි විෂයන්.** උද්‍යාන, මුළුතැන්ගෙය, පැරණි මෝටර් රථ, ගොවිපල සත්ත්වයන්, මුහුදු වෙරළ නගරයක්, ප්‍රිය ක්‍රීඩාවක්. කාටූන් හෝ ළමා සෙල්ලම් බඩු වැනි දෙයක් නොව.
+- **වෙන් වූ වර්ණ ප්‍රදේශ.** රතු ගොඩනැගිල්ලක්, නිල් බෝට්ටුවක් සහ කොළ පිටියක් අහසකට වඩා පහසුය, එය ප්‍රහේලිකාවේ අඩක් පුරවයි.
+- **හුරු සහ පෞද්ගලික.** ඔවුන් ජීවත් වූ ස්ථානයක හෝ ඔවුන් ආදරය කළ විනෝදයක පින්තූරය කථා කිරීමට බොහෝ දේ ලබා දෙයි. සමහර මුද්‍රණ සල්ලාල් පවුල් ඡායාරූපයක් ජිග්සෝ බවට හරවා දිය හැක.
 
-## How do you do a puzzle together?
+## ප්‍රහේලිකාවක් එකට කරන්නේ කෙසේද?
 
-Set it up so the person can get straight to the enjoyable part.
+පුද්ගලයාට රසවිඳින කොටසට කෙලින්ම යා හැකි ලෙස සකස් කරන්න.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **හොඳ ස්ථානයක් තෝරන්න.** හොඳ ආලෝකය, අත්වැලක් සහිත පුටුවක්, සහ ප්‍රහේලිකාව තබා ගත හැකි මේසයක් හෝ තට්ටුවක්.
+2. **පෙට්ටියේ ආවරණය ඔසවා** ඔබ දෙදෙනාටම දැකිය හැකි තැනක තබන්න.
+3. **කොටස් ඉහළට මුහුණලා හරවන්න** ආරම්භ කිරීමට පෙර.
+4. **දාර කොටස් වර්ග කරන්න** ඔබම, නැතහොත් මුලින්ම දාරය කර, මැද කොටස ඔවුන්ට ඉතිරි කරන්න.
+5. **කොටස් වර්ණය අනුව** කිහිප තට්ටු හෝ තහඩුවකට කණ්ඩායම් කරන්න.
+6. **එක වරකට එක් කොටසක් අතින් දෙන්න** ගොඩ අධික ලෙස බරක් නම්. “මට හිතෙන්නේ මේක ගොඩනැගිල්ලේ කොටසක්.”
+7. **පින්තූරය ගැන කතා කරන්න,** ප්‍රගතිය ගැන නොව. “ඒ මගේ තාත්තාට තිබුණු බෝට්ටුව වගේ.”
+8. **එය ඉතිරි කරන්න.** දින කිහිපයක් තුළ නැවත එයට පැමිණෙන්න. කිසිම හදිසියක් නැත.
+9. **හොඳ ස්ථානයක නවතන්න,** කොටසක් ඇතුළත් වූ පසු, එය තවමත් සුවපහසු ලෙස දැනෙන විට.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ආරම්භ කිරීමට උදව් කිරීමට, කලකිරීම නිරීක්ෂණය කිරීමට සහ ඔවුන් රසවිඳින්නේ නම් බලා සිටීමට ඉඩ දෙන ලෙස උපදෙස් දෙයි. ඔබ කොටස් දැමීම බලා සිටීම සහ ඒවා කොහේ යා හැකිදැයි පෙන්වීම, තවමත් සහභාගී වීමකි.
 
-## Easy online puzzles
+## පහසු ඔන්ලයින් ප්‍රහේලිකා
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+ටැබ්ලට් ප්‍රහේලිකාවට සැබෑ වාසි ඇත: නැති වන කොටස් නැත, තිරය පුරවන විශාල පින්තූර, සහ මේසය පැසසීමට අවශ්‍ය නැත.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+අපේ නොමිලේ [Picture puzzle](/games/picture-puzzle/) පින්තූරයක් කොටස් 4ක් හෝ 9ක් බවට කපයි. පින්තූරය සම්පූර්ණ වන තෙක් කොටස් හුවමාරු කිරීමට දෙවරක් තට්ටු කරන්න. සම්පූර්ණ පින්තූරය මාර්ගෝපදේශයක් ලෙස තිරය මත පවතින අතර, කාල මානකයක් නැත, සහ ඕනෑම අවස්ථාවක නැවතිය හැක. කොටස් හතර, පැත්තේ උදව්කරුවෙකු සමඟ, මධ්‍ය අවධියේ බොහෝ දෙනාට ගැලපේ.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+තවත් සරල පින්තූර ක්‍රීඩාවක් සඳහා, [Find the same](/games/find-the-same/) උත්සාහ කරන්න, එහිදී ඔබ ඉහළ ඇති පින්තූරයට සමාන පින්තූරය තට්ටු කරයි, හෝ [Sort together](/games/sort-together/), එහිදී පින්තූර කූඩ වලට යයි, උදාහරණයක් ලෙස මුළුතැන්ගෙය හෝ ගෙවත්ත.
 
-## Word puzzles: word searches and crosswords
+## වචන ප්‍රහේලිකා: වචන සෙවීම් සහ ක්‍රොස්වර්ඩ්
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+වචන ප්‍රහේලිකා සාමාන්‍යයෙන් මීට පෙර, ඩිමෙන්ශියාවේ මුල් කොටසේදී, ඒවා සැමවිටම රසවිඳි අයට ගැලපේ.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **විශාල අකුරු වචන සෙවීම.** අපේ නොමිලේ [වචන සෙවීම](/games/word-search/) විශාල අකුරු භාවිත කර, එක් දිශාවට සහ පහළට පමණක් ධාවනය වන, කිහිපයක් පමණක් වචන සහිතව. එය තිරය මත ක්‍රීඩා කරන්න හෝ මුද්‍රණය කරන්න.
+- **ලැයිස්තුව හඬ නගා කියවන්න.** එක් අයෙක් වචනයක් කියවයි, අනෙකා එය සොයයි. පළමු අකුර පමණක් කව කිරීමද හොඳය.
+- **පොත්වලින් විශාල අකුරු ක්‍රොස්වර්ඩ්.** මුල් අවධියේදී ප්‍රහේලිකා පොත්වලින් විශාල අකුරු ක්‍රොස්වර්ඩ් වැඩ කළ හැක. ඉඟි හඬ නගා කියවන්න, පෑන බෙදා ගන්න, සහ පිළිතුරු එකට පුරවන්න. සරල, තේමා සහිත ක්‍රොස්වර්ඩ් ගූඪ ඒවාට වඩා හොඳය.
+- **වචන ගැන කතා කරන්න.** “උද්‍යානය” කීම ගෙවත්තේ තක්කාළි ගැන මිනිත්තු දහයක සංවාදයකට යොමු විය හැක.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+කඩදාසි ක්‍රියාකාරකම් වැඩි වශයෙන් සහ ඒවා පහසුවෙන් බැලීමට හා අතින් ගැනීමට ඒවා මුද්‍රණය කරන ආකාරය සඳහා, [නොමිලේ මුද්‍රණය කළ හැකි ඩිමෙන්ශියා ක්‍රියාකාරකම්](/activities/printable/) බලන්න.
 
-## Which puzzles suit each stage?
+## සෑම අවධියකටම ගැලපෙන ප්‍රහේලිකා මොනවාද?
 
-Stages overlap, and good and hard days are normal.
+අවධි එකිනෙක අතිච්ඡාදනය වන අතර, හොඳ සහ දුෂ්කර දින සාමාන්‍ය ය.
 
-| Stage | Puzzles that often fit | Your role |
+| අවධිය | බොහෝ විට ගැලපෙන ප්‍රහේලිකා | ඔබේ කාර්යභාරය |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| මුල් | කලට වඩා අඩු කොටස් සහිත හුරු ජිග්සෝ, විශාල අකුරු ක්‍රොස්වර්ඩ් සහ වචන සෙවීම්, කොටස් 9ක ඔන්ලයින් ප්‍රහේලිකා | හවුල්කරු: ඔවුන්ට තෝරා ගැනීමට ඉඩ දෙන්න, ඉල්ලන විට උදව් කරන්න |
+| මධ්‍ය | විශාල කොටස් දොළහක් පමණ සහිත ජිග්සෝ, කොටස් 4ක ඔන්ලයින් ප්‍රහේලිකා, එකට කියවන වචන සෙවීම | සකස් කරන්න, කොටස් වර්ග කරන්න, එක වරකට එකක් දෙන්න |
+| ප්‍රමාද | අවසන් කළ පින්තූරය එකට බැලීම, පින්තූර දෙකක් සමඟ Find the same, විශාල කොටස් කිහිපයක් හැසිරවීම | ඔවුන් වෙත ගෙන එන්න; ඔබේ සහවාසය ක්‍රියාකාරකමයි |
 
-## When should you make a puzzle easier, or stop?
+## ප්‍රහේලිකාව පහසු කරන්න, නැතහොත් නවතන්න කවදාද?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+හුස්ම හෙළීම, කොටස් ඔවුන්ගෙන් ඈත් කිරීම, නැවත නැවත “මට බැහැ” කීම, හෝ කනස්සල්ලට පත් බැලීම් වලට නිරීක්ෂණය කරන්න. ඒවා තල්ලු කිරීමට නොව, යමක් වෙනස් කිරීමට ඇති සලකුණු වේ.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **එය කුඩා කරන්න.** අඩු කොටස්, හෝ ඔවුන්ට අවසාන කිහිපයක් පමණක් තබන්න.
+- **වැඩි වශයෙන් ඔබ ම කරන්න** සහ පහසු කොටස්වලට උදව් කරන ලෙස ඔවුන්ට ආරාධනා කරන්න.
+- **ආසන්න යමකට මාරු වන්න:** වර්ණය අනුව කොටස් වර්ග කිරීම, 4ක ඔන්ලයින් ප්‍රහේලිකාවක්, හෝ [වර්ණ තීන්ත](/games/coloring/).
+- **නවතන්න.** එය පසෙකින් තබා තේ කෝප්පයක් ගන්න. ඔබට වෙනත් දිනක නැවත පැමිණිය හැක, හෝ කිසි විටෙක නොපැමිණිය හැක.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+ප්‍රහේලිකා දුෂ්කර දේවල් පිළිබඳ මතකයක් බවට පත් වන්නේ නම්, ඒවා අත්හැරීම ठीक නොවේ, — (no)
+
