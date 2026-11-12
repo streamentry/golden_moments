@@ -1,7 +1,7 @@
 ---
 title: "Michezo ya Kumaliza Methali kwa Wazee Wenye Shida ya Akili"
 seoTitle: "Michezo ya Kumaliza Methali kwa Wazee wenye Shida ya Akili"
-description: "Michezo ya kumaliza methali kwa wazee wenye shida ya akili: cheza na methali zinazojulikana, toa chaguzi, epuka mtihani, na geuza jibu lililokosekana kuwa mazungumzo."
+description: "Michezo ya kumaliza methali kwa wazee wenye shida ya akili: cheza na methali zinazojulikana, toa chaguzi, epuka mtihani na geuza jibu kuwa mazungumzo."
 section: activities
 order: 23
 updated: 2026-11-08

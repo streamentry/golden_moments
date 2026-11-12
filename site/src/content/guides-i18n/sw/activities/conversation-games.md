@@ -1,13 +1,13 @@
 ---
 title: "Michezo ya Maswali na Mazungumzo kwa Watu Wenye Shida ya Akili"
-seoTitle: "Michezo 20 ya Maswali na Mazungumzo kwa Shida ya Akili"
-description: "Maswali 20 na michezo mingine ya mazungumzo kwa watu wenye shida ya akili, ambapo mtu ndiye mtaalamu: bila alama, bila saa na bila maswali ya mtihani."
+seoTitle: "Michezo ya Maswali Ishirini na Mazungumzo kwa Shida ya Akili"
+description: "Maswali ishirini na michezo mingine ya mazungumzo kwa watu wenye shida ya akili, ambapo mtu ndiye mtaalamu: bila alama, bila saa na bila maswali ya mtihani."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Maswali 20 yanaweza kuwa mchezo mpole wa kijamii mtu anapokuwa ndiye anayejua jibu. Yeye anafikiria kitu, wewe unauliza maswali ya ndiyo au hapana, na hakuna anayepimwa. Michezo mingine ya mazungumzo, kama 'Hiki au kile?' na 'Ungechagua nini?', inafanya kazi kwa njia hiyo hiyo: inaalika maoni na hadithi badala ya ukweli. Weka raundi fupi, mruhusu mtu aruke, na usihesabu makisio.
+  Maswali ishirini yanaweza kuwa mchezo mpole wa kijamii mtu anapokuwa ndiye anayejua jibu. Yeye anafikiria kitu, wewe unauliza maswali ya ndiyo au hapana, na hakuna anayepimwa. Michezo mingine ya mazungumzo, kama 'Hiki au kile?' na 'Ungechagua nini?', inafanya kazi kwa njia hiyo hiyo: inaalika maoni na hadithi badala ya ukweli. Weka raundi fupi, mruhusu mtu aruke, na usihesabu makisio.
 keyPoints:
   - "Mruhusu mtu afikirie kitu, awe mtaalamu. Wewe unauliza maswali, na yeye anajibu ndiyo au hapana."
   - "Mruhusu kupita, kidokezo au ishara. Usiweke alama wala kuhesabu maswali yalichukua mangapi."
@@ -15,9 +15,9 @@ keyPoints:
   - "Maswali ya maoni, kama 'Ungependelea...?' au 'Unapenda kipi zaidi?', hayana majibu yasiyo sahihi."
   - "Maliza mtu anapopoteza hamu. Raundi mbili au tatu zinatosha."
 faq:
-  - q: "Je, maswali 20 yanafaa kwa watu wenye shida ya akili?"
+  - q: "Je, maswali ishirini yanafaa kwa watu wenye shida ya akili?"
     a: "Yanaweza kufaa, mtu anapokuwa ndiye anayefikiria jibu na hakuna anayepimwa. Yakichezwa kama mtihani, ambapo mlezi anakisia ukweli ambao mtu lazima akumbuke, yanaweza kuonekana kama mtihani. Weka kanuni wazi na za upole."
-  - q: "Mtu anaweza kufikiria nini katika maswali 20?"
+  - q: "Mtu anaweza kufikiria nini katika maswali ishirini?"
     a: "Vitu rahisi na vinavyojulikana ndivyo bora: tunda, mnyama, chombo, aina ya ua, samani, au mahali anapolijua vizuri. Epuka mawazo yasiyoonekana, majina ya watu, na chochote kinachoweza kuleta huzuni."
   - q: "Itakuwaje mtu asipoweza kujibu ndiyo au hapana?"
     a: "Tumia ishara, kidole gumba juu au chini, au elekeza kwenye kadi ya picha. Unaweza pia kukisia kwa sauti na kumruhusu ajibu kwa kutikisa kichwa, tabasamu au neno."
@@ -41,7 +41,7 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Familia nyingi zinataka mchezo wa kucheza pamoja unaohisi kama mazungumzo, si mtihani. Michezo ya kukisia kama maswali 20 inaweza kufanya kazi vizuri, kwa sababu kanuni zake ni rahisi na mazungumzo yanaweza kwenda popote. Jambo muhimu ni kubadilisha majukumu ya kawaida: mtu anafikiria jibu, na wewe unauliza. Ukurasa huu unaeleza jinsi ya kuendesha michezo hii kwa upole, na ni michezo gani ya mazungumzo inawafaa watu wenye shida ya akili.
+Familia nyingi zinataka mchezo wa kucheza pamoja unaohisi kama mazungumzo, si mtihani. Michezo ya kukisia kama maswali ishirini yanaweza kufanya kazi vizuri, kwa sababu kanuni zake ni rahisi na mazungumzo yanaweza kwenda popote. Jambo muhimu ni kubadilisha majukumu ya kawaida: mtu anafikiria jibu, na wewe unauliza. Ukurasa huu unaeleza jinsi ya kuendesha michezo hii kwa upole, na ni michezo gani ya mazungumzo inawafaa watu wenye shida ya akili.
 
 ## Kwa nini ubadilishe kanuni za kawaida?
 
@@ -49,7 +49,7 @@ Katika mchezo wa kawaida wa maswali, mtu mmoja anauliza na mwingine lazima ajue.
 
 [Taasisi ya Taifa ya Uzee](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/communicating-someone-who-has-alzheimers) inawashauri walezi watumie sentensi fupi rahisi, swali moja kwa wakati, na sauti tulivu na yenye subira. Tabia hizo zinafaa sana kwenye michezo ya kukisia.
 
-## Jinsi ya kucheza maswali 20, kwa upole
+## Jinsi ya kucheza maswali ishirini, kwa upole
 
 1. **Chagua mada** kutoka maisha ya mtu, kama jikoni, bustani, wanyama au pwani.
 2. **Mruhusu afikirie kitu** na akitaje kwa sauti ya chini, au aonyeshe kadi ya picha ili usihitaji kukisikia.

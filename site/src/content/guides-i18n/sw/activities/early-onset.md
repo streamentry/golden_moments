@@ -78,7 +78,7 @@ Kwa mwongozo wa ratiba za kila siku na kubaki hai, angalia [ratiba ya siku yenye
 
 Wenzi na watoto wazima mara nyingi wanahisi wametengwa. Kumtunza mtu kunaweza kuhisi kama kazi ya pili juu ya kazi na familia. Chapisho la blogu ya Chama cha Alzheimer's linaeleza kwamba walezi katika vikundi vya umri mdogo waliona vikundi hivyo vinasaidia kwa masuala ya vitendo kama mipango ya kisheria, na kwa kuhisi wanaeleweka. Pia linasema kwamba Chama kinaendesha vikundi vya msaada kwa walezi bila malipo, ikiwemo vikundi kwa wanaowatunza watu wenye shida ya akili ya umri mdogo, na vikundi vitatu kati yake hukutana mtandaoni Jumanne na Jumatano.
 
-Ili kuuliza kuhusu vikundi, piga Huduma ya Simu ya Chama ya saa 24 kwa 800.272.3900. Mwongozo wetu wa [kujitunza kwa mlezi](/caregiving/caregiver-self-care/) unashughulikia kupumzika, kupata nafuu kwa muda na dalili za uchovu.
+Ili kuuliza kuhusu vikundi, piga Huduma ya Simu ya Chama inayopatikana 24/7 kwa 800.272.3900. Mwongozo wetu wa [kujitunza kwa mlezi](/caregiving/caregiver-self-care/) unashughulikia kupumzika, kupata nafuu kwa muda na dalili za uchovu.
 
 ## Hatua bado zina umuhimu
 
