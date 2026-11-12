@@ -1,7 +1,7 @@
 ---
 title: "Demenciával élő, egyedül lakó személy támogatása"
 seoTitle: "Egyedül élés demenciával: támogatás a családoknak"
-description: "Támogassa a demenciával élő, egyedül lakó személyt állandó rutinokkal, egyeztetett rendszeres ellenőrzésekkel és gyakorlati segítséggel, a kívánságait és önállóságát tiszteletben tartva."
+description: "Támogassa egyedül lakó, demenciával élő személyt állandó rutinnal, egyeztetett ellenőrzésekkel és gyakorlati segítséggel, a kívánságait tiszteletben tartva."
 section: caregiving
 order: 12
 updated: 2026-11-11

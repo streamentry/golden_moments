@@ -1,7 +1,7 @@
 ---
 title: "Távolról végzett gondozás demenciával élő személynek"
 seoTitle: "Távolról végzett demencia-gondozás: hogyan segítsen"
-description: "Segítsen demenciával élő személynek távolról: egyezzenek meg a szerepekről, szervezze a helyi segítséget, tervezze meg a látogatásokat, és tartsa tiszteletben a személy kívánságait."
+description: "Segítsen demenciával élő személynek távolról: egyezzenek meg a szerepekben, szervezze a helyi segítséget, tervezze a látogatásokat, és tartsa tiszteletben a kívánságait."
 section: caregiving
 order: 38
 updated: 2026-11-11
