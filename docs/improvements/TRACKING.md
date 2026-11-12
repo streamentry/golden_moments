@@ -1,11 +1,11 @@
-Warning: truncated output (original token count: 32178)
-Total output lines: 574
+Warning: truncated output (original token count: 32775)
+Total output lines: 587
 
 # 100 Big Improvements Tracker
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 84 / 100 completed**
+**Progress: 85 / 100 completed**
 
 ---
 
@@ -66,8 +66,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 85 | *Next in queue* | Pending |
-| 86–100 | Planned one by one | Pending |
+| 86 | *Next in queue* | Pending |
+| 87–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -175,24 +175,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | Check | Evidence | Result |
 |---|---|---|
-| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatme…2178 tokens truncated… The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim usability or professional review. |
-
-## Round 53: Japanese Photo Pairs copy for one-photo viewing
-
-| Check | Evidence | Result |
-|---|---|---|
-| Source fit | The Alzheimer's Association says communication can change, including trouble finding familiar words or returning to a native language. It also describes photos as a way to share reminiscence, with connection rather than testing as the goal. | Localizing the existing viewing controls is a comprehension and dignity inference, not a clinical benefit. |
-| Gap and change | Photo Pairs now permits one-photo viewing, but Japanese copy still required two photos. The Japanese dictionary also lacked the view-only, caption, comfort and setup strings, so those showed in English. | Updated the complete Japanese Photo Pairs copy to match one-photo viewing, optional matching and page-only captions. Other locales keep their current English fallback. |
-| Translation | Added Japanese text for current Photo Pairs strings, retaining all placeholders and one bold run in the intro. | Machine-made, not reviewed by a native speaker. |
-| Tests | `PhotoPairs.test.ts`: Japanese one-photo wording and controls checked. `pnpm --dir site verify`: 1,865 tests, 12,492 pages, `check-site` 0 errors and 536 warnings. TypeScript, Python suite (106), release metadata and `git diff --check` pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; build reports a large-chunk warning. |
-| Not verified | No native-speaker, caregiver/participant, browser or device review. The Playwright wrapper is blocked by the local `npx` package-age guard; no browser CLI is installed. | Open; do not claim Japanese usability validation. |
-
-## Round 54: practical travel planning with dementia
-
-| Check | Evidence | Result |
-|---|---|---|
-| Source fit | The Alzheimer's Association says travel can remain meaningful with planning for safety, comfort and enjoyment; it recommends familiar destinations, a simple plan, rest and a backup. Dementia Australia asks readers to consider whether the trip fits the person's wishes and support needs, and to plan together. | A travel guide can help caregivers plan without promising that travel is suitable for everyone. |
-| Existing coverage and gap | The holiday guide covers celebrations, and the early-stage activities guide mentions short outings. Neither helps a caregiver prepare for a longer trip, transport assistance, medication lists or a return plan. | Added the site's 50th English guide with a decision checklist, simple itinerary, essentials, provider assistance and permission to shorten or stop. |
+| Source fit | Dementia Australia lists familiar songs and music among activities tied to personal interests. The Alzheimer's Association advises choosing music the person enjoys, letting them choose when possible, keeping volume comfortable and reducing competing noise. | The sources support music as an activity choice; the interface change is a usability inference, not a treatme…2775 tokens truncated… celebrations, and the early-stage activities guide mentions short outings. Neither helps a caregiver prepare for a longer trip, transport assistance, medication lists or a return plan. | Added the site's 50th English guide with a decision checklist, simple itinerary, essentials, provider assistance and permission to shorten or stop. |
 | Boundaries | The guide does not make medical clearance, insurance or transportation-policy decisions. It tells readers to check current rules with providers and ask a health professional about medical or medication questions. | Advice is general; provider procedures and local requirements vary. |
 | Checks | `pnpm --dir site verify`: 1,865 tests, 12,493 pages, `check-site` 0 errors and 536 warnings. `pnpm --dir site exec tsc --noEmit`: pass. Python suite: 106 pass. `python3 scripts/release_metadata.py --check`: pass. `git diff --check`: pass. | Automated checks pass. Node 22.14.0 is below the declared >=22.22.0 floor; the build reports a large-chunk warning. |
 | Render inspection | The built `/caregiving/traveling-with-dementia/` route and caregiving hub link contain the new guide. | Static output checked; no live browser run. |
@@ -529,3 +512,16 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 | Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,518 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
 | Render inspection | Built route `/caregiving/hallucinations-with-dementia/` contains the guide title and response steps; built `/caregiving/` hub links to it; the related suspicion guide links to it. | Static output checked; no live-browser run. |
 | Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim user or clinical validation. |
+
+## Round 85: respond safely when anger becomes aggression (read 2026-11-11)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Association describes physical discomfort, the environment and communication as possible contributors, recommends calm words and reduced distractions, and calls for a medical check when behavior changes suddenly. Alzheimer's Society advises stepping back, avoiding restraint and sudden touch, leaving if physical violence occurs, and not blaming or punishing afterward. | Supports immediate safety, person-centered response and medical follow-up without assuming intent or cause. |
+| Existing coverage and gap | The activity-refusal, communication, pain and late-day-restlessness guides mention frustration or aggression in context. None gives one place for immediate safety steps, what to do after an episode and when to seek help. | Added the site's 76th English caregiving guide and links from the refusal and late-day guides. |
+| Change | Added calm, brief steps; space and stopping a task; possible needs and triggers; private factual notes; and follow-up for sudden or worsening changes. | Does not diagnose the cause, recommend restraint or advise medicine changes. |
+| Safety boundary | Move people to safety and use local emergency services for immediate danger or injury. Contact a clinician about new, sudden or worsening aggression. | General information only; no diagnosis or personalized safety plan. |
+| Implementation commit | `7f5d727991e4ab0b669cdb7c64661daeec1b8dd9` | Source state for the checks recorded below. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify` passed 1,869 tests, built 12,519 pages and reported 0 checker errors with 535 warnings. `pnpm --dir site exec tsc --noEmit`, `python3 -m unittest discover -s tests -p 'test_*.py' -v` (106 tests), `python3 scripts/release_metadata.py --check` and `git diff --check` passed. | Local checks pass; 535 existing content warnings remain. Hosted CI is pending. |
+| Render inspection | Built route `/caregiving/when-anger-becomes-aggression-with-dementia/`, caregiving hub, refusal guide and late-day guide contain the new page and cross-links. | Static output checked; no live-browser run. |
+| Not verified | No person with dementia, family caregiver, clinician, native-speaker or live-browser review. | Open; do not claim personal or professional validation. |

@@ -389,3 +389,12 @@ Application: the site mentioned finances in after-diagnosis and care-choice guid
 - [NIA: Alzheimer's Caregiving: Coping With Hallucinations, Delusions, and Paranoia](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-coping-hallucinations?topics=33&types=BSC.Blog) — search result seen, but opening returned HTTP 405; not used.
 
 Application: the site has guidance on sundowning, suspicion, non-recognition and urgent confusion, but no page focused on what to do when someone sees or hears things others do not. The new page distinguishes a person's experience from a diagnosis, offers low-risk environmental checks and points sudden confusion and multi-sensory hallucinations to urgent care.
+
+## Round 85: anger and aggression in dementia (read 2026-11-11)
+
+- [Alzheimer's Association: Aggression and Anger](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) — opened. It describes physical discomfort, environment and communication as possible contributors; recommends calm reassurance, attention to immediate triggers, fewer distractions, a medical check for sudden changes and safety support in emergencies.
+- [Alzheimer's Society: Preventing and managing aggressive behaviour in people with dementia](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) — opened. It advises stepping back, giving space, avoiding restraint and sudden touch, stopping a task when possible, seeking help if physical violence occurs, and not blaming or punishing afterward.
+- [Alzheimer's Association: Anxiety and Agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) — opened. It advises asking permission, simplifying tasks, reducing stimulation, avoiding cornering, crowding or restraint, and seeking a medical review for sudden behavior changes.
+- [National Institute on Aging: Coping with agitation, aggression, and sundowning](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) — search result seen; opening returned HTTP 405; not used.
+
+Application: the site mentioned frustration, pain and aggression inside activity-refusal, communication, pain and late-day guidance, but had no focused response page. The new guide offers immediate safety steps, calm de-escalation, private observation notes and escalation boundaries without diagnosing intent or cause.
