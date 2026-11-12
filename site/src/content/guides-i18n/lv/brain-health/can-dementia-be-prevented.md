@@ -79,7 +79,7 @@ Viena cerību zīme: 2024. gada Lancet komisija norādīja, ka dažās augsta ie
 
 Lancet komisija par demences novēršanu, ārstēšanu un aprūpi ir 27 demences pētnieku grupa, kas pārskata pierādījumus ik pa dažiem gadiem. Viņu 2024. gada ziņojumā nosaukti **14 riska faktori**, ko potenciāli var mainīt, un lēsts, ka kopā tie veido **gandrīz pusi (aptuveni 45%) demences gadījumu pasaulē**. Autori norāda, ka šos gadījumus *teorētiski* varētu novērst vai aizkavēt, ja riski tiktu novērsti ([2024. gada Lancet komisijas ziņojums](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-Četrpadsmit faktori, grupēti pēc dzīves posma, kurā pierādījumi ir visspēcīgākie:
+14 faktori, grupēti pēc dzīves posma, kurā pierādījumi ir visspēcīgākie:
 
 - **Agrīna dzīve:** mazāka izglītība.
 - **Vidējais vecums (aptuveni no 40 līdz 65 gadiem):** dzirdes zudums, augsts LDL ("sliktais") holesterīns, depresija, galvas trauma, fiziska neaktivitāte, diabēts, smēķēšana, augsts asinsspiediens, aptaukošanās un liels alkohola patēriņš.
