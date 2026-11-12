@@ -59,7 +59,7 @@ Se la homo bezonas helpon kun medikamentoj, moviĝo, manĝado aŭ persona prizor
 
 ## Kion mi povas observi dum vizito?
 
-Aranĝu vizitон kaj, se la homo volas, alkunprenu ties. Rimarku, ĉu la personaro parolas respekte, donas al partoprenantoj tempon respondi kaj invitas homojn partopreni sen premo. Serĉu aktivecojn, kiuj kongruas kun la interesoj kaj kapabloj de la homo, ne nur okupatan kalendaron.
+Aranĝu viziton kaj, se la homo volas, alkunprenu ties. Rimarku, ĉu la personaro parolas respekte, donas al partoprenantoj tempon respondi kaj invitas homojn partopreni sen premo. Serĉu aktivecojn, kiuj kongruas kun la interesoj kaj kapabloj de la homo, ne nur okupatan kalendaron.
 
 Demandu, kiel la centro lernas pri la preferoj de ĉiu homo kaj kiel ĝi respondas, se iu lacas, zorgas aŭ volas foriri. Eltrovu, kion la centro faras en krizo, kiel familianoj ricevas ĝisdatigojn kaj kiun kontakti pro zorgo.
 
@@ -67,7 +67,7 @@ Se eblas, vizitu dum aktiveco aŭ manĝo. Rimarku, ĉu la spaco komfortas al la 
 
 ## Kiajn praktikajn detalojn mi devus kontroli?
 
-Demandu pri horoj, tagoj, kotizoj, minimuma ĉeesto, nuligreguloj kaj ĉiuj krompagoj. Demandu, kiajn manĝojn aŭ bombonojn oni inkluzivas kaj ĉu specialan dieton eblas subteni. Kostoj kaj servoj varias laŭ loko, do petu la centron klarigi siajn skribitajn kondiĉojn.
+Demandu pri horoj, tagoj, kotizoj, minimuma ĉeesto, nuligreguloj kaj ĉiuj krompagoj. Demandu, kiajn manĝojn aŭ manĝetojn oni inkluzivas kaj ĉu specialan dieton eblas subteni. Kostoj kaj servoj varias laŭ loko, do petu la centron klarigi siajn skribitajn kondiĉojn.
 
 Eltrovu, ĉu transporto haveblas, kiom ĝi kostas kaj ĉu ĝi taŭgas al la homo. Demandu pri tempoj de forpreno, helpo por eniri kaj eliri veturilon kaj kio okazas, se la ŝoforo malfruiĝas. Se familiano veturigos, inkluzivu tiun tempon kaj koston en via plano.
 

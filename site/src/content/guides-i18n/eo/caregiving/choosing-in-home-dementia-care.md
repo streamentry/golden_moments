@@ -75,7 +75,7 @@ Se eblas, konsentu pri mallonga unua vizito kaj reviziu ĝin kune kun la homo. P
 
 Dividu nur detalojn, kiuj helpas la provizanton subteni la homon sekure kaj respekte. Kun la konsento de la homo, klarigu, kiel ties preferas esti nomata, kiuj rutinoj gravas, kio helpas al ties komuniki kaj kion ties volas fari mem.
 
-Se sanaj instrukcioj влияют al la tasko, demandu la kuraciston de la homo, kion la provizanto bezonas scii. Ne petu neliciencitan laboranton fari medicinajn taskojn ekster ties trejnado aŭ rolo. Gardu personajn informojn privataj kaj kontrolu, kiu povas aliri ajnajn skribitajn notojn aŭ prizorgajn rekordojn.
+Se sanaj instrukcioj influas al la tasko, demandu la kuraciston de la homo, kion la provizanto bezonas scii. Ne petu nelicencitan laboranton fari medicinajn taskojn ekster ties trejnado aŭ rolo. Gardu personajn informojn privataj kaj kontrolu, kiu povas aliri ajnajn skribitajn notojn aŭ prizorgajn rekordojn.
 
 La [gvidilo pri preparado de kuracistaj vizitoj](/caregiving/doctor-visit-with-dementia/) povas helpi organizi demandojn por sanprofesiulo. La [hejma sekureco-gvidilo](/caregiving/home-safety/) kovras hejmajn ŝanĝojn kaj kiam demandi kompetentan profesiulon.
 

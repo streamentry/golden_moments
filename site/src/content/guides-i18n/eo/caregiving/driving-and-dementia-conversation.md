@@ -59,13 +59,13 @@ Inkluzivu la homon en elektoj pri estonta vojaĝado, dum ties volas partopreni. 
 
 Parolu pri specifa okazaĵo prefere ol fari larĝan juĝon. Ekzemple, priskribu, ke la homo perdiĝis sur konata vojo, preterpasis stopsignon aŭ ke aŭto havis freŝan frotmarkon. Diru, kion vi vidis, kaj demandu, kion la homo memoras aŭ sentis. Evitu nomi ties malbona ŝoforo aŭ testi ties memoron per demandoj.
 
-Aŭskultu la vidpunkton de la homo. Ties eble rimarkis konfuzon, blindon pro brilo, laciĝon aŭ alian malfacilon ankaŭ. Aŭ ties eble malkonsentas kun via zorgo. Ne traktu unu interparolon kiel pruvon, ke la homo komprenas aŭ ne komprenas la riskon. Konservu respektan tonon kaj revenu al la temo poste, se unu el vi maltrankviliĝis.
+Aŭskultu la vidpunkton de la homo. Ties eble rimarkis konfuzon, malfacilon vidi pro brilo, laciĝon aŭ alian malfacilon ankaŭ. Aŭ ties eble malkonsentas kun via zorgo. Ne traktu unu interparolon kiel pruvon, ke la homo komprenas aŭ ne komprenas la riskon. Konservu respektan tonon kaj revenu al la temo poste, se unu el vi maltrankviliĝis.
 
 Dementia Australia sugestas mallongajn, ripetitajn interparolojn kaj centrigon sur la fortoj de la homo kaj pozitivaj vojaĝaj opcioj. Ĝi ankaŭ avertas, ke sekrete kaŝi ŝlosilojn aŭ malfunkciigi aŭton povas senti sin malamika dum frua planado. Se estas serioza tuja sekureca zorgo, faru paŝojn por eviti la sekvan riskan vojaĝon kaj serĉu rapidan profesian gvidon.
 
 ## Kiajn informojn povas helpi profesian diskuton?
 
-Skribu konkretajn okazaĵojn kaj kiam ili okazis. Ekzemploj povus esti konfuziĝo ĉe kruciĝo, perdo de la vojo al konata loko, nenotado de signoj aŭ nova difekto en la aŭto. Inkluzivu, kion la homo diris pri la vojaĝo kaj ajnajn sanajn aŭ medikamentajn ŝanĝojn, kiujn ties volas diskuti.
+Skribu konkretajn okazaĵojn kaj kiam ili okazis. Ekzemploj povus esti konfuziĝo ĉe kruciĝo, perdo de la vojo al konata loko, ne rimarkado de signoj aŭ nova difekto en la aŭto. Inkluzivu, kion la homo diris pri la vojaĝo kaj ajnajn sanajn aŭ medikamentajn ŝanĝojn, kiujn ties volas diskuti.
 
 Konservu notojn fakajn kaj privatajn. Ne sekrete registru, sekvu aŭ testu la homon. Se la homo konsentas, familiano, kiu estis en la aŭto, povas dividi tion, kion li aŭ ŝi observis. Klara priskribo donas al la kuracisto aŭ specialisto ion specifan por diskuti; ĝi ne diagnozas la kaŭzon nek determinas veturkapablon.
 

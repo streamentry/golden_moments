@@ -81,7 +81,7 @@ Antaŭ ol foriri, kontrolu, ĉu sekva vizito aŭ testo devas esti planita, kaj k
 
 ## Kion fari, se la homo subite konfuziĝas?
 
-Ne atendu rutinan vizitон, se la homo subite konfuziĝas. La [NHS konsilas akiri tujan kuracan helpon](https://www.nhs.uk/symptoms/confusion/), ĉar subita konfuzo povas havi kialojn, kiuj bezonas urĝan atenton. Uzu lokajn krizajn servojn aŭ sekvu la urĝan kuracan procedon tie, kie vi loĝas.
+Ne atendu rutinan viziton, se la homo subite konfuziĝas. La [NHS konsilas akiri tujan kuracan helpon](https://www.nhs.uk/symptoms/confusion/), ĉar subita konfuzo povas havi kialojn, kiuj bezonas urĝan atenton. Uzu lokajn krizajn servojn aŭ sekvu la urĝan kuracan procedon tie, kie vi loĝas.
 
 Malrapida ŝanĝo ankaŭ povas esti indas diskuti kun kuracisto, sed ĝi diferencas de subita konfuzo. Se vi ne certas, ĉu ŝanĝo estas urĝa, kontaktu kompetentan kuracan servon por gvidado, prefere ol provi diagnozi ĝin mem.
 

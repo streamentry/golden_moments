@@ -1,7 +1,7 @@
 ---
 title: "Helpi homon kun demenco trinki sufiĉe"
 seoTitle: "Demenco kaj trinkado: konsiloj"
-description: "Helpu homon kun demenco trinki sufiĉe per oferto de preferataj trinkaĵoj dum la tago. Demandu kuraciston pri likvaĵbezonoj kaj novaj gluttaj problemoj."
+description: "Helpu homon kun demenco trinki sufiĉe per oferto de preferataj trinkaĵoj dum la tago. Demandu kuraciston pri likvaĵbezonoj kaj novaj glutadaj problemoj."
 section: caregiving
 order: 23
 updated: 2026-11-11
@@ -15,13 +15,13 @@ keyPoints:
   - "Faru preferatan trinkaĵon facile videbla kaj atingebla."
   - "Proponu trinkaĵojn dum konataj rutinoj, sen premo."
   - "Ne limigu likvaĵojn por eviti nekontrolitajn eventojn, krom se sanprofesiulo konsilis tion."
-  - "Demandu sanprofesiulon pri likvaĵbezonoj, timo pri deŝirado aŭ ŝanĝoj en glutado."
+  - "Demandu sanprofesiulon pri likvaĵbezonoj, malhidratiĝo aŭ ŝanĝoj en glutado."
 faq:
   - q: "Kiel mi povas instigi homon kun demenco trinki pli?"
     a: "Proponu trinkaĵon, kiun ties ŝatas, en konata, facile tenebla glaso. Metu ĝin ene de atingo kaj faru malgrandajn proponojn dum rutinoj kiel manĝoj aŭ ripozo. Respektu la elekton de la homo kaj demandu sanprofesiulon, se la trinkado restas zorgo."
   - q: "Ĉu mi devus limigi trinkaĵojn por redukti malsekiĝon?"
-    a: "Ne limigu likvaĵojn por eviti eventojn, krom se sanprofesiulo donis individuan planon. Tro malmulte da likvaĵo povas kaŭzi deŝiriĝon kaj aliajn problemojn. Demandu la kuraciston de la homo pri ties bezonoj."
-  - q: "Kiaj signoj povus signifi, ke iu estas deŝirita?"
+    a: "Ne limigu likvaĵojn por eviti eventojn, krom se sanprofesiulo donis individuan planon. Tro malmulte da likvaĵo povas kaŭzi malhidratiĝon kaj aliajn problemojn. Demandu la kuraciston de la homo pri ties bezonoj."
+  - q: "Kiaj signoj povus signifi, ke iu estas malhidratiĝinta?"
     a: "Seka buŝo, svingoj, nekutima laceco aŭ ŝanĝo en urinado povas esti signoj, sed ili povas havi aliajn kaŭzojn. Kontaktu sanprofesiulon, se vi zorgas, kaj serĉu tujan helpon pri subita konfuzo."
   - q: "Kion fari, se iu tusas aŭ sufokiĝas dum trinkado?"
     a: "Ĉesu kaj kontaktu sanprofesiulon por konsilo. Ne dikigu trinkaĵojn nek ŝanĝu ilian teksturon, krom se kompetenta profesiulo rekomendis tion por tiu homo."
@@ -62,21 +62,21 @@ Por eliro, alportu trinkaĵon, kiun la homo ŝatas, kaj proponu ĝin dum ripozo 
 
 ## Kiajn trinkaĵojn aŭ manĝaĵojn mi povas oferti?
 
-Komencu per trinkaĵoj, kiujn la homo ĝuas kaj povas trinki sekure. Akvo estas unu opcio; lakto, supo, glataĵoj aŭ aliaj konataj trinkaĵoj ankaŭ eble konvenas al ties preferoj kaj zorgplano. Iuj fruktoj kaj aliaj manĝaĵoj ankaŭ enhavas akvon. La [Alzheimer's Association listigas fruktojn, supon, lakt-glataĵojn kaj glataĵojn](https://www.alz.org/help-support/caregiving/daily-care/food-eating) inter opcioj kun alta akvoenhavo.
+Komencu per trinkaĵoj, kiujn la homo ĝuas kaj povas trinki sekure. Akvo estas unu opcio; lakto, supo, glataĵoj aŭ aliaj konataj trinkaĵoj ankaŭ eble konvenas al ties preferoj kaj zorgplano. Iuj fruktoj kaj aliaj manĝaĵoj ankaŭ enhavas akvon. La [Alzheimer's Association listigas fruktojn, supon, laktajn glataĵojn kaj glataĵojn](https://www.alz.org/help-support/caregiving/daily-care/food-eating) inter opcioj kun alta akvoenhavo.
 
 Ne necesas insisti pri unu trinkaĵo, se la homo ĝin rifuzas. Proponu alian konatan elekton aŭ provu poste. Demandu la kuraciston de la homo aŭ dietiston antaŭ ol ŝanĝi ties dieton aŭ trinkplanon, precipe se la homo jam havas medicinajn instrukciojn pri likvaĵoj.
 
 ## Ĉu mi devus limigi trinkaĵojn por redukti necesojn al la necesejo?
 
-Ne reduktu likvaĵojn por eviti eventojn, krom se sanprofesiulo donis individuan planon. La [Alzheimer's Association avertas](https://www.alz.org/help-support/caregiving/daily-care/incontinence), ke limigi likvaĵojn povas kaŭzi deŝiriĝon kaj aliajn problemojn. Homo, kiu bezonas helpon por trovi aŭ uzi la necesejon, eble profitas el alia speco de subteno. Nia [gvidilo pri kontinenco](/caregiving/toileting-and-incontinence-with-dementia/) kovras necesejajn rutinojn kaj privatecon.
+Ne reduktu likvaĵojn por eviti eventojn, krom se sanprofesiulo donis individuan planon. La [Alzheimer's Association avertas](https://www.alz.org/help-support/caregiving/daily-care/incontinence), ke limigi likvaĵojn povas kaŭzi malhidratiĝon kaj aliajn problemojn. Homo, kiu bezonas helpon por trovi aŭ uzi la necesejon, eble profitas el alia speco de subteno. Nia [gvidilo pri kontinenco](/caregiving/toileting-and-incontinence-with-dementia/) kovras necesejajn rutinojn kaj privatecon.
 
 Disvastigu proponojn dum la tago prefere ol peti la homon trinki multon samtempe. Sekvu ajnajn ekzistantajn medicinajn instrukciojn kaj demandu kuraciston, kiom taŭgas por la homo. Ne fidu je ĝenerala reta nombro; likvaĵbezonoj varias, kaj iuj homoj havas medicinan likvaĵplanon.
 
 ## Kiajn ŝanĝojn mi devus rimarki?
 
-Atentu, kio diferencas de la kutima ŝablono de la homo. Ties eble trinkas multe malpli ol kutime, lasas favoratan trinkaĵon netuŝita aŭ bezonas pli da helpo ol antaŭe. Seka buŝo, svingoj, nekutima laceco aŭ ŝanĝoj en urinado ankaŭ povas esti kialoj por kontroli kun sanprofesiulo. Tiuj signoj povas havi aliajn kaŭzojn, do ne diagnozu deŝiriĝon mem.
+Atentu, kio diferencas de la kutima ŝablono de la homo. Ties eble trinkas multe malpli ol kutime, lasas favoratan trinkaĵon netuŝita aŭ bezonas pli da helpo ol antaŭe. Seka buŝo, svingoj, nekutima laceco aŭ ŝanĝoj en urinado ankaŭ povas esti kialoj por kontroli kun sanprofesiulo. Tiuj signoj povas havi aliajn kaŭzojn, do ne diagnozu malhidratiĝon mem.
 
-Skribu, kion vi rimarkis kaj kiam. Inkludu, ĉu la homo estis malsana, en varma loko aŭ havis malfacilaĵojn teni aŭ glutadi trinkaĵon. La [Alzheimer's Association notas, ke signoj de deŝiriĝo povas esti malfacile rimarkeblaj ĉe homo kun demenco](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Se estas subita ŝanĝo aŭ vi zorgas, kontaktu kuraciston aŭ alian sanprofesiulon.
+Skribu, kion vi rimarkis kaj kiam. Inkludu, ĉu la homo estis malsana, en varma loko aŭ havis malfacilaĵojn teni aŭ glutadi trinkaĵon. La [Alzheimer's Association notas, ke signoj de malhidratiĝo povas esti malfacile rimarkeblaj ĉe homo kun demenco](https://www.alz.org/help-support/caregiving/safety/in-a-disaster). Se estas subita ŝanĝo aŭ vi zorgas, kontaktu kuraciston aŭ alian sanprofesiulon.
 
 ## Kion fari, se trinkado fariĝis malfacila?
 

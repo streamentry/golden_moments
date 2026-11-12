@@ -50,7 +50,7 @@ Antaŭ ol inviti ties en la banĉambron:
 - **Kolektu provizojn unue.** Metu tukojn, purajn vestaĵojn, sapon, ŝampuon kaj lavotukon en la ordo, kiun ili estos uzataj. Tiel vi ne lasos la homon sola dum vi serĉas aĵojn.
 - **Faru la ĉambron komforta.** Kontrolu, ĉu ĝi estas sufiĉe varma, lumigu la spacon, fermu la pordon aŭ kurtenojn kaj gardu la plankon kiel eble plej seka.
 - **Kontrolu la akvon.** Testu la temperaturon antaŭ ol la homo eniras la banon aŭ duŝon. Ne fidu je ties kapablo juĝi, ĉu la akvo estas tro varma.
-- **Preparu protektajn aĵojn pri privateco.** Granda tuko, mantelo aŭ bantuko povas helpi, ke la homo restu kovrita dum movado inter la paŝoj.
+- **Preparu protektajn aĵojn pri privateco.** Granda tuko, mantelo aŭ banotuko povas helpi, ke la homo restu kovrita dum movado inter la paŝoj.
 
 Nia [gvidilo pri hejma sekureco](/caregiving/home-safety/) havas pli pri lumo en la banĉambro, glitaj surfacoj kaj demandi kompetentan profesiulon pri tenilaj stangoj aŭ seĝo por duŝo.
 
