@@ -71,7 +71,7 @@ Qaror insonniki boʻlsin. "Bugun tushdan keyin nima qilishni xohlaysiz?" deb so�
 
 Inson yigirma, oʻttiz va qirq yoshidagi musiqa va suratlar iliq his-tuygʻular va oson suhbat uygʻotishi mumkin. [Musiqa mashgʻulotlari](/activities/music/) sahifasida pleylist tuzish haqida yozilgan, [xotira mashgʻulotlari](/activities/reminiscence/) esa suratlar va hikoyalarni soʻroq qilmasdan ulashish yoʻllarini koʻrsatadi. Kattaroq oʻyin uchun ish, sayohat, doʻstlar va oila haqidagi ochiq savollar bilan [suhbat kartalari](/games/conversation-cards/) dan foydalaning.
 
-Oila suratlaridan tuzilgan [juft suratlar](/games/photo-pairs/) ham yaxshi ishlashi mumkin, chunki rasmlarda inson uchun muhim odamlar va joylar boʻladi. [Juft suratlar](/games/photo-pairs/) suratlarni shu qurilmadagi brauzerda saqlaydi.
+Oila suratlaridan tuzilgan juft suratlar ham yaxshi ishlashi mumkin, chunki rasmlarda inson uchun muhim odamlar va joylar boʻladi. [Juft suratlar](/games/photo-pairs/) suratlarni shu qurilmadagi brauzerda saqlaydi.
 
 ## Ish, haydash va kundalik hayot
 

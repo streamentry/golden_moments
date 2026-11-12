@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Miegas ir smegenų sveikata: ką rodo tyrimai ir kas padeda"
+seoTitle: "Miegas ir demencija: ką rodo tyrimai"
+description: "Ką tyrimai sako apie miegą ir demencijos riziką, kodėl tyrimai apie smegenų „išvalymą“ dar ankstyvi ir praktiški miego įpročiai vyresnio amžiaus žmonėms bei jų globėjams."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Kai kurie ilgalaikiai tyrimai sieja trumpą vidutinio amžiaus miegą su didesne demencijos
+  rizika, o laboratoriniai tyrimai rodo, kad miegas gali padėti smegenims pašalinti atliekas.
+  Šie įrodymai dar ankstyvi, o 2024 m. Lancet komisija miegos nenurodė kaip keičiamo rizikos
+  veiksnio. Reguliarūs miego įpročiai padeda kasdienei savijautai. Miego sutrikimai demencijos
+  atveju yra dažni ir verti aptarimo su gydytoju.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Didžiosios Britanijos tyrimas, stebėjęs maždaug 8 000 žmonių 25 metus, susiejo vidutiniame amžiuje miegojimą šešias valandas ar trumpiau su didesne demencijos rizika."
+  - "Miego pokyčiai gali būti ir ankstyvas demencijos požymis, todėl sunku atskirti priežastį nuo pasekmės."
+  - "Tyrimai apie tai, kaip miegas šalina beta amiloidą iš smegenų, yra tikri, bet ankstyvi, ir didžioji dalis jų atlikta su pelėmis."
+  - "Miego apnėja yra dažna, gydoma ir tyrimuose siejama su demencija; garsus knarkimas ir dieninis mieguistumas verti patikrinimo."
+  - "Niekada nepradėkite, nenutraukite ir nekeiskite miego vaistų ar priemonių be gydytojo."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Ar prastas miegas sukelia Alzheimerio ligą?"
+    a: "Tai neįrodyta. Kai kurie tyrimai sieja trumpą miegą su didesne demencijos rizika, tačiau pati demencija sutrikdo miegą, dažnai daugelį metų prieš diagnozę. 2024 m. Lancet komisija įvertino, kad įrodymai per daug nenuoseklūs, kad miegą būtų galima įvardyti kaip keičiamą rizikos veiksnį."
+  - q: "Kiek miego reikia vyresnio amžiaus žmonėms?"
+    a: "Nacionalinis senėjimo institutas teigia, kad vyresnio amžiaus žmonėms reikia maždaug tiek pat, kiek kitiems suaugusiesiems, – 7–9 valandų per naktį. Daugelis vyresnių žmonių eina miegoti ir keliasi anksčiau nei anksčiau, ir tai yra įprasta."
+  - q: "Kodėl žmogus, sergantis demencija, miega dieną ir naktį būna pabudęs?"
+    a: "Demencija gali paveikti kūno laikrodį, todėl miego ir budėjimo laikas susimaišo. Vaidmenį gali atlikti ir skausmas, nuobodulys, alkis ar vaistų šalutinis poveikis. Padėti gali dienos šviesa, kasdienė veikla ir ramus vakaro ritualas. Gydytojas gali ieškoti priežasčių, kurias galima gydyti."
+  - q: "Ar turėčiau duoti miego priemonę žmogui, kurio priežiūrą vykdau?"
+    a: "Pirmiausia pasikalbėkite su jo gydytoju, įskaitant apie vaistinėse be recepto parduodamus preparatus. Nacionalinis senėjimo institutas pažymi, kad kai kurie miego vaistai gali padidinti svaigulio, kritimų ir sumišimo riziką žmonėms, sergantiems Alzheimerio liga."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,145 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Miegas ir smegenų sveikata yra aiškiai susiję, tačiau tai, kaip jie susiję, dar
+tyrinėjama. Kai kurie tyrimai sieja trumpą miegą su didesne demencijos rizika.
+Demencija savo ruožtu dažnai sutrikdo miegą. Šiame puslapyje aiškinama, ką tyrimai
+rodo ir ko neparodo, pateikiami praktiški miego įpročiai ir aptariami miego
+sutrikimai, dažnai pasitaikantys demencijos atveju. Čia nepateikiama patarimų dėl
+miego vaistų – šį klausimą reikia aptarti su gydytoju.
 
-## Is poor sleep linked with dementia?
+## Ar prastas miegas siejamas su demencija?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Kai kurie ilgalaikiai tyrimai sieja trumpą miegą su didesne demencijos rizika, tačiau
+įrodymai dar nėra galutiniai.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **25 metų trukmės tyrimas Jungtinėje Karalystėje.** Mokslininkai stebėjo maždaug
+  8 000 suaugusiųjų [Whitehall II tyrime](https://www.nature.com/articles/s41467-021-22354-2).
+  Žmonės, kurie 50 ar 60 metų miegojo šešias valandas ar trumpiau, vėliau turėjo
+  didesnę demencijos riziką nei tie, kurie miegojo septynias valandas. Žmonės, kurie
+  50, 60 ir 70 metų miegojo šešias valandas ar trumpiau, turėjo maždaug 30 % didesnę
+  riziką nei tie, kurie reguliariai miegojo septynias valandas. Tai buvo stebėjimo
+  tyrimas, todėl jis rodo ryšį, o ne priežastį.
+- **Lancet komisijos požiūris.** [2024 m. Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0)
+  neįtraukė miego į 14 keičiamų rizikos veiksnių sąrašą. Ji nusprendė, kad įrodymai
+  nėra pakankamai nuoseklūs. Viena priežastis – „atvirkštinis priežastingumas“:
+  demencijai būdingi smegenų pokyčiai prasideda metais prieš diagnozę ir gali sutrikdyti
+  miegą. Viename dideliame tyrime ryšys tarp ilgo miego ir demencijos išnyko, kai
+  pirmieji penkeri stebėjimo metai buvo neįtraukti.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Todėl trumpa naktis kartais nėra priežastis nerimauti. Reguliaraus, kokybiško miego
+verta siekti, nes jis padeda nuotaikai, budrumui ir saugumui jau dabar.
 
-## What is the "brain-clearing" sleep research?
+## Kas yra tyrimai apie miegą ir smegenų „išvalymą“?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Galbūt skaitėte, kad miegas „išvalo“ smegenis. Ši idėja kyla iš tikrų tyrimų, bet
+jie dar ankstyvi.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Pelėms.** 2013 m. tyrimas, [aprašytas NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep),
+  parodė, kad pelėms miegant tarpas tarp smegenų ląstelių padidėjo maždaug 60 %.
+  Skystis per smegenis tekėjo lengviau, per tai, ką tyrėjai vadina glimfine sistema.
+  Beta amiloidas, baltymas, siejamas su Alzheimerio liga, miegančių pelių smegenyse
+  pasišalino greičiau.
+- **Žmonėms.** Nedidelis [2018 m. tyrimas](https://www.pnas.org/doi/10.1073/pnas.1721694115)
+  ištyrė 20 sveikų suaugusiųjų nuo 22 iki 72 metų po įprastos nakties ir po nakties be
+  miego. Po nakties be miego smegenų tyrimo signalas, rodantis beta amiloidą, maždaug
+  5 % padidėjo srityje, į kurią įeina hipokampas – sritis, svarbi atminčiai. Autoriai tai
+  pavadino preliminariais įrodymais. Jie nežinojo, ar pokytis išnyksta po poilsio, ar
+  jis rodo lėtesnį šalinimą, ar didesnį amiloido kiekį.
+- **Veikia abipusiai.** Lancet komisija pažymi, kad amiloido kaupimasis pats gali
+  sutrikdyti vyresnio amžiaus žmonių miegą.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Šie atradimai padeda suprasti, kodėl mokslininkai domisi miegu. Jie neįrodo, kad geresnis
+miegas užkerta kelią Alzheimerio ligai.
 
-## What sleep habits may help?
+## Kokie miego įpročiai gali padėti?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Pagal [Nacionalinį senėjimo institutą (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults)
+vyresnio amžiaus žmonėms reikia maždaug 7–9 valandų miego per naktį, kaip ir kitiems
+suaugusiesiems. Instituto patarimai apima:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Laikykitės reguliaraus grafiko.** Eikite miegoti ir keiskitės kas dieną tuo pačiu
+  metu, net savaitgaliais.
+- **Susikurkite nusiraminimo ritualą.** Prieš miegą skaitykite, klausykitės ramios
+  muzikos ar pasimaudykite šiltoje vonioje.
+- **Padarykite miegamąjį patogų,** ne per karštą ir ne per šaltą.
+- **Vakare ribokite kofeiną.** Kava, arbata, gazuotas gėrimas ir šokoladas gali
+  neleisti užmigti.
+- **Venkite alkoholio,** net ir nedidelių kiekių, pataria NIA.
+- **Nevalgykite sotaus maisto likus dviems–trims valandoms iki miego ir vengiant didelių
+  gėrimų vakare.**
+- **Mankštinkitės reguliariai, bet ne likus mažiau nei 3 valandoms iki miego.** Žr. mūsų
+  [mankštos vadovą](/brain-health/exercise/).
+- **Miegamajame nenaudokite ekranų.** NIA pataria tenai nežiūrėti televizoriaus ir
+  nenaudoti kompiuterio, telefono ar planšetės.
+- **Jei galite, venkite vėlyvų popietinių ar vakarinių miegų.**
 
-## Sleep problems in dementia
+## Miego sutrikimai demencijos atveju
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Miego pokyčiai demencijos atveju yra dažni. [NIA nurodo](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease)
+per daug arba per mažai miegą, daug kartų pabudimus naktį ir dažną dieninį snaudimą.
+Ji taip pat apibūdina vadinamąjį saulėlydžio sindromą: neramumas, sujaudinimas ar
+sumišimas, kurie prasideda arba stiprėja gaunant tamsėjant.
 
-Caregiver tips from the NIA include:
+NIA globėjams siūlo:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Ankstyvą dieną gaukite dienos šviesos ir judėkite.** Eikite į lauką arba sėdėkite
+   prie lango, ir padėkite žmogui kasdien būti aktyviam. Ryški šviesa gali padėti
+   nustatyti kūno laikrodį.
+2. **Energingą veiklą planuokite rytais.** Pabandykite maudytis rytą arba didžiausią
+   valgį valgyti vidurdienį.
+3. **Snaudimus laikykite trumpus ir ankstyvus.** Ribokite snaudimą vėlai dienos metu.
+4. **Padarykite vakarą ramų.** Prigeskite šviesą, sumažinkite triukšmą ir, jei žmogui
+   patinka, leiskite ramią muziką. Mūsų vadove apie [vėlyvos dienos neramumą](/caregiving/late-day-restlessness/)
+   yra daugiau idėjų.
+5. **Laikykitės nuoseklaus miego ritualo.** Vienas NIA pavyzdys – kas vakarą tuo pačiu
+   metu skaityti garsiai. Padeda ir [nuoseklus kasdienis grafikas](/activities/daily-routine/).
+6. **Ribokite kofeiną ir alkoholį.**
+7. **Naudokite naktines lemputes** miegamajame, koridoriuje ir vonios kambaryje.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Dėl naktinių pabudimų NIA [namų saugumo patarimuose](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips)
+siūloma naudoti naktines lemputes ar automatinius šviesos jutiklius, vonios kambaryje –
+atramas, laiptų kraštus pažymėti ryškios spalvos juosta, o vaistus laikyti
+užrakintoje vietoje.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Trumpa, rami vakarinė veikla gali padėti abiem nusiraminti. Pabandykite lėtą
+[ramų kvėpavimą](/games/calm-breathing/) arba kelias ramias [pokalbių kortas](/games/conversation-cards/).
+Prie lovos vengite bet ko, kas sujaudina, ir sustokite, kai žmogus pavargsta.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Sutrikęs miegas nuvargina ir globėjus. Mūsų [globėjo savipagalbos vadove](/caregiving/caregiver-self-care/)
+rasite, kaip pailsėti ir gauti pagalbos.
 
-## What about sleep apnea?
+## O miego apnėja?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Miego apnėja – tai trumpos kvėpavimo pauzės miegant, dažnai daug kartų per naktį.
+NIA teigia, kad jei jos negydyti, gali kilti tokių problemų kaip aukštas kraujospūdis,
+insultas ar atminties sutrikimai. Požymiai – garsus knarkimas ir mieguistumas dienos
+metu, o daugelis žmonių nežino, kad ją turi. Lancet komisija aprašo 11 tyrimų apžvalgą,
+kurioje žmonės su miego apnėja turėjo maždaug 43 % didesnę demencijos riziką. Tačiau
+nedaugelis tų tyrimų atsižvelgė į svorį, todėl ryšys neaiškus.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Miego apnėją galima diagnozuoti ir gydyti. NIA pažymi, kad CPAP aparatas beveik visada
+padeda. Jei jūs ar jūsų prižiūrimas žmogus garsiai knarkia, miegant sustoja kvėpuoti
+ar dieną labai mieguistas, pasakykite gydytojui.
 
-## A note about sleep medicines
+## Pastaba apie miego vaistus
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Mes nepateikiame patarimų dėl miego vaistų ar papildų. NIA pažymi, kad miego vaistai
+gali padėti trumpam, bet nėra nemigos vaistas. Ji taip pat pažymi, kad kai kurie vaistai,
+skirti Alzheimerio liga sergančių žmonių miegui, gali padidinti svaigulio, kritimų ir
+sumišimo riziką. Nepradėkite, nenutraukite ir nekeiskite jokių miego vaistų, įskaitant
+vaistinėse be recepto parduodamas miego priemones, nepasikonsultavę su gydytoju ar
+vaistininku.
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Kreipkitės į gydytoją, jei jūs ar jūsų prižiūrimas žmogus nuolat pavargęs, daugelį naktų
+blogai miega, garsiai knarkia ar naktį sustoja kvėpuoti. Jei miego sutrikimai demencijos
+atveju tęsiasi, [NIA rekomenduoja](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
+kreiptis į gydytoją dėl patarimo. Patikrinimas gali nustatyti tokias priežastis kaip
+skausmas, kitas miego sutrikimas, liga ar vaistų šalutinis poveikis. Staigus sumišimas
+arba staigus miego pokytis kartu su sumišimu reikalauja skubios pagalbos. Perskaitykite,
+[kada kreiptis į gydytoją](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Šis puslapis yra bendra informacija, ne medicininė konsultacija. Žr. mūsų
+[medicininį atsakomybės apribojimą](/medical-disclaimer/).

@@ -1,32 +1,32 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Socialinis ryšys ir smegenų sveikata: vienatvė, izoliacija ir demencija"
+seoTitle: "Vienatvė, socialinė izoliacija ir demencijos rizika"
+description: "Kaip vienatvė ir socialinė izoliacija siejamos su demencijos rizika, ką sakė JAV generalinio chirurgo įspėjimas ir paprasti būdai išlikti kartu su kitais."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Tyrimai sieja vyresnio amžiaus žmonių socialinę izoliaciją ir vienatvę su didesne demencijos
+  rizika. 2024 m. Lancet komisija apskaičiuoja, kad izoliacija lemia maždaug 5 % atvejų, nors
+  dalis ryšio gali būti tai, kad ankstyva demencija skatina atsitraukti. Ryšį palaiko kontaktas,
+  bendri pomėgiai ir pagalba su klausa. Žmonėms, gyvenantiems su demencija, bendra veikla svarbi
+  malonumui ir gyvenimo kokybei.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet komisija vyresniame amžiuje įvardija socialinę izoliaciją kaip vieną iš 14 keičiamų demencijos rizikos veiksnių, lemiantį maždaug 5 % atvejų."
+  - "JAV generalinio chirurgo 2023 m. įspėjimas sieja lėtinę vienatvę ir izoliaciją su maždaug 50 % didesne demencijos rizika vyresniems žmonėms."
+  - "Dauguma šių įrodymų yra stebėjimo tyrimai, o ankstyva demencija pati gali skatinti žmones atsitraukti."
+  - "Klausos ir regos problemos, gyvenimas vienam ir priežiūra didina izoliacijos riziką."
+  - "Žmonėms, gyvenantiems su demencija, maloni bendra veikla palaiko gyvenimo kokybę; tikslas – ryšys, o ne pasiekimai."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Ar vienatvė sukelia demenciją?"
+    a: "Tai neįrodyta. Daugelis tyrimų sieja vienatvę ir izoliaciją su didesne demencijos rizika, tačiau ankstyvi smegenų pokyčiai taip pat gali skatinti žmones trauktis nuo kitų. Ryšys su kitais turi daug kitos naudos nuotaikai ir sveikatai, todėl jį verta palaikyti bet kuriuo atveju."
+  - q: "Kuo skiriasi vienatvė ir socialinė izoliacija?"
+    a: "Socialinė izoliacija reiškia, kad žmogus reguliariai bendrauja su nedaugeliu žmonių. Vienatvė – tai skausminga jausena, kad esi vienas ar atskirtas. Galima gyventi vienam ir nesijausti vienišam arba jaustis vienišam tarp daugybės žmonių."
+  - q: "Kaip galiu padėti tėvui ar mamai, sergantiems demencija, išlikti susijusiems su kitais?"
+    a: "Gerai veikia trumpi, reguliarūs kontaktai. Pabandykite nustatytą savaitinį skambutį ar vaizdo pokalbį, bendrą veiklą prie virtuvės stalo, atminties kavinę ar apsilankymą su augintiniu ar anūkais. Grupes laikykite mažas ir ramias, o tempą nustatykite patys žmogus."
+  - q: "Kur rasti vietinės pagalbos vyresniam izoliuotam žmogui?"
+    a: "Eldercare Locator – JAV viešoji tarnyba, kuri susieja šeimas su vietinėmis senjorų agentūromis ir bendruomenės programomis. Su ja galima susisiekti telefonu 800-677-1116 arba svetainėje eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +54,129 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Žmonės yra sukurti būti kartu su kitais, ir su amžiumi tai nesikeičia. Tyrimai sieja
+vienatvę ir socialinę izoliaciją vyresniame amžiuje su didesne demencijos rizika, taip
+pat su širdies ligomis ir depresija. Tyrimai dar negali pasakyti, kiek šio ryšio
+yra priežastis ir pasekmė. Šiame puslapyje aptariama, ką rodo įrodymai, praktiški
+būdai išlikti kartu su kitais ir kodėl bendra veikla tokia svarbi žmonėms, kurie jau
+gyvena su demencija.
 
-## Are loneliness and isolation linked with dementia?
+## Ar vienatvė ir izoliacija siejamos su demencija?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Taip, daugelis tyrimų jas sieja, nors kryptis dar nėra visiškai aiški. [2024 m. Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0)
+vyresniame amžiuje socialinę izoliaciją įvardija kaip vieną iš 14 keičiamų rizikos
+veiksnių. [UCL ataskaitos santrauka](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+nurodo, kad tai lemia maždaug 5 % demencijos atvejų visame pasaulyje.
 
-What the evidence shows:
+Ką rodo įrodymai:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Mažiau kontaktų – didesnė rizika.** Komisija aprašo dvi apžvalgas, kuriose rastas
+  ryšys tarp rečiau vykstančio socialinio kontakto ir didesnės demencijos rizikos.
+  Vienoje rasta maždaug 57 % didesnė rizika, kitoje – maždaug 18 %.
+- **Taip pat vienatvė.** Vienatvė, t. y. jausena, kad esi atskirtas, keliose apžvalgose
+  taip pat siejama su didesne demencijos rizika.
+- **Generalinio chirurgo požiūris.** 2023 m. gegužę JAV generalinis chirurgas paskelbė
+  [įspėjimą dėl vienatvės ir izoliacijos](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf).
+  Jame teigiama, kad lėtinė vienatvė ir izoliacija vyresniems žmonėms gali padidinti
+  demencijos riziką maždaug 50 %. Jis taip pat susiejo prastą socialinį ryšį su 29 %
+  didesne širdies ligos rizika ir 32 % didesne insulto rizika.
+- **Kaip dažnai tai pasitaiko.** [Nacionalinių mokslų akademijų ataskaita](https://www.ncbi.nlm.nih.gov/books/NBK557972/)
+  nustatė, kad maždaug 24 % JAV gyvenančių bendruomenėje 65 metų ir vyresnių žmonių yra
+  socialiai izoliuoti.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Svarbi išlyga: Lancet komisija pažymi, kad ankstyvoje, dar nediagnozuotoje demencijos
+fazėje žmonės gali mažinti socialinę veiklą. Tai reiškia, kad dalis ryšio gali būti
+ne tik atsitraukimas, didinantis riziką, bet ir demencija, sukelianti atsitraukimą.
+Beveik visi šie įrodymai gauti iš stebėjimo tyrimų.
 
-## What is the difference between loneliness and isolation?
+## Kuo skiriasi vienatvė ir izoliacija?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Nacionalinis senėjimo institutas (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected)
+tai paaiškina taip. **Socialinė izoliacija** reiškia, kad turite nedaug socialinių
+ryšių ar nedaug žmonių, su kuriais reguliariai bendraujate. **Vienatvė** – tai
+slegianti jausena, kad esate vienas ar atskirtas. Žmogus gali laimingai gyventi vienas,
+o kitas gali jaustis vienišas pilname kambaryje.
 
-The NIA lists factors that raise the risk of both:
+NIA išvardija veiksnius, didinančius abiejų riziką:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Klausos ar regos problemos
+- Sunkumai judėti ar nėra transporto
+- Gyvenimas vienam arba didelis netekimas, pavyzdžiui, sutuoktinio mirtis ar išėjimas į pensiją
+- Atminties ar mąstymo pokyčiai
+- Rūpinimasis mylimu, sergančiu žmogumi
+- Rūpesčiai dėl pinigų ar kalbos kliūtys
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Klausa – vienas svarbiausių veiksnių. NIA pažymi, kad žmonės, prastai girdintys, gali
+trauktis, nes pokalbis tampa varginantis ar gėdingas. Mūsų [klausos ir smegenų sveikatos vadove](/brain-health/hearing/)
+rasite apie klausos patikrinimus ir vaistinėse be recepto parduodamus klausos aparatus.
 
-## Practical ways to stay connected
+## Praktiški būdai išlikti kartu su kitais
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA siūlo daugybę idėjų. Pasirinkite vieną ar dvi, kurios tinka:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Planuokite reguliarų kontaktą.** Nustatykite konkretų laiką kasdien ar kas savaitę
+  paskambinti, parašyti, atsiųsti laišką ar atvirutę šeimai, draugams ar kaimynams.
+- **Naudokite vaizdo pokalbius ar išmaniuosius garsiakalbius.** Jei technologijos naujos,
+  daugelis viešųjų bibliotekų ir bendruomenės centrų siūlo mokymus. Žr. mūsų
+  [telefoninių ir vaizdo skambučių vadovą](/activities/phone-and-video-calls/).
+- **Prisijunkite prie veiklos.** Užsiėmimai, tikėjimo bendruomenė, vaikščiojimo klubas
+  ar savanoriška veikla suteikia kontaktą ir prasmės jausmą.
+- **Atnaujinkite seną pomėgį** ar išmokite naują kartu su kitais.
+- **Judėkite kartu su kitais.** Mankštinkitės su draugu ar grupe. Mūsų [mankštos vadove](/brain-health/exercise/)
+  rasite švelnių pasirinkimų.
+- **Apsvarstykite augintinį**, jei galite juo pasirūpinti.
+- **Naudokitės vietinėmis paslaugomis.** Senjorų centrai, Senjorų reikalų agentūros ir
+  Eldercare Locator (800-677-1116) gali nukreipti į programas ir transportą.
 
-## Why do shared activities matter in dementia?
+## Kodėl bendra veikla svarbi demencijos atveju?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Žmogui, kuris jau gyvena su demencija, ryšys reiškia malonumą, komfortą ir jausenę, kad
+esi įtrauktas, o ne mažesnę riziką. Lancet komisija teigia, kad veikla padeda žmonėms,
+sergantiems demencija, išlaikyti malonumą ir prasmę. [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/activities)
+pažymi, kad be gyvenimo kokybės gerinimo veikla gali sumažinti tokį elgesį kaip klajojimas
+ar sujaudinimas. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)
+priduria, kad žmonės su Alzheimerio liga turi būti aktyvūs ir daryti tai, ką mėgsta.
 
-Ideas that work well:
+Idėjos, kurios gerai veikia:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Kartu žiūrėkite nuotraukas.** [Pokalbių kortos](/games/conversation-cards/) siūlo
+   atvirus klausimus be testų, pavyzdžiui, „Papasakok apie...“. Žr. mūsų
+   [prisiminimų vadovą](/activities/reminiscence/).
+2. **Žaiskite šalia vienas kito.** [Paveikslėlių poros](/games/picture-pairs/) palieka
+   paveikslėlius matomus ir neturi laikmačio ar taškų, todėl nėra spaudimo. Mūsų
+   vadove [kaip žaisti kartu](/caregiving/how-to-play-together/) rasite patarimų.
+3. **Naudokite šeimos nuotraukas.** [Nuotraukų poros](/games/photo-pairs/) paverčia jūsų
+   pasirinktas nuotraukas atitikimo žaidimu, o nuotraukos lieka jūsų įrenginyje.
+4. **Suburkite žmones.** [Paveikslėlių bingas](/games/picture-bingo/) tinka šeimos
+   susibūrimams ir [grupėms globos namuose](/activities/care-home-groups/).
+5. **Dalykitės muzika, buitimi ar sodu.** Žr. [muzikos veiklas](/activities/music/),
+   [buities darbus](/activities/household-tasks/) ir visą [veiklos idėjų](/activities/ideas/) sąrašą.
+6. **Padarykite apsilankymus lengvesnius.** Mūsų [apsilankymų vadove](/activities/visiting/)
+   rasite trumpų, ramių apsilankymų, kurie patinka visiems.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Viskas turi būti nedidelė ir atpalaiduojanti. Tyli patalpa su vienu ar dviem žmonėmis
+dažnai veikia geriau nei didelė grupė. Jei žmogus pavargsta ar praranda susidomėjimą,
+sustoti yra normalu. Sėdėjimas kartu su puodeliu arbatos taip pat yra geras rezultatas.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Žmogui, gyvenančiam vienam su demencija, NIA siūlo rasti patikimą asmenį, kuris galėtų
+reguliariai apsilankyti ar paskambinti vaizdo skambučiu ir tapti kontaktiniu asmeniu
+avarijos atveju. Jis taip pat mini vietinę atminties kavinę – ramią socialinę erdvę
+žmonėms su atminties sutrikimais ir jų šeimoms.
 
-## Caregivers get lonely too
+## Globėjai taip pat jaučiasi vieniši
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA rūpinimąsi mylimu žmogumi įvardija kaip izoliacijos rizikos veiksnį. Skirkite laiko
+savo draugystėms, paramos grupėms ir poilsiui. Mūsų [globėjo savipagalbos vadove](/caregiving/caregiver-self-care/)
+rasite praktiškų idėjų.
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Jei jūs ar jūsų prižiūrimas žmogus didžiąją laiko dalį jaučiatės vieniši ar izoliuoti,
+pasakykite gydytojui. NIA ragina dalytis didelius gyvenimo pokyčius, pavyzdžiui, šeimos
+nario mirtį, kad gydytojas matytų visą vaizdą. Liūdesys, trunkantis savaites, gali būti
+depresija, kuri gydoma. Jei vyresnis žmogus neseniai pradėjo trauktis nuo draugų ar
+veiklos, kurią anksčiau mėgo, verta apie tai pasakyti ir gydytojui. Perskaitykite
+[ankstyvus požymius ir kada kreiptis į gydytoją](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Šis puslapis yra bendra informacija, ne medicininė konsultacija. Žr. mūsų
+[medicininį atsakomybės apribojimą](/medical-disclaimer/).

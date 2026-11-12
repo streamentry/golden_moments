@@ -73,7 +73,7 @@ Inson xafa yoki uyalgan boʻlsa, oʻyinni toʻxtating va boshqa narsaga oʻting.
 
 - **Insonning oʻz maqollaridan foydalaning.** Oiladan ota-onasi yoki turmush oʻrtogʻi doim nima degani haqida soʻrang. Bolalikdagi maqollar koʻpincha eng oson eslanadi.
 - **Qisqa, kundalik maqollarni tanlang.** Ob-havo, oshxona, bogʻ, oila va fasllar haqidagi iboralar keng tarqalgan va oson.
-- **Soddaligini saqlang.** Eskirgan soʻzlar yoki axloqiy saboqqa tayangan maqollar chalkashtirishi mumkin. Ularni ularni yoqtiradigan odamlar uchun saqlang.
+- **Soddaligini saqlang.** Eskirgan soʻzlar yoki axloqiy saboqqa tayangan maqollar chalkashtirishi mumkin. Ularni yoqtiradigan odamlar uchun saqlang.
 - **Tilni tekshiring.** Koʻp iboralar tarjima qilinmaydi. Inson oʻz tilida biladigan maqollardan foydalaning, hatto yangilarini topishga toʻgʻri kelsa ham.
 
 ## Mavzular boʻyicha maqollar
