@@ -10,7 +10,7 @@ summary: >-
   Jos dementiaa sairastava henkilö muuttuu vihaiseksi tai aggressiiviseksi, anna
   tilaa, keskeytä tehtävä, puhu rauhallisesti ja siirrä ihmiset turvaan tarvittaessa.
   Älä väittele, ahdista läheltä äläkä rajoita liikkumista. Äkilliset tai pahenevat muutokset
-  tarvitsee lääkärin arvion, välitön vaara vaatii paikallisten hätäpalvelujen apua.
+  tarvitsevat lääkärin arvion, välitön vaara vaatii paikallisten hätäpalvelujen apua.
 keyPoints:
   - "Vihalla tai aggressiivisuudella voi olla laukaisija; se ei todista, että henkilö aikoo satuttaa jotakuta."
   - "Tilanteen aikana väisty, keskeytä tehtävä ja käytä rauhallista, lyhyttä lausetta."
