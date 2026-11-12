@@ -96,7 +96,7 @@ Pequenas mudanças na impressão fazem uma grande diferença.
 ### Para reutilizar
 
 - **Plastifique as páginas** ou coloque-as em capas transparentes. Use marcadores de quadro branco nos caça-palavras e nas cartelas de bingo, e depois limpe.
-- **Escolha bolsas foscas** se o reflexo for um problema, e **arredonde os cantos** das cartas plastificadas com uma tesoura para que fiquem confortáveis de segurar.
+- **Escolha capas foscas** se o reflexo for um problema, e **arredonde os cantos** das cartas plastificadas com uma tesoura para que fiquem confortáveis de segurar.
 - **Mantenha uma pasta** com as preferidas, para não imprimir a mesma página toda semana.
 
 ### Mantenha simples

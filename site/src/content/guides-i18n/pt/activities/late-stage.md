@@ -1,7 +1,7 @@
 ---
 title: "Atividades para a Demência Avançada, Inclusive na Cama ou na Cadeira"
 seoTitle: "Atividades para Demência Avançada: Ideias na Cama e na Cadeira"
-description: "Atividades suaves para a demência avançada, inclusive para quem está na cama ou na cadeira: música, toque, leitura em voz alta, sons e estar juntos, com cuidados de segurança."
+description: "Atividades suaves para a demência avançada, inclusive na cama ou na cadeira: música, toque, leitura em voz alta, sons e estar juntos, com cuidados de segurança."
 section: activities
 order: 4
 updated: 2026-10-25

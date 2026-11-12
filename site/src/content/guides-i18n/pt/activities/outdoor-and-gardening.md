@@ -117,7 +117,7 @@ O frio também importa. No inverno, mantenha o tempo ao ar livre curto e garanta
 
 ## Como lidar com a perambulação quando saímos?
 
-Fique com a pessoa sempre que ela estiver ao ar livre. A Alzheimer's Association diz que 6 em cada 10 pessoas que vivem com demência vão [perambular](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) pelo menos uma vez, e muitas fazem isso mais de uma vez. Pode acontecer em qualquer fase.
+Fique com a pessoa sempre que ela estiver ao ar livre. A Alzheimer's Association diz que seis em cada 10 pessoas que vivem com demência vão [perambular](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) pelo menos uma vez, e muitas fazem isso mais de uma vez. Pode acontecer em qualquer fase.
 
 As [dicas sobre perambulação e perder-se](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) do NIA incluem:
 
