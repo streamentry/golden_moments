@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Dementia ya nkarhi wo sungula yi sungula ku nga si fika eka malembe ya 65. Vanhu vo tala va titwa ku ri ehansi ka mintirho leyi nyikiwaka."
   - "Hlayisa munhu la nga ni matimba yo hlawula, ku sukela eka xiendlakalo xo sungula ku ya eka ndzawu wo ya kona."
-  - "Mimbango, swifanekiso ni timhaka ta malembe ya 20 ku ya eka ya 50 swi tala swi va swa nkoka eka munhu ku tlula mintirho ya malembe ya le ndzhaku."
+  - "Mimbango, swifanekiso ni timhaka ta malembe ya makume mambirhi ku ya eka ya makume ntlhanu swi tala swi va swa nkoka eka munhu ku tlula mintirho ya malembe ya le ndzhaku."
   - "Hlayisa mintirho ni vanghana loko munhu a lava, kutani u lulamisa nkarhi ku nga ri ku tsundzuxa mintirho."
   - "Vahlayi va swin'we, ngati vaxaka ni vana lavakulu, va tirhisa mintlawu ya vanhu lava fanaka na vona."
 faq:
@@ -41,7 +41,7 @@ related: [activities/early-stage, activities/music, activities/reminiscence, act
 health: false
 ---
 
-Swo tala swa vutivi bya dementia swi vulavula hi munhu la nga ni malembe ya 70 kumbe 80. Eka munhu loyi a vuriwaka a ri ehansi ka 50, swikombiso swa siku ni siku swi hambana. Yena a nga ha ri ni ntirho, xikweleti, vana lavatsongo kumbe nyanga leyi a fanele ku yi khathalela. Mintirho yi fanele ku amukela vutomi lebyi bya vanhu lavakulu. Ndzima leyi yi kombisa leswi cincaka, leswi nga ringetiwa, ni laha vaxaka ni vana lavakulu va nga kumaka mpfuno kona.
+Swo tala swa vutivi bya dementia swi vulavula hi munhu la nga ni malembe ya makume nkombo kumbe makume nhungu. Eka munhu loyi a vuriwaka a ri ehansi ka makume ntlhanu, swikombiso swa siku ni siku swi hambana. Yena a nga ha ri ni ntirho, xikweleti, vana lavatsongo kumbe nyanga leyi a fanele ku yi khathalela. Mintirho yi fanele ku amukela vutomi lebyi bya vanhu lavakulu. Ndzima leyi yi kombisa leswi cincaka, leswi nga ringetiwa, ni laha vaxaka ni vana lavakulu va nga kumaka mpfuno kona.
 
 ## Dementia ya nkarhi wo sungula i yini?
 
@@ -51,7 +51,7 @@ Hikuva i leyi nga tolovelekanga, vanhu va nga tshama nkarhi wo leha va nga kumi 
 
 ## Hlayisa munhu wa vanhu lavakulu eka mintirho
 
-Vanhu lavakulu lava nga ni dementia ya nkarhi wo sungula a va lavi ku tekiwa tanihi vana. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yi kombisa leswaku mintirho yi fanele ku lulamisiwa ku ya hi leswi munhu a nga ha swi endlaka naswona a swi tsakelaka. Eka munhu la nga ni malembe ya 50, sweswi swi nga va:
+Vanhu lavakulu lava nga ni dementia ya nkarhi wo sungula a va lavi ku tekiwa tanihi vana. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yi kombisa leswaku mintirho yi fanele ku lulamisiwa ku ya hi leswi munhu a nga ha swi endlaka naswona a swi tsakelaka. Eka munhu la nga ni malembe ya makume ntlhanu, sweswi swi nga va:
 
 - **Hlayisa xiendlakalo xa khale,** ku fana na ku tirha ti nkuni, mintlawu, mintlawu ya tikhadi, khilabu ya tibuku kumbe kwayala, hi mpfuno wo tsongo kumbe nkarhi lowu nga ni timpfutshana.
 - **Famba kumbe tshova baisikeli ni munhu wa xinghana,** hi ndlela leyi munhu a yi tivaka kahle.
@@ -64,7 +64,7 @@ Nyika munhu a hlawula. Ku vutisa "U ta tsakela ku endla yini ku sukela madyambu?
 
 ## Tirhisa mimbango ni swiendlakalo swa malembe ya yena
 
-Mimbango ni swifanekiso swa malembe ya 20, 30 ni 40 swi nga endla munhu a titwa a tsakile ni ku vulavula hi ku olova. Ndzima ya [mintirho ya mimbango](/activities/music/) yi kombisa ndlela yo endla playlist, ni [mintirho ya nkumbuko](/activities/reminiscence/) yi kombisa ndlela yo avelana swifanekiso ni timhaka handle ka ku vutisa. Eka ntlawu wo tala wa vanhu lavakulu, ringeta [karata ya vulavulo](/games/conversation-cards/), leyi nga ni swivutiso swo pfula hi ntirho, nkarhi wo fambisa, vanghana ni ndyangu.
+Mimbango ni swifanekiso swa malembe ya makume mambirhi, makume manharhu ni makume mune swi nga endla munhu a titwa a tsakile ni ku vulavula hi ku olova. Ndzima ya [mintirho ya mimbango](/activities/music/) yi kombisa ndlela yo endla playlist, ni [mintirho ya nkumbuko](/activities/reminiscence/) yi kombisa ndlela yo avelana swifanekiso ni timhaka handle ka ku vutisa. Eka ntlawu wo tala wa vanhu lavakulu, ringeta [karata ya vulavulo](/games/conversation-cards/), leyi nga ni swivutiso swo pfula hi ntirho, nkarhi wo fambisa, vanghana ni ndyangu.
 
 Swifanekiso swa swiyenge leswi endliweke hi swifanekiso swa ndyangu nawu swi nga tirha kahle, hikuva swifanekiso swi kombisa vanhu ni ndhawu leswi nga ni nkoka eka munhu. [Swiyenge swifanekiso](/games/photo-pairs/) swi hlayisa swifanekiso ebrawuzeni ya xitirhisiwa lexi.
 
@@ -76,7 +76,7 @@ Ku engetela nongonoko wa siku ni siku ni ku hlayisa munhu a tiyile, vona [nongon
 
 ## Mpfuno eka vaxaka ni vana lavakulu
 
-Vaxaka ni vana lavakulu va vo tala va titwa va ri xidyoho. Ku khathalela munhu i ntirho lowu engetelekeke ehenhla ka ntirho ni ndyangu. Blog ya Alzheimer's Association yi tsundzuxa leswaku vaxaka lava khathalelaka munhu la nga ni dementia ya nkarhi wo sungula va kume mpfuno ku mintlawu leyi nga ni swiphiqo swa vutomi lebyi tirhaka, ku fana ni swa nawu, ni ku titwa va twisisiwa. Yi tlhela yi tsundzuxa leswaku Association yi tirhisa tintlhangu ta mpfuno ta vaxaka leti nga riki na mbhoyi, ku katsa ni tintlhangu ta lava khathalelaka munhu la nga ni dementia ya nkarhi wo sungula, naswona tin'wana ta tona ti hlanganela hi swivumbiwa swa ku tlhela swi tirhisa ka telefoni eka Svumbirhi ni Svuntlhanu.
+Vaxaka ni vana lavakulu va vo tala va titwa va ri xidyoho. Ku khathalela munhu i ntirho lowu engetelekeke ehenhla ka ntirho ni ndyangu. Blog ya Alzheimer's Association yi tsundzuxa leswaku vaxaka lava khathalelaka munhu la nga ni dementia ya nkarhi wo sungula va kume mpfuno ku mintlawu leyi nga ni swiphiqo swa vutomi lebyi tirhaka, ku fana ni swa nawu, ni ku titwa va twisisiwa. Yi tlhela yi tsundzuxa leswaku Association yi tirhisa tintlhangu ta mpfuno ta vaxaka leti nga riki na mbhoyi, ku katsa ni tintlhangu ta lava khathalelaka munhu la nga ni dementia ya nkarhi wo sungula, naswona tin'wana ta tona ti hlanganela hi swivumbiwa swa ku tlhela swi tirhisa ka telefoni eka Ravumbirhi ni Ravunharhu.
 
 Leswaku u vutisa hi tintlhangu, fonela Helpline ya 24/7 ya Association hi 800.272.3900. [Guide ya ku khathalela ya wena](/caregiving/caregiver-self-care/) yi vulavula hi ku wisa, ku pfuka ni swikombiso swa ku hela matimba.
 

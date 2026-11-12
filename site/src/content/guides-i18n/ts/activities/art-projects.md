@@ -1,7 +1,7 @@
 ---
 title: "Mintirho ya Vuaki eka Vanhu lava nga ni Dementia"
 seoTitle: "Vuaki eka Dementia: Tindlela ta Mintirho"
-description: "Mintirho ya vuaki eka vanhu lava nga ni dementia, hi tinyiko: mivala ya mati, collage, mbumba, chalk ni ku phasa hi masamba, ni ku hlawula tintirhisiwa ta vuaki leti hlayisekaka."
+description: "Mintirho ya vuaki eka vanhu lava nga ni dementia, hi tinyiko: mivala ya mati, collage, mbumba, chalk ni ku phasa hi masamba, ni tintirhisiwa leti hlayisekaka."
 section: activities
 order: 28
 updated: 2026-11-08
@@ -49,7 +49,7 @@ Mintirho ya vuaki i ndlela leyi tsakisaka yo tirhisa nkarhi ni munhu la nga ni d
 2. **Komba xinyiko xo sungula.** Peta brush, cheka papila ro sungula kumbe pfeketela mbumba leyitsongo, kutani u n'wi kombela leswaku a endla leswi fanaka.
 3. **Tirha ni yena ehansi ka ntlhamu.** Hlayisa ntirho wa wena leswaku mintirho yi tirha swin'we, yi nga ri ku languteriwa.
 4. **Vulavula hi leswi u swi vonaka.** Hlamusela mavala, tinzwa ni swimo, u nga kambi ntirho hi ku tiyisa kumbe ku biha.
-5. **Yima ku nga si hela matimba.** Miniti ya kwalomu ya 10 ku ya eka 20 hi yona leyi tlhelelaka swinene.
+5. **Yima ku nga si hela matimba.** Miniti ya kwalomu ya khume ku ya eka makume mambirhi hi yona leyi tlhelelaka swinene.
 
 [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) yi kombisa leswaku vuaki i ndlela yo kombisa tinzwa ni ku endla swilo handle ka vuenti bya vuaki. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yi ri mintirho yi fanele ku avanyisiwa yi va swiphemu switsongo leswi olovaka.
 

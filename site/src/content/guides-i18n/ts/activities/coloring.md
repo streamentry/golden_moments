@@ -1,7 +1,7 @@
 ---
 title: "Mintirho ya Ku Penta eka Alzheimer's ni Dementia"
 seoTitle: "Ku Penta eka Alzheimer's ni Dementia"
-description: "Ku penta eka vanhu lava nga ni Alzheimer's kumbe dementia: swifanekiso swa vanhu lavakulu, mikuku yo kurisa, ku penta hi thyinini ni tiprinthi, ni tindlela to yima hi ku olova."
+description: "Ku penta eka vanhu lava nga ni Alzheimer's kumbe dementia: swifanekiso swa vanhu lavakulu, mikuku yo kurisa, tiprinthi ni tindlela to yima hi ku olova."
 section: activities
 order: 25
 updated: 2026-11-08

@@ -54,15 +54,15 @@ Filifili ʻa e ngaahi ngāue ʻoku fe'unga mo ia ʻoku loto ki ai ʻa e tokotaha
 
 - **Teuteu ʻa e ngaahi ʻaʻahi.** Fehuʻi pe ʻoku loto ʻa e tokotaha ke tokoni ki he fetuʻutaki mo e falemahaki, tauhi ʻa e kalenitā, pe teuteu ʻa e feʻave'aki.
 - **Kumi ʻa e ngaahi tokoni ʻi he feituʻu.** Sivi ʻa e kai ʻoku fe'ave'aki, feʻave'aki, tokoni ʻi he fale, ʻa e ngaahi polokalama ʻaho ʻo e kakai lahi, pe ngaahi kulupu tokanga ʻi he feituʻu ʻoku nofo ai ʻa e tokotaha. Fakapapau ʻa e ngaahi fakamatala mo e kau foaki tokoni; ʻoku kehekehe ʻa e ʻaʻeva ʻi he feituʻu.
-- **Ngāue ʻi he ngaahi pepa pe ngaahi oata ʻoku fakapapau.** ʻE lava ke ke tokoni ke teuteu ʻa e ngaahi fomu pe teuteu ʻa e ngaahi meʻa fakafeʻiloaki kapau ʻoku kole ʻa e tokotaha. Ko e ngaahi tohinoa paʻanga, inisiua, mo e moʻui ʻoku fiemaʻu ha tokanga lahi ange; ʻaʻaku ngaahi fekau ʻo e [tokoni paʻanga mo e malu ʻo e fakatuʻutamaki](/caregiving/managing-money-with-dementia/) pea sivi ʻa e ngaahi fiemaʻu ʻo e mafai pe loto-lelei.
+- **Ngāue ʻi he ngaahi pepa pe ngaahi oata ʻoku fakapapau.** ʻE lava ke ke tokoni ke teuteu ʻa e ngaahi fomu pe teuteu ʻa e ngaahi meʻa fakafeʻiloaki kapau ʻoku kole ʻa e tokotaha. Ko e ngaahi tohinoa paʻanga, inisiua, mo e moʻui ʻoku fiemaʻu ha tokanga lahi ange; Ngāue ʻaki ʻa e talanoa ʻo e [tokoni paʻanga mo e malu ʻo e fakatuʻutamaki](/caregiving/managing-money-with-dementia/) pea sivi ʻa e ngaahi fiemaʻu ʻo e mafai pe loto-lelei.
 - **Teuteu ʻa e taimi ki he kau tokanga ʻi he feituʻu.** ʻI he taimi ʻo e ʻaʻahi, fehuʻi ko e hā ʻa e ngāue makehe pe malolo ʻe tokoni. ʻE lava ke ke teuteu ha kai, fakahoko ha ʻaʻahi kuo fakatokanga muʻa, pe ʻalu mo e tokotaha ʻi he taimi ʻoku malolo ai ʻa e tokoni ʻi he feituʻu.
 - **Tauhi ha fetuʻutaki ʻi he founga ʻoku fiefia ai ʻa e tokotaha.** Fehuʻi pe ʻoku loto ia ki ha telefoni, vitio, tohi, pe ʻaʻahi. ʻE lava ke ʻi ai ha telefoni ko ha talanoa ʻikai ko ha sivi ki he kai, meʻa-inu moʻui, pe mahino ʻo e ngaahi meʻa.
 
-ʻOku ʻosi ai ʻe he [Alzheimer's Association ʻoku fakamatala ʻe lava ke ʻikai ke ʻiloa ʻe he kau tokoni mei he mamaʻo ʻa e fiemaʻu ʻi he moʻoni](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage). ʻI he taimi ʻe lava ai, fetuʻutaki mo e kakai ʻoku sio ki he tokotaha ʻi he ʻaho ki he ʻaho, pea teuteu ha ʻaʻahi ki he feituʻu ʻo e tokotaha. ʻE lava ke tokoni ʻa e sio ko iá, ka ʻoku ʻikai ko e nofo ia ʻi he fehuʻi ki he tokotaha pe ʻi he ʻeke ʻo ha fakatotolo ʻa e tokotaha fakaʻatamai.
+ʻOku fakamatala ʻe he [Alzheimer's Association ʻoku fakamatala ʻe lava ke ʻikai ke ʻiloa ʻe he kau tokoni mei he mamaʻo ʻa e fiemaʻu ʻi he moʻoni](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage). ʻI he taimi ʻe lava ai, fetuʻutaki mo e kakai ʻoku sio ki he tokotaha ʻi he ʻaho ki he ʻaho, pea teuteu ha ʻaʻahi ki he feituʻu ʻo e tokotaha. ʻE lava ke tokoni ʻa e sio ko iá, ka ʻoku ʻikai ko e nofo ia ʻi he fehuʻi ki he tokotaha pe ʻi he ʻeke ʻo ha fakatotolo ʻa e tokotaha fakaʻatamai.
 
 ## Ko e founga fēfē ke fetuʻutaki mo e kau tokoni ʻi he feituʻu?
 
-Fehuʻi muʻa ki he tokotaha ko hai ʻoku loto ke kau mo e ngaahi fakamatala ʻoku loto-lelei ai ke vahevahe. ʻE loto ia ke ʻi ai ha taha fakafeʻiloaki ke teuteu ʻa e ngaahi ʻaʻahi, ha kaungāmeʻa ke vakai ki ha palōpalema makehe, pe ʻikai ke ʻi ai ha ngaahi siẹki fakaʻaho. ʻOua ʻe fakahoko ha taha ki he talanoa tokanga pē koeʻuhi ʻoku nofo ofi ia.
+Fehuʻi muʻa ki he tokotaha ko hai ʻoku loto ke kau mo e ngaahi fakamatala ʻoku loto-lelei ai ke vahevahe. ʻE loto ia ke ʻi ai ha taha fakafeʻiloaki ke teuteu ʻa e ngaahi ʻaʻahi, ha kaungāmeʻa ke vakai ki ha palōpalema makehe, pe ʻikai ke ʻi ai ha ngaahi sivi fakaʻaho. ʻOua ʻe fakahoko ha taha ki he talanoa tokanga pē koeʻuhi ʻoku nofo ofi ia.
 
 Kapau ʻoku loto ʻa e tokotaha, teuteu ha palani fetuʻutaki faingofua mo e kakai kuo fili ʻe ia:
 
@@ -79,7 +79,7 @@ Fehuʻi ki he tokotaha fakatōketā ʻo e tokotaha pe kautaha tokoni ko e hā ʻ
 
 Tokanga ki he loto ʻo e tokotaha ki he ko hai ʻe maʻu ʻa e ngaahi fakamatala. Vahevahe pē ʻa e ʻaonga ʻoku fiemaʻu ki he ngāue kuo fakapapau, pea taʻe-fakaʻilo ʻa e ngaahi fakamatala fetuʻutaki mo e ngaahi tohinoa. Kapau ʻoku kau ʻa e tohi fakalao pe mafai fakalao, fehuʻi ki ha poto ʻi he feituʻu ʻo e tokotaha ko e hā ʻa e me'a ʻoku kau ai. ʻOku ʻikai ke fakamoʻoni ʻe he talanoa ni ʻa e mafai fakalao ʻa ha taha.
 
-## Ko e founga fēfē ke ʻaonga ai ʻa e ʻaʻahi ki heʻeku mo ʻene?
+## Ko e founga fēfē ke ʻaonga ai ʻa e ʻaʻahi ki he tokotaha mo koe?
 
 Fehuʻi ki he tokotaha ko e founga fēfē ʻoku loto ai ke ne fakaʻaho ʻa e taimi. Tuku ha feituʻu ki ha kai, ʻalu-ʻalu, meʻa-fakalea, pe talanoa mālie, ʻikai ko e ngaahi taimi fakataha pe ngāue fakaʻaho pē.
 
@@ -89,7 +89,7 @@ Ko e [Alzheimer's Association ʻoku fakaʻaongaʻi ke ngāue ʻaki ʻa e ngaahi 
 
 ## Ko e hā kapau ʻoku liliu ʻa e fiemaʻu pe tokoni ʻo e tokotaha?
 
-Toe vakai ʻa e palani ʻi he taimi ʻoku kole ai ʻa e tokotaha ki ha tokoni kehe, ʻi he taimi ʻoku faingataʻa ai ha founga usu, pe ʻi he taimi ʻoku ʻikai lava ai ke kau ha tokoni ʻi he feituʻu. Fehuʻi ki he ngaahi meʻa ʻoku fie tauhi ke fai ʻe he tokotaha mo e ngāue ʻoku fiemaʻu ke tokanga ki ai he taimi ni. ʻE lava ke tokoni ʻa e tokotaha fakatōketā, tokotaha fakasōsiale, pe kautaha tokoni ʻo e kuonga ke ʻiloa ʻa e ngaahi filifili. Ke fakamatala ki he tokoni ʻi he feituʻu, vakai ki he ngaahi fakamatala ʻi he [tokoni ʻi he fale](/caregiving/choosing-in-home-dementia-care/) mo e [moʻui mokai ʻi he dementia](/caregiving/living-alone-with-dementia/).
+Toe vakai ʻa e palani ʻi he taimi ʻoku kole ai ʻa e tokotaha ki ha tokoni kehe, ʻi he taimi ʻoku faingataʻa ai ha founga usu, pe ʻi he taimi ʻoku ʻikai lava ai ke kau ha tokoni ʻi he feituʻu. Fehuʻi ki he ngaahi meʻa ʻoku fie tauhi ke fai ʻe he tokotaha mo e ngāue ʻoku fiemaʻu ke tokanga ki ai he taimi ni. ʻE lava ke tokoni ʻa e tokotaha fakatōketā, tokotaha fakasōsiale, pe kautaha tokoni ʻi he feituʻu ke ʻiloa ʻa e ngaahi filifili. Ke fakamatala ki he tokoni ʻi he feituʻu, vakai ki he ngaahi fakamatala ʻi he [tokoni ʻi he fale](/caregiving/choosing-in-home-dementia-care/) mo e [moʻui taha ʻi he dementia](/caregiving/living-alone-with-dementia/).
 
 Fakapapau ʻoku ʻi ai ha taha ʻi he feituʻu ʻe lava ke tali ʻi he fakalilifu fakavave. Ko e [talanoa ki he teuteu ʻi he fakalilifu](/caregiving/emergency-planning-dementia/) ʻe lava ke tokoni ki he tokotaha mo e kau tokoni kuo fili ʻe ia ke nau tohi ʻa e ngaahi fetuʻutaki mo e palani muʻa. Ki he ngaahi fekauʻaki ʻo e ko hai ʻe fai ʻa e ngāue, vakai ki he [talanoa ʻa e fāmili ki he ngaahi fatongia ʻo e tokanga](/caregiving/family-disagreements-about-dementia-care/).
 

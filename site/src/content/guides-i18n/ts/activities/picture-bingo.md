@@ -1,7 +1,7 @@
 ---
 title: "Bingo ya Swifanekiso eka Vanhu lavakulu lava nga ni Dementia"
 seoTitle: "Bingo ya Swifanekiso eka Vanhu lava nga ni Dementia"
-description: "Bingo ya swifanekiso eka vanhu lava nga ni dementia, leyi printiweke kumbe eskirini: swifanekiso leswikulu, muvitani wo olova, ni switsundzuxo swa swiqu ni tindhawu ta vanhu."
+description: "Bingo ya swifanekiso eka vanhu lava nga ni dementia, leyi printiweke kumbe eskirini: swifanekiso leswikulu, muvitani wo olova ni ku nga ri ku hlula."
 section: activities
 order: 24
 updated: 2026-11-08
@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Tirhisa swifanekiso ku tlula tinomboro, kutani swifanekiso ngopfu swi va swikulu, swi vonakala kahle, swi ri ni nchumu wun'we wo tivekaka."
   - "Vitana kahle, komba xifanekiso kutani u vula vito ra xona. Phinda rito kan'we, u yima."
-  - "Hlayisa swiqu swa vanhu va 4 ku ya eka 8, u veka munhu laha a vonaka muvitani ni karata yakwe."
+  - "Hlayisa swiqu swa vanhu va mune ku ya eka nhungu, u veka munhu laha a vonaka muvitani ni karata yakwe."
   - "Ku hlula ku nga lavekanga. Swiqu swin'wani swi nga hela hi vanhu hinkwavo va vitana xifanekiso xi tsakisaka."
   - "Vutisa u nga si vitana mphumelelisi. Van'wana va titwa va nga ri kahle hi mphakelo kumbe ku phahla mavoko, naswona leswo a swi vileli."
 faq:
@@ -48,11 +48,11 @@ U nga tirhisa tikhadi leti printiweke ku suka eka [mintirho ya mahala leyi print
 
 ## Ku lunghiselela nkarhi
 
-- **Hlawula swiqu leswitsongo.** Vanhu va 4 ku ya eka 8 i xiyimo lexinene. Swiqu leswikulu swi olovela ku landzelela naswona swi nga titwisa ku hatlisiwa.
+- **Hlawula swiqu leswitsongo.** Vanhu va mune ku ya eka nhungu i xiyimo lexinene. Swiqu leswikulu swi olovela ku landzelela naswona swi nga titwisa ku hatlisiwa.
 - **Endla swifanekiso leswikulu.** Tirhisa mikuku leyi tiyeke ni xilo xin'we lexi tivekaka eka xiyenge xin'wana ni xin'wana. Papalata tikhadi leti nga ni swilo swo tala.
 - **Veka vanhu hi ndlela leyinene.** Veka munhu ndzhawu leyi a vonaka muvitani ni karata ya yena, naswona kusuhi ni mupfuni loko a lava mpfuno.
 - **Tirhisa swihloki swa ku olova.** Tichipi ta nkoka, tikhoyini kumbe ku tlhaya munwe swi tirha ku tlula penchiri. Hlayisa swin'wani swa nkarhi.
-- **Lunghiselela nkarhi wo koma.** Miniti ya 30 yi ri ya kwalomu. Yima hi nkarhi loko matimba ma nga ha ri ya munhu.
+- **Lunghiselela nkarhi wo koma.** Miniti ya makume manharhu yi ri ya kwalomu. Yima hi nkarhi loko matimba ma nga ha ri ya munhu.
 
 [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) yi kombisa ku olovisa mintirho ku ya hi leswi munhu a nga ha swi endlaka, kutani olovisa tikhadi ni milawu loko swi pfuna.
 

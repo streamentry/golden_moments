@@ -1,7 +1,7 @@
 ---
 title: "Mintlawu ya ku Hetisa Rito eka Vanhu lavakulu lava nga ni Dementia"
 seoTitle: "Mintlawu ya ku Hetisa Rito eka Vanhu lava nga ni Dementia"
-description: "Mintlawu ya ku hetisa rito ni swiphiqo swa tindzimu eka vanhu lava nga ni dementia: ku tsakela hi marito lama tivekaka, swihlawulekisa, ku nga ri swiviko ni ku tshinya leswi nga hetisiwangiki."
+description: "Mintlawu ya ku hetisa rito eka vanhu lava nga ni dementia: marito lama tivekaka, swihlawulekisa, ku nga ri swiviko, ni ku tsakela hi ku olova."
 section: activities
 order: 23
 updated: 2026-11-08
@@ -13,7 +13,7 @@ keyPoints:
   - "Vulavula xiphemu xo sungula hi ku olova, u yima, u tshama u languta. Ku nga ri ku hetisa rito hi ku hatlisa, ku nga ri ku vutisa."
   - "Teka mpendulo yin'wani ni yin'wani tanihi sungulo ra vulavulo. Vula 'Hi rito leri lahleke' kutani u vulavula hi rona, ku nga ri ku n'wi lulamisa."
   - "Marito ya tindzimu a ma nga ni nkoka. Hlayisa marito lama olovaka ni lama tivekaka eka vanhu lava nga endzhaku ka nkarhi lowu lowu."
-  - "Yima loko munhu a lahlekeriwa hi ntsako. Miniti ya 5 ku ya eka 10 ya marito i ntlawu wo hetiseka."
+  - "Yima loko munhu a lahlekeriwa hi ntsako. Miniti ya ntlhanu ku ya eka khume ya marito i ntlawu wo hetiseka."
 faq:
   - q: "Mintlawu ya ku hetisa rito eka dementia yi wu ri yini?"
     a: "I ntlawu lowu hlayaka rito leri tivekaka ku ya eka rito ra makumu, kutani wu kombela munhu a hetisa. Vanhu va nga hetisa makumu hi rito, va kombisa leyi hlawuleke, kumbe va tsakela ku yingisa rito. Golden Moments yi nyika ntlawu wo nga riki na mbhoyi lowu kombisaka swihlawulekisa eskirini naswona wu humesa makumu hi ndlela yo olova."

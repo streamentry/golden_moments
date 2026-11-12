@@ -1,13 +1,13 @@
 ---
 title: "Mintlawu ya Swivutiso ni Vulavulo eka Vanhu lava nga ni Dementia"
 seoTitle: "Swivutiso 20 ni Mintlawu ya Vulavulo eka Dementia"
-description: "Mintlawu ya swivutiso swa 20 ni vulavulo eka vanhu lava nga ni dementia, leyi lulamisiweke leswaku munhu a va mutivi, a ku nga ri ni mphunga, nkarhi kumbe mibvunzo."
+description: "Mintlawu ya swivutiso swa makume mambirhi ni vulavulo eka vanhu lava nga ni dementia, leyi lulamisiweke leswaku munhu a va mutivi, a ku nga ri ni mphunga."
 section: activities
 order: 29
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Swivutiso swa 20 swi nga va ntlawu wo olova ni wo tsakisa loko munhu i yena a tivaka mhaka. U nga ehenhla ka mhaka, u vutisa swivutiso swa ina kumbe e-e, kutani a ku riki na munhu la nga ta ximbirhiwa. Mintlawu yin'wani, ku fana na "Leyi kumbe leyi" ni "U ta hlawula yini?", yi tirha hi ndlela yo fana: yi humesa mavonelo ni timhaka, ku nga ri swiviko. Hlayisa tinkarhi ti ri timpfutshana, nyika munhu ku tshika, kutani u nga tali mintirho.
+  Swivutiso swa makume mambirhi swi nga va ntlawu wo olova ni wo tsakisa loko munhu i yena a tivaka mhaka. U nga ehenhla ka mhaka, u vutisa swivutiso swa ina kumbe e-e, kutani a ku riki na munhu la nga ta ximbirhiwa. Mintlawu yin'wani, ku fana na "Leyi kumbe leyi" ni "U ta hlawula yini?", yi tirha hi ndlela yo fana: yi humesa mavonelo ni timhaka, ku nga ri swiviko. Hlayisa tinkarhi ti ri timpfutshana, nyika munhu ku tshika, kutani u nga tali mintirho.
 keyPoints:
   - "Nyika munhu a anakanya xilo kumbe xiharhi, leswaku a va mutivi. U ri wena u vutisa, kutani yena a hlamula hi ina kumbe e-e."
   - "Nyika ku tshika, xikombiso kumbe nkombiso wa tandza. Ku nga ri ku hlayisa mphunga kumbe ku nga ri ku tala swivutiso leswi tekeke."
@@ -15,9 +15,9 @@ keyPoints:
   - "Swivutiso swa mavonelo, ku fana na 'U ta hlawula yini...?' kumbe 'Ku tsakisa swinene i yini?', a swi na mpendulo lowu nga riki lowu hoxeke."
   - "Hetisa loko munhu a lahlekeriwa hi ntsako. Tinkhomu ta mune kumbe ntlhanu swi lava."
 faq:
-  - q: "Mintlawu ya swivutiso swa 20 yi nga ri yahi eka vanhu lava nga ni dementia?"
+  - q: "Mintlawu ya swivutiso swa makume mambirhi yi nga ri yahi eka vanhu lava nga ni dementia?"
     a: "Yi nga va yahi loko munhu i yena a anakanyaka mhaka kutani ku nga ri ni munhu la nga ta ximbirhiwa. Loko yi endliwa tanihi xivutiso xa swiviko, kutani mutirhi a khumba ntsena mhaka leyi munhu a fanelaka ku yi tsundzuka, yi nga endla munhu a titwa a ri ehansi ka ximbirhi. Hlayisa milawu yi ri olova ni yi nga ni tintswa."
-  - q: "Munhu a nga anakanya yini eka mintlawu ya swivutiso swa 20?"
+  - q: "Munhu a nga anakanya yini eka mintlawu ya swivutiso swa makume mambirhi?"
     a: "Swilo leswi olovaka i swona leswi tirhaka kahle: mihandzu, xiharhi, xitirho, muhlovo wa mimbatsi, xihlalo, kumbe ndhawu leyi a yi tivaka kahle. Papalata swilo leswi nga ni mavonelo lama nga ni vuxisa, swivandla va vanhu, ni swilo leswi nga ta vavisa."
   - q: "Loko munhu a nga koti ku hlamula ya ina kumbe e-e, ndzi endla yini?"
     a: "Tirhisa swikombiso, ku tlhabela xandla enyimpfin'wini kumbe ehansi, kumbe ku komba karata leyi nga ni xifaniso. U nga endla swikhangelo ehenhla ni ku n'wi nyika ku hlamula hi ku hlaya, ku tsaka kumbe hi rito rin'wani."
@@ -41,7 +41,7 @@ related: [activities/trivia, activities/reminiscence-questions, activities/finis
 health: false
 ---
 
-Vanhu vo tala va lava ntlawu wo tsakela lowu nga ni vulavulo, ku nga ri swivutiso. Swivutiso swa 20 ni mintlawu yin'wani ya ku anakanya yi nga tirha kahle, hikuva milawu ya yona yi olova naswona vulavulo byi nga ya kwihi ni kwihi. Xihoxo i ku cinca swikarhi: munhu i yena a anakanyaka mpendulo, kutani wena u vutisa. Ndzima leyi yi kombisa ndlela yo endla mintlawu leyi hi ku olova, ni mintlawu ya vulavulo leyi fanelaka vanhu lava nga ni dementia.
+Vanhu vo tala va lava ntlawu wo tsakela lowu nga ni vulavulo, ku nga ri swivutiso. Swivutiso swa makume mambirhi ni mintlawu yin'wani ya ku anakanya yi nga tirha kahle, hikuva milawu ya yona yi olova naswona vulavulo byi nga ya kwihi ni kwihi. Xihoxo i ku cinca swikarhi: munhu i yena a anakanyaka mpendulo, kutani wena u vutisa. Ndzima leyi yi kombisa ndlela yo endla mintlawu leyi hi ku olova, ni mintlawu ya vulavulo leyi fanelaka vanhu lava nga ni dementia.
 
 ## Ku tlhela ku cinca milawu ya tlhelo?
 

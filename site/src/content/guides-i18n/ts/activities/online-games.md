@@ -1,7 +1,7 @@
 ---
 title: "Mintlawu ya Online ya Mahala eka Vanhu lava nga ni Dementia, a ku Lavisiwi ku Download"
 seoTitle: "Mintlawu ya Online ya Mahala eka Dementia"
-description: "Mintlawu ya online ya mahala eka vanhu lava nga ni dementia leyi pfulaka eka browser, handle ka app kumbe akhawunti: ku hlanganisa swifanekiso, ku hlela ni puzzle, ni tipfuno."
+description: "Mintlawu ya online ya mahala eka vanhu lava nga ni dementia, leyi pfulaka eka browser handle ka app kumbe akhawunti: swifanekiso, puzzle ni ku phefeka."
 section: activities
 order: 22
 updated: 2026-11-08
@@ -74,7 +74,7 @@ Mintirho ya ku tsundzuka swivulavulo, ku penta ni bingo ya swifanekiso swi vonak
 2. **Tirhisa skirini leyikulu.** Thebulete eka stand kumbe komputara leyi nga ni browser leyi kulisiweke i leyi olovaka ku languta ni ku khoma.
 3. **Pfala mapeji yin'wani u pfala switsundzuxo.** Swikhandlo swa xiviki swi endla ku chava, kutani swi nga herisa nkarhi wo tsakisa.
 4. **Tshama ehansi ka munhu, ku nga ri ehenhla ka yena.** Ku languta swin'we swi fana ni ku va na vanhu, ku nga ri ku vitaniwa.
-5. **Sungula hi ntlawu wun'we miniti ya 5 ku ya eka 10.** Nyika munhu a khoma skirini kumbe a komba, kutani mu hlawula swin'we.
+5. **Sungula hi ntlawu wun'we miniti ya ntlhanu ku ya eka khume.** Nyika munhu a khoma skirini kumbe a komba, kutani mu hlawula swin'we.
 6. **Hetisa hi ntsako.** Hetisa ntlawu, kutani vulavula hi xifanekiso xin'we kumbe nyika xikopo xa tiyi.
 
 ## Vununu ni ku sirhelela eka switirhisiwa swa swin'we

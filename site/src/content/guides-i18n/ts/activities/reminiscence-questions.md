@@ -1,7 +1,7 @@
 ---
 title: "Swivutiso swa Nkumbuko eka Vanhu lava nga ni Dementia, Swa Ku Pfula ni Ku Nga Riki Mphunga"
-seoTitle: "Swivutiso swa Nkumbuko eka Dementia: Ku Pfula, Ku Nga Riki Mphunga"
-description: "Swivutiso swa nkumbuko eka vanhu lava nga ni dementia hi swiyenge: swikombelo swo pfula hi kaya, ntirho, swakudya, mimbango ni tinkarhi ta lembe, ni marito lama hlayisaka rito ri tsakisa."
+seoTitle: "Swivutiso swa Nkumbuko eka Dementia: Ku Pfula"
+description: "Swivutiso swa nkumbuko eka vanhu lava nga ni dementia hi swiyenge: swikombelo swo pfula hi kaya, ntirho, swakudya, mimbango, tinkarhi ta lembe ni vanghana."
 section: activities
 order: 27
 updated: 2026-11-08
@@ -22,7 +22,7 @@ faq:
   - q: "Loko nkumbuko wa munhu wa khale wu nga ri ntiyiso, ndzi endla yini?"
     a: "Mu landzela nkumbuko lowu, handle ka loko wu vava kumbe wu khumba vutirhisi. U nga lulamisi tinhlayo kumbe mavito. Vutisa leswi a titwaka hi nchumu lowo kumbe leswi a swi vula eka yena."
   - q: "Nkarhi wa nkumbuko wu fanele ku va ni nkarhi wo tala wihi?"
-    a: "Miniti ya 10 ku ya eka 20 yi kwalomu, naswona swi nga va swi ri switsongo swinene. Yima loko munhu a karhala, a vavisiwa kumbe a nga ha tsakeli, kutani u kuma ndlela yin'wani yo hetisa nkarhi wa wena wa swin'we."
+    a: "Miniti ya khume ku ya eka makume mambirhi yi kwalomu, naswona swi nga va swi ri switsongo swinene. Yima loko munhu a karhala, a vavisiwa kumbe a nga ha tsakeli, kutani u kuma ndlela yin'wani yo hetisa nkarhi wa wena wa swin'we."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
