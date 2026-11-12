@@ -1,7 +1,7 @@
 ---
 title: "Apabila Seseorang yang Menghidap Demensia Curiga atau Menuduh Anda"
 seoTitle: "Demensia dan Syak Wasangka: Apa Penjaga Boleh Lakukan"
-description: "Bertindak balas dengan tenang apabila seseorang curiga tentang barang yang hilang, semak fakta, kekalkan rutin yang jelas dan dapatkan nasihat untuk perubahan baharu."
+description: "Bertindak balas dengan tenang apabila seseorang curiga tentang barang yang hilang, semak fakta, kekalkan rutin yang jelas dan dapatkan nasihat untuk perubahan baru."
 section: caregiving
 order: 34
 updated: 2026-11-11
