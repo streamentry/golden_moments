@@ -1,32 +1,28 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "ඩිමෙන්ශියා ඇති වැඩිහිටියන් සඳහා පහසු ට්‍රිවියා, කිසිදු පීඩනයකින් තොරව"
+seoTitle: "ඩිමෙන්ශියා ඇති වැඩිහිටියන් සඳහා ට්‍රිවියා ප්‍රශ්න, පිළිතුරු සහිතව"
+description: "ඩිමෙන්ශියා ඇති වැඩිහිටියන් සඳහා පිළිතුරු තේරීම් සහ කතාබස් කරන කරුණු සහිත පහසු ට්‍රිවියා ප්‍රශ්න 50ක්, සහ කිසිවෙකුට පරීක්ෂණයක් වගේ හෝ ඉවත් වූ බවක් නොදැනෙන ආකාරය."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  ඩිමෙන්ශියා ඇති වැඩිහිටියන් සඳහා ට්‍රිවියා ගැළපෙන්නේ එය පරීක්ෂණයක් නොව කතාබහක් වගේ දැනෙන විට පමණයි. දිගු කලකට පෙර ඉගෙන ගත් දේවල් ගැන අසන්න, උදාහරණ ලෙස පැරණි ගීත, කියමන්, උත්සව සහ දෛනික ජීවිතය, සෑම විටම තේරීම් දෙකක් හෝ තුනක් දෙන්න. පිළිතුර නිදහසේ කියා, කිසිවෙකු වෙන් කර නොගෙන, ලකුණු ඉවත් කර, සෑම පිළිතුරක් ම කථාවක් ආරම්භ කිරීමට භාවිත කරන්න. “මෙය හෝ එය” ප්‍රශ්න වැරදි පිළිතුරක් නැති නිසා පසු අවස්ථාවලට ගැළපේ.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "දිගු කලක් පැවති දේවල් ගැන අසන්න: ගීත, කියමන්, උත්සව, ආහාර සහ වසර ගණනකට පෙර දෛනික ජීවිතය."
+  - "පිළිතුර මතක් කරනවා වෙනුවට හඳුනා ගත හැකි වන පරිදි තේරීම් දෙක හෝ තුන දෙන්න."
+  - "පිළිතුර උණුසුමින් කියා ඉදිරියට යන්න. ආරම්භ කථාවක් වන ඕනෑම අනුමානයක් හොඳ අනුමානයකි."
+  - "ලකුණු නැත, කණ්ඩායම් තරඟ නැත, එක් අයෙකුට ඇමතීමක් නැත. පිළිතුරු මුළු කාමරයෙන් ම එන්න ඉඩ හරින්න."
+  - "පිළිතුරු තේරීම අමාරු වුවහොත්, නිවැරදි පිළිතුරක් නැති “මෙය හෝ එය” ප්‍රශ්න වෙත මාරු වන්න."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "ඩිමෙන්ශියා ඇති අයට ට්‍රිවියා හොඳ ක්‍රියාකාරකමක්ද?"
+    a: "එය මෘදු ලෙස පවත්වන්නේ නම් විය හැකියි. ඇල්සයිමර් පදනම (Alzheimer's Foundation of America) ට්‍රිවියා ආරම්භක අවස්ථාව සඳහා ක්‍රියාකාරකම් අතර ලැයිස්තු කරයි. දිගු කලක් පැවති මාතෘකා ගැන ප්‍රශ්න තබා ගන්න, තේරීම් දෙන්න, කිසි විටෙක එක් අයෙකු අමාරුවට පත් නොකරන්න, පිළිතුරු පරීක්ෂණයක් වෙනුවට කතාබහට මාර්ගයක් ලෙස සලකන්න."
+  - q: "ඩිමෙන්ශියා ට්‍රිවියාවට හොඳ ම මාතෘකා මොනවාද?"
+    a: "දිගු කලකට පෙර ඉගෙන ගත් දේවල් බොහෝ විට හොඳින් ක්‍රියා කරයි: තරුණ කාලයේ ජනප්‍රිය ගීත සහ ගායකයන්, පරිචිත කියමන්, උත්සව, ආහාර, ක්‍රීඩා සහ කිරි බෙදා දීම හෝ ගෘහස්ථ දුරකථන වැනි දෛනික ජීවිතය. මෑත ප්‍රවෘත්ති සහ එම සැසිය තුළ ම කලින් දෙයක් මතක තබා ගැනීම අවශ්‍ය දේවල් වළකින්න."
+  - q: "රැකබලා ගැනීමේ නිවාසයක කිසිවෙකුට ලජ්ජාවක් නොදැනෙන ලෙස ට්‍රිවියා පවත්වන්නේ කෙසේද?"
+    a: "සෑම ප්‍රශ්නයක් ම මුළු කණ්ඩායමට කියවා, තේරීම් පෙන්වන්න හෝ කියන්න, සියලු දෙනාගේ පිළිතුරු සාදරයෙන් පිළිගන්න. තනි තනිව ඇමතීමක් හෝ ලකුණු තබා ගැනීමක් නොකරන්න. අනුමාන කළ දේ ගැන කාරුණිකව සිනහවෙන් පිළිතුර කියා, “මෙහි කවුරුවත් කවදා හෝ ‘ඩ්‍රයිව්-ඉන්’ එකට ගියාද?” වැනි අනුගාමී ප්‍රශ්නයක් අසා කථා බවට හරවන්න."
+  - q: "පසු අවස්ථාවල ට්‍රිවියාවට වෙනුවට මා කළ හැක්කේ කුමක්ද?"
+    a: "වැරදි පිළිතුරක් නැති ප්‍රශ්න වෙත මාරු වන්න, උදාහරණ ලෙස “කෝපි ද තේ ද?” හෝ “වෙරළ ද කඳුකරය ද?”, සහ එකට පරිචිත කියමන් හෝ ගීත අවසන් කිරීමට. චිත්‍ර බලා ඒවා ගැන එකට විස්තර කිරීම ද හොඳින් ක්‍රියා කරයි."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +41,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+ට්‍රිවියා රැකබලා ගැනීමේ නිවාසවල සහ දින වැඩසටහන්වල වැඩිපුර ඉල්ලන කණ්ඩායම් ක්‍රියාකාරකම්වලින් එකක් වන අතර, බොහෝ පවුල් ද එය මේසය වටා සෙල්ලම් කරයි. සාමාන්‍ය ආකාරයට, ලකුණු සහ එක් අයෙකු පිළිතුරු දීමත් සමඟ, ඩිමෙන්ශියා ඇති අයෙකුට අමාරුවට පත් වූ හැඟීමක් ඇති කළ හැකියි. මෘදු ලෙස පවත්වන විට එය කථා අසන ජීවමාන ක්‍රමයක් වේ. පහතින් සෑම ප්‍රශ්නයක් සඳහාම පිළිතුරු තේරීම් සහ කතා කළ හැකි දෙයක් සහිත පහසු ප්‍රශ්න 50ක් ඇත, ඉන් පසු සැසියක් පවත්වන ආකාරය දක්වා ඇත.
 
-## How do you make trivia work for someone with dementia?
+## ඩිමෙන්ශියා ඇති අයෙකුට ට්‍රිවියාව ගැළපෙන්නේ කෙසේද?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+එය දිගු කාලීන දේවල් හඳුනා ගැනීම සහ මතක තබා ගැනීම ගැන කරන්න, සෑම පිළිතුරක් ම සාදරයෙන් පිළිගන්න.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **දුර අතීතය ගැන අසන්න.** [ඇල්සයිමර් සංගමය](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) පවසන පරිදි ඇල්සයිමර් රෝගයේ වඩාත් පොදු ආරම්භක රෝග ලක්ෂණය වන්නේ අලුතින් ඉගෙන ගත් තොරතුරු මතක තබා ගැනීමේ අපහසුතාවයයි. දශක ගණනකට පෙර ගීත, කියමන් සහ දෛනික ජීවිතය බොහෝ විට පහසු පදනමකි.
+2. **සෑම විටම තේරීම් දෙන්න.** දෙකෙන් හෝ තුනෙන් නිවැරදි පිළිතුර තෝරා ගැනීම, කිසිවක් නැතිව එය සිතා ගැනීමට වඩා පහසුය.
+3. **ප්‍රශ්න උස් හඬින් කියවා විශාලව පෙන්වන්න.** ගැටළු ඇති, ශ්‍රවණය අඩු අයට සුදු ලෑල්ලක් හෝ ටැබ්ලට් එකක් ඔසවා පෙන්වීම උදව් වේ.
+4. **පිළිතුර නිදහසේ දෙන්න.** කිසිවෙකුත් නොදන්නේ නම්, උණුසුමින් එය කියා ඉදිරියට යන්න. කවදාවත් “එන්න, ඔබ මේක දන්නවා” යැයි නොකියන්න.
+5. **ලකුණු නැත.** පුද්ගලයන්ට හෝ මේස වලට නොවේ. ජනතාව සංඛ්‍යාවක් ඉල්ලන්නේ නම්, එක් කණ්ඩායම් එකතුවක් පමණක් තබා ගන්න.
+6. **කිසි විටෙක එක් අයෙකුට ඇමතීම නොකරන්න.** පිළිතුරු ඕනෑම අයෙකුගෙන් ආවා ම ඒ සියල්ල පිළිගන්න. එක් එක් පුද්ගලයා සමඟ නම්, එකට පිළිතුර සොයන්න: “මම හිතන්නේ ඒ පියානෝවයි. ඔබ මොකද හිතන්නේ?”
+7. **කථා කිරීමේ කරුණ භාවිත කරන්න.** පිළිතුර ආරම්භයයි, අවසානය නොවේ. කථා තමයි සැබෑ ඉලක්කය.
+8. **කෙටි ව තබන්න.** කථා අතර ප්‍රශ්න දහයක් ප්‍රමාණවත්ය.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[ජාතික වයෝවෘද්ධ පර්යේෂණ ආයතනය](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) මූලික නීතිය සරලව කියයි: කලකිරීම සඳහා බලා සිටින්න, පුද්ගලයා සාර්ථක බවක් දැනෙන බව සහතික කරන්න. [ඇල්සයිමර් පදනම](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ට්‍රිවියාව ආරම්භක අවස්ථාව සඳහා ක්‍රියාකාරකම් අතර ලැයිස්තු කරයි. මධ්‍ය අවස්ථාවේ දී තේරීම් දෙකට සීමා වී කථා කරන කරුණු වෙත යොමු වන්න. පසුව, පහතින් ඇති “මෙය හෝ එය” ප්‍රශ්න වෙත මාරු වන්න.
 
-## Music and entertainment trivia
+## සංගීත සහ විනෝද ට්‍රිවියා
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+පිළිතුර **තද අකුරින්** ඇත. මේවා පුද්ගලයාට ගැළපෙන සේ සකසන්න: කුඩා කාලයේ මෝටවුන් සංගීතය අසා හැදුණු කෙනෙකුට, මහා කණ්ඩායම් සංගීතය අසා හැදුණු කෙනෙකුට වඩා වෙනස් ගායකයන් අවශ්‍ය වේ.
 
-| Question | Choices | Talk about |
+| ප්‍රශ්නය | තේරීම් | කතා කරන්න |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| රොක් ඇන්ඩ් රෝල්හි රජු ලෙස කව්ද හැඳින්වුණේ? | **Elvis Presley**, Frank Sinatra, Bing Crosby | ඔබ කවදා හෝ ටීවී එකේ Elvis දැක තිබේද? |
+| Ol' Blue Eyes යන අන්වර්ථ නාමයෙන් කව් ගායකයා හැඳින්වුණේ? | Dean Martin, **Frank Sinatra**, Perry Como | Sinatra ගේ කුමන ගීතය ඔබට වඩාත් ප්‍රිය ද? |
+| Bing Crosby සුදු ක්‍රිස්මස් ගැන සිහින මැව්වේ... | **ක්‍රිස්මස්**, විවාහය, නිවස | එකට ගීතයේ පේළියක් ගායනා කරන්න |
+| Louis Armstrong ගායනා කළේ “What a Wonderful...” යනුවෙනි | Day, **World**, Life | ඔබට ලෝකය විශිෂ්ට වන්නේ කුමක් නිසා ද? |
+| Judy Garland “Over the Rainbow” ගායනා කළ චිත්‍රපටය කුමක්ද? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | ඔබට ප්‍රිය චිත්‍රපට ඔබ කොහේ දැක තිබේද? |
+| “I Love Lucy” හි Lucy ලෙස රඟපෑවේ කව්ද? | **Lucille Ball**, Doris Day, Betty White | ඔබේ පවුල එකට බැලූ වැඩසටහන් මොනවාද? |
+| Trigger නම් අශ්වයා පැදි කව් බෝයා කව්ද? | **Roy Rogers**, Gene Autry, John Wayne | ඔබ කුඩා කාලයේ බෝයා ක්‍රීඩා කළාද? |
+| වසර 30ක් “The Tonight Show” සංවිධානය කළේ කව්ද? | Ed Sullivan, **Johnny Carson**, Bob Hope | රාත්‍රියේ ටීවී බැලීමට ඔබ අවදියෙන් සිටියාද? |
+| යතුරු 88ක් ඇති උපකරණය කුමක්ද? | ගිටාරය, **පියානෝව**, තුරුම්පේට්ටම | ඔබේ පවුලේ කවුරුහරි වාදනය කළාද? |
+| එක-දෙක-තුන, එක-දෙක-තුන යනුවෙන් ගණන් කරන නර්තනය කුමක්ද? | **වෝල්ට්ස්**, ට්විස්ට්, ටැංගෝ | ඔබ නැටීමට ගියේ කොහේද? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+සංගීතය ගැන වැඩි විස්තර සඳහා, [ඩිමෙන්ශියාව සඳහා සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
 
-## Everyday life trivia
+## දෛනික ජීවිත ට්‍රිවියා
 
-| Question | Choices | Talk about |
+| ප්‍රශ්නය | තේරීම් | කතා කරන්න |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| ශීතකරණ එන්නට පෙර, බොහෝ ගෙවල්වල ආහාර සිසිලින් තැබුවේ... | **අයිස් පෙට්ටියක**, උඳුනක, ඇට්ටික එකක | අයිස් ගෙනාවේ කව්ද? |
+| වීදුරු බෝතල්වලින් කිරි දොරට ගෙනාවේ කව්ද? | තැපැල්කරුවා, **කිරි බෙදන්නා**, පුවත්පත් බෙදන්නා | ගෙදරට තවත් මොනවා බෙදා ගෙනාවාද? |
+| කරකවන දුරකථනයක අංක ඇමතුවේ කෙසේද? | බොත්තම් ඔබා, **රෝදයක් කරකවා**, එයට කතා කර | ඔබේ ගෙදර තිබූ දුරකථනය ගැන කියන්න |
+| Model T කාර් නිෂ්පාදනය කළේ කුමන සමාගමද? | **Ford**, Chevrolet, Buick | ඔබ කැමති වූ කාරය ගැන කියන්න |
+| soda jerk කෙනෙක් සොයා ගත හැක්කේ කොහේද? | **සෝඩා ෆවුන්ටේන්**, බේකරියක්, බැංකුවක් | කවුන්ටරයේ දී ඔබ මොනවා ඇණවුම් කළාද? |
+| පඩිපෙළෙන් පහළට ඇවිදිය හැකි ලෝහ දිය ඇඳි වස්තුව කුමක්ද? | යෝ-යෝව, **Slinky**, හූලා හූප් | ඔබ ආදරය කළ සෙල්ලම් බඩු මොනවාද? |
+| ඩ්‍රයිව්-ඉන් යනු බැලීමට තැනක් වූයේ... | **කාරයෙන් චිත්‍රපට**, බෝල ක්‍රීඩා, පෙරහැර | ඔබ කාගේ සමඟ ගියාද? |
+| එක්-ඩොලර් නෝට්ටුවේ මුහුණ කාගේද? | Lincoln, **George Washington**, Jefferson | ඒ කාලයේ ඩොලරයකට මොනවා ගත හැකි වූයේද? |
+| පැනි නයේ මුහුණ කාගේද? | **Abraham Lincoln**, Washington, Franklin | ඒ කාලයේ පැනි බඳුනක ඉතිරි කළාද? |
+| පාසල් බසය සාමාන්‍යයෙන් කුමන වර්ණයද? | රතු, **කහ**, නිල් | ඔබ පාසලට ගියේ කෙසේද? |
 
-## Holidays, nature and places
+## උත්සව, ස්වභාවය සහ ස්ථාන
 
-| Question | Choices | Talk about |
+| ප්‍රශ්නය | තේරීම් | කතා කරන්න |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| නොවැම්බර් මාසයේ සිව්වන බ්‍රහස්පතින්දා ඇති උත්සවය කුමක්ද? | Labor Day, **Thanksgiving**, Memorial Day | ඔබේ මේසයේ සැමවිටම තිබුණේ කුමක්ද? |
+| Jack-o'-lanterns සාදන්නේ කුමන උත්සවය සඳහාද? | **Halloween**, Easter, Christmas | ඔබ හැදුණු ස්ථානයේ Halloween ගැන කියන්න |
+| ජූලි 4 වන දින සමරන්නේ ස්වාධීනත්ව ප්‍රකාශනය... | අයිතිවාසිකම්, **ස්වාධීනත්වය**, නිදහස | ගිනි වෙඩි බැලුවේ කොහේද? |
+| මැයි මාසයේ දින ඇති මව් දිනය කුමන මාසයේද? | අප්‍රේල්, **මැයි**, ජූනි | ඔබේ පවුල එය සමරුවේ කෙසේද? |
+| ඇමරිකානු ධජයේ තරු කීයක් තිබේද? | 48, **50**, 52 | ධජයේ 1959 වර්ෂය දක්වා තරු 48ක් තිබුණි. දෙකම හොඳ මතකයකි |
+| නැගෙනහිර වෙරළේ ඇති සාගරය කුමක්ද? | පැසිෆික්, **අත්ලාන්තික්**, ආක්ටික් | ඔබ කවදා හෝ වෙරළට ගියාද? |
+| නිදහස් ප්‍රතිමාව පිහිටා ඇත්තේ කුමන නගරයේද? | බොස්ටන්, **නිව් යෝර්ක්**, ෆිලඩෙල්ෆියා | ඔබ නිව් යෝර්ක් ගියාද? |
+| මීමැස්සන් නිපදවන්නේ කුමක්ද? | කිරි, **මී පැණි**, සේද | පාන් කෑල්ලක හෝ තේ එකක මී පැණි ද? |
+| බල්ලා පැටවා නම් වන්නේ... | ඇතා පැටවා, **වැස්සා**, එළුවා | ඔබ කවදා හෝ ගොවිපොළක් අසල ජීවත් වුණාද? |
+| හරිත ගෙවත්තේ හරහා හරිනු ලබන... | රෝස, **සූර්යකාන්තිය**, ලෙල්ලා | ඔබේ ගෙවත්තේ මොනවා වැඩුණාද? |
+| අධිවර්ෂයක දින කීයක් තිබේද? | 365, **366**, 360 | ඔබ මතක තබා ගත් උපන්දිනයක් ගැන කියන්න |
+| ශීත ඍතුවට පසු කුමන ඍතුව එයිද? | සරත්, **වසන්ත**, ගිම්හාන | ඔබට ප්‍රියම ඍතුව කුමක්ද? |
 
-## Food and sports trivia
+## ආහාර සහ ක්‍රීඩා ට්‍රිවියා
 
-| Question | Choices | Talk about |
+| ප්‍රශ්නය | තේරීම් | කතා කරන්න |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| මිදි වියළූ... | ඇඹුල් ගෙඩි, **මිදි**, චෙරි | ඔබ දරුවන්ගේ බත් පෙට්ටි වලට මිදි දැම්මාද? |
+| දෙහි... වියළූ ගෙඩි | දෙහි, **ප්‍රූන්**, ඇපල් | ඔබේ පවුලේ කවුරු ප්‍රූන් ගෝනුවාද? |
+| පීනට් බටර් සහ... | **ජෑලි**, චීස්, හැම් | ක්‍රන්චි ද මෘදු ද? |
+| ග්වාකමොලේ ප්‍රධාන වශයෙන් සාදන්නේ... | පීස්, **අලිගැට පියර්**, පිපිඤ්ඤා | සාදයන්හි ගෙනාවේ කුමන ඩිප් ද? |
+| Thanksgiving කාලයේ ප්‍රියතම පයි වර්ගය කුමක්ද? | **Pumpkin**, lemon, cherry | ඔබ සාදපු පයි එක කුමක්ද? |
+| බේස්බෝල් කණ්ඩායමක ක්ෂේත්‍රයේ සිටින ක්‍රීඩකයන් කී දෙනෙක් ද? | 7, **9**, 11 | ඔබ කුමන කණ්ඩායම ප්‍රිය කළාද? |
+| බේස්බෝලයේ එක් පිටවීමක් ලබා ගැනීමට තිබිය යුතු වැරදි කීයක් ද? | දෙකක්, **තුනක්**, හතරක් | ඔබ කවදා හෝ බෝලයක් සෙල්ලම් කළාද? |
+| බේබ් රූත් ප්‍රසිද්ධ වූයේ කුමන ක්‍රීඩාවෙන්ද? | බොක්සිං, **බේස්බෝල්**, ගෝල්ෆ් | ඔබ බෝල තරග බැලීමට ගියාද? |
+| සාමාන්‍ය ගෝල්ෆ් පිටියක කුඩා වළවල් කීයක් තිබේද? | 9, **18**, 24 | ඔබ කවදා හෝ ගෝල්ෆ් හෝ මිනි ගෝල්ෆ් ක්‍රීඩා කළාද? |
+| ටච්ඩවුන් ලබා ගන්නේ කුමන ක්‍රීඩාවෙන්ද? | **පාපන්දු**, හොකී, වැලිපන්දු | ඔබේ ගෙදර පාපන්දු බැලුවේ කවුද? |
 
-## Familiar sayings
+## පරිචිත කියමන්
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+කියමනක් අවසන් කිරීම දිගු කලකට පෙර ඉගෙන ගත් භාෂාවෙන් උපදින අතර බොහෝ විට පහසුවෙන් එයි. අපේ [කියමන අවසන් කරන්න](/games/finish-the-saying/) ක්‍රීඩාවේ තවත් බොහෝ ඒවා ඇති අතර, ඕනෑම අවසානයක් පෙන්වීමට තට්ටු කළ හැකියි.
 
-| Saying | Choices | Talk about |
+| කියමන | තේරීම් | කතා කරන්න |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| දිනකට එක ඇපල් එකක් ... වෛද්‍යවරයා දුරු කරයි | **දුරු කරයි**, වැස්ස දුරු කරයි, බළලා දුරු කරයි | මේක ඔබට කවුද කීවේ? |
+| උදේ කුරුල්ලා ... ඇල්ලේ | බස්සා, **පණුවා**, දුම්රියා | ඔබ උදෑසන පිබිදෙන කෙනෙක්ද? |
+| කුකුළන් ගණන් කරන්න කලින්, ඒවා ... | **පැටව් වෙන්නේ**, නිදාගන්නේ, ගායනා කරන්නේ | ඔබේ පවුල කුකුළන් තබාගත්තාද? |
+| පැරණි ඉතිරි කිරීම, අනාගත ... | **උපයන්නා**, නැති වුණා, වියදම් කළා | ඔබේ පවුලේ ඉතිරි කරන්නා කවුද? |
+| ගෙදර යනු ... ස්ථානයයි | උයන, **හදවත**, මුළුතැන්ගෙය | ස්ථානයක් ගෙදරක් වගේ දැනෙන්නේ මොකක් නිසාද? |
+| නැති වෙලාවට ... නොවේ | කලින්, **කවදාවත්**, කණගාටුයි | සැමවිටම ප්‍රමාද වුණේ කවුද? |
+| වලාකුළක සෑම ... රිදී ආලෝකයක් | **දාරය**, හැන්ද, කාසියක් | ඔබට වාසනාව ලැබුණු අවස්ථාවක් ගැන කියන්න |
+| ක්‍රියාවන් ... ඉහළින් කතා කරයි | **වචන**, සංගීතය, ගිගුරුම | ඒ බව කී කෙනෙක් ගැන කියන්න |
 
-## This-or-that questions with no wrong answer
+## “මෙය හෝ එය” ප්‍රශ්න, නිවැරදි පිළිතුරක් නැති
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+මේවා සියලු අවස්ථාවලට ගැළපේ, පසු අවස්ථාවලද ඇතුළුව, මන්ද හරි වැරදි කිසිවක් නැති නිසා. අසන්න, සවන් දෙන්න, ඔබේ පිළිතුරත් බෙදා ගන්න.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- කෝපි ද තේ ද?
+- වෙරළ ද කඳුකරය ද?
+- බල්ලන් ද බළලුන් ද?
+- ගිම්හානය ද ශීත ඍතුව ද?
+- පයි ද කේක් ද?
+- නැටීම ද බැලීම ද?
+- හිරු උදාව ද හිරු බැසීම ද?
+- ඉස්තෝප්පුව ද ගෙවත්ත ද?
+- ගුවන් විදුලිය ද ග්‍රැමෆෝන් තැටි ද?
+- පෑන්කේක් ද බිත්තර ද?
+- රෝස ද මල් ද?
+- දුම්රිය ගමන ද මාර්ග ගමන ද?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+පින්තූර සමඟ යා හැකි කතාබස් ප්‍රශ්න සඳහා, අපේ මුද්‍රණය කළ හැකි [සංවාද කාඩ්පත්](/games/conversation-cards/) උත්සාහ කරන්න.
 
-## How do you run a trivia session in a care home or group?
+## රැකබලා ගැනීමේ නිවාසයක හෝ කණ්ඩායමක ට්‍රිවියා සැසියක් පවත්වන්නේ කෙසේද?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **අසන්නට සහ බලන්නට හැකි ලෙස අසුන් ගන්වන්න.** ශ්‍රවණ උපකරණ දමා, කණ්ණාඩි පැළඳ, රූපවාහිනිය නවත්වන්න.
+2. **එය කතාබහක් ලෙස හඳුන්වන්න.** “පැරණි කාලය ගැන මම ඇසීමට ප්‍රශ්න ඇත, ඔබ මට වඩා බොහෝ දේ දන්නවා ඇති.”
+3. **සෑම ප්‍රශ්නයක් ම දෙවරක් කියවා, තේරීම් විශාලව පෙන්වන්න.**
+4. **කාමරයේ ඕනෑ ම තැනකින් ලැබෙන පිළිතුරු සාදරයෙන් පිළිගන්න.** හොඳ පිළිතුරු නැවත කියා, සියලු දෙනාට ඒවා ඇසෙන්නට සලස්වන්න.
+5. **සියලු දෙනා වෙනුවෙන් පිළිතුර කියන්න,** ඉන් පසු කථා කිරීමේ කරුණ කාමරයට අසන්න.
+6. **ශක්තිය අනුගමනය කරන්න.** එක් ප්‍රශ්නයක් විනාඩි දහයක කථා ආරම්භ කළොත්, ඒ ඉඩ දෙන්න.
+7. **ගීතයක් හෝ “මෙය හෝ එය” වටයක් සමඟ අවසන් කරන්න,** එවිට සියලු දෙනාම පහසු දෙයකින් නිම කරයි.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+ගීත සහ චිත්‍ර බින්ගෝ ඇතුළු අනෙකුත් කණ්ඩායම් ආකෘති සඳහා, [රැකබලා ගැනීමේ නිවාස සඳහා කණ්ඩායම් ක්‍රියාකාරකම්](/activities/care-home-groups/) බලන්න.
 
-## When to change the plan
+## සැලැස්ම වෙනස් කළ යුතු වන විට
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+කෙනෙක් කනස්සල්ලට පත් වී පෙනුණොත්, නිශ්ශබ්ද වුණොත් හෝ එක් වරකට වැඩි වාරයක් “මම දන්නේ නැහැ” කිව්වොත්, එය පහසු කරන්න: තේරීම් දෙකකට අඩු කරන්න, එකට පිළිතුරු දෙන්න, හෝ “මෙය හෝ එය” ප්‍රශ්න වෙත මාරු වන්න. කණ්ඩායම ම සියලු දහවල් කාලය එක් ප්‍රශ්නයක් ගැන කථා කිරීමට කැමති නම්, එය සාර්ථකත්වයකි. ඉලක්කය කිසි විටෙක නිවැරදි පිළිතුරු නොවීය. එය හොඳ සහවාසයේ කාලය විය.
