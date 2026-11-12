@@ -77,7 +77,7 @@ Shuqullada la isku raacay ku qor liis ama kalendar la wadaago. Ku qor cidda mas'
 
 Ku noqo waxa la og yahay, doonista qofka iyo su'aasha weli furan. Ma dhici karto in hal kulan wax walba la xaliyo. Ku heshii tallaabo ammaan ah oo hadda aqbali karta, kadibna waqti u qabso in dib loo eego go'aanka weyn.
 
-Haddii qaraabadu ku kala duwan yihiin guuritaanka, tallaabada hore ha ahaato in la soo ururiyo macluumaad, halkii cod ama diidmo lagu qaadan lahaa. Weydii waxa caawimo ka maqan guriga, waxa qofku doorbidi lahaa iyo ikhtiyaarada qoysku rabo inay baraan. Booqasho xarun daryeel ama wada hadal bixiye guriga ku shaqeeya ayaa macluumaad siin kara, iyada oo aan qofka go'aan lagu qasbin.
+Haddii qaraabadu ku kala duwan yihiin guuritaanka, tallaabada hore ha ahaato in la soo ururiyo macluumaad, halkii cod ama diidmo lagu qaadan lahaa. Weydii waxa caawimo ka maqan guriga, waxa qofku doorbidi lahaa iyo ikhtiyaarada qoysku rabo inay baraan. Booqasho xarun daryeel ama wada hadal bixiye guriga ku shaqeeya ayaa macluumaad siin kara, iyada oo aan qofka go'aan lagu qasbin. [Hagaha daryeelka xarunta](/caregiving/choosing-residential-dementia-care/) wuxuu leeyahay su'aalo lagu barbardhigo ikhtiyaarada.
 
 Haddii xiisadu sii socoto, weydii qof kale oo la aamini karo inuu caawiyo. Taasi waxay noqon kartaa dhakhtarka qofka, shaqaale bulsho, la-talin, dhexdhexaad ama hoggaamiye diini ah. Kooxda taageerada ayaa sidoo kale siin karta qaraabada meel ay kula hadli karaan dadka wax la mid ah ka soo martay. Talo xirfadeed ayaa muhiim ah gaar ahaan su'aalaha caafimaadka, sharciga ama lacagta.
 
