@@ -102,7 +102,7 @@ Jika orang itu mahukan bantuan untuk perbualan, tanya apa yang dia mahu anda kat
 
 ## Bagaimana kehidupan harian boleh diteruskan semasa kita menyesuaikan diri?
 
-Kekalkan rutin dan aktiviti yang penting bagi orang itu di mana dia masih selesa. Diagnosis tidak bermakna setiap minat, hhari keluar atau peranan di rumah perlu dihentikan. Jika sesuatu menjadi lebih sukar, tanya apa yang orang itu mahu ubah. Lawatan yang lebih singkat, muzik yang biasa, bantuan untuk satu langkah atau waktu lain dalam sehari mungkin lebih sesuai untuknya.
+Kekalkan rutin dan aktiviti yang penting bagi orang itu di mana dia masih selesa. Diagnosis tidak bermakna setiap minat, hari keluar atau peranan di rumah perlu dihentikan. Jika sesuatu menjadi lebih sukar, tanya apa yang orang itu mahu ubah. Lawatan yang lebih singkat, muzik yang biasa, bantuan untuk satu langkah atau waktu lain dalam sehari mungkin lebih sesuai untuknya.
 
 Orang itu juga mungkin mahu ruang untuk memproses berita itu tanpa membincangkan rancangan. Teruskan bertanya khabar tanpa menjadikan setiap perbualan sebagai mesyuarat penjagaan. Tidak mengapa untuk berehat daripada merancang dan meluangkan masa bersama dengan cara yang biasa.
 
