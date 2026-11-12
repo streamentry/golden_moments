@@ -1,7 +1,7 @@
 ---
 title: "Perancangan Kecemasan bersama Demensia"
 seoTitle: "Pelan Kecemasan Demensia: Apa Perlu Disediakan"
-description: "Sediakan diri untuk ribut, kebakaran atau pemindahan bersama demensia: rancang hubungan, pengangkutan, ubat dan barang keselesaan, serta ikut nasihat kecemasan tempatan."
+description: "Sediakan diri untuk ribut, kebakaran atau pemindahan bersama demensia: rancang hubungan, pengangkutan, ubat dan barang keselesaan serta ikut arahan tempatan."
 section: caregiving
 order: 28
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Bercakap tentang Memandu dan Demensia"
 seoTitle: "Demensia dan Memandu: Mulakan Perbualan"
-description: "Mulakan perbualan yang tenang dan awal tentang memandu dan demensia. Rancang pilihan pengangkutan, catat kebimbangan tertentu dan libatkan profesional tempatan yang layak."
+description: "Mulakan perbualan yang tenang dan awal tentang memandu dan demensia. Rancang pilihan pengangkutan, catat kebimbangan khusus dan libatkan profesional tempatan."
 section: caregiving
 order: 19
 updated: 2026-11-11

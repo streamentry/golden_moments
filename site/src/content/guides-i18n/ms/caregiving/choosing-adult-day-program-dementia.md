@@ -1,7 +1,7 @@
 ---
 title: "Memilih Program Harian Dewasa untuk Demensia"
 seoTitle: "Jagaan Harian Dewasa untuk Demensia: Apa Patut Ditanya"
-description: "Bandingkan program harian dewasa untuk demensia mengikut aktiviti, kakitangan, sokongan, pengangkutan dan kesesuaian dengan kehendak orang itu. Tanya yuran dan peraturan kehadiran."
+description: "Bandingkan program harian dewasa untuk demensia mengikut aktiviti, kakitangan, sokongan dan pengangkutan. Tanya tentang yuran dan peraturan kehadiran."
 section: caregiving
 order: 27
 updated: 2026-11-11
