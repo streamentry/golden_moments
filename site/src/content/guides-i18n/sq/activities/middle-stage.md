@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktivitete për fazën e mesme të demencës"
+seoTitle: "Aktivitete për demencën e fazës së mesme: Ide të thjeshta"
+description: "Aktivitete të thjeshta për fazën e mesme të demencës: punë shtëpiake, muzikë, foto dhe lojëra të lehta, me hapa të qartë për përgatitjen."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Në fazën e mesme të demencës, aktivitetet më të mira janë të shkurtra, të
+  njohura dhe të ndara në hapa të vegjël: palosja e rrobave, ndarja e çorapeve,
+  larja e enëve, këndimi, shëtitjet e udhëhequra, albumet me foto dhe lojërat e
+  thjeshta me figura. Përgatitni gjithçka, tregoni hapin e parë, merrni përsipër
+  pjesët e vështira dhe i jepni aktivitetit një qëllim. Ndaloni kur të pushojë
+  së qeni i këndshëm.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Punët e njohura të shtëpisë shpesh funksionojnë më mirë, sepse ndihen të dobishme dhe si të rritura."
+  - "Tregoni më shumë sesa shpjegoni, ofroni një hap në të njëjtën kohë dhe jepni dy zgjedhje të thjeshta në vend të pyetjeve të hapura."
+  - "Merrni përsipër pjesën më të vështirë, që personi të bëjë pjesën që i jep kënaqësi."
+  - "Lëvizja e përsëritur shpesh do të thotë se personi ka nevojë për diçka për të bërë. Ofroni një aktivitet që i përshtatet, në vend që t'i thoni jo."
+  - "Të shikuarit, ndihma e vogël ose ndalimi i hershëm janë të gjitha në rregull."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Cilat aktivitete janë të mira për fazën e mesme të demencës?"
+    a: "Aktivitetet e shkurtra, të njohura dhe praktike zakonisht funksionojnë më mirë: palosja e peshqirëve, ndarja e çorapeve, larja e enëve, vendosja e tryezës, këndimi i këngëve të vjetra, shëtitjet e udhëhequra, shikimi i albumeve me foto dhe lojërat e thjeshta me figura. Ndajeni çdo aktivitet në hapa të vegjël dhe bëjeni bashkë."
+  - q: "Si e nis dikush me demencë një aktivitet?"
+    a: "Përgatitni gjithçka, pastaj filloni vetë aktivitetin dhe ftojeni personin të ndihmojë: „A mund të më ndihmoni me këto peshqir?“ Shumë njerëz duan të marrin pjesë, por u është e vështirë të nisin. Tregimi i hapit të parë zakonisht funksionon më mirë sesa shpjegimi."
+  - q: "Çfarë bëj kur e bën vazhdimisht të njëjtën gjë?"
+    a: "Përsëritja shpesh është e padëmshme dhe mund të tregojë se personi dëshiron të ndihet i zënë ose ka nevojë për siguri. Në vend që ta korrigjoni, ofroni një aktivitet që përshtatet me lëvizjen, si një shportë me leckë për t'i palosur ose një këngë për ta kënduar bashkë."
+  - q: "Çfarë nëse e bën aktivitetin gabim?"
+    a: "Nëse nuk është e dëmshme, lëreni. Peshqirët e palosur ndryshe ose lugët në vend të gabuar nuk kanë rëndësi. Korrigjimi mund të ndihet si kritikë, ndërsa kur e lini ta bëjë në mënyrën e vet, ndihet i aftë dhe i dobishëm."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Faza e mesme e demencës shpesh është më e gjata, dhe këtu aktivitetet fillojnë të kenë nevojë për mbështetje të vërtetë. Fjalët vijnë më ngadalë, hapat ngatërrohen dhe fillimi i çdo gjëje mund të duket i vështirë. Por dëshira për të qenë i dobishëm dhe i përfshirë zakonisht mbetet. Me pak përgatitje, një person në fazën e mesme mund të gëzojë ende shumë, sidomos punët e njohura, muzikën dhe fotografitë, të bëra krah për krah me ju.
 
-## What activities work well in middle-stage dementia?
+## Cilat aktivitete funksionojnë mirë në fazën e mesme të demencës?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Funksionojnë më mirë aktivitetet e shkurtra, të njohura, praktike dhe të ndara në hapa të vegjël. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) thotë se nuk keni nevojë të shpikni gjëra të reja: aktivitetet mund të jenë pjesë e jetës së përditshme, si përgatitja e darkës bashkë, kopshtaria, dëgjimi i muzikës ose një shëtitje.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) vëren se njerëzit në këtë fazë shpesh kanë nevojë të ndihen të dobishëm dhe të kujdesen për diçka, dhe kanë nevojë për ndihmë për të nisur ose vazhduar aktivitetet. Lista e saj për fazën e mesme përfshin palosjen e rrobave, larjen e enëve, ndarjen e çorapeve, ushtrime të lehta, valle me muzikë të njohur, shëtitje të udhëhequra, këndime të përbashkëta, pikturë të thjeshtë dhe shikimin e albumeve me foto.
 
-## How do you set up an activity so it works?
+## Si e përgatitni një aktivitet që të funksionojë?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Shumica e aktiviteteve dështojnë ose sukseshin në përgatitje. Këto zakone, të nxjerra nga [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) dhe [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), bëjnë ndryshimin më të madh:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Pastroni hapësirën.** Fikni televizorin, mbyllni derën dhe nxirrni vetëm atë që i duhet aktivitetit.
+2. **Filloni vetë.** Nisni palosjen ose trazimin dhe ftojeni të bashkohet: „A mund të më ndihmoni pak me këtë?“
+3. **Tregoni, pastaj prisni.** Demonstroni një hap. Tregoni me gisht ose udhëhiqeni me dorë, për shembull duke treguar ku vendoset pjata.
+4. **Një hap në çdo herë.** „Palose në gjysmë“ është më e lehtë sesa „palosi këto dhe rreshtoji sipas ngjyrës“.
+5. **Dy zgjedhje, jo pyetje të hapura.** „Peshqirët blu apo të bardhët?“ është më e lehtë për t'u përgjigjur sesa „Çfarë dëshiron të bësh?“
+6. **Bëni vetë pjesën e vështirë.** Ju matni, personi trazon. Ju e futni fillin te gjilpëra, personi mbështjell lesh.
+7. **Jepini një arsye.** „Këto pecetë janë për darkën e së dielës“ e bën punën të ndihet e vërtetë.
+8. **Lëreni të shikojë nëse preferon.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) thekson se edhe thjesht shikimi mund të jetë i kënaqshëm.
 
-## Activity ideas for the middle stage
+## Ide aktivitetesh për fazën e mesme
 
-### Useful jobs
+### Punë të dobishme
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Palosni peshqirë dhe leckë.** Sendet e vogla dhe të sheshta janë më të lehta. Një shportë me leckë të ngrohta mund të palosen, të lëmohen dhe të palosen sërish.
+- **Ndani çorapet.** Filloni me disa çifte shumë të ndryshme. Ndarja vetëm sipas ngjyrës është gjithashtu në rregull.
+- **Lani ose thani enë që nuk thyhen.** Uji i ngrohtë me sapun është i këndshëm për duart. Tharja ulur është më e lehtë për këmbët.
+- **Vendosni tryezën.** Jepni një lloj sendi në një kohë dhe vendosni vetë një vend si model.
+- **Ndihmoni me darkën.** Larja e patateve, grisja e marulit ose trazimi i një enë. Ju merrni përsipër thikat dhe nxehtësinë.
+- **Fshini, pastroni pluhurin ose fshini.** Një leckë për tryezën, një fshesë e lehtë për verandën.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Shihni [punët e shtëpisë](/activities/household-tasks/) për shumë të tjera.
 
-### Music and movement
+### Muzikë dhe lëvizje
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Këndoni këngët e vjetra.** Filloni të këndoni vetë; shumë njerëz bashkohen me këngë që i njohin prej dekadash. Shihni [aktivitetet me muzikë](/activities/music/).
+- **Vallëzoni lirshëm.** Lëkundni, duartrokitni ose lëvizni si ndihet mirë. Ulur është gjithashtu në rregull.
+- **Hidhni një balonë.** Lëviz ngadalë dhe është e lehtë për t'u kapur nga një karrige.
+- **Bëni një shëtitje të udhëhequr.** Ecni bashkë një unazë të shkurtër dhe të njohur, krah për krah nëse ndihet mirë.
 
-### Pictures and stories
+### Foto dhe histori
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Shikoni një album fotosh.** Komentoni atë që shihni në vend se të pyesni: „Shiko atë makinë. Më trego për të.“ Shihni [aktivitetet e kujtimeve](/activities/reminiscence/).
+- **Përdorni kartat e bisedës.** [Kartat e bisedës](/games/conversation-cards/) lidhin një figurë me një ftesë të hapur, pa quiz.
+- **Shikoni bashkë një film të vjetër.** Zgjidhni një të njohur, qëndroni afër dhe ndaloni për pushime.
 
-### Simple, pressure-free games
+### Lojëra të thjeshta, pa presion
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **[Çifte fotografish](/games/picture-pairs/)** me figurat të dukshme, kështu që gjithçka është vëmendje, jo kujtesë.
+- **[Gjej të njëjtën](/games/find-the-same/)** tregon një figurë dhe vetëm dy deri në katër zgjedhje.
+- **[Rendit së bashku](/games/sort-together/)** është si të ndash rrobat e larjes, por në ekran: prekni një figurë, pastaj shportën e saj.
+- **[Bingo me figura](/games/picture-bingo/)** funksionon mirë për takime familjare dhe grupe.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Nëse një lojë fillon të shkaktojë mërzi, ndaloni dhe bëni diçka tjetër. Shihni [si të luani bashkë](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Ta kthesh shqetësimin në aktivitet
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Lëvizja e shqetësuar ose e përsëritur shpesh ka një arsye. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) thekson se një person që vazhdon të zbrazë një dollap mund të jetë duke u përpjekur të plotësojë nevojën për t'u ndjerë i zënë dhe produktiv. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sugjeron ta drejtoni këtë energji drejt një aktiviteti të përshtatshëm, në vend që ta ndaloni.
 
-| What you see | Something to offer |
+| Çfarë shihni | Çfarë mund t'i ofroni |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Fërkon ose gërvishtet tryezën | Një leckë të lagur dhe një kërkesë për ta pastruar tryezën |
+| Këmbë të shqetësuara ose trokitje | Muzikë me ritëm të qartë për ta ndjekur me trokitje ose duartrokitje |
+| Zbraz sirtarë ose dollapë | Një shportë me rroba ose leckë për t'i palosur dhe ndarë |
+| Pyet të njëjtën gjë sërish | Siguri, pastaj një këngë ose një punë për ta ndarë |
+| Ecje e vazhdueshme | Një shëtitje bashkë, ose një punë që përfshin bartjen e sendeve |
+| Shqetësim pasdite vonë | Një aktivitet i qetë dhe i njohur me dritë të mirë; shihni [shqetësimin e pasdites](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kur të ndaloni ose të ndryshoni rrugë
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Ndaloni kur shihni shenja lodhjeje, frustrimi, turpi ose mërzie, si lëvizje të shpejta, fytyrë të vrenjtur, largim të sendeve ose thënien „nuk mundem“. Alzheimer's Association sugjeron të provoni përsëri në një kohë tjetër të ditës ose ta bëni aktivitetin më të thjeshtë. Mos e detyroni. Një refuzim mund të vijë nga frika ose nga detyra që është shumë e vështirë; shihni [kur thonë jo](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Ndalimi i hershëm është në rregull. Është gjithashtu në rregull të uleni bashkë me një filxhan çaji. Ndërsa aftësitë ndryshojnë më tej, idetë te [aktivitetet e fazës së vonë](/activities/late-stage/) mund të përshtaten më mirë, dhe [101 aktivitete](/activities/ideas/) kanë shumë të tjera për të provuar.
