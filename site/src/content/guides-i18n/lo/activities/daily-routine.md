@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "ຕາຕະລາງປະຈຳວັນແບບອ່ອນໂຍນສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ"
+seoTitle: "ຕາຕະລາງປະຈຳວັນສຳລັບສະໝອງເສື່ອມ: ຕົວຢ່າງມື້ທີ່ຢືດຢຸ່ນ"
+description: "ຕົວຢ່າງມື້ທີ່ຢືດຢຸ່ນສຳລັບຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ ມີອາຫານ ກິດຈະກຳ ແລະການພັກຜ່ອນໃນຈັງຫວະທີ່ໝັ້ນຄົງ ພ້ອມວິທີສ້າງຂອງທ່ານເອງ."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  ຕາຕະລາງປະຈຳວັນແບບອ່ອນໂຍນຊ່ວຍໃຫ້ການຕື່ນນອນ ອາຫານ ການດູແລຕົນເອງ ແລະເວລານອນຢູ່ໃນເວລາໃກ້ຄຽງກັນ, ວາງກິດຈະກຳຫຼັກໄວ້ຕອນທີ່ຜູ້ນັ້ນຕື່ນຕົວທີ່ສຸດ ແລະດຸ່ນດ່ຽງກິດຈະກຳກັບການພັກຜ່ອນ. ສ້າງຈາກວິຖີຊີວິດເດີມຂອງຜູ້ນັ້ນ ຢ່າເຮັດໃຫ້ແໜ້ນເກີນໄປ ໃຫ້ມີແສງແດດ ແລະການເຄື່ອນໄຫວທຸກມື້ ແລະປ່ຽນແຜນໄດ້ຢ່າງອິດສະຫຼະເມື່ອມື້ນັ້ນຕ້ອງການ.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "ເວລາຕື່ນນອນ ອາຫານ ການດູແລ ແລະເວລານອນທີ່ສະໝ່ຳສະເໝີ ເຮັດໃຫ້ມື້ມີຮູບຮ່າງທີ່ຄຸ້ນເຄີຍ."
+  - "ວາງກິດຈະກຳຫຼັກໄວ້ໃນເວລາທີ່ຜູ້ນັ້ນດີທີ່ສຸດຂອງມື້, ມັກຈະເປັນຕອນເຊົ້າ."
+  - "ຢ່າຕື່ມທຸກນາທີ. ການພັກຜ່ອນ ແລະເວລາງຽບໆ ກໍເປັນສ່ວນໜຶ່ງຂອງຕາຕະລາງ."
+  - "ແສງແດດ ການເຄື່ອນໄຫວທຸກມື້ ແລະການຫຼີກລ່ຽງການນອນກາງເວັນດົນ ຫຼືກາເຟອີນໃນຕອນແລງ ອາດຊ່ວຍເລື່ອງຄວາມກະວົນກະວາຍຕອນແລງ."
+  - "ຕາຕະລາງເປັນແນວທາງ ບໍ່ແມ່ນກົດ. ສະຫຼັບ ຫຍໍ້ ຫຼືຂ້າມສິ່ງໃດກໍໄດ້ໃນມື້ທີ່ຍາກ."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "ເປັນຫຍັງຕາຕະລາງຈຶ່ງມີປະໂຫຍດສຳລັບຜູ້ທີ່ມີສະໝອງເສື່ອມ?"
+    a: "ມື້ທີ່ຄາດເດົາໄດ້ໝາຍເຖິງການຕັດສິນໃຈ ແລະສິ່ງທີ່ຄາດບໍ່ເຖິງໜ້ອຍລົງ ຊຶ່ງຫຼາຍຄົນທີ່ມີພາວະສະໝອງເສື່ອມຮູ້ສຶກອຸ່ນໃຈ. Alzheimer's Association ກ່າວວ່າມື້ທີ່ມີແຜນເຮັດໃຫ້ຜູ້ດູແລໃຊ້ເວລາໜ້ອຍລົງໃນການຄິດວ່າຈະເຮັດຫຍັງ ແລະໃຊ້ເວລາຫຼາຍຂຶ້ນກັບກິດຈະກຳທີ່ທ່ານທັງສອງມັກ. ມັນຍັງຊ່ວຍໃຫ້ຜູ້ດູແລວາງຈັງຫວະມື້ຂອງຕົນເອງໄດ້."
+  - q: "ຕາຕະລາງປະຈຳວັນທີ່ດີສຳລັບຜູ້ທີ່ມີສະໝອງເສື່ອມເປັນແນວໃດ?"
+    a: "ບໍ່ມີຕາຕະລາງດຽວທີ່ຖືກຕ້ອງ. ຕາຕະລາງທີ່ດີຄືການຮັກສາເວລາຕື່ນນອນ ອາຫານ ແລະເວລານອນໃຫ້ໃກ້ຄຽງກັນ, ວາງການດູແລຕົນເອງ ແລະກິດຈະກຳຫຼັກໄວ້ຕອນທີ່ຜູ້ນັ້ນດີທີ່ສຸດ, ລວມເວລາຢູ່ນອກບ້ານ ຫຼືໃກ້ປ່ອງຢ້ຽມ ແລະໃຫ້ມີບ່ອນພັກຜ່ອນ. ໃຫ້ສ້າງຈາກວິທີທີ່ຜູ້ນັ້ນດຳລົງຊີວິດມາຕະຫຼອດ."
+  - q: "ຜູ້ທີ່ມີສະໝອງເສື່ອມຄວນນອນກາງເວັນບໍ?"
+    a: "ການພັກສັ້ນໆອາດຊ່ວຍໄດ້, ໂດຍສະເພາະຫຼັງອາຫານທ່ຽງ. National Institute on Aging ແນະນຳໃຫ້ຫຼີກລ່ຽງການນອນດົນ ແລະການງີບໃນຊ່ວງທ້າຍມື້, ເພາະຄວາມເມື່ອຍລ້າ ຫຼືການນອນບໍ່ພຽງພໍອາດເພີ່ມຄວາມກະວົນກະວາຍຕອນແລງ. ຖ້າການນອນເປັນບັນຫາຈິງຈັງ ໃຫ້ປຶກສາໝໍຂອງເຂົາ."
+  - q: "ຖ້າເຂົາບໍ່ຍອມເຮັດຕາມຕາຕະລາງເດີ?"
+    a: "ໃຫ້ປ່ອຍໄວ້ກ່ອນ ແລ້ວລອງໃໝ່ພາຍຫຼັງ ຫຼືດ້ວຍວິທີອື່ນ. ການປະຕິເສດອາດໝາຍຄວາມວ່າເຂົາເມື່ອຍ ບໍ່ສະບາຍ ເຈັບ ຫຼືພຽງແຕ່ຍັງບໍ່ພ້ອມ. ຕາຕະລາງມີໄວ້ເພື່ອໃຫ້ມື້ງ່າຍຂຶ້ນ ສະນັ້ນໃຫ້ຢືດຢຸ່ນ ຢ່າບັງຄັບ."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+ຕາຕະລາງປະຈຳວັນແບບອ່ອນໂຍນເຮັດໃຫ້ມື້ມີຮູບຮ່າງທີ່ຄຸ້ນເຄີຍ: ການຕື່ນນອນ ອາຫານ ກິດຈະກຳນ້ອຍໆ ການພັກຜ່ອນ ແລະເວລານອນໃນເວລາໃກ້ຄຽງກັນທຸກມື້. ມັນຊ່ວຍໃຫ້ຕ້ອງຕັດສິນໃຈ ແລະຄາດບໍ່ເຖິງໜ້ອຍລົງ ແລະໃຫ້ແຜນໄວ້ສຳລັບຊ່ວງເວລາທີ່ທ່ານອາດສົງໄສວ່າຈະເຮັດຫຍັງຕໍ່ໄປ. ຕາຕະລາງຂ້າງລຸ່ມນີ້ເປັນພຽງຕົວຢ່າງ ບໍ່ແມ່ນກົດ. ໃຫ້ໃຊ້ເປັນຈຸດເລີ່ມຕົ້ນ ແລ້ວປັບໃຫ້ເໝາະກັບຜູ້ທີ່ທ່ານດູແລ.
 
-## Why does a daily routine help?
+## ເປັນຫຍັງການມີຕາຕະລາງປະຈຳວັນຈຶ່ງຊ່ວຍໄດ້?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+ຕາຕະລາງທີ່ໝັ້ນຄົງຊ່ວຍໄດ້ ເພາະຮູບແບບທີ່ຄຸ້ນເຄີຍງ່າຍກວ່າການເຮັດສິ່ງໃໝ່ໆ. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ກ່າວວ່າມື້ທີ່ມີແຜນເຮັດໃຫ້ໃຊ້ເວລາໜ້ອຍລົງໃນການຕັດສິນໃຈວ່າຈະເຮັດຫຍັງ ແລະໃຊ້ເວລາຫຼາຍຂຶ້ນກັບກິດຈະກຳທີ່ໜ້າຍິນດີ, ແລະຍັງກ່າວວ່າເວລາຕື່ນນອນ ແລະເວລານອນທີ່ເປັນປະຈຳ ອາດຊ່ວຍກ່ຽວກັບບັນຫາການນອນ ແລະຄວາມກະວົນກະວາຍຕອນແລງ. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) ແນະນຳໃຫ້ອາບນ້ຳ ແຕ່ງຕົວ ແລະກິນເຂົ້າໃນເວລາດຽວກັນທຸກມື້ ເປັນສ່ວນໜຶ່ງຂອງບ້ານທີ່ສະຫງົບ, ແລະ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ກໍແນະນຳໃຫ້ຮັກສາກິດຈະວັດປະຈຳວັນແບບດຽວກັນເຊັ່ນກັນ.
 
-## A sample gentle day
+## ມື້ຕົວຢ່າງແບບອ່ອນໂຍນ
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+ເວລາເປັນພຽງຕົວຢ່າງເທົ່ານັ້ນ. ໃຫ້ເລື່ອນທັງມື້ໃຫ້ໄວຂຶ້ນ ຫຼືຊ້າລົງ ເພື່ອໃຫ້ກົງກັບຈັງຫວະຂອງຜູ້ນັ້ນເອງ.
 
-| Time | What happens | Ideas | On a harder day |
+| ເວລາ | ສິ່ງທີ່ເກີດຂຶ້ນ | ແນວຄວາມຄິດ | ໃນວັນທີ່ຍາກກວ່າ |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 ໂມງເຊົ້າ | ຕື່ນນອນ ລ້າງໜ້າ ແຕ່ງຕົວ | ເຮັດຕາມລຳດັບເດີມທຸກມື້; ວາງເສື້ອຜ້າໄວ້ຕາມລຳດັບທີ່ຈະໃສ່ | ເຮັດໃຫ້ງ່າຍ; ເສື້ອໃໝ່ໜຶ່ງໂຕກໍພຽງພໍແລ້ວ |
+| 8:45 ໂມງເຊົ້າ | ອາຫານເຊົ້າ | ກາເຟ ແລະໜັງສືພິມອ່ານອອກສຽງ ຫຼືວິທະຍຸ | ກິນນຳກັນຢ່າງງຽບໆ ບໍ່ຕ້ອງກົດດັນໃຫ້ເວົ້າ |
+| 9:30 ໂມງເຊົ້າ | ກິດຈະກຳຫຼັກ | ພັບເສື້ອຜ້າ ອົບຂອງ ລົດນ້ຳສວນ ອອກໄປນອກບ້ານສັ້ນໆ ຫຼືຍ່າງ | ເວີຊັນທີ່ສັ້ນກວ່າ ຫຼືໃຫ້ເຂົາເບິ່ງທ່ານເຮັດ |
+| 10:30 ໂມງເຊົ້າ | ເວລາງຽບໆ | ດົນຕີ ອະນຸສອນຮູບພາບ ຫຼືນັ່ງໃກ້ປ່ອງຢ້ຽມ | ພັກຢູ່ໃນເກົ້າອີ້ທີ່ມັກ |
+| 11:00 ໂມງເຊົ້າ | ຊ່ວຍກຽມອາຫານທ່ຽງ | ລ້າງຜັກ ຈັດໂຕະ | ທ່ານເຮັດອາຫານ ເຂົາຢູ່ເປັນເພື່ອນທ່ານ |
+| 12:00 ທ່ຽງ | ກິນເຂົ້າທ່ຽງ ແລະເກັບກວາດ | ເຊັດໂຕະ ເຊັດຈານບາງໃບ | ຂ້າມວຽກເຮືອນ |
+| 1:00 ໂມງບ່າຍ | ພັກສັ້ນໆ | ຍົກຂາຂຶ້ນ ດົນຕີເບົາໆ | ຄືເກົ່າ |
+| 2:00 ໂມງບ່າຍ | ອອກນອກບ້ານ ຫຼືເຄື່ອນໄຫວ | ຍ່າງ ນັ່ງລະບຽງ ລົດນ້ຳຕົ້ນໄມ້ ໂຍນລູກບານລົມ | ນັ່ງໃກ້ປ່ອງຢ້ຽມທີ່ມີແສງແດດ |
+| 3:00 ໂມງບ່າຍ | ກິດຈະກຳສັງຄົມ ຫຼືສ້າງສັນ | ມາຢ້ຽມ ໂທຫາ [ເກມຄູ່ຮູບ](/games/picture-pairs/) ລົງສີ ຫຼີ້ນໄພ່ | ເຄື່ອງດື່ມ ແລະຂອງວ່າງນ້ອຍໆນຳກັນ |
+| 4:30 ໂມງແລງ | ເວລາຜ່ອນຄາຍ | ປິດມ່ານ ເປີດໄຟ ວຽກເບົາໆ ເຊັ່ນພັບຜ້າເຊັດໜ້າ | ດົນຕີທີ່ຄຸ້ນເຄີຍ ສຽງເບົາ |
+| 5:30 ໂມງແລງ | ອາຫານຄ່ຳ | ຊ່ວຍກວນ ຫຼືຈັດໂຕະ | ອາຫານງ່າຍໆ ທີ່ຄຸ້ນເຄີຍ |
+| 6:30 ໂມງແລງ | ຢູ່ນຳກັນຕອນແລງ | ເລົ່າເລື່ອງເກົ່າຕອນກິນຂອງຫວານ ຫຼີ້ນໄພ່ ລາຍການທີ່ມັກ ນວດມື | ຢູ່ນຳກັນຢ່າງງຽບໆ |
+| 8:00 ໂມງຄ່ຳ | ເຂົ້າສູ່ການນອນ | ອາບນ້ຳ ຫຼືເຊັດຕົວ ໃສ່ຊຸດນອນ ດົນຕີເບົາໆ ໄຟຫຼຸ່ມ | ຫຍໍ້ທຸກຢ່າງ; ຄວາມສະບາຍມາກ່ອນ |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+ຕົວຢ່າງນີ້ເຮັດຕາມຮູບແບບຂອງແຜນຕົວຢ່າງຂອງ Alzheimer's Association ເອງສຳລັບໄລຍະຕົ້ນ ແລະໄລຍະກາງ, ທີ່ເລີ່ມຈາກການດູແລຕົນເອງ ແລະອາຫານເຊົ້າ ຜ່ານວຽກເຮືອນ ການຍ່າງ ດົນຕີ ການພັກ ແລະການມາຢ້ຽມ ຈົນເຖິງອາຫານຄ່ຳ ການເລົ່າເລື່ອງເກົ່າ ແລະການກຽມນອນ.
 
-## How do you build your own routine?
+## ທ່ານຈະສ້າງຕາຕະລາງຂອງຕົນເອງແນວໃດ?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+ໃຫ້ເລີ່ມຈາກວິທີທີ່ຜູ້ນັ້ນດຳລົງຊີວິດມາຕະຫຼອດ ບໍ່ແມ່ນຈາກຕາຕະລາງ. Alzheimer's Association ແນະນຳໃຫ້ຄິດເຖິງສິ່ງເຫຼົ່ານີ້ກ່ອນວາງແຜນ:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **ສິ່ງທີ່ເຂົາມັກ ບໍ່ມັກ ຈຸດແຂງ ແລະຄວາມສົນໃຈ.**
+- **ເຂົາໃຊ້ເວລາໃນມື້ແນວໃດມາກ່ອນ.** ຜູ້ທີ່ຕື່ນເຊົ້າ ແລະເຄີຍພາໝາຍ່າງ ຄວນຍັງຍ່າງຕອນເຊົ້າຢູ່. ຄົນທີ່ນອນດຶກອາດບໍ່ເຄີຍມັກການເລີ່ມຕອນ 8 ໂມງເຊົ້າເລີຍ.
+- **ເວລາທີ່ດີທີ່ສຸດຂອງມື້.** ວາງການອາບນ້ຳ ການອອກນອກບ້ານ ແລະກິດຈະກຳຫຼັກໄວ້ຕອນນັ້ນ.
+- **ເວລາພຽງພໍ** ສຳລັບອາຫານ ການລ້າງໜ້າ ແລະການແຕ່ງຕົວ ເພື່ອບໍ່ໃຫ້ຮີບຮ້ອນ.
+- **ເວລາຕື່ນ ແລະເວລານອນທີ່ສະໝ່ຳສະເໝີ.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+ແຫຼ່ງດຽວກັນແນະນຳໃຫ້ລວມທັງວຽກເຮືອນ ອາຫານ ການດູແລຕົນເອງ ກິດຈະກຳສ້າງສັນ ການເຄື່ອນໄຫວຮ່າງກາຍ ການພົບປະສັງຄົມ ກິດຈະກຳດ້ານຈິດວິນຍານ ແລະຊ່ວງເວລາທີ່ບໍ່ໄດ້ວາງແຜນ ເຊັ່ນເວລາທີ່ເພື່ອນມາຢ້ຽມ.
 
-### Try it for a week, then adjust
+### ລອງໃຊ້ໜຶ່ງອາທິດ ແລ້ວປັບ
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+ຈົດບັນທຶກສັ້ນໆທຸກມື້. Alzheimer's Association ແນະນຳໃຫ້ຖາມວ່າກິດຈະກຳໃດໄດ້ຜົນດີທີ່ສຸດ ແລະເພາະຫຍັງ, ມີເວລາທີ່ມີສິ່ງໃຫ້ເຮັດຫຼາຍເກີນໄປ ຫຼືໜ້ອຍເກີນໄປບໍ່, ແລະແຜນທີ່ບໍ່ໄດ້ຕັ້ງໄວ້ລ່ວງໜ້າ ໜ້າຍິນດີ ຫຼືເຮັດໃຫ້ກັງວົນ. ຮັກສາສິ່ງທີ່ໄດ້ຜົນ ແລະປ່ຽນສິ່ງທີ່ບໍ່ໄດ້ຜົນ.
 
-### Make it visible
+### ເຮັດໃຫ້ເຫັນໄດ້
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+ຖ້າຜູ້ນັ້ນຍັງອ່ານໄດ້, ກະດານຂາວ ຫຼືບັດໃຫຍ່ທີ່ມີແຜນຂອງມື້ອາດເຮັດໃຫ້ອຸ່ນໃຈໄດ້. ໃຫ້ສັ້ນໆ ເຊັ່ນ “ອາຫານເຊົ້າ. ຍ່າງກັບນ້ອງສີດາ. ອາຫານທ່ຽງ. ພັກ.” ບາງຄົນເຮັດໄດ້ດີກວ່າເມື່ອບໍ່ຮູ້ລ່ວງໜ້າຫຼາຍ; Family Caregiver Alliance ແນະນຳໃຫ້ບໍ່ປຶກສາກ່ຽວກັບແຜນຈົນຮອດເວລາໃກ້ຈະເກີດຂຶ້ນ ຖ້າມັນເຮັດໃຫ້ກັງວົນ.
 
-## How to adapt the routine
+## ວິທີປັບຕາຕະລາງ
 
-### Leave room to breathe
+### ເຫຼືອບ່ອນໃຫ້ຫາຍໃຈ
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+ຢ່າຕື່ມທຸກນາທີ. Alzheimer's Association ເນັ້ນວ່າຜູ້ນັ້ນຕ້ອງການຄວາມສົມດຸນລະຫວ່າງກິດຈະກຳ ແລະການພັກຜ່ອນ ແລະອາດຕ້ອງການພັກບ່ອຍຂຶ້ນ. ຖ້າເຂົາເບື່ອ ສັບສົນ ຫຼືໜ້າລຳຄານ ໃຫ້ປ່ຽນກິດຈະກຳ ຫຼືພັກຜ່ອນ.
 
-### Protect the late afternoon
+### ປົກປ້ອງຊ່ວງບ່າຍແກ່
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+ຫຼາຍຄົນຈະກະວົນກະວາຍຫຼາຍຂຶ້ນເມື່ອແສງຕາເວັນຈາງລົງ. National Institute on Aging ແນະນຳໃຫ້ມີເວລາຢູ່ນອກບ້ານ ຫຼືໃກ້ປ່ອງຢ້ຽມເພື່ອຮັບແສງແດດທຸກມື້, ເຄື່ອນໄຫວທຸກມື້ໂດຍບໍ່ວາງແຜນຫຼາຍເກີນໄປ, ຫຼີກລ່ຽງກາເຟອີນ ແລະເຫຼົ້າໃນຕອນທ້າຍມື້, ແລະຫຼີກລ່ຽງການນອນກາງເວັນດົນໃນຊ່ວງບ່າຍແກ່. ບາງຄອບຄົວກໍເຫັນວ່າການປິດມ່ານ ແລະເປີດໄຟກ່ອນຄ່ຳຊ່ວຍໄດ້. ເບິ່ງ [ຄວາມກະວົນກະວາຍຕອນແລງ](/caregiving/late-day-restlessness/) ແລະ [ການນອນ](/brain-health/sleep/).
 
-### Change it as needs change
+### ປ່ຽນຕາມຄວາມຕ້ອງການທີ່ປ່ຽນໄປ
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **ໄລຍະຕົ້ນ:** ວາງແຜນນຳກັນ. ຜູ້ນັ້ນອາດຢາກມີຕາຕະລາງທີ່ຂຽນໄວ້ ແລະຈັດການເອງ.
+- **ໄລຍະກາງ:** ທ່ານນຳຫຼາຍຂຶ້ນ. ກິດຈະກຳສັ້ນລົງ ພັກຫຼາຍຂຶ້ນ ແລະວຽກທີ່ຄຸ້ນເຄີຍຫຼາຍ; ເບິ່ງ [ກິດຈະກຳໄລຍະກາງ](/activities/middle-stage/).
+- **ໄລຍະທ້າຍ:** ຕາຕະລາງເນັ້ນຄວາມສະບາຍ ອາຫານ ແລະການດູແລ ໂດຍມີຊ່ວງສັ້ນໆຂອງປະສາດສຳຜັດ ເຊັ່ນດົນຕີ ຫຼືການນວດມື ຄັ່ນຢູ່ລະຫວ່າງນັ້ນ; ເບິ່ງ [ກິດຈະກຳໄລຍະທ້າຍ](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### ປ່ຽນກິດຈະກຳ ແຕ່ບໍ່ປ່ຽນໂຄງຮ່າງ
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+ຮັກສາອາຫານ ການພັກ ແລະເວລານອນໃຫ້ໝັ້ນຄົງ ແລະໝູນກິດຈະກຳຢູ່ລະຫວ່າງນັ້ນ. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) ແນະນຳໃຫ້ລອງກິດຈະກຳທີ່ຕ່າງກັນໃນແຕ່ລະມື້ເພື່ອໃຫ້ໜ້າສົນໃຈ. ທ່ານອາດອົບຂອງໃນວັນຈັນ ລົດນ້ຳສວນໃນວັນອັງຄານ ແລະເບິ່ງຮູບພາບໃນວັນພຸດ. [101 ແນວຄວາມຄິດກິດຈະກຳ](/activities/ideas/) ແລະ [ວຽກເຮືອນ](/activities/household-tasks/) ຂອງພວກເຮົາສາມາດຕື່ມຊ່ອງເວລາເຫຼົ່ານີ້ໄດ້.
 
-## When the day goes sideways
+## ເມື່ອມື້ບໍ່ເປັນໄປຕາມແຜນ
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+ບາງມື້ກໍບໍ່ເປັນໄປຕາມແຜນໃດໆ. ການເຈັບປ່ວຍ ຄືນທີ່ບໍ່ດີ ການມາຂອງໝໍ ຫຼືອາກາດທີ່ປ່ຽນໄປ ສາມາດເຮັດໃຫ້ທຸກຢ່າງຜິດຈັງຫວະໄດ້. ໃຫ້ເລີກຕາມແຜນ ຮັກສາພື້ນຖານ (ອາຫານ ນ້ຳ ການພັກ ຄວາມສະບາຍ) ແລ້ວລອງໃໝ່ມື້ອື່ນ. ຖ້າຜູ້ນັ້ນປະຕິເສດສິ່ງໃດ ໃຫ້ເບິ່ງ [ເມື່ອເຂົາປະຕິເສດ](/caregiving/when-they-say-no/). ການຢຸດຫາຍໃຈຊ້າໆນຳກັນ ເຊັ່ນ [ການຫາຍໃຈຢ່າງສະຫງົບ](/games/calm-breathing/) ຊ່ວຍໃຫ້ທ່ານທັງສອງສະຫງົບລົງໄດ້.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+ການດູແລຕົວເອງກໍສຳຄັນເຊັ່ນກັນ. ໃຫ້ມີເວລາພັກສຳລັບຕົວເອງ ແລະຂໍໃຫ້ຄອບຄົວ ຫຼືບໍລິການພັກຜ່ອນຜູ້ດູແລຊ່ວຍດູແລໃນເວລາທີ່ປະຈຳ. ເບິ່ງ [ການດູແລຕົວເອງຂອງຜູ້ດູແລ](/caregiving/caregiver-self-care/).
