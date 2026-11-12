@@ -68,7 +68,7 @@ Se a persoa está de acordo, organice un plan de contacto sinxelo coas persoas q
 - **Escolla un contacto habitual.** Acorde quen envía as novidades ordinarias e con que frecuencia.
 - **Designe unha persoa de reserva.** Decida quen pode comprobar a situación se o axudante habitual non está dispoñible.
 - **Separe as novidades habituais das preocupacións urxentes.** Acorde como debe avisarlle un axudante local se a seguridade ou a saúde da persoa cambian de súpeto.
-- **Mantea as tarefas claras.** Escriba quen se encarga das citas, do transporte, das chamadas aos servizos ou da axuda na casa. Pregunte antes de cambiar o plan.
+- **Manteña as tarefas claras.** Escriba quen se encarga das citas, do transporte, das chamadas aos servizos ou da axuda na casa. Pregunte antes de cambiar o plan.
 
 A [Alzheimer's Association recomenda manter unha comunicación regular coa familia, as veciñas e os provedores de coidado](https://www.alz.org/help-support/caregiving/care-options/long-distance-caregiving). Tamén pode preguntar ao axudante local que apoio necesita. Unha oferta breve e concreta pode ser máis fácil de usar que un xeral “avísame se precisas algo”.
 

@@ -7,9 +7,9 @@ order: 21
 updated: 2026-11-11
 translatedFrom: 2026-11-11
 summary: >-
-  Prepare a visita ao hospital implicando á persoa, compartindo con el persoal
+  Prepare a visita ao hospital implicando á persoa, compartindo co persoal
   preferencias de coidado útiles, levando obxectos coñecidos e pedindo un plan
-  de alta por escrito. Avise cuanto antes ao persoal se a persoa cambia de
+  de alta por escrito. Avise canto antes ao persoal se a persoa cambia de
   forma repentina.
 keyPoints:
   - "Implique á persoa na planificación e pregunte que a axudaría a sentirse cómoda."
@@ -48,13 +48,13 @@ A [guía sobre hospitalización e alta da Alzheimer's Association](https://www.a
 
 Se a visita está prevista, pregunte á persoa o que entende sobre ela e o que quere saber. Implíquea nas decisións na medida en que o desexe. Algunhas persoas prefiren saber da visita con moita antelación; outras se senten menos ansiosas cunha explicación breve e tranquila máis preto do momento. Siga a preferencia da persoa sempre que sexa posible.
 
-Pregunte ao hospital que información e que obxectos debe levar. Unha lista actual de medicamentos, as alerxias coñecidas e os nomes e teléfonos dos profesionais de saúde habituais poden axudar ao persoal. Lev as gafas, os audífonos, a roupa coñecida, o aseo persoal e un obxecto de consolo se o hospital o permite. Leve os documentos legais ou de decisións anticipadas só se son relevantes e a persoa ou a persoa autorizada para decidir así o escolle.
+Pregunte ao hospital que información e que obxectos debe levar. Unha lista actual de medicamentos, as alerxias coñecidas e os nomes e teléfonos dos profesionais de saúde habituais poden axudar ao persoal. Leve as gafas, os audífonos, a roupa coñecida, o aseo persoal e un obxecto de consolo se o hospital o permite. Leve os documentos legais ou de decisións anticipadas só se son relevantes e a persoa ou a persoa autorizada para decidir así o escolle.
 
-Planifique quen pode acompañar á persoa e como a familia ou as persoas de confianza compartirán as novidades. Se unha persoa non pode quedarse, pida a outra persoa de confianza que faga un quenda. A persoa pode querer compañía nalgunhas partes da visita e privacidade noutras.
+Planifique quen pode acompañar á persoa e como a familia ou as persoas de confianza compartirán as novidades. Se unha persoa non pode quedarse, pida a outra persoa de confianza que faga unha quenda. A persoa pode querer compañía nalgunhas partes da visita e privacidade noutras.
 
 ## Que información debo compartir co persoal do hospital?
 
-Comparta os detalles que axudan ao persoal a comunicarse co paciente e a coidalo. Co acordo da persoa, escriba unha nota breve que inclúa o nome que prefire, como se comunica, o que lle axuda a entender e as rutinas ou obxectos de consolo que importan. Tamén pode mencionar como mostra a dor ou a angustia se non usa palabras para iso.
+Comparta os detalles que axudan ao persoal a comunicarse coa persoa e a coidalo. Co acordo da persoa, escriba unha nota breve que inclúa o nome que prefire, como se comunica, o que lle axuda a entender e as rutinas ou obxectos de consolo que importan. Tamén pode mencionar como mostra a dor ou a angustia se non usa palabras para iso.
 
 Manteña a nota breve e privada. Compártaa cos membros do equipo de coidado que a necesiten. Pregunte ao persoal como prefire recibir esta información e onde quere que se garde. Non deixe datos sensibles nun taboleiro público nin os comparta con visitas que non o necesiten.
 
@@ -80,7 +80,7 @@ Manteña as rutinas coñecidas cando o persoal diga que son seguras. Leve unha f
 
 A persoa pode necesitar axuda para usar o timbre, atopar o baño ou entender un novo horario. Diga ao persoal que axuda necesita normalmente e pregunte como pedir axuda entre visitas. Se a persoa quere que alguén se quede con ela, pregunte que apoio de visita ou de noite permite o hospital.
 
-As estadías no hospital tamén cansan aos coidadores. Organice que outra persoa de confianza faga un quenda, se a persoa está de acordo. Pregunte á persoa de contacto do hospital ou á traballadora social que apoio existe para a persoa e a familia mentres dure a estadía.
+As estadías no hospital tamén cansan aos coidadores. Organice que outra persoa de confianza faga unha quenda, se a persoa está de acordo. Pregunte á persoa de contacto do hospital ou á traballadora social que apoio existe para a persoa e a familia mentres dure a estadía.
 
 ## Que debo comprobar antes de que a persoa saia?
 

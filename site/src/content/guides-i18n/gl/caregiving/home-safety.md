@@ -65,7 +65,7 @@ A [guía de consellos de seguridade no fogar da Alzheimer's Society](https://www
 - **Revise o uso dos electrodomésticos.** Se houbo un problema coa cociña ou con outro electrodoméstico, busque opcións de seguridade deseñadas para ese aparello en concreto. A Alzheimer's Association menciona como posibilidades os sistemas de corte automático e os dispositivos de seguridade para a cociña. Pida consello cualificado antes de cambiar o equipo de gas ou electricidade.
 - **Garde os medicamentos e os produtos non alimentarios lonxe dos alimentos.** A Association recomenda gardar os medicamentos con seguridade e non os deixar sobre a encimera. Se a persoa xestiona os seus propios medicamentos, pregunte a unha farmacéutica ou a un profesional da saúde un plan que protexa esa rutina.
 - **Garde os produtos de limpeza e os produtos perigosos con seguridade.** Gárdeos nos seus envases orixinais, lonxe dos alimentos e fóra de alcance cando faga falta. Non pase produtos químicos a unha botella de bebida nin a un bote de comida.
-- **Mantena accesibles os utensilios útiles.** Unha disposición segura debe permitir á persoa seguir facendo as tarefas que disfruta cando sexa posible. Se cambia un armario ou un electrodoméstico, explíqueo e comprobe se xera confusión.
+- **Manteña accesibles os utensilios útiles.** Unha disposición segura debe permitir á persoa seguir facendo as tarefas que disfruta cando sexa posible. Se cambia un armario ou un electrodoméstico, explíqueo e comprobe se xera confusión.
 
 Se a preocupación aparece durante unha tarefa compartida, a nosa [guía sobre as tarefas do fogar](/activities/household-tasks/) ten ideas para adaptar o traballo mantendo a persoa implicada.
 
@@ -97,7 +97,7 @@ A seguridade e a autonomía deben funcionar xuntas. Se un cambio impide que algu
 
 Cando sexa posible, explique un cambio antes de facelo e dea á persoa tempo para afacerse. A Alzheimer's Society aconsella pensar se un equipo será seguro de usar sen axuda, se necesita instalación e se pode facer outra tarefa do fogar máis difícil. Pregunte á persoa que nota despois do cambio. Se evita a habitación ou deixa de usar algo que valora, axuste o plan.
 
-Revise o fogar cando cambien as rutinas, o movemento ou a vista, ou despois dun case accidente. Unha habitación que funcionaba ben o mes pasado quizais necesite agora outra luz ou un camiño máis claro. Pode manter unha lista breve do que cambiou e do que aínda funciona, en lugar de tentar redeseñar toda a casa de golpe.
+Revise o fogar cando cambien as rutinas, o movemento ou a vista, ou despois dun quase accidente. Unha habitación que funcionaba ben o mes pasado quizais necesite agora outra luz ou un camiño máis claro. Pode manter unha lista breve do que cambiou e do que aínda funciona, en lugar de tentar redeseñar toda a casa de golpe.
 
 ## Quen pode axudar coas adaptacións do fogar?
 
@@ -107,4 +107,4 @@ Se alugan a casa, pregunte ao propietario ou á entidade da vivenda antes de fac
 
 ## Con que frecuencia debo revisar a casa?
 
-Revísea cando unha tarefa coñecida se volve máis difícil, cando cambian o movemento ou a vista, ou despois dun case accidente. Comece pola habitación ou pola rutina relacionada con ese cambio. Non fai falta completar todos os puntos dunha lista; manteña o que funciona e revise un cambio práctico de cada vez. Se xa houbo unha caída, a nosa [guía sobre o que facer despois dunha caída](/caregiving/responding-after-a-fall-with-dementia/) cobre os primeiros pasos e o seguimento.
+Revísea cando unha tarefa coñecida se volve máis difícil, cando cambian o movemento ou a vista, ou despois dun quase accidente. Comece pola habitación ou pola rutina relacionada con ese cambio. Non fai falta completar todos os puntos dunha lista; manteña o que funciona e revise un cambio práctico de cada vez. Se xa houbo unha caída, a nosa [guía sobre o que facer despois dunha caída](/caregiving/responding-after-a-fall-with-dementia/) cobre os primeiros pasos e o seguimento.

@@ -12,7 +12,7 @@ summary: >-
   e deixe que a persoa faga todo o que queira. Consulte a un médico se vestirse
   se volve difícil de forma nova.
 keyPoints:
-  - "Ofrezа unha pequena escolla de roupa coñecida e cómoda, sen impor o seu estilo."
+  - "Ofreza unha pequena escolla de roupa coñecida e cómoda, sen impor o seu estilo."
   - "Deixe a roupa ordenada e use unha indicación curta de cada vez."
   - "Pregunte antes de axudar e protexa a privacidade da persoa."
   - "Consulte a un médico se vestirse se volve difícil de forma nova ou repentina."
@@ -85,7 +85,7 @@ Se vestirse cambiou de forma notable, pregunte á persoa que lle resulta difíci
 
 Se a persoa se confunde de súpeto, busque axuda médica inmediata a través dos servizos de emerxencia da súa zona. A [guía do NHS sobre a confusión repentina](https://www.nhs.uk/symptoms/confusion/) indica que isto precisa atención urxente. Este aviso refírese á confusión súbita, non a un cambio gradual na rutina de vestirse.
 
-Observe que parte da rutina cambiou: escoller a roupa, velaa, manexar un peche ou manter o equilibrio. Comparta o que observou coa persoa e co seu médico, se ela está de acordo. Unha nova dificultade non explica por si mesma a súa causa. Evite supoñer que a persoa é teimuda ou descoidada.
+Observe que parte da rutina cambiou: escoller a roupa, ver as prendas, manexar un peche ou manter o equilibrio. Comparta o que observou coa persoa e co seu médico, se ela está de acordo. Unha nova dificultade non explica por si mesma a súa causa. Evite supoñer que a persoa é teimuda ou descoidada.
 
 Se axuda na casa ou nun centro, pregunte á persoa se quere que as súas preferencias se compartan con outro axudante. Unha nota breve sobre a roupa favorita, a orde que prefire e a indicación que funciona pode axudar a outros a seguir a mesma rutina. Manteña a nota privada e actualícea cando cambien os desexos da persoa.
 
