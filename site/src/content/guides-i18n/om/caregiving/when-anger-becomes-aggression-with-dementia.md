@@ -86,7 +86,7 @@ Gargaarsa hojii addaa, [qajeelfama dhiqannaa](/caregiving/bathing-with-dementia/
 
 ## Yeroo lakkaa'uu booda maal godhuu danda'na?
 
-Yoo namichi barbaade, jajjabeessi, deebii hodhaa fi hojii salphaa tokko deebisi. Hin balaleessin, hin adabin. [Waldaan Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) akkas ibsa: namichi yoo wanta ta'e hin yaadatin illee, dhiibbaan booda ulfaachuu danda'a.
+Yoo namichi barbaade, jajjabeessi, deebii hodhaa fi hojii salphaa tokko deebisi. Hin balaleessin, hin adabin. Waldaan Alzheimer's Society akkas ibsa: namichi yoo wanta ta'e hin yaadatin illee, dhiibbaan booda ulfaachuu danda'a.
 
 Yoo akkaataa yeroo tokko hubachuu barbaadan, yeroo dhiyeenya ta'e, wanta ilaalte, yeroo itti turte fi wanti gargaare barreeffamaa dhuunfaa xiqqaa tokko qabaadhu. Galmeen kun dhugaa qofa ta'u qaba, namoota kunuunsa namichaa irratti hojjetan waliin yeroo barbaachise qoodi. Namicha yookaan odeeffannoo dhuunfaa isaa hayyama malee hin galmeessin yookaan hin qoodin.
 
