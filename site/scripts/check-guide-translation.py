@@ -109,7 +109,10 @@ def check(code: str, rel: str) -> tuple[list[str], list[str]]:
     if links(src_body) != links(body):
         errors.append('link targets differ from English (same links, same order)')
 
-    if numbers(src_body) != numbers(body):
+    source_numbers, translated_numbers = numbers(src_body), numbers(body)
+    if not source_numbers and translated_numbers:
+        errors.append('numbers added though the English body has none')
+    elif source_numbers != translated_numbers:
         warnings.append('numbers in the body differ from English')
     shown = ' '.join(str(front.get(k, '')) for k in ('title', 'seoTitle', 'description', 'summary')) + body
     if '!' in shown or '！' in shown:

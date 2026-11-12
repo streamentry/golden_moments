@@ -10,6 +10,14 @@ Maintainer decision (2026-11-12): target increased from 100 to 500 improvements;
 
 Maintainer decision (2026-11-12): completion also requires all user-facing text changed by each improvement in the 185 unique codes in docs/languages.csv (English source plus 184 non-English translations). Previous rounds require a coverage audit and any needed backfill. Machine translations count as translated coverage only after structural checks and remain explicitly unreviewed.
 
+## 185-language coverage audit
+
+| Rounds | Changed scope | Coverage status |
+|---|---|---|
+| 1–89 | Earlier app and website changes | Not yet audited against the 185-code gate; backfill where any changed user-facing text is missing. |
+| 90 | LGBTQ+ dementia-care guide | Translation backfill in progress on the Round 91 branch. |
+| 91 | Multilingual dementia communication guide | 184 non-English translations in progress; validation follows generation. |
+
 ---
 
 ## Implemented Source Improvements
@@ -673,7 +681,7 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Change | Added a guide on names and pronouns, consent-based disclosure, partners and chosen family, provider privacy, care-setting questions, and support for caregivers. Linked it from residential-care guidance. | No app behavior, account, collection or tracking change. |
 | Safety and rights boundary | The person decides what identity details to share and with whom where possible. A partner or chosen supporter is not automatically a legal decision-maker; provider permissions and authority rules vary by location. | General caregiving information; no legal or clinical determination. |
 | Implementation commit | `5061b4376f93eb07e484c0d2f01993ea522d86d` | Source commit on `codex/improvement-90-lgbtq-care`. |
-| Checks | On Node 24.11.1, `pnpm --dir site verify`: 1,869 tests, 12,522 pages, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106 tests), `scripts/release_metadata.py --check`, `scripts/check_arb.py lib/l10n/arb/app_en.arb` and `git diff --check` passed. | Local automated checks passed; hosted CI is pending. |
+| Checks | On Node 24.11.1, `pnpm --dir site verify`: 1,869 tests, 12,522 pages, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106 tests), `scripts/release_metadata.py --check`, `scripts/check_arb.py lib/l10n/arb/app_en.arb` and `git diff --check` passed. | Local automated checks passed; hosted site build and page checks, browser visual run, spell, app, design-system and release-metadata checks passed on PR #234 head c855d4340d58d4930267a0a2bc4a3da057d1c626. |
 | Render inspection | Built route `/caregiving/supporting-lgbtq-person-with-dementia/` and residential-care cross-link appear in the static output. | Static build checked; no live browser run. |
 | Not verified | No LGBTQ+ person with dementia, partner, chosen-family caregiver, care-setting staff, clinician, native-speaker or live-browser review. | Open; do not claim user, legal or clinical validation. |
 
@@ -685,6 +693,7 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Existing coverage and gap | The communication guide covered short sentences, listening, gestures and pictures, but did not explain language preference or interpreter options for appointments. | Added a focused English guide and linked it from the general communication guide. |
 | Change | Added a question-led guide for asking which language the person prefers, supporting everyday conversation, contacting care providers about interpretation, and preparing a private language-preference note with the person's agreement. | No app changes or new data collection. Existing translated communication-tip pages were not regenerated. |
 | Safety boundary | Language changes alone do not establish why communication changed or indicate a dementia stage. A sudden change with confusion needs urgent assessment. Interpreter access and provider procedures vary by location. | General communication guidance; no diagnosis or legal advice. |
+| Emergency number boundary | The English guide refers to local urgent medical services without naming a number. Initial machine translations added 112 in some locales. | The prompt and checker now reject emergency numbers absent from English; affected draft files are being regenerated. |
 | Implementation commit | `ad4191c664105a9747f63ab9e1f1e3fc6123249d` | Source commit on `codex/improvement-91-language-support`. |
 | Checks | On Node 24.11.1, 1,869 site unit tests passed. TypeScript, Python suite (106 tests), release metadata, ARB validation, cspell JSON validation and `git diff --check` passed locally. Astro was killed by the host with exit 137 during static route generation; `check-site` did not run. Hosted CI is pending. | Site content build and page-check result remain unverified. |
 | Render inspection | The static route and caregiver-hub fallback were not inspected because the build did not complete. | Open. |

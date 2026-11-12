@@ -44,7 +44,7 @@ Rules:
 - Never claim or imply any activity treats, slows, prevents, cures or "trains" anything. Keep every hedge ("may", "linked with").
 - Keep EXACTLY: {placeholders} such as {name}, HTML tags and every href/URL, markdown link targets, the brand "Golden Moments", and the store name "Dementia Games: Golden Moments". Keep numbers.
 - Use the language's own punctuation and quotation marks. No emoji, no exclamation-mark praise, no ALL CAPS.
-- Localize US-only details (for example "911" becomes your local emergency number); keep titles, publishers and URLs of cited sources.
+- Never add an emergency number or clinical detail that the English source does not provide. Localize a number only when the source explicitly gives one; if it asks readers to contact local urgent care or services without a number, keep it number-free. Keep cited source titles, publishers and URLs unchanged.
 """
 
 
@@ -488,6 +488,8 @@ def guide_problems(src: str, out: str) -> str:
     h = re.compile(r'^(#{2,6})\s', re.M)
     if h.findall(ba) != h.findall(bb):
         errs.append('heading levels differ')
+    if not re.search(r'\d', ba) and re.search(r'\d', bb):
+        errs.append('numbers added that are absent from the English source')
     return '; '.join(errs)
 
 
