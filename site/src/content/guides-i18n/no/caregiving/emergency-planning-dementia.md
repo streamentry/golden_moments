@@ -45,7 +45,7 @@ En nødssituasjon kan forstyrre kjente rutiner, og gjøre det vanskeligere for e
 
 Spør personen hva som ville få dem til å føle seg tryggere, og hvem de har tillit til. Hvis det er mulig, la dem være med på å velge et møtested, nødkontakter og kjente ting å ta med. Hold instruksene korte og tydelige. Planen kan endre seg når personens rutiner, helse eller bevegelighet endrer seg.
 
-List opp mer enn én person som kan hjelpe. En hovedpårørende kan være på jobb, borte fra hjemmet eller berørt av den samme nødssituasjonen. Bli enige om hvem som kontakter hvem, hvem som kan kjøre, og hvem som kan sjekke på personen hvis planene endrer seg. Gi hver hjelper en kopi av informasjonen de trenger.
+Lag en liste over mer enn én person som kan hjelpe. En hovedpårørende kan være på jobb, borte fra hjemmet eller berørt av den samme nødssituasjonen. Bli enige om hvem som kontakter hvem, hvem som kan kjøre, og hvem som kan sjekke på personen hvis planene endrer seg. Gi hver hjelper en kopi av informasjonen de trenger.
 
 Vurder hva som kan avbryte personens vanlige støtte. Hvis de bor i en leilighet, går på dagtilbud eller får hjemmebasert omsorg, spør hvordan tjenesten håndterer evakueringer, strømbrudd eller stenging. Finn ut hvem som tar kontakt med familien, og hvordan personens støttebehov blir ivaretatt.
 

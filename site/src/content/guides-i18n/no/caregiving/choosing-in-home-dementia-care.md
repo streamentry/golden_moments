@@ -54,7 +54,7 @@ Hvis personen er usikker, start med ett praktisk behov, eller et kort besøk der
 
 ## Hva bør jeg spørre en leverandør om før jeg ansetter?
 
-Ring noen få leverandører og forklar oppgavene personen ønsker hjelp med. Spør om de kan møte behovene, når de er tilgjengelige, og om de har tatt seg av någen med demens. Spør hvilken opplæring i demens de ansatte får, og hvordan de støtter en person som er forvirret, bekymret eller sliten.
+Ring noen få leverandører og forklar oppgavene personen ønsker hjelp med. Spør om de kan møte behovene, når de er tilgjengelige, og om de har tatt seg av noen med demens. Spør hvilken opplæring i demens de ansatte får, og hvordan de støtter en person som er forvirret, bekymret eller sliten.
 
 Avklar detaljene som påvirker hverdagen: hvem som kommer, hvor ofte, hvor lenge hvert besøk varer, hva som skjer hvis en medarbeider er syk, og hvem man ringer med en bekymring. Hvis personen ønsker samme hjelper når det er mulig, spør om tjenesten kan tilby den kontinuiteten.
 
@@ -80,7 +80,7 @@ Hvis helseinstrukser påvirker oppgaven, spør personens behandler hva leverand�
 
 Sjekk inn med personen etter besøkene. Spør hva som føltes komfortabelt, hva de likte, og hva de ville endret. Hvis de ikke bruker mange ord, legg merke til om de tar imot hjelperen, virker avslappet, og ønsker at besøkene skal fortsette. Disse observasjonene er ikke en poengsum; bruk dem til å veilede en samtale.
 
-Bli enige med leverandøren om hvordan rutineoppdateringer deles, og hvordan bekymringer håndteres. Hvis et besøk blir avlyst, vit hvem som kan være reserve, eller hva personen foretrekker å gjøre i stedet. Gjennomgå oppgavene når personens daglige rutine, helse eller støttebehov endrer seg.
+Bli enige med leverandøren om hvordan rutineoppdateringer deles, og hvordan bekymringer håndteres. Hvis et besøk blir avlyst, vet hvem som kan være reserve, eller hva personen foretrekker å gjøre i stedet. Gjennomgå oppgavene når personens daglige rutine, helse eller støttebehov endrer seg.
 
 Kostnader, timeplaner og tilgjengelige tjenester varierer. Be leverandøren om skriftlige vilkår, inkludert priser, minimum besøkslengde, avbestillingsregler og tilleggsgebyrer. Personens lege, lokale omsorgstjenester eller demensorganisasjoner kan foreslå steder å se, men sammenlign leverandører selv, sammen med personen.
 

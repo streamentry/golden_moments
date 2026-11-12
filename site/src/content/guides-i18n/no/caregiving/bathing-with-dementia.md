@@ -34,7 +34,7 @@ related: [caregiving/home-safety, caregiving/when-they-say-no, caregiving/commun
 health: false
 ---
 
-Bading er privat. For någen som lever med demens kan en dusj eller et bad også føles kaldt, utleverende, forvirrende eller utrygt. Begynn med å spørre hva som ville gjort oppgaven mer behagelig, og forbered rommet før du tilbyr hjelp. Målet er å støtte personens egen rutine uten å gjøre et nei til en kamp.
+Bading er privat. For noen som lever med demens kan en dusj eller et bad også føles kaldt, utleverende, forvirrende eller utrygt. Begynn med å spørre hva som ville gjort oppgaven mer behagelig, og forbered rommet før du tilbyr hjelp. Målet er å støtte personens egen rutine uten å gjøre et nei til en kamp.
 
 [Alzheimer's Associations veiledning om bading](https://www.alz.org/help-support/caregiving/daily-care/bathing) påpeker at det kan føles ubehagelig å få hjelp med en intim oppgave. [Dementia Australias råd om hygiene](https://www.dementia.org.au/living-dementia/staying-healthy/hygiene) anbefaler å følge personens ønsker, bruke enkle trinn og spørre hva slags støtte de vil ha. Folk er ulike; prøv bare endringer som passer denne personen.
 
