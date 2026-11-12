@@ -23,7 +23,7 @@ faq:
   - q: "Firy isan'andro no tokony hitsidika mpitsabo nify ny olona manana dementia?"
     a: "Araho ny toro-hevitr'ny mpitsabo nify ho an'io olona io. Lazao ny ekipa momba ny nify ny fiovana amin'ny fifandraisana na ny fanampiana ilaina mba hahafahany manolotra drafitra fitsidihana mifanaraka."
     
-  - q: "Inona no mety ho famantarana fanaintainana amin'ny vava na amin'ny nify ?"
+  - q: "Inona no mety ho famantarana fanaintainana amin'ny vava na amin'ny nify?"
     a: "Mety hisintona ny tavany ny olona, handa ny fanadiovana na ny sakafo, na hiseho tsy mahazo aina. Ireo famantarana ireo dia mety misy antony hafa, ka anontanio mpitsabo nify hijery fa aza mikasa hamantatra ny olana amin'ny tenanao."
 sources:
   - title: "Dental Care"
@@ -73,11 +73,11 @@ Angataho ny ekipa momba ny nify hanazava ny zavatra hitranga dingana tokana isak
 
 Raha misy ankohonana, mpiasa mikarakara ao an-trano, na mpiasa ao amin'ny toeram-pikarakarana manampy, ifanarahana amin'ny olona momba ny fomba mahafinaritra azy. Ampiasao ny toerana mahazatra sy ny famporisihana fohy mety ny fotoana rehetra. Anontanio raha misy olona manokana tiany hanampy isaky ny mandeha.
 
-Raha manaiky ny olona, zarao ny antsipiriany izay hanampy ny mpanampy manaraka ihany: ny fotoana tiana, izay azony atao amin'ny tenany, ny dingana sarotra ary ny fotoana tiany hajanona ny fanampiana. Tazomy ho miafina ny taratasy soratra, ary araho ny fomba mahazatra amin'ny toeram-pikarakarana. Ny fomba soratra dia torolalana, fa tsy fahazoan-dàlana hitohy rehefa milaza ny olona fa tsia. Mety hiova ny fankasitrahana, ka anontanio indray ary ampifanaraho. Raha maro ny fomba efa sarotra, lazao amin'ny ekipa momba ny nify izay hitanao ary angataho torohevitra ho an'io olona io.
+Raha manaiky ny olona, zarao ny antsipiriany izay hanampy ny mpanampy manaraka ihany: ny fotoana tiana, izay azony atao amin'ny tenany, ny dingana sarotra ary ny fotoana tiany hajanona ny fanampiana. Tazomy ho miafina ny taratasy soratra, ary araho ny fomba mahazatra amin'ny toeram-pikarakarana. Ny fomba soratra dia torolalana, fa tsy fahazoan-dalana hitohy rehefa milaza ny olona fa tsia. Mety hiova ny fankasitrahana, ka anontanio indray ary ampifanaraho. Raha maro ny fomba efa sarotra, lazao amin'ny ekipa momba ny nify izay hitanao ary angataho torohevitra ho an'io olona io.
 
 ## Inona no famantarana tokony hotaterina amin'ny mpitsabo nify?
 
-Sarotra ny milaza fanaintainana amin'ny vava foana. Ny fitsikaana ny tavy, ny fandavana ny fanadiovana, ny fiovana amin'ny fihinanana na ny torimaso mety ho famantarana, fa tsy porofo fa misy olana amin'ny nify. Lazao amin'ny mpitsabo nify izay hitanao sy ny fotoana nanombohany. Ny mpitsabo nify dia afaka manamarina ny fanaintainana, ny olana amin'ny hena, ny ravaka amin'ny nify na nify an-tsangany izay tsy mifanaraka tsara intsony.
+Sarotra ny milaza fanaintainana amin'ny vava foana. Ny fitsikaana ny tavy, ny fandavana ny fanadiovana, ny fiovana amin'ny fihinanana na ny fanaintainana mety ho famantarana, fa tsy porofo fa misy olana amin'ny nify. Lazao amin'ny mpitsabo nify izay hitanao sy ny fotoana nanombohany. Ny mpitsabo nify dia afaka manamarina ny fanaintainana, ny olana amin'ny hena, ny fahasimban'ny nify na nify an-tsangany izay tsy mifanaraka tsara intsony.
 
 Raha misy olana vaovao amin'ny fikohaka na fitelina, ifandraisa amin'ny matihanina ara-pahasalamana na mpitsabo nify. Aza mampiasa fitsaboana vava na mampiasa fomba fitelina raha mifototra amin'ny lahatsoratra ankapobeny. Mitadiava fanampiana haingana raha mafy ny fanaintainana, misy fivontosana, ra na olana ara-pitsaboana hafa tsy miandry.
 
