@@ -78,7 +78,7 @@ Dëse Plang follegt dem Opbau vum Alzheimer's Association sengem eegene Musterpl
 Fänkt bei deem un, wéi d'Persoun ëmmer gelieft huet, net bei engem Tableau. D'Alzheimer's Association rät, iwwer dës Punkte nozedenken, ier Dir plangt:
 
 - **Hir Virléiften, Ofneigungen, Stäerkten a Interessen.**
-- **Wéi si hiren Dag fréier verbruecht huet.** Eng fréi Vulli, déi ëmmer mam Hond spadséiere gaangen ass, soll dat och weider maachen. Eng Nuetsmënsch freet sech vläicht ni op en Ufank um 8:00 Auer.
+- **Wéi si hiren Dag fréier verbruecht huet.** Eng fréi Vulli, déi ëmmer mam Hond spadséiere gaangen ass, soll dat och weider maachen. Eng Nuetsmënsch freet sech vläicht ni op en Ufank um 8 Auer.
 - **Hir beschte Zäit vum Dag.** Leet d'Bueden, d'Ausflich an d'Haaptaktivitéit do op.
 - **Genuch Zäit** fir Iessen, Wäschen an Undoen, dass näischt gehetzt ass.
 - **Reegelméisseg Opstoen- a Bettzäiten.**
