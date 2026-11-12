@@ -1,7 +1,7 @@
 ---
-title: "Når någen med demens ser eller hører ting"
+title: "Når noen med demens ser eller hører ting"
 seoTitle: "Hallusinasjoner og demens: rolige steg for pårørende"
-description: "Lær å reagere rolig når noen med demens ser eller hører ting, sjekk omgivelsene og vit når plutselige endringer krever medisinsk hjelp."
+description: "Lær å reagere rolig når noen med demens ser eller hører ting, sjekk omgivelsene og vet når plutselige endringer krever medisinsk hjelp."
 section: caregiving
 order: 36
 updated: 2026-11-11

@@ -66,7 +66,7 @@ Spør før du blir i rommet eller hjelper med klærne. Personen kan være komfor
 
 Hold personen tildekket så mye de ønsker under skifte. Lukk døren eller gardinene, og unngå å snakke om private detaljer der andre kan høre. Hvis et familiemedlem eller en omsorgsarbeider hjelper til, spør om den personen er velkommen. Ønsker kan endre seg fra dag til dag, så sjekk hver gang.
 
-Påminnelser om å skifte klær kan føles flauе. Tilby et rent, kjent alternativ uten å skjenne eller rette på dem offentlig. Hvis personen vil ha på seg et favorittantrekk om og om igjen, kan lignende klær eller en kopi hjelpe til å holde valget kjent. Gjør ikke skifte av klær til en test av hukommelse eller selvstendighet.
+Påminnelser om å skifte klær kan føles flau. Tilby et rent, kjent alternativ uten å skjenne eller rette på dem offentlig. Hvis personen vil ha på seg et favorittantrekk om og om igjen, kan lignende klær eller en kopi hjelpe til å holde valget kjent. Gjør ikke skifte av klær til en test av hukommelse eller selvstendighet.
 
 Vår [veiledning om stell og bading](/caregiving/bathing-with-dementia/) har flere ideer for å ivareta privatlivet under en annen personlig omsorgsoppgave.
 
