@@ -2,7 +2,7 @@
 
 Goal: Research sites and evidence related to dementia and Alzheimer's, learn from them, choose the best idea one by one, implement it across the app and web, thoroughly verify, log, commit, and push.
 
-**Progress: 90 / 100 completed**
+**Progress: 91 / 100 completed**
 
 ---
 
@@ -63,8 +63,8 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 | # | Improvement Slot | Status |
 |---|---|---|
-| 91 | *Next in queue* | Pending |
-| 92–100 | Planned one by one | Pending |
+| 92 | *Next in queue* | Pending |
+| 93–100 | Planned one by one | Pending |
 
 ## Round 39: optional question on website Conversation Cards
 
@@ -668,3 +668,16 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Checks | On Node 24.11.1, `pnpm --dir site verify`: 1,869 tests, 12,522 pages, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106 tests), `scripts/release_metadata.py --check`, `scripts/check_arb.py lib/l10n/arb/app_en.arb` and `git diff --check` passed. | Local automated checks passed; hosted CI is pending. |
 | Render inspection | Built route `/caregiving/supporting-lgbtq-person-with-dementia/` and residential-care cross-link appear in the static output. | Static build checked; no live browser run. |
 | Not verified | No LGBTQ+ person with dementia, partner, chosen-family caregiver, care-setting staff, clinician, native-speaker or live-browser review. | Open; do not claim user, legal or clinical validation. |
+
+## Round 91: support multilingual communication during dementia (read 2026-11-12)
+
+| Check | Evidence | Result |
+|---|---|---|
+| Source fit | Alzheimer's Society says communication preferences vary and some people may use a language learned earlier; it suggests using the person's usual language and asking about interpreter help. Alzheimer's Association lists return to a native language as one possible change, not a universal rule. HHS cautions that family or friends may not reliably interpret important medical information; the cited FAQ is U.S.-specific and its legal rules are not generalized. NHS says sudden confusion needs immediate medical help. | Keep language changes person-specific; do not use them to infer stage. |
+| Existing coverage and gap | The communication guide covered short sentences, listening, gestures and pictures, but did not explain language preference or interpreter options for appointments. | Added a focused English guide and linked it from the general communication guide. |
+| Change | Added a question-led guide for asking which language the person prefers, supporting everyday conversation, contacting care providers about interpretation, and preparing a private language-preference note with the person's agreement. | No app changes or new data collection. Existing translated communication-tip pages were not regenerated. |
+| Safety boundary | Language changes alone do not establish why communication changed or indicate a dementia stage. A sudden change with confusion needs urgent assessment. Interpreter access and provider procedures vary by location. | General communication guidance; no diagnosis or legal advice. |
+| Implementation commit | `ad4191c664105a9747f63ab9e1f1e3fc6123249d` | Source commit on `codex/improvement-91-language-support`. |
+| Checks | On Node 24.11.1, 1,869 site unit tests passed. TypeScript, Python suite (106 tests), release metadata, ARB validation, cspell JSON validation and `git diff --check` passed locally. Astro was killed by the host with exit 137 during static route generation; `check-site` did not run. Hosted CI is pending. | Site content build and page-check result remain unverified. |
+| Render inspection | The static route and caregiver-hub fallback were not inspected because the build did not complete. | Open. |
+| Not verified | No multilingual reader, person with dementia, caregiver, clinician, interpreter, native-speaker or live-browser review. The NIA interpreter pages were seen in search but returned HTTP 405 when opened; they were not used. | Do not claim user, clinical or native-language validation. |
