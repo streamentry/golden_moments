@@ -1,7 +1,7 @@
 ---
 title: "Miegas ir smegenų sveikata: ką rodo tyrimai ir kas padeda"
 seoTitle: "Miegas ir demencija: ką rodo tyrimai"
-description: "Ką tyrimai sako apie miegą ir demencijos riziką, kodėl tyrimai apie smegenų „išvalymą“ dar ankstyvi ir praktiški miego įpročiai vyresnio amžiaus žmonėms bei jų globėjams."
+description: "Ką tyrimai sako apie miegą ir demencijos riziką, kodėl smegenų „išvalymo“ tyrimai dar ankstyvi ir kokie miego įpročiai padeda."
 section: brain-health
 order: 7
 updated: 2026-10-25

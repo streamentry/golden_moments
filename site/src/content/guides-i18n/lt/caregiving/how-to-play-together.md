@@ -101,7 +101,7 @@ Pakvietimas turi būti neformalus ir lengvai atmetamas. Frazės, kurios paprasta
 - „Ar šiandien norėtum gėlių, ar paukščių?“ (pasirinkti iš dviejų lengviau nei atviras klausimas)
 - „Kuriu kortelę tavo seseriai. Kokios spalvos ši turėtų būti?“
 
-[Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/activities) pataria paaiškinti
+Alzheimerio asociacija pataria paaiškinti
 veiklos tikslą, pavyzdžiui, kad kuriate kortelę draugui, nes priežastis suteikia prasmę. Prašymas
 padėti taip pat veikia, nes žmogus jaučiasi naudingas.
 

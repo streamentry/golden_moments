@@ -1,7 +1,7 @@
 ---
 title: "Kai žmogus su demencija nuolat prašo grįžti namo"
 seoTitle: "Demencija ir prašymas grįžti namo: ką pasakyti"
-description: "Kodėl žmogus, sergantis demencija, prašo grįžti namo net būdamas namuose, ką pasakyti, kokia ramindanti veikla gali padėti ir kaip apsaugoti jį, jei jis bando išeiti."
+description: "Kodėl žmogus su demencija prašo grįžti namo, ką pasakyti, kokia veikla nuramina ir kaip apsaugoti jį, jei jis bando išeiti."
 section: caregiving
 order: 8
 updated: 2026-11-11

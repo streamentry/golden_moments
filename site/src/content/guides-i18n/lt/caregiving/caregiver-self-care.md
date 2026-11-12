@@ -1,7 +1,7 @@
 ---
 title: "Globėjo savipagalba: pertrauka, parama ir perdegimo požymiai"
 seoTitle: "Demencijos globėjo savipagalba: pertrauka ir parama"
-description: "Globėjo perdegimo požymiai, kaip rasti poilsio pertrauką ir paramos grupes bei nemokamos JAV pagalbos linijos, įskaitant Alzheimerio asociacijos 24/7 pagalbos liniją ir Eldercare Locator."
+description: "Globėjo perdegimo požymiai, laikina globa, paramos grupės ir nemokamos JAV pagalbos linijos, įskaitant Alzheimerio asociacijos 24/7 liniją."
 section: caregiving
 order: 7
 updated: 2026-10-25
