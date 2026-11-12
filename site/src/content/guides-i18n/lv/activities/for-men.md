@@ -1,32 +1,32 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Aktivitātes vīriešiem ar demenci"
+seoTitle: "Aktivitātes vīriešiem ar demenci: idejas no reālās dzīves"
+description: "Aktivitāšu idejas vīriešiem ar demenci, balstītas uz pagātnes darbu, hobijiem un rutīnu, nevis stereotipiem, kā arī padomi, kā katru no tām droši pielāgot."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Labākās aktivitātes vīrietim ar demenci nāk no viņa paša dzīves: darba, ko viņš
+  darīja, hobijiem, ko mīlēja, un ikdienas rutīnām, ko ievēroja. Bijušais biroja
+  darbinieks var priecāties par dokumentu kārtošanu, mehāniķis — par tīriem
+  instrumentiem, sporta fanam var patikt vecā spēle. Intereses atšķiras no vīrieša
+  uz vīrieti, tāpēc sāciet no cilvēka, nevis no dzimuma.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Sāciet ar šī vīrieša paša vēsturi: darbu, hobijiem, rutīnām un to, ar ko viņš lepojās."
+  - "Darbi ar reālu mērķi, piemēram, skrūvju šķirošana, auto mazgāšana vai koka slīpēšana, bieži patīk vairāk nekā aktivitātes, kas izskatās pēc nodarbības."
+  - "Ne visiem vīriešiem patīk instrumenti vai sports. Daudzi priecājas par gatavošanu, mūziku, dārzkopību, mākslu vai rūpēm par citiem. Jautājiet, vērojiet un sekojiet viņa vadībai."
+  - "Darbus, kas atgādina amatniecību, padariet drošus, noņemot asus instrumentus un uzraugot, un vienkāršojiet tos, kad spējas mainās."
+  - "Atteikties drīkst. Piedāvājiet lomu, nevis uzdevumu, un mēģiniet citu dienu."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Kādas aktivitātes patīk vīriešiem ar demenci?"
+    a: "Nav viena saraksta, jo vīriešu intereses ir tikpat dažādas kā jebkuram citam. Labas sākumvietas ir darbi, kas saistīti ar viņa pagātnes darbu, piemēram, dokumentu kārtošana vai skrūvju un uzgriežņu šķirošana, kā arī hobiji, ko viņš mīlēja, piemēram, makšķerēšana, auto, mūzika, gatavošana vai sports. Vērojiet, ko viņš dara pats, un veidojiet uz tā."
+  - q: "Mans tēvs atsakās no grupu aktivitātēm. Ko varu darīt?"
+    a: "Daudzi cilvēki, gan vīrieši, gan sievietes, atsakās no aktivitātēm, kas izskatās pēc nodarbības vai šķiet bērnišķīgas. Mēģiniet piedāvāt darbu: „Vai varētu palīdzēt man šo sakārtot?” Mazākas grupas vai laiks vienam pret vienu var justies ērtāk nekā liela telpa."
+  - q: "Vai ir droši ļaut viņam lietot instrumentus?"
+    a: "Tikai ar uzraudzību un drošiem instrumentiem. Noņemiet elektroinstrumentus, asmeņus un visu asu, un piedāvājiet darbus, piemēram, koka bloka slīpēšanu, tīru skrūvju šķirošanu vai lielu skrūvju pievilkšanu ar rokām. Alzheimer's Association iesaka no darbnīcas izņemt bīstamas lietas, lai tāds darbs kā slīpēšana joprojām būtu drošs un patīkams."
+  - q: "Viņš bija profesionālis. Vai vienkārši darbi neaizskars?"
+    a: "Var aizskart, ja tie tiek pasniegti kā aizņemšana. Pasniedziet uzdevumu kā reālu palīdzību, izmantojiet pieaugušajiem paredzētus materiālus un izvēlieties kaut ko tuvu viņa bijušajai lomai, piemēram, saraksta pārskatīšanu, failu kārtošanu vai vēstuļu sagatavošanu sūtīšanai. Ja viņš kaut ko darīja ļoti prasmīgi, kaut kas saistīts, bet atšķirīgs, var justies mazāk kā salīdzinājums."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +45,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Cilvēki bieži meklē „aktivitātes vīriešiem ar demenci”, jo parastie ieteikumi nešķiet piemēroti vīrietim viņu dzīvē. Tā ir pamatota rūpe. Taču atbilde nav „vīrišķīgu” aktivitāšu saraksts. Tā ir sākt ar šo konkrēto cilvēku: ko viņš darīja savā darbā, ko darīja brīvajā laikā un kas viņam lika justies noderīgam. Intereses ir dažādas visiem. Daudzi vīrieši mīl gatavot, dārzkopt, gleznot vai dziedāt, un daudzas sievietes mīl automašīnas un beisbolu.
 
-## How do I find activities he will actually enjoy?
+## Kā atrast aktivitātes, kas viņam tiešām patiks?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Sāciet ar viņa dzīves stāstu. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) iesaka veidot [dienas plānu](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) ap cilvēka patikām, nepatikām, stiprajām pusēm un interesēm, kā arī ap to, kā viņš agrāk strukturēja dienu. Pajautājiet sev:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Kāds bija viņa darbs?** Birojs, saimniecība, rūpnīca, amats, karadienests, pārdošana, mācīšana, braukšana, mājas?
+- **Ko viņš darīja brīvajā laikā?** Makšķerēšana, kārtis, kokapstrāde, sports, baznīca, mūzika, gatavošana, mašīna garāžā?
+- **Kādas bija viņa rutīnas?** Rīta kafija un avīze? Laika pārbaude? Auto mazgāšana sestdienās?
+- **Ko viņš joprojām sāk pats?** Asociācija norāda, ka, ja cilvēks sāk darbus bez lūguma, piemēram, slauka grīdu, šie darbi var kļūt par daļu no rutīnas.
+- **No kā viņš izvairās?** Daži cilvēki labprāt skatās sportu; citus tempa un troksnis nomāc. Pamaniet, kad viņš šķiet laimīgs, satraukts vai kaitinās.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Runājiet arī ar ģimeni un vecajiem draugiem. Viņi var atcerēties intereses, kas no ikdienas dzīves jau izzudušas.
 
-## Activity ideas based on past work
+## Aktivitāšu idejas, kas balstītas uz pagātnes darbu
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association sniedz skaidru piemēru: bijušais biroja darbinieks var labprāt šķirot monētas turētājā, palīdzēt sagatavot pasta sūtījumu vai veidot darāmo darbu sarakstu, bet bijušais zemnieks vai dārznieks var labprāt strādāt pagalmā. Tas pats princips attiecas uz daudziem darbiem.
 
-| Past work | Activity ideas | Simpler version |
+| Pagātnes darbs | Aktivitāšu idejas | Vienkāršāka versija |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Birojs vai bizness | Dokumentu šķirošana mapēs, aploksnju aizzīmogošana, saraksta pārskatīšana, galda atvilktnes kārtošana | Aploksnju kraušana; saspraužu ielikšana kastītē |
+| Amats vai mehāniķis | Tīru uzgriežņu, skrūvju un paplākšņu šķirošana; lielu skrūvju pievilkšana ar rokām; instrumentu katalogu skatīšana | Šķirošana pēc izmēra divos traukos |
+| Lauksaimniecība vai ainavu veidošana | Laistīšana, augu pārstādīšana podos, lapu grābšana, dārza pārbaude | Sēdēšana ārā, kamēr jūs strādājat; sēklu paciņu turēšana |
+| Karadienests | Kurpju spodrināšana, atvilktnes sakārtošana, dienesta laika fotogrāfiju skatīšana, ja viņam tas patīk | Mūzikas klausīšanās no tā laikmeta |
+| Pārdošana vai klientu apkalpošana | Viesu sagaidīšana, uzkodu izdalīšana, kuponu šķirošana | Sēdēšana pie durvīm, lai pateiktu sveiki |
+| Mācīšana | Lasīšana skaļi, grāmatu sakārtošana, attēlu šķirošana pēc tēmas | Kopā grāmatas attēlu skatīšanās |
+| Vadīšana vai transports | Karšu vai vecu auto žurnālu skatīšana, auto mazgāšana | Mašīnu vērošana no lieveņa |
+| Mājas un ģimene | Veļas salocīšana, galda klāšana, palīdzība vakariņu gatavošanā | Salvešu izlīdzināšana; maisīšana |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Daži atmiņas, piemēram, karadienests, var radīt spēcīgas jūtas. Sekojiet viņa vadībai, sarunas par pagātni turiet pozitīvas un maigi mainiet tēmu, ja viņš šķiet satraukts.
 
-## Activity ideas based on hobbies
+## Aktivitāšu idejas, kas balstītas uz hobijiem
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Kokapstrāde.** Gluda koka bloka slīpēšana vai putnu mājiņas komplekta krāsošana. Alzheimer's Association iesaka no darbnīcas izņemt bīstamus materiālus un instrumentus, lai tāda aktivitāte kā slīpēšana būtu patīkama un droša.
+2. **Makšķerēšana.** Makšķerēšanas kastes šķirošana bez āķiem, makšķerēšanas žurnālu lasīšana vai kopā sēdēšana pie dīķa.
+3. **Automašīnas.** Auto mazgāšana, hromēto detaļu spodrināšana, klasisko auto fotogrāfiju skatīšana vai brauciens pasažiera vietā.
+4. **Sports.** Klasiskas spēles vai atlases skatīšanās, mīkstas bumbas mešana, golfa bumbiņu likšana uz paklāja vai beisbola kāršu šķirošana.
+5. **Kārtis un spēles.** Vienkārša pazīstamas kāršu spēles partija, domino vai kāršu apgriešana, lai atrastu pāri. Turiet to vaļīgi un atmetiet punktu skaitīšanu.
+6. **Mūzika.** Dziesmas no viņa pusaudža gadiem un divdesmitajiem, iecienīta grupa vai korāls. Skatiet mūsu [mūzikas aktivitāšu rokasgrāmatu](/activities/music/).
+7. **Gatavošana un grilēšana.** Dārzeņu mazgāšana, mērces maisīšana, buršu veidošana vai stāstīšana, kā viņš gatavoja savu slaveno čili, kamēr jūs to gatavojat.
+8. **Avīze.** Alzheimer's Association norāda, ka cilvēks, kurš vienmēr lasīja avīzi, var joprojām to baudīt, pat ja nespēj pilnībā sekot saturam. Rīta kafija un avīze var palikt daļa no rīta.
+9. **Būvēšana.** Lielu detaļu modeļu komplekti vai vienkārši pieaugušajiem paredzēti konstruktori. Izvēlieties detaļas, ko ir viegli satvert.
+10. **Rūpes par kaut ko.** Mājdzīvnieka barošana, putnu barotavas piepildīšana vai augu laistīšana. NIA min [mājdzīvnieka barošanu, kopšanu vai izvešanu pastaigā](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) starp aktivitātēm, kas cilvēkiem var patikt.
 
-## How do I offer an activity without it feeling like busywork?
+## Kā piedāvāt aktivitāti, lai tā nelikās kā aizņemšana?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Pasniedziet to kā reālu palīdzību. Alzheimer's Association iesaka jautāt: „Vai varētu, lūdzu, man palīdzēt?” un saistīt uzdevumus ar mērķi. Salīdziniet:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Vai gribi sašķirot šīs skrūves?” (izskatās pēc testa)
+- „Nopirku jauktu skrūvju komplektu, un man tās vajag sašķirot, pirms salabot plauktu. Vai var man palīdzēt?” (izskatās pēc darba)
 
-Other tips:
+Citi padomi:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Izmantojiet pieaugušajiem paredzētus materiālus.** Īsti instrumenti ar noņemtām asajām malām, īsti katalogi, īstas aploksnes.
+- **Strādājiet blakus.** Divi cilvēki, kas strādā pie viena darba, ir kompānija. Viens, kas vēro otru, ir uzraudzība.
+- **Nelabojiet.** Ja skrūves nonāk nepareizā glāzē, lai tā paliek. Svarīgs ir kopā pavadītais laiks un sajūta, ka esat noderīgs.
+- **Palīdziet sākt.** Alzheimer's Association norāda, ka daudziem cilvēkiem joprojām ir vēlme kaut ko darīt, bet grūti sakārtot un sākt. Pirmo daļu izdariet kopā.
 
-## How do I adapt as things change?
+## Kā pielāgoties, kad viss mainās?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Demencei progresējot, Alzheimer's Association iesaka ieviest vienkāršākus, atkārtojošus uzdevumus un būt gatavam, ka cilvēks ieņems mazāk aktīvu lomu. Vīrietis, kurš reiz remontēja motorus, tagad var labprāt turēt tīru uzgriežņatslēgu un runāt par auto vai vērot, kā jūs strādājat. Vērot arī nozīmē piedalīties.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Ja viņš kaut ko darīja ļoti prasmīgi, saistīta aktivitāte var justies labāk nekā viņa vecā amata prasme. Asociācija norāda, ka profesionāls mākslinieks var just vilšanos, kad mainās viņa darbs, bet amatieris var priecāties par jaunu izpausmes veidu. Tas pats attiecas uz meistaru galdnieku.
 
-## Safety with work-style tasks
+## Drošība darbu veidā
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Noņemiet elektroinstrumentus, asmeņus, naglas un skrūves ar asiem galiem.
+- Noslēdziet krāsas šķīdinātāju, benzīnu un ķimikālijas.
+- Ja viņš vairs nevada, glabājiet automašīnas atslēgas tā, lai tās nebūtu redzamas.
+- Uzraugiet visus darbnīcas un pagalma darbus.
+- Izvēlieties lielas detaļas, ko nevar norīt.
 
-## What if he says no?
+## Ko darīt, ja viņš saka nē?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Respektējiet to. Nē var nozīmēt, ka uzdevums šķiet pārāk grūts, pārāk bērnišķīgs vai šodien vienkārši nav īstais. Alzheimer's Association brīdina nespiest. Mēģiniet citu uzdevumu, citu laiku vai vienkārši sēdiet kopā. Skatiet [ko darīt, kad viņi saka nē](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Spēles un saruna, kas der
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Finish the Saying](/games/finish-the-saying/) izmanto pazīstamus amerikāņu teicienus un noved pie sarunas. [Conversation Cards](/games/conversation-cards/) piedāvā atvērtus jautājumus bez viktorīnas pēc tēmām, kas var atvērt stāstus par darbu un hobijiem. [Attēlu puzle](/games/picture-puzzle/) visu laiku rāda visu attēlu, kamēr maināt gabaliņus, un lielas drukas [vārdu meklēšanu](/games/word-search/) var izdrukāt un atrisināt ar pildspalvu virtuves galdā. Lai runātu par viņa pagātni, nepārbaudot viņu, skatiet mūsu [atcerēšanās rokasgrāmatu](/activities/reminiscence/).

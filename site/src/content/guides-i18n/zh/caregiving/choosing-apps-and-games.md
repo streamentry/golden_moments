@@ -144,7 +144,7 @@ health: false
 
 ### 有哪些公开的误导性说法的例子？
 
-2016 年 1 月，FTC [宣布](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)与“脑力训练”项目 Lumosity 的制作公司达成和解。FTC 指称，该公司在没有充分证据的情况下声称，其游戏可以延缓与年龄相关的认知衰退，并可以防范轻度认知障碍、痴呆和阿尔茨海默病。该公司同意支付 200 万美元，并且今后在作出此类说法之前，必须有合格、可靠的科学证据。这一案例提醒我们，营销用语并不等于证据。
+2016 年一月，FTC [宣布](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)与“脑力训练”项目 Lumosity 的制作公司达成和解。FTC 指称，该公司在没有充分证据的情况下声称，其游戏可以延缓与年龄相关的认知衰退，并可以防范轻度认知障碍、痴呆和阿尔茨海默病。该公司同意支付 200 万美元，并且今后在作出此类说法之前，必须有合格、可靠的科学证据。这一案例提醒我们，营销用语并不等于证据。
 
 ### 哪些词语是危险信号？
 

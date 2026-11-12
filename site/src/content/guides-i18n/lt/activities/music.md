@@ -49,7 +49,7 @@ Muziką vienas paprasčiausių dalykų, kuriuo galima dalytis su žmogumi, gyven
 
 ## Kokios muzikos veiklos tinka žmonėms su demencija?
 
-Klausymasis, dainavimas, plojimas, sūpavimasis ir kalbėjimas apie muziką – visa tai gerai tinka. Jungtinių Valstijų [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) siūlo groti muziką, kalbėti apie kūrinį ir atlikėją, dainuoti ar šokti pagal žinomas dainas ir lankyti koncertus ar muzikines programas bendruomenėje. „Alzheimer's Association“ [(Alcheimerio asociacija)](https://www.alz.org/help-support/caregiving/daily-care/art-music) priduria, kad judesys, pavyzdžiui, plojimas ar šokis, gali padidinti malonumą, o muzika gali būti būdas susisiekti, kai žodžiai tampa sunkūs.
+Klausymasis, dainavimas, plojimas, sūpavimasis ir kalbėjimas apie muziką – visa tai gerai tinka. Jungtinių Valstijų [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) siūlo groti muziką, kalbėti apie kūrinį ir atlikėją, dainuoti ar šokti pagal žinomas dainas ir lankyti koncertus ar muzikines programas bendruomenėje. [Alcheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/art-music) priduria, kad judesys, pavyzdžiui, plojimas ar šokis, gali padidinti malonumą, o muzika gali būti būdas susisiekti, kai žodžiai tampa sunkūs.
 
 ## Kaip sudaryti asmeninį grojaraštį?
 

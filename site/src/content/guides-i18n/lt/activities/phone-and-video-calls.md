@@ -101,7 +101,7 @@ Kai gyvi skambučiai sunkūs, įrašykite trumpą vaizdo įrašą: sveikinimą, 
 
 ## O paprasti telefono skambučiai?
 
-Telefono skambučiai vis dar svarbūs. Dementia Australia [(Demencijos Australija)](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) pataria [skambinti tuo pačiu laiku kiekvieną dieną](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ir neskubėti, nes žmonėms su demencija gali prireikti laiko įsitraukti. Telefonu:
+Telefono skambučiai vis dar svarbūs. Dementia Australia pataria [skambinti tuo pačiu laiku kiekvieną dieną](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) ir neskubėti, nes žmonėms su demencija gali prireikti laiko įsitraukti. Telefonu:
 
 - Iš karto pasakykite savo vardą ir giminystės ryšį: „Labas, tėti, čia Jonė, tavo dukra.“
 - Kalbėkite lėtai, trumpais sakiniais, po vieną mintį.

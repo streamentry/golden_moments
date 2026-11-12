@@ -69,7 +69,7 @@ health: false
 
 ## 为什么患有痴呆的人一再说要回家？
 
-通常，“家”更像是一种感受，而不是一个地方。[阿尔茨海默病协会](https://www.alzheimers.org.uk/blog/i-want-go-home-what-to-say-to-someone-in-dementia-care)（Alzheimer's Society）将它描述为一种舒适和安全感，或过去的一个家，而不是房子本身。痴呆会让熟悉的房间看起来很陌生，人也可能觉得自己回到了生命中更早的阶段，那时的家是童年的房子，或是抚养孩子的地方。
+通常，“家”更像是一种感受，而不是一个地方。英国阿尔茨海默病协会（Alzheimer's Society）将它描述为一种舒适和安全感，或过去的一个家，而不是房子本身。痴呆会让熟悉的房间看起来很陌生，人也可能觉得自己回到了生命中更早的阶段，那时的家是童年的房子，或是抚养孩子的地方。
 
 这些话也可能说明当下有其他问题：他们可能饿了、渴了、需要上厕所、疼痛、太热或太冷、疲倦、孤单、害怕，或被噪音弄得不知所措。[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning)列出，疼痛、噪音、孤单、作息改变和药物都可能导致激动不安。
 
