@@ -44,16 +44,22 @@ Rules:
 - Never claim or imply any activity treats, slows, prevents, cures or "trains" anything. Keep every hedge ("may", "linked with").
 - Keep EXACTLY: {placeholders} such as {name}, HTML tags and every href/URL, markdown link targets, the brand "Golden Moments", and the store name "Dementia Games: Golden Moments". Keep numbers.
 - Use the language's own punctuation and quotation marks. No emoji, no exclamation-mark praise, no ALL CAPS.
-- Localize US-only details (for example "911" becomes your local emergency number); keep titles, publishers and URLs of cited sources.
+- Never add an emergency number or clinical detail that the English source does not provide. Localize a number only when the source explicitly gives one; if it asks readers to contact local urgent care or services without a number, keep it number-free. Keep cited source titles, publishers and URLs unchanged.
 """
 
 
 def languages() -> list[dict]:
     out = []
+    seen = set()
     with open(CSV, newline='') as f:
         for row in csv.reader(f):
-            if row and row[0].strip() and row[0].strip() != '639-1':
-                out.append({'code': row[0].strip(), 'english': row[3].strip(), 'native': row[4].split(',')[0].strip()})
+            if not row or not row[0].strip() or row[0].strip() == 'Locale code':
+                continue
+            code = row[0].strip()
+            if code in seen:
+                raise ValueError(f'duplicate language code in {CSV}: {code}')
+            seen.add(code)
+            out.append({'code': code, 'english': row[3].strip(), 'native': row[4].split(',')[0].strip()})
     return out
 
 
@@ -93,6 +99,15 @@ DEEPSEEK_FREE_MODEL = 'opencode/deepseek-v4.1-flash-free'
 GLM_FREE_MODEL = 'opencode/glm-5.3-flash-free'
 ICEMAN_MODEL = 'opencode-go/iceman-contributor-free'
 MODEL_FOR = {'opencode': OPENCODE_MODEL, 'deepseek': DEEPSEEK_MODEL, 'dsfree': DEEPSEEK_FREE_MODEL, 'glmfree': GLM_FREE_MODEL, 'iceman': ICEMAN_MODEL}
+
+FREE_BACKENDS = ['iceman', 'dsfree', 'glmfree']
+
+
+def configure_free_only() -> None:
+    global BACKENDS, FALLBACKS, ALL_BACKENDS
+    BACKENDS = list(FREE_BACKENDS)
+    FALLBACKS = []
+    ALL_BACKENDS = list(FREE_BACKENDS)
 QUOTA = re.compile(r'RESOURCE_EXHAUSTED|\b429\b|\b402\b|provider\.quota|usage limit|quota|insufficient funds|rate.?limit|too many requests|overloaded', re.I)
 AUTH = re.compile(r'authentication required|not logged in|unauthorized|invalid api key|\b401\b|\b403\b', re.I)
 fails: dict[str, int] = {}
@@ -450,6 +465,46 @@ def translate_guide(lang: dict, rel: str) -> str:
     raise RuntimeError(f'{code}/{rel}: {last}')
 
 
+def number_tokens(text: str) -> list[str]:
+    values = []
+    for token in re.findall(r'\d+(?:[,.]\d+)*', text):
+        value = ''.join(str(int(ch)) for ch in token if ch.isdecimal())
+        if value:
+            values.append(value)
+    return sorted(values)
+
+
+EMERGENCY_NUMBERS = {'000', '101', '102', '108', '110', '111', '112', '119', '190', '191', '192', '193', '911', '988', '995', '999'}
+
+
+def visible_number_tokens(text: str) -> list[str]:
+    visible = re.sub(r'\]\([^)]*\)', ']', text)
+    visible = re.sub(r'https?://\S+', '', visible)
+    return number_tokens(visible)
+
+
+def added_number_values(source: str, translated: str) -> list[str]:
+    remaining = number_tokens(source)
+    added = []
+    for value in number_tokens(translated):
+        if value in remaining:
+            remaining.remove(value)
+        else:
+            added.append(value)
+    return added
+
+
+def unsafe_number_additions(source: str, translated: str) -> bool:
+    added = added_number_values(source, translated)
+    if not added:
+        return False
+    if any(value not in EMERGENCY_NUMBERS for value in added):
+        return True
+    source_emergency = [value for value in visible_number_tokens(source) if value in EMERGENCY_NUMBERS]
+    translated_emergency = [value for value in visible_number_tokens(translated) if value in EMERGENCY_NUMBERS]
+    return not source_emergency or len(translated_emergency) > len(source_emergency)
+
+
 def guide_problems(src: str, out: str) -> str:
     import yaml
     try:
@@ -473,6 +528,8 @@ def guide_problems(src: str, out: str) -> str:
     h = re.compile(r'^(#{2,6})\s', re.M)
     if h.findall(ba) != h.findall(bb):
         errs.append('heading levels differ')
+    if unsafe_number_additions(ba, bb):
+        errs.append('numbers added that are absent from the English source')
     return '; '.join(errs)
 
 
@@ -499,9 +556,28 @@ def json_done(kind: str, code: str) -> bool:
     return sum(ts) / max(1, len(ts)) < 0.3
 
 
-def pending(kinds, codes):
+def guide_paths(selected: list[str] | None = None) -> list[str]:
+    available = sorted(p.relative_to(GUIDES).as_posix() for p in GUIDES.glob('**/*.md'))
+    if not selected:
+        return available
+    result = []
+    for raw in selected:
+        value = raw.strip().replace('\\', '/')
+        if not value:
+            continue
+        if value.startswith('/') or '..' in Path(value).parts:
+            raise ValueError(f'invalid guide path: {raw}')
+        rel = value if value.endswith('.md') else value + '.md'
+        if rel not in available:
+            raise ValueError(f'unknown guide path: {raw}')
+        if rel not in result:
+            result.append(rel)
+    return result
+
+
+def pending(kinds, codes, guides: list[str] | None = None):
     todo = []
-    rels = [str(p.relative_to(GUIDES)) for p in sorted(GUIDES.glob('**/*.md'))]
+    rels = guide_paths(guides) if 'guides' in kinds else []
     for code in codes:
         for k in kinds:
             if k == 'guides':
@@ -518,11 +594,29 @@ def main():
     ap.add_argument('--langs', default='')
     ap.add_argument('--jobs', type=int, default=5, help='parallel tasks, capped at 5')
     ap.add_argument('--limit', type=int, default=0)
+    ap.add_argument('--guides', default='', help='comma-separated guide paths (section/slug); only these guides are considered')
+    ap.add_argument('--free-only', action='store_true', help='use only free contributor/free-tier translation backends')
     a = ap.parse_args()
+    if a.free_only:
+        configure_free_only()
     meta = locale_codes()
-    codes = [c for c in (a.langs.split(',') if a.langs else [l['code'] for l in languages() if l['code'] in meta]) if c != 'en' and c in meta]
+    try:
+        requested_codes = a.langs.split(',') if a.langs else [lang['code'] for lang in languages()]
+    except ValueError as error:
+        ap.error(str(error))
+    requested_codes = list(dict.fromkeys(code.strip() for code in requested_codes if code.strip()))
+    unknown_codes = sorted(set(requested_codes) - set(meta))
+    if unknown_codes:
+        ap.error(f'no locale metadata for language codes: {", ".join(unknown_codes)}')
+    codes = [code for code in requested_codes if code != 'en']
     kinds = a.kinds.split(',')
-    todo = pending(kinds, codes)
+    selected_guides = [guide.strip() for guide in a.guides.split(',') if guide.strip()]
+    if selected_guides and 'guides' not in kinds:
+        ap.error('--guides requires guides in --kinds')
+    try:
+        todo = pending(kinds, codes, selected_guides or None)
+    except ValueError as error:
+        ap.error(str(error))
     by = {}
     for k, c, r in todo:
         by.setdefault(k, set()).add(c)

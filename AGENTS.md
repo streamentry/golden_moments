@@ -60,11 +60,10 @@ instead of silently treating any one of these as proof of the others.
   automatic mismatch timer. Keep visible-picture play and an easy way to stop. No
   screen anywhere shows a stopwatch, move count, streak, confetti, countdown or
   auto-closing dialog.
-- No new telemetry, SDK collection, permissions, cloud sync, or recurring cost
-  without explicit approval and a documented privacy/product decision. Existing
-  Firebase was removed; re-adding an analytics or crash SDK needs that decision.
-- Do not put family photos, EXIF, diagnoses, secrets, or raw personal paths in
-  logs, fixtures, commits, CI artifacts, or external AI/tool requests.
+- No new telemetry, SDK collection, permissions, cloud sync, or recurring cost without explicit approval and a documented privacy/product decision. Existing Firebase was removed; re-adding analytics or crash SDKs needs that decision.
+- Do not put family photos, EXIF, diagnoses, secrets, or raw personal paths in logs, fixtures, commits, CI artifacts, or external AI/tool requests.
+- For the 500-improvement goal, changed user-facing text must appear in all 185 unique codes in docs/languages.csv; track source and translation counts separately.
+  Machine translations must pass validation and remain marked unreviewed.
 
 ## Design system
 
