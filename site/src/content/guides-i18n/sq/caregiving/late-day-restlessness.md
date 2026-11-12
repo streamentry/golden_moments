@@ -1,34 +1,33 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: aktivitete të qeta pasdite vonë për personat me demencë"
+seoTitle: "Sundowning: aktivitete të qeta pasdite vonë"
+description: "Rutina të buta, ndryshime dhome dhe aktivitete të qeta që mund të zbusin shqetësimin e pasdites vonë në demencë, plus kur të telefononi mjekun për simptoma të reja ose që përkeqësohen."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning është shqetësim, konfuzion ose irritim që fillon ose përkeqësohet pasdite vonë ose në
+  mbrëmje. Hapa praktikë që mund të ndihmojnë përfshijnë një rutinë të qëndrueshme ditore, dritën e
+  diellit dhe aktivitetin më herët gjatë ditës, më pak pushime vonë, më pak kafeinë, drita të ndezura
+  brenda shtëpisë para muzgut, një shtëpi më e qetë, dhe aktivitete të qeta si muzika, fotografitë ose
+  palosja e rrobave. Simptomat e reja ose që përkeqësohen kërkojnë kontroll nga mjeku.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning do të thotë shqetësim ose konfuzion që fillon ose përkeqësohet ndërsa drita e ditës zbehet."
+  - "Vendosni detyrat e kërkuara, daljet dhe banjot në mëngjes ose në fillim të pasdites."
+  - "Drita e ditës, një shëtitje e përditshme, më pak pushime vonë dhe më pak kafeinë vonë gjatë ditës mund ta bëjnë mbrëmjen më të lehtë."
+  - "Ndizni dritat para muzgut, ulni zhurmën, dhe kaloni te aktivitetet e qeta dhe të njohura."
+  - "Mbani një regjistër për të zbuluar shkaktarët, dhe qëndroni të qetë dhe të qetësues kur fillon shqetësimi."
+  - "Shihni mjekun për simptoma të reja ose që përkeqësohen: dhimbja, infeksioni ose ilaçet mund të luajnë rol."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Në cilën orë të ditës ndodh zakonisht sundowning?"
+    a: "Zakonisht fillon ose përkeqësohet pasdite vonë ose në fillim të mbrëmjes, ndërsa drita e ditës zbehet. Koha e saktë ndryshon nga një person në tjetrin, prandaj mbajtja e një regjistri të shkurtër për një ose dy javë mund të ndihmojë."
+  - q: "Cilat aktivitete ndihmojnë me sundowning?"
+    a: "Aktivitetet e qeta, të njohura dhe me përpjekje të ulët funksionojnë më mirë pasdite vonë: muzikë e qetë, shikimi i fotografive, një emision ose film TV i preferuar, palosja e rrobave, një shëtitje e shkurtër, ose një ushqim i lehtë bashkë. Lini aktivitetet e reja ose sfiduese për herët gjatë ditës."
+  - q: "A mund të jetë sundowning shenjë e diçkaje mjekësore?"
+    a: "Mund të përkeqësohet nga probleme shëndetësore si dhimbja, infeksionet si infeksionet e rrugëve urinare, problemet e gjumit ose efektet anësore të ilaçeve. Nëse shqetësimi është i ri, i papritur ose po përkeqësohet, kontaktoni mjekun e personit."
+  - q: "A duhet të pyes mjekun për ilaçe për sundowning?"
+    a: "Kjo është një bisedë që duhet ta bëni me mjekun. Shoqata e Alzheimerit thotë se qasjet jo me ilaçe përgjithësisht preferohen së pari, dhe se çdo ilaç për agjitacionin e mbrëmjes duhet të merret parasysh vetëm pasi të peshohen rreziqet dhe përfitimet. Kjo faqe nuk jep këshilla për ilaçet."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +46,152 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Shumë familje vërejnë të njëjtin model: mëngjeset janë mjaft të qeta, por ndërsa pasdita përparon,
+personi që jeton me demencë bëhet shqetësues, ankthios, konfuz ose i irrituar. Mund të ecë pa
+qëllim, të pyesë për \"të shkuar në shtëpi\" edhe kur është në shtëpi, ose të acarohet lehtë. Kjo
+shpesh quhet sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Nuk ka një zgjidhje të vetme, por ndryshimet në ritmin e ditës, në dhomë dhe në llojin e aktiviteteve
+që ofroni mund t'i bëjnë pasditet vonë më të qeta. Kjo faqe mbledh ide praktike dhe jo mjekësore nga
+[Instituti Kombëtar për Plakjen](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
+dhe Shoqata e Alzheimerit. Nuk është këshillë mjekësore. Nëse simptomat janë të reja, të papritura ose
+po përkeqësohen, flisni me mjekun e personit.
 
-## What is sundowning?
+## Çfarë është sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning është shqetësim, agjitacion, irritim ose konfuzion që fillon ose përkeqësohet ndërsa drita
+e ditës zbehet, pasdite vonë ose në fillim të mbrëmjes. [Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
+shënon se lodhja e tepërt mund të rrisë shqetësimin e pasdites vonë.
 
-## What can make late-day restlessness worse?
+## Çfarë mund ta përkeqësojë shqetësimin e pasdites vonë?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Disa gjëra mund të kontribuojnë, shpesh bashkë. [Shoqata e Alzheimerit](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning)
+liston faktorë si:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- lodhja pas një dite të mbushur;
+- mjedise të reja ose konfuze;
+- një \"orë e brendshme\" e trupit që nuk është në rregull, duke e lënë personin përgjumur ditën dhe zgjuar natën;
+- drita e ulët dhe hijet, që mund të jenë konfuze;
+- marrja e stresit ose e zhgënjimit nga njerëzit përreth;
+- nevoja për më pak gjumë, që është e zakonshme te të moshuarit.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA shton shkaqe më të përgjithshme të agjitacionit, përfshirë dhimbjen, depresionin ose stresin, pak pushim,
+kapsllëkun, zhurmën ose shumë njerëz të tepërt, dhe disa ilaçe ose ndërveprime ilaçesh.
 
-## How can I plan the day to make evenings calmer?
+## Si mund ta planifikoj ditën që mbrëmjet të jenë më të qeta?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Zhvendosni gjërat e kërkuara më herët, dhe mbajeni pasditen e vonë të butë dhe të parashikueshme. Si NIA
+ashtu edhe Shoqata e Alzheimerit rekomandojnë një rutinë të rregullt. Një ditë shembull, për t'u përshtatur me
+vetë jetën tuaj:
 
-| Time | What may help |
+| Koha | Çfarë mund të ndihmojë |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Mëngjes | Takime, banjo, dalje dhe çdo detyrë që kërkon përpjekje, kur shumë njerëz janë më të zgjuar |
+| Mesmëngjes | Kohë jashtë ose pranë një dritareje me diell; një shëtitje ose një aktivitet tjetër |
+| Mesditë | Një drekë më e madhe (Shoqata e Alzheimerit sugjeron një drekë më të madhe dhe një darkë më të lehtë) |
+| Fillim i pasdites | Pushim nëse nevojitet, por shmangni gjumë të gjatë vonë gjatë ditës |
+| Mes deri vonë pasdite | Aktivitete të qeta dhe të njohura; një ushqim i lehtë dhe pije; pa kafeinë |
+| Para muzgut | Ndizni dritat e brendshme dhe mbyllni perdet para se të errësohet |
+| Mbrëmje | Një vakt më i lehtë, muzikë e qetë, pak stimul, një rutinë e qëndrueshme për gjumë |
 
-A few specific points from the sources:
+Disa pika specifike nga burimet:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Drita e ditës.** NIA sugjeron organizimin e kohës jashtë ose pranë një dritareje për diell çdo ditë.
+- **Lëvizje e përditshme, por jo shumë.** Synoni të jeni fizikisht aktivë çdo ditë pa planifikuar shumë aktivitete,
+  thotë NIA.
+- **Pijet e pasdites vonë.** Shmangni alkoolin dhe pijet me kafeinë, si kafen ose kolën, pasdite vonë (NIA).
+  Shoqata e Alzheimerit përmend gjithashtu nikotinën.
+- **Pushimet.** Shmangni gjumët e gjatë dhe dremitjet vonë gjatë ditës (NIA). Shoqata e Alzheimerit sugjeron
+  kufizimin e gjumit ditor nëse gjumi natën është problem.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Për më shumë rreth ndërtimit të një dite të qëndrueshme, shihni [aktivitetet e rutinës ditore](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Si mund ta bëj shtëpinë më të qetë pasdite vonë?
 
-Reduce noise, add light and keep familiar things close.
+Ulni zhurmën, shtoni dritë dhe mbani gjërat e njohura afër.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Dritë e ndritshme dhe e njëtrajtshme.** Shoqata e Alzheimerit rekomandon mbajtjen e shtëpisë mirë të ndriçuar
+  në mbrëmje. Ndriçoni hapësirën përpara se të shfaqen hijet.
+- **Më pak zhurmë.** Fikni ose ulni TV dhe radion, dhe kufizoni vizitorët ose punët e zhurmshme të shtëpisë
+  në këtë kohë. Shoqata e Alzheimerit sugjeron uljen e stimulit të mbrëmjes, si TV, punët e shtëpisë dhe muzika e lartë.
+- **Rehati të njohura.** NIA sugjeron muzikë qetësuese dhe mbajtjen e objekteve dhe fotografive të dashura rreth shtëpisë.
+- **Kontrolle rehatie.** Shoqata e Alzheimerit rekomandon kontrollimin për dhimbje, uri, etje, kapsllëk, vezikë plot,
+  lodhje, infeksione dhe irritim të lëkurës, dhe mbajtjen e dhomës në një temperaturë të rehatshme.
+- **Gjendja juaj shpirtërore.** Njerëzit marrin stresin. NIA sugjeron të ngadalësoni dhe të përpiqeni të relaksoheni
+  nëse shqetësimet tuaja mund të po shtojnë tensionin.
 
-## What calm activities can we do in the late afternoon?
+## Çfarë aktivitetesh të qeta mund të bëjmë pasdite vonë?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Zgjidhni aktivitete të njohura, pa nxitim dhe që lehtë ndalen. Shoqata e Alzheimerit sugjeron aktivitete qetësuese
+si muzika e qetë, fotografitë ose një film i preferuar, dhe një shëtitje së bashku për të zbutur shqetësimin. NIA
+sugjeron një ushqim ose pije, një emision TV të preferuar, muzikë, një shëtitje, lexim, ose një punë të thjeshtë të
+shtëpisë si palosja e rrobave.
 
-Ideas to try:
+Ide për t'u provuar:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Palosni rrobat bashkë.** NIA sugjeron këtë lloj pune të thjeshtë shtëpie. Peshqirët janë të lehtë për t'u trajtuar,
+   dhe detyra ka një fund të qartë.
+2. **Luani muzikën e preferuar.** Këngë të njohura nga rinia e tyre, me volum të ulët. Edhe nëse e nynëzoni bashkë, kjo
+   numërohet. Më shumë ide te [aktivitetet muzikore](/activities/music/).
+3. **Shikoni fotografi.** Një album fotografish, ose disa foto familjare në [Çiftet e fotove](/games/photo-pairs/) me figurat
+   të dukshme, mund të çojnë në një bisedë të qetë.
+4. **Bëni një shëtitje të shkurtër.** Rreth kopshtit, bllokut ose një koridori, përpara se të errësohet.
+5. **Ndani një ushqim dhe një pije.** Diçka e thjeshtë, e ngrohtë dhe pa kafeinë, në tryezë bashkë.
+6. **Përputhje e butë.** [Çiftet e figurave](/games/picture-pairs/) me katër pllaka dhe figura të dukshme janë të lehta për t'u
+   nisur dhe të lehta për t'u ndaluar.
+7. **Ngjyrosja.** [Ngjyrosja](/games/coloring/) në ekran ose në një faqe të printuar, pa asnjë qëllim për ta përfunduar.
+8. **Shikim dhe bisedë.** [Kartelat e bisedës](/games/conversation-cards/) ofrojnë një figurë dhe një nxitje të hapur.
+   Thjesht shikimi mjafton.
+9. **Një pauzë frymëmarrjeje.** [Frymëmarrja e qetë](/games/calm-breathing/) është një pauzë e ngadaltë dhe e qetë që e
+   filloni dhe e ndaloni vetë.
+10. **Punë me duar.** Renditja e butonave ose çorapeve, shtrirja e një batanijeje të butë, ose mbajtja e një objekti të
+    njohur. Shihni [aktivitetet shqisore](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Shmangni lojërat e reja, daljet e mbushura dhe çdo gjë që kërkon shumë kujtesë ose përqendrim pasdite vonë. Ruajini ato për mëngjesin.
 
-## What should I do when restlessness starts?
+## Çfarë të bëj kur fillon shqetësimi?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Qëndroni të qetë, qetësoni dhe ridrejtoni butësisht. NIA sugjeron të flisni qetë, të dëgjoni shqetësimet e personit,
+të shmangni grindjet, t'i siguroni se janë të sigurt, dhe të përdorni prekje të butë nëse ndihmon. Pastaj provoni një
+shpërqendrim: një ushqim, një pije, muzikë ose një shëtitje.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Shoqata e Alzheimerit sugjeron fraza si \"Këtu je i sigurt\" dhe \"Më vjen keq që je i mërzitur\", dhe këshillon shtimin
+e dritës, ngadalësimin dhe kufizimin e stimulit. Mos e ngushtoni, mos e rrethoni ose mos e kufizoni personin, dhe mos
+argumentoni me të.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Nëse personi bëhet agresiv, NIA këshillon të qëndroni në një distancë të sigurt derisa sjellja të ndalojë. Në një
+emergjencë, telefononi numrin e emergjencave në vendin tuaj dhe shpjegoni që personi ka demencë. Udhëzuesi ynë për
+[përgjigjen ndaj zemërimit dhe agresionit](/caregiving/when-anger-becomes-aggression-with-dementia/) mbulon sigurinë
+menjëherë dhe çfarë të bëni më pas.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Udhëzuesit tanë për [komunikimin](/caregiving/communication-tips/) dhe [çfarë të bëni kur thonë jo](/caregiving/when-they-say-no/)
+kanë më shumë rreth fjalëve qetësuese.
 
-## How do I find the triggers?
+## Si i gjej shkaktarët?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Mbani një regjistër të shkurtër për një ose dy javë. Shoqata e Alzheimerit rekomandon ndjekjen e asaj që ndodh para
+episodeve të sundowning për të identifikuar shkaktarët. Shënoni orën kur filloi shqetësimi, çfarë ndodhi një orë më parë,
+pushimet, vaktet dhe pijet, vizitorët, zhurmën dhe dritën. Sillni regjistrin te mjeku. NIA shënon se mbajtja e gjurmës së
+ndryshimeve të sjelljes mund t'i ndihmojë kujdestarët dhe ofruesit shëndetësorë të njohin një model.
 
-## When should I call a doctor about sundowning?
+## Kur duhet të telefonoj mjekun për sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kontaktoni mjekun e personit nëse shqetësimi është i ri, përkeqësohet papritur, ose vjen bashkë me ndryshime të tjera.
+NIA thotë se ndryshimet e papritura ose që luhaten shpejt në sjellje, sidomos pas një infeksioni ose ndryshimeve të
+fundit të ilaçeve, duhet t'i sillen menjëherë në vëmendjen e mjekut.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Kërkoni nga mjeku të kontrollojë gjërat që mund t'i bëjnë mbrëmjet më të vështira. Shoqata e Alzheimerit përmend
+probleme fizike si infeksionet e rrugëve urinare, inkontinencën, këmbët e paqeta dhe apnean e gjumit, dhe sugjeron
+të pyeteni cilat orë të ditës janë më të mira për çdo ilaç. NIA liston dhimbjen, kapsllëkun dhe efektet anësore ose
+ndërveprimet e ilaçeve mes shkaqeve të mundshme të agjitacionit.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Shoqata e Alzheimerit thotë se qasjet jo me ilaçe përgjithësisht preferohen për problemet e gjumit të lidhura me Alzheimerin,
+dhe se ilaçi për agjitacionin e pasdites vonë duhet të merret parasysh vetëm nëse ato dështojnë, pasi të peshohen rreziqet
+dhe përfitimet. Ai vendim i takon mjekut. Mos filloni, ndaloni ose ndryshoni asnjë ilaç, ndihmë gjumi ose suplement pa
+këshillë mjekësore.
 
-## How do I get through the evenings myself?
+## Si i kaloj vetë mbrëmjet?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Pasditet e vona mund të jenë pjesa më e vështirë e ditës së kujdestarit. Nëse mundeni, kërkoni nga një anëtar i familjes,
+mik ose ndihmës i paguar të mbulojë pasditen e vonë disa ditë në javë, edhe për një orë. Udhëzuesi ynë për [vetëkujdesin e
+kujdestarit](/caregiving/caregiver-self-care/) përfshin opsionet e pushimit dhe Linjën falas 24/7 të Shoqatës së Alzheimerit.
