@@ -1,13 +1,15 @@
 # Improvements log: dementia and Alzheimer's sources
 
-Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct practical improvement to the app or website, and record it here. The target is 100 implemented improvements; each entry records its source, gap, change, checks and remaining verification.
+Goal (2026-11-07): research dementia and Alzheimer's sources, apply one distinct practical improvement to the app or website, and record it here. The target is 500 implemented improvements; each entry records its source, gap, change, checks and remaining verification.
 
 - [sources.md](sources.md): what was read, what was only seen in search results, and what could not be reached.
 - [audit-2026-11-07.md](audit-2026-11-07.md): the app and website measured against those sources, with file references.
 
+Maintainer decision (2026-11-12): the target increased from 100 to 500 improvements; existing completed rounds carry forward.
+
 ## Status
 
-**Latest recorded rubric score (2026-11-11):** weighted overall **9.87 of 10**, lowest dimension 9.37 (localization), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last measured repository-wide score; this content-only round does not claim a new aggregate score. The separate mobile visual audit is recorded as a maintenance follow-up, not a numbered source-led improvement. **Improvement count: 91/100 in this branch** (Round 90 is in PR #234; this branch adds #91). Round 91 adds an English guide on multilingual communication, language preferences and interpreter options in dementia care. Site unit tests (1,869), TypeScript, Python (106), release metadata, ARB and diff checks passed locally; static generation was stopped by the host with exit 137 before page checks, so no page-count or checker claim is recorded. Hosted CI is pending. No multilingual reader, caregiver, clinician, interpreter or native-speaker review was done.
+**Latest recorded rubric score (2026-11-11):** weighted overall **9.87 of 10**, lowest dimension 9.37 (localization), against the bar "above 8.6 and none below 7.0" in [rubric.md](rubric.md) and `AGENTS.md`. This remains the last measured repository-wide score; this content-only round does not claim a new aggregate score. The separate mobile visual audit is recorded as a maintenance follow-up, not a numbered source-led improvement. **Improvement count: 91/500 in this branch** (Round 90 is in PR #234; this branch adds #91). Round 91 adds an English guide on multilingual communication, language preferences and interpreter options in dementia care. Site unit tests (1,869), TypeScript, Python (106), release metadata, ARB and diff checks passed locally; static generation was stopped by the host with exit 137 before page checks, so no page-count or checker claim is recorded. Hosted CI is pending. No multilingual reader, caregiver, clinician, interpreter or native-speaker review was done.
 
 | Item | Status |
 | --- | --- |
