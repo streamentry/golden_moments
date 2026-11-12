@@ -4,7 +4,7 @@ Goal: Research sites and evidence related to dementia and Alzheimer's, learn fro
 
 **Source improvements: 91 / 500 implemented**
 
-**Full 185-language coverage: 1 / 500 verified under the updated completion gate**
+**Full 185-language coverage: 2 / 500 verified under the updated completion gate**
 
 Maintainer decision (2026-11-12): target increased from 100 to 500 improvements; existing numbered rounds remain counted.
 
@@ -15,7 +15,7 @@ Maintainer decision (2026-11-12): completion also requires all user-facing text 
 | Rounds | Changed scope | Coverage status |
 |---|---|---|
 | 1–89 | Earlier app and website changes | Not yet audited against the 185-code gate; backfill where any changed user-facing text is missing. |
-| 90 | LGBTQ+ guide and residential-care crosslink | Backfill in progress. |
+| 90 | LGBTQ+ guide and residential-care crosslink | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 16 non-fatal width warnings; lived-experience/native review open. |
 | 91 | Multilingual guide and communication-tips crosslink | Complete: English source plus all 184 registered non-English codes and five additional active site variants (189 routes per page); 0 checker errors, 9 non-fatal width warnings; human/native review open. |
 
 ---
@@ -681,6 +681,8 @@ This separate engineering audit records automated mobile rendering and maintenan
 | Change | Added a guide on names and pronouns, consent-based disclosure, partners and chosen family, provider privacy, care-setting questions, and support for caregivers. Linked it from residential-care guidance. | No app behavior, account, collection or tracking change. |
 | Safety and rights boundary | The person decides what identity details to share and with whom where possible. A partner or chosen supporter is not automatically a legal decision-maker; provider permissions and authority rules vary by location. | General caregiving information; no legal or clinical determination. |
 | Implementation commit | `5061b4376f93eb07e484c0d2f01993ea522d86d` | Source commit on `codex/improvement-90-lgbtq-care`. |
+| Translation coverage | Machine translations for the LGBTQ+ guide and updated residential-care parent cover all 184 non-English registry codes and five additional active site variants (189 routes per page). | 378 translated pages; unreviewed. |
+| Translation checks | Structural guide checks covered both pages in all 189 active non-English routes; targeted translator status reports 0 pending. | 0 errors, 16 non-fatal metadata-width warnings; lived-experience and native review remain open. |
 | Checks | On Node 24.11.1, `pnpm --dir site verify`: 1,869 tests, 12,522 pages, 0 checker errors and 535 warnings. `pnpm --dir site exec tsc --noEmit`, Python suite (106 tests), `scripts/release_metadata.py --check`, `scripts/check_arb.py lib/l10n/arb/app_en.arb` and `git diff --check` passed. | Local automated checks passed; hosted site build and page checks, browser visual run, spell, app, design-system and release-metadata checks passed on PR #234 head c855d4340d58d4930267a0a2bc4a3da057d1c626. |
 | Render inspection | Built route `/caregiving/supporting-lgbtq-person-with-dementia/` and residential-care cross-link appear in the static output. | Static build checked; no live browser run. |
 | Not verified | No LGBTQ+ person with dementia, partner, chosen-family caregiver, care-setting staff, clinician, native-speaker or live-browser review. | Open; do not claim user, legal or clinical validation. |
