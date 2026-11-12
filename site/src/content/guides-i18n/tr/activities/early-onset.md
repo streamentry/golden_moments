@@ -1,7 +1,7 @@
 ---
 title: "Erken Başlangıçlı Demans için Etkinlikler: Çalışma Çağındaki Yetişkinler için Fikirler"
 seoTitle: "Erken Başlangıçlı Demans için Etkinlikler: Fikirler"
-description: "Erken başlangıçlı demans için etkinlikler, belirtiler 65 yaşından önce başladığında: hobiler, gezintiler, gençlik yıllarının müziği ve eş ve yetişkin çocuklar için destek."
+description: "Erken başlangıçlı demans için etkinlikler, belirtiler 65 yaşından önce başladığında: hobiler, gezintiler, gençlik müziği ve eş ve çocuklar için destek."
 section: activities
 order: 26
 updated: 2026-11-08
