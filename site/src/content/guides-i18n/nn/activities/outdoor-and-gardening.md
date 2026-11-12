@@ -121,7 +121,7 @@ Kulde har òg å seie. Om vinteren bør uteopphald vere korte, og du bør sørgj
 
 ## Korleis handterer eg vandring når vi går ut?
 
-Vere saman med personen kvar gong dei er ute. Alzheimer's Association seier at [6 av 10 personar som lever med demens](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vil vandre av stad minst éin gang, og mange gjer det meir enn éin gong. Det kan skje i alle fasar.
+Vere saman med personen kvar gong dei er ute. Alzheimer's Association seier at [seks av 10 personar som lever med demens](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) vil vandre av stad minst éin gang, og mange gjer det meir enn éin gong. Det kan skje i alle fasar.
 
 NIA sine [tips om vandring og det å kome bort](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) inkluderer:
 

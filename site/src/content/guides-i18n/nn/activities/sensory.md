@@ -61,7 +61,7 @@ Sanseaktivitetar er enkle opplevingar bygde rundt éin sans om gangen, som å kj
 
 ### Berøring
 
-- **Handmassasje.** Varm litt krem i hendene og stryk langsomt frå håndleddet til fingertuppane. National Institute on Aging nemner massasje med ulukta krem for komfort.
+- **Handmassasje.** Varm litt krem i hendene og stryk langsomt frå håndleddet til fingertuppane. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) nemner massasje med ulukta krem for komfort.
 - **Stoffkurv.** Store lappar av fløyel, kordfløyel, fleece, satin og ull å stryke, brette og snakke om.
 - **Varm vaskeklut.** Ein varm, fuktig klut til hendene på ein kald dag. Test temperaturen på eige håndledd først.
 - **Aktivitetsforkle eller fanget-teppe.** Store knappar, glidelås, band og strukturerte lappar sydd godt fast.
