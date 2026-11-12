@@ -81,7 +81,7 @@ Bidaia edo irteera baterako arropa garbi bat edo poltsa diskretu bat prestatu de
 
 ## Likidoak murriztu behar al ditut, edo inkontinentzia-produktuak aukeratu?
 
-Ez murriztu pertsonaren likidoak istripuak saihesteko, bere osasun-profesionalak aholku zehatzik eman ez badu. [Alzheimer's Association-ek](https://www.alz.org/help-support/caregiving/daily-care/incontinence) ohartarazten du likidoak mugatzeak deshidratazioa eta beste arazo batzuk ekar ditzakeela. Dementzia duten pertsonek gogorarazpenak edo laguntza ere behar izan dezakete edari nahikoa hartzeko. Jarraitu zainketa-plan indibidualari edozein likido-muga badago.
+Ez murriztu pertsonaren likidoak istripuak saihesteko, bere osasun-profesionalak aholku zehatzik eman ez badu. Alzheimer's Association-ek ohartarazten du likidoak mugatzeak deshidratazioa eta beste arazo batzuk ekar ditzakeela. Dementzia duten pertsonek gogorarazpenak edo laguntza ere behar izan dezakete edari nahikoa hartzeko. Jarraitu zainketa-plan indibidualari edozein likido-muga badago.
 
 Iraspenak, babes-barruko arropa edo ur-hesiko ohialak aukera pertsonalak dira. Batzuentzat lagungarriak izan daitezke, baina produktu bakar batek ez die denei egokitzen. Hitz egin medikuarekin edo inkontinentzia-aholkulariarekin aukerez, erosotasunaz, egokitzapenaz, larruazaleko kezkez eta pertsonak nola erabili nahi duen. Ez jarri produktua baliabidea onartzen ez duen norbaiti; galdetu zer izango litzatekeen onargarria.
 

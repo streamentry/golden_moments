@@ -77,7 +77,7 @@ Pertsonak onartzen badu, partekatu hurrengo laguntzaileari lagunduko diotenak so
 
 ## Zein seinale aipatu behar dizkiot hortz-medikuari?
 
-Ahoko mina ez da beti erraza deskribatzea. Aurpegia tiratzea, eskuila egiteari uko egitea, janarian edo lotan aldaketak seinale izan daitezke, baina ez dute hortz-arazo bat frogatzen. Kontatu hortz-medikuari zer ikusi duzun eta noiz hasi zen. Medikuak minak, ia-arazoak, hortzetako karia edo ondo ez datozen protesiak egiaztatu ditzake.
+Ahoko mina ez da beti erraza deskribatzea. Aurpegia tiratzea, eskuila egiteari uko egitea, janarian edo lotan aldaketak seinale izan daitezke, baina ez dute hortz-arazo bat frogatzen. Kontatu hortz-medikuari zer ikusi duzun eta noiz hasi zen. Medikuak minak, hortz-arazoak, hortzetako karia edo ondo ez datozen protesiak egiaztatu ditzake.
 
 Pertsona batek kauwatzeko edo irensteko arazo berria badu, jarri harremanetan osasun-profesionalarekin edo hortz-medikuarekin. Ez aldatu janariaren testura, ez erabili ahoko tratamendurik eta ez saiatu irensteko teknikarik artikulu orokor batean oinarrituta. Bilatu premiazko laguntza min larria, inflamazioa, odolustea edo beste berehalako gai medikoren bat badago.
 
