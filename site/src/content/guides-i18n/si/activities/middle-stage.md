@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "ඩිමෙන්ශියාවේ මධ්‍ය අවධිය සඳහා ක්‍රියාකාරකම්"
+seoTitle: "මධ්‍ය අවධියේ ඩිමෙන්ශියා ක්‍රියාකාරකම්: සරල අදහස්"
+description: "ඩිමෙන්ශියාවේ මධ්‍ය අවධිය සඳහා සරල ක්‍රියාකාරකම්: ප්‍රයෝජනවත් කාර්ය, සංගීතය, ඡායාරූප සහ පහසු ක්‍රීඩා, පියවරෙන් පියවර සැකසීම සහ නොසන්සුන්තාව කාර්යයක් බවට පත් කරන ක්‍රම."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  ඩිමෙන්ශියාවේ මධ්‍ය අවධියේදී හොඳම ක්‍රියාකාරකම් කෙටි, හුරු පුරුදු ඒවා වන අතර තනි පියවරයන්ට බෙදා ඇත: රෙදි නැවීම, මේස් යුගල කිරීම, බඳුන් සේදීම, ගායනා, මඟ පෙන්වන ඇවිදීම්, ඡායාරූප ඇල්බම සහ සරල චිත්‍ර ක්‍රීඩා. සකස් කර, පළමු පියවර පෙන්වා, දුෂ්කර කොටස් ඔබ ගෙන, ක්‍රියාකාරකමට අරමුණක් දෙන්න. එය සුවපහසු නොවන විට නවත්වන්න.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "හුරු ගෘහ කාර්යයන් බොහෝ විට හොඳින් වැඩ කරයි, මන්ද ඒවා ප්‍රයෝජනවත් සහ වැඩිහිටි ගතියක් දනවයි."
+  - "කියා දීමට වඩා පෙන්වන්න, එක වරකට එක් පියවරක් දෙන්න, සහ විවෘත ප්‍රශ්න වෙනුවට තේරීම් දෙකක් දෙන්න."
+  - "වඩාත් දුෂ්කර කොටස ඔබ ගන්න, එවිට පුද්ගලයාට තෘප්තිමත් කරන කොටස කළ හැකිය."
+  - "නොසන්සුන් හැසිරීම බොහෝ විට අර්ථ දෙන්නේ පුද්ගලයාට කිසියම් කටයුත්තක් අවශ්‍ය බවයි. නැත කියනවා වෙනුවට ගැලපෙන ක්‍රියාකාරකමක් ඉදිරිපත් කරන්න."
+  - "බලා සිටීම, ටිකක් උදව් කිරීම, හෝ කලින් නවතා දැමීම ඔක්කොම සහභාගී වීමේ ක්‍රම වේ."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "ඩිමෙන්ශියාවේ මධ්‍ය අවධියට කුමන ක්‍රියාකාරකම් සුදුසුද?"
+    a: "කෙටි, හුරු පුරුදු, අතින් කරන ක්‍රියාකාරකම් සාමාන්‍යයෙන් වඩාත් හොඳින් වැඩ කරයි: ටවල් නැවීම, මේස් යුගල කිරීම, එකට භාජන සේදීම, මේසය සැකසීම, ප්‍රිය ගීතවලට ගායනා කිරීම, මඟ පෙන්වන ඇවිදීම්, ඡායාරූප ඇල්බම බැලීම සහ සරල චිත්‍ර ක්‍රීඩා. එක් එක් ක්‍රියාකාරකම තනි පියවරයන්ට බෙදා එකට කරන්න."
+  - q: "ඩිමෙන්ශියාව ඇති කෙනෙකු ක්‍රියාකාරකමක් ආරම්භ කරවන්නේ කෙසේද?"
+    a: "සියල්ල සූදානම් කර, ඔබ ම ක්‍රියාකාරකම ආරම්භ කර ඔවුන්ව උදව් කරන්න ආරාධනා කරන්න: “මට මේ ටවල් ටික නැවීමට උදව් කරන්නද?” බොහෝ දෙනා සහභාගී වීමට කැමති නමුත් ආරම්භ කිරීම අමාරු වේ. පියවර පැහැදිලි කිරීමට වඩා පළමු පියවර පෙන්වීම බොහෝ විට හොඳින් වැඩ කරයි."
+  - q: "ඔවුන් එකම දේ නැවත නැවත කරන විට මම කුමක් කළ යුතුද?"
+    a: "නැවත නැවත කිරීම බොහෝ විට හානිකර නොවන අතර, පුද්ගලයා කාර්යබහුල වී සිටීමට හෝ සහතිකයක් ලබා ගැනීමට ඇති ආශාවක ලකුණක් විය හැක. නිවැරදි කිරීමට වඩා, චලනයට ගැලපෙන ක්‍රියාකාරකමක් දෙන්න, උදාහරණයක් ලෙස නැවීමට කුඩා ටවල් බඳුනක් හෝ එකට ගායනා කිරීමට ගීතයක්."
+  - q: "ඔවුන් ක්‍රියාකාරකම වැරදි ලෙස කළොත් කුමක් කළ යුතුද?"
+    a: "එය හානිකර නම්, එය එසේම ඉඩ දෙන්න. ටවල් වෙනස් ආකාරයකට නැවීම හෝ හැඳි වැරදි තැනක තැබීම වැදගත් නොවේ. නිවැරදි කිරීම විවේචනයක් ලෙස දැනිය හැකි අතර, ඔවුන්ගේ ක්‍රමයට කිරීමට ඉඩ දීමෙන් ඔවුන්ට සමර්ථ සහ ප්‍රයෝජනවත් යැයි හැඟේ."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+ඩිමෙන්ශියාවේ මධ්‍ය අවධිය බොහෝ විට දීර්ඝතම කාලයයි, සහ ක්‍රියාකාරකම්වලට සැබෑ සහාය අවශ්‍ය වන්නේ එම අවධියේදීය. වචන පහසුවෙන් නොඑයි, පියවර එකිනෙක මිශ්‍ර වේ, සහ ඕනෑම දෙයක් ආරම්භ කිරීම අමාරු විය හැක. නමුත් ප්‍රයෝජනවත් වීමට සහ සහභාගී වීමට ඇති ආශාව සාමාන්‍යයෙන් රැඳී පවතී. මඳක් සකස් කිරීමෙන්, මධ්‍ය අවධියේ සිටින පුද්ගලයෙකුට තවමත් විශ්මයජනක තරම් දෙයක් රස විඳිය හැක, විශේෂයෙන් හුරු පුරුදු කාර්යයන්, සංගීතය සහ ඔබ සමඟ එකට කරන චිත්‍ර.
 
-## What activities work well in middle-stage dementia?
+## ඩිමෙන්ශියාවේ මධ්‍ය අවධියේ කුමන ක්‍රියාකාරකම් හොඳින් වැඩ කරයිද?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+කෙටි, හුරු පුරුදු, අතින් කරන ක්‍රියාකාරකම් තනි පියවරයන්ට බෙදා ඇති ඒවා වඩාත් හොඳින් වැඩ කරයි. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) කියන්නේ නව දේවල් සොයා ගැනීමට අවශ්‍ය නොවන බවයි: ක්‍රියාකාරකම් සාමාන්‍ය ජීවිතයේ කොටසක් විය හැකිය, උදාහරණයක් ලෙස එකට රාත්‍රී ආහාරය සෑදීම, ගෙවතු වැඩ, සංගීතය ඇසීම හෝ ඇවිදීමට යාම.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) සඳහන් කරන්නේ මෙම අවධියේ සිටින අයට බොහෝ විට අරමුණක් ඇති බවට දැනීමට හෝ යමක් රැකබලා ගැනීමට ප්‍රබල අවශ්‍යතාවක් ඇති බවත්, ක්‍රියාකාරකම් ආරම්භ කිරීමට හෝ දිගටම කිරීමට උදව් අවශ්‍ය බවත්ය. ඔවුන්ගේ මධ්‍ය අවධි ලැයිස්තුවට රෙදි නැවීම, බඳුන් සේදීම, මේස් යුගල කිරීම, පහසු ව්‍යායාම, හුරු සංගීතයට නැටීම, මඟ පෙන්වන ඇවිදීම්, එකට ගායනා, සරල චිත්‍ර අඳින්න සහ ඡායාරූප ඇල්බම බැලීම ඇතුළත් වේ.
 
-## How do you set up an activity so it works?
+## ක්‍රියාකාරකමක් ක්‍රියා කරන පරිදි සකස් කරන්නේ කෙසේද?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+බොහෝ ක්‍රියාකාරකම් සාර්ථක වන්නේ හෝ අසාර්ථක වන්නේ සකස් කිරීමේදීය. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) සහ [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) වෙතින් ලබා ගත් මෙම පුරුදු වඩාත්ම වෙනසක් ඇති කරයි:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **ඉඩ පිරිසිදු කරන්න.** රූපවාහිනිය නවත්වන්න, දොර වසන්න, සහ ක්‍රියාකාරකමට අවශ්‍ය දේ පමණක් තබන්න.
+2. **ඔබ ම ආරම්භ කරන්න.** නැවීම හෝ කලවම් කිරීම ආරම්භ කර ඔවුන්ව එයට ගන්න: “මට මේ වැඩේට උදව් කරන්න පුළුවන්ද?”
+3. **පෙන්වන්න, ඉන්පසු රැඳී සිටින්න.** එක් පියවරක් පෙන්වන්න. ඔබේ අතින් යොමු කරන්න, උදාහරණයක් ලෙස තහඩුව කොහේ තැබිය යුතුද කියා පෙන්වන්න.
+4. **එක වරකට එක් පියවරක්.** “මේක අඩකට නමන්න” කීම, “මේවා නවා, වර්ණය අනුව ගොඩගසන්න” කීමට වඩා පහසුය.
+5. **විවෘත ප්‍රශ්න වෙනුවට තේරීම් දෙකක්.** “නිල් ටවල් ද, සුදු ඒවා ද?” කියා ඇසීම, “ඔබට කුමක් කිරීමට අවශ්‍යද?” කියා ඇසීමට වඩා පිළිතුරු දීම පහසුය.
+6. **දුෂ්කර කොටස ඔබ ම කරන්න.** ඔබ මනින්න, ඔවුන් කලවම් කරන්න. ඔබ පෙති නූල් ගෙන දෙන්න, ඔවුන් නූල් ඔතන්න.
+7. **ඊට හේතුවක් දෙන්න.** “මේ නැප්කින් ඉරිදා රාත්‍රී භෝජනය සඳහායි” කීම කාර්යය සැබෑ යැයි හැඟවයි.
+8. **ඔවුන් කැමති නම් බලා සිටීමට ඉඩ දෙන්න.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) සඳහන් කරන්නේ සරලව බලා සිටීමද සතුටුදායක විය හැකි බවයි.
 
-## Activity ideas for the middle stage
+## මධ්‍ය අවධිය සඳහා ක්‍රියාකාරකම් අදහස්
 
-### Useful jobs
+### ප්‍රයෝජනවත් කාර්යයන්
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **ටවල් සහ කුඩා රෙදි නවන්න.** කුඩා, පැතලි දේවල් පහසුම ය. උණුසුම් කුඩා රෙදි බඳුනක් නවන්න, සලස්සන්න සහ නැවත නවන්න.
+- **මේස් යුගල කරන්න.** වෙනස් වර්ගයේ කිහිප යුගලකින් ආරම්භ කරන්න. වර්ණය අනුව පමණක් වර්ග කිරීමද ඉතා හොඳය.
+- **බිඳෙන්නේ නැති බඳුන් සේදීම හෝ වියළීම.** උණුසුම් සබන් වතුර අත්වලට සුවපහසුය. හිඳගෙන වියළීම කකුල්වලට පහසුය.
+- **මේසය සැකසීම.** එක වරකට එක් වර්ගයක් බැගින් ඔවුන්ට දෙන්න, සහ එක් තැනක් ඔබ ම සකස් කර ආදර්ශයක් දෙන්න.
+- **රාත්‍රී ආහාරයට උදව් කරන්න.** අර්තාපල් සේදීම, ලෙට්ටූස් කොළ ඉරා දැමීම, හෝ බඳුනක කලවම් කිරීම. පිහි සහ තාපය ඔබ හසුරුවන්න.
+- **අතු ගාන්න, දූවිලි පිසින්න, හෝ මේසය පිසින්න.** මේසයට රෙදි කැබැල්ලක්, තට්ටුවට සැහැල්ලු වේලක්.
 
-See [household tasks](/activities/household-tasks/) for many more.
+[ගෘහ කටයුතු](/activities/household-tasks/) තවත් බොහෝ දේ සඳහා බලන්න.
 
-### Music and movement
+### සංගීතය සහ චලනය
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **හුරු පැරණි ගීත ගයන්න.** ඔබ ම ගායනා කිරීම ආරම්භ කරන්න; දශක ගණනාවක් දැන සිටි ගීතවලට බොහෝ දෙනා එකතු වේ. [සංගීත ක්‍රියාකාරකම්](/activities/music/) බලන්න.
+- **නිදහසේ නටන්න.** සෙලවෙන්න, අත් පහරන්න, හෝ කැමති ආකාරයට චලනය වන්න. හිඳගෙනද හොඳය.
+- **බැලූනයක් විසි කරන්න.** එය මන්දගාමීව ගමන් කරන නිසා පුටුවෙන් අල්ලා ගැනීම පහසුය.
+- **මඟ පෙන්වන ඇවිදීමක් යන්න.** කෙටි, හුරු පුරුදු වටකුරු මාර්ගයක් එකට ඇවිදින්න, කැමති නම් අත බැඳගෙන.
 
-### Pictures and stories
+### චිත්‍ර සහ කථා
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **ඡායාරූප ඇල්බමයක් බලන්න.** ප්‍රශ්න ඇසීමට වඩා දේ ගැන සටහන් කරන්න: “ඒ කාර් එක බලන්න. ඒ ගැන මට කියන්න.” [මතකය අවදි කරන ක්‍රියාකාරකම්](/activities/reminiscence/) බලන්න.
+- **සංවාද කාඩ්පත් භාවිත කරන්න.** [සංවාද කාඩ්පත්](/games/conversation-cards/) චිත්‍රයක් විවෘත, පරීක්ෂණ නොවන ප්‍රේරණයක් සමඟ යුගල කරයි.
+- **පැරණි චිත්‍රපටියක් එකට බලන්න.** හුරු පුරුදු එකක් තෝරා ගෙන ආසන්නයේ සිටින්න, විවේක සඳහා නවත්වන්න.
 
-### Simple, pressure-free games
+### සරල, පීඩනයක් නොමැති ක්‍රීඩා
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **පින්තූර දෘශ්‍යමානව තිබෙන පින්තූර යුගල.** [පින්තූර යුගල](/games/picture-pairs/) පින්තූර දෘශ්‍යමානව තබයි, එබැවින් එය මතක තබා ගැනීමට නොව දැකීමට අදාළ වේ.
+- **සමාන එක සොයන්න.** [සමාන එක සොයන්න](/games/find-the-same/) එක් පින්තූරයක් සහ තේරීම් දෙකක් හෝ හතරක් පමණක් පෙන්වයි.
+- **එකට වර්ග කරන්න.** [එකට වර්ග කරන්න](/games/sort-together/) තිරය මත රෙදි වර්ග කිරීම වැනිය: පින්තූරයක් තට්ටු කර, එහි කූඩය තට්ටු කරන්න.
+- **පින්තූර බින්ගෝ.** [පින්තූර බින්ගෝ](/games/picture-bingo/) පවුල් එකතු වීම් සහ කණ්ඩායම් සඳහා හොඳින් වැඩ කරයි.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+ක්‍රීඩාවක් කලකිරීමක් ඇති කරන්නේ නම්, නවතා වෙනත් දෙයක් කරන්න. [එකට ක්‍රීඩා කරන ආකාරය](/caregiving/how-to-play-together/) බලන්න.
 
-## Turning restlessness into an activity
+## නොසන්සුන්තාව ක්‍රියාකාරකමක් බවට පත් කිරීම
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+නොසන්සුන් හෝ නැවත නැවත වන හැසිරීමට බොහෝ විට හේතුවක් ඇත. Family Caregiver Alliance පෙන්වා දෙන්නේ අලමාරුවක් නැවත නැවත හිස් කරන පුද්ගලයෙක් කාර්යශීලී සහ ප්‍රයෝජනවත් වීමට ඇති අවශ්‍යතාව සපුරාලීමට උත්සාහ කරන්නට ඇති බවයි. Alzheimer's Association යෝජනා කරන්නේ එවැනි ශක්තිය නවතා දැමීම වෙනුවට ගැලපෙන ක්‍රියාකාරකමකට හරවා යැවීමයි.
 
-| What you see | Something to offer |
+| ඔබ දකින දේ | ඔවුන්ට දිය හැක්කේ |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| මේසයක් ඉරීම හෝ ගෑවීම | තෙත් රෙදි කැබැල්ලක් සහ මේසය පිසින ලෙස ඉල්ලීමක් |
+| නොසන්සුන් පාද හෝ තට්ටු කිරීම | ඇඟිලි තට්ටු කිරීමට හෝ අත් පහරන්නට පැහැදිලි තාලයක් ඇති සංගීතය |
+| ලාච්චු හෝ අලමාරු හිස් කිරීම | නැවීමට සහ වර්ග කිරීමට ඇඳුම් හෝ කුඩා රෙදි බඳුනක් |
+| එම ප්‍රශ්නය නැවත ඇසීම | සහතිකය, ඉන්පසු එකට බෙදා ගැනීමට ගීතයක් හෝ කාර්යයක් |
+| ඇවිදීම | එකට ඇවිදීම, හෝ දේවල් රැගෙන යාමට අවශ්‍ය කාර්යයක් |
+| දහවල් අවසානයේ නොසන්සුන්තාව | හොඳ ආලෝකයේ සන්සුන්, හුරු පුරුදු කාර්යයක්; [දවස අවසානයේ නොසන්සුන්තාව](/caregiving/late-day-restlessness/) බලන්න |
 
-## When to stop or change course
+## නවත්වන්නේ කවදාද, හෝ මාර්ගය වෙනස් කරන්නේ කවදාද
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+වෙහෙසකම, කලකිරීම, ලැජ්ජාව හෝ කම්මැලිකම පෙන්වන සලකුණු දකින විට නවත්වන්න, උදාහරණයක් ලෙස නොසන්සුන්ව සිටීම, මුහුණ රැළි කිරීම, දේවල් තල්ලු කිරීම හෝ “මට බැහැ” යැයි කීම. Alzheimer's Association යෝජනා කරන්නේ වෙනත් දින කාලයක නැවත උත්සාහ කිරීම හෝ ක්‍රියාකාරකම සරල කිරීමයි. බලෙන් නොකරන්න. ප්‍රතික්ෂේප කිරීම භීතියෙන් හෝ කාර්යය ඉතා දුෂ්කර වීමෙන් ඇති විය හැකිය; [ඔවුන් නැත කියන විට](/caregiving/when-they-say-no/) බලන්න.
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+කලින් නවතා දැමීම ඒකාන්තයෙන්ම හොඳය. එකට තේ කෝප්පයක් ගෙන සිටීමත් එසේමය. ඔවුන්ගේ හැකියාවන් තවදුරටත් වෙනස් වන විට, [ප්‍රමාද අවධියේ ක්‍රියාකාරකම්](/activities/late-stage/) හි අදහස් වඩාත් ගැලපෙන්නට පුළුවන්, සහ [ක්‍රියාකාරකම් 101](/activities/ideas/) තවත් බොහෝ දේ උත්සාහ කිරීමට ඇත.
