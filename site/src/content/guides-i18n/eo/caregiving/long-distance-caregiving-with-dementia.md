@@ -54,7 +54,7 @@ Elektu praktikajn taskojn, kiuj kongruas kun tio, kion la persono volas kaj kion
 - **Doni tempon al la loka zorgisto.** Dum vizito, demandu, kia specifa tasko aŭ libertempo helpus. Vi povus aranĝi manĝon, kovri planitan kuracistan viziton aŭ pasigi tempon kun la persono, dum la loka helpanto ripozas.
 - **Resti en kontakto laŭ maniero, kiun la persono ĝuas.** Demandu, ĉu ĝi preferas telefonvokon, videovokon, leteron aŭ viziton. Voko povas esti konversacio, ne testo pri manĝoj, medikamentoj aŭ memoro.
 
-La [Alzheimer's Association notas, ke homoj, kiuj provizas malproksiman subtenon, eble ne povas juĝi la bezonojn rekte](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage). Kiam eble, kontaktu la homojn, kiuj vidas la personon ĉiutage, kaj aranĝu vizitон en la propra medio de la persono. Tiu perspektivo povas aldoni utilajn informojn, sed ĝi ne anstataŭas demandi la personon aŭ ricevi profesian takson.
+La [Alzheimer's Association notas, ke homoj, kiuj provizas malproksiman subtenon, eble ne povas juĝi la bezonojn rekte](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage). Kiam eble, kontaktu la homojn, kiuj vidas la personon ĉiutage, kaj aranĝu viziton en la propra medio de la persono. Tiu perspektivo povas aldoni utilajn informojn, sed ĝi ne anstataŭas demandi la personon aŭ ricevi profesian takson.
 
 ## Kiel mi povas kunordigi kun lokaj helpantoj?
 

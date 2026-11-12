@@ -48,7 +48,7 @@ Nia gvidilo pri [ĉiutagaj rutinoj](/activities/daily-routine/) havas simplajn m
 
 ## Kiel familianoj kaj amikoj povas oferti utilan helpon?
 
-Konsentu pri malgranda nombro da regulaj kontaktoj. Mallonga vizito aŭ voko je konata horo povas esti pli utila ol pluraj homoj, kiuj kontrolas nevidebligite. Demandu la personon, kiun ĝi volas inkluzivi kaj kion ĉiu povas fari.
+Konsentu pri malgranda nombro da regulaj kontaktoj. Mallonga vizito aŭ voko je konata horo povas esti pli utila ol pluraj homoj, kiuj kontrolas malregule. Demandu la personon, kiun ĝi volas inkluzivi kaj kion ĉiu povas fari.
 
 Faru proponojn konkretaj. „Ĉu helpus, se mi alportus provizojn ĵaŭde?“ estas pli facile respondebla ol „Diru al mi, se vi bezonas ion.“ Fidinda homo povas helpi per aĉetado, transporto, manĝoj, fakturoj aŭ kuracista vizita kalendaro. La [Alzheimer's Association sugestas aranĝi helpon](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) por hejmaj taskoj, manĝoj, transporto kaj memorigoj pri medikamentoj, kiam tiuj bezonoj aperas.
 

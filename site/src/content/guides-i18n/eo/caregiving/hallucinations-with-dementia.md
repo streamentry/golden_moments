@@ -59,7 +59,7 @@ Restu trankvila, demandu, kiel la persono sentas sin, kaj proponu konsolon sen d
 
 Se la sperto estas sendanĝera kaj ne ĝenas, sekvu la gvidon de la persono. Ne faru el la momento teston aŭ petu, ke ĝi pruvu, kion ĝi vidis.
 
-Iuj homoj trovas sperton konsola aŭ konata. Se la persono estas trankvila kaj sekura, eble ne necesas ŝanĝi la temon aŭ prenii ĝin aliloken. Demandu, kion ĝi volas; ne faru el ĉiu tia momento medicinan diskuton. Se la persono timas, respondu al tiu sento, eĉ se vi ne povas vidi la saman aferon.
+Iuj homoj trovas sperton konsola aŭ konata. Se la persono estas trankvila kaj sekura, eble ne necesas ŝanĝi la temon aŭ kondukti ĝin aliloken. Demandu, kion ĝi volas; ne faru el ĉiu tia momento medicinan diskuton. Se la persono timas, respondu al tiu sento, eĉ se vi ne povas vidi la saman aferon.
 
 ## Ĉu io en la ĉambro povus esti pensata kiel homo aŭ sono?
 

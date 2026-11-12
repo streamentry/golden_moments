@@ -41,7 +41,7 @@ La [hejma sekureca kontrollisto de Alzheimer's Association](https://www.alz.org/
 
 ## Kiel mi komencu hejman sekurec-revizion?
 
-Elektu unu ĉambron, kie io jam malbonis aŭ sentiĝas malfacila. Se la persono volas partopreni, promenu kune kaj demandu, kio sentiĝas malfacila. Zorgisto eble rimarkas malliberan kablon; la persono povas montri, ke lumŝaltilo malfacile atingeblas aŭ konata seĝo estas movita. Ambaŭ vidpunktoj helpas elekti ŝanĝon, kiu havas sencon.
+Elektu unu ĉambron, kie io jam malbonis aŭ sentiĝas malfacila. Se la persono volas partopreni, promenu kune kaj demandu, kio sentiĝas malfacila. Zorgisto eble rimarkas lozan kablon; la persono povas montri, ke lumŝaltilo malfacile atingeblas aŭ konata seĝo estas movita. Ambaŭ vidpunktoj helpas elekti ŝanĝon, kiu havas sencon.
 
 Skribu la problemon per simplaj vortoj: „La koridoro malhelas post vespermanĝo“, „La pordo de la banĉambro malfacile troveblas nokte“ aŭ „La purigilo estas tenata apud la lavujo“. Poste elektu unu praktikan paŝon kaj vidu, ĉu ĝi helpas. Vi ne bezonas aĉeti ekipaĵon por ĉiu zorgo. Pli bona lumo, liberigita vojo aŭ movo de ofte uzata objekto al facile atingebla loko eble sufiĉas.
 
@@ -59,8 +59,8 @@ La [hejmaj sekurecaj konsiloj de Alzheimer's Society](https://www.alzheimers.org
 ### Kuirejo
 
 - **Revizii la uzon de aparatoj.** Se estis problemo kun la forno aŭ alia aparato, serĉu sekurecajn opciojn dizajnitajn por tiu aparato. La Alzheimer's Association listigas aŭtomatajn malŝaltajn funkciojn kaj fornajn sekurigilojn kiel eblecojn. Akiru kvalifikitan konsilon antaŭ ol ŝanĝi gasan aŭ elektran ekipaĵon.
-- **Konservu medikamentojn kaj ne-manĝajn erojn dise de manĝaĵo.** La Asocio rekomendas stokadi medikamentojn sekure, prefere ol lasi ilin sur kalkulilo. Se la persono mem administras siajn medikamentojn, demandu farmaciiston aŭ sanprofesiulon pri plano, kiu protektas tiun rutinon.
-- **Stokadu purigilojn kaj danĝerajn produktojn sekure.** Konservu ilin en la originalaj ujoj, for de manĝaĵo kaj for de atingo, kiam necesas. Ne transversu kemiaĵojn en trinkbotelon aŭ manĝaĵujon.
+- **Konservu medikamentojn kaj ne-manĝajn erojn dise de manĝaĵo.** La Asocio rekomendas stokadi medikamentojn sekure, prefere ol lasi ilin sur la benko. Se la persono mem administras siajn medikamentojn, demandu farmaciiston aŭ sanprofesiulon pri plano, kiu protektas tiun rutinon.
+- **Stokadu purigilojn kaj danĝerajn produktojn sekure.** Konservu ilin en la originalaj ujoj, for de manĝaĵo kaj for de atingo, kiam necesas. Ne transverŝu kemiaĵojn en trinkbotelon aŭ manĝaĵujon.
 - **Konservu utilajn kuirilojn atingeblaj.** Sekura aranĝo devus permesi al la persono daŭrigi taskojn, kiujn ĝi ŝatas, kiam eble. Se vi ŝanĝas ŝrankon aŭ aparaton, klarigu la ŝanĝon kaj kontrolu, ĉu ĝi kreas konfuzon.
 
 Se la zorgo aperas dum komuna hejma tasko, nia [gvidilo pri hejmaj taskoj](/activities/household-tasks/) havas ideojn por adapti la laboron dum la persono restas engaĝita.
