@@ -1,7 +1,7 @@
 ---
 title: "Scegliere un aiuto a domicilio per una persona con demenza"
 seoTitle: "Assistenza a domicilio per la demenza: come scegliere"
-description: "Scelga l’assistenza a domicilio per la demenza definendo l’aiuto necessario, chiedendo esperienza e copertura di riserva, coinvolgendo la persona e verificando costi e condizioni."
+description: "Scelga l’assistenza a domicilio definendo l’aiuto necessario, chiedendo esperienza e copertura di riserva, coinvolgendo la persona e verificando costi e condizioni."
 section: caregiving
 order: 24
 updated: 2026-11-11

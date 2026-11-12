@@ -1,7 +1,7 @@
 ---
 title: "Preparare una visita medica con la demenza"
 seoTitle: "Visite mediche e demenza: consigli per chi assiste"
-description: "Preparare una visita medica con la demenza: elencare le domande, annotare i cambiamenti, portare i dettagli sui farmaci e coinvolgere la persona nelle decisioni, con il suo consenso."
+description: "Preparare una visita medica con la demenza: elencare le domande, annotare i cambiamenti, portare i farmaci e coinvolgere la persona, con il suo consenso."
 section: caregiving
 order: 20
 updated: 2026-11-11

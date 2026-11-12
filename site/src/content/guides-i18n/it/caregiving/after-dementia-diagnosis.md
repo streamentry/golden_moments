@@ -1,7 +1,7 @@
 ---
 title: "Dopo una diagnosi di demenza: da dove cominciare"
 seoTitle: "Primi passi dopo una diagnosi di demenza"
-description: "Un punto di partenza chiaro dopo una diagnosi di demenza: organizzare i controlli, trovare sostegno e coinvolgere la persona nelle scelte, con i tempi che le sono adatti."
+description: "Un punto di partenza chiaro dopo una diagnosi di demenza: organizzare i controlli, trovare sostegno e coinvolgere la persona nelle scelte, al ritmo giusto per lei."
 section: caregiving
 order: 30
 updated: 2026-11-11

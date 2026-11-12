@@ -1,7 +1,7 @@
 ---
 title: "Parlare di guida e demenza"
 seoTitle: "Demenza e guida: come iniziare il discorso"
-description: "Iniziare una conversazione calma e precoce sulla guida e la demenza. Pianificare le scelte per gli spostamenti, annotare le preoccupazioni specifiche e coinvolgere professionisti qualificati del luogo."
+description: "Iniziare una conversazione calma e precoce sulla guida con la demenza. Pianificare gli spostamenti, annotare le preoccupazioni e coinvolgere professionisti locali."
 section: caregiving
 order: 19
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Aiutare una persona con demenza a bere a sufficienza"
 seoTitle: "Demenza e idratazione: consigli per chi assiste"
-description: "Aiutare una persona con demenza a bere a sufficienza offrendo le bevande preferite durante la giornata. Chieda al medico il fabbisogno di liquidi e i nuovi problemi di deglutizione."
+description: "Offrire le bevande preferite durante la giornata aiuta a bere a sufficienza. Per il fabbisogno di liquidi e i problemi di deglutizione, chieda al medico."
 section: caregiving
 order: 23
 updated: 2026-11-11
