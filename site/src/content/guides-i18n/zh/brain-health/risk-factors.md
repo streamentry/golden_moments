@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "痴呆风险因素：2024 年柳叶刀委员会列出的 14 项"
+seoTitle: "痴呆风险因素：柳叶刀列出的 14 项"
+description: "2024 年柳叶刀委员会列出的 14 项可改变的痴呆风险因素，按人生阶段分类，并说明研究的关联以及可以和医生讨论的内容。"
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 年柳叶刀委员会列出了 14 项可能可以改变的痴呆风险因素：受教育年限较少、听力下降、高 LDL 胆固醇、抑郁、头部损伤、缺乏运动、糖尿病、吸烟、高血压、肥胖、过量饮酒、社交孤立、空气污染，以及未经治疗的视力下降。这些因素合计与全球约 45% 的病例有关，但对每个人而言都不能保证结果。
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "这 14 项因素贯穿整个人生：1 项在早年，10 项在中年，3 项在晚年。"
+  - "中年时的听力下降和高 LDL 胆固醇，各自与全球约 7% 的痴呆病例有关，是所有单一因素中占比最高的两项。"
+  - "这些百分比是人群估计值，并且假定存在因果关系。部分关联可能只有部分是因果性的。"
+  - "年龄和基因是重要的风险因素，而且没有人能够改变。降低这 14 项风险，并不能保证任何人避免痴呆。"
+  - "其中大部分措施，例如测量血压、检查听力和视力，对健康都有其他好处，值得与医生讨论。"
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "痴呆的 14 项可改变风险因素是什么？"
+    a: "2024 年柳叶刀委员会列出的是：受教育年限较少、听力下降、高 LDL 胆固醇、抑郁、创伤性脑损伤、缺乏身体活动、糖尿病、吸烟、高血压、肥胖、过量饮酒、社交孤立、空气污染，以及未经治疗的视力下降。这些因素合计与全球将近一半的痴呆病例有关。"
+  - q: "哪一项痴呆风险因素最重要？"
+    a: "委员会估计，在全世界人口中，中年时的听力下降和高 LDL 胆固醇各自与约 7% 的病例有关，其次是受教育年限较少和社交孤立，各约 5%。对某一个人而言，哪些因素最重要取决于其自身健康状况，因此医生是最好的指导者。"
+  - q: "2024 年是否新增了两项风险因素？"
+    a: "是的。2024 年的报告在 2020 年列出的 12 项因素之外，新增了中年时的高 LDL（“坏”）胆固醇，以及晚年时未经治疗的视力下降。委员会分别估计它们与约 7% 和约 2% 的病例有关。"
+  - q: "年龄是可以改变的风险因素吗？"
+    a: "不能。年龄是已知最大的阿尔茨海默病风险因素，无法改变。基因也有作用。本页列出的 14 项因素，是研究表明可能可以改变的因素。"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+风险因素是指与某种疾病较高发生机会相关的因素。它并不总是病因，而且有某项风险因素，并不代表一定会患上痴呆。本页列出 2024 年柳叶刀委员会认为可能改变的 14 项痴呆风险因素，说明研究对它们的关联，以及您可以和医生讨论哪些内容。
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+如需全面了解，包括大型试验的发现，可以先阅读[痴呆能否预防？研究怎么说](/brain-health/can-dementia-be-prevented/)。本页仅为一般性信息，不是医疗建议；请参阅我们的[医疗免责声明](/medical-disclaimer/)。
 
-## What are the 14 risk factors for dementia?
+## 痴呆的 14 项风险因素是什么？
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+由 27 位痴呆研究人员撰写的[2024 年柳叶刀委员会报告](https://doi.org/10.1016/S0140-6736(24)01296-0)估计，这 14 项可能可以改变的风险因素，合计与全球约 45% 的痴呆病例有关。下表中每项因素的百分比，是委员会估计的、全球病例中与该因素相关的比例，已四舍五入为整数。由于许多人同时具有多项风险，这些数字彼此重叠，因此加起来是 45%，而不是更高。
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| 风险因素 | 人生阶段 | 病例占比 | 研究的关联 | 您可以做什么 |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| 受教育年限较少 | 早年 | 5% | 受教育年限较少与较高风险有关。即使是教育程度不高的人，中年时保持脑力活动似乎也有保护作用。 | 无论年龄多大，都要保持学习，做一些需要动脑的事情：阅读、爱好、上课、与他人一起玩游戏。 |
+| 听力下降 | 中年 | 7% | 未经治疗的听力下降与较高风险有关。追踪人群的研究显示，使用助听器与较低风险有关。 | 检查听力。咨询是否适合配戴助听器，如有医嘱就佩戴。避免长时间处于高噪音环境中。 |
+| 高 LDL 胆固醇 | 中年（约 40 岁起） | 7% | 中年时高 LDL（“坏”）胆固醇与较高风险有关。观察性研究显示使用他汀类药物与较低风险有关，但晚年的试验尚未证实这一点。 | 询问医生是否需要检查胆固醇，以及如需处理应怎么做。 |
+| 抑郁 | 中年 | 3% | 抑郁与较高风险有关。在晚年，抑郁也可能是痴呆的早期征兆。 | 如果情绪低落或失去兴趣的状况持续两周以上，请告诉医生。抑郁是可以治疗的。 |
+| 创伤性脑损伤 | 中年 | 3% | 任何年龄、任何原因造成的头部损伤，包括接触性运动所致的损伤，都与较高风险有关。 | 骑自行车和进行接触性运动时佩戴头盔。询问如何预防跌倒。头部受伤后要休息并接受检查。 |
+| 缺乏身体活动 | 中年 | 2% | 经常运动和参与体育活动的人，患痴呆的可能性较低。试验证据仍然有限。 | 询问哪些运动对您来说是安全的，并找到自己喜欢的活动。参阅我们的[运动指南](/brain-health/exercise/)。 |
+| 糖尿病 | 中年 | 2% | 糖尿病，尤其是在中年开始或持续时间较长的糖尿病，与较高风险有关。 | 检查血糖。如果您患有糖尿病，请与护理团队合作，安全地进行管理。 |
+| 吸烟 | 中年 | 2% | 吸烟与较高风险有关。研究发现，已戒烟的人不会像仍在吸烟的人那样承担较高风险。 | 询问戒烟的支持服务。任何年龄戒烟都是值得的。 |
+| 高血压 | 中年 | 2% | 中年时的高血压与较高风险有关。降压药物的试验显示，它可能使痴呆或认知障碍的风险略有降低。 | 了解自己的血压数值。委员会建议，约从 40 岁起，收缩压应保持在 130 或以下；请询问哪个目标适合您。 |
+| 肥胖 | 中年 | 1% | 中年时肥胖与较高风险有关，它也会增加患糖尿病的风险。 | 询问医生，什么样的体重对您来说是健康的。老年人在没有医疗建议的情况下，不应节食减重。 |
+| 过量饮酒 | 中年 | 1% | 大量饮酒与较高风险有关。戒掉大量饮酒与较低风险有关。 | 询问对您来说安全的饮酒限量，尤其是在服用药物时。 |
+| 社交孤立 | 晚年 | 5% | 与他人接触不频繁与较高风险有关。 | 用您喜欢的方式与人保持联系。参阅我们的[社交联系指南](/brain-health/social-connection/)。 |
+| 空气污染 | 晚年 | 3% | 生活在空气污染较严重的环境中与较高风险有关。研究显示，空气更清洁与较低风险有关。 | 这主要是公共政策的问题。留意当地空气质量预警，在污染非常严重的日子减少外出时间。 |
+| 未经治疗的视力下降 | 晚年 | 2% | 未矫正的视力问题与较高风险有关。一项美国大型研究显示，白内障手术与较低风险有关。 | 定期做眼科检查。询问白内障等问题是否可以治疗。 |
 
-## How should I read these percentages?
+## 应该如何理解这些百分比？
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+请仔细理解。委员会报告本身提出了几点值得牢记的说明：
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **它们描述的是人群，而不是个人。** 伦敦大学学院对该报告的[摘要](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)指出，降低风险是在整个人群层面发挥作用，并不能保证任何一个人避免痴呆。
+- **它们假定存在因果关系。** 作者只纳入了证据充分的因素，但也说明部分关联可能只有部分是因果性的。
+- **它们是全球数字。** 大多数数据来自高收入国家，任何一个国家或社区的实际比例都会有所不同。
+- **小比例也可能很重要。** 一个与全球 2% 病例有关的因素，仍会影响非常多的人。
 
-## Which risk factors were added in 2024?
+## 2024 年新增了哪些风险因素？
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 年的报告在 2020 年列出的 12 项因素之外，新增了两项：
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **中年时的高 LDL 胆固醇**，与约 7% 的病例有关。
+- **晚年时未经治疗的视力下降**，与约 2% 的病例有关。
 
-## What risk factors cannot be changed?
+## 哪些风险因素无法改变？
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+美国国家老龄研究所表示，[年龄是阿尔茨海默病已知最大的风险因素](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease)，而且没有人能够改变它。基因也有作用；一个广为人知的、会影响阿尔茨海默病风险的基因称为 APOE。该研究所还指出，科学家尚未完全了解大多数人患阿尔茨海默病的原因。柳叶刀委员会指出，无论一个人的基因风险如何，可能改变的风险都可以降低。
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+由于年龄和基因起着很大的作用，许多人即使没有上述 14 项风险因素中的任何一项，仍然会患上痴呆。这并不是任何人的过错。
 
-## What does the trial evidence say about changing these risks?
+## 试验证据对改变这些风险有何说明？
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+将某项风险因素与痴呆联系起来，并不等于证明改变该因素就能降低痴呆风险。以下是一些试验证据的现状：
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **血压。** 在 SPRINT MIND 试验中，较低的血压目标显著减少了轻度认知障碍。但它并没有显著减少可能的痴呆，不过该试验的规模或许太小，无法显示这一点（[《美国医学会杂志》上的 SPRINT MIND](https://pubmed.ncbi.nlm.nih.gov/30688979/)）。
+- **助听器。** 柳叶刀委员会描述了一项为期三年的助听器试验，该试验未发现对思维能力的整体影响，但在风险较高的人群亚组中有益处。追踪人群的研究显示，使用助听器与较低风险有关。更多内容请参阅我们的[听力指南](/brain-health/hearing/)。
+- **身体活动。** 美国国家老龄研究所表示，目前没有足够的临床试验证据可以断定运动能预防或减缓轻度认知障碍或阿尔茨海默病，尽管有些研究提示它可能有助于缓解与年龄相关的衰退（[美国国家老龄研究所关于预防阿尔茨海默病的说明](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)）。
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+等待痴呆出现的长期试验既缓慢又昂贵，因此对于许多因素而言，最好的证据仍将来自多年的追踪研究。这些证据是有用的，但不如试验证据有力。
 
-## What about sleep and diet?
+## 睡眠和饮食呢？
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+委员会也审视了睡眠和饮食，但由于证据不够强或不够一致，没有将它们列入名单。我们关于[睡眠](/brain-health/sleep/)和[饮食](/brain-health/diet/)的指南解释了目前已知的情况。
 
-## Talk with a doctor
+## 与医生讨论
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+每年一次的体检是提出这些话题的好时机。您可以带上这份清单，并询问：
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- 我的血压、血糖和胆固醇数值是多少？是否有需要关注的地方？
+- 我是否应该检查听力和视力？
+- 我正在进行的活动对我来说是否安全，并且足够？
+- 我的任何药物是否会影响记忆或思维？
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+在改变药物、饮食、禁食、运动或营养补充剂之前，请先与医生商量。如果您或您照顾的人突然出现意识混乱、一侧身体无力或说话困难，请拨打当地急救电话。
