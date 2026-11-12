@@ -93,7 +93,7 @@ Dat sinn Ziler, keng Eegangsvoraussetzungen. D'CDC seet, datt wann ee se net err
 
 Fir eng Persoun, déi mat Demenz lieft, zielt Komfort, Plaisir a d'Erhalen vun alldeegleche Fäegkeeten, net d'Erreechen vun enger Zuel. Den NIA seet, datt kierperlech Aktivitéit hëlleft, d'Muskelen, d'Gelenker an d'Häerz vun enger Persoun mat Alzheimer a gudder Form ze halen, an och d'Stëmmung an de Schlof verbesseren kann. Sprecht mat hirem Dokter, ier Dir eng nei Routine ufänkt. Tipps aus dem [Betreiwerguide vum NIA](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sinn:
 
-1. **Spadséiert all Dag zesummen.** Wielt e sécheren, vertraute Wee ouni Hindernisser. Wann d'Persoun eleng geet, ass e Liewensmëttel-Ausweis-Band mat Ärer Telefonsnummer eng gutt Iddi.
+1. **Spadséiert all Dag zesummen.** Wielt e sécheren, vertraute Wee ouni Hindernisser. Wann d'Persoun eleng geet, ass e Identifikatiouns-Band mat Ärer Telefonsnummer eng gutt Iddi.
 2. **Probéiert Übungsvideoen fir eeler Leit.** Mach zesummen mat, sëtzend oder stoend.
 3. **Halt d'Sessiounen kuerz.** E puer kleng „Mini-Workouts“ kënnen besser funktionéieren wéi een laangen.
 4. **Setzt Musek dobäi.** Vertraut Lidder maachen d'Bewegung zu enger Aktivitéit, net zu enger Aufgab. Danzt, wann d'Persoun dat gär huet.
