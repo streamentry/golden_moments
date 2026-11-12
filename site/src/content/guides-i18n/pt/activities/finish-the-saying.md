@@ -1,7 +1,7 @@
 ---
 title: "Jogos de Completar Ditados para Idosos com Demência"
 seoTitle: "Completar Ditados: Jogos para Idosos com Demência"
-description: "Jogos de completar ditados e provérbios para idosos com demência: como jogar com frases conhecidas, oferecer escolhas, evitar provas e transformar uma resposta em conversa."
+description: "Jogos de completar ditados para idosos com demência: como jogar com frases conhecidas, oferecer escolhas, evitar provas e transformar uma resposta em conversa."
 section: activities
 order: 23
 updated: 2026-11-08

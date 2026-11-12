@@ -24,7 +24,7 @@ faq:
   - q: "Que atividades combinam com alguém com demência de início precoce?"
     a: "Funcionam melhor as atividades que combinam com a vida adulta da pessoa: um hobby familiar, uma caminhada com um amigo, um turno de voluntariado, um projeto de cozinha para a família, músicas da juventude ou uma viagem a um lugar que ela ama. Deixe-a escolher e ajuste a duração e a companhia, e não a atividade em si."
   - q: "Onde um parceiro ou filho adulto pode encontrar apoio?"
-    a: "A Alzheimer's Association oferece grupos gratuitos de apoio a cuidadores, incluindo grupos para quem cuida de alguém com demência de início precoce. Você pode ligar para a Central de Atendimento 24 horas da associação, no número 800.272.3900, para perguntar sobre grupos e recursos."
+    a: "A Alzheimer's Association oferece grupos gratuitos de apoio a cuidadores, incluindo grupos para quem cuida de alguém com demência de início precoce. Você pode ligar para a Central de Atendimento 24/7 da associação, no número 800.272.3900, para perguntar sobre grupos e recursos."
   - q: "A pessoa com demência de início precoce deve continuar fazendo as atividades de que gosta?"
     a: "Sim, desde que seja seguro e ela queira. Hobbies, comunidades de fé, exercícios e momentos sociais fazem parte de uma vida plena. Ajuste o ambiente, leve um companheiro e planeje descanso, e pare quando a atividade já não fizer bem."
 sources:
@@ -82,7 +82,7 @@ Para orientações sobre rotinas diárias e manter-se ativo, veja [uma rotina di
 
 Parceiros e filhos adultos costumam se sentir isolados. Cuidar pode parecer um segundo emprego, somado ao trabalho e à família. O texto no blog da Alzheimer's Association relata que cuidadores de grupos de início precoce consideraram os grupos úteis para questões práticas, como planejamento jurídico, e também para se sentirem compreendidos. O texto também informa que a associação mantém grupos gratuitos de apoio a cuidadores, incluindo grupos para quem cuida de alguém com demência de início precoce, e que três deles se reúnem virtualmente às terças e quartas-feiras.
 
-Para perguntar sobre os grupos, ligue para a Central de Atendimento 24 horas da associação, no número 800.272.3900. Nosso guia de [autocuidado do cuidador](/caregiving/caregiver-self-care/) trata de descanso, alívio do cuidado e sinais de esgotamento.
+Para perguntar sobre os grupos, ligue para a Central de Atendimento 24/7 da associação, no número 800.272.3900. Nosso guia de [autocuidado do cuidador](/caregiving/caregiver-self-care/) trata de descanso, alívio do cuidado e sinais de esgotamento.
 
 ## As fases ainda importam
 
