@@ -16,11 +16,11 @@ keyPoints:
   - "Cilvēkiem, kas dzīvo ar demenci, patīkamas kopīgas aktivitātes atbalsta dzīves kvalitāti; mērķis ir saskarsme, nevis sniegums."
 faq:
   - q: "Vai vientulība izraisa demenci?"
-    a: "Tas nav pierādīts. Daudzi pētījumi saista vientulību un izolāciju ar lielāku demences risku, bet agrīnas smadzeņu izmaiņas var arī likt cilvēkiem atkāpties no citiem. Saikne ar citiem citādi labvēlīga garastāvoklim un veselībai, tāpēc to ir vērts atbalstīt jebkurā gadījumā."
+    a: "Tas nav pierādīts. Daudzi pētījumi saista vientulību un izolāciju ar lielāku demences risku, bet agrīnas smadzeņu izmaiņas var arī likt cilvēkiem atkāpties no citiem. Saskarsmei ir arī citi ieguvumi garastāvoklim un veselībai, tāpēc to ir vērts atbalstīt jebkurā gadījumā."
   - q: "Kāda ir atšķirība starp vientulību un sociālo izolāciju?"
     a: "Sociāla izolācija nozīmē, ka cilvēkam ir maz kontaktu ar citiem un viņš tos regulāri neuztur. Vientulība ir sāpīga sajūta, ka esi vienatnē vai atstumts. Var dzīvot vienam un nejust vientulību vai just vientulību, būdams ar cilvēkiem apkārt."
   - q: "Kā es varu palīdzēt vecākam ar demenci uzturēt kontaktus?"
-    a: "Īsi, regulāri kontakti darbojas labi. Izmēģiniet fiksētu cotādienas zvanu vai video sarunu, kopīgu aktivitāti pie virtuves galda, atmiņu kafejnīcu vai apmeklējumu kopā ar mājdzīvnieku vai mazbērnu. Turiet grupas nelielas un klusas un ļaujiet cilvēkam noteikt tempu."
+    a: "Īsi, regulāri kontakti darbojas labi. Izmēģiniet fiksētu iknedēļas zvanu vai video sarunu, kopīgu aktivitāti pie virtuves galda, atmiņu kafejnīcu vai apmeklējumu kopā ar mājdzīvnieku vai mazbērnu. Turiet grupas nelielas un klusas un ļaujiet cilvēkam noteikt tempu."
   - q: "Kur atrast vietēju palīdzību vecākam cilvēkam, kas ir izolēts?"
     a: "Eldercare Locator, sabiedrisks pakalpojums, savieno ģimenes ar vietējām vecākas paaudzes aģentūrām un kopienas programmām. Ar to var sazināties pa tālruni 800-677-1116 vai vietnē eldercare.acl.gov."
 sources:

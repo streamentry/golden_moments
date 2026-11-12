@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Risikofaktorer for demens: de 14 som Lancet-kommisjonen pekte ut"
+seoTitle: "Risikofaktorer for demens: de 14 Lancet-faktorene"
+description: "De 14 risikofaktorene for demens som kan endres, sortert etter livsfase. Hva forskningen viser, og hva du kan ta opp med legen."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  Lancet-kommisjonen fra 2024 pekte ut 14 risikofaktorer for demens som kan
+  endres: kort utdanning, hørselstap, høyt LDL-kolesterol, depresjon,
+  hodeskade, fysisk inaktivitet, diabetes, røyking, høyt blodtrykk, fedme,
+  mye alkohol, sosial isolasjon, luftforurensning og ubehandlet synstap.
+  Sammen er de knyttet til omtrent 45 % av tilfellene i verden, men ingen
+  kan være sikker på å unngå demens selv om de tar hensyn til disse.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "De 14 faktorene strekker seg over hele livet: én i tidlig liv, ti i midtlivet og tre i senere liv."
+  - "Hørselstap og høyt LDL-kolesterol i midtlivet er hver for seg knyttet til omtrent 7 % av demenstilfellene i verden. Dette er de største andelene for én enkelt faktor."
+  - "Disse prosentene er anslag for befolkningen, og de forutsetter årsak og virkning. Noen sammenhenger er kanskje bare delvis årsaksbetinget."
+  - "Alder og gener, som ingen kan endre, er også viktige risikofaktorer. Å redusere de 14 risikoene garanterer ikke at noen unngår demens."
+  - "De fleste tiltakene, som å sjekke blodtrykk, hørsel og syn, er bra for helsen på andre måter også, og er verdt å drøfte med legen."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Hva er de 14 risikofaktorene for demens som kan endres?"
+    a: "Lancet-kommisjonen fra 2024 pekte ut kort utdanning, hørselstap, høyt LDL-kolesterol, depresjon, traumatisk hjerneskade, fysisk inaktivitet, diabetes, røyking, høyt blodtrykk, fedme, mye alkohol, sosial isolasjon, luftforurensning og ubehandlet synstap. Sammen er de knyttet til nesten halvparten av demenstilfellene i verden."
+  - q: "Hvilken risikofaktor for demens betyr mest?"
+    a: "For verdens befolkning anslo kommisjonen at hørselstap og høyt LDL-kolesterol i midtlivet hver for seg er knyttet til omtrent 7 % av tilfellene. Deretter kommer kort utdanning og sosial isolasjon, med omtrent 5 % hver. Hvilke faktorer som betyr mest for én person, avhenger av helsen hans eller hennes, så legen er den beste veilederen."
+  - q: "Ble to nye risikofaktorer lagt til i 2024?"
+    a: "Ja. Rapporten fra 2024 la til høyt LDL-kolesterol («det dårlige kolesterolet») i midtlivet og ubehandlet synstap i senere liv, til de 12 faktorene som ble nevnt i 2020. Kommisjonen knyttet dem til henholdsvis omtrent 7 % og 2 % av tilfellene."
+  - q: "Er alder en risikofaktor som kan endres?"
+    a: "Nei. Alder er den største kjente risikofaktoren for Alzheimers sykdom, og den kan ikke endres. Gener spiller også en rolle. De 14 faktorene på denne siden er de forskningen tyder på kan endres."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+En risikofaktor er noe som er knyttet til en høyere sjanse for å utvikle en tilstand. Den er ikke årsak i alle tilfeller, og å ha én betyr ikke at du vil få demens. Denne siden lister opp de 14 risikofaktorene for demens som Lancet-kommisjonen fra 2024 mener kan endres, hva forskningen knytter dem til, og hva du kan drøfte med legen.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+For hele bildet, inkludert hva store studier har funnet, start med [Kan demens forebygges? Hva forskningen sier](/brain-health/can-dementia-be-prevented/). Dette er generell informasjon, ikke medisinsk råd. Se vår [medisinske ansvarsfraskrivelse](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Hva er de 14 risikofaktorene for demens?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[Lancet-kommisjonen fra 2024](https://doi.org/10.1016/S0140-6736(24)01296-0), skrevet av 27 demensforskere, anslo at 14 risikofaktorer som kan endres, til sammen står for omtrent 45 % av demenstilfellene i verden. Prosenten for hver faktor nedenfor er kommisjonens anslag for andelen tilfeller i verden som er knyttet til den, avrundet til hele tall. Tallene overlapper, fordi mange har flere risikofaktorer samtidig. Derfor summerer de seg til 45 % og ikke mer.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Risikofaktor | Livsfase | Andel av tilfellene | Hva forskningen knytter til | Hva du kan gjøre |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Kort utdanning | Tidlig liv | 5 % | Færre års skolegang er knyttet til høyere risiko. Å være mentalt aktiv i midtlivet ser også ut til å beskytte, selv for folk med lite skolegang. | Fortsett å lære og gjøre ting som engasjerer hjernen, i alle aldre: lesing, hobbyer, kurs, spill sammen med andre. |
+| Hørselstap | Midtlivet | 7 % | Ubehandlet hørselstap er knyttet til høyere risiko. Studier som følger folk over tid, knytter bruk av høreapparat til lavere risiko. | Få hørselen testet. Spør om høreapparat kan hjelpe, og bruk det hvis det er foreskrevet. Beskytt ørene mot høy støy. |
+| Høyt LDL-kolesterol | Midtlivet (fra omtrent 40 år) | 7 % | Høyt LDL («dårlig») kolesterol i midtlivet er knyttet til høyere risiko. Observasjonsstudier knytter bruk av statiner til lavere risiko, men studier i senere liv har ikke vist dette. | Spør legen om kolesterolet ditt bør sjekkes, og hva som eventuelt bør gjøres med det. |
+| Depresjon | Midtlivet | 3 % | Depresjon er knyttet til høyere risiko. I senere liv kan depresjon også være et tidlig tegn på demens. | Fortell legen om lavt humør eller tap av interesse som varer mer enn to uker. Depresjon kan behandles. |
+| Traumatisk hjerneskade | Midtlivet | 3 % | Hodeskade i alle aldre og fra alle kilder, også ved kontaktidrett, er knyttet til høyere risiko. | Bruk hjelm ved sykling og kontaktidrett. Spør om forebygging av fall. Hvil og få kontroll etter en hodeskade. |
+| Fysisk inaktivitet | Midtlivet | 2 % | Folk som trener og driver idrett, får sjeldnere demens. Studiebevisene fra forsøk er fortsatt begrenset. | Spør hva slags aktivitet som er trygg for deg, og finn noe du liker. Se vår [veiledning om trening](/brain-health/exercise/). |
+| Diabetes | Midtlivet | 2 % | Diabetes, særlig når den starter i midtlivet eller varer lenge, er knyttet til høyere risiko. | Få blodsukkeret sjekket. Hvis du har diabetes, samarbeid med behandlerne dine om å håndtere det trygt. |
+| Røyking | Midtlivet | 2 % | Røyking er knyttet til høyere risiko. Studier viser at tidligere røykere ikke har samme økte risiko som de som fortsetter å røyke. | Spør om hjelp til å slutte. Det er verdt å slutte i alle aldre. |
+| Høyt blodtrykk | Midtlivet | 2 % | Høyt blodtrykk i midtlivet er knyttet til høyere risiko. Forsøk med blodtrykksmedisin tyder på en beskjeden lavere risiko for demens eller kognitiv svekkelse. | Kjenn tallene dine. Kommisjonen anbefaler et øvre tall på 130 eller lavere fra omtrent 40 år. Spør hva som er et passende mål for deg. |
+| Fedme | Midtlivet | 1 % | Fedme i midtlivet er knyttet til høyere risiko, og den øker også risikoen for diabetes. | Spør legen om en sunn vekt for deg. Eldre voksne bør ikke slanke seg uten medisinsk råd. |
+| Mye alkohol | Midtlivet | 1 % | Mye drikking er knyttet til høyere risiko. Å redusere fra mye drikking er knyttet til lavere risiko. | Spør hva som er en trygg grense for deg, særlig sammen med medisinene dine. |
+| Sosial isolasjon | Senere liv | 5 % | Sjelden sosial kontakt er knyttet til høyere risiko. | Hold kontakten med folk på måter du liker. Se vår [veiledning om sosial kontakt](/brain-health/social-connection/). |
+| Luftforurensning | Senere liv | 3 % | Å bo med mer luftforurensning er knyttet til høyere risiko. Studier knytter renere luft til lavere risiko. | Dette er først og fremst et spørsmål for samfunnet. Følg med på lokale varsler om luftkvalitet, og begrens tiden ute på svært forurensede dager. |
+| Ubehandlet synstap | Senere liv | 2 % | Synsproblemer som ikke er korrigert, er knyttet til høyere risiko. En stor studie fra USA knyttet katarankirurgi til lavere risiko. | Ta øyekontroll regelmessig. Spør om problemer som grå stær kan behandles. |
 
-## How should I read these percentages?
+## Hvordan bør jeg lese prosentene?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Med forsiktighet. Kommisjonens egen rapport peker på flere ting å huske på:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **De beskriver befolkninger, ikke enkeltpersoner.** University College Londons [oppsummering av rapporten](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) sier at det å redusere risikoen virker for en befolkning, men ikke garanterer at en bestemt person unngår demens.
+- **De forutsetter årsak og virkning.** Forfatterne tok bare med faktorer med overbevisende studiebevis, men de sier at noen sammenhenger kanskje bare delvis er årsaksbetinget.
+- **Det er tall for hele verden.** De fleste data kommer fra land med høy inntekt, og den reelle andelen for ett enkelt land eller samfunn vil være annerledes.
+- **Små prosenter kan likevel bety mye.** En faktor knyttet til 2 % av tilfellene i verden rammer fortsatt svært mange mennesker.
 
-## Which risk factors were added in 2024?
+## Hvilke risikofaktorer ble lagt til i 2024?
 
-The 2024 report added two factors to the 12 named in 2020:
+Rapporten fra 2024 la til to faktorer til de 12 som ble nevnt i 2020:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Høyt LDL-kolesterol i midtlivet**, knyttet til omtrent 7 % av tilfellene.
+- **Ubehandlet synstap i senere liv**, knyttet til omtrent 2 % av tilfellene.
 
-## What risk factors cannot be changed?
+## Hvilke risikofaktorer kan ikke endres?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Det amerikanske instituttet for aldring (National Institute on Aging) sier at [alder er den største kjente risikofaktoren for Alzheimers](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), og at ingen kan endre den. Gener spiller også en rolle. Ett godt kjent gen som påvirker risikoen for Alzheimers, kalles APOE. NIA tilføyer at forskerne ennå ikke forstår fullt ut hva som forårsaker Alzheimers hos de fleste. Lancet-kommisjonen påpeker at de risikoene som kan endres, kan reduseres uansett hva en persons genetiske risiko er.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Fordi alder og gener spiller så stor rolle, får mange som ikke har noen av de 14 risikofaktorene, likevel demens. Det er ingens feil.
 
-## What does the trial evidence say about changing these risks?
+## Hva sier forsøksbevisene om å endre disse risikoene?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+At en risikofaktor er knyttet til demens, er ikke det samme som å bevise at en endring av den reduserer risikoen for demens. Noen eksempler på hvor forsøksbevisene står:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Blodtrykk.** I SPRINT MIND-studien reduserte et lavere blodtrykksmål betydelig lett kognitiv svekkelse. Det reduserte ikke sannsynlig demens betydelig, men studien kan ha vært for liten til å vise det ([SPRINT MIND i JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Høreapparat.** Lancet-kommisjonen beskriver et treårig forsøk med høreapparat som ikke fant noen samlet effekt på tenkningen, men en fordel i en undergruppe av folk med høyere risiko. Studier som følger folk over tid, knytter bruk av høreapparat til lavere risiko. Vår [veiledning om hørsel](/brain-health/hearing/) har mer.
+- **Fysisk aktivitet.** Det amerikanske instituttet for aldring sier at det ikke finnes nok kliniske forsøk til å konkludere med at trening kan forebygge eller bremse lett kognitiv svekkelse eller Alzheimers, selv om noen studier tyder på at det kan hjelpe mot aldersrelatert nedgang ([NIA om å forebygge Alzheimers](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Langvarige forsøk som venter på at demens skal utvikle seg, er trege og kostbare. For mange faktorer vil de beste bevisene derfor fortsatt komme fra studier som følger folk over flere år. Disse bevisene er nyttige, men svakere enn et forsøk.
 
-## What about sleep and diet?
+## Hva med søvn og kosthold?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Kommisjonen vurderte søvn og kosthold, men tok dem ikke med på listen, fordi bevisene ikke var sterke eller konsistente nok. Våre veiledninger om [søvn](/brain-health/sleep/) og [kosthold](/brain-health/diet/) forklarer hva som er kjent.
 
-## Talk with a doctor
+## Snakk med legen
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Årlig helsekontroll er et godt tidspunkt å ta opp disse temaene. Du kan ta med denne listen og spørre:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Hva er blodtrykket, blodsukkeret og kolesterolet mitt, og trenger noe av det oppmerksomhet?
+- Bør jeg få sjekket hørselen og øynene?
+- Er aktiviteten jeg driver med, trygg og nok for meg?
+- Kan noen av medisinene mine påvirke hukommelsen eller tenkningen?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Før du endrer medisiner, kosthold, faste, trening eller kosttilskudd, bør du snakke med legen først. Hvis du eller en du passer på, får plutselig forvirring, svakhet på den ene siden eller vansker med å snakke, ring lokalt nødnummer.
