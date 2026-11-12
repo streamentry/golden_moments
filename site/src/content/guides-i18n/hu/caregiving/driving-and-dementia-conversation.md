@@ -1,7 +1,7 @@
 ---
 title: "Beszélgetés a vezetésről és a demenciáról"
 seoTitle: "Demencia és vezetés: így kezdjen beszélgetést"
-description: "Kezdjen nyugodt, korai beszélgetést a vezetésről és a demenciáról: tervezze meg az utazási lehetőségeket, jegyezze fel a konkrét aggodalmakat, és vonjon be helyi szakembereket."
+description: "Kezdjen nyugodt, korai beszélgetést a vezetésről és a demenciáról: tervezzen utazási lehetőségeket, jegyezze fel a konkrét aggodalmakat, és kérjen szakember tanácsát."
 section: caregiving
 order: 19
 updated: 2026-11-11

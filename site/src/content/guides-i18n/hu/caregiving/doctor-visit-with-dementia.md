@@ -1,7 +1,7 @@
 ---
 title: "Felkészülés az orvosi látogatásra demenciával"
 seoTitle: "Orvosi időpontok demencia esetén: gondozói tippek"
-description: "Készüljön az orvosi látogatásra: írjon fel kérdéseket, jegyezze fel a változásokat, hozza magával a gyógyszerek adatait, és a személyt a beleegyezésével vonja be a döntésekbe."
+description: "Készüljön az orvosi látogatásra: írjon kérdéseket, jegyezze fel a változásokat, hozza a gyógyszerek adatait, és vonja be a személyt a beleegyezésével."
 section: caregiving
 order: 20
 updated: 2026-11-11
