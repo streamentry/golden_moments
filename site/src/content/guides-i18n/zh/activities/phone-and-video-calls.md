@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "失智症患者的电话与视频通话活动"
+seoTitle: "失智症的视频通话活动"
+description: "为远方家人准备的视频与电话活动：分享与展示、朗读、唱歌、屏幕共享小游戏，以及给身边协助者的建议。"
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  与失智症患者通话，最好是简短、定期，并围绕一件可以一起做的事情：给对方看宠物或花园、翻看照片、朗读、唱一首喜爱的歌，或在共享屏幕上玩一个温和的小游戏。如果可以，每天在同一时间通话，每次只让一个人说话，并请身边的人协助。
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "活动让通话有一个形式，减轻聊天的压力。事先计划一件简单、可以分享的事情。"
+  - "短暂、定期、固定在一天中同一时段的通话，通常比偶尔的长时间通话更有效。"
+  - "一次只让一个人说话。多人交谈容易乱，尤其是对方有听力障碍时，更难跟上。"
+  - "身边的协助者可以负责设置设备、坐在对方身边，并充当游戏或照片的“双手”。"
+  - "如果今天的通话不顺利，温和地结束即可。明天再试也没有关系。"
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "和失智症患者视频通话时，我可以做什么？"
+    a: "计划一件简单的活动：展示您的花园、宠物或厨房；一起看旧照片；朗读一首短诗或一封信；唱一首对方喜欢的歌；在同一时间做同一道食谱；或在共享屏幕上玩一个温和的图片游戏。活动能让通话有一个焦点，对方就不必一直负责维持对话。"
+  - q: "视频通话应该多长？"
+    a: "通常比您想的要短。几分钟温暖的交谈可能就已经足够，尤其是对方容易疲倦的时候。与每次通话的长短相比，固定在一天中同一时段定期通话，往往更重要。"
+  - q: "如果视频通话让对方困惑或难过，怎么办？"
+    a: "有些人会觉得屏幕上的脸让人困惑。可以试试普通的电话、由协助者在平静时刻播放的录像留言，或寄送卡片和照片。如果某次通话进行得不好，请温和地结束，改天或换个时间再试。"
+  - q: "如果妈妈无法使用电话，我怎样和她视频通话？"
+    a: "请家人、居家护理员或养老机构的工作人员帮忙开始通话，并拿着或架好设备。许多照护机构会协助家属进行视频通话，可以问问他们提供什么服务。放在支架上的平板电脑，设为大屏幕并且声音足够大，对每个人都更方便。"
+  - q: "我们能通过视频一起玩游戏吗？"
+    a: "可以。最简单的方法，是一方在视频应用中共享屏幕，另一方告诉对方该点哪张图片。或者身边的协助者可以在平板上打开同一个游戏，您一边聊天，他们一边替对方点击，并由您在旁边引导。请选择没有计时或计分的游戏。"
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+与失智症患者分隔两地，常常让人感到无能为力。电话和视频通话无法取代一个拥抱，但只要安排得当，依然能带来真实的connection，即使隔着屏幕。诀窍是不要硬要进行一场普通的家常闲聊，而是事先计划一件简单、可以分享的事情。本页介绍在视频和电话中可以进行的活动、如何安排通话，以及身边的协助者可以怎样帮忙。
 
-## Why plan an activity for a call?
+## 为什么要为通话计划一项活动？
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+活动能给通话一个形式。“你好吗？今天做了什么？”这样的问题，要求对方去回忆并汇报，可能很困难，也会带来压力。“看，番茄熟了”，则完全不需要对方做任何事。
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+阿尔茨海默病协会指出，视频中的多人交谈可能很困难，并建议在通话中[加入一些结构](https://www.alz.org/help-support/caregiving/holidays)，例如一起唱歌或分享照片。
 
-## What activities work on a video call?
+## 视频通话可以做哪些活动？
 
-### Show and tell
+### 展示与分享
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+把您的世界带给对方。慢慢把镜头转过花园，介绍您的狗，展示您正在做的菜，举起孙子或孙女画的画，或把手机对准窗外，让对方看看雪。用简单的话描述您看到的东西，并留出停顿，让对方有时间反应。不需要任何问题。
 
-### Look at photos together
+### 一起看照片
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+把一张旧照片举到镜头前，或共享屏幕，一次展示几张大幅照片。谈谈您注意到的地方：“看爷爷的帽子。”避免问：“这是谁？”或“你还记得吗？”如果对方把人名说错了，就顺着他的话说。请参阅我们的[回忆指南](/activities/reminiscence/)，获取温和的引导语。
 
-### Read aloud
+### 朗读
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+朗读一首短诗、一段圣经篇章、一本孩子喜爱的童书（可以在同一通视频中念给孙辈听）、亲戚的一封信，或对方喜欢的一本书中的一页。朗读给对方一些平静的东西来听，不需要他回应。
 
-### Sing or listen to music together
+### 一起唱歌或听音乐
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+唱一首对方熟悉的歌，或在您这边播放他喜爱的唱片。对许多人来说，跟着唱比谈话更容易。请参阅我们的[音乐活动指南](/activities/music/)。
 
-### Cook or bake at the same time
+### 一起做饭或烘焙
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+阿尔茨海默病协会建议，通话时一起做饭或烤一道特别的食谱。两边的厨房都要准备好。身边的人可以搅拌或尝味，而您则跟着对方那张旧食谱卡来做。
 
-### Watch something together
+### 一起看影片
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+阿尔茨海默病协会也建议，两地同时观看对方喜爱的电影，并通过电话或视频聊天。对失智症患者来说，一段短片、一集旧电视节目或一场球赛，可能比一部完整的电影更合适。
 
-### Play a gentle game on a shared screen
+### 在共享屏幕上玩温和的游戏
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+许多视频应用都可以共享屏幕。您打开游戏并点击；对方告诉您或用手指示该选哪张图片。或者，身边的协助者可以在平板上打开同一个游戏，替对方点击，而您在一旁聊天。
 
-Games that work well this way:
+适合这样玩的游戏包括：
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[接俗语](/games/finish-the-saying/)：** 您读出熟悉的俗语，对方说出结尾，然后再接一个谈话的提示。
+- **[图片配对](/games/picture-pairs/)：** 一个温和的配对游戏，使用大幅图片，图片可以一直显示，没有计时，也没有分数。
+- **[对话卡片](/games/conversation-cards/)：** 一张图片加一个开放的提示，供两人一起谈论。
+- **[照片配对](/games/photo-pairs/)：** 用您在自己的设备上选择的照片制作的配对游戏。照片只保存在您的浏览器中，对方通过您的共享屏幕看到它们。
 
-### Recorded messages
+### 录制的留言
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+当现场通话很困难时，可以录一段简短的视频：一句问候、一首歌，或绕院子走一圈。协助者可以在平静的时刻播放，想看多少遍都可以。阿尔茨海默病协会提到，可以录下并寄出特别的时刻，例如孩子们拆礼物的场面。
 
-## What about plain phone calls?
+## 普通电话通话呢？
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+电话依然很重要。澳大利亚失智症协会（Dementia Australia）建议[每天在同一时间打电话](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia)，不要赶时间，因为失智症患者可能需要一些时间才能投入对话。打电话时：
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- 马上说出您的名字和与对方的关系：“嗨，爸爸，我是珍妮，您的女儿。”
+- 语速放慢，句子简短，一次只说一个想法。
+- 直接告诉对方消息，而不是去问他：“我昨晚做了你的红烧肉食谱。”
+- 读一首短诗，或唱一段喜爱的歌词。
+- 通话保持简短，并以温暖的话语结束。
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+澳大利亚失智症协会还指出，当交谈变得更困难时，视频通话可能有帮助，因为对方可以看到您的脸。如果电话让对方感到困惑，可以试试视频，反之亦然。
 
-## How do I set up a video call that works?
+## 怎样设置一次顺利的视频通话？
 
-**Before the call:**
+**通话前：**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **选定一个固定时间。** 选在对方通常精神较好、休息充足的时候，并坚持下去。规律有助于对方。
+2. **与身边的协助者沟通。** 前一天发一条短信，帮他们安排。
+3. **检查设备。** 放在支架上的平板，比拿在手里的手机更方便。确保电量充足、屏幕明亮、声音够大。如果应用提供字幕，而对方阅读能力尚可，可以打开字幕。
+4. **计划一项活动，** 并把所有东西准备好。
 
-**During the call:**
+**通话中：**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **坐近镜头，** 光线要好，面向窗户，不要让窗户在您身后。
+- **每次都自我介绍，** 说出您的名字和与对方的关系。
+- **一次只让一个人说话。** 阿尔茨海默病协会指出，多人同时说话，对失智症患者和有听力障碍的人都很难跟上。如果有几位亲戚加入，请轮流说，或只保持两到三人。
+- **一次只问一个问题。** 家庭照护者联盟建议使用[简单、可以用是或否回答的问题](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/)，并尽量提供选项。
+- **给足停顿时间。** 等待对方的回应。如果对方在努力找词，可以适当提示一个字，这没有问题。
+- **运用您的表情和声音。** 微笑、点头，语气保持温暖。表情往往比言语更能传达意思。
+- **不要纠正。** 如果对方说的话不准确，就由他去。
 
-**Ending the call:**
+**结束通话时：**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- 在对方感到疲倦之前结束，最好是在愉快的时候。
+- 每次都用同样的道别语：“我明天中午再打给你。我爱你。”
+- 不要拖延。
 
-## Tips for the helper on site
+## 给身边协助者的建议
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+如果您是配偶、护理员、兄弟姐妹或帮忙通话的工作人员，您让这一切成为可能。
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **准备一个安静的地方。** 关掉电视，关上房门。
+- **由您自己先开始通话，** 然后把放在支架上的平板交给对方，或在视线高度拿着。
+- **坐在对方身边，而不是对面。** 您的陪伴让人安心。需要时可以轻声提示：“看，是珍妮。”
+- **充当“双手”。** 举起照片，替对方点击游戏，把平板转过来让对方看看房间。
+- **留意疲倦或情绪激动，** 并告诉打电话的人什么时候该结束。
+- **告诉打电话的人什么有效。** “她很喜欢那只狗”，这样能帮助规划下一次通话。
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA（美国国家老龄研究所）建议，远方的亲人可以帮助年长的家人[学习使用手机的功能](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving)，例如视频通话。到了后期，协助者通常需要完全负责操作设备。这没有关系。
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+如果对方住在养老机构，美国阿尔茨海默病基金会建议询问该机构是否协助家属进行视频聊天。该基金会也提到，在查询机构规定后，家人可以与护理人员互相寄送照片，并寄上对方喜爱的零食或小小的慰藉物品。
 
-## What if the call doesn't go well?
+## 如果通话不顺利怎么办？
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+有些通话会让人困惑、显得冷淡或引起不安。这不是您的错，也不代表通话没有价值。
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- 如果对方对屏幕感到茫然，就改用电话或录像留言。
+- 如果对方变得激动，请承认他的感受，说一些安慰的话，然后温和地结束。
+- 如果一天中某个时段的通话总是不顺，就换个时间。
+- 如果对方把您当成别人，就顺着他的话，温和地回应。
 
-It is fine to end early. A short, warm call is a good outcome.
+提早结束也没有关系。一次简短、温暖的通话，已经是很好的结果。
 
-## Between calls
+## 通话之间
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+在其他方面保持陪伴。澳大利亚失智症协会建议寄送卡片、电子邮件、照片或小礼物。每周寄一张明信片，上面有一张大幅照片和一句简短的话，对方可以反复阅读。可以把可打印的[对话卡片](/games/conversation-cards/)寄给协助者，让下一次通话有现成的话题。
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+如需选择和设置平板电脑的建议，请参阅[平板与屏幕](/caregiving/tablets-and-screens/)。如果想安排面对面的时间，请参阅我们的[探访指南](/activities/visiting/)。
