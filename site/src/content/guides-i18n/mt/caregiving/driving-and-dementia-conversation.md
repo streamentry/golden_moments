@@ -46,7 +46,7 @@ Is-sewqan jista' jkun parti mill-identità, mill-indipendenza u mir-rutina ta' k
 
 ## Meta għandi nibda l-konverżazzjoni?
 
-Ibda qabel inċident tas-sewqan jiffurza deċiżjoni urġenti, jekk possibbli. Agħżel ħin kalm meta l-persuna mhijiex qed tħejji ruħha biex tmur xi mkien jew qed tirritorna minn vjaġġ stressanti. Dan jista' jkun l-ewwel minn diversi konverżazzjonijiet, mhux sempliċi avviż wieħed.
+Ibda qabel ma jkun hemm inċident li jforza deċiżjoni urġenti, jekk possibbli. Agħżel ħin kalm meta l-persuna mhijiex qed tħejji ruħha biex tmur xi mkien jew qed tirritorna minn vjaġġ stressanti. Dan jista' jkun l-ewwel minn diversi konverżazzjonijiet, mhux sempliċi avviż wieħed.
 
 Staqsi x'tfisser is-sewqan għall-persuna. Jista' jkun il-mod kif iżżur lil ħbieb, tixtri l-ħwejjeġ, tgħin lill-familja, taħdem jew tħossha indipendenti. Li tirrikonoxxi dak it-tifsir ma jsolvix il-kwistjoni tas-sigurtà. Juri li tifhem x'jista' jintilef u għaliex l-ippjanar huwa importanti.
 
@@ -64,7 +64,7 @@ Dementia Australia tissuġġerixxi konverżazzjonijiet qosra u ripetuti, u tiffo
 
 Ikteb avvenimenti konkreti u meta seħħew. Eżempji jistgħu jkunu konfużjoni f'intersezzjoni, tilfien tar-rotta għal post familjari, sinjali mhux innotati jew ħsara ġdida fuq il-karozza. Inkludi x'qal il-persuna dwar il-vjaġġ u kull bidla fis-saħħa jew fil-mediċini li tixtieq tiddiskuti.
 
-Żomm in-noti fattwali u privati. Tirrekordjax b'mod sigriet, tissegwix jew tittestja lill-persuna. Jekk il-persuna taqbel, membru tal-familja li kien fil-karozza jista' jaqsam dak li osserva. Deskrizzjoni ċara tagħti lit-tabib jew lill-specjalista xi ħaġa speċifika x'jiddiskuti; ma tiddijanjostikax il-kawża u lanqas ma tiddetermina l-idoneità għas-sewqan.
+Żomm in-noti fattwali u privati. Tirreġistrax b'mod sigriet, tissegwix jew tittestja lill-persuna. Jekk il-persuna taqbel, membru tal-familja li kien fil-karozza jista' jaqsam dak li osserva. Deskrizzjoni ċara tagħti lit-tabib jew lill-specjalista xi ħaġa speċifika x'jiddiskuti; ma tiddijanjostikax il-kawża u lanqas ma tiddetermina l-idoneità għas-sewqan.
 
 Sinjali ta' twissija fil-[gwida tal-Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/dementia-driving) huma raġunijiet biex tfittex parir professjonali. Ma jissostitwixxux valutazzjoni individwali. Staqsi lit-tabib tal-persuna dwar referenza lejn terapista okkupazzjonali jew lejn specjalista ieħor kwalifikat fir-riabilitazzjoni tas-sewqan. Iċċekkja r-regoli lokali tal-liċenzjar mal-awtorità tal-liċenzji tal-istat jew tar-reġjun.
 
@@ -90,4 +90,4 @@ Aqsam id-dmirijiet tas-sewqan ma' qrabat jew ħbieb jekk il-persuna taqbel. Staq
 
 Il-[gwida tagħna dwar il-kura għal min jieħu ħsieb](/caregiving/caregiver-self-care/) tkopri kif titlob lil oħrajn jaqsmu l-appoġġ. Il-persuna għandha jkollha kemm jista' jkun sehem fid-deċiżjoni dwar kif tibqa' konnessa mal-ħajja ta' kuljum.
 
-L-għan huwa li tipproteġi s-sigurtà filwaqt li tirrispetta x'tfisser is-sewqan għall-persuna. Ibda l-konverżazzjoni kmieni, isma', itlob parir kwalifikat u ibni pjan tal-vjaġġ flimkien.
+L-għan huwa li tipproteġi s-sigurtà filwaqt li tirrispetta x'tfisser is-sewqan għall-persuna. Ibda l-konverżazzjoni kmieni, isma', itlob parir kwalifikat u ibnu pjan tal-vjaġġ flimkien.
