@@ -1,36 +1,31 @@
 ---
-title: "When Someone with Dementia Keeps Asking to Go Home"
-seoTitle: "Dementia Keeps Asking to Go Home: What to Say"
-description: "Why a person living with dementia asks to go home even when they are home, what to say, calming activities to try, and how to keep them safe if they try to leave."
+title: "Kad cilvēks ar demenci atkārtoti prasa doties mājās"
+seoTitle: "Demence un prasība doties mājās: ko teikt"
+description: "Kāpēc cilvēks ar demenci prasa doties mājās pat tad, kad ir mājās, ko teikt, kādas nomierinošas aktivitātes izmēģināt un kā nodrošināt drošību."
 section: caregiving
 order: 8
-updated: 2026-10-31
-translatedFrom: 2026-10-31
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  When someone with dementia keeps asking to go home, "home" often means a
-  feeling of safety or a place from the past, not a building. Do not argue that
-  they are home. Acknowledge the feeling, reassure them they are safe, ask about
-  home, then move gently to photos, music, a snack, a walk or a simple task.
-  Check for hunger, thirst, the toilet or pain. If it starts suddenly, call
-  their doctor.
+  Kad cilvēks ar demenci atkārtoti prasa doties mājās, "mājas" bieži nozīmē drošības sajūtu vai vietu no pagātnes, nevis ēku. Nestrīdieties, ka viņš jau ir mājās. Atzīstiet sajūtu, pārlieciniet, ka viņš ir drošībā, pajautājiet par mājām un tad maigi pārejiet pie fotogrāfijām, mūzikas, uzkodas, pastaigas vai vienkāršas darbības. Pārbaudiet, vai nav izsalkuma, slāpju, tualetes vajadzības vai sāpju. Ja tas sākas pēkšņi, zvaniet ārstam.
 keyPoints:
-  - "\"I want to go home\" often means \"I don't feel safe or settled,\" not a request for an address."
-  - "Arguing or proving they are home usually makes distress worse. Respond to the feeling instead."
-  - "Ask them to tell you about home, then offer photos, music, a snack, a walk or a simple task."
-  - "Check for something fixable: hunger, thirst, the toilet, pain, being too hot or cold, noise, tiredness."
-  - "If it happens every late afternoon, it may be sundowning; a steady routine and good light can help."
-  - "Plan for safety if they try to leave, and call their doctor about any sudden change."
+  - "\"Es gribu mājās\" bieži nozīmē \"Es nejūtos drošs vai iekārtojies\", nevis lūgumu pēc adreses."
+  - "Strīdēšanās vai pierādīšana, ka viņš ir mājās, parasti pastiprina satraukumu. Labāk reaģējiet uz sajūtu."
+  - "Lūdziet viņam pastāstīt par mājām un tad piedāvājiet fotogrāfijas, mūziku, uzkodu, pastaigu vai vienkāršu darbību."
+  - "Pārbaudiet, vai nav kaut kas, ko var novērst: izsalkums, slāpes, tualete, sāpes, pārāk karsts vai auksts, troksnis, nogurums."
+  - "Ja tas notiek katru vēlu pēcpusdienu, tā var būt sundowning; stabila rutīna un laba gaisma var palīdzēt."
+  - "Plānojiet drošību, ja viņš mēģina aiziet, un zvaniet ārstam par jebkādām pēkšņām izmaiņām."
 faq:
-  - q: "Why does my mom with dementia keep asking to go home when she is home?"
-    a: "Dementia can make familiar rooms feel strange, and people sometimes feel they are in an earlier time of life. \"Home\" may mean a childhood house or simply the feeling of being safe and comfortable. Answering that feeling usually works better than pointing out where she is."
-  - q: "What should I say when they ask to go home?"
-    a: "Try \"You're safe here, and I'm staying with you,\" then \"Tell me about your home.\" Listen, share a photo or a song, and offer a drink or a short walk. Avoid \"You are home\" said as a correction, which can feel like being told they are wrong."
-  - q: "Is it okay to say we will go home later?"
-    a: "Families and dementia organizations differ on this. Many start with honest comfort and redirection, and reserve a gentle untruth for moments when the truth would only cause distress the person cannot work through. Whatever you choose, be kind and consistent, and never mock their sense of reality."
-  - q: "What if they try to leave the house?"
-    a: "Stay calm and walk with them rather than blocking them; a short walk often settles the urge. Put safety steps in place ahead of time, such as an ID bracelet, door chimes and a recent photo. If they go missing, start searching right away, and call 911 if you have not found them within 15 minutes, saying the person has dementia."
-  - q: "When should I call a doctor?"
-    a: "Call their doctor promptly if the asking or confusion starts suddenly or gets much worse over hours or days, especially with fever, a new medicine or signs of a urinary tract infection. Sudden confusion can be delirium, which needs urgent care. Call 911 if anyone is in danger."
+  - q: "Kāpēc manai mammai ar demenci ir jāsaka, ka viņa grib mājās, kad viņa jau ir mājās?"
+    a: "Demence var padarīt pazīstamas istabas svešas, un cilvēki dažkārt jūtas, it kā būtu dzīves agrākā posmā. \"Mājas\" var nozīmēt bērnības māju vai vienkārši drošības un komforta sajūtu. Atbildēt uz šo sajūtu parasti darbojas labāk nekā norādīt, kur viņa atrodas."
+  - q: "Ko man teikt, kad viņi prasa doties mājās?"
+    a: "Izmēģiniet: \"Jūs šeit esat drošībā, un es esmu kopā ar jums,\" tad: \"Pastāstiet man par savām mājām.\" Klausieties, parādiet fotogrāfiju vai dziesmu un piedāvājiet dzērienu vai īsu pastaigu. Izvairieties no teikuma \"Jūs esat mājās\" kā labojuma, jo tas var likties kā teikts, ka viņi kļūdās."
+  - q: "Vai ir pieļaujams teikt, ka vēlāk dosimies mājās?"
+    a: "Ģimenes un demences organizācijas šajā jautājumā atšķiras. Daudzi sāk ar godīgu nomierinājumu un novirzīšanu, bet maigu nepatiesību atstāj momentiem, kad patiesība tikai radītu satraukumu, ko cilvēks nevar apstrādāt. Ko arī izvēlētos, esiet laipni un konsekventi un nekad neizsmiejiet viņa realitātes izjūtu."
+  - q: "Ko darīt, ja viņi mēģina aiziet no mājas?"
+    a: "Paliekiet mierīgi un ejiet līdzi, nevis bloķējiet ceļu; īsa pastaiga bieži nomierina vēlmi. Iepriekš ieviesiet drošības soļus, piemēram, ID aproci, durvju zvaniņu un nesenu fotogrāfiju. Ja cilvēks pazūd, pārbaudiet tuvākās drošās vietas un nekavējoties sazinieties ar vietējo policiju vai neatliekamās palīdzības dienestiem. Negaidiet noteiktu minūšu skaitu, pirms ziņojat."
+  - q: "Kad man zvanīt ārstam?"
+    a: "Nekavējoties zvaniet viņa ārstam, ja prasīšana vai apjukums sākas pēkšņi vai stipri pasliktinās stundu vai dienu laikā, īpaši ar drudzi, jaunām zālēm vai urīnceļu infekcijas pazīmēm. Pēkšņs apjukums var būt deliriji, kam nepieciešama steidzama aprūpe. Ja kādam draud briesmas, zvaniet vietējos neatliekamās palīdzības dienestos."
 sources:
   - title: "'I want to go home' - What to say to someone with dementia in care"
     publisher: "Alzheimer's Society"
@@ -50,6 +45,9 @@ sources:
   - title: "Coping With Alzheimer's Behaviors: Wandering and Getting Lost"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning"
@@ -67,87 +65,87 @@ related: [activities/visiting, caregiving/repeated-questions, caregiving/late-da
 health: false
 ---
 
-"I want to go home." For many families this is one of the hardest things to hear, especially when the person you care for is sitting in their own living room. It is common, it can happen at any stage of dementia, and there are calm, practical ways to respond. This page covers what the words often mean, what to say, activities that can help in the moment, and how to stay safe.
+„Es gribu mājās." Daudziem ģimenēm tā ir viena no grūtākajām lietām, ko dzirdēt, īpaši, ja cilvēks, par kuru rūpējaties, sēž savā dzīvojamā istabā. Tas ir bieži, tas var notikt jebkurā demences stadijā, un ir mierīgi, praktiski veidi, kā reaģēt. Šajā lapā aplūkots, ko vārdi bieži nozīmē, ko teikt, kādas aktivitātes var palīdzēt brīdī un kā paturēt drošību.
 
-## Why does someone with dementia keep asking to go home?
+## Kāpēc cilvēks ar demenci atkārtoti prasa doties mājās?
 
-Usually, "home" is a feeling more than a place. The Alzheimer's Society describes it as a sense of comfort and security, or a home from the past, rather than the house itself. Dementia can make familiar rooms look strange, and a person may feel they are living in an earlier time of life, when home was a childhood house or the place where they raised their children.
+Parasti "mājas" ir sajūta, nevis vieta. Alcheimera biedrība to apraksta kā komforta un drošības sajūtu vai mājas no pagātnes, nevis pašu māju. Demence var padarīt pazīstamas istabas svešas, un cilvēks var justies, ka dzīvo agrākā dzīves posmā, kad mājas bija bērnības māja vai vieta, kur audzināti bērni.
 
-The words can also be a sign that something else is wrong right now: they are hungry, thirsty, need the toilet, are in pain, too hot or cold, tired, lonely, frightened, or overwhelmed by noise. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) lists pain, noise, loneliness, changes in routine and medicines among the causes of agitation.
+Vārdi var būt arī zīme, ka tieši tagad kaut kas nav kārtībā: viņam ir izsalkums, slāpes, nepieciešams doties uz tualeti, sāp, ir pārāk karsts vai auksts, viņš ir noguris, vientuļš, nobijies vai pārslogots ar troksni. [Nacionālais novecošanās institūts](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) uzskaita sāpes, troksni, vientulību, izmaiņas rutīnā un zāles starp uzbudinājuma cēloņiem.
 
-## What should I say when they ask to go home?
+## Ko teikt, kad viņi prasa doties mājās?
 
-Respond to the feeling, not the words. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) advises against trying to convince the person they are wrong: their feelings are real, so answer with comfort and reassurance first, then gently redirect.
+Reaģējiet uz sajūtu, nevis uz vārdiem. [Ģimenes aprūpētāju alianse](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) iesaka nemēģināt pārliecināt cilvēku, ka viņš kļūdās: viņa sajūtas ir īstas, tāpēc vispirms atbildiet ar mierinājumu un pārliecinājumu, tad maigi novirziet uzmanību.
 
-Phrases that often help:
+Frāzes, kas bieži palīdz:
 
-- **Name the feeling.** "It sounds like you're missing home."
-- **Reassure.** "You're safe here, and I'm staying with you." The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests the simple words "You're safe here."
-- **Invite memories.** "Tell me about your home. What was your kitchen like?" Asking about the distant past is usually more comfortable than questions about today.
-- **Offer something together.** "Let's have a cup of tea first," or "Would you help me with these towels?"
+- **Nosauciet sajūtu.** "Šķiet, ka jūs ilgojaties pēc mājām."
+- **Pārlieciniet.** "Jūs šeit esat drošībā, un es esmu kopā ar jums." [Alcheimera asociācija](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) iesaka vienkāršos vārdus "Jūs šeit esat drošībā."
+- **Aicniet atmiņas.** "Pastāstiet man par savām mājām. Kāda bija jūsu virtuve?" Jautājumi par tālo pagātni parasti ir ērtāki nekā jautājumi par šodienu.
+- **Piedāvājiet kaut ko kopā.** "Iedzersim vispirms tēju," vai "Vai palīdzēsiet man ar šiem dvieļiem?"
 
-A warm tone and a hand on the arm, if they like touch, can say more than the words.
+Silta intonācija un roka uz rokas, ja cilvēks mīl pieskārienus, var pateikt vairāk nekā vārdi.
 
-## What should I avoid?
+## Ko vajadzētu izvairīties darīt?
 
-- **Arguing or explaining.** "You live here now" or "This has been your home for 40 years" asks them to accept something dementia makes hard to accept, and it can feel like being told they are wrong.
-- **Quizzing.** "Don't you remember?" or "What's the address?" adds pressure.
-- **Blocking the door in anger.** If they head out, stay calm and walk with them. A short walk together often settles the urge.
-- **Rushing.** Give them time to talk about home before you change the subject.
+- **Strīdēties vai skaidrot.** "Jūs tagad dzīvojat šeit" vai "Šīs ir jūsu mājas jau 40 gadus" prasa pieņemt kaut ko, ko demence padara grūti pieņemamu, un tas var likties kā teikts, ka viņi kļūdās.
+- **Pratināt.** "Vai jūs neatceraties?" vai "Kāda ir adrese?" rada spiedienu.
+- **Bloķēt durvis dusmās.** Ja viņi dodas ārā, paliekiet mierīgi un ejiet līdzi. Kopīga īsa pastaiga bieži nomierina vēlmi.
+- **Steigties.** Dodiet laiku runāt par mājām, pirms mainīt tematu.
 
-## Activities that can help in the moment
+## Aktivitātes, kas var palīdzēt brīdī
 
-After you have acknowledged the feeling, a calm, familiar activity can shift attention without dismissing it.
+Pēc tam, kad esat atzinis sajūtu, mierīga, pazīstama aktivitāte var novirzīt uzmanību, neatmetot to.
 
-1. **Look at photos of home and family.** Turn the pages and make comments ("Look at that garden") rather than asking questions. On a phone or tablet, [Photo pairs](/games/photo-pairs/) turns your own family photos into a gentle matching game, and the photos stay on your device.
-2. **Talk about home.** [Conversation cards](/games/conversation-cards/) offer open prompts about houses, kitchens, neighbors and holidays, with no right answers.
-3. **Play music they love.** The National Institute on Aging lists soothing music among the ways to calm agitation. See our [music activities](/activities/music/).
-4. **Have a snack or a drink.** Hunger and thirst can look like restlessness. A cup of tea or a favorite treat is also a small ritual of being at home.
-5. **Go for a walk or sit outside.** Movement and daylight help, especially earlier in the day.
-6. **Give a familiar job.** Folding laundry, sorting cutlery or watering plants can bring back the feeling of running a home.
-7. **Slow everything down.** Turn off the TV, cut down noise and glare, and try a shared [calm breathing](/games/calm-breathing/) pause.
+1. **Skatieties mājas un ģimenes fotogrāfijas.** Pārlapojiet lapas un komentējiet ("Paskatieties uz to dārzu"), nevis uzdodiet jautājumus. Tālrunī vai planšetē [Foto pāri](/games/photo-pairs/) pārvērš jūsu pašu ģimenes fotogrāfijas maigā atbilstības spēlē, un fotogrāfijas paliek jūsu ierīcē.
+2. **Runājiet par mājām.** [Sarunu kartītes](/games/conversation-cards/) piedāvā atvērtus jautājumus par mājām, virtuvēm, kaimiņiem un svētkiem bez pareizām atbildēm.
+3. **Ieslēdziet mūziku, ko viņi mīl.** Nacionālais novecošanās institūts uzskaita nomierinošu mūziku starp veidiem, kā mazināt uzbudinājumu. Skatiet mūsu [mūzikas aktivitātes](/activities/music/).
+4. **Pagatavojiet uzkodu vai dzērienu.** Izsalkums un slāpes var izskatīties pēc nemiera. Tase tējas vai iecienīts saldums ir arī neliels mājas sajūtas rituāls.
+5. **Dodieties pastaigā vai sēdiet ārā.** Kustība un dienasgaisma palīdz, īpaši dienas pirmajā pusē.
+6. **Dodiet pazīstamu darbu.** Locīt veļu, kārtot galda piederumus vai laistīt augus var atgriezt sajūtu, ka vadāt mājsaimniecību.
+7. **Palēniniet visu.** Izslēdziet televizoru, samaziniet troksni un spilgtumu un izmēģiniet kopīgu [mierīgās elpošanas](/games/calm-breathing/) pauzi.
 
-If one idea does not land, try another later. Sitting quietly together is a good outcome too.
+Ja viena ideja neder, izmēģiniet citu vēlāk. Kopā mierīgi sēdēt ir arī labs rezultāts.
 
-## Check for a cause you can fix
+## Pārbaudiet cēloni, ko var novērst
 
-| Check | What to try |
+| Pārbaude | Ko izmēģināt |
 | --- | --- |
-| Hungry or thirsty | Offer a drink and a small snack |
-| Needs the toilet | Offer a bathroom visit, calmly and without fuss |
-| Pain or discomfort | Look for signs such as wincing, holding a body part or constipation, and tell their doctor |
-| Too hot or too cold | Adjust a layer or the room temperature |
-| Noise or crowding | Move to a quieter room, turn off the TV |
-| Tired or overstimulated | Rest, dim the room, play soft music |
-| Late afternoon | See the sundowning section below |
+| Izsalcis vai slāpst | Piedāvājiet dzērienu un nelielu uzkodu |
+| Vajag tualeti | Piedāvājiet apmeklēt tualeti mierīgi un bez liekas steigas |
+| Sāpes vai nepatīkamas sajūtas | Meklējiet pazīmes, piemēram, grimasu, ķermeņa daļas turēšanu vai aizcietējumus, un pastāstiet viņa ārstam |
+| Pārāk karsts vai auksts | Pielāgojiet kārtu vai istabas temperatūru |
+| Troksnis vai pūlis | Pārejiet uz klusāku istabu, izslēdziet televizoru |
+| Noguris vai pārstimulēts | Atpūta, pritemdiniet istabu, ieslēdziet maigu mūziku |
+| Vēla pēcpusdiena | Skatiet tālāk sadaļu par sundowning |
 
-The Alzheimer's Society suggests keeping a short log of when the asking happens, such as before meals, after visitors, or at dusk. Patterns make it easier to plan ahead.
+Alcheimera biedrība iesaka uzturēt īsu pierakstu par to, kad prasīšana notiek, piemēram, pirms ēdienreizēm, pēc viesiem vai krēslas laikā. Modeļi palīdz vieglāk plānot iepriekš.
 
-## Is it okay to tell a white lie?
+## Vai ir pieļaujams pateikt baltu melu?
 
-This is a real debate, and kind families land in different places. The Alzheimer's Society says there is no single right answer: untruths can make some people more suspicious, so decide what is in the person's best interests and be consistent. At the Penn Memory Center, the co-director's view is that truth is the default and a gentle untruth is acceptable only when the person cannot process a particular truth, and that you should never mock their reality.
+Šis ir īsts strīds, un laipnas ģimenes nonāk dažādās pozīcijās. Alcheimera biedrība saka, ka nav viena pareiza atbilde: nepatiesības var dažus cilvēkus padarīt aizdomīgākus, tāpēc izlemiet, kas ir cilvēka interesēs, un esiet konsekventi. Penn Memory Center līdzdirektora viedoklis ir tāds, ka patiesība ir noklusējums un maiga nepatiesība ir pieņemama tikai tad, ja cilvēks nevar apstrādāt konkrētu patiesību, un ka nekad nedrīkst izsmiet viņa realitāti.
 
-Many caregivers find a middle path works: honest comfort and redirection first ("We'll stay here tonight, and I'm right here with you"), without arguing about where home is.
+Daudzi aprūpētāji atrod vidusceļu, kas der: vispirms godīgs mierinājums un novirzīšana ("Mēs šonakt paliksim šeit, un es esmu tepat blakus"), bez strīda par to, kur ir mājas.
 
-## What if it happens every afternoon or evening?
+## Ko darīt, ja tas notiek katru pēcpusdienu vai vakaru?
 
-Restlessness that starts or gets worse in the late afternoon is often called sundowning. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) suggests a steady schedule, daily sunlight and activity, fewer late naps, and no caffeine or alcohol late in the day. Turning lights on before dusk can also help. Our guide to [calm late-afternoon activities](/caregiving/late-day-restlessness/) has more.
+Nemiers, kas sākas vai pastiprinās vēlu pēcpusdienā, bieži tiek saukts par sundowning. [Nacionālais novecošanās institūts](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-agitation-aggression-and-sundowning) iesaka stabilu grafiku, ikdienas saules gaismu un aktivitāti, mazāk vēlu snaužu un nekādu kofeīnu vai alkoholu dienas otrajā pusē. Gaismu ieslēgšana pirms krēslas arī var palīdzēt. Mūsu ceļvedī par [nomierinošām vēlas pēcpusdienas aktivitātēm](/caregiving/late-day-restlessness/) ir vairāk.
 
-## Keeping them safe if they try to leave
+## Kā nodrošināt drošību, ja viņi mēģina aiziet
 
-Asking to go home can lead to wandering. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) estimates that six in ten people living with dementia will wander at least once.
+Prasība doties mājās var novest pie klejošanas. [Alcheimera asociācija](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) aplēš, ka seši no desmit cilvēkiem, kas dzīvo ar demenci, vismaz vienreiz klejos.
 
-**Prepare ahead:**
+**Sagatavojieties iepriekš:**
 
-- An ID or medical bracelet with their name and your phone number, and labels in their clothes. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) mentions the MedicAlert and Alzheimer's Association Safe and Found program, which may cost money.
-- A door chime or alarm, and locks placed high or low. Never lock the person in alone.
-- A recent close-up photo, and a list of places they might go, such as a former home or workplace.
-- Tell trusted neighbors, and give them your number.
+- ID vai medicīniska aproce ar viņa vārdu un jūsu tālruņa numuru, un uzlīmes uz drēbēm. [Nacionālais novecošanās institūts](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/coping-alzheimers-behaviors-wandering-and) min programmas MedicAlert un Alzheimer's Association Safe and Found, par ko var būt jāmaksā.
+- Durvju zvaniņš vai signalizācija un slēdzenes, kas novietotas augstu vai zemu. Nekad neslēdziet cilvēku vienu pašu.
+- Nesena tuvplāna fotogrāfija un saraksts ar vietām, kur viņš varētu doties, piemēram, bijušās mājas vai darbavieta.
+- Pastāstiet uzticamiem kaimiņiem un iedodiet viņiem savu numuru.
 
-**If they go missing:** start searching right away; the Alzheimer's Association notes many people are found within 1.5 miles. If you have not found them within 15 minutes, call 911 and say the person has dementia. Call 911 immediately if anyone is in danger.
+**Ja viņš pazūd:** pārbaudiet tuvākās drošās vietas un nekavējoties sazinieties ar vietējo policiju vai neatliekamās palīdzības dienestiem. Negaidiet noteiktu minūšu skaitu, pirms ziņojat. 2021. gada [ASV Tieslietu departamenta žurnāla raksts par pazudušu personu izmeklēšanu](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) norāda, ka tiesībaizsardzības iestādēm nevajadzētu prasīt noteiktu gaidīšanas laiku; tajā arī minēti simptomi, kas līdzīgi demencei, kā augsta riska pazīme. Vietējās ziņošanas procedūras atšķiras. Pastāstiet glābējiem, ka cilvēkam ir demence, sniedziet pēdējo zināmo atrašanās vietu un nesenu fotogrāfiju un ievērojiet viņu norādījumus. Ja ir kāds cits palīgs, lūdziet viņu palikt pie tālruņa. Nemeklējiet nedrošās vietās vienatnē.
 
-## When should I call a doctor?
+## Kad man zvanīt ārstam?
 
-Call their doctor promptly if the asking or confusion starts suddenly, or gets much worse over hours or days. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) says sudden or rapidly changing behavior, especially after an infection or a medicine change, should be checked right away. Sudden confusion can be delirium, which the [NHS](https://www.nhs.uk/symptoms/confusion/) says needs urgent help; urinary tract infections are a common cause in older people.
+Nekavējoties zvaniet viņa ārstam, ja prasīšana vai apjukums sākas pēkšņi vai stipri pasliktinās stundu vai dienu laikā. [Nacionālais novecošanās institūts](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) saka, ka pēkšņa vai ātri mainīga uzvedība, īpaši pēc infekcijas vai zāļu maiņas, ir jāpārbauda nekavējoties. Pēkšņs apjukums var būt deliriji, par ko [NHS](https://www.nhs.uk/symptoms/confusion/) saka, ka tam nepieciešama steidzama palīdzība; urīnceļu infekcijas ir biežs cēlonis vecāka gadagājuma cilvēkiem.
 
-It also helps to mention a steady pattern at the next appointment, since pain, low mood, sleep problems or medicine side effects can all play a part.
+Nākamajā vizītē arī noderīgi pieminēt stabilu modeli, jo sāpes, zems garastāvoklis, miega problēmas vai zāļu blakusparādības var visas spēlēt lomu.

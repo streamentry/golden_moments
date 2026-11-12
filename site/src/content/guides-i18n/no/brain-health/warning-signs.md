@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Tidlige tegn på demens og når du bør oppsøke lege"
+seoTitle: "Tidlige tegn på demens og når du bør oppsøke lege"
+description: "Vanlige tidlige tegn på demens, hvordan de skiller seg fra normal aldring, behandlingsbare årsaker til hukommelsesproblemer, og hvordan du forbereder en legetime."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Hukommelsestap som forstyrrer hverdagen, problemer med kjente oppgaver, forvirring om tid eller sted, og endringer i humør eller dømmekraft kan være tidlige tegn på demens. Mange andre tilstander, blant annet problemer med skjoldbruskkjertelen, lavt vitamin B12, bivirkninger av medisiner, depresjon og søvnproblemer, kan gi lignende endringer. Bare en kvalifisert helsepersonell kan stille diagnosen. Plutselig forvirring trenger akutt hjelp.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Av og til å glemme ting er vanlig med alderen. Endringer som forstyrrer hverdagen, bør sjekkes."
+  - "Alzheimer's Association beskriver 10 varselsignaler, og for hvert av dem finnes en typisk aldersrelatert endring til sammenligning."
+  - "Problemer med skjoldbruskkjertelen, lavt vitamin B12, bivirkninger av medisiner, depresjon, infeksjoner og søvnproblemer kan alle påvirke hukommelsen, og noen av dem kan behandles."
+  - "Bare en kvalifisert helsepersonell kan stille diagnosen demens. Nettquiz og egentester kan ikke gjøre det."
+  - "Forvirring som kommer brått, over timer eller dager, kan være delirium, og da trengs akutt medisinsk hjelp."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Er glemsomhet en normal del av aldringen?"
+    a: "Noe er det. Det amerikanske instituttet for aldring (NIA) sier at det å legge fra seg ting eller glemme en regning av og til vanligvis er mild, aldersrelatert glemsomhet. Demens er ikke en normal del av aldringen. Hukommelsesproblemer som gjør hverdagsoppgaver som å kjøre bil, bruke telefonen eller finne veien hjem vanskelige, bør sjekkes med lege."
+  - q: "Kan hukommelsesproblemer ha en annen årsak enn demens?"
+    a: "Ja. NIA lister opp blant annet problemer med skjoldbruskkjertel, nyre eller lever, bivirkninger av medisiner, depresjon og angst, lavt vitamin B12, alkoholmisbruk, søvnproblemer, infeksjoner og hodeskader. Noen av disse blir bedre når de er behandlet, og det er en av grunnene til at en medisinsk sjekk er viktig."
+  - q: "Kan jeg teste noen for demens hjemme?"
+    a: "Nei. Bare en kvalifisert helsepersonell kan stille diagnosen demens, ved hjelp av sykehistorie, fysisk undersøkelse, hukommelses- og tenkningstester, laboratorieprøver og noen ganger hjerneskanning. Selv de korte testene leger bruker, er ikke nok alene til å stille diagnosen demens."
+  - q: "Hva bør jeg gjøre hvis noen plutselig blir forvirret?"
+    a: "Få medisinsk hjelp med en gang. Plutselig forvirring kan være delirium, som VA beskriver som en medisinsk nødsituasjon. Ring personens helsepersonell umiddelbart eller ring lokalt nødnummer, bli hos personen, og notér eventuelle medisiner de tar."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Å legge merke til endringer i din egen hukommelse, eller i noen du er glad i, kan være skremmende. Denne siden kan hjelpe deg å avgjøre når du bør bestille time hos legen, og hvordan du forbereder deg til den. Den kan ikke si om noen har demens. **Bare en kvalifisert helsepersonell kan stille diagnosen demens**, og mange tilstander som gir hukommelsesproblemer, er ikke demens i det hele tatt. Vennligst ikke stol på nettquiz eller egentester.
 
-## What are the early signs of dementia?
+## Hva er de tidlige tegnene på demens?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) beskriver 10 tidlige tegn. Hvert av dem settes opp mot en typisk aldersrelatert endring til sammenligning. Med våre egne ord:
 
-| Sign worth checking | More typical with age |
+| Tegn å sjekke | Mer typisk med alderen |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Hukommelsestap som forstyrrer hverdagen, for eksempel å glemme nylige hendelser eller spørre om det samme om og om igjen | Å glemme et navn eller en avtale av og til, og huske det senere |
+| Problemer med å planlegge eller løse oppgaver, for eksempel å følge en kjent oppskrift eller holde orden på regninger | En og annen feil med husholdningsregningene |
+| Vansker med å fullføre kjente oppgaver hjemme, på jobb eller ute | Å trenge hjelp til en mikrobølgeovninnstilling eller til å ta opp et TV-program en gang iblant |
+| Å miste oversikten over datoer, årstider eller hvor man er | Å ta feil av ukedagen, for så å finne ut av det |
+| Ny vanskelighet med å bedømme avstand, lese eller skille farger | Synsendringer på grunn av grå stær |
+| Nye problemer med ord, for eksempel å stoppe midt i en samtale eller bruke feil navn på ting | Av og til å streve med å finne det riktige ordet |
+| Å legge ting på uvanlige steder og ikke kunne gå tilbake for å finne dem | Å legge fra seg ting av og til og finne dem ved å gå tilbake over stedene |
+| Dårlig dømmekraft, for eksempel med penger eller personlig stell | Å ta en dårlig beslutning av og til |
+| Å trekke seg fra hobbyer, arbeid eller sosiale aktiviteter | Å av og til ikke ha lyst til å gå på et familiearrangement eller sosialt arrangement |
+| Endringer i humør eller personlighet, for eksempel å bli forvirret, mistenksom, redd eller engstelig | Å ha faste vaner og bli irritert når rutinen forstyrres |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Ett tegn alene betyr ikke demens. Poenget er en **endring fra det som er normalt for den personen**, særlig en endring som gjør hverdagen vanskeligere.
 
-## How is normal aging different from dementia?
+## Hvordan skiller normal aldring seg fra demens?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Det amerikanske instituttet for aldring (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) sier at mange eldre merker at de husker ting langsommere, eller at de av og til legger fra seg ting eller glemmer en regning. Dette er vanligvis tegn på mild glemsomhet. **Demens er ikke en normal del av aldringen.** Alvorlige hukommelsesproblemer gjør hverdagsaktiviteter vanskelige, for eksempel å kjøre bil, bruke telefonen eller finne veien hjem.
 
-The NIA suggests talking with a doctor if someone:
+NIA foreslår å snakke med lege hvis noen:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Stiller de samme spørsmålene om og om igjen
+- Går seg bort på steder de kjente godt
+- Har vanskelig for å følge oppskrifter eller veibeskrivelser
+- Blir mer forvirret om tid, mennesker og steder
+- Slutter å ta vare på seg selv, for eksempel spiser dårlig, ikke dusjer eller oppfører seg utrygt
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Noen har **mild kognitiv svekkelse (MCI)**. Det betyr mer hukommelses- eller tenkningsproblemer enn andre på samme alder, men fortsatt en fungerende hverdag. NIA sier at MCI kan være et tidlig tegn på Alzheimers, men ikke alle med MCI utvikler sykdommen.
 
-## What else can cause memory problems?
+## Hva annet kan gi hukommelsesproblemer?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Mange ting, også andre enn demens, kan påvirke hukommelsen, og noen blir bedre med behandling. NIA lister opp:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problemer med skjoldbruskkjertel, nyre eller lever**
+- **Bivirkninger av medisiner**
+- **Depresjon og angst**
+- **Lavt vitamin B12** eller for lite sunn mat
+- **Søvnproblemer**
+- **Misbruk av alkohol eller narkotika**
+- **Infeksjoner, blodpropp eller svulster** i hjernen
+- **Hodeskade**, for eksempel en hjernerystelse
+- **Store belastninger eller sorg**, for eksempel pensjonering eller tap av en ektefelle
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Problemer med hørsel og syn kan også forveksles med forvirring; se vår [veiledning om hørsel](/brain-health/hearing/). Derfor er en medisinsk sjekk viktig. Ifølge [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) bestiller leger ofte blodprøver for å sjekke skjoldbruskkjertelen, vitaminmangel og infeksjon. God [søvn](/brain-health/sleep/) og behandling av depresjon er også verdt å ta opp.
 
-## Sudden confusion is an emergency
+## Plutselig forvirring er en nødsituasjon
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Forvirring som kommer raskt, over timer eller dager, trenger akutt medisinsk hjelp.** Det kan være delirium. [VA beskriver delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) som en medisinsk nødsituasjon og råder deg til å ringe personens helsepersonell umiddelbart eller ringe lokalt nødnummer. Tegnene inkluderer:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Svingninger i evnen til å tenke klart
+- Vansker med å holde oppmerksomheten
+- Usammenhengende tenkning
+- Uvanlig søvnig, eller uvanlig rastløs og agitert
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Dette kan skje med alle, også med personer som allerede lever med demens. Ifølge [NHS](https://www.nhs.uk/symptoms/confusion/) er vanlige årsaker infeksjoner (urinveisinfeksjoner er vanlige hos eldre og hos personer med demens), hjerneslag, lavt blodsukker hos personer med diabetes, hodeskade og enkelte medisiner. Mens du venter på hjelp, bli hos personen og berolig vedkommende med korte, enkle ord. Still ikke mange spørsmål, og notér eventuelle medisiner de tar.
 
-## How do I prepare for the doctor's appointment?
+## Hvordan forbereder jeg legetimen?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+En god legetime starter med gode notater. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) foreslår at du tar med:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **En liste over endringer** i hukommelse, humør og atferd, med konkrete eksempler og omtrent når de startet
+2. **Tidligere og nåværende helseproblemer**, inkludert familiehistorie med hukommelsesproblemer
+3. **Alle resepter og reseptfrie medisiner**
+4. **Eventuelle vitaminer eller kosttilskudd**
+5. **Dine spørsmål**, for eksempel hvilke prøver som tas, hvor lang tid de tar, og når svarene kommer
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Det hjelper også å ta med et familiemedlem eller en venn som kjenner personen godt. [NIA forklarer](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) at leger kan spørre både personen og et familiemedlem om helse, medisiner, daglige aktiviteter og endringer i atferd. Legene kan også:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Gjøre tester av hukommelse, problemløsning, oppmerksomhet, telling og språk
+- Bestille blod-, urin- og andre prøver for å lete etter andre årsaker
+- Sjekke for depresjon eller andre psykiske helseplager
+- Bestille hjerneskanninger som CT eller MR
+- Henvise til en spesialist, for eksempel en geriater, nevrolog, geriatrisk psykiater eller nevropsykolog
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA påpeker at en kognitiv vurdering er en obligatorisk del av Medicares årlige helsebesøk, noe som kan være et naturlig tidspunkt å ta opp bekymringer. Selv de korte testene leger bruker, er ikke nok alene til å stille diagnosen demens. De er et første steg mot en grundigere vurdering, og diagnosen kan kreve mer enn ett besøk. NIA råder til at personer med hukommelsesproblemer kommer tilbake til legen hver 6. til 12. måned.
 
-## Raising the subject kindly
+## Å ta det opp på en varsom måte
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Hvis du er bekymret for noen andre, velg et rolig og privat øyeblikk. Snakk om konkrete ting du har lagt merke til, og formuler det som bekymring for helsen deres, ikke som kritikk. Å foreslå en vanlig helsekontroll kan føles mindre skremmende. Ta med personen i beslutningene, og snakk til dem som den voksne de er. Vår [veiledning om kommunikasjon](/caregiving/communication-tips/) kan hjelpe.
 
-## Talk with a doctor
+## Snakk med legen
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Hvis du merker endringer i hukommelse, tenkning, humør eller evnen til å klare hverdagen som er nye og fortsetter, bør du bestille time hos fastlegen. Ved plutselig forvirring, ring lokalt nødnummer eller personens helsepersonell umiddelbart. Å bli undersøkt tidlig betyr at behandlingsbare årsaker kan finnes, og hvis det er demens, får dere mer tid til å planlegge og finne støtte. Ta også vare på deg selv gjennom dette; se vår [veiledning om egenomsorg for pårørende](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dette er generell informasjon, ikke medisinsk råd. Se vår [medisinske ansvarsfraskrivelse](/medical-disclaimer/).

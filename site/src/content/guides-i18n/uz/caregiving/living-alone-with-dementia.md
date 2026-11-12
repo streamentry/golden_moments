@@ -1,7 +1,7 @@
 ---
 title: "Yolg‘iz yashayotgan dementsiya bilan yashaydigan odamni qo‘llab-quvvatlash"
 seoTitle: "Dementsiya bilan yolg‘iz yashash: oilalar uchun yordam"
-description: "Yolg‘iz yashaydigan dementsiya bilan yashovchi odamni barqaror odatlar, kelishilgan tekshiruvlar va amaliy yordam bilan qo‘llab-quvvatlang, istaklarini va mustaqilligini markazda saqlang."
+description: "Dementsiya bilan yolg‘iz yashaydigan odamni barqaror odatlar, kelishilgan tekshiruvlar va amaliy yordam bilan qo‘llab-quvvatlang; uning istaklari markazda tursin."
 section: caregiving
 order: 12
 updated: 2026-11-11

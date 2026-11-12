@@ -1,7 +1,7 @@
 ---
 title: "Dementsiya bilan yashaydigan odamga uzoqdan parvarish"
 seoTitle: "Dementsiyada uzoqdan parvarish: qanday yordam berish"
-description: "Uzoqdan dementsiya bilan yashaydigan odamga yordam bering: rollarni kelishing, mahalliy yordamni muvofiqlashtiring, tashriflarni rejalashtiring va odamning istaklarini hurmat qiling."
+description: "Uzoqdan dementsiya bilan yashovchi odamga yordam: rollarni kelishing, mahalliy yordamni muvofiqlashtiring, tashriflarni rejalashtiring va istaklarini hurmat qiling."
 section: caregiving
 order: 38
 updated: 2026-11-11
