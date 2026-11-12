@@ -1,7 +1,7 @@
 ---
 title: "Ngāue hili ʻa e Fakahā ʻo e Dementia ʻi he Kei Talavou"
 seoTitle: "Ngāue mo e Dementia ʻi he Kei Talavou: Ko e ngaahi me'a ke fakakaukau ki ai"
-description: "Vakai ki he filifili ngāue hili ha fakahā ʻo e dementia ʻi he kei talavou: fakakaukau ki he ngaue, kumi ki he tokoni, tauhi ʻa e malu, pea vakai ki he lao ʻo e feituʻu."
+description: "Vakai ki he filifili ngāue hili ha fakahā ʻo e dementia ʻi he kei talavou: fakakaukau ki he ngaue, kumi ki he tokoni, tauhi ʻa e malu, pea vakai ki he lao."
 section: caregiving
 order: 31
 updated: 2026-11-11
@@ -43,7 +43,7 @@ Ko e [tohi ʻa e Alzheimer's Association ki he Alzheimer's ʻi he kei talavou](h
 
 ## ʻOku totonu nai ke u mavahe mei he ngāue koeʻuhi ʻoku ʻi ai ʻeku fakahā?
 
-ʻIkai. Ko e fakahā ʻe taha ʻoku ʻikai ke fakamaau ai pe te ke lava ke tauhi ʻa e ngāue. Ko e Alzheimer's Society ʻoku nau fakamatala ʻe fakatatau ʻa e filifili ki ho ongoʻi, ho ngāue, mo ho tuʻunga kotoa. ʻE tauhi ʻe ha kakai ʻa e tuʻunga tatau, ʻe liliu ʻe ha kakai ʻa e ngaahi ngaue pe taimi, pea ʻe mavahe ʻe ha kakai ʻa e ngāue.
+ʻIkai. Ko e fakahā ʻe taha ʻoku ʻikai ke fakamaau ai pe te ke lava ke tauhi ʻa e ngāue. Ko e [Alzheimer's Society](https://www.alzheimers.org.uk/get-support/living-with-dementia/work-dementia) ʻoku nau fakamatala ʻe fakatatau ʻa e filifili ki ho ongoʻi, ho ngāue, mo ho tuʻunga kotoa. ʻE tauhi ʻe ha kakai ʻa e tuʻunga tatau, ʻe liliu ʻe ha kakai ʻa e ngaahi ngaue pe taimi, pea ʻe mavahe ʻe ha kakai ʻa e ngāue.
 
 Fakakaukau ki he me'a ʻoku lelei mo e me'a kuo faingataʻa. ʻE lava ke ke tohi ʻa e ngaahi ngaue ʻoku ke ʻiloa lelei, taimi ʻoku ke mafatukituki pe ʻoku ke mamahi ai, mo e ngaahi hala ʻoku ʻi ai ʻa e mahaʻa pe tokanga ki he malu. Ko e ngaahi sipoti ʻoku moʻoni ʻe tokoni ke ke talanoa mo ho tokotaha mo'ui ki he ngāue, ʻikai ke fakamaau ʻa e ʻaho faingataʻa ʻe taha ko e fakamaau ki ho malava.
 

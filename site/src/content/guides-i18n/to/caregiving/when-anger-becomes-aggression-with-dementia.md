@@ -1,7 +1,7 @@
 ---
 title: "Ko e Ngaahi Founga ki he Ita pe Fakamamahi ʻa ha Taha ʻoku ʻi ai ha Dementia"
 seoTitle: "Tali ki he Fakamamahi ʻi he Dementia"
-description: "Ako ke tali malu ʻi he taimi ʻoku hoko ai ʻa e ita ki he fakamamahi ʻi he dementia, ko e hā ʻe lava ke tupu, mo e taimi ke kumi ai ki he tokoni mo'ui pe fakavavevave."
+description: "Ako ke tali malu ʻi he ita pe fakamamahi ʻi he dementia, ko e hā ʻe lava ke tupu, mo e taimi ke kumi ai ki he tokoni mo'ui pe fakavavevave."
 section: caregiving
 order: 37
 updated: 2026-11-11

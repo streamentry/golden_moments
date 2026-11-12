@@ -1,7 +1,7 @@
 ---
 title: "Kapau ʻoku ʻikai ke ʻiloa koe ʻe ha taha ʻoku ʻi ai ha Dementia"
 seoTitle: "Dementia: Ko e hā ʻe lava ke ke lea ʻaki kapau ʻoku ʻikai ke ʻiloa koe"
-description: "Kapau ʻoku ʻikai ke ʻiloa koe ʻe ha taha ʻoku ʻi ai ha dementia, fakahā ho kakai mālie, ʻoua ʻe fai ha sivi manatu, tokoni ʻaki ha fakaʻilonga faʻa ʻiloa kapau ʻoku fiemālie."
+description: "Kapau ʻoku ʻikai ke ʻiloa koe ʻe ha taha ʻoku ʻi ai ha dementia, fakahā ho kakai mālie, ʻoua ʻe sivi manatu, pea tokoni ʻaki ha fakaʻilonga kapau ʻoku fiemālie."
 section: caregiving
 order: 32
 updated: 2026-11-11

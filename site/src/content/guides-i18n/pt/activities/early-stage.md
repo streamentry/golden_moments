@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Atividades para a Demência em Fase Inicial"
+seoTitle: "Atividades para Demência Inicial: Ideias que Cabem"
+description: "Ideias de atividades para a demência em fase inicial: passatempos, jogos, passeios, escrita e planejamento juntos, com pequenas mudanças que mantêm a pessoa no controle."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Na fase inicial da demência, a maioria das pessoas ainda pode continuar fazendo
+  o que gosta: passatempos, cartas e jogos de tabuleiro, cozinhar, jardinagem,
+  caminhar, clubes, fé e voluntariado. As principais mudanças são grupos menores,
+  passeios mais curtos, planos escritos simples e um parceiro por perto. Pergunte à
+  pessoa que ajuda ela quer e deixe que ela conduza.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "A maioria das pessoas na fase inicial vive com bastante independência. As atividades geralmente precisam de ajustes, não de substituição."
+  - "Pergunte à pessoa que apoio ela quer e combinem um sinal simples para quando a ajuda for bem-vinda."
+  - "Grupos menores, horários mais calmos e passeios mais curtos costumam fazer uma grande diferença."
+  - "Esta é uma boa fase para a pessoa conduzir projetos sobre a própria vida, como um diário ou um livro de história de vida."
+  - "Escolha jogos pelo prazer. Deixe de lado qualquer coisa que comece a parecer uma prova."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Quais atividades são boas para a demência em fase inicial?"
+    a: "Geralmente as mesmas que a pessoa já gosta: cartas, jogos de tabuleiro, cozinhar, jardinagem, caminhar, música, atividades religiosas, clubes e voluntariado. Talvez seja preciso torná-las mais curtas, mais calmas ou mais simples. Escrever um diário, cartas e fazer um livro de história de vida também combinam muito bem com esta fase."
+  - q: "Como ajudar sem tomar conta de tudo?"
+    a: "Pergunte que tipo de ajuda a pessoa quer e confira com frequência. Combinem uma frase ou um gesto de cabeça que signifique que é hora de intervir, por exemplo quando uma palavra ou um nome não vem. Se não houver risco à segurança, deixe que ela faça do seu jeito, mesmo que leve mais tempo."
+  - q: "Quem está com demência inicial deve experimentar atividades novas?"
+    a: "Sim, se quiser. Passatempos conhecidos tendem a ser os mais fáceis, mas muitas pessoas gostam de algo novo, como um grupo de caminhada adaptado para demência, uma aula de arte ou um coral. Experimente uma vez, sem pressão, e veja como a pessoa se sente."
+  - q: "Vale a pena usar aplicativos de treino cerebral na fase inicial?"
+    a: "Algumas pessoas gostam de quebra-cabeças e jogos de palavras, e esse prazer já é motivo suficiente. Nenhum aplicativo ou jogo comprovou tratar, desacelerar ou interromper a demência. Se um jogo causar estresse ou fizer a pessoa se sentir fracassada, deixe-o de lado."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Na fase inicial da demência, muitas pessoas ainda vivem quase do mesmo jeito de antes. Podem trabalhar, fazer voluntariado, ver amigos e conduzir grande parte do próprio dia. As atividades normalmente não precisam ser substituídas; precisam de alguns ajustes para continuarem agradáveis. Seu papel fica mais perto de um parceiro do que de um cuidador: alguém que apoia, planeja junto e só intervém quando é solicitado.
 
-## What activities are good in early-stage dementia?
+## Quais atividades são boas na demência em fase inicial?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+As melhores atividades nesta fase costumam ser as que a pessoa já ama, um pouco mais fáceis. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lista ideias como jogos de cartas e de tabuleiro, caça-palavras, caminhada, dança, jardinagem, arranjo de flores, contação de histórias, pintura, música, diário, cartas, álbuns de recordações, culinária e tradições de festas.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+O que costuma mudar é o ambiente, não a atividade. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) observa que pessoas na fase inicial podem começar a se afastar de coisas que gostavam e cita o exemplo de alguém que se sente sobrecarregado em uma festa grande, mas se sai melhor em um grupo pequeno. Converse abertamente sobre o que ficou mais difícil e ajustem juntos.
 
-## Ask first, and agree on how to help
+## Pergunte primeiro e combinem como ajudar
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+A [orientação da Alzheimer's Association para a fase inicial](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) sugere alguns hábitos que valem também para as atividades:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Pergunte diretamente.** "O que tornaria o clube do livro mais fácil para você?" traz uma resposta melhor do que adivinhar.
+- **Presuma que a pessoa consegue.** Se não houver risco à segurança, deixe que ela tente e dê encorajamento em vez de assumir a tarefa.
+- **Combine um sinal.** Escolha uma frase ou um gesto de cabeça que signifique "pode intervir", por exemplo quando um nome não vem durante um jogo de cartas.
+- **Confira com regularidade.** Pergunte se a quantidade de ajuda está certa, se é demais ou de menos.
 
-## Activity ideas for the early stage
+## Ideias de atividades para a fase inicial
 
-### Keep up roles and hobbies
+### Mantenha papéis e passatempos
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Mantenha um compromisso regular.** Um turno semanal de voluntariado, um coral ou um clube dá forma à semana. Se ficar estressante, um papel menor ou mais calmo pode servir melhor.
+- **Planejem as refeições juntos.** Se fazer compras começou a frustrar, a Alzheimer's Association sugere pedir que a pessoa ajude a planejar o cardápio da semana e escreva a lista.
+- **Cozinhem e assem.** Sigam uma receita preferida juntos. Coloquem os ingredientes em ordem antes de começar, para que os passos fiquem visíveis.
+- **Cuidem do jardim.** Planejem um canteiro, escolham sementes ou mudas e façam o trabalho juntos. Uma lista escrita das tarefas da semana ajuda.
+- **Mantenha um artesanato.** Marcenaria, costura, tricô ou montagem de maquetes podem continuar com padrões mais simples e boa iluminação.
 
-### Games for enjoyment
+### Jogos pelo prazer
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Jogue cartas e jogos de tabuleiro.** Jogos conhecidos são os mais fáceis. Joguem em equipes para que ninguém fique em evidência, e contem pontos de forma livre ou não contem.
+- **Experimente um caça-palavras com letras grandes.** Nosso [caça-palavras](/games/word-search/) pode ser jogado na tela ou impresso para um momento tranquilo.
+- **Faça quebra-cabeças.** Escolha uma quantidade de peças que pareça relaxante, não desafiadora. O [quebra-cabeça de figuras](/games/picture-puzzle/) é uma versão curta na tela, e nosso guia de [quebra-cabeças para demência](/activities/puzzles/) ajuda a escolher um.
+- **Participe de um quiz por diversão.** Algumas pessoas adoram uma noite de quiz em equipe. Se começar a parecer uma prova, escolha outra coisa, ou experimente nossas [perguntas de quiz fáceis](/activities/trivia/), que trazem opções de resposta e nenhuma pontuação.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Aqui os jogos são para o prazer. Nenhum jogo comprovou tratar ou desacelerar a demência; leia mais em [jogos para o cérebro: o que diz a pesquisa](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Escreva, reflita e registre
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Mantenha um diário.** A Alzheimer's Association sugere o diário como uma forma de lidar com sentimentos depois do diagnóstico. Algumas linhas por dia já bastam.
+- **Conduza um livro de história de vida.** A fase inicial é um bom momento para a pessoa escolher as próprias fotos e escrever ou ditar as histórias por trás delas. Veja [atividades de reminiscência](/activities/reminiscence/).
+- **Escrevam cartas.** Uma carta para um neto, um velho amigo ou um ex-colega pode ser significativa para os dois lados.
+- **Conversem sobre fotos.** Os [pares de fotos](/games/photo-pairs/) transformam fotos da família em um jogo suave de combinar, e as [cartas de conversa](/games/conversation-cards/) oferecem pontos de partida fáceis para um bate-papo.
 
-### Go out and move
+### Saiam e se movimentem
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sugere manter os passeios conhecidos enquanto os dois estiverem confortáveis. Planeje-os para o melhor horário do dia da pessoa e evite que durem demais.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Passeios culturais curtos.** Um museu, uma sessão de cinema à tarde ou uma exposição de arte, de preferência em um horário mais tranquilo.
+- **Natação.** O NIA sugere uma piscina em um horário de pouco movimento.
+- **Grupos de caminhada e aulas de dança.** O [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) cita dança, tai chi, ioga, natação e grupos de caminhada, incluindo sessões adaptadas para demência, quando disponíveis.
+- **Grupos de canto e cafés da memória.** Grupos descontraídos em que pessoas que vivem com demência e seus parceiros podem conhecer outras na mesma situação.
 
-## Small changes that keep activities enjoyable
+## Pequenas mudanças que mantêm as atividades agradáveis
 
-| If this is getting harder | Try this |
+| Se isto está ficando mais difícil | Experimente isto |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Lugares cheios ou barulhentos | Vá em horários calmos, escolha grupos menores, sente-se na beira da sala |
+| Lembrar nomes novos | Apresente as pessoas pelo nome a cada vez; peça que o grupo use crachás |
+| Seguir planos com vários passos | Anote os passos, ou organize tudo em ordem antes |
+| Ficar cansado | Passeios mais curtos, um descanso depois, nada mais marcado naquele dia |
+| Acompanhar a pontuação em um jogo | Joguem em equipes, simplifiquem as regras ou dispensem a contagem |
+| Encontrar palavras | Dê tempo; ofereça uma palavra apenas se o sinal combinado indicar |
 
-## When to slow down
+## Quando desacelerar
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Pare ou mude uma atividade quando ela trouxer mais estresse do que prazer. Frustração repetida, evitar um passatempo ou dizer "eu simplesmente não consigo mais" merecem uma conversa gentil, não insistência. Muitas vezes a resposta é uma versão menor da mesma coisa. Quando a pessoa precisar de mais ajuda para começar e seguir os passos, as ideias de [atividades para a fase intermediária](/activities/middle-stage/) podem servir melhor. Para mais sobre conversas de apoio, veja [dicas de comunicação](/caregiving/communication-tips/), e para muitas outras ideias, veja [101 atividades](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Quem cuida também precisa de apoio. A fase inicial é um bom momento para construir a sua própria rede de ajuda; veja [autocuidado de quem cuida](/caregiving/caregiver-self-care/).
