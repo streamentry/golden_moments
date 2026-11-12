@@ -1,31 +1,28 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Fréi Zeeche vu Demenz a wann Dir zum Dokter sollt goen"
+seoTitle: "Fréi Zeeche vu Demenz a wann Dir zum Dokter sollt goen"
+description: "Gängeg fréi Zeeche vu Demenz, wéi se sech vum normale Alterung ënnerscheeden, behandelbar Ursaache vu Erënnerungproblemer an Virbereedung op de Dokterstermin."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Erënnerungverloscht, dee den Alldag stéiert, Schwieregkeeten mat vertraute Aufgaben, Duercherneen iwwer Zäit oder Plaz, a Stëmmungs- oder Urteilsännerungen kënnen fréi Zeeche vu Demenz sinn. Vill aner Krankheeten, dorënner Schilddrüsenprobleemer, en Mangel u Vitamin B12, Nebenwierkungen vu Medikamenter, Depressioun a Schlafprobleemer, kënnen ähnlech Ännerungen verursaachen. Nëmmen e qualifizéierte Mediziner kann Demenz diagnostizéieren. Plëtzlech Duercherneen brauch dréngend Hëllef.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Heefeg Vergiesslechkeet kënnt mat dem Alter; Ännerungen, déi den Alldag stéieren, si awer e Grond fir eng Kontroll."
+  - "D'Alzheimer's Association beschreift 10 Warnzeeche, mat all engem typesche altersbedéngten Ënnerscheed zum Vergläich."
+  - "Schilddrüsenprobleemer, en Mangel u Vitamin B12, Medikamenten-Nebenwierkungen, Depressioun, Infektiounen a Schlafprobleemer kënnen alleguer d'Erënnerung beaflossen, an e puer si behandelbar."
+  - "Nëmmen e qualifizéierte Mediziner kann Demenz diagnostizéieren; Online-Quiz an Selbsttester kënnen dat net."
+  - "Duercherneen, dat plëtzlech kënnt, a Stonnen oder Deeg, kann e Delir sinn an brauch dréngend medizinesch Hëllef."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Ass Vergiesslechkeet en normale Bestanteel vum Alterung?"
+    a: "E Stéck ass et. Den National Institute on Aging seet, datt et sech dacks ëm mild, altersbedéngte Vergiesslechkeet handelt, wann een ab a zu eppes verléiert oder eng Rechnung vergësst. Demenz ass kee normale Bestanteel vum Alterung. Erënnerungsprobleemer, déi Alldagsaufgaben wéi Autofueren, Telefonéieren oder de Wee heem fannen schwéier maachen, sollen mam Dokter gekuckt ginn."
+  - q: "Kënnen Erënnerungprobleemer vun anescht wéi Demenz kommen?"
+    a: "Jo. Den National Institute on Aging nennt Schilddrüsen-, Nieren- oder Liewerprobleemer, Nebenwierkungen vu Medikamenter, Depressioun a Angscht, en Mangel u Vitamin B12, Alkoholmëssbrauch, Schlafprobleemer, Infektiounen a Kopfverletzungen, a anerem. E puer dovun verbesseren sech, wann se behandelt ginn, dofir ass eng medizinesch Kontroll wichteg."
+  - q: "Kann ech doheem en Test op Demenz maachen?"
+    a: "Nee. Nëmmen e qualifizéierte Mediziner kann Demenz diagnostizéieren, mat enger Krankheetsgeschicht, enger kierperlecher Untersuchung, Erënnerungs- an Denktester, Labortester a heiansdo Gehirnscans. Och déi kuerze Tester, déi d'Dokteren benotzen, reichen alleng net fir Demenz ze diagnostizéieren."
+  - q: "Wat soll ech maachen, wann eng Persoun plëtzlech duercherneen gëtt?"
+    a: "Hëlleft sofort medizinesch. Plëtzlech Duercherneen kann e Delir sinn, dat de VA als medizinesche Notfall beschreift. Ruff direkt de Gesondheetsdéngschleeschter vun der Persoun un oder rufft d'lokal Notrufnummer, bleift bei hir, a notéiert, wéi eng Medikamenter si hëlt."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +50,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Ännerungen am eegene Erënnerung oder bei engem Mënsch, deen Dir gär hutt, kënnen Angscht maachen. Dës Säit hëlleft Iech ze entscheeden, wann e Dokterstermin fälleg ass, a wéi Dir Iech dorop virbereet. Si kann Iech awer net soen, ob iergendeen Demenz huet. **Nëmmen e qualifizéierte Mediziner kann Demenz diagnostizéieren**, a vill Krankheeten, déi Erënnerungprobleemer verursaachen, sinn iwwerhaapt keng Demenz. Vertrauet w.e.g. net op Online-Quizzer oder Selbsttester.
 
-## What are the early signs of dementia?
+## Wat sinn déi fréie Zeeche vun Demenz?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+D'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) beschreift 10 fréi Zeeche. Si stellt all eent mat enger typescher altersbedéngter Verännerung zum Vergläich. Mat eise Wierder:
 
-| Sign worth checking | More typical with age |
+| Zeeche, déi et wäert ass ze kontrolléieren | Méi typesch mat dem Alter |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Erënnerungverloscht, deen den Alldag stéiert, zum Beispill, datt ee rezent Eventer vergiess oder dat selwecht ëmmer erëm freet | Heiansdo e Numm oder e Rendez-vous vergiessen an et spéider nach eemol erënneren |
+| Schwieregkeeten beim Plangen oder Léisen vu Problemer, zum Beispill bei engem vertraute Rezept oder beim Verfollege vun Rechnungen | En Ausrutscher bei de Haushaltsrechnungen ab a zu |
+| Schwieregkeeten, vertraut Aufgaben doheem, op der Aarbecht oder ënnerwee fäerdeg ze maachen | Ab a zu Hëllef brauchen bei enger Mikrowellen-Astellung oder beim Opnoe vun enger Sendung |
+| Duercherneen iwwer Datume, Jorezäiten oder wou een ass | D'Wochendag falsch hunn an e spéider drop kommen |
+| Nei Schwieregkeeten beim Afschätze vu Distanzen, beim Liesen oder beim Ënnerscheeden vun Faarwen | Visiounsännerungen duerch Stär |
+| Nei Probleemer mat Wierder, zum Beispill mat engem Ënnerbriechen mat ennerhalt vum Gespréich oder eng falsch Bezeechnung vun Saachen | Heiansdo Schwieregkeeten, dat richtegt Wuert ze fannen |
+| Saachen op ongewéinlechen Plazen ofleeën an de Wee net méi zréckverfollege kënnen | Ab a zu Saachen verléieren an se duerch Zréckverfolgen erëmfannen |
+| Schlecht Urteilsvermögen, zum Beispill beim Geld oder bei der eegener Pfleeg | Gelegentlech eng schlecht Entscheedung treffen |
+| Sech vun Hobbyen, der Aarbecht oder soziale Aktivitéiten zréckzéien | Heiansdo keng Loscht hunn, op eng Famill- oder soziale Veranstaltung ze goen |
+| Ännerungen an der Stëmmung oder der Perséinlechkeet, zum Beispill verwiert, mëssdrauesch, ängschtlech oder nervös ginn | Feste Gewunnechten hunn an gereizt sinn, wann eng Routine gestéiert gëtt |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+E eenzeg Zeeche heescht nach kee Demenz. Et geet ëm eng **Ännerung vun deem, wat fir dës Persoun normal ass**, besonnesch wann se den Alldag méi schwéier mécht.
 
-## How is normal aging different from dementia?
+## Wéi ënnerscheet sech normalt Alterung vun Demenz?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+Den [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) seet, datt vill eeler Leit merken, datt se Saachen méi lues erënneren, oder datt se heiansdo Saachen verléieren oder eng Rechnung vergiessen. Dat sinn normalerweis Zeeche vun der mildener Vergiesslechkeet. **Demenz ass kee normale Bestanteel vum Alterung.** Schwéier Erënnerungprobleemer maachen alldeegleche Saachen schwéier, wéi Autofueren, Telefonéieren oder de Wee heem fannen.
 
-The NIA suggests talking with a doctor if someone:
+Den NIA rät, mam Dokter ze schwätzen, wann eng Persoun:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- ëmmer erëm dieselwecht Froen stellt
+- an Plazen verluer geet, déi se fréier gutt kannt huet
+- Schwieregkeeten mat Rezepter oder Uweisungen huet
+- méi duercherneen ass, wat d'Zäit, Leit a Plazen ugeet
+- sech selwer net méi ëmmer gutt këmmert, zum Beispill schlecht iesst, sech net wäscht oder sech onsécher verhält
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+E puer Leit hunn **mild kognitiv Stéierung (MCI)**. Dat heescht méi Erënnerung- oder Denkprobleemer wéi aner an hirem Alter, awer si kënnen hiren Alldag nach ëmmer manner. Den NIA seet, datt MCI e fréie Zeeche vun Alzheimer kann sinn, awer net jiddereen mat MCI kritt se.
 
-## What else can cause memory problems?
+## Wat anescht kann Erënnerungprobleemer verursaachen?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Vill aner Saachen wéi Demenz kënne sech op d'Erënnerung auswierken, an e puer verbesseren sech mat Behandlung. Den NIA nennt:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Schilddrüsen-, Nieren- oder Liewerprobleemer**
+- **Nebenwierkungen vu Medikamenter**
+- **Depressioun a Angscht**
+- **En Mangel u Vitamin B12** oder wann ee net genuch gesond iesst
+- **Schlafprobleemer**
+- **Alkohol- oder Drogemëssbrauch**
+- **Infektiounen, Blutkläck oder Tumoren** am Gehir
+- **Kopfverletzung**, wéi eng Gehirnerschütterung
+- **Grouss Stress oder Trauer**, wéi Pensioun oder de Verloscht vum Partner
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Gehéier- an Visiounsprobleemer kënne mat Duercherneen verwiesselt ginn; kuckt eis [Gehéierguide](/brain-health/hearing/). Dofir ass eng medizinesch Kontroll wichteg. Laut der [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) bestellen d'Dokteren dacks Bluttanalysen, fir no Schilddrüsenprobleemer, Mangelerscheinungen a Infektiounen ze kucken. Gutt [Schlof](/brain-health/sleep/) an d'Behandlung vun Depressioun sollt Dir och ustoussen.
 
-## Sudden confusion is an emergency
+## Plëtzlech Duercherneen ass en Notfall
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Duercherneen, dat a Stonnen oder Deeg séier kënnt, brauch dréngend medizinesch Hëllef.** Et kann e Delir sinn. Den [VA beschreift Delir](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) als medizinesche Notfall an rät, direkt de Gesondheetsdéngschleeschter vun der Persoun ze rufen oder d'lokal Notrufnummer. Zeeche sinn:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Schwankungen bei der Fäegkeet, kloer ze denken
+- Schwieregkeeten beim Opmierksam-Bleiwen
+- Duercherneen beim Denken
+- Ongewéinlech midd oder ongewéinlech onrouesch an opgereegt sinn
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Dat kann bei jidderengem virkommen, och bei Leit, déi schonn mat Demenz liewen. Laut dem [NHS](https://www.nhs.uk/symptoms/confusion/) gehéieren zu den heefegen Ursaachen Infektiounen (Blasenentzündungen si bei eeleren Leit an bei Leit mat Demenz heefeg), en Schlaganfall, ze wéineg Bluttzocker bei Leit mat Diabetes, Kopfverletzungen an e puer Medikamenter. Wärend Dir op d'Hëllef waart, bleift bei der Persoun a beruhigt se mat kuerze, einfache Wierder. Stellt wéineg Froen, a notéiert, wéi eng Medikamenter si hëlt.
 
-## How do I prepare for the doctor's appointment?
+## Wéi bereede ech de Dokterstermin vir?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+E gudde Rendez-vous fänkt mat gudden Notizen un. D'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) schléit vir, datt Dir mëtbréngt:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **eng Lëscht vun Ännerungen** am Erënnerung, an der Stëmmung a beim Verhalen, mat konkrete Beispiller a grob wéini se ugefaang hunn
+2. **Fréier a aktuell Gesondheetsprobleemer**, och eng Famillegeschicht vu Erënnerungproblemer
+3. **All Rezeptmedikamenter an Medikamenter ouni Rezept**
+4. **All Vitaminer oder Nahrungsergänzungsmëttel**
+5. **Är Froen**, zum Beispill, wéi eng Tester gemaach ginn, wéi laang si daueren a wéini d'Resultater kommen
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Et hëlleft och, eng Famill- oder Frëndesperséinlechkeet mat ze bréngen, déi d'Persoun gutt kennt. Den [NIA erkläert](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed), datt Dokteren sech souwuel bei der Persoun wéi bei engem Familljemember nach Gesondheet, Medikamenter, alldeegleche Aktivitéiten an Verhalensännerungen erkundegen. Dokteren kënnen och:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Tester fir Erënnerung, Problemléisung, Opmierksamkeet, Zielen a Sprooch maachen
+- Blut-, Urin- an aner Tester bestellen, fir aner Ursaachen ze fannen
+- no Depressioun oder anere psychesche Problemer kucken
+- Gehirnscans wéi CT oder MRT bestellen
+- op en Spezialist iwwerweisen, wéi en Geriater, Neurolog, Geriatresche Psychiater oder Neuropsycholog
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+Den NIA hält fest, datt en kognitiven Test e feste Bestanteel vun der Medicare Annual Wellness Visit ass, wat eng gutt Geleeënheet sinn kann, Suergen unzesprieche. Och déi kuerze Tester, déi d'Dokteren benotzen, reichen alleng net fir Demenz ze diagnostizéieren. Si sinn e éischte Schrëtt zu enger méi ausféierlecher Evaluatioun, an d'Diagnos kann méi wéi eng Visite daueren. Den NIA rät Leit mat Erënnerungproblemer, all 6 bis 12 Méint zum Dokter ze goen.
 
-## Raising the subject kindly
+## Suergen ëm en anere Mënsch respektvoll ustoussen
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Wann Dir Iech Suergen ëm en anere mécht, wielt e roueg, privat Moment. Schwätzt iwwer konkret Saache, déi Dir gemierkt hutt, a loosst et wéi Suergen ëm hir Gesondheet kléngen an net wéi Kritik. Eng allgemeng Kontroll virzeschloen kann manner erschreckend wierken. Bezitt d'Persoun an d'Entscheedungen mat an behandelt se wéi déi erwuessen Persoun, déi se ass. Eis [Kommunikatiounstipps](/caregiving/communication-tips/) kënnen hëllefen.
 
-## Talk with a doctor
+## Mam Dokter schwätzen
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Wann Dir Ännerungen am Erënnerung, am Denken, an der Stëmmung oder bei alldeegleche Fäegkeeten bemierkt, déi nei sinn an ëmmer erëm optrieden, mécht e Rendez-vous beim Haus-Dokter. Bei plëtzlecher Duercherneen ruff direkt d'lokal Notrufnummer oder de Gesondheetsdéngschleeschter vun der Persoun. Wann Dir fréi kontrolléiert gitt, kënne behandelbar Ursaachen fonnt ginn, an wann et Demenz ass, bleift méi Zäit fir ze plangen an Hëllef ze fannen. Passt och op Iech selwer op; kuckt eise [Guide iwwer Selbstfleeg fir Betreier](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dës Säit ass allgemeng Informatioun, keng medizinesch Berodung. Kuckt eis [medizinesch Ausschlussklausel](/medical-disclaimer/).

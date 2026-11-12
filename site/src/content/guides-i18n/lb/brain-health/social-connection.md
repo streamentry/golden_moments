@@ -78,7 +78,7 @@ Den NIA nennt Faktoren, déi d'Risiko vun deenen zwee erhéijen:
 - Fir e Familljemember suergen, deen krank ass
 - Suergen ëm Geld oder Sproochbarrièren
 
-Gehéier ass e grousst Thema. Den NIA hält fest, datt Leit, déi schlecht héieren, sech zréckzéie kënnen, well d'Gespréich frustrant oder peinlech gëtt. Eis [Guide iwwer Gehéier an Gehirngesondheet](/brain-health/hearing/) decksch Gehéierkontrollen an rezeptfräi Hörgeräter.
+Gehéier ass e grousst Thema. Den NIA hält fest, datt Leit, déi schlecht héieren, sech zréckzéie kënnen, well d'Gespréich frustrant oder peinlech gëtt. Eis [Guide iwwer Gehéier an Gehirngesondheet](/brain-health/hearing/) deckt Gehéierkontrollen an rezeptfräi Hörgeräter.
 
 ## Praktesch Weeër, a Kontakt ze bleiwen
 

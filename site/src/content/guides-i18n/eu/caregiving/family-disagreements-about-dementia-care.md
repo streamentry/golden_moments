@@ -42,7 +42,7 @@ Familiako kide batek dementzia duenean, familiakoek ados ez egon daitezke segurt
 
 Galdetu dementzia duen pertsonari zer den garrantzitsua berarentzat eta nola nahi duen parte hartu. Diagnosia batek ez du kentzen bere lekua egunerokoari buruzko elkarrizketetan. Galdetu nor nahi duen sartu eta zein informazio partekatzeko prest dagoen. Nahi nola adierazi duen laguntza behar badu, eman denbora eta landu aukera bat aldi bakoitzean.
 
-[Diagnosiaren ondorengo lehen urratsei buruzko gidak](/caregiving/after-dementia-diagnosis/) etorkizuneko plangintzan pertsona parte hartzeko ideiak ditu. Pertsonak erabakietan laguntzeko norbait aukeratu badu, sartu ppertsona hori eztabaidan, pertsonaren pribatutasuna eta nahiak errespetatuz. Familiakoek lege-erabakiak hartzeko eskumenari buruz desados badaude, galdetu tokiko profesional kualifikatu bati, asmatu beharrean.
+[Diagnosiaren ondorengo lehen urratsei buruzko gidak](/caregiving/after-dementia-diagnosis/) etorkizuneko plangintzan pertsona parte hartzeko ideiak ditu. Pertsonak erabakietan laguntzeko norbait aukeratu badu, sartu pertsona hori eztabaidan, pertsonaren pribatutasuna eta nahiak errespetatuz. Familiakoek lege-erabakiak hartzeko eskumenari buruz desados badaude, galdetu tokiko profesional kualifikatu bati, asmatu beharrean.
 
 ## Nola hasi familiako elkarrizketa?
 
