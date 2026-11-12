@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Lojëra kujtese për të moshuarit me demencë: versione të buta që nuk testojnë"
+seoTitle: "Lojërat më të mira të kujtesës për demencën, ide të buta"
+description: "Lojëra përputhjeje, me figura dhe me letra për të moshuarit me demencë, dhe si t'i luani pa e bërë askënd të ndihet i testuar: figura të dukshme, pa pikë."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Lojërat e kujtesës për të moshuarit me demencë funksionojnë më mirë kur nuk
+  varen nga kujtesa. Luajini lojërat e përputhjes me figurat të dukshme, përdorni
+  katër deri në gjashtë pllaka, luani si ekip dhe hiqni pikët. Të njohësh një
+  figurë është më e lehtë sesa ta kujtosh, prandaj zgjidhni lojëra ku gjithçka
+  mbetet në shikim. Kënaqësia, jo rezultati, është qëllimi.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Lojërat klasike të kujtesës i fshehin kartat, gjë që teston pikërisht atë që demenca e bën të vështirë. Lëreni figurat të dukshme në vend të kësaj."
+  - "Pak copa, figura më të mëdha dhe një zgjedhje në një kohë e mbajnë lojën të këndshme."
+  - "Luani si ekip, merrni turne duke ndihmuar njëri-tjetrin dhe hiqni pikët. Askush nuk duhet të vihet në qendër."
+  - "Asnjë lojë kujtese nuk ka treguar se trajton, ngadalëson ose ndalon demencën. Luani sepse është kohë e këndshme bashkë."
+  - "Ndaloni ndërsa është ende argëtuese. Bisedimi për figurat është një rezultat i mirë."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Cila është një lojë e mirë kujtese për personin me demencë?"
+    a: "Një lojë përputhjeje me figura të mëdha dhe të njohura, që mund të mbeten të dukshme, si Picture pairs e vendosur në katër ose gjashtë pllaka. Gjetja e binjakut të një figure që e shihni është e kënaqshme pa testuar kujtesën afatshkurtër. Find the same është edhe më e thjeshtë, me një figurë për t'u përputhur nga dy deri në katër zgjedhje."
+  - q: "A ndihmojnë lojërat e kujtesës demencën?"
+    a: "Asnjë lojë kujtese nuk ka treguar se trajton, ngadalëson ose ndalon demencën; një rishikim i Cochrane gjeti se provat për stërvitjen kompjuterike të trurit ishin shumë të kufizuara për të thënë nëse parandalon demencën. Lojërat mund të jenë ende një mënyrë e ngrohtë për të kaluar kohë bashkë. Zgjidhni ato për kënaqësi dhe shoqëri."
+  - q: "A duhet të luaj Concentration klasik me dikë që ka demencë?"
+    a: "Në fillim, disa njerëz ende e shijojnë, sidomos me pak karta. Nëse kujtimi i vendeve të kartave fillon të shkaktojë frustrim, kthejini kartat me figurë lart dhe thjesht gjeni çiftet bashkë. Kjo ruan përputhjen dhe heq testin e kujtesës."
+  - q: "Cilat lojëra kujtese janë të mira për të moshuarit në grup?"
+    a: "Bingo me figura me një thirrës në ekran, të mbaruarit me zë të frazave të njohura dhe kartat e bisedës funksionojnë të gjitha për grupe. Luani deri sa çdo kartë të jetë plotësuar dhe mos thirrni kush mori përgjigjen, që askush të mos ndihet i veçuar."
+  - q: "A ka lojëra kujtese falas për të moshuarit në internet?"
+    a: "Po. Lojërat në këtë faqe, përfshirë Picture pairs, Find the same, Photo pairs dhe Picture puzzle, janë falas, nuk kërkojnë regjistrim dhe funksionojnë në telefona, tableta dhe kompjuterë. Asnjëra nuk ka kohëmatës ose pikë."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Kur kërkoni „lojëra kujtese për të moshuarit“, shumica e asaj që gjeni është bërë për njerëz që duan një stërvitje mendore: karta të fshehura, orë që numërojnë mbrapsht, nivele dhe pikë. Për personin që jeton me demencë, këto veçori e kthejnë lojën në një test të asaj që ka bërë të vështirë. Të njëjtat lojëra mund të luhen në një mënyrë më të butë. Kjo faqe tregon si, dhe liston lojëra që punojnë mirë në çdo fazë.
 
-## Why do classic memory games frustrate people with dementia?
+## Pse lojërat klasike të kujtesës i frustrojnë personat me demencë?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Sepse mbështeten te mbajtja në mendje e informacionit të ri, gjë që është zakonisht e para që prek Alzheimer-in, shkakun më të zakonshëm të demencës. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) thotë se simptoma më e zakonshme e hershme e Alzheimer-it është vështirësia për të kujtuar informacion të sapomësuar. Në Concentration klasik, hapni dy karta, mbani mend ku ishin dhe e përdorni këtë një minutë më vonë. Kjo është informacion i ri, i mbajtur dhe i rikujtuar.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Shtoni një kohëmatës, një pikë ose një zile për përgjigje të gabuara, dhe personi kujtohet për atë që nuk mund të bëjë, para dikujt që e do. Shumë njerëz pushojnë në heshtje së luajturi.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Njohja e diçkaje që shihni është një detyrë e ndryshme dhe zakonisht më e lehtë. Të tregosh filxhanin e dytë kur të dy janë në shikim ndihet mirë. Pra, truku është të ruani përputhjen dhe të hiqni testin e kujtesës.
 
-## How do you make a memory game gentle?
+## Si e bëni një lojë kujtese të butë?
 
-These adjustments work for card games, board games and games on a screen.
+Këto përshtatje funksionojnë për lojërat me karta, lojërat e tavolinës dhe lojërat në ekran.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Lëreni figurat me fytyrë lart.** Përputhja e figurave që shihni është akoma një lojë e vërtetë, dhe shpesh një lojë e kënaqshme.
+2. **Përdorni pak copa.** Filloni me dy ose tre çifte. Shtoni më shumë vetëm nëse duket shumë e lehtë dhe ata duan më shumë.
+3. **Zgjidhni figura të mëdha, të njohura dhe për të rritur.** Një filxhan çaji, një lule dielli, një varkë me vela. Jo karikatura, dhe jo skena të ngarkuara.
+4. **Luani si ekip.** „Le të gjejmë qentë“ në vend të „radha jote“. Merrni turne duke treguar dhe duke ndihmuar.
+5. **Hiqni pikët.** Askush nuk ka nevojë të fitojë. Nëse dikush pyet, një „e bëmë“ e thjeshtë mjafton.
+6. **Mos e garoni kohën kurrë.** Pa kohëmatës dhe pa nxitim midis turneve.
+7. **Flisni për figurat.** „Shiko atë varkën. A ke shkuar ndonjëherë me det?“ Biseda shpesh është pjesa më e mirë.
+8. **Ndaloni në një moment të mirë.** Përfundoni pas një përputhjeje, ndërsa është ende e këndshme.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) jep të njëjtin frymë si këshillë të përgjithshme: përshtatni aktivitetin me atë që personi mund të bëjë, vëzhgoni frustrimin dhe sigurohuni që ndjehet i suksesshëm.
 
-## Gentle memory and matching games to try
+## Lojëra të buta kujtese dhe përputhjeje për të provuar
 
-### Picture pairs (matching with pictures showing)
+### Picture pairs (përputhje me figura të dukshme)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Picture pairs](/games/picture-pairs/) është një lojë përputhjeje me figura të mëdha dhe nga 4 deri në 12 pllaka. Figurat mund të mbeten të dukshme, pra bëhet fjalë për gjetjen e binjakëve, jo për kujtimin se ku ishin. Filloni me katër pllaka. Për dikë në fazën e hershme që do pak më shumë sfidë, mund të kaloni te **Hidden pictures**, por kthehuni te figurat e dukshme në çastin që nuk është më argëtuese.
 
 ### Find the same
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Find the same](/games/find-the-same/) tregon një figurë lart dhe dy deri në katër zgjedhje më poshtë. Prekni atë që përputhet. Është lojë përputhjeje më e thjeshtë në faqe dhe i përshtatet personave që e gjejnë një rrjetë të plotë shumë të mbushur, përfshirë shumë nga ata në fazat e vona me dikë pranë.
 
-### Photo pairs (family photo memory game)
+### Photo pairs (lojë kujtese me foto familjare)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Photo pairs](/games/photo-pairs/) i kthen fotot që zgjidhni në një lojë përputhjeje: qeni, kopshti, shtëpia në liqen. Fytyrat dhe vendet e njohura shpesh nxisin më shumë bisedë sesa çdo figurë e gatshme. Fotot mbeten në shfletuesin tuaj dhe nuk ngarkohen kurrë.
 
 ### Sort together
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sort together](/games/sort-together/) ju kërkon të vendosni çdo figurë në shportën ku i takon, si kuzhina ose kopshti. Grupimi mbështetet në njohuri të gjata për mënyrën si funksionon bota, jo në kujtesën afatshkurtër.
 
 ### Picture puzzle
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Picture puzzle](/games/picture-puzzle/) e pret një figurë në 4 ose 9 copa. Prekni dy copa për t'i ndërruar deri sa figura të bëhet e plotë. Figura e plotë mbetet në ekran si udhërrëfyes.
 
-### Real cards on the table
+### Karta reale në tryezë
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Nuk keni nevojë për ekran. Nxirrni çifte përputhjeje nga dy pako karta ose nga një grup kartash me figura. Vendosini me fytyrë lart në dy rreshta dhe gjeni çiftet bashkë. Më vonë, renditini sipas ngjyrës ose shkopinjve. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i liston lojërat me letra dhe tavolinë ndër aktivitetet për fazën e hershme.
 
-## Which memory games suit each stage?
+## Cilat lojëra kujtese përshtaten për secilën fazë?
 
-Stages are loose labels. Go by what the person enjoys today.
+Fazat janë etiketa të lirshme. Shikoni atë që personi gëzon sot.
 
-| Stage | Games that often fit | How to set them up |
+| Faza | Lojëra që shpesh përshtaten | Si t'i përgatitni |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| E hershme | Picture pairs, Photo pairs, Picture puzzle me 9 copa, lojëra të njohura me letra | Lëreni ta zgjedhë. Pllakat mund të kthehen nëse i pëlqen; hiqni pikët nëse e shqetëson |
+| Mesme | Picture pairs me 4 deri në 6 pllaka me fytyrë lart, Find the same, Sort together | Figurat gjithmonë të dukshme. Uluni pranë dhe merrni turne duke ndihmuar |
+| Vonë | Find the same me 2 zgjedhje, shikimi bashkë i një figure të madhe | Shumë e shkurtër. Ju mbani tabletin; ai tregon ose thjesht shikon dhe dëgjon |
 
-## Do memory games help with dementia?
+## A ndihmojnë lojërat e kujtesës me demencën?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Asnjë lojë kujtese nuk ka treguar se trajton, ngadalëson ose ndalon demencën. Një [rishikim i Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) mbi stërvitjen kompjuterike kognitive për njerëz me dëmtim kognitiv të lehtë e gjeti provën shumë të kufizuar për të thënë nëse parandalon demencën. Udhëzuesi ynë për [lojërat e trurit dhe demencën](/brain-health/brain-games/) shpjegon çfarë treguan dhe çfarë nuk treguan studimet.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Kjo nuk është arsye për të hequr dorë nga lojërat. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) këshillon fokusin te kënaqësia, jo te arritja. Dhjetë minuta përputhje figurash dhe bisedë për to mund të jenë një pjesë vërtet e mirë e ditës.
 
-## What about memory games for seniors without dementia?
+## Po për të moshuarit pa demencë?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Nëse një i rritur pa probleme kujtese shijon puzzle me kohë, pikë dhe nivele më të vështira, nuk ka asgjë të keqe me këtë. Thjesht mos mbështetni te ai për t'u mbrojtur nga demenca; asnjë lojë nuk ka treguar këtë. Versionet e buta më lart funksionojnë mirë edhe kur brezat luajnë bashkë: një gjysh me demencë dhe një nip i vogël mund të përputhin figura si ekip, pa që askush të testohet.
 
-## When should you stop or change the game?
+## Kur duhet të ndaloni ose ndryshoni lojën?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Psherëtimat, largimi i tabletit, thënia „s'mund ta bëj dot këtë“ ose pamja e shqetësuar janë shenja për ta bërë më të lehtë ose për ta ndaluar. Provoni më pak pllaka, kthejini figurat me fytyrë lart, kaloni te [Find the same](/games/find-the-same/), ose thjesht shikoni figurat dhe bisedoni. Nëse nuk duan fare të luajnë, edhe kjo është në rregull. Udhëzuesi ynë për [si të luani bashkë](/caregiving/how-to-play-together/) ka më shumë për ritmin dhe ndihmën.
