@@ -54,7 +54,7 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-За многе људе башта је једно од најпознатијих места које знају. Копање, заливање и брање цвећа користе вештине научене давно, а боравак напољу доноси свеж ваздух, сунчеву светлост и звуке птица. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) наводи негу биљака, садњу цвећа и поврћа и [разговор о томе како биљке расту](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) међу активностима које особе са Alzheimer's болешћу могу волети. Ова страница описује шта да пробате, како башту учинити лакшом за коришћење и како бити безбедан са врућином, сунцем и лутањем.
+За многе људе башта је једно од најпознатијих места које знају. Копање, заливање и брање цвећа користе вештине научене давно, а боравак напољу доноси свеж ваздух, сунчеву светлост и звуке птица. National Institute on Aging наводи негу биљака, садњу цвећа и поврћа и [разговор о томе како биљке расту](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) међу активностима које особе са Alzheimer's болешћу могу волети. Ова страница описује шта да пробате, како башту учинити лакшом за коришћење и како бити безбедан са врућином, сунцем и лутањем.
 
 ## Које активности на отвореном и у башти добро функционишу?
 

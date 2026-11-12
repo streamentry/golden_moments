@@ -28,20 +28,23 @@ faq:
   - q: "Шта ако активност уради погрешно?"
     a: "Ако је безазлено, нека буде тако. Пешкири преклопљени другачије или кашике на другом месту нису важни. Исправљање може деловати као критика, док им то што раде на свој начин даје осећај способности и корисности."
 sources:
-  - title: "Music / Art Therapy, Alzheimer's & Dementia"
+  - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/help-support/caregiving/daily-care/art-music"
-  - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
+    url: "https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage"
+  - title: "Activities"
     publisher: "Alzheimer's Association"
-    url: "https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf"
+    url: "https://www.alz.org/help-support/caregiving/daily-care/activities"
+  - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
+    publisher: "Alzheimer's Foundation of America"
+    url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
+  - title: "Caregiver's Guide to Understanding Dementia Behaviors"
+    publisher: "Family Caregiver Alliance"
+    url: "https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/"
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
     url: "https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease"
-  - title: "Activities for dementia"
-    publisher: "NHS"
-    url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
-relatedGames: [coloring, conversation-cards, picture-puzzle]
-related: [activities/arts-and-crafts, activities/coloring, activities/sensory, activities/household-tasks, activities/late-stage, caregiving/when-they-say-no]
+relatedGames: [picture-pairs, find-the-same, sort-together, picture-bingo, conversation-cards]
+related: [activities/ideas, activities/household-tasks, activities/late-stage, caregiving/how-to-play-together, caregiving/when-they-say-no, caregiving/late-day-restlessness, activities/alzheimers]
 health: false
 ---
 

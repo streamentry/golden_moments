@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Активности за раната фаза на деменција"
+seoTitle: "Активности при рана деменција: идеи што одговараат"
+description: "Идеи за активности при рана деменција: хоби, игри, излегувања, пишување и заедничко планирање, со мали промени кои лицето ги задржува да ги ужива и да одлучува."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Во раната фаза на деменција, повеќето луѓе можат да продолжат да го прават она
+  што го сакаат: хоби, картички и табла-игри, готвење, градинарство, прошетки,
+  клубови, вера и волонтирање. Главните промени се помали групи, пократки
+  излегувања, едноставни напишани планови и партнер во близина. Прашајте го
+  лицето каква помош сака и нека ја води активноста.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Повеќето луѓе во раната фаза живеат прилично самостојно. Активностите обично се прилагодуваат, а не се заменуваат."
+  - "Прашајте го лицето каква поддршка сака и договорете едноставен знак за кога помошта е добредојдена."
+  - "Помалите групи, помирните времиња и пократките излегувања често прават голема разлика."
+  - "Ова е добро време лицето да води проекти за сопствениот живот, како дневник или книга со животна приказна."
+  - "Игрите изберете ги за уживање. Прескокнете секоја што почнува да делува како тест."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Какви активности се добри при рана деменција?"
+    a: "Обично истите што лицето веќе ги ужива: картички, табла-игри, готвење, градинарство, прошетки, музика, верски активности, клубови и волонтирање. Можеби ќе треба да ги направите пократки, помирни или поедноставни. Водењето дневник, пишувањето писма и составувањето книга со животна приказна исто така добро одговараат на оваа фаза."
+  - q: "Како да помогнам, а да не преземам сè?"
+    a: "Прашајте каков вид помош сака лицето и проверувајте често. Договорете фраза или климнување со глава што значи дека е во ред да се вклучите, на пример кога ќе му исчезне збор или име. Ако нема безбедносен ризик, нека го направи на свој начин, дури и ако трае подолго."
+  - q: "Дали некој со рана деменција треба да пробува нови активности?"
+    a: "Да, ако сака. Познатите хобија обично се најлесни, но многу луѓе уживаат и во нешто ново, како група за прошетки прилагодена за деменција, час по сликање или пејачка група. Пробајте еднаш без притисок и видете како се чувствува."
+  - q: "Дали апликациите за тренирање на мозокот вредат во раната фаза?"
+    a: "Некои луѓе уживаат во загатки и игри со зборови, а тоа уживање е доволна причина. Ниедна апликација или игра не е покажана дека лекува, забавува или запира деменцијата. Ако некоја игра предизвикува стрес или лицето се чувствува како да не успева, оставете ја настрана."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Во раната фаза на деменција многу луѓе сè уште живеат речиси исто како и порано. Може да работат, да волонтираат, да се среќаваат со пријатели и сами да водат голем дел од денот. Активностите обично не треба да се заменуваат; потребни се неколку прилагодувања за да останат пријатни. Вашата улога е поблиску до партнер отколку до грижник: некој што поддржува, планира заедно со лицето и се вклучува само кога е побарано.
 
-## What activities are good in early-stage dementia?
+## Какви активности се добри во раната фаза на деменција?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Најдобрите активности во раната фаза обично се оние што лицето веќе ги сака, малку олеснети. [Алцхајмер фондацијата на Америка](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) наведува идеи како картички и табла-игри, пронаоѓање зборови, прошетки, танцување, градинарство, аранжирање цвеќе, раскажување приказни, сликање, музика, водење дневник, пишување писма, лепење албуми, готвење и празнични традиции.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Често се менува околината, а не самата активност. [Алцхајмер асоцијацијата](https://www.alz.org/help-support/caregiving/daily-care/activities) забележува дека луѓето во раната фаза може да почнат да се повлекуваат од работи што ги сакале, и го наведува примерот на личност што се чувствува преоптоварена на голема забава, но подобро се снаоѓа во мала група. Отворено разговарајте за она што е потешко и прилагодете заедно.
 
-## Ask first, and agree on how to help
+## Прво прашајте и договорете како да помогнете
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Упатствата на Алцхајмер асоцијацијата за раната фаза](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) предлагаат неколку навики што важат и за активностите:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Прашајте директно.** „Што би ви го олеснило читалечкиот клуб?“ дава подобар одговор отколку нагадување.
+- **Претпоставете дека може.** Ако нема безбедносен ризик, нека лицето пробува, а вие дајте охрабрување наместо да преземате сè.
+- **Договорете знак.** Изберете фраза или климнување со глава што значи „во ред е да се вклучам“, на пример кога ќе му исчезне име за време на картичка игра.
+- **Проверувајте редовно.** Прашајте дали количината помош е соодветна, премногу или премалку.
 
-## Activity ideas for the early stage
+## Идеи за активности во раната фаза
 
-### Keep up roles and hobbies
+### Одржувајте ги улогите и хобијата
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Одржувајте редовна обврска.** Неделна волонтерска смена, хор или клуб му даваат облик на неделата. Ако стане стресно, пократка или помирна улога може да одговара подобро.
+- **Планирајте ги оброците заедно.** Ако купувањето намирници стане фрустрирачко, Алцхајмер асоцијацијата предлага лицето да помогне во планирањето на неделното менито и да ја напише листата.
+- **Гответе и печете.** Подгответе омилен рецепт заедно. Пред да почнете, наредете ги состојките по редослед за да се видат чекорите.
+- **Градинарете.** Планирајте леја, изберете семиња или растенија и работете заедно. Напишана листа на градинарските работи за неделата помага.
+- **Продолжете со занает.** Дрворезбарство, шиење, плетење или составување модели може да продолжи со поедноставни шеми и добро осветлување.
 
-### Games for enjoyment
+### Игри за уживање
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Играјте картички и табла-игри.** Познатите игри се најлесни. Играјте во тимови за никој да не биде на потег, а бодовите водете ги лабаво или воопшто не.
+- **Пробајте пронаоѓање зборови со голем печат.** Нашето [пронаоѓање зборови](/games/word-search/) може да се игра на екран или да се испечати за мирен момент.
+- **Слагајте сложувалки.** Изберете број парчиња што опушта, не што предизвикува. [Сликовната сложувалка](/games/picture-puzzle/) е краток екранска верзија, а нашиот водич за [сложувалки при деменција](/activities/puzzles/) помага во изборот.
+- **Играјте трива за забава.** Некои луѓе сакаат тимска трива вечер. Ако почне да делува како тест, изберете нешто друго или пробајте нашите [лесни трива прашања](/activities/trivia/), кои имаат понудени одговори и без бодови.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Игрите овде се за задоволство. Ниедна игра не е покажана дека лекува или забавува деменција; повеќе прочитајте во [игри за мозокот: што велат истражувањата](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Пишете, размислувајте и запишувајте
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Водете дневник.** Алцхајмер асоцијацијата предлага дневникот како еден од начините за справување со чувствата по дијагнозата. Неколку редови на ден се доволни.
+- **Водете книга со животна приказна.** Раната фаза е добро време лицето самото да ги избере своите фотографии и да ги напише или да ги диктира приказните зад нив. Видете [активности за присетување](/activities/reminiscence/).
+- **Пишете писма.** Писмо до внук, стар пријател или поранешен колега може да значи многу за двете страни.
+- **Разговарајте за фотографии.** [Парови слики](/games/photo-pairs/) ги претвора семејните фотографии во нежна игра на спарување, а [картичките за разговор](/games/conversation-cards/) даваат лесни почетоци за разговор.
 
-### Go out and move
+### Излегувајте и движете се
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[Националниот институт за стареење](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) предлага познатите излегувања да продолжат сè додека и двајцата сте удобни. Заплануваjте ги во најдоброто време од денот на лицето и не дозволувајте да траат предолго.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Кратки културни посети.** Музеј, матинеа или уметничка изложба, по можност во помирно време.
+- **Пливање.** НИА предлага базен во мирно време од денот.
+- **Групи за прошетки и часови по танц.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) наведува танц, тај чи, јога, пливање и групи за прошетки, како и сесии прилагодени за деменција каде ги има.
+- **Пејачки групи и мемориски кафеа.** Опуштени групи каде луѓето што живеат со деменција и нивните партнери можат да се сретнат со други во слична ситуација.
 
-## Small changes that keep activities enjoyable
+## Мали промени што ги прават активностите пријатни
 
-| If this is getting harder | Try this |
+| Ако ова станува потешко | Пробајте го ова |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Зафатени или бучни места | Одете во мирни времиња, изберете помали групи, седнете на работ од просторијата |
+| Памтење нови имиња | Претставувајте луѓе по име секој пат; замолете групите да носат значки со имиња |
+| Следење планови со повеќе чекори | Запишете ги чекорите или прво наредете ги сите работи по редослед |
+| Замор | Пократки излегувања, одмор после тоа, ништо друго закажано за тој ден |
+| Следење на бодовите во игра | Играјте во тимови, поедноставете ги правилата или прескокнете го броењето |
+| Наоѓање зборови | Дајте време; понудете збор само ако договорениот знак тоа го бара |
 
-## When to slow down
+## Кога да забавите
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Запрете или променете активност кога носи повеќе стрес отколку задоволство. Постојаното фрустрирање, избегнувањето на хоби или изјавата „едноставно повеќе не можам“ заслужуваат нежен разговор, а не притискање. Најчесто одговорот е помала верзија на истото. Ако лицето има потреба од повеќе помош за да почне и да следи чекори, идеите во [активности за средната фаза](/activities/middle-stage/) може да одговараат подобро. За поддржувачки разговор видете [совети за комуникација](/caregiving/communication-tips/), а за уште многу идеи видете [101 активности](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Партнерите исто така имаат потреба од поддршка. Раната фаза е добро време да изградите своја мрежа на помош; видете [грижа за себе како грижник](/caregiving/caregiver-self-care/).
