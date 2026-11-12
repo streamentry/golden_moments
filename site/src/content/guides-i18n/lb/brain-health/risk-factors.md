@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Demenz-Risikofaktoren: déi 14 vun der Lancet-Kommissioun"
+seoTitle: "Demenz-Risikofaktoren: déi 14 Lancet-Faktoren"
+description: "Déi 14 verännerbare Demenz-Risikofaktoren vun der Lancet-Kommissioun 2024 no Liewensphase, a wat Dir mam Dokter kënnt besprechen."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  D'Lancet-Kommissioun huet 2024 14 Faktoren genannt, déi sech potenziell verännere kënnen: manner Bildung, Hörverlies, héije LDL-Cholesterin, Depressioun, Hirnverletzung, Inaktivitéit, Diabetes, Rauchen, héije Bluttdrock, Adipositas, vill Alkohol, sozial Isolatioun, Loftverschmotzung an onbehandelten Visiounsverlust. Zesummen sinn si mat ongeféier 45 % vun de Fäll weltwäit verbonnen, awer fir eng eenzel Persoun gëtt et keng Garantie.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "D'14 Faktoren ëmfaassen e ganzt Liewen: ee an der fréiger Kandheet, zéng an der Mëtt vum Liewen an dräi spéit am Liewen."
+  - "Hörverlies an héije LDL-Cholesterin an der Mëtt vum Liewen sinn all mat ongeféier 7 % vun de Demenzfäll weltwäit verbonnen, de gréissten Undeel vun all engem eenzelne Faktor."
+  - "Dës Prozentsätz sinn Schätzunge fir d'Bevëlkerung, déi vun Ursaach a Wierkung ausgoen. E Ding vun de Verbindunge kann nëmmen deelweis ursächlech sinn."
+  - "Alter a Gene, déi keen ännere kann, sinn och grouss Risikofaktoren. Wann Dir déi 14 Risiken senkt, garantéiert dat net, datt een Demenz vermeit."
+  - "Vill vun de Schrëtt, wéi Bluttdrock, Gehéier a Visioun kontrolléieren, sinn och fir d'Gesondheet an anerer Hisiicht gutt a wäert et sech mam Dokter ze besprieche."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Wat sinn déi 14 veränneren Risikofaktoren fir Demenz?"
+    a: "D'Lancet-Kommissioun 2024 huet manner Bildung, Hörverlies, héije LDL-Cholesterin, Depressioun, Hirnverletzung, kierperlech Inaktivitéit, Diabetes, Rauchen, héije Bluttdrock, Adipositas, vill Alkohol, sozial Isolatioun, Loftverschmotzung an onbehandelten Visiounsverlust genannt. Zesummen sinn si mat bal der Hallschent vun de Demenzfäll weltwäit verbonnen."
+  - q: "Wéi eng Demenz-Risikofaktor ass am wichtegsten?"
+    a: "Weltwäit huet d'Kommissioun geschat, datt Hörverlies an héije LDL-Cholesterin an der Mëtt vum Liewen jeweils mat ongeféier 7 % vun de Fäll verbonne sinn, gefollegt vu manner Bildung an sozialer Isolatioun mat jeweils ongeféier 5 %. Wéi wichteg e Faktor fir eng Persoun ass, hänkt vun hirer eegener Gesondheet of, dofir ass de Dokter déi bescht Berodung."
+  - q: "Sinn déi zwee nei Risikofaktoren 2024 derbäi komm?"
+    a: "Jo. De Rapport vun 2024 huet den héijen LDL-(„schlechten“) Cholesterin an der Mëtt vum Liewen an den onbehandelten Visiounsverlust am spéiden Liewen zu den 12 Faktoren derbäigesat, déi 2020 genannt goufen. D'Kommissioun huet si mat ongeféier 7 % bzw. 2 % vun de Fäll verbonnen."
+  - q: "Ass d'Alter e veränderbare Risikofaktor?"
+    a: "Nee. D'Alter ass de gréisste bekannte Risikofaktor fir Alzheimer a kann net geännert ginn. Gene spillen och eng Roll. Déi 14 Faktoren op dëser Säit sinn déi, bei deenen d'Fuerschung suggeréiert, datt se sech potenziell änneren kënnen."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,74 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+E Risikofaktor ass eppes, dat mat enger méi héijer Chance fir eng Krankheet verbonne ass. Et ass net an all Fäll d'Ursaach, an en ze hunn heescht net, datt Dir Demenz kritt. Dës Säit listet déi 14 Demenz-Risikofaktoren op, déi d'Lancet-Kommissioun 2024 als potenziell verännerbar bezeechent, wat d'Fuerschung mat hinnen verbënnt, an wat Dir mam Dokter kënnt besprechen.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Fir dat gréisser Bild, och wat grouss Studien fonnt hunn, fänkt mat [Kann Demenz verhënnert ginn? Wat d'Fuerschung seet](/brain-health/can-dementia-be-prevented/) un. Dat ass allgemeng Informatioun, keng medizinesch Berodung; kuckt eis [medizinesch Ausschlussklausel](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Wat sinn déi 14 Risikofaktoren fir Demenz?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+D'[Lancet-Kommissioun 2024](https://doi.org/10.1016/S0140-6736(24)01296-0), geschriwwen vun 27 Demenzfuerscher, huet geschat, datt 14 potenziell verännerbar Risikofaktoren zesummen ongeféier 45 % vun de Demenzfäll weltwäit ausmaachen. De Prozentsaz fir all Faktor hei drënner ass d'Schätzung vun der Kommissioun iwwer den Undeel vun de Fäll weltwäit, deen mat him verbonne ass, gerënnt op ganz Zuelen. D'Zuelen iwwerlappen sech, well vill Leit méi wéi ee Risiko hunn, dofir addéieren se sech op 45 % an net méi.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Risikofaktor | Liewensphase | Undeel vun de Fäll | Wat d'Fuerschung verbënnt | Wat Dir maache kënnt |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Manner Bildung | Fréi am Liewen | 5 % | Manner Schouljoren sinn mat engem méi héije Risiko verbonnen. Geeschteg aktiv ze sinn an der Mëtt vum Liewen schéngt och ze schützen, och bei Leit mat wéineg Schoulbildung. | Bleift am Alter geeschteg aktiv: Liesen, Hobbyen, Coursen, Spiller mat anere. |
+| Hörverlies | Mëtt vum Liewen | 7 % | Onbehandelt Hörverlies ass mat engem méi héijen Risiko verbonnen. Studien, déi Leit iwwer Zäit begleeden, verbannen d'Benotzung vun Hörgeräter mat engem méi nidderegen Risiko. | Loosst Äert Gehéier kontrolléieren. Freet no, ob Hörgeräter hëllefe kënnen, a traagt se, wann se verschriwwe sinn. Schützt d'Oueren vu lauter Lärm. |
+| Héije LDL-Cholesterin | Mëtt vum Liewen (ab ongeféier 40) | 7 % | Héije LDL-(„schlechte“) Cholesterin an der Mëtt vum Liewen ass mat engem méi héijen Risiko verbonnen. Beobachtungsstudien verbannen d'Benotzung vu Statinen mat engem méi nidderegen Risiko, awer Studien am spéiden Liewen hu dat net gewisen. | Freet Äre Dokter, ob Äre Cholesterin gemooss soll ginn an wat, wann iwwerhaapt, ze maachen ass. |
+| Depressioun | Mëtt vum Liewen | 3 % | Depressioun ass mat engem méi héijen Risiko verbonnen. Am spéiden Liewen kann Depressioun och e fréie Zeeche vu Demenz sinn. | Sot dem Dokter Bescheed iwwer schlechte Stëmmung oder Verloscht vun Interesse, déi méi wéi zwou Wochen dauert. Depressioun ass behandelbar. |
+| Hirnverletzung | Mëtt vum Liewen | 3 % | Eng Kopfverletzung an all Alter an aus all Ursaach, och bei Kontaktsportarten, ass mat engem méi héijen Risiko verbonnen. | Traot en Helm beim Vëlosfueren a bei Kontaktsportarten. Frot no Moossname géint Stierzen. Ruet Iech aus an loosst Iech nokucken no enger Kopfverletzung. |
+| Kierperlech Inaktivitéit | Mëtt vum Liewen | 2 % | Mënschen, déi sech bewegen an Sport maachen, entwéckelen seltener Demenz. D'Evidenz aus Studien ass awer nach begrenzt. | Freet, wat fir Iech sécher Aktivitéit ass, a fannt eppes, wat Iech gefält. Kuckt eis [Bewegungsguide](/brain-health/exercise/). |
+| Diabetes | Mëtt vum Liewen | 2 % | Diabetes, besonnesch wann en an der Mëtt vum Liewen ufänkt oder laang dauert, ass mat engem méi héijen Risiko verbonnen. | Loosst Äre Bluttzocker moossen. Wann Dir Diabetes hutt, schafft mat Ärem Pflegeteam zesummen, fir en sécher ze behandelen. |
+| Rauchen | Mëtt vum Liewen | 2 % | Rauchen ass mat engem méi héijen Risiko verbonnen. Studien stellen fest, datt Ex-Raucher net dat selwecht erhéicht Risiko hunn wéi Leit, déi weiderhin rauchen. | Freet no Ënnerstëtzung, fir mat dem Rauchen opzehalen. Et lount sech, an all Alter opzehalen. |
+| Héije Bluttdrock | Mëtt vum Liewen | 2 % | Héije Bluttdrock an der Mëtt vum Liewen ass mat engem méi héijen Risiko verbonnen. Studien mat Bluttdrockmedikamenter weisen en nidderegen Risiko vu Demenz oder kognitiver Schwächung.  | Kennt Är Zuelen. D'Kommissioun schléit eng oberer Zuel vun 130 oder manner ab ongeféier 40 Joer vir; frot, wat fir Iech e passend Zil ass. |
+| Adipositas | Mëtt vum Liewen | 1 % | Adipositas an der Mëtt vum Liewen ass mat engem méi héijen Risiko verbonnen, a si erhéicht och d'Risiko fir Diabetes. | Frot Äre Dokter no engem gesonde Gewiicht fir Iech. Eeler Leit sollten ouni medizinesch Berodung kee Gewiichtsverloschtsdiät maachen. |
+| Ëbermeseg Alkohol | Mëtt vum Liewen | 1 % | Vill drénken ass mat engem méi héijen Risiko verbonnen. Wann een vum staarke Drénken erofgeet, ass dat mat engem méi nidderegen Risiko verbonnen. | Freet, wat eng sécher Grenz fir Iech ass, besonnesch wéinst Ären Medikamenter. |
+| Sozial Isolatioun | Spéit am Liewen | 5 % | Wéineg Kontakt mat anere Leit ass mat engem méi héijen Risiko verbonnen. | Bleift op Weeër a Kontakt mat de Leit, déi Iech gefalen. Kuckt eis [Guide iwwer sozial Kontakter](/brain-health/social-connection/). |
+| Loftverschmotzung | Spéit am Liewen | 3 % | Liewen an enger méi verschmotzter Loft ass mat engem méi héijen Risiko verbonnen. Studien verbannen propperer Loft mat engem méi nidderegen Risiko. | Dat ass virun allem eng Fro vun der Politik. Kuckt lokal Loftqualitéitswarnungen a limitéiert d'Zäit dobaussen un ganz verschmotzte Deeg. |
+| Onbehandelten Visiounsverlust | Spéit am Liewen | 2 % | Onkorrigéiert Visiounsprobleme sinn mat engem méi héijen Risiko verbonnen. Eng grouss US-Studie huet Stëmmstéckoperatiounen mat engem nidderegen Risiko verbonnen. | Gitt reegelméisseg bei den Aenaarzt. Freet, ob Problemer wéi Stär behandelbar sinn. |
 
-## How should I read these percentages?
+## Wéi sollt Dir dës Prozentsätz liesen?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Virsiichteg. D'Kommissioun selwer mécht e puer Punkte, déi et wäert ass, am Kapp ze behalen:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Si beschreiwen Bevëlkerungen, net eenzel Leit.** D'[Zesummefaassung vum Rapport](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) vun der University College London hält fest, datt d'Senkung vum Risiko iwwer eng Bevëlkerung wierkt an net garantéiert, datt eng eenzel Persoun keng Demenz kritt.
+- **Si ginn vun Ursaach a Wierkung aus.** D'Autoren hunn nëmmen Faktoren mat iwwerzeegender Evidenz opgeholl, awer soen, datt e puer Zesummenhäng nëmmen deelweis ursächlech sinn.
+- **Et sinn weltwäit Zuelen.** Déi meescht Daten kommen aus Länner mat engem héije Akommes, an den tatsächleche Undeel fir all Land oder Gemeinschaft wäert anescht sinn.
+- **Kleng Prozentsätz kënne ëmmer nach wichteg sinn.** E Faktor, deen mat 2 % vun de Fäll weltwäit verbonne ass, betrëfft ëmmer nach eng ganz grouss Zuel vu Leit.
 
-## Which risk factors were added in 2024?
+## Wéi goufen 2024 Risikofaktoren derbäi gesat?
 
-The 2024 report added two factors to the 12 named in 2020:
+Den Rapport vun 2024 huet zwee Faktoren zu den 12 derbäigesat, déi 2020 genannt goufen:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Héije LDL-Cholesterin an der Mëtt vum Liewen**, mat ongeféier 7 % vun de Fäll verbonnen.
+- **Onbehandelten Visiounsverlust am spéiden Liewen**, mat ongeféier 2 % vun de Fäll verbonnen.
 
-## What risk factors cannot be changed?
+## Wéi Risikofaktoren kann een net änneren?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+D'National Institute on Aging seet, datt [d'Alter de gréisste bekannte Risikofaktor fir Alzheimer ass](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), an datt keen en ännere kann. Gene spillen och eng Roll; ee bekannte Gen, dat Alzheimer-Risiko beaflosst, heescht APOE. D'NIA seet weiderhin, datt d'Wëssenschaftler bei de meeschte Leit nach net ganz verstinn, wat Alzheimer verursaacht. D'Lancet-Kommissioun hält fest, datt d'potenziell verännerbare Risiken kënne gesenkt ginn, egal wéi déi genetesch Risiko vun enger Persoun ass.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Well Alter an Gene eng sou grouss Roll spillen, kréien vill Leit, déi keng vun de 14 Risikofaktoren hunn, trotzdem Demenz. Dat ass kee seng Schold.
 
-## What does the trial evidence say about changing these risks?
+## Wat seet d'Evidenz aus Studien iwwer d'Ännerung vun dësen Risiken?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+E Risikofaktor mat Demenz ze verbannen ass net dat selwecht wéi beweisen, datt d'Ännerung dovun Demenz-Risiko senkt. E puer Beispiller, wou d'Studienevidenz steet:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Bluttdrock.** An der SPRINT-MIND-Studie huet en niddereg Bluttdrock-Zil de milden kognitiven Verloscht däitlech gesenkt. Wahrscheinlech Demenz huet et net däitlech gesenkt, obwuel d'Studie vläicht ze kleng war, fir dat ze weisen ([SPRINT MIND am JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Hörgeräter.** D'Lancet-Kommissioun beschreift eng Dräi-Joer-Studie iwwer Hörgeräter, déi keen allgemengen Effekt op d'Denken fonnt huet, awer en Notzen bei enger Ënnergrupp vu Leit mat engem méi héijen Risiko. Studien, déi Leit iwwer Zäit begleeden, verbannen d'Benotzung vu Hörgeräter mat engem méi nidderegen Risiko. Eis [Guide iwwer Gehéier](/brain-health/hearing/) bitt méi.
+- **Kierperlech Aktivitéit.** D'National Institute on Aging seet, datt et net genuch klinesch Evidenz gëtt, fir ze schléissen, datt Bewegung mild kognitiven Verloscht oder Alzheimer verhënnere oder verlangsamen kann, obwuel e puer Studien suggeréieren, datt se bei altersbedéngten Réckgang hëllefe kann ([NIA iwwer d'Verhënnerung vun Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Laang Studien, bei deene gewaart gëtt, bis Demenz entsteet, sinn lues an deier, dofir wäert d'bescht Evidenz fir vill Faktoren weiderhin aus Studien kommen, déi Leit iwwer Joren begleeden. Dës Evidenz ass nëtzlech, awer schwächer wéi eng Studie mat zoufälleger Zuteelung.
 
-## What about sleep and diet?
+## Wat ass mat Schlaf an Ernärung?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+D'Kommissioun huet Schlaf an Ernärung ënnersicht, awer se net op d'Lëscht gesat, well d'Evidenz net staark oder konsequent genuch war. Eis Guiden iwwer [Schlaf](/brain-health/sleep/) a [Ernärung](/brain-health/diet/) erklären, wat bekannt ass.
 
-## Talk with a doctor
+## Mam Dokter schwätzen
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+En Jor-Kontrollbesuch ass eng gutt Geleeënheet, fir dës Themen unzesprechen. Dir kënnt dës Lëscht mat hëllefen an dofir freet:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Wéi sinn mäin Bluttdrock, mäi Bluttzocker an mäi Cholesterin, an brauchen ee vun deenen Opmierksamkeet?
+- Sollen Gehéier an Aen kontrolléiert ginn?
+- Ass d'Aktivitéit, déi ech maachen, sécher a genuch fir mech?
+- Kënnen ee vu menge Medikamenter d'Erënnerung oder d'Denken beaflossen?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Ier Dir Medikamenter, Ernärung, Fasten, Sport oder Nahrungsergänzung änneren, schwätzt virdrun mam Dokter. Wann Dir oder eng Persoun, fir déi Dir suergt, plëtzlech duercherneen sidd, eng Schwächt op enger Säit huet oder Schwieregkeeten beim Schwätzen, rufft d'lokal Notrufnummer un.
