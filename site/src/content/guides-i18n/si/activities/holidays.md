@@ -1,33 +1,29 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Thanksgiving සිට ඩිමෙන්ශියා ඇති අයෙකු සඳහා උත්සව ක්‍රියාකාරකම්"
+seoTitle: "ඩිමෙන්ශියා සඳහා උත්සව සහ Thanksgiving අදහස්"
+description: "ඩිමෙන්ශියාව ඇති අයෙකු සඳහා සරල උත්සව ක්‍රියාකාරකම්: ආහාර පිසීමේ කාර්ය, සැරසිලි, සංගීතය, ඡායාරූප සහ වීඩියෝ ඇමතුම්."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  උත්සව කුඩාව, දිනයේ මුලදී සහ පුද්ගලයාගේ සාමාන්‍ය චර්යාවට සමීපව තබන්න. ඔවුන්ට මේසය සැකසීම, එළවළු සේදීම, තෑග්ගක් ඔතා ගැනීම හෝ සැරසිල්ලක් එල්ලීම වැනි සැබෑ, ආරක්ෂිත කාර්යයක් ලබා දෙන්න. හුරුපුරුදු සංගීතය සහ පැරණි ඡායාරූප බෙදා ගන්න, අමුත්තන් කලින් සූදානම් කරන්න, සහ නිශ්ශබ්ද කාමරයක් සකසන්න. ඔබට යුක්තිසහගත ලෙස කළ හැකි දේ පමණක් කරන්න; කෙටි, සන්සුන් සැමරුමක් හොඳ එකකි.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "දින අවසානයේ ව්‍යාකූලත්වය සාමාන්‍ය නම්, දිවා ආහාරය හෝ බ්‍රන්ච් වැනි සැමරුම දිනයේ මුලදී පවත්වන්න."
+  - "සැබෑ රාජකාරි ලබා දෙන්න: මේසය සැකසීම, එළවළු සේදීම, ඔතා ගැනීම, සැරසීම් හෝ අතුරු කෑම තහඩුවට දැමීම."
+  - "හුරුපුරුදු සංගීතය, නත්තල් ගීත සහ පැරණි ඡායාරූප ඇල්බම සමයේ සතුට බෙදා ගැනීමට පහසු ක්‍රම ය."
+  - "අමුත්තන්ට බලාපොරොත්තු විය යුතු දේ කියන්න, සහ පැමිණෙන අය ගැන ඡායාරූප පුද්ගලයාට පෙන්වන්න."
+  - "ප්‍රිය බ්ලැන්කට් හෝ සෙවටරයක් සහිත නිශ්ශබ්ද කාමරයක් සකසා, එක වරකට අමුත්තන් කිහිප දෙනෙකු පමණක් තබන්න."
+  - "අභිභවනය කරන ඕනෑම දෙයක් මඟ හරින්න, ආහාර වගේ පෙනෙන සැරසිලි සහ බොහෝ දිලිසෙන ආලෝක ඇතුළුව."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "ඩිමෙන්ශියාව ඇති කෙනෙකුට Thanksgiving දිනයේ කළ හැක්කේ කුමක්ද?"
+    a: "ඔවුන්ට අද කළ හැකි දෙයට ගැලපෙන සරල, ආරක්ෂිත රාජකාරියක් දෙන්න: එළවළු සේදීම, ක්‍රැන්බෙරි සෝස් කලවම් කිරීම, මේසය සැකසීම, කඩදාසි රෙද්ද නැමීම, හෝ අතුරු කෑම තහඩුවට දැමීම. ඉන් පසු පැරණි පවුලේ ඡායාරූප බලන්න, හෝ හුරුපුරුදු ගීත එකට ගායනා කරන්න. රාජකාරිය කෙසේ අවසන් වේදැයි වඩා, දිනයේ කොටසක් වීම වැදගත් ය."
+  - q: "අප තවමත් විශාල පවුල් එකතුවක් තබා ගත යුතුද?"
+    a: "එය කළමනාකරණය කළ හැකි නම් පමණි. සමූහය සහ ශබ්දය අභිභවනය කළ හැක, එබැවින් බොහෝ පවුල් කුඩා, වඩා සාමාන්‍ය එකතුවකට, කලින් ආහාරයකට, හෝ කුඩා කණ්ඩායම්වලින් පැමිණෙන අමුත්තන්ට මාරු වේ. ඇල්සයිමර් සංගමය රැකබලා ගන්නන් යුක්තිසහගත ලෙස සහ ආරක්ෂිතව කළ හැකි දේ පමණක් කරන ලෙස දිරිගන්වයි."
+  - q: "දිගු කලක් නොපැමිණි පවුලේ අයට අප සූදානම් කරන්නේ කෙසේද?"
+    a: "ඔවුන් පැමිණීමට පෙර, ඔවුන් දැකිය හැකි වෙනස්කම් ගැන සහ ඒවා ඇති වන්නේ රෝගයෙන්, පුද්ගලයාගෙන් නොවන බව ගැන කියන්න. නිවැරදි නොකිරීමට, ප්‍රශ්න නොකිරීමට, එක් වරකට එක් අයෙක් කතා කිරීමට සහ පිළිතුරු සඳහා කාලය ලබා දෙන ලෙස ඔවුන්ගෙන් ඉල්ලන්න. අමුත්තන්ගේ ඡායාරූප කලින් පුද්ගලයාට පෙන්වීමද උපකාරී විය හැක."
+  - q: "ඩිමෙන්ශියාව ඇති කෙනෙකුට ගැලපෙන උත්සව තෑගි මොනවාද?"
+    a: "දැන් ඔවුන්ට භුක්ති විඳිය හැකි සරල, ආරක්ෂිත දේවල්: ප්‍රිය කෑමක්, මෘදු බ්ලැන්කට් හෝ සෙවටරයක්, හුරුපුරුදු සංගීතය, හෝ පවුලේ ඡායාරූප ඇල්බමයක්. සංකීර්ණ විද්‍යුත් උපකරණ, මෙවලම් සහ අභියෝගාත මණ්ඩල ක්‍රීඩා වළක්වන්න. ඔතා ගැනීම හෝ ඔවුන් පිසීමට උදව් කළ කුකීස් ඇසුරුම් කිරීම වැනි තෑගි දීමට ඔවුන් සහභාගී කරවීම, එය තනිව තෑගියක් විය හැක."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +36,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+උත්සව මතක් වන උණුසුම් මතකයන් ගෙන ඒමට හැකි ය, එමෙන්ම ශබ්දය, සමූහය සහ සාමාන්‍ය දිනයේ වෙනස්කම් ද ගෙන ඒමට හැකි ය. ඩිමෙන්ශියාව සමඟ ජීවත් වන අයෙකු සඳහා හොඳම සැමරුම් සාමාන්‍යයෙන් කුඩා, මන්දගාමී වන අතර, ඔවුන්ට තවමත් භුක්ති විඳිය හැකි දේ වටා ගොඩනඟා ඇත. මෙම අදහස් Thanksgiving, නත්තල්, හනුක්කා, අලුත් අවුරුද්ද සහ පවුලේ උපන්දින සඳහා සමානව ක්‍රියා කරයි.
 
-## How do I plan a calmer holiday?
+## සන්සුන් උත්සවයක් සැලසුම් කරන්නේ කෙසේද?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+පුද්ගලයාගේ චර්යාවෙන් ආරම්භ කර, දිනය එය වටා සැලසුම් කරන්න. [ඇමරිකානු ඇල්සයිමර් පදනම](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) යෝජනා කරන්නේ සැමරුම දිනයේ මුලදී තබන ලෙසයි, මන්ද ව්‍යාකූලත්වය සහ නොසන්සුන්කම බොහෝ විට දින අවසානයේ සහ සන්ධ්‍යාවේ වර්ධනය වේ (සමහර විට දින අවසාන නොසන්සුන්කම ලෙස හැඳින්වේ). උත්සව දිවා ආහාරය හෝ බ්‍රන්ච් රාත්‍රී ආහාරයකට වඩා පහසු විය හැක.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **නිවැරදි ප්‍රමාණයෙන් තබා ගන්න.** කුඩා, වඩා සාමාන්‍ය එකතුවක්, හෝ අමුත්තන් එක වරකට කිහිප දෙනෙකු පැමිණීම, බොහෝ විට ගැහුණු මේසයකට වඩා පහසු ය.
+- **රාජකාරි බෙදා දෙන්න.** ඥාතීන්ගෙන් ආහාර ගෙන එන ලෙස, සාප්පු සවාරි කරන ලෙස, හෝ ඔබ උයන විට පුද්ගලයා සමඟ කාලය ගත කරන ලෙස ඉල්ලන්න. ඔවුන්ට උදව් වන දේ පිළිබඳ නිශ්චිත වන්න.
+- **සැරසිලි සරලව තබන්න.** [ඇල්සයිමර් සංගමය](https://www.alz.org/help-support/caregiving/holidays) සටහන් කරන්නේ දිලිසෙන ආලෝක ව්‍යාකූල කළ හැකි බවත්, සැරසිල්ලක් ලෙස භාවිතා කරන කැන්ඩි හෝ කෘතිම පලතුරු ආහාර ලෙස වැරදියට හඳුනාගත හැකි බවත්ය.
+- **කුමක් අත්හැරිය යුතුද තීරණය කරන්න.** සම්ප්‍රදායක් ආතතිකාරී හෝ අවදානම් සහිත වී ඇත්නම්, එය මඟ හැරීම හෝ නිශ්ශබ්ද එකක් උත්සාහ කිරීම හරි ය.
 
-## What holiday activities can we do together?
+## අප එකට කළ හැකි උත්සව ක්‍රියාකාරකම් මොනවාද?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+පුද්ගලයාට අද කළ හැකි දේට ගැලපෙන රාජකාරි සහ විනෝද තෝරන්න. දිනයේ කොටසක් වීම, එය කෙසේ අවසන් වේද යන්නට වඩා වැදගත් ය.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **එකට මේසය සකසන්න.** පළමුව තහඩු, පසුව කඩදාසි රෙදි, පසුව කෝප්ප තබන්න. කඩදාසි රෙදි නැමීම වාඩි වී කළ යුතු හොඳ රාජකාරියකි.
+2. **එළවළු සෝදා වර්ග කරන්න.** අල සේදීම හෝ කොළ බෝංචි කැඩීම කුස්සියේ මේසයේ, පෙර පිසූ බොහෝ අයට, ආරක්ෂිත සහ හුරුපුරුදු ය.
+3. **කලවම් කරන්න, මිශ්‍ර කරන්න හෝ තහඩුවට දමන්න.** ක්‍රැන්බෙරි සෝස් කලවම් කිරීම, සරල පිටි මිශ්‍රණයක් කිරීම, හෝ කුකීස් තහඩුවට දැමීම, ලිප සහ පිහි වලින් ඈතට අත් කාර්යබහුල කරයි.
+4. **තෑග්ගක් ඔතන්න.** කඩදාසි සහ ටේප් කලින් කපා තබා, පුද්ගලයාට නැමීමට සහ සමතලා කිරීමට ඉඩ දෙන්න. හොඳින් ඔතා ගැනීම වැදගත් නොවේ.
+5. **සැරසිලි කිහිපයක් එල්ලන්න.** බිඳෙන්නේ නැති ආභරණ සහ එක කුඩා ප්‍රදේශයක්, උදාහරණයක් ලෙස මාලාවක් හෝ කුඩා ගසක් තෝරන්න.
+6. **සරල අත් කලා වැඩක් කරන්න.** කඩදාසි දාම, පත්‍ර කොලාජ් හෝ මුද්දර සහිත උත්සව කාඩ්පතක් හොඳින් ක්‍රියා කරයි. අපගේ [කලා සහ අත් වැඩ මාර්ගෝපදේශය](/activities/arts-and-crafts/) තවත් අදහස් ඇත.
+7. **ගායනා කර සවන් දෙන්න.** හුරුපුරුදු නත්තල් ගීත සහ උත්සව ගීත එකට සහභාගී වීමට පහසු ය, දැන් අඩුවෙන් කතා කරන අයෙකුට පවා. ධාවන ලැයිස්තුවක් සෑදීම සඳහා අපගේ [සංගීත මාර්ගෝපදේශය](/activities/music/) බලන්න.
+8. **පැරණි උත්සව ඡායාරූප බලන්න.** පෙර සැමරුම්වලින් ඇල්බම ගෙන ඒම සහ “මට මේ මේසය ගැන කියන්න” වැනි කතා ආරාධනා කරන්න, කවුද කවුරුන්දැයි ඇසීමට වඩා. අපගේ [මතක් කිරීමේ මාර්ගෝපදේශය](/activities/reminiscence/) එය පැහැදිලි කරයි.
+9. **සැහැල්ලු කණ්ඩායම් ක්‍රීඩාවක් කරන්න.** [පින්තූර බින්ගෝ](/games/picture-bingo/) මිනිත්තු ගණනකින් මුද්‍රණය වන අතර සියලු වයස් සඳහා ක්‍රියා කරයි, සහ [සංවාද පත්](/games/conversation-cards/) සියලු දෙනාට කතා කිරීමට දෙයක් ලබා දෙයි.
+10. **එකට වර්ණ දෙන්න.** සරල [වර්ණ දීමේ පිටු](/games/coloring/) දරුවන් සහ සීයා-ආච්චිලා මේසය වටා බෙදා ගැනීමට මුද්‍රණය කළ හැක.
+11. **ප්‍රිය උත්සව චිත්‍රපටයක් නරඹන්න.** හුරුපුරුදු චිත්‍රපටයක් විවේකදායක ය, එහි කොටසක් පමණක් නැරඹීම ද හරි ය.
+12. **ආලෝක බැලීමට කෙටි රිය ගමනක් යන්න.** සැරසූ නිවාස පසුකර යන සන්සුන් රිය ගමනක් ජනාකීර්ණ උත්සවයකට වඩා පහසු විය හැක.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+ආහාර පිසීම පුද්ගලයාගේ ජීවිතයේ විශාල කොටසක් වී ඇත්නම්, අපගේ [ක්‍රියාකාරකම් ලෙස ගෘහ කාර්ය](/activities/household-tasks/) මාර්ගෝපදේශය කුස්සියේ රාජකාරි ආරක්ෂිත සහ තෘප්තිමත් කිරීමට තවත් ක්‍රම ඇත.
 
-## How do I prepare guests?
+## අමුත්තන් සූදානම් කරන්නේ කෙසේද?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+අමුත්තන් පැමිණීමට පෙර ඔවුන්ට බලාපොරොත්තු විය යුතු දේ කියන්න, විශේෂයෙන් දිගු කලක් නොපැමිණි ඥාතීන්ට. ඇල්සයිමර් සංගමය යෝජනා කරන්නේ මතකයේ සහ හැසිරීමේ වෙනස්කම් පුද්ගලයාගෙන් නොව රෝගයෙන් සිදුවන බව පැහැදිලි කරන ලෙසයි.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **සරල ඉඟි කිහිපයක් බෙදා ගන්න:** එක වරකට එක් අයෙක් කතා කරන්න, චින්තනය අවසන් කිරීමට කාලය දෙන්න, නිවැරදි නොකර හෝ ප්‍රශ්න නොකර, වචන අනුගමනය කිරීම දුෂ්කර නම් පුද්ගලයාගේ ස්වරයට ප්‍රතිචාර දක්වන්න.
+- **උදව් වන දේ සහ කලබල කරන දේ කියන්න.** මහ හඬ, තරහ වීම හෝ සමහර මාතෘකා ආතතියක් ඇති කරන්නේ නම්, එය කියන්න.
+- **අමුත්තන් කලින් හඳුන්වා දෙන්න.** පැමිණෙන අය ගැන ඡායාරූප පුද්ගලයාට පෙන්වා, කතාවක් හෝ දෙකක් බෙදා ගන්න, හෝ දිනයට පෙර කෙටි දුරකථන හෝ වීඩියෝ චැට් එකක් සකසන්න.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+අපගේ [සන්නිවේදන ඉඟි](/caregiving/communication-tips/) වඩාත් විස්තරාත්මකව කියයි.
 
-## What if it gets to be too much?
+## එය වැඩි වැඩියි නම් කුමක් කළ යුතුද?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+අමුත්තන් පැමිණීමට පෙර, ශබ්දයෙන් ඈතින්, ප්‍රිය බ්ලැන්කට්, සෙවටරයක් හෝ සරල ක්‍රියාකාරකමක් වැනි සුවපහසු වස්තු සහිත නිශ්ශබ්ද කාමරයක් සකසන්න. එය මුලින්ම සහ නිතර දෙන්න: “අපි මඳක් නිශ්ශබ්ද තැනක වාඩි වෙමුද?”
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+මේසයෙන් ඉවත් වීම, කලින් නිදා ගැනීම, හෝ දිනයේ කොටසක් මඟ හැරීම සාර්ථක ප්‍රතිඵලයකි, අසාර්ථකත්වයක් නොවේ. පුද්ගලයා කලබල වුවහොත්, සන්සුන් හඬක්, හුරුපුරුදු ගීතයක් හෝ වෙනත් කාමරයකට ඇවිදීම බොහෝ විට තර්කයට වඩා උපකාරී වේ. සන්ධ්‍යාවන් සඳහා වැඩි අදහස් සඳහා අපගේ [දින අවසාන නොසන්සුන්කම](/caregiving/late-day-restlessness/) මාර්ගෝපදේශය බලන්න.
 
-## How can family far away take part?
+## දුරින් සිටින පවුල විවිධ ආකාරයට සහභාගී වන්නේ කෙසේද?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+වීඩියෝ ඇමතුම් ඥාතීන්ට සමූහයට එකතු නොවී සම්බන්ධ වීමට ඉඩ දෙයි. ඇල්සයිමර් සංගමය ඇමතුම්වලට ව්‍යුහයක් ලබා දෙන ලෙස යෝජනා කරයි, උදාහරණයක් ලෙස සමයික ගීත ගායනා කිරීම, පෙර එකතුවලින් ඡායාරූප බෙදා ගැනීම, එකම වට්ටෝරුව එකට උයන්න, හෝ එකම වේලාවේ උත්සව චිත්‍රපටයක් නරඹන්න. ඇමතුම් කෙටිව තබා, එක වරකට එක් අයෙක් කතා කරන ලෙස ජනතාවගෙන් ඉල්ලන්න, මන්ද එකිනෙකා මැදට කතා කිරීම අනුගමනය කිරීම දුෂ්කර ය. අපගේ [දුරකථන සහ වීඩියෝ ඇමතුම් මාර්ගෝපදේශය](/activities/phone-and-video-calls/) පියවරෙන් පියවර අදහස් ඇත.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+පුද්ගලයා මතක රැකවරණයේ ජීවත් වන්නේ නම්, සංචාර ප්‍රතිපත්තිය පරීක්ෂා කර, ඇමතුමක් සකස් කිරීමට කාර්ය මණ්ඩලයෙන් උදව් ඉල්ලන්න. [මතක රැකවරණයේ අයෙකු බැලීම](/activities/visiting/) ගැන අපගේ මාර්ගෝපදේශය, කුමක් රැගෙන යා යුතුද සහ සුන්දරව ඉවත් වන්නේ කෙසේද යන්න ආවරණය කරයි.
 
-## What gifts suit someone with dementia?
+## ඩිමෙන්ශියාව ඇති අයෙකුට ගැලපෙන තෑගි මොනවාද?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+දැන් භුක්ති විඳිය හැකි සරල, ආරක්ෂිත තෑගි වඩාත් හොඳින් ක්‍රියා කරයි: ප්‍රිය කෑමක්, මෘදු බ්ලැන්කට් හෝ කාඩිගන්, හුරුපුරුදු සංගීතය, විශාල අකුරු දින දර්ශනයක්, හෝ පවුලේ ඡායාරූප ඇල්බමයක්. ඇල්සයිමර් සංගමය අනතුරු සහිත මෙවලම්, සංකීර්ණ විද්‍යුත් උපකරණ සහ අභියෝගාත මණ්ඩල ක්‍රීඩා වළක්වන ලෙස උපදෙස් දෙයි.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+තෑග්ග දීම ලැබීම තරම්ම වැදගත් විය හැක. ඔවුන් උදව් කළ කුකීස් ඇසුරුම් කිරීම, හෝ ඔබ මිලදී ගත් තෑග්ගක් ඔතා ගැනීමට ඔවුන්ට ඉඩ දීම, ඔවුන්ට සමයේ කොටසක් වීමට ඉඩ දෙයි. පවුල් ඡායාරූප ක්‍රීඩාවක් තවත් අදහසකි: [ඡායාරූප යුගල](/games/photo-pairs/) තෝරාගත් ඡායාරූප කිහිපයක් බ්‍රව්සරයේ මෘදු ගැලපීමේ ක්‍රීඩාවක් බවට පත් කරයි.
 
-## Look after yourself too
+## ඔබම ගැනද සැලකිලිමත් වන්න
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+උත්සව රැකබලා ගැනීමට වැඩක් එකතු කරයි. වෙනත් කෙනෙකු සත්කාර කිරීමට හෝ ටර්කි උයන්න ඉඩ දෙන්න, දුෂ්කර වන සිදුවීම්වලට නැත කියන්න, සහ අන් අය පුද්ගලයා සමඟ කාලය ගත කරන අතරතුර විවේක ගන්න. ඔබ හෝ ඔබ රැකබලා ගන්නා පුද්ගලයා අසනීප නම්, රියැදුරු පාරේ සිට අත වැනීම හෝ වීඩියෝ ඇමතුමක් සම්පූර්ණයෙන් හොඳ සංචාරයකි. වැඩි සහායක් සඳහා අපගේ [රැකබලා ගන්නන්ගේ ස්වයං සත්කාරය](/caregiving/caregiver-self-care/) මාර්ගෝපදේශය බලන්න.
