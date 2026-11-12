@@ -102,7 +102,7 @@ health: false
 
 ## 把坐立不安变成一项活动
 
-坐立不安或重复的行为通常有原因。[家庭照护者联盟](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)指出，一个人不停地清空橱柜，可能是想满足“我需要忙碌、有用”的需要。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/activities)建议，把这份精力引导到一个相配的活动上，而不是直接制止。
+坐立不安或重复的行为通常有原因。家庭照护者联盟指出，一个人不停地清空橱柜，可能是想满足“我需要忙碌、有用”的需要。阿尔茨海默病协会建议，把这份精力引导到一个相配的活动上，而不是直接制止。
 
 | 您看到的情况 | 可以提供的活动 |
 | --- | --- |
@@ -115,6 +115,6 @@ health: false
 
 ## 什么时候停下，或改变做法
 
-当您看到疲倦、沮丧、尴尬或厌烦的迹象时，就该停下，例如坐立不安、皱眉、把东西推开，或说“我做不来”。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/activities)建议，换一天中的另一个时段再试，或把活动变得更简单。不要勉强。拒绝可能来自害怕，也可能是任务太难了；请见[对方说不时](/caregiving/when-they-say-no/)。
+当您看到疲倦、沮丧、尴尬或厌烦的迹象时，就该停下，例如坐立不安、皱眉、把东西推开，或说“我做不来”。阿尔茨海默病协会建议，换一天中的另一个时段再试，或把活动变得更简单。不要勉强。拒绝可能来自害怕，也可能是任务太难了；请见[对方说不时](/caregiving/when-they-say-no/)。
 
 提早结束没有关系。只是和对方一起坐着喝杯茶，也很好。随着能力进一步变化，[后期的活动](/activities/late-stage/)中的点子可能更合适，而[101个活动](/activities/ideas/)里还有更多可以尝试。

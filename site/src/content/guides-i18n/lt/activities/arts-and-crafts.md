@@ -1,32 +1,32 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Menas ir rankdarbiai suaugusiems su demencija"
+seoTitle: "Menas ir rankdarbiai demencijai: suaugusiems, ne vaikiškai"
+description: "Suaugusiesiems skirtos meno ir rankdarbių idėjos žmonėms su demencija: nuo akvarelės ir koliažo iki gėlių kompozicijų, su patarimais, kaip paruošti ir pritaikyti."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Geras menas ir rankdarbiai žmonėms su demencija atrodo ir jaučiasi suaugusiai:
+  akvarelė, koliažas iš žurnalų, gėlių kompozicijos, molis, paprastas atvirukų
+  kūrimas ar suaugusiesiems skirti spalvinimo puslapiai. Paruoškite keletą
+  priemonių, jei reikia, padėkite pirmą brūkšnį, kalbėkite dirbdami ir laikykite
+  bendrą laiką pagrindiniu dalyku. Baigtas darbas – neprivalomas.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Rinkitės medžiagas ir temas, atrodančias suaugusiai, pavyzdžiui, akvarelinį popierių, tikras gėles ir žurnalų paveikslėlius, o ne blizgučius, lipdukus ar multiplikacinius lapus."
+  - "Sutelkite dėmesį į procesą: spalvas, molio pojūtį, pokalbį. Baigtas darbas – priedas, o ne tikslas."
+  - "Kai galite, suteikite tikslą, pavyzdžiui, atviruką anūkui ar stalo kompoziciją."
+  - "Padėkite žmogui pradėti, tada atsitraukite. Dažnai pakanka kartu pradėti vieną brūkšnį teptuku."
+  - "Darbų nereikia baigti per vieną sėdėjimą, o sustoti anksčiau visada gerai."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Kaip išvengti, kad rankdarbiai atrodytų vaikiški?"
+    a: "Naudokite tikras meno priemones, suaugusiems tinkamas temas ir pagarbų toną. Blizgučius ir multiplikacinius puslapius pakeiskite akvarelės popieriumi, audiniu, gėlėmis, žurnalų nuotraukomis ir detaliais spalvinimo puslapiais. Nekalbėkite apie darbą taip, kaip girtumėte vaiko piešinį; kalbėkite apie jį, kaip su bet kuriuo suaugusiu draugu."
+  - q: "Kokios meno veiklos tinka vėlyvame demencijos etape?"
+    a: "Vėlesniame etape geriausiai tinka paprasti, jutimus lavinantys darbai: plati teptuko linija, minkšto molio spaudimas, kelių gėlių sudėliojimas vazoje ar audinio mėginių rūšiavimas pagal pojūtį. Galbūt judesį reikės pradėti kartu. Stebėjimas, kaip tapote, ir pokalbis apie spalvas taip pat yra dalyvavimas."
+  - q: "Ką daryti, jei sako, kad nemoka piešti?"
+    a: "Sumažinkite spaudimą. Rinkitės užduotis be vieno teisingo atsakymo, pavyzdžiui, akvarelės lietinį, koliažą ar gėlių sudėliojimą. Taip pat galite pasakyti, kad jums reikia pagalbos konkrečiu klausimu, pavyzdžiui, parenkant atviruko spalvas, kad užduotis atrodytų kaip paslauga, o ne testas."
+  - q: "Ar spalvinimo puslapiai per vaikiški suaugusiems?"
+    a: "Ne, jei jie sukurti suaugusiems. Rinkitės puslapius su suaugusiems tinkamomis temomis, pavyzdžiui, sodais, antklodėmis, automobiliais ar peizažais, ir pateikite juos kaip atpalaiduojančią veiklą, o ne pamoką. Mūsų spalvinimo puslapius galima atspausdinti arba nuspalvinti planšetėje."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +48,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Menas ir rankdarbiai leidžia žmonėms su demencija reikšti save be priklausomybės nuo tinkamų žodžių. Alzheimerio asociacija pastebi, kad meno projektai gali suteikti [pasiekimo ir paskirties jausmą](https://www.alz.org/help-support/caregiving/daily-care/art-music) bei galimybę išreikšti save – tiek globėjui, tiek žmogui su demencija. Svarbiausia, kad viskas būtų suaugusiems tinkama, paprasta ir be spaudimo. Šiame puslapyje pateikiami konkretūs projektai, kaip juos paruošti ir kaip juos pritaikyti, kai situacija keičiasi.
 
-## What makes an art activity adult and not childish?
+## Kas meno veiklą daro suaugusiai tinkamą, o ne vaikišką?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Suaugusiems tinkama meno veikla naudoja tikras medžiagas, subrendusias temas ir pagarbų toną. Alzheimerio asociacija pataria išlaikyti suaugusiam lygiui tinkamus projektus ir vengti to, kas galėtų atrodyti žeminanti ar vaikiška.
 
-| Feels childish | Feels adult |
+| Atrodo vaikiška | Atrodo suaugusiška |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Blizgučiai, putplasčio lipdukai, akys „žiūrinčios“ | Akvarelinis popierius, audinys, prispaustos gėlės |
+| Multiplikaciniai spalvinimo lapai | Spalvinimo puslapiai su sodais, antklodėmis, automobiliais ar peizažais |
+| „Puikus darbas“ už kiekvieną brūkšnį | Tikras pokalbis: „Tas mėlynas gražiai atrodo šalia žalio“ |
+| Amatas be jokios naudos | Atvirukas draugui, stalo kompozicija, dovana |
+| Instrukcijos skamba kaip pamoka | Kvietimas: „Ar padėtumėte man su tuo?“ |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Pagalvokite apie paties žmogaus skonį. Tas, kuris mėgo rankdarbius, gali džiaugtis audinio liečiamu. Buvęs inžinierius galbūt norės surinkti modelį su dideliais elementais ar rūšiuoti įrankius. Buvusi mokytoja gali mėgti kurti atvirukus.
 
-## Why focus on the process, not the product?
+## Kodėl dėmesys procesui, o ne rezultatui?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Nes svarbiausia yra bendras laikas. Alzheimerio asociacijos vadovas apie [veiklas namuose](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) pataria sutelkti dėmesį į procesą, o ne į rezultatą. Paveikslas, kuris yra „tik mėlynas“, vis tiek yra paveikslas. Koliažas su trimis paveikslėliais vis tiek yra koliažas.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Asociacija taip pat pažymi, kad profesionalus menininkas gali nusivilti dėl savo darbų pokyčių, o mėgėjas gali džiaugtis nauja galimybe išreikšti save. Jei žmogus buvo įgudęs menininkas, pasirinkite kitą techniką nei tą, kuria jis puikiai valdo, kad tai atrodytų kaip žaidimas, o ne palyginimas.
 
-## Arts and crafts ideas to try
+## Meno ir rankdarbių idėjos išbandymui
 
-Each idea includes how to make it simpler if it becomes hard.
+Kiekviena idėja apima, kaip ją supaprastinti, jei darosi sunku.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Akvarelės lietiniai.** Sudrėkinkite storo akvarelinio popieriaus lapą ir leiskite žmogui teptuku didele šepetėliu lašinti spalvas. Spalvos pasklinda savaime, todėl nėra neteisingo rezultato. *Paprasčiau:* siūlykite tik dvi spalvas arba tapykite vandeniu ant tamsaus popieriaus, kuriame matosi šlapi pėdsakai.
+2. **Koliažas iš žurnalų.** Iš anksto iškirpkite paveikslėlius iš žurnalų apie sodininkystę, kulinariją, automobilius, kelionės ar žmogaus senus pomėgius. Leiskite pasirinkti ir priklijuoti vaizdus ant kartono. *Paprasčiau:* pasiūlykite keturias iš anksto iškirptas nuotraukas ir klijų pieštuką, o klijuokite kartu.
+3. **Gėlių kompozicijos.** Alzheimerio ligos fondas siūlo [sudėlioti nupjautas gėles ir žalumynus](https://alzfdn.org/dementia-activity-gardening/) į paprastas sezonines kompozicijas. Naudokite sunkią, stabilią vazą ir jau apkarpytus stiebus. *Paprasčiau:* dėkite po kelis stiebelius į mažą puodelį, po vieną.
+4. **Prispaustų gėlių atvirukai.** Prispauskite gėles iš puokštės tarp knygos lapų savaitę, tada prilipinkite ant sulankstyto kartono. *Paprasčiau:* jūs dedate klijus, o žmogus prispaudžia gėlę.
+5. **Suaugusiems skirti spalvinimo puslapiai.** Rinkitės puslapius su aiškiais kontūrais ir tikromis temomis. Mūsų atspausdinami [spalvinimo puslapiai](/games/coloring/) taip pat gali būti nuspalvinami ekrane bakstelint spalvą, tada paveikslėlio dalį. *Paprasčiau:* didesni plotai, mažiau spalvų, stori flomasteriai.
+6. **Molis ar minkšta masė.** Voliokite, spauskite ir formuokite orą kietėjantį molį ar minkštą modeliavimo masę. Prispaudus lapą į molį, susidaro paprastas atspaudo kvadratėlis. *Paprasčiau:* vien spaudimas ir voliojimas jau yra pilna veikla. Stebėkite, kad žmogus nedėtų molio į burną.
+7. **Atvirukų kūrimas.** Alzheimerio asociacija pataria pateikti tai kaip tikrą užduotį: „Siunčiame linkėjimų atviruką draugui. Ar padėtumėte?“ Iš anksto iškirpti kartonai ir keletas gėlių lipdukų ar antspaudų puikiai tinka.
+8. **Albumų kūrimas.** Kartu įklijuokite senų nuotraukų kopijas, atvirukus ar bilietų kuponus į albumo lapus. Kalbėkite apie kiekvieną. Mūsų [reminiscencijų vadove](/activities/reminiscence/) rasite švelnių būdų kalbėti apie praeitį.
+9. **Audinio ir tekstūros lentos.** Priklijuokite velveto, kordinio, drobės ir šilko skiautes ant standaus kartono. Pats darbas yra veikla; vėliau liesti yra kita veikla. Daugiau idėjų – mūsų [jutiminių veiklų vadove](/activities/sensory/).
+10. **Paprastas medžio apdirbimas.** Žmogui, kuris mėgo medžio darbus, gali būti pažįstama lygaus medžio gabalėlio šlifavimas ar paukščių namelio rinkinio dažymas. Pašalinkite aštrius įrankius ir stebėkite.
+11. **Tapymas pagal muziką.** Įjunkite mėgstamą plokštelę ir tapykite formas ar spalvas, atitinkančias nuotaiką. Tai sujungia dvi veiklas, kurios daugeliui patinka. Žr. [veiklas su muzika](/activities/music/).
 
-## How do I set up an art session?
+## Kaip paruošti meno užsiėmimą?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Pirmiausia paruoškite.** Iškirpkite, apkarpykite ir išdėliokite viską prieš kviesdami žmogų. Jei ieškote žirklių, galite prarasti akimirką.
+2. **Laikykite nedidelį mastą.** Dvi ar trys spalvos, vienas teptukas, vienas lapas popieriaus. Per daug pasirinkimų gali priblokšti.
+3. **Apsaugokite stalą.** Plastikinė staltiesė ar sena paklodė reiškia, kad netvarka nebus rūpestis.
+4. **Sėdėkite šalia.** Dirbkite prie savo darbo šalia jo. Tai atrodo bendra, o ne prižiūrima.
+5. **Padėkite pradėti.** Alzheimerio asociacija pastebi, kad galbūt reikės kartu pradėti teptuko judesį. Pradėjus daugelis žmonių tęsia pats.
+6. **Kalbėkite dirbdami.** Komentuokite spalvas ir tekstūras arba leiskite menui atvesti prie istorijų. Venkite klausimų kaip egzamino, pavyzdžiui: „Kas čia?“
+7. **Skirkite pakankamai laiko.** Projektui nebūtina baigtis per vieną sėdėjimą.
 
-## How do I adapt art as dementia changes?
+## Kaip keisti meną, kai demencija keičiasi?
 
-| Stage | What tends to work | What to adjust |
+| Etapas | Kas paprastai veikia | Ką koreguoti |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Ankstyvas | Užsiėmimai, detalus spalvinimas, albumai, atvirukų kūrimas, tapymas pagal nuotrauką | Siūlykite pasirinkti projektą; išlaikykite socialumą |
+| Vidutinis | Iš anksto iškirptas koliažas, akvarelės lietiniai, gėlių kompozicijos, spalvinimas dideliais plotais | Po vieną žingsnį; kirpimą ir klijavimą atliekate jūs |
+| Vėlyvas | Platūs teptuko brūkšniai, molio spaudimas, audinio liečiamas, stebėjimas, kaip tapote | Dėmesys jutimams; švelniai vadovaukite ranka, jei tai priimtina |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS teigia, kad vėlesniuose etapuose veiklos dažnai supaprastinamos ir sutelkiamos į jutimus. Stebėti, kaip kitas tapo, ir kalbėti apie spalvas – tikras būdas dalyvauti. Daugiau etapais pagrįstų idėjų rasite [veiklose kiekvienam etapui](/activities/ideas/).
 
-## Safety with art supplies
+## Saugumas su meno priemonėmis
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Rinkitės netoksiškus dažus, flomasterius ir klijų pieštukus.
+- Žirkles, meno peilius ir karštųjų klijų pistoletus laikykite nepasiekiamoje vietoje. Kirpkite patys iš anksto.
+- Stebėkite, ar kas nors nededa molio, dažų ar mažų daiktų į burną.
+- Vandeniui ir vazoms naudokite stabilius, sunkius indus.
 
-## When should we stop?
+## Kada baigti?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Sustokite, kai dėmesys išsisklaido ar matyti nusivylimas. Alzheimerio asociacija pataria baigti ar pakeisti veiklą, kai mažėja dėmesio trukmė ar auga nusivylimas. Projektą padėkite saugioje vietoje ir pasiūlykite ką nors ramaus. Galite grįžti prie jo rytoj arba niekada. Abu variantai tinka.
 
-## Display the work, if the person wants
+## Parodykite darbą, jei žmogus nori
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Paveikslo prisegimas prie šaldytuvo ar koliažo įrėmintas gali būti tylus pagarbos ženklas. Pirmiausia paklauskite. Kai kuriems žmonėms patinka matyti savo darbus ant sienos, kiti to nenori.
 
-## Pair art with our games
+## Derinkite meną su mūsų žaidimais
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Dienomis, kai dažų paruošimas per sunkus, [Spalvinimas](/games/coloring/) veikia planšetėje be jokios netvarkos. [Paveikslėlio dėlionė](/games/picture-puzzle/) išlaiko visą paveikslėlį matomą kaip gairę, kol keičiate dalis. [Pokalbių kortos](/games/conversation-cards/) siūlo atviras temas, kurios gali nuvesti nuo paveikslėlio prie istorijos. Visi jie be laikmačio ir taškų. Taip pat galite atsispausdinti puslapius iš mūsų [spausdinamų veiklų](/activities/printable/) rinkinio.

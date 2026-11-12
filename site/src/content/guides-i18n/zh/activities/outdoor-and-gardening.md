@@ -50,7 +50,7 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-对许多人来说，花园是他们最熟悉的地方之一。挖土、浇水、摘花，用的都是很久以前学会的技能；待在户外，则带来新鲜空气、阳光和鸟鸣。[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)列出，照顾植物、种植花卉和蔬菜，以及[谈论植物的生长情况](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)，都是阿尔茨海默病患者可能喜欢的活动。本页介绍可以尝试什么、怎样让花园更容易使用，以及如何应对高温、阳光和走失，保障安全。
+对许多人来说，花园是他们最熟悉的地方之一。挖土、浇水、摘花，用的都是很久以前学会的技能；待在户外，则带来新鲜空气、阳光和鸟鸣。美国国家老龄研究所列出，照顾植物、种植花卉和蔬菜，以及[谈论植物的生长情况](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)，都是阿尔茨海默病患者可能喜欢的活动。本页介绍可以尝试什么、怎样让花园更容易使用，以及如何应对高温、阳光和走失，保障安全。
 
 ## 哪些户外和园艺活动效果好？
 
@@ -117,7 +117,7 @@ health: false
 
 ## 外出时怎样应对走失？
 
-只要对方在户外，就要一直陪在身边。阿尔茨海默病协会表示，[每10位与失智症共同生活的人中，有6位](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)至少会走失一次，而且许多人不止一次。这种情况可以出现在任何阶段。
+只要对方在户外，就要一直陪在身边。阿尔茨海默病协会表示，[每10位与失智症共同生活的人中，有六位](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)至少会走失一次，而且许多人不止一次。这种情况可以出现在任何阶段。
 
 美国国家老龄研究所的[走失与迷路建议](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease)包括：
 
