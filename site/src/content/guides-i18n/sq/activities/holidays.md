@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Aktivitete festash për personin me demencë, nga Thanksgiving e tutje"
+seoTitle: "Ide festash dhe Thanksgiving për demencën"
+description: "Aktivitete të thjeshta festash për personin me demencë: punë në kuzhinë, stolisje, muzikë, foto dhe telefonata video, plus si të planifikoni një festë më të qetë."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Mbajini festat më të vogla, më herët gjatë ditës dhe afër rutinës së zakonshme
+  të personit. Jepini një punë reale dhe të sigurt, si vendosjen e tryezës,
+  larjen e perimeve, mbështjelljen e një dhuratë ose varjen e një stolisjeje.
+  Ndani muzikë të njohur dhe foto të vjetra, përgatitni mysafirët më parë dhe
+  krijoni një dhomë të qetë. Bëni vetëm atë që mund ta menaxhoni me arsye; një
+  festë e shkurtër dhe e qetë është një festë e mirë.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Festoni më herët gjatë ditës, si një drekë ose brunch, nëse konfuzioni i pasdites është i zakonshëm."
+  - "Ofroni punë reale: vendosjen e tryezës, larjen e perimeve, mbështjelljen, stolisjen ose vendosjen e ëmbëlsirës në pjatë."
+  - "Muzika e njohur, këngët e festave dhe albumet e vjetra me foto janë mënyra të lehta për ta ndarë stinën."
+  - "Tregojuni mysafirëve çfarë të presin, dhe tregojini personit fotot e atyre që vijnë."
+  - "Krijoni një dhomë të qetë me një battaniel ose një triko të preferuar, dhe mbajeni numrin e vizitorëve në disa njerëz njëherësh."
+  - "Hiqni dorë nga çdo gjë që është e tepërt, duke përfshirë stolisjet që duken si ushqim dhe dritat e shumta që pulsojnë."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Çfarë mund të bëjë personi me demencë në Thanksgiving?"
+    a: "Jepini një punë të thjeshtë dhe të sigurt që përshtatet me atë që mund të bëjë sot: larjen e perimeve, përzierjen e salcës cranberry, vendosjen e tryezës, palosjen e pecetave ose vendosjen e ëmbëlsirave në pjatë. Më pas, shikoni foto të vjetra familjare ose këndoni bashkë këngë të njohura. Të jesh pjesë e ditës ka më shumë rëndësi sesa rezultati i punës."
+  - q: "A duhet të bëjmë akoma një takim të madh familjar?"
+    a: "Vetëm nëse është e menaxhueshme. Turmat dhe zhurma mund të jenë të tepërta, prandaj shumë familje kalojnë te një takim më i vogël dhe më pak zyrtar, te një vakt më herët, ose te vizitorë që vijnë në grupe të vogla. Alzheimer's Association i inkurajon kujdestarët të bëjnë vetëm atë që mund ta menaxhojnë me arsye dhe në mënyrë të sigurt."
+  - q: "Si i përgatis familjarët që nuk kanë ardhur prej kohësh?"
+    a: "Tregojuni para se të vijnë për ndryshimet që mund t'i vërejnë, dhe që këto vijnë nga sëmundja, jo nga personi. Kërkojuni të mos korrigjojnë dhe të mos pyesin, të flasin një nga një dhe t'i japin kohë për t'iu përgjigjur. T'i tregoni personit fotot e mysafirëve më parë mund të ndihmojë edhe ajo."
+  - q: "Cilat dhurata përshtaten për personin me demencë?"
+    a: "Dhurata të thjeshta dhe të sigurta që mund t'i gëzojë tani: një ushqim të preferuar, një battaniel ose triko të butë, muzikë të njohur, ose një album me foto familjare. Shmangni elektronikën e ndërlikuar, veglat dhe lojërat e vështira me tabelë. Të jesh pjesë e dhënies, si mbështjellja e një dhurate ose paketimi i biskotave që ndihmoi t'i pjekë, mund të jetë vetë një dhuratë."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Festat mund të sjellin kujtime të ngrohta, por edhe zhurmë, turma dhe ndryshime në ditën e zakonshme. Për personin që jeton me demencë, festat më të mira zakonisht janë më të vogla, më të ngadalta dhe të ndërtuara rreth gjërave që ende mund t'i gëzojë. Këto ide funksionojnë për Thanksgiving, Krishtlindje, Hanukkah, Vitin e Ri dhe ditëlindje familjare.
 
-## How do I plan a calmer holiday?
+## Si planifikoj një festë më të qetë?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Nisni nga rutina e personit dhe planifikoni ditën rreth saj. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) sugjeron që festa të mbahet më herët gjatë ditës, sepse konfuzioni dhe shqetësimi shpesh rriten në pasditen e vonë dhe në mbrëmje (quajtur ndonjëherë sundowning). Një drekë ose brunch festiv mund të jetë më e lehtë sesa një darkë e vonë.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Mbajeni të përshtatshme për madhësinë.** Një takim më i vogël dhe më pak zyrtar, ose mysafirë që vijnë disa njëherësh, është shpesh më e lehtë sesa një tryezë e mbushur.
+- **Shpërndani punët.** Kërkoni nga të afërmit të sjellin një gjellë, të bëjnë blerjet ose të kalojnë kohë me personin ndërsa ju gatuani. Jini të saktë për atë që do t'ju ndihmonte.
+- **Mbajeni stolisjen të thjeshtë.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) thekson se dritat që pulsojnë mund të jenë konfuze, dhe se ëmbëlsirat ose frutat artificialë të përdorur si stolisje mund të ngatërrohen me ushqim.
+- **Vendosni çfarë të lini mënjanë.** Nëse një traditë është bërë stresuese ose e rrezikshme, është në rregull ta lini ose ta zëvendësoni me një traditë më të qetë.
 
-## What holiday activities can we do together?
+## Çfarë aktivitetesh festive mund të bëjmë bashkë?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Zgjidhni punë dhe aktivitete që përshtaten me atë që personi mund të bëjë sot. Të jesh pjesë e ditës ka më shumë rëndësi sesa si del rezultati.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Vendosni tryezën bashkë.** Vendosni pjatat e para, pastaj pecetat, pastaj gotat. Palosja e pecetave është punë e mirë për t'u ulur.
+2. **Lani dhe ndani perimet.** Larja e patateve ose pastrimi i fasuleve të gjelbra në tryezën e kuzhinës është e sigurt dhe e njohur për shumë njerëz që dikur gatuanin.
+3. **Përzieni, përziejini ose vendosni në pjatë.** Përzierja e salcës cranberry, përzierja e një brumi të thjeshtë ose vendosja e biskotave në pjatë mban duart të zëna larg sobës dhe thikave.
+4. **Mbështilleni një dhuratë.** Paraprerë prisni letrën dhe shiritin, dhe lërini personin ta palosë dhe ta lëmojë. Mbështjellja e pastër nuk është qëllimi.
+5. **Varni disa stolisje.** Zgjidhni stolisje që nuk thyhen dhe një zonë të vogël, si një kurorë ose një pemë e vogël.
+6. **Bëni një punim të thjeshtë.** Zinxhirë letre, kolazh me gjethe ose një kartolinë festive me pulla funksionojnë mirë. Udhëzuesi ynë për [artin dhe zanatet](/activities/arts-and-crafts/) ka më shumë ide.
+7. **Këndoni dhe dëgjoni.** Këngët e njohura të Krishtlindjes dhe festave janë të lehta për t'u bashkuar, edhe për dikë që flet më pak tani. Shihni [udhëzuesin tonë për muzikën](/activities/music/) për të ndërtuar një listë këngësh.
+8. **Shikoni foto të vjetra festive.** Nxirrni albume nga festat e kaluara dhe ftojeni të tregojë histori („Më trego për këtë tryezë“) në vend që ta pyesni kush është kush. Udhëzuesi ynë për [kujtimet](/activities/reminiscence/) shpjegon si.
+9. **Luani një lojë të butë grupi.** [Bingo me foto](/games/picture-bingo/) printohet në pak minuta dhe funksionon për të gjitha moshat, dhe [kartat e bisedës](/games/conversation-cards/) i japin secilit diçka për të biseduar.
+10. **Ngjyrosni bashkë.** [Faqet për ngjyrosje](/games/coloring/) të thjeshta mund të printohen për fëmijë dhe gjyshër, që t'i ndajnë në tryezë.
+11. **Shikoni një film festiv të preferuar.** Një film i njohur është qetësues, dhe është në rregull të shihet vetëm një pjesë e tij.
+12. **Bëni një udhëtim të shkurtër me makinë për të parë dritat.** Një udhëtim i qetë pranë shtëpive të stolisura mund të jetë më i lehtë sesa një ngjarje e mbushur.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Nëse gatimi ka qenë një pjesë e madhe e jetës së personit, udhëzuesi ynë për [punët e shtëpisë si aktivitete](/activities/household-tasks/) ka më shumë mënyra për t'i bërë punët e kuzhinës të sigurta dhe kënaqëse.
 
-## How do I prepare guests?
+## Si i përgatis mysafirët?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Tregojuni mysafirëve çfarë të presin para se të vijnë, sidomos të afërmve që nuk kanë ardhur prej kohësh. Alzheimer's Association sugjeron t'u shpjegoni se ndryshimet në kujtesë dhe në sjellje vijnë nga sëmundja, jo nga personi.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Ndani disa këshilla të thjeshta:** flisni një nga një, jepini kohë për të mbaruar një mendim, mos korrigjoni dhe mos pyesni, dhe përgjigjuni sipas tonit të personit nëse fjalët janë të vështira për t'u ndjekur.
+- **Thoni çfarë ndihmon dhe çfarë shqetëson.** Nëse zëra të lartë, nxitimi ose tema të caktuara shkaktojnë shqetësim, thojeni.
+- **Prezantoni mysafirët më parë.** Tregojini personit fotot e atyre që vijnë dhe ndani një ose dy histori, ose organizoni një telefonatë ose video të shkurtër para ditës.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+[Këshillat tona për komunikimin](/caregiving/communication-tips/) shkojnë më në detaje.
 
-## What if it gets to be too much?
+## Çfarë nëse bëhet tepër?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Përgatitni një dhomë të qetë para se të vijnë mysafirët, larg zhurmës, me sende rehatie të njohura, si një battaniel ose triko i preferuar, ose një aktivitet të thjeshtë. Ofrojeni herët dhe shpesh: „A ulemi diku më të qetë për pak?“
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Largimi nga tryeza, shkuarja më herët në shtrat ose kalimi i një pjese të ditës është rezultat i mirë, jo dështim. Nëse personi shqetësohet, një zë i qetë, një këngë e njohur ose një shëtitje në një dhomë tjetër shpesh ndihmon më shumë sesa arsyetimi. Udhëzuesi ynë për [shqetësimin e pasdites](/caregiving/late-day-restlessness/) ka më shumë ide për mbrëmjet.
 
-## How can family far away take part?
+## Si mund të marrin pjesë familjarët që janë larg?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Telefonatat video i lejojnë të afërmit të bashkohen pa e shtuar turmën. Alzheimer's Association sugjeron t'u jepni telefonatave pak strukturë, për shembull duke kënduar këngë sezonale, duke ndarë foto nga takimet e kaluara, duke gatuar të njëjtën recetë bashkë ose duke parë një film festiv në të njëjtën kohë. Mbajini telefonatat të shkurtra dhe kërkoni nga njerëzit të flasin një nga një, sepse fjalët e përziera janë të vështira për t'u ndjekur. [Udhëzuesi ynë për telefonatat dhe videot](/activities/phone-and-video-calls/) ka ide hap pas hapi.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Nëse personi jeton në kujdes për kujtesën, kontrolloni politikën e vizitave dhe kërkoni nga stafi t'ju ndihmojë të vendosni një telefonatë. Udhëzuesi ynë për [vizitimin e dikujt në kujdes për kujtesën](/activities/visiting/) mbulon çfarë të sillni dhe si të largoheni mirë.
 
-## What gifts suit someone with dementia?
+## Çfarë dhuratash përshtaten për personin me demencë?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Dhuratat e thjeshta dhe të sigurta që mund t'i gëzojë tani zakonisht funksionojnë më mirë: një ushqim të preferuar, një battaniel ose xhemper të butë, muzikë të njohur, një kalendar me shkronja të mëdha, ose një album me foto familjare. Alzheimer's Association këshillon të shmangen veglat e rrezikshme, elektronika e ndërlikuar dhe lojërat e vështira me tabelë.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Dhënia mund të jetë po aq e rëndësishme sa marrja. Mbështjellja e biskotave që personi ndihmoi t'i pjekë, ose lejimi i tij të mbështjellë një dhuratë që keni blerë, e lejon ta marrë pjesë në stinë. Një lojë me foto familjare është një ide tjetër: [çifte fotografish](/games/photo-pairs/) i kthen disa foto të zgjedhura në një lojë të butë përputhjeje në shfletues.
 
-## Look after yourself too
+## Kujdesuni edhe për veten
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Festat shtojnë punë në kujdesin. Lëreni dikë tjetër të presë ose të gatuajë gjelin e festës, thoni jo ndaj ngjarjeve që do të jenë të vështira, dhe merrni pushime ndërsa të tjerët kalojnë kohë me personin. Nëse ju ose personi që kujdeseni jeni të sëmurë, një përshëndetje nga rruga ose një telefonatë video është një vizitë krejt e mirë. Udhëzuesi ynë për [kujdesin ndaj vetes](/caregiving/caregiver-self-care/) ka më shumë mbështetje.
