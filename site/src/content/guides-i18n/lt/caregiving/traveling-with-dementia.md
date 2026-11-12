@@ -1,7 +1,7 @@
 ---
 title: "Kelionė su žmogumi, gyvenančiu su demencija"
 seoTitle: "Kelionės su demencija: globėjo vadovas"
-description: "Planuokite kelionę su demencija gyvenančiu žmogumi: pasirinkite patogų maršrutą, saugokite įprastą tvarką, susipakuokite būtiniausius daiktus ir numatykite atsarginį planą."
+description: "Planuokite kelionę su demencija gyvenančiu žmogumi: patogus maršrutas, įprasta tvarka, būtiniausi daiktai ir paprastas atsarginis planas."
 section: caregiving
 order: 11
 updated: 2026-11-11

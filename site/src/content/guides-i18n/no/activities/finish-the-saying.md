@@ -58,7 +58,7 @@ Golden Moments tilbyr dette som [et gratis spill med å fullføre ordtak](/games
 5. **Snakk om ordtaket.** Spør hva det betyr for dem, eller hvor de hørte det. Det er her den egentlige verdien ligger.
 6. **Stopp før de blir trette.** Noen ordtak og en latter er en fullstendig økt.
 
-## Å tilby valg uten å quize
+## Å tilby valg uten å stille quiz
 
 Valg med flere alternativer kan gjøre spillet lettere, men de kan også føles som en prøve hvis de blir tilbudt som en utfordring. Hold tonen lett. Si «Vil du høre slutten, eller velge en selv?» i stedet for «Hvilken er det?» Tilby valgene etter en pause, ikke før personen har fått sjansen til å svare.
 

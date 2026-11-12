@@ -83,7 +83,7 @@ Pastāstiet cilvēka ārstam, ja aizdomas ir jaunas, kļūst biežākas vai rada
 
 Pēkšņs apjukums vai straujas izmaiņas uzvedībā vai veselībā prasa steidzamu medicīnisku palīdzību. [NHS norādījumi par pēkšņu apjukumu](https://www.nhs.uk/symptoms/confusion/) saka, ka medicīniskā palīdzība jāsaņem nekavējoties. Izmantojiet vietējo ārkārtas vai steidzamās palīdzības sistēmu tur, kur cilvēks dzīvo.
 
-Ja apvainojums var saistīties ar zagšanu, nolaidību vai vardarbību, pārliecinieties, ka cilvēks ir drošībā, un meklējiet padomu pie uzticama vietēja speciālista vai pieaugušo aizsardzības dienesta. Ja kāds ir tūlītējā briesmā, zvaniet vietējiem ārkārtas dienestiem. Nepēt serioza jautājuma izmeklēšanu vienam, ja tas var apdraudēt jūs vai cilvēku.
+Ja apvainojums var saistīties ar zagšanu, nolaidību vai vardarbību, pārliecinieties, ka cilvēks ir drošībā, un meklējiet padomu pie uzticama vietēja speciālista vai pieaugušo aizsardzības dienesta. Ja kāds ir tūlītējā briesmā, zvaniet vietējiem ārkārtas dienestiem. Neuzņemieties serioza jautājuma izmeklēšanu vienam, ja tas var apdraudēt jūs vai cilvēku.
 
 ## Kā rūpēties par sevi?
 

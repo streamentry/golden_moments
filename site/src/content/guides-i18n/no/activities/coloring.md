@@ -75,7 +75,7 @@ Unngå ark med små, tett fylte felt, som er frustrerende å fargelegge. Utskrev
 ## Slik farger dere sammen
 
 1. **Ta den første strøken sammen.** Hold stiften sammen med dem, eller legg hånden din over deres i noen få strøk, og slipp så.
-2. **Snakk om farger og steder.** «Det er en fin blåfarge. Hvor har du sett vann i den fargen?» inviterer til samtale uten å quize.
+2. **Snakk om farger og steder.** «Det er en fin blåfarge. Hvor har du sett vann i den fargen?» inviterer til samtale uten å stille quiz.
 3. **Ros valgene, ikke pentheten.** «Du valgte så varme farger» føles bedre enn «Du holdt deg innenfor linjene».
 4. **La dem lede.** Hvis de vil tegne over hele arket, la dem gjøre det.
 5. **Stopp når de stopper.** Legg fra deg stiftene, og foreslå en kopp te eller en tur.
@@ -88,4 +88,4 @@ For mer om kreativt arbeid i hver fase, se [kunst og håndarbeid for voksne med 
 
 ## Når du bør stoppe
 
-Stopp hvis personen blir frustrert, skyver papiret bort eller virker trett. Det er en suksess å avslutte etter to minutter hvis de likte det. Dere kan komme tilbake senere, eller prøve et annet bilde eller en annen aktivitet, for eksempel [sanselek](/activities/sensory/).
+Stopp hvis personen blir frustrert, skyver papiret bort eller virker trett. Det er en suksess å avslutte etter to minutter hvis de likte det. Dere kan komme tilbake senere, eller prøve et annet bilde eller en annen aktivitet, for eksempel [sanseaktivitet](/activities/sensory/).

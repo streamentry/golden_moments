@@ -1,7 +1,7 @@
 ---
 title: "Kai žmogus su demencija jūsų neatpažįsta"
 seoTitle: "Demencija: ką pasakyti, kai jūsų neatpažįsta"
-description: "Jei žmogus su demencija jūsų neatpažįsta, ramiai prisistatykite, nekvieskite prisiminti, siūlykite pažįstamus ženklus, jei tai priimtina, ir kreipkitės dėl staigių pokyčių."
+description: "Jei žmogus su demencija jūsų neatpažįsta, ramiai prisistatykite, nekvieskite prisiminti, siūlykite pažįstamus ženklus, jei tinka, ir kreipkitės dėl pokyčių."
 section: caregiving
 order: 32
 updated: 2026-11-11

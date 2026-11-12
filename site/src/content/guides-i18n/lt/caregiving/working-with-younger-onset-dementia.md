@@ -1,7 +1,7 @@
 ---
 title: "Darbas po ankstyvos pradžios demencijos diagnozės"
 seoTitle: "Darbas su ankstyvos pradžios demencija: ką apsvarstyti"
-description: "Apsvarstykite darbo pasirinkimus po ankstyvos pradžios demencijos diagnozės: peržiūrėkite užduotis, pasiteiraukite apie pagalbą, saugokite privatumą ir patikrinkite taisykles."
+description: "Apsvarstykite darbo pasirinkimus po ankstyvos demencijos diagnozės: peržiūrėkite užduotis, pasiteiraukite pagalbos, saugokite privatumą ir patikrinkite taisykles."
 section: caregiving
 order: 31
 updated: 2026-11-11

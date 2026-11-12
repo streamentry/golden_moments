@@ -116,4 +116,4 @@ Noen minner vekker sorg, redsel eller sinne. Hvis personen blir opprørt, ikke p
 
 ## Kombiner med et spill eller en tur
 
-Etter en minneøkt kan et roligt spill holde stemningen lett. Prøv [samtalekort](/games/conversation-cards/) for flere åpne spørsmål, eller [fullfør ordtaket](/games/finish-the-saying/) for kjente fraser fra barndommen. For mer om kommunikasjon generelt, se [kommunikasjonstips for personer med demens](/caregiving/communication-tips/).
+Etter en minneøkt kan et rolig spill holde stemningen lett. Prøv [samtalekort](/games/conversation-cards/) for flere åpne spørsmål, eller [fullfør ordtaket](/games/finish-the-saying/) for kjente fraser fra barndommen. For mer om kommunikasjon generelt, se [kommunikasjonstips for personer med demens](/caregiving/communication-tips/).

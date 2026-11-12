@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Tidlig demens starter før 65. Mange opplever at alderen deres ikke passer med aktivitetene som tilbys."
   - "La personen bestemme selv, fra hvilken hobby de vil prøve til hvilken tur de vil planlegge."
-  - "Musikk, bilder og historier fra 20- til 50-årene er ofte mer meningsfulle enn aktiviteter fra eldre år."
+  - "Musikk, bilder og historier fra tyveårene til femtiårene er ofte mer meningsfulle enn aktiviteter fra eldre år."
   - "Hold dem aktive og sosiale når de vil, og juster tempoet i stedet for å bytte ut aktiviteten."
   - "Omsorgspersoner, særlig partnere og voksne barn, har nytte av støttegrupper med likesinnede."
 faq:
@@ -64,7 +64,7 @@ La personen velge. Å spørre «Hva vil du gjøre i ettermiddag?» er mer respek
 
 ## Bruk musikk og minner fra deres egne år
 
-Musikk og bilder fra personens tyve-, tredve- og førti-år kan gi varme følelser og enkel prat. Vår veiledning om [musikkaktiviteter](/activities/music/) forklarer hvordan du lager en spilleliste, og [minneaktiviteter](/activities/reminiscence/) viser hvordan du deler bilder og historier uten å quize. For et mer voksent spill, prøv [samtalekort](/games/conversation-cards/), med åpne spørsmål om arbeid, reiser, venner og familie.
+Musikk og bilder fra personens tyve-, tredve- og førti-år kan gi varme følelser og enkel prat. Vår veiledning om [musikkaktiviteter](/activities/music/) forklarer hvordan du lager en spilleliste, og [minneaktiviteter](/activities/reminiscence/) viser hvordan du deler bilder og historier uten å stille quiz. For et mer voksent spill, prøv [samtalekort](/games/conversation-cards/), med åpne spørsmål om arbeid, reiser, venner og familie.
 
 Bildepar laget av familiebilder kan også fungere godt, fordi bildene viser mennesker og steder som betyr noe for personen. [Bildepar](/games/photo-pairs/) holder bildene i nettleseren på den enheten.
 

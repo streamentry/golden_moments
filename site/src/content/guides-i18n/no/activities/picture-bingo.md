@@ -7,10 +7,10 @@ order: 24
 updated: 2026-11-08
 translatedFrom: 2026-11-08
 summary: >-
-  Bilde-bingo erstatter tall med store, tydelige bilder, slik at personer kan matche det de ser i stedet for å lese og huske. Skriv ut kort eller bruk en oppringer på skjermen, ropp opp ett bilde om gangen, og la alle merke det de ser. Hold grupper små, bildene kraftige, og gjør det å vinne valgfritt. Den beste bingo-økten er en sosial time, ikke et kappløp mot toppen.
+  Bilde-bingo erstatter tall med store, tydelige bilder, slik at personer kan matche det de ser i stedet for å lese og huske. Skriv ut kort eller bruk en oppringer på skjermen, rop opp ett bilde om gangen, og la alle merke det de ser. Hold grupper små, bildene kraftige, og gjør det å vinne valgfritt. Den beste bingo-økten er en sosial time, ikke et kappløp mot toppen.
 keyPoints:
   - "Bruk bilder i stedet for tall, og gjør hvert bilde stort, tydelig og om én kjent ting."
-  - "Ropp sakte, vis bildet og si navnet. Gjenta navnet én gang, og vent."
+  - "Rop sakte, vis bildet og si navnet. Gjenta navnet én gang, og vent."
   - "Hold grupper på fire til åtte personer, og sett personen der de kan se oppringeren og kortet."
   - "Gjør det å vinne valgfritt. Noen økter kan avsluttes med at alle roper ut et bilde de liker."
   - "Spør før du roper ut en vinner. Noen synes en premie eller et klapp er opprørende, og det er greit."
@@ -18,7 +18,7 @@ faq:
   - q: "Hva er bilde-bingo for demens?"
     a: "Det er en versjon av bingo der store bilder erstatter tall. Spillerne merker bildet på kortet sitt når oppringeren viser eller navngir det. Det passer personer som synes tall er vanskelige, og gjør det lettere å være med."
   - q: "Hvordan kjører jeg bilde-bingo for en gruppe?"
-    a: "Bruk noen sett med utskrevne kort eller en oppringer på skjermen, og ropp ett bilde om gangen. Snakk tydelig, hold bildet opp, og gi folk tid til å finne det. Hold gruppen liten, unngå å haste, og la folk merke kortene sine med en finger, en penn eller en brikke."
+    a: "Bruk noen sett med utskrevne kort eller en oppringer på skjermen, og rop ett bilde om gangen. Snakk tydelig, hold bildet opp, og gi folk tid til å finne det. Hold gruppen liten, unngå å haste, og la folk merke kortene sine med en finger, en penn eller en brikke."
   - q: "Hjelper bilde-bingo hukommelsen?"
     a: "Ingen aktivitet har vist seg å behandle eller bremse demens. Bilde-bingo er et felles, sosialt spill. Verdien ligger i selskapet, lyden av oppringeren og gleden over å finne et bilde, ikke i noen effekt på hukommelsen."
   - q: "Hva om noen vil stoppe, eller ikke finner bildet?"
@@ -70,7 +70,7 @@ Konkurranse kan være et problem. En person som taper kan føle seg testet, og e
 
 - **Alle vinner et bilde.** Hver spiller roper ut ett bilde de liker, og gruppen beundrer det.
 - **Del et helt kort.** Be spillerne si noe om ett bilde på kortet sitt.
-- **Spill til bildene er brukt opp.** Ropp ut alle bildene på et kort, og start et nytt, uten krav på en første vinner.
+- **Spill til bildene er brukt opp.** Rop ut alle bildene på et kort, og start et nytt, uten krav på en første vinner.
 - **Hold premien liten, eller hopp over den.** En kjeks eller en sang fungerer bedre enn en pokal.
 
 ## Tilpasning for personer i senere faser

@@ -91,4 +91,4 @@ Ja neatpazīšana ir jauns modelis, notiek bieži vai rada satraukumu, stāstiet
 
 Pēkšņs apjukums vai straujas izmaiņas uzvedībā vai veselībā prasa steidzamu medicīnisku palīdzību. [NHS norādījumi par pēkšņu apjukumu](https://www.nhs.uk/symptoms/confusion/) saka, ka medicīniskā palīdzība jāsaņem nekavējoties. Izmantojiet vietējo ārkārtas vai steidzamās palīdzības sistēmu tur, kur cilvēks dzīvo.
 
-Neatpazīta būšana var būt grūta abiem. Turiet vārdus vienkāršus, piedāvājiet signālu tikai tad, kad tas palīdz, un ļaujiet cilvēka komfortam noteikt, kas notiks tālāk.
+Neatpazīšana var būt grūta abiem. Turiet vārdus vienkāršus, piedāvājiet signālu tikai tad, kad tas palīdz, un ļaujiet cilvēka komfortam noteikt, kas notiks tālāk.
