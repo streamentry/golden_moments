@@ -1,5 +1,5 @@
 ---
-title: "Når någon med demens ikkje kjenner deg att"
+title: "Når nokon med demens ikkje kjenner deg att"
 seoTitle: "Demens: kva du kan seie når nokon ikkje kjenner deg att"
 description: "Om nokon med demens ikkje kjenner deg att, presenter deg roleg, hopp over minnetestar, bruk kjende signal om det er ønskt, og søk hjelp ved brå endringar."
 section: caregiving

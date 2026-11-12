@@ -128,7 +128,7 @@ Kjende ordtak («Ein spar, ein har...») inviterer alle til å rope ut slutten s
 
 ### Ordsøk med stor skrift, saman
 
-Vis eit ordsøk med stor skrift på ein skjerm og leit etter ord som gruppe, eller skriv ut kopiar til dei som likar å jobbe åleine ved bordet. Ord går berre vassrett og loddrett.
+Vis eit [ordsøk med stor skrift](/games/word-search/) på ein skjerm og leit etter ord som gruppe, eller skriv ut kopiar til dei som likar å jobbe åleine ved bordet. Ord går berre vassrett og loddrett.
 
 ### Forsiktig bevegelse
 

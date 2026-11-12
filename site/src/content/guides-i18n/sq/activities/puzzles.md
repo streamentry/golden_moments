@@ -127,6 +127,6 @@ Kini kujdes për psherëtima, shtyrje të pjesëve larg, „nuk mundem“ të p�
 - **Bëjeni më të vogël.** Më pak pjesë, ose lini për ta vetëm disa të fundit.
 - **Bëni më shumë vetë** dhe ftojeni të ndihmojë në pjesët e lehta.
 - **Kaloni te diçka afër:** renditja e pjesëve sipas ngjyrës, një puzzle online me 4 pjesë, ose [ngjyrosja](/games/coloring/).
-- **Ndaloni.** Vendoseni mënjanë dhe pini një çaj. Mund tëktheheni një ditë tjetër, ose aspak.
+- **Ndaloni.** Vendoseni mënjanë dhe pini një çaj. Mund të ktheheni një ditë tjetër, ose aspak.
 
 Nëse puzzle-t fillojnë të ndihen si një kujtesë e asaj që është e vështirë, është në rregull t'i lini. Ka shumë mënyra të tjera për të kaluar kohë të mirë bashkë; [101 ide aktivitetesh](/activities/ideas/) është një vend i mirë për t'u parë.

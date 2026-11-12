@@ -1,5 +1,5 @@
 ---
-title: "Når någon med demens er mistenkjsam eller anklagar deg"
+title: "Når nokon med demens er mistenksam eller anklagar deg"
 seoTitle: "Demens og mistanke: kva pårørande kan gjere"
 description: "Svar roleg på mistanke om borte gjenstandar, sjekk fakta, hald klare rutinar og spør ein klinikar om nye eller plagsame endringar."
 section: caregiving
@@ -44,7 +44,7 @@ Ei anklage om at du har stole ei lommebok, flytta ei veske eller endra ein banko
 
 [Alzheimer's Association sin guide om mistanke og vrangforestillingar](https://www.alz.org/help-support/caregiving/stages-behaviors/suspicions-delusions) rår til å halde roa, gi eit kort svar og ikkje argumentere. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/delusions) rår òg til å undersøkje bekymringa i staden for å avvise ho berre fordi personen har demens. Denne sida gir generelle idear om kommunikasjon. Ho kan ikkje avgjere om ei bestemt anklage er sann. For eigen rettleiing om å sjå eller høyre ting andre ikkje gjer, sjå [guiden vår om hallusinasjonar og demens](/caregiving/hallucinations-with-dementia/).
 
-## Kva kan eg seie når nokon er mistenkjsam?
+## Kva kan eg seie når nokon er mistenksam?
 
 Svar på bekymringa utan å seie deg einig i noko du ikkje veit er sant. Eit kort, stødig svar kan hjelpe med å halde samtalen open. Til dømes: «Du er uroleg for at lommeboka di er borte. La oss leite saman.» Gjer så ei pause, og legg merke til korleis personen reagerer.
 

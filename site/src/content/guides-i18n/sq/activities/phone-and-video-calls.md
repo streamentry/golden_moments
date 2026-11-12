@@ -51,7 +51,7 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Të jetuarit larg një personi me demencë mund të ndihet i pafuqishëm. Telefonatat dhe thirrjet video nuk zëvendësojnë një përqafim, por mund të krijojnë momente të vërteta lidhjeje kur përgatiten mirë. Shtayi është të ndaloni së provuari një bisedë normale për të përditësuar njëri-tjetrin, dhe të planifikoni diçka të thjeshtë për të ndarë. Kjo faqe mbulon aktivitetet që funksionojnë me video dhe telefon, si ta përgatitni thirrjen dhe çfarë mund të bëjë personi në vend për të ndihmuar.
+Të jetuarit larg një personi me demencë mund të ndihet i pafuqishëm. Telefonatat dhe thirrjet video nuk zëvendësojnë një përqafim, por mund të krijojnë momente të vërteta lidhjeje kur përgatiten mirë. Ajo që duhet është të ndaloni së provuari një bisedë normale për të përditësuar njëri-tjetrin, dhe të planifikoni diçka të thjeshtë për të ndarë. Kjo faqe mbulon aktivitetet që funksionojnë me video dhe telefon, si ta përgatitni thirrjen dhe çfarë mund të bëjë personi në vend për të ndihmuar.
 
 ## Pse të planifikoni një aktivitet për një thirrje?
 
@@ -144,7 +144,7 @@ Nëse jeni bashkëshorti, ndihmësi, vëllai ose stafi që ndihmon me thirrjen, 
 - **Përgatitni një vend të qetë.** Fikni televizorin dhe mbyllni derën.
 - **Filloni vetë thirrjen,** pastaj jepini personit një tablet mbi mbajtëse ose mbajeni në nivelin e syve.
 - **Uluni pranë, jo përballë.** Prania juaj qetëson. Nxitni butësisht nëse nevojitet: „Shiko, është Jenny.“
-- **Jini duart.** Mbani lart foto, prekni lojën,ktheni tabletin për të treguar dhomën.
+- **Jini duart.** Mbani lart foto, prekni lojën, ktheni tabletin për të treguar dhomën.
 - **Vëzhgoni lodhjen ose shqetësimin,** dhe lajmëroni anën tjetër kur është koha për t'u mbyllur.
 - **Tregojini telefonuesit çfarë funksionoi.** „Të pëlqeu qeni“ ndihmon në planifikimin e thirrjes tjetër.
 
@@ -167,4 +167,4 @@ Disa thirrje do të jenë konfuze, të sheshta ose shqetësuese. Kjo nuk është
 
 Qëndroni të pranishëm edhe në mënyra të tjera. Dementia Australia sugjeron dërgimin e kartolinave, email-eve, fotove ose dhuratave të vogla. Një kartolinë javore me një foto të madhe dhe një shënim të shkurtër mund të lexohet përsëri dhe përsëri. [Kartat e bisedës](/games/conversation-cards/) të printuara dhe dërguara me postë te ndihmësi mund t'i japin telefonatës së radhës një temë të gatshme.
 
-Për këshilla mbi zgjedhjen dhe përgatitjen e një tableti, shihni [tabletët dhe ekranet](/caregiving/tablets-and-screens/). Për kohë personalisht, shihni udhëzuesin tonë për [vizitat](/activities/visiting/).
+Për këshilla mbi zgjedhjen dhe përgatitjen e një tableti, shihni [tabletët dhe ekranet](/caregiving/tablets-and-screens/). Për kohë së bashku, shihni udhëzuesin tonë për [vizitat](/activities/visiting/).

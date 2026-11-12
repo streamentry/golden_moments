@@ -1,5 +1,5 @@
 ---
-title: "Når någon med demens blir sint eller aggressiv"
+title: "Når nokon med demens blir sint eller aggressiv"
 seoTitle: "Korleis handtere aggresjon ved demens"
 description: "Lær korleis du kan reagere trygt når sinne blir til aggresjon ved demens, kva som kan bidra, og når du bør søkje medisinsk eller akutt hjelp."
 section: caregiving
