@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Enkel quiz for eldre med demens, utan press"
+seoTitle: "Quizspørsmål for eldre med demens, med svar"
+description: "50 enkle quizspørsmål for eldre med demens, med svaralternativ og samtaleemne, og korleis du kan halde quiz slik at ingen kjenner seg prøvd eller utanfor."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Enkel quiz for eldre med demens fungerer når det føles som ein prat, ikkje ein
+  prøve. Spør om ting som vart lært for lenge sidan, som gamle sangar, ordtak,
+  høgtider og kvardagsliv, og tilby alltid to eller tre val. Gi svaret friteke,
+  stel ingen fram åleine, hald poengrekneskap borte, og bruk kvart svar til å
+  starte ei historie. Spørsmål om «dette eller hint» utan rett svar passar
+  seinare stadium.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Spør om ting ein har kjent lenge: sangar, ordtak, høgtider, mat og kvardagsliv frå før."
+  - "Tilby to eller tre val, slik at svaret kan kjennast igjen i staden for å hentast fram."
+  - "Seg svaret varmt og gå vidare. Ein gjetting som startar ei historie, er ein god gjetting."
+  - "Ingen poeng, ingen lag som konkurrerer, og ingen som vert peikt ut åleine. La svara kome frå heile rommet."
+  - "Når det blir vanskeleg å velje svar, bytt til dette-eller-hint-spørsmål utan rett svar."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Er quiz ein god aktivitet for personar med demens?"
+    a: "Det kan vere det, dersom det blir gjort varsamt. Alzheimer's Foundation of America tek med quiz blant aktivitetar for det tidlege stadiet. Hald spørsmåla på kjende emne, tilby val, sett aldri éin person i ein vanskeleg posisjon, og sjå på svara som ein veg inn i samtale heller enn som ein prøve."
+  - q: "Kva emne fungerer best i demensquiz?"
+    a: "Ting som vart lært for lenge sidan, fungerer best: populære sangar og artistar frå den eldre tida til personen, kjende ordtak, høgtider, mat, sport og kvardagsliv, som mjølkeleveransar og skivetelefonar. Unngå nyhende frå nyleg tid og alt som krev å hugse noko frå tidlegare i same samvær."
+  - q: "Korleis held eg quiz i ein omsorgsbustad utan at nokon blir flau?"
+    a: "Les kvart spørsmål opp for heile gruppa, vis eller seie alternativa, og ønsk svar velkomne frå kven som helst. Ikkje peik ut enkeltpersonar og ikkje før poeng. Seie svaret med eit smil uansett kva som vart gjetta, og spør ei oppfølgingsfrage som «Er det nokon her som nokon gong har vore på ein drive-in?» for å gjere det om til historier."
+  - q: "Kva kan eg gjere i staden for quiz i seinare stadium?"
+    a: "Bytt til spørsmål utan feil svar, som «Kaffi eller te?» eller «Strand eller fjell?», og til å fullføre kjende ordtak eller sangar saman. Å sjå på bilete og skildre dei saman fungerer også godt."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Quiz er ei av dei mest etterspurde gruppeaktivitetane på omsorgsbustader og dagtilbod, og mange familiar spelar det ved kjøkkenbordet òg. Blir det køyrt på den vanlege måten, med poeng og éin person som svarar, kan det få ein person med demens til å kjenne seg sett på staden. Køyrt varsamt er det ein livleg måte å høyre historier på. Under finn du 50 enkle spørsmål med svaralternativ og noko å snakke om til kvart, og deretter korleis du kan halde ein økt.
 
-## How do you make trivia work for someone with dementia?
+## Korleis får du quiz til å fungere for ein person med demens?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Gjer det til å handle om å kjenne att og hugse ting frå lang tid tilbake, og gjer kvart svar velkomment.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Spør om den fjerne fortida.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) seier at det vanlegaste tidlege symptomet på Alzheimer er vanskar med å hugse nylært informasjon. Sangar, ordtak og kvardagsliv frå for fleire tiår sidan er ofte lettare grunn å stå på.
+2. **Gi alltid val.** Å velje rett svar frå to eller tre er mykje lettare enn å hente det fram frå ingenting.
+3. **Les spørsmåla høgt og vis dei store.** Ei kvitetavle eller eit nettbrett som blir halde opp, hjelper folk som høyrer dårleg.
+4. **Gi svaret friteke.** Om ingen veit, seie det varmt og gå vidare. Aldri «Kom igjen, du veit dette.»
+5. **Ingen poeng.** Verken for enkeltpersonar eller for bord. Om folk vil ha eit tal, hald éin samla gruppesum.
+6. **Peik aldri ut éin person.** La svara kome frå kven som helst. I eit ein-til-ein-samvær svarar de saman: «Eg trur det er pianoet. Kva meiner du?»
+7. **Bruk samtaleemnet.** Svaret er starten, ikkje slutten. Historiene er det eigentlege målet.
+8. **Hald det kort.** Ti spørsmål med historier imellom er nok.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) seier kjernereglen enkelt: følg med på frustrasjon, og sjå til at personen kjenner seg vellukka. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) tek med quiz blant aktivitetar for det tidlege stadiet. I det midtre stadiet, hald deg til to val og støtt deg til samtaleemna. Seinare kan du bytte til dette-eller-hint-spørsmåla lenger ned.
 
-## Music and entertainment trivia
+## Musikk- og underhaldningsquiz
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Svaret står i **fet skrift**. Tilpass desse til personen: nokon som vaks opp med Motown vil ha andre artistar enn nokon som vaks opp med storband.
 
-| Question | Choices | Talk about |
+| Spørsmål | Alternativ | Snakk om |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Kven vart kalla Rock and Roll-kongen? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Såg du nokon gong Elvis på TV? |
+| Kva artist vart kalla Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Kva Sinatra-song likar du best? |
+| Bing Crosby drøymde om ein kvit ... | **Jul**, bryllaup, hus | Syng ei line saman |
+| Louis Armstrong sang «What a Wonderful ...» | Dag, **verda**, liv | Kva gjer verda vakker for deg? |
+| «Over the Rainbow» vart sungen av Judy Garland i kva film? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Kvar såg du dei favorittfilmane dine? |
+| Kven spelte Lucy i «I Love Lucy»? | **Lucille Ball**, Doris Day, Betty White | Kva program såg familien din saman? |
+| Kva cowboy red på hesten sin Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Lekte du cowboy som barn? |
+| Kven var vert for «The Tonight Show» i 30 år? | Ed Sullivan, **Johnny Carson**, Bob Hope | Blei du oppe seint for å sjå på TV? |
+| Kva instrument har 88 tangentar? | Gitar, **piano**, trompet | Spelte nokon i familien din? |
+| Kva dans blir telt ein-to-tre, ein-to-tre? | **Vals**, twist, tango | Kvar gjekk du og dansa? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+For meir om musikk, sjå [musikkaktivitetar for demens](/activities/music/).
 
-## Everyday life trivia
+## Kvardagsquiz
 
-| Question | Choices | Talk about |
+| Spørsmål | Alternativ | Snakk om |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Før kjøleskap heldt mange heimar maten kald i ein ... | **Isskap**, ovn, loft | Kven leverte isen? |
+| Kven kom med mjølka til døra i glasflasker? | Postmannen, **mjølkemannen**, avisguten | Kva anna vart levert til huset? |
+| Korleis ringte du på ei skiveteljar? | Trykte på knappar, **snudde eit hjul**, snakka til den | Fortel meg om telefonen i huset ditt |
+| Kva selskap laga Model T-bilen? | **Ford**, Chevrolet, Buick | Fortel meg om ein bil du likte |
+| Kvar fann du ein soda jerk? | **Ein sodabar**, eit bakeri, ein bank | Kva bestilte du ved disken? |
+| Kva leike er ei metallfjør som kan gå nedover trappa? | Jojo, **Slinky**, hula-hoop | Kva leikar elska du? |
+| Ein drive-in var ein stad der du såg ... | **Filmar frå bilen din**, ballkampar, paradar | Kven gjekk du saman med? |
+| Kven sitt ansikt er på eindollarseddelen? | Lincoln, **George Washington**, Jefferson | Kva kunne ein dollar kjøpe den gongen? |
+| Kven sitt ansikt er på pennyen? | **Abraham Lincoln**, Washington, Franklin | Sparte du pennyar i ei krukke den gongen? |
+| Kva farge har ein skulebuss vanlegvis? | Raud, **gul**, blå | Korleis kom du deg til skulen? |
 
-## Holidays, nature and places
+## Høgtider, natur og stader
 
-| Question | Choices | Talk about |
+| Spørsmål | Alternativ | Snakk om |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Kva høgtid er på den fjerde torsdagen i november? | Arbeidarens dag, **Thanksgiving**, Minnedagen | Kva stod alltid på bordet ditt? |
+| Jack-o'-lanterns vert laga til kva høgtid? | **Halloween**, påske, jul | Fortel meg om Halloween der du voks opp |
+| Den fjerde juli feirar ein Declaration of ... | Rettar, **Independence**, fridom | Kvar såg du fyrverkeri? |
+| Morsdag er i kva månad? | April, **mai**, juni | Korleis feira familien din? |
+| Kor mange stjerner er det på det amerikanske flagget? | 48, **50**, 52 | Flagget hadde 48 stjerner fram til 1959. Begge svara er gode minne |
+| Kva hav ligg på austkysten? | Stillehavet, **Atlanterhavet**, Polhavet | Har du nokon gong vore på stranda? |
+| Kva by står Frihetsgudinna i? | Boston, **New York**, Philadelphia | Har du vore i New York? |
+| Kva lagar bier? | Mjølk, **honning**, silke | Honning på brød eller i te? |
+| Ein kalv blir kalla ein ... | Føll, **kalv**, kje | Har du nokon gong budd nær ein gard? |
+| Kva høg, gul blome er kjend for å snu seg mot sola? | Rose, **solsikke**, tulipan | Kva voks i hagen din? |
+| Kor mange dagar er det i eit skotår? | 365, **366**, 360 | Fortel meg om ein bursdag du hugsar |
+| Kva årstid kjem etter vinteren? | Haust, **vår**, sommar | Kva er di favorittårstid? |
 
-## Food and sports trivia
+## Mat- og idrettsquiz
 
-| Question | Choices | Talk about |
+| Spørsmål | Alternativ | Snakk om |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rosinar er tørka ... | Plommer, **druer**, kirsebær | Pakka du rosinar i matpakkene? |
+| Sviskar er tørka ... | **Plommer**, fikner, eple | Kven i familien din elska sviskar? |
+| Peanøttsmør og ... | **Syltetøy**, ost, skinke | Krykkande eller glatt? |
+| Guacamole er laga mest av ... | Erter, **avokado**, agurk | Kva dipper kom fram på festar? |
+| Kva pai er ein favoritt til Thanksgiving? | **Gresskarpai**, sitronpai, kirsebærpai | Kva pai laga du? |
+| Kor mange spelarar har eit baseballag ute på banen? | 7, **9**, 11 | Kva lag heia du på? |
+| Kor mange strikar gjer ein ut i baseball? | To, **tre**, fire | Spelte du nokon gong ball? |
+| Babe Ruth var kjend for kva idrett? | Boksing, **baseball**, golf | Gjekk du på ballkampar? |
+| Kor mange hol er det på ein vanleg golfbane? | 9, **18**, 24 | Har du nokon gong spelt golf, eller minigolf? |
+| I kva idrett scorar du eit touchdown? | **Amerikansk fotball**, ishockey, basketball | Kven såg på fotball heime hos dykk? |
 
-## Familiar sayings
+## Kjende ordtak
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Å fullføre eit ordtak tek utgangspunkt i språk lært for lenge sidan, og det kjem ofte lett. Spelet vårt [Fullfør ordtaket](/games/finish-the-saying/) har mange fleire, med eit trykk for å vise kvar som helst avslutning.
 
-| Saying | Choices | Talk about |
+| Ordtak | Alternativ | Snakk om |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Eit eple om dagen held ... | **legen borte**, regnet borte, katta borte | Kven pleidde å seie dette til deg? |
+| Den tidlege fuglen fangar ... | Bussen, **ormen**, toget | Er du ein morgonmenneske? |
+| Ikkje tel kyllingane før dei ... | **klekkjer seg**, sover, syng | Heldt familien din høner? |
+| Ein spar ein krone, og ein ... | **tener ein**, mistar ein, brukar ein | Kven var spararen i familien din? |
+| Heime er der ... | hagen er, **hjarta er**, kjøkkenet er | Kva får ein stad til å kjennast som heime? |
+| Betre seint enn ... | tidleg, **aldri**, unnskyld | Kven kom alltid for seint? |
+| Kvar sky har ei sølv ... | **kant**, skei, mynt | Fortel meg om eit heldig gjennombrot |
+| Gjerningar talar høgare enn ... | **ord**, musikk, torden | Fortel meg om nokon som sa det |
 
-## This-or-that questions with no wrong answer
+## Dette-eller-hint-spørsmål utan rett svar
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Desse passar alle stadium, også seinare, fordi det ikkje er noko å ha rett i. Spør, lytt, og del også ditt eige svar.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kaffi eller te?
+- Strand eller fjell?
+- Hund eller katt?
+- Sommar eller vinter?
+- Pai eller kake?
+- Dansing eller å sjå på?
+- Soloppgang eller solnedgang?
+- Framtrappa eller bakhagen?
+- Radio eller plater?
+- Pannekaker eller egg?
+- Roser eller tusenfryd?
+- Togtur eller bilferie?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+For samtalespørsmål som høyrer til bilete, prøv våre utskrivbare [Samtalekort](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Korleis køyrer du ein quizøkt på omsorgsbustad eller i ei gruppe?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Sett folk slik at dei kan sjå og høyre.** Høyrselsapparat i, briller på, TV-en av.
+2. **Introduser det som ein prat.** «Eg har nokre spørsmål om den gamle tida, og eg veit at du kan meir enn meg.»
+3. **Les kvart spørsmål to gonger og vis alternativa store.**
+4. **Ønsk svar velkomne frå kvar som helst i rommet.** Gjenta gode svar, slik at alle høyrer dei.
+5. **Seie svaret for alle,** og still så samtaleemnet til heile rommet.
+6. **Følg energien.** Om eitt spørsmål startar ti minutt med historier, la det gå.
+7. **Avslutt med ein song eller ein dette-eller-hint-runde,** slik at alle endar på noko lett.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+For andre gruppeformat, mellom anna bingo med bilete og songsamlingar, sjå [gruppeaktivitetar for omsorgsbustader](/activities/care-home-groups/).
 
-## When to change the plan
+## Når du bør endre planen
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Om nokon ser bekymra ut, blir stille eller seier «Eg veit ikkje» meir enn éin gong, gjer det lettare: gå ned til to val, svar saman, eller bytt til dette-eller-hint-spørsmål. Om gruppa heller vil snakke om eitt spørsmål heile ettermiddagen, er det ei suksess. Målet var aldri dei rette svara. Det var tid i godt selskap.

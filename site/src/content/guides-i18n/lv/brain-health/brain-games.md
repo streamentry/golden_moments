@@ -1,33 +1,34 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Vai smadzeņu spēles novērš demenci? Ko rāda pierādījumi"
+seoTitle: "Vai smadzeņu spēles novērš demenci? Pierādījumi"
+description: "Ko pētījumi saka par smadzeņu spēlēm un demenci: kognitīvo stimulāciju, datoru treniņus, ACTIVE pētījumu un FTC lietu par Lumosity vienkārši izskaidrots."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Nevienai smadzeņu spēlei nav pierādīts, ka tā novērš demenci. Datorizēti
+  smadzeņu treniņi galvenokārt uzlabo tos uzdevumus, ko cilvēks trenē. Viens
+  pētījums no ACTIVE izmēģinājuma saistīja konkrētu ātruma treniņu ar papildu
+  atkārtotām sesijām un retākām demences diagnozēm 20 gadu laikā, taču tas ir
+  šaurs secinājums. Cilvēkiem, kas jau dzīvo ar demenci, grupu kognitīvā
+  stimulācija dod nelielu, īslaicīgu labumu. Spēles vislabāk baudīt prieka un
+  sabiedrības dēļ.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Pētījumi par smadzeņu treniņiem rāda, ka cilvēki kļūst labāki tajos uzdevumos, ko trenē, taču pierādījumu, ka tas attiecas uz ikdienas dzīvi, ir daudz mazāk."
+  - "ACTIVE izmēģinājumā tikai cilvēkiem, kas veica konkrētu ātruma treniņu un papildu atkārtotas sesijas, 20 gadu laikā bija retākas demences diagnozes. Ātruma treniņš bez atkārtotām sesijām, kā arī atmiņas un spriešanas treniņš šādu efektu neuzrādīja."
+  - "2016. gadā Lumosity ražotājs samaksāja 2 miljonus dolāru, lai nokārtotu FTC apsūdzības par to, ka trūka zinātnisku pierādījumu apgalvojumiem par demences kavēšanu."
+  - "Cilvēkiem ar vieglu līdz vidēji smagu demenci kognitīvās stimulācijas grupas dod nelielu, īslaicīgu labumu domāšanai un skaidrākus uzlabojumus saziņā un sociālajā mijiedarbībā."
+  - "Golden Moments spēles ir paredzētas baudai un kopīgam laikam. Tās nav ārstēšana, un tās nenovērš un neapstādina demenci."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Vai smadzeņu spēles novērš Alcheimera slimību?"
+    a: "Nav pierādīts, ka kāda smadzeņu spēle novērstu Alcheimera slimību vai citu demenci. Nacionālais novecošanās institūts saka, ka nav pietiekami pierādījumu tam, ka komerciālām smadzeņu treniņa lietotnēm ir tādi paši efekti kā pētījumos. Spēles joprojām var būt patīkams veids, kā pavadīt laiku."
+  - q: "Ko ACTIVE pētījums atklāja par ātruma treniņu un demenci?"
+    a: "2026. gada analīzē ACTIVE dalībnieki tika saistīti ar Medicare ierakstiem 20 gadu garumā. Cilvēkiem, kas veica apstrādes ātruma treniņu un vismaz vienu atkārtotu sesiju, bija zemāks diagnosticētas demences īpatsvars nekā grupā bez treniņa. Ātruma treniņš bez atkārtotām sesijām, kā arī atmiņas vai spriešanas treniņš nedeva būtisku efektu."
+  - q: "Vai mīklas un spēles ir labas cilvēkam, kam jau ir demence?"
+    a: "Var būt, ja cilvēkam tās patīk. Grupu kognitīvā stimulācija, kas ietver vārdu spēles, mīklas, mūziku un sarunas, dod nelielu, īslaicīgu labumu domāšanai un skaidrākus ieguvumus saziņā un sociālajā mijiedarbībā. Mērķis ir prieks, nevis testa rezultāts."
+  - q: "Kāpēc FTC uzlika naudas sodu Lumosity?"
+    a: "2016. gadā Federālā tirdzniecības komisija apsūdzēja Lumos Labs, ka tās spēļu apgalvojumi, tostarp par vecumam saistītā pasliktināšanās un demences kavēšanu, nebija pamatoti ar zinātni. Uzņēmums piekrita samaksāt 2 miljonus dolāru un turpmāk pirms šādiem apgalvojumiem iegūt ticamus zinātniskus pierādījumus."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +59,87 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Smadzeņu spēles ir visur, un daudzas sola, ka prāts paliks jauns. Ja jūs rūpējaties par cilvēku ar demenci vai uztraucaties par savu atmiņu, ir dabiski domāt, vai to spēlēšana varētu palīdzēt. Šeit ir tas, ko pētījumi patiesībā rāda, gan iepriecinošās, gan neiepriecinošās daļas.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Šī ir vispārīga informācija, nevis medicīniska konsultācija. Skatiet mūsu [medicīnisko atrunu](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Vai smadzeņu spēles novērš demenci?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Nevienai smadzeņu spēlei nav pierādīts, ka tā novērš demenci. Nacionālais novecošanās institūts (NIA) iesaka būt piesardzīgiem pret apgalvojumiem, ka datorspēles un tiešsaistes spēles uzlabo atmiņu, un norāda, ka nav pietiekami pierādījumu tam, ka kāda komerciāla smadzeņu treniņa lietotne dod tādu pašu efektu kā klīniskajos pētījumos pārbaudītais treniņš ([NIA par Alcheimera slimības profilaksi](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Tas nenozīmē, ka spēles nav noderīgas. Tas nozīmē, ka to vērtība slēpjas baudā, sabiedrībā un rutīnā, nevis aizsardzībā pret demenci.
 
-## What is "near transfer", and why does it matter?
+## Kas ir „tuvā pārnese” un kāpēc tas ir svarīgi?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Kad jūs trenējat uzdevumu, parasti kļūstat labāki tajā pašā uzdevumā. Pētnieki to sauc par treniņa efektu. Sarežģītāks jautājums ir, vai uzlabojums pārnesas uz citām lietām: uz līdzīgiem uzdevumiem (tuvā pārnese) vai uz ikdienas dzīvi, piemēram, atcerēties tikšanās vai pārvaldīt naudu (tālā pārnese).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Lielā 2016. gada pārskatā tika pētīti pētījumi, ko smadzeņu treniņu uzņēmumi minēja kā labākos pierādījumus. Tajā tika atrasts plašs pierādījumu daudzums tam, ka cilvēki uzlabojas trenētajos uzdevumos, mazāk pierādījumu tam, ka uzlabojas līdzīgos uzdevumos, un gandrīz nekādu pierādījumu tam, ka treniņš uzlabo ikdienas domāšanu. Daudziem pētījumiem bija arī dizaina trūkumi, kas neļāva izdarīt drošus secinājumus ([Simons un kolēģi, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Ko saka pārskati par datorizētiem smadzeņu treniņiem?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane pārskati, kas apkopo labākos pieejamos izmēģinājumus, ir pētījuši datorizētu treniņu, kas ilgst vismaz 12 nedēļas:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Veseli pieaugušie 65 gadu vecumā un vecāki:** astoņi izmēģinājumi ar 1183 cilvēkiem. Pierādījumu kvalitāte bija zema vai ļoti zema. Var būt neliels labums tūlīt pēc treniņa, bet nav skaidru pierādījumu, ka tas saglabājas ([Cochrane pārskats, veseli vecāki pieaugušie](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Cilvēki ar vieglu kognitīvu traucējumu:** astoņi izmēģinājumi ar 660 cilvēkiem. Neviens izmēģinājums neziņoja, vai cilvēki vēlāk saslima ar demenci, un pierādījumi bija pārāk vāji, lai izdarītu secinājumus ([Cochrane pārskats, vieglu kognitīvo traucējumu gadījumā](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Ko atklāja ACTIVE izmēģinājums?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE ir liels ASV izmēģinājums, kas sākās 1998. gadā ar 2802 pieaugušajiem vecumā 65 gadi un vecāki, kas dzīvoja patstāvīgi un neuzrādīja būtiskas atmiņas vai domāšanas problēmas. Dalībnieki nejauši tika iedalīti vienā no trim mazu grupu treniņu veidiem (apstrādes ātrums, atmiņa vai spriešana) vai kontroles grupā bez kontakta. Treniņš bija līdz desmit sesijām piecu līdz sešu nedēļu laikā. Daži cilvēki, kas bija apmeklējuši lielāko daļu sesiju, nejauši saņēma arī **atkārtotas sesijas** aptuveni pēc viena un trim gadiem.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Ātruma treniņš ietvēra vizuālas informācijas atpazīšanu un apstrādi arvien īsākos acu mirklīšos, un līmenis mainījās atkarībā no tā, cik labi cilvēks progresēja.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+2026. gadā pētnieki 2021 dalībnieku ierakstus saistīja ar Medicare datiem 20 gadu garumā ([ACTIVE 20 gadu analīze](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)). Lūk, precīzi, ko viņi atklāja:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Ātruma treniņš plus vismaz viena atkārtota sesija:** zemāks diagnosticētas demences īpatsvars nekā kontroles grupā bez kontakta (riska attiecība 0,75, kas aptuveni nozīmē par 25% zemāku īpatsvaru).
+- **Ātruma treniņš bez atkārtotām sesijām:** nav zemāka īpatsvara.
+- **Atmiņas vai spriešanas treniņš:** nav būtiska efekta uz demences diagnozēm.
+- **Katra treniņa grupa kopumā salīdzinājumā ar kontroles grupu bez kontakta:** tendence uz zemāku īpatsvaru, bet ne statistiski būtiska.
 
-### The limits of this finding
+### Šī atklājuma robežas
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Tas attiecas uz **vienu konkrētu veidu uzraudzītu ātruma treniņu ar atkārtotām sesijām**, nevis uz smadzeņu spēlēm kopumā.
+- Būtiskais rezultāts nāca no **apakšgrupas** (cilvēki, kas pabeidza lielāko daļu sākotnējo sesiju un saņēma atkārtotas sesijas), nevis no visas ātruma grupas.
+- Demence tika mērīta, izmantojot **diagnožu kodus Medicare prasījumos**, nevis pārbaudot katru cilvēku. Aptuveni ceturtdaļa sākotnējo dalībnieku tika izslēgti, jo bija iekļauti Medicare Advantage, kur nav pilnu prasījumu ierakstu.
+- Dalībniekiem sākumā nebija būtisku domāšanas problēmu. Rezultāti neko neizsaka par spēlēm cilvēkiem, **kas jau dzīvo ar demenci**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Tas ir interesants rezultāts, kas pelnās vairāk pētījumu. Tas nav pierādījums, ka kāda lietotne novērš demenci.
 
-## What did the FTC say about Lumosity?
+## Ko FTC teica par Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+2016. gada janvārī Lumos Labs, Lumosity ražotājs, piekrita samaksāt 2 miljonus dolāru, lai nokārtotu Federālās tirdzniecības komisijas apsūdzības par maldinošu reklamu. FTC norādīja, ka uzņēmums apgalvoja bez pietiekamas zinātniskas bāzes, ka tā spēles var uzlabot sniegumu darbā un skolā un var kavēt ar vecumu saistītu pasliktināšanos, vieglus kognitīvus traucējumus, demenci un Alcheimera slimību. Rīkojums prasa uzņēmumam pirms šādu apgalvojumu izteikšanas nākotnē iegūt kompetentus un ticamus zinātniskus pierādījumus ([FTC preses relīze](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Mācība ģimenēm: esiet skeptiski pret jebkuru spēli, lietotni vai programmu, kas sola aizsargāt atmiņu vai novērst demenci.
 
-## Can games help someone who already has dementia?
+## Vai spēles var palīdzēt cilvēkam, kam jau ir demence?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Tās var padarīt labu dienu vēl labāku, un tas ir ļoti svarīgi. Vislabāk pētītā pieeja ir **kognitīvā stimulācija**: patīkamas grupu nodarbības, piemēram, diskusijas, atmiņu stāsti, vārdu spēles, mīklas un mūzika, parasti mazā grupā, ko vada vadītājs.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+2023. gada Cochrane pārskatā par 37 izmēģinājumiem ar 2766 cilvēkiem ar vieglu līdz vidēji smagu demenci tika atrasts ([Cochrane pārskats par kognitīvo stimulāciju](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- **nelielu, īslaicīgu labumu** domāšanas testos (vidējas kvalitātes pierādījumi);
+- **klīniski nozīmīgus uzlabojumus saziņā un sociālajā mijiedarbībā** (augstas kvalitātes pierādījumi, no mazāka pētījumu skaita);
+- **nelielu labumu** dzīves kvalitātei, garastāvoklim un uzvedībai.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Labumi tika mērīti galvenokārt tūlīt pēc programmām, kas ilga aptuveni desmit nedēļas, un maz pētījumu pārbaudīja, vai tie saglabājas. Kognitīvā stimulācija ir strukturēta grupu programma, tāpēc šie rezultāti automātiski neattiecas uz cilvēku, kas spēlē spēli vienatnē planšetdatorā.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+2024. gada Lancet komisija arī norāda, ka aktivitāšu programmas ir svarīgas cilvēkiem, kas dzīvo ar demenci, lai saglabātu prieku un jēgu ([Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Kam spēles patiesībā ir noderīgas?
 
-When chosen well, games can offer:
+Ja tās izvēlētas labi, spēles var dot:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Prieku.** Patīkama pusstunda ir vērtīga pati par sevi.
+- **Saikni.** Spēlēšana blakus dod kaut ko viegli kopīgu, kad saruna ir grūta. Skatiet, [kā spēlēt kopā](/caregiving/how-to-play-together/).
+- **Rutīnu.** Pazīstama aktivitāte katru dienu vienā un tajā pašā laikā var sniegt mieru.
+- **Pašapziņu.** Aktivitātes, kas atbilst tam, ko cilvēks joprojām labi spēj, ļauj justies spējīgam, nevis pārbaudītam.
+- **Sarunu.** Attēls vai pazīstams teiciens var atvērt stāstu. Izmēģiniet [sarunu kartītes](/games/conversation-cards/) vai [pabeidziet teicienu](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Ko izvairīties: taimerus, punktus, sēriju skaitījumus un visu, kas šķiet kā atmiņas tests. Ja cilvēks kļūst neapmierināts, apstājieties. Agrāka beigšana vai vienkārša kopā sēdēšana ir labs rezultāts. Mūsu rokasgrāmatā par [lietotņu un spēļu izvēli](/caregiving/choosing-apps-and-games/)  ir kontrolsaraksts.
 
-## Where Golden Moments fits
+## Kur ir Golden Moments
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments spēles, piemēram, [attēlu pāri](/games/picture-pairs/), [attēlu puzle](/games/picture-puzzle/) un [liela drukas meklēšanas spēle](/games/word-search/), ir paredzētas baudai un kopīgam laikam. Tām nav pulksteņa un nav punktu. Tās **nav** ārstēšana, un tās **nenovērš** un **neapstādina** demenci. Mēs labprātāk to pateiksim skaidri, nekā apsolīsim to, ko neviena spēle nevar sniegt.
 
-## Talk with a doctor
+## Runājiet ar ārstu
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Ja jūs uztraucaties par atmiņas izmaiņām sevī vai kādā, par ko rūpējaties, vērsieties pie ārsta, nevis paļaujieties uz lietotni. Ārsts var meklēt ārstējamus cēloņus un pārrunāt soļus, kuriem ir labākie pierādījumi, piemēram, asinsspiediena kontroli un dzirdes pārbaudi. Papildu informāciju skatiet sadaļā [Vai demenci var novērst?](/brain-health/can-dementia-be-prevented/). Pēkšņas apjukuma vai citām pēkšņām izmaiņām meklējiet tūlītēju medicīnisku palīdzību.

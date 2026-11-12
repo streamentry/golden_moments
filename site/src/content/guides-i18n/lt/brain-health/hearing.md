@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Klausos praradimas ir demencijos rizika: ką rodo tyrimai"
+seoTitle: "Klausos praradimas ir demencija: ką rodo tyrimai"
+description: "Kodėl klausos praradimas yra viena pagrindinių demencijos rizikos priežasčių, ką iš tikrųjų nustatė ACHIEVE klausos aparatų tyrimas ir kaip patikrinti klausą."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 m. Lancet komisija įvardija klausos praradimą kaip vieną didžiausių keičiamų
+  demencijos rizikos veiksnių. ACHIEVE tyrime klausos aparatai bendrai nesulėtino
+  mąstymo nuosmukio, nors didesnės rizikos pogrupyje nuosmukis buvo mažesnis. Klausos
+  aparatai tiek vienu, tiek kitu atveju padeda pokalbiams ir kasdieniam gyvenimui.
+  Patikrinkite klausą, apsvarstykite receptinius ar be recepto parduodamus aparatus ir
+  pasikalbėkite su gydytoju.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet komisija apskaičiuoja, kad klausos praradimas lemia apie 7 % demencijos atvejų pasaulyje, o tarp 14 veiksnių jis turi didžiausią dalį kartu su dideliu LDL cholesterolio kiekiu."
+  - "ACHIEVE tyrime, kuriame dalyvavo 977 vyresnio amžiaus suaugusieji, klausos aparatai per trejus metus bendrai nepakeitė mąstymo nuosmukio."
+  - "Mažesnėje didesnės rizikos ACHIEVE grupėje mąstymo nuosmukis su klausos aparatais buvo 48 % lėtesnis; tai reikia patvirtinti."
+  - "Nuo tada, kai spalio mėnesį leista, JAV suaugusieji, pajutę lengvą ar vidutinio sunkumo klausos praradimą, gali nusipirkti FDA reguliuojamus klausos aparatus be recepto."
+  - "2024 m. negydomas regos praradimas buvo pridėtas kaip demencijos rizikos veiksnys, todėl svarbūs ir akių patikrinimai."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Ar klausos aparatai užkerta kelią demencijai?"
+    a: "Tai neįrodyta. ACHIEVE tyrime per trejus metus nerasta bendro poveikio mąstymo nuosmukiui, nors viena didesnės rizikos grupė pasirodė geriau. Klausos aparatus vis tiek verta apsvarstyti, nes jie palengvina pokalbius, saugumą ir kasdienį gyvenimą."
+  - q: "Kas gali įsigyti be recepto parduodamus klausos aparatus?"
+    a: "FDA leidžia 18 metų ir vyresniems suaugusiems, pajutusiems lengvą ar vidutinio sunkumo klausos praradimą, įsigyti be recepto parduodamus klausos aparatus parduotuvėse ar internetu be recepto. Jie nėra skirti stipriam klausos praradimui. Jei yra ausies skausmas, skystis iš ausies, svaigulys ar staigūs klausos pokyčiai, pirmiausia kreipkitės į gydytoją."
+  - q: "Ar klausos praradimas gali atrodyti kaip demencija?"
+    a: "Kartais taip. Nacionalinis senėjimo institutas pažymi, kad vyresnio amžiaus žmonės, kurie blogai girdi, kartais klaidingai laikomi sutrikusiais, neatsakingais ar nebendradarbiaujančiais. Klausos patikrinimas yra protingas žingsnis, kai žmogus atrodo atsitraukiantis ar nesuprantantis, ką jam sako."
+  - q: "Kaip dažnai vyresnio amžiaus žmonės turėtų tikrinti akis?"
+    a: "Nacionalinis senėjimo institutas pataria kas metus ar kas dvejus metus po 60 metų atlikti išplėstinį akių patikrinimą su vyzdžio išplėtimu arba kaip rekomenduoja jūsų akių priežiūros specialistas. Žmonėms su diabetu ar aukštu kraujospūdžiu paprastai reikia bent kartą per metus."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,138 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Klausos praradimas vyresniame amžiuje yra dažnas, o mokslininkai jį rimtai vertina kaip demencijos
+rizikos veiksnį. Tai nereiškia, kad klausos aparatai yra įrodytas būdas užkirsti kelią demencijai:
+geriausias iki šiol atliktas tyrimas davė prieštaringų rezultatų. Šiame puslapyje paaiškinama, ką
+rodo tyrimai, kaip patikrinti klausą, kas yra JAV be recepto parduodami klausos aparatai ir kaip
+palengvinti pokalbį.
 
-## Why does hearing matter for brain health?
+## Kodėl klausa svarbi smegenų sveikatai?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Klausos praradimas susijęs su didesne demencijos rizika. [2024 m. Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0)
+apskaičiuoja, kad jis lemia apie 7 % demencijos atvejų pasaulyje. Pagal
+[UCL pranešimo santrauką](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors),
+tai jį pastato kartu su dideliu LDL cholesterolio kiekiu į didžiausios dalies vietą tarp 14 keičiamų
+rizikos veiksnių komisijos modelyje.
 
-Key findings from the Commission:
+Pagrindiniai komisijos radiniai:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Didesnė rizika esant klausos praradimui.** Jos apibendrintoje analizėje šešių aukštos kokybės tyrimų
+  žmonės su klausos praradimu turėjo maždaug 37 % didesnę demencijos riziką nei žmonės su normaliu
+  klausos lygiu.
+- **Didesnis praradimas – didesnė rizika.** Tyrimai, kuriuose vertintas sunkumas, nustatė, kad rizika
+  didėja, kai klausa blogėja.
+- **Galimos priežastys, dar neįrodytos.** Tarp idėjų yra vienatvė ir atsitraukimas, depresija, mažesnis
+  smegenų stimuliavimas ir papildomas protinis krūvis, kurį reikalauja klausymasis.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Klausos praradimas yra dažnas. [Nacionalinis senėjimo institutas (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults)
+sako, kad apie trečdalis vyresnio amžiaus suaugusiųjų jį turi, o tikimybė didėja su amžiumi.
 
-## What did the ACHIEVE hearing aid trial find?
+## Ką nustatė ACHIEVE klausos aparatų tyrimas?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE buvo pirmasis atsitiktinių imčių tyrimas apie klausos aparatus ir mąstymo nuosmukį. Jo rezultatai
+dažnai neteisingai pateikiami, todėl čia – detalės iš [paskelbtos tyrimo ataskaitos](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Kas dalyvavo:** 977 suaugusieji nuo 70 iki 84 metų su negydomu klausos praradimu ir be reikšmingų
+  mąstymo problemų, keturiose JAV bendruomenės vietose.
+- **Ką lygino:** pusė gavo klausos aparatus ir konsultacijas su audiologu. Kita pusė gavo sveikos senatvės
+  švietimo programą.
+- **Pagrindinis rezultatas:** po trejų metų mąstymo nuosmukio skirtumo tarp dviejų grupių bendrai **nebuvo**.
+- **Pogrupio rezultatas:** tyrimas rekrutavo dalyvius iš dviejų šaltinių. 238 žmonės atėjo iš ilgai vykdomo
+  širdies sveikatos tyrimo (ARIC) ir kaip grupė buvo didesnės mąstymo nuosmukio rizikos. Šioje grupėje
+  nuosmukis su klausos aparatais buvo **48 % lėtesnis**. Tarp 739 sveikų bendruomenės savanorių aiškaus
+  poveikio nebuvo.
 
-How to read this honestly:
+Kaip tai vertinti sąžiningai:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Bendras atsakymas – poveikio nėra.
+- Pogrupio radinys buvo numatytas iš anksto, tačiau gautas iš antrinės analizės mažesnėje grupėje. Jį reikia
+  patvirtinti kituose tyrimuose.
+- Dalyviai žinojo, kurioje programoje dalyvauja, o tai gali paveikti rezultatus.
+- Lancet komisija vertina įrodymus taip, kad klausos aparatai ypač naudingi žmonėms, turintiems klausos
+  praradimą kartu su kitais demencijos rizikos veiksniais.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Esmė: klausos aparatai nėra įrodytas būdas užkirsti kelią demencijai. Jie padeda žmonėms girdėti, dalyvauti
+pokalbiuose ir išlikti susijusiems su kitais, o tai jau yra pakankamai priežasčių juos apsvarstyti.
 
-## How do I know if hearing should be checked?
+## Kaip sužinoti, ar reikia patikrinti klausą?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA pataria kreiptis į gydytoją, jei jūs ar jūsų globojamas žmogus:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Sunkiai supranta žmones telefonu
+- Sunkiai seka pokalbį, kai kalba du ar daugiau žmonių
+- Dažnai prašo žmonių pakartoti
+- Taip garsiai įjungia televizorių, kad kiti skundžiasi
+- Sunkiai supranta kalbą, kai yra fono triukšmas
+- Mano, kad kiti, atrodo, murmėte
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Pradėkite nuo šeimos gydytojo, kuris gali nukreipti jus pas audiologą (klausos specialistą) ar otolaringologą
+(ausų, nosies ir gerklės gydytoją). Ausies sieros kaupimasis yra dažna klausos praradimo priežastis, kurią
+gydytojas gali patikrinti. **Staigus klausos praradimas yra skubi medicininė situacija**, ir NIA pataria
+nedelsiant kreiptis į gydytoją.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Klausos praradimą galima supainioti su sumišimu. NIA pažymi, kad vyresnio amžiaus žmonės, kurie blogai
+girdi, kartais klaidingai laikomi sutrikusiais, nereaguojančiais ar nebendradarbiaujančiais. Jei artimas
+žmogus atrodo atsitraukęs ar nesupranta, ką jam sako, klausos patikrinimas yra geras ankstyvas žingsnis.
 
-## What are over-the-counter hearing aids?
+## Kas yra be recepto parduodami klausos aparatai?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Nuo to laiko, kai spalio mėnesį [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know)
+leido parduoti be recepto parduodamų klausos aparatų kategoriją. Štai kaip jie lyginasi su receptiniais:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Savybė | Be recepto parduodami klausos aparatai | Receptiniai klausos aparatai |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Kam skirti | 18 metų ir vyresniems suaugusiems, pajutusiems lengvą ar vidutinio sunkumo klausos praradimą | Bet kokio lygio klausos praradimas, bet kokio amžiaus |
+| Kur įsigyti | Parduotuvėse ar internetu, nereikia tyrimo ar recepto | Per licencijuotą klausos specialistą |
+| Pritaikymas | Nustatymus keičiate patys, dažnai per programėlę | Specialistas juos sureguliuoja pagal jūsų klausą |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA sako, kad be recepto parduodami aparatai nėra skirti stipriam ar gilaus klausos praradimui. Ji pataria
+prieš pirkimą kreiptis į gydytoją, geriausia į otolaringologą, jei turite:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Ausies skausmą ar diskomfortą
+- Skystį, pūlius ar kraują iš ausies per pastaruosius šešis mėnesius
+- Staigius ar kintančius klausos pokyčius
+- Blogesnę klausą vienoje ausyje ar girdimą zvimbimą tik vienoje ausyje
+- Svaigulį ar vertigo
+- Daug ausies sieros
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Pripratimas prie klausos aparatų reikalauja praktikos, todėl, kaip pataria FDA, prieš pirkdami patikrinkite
+grąžinimo taisykles. NIA pataria paklausti, ar draudimas padengia dalį išlaidų. Žmogui, gyvenančiam su
+demencija, audiologas gali padėti nuspręsti, koks aparatas ir koks pritaikymas bus lengviausiai valdomas
+kasdien.
 
-## How can I talk more easily with someone who has hearing loss?
+## Kaip lengviau kalbėtis su žmogumi, turinčiu klausos praradimą?
 
-The NIA suggests:
+NIA pataria:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Atsisukite į žmogų ir palaikykite akių kontaktą**, esant geram apšvietimui, kad jis matytų jūsų lūpas ir
+   veido išraiškas.
+2. **Raskite ramią vietą.** Išjunkite televizorių arba eikite toliau nuo triukšmo.
+3. **Kalbėkite šiek tiek garsiau, bet nerėkite.** Kalbėkite natūraliai ir protingu tempu.
+4. **Laikykite burną laisvai.** Nevalgykite, nekramtykite gumos ir nedengkite burnos kalbėdami.
+5. **Perfrazuokite, o ne kartokite**, kai kas nors praleista.
+6. **Vienas žmogus vienu metu.** Grupėje sąmoningai įtraukite žmogų.
+7. **Būkite kantrūs ir paklauskite, kaip galite padėti.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Šie patarimai gerai dera su mūsų [bendravimo patarimais demencijai](/caregiving/communication-tips/). Veiklos,
+paremtos paveikslėliais, taip pat sumažina klausymosi įtampą. [Paveikslėlių poros](/games/picture-pairs/) ir
+[Pokalbių kortos](/games/conversation-cards/) remiasi tuo, ką matote, o [Baik posakį](/games/finish-the-saying/)
+leidžia parodyti pabaigą, o ne ją ištarti. Skambučiams žr. mūsų vadovą apie [telefono ir vaizdo skambučius](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Regėjimas taip pat svarbus
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 m. Lancet komisija pridėjo negydomą regos praradimą kaip naują rizikos veiksnį. UCL santrauka tai
+įvertina maždaug 2 % demencijos atvejų, o komisija rekomenduoja visiems prieinamą regos problemų tikrinimą ir
+gydymą. [NIA pataria](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) kas metus ar kas
+dvejus metus po 60 metų atlikti išplėstinį akių patikrinimą su vyzdžio išplėtimu, taip pat patikrinti akinių
+recepto galiojimą. Net nedideli regos pokyčiai gali padidinti kritimų riziką.
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Pasitarkite su gydytoju dėl klausos ir regos patikrinimų, jei pastebite kuriuos nors iš aukščiau minėtų ženklų.
+Nedelsdami kreipkitės pagalbos dėl staigaus klausos praradimo, ausies skausmo ar skysčio iš ausies. Jei rūpinatės
+žmogumi, gyvenančiu su demencija, pasakykite jo gydytojui apie klausos ar regos pokyčius, nes jie gali paveikti
+nuotaiką, saugumą ir tai, kaip žmogus gali dalyvauti.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Tai bendra informacija, ne medicininė konsultacija. Žr. mūsų [medicininį atsakomybės apribojimą](/medical-disclaimer/).
+Daugiau apie [socialinį ryšį ir smegenų sveikatą](/brain-health/social-connection/) skaitykite čia.

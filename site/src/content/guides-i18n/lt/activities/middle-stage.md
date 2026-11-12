@@ -1,32 +1,33 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Veiklos vidutinės stadijos demencijos atveju"
+seoTitle: "Vidutinės stadijos demencijos veiklos: paprastos idėjos"
+description: "Paprastos veiklos vidutinės stadijos demencijai: naudingi darbai, muzika, nuotraukos ir lengvi žaidimai, su žingsnis po žingsnio paruošimu ir patarimais."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Vidutinės stadijos demencijos atveju geriausios yra trumpos, pažįstamos
+  veiklos, suskaidytos į atskirus žingsnius: skalbinių lankstymas, kojinių
+  poravimas, indų plovimas, dainavimas, vedami pasivaikščiojimai, nuotraukų
+  albumai ir paprasti paveikslėlių žaidimai. Paruoškite viską, parodykite
+  pirmą žingsnį, perimkite sunkiausias dalis ir suteikite veiklai prasmę.
+  Sustokite, kai ji nebenuteikia malonumo.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Pažįstami buitiniai darbai dažnai tinka geriausiai, nes atrodo naudingi ir suaugusiam žmogui pritinkantys."
+  - "Rodykite, o ne aiškinkite, siūlykite po vieną žingsnį ir du paprastus pasirinkimus vietoj atvirų klausimų."
+  - "Perimkite sunkiausią dalį, kad žmogus galėtų atlikti patenkinantį darbo dalį."
+  - "Neramus elgesys dažnai reiškia, kad žmogui reikia užsiėmimo. Pasiūlykite tinkamą veiklą vietoj draudimo."
+  - "Stebėti, šiek tiek padėti ar anksti baigti – visa tai gerai."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Kokios veiklos tinka vidutinės stadijos demencijai?"
+    a: "Dažniausiai geriausiai tinka trumpos, pažįstamos, rankomis atliekamos veiklos: mėgstamų rankšluosčių lankstymas, kojinių poravimas, indų plovimas, stalo klojimas, dainavimas kartu su senais mėgstamais kūriniais, vedami pasivaikščiojimai, žiūrėjimas į nuotraukų albumus ir paprasti paveikslėlių žaidimai. Kiekvieną veiklą suskaidykite į atskirus žingsnius ir atlikite kartu."
+  - q: "Kaip paskatinti žmogų su demencija pradėti veiklą?"
+    a: "Viską paruoškite, tada pradėkite veiklą patys ir pakvieskite prisidėti: „Ar galėtumėte man padėti su šiais rankšluosčiais?“ Daugelis žmonių nori dalyvauti, bet sunkiai pradeda. Pirmo žingsnio parodymas paprastai veikia geriau nei paaiškinimas."
+  - q: "Ką daryti, kai žmogus kartoja tą patį veiksmą?"
+    a: "Kartojimas dažnai yra nekenksmingas ir gali reikšti, kad žmogus nori jaustis užimtas arba jam reikia nuraminimo. Vietoj taisymo pasiūlykite veiklą, atitinkančią tą judesį, pavyzdžiui, krepšį skalbinėlių lankstymui arba dainą, kurią galima dainuoti kartu."
+  - q: "Ką daryti, jei veiklą atlieka netinkamai?"
+    a: "Jei tai nekenksminga, leiskite taip ir būti. Kitaip sulankstyti rankšluosčiai ar šaukštai ne toje vietoje nėra svarbu. Taisymas gali atrodyti kaip kritika, o leidimas daryti savaip padeda žmogui jaustis gebančiu ir naudingu."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +49,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Vidutinė demencijos stadija dažnai yra ilgiausia, ir būtent tada veikloms reikia tikros pagalbos. Žodžiai ateina sunkiau, žingsniai susipainioja, o bet kokią pradžią gali būti sunku įveikti. Tačiau noras būti naudingam ir įsitraukti paprastai išlieka. Su nedidelėmis paruošimo pastangomis žmogus vidutinėje stadijoje dar gali patirti nemažai malonumo, ypač atlikdamas pažįstamus darbus, klausydamasis muzikos ir žiūrėdamas nuotraukas šalia jūsų.
 
-## What activities work well in middle-stage dementia?
+## Kokios veiklos gerai tinka vidutinės stadijos demencijai?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Geriausiai veikia trumpos, pažįstamos, rankomis atliekamos veiklos, suskaidytos į atskirus žingsnius. [Alcheimerio asociacija](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) teigia, kad nereikia išrasti naujų dalykų: veiklos gali būti įprasto gyvenimo dalis, pavyzdžiui, kartu gaminant vakarienę, sodinant, klausantis muzikos ar einant pasivaikščioti.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alcheimerio fondas Amerikoje](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) pažymi, kad šios stadijos žmonės dažnai labai nori jaustis reikalingi ar rūpintis kuo nors, ir jiems gali reikėti pagalbos pradedant ar tęsiant veiklą. Jo vidutinės stadijos sąraše yra skalbinių lankstymas, indų plovimas, kojinių rūšiavimas, lengvi pratimai, šokiai pagal pažįstamą muziką, vedami pasivaikščiojimai, dainavimas kartu, paprasta tapyba ir nuotraukų albumų žiūrėjimas.
 
-## How do you set up an activity so it works?
+## Kaip paruošti veiklą, kad ji pavyktų?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Dauguma veiklų pavyksta ar nepavyksta paruošimo metu. Šie įpročiai, paremti [Alcheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/activities) ir [Šeimos slaugytojų aljansas](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) patarimais, daro didžiausią skirtumą:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Išvalykite erdvę.** Išjunkite televizorių, uždarykite duris ir padėkite tik tai, ko reikia veiklai.
+2. **Pradėkite patys.** Pradėkite lankstyti ar maišyti ir pakvieskite prisijungti: „Ar galėtumėte man padėti su šiuo?“
+3. **Parodykite ir palaukite.** Pademonstruokite vieną žingsnį. Rodykite rankos judesiu, pavyzdžiui, kur dedama lėkštė.
+4. **Duokite po vieną žingsnį.** „Perlenkite per pusę“ yra lengviau nei „sulankstykite šiuos ir sudėkite pagal spalvas“.
+5. **Siūlykite du pasirinkimus, o ne atvirus klausimus.** „Mėlynus rankšluosčius ar baltus?“ atsakyti lengviau nei „Ką norite daryti?“
+6. **Sunkiausią dalį atlikite patys.** Jūs matuojate, jie maišo. Jūs įverkite adatą, jie suvynioja siūlą.
+7. **Suteikite priežastį.** „Šios servetėlės skirtos sekmadienio pietums“ daro darbą tikru.
+8. **Leiskite stebėti, jei taip geriau.** Jungtinių Valstijų Nacionalinis senėjimo institutas [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pažymi, kad tiesiog stebėti taip pat gali būti malonu.
 
-## Activity ideas for the middle stage
+## Veiklų idėjos vidutinei stadijai
 
-### Useful jobs
+### Naudingi darbai
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Sulankstykite rankšluosčius ir skalbinėlius.** Maži, plokšti daiktai lengviausi. Krepšį šiltų skalbinėlių galima lankstyti, glostyti ir lankstyti iš naujo.
+- **Poruokite kojines.** Pradėkite nuo kelių labai skirtingų porų. Rūšiuoti tik pagal spalvą taip pat tinka.
+- **Plaukite ar džiovinkite nesudūžtančius indus.** Šiltas muilinis vanduo maloniai veikia rankas. Džiovinti sėdint lengviau kojoms.
+- **Padėkite stalą.** Duokite po vieną daiktų rūšį ir vieną vietą nustatykite patys kaip pavyzdį.
+- **Padėkite gaminti vakarienę.** Plauti bulves, plėšyti salotas ar maišyti dubenį. Peilį ir ugnį tvarkote jūs.
+- **Šluokite, dulkinkite ar valykite.** Audinys stalui, lengvas šepetys verandai.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Daugiau idėjų rasite [buities darbų skiltyje](/activities/household-tasks/).
 
-### Music and movement
+### Muzika ir judesys
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Dainuokite mėgstamas dainas.** Pradėkite dainuoti patys; daugelis žmonių prisijungia prie dainų, kurias pažino dešimtmečius. Žr. [muzikos veiklas](/activities/music/).
+- **Šokite laisvai.** Sūpuokitės, plakite delnais ar judėkite taip, kaip patinka. Sėdint taip pat gerai.
+- **Mėtykite balioną.** Jis juda lėtai ir lengvai pagaunamas sėdint.
+- **Eikite vedamo pasivaikščiojimo.** Kartu nueikite trumpą, pažįstamą ratą, jei padeda – susikibę už rankų.
 
-### Pictures and stories
+### Paveikslėliai ir istorijos
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Žiūrėkite nuotraukų albumą.** Komentuokite tai, ką matote, o ne klauskite: „Žiūrėk, tas automobilis. Papasakok apie jį.“ Žr. [prisiminimų veiklas](/activities/reminiscence/).
+- **Naudokite pokalbio korteles.** [Pokalbio kortelės](/games/conversation-cards/) sieja paveikslėlį su atviru, testo neprimenančiu klausimu.
+- **Kartu pažiūrėkite senesnį filmą.** Pasirinkite pažįstamą, būkite šalia ir daryti pertraukėles.
 
-### Simple, pressure-free games
+### Paprasti žaidimai be spaudimo
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Paveikslėlių poros su matomais paveikslėliais.** [Paveikslėlių poros](/games/picture-pairs/) leidžia paveikslėliams likti matomiems, todėl tai apie pastebėjimą, o ne apie prisiminimą.
+- **Raskite tą patį.** [Raskite tą patį](/games/find-the-same/) rodo vieną paveikslėlį ir tik du–keturis pasirinkimus.
+- **Rūšiuokite kartu.** [Rūšiuokite kartu](/games/sort-together/) primena skalbinių rūšiavimą ekrane: palieskite paveikslėlį, tada jo krepšį.
+- **Paveikslėlių bingas.** [Paveikslėlių bingas](/games/picture-bingo/) gerai tinka šeimos susibūrimams ir grupėms.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Jei žaidimas pradeda kelti nusivylimą, sustokite ir darykite ką nors kita. Žr. [kaip žaisti kartu](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Neramumą paverčiant veikla
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Neramus ar kartojamas elgesys dažnai turi priežastį. Šeimos slaugytojų aljansas pažymi, kad žmogus, kuris nuolat iškrato spintą, gali bandyti patenkinti poreikį jaustis užimtam ir naudingam. „Alzheimer's Association“ rekomenduoja nukreipti tą energiją į atitinkamą veiklą, o ne ją stabdyti.
 
-| What you see | Something to offer |
+| Ką matote | Ką pasiūlyti |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Trinasi ar kramto stalą | Drėgną audinį ir prašymą nuvalyti stalą |
+| Neramios kojos ar barbenimas | Muziką su aiškiu ritmu, prie kurio galima plakti ar ploti |
+| Krato stalčius ar spintą | Krepšį drabužių ar skalbinėlių lankstymui ir rūšiavimui |
+| Vėl ir vėl klausia tą patį | Nuraminimą, tada dainą ar bendrą darbą |
+| Vaikšto pirmyn atgal | Pasivaikščiojimą kartu arba darbą, susijusį su daiktų nešimu |
+| Vakaro nerimas | Ramią, pažįstamą užduotį geroje šviesoje; žr. [vakaro neramumą](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kada sustoti ar pakeisti kryptį
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Sustokite, kai matote nuovargio, nusivylimo, gėdos ar nuobodulio ženklus, pavyzdžiui, nerimstančius judesius, susiraukimą, daiktų stūmimą nuo savęs ar žodžius „negaliu“. „Alzheimer's Association“ pataria bandyti dar kartą kitu dienos metu arba supaprastinti veiklą. Nespauskite. Atsisakymas gali kilti iš baimės arba iš to, kad užduotis per sunki; žr. [kai jie sako ne](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Anksti baigti – gerai. Gerai ir tiesiog kartu sėdėti su puodeliu arbatos. Kai gebėjimai toliau keičiasi, geriau gali tikti idėjos iš [vėlyvosios stadijos veiklų](/activities/late-stage/), o [101 veikla](/activities/ideas/) turi daug kitų pasiūlymų.

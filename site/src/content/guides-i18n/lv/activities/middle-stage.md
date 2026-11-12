@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktivitātes vidējā demences stadijā"
+seoTitle: "Aktivitātes vidējā stadijā: vienkāršas idejas"
+description: "Vienkāršas aktivitātes vidējā demences stadijā: noderīgi darbi, mūzika, fotogrāfijas un vienkāršas spēles, kā sagatavoties un kā nemieru novirzīt uz nodarbi."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Vidējā demences stadijā labākās aktivitātes ir īsas, pazīstamas un sadalītas atsevišķos soļos: veļas salocīšana, zeķu kārtošana, trauku mazgāšana, dziedāšana, vadītas pastaigas, fotoalbumi un vienkāršas attēlu spēles. Sagatavojiet, parādiet pirmo soli, paņemiet grūtāko daļu uz sevi un dodiet aktivitātei mērķi. Apstājieties, kad tā vairs nesagādā prieku.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Pazīstami mājas darbi bieži darbojas vislabāk, jo tie šķiet noderīgi un pieaugušajiem atbilstoši."
+  - "Parādiet, nevis tikai stāstiet, piedāvājiet vienu soli vienlaikus un divas vienkāršas izvēles atklātu jautājumu vietā."
+  - "Paņemiet uz sevi grūtāko daļu, lai cilvēks varētu izdarīt apmierinošo daļu."
+  - "Nemiers bieži nozīmē, ka cilvēkam vajag ko darīt. Piedāvājiet atbilstošu aktivitāti, nevis sakiet nē."
+  - "Vērošana, neliela palīdzība vai agra apstāšanās ir visas pieļaujamas."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Kādas aktivitātes ir labas vidējā demences stadijā?"
+    a: "Parasti vislabāk darbojas īsas, pazīstamas, praktiskas aktivitātes: dvieļu salocīšana, zeķu saliekšana pārī, trauku mazgāšana, galda klāšana, dziedāšana līdzi mīļām dziesmām, vadītas pastaigas, fotoalbumu skatīšanās un vienkāršas attēlu spēles. Sadaliet katru aktivitāti atsevišķos soļos un darbojieties kopā."
+  - q: "Kā panākt, lai cilvēks ar demenci sāktu aktivitāti?"
+    a: "Sagatavojiet visu, tad pats sāciet aktivitāti un aicinājiet palīdzēt: „Vai varētu palīdzēt man ar šiem dvieļiem?” Daudzi cilvēki vēlas piedalīties, bet grūti sākt. Parādīt pirmo soli parasti darbojas labāk nekā to izskaidrot."
+  - q: "Ko darīt, ja viņi atkārtoti dara vienu un to pašu?"
+    a: "Atkārtošana bieži ir nekaitīga un var liecināt, ka cilvēks vēlas justies aizņemts vai ir vajadzīgs mierinājums. Tā vietā, lai labotu, piedāvājiet aktivitāti, kas atbilst kustībai, piemēram, grozu sejas lupatiņu salocīšanai vai dziesmu kopīgai dziedāšanai."
+  - q: "Ko darīt, ja viņi aktivitāti veic nepareizi?"
+    a: "Ja tas ir nekaitīgi, ļaujiet tam būt. Dvieļi salocīti citādi vai karotes nepareizā vietā nav svarīgi. Labošana var šķist kā kritika, bet, ļaujot darīt pa savam, cilvēks jūtas spējīgs un noderīgs."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Vidējā demences stadija bieži ir visilgākā, un tieši tad aktivitātēm sāk vajadzēt īstu atbalstu. Vārdi nāk grūtāk, soļi sajaucas, un pat uzsākt kaut ko var būt grūti. Tomēr vēlme būt noderīgam un iesaistītam parasti paliek. Ar nelielu sagatavošanu cilvēks vidējā stadijā joprojām var baudīt pārsteidzoši daudz, īpaši pazīstamus darbus, mūziku un attēlus, ko dara līdzās jums.
 
-## What activities work well in middle-stage dementia?
+## Kādas aktivitātes labi darbojas vidējā demences stadijā?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Labi darbojas īsas, pazīstamas, praktiskas aktivitātes, kas sadalītas atsevišķos soļos. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) norāda, ka jums nav jāizdomā kaut kas jauns: aktivitātes var būt ikdienas dzīves daļa, piemēram, kopīga vakariņu gatavošana, dārzkopība, mūzikas klausīšanās vai pastaiga.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) atzīmē, ka cilvēkiem šajā stadijā bieži ir spēcīga vajadzība justies noderīgiem vai rūpēties par kaut ko, un viņiem var būt vajadzīga palīdzība, lai uzsāktu vai turpinātu aktivitātes. Tās vidējās stadijas sarakstā ir veļas salocīšana, trauku mazgāšana, zeķu kārtošana, vienkārši vingrinājumi, deja pazīstamas mūzikas pavadījumā, vadītas pastaigas, kopīga dziedāšana, vienkārša glezniecība un fotoalbumu skatīšanās.
 
-## How do you set up an activity so it works?
+## Kā sagatavot aktivitāti, lai tā izdodas?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Vairums aktivitāšu izdodas vai neizdodas jau sagatavošanas posmā. Šie paradumi, kas balstīti uz [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) un [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) ieteikumiem, dod vislielāko atšķirību:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Sakārtojiet telpu.** Izslēdziet televizoru, aizveriet durvis un izvietojiet tikai to, kas aktivitātei vajadzīgs.
+2. **Sāciet pats.** Sāciet salocīt vai maisīt un aicinājiet pievienoties: „Vai varētu man palīdzēt ar šo?”
+3. **Parādiet un pagaidiet.** Demonstrējiet vienu soli. Norādiet vai vadiet ar roku, piemēram, parādot, kur likt šķīvi.
+4. **Dodiet vienu soli vienlaikus.** „Salociet uz pusēm” ir vieglāk nekā „salociet šos un sakrāmējiet pēc krāsas”.
+5. **Piedāvājiet divas izvēles, nevis atklātus jautājumus.** „Zilos dvieļus vai baltos?” ir vieglāk atbildēt nekā „Ko jūs vēlaties darīt?”
+6. **Paveiciet grūtāko daļu paši.** Jūs mērāt, viņi maisa. Jūs ievērat adatu, viņi satin dzijas kamolu.
+7. **Dodiet tam iemeslu.** „Šīs salvetes būs svētdienas vakariņām” padara darbu īstu.
+8. **Ļaujiet vērot, ja tā vēlas.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) norāda, ka vienkārša vērošana arī var sagādāt prieku.
 
-## Activity ideas for the middle stage
+## Aktivitāšu idejas vidējai stadijai
 
-### Useful jobs
+### Noderīgi darbi
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Salociet dvieļus un sejas lupatiņas.** Mazi, plakani priekšmeti ir vieglākie. Siltu sejas lupatiņu grozu var salocīt, izlīdzināt un salocīt atkal.
+- **Saliekiet zeķes pārī.** Sāciet ar dažiem ļoti atšķirīgiem pāriem. Kārtošana tikai pēc krāsas arī ir labi.
+- **Mazgājiet vai slaukiet traukus, kas nesalūst.** Silts ziepjūdens rokām ir patīkams. Slaucīt sēdus ir vieglāk kājām.
+- **Klājiet galdu.** Pasniedziet vienu priekšmetu veidu vienlaikus un vienu vietu nolieciet paši kā paraugu.
+- **Palīdziet gatavot vakariņas.** Mazgāt kartupeļus, plēst salātus vai maisīt bļodā. Nazi un karstumu turiet pie sevis.
+- **Slaukiet, putekļojiet vai noslaukiet.** Drāniņa galdam, viegla slota uz verandas.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Vairāk ideju skatiet [mājas darbos](/activities/household-tasks/).
 
-### Music and movement
+### Mūzika un kustība
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Dziediet mīļākās dziesmas.** Sāciet dziedāt paši; daudzi pievienojas dziesmām, ko zina desmitiem gadu. Skatiet [mūzikas aktivitātes](/activities/music/).
+- **Dejojiet brīvi.** Šūpojieties, plaukšķiniet vai kustieties, kā patīk. Sēžot arī labi.
+- **Metiet balonu.** Tas lido lēni, un to ir viegli noķert, sēžot krēslā.
+- **Dodieties vadītā pastaigā.** Pastaigājieties kopā pa īsu, pazīstamu loku, ja vajadzīgs, paņemiet viens otru zem rokas.
 
-### Pictures and stories
+### Attēli un stāsti
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Skatieties fotoalbumu.** Komentējiet to, ko redzat, nevis uzdodiet jautājumus: „Paskaties uz to automašīnu. Pastāsti par to.” Skatiet [atmiņu aktivitātes](/activities/reminiscence/).
+- **Izmantojiet sarunu kartītes.** [Sarunu kartītes](/games/conversation-cards/) saista attēlu ar atklātu jautājumu bez pārbaudes.
+- **Kopā noskatieties vecu filmu.** Izvēlieties pazīstamu, paliciet tuvumā un pauzējiet atpūtai.
 
-### Simple, pressure-free games
+### Vienkāršas spēles bez spiediena
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Attēlu pāri ar redzamiem attēliem.** [Attēlu pāri](/games/picture-pairs/) ļauj attēliem palikt redzamiem, tātad tā ir par pamanīšanu, nevis atcerēšanos.
+- **Atrodiet to pašu.** [Atrodiet to pašu](/games/find-the-same/) parāda vienu attēlu un tikai divas līdz četras izvēles.
+- **Kārtojiet kopā.** [Kārtojiet kopā](/games/sort-together/) ir kā veļas kārtošana ekrānā: pieskarieties attēlam un pēc tam tā grozam.
+- **Attēlu bingo.** [Attēlu bingo](/games/picture-bingo/) labi der ģimenes salidojumiem un grupām.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ja spēle sāk radīt vilšanos, apstājieties un darbojieties ar ko citu. Skatiet [kā spēlēt kopā](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Nemiera novirzīšana uz nodarbi
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Nemierīga vai atkārtota uzvedība bieži kaut ko nozīmē. Family Caregiver Alliance norāda, ka cilvēks, kas atkārtoti iztukšo skapi, var mēģināt apmierināt vajadzību justies aizņemtam un produktīvam. Alzheimer's Association iesaka šo enerģiju novirzīt uz atbilstošu nodarbi, nevis to apturēt.
 
-| What you see | Something to offer |
+| Ko jūs redzat | Ko piedāvāt |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Berzē vai kašķē galdu | Mitru drāniņu un lūgumu noslaucīt galdu |
+| Nemierīgas kājas vai pieskaršanās | Mūziku ar skaidru ritmu, lai pieskaņoties vai plaukšķināt |
+| Iztukšo atvilktnes vai skapjus | Grozu ar drēbēm vai sejas lupatiņām, ko salocīt un sakārtot |
+| Atkārtoti uzdod to pašu jautājumu | Mierinājumu, tad dziesmu vai darbu, ko kopā paveikt |
+| Staigā pa istabu | Kopīgu pastaigu vai darbu, kas ietver nešanu |
+| Vēlā pēcpusdienas nemiers | Mierīgu, pazīstamu darbu labā gaismā; skatiet [vēlās dienas nemieru](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Kad apstāties vai mainīt virzienu
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Apstājieties, kad redzat nogurumu, vilšanos, apmulsumu vai garlaicību, piemēram, nemierīgu kustēšanos, sarauktu pieri, lietu atgrūšanu vai teikumu „es nevaru”. Alzheimer's Association iesaka mēģināt vēlreiz citā dienas laikā vai padarīt aktivitāti vienkāršāku. Nespiediet. Atteikums var nākt no bailēm, vai arī uzdevums ir pārāk grūts; skatiet [kad viņi saka nē](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Pāragra apstāšanās ir pieļaujama. Labi ir arī vienkārši kopā sēdēt ar tasi tējas. Kad spējas tālāk mainās, [vēlās stadijas aktivitātes](/activities/late-stage/) var būt piemērotākas, un [101 aktivitāte](/activities/ideas/) piedāvā daudz vairāk ideju, ko izmēģināt.

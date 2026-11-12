@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Aktivitete kujtimesh: Kutia e kujtimeve, historitë e jetës dhe fotot"
+seoTitle: "Aktivitete kujtimesh për demencën: Ide pa quiz"
+description: "Si të ndani kujtime me dikë që jeton me demencë, pa pyetje testuese: biseda me foto, kuti kujtimesh dhe libra të historisë së jetës."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Kujtimi do të thotë të gëzoni bashkë të kaluarën përmes fotove, sendeve, muzikës
+  dhe historive. Bëni një kuti kujtimesh, ndërtoni një libër të thjeshtë të
+  historisë së jetës, ose shikoni foto krah për krah. Mos bëni kurrë quiz: hiqni
+  „E kujton?“ dhe „Kush është ky?“ dhe përdorni ftesa të hapura si „Më trego për
+  këtë.“ Një bisedë e ngrohtë është më e rëndësishme sesa saktësia e fakteve.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Kujtimi është një bisedë, jo një provim. Saktësia nuk ka rëndësi; kënaqësia ka."
+  - "Zëvendësoni „E kujton...?“ dhe „Kush është ky?“ me komente dhe ftesa si „Më trego për atë ditë.“"
+  - "Një kuti kujtimesh me sende nga jeta e personit i jep duarve dhe bisedës diçka për t'u mbajtur."
+  - "Një libër i historisë së jetës i ndihmon familjen, vizitorët dhe stafin të njohin personin, jo vetëm diagnozën."
+  - "Nëse një kujtim sjell trishtim, ngushëlloni së pari dhe kaloni butësisht më tej."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Çfarë është kujtimi për personat me demencë?"
+    a: "Kujtimi është ndarja e kujtimeve dhe përvojave të kaluara, shpesh me ndihmën e fotove, sendeve, muzikës ose videove. Mund të ndodhë një me një ose në grup. Qëllimi është një bisedë e këndshme dhe e kuptimtë, jo testimi i asaj që personi mund të kujtojë."
+  - q: "Pse nuk duhet të pyes „E kujton?“"
+    a: "Pyetjet që testojnë kujtesën mund ta bëjnë personin të ndihet i turpëruar ose i shqetësuar kur përgjigja nuk vjen. National Institute on Aging e radhit pyetjen nëse personi kujton diçka ose dikë midis gjërave që duhen shmangur. Komentoni në vend të kësaj atë që shihni, dhe lëreni personin të shtojë çfarë të dojë."
+  - q: "Çfarë duhet të vendos në një kuti kujtimesh?"
+    a: "Zgjidhni sende të sigurta dhe të forta, të lidhura me jetën e personit: sende pune, pajisje hobi, një shall të preferuar, kartolina, kartela recetash, suvenire sportive ose kopje fotosh. Shmangni objektet e mprehta, sendet e vogla që mund të gëlltiten dhe origjinalet e pazëvendësueshme."
+  - q: "Çfarë nëse merr faktet gabim?"
+    a: "Lëreni. Nëse nëna juaj thotë se foto tregon motrën e saj kur ajo është kushërirja, kjo është në rregull. Korrigjimi e kthen një moment të ngrohtë në provim. Ndiqni historinë që tregojnë dhe kënaquni bashkë."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Kujtimi thjesht do të thotë të gëzoni bashkë të kaluarën. Për shumë njerëz që jetojnë me demencë, kujtimet nga disa dekada më parë qëndrojnë më të qarta sesa ajo që ndodhi këtë mëngjes. Fotot, sendet e njohura, muzika dhe historitë mund t'i hapin ato kujtime dhe t'ju japin diçka të ngrohtë për të ndarë. Rregulli i vetëm: është një bisedë, kurrë një quiz.
 
-## What is reminiscence, and how is it different from quizzing?
+## Çfarë është kujtimi dhe si ndryshon nga testimi?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Kujtimi është ndarja e kujtimeve përmes fotove, sendeve, muzikës ose videove, në ritmin e vet të personit. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) e përshkruan si ndarjen e përvojave dhe historive të kaluara me ndihmën e fotove, sendeve, videove ose muzikës, në një libër ose në një tablet. Testimi është ndryshe: kërkon që personi të japë një përgjigje të saktë, dhe kjo mund të sjellë turp në vend të kënaqësisë.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) e radhit si diçka për të shmangur pyetjen nëse personi kujton diçka ose dikë. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) sugjeron t'i shmangni pyetjet që mbështeten te kujtesa afatshkurtër dhe të flisni për të kaluarën më të largët.
 
-| Instead of | Try |
+| Në vend të | Provoni |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| „E kujton këtë?“ | „Duket si një ditë e lumtur. Më trego për të.“ |
+| „Kush është ky?“ | „Ja tezja Rose në plazh. Shiko atë kapelë.“ |
+| „Çfarë viti ishte kjo?“ | „Duket shtëpia e vjetër. Si ishte të jetoje atje?“ |
+| „Jo, ky nuk është Bill, ky është Frank.“ | „Duket shumë i gëzuar.“ |
+| „E more vesh këtë më parë.“ | „Më pëlqen kjo histori.“ |
 
-## How do you talk about photos without quizzing?
+## Si flisni për foto pa bërë quiz?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Filloni me atë që shihni, pastaj lini hapësirë që personi të shtojë diçka nëse dëshiron.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Uluni krah për krah.** Mbajeni albumin midis jush, që të shikoni bashkë, jo të testoni nga ana tjetër e tryezës.
+2. **Zgjidhni disa foto.** Pesë foto të mira janë më mirë sesa një kuti e tërë. Printimet e mëdha dhe të qarta funksionojnë më mirë.
+3. **Emërtoni vetë njerëzit.** „Ja ti dhe babai në ditën e dasmës“ e heq presionin.
+4. **Komentoni detaje.** Rroba, makina, ushqim, moti, fytyra. „Sa makinë. Duket aq e shndritshme.“
+5. **Ftoni, mos kërkoni.** „Më trego për...“ ose „Çfarë vëren?“ Heshtja është në rregull.
+6. **Ndiqeni udhëheqjen e personit.** Nëse flet për diçka krejt tjetër, shkoni me të.
+7. **Ndaloni kur është ende e këndshme.** Mbyllni albumin përpara se të vijë lodhja.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+Për kartela gati me figura si nxitje, provoni [kartat e bisedës](/games/conversation-cards/). Për ta kthyer fotot tuaja familjare në një lojë të butë përputhjeje, provoni [çifte fotografish](/games/photo-pairs/); fotot që zgjidhni qëndrojnë në shfletuesin tuaj.
 
-## How do you make a memory box?
+## Si bëni një kuti kujtimesh?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Kutia e kujtimeve është një enë me sende nga jeta e personit, për t'i prekur dhe për të biseduar për to.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Zgjidhni një kuti të fortë** që hapet lehtë, si një kuti këpucësh, një kuti kapelësh ose një sanduk i vogël druri.
+2. **Zgjidhni një temë ose një përzierje.** Puna, një hobi, një vend, një dekadë, ose pak nga të gjitha.
+3. **Mblidhni sende të sigurta.** Pesë deri në dhjetë sende mjaftojnë për të filluar.
+4. **Përdorni kopje të gjërave të çmuara.** Kopjoni fotot dhe dokumentet e pazëvendësueshme dhe mbani origjinalet në vend të sigurt.
+5. **Nxirrni sendet një nga një.** Jepini një, thoni diçka për të dhe shihni ku shkon biseda.
 
-Ideas to include:
+Ide për të përfshirë:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Puna:** një shenjë emri, një mjet i vogël, një arm uniforme, një libër llogarie, një distinktiv infermieri, një libër gatimi nga një restorant.
+- **Shtëpia:** një kartelë recete me dorëshkrimin e personit, një peshqir kuzhine, një shall ose kravatë e preferuar.
+- **Hobi:** një lure peshkimi pa grep, një top bejsbolli, një top leshi, një paketë farërash.
+- **Vende:** kartolina, harta, një suvenir turistik, një copë gazete nga qyteti i lindjes.
+- **Familja:** kopje fotosh, një vizatim i fëmijës, një ftesë dasme.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+Lini jashtë objektet e mprehta, sendet e vogla që mund të gëlltiten, dhe çdo gjë që mund të sjellë kujtime të dhimbshme, përveç nëse dini se është e mirëpritur.
 
-## How do you make a life-story book?
+## Si bëni një libër të historisë së jetës?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Libri i historisë së jetës është një album i thjeshtë me foto dhe titra të shkurtra për jetën e personit. Është diçka për ta parë bashkë, dhe i ndihmon vizitorët dhe stafin e kujdesit ta shohin personin në tërësi.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Zgjidhni një format.** Një dosje me mbrojtëse fletësh, një libër fotosh i printuar, ose një prezantim në tablet.
+2. **Planifikoni disa seksione.** Fëmijëria, shkolla, puna, familja, vendet ku ka jetuar, besimi, hobi, ushqimet dhe muzika e preferuar.
+3. **Shtoni një ose dy foto për faqe** me një titull të shkurtër, me shkronja të mëdha: „Mary, 22 vjeç, fillon punën në bankë.“
+4. **Përfshini pëlqimet dhe rutinat.** „Pi kafe me qumësht. Do himnet e së dielës. Nuk i pëlqen televizori i lartë.“ Kjo ndihmon kushdo që kujdeset për të.
+5. **Përfshijeni personin** sa të dojë, duke zgjedhur foto, duke treguar histori ose thjesht duke parë si bashkohet gjithçka.
+6. **Vazhdoni ta plotësoni.** Nuk ka nevojë të jetë e përfunduar për të qenë e dobishme.
 
-## More reminiscence ideas
+## Më shumë ide kujtimi
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Luani muzikë nga rinia e personit** dhe flisni për ku e çon. Shihni [aktivitetet me muzikë](/activities/music/).
+- **Shikoni filma shtëpie ose emisione televizive** nga dekadat e preferuara.
+- **Gatuani një pjatë të fëmijërisë** dhe lëreni aromat të udhëheqin bisedën.
+- **Shikoni një hartë** të qytetit të lindjes dhe ndiqni rrugët e njohura.
+- **Shfletoni katalogë ose revista të vjetra** dhe flisni për çmimet, modën dhe makinat.
+- **Regjistroni historitë e personit** me telefon, me lejen e tij ose të saj, për familjen.
+- **Ndajeni gjatë telefonatave video.** Mbani lart një foto gjatë një thirrjeje video; shihni [telefonatat dhe thirrjet video](/activities/phone-and-video-calls/).
+- **Sillni një foto ose objekt kur vizitoni.** I jep vizitës një fokus të lehtë; shihni [vizitat](/activities/visiting/).
 
-## What if a memory is painful?
+## Çfarë nëse një kujtim është i dhimbshëm?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Disa kujtime sjellin hidhërim, pendim ose frikë. Nëse personi shqetësohet, ndaloni, ngushëlloni dhe ndryshoni butësisht temën ose aktivitetin. Mos debatoni për atë që ndodhi. Family Caregiver Alliance këshillon të mos përpiqeni ta bindni personin se gabon, dhe të përgjigjeni ndaj ndjenjave që tregon, të cilat janë reale. Nëse flet për dikë që ka vdekur sikur të ishte gjallë, përgjigjuni ndjenjës: „Ta mungon. Më trego për të.“
 
-## What does the research say?
+## Çfarë thotë hulumtimi?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Një [rishikim Cochrane i kujtimit](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), që mbulon 22 provë dhe 1.972 persona, gjeti se efektet ishin të pakonsistentë, të vogla dhe ndryshonin sipas cilësimit dhe formatit. Nuk gjeti asnjë provë dëmi për personat me demencë. Ne e sugjerojmë kujtimin sepse mund të krijojë kohë të ngrohtë dhe të kuptimtë bashkë, jo si trajtim. Për më shumë rreth bisedës së lehtë, shihni [këshillat për komunikimin](/caregiving/communication-tips/).

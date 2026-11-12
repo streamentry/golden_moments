@@ -1,32 +1,33 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Музичке активности за особе са деменцијом"
+seoTitle: "Музичке активности за деменцију: плејлисте и идеје"
+description: "Како делити музику са особом која живи са деменцијом: лична плејлиста по добу и жанру, 15 једноставних активности и савети за сваку фазу."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Музика је једна од најлакших активности које можете делити са особом која живи
+  са деменцијом. Направите личну плејлисту од музике из младости, вере и
+  породичних догађаја, пустите је без реклама и позадинске буке, па певајте,
+  пљескајте, љуљајте се или једноставно слушајте заједно. Изаберите смирену или
+  живахну музику према тренутку, држите тон умерено тихим и станите ако песма
+  некога узнемири.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Лична музика најбоље функционише: стилови које су волели као млади одрасли, плус музика из вере, културе и породичних догађаја."
+  - "Пуштајте једну по једну ствар, без реклама и са искљученим телевизором."
+  - "Певање, пљескање, љуљање и једноставно слушање су сви начини да учествују."
+  - "Користите мирнију музику за смиривање, а живахнију за подизање расположења, и пратите како особа реагује."
+  - "Истраживања структурисаних музичких сесија су ограничена; музику предлажемо као пријатно дељење, а не као терапију."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Каква музика је најбоља за особу са деменцијом?"
+    a: "Музика коју је особа дуго знала и волела, често из тинејџерских и двадесетих година, заједно са музиком из вере, културе и породичних прослава. Ако је могуће, нека сама бира. Гледајте њено лице и тело да видите шта воли, и одбаците све што јој изгледа да смета."
+  - q: "Да ли да користим слушалице?"
+    a: "Неки уживају у слушалицама јер блокирају буку, а други их сматрају непријатним или збуњујућим. Прво пробајте звучник да можете да слушате заједно. Ако користите слушалице, држите тон тихо и останите у близини."
+  - q: "Може ли музика да помогне код немира или узнемирености?"
+    a: "Смирена, позната музика може да створи миран тон, а Alzheimer's Association предлаже да музиком поставите атмосферу коју желите. Не упали увек. Ако је особа узнемирена, проверите и бол, глад, буку или умор."
+  - q: "Могу ли особе у касној фази да уживају у музици?"
+    a: "Многе могу. Alzheimer's Association наводи да особа у касној фази и даље може да куца ритам или пева уз песму из детињства. Седите близу, пустите музику тихо и држите руку или се љуљајте заједно."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +46,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Музика је једна од најједноставнијих ствари које можете делити са особом која живи са деменцијом. Не тражи ништа: нема тачних одговора, нема корака које треба пратити. Позната песма може донети осмех, куцкајућу ногу или неколико речи отпеваних заједно, чак и на дан када је разговор тежак. Потребно је само права музика за ову особу и миран тренутак да је пустите.
 
-## What music activities work for people with dementia?
+## Које активности уз музику функционишу за особе са деменцијом?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Слушање, певање, пљескање, љуљање и разговор о музици добро функционишу. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) предлаже пуштање музике, разговор о музици и извођачу, певање или плес уз познате песме и одлазак на концерте или музичке програме у заједници. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) додаје да покрети као пљескање или плес могу појачати уживање и да музика може бити начин повезивања кад речи постану тешке.
 
-## How do you build a personal playlist?
+## Како направити личну плејлисту?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Најкорисније што можете направити је плејлиста музике која нешто значи овој особи. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) такође истиче музику са личним значењем. Ево једног једноставног начина да је направите.
 
-### Start with their life
+### Почните од њеног живота
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Њене тинејџерске и двадесете године.** Размислите шта се слушало на радију, на плесовима и у филмовима кад је била млада.
+- **Велики тренуци.** Музика на венчању, први плес, омиљени породични албум за дуга путовања.
+- **Вера и култура.** Химне, госпел, сакрална музика или песме на њеном матерњем језику.
+- **Посао и служба.** Маршеви, радне песме или музика везана за време у војсци.
+- **Шта памти породица.** Питајте браћу и сестре, децу и старе пријатеље шта су увек пуштали или певали.
 
-### Think in genres, not just songs
+### Размишљајте у жанровима, а не само у песмама
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Ако нисте сигурни одакле да почнете, пробајте по неколико минута из сваког од ових: биг бенд и свинг, ду-воп, Мотаун и соул, рани рокенрол, кантри и вестерн, блуграс, госпел и химне, мјузикл мелодије са Бродвеја, џез стандарде, латино музику попут болера или мариачи, полку, фолк и класику. Задржите оно што изазове осмех или куцкање ногом; одбаците оно што изазове намрштеност.
 
-### Make it easy to play
+### Учините да је лако пустити
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Без реклама.** Alzheimer's Association упозорава да рекламе могу изазвати збуњеност. Користите преузету музику, ЦД-ове, плоче или услугу без реклама.
+- **Један једноставан уређај.** Звучник са једним великим дугметом или плејлиста спремна за пуштање, да је свако може покренути.
+- **Две кратке листе.** Смирена за смиривање и живахна за подизање расположења.
+- **Означите је.** Напишите име особе и „омиљена музика“ на уређају, да је и посетиоци породице и особље могу користити.
 
-## 15 music activities to try
+## 15 музичких активности које можете пробати
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Слушајте заједно.** Седите један поред другог без ичега другог у току. Слушање је пуна активност.
+2. **Певајте уз њу.** Почните да певате сами. Мурмурање или шапутање речи се рачуна.
+3. **Пљескајте или куцајте ритам.** Лупкајте по коленима, куцајте по столу или користите мали ручни бубањ или шејкер.
+4. **Полагани плес.** Држите се за руке и љуљајте се у кухињи или играјте седећи, померајући руке заједно.
+5. **Плес са шалом.** Махајте лаганим шаловима у ритму музике, стојећи или седећи.
+6. **Причајте о музици.** Позивајте, не испитујте: „Ово звучи као плесна дворана. Причајте ми о плесовима.“ Никада не питајте „Сећате ли се ове песме?“
+7. **Пустите цео албум.** Пустите плочу коју су волели, од почетка до краја, уз кафу.
+8. **Погледајте омоте албума.** Стари омоти плоча су одлични за разговор о моди, аутомобилима и лицима.
+9. **Погледајте мјузикл.** Снимљен мјузикл или концерт из њиховог времена прави је добар вечери. Направите паузе.
+10. **Свирајте инструмент који познају.** Некадашњи пијаниста или гитариста можда ужива у једноставном свирању. Касније је довољно заједно извући неколико тонова.
+11. **Музика уз посао.** Пуштајте омиљене песме док слажете веш или постављате сто.
+12. **Јутарња песма.** Почните сваки дан истом веселом песмом као делом рутине.
+13. **Певајте химне или сакралну музику.** Пуштајте музику из њихове верске традиције и певајте заједно.
+14. **Придружите се певачкој групи.** NHS описује певачке групе као добре за расположење и добробит. Распитајте се локално о хоровима прихватљивим за особе са деменцијом.
+15. **Идите на живу музику.** Кратак концерт у заједници или улични бенд на отвореном. Седите близу излаза и одлазите кад год желите.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+За лакшу игру речима са познатим изрекама пробајте [Довршите изреку](/games/finish-the-saying/), где увек можете показати крај.
 
-## Matching music to the moment
+## Усклађивање музике са тренутком
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association предлаже да музиком створите расположење које желите: смирену музику за миран тон, а веселу песму из њихове младости за подизање духа.
 
-| Moment | Try | Tip |
+| Тренутак | Шта пустити | Савет |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Устајање | Позната, весела песма | Иста песма сваког јутра постаје нежан знак |
+| Послови | Омиљене живахне песме | Музика може послу дати осећај дружења |
+| Оброци | Тиха инструментална музика | Држите је тихо да не смета јелу |
+| Касно поподне | Смирена, позната музика при добром светлу | Видите [вечерњи немир](/caregiving/late-day-restlessness/) |
+| Одлазак на спавање | Споре, нежне мелодије | Спустите јачину и светло заједно |
+| Касна фаза | Њене најомиљеније песме, врло тихо | Седите близу и држите руку |
 
-## Tips for a good experience
+## Савети за добро искуство
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Искључите другу буку.** Alzheimer's Association предлаже да затворите прозоре и врата и искључите телевизор, да музика буде једини звук.
+- **Држите тон умерено тихим.** Музика треба да буде пријатна, а не гласна. Ако особа користи слушни апарат, проверите да је уметнут и исправан; видите [слух](/brain-health/hearing/).
+- **Пазите на тужне асоцијације.** Неке песме буде тугу, рат или губитак. Ако је песма узнемири, утешите је и промените песму.
+- **Нека води.** Ако је могуће, нека особа бира музику и прихватите „не“.
+- **Станите кад год.** Пет минута музике је сасвим добра активност. Исто тако је и искључити је и тихо седети.
 
-## What does the research say about music and dementia?
+## Шта истраживања кажу о музици и деменцији?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Докази су ограничени. [Cochrane преглед из 2025.](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) анализирао је 30 студија структурисаних музичких сесија, углавном са групама у домовима за старе. Утврђено је да су те сесије вероватно благо ублажиле депресивне симптоме у поређењу са уобичајеном негом, али није нађен јасан ефекат на немир, добробит, мишљење или памћење, нити ефекти који трају после краја сесија.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Музику делимо зато што је пријатан, опуштен начин да проведемо време заједно, а не као терапију. За групе видите [активности у групи у домовима за старе](/activities/care-home-groups/); за коришћење музике уз фотографије и приче видите [активности са сећањима](/activities/reminiscence/).

@@ -1,34 +1,35 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Активности за телефонски и видео повици за некој со деменција"
+seoTitle: "Активности за видео повици за деменција"
+description: "Активности за видео и телефонски повици за семејството на далечина: покажување, читање наглас, пеење, заедничка игра на екран и совети за помагачите."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Повиците со лице со деменција најдобро минуваат кога се кратки, редовни и
+  изградени околу нешто што можете да го правите заедно, како покажување на
+  миленик или градина, гледање фотографии, читање наглас, пеење омилена песна
+  или нежна игра на заеднички екран. Јавете се во исто време секој ден ако
+  можете, држете еден глас во еден момент и замолете некој на лице место да
+  помогне.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Активноста му дава облик на повикот и ја намалува притисокот врз разговорот. Испланирајте една едноставна работа за споделување."
+  - "Кратки, редовни повици во исто време од денот често функционираат подобро од долги, повремени."
+  - "Еден човек зборува во еден момент. Групните повици со вкрстено зборување се тешки за следење, особено кога има слушно оштетување."
+  - "Помагач на лице место може да го постави уредот, да седне до лицето и да биде „рацете“ за секоја игра или фотографија."
+  - "Ако повикот денес не функционира, топло завршете го. Обидот утре е во ред."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Што можам да правам на видео повик со некој со деменција?"
+    a: "Испланирајте една едноставна активност: покажете ја вашата градина, миленикот или кујната; погледнете заедно стари фотографии; прочитајте кратка песна или писмо наглас; пејте песна што ја сакаат; гответе ист рецепт во исто време; или играјте нежна игра со слики на заеднички екран. Активностите му даваат фокус на повикот, па лицето не мора сам да го носи разговорот."
+  - q: "Колку треба да трае видео повикот?"
+    a: "Обично пократко отколку што мислите. Неколку топли минути може да бидат доволни, особено ако лицето брзо се замори. Редовното јавување во исто време од денот може да е поважно од тоа колку трае секој повик."
+  - q: "Што ако се збунат или вознемират од видео повиците?"
+    a: "Некои луѓе го сметаат лицето на екран за збунувачко. Пробајте обичен телефонски повик, снимена видео порака што помагачот може да ја пушти во смирен момент, или картички и фотографии по пошта. Ако повикот помине лошо, нежно завршете го и обидете се друг ден или во друго време."
+  - q: "Како да ѝ помогнам на мајка ми да прави видео повик кога не може да користи телефон?"
+    a: "Замолете член на семејството, домашен помошник или персонал во домот за стари лица да го започне повикот и да го држи или подпре уредот. Многу установи за грижа помагаат на семејствата со видео повици, па прашајте што нудат. Таблет на штанд, наместен на голем екран и доволно гласен за да се слушне, го олеснува тоа за сите."
+  - q: "Можеме ли да играме игра заедно преку видео?"
+    a: "Да. Најлесниот начин е едно лице да го сподели екранот во апликацијата за видео додека другото му кажува која слика да ја допре. Или помагачот на лице место може да ја отвори истата игра на таблет и да допира за лицето додека вие разговарате со него. Изберете игри без тајмер или поени."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +51,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Живеењето далеку од некој со деменција може да се чувствува беспомошно. Телефонските и видео повиците не можат да го заменат загрлувањето, но сè уште може да создадат вистински моменти на поврзување кога се добро поставени. Трикот е да престанете да се обидувате да водите обичен разговор за сè и да планирате нешто едноставно за споделување. Оваа страница ги опфаќа активностите што функционираат преку видео и телефон, како да го поставите повикот и што може да направи лицето на лице место за да помогне.
 
-## Why plan an activity for a call?
+## Зошто да планирате активност за повик?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Активноста му дава облик на повикот. „Како си? Што направи денес?“ бара лицето да се сети и да извести, што може да биде тешко и стресно. „Види, доматите се зреани“ од нив не бара ништо.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association наведува дека разговорите со поголеми групи преку видео можат да бидат тешки и предлага [додавање структура на повикот](https://www.alz.org/help-support/caregiving/holidays), со работи како пеење песни или споделување слики.
 
-## What activities work on a video call?
+## Кои активности функционираат на видео повик?
 
-### Show and tell
+### Покажи и кажи
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Донесете го вашиот свет до нив. Полека поместете ја камерата низ вашата градина, претставете го кучето, покажете што готвите, држете цртеж на внука или насочете го телефонот кон прозорецот кон снегот. Опишете што гледате едноставни зборови и оставете паузи за да реагираат. Не се потребни прашања.
 
-### Look at photos together
+### Гледајте фотографии заедно
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Држете стара фотографија пред камерата или споделете го екранот за да покажете неколку големи фотографии една по една. Зборувајте за она што го забележувате: „Погледни го капата на дедо.“ Избегнувајте „Кој е ова?“ или „Се сеќаваш ли?“. Ако лицето погрешно именува некого, сложете се. За нежни поттикнувања видете го нашиот [водич за сеќавања](/activities/reminiscence/).
 
-### Read aloud
+### Читајте наглас
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Прочитајте кратка песна, псалм, омилена детска книга на внук или внука во истиот повик, писмо од роднина или страница од книга што ја сакале. Читањето наглас му дава на лицето нешто смирено за слушање без потреба да одговара.
 
-### Sing or listen to music together
+### Пејте или слушајте музика заедно
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Пејте песна што ја знаат добро или пуштете омилена плоча од вашата страна. За многу луѓе, пеењето е полесно од разговорот. Видете го нашиот [водич за музички активности](/activities/music/).
 
-### Cook or bake at the same time
+### Гответе или печете во исто време
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association предлага да испланирате видео повик за готвење или печење специјален рецепт заедно. Поставете го повикот во двете кујни. Лицето на лице место може да меша или да проба, додека вие ја следите нивната стара картичка со рецепт.
 
-### Watch something together
+### Гледајте нешто заедно
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Alzheimer's Association исто така предлага гледање омилен филм во исто време од одделни домови додека разговарате преку телефон или видео. За некој со деменција, краток исечок, стара епизода или спортски натпревар може да функционира подобро од цел филм.
 
-### Play a gentle game on a shared screen
+### Играјте нежна игра на заеднички екран
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Многу апликации за видео повици дозволуваат споделување на екран. Вие ја отворате играта и допирате; лицето ви кажува или покажува која слика да ја изберете. Или помагачот на лице место ја отвора истата игра на таблет и допира за нив додека вие разговарате.
 
-Games that work well this way:
+Игри што добро функционираат на овој начин:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Доврши ја поговорката](/games/finish-the-saying/):** вие ја читате познатата поговорка, тие ја кажуваат завршницата, и следи прашање за разговор.
+- **[Парови слики](/games/picture-pairs/):** нежна игра на спарување со големи слики што можат да останат видливи, без тајмер и без поени.
+- **[Картички за разговор](/games/conversation-cards/):** слика и отворено прашање за заеднички разговор.
+- **[Парови фотографии](/games/photo-pairs/):** игра на спарување направена од фотографии што ги избирате на вашиот уред. Фотографиите остануваат во вашиот прелистувач, а лицето ги гледа преку споделениот екран.
 
-### Recorded messages
+### Снимени пораки
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Кога живите повици се тешки, снимете кратко видео: поздрав, песна, прошетка низ вашиот двор. Помагачот може да го пушти во смирен момент, колку пати што лицето сака. Alzheimer's Association спомнува снимање и испраќање посебни моменти, како деца што отвораат подароци.
 
-## What about plain phone calls?
+## А обичните телефонски повици?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Телефонските повици сè уште се важни. Dementia Australia предлага [јавување во исто време секој ден](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) и без брзање, бидејќи луѓето со деменција можеби им треба време да се вклучат. На телефон:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Кажете го вашето име и односот веднаш: „Здраво тато, јас сум Џени, ќерка ти.“
+- Зборувајте полека, со кратки реченици, по една мисла во еден момент.
+- Давајте вести наместо да ги барате: „Вечерва го направив рецептот за твојата печенка.“
+- Прочитајте кратка песна или пејте строфа од омилена песна.
+- Држете го кратко и завршете со топол тон.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia исто така наведува дека видео повиците можат да помогнат кога зборувањето станува потешко, бидејќи лицето може да го види вашето лице. Ако телефонските повици стануваат збунувачки, пробајте видео, или обратно.
 
-## How do I set up a video call that works?
+## Како да поставам видео повик што функционира?
 
-**Before the call:**
+**Пред повикот:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Изберете редовно време** кога лицето обично е одморено, и држете се до него. Рутината помага.
+2. **Координирајте се со помагачот на лице место.** Порака еден ден порано им помага да планираат.
+3. **Проверете го уредот.** Таблет на штанд е полесен од телефон во рака. Осигурајте се дека е наполнет, екранот е светол и звукот е доволно гласен. Вклучете ги титловите ако апликацијата ги нуди и ако лицето добро чита.
+4. **Испланирајте една активност** и подгответе сè.
 
-**During the call:**
+**За време на повикот:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Седнете блиску до камерата** на добра светлина, со лице кон прозорец, а не со прозорец зад вас.
+- **Претставете се** секогаш, со име и однос.
+- **Еден глас во еден момент.** Alzheimer's Association наведува дека вкрстеното зборување е тешко за луѓето со деменција и за луѓето со слушно оштетување. Ако се приклучат неколку роднини, одете по ред или држете го повикот на два или три луѓе.
+- **Поставувајте по едно прашање.** Family Caregiver Alliance предлага [едноставни прашања со одговор да или не](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), и прикажување избори кога можете.
+- **Дозволете долги паузи.** Почекајте одговор. Во ред е да предложите збор ако бараат.
+- **Користете го вашето лице и глас.** Насмевнете се, климнете и држете го тонот топол. Изразот често кажува повеќе од зборовите.
+- **Не поправајте.** Ако лицето каже нешто што не е точно, оставете го така.
 
-**Ending the call:**
+**Завршување на повикот:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Завршете пред лицето да се замори, по можност на позитивна нота.
+- Користете секогаш ист поздрав: „Ќе ти се јавам утре на ручек. Те сакам.“
+- Не го влечете.
 
-## Tips for the helper on site
+## Совети за помагачот на лице место
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Ако сте сопружник, помошник, брат или сестра или персонал што помага со повикот, вие го овозможувате.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Поставете тивко место.** Исклучете го телевизорот и затворете ја вратата.
+- **Започнете го повикот сами,** па потоа дајте му на лицето таблет на штанд или држете го на висина на очи.
+- **Седнете до нив, не пред нив.** Вашето присуство е смирувачко. Нежно поттикнете ако треба: „Види, тоа е Џени.“
+- **Бидете „рацете“.** Држете фотографии, допирајте ја играта, свртете го таблетот за да ја покажете просторијата.
+- **Внимавајте на уморот или вознемиреноста,** и кажете му на повикувачот кога е време за завршување.
+- **Кажете му на повикувачот што функционирало.** „Ја сакаше кучето“ помага да се испланира следниот повик.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA предлага роднините на далечина да можат да помогнат на постар човек да [ги научи функциите на телефонот](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), како видео повици. Во подоцнежните стадиуми, помагачот обично ќе треба целосно да се справи со уредот. Тоа е во ред.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Ако лицето живее во дом за стари лица, Alzheimer's Foundation of America предлага да прашате дали установата им помага на семејствата со видео разговори. AFA исто така ги спомнува семејствата што испраќаат фотографии напред-назад со персоналот на грижата, како и испраќање омилени грицкалки или мали утехи, по проверка на она што установата го дозволува.
 
-## What if the call doesn't go well?
+## Што ако повикот не оди добро?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Некои повици ќе бидат збунувачки, рамнодушни или вознемирувачки. Тоа не е ваша вина и не значи дека повиците не вредат.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Ако лицето изгледа збунето од екранот, префрлете се на телефонски повик или снимена порака.
+- Ако се вознемири, признајте го чувството, кажете нешто умирувачко и нежно завршете.
+- Ако повиците често одат лошо во едно време од денот, пробајте друго време.
+- Ако мислат дека сте некој друг, сложете се нежно.
 
-It is fine to end early. A short, warm call is a good outcome.
+Во ред е да завршите рано. Кратък, топол повик е добар исход.
 
-## Between calls
+## Помеѓу повиците
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Останете присутни и на други начини. Dementia Australia предлага испраќање картички, е-пошта, фотографии или мали подароци. Неделна разгледница со една голема фотографија и кратка белешка може да се чита повторно и повторно. Печатени [картички за разговор](/games/conversation-cards/) испратени по пошта на помагачот можат да му дадат на следниот повик готова тема.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+За совети за избор и поставување таблет, видете [таблети и екрани](/caregiving/tablets-and-screens/). За време лице в лице, видете го нашиот водич за [посети](/activities/visiting/).

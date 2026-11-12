@@ -1,32 +1,33 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Švelni kasdienė rutina žmogui, gyvenančiam su demencija"
+seoTitle: "Demencijos kasdienė rutina: lanksti pavyzdinė diena"
+description: "Lanksti pavyzdinė diena žmogui, gyvenančiam su demencija: valgymas, veikla ir poilsis ritmingai. Kaip susikurti savo rutiną ir pritaikyti ją sunkesnėmis dienomis."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Švelni kasdienė rutina išlaiko pabudimo, valgymo, asmens priežiūros ir miego
+  laiką maždaug tuo pačiu metu, pagrindinę veiklą skiria tada, kai žmogus
+  geriausiai pajėgus, ir subalansuoja veiklą su poilsiu. Ją kurkite pagal
+  visą gyvenimą susiformavusius įpročius, palikite laisvės, o ne planuokite
+  kiekvieną minutę, kasdien leiskite laiką dienos šviesoje ir judėkite, o kai
+  diena to reikalauja, plano lanksčiai keiskite.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Pastovus pabudimo, valgymo, priežiūros ir miego laikas suteikia dienai pažįstamą formą."
+  - "Pagrindinę veiklą skirkite tuo metu, kai žmogus geriausiai jaučiasi, dažniausiai ryte."
+  - "Neužpildykite kiekvienos minutės. Poilsis ir ramus laikas taip pat yra rutinos dalis."
+  - "Dienos šviesa, kasdienis judėjimas ir vengimas ilgų vėlyvų miegų bei vėlyvos kavos gali padėti sumažinti vakaro neramumą."
+  - "Rutina yra gairė, o ne taisyklė. Sunkesnėmis dienomis ką nors keiskite, sutrumpinkite ar praleiskite."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Kodėl žmogui su demencija padeda rutina?"
+    a: "Numatoma diena reiškia mažiau sprendimų ir staigmenų, o daugeliui žmonių, gyvenančių su demencija, tai teikia ramybės. Alzheimerio asociacija pastebi, kad suplanuota diena leidžia mažiau laiko skirti tam, kaip praleisti dieną, ir daugiau – veikloms, kurios patinka abiem. Ji taip pat padeda slaugytojui suplanuoti savo dieną."
+  - q: "Koks yra geras kasdienis tvarkaraštis žmogui su demencija?"
+    a: "Vieno teisingo tvarkaraščio nėra. Geras tvarkaraštis išlaiko pabudimo, valgymo ir miego laiką maždaug tuo pačiu metu, asmens priežiūrą ir pagrindinę veiklą skiria tada, kai žmogus geriausios formos, įtraukia laiko lauke ar prie lango ir palieka vietos poilsiui. Sudarykite jį pagal tai, kaip žmogus visada gyveno."
+  - q: "Ar žmogui su demencija dienos metu reikėtų miegoti?"
+    a: "Trumpas poilsis gali padėti, ypač po pietų. Nacionalinis senėjimo institutas pataria vengti ilgų miegų ir snaudimo vėlai dieną, nes pervargimas ar prastas poilsis gali sustiprinti vakaro neramumą. Jei miegas kelia tikrą problemą, pasikalbėkite su jų gydytoju."
+  - q: "Ką daryti, jei žmogus atsisako laikytis rutinos?"
+    a: "Kuriam laikui palikite tai ir vėliau bandykite iš naujo arba kitu būdu. Atsisakymas gali reikšti, kad žmogus pavargęs, nesveikuoja, jaučia skausmą arba tiesiog dar nepasiruošęs. Rutina skirta dienai palengvinti, todėl ją lankstykite, o ne verskite."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +46,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Švelni rutina suteikia dienai pažįstamą formą: keltis, valgyti, šiek tiek užsiimti veikla, ilsėtis ir eiti miegoti maždaug tuo pačiu metu. Ji mažina sprendimų ir staigmenų skaičių ir padeda turėti planą tiems momentams, kai kitaip teks galvoti, ką daryti toliau. Žemiau pateikta rutina yra pavyzdys, o ne taisyklė. Naudokite ją kaip atskaitos tašką, o tada pritaikykite prie žmogaus, kuriuo rūpinatės.
 
-## Why does a daily routine help?
+## Kodėl kasdienė rutina padeda?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Pastovi rutina padeda, nes pažįstamus įpročius lengviau atlikti nei naujus. [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) teigia, kad suplanuota diena reiškia mažiau laiko, praleisto svarstant, ką daryti, ir daugiau laiko malonioms veikloms, o reguliarus pabudimo ir eitimo miegoti laikas gali padėti sprendžiant miego problemas ir vakaro neramumą. [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) pataria prausimąsi, apsirengimą ir valgymą kasdien vykdyti tuo pačiu metu kaip ramių namų dalį, o [Šeimos slaugytojų aliansas](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) taip pat rekomenduoja išlaikyti tas pačias rutinas.
 
-## A sample gentle day
+## Pavyzdinė švelni diena
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Laikai yra tik pavyzdžiai. Visą dieną perkelkite anksčiau ar vėliau, kad ji atitiktų žmogaus paties ritmą.
 
-| Time | What happens | Ideas | On a harder day |
+| Laikas | Kas vyksta | Idėjos | Sunkesnę dieną |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 r. | Pabudimas, prausimasis, apsirengimas | Kasdien ta pati tvarka; drabužius paruoškite ta tvarka, kuria jie bus vilkimi | Priežiūra paprasta; švarių marškinių pakanka |
+| 8:45 r. | Pusryčiai | Kava ir laikraštis skaitomas balsu arba radijas | Valgykite kartu ramiai, be spaudimo kalbėti |
+| 9:30 r. | Pagrindinė veikla | Skalbinių lankstymas, kepimas, sodinimas, trumpa išvyka ar pasivaikščiojimas | Trumpesnė versija arba leiskite tiesiog stebėti, kaip jūs darote |
+| 10:30 r. | Ramus laikas | Muzika, nuotraukų albumas ar sėdėjimas prie lango | Poilsis mėgstamame fotelyje |
+| 11:00 r. | Pagalba ruošiant pietus | Plaunamos daržovės, dedamas stalas | Jūs gaminate; jie jums draugauja |
+| 12:00 p.p. | Pietūs ir tvarkymasis | Nuvalomas stalas, nušluostoma keletas indų | Darbų nedarykite |
+| 1:00 p.p. | Trumpas poilsis | Kojos pakeltos, tyri muzika | Tas pats |
+| 2:00 p.p. | Lauke arba aktyviai | Pasivaikščiojimas, laikas prie verandos, augalų laistymas, balionėlio mėtymas | Sėdėkite saulėtame lange |
+| 3:00 p.p. | Socialinė ar kūrybinė veikla | Vizitas, skambutis, [nuotraukų poros](/games/picture-pairs/), spalvinimas, kortos | Gėrimas ir užkandis kartu |
+| 4:30 p.p. | Nusiraminimo laikas | Užtraukiamos užuolaidos, įjungiamos šviesos, ramus darbas, pvz., skalbinėlių lankstymas | Pažįstama muzika, mažas triukšmas |
+| 5:30 p.p. | Vakarienė | Padėkite maišyti ar kloti stalą | Paprastas, pažįstamas maistas |
+| 6:30 p.v. | Vakaras kartu | Prisiminimai prie deserto, kortos, mėgstama laida, rankų masažas | Ramus buvimas kartu |
+| 8:00 v. | Paruošimas miegui | Vonia ar prausimasis, pižama, tyri muzika, prigesintos šviesos | Viską sutrumpinkite; pirmiausia – ramybė |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Šis pavyzdys atitinka Alzheimerio asociacijos pavyzdinio plano ankstyvajai ir vidurinei stadijoms struktūrą: nuo asmens priežiūros ir pusryčių per darbus, pasivaikščiojimus, muziką, poilsį ir vizitus iki vakarienės, prisiminimų ir pasiruošimo miegui.
 
-## How do you build your own routine?
+## Kaip susikurti savo rutiną?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Pradėkite nuo to, kaip žmogus visada gyveno, o ne nuo tvarkaraščio. Alzheimerio asociacija pataria prieš planuojant apgalvoti šiuos dalykus:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Jų pomėgiai, nepatinkantys dalykai, stiprybės ir interesai.**
+- **Kaip jie anksčiau leido dieną.** Ankstyvas kėlėjas, kuris visada vedžiodavo šunį, ir toliau turėtų ryte eiti pasivaikščioti. Naktinė pelėda gali niekada nemėgti 8 val. ryto pradžios.
+- **Jų geriausias dienos metas.** Ten dėliokite vonią, išvykas ir pagrindinę veiklą.
+- **Pakankamai laiko** valgiui, prausimuisi ir apsirengimui, kad niekas nesiskubintų.
+- **Reguliarus keltis ir eiti miegoti.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Tas pats šaltinis rekomenduoja įtraukti įvairių dalykų: namų ruošos darbų, valgymų, asmens priežiūros, kūrybinės veiklos, fizinio aktyvumo, socialinio bendravimo, dvasinės veiklos ir netikėtų akimirkų, pavyzdžiui, kai užsuka draugas.
 
-### Try it for a week, then adjust
+### Išbandykite savaitę, tada koreguokite
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Kiekvieną dieną pasižymėkite trumpą pastabą. Alzheimerio asociacija siūlo sau klausti, kurios veiklos buvo geriausios ir kodėl, ar buvo laikų, kai per daug vyko arba per mažai buvo ką veikti, ar netikėti planai buvo malonūs, ar sukėlė nerimą. Pasilikite tai, kas veikia, ir keiskite tai, kas neveikia.
 
-### Make it visible
+### Padarykite rutiną matomą
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Jei žmogus dar skaito, lenta ar didesnio šrifto kortelė su dienos planu gali suteikti ramybės. Laikykite ją trumpą: „Pusryčiai. Pasivaikščiojimas su Ona. Pietūs. Poilsis.“ Kai kuriems žmonėms geriau, kad jie iš anksto nežinotų, kas bus; Šeimos slaugytojų aliansas pataria apie planus kalbėti tik prieš pat jų įvykimą, jei tai kelia nerimą.
 
-## How to adapt the routine
+## Kaip pritaikyti rutiną
 
-### Leave room to breathe
+### Palikite vietos atsikvėpti
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Neužpildykite kiekvienos minutės. Alzheimerio asociacija pabrėžia, kad žmogui reikia veiklos ir poilsio pusiausvyros, o pertraukų gali prireikti dažniau. Jei jis atrodo nuobodžiaujantis, išsiblaškęs ar irzlus, pakeiskite veiklą arba pailsėkite.
 
-### Protect the late afternoon
+### Saugokite popietę ir vakarą
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Daugelis žmonių vis labiau neramauja, kai temsta. NIA pataria kasdien būti lauke arba prie lango, kad gautų saulės šviesos, kasdien judėti, nedaryti per daug planų, vengti kofeino ir alkoholio vėlai dieną bei neleisti ilgai miegoti vėlyvą popietę. Kai kurios šeimos taip pat mano, kad padeda prieš prietemą užtraukti užuolaidas ir įjungti šviesas. Žr. [vakaro neramumą](/caregiving/late-day-restlessness/) ir [miegą](/brain-health/sleep/).
 
-### Change it as needs change
+### Keiskite, kai keičiasi poreikiai
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Ankstyvoji stadija:** planą sudarykite kartu. Žmogus gali norėti turėti rašytinį tvarkaraštį, kurį pats tvarko.
+- **Vidurinė stadija:** daugiau vadovaujate jūs. Trumpesnės veiklos, daugiau poilsio ir daug pažįstamų darbų; žr. [veiklas vidurinėje stadijoje](/activities/middle-stage/).
+- **Vėlyvoji stadija:** rutina sutelkiama į komfortą, valgymą ir priežiūrą, tarp jų – trumpi jutiminiai momentai, pavyzdžiui, muzika ar rankų masažas; žr. [veiklas vėlyvoje stadijoje](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Keiskite veiklas, o ne pagrindą
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Valgymus, poilsį ir miegą išlaikykite pastovius, o tarp jų kaitaliokite veiklas. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pataria skirtingomis dienomis išbandyti skirtingas veiklas, kad būtų įdomiau. Pavyzdžiui, pirmadienį galite kepti, antradienį sodinti, trečiadienį žiūrėti nuotraukas. Mūsų [101 veiklos idėja](/activities/ideas/) ir [namų ruošos darbai](/activities/household-tasks/) gali užpildyti laiko tarpus.
 
-## When the day goes sideways
+## Kai diena nusisuka ne taip
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Kai kurios dienos nepaisys jokio plano. Liga, bloga naktis, gydytojo vizitas ar oro pokytis gali viską sujaukti. Atsisakykite plano, išlaikykite pagrindinius dalykus (maistą, gėrimą, poilsį, komfortą) ir kitą dieną bandykite iš naujo. Jei žmogus atsisako kažko, žr. [kai jie sako ne](/caregiving/when-they-say-no/). Kartu padaryta lėta kvėpavimo pauzė, pavyzdžiui, [ramus kvėpavimas](/games/calm-breathing/), gali padėti jums abiem atsigauti.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Ir jūsų pačių rutina svarbi. Įtraukite pertraukas sau ir paprašykite šeimos ar poilsio paslaugos teikėjų padengti reguliarias laisvas dienas. Žr. [slaugytojo savipriežiūrą](/caregiving/caregiver-self-care/).

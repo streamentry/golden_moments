@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Feierdags-Aktivitéiten fir Mënsche mat Demenz, vun Thanksgiving un"
+seoTitle: "Feierdags- a Thanksgiving-Iddien fir Demenz"
+description: "Einfach Feierdags-Aktivitéiten fir Mënsche mat Demenz: Kachjobs, Dekoréieren, Musek, Fotoe a Videoruff, plus Tipps fir e rouegt Thanksgiving oder Chrëschtdag."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Haalt d'Feierdeeg méi kleng, méi fréi am Dag a nobäi der gewinnter Routine vun der
+  Persoun. Gitt hir eng richteg, sécher Aufgab, wéi den Dësch decken, Geméis
+  wäschen, e Kaddo ausbanne oder eng Dekoratioun ophänken. Deelt vertraut Musek
+  an al Fotoen, bereet d'Gäscht virdrun vir a richt e roueg Zëmmer an. Mach nëmmen
+  dat, wat Dir ouni Stress packt; eng kuerz, roueg Feier ass eng gutt.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Feiert méi fréi am Dag, wéi e Brunch oder Mëttegiessen, wann spéi Verwierrung dacks ass."
+  - "Bidd richteg Aufgaben un: den Dësch decken, Produkter wäschen, ausbanne, dekoréieren oder de Dessert upaken."
+  - "Vertraut Chrëschtleeder, Chrëschtmusek an al Fotoalben si einfach Weeër, d'Joreszäit ze deelen."
+  - "Sot de Gäscht virdrun, wat se erwaart, a weist der Persoun Fotoe vun deenen, déi kommen."
+  - "Richt e roueg Zëmmer mat enger Liiblingsdecken oder engem Pullover an, a loosst nëmmen e puer Besucher op eng Kéier kommen."
+  - "Lauschtert alles of, wat iwwerfuerdert: Dekoen, déi wéi Iessen ausgesinn, a vill blénkend Luuchten."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Wat kann eng Persoun mat Demenz beim Thanksgiving maachen?"
+    a: "Gitt hir eng einfach, sécher Aufgab, déi zu deem passt, wat si haut kann: Geméis wäschen, Cranberry-Zopp réieren, den Dësch decken, Servietten falen oder Dessert op de Teller leeën. Duerno kucke Dir al Familljefotoe oder sangt vertraut Lidder zesummen. Dobäi ze sinn zielt méi wéi wéi d'Aufgab erauskënnt."
+  - q: "Sollte mir nach eng grouss Familljefeier maachen?"
+    a: "Nëmmen, wann et packbar ass. Gedrängel an Lärm kënnen iwwerfuerderen, dofir wiesselen vill Familljen op eng méi kleng, méi locker Feier, e fréiert Iessen oder Besucher, déi a klenge Gruppen kommen. D'Alzheimer's Association ermutegt Betreier, nëmmen dat ze maachen, wat se vernünfteg a sécher packen."
+  - q: "Wéi bereet ech Familljemembere vir, déi laang net do waren?"
+    a: "Sot hinnen virdrun, wat se kënnen Ännerungen gesinn, a datt se vun der Krankheet kommen an net vun der Persoun. Bitt se, net ze korrigéieren oder ze quizzen, eent nom aneren ze schwätzen an Zäit fir Äntwerte ze loossen. Fotoe vun de Gäscht virdru ze weisen hëlleft och."
+  - q: "Wat fir Feierdagskaddoen passen zu enger Persoun mat Demenz?"
+    a: "Einfach, sécher Saachen, déi se haut genéisse kann: e Liiblings-Snack, eng weich Decken oder e Pullover, vertraut Musek oder e Fotoalbum vun der Famill. Vermeit kompliziert Elektronik, Werkzeug a schwéier Brettspiller. Wann se beim Schenken mat hëlleft, wéi e Kaddo ze verpaken oder Guetzelen anzepaken, déi se mat gebak huet, ass dat selwer e Kaddo."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Feierdeeg kënnen warm Erënnerungen zréckbréngen, mä och Lärm, Gedrängel an Ännerungen am gewinnte Dag. Fir eng Persoun mat Demenz sinn déi bescht Feieren dacks méi kleng, méi lues a rondrem Saachen gebaut, déi si nach gär hat. Dës Iddien passen fir Thanksgiving, Chrëschtdag, Hanukkah, Neijoer a Familljegebuertsdeeg.
 
-## How do I plan a calmer holiday?
+## Wéi plangen ech e méi roueg Feierdag?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Fänkt bei der Routine vun der Persoun un a plangt den Dag ronderëm. D'[Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) rät, d'Feier méi fréi am Dag ze halen, well Verwierrung a Rastlosegkeet dacks am spéiden Nomëtteg an um Owend wuessen (heiansdo Sundowning genannt). E Feierdagsmëttegiessen oder Brunch kann méi einfach sinn wéi e spéiden Owendiessen.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Hält et déi richteg Gréisst.** E méi klenge, locker Treffen oder Gäscht, déi a klenge Gruppen kommen, ass dacks méi einfach wéi een volle Dësch.
+- **Verdeelt d'Aufgaben.** Bieft Verwandten, eng Schëssel matzebréngen, d'Akeeften ze maachen oder Zäit mat der Persoun ze verbréngen, wärend Dir kacht. Sot genau, wat hëllefe géif.
+- **Halt d'Dekoratioun einfach.** D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) mierkt un, dass blénkend Luuchten verwierend si kënnen, a dass Séissegkeeten oder kënschtlech Uebst als Dekoratioun fir Iessen gehal ka ginn.
+- **Entscheet, wat Dir weglosst.** Wann eng Traditioun stressend oder riskant ginn ass, ass et ok, se ausfalen ze loossen oder eng méi roueg ze probéieren.
 
-## What holiday activities can we do together?
+## Wéi eng Feieraktivitéiten kënne mir zesummen maachen?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Wielt Aufgaben a Beschäftegungen, déi zu deem passen, wat d'Persoun haut kann. Dobäi ze sinn zielt méi wéi wéi et erausgeet.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Deckt den Dësch zesumme.** Leet als Éischt d'Teller, dann d'Servietten, dann d'Glieser hin. Servietten falen ass eng gutt Aufgab, fir sëtzend ze maachen.
+2. **Wäscht a sortéiert Geméis.** Kartoffelen oofwäschen oder Bounen am Kichendësch briechen ass sécher a vertraut fir vill Leit, déi fréier gekacht hunn.
+3. **Réieren, mëschen oder upaken.** Cranberry-Zopp réieren, e einfache Teig mëschen oder Guetzelen op e Teller leeën hält d'Hänn beschäftegt, ewech vum Herd a vun de Messer.
+4. **E Kaddo ausbanne.** Pabeier a Krank virschneiden, a loosst d'Persoun falen a gläichmaachen. Schéi Verpakung ass net de Punkt.
+5. **E puer Dekoratiounen ophänken.** Wielt onbriechbar Ornamenter an eng kleng Plaz, wéi e Kränzchen oder e klenge Chrëschtbam.
+6. **E einfach Bastelwierk maachen.** Pabeierketten, e Blieder-Kollage oder eng Feierdagskaart mat Stempel si gutt. Eisen [Konscht- a Bastelguide](/activities/arts-and-crafts/) huet méi Iddien.
+7. **Sangen a lauschteren.** Vertraut Chrëschtlieder a Feierdagslidder si einfach matzesangen, och fir eng Persoun, déi haut manner schwätzt. Kuckt eisen [Musekguide](/activities/music/) fir eng Playlist ze bauen.
+8. **Al Feierdagsfotoe kucken.** Hëlt Albumen vu fréiere Feieren eraus a bidd zu Geschichten an, „Erzielt mir iwwer dëse Dësch“, amplaz ze froen, wiem dat ass. Eise [Erënnerungsguide](/activities/reminiscence/) erkläert, wéi.
+9. **E gentille Gruppespill spillen.** [Billerbingo](/games/picture-bingo/) ass a Minutten ausgedréckt a passt fir all Alter, a [Gespréichskaarten](/games/conversation-cards/) ginn jidderengem eppes ze schwätzen.
+10. **Zesumme ausmoolen.** Einfach [Ausmoolbiller](/games/coloring/) kënnen ausgedréckt ginn, fir Kanner a Grousselteren um Dësch zesumme ze deelen.
+11. **E Liiblingsfeierdagsfilm kucken.** E vertrauen Film ass roueg, a et ass ok, nëmmen e Stéck dervun ze kucken.
+12. **Eng kuerz Autosfahrt fir d'Luuchten.** E roueg Fuere laanscht dekoréiert Haiser ka méi einfach sinn wéi eng gedrängte Verantaltung.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Wann d'Kachen eng grouss Roll am Liewen vun der Persoun gespillt huet, hëlleft eise Guide zu [Hausaufgaben als Aktivitéiten](/activities/household-tasks/) mat méi Weeër, Kichenaufgaben sécher a befriddegend ze maachen.
 
-## How do I prepare guests?
+## Wéi bereet ech d'Gäscht vir?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Sot de Gäscht virdrun, wat se erwaart, besonnesch Verwandten, déi laang net do waren. D'Alzheimer's Association rät, ze erklären, datt Ännerungen am Gedächtnis a Verhalen vun der Krankheet kommen an net vun der Persoun.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Deelt e puer einfach Tipps:** eent nom aneren schwätzen, Zäit loossen, een Undrock fäerdeg ze denken, net korrigéieren oder quizzen, a sech no Toun a Stëmmung vun der Persoun richten, wann Wieder schwéier fale.
+- **Sot, wat hëlleft a wat stéiert.** Wann haart Stëmmen, Hetz oder bestëmmte Themen Stress verursaachen, sot dat.
+- **Stellt d'Gäscht virdru vir.** Weist der Persoun Fotoe vun deenen, déi kommen, a erzielt eng oder zwou Geschichten, oder maacht e kuerzen Telefons- oder Videoruff virum Dag.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Eis [Kommunikatiounstipps](/caregiving/communication-tips/) ginn méi Detailer.
 
-## What if it gets to be too much?
+## Wat maachen ech, wann et ze vill gëtt?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Riicht ier d'Gäscht kommen e roueg Zëmmer an, ewech vum Lärm, mat vertraute Komfortsaachen wéi enger Liiblingsdecken, engem Pullover oder enger eenfacher Aktivitéit. Bitt et fréi a reegelméisseg un: „Mir kënne sech e bësse méi roueg hisetzen?“
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Den Dësch ze verloossen, fréi an d'Bett ze goen oder en Deel vum Dag auszeloosen ass e gudde Resultat, kee Versoen. Wann d'Persoun opgereegt gëtt, hëlleft oft eng roueg Stëmm, en vertrauten Lidd oder e Spadséiergang an en aneren Raum méi wéi Argumenter. Eise Guide zu [Ënnerhalt um Owend](/caregiving/late-day-restlessness/) huet méi Iddien fir Owenden.
 
-## How can family far away take part?
+## Wéi kann d'Famill, déi weit ewech wunnt, matmaachen?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Videoruff erlaabt Verwandten matzemaachen, ouni d'Mass ze vergréisseren. D'Alzheimer's Association rät, d'Uriff mat enger Struktur ze gestalten, zum Beispill jahreszäitlech Lidder ze sangen, Fotoe vu fréiere Treffen ze weisen, dat selwecht Rezept zesummen ze kachen oder en Feierdagsfilm zur selwechter Zäit ze kucken. Hält d'Uriffe kuerz a bieft d'Leit, eent nom aneren ze schwätzen, well dorcheneen Schwätzen schwéier ze verfollegen ass. Eise [Telefons- a Videoruff-Guide](/activities/phone-and-video-calls/) huet Schrëtt-fir-Schrëtt-Iddien.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Wann d'Persoun a enger Gedächtnis-Pflegeanstalt wunnt, kuckt d'Besuchsreegele vun der Institutioun a freet d'Personal, ob se beim Opriichten vun engem Ruff hëllefen. Eise Guide zu [Besuch bei enger Persoun an der Gedächtnispflege](/activities/visiting/) erkläert, wat ee mëtbréngt an wéi ee gutt geet.
 
-## What gifts suit someone with dementia?
+## Wat fir Kaddoe passen zu enger Persoun mat Demenz?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Einfach, sécher Kaddoen, déi se haut genéisse kann, funktionéiere meeschtens am beschten: e Liiblings-Snack, eng weich Decken oder eng Strëckjackett, vertraut Musek, en Grouss-Schrëft-Kalenner oder e Fotoalbum vun der Famill. D'Alzheimer's Association rät, gefährlech Werkzeuge, kompliziert Elektronik a schwéier Brettspiller ze vermeiden.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Schenken ka genee sou wichteg sinn wéi kréien. Guetzelen, déi d'Persoun gehollef huet ze backen, oder e Kaddo, dat si fir Iech verpaken kann, léisst se un der Saison deelhuelen. Eng Famill-Fotospill ass eng aner Iddi: [Fotopueren](/games/photo-pairs/) mécht e puer ausgewielte Fotoe zu engem gentille Matching-Spill am Browser.
 
-## Look after yourself too
+## Kuckt och Iech selwer
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Feierdeeg bréngen Aarbecht an d'Betreiung. Loosst en anere Gaaschtgeber sinn oder de Kalkut kachen, sot Nee zu Veranstaltungen, déi schwéier wäerte ginn, a hëlt Paus, wann anerer Zäit mat der Persoun verbréngen. Wann Dir oder d'Persoun, fir déi Dir sorgt, krank sidd, ass e Wénken vun der Ausfahrt oder e Videoruff e gudde Besuch. Eise Guide zu [Selbstpfleeg fir Betreier](/caregiving/caregiver-self-care/) huet méi Ënnerstëtzung.

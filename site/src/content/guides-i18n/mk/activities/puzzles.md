@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Загатки за лица со деменција: слагалици, зборовни загатки и лесни онлајн загатки"
+seoTitle: "Загатки за деменција: слагалици и зборовни загатки"
+description: "Како да изберете слагалици, зборовни и онлајн загатки за некој со деменција: големина на парчињата, слики, голем печат, заедничко решавање и кога да се поедностават."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Најдобрата загатка за некој со деменција е онаа што ја завршуваат со малку
+  помош и уживаат во текот. Изберете слагалици со помалку, поголеми парчиња и
+  јасна возрасна слика, држете ја сликата од кутијата на видно место и прво
+  сортирајте ги парчињата од рабовите. Пронаоѓањето зборови и крстозборките
+  најдобро функционираат со голем печат. Лесните онлајн загатки со четири
+  парчиња одговараат на средниот стадиум. Застанете додека е пријатно.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Изберете според тоа како оди, не според ознака за стадиум: ако загатката изгледа како работа, пробајте една со помалку парчиња."
+  - "Големи, цврсти парчиња и јасна слика со различни области на боја се полесни од ситни парчиња и големи небиња."
+  - "Возрасните слики се важни. Градини, кујни, автомобили и животни, а не цртани филмови."
+  - "Заедничкото решавање е поентата. Подавајте парчиња, сортирајте ги рабовите, држете го капакот од кутијата на видно место."
+  - "Пронаоѓањето зборови со голем печат и лесните онлајн загатки со 4 или 9 парчиња се бесплатни на овој сајт."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Колку парчиња слагалица се најдобри за некој со деменција?"
+    a: "Нема еден точен број. Некој што решавал слагалици од илјада парчиња сè уште може да ужива во неколку стотици на почетокот, додека други најдобро се чувствуваат со дузина поголеми парчиња. Ако слагалицата изгледа како работа или предизвикува фрустрација, префрлете се на помалку парчиња. Нашата онлајн Слика-загатка има 4 или 9 парчиња."
+  - q: "Дали слагалиците се добри за луѓе со деменција?"
+    a: "Многумина уживаат во нив, особено ако претходно сакале слагалици. Слагалицата му дава на рацете нешто да прават, јасна цел и слика за разговор. Ниедна слагалица не е покажана дека лечи или го забавува деменцијата, па изберете ги за уживање и дружење."
+  - q: "Што да правам кога некој повеќе не може да се справи со слагалица?"
+    a: "Направете ја помала и повеќе правете ја сами: подавајте по едно парче или оставете им само последните неколку парчиња. Пробајте онлајн слагалица со 4 парчиња, сортирање парчиња по боја или едноставно гледање на готовата слика заедно."
+  - q: "Дали крстозборките и пронаоѓањето зборови се погодни за деменција?"
+    a: "Можат да бидат во рана фаза, со голем печат. Пронаоѓањето зборови каде зборовите се само хоризонтално и вертикално е полесно од она со дијагонални или наназад напишани зборови. Прочитајте ги наводите или списокот со зборови наглас и работете заедно."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Слагалицата распоредена на трпезариската маса е една од најлесните активности за споделување. Можете да седите заедно без потреба да зборувате, сликата ви дава нешто за разговор, а ставањето на последното парче се чувствува добро. Загатките мора да се менуваат како што се менува деменцијата. Загатка што е премногу тешка може да претвори мирно попладне во фрустрирачко. Оваа страница опфаќа како да изберете и поставите слагалици, зборовни и лесни онлајн загатки, и што да правите кога стануваат тешки.
 
-## Are puzzles good for people with dementia?
+## Дали загатките се добри за луѓе со деменција?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Многумина уживаат во нив, особено оние што претходно решавале загатки. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) ги наведува пронаоѓањето зборови, картичките и настолните игри меѓу активностите за рана фаза, а [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) ги спомнува онлајн игрите и загатките на таблети како еден начин да останете вклучени.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Загатките не се третман. Ниедна загатка не е покажана дека ја забавува или запира деменцијата; нашиот водич за [мозочни игри и деменција](/brain-health/brain-games/) ги објаснува истражувањата. Причината да се решава загатка е тоа што може да биде пријатен, зафаќачки час заедно. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) го сумира тоа: фокус на уживањето, не на постигнувањето.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Како да изберете слагалица за некој со деменција?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Водете се по тоа што лицето го сака и како поминала последната слагалица, не по ознака за стадиум.
 
-### Number of pieces
+### Број на парчиња
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Нема точен број. Некој што решавал слагалици цел живот сè уште може да ужива во неколку стотици парчиња на почетокот, додека некој друг најмногу ужива со дузина. Практично правило: ако последната слагалица изгледала како работа, изберете една со приближно половина парчиња. Ако била завршена брзо и тие сакале повеќе, одете малку повеќе.
 
-### Piece size and feel
+### Големина и чувство на парчињата
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Поголеми парчиња** се полесни за гледање, земање и вртење.
+- **Дебели, цврсти парчиња** стојат на место и издржуваат кога ќе паднат.
+- **Мат површина** го намалува блесокот под светилки и прозорци.
+- **Избегнувајте ситни парчиња** ако лицето може да стави работи во устата, што може да се случи подоцна кај деменцијата.
 
-### The picture
+### Сликата
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Возрасни теми.** Градини, кујни, стари автомобили, фармски животни, приморски град, омилен спорт. Не цртани филмови или нешто што изгледа како детска играчка.
+- **Различни области на боја.** Црвен амбар, син чамец и зелено поле се полесни од небо што зафаќа половина од слагалицата.
+- **Познато и лично.** Слика од место каде живееле или хоби што го сакале даваат многу за разговор. Некои печатници можат да претворат семејна фотографија во слагалица.
 
-## How do you do a puzzle together?
+## Како да решавате загатка заедно?
 
-Set it up so the person can get straight to the enjoyable part.
+Поставете ја така што лицето може веднаш да стигне до пријатниот дел.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Изберете добро место.** Добро светло, фотелја со потпирачи и маса или послужавник каде слагалицата може да остане.
+2. **Потпрете го капакот од кутијата** каде и двајцата можете да го видите.
+3. **Свртете ги парчињата со лицето нагоре** пред да започнете.
+4. **Сортирајте ги рабовите** сами, или прво направете ја рамката и оставете ја средината за нив.
+5. **Групирајте ги парчињата по боја** во неколку плитки послужавници или чинии.
+6. **Подавајте по едно парче** ако купот е преголем. „Мислам дека ова е дел од амбарот.“
+7. **Зборувајте за сликата,** не за напредокот. „Ова изгледа како чамецот што го имаше татко ми.“
+8. **Оставете ја да стои.** Вратете се кон неа во текот на неколку дена. Нема брзање.
+9. **Застанете на добра нота,** откако ќе се стави парче, додека сè уште е пријатно.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[Националниот институт за стареење](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) советува да му помогнете на лицето да почне, да внимавате на фрустрација и да го пуштите едноставно да гледа ако тоа повеќе му се допаѓа. Гледањето како ставате парчиња и покажувањето каде може да оди едно парче е сè уште учество.
 
-## Easy online puzzles
+## Лесни онлајн загатки
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Загатката на таблет има неколку вистински предности: нема изгубени парчиња, големи слики што го полнат екранот и не треба да се чисти маса.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Нашата бесплатна [Слика-загатка](/games/picture-puzzle/) ја сече сликата на 4 или 9 парчиња. Допрете две парчиња за да ги заменете додека сликата не е цела. Целата слика останува на екранот како водич, нема тајмер и можете да застанете во секој момент. Четири парчиња им одговараат на многу луѓе во средниот стадиум кога некој е покрај нив.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+За уште поедноставна игра со слики, пробајте [Најдете го истото](/games/find-the-same/), каде допирате слика што одговара на една горе, или [Сортирајте заедно](/games/sort-together/), каде сликите одат во корпи како кујната или градината.
 
-## Word puzzles: word searches and crosswords
+## Зборовни загатки: пронаоѓање зборови и крстозборки
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Зборовните загатки им одговараат на луѓе што секогаш ги уживале, обично порано во деменцијата.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Пронаоѓање зборови со голем печат.** Нашето бесплатно [Пронаоѓање зборови](/games/word-search/) користи големи букви и само неколку зборови, хоризонтално и вертикално, никогаш дијагонално или наназад. Играјте на екран или испечатете.
+- **Прочитајте го списокот наглас.** Едно лице чита збор, другото го бара. Доволно е и само да се заокружи првата буква.
+- **Крстозборки со голем печат** од книги со загатки може да функционираат на почетокот. Прочитајте ги наводите наглас, поделете го пенкалото и пополнете ги одговорите заедно. Полесни, тематски крстозборки се подобри од криптични.
+- **Зборувајте за зборовите.** „Градина“ може да отвори десет минути разговор за домати.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+За повеќе хартиени активности и како да се печатат за да се гледаат и држат полесно, видете [бесплатни печатливи активности за деменција](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Кои загатки одговараат на секој стадиум?
 
-Stages overlap, and good and hard days are normal.
+Стадиумите се преклопуваат, а добрите и тешките денови се нормални.
 
-| Stage | Puzzles that often fit | Your role |
+| Стадиум | Загатки што често одговараат | Вашата улога |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Рана | Познати слагалици со помалку парчиња од порано, крстозборки и пронаоѓање зборови со голем печат, онлајн загатки со 9 парчиња | Партнер: нека изберат, помогнете кога ќе побараат |
+| Средна | Слагалици со дузина поголеми парчиња, онлајн загатки со 4 парчиња, пронаоѓање зборови прочитано наглас заедно | Подгответе, сортирајте парчиња, подавајте по едно |
+| Доцна | Гледање на готова слика заедно, Најдете го истото со две слики, држење на неколку големи парчиња | Донесете им ја; вашето дружење е активноста |
 
-## When should you make a puzzle easier, or stop?
+## Кога да загатката ја поедноставите или да застанете?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Внимавајте на воздивнување, туркање на парчиња настрана, повторено „Не можам“ или загрижени погледи. Тоа се знаци да се промени нешто, не да се притиска понатаму.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Направете ја помала.** Помалку парчиња, или оставете им само последните неколку.
+- **Повеќе правете сами** и поканете ги да помогнат во лесните делови.
+- **Префрлете се на нешто блиску:** сортирање парчиња по боја, онлајн загатка со 4 парчиња или [бојадисување](/games/coloring/).
+- **Застанете.** Оставете ја настрана и испијте чај. Можете да се вратите друг ден, или воопшто нема.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ако загатките почнат да делуваат како потсетник за она што е тешко, во ред е да ги оставите. Има многу други начини да поминете добро време заедно; нашите [101 идеи за активности](/activities/ideas/) се добро место за барање.

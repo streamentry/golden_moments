@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Veiklos vėlyvojoje demencijos stadijoje, įskaitant lovoje ar fotelyje"
+seoTitle: "Veiklos vėlyvojoje demencijos stadijoje: lovos ir fotelio idėjos"
+description: "Švelnios veiklos vėlyvojoje demencijos stadijoje, įskaitant žmogų lovoje ar fotelyje: muzika, lietimas, skaitymas balsu, garsai ir buvimas kartu, su saugos patarimais."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  Vėlyvojoje demencijos stadijoje veiklos sutelktos į pojūčius ir jūsų kompaniją:
+  mėgstamos muzikos grojimas, rankų laikymas, lėtas rankų masažas, skaitymas
+  balsu, nuotraukų žiūrėjimas, gamtos garsai ir sėdėjimas prie lango ar lauke.
+  Tai tinka lovoje ar fotelyje. Trumpinkite užsiėmimus, stebėkite veidą ir rankas,
+  ar žmogui patogu, ir prisiminkite, kad buvimas šalia ir yra veikla.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Ryšys vis dar įmanomas. Vėlyvojoje stadijoje pasaulį žmogus daugiausia patiria per pojūčius."
+  - "Muzika, švelnus lietimas, pažįstami balsai ir minkšti daiktai laikyti dažnai pasiekia žmogų tada, kai žodžiai jau nebepasiekia."
+  - "Beveik kiekviena čia pateikta idėja tinka žmogui, esančiam lovoje ar fotelyje."
+  - "Stebėkite komfortą ir diskomfortą veide, rankose ir kvėpavime, o pastebėję nerimą – sustokite."
+  - "Vengite mažų daiktų ir siūlykite maistą ar gėrimą tik taip, kaip pataria priežiūros komanda, nes rijimas gali tapti nesaugus."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Kokias veiklas galima daryti su žmogumi, gyvenančiu lovoje, kai vėlyvoji demencija?"
+    a: "Groti mėgstamą muziką, laikyti jo ranką, lėtai masažuoti rankas su kremu, skaityti balsu jo mylimą knygą ar maldą, rodyti nuotraukas ar įjungti švelnius gamtos garsus. Atidarykite užuolaidas, kad jis galėtų matyti lauką. Trumpi, ramūs užsiėmimai, kuriuose vienas dalykas vienu metu, paprastai veikia geriausiai."
+  - q: "Ar žmonės vėlyvojoje demencijos stadijoje dar gali mėgautis muzika?"
+    a: "Daugelis gali. Alzheimerio asociacija pastebi, kad net vėlyvojoje stadijoje žmogus gali pabakšnoti ritmą ar dainuoti kartu dainą iš vaikystės. Rinkitės muziką, kurią jis mėgo jaunystėje, ir palaikykite tylų garsą."
+  - q: "Iš kur žinoti, ar jam patinka veikla?"
+    a: "Stebėkite smulkius ženklus: atsipalaidavusius pečius, švelnesnį veidą, akių kontaktą, dūzgimą, rankos spaudimą ar lėtesnį kvėpavimą. Grimasos, atitraukimas, neramumas ar dejavimas gali reikšti diskomfortą ar skausmą. Pastebėję tai, sustokite, o jei tai tęsiasi – pasakykite priežiūros komandai."
+  - q: "Ar verta lankytis, jei jis manęs jau neatpažįsta?"
+    a: "Taip. Nacionalinis senėjimo institutas pažymi, kad vien buvimas šalia gali nuraminti, o lietimas, muzika ir istorijos vis dar gali teikti paguodą pažengusioje demencijoje. Jūsų balsas ir prisilietimas gali būti pažįstami, net kai vardas nebėra."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+Vėlyvojoje demencijos stadijoje žmogus gali kalbėti labai mažai, reikia pagalbos visoje kasdienėje priežiūroje ir didžiąją dienos dalį praleidžia lovoje ar fotelyje. Gali atrodyti, kad kartu nebeliko ką daryti. Vis dar yra. [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) pastebi, kad tam tikra asmenybės dalis gali išlikti, o šiame etape pasaulį žmogus daugiausia patiria per pojūčius. Muzika, lietimas, pažįstamas balsas ir jūsų ramus buvimas vis dar gali suteikti paguodos ir akimirkų ryšio.
 
-## What activities help in late-stage dementia?
+## Kokios veiklos padeda vėlyvojoje demencijos stadijoje?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+Vėlyvojoje stadijoje labiausiai padeda paprastos jutiminės veiklos ir tylus buvimas kartu. Alzheimerio asociacija pataria groti mėgstamą muziką, skaityti prasmingų knygų dalis, įtrinti kvapą turinčiu mėgstamu kremu odą ir sėdėti lauke kartu gražią dieną. [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) prideda pasakojimus, nuotraukų rodymą, švelnų lietimą ar masažą, muziką, baltąjį triukšmą ar gamtos garsus ir sako, kad vien jūsų buvimas gali nuraminti.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimerio fondas Amerikoje](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) pažymi, kad žmonės vėlyvojoje stadijoje dažnai labai nori ką nors prisiglausti paguodai, ir siūlo paprastas jutimo veiklas, švelnius tempimus, šalikų judesius, muziką, gyvūnų vizitus, lietimą ir laisvos formos meną.
 
-## Activities for someone in bed or a chair
+## Veiklos žmogui lovoje ar fotelyje
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Grokite jo muziką.** Rinkitės dainas iš jaunystės, tikėjimo ar šeimos. Palaikykite tylų garsą ir sėdėkite arti. Net dabar kai kurie žmonės bakšnoja pirštu ar dūzgia. Žr. [muzikos veiklas](/activities/music/).
+2. **Laikykite rankas.** Vien rankos laikymas, su švelniu nykščio glostymu, yra veikla. Pirma pasakykite, ką darote.
+3. **Lėtai masažuokite rankas.** Šiek tiek kremo įšildykite delnuose ir glostykite nuo riešo iki pirštų galiukų. Rinkitės be kvapo kremą arba kvapą, kurį jis visada mėgo, jei jo oda tai toleruoja.
+4. **Skaitykite balsu.** Mėgstamą eilėraštį, ištrauką iš mylimos knygos, šventą tekstą ar sporto skiltį. Jūsų balso ritmas svarbesnis nei žodžiai.
+5. **Papasakokite istoriją.** Kalbėkite apie šeimos kelionę ar dieną, kai jis vedė. Atsakymų nereikia.
+6. **Rodykite nuotraukas.** Laikykite vieną didelę nuotrauką vienu metu akių lygyje ir šiltai ją aprašykite. Nekiškite klausimo, kas ten yra.
+7. **Pasiūlykite ką nors minkšto laikyti.** Sulankstytą skudurėlį, flisinį kvadratą ar minkštą gyvūnėlį. NIA pataria duoti žmogui skudurėlį laikyti, kai jį perkelia, kad jis rečiau griebtųsi už jūsų ar baldų.
+8. **Įjunkite gamtos garsus.** Lietus, bangos ar paukščių giedojimas tyliai gali sušvelninti triukšmingą kambarį.
+9. **Įneškite lauką į vidų.** Atidarykite užuolaidas, pakabinkite lesyklėlę prie lango ar įneškite keletą šviežių gėlių ar lapų pažiūrėti ir paliesti.
+10. **Išeikite lauką.** Jei žmogus gali sėdėti vežimėlyje, keletas minučių pavėsyje švelnią dieną gali būti labai malonu.
+11. **Šukuokite plaukus ar pasiūlykite šiltą skudurėlį.** Lėtas, švelnus priežiūros darbas ir šiltas skudurėlis rankoms bei veidui gali atrodyti rūpestingas.
+12. **Judėkite švelniai su muzika.** Kartu mojuokite lengvu šaliku arba sūpuokite rankas pagal dainą. Tempimams ir sąnarių judesiams pirmiausia paprašykite fizioterapeuto ar slaugytojo parodyti saugius būdus.
+13. **Kurkite laisvos formos meną.** Ant didelio popieriaus kempine ar ranka tepkite netoksiškus dažus, vedami jūsų. Teisingo rezultato nėra.
+14. **Priimkite gyvūnų vizitus.** Ramus augintinis ant lovos ar kelių, jei žmogus mėgo gyvūnus ir aplinka tai leidžia.
+15. **Kvėpuokite lėtai kartu.** Sėdėkite arti ir kvėpuokite lėtai, garsiai. [Ramus kvėpavimas](/games/calm-breathing/) gali nustatyti tempą jums abiems, o pradžią ir pabaigą nustatote jūs.
+16. **Tiesiog būkite šalia.** Sėdėkite šalia, dūzgkite, megzkite ar tyliai skaitykite. Buvimas kartu – jau pakankamai.
 
-## How to share an activity at this stage
+## Kaip dalytis veikla šiame etape
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Artėkite iš priekio.** Pasakykite jo vardą ir savo, kalbėkite lėtai ir tyliai, prieš paliesdami.
+- **Siūlykite po vieną dalyką.** Prieš grodami muziką išjunkite televizorių. Vienu metu – vienas pojūtis.
+- **Laikykite trumpai.** Kelių minučių gali pakakti. Keli trumpi momentai per dieną geriau nei vienas ilgas užsiėmimas.
+- **Pirmiausia pasirūpinkite patogumu.** Patikrinkite, ar žmogus gerai atremtas. NIA pataria naudoti lentelę ant lovos, kad atsiremtų rankos ir palaikytų viršutinė kūno dalis, kai žmogus sėdi.
+- **Stebėkite reakciją.** Atsipalaidavusios rankos, švelnesnis veidas, akių kontaktas ar dūzgimas rodo komfortą. NIA pastebi, kad dejavimas, grimasos, kūno dalies saugojimas ar staigus susijaudinimas gali būti skausmo ženklai. Sustokite ir pasakykite priežiūros komandai.
 
-## A quick guide by sense
+## Trumpas gidas pagal pojūtį
 
-| Sense | Ideas | Take care |
+| Pojūtis | Idėjos | Ko saugotis |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Klausa | Mėgstama muzika, jūsų balsas skaitant, gamtos garsai | Palaikykite tylų garsą; vienas garsas vienu metu |
+| Lytėjimas | Rankų masažas, rankų laikymas, minkštas audinys, šiltas skudurėlis | Pirmiausia paklauskite ar įspėkite; patikrinkite, ar oda neskauda ir nepažeista |
+| Regėjimas | Nuotraukos, gėlės, vaizdas pro langą, lėtas gamtos vaizdo įrašas | Laikykite daiktus akių lygyje; geras apšvietimas, be atspindžių |
+| Uoslė | Mėgstamas kremas, šviežios gėlės, kava, verdama netoli | Vengkite stiprių kvapų; patikrinkite alergijas ir kvėpavimą |
+| Skonis | Mažas mėgstamo skonio kąsnelis | Tik tokius maisto produktus ir tekstūras, kuriuos priežiūros komanda pripažįsta saugiais |
 
-## Safety at this stage
+## Saugumas šiame etape
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+Vėlyvojoje stadijoje rijimas gali tapti sunkus, o NIA perspėja, kad tai didina užspringimo riziką. Nepalikite mažų daiktų pasiekiamoje vietoje ir siūlykite maistą ar gėrimą tik tokios tekstūros ir padėtyje, kokias rekomenduoja priežiūros komanda. Lietimo veiklų metu švelniai tikrinkite odą, nes ji gali lengvai įtrūkti ar sumušti. Daugiau apie saugias jutimo idėjas žr. [jutimo veiklas](/activities/sensory/).
 
-## Looking after yourself too
+## Pasirūpinkite ir savimi
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Priežiūra vėlyvojoje stadijoje yra fiziškai ir emociškai sunki, nesvarbu, ar namuose, ar lankantis globos namuose. Paliatyvios ir palaikomosios slaugos komandos gali padėti su komfortu, parama ir planavimu, o NIA jas įvardija kaip pagalbos šaltinį. Trumpi, ramūs apsilankymai verti; žr. [lankymą žmogaus su demencija](/activities/visiting/). Jei vadovaujate grupėms, [globos namų grupinės veiklos](/activities/care-home-groups/) pateikia idėjų, kaip pritaikyti užsiėmimus. Ir prašome perskaityti [slaugytojo savipriežiūrą](/caregiving/caregiver-self-care/): poilsis yra gero rūpinimosi dalis.

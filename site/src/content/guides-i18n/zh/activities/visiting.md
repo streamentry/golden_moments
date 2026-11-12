@@ -1,34 +1,30 @@
 ---
-title: "Visiting Someone with Dementia in Memory Care or the Hospital"
-seoTitle: "Visiting Someone with Dementia: What to Do and Bring"
-description: "What to do when visiting someone with dementia in memory care, a nursing home or the hospital: what to bring, simple activities, short visits and leaving well."
+title: "探望失智照护机构或医院中的失智症患者：该怎么做"
+seoTitle: "探望失智症患者：该做什么，带什么"
+description: "在失智照护机构、养老院或医院探望失智症患者时，该带什么、做哪些简单的活动、怎样短时间探访，以及如何得体地告别。"
 section: activities
 order: 13
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When you visit someone with dementia in memory care or the hospital, keep it
-  simple: say your name as you arrive, bring something to share such as photos,
-  music or a favorite snack, and do one easy thing together. Shorter, regular
-  visits often go better than long, rare ones. Plan a calm, consistent goodbye
-  so leaving is easier for both of you.
+  探望在失智照护机构或医院里的失智症患者时，保持简单：到达时说出自己的名字，带上可以分享的东西，比如照片、音乐或喜欢的零食，并一起做一件容易的事。短暂而有规律的探访，往往比长时间、偶尔的探访效果更好。提前安排平静而一致的告别，让离开对双方都更容易。
 keyPoints:
-  - "Greet the person by name and say who you are, so they do not have to work it out: 'Hi Mom, it's Susan, your daughter.'"
-  - "Bring one or two things to share, such as a photo album, favorite music, a soft blanket or a snack the staff have approved."
-  - "Short, regular visits often go better than long, infrequent ones. Your presence matters more than what you say."
-  - "In the hospital, give staff a one-page sheet about the person and tell the doctor right away about any sudden change."
-  - "Plan your exit: say how long you can stay, use the same goodbye each time, and leave without lingering."
+  - "用名字问候对方，并说明您是谁，让他不必去猜：“妈，您好，我是苏珊，您的女儿。”"
+  - "带一两样可以分享的东西，比如相册、喜欢的音乐、柔软的毯子，或工作人员同意的零食。"
+  - "短暂而经常的探访，往往比长时间、不常来的探访更好。您的陪伴比您说什么更重要。"
+  - "在医院，请给工作人员一页关于对方的说明，并在对方突然变化时立即告诉医生。"
+  - "提前规划离开的时机：说明能待多久，每次都用同样的告别方式，不要拖延。"
 faq:
-  - q: "What should I bring when visiting someone with dementia?"
-    a: "Bring something to share rather than something to talk about. A small photo album, a playlist of their favorite songs, a soft blanket, hand lotion, a magazine about an old hobby, or a snack the staff have approved all work well. In a care home, family photos and familiar objects can also make the room feel more like home."
-  - q: "How long should I stay when visiting someone with dementia?"
-    a: "There is no right length. Many families find shorter, more frequent visits work better than long, rare ones, because the person may tire quickly and may not remember how long you stayed. Watch for signs of tiredness and leave while the visit still feels good."
-  - q: "What do I say when they ask to go home?"
-    a: "Respond to the feeling, not the words. 'I want to go home' often means 'I don't feel comfortable or safe.' Try saying, 'Tell me about your home,' look at photos together, or offer a walk or a snack. Arguing or explaining why they cannot leave usually adds distress."
-  - q: "What if they don't recognize me?"
-    a: "It can hurt, but try not to correct them or ask 'Don't you know who I am?' Introduce yourself warmly and simply enjoy the time together. Many people still enjoy company and feel the warmth of a visit even when they cannot place who you are."
-  - q: "How can I help during a hospital stay?"
-    a: "Stay with the person when you can, help them eat and drink, and bring familiar items like photos. Give staff a sheet listing their routine, preferred name, likes, dislikes and signs of pain. Tell the doctor right away if the person seems suddenly worse or different, because sudden confusion can signal a medical problem."
+  - q: "探望失智症患者时该带什么？"
+    a: "带可以一起分享的东西，而不是需要聊的东西。一本小相册、一份对方喜欢的歌单、一条柔软的毯子、护手霜、一本关于旧爱好的杂志，或工作人员同意的零食，都很合适。在照护机构里，家人的照片和熟悉的物件也能让房间更像家。"
+  - q: "探望失智症患者，应该待多久？"
+    a: "没有标准时长。许多家庭发现，短暂而频繁的探访，比长时间、不常来的探访效果更好，因为对方可能很快感到疲倦，也可能记不住您待了多久。留意对方疲倦的迹象，并在探访仍然让人感觉良好的时候离开。"
+  - q: "对方说“我要回家”，我该怎么回应？"
+    a: "回应的是感受，而不是字面的话。“我要回家”往往意味着“我觉得不舒服或不安全”。可以试着说：“跟我讲讲您的家”，一起看照片，或提议散步、喝点东西。争辩，或解释为什么不能离开，通常只会增加痛苦。"
+  - q: "如果对方认不出我，怎么办？"
+    a: "这可能会让人难过，但请尽量不要纠正对方，也不要问：“您不认得我了吗？”请温和而简单地自我介绍，然后享受相处的时光。许多人即使说不出您是谁，仍然喜欢有人陪伴，并能感受到探访的温暖。"
+  - q: "住院期间，我能怎样帮忙？"
+    a: "尽量陪在对方身边，帮他吃饭喝水，并带上照片等熟悉的物件。给工作人员一张表，写明对方的作息、希望被称呼的名字、喜好、厌恶的事物和疼痛的迹象。如果对方突然变得更糟或与平时不同，请立即告诉医生，因为突然的意识混乱可能是身体出现问题的信号。"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -53,107 +49,107 @@ related: [activities/phone-and-video-calls, activities/reminiscence, activities/
 health: false
 ---
 
-Visiting someone you love in memory care, a nursing home or the hospital can bring up a lot of feelings. You may wonder what to say, what to bring, or whether the visit even matters if they will not remember it. It does matter. The National Institute on Aging notes that people with Alzheimer's [often enjoy company](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) even when they do not remember who the visitor is. This page gives practical steps for before, during and after a visit, plus specific tips for hospital stays.
+去探望在失智照护机构、养老院或医院里的亲人，心里往往会涌起许多情绪。您可能会想：该说什么、该带什么，如果对方记不住，这次探望还有意义吗？有意义。美国国家老龄研究所指出，阿尔茨海默病患者即使不记得探访者是谁，也[往往乐于有人陪伴](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)。本页提供探访前、探访中和探访后的实用步骤，并针对住院情况给出具体建议。
 
-## How do I get ready for a visit?
+## 探访前该怎样准备？
 
-A little planning makes the visit easier for both of you.
+稍作准备，能让双方都更轻松。
 
-- **Pick a good time.** Dementia Australia suggests visiting when the person is usually most alert, which for many people is morning or around midday. The Family Caregiver Alliance suggests learning the facility's schedule and visiting during [free time rather than activity time](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/).
-- **Check with staff.** Ask how the person has been today, and check any rules about food, pets or outings.
-- **Pack a small visit bag.** One or two things to share is enough (see the list below).
-- **Plan a few topics.** The person may not have news to share, so bring your own: family updates, the weather, a ball game, a funny story.
-- **Set your own expectations.** Some visits will be warm and chatty. Others will be quiet or hard. Both are normal.
+- **选好时间。** 澳大利亚失智症协会建议，在对方通常最清醒的时候探望，对许多人来说是早上或接近中午。家庭照顾者联盟建议先了解机构的作息，并在[自由活动时间而不是集体活动时间](https://www.caregiver.org/resource/residential-care-options-visiting-someone-dementia-care/)前来探望。
+- **先问问工作人员。** 问问对方今天的状况，并了解关于食物、宠物或外出的任何规定。
+- **准备一个小包。** 带一两样可以一起分享的东西就够了（见下文清单）。
+- **准备几个话题。** 对方可能没有什么新鲜事可说，所以您自己要带话题：家里的近况、天气、一场球赛、一个有趣的故事。
+- **对自己的期望放平一些。** 有的探访会温暖热闹，有的会安静，甚至艰难。这两种都很正常。
 
-## What should I bring?
+## 该带什么？
 
-Bring things to share, not things that test. Good choices include:
+带可以一起分享的东西，不要带会考人的东西。以下是不错的选择：
 
-- **A small photo album** with large, clear photos. Label them on the back for staff.
-- **A playlist** of favorite songs on a phone, with simple headphones or a small speaker.
-- **Something soft to hold,** such as a familiar blanket, scarf or sweater.
-- **Hand lotion** for a gentle hand massage, if the person enjoys touch.
-- **A magazine or picture book** about an old interest, such as gardening, cars, birds or cooking.
-- **A favorite snack**, if staff say it is safe.
-- **Familiar objects for the room.** The Family Caregiver Alliance suggests flowers, plants, family pictures and artwork, or a large poster of family photos from the past.
-- **A tablet**, for looking at family photos or playing a gentle game together.
+- **一本小相册，**照片要大而清晰。在背面写上标注，方便工作人员了解。
+- **一个播放列表，**存有对方喜欢的歌曲，放在手机里，配上简单的耳机或小音箱。
+- **一件柔软的东西可以抱在手里，**比如熟悉的毯子、围巾或毛衣。
+- **护手霜，**用于轻轻按摩双手，前提是对方喜欢被触碰。
+- **一本杂志或画册，**内容是对方以前的爱好，比如园艺、汽车、鸟类或烹饪。
+- **对方喜欢的零食，**前提是工作人员说可以吃。
+- **布置房间的熟悉物件。** 家庭照顾者联盟建议带花、植物、家人的照片和画作，或一张过去的全家福大海报。
+- **一台平板电脑，**用来看家人照片，或一起玩一个轻松的游戏。
 
-## What can we do together during a visit?
+## 探访时可以一起做什么？
 
-Doing something together takes the pressure off conversation. Dementia Australia suggests looking at photos, an easy craft, planting seedlings, music, sharing a snack, or a stroll around the grounds. A few more ideas:
+一起做点事，能减轻聊天的压力。澳大利亚失智症协会建议看照片、做简单的手工、种幼苗、听音乐、分享零食，或在院子里散散步。以下还有一些建议：
 
-1. **Look at photos.** Point out what you see: "Look at that hat." "This beach looks lovely." Let the person lead. Avoid "Who is this?"
-2. **Play music and sing.** Familiar songs can lift the mood and bring a shared moment, even when talking is hard.
-3. **Take a short walk.** The Family Caregiver Alliance suggests walking around the facility, especially in the garden if there is one. A wheelchair stroll counts.
-4. **Give a hand massage.** A little lotion and slow strokes on the hands can be calming.
-5. **Help with grooming.** Dementia Australia mentions brushing hair, painting nails or helping the person into a favorite outfit, if they enjoy it.
-6. **Play a simple game.** The Family Caregiver Alliance suggests cards, dominoes, or whatever the person used to play. On a tablet, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible and no timer. [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay in your browser.
-7. **Watch something together.** The Family Caregiver Alliance suggests comedies and old movies. Even if the person cannot follow the story, you can sit close and share the time.
-8. **Read aloud.** A short poem, a favorite passage, or a letter from a family member.
-9. **Just sit together.** Holding hands or sitting quietly is a real visit. The Alzheimer's Association notes that it is fine not to know what to say, and that your presence matters most.
+1. **一起看照片。** 指出您看到的东西：“看那顶帽子。”“这片海滩真漂亮。”让对方来引导。避免问“这是谁？”
+2. **听音乐、唱歌。** 熟悉的歌曲能提振心情，即使说话很困难，也能带来一段共同的时光。
+3. **短暂散步。** 家庭照顾者联盟建议在机构里走走，如果有花园，尤其可以去花园。坐轮椅散步也算。
+4. **按摩双手。** 抹一点护手霜，慢慢地按摩双手，可以让人平静下来。
+5. **帮忙打理仪容。** 澳大利亚失智症协会提到，如果对方喜欢，可以帮他梳头、涂指甲，或帮他换上最爱的衣服。
+6. **玩一个简单的游戏。** 家庭照顾者联盟建议玩纸牌、多米诺骨牌，或对方以前常玩的游戏。在平板电脑上，可以玩[图片配对](/games/picture-pairs/)，图片始终可见，没有计时。[照片配对](/games/photo-pairs/)会把您选的照片变成配对游戏，照片只保存在您的浏览器中。
+7. **一起看点节目。** 家庭照顾者联盟建议看喜剧和老电影。即使对方跟不上剧情，您也可以坐近些，一起度过这段时间。
+8. **朗读。** 一首短诗、一段喜爱的文字，或家人写来的一封信。
+9. **静静地坐在一起。** 牵着手或安静地坐着，也是一次真正的探访。阿尔茨海默病协会指出，不知道该说什么也没关系，您的陪伴才最重要。
 
-[Conversation Cards](/games/conversation-cards/) can help when you run out of things to say. Each card has a picture and an open prompt.
+当您不知道该说什么的时候，[对话卡片](/games/conversation-cards/)可以帮忙。每张卡片都有一张图片和一个开放式的提示。
 
-## How should I talk during the visit?
+## 探访时该怎样说话？
 
-- **Introduce yourself every time.** "Hi Dad, it's Mark, your son." The NIA suggests visitors briefly introduce themselves to start a conversation.
-- **Approach from the front** and sit at eye level.
-- **Do not correct or argue.** The NIA advises visitors not to correct the person if they make a mistake or forget something.
-- **Be patient** when words are hard to find. Give plenty of time.
-- **Respond to feelings.** If the person seems sad or worried, acknowledge it before changing the subject.
-- **Avoid quiz questions** like "Do you remember me?" or "What did you have for lunch?"
+- **每次都自我介绍。** “爸，您好，我是马克，您的儿子。”美国国家老龄研究所建议，探访者简短地自我介绍，以便开启对话。
+- **从正面靠近，**并与对方视线齐平地坐下。
+- **不要纠正或争辩。** 美国国家老龄研究所建议，探访者在对方说错或忘记某事时，不要去纠正。
+- **耐心等待，**当对方一时找不到词时。请给足时间。
+- **回应感受。** 如果对方看起来难过或担心，先回应这份情绪，再转换话题。
+- **避免像考试一样的问题，**比如“还记得我吗？”或“午饭吃了什么？”
 
-See our [communication tips](/caregiving/communication-tips/) for more.
+更多内容请见我们的[沟通建议](/caregiving/communication-tips/)。
 
-## What do I do when they say "I want to go home"?
+## 对方说“我想回家”，该怎么办？
 
-Respond to the feeling behind the words (our guide to [when someone keeps asking to go home](/caregiving/asking-to-go-home/) goes further). The Family Caregiver Alliance explains that "I want to go home" is usually a way of saying "I am not comfortable," and suggests responses like "Tell me about your home" or "What's your favorite thing at home?" Dementia Australia adds that "home" can mean a time or place where the person felt safe, such as childhood.
+请回应话语背后的感受（我们关于[对方反复要求回家时该怎么办](/caregiving/asking-to-go-home/)的指南有更详细的说明）。家庭照顾者联盟解释说，“我想回家”通常是在表达“我不舒服”，并建议可以这样回应：“跟我讲讲您的家”或“您在家里最喜欢什么？”澳大利亚失智症协会补充说，对方说的“家”，可能指的是他感到安全的某个时期或地方，比如童年。
 
-Try:
+可以试试：
 
-- acknowledging the feeling: "It sounds like you miss home."
-- offering comfort through touch, if welcome
-- looking at photos or talking about the family home
-- offering a walk, a drink or a snack
+- 先回应感受：“听起来您很想家。”
+- 如果对方愿意，用触摸给予安慰
+- 一起看照片，或聊聊家里的老房子
+- 提议散步、喝点东西或吃点零食
 
-Avoid arguing or explaining why they cannot leave. It rarely helps and often adds distress.
+不要争辩，也不要解释为什么他们不能离开。这样很少有帮助，反而常常增加痛苦。
 
-## How long should a visit be?
+## 探访应该多长时间？
 
-Shorter and more frequent often works better. The Family Caregiver Alliance notes that the person usually does not remember whether you stayed five minutes or five hours, and suggests that three short visits a week can be better than one long one. Dementia Australia says there is no right number of visits or right length.
+时间短一些、次数多一些，往往效果更好。家庭照顾者联盟指出，对方通常记不住您是待了五分钟还是五个小时，并建议每周三次短暂探访，可能比一次长时间探访更好。澳大利亚失智症协会表示，探访次数和时长并没有标准答案。
 
-In the first weeks after a move into memory care, the Family Caregiver Alliance suggests visiting often, then gradually settling into a regular pattern. Ask staff what they are seeing.
+刚搬入失智照护机构的头几周，家庭照顾者联盟建议多来探望，之后再逐渐形成固定的节奏。可以问问工作人员他们的观察。
 
-## How do I leave without upsetting them?
+## 怎样离开，才不会让对方难过？
 
-Leaving can be the hardest part. Dementia Australia suggests:
+告别往往是最难的部分。澳大利亚失智症协会建议：
 
-- **Say how long you can stay when you arrive.** "I can stay for an hour, then I'm going shopping."
-- **Use an activity as a natural end.** "When we finish this song, I'll head off."
-- **Time it with a meal or activity,** or ask staff to help the person settle into something else.
-- **Keep the goodbye short and the same each time.** Lingering, apologizing or staying "just a bit longer" can make future goodbyes harder.
+- **到达时就说明能待多久。**“我能待一个小时，然后要去买东西。”
+- **用一项活动作为自然的结束。**“等我们把这首歌唱完，我就该走了。”
+- **把离开的时间安排在用餐或活动时，**或请工作人员帮对方转向别的事情。
+- **告别要简短，每次都一样。** 拖延、道歉，或一再说“再待一会儿”，会让以后的告别更难。
 
-After you leave, it is normal to feel sad. Let yourself rest. If the person got upset, staff can usually help them settle soon after.
+离开以后，感到难过是正常的。请让自己休息一下。如果对方情绪激动，工作人员通常能很快帮他平静下来。
 
-## Visiting someone with dementia in the hospital
+## 在医院探望失智症患者
 
-A hospital is noisy, unfamiliar and full of strangers, which can be very hard for a person living with dementia. The NIA's guide to [taking a person with Alzheimer's to the hospital](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) recommends:
+医院嘈杂、陌生，人来人往，对失智症患者来说可能非常困难。美国国家老龄研究所关于[带阿尔茨海默病患者去医院](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital)的指南建议：
 
-- **Have someone stay with the person** as much as possible: a family member, a trusted friend or a hired caregiver.
-- **Give staff a personal information sheet** with the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain. Put copies in the room and at the nurses' station.
-- **Help with eating and drinking.** Older adults can become undernourished in the hospital. Open containers, help with meals, eat together, and offer drinks.
-- **Bring comforting items** such as photos or spiritual objects.
-- **Lower the noise.** Turn off the TV and reduce phone and intercom volume.
-- **Try calming rituals,** such as soothing music, reading, praying, singing or looking through old pictures.
-- **Encourage moving around** as much as is safe, with staff approval.
-- **Tell the doctor right away if the person seems suddenly worse or different.** The NIA explains that sudden severe confusion, called delirium, can be caused by problems such as infection, fever, dehydration or medicine side effects, and needs medical attention.
+- **尽量有人陪在对方身边：** 可以是家人、信任的朋友，或聘请的照护人员。
+- **给工作人员一份个人信息表，**写明对方的作息、希望被称呼的名字、喜好和厌恶的事物、可能的诱发因素，以及表示疼痛的非语言信号。在病房和护士站各放一份。
+- **帮忙进食和喝水。** 老年人在医院里可能会营养不良。帮忙打开容器，协助用餐，一起吃饭，并主动递上饮品。
+- **带上令人安心的物品，**比如照片或具有精神寄托意义的物件。
+- **降低噪音。** 关掉电视，把手机和对讲机的音量调低。
+- **尝试让人平静的习惯，**比如舒缓的音乐、阅读、祷告、唱歌，或翻看旧照片。
+- **在安全的前提下，鼓励多活动，**但需经过工作人员同意。
+- **如果对方突然变得更糟或与平时不同，请立即告诉医生。** 美国国家老龄研究所解释说，突然出现的严重意识混乱，即谵妄，可能由感染、发烧、脱水或药物副作用等问题引起，需要就医处理。
 
-A short, calm visit with a familiar face and a favorite song can be the most comforting part of a hospital day.
+有一位熟悉的面孔，加上一首喜爱的歌，哪怕是一次简短而平静的探访，也可能是医院一天中最让人安心的时刻。
 
-## Bringing children on a visit
+## 带孩子一起探访
 
-Children can bring a lot of warmth. Prepare them ahead of time with simple, honest words, keep the visit short, and give them a job, such as showing a drawing or handing over a photo. The NIA suggests that children and people with Alzheimer's can enjoy simple activities together, like looking through a photo album or listening to music. Dementia Australia suggests packing a small bag of treats or quiet things to keep young children busy.
+孩子能带来许多温暖。出发前请用简单、诚实的话提前告诉他们，探访时间保持简短，并给他们一件事做，比如展示一幅画，或递上一张照片。美国国家老龄研究所建议，孩子和阿尔茨海默病患者可以一起做些简单的活动，比如翻看相册或听音乐。澳大利亚失智症协会建议准备一小包零食或安静的玩具，让小孩子有事可做。
 
-## Take care of yourself too
+## 也要照顾好自己
 
-Visiting can be tiring and emotional, especially if the person has changed a lot. It is fine to visit less often if you need to, to bring a friend for support, or to leave early on a hard day. For ideas on looking after yourself, see [caregiver self-care](/caregiving/caregiver-self-care/). If you live far away, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+探访可能既累人又让人情绪起伏，尤其是当对方变化很大时。如果您需要，可以少来一些，带一位朋友陪伴，或在艰难的一天提前离开，这都没有关系。想了解如何照顾自己，请看[照顾者自我照顾](/caregiving/caregiver-self-care/)。如果您住得很远，可以看看我们关于[电话和视频通话](/activities/phone-and-video-calls/)的指南。

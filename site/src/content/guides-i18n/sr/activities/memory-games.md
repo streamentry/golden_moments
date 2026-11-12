@@ -1,34 +1,34 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Игре памћења за старије особе са деменцијом: нежне верзије које не испитују"
+seoTitle: "Најбоље игре памћења за деменцију: нежне идеје"
+description: "Игре упаривања, слика и карата за старије особе са деменцијом и како их играти да се нико не осећа испитивано: слике окренуте лицем, мање парова, без бодова."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Игре памћења за старије особе са деменцијом најбоље функционишу кад не зависе
+  од памћења. Играјте игре упаривања са сликама окренутим лицем, користите
+  четири до шест плочица, играјте у тиму и изоставите бодове. Препознавање
+  слике је лакше од њеног присећања, па изаберите игре у којима све остаје на
+  видику. Циљ је уживање, а не резултат.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Класичне игре памћења скривају карте, а то тачно испитује оно што деменција отежава. Оставите слике окренуте лицем."
+  - "Мање делова, веће слике и један избор у исто време држе игру пријатном."
+  - "Играјте као тим, узмите редом да помогнете и одустаните од бодова. Нико не сме да буде стављен на удар."
+  - "Ниједна игра памћења није показала да лечи, успорава или зауставља деменцију. Играјте јер је то пријатно време заједно."
+  - "Станите док је још забавно. Разговор о сликама је добар исход."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Која је добра игра памћења за особу са деменцијом?"
+    a: "Игра упаривања са великим, познатим сликама које могу остати окренуте лицем, на пример Парови слика са четири или шест плочица. Налажење пара слике коју видите задовољава, а не испитује краткорочно памћење. Пронађи исту је још једноставнија, са једном сликом за упаривање и два до четири избора."
+  - q: "Да ли игре памћења помажу код деменције?"
+    a: "Ниједна игра памћења није показала да лечи, успорава или зауставља деменцију; Cochrane преглед је нашао да су докази о компјутерском тренингу мозга премали да би се рекло да ли спречава деменцију. Игре и даље могу бити топао начин да проведете време заједно. Бирајте их ради уживања и друштва."
+  - q: "Да ли да играм класичну игру Меморије са особом са деменцијом?"
+    a: "У почетку неки људи још уживају у њој, нарочито уз мањи број карата. Ако памћење где су карте постане извор фрустрације, окрените карте лицем нагоре и заједно једноставно нађите парове. Тако задржите упаривање, а одбаците тест памћења."
+  - q: "Које су добре игре памћења за старије особе у групи?"
+    a: "Бинго са сликама уз вођење на екрану, довршавање познатих изрека наглас и карте за разговор функционишу за групе. Играјте док се сваки картон не попуни и не викајте ко је добио одговор, како се нико не би осетио издвојено."
+  - q: "Постоје ли бесплатне игре памћења за старије особе на мрежи?"
+    a: "Да. Игре на овом сајту, укључујући Парови слика, Пронађи исту, Парови фотографија и Слагалицу са сликом, бесплатне су, не захтевају регистрацију и раде на телефонима, таблетима и рачунарима. Ниједна нема тајмер или бодове."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +50,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Потражите „игре памћења за старије особе“ и већина онога што нађете направљена је за људе који желе менталну вежбу: скривене карте, одбројавајуће сатове, нивое и бодове. За особу која живи са деменцијом, те особине претварају игру у тест баш оне ствари која јој је постала тешка. Исте игре могу се играти нежније. Ова страница показује како, и наводи игре које добро функционишу у свакој фази.
 
-## Why do classic memory games frustrate people with dementia?
+## Зашто класичне игре памћења фрустрирају особе са деменцијом?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Зато што се ослањају на држање нових информација у глави, а то је обично прво што Алцхајмерова болест, најчешћи узрок деменције, погађа. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) наводи да је најчешћи рани симптом Алцхајмерове болести тешкоћа у памћењу недавно научених информација. У класичној игри Меморија окрећете два картона, запамтите где су били и користите то минут касније. То су нове информације које се држе и присећају.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Додајте тајмер, бодове или зујалицу за погрешне одговоре, и особа се подсећа на оно што не може, пред неким ко му је драг. Многи људи тихо престану да желе да играју.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Препознавање нечега што видите је друкчији и обично лакши задатак. Показивање друге шољице кад су обе на видику пријатно је. Зато је трик да задржите упаривање, а одбаците тест памћења.
 
-## How do you make a memory game gentle?
+## Како игру памћења учинити нежном?
 
-These adjustments work for card games, board games and games on a screen.
+Ова прилагођавања функционишу за игре са картама, друштвене игре и игре на екрану.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Оставите слике окренуте лицем.** Упаривање слика које видите и даље је права игра, и често задовољавајућа.
+2. **Користите мање делова.** Почните са два или три пара. Додајте још само ако делује превише лако и ако жели више.
+3. **Бирајте велике, познате слике за одрасле.** Шољицу чаја, сунцокрет, једрилицу. Не цртиће и не препуне призоре.
+4. **Играјте као тим.** „Хајде да нађемо псе“ уместо „ред је на тебе“. Смењујте се у показивању и помагању.
+5. **Одбаците бодове.** Нико не мора да победи. Ако неко пита, једноставно „урадили смо то“ је довољно.
+6. **Никад не јурите сат.** Без тајмера и без журбе између потеза.
+7. **Причајте о сликама.** „Погледај тај брод. Јеси ли икад пловила?“ Разговор је често најбољи део.
+8. **Станите на добром месту.** Завршите после упаривања, док је још пријатно.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) даје исти дух као општи савет: прилагодите активност ономе што особа може, пазите на фрустрацију и осигурајте да се осећа успешно.
 
-## Gentle memory and matching games to try
+## Нежне игре памћења и упаривања које можете пробати
 
-### Picture pairs (matching with pictures showing)
+### Парови слика (упаривање са видљивим сликама)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Парови слика](/games/picture-pairs/) је игра упаривања са великим сликама и од 4 до 12 плочица. Слике могу остати видљиве, па се ради о налажењу парова, а не о памћењу где су били. Почните са четири плочице. За особу у раној фази која воли мало више изазова, можете прећи на **Скривене слике**, али се вратите на приказивање слика чим престане да буде забавно.
 
-### Find the same
+### Пронађи исту
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Пронађи исту](/games/find-the-same/) приказује једну слику на врху и два до четири избора испод. Додирните ону која одговара. То је најједноставнија игра упаривања на сајту и погодна је за особе којима је цела мрежа плочица превише гужва, укључујући многе у касној фази уз некога поред себе.
 
-### Photo pairs (family photo memory game)
+### Парови фотографија (игра памћења са породичним фотографијама)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Парови фотографија](/games/photo-pairs/) претвара фотографије које изаберете у игру упаривања: пас, башта, кућа на језеру. Познати лица и места често покрећу разговор више од било које сликовнице. Фотографије остају у вашем прегледачу и никад се не отпремају.
 
-### Sort together
+### Разврставање заједно
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Разврставање заједно](/games/sort-together/) тражи да ставите сваку слику у корпу којој припада, на пример кухињу или башту. Разврставање се ослања на дуготрајно знање о томе како свет функционише, а не на краткорочно памћење.
 
-### Picture puzzle
+### Слагалица са сликом
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Слагалица са сликом](/games/picture-puzzle/) исече слику на 4 или 9 делова. Додирните два дела да их замените док слика не буде цела. Цела слика остаје на екрану као водич.
 
-### Real cards on the table
+### Праве карте на столу
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Не треба вам екран. Извуците парове из два шпила карата или из сета картица са сликама. Поређајте их лицем нагоре у два реда и нађите парове заједно. Касније сортирајте по боји или знаку. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) наводи игре са картама и друштвене игре међу активностима за рану фазу.
 
-## Which memory games suit each stage?
+## Које игре памћења одговарају којој фази?
 
-Stages are loose labels. Go by what the person enjoys today.
+Фазе су приближне ознаке. Ослоните се на оно што особа данас воли.
 
-| Stage | Games that often fit | How to set them up |
+| Фаза | Игре које често одговарају | Како их поставити |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Рана | Парови слика, Парови фотографија, Слагалица са сликом са 9 делова, познате игре карата | Нека бира. Плочице могу да се окрећу ако јој се свиђа; одбаците бодове ако је то узнемирава |
+| Средња | Парови слика са 4 до 6 плочица окренутих лицем, Пронађи исту, Разврставање заједно | Слике увек видљиве. Седите поред и смењујте се у помагању |
+| Касна | Пронађи исту са 2 избора, гледање једне велике слике заједно | Врло кратко. Ви држите таблет; она показује или само гледа и слуша |
 
-## Do memory games help with dementia?
+## Да ли игре памћења помажу код деменције?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ниједна игра памћења није показала да лечи, успорава или зауставља деменцију. [Cochrane преглед](https://pubmed.ncbi.nlm.nih.gov/30864747/) компјутерског когнитивног тренинга за особе са благим когнитивним оштећењем нашао је да су докази премали да би се рекло да ли он спречава деменцију. Наш водич о [играма за мозак и деменцији](/brain-health/brain-games/) објашњава шта студије показују, а шта не.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Ово није разлог да се игре изоставе. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) саветује да се фокусирате на уживање, а не на постигнуће. Десет минута упаривања слика и разговора о њима може бити заиста добар део дана.
 
-## What about memory games for seniors without dementia?
+## Шта је са играма памћења за старије особе без деменције?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Ако старија особа без проблема са памћењем ужива у слагалицама на време, бодовима и тежим нивоима, нема ту ништа лоше. Само немојте рачунати да ће је то заштитити од деменције; ниједна игра то није показала. Нежне верзије горе такође добро функционишу кад играју генерације заједно: баба или деда са деменцијом и мало унуче могу заједно да упаре слике као тим, а нико од њих не буде испитиван.
 
-## When should you stop or change the game?
+## Кад треба станити или променити игру?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Уздисање, одгурнут таблет, реченица „не могу ово“ или узнемирен поглед су знаци да треба олакшати или станити. Пробајте мање плочица, окрените слике лицем нагоре, пређите на [Пронађи исту](/games/find-the-same/) или само погледајте слике и причајте. Ако уопште не жели да игра, и то је у реду. Наш водич о [заједничкој игри](/caregiving/how-to-play-together/) има више о темпу и помагању.

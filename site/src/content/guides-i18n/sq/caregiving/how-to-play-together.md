@@ -1,34 +1,34 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Si të luani lojëra me dikë që ka demencë"
+description: "Udhëzues praktik për lojën me dikë që jeton me demencë: si të përgatiteni, ritmi, mos korrigjimi, lojërat më të lehta, dhe si të dini kur të ndaleni."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Trajtojeni lojën si kohë të përbashkët, jo si test. Zgjidhni një kohë të qetë gjatë ditës, uluni krah
+  për krah në një dhomë të qetë, dhe ofroni një lojë të thjeshtë. Lëreni personin të caktojë ritmin, mos
+  korrigjoni gabime të padëmshme, bëjeni lojën më të lehtë në shenjën e parë të tensionit, dhe kthejeni
+  figurat në bisedë. Ndaloni ndërsa ende ndihet mirë. Të ndërpresh herët, ose thjesht të shikoni së bashku,
+  është një rezultat i mirë.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Qëllimi është kënaqësia dhe lidhja, jo përfundimi ose dhënia e përgjigjeve të sakta."
+  - "Përgatituni fillimisht: dhomë e qetë, dritë e mirë, syze dhe aparate dëgjimi të veshura, TV i fikur, një lojë gati."
+  - "Mos korrigjoni gabime të padëmshme. Thoni \"Të provojmë kështu\" ose thjesht vazhdoni."
+  - "Bëjeni lojën më të lehtë përpara se të rritet frustrimi: më pak figura, më pak zgjedhje, figura që mbeten të dukshme."
+  - "Përdorni figurat si pikënisje për histori me \"Më trego për...\" në vend të \"A e kujton...?\""
+  - "Ndaloni në shenjat e para të lodhjes ose shqetësimit. Ndalimi herët është një sukses, jo një dështim."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Sa duhet të luajmë një lojë?"
+    a: "Nuk ka një gjatësi të saktë. Për shumë njerëz, disa minuta mjaftojnë, dhe disa ditë mjafton një raund i vetëm. Shikoni personin, jo orën, dhe ndaloni ndërsa ai ose ajo ende duket i relaksuar."
+  - q: "A duhet t'i lë të fitojnë ose të shtirem sikur nuk vë re gabimet?"
+    a: "Në një lojë të përbashkët, me presion të ulët, nuk ka asgjë për të fituar ose humbur. Nëse një gabim nuk e shqetëson personin, lëreni të kalojë. Nëse duket se e shqetëson, ndihmoni qetësisht ose bëjeni lojën më të lehtë pa e theksuar gabimin."
+  - q: "Po nëse preferon të më shikojë mua duke luajtur?"
+    a: "Kjo është në rregull. Instituti Kombëtar për Plakjen (NIA) sugjeron t'i lejoni personit thjesht të shikojë nëse duket se e pëlqen më shumë. Flisni për atë që shihni dhe ftojeni të tregojë ose të zgjedhë kur të dojë."
+  - q: "A janë këto lojëra një mënyrë për të testuar kujtesën?"
+    a: "Jo. Lojërat tona janë aktivitete të thjeshta të përbashkëta për kënaqësi dhe bisedë. Nuk janë test kujtese, nuk matin asgjë, dhe nuk janë trajtim për demencën."
+  - q: "Cila lojë është më e mira për të filluar?"
+    a: "Filloni me atë më të thjeshtën që i përshtatet personit. Çiftet e figurave me katër pllaka dhe figura që mbeten të dukshme, ose Gjej të njëjtën me dy zgjedhje, janë pika të buta fillimi. Kartelat e bisedës funksionojnë mirë nëse personit i pëlqen më shumë të flasë sesa të prekë."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +47,171 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Një lojë e mirë me dikë që jeton me demencë nuk duket si garë. Duket si dy persona të ulur
+afër, që tregojnë figura, qeshin me një fjalë të njohur dhe flasin për çfarëdo që del. Loja
+është thjesht një arsye për të kaluar kohë së bashku.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Ky udhëzues mbulon si të përgatiteni, si të rregulloni ritmin e lojës, çfarë të thoni kur diçka
+\"shkon keq\", si ta bëni çdo lojë më të lehtë ose pak më të vështirë, si ta ktheni atë në bisedë,
+dhe si të dini kur të ndaloni. Funksionon për [lojërat tona](/games/) dhe për letra, enigma dhe
+lojëra tavoline që keni tashmë.
 
-## What is the best way to play a game with someone who has dementia?
+## Cili është mënyra më e mirë për të luajtur një lojë me dikë që ka demencë?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Fokusohuni te kënaqësia, jo te arritja. Ky është këshilla kryesore nga [udhëzimi i Shoqatës së
+Alzheimerit për aktivitetet](https://www.alz.org/help-support/caregiving/daily-care/activities):
+ndërtoni mbi aftësitë që personi ende i ka, ndihmojeni të fillojë, bëni vetë pjesët e vështira, dhe
+mos kritikoni apo korrigjoni aktivitete të padëmshme.
 
-In practice that means:
+Në praktikë kjo do të thotë:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Uluni pranë tyre, jo përballë.** Krah për krah, të dy mund ta shihni ekranin ose tavolinën, dhe
+  ndihma ndihet si punë ekipi, jo si mbikëqyrje.
+- **Ofroni një lojë në një kohë.** Një menu zgjedhjesh mund të ndihet si test para se të ketë nisur
+  diçka.
+- **Ndiqni drejtimin e tyre.** Nëse duan të prekin figurat sipas radhës së tyre, të flasin për një figurë
+  për dhjetë minuta, ose të ndalojnë pas dy radhësh, kjo është loja për sot.
+- **Numëroni momentet e mira, jo raundet e përfunduara.** Një buzëqeshje, një histori ose një gjysmë ore
+  e qetë është rezultati që kërkoni.
 
-## How do I set up before we start?
+## Si përgatitem para se të nisim?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Disa minuta përgatitje parandalojnë shumicën e zhgënjimeve që njerëzit ua atribuojnë vetë lojës.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Zgjidhni kohën më të mirë të ditës për ta.** [Udhëzimi i Institutit Kombëtar për Plakjen (NIA) për përshtatjen e aktiviteteve](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)
+  sugjeron planifikimin e daljeve dhe aktiviteteve për kohën e ditës kur personi është në formën më të mirë.
+  Për shumë njerëz kjo është mesi i mëngjesit. Pasdita vonë shpesh është më e vështirë; shihni [aktivitetet e qeta pasdite vonë](/caregiving/late-day-restlessness/).
+2. **Bëjeni dhomën të qetë.** Fikni TV dhe radion dhe mbyllni derën nëse mundeni. [Aleanca e Kujdestarëve Familjarë (Family Caregiver Alliance)](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)
+  rekomandon kufizimin e zhurmës dhe shpërqendrimeve përpara se të filloni të flisni.
+3. **Kontrolloni rehatinë fillimisht.** Një pije pranë, një vizitë në banjo para fillimit, një karrige e rehatshme, dhe syze dhe aparate dëgjimi të veshura.
+4. **Ndriçoni mirë hapësirën.** Drita e fortë dhe e njëtrajtshme, pa shkëlqim në ekran, i bën figurat më të lehta për t'u parë.
+5. **Përgatitni lojën përpara se të uleni.** Hapeni, zgjidhni cilësimet dhe vendosni vëllimin vetë. Pastaj
+   drejtojeni ekranin drejt tyre. Për këshilla për tabletin, shihni [konfigurimin e tabletit ose telefonit](/caregiving/tablets-and-screens/).
+6. **Mbajeni pajisjen të ngritur.** Një mbajtëse ose kutia që e mban tabletin drejt do të thotë që askush nuk duhet ta mbajë dhe është më e lehtë t'i tregohet.
 
-## How do I invite them without pressure?
+## Si i ftoj pa presion?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Bëjeni ftesën të natyrshme dhe të lehtë për t'u refuzuar. Disa fraza që zakonisht pëlqehen:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- \"Gjeta disa figura me kopshte. Do t'i shikojmë së bashku?\"
+- \"A mund të më ndihmoni me këtë enigmë? Jam bllokuar.\"
+- \"Sot dëshironi lulet apo zogjtë?\" (zgjedhja mes dy gjërash është më e lehtë sesa një pyetje e hapur)
+- \"Po bëj një kartolinë për motrën tënde. Cili ngjyrë duhet të jetë kjo?\"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Shoqata e Alzheimerit sugjeron t'i shpjegoni qëllimin e një aktiviteti, si bërja e një kartoline për një mik,
+sepse një arsye i jep kuptim. Kërkimi i ndihmës funksionon gjithashtu, sepse e bën personin të ndihet i dobishëm.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Nëse thonë jo, pranojeni. Provoni përsëri më vonë ose ofroni diçka tjetër. Udhëzuesi ynë për [çfarë të bëni kur thonë jo](/caregiving/when-they-say-no/)
+shkon më larg.
 
-## How long should a game last, and how fast should we go?
+## Sa duhet të zgjasë një lojë, dhe sa shpejt duhet të shkojmë?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Lëreni personin të caktojë ritmin, dhe planifikoni seanca të shkurtra. Nuk ka një gjatësi ideale me bazë
+provash për një lojë të përbashkët. Dy deri në pesë minuta të qeta mund të jenë një aktivitet i plotë.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Prisni më gjatë nga sa duket natyrale.** NIA këshillon t'i jepni më shumë kohë personit për t'iu përgjigjur
+  dhe të mos e ndërpreni. Numëroni deri në dhjetë në mendje përpara se të ndihmoni.
+- **Një hap në një kohë.** Jepni një udhëzim të vetëm e të shkurtër (\"Prekni një figurë\"), pastaj prisni.
+  Tregoni në vend që ta shpjegoni: tregoni me gisht se ku të prekë.
+- **Pauzoni lirshëm.** Nëse ndalojnë për të folur për një figurë, loja mund të presë. Nuk ka nevojë të nxitoni.
+- **Lërini të shikojnë.** NIA shënon se disa njerëz preferojnë të shikojnë, dhe kjo është një zgjedhje e vlefshme.
 
-## Should I correct wrong answers?
+## A duhet të korrigjoj përgjigjet e gabuara?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Jo. Korrigjimi i butë i dikujt përsëri e përsëri i thotë se po dështon, edhe kur e bëni me të mirë.
+Shoqata e Alzheimerit këshillon të mos kritikoni apo korrigjoni aktivitetet e padëmshme. Në një lojë, pothuajse
+çdo gabim është i padëmshëm.
 
-| Instead of | Try |
+| Në vend të | Provoni |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| \"Jo, kjo është e gabuar.\" | \"Të provojmë kështu.\" (një shembull që jep NIA) |
+| \"Nuk përputhet. Shiko përsëri.\" | Mos thoni asgjë dhe kaloni radhën tjetër, ose \"Oh, këto të dyja janë të kuqe.\" |
+| \"A e kujton kush është ky?\" | \"Më trego për këtë figurë.\" |
+| \"E bëre këtë më parë.\" | \"Kjo është e mirë. Të bëjmë përsëri.\" |
+| \"Hajde, ti e di këtë.\" | \"Dëshiron të të tregoj fundin?\" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Nëse një gabim i shqetëson qartë, ndihmoni qetësisht. Tregoni figurën e saktë, merrni radhën vetë, ose bëjeni
+lojën më të lehtë në raundin tjetër. Nëse një fjalë merr një fund qesharak të gabuar, qeshni bashkë. Fundi i tyre
+mund të jetë më i mirë.
 
-## How do I make a game easier or harder?
+## Si e bëj një lojë më të lehtë ose më të vështirë?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Përshtatni lojën me personin në ditën e caktuar, jo me një etiketë faze. I njëjti person mund të ketë nevojë për
+një version më të thjeshtë në mbrëmje sesa në mëngjes. Këshilla e parë e NIA është të përputhni aktivitetin me atë
+që personi mund të bëjë dhe të siguroheni që të ndihet i suksesshëm.
 
-| Game | Make it easier | Make it a little harder |
+| Loja | Bëjeni më të lehtë | Bëjeni pak më të vështirë |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Çiftet e figurave](/games/picture-pairs/) | Filloni me 4 pllaka dhe lini figurat të dukshme | Më shumë pllaka, ose fshihni figurat nëse ndihet rehat |
+| [Gjej të njëjtën](/games/find-the-same/) | 2 zgjedhje | Deri në 4 zgjedhje |
+| [Renditni bashkë](/games/sort-together/) | Ju mbani figurën, ata tregojnë shportën | Prekin vetë si figurën ashtu edhe shportën |
+| [Enigma me figura](/games/picture-puzzle/) | 4 copëza, fillimisht flisni për gjithë figurën | 9 copëza |
+| [Plotësoni fjalën](/games/finish-the-saying/) | Tregoni fundin, pastaj thoni bashkë | Lërini ta thonë fundin përpara se të prekin |
+| [Kërkim fjalësh](/games/word-search/) | Printojeni, kërkoni bashkë një fjalë, tregoni shkronjën e parë | Lërini të zgjedhin fjalën e radhës për të gjetur |
+| [Ngjyrosja](/games/coloring/) | Ju zgjidhni dy ngjyra, ata zgjedhin mes tyre | Zgjedhin të gjitha ngjyrat |
+| [Kartelat e bisedës](/games/conversation-cards/) | Thjesht shikoni figurën bashkë | Përdorni nxitjet e hapura në kartelë |
+| [Çiftet e fotove](/games/photo-pairs/) | Disa foto familjare shumë të dashura | Shtoni më shumë foto |
+| [Bingo me figura](/games/picture-bingo/) | Një ndihmës ulet me secilin lojtar | Lojtarët shënojnë kartelat e tyre |
+| [Frymëmarrja e qetë](/games/calm-breathing/) | Thjesht uluni dhe shikoni bashkë | Merrni frymë bashkë, ngadalë |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Shenjat që loja është shumë e vështirë: pauza të gjata që duken të shqetësuara në vend të mendueshme, \"nuk
+mundem\" i përsëritur, largim i pajisjes, ose gabime që i mërzitin. Shenjat që mund të jetë shumë e lehtë:
+mërzitje, ose kur thonë se është fëminore. Nëse ndodh kjo, respektojeni dhe kaloni diçka që ndihet si e rritur,
+si një kërkim fjalësh, një enigmë me një fotografi të vërtetë, ose bisedë për një figurë nga puna e tyre e dikurshme.
 
-## How do I turn a game into a conversation?
+## Si e kthej një lojë në bisedë?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Përdorni çdo figurë si ftesë për të folur, dhe trajtoni çdo gjë që thonë si një përgjigje të mirë. Për shumë familje,
+kjo është pjesa më e mirë e lojës.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Bëni pyetje të hapura, pa përgjigje të gabuar.** \"Çfarë vëren?\" \"Cilën të pëlqen?\" \"Më trego për një kuzhinë si kjo.\"
+- **Ndani fillimisht.** \"Gjyshja ime kishte një qen si ky.\" Historia juaj e bën më të lehtë për ta që të ndajnë një të tyren.
+- **Ndiqni devijimin.** Nëse një figurë me makinë sjell një histori për një udhëtim me makinë, historia është aktiviteti.
+  Lëreni lojën të pauzuar.
+- **Mos verifikoni faktet.** Në kujtimet, një bisedë e këndshme vlen më shumë se detajet e sakta. Nëse historia
+  ndryshon nga herën e kaluar, shijoni versionin e ri.
+- **Përdorni nxitjet e integruara.** [Plotësoni fjalën](/games/finish-the-saying/) ndjek çdo fjalë të njohur me një nxitje
+  bisede, dhe [Kartelat e bisedës](/games/conversation-cards/) janë projektuar pikërisht për këtë. [Çiftet e fotove](/games/photo-pairs/)
+  përdor foto tuaja familjare, që shpesh nxisin historitë më të pasura.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Më shumë ide gjenden në udhëzuesit tanë për [aktivitetet e kujtimeve](/activities/reminiscence/) dhe [këshillat për komunikimin](/caregiving/communication-tips/).
 
-## When should we stop?
+## Kur duhet të ndalojmë?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Ndaloni në shenjat e para të lodhjes ose shqetësimit, dhe ideale pak përpara tyre. Shoqata e Alzheimerit këshillon
+ndalimin ose ndryshimin e aktivitetit kur vëmendja zbehet ose frustrimi rritet.
 
-Watch for:
+Kini kujdes për:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- gjethje, ulje ose sy që largohen nga ekrani;
+- lëvizje nervoze, ngritje në këmbë, ose kërkesë për t'u larguar;
+- psherëtima, përgjigje të shkurtra, ose \"nuk jam i mirë në këtë\";
+- prekje të rastësishme ose largim i pajisjes;
+- lot, acarim, ose ndryshim i papritur i humorit.
 
-How to stop well:
+Si të ndaloni mirë:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Përfundoni me diçka të lehtë.** Një përputhje të fundit që mund ta bëjnë, ose një figurë të fundit për ta admiruar.
+- **Bëjeni për ju.** \"Do të doja një filxhan çaj. Ndalojmë këtu?\" shmang çdo sugjerim se ata dolën keq.
+- **Kaloni në diçka fizike ose qetësuese.** Një shëtitje e shkurtër, një ushqim i lehtë, palosja e rrobave ose muzikë.
+- **Thoni diçka të ngrohtë.** \"Më pëlqeu ta bëja këtë me ty.\" Pa lëvdata për \"të qenit i saktë\", vetëm kënaqësi për kohën e përbashkët.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Të ndërpresh herët, të ndryshosh planet, ose të heqësh dorë nga loja dhe thjesht të uleni bashkë, janë të gjitha
+rezultate të mira.
 
-## Can we play in a group or over a video call?
+## A mund të luajmë në grup ose me telefonatë video?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Po, me pak përgatitje shtesë. Në grup, mbajeni me disa persona, uluni ndihmësit pranë atyre që kanë nevojë, dhe zgjidhni
+një lojë me një fokus të qartë të përbashkët. [Bingo me figura](/games/picture-bingo/) ka kartela për printim dhe një
+thirrës në ekran për grupet. Shihni [aktivitetet për grupet në shtëpitë e kujdesit](/activities/care-home-groups/) për më shumë.
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Në një telefonatë video, personi në telefonatë mund të përshkruajë një figurë ndërsa dikush në dhomë tregon dhe prek.
+Mbajini telefonatat të shkurtra dhe të njohura. Udhëzuesi ynë për [telefonatat dhe videotelefonatat](/activities/phone-and-video-calls/)
+ka më shumë këshilla.
 
-## What if a game just isn't working?
+## Po nëse një lojë thjesht nuk po funksionon?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Disa ditë asgjë nuk qëndron, dhe kjo nuk është pasqyrim mbi ju ose mbi ta. Lëreni lojën mënjanë dhe provoni
+një kohë tjetër të ditës, një lojë tjetër, ose asnjë lojë fare. Shumë aktivitete të mira nuk kanë asgjë të përbashkët me
+ekranet: muzika, palosja e peshqirëve, shikimi i një albumi fotografish, ose një shëtitje e shkurtër. Shfletoni
+[idetë tona për aktivitete](/activities/ideas/) për më shumë.

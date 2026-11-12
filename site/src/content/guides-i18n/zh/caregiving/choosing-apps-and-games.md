@@ -1,35 +1,31 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "如何选择痴呆应用和游戏"
+seoTitle: "如何选择痴呆应用和游戏：检查清单"
+description: "为照顾者准备的痴呆应用和游戏选择清单：先明确目标，避开计时和广告，检查隐私，并谨慎看待证据类说法。"
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  先想清楚您希望这个应用带来什么：温和的刺激、回忆、平静或彼此联系。然后选择一个符合对方当下能力的应用，应当有大图片、没有计时、计分或广告，并且可以轻松停止。检查它收集哪些数据，以及您能否删除这些数据。对于声称能预防或治疗痴呆的应用要保持警惕；一项研究并不足以证明什么。
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "先决定目标：温和的刺激、回忆、平静或彼此联系，各需要不同的应用。"
+  - "应根据对方当天的能力来选择，而不是看“阶段”标签，并保持操作简单。"
+  - "避开带有计时、计分、生命值、连胜记录、广告或购买提示的应用。"
+  - "检查数据的收集、分享和删除方式。HIPAA 通常不涵盖面向消费者的应用。"
+  - "对“预防痴呆”的说法要保持怀疑。一项试验，或应用内的分数提高，都不能证明什么。"
+  - "Golden Moments 是一项休闲活动，不做任何临床声明。"
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "脑力游戏能预防痴呆吗？"
+    a: "没有充分证据表明，商业脑力训练应用能预防或减缓痴呆。美国国家老龄研究所表示，没有足够的证据显示，市面上的脑力训练应用能达到大型研究试验中所测试的结构化训练的同等效果。选择应用时，应以乐趣和彼此联系为目的，而不是把它当作药物。"
+  - q: "痴呆应用受 HIPAA 保护吗？"
+    a: "通常不受保护。HIPAA 一般适用于医疗服务提供者、健康计划及其业务伙伴。您自己下载的应用通常不在其范围内，除非是由上述机构提供的。美国联邦贸易委员会的《健康数据泄露通知规则》覆盖了许多 HIPAA 未涵盖的健康应用。"
+  - q: "一款好的痴呆游戏应该是什么样子？"
+    a: "图片和文字大而清晰，每个界面上只有一件明显要做的事，没有计时或计分，出错时没有蜂鸣声，没有广告，并且有简单的暂停或停止方式。它看起来应当是为成年人设计的，并且让第二个人也容易加入。"
+  - q: "Golden Moments 声称能帮助记忆吗？"
+    a: "不能。Golden Moments 提供简单的共同活动，用于享受乐趣和交谈。它不诊断、不治疗、不预防或测量痴呆，我们也不对记忆或思维能力作出任何声明。"
+  - q: "我需要为痴呆应用付费吗？"
+    a: "请先尝试免费选项或免费试用，并在几周内观察对方的反应。付费并不会让应用更有效。在订阅之前，请先查看如何取消。"
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +56,120 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+应用商店里充斥着标榜为老年人、记忆或痴呆设计的游戏。有些做得很用心，另一些则加入了听起来像医学承诺的说法、把游戏变成测验的计时器，或者广告和数据收集。本页提供一种方法，让您自己判断任何一个应用。我们不对其他产品进行排名或评测。
 
-## What should I decide before choosing a dementia app?
+## 选择痴呆应用之前，应该先决定什么？
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+先决定您希望这个应用做什么。“给妈妈的一个游戏”可以有很多不同的含义，而最适合某个目标的选择，往往不适合另一个目标。
 
-| Goal | What it looks like | What to look for |
+| 目标 | 看起来像什么 | 应该注意什么 |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| 温和的刺激 | 配对、分类、简单的拼图、文字游戏 | 难度可以调整，图片始终可见，没有时间压力 |
+| 回忆 | 老照片、熟悉的俗语、年轻时的音乐 | 您自己的照片，开放式提示，没有测验问题 |
+| 平静 | 缓慢的画面、安静的声音、呼吸练习、自然风景 | 容易开始和停止，没有闪烁，没有意外 |
+| 彼此联系 | 两人一起玩或交谈，可以面对面，也可以通过视频 | 为两个人设计，并有促进交谈的提示 |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+针对痴呆患者的结构化“认知刺激”研究，大多是由受过培训的工作人员带领的团体活动，包括讨论、文字游戏、拼图、音乐和创意活动。一项 [Cochrane 综述](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia)发现，平均而言效果较小，且在不同研究之间存在差异。这种有社交、内容多样的项目，与单独使用的应用并不相同，因此请把任何应用都视为众多共同活动中的一种。
 
-## How do I know if an app fits the person's abilities?
+## 我怎么知道某个应用是否适合对方的能力？
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+请观察对方的反应，而不是依据诊断或阶段标签。两个处于“同一阶段”的人，在视力、听力、手部控制、语言能力以及对屏幕的适应程度上可能差异很大。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/activities)建议，要记住对方过去的兴趣和当前的能力，并把重点放在乐趣而不是成就上。
 
-Signs of a good fit:
+以下是较为合适的迹象：
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- 对方无需太多劝说就会开始或加入；
+- 对方会微笑、发表评论或讲故事；
+- 出错似乎不会让对方困扰；
+- 到了该停下来的时候，对方也乐于停下。
 
-Signs it is a poor fit:
+以下是不太适合的迹象：
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- 反复说“我不会”或“这太傻了”；
+- 不清楚该点哪里；
+- 感到挫败、尴尬，或把设备推开；
+- 只有您几乎替对方完成所有操作，它才能运行。
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+痛苦是一个信号，而不是需要硬撑过去的东西。请参阅[对方说不时该怎么办](/caregiving/when-they-say-no/)。如果您想了解应用以外的、按阶段划分的活动，请参阅[早期阶段](/activities/early-stage/)和[晚期阶段](/activities/late-stage/)的活动。
 
-## What design features should I look for or avoid?
+## 应该寻找或避免哪些设计特点？
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+寻找平静、简单、为成年人设计的应用，避开任何会增加压力的设计。
 
-| Look for | Be wary of |
+| 应该寻找 | 应该警惕 |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| 大图片和大字体，高对比度 | 小图标，画面杂乱 |
+| 每个界面只有一个清晰的操作 | 许多按钮、菜单或多步骤的指示 |
+| 没有计时，或可以关闭计时 | 倒计时、速度奖励、“打破你的纪录” |
+| 没有计分，或只有温和的反馈 | 积分、生命值、连胜记录、排行榜、“脑龄” |
+| 出错时处理得很安静 | 蜂鸣声、红色的叉号、“错误”提示 |
+| 成人化、贴近现实的图片 | 卡通或幼稚的主题 |
+| 可以离线使用，开始使用时无需账户 | 必须先注册、登录或下载内容 |
+| 容易暂停和停止 | 弹窗询问是否继续玩，或要求为应用评分 |
+| 没有广告，价格清楚，是一次性付费或订阅 | 广告、抽奖式道具、频繁的购买提示 |
+| 第二个人也容易加入 | 只能单人玩，或带有竞争性设计 |
 
-Ads and purchase prompts are easy to tap by accident.
+广告和购买提示很容易被误触。
 
-## How do I check an app's privacy?
+## 我如何检查应用的隐私情况？
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+请检查应用收集哪些信息、与谁分享，以及您能否删除这些信息。在安装之前：
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **阅读应用商店的隐私摘要。** Google Play 的[数据安全部分](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid)和 App Store 的[隐私信息部分](https://support.apple.com/en-us/102399)列出了应用可能收集和分享的数据类型。两家公司都指出，这些信息由开发者自行提供，因此它只是一个起点，而不是审计结果。
+2. **询问它是否需要账户。** 如果一个应用只展示图片或简单的游戏，它就没有理由需要知道您的姓名、电子邮件或生日。
+3. **检查权限。** 一个配对游戏真的需要位置、通讯录、麦克风或您的整个照片库吗？关闭任何它不需要的权限。
+4. **留意广告和分析工具。** 广告和跟踪工具可能把应用的使用情况数据发送给其他公司。
+5. **弄清照片去了哪里。** 如果您添加家庭照片，它们是保留在设备上，还是上传到服务器？您能否将它们删除？
+6. **检查删除方式。** 在隐私政策或数据摘要中查找如何删除数据和账户。如果一个应用表示数据无法删除，请格外谨慎，尤其是当它保存着照片或健康信息时。
+7. **阅读隐私政策，**了解它收集什么、为什么收集、保存多久，以及与谁分享，并寻找直白的答案。
 
-### Does HIPAA protect information in dementia apps?
+### HIPAA 能保护痴呆应用中的信息吗？
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+通常不能，这一点让许多人感到意外。美国卫生与公众服务部[解释说](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html)，HIPAA 适用于健康计划、大多数医疗服务提供者、医疗信息交换机构及其业务伙伴。在大多数情况下，它不保护您为个人用途在应用中输入的数据，除非该应用是由受覆盖实体或其业务伙伴提供的。应用商店里的一款“痴呆应用”往往不在 HIPAA 的范围之内，即使它谈论的是健康问题。
 
-### What protects health data in apps that HIPAA does not cover?
+### HIPAA 未涵盖的应用中，什么能保护健康数据？
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+美国联邦贸易委员会（FTC）的《健康数据泄露通知规则》覆盖了其中许多应用。2024 年，FTC [最终确定了修订内容](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule)，明确该规则适用于 HIPAA 未涵盖的健康应用及类似技术。“泄露”不仅包括黑客攻击，也包括未经授权的披露，公司必须通知受影响的人和 FTC。这是出现问题之后的一道安全网，而不是应用只收集必要信息的保证。
 
-## How should I read claims about research and evidence?
+## 应该如何看待关于研究和证据的说法？
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+请慢慢地阅读证据类说法，并对最夸张的承诺最为怀疑。可以问自己以下问题：
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **到底研究了什么？** 对某一个训练项目的研究，并不能证明应用中的每一个游戏都以同样的方式起作用。
+- **研究的对象是谁？** 在健康的老年人身上得到的结果，可能并不适用于患有痴呆的人。
+- **测量的是什么？** 在游戏本身上变得更熟练，与日常生活、交谈、情绪或独立能力的改变，是两回事。
+- **研究有多可靠？** 随机对照试验（RCT）会比较使用应用的一组与不使用的一组。这是一种良好的设计，但一项规模小或时间短的 RCT 并不足以作为证据。请寻找多项由独立研究人员完成、结论一致的研究。
+- **它是否声称能改变疾病？** 一项显示测试分数略有提高的研究，并不能证明某个应用能减缓、预防或治疗痴呆。
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+美国国家老龄研究所关于[认知健康与老年人](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)的页面，描述了一项由美国国立卫生研究院资助的大型结构化认知训练试验，随后提醒读者警惕某些电脑和网络游戏能改善记忆和思维能力的说法。该页面指出，目前没有足够的证据表明，市面上的脑力训练应用能达到该试验中所测试的训练的同等效果。您可以在我们的[脑力游戏与证据](/brain-health/brain-games/)指南，以及[研究对预防痴呆的说明](/brain-health/can-dementia-be-prevented/)中了解更多。
 
-### What is a public example of a misleading claim?
+### 有哪些公开的误导性说法的例子？
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 年一月，FTC [宣布](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)与“脑力训练”项目 Lumosity 的制作公司达成和解。FTC 指称，该公司在没有充分证据的情况下声称，其游戏可以延缓与年龄相关的认知衰退，并可以防范轻度认知障碍、痴呆和阿尔茨海默病。该公司同意支付两百万美元，并且今后在作出此类说法之前，必须有合格、可靠的科学证据。这一案例提醒我们，营销用语并不等于证据。
 
-### Which words are red flags?
+### 哪些词语是危险信号？
 
-Be cautious when an app or ad says it:
+当某个应用或广告声称它：
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- “能预防”、“能逆转”、“能阻止”或“能治愈”痴呆或阿尔茨海默病；
+- 经过“临床证明”，却没有说明是哪项研究、研究对象是谁、测量了什么；
+- 给出暗示诊断的“脑龄”或记忆分数；
+- 能“锐化”、“提升”或“训练”大脑；
+- 把用户的推荐证言当作证据；
 
-If you are unsure about a claim, ask the person's doctor.
+请保持警惕。如果您不确定某个说法是否可信，请询问对方的医生。
 
-## Where does Golden Moments fit?
+## Golden Moments 处于什么位置？
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments 提供简单的共同活动，而不是记忆测试、治疗或医疗建议。我们的游戏，例如[图片配对](/games/picture-pairs/)、[谈话卡](/games/conversation-cards/)、[照片配对](/games/photo-pairs/)、[图片宾果](/games/picture-bingo/)和[平静呼吸](/games/calm-breathing/)，都是为了享受乐趣和交谈而设计的。它们不诊断、不治疗、不预防或测量痴呆，我们也不对记忆或思维能力作出任何声明。
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+我们还提供一款免费应用，[适用于 iPhone、iPad 和 Android 的 Golden Moments](/app/)。它提供温和的图片配对，带有大图块，可以使用您选择的家庭照片进行游戏，图片包可以离线使用，没有账户、广告、计时或计分。同样的检查清单也适用于它：其 App Store 隐私标签写明“Data Not Collected”（未收集数据），而[应用隐私政策](/app-privacy/)说明了照片副本保存在何处。
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+我们更希望您通过自己的判断来评价我们，而不是直接信任我们。请使用本页的检查清单，阅读我们的[隐私页面](/privacy/)和[医疗免责声明](/medical-disclaimer/)，并停止使用任何不适合您所照顾的人的产品，包括我们的产品。
 
-## What is a sensible way to try a new app?
+## 尝试一个新应用，有什么合理的方法？
 
-Try it together for a couple of weeks and watch what happens.
+与对方一起试用几周，并观察会发生什么。
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **先完成设置，**可以参考我们的[平板电脑与手机设置指南](/caregiving/tablets-and-screens/)，并从最简单的级别开始。
+2. **每次使用的时间要短，**留意对方的笑容、交谈和平静，并在一个美好的时刻结束。
+3. **如果它让对方感到挫败，就停止使用，**无论它的评分有多高。

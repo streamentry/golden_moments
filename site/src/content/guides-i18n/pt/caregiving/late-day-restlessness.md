@@ -1,34 +1,34 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Sundowning: atividades calmas no fim da tarde para pessoas com demência"
+seoTitle: "Sundowning: atividades calmas no fim da tarde"
+description: "Rotinas suaves, mudanças de cômodo e atividades calmas que podem aliviar a inquietação no fim do dia na demência, e quando procurar o médico por sintomas novos ou piores."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Sundowning é a inquietação, a confusão ou a irritação que começam ou pioram no
+  fim da tarde ou à noite. Passos práticos que podem ajudar incluem uma rotina
+  diária estável, luz do dia e atividades no início do dia, menos cochilos
+  tarde, menos cafeína, luzes internas acesas antes do anoitecer, uma casa mais
+  silenciosa e atividades calmas, como música, fotos ou dobrar roupas. Sintomas
+  novos ou que piorem precisam de avaliação médica.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Sundowning é inquietação ou confusão que começam ou pioram à medida que a luz do dia diminui."
+  - "Coloque tarefas exigentes, passeios e banho pela manhã ou no início da tarde."
+  - "Luz do dia, uma caminhada diária, menos cochilos tarde e menos cafeína no fim do dia podem deixar as noites mais tranquilas."
+  - "Acenda as luzes antes do anoitecer, diminua o barulho e mude para atividades calmas e conhecidas."
+  - "Mantenha um registro para identificar gatilhos e fique calmo e tranquilizador quando a inquietação começar."
+  - "Procure um médico para sintomas novos ou piores: dor, infecção ou medicamentos podem ter papel nisso."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "A que horas do dia o sundowning costuma acontecer?"
+    a: "Geralmente começa ou piora no fim da tarde ou no início da noite, à medida que a luz do dia diminui. O horário exato varia de pessoa para pessoa, por isso manter um registro curto por uma ou duas semanas pode ajudar."
+  - q: "Quais atividades ajudam no sundowning?"
+    a: "Atividades calmas, conhecidas e de pouco esforço costumam funcionar melhor no fim da tarde: música suave, olhar fotos, um programa ou filme preferido, dobrar roupas, uma caminhada curta ou um lanche juntos. Deixe as atividades novas ou desafiadoras para o início do dia."
+  - q: "O sundowning pode ser sinal de algum problema médico?"
+    a: "Ele pode piorar com problemas de saúde como dor, infecções como as urinárias, problemas de sono ou efeitos colaterais de medicamentos. Se a inquietação for nova, repentina ou estiver piorando, entre em contato com o médico da pessoa."
+  - q: "Devo perguntar ao médico sobre remédios para o sundowning?"
+    a: "Essa é uma conversa para ter com o médico. A Alzheimer's Association diz que abordagens sem medicamentos costumam ser preferidas primeiro, e que qualquer remédio para a agitação noturna só deve ser considerado depois de pesar riscos e benefícios. Esta página não oferece orientação sobre medicamentos."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +47,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Muitas famílias percebem o mesmo padrão: as manhãs costumam ser bastante tranquilas, mas à medida que a tarde avança, a pessoa que vive com demência fica inquieta, ansiosa, confusa ou irritada. Ela pode andar de um lado para o outro, pedir para “ir para casa” mesmo estando em casa, ou ficar chateada com facilidade. Isso muitas vezes é chamado de sundowning.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Não existe uma solução única, mas mudanças no ritmo do dia, no ambiente e no tipo de atividade oferecida podem deixar o fim da tarde mais calmo. Esta página reúne ideias práticas e não médicas do National Institute on Aging e da Alzheimer's Association. Não é orientação médica. Se os sintomas forem novos, repentinos ou estiverem piorando, converse com o médico da pessoa.
 
-## What is sundowning?
+## O que é o sundowning?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Sundowning é a inquietação, a agitação, a irritação ou a confusão que começam ou pioram à medida que a luz do dia diminui, no fim da tarde ou no início da noite. O [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) observa que estar muito cansado pode aumentar a inquietação no fim do dia.
 
-## What can make late-day restlessness worse?
+## O que pode piorar a inquietação no fim do dia?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Vários fatores podem contribuir, muitas vezes juntos. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lista fatores como:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- exaustão depois de um dia cheio;
+- ambientes novos ou confusos;
+- um “relógio biológico interno” fora de sintonia, deixando a pessoa sonolenta de dia e desperta à noite;
+- pouca luz e sombras, que podem confundir;
+- perceber o estresse ou a frustração das pessoas ao redor;
+- precisar de menos sono, o que é comum em adultos mais velhos.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+O NIA acrescenta, de forma mais geral, causas de agitação como dor, depressão ou estresse, descanso insuficiente, prisão de ventre, barulho excessivo ou muitas pessoas por perto, e certos medicamentos ou interações entre remédios.
 
-## How can I plan the day to make evenings calmer?
+## Como posso planejar o dia para deixar as noites mais calmas?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Transfira as tarefas exigentes para mais cedo e mantenha o fim da tarde suave e previsível. Tanto o NIA quanto a Alzheimer's Association recomendam uma rotina regular. Um dia de exemplo, para adaptar à sua realidade:
 
-| Time | What may help |
+| Horário | O que pode ajudar |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Manhã | Consultas, banho, passeios e qualquer tarefa que exija esforço, quando muitas pessoas estão mais alertas |
+| Fim da manhã | Tempo ao ar livre ou perto de uma janela ensolarada; uma caminhada ou outra atividade |
+| Meio do dia | Um almoço maior (a Alzheimer's Association sugere um almoço maior e um jantar mais leve) |
+| Início da tarde | Descanso, se necessário, mas evite cochilos longos no fim do dia |
+| Meio ao fim da tarde | Atividades calmas e conhecidas; um lanche e uma bebida; sem cafeína |
+| Antes do anoitecer | Acenda as luzes internas e feche as cortinas antes que escureça |
+| Noite | Um jantar leve, música tranquila, pouco estímulo e uma rotina estável para dormir |
 
-A few specific points from the sources:
+Alguns pontos específicos das fontes:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Luz do dia.** O NIA sugere organizar um tempo ao ar livre ou perto de uma janela para receber luz solar todos os dias.
+- **Movimento diário, mas sem exagero.** Procure ser fisicamente ativo todos os dias sem planejar atividades demais, diz o NIA.
+- **Bebidas no fim do dia.** Evite álcool e bebidas com cafeína, como café ou refrigerante de cola, no fim do dia (NIA). A Alzheimer's Association também menciona a nicotina.
+- **Cochilos.** Desencoraje cochilos longos e sonecas no fim do dia (NIA). A Alzheimer's Association sugere limitar os cochilos diurnos se o sono noturno for um problema.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+Para mais sobre como montar um dia estável, veja [atividades de rotina diária](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Como posso deixar a casa mais calma no fim da tarde?
 
-Reduce noise, add light and keep familiar things close.
+Reduza o barulho, aumente a luz e mantenha por perto as coisas conhecidas.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Luz clara e uniforme.** A Alzheimer's Association recomenda manter a casa bem iluminada à noite. Acenda as luzes antes que as sombras apareçam.
+- **Menos barulho.** Desligue ou abaixe a TV e o rádio, e limite visitas ou tarefas domésticas agitadas nesse horário. A Alzheimer's Association sugere reduzir estímulos noturnos como TV, afazeres e música alta.
+- **Conforto familiar.** O NIA sugere música suave e objetos e fotos queridos espalhados pela casa.
+- **Verificações de conforto.** A Alzheimer's Association recomenda checar dor, fome, sede, prisão de ventre, bexiga cheia, cansaço, infecções e irritação na pele, e manter o cômodo em uma temperatura confortável.
+- **Seu próprio humor.** As pessoas percebem o estresse. O NIA sugere desacelerar e tentar relaxar se as suas próprias preocupações estiverem aumentando a tensão.
 
-## What calm activities can we do in the late afternoon?
+## Que atividades calmas podemos fazer no fim da tarde?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Escolha atividades conhecidas, sem pressa e fáceis de interromper. A Alzheimer's Association sugere atividades tranquilizantes, como música calma, fotos ou um filme preferido, e uma caminhada juntos para aliviar a inquietação. O NIA sugere um lanche ou uma bebida, um programa de TV preferido, música, uma caminhada, leitura ou uma tarefa doméstica simples, como dobrar roupas.
 
-Ideas to try:
+Ideias para experimentar:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Dobrem roupas juntos.** O NIA sugere esse tipo de tarefa doméstica simples. Toalhas são fáceis de manusear, e a tarefa tem um fim claro.
+2. **Toque músicas preferidas.** Canções conhecidas da juventude, em volume baixo. Cantarolar junto conta. Mais ideias em [atividades com música](/activities/music/).
+3. **Olhem fotos.** Um álbum de fotos, ou algumas fotos da família em [Pares de fotos](/games/photo-pairs/) com as imagens visíveis, pode levar a uma conversa tranquila.
+4. **Façam uma caminhada curta.** No jardim, no quarteirão ou em um corredor, antes que escureça.
+5. **Dividam um lanche e uma bebida.** Algo simples, quente e sem cafeína, à mesa, juntos.
+6. **Combinação suave.** [Pares de imagens](/games/picture-pairs/) com quatro peças e imagens visíveis é fácil de começar e fácil de parar.
+7. **Colorir.** [Colorir](/games/coloring/) na tela ou em uma folha impressa, sem objetivo de terminar.
+8. **Olhar e conversar.** [Cartas de conversa](/games/conversation-cards/) oferecem uma imagem e uma pergunta aberta. Apenas olhar já basta.
+9. **Uma pausa para respirar.** [Respiração calma](/games/calm-breathing/) é uma pausa lenta e silenciosa que você mesmo inicia e encerra.
+10. **Tarefas com as mãos.** Separar botões ou meias, alisar uma manta macia ou segurar um objeto familiar. Veja [atividades sensoriais](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Evite jogos novos, passeios agitados e qualquer coisa que exija muita memória ou concentração no fim do dia. Reserve isso para a manhã.
 
-## What should I do when restlessness starts?
+## O que devo fazer quando a inquietação começar?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Fique calmo, tranquilize e redirecione com delicadeza. O NIA sugere falar em tom calmo, ouvir as preocupações da pessoa, evitar discussões, reforçar que ela está segura e usar um toque suave, se ajudar. Depois, experimente uma distração: um lanche, uma bebida, música ou uma caminhada.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+A Alzheimer's Association sugere frases como “Você está seguro aqui” e “Sinto muito que você esteja chateado”, e aconselha acrescentar luz, desacelerar e limitar os estímulos. Não encurrale, não aperte nem contenha a pessoa, e não discuta com ela.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Se a pessoa ficar agressiva, o NIA aconselha manter uma distância segura até que o comportamento pare. Em caso de emergência, ligue para o número de emergência local e explique que a pessoa tem demência. Nosso [guia sobre como responder a raiva e agressividade](/caregiving/when-anger-becomes-aggression-with-dementia/) explica a segurança imediata e o que fazer depois.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Nossos guias sobre [comunicação](/caregiving/communication-tips/) e [o que fazer quando a pessoa diz não](/caregiving/when-they-say-no/) trazem mais sobre palavras que acalmam.
 
-## How do I find the triggers?
+## Como descubro os gatilhos?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Mantenha um registro curto por uma ou duas semanas. A Alzheimer's Association recomenda acompanhar o que acontece antes dos episódios de sundowning para identificar os gatilhos. Anote a hora em que a inquietação começou, o que aconteceu na hora anterior, cochilos, refeições e bebidas, visitas, barulho e luz. Leve o registro ao médico. O NIA observa que acompanhar as mudanças de comportamento pode ajudar cuidadores e profissionais de saúde a reconhecer um padrão.
 
-## When should I call a doctor about sundowning?
+## Quando devo procurar o médico por causa do sundowning?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Entre em contato com o médico da pessoa se a inquietação for nova, piorar de repente ou vier acompanhada de outras mudanças. O NIA diz que mudanças repentinas ou que oscilam rapidamente no comportamento, especialmente após uma infecção ou mudanças recentes de medicamento, devem ser levadas imediatamente à atenção do médico.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Peça ao médico que verifique coisas que podem tornar as noites mais difíceis. A Alzheimer's Association menciona problemas físicos como infecções urinárias, incontinência, síndrome das pernas inquietas e apneia do sono, e sugere perguntar quais horários são melhores para cada medicamento. O NIA lista dor, prisão de ventre e efeitos colaterais ou interações de medicamentos entre as possíveis causas de agitação.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+A Alzheimer's Association diz que abordagens sem medicamentos costumam ser preferidas para problemas de sono ligados ao Alzheimer, e que um remédio para a agitação no fim do dia deve ser considerado apenas se essas abordagens não funcionarem, depois de pesar riscos e benefícios. Essa decisão cabe ao médico. Não comece, não pare nem altere nenhum medicamento, remédio para dormir ou suplemento sem orientação médica.
 
-## How do I get through the evenings myself?
+## Como consigo passar pelas noites?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+O fim da tarde pode ser a parte mais difícil do dia de um cuidador. Se puder, peça a um familiar, amigo ou cuidador pago que cubra o fim da tarde alguns dias por semana, mesmo que por uma hora. Nosso guia sobre o [autocuidado de quem cuida](/caregiving/caregiver-self-care/) lista opções de descanso e a Linha de Ajuda 24 horas gratuita da Alzheimer's Association.

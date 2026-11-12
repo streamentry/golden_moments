@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Групне активности за деменцију: водич за домове и дневне програме"
+seoTitle: "Групне активности за деменцију: бинго, песме, приче"
+description: "Групне активности за посебну негу, домове и дневне програме за особе са деменцијом: бинго са сликама, певање, групе за присећање и распоред места."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Добре групне активности у посебној нези и дневним програмима су кратке,
+  познате и могу се лако прихватити на сваком нивоу: бинго са сликама, заједничко
+  певање, кругови за присећање, једноставни покрети и заједничке игре речи.
+  Где можете, држите мање групе, сместите људе тако да виде и чују, дајте један
+  јасан корак у исто време и предвидите лакшу улогу и миран излазак за сваког
+  коме треба.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Мање групе често функционишу боље од једног великог догађаја и омогућавају више људи да активно учествују, а не само да гледају."
+  - "Седите људе у круг или подножје потковице, близу водитеља, водећи рачуна о потребама за слухом и видом и уз искључену позадинску буку."
+  - "Планирајте сваку активност на два или три нивоа, како би људи са различитим способностима могли да учествују."
+  - "Избегавајте квизове, бодовање и победнике. Бинго са сликама може се играти тако да сви на крају имају пуну картицу."
+  - "Одлазак раније, посматрање или дремање су у реду. Имајте члана особља спремног да подржи сваког ко жели тише место."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Која је добра величина групе за активности код деменције?"
+    a: "Не постоји један тачан број. Он зависи од становника, просторије и броја особља. Многи тимови сматрају да мале групе омогућавају свакоме да види, чује и учествује, док велики догађаји у великим просторијама обично остављају више људи да само гледају. Ако организујете велики догађај, додајте особље или волонтере који могу да седе међу становницима и помогну једној или две особе."
+  - q: "Како водити групу са различитим способностима?"
+    a: "Планирајте више начина да се учествује у свакој активности. У заједничком певању неки певају сваку реч, неки пљесну или нуцкају, а неки држе шејкер. У бингу са сликама неки сами налазе своје слике, док помоћник показује другима. Посадите људе којима треба више помоћи поред члана особља или волонтера."
+  - q: "Како играти бинго са сликама без такмичарског духа?"
+    a: "Прозивајте сваку слику док свака картица не буде попуњена, па нико није изостављен. Причајте о свакој слици када се појави и не делите награде победницима или дајте свима исти мали поклон. Смисао је заједничка пажња и разговор, а не то ко први заврши."
+  - q: "Могу ли да користим ваше игре на великом екрану у групи?"
+    a: "Да. Наше игре раде у прегледачу веба, па их можете отворити на лаптопу или таблету повезаном са телевизором или пројектором. Бинго са сликама укључује штампане картице и прозивача на екрану. Довршите изреку и Парови слика такође добро функционишу на великом екрану, а једна особа додирује за целу групу."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Овај водич је намењен руководиоцима активности, тимовима за посебну негу и водитељима дневних програма за особе са деменцијом. Обухвата облике групног рада који функционишу, распоред просторије, прилагођавање једне активности различитим способностима и коришћење наших штампаних картица за бинго и игара на великом екрану. Све овде има за циљ удобност, повезаност и избор. Ништа овде није тест.
 
-## What makes a group activity work in memory care?
+## Шта чини групну активност успешном у посебној нези?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Добра групна активност је позната, кратка, лако се прикључује на сваком нивоу и без притиска. [Препоруке Alzheimer's Association за неговање деменције](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) описују смислено учешће као нешто што подржава интересовања и жеље особе и омогућава избор и успех, чак и када је деменција најтежа. Исти документ наводи да традиционални програми често зависе од једног или два велика групна догађаја дневно у којима су становници често само пасивно укључени.
 
-That points to a few practical rules:
+Из тога произилазе практична правила:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Познато је боље од новог.** Песме, изреке, слике и предмети из млађих година становника лакше се прикључују.
+- **Кратко је боље од дугог.** Планирајте колико обично траје пажња ваше групе, уз природну тачку заустављања на пола.
+- **Учинити је боље од гледања.** Дајте сваком нешто да држи, додирне, изабере или каже.
+- **Много нивоа, једна активност.** Угради лакше и теже начине учешћа.
+- **Без победника, без бодова.** Такмичарски облици остављају неке људе са осећајем неуспеха.
 
-## How big should the group be?
+## Колика треба да буде група?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Мања је обично лакша. Alzheimer's Association наводи да особа којој је велико окупљање преоптерећујуће може да се боље повеже у мањој групи. Не постоји један тачан број. Зависи од становника, просторије и броја запослених и волонтера који су на располагању.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Користан тест: може ли свака особа да види лице водитеља, јасно да чује и да јој помоћник приђе у року од неколико секунди? Ако не може, поделите групу, додајте помоћнике или пређите у мању просторију.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+За велики догађај, на пример концерт за празник, посадите запослене и волонтере међу становнике, а не уз зидове.
 
-## How should I set up the room and seating?
+## Како да поставим просторију и седишта?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Круг или потковица.** Препоруке за неговање описују дељени круг као најбољи у простору довољно великом да сви могу да седе у кругу, без позадинске буке.
+- **Водитељ близу и на нивоу очију.** Седите, а не стојите, кад год можете.
+- **Прво слух и вид.** Посадите особе са оштећењем слуха најближе водитељу, на бољој страни. Проверите да ли су наочаре и слушни апарати на месту. Alzheimer's Association наводи да проблеми са видом и слухом могу отежати комуникацију.
+- **Светло иза становника, а не иза вас.** Избегавајте да неко седи окренут према јаком прозору.
+- **Искључите телевизор и радио.** Alzheimer's Association саветује да се уклони конкурентна бука током активности са музиком.
+- **Један разговор у исто време.** Укрштени разговори су тешки за особе са деменцијом и особе са оштећеним слухом, како Alzheimer's Association истиче у свом [савету о празницима](https://www.alz.org/help-support/caregiving/holidays).
+- **Јасни излази и миран кутак.** Свако ко жели да оде треба лако да то учини, уз члана особља који ће га испратити.
 
-## Group activity ideas
+## Идеје за групне активности
 
-### Picture bingo
+### Бинго са сликама
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Бинго са сликама замењује бројеве јасним сликама, на пример чајником, псом или ружом, па нико не мора да прати дуги број или да чита ситна слова.
 
-**How to run it:**
+**Како га водити:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Одштампајте по једну картицу за сваку особу са наше странице [Бинго са сликама](/games/picture-bingo/) помоћу дугмета за штампу. Тежи папир је лакше држати. Ламинирајте ради поновне употребе.
+2. Дајте велике, лако хватљиве маркере, на пример жетоне за покер, чепове од флаша или исечене квадрате картона.
+3. Користите прозивача на екрану на телевизору или пројектору, како би сви видели слику док изговарате њен назив.
+4. Застаните након сваке слике и позовите на кратак коментар: „Да ли би неко желео да нам исприча о псу кога је познавао?“ или „Шта примећујете на овој слици?“
+5. Прозивајте док се свака картица не попуни. Сви завршавају.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Прилагођавање:** Користите мање поља за особе којима је пуна картица преоптерећујућа. Помоћник може показати одговарајућу слику за некога коме је то потребно. Неки људи могу радије да држе картицу са сликом коју прозивате и покажу је групи.
 
-### Sing-alongs
+### Заједничко певање
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Музика је једна од најшире вољених групних активности. Alzheimer's Association наводи да особа може, чак и у касним фазама, да [лупка ритам или пева песму из детињства](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Како га водити:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Бирајте песме које су становници одрасли уз њих, а не омиљене песме водитеља. Питајте породице шта је свако волео.
+- Користите музику без реклама, које Association наводи као збуњујуће.
+- Одштампајте текст великим словима за оне који читају, али га не захтевајте.
+- Понудите шејкере, ручне бубњеве или шалове за махање.
+- Подстичите пљескање и покрет, а јачину држите удобном.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Прилагођавање:** Неки ће певати сваку реч, неки ће мумлати, неки ће лупкати ногом, а неки ће само слушати. Све ово се рачуна. Погледајте наш [водич за активности са музиком](/activities/music/) за више.
 
-### Reminiscence groups
+### Групе за присећање
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Група за присећање окупља се око теме, на пример школских дана, првих аутомобила, кухиња или лета, користећи фотографије, предмете и музику. Циљ је пријатан разговор, а не тачно присећање.
 
-**How to run it:**
+**Како га водити:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Изаберите једну тему и понесите неколико предмета које људи могу да држе: ручни миксер, бејзбол рукавицу, шешир, каталог семена.
+2. Предајте по један предмет. Постављајте отворена питања: „Реците ми нешто о овоме“, „Шта приметите?“, „Ко је користио нешто слично?“
+3. Прихватите сваки одговор. Никада не исправљајте датум или чињеницу.
+4. Водите разговор ка топлим сећањима. Препоруке за неговање наглашавају да пружаоци неге треба да усмере присећање ка позитивним успоменама, а не ка онима које могу изазвати узнемиреност.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Картице за разговор](/games/conversation-cards/) нуде штампане картице са сликама и отвореним питањима по теми, које добро служе као подстицај за разговор. Још идеја има у нашем [водичу за присећање](/activities/reminiscence/).
 
-### Finish the saying
+### Довршите изреку
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Познате изреке („Ко рано рани, две среће граби...“) позивају све да заједно изговоре крај. Прикажите [Довршите изреку](/games/finish-the-saying/) на великом екрану и нека група одговори једним гласом. После сваке изреке постоји подстицај за разговор. Ако нико не каже крај, прикажите га и идите даље. Нема тачног или погрешног одговора.
 
-### Large-print word search, together
+### Тражилица речи са великим словима, заједно
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Пројектујте [Тражилицу речи](/games/word-search/) са великим словима на екран и тражите речи као група, или одштампајте копије за оне који воле да раде сами за столом. Речи иду само водоравно и усправно.
 
-### Gentle movement
+### Нежно кретање
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Седећи протезања, додавање меке лопте или балона или љуљање у столици уз познату музику. Покажите сваки покрет уместо да га описујете.
 
-### Sorting and matching at the table
+### Сортирање и упаривање за столом
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Мали столови од три до четири особе могу сортирати слике, узорке тканине или прибор за јело заједно. На екрану се [Парови слика](/games/picture-pairs/) могу играти са сликама које остају видљиве, док једна особа додирује, а остатак стола прича о свакој слици.
 
-## How do I use your games on a big screen?
+## Како користити наше игре на великом екрану?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Наше игре раде у прегледачу веба, па их можете користити на телевизору или пројектору без инсталирања било чега.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Отворите игру на лаптопу или таблету повезаном са екраном каблом или кастовањем.
+2. Пређите на цео екран и подесите звук на удобан ниво.
+3. Нека један водитељ додирује док група довикује своје изборе. Или дајте таблет становнику који жели да буде на реду.
+4. Станите кад год је група спремна. Игре немају тајмер, бодове или присилан завршетак.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Бинго са сликама](/games/picture-bingo/), [Довршите изреку](/games/finish-the-saying/), [Парови слика](/games/picture-pairs/) и [Картице за разговор](/games/conversation-cards/) најчешће одговарају групама. Све опције погледајте на нашој [страници са играма](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Како прилагодити једну активност за различите способности?
 
-Plan at least three ways to join every activity.
+Планирајте најмање три начина да се учествује у свакој активности.
 
-| Activity | More independent | Some support | Most support |
+| Активност | Самосталније | Уз помоћ | Највише помоћи |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Бинго са сликама | Сам налази и покрива своје слике | Помоћник показује; особа покрива | Држи картицу са сликом; слуша и гледа |
+| Заједничко певање | Пева, бира следећу песму | Мумла, пљеска или користи шејкер | Слуша, држи шал, додирује руку |
+| Присећање | Прича приче | Одговара са да или не или показује | Држи и осети предмет |
+| Тражилица речи | Ради на свом штампаном примерку | Тражи речи на великом екрану уз помоћ | Слуша док се речи читају наглас |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+За особе у каснијим фазама, NHS наводи да активности обично треба да буду једноставније и да се више усредсреде на чула, као што су музика, предмети за додиривање и масажа шаке. Тренутак један на један током или након групе можда им више одговара него сама група. Погледајте [активности за касну фазу](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Како водитељи треба да говоре током групе?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Представите се сваки пут и користите жељено име сваке особе.
+- Говорите полако, дајте један корак у исто време и покажите пре него што објасните.
+- Постављајте отворене позиве („Реците ми о...“) или једноставне изборе, никад питања квиза („Да ли се сећате...?“).
+- Не исправљајте. Захвалите за сваки допринос.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Више о овоме има у нашим [саветима за комуникацију](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Завршетак добро, и пуштање људи да оду
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Заустављање је добар исход. Пазите на знаке да се неко уморио, немирује или узнемирио, и нека помоћник понуди шетњу или миран седиште на другом месту. Неко ко дремуцка током заједничког певања можда је једноставно удобан.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Завршите сваку групу на исти начин, познатом песмом или једноставним хвала, како би крај деловао смирено и очекивано. Након тога забележите шта је функционисало и ко је шта волео. Те белешке чине следећу сесију бољом.

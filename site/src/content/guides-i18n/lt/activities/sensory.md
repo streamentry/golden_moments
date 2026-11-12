@@ -1,33 +1,32 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Jutiminės veiklos žmonėms su demencija"
+seoTitle: "Jutiminės veiklos demencijai: idėjos ir saugumas"
+description: "Jutiminės veiklos žmonėms su demencija: rankų masažas, audinių krepšys ir gamtos garsai, su saugos patarimais dėl užspringimo, alergijų ir kvapų."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Jutiminės veiklos naudoja juslas: lėtą rankų masažą, minkštų audinių
+  krepšį, gaivius žolelių kvapus, gamtos garsus ar paukščių stebėjimą pro langą.
+  Jos tinka kiekvienai stadijai ir ypač vertingos vėliau. Prieš pradėdami
+  patikrinkite užspringimo riziką, alergijas, odos problemas ir jautrumą
+  kvapams, siūlykite po vieną dalyką ir sustokite, jei žmogus jaučiasi nejaukiai.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Jutiminėms veikloms nereikia teisingų atsakymų, todėl jos tinka kiekvienai stadijai, įskaitant lovoje ar kėdėje."
+  - "Siūlykite vieną juslę tyliame kambaryje ir prieš liesdami paklauskite ar pranešti."
+  - "Venkite mažų daiktų ir to, kas atrodo ar kvepia kaip maistas, bet nėra maistas, nes žmonės gali įsidėti daiktus į burną."
+  - "Prieš naudodami losjonus, kvapus ar maistą patikrinkite alergijas, odos problemas ir kvėpavimo sutrikimus."
+  - "Įrodymų, kad aromaterapija padeda demencijos simptomams, nėra įtikinamų; kvapus naudokite tik paprastam malonumui, jei apskritai."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Kokios jutiminės veiklos tinka žmogui su demencija?"
+    a: "Paprastos idėjos: lėtas rankų masažas losjonu, minkštų audinių liečiamas, žolelių ar kavos kvapas, mėgstamos muzikos ar gamtos garsų klausymasis, paukščių ar žuvų akvariumo stebėjimas ir mėgstamo maisto paragavimas saugia tekstūra. Siūlykite po vieną dalyką ir stebėkite žmogaus reakciją."
+  - q: "Ar jutiminės veiklos saugios žmogui, kuris įsideda daiktus į burną?"
+    a: "Jos gali būti saugios, jei elgiatės atsargiai. Naudokite tik didelius daiktus, kurių negalima nuryti, nedėkite nieko mažo ar trapaus ir po veiklos laikykite losjonus, muilus ir kvepalus, kuriuos galima supainioti su maistu, nepasiekiamoje vietoje. Būkite šalia žmogaus visą laiką."
+  - q: "Ar aromaterapija padeda demencijai?"
+    a: "Cochrane apžvalga neradė įtikinamų įrodymų, kad aromaterapija padeda žmonėms su demencija, nors tyrimai buvo maži ir nenuoseklūs. Jei žmogus mėgsta švelnų, pažįstamą kvapą, tai gerai, bet venkite stiprių eterinių aliejų, ypač esant kvėpavimo sutrikimams ar alergijoms."
+  - q: "Kas yra „fidžetų“ ar veiklos prijuostė?"
+    a: "Tai audinio gabalas, prijuostė ar kojų antklodė su daiktais, kuriuos galima paliesti, tvirtai prisiūtais prie jos, pavyzdžiui, dideli mygtukai, užtrauktukai, juostelės ir raštuotos apliktės. Ji suteikia užsiėmusioms rankoms ką tyrinėti. Dažnai tikrinkite, ar nėra kas atsilaisvinęs ir galėtų būti nuplėštas."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +47,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Jutiminės veiklos naudoja penkias juslas: lytėjimą, uoslę, skonį, klausą ir regėjimą. Jos nereikalauja atminties, žingsnių ar teisingų atsakymų, todėl gali tikti kiekvienoje stadijoje. Jos ypač svarbios vėlesniu metu. [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) pažymi, kad vėlyvojoje stadijoje pasaulis patiriamas daugiausia per juslas, o rūpestį galima parodyti per lytėjimą, garsą, regėjimą, skonį ir kvapą. Keli saugumo patikrinimai padaro šias veiklas ramias visiems.
 
-## What are sensory activities for dementia?
+## Kas yra jutiminės veiklos demencijai?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Jutiminės veiklos yra paprasti išgyvenimai, sukurti aplink vieną juslę: audinio glostymas, žolelių uostymas ar lietaus garsų klausymasis. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) sako, kad vėlesnėje stadijoje veiklos dažnai turi sutelkti dėmesį į juslas, ir mini muziką, daiktus, kuriuos galima liesti ir laikyti, bei rankų masažą. [Alzheimerio fondas Amerikoje](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) pažymi, kad vėlyvojoje stadijoje žmonės gali labai norėti ką nors prisiglausti dėl ramybės.
 
-## Sensory ideas, sense by sense
+## Jutiminių idėjų pagal juslę
 
-### Touch
+### Lytėjimas
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Rankų masažas.** Sušildykite šiek tiek losjono rankose ir lėtai glostykite nuo riešo iki pirštų galiukų. [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mini masažą neparfumuotu losjonu dėl ramybės.
+- **Audinių krepšys.** Dideli aksomo, velveto, flisa, atlasas ir vilnos kvadratėliai, kuriuos glostyti, lankstyti ir apie juos kalbėti.
+- **Šilta servetėlė.** Šilta, drėgna servetėlė rankoms šaltą dieną. Pirmiausia išbandykite temperatūrą ant savo riešo.
+- **Veiklos prijuostė ar kojų antklodė.** Dideli mygtukai, užtrauktukai, juostelės ir raštuotos apliktės tvirtai prisiūtos.
+- **Lankstymas ir glostymas.** Krepšys švarių skalbinėlių ar servetėlių, kuriuos lankstyti, krauti ir vėl lankstyti.
+- **Kas minkšto laikyti.** Flisinis pledas, pagalvėlė ar tikras minkštas gyvūnėlis, siūlomas paprastai, niekada kaip žaislas.
 
-### Smell
+### Uostymas
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Šviežios žolelės.** Patrinkite mėtų, rozmarinų, bazilikų ar levandų lapelius tarp pirštų ir praneškite žmogui.
+- **Virtuvės kvapai.** Kavos virimas, skrudinama duona, cinamonas ar šalia nulupamas apelsinas.
+- **Gėlės.** Atneškite kelis šviežius žiedus iš sodo ar parduotuvės.
+- **Pažįstamas produktas.** Muilas ar losjonas, kurį jis visada naudojo, jei jo oda tai toleruoja.
 
-### Taste
+### Skonis
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Mėgstamas skonis.** Mažas šaukštelis to, ką jis myli, pavyzdžiui, obuolių tyrės, pudingo ar ledų, saugia tekstūra, kurią jis gali valdyti.
+- **Pagalba kepant.** Ragaujant vaisių ar truputį glaistymo kepant kartu.
+- **Sezoniniai skanėstai.** Arbūzas vasarą, šiltas sidras rudenį, patiektas saugiai temperatūrai.
 
-### Sound
+### Garsas
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Mėgstama muzika.** Pažįstamos dainos švelniu garsu; žr. [muzikos veiklas](/activities/music/).
+- **Gamtos garsai.** Lietus, bangos ar paukščių giesmės. NIA pažymi, kad muzika, baltasis triukšmas ir gamtos garsai kai kuriuos žmones atpalaiduoja.
+- **Jūsų balsas.** Garsus skaitymas, dūzgimas ar pasakojimas.
+- **Paprasti instrumentai.** Rankinis bubnelis, barškutis ar varpelis, kad groti kartu su muzika.
 
-### Sight
+### Regėjimas
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Stebėjimas pro langą.** Paukščių lesykla prie lango, į namus einantys vaikai ar krintantis sniegas.
+- **Akvariumas ar lėtas vaizdo įrašas.** Švelnus judėjimas be garsaus triukšmo.
+- **Dideli paveikslėliai.** Vienas aiškus paveikslėlis vienu metu, laikomas akių aukštyje.
+- **Spalva ir raštas.** Rūšiuoti ryškius audinių skiautes, gėles ar spalvotas servetėles, arba paprastą spalvinimo puslapį iš mūsų [spalvinimo](/games/coloring/) rinkinio.
+- **Lauke.** NHS siūlo jutimines sodų zonas su kvapniais augalais, tekstūromis ir vandens elementais. Žr. [lauko ir sodininkystės veiklas](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Kaip padaryti jutiminę dėžę?
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Pasirinkite temą**, susijusią su žmogaus gyvenimu: paplūdimys, sodas, virtuvė, dirbtuvė, siuvimas.
+2. **Pasirinkite penkis ar šešis dideli, saugius daiktus**, pavyzdžiui, didelį jūros kriauklę, medinį šaukštą, minkštą šalikėlį, užsiūtą džiovintos levandos maišelį ar lygų medinį kubelį.
+3. **Patikrinkite kiekvieną daiktą** dėl mažų dalių, aštrių kraštų, laisvų siūlų ir to, kas gali sudužti.
+4. **Išimkite po vieną daiktą.** Perduokite, aprašykite ir leiskite žmogui jį tyrinėti.
+5. **Vėliau padėkite dėžę atgal**, kad ji išliktų ypatinga, o daiktai būtų vėl patikrinti prieš kitą kartą.
 
-## Safety first
+## Pirmiausia saugumas
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Jutiminės veiklos yra švelnios, bet yra keletas rizikų, kurias svarbu žinoti. Kai kurie žmonės su demencija nebūtą maistą palaiko maistu, o rijimas vėliau gali tapti sunkesnis; NIA įspėja, kad vėlyvosios stadijos rijimo sunkumai didina užspringimo riziką.
 
-| Risk | What to do |
+| Rizika | Ką daryti |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Užspringimas | Naudokite tik daiktus, kurie per dideli, kad būtų nuryti. Jokių sagų, karoliukų, monetų, rutuliukų ar mažų žaislų laisvai dėžėje. Siūlykite maistą tik tokiomis tekstūromis, kurias slaugos komanda pripažįsta saugiomis. |
+| Daiktai, panašūs į maistą | NIA pataria užrakinti losjonus, muilus, šampūnus ir kvepalus, kurie gali atrodyti ar kvepėti kaip maistas, ir pašalinti dirbtinius vaisius. Jutimines priemones po naudojimo padėkite į vietą. |
+| Alergijos | Prieš pradėdami patikrinkite alergijas riešutams, latekso, vilnai, augalams ar kvapams. |
+| Stiprūs kvapai | Venkite stiprių kvepalų ir eterinių aliejų, ypač esant astmai ar kitiems kvėpavimo sutrikimams. Švelnūs, natūralūs kvapai saugesni. |
+| Oda | Prieš masažą patikrinkite, ar oda nėra suskilusi, pažeista ar trapi. Naudokite švelnų spaudimą ir sustokite, jei žmogus susiraukia. |
+| Temperatūra | Šiltas servetėles ir gėrimus pirmiausia išbandykite ant savo riešo. |
+| Aštrūs ar toksiški daiktai | Jokių aštrių įrankių, stiklo ar toksiškų kūrybinių priemonių. |
 
-## Does aromatherapy help?
+## Ar aromaterapija padeda?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Tikriausiai ne jokiu išmatuojamu būdu. [Cochrane apžvalga apie aromaterapiją demencijai](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) išnagrinėjo 13 tyrimų su 708 žmonėmis, visais atvejais slaugos namuose, ir neradė įtikinamų įrodymų apie naudą. Tyrimai buvo maži, rezultatai nesutapo, o šalutinis poveikis buvo blogai aprašytas. Jei žmogui patinka švelnus, pažįstamas kvapas, pavyzdžiui, levandos iš sodo, tai gera priežastis jį pasidalyti. Tai nėra gydymas.
 
-## How to offer a sensory activity
+## Kaip siūlyti jutiminę veiklą?
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Pasirinkite ramią akimirką** ir išjunkite televizorių.
+- **Priartėkite iš priekio**, ištarkite jo vardą ir paklauskite ar pasakykite prieš liesdami: „Turiu losjono. Norėtumėte, kad patrinčiau rankas?“
+- **Siūlykite po vieną dalyką**, kad jis neprislėgtų.
+- **Stebėkite reakciją.** Švelnesnis veidas, atsipalaidavusios rankos ar šypsena yra geri ženklai. Atitraukimas, susiraukimas ar neramumas reiškia sustoti.
+- **Laikykite trumpai.** Penkios ramios minutės yra geras užsiėmimas.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Lėtas kvėpavimas kartu, panašus į [ramų kvėpavimą](/games/calm-breathing/), gali būti švelnus būdas baigti. Daugiau idėjų lovos šalia žr. [vėlyvosios stadijos veiklas](/activities/late-stage/), o vakaro nerimui – [vakaro neramumą](/caregiving/late-day-restlessness/).

@@ -1,33 +1,28 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Gruppeaktivitetar for demens: ein rettleiar for sjukeheimar og dagtilbod"
+seoTitle: "Gruppeaktivitetar for demens: bingo, songar, historier"
+description: "Gruppeaktivitetar for minneomsorg, sjukeheimar og dagtilbod: biletbingo, songsamlingar og reminisensgrupper, med tips om sitjeplassar og gruppestorleik."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Gode gruppeaktivitetar i minneomsorg og dagtilbod er korte, kjende og lette å vere med på på alle nivå: biletbingo, songsamlingar, reminisensringar, enkel bevegelse og felles ordspel. Hald grupper små der du kan, sett folk slik at alle kan sjå og høyre, gi eitt tydeleg steg om gongen, og planlegg ei enklare rolle og ein roleg utgang for dei som treng det.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Mindre grupper fungerer ofte betre enn eitt stort arrangement, og gir fleire moglegheit til å delta aktivt i staden for berre å sjå på."
+  - "Sett folk i ein ring eller hestesko, nær leiaren, med omsyn til høyrsel og syn, og slå av bakgrunnsstøy."
+  - "Planlegg kvar aktivitet på to eller tre nivå, slik at folk med ulike evner kan vere med."
+  - "Unngå kvizar, poeng og vinnarar. Biletbingo kan spelast slik at alle endar med eit fullt kort."
+  - "Å gå tidleg, sjå på eller sovne er greitt. Ha ein medarbeidar klar til å hjelpe dei som vil ha ein roligare plass."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Kva er ei god gruppestorleik for demensaktivitetar?"
+    a: "Det finst ikkje eitt rett tal, og det avheng av beboarane, rommet og kor mange tilsette du har. Mange team meiner at små grupper gjer at alle kan sjå, høyre og delta, medan store arrangement i store rom gjer at fleire berre ser på. Held du eit stort arrangement, legg til tilsette eller frivillige som kan sitje blant beboarane og hjelpe ein eller to kvar."
+  - q: "Korleis leier eg ei gruppe med blanda evner?"
+    a: "Planlegg meir enn ein måte å vere med på i kvar aktivitet. I ein songsamling syng nokre kvart ord, nokre klappar eller nynnar, og nokre held ein rytmeshaker. I biletbingo finn nokre sjølve bileta sine, medan ein hjelpar peikar for andre. Sett dei som treng mest hjelp ved sidan av ein tilsett eller frivillig."
+  - q: "Korleis spelar eg biletbingo utan at det blir konkurranse?"
+    a: "Rop opp kvart bilete til alle kort er fulle, så ingen blir utelatne. Snakk om kvart bilete når det kjem opp, og hopp over premiar til vinnarar, eller gi alle same lille gåve. Poenget er felles merksemd og samtale, ikkje kven som blir ferdig først."
+  - q: "Kan eg bruke spela dine på ein stor skjerm i ei gruppe?"
+    a: "Ja. Spela våre køyrer i ein nettlesar, så du kan opne dei på ein bærbar eller nettbrett kopla til ein TV eller projektor. Biletbingo har utskrivbare kort og ein rop på skjermen. Fullfør ordtaket og Biletpar fungerer òg godt på stor skjerm, med éin person som trykkjer for gruppa."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +47,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Denne guiden er for aktivitetsleiarar, minneomsorgsteam og leiarar av dagtilbod for vaksne. Han dekkjer gruppeformat som fungerer, romoppsett, tilpassing av éin aktivitet for blanda evner, og bruk av våre utskrivbare bingokort og spel på stor skjerm. Alt her har som mål komfort, kontakt og val. Ingenting her er ein test.
 
-## What makes a group activity work in memory care?
+## Kva gjer ein gruppeaktivitet god i minneomsorg?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Ein god gruppeaktivitet er kjend, kort, lett å vere med på uansett nivå, og fri for press. Alzheimer's Association sine [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) skildrar meiningsfull deltaking som noko som støttar ein persons interesser og ønske, og som gir rom for val og meistring, også når demensen er svært alvorleg. Det same dokumentet nemner at tradisjonelle program ofte baserer seg på eitt eller to store gruppearrangement om dagen, der beboarane ofte berre er passivt med.
 
-That points to a few practical rules:
+Det peiker mot nokre praktiske reglar:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Kjent slår nytt.** Songar, ordtak, bilete og gjenstandar frå beboarane sine yngre år er lettare å vere med på.
+- **Kort slår langt.** Planlegg for omtrent den merksemda gruppa vanlegvis har, med eit naturleg stoppunkt halvvegs.
+- **Å gjere slår å sjå på.** Gi kvar person noko å halde, slå på, velje eller seie.
+- **Mange nivå, éin aktivitet.** Byggje inn både enklare og vanskelegare måtar å delta på.
+- **Ingen vinnarar, ingen poeng.** Konkurransepregede format gjer at nokre kjenner seg mislukka.
 
-## How big should the group be?
+## Kor stor bør gruppa vere?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Mindre er vanlegvis lettare. Alzheimer's Association seier at ein person som finn ein stor samling overveldande, kan samhandle betre i ei mindre gruppe. Det finst ikkje eitt rett tal. Det avheng av beboarane, rommet og kor mange tilsette og frivillige som finst.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Ein nyttig test: kan kvar person sjå leiarens ansikt, høyre tydeleg og bli nådd av ein hjelpar innan nokre få sekund? Om ikkje, del gruppa, legg til hjelparar, eller flytt til eit mindre rom.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Ved eit stort arrangement, til dømes ei høgtidskonsert, sett tilsette og frivillige blant beboarane, ikkje langs veggane.
 
-## How should I set up the room and seating?
+## Korleis set eg opp rommet og sitjeplassane?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Ring eller hestesko.** Practice-tilrådingane skildrar ein delingsring som best i eit rom stort nok til at alle kan sitje i ring, utan bakgrunnsstøy.
+- **Leiaren nær og i augehøgd.** Sit heller enn å stå når du kan.
+- **Høyrsel og syn først.** Sett folk med høyrselsvanskar nærast leiaren, på den betre sida. Sjå til at briller og høyrselsapparat er på. Alzheimer's Association nemner at syns- og høyrselsproblem kan gjere kommunikasjon vanskelegare.
+- **Lys bak beboarane, ikkje bak deg.** Unngå å setje nokon med ansiktet mot eit sterkt vindauge.
+- **Slå av TV og radio.** Alzheimer's Association rår til å fjerne konkurrerande støy under musikkaktivitetar.
+- **Éin samtale om gongen.** Samtale i munnen på kvarandre er vanskeleg for personar med demens og personar med høyrselstap, slik Alzheimer's Association peiker på i [høgtidsrettleiinga si](https://www.alz.org/help-support/caregiving/holidays).
+- **Tydelege utgangar og ein roleg krok.** Den som vil gå, skal kunne gjere det lett, med ein medarbeidar som kan gå saman med vedkomande.
 
-## Group activity ideas
+## Gruppeaktivitetsidear
 
-### Picture bingo
+### Biletbingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Biletbingo erstattar tal med tydelege bilete, til dømes ei tekanne, ein hund eller ei rose, slik at ingen må halde styr på eit langt tal eller lese liten skrift.
 
-**How to run it:**
+**Slik gjer du det:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Skriv ut eitt kort per person frå [Biletbingo](/games/picture-bingo/)-sida med Skriv ut-knappen. Tungt papir er lettare å handtere. Laminer for å bruke det fleire gonger.
+2. Del ut store, lette markørar, til dømes pokerbrikker, flaskekorkar eller utskorne kvadrat av kartong.
+3. Bruk den rop-funksjonen på skjermen på TV eller projektor, slik at alle ser biletet medan du seier namnet.
+4. Stogg etter kvart bilete, og inviter til ein kort kommentar: «Er det nokon som vil fortelje oss om ein hund dei kjende?» eller «Kva legg de merke til på denne?»
+5. Fortset å rope opp til alle kort er fulle. Alle blir ferdige.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Tilpassing:** Bruk færre ruter til personar som synest eit fullt kort er for travelt. Ein hjelpar kan peike på det tilsvarande biletet for nokon som treng det. Nokre føretrekkjer å halde biletkortet til leiaren og vise det til gruppa.
 
-### Sing-alongs
+### Songsamlingar
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Musikk er ein av dei mest likte gruppeaktivitetane. Alzheimer's Association seier at ein person, også i seint stadium, kan kunne [banke takt eller syngje ein song frå barndommen](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Slik gjer du det:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Vel songar beboarane vaks opp med, ikkje leiarens favorittar. Spør familiane kva kvar person elska.
+- Bruk musikk utan reklame, som Alzheimer's Association seier kan vere forvirrande.
+- Skriv ut songtekstar med stor skrift til dei som les, men krev det ikkje.
+- Tilby rytmeshakarar, handtrommer eller skjerf å vifte med.
+- Oppmuntre til klapping og bevegelse, og hald volumet behageleg.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Tilpassing:** Nokre syng kvart ord, nokre nynnar, nokre bankar med foten, og nokre lyttar berre. Alt dette tel. Sjå [musikkaktivitetsguiden vår](/activities/music/) for meir.
 
-### Reminiscence groups
+### Reminisensgrupper
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Ei reminisensgruppe samlar seg rundt eit tema, som skuledagar, første bilar, kjøkken eller sommar, med bruk av bilete, gjenstandar og musikk. Målet er ein hyggeleg samtale, ikkje nøyaktig hugsing.
 
-**How to run it:**
+**Slik gjer du det:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Vel eitt tema, og ta med nokre gjenstandar folk kan halde: ein handmikser, ein baseballhanske, ein hatt, ein frøkatalog.
+2. Send éin gjenstand om gongen rundt. Still opne spørsmål: «Fortel meg om denne», «Kva legg du merke til?», «Kven brukte noko liknande?»
+3. Ta imot alle svar med glede. Rett aldri ein dato eller eit faktum.
+4. Før samtalen mot varme minne. Practice-tilrådingane seier at omsorgsgivarar bør styre reminisens mot positive minne, ikkje minne som kan skape uro.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Samtalekort](/games/conversation-cards/) har utskrivbare biletkort med opne spørsmål etter tema, som fungerer godt som utgangspunkt for samtale. Fleire idear finst i [reminisensguiden vår](/activities/reminiscence/).
 
-### Finish the saying
+### Fullfør ordtaket
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Kjende ordtak («Ein spar, ein har...») inviterer alle til å rope ut slutten saman. Vis [Fullfør ordtaket](/games/finish-the-saying/) på ein stor skjerm, og la gruppa svare med éi stemme. Det er eit snakkeforslag etter kvart ordtak. Ingen svarer slutten, vis han og gå vidare. Det finst ikkje noko rett eller galt.
 
-### Large-print word search, together
+### Ordsøk med stor skrift, saman
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Vis eit [ordsøk med stor skrift](/games/word-search/) på ein skjerm og leit etter ord som gruppe, eller skriv ut kopiar til dei som likar å jobbe åleine ved bordet. Ord går berre vassrett og loddrett.
 
-### Gentle movement
+### Forsiktig bevegelse
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sitjande strekk, å sende ein myk ball eller ballong rundt, eller å dansa frå stolen til kjend musikk. Demonstrer kvar rørsle i staden for å skildre han.
 
-### Sorting and matching at the table
+### Sortering og matching ved bordet
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Små bord med tre til fire personar kan sortere bilete, stoffprøvar eller sølvtøy saman. På skjerm kan [Biletpar](/games/picture-pairs/) spelast med bileta synlege, der éin person trykkjer medan bordet snakkar om kvart bilete.
 
-## How do I use your games on a big screen?
+## Korleis bruker eg spela dine på stor skjerm?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Spela våre køyrer i ein nettlesar, så du kan bruke dei på TV eller projektor utan å installere noko.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Opne spelet på ein bærbar eller nettbrett kopla til skjermen med kabel eller casting.
+2. Gjer nettlesaren fullskjerm, og still lyden på eit behageleg nivå.
+3. La éin leiar gjere trykkinga, medan gruppa roper ut val. Eller send nettbrettet rundt til ein beboar som vil ha ei tur.
+4. Stogg når gruppa er klar. Spela har ingen tidsur, poeng eller tvungen slutt.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Biletbingo](/games/picture-bingo/), [Fullfør ordtaket](/games/finish-the-saying/), [Biletpar](/games/picture-pairs/) og [Samtalekort](/games/conversation-cards/) passar gjerne best for grupper. Sjå alle val på [spelsida vår](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Korleis tilpassar eg éin aktivitet for blanda evner?
 
-Plan at least three ways to join every activity.
+Planlegg minst tre måtar å vere med på kvar aktivitet.
 
-| Activity | More independent | Some support | Most support |
+| Aktivitet | Meir sjølvstendig | Noko støtte | Mest støtte |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Biletbingo | Finn og dekkjer eigne bilete | Hjelpar peikar; personen dekkjer | Held eit biletkort; lyttar og ser på |
+| Songsamling | Syng, vel neste song | Nynnar, klappar, bruker ein shaker | Lyttar, held eit skjerf, får ei hand klappa |
+| Reminisens | Fortel historier | Svarer ja-eller-nei eller peikar | Held og kjenner på gjenstanden |
+| Ordsøk | Jobbar med eige utskrive ark | Finn ord på stor skjerm med hjelp | Lyttar medan orda blir lesne opp |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+For beboarar i seinare stadium nemner NHS at aktivitetar som regel må vere enklare og fokusere meir på sansane, til dømes musikk, gjenstandar å kjenne på og handmassasje. Eit eitt-til-eitt-augeblikk under eller etter gruppa kan passe dei betre enn sjølve gruppa. Sjå [aktivitetar for seint stadium](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Korleis bør leiarar snakke i ei gruppe?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Presenter deg sjølv kvar gong, og bruk kvar person sitt føretrekte namn.
+- Snakk langsamt, gi eitt steg om gongen, og vis før du fortel.
+- Still opne invitasjonar («Fortel meg om ...») eller enkle val, aldri kvizspørsmål («Hugsar du ...?»).
+- Ikkje rett. Takk folk for kvart bidrag.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Meir om dette står i [kommunikasjonstipsa våre](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Avslutt godt, og la folk gå
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Å stogge er eit godt resultat. Sjå etter teikn på at nokon er trøytt, rastlaus eller opprørt, og la ein hjelpar tilby ein spasertur eller ein roleg stol andre stader. At nokon sovnar under ein songsamling, kan berre bety at vedkomande har det godt.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Avslutt alle grupper på same måte, med ein kjend song eller ein enkel takk, slik at slutten kjennest roleg og føreseieleg. Skriv etterpå ned kva som fungerte, og kven som likte kva. Notata gjer neste økt betre.

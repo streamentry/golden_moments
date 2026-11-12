@@ -1,31 +1,28 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "听力损失与失智症风险：研究显示了什么"
+seoTitle: "听力损失与失智症：研究显示了什么"
+description: "听力损失为何是重要的失智症风险因素，ACHIEVE 助听器试验的真正发现，以及如何检查听力，并更容易地交谈。"
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024 年柳叶刀委员会把听力损失列为失智症最大的可改变风险因素之一。在 ACHIEVE 试验中，助听器总体上并未减缓认知衰退，不过风险较高的一个亚组衰退较慢。无论如何，助听器都有助于交谈和日常生活。请检查听力，考虑处方或非处方助听器，并与医生交谈。
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "柳叶刀委员会估计，听力损失约占全球失智症病例的 7%，在 14 项风险因素中与最大比例并列。"
+  - "在 977 名老年人参加的 ACHIEVE 试验中，助听器总体上没有改变三年的认知衰退情况。"
+  - "在 ACHIEVE 中一个规模较小、风险较高的群组里，使用助听器后认知衰退慢了 48%，这一结果有待证实。"
+  - "自 2022 年起，美国有轻度至中度听力损失感知的成年人，可以在柜台购买经美国食品药品监督管理局（FDA）监管的助听器。"
+  - "未经治疗的视力损失在 2024 年被列为失智症风险因素，因此眼科检查也很重要。"
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "助听器能预防失智症吗？"
+    a: "这一点尚未得到证实。ACHIEVE 试验在三年中没有发现对认知衰退的总体影响，不过有一个风险较高的群组表现较好。助听器仍然值得考虑，因为它们让交谈、安全和日常生活更方便。"
+  - q: "谁可以购买非处方助听器？"
+    a: "FDA 允许 18 岁及以上、有轻度至中度听力损失感知的成年人，无需处方即可在商店或网上购买非处方助听器。它们并不适用于严重的听力损失。如果有耳痛、耳朵流液、头晕或突然的听力变化，应先看医生。"
+  - q: "听力损失会被误认为失智症吗？"
+    a: "有时会。美国国家老龄研究所指出，听力不好的老年人有时会被误以为意识混乱或不愿合作。当有人看起来不愿与人交流，或听不清别人说的话时，做一次听力检查是明智的第一步。"
+  - q: "老年人应该多久做一次眼科检查？"
+    a: "美国国家老龄研究所建议，60 岁以后每年或每两年做一次散瞳眼科检查，或按照眼科专业人员的建议进行。患有糖尿病或高血压的人通常至少每年需要检查一次。"
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +47,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+听力损失在晚年很常见，研究人员把它当作重要的失智症风险因素来对待。但这并不意味着助听器已被证实能预防失智症；迄今最好的试验结果也好坏参半。本页说明研究显示了什么、如何检查听力、美国的非处方助听器是什么，以及如何让交谈变得更容易。
 
-## Why does hearing matter for brain health?
+## 听力为什么与大脑健康有关？
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+听力损失与较高的失智症风险相关。[2024 年柳叶刀委员会](https://doi.org/10.1016/S0140-6736(24)01296-0)估计，听力损失约占全球失智症病例的 7%。根据[伦敦大学学院对该报告的摘要](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)，在委员会模型的 14 项可改变风险因素中，它与高 LDL 胆固醇并列占比最大。
 
-Key findings from the Commission:
+委员会的主要发现：
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **听力损失会带来更高的风险。** 在对六项高质量研究的汇总分析中，有听力损失的人患失智症的风险约比听力正常的人高 37%。
+- **损失越重，风险越高。** 考察严重程度的研究发现，听力越差，风险越高。
+- **可能的原因，但尚未证实。** 包括孤独和退缩、抑郁、大脑获得的刺激减少，以及听觉需要额外的脑力付出。
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+听力损失很常见。[美国国家老龄研究所（NIA）](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults)表示，约有三分之一的老年人有听力损失，并且随着年龄增长，患病的几率会上升。
 
-## What did the ACHIEVE hearing aid trial find?
+## ACHIEVE 助听器试验发现了什么？
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE 是第一项关于助听器与认知衰退的随机试验。它的结果常被误报，因此这里列出[已发表的试验报告](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/)中的细节。
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **参与者：** 977 名年龄在 70 至 84 岁之间、未经治疗的听力损失者，且没有明显的思维问题，来自美国四个社区站点。
+- **比较方式：** 一半的人获得了助听器，并接受听力师的咨询；另一半的人接受了关于健康衰老的健康教育项目。
+- **主要结果：** 三年之后，两组之间的认知衰退在总体上**没有差异**。
+- **亚组结果：** 试验的参与者来自两个来源。238 人来自一项长期进行的心脏健康研究（ARIC），这一群体整体上认知衰退的风险较高。在这一群体中，使用助听器后衰退**慢了 48%**。在 739 名健康的社区志愿者中，则没有明显效果。
 
-How to read this honestly:
+对这一结果的客观解读是：
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- 总体结论是没有效果。
+- 亚组发现是事先计划好的，但它来自一个较小群体的二次分析，需要在其他研究中加以证实。
+- 参与者知道自己属于哪个项目，这可能会影响结果。
+- 柳叶刀委员会认为，证据显示助听器对于同时存在其他失智症风险因素的听力损失者，似乎特别有帮助。
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+结论是：助听器并不是已被证实的预防失智症的方法。但它们确实能帮助人听清、参与交谈并保持联系，因此值得考虑。
 
-## How do I know if hearing should be checked?
+## 怎样判断是否需要检查听力？
 
-The NIA suggests seeing a doctor if you or someone you care for:
+美国国家老龄研究所建议，如果您或您关心的人有以下情况，应该去看医生：
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- 在电话里很难听懂别人说的话
+- 两个人或更多人同时说话时，很难跟上对话
+- 经常要求别人重复
+- 把电视音量调得很大，以至于其他人抱怨
+- 有背景噪音时很难听懂言语
+- 觉得别人说话含糊不清
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+可以先看初级保健医生，医生可能会转诊您去看听力师（听力专家），或耳鼻喉科医生。耳垢堆积是一种常见的听力损失原因，医生可以进行检查。**突发性听力损失属于医疗紧急情况**，美国国家老龄研究所建议立即看医生。
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+听力损失有时会被误认为意识混乱。NIA 指出，听力不好的老年人有时会被误以为意识混乱、反应迟钝或不愿合作。如果您所爱的人看起来退缩，或听不清别人说的话，做一次听力检查是很好的早期步骤。
 
-## What are over-the-counter hearing aids?
+## 什么是非处方助听器？
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+自二〇二二年十月十七日起，[美国食品药品监督管理局（FDA）](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know)允许一类非处方（OTC）助听器上市。以下是它们与处方助听器的比较：
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| 项目 | 非处方助听器 | 处方助听器 |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| 适用对象 | 18 岁及以上、有轻度至中度听力损失感知的成年人 | 任何程度的听力损失，任何年龄 |
+| 购买地点 | 商店或网上，无需检查或处方 | 通过持牌的听力专业人员 |
+| 调试 | 您自己调整设置，通常借助应用程序 | 由专业人员根据您的听力进行设定 |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA 表示，非处方助听器并不适用于严重或极重度的听力损失。如果您有以下任何情况，建议在购买前先看医生，最好是看耳鼻喉科专家：
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- 耳痛或耳部不适
+- 过去六个月耳朵流出液体、脓液或血液
+- 突然或时好时坏的听力变化
+- 一侧耳朵听力变差，或只有一侧耳朵耳鸣
+- 头晕或眩晕
+- 耳垢很多
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+适应助听器需要时间练习，因此正如 FDA 所建议的，购买前请先了解退货政策。NIA 建议询问保险是否能报销部分费用。对于与失智症共同生活的人，听力师可以帮助判断哪种助听器和调试方式日常使用起来最容易。
 
-## How can I talk more easily with someone who has hearing loss?
+## 怎样与听力受损的人更轻松地交谈？
 
-The NIA suggests:
+NIA 的建议是：
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **面向对方，保持眼神交流，** 并在光线良好的地方，让对方能看清您的嘴唇和表情。
+2. **找一个安静的地方。** 关掉电视，或走远一些以远离噪音。
+3. **说话稍微大声一点，但不要喊。** 自然地说话，语速适中。
+4. **保持嘴巴清晰。** 说话时不要吃东西、嚼口香糖，或用手遮住嘴。
+5. **换个说法，而不是重复。** 当对方没听清时，换一种方式表达。
+6. **一次只让一个人说话。** 在小组中，要特意把对方带进话题。
+7. **保持耐心，并询问如何帮忙。**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+这些技巧与我们的[失智症沟通建议](/caregiving/communication-tips/)配合使用效果很好。以图片为基础的活动也能减轻听觉上的压力。[图片配对](/games/picture-pairs/)和[对话卡片](/games/conversation-cards/)依靠的是看到的内容，而[补全俗语](/games/finish-the-saying/)让您可以展示结尾，而不必说出来。关于通话，请参阅我们的[电话和视频通话](/activities/phone-and-video-calls/)指南。
 
-## Vision matters too
+## 视力同样重要
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024 年，柳叶刀委员会把未经治疗的视力损失列为新的风险因素。UCL 的摘要估计，它约占失智症病例的 2%，委员会建议让所有人都能获得视力问题的筛查和治疗。[NIA 建议](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes)，60 岁以后每年或每两年做一次散瞳眼科检查，也要检查眼镜的处方。即使是视力的细微变化，也可能增加跌倒的风险。
 
-## Talk with a doctor
+## 咨询医生
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+如果您注意到上述任何迹象，请咨询医生，检查听力和视力。如果出现突发性听力损失、耳痛或耳朵流液，请立即就医。如果您正在照顾与失智症共同生活的人，请告诉对方的医生听力或视力方面的变化，因为这些变化可能影响情绪、安全，以及对方参与活动的程度。
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+本页为一般性信息，并非医疗建议。请参阅我们的[医疗免责声明](/medical-disclaimer/)。想了解更多，请阅读[社交联系与大脑健康](/brain-health/social-connection/)。

@@ -1,33 +1,33 @@
 ---
-title: "Do Brain Games Prevent Dementia? What the Evidence Shows"
-seoTitle: "Do Brain Games Prevent Dementia? The Evidence"
-description: "What research says about brain games and dementia: cognitive stimulation, computer brain training, the ACTIVE trial and the FTC Lumosity case, explained plainly."
+title: "Hindrar hjernespel demens? Kva forskinga viser"
+seoTitle: "Hindrar hjernespel demens? Forskinga"
+description: "Kva forskinga seier om hjernespel og demens: kognitiv stimulering, dataspel for hjernetrening, ACTIVE-studien og FTC-saka mot Lumosity, forklart enkelt."
 section: brain-health
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No brain game has been shown to prevent dementia. Computer brain training
-  mostly improves the tasks people practice. One study from the ACTIVE trial
-  linked a specific speed training plus booster sessions with fewer dementia
-  diagnoses over 20 years, a narrow finding. For people already living with
-  dementia, group cognitive stimulation shows small, short-term benefits.
-  Games are best enjoyed for fun and company.
+  Ingen hjernespel har vist seg å hindre demens. Dataspel for hjernetrening
+  forbetrar mest dei oppgåvene folk øver på. Éin studie frå ACTIVE-studien
+  kopla ein bestemt fartstrening pluss oppfriskingsøkter til færre demensdiagnosar
+  over 20 år, eit smalt funn. For personar som allereie lever med demens, viser
+  gruppebasert kognitiv stimulering små, kortsiktige fordelar. Spel er best å
+  nyte for det morosame og for selskapet.
 keyPoints:
-  - "Brain-training studies show people get better at the tasks they practice, with much less evidence that this carries over to everyday life."
-  - "In the ACTIVE trial, only people who did a specific speed training plus booster sessions had fewer dementia diagnoses over 20 years. Speed training without boosters, memory and reasoning training did not show this."
-  - "In 2016, Lumosity's maker paid $2 million to settle FTC charges that it lacked the science for claims about delaying dementia."
-  - "For people with mild to moderate dementia, cognitive stimulation groups show small, short-term benefits for thinking and clearer gains in communication and social interaction."
-  - "Golden Moments games are for enjoyment and shared time. They are not a treatment and do not prevent or slow dementia."
+  - "Studiar på hjernetrening viser at folk blir betre på oppgåvene dei øver på, med mykje mindre bevis for at dette òg gjeld i kvardagen."
+  - "I ACTIVE-studien hadde berre dei som gjorde ein bestemt fartstrening pluss oppfriskingsøkter, færre demensdiagnosar over 20 år. Fartstrening utan oppfriskingsøkter, og minne- og resonnementstrening, viste ikkje dette."
+  - "I 2016 betalte eigaren av Lumosity 2 millionar dollar for å løyse FTC-saka om at selskapet mangla vitskapleg grunnlag for påstandar om å utsetje demens."
+  - "For personar med lett til moderat demens viser grupper med kognitiv stimulering små, kortsiktige fordelar for tenking, og tydelegare framgang i kommunikasjon og sosialt samvær."
+  - "Golden Moments-spela er for glede og felles tid. Dei er ikkje behandling og hindrar eller bremsar ikkje demens."
 faq:
-  - q: "Do brain games prevent Alzheimer's?"
-    a: "No brain game has been proven to prevent Alzheimer's or other dementia. The National Institute on Aging says there is not enough evidence that commercial brain-training apps have the effects seen in research trials. Games can still be a pleasant way to spend time."
-  - q: "What did the ACTIVE trial find about speed training and dementia?"
-    a: "A 2026 analysis linked ACTIVE participants to Medicare records over 20 years. People who did speed-of-processing training and at least one booster session had a lower rate of diagnosed dementia than the no-training group. Speed training without boosters, and memory or reasoning training, did not show a significant effect."
-  - q: "Are puzzles and games good for someone who already has dementia?"
-    a: "They can be, if the person enjoys them. Group cognitive stimulation, which includes word games, puzzles, music and conversation, shows small short-term benefits for thinking and clearer benefits for communication and social interaction. Enjoyment, not a test result, is the right goal."
-  - q: "Why was Lumosity fined by the FTC?"
-    a: "In 2016 the Federal Trade Commission charged that Lumos Labs made claims about its games, including delaying age-related decline and dementia, without the science to back them up. The company agreed to pay $2 million and to have reliable scientific evidence before making such claims in the future."
+  - q: "Hindrar hjernespel Alzheimer?"
+    a: "Nei, ingen hjernespel er vist å hindre Alzheimer eller anna demens. National Institute on Aging seier at det ikkje finst nok bevis for at kommersielle appar for hjernetrening har same effekt som i forskingsstudiane. Spel kan likevel vere ein hyggeleg måte å bruke tida på."
+  - q: "Kva fann ACTIVE-studien om fartstrening og demens?"
+    a: "Ein analyse frå 2026 kopla deltakarar i ACTIVE-studien til Medicare-journalar over 20 år. Dei som gjorde fartstrening for informasjonsbehandling og minst éin oppfriskingsøkt, hadde lågare rate av diagnostisert demens enn gruppa utan trening. Fartstrening utan oppfriskingsøkter, og minne- eller resonnementstrening, viste ingen tydeleg effekt."
+  - q: "Er puslespel og spel gode for nokon som allereie har demens?"
+    a: "Det kan dei vere, dersom personen likar dei. Gruppebasert kognitiv stimulering, som inkluderer ordspel, puslespel, musikk og samtale, viser små kortsiktige fordelar for tenking og tydelegare fordelar for kommunikasjon og sosialt samvær. Glede, ikkje eit testresultat, er det rette målet."
+  - q: "Kvifor fekk Lumosity bot av FTC?"
+    a: "I 2016 hevda Federal Trade Commission at Lumos Labs kom med påstandar om spela sine, mellom anna at dei kunne utsetje aldersrelatert nedgang og demens, utan vitskapleg grunnlag. Selskapet gjekk med på å betale 2 millionar dollar og å ha pålitelege vitskaplege bevis før slike påstandar i framtida."
 sources:
   - title: "Impact of cognitive training on claims-based diagnosed dementia over 20 years: evidence from the ACTIVE study"
     publisher: "Alzheimer's & Dementia: Translational Research & Clinical Interventions (via PMC)"
@@ -58,166 +58,163 @@ related: [brain-health/can-dementia-be-prevented, caregiving/choosing-apps-and-g
 health: true
 ---
 
-Brain games are everywhere, and many promise to keep your mind young. If you
-care for someone with dementia, or worry about your own memory, it is natural to
-wonder whether playing them could help. Here is what the research actually
-shows, including the parts that are encouraging and the parts that are not.
+Hjernespel finst overalt, og mange lovar å halde sinnet ungt. Om du har omsorg for nokon med demens, eller er uroa for ditt eige minne, er det naturleg å lure på om det å spele dei kan hjelpe. Her er det forskinga faktisk viser, både dei delane som er oppmuntrande og dei som ikkje er det.
 
-This is general information, not medical advice. See our
-[medical disclaimer](/medical-disclaimer/).
+Dette er generell informasjon, ikkje medisinsk råd. Sjå vår
+[medisinske ansvarsfråskriving](/medical-disclaimer/).
 
-## Do brain games prevent dementia?
+## Hindrar hjernespel demens?
 
-No brain game has been proven to prevent dementia. The National Institute on
-Aging (NIA) advises people to be wary of claims that computer and online games
-can improve memory, and says there is not enough evidence that any commercial
-brain-training app has the same effect as the training tested in clinical
-trials ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+Ingen hjernespel er vist å hindre demens. National Institute on Aging (NIA)
+rår folk til å vere skeptiske til påstandar om at data- og nettspel kan betre
+minnet, og seier at det ikkje finst nok bevis for at ein kommersiell
+hjernetrenings-app har same effekt som treninga som er testa i kliniske studiar
+([NIA om å førebyggje Alzheimer](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-That does not make games useless. It means their value is in enjoyment,
-company and routine, not in protecting anyone from dementia.
+Det gjer ikkje spela verdilause. Verdien deira ligg i glede, selskap og rutine,
+ikkje i å verne nokon mot demens.
 
-## What is "near transfer", and why does it matter?
+## Kva er «nær overføring», og kvifor betyr det noko?
 
-When you practice a task, you usually get better at that task. Researchers call
-this a training effect. The harder question is whether the improvement
-**transfers** to other things: to similar tasks (near transfer) or to everyday
-life, like remembering appointments or managing money (far transfer).
+Når du øver på ei oppgåve, blir du vanlegvis betre på den oppgåva. Forskarar
+kallar dette ein treningseffekt. Det vanskelegare spørsmålet er om forbetringa
+**overfører seg** til andre ting: til liknande oppgåver (nær overføring) eller
+til kvardagen, som å hugse avtalar eller handtere pengar (fjern overføring).
 
-A major 2016 review examined the studies that brain-training companies cited
-as their best evidence. It found extensive evidence that people improve on the
-trained tasks, less evidence that they improve on closely related tasks, and
-little evidence that training improves everyday thinking. Many of the studies
-also had design problems that made firm conclusions impossible
-([Simons and colleagues, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
+Ein stor gjennomgang frå 2016 såg på dei studiane som hjernetreningsselskap
+viste til som sine beste bevis. Han fann mykje bevis for at folk blir betre på
+oppgåvene dei trena på, mindre bevis for at dei blir betre på nært beslektede
+oppgåver, og lite bevis for at trening betrar tenkinga i kvardagen. Mange av
+studiane hadde òg designproblem som gjorde faste konklusjonar umogleg
+([Simons og kollegaer, Psychological Science in the Public Interest](https://journals.sagepub.com/doi/10.1177/1529100616661983)).
 
-## What do reviews say about computer brain training?
+## Kva seier gjennomgangar om dataspel for hjernetrening?
 
-Cochrane reviews, which pool the best available trials, have looked at
-computerized training lasting at least 12 weeks:
+Cochrane-gjennomgangar, som samlar dei beste tilgjengelege studiane, har sett
+på datatrening som varer i minst 12 veker:
 
-- **Healthy adults 65 and older:** eight trials with 1,183 people. The evidence
-  was low or very low quality. There may be a slight benefit right after
-  training, with no clear evidence that it lasts
-  ([Cochrane review, healthy older adults](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
-- **People with mild cognitive impairment:** eight trials with 660 people. No
-  trial reported whether people went on to develop dementia, and the evidence
-  was too weak to draw conclusions
-  ([Cochrane review, mild cognitive impairment](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
+- **Friske vaksne på 65 år og eldre:** åtte studiar med 1 183 personar. Bevisa
+  var av låg eller svært låg kvalitet. Det kan vere ein liten fordel rett etter
+  treninga, utan tydeleg bevis for at han varer
+  ([Cochrane-gjennomgang, friske eldre vaksne](https://pubmed.ncbi.nlm.nih.gov/32104914/)).
+- **Personar med lett kognitiv svikt:** åtte studiar med 660 personar. Ingen
+  studie rapporterte om personane seinare utvikla demens, og bevisa var for
+  svake til å trekkje konklusjonar
+  ([Cochrane-gjennomgang, lett kognitiv svikt](https://pubmed.ncbi.nlm.nih.gov/30864747/)).
 
-## What did the ACTIVE trial find?
+## Kva fann ACTIVE-studien?
 
-ACTIVE is a large US trial that began in 1998 with 2,802 adults aged 65 and
-older who lived independently and did not have significant memory or thinking
-problems. People were randomly assigned to one of three
-types of small-group training (speed of processing, memory, or reasoning) or to
-a no-contact group. Training was up to ten sessions over five to six weeks. Some
-people who finished most sessions were also randomly offered **booster
-sessions** about one and three years later.
+ACTIVE er ein stor amerikansk studie som starta i 1998 med 2 802 vaksne på 65
+år og eldre som budde sjølvstendig og ikkje hadde monaleg minne- eller
+tenkeproblem. Deltakarane blei tilfeldig plasserte i ei av tre typar
+smågruppetrening (fart i informasjonsbehandling, minne eller resonnement), eller
+i ei kontrollgruppe utan kontakt. Treninga var opptil ti økter over fem til seks
+veker. Nokre av dei som fullførte dei fleste øktene, blei òg tilfeldig tilbydd
+**oppfriskingsøkter** om lag eitt og tre år seinare.
 
-The speed training involved spotting and processing visual information in
-shorter and shorter glimpses, at a level that adjusted as people improved.
+Fartstreninga gjekk ut på å oppdage og behandle visuell informasjon i stadig
+kortare glimt, på eit nivå som blei justert etter kvart som folk blei betre.
 
-In 2026, researchers linked 2,021 participants to their Medicare records for 20
-years ([ACTIVE 20-year analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
-Here is exactly what they found:
+I 2026 kopla forskarar 2 021 deltakarar til Medicare-journalane deira over 20
+år ([ACTIVE-analysen over 20 år](https://pmc.ncbi.nlm.nih.gov/articles/PMC12884427/)).
+Dette er nøyaktig kva dei fann:
 
-- **Speed training plus at least one booster session:** a lower rate of
-  diagnosed dementia than the no-contact group (a hazard ratio of 0.75, which
-  roughly means a 25% lower rate).
-- **Speed training without boosters:** no lower rate.
-- **Memory or reasoning training:** no significant effect on dementia
-  diagnoses.
-- **Each training group as a whole compared with the no-contact group:** a
-  tendency toward lower rates, but not statistically significant.
+- **Fartstrening pluss minst éin oppfriskingsøkt:** lågare rate av diagnostisert
+  demens enn kontrollgruppa utan kontakt (ein hasardratio på 0,75, som grovt
+  sett tyder ein 25 % lågare rate).
+- **Fartstrening utan oppfriskingsøkter:** ingen lågare rate.
+- **Minne- eller resonnementstrening:** ingen monaleg effekt på demensdiagnosar.
+- **Kvar treningsgruppe samla sett samanlikna med kontrollgruppa:** ein tendens
+  til lågare rate, men ikkje statistisk signifikant.
 
-### The limits of this finding
+### Grensene for dette funnet
 
-- It applies to **one specific kind of supervised speed training with booster
-  sessions**, not to brain games in general.
-- The significant result came from a **subgroup** (people who finished most of
-  the first sessions and were offered boosters), not from the whole speed group.
-- Dementia was measured using **diagnosis codes in Medicare claims**, not by
-  examining each person. About a quarter of the original participants were
-  left out because they were enrolled in Medicare Advantage, which lacks full
-  claims records.
-- Participants had no significant thinking problems when they started. The
-  results say nothing about games for people **already living with dementia**.
+- Det gjeld **éin bestemt type rettleidd fartstrening med oppfriskingsøkter**,
+  ikkje hjernespel generelt.
+- Det signifikante resultatet kom frå ei **undergruppe** (folk som fullførte
+  mesteparten av dei første øktene og blei tilbydd oppfriskingsøkter), ikkje frå
+  heile fartsgruppa.
+- Demens blei målt ved hjelp av **diagnosekodar i Medicare-krav**, ikkje ved at
+  kvar person blei undersøkt. Omtrent ein fjerdedel av dei opphavlege
+  deltakarane blei utelatne fordi dei var med i Medicare Advantage, som ikkje
+  har fullstendige krav-journalar.
+- Deltakarane hadde ingen monaleg tenkeproblem då dei starta. Resultata seier
+  ingenting om spel for personar som **allereie lever med demens**.
 
-It is an interesting result that deserves more research. It is not evidence
-that any app prevents dementia.
+Det er eit interessant resultat som fortener meir forsking. Det er ikkje bevis
+for at nokon app hindrar demens.
 
-## What did the FTC say about Lumosity?
+## Kva sa FTC om Lumosity?
 
-In January 2016, Lumos Labs, the maker of Lumosity, agreed to pay $2 million to
-settle Federal Trade Commission charges of deceptive advertising. The FTC said
-the company claimed, without adequate science, that its games could improve
-performance at work and school and could delay age-related decline, mild
-cognitive impairment, dementia and Alzheimer's. The order requires the company
-to have competent and reliable scientific evidence before making such claims in
-the future ([FTC press release](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
+I januar 2016 gjekk Lumos Labs, produsenten av Lumosity, med på å betale 2
+millionar dollar for å løyse saka til Federal Trade Commission om villeiande
+marknadsføring. FTC sa at selskapet hevda, utan tilstrekkeleg vitskap, at spela
+kunne betre prestasjonen på jobb og på skule, og at dei kunne utsetje
+aldersrelatert nedgang, lett kognitiv svikt, demens og Alzheimer. Vedtaket
+krev at selskapet skal ha kompetente og pålitelege vitskaplege bevis før det
+kjem med slike påstandar i framtida
+([FTC-pressemelding](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)).
 
-The lesson for families: be skeptical of any game, app or program that promises
-to protect memory or prevent dementia.
+Lærdomen for familiar: vere skeptisk til alle spel, appar eller program som lovar
+å verne minnet eller førebyggje demens.
 
-## Can games help someone who already has dementia?
+## Kan spel hjelpe nokon som allereie har demens?
 
-They can add to a good day, which matters a great deal. The best-studied
-approach is **cognitive stimulation**: enjoyable group activities such as
-discussion, reminiscence, word games, puzzles and music, usually in a small
-group led by a facilitator.
+Dei kan gjere ein god dag betre, og det tel mykje. Den best studerte
+tilnærminga er **kognitiv stimulering**: hyggelege gruppeaktivitetar som
+samtale, minneprat, ordspel, puslespel og musikk, vanlegvis i ei liten gruppe
+leia av ein fasilitator.
 
-A 2023 Cochrane review of 37 trials with 2,766 people with mild to moderate
-dementia found
-([Cochrane review of cognitive stimulation](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
+Ein Cochrane-gjennomgang frå 2023 av 37 studiar med 2 766 personar med lett til
+moderat demens fann
+([Cochrane-gjennomgang av kognitiv stimulering](https://pubmed.ncbi.nlm.nih.gov/39804128/)):
 
-- a **small, short-term benefit** on thinking tests (moderate-quality evidence);
-- **clinically relevant improvements in communication and social interaction**
-  (high-quality evidence, from a smaller number of studies);
-- **slight benefits** for quality of life, mood and behavior.
+- ein **liten, kortsiktig fordel** på tenkingstestar (bevis av moderat kvalitet);
+- **klinisk relevante forbetringar i kommunikasjon og sosialt samvær** (bevis av
+  høg kvalitet, frå eit mindre tal studiar);
+- **små fordelar** for livskvalitet, humør og åtferd.
 
-Benefits were measured mostly right after programs of about ten weeks, and few
-studies checked whether they lasted. Cognitive stimulation is a structured
-group program, so these results do not automatically apply to a person playing
-a game alone on a tablet.
+Fordelane blei målte for det meste rett etter program på om lag ti veker, og få
+studiar sjekka om dei varte. Kognitiv stimulering er eit strukturert gruppe-
+program, så desse resultata gjeld ikkje automatisk for ein person som spelar
+eit spel åleine på eit nettbrett.
 
-The 2024 Lancet Commission also says activity programs are important for people
-living with dementia, to maintain enjoyment and purpose
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet-kommisjonen frå 2024 seier òg at aktivitetsprogram er viktige for
+personar som lever med demens, for å halde oppe glede og meining
+([Lancet-kommisjonen](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-## What are games actually good for?
+## Kva er spel eigentleg gode for?
 
-When chosen well, games can offer:
+Når dei er godt valde, kan spel gi:
 
-- **Enjoyment.** A pleasant half hour is worth having for its own sake.
-- **Connection.** Playing side by side gives you something easy to share when
-  conversation is hard. See [how to play together](/caregiving/how-to-play-together/).
-- **Routine.** A familiar activity at the same time each day can bring comfort.
-- **Confidence.** Activities matched to what a person can still do well let
-  them feel capable, not tested.
-- **Conversation.** A picture or a familiar saying can open a story. Try
-  [conversation cards](/games/conversation-cards/) or
-  [finish the saying](/games/finish-the-saying/).
+- **Glede.** Ein hyggeleg halvtime er verdt å ha for si eiga skuld.
+- **Kontakt.** Å spele side om side gir noko enkelt å dele når samtalen er
+  vanskeleg. Sjå [korleis du kan spele saman](/caregiving/how-to-play-together/).
+- **Rutine.** Ein kjend aktivitet same tid kvar dag kan gi trøyst.
+- **Tryggleik.** Aktivitetar tilpassa det personen framleis meistrar godt, lar
+  dei kjenne seg dyktige, ikkje testa.
+- **Samtale.** Eit bilete eller eit kjent ordtak kan opne ei historie. Prøv
+  [samtalekort](/games/conversation-cards/) eller
+  [fullfør ordtaket](/games/finish-the-saying/).
 
-What to avoid: timers, scores, streaks and anything that feels like a memory
-test. If the person gets frustrated, stop. Ending early, or simply sitting
-together, is a good outcome. Our guide to
-[choosing apps and games](/caregiving/choosing-apps-and-games/) has a checklist.
+Det ein bør unngå: tidtakarar, poeng, rekkjer og alt som kjennest som ein
+hukommelsestest. Om personen blir frustrert, stopp. Å avslutte tidleg, eller
+berre sitje saman, er eit godt resultat. Guiden vår om
+[å velje appar og spel](/caregiving/choosing-apps-and-games/) har ei sjekkliste.
 
-## Where Golden Moments fits
+## Kvar Golden Moments passar inn
 
-Golden Moments games, such as [picture pairs](/games/picture-pairs/),
-[picture puzzle](/games/picture-puzzle/) and
-[large-print word search](/games/word-search/), are made for enjoyment and
-shared time. They have no clock and no score. They are **not** a treatment, and
-they do **not** prevent or slow dementia. We would rather
-tell you that plainly than promise something no game can deliver.
+Golden Moments-spel, som [bildepar](/games/picture-pairs/),
+[bildepuslespel](/games/picture-puzzle/) og
+[ordsøk med stor skrift](/games/word-search/), er laga for glede og felles tid.
+Dei har ingen klokke og ingen poeng. Dei er **ikkje** ei behandling, og dei
+hindrar **ikkje** eller bremsar ikkje demens. Vi vil heller seie dette
+tydeleg enn love noko ingen spel kan levere.
 
-## Talk with a doctor
+## Snakk med lege
 
-If you are worried about memory changes in yourself or someone you care for,
-see a doctor rather than relying on an app. A doctor can look for treatable
-causes and talk through the steps with the best evidence, such as managing blood
-pressure and checking hearing. See
-[Can dementia be prevented?](/brain-health/can-dementia-be-prevented/) for more.
-For sudden confusion or other sudden changes, get urgent medical help.
+Om du er uroa for minneendringar hos deg sjølv eller nokon du har omsorg for,
+bør du oppsøkje lege i staden for å stole på ein app. Ein lege kan leite etter
+behandlingsbare årsaker og gå gjennom stega med best bevis, til dømes å behandle
+blodtrykk og sjekke hørsel. Sjå [Kan demens førebyggjast?](/brain-health/can-dementia-be-prevented/)
+for meir. Ved brå forvirring eller andre plutselege endringar, søk legehjelp.

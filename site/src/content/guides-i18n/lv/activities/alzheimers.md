@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktivitātes un spēles cilvēkiem ar Alcheimera slimību"
+seoTitle: "Alcheimera aktivitātes un spēles: idejas pa stadijām"
+description: "Aktivitātes un spēles cilvēkiem ar Alcheimera slimību katrā stadijā, balstītas uz ilgi saglabājušām prasmēm un atmiņām, ar bezmaksas spēlēm kopā."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Labas aktivitātes cilvēkam ar Alcheimera slimību balstās uz to, kas saglabājas
+  visilgāk: ilgi praktizētas prasmes, vecas dziesmas, pazīstami darbi un maņas.
+  Agrīnā stadijā bieži joprojām labi noiet kārtis, galda spēles, kopīga
+  gatavošana un izbraukumi. Vidējā stadijā var mēģināt salocīt, sašķirot, dziedāt,
+  skatīt fotoalbumus un vienkāršas attēlu spēles. Vēlīnā stadijā vissvarīgākā ir
+  mūzika, pieskāriens un tuvums. Virzieties pēc tā, kāds cilvēks ir šodien.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alcheimera slimība ir visbiežākais demences cēlonis, tāpēc demences aktivitāšu idejas attiecas arī uz to."
+  - "Jauna informācija parasti vispirms ir visgrūtākā, bet prasmes un dziesmas, kas apgūtas sen, bieži saglabājas ilgāk. Balstieties uz tām."
+  - "Stadijas pārklājas, un labas un grūtas dienas ir normālas. Izvēlieties pēc tā, ko cilvēks spēj un vēlas šodien."
+  - "Izvēlieties spēles bez taimera, punktiem un jautājumiem, un ļaujiet attēliem palikt redzamiem."
+  - "Skatīšanās, kaut kā turēšana vai vienkārši kopā sēdēšana arī ir līdzdalība."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Kādas aktivitātes ir labas cilvēkam ar Alcheimera slimību?"
+    a: "Pazīstamas aktivitātes, nedaudz vienkāršotas: veļas salocīšana, galda klāšana, kopīga gatavošana, mūzika un dziedāšana, fotogrāfiju skatīšana, pastaigas, dārzkopība un laiks kopā ar mājdzīvnieku. Vienkāršas attēlu spēles, vieglas puzles un sarunu kartītes arī der daudziem cilvēkiem. Izvēlieties to, ko cilvēks vienmēr ir mīlējis, un darbojieties kopā ar viņu."
+  - q: "Vai spēles ir labas cilvēkiem ar Alcheimera slimību?"
+    a: "Spēles var būt patīkams veids, kā pavadīt laiku kopā, ja cilvēkam tās patīk. Nav pierādīts, ka neviena spēle ārstē, palēnina vai aptur Alcheimera slimību, tāpēc izvēlieties spēles baudai: lielus attēlus, nedaudz izvēļu un bez taimera, punktiem vai skaņām par nepareizu atbildi."
+  - q: "Vai ir atšķirība starp demences un Alcheimera aktivitātēm?"
+    a: "Parasti nav. Alcheimera slimība ir visbiežākais demences cēlonis, un tās pašas aktivitāšu idejas attiecas uz abām. Palīdz zināt, ka jaunākās atmiņas parasti izzūd pirmās, tāpēc aktivitātes, kas balstās uz vecākām prasmēm, dziesmām un rutīnu, bieži noris vieglāk."
+  - q: "Kas vēlīnā Alcheimera stadijā cilvēkam joprojām var patikt?"
+    a: "Mīļākā mūzika, maiga roku masāža, mīksti priekšmeti, ko turēt, lasīšana skaļi, sēdēšana ārā un uzticama cilvēka tuvums. Turiet to īsu un mierīgu, un vērojiet sejas izteiksmi un ķermeņa valodu, lai saprastu, kas patīk."
+  - q: "Kā ieinteresēt cilvēku ar Alcheimera slimību aktivitātē?"
+    a: "Lūdziet palīdzību, nevis paziņojiet par aktivitāti, sagatavojiet visu iepriekš un sāciet pats, lai viņš varētu pievienoties. Laiks, kad cilvēks jūtas vislabāk, liela nozīme. Ja viņš saka nē, mēģiniet vēlāk vai piedāvājiet mazāku variantu."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Ja kāds, kuru mīlat, slimo ar Alcheimera slimību, jūs jau, iespējams, esat pamanījis, ka dažas lietas pazūd ātri, bet citas saglabājas. Cilvēks var aizmirst šā rīta telefona sarunu, bet joprojām dziedāt katru himnas vārdu, salocīt dvieli kā vienmēr vai izdalīt kāršu spēles karti bez domāšanas. Labas aktivitātes balstās uz šīm saglabājušām prasmēm. Šajā lapā paskaidrots, kāpēc, un sniegtas idejas katrai stadijai, kā arī bezmaksas spēles šajā vietnē, kas tām piemērotas.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Vai Alcheimera slimība aktivitāšu ziņā atšķiras no demences?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ne īpaši. Demence ir kopējs termins, un Alcheimera slimība ir tās visbiežākais cēlonis: [Alcheimera asociācija](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) norāda, ka tā veido 60 līdz 80 procentus demences gadījumu. Gandrīz viss, kas rakstīts par aktivitātēm demences gadījumā, attiecas arī uz Alcheimera slimību, tostarp mūsu [101 aktivitātes ideja](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Noderīgi zināt parasto izmaiņu secību. [Nacionālais novecošanas institūts](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) skaidro, ka Alcheimera slimība sākumā skar smadzeņu daļas, kas saistītas ar atmiņu, un vēlāk ietekmē valodu, spriešanu un sociālo uzvedību. Alcheimera asociācija norāda, ka visbiežākais agrīnais simptoms ir grūtības atcerēties jaunapgūtu informāciju. Katrs cilvēks ir atšķirīgs, un daudziem ir jaukti cēloņi, bet šis modelis ietekmē to, kas parasti der.
 
-## What kinds of activities suit Alzheimer's best?
+## Kāda veida aktivitātes vislabāk piemērotas Alcheimera slimībai?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktivitātes, kas balstās uz sen apgūtām un labi praktizētām zināšanām, parasti noiet vieglāk nekā tās, kurās jāiemācās kaut kas jauns un jāatceras daudz.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Ilgi praktizētas prasmes.** Alcheimera asociācija norāda, ka cilvēks joprojām var nospēlēt vienkāršas dziesmas, ko pirms gadiem iemācījies spēlēt klavieres. Līdzīgas ir adīšana, koka slīpēšana, kāršu sajaukšana, mīklas mīcīšana un veļas salocīšana.
+- **Vecas dziesmas un pazīstama mūzika.** Daudzi cilvēki joprojām zina katru vārdu dziesmām no jaunības, lūgšanu dziesmām un dziesmām no savām kāzām. Skatiet [mūzikas aktivitātes](/activities/music/).
+- **Ikdienas darbi ar jēgu.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) min tādas aktivitātes kā trauku mazgāšana, galda klāšana, zeķu šķirošana un veļas salocīšana, kas var patikt cilvēkiem. Justies noderīgam ir svarīgi.
+- **Atpazīt, nevis atcerēties.** Norādīt uz atbilstošo attēlu ir vieglāk nekā nosaukt to no atmiņas. Tāpēc attēlu spēles, kurās viss ir redzams, darbojas labāk nekā jautājumi.
+- **Maņas.** Tekstūra, smarža, siltums, garša un skaņa saglabā nozīmi ilgi pēc tam, kad vārdi kļūst grūti. Skatiet [sensorās aktivitātes](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Mazāk labi noiet aktivitātes ar pulksteni, jaunus noteikumus, daudzus soļus, ko atcerēties, vai jautājumus, kas pārbauda atmiņu, piemēram, „Vai tu atceries, kas šis ir?“ Tādas aktivitātes izceļ visgrūtāko Alcheimera slimības daļu.
 
-## Activities for early-stage Alzheimer's
+## Aktivitātes agrīnas Alcheimera slimības stadijā
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Agrīnā stadijā [Alcheimera asociācija](https://www.alz.org/alzheimers-dementia/stages) norāda, ka cilvēks joprojām var vadīt auto, strādāt un piedalīties sociālās aktivitātēs, bet var pamanīt atmiņas lapsas, piemēram, aizmirstus vārdus vai to, kur kas atrodas. Labākā pieeja ir partnerība: pajautājiet, ko cilvēks vēlas turpināt darīt un kādu palīdzību vēlas.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Turpiniet esošos vaļaspriekus.** Golfs, bridžs, kvilts, koris un baznīcas grupas ar nelieliem pielāgojumiem, piemēram, mazākām grupām un klusākiem laikiem.
+2. **Spēlējiet pazīstamas kāršu un galda spēles.** [Alcheimera slimības fonds Amerikā](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) agrīnajai stadijai min viktorīnas, vārdu meklēšanu, kāršu un galda spēles. Spēlējiet komandā, ja punktu skaitīšana sāk traucēt, vai atsakieties no punktiem pavisam.
+3. **Gatavojiet kopā.** Ļaujiet viņam vadīt receptes, ko zina no galvas, kamēr jūs lasāt soļus.
+4. **Sāciet dzīves stāsta projektu.** Fotogrāfijas, receptes un stāsti albumā, ko viņš pats vada. Skatiet [atmiņu aktivitātes](/activities/reminiscence/).
+5. **Dodieties izbraukumos.** Iecienīts restorāns klusākā laikā, īss apmeklējums muzejā, pastaiga parkā.
+6. **Izvēlieties puzles, ko cilvēks pats izvēlas.** Lielā drukā krustvārdu mīklas, vārdu meklēšana un puzles. Skatiet [puzles demences gadījumā](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Vairāk ideju: [aktivitātes agrīnā stadijā](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktivitātes vidējā Alcheimera slimības stadijā
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alcheimera asociācija raksturo vidējo stadiju kā parasti garāko, kas var ilgt daudzus gadus. Vārdi sajaucas, frustrācija rodas vieglāk, un cilvēkam nepieciešams vairāk aprūpes. Alcheimera slimības fonds Amerikā piebilst, ka daudziem cilvēkiem nepieciešama palīdzība, lai sāktu vai turpinātu aktivitātes. Jūsu loma mainās: jāsagatavo viss, jāparāda, nevis jāskaidro, un jāuzņemas grūtākās daļas.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Salociet, sašķiriet un saskaņojiet.** Dvieļi, zeķes, galda piederumi, pogas pēc krāsas. Īsti darbi, kas padarīti līdzās.
+2. **Dziediet un kustieties pie mūzikas.** Plaukšķiniet, šūpojieties vai dejojiet virtuvē. Sāciet dziedāt paši un ļaujiet viņam pievienoties.
+3. **Skatiet fotoalbumus.** Aprakstiet, ko redzat, un aicinājiet stāstīt: „Kāda mašīna. Pastāsti par to.“ Piekrītiet vārdiem, ko viņš lieto.
+4. **Spēlējiet vienkāršas attēlu spēles.** [Attēlu pāri](/games/picture-pairs/) ar četrām līdz sešām kārtīm un attēliem, kas paliek redzami, vai [Atrodi to pašu](/games/find-the-same/) ar divām vai trim izvēlēm.
+5. **Pabeidziet pazīstamus teicienus.** „Ābols dienā…“ Teicieni, ko iemācījies sen, bieži nāk viegli. Izmēģiniet [Pabeidz teicienu](/games/finish-the-saying/), kur var parādīt jebkuru beigu variantu ar vienu pieskārienu.
+6. **Laistiet un kopiet augus.** Telpu puķu podi vai paaugstināta dobe ar nelielu laistāmkannu.
+7. **Izveidojiet saskaņošanas spēli no ģimenes fotogrāfijām.** [Foto pāri](/games/photo-pairs/) izmanto attēlus, ko izvēlaties savā ierīcē, un tie nekad neatstāj to.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Vairāk ideju: [aktivitātes vidējā stadijā](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktivitātes vēlīnā Alcheimera slimības stadijā
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+Vēlīnā stadijā Alcheimera asociācija norāda, ka cilvēki zaudē spēju reaģēt uz apkārtni un uzturēt sarunu, lai gan var joprojām izrunāt vārdus vai frāzes. Aktivitāte tagad nozīmē komfortu un saikni, ko nes pie vietas, kur cilvēks atpūšas.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Spēlējiet mīļāko mūziku** klusi, bez televizora traucējumiem.
+2. **Veiciet roku masāžu** ar losjonu ar smaržu, kas patīk.
+3. **Piedāvājiet mīkstus priekšmetus, ko turēt:** siltu segu, flīsa audumu, gludu akmeni.
+4. **Lasiet skaļi** psalmus, dzeju vai pazīstamu stāstu. Ritms ir svarīgāks par nozīmi.
+5. **Sēdiet ārā** ēnā vai pie loga ar putniem, ko vērot.
+6. **Skatieties kopā vienu lielu attēlu.** Saulespuķi vai suni, kas aizpilda planšetes ekrānu, un jūs pastāstāt, ko redzat.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Vairāk ideju: [aktivitātes vēlīnā stadijā](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Kuras spēles der cilvēkam ar Alcheimera slimību?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Izvēlieties spēles, kurās nekas nevar „neizdoties“. Visas spēles šajā vietnē ir bezmaksas, darbojas pārlūkprogrammā un nav taimera, punktu un reģistrācijas.
 
-| Game | What you do | Often suits |
+| Spēle | Ko darāt | Bieži piemērota |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Attēlu pāri](/games/picture-pairs/) | Saskaņojiet lielus attēlus; tie var palikt redzami | Agrīnā un vidējā stadija |
+| [Atrodi to pašu](/games/find-the-same/) | Pieskarieties attēlam, kas atbilst augšējam | Vidējā un vēlīnā stadija, ar palīdzību |
+| [Pabeidz teicienu](/games/finish-the-saying/) | Izvēlieties pazīstama teiciena pēdējo vārdu vai parādiet to | Agrīnā un vidējā stadija |
+| [Attēlu puzle](/games/picture-puzzle/) | Ievietojiet 4 vai 9 gabalus atpakaļ vietā, ar redzamu attēlu | Agrīnā un vidējā stadija |
+| [Sarunu kartītes](/games/conversation-cards/) | Attēls un atvērts jautājums, par ko runāt | Jebkurā stadijā, ar kādu, ar ko runāt |
+| [Foto pāri](/games/photo-pairs/) | Saskaņošanas spēle no jūsu pašu fotogrāfijām | Agrīnā un vidējā stadija |
+| [Krāsošana](/games/coloring/) | Pieskarieties krāsai un tad daļai no attēla; vai izdrukājiet to | Jebkurā stadijā, ar palīdzību |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Kā sēdēt kopā, cik palīdzēt un kad apstāties, lasiet [kā spēlēt kopā ar cilvēku, kam ir demence](/caregiving/how-to-play-together/). Ja domājat par „atmiņas spēlēm“, skatiet [atmiņas spēles senioriem ar demenci](/activities/memory-games/).
 
-## How to make any activity easier
+## Kā padarīt jebkuru aktivitāti vieglāku
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Nacionālā novecošanas institūta padoms ir vairāki paradumi: saskaņojiet aktivitāti ar to, ko cilvēks spēj; palīdziet sākt; vērojiet frustrāciju; nodrošiniet, ka cilvēks jūtas veiksmīgs; un ļaujiet vienkārši vērot, ja tas viņam patīk.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Izvēlieties dienas laiku, kad cilvēks jūtas vislabāk,** un turiet sesijas īsas.
+- **Vispirms izklājiet visu,** lai varētu sākt uzreiz.
+- **Aicinieties, nevis dodiet norādījumus.** „Vai varētu man palīdzēt?“ darbojas labāk nekā „Ir laiks aktivitātei.“
+- **Izdariet pirmo soli pats** un ļaujiet viņam pievienoties.
+- **Piedāvājiet vienu soli un vienu izvēli reizē.**
+- **Ļaujiet to darīt pa savam.** Nevienmērīgi salocīti dvieļi ir labi.
+- **Apstājieties, kamēr vēl ir patīkami.** Agrs apstāšanās ir labs rezultāts, nevis neveiksme. Ja cilvēks atsakās, skatiet [ko darīt, kad cilvēks ar demenci saka nē](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alcheimera asociācija](https://www.alz.org/help-support/caregiving/daily-care/activities) to saka vienkārši: koncentrējieties uz baudu, nevis sasniegumiem.

@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Lauko ir sodininkystės veiklos žmonėms su demencija"
+seoTitle: "Sodininkystės ir lauko veiklos demencijai"
+description: "Sodo ir lauko veiklų idėjos žmonėms su demencija: aukštos lysvės, konteineriai ir saugos patarimai karščiui, saulei bei klajojimui."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Sodininkystė ir laikas lauke gali būti ramia, pažįstama veikla žmogui,
+  gyvenančiam su demencija. Pabandykite laistyti, sodinti žolelių, šalinti
+  nuvytusius žiedus ar trumpai pasivaikščioti aptvertame kieme. Naudokite
+  aukštas lysves ar stalą, kad niekam nereikėtų klūpėti, venkite aštrių įrankių
+  ir nuodingų augalų, eikite lauką vėsesnę dienos dalį ir visada būkite kartu
+  su žmogumi.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Paprasti sodo darbai, pavyzdžiui, laistymas, sėklų sodinimas, žolelių uostymas ir gėlių rinkimas, gali būti atliekami stovint ar sėdint."
+  - "Aukštos lysvės, konteineriai ir uždengtas stalas atneša sodą į juosmens aukštį ir sumažina kritimo riziką."
+  - "Venkite aštrių įrankių, dygių ar dirginančių augalų ir visko, kas nuodinga. Stebėkite, kad dirvožemio nepainiotų su maistu."
+  - "Karštis gali būti pavojingas vyresniems žmonėms. Eikite anksti ryte ar vakare, neškite vandens ir šešėlio bei grįžkite į vidų, vos pajutę diskomfortą."
+  - "Daugelis žmonių su demencija kažkada klajoja. Būkite lauke kartu su žmogumi ir turėkite naujausią nuotrauką bei tapatybės dokumentą."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Kokias sodininkystės veiklas gali atlikti žmogus su demencija?"
+    a: "Laistymas, sėjimas mažuose vazonėliuose, žolelių uostymas ir liečiamas, nuvytusių žiedų šalinimas, daržovių rinkimas, gėlių sukimas į puokštes ir tako šluostymas – visa tai geri pasirinkimai. Viduje gerai tinka vazonėlis su žolelėmis ant palangės ar dirvožemio padėklas uždengtame stale. Veiklą rinkitės pagal tai, ką žmogus mėgo anksčiau ir ką gali patogiai daryti dabar."
+  - q: "Kaip apsaugoti žmogų su demencija nuo karščio?"
+    a: "Planuokite laiką lauke vėsiam ryto ar vakaro metui, laikykite jį trumpą ir dažnai siūlykite vandens. Rinkitės šešėlį, platų skrybėlės kraštą, lengvus laisvus drabužius ir apsauginį kremą nuo saulės. Vyresni žmonės yra labiau pažeidžiami karščio ligų, o sumišimas, svaigulys ar pykinimas gali būti įspėjamieji ženklai, todėl, pastebėję juos, nedelsdami eikite į vidų ir atvėskite."
+  - q: "Kaip išeiti į lauką, jei žmogus linkęs klajoti?"
+    a: "Būkite su žmogumi visą laiką, naudokite aptvertą kiemą ar sodą su užsegama vartelių sklende ir įsitikinkite, kad jis dėvi tapatybės apyrankę arba nešiojasi asmens dokumentą. Turėkite naujausią nuotrauką. Jei žmogus dingsta, nedelsdami kreipkitės į vietos policiją ar skubios pagalbos tarnybas ir nelaukite nustatyto laiko. Pasakykite budintiesiems, kad žmogus serga demencija, kur jį paskutinį kartą matė, ir pateikite naujausią nuotrauką."
+  - q: "Ką daryti, jei sodo neturime?"
+    a: "Kelių vazonų ant verandos, langų dėžės ar žolelių padėklas virtuvės stale visiškai pakanka. Galite nuvykti ir į parką, viešąjį sodą ar bendruomenės sodą. Sėdėjimas lauke ir paukščių klausymasis taip pat yra lauko veikla."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Daugeliui žmonių sodas yra viena labiausiai pažįstamų vietų. Kasimas, laistymas ir gėlių rinkimas naudoja įgūdžius, įgytus seniai, o buvimas lauke suteikia gryno oro, saulės šviesos ir paukščių čiulbėjimo. Nacionalinis senėjimo institutas (NIA) tarp veiklų, kurios gali patikti žmonėms su Alzheimerio liga, mini augalų priežiūrą, gėlių ir daržovių sodinimą bei [kalbėjimą apie tai, kaip auga augalai](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Šiame puslapyje aprašoma, ką išbandyti, kaip padaryti sodą lengviau naudoti ir kaip saugiai elgtis karščio, saulės ir klajojimo atveju.
 
-## What outdoor and gardening activities work well?
+## Kokios lauko ir sodininkystės veiklos gerai tinka?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Geriausios užduotys yra paprastos, pažįstamos ir gali būti atliekamos stovint ar sėdint. Rinkitės pagal tai, ką žmogus mėgo anksčiau.
 
-### In the garden
+### Sode
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Laistymas.** Maža, lengva laistytuvė ar švelni žarnos galvutė ir keletas vazonų pasiekiamoje vietoje. Laistymas turi aiškų pradžią ir pabaigą ir sunkiai išeina neteisingai.
+2. **Sėjimas į vazonėlius.** Alzheimerio fondas Amerikoje (AFA) siūlo sėti į mažus vazonėlius ir [stebėti, kaip jie auga](https://alzfdn.org/dementia-activity-gardening/). Didesnes sėklas, pavyzdžiui, pupas, saulėgrąžas ar žirnius, lengviau paimti.
+3. **Nuvytusių žiedų šalinimas.** Nuvytusių žiedų nuskynimas rankomis yra švelni, pasikartojanti užduotis. Rinkitės augalus be spyglių.
+4. **Daržovių ar žolelių rinkimas.** Vyšninius pomidorus, pupas ir žolelės lengva rinkti ir malonu paragauti. Atneškite į vidų ir panaudokite pietums.
+5. **Žolelių uostymas ir liečiamas.** Rozmarinai, mėtos ir levandos turi stiprius, malonius kvapus. Pabraukite lapelį tarp pirštų ir praneškite žmogui.
+6. **Tako ar terasos šluostymas.** Lengvas šepetys ant plokščio, sauso paviršiaus, jei pusiausvyra stabili.
+7. **Paukščių lesyklos pripylimas.** Tada sėdėkite kartu ir stebėkite, kas atskrenda.
 
-### Indoors, when going out is not possible
+### Viduje, kai išeiti lauką neįmanoma
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Žolelių sodas ant palangės**, pavyzdžiui, bazilikai, petražolės ar laiškiniai česnakai.
+- **Sodinimas ant uždengto stalo.** AFA siūlo naudoti kafeterijos tipo padėklus, kad dirvožemis būtų vienoje vietoje, ir persodinti jį mažais puodeliais.
+- **Gėlių sukimas į puokštes** iš iškirptų gėlių ir žalumynų iš kiemo ar parduotuvės.
+- **Presuotos gėlės** iš puokštės, vėliau priklijuotos ant atvirukų. Daugiau žr. [meno ir amatų](/activities/arts-and-crafts/) skiltyje.
+- **Levandų ar rožių pagalvėlių gaminimas**, kitas AFA sumanymas, leidžiantis sodo kvapui likti namuose.
 
-### Getting out and about
+### Išeiti ir pasivaikščioti
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Trumpas pasivaikščiojimas** aplink kvartalą, parke ar sodų centre, lėtu tempu, su vieta atsisėsti.
+- **Sėdėjimas lauke** ant verandos ar suoliuko, klausantis paukščių ir jaučiant vėjelį. Tai savarankiška veikla.
+- **Lankymasis viešajame sode** ramiu dienos metu. NHS pažymi, kad kai kur yra jutiminių sodų su kvapniais augalais, tekstūromis ir vandens elementais.
+- **Šėrimas antims ar paukščių stebėjimas** vietiniame tvenkinyje, laikantis saugaus atstumo nuo vandens krašto.
 
-## How do I make a garden easier to use?
+## Kaip padaryti sodą lengviau naudoti?
 
-Bring the garden up to the person, not the other way around.
+Atnešk sodą prie žmogaus, o ne atvirkščiai.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Aukštos lysvės ar aukšti vazonai** apie juosmens aukštį – nereikia klūpėti ar lenktis.
+- **Konteineriai ant stalo** tinka žmonėms, kurie naudoja vežimėlį arba mieliau sėdi.
+- **Platūs, lygūs takai** be laisvų akmenų ir žarnų, kurios guli per taką, mažina pargriuvimo riziką.
+- **Suoliukai su atlošais ir šešėliu** palei kelią, kad poilsis visada būtų galimybė.
+- **Įrankiai su storomis, minkštomis rankenomis**, kurias lengva laikyti. Atsisakykite genėjimo žirklių, peilių ir visko aštraus.
+- **Aptverta zona su užsegama vartele**, kurią žmogus gali laisvai tyrinėti, o jūs būnate netoliese.
 
-## Which plants should I avoid?
+## Kokių augalų vengti?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Rinkitės augalus, kuriuos saugu liesti ir, idealiu atveju, saugu paragauti. AFA pataria naudoti augalus, kurie paprastai nedirgina odos, patikrinti alergijas ir atidžiai stebėti žmogų, kuris galėtų painioti dirvožemį su maistu. NIA namų saugos patarimuose siūloma pašalinti nuodingus augalus arba juos užrakinti.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Venkite dygių rožių, kaktusų ir augalų, kurių sultys dirgina odą.
+- Prieš sodinant, bet kurį augalą, dėl kurio nesate tikri, patikrinkite su apsinuodijimų centru ar vietiniu sodo centru.
+- Pažįstami mėgstamiausi augalai gali sukelti malonius jausmus. AFA kaip pavyzdžius mini rožes ir Kalėdinį kaktusą. Rinkitės bedyglių veisles.
+- Trąšas, pesticidus ir piktžolių naikiklius laikykite užrakintus ir nenaudokite vietose, kurias žmogus gali pasiekti.
 
-## How do I stay safe in the heat and sun?
+## Kaip saugotis karščio ir saulės?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planuokite laiką lauke pagal orą. NIA paaiškina, kad vyresni žmonės yra labiau pažeidžiami [karščio sukeltų ligų](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), iš dalies todėl, kad kūnas prasčiau prisitaiko prie temperatūros pokyčių, o kai kurie vaistai veikia tai, kaip kūnas valdo šilumą.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Eikite anksti ar vėlai.** Šiltu metu vengkite vidurdienio. Tikrinkite karščio indeksą, o ne tik temperatūrą.
+- **Dažnai siūlykite vandens.** Nelaukite, kol žmogus pasakys, kad trokšta. Karščiu venkite alkoholio ir kofeino turinčių gėrimų.
+- **Apsirenkite tinkamai.** Šviesūs, laisvi drabužiai, platus skrybėlės kraštas ir akiniai nuo saulės.
+- **Naudokite apsauginį kremą nuo saulės.** NIA rekomenduoja plataus spektro apsaugą, kurios SPF yra 15 ar daugiau, ir ją tepti pakartotinai per dieną.
+- **Rinkitės šešėlį.** Pastatykite sodinimo stalą po medžiu ar skėčiu.
+- **Laikykite trumpai.** Trumpas buvimas lauke gali būti pakankamas, ypač šiltomis dienomis.
+- **Stebėkite įspėjamuosius ženklus.** NIA nurodo galvos skausmą, sumišimą, svaigulį ar pykinimą kaip galimus karščio ligos požymius. Žmogus su demencija gali nepasakyti, kad jaučiasi blogai, todėl stebėkite jo veidą ir elgesį. Eikite į vidų, atvėskite vandeniu ir šaltu audiniu ir kreipkitės medicininės pagalbos, jei žmogui greitai negerėja. Karščio smūgis, kurio požymiai yra alpimas, sumišimas ar sausa, paraudusi oda, yra medicininė skubi būklė: skambinkite vietiniu skubios pagalbos numeriu.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Šaltas oras taip pat svarbus. Žiemą laikykite lauko laiką trumpą ir pasirūpinkite, kad rankos ir kojos būtų šiltos ir sausos.
 
-## How do I handle wandering when we go outside?
+## Kaip elgtis su klajojimu, kai einame lauke?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Visada būkite su žmogumi, kai jis lauke. Alzheimerio asociacija teigia, kad [šeši iš 10 žmonių, gyvenančių su demencija](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering), bent kartą klajos, o daugelis tai daro ne vieną kartą. Tai gali nutikti bet kurioje stadijoje.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+NIA [patarimai dėl klajojimo ir pasiklydimo](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) apima:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Įsitikinkite, kad žmogus dėvi tapatybės ar medicininę apyrankę su vardu, adresu ir jūsų telefono numeriu, arba pažymėkite jo drabužius.
+- Turėkite naujausią žmogaus nuotrauką ar vaizdo įrašą.
+- Įspėkite kaimynus, kad žmogus gali klajoti.
+- Apsaugokite kiemą tvora ir užrakinamais vartais.
+- Nepalikite žmogaus, turinčio klajojimo istoriją, be priežiūros.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimerio asociacija taip pat siūlo sukurti vidines ir lauko zonas, kuriose galima saugiai tyrinėti, ir planuoti veiklas tuo dienos metu, kai neramumas labiausiai tikėtinas. Pasivaikščiojimas saugiame, uždarame sode gali tikti vakaro neramumui. Žr. mūsų vadovą apie [vakaro neramumą](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Jei žmogus dingsta, patikrinkite artimas saugias vietas ir nedelsdami kreipkitės į vietos policiją ar skubios pagalbos tarnybas. Nelaukite nustatyto laiko prieš pranešdami. 2021 m. JAV Teisingumo departamento žurnalo straipsnis apie dingusių asmenų tyrimus [U.S. Department of Justice journal article on missing-person investigations](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) teigia, kad teisėsaugos institucijos neturėtų reikalauti nustatyto laukimo laikotarpio, o simptomai, panašūs į demenciją, įvardijami kaip didelės rizikos požymis. Vietos pranešimo tvarka skiriasi. Pasakykite, kada ir kur žmogus buvo paskutinį kartą matytas, ką jis dėvi ir pateikite naujausią nuotrauką. Vykdykite vietinių pagalbos tarnybų nurodymus ir nieko nepaieškokite nesaugiose vietose vienas.
 
-## How do I adapt gardening as things change?
+## Kaip keisti sodininkystę, kai viskas keičiasi?
 
-| If this has become hard | Try this instead |
+| Jei tai tapo sunku | Pabandykite vietoj to |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Sodinti visą lysvę | Pasodinti vieną sėklą viename vazonėlyje |
+| Ravėti (atskirti piktžoles nuo augalų) | Laistyti arba šalinti aiškiai nuvytusius žiedus |
+| Vaikščioti po sodą | Sėdėti prie stalo su dirvožemio padėklu ir augalu |
+| Iš viso išeiti lauke | Žolelių vazonėlis virtuvės stale ar vieta prie atviro lango |
+| Atlikti bet kokią užduotį | Kartu sėdėti lauke, klausytis ir stebėti |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Kai kurie žmonės mieliau stebi, kaip jūs dirbate. NIA pažymi, kad leisti žmogui tiesiog stebėti yra gerai, jei jam tai patinka.
 
-## When should we head inside?
+## Kada eiti į vidų?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Eikite į vidų, kai žmogus atrodo pavargęs, karštas, šaltas, neramus ar pasiruošęs baigti. Trumpos, malonios dešimt minučių geriau nei ilgas popietė, pasibaigianti nerimu. Anksti sustoti yra geras rezultatas.
 
-## Bring the garden indoors on screen
+## Atnešk sodą į vidų per ekraną
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Lietingomis dienomis [Rūšiuokite kartu](/games/sort-together/) turi sodo krepšelį paveikslėliams rūšiuoti, o [Pokalbio kortelės](/games/conversation-cards/) apima atviras užuominas, kurios gali paskatinti pasakojimus apie sodą. Jei grįžote iš karščio pavargę ir skubotai, [Ramus kvėpavimas](/games/calm-breathing/) siūlo lėtą, tylią pauzę, kurią galite pasidalyti. Daugiau idėjų, paremtų lietimu, kvapu ir garsu, žr. mūsų [jutiminių veiklų vadovą](/activities/sensory/).

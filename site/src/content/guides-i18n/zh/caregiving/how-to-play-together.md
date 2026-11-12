@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "如何与患有痴呆的人一起玩游戏"
+description: "与患有痴呆的人一起玩游戏的实用指南：如何准备、控制节奏、不纠正对方、让游戏更容易，以及何时该停下来。"
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  把游戏当作相处的时光，而不是测验。选择一天中平静的时段，在安静的房间里并肩坐下，然后只提供一个简单的游戏。让对方决定节奏，不纠正无伤大雅的错误，一旦出现吃力的迹象就降低难度，并把图片变成交谈的话题。在感觉还好的时候停下来。提前结束，或者只是一起静静地看着，都是很好的结果。
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "目标是享受乐趣和彼此联系，而不是完成游戏或答对问题。"
+  - "先做好准备：安静的房间、充足的光线、戴好眼镜和助听器、关掉电视，并准备好一个游戏。"
+  - "不要纠正无伤大雅的错误。可以说“我们换个方式试试”，或者直接继续。"
+  - "在挫败感积累之前就降低难度：减少图片、减少选择，并让图片保持可见。"
+  - "用“跟我讲讲……”代替“你记不记得……？”，把图片当作讲故事的起点。"
+  - "一出现疲倦或不安的迹象，就停下来。提前停止是一种成功，而不是失败。"
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "我们应该玩多久？"
+    a: "没有标准的时长。对许多人来说，几分钟就足够了，有些日子只玩一轮也够。请观察对方，而不是看时钟，并在对方看起来仍然放松的时候停下来。"
+  - q: "我应该让他们赢，或假装没有注意到错误吗？"
+    a: "在共同参与、没有压力的游戏中，本来就没有输赢。如果错误不会让对方困扰，就随它去吧。如果看起来让对方感到困扰，可以悄悄地帮一下，或降低难度，但不必指出错误。"
+  - q: "如果对方更愿意看我玩呢？"
+    a: "这样很好。美国国家老龄研究所建议，如果对方看起来更喜欢看，就让他们只是看着。谈谈您看到的内容，并邀请对方随时用手指点或做选择。"
+  - q: "这些游戏是用来测试记忆的吗？"
+    a: "不是。我们的游戏是为了享受乐趣和交谈而设计的简单的共同活动。它们不是记忆测试，不测量任何东西，也不是对痴呆的治疗。"
+  - q: "最适合开始的是哪个游戏？"
+    a: "从最适合对方的最简单的游戏开始。四张图块并保持图片可见的图片配对，或只有两个选项的找相同，都是温和的起点。如果对方更喜欢说话而不是点击，谈话卡效果会很好。"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+与患有痴呆的人一起玩游戏，看起来不像比赛。它看起来像两个人坐得很近，指着图片，因为一句俗语而笑出声，并聊起任何冒出来的话题。游戏只是两个人一起度过时光的一个理由。
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+本指南说明如何做好准备、如何控制游戏节奏、当某件事“出错”时该说什么、如何让任何游戏变得更容易或稍微有些挑战，如何把游戏变成交谈，以及如何判断何时该停下来。它适用于我们的[游戏](/games/)，也适用于您手边已有的纸牌、拼图和桌游。
 
-## What is the best way to play a game with someone who has dementia?
+## 与患有痴呆的人玩游戏，最好的方式是什么？
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+把重点放在乐趣上，而不是成就上。这是[阿尔茨海默病协会关于活动的指南](https://www.alz.org/help-support/caregiving/daily-care/activities)的核心建议：以对方仍然具备的能力为基础，帮助他们开始，困难的部分由您来完成，并且不要批评或纠正无伤大雅的活动。
 
-In practice that means:
+具体来说，这意味着：
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **坐在对方身边，而不是对面。** 并肩坐着，你们都能看到屏幕或桌面，帮忙也就变成了一起合作，而不是监督。
+- **一次只提供一个游戏。** 一连串的选项，在开始之前就会让人觉得像是考试。
+- **跟随对方的引导。** 如果对方想按自己的顺序点击图片，或者花十分钟只谈论一张图片，或者只玩两轮就停下，那就是今天的游戏。
+- **计算美好的时刻，而不是完成的回合。** 一个微笑、一个故事或一段平静的半小时，才是您想要的结果。
 
-## How do I set up before we start?
+## 开始之前，我该如何准备？
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+几分钟的准备，可以避免大部分人们误以为是游戏本身造成的挫败。
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **选择对方状态最好的时段。** [美国国家老龄研究所（NIA）关于调整活动的指南](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)建议，把外出和活动安排在对方状态最好的时段。对许多人来说，那是上午十点左右。傍晚通常比较困难；请参阅[傍晚的平静活动](/caregiving/late-day-restlessness/)。
+2. **让房间安静。** 如果可以，关掉电视和收音机，并关上门。[家庭照护者联盟](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)建议，在开始交谈之前，先减少噪音和干扰。
+3. **先确认舒适度。** 旁边放一杯饮料，提前去一趟洗手间，坐一把舒服的椅子，并戴好眼镜和助听器。
+4. **把空间照亮。** 明亮、均匀、屏幕上没有反光的光线，能让图片更容易看清。
+5. **坐下之前先把游戏准备好。** 打开游戏，选好设置，并自己调好音量。然后再把屏幕转向对方。关于平板电脑的小技巧，请参阅[设置平板电脑或手机](/caregiving/tablets-and-screens/)。
+6. **把设备架起来。** 用支架或保护套把平板电脑立起来，这样就不必有人一直拿着它，也更便于用手指指点。
 
-## How do I invite them without pressure?
+## 我如何在没有压力的情况下邀请对方？
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+邀请应当随意，并且让对方容易拒绝。以下几种说法通常效果不错：
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- “我找到了一些花园的照片，要不要和我一起看看？”
+- “你能帮我看看这个拼图吗？我卡住了。”
+- “今天你想看花还是看鸟？”（二选一比开放式问题更容易回答）
+- “我正在给你的姐姐做一张卡片。这里应该用哪种颜色？”
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+阿尔茨海默病协会建议，说明活动的目的，例如为一位朋友做一张卡片，因为有目的的活动才有意义。请对方帮忙也很有效，因为这能让对方觉得自己有用。
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+如果对方说不，请接受。可以稍后再试，或者提供别的东西。我们关于[对方说不时该怎么办](/caregiving/when-they-say-no/)的指南有更多说明。
 
-## How long should a game last, and how fast should we go?
+## 一个游戏应该进行多久？节奏应该多快？
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+让对方决定节奏，并计划短时间的相处。对于共同玩的游戏，并没有基于证据的理想时长。两到五分钟平静的游戏，就可以是一项完整的活动。
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **等待的时间比感觉上的更长。** NIA 建议，给对方留出更多时间作出回应，并尽量不要打断。在您想帮忙之前，先在心里数到十。
+- **一次一步。** 给出一个简短的指示（“点一张图片”），然后等待。用示范代替解释：用手指指出应该点哪里。
+- **随时可以暂停。** 如果对方停下来谈论一张图片，游戏可以等一等。没有必要赶时间。
+- **让对方看着。** NIA 指出，有些人更喜欢看，这是一个完全合理的选择。
 
-## Should I correct wrong answers?
+## 我应该纠正错误的答案吗？
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+不应该。一次又一次地温和纠正，会让对方觉得自己失败了，即使您的本意是好的。阿尔茨海默病协会建议，不要批评或纠正无伤大雅的活动。在游戏中，几乎所有的错误都是无伤大雅的。
 
-| Instead of | Try |
+| 不要说 | 可以试试 |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| “不对，那是错的。” | “我们换个方式试试。”（这是 NIA 举的例子） |
+| “这两个不是一对，再看看。” | 什么都不说，直接进行下一轮；或说“哦，这两张都是红色的。” |
+| “你还记得这是谁吗？” | “跟我讲讲这张图片吧。” |
+| “这张你已经做过了。” | “这张很好。我们再做一次吧。” |
+| “拜托，你明明知道的。” | “要不要我给你看结尾？” |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+如果一个错误明显让对方感到挫败，就悄悄地帮一下：指向正确的图片，自己来走这一步，或在下一轮降低难度。如果一句俗语被接上了一个好笑的错误结尾，就跟着笑。对方接的结尾可能比原来的更好。
 
-## How do I make a game easier or harder?
+## 我如何让游戏变得更容易或稍微有些挑战？
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+根据当天对方的状态来调整游戏，而不是根据某个阶段的标签。同一个人，傍晚时可能需要比上午更简单的版本。NIA 的第一条建议，就是让活动与对方的能力相匹配，并确保对方感到自己做得不错。
 
-| Game | Make it easier | Make it a little harder |
+| 游戏 | 降低难度 | 稍微增加挑战 |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [图片配对](/games/picture-pairs/) | 从 4 张图块开始，并让图片保持可见 | 增加图块，或在对方感到舒适时隐藏图片 |
+| [找相同](/games/find-the-same/) | 2 个选项 | 最多 4 个选项 |
+| [一起分类](/games/sort-together/) | 您拿着图片，对方用手指指向篮子 | 对方自己点击图片和篮子 |
+| [图片拼图](/games/picture-puzzle/) | 4 块拼图，先谈谈整张图片 | 9 块拼图 |
+| [接下句](/games/finish-the-saying/) | 展示结尾，然后一起说出来 | 在点击之前，让对方先说出结尾 |
+| [文字搜索](/games/word-search/) | 打印出来，一起找一个词，指出它的第一个字母 | 让对方选择下一个要找的词 |
+| [上色](/games/coloring/) | 您选两种颜色，对方在其中选择 | 对方选择所有的颜色 |
+| [谈话卡](/games/conversation-cards/) | 只是一起看图片 | 使用卡片上的开放式提示 |
+| [照片配对](/games/photo-pairs/) | 几张对方非常喜爱的家庭照片 | 增加更多照片 |
+| [图片宾果](/games/picture-bingo/) | 每位玩家身边有一位帮手 | 玩家自己在卡片上做标记 |
+| [平静呼吸](/games/calm-breathing/) | 只是一起坐着看 | 跟着慢慢地呼吸 |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+游戏太难的迹象包括：长时间的停顿，看起来是焦虑而不是在思考；反复说“我不会”；把设备推开；或者错误让对方感到难过。游戏可能太简单的迹象包括：感到无聊，或说这“很幼稚”。如果出现这种情况，请尊重对方的感受，换成一个让对方觉得成熟的活动，例如文字搜索、一张真实照片的拼图，或谈谈一张与对方以前工作相关的图片。
 
-## How do I turn a game into a conversation?
+## 我如何把游戏变成交谈？
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+把每一张图片都当作一个交谈的邀请，并把对方说的任何话都当作很好的回答。对许多家庭来说，这是玩游戏最好的部分。
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **提出开放式的、没有错误答案的问题。** “你注意到了什么？”“你喜欢哪一个？”“跟我讲讲一个像这样的厨房。”
+- **先分享自己的事。** “我的祖母养过一只像这样的狗。”您的故事会让对方更容易分享他们的故事。
+- **顺着话题走。** 如果一张汽车的图片引出了一段公路旅行的故事，那么这个故事就是活动本身。让游戏暂停即可。
+- **不要核对事实。** 在回忆中，愉快的交谈比准确的细节更重要。如果故事和上次不一样，就享受这个新版本。
+- **利用内置的提示。** [接下句](/games/finish-the-saying/)会在每句俗语之后提供一个谈话提示，而[谈话卡](/games/conversation-cards/)正是为此设计的。[照片配对](/games/photo-pairs/)使用您自己的家庭照片，这些照片常常能激发最丰富的故事。
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+更多想法请参阅我们关于[回忆活动](/activities/reminiscence/)和[沟通技巧](/caregiving/communication-tips/)的指南。
 
-## When should we stop?
+## 我们应该什么时候停下来？
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+一出现疲倦或不安的迹象，就停下来，最好再早一点。阿尔茨海默病协会建议，当注意力减退或挫败感上升时，就停止或更换活动。
 
-Watch for:
+请留意以下情况：
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- 打哈欠、身体下垂，或眼睛从屏幕上飘开；
+- 坐立不安、站起来，或要求离开；
+- 叹气、回答很简短，或说“我这方面不行”；
+- 随意乱点，或把设备推开；
+- 流泪、烦躁，或情绪突然改变。
 
-How to stop well:
+如何好好地停下来：
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **以一件容易的事情结束。** 再配对一次对方能够完成的，或者最后看一张图片、欣赏一下。
+- **让它与您有关。** “我想喝杯茶了。我们就在这里停下来，好吗？”这样说，不会让对方觉得自己做得不好。
+- **转向身体活动或舒缓的事情。** 短暂的散步、点心、叠衣服或听音乐。
+- **说些温暖的话。** “和你一起做这个，我很开心。”不要因为“做对了”而赞扬，只表达在一起度过时光的愉悦。
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+提前结束、改变计划，或放弃游戏只是静静地坐在一起，都是很好的结果。
 
-## Can we play in a group or over a video call?
+## 我们可以在团体中或视频通话中玩吗？
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+可以，但需要多做一些准备。在团体中，人数应控制在几个人以内，把帮手安排在需要帮助的人身边，并选择一个有明确共同焦点的游戏。[图片宾果](/games/picture-bingo/)为团体提供可打印的卡片和屏幕上的叫号功能。更多内容请参阅[照护机构团体活动](/activities/care-home-groups/)。
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+在视频通话中，通话的一方可以描述图片，而房间里的人则负责指点和点击。通话应当简短，内容应当熟悉。我们的[电话与视频通话指南](/activities/phone-and-video-calls/)有更多建议。
 
-## What if a game just isn't working?
+## 如果某个游戏就是不管用怎么办？
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+有些日子，任何办法都不起作用，这并不反映您或对方的问题。把游戏收起来，改在一天中的另一个时段尝试，换一个游戏，或者干脆不玩游戏。许多好的活动与屏幕毫无关系：音乐、叠毛巾、翻看相册，或短暂的散步。更多内容请浏览我们的[活动想法](/activities/ideas/)。

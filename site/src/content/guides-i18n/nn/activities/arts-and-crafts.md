@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Kunst og handverk for vaksne med demens"
+seoTitle: "Kunst og handverk for demens: vaksne, ikkje barnsleg"
+description: "Vaksne kunst- og handverksidear for personar med demens, frå akvarell og collage til blomsterarrangering, med tips om oppsett, tilpassing og prosess framfor produkt."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Gode kunst- og handverksaktivitetar for vaksne med demens ser vaksne ut og kjennest vaksne: akvarell, collage av tidsskriftbilete, blomsterarrangering, leire, enkle kort eller vaksenfargeleggingssider. Legg fram nokre få materialar, hjelp med første strøk om det trengst, snakk medan de arbeider, og sjå på den felles tida som hovudsaka. Eit ferdig arbeid er valfritt.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Vel materialar og tema som ser vaksne ut, som akvarellpapir, ekte blomar og bilete frå blad, ikkje glitter, klistermerke eller tegneserieark."
+  - "Fokuser på prosessen: fargane, kjensla av leiret, samtalen. Eit ferdig arbeid er ein bonus, ikkje målet."
+  - "Gi eit formål når du kan, som eit kort til eit barnebarn eller ein dekorasjon til bordet."
+  - "Hjelp personen i gang, og gå så eit steg tilbake. Å starte eit penselstrøk saman er ofte nok."
+  - "Prosjekt treng ikkje å bli ferdige på éin gong, og å stoppe tidleg er alltid greitt."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Korleis unngår eg at handverk kjennest barnsleg?"
+    a: "Bruk ekte kunstmaterialar, vaksne tema og ein respektfull tone. Bytt ut glitter og tegneserieark med akvarellpapir, stoff, blomar, bilete frå blad og detaljerte fargeleggingssider. Ros aldri arbeidet slik du ville rost ei barnetegning. Snakk om det slik du ville gjort med ein vaksen venn."
+  - q: "Kva kunstaktivitetar fungerer i seint stadium av demens?"
+    a: "Enkle, sansebaserte prosjekt fungerer best seinare: å male med brede strøk med ein stor pensel, klemme mjuk leire, arrangere nokre få blomar i ei vase, eller sortere stoffprøver etter kjensel. Du må kanskje starte rørsla saman. Å sjå deg male og snakke om fargane er òg ein måte å vere med på."
+  - q: "Kva gjer eg om dei seier at dei ikkje kan teikne?"
+    a: "Ta trykket bort. Prøv prosjekt utan eit rett svar, som ein akvarellvask, ein collage eller blomsterarrangering. Du kan òg seie at du treng hjelp med noko konkret, til dømes å velje farger til eit kort, slik at oppgåva kjennest som ei tenest og ikkje ein test."
+  - q: "Er fargeleggingssider for barnsleg for vaksne?"
+    a: "Nei, ikkje når dei er laga for vaksne. Vel sider med vaksne motiv som hagar, quiltar, bilar eller landskap, og presenter dei som avslappande, ikkje som ei leksjon. Våre fargeleggingssider kan skrivast ut eller fargast på nettbrett."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Kunst og handverk gir personar med demens ein måte å uttrykkje seg på som ikkje er avhengig av å finne dei rette orda. Alzheimer's Association seier at kunstprosjekt kan gi ei [kjensle av meistring og meining](https://www.alz.org/help-support/caregiving/daily-care/art-music) og høve til sjølvuttrykk, for omsorgspersonen like mykje som for personen med demens. Nøkkelen er å halde det vaksent, enkelt og fritt for press. Denne sida gir konkrete prosjekt, korleis du set dei opp, og korleis du tilpassar dei når ting endrar seg.
 
-## What makes an art activity adult and not childish?
+## Kva gjer ein kunstaktivitet vaksen og ikkje barnsleg?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Ein vaksen kunstaktivitet bruker ekte materialar, vaksne tema og ein respektfull tone. Alzheimer's Association rår til å halde prosjekt på vaksent nivå og unngå alt som kan verke nedlatande eller barnsleg.
 
-| Feels childish | Feels adult |
+| Kjennest barnsleg | Kjennest vaksen |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Glitter, skumklistermerke, vrikøyne | Akvarellpapir, stoff, pressa blomar |
+| Tegneserie-fargeleggingsark | Fargeleggingssider med hagar, quiltar, bilar eller landskap |
+| «Bra jobba» for kvart merke | Ekte samtale: «Den blåa er fin ved sidan av det grøne» |
+| Eit handverk utan nytte | Eit kort til ein venn, ein dekorasjon, ei gåve |
+| Instruksjonar som les som ei leksjon | Ein invitasjon: «Vil du hjelpe meg med dette?» |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Tenk over personens eigen smak. Nokon som elska handarbeid, kan like å handtere stoff. Ein pensjonert ingeniør føretrekkjer kanskje ein modellsett med store delar eller å sortere maskinvare til eit prosjekt. Ein tidlegare lærar kan like å lage kort.
 
-## Why focus on the process, not the product?
+## Kvifor fokusere på prosessen, ikkje produktet?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Fordi den felles tida er poenget. Alzheimer's Association sin guide om [aktivitetar heime](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) seier at ein skal konsentrere seg om prosessen, ikkje resultatet. Eit maleri som berre er «blått» er framleis eit maleri. Ein collage med tre bilete er framleis ein collage.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Association nemner òg at ein profesjonell kunstnar kan bli frustrert over endringar i arbeidet sitt, medan ein amatør kan like ein ny sjanse til å uttrykkje seg. Var personen ein dyktig kunstnar, prøv eit anna medium enn det vedkomande mestra, slik at det blir leik i staden for samanlikning.
 
-## Arts and crafts ideas to try
+## Kunst- og handverksidear å prøve
 
-Each idea includes how to make it simpler if it becomes hard.
+Kvar idé har ein forklaring på korleis du gjer ho enklare om ho blir vanskeleg.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Akvarellvaskar.** Fukt eit ark tungt akvarellpapir, og la personen slippe farge på det med ein stor pensel. Fargane spreier seg av seg sjølve, så det finst ikkje noko feil resultat. *Enklare:* tilby berre to farger, eller mal med vatn på mørkt papir som viser dei våte merka.
+2. **Collage av blad.** Klipp ut bilete frå blad på førehand, om hagestell, matlaging, bilar, reising eller personens gamle hobbyar. La vedkomande velje og lime bilete på kartong. *Enklare:* tilby fire ferdigklipte bilete og eit limstift, og lim saman.
+3. **Blomsterarrangering.** Alzheimer's Foundation of America foreslår å [arrangere avskorne blomar og grønt](https://alzfdn.org/dementia-activity-gardening/) i enkle sesongdekorasjonar. Bruk ei tung, stabil vase og stilkar som allereie er klipte. *Enklare:* set nokre få stilkar i eit lite glas, éin om gongen.
+4. **Pressa blomekort.** Press blomar frå ein buket mellom bokplater i ei veke, og lim dei så på brettet kartong. *Enklare:* du set limet på, og personen trykkjer blomen fast.
+5. **Vaksne fargeleggingssider.** Vel sider med tydelege konturar og ekte motiv. Våre utskrivbare [fargeleggingssider](/games/coloring/) kan òg fargast på skjerm ved å trykkje på ein farge, deretter på ein del av biletet. *Enklare:* større områder, færre farger, tjukke tusjar.
+6. **Leire eller mjuk deig.** Rull, press og form lufttørkande leire eller mjuk modelleringsdeig. Å presse eit blad i leire lagar ei enkel avtrykksflis. *Enklare:* berre å klemme og rulle er ein heil aktivitet. Pass på at personen ikkje set leire i munnen.
+7. **Kortlaging.** Alzheimer's Association foreslår å ramme det inn som ei ekte oppgåve: «Vi skal sende eit bedringskort til ein venn. Vil du hjelpe?» Ferdigklipt kartong og nokre klistermerke med blomar eller stempel fungerer godt.
+8. **Utklippsbok.** Legg kopiar av gamle bilete, postkort eller billettstubbar inn i album saman. Snakk om kvart av dei medan de held på. Sjå [reminisensguiden vår](/activities/reminiscence/) for milde måtar å snakke om fortida på.
+9. **Stoff- og teksturplater.** Lim prøvar av kordfløyel, fløyel, sekkestoff og silke på stiv kartong. Sjølve laginga er aktiviteten; å kjenne på dei etterpå er ein annan. Fleire idear finst i [guiden vår om sansebaserte aktivitetar](/activities/sensory/).
+10. **Enkel treferdigbehandling.** For nokon som likte trearbeid, kan sliping av ein glatt trekloss eller måling av eit fuglehus frå ein byggesett kjennast kjent. Fjern skarpe verktøy, og hald eit auge med.
+11. **Måling til musikk.** Sett på ei favorittplate, og mal former eller fargar som passar stemninga. Dette kombinerer to aktivitetar mange likar. Sjå [musikkaktivitetar](/activities/music/).
 
-## How do I set up an art session?
+## Korleis set eg opp ein kunstøkt?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Førebu først.** Klipp, trim og legg fram alt før du inviterer personen. Venter dei medan du leitar etter saksa, kan augeblikket gå tapt.
+2. **Hald det lite.** To eller tre farger, éin pensel, eitt ark. For mange val kan overvelde.
+3. **Vern bordet.** Ein plastduk eller eit gamalt laken gjer at søl ikkje er eit problem.
+4. **Sit ved sidan av kvarandre.** Arbeid med ditt eige stykke ved sidan av personens. Då kjennest det delt, ikkje overvakt.
+5. **Hjelp dei i gang.** Alzheimer's Association seier at du kan trenge å starte penselrørsla saman med personen. Når den er i gang, held mange fram.
+6. **Snakk medan de arbeider.** Kommenter fargar og tekstur, eller lat kunsten føre til historier. Unngå kvizspørsmål som «Kva er dette?»
+7. **Gi god tid.** Eit prosjekt treng ikkje å bli ferdig på éin gong.
 
-## How do I adapt art as dementia changes?
+## Korleis tilpassar eg kunsten etter kvart som demens endrar seg?
 
-| Stage | What tends to work | What to adjust |
+| Stadium | Det som som regel fungerer | Det du bør justere |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Tidleg | Kurs, detaljert fargelegging, utklippsbøker, kortlaging, måling etter foto | Tilby valet mellom prosjekt; hald det sosialt |
+| Midtfase | Ferdigklipt collage, akvarellvaskar, blomsterarrangering, fargelegging med store område | Eitt steg om gongen; du tek hand om klipping og liming |
+| Seint | Brede penselstrøk, klemme leire, kjenne på stoff, sjå deg male | Fokus på sansane; før handa forsiktig om det er velkomment |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS foreslår at aktivitetar i seinare stadium ofte blir forenkla og fokuserer på sansane. Å sjå nokon andre male, og snakke om fargane, er ein reell måte å vere med på. Fleire idear for kvart stadium finst i [aktivitetar for kvart stadium](/activities/ideas/).
 
-## Safety with art supplies
+## Tryggleik med kunstmaterialar
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Vel giftfrie malingar, tusjar og limstift.
+- Hald saks, kniv og varmelimpistolar utanfor rekkevidde. Gjer all klipping sjølv, på førehand.
+- Pass på at nokon ikkje set leire, maling eller små ting i munnen.
+- Bruk stabile, tunge beholdarar til vatn og vasar.
 
-## When should we stop?
+## Når bør vi stoppe?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Stopp når merksemda glipp eller frustrasjonen viser seg. Alzheimer's Association rår til å avslutte eller endre ein aktivitet når konsentrasjonen minkar eller frustrasjonen aukar. Legg prosjektet på ein trygg stad, og tilby noko kvilande. Du kan kome attende til det i morgon, eller aldri. Begge delar er greitt.
 
-## Display the work, if the person wants
+## Vis fram arbeidet, om personen ønskjer det
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Å feste eit måleri på kjøleskapet eller rame inn ein collage kan vere ein stille måte å vise respekt på. Spør først. Nokon elskar å sjå arbeidet sitt på veggen; andre heller ikkje.
 
-## Pair art with our games
+## Kombiner kunst med spela våre
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Dagar då det er for mykje å setje fram maling, fungerer [Fargelegging](/games/coloring/) på nettbrett utan søl. [Biletpuslespel](/games/picture-puzzle/) held heile biletet synleg som ein rettesnor medan du byter brikker. [Samtalekort](/games/conversation-cards/) har opne spørsmål som kan føre frå eit bilete til ei historie. Ingen av dei har tidsur eller poeng. Du kan òg skrive ut sider frå samlinga vår av [utskrivbare aktivitetar](/activities/printable/).

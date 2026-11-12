@@ -1,33 +1,32 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Grupu aktivitātes demencei: ceļvedis aprūpes namiem un dienas programmām"
+seoTitle: "Grupu aktivitātes demencei: bingo, dziesmas, stāsti"
+description: "Grupu aktivitātes atmiņas aprūpē, aprūpes namos un dienas programmās: attēlu bingo, kopīgas dziedāšanas un atmiņu grupas, kā arī padomi par vietām un grupas lielumu."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Labas grupu aktivitātes atmiņas aprūpē un dienas programmās ir īsas, pazīstamas
+  un viegli pievienojamas jebkurā līmenī: attēlu bingo, kopīgas dziedāšanas,
+  atmiņu aplis, vienkārša kustība un kopīgas vārdu spēles. Turiet grupas mazas,
+  kur iespējams, sēdiniet cilvēkus tā, lai visi redz un dzird, dodiet vienu skaidru
+  soli vienlaikus un ieplānojiet vieglāku lomu un klusu izeju cilvēkiem, kuriem tā nepieciešama.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Mazākas grupas bieži darbojas labāk nekā viens liels pasākums, un tajās vairāk cilvēku var aktīvi piedalīties, nevis tikai skatīties."
+  - "Sēdiniet cilvēkus aplī vai pusapaļā formā, netālu no vadītāja, ņemot vērā dzirdi un redzi, un izslēdziet fona troksni."
+  - "Ieplānojiet katru aktivitāti divos vai trijos līmeņos, lai cilvēki ar dažādām spējām var visi piedalīties."
+  - "Izvairieties no viktorīnām, punktiem un uzvarētājiem. Attēlu bingo var spēlēt tā, lai visiem kārts beigās būtu pilna."
+  - "Aiziet agri, skatīties vai aizmigt ir normāli. Ir jābūt darbiniekam, kas gatavs palīdzēt tiem, kuri vēlas klusāku vietu."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Kāds ir labs grupas lielums demences aktivitātēm?"
+    a: "Nav viena pareiza skaita; tas atkarīgs no iemītniekiem, telpas un tā, cik darbinieku jums ir. Daudzas komandas uzskata, ka mazas grupas ļauj visiem redzēt, dzirdēt un piedalīties, bet lielos pasākumos vairāk cilvēku parasti tikai skatās. Ja rīkojat lielu pasākumu, pievienojiet darbiniekus vai brīvprātīgos, kas var sēdēt starp iemītniekiem un palīdzēt katram vienam vai diviem."
+  - q: "Kā vadīt grupu ar dažādām spējām?"
+    a: "Plānojiet vairāk kā vienu veidu, kā pievienoties katrai aktivitātei. Dziedāšanā daži dzied katru vārdu, citi plaukšķina vai murmina, bet daži tur šķūnīti. Attēlu bingo daži paši atrod savas bildes, bet citiem palīgs rāda ar pirkstu. Cilvēkus, kam nepieciešams vairāk palīdzības, sēdiniet blakus darbiniekam vai brīvprātīgajam."
+  - q: "Kā spēlēt attēlu bingo bez konkurences?"
+    a: "Sauciet katru attēlu, līdz visu kārts ir pilnas, lai neviens nepaliek malā. Runājiet par katru attēlu, kad tas parādās, un izlaidiet balvas uzvarētājiem vai dodiet visiem vienādu nelielu gardumu. Mērķis ir kopīga uzmanība un saruna, nevis tas, kurš pirmais pabeidz."
+  - q: "Vai varu izmantot jūsu spēles lielā ekrānā grupai?"
+    a: "Jā. Mūsu spēles darbojas tīmekļa pārlūkprogrammā, tāpēc tās var atvērt klēpjdatorā vai planšetdatorā, kas savienots ar televizoru vai projektoru. Attēlu bingo ietver izdrukājamas kārtis un ekrānā redzamu vadītāju. Pabeidz teicienu un Attēlu pāri labi darbojas arī lielā ekrānā, kad viens cilvēks pieskaras grupas vārdā."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +51,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Šis ceļvedis ir paredzēts aktivitāšu vadītājiem, atmiņas aprūpes komandām un vadītājiem dienas programmās pieaugušajiem. Tajā aplūkoti grupu formāti, kas darbojas, telpas iekārtojums, vienas aktivitātes pielāgošana dažādām spējām, kā arī mūsu izdrukājamo bingo kāršu un lielajiem ekrāna spēļu izmantošana. Viss šeit ir vērsts uz komfortu, saikni un izvēli. Nekas šeit nav tests.
 
-## What makes a group activity work in memory care?
+## Kas padara grupu aktivitāti veiksmīgu atmiņas aprūpē?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Laba grupu aktivitāte ir pazīstama, īsa, viegli pievienojama jebkurā līmenī un bez spiediena. Alcheimera asociācijas [Demences aprūpes prakses ieteikumi](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) apraksta jēgpilnu iesaistīšanos kā kaut ko, kas atbalsta cilvēka intereses un vēlmes un ļauj izvēli un panākumus pat tad, ja demence ir visspēcīgākā. Tas pats dokuments norāda, ka tradicionālās programmas bieži balstās uz vienu vai divām lielām grupu aktivitātēm dienā, kurās iemītnieki bieži vien tikai pasīvi piedalās.
 
-That points to a few practical rules:
+Tas norāda uz dažiem praktiskiem noteikumiem:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Pazīstams ir labāks par jaunu.** Dziesmas, teicieni, attēli un priekšmeti no iemītnieku jaunības ir vieglāk pievienojami.
+- **Īss ir labāks par garu.** Plānojiet aptuveni tik ilgu, cik jūsu grupa parasti spēj koncentrēties, ar dabisku apstāšanās vietu pa vidu.
+- **Darīšana ir labāka par skatīšanos.** Dodiet katram kaut ko turēt, pieskarties, izvēlēties vai pateikt.
+- **Daudz līmeņu, viena aktivitāte.** Iekļaujiet vieglākus un grūtākus veidus, kā piedalīties.
+- **Nav uzvarētāju, nav punktu.** Konkurences formāti liek dažiem justies neveiksmīgiem.
 
-## How big should the group be?
+## Cik liela būt grupai?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Mazāka parasti ir vieglāk. Alcheimera asociācija norāda, ka cilvēks, kuram liels sapulcējums šķiet pārslogojošs, var labāk iesaistīties mazākā grupā. Nav viena pareiza skaita. Tas atkarīgs no iemītniekiem, telpas un tā, cik darbinieku un brīvprātīgo ir pieejams.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+Noderīgs tests: vai katrs cilvēks var redzēt vadītāja seju, skaidri dzirdēt un pēc dažām sekundēm sasniegt palīgu? Ja nē, sadaliet grupu, pievienojiet palīgus vai pārejiet uz mazāku telpu.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Lielam pasākumam, piemēram, svētku koncertam, sēdiniet darbiniekus un brīvprātīgos starp iemītniekiem, nevis gar sienām.
 
-## How should I set up the room and seating?
+## Kā iekārtot telpu un sēdvietas?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Aplis vai pusapaļa forma.** Prakses ieteikumi apraksta dalīšanās apli kā labāko risinājumu telpā, kur visi var sēdēt aplī bez fona trokšņa.
+- **Vadītājs tuvu un acu līmenī.** Sēdiet, nevis stāviet, ja varat.
+- **Dzirde un redze pirmajā vietā.** Sēdiniet cilvēkus ar dzirdes zudumu tuvāk vadītājam, uz labāko ausi. Pārbaudiet, vai brilles un dzirdes aparāti ir uzlikti. Alcheimera asociācija norāda, ka redzes un dzirdes problēmas var padarīt saziņu grūtāku.
+- **Gaisma aiz iemītniekiem, nevis aiz jums.** Nesēdiniet nevienu ar seju pret spilgtu logu.
+- **Izslēdziet televizoru un radio.** Alcheimera asociācija iesaka mūzikas aktivitāšu laikā novērst konkurējošu troksni.
+- **Viena saruna vienlaikus.** Krustojošas sarunas ir grūtas cilvēkiem ar demenci un cilvēkiem ar dzirdes zudumu, kā Alcheimera asociācija norāda savos [svētku norādījumos](https://www.alz.org/help-support/caregiving/holidays).
+- **Skaidras izejas un kluss stūris.** Ikvienam, kurš vēlas aiziet, jābūt iespējai to izdarīt viegli, un jābūt darbiniekam, kas var aiziet kopā.
 
-## Group activity ideas
+## Grupu aktivitāšu idejas
 
-### Picture bingo
+### Attēlu bingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Attēlu bingo aizstāj ciparus ar skaidriem attēliem, piemēram, tējkannu, suni vai rozi, tāpēc neviens nav spiests sekot garam skaitļu sarakstam vai lasīt sīku drukātu tekstu.
 
-**How to run it:**
+**Kā to vadīt:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Izdrukājiet vienu karti katram cilvēkam no mūsu [Attēlu bingo](/games/picture-bingo/) lapas, izmantojot pogu Drukāt. Biezs papīrs ir vieglāk lietojams. Laminējiet atkārtotai lietošanai.
+2. Izdaliet lielus, viegli paņemamus marķierus, piemēram, pokera žetonus, pudeļu vāciņus vai izgrieztus kartona kvadrātus.
+3. Izmantojiet ekrānā redzamo vadītāju uz televizora vai projektora, lai visi redz attēlu, kad nosaucat tā nosaukumu.
+4. Pārtrauciet pēc katra attēla un aicinājiet īsu komentāru: „Vai kāds gribētu pastāstīt par suni, ko pazina?“ vai „Ko jūs pamanāt šajā?“
+5. Sauciet, līdz katra karte ir pilna. Visi pabeidz.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Pielāgošana:** Izmantojiet mazāk kvadrātu cilvēkiem, kam pilna karte šķiet pārāk sarežģīta. Palīgs var norādīt uz atbilstošo attēlu cilvēkam, kam tas nepieciešams. Daži cilvēki var dot priekšroku turēt vadītāja attēla kārti un rādīt to grupai.
 
-### Sing-alongs
+### Kopīgas dziedāšanas
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Mūzika ir viena no visplašāk baudītajām grupu aktivitātēm. Alcheimera asociācija norāda, ka pat vēlīnā stadijā cilvēks var spēt [sist ritmu vai dziedāt dziesmu no bērnības](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Kā to vadīt:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Izvēlieties dziesmas, ar kurām iemītnieki auga, nevis vadītāja mīļākās. Jautājiet ģimenēm, ko katrs cilvēks mīlējis.
+- Izmantojiet mūziku bez reklāmām, kuras Alcheimera asociācija norāda kā iespējami mulsinošas.
+- Drukājiet dziesmu vārdus lielā drukā tiem, kas lasa, bet nepieprasiet to.
+- Piedāvājiet šķūnīšus, rokas bungas vai šalles, ko vēzēt.
+- Iedrošiniet plaukšķināšanu un kustības, un turiet skaļumu ērtā līmenī.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Pielāgošana:** Daži dziedās katru vārdu, daži murminās, daži sitīs kāju ritmā, un daži vienkārši klausīsies. Visi šie veidi ir skaitāmi. Papildus skatiet mūsu [mūzikas aktivitāšu ceļvedi](/activities/music/).
 
-### Reminiscence groups
+### Atmiņu grupas
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Atmiņu grupa pulcējas ap tēmu, piemēram, skolas gadiem, pirmajām automašīnām, virtuvēm vai vasaru, izmantojot fotogrāfijas, priekšmetus un mūziku. Mērķis ir patīkama saruna, nevis precīza atcerēšanās.
 
-**How to run it:**
+**Kā to vadīt:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Izvēlieties vienu tēmu un atnesiet dažus priekšmetus, ko cilvēki var turēt: rokas mikseri, beisbola cimdu, cepuri, sēklu katalogu.
+2. Dodiet vienu priekšmetu vienlaikus. Uzdodiet atvērtus jautājumus: „Pastāstiet par šo,“ „Ko jūs pamanāt?“ „Kas to lietoja?“
+3. Priecājieties par katru atbildi. Nekad nelabojiet datumu vai faktu.
+4. Virziet sarunu uz siltām atmiņām. Prakses ieteikumi norāda, ka aprūpētājiem atmiņu sarunas jāvirza uz pozitīvām atmiņām, nevis tādām, kas var radīt satraukumu.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Sarunu kartītes](/games/conversation-cards/) piedāvā izdrukājamas attēlu kartītes ar atvērtiem jautājumiem pēc tēmām, kas labi darbojas kā sarunas sākums. Vairāk ideju ir mūsu [atmiņu ceļvedī](/activities/reminiscence/).
 
-### Finish the saying
+### Pabeidz teicienu
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Pazīstami teicieni („Viens zīlītis vēl nepavasari…“) aicina visus kopā iesaukties teicienu beigas. Parādiet [Pabeidz teicienu](/games/finish-the-saying/) uz lielā ekrāna un ļaujiet grupai atbildēt vienā balsī. Pēc katra teiciena ir runas aicinājums. Ja neviens nepasaka beigas, parādiet tās un virzieties tālāk. Nav pareizas vai nepareizas atbildes.
 
-### Large-print word search, together
+### Lielas drukas vārdu meklēšana kopā
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projicējiet lielas drukas [Vārdu meklēšanu](/games/word-search/) uz ekrāna un meklējiet vārdus kā grupa vai izdrukājiet kopijas tiem, kas labprāt strādā paši pie galda. Vārdi ir tikai horizontāli un vertikāli.
 
-### Gentle movement
+### Maiga kustība
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sēdus stiepšanās, mīksta bumbiņa vai balona nodošana citam citam vai krēslu deja pie pazīstamas mūzikas. Parādiet katru kustību, nevis tikai aprakstiet to.
 
-### Sorting and matching at the table
+### Kārtošana un saskaņošana pie galda
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Nelieli galdi ar trim līdz četriem cilvēkiem var kopā sašķirot attēlus, auduma paraugus vai galda piederumus. Ekrānā [Attēlu pāri](/games/picture-pairs/) var spēlēt ar attēliem, kas paliek redzami, un viens cilvēks pieskaras, kamēr galds runā par katru attēlu.
 
-## How do I use your games on a big screen?
+## Kā izmantot mūsu spēles lielā ekrānā?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Mūsu spēles darbojas tīmekļa pārlūkprogrammā, tāpēc tās var izmantot televizorā vai projektorā, neko neinstalējot.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Atveriet spēli klēpjdatorā vai planšetdatorā, kas savienots ar ekrānu ar kabeli vai ekrāna pārraidi.
+2. Ieslēdziet pārlūkprogrammas pilnekrāna režīmu un iestatiet skaņu ērtā līmenī.
+3. Lai viens vadītājs pieskaras, kamēr grupa sauc izvēles. Vai nododiet planšeti iemītniekam, kas vēlas savu kārtu.
+4. Apstājieties, kad grupa ir gatava. Spēlēs nav taimera, punktu vai piespiedu beigu.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Attēlu bingo](/games/picture-bingo/), [Pabeidz teicienu](/games/finish-the-saying/), [Attēlu pāri](/games/picture-pairs/) un [Sarunu kartītes](/games/conversation-cards/) parasti labi der grupām. Visas iespējas skatiet mūsu [spēļu lapā](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Kā pielāgot vienu aktivitāti dažādām spējām?
 
-Plan at least three ways to join every activity.
+Plānojiet vismaz trīs veidus, kā pievienoties katrai aktivitātei.
 
-| Activity | More independent | Some support | Most support |
+| Aktivitāte | Neatkarīgāk | Ar kādu atbalstu | Ar lielāku atbalstu |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Attēlu bingo | Atrod un pārklāj savas bildes | Palīgs rāda ar pirkstu; cilvēks pārklāj | Tur attēla kārti; klausās un vēro |
+| Dziedāšana | Dzied, izvēlas nākamo dziesmu | Murmina, plaukšķina, lieto šķūnīti | Klausās, tur šalli, pieskaras rokai ar ritmu |
+| Atmiņas | Stāsta stāstus | Atbild jā vai nē vai rāda ar pirkstu | Tur un sajūt priekšmetu |
+| Vārdu meklēšana | Strādā ar savu izdrukāto kopiju | Atrod vārdus lielajā ekrānā ar palīgu | Klausās, kamēr vārdus lasa skaļi |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Vēlākajās stadijās cilvēkiem NHS norāda, ka aktivitātēm parasti jābūt vienkāršākām un vairāk jākoncentrējas uz maņām, piemēram, mūziku, priekšmetiem, ko pieskarties, un roku masāžu. Iespējams, viņiem labāk noderēs viens pret vienu brīdis grupas laikā vai pēc tās, nevis pati grupa. Skatiet [vēlīnās stadijas aktivitātes](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Kā vadītājam runāt grupas laikā?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Katru reizi prezentējieties un izmantojiet katra cilvēka vēlamo vārdu.
+- Runājiet lēni, dodiet vienu soli vienlaikus un parādiet, pirms stāstāt.
+- Uzdodiet atvērtus uzaicinājumus („Pastāsti man par…“) vai vienkāršas izvēles, nevis viktorīnas jautājumus („Vai atceries…?“).
+- Nelabojiet. Pateicieties par katru ieguldījumu.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Vairāk par to ir mūsu [sarunu padomos](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Kā beigt labi un ļaut cilvēkiem aiziet?
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Apstāšanās ir labs rezultāts. Pievērsiet uzmanību pazīmēm, ka kāds ir noguris, nemierīgs vai satraukts, un palīgs var piedāvāt pastaigu vai klusu vietu citur. Ja kāds aizmieg dziedāšanas laikā, viņam var vienkārši būt ērti.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Beidziet katru grupu vienmēr vienādi: ar pazīstamu dziesmu vai vienkāršu pateicību, lai noslēgums šķistu mierīgs un paredzams. Pēc tam pierakstiet, kas noritēja labi un kam kas patika. Šīs piezīmes padara nākamo nodarbību labāku.

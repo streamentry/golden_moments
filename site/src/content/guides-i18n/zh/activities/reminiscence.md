@@ -1,32 +1,28 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "回忆活动：记忆盒、生平故事与照片"
+seoTitle: "失智症回忆活动：不考问的点子"
+description: "如何与失智症患者分享回忆而不考问：谈论照片、记忆盒和生平故事册，以及让气氛轻松的说法。"
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  回忆，就是一起享受过去的时光，通过照片、物品、音乐和故事来进行。可以制作一个记忆盒，编一本简单的生平故事册，或者并排看照片。千万不要考问：避免“你还记得吗？”和“这是谁？”，改用开放的邀请，例如“跟我说说这个。”温暖的交谈，比把每个事实说对更重要。
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "回忆是一场交谈，不是测验。准确与否不重要，愉快才重要。"
+  - "把“你还记得……吗？”和“这是谁？”换成评论和邀请，例如“跟我说说那一天。”"
+  - "一个装着对方生活物件的记忆盒，让双手和谈话都有可以拿在手上的东西。"
+  - "生平故事册能帮助家人、探访者和照护人员认识这个人，而不只是认识他的诊断。"
+  - "如果某段回忆带来悲伤，先安慰，然后温和地转向别的事情。"
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "失智症患者的回忆是什么？"
+    a: "回忆就是分享过去的记忆和经历，通常借助照片、物品、音乐或录像。可以一对一进行，也可以在小组中进行。目的是一场愉快、有意义的交谈，而不是测试对方记得多少。"
+  - q: "为什么不应该问“你还记得吗？”"
+    a: "考验记忆的问题，可能让人在答不上来时感到尴尬或焦虑。美国国家老龄研究所把询问对方是否记得某件事或某个人，列为应避免的做法。不如评论您看到的东西，并让对方按自己的想法加入。"
+  - q: "记忆盒里应该放什么？"
+    a: "选择安全、结实、与对方生活有关的物件：工作用品、爱好的器材、一条喜欢的围巾、明信片、食谱卡、运动纪念品，或照片的复印件。避免锋利的物品、可能被吞下的小东西，以及无法替代的原件。"
+  - q: "如果对方说错了事实，怎么办？"
+    a: "就由他去。如果妈妈说照片里是她的姐姐，而其实是她的表姐，也没有关系。纠正会把一个温暖的时刻变成考试。跟随对方讲的故事，一起享受。"
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +37,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+回忆，简单来说，就是一起享受过去的时光。对许多与失智症共同生活的人来说，几十年前的记忆，往往比今天早上发生的事情更清楚。照片、熟悉的物品、音乐和故事，可以打开这些记忆，并带给您们一些温暖的话题。唯一的原则是：这是一场交谈，永远不是考试。
 
-## What is reminiscence, and how is it different from quizzing?
+## 什么是回忆？它与考问有什么不同？
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+回忆，是借助照片、物品、音乐或录像，按照对方自己的节奏，分享过去的记忆。[英国国民保健服务（NHS）](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)把它描述为：借助照片、物品、录像或音乐，以书本或平板的形式，分享过去的经历和故事。考问则不同：它要求对方说出一个“正确答案”，这可能带来尴尬，而不是愉快。
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has)把询问对方是否记得某件事或某个人，列为应避免的做法。[家庭照护者联盟](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)建议避免依赖短期记忆的问题，改为谈论较久远的过去。
 
-| Instead of | Try |
+| 不要这样说 | 可以这样说 |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| “你还记得这个吗？” | “这看起来是个开心的日子，跟我说说吧。” |
+| “这是谁？” | “这是在海滩上的罗斯阿姨，看那顶帽子。” |
+| “这是哪一年？” | “这看起来是老房子。住在那里是什么感觉？” |
+| “不对，那不是比尔，是弗兰克。” | “他看起来很有趣。” |
+| “你已经跟我说过这个了。” | “我很喜欢这个故事。” |
 
-## How do you talk about photos without quizzing?
+## 怎样谈论照片而不是考问？
 
-Lead with what you see, then leave room for the person to add something if they wish.
+先从您看到的东西说起，然后给对方留出空间，如果他愿意，可以加入自己的想法。
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **并排坐下。** 把相册放在您们中间，一起看，而不是隔着桌子考试。
+2. **挑几张照片。** 五张好照片，胜过整盒的照片。大幅、清晰的照片效果最好。
+3. **由您先说出人名。** “这是你和爸爸在婚礼那天的照片。”这样可以减轻对方的压力。
+4. **评论细节。** 衣服、汽车、食物、天气、脸孔。“好漂亮的车，看起来很亮。”
+5. **邀请，而不是要求。** “跟我说说……”或“你注意到什么？”沉默也没有关系。
+6. **跟随对方的引导。** 如果他完全转到别的话题，就顺着他去。
+7. **在愉快时停下来。** 在疲倦出现之前，把相册合上。
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+如需现成的图片提示，可以试试[对话卡片](/games/conversation-cards/)。如果想把自己的家庭照片变成一个温和的配对游戏，可以试试[照片配对](/games/photo-pairs/)；您选的照片会保存在您的浏览器中。
 
-## How do you make a memory box?
+## 怎样制作记忆盒？
 
-A memory box is a container of objects from the person's life to handle and talk about.
+记忆盒是一个装着对方生活物件的容器，让人可以拿在手上，并一起谈论。
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **选一个结实的盒子，** 便于打开，例如鞋盒、帽盒或一个小木箱。
+2. **选择一个主题或混合的内容。** 工作、爱好、一个地方、某个十年，或各种东西都放一点。
+3. **收集安全的物件。** 开始时五到十件就足够了。
+4. **用珍贵物品的复印件。** 无法替代的照片和文件，复印后保管好原件。
+5. **一次只拿出一件物品。** 交给对方，说一说它，然后看谈话会引向哪里。
 
-Ideas to include:
+可以放进去的东西：
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **工作：** 名牌、一把小工具、制服上的徽章、一本账簿、护士的胸针、餐馆的食谱书。
+- **家庭：** 对方笔迹写的食谱卡、一条茶巾、一条喜欢的围巾或领带。
+- **爱好：** 一个没有钩子的钓鱼饵、一个棒球、一团毛线、一包种子。
+- **地方：** 明信片、地图、旅游纪念品、家乡报纸的剪报。
+- **家人：** 照片的复印件、孩子的画、一张婚礼请柬。
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+避免放入锋利的物品、可能被吞下的小东西，以及任何可能勾起痛苦回忆的东西，除非您确定对方乐于接受。
 
-## How do you make a life-story book?
+## 怎样制作生平故事册？
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+生平故事册，是一本简单的相册，附有对方生活的照片和简短说明。它是可以一起翻看的东西，也能帮助探访者和照护人员看到这个人的全貌。
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **选择形式。** 一个装有透明保护套的活页夹、一本印刷的相册，或平板上的幻灯片。
+2. **规划几个部分。** 童年、学校、工作、家庭、住过的地方、信仰、爱好、喜欢的食物和音乐。
+3. **每页放一到两张照片，** 配上简短、大字的说明：“玛丽，二十二岁，开始在银行工作。”
+4. **加入喜好和日常习惯。** “喜欢加牛奶的咖啡。喜欢周日的赞美诗。不喜欢很吵的电视。”这能帮助所有照顾他的人。
+5. **让对方参与，** 参与的程度由他决定：挑选照片、讲述故事，或只是看着它慢慢成形。
+6. **不断补充。** 不必等它完成才有用。
 
-## More reminiscence ideas
+## 更多回忆点子
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **播放他年轻时的音乐，** 并谈谈它带他去了哪里。参见[音乐活动](/activities/music/)。
+- **观看家庭录影或他喜爱年代的电视节目。**
+- **做一道童年的菜，** 让气味引出话题。
+- **看一张家乡的地图，** 指出熟悉的街道。
+- **翻看旧目录或杂志，** 谈谈价格、时尚和汽车。
+- **在征得同意后，用手机录下他的故事，** 留给家人。
+- **在视频通话时分享。** 通话时举起一张照片。参见[电话与视频通话](/activities/phone-and-video-calls/)。
+- **探访时带上一张照片或一件物品。** 它能让探访有一个容易的焦点。参见[探访](/activities/visiting/)。
 
-## What if a memory is painful?
+## 如果某段回忆令人痛苦怎么办？
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+有些回忆会带来悲伤、遗憾或恐惧。如果对方变得不安，请停下来，安慰他，然后温和地转换话题或活动。不要争论曾经发生过什么。家庭照护者联盟建议不要试图说服对方他错了，而是回应他表现出的感受，这些感受是真实的。如果他谈起一个已经去世的人，仿佛对方还活着，就回应那份感受：“你很想念她。跟我说说她吧。”
 
-## What does the research say?
+## 研究对此说了什么？
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+[Cochrane 对回忆疗法的系统综述](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia)涵盖22项试验、1,972人，发现其效果并不一致，而且很小，并且因环境和形式而异。它没有发现对失智症患者有伤害的证据。我们之所以推荐回忆，是因为它能带来温暖、有意义的相处时光，而不是作为治疗。想了解更多轻松的交谈方式，请参阅[沟通技巧](/caregiving/communication-tips/)。

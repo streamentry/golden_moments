@@ -1,33 +1,28 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Sensorās aktivitātes cilvēkiem ar demenci"
+seoTitle: "Sensorās aktivitātes demencei: idejas un drošība"
+description: "Sensorās aktivitātes demencei: no roku masāžas līdz audumu grozam un dabas skaņām, ar drošības padomiem par aizrīšanos, alerģijām un smaržām."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Sensorās aktivitātes izmanto tausti, ožu, garšu, skaņu un redzi: lēna roku masāža, grozs ar mīkstiem audumiem, svaigi garšaugi ostīšanai, dabas skaņas vai putnu vērošana pie loga. Tās der katrā stadijā un ir īpaši vērtīgas vēlāk. Pirms sākat, pārbaudiet aizrīšanās riskus, alerģijas, ādas problēmas un jutīgumu pret smaržām, piedāvājiet vienu lietu vienlaikus un apstājieties, ja cilvēks šķiet nemierīgs.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Sensorajām aktivitātēm nav pareizu atbilžu, tāpēc tās der katrā stadijā, arī gultā vai krēslā."
+  - "Piedāvājiet vienu maņu vienlaikus klusā telpā un pirms aizskaršanas jautājiet vai pasakiet priekšā."
+  - "Izvairieties no sīkiem priekšmetiem un visa, kas izskatās vai smaržo pēc ēdiena, bet ēdiens nav, jo cilvēki var likt lietas mutē."
+  - "Pirms losjonu, smaržu vai ēdienu lietošanas pārbaudiet alerģijas, ādas problēmas un elpošanas grūtības."
+  - "Nav pārliecinošu pierādījumu, ka aromterapija palīdz demences simptomiem; izmantojiet smaržas tikai vienkāršai baudai, ja vispār."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Kādas sensorās aktivitātes ir labas cilvēkam ar demenci?"
+    a: "Vienkāršas idejas ir lēna roku masāža ar losjonu, mīksto audumu aptaustīšana, svaigu garšaugu vai kafijas ostīšana, mīļas mūzikas vai dabas skaņu klausīšanās, putnu vai akvārija vērošana un iecienīta ēdiena nogaršošana drošā konsistencē. Piedāvājiet vienu lietu vienlaikus un vērojiet, kā cilvēks reaģē."
+  - q: "Vai sensorās aktivitātes ir drošas cilvēkam, kas liek lietas mutē?"
+    a: "Tās var būt drošas, ja rīkojaties uzmanīgi. Izmantojiet tikai lielus priekšmetus, ko nevar norīt, izlaidiet visu sīko vai trauslo un pēc tam turiet losjonus, ziepes un smaržotus produktus tālu, jo tie var izskatīties vai smaržot pēc ēdiena. Visu laiku paliciet kopā ar cilvēku."
+  - q: "Vai aromterapija palīdz demencei?"
+    a: "Cochrane pārskats nav atradis pārliecinošu pierādījumu, ka aromterapija palīdz cilvēkiem ar demenci, lai gan pētījumi bija nelieli un nekonsekventi. Ja cilvēkam patīk maiga, pazīstama smarža, tas ir labi, bet izvairieties no spēcīgām ēteriskajām eļļām, īpaši, ja ir elpošanas problēmas vai alerģijas."
+  - q: "Kas ir aktivitāšu priekšauts?"
+    a: "Tas ir auduma gabals, priekšauts vai segas gabals, uz kura stingri piešūti priekšmeti, ko var aptaustīt, piemēram, lielas pogas, rāvējslēdzēji, lentes un strukturēti plāksteri. Tas dod aktīvām rokām ko izpētīt. Bieži pārbaudiet, vai nekas nav atlaidies un to varētu noraut."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +43,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Sensorās aktivitātes izmanto piecas maņas: tausti, ožu, garšu, skaņu un redzi. Tām nav vajadzīga atmiņa, soļi vai pareizas atbildes, tāpēc tās var darboties jebkurā stadijā. Visvairāk tās noder vēlāk. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) norāda, ka vēlajā stadijā pasaule tiek piedzīvota galvenokārt caur maņām un ka rūpes var parādīt ar tausti, skaņu, redzi, garšu un smaržu. Dažas drošības pārbaudes padara šīs aktivitātes patīkamas ikvienam.
 
-## What are sensory activities for dementia?
+## Kas ir sensorās aktivitātes demencei?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Sensorās aktivitātes ir vienkāršas pieredzes, kas balstītas uz vienu maņu vienlaikus, piemēram, auduma sajūta, garšaugu ostīšana vai lietus klausīšanās. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) norāda, ka vēlākās stadijas aktivitātes bieži jāveido ap maņām, un min mūziku, priekšmetus, ko aptaustīt un turēt, un roku masāžu. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) atzīmē, ka cilvēkam vēlajā stadijā var būt spēcīga vajadzība kaut ko turēt tuvu sev mierinājumam.
 
-## Sensory ideas, sense by sense
+## Sensorās idejas pa maņām
 
-### Touch
+### Tauste
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Roku masāža.** Iesildiet nedaudz losjona rokās un lēni glaudiet no plaukstas līdz pirkstu galiem. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) min masāžu ar nesmaržojošu losjonu mierinājumam.
+- **Auduma grozs.** Lieli velveta, kordrāma, flīsa, atlasa un vilnas gabali, ko glaudīt, salocīt un par ko runāt.
+- **Silta drāniņa.** Silta, mitra drāniņa rokām aukstā dienā. Vispirms pārbaudiet temperatūru uz sava plaukstas locītavas.
+- **Aktivitāšu priekšauts vai segas.** Lielas pogas, rāvējslēdzēji, lentes un strukturēti plāksteri, kas stingri piešūti.
+- **Salocīšana un izlīdzināšana.** Tīru drāniņu vai salvešu grozs, ko salocīt, sakraut un salocīt atkal.
+- **Kaut kas mīksts, ko turēt.** Flīsa sega, spilvens vai reālistisks mīksts dzīvnieks, piedāvāts vienkārši, nekad kā rotaļlieta.
 
-### Smell
+### Oža
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Svaigi garšaugi.** Berziet mētras, rozmarīna, baziliku vai lavandas lapas starp pirkstiem un pabāziet tās garām.
+- **Virtuves smaržas.** Kafijas pagatavošana, maizes tostēšana, kanēlis vai apelsīna mizošana tuvumā.
+- **Ziedi.** Atnesiet dažus svaigus ziedus no dārza vai veikala.
+- **Pazīstams produkts.** Ziepes vai losjons, ko viņš vienmēr lietoja, ja āda to panes.
 
-### Taste
+### Garša
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Iecienīta garša.** Maza karote kaut kā mīļa, piemēram, ābolu biezeņa, pudiņa vai saldējuma, drošā konsistencē, ko var droši norīt.
+- **Palīdzība ar cepšanu.** Garšojiet augli vai nedaudz glazūras, kamēr kopā cepat.
+- **Sezonas gardumi.** Arbūzs vasarā, silts sidrs rudenī, pasniegts drošā temperatūrā.
 
-### Sound
+### Skaņa
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Mīļa mūzika.** Pazīstamas dziesmas maigā skaļumā; skatiet [mūzikas aktivitātes](/activities/music/).
+- **Dabas skaņas.** Lietus, viļņi vai putnu dziedāšana. NIA atzīmē, ka mūzika, baltais troksnis un dabas skaņas dažiem cilvēkiem šķiet nomierinošas.
+- **Jūsu balss.** Lasīšana priekšā, ņurdēšana vai stāsta stāstīšana.
+- **Vienkārši instrumenti.** Rokas bungas, šķīlētājs vai zvaniņš, ko spēlēt līdzi mūzikai.
 
-### Sight
+### Redze
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Vērošana pie loga.** Putnu barotava ārpus loga, bērni, kas iet mājās, vai krītošs sniegs.
+- **Akvārijs vai lēns video.** Maiga kustība bez skaļas skaņas.
+- **Lielas fotogrāfijas.** Viens skaidrs attēls vienlaikus, turēts acu augstumā.
+- **Krāsa un raksts.** Spilgtu audumu gabalu, ziedu vai krāsainu salvešu kārtošana vai vienkārša krāsojamā lapa no mūsu [krāsošanas](/games/coloring/) kolekcijas.
+- **Ārā.** NHS iesaka sensorus dārzus ar smaržīgiem augiem, faktūrām un ūdens elementiem. Skatiet [āra un dārzkopības aktivitātes](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Kā izveidot sensoro kasti
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Izvēlieties tēmu,** kas saistīta ar cilvēka dzīvi: pludmale, dārzs, virtuve, darbnīca, šūšana.
+2. **Izvēlieties piecus vai sešus lielus, drošus priekšmetus,** piemēram, lielu jūras gliemežvāku, koka karoti, mīkstu šalli, sausas lavandas maisiņu, kas aizšūts ciet, vai gludu koka bluķīti.
+3. **Pārbaudiet katru priekšmetu** uz sīkām daļām, asām malām, vaļīgiem diegiem un visu, kas var saplīst.
+4. **Izņemiet pa vienam.** Pasniedziet, aprakstiet un ļaujiet cilvēkam izpētīt.
+5. **Pēc tam novietojiet kasti prom,** lai tā paliek īpaša, un priekšmeti tiek pārbaudīti atkal pirms nākamās reizes.
 
-## Safety first
+## Vispirms drošība
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Sensorās aktivitātes ir maigas, taču daži riski ir svarīgi. Daži cilvēki ar demenci var nepareizi uztvert priekšmetus, kas nav ēdiens, kā ēdienu, un rīšana laika gaitā var kļūt grūtāka. NIA brīdina, ka vēlākās stadijas rīšanas problēmas palielina aizrīšanās risku.
 
-| Risk | What to do |
+| Risks | Ko darīt |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Aizrīšanās | Izmantojiet tikai priekšmetus, kas ir pārāk lieli, lai tos norītu. Kastē nelieciet pogas, pērles, monētas, marmora lodītes vai mazas rotaļlietas. Piedāvājiet ēdienu tikai konsistencēs, ko aprūpes komanda uzskata par drošām. |
+| Lietas, kas izskatās pēc ēdiena | NIA iesaka noslēgt losjonus, ziepes, šampūnus un parfīmu, kas var izskatīties vai smaržot pēc ēdiena, un noņemt mākslīgos augļus. Pēc lietošanas noliciet sensorus produktus prom. |
+| Alerģijas | Pirms sākat, pārbaudiet alerģijas pret riekstiem, lateksu, vilnu, augiem vai smaržvielām. |
+| Spēcīgas smaržas | Izvairieties no spēcīgiem parfīmiem un ēteriskajām eļļām, īpaši, ja ir astma vai citas elpošanas problēmas. Maigas, dabiskas smaržas ir drošākas. |
+| Āda | Pirms masāžas pārbaudiet, vai āda nav sāpīga, bojāta vai trausla. Lietojiet maigu spiedienu un apstājieties, ja cilvēks saraujas. |
+| Temperatūra | Vispirms pārbaudiet siltas drāniņas un dzērienus uz sava plaukstas locītavas. |
+| Asi vai toksiski priekšmeti | Nekādu asu instrumentu, stikla vai toksisku rokdarbu materiālu. |
 
-## Does aromatherapy help?
+## Vai aromterapija palīdz?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Iespējams, nē izmērāmā veidā. [Cochrane pārskats par aromterapiju demencei](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) apskatīja 13 pētījumus ar 708 cilvēkiem, visi aprūpes namos, un neatrada pārliecinošu pierādījumu par ieguvumu. Pētījumi bija nelieli, rezultāti nesakrita un blakusparādības bija slikti aprakstītas. Ja cilvēkam patīk maiga, pazīstama smarža, piemēram, lavanda no dārza, tas ir labs iemesls to dalīt. Tā nav ārstēšana.
 
-## How to offer a sensory activity
+## Kā piedāvāt sensoru aktivitāti?
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Izvēlieties klusu brīdi** un izslēdziet televizoru.
+- **Tuvojieties no priekšpuses,** sauciet viņa vārdu un jautājiet vai pasakiet, pirms aizskarat: „Man ir losjons. Vai gribētu, ka saberzu jums rokas?”
+- **Piedāvājiet vienu lietu vienlaikus,** lai tas nepārņem.
+- **Vērojiet reakciju.** Maigāka seja, atslābinātas rokas vai smaids ir labas pazīmes. Atraušanās, sarauta piere vai nemiers nozīmē apstāties.
+- **Turiet to īsu.** Pieci mierīgi minūtes ir labs laiks.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Lēna elpošanas pauze kopā, piemēram, [mierīga elpošana](/games/calm-breathing/), var būt maiga veida beigas. Vairāk ideju gultai skatiet [vēlās stadijas aktivitātes](/activities/late-stage/), bet vakara nemierā skatiet [vēlās dienas nemieru](/caregiving/late-day-restlessness/).

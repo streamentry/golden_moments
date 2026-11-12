@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Kā spēlēt spēles kopā ar cilvēku, kam ir demence"
+description: "Praktisks ceļvedis spēlēm kopā ar cilvēku, kas dzīvo ar demenci: sagatavošanās, tempa izvēle, kļūdu neizlabošana, vieglāka spēle un brīdis apstāties."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Uztveriet spēli kā laiku kopā, nevis kā testu. Izvēlieties mierīgu dienas laiku, sēdiet blakus klusā istabā un piedāvājiet vienu vienkāršu spēli. Ļaujiet cilvēkam noteikt tempu, nelabojiet nekaitīgas kļūdas, padariet spēli vieglāku, tiklīdz parādās nogurums, un pārvērtiet attēlus sarunā. Apstājieties, kamēr joprojām ir labi. Ja spēle beidzas agri vai vienkārši kopā vērojat, tas ir labs rezultāts.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "Mērķis ir baudīt un būt kopā, nevis pabeigt vai pareizi atbildēt."
+  - "Vispirms sagatavojiet: klusa istaba, laba gaisma, brilles un dzirdes aparāti uzlikti, televizors izslēgts, viena spēle gatava."
+  - "Nelabojiet nekaitīgas kļūdas. Sakiet \"Izmēģināsim citādi\" vai vienkārši turpiniet."
+  - "Padariet spēli vieglāku, pirms rodas vilšanās: mazāk attēlu, mazāk izvēļu, attēli paliek redzami."
+  - "Izmantojiet attēlus kā sākumpunktu stāstiem ar \"Pastāstiet man par...\" nevis \"Vai jūs atceraties...?\""
+  - "Apstājieties pie pirmajām nogurdinājuma vai satraukuma pazīmēm. Agrs apstāšanās ir veiksme, nevis neveiksme."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Cik ilgi mums vajadzētu spēlēt spēli?"
+    a: "Nav pareizas garuma. Daudziem cilvēkiem pietiek dažu minūšu, un dažās dienās pietiek ar vienu raundu. Vērojiet cilvēku, nevis pulksteni, un apstājieties, kamēr viņš vēl šķiet atslābinājies."
+  - q: "Vai man ļaut viņam uzvarēt vai izlikties, ka neredzu kļūdas?"
+    a: "Kopīgā, mazspiediena spēlē nav ko uzvarēt vai zaudēt. Ja kļūda cilvēku netraucē, ļaujiet tai paiet. Ja šķiet, ka tā viņu traucē, klusi palīdziet vai padariet spēli vieglāku, nenorādot uz to."
+  - q: "Ko darīt, ja viņš labprātāk vēro, kā es spēlēju?"
+    a: "Tas ir labi. Nacionālais novecošanās institūts iesaka ļaut cilvēkam vienkārši vērot, ja šķiet, ka tas viņam patīk vairāk. Runājiet par to, ko redzat, un aiciniet viņu norādīt vai izvēlēties, kad vien viņš vēlas."
+  - q: "Vai šīs spēles ir veids, kā pārbaudīt atmiņu?"
+    a: "Nē. Mūsu spēles ir vienkāršas kopīgas aktivitātes baudai un sarunām. Tās nav atmiņas tests, neko nemēra un nav demences ārstēšana."
+  - q: "Ar kuru spēli sākt?"
+    a: "Sāciet ar visvienkāršāko, kas der cilvēkam. Attēlu pāri ar četrām flīzēm un attēliem, kas paliek redzami, vai Atrodi to pašu ar divām izvēlēm ir maigi sākumpunkti. Sarunu kartītes labi darbojas, ja cilvēks labprātāk runā, nevis pieskaras."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+Laba spēle ar cilvēku, kas dzīvo ar demenci, neizskatās pēc sacensības. Tā izskatās kā divi cilvēki, kas sēž tuvu, norāda uz attēliem, smejas par teicienu un runā par to, kas nāk prātā. Spēle ir tikai iemesls pavadīt laiku kopā.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Šajā ceļvedī aplūkots, kā sagatavoties, kā noteikt spēles tempu, ko teikt, kad kaut kas "neiet", kā padarīt jebkuru spēli vieglāku vai nedaudz grūtāku, kā to pārvērst sarunā un kā zināt, kad apstāties. Tas der mūsu [spēlēm](/games/) un arī kārtīm, puzlēm un galda spēlēm, kas jums jau ir.
 
-## What is the best way to play a game with someone who has dementia?
+## Kāds ir labākais veids, kā spēlēt spēli ar cilvēku, kam ir demence?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Koncentrējieties uz baudu, nevis sasniegumiem. Tas ir galvenais padoms no [Alcheimera asociācijas norādījumiem par aktivitātēm](https://www.alz.org/help-support/caregiving/daily-care/activities): balstieties uz prasmēm, kas cilvēkam joprojām ir, palīdziet viņam sākt, pabeidziet grūtās daļas pats un nekritizējiet un neizlabojiet nekaitīgas aktivitātes.
 
-In practice that means:
+Praksē tas nozīmē:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Sēdiet blakus, nevis pretī.** Sēžot blakus, jūs abi redzat ekrānu vai galdu, un palīdzība izskatās pēc komandas darba, nevis uzraudzības.
+- **Piedāvājiet vienu spēli vienlaikus.** Izvēļu izvēlne var šķist kā tests, pirms kaut kas vispār sācies.
+- **Sekojiet viņa vadībai.** Ja viņš vēlas pieskarties attēliem savā secībā, desmit minūtes runāt par vienu attēlu vai apstāties pēc diviem gājieniem, tā šodien ir spēle.
+- **Skaitiet labos brīžus, nevis pabeigtos raundus.** Smaids, stāsts vai mierīga pusstunda ir rezultāts, ko meklējat.
 
-## How do I set up before we start?
+## Kā sagatavoties pirms sākuma?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+Dažas minūtes sagatavošanās novērš lielāko daļu vilšanās, ko cilvēki pieskaita pašai spēlei.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Izvēlieties viņa labāko dienas laiku.** [Nacionālā novecošanās institūta (NIA) norādījumi par aktivitāšu pielāgošanu](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) iesaka plānot izbraukumus un aktivitātes tajā dienas laikā, kad cilvēks jūtas vislabāk. Daudziem tas ir vidējs rīts. Vēla pēcpusdiena bieži ir grūtāka; skatiet [mierīgas vēlas pēcpusdienas aktivitātes](/caregiving/late-day-restlessness/).
+2. **Padariet istabu klusu.** Izslēdziet televizoru un radio un, ja varat, aizveriet durvis. [Ģimenes aprūpētāju alianse](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) iesaka ierobežot troksni un traucējumus, pirms sākat runāt.
+3. **Pārbaudiet vispirms komfortu.** Dzēriens tuvumā, tualetes apmeklējums iepriekš, ērts krēsls un uzlikti brilles un dzirdes aparāti.
+4. **Labi apgaismojiet telpu.** Spilgta, vienmērīga gaisma bez atspīduma uz ekrāna padara attēlus vieglāk saskatāmus.
+5. **Sagatavojiet spēli, pirms apsēdaties.** Atveriet to, izvēlieties iestatījumus un paši noregulējiet skaļumu. Tad pagrieziet ekrānu pret viņu. Padomus planšetdatoram skatiet [planšetdatora vai tālruņa iestatīšanā](/caregiving/tablets-and-screens/).
+6. **Novietojiet ierīci statīvā.** Statīvs vai vāciņš, kas notur planšetdatoru vertikāli, nozīmē, ka neviens to nav jātur, un ar to ir vieglāk norādīt.
 
-## How do I invite them without pressure?
+## Kā uzaicināt bez spiediena?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Padariet uzaicinājumu vienkāršu un viegli noraidāmu. Dažas frāzes, kas parasti labi der:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- "Atradu dažas dārza bildes. Vai gribat tās kopā ar mani aplūkot?"
+- "Vai palīdzētu man ar šo puzli? Esmu iestrēdzis."
+- "Vai šodien gribat ziedus vai putnus?" (izvēle starp diviem ir vieglāka nekā atvērts jautājums)
+- "Gatavoju kartīti jūsu māsai. Kādai krāsai vajadzētu būt šai?"
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+Alcheimera asociācija iesaka paskaidrot aktivitātes mērķi, piemēram, kartītes gatavošanu draugam, jo iemesls piešķir jēgu. Lūgt palīdzību arī darbojas, jo tā ļauj cilvēkam justies noderīgam.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Ja viņš saka nē, pieņemiet to. Mēģiniet vēlāk vai piedāvājiet ko citu. Mūsu ceļvedis [ko darīt, kad viņi saka nē](/caregiving/when-they-say-no/) iet tālāk.
 
-## How long should a game last, and how fast should we go?
+## Cik ilgai jābūt spēlei un cik ātri mums jāiet?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Ļaujiet cilvēkam noteikt tempu un plānojiet īsas sesijas. Kopīgai spēlei nav uz pierādījumiem balstīta ideāla garuma. Divas līdz piecas mierīgas minūtes var būt pilnvērtīga aktivitāte.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Gaidiet ilgāk, nekā šķiet dabiski.** NIA iesaka dot cilvēkam vairāk laika atbildei un centīties nepārtraukt. Pirms palīdzat, saskaitiet galvā līdz desmit.
+- **Viens solis vienlaikus.** Dodiet vienu, īsu norādījumu ("Pieskarieties attēlam") un pēc tam uzgaidiet. Rādiet, nevis paskaidrojiet: norādiet, kur pieskarties.
+- **Pauzējiet brīvi.** Ja viņš apstājas, lai runātu par attēlu, spēle var pagaidīt. Nav vajadzības steigties.
+- **Ļaujiet viņam vērot.** NIA norāda, ka daži cilvēki labprātāk vēro, un tā ir pilnvērtīga izvēle.
 
-## Should I correct wrong answers?
+## Vai man labot nepareizās atbildes?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Nē. Maigi labojot cilvēku atkal un atkal, viņam tiek dots signāls, ka viņš neveicas, pat ja jūs to darāt labā nolūkā. Alcheimera asociācija iesaka nekritizēt un neizlabot nekaitīgas aktivitātes. Spēlē gandrīz katra kļūda ir nekaitīga.
 
-| Instead of | Try |
+| Tā vietā | Izmēģiniet |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| "Nē, tas ir nepareizi." | "Izmēģināsim citādi." (piemērs, ko NIA sniedz) |
+| "Tās nav atbilstošas. Paskatieties vēlreiz." | Neko neteikt un pāriet pie nākamā gājiena vai "Ak, abas ir sarkanas." |
+| "Vai atceraties, kas šis ir?" | "Pastāstiet man par šo attēlu." |
+| "Šo jau darījāt." | "Tas ir labs. Izdarīsim vēlreiz." |
+| "Nu, jūs taču to zināt." | "Vai gribat, lai parādu beigas?" |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Ja kļūda skaidri viņu nomāc, palīdziet klusi. Norādiet uz pareizo attēlu, izdariet gājienu pats vai nākamajā raundā padariet spēli vieglāku. Ja teiciena beigas ir smieklīgi nepareizas, smejieties līdzi. Viņa beigas varbūt ir labākas.
 
-## How do I make a game easier or harder?
+## Kā padarīt spēli vieglāku vai grūtāku?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Pielāgojiet spēli cilvēkam konkrētajā dienā, nevis stadijas nosaukumam. Tas pats cilvēks vakarā var vajadzēt vienkāršāku versiju nekā no rīta. NIA pirmais padoms ir saskaņot aktivitāti ar to, ko cilvēks spēj darīt, un pārliecināties, ka viņš jūtas veiksmīgs.
 
-| Game | Make it easier | Make it a little harder |
+| Spēle | Padariet vieglāku | Padariet nedaudz grūtāku |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Attēlu pāri](/games/picture-pairs/) | Sāciet ar 4 flīzēm un atstājiet attēlus redzamus | Vairāk flīzju vai paslēpiet attēlus, ja tas šķiet ērti |
+| [Atrodi to pašu](/games/find-the-same/) | 2 izvēles | Līdz 4 izvēlēm |
+| [Kārtojiet kopā](/games/sort-together/) | Jūs turat attēlu, viņš norāda uz grozu | Viņš pats pieskaras gan attēlam, gan grozam |
+| [Attēlu puzle](/games/picture-puzzle/) | 4 daļas, vispirms runājiet par visu attēlu | 9 daļas |
+| [Pabeidz teicienu](/games/finish-the-saying/) | Parādiet beigas un tad sakiet kopā | Ļaujiet viņam pateikt beigas, pirms pieskaras |
+| [Vārdu meklēšana](/games/word-search/) | Izdrukājiet, meklējiet kopā vienu vārdu, norādiet uz tā pirmo burtu | Ļaujiet viņam izvēlēties nākamo meklējamo vārdu |
+| [Krāsošana](/games/coloring/) | Jūs izvēlaties divas krāsas, viņš izvēlas starp tām | Viņš izvēlas visas krāsas |
+| [Sarunu kartītes](/games/conversation-cards/) | Vienkārši kopā aplūkojiet attēlu | Izmantojiet kartītes atvērtos jautājumus |
+| [Foto pāri](/games/photo-pairs/) | Dažas ļoti mīļas ģimenes fotogrāfijas | Pievienojiet vairāk fotogrāfiju |
+| [Attēlu bingo](/games/picture-bingo/) | Palīgs sēž blakus katram spēlētājam | Spēlētāji atzīmē savas kartes paši |
+| [Mierīga elpošana](/games/calm-breathing/) | Vienkārši sēdiet un vērojiet kopā | Elpojiet līdzi lēni |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Pazīmes, ka spēle ir par grūtu: ilgas pauzes, kas izskatās nobažījušās, nevis domīgas, atkārtots "Es nevaru", ierīces atgrūšana vai kļūdas, kas viņus satrauc. Pazīmes, ka tā var būt par vieglu: garlaicība vai teikums, ka tā ir bērnišķīga. Ja tā notiek, cieniet to un pārslēdzieties uz kaut ko, kas šķiet pieaugušu, piemēram, vārdu meklēšanu, īstas fotogrāfijas puzli vai sarunu par attēlu no viņa agrākā darba.
 
-## How do I turn a game into a conversation?
+## Kā pārvērst spēli sarunā?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Izmantojiet katru attēlu kā uzaicinājumu runāt un uztveriet visu, ko viņš saka, kā labu atbildi. Daudzām ģimenēm tā ir labākā spēles daļa.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Uzdodiet atvērtus jautājumus bez nepareizām atbildēm.** "Ko jūs pamanāt?" "Kurš jums patīk?" "Pastāstiet par virtuvi, kas izskatās šādi."
+- **Vispirms dalieties pats.** "Manai vecmāmiņai bija tāds suns." Jūsu stāsts atvieglo to, ka viņš var dalīties ar savu.
+- **Sekojiet blakus tēmai.** Ja auto attēls noved pie stāsta par braucienu, stāsts ir aktivitāte. Atstājiet spēli pauzē.
+- **Nepārbaudiet faktus.** Atmiņu atsaukšanā patīkama saruna ir svarīgāka par precīzām detaļām. Ja stāsts mainās salīdzinājumā ar pagājušo reizi, baudiet jauno versiju.
+- **Izmantojiet iebūvētos aicinājumus.** [Pabeidz teicienu](/games/finish-the-saying/) pēc katra teiciena seko aicinājumam runāt, un [Sarunu kartītes](/games/conversation-cards/) ir veidotas tieši šim nolūkam. [Foto pāri](/games/photo-pairs/) izmanto jūsu pašu ģimenes fotogrāfijas, kas bieži rada bagātākos stāstus.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Vairāk ideju ir mūsu ceļvežos par [atmiņu atsaukšanas aktivitātēm](/activities/reminiscence/) un [saziņas padomiem](/caregiving/communication-tips/).
 
-## When should we stop?
+## Kad mums vajadzētu apstāties?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Apstājieties pie pirmajām nogurdinājuma vai satraukuma pazīmēm un ideāli nedaudz pirms tam. Alcheimera asociācija iesaka apstāties vai mainīt aktivitāti, kad uzmanība izgaist vai pieaug vilšanās.
 
-Watch for:
+Vērojiet:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- žāvāšanos, sabrukšanu vai acis, kas noklīst no ekrāna;
+- nemieru, piecelšanos vai lūgumu aiziet;
+- nopūtas, īsas atbildes vai "Es šajā neesmu labs";
+- nejauši pieskaršanos vai ierīces atgrūšanu;
+- asaras, kairinājumu vai pēkšņu garastāvokļa maiņu.
 
-How to stop well:
+Kā labi apstāties:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Beidziet ar kaut ko vieglu.** Vienu pēdējo pāri, ko viņš var savienot, vai pēdējo attēlu, ko apbrīnot.
+- **Padariet to par sevi.** "Man varētu noderēt tēja. Vai apstāsimies šeit?" izvairās no jebkāda mājiena, ka viņš neveicās labi.
+- **Pārejiet uz kaut ko fizisku vai nomierinošu.** Īsa pastaiga, uzkoda, veļas salocīšana vai mūzika.
+- **Sakiet kaut ko siltu.** "Man patika to darīt kopā ar jums." Nav slavēšanas par "pareizu izdarīšanu", tikai prieks par kopā pavadīto laiku.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Spēles beigšana agri, plānu mainīšana vai spēles atstāšana un vienkārša kopā sēdēšana ir labi rezultāti.
 
-## Can we play in a group or over a video call?
+## Vai mēs varam spēlēt grupā vai video zvanā?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Jā, ar nedaudz papildu sagatavošanos. Grupā turiet to nelielu, sēdiniet palīgus blakus ikvienam, kam tas vajadzīgs, un izvēlieties spēli ar skaidru kopīgu fokusu. [Attēlu bingo](/games/picture-bingo/) grupām ir izdrukājamas kartes un ekrānā redzams vadītājs. Vairāk skatiet [aktivitātes aprūpes iestāžu grupām](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Video zvanā cilvēks zvanā var aprakstīt attēlu, kamēr kāds telpā norāda un pieskaras. Turiet zvanus īsus un pazīstamus. Mūsu ceļvedis par [tālruņa un video zvaniem](/activities/phone-and-video-calls/) sniedz vairāk padomu.
 
-## What if a game just isn't working?
+## Ko darīt, ja spēle vienkārši nedarbojas?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Dažas dienas nekas neiet cauri, un tas neatspoguļo ne jūs, ne viņu. Noņemiet spēli malā un izmēģiniet citu dienas laiku, citu spēli vai nespēlējiet vispār. Daudzas labas aktivitātes nav saistītas ar ekrāniem: mūzika, dvieļu salocīšana, fotoalbuma apskatīšana vai īsa pastaiga. Vairāk ideju skatiet mūsu [aktivitāšu idejās](/activities/ideas/).

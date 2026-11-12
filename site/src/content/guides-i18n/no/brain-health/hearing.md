@@ -1,31 +1,31 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Hørselstap og risiko for demens: Hva forskningen viser"
+seoTitle: "Hørselstap og demens: Hva forskningen viser"
+description: "Hvorfor hørselstap er en ledende risikofaktor for demens, hva ACHIEVE-studien om høreapparat egentlig fant, og hvordan du kan få hørselen sjekket og lette samtalen."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Lancet-kommisjonen fra 2024 oppgir hørselstap som en av de største faktorene for demens som kan endres.
+  I ACHIEVE-studien bremset ikke høreapparater nedgangen i tenkeevne samlet sett, men en gruppe med høyere
+  risiko viste mindre nedgang. Høreapparater hjelper samtale og hverdag uansett. Få hørselen sjekket,
+  vurder høreapparat på resept eller uten resept, og snakk med lege.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet-kommisjonen anslår at hørselstap står for omtrent 7 % av demenstilfellene i verden, og er på linje med den største andelen blant de 14 faktorene."
+  - "I ACHIEVE-studien med 977 eldre voksne endret ikke høreapparater den treårige nedgangen i tenkeevne samlet sett."
+  - "I en mindre gruppe med høyere risiko i ACHIEVE gikk tenkeevnen 48 % langsommere ned med høreapparat. Dette må bekreftes."
+  - "Siden oktober 2022 kan voksne i USA med oppfattet lett til moderat hørselstap kjøpe FDA-godkjente høreapparater uten resept."
+  - "Ubehandlet synstap ble lagt til som risikofaktor for demens i 2024, så øyeundersøkelser betyr også noe."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Forebygger høreapparat demens?"
+    a: "Det er ikke bevist. ACHIEVE-studien fant ingen samlet effekt på nedgangen i tenkeevne over tre år, selv om én gruppe med høyere risiko gjorde det bedre. Høreapparat er likevel verdt å vurdere, fordi det gjør samtale, sikkerhet og hverdag enklere."
+  - q: "Hvem kan kjøpe høreapparat uten resept?"
+    a: "FDA tillater voksne fra 18 år som oppfatter lett til moderat hørselstap å kjøpe høreapparater uten resept i butikk eller på nett. De er ikke ment for alvorlig hørselstap. Alle med øresmerter, væske fra øret, svimmelhet eller plutselige endringer i hørselen bør først oppsøke lege."
+  - q: "Kan hørselstap ligne demens?"
+    a: "Noen ganger. National Institute on Aging påpeker at eldre som ikke hører godt, av og til feilaktig tenkes å være forvirret eller uten samarbeidsvilje. En hørselstest er et fornuftig steg når noen virker å trekke seg unna eller går glipp av det som sies."
+  - q: "Hvor ofte bør eldre voksne få øynene undersøkt?"
+    a: "National Institute on Aging anbefaler en utvidet øyeundersøkelse hvert år eller annethvert år etter 60 år, eller etter anbefaling fra øyelegen. Personer med diabetes eller høyt blodtrykk trenger vanligvis én minst en gang i året."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +50,114 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Hørselstap er vanlig i senere liv, og forskere tar det alvorlig som en risikofaktor for demens. Det gjør ikke høreapparat til en bevist måte å forebygge demens på; den beste studien så langt ga blandede resultater. Denne siden forklarer hva forskningen viser, hvordan du kan få hørselen sjekket, hva amerikanske høreapparater uten resept er, og hvordan du kan gjøre samtalen enklere.
 
-## Why does hearing matter for brain health?
+## Hvorfor betyr hørsel noe for hjernehelsen?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Hørselstap er knyttet til høyere risiko for demens. [Lancet-kommisjonen fra 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) anslår at det står for omtrent 7 % av demenstilfellene i verden. Det gjør det på linje med høyt LDL-kolesterol når det gjelder størst andel blant de 14 risikofaktorene som kan endres i kommisjonens modell, ifølge [UCLs oppsummering av rapporten](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Viktige funn fra kommisjonen:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Høyere risiko ved hørselstap.** I en samlet analyse av seks studier av høy kvalitet hadde personer med hørselstap omtrent 37 % høyere risiko for demens enn personer med normal hørsel.
+- **Mer tap, mer risiko.** Studier som så på alvorlighetsgrad fant at risikoen økte etter hvert som hørselen ble dårligere.
+- **Mulige årsaker, ikke bevist ennå.** Ideer inkluderer ensomhet og tilbaketrekning, depresjon, mindre stimulering for hjernen, og den ekstra mentale innsatsen det krever å høre.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Hørselstap er vanlig. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults)
+sier at omtrent én av tre eldre voksne har det, og at sjansen øker med alderen.
 
-## What did the ACHIEVE hearing aid trial find?
+## Hva fant ACHIEVE-studien om høreapparat?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE var den første randomiserte studien av høreapparat og nedgang i tenkeevne. Resultatene blir ofte
+feilrapportert, så her er detaljene fra [den publiserte studierapporten](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Hvem som var med:** 977 voksne på 70 til 84 år med ubehandlet hørselstap og ingen betydelige tenkeproblemer, ved fire samfunnssentre i USA.
+- **Hva som ble sammenlignet:** Halvparten fikk høreapparat pluss samtaler med en audiolog. Den andre halvparten fikk et helseopplysningsprogram om sunn aldring.
+- **Hovedresultat:** Etter tre år var det **ingen forskjell** i nedgangen i tenkeevne mellom de to gruppene samlet sett.
+- **Resultat i undergruppe:** Studien rekrutterte fra to kilder. 238 personer kom fra en langvarig hjertestudie (ARIC), og som gruppe hadde de høyere risiko for nedgang i tenkeevne. I denne gruppen gikk nedgangen **48 % langsommere** med høreapparat. Blant de 739 friske frivillige fra samfunnet var det ingen tydelig effekt.
 
-How to read this honestly:
+Slik leser du dette ærlig:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Det samlede svaret var ingen effekt.
+- Funnet i undergruppen var planlagt på forhånd, men det kom fra en sekundæranalyse av en mindre gruppe.
+  Det må bekreftes i andre studier.
+- Deltakerne visste hvilket program de var i, noe som kan påvirke resultatene.
+- Lancet-kommisjonen leser beviset som at høreapparater ser ut til å være særlig nyttige for personer som har
+  hørselstap sammen med andre risikofaktorer for demens.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Konklusjonen er at høreapparater ikke er en bevist måte å forebygge demens på. De hjelper folk å høre, å delta i
+samtaler og å holde kontakten, og det er god nok grunn til å vurdere dem.
 
-## How do I know if hearing should be checked?
+## Hvordan vet jeg om hørselen bør sjekkes?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA foreslår å oppsøke lege hvis du eller noen du tar vare på:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Har problemer med å forstå folk i telefonen
+- Synes det er vanskelig å følge samtaler når to eller flere snakker
+- Ofte ber folk gjenta seg selv
+- Skrur opp TV-en så høyt at andre klager
+- Sliter med å forstå tale når det er bakgrunnsstøy
+- Synes andre virker å mumle
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Start hos fastlege, som kan henvise deg til en audiolog (hørselsspesialist) eller en øre-, nese- og halslege. Ørevoks er en vanlig årsak til hørselstap, og en lege kan sjekke for det. **Plutselig hørselstap er en medisinsk nødsituasjon**, og NIA råder til å oppsøke lege med én gang.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Hørselstap kan forveksles med forvirring. NIA påpeker at eldre som ikke hører godt, av og til feilaktig tenkes å være
+forvirret, lite responsive eller uten samarbeidsvilje. Hvis noen du er glad i virker tilbaketrukket eller går glipp av
+det som sies, er en hørselstest et godt første steg.
 
-## What are over-the-counter hearing aids?
+## Hva er høreapparater uten resept?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Fra oktober 17, 2022 har [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know)
+tillatt en kategori høreapparater uten resept (OTC). Slik sammenlignes de med høreapparater på resept:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Egenskap | Høreapparater uten resept | Høreapparater på resept |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Hvem de er for | Voksne fra 18 år med oppfattet lett til moderat hørselstap | Alle nivåer av hørselstap, alle aldre |
+| Hvor du får dem | I butikk eller på nett, uten undersøkelse eller resept | Gjennom en autorisert hørselsfaglig person |
+| Tilpasning | Du justerer innstillingene selv, ofte med en app | En fagperson programmerer dem etter hørselen din |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA sier at høreapparater uten resept ikke er ment for alvorlig eller dyp hørselstap. Den anbefaler å oppsøke lege,
+helst en øre-, nese- og halsspesialist, før du kjøper hvis du har:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Øresmerter eller ubehag
+- Væske, puss eller blod fra øret de siste seks månedene
+- Plutselige eller svingende endringer i hørselen
+- Dårligere hørsel på ett øre, eller tinnitus bare på ett øre
+- Svimmelhet eller vertigo
+- Mye ørevoks
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Det tar tid å venne seg til høreapparater, så sjekk returrettigheten før du kjøper, slik FDA foreslår. NIA foreslår å spørre
+om forsikringen dekker deler av kostnaden. For en person som lever med demens kan en audiolog hjelpe med å avgjøre hvilken type
+apparat og tilpasning som er lettest å bruke i hverdagen.
 
-## How can I talk more easily with someone who has hearing loss?
+## Hvordan kan jeg snakke enklere med noen som har hørselstap?
 
-The NIA suggests:
+NIA foreslår:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Vend deg mot personen og hold øyekontakt**, i godt lys, slik at de kan se leppene og ansiktsuttrykket ditt.
+2. **Finn et stille sted.** Slå av TV-en eller flytt deg bort fra støy.
+3. **Snakk litt høyere, men ikke rop.** Snakk naturlig og i et rimelig tempo.
+4. **Hold munnen fri.** Ikke spis, tygg tyggegummi eller dekk munnen mens du snakker.
+5. **Formuler på nytt i stedet for å gjenta** når noe er gått tapt.
+6. **Én person om gangen.** I en gruppe, sørg for å inkludere personen.
+7. **Vær tålmodig og spør hvordan du kan hjelpe.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Disse tipsene fungerer godt sammen med vår [veiledning om kommunikasjon ved demens](/caregiving/communication-tips/). Bildebaserte aktiviteter
+tar også presset av å høre. [Bildepar](/games/picture-pairs/) og [Samtalekort](/games/conversation-cards/) fungerer gjennom det du ser,
+og [Fullfør ordtaket](/games/finish-the-saying/) lar deg vise slutten i stedet for å si den. For samtaler, se vår veiledning om
+[telefon- og videosamtaler](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Synet betyr også noe
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+I 2024 la Lancet-kommisjonen til ubehandlet synstap som en ny risikofaktor. UCLs oppsummering anslår at det står for omtrent 2 % av
+demenstilfellene, og kommisjonen anbefaler at screening og behandling av synsproblemer tilbys alle. [NIA råder](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes)
+til en utvidet øyeundersøkelse hvert år eller annethvert år etter 60 år, og å sjekke brilleresepten også. Selv små endringer i synet kan øke
+risikoen for fall.
 
-## Talk with a doctor
+## Snakk med lege
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Spør lege om hørsel- og synskontroll hvis du legger merke til noen av tegnene ovenfor. Søk hjelp med én gang ved plutselig hørselstap,
+øresmerter eller væske fra øret. Hvis du tar vare på en person som lever med demens, si fra til legen om endringer i hørsel eller syn,
+som kan påvirke humør, sikkerhet og hvor godt personen kan delta.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Dette er generell informasjon, ikke medisinsk råd. Se vår [medisinske ansvarsfraskrivelse](/medical-disclaimer/). Les mer om
+[sosial kontakt og hjernehelse](/brain-health/social-connection/).

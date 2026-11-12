@@ -1,32 +1,28 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzles cilvēkiem ar demenci: puzles un vārdu mīklas"
+seoTitle: "Puzles demencei: puzles un vārdu mīklas"
+description: "Kā izvēlēties puzles, vārdu mīklas un tiešsaistes puzles cilvēkam ar demenci: gabaliņu izmērs, attēli, liels teksts, kopā darīšana un kad to vienkāršot."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Labākā puzle cilvēkam ar demenci ir tāda, ko viņš var pabeigt ar nelielu palīdzību un kuras gaitā priecājas. Izvēlieties puzles ar mazāk, lielākiem gabaliņiem un skaidru pieaugušam paredzētu attēlu, turiet kastes vāku redzamu un vispirms sakārtojiet malu gabaliņus. Vārdu meklēšanas un krustvārdu mīklas labi darbojas lielā drukā. Vienkāršas tiešsaistes puzles ar četriem gabaliņiem der vidējai stadijai. Apstājieties, kamēr tas joprojām ir patīkami.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Izvēlieties pēc tā, kā tas noris, nevis pēc stadijas etiķetes: ja puzle šķiet kā darbs, izvēlieties tādu ar mazāk gabaliņu."
+  - "Lieli, izturīgi gabaliņi un skaidrs attēls ar atšķirīgiem krāsu laukumiem ir vieglāk nekā sīki gabaliņi un lieli debesu laukumi."
+  - "Attēlam jābūt pieaugušam paredzētam. Dārzi, virtuves, automašīnas un dzīvnieki, nevis multfilmas."
+  - "Kopā darīšana ir svarīgākā daļa. Dodiet gabaliņus, sakārtojiet malas, turiet kastes vāku redzamu."
+  - "Lielā drukā vārdu meklēšanas un vienkāršas tiešsaistes puzles ar 4 vai 9 gabaliņiem šajā vietnē ir bezmaksas."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Cik puzles gabaliņu ir labākais skaits cilvēkam ar demenci?"
+    a: "Nav viena pareiza skaita. Cilvēks, kurš darījis puzles ar 1000 gabaliņu, agrīnā posmā joprojām var baudīt dažus simtus, bet citi vislabāk jūtas ar aptuveni desmit lieliem gabaliņiem. Ja puzle šķiet kā darbs vai rada vilšanos, pārejiet uz mazāku gabaliņu skaitu. Mūsu tiešsaistes Attēlu puzlē ir 4 vai 9 gabaliņi."
+  - q: "Vai puzles ir labas cilvēkiem ar demenci?"
+    a: "Daudziem tās patīk, īpaši, ja viņi puzles mīlēja arī agrāk. Puzle dod rokām ko darīt, skaidru mērķi un attēlu, par ko runāt. Neviena puzle nav pierādīta kā demenci ārstējoša vai palēninoša, tāpēc izvēlieties tās baudai un kompānijai."
+  - q: "Ko darīt, ja cilvēks vairs nespēj tikt galā ar puzli?"
+    a: "Padariet to mazāku un vairāk darāt pats: dodiet vienu gabaliņu vienlaikus vai atstājiet viņam tikai pēdējos dažus gabaliņus. Izmēģiniet 4 gabaliņu tiešsaistes puzli, gabaliņu kārtošanu pēc krāsas vai vienkārši kopā aplūkojiet gatavo attēlu."
+  - q: "Vai krustvārdu mīklas un vārdu meklēšana der demencei?"
+    a: "Tās var der agrīnā stadijā, lielā drukā. Vārdu meklēšana, kurā vārdi ir tikai horizontāli un vertikāli, ir vieglāka nekā tā, kur vārdi ir diagonāli vai atpakaļgaitā. Nolasiet norādes vai vārdu sarakstu skaļi un strādājiet pie tā kopā."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +41,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Puzle, kas izklāta uz ēdamgalda, ir viena no vieglākajām aktivitātēm, ar ko dalīties. Var sēdēt kopā, nevajadzot runāt, attēls dod ko pārrunāt, un pēdējā gabaliņa ielikšana sagādā labu sajūtu. Puzlēm tomēr jāmainās līdz ar demences gaitu. Pārāk grūta puzle var pārvērst mierīgu pēcpusdienu nomāktā. Šajā lapā aprakstīts, kā izvēlēties un sagatavot puzles, vārdu mīklas un vienkāršas tiešsaistes puzles un ko darīt, kad tās kļūst grūtas.
 
-## Are puzzles good for people with dementia?
+## Vai puzles der cilvēkiem ar demenci?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Daudziem cilvēkiem tās patīk, īpaši tiem, kas puzles darīja arī agrāk. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) agrīnajai stadijai min vārdu meklēšanu, kāršu spēles un galda spēles, bet [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) min tiešsaistes spēles un puzles planšetēs kā vienu no veidiem, kā palikt iesaistītam.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzles nav ārstēšana. Neviena puzle nav pierādīta kā demenci palēninoša vai apturoša; mūsu ceļvedis par [smadzeņu spēlēm un demenci](/brain-health/brain-games/) izskaidro pētījumus. Puzli darīt vajag tāpēc, ka tā var būt patīkama, aizraujoša stunda kopā. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) to saka īsi: koncentrējieties uz baudu, nevis sasniegumiem.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kā izvēlēties puzli cilvēkam ar demenci?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Vadieties pēc tā, kas cilvēkam patīk un kā noritēja iepriekšējā puzle, nevis pēc stadijas etiķetes.
 
-### Number of pieces
+### Gabaliņu skaits
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Pareiza skaita nav. Cilvēks, kas visu mūžu darījis puzles, agrīnā posmā joprojām var baudīt dažus simtus gabaliņu, bet cits vislabāk jūtas ar desmit līdz divpadsmit gabaliņiem. Praktisks noteikums: ja pēdējā puzle šķita kā darbs, izvēlieties aptuveni pusi no gabaliņu skaita. Ja tā tika pabeigta ātri un viņi gribēja vairāk, mazliet palieliniet.
 
-### Piece size and feel
+### Gabaliņu izmērs un sajūta
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Lielāki gabaliņi** ir vieglāk saskatāmi, paņemami un pagriežami.
+- **Biezi, izturīgi gabaliņi** paliek vietā un iztur nomešanu.
+- **Matēta virsma** mazina atspīdumu no lampām un logiem.
+- **Izvairieties no sīkiem gabaliņiem,** ja cilvēks varētu ielikt lietas mutē, kas var notikt vēlākos demences posmos.
 
-### The picture
+### Attēls
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Pieaugušiem paredzētas tēmas.** Dārzi, virtuves, vecas automašīnas, lauksaimniecības dzīvnieki, jūras pilsēta, iecienīts sports. Nevis multfilmas vai kaut kas, kas izskatās pēc bērnu rotaļlietas.
+- **Atšķirīgi krāsu laukumi.** Sarkana šķūnis, zila laiva un zaļš lauks ir vieglāk nekā debesis, kas aizņem pusi puzles.
+- **Pazīstams un personisks.** Attēls ar vietu, kur viņš dzīvojis, vai hobiju, ko mīlējis, dod daudz, par ko runāt. Dažas drukas darbnīcas var pārvērst ģimenes fotogrāfiju puzlē.
 
-## How do you do a puzzle together?
+## Kā kopā darīt puzli?
 
-Set it up so the person can get straight to the enjoyable part.
+Sagatavojiet to tā, lai cilvēks varētu uzreiz pāriet pie patīkamās daļas.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Izvēlieties labu vietu.** Laba gaisma, krēsls ar roku balstiem un galds vai paplāte, kur puzli var atstāt.
+2. **Atbalstiet kastes vāku** tur, kur abi to varat redzēt.
+3. **Pirms sākat, pagrieziet gabaliņus ar seju uz augšu.**
+4. **Sakārtojiet malas** paši vai izveidojiet apmali un vidu atstājiet viņam.
+5. **Grupējiet gabaliņus pēc krāsas** dažās seklās paplātēs vai šķīvjos.
+6. **Dodiet vienu gabaliņu vienlaikus,** ja kaudze šķiet pārāk liela. „Man šķiet, ka šis ir daļa no šķūņa.”
+7. **Runājiet par attēlu,** nevis par progresu. „Tas izskatās pēc laivas, kāda bija manam tētim.”
+8. **Atstājiet to pa vidu.** Atgriezieties pie tā vairāku dienu laikā. Nav steigas.
+9. **Apstājieties labā noskaņā,** pēc gabaliņa ielikšanas, kamēr tas joprojām šķiet patīkami.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) iesaka palīdzēt cilvēkam sākt, pamanīt vilšanos un ļaut vienkārši vērot, ja tas viņam patīk vairāk. Vērot, kā jūs ieliekat gabaliņus, un norādīt, kur kāds varētu iederēties, ir arī dalība.
 
-## Easy online puzzles
+## Vienkāršas tiešsaistes puzles
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Puzle planšetē dod dažas patiesas priekšrocības: nepazūd gabaliņi, lieli attēli aizpilda ekrānu un nav jātīra galds.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Mūsu bezmaksas [Attēlu puzle](/games/picture-puzzle/) sadala attēlu 4 vai 9 gabaliņos. Pieskarieties diviem gabaliņiem, lai tos apmainītu, līdz attēls ir pilns. Pilnais attēls paliek ekrānā kā palīgs, nav taimera, un jūs varat apstāties jebkurā brīdī. Četri gabaliņi der daudziem cilvēkiem vidējā stadijā, kad blakus ir kāds cits.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Vēl vienkāršākai attēlu spēlei izmēģiniet [Atrodiet to pašu](/games/find-the-same/), kur pieskaraties attēlam, kas atbilst tam, kurš redzams augšā, vai [Kārtojiet kopā](/games/sort-together/), kur attēli ieliekami grozos, piemēram, virtuves vai dārza.
 
-## Word puzzles: word searches and crosswords
+## Vārdu mīklas: vārdu meklēšana un krustvārdu mīklas
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Vārdu mīklas der cilvēkiem, kas tās vienmēr mīlējuši, parasti demences agrīnā posmā.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Vārdu meklēšana lielā drukā.** Mūsu bezmaksas [Vārdu meklēšana](/games/word-search/) izmanto lielus burtus un tikai dažus vārdus, kas ir horizontāli un vertikāli, nekad diagonāli vai atpakaļgaitā. Spēlējiet ekrānā vai izdrukājiet.
+- **Nolasiet sarakstu skaļi.** Viens nolasa vārdu, otrs to meklē. Pietiek arī ar pirmā burta apvilkšanu.
+- **Krustvārdu mīklas lielā drukā** no mīklu grāmatām var noderēt agrīnā stadijā. Nolasiet norādes skaļi, dalieties pildspalvā un aizpildiet atbildes kopā. Vienkāršas, tematiskas krustvārdu mīklas ir labākas nekā šifrētās.
+- **Runājiet par vārdiem.** „Dārzs” var novest pie desmit minūtēm par tomātiem.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Vairāk papīra aktivitāšu un to, kā tās izdrukāt, lai tās būtu viegli redzamas un turamas, skatiet [bezmaksas drukājamās demences aktivitātes](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Kuras puzles der katrai stadijai?
 
-Stages overlap, and good and hard days are normal.
+Stadijas pārklājas, un labas un grūtas dienas ir normālas.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadija | Puzles, kas bieži der | Jūsu loma |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Agrīnā | Pazīstamas puzles ar mazāk gabaliņu nekā agrāk, krustvārdu mīklas un vārdu meklēšana lielā drukā, 9 gabaliņu tiešsaistes puzles | Partneris: ļaujiet izvēlēties, palīdziet, kad lūdz |
+| Vidējā | Puzles ar aptuveni desmit lieliem gabaliņiem, 4 gabaliņu tiešsaistes puzles, vārdu meklēšana, ko kopā nolasa skaļi | Sagatavojiet, kārtojiet gabaliņus, dodiet pa vienam |
+| Vēlā | Gatava attēla kopīga aplūkošana, Atrodiet to pašu ar diviem attēliem, dažu lielu gabaliņu turēšana | Nesiet to pie viņa; jūsu kompānija ir aktivitāte |
 
-## When should you make a puzzle easier, or stop?
+## Kad puzli vienkāršot vai apturēt?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Pamaniet nopūtas, gabaliņu atgrūšanu, atkārtotu „Es nevaru” vai satrauktus skatienus. Tās ir pazīmes, ka kaut kas jāmaina, nevis jāturpina spiest.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Padariet mazāku.** Mazāk gabaliņu vai atstājiet viņam tikai dažus pēdējos.
+- **Dariet vairāk pats** un aicinājiet viņu palīdzēt vieglākajās daļās.
+- **Pārslēdzieties uz kaut ko tuvu:** gabaliņu kārtošanu pēc krāsas, 4 gabaliņu tiešsaistes puzli vai [krāsošanu](/games/coloring/).
+- **Apstājieties.** Nolieciet to malā un padzeriet tēju. Var atgriezties citā dienā vai ne.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Ja puzles sāk šķist kā atgādinājums par to, kas ir grūti, ir labi tās atlikt. Ir daudz citu veidu, kā labi pavadīt laiku kopā; mūsu [101 aktivitātes ideja](/activities/ideas/) ir laba vieta, kur ieskatīties.

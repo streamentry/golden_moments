@@ -1,35 +1,34 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Kan demens forebygges? Hva forskningen sier"
+seoTitle: "Kan demens forebygges? Hva forskningen sier"
+description: "Hva Lancet-kommisjonen fra 2024 og store studier fant om å senke risikoen for demens, hva de ikke fant, og steg du kan ta opp med legen."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Ingen kan love å forebygge demens. Lancet-kommisjonen fra 2024 anslo at nesten
+  halvparten av demenstilfellene i verden er knyttet til 14 risikofaktorer som
+  potensielt kan endres, som høyt blodtrykk, hørselstap og inaktivitet. Studier
+  viser små effekter på tenkeprøver, ikke bevis for færre demenstilfeller. Mange
+  som gjør alt «riktig» får likevel demens, og det er ingens skyld.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "Lancet-kommisjonen fra 2024 knyttet omtrent 45 % av demenstilfellene i verden til 14 risikofaktorer som kan endres. Dette er et anslag for en befolkning, ikke en personlig garanti."
+  - "Å redusere risiko betyr å senke oddsene i en hel befolkning. Det betyr ikke at én enkelt person kan unngå demens."
+  - "Store studier som FINGER, US POINTER og SPRINT MIND fant små gevinster i tenkeprøver eller lett kognitiv svikt, men ingen beviste at et livsstilsprogram forebygger demens."
+  - "Alder er den største kjente risikofaktoren for Alzheimers, og den kan ikke endres. Mange med sunne vaner får likevel demens."
+  - "Tiltakene som oftest er studert, som å behandle høyt blodtrykk, bruke høreapparat og holde seg aktiv, er verdt å ta opp med legen, fordi de også hjelper helsen på andre måter."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Kan demens forebygges?"
+    a: "Det finnes ingen bevist måte å forebygge demens på for én enkelt person. Forskning tyder på at det å senke noen risikoer, som høyt blodtrykk, ubehandlet hørselstap og røyking, kan redusere sjansen for demens i en befolkning eller utsette når den starter. Dette er odds, ikke løfter."
+  - q: "Hva betyr tallet 45 % fra Lancet-kommisjonen?"
+    a: "Lancet-kommisjonen fra 2024 anslo at omtrent 45 % av demenstilfellene i verden er knyttet til 14 risikofaktorer som i teorien kunne endres. Anslaget forutsetter at disse faktorene forårsaker demens, og forfatterne påpeker at noen sammenhenger bare kan være delvis årsaksbestemt. Det beskriver hele befolkninger og sier ikke noe om den enkeltes risiko."
+  - q: "Hvis mor eller far levde sunt, hvorfor fikk de demens?"
+    a: "Alder, gener og mange forhold ingen kontrollerer, spiller en stor rolle i demens. Forfatterne av Lancet-kommisjonen påpeker at å senke risikoen i en befolkning ikke garanterer at en enkelt person unngår demens. En diagnose er ikke et tegn på at noen har sviktet."
+  - q: "Er det for sent å senke risikoen for demens etter 65 år?"
+    a: "Lancet-kommisjonen sier at det aldri er for tidlig eller for sent å redusere risikoen, selv om mye av beviset gjelder midtlivet. Å behandle hørsels- og synsproblemer, holde seg aktiv og holde kontakt med folk er eksempler på tiltak i senere liv som er studert. Snakk med legen om hva som passer for din helse."
+  - q: "Forebygger hjernespill eller spesielle dietter demens?"
+    a: "Ingen spill, matvare, kosttilskudd eller diett er bevist å forebygge demens. En treårig studie av MIND-dietten fant ingen signifikant forskjell i tenkeevne sammenlignet med en kontrollditt, og kommersielle hjernetreningsapper har ikke vist de effektene som er sett i forskningsstudier."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +62,246 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Hvis du tar vare på noen med demens, eller har sett en forelder leve med den, har du sikkert lurt på om den kunne vært stoppet, og om du kan unngå den selv. Denne siden forklarer hva forskningen faktisk sier, med et enkelt språk. Kort svar: ingen kan love å forebygge demens. Men forskningen tyder på at noen risikoer kan senkes, og at det å senke dem i en befolkning kan bety færre som får demens, eller at de får den senere.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Dette er generell informasjon, ikke medisinsk råd. Les vår
+[medisinske ansvarsfraskrivelse](/medical-disclaimer/), og snakk med legen om din egen
+helse.
 
-## Can dementia be prevented?
+## Kan demens forebygges?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Det finnes ingen bevist måte å forebygge demens på for én enkelt person. National
+Institute on Aging (NIA) sier at selv om
+[ingenting er bevist ennå som forebygger Alzheimers](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+har forskerne funnet lovende strategier og lærer hva som kan og ikke kan fungere.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Det forskningen *viser*, er at visse helseproblemer og vaner er knyttet til høyere
+sjanse for demens. Når disse risikoene er lavere i en hel befolkning, kan færre få
+demens, eller de kan få den senere i livet. Det er svært ulikt en garanti.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Et håpefullt tegn: Lancet-kommisjonen fra 2024 rapporterte at andelen eldre med
+demens har gått ned i noen land med høy inntekt, blant annet USA og Storbritannia.
+Forfatterne mener dette sannsynligvis skyldes blant annet bedre utdanning, bedre
+helsetjenester og mindre skade på blodårene gjennom livet, ifølge
+[University College Londons oppsummering av rapporten](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Hva fant Lancet-kommisjonen fra 2024?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet-kommisjonen om forebygging, behandling og omsorg for demens er en gruppe på
+27 demensforskere som gjennomgår forskningen hvert par år. Rapporten deres fra 2024
+pekte ut **14 risikofaktorer** som potensielt kan endres, og anslo at de til sammen
+står for **nesten halvparten (omtrent 45 %) av demenstilfellene i verden**. I
+forfatternes ord kunne disse tilfellene *i teorien* vært forebygd eller utsatt hvis
+risikoene ble fjernet
+([Lancet-kommisjonens rapport fra 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+De 14 faktorene, gruppert etter livsfase der beviset er sterkest:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Tidlig i livet:** lavere utdanning.
+- **Midtlivet (omtrent 40 til 65 år):** hørselstap, høyt LDL-kolesterol («dårlig»
+  kolesterol), depresjon, hodeskade, fysisk inaktivitet, diabetes, røyking, høyt
+  blodtrykk, fedme og tung drikking.
+- **Senere i livet:** sosial isolasjon, luftforurensning og ubehandlet synstap.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+De to nyeste tilleggene i 2024 var høyt LDL-kolesterol og ubehandlet synstap.
+Faktorene knyttet til den største andelen tilfeller var hørselstap og høyt
+LDL-kolesterol (omtrent 7 % hver), fulgt av lavere utdanning og sosial isolasjon
+(omtrent 5 % hver).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Vår [veiledning om risikofaktorer](/brain-health/risk-factors/) gjennomgår alle 14 i
+en tabell, med hva forskningen knytter til dem og hva du kan gjøre.
 
-### What the 45% figure does not mean
+### Hva 45-tallet ikke betyr
 
-It is easy to misread this number, so it helps to be precise:
+Det er lett å misforstå dette tallet, så det hjelper å være presis:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Det er et anslag for en befolkning.** Det beskriver demenstilfeller i hele verden,
+  ikke dine sjanser eller din forelders sjanser.
+- **Det forutsetter årsak og virkning.** Forfatterne sier at de bare tok med
+  risikofaktorer med overbevisende bevis, men at noen sammenhenger kan være bare
+  delvis årsaksbestemte. For eksempel kan depresjon i senere liv noen ganger være et
+  tidlig symptom på demens snarere enn en årsak.
+- **Det garanterer ingenting for én person.** UCL-oppsummeringen påpeker at det å
+  redusere risiko virker på befolkningsnivå, og ikke garanterer at en enkelt person
+  unngår demens.
+- **Den andre halvparten forklares ikke av disse faktorene.** Alder, gener og årsaker
+  forskerne ennå ikke forstår, utgjør resten.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Hva er forskjellen mellom «risikoreduksjon» og «forebygging»?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Risikoreduksjon** betyr å senke oddsene. Hvis en stor gruppe mennesker senker
+blodtrykket sitt, kan færre av dem få demens over mange år enn ellers. Noen i gruppen
+vil likevel få den.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Forebygging** antyder at noe stoppes helt. For demens er det ikke noe forskningen i
+dag kan love noen.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Forskere snakker også om **utsettelse**. Lancet-kommisjonen rapporterer nye bevis for
+at lavere risiko kan skyve tilbake når demens starter, og forkorte tiden en person
+lever med dårlig helse. Selv en utsettelse på noen få år kan bety mye for personen og
+familien.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+På denne siden bruker vi «lavere risiko» og «knyttet til» med vilje. Når du ser et
+produkt, et kosttilskudd eller et program som lover å «forebygge Alzheimers», bør du
+være forsiktig. NIA råder deg til å snakke med lege før du prøver en pille eller
+behandling som lover å forebygge Alzheimers, fordi slike produkter kan være utrygge,
+bortkastede penger, eller begge deler.
 
-## What have large trials found?
+## Hva har store studier funnet?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Observasjonsstudier (som følger med på hva som skjer med folk over tid) kan vise
+sammenhenger. Randomiserte studier, der folk tilfeldig plasseres i et program eller en
+sammenligningsgruppe, er den sterkere testen. Her er hva noen av de mest kjente
+studiene fant.
 
 ### FINGER (Finland)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER-studien inkluderte 1 260 voksne på 60 til 77 år som hadde høyere risiko for
+demens. Halvparten fikk et toårig program med kostråd, trening, datamaskinbaserte
+hjerneøvelser og kontroller av hjerte- og blodåresunnhet. Den andre halvparten fikk
+generelle helseråd. Programgruppen gjorde det litt bedre på et sett med tenkeprøver,
+en liten, men statistisk signifikant forskjell
+([FINGER-studien i The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Studien
+målte testresultater, ikke demensdiagnoser.
 
-### US POINTER (United States)
+### US POINTER (USA)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER inkluderte 2 111 voksne på 60 til 79 år som var inaktive, hadde et
+mindre sunt kosthold og andre risikofaktorer. Begge gruppene ble oppfordret til å
+være mer fysisk og mentalt aktive, spise bedre, holde seg sosiale og følge med på
+hjertehelsen. Én gruppe fikk et strukturert program med veiledning. Den andre styrte
+seg selv. Over to år ble tenkeprøveresultatene bedre i **begge** gruppene, og litt
+mer i den strukturerte gruppen
+([US POINTER-studien i JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Forfatterne
+sier at det trengs mer oppfølging for å vite om forskjellen betyr noe i hverdagen. Siden
+det ikke fantes en «gjør ingenting»-gruppe, kan studien ikke si hvor mye noen av
+programmene hjalp sammenlignet med ingen endring i det hele tatt.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (blodtrykk)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND studerte 9 361 amerikanske voksne på 50 år og eldre med høyt blodtrykk.
+De ble tildelt et lavere blodtrykksmål (øverste tall under 120) eller det vanlige
+målet (under 140). Det lavere målet reduserte **lett kognitiv svikt** betydelig, et
+stadium med hukommelses- og tenkeproblemer som kan komme før demens. For **sannsynlig
+demens** var det færre tilfeller i gruppen med det lavere målet, men forskjellen var
+ikke statistisk signifikant. Studien ble stoppet tidlig og hadde færre demenstilfeller
+enn forventet, så den kan ha vært for liten til å svare på spørsmålet
+([SPRINT MIND i JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Hva gjennomgangene samlet sett viser
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+En Cochrane-gjennomgang fra 2021 samlet ni store studier av programmer som tar tak i
+flere risikoer samtidig, med over 18 000 personer. Den fant en liten gevinst i
+tenkeprøver, men **ingen tydelig forskjell i hvor mange som fikk demens** i de to
+studiene som målte det
+([Cochrane-gjennomgang av flerdomene-tiltak](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+En gjennomgang fra 2017 av National Academies of Sciences, Engineering, and Medicine,
+oppsummert av NIA, fant «oppmuntrende, men ikke avgjørende» bevis for tre tilnærminger:
+å behandle høyt blodtrykk, øke fysisk aktivitet og kognitiv trening.
 
-## Does it matter when you start?
+## Betyr det noe når du starter?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet-kommisjonens råd er å senke risikoene så tidlig som mulig og holde dem lave så
+lenge som mulig: «jo tidligere, jo bedre» og «jo lenger, jo bedre». Den sier også at
+det aldri er for tidlig eller for sent å redusere risikoen. Mye av beviset gjelder
+midtlivet, omtrent 40 til 65 år, men noen faktorer, som synstap og sosial isolasjon,
+er risikoer i senere liv der tiltak fortsatt kan gi mening.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Rapporten sier at det nå finnes sterkere bevis for at lengre eksponering for en risiko
+har større effekt. For eksempel ser diabetes som starter i midtlivet ut til å bety mer
+enn diabetes som starter senere.
 
-## Is dementia risk the same for everyone?
+## Er risikoen for demens lik for alle?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nei. Kommisjonen fant at folk i land med lav og middels inntekt, folk fra minoritets-
+grupper og folk med mindre penger ofte har flere av disse risikoene, og demens utvikles
+derfor ofte tidligere. Mange risikoer er knyttet til forhold folk ikke selv har valgt,
+som kvaliteten på skolen de gikk på som barn, luften der de bor, og om sunn mat er
+rimelig og lett tilgjengelig.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Derfor retter kommisjonens anbefalinger seg like mye mot myndigheter som mot enkeltpersoner:
+god utdanning for alle barn, renere luft, tiltak for å redusere røyking, mindre sukker og
+salt i mat som selges i butikker og restauranter, og høreapparater til alle som trenger
+dem. Den enkeltes innsats betyr noe, men det gjør også verdenen folk lever i. Det er
+en grunn til mer for å ikke klandre noen for en diagnose.
 
-## What are the honest limits of this research?
+## Hva er de ærlige begrensningene i forskningen?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demens tar tiår å utvikle seg**, men de fleste studier varer i to til fem år. Å måle
+  selve demensen, ikke bare testresultater, krever svært lange og svært store studier.
+- **De fleste studier måler tenkeprøver.** En liten forbedring på en test betyr ikke
+  nødvendigvis at færre vil få demens, eller at hverdagen blir enklere.
+- **Frivillige er ofte friskere** og mer utdannet enn befolkningen generelt. Lancet-
+  kommisjonen påpeker at mesteparten av beviset fortsatt kommer fra land med høy inntekt,
+  og at minoritetsgrupper er underrepresentert.
+- **Noen sammenhenger går begge veier.** Å være mindre aktiv eller mindre sosial kan
+  være en tidlig effekt av demens, ikke bare en årsak.
+- **Kostholdsstudier har vært skuffende så langt.** En treårig studie av MIND-dietten fant
+  ingen signifikant forskjell i tenkeevne sammenlignet med en kontrollditt. Se vår
+  [veiledning om kosthold](/brain-health/diet/).
+- **Hjernespill er ikke bevist å forebygge demens.** Se vår veiledning om
+  [hjernespill og demens](/brain-health/brain-games/).
+- **Faste har svært begrenset bevis hos mennesker**, og det kan være risikabelt for eldre
+  voksne. Se vår [veiledning om faste](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Hvis noen gjorde alt «riktig», hvorfor fikk de likevel demens?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Fordi demens ikke bare er et resultat av valg. NIA sier at
+[alder er den største kjente risikofaktoren for Alzheimers](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+og ingen kan endre den. Gener spiller en rolle. Og forskerne forstår ennå ikke fullt ut
+hva som forårsaker Alzheimers hos de fleste. Selv om alle de 14 risikofaktorene ble
+fjernet, etterlater Lancet-kommisjonens eget anslag mer enn halvparten av tilfellene
+uforklart.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Så hvis du tar vare på noen som trente, spiste godt, aldri røykte og likevel fikk demens,
+er det ikke gjort noe galt, verken av dem eller av deg. Hvis du selv lever med demens, er
+det ikke din skyld. Skyldfølelse er vanlig i familier, men den er ikke fortjent. Det som
+betyr noe nå, er trygghet, kontakt og gode dager. Våre [aktivitetsideer](/activities/ideas/)
+og [veiledning om egenomsorg for pårørende](/caregiving/caregiver-self-care/) er et godt
+sted å starte.
 
-## What steps can you talk over with a doctor?
+## Hvilke steg kan du ta opp med legen?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Dette er områdene som oftest er studert. De er verdt å ta opp ved en kontroll, fordi de
+fleste også hjelper hjertehelse, humør og selvstendighet, uansett hva effekten på demens
+viser seg å bli.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Blodtrykk.** Spør hva tallene dine er, og hvilket mål som passer for deg. Lancet-
+   kommisjonen foreslår å sikte mot et øverste tall på 130 eller lavere fra omtrent 40 år,
+   men riktig mål for en eldre voksen avhenger av den generelle helsen.
+2. **Hørsel.** Be om en hørselstest, og om høreapparat kan hjelpe. Vår
+   [veiledning om hørsel](/brain-health/hearing/) forklarer forskningen.
+3. **Syn.** Ta regelmessige øyeundersøkelser, og spør om problemer som grå stær kan behandles.
+4. **Kolesterol.** Spør om LDL-kolesterolet ditt bør sjekkes, og om noe bør endres.
+5. **Blodsukker.** Hvis du har diabetes, spør hvordan du håndterer den trygt.
+6. **Humør.** Depresjon er vanlig og kan behandles. Si fra til legen hvis du har følt deg nedfor
+   eller mistet interessen for ting i mer enn et par uker.
+7. **Røyking og alkohol.** Spør om støtte til å slutte å røyke, og om trygge grenser for alkohol.
+8. **Bevegelse.** Spør hvilken type aktivitet som er trygg for deg. Vår
+   [veiledning om trening](/brain-health/exercise/) har ideer.
+9. **Hodebeskyttelse.** Bruk hjelm ved sykling og kontaktidretter, og spør om forebygging av fall.
+10. **Holde kontakten.** Tid med andre mennesker er en del av et sunt liv. Se vår veiledning om
+    [sosial kontakt](/brain-health/social-connection/), og også [søvn](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Før du endrer medisiner, kosthold, kosttilskudd, faste eller trening, snakk med legen først,
+særlig hvis du har hjertesykdom, diabetes, har falt tidligere, eller allerede lever med demens.
 
-## Talk with a doctor
+## Snakk med lege
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Hvis du legger merke til endringer i hukommelse eller tenkning som bekymrer deg, hos deg
+selv eller noen andre, bestill time. NIA påpeker at
+[hukommelsesproblemer kan ha andre årsaker](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+som bivirkninger av medisin, skjoldbruskkjertelproblemer, depresjon eller lavt nivå av
+vitamin B12, og at noen av disse problemene går over når årsaken behandles. Vår
+[veiledning om varselsignaler](/brain-health/warning-signs/) forklarer hva du bør se etter.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Få akutt hjelp** ved plutselige endringer: brå forvirring, svakhet eller nummenhet på
+den ene siden, vansker med å snakke, eller en kraftig hodepine kan være tegn på hjerneslag
+eller en annen nødsituasjon. Ring det lokale nødnummeret.
 
-## Where Golden Moments fits
+## Hvor Golden Moments passer inn
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments lager enkle felles aktiviteter, som [samtalekort](/games/conversation-cards/),
+[bildebingo](/games/picture-bingo/) og en [rolig pusteøvelse](/games/calm-breathing/).
+De er til glede og tid sammen. De er ikke en behandling, og de forebygger eller bremser ikke demens.

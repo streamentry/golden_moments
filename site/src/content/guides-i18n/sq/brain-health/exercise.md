@@ -1,32 +1,33 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Ushtrimet dhe shëndeti i trurit: çfarë lidh kërkimi dhe si të lëvizni në mënyrë të sigurt"
+seoTitle: "Ushtrimet dhe demenca: çfarë thotë kërkimi"
+description: "Çfarë lidh kërkimi midis aktivitetit fizik dhe rrezikut të demencës, plus mënyra të sigurta dhe të këndshme për të lëvizur për personat e moshuar dhe për personat me demencë."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Studimet lidhin aktivitetin e rregullt fizik me rrezik më të ulët demence, dhe
+  Komisioni Lancet i 2024 e liston mungesën e aktivitetit si një nga 14 faktorët
+  e rrezikut që mund të ndryshohen. Provimet nuk kanë provuar se ushtrimet
+  parandalojnë demencën. Lëvizja ndihmon akoma forcën, ekuilibrin, humorin dhe
+  gjumin, prandaj ecja, ushtrimet ulur dhe kërcimi vlejnë për vetveten. Konsultohuni
+  me mjekun përpara se të filloni diçka të re.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Personat fizikisht aktivë kanë, mesatarisht, rrezik më të ulët demence, por kjo vjen kryesisht nga studimet vëzhguese, jo nga provimet."
+  - "Një provim ushtrimesh pesë-vjeçar te të moshuarit nuk gjeti ndryshim të qartë në aftësitë e të menduarit mes grupeve."
+  - "Udhëzimet e CDC për të rriturit 65 vjeç e lart mbulojnë aktivitete aerobike, forcimin e muskujve dhe ekuilibrin, dhe thonë se çdo aktivitet është më mirë se asgjë."
+  - "Për personat që jetojnë me demencë, lëvizja e shkurtër, e njohur dhe e përbashkët, si një ecje e përditshme ose lojërat ulur, ka më shumë rëndësi sesa çdo objektiv."
+  - "Më shumë se një në katër të moshuar bien çdo vit, prandaj punët e ekuilibrit dhe një hapësirë e sigurt vijnë të parat."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "A mund të parandalojnë ushtrimet demencën?"
+    a: "Askush nuk mund ta premtojë këtë. Shumë studime lidhin qëndrimin aktiv me rrezik më të ulët demence, por provimet klinike nuk kanë treguar se ushtrimet e parandalojnë atë. Ushtrimet kanë shumë përfitime të tjera të provuara, prandaj ia vlen akoma t'i bëni."
+  - q: "A është e sigurt që dikush me demencë të bëjë ushtrime?"
+    a: "Zakonisht po, me pak planifikim. Instituti Kombëtar për Plakjen sugjeron të konsultoheni me mjekun e personit përpara se të filloni një rutinë të re, të zgjidhni këpucë të rehatshme, t'i ofroni ujë dhe ta mbani seancën të shkurtër. Ndaloni nëse personi duket i lodhur, i pasigurt ose i pakënaqur."
+  - q: "Cilat ushtrime mund të bëhen ulur?"
+    a: "Opsionet ulur përfshijnë shtrirje në karrige ose jogë në karrige, hedhjen e një balloni ose topi të butë, hedhjen e një thasë me fara, ngritjen e kanaçeve të supës, shiritat elastikë dhe pedalët e ushtrimit. Këto janë zgjedhje të mira kur ecja është e vështirë."
+  - q: "Çfarë nëse personi nuk dëshiron të lëvizë?"
+    a: "Mos e shtyni. Provoni përsëri më vonë, bashkohuni vetë, shtoni muzikë të njohur, ose ktheni lëvizjen në një detyrë, si fshirja ose ujitja e bimëve. Një ecje e shkurtër deri te kutia e postës vlen, dhe po kështu vlen edhe thjesht të uleni bashkë jashtë."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +52,82 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Të qenit aktiv është një nga zakonet më të studiuara në kërkimin e shëndetit të trurit. Studimet e lidhin me rrezik më të ulët demence, por nuk kanë provuar se ushtrimet parandalojnë demencën. Ajo që është e qartë është se lëvizja ndihmon forcën, ekuilibrin, humorin dhe gjumin në çdo moshë. Kjo faqe mbulon atë që thotë kërkimi, sa aktivitet këshillohet për të moshuarit, dhe mënyra të buta për të lëvizur me dikë që jeton me demencë.
 
-## Does exercise lower the risk of dementia?
+## A e ul ushtrimi rrezikun e demencës?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Kërkimi sugjeron se personat fizikisht aktivë kanë më pak gjasa të zhvillojnë demencë, por provat kanë kufij. [Komisioni Lancet 2024 për demencën](https://doi.org/10.1016/S0140-6736(24)01296-0) e liston mungesën e aktivitetit fizik si një nga 14 faktorët e rrezikut që mund të ndryshohen. Së bashku, këta 14 faktorë llogarisin rreth 45% të demencës në botë, sipas modelit të tij.
 
-Here is what the evidence looks like:
+Ja si duken provat:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Studimet vëzhguese tregojnë në një drejtim.** Një rishikim i 58 studimeve, i diskutuar nga Komisioni, gjeti se personat fizikisht aktivë kishin rreth 20% rrezik më të ulët demence. Ndryshimi më i madh ishte mes personave pothuajse krejt joaktivë dhe atyre që bënin të paktën pak aktivitet.
+- **Lidhja mund të veprojë në të dyja drejtimet.** Komisioni thotë se mungesa e aktivitetit mund ta rrisë rrezikun. Ai thotë gjithashtu se ndryshimet e hershme në tru të demencës, që fillojnë vite para diagnozës, mund t'i bëjnë njerëzit më pak aktivë.
+- **Provimet janë më pak të qarta.** Në një provim, 945 të moshuar me moshë mesatare 78 vjeç u caktuan në pesë vjet ushtrime të mbikqyrura dy herë në javë, ose në një grup krahasimi. Në fund, aftësitë e të menduarit nuk dallonin qartë mes grupeve. Shumë persona në grupin e krahasimit ishin gjithashtu aktivë, gjë që e bën rezultatin më të vështirë për t'u lexuar.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) e thotë qartë. Nuk është treguar një lidhje e qartë midis aktivitetit fizik dhe parandalimit të Alzheimer-it, dhe nuk ka prova të mjaftueshme nga provimet për të thënë se ushtrimet e parandalojnë ose e ngadalësojnë atë. Ushtrimet ende ulin rrezikun e rënieve, depresionit, diabetit, tensionit të lartë të gjakut dhe goditjes në tru. Disa nga këto gjendje janë vetë të lidhura me rënien njohëse.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Mësimi i sinqertë është të lëvizni sepse ndihmon t'ju ndihet dhe të funksiononi më mirë sot. Çdo përfitim për trurin është një bonus i mundshëm, jo një premtim.
 
-## How much activity do older adults need?
+## Sa aktivitet kanë nevojë të moshuarit?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[Udhëzimet e CDC për të rriturit 65 vjeç e lart](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) sugjerojnë tre lloje aktiviteti çdo javë:
 
-| Type | Weekly amount | Examples |
+| Lloji | Sasia javore | Shembuj |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Aerobik | Të paktën 150 minuta aktivitet të moderuar, si 30 minuta në 5 ditë | Ecje e shpejtë, vallëzim, aerobikë në ujë |
+| Forcimi i muskujve | Të paktën 2 ditë, duke punuar të gjitha grupet kryesore të muskujve | Ngritje peshash të lehta ose kanaçesh supe, shirita elastikë |
+| Ekuilibri | Rregullisht | Ecje thembër pas gishtave, ngritje nga një karrige |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Këto janë objektiva, jo kërkesa për hyrje. CDC thotë se nëse nuk mund t'i arrini, duhet të jeni aktivë sa lejojnë aftësitë dhe shëndeti juaj. Çdo aktivitet është më mirë se asgjë.
 
-## Gentle ways to move for older adults
+## Mënyra të buta për të lëvizur për të moshuarit
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Ecni në shoqëri.** Një ecje e përditshme me një mik, fqinj ose grup ecjeje shton bisedë dhe siguri.
+- **Ushtrime ulur.** Ngritje krahësh ulur, rrotullime të kyçeve të këmbës, marshim në vend dhe jogë në karrige ndërtojnë forcë pa rrezik ekuilibri.
+- **Vallëzoni në kuzhinë.** Vendosni muzikë nga rinia e personit dhe lëkundeni, trokitni ose hapni hapa. [Udhëzuesi ynë për aktivitetet muzikore](/activities/music/) ka ide.
+- **Forcë me sende shtëpiake.** Ngrini shishe uji të mbushura ose kanaçe supe ndërsa shikoni një shfaqje të preferuar.
+- **Punoni në kopsht ose bëni punët.** Ujitja e bimëve, grumbullimi i gjetheve, fshirja dhe palosja e rrobave llogariten. Shihni [aktivitetet në natyrë dhe kopshtari](/activities/outdoor-and-gardening/) dhe [punët e shtëpisë](/activities/household-tasks/).
+- **Ushtrime në ujë.** NIA e liston aerobikën në ujë si një mundësi për personat që e gjejnë të vështirë ushtrimin në tokë për shkak të kyçeve.
 
-## How to exercise with someone living with dementia
+## Si të bëni ushtrime me dikë që jeton me demencë
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+Për një person që jeton me demencë, qëllimi është rehatia, kënaqësia dhe ruajtja e aftësive të përditshme, jo arritja e një numri. NIA thotë se aktiviteti fizik ndihmon muskujt, kyçet dhe zemrën e dikujt me Alzheimer të mbeten në gjendje të mirë, dhe mund të përmirësojë gjithashtu humorin dhe gjumin. Konsultohuni me mjekun e tij përpara se të filloni një rutinë të re. Këshillat nga [udhëzuesi i NIA për kujdestarët](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) përfshijnë:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Ecni bashkë çdo ditë.** Zgjidhni një rrugë të sigurt dhe të njohur, pa pengesa. Nëse personi ecën vetëm, një byzylyk identifikimi me numrin tuaj të telefonit është ide e mirë.
+2. **Provoni video ushtrimesh për të moshuarit.** Ndiqni bashkë, ulur ose në këmbë.
+3. **Mbajini seancat të shkurtra.** Disa "mini-stërvitje" të shkurtra mund të funksionojnë më mirë sesa një e gjatë.
+4. **Shtoni muzikë.** Këngët e njohura e bëjnë lëvizjen të ndihet si aktivitet, jo si detyrë. Vallëzoni nëse personit i pëlqen.
+5. **Ofroni ujë dhe këpucë të rehatshme.** Ofroni ujë ose lëng gjatë dhe pas ushtrimit, dhe zgjidhni rroba të rehatshme dhe këpucë me madhësi të duhur, të bëra për ushtrime.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Nëse ecja është e vështirë, [udhëzuesi i NIA për kujdesin ndaj një personi me Alzheimer](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) sugjeron opsione ulur. Këto përfshijnë ushtrime ose jogë në karrige, hedhjen e një thasë me fara, hedhjen e një topi të butë ose balloni, shirita elastikë, ngritjen e sendeve të lehta shtëpiake dhe pedalët e ushtrimit. Punët e thjeshta si fshirja dhe pluhurosja gjithashtu llogariten.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Jini realistë për atë që mund të bëjë lëvizja. Komisioni Lancet nuk gjeti prova që ushtrimi zvogëlon ndryshimet e sjelljes, si agjitacioni. Lëvizni bashkë sepse mund të ndihet mirë, jo si një mënyrë për të zgjidhur një pasdite të vështirë. Nëse personi thotë jo, është në rregull. Udhëzuesi ynë për [kur thonë jo](/caregiving/when-they-say-no/) ka mënyra të buta për të provuar përsëri më vonë. Ndërprerja herët, ose thjesht uljen bashkë jashtë, është gjithashtu një rezultat i mirë.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Pas lëvizjes, një pauzë e qetë si [Frymëmarrja e qetë](/games/calm-breathing/) mund t'ju ndihmojë të dy të qetësoheni. Për një aktivitet ulur me lëvizje të butë të krahëve, [Renditni bashkë](/games/sort-together/) dhe [Bingo me figura](/games/picture-bingo/) funksionojnë mirë në tavolinë.
 
-## Balance and fall safety
+## Ekuilibri dhe siguria nga rënia
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Rënia është e zakonshme dhe serioze. [CDC raporton](https://www.cdc.gov/falls/data-research/facts-stats/index.html) se më shumë se një në katër të moshuar bien çdo vit, por më pak se gjysma ua tregojnë mjekut. Rënia një herë e dyfishon gjasën për të rënë përsëri. Faktorët e rrezikut që CDC i liston përfshijnë:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Dobësi në këmbë dhe në ijë
+- Vështirësi në ecje dhe ekuilibër
+- Disa ilaçe, përfshirë sedativët dhe disa antidepresivë
+- Probleme të shikimit
+- Dhimbje në këmbë ose këpucë të dobëta
+- Rreziqe në shtëpi, si sende të tepërta, qilima të lirë dhe shkallë të dëmtuara
 
-To move more safely:
+Për të lëvizur më në siguri:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Përdorni një karrige të fortë** pa rrota, dhe mbani një tavolinë ose një kornizë në dorë për ushtrimet në këmbë.
+- **Pastroni hapësirën** nga qilimat, telat dhe sendet e tepërta, së pari.
+- **Shkoni ngadalë kur ngriheni**, dhe ndaloni nëse personi ndihet i marramendur ose i pasigurt.
+- **Vishni këpucë mbështetëse**, jo çorape ose pantofla të lira.
+- **Praktikoni ekuilibrin pranë mbështetjes.** Ngritja nga një karrige dhe ecja thembër pas gishtave janë shembuj të CDC të aktiviteteve të ekuilibrit.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC këshillon që një i moshuar që bie dhe godet kokën të shkojë menjëherë te mjeku, sidomos nëse merr ilaçe që hollojnë gjakun.
 
-## Talk with a doctor
+## Flisni me mjekun
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Konsultohuni me mjekun përpara se të filloni një rutinë të re ushtrimesh, sidomos për dikë që ka probleme me zemrën ose mushkëritë, dhimbje në kyçe, probleme ekuilibri, ose demencë. Një mjek ose fizioterapist mund të sugjerojë aktivitete të sigurta dhe të kontrollojë nëse ilaçet ndikojnë në ekuilibër. Tregojani mjekut për çdo rënie, edhe pa lëndim. Nëse diçka dhemb ose ndihet keq gjatë ushtrimit, ndaloni. Për dhimbje të papritur në gjoks, vështirësi në frymëmarrje, ose konfuzion të papritur, telefononi numrin e emergjencave në vendin tuaj.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Kjo faqe është informacion i përgjithshëm, jo këshillë mjekësore. Shihni [njoftimin tonë mjekësor](/medical-disclaimer/). Për pamjen më të gjerë, lexoni [çfarë thotë kërkimi për faktorët e rrezikut të demencës](/brain-health/risk-factors/) dhe [a mund të parandalohet demenca](/brain-health/can-dementia-be-prevented/).

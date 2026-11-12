@@ -1,34 +1,29 @@
 ---
-title: "Sundowning: Calm Late-Afternoon Activities for People with Dementia"
-seoTitle: "Sundowning: Calm Late-Afternoon Activities"
-description: "Gentle routines, room changes and calm activities that may ease late-day restlessness in dementia, plus when to call a doctor about new or worsening symptoms."
+title: "Kveldsuro: Rolige aktiviteter på ettermiddagen for personer med demens"
+seoTitle: "Kveldsuro: Rolige aktiviteter på ettermiddagen"
+description: "Faste rutiner, endringer i rommet og rolige aktiviteter som kan dempe kveldsuro ved demens, og når du bør ringe lege ved nye eller verre symptomer."
 section: caregiving
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sundowning is restlessness, confusion or irritability that starts or gets
-  worse in the late afternoon or evening. Practical steps that may help include
-  a steady daily routine, daylight and activity earlier in the day, fewer late
-  naps, less caffeine, bright indoor lights before dusk, a quieter home, and
-  calm activities like music, photos or folding laundry. New or worsening
-  symptoms need a doctor's check.
+  Kveldsuro er rastløshet, forvirring eller irritabilitet som begynner eller blir verre på ettermiddagen eller kvelden. Praktiske tiltak som kan hjelpe, er en fast daglig rytme, dagslys og aktivitet tidlig på dagen, færre sene lurer, mindre koffein, lys inne før skumring, et stille hjem og rolige aktiviteter som musikk, bilder eller å brette klær. Nye eller verre symptomer må sjekkes av lege.
 keyPoints:
-  - "Sundowning means restlessness or confusion that starts or worsens as daylight fades."
-  - "Put demanding tasks, outings and bathing in the morning or early afternoon."
-  - "Daylight, a daily walk, fewer late naps and less late-day caffeine may help evenings go more smoothly."
-  - "Turn lights on before dusk, lower noise, and switch to calm, familiar activities."
-  - "Keep a log to spot triggers, and stay calm and reassuring when restlessness starts."
-  - "See a doctor for new or worsening symptoms: pain, infection or medicines can play a part."
+  - "Kveldsuro betyr rastløshet eller forvirring som begynner eller blir verre når dagslyset forsvinner."
+  - "Legg krevende oppgaver, turer og bading til morgenen eller tidlig på ettermiddagen."
+  - "Dagslys, en daglig gåtur, færre sene lurer og mindre koffein på ettermiddagen kan gjøre kveldene roligere."
+  - "Tenn lysene før skumring, senk støynivået og velg rolige, kjente aktiviteter."
+  - "Før en logg for å finne utløsende faktorer, og vær rolig og trygg når uroen begynner."
+  - "Snakk med lege ved nye eller verre symptomer: smerte, infeksjon eller medisiner kan spille en rolle."
 faq:
-  - q: "What time of day does sundowning usually happen?"
-    a: "It typically starts or worsens in the late afternoon or early evening, as daylight fades. The exact timing varies from person to person, which is why keeping a short log for a week or two can help."
-  - q: "What activities help with sundowning?"
-    a: "Calm, familiar, low-effort activities tend to work best in the late afternoon: soothing music, looking at photos, a favorite TV show or movie, folding laundry, a short walk, or a snack together. Save new or challenging activities for earlier in the day."
-  - q: "Can sundowning be a sign of something medical?"
-    a: "It can be made worse by health problems such as pain, infections like urinary tract infections, sleep problems or medicine side effects. If restlessness is new, sudden or getting worse, contact the person's doctor."
-  - q: "Should I ask the doctor about medicine for sundowning?"
-    a: "That is a conversation to have with the doctor. The Alzheimer's Association says non-drug approaches are generally preferred first, and that any medicine for evening agitation should be considered only after weighing risks and benefits. This page does not give medication advice."
+  - q: "Når på dagen pleier kveldsuro å komme?"
+    a: "Den starter eller blir vanligvis verre på ettermiddagen eller tidlig på kvelden, når dagslyset avtar. Tidspunktet varierer fra person til person, og derfor kan det hjelpe å føre en kort logg i en uke eller to."
+  - q: "Hvilke aktiviteter hjelper ved kveldsuro?"
+    a: "Rolige, kjente aktiviteter med lite krav fungerer best på ettermiddagen: stille musikk, se på bilder, et favorittprogram på TV eller en film, brette klær, en kort gåtur eller å spise en matbit sammen. Spar nye eller krevende aktiviteter til tidlig på dagen."
+  - q: "Kan kveldsuro være et tegn på noe medisinsk?"
+    a: "Den kan bli verre av helseproblemer som smerte, infeksjoner som urinveisinfeksjon, søvnproblemer eller bivirkninger av medisiner. Hvis uroen er ny, plutselig eller blir verre, bør du kontakte personens lege."
+  - q: "Bør jeg spørre legen om medisin mot kveldsuro?"
+    a: "Det er en samtale du bør ha med legen. Alzheimer's Association sier at medisinfrie tiltak vanligvis foretrekkes først, og at medisin mot uro på kvelden bare bør vurderes etter at risiko og nytte er veid mot hverandre. Denne siden gir ikke råd om medisiner."
 sources:
   - title: "Coping With Agitation, Aggression, and Sundowning in Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -47,101 +42,101 @@ related: [caregiving/asking-to-go-home, caregiving/when-they-say-no, caregiving/
 health: true
 ---
 
-Many families notice the same pattern: mornings are fairly settled, but as the afternoon wears on, the person living with dementia becomes restless, anxious, confused or irritable. They may pace, ask to "go home" even when they are home, or become upset easily. This is often called sundowning.
+Mange familier merker det samme mønsteret: morgenene er ganske rolige, men utover ettermiddagen blir personen med demens rastløs, engstelig, forvirret eller irritabel. Personen kan gå frem og tilbake, spørre om å «dra hjem» selv når hen er hjemme, eller bli lett opprørt. Dette kalles ofte kveldsuro, eller sundowning på engelsk.
 
-There is no single fix, but changes to the day's rhythm, the room and the kind of activities you offer may make late afternoons calmer. This page gathers practical, non-medical ideas from the National Institute on Aging and the Alzheimer's Association. It is not medical advice. If symptoms are new, sudden or getting worse, talk with the person's doctor.
+Det finnes ingen enkel løsning, men endringer i dagsrytmen, i rommet og i hvilke aktiviteter du tilbyr, kan gjøre ettermiddagene roligere. Denne siden samler praktiske, ikke-medisinske ideer fra National Institute on Aging og Alzheimer's Association. Den er ikke medisinsk råd. Hvis symptomene er nye, plutselige eller blir verre, snakk med personens lege.
 
-## What is sundowning?
+## Hva er kveldsuro?
 
-Sundowning is restlessness, agitation, irritability or confusion that begins or gets worse as daylight fades, in the late afternoon or early evening. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) notes that being overly tired can increase late-day restlessness.
+Kveldsuro er rastløshet, uro, irritabilitet eller forvirring som begynner eller blir verre når dagslyset avtar, på ettermiddagen eller tidlig på kvelden. [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) påpeker at det kan øke rastløsheten på kvelden å være for trøtt.
 
-## What can make late-day restlessness worse?
+## Hva kan gjøre rastløsheten på kvelden verre?
 
-Several things may contribute, often together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) lists factors such as:
+Flere ting kan spille inn, ofte samtidig. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/sleep-issues-sundowning) nevner blant annet:
 
-- exhaustion after a full day;
-- new or confusing surroundings;
-- an "internal body clock" that is out of step, leaving the person sleepy by day and awake at night;
-- low light and shadows, which can be confusing;
-- picking up on stress or frustration from people around them;
-- needing less sleep, which is common in older adults.
+- utmattelse etter en full dag;
+- nye eller forvirrende omgivelser;
+- en «indre klokke» som er ute av takt, slik at personen er søvnig om dagen og våken om natten;
+- lite lys og skygger, som kan virke forvirrende;
+- at personen tar opp stress eller frustrasjon fra folk rundt seg;
+- at man trenger mindre søvn, noe som er vanlig hos eldre.
 
-The NIA adds causes of agitation more generally, including pain, depression or stress, too little rest, constipation, too much noise or too many people, and certain medicines or medicine interactions.
+NIA legger til mer generelle årsaker til uro, blant annet smerte, depresjon eller stress, for lite hvile, forstoppelse, for mye støy eller for mange mennesker, og visse medisiner eller medisinske vekselvirkninger.
 
-## How can I plan the day to make evenings calmer?
+## Hvordan kan jeg planlegge dagen slik at kveldene blir roligere?
 
-Shift demanding things earlier and keep the late afternoon gentle and predictable. Both the NIA and the Alzheimer's Association recommend a regular routine. A sample day, to adapt to your own:
+Flytt krevende ting tidligere på dagen, og hold ettermiddagen rolig og forutsigbar. Både NIA og Alzheimer's Association anbefaler en fast rutine. Et eksempel på en dag, som du kan tilpasse til din egen:
 
-| Time | What may help |
+| Tid | Hva kan hjelpe |
 | --- | --- |
-| Morning | Appointments, bathing, outings and any task that takes effort, when many people are most alert |
-| Late morning | Time outdoors or by a sunny window; a walk or other activity |
-| Midday | A larger lunch (the Alzheimer's Association suggests a bigger lunch and lighter evening meal) |
-| Early afternoon | Rest if needed, but avoid long naps late in the day |
-| Mid to late afternoon | Calm, familiar activities; a snack and drink; no caffeine |
-| Before dusk | Turn indoor lights on and close curtains before it gets dark |
-| Evening | A lighter meal, quiet music, low stimulation, a steady bedtime routine |
+| Morgen | Timer, bading, turer og alt som krever innsats, når de fleste er mest opplagte |
+| Sen formiddag | Tid ute eller ved et solrikt vindu; en gåtur eller en annen aktivitet |
+| Midt på dagen | En større lunsj (Alzheimer's Association foreslår større lunsj og lettere middag om kvelden) |
+| Tidlig på ettermiddagen | Hvile ved behov, men unngå lange lurer sent på dagen |
+| Midt til sen ettermiddag | Rolige, kjente aktiviteter; en matbit og noe å drikke; ingen koffein |
+| Før skumring | Slå på innelyset og dra for gardinene før det blir mørkt |
+| Kveld | Et lettere måltid, rolig musikk, lite stimulering og en fast leggerutine |
 
-A few specific points from the sources:
+Noen konkrete punkter fra kildene:
 
-- **Daylight.** The NIA suggests arranging time outside or by a window for sunlight each day.
-- **Daily movement, but not too much.** Aim to be physically active each day without planning too many activities, says the NIA.
-- **Late-day drinks.** Avoid alcohol and drinks with caffeine, such as coffee or cola, late in the day (NIA). The Alzheimer's Association also mentions nicotine.
-- **Naps.** Discourage long naps and dozing late in the day (NIA). The Alzheimer's Association suggests limiting daytime naps if nighttime sleep is a problem.
+- **Dagslys.** NIA foreslår at personen får tid ute eller ved et vindu i dagslys hver dag.
+- **Daglig bevegelse, men ikke for mye.** Sikt på å være fysisk aktiv hver dag uten å planlegge for mange aktiviteter, sier NIA.
+- **Drikke på kvelden.** Unngå alkohol og drikke med koffein, som kaffe eller cola, sent på dagen (NIA). Alzheimer's Association nevner også nikotin.
+- **Lurer.** Unngå lange lurer og døsing sent på dagen (NIA). Alzheimer's Association foreslår å begrense dagslurer hvis nattesøvnen er et problem.
 
-For more on building a steady day, see [daily routine activities](/activities/daily-routine/).
+For mer om å bygge en stabil dag, se [aktiviteter for daglig rutine](/activities/daily-routine/).
 
-## How can I make the home calmer in the late afternoon?
+## Hvordan kan jeg gjøre hjemmet roligere på ettermiddagen?
 
-Reduce noise, add light and keep familiar things close.
+Reduser støy, øk lyset og ha kjente ting i nærheten.
 
-- **Bright, even lighting.** The Alzheimer's Association recommends keeping the home well lit in the evening. Light the space before shadows appear.
-- **Less noise.** Turn off or lower the TV and radio, and limit visitors or busy household jobs at this time. The Alzheimer's Association suggests reducing evening stimulation such as TV, chores and loud music.
-- **Familiar comforts.** The NIA suggests soothing music and keeping well-loved objects and photos around the home.
-- **Comfort checks.** The Alzheimer's Association recommends checking for pain, hunger, thirst, constipation, a full bladder, tiredness, infections and skin irritation, and keeping the room at a comfortable temperature.
-- **Your own mood.** People pick up on stress. The NIA suggests slowing down and trying to relax if your own worries may be adding to the tension.
+- **Jevnt, godt lys.** Alzheimer's Association anbefaler at hjemmet er godt opplyst om kvelden. Lys opp rommet før skyggene kommer.
+- **Mindre støy.** Slå av eller skru ned TV og radio, og begrens besøk og travle husarbeid på dette tidspunktet. Alzheimer's Association foreslår å redusere stimulering på kvelden, som TV, husarbeid og høy musikk.
+- **Kjent trygghet.** NIA foreslår beroligende musikk, og å ha kjære gjenstander og bilder rundt seg i hjemmet.
+- **Sjekk av komfort.** Alzheimer's Association anbefaler å se etter smerte, sult, tørst, forstoppelse, full blære, tretthet, infeksjoner og hudirritasjon, og å holde rommet på en behagelig temperatur.
+- **Din egen stemning.** Folk tar opp stress. NIA foreslår at du senker tempoet og prøver å slappe av hvis dine egne bekymringer kan øke spenningen.
 
-## What calm activities can we do in the late afternoon?
+## Hvilke rolige aktiviteter kan vi gjøre på ettermiddagen?
 
-Choose activities that are familiar, unhurried and easy to stop. The Alzheimer's Association suggests soothing activities such as calm music, photos or a favorite movie, and a walk together to ease restlessness. The NIA suggests a snack or drink, a favorite TV show, music, a walk, reading, or a simple household chore like folding laundry.
+Velg aktiviteter som er kjente, uten hastverk og lette å avslutte. Alzheimer's Association foreslår beroligende aktiviteter som rolig musikk, bilder eller en favorittfilm, og en gåtur sammen for å dempe rastløsheten. NIA foreslår en matbit eller noe å drikke, et favorittprogram på TV, musikk, en gåtur, lesing eller et enkelt husarbeid som å brette klær.
 
-Ideas to try:
+Ideer du kan prøve:
 
-1. **Fold laundry together.** The NIA suggests this kind of simple household chore. Towels are easy to handle, and the task has a clear end.
-2. **Play favorite music.** Familiar songs from their younger years, at a low volume. Humming along counts. More ideas in [music activities](/activities/music/).
-3. **Look at photos.** A photo album, or a few family pictures in [Photo Pairs](/games/photo-pairs/) with the pictures left visible, can lead to quiet conversation.
-4. **Take a short walk.** Around the garden, the block or a hallway, before it gets dark.
-5. **Share a snack and a drink.** Something simple, warm and caffeine-free, at the table together.
-6. **Gentle matching.** [Picture Pairs](/games/picture-pairs/) with four tiles and pictures visible is easy to start and easy to stop.
-7. **Coloring.** [Coloring](/games/coloring/) on screen or on a printed page, with no goal of finishing.
-8. **Looking and talking.** [Conversation Cards](/games/conversation-cards/) offer a picture and an open prompt. Simply looking is enough.
-9. **A breathing pause.** [Calm Breathing](/games/calm-breathing/) is a slow, quiet pause you start and stop yourself.
-10. **Hand tasks.** Sorting buttons or socks, smoothing a soft blanket, or holding a familiar object. See [sensory activities](/activities/sensory/).
+1. **Brett klær sammen.** NIA foreslår slike enkle husoppgaver. Håndklær er lette å holde i, og oppgaven har en klar slutt.
+2. **Spill favorittmusikk.** Kjente sanger fra ungdomsårene, med lav lyd. Det er fint å nynne med. Flere ideer finnes i [musikkaktiviteter](/activities/music/).
+3. **Se på bilder.** Et fotoalbum, eller noen familiebilder i [Bildepar](/games/photo-pairs/) med bildene synlige, kan gi en rolig samtale.
+4. **Ta en kort gåtur.** Rundt hagen, i nabolaget eller i gangen, før det blir mørkt.
+5. **Del en matbit og noe å drikke.** Noe enkelt, varmt og uten koffein, ved bordet sammen.
+6. **Rolig matching.** [Bildepar](/games/picture-pairs/) med fire brikker og synlige bilder er lett å starte og lett å stoppe.
+7. **Fargelegging.** [Fargelegging](/games/coloring/) på skjermen eller på en utskrevet side, uten mål om å bli ferdig.
+8. **Se og snakk.** [Samtalekort](/games/conversation-cards/) gir et bilde og et åpent spørsmål. Det er nok å bare se på.
+9. **En pustepause.** [Rolig pusting](/games/calm-breathing/) er en rolig, langsom pause du starter og avslutter selv.
+10. **Håndoppgaver.** Sortere knapper eller sokker, glatte ut et mykt teppe, eller holde i en kjent gjenstand. Se [sanseaktiviteter](/activities/sensory/).
 
-Avoid new games, busy outings and anything that asks a lot of memory or concentration late in the day. Save those for the morning.
+Unngå nye spill, travle utflukter og alt som krever mye hukommelse eller konsentrasjon sent på dagen. Spar dem til morgenen.
 
-## What should I do when restlessness starts?
+## Hva bør jeg gjøre når uroen begynner?
 
-Stay calm, reassure, and gently redirect. The NIA suggests speaking calmly, listening to the person's concerns, avoiding arguments, reassuring them that they are safe, and using gentle touch if it helps. Then try a distraction: a snack, a drink, music or a walk.
+Vær rolig, berolig og led forsiktig over til noe annet. NIA foreslår å snakke rolig, lytte til personens bekymringer, unngå krangel, forsikre personen om at hen er trygg, og bruke forsiktig berøring hvis det hjelper. Prøv deretter en avledning: en matbit, noe å drikke, musikk eller en gåtur.
 
-The Alzheimer's Association suggests phrases like "You're safe here" and "I'm sorry that you are upset," and advises adding light, slowing down and limiting stimulation. Do not corner, crowd or restrain the person, or argue with them.
+Alzheimer's Association foreslår setninger som «Du er trygg her» og «Jeg beklager at du er opprørt», og anbefaler å legge til lys, senke tempoet og begrense stimuli. Ikke trekk personen inn i et hjørne, tett inntil eller hold fast, og ikke krangle med vedkommende.
 
-If the person becomes aggressive, the NIA advises staying at a safe distance until the behavior stops. In an emergency, call 911 and explain that the person has dementia.
+Hvis personen blir aggressiv, sier NIA at du bør holde trygg avstand til atferden stopper. Ved nødsituasjon, ring lokalt nødnummer og fortell at personen har demens. Vår [veiledning om sinne og aggresjon](/caregiving/when-anger-becomes-aggression-with-dementia/) dekker umiddelbar sikkerhet og hva du gjør etterpå.
 
-Our guides on [communication](/caregiving/communication-tips/) and [what to do when they say no](/caregiving/when-they-say-no/) have more on calming words.
+Våre veiledninger om [kommunikasjon](/caregiving/communication-tips/) og [hva du gjør når de sier nei](/caregiving/when-they-say-no/) har mer om å bruke rolige ord.
 
-## How do I find the triggers?
+## Hvordan finner jeg utløserne?
 
-Keep a short log for a week or two. The Alzheimer's Association recommends tracking what happens before sundowning episodes to identify triggers. Note the time restlessness began, what happened in the hour before, naps, meals and drinks, visitors, noise and light. Bring the log to the doctor. The NIA notes that keeping track of behavior changes can help caregivers and health care providers recognize a pattern.
+Før en kort logg i en uke eller to. Alzheimer's Association anbefaler å følge med på hva som skjer før episoder med kveldsuro, for å finne utløsende faktorer. Noter tidspunktet uroen begynte, hva som skjedde den siste timen, lurer, måltider og drikke, besøk, støy og lys. Ta loggen med til legen. NIA påpeker at å følge med på endringer i atferd kan hjelpe pårørende og helsepersonell med å se et mønster.
 
-## When should I call a doctor about sundowning?
+## Når bør jeg ringe lege om kveldsuro?
 
-Contact the person's doctor if restlessness is new, suddenly worse, or comes with other changes. The NIA says sudden or rapidly fluctuating changes in behavior, especially after an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Kontakt personens lege hvis uroen er ny, plutselig verre eller kommer sammen med andre endringer. NIA sier at plutselige eller raskt svingende endringer i atferd, særlig etter en infeksjon eller medisinendringer, må tas opp med lege med en gang.
 
-Ask the doctor to check for things that can make evenings harder. The Alzheimer's Association mentions physical problems such as urinary tract infections, incontinence, restless legs and sleep apnea, and suggests asking which times of day are best for each medicine. The NIA lists pain, constipation and medicine side effects or interactions among possible causes of agitation.
+Be legen sjekke for ting som kan gjøre kveldene vanskeligere. Alzheimer's Association nevner fysiske problemer som urinveisinfeksjoner, inkontinens, urolige ben og søvnapné, og foreslår å spørre hvilke tidspunkter på dagen som er best for hver medisin. NIA nevner smerte, forstoppelse og bivirkninger eller vekselvirkninger av medisiner blant mulige årsaker til uro.
 
-The Alzheimer's Association says non-drug approaches are generally preferred for sleep problems linked to Alzheimer's, and that medicine for late-day agitation should be considered only if those fail, after weighing risks and benefits. That decision belongs with the doctor. Do not start, stop or change any medicine, sleep aid or supplement without medical advice.
+Alzheimer's Association sier at medisinfrie tiltak vanligvis foretrekkes ved søvnproblemer knyttet til Alzheimer's, og at medisin mot uro på kvelden bare bør vurderes hvis disse ikke fungerer, etter at risiko og nytte er veid mot hverandre. Den avgjørelsen hører til hos legen. Ikke start, stopp eller endre noen medisin, sovemiddel eller kosttilskudd uten medisinsk råd.
 
-## How do I get through the evenings myself?
+## Hvordan klarer jeg kveldene selv?
 
-Late afternoons can be the hardest part of a caregiver's day. If you can, ask a family member, friend or paid helper to cover the late afternoon a few days a week, even for an hour. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) lists respite options and the free Alzheimer's Association 24/7 Helpline.
+Ettermiddagene kan være den vanskeligste delen av en pårørendes dag. Hvis du kan, be et familiemedlem, en venn eller en betalt hjelper om å ta ettermiddagen et par dager i uken, selv bare i en time. Vår veiledning om [egenomsorg for pårørende](/caregiving/caregiver-self-care/) lister opp avlastningstilbud og den gratis døgnåpne telefonlinjen fra Alzheimer's Association (24/7 Helpline).

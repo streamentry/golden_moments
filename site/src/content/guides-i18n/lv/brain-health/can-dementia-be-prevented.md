@@ -1,35 +1,35 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Vai demenci var novērst? Ko saka pētījumi"
+seoTitle: "Vai demenci var novērst? Ko saka pētījumi"
+description: "Ko 2024. gada Lancet komisija un lielie izmēģinājumi atklāja par demences riska samazināšanu, ko tie neatklāja un par ko vērts pārrunāt ar ārstu."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Neviens nevar apsolīt, ka demenci novērsīs. 2024. gada Lancet komisija lēsa,
+  ka gandrīz pusi demences gadījumu pasaulē var saistīt ar 14 riska faktoriem,
+  kurus potenciāli var mainīt, piemēram, augstu asinsspiedienu, dzirdes zudumu un
+  kustību trūkumu. Izmēģinājumi rāda nelielus efektus domāšanas testos, nevis
+  pierādījumu, ka demences gadījumu ir mazāk. Daudzi cilvēki, kas dara visu
+  „pareizi”, joprojām saslimst ar demenci, un tā nav nevienas vaina.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024. gada Lancet komisija saistīja aptuveni 45% demences gadījumu pasaulē ar 14 potenciāli mainīgiem riska faktoriem. Tā ir populācijas aplēse, nevis personīga garantija."
+  - "Riska samazināšana nozīmē zemāku iespējamību visā populācijā. Tā nenozīmē, ka kāds konkrēts cilvēks var izvairīties no demences."
+  - "Lieli izmēģinājumi, piemēram, FINGER, US POINTER un SPRINT MIND, atklāja nelielus ieguvumus domāšanas testos vai vieglos kognitīvos traucējumos, taču neviens neapliecināja, ka dzīvesveida programma novērš demenci."
+  - "Vecums ir lielākais zināmais Alcheimera slimības riska faktors, un to nevar mainīt. Daudzi cilvēki ar veselīgiem paradumiem joprojām saslimst ar demenci."
+  - "Visbiežāk pētītos soļus, piemēram, augsta asinsspiediena ārstēšanu, dzirdes aparātu lietošanu un aktīvu dzīvesveidu, ir vērts pārrunāt ar ārstu, jo tie palīdz veselībai arī citādi."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Vai demenci var novērst?"
+    a: "Nevienam konkrētam cilvēkam nav pierādīta veida, kā novērst demenci. Pētījumi liecina, ka tādu risku samazināšana kā augsts asinsspiediens, neārstēts dzirdes zudums un smēķēšana var samazināt demences iespējamību visā populācijā vai aizkavēt tās sākumu. Tās ir iespējamības, nevis solījumi."
+  - q: "Ko nozīmē Lancet komisijas 45% rādītājs?"
+    a: "2024. gada Lancet komisija lēsa, ka aptuveni 45% demences gadījumu pasaulē ir saistīti ar 14 riska faktoriem, ko teorētiski varētu mainīt. Aplēse pieņem, ka šie faktori izraisa demenci, un autori piebilst, ka dažas saiknes var būt tikai daļēji cēloniskas. Tā apraksta visas populācijas un nepasaka nevienas personas individuālo risku."
+  - q: "Ja mans vecāks dzīvoja veselīgi, kāpēc viņam radās demence?"
+    a: "Vecums, gēni un daudzi faktori, ko neviens nekontrolē, lielā mērā ietekmē demenci. Lancet komisijas autori norāda, ka riska samazināšana visā populācijā negarantē, ka kāds konkrēts cilvēks izvairīsies no demences. Diagnoze nav zīme, ka kāds būtu nokļuvis."
+  - q: "Vai pēc 65 gadu vecuma riska samazināšana ir par vēlu?"
+    a: "Lancet komisija saka, ka riska samazināšanai nekad nav par agru vai par vēlu, lai gan lielākā daļa pierādījumu attiecas uz vidējo vecumu. Par vēlāka vecuma soļiem tika pētīta dzirdes un redzes problēmu ārstēšana, aktīvs dzīvesveids un saskarsme ar cilvēkiem. Pārrunājiet ar ārstu, kas atbilst jūsu veselībai."
+  - q: "Vai smadzeņu spēles vai īpašas diētas novērš demenci?"
+    a: "Nevienu spēli, pārtikas produktu, uztura bagātinātāju vai diētu nav pierādīts, ka tā novērš demenci. Trīs gadu izmēģinājums ar MIND diētu neatklāja būtisku atšķirību domāšanā salīdzinājumā ar kontroles diētu, un komerciālām smadzeņu treniņa lietotnēm nav pierādīts tāds efekts kā pētījumu izmēģinājumos."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +63,124 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Ja rūpējaties par cilvēku ar demenci vai esat redzējis, kā vecāks dzīvo ar to, droši vien esat domājis, vai to varēja apturēt un vai tā var apturēt jūsu pašu gadījumā. Šajā lapā ir izklāstīts, ko pētījumi patiesībā saka vienkāršā valodā. Īsā atbilde: neviens nevar apsolīt demences novēršanu, taču pētījumi liecina, ka dažus riskus var samazināt, un to samazināšana visā populācijā var nozīmēt, ka demenci attīstīs mazāk cilvēku vai vēlāk.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Šī ir vispārīga informācija, nevis medicīniska konsultācija. Lūdzu, izlasiet mūsu [medicīnisko atrunu](/medical-disclaimer/) un pārrunājiet ar ārstu savu veselību.
 
-## Can dementia be prevented?
+## Vai demenci var novērst?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Nevienam atsevišķam cilvēkam nav pierādīta veida, kā novērst demenci. Nacionālais novecošanās institūts (NIA) saka, ka, lai gan [vēl nekas nav pierādīts kā Alcheimera slimības novēršanas līdzeklis](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know), pētnieki ir atraduši daudzsološas stratēģijas un mācās, kas var un kas nevar darboties.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Pētījumi tiešām rāda, ka noteikti veselības stāvokļi un paradumi ir saistīti ar lielāku demences iespējamību. Ja šie riski ir zemāki visā populācijā, demenci var attīstīt mazāk cilvēku vai tā var parādīties vēlākā dzīves posmā. Tas ir ļoti atšķirīgi no garantijas.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Viena cerību zīme: 2024. gada Lancet komisija norādīja, ka dažās augsta ienākuma valstīs, tostarp ASV un Lielbritānijā, to vecāka gadagājuma cilvēku īpatsvars, kam ir demence, ir samazinājies. Autori uzskata, ka tas, iespējams, daļēji saistīts ar labāku izglītību, labāku veselības aprūpi un mazākiem asinsvadu bojājumiem visa mūža garumā, saskaņā ar [Londonas University College kopsavilkumu par ziņojumu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Ko atklāja 2024. gada Lancet komisija?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet komisija par demences novēršanu, ārstēšanu un aprūpi ir 27 demences pētnieku grupa, kas pārskata pierādījumus ik pa dažiem gadiem. Viņu 2024. gada ziņojumā nosaukti **14 riska faktori**, ko potenciāli var mainīt, un lēsts, ka kopā tie veido **gandrīz pusi (aptuveni 45%) demences gadījumu pasaulē**. Autori norāda, ka šos gadījumus *teorētiski* varētu novērst vai aizkavēt, ja riski tiktu novērsti ([2024. gada Lancet komisijas ziņojums](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 faktori, grupēti pēc dzīves posma, kurā pierādījumi ir visspēcīgākie:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Agrīna dzīve:** mazāka izglītība.
+- **Vidējais vecums (aptuveni no 40 līdz 65 gadiem):** dzirdes zudums, augsts LDL ("sliktais") holesterīns, depresija, galvas trauma, fiziska neaktivitāte, diabēts, smēķēšana, augsts asinsspiediens, aptaukošanās un liels alkohola patēriņš.
+- **Vēlāks dzīves posms:** sociāla izolācija, gaisa piesārņojums un neārstēts redzes zudums.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Divi jaunākie papildinājumi 2024. gadā bija augsts LDL holesterīns un neārstēts redzes zudums. Lielākā gadījumu daļa tika saistīta ar dzirdes zudumu un augstu LDL holesterīnu (aptuveni pa 7% katrs), kam seko mazāka izglītība un sociāla izolācija (aptuveni pa 5% katrs).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Mūsu [riska faktoru rokasgrāmata](/brain-health/risk-factors/) apskata visus 14 tabulā, ar to, ko pētījumi saista un ko jūs varat darīt.
 
-### What the 45% figure does not mean
+### Ko 45% rādītājs nenozīmē
 
-It is easy to misread this number, so it helps to be precise:
+Šo skaitli viegli pārprast, tāpēc ir svarīgi būt precīziem:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Tā ir populācijas aplēse.** Tā apraksta demences gadījumus visā pasaulē, nevis jūsu vai jūsu vecāka iespējas.
+- **Tā pieņem cēloni un sekas.** Autori saka, ka iekļāva tikai riska faktorus ar pārliecinošiem pierādījumiem, taču dažas saiknes var būt tikai daļēji cēloniskas. Piemēram, depresija vēlākā dzīves posmā dažkārt var būt agrīns demences simptoms, nevis cēlonis.
+- **Tā nekam negarantē vienam cilvēkam.** UCL kopsavilkumā norādīts, ka riska samazināšana darbojas populācijas līmenī un negarantē, ka kāds konkrēts cilvēks izvairīsies no demences.
+- **Otru pusi šie faktori neizskaidro.** Vecums, gēni un cēloņi, ko zinātnieki vēl nesaprot, veido pārējo daļu.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Kāda ir atšķirība starp „riska samazināšanu” un „novēršanu”?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Riska samazināšana** nozīmē zemāku iespējamību. Ja liela cilvēku grupa pazemina asinsspiedienu, daudzi gadu gaitā var attīstīt demenci retāk nekā citādi. Daži šīs grupas cilvēki to tomēr attīstīs.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Novēršana** nozīmē, ka kaut kas nenotiek vispār. Attiecībā uz demenci pētījumi šodien nevar tādu solīt nevienam.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Pētnieki runā arī par **aizkavēšanu**. Lancet komisija norāda jaunus pierādījumus, ka riska samazināšana var atlikt demences sākumu un saīsināt laiku, ko cilvēks dzīvo ar slimību. Pat dažu gadu aizkavēšana var būt ļoti nozīmīga cilvēkam un viņa ģimenei.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Šajā vietnē mēs tīši lietojam vārdus „samazināt risku” un „saistīts ar”. Kad redzat produktu, uztura bagātinātāju vai programmu, kas sola „novērst Alcheimera slimību”, izturieties piesardzīgi. NIA iesaka pirms jebkura līdzekļa vai ārstēšanas izmēģināšanas, kas sola novērst Alcheimera slimību, konsultēties ar ārstu, jo šādi produkti var būt nedroši, izšķiedēji vai abi.
 
-## What have large trials found?
+## Ko atklāja lielie izmēģinājumi?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Novērojumu pētījumi (kas seko cilvēkiem laika gaitā) var parādīt saiknes. Randomizēti izmēģinājumi, kuros cilvēki nejauši tiek iedalīti programmā vai salīdzinājuma grupā, ir spēcīgāks tests. Lūk, ko atklāja daži pazīstamākie izmēģinājumi.
 
-### FINGER (Finland)
+### FINGER (Somija)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+FINGER izmēģinājumā piedalījās 1260 pieaugušie vecumā no 60 līdz 77 gadiem, kuriem bija paaugstināts demences risks. Puse saņēma divus gadus ilgu programmu ar uztura padomiem, fiziskiem vingrinājumiem, datorizētiem smadzeņu vingrinājumiem un sirds un asinsvadu veselības pārbaudēm; otra puse saņēma vispārīgus veselības padomus. Programmas grupa nedaudz labāk veicās virknē domāšanas testu, un atšķirība bija maza, bet statistiski būtiska ([FINGER izmēģinājums žurnālā The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). Izmēģinājumā mērīja testu rezultātus, nevis demences diagnozes.
 
-### US POINTER (United States)
+### US POINTER (Amerikas Savienotās Valstis)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER iesaistīja 2111 pieaugušos vecumā no 60 līdz 79 gadiem, kuri bija mazkustīgi, ēda mazāk veselīgi un bija ar citiem riska faktoriem. Abas grupas tika mudinātas būt fiziski un garīgi aktīvākām, ēst labāk, uzturēt sociālus kontaktus un sekot sirds veselībai. Viena grupa saņēma strukturētu, ar treneri vadītu programmu; otra darbojās pati pēc sava plāna. Divu gadu laikā domāšanas testu rezultāti uzlabojās **abās** grupās, un nedaudz vairāk strukturētajā grupā ([US POINTER izmēģinājums žurnālā JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). Autori saka, ka nepieciešams ilgāks novērojums, lai zinātu, vai atšķirība ir svarīga ikdienas dzīvē. Tā kā nebija grupas, kas neko nedara, izmēģinājums nevar pateikt, cik lielu labumu katra programma sniedza salīdzinājumā ar to, ka nekas nemainās.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (asinsspiediens)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND pētīja 9361 ASV pieaugušo vecumā no 50 gadiem un vecāku ar augstu asinsspiedienu. Viņi tika iedalīti zemākā asinsspiediena mērķī (augšējais skaitlis zem 120) vai standarta mērķī (zem 140). Zemākais mērķis būtiski samazināja **vieglus kognitīvus traucējumus**, atmiņas un domāšanas problēmu posmu, kas var pieteikties pirms demences. Attiecībā uz **iespējamu demenci** zemākā mērķa grupā gadījumu bija mazāk, taču atšķirība nebija statistiski būtiska. Izmēģinājums tika pārtraukts agrāk un demences gadījumu bija mazāk, nekā gaidīts, tāpēc tas, iespējams, bija pārāk mazs, lai atbildētu uz šo jautājumu ([SPRINT MIND žurnālā JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ko kopā norāda pārskati
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+Cochrane pārskats 2021. gadā apkopoja deviņus lielus izmēģinājumus ar programmām, kas vienlaikus risina vairākus riskus, ar vairāk nekā 18 000 cilvēkiem. Tika atrasts neliels labums domāšanas testos, bet **nav skaidras atšķirības tajā, cik daudz cilvēku saslima ar demenci** divos izmēģinājumos, kas to mērīja ([Cochrane pārskats par daudzjomu iejaukšanos](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017. gada pārskats, ko veica ASV Zinātņu, inženierzinātņu un medicīnas akadēmijas un ko apkopoja NIA, atrada „iedrošinošus, bet nepārliecinošus” pierādījumus trim pieejām: augsta asinsspiediena vadībai, fiziskās aktivitātes palielināšanai un kognitīvajam treniņam.
 
-## Does it matter when you start?
+## Vai ir svarīgi, kad sākt?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet komisijas ieteikums ir pazemināt riskus pēc iespējas agrāk un uzturēt tos zemus pēc iespējas ilgāk: „jo agrāk, jo labāk” un „jo ilgāk, jo labāk”. Tā arī saka, ka riska samazināšanai nekad nav par agru vai par vēlu. Lielākā daļa pierādījumu attiecas uz vidējo vecumu, aptuveni no 40 līdz 65 gadiem, taču daži faktori, piemēram, redzes zudums un sociāla izolācija, ir vēlāka dzīves posma riski, kuros rīcība joprojām var būt jēgpilna.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ziņojumā teikts, ka tagad ir stiprāki pierādījumi tam, ka ilgāka saskarsme ar riska faktoru dod lielāku efektu. Piemēram, diabēts, kas sākas vidējā vecumā, šķiet nozīmīgāks nekā diabēts, kas sākas vēlāk.
 
-## Is dementia risk the same for everyone?
+## Vai demences risks ir vienāds visiem?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Nav. Komisija konstatēja, ka cilvēki zemu un vidēju ienākumu valstīs, cilvēki no minoritāšu grupām un cilvēki ar mazākiem ienākumiem bieži nes vairāk šo risku, tāpēc demence bieži attīstās agrāk. Daudzi riski ir saistīti ar apstākļiem, ko cilvēki nav izvēlējušies, piemēram, skolas kvalitāti bērnībā, gaisu dzīvesvietā un to, vai veselīga pārtika ir pieejama un tuvu.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Tāpēc komisijas ieteikumi ir vērsti uz valdībām tikpat lielā mērā kā uz indivīdiem: laba izglītība visiem bērniem, tīrāks gaiss, pasākumi smēķēšanas samazināšanai, mazāk cukura un sāls pārtikā, ko pārdod veikalos un restorānos, un dzirdes aparāti visiem, kam tie nepieciešami. Indivīda pūles ir svarīgas, taču svarīga ir arī pasaule, kurā cilvēki dzīvo. Tas ir vēl viens iemesls nevienu nevainot par diagnozi.
 
-## What are the honest limits of this research?
+## Kādi ir šī pētījuma godīgie ierobežojumi?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demence attīstās gadu desmitiem,** bet lielākā daļa izmēģinājumu ilgst divus līdz piecus gadus. Lai izmērītu pašu demenci, nevis tikai testu rezultātus, nepieciešami ļoti ilgi un ļoti lieli pētījumi.
+- **Lielākā daļa izmēģinājumu mēra domāšanas testus.** Neliels uzlabojums testā nenozīmē, ka mazāk cilvēku saslims ar demenci vai ka ikdienas dzīve kļūs vieglāka.
+- **Brīvprātīgie bieži ir veselāki** un izglītotāki nekā sabiedrība kopumā. Lancet komisija norāda, ka lielākā daļa pierādījumu joprojām nāk no augsta ienākuma valstīm un ka minoritāšu grupas ir nepietiekami pārstāvētas.
+- **Dažas saiknes iet abos virzienos.** Mazāka aktivitāte vai mazāka sociālā saskarsme var būt demences agrīnā izpausme, nevis tikai cēlonis.
+- **Diētu izmēģinājumi līdz šim ir bijuši vīlušies.** Trīs gadu izmēģinājums ar MIND diētu neatklāja būtisku atšķirību domāšanā salīdzinājumā ar kontroles diētu. Skatiet mūsu [diētas rokasgrāmatu](/brain-health/diet/).
+- **Smadzeņu spēļu nenovēršanu nav pierādīta.** Skatiet mūsu rokasgrāmatu par [smadzeņu spēlēm un demenci](/brain-health/brain-games/).
+- **Badošanās cilvēkiem pierādījumu ir ļoti maz,** un vecākiem cilvēkiem tā var būt riskanta. Skatiet mūsu [badošanās rokasgrāmatu](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ja kāds darīja visu „pareizi”, kāpēc viņam tomēr radās demence?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Tāpēc, ka demence nav vienkārši izvēļu rezultāts. NIA saka, ka [vecums ir lielākais zināmais Alcheimera slimības riska faktors](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease), un to neviens nevar mainīt. Gēniem ir sava loma. Un zinātnieki vēl pilnībā nesaprot, kas vairumam cilvēku izraisa Alcheimera slimību. Pat ja visi 14 riska faktori tiktu novērsti, Lancet komisijas pašu aplēse atstāj vairāk nekā pusi gadījumu neizskaidrotus.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Tāpēc, ja jūs rūpējaties par cilvēku, kas sportoja, ēda veselīgi, nekad nesmēķēja un tomēr saslima ar demenci, viņa vai jūsu pusē nekas nav noticis nepareizi. Ja jūs pats dzīvojat ar demenci, tā nav jūsu vaina. Vaina ģimenēs ir bieža, taču tā nav pelnīta. Tagad svarīgs ir komforts, saskarsme un labas dienas, un labs sākums ir mūsu [aktivitāšu idejas](/activities/ideas/) un [aprūpētāja pašaprūpes rokasgrāmata](/caregiving/caregiver-self-care/).
 
-## What steps can you talk over with a doctor?
+## Kādus soļus var pārrunāt ar ārstu?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Šīs ir jomas, kas visbiežāk tiek pētītas. Tās ir vērts pieminēt regulārā pārbaudē, jo lielākā daļa no tām palīdz arī sirds veselībai, garastāvoklim un patstāvībai neatkarīgi no tā, kāda izrādīsies to ietekme uz demenci.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Asinsspiediens.** Pajautājiet, kādi ir jūsu rādītāji un kāds mērķis jums piemērots. Lancet komisija iesaka tiekties uz augšējo skaitli 130 vai zemāku, sākot aptuveni no 40 gadu vecuma, bet pareizais mērķis vecākam cilvēkam ir atkarīgs no viņa vispārējās veselības.
+2. **Dzirde.** Pajautājiet par dzirdes pārbaudi un to, vai dzirdes aparāti varētu palīdzēt. Mūsu [dzirdes rokasgrāmata](/brain-health/hearing/) izskaidro pētījumus.
+3. **Redze.** Veiciet regulāras acu pārbaudes un pajautājiet, vai tādas problēmas kā katarakta var ārstēt.
+4. **Holesterīns.** Pajautājiet, vai jāpārbauda LDL holesterīns un vai kaut kas būtu jāmaina.
+5. **Cukurs asinīs.** Ja jums ir diabēts, pajautājiet, kā to droši kontrolēt.
+6. **Garastāvoklis.** Depresija ir izplatīta un ārstējama. Pastāstiet ārstam, ja jūtaties nomākts vai esat zaudējis interesi par lietām vairāk nekā pāris nedēļas.
+7. **Smēķēšana un alkohols.** Pajautājiet par atbalstu, lai atmestu smēķēšanu, un par drošām alkohola robežām.
+8. **Kustības.** Pajautājiet, kāda veida aktivitāte jums ir droša. Mūsu [vingrinājumu rokasgrāmatā](/brain-health/exercise/) ir idejas.
+9. **Galvas aizsardzība.** Velobraukšanai un kontaktsportam valkājiet ķiveri un pajautājiet par kritienu novēršanu.
+10. **Saskarsmes uzturēšana.** Laiks kopā ar citiem cilvēkiem ir veselīgas dzīves daļa. Skatiet mūsu rokasgrāmatu par [sociālo saskarsmi](/brain-health/social-connection/), kā arī par [miegu](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Pirms medikamentu, uztura, uztura bagātinātāju, badošanās vai vingrinājumu maiņas pārrunājiet to ar ārstu, īpaši, ja jums ir sirds slimība, diabēts, kritienu vēsture vai jau dzīvojat ar demenci.
 
-## Talk with a doctor
+## Runājiet ar ārstu
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Ja pamanāt atmiņas vai domāšanas izmaiņas, kas jūs uztrauc, sevī vai citā cilvēkā, pierakstieties pie ārsta. NIA norāda, ka [atmiņas problēmām var būt citi cēloņi](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging), piemēram, zāļu blakusparādības, vairogdziedzera problēmas, depresija vai zems B12 vitamīna līmenis, un daļa no šīm problēmām pāriet, kad cēlonis ir ārstēts. Mūsu [brīdinājuma pazīmju rokasgrāmata](/brain-health/warning-signs/) izskaidro, kam pievērst uzmanību.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Meklējiet tūlītēju palīdzību** pēkšņām izmaiņām: pēkšņai apjukumam, vājumam vai nejutīgumam vienā ķermeņa pusē, grūtībām runāt vai stipram galvassāpēm var būt insulta vai cita neatliekama stāvokļa pazīmes. Zvaniet vietējam neatliekamās palīdzības numuram.
 
-## Where Golden Moments fits
+## Kur ir Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments veido vienkāršas kopīgas aktivitātes, piemēram, [sarunu kartītes](/games/conversation-cards/), [attēlu bingo](/games/picture-bingo/) un [mierīgu elpošanas pauzi](/games/calm-breathing/). Tās ir paredzētas baudai un kopīgam laikam. Tās nav ārstēšana, un tās nenovērš un neapstādina demenci.

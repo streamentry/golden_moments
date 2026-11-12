@@ -1,32 +1,34 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Quebra-cabeças para Pessoas com Demência: Jogos de Montar, Caça-palavras e Quebra-cabeças Online Fáceis"
+seoTitle: "Quebra-cabeças para Demência: Montagem e Caça-palavras"
+description: "Como escolher quebra-cabeças de montar, de palavras e online para quem tem demência: tamanho das peças, figuras, letra grande, fazer juntos e quando simplificar."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  O melhor quebra-cabeça para quem tem demência é aquele que a pessoa consegue
+  terminar com um pouco de ajuda e de que gosta durante o caminho. Escolha
+  quebra-cabeças com menos peças, maiores, e uma imagem de adulto bem clara,
+  deixe a caixa à vista e separe primeiro as peças da borda. Caça-palavras e
+  palavras cruzadas funcionam melhor com letra grande. Quebra-cabeças online
+  fáceis, com quatro peças, combinam com a fase intermediária. Pare enquanto
+  ainda for agradável.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Escolha pelo jeito que a atividade corre, não por um rótulo de fase: se um quebra-cabeça parece trabalho, tente um com menos peças."
+  - "Peças grandes e resistentes, com uma imagem clara e áreas de cor bem definidas, são mais fáceis do que peças minúsculas e céus enormes."
+  - "As imagens de adultos importam. Jardins, cozinhas, carros e animais, e não desenhos animados."
+  - "Fazer juntos é o que importa. Entregue peças, separe as bordas, mantenha a tampa da caixa à vista."
+  - "Caça-palavras com letra grande e quebra-cabeças online fáceis, com 4 ou 9 peças, são gratuitos neste site."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Quantas peças são melhores para quem tem demência?"
+    a: "Não existe um número certo. Uma pessoa que montava quebra-cabeças de 1.000 peças pode ainda gostar de algumas centenas no início, enquanto outras se saem melhor com uma dúzia de peças grandes. Se um quebra-cabeça parece trabalho ou causa frustração, passe para menos peças. Nosso Quebra-cabeça de imagem online tem 4 ou 9 peças."
+  - q: "Quebra-cabeças de montar são bons para pessoas com demência?"
+    a: "Muitas pessoas gostam, principalmente se já gostavam de quebra-cabeças antes. O quebra-cabeça dá às mãos algo para fazer, um objetivo claro e uma imagem para conversar. Nenhum quebra-cabeça mostrou tratar ou desacelerar a demência, então escolha pelo prazer e pela companhia."
+  - q: "O que fazer quando a pessoa não consegue mais montar um quebra-cabeça?"
+    a: "Torne a tarefa menor e faça mais você mesmo: entregue uma peça de cada vez ou deixe só as últimas peças para ela. Experimente um quebra-cabeça online de 4 peças, separar as peças por cor ou simplesmente olhar a imagem pronta juntos."
+  - q: "Palavras cruzadas e caça-palavras são adequados para demência?"
+    a: "Podem ser, na fase inicial, em letra grande. Caça-palavras com palavras só na horizontal e na vertical são mais fáceis do que os que têm palavras na diagonal ou ao contrário. Leia as dicas ou a lista de palavras em voz alta e façam juntos."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +47,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Um quebra-cabeça de montar espalhado sobre a mesa de jantar é uma das atividades mais fáceis de dividir. Vocês podem sentar juntos sem precisar conversar, a imagem dá assunto e colocar a última peça traz uma sensação boa. Ainda assim, os quebra-cabeças precisam mudar conforme a demência muda. Um quebra-cabeça difícil demais pode transformar uma tarde calma em uma tarde frustrante. Esta página explica como escolher e preparar quebra-cabeças de montar, de palavras e online fáceis, e o que fazer quando eles ficarem difíceis.
 
-## Are puzzles good for people with dementia?
+## Quebra-cabeças fazem bem para pessoas com demência?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Muitas pessoas gostam, principalmente quem já fazia quebra-cabeças antes. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclui caça-palavras, jogos de cartas e jogos de tabuleiro entre as atividades para a fase inicial, e o [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) menciona jogos e quebra-cabeças em tablets como uma forma de manter o envolvimento.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Quebra-cabeças não são um tratamento. Nenhum quebra-cabeça mostrou desacelerar ou interromper a demência; nosso guia sobre [jogos cerebrais e demência](/brain-health/brain-games/) explica o que a pesquisa diz. A razão para fazer um quebra-cabeça é que ele pode ser uma hora agradável e absorvente juntos. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) resume a ideia: foque no prazer, não no desempenho.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Como escolher um quebra-cabeça de montar para quem tem demência?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Guie-se pelo que a pessoa gosta e como foi o último quebra-cabeça, não por um rótulo de fase.
 
-### Number of pieces
+### Número de peças
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Não existe um número correto. Quem fez quebra-cabeças a vida toda pode ainda gostar de algumas centenas de peças no início, enquanto outra pessoa fica mais feliz com uma dúzia. Uma regra prática: se o último quebra-cabeça pareceu trabalho, escolha um com cerca de metade das peças. Se foi terminado rápido e a pessoa queria mais, aumente um pouco.
 
-### Piece size and feel
+### Tamanho e textura das peças
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Peças maiores** são mais fáceis de ver, pegar e virar.
+- **Peças grossas e resistentes** ficam no lugar e aguentam quedas.
+- **Acabamento fosco** reduz o reflexo de luminárias e janelas.
+- **Evite peças minúsculas** se a pessoa puder colocar coisas na boca, o que pode acontecer mais tarde na demência.
 
-### The picture
+### A imagem
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Temas de adultos.** Jardins, cozinhas, carros antigos, animais de fazenda, uma cidade à beira-mar, um esporte favorito. Nada de desenhos animados ou de algo que pareça brinquedo infantil.
+- **Áreas de cor bem definidas.** Um celeiro vermelho, um barco azul e um campo verde são mais fáceis do que um céu que ocupa metade do quebra-cabeça.
+- **Familiar e pessoal.** Uma foto de um lugar onde a pessoa morou ou de um passatempo que ela amava dá muito assunto. Algumas gráficas transformam uma foto de família em quebra-cabeça.
 
-## How do you do a puzzle together?
+## Como fazer um quebra-cabeça juntos?
 
-Set it up so the person can get straight to the enjoyable part.
+Prepare tudo para que a pessoa chegue logo à parte agradável.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Escolha um bom lugar.** Boa luz, uma cadeira com braços e uma mesa ou bandeja onde o quebra-cabeça possa ficar montado.
+2. **Apoie a tampa da caixa** onde os dois possam vê-la.
+3. **Vire as peças com a face para cima** antes de começar.
+4. **Separe as bordas** você mesmo, ou monte a moldura primeiro e deixe o meio para ela.
+5. **Agrupe as peças por cor** em algumas bandejas ou pratos rasos.
+6. **Entregue uma peça de cada vez** se a pilha for demais. "Acho que esta faz parte do celeiro."
+7. **Fale sobre a imagem,** não sobre o progresso. "Parece com o barco que meu pai tinha."
+8. **Deixe montado.** Volte a ele ao longo de vários dias. Não há pressa.
+9. **Pare em um bom momento,** depois que uma peça encaixa, enquanto ainda é agradável.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) recomenda ajudar a pessoa a começar, observar sinais de frustração e deixá-la apenas assistir se ela preferir. Ver você encaixar peças e apontar onde uma delas pode ir ainda é participar.
 
-## Easy online puzzles
+## Quebra-cabeças online fáceis
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Um quebra-cabeça no tablet tem algumas vantagens reais: não se perdem peças, as imagens grandes ocupam a tela inteira e não é preciso limpar a mesa.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Nosso [Quebra-cabeça de imagem](/games/picture-puzzle/) gratuito divide uma figura em 4 ou 9 peças. Toque em duas peças para trocá-las até a imagem ficar completa. A imagem completa fica na tela como guia, não há cronômetro e você pode parar a qualquer momento. Quatro peças servem a muitas pessoas na fase intermediária, com alguém ao lado.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Para uma brincadeira com figuras ainda mais simples, experimente [Encontre o igual](/games/find-the-same/), em que você toca na figura igual a uma que aparece no topo, ou [Separe juntos](/games/sort-together/), em que as figuras vão para cestas, como a da cozinha ou a do jardim.
 
-## Word puzzles: word searches and crosswords
+## Quebra-cabeças de palavras: caça-palavras e palavras cruzadas
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Os quebra-cabeças de palavras combinam com quem sempre gostou deles, geralmente no início da demência.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Caça-palavras com letra grande.** Nosso [Caça-palavras](/games/word-search/) gratuito usa letras grandes e poucas palavras, na horizontal e na vertical, nunca na diagonal nem ao contrário. Jogue na tela ou imprima.
+- **Leiam a lista em voz alta.** Uma pessoa lê uma palavra, a outra a procura. Circular apenas a primeira letra está bom.
+- **Palavras cruzadas com letra grande** de livros de passatempo podem funcionar no início. Leia as dicas em voz alta, divida a caneta e preencha as respostas juntos. Palavras cruzadas fáceis e com tema são melhores do que as enigmáticas.
+- **Conversem sobre as palavras.** "Jardim" pode levar dez minutos falando de tomates.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Para mais atividades de papel e como imprimi-las para que sejam fáceis de ver e de segurar, veja [atividades de demência para imprimir gratuitamente](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Quais quebra-cabeças combinam com cada fase?
 
-Stages overlap, and good and hard days are normal.
+As fases se misturam, e dias bons e difíceis são normais.
 
-| Stage | Puzzles that often fit | Your role |
+| Fase | Quebra-cabeças que costumam servir | Seu papel |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Inicial | Jogos de montar conhecidos, com menos peças do que antes, palavras cruzadas e caça-palavras de letra grande, quebra-cabeças online de 9 peças | Parceiro: deixe a pessoa escolher e ajude quando pedir |
+| Intermediária | Jogos de montar com cerca de uma dúzia de peças grandes, quebra-cabeças online de 4 peças, caça-palavras lido em voz alta juntos | Prepare, separe as peças, entregue uma de cada vez |
+| Avançada | Olhar uma imagem pronta juntos, Encontre o igual com duas figuras, segurar algumas peças grandes | Leve até a pessoa; sua companhia é a atividade |
 
-## When should you make a puzzle easier, or stop?
+## Quando tornar o quebra-cabeça mais fácil ou parar?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Fique atento a suspiros, peças empurradas para longe, "eu não consigo" repetido ou olhares preocupados. Esses sinais pedem uma mudança, não insistência.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Torne menor.** Menos peças, ou deixe só as últimas para ela.
+- **Faça mais você mesmo** e convide a pessoa a ajudar nas partes fáceis.
+- **Mude para algo próximo:** separar peças por cor, um quebra-cabeça online de 4 peças ou [colorir](/games/coloring/).
+- **Pare.** Guarde o quebra-cabeça e tomem um chá. Podem voltar outro dia, ou nunca mais.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Se os quebra-cabeças começarem a lembrar o que é difícil, tudo bem deixá-los de lado. Há muitas outras formas de passar bons momentos juntos; nossas [101 ideias de atividades](/activities/ideas/) são um bom lugar para procurar.

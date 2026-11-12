@@ -1,32 +1,28 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "En rolig daglig rytme for en person med demens"
+seoTitle: "Demens og daglig rytme: en fleksibel eksempeldag"
+description: "En fleksibel eksempeldag for en person med demens, med måltider, aktiviteter og hvile i fast rytme, og hvordan du lager din egen og tilpasser den på tyngre dager."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  En rolig dagsrytme holder oppstigning, måltider, personlig stell og leggetid på omtrent samme tidspunkt, legger hovedaktiviteten dit personen er mest våken, og balanserer aktivitet med hvile. Bygg den på personens vaner gjennom livet, hold den løs heller enn fullpakket, sørg for dagslys og litt bevegelse hver dag, og endre planen fritt når dagen krever det.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Faste tidspunkt for oppstigning, måltider, stell og leggetid gir dagen en kjent form."
+  - "Legg hovedaktiviteten til det beste tidspunktet på dagen for personen, ofte om morgenen."
+  - "Ikke fyll hvert minutt. Hvile og stille tid er en del av rutinen."
+  - "Dagslys, daglig bevegelse, og å unngå lange, sene lurer og koffein sent på dagen kan hjelpe mot uro mot kvelden."
+  - "En rutine er en veiledning, ikke en regel. Bytt ut, forkort eller hopp over det som ikke passer på tyngre dager."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Hvorfor er en fast rutine nyttig for en person med demens?"
+    a: "En forutsigbar dag betyr færre valg og overraskelser, noe mange med demens finner trygt. Alzheimer's Association skriver at en planlagt dag gjør at du bruker mindre tid på å finne ut hva dere skal gjøre, og mer tid på ting dere begge liker. Den hjelper også pårørende å legge opp sin egen dag."
+  - q: "Hva er en god dagsplan for en person med demens?"
+    a: "Det finnes ingen fasit. En god plan holder oppstigning, måltider og leggetid på omtrent samme tid, legger stell og hovedaktiviteten dit personen er på sitt beste, har med tid ute eller nær et vindu, og gir rom for hvile. Bygg den rundt hvordan personen alltid har levd."
+  - q: "Bør en person med demens ta middagslur?"
+    a: "En kort hvil kan hjelpe, særlig etter lunsj. National Institute on Aging foreslår å unngå lange lurer og å sove sent på dagen, fordi det å være trøtt eller dårlig uthvilt kan øke uro mot kvelden. Hvis søvn er et reelt problem, snakk med legen."
+  - q: "Hva om personen nekter å følge rutinen?"
+    a: "La det være for nå, og prøv igjen senere eller på en annen måte. Et nei kan bety at personen er trøtt, syk, har vondt eller bare ikke er klar. Rutinen finnes for å gjøre dagen lettere, så tilpass den heller enn å tvinge den igjennom."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +41,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+En rolig rutine gir dagen en kjent form: opp, måltider, litt aktivitet, hvile og seng til omtrent samme tid. Den reduserer valg og overraskelser, og gir deg en plan for øyeblikkene da du ellers ville lurt på hva dere skal gjøre neste. Rutinen nedenfor er et eksempel, ikke en regel. Bruk den som utgangspunkt, og tilpass den til personen du tar vare på.
 
-## Why does a daily routine help?
+## Hvorfor hjelper en daglig rutine?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+En fast rutine hjelper fordi kjente mønstre er lettere å følge enn nye. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) sier at en planlagt dag betyr mindre tid til å bestemme hva dere skal gjøre og mer tid til hyggelige aktiviteter, og at faste tidspunkt for opp- og leggetid kan hjelpe ved søvnproblemer og uro mot kvelden. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) foreslår å vaske seg, kle på seg og spise til samme tid hver dag som en del av et rolig hjem, og [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) anbefaler også faste rutiner.
 
-## A sample gentle day
+## En eksempeldag med god rytme
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Tidspunktene er bare eksempler. Flytt hele dagen tidligere eller senere etter personens egen rytme.
 
-| Time | What happens | Ideas | On a harder day |
+| Tid | Hva skjer | Ideer | På en tyngre dag |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 | Opp, vask, kle på seg | Samme rekkefølge hver dag; legg klærne fram i den rekkefølgen de tas på | Enkel stell; en ren skjorte er nok |
+| 8:45 | Frokost | Kaffe og avisen lest høyt, eller radioen | Spis sammen i ro, uten press om å snakke |
+| 9:30 | Hovedaktivitet | Brette klesvask, bake, stelle hagen, en kort tur eller en gåtur | En kortere variant, eller la personen se på mens du gjør det |
+| 10:30 | Stille tid | Musikk, et fotoalbum, eller sitte ved vinduet | Hvile i favorittstolen |
+| 11:00 | Hjelp til lunsj | Vaske grønnsaker, dekke bordet | Du lager maten; personen holder deg med selskap |
+| 12:00 | Lunsj og rydding | Tørke av bordet, tørke noen tallerkener | Hopp over oppgavene |
+| 1:00 | Kort hvile | Beina opp, mild musikk | Det samme |
+| 2:00 | Ute eller i aktivitet | Gå tur, sitte på verandaen, vanne planter, kaste en ballong | Sitte ved et solrikt vindu |
+| 3:00 | Sosialt eller kreativt | Et besøk, en telefonsamtale, [Bildepar](/games/picture-pairs/), fargelegging, kortspill | En drikke og noe å spise sammen |
+| 4:30 | Tid til å roe seg | Gardinene trukket, lys på, en rolig oppgave som å brette vaskekluter | Kjent musikk, lite støy |
+| 5:30 | Middag | Hjelp til å røre i gryta eller dekke bordet | Enkel og kjent mat |
+| 6:30 | Samvær om kvelden | Gamle minner over dessert, kortspill, et favorittprogram, en håndmassasje | Stille selskap |
+| 8:00 | Leggetidsrutine | Bad eller vask, pysjamas, mild musikk, dempet lys | Forkort alt; trøst først |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Denne eksempeldagen følger formen i Alzheimer's Associations egen eksempelplan for tidlig og middels stadium, som går fra personlig stell og frokost, via husarbeid, turer, musikk, hvile og besøk, til middag, minner og klargjøring for leggetid.
 
-## How do you build your own routine?
+## Hvordan lager du din egen rutine?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Start med hvordan personen alltid har levd, ikke med et skjema. Alzheimer's Association foreslår å tenke over dette før du planlegger:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Hva personen liker, misliker, er god til og er interessert i.**
+- **Hvordan dagene pleide å være.** En morgenmenneske som alltid gikk tur med hunden, bør fortsatt gå tidlig. En nattugle vil kanskje aldri like en start kl. 8.
+- **Det beste tidspunktet på dagen.** Legg bad, turer og hovedaktiviteten dit.
+- **Nok tid** til måltider, vask og påkledning, så ingenting hastes.
+- **Faste tider for opp- og leggetid.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Samme kilde foreslår en blanding av husarbeid, måltider, personlig stell, kreative aktiviteter, fysisk aktivitet, sosial tid, åndelig aktivitet og spontane øyeblikk, for eksempel at en venn stikker innom.
 
-### Try it for a week, then adjust
+### Prøv i en uke, og juster
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Skriv ned noen ord hver dag. Alzheimer's Association foreslår å spørre hvilke aktiviteter som fungerte best og hvorfor, om det var tidspunkt med for mye på gang eller for lite å gjøre, og om de spontane planene var hyggelige eller skapte bekymring. Behold det som fungerer, og endre det som ikke gjør det.
 
-### Make it visible
+### Gjør den synlig
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Hvis personen fortsatt kan lese, kan en tavle eller et kort med stor skrift og dagens plan være beroligende. Hold den kort: «Frokost. Tur med Sarah. Lunsj. Hvile.» Noen klarer seg bedre uten å vite langt fram. Family Caregiver Alliance foreslår å ikke snakke om planene før like før de skal skje, hvis det skaper uro.
 
-## How to adapt the routine
+## Hvordan tilpasser du rutinen
 
-### Leave room to breathe
+### Gi rom til å puste
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Ikke fyll hvert minutt. Alzheimer's Association understreker at personen trenger balanse mellom aktivitet og hvile, og kan trenge hyppigere pauser. Hvis personen virker lei, distrahert eller irritert, bytt aktivitet eller ta en hvil.
 
-### Protect the late afternoon
+### Beskytt ettermiddagen
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Mange blir mer urolige når lyset avtar. NIA foreslår å være ute eller ved et vindu for sollys hver dag, å være aktiv hver dag uten å planlegge for mye, å unngå koffein og alkohol sent på dagen, og å unngå lange lurer sent på dagen. Noen familier synes det også hjelper å trekke for gardinene og tenne lys før det mørknes. Se [uro mot slutten av dagen](/caregiving/late-day-restlessness/) og [søvn](/brain-health/sleep/).
 
-### Change it as needs change
+### Endre den når behovene endrer seg
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Tidlig stadium:** planlegg rutinen sammen. Personen vil kanskje ha en skriftlig plan som hen selv styrer.
+- **Middels stadium:** du leder mer. Kortere aktiviteter, mer hvile og mange kjente oppgaver; se [aktiviteter på middels stadium](/activities/middle-stage/).
+- **Sent stadium:** rutinen handler om trygghet, måltider og stell, med korte sansestunder som musikk eller en håndmassasje innimellom; se [aktiviteter på sent stadium](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Varier aktivitetene, ikke rammen
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Hold måltider, hvile og leggetid faste, og skift på aktivitetene midt i. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) foreslår å prøve ulike aktiviteter på ulike dager for å holde det interessant. Du kan bake på mandag, stelle hagen på tirsdag og se på bilder på onsdag. Våre [101 aktivitetsideer](/activities/ideas/) og [husarbeid](/activities/household-tasks/) kan fylle plassene.
 
-## When the day goes sideways
+## Når dagen går på tvers
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Noen dager følger ingen plan. Sykdom, en dårlig natt, besøk av legen eller et værskifte kan velte alt. Slipp planen, behold det viktigste (mat, drikke, hvile, trygghet), og prøv igjen i morgen. Hvis personen sier nei til noe, se [når personen sier nei](/caregiving/when-they-say-no/). Et rolig pusterom sammen, som [rolig pust](/games/calm-breathing/), kan hjelpe dere begge å komme tilbake på sporet.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Din egen rutine teller også. Bygg inn pauser for deg selv, og be familie eller et avlastningstilbud dekke regelmessig fri. Se [egenomsorg for pårørende](/caregiving/caregiver-self-care/).

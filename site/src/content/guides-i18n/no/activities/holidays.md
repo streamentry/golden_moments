@@ -1,33 +1,29 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Høytidsaktiviteter for en person med demens gjennom hele året"
+seoTitle: "Høytidsideer ved demens: jul, påske og nyttår"
+description: "Enkle høytidsaktiviteter for en person med demens: matlagingsoppgaver, pynting, musikk, bilder og videosamtaler, og hvordan planlegge en roligere høytid."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Hold høytidene mindre, tidligere på dagen og nær personens vanlige rutine. Gi en reell, trygg oppgave, som å dekke bordet, vaske grønnsaker, pakke inn en gave eller henge opp en pynt. Del kjent musikk og gamle bilder, forbered gjestene på forhånd, og sett opp et stille rom. Gjør bare det du rimelig kan klare; en kort og rolig feiring er en god feiring.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Feir tidligere på dagen, for eksempel med lunsj eller brunch, hvis forvirring mot kvelden er vanlig."
+  - "Tilby reelle oppgaver: dekke bordet, vaske grønnsaker, pakke inn, pynte eller legge fram dessert."
+  - "Kjent musikk, julesanger og gamle fotoalbum er enkle måter å dele høytiden på."
+  - "Fortell gjestene hva de kan forvente, og vis personen bilder av hvem som kommer."
+  - "Sett opp et stille rom med et favorittteppe eller en genser, og hold besøket til noen få om gangen."
+  - "Hopp over alt som er overveldende, også pynt som ser ut som mat og mange blinkende lys."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Hva kan en person med demens gjøre under høytidsmiddagen?"
+    a: "Gi hen en enkel, trygg oppgave som passer til det hen klarer i dag: vaske grønnsaker, røre i tyttebærsaus, dekke bordet, brette servietter eller legge dessert på et fat. Etterpå kan dere se på gamle familiebilder eller synge kjente sanger sammen. Det å være med på dagen betyr mer enn hvordan oppgaven blir."
+  - q: "Bør vi fortsatt ha stor familiesamling?"
+    a: "Bare hvis det er håndterbart. Mange mennesker og mye støy kan bli overveldende, så mange familier går over til en mindre, mer uformell samling, et tidligere måltid, eller at besøkende kommer i små grupper. Alzheimer's Association oppfordrer pårørende til å gjøre bare det de rimelig og trygt klarer."
+  - q: "Hvordan forbereder jeg familie som ikke har vært på besøk på en stund?"
+    a: "Fortell dem på forhånd om endringer de kan legge merke til, og at de skyldes sykdommen, ikke personen. Be dem om ikke å korrigere eller spørre ut, snakke én om gangen og gi tid til å svare. Det kan også hjelpe å vise personen bilder av gjestene på forhånd."
+  - q: "Hvilke julegaver passer for en person med demens?"
+    a: "Enkle, trygge ting de kan glede seg over nå: en favorittsnacks, et mykt teppe eller en genser, kjent musikk, eller et fotoalbum med familien. Unngå kompliserte elektroniske ting, verktøy og krevende brettspill. Å la personen være med på å gi, for eksempel ved å pakke inn en gave eller pakke kaker hen var med å bake, kan i seg selv være en gave."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +36,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Høytider kan gi varme minner, men de kan også gi støy, folkemengder og endringer i den vanlige dagen. For en person med demens er de beste feiringene som regel mindre, roligere og bygget rundt ting hen fortsatt kan glede seg over. Disse ideene passer for jul, påske, nyttår og familiens bursdager.
 
-## How do I plan a calmer holiday?
+## Hvordan planlegger jeg en roligere høytid?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Start med personens rutine, og legg dagen etter den. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) foreslår å holde feiringen tidligere på dagen, fordi forvirring og uro ofte øker på ettermiddagen og kvelden (noen kaller det «sundowning»). En høytidslunsj eller brunsj kan være lettere enn en sen middag.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Hold den passe stor.** En mindre, mer uformell samling, eller gjester som kommer noen få om gangen, er ofte lettere enn ett overfylt bord.
+- **Del ut oppgaver.** Be slektninger ta med en rett, handle, eller bruke tid med personen mens du lager mat. Vær konkret om hva som ville hjulpet.
+- **Hold pyntingen enkel.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) påpeker at blinkende lys kan være forvirrende, og at godteri eller kunstige frukter brukt som pynt kan forveksles med mat.
+- **Bestem hva du kan droppe.** Hvis en tradisjon har blitt stressende eller risikabel, er det helt greit å hoppe over den eller prøve en roligere variant.
 
-## What holiday activities can we do together?
+## Hvilke høytidsaktiviteter kan vi gjøre sammen?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Velg oppgaver og fritidsaktiviteter som passer til det personen klarer i dag. Det å være med på dagen betyr mer enn hvordan den går.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Dekk bordet sammen.** Legg fram tallerkener først, deretter servietter og kopper. Å brette servietter er en god oppgave å sette seg ned til.
+2. **Vask og sorter grønnsaker.** Å skylle poteter eller snippe bønner ved kjøkkenbordet er trygt og kjent for mange som pleide å lage mat.
+3. **Rør, bland eller legg på fat.** Å røre i tyttebærsaus, blande en enkel røre eller legge kjeks på et fat holder hendene opptatt, borte fra komfyr og kniver.
+4. **Pakk inn en gave.** Klipp papiret og teipen på forhånd, og la personen brette og glatte. Pen innpakning er ikke poenget.
+5. **Heng opp noen få pynter.** Velg knuseløse kuler og ett lite område, for eksempel en krans eller et lite juletre.
+6. **Lag et enkelt håndverk.** Papirlenker, en bladkollasj eller et julekort med stempler fungerer godt. Vår [veiledning om kunst og håndverk](/activities/arts-and-crafts/) har flere ideer.
+7. **Syng og lytt.** Kjente julesanger og høytidssanger er lette å være med på, selv for noen som snakker mindre nå. Se vår [musikkveiledning](/activities/music/) for å lage en spilleliste.
+8. **Se på gamle høytidsbilder.** Ta fram album fra tidligere feiringer, og inviter til historier («Fortell meg om dette bordet») i stedet for å spørre hvem som er hvem. Vår [veiledning om minner](/activities/reminiscence/) forklarer hvordan.
+9. **Spill et rolig gruppespill.** [Bildebingo](/games/picture-bingo/) kan skrives ut på få minutter og passer for alle aldre, og [samtalekort](/games/conversation-cards/) gir alle noe å snakke om.
+10. **Fargelegg sammen.** Enkle [fargeleggingssider](/games/coloring/) kan skrives ut slik at barn og besteforeldre kan dele dem ved bordet.
+11. **Se en favorittfilm fra høytiden.** En kjent film er hvilende, og det er helt greit å se bare deler av den.
+12. **Ta en kort kjøretur for å se lysene.** En stille tur forbi pyntede hus kan være lettere enn et fullt arrangement.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Hvis matlaging har vært en stor del av personens liv, har vår veiledning om [husarbeid som aktiviteter](/activities/household-tasks/) flere måter å gjøre kjøkkenoppgaver trygge og meningsfulle på.
 
-## How do I prepare guests?
+## Hvordan forbereder jeg gjestene?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Fortell gjestene hva de kan forvente før de kommer, spesielt slektninger som ikke har vært på besøk på en stund. Alzheimer's Association foreslår å forklare at endringer i hukommelse og atferd skyldes sykdommen, ikke personen.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Del noen enkle råd:** snakk én om gangen, gi tid til å fullføre en tanke, ikke korriger eller spør ut, og svar på personens tone hvis ord er vanskelige å følge.
+- **Si hva som hjelper og hva som gjør vondt.** Hvis høy stemme, å bli stresset eller visse emner skaper uro, si det.
+- **Presenter gjestene på forhånd.** Vis personen bilder av hvem som kommer, og fortell en historie eller to, eller sett opp en kort telefon- eller videosamtale før dagen.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Vår [veiledning om kommunikasjon](/caregiving/communication-tips/) går mer i detalj.
 
-## What if it gets to be too much?
+## Hva om det blir for mye?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Sett opp et stille rom før gjestene kommer, borte fra støyen, med kjente komfortgjenstander som et favorittteppe, en genser eller en enkel aktivitet. Tilby det tidlig og ofte: «Skal vi sitte litt et roligere sted?»
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Å forlate bordet, gå tidlig til sengs eller hoppe over en del av dagen er et godt utfall, ikke et nederlag. Hvis personen blir opprørt, hjelper ofte en rolig stemme, en kjent sang eller en gåtur til et annet rom mer enn resonnering. Vår veiledning om [uro mot slutten av dagen](/caregiving/late-day-restlessness/) har flere ideer for kveldene.
 
-## How can family far away take part?
+## Hvordan kan familie langt unna være med?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Videosamtaler lar slektninger være med uten å øke folkemengden. Alzheimer's Association foreslår å gi samtalene litt struktur, for eksempel å synge sesongsanger, vise bilder fra tidligere samlinger, lage samme oppskrift sammen eller se en høytidsfilm samtidig. Hold samtalene korte, og be folk snakke én om gangen, fordi det er vanskelig å følge med når flere snakker i munnen på hverandre. Vår [veiledning om telefon- og videosamtaler](/activities/phone-and-video-calls/) har trinn-for-trinn-ideer.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Hvis personen bor på en demensavdeling, sjekk besøksreglene og be personalet hjelpe med å sette opp en samtale. Vår veiledning om [å besøke noen på demensavdeling](/activities/visiting/) dekker hva du kan ta med og hvordan du kan gå på en god måte.
 
-## What gifts suit someone with dementia?
+## Hvilke gaver passer for en person med demens?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Enkle, trygge gaver som de kan glede seg over nå, fungerer som regel best: en favorittsnacks, et mykt teppe eller en cardigan, kjent musikk, en kalender med stor skrift, eller et album med familiebilder. Alzheimer's Association anbefaler å unngå farlige verktøy, kompliserte elektroniske ting og krevende brettspill.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Å gi kan bety like mye som å motta. Å pakke kaker personen var med å bake, eller la hen pakke inn en gave du har kjøpt, lar dem delta i høytiden. Et familiebildespill er en annen idé: [bildepar](/games/photo-pairs/) gjør noen utvalgte bilder om til et rolig memoryspill i nettleseren.
 
-## Look after yourself too
+## Ta vare på deg selv også
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Høytider legger til arbeid i omsorgen. La noen andre være vertskap eller lage middagen, si nei til arrangementer som blir vanskelige, og ta pauser mens andre bruker tid med personen. Hvis du eller personen du tar vare på er syk, er en vinke fra innkjørselen eller en videosamtale et helt godt besøk. Vår veiledning om [egenomsorg for pårørende](/caregiving/caregiver-self-care/) gir mer støtte.

@@ -1,32 +1,32 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "E sanfte Dagesroutine fir eng Persoun mat Demenz"
+seoTitle: "Demenz-Dagesroutine: E flexibele Beispillsdag"
+description: "E flexibele Beispillsdag fir Mënsche mat Demenz, mat Iessen, Aktivitéiten a Rou an engem stabilen Rhythmus, plus Tipps fir Är eegen Routine a schwéier Deeg."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Eng sanfte Dagesroutine hält d'Opstoen, d'Iessen, d'Pfleeg an d'Bettzäit ongeféier
+  zu den selwechte Zäiten, leet d'Haaptaktivitéit op d'Zäit, wou d'Persoun am
+  waachsten ass, a bilanzéiert Aktivitéit mat Rou. Baut se op de Liewensgewunnechten
+  op, hält se locker statt vollgepak, suergt all Dag fir Dageslicht a Bewegung a
+  passt de Plang un, wann de Dag et verlaangt.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Stabil Zäiten fir Opstoen, Iessen, Pfleeg a Bett ginn dem Dag eng vertraut Form."
+  - "Leet d'Haaptaktivitéit op déi Zäit vum Dag, wou d'Persoun am beschte matkënnt, dacks de Moien."
+  - "Fëllt net all Minutt. Rou an roueg Zäit gehéieren zur Routine."
+  - "Dageslicht, deeglech Bewegung a wéineg spéit Dommelen an spéit Kaffi kënne bei Ënnerhaltung um Owend hëllefen."
+  - "Eng Routine ass en Leitfaden, keng Regel. Tauscht, kierzt oder lauschtert alles op schwéiere Deeg."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Firwat ass eng Routine fir eng Persoun mat Demenz hëllefräich?"
+    a: "E viraussiichtlechen Dag heescht manner Entscheedungen a Iwwerraschungen, wat vill Mënsche mat Demenz beruhegend fannen. D'Alzheimer's Association mierkt un, dass ee mat engem geplangten Dag manner Zäit brauch fir ze iwwerleeën, wat ee maache soll, a méi Zäit fir Saachen, déi Dir béid gär hutt. Et hëlleft och Betreiern, hiren eegenen Dag ze doséieren."
+  - q: "Wéi ee gudde Dagesplang fir eng Persoun mat Demenz?"
+    a: "Et gëtt kee richtegen Plang. E gudden hält Opstoen, Iessen a Bett ongeféier zu den selwechte Zäiten, leet d'Pfleeg an d'Haaptaktivitéit op d'Zäit, wou d'Persoun am beschten ass, enthält Zäit dobaussen oder bei engem Fënster a léisst Plaz fir Rou. Baut en op deem, wéi d'Persoun ëmmer gelieft huet."
+  - q: "Soll eng Persoun mat Demenz tagsiwwer dommelen?"
+    a: "Eng kuerz Rou kann hëllefen, besonnesch nom Mëttegiessen. D'National Institute on Aging rät vun laangem Dommelen an spéidem Dommelen ob, well Iwwermiddegkeet oder schlecht Rou zu Ënnerhaltung um Owend bäidroe kann. Wann de Schlof wierklech e Problem ass, schwätzt mat hirem Dokter."
+  - q: "Wat maache mir, wann se d'Routine net mëttmaachen?"
+    a: "Loosst et fir elo los a probéiert et méi spéit oder op en anere Wee nees. Ofleenen kann heeschen, dass se midd sinn, krank, Schmerzen hunn oder einfach nach net prett sinn. D'Routine gëtt et, fir den Dag méi einfach ze maachen, dofir biegt se a zwéngt se net."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +45,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Eng sanfte Routine gëtt dem Dag eng vertraut Form: opstoen, Iessen, e bëssen Aktivitéit, Rou a Bett ongeféier zu den selwechte Zäiten. Si nëmmt Entscheedungen ewech, verhënnert Iwwerraschungen, an si gëtt Iech en Plang fir d'Momenter, wou Dir soss iwwerleeë géift, wat als Nächst kënnt. D'Routine hei ënnendrënner ass e Beispill, keng Regel. Benotzt se als Ausgangspunkt a passt se un d'Persoun un, fir déi Dir sorgt.
 
-## Why does a daily routine help?
+## Firwat hëlleft eng Dagesroutine?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Eng stabil Routine hëlleft, well vertraut Muster méi einfach ze verfollegen sinn wéi nei. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) seet, dass e geplangten Dag heescht, datt manner Zäit fir d'Entscheedung drop geet, wat ee maache soll, an méi Zäit fir schéi Aktivitéiten bleift. Reegelméisseg Zäiten fir Opstoen a Bett kënnen och bei Schlofproblemer a bei Ënnerhaltung um Owend hëllefen. D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) rät, sech, ginn an ze iessen all Dag zu der selwechter Zäit, als Deel vun engem roueg Doheem, an d'[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) empfeelt och, déi selwecht Routinen ze halen.
 
-## A sample gentle day
+## E Beispill fir e sanfte Dag
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+D'Zäiten sinn nëmme Beispiller. Réckt de ganzen Dag e bësse no vir oder no hanne fir de Rhythmus vun der Persoun.
 
-| Time | What happens | Ideas | On a harder day |
+| Zäit | Wat geschitt | Iddien | Op engem schwéieren Dag |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 Auer | Opstoen, wäschen, undoen | Ëmmer an der selwechter Rei; Kleeder an der Rei hikléngen, wéi se ugedoen ginn | Pfleeg einfach halen; e frësche Pullover reicht |
+| 8:45 Auer | Fréistéck | Kaffi an d'Zeitung virliesen oder d'Radio | Zesumme roueg iessen, kee Drock fir ze schwätzen |
+| 9:30 Auer | Haaptaktivitéit | Wäsch falen, backen, gäerteln, e kuerze Ausfloug oder e Spadséiergank | Eng méi kuerz Versioun, oder si kucke Iech dobäi zou |
+| 10:30 Auer | Roueg Zäit | Musek, e Fotoalbum oder um Fënster sëtzen | Rou an engem Liiblingsstull |
+| 11:00 Auer | Hëllef beim Mëttegiessen | Geméis wäschen, den Dësch decken | Dir kacht; si leeschtet Iech Gesellschaft |
+| 12:00 Auer | Mëttegiessen a Gewëscht | Den Dësch oppassen, e puer Teller drécken | D'Hausaarbecht iwwersprangen |
+| 1:00 Auer | Kuerz Rou | Féiss héich, sanft Musek | Dat selwecht |
+| 2:00 Auer | Dobaussen oder aktiv | Spadséiere, Zäit op der Veranda, Planzen gitzen, mat engem Ballon spillen | Bei engem sonnege Fënster sëtzen |
+| 3:00 Auer | Sozial oder kreativ | En Besuch, e Telefonsruff, [Billerpuerer](/games/picture-pairs/), Ausmoolen, Kaarten | E Getränk a en Snack zesumme |
+| 4:30 Auer | Zur Rou kommen | Virhäng zou, Luuchten un, eng roueg Aufgab wéi Waschlappen falen | Vertraut Musek, wéineg Kaméidi |
+| 5:30 Auer | Owesiessen | Hëllef beim Réieren oder Décken | Einfach, vertraut Iessen |
+| 6:30 Auer | Owes zesumme | Bei engem Dessert erënneren, Kaarten, eng Liiblingssendung, eng Handmassage | Roueg Gesellschaft |
+| 8:00 Auer | Bettroutine | Bad oder Wäschen, Pyjama, sanfte Musek, gedämpft Luucht | Alles méi kuerz maachen; Komfort geet vir |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Dëse Plang follegt dem Opbau vum Alzheimer's Association sengem eegene Musterplang fir déi fréi an mëttler Phase. Dee geet vun der Pfleeg a vum Fréistéck duerch Hausaarbecht, Spadséiergäng, Musek, Rou an Besuch bis zum Owesiessen, zum Erënneren a bis zur Bettfertegmaachung.
 
-## How do you build your own routine?
+## Wéi bauen Dir Är eege Routine?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Fänkt bei deem un, wéi d'Persoun ëmmer gelieft huet, net bei engem Tableau. D'Alzheimer's Association rät, iwwer dës Punkte nozedenken, ier Dir plangt:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Hir Virléiften, Ofneigungen, Stäerkten a Interessen.**
+- **Wéi si hiren Dag fréier verbruecht huet.** Eng fréi Vulli, déi ëmmer mam Hond spadséiere gaangen ass, soll dat och weider maachen. Eng Nuetsmënsch freet sech vläicht ni op en Ufank um 8:00 Auer.
+- **Hir beschte Zäit vum Dag.** Leet d'Bueden, d'Ausflich an d'Haaptaktivitéit do op.
+- **Genuch Zäit** fir Iessen, Wäschen an Undoen, dass näischt gehetzt ass.
+- **Reegelméisseg Opstoen- a Bettzäiten.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+Déiselwecht Quell rät, eng Mëschung ze hunn aus Hausaarbechten, Iessen, Pfleeg, kreativen Aktivitéiten, Bewegung, sozialer Zäit, geeschtlecher Aktivitéit an spontanen Momenter, wéi wann e Frënd laanscht kënnt.
 
-### Try it for a week, then adjust
+### Probéiert et eng Woch, an passt dann un
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Hält all Dag eng kuerz Notiz. D'Alzheimer's Association rät ze froen, wéi déi Aktivitéiten am beschten geklappt hunn an firwat, ob et Zäiten mat ze vill los war oder ze wéineg ze maachen, an ob spontan Pläng schéin waren oder Suergen gemaach hunn. Behalt, wat funktionéiert, aändert, wat net.
 
-### Make it visible
+### Maacht se sichtbar
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Wann d'Persoun nach liesen kann, kann eng Whiteboard oder eng Kaart mat groussen Dréck mam Dagesplang beruhegend sinn. Haalt en kuerz: „Fréistéck. Spadséiergank mat Sarah. Mëttegiessen. Rou.“ Heiansdo ass et besser, wann een net weit am Viraus weess, wat geschitt. D'Family Caregiver Alliance rät, Pläng eréischt kuerz virdrun ze erzielen, wann dat Suergen mécht.
 
-## How to adapt the routine
+## Wéi passt Dir d'Routine un?
 
-### Leave room to breathe
+### Loosst Loft
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Fëllt net all Minutt. D'Alzheimer's Association betount, dass d'Persoun eng Balance vun Aktivitéit a Rou brauch an dacks méi oft Paus. Wann se sech geleiwelt, ofgelenkt oder gereizt fillen, wiesselt d'Aktivitéit oder maacht Rou.
 
-### Protect the late afternoon
+### Schützt de spéiden Nomëtteg
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Vill Leit ginn méi onroueg, wann d'Dageslicht ofhëlt. D'NIA rät, all Dag Zäit dobaussen oder bei engem Fënster am Sonneliicht ze verbréngen, all Dag aktiv ze sinn, ouni ze vill ze plangen, spéit am Dag Kaffi an Alkohol ze vermeiden an spéiden Dommelen ze verhënneren. E puer Famillen hunn och gutt Erfarungen gemaach, d'Virhäng virum Dämmer zouzemaachen an d'Luuchten unzemaachen. Kuckt [Ënnerhaltung um Owend](/caregiving/late-day-restlessness/) an [Schlof](/brain-health/sleep/).
 
-### Change it as needs change
+### Passt se un, wann sech d'Bedierfnesser änneren
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Fréi Phase:** Plangt d'Routine zesumme. D'Persoun wëll vläicht en Schrëftplang, deen se selwer verwalt.
+- **Mëttler Phase:** Dir féiert méi. Kierzer Aktivitéiten, méi Rou a vill vertraut Aufgaben; kuckt [Aktivitéiten an der mëttlerer Phase](/activities/middle-stage/).
+- **Spéit Phase:** D'Routine dreet sech ëm Komfort, Iessen a Pfleeg, mat kuerzen Momenter fir d'Sënner dertëscht, wéi Musek oder eng Handmassage; kuckt [Aktivitéiten an der spéiderer Phase](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Variéiert d'Aktivitéiten, net de Kader
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Hält Iessen, Rou a Bettzäit stabil an dréint d'Aktivitéiten dertëscht. D'[NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) rät, un verschiddenen Deeg verschidde Aktivitéiten ze probéieren, fir et interessant ze halen. Dir kënnt e Méindeg backen, e Dënschdeg gäerteln an e Mëttwoch Fotoe kucken. Eis [101 Aktivitéitsiddien](/activities/ideas/) an [Hausaufgaben](/activities/household-tasks/) kënne d'Plazen dertëscht fëllen.
 
-## When the day goes sideways
+## Wann de Dag aus dem Rudder leeft
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Et ginn Deeg, déi dem Plang net follegen. Krankheet, eng schlecht Nuecht, e Dokter-Besuch oder e Wiessel am Wieder kënnen alles duerechneen. Gitt de Plang op, behalt d'Basis (Iessen, Drénken, Rou, Komfort) a probéiert et muer nees. Wann d'Persoun eppes refuséiert, kuckt [wann se nee soen](/caregiving/when-they-say-no/). Eng roueg Otempaus zesumme, wéi [Rouegt Otmen](/games/calm-breathing/), kann hëllefen, datt Dir bäid nees zur Rou kënnt.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Är eege Routine zielt och. Plangt Paus fir Iech selwer an frot Famill oder en Entlaaschtungsservice, fir Iech regelméisseg Zäit fräi ze ginn. Kuckt [Selbstpfleeg fir Betreier](/caregiving/caregiver-self-care/).

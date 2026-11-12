@@ -1,32 +1,28 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "失智症患者的音乐活动"
+seoTitle: "失智症音乐活动：歌单与点子"
+description: "如何与失智症患者分享音乐：按年代与风格建立个人歌单，15个简单的音乐活动，以及各阶段的实用建议。"
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  音乐是最容易与失智症患者分享的活动之一。根据对方年轻时、信仰和家人的音乐，建立一份个人歌单，播放时不插播广告，也不要有背景噪音。可以一起唱歌、拍手、摇摆，或只是静静地听。根据当下的情绪选择安静或欢快的音乐，音量保持柔和，如果某首歌让对方难受，就停下来。
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "个人化的音乐效果最好：对方年轻时喜爱的风格，加上信仰、文化和家庭庆典中的音乐。"
+  - "一次只播放一首，不要广告，也把电视关掉。"
+  - "唱歌、拍手、摇摆，或只是静静地听，都是参与的方式。"
+  - "用较平静的音乐帮助安定，用较欢快的音乐提振情绪，并留意对方的反应。"
+  - "关于有结构的音乐治疗，研究证据有限；我们建议把音乐当作一种愉快的共处方式，而不是治疗。"
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "什么样的音乐最适合失智症患者？"
+    a: "对方长久以来熟悉并喜爱的音乐，通常来自他十几岁和二十多岁的时候，还有信仰、文化和家庭庆典中的音乐。如果可能，让对方自己选择。观察他的表情和身体反应，了解他喜欢什么，如果某首歌似乎让他难受，就不再播放。"
+  - q: "我应该使用耳机吗？"
+    a: "有些人喜欢耳机，因为能隔绝噪音；另一些人则觉得不舒服或感到困惑。可以先用音箱，这样能一起聆听。如果使用耳机，音量要小，并且留在对方身边。"
+  - q: "音乐能帮助缓解坐立不安或情绪激动吗？"
+    a: "平静、熟悉的音乐有助于营造安宁的气氛，阿尔茨海默病协会也建议用音乐来营造您想要的氛围。但它不是每次都有效。如果对方感到痛苦，也要检查是否疼痛、饥饿、有噪音或疲倦。"
+  - q: "后期失智症的人还能享受音乐吗？"
+    a: "很多人可以。阿尔茨海默病协会指出，处于后期的人仍可能跟着节拍轻敲，或跟着童年的歌曲哼唱。坐近一些，轻声播放音乐，握着对方的手，或一起轻轻摇摆。"
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +41,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+音乐是您可以与失智症患者分享的最简单的事物之一。它不需要任何东西：没有标准答案，也没有步骤要遵循。一首熟悉的歌，可能带来一个微笑、一下轻轻的脚步，或几句跟着哼的词，即使在一个说话很吃力的日子也是如此。您需要的只是适合这位特定的人的音乐，以及一个安静的时刻来播放。
 
-## What music activities work for people with dementia?
+## 哪些音乐活动适合失智症患者？
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+聆听、唱歌、拍手、摇摆，以及谈论音乐，都很有效。[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)建议播放音乐、谈论音乐和歌手，跟着熟悉的歌曲唱歌或跳舞，并参加社区里的音乐会或音乐节目。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/art-music)补充说，拍手或跳舞之类的律动可以增加乐趣，而且当说话变得困难时，音乐可以成为连接彼此的方式。
 
-## How do you build a personal playlist?
+## 怎样建立个人歌单？
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+最有用的，是为这位特定的人做一份对他有意义的歌单。[英国国民保健服务（NHS）](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)也强调具有个人意义的音乐。以下是建立歌单的简单方法。
 
-### Start with their life
+### 从他的人生开始
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **他十几岁和二十多岁的时候。** 想想他年轻时，收音机、舞会和电影里播放的是什么。
+- **重要时刻。** 他婚礼上的音乐、第一支舞，或家人一起长途旅行时最爱听的专辑。
+- **信仰与文化。** 赞美诗、福音音乐、圣乐，或他母语的歌曲。
+- **工作与服役。** 军乐队、劳动歌曲，或与某段服役时期相关的音乐。
+- **家人记得的。** 问问兄弟姐妹、子女和老朋友，他们记得他总是播放或哼唱什么。
 
-### Think in genres, not just songs
+### 按风格思考，而不只是单首歌
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+如果您不确定从哪里开始，可以各试几分钟，然后观察反应：大乐队与摇摆乐、doo-wop、Motown 与灵魂乐、早期摇滚、乡村音乐、蓝草音乐、福音与赞美诗、百老汇音乐剧、爵士经典、拉美音乐（如 bolero 或墨西哥流行音乐）、波尔卡、民谣和古典乐。留下让人微笑或轻轻打拍子的，放下让人皱眉的。
 
-### Make it easy to play
+### 让它容易播放
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **不插播广告。** 阿尔茨海默病协会提醒，广告可能造成困惑。使用下载的音乐、CD、唱片或无广告的服务。
+- **一台简单的设备。** 一个大按钮的音箱，或一份已保存好的歌单，让任何人都能开始播放。
+- **两份简短的清单。** 一份平静的歌单用于安定情绪，一份欢快的歌单用于提振心情。
+- **贴上标签。** 在设备上写下对方的名字和“最爱的音乐”，这样前来探望的家人和护理人员也能使用。
 
-## 15 music activities to try
+## 15个可以尝试的音乐活动
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **一起聆听。** 并排坐着，周围没有别的声音。聆听本身就是一项完整的活动。
+2. **跟着唱。** 先由您自己开始唱。哼唱或只动嘴唇跟着词，也算数。
+3. **拍手或打节拍。** 拍拍膝盖，敲敲桌子，或使用小手鼓或摇铃。
+4. **慢舞。** 手拉着手，在厨房里摇摆，或坐着跳舞，一起挥动手臂。
+5. **挥丝巾舞。** 站着或坐着，随着音乐挥动轻薄的丝巾。
+6. **谈论音乐。** 是邀请，不是考问：“这听起来像舞厅的音乐，跟我说说那时的舞。”千万不要问：“你还记得这首歌吗？”
+7. **播放一整张专辑。** 从头到尾播放一张他喜爱的唱片，边听边喝咖啡。
+8. **看唱片封套。** 老唱片的封套很适合聊时尚、汽车和人的面孔。
+9. **看一部音乐剧。** 一部那个年代的音乐剧或音乐会录影，很适合作为一个晚上的节目。中间记得让他休息。
+10. **弹他熟悉的乐器。** 曾经弹钢琴或吉他的人，可能喜欢简单地弹奏。之后，一起弹几个音就足够了。
+11. **边做事边听音乐。** 折叠衣物或摆放餐桌时，播放他喜爱的歌曲。
+12. **早晨的歌。** 每天以同一首欢快的歌开始，把它变成日常的一部分。
+13. **唱赞美诗或圣乐。** 播放他信仰传统中的音乐，一起唱。
+14. **参加歌唱小组。** NHS 指出，歌唱小组有益于心情和身心健康。可以在当地询问是否有适合失智症患者的合唱团。
+15. **去听现场音乐。** 一场短的社区音乐会，或户外乐队演出。坐在靠近出口的位置，随时可以离开。
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+如果想做一个较轻松、用熟悉词句玩的活动，可以试试[接俗语](/games/finish-the-saying/)，您随时可以把结尾先说出来。
 
-## Matching music to the moment
+## 根据时刻选择音乐
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+阿尔茨海默病协会建议用音乐营造您想要的氛围：平静的音乐带来安宁，而来自对方年轻时的欢快歌曲则可以提振精神。
 
-| Moment | Try | Tip |
+| 时刻 | 可以尝试 | 小贴士 |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| 起床时 | 熟悉、欢快的歌 | 每天早上都是同一首歌，会成为温和的提示 |
+| 做家务时 | 欢快的老歌 | 音乐可以让工作感觉像有人陪伴 |
+| 用餐时 | 柔和的器乐曲 | 保持安静，不要盖过吃饭的声音 |
+| 午后晚些时候 | 平静、熟悉的音乐，光线充足时 | 请见[傍晚的坐立不安](/caregiving/late-day-restlessness/) |
+| 就寝时 | 缓慢、轻柔的音乐 | 同时把音量和灯光调低 |
+| 后期 | 他最爱的歌，音量非常轻 | 坐近一些，握住他的手 |
 
-## Tips for a good experience
+## 让体验更好的建议
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **关掉其他声音。** 阿尔茨海默病协会建议关上窗户和房门，并关掉电视，让音乐成为唯一的声音。
+- **音量保持柔和。** 音乐应该让人舒服，而不是震耳。如果对方戴助听器，请确保助听器已戴好并正常运作；请见[听力](/brain-health/hearing/)。
+- **留意带来伤感的歌。** 有些歌会勾起悲伤、战争或失去的回忆。如果某首歌让对方难过，就安慰他，然后换一首。
+- **让对方作主。** 如果可能，让对方选择音乐，也要接受他说不。
+- **随时可以停。** 五分钟的音乐也是一项很好的活动。关掉音乐，安静地坐着，同样很好。
 
-## What does the research say about music and dementia?
+## 研究对音乐与失智症说了什么？
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+证据有限。[2025年 Cochrane 系统综述](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia)审阅了30项有结构的音乐活动研究，多数是在养老院中的小组。结果显示，这类活动与一般照护相比，可能使抑郁症状略有减轻，但对激越行为、整体幸福感、思维与记忆没有明显影响，活动结束后也没有持续的效果。
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+我们分享音乐，是因为它是一种愉快、压力很小的共处方式，而不是作为治疗。如果是团体场合，请见[养老机构的团体活动](/activities/care-home-groups/)；如果想把音乐与照片和故事结合，请见[回忆活动](/activities/reminiscence/)。

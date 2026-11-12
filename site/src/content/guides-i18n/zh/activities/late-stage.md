@@ -1,32 +1,28 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "晚期失智症的活动：包括卧床或坐在椅子上时"
+seoTitle: "晚期失智症活动：卧床与坐椅时的点子"
+description: "适合晚期失智症的温和活动，包括卧床或坐在椅子上的人：音乐、触摸、朗读、声音和陪伴，并附安全提示。"
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  在晚期失智症阶段，活动以感官和陪伴为中心：播放喜欢的音乐、握住双手、缓慢的手部按摩、朗读、看照片、听自然的声音，以及坐在窗边或户外。这些活动在床上或椅子上也能进行。请保持时间简短，观察对方的表情和双手，看是否舒适，并记住，陪在身边本身就是一种活动。
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "连结仍然可能存在。在晚期阶段，人主要通过感官来体验世界。"
+  - "音乐、轻柔的触摸、熟悉的声音和柔软的物品，往往能在语言已经无法传达时打动人。"
+  - "这里几乎所有的点子，对卧床或坐在椅子上的人都适用。"
+  - "留意脸部、双手和呼吸所显示的舒适或不适，一旦出现痛苦的迹象就停下来。"
+  - "避免小物件；食物或饮品只能按照照护团队的建议提供，因为吞咽可能变得不安全。"
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "对于卧床、处于晚期失智症的人，可以做哪些活动？"
+    a: "播放他们喜欢的音乐，握住他们的手，用乳液做缓慢的手部按摩，朗读他们喜爱的书或祷文，展示照片，或播放温和的自然声音。拉开窗帘，让他们看得到外面。短暂、平静、每次只做一件事的时段，通常效果最好。"
+  - q: "晚期失智症的人还能享受音乐吗？"
+    a: "许多人可以。阿尔茨海默病协会指出，即使到了晚期，有人仍然可能随着童年时的歌曲打拍子或跟着唱。选择他们年轻时喜欢的音乐，并保持小音量。"
+  - q: "我怎么知道他们是否喜欢某项活动？"
+    a: "留意一些细微的迹象：肩膀放松、脸部柔和、有眼神交流、哼唱、轻握您的手，或呼吸变慢。皱眉、把身体移开、烦躁不安或呻吟，可能表示不适或疼痛。如果看到这些情况，请停下来，若持续存在，请告诉照护团队。"
+  - q: "如果他们已经不认得我，我还值得探望吗？"
+    a: "值得。美国国家老龄研究所指出，单纯的陪伴就能令人平静，而在失智症的晚期，触摸、音乐和故事仍然能带来安慰。即使对方记不住您的名字，您的声音和触摸可能仍然是熟悉的。"
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +44,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+在失智症的晚期，一个人可能很少说话，需要协助所有的日常护理，并且大部分时间都在床上或椅子上度过。这时候，您可能会觉得一起可以做的事已经所剩无几。其实并非如此。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage)指出，对方的自我核心中可能仍然保留着某些东西，而在这个阶段，人主要通过感官来体验世界。音乐、触摸、熟悉的声音，以及您平静的陪伴，仍然能带来安慰，以及片刻的连结。
 
-## What activities help in late-stage dementia?
+## 哪些活动在晚期失智症中有帮助？
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+在晚期，简单的感官活动和安静的陪伴最有帮助。阿尔茨海默病协会建议播放喜欢的音乐、朗读有意义的书的一部分、涂上带有对方喜爱气味的乳液，并在好天气时一起坐在户外。[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease)还补充了讲故事、展示照片、温和的触摸或按摩，以及音乐、白噪音或自然声音，并指出，您的陪伴本身就可能令人平静。
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[美国阿尔茨海默病基金会](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)指出，晚期的人通常非常需要抓住某样东西来获得安慰，并建议简单的感官活动、温和的伸展、挥动丝巾、音乐、动物探访、人与人之间的触摸，以及自由形式的艺术。
 
-## Activities for someone in bed or a chair
+## 卧床或坐在椅子上的人可以做的活动
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **播放他们的音乐。** 选择他们年轻时的歌曲、信仰相关的歌曲，或家人喜欢的歌。保持小音量，并坐得近一些。即使到了这个阶段，有些人仍会用手指打拍子或轻轻哼唱。请参阅[音乐活动](/activities/music/)。
+2. **握住双手。** 只是握住一只手，并轻轻地用拇指抚摸，本身就是一项活动。动手之前先说一声您在做什么。
+3. **缓慢的手部按摩。** 在掌心里温一点乳液，从手腕到指尖慢慢按摩。如果不确定，请选择无香味的乳液，或在对方的皮肤能够承受的情况下，选择他们一直喜欢的气味。
+4. **朗读。** 一首喜爱的诗、一段珍爱的书中文字、经文或体育版。您的声音的节奏，比文字内容更重要。
+5. **讲故事。** 谈谈一次家庭旅行，或他们结婚的那一天。您不需要对方回应。
+6. **展示照片。** 每次拿一张大的照片，放在对方的视线高度，并温柔地描述。避免问照片里是谁。
+7. **给对方一件柔软的东西拿着。** 一块折好的小毛巾、一块摇粒绒布，或一只柔软的动物玩偶。美国国家老龄研究所建议，在移动对方时给他们一块毛巾拿着，这样他们就比较不会抓您或家具。
+8. **播放自然的声音。** 小音量的雨声、海浪声或鸟鸣，能让吵闹的房间变得柔和。
+9. **把户外带进来。** 拉开窗帘，在窗外放一个鸟食器，或拿一些新鲜的花或树叶，让对方看看、摸摸。
+10. **到户外去。** 如果对方可以坐在轮椅上，在温和的日子里到树荫下待几分钟，也会很美好。
+11. **梳头或用温毛巾擦拭。** 缓慢、轻柔的梳理，以及用温毛巾擦手和脸，可以让人感到被照顾。
+12. **随着音乐轻轻移动。** 一起挥动一条轻丝巾，或随着歌曲的节奏摆动双手。关于伸展和关节活动，请先请物理治疗师或护士教您安全的做法。
+13. **自由形式的艺术。** 用海绵或手，在大张的纸上涂上无毒的颜料，由您引导着进行。没有对错之分。
+14. **欢迎动物探访。** 如果对方喜欢动物，而环境允许，可以让一只温顺的宠物待在床上或腿上。
+15. **一起缓慢呼吸。** 坐得近一些，缓慢而清楚地呼吸。[平静呼吸](/games/calm-breathing/)可以带着您们两人的节奏，由您决定开始和停止。
+16. **单纯地陪在身边。** 坐在附近，哼唱、织毛线或安静地看书。陪伴本身就已足够。
 
-## How to share an activity at this stage
+## 在这个阶段如何分享一项活动
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **从正面靠近。** 先说出对方的名字和您的名字，在触碰之前，慢慢地、轻柔地说话。
+- **每次只提供一件事。** 播放音乐前先关掉电视。每次只刺激一种感官。
+- **保持简短。** 几分钟可能就已经足够。一天中多次的短暂时刻，比一次长时间的相处更好。
+- **先让对方舒适。** 确认对方有良好的支撑。美国国家老龄研究所建议，坐起时使用腿板，让手臂有地方靠，并支撑上身。
+- **观察对方的反应。** 双手放松、脸部柔和、有眼神交流或哼唱，都表示舒适。美国国家老龄研究所指出，呻吟、皱眉、护住身体某个部位，或突然的烦躁，可能是疼痛的迹象。请停下来，并告诉照护团队。
 
-## A quick guide by sense
+## 按感官分类的快速指南
 
-| Sense | Ideas | Take care |
+| 感官 | 点子 | 注意事项 |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| 听觉 | 喜欢的音乐、您朗读的声音、自然的声音 | 音量保持低；一次一种声音 |
+| 触觉 | 手部按摩、握手、柔软的布料、温毛巾 | 先询问或说明；检查皮肤是否酸痛或破损 |
+| 视觉 | 照片、花、窗外的景色、缓慢的自然影片 | 把东西放在视线高度；光线要好，避免眩光 |
+| 嗅觉 | 喜欢的乳液、新鲜的花、附近冲泡的咖啡 | 避免浓烈的气味；注意过敏和呼吸情况 |
+| 味觉 | 一小口喜欢的口味 | 只提供照护团队认为安全的食物和质地 |
 
-## Safety at this stage
+## 这个阶段的安全注意事项
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+在晚期，吞咽可能变得困难，美国国家老龄研究所警告，这会增加噎住的风险。不要把小物件放在对方伸手可及的地方，并且只按照照护团队建议的质地和姿势提供食物或饮品。在进行触摸活动时，请轻轻检查皮肤，因为皮肤很容易撕裂或出现瘀伤。关于更多安全的感官点子，请参阅[感官活动](/activities/sensory/)。
 
-## Looking after yourself too
+## 也要照顾好自己
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+晚期照护无论是在家中还是在探访护理机构时，都会耗费大量体力和情绪。安宁和姑息照护团队能在舒适、支持和规划方面提供协助，美国国家老龄研究所也将他们列为帮助来源之一。简短、平静的探访是有价值的；请参阅[探访失智症的人](/activities/visiting/)。如果您带领小组，[护理机构团体活动](/activities/care-home-groups/)提供了调整活动的点子。请一定要阅读[照护者的自我照顾](/caregiving/caregiver-self-care/)：休息也是把照顾做好的一部分。

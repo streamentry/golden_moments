@@ -1,33 +1,34 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Šventinės veiklos žmogui su demencija nuo Padėkos dienos iki Kalėdų"
+seoTitle: "Šventinės ir Padėkos dienos idėjos demencijai"
+description: "Paprastos šventinės veiklos žmogui su demencija: darbai virtuvėje, dekoravimas, muzika, nuotraukos ir vaizdo skambučiai bei kaip suplanuoti ramesnę šventę."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Laikykite šventes mažesnes, anksčiau dienos metu ir kuo arčiau įprastos
+  žmogaus rutinos. Suteikite jam tikrą, saugų darbą, pavyzdžiui, stalo klojimą,
+  daržovių plovimą, dovanos suvyniojimą ar dekoracijos pakabinimą. Dalinkitės
+  pažįstama muzika ir senomis nuotraukomis, iš anksto paruoškite svečius ir
+  įrenkite ramų kambarį. Darykite tik tai, ką galite pagrįstai įveikti; trumpa,
+  rami šventė – gera šventė.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Švęskite anksčiau dienos metu, pavyzdžiui, pietus ar vėlyvus pusryčius, jei dažnai pasireiškia painiava vakare."
+  - "Siūlykite tikrus darbus: stalo klojimą, produktų plovimą, dovanos suvyniojimą, dekoravimą ar desertų dėliojimą lėkštėse."
+  - "Pažįstamos muzika, kalėdinės giesmės ir seni nuotraukų albumai – paprasti būdai pasidalinti švente."
+  - "Pasakykite svečiams, ko tikėtis, ir parodykite žmogui nuotraukas to, kas atvyks."
+  - "Įrenkite ramų kambarį su mėgstama antklode ar megztiniu ir į jį leiskite po kelis lankytojus."
+  - "Praleiskite viską, kas per daug, įskaitant dekoracijas, panašias į maistą, ir daug mirksinčių lempučių."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Ką žmogus su demencija gali padaryti per Padėkos dieną?"
+    a: "Duokite jam paprastą, saugų darbą, tinkamą tam, ką jis gali šiandien: plauti daržoves, maišyti brūkšnių padažą, klioti stalą, lankstyti servetėles ar dėlioti desertus lėkštėse. Po to kartu pažiūrėkite senas šeimos nuotraukas ar padainuokite pažįstamas dainas. Svarbiau būti dienos dalimi, nei kaip gerai pavyksta darbas."
+  - q: "Ar vis dar turėtume rengti didelį šeimos susibūrimą?"
+    a: "Tik jei tai įmanoma. Minios ir triukšmas gali būti priblokštantys, todėl daugelis šeimų pereina prie mažesnio, neformalesnio susibūrimo, anksčiau pradedamo valgio ar lankytojų, atvykstančių mažomis grupelėmis. Alzheimerio asociacija ragina slaugytojus daryti tik tai, ką jie pagrįstai ir saugiai gali įveikti."
+  - q: "Kaip paruošti šeimos narius, kurie kurį laiką nesilankė?"
+    a: "Prieš atvykstant pasakykite, kokių pokyčių jie gali pastebėti ir kad jie atsiranda dėl ligos, o ne dėl paties žmogaus. Paprašykite nepataisyti ir neklausinėti, kalbėti po vieną ir duoti laiko atsakymams. Iš anksto parodyta žmogui svečių nuotraukos taip pat gali padėti."
+  - q: "Kokios šventinės dovanos tinka žmogui su demencija?"
+    a: "Paprasti, saugūs dalykai, kuriais jis gali džiaugtis dabar: mėgstamas užkandis, minkšta antklodė ar megztinis, pažįstama muzika ar šeimos nuotraukų albumas. Venkite sudėtingos elektronikos, įrankių ir sudėtingų stalo žaidimų. Įtraukti jį į dovanavimą, pavyzdžiui, leisti suvynioti dovaną ar supakuoti sausainius, kuriuos jis padėjo iškepti, pati savaime gali būti dovana."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +41,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Šventės gali sugrąžinti šiltus prisiminimus, bet jos taip pat gali atnešti triukšmo, minių ir pokyčių įprastoje dienoje. Žmogui, gyvenančiam su demencija, geriausios šventės paprastai būna mažesnės, lėtesnės ir sukurtos aplink tai, ko jis dar gali mėgautis. Šios idėjos tinka Padėkos dienai, Kalėdoms, Chanukai, Naujiesiems metams ir šeimos gimtadieniams.
 
-## How do I plan a calmer holiday?
+## Kaip suplanuoti ramesnę šventę?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Pradėkite nuo žmogaus rutinos ir planuokite dieną pagal ją. [Alzheimerio fondas Amerikoje](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) siūlo švęsti anksčiau dienos metu, nes painiava ir neramumas dažnai stiprėja popiet ir vakare (kartais vadinama saulėlydžio sindromu). Šventiniai pietūs ar vėlyvi pusryčiai gali būti lengvesni nei vėlyva vakarienė.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Pasirinkite tinkamą dydį.** Mažesnis, neformalus susibūrimas arba svečiai, atvykstantys po kelis, dažnai yra lengvesnis nei perpildytas stalas.
+- **Paskirstykite darbus.** Paprašykite giminaičių atsinešti patiekalą, nupirkti produktų ar praleisti laiką su žmogumi, kol jūs gaminate. Būkite konkretūs, ką galėtų padėti.
+- **Dekoracijas laikykite paprastas.** [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/holidays) pastebi, kad mirksinčios lemputės gali supainioti, o saldainiai ar dirbtiniai vaisiai, naudojami kaip dekoracija, gali būti supainioti su maistu.
+- **Nuspręskite, ką atsisakyti.** Jei tradicija tapo įtempta ar rizikinga, galima ją praleisti arba pasirinkti ramesnę.
 
-## What holiday activities can we do together?
+## Kokias šventines veiklas galime atlikti kartu?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Rinkitės darbus ir laiko praleidimo būdus, tinkamus tam, ką žmogus gali šiandien. Svarbiau būti dienos dalimi, nei kaip ji baigiasi.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Kartu klokite stalą.** Pirma padėkite lėkštes, tada servetėles, tada puodelius. Servetėlių lankstymas – geras darbas, atliekamas sėdint.
+2. **Plaukite ir rūšiuokite daržoves.** Bulvių plovimas ar žaliųjų pupelių laužymas virtuvės stalo prie jo yra saugu ir pažįstama daugeliui žmonių, kurie anksčiau gamino.
+3. **Maišykite, plakite ar dėliokite.** Brūkšnių padažo maišymas, paprasto tešlos mišinio plakimas ar sausainių dėliojimas lėkštėje laiko rankas užsiėmusias, toli nuo viryklės ir peilių.
+4. **Suvyniokite dovaną.** Iš anksto nukirpkite popierių ir lipnią juostą, o žmogus tegu sulanksto ir išlygina. Tvarkingas suvyniojimas nėra svarbiausias dalykas.
+5. **Pakabinkite kelias dekoracijas.** Rinkitės nesulaužomus žaisliukus ir vieną nedidelę vietą, pavyzdžiui, vainiką ar nedidelę eglutę.
+6. **Padarykite paprastą darbelį.** Popierinės grandinės, lapų koliažas ar šventinis atvirukas su antspaudais puikiai tinka. Daugiau idėjų rasite mūsų [meno ir rankdarbių gide](/activities/arts-and-crafts/).
+7. **Dainuokite ir klausykitės.** Pažįstamas kalėdines giesmes ir šventines dainas lengva dainuoti kartu, net žmogui, kuris dabar mažiau kalba. Kaip sudaryti grojaraštį, žr. mūsų [muzikos gidą](/activities/music/).
+8. **Žiūrėkite senas šventines nuotraukas.** Išimkite albumus iš ankstesnių švenčių ir kvieskite pasakoti istorijas („Papasakok apie šį stalą“), o ne klausti, kas yra kas. Kaip tai daryti, paaiškina mūsų [prisiminimų gidas](/activities/reminiscence/).
+9. **Žaiskite švelnų grupinį žaidimą.** [Paveikslėlių bingas](/games/picture-bingo/) atspausdinamas per kelias minutes ir tinka visiems amžiams, o [pokalbių kortelės](/games/conversation-cards/) suteikia visiems ką aptarti.
+10. **Spalvinkite kartu.** Paprastus [spalvinimo puslapius](/games/coloring/) galima atspausdinti vaikams ir seneliams, kad jie dalintųsi prie stalo.
+11. **Pažiūrėkite mėgstamą šventinį filmą.** Pažįstamas filmas ramina, ir gerai žiūrėti tik dalį jo.
+12. **Trumpas pasivažinėjimas žiūrėti šviesų.** Tylus pasivažinėjimas pro papuoštus namus gali būti lengvesnis nei perpildytas renginys.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Jei gaminimas buvo didelė žmogaus gyvenimo dalis, mūsų gidas apie [namų ruošos darbus kaip veiklas](/activities/household-tasks/) turi daugiau būdų, kaip virtuvės darbus padaryti saugius ir prasmingus.
 
-## How do I prepare guests?
+## Kaip paruošti svečius?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Pasakykite svečiams, ko tikėtis, prieš jiems atvykstant, ypač giminaičiams, kurie kurį laiką nesilankė. Alzheimerio asociacija siūlo paaiškinti, kad atminties ir elgesio pokyčiai kyla dėl ligos, o ne dėl paties žmogaus.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Pasidalykite keletu paprastų patarimų:** kalbėkite po vieną, duokite laiko baigti mintį, nepataisykite ir neklausinėkite, o jei žodžius sunku suprasti, reaguokite į žmogaus toną.
+- **Pasakykite, kas padeda, o kas erzina.** Jei garsus balsai, skubėjimas ar tam tikros temos sukelia nerimą, pasakykite tai.
+- **Supažindinkite svečius iš anksto.** Parodykite žmogui nuotraukas to, kas atvyks, ir papasakokite gal vieną ar dvi istorijas, arba prieš šventę surenkite trumpą telefono ar vaizdo pokalbį.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Daugiau detalių rasite mūsų [bendravimo patarimuose](/caregiving/communication-tips/).
 
-## What if it gets to be too much?
+## Ką daryti, jei viso to per daug?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Prieš svečiams atvykstant įrenkite ramų kambarį, atokiau nuo triukšmo, su pažįstamais komforto daiktais, pavyzdžiui, mėgstama antklode, megztiniu ar paprasta veikla. Pasiūlykite jį anksti ir dažnai: „Gal truputį pasėdėsime ramesnėje vietoje?“
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Išeiti iš stalo, anksti eiti miegoti ar praleisti dalį dienos – tai geras rezultatas, o ne nesėkmė. Jei žmogus susinervina, ramus balsas, pažįstama daina ar pasivaikščiojimas į kitą kambarį dažnai padeda geriau nei argumentai. Daugiau idėjų vakarui rasite mūsų gide apie [vakaro neramumą](/caregiving/late-day-restlessness/).
 
-## How can family far away take part?
+## Kaip dalyvauti šeimai, gyvenančiai toli?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Vaizdo skambučiai leidžia giminaičiams prisijungti nepridedant minios. Alzheimerio asociacija siūlo skambučiams suteikti tam tikrą struktūrą, pavyzdžiui, dainuoti sezono dainas, dalytis nuotraukomis iš ankstesnių susibūrimų, kartu gaminti tą patį receptą ar tuo pačiu metu žiūrėti šventinį filmą. Skambučius laikykite trumpus ir prašykite kalbėti po vieną, nes kelių žmonių kalbą sunku sekti. Žingsnis po žingsnio idėjų rasite mūsų [telefono ir vaizdo skambučių gide](/activities/phone-and-video-calls/).
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Jei žmogus gyvena atminties priežiūros įstaigoje, pasidomėkite lankymosi tvarka ir paprašykite darbuotojų padėti surengti skambutį. Ką atsinešti ir kaip tinkamai išeiti, aprašyta mūsų gide apie [lankymą žmogaus, esančio atminties priežiūros įstaigoje](/activities/visiting/).
 
-## What gifts suit someone with dementia?
+## Kokios dovanos tinka žmogui su demencija?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Geriausiai veikia paprastos, saugios dovanos, kuriomis jis gali džiaugtis dabar: mėgstamas užkandis, minkšta antklodė ar megztinis, pažįstama muzika, didelio šrifto kalendorius ar šeimos nuotraukų albumas. Alzheimerio asociacija pataria vengti pavojingų įrankių, sudėtingos elektronikos ir sudėtingų stalo žaidimų.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Dovanoti gali būti taip pat svarbu kaip ir gauti. Supakuoti sausainius, kuriuos žmogus padėjo iškepti, arba leisti jam suvynioti jūsų nupirktą dovaną – tai leidžia dalyvauti švenčių nuotaikoje. Dar viena idėja – šeimos nuotraukų žaidimas: [nuotraukų poros](/games/photo-pairs/) paverčia kelias pasirinktas nuotraukas švelniu atitikmenų žaidimu naršyklėje.
 
-## Look after yourself too
+## Pasirūpinkite ir savimi
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Šventės prideda darbo prie slaugos. Leiskite kam nors kitam surengti šventę ar iškepti kalakutą, atsisakykite renginių, kurie bus sunkūs, ir daryti pertraukas, kai kiti praleidžia laiką su žmogumi. Jei jūs ar žmogus, kuriuo rūpinatės, nesveikuojate, pamojavimas nuo kelio ar vaizdo skambutis – visiškai geras apsilankymas. Daugiau paramos rasite mūsų gide apie [slaugytojo savipriežiūrą](/caregiving/caregiver-self-care/).

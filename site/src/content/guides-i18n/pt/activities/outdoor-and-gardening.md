@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Atividades ao Ar Livre e Jardinagem para Demência"
+seoTitle: "Jardinagem e Atividades ao Ar Livre para Demência"
+description: "Ideias de jardinagem e atividades ao ar livre para pessoas com demência, com canteiros elevados, jardineiras e cuidados com calor, sol e perambulação."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Jardinagem e tempo ao ar livre podem ser uma atividade calma e familiar para quem vive com demência. Experimente regar, plantar ervas em um vaso, retirar flores murchas ou dar uma pequena caminhada em um quintal cercado. Use canteiros elevados ou uma mesa para que ninguém precise se ajoelhar, evite ferramentas cortantes e plantas tóxicas, saia na parte mais fresca do dia e sempre fique com a pessoa.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Tarefas simples do jardim, como regar, plantar sementes, sentir o cheiro das ervas e colher flores, podem ser feitas em pé ou sentado."
+  - "Canteiros elevados, vasos e uma mesa coberta trazem o jardim para a altura da cintura e reduzem o risco de quedas."
+  - "Evite ferramentas cortantes, plantas com espinhos ou que irritam a pele e qualquer coisa venenosa. Fique atento para que a terra não seja confundida com comida."
+  - "O calor pode ser perigoso para adultos mais velhos. Saiam cedo ou no fim do dia, levem água e sombra, e voltem para dentro ao primeiro sinal de desconforto."
+  - "Muitas pessoas que vivem com demência perambulam em algum momento. Fique com a pessoa ao ar livre e tenha uma foto recente e um documento de identificação à mão."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Quais atividades de jardinagem uma pessoa com demência pode fazer?"
+    a: "Regar plantas, plantar sementes em vasos pequenos, sentir o cheiro e tocar as ervas, retirar flores murchas, colher legumes, arrumar flores cortadas e varrer um caminho são boas escolhas. Dentro de casa, um vaso de ervas no peitoril da janela ou uma bandeja com terra sobre uma mesa coberta também funciona bem. Escolha a tarefa de acordo com o que a pessoa gostava antes e consegue fazer agora."
+  - q: "Como manter alguém com demência segura no calor?"
+    a: "Planeje o tempo ao ar livre para o início da manhã ou o fim da tarde, mantenha-o curto e ofereça água com frequência. Escolha sombra, um chapéu de aba larga, roupas leves e folgadas e protetor solar. Adultos mais velhos têm mais risco de doenças causadas pelo calor, e confusão, tontura ou enjoo podem ser sinais de alerta. Se perceber algum deles, entre e resfrie-se imediatamente."
+  - q: "Como sair ao ar livre se ela costuma perambular?"
+    a: "Fique com a pessoa o tempo todo, use um quintal ou jardim cercado com portão com trava e certifique-se de que ela use uma pulseira de identificação ou carregue um documento. Tenha uma foto recente à mão. Se a pessoa desaparecer, entre em contato com a polícia local ou com os serviços de emergência sem demora; não espere um número fixo de minutos. Informe aos socorristas que a pessoa tem demência, onde ela foi vista pela última vez e forneça uma foto recente."
+  - q: "E se não tivermos um jardim?"
+    a: "Algumas jardineiras na varanda, uma caixa de janela ou uma bandeja de ervas na mesa da cozinha já bastam. Também é possível visitar um parque, um jardim público ou uma horta comunitária. Sentar-se ao ar livre e ouvir os pássaros também conta como atividade ao ar livre."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +39,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +50,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Para muitas pessoas, o jardim é um dos lugares mais familiares que elas conhecem. Cavar, regar e colher flores usam habilidades aprendidas há muito tempo, e estar ao ar livre traz ar fresco, sol e canto de pássaros. O National Institute on Aging inclui cuidar das plantas, plantar flores e legumes e [conversar sobre como as plantas estão crescendo](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) entre as atividades de que pessoas com Alzheimer podem gostar. Esta página mostra o que experimentar, como tornar um jardim mais fácil de usar e como se manter seguro com calor, sol e perambulação.
 
-## What outdoor and gardening activities work well?
+## Quais atividades de jardinagem e ao ar livre funcionam bem?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+As melhores tarefas são simples, familiares e podem ser feitas em pé ou sentado. Escolha de acordo com o que a pessoa gostava de fazer.
 
-### In the garden
+### No jardim
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Regar.** Um regador pequeno e leve, ou um bico suave de mangueira e alguns vasos ao alcance. Regar tem começo e fim claros e é difícil errar.
+2. **Plantar sementes em vasos.** A Alzheimer's Foundation of America sugere plantar sementes em vasos pequenos e [acompanhar o crescimento](https://alzfdn.org/dementia-activity-gardening/). Sementes grandes, como feijão, girassol ou ervilha, são mais fáceis de manusear.
+3. **Retirar flores murchas.** Tirar à mão as flores que já secaram é uma tarefa suave e repetitiva. Escolha plantas sem espinhos.
+4. **Colher legumes ou ervas.** Tomates-cereja, feijões e ervas são fáceis de colher e agradáveis de provar. Levem para dentro para usar no almoço.
+5. **Sentir o cheiro e tocar as ervas.** Alecrim, hortelã e lavanda têm aromas fortes e agradáveis. Esfregue uma folha entre os dedos e passe-a sob o nariz dela.
+6. **Varrer um caminho ou um pátio.** Uma vassoura leve em uma superfície plana e seca, se o equilíbrio estiver firme.
+7. **Encher um comedouro de pássaros.** Depois, sentem-se juntos e vejam quem aparece para visitar.
 
-### Indoors, when going out is not possible
+### Dentro de casa, quando sair não é possível
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Um jardim de ervas no peitoril da janela**, com manjericão, salsinha ou cebolinha.
+- **Plantar em um vaso sobre uma mesa coberta.** A AFA sugere usar bandejas de refeitório para manter a terra em um só lugar e mover a terra com copinhos pequenos.
+- **Arranjos de flores**, com flores cortadas e folhagens do quintal ou do supermercado.
+- **Flores prensadas** de um buquê, depois coladas em cartões. Veja [artes e artesanato](/activities/arts-and-crafts/) para mais ideias.
+- **Fazer saquinhos perfumados de lavanda ou rosa**, outra ideia da AFA que traz o perfume do jardim para dentro de casa.
 
-### Getting out and about
+### Sair e passear
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Uma caminhada curta** pelo quarteirão, por um parque ou por um centro de jardinagem, em ritmo lento e com um lugar para sentar.
+- **Sentar-se lá fora** em uma varanda ou banco para ouvir os pássaros e sentir a brisa. É uma atividade completa por si só.
+- **Visitar um jardim público** em um horário tranquilo do dia. O NHS observa que alguns lugares têm jardins sensoriais, com plantas perfumadas, texturas e fontes de água.
+- **Alimentar patos ou observar pássaros** em um lago da região, mantendo distância segura da beira da água.
 
-## How do I make a garden easier to use?
+## Como tornar um jardim mais fácil de usar?
 
-Bring the garden up to the person, not the other way around.
+Leve o jardim até a pessoa, e não o contrário.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Canteiros elevados ou jardineiras altas**, na altura da cintura, para que ninguém precise se ajoelhar ou se curvar.
+- **Vasos sobre uma mesa** funcionam para quem usa cadeira de rodas ou prefere sentar.
+- **Caminhos largos e planos**, sem pedras soltas nem mangueiras jogadas no chão, reduzem o risco de tropeços.
+- **Assentos com braços e sombra** pelo caminho, para que descansar seja sempre uma opção.
+- **Ferramentas com cabos grossos e macios**, fáceis de segurar. Evite tesouras de poda, facas e qualquer coisa cortante.
+- **Uma área cercada com portão com trava**, onde a pessoa possa explorar com liberdade enquanto você fica por perto.
 
-## Which plants should I avoid?
+## Quais plantas devo evitar?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Escolha plantas que sejam seguras para tocar e, idealmente, seguras caso sejam provadas. A AFA recomenda usar plantas que não costumam irritar a pele, verificar alergias e ficar atento a quem possa confundir a terra com comida. As orientações de segurança domiciliar do NIA incluem remover ou trancar plantas venenosas.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Evite rosas com espinhos, cactos e plantas com seiva que irrita a pele.
+- Consulte um centro de informações toxicológicas ou uma loja de jardinagem da região antes de plantar qualquer espécie em que você não tenha certeza.
+- Plantas familiares podem trazer boas sensações. A AFA cita rosas e o cacto-de-natal como exemplos. Escolha variedades sem espinhos.
+- Guarde fertilizantes, pesticidas e herbicidas em local trancado, e não os use em áreas que a pessoa possa alcançar.
 
-## How do I stay safe in the heat and sun?
+## Como me manter seguro com calor e sol?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planeje o tempo ao ar livre de acordo com o clima. O NIA explica que adultos mais velhos têm mais risco de [doenças causadas pelo calor](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), em parte porque o corpo se adapta menos às mudanças de temperatura e alguns remédios afetam a forma como o corpo lida com o calor.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Saiam cedo ou no fim do dia.** Evite o meio do dia nos meses quentes. Observe o índice de calor, não apenas a temperatura.
+- **Ofereça água com frequência.** Não espere a pessoa dizer que está com sede. Evite álcool e bebidas com cafeína no calor.
+- **Vista-se adequadamente.** Roupas leves, de cor clara e folgadas, chapéu de aba larga e óculos de sol.
+- **Use protetor solar.** O NIA recomenda protetor de amplo espectro com FPS 15 ou superior, reaplicado ao longo do dia.
+- **Escolha a sombra.** Monte a mesa de plantio sob uma árvore ou um guarda-sol.
+- **Mantenha curto.** Um breve momento ao ar livre pode ser suficiente, especialmente em dias quentes.
+- **Fique atento aos sinais de alerta.** O NIA lista dor de cabeça, confusão, tontura ou enjoo como possíveis sinais de doença causada pelo calor. Uma pessoa com demência pode não dizer que está se sentindo mal, então observe o rosto e o comportamento dela. Entre, resfrie-a com água e um pano frio, e procure ajuda médica se ela não melhorar rapidamente. A insolação, com sinais como desmaio, confusão ou pele seca e avermelhada, é uma emergência médica: ligue para o número de emergência da sua região.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+O frio também importa. No inverno, mantenha o tempo ao ar livre curto e garanta que mãos e pés fiquem aquecidos e secos.
 
-## How do I handle wandering when we go outside?
+## Como lidar com a perambulação quando saímos?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Fique com a pessoa sempre que ela estiver ao ar livre. A Alzheimer's Association diz que seis em cada 10 pessoas que vivem com demência vão [perambular](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) pelo menos uma vez, e muitas fazem isso mais de uma vez. Pode acontecer em qualquer fase.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+As [dicas sobre perambulação e perder-se](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) do NIA incluem:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Garanta que a pessoa use uma pulseira de identificação ou médica com seu nome, endereço e seu telefone, ou identifique as roupas dela.
+- Mantenha uma foto ou um vídeo recente da pessoa.
+- Avise os vizinhos de que a pessoa pode perambular.
+- Proteja o quintal com cerca e portão trancado.
+- Não deixe sozinha uma pessoa com histórico de perambulação.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+A Alzheimer's Association também sugere criar áreas internas e externas onde a pessoa possa explorar com segurança, e planejar atividades para o horário em que a inquietação é mais provável. Uma caminhada em um jardim seguro e cercado pode combinar bem com a inquietação do fim do dia. Veja nosso guia sobre [inquietação no fim do dia](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Se a pessoa desaparecer, procure em lugares seguros próximos enquanto entra em contato com a polícia local ou com os serviços de emergência sem demora. Não espere um tempo fixo antes de comunicar o desaparecimento. Um [artigo de 2021 do Departamento de Justiça dos EUA sobre investigações de pessoas desaparecidas](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) afirma que as agências policiais não devem exigir um período de espera fixo e lista sintomas parecidos com os da demência como uma preocupação de alto risco. Os procedimentos de comunicação variam de cada local. Informe quando e onde a pessoa foi vista pela última vez, o que ela está vestindo e forneça uma foto recente. Siga as orientações dos socorristas locais; não procure em locais perigosos sozinho.
 
-## How do I adapt gardening as things change?
+## Como adaptar a jardinagem conforme as coisas mudam?
 
-| If this has become hard | Try this instead |
+| Se isso ficou difícil | Experimente isto |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Plantar um canteiro inteiro | Plantar uma semente em um vaso |
+| Capinar (distinguir mato de planta) | Regar, ou retirar flores murchas bem visíveis |
+| Andar pelo jardim | Sentar-se a uma mesa com uma bandeja de terra e uma planta |
+| Sair ao ar livre de forma alguma | Um vaso de ervas na mesa da cozinha, ou um lugar junto a uma janela aberta |
+| Fazer qualquer tarefa | Sentar-se lá fora juntos, ouvindo e observando |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Algumas pessoas preferem apenas observar você trabalhar. O NIA observa que deixar a pessoa simplesmente assistir é perfeitamente adequado se for isso que ela gosta.
 
-## When should we head inside?
+## Quando devemos voltar para dentro?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Entre quando a pessoa parecer cansada, com calor, com frio, incomodada ou pronta para encerrar. Dez minutos agradáveis são melhores do que uma tarde longa que termina em sofrimento. Parar cedo é um bom resultado.
 
-## Bring the garden indoors on screen
+## Trazer o jardim para dentro, na tela
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Em dias de chuva, [Separar juntos](/games/sort-together/) tem uma cesta de jardim para separar figuras, e [Cartas de conversa](/games/conversation-cards/) tem perguntas abertas que podem levar a histórias sobre jardins. Se você voltar do calor se sentindo apressado, a [Respiração calma](/games/calm-breathing/) oferece uma pausa lenta e tranquila para compartilhar. Para mais ideias baseadas em toque, cheiro e som, veja nosso [guia de atividades sensoriais](/activities/sensory/).

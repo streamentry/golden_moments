@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Aktivitete për demencën në fazën e hershme"
+seoTitle: "Aktivitete për demencën e hershme: ide që përshtaten"
+description: "Ide aktivitetesh për demencën e hershme: hobi, lojëra, dalje, shkrim dhe planifikim bashkë, me ndryshime të vogla që e mbajnë personin në kontroll."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  Në fazën e hershme të demencës, shumica e njerëzve mund të vazhdojnë të bëjnë
+  atë që u pëlqen: hobi, letra dhe lojëra tavoline, gatim, kopshtari, ecje,
+  klube, besim dhe vullnetarizëm. Ndryshimet kryesore janë grupe më të vogla,
+  dalje më të shkurtra, plane të thjeshta të shkruara dhe një partner pranë.
+  Pyesni personin çfarë ndihme dëshiron dhe lëreni ta udhëheqë.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Shumica e njerëzve në fazën e hershme jetojnë mjaft të pavarur. Aktivitetet zakonisht kanë nevojë për përshtatje, jo zëvendësim."
+  - "Pyesni personin çfarë mbështetjeje dëshiron dhe bini dakord për një shenjë të thjeshtë kur ndihma është e mirëpritur."
+  - "Grupe më të vogla, orë më të qeta dhe dalje më të shkurtra shpesh bëjnë një ndryshim të madh."
+  - "Kjo është kohë e mirë që personi të udhëheqë projekte për jetën e vet, si një ditar ose një libër i historisë së jetës."
+  - "Zgjidhni lojëra për kënaqësi. Hiqni dorë nga çdo gjë që fillon të duket si provim."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Cilat aktivitete janë të mira për demencën në fazën e hershme?"
+    a: "Zakonisht të njëjtat që personi i do tashmë: letra, lojëra tavoline, gatim, kopshtari, ecje, muzikë, aktivitete fetare, klube dhe vullnetarizëm. Ndoshta do t'i bëni më të shkurtra, më të qeta ose më të thjeshta. Ditari, shkrimi i letrave dhe libri i historisë së jetës i përshtaten shumë mirë këtij stadi."
+  - q: "Si ndihmoj pa marrë gjithë punën vetë?"
+    a: "Pyesni çfarë lloj ndihme dëshiron personi dhe kontrolloni shpesh. Bini dakord për një fjalë ose një shenjë me kokë që do të thotë se është në rregull të ndërhyni, për shembull kur një fjalë ose emër nuk po del. Nëse nuk ka rrezik për sigurinë, lëreni ta bëjë në mënyrën e vet, edhe nëse zgjat më shumë."
+  - q: "A duhet të provojë aktivitete të reja personi me demencë të hershme?"
+    a: "Po, nëse dëshiron. Hobet e njohura zakonisht janë më të lehtat, por shumë njerëz gëzohen me diçka të re, si një grup ecjeje i përshtatur për demencën, një klasë arti ose një grup këngësh. Provojeni një herë pa presion dhe shihni si ndihet."
+  - q: "A vlejnë aplikacionet për stërvitjen e trurit në fazën e hershme?"
+    a: "Disa njerëz gëzohen me puzzle dhe lojëra fjalësh, dhe kjo kënaqësi mjafton si arsye. Asnjë aplikacion ose lojë nuk ka treguar se mund të trajtojë, ngadalësojë ose ndalojë demencën. Nëse një lojë shkakton stres ose e bën personin të ndihet si i dështuar, lëreni mënjanë."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+Në fazën e hershme të demencës, shumë njerëz ende jetojnë shumë si më parë. Mund të punojnë, të bëjnë vullnetarizëm, të takojnë miq dhe ta drejtojnë vetë pjesën më të madhe të ditës. Aktivitetet zakonisht nuk kanë nevojë të zëvendësohen; kanë nevojë për disa përshtatje që të mbeten të kënaqshme. Roli juaj është më shumë si partner sesa kujdestar: dikush që mbështet, planifikon bashkë dhe ndërhyn vetëm kur i kërkohet.
 
-## What activities are good in early-stage dementia?
+## Cilat aktivitete janë të mira në fazën e hershme të demencës?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Aktivitetet më të mira në fazën e hershme janë zakonisht ato që personi i do tashmë, por pak më të lehta. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) përmend ide si lojërat me letra dhe tavolinë, kërkimi i fjalëve, ecja, vallëzimi, kopshtaria, aranzhimi i luleve, rrëfimi i historive, pikturimi, muzika, ditari, shkrimi i letrave, albumi me shënime, gatimi dhe traditat e festave.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Ajo që ndryshon shpesh është mjedisi, jo aktiviteti. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) thekson se njerëzit në fazën e hershme mund të fillojnë të tërhiqen nga gjërat që u pëlqenin, dhe jep shembullin e një personi që ndihet i mbingarkuar në një festë të madhe, por bën mirë në një grup të vogël. Flisni hapur për atë që bëhet më e vështirë, dhe përshtatuni bashkë.
 
-## Ask first, and agree on how to help
+## Pyesni fillimisht, dhe bini dakord si të ndihmoni
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+[Udhëzimet e Alzheimer's Association për fazën e hershme](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) sugjerojnë disa zakone që vlejnë edhe për aktivitetet:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Pyesni drejtpërdrejt.** „Çfarë do ta bënte klubin e librit më të lehtë për ty?“ merr një përgjigje më të mirë sesa supozimi.
+- **Supozoni se mund ta bëjë.** Nëse nuk ka rrezik për sigurinë, lëreni personin ta provojë dhe jepni inkurajim në vend që ta merrni gjithë punën.
+- **Bini dakord për një shenjë.** Zgjidhni një frazë ose një shenjë me kokë që do të thotë „është në rregull të ndërhyj“, për shembull kur një emër nuk po del gjatë një loje letrash.
+- **Kontrolloni rregullisht.** Pyesni nëse sasia e ndihmës duket e duhur, shumë ose pak.
 
-## Activity ideas for the early stage
+## Ide aktivitetesh për fazën e hershme
 
-### Keep up roles and hobbies
+### Mbani rolet dhe hobet
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Mbani një angazhim të rregullt.** Një turn i përjavshëm vullnetarizmi, një kor ose një klub i jep javës një formë. Nëse bëhet stresuese, një rol më i qetë ose më i shkurtër mund të përshtatet më mirë.
+- **Planifikoni vaktet bashkë.** Nëse blerja e ushqimeve është bërë e mërzitshme, Alzheimer's Association sugjeron t'i kërkoni personit të ndihmojë në planifikimin e menusë së javës dhe të shkruajë listën.
+- **Gatuani dhe pjekni.** Ndiqni bashkë një recetë të preferuar. Vendosni përbërësit në rend para se të filloni, që hapat të jenë të dukshëm.
+- **Punoni në kopësht.** Planifikoni një shtrat, zgjidhni farat ose bimët dhe bëni punën bashkë. Një listë e shkruar me punët e kopshtit të javës ndihmon.
+- **Vazhdoni një zanat.** Punimi i drurit, qepja, thurja ose ndërtimi i modeleve mund të vazhdojnë me modele më të thjeshta dhe dritë të mirë.
 
-### Games for enjoyment
+### Lojëra për kënaqësi
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Luani letra dhe lojëra tavoline.** Lojërat e njohura janë më të lehtat. Luajeni në skuadra, që askush të mos vihet në qendër, dhe mbajeni pikëzimin të lirshëm ose mos e mbani fare.
+- **Provoni një kërkim fjalësh me shkronja të mëdha.** [Kërkimi i fjalëve](/games/word-search/) mund të luhet në ekran ose të printohet për një moment të qetë.
+- **Bëni puzzle.** Zgjidhni një numër pjesësh që duket relaksues, jo sfidues. [Puzzle me figura](/games/picture-puzzle/) është një version i shkurtër në ekran, dhe udhëzuesi ynë për [puzzle për demencën](/activities/puzzles/) shpjegon si të zgjidhni një të tillë.
+- **Luani trivia për argëtim.** Disa njerëz e duan një mbrëmje trivia me ekip. Nëse fillon të duket si provim, zgjidhni diçka tjetër, ose provoni [pyetjet e lehta të trivias](/activities/trivia/), që kanë zgjedhje përgjigjesh dhe pa pikë.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Lojërat këtu janë për kënaqësi. Asnjë lojë nuk ka treguar se trajton ose ngadalëson demencën; lexoni më shumë te [lojërat e trurit: çfarë thotë kërkimi](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Shkruani, reflektoni dhe regjistroni
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **Mbani një ditar.** Alzheimer's Association sugjeron ditarin si një mënyrë për t'i punuar ndjenjat pas një diagnoze. Disa rreshta në ditë mjaftojnë.
+- **Udhëhiqni një libër të historisë së jetës.** Faza e hershme është kohë e mirë që personi të zgjedhë vetë fotot e veta dhe të shkruajë ose diktojë historitë pas tyre. Shihni [aktivitetet e kujtimeve](/activities/reminiscence/).
+- **Shkruani letra.** Një letër për një nip, një mik të vjetër ose një koleg të mëparshëm mund të jetë e rëndësishme për të dy anët.
+- **Flisni për fotografitë.** [Çifte fotografish](/games/photo-pairs/) i kthen fotot familjare në një lojë butë përputhjeje, dhe [kartat e bisedës](/games/conversation-cards/) japin pika të lehta nisjeje për një bisedë.
 
-### Go out and move
+### Dilni jashtë dhe lëvizni
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sugjeron vazhdimin e daljeve të njohura për aq kohë sa jeni të dy rehat. Planifikojini në kohën më të mirë të ditës së personit dhe mos i lini të zgjasin shumë.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Vizita të shkurtra kulturore.** Një muze, një shfaqje e pasdites ose një ekspozitë arti, më mirë në një orë më të qetë.
+- **Notimi.** NIA sugjeron një pishinë në një orë të ngadaltë të ditës.
+- **Grupe ecjeje dhe kurse vallëzimi.** [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) përmend vallëzimin, tai chi, yogën, notin dhe grupet e ecjes, dhe seanca të përshtatura për demencën aty ku ka.
+- **Grupe këngësh dhe kafe kujtese.** Grupe të relaksuara ku njerëzit me demencë dhe partnerët e tyre takojnë të tjerë në të njëjtën situatë.
 
-## Small changes that keep activities enjoyable
+## Ndryshime të vogla që i mbajnë aktivitetet të kënaqshme
 
-| If this is getting harder | Try this |
+| Kur kjo bëhet më e vështirë | Provoni këtë |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Vende të zhurmshme ose të mbushura | Shkoni në orë të qeta, zgjidhni grupe më të vogla, uluni në skajin e dhomës |
+| Kujtimi i emrave të rinj | Prezantojeni personin me emër çdo herë; kërkoni nga grupet të përdorin etiketa me emra |
+| Ndjekja e planeve me shumë hapa | Shkruani hapat, ose vendosni çdo gjë në rend para se të filloni |
+| Lodhja | Dalje më të shkurtra, pushim pas tyre, asgjë tjetër e planifikuar atë ditë |
+| Mbajtja e rezultatit në lojë | Luani në skuadra, thjeshtoni rregullat, ose hiqni pikëzimin |
+| Gjetja e fjalëve | Lini kohë; ofroni një fjalë vetëm nëse shenja e rënë dakord e kërkon |
 
-## When to slow down
+## Kur të ngadalësoni
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Ndaloni ose ndryshoni një aktivitet kur sjell më shumë stres sesa kënaqësi. Frustrimi i përsëritur, shmangia e një hobi ose thënia „s'mundem më“ meritojnë një bisedë të butë, jo shtytje. Shpesh përgjigjja është një version më i vogël i të njëjtës gjë. Kur personi ka nevojë për më shumë ndihmë për të filluar dhe për të ndjekur hapat, idetë te [aktivitetet për fazën e mesme](/activities/middle-stage/) mund të përshtaten më mirë. Për më shumë mbi bisedën mbështetëse, shihni [këshillat për komunikimin](/caregiving/communication-tips/), dhe për shumë ide të tjera, shihni [101 aktivitetet](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Edhe partnerët kanë nevojë për mbështetje. Faza e hershme është kohë e mirë për të ndërtuar rrjetin tuaj të ndihmës; shihni [kujdesin ndaj vetes](/caregiving/caregiver-self-care/).

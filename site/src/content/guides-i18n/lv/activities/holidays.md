@@ -1,33 +1,33 @@
 ---
-title: "Holiday Activities for Someone with Dementia, from Thanksgiving On"
-seoTitle: "Holiday and Thanksgiving Ideas for Dementia"
-description: "Simple holiday activities for someone with dementia: cooking jobs, decorating, music, photos and video calls, plus how to plan a calmer Thanksgiving or Christmas."
+title: "Svētku aktivitātes cilvēkam ar demenci no rudens līdz Ziemassvētkiem"
+seoTitle: "Svētku un Ziemassvētku idejas demences gadījumā"
+description: "Vienkāršas svētku aktivitātes cilvēkam ar demenci: darbi virtuvē, rotāšana, mūzika, fotogrāfijas un video zvani, kā rīkot mierīgākus svētkus."
 section: activities
 order: 21
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Keep holidays smaller, earlier in the day and close to the person's usual
-  routine. Give them a real, safe job such as setting the table, washing
-  vegetables, wrapping a gift or hanging a decoration. Share familiar music
-  and old photos, prepare guests ahead, and set up a quiet room. Do only what
-  you can reasonably manage; a short, calm celebration is a good one.
+  Turiet svētkus mazākus, agrāk dienā un tuvu cilvēka parastajai rutīnai. Dodiet
+  reālu, drošu darbu, piemēram, galda klāšanu, dārzeņu mazgāšanu, dāvanas
+  ietīšanu vai rotājuma pakarināšanu. Dalieties pazīstamā mūzikā un vecās
+  fotogrāfijās, sagatavojiet viesus iepriekš un ierīkojiet klusu istabu. Darot
+  tikai to, ko varat saprātīgi paveikt, īss un mierīgs svinēšanas brīdis ir labs.
 keyPoints:
-  - "Celebrate earlier in the day, such as a lunch or brunch, if late-day confusion is common."
-  - "Offer real jobs: setting the table, washing produce, wrapping, decorating or plating dessert."
-  - "Familiar music, carols and old photo albums are easy ways to share the season."
-  - "Tell guests what to expect, and show the person photos of who is coming."
-  - "Set up a quiet room with a favorite blanket or sweater, and keep visitors to a few at a time."
-  - "Skip anything overwhelming, including decorations that look like food and lots of blinking lights."
+  - "Svinējiet agrāk dienā, piemēram, pusdienās vai brunčos, ja vēlā dienā bieži rodas dezorientācija."
+  - "Dodiet reālus darbus: galda klāšanu, augļu vai dārzeņu mazgāšanu, ietīšanu, rotāšanu vai deserta uzlikšanu šķīvī."
+  - "Pazīstama mūzika, Ziemassvētku dziesmas un vecie fotoalbumi ir vienkārši veidi, kā dalīties svētku noskaņā."
+  - "Pastāstiet viesiem, ko sagaidīt, un parādiet cilvēkam fotogrāfijas par to, kas nāk ciemos."
+  - "Ierīkojiet klusu istabu ar iecienītu segu vai džemperi un ļaujiet vienlaikus ciemos būt tikai dažiem cilvēkiem."
+  - "Izvairieties no visa, kas pārslogo, tostarp rotājumiem, kas izskatās pēc ēdiena, un daudzām mirgojošām lampiņām."
 faq:
-  - q: "What can someone with dementia do at Thanksgiving?"
-    a: "Give them a simple, safe job that fits what they can do today: washing vegetables, stirring cranberry sauce, setting the table, folding napkins or putting desserts on a plate. Afterwards, look at old family photos or sing familiar songs together. Being part of the day matters more than how the task turns out."
-  - q: "Should we still have a big family gathering?"
-    a: "Only if it is manageable. Crowds and noise can be overwhelming, so many families switch to a smaller, more casual gathering, an earlier meal, or visitors coming in small groups. The Alzheimer's Association encourages caregivers to do only what they can reasonably and safely manage."
-  - q: "How do I prepare family who have not visited in a while?"
-    a: "Tell them before they arrive about changes they may notice, and that these come from the disease, not the person. Ask them not to correct or quiz, to speak one at a time and to give time for answers. Showing the person photos of the guests ahead of time can help too."
-  - q: "What holiday gifts suit someone living with dementia?"
-    a: "Simple, safe things they can enjoy now: a favorite snack, a soft blanket or sweater, familiar music, or a photo album of family. Avoid complicated electronics, tools and challenging board games. Involving them in giving, such as wrapping a gift or packing cookies they helped bake, can be a gift in itself."
+  - q: "Ko cilvēks ar demenci var darīt svētkos?"
+    a: "Dodiet vienkāršu, drošu darbu, kas atbilst tam, ko viņš šodien var: mazgāt dārzeņus, maisīt brūkleņu mērci, klāt galdu, salocīt salvetes vai likt deserta gabalus šķīvī. Pēc tam skatieties vecas ģimenes fotogrāfijas vai kopā dziediet pazīstamas dziesmas. Būt daļai no dienas ir svarīgāk nekā tas, kā darbs izdodas."
+  - q: "Vai joprojām rīkot lielu ģimenes sanākšanu?"
+    a: "Tikai tad, ja tā ir pārvaldāma. Pūlis un troksnis var būt pārslogojoši, tāpēc daudzas ģimenes pāriet uz mazāku, neformālāku sanākšanu, agrāku maltīti vai viesu ierašanos nelielās grupās. Alzheimer's Association mudina aprūpētājus darīt tikai to, ko var saprātīgi un droši paveikt."
+  - q: "Kā sagatavot ģimeni, kas sen nav ciemojusies?"
+    a: "Pirms ierašanās pastāstiet, ka viņi var pamanīt izmaiņas un ka tās nāk no slimības, nevis no paša cilvēka. Lūdziet viņus nelabot un neuzdot jautājumus pēc kārtas, runāt pa vienam un dot laiku atbildēm. Iepriekš parādītas viesu fotogrāfijas cilvēkam arī var palīdzēt."
+  - q: "Kādas dāvanas der cilvēkam ar demenci?"
+    a: "Vienkāršas un drošas lietas, ko viņš var baudīt tagad: iecienīta uzkoda, mīksta sega vai džemperis, pazīstama mūzika vai ģimenes fotoalbums. Izvairieties no sarežģītas elektronikas, instrumentiem un izaicinošām galda spēlēm. Iesaistīt viņu dāvanu gatavošanā, piemēram, ietīt dāvanu vai iepakot cepumus, ko viņš palīdzēja cept, var būt pati par sevi dāvana."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -40,64 +40,64 @@ related: [activities/reminiscence, activities/music, activities/household-tasks,
 health: false
 ---
 
-Holidays can bring back warm memories, and they can also bring noise, crowds and changes to the usual day. For someone living with dementia, the best celebrations are usually smaller, slower and built around things they can still enjoy. These ideas work for Thanksgiving, Christmas, Hanukkah, New Year and family birthdays alike.
+Svētki var atgādināt siltas atmiņas, bet tās var atnest arī troksni, pūli un izmaiņas parastajā dienā. Cilvēkam ar demenci labākie svētki parasti ir mazāki, lēnāki un veidoti ap to, ko viņš vēl spēj baudīt. Šīs idejas der Pateicības dienai, Ziemassvētkiem, Hanukai, Jaunajam gadam un ģimenes dzimšanas dienām.
 
-## How do I plan a calmer holiday?
+## Kā plānot mierīgākus svētkus?
 
-Start with the person's routine and plan the day around it. The [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) suggests holding the celebration earlier in the day, because confusion and restlessness often grow in the late afternoon and evening (sometimes called sundowning). A holiday lunch or brunch can be easier than a late dinner.
+Sāciet ar cilvēka rutīnu un plānojiet dienu ap to. [Alzheimer's Foundation of America](https://alzfdn.org/6-steps-to-make-thanksgiving-dementia-friendly/) iesaka rīkot svinības agrāk dienā, jo dezorientācija un nemiers bieži pieaug pēcpusdienā un vakarā (to dēvē arī par sundowning). Svētku pusdienas vai brunči var būt vieglāki nekā vēla vakariņa.
 
-- **Keep it the right size.** A smaller, more casual gathering, or guests arriving a few at a time, is often easier than one crowded table.
-- **Hand out jobs.** Ask relatives to bring a dish, do the shopping or spend time with the person while you cook. Be specific about what would help.
-- **Keep decorations simple.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) notes that blinking lights can be confusing, and that candy or artificial fruit used as decoration may be mistaken for food.
-- **Decide what to drop.** If a tradition has become stressful or risky, it is fine to skip it or try a quieter one.
+- **Turiet piemērotu lielumu.** Mazāka, neformālāka sanākšana vai viesu ierašanās nelielās grupās bieži ir vieglāka nekā pārpildīts galds.
+- **Sadaliet darbus.** Lūdziet radiniekiem atnest ēdienu, iepirkties vai pavadīt laiku ar cilvēku, kamēr jūs gatavojat. Esiet konkrēti par to, kas palīdzētu.
+- **Turiet rotājumus vienkāršus.** [Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) norāda, ka mirgojošas lampiņas var būt mulsinošas un konfektes vai mākslīgi augļi rotājumos var tikt sajaukti ar ēdienu.
+- **Izlemiet, ko atstāt.** Ja kāda tradīcija kļuvusi saspringta vai riskanta, ir labi to izlaist vai izvēlēties klusāku.
 
-## What holiday activities can we do together?
+## Kādas svētku aktivitātes varam darīt kopā?
 
-Choose jobs and pastimes that fit what the person can do today. Being part of the day matters more than how it turns out.
+Izvēlieties darbus un nodarbes, kas atbilst tam, ko cilvēks šodien var. Būt daļai no dienas ir svarīgāk nekā tas, kā tā beidzas.
 
-1. **Set the table together.** Lay out plates first, then napkins, then cups. Folding napkins is a good job to sit down for.
-2. **Wash and sort vegetables.** Rinsing potatoes or snapping green beans at the kitchen table is safe and familiar for many people who used to cook.
-3. **Stir, mix or plate.** Stirring cranberry sauce, mixing a simple batter or putting cookies on a plate keeps hands busy away from the stove and knives.
-4. **Wrap a gift.** Pre-cut the paper and tape, and let the person fold and smooth. Neat wrapping is not the point.
-5. **Hang a few decorations.** Choose unbreakable ornaments and one small area, such as a wreath or a small tree.
-6. **Make a simple craft.** Paper chains, a leaf collage or a holiday card with stamps work well. Our [arts and crafts guide](/activities/arts-and-crafts/) has more ideas.
-7. **Sing and listen.** Familiar carols and holiday songs are easy to join, even for someone who talks less now. See our [music guide](/activities/music/) for building a playlist.
-8. **Look at old holiday photos.** Bring out albums from past celebrations and invite stories ("Tell me about this table") rather than asking who is who. Our [reminiscence guide](/activities/reminiscence/) explains how.
-9. **Play a gentle group game.** [Picture bingo](/games/picture-bingo/) prints in minutes and works for all ages, and [conversation cards](/games/conversation-cards/) give everyone something to talk about.
-10. **Color together.** Simple [coloring pages](/games/coloring/) can be printed for children and grandparents to share at the table.
-11. **Watch a favorite holiday movie.** A familiar film is restful, and it is fine to watch only part of it.
-12. **Take a short drive to see lights.** A quiet drive past decorated houses can be easier than a crowded event.
+1. **Kopā klājiet galdu.** Vispirms izliekiet šķīvjus, tad salvetes, tad glāzes. Salvešu salocīšana ir labs darbs, ko darīt sēdus.
+2. **Mazgājiet un šķirojiet dārzeņus.** Kartupeļu mazgāšana vai pupiņu lauzīšana virtuves galdā ir droša un pazīstama daudziem, kas agrāk gatavoja.
+3. **Maisiet vai lieciet uz šķīvja.** Brūkleņu mērces maisīšana, vienkāršas mīklas samaisīšana vai cepumu likšana šķīvī notur rokas aizņemtas, prom no plīts un naža.
+4. **Ietiniet dāvanu.** Iepriekš nogrieziet papīru un lenti, un ļaujiet cilvēkam salocīt un izlīdzināt. Glīts ietinums nav svarīgs.
+5. **Pakariniet dažus rotājumus.** Izvēlieties nesalūstošas rotaļlietas un vienu nelielu vietu, piemēram, vainagu vai mazu egli.
+6. **Izveidojiet vienkāršu rokdarbu.** Papīra ķēdes, lapu kolāža vai svētku kartīte ar zīmogiem labi der. Mūsu [mākslas un rokdarbu rokasgrāmatā](/activities/arts-and-crafts/) ir vairāk ideju.
+7. **Dziediet un klausieties.** Pazīstamas Ziemassvētku dziesmas un svētku dziesmas ir viegli dziedāt līdzi, pat ja cilvēks tagad runā mazāk. Skatiet mūsu [mūzikas rokasgrāmatu](/activities/music/), kā veidot atskaņošanas sarakstu.
+8. **Skatieties vecus svētku fotoattēlus.** Izņemiet albumus no iepriekšējām svinībām un aiciniet stāstīt („Pastāsti par šo galdu”), nevis jautāt, kas ir kas. Mūsu [atcerēšanās rokasgrāmata](/activities/reminiscence/) paskaidro, kā.
+9. **Spēlējiet maigu grupas spēli.** [Attēlu bingo](/games/picture-bingo/) izdrukājas dažās minūtēs un der visiem vecumiem, un [sarunu kartītes](/games/conversation-cards/) dod visiem, par ko runāt.
+10. **Krāsojiet kopā.** Vienkāršas [krāsojamās lapas](/games/coloring/) var izdrukāt, lai bērni un vecvecāki kopā krāso pie galda.
+11. **Noskatieties iecienītu svētku filmu.** Pazīstama filma atpūtina, un ir labi noskatīties tikai daļu no tās.
+12. **Īss brauciens, lai apskatītu gaismas.** Kluss brauciens garām rotātām mājām var būt vieglāks nekā pūlis pasākumā.
 
-If cooking was a big part of the person's life, our guide to [household tasks as activities](/activities/household-tasks/) has more ways to make kitchen jobs safe and satisfying.
+Ja gatavošana bija liela daļa no cilvēka dzīves, mūsu rokasgrāmata par [mājas darbiem kā aktivitātēm](/activities/household-tasks/) sniedz vairāk veidu, kā virtuves darbus padarīt drošus un apmierinošus.
 
-## How do I prepare guests?
+## Kā sagatavot viesus?
 
-Tell guests what to expect before they arrive, especially relatives who have not visited in a while. The Alzheimer's Association suggests explaining that changes in memory and behavior come from the disease, not the person.
+Pastāstiet viesiem, ko sagaidīt, pirms viņi ierodas, īpaši radiniekiem, kas sen nav bijuši. Alzheimer's Association iesaka paskaidrot, ka izmaiņas atmiņā un uzvedībā nāk no slimības, nevis no paša cilvēka.
 
-- **Share a few simple tips:** speak one at a time, give time to finish a thought, do not correct or quiz, and respond to the person's tone if words are hard to follow.
-- **Say what helps and what upsets.** If loud voices, being rushed or certain topics cause distress, say so.
-- **Introduce guests ahead of time.** Show the person photos of who is coming and share a story or two, or set up a short phone or video chat before the day.
+- **Dalieties ar dažiem vienkāršiem padomiem:** runājiet pa vienam, dodiet laiku domu pabeigt, nelabojiet un neuzdodiet jautājumus pēc kārtas, un reaģējiet uz cilvēka toni, ja vārdus grūti sekot.
+- **Pasakiet, kas palīdz un kas traucē.** Ja skaļas balsis, steiga vai noteiktas tēmas rada satraukumu, pasakiet to.
+- **Iepazīstiniet viesus iepriekš.** Parādiet cilvēkam fotogrāfijas par to, kas nāks, un pastāstiet vienu vai divus stāstus, vai iepriekš iekārtojiet īsu tālruņa vai video zvanu.
 
-Our [communication tips](/caregiving/communication-tips/) go into more detail.
+Mūsu [saziņas padomi](/caregiving/communication-tips/) sniedz vairāk informācijas.
 
-## What if it gets to be too much?
+## Ko darīt, ja tas kļūst par daudz?
 
-Set up a quiet room before guests arrive, away from the noise, with familiar comfort items such as a favorite blanket, sweater or a simple activity. Offer it early and often: "Shall we sit somewhere quieter for a bit?"
+Pirms viesu ierašanās ierīkojiet klusu istabu prom no trokšņa ar pazīstamām mierinošām lietām, piemēram, iecienītu segu, džemperi vai vienkāršu aktivitāti. Piedāvājiet to agri un bieži: „Vai pasēdēsim mierīgākā vietā kādu brīdi?”
 
-Leaving the table, going to bed early or skipping part of the day is a good outcome, not a failure. If the person becomes upset, a calm voice, a familiar song or a walk to another room often helps more than reasoning. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas for evenings.
+Aiziet no galda, iet gulēt agrāk vai izlaist daļu dienas ir labs rezultāts, nevis neveiksme. Ja cilvēks kļūst satraukts, mierīga balss, pazīstama dziesma vai pastaiga citā istabā bieži palīdz vairāk nekā argumentēšana. Mūsu rokasgrāmatā par [vēlās dienas nemieru](/caregiving/late-day-restlessness/) ir vairāk ideju vakariem.
 
-## How can family far away take part?
+## Kā var piedalīties ģimene, kas dzīvo tālu?
 
-Video calls let relatives join without adding to the crowd. The Alzheimer's Association suggests giving calls some structure, for example singing seasonal songs, sharing pictures from past gatherings, cooking the same recipe together or watching a holiday movie at the same time. Keep calls short, and ask people to speak one at a time, since crosstalk is hard to follow. Our [phone and video call guide](/activities/phone-and-video-calls/) has step-by-step ideas.
+Video zvani ļauj radiniekiem pievienoties, nepalielinot pūli. Alzheimer's Association iesaka zvaniem dot zināmu struktūru, piemēram, dziedāt sezonas dziesmas, rādīt attēlus no iepriekšējām sanākšanām, kopā gatavot to pašu recepti vai vienlaikus skatīties svētku filmu. Turiet zvanus īsus un lūdziet cilvēkus runāt pa vienam, jo vienlaicīgu sarunu ir grūti sekot. Mūsu [tālruņa un video zvanu rokasgrāmatā](/activities/phone-and-video-calls/) ir soli pa solim ideju.
 
-If the person lives in memory care, check the visiting policy and ask staff to help set up a call. Our guide to [visiting someone in memory care](/activities/visiting/) covers what to bring and how to leave well.
+Ja cilvēks dzīvo atmiņas aprūpes iestādē, pārbaudiet apmeklējuma noteikumus un lūdziet personālam palīdzēt uzstādīt zvanu. Mūsu rokasgrāmata par [apmeklēšanu atmiņas aprūpē](/activities/visiting/) aptver, ko līdzi ņemt un kā atvadīties.
 
-## What gifts suit someone with dementia?
+## Kādas dāvanas der cilvēkam ar demenci?
 
-Simple, safe gifts they can enjoy now tend to work best: a favorite snack, a soft blanket or cardigan, familiar music, a large-print calendar, or an album of family photos. The Alzheimer's Association advises avoiding dangerous tools, complicated electronics and challenging board games.
+Vienkāršas, drošas dāvanas, ko viņš var baudīt tagad, parasti der vislabāk: iecienīta uzkoda, mīksta sega vai džemperis, pazīstama mūzika, liels drukas kalendārs vai ģimenes fotoalbums. Alzheimer's Association iesaka izvairīties no bīstamiem instrumentiem, sarežģītas elektronikas un izaicinošām galda spēlēm.
 
-Giving can matter as much as receiving. Packing cookies the person helped bake, or having them wrap a gift you bought, lets them take part in the season. A family photo game is another idea: [photo pairs](/games/photo-pairs/) turns a few chosen photos into a gentle matching game in the browser.
+Dāvināt var būt tikpat svarīgi kā saņemt. Iepakot cepumus, ko cilvēks palīdzēja cept, vai lūgt viņu ietīt dāvanu, ko esat nopirkuši, ļauj viņam piedalīties svētku laikā. Vēl viena ideja ir ģimenes fotogrāfiju spēle: [attēlu pāri](/games/photo-pairs/) pārvērš dažas izvēlētas fotogrāfijas maigā atbilstības spēlē pārlūkprogrammā.
 
-## Look after yourself too
+## Rūpējieties arī par sevi
 
-Holidays add work to caregiving. Let someone else host or cook the turkey, say no to events that will be hard, and take breaks while others spend time with the person. If you or the person you care for is unwell, a wave from the driveway or a video call is a perfectly good visit. Our guide to [caregiver self-care](/caregiving/caregiver-self-care/) has more support.
+Svētki papildina darbu aprūpē. Ļaujiet kādam citam rīkot viesības vai cept tītaru, sakiet nē pasākumiem, kas būs grūti, un ņemiet pārtraukumus, kamēr citi pavada laiku ar cilvēku. Ja jūs vai cilvēks, kuru aprūpējat, esat slims, vilnis no piebraucamā ceļa vai video zvans ir pilnīgi labs apmeklējums. Mūsu rokasgrāmatā par [aprūpētāja pašaprūpi](/caregiving/caregiver-self-care/) ir vairāk atbalsta.

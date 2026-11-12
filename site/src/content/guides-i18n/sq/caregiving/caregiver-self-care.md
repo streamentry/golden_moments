@@ -1,36 +1,34 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Vetëkujdesi i kujdestarit: pushimi, mbështetja dhe shenjat e lodhjes së skajshme"
+seoTitle: "Vetëkujdesi i kujdestarit me demencë: pushim dhe mbështetje"
+description: "Shenjat e lodhjes së skajshme të kujdestarit, si të gjeni pushim dhe grupe mbështetjeje, dhe linjat falas të ndihmës në SHBA, përfshirë Linjën 24/7 të Shoqatës së Alzheimerit dhe Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Kujdesi për dikë me demencë është i vështirë, dhe kujdesi për veten është pjesë e detyrës. Kini kujdes
+  për shenja paralajmëruese si lodhja, nervozizmi, gjumi i dobët dhe tërheqja nga miqtë. Kërkoni ndihmë
+  specifike, përdorni kujdes pushimi dhe bashkohuni me një grup mbështetjeje. Ndihma falas në SHBA përfshin
+  Linjën 24/7 të Shoqatës së Alzheimerit në 1-800-272-3900 dhe Eldercare Locator në 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Lodhja e skajshme shfaqet shpesh si lodhje, nervozizëm, gjumë i dobët, trishtim dhe braktisje e kujdesit për shëndetin tuaj."
+  - "Kujdesi për pushim ju jep një pauzë, nga disa orë deri në disa javë, në shtëpi ose në një ambient kujdesi."
+  - "Kërkoni ndihmë për detyra specifike; shumë njerëz duan të ndihmojnë, por nuk e dinë si."
+  - "Linja 24/7 e Shoqatës së Alzheimerit (1-800-272-3900) ofron mbështetje falas dhe konfidenciale në çdo kohë."
+  - "Eldercare Locator (1-800-677-1116) ju lidh me shërbime lokale, përfshirë Agjencinë tuaj të Zonës për Plakjen."
+  - "Nëse ndiheni në krizë, telefononi ose shkruani 988. Në një emergjencë, telefononi numrin e emergjencave në vendin tuaj."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Cilat janë shenjat e lodhjes së skajshme të kujdestarit?"
+    a: "Shenjat e zakonshme përfshijnë ndjenjën e lodhjes, të copëtuarit ose ankthin, zemërimin ose padurimin e shpejtë, vështirësi në gjumë, ndjenjën e trishtimit ose pashpresës, tërheqjen nga miqtë, dhimbje koke ose dhimbje të shpeshta, dhe kalimin e vakteve, ushtrimeve ose kujdesit tuaj mjekësor. Nëse shenjat e tilla ndodhin rregullisht, flisni me mjekun tuaj."
+  - q: "Si gjej kujdes pushimi afër meje?"
+    a: "Filloni me Eldercare Locator (1-800-677-1116 ose eldercare.acl.gov) për të kontaktuar Agjencinë tuaj lokale të Zonës për Plakjen, Shërbimin Kombëtar të Gjetjes së Pushimit ARCH, ose Linjën e Ndihmës të Shoqatës së Alzheimerit në 1-800-272-3900. Familja, miqtë dhe vullnetarët gjithashtu mund të ofrojnë pushim."
+  - q: "A paguan Medicare për kujdesin e pushimit?"
+    a: "Për një person që merr kujdes paliativ (hospice), Medicare mbulon pjesën më të madhe të kostos për deri në pesë ditë rresht kujdes pushimi në një spital ose një njësi të specializuar kujdesi, sipas Institutit Kombëtar për Plakjen. Shumica e sigurimeve private shëndetësore nuk e mbulojnë pushimin; Medicaid dhe disa plane të sigurimit për kujdes afatgjatë mund të ndihmojnë."
+  - q: "A është Linja e Ndihmës e Shoqatës së Alzheimerit me të vërtetë falas dhe e disponueshme natën?"
+    a: "Po. Shoqata e Alzheimerit thotë se Linja e saj në 1-800-272-3900 është falas, konfidenciale dhe e mbuluar me staf gjatë gjithë orës, 365 ditë në vit, me ndihmë në shumë gjuhë. Thirrni 711 për shërbimin e transmetimit."
+  - q: "A është egoiste të merrni një pushim nga kujdesi?"
+    a: "Jo. Pushimi ju ndihmon të vazhdoni të kujdeseni, dhe pushimi mund t'i japë edhe personit që kujdeseni një ndryshim shoqërie dhe aktiviteti. Shumë kujdestarë më vonë thonë se do të kishin dashur të kërkonin ndihmë më herët."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +65,141 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Nëse po kujdeseni për dikë që jeton me demencë, ndoshta po e lexoni këtë vonë, i lodhur, me një listë gjërash që nuk i keni bërë. Kjo është normale. Kujdesi për veten nuk është një luks ose një shpërblim për përfundimin e gjithçkaje. Është ajo që ju lejon të vazhdoni.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Kjo faqe mbulon shenjat paralajmëruese të lodhjes së skajshme, si të merrni një pushim të vërtetë, ku të gjeni mbështetje, dhe linjat falas të ndihmës në SHBA që mund t'i telefononi sot.
 
-## What are the signs of caregiver burnout?
+## Cilat janë shenjat e lodhjes së skajshme të kujdestarit?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Lodhja e skajshme shpesh vjen ngadalë, prandaj ndihmon të njihni shenjat tuaja paralajmëruese. [Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers)
+liston shenjat e stresit të kujdestarit, përfshirë:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- ndjenjën e lodhjes, të copëtuarit ose ankthin;
+- zemërimin ose padurimin e shpejtë;
+- ndjenjën e vetmisë ose shkëputjes nga të tjerët;
+- vështirësi në gjumë, ose pa gjumë të mjaftueshëm;
+- ndjenjën e trishtimit ose pashpresës, ose humbjen e interesit për gjërat që ju pëlqenin;
+- dhimbje koke, dhimbje ose probleme të tjera fizike të shpeshta;
+- pa kohë për të ushtruar veten ose për të gatuar ushqim të shëndetshëm për veten;
+- kalimin e dushit ose të kujdesit personal;
+- keqpërdorimin e alkoolit ose të drogës, përfshirë ilaçet me recetë.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Shoqata e Alzheimerit](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress)
+shton shenja si mohimi i sëmundjes, zemërimi ndaj personit (\"ai thjesht është kokëfortë\"),
+ankthi për të ardhmen, vështirësia për t'u përqendruar, dhe problemet shëndetësore që marrin
+peshën e tyre. Ajo këshillon të flisni me mjekun tuaj nëse keni shenja të tilla rregullisht.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+Këshilla e NIA është të mos prisni derisa të jeni plotësisht të mbingarkuar. Vini re shenjat
+herët dhe veproni sipas tyre.
 
-## What can I do today, in five minutes?
+## Çfarë mund të bëj sot, në pesë minuta?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Pauzat e shkurtra kanë rëndësi. Asnjëra prej tyre nuk e zgjidh lodhjen e skajshme, por mund t'ju
+ndihmojë të kaloni një pasdite të vështirë.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Dilni jashtë.** Uluni në verandë ose ecni deri te kutia e postës, ndërsa personi është i sigurt dhe i qetë.
+- **Merrni frymë ngadalë.** Disa frymëmarrje të ngadalta përpara se t'i përgjigjeni një pyetjeje të vështirë.
+  Mund të ndani edhe një pauzë të [Frymëmarrjes së qetë](/games/calm-breathing/) me personin që kujdeseni.
+- **Pini ujë dhe hani diçka.** Është e lehtë të harrosh vaktet e tua.
+- **Shkruani një mikut.** Jo për të kërkuar asgjë, vetëm për t'u lidhur.
+- **Thoni diçka të mirë për veten.** [Udhëzuesi i NIA për kujdesin për veten](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself)
+  sugjeron fraza si \"Po bëj më të mirën që mundem,\" \"Nuk jam i përsosur, dhe kjo është në rregull,\" dhe
+  \"Do t'i shijoj momentet kur mund të jemi bashkë në qetësi.\"
 
-## What is respite care, and how do I get it?
+## Çfarë është kujdesi i pushimit dhe si e marr?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Kujdesi i pushimit është kujdes afatshkurtër për personin që ju kujdesi, që ju të mund të pushoni.
+[Faqja e NIA për kujdesin e pushimit](https://www.nia.nih.gov/health/caregiving/what-respite-care)
+shpjegon se mund të zgjasë nga disa orë deri në disa javë, dhe mund të ndodhë në shtëpi, në një
+ambient shëndetësor ose në një qendër ditore për të rritur.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Shoqata e Alzheimerit](https://www.alz.org/help-support/caregiving/care-options/respite-care)
+përshkruan llojet e zakonshme:
 
-| Type | What it is |
+| Lloji | Çfarë është |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Ndihmë në shtëpi | Një mik, i afërm, vullnetar ose një shoqërues ose ndihmës i paguar vjen në shtëpi |
+| Qendër ditore për të rritur | Aktivitete të planifikuara, si muzika dhe arti, në një grup të sigurt; transporti dhe vaktet ofrohen shpesh |
+| Qëndrim gjatë natës ose i shkurtër | Një komunitet kujdesi afatgjatë kujdeset për personin për një natë, disa ditë ose disa javë |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kush paguan?** Sipas NIA, pushimi nga familja, miqtë ose vullnetarët mund të mos kushtojë asgjë.
+Shërbimet profesionale llogariten me orë ose ditë. Për një person që merr kujdes paliativ (hospice),
+Medicare mbulon pjesën më të madhe të kostos për deri në pesë ditë rresht pushim në një spital ose një
+njësi të specializuar kujdesi. Medicaid mund të ndihmojë. Shumica e sigurimeve private shëndetësore nuk e
+mbulojnë pushimin, megjithëse disa plane të sigurimit për kujdes afatgjatë e mbulojnë.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Këshillë:** Shoqata e Alzheimerit sugjeron të provoni ofruesit e pushimit në një situatë jo emergjente,
+që të jenë gati nëse papritmas keni nevojë për ndihmë.
 
-## Where can I find help near me?
+## Ku mund të gjej ndihmë afër meje?
 
-Several free US services can point you to local help.
+Disa shërbime falas në SHBA mund t'ju drejtojnë te ndihma lokale.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Linja 24/7 e Shoqatës së Alzheimerit: 1-800-272-3900.** [Linja](https://www.alz.org/help-support/resources/helpline)
+  është falas dhe konfidenciale, e mbuluar me staf gjatë gjithë orës çdo ditë të vitit, me ndihmë në
+  më shumë se 200 gjuhë përmes stafit dygjuhësh ose përkthyesve. Thirrni 711 për shërbimin e transmetimit.
+  Mund të flisni për ndryshimet e sjelljes, stresin e kujdestarit, opsionet e pushimit, programet lokale
+  dhe më shumë, dhe të kërkoni një bisedë më të gjatë me një konsulent kujdesi. Stafi nuk jep këshilla mjekësore.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), një shërbim publik
+  i Administratës për Jetesën në Komunitet, ju lidh me shërbime për të moshuarit dhe familjet e tyre. Mund
+  të telefononi, shkruani me tekst, të bisedoni online ose t'i dërgoni email stafit të trajnuar, ose të
+  kërkoni sipas vendndodhjes. Mund t'ju drejtojë te Agjencia juaj lokale e Zonës për Plakjen.
+- **Shërbimi Kombëtar i Gjetjes së Pushimit ARCH.** [Gjetësi i pushimit ARCH](https://archrespite.org/caregiver-resources/respitelocator/)
+  ju ndihmon të gjeni ofrues pushimi sipas shtetit, dhe sugjeron të kontaktoni fillimisht Koalicionin
+  Shtetëror të Pushimit ose programin Lifespan Respite nëse shteti juaj e ka. ARCH shënon se nuk i kontrollon
+  ofruesit, prandaj shqyrtoni vetë përvojën dhe sfondin e tyre.
 
-## How do I find a support group?
+## Si gjej një grup mbështetjeje?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Pyesni Linjën e Ndihmës ose kërkoni online për grupe afër jush. Shoqata e Alzheimerit
+[drejton grupe mbështetjeje](https://www.alz.org/help-support/community/support-groups) për kujdestarët
+dhe personat që jetojnë me demencë, personalisht dhe online, të udhëhequra nga moderatorë të trajnuar.
+Shumë vende ofrojnë edhe grupe të specializuara, për shembull për kujdestarët e rritur ose për personat
+me Alzheimer në fillim ose me fillim në moshë të re. Ajo mban gjithashtu ALZConnected, një komunitet
+falas online ku kujdestarët ndajnë këshilla.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Grupet mbështetëse mund të jenë një vend ku shprehesh pa gjykim, të merrni këshilla praktike nga
+njerëz që kanë kaluar të njëjtën gjë, dhe të ndiheni më pak të vetëm. Nëse grupi i parë nuk ju
+përshtatet, provoni një tjetër.
 
-## How do I ask family and friends for help?
+## Si kërkoj ndihmë nga familja dhe miqtë?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Jini specifikë. Shumë njerëz duan të ndihmojnë, por nuk dinë çfarë të ofrojnë. NIA sugjeron:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Mbani një listë** detyrash që të tjerët mund t'i marrin përsipër, dhe lërini njerëzit të zgjedhin.
+- **Filloni me gjëra të vogla** nëse kërkimi i ndihmës është e vështirë.
+- **Përputhni detyrën me personin.** Kushëriri që dashuron të gatuajë sjell darkën të enjtave. Fqinji që
+  është i mirë me formularët ndihmon me dokumentacionin.
+- **Shkruani ose dërgoni email** nëse kërkimi ballë për ballë ju duket i pakëndshëm.
+- **Përgatitni një përgjigje** për kur dikush ofron ndihmë: \"Faleminderit që pyet. Ja çfarë mund të bësh.\"
+- **Prisni disa refuzime** dhe përpiquni të mos e merrni personalisht.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Ide të tjera: kërkoni që dikush të rrijë me personin për një pasdite në javë, ta marrë në një shëtitje të
+shkurtër, ose të vizitojë dhe të luajë një lojë së bashku. [Udhëzuesi ynë për lojën së bashku](/caregiving/how-to-play-together/)
+është i lehtë për t'ua dhënë vizitorëve.
 
-## What if something happened to me?
+## Po nëse më ndodhte diçka mua?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Bëni një plan të thjeshtë rezervë tani. NIA sugjeron të vendosni me familjen ose miqtë e ngushtë se kush
+do të hynte në vend tuaj, dhe të mbani një fletore me numrat e emergjencës, ilaçet, këshillat e sjelljes
+që funksionojnë dhe aktivitetet e preferuara. Shoqata e Alzheimerit gjithashtu rekomandon që kontaktet
+mjekësore të personit dhe një listë e përditësuar e ilaçeve të jenë të lehta për t'u gjetur.
 
-## When should I get professional or urgent help?
+## Kur duhet të kërkoj ndihmë profesionale ose urgjente?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Flisni me mjekun tuaj nëse shenjat e stresit janë të rregullta, nëse ndiheni të dëshpëruar, ose nëse po
+përpiqeni të përballoni me vështirësi. Thuajani mjekut tuaj se jeni kujdestar. NIA shënon se këshilltarët
+dhe punonjësit socialë mund të ndihmojnë me ndjenjat e vështira dhe planifikimin, dhe se Medicare, Medicaid
+dhe disa sigurime private mund të mbulojnë disa kosto të shëndetit mendor.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Nëse ndiheni në krizë ose keni mendime për të dëmtuar veten, telefononi ose shkruani 988 për të kontaktuar
+[Linjën e Krizës dhe Vetëvrasjes 988](https://988lifeline.org/), falas dhe e disponueshme 24/7. Nëse dikush
+është në rrezik të menjëhershëm, telefononi numrin e emergjencave në vendin tuaj.
 
-## Can shared activities give me a break too?
+## A mund të më japin pushim edhe aktivitetet e përbashkëta?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Ndonjëherë. Një aktivitet i qetë që të dy e shijoni mund të jetë një pjesë më e butë e ditës për ju
+edhe për personin që kujdeseni: dëgjimi i këngëve të vjetra, shikimi i fotove, ose një lojë si [Kartelat e bisedës](/games/conversation-cards/)
+që nuk kërkon përgjigje të sakta. Nëse personit i pëlqen shoqëria, një seancë grupi me [Bingo me figura](/games/picture-bingo/)
+në një qendër për të moshuarit ose në një program ditor për të rritur mund t'ju japë një orë pushim.
+Shihni [aktivitetet për grupet në shtëpitë e kujdesit](/activities/care-home-groups/) për ide.

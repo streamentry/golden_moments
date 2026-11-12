@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Sosial kontakt og hjernehelse: Ensomhet, isolasjon og demens"
+seoTitle: "Ensomhet, sosial isolasjon og risiko for demens"
+description: "Hvordan ensomhet og sosial isolasjon henger sammen med risiko for demens, hva den amerikanske helsesjefens rapport sa, og enkle måter å holde kontakten på sammen."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Forskning knytter sosial isolasjon og ensomhet i senere liv til høyere risiko for demens. Lancet-kommisjonen fra 2024 anslår at isolasjon står for omtrent 5 % av tilfellene, men noe av sammenhengen kan være at tidlig demens får folk til å trekke seg tilbake. Å holde kontakten, dele hobbyer og få hjelp med hørselen støtter alle sammen. For personer som lever med demens, er felles aktiviteter viktige for gleden og livskvaliteten.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet-kommisjonen lister sosial isolasjon i senere liv som en av 14 risikofaktorer for demens som kan endres, med omtrent 5 % av tilfellene."
+  - "Den amerikanske helsesjefens rapport fra 2023 knyttet kronisk ensomhet og isolasjon til omtrent 50 % høyere risiko for demens hos eldre voksne."
+  - "Mesteparten av dette bevismaterialet er observasjonsbasert, og tidlig demens kan i seg selv få folk til å trekke seg tilbake."
+  - "Problemer med hørsel og syn, å bo alene og å være pårørende øker alle risikoen for isolasjon."
+  - "For personer som lever med demens, gir felles aktiviteter som er hyggelige, god livskvalitet. Målet er kontakt, ikke prestasjon."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Forårsaker ensomhet demens?"
+    a: "Det er ikke bevist. Mange studier knytter ensomhet og isolasjon til høyere risiko for demens, men tidlige hjerneendringer kan også få folk til å trekke seg tilbake fra andre. Å være sosialt aktiv har mange andre fordeler for humør og helse, så det er verdt å støtte uansett."
+  - q: "Hva er forskjellen på ensomhet og sosial isolasjon?"
+    a: "Sosial isolasjon betyr å ha få mennesker å omgås regelmessig. Ensomhet er den smertefulle følelsen av å være alene eller avskåret fra andre. Man kan bo alene uten å føle seg ensom, eller føle seg ensom selv blant mange mennesker."
+  - q: "Hvordan kan jeg hjelpe en forelder med demens med å holde kontakten?"
+    a: "Korte, faste kontakter fungerer godt. Prøv en fast ukentlig telefonsamtale eller videosamtale, en felles aktivitet ved kjøkkenbordet, en minnekafé eller et besøk med et kjæledyr eller et barnebarn. Hold grupper små og rolige, og la personen bestemme tempoet."
+  - q: "Hvor finner jeg lokal hjelp for en eldre voksen som er isolert?"
+    a: "Eldercare Locator, en offentlig tjeneste, kobler familier med lokale eldrekontorer og samfunnsprogrammer. Den kan nås på 800-677-1116 eller på eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Mennesker er skapt for fellesskap, og det endrer seg ikke med alderen. Forskning knytter ensomhet og sosial isolasjon i senere liv til høyere risiko for demens, og også til hjertesykdom og depresjon. Forskningen kan ennå ikke si hvor mye av sammenhengen som er årsak og virkning. Denne siden tar for seg hva bevisene viser, praktiske måter å holde kontakten på, og hvorfor felles aktiviteter betyr så mye for personer som allerede lever med demens.
 
-## Are loneliness and isolation linked with dementia?
+## Henger ensomhet og isolasjon sammen med demens?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Ja, mange studier knytter dem sammen, selv om retningen ikke er helt klar. [Lancet-kommisjonen fra 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) lister sosial isolasjon i senere liv som en av 14 risikofaktorer som kan endres. [UCLs oppsummering av rapporten](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) anslår at den står for omtrent 5 % av demenstilfellene i verden.
 
-What the evidence shows:
+Dette viser bevisene:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Mindre kontakt, høyere risiko.** Kommisjonen beskriver to gjennomganger som knyttet sjeldnere sosial kontakt til høyere risiko for demens. Den ene fant omtrent 57 % høyere risiko, og den andre omtrent 18 %.
+- **Ensomhet også.** Ensomhet, følelsen av å være avskåret fra andre, ble også knyttet til høyere risiko for demens i flere gjennomganger.
+- **Den amerikanske helsesjefens syn.** I mai 2023 kom den amerikanske helsesjefen med en [rapport om ensomhet og isolasjon](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Den sier at kronisk ensomhet og isolasjon kan øke risikoen for demens med omtrent 50 % hos eldre voksne. Den knyttet også dårlig sosial kontakt til 29 % høyere risiko for hjertesykdom og 32 % høyere risiko for hjerneslag.
+- **Hvor vanlig det er.** En [rapport fra National Academies](https://www.ncbi.nlm.nih.gov/books/NBK557972/) fant at omtrent 24 % av amerikanere på 65 år og eldre som bor i eget hjem, er sosialt isolert.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+En viktig advarsel: Lancet-kommisjonen påpeker at folk kan trekke seg fra sosiale aktiviteter i den tidlige, udiagnostiserte fasen av demens. Det betyr at noe av sammenhengen kan være at demens fører til tilbaketrekning, ikke bare at tilbaketrekning øker risikoen. Nesten alt dette bevismaterialet stammer fra observasjonsstudier.
 
-## What is the difference between loneliness and isolation?
+## Hva er forskjellen på ensomhet og isolasjon?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Det amerikanske instituttet for aldring (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) forklarer det slik. **Sosial isolasjon** betyr å ha få sosiale kontakter eller få mennesker å omgås regelmessig. **Ensomhet** er den plagsomme følelsen av å være alene eller avskåret. Noen kan bo alene uten problem, og andre kan føle seg ensomme i et fullt rom.
 
-The NIA lists factors that raise the risk of both:
+NIA lister opp faktorer som øker risikoen for begge deler:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- Problemer med hørsel eller syn
+- Vanskelig å komme seg rundt, eller ingen transport
+- Å bo alene, eller et stort tap som en ektefelles død eller pensjonering
+- Endringer i hukommelse eller tenkning
+- Å ta vare på en som er syk
+- Økonomiske bekymringer eller språkbarrierer
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Hørsel er en stor faktor. NIA påpeker at folk som hører dårlig, kan trekke seg tilbake fordi samtaler blir frustrerende eller flaue. Vår [veiledning om hørsel og hjernehelse](/brain-health/hearing/) dekker hørselstester og reseptfrie høreapparater.
 
-## Practical ways to stay connected
+## Praktiske måter å holde kontakten på
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA foreslår en rekke ideer. Velg en eller to som passer:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Ha faste kontakttidspunkter.** Et fast tidspunkt hver dag eller uke til å ringe, sende melding, e-post eller et kort til familie, venner eller naboer.
+- **Bruk videosamtaler eller smarthøyttalere.** Hvis teknologien er ny, tilbyr mange folkebibliotek og lokalsamfunnssentre kurs. Se vår [veiledning om telefon- og videosamtaler](/activities/phone-and-video-calls/).
+- **Bli med på noe.** En kurs, et trossamfunn, en turgruppe eller en frivillig rolle gir kontakt og en følelse av mening.
+- **Ta opp en gammel hobby** igjen, eller lær en ny sammen med andre.
+- **Beveg deg sammen med andre.** Tren med en venn eller i en gruppe. Vår [veiledning om trening](/brain-health/exercise/) har milde alternativer.
+- **Vurder et kjæledyr** hvis du kan ta vare på et.
+- **Bruk lokale tjenester.** Seniorsentre, lokale eldrekontorer (Area Agencies on Aging) og Eldercare Locator (800-677-1116) kan vise deg til programmer og transport.
 
-## Why do shared activities matter in dementia?
+## Hvorfor er felles aktiviteter viktige ved demens?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+For en som allerede lever med demens, handler kontakt om glede, trygghet og å føle seg inkludert, ikke om å redusere risikoen. Lancet-kommisjonen sier at aktiviteter hjelper personer med demens å beholde gleden og meningen. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) påpeker at aktiviteter, i tillegg til å øke livskvaliteten, kan redusere atferd som å vandre av sted eller å bli urolig. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) tilføyer at personer med Alzheimers må være aktive og gjøre ting de liker.
 
-Ideas that work well:
+Ideer som fungerer godt:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Se på bilder sammen.** [Samtalekort](/games/conversation-cards/) gir åpne spørsmål uten quiz, for eksempel «Fortell meg om...». Se vår [veiledning om minner og fortelling](/activities/reminiscence/).
+2. **Lek ved siden av hverandre.** [Bildepar](/games/picture-pairs/) holder bildene synlige og har verken tidtaker eller poeng, så det er ingen press. Vår veiledning om [hvordan man leker sammen](/caregiving/how-to-play-together/) har tips.
+3. **Bruk familiebilder.** [Fotopar](/games/photo-pairs/) gjør bilder du velger om til et memory-spill, og bildene blir på enheten din.
+4. **Samle folk.** [Bildebingo](/games/picture-bingo/) passer til familiesamlinger og [grupper på sykehjem](/activities/care-home-groups/).
+5. **Del musikk, husarbeid eller hagen.** Se [musikkaktiviteter](/activities/music/), [husholdningsoppgaver](/activities/household-tasks/) og hele vår liste over [aktivitetsidéer](/activities/ideas/).
+6. **Gjør besøk enklere.** Vår [veiledning om besøk](/activities/visiting/) dekker korte, rolige besøk som føles bra for alle.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Hold det lite og avslappet. Et stille rom med én eller to personer fungerer ofte bedre enn en stor gruppe. Hvis personen blir trett eller mister interessen, er det helt greit å stoppe. Å sitte sammen med en kopp te er også et godt resultat.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+For en som bor alene med demens, foreslår NIA at man finner en pålitelig person som kan komme på besøk eller ringe med video regelmessig, og som kan være nødkontakt. Den nevner også en lokal minnekafé, et avslappet sosialt rom for personer med hukommelsestap og deres familier.
 
-## Caregivers get lonely too
+## Pårørende blir også ensomme
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA lister det å ta vare på en kjær som en risikofaktor for isolasjon. Sett av tid til egne venskap, støttegrupper og hvile. Vår [veiledning om egenomsorg for pårørende](/caregiving/caregiver-self-care/) har praktiske ideer.
 
-## Talk with a doctor
+## Snakk med legen
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Hvis du eller en du passer på ofte føler seg ensom eller isolert, si fra til legen. NIA oppfordrer folk til å fortelle om store livsendringer, som et dødsfall i familien, slik at legen forstår helheten. Å ha lavt humør over flere uker kan være depresjon, og den kan behandles. Hvis en eldre voksen plutselig har trukket seg fra venner eller aktiviteter de pleide å like, er det verdt å nevne for legen også. Les [tidlige tegn og når du bør oppsøke lege](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dette er generell informasjon, ikke medisinsk råd. Se vår [medisinske ansvarsfraskrivelse](/medical-disclaimer/).

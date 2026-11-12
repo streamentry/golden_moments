@@ -1,32 +1,32 @@
 ---
-title: "Reminiscence Activities: Memory Boxes, Life Stories and Photos"
-seoTitle: "Reminiscence Activities for Dementia: No-Quiz Ideas"
-description: "How to share memories with someone living with dementia without quizzing: photo talk, memory boxes and life-story books, with phrases that keep it relaxed."
+title: "Minneaktivitetar: minneboksar, livshistorier og bilete"
+seoTitle: "Minneaktivitetar ved demens: idear utan quiz"
+description: "Korleis du deler minne med nokon som lever med demens utan å stille quiz: samtale om bilete, minneboksar og livshistoriebøker, med fraser som held praten avslappa."
 section: activities
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Reminiscence means enjoying the past together through photos, objects, music
-  and stories. Make a memory box, build a simple life-story book, or look at
-  photos side by side. Never quiz: skip "Do you remember?" and "Who is this?"
-  and use open invitations like "Tell me about this." A warm conversation
-  matters more than getting the facts right.
+  Minne tyder å glede seg over fortida saman gjennom bilete, gjenstandar, musikk
+  og historier. Lag ein minnebboks, bygg ei enkel livshistoriebok, eller sjå på
+  bilete side om side. Ikkje quiz: hopp over «Hugsar du?» og «Kven er dette?»
+  og bruk opne invitasjonar som «Fortel meg om dette». Ein varm samtale er viktigare
+  enn å ha fakta rett.
 keyPoints:
-  - "Reminiscence is a conversation, not a test. Accuracy does not matter; enjoyment does."
-  - "Replace 'Do you remember...?' and 'Who is this?' with comments and invitations like 'Tell me about this day.'"
-  - "A memory box of objects from the person's life gives hands and conversation something to hold onto."
-  - "A life-story book helps family, visitors and care staff know the person, not just the diagnosis."
-  - "If a memory brings sadness, comfort first and gently move on."
+  - "Minnesamtale er ein samtale, ikkje ein prøve. Riktigheita betyr ikkje noko; gleda gjer."
+  - "Byt «Hugsar du ...?» og «Kven er dette?» ut med kommentarar og invitasjonar som «Fortel meg om denne dagen»."
+  - "Ein minneboks med gjenstandar frå personens liv gir hendene og samtalen noko å halde fast i."
+  - "Ei livshistoriebok hjelper familie, besøkjande og omsorgspersonale å kjenne personen, ikkje berre diagnosen."
+  - "Om eit minne gir sorg, trøyst først og gå vidare mildt."
 faq:
-  - q: "What is reminiscence for people with dementia?"
-    a: "Reminiscence is sharing memories and past experiences, often with the help of photos, objects, music or videos. It can happen one to one or in a group. The aim is a pleasant, meaningful conversation, not testing what the person can recall."
-  - q: "Why shouldn't I ask 'Do you remember?'"
-    a: "Questions that test memory can make a person feel embarrassed or anxious when the answer will not come. The National Institute on Aging lists asking whether someone remembers something or someone among the things to avoid. Comment on what you see instead, and let the person add whatever they like."
-  - q: "What should I put in a memory box?"
-    a: "Choose safe, sturdy objects linked to the person's life: work items, hobby gear, a favorite scarf, postcards, recipe cards, sports souvenirs or copies of photos. Avoid sharp items, small objects that could be swallowed, and irreplaceable originals."
-  - q: "What if they get facts wrong?"
-    a: "Let it go. If your mom says the photo shows her sister when it is her cousin, that is fine. Correcting turns a warm moment into a test. Follow the story they are telling and enjoy it together."
+  - q: "Kva er minnesamtale for menneske med demens?"
+    a: "Minnesamtale er å dele minne og tidlegare erfaringar, ofte med hjelp av bilete, gjenstandar, musikk eller video. Det kan skje éin til éin eller i gruppe. Målet er ein hyggeleg, meiningsfull samtale, ikkje å teste kva personen kan hugse."
+  - q: "Kvifor bør eg ikkje spørje «Hugsar du?»"
+    a: "Spørsmål som tester hukommelse kan gjere ein person flau eller engstleg når svaret ikkje kjem. National Institute on Aging listar det å spørje om nokon hugsar noko eller nokon blant tinga å unngå. Kommenter det du ser i staden, og la personen legge til det dei vil."
+  - q: "Kva bør eg legge i ein minneboks?"
+    a: "Vel trygge, solide gjenstandar knytt til personens liv: arbeidsgjenstandar, hobbyutstyr, eit favorittskjerf, postkort, oppskriftskort, idrettssouvenirar eller kopiar av bilete. Unngå skarpe ting, små gjenstandar som kan svelgjast, og utbytbare originalar."
+  - q: "Kva om dei får fakta feil?"
+    a: "La det vere. Om mor di seier at biletet viser søstera hennar når det er fetteren hennar, er det greitt. Å korrigere gjer ein varm stund til ein prøve. Følg historia dei fortel og nyt den saman."
 sources:
   - title: "Infographic: Do's and Don'ts: Communicating With a Person Who Has Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -41,86 +41,86 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
 relatedGames: [conversation-cards, photo-pairs, picture-puzzle]
-related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
+related: [activities/ideas, activities/music, activities/visiting, activities/phone-and-video-calls, activities/reminiscence-questions, caregiving/communication-tips, caregiving/how-to-play-together, activities/holidays]
 health: false
 ---
 
-Reminiscence simply means enjoying the past together. For many people living with dementia, memories from decades ago stay clearer than what happened this morning. Photos, familiar objects, music and stories can open those memories up and give you something warm to share. The one rule: it is a conversation, never a quiz.
+Minne tyder ganske enkelt å glede seg over fortida saman. For mange som lever med demens er minne frå for tiår sidan klarare enn det som skjedde i morges. Bilete, kjende gjenstandar, musikk og historier kan opne opp dei minna og gi dykk noko varmt å dele. Éi regel: det er ein samtale, aldri ein quiz.
 
-## What is reminiscence, and how is it different from quizzing?
+## Kva er minne, og korleis skil det seg frå quiz?
 
-Reminiscence is sharing memories through photos, objects, music or video, at the person's own pace. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) describes it as sharing past experiences and stories with the help of photos, objects, videos or music, in a book or on a tablet. Quizzing is different: it asks the person to produce a right answer, and that can bring embarrassment instead of enjoyment.
+Minne er å dele minne gjennom bilete, gjenstandar, musikk eller video, i personens eige tempo. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) skildrar det som å dele tidlegare erfaringar og historier med hjelp av bilete, gjenstandar, videoar eller musikk, i ei bok eller på eit nettbrett. Quiz er noko anna: det ber personen om å komme med eit rett svar, og det kan gi skam i staden for glede.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) lists asking a person whether they remember something or someone as something to avoid. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) suggests avoiding questions that rely on short-term memory and talking about the more distant past instead.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/dos-and-donts-communicating-person-who-has) listar det å spørje ein person om dei hugsar noko eller nokon som noko å unngå. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) foreslår å unngå spørsmål som krev korttidshukommelse, og å snakke om den fjernare fortida i staden.
 
-| Instead of | Try |
+| I staden for | Prøv |
 | --- | --- |
-| "Do you remember this?" | "This looks like a happy day. Tell me about it." |
-| "Who is this?" | "Here's Aunt Rose at the beach. Look at that hat." |
-| "What year was this?" | "This looks like the old house. What was it like living there?" |
-| "No, that's not Bill, that's Frank." | "He looks like a lot of fun." |
-| "You told me that already." | "I love that story." |
+| «Hugsar du dette?» | «Dette ser ut som ein glad dag. Fortel meg om han.» |
+| «Kven er dette?» | «Her er tante Rose på stranda. Sjå den hatten.» |
+| «Kva år var dette?» | «Dette ser ut som det gamle huset. Korleis var det å bu der?» |
+| «Nei, det er ikkje Bill, det er Frank.» | «Han ser ut som ein som har det moro.» |
+| «Du fortalte meg det allereie.» | «Eg elskar den historia.» |
 
-## How do you talk about photos without quizzing?
+## Korleis snakkar du om bilete utan å quize?
 
-Lead with what you see, then leave room for the person to add something if they wish.
+Byrj med det du ser, og la så det vere rom for at personen kan legge til noko om dei vil.
 
-1. **Sit side by side.** Hold the album between you so you are looking together, not testing across a table.
-2. **Choose a few photos.** Five good photos are better than a whole box. Large, clear prints work best.
-3. **Name people yourself.** "Here's you and Dad on your wedding day" removes the pressure.
-4. **Comment on details.** Clothes, cars, food, weather, faces. "What a car. It looks so shiny."
-5. **Invite, do not demand.** "Tell me about..." or "What do you notice?" Silence is fine.
-6. **Follow their lead.** If they talk about something else entirely, go with it.
-7. **Stop while it is pleasant.** Close the album before tiredness sets in.
+1. **Sit side om side.** Hald albumet mellom dykk slik at de ser saman, ikkje testar over eit bord.
+2. **Vel nokre få bilete.** Fem gode bilete er betre enn ein heil boks. Store, tydelege kopiar fungerer best.
+3. **Nemn folk sjølv.** «Her er du og pappa på bryllaupsdagen din» tek trykket bort.
+4. **Kommenter detaljar.** Klede, bilar, mat, vêr, ansikt. «For ein bil. Han ser så blank ut.»
+5. **Inviter, krev ikkje.** «Fortel meg om ...» eller «Kva legg du merke til?» Stillheit er greitt.
+6. **Følg deira leiing.** Om dei snakkar om noko heilt anna, gå med på det.
+7. **Stopp medan det er godt.** Lat albumet att før tretthet kjem.
 
-For ready-made picture prompts, try [conversation cards](/games/conversation-cards/). To turn your own family photos into a gentle matching game, try [photo pairs](/games/photo-pairs/); the photos you choose stay in your browser.
+For ferdige bileteoppmodingar, prøv [samtalekort](/games/conversation-cards/). For å gjere eigne familiefoto om til eit mildt parspel, prøv [fotopar](/games/photo-pairs/); bileta du vel blir verande i nettlesaren din.
 
-## How do you make a memory box?
+## Korleis lagar du ein minneboks?
 
-A memory box is a container of objects from the person's life to handle and talk about.
+Ein minneboks er ein beholdar med gjenstandar frå personens liv å halde i og snakke om.
 
-1. **Pick a sturdy box** that is easy to open, such as a shoebox, hat box or small wooden chest.
-2. **Choose a theme or mix.** Work, a hobby, a place, a decade, or a little of everything.
-3. **Gather safe objects.** Five to ten items is plenty to start.
-4. **Use copies of precious things.** Copy irreplaceable photos and documents and keep the originals safe.
-5. **Take items out one at a time.** Hand one over, say something about it, and see where the talk goes.
+1. **Vel ein solid boks** som er enkel å opne, til dømes ein skoboks, hattaske eller ein liten trekiste.
+2. **Vel eit tema eller ei blanding.** Arbeid, ein hobby, ein stad, eit tiår, eller litt av kvart.
+3. **Samle trygge gjenstandar.** Fem til ti ting er nok for å starte.
+4. **Bruk kopiar av verdifulle ting.** Kopier bilete og dokument som ikkje kan erstattast, og ta vare på originalane.
+5. **Ta ut éin gjenstand om gangen.** Gi han frå deg, seie noko om han, og sjå kvar praten går.
 
-Ideas to include:
+Idear å ha med:
 
-- **Work:** a name badge, a small tool, a uniform patch, a ledger, a nurse's pin, a cookbook from a diner.
-- **Home:** a recipe card in their handwriting, a tea towel, a favorite scarf or tie.
-- **Hobbies:** a fishing lure without the hook, a baseball, a ball of yarn, a seed packet.
-- **Places:** postcards, maps, a tourist souvenir, a hometown newspaper clipping.
-- **Family:** copies of photos, a child's drawing, a wedding invitation.
+- **Arbeid:** eit namneskilt, eit lite verktøy, eit uniformsmerke, ein hovudbok, ei sykepleiarnål, ei kokebok frå ein kafé.
+- **Heim:** eit oppskriftskort i handskrifta deira, eit kjøkkenhandkle, eit favorittskjerf eller slips.
+- **Hobbyar:** eit fiskedrag utan krok, ein baseball, ein nøste garn, ei frøpakke.
+- **Stadar:** postkort, kart, ein turistsouvenir, eit utklipp frå ei heimbygd-avis.
+- **Familie:** kopiar av bilete, ei teikning frå eit barn, ei bryllupsinvitasjon.
 
-Leave out sharp objects, small things that could be swallowed, and anything that might bring painful memories unless you know it is welcome.
+La vere å ha med skarpe gjenstandar, små ting som kan svelgjast, og alt som kan vekkje smertefulle minne, med mindre du veit at det er velkome.
 
-## How do you make a life-story book?
+## Korleis lagar du ei livshistoriebok?
 
-A life-story book is a simple album of photos and short captions about the person's life. It is something to look at together, and it helps visitors and care staff see the whole person.
+Ei livshistoriebok er eit enkelt album med bilete og korte bildetekstar om personens liv. Det er noko de kan sjå på saman, og det hjelper besøkjande og omsorgspersonale å sjå heile personen.
 
-1. **Choose a format.** A binder with sheet protectors, a printed photo book, or a slideshow on a tablet.
-2. **Plan a few sections.** Childhood, school, work, family, places lived, faith, hobbies, favorite foods and music.
-3. **Add one or two photos per page** with a short, large-print caption: "Mary, age 22, starting work at the bank."
-4. **Include likes and routines.** "Takes coffee with milk. Loves Sunday hymns. Dislikes loud TV." This helps anyone caring for them.
-5. **Involve the person** as much as they want, choosing photos, telling stories or just watching it come together.
-6. **Keep adding.** It does not need to be finished to be useful.
+1. **Vel eit format.** Ein perm med plastlommar, ei trykt bileteboks, eller eit lysbiletshow på eit nettbrett.
+2. **Planlegg nokre få kapittel.** Barndom, skule, arbeid, familie, stadar ein har budd, tro, hobbyar, favorittmat og musikk.
+3. **Legg til eitt eller to bilete per side** med ein kort bildetekst med stor skrift: «Mary, 22 år, byrjar i banken.»
+4. **Ta med likar og rutinar.** «Drikk kaffi med mjølk. Elskar søndagssalmar. Likar ikkje høgt TV.» Dette hjelper alle som har omsorg for personen.
+5. **La personen vere med** så mykje dei vil, ved å velje bilete, fortelje historier eller berre sjå på at det blir til.
+6. **Hald fram å legge til.** Den treng ikkje vere ferdig for å vere nyttig.
 
-## More reminiscence ideas
+## Fleire minneidear
 
-- **Play music from their youth** and talk about where it takes them. See [music activities](/activities/music/).
-- **Watch home movies or TV shows** from their favorite decades.
-- **Cook a childhood dish** and let the smells lead the conversation.
-- **Look at a map** of their hometown and trace familiar streets.
-- **Handle old catalogs or magazines** and talk about prices, fashions and cars.
-- **Record their stories** on a phone, with their permission, for the family.
-- **Share during calls.** Hold up one photo during a video call; see [phone and video calls](/activities/phone-and-video-calls/).
-- **Bring a photo or object when you visit.** It gives the visit an easy focus; see [visiting](/activities/visiting/).
+- **Spel musikk frå ungdommen** og snakk om kva han fører dei tilbake til. Sjå [musikkaktivitetar](/activities/music/).
+- **Sjå heimefilmar eller TV-program** frå favorittiåra deira.
+- **Lag ein barndomsrett** og la lukta leie samtalen.
+- **Sjå på eit kart** over heimbygda og følg kjende gater med fingeren.
+- **Bla i gamle katalogar eller blad** og snakk om prisar, mote og bilar.
+- **Ta opp historiene deira** på telefon, med løyve, til familien.
+- **Del under samtalar.** Hald opp eitt bilete under ein videosamtale; sjå [telefon- og videosamtalar](/activities/phone-and-video-calls/).
+- **Ta med eit bilete eller ein gjenstand når du besøker.** Det gir besøket eit lett fokus; sjå [besøk](/activities/visiting/).
 
-## What if a memory is painful?
+## Kva om eit minne er smertefullt?
 
-Some memories bring grief, regret or fear. If the person becomes upset, stop, comfort them and gently change the subject or activity. Do not argue about what happened. The Family Caregiver Alliance advises against trying to convince a person they are wrong and suggests responding to the feelings they show, which are real. If they talk about someone who has died as if they were alive, respond to the feeling: "You miss her. Tell me about her."
+Nokre minne gir sorg, anger eller frykt. Om personen blir opprørt, stopp, trøyst dei og bytt mildt emne eller aktivitet. Ikkje argumenter om kva som skjedde. Family Caregiver Alliance rår mot å prøve å overbevise ein person om at dei tek feil, og foreslår å svare på kjenslene dei viser, for dei er ekte. Om dei snakkar om nokon som har døydd, som om dei lever, svar på kjensla: «Du saknar henne. Fortel meg om henne.»
 
-## What does the research say?
+## Kva seier forskinga?
 
-A [Cochrane review of reminiscence](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), covering 22 trials and 1,972 people, found that effects were inconsistent, small and varied by setting and format. It found no evidence of harm to people with dementia. We suggest reminiscence because it can make for warm, meaningful time together, not as a treatment. For more on easy conversation, see [communication tips](/caregiving/communication-tips/).
+Ein [Cochrane-oversikt over minnesamtale](https://www.cochrane.org/evidence/CD001120_reminiscence-therapy-dementia), som dekkjer 22 forsøk og 1 972 personar, fann at effektane var ujamne, små og varierte etter miljø og format. Han fann ingen tegn på skade for personar med demens. Vi foreslår minnesamtale fordi han kan gi varm, meiningsfull tid saman, ikkje som behandling. For meir om enkel samtale, sjå [kommunikasjonstips](/caregiving/communication-tips/).

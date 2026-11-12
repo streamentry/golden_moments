@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Aktivitetar for mellomfase demens"
+seoTitle: "Aktivitetar ved mellomfase demens: enkle idear"
+description: "Enkle aktivitetar for mellomfase demens: nyttige gjeremål, musikk, bilete og enkle spel, med steg-for-steg-oppsett og idear for å gjere rastløyse om til noko å halde på med."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Ved mellomfase demens er dei beste aktivitetane korte, kjende og delte opp i
+  enkle steg: brette klede, pare sokkar, vaske opp, syngje, gå ein rolig tur,
+  sjå i fotoalbum og enkle biletspel. Set i stand, vis første steg, ta over dei
+  vanskelege delane og gi aktiviteten eit føremål. Stopp når det ikkje lenger
+  er godt.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Kjende hushaldsgjeremål fungerer ofte best, fordi dei kjennest nyttige og vaksne ut."
+  - "Vis heller enn å forklare, tilby eitt steg om gangen, og gi to enkle val i staden for opne spørsmål."
+  - "Ta over den vanskelegaste delen, slik at personen kan gjere den tilfredsstillande delen."
+  - "Rastløyse åtferd tyder ofte på at personen treng noko å gjere. Tilby ein passande aktivitet i staden for å seie nei."
+  - "Å sjå på, hjelpe litt eller stoppe tidleg er alt saman greitt."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Kva aktivitetar passar ved mellomfase demens?"
+    a: "Korte, kjende og praktiske aktivitetar fungerer som regel best: brette handklede, pare sokkar, vaske opp, dekke bordet, syngje med på gamle favorittar, rolege turar, sjå i fotoalbum og enkle biletspel. Del kvar aktivitet opp i enkle steg og gjer han saman."
+  - q: "Korleis får eg ein person med demens til å byrje på ein aktivitet?"
+    a: "Ha alt klart, byrj sjølv og inviter personen til å hjelpe: «Kan du hjelpe meg med desse handklea?» Mange vil gjerne vere med, men synest det er vanskeleg å byrje. Å vise første steg fungerer som regel betre enn å forklare det."
+  - q: "Kva gjer eg når dei held fram med å gjere noko om att og om att?"
+    a: "Gjentaking er ofte harmlaus og kan vere eit teikn på at personen vil kjenne seg opptatt eller treng trygging. I staden for å korrigere, tilby ein aktivitet som passar rørsla, til dømes ein kurv med vaskeklutar å brette eller ein song de kan syngje saman."
+  - q: "Kva om dei gjer aktiviteten feil?"
+    a: "Om det er harmlaust, la det vere. Handkle som er brette annleis, eller skeier på feil plass, betyr ingenting. Å korrigere kan kjennast som kritikk, medan å la dei gjere det på sin måte gir dei kjensla av å meistre og vere nyttige."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Mellomfasen av demens er ofte den lengste, og det er då aktivitetar treng reell støtte. Ord kjem tyngre, steg kan bli blanda, og det kan vere vanskeleg å byrje på noko. Men ønsket om å vere nyttig og med held som regel fram. Med litt oppsett kan ein person i mellomfasen framleis ha glede av ein god del, særleg kjende gjeremål, musikk og bilete gjort side om side med deg.
 
-## What activities work well in middle-stage dementia?
+## Kva aktivitetar fungerer godt ved mellomfase demens?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Korte, kjende og praktiske aktivitetar delt opp i enkle steg fungerer best. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) seier at du ikkje treng finne opp nye ting å gjere: aktivitetar kan vere ein del av vanleg kvardag, til dømes å lage middag saman, stelle i hagen, høyre på musikk eller gå ein tur.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) peiker på at folk i denne fasen ofte har eit sterkt behov for å kjenne seg nyttige eller ta vare på noko, og at dei treng hjelp til å byrje på eller halde fram med aktivitetar. Lista deira for mellomfasen inneheld å brette klede, vaske opp, pare sokkar, lett trening, dans til kjend musikk, rolege turar, songsamlingar, enkel måling og å sjå i fotoalbum.
 
-## How do you set up an activity so it works?
+## Korleis set du opp ein aktivitet slik at han fungerer?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Dei fleste aktivitetar lykkast eller mislykkast i oppsettet. Desse vanane, henta frå [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) og [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), gir størst effekt:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Rydd plassen.** Slå av TV-en, lat døra vere att og legg fram berre det aktiviteten treng.
+2. **Byrj sjølv.** Ta til å brette eller røre, og inviter personen inn: «Kan du hjelpe meg med dette?»
+3. **Vis, og vent.** Demonstrer eitt steg. Pek eller før handa, til dømes ved å vise kvar tallerkenen skal stå.
+4. **Gi eitt steg om gangen.** «Brett det på midten» er lettare enn «brett desse og stable dei etter farge».
+5. **Tilby to val, ikkje opne spørsmål.** «Dei blå handkleda eller dei kvite?» er lettare å svare på enn «Kva vil du gjere?»
+6. **Gjer den vanskelege delen sjølv.** Du måler, dei rører. Du trær nåla, dei vindar garnet.
+7. **Gi det eit føremål.** «Desse servietta er til søndagsmiddagen» gjer jobben ekte.
+8. **La dei sjå på om dei føretrekk det.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) peiker på at det òg kan vere hyggeleg berre å sjå på.
 
-## Activity ideas for the middle stage
+## Aktivitetsidear for mellomfasen
 
-### Useful jobs
+### Nyttige gjeremål
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Brett handklede og vaskeklutar.** Små, flate ting er lettast. Ein kurv med varme vaskeklutar kan brettast, glattast og brettast på nytt.
+- **Pare sokkar.** Byrj med nokre få svært ulike par. Å sortere berre etter farge er òg greitt.
+- **Vask eller tørk ting som tåler støyt.** Varmt såpevatn er godt for hendene. Å tørke sitjande er lettare for beina.
+- **Dekk bordet.** Gi éin type ting om gangen, og dekk ein plass sjølv som førebilete.
+- **Hjelp til med middagen.** Vaske potet, rive salat eller røre i ei skål. Du tek deg av kniv og varme.
+- **Feie, støve eller tørke av.** Ein klut til bordet, ein lett kost til verandaen.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Sjå [hushaldsgjeremål](/activities/household-tasks/) for mange fleire.
 
-### Music and movement
+### Musikk og rørsle
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Syng gamle favorittar.** Byrj å syngje sjølv; mange blir med på songar dei har kjent i tiår. Sjå [musikkaktivitetar](/activities/music/).
+- **Dans fritt.** Sving, klapp eller beveg deg slik det kjennest godt. Sitjande går òg bra.
+- **Kast ein ballong.** Han flyg sakte og er lett å fange frå ein stol.
+- **Ta ein turleiing.** Gå ei kort, kjend runde saman, gjerne arm i arm om det hjelper.
 
-### Pictures and stories
+### Bilete og historier
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Sjå i eit fotoalbum.** Kommenter det du ser i staden for å stille spørsmål: «Sjå den bilen. Fortel meg om han.» Sjå [minneaktivitetar](/activities/reminiscence/).
+- **Bruk samtalekort.** [Samtalekort](/games/conversation-cards/) parar eit bilete med ein open oppmoding utan quiz.
+- **Sjå ein gammal film saman.** Vel ein kjend film, bli i nærleiken og gjer pausar.
 
-### Simple, pressure-free games
+### Enkle spel utan press
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Biletpar med bileta synlege.** [Biletpar](/games/picture-pairs/) lèt bileta vere synlege, så det handlar om å leggje merke til, ikkje å hugse.
+- **Finn det same.** [Finn det same](/games/find-the-same/) viser eitt bilete og berre to til fire val.
+- **Sorter saman.** [Sorter saman](/games/sort-together/) er som å sortere klesvask på skjermen: trykk på eit bilete, deretter på kurven det høyrer til.
+- **Biletbingo.** [Biletbingo](/games/picture-bingo/) fungerer godt på familietreff og i grupper.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Om eit spel byrjar å skape frustrasjon, stopp og gjer noko anna. Sjå [korleis spele saman](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Å gjere rastløyse om til ein aktivitet
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Rastløyse eller repeterande åtferd har ofte ei årsak. Family Caregiver Alliance peiker på at ein person som stadig tømmer eit skap, kan prøve å dekke eit behov for å kjenne seg opptatt og produktiv. Alzheimer's Association foreslår å leie denne energien inn i ein passande aktivitet, i staden for å stoppe henne.
 
-| What you see | Something to offer |
+| Det du ser | Noko å tilby |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Gneider eller plukkar på eit bord | Ein fuktig klut og ein oppmoding om å tørke av bordet |
+| Rastlause føter eller tapping | Musikk med ein tydeleg rytme å tappe eller klappe med |
+| Tømmer skuffer eller skap | Ein kurv med klede eller vaskeklutar å brette og sortere |
+| Stiller det same spørsmålet om att | Trygging, deretter ein song eller eit gjeremål å dele |
+| Går fram og tilbake | Ein tur saman, eller ei oppgåve som går ut på å bere ting |
+| Uro på ettermiddagen | Ei rolig, kjend oppgåve i godt lys; sjå [rastløyse på ettermiddagen](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Når du bør stoppe eller endre
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Stopp når du ser teikn på tretthet, frustrasjon, skam eller kjedsemd, til dømes rastløyse, rynkar på panna, skyv ting unna eller seier «eg kan ikkje». Alzheimer's Association foreslår å prøve på nytt til eit anna tidspunkt på dagen, eller å gjere aktiviteten enklare. Ikkje tving det. Eit nei kan kome av redsle eller av at oppgåva er for vanskeleg; sjå [når dei seier nei](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Å avslutte tidleg er greitt. Det same er å berre sitje saman med ein kopp te. Etter kvart som evnene endrar seg meir, passar kanskje idéane i [aktivitetar for seinfasen](/activities/late-stage/) betre, og [101 aktivitetar](/activities/ideas/) har mange fleire å prøve.

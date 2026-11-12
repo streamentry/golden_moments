@@ -1,33 +1,28 @@
 ---
-title: "MIND and Mediterranean Diets and Dementia: What the Research Says"
-seoTitle: "MIND Diet and Dementia: What the Research Says"
-description: "What research says about the MIND and Mediterranean diets and dementia, why a major trial found no clear benefit, and how to help someone with dementia eat well."
+title: "MIND 饮食与地中海饮食和失智症：研究说了什么"
+seoTitle: "MIND 饮食与失智症：研究说了什么"
+description: "研究对 MIND 饮食、地中海饮食与失智症说了什么：为什么一项重要试验没有发现明确益处，以及如何帮助失智症患者好好吃饭。"
 section: brain-health
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Observational studies link Mediterranean-style and MIND diets with lower
-  dementia risk, but not consistently. A three-year randomized trial of the MIND
-  diet, published in 2023, found no significant difference in thinking or brain
-  scans compared with a control diet. No food or supplement is proven to prevent
-  dementia. For people living with dementia, eating and drinking enough matters
-  most.
+  追踪人群的观察性研究发现，地中海式饮食和 MIND 饮食与较低的失智症风险相关，但结果并不一致。一项发表于 2023 年、为期三年的 MIND 饮食随机试验显示，与对照饮食相比，思维能力或脑部扫描结果没有显著差异。目前没有任何食物或补充剂被证实能预防失智症。对于与失智症共同生活的人，吃够、喝够最为重要。
 keyPoints:
-  - "Some, but not all, studies that follow people over time link Mediterranean and MIND eating patterns with lower dementia risk."
-  - "In a 2023 trial of 604 older adults, people on the MIND diet did no better on thinking tests or brain scans than people on a control diet after three years."
-  - "The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's, and no vitamin or supplement is proven to prevent it."
-  - "A diet rich in vegetables, fruit, beans, whole grains and fish supports heart health and may help with risks such as high blood pressure and diabetes."
-  - "For people living with dementia, finger foods, contrasting plates, calm mealtimes and regular drinks often matter more than any particular diet."
+  - "在一些追踪人群的研究中，地中海式饮食和 MIND 饮食模式与较低的失智症风险相关，但并非所有研究都如此。"
+  - "2023 年一项涉及 604 名老年人的试验发现，三年后，采用 MIND 饮食的人在思维测试或脑部扫描上，并不比采用对照饮食的人表现更好。"
+  - "美国国家老龄研究所表示，没有证据显示吃某种特定食物或避免某种食物能预防阿尔茨海默病，也没有任何维生素或补充剂被证实能预防它。"
+  - "富含蔬菜、水果、豆类、全谷物和鱼类的饮食有利于心脏健康，也可能有助于降低高血压和糖尿病等风险。"
+  - "对于与失智症共同生活的人，手指食物、对比色餐具、平静的用餐环境和经常喝水，往往比任何特定饮食都更重要。"
 faq:
-  - q: "Does the MIND diet prevent dementia?"
-    a: "It has not been shown to. Observational studies linked the MIND diet with lower risk, but a three-year randomized trial published in 2023 found no significant difference in thinking test results or brain scans between people on the MIND diet and people on a control diet. Both groups improved slightly and lost similar weight."
-  - q: "What is the difference between the MIND diet and the Mediterranean diet?"
-    a: "The Mediterranean diet emphasizes vegetables, fruit, whole grains, beans, fish and olive oil, with little red meat or sweets. The MIND diet combines it with the DASH diet for blood pressure and adds an emphasis on green leafy vegetables and berries, while limiting red meat, sweets, cheese, butter and fried food."
-  - q: "Are there foods or supplements that prevent Alzheimer's?"
-    a: "No. The National Institute on Aging says there is no evidence that eating or avoiding a specific food can prevent Alzheimer's or age-related cognitive decline, and no vitamin or supplement has been proven to prevent Alzheimer's. Talk with a doctor before taking supplements."
-  - q: "What foods are easiest for someone with dementia to eat?"
-    a: "Bite-sized finger foods such as sandwich pieces, chicken pieces, orange segments or steamed vegetable pieces are often easier than using cutlery. If chewing or swallowing is hard, soft foods like scrambled eggs, applesauce or cottage cheese can help. Ask the doctor about a swallowing assessment if coughing or choking happens."
+  - q: "MIND 饮食能预防失智症吗？"
+    a: "目前没有证据显示可以。观察性研究显示 MIND 饮食与较低风险相关，但 2023 年发表的一项为期三年的随机试验发现，采用 MIND 饮食的人和采用对照饮食的人，在思维测试结果或脑部扫描上没有显著差异。两组的表现都略有改善，体重下降的幅度也相近。"
+  - q: "MIND 饮食和地中海饮食有什么不同？"
+    a: "地中海饮食强调蔬菜、水果、全谷物、豆类、鱼类和橄榄油，红肉和甜食很少。MIND 饮食把地中海饮食与用于控制血压的 DASH 饮食结合起来，并特别强调深绿色叶菜和浆果，同时限制红肉、甜食、奶酪、黄油和油炸食品。"
+  - q: "有没有能预防阿尔茨海默病的食物或补充剂？"
+    a: "没有。美国国家老龄研究所表示，没有证据显示吃某种特定食物或避免某种食物，能预防阿尔茨海默病或与年龄相关的认知衰退，也没有任何维生素或补充剂被证实能预防阿尔茨海默病。服用补充剂之前，请先咨询医生。"
+  - q: "对失智症患者来说，哪些食物最容易吃？"
+    a: "一口大小的手指食物，例如三明治块、鸡肉块、橙子瓣或蒸好的蔬菜块，通常比用餐具更容易吃。如果咀嚼或吞咽困难，嫩炒蛋、苹果酱或茅屋奶酪等软质食物会有帮助。如果出现咳嗽或呛咳，请询问医生是否需要做吞咽评估。"
 sources:
   - title: "Trial of the MIND Diet for Prevention of Cognitive Decline in Older Persons"
     publisher: "New England Journal of Medicine (via PMC)"
@@ -58,168 +53,80 @@ related: [brain-health/fasting, brain-health/can-dementia-be-prevented, brain-he
 health: true
 ---
 
-You may have read that a "brain-healthy" diet can keep Alzheimer's away. The
-real picture is more modest. Some eating patterns are linked with lower risk in
-studies that follow people over time, but the best trial so far did not find a
-clear benefit. This page explains both, then turns to what usually matters most
-for someone already living with dementia: eating and drinking enough, and
-enjoying it.
+您可能读到过，“有益大脑”的饮食可以远离阿尔茨海默病。实际情况要温和得多。在追踪人群的研究中，一些饮食模式与较低的风险相关，但迄今最好的试验并没有发现明确的益处。本页将两方面都讲清楚，然后谈谈对已经与失智症共同生活的人来说，通常最重要的是什么：吃够、喝够，并且吃得愉快。
 
-This is general information, not medical advice. Talk with a doctor or
-registered dietitian before changing your diet or someone else's. See our
-[medical disclaimer](/medical-disclaimer/).
+本页为一般性信息，并非医疗建议。在改变您自己或他人的饮食之前，请先咨询医生或注册营养师。请参阅我们的[医疗免责声明](/medical-disclaimer/)。
 
-## What are the Mediterranean and MIND diets?
+## 地中海饮食和 MIND 饮食是什么？
 
-The National Institute on Aging (NIA) describes them this way
-([NIA on diet and Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)):
+美国国家老龄研究所（NIA）是这样描述它们的（[NIA 关于饮食与阿尔茨海默病的说明](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-do-we-know-about-diet-and-prevention-alzheimers-disease)）：
 
-- **Mediterranean diet:** plenty of fruit, vegetables, whole grains, beans,
-  fish and seafood, and olive oil, with low amounts of red meat, eggs and
-  sweets.
-- **MIND diet** (Mediterranean–DASH Intervention for Neurodegenerative Delay):
-  a mix of the Mediterranean diet and the DASH diet for blood pressure. It
-  features vegetables, especially green leafy ones; berries; whole grains;
-  beans; nuts; fish at least once a week; and olive oil. It limits red meat,
-  sweets, cheese, butter or margarine, and fried or fast food.
+- **地中海饮食：** 多吃水果、蔬菜、全谷物、豆类、鱼类和海鲜，以及橄榄油，少量食用红肉、鸡蛋和甜食。
+- **MIND 饮食**（Mediterranean–DASH Intervention for Neurodegenerative Delay，即地中海–DASH 神经退行性延缓干预）：结合了地中海饮食和用于控制血压的 DASH 饮食。它的特点是多吃蔬菜，尤其是深绿色叶菜；多吃浆果、全谷物、豆类、坚果；每周至少吃一次鱼；使用橄榄油。它限制红肉、甜食、奶酪、黄油或人造黄油，以及油炸食品和快餐。
 
-## Do these diets lower dementia risk?
+## 这些饮食能降低失智症风险吗？
 
-The evidence is mixed. The NIA says some, but not all, observational studies
-have linked the Mediterranean and MIND diets with lower dementia risk compared
-with a Western-style diet higher in red meat, saturated fat and sugar.
+证据并不一致。NIA 表示，一些（但并非所有）观察性研究发现，与以红肉、饱和脂肪和糖为主的西式饮食相比，地中海饮食和 MIND 饮食与较低的失智症风险相关。
 
-The 2024 Lancet Commission reviewed the research in more detail
-([Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0)):
+2024 年柳叶刀委员会对研究做了更详细的审视（[柳叶刀委员会](https://doi.org/10.1016/S0140-6736(24)01296-0)）：
 
-- One review of cohort studies linked high diet quality with about a 20% lower
-  risk of dementia.
-- A larger analysis of three cohorts linked closer adherence to the MIND diet
-  with lower risk.
-- But a Swedish study that followed 28,025 middle-aged people for about 20 years
-  found no lower risk with either recommended diets or a Mediterranean-style
-  diet.
+- 一项队列研究综述发现，饮食质量高与失智症风险降低约 20% 相关。
+- 对三个队列进行的较大规模分析发现，越严格遵循 MIND 饮食，风险越低。
+- 但瑞典一项研究追踪了 28,025 名中年人约 20 年，发现无论是推荐饮食还是地中海式饮食，都没有降低风险。
 
-Observational studies cannot prove cause and effect. People who eat this way
-often differ in other ways too, such as income, education, exercise and access
-to health care. The Commission concluded that there is not enough evidence to
-say healthy diets directly prevent dementia, though eating plenty of fruit and
-vegetables and fewer ultra-processed foods is good for many health conditions
-and affects risk factors such as obesity, diabetes and high blood pressure. It
-did not add diet to its list of [14 risk factors](/brain-health/risk-factors/).
+观察性研究无法证明因果关系。以这种方式饮食的人，往往在收入、教育程度、运动和获得医疗服务的机会等方面也有所不同。委员会的结论是，证据不足以说明健康饮食可以直接预防失智症。不过，多吃水果和蔬菜、少吃超加工食品，对许多健康问题都有益，并会影响肥胖、糖尿病和高血压等风险因素。委员会没有把饮食列入它的 [14 项风险因素](/brain-health/risk-factors/)。
 
-## What did the 2023 MIND diet trial find?
+## 2023 年的 MIND 饮食试验发现了什么？
 
-The strongest test so far was a randomized trial published in the New England
-Journal of Medicine in 2023
-([MIND diet trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)):
+迄今最有力的检验，是 2023 年发表于《新英格兰医学杂志》的一项随机试验（[MIND 饮食试验](https://pmc.ncbi.nlm.nih.gov/articles/PMC10513737/)）：
 
-- **Who:** 604 adults aged 65 and older in the Chicago and Boston areas, without
-  thinking problems, who had a close relative with dementia, were overweight,
-  and had a less healthy diet to begin with.
-- **What:** for three years, half followed the MIND diet and half followed
-  their usual diet. Both groups were asked to eat about 250 fewer calories a
-  day and got regular coaching from registered dietitians.
-- **Result:** thinking test results improved slightly in **both** groups. The
-  difference between the groups was small and **not statistically
-  significant**. Brain scans also showed similar changes in both groups.
-- **Weight:** both groups lost about 5 kilograms (around 11 pounds).
+- **对象：** 604 名 65 岁及以上的成年人，居住在芝加哥和波士顿地区，没有思维问题，有一位近亲患有失智症，超重，并且一开始饮食就不太健康。
+- **做法：** 三年间，一半的人遵循 MIND 饮食，另一半的人维持原来的饮食。两组都被要求每天少摄入约 250 千卡热量，并定期接受注册营养师的指导。
+- **结果：** **两组**的思维测试成绩都略有改善。两组之间的差异很小，并且**没有统计学意义**。脑部扫描也显示两组的变化相似。
+- **体重：** 两组都减重约 5 公斤（约 11 磅）。
 
-### Why might the trial have found no difference?
+### 为什么试验可能没有发现差异？
 
-The researchers suggested several reasons. The control group probably improved
-its diet too, since it lost a similar amount of weight. Repeated testing can
-improve results on its own, as people get used to the tests. Three years may
-be too short. Most participants were well-educated and of European descent, so
-the results may not apply to everyone.
+研究人员提出了几种可能的原因。对照组的饮食可能也有所改善，因为他们减掉的体重相近。反复测试本身也可能提高成绩，因为人们会逐渐熟悉测试。三年可能也太短了。参与者大多受过良好教育，并且是欧洲裔，因此结果未必适用于所有人。
 
-So the honest summary is: the MIND diet did not beat a sensible calorie-reduced
-diet over three years. That does not mean healthy eating is pointless. It means
-no one should expect a specific diet to prevent dementia.
+所以，客观的总结是：在三年时间里，MIND 饮食并没有比一种合理的减少热量的饮食效果更好。这并不意味着健康饮食毫无意义，而是意味着，不应期待某种特定饮食能预防失智症。
 
-## What about specific foods and supplements?
+## 特定食物和补充剂怎么样？
 
-The NIA says there is no evidence that eating or avoiding a specific food can
-prevent Alzheimer's or age-related cognitive decline. Blueberries, leafy greens
-and turmeric have all been studied, without proof. The NIA also says no vitamin
-or supplement has been proven to prevent Alzheimer's, and none is recommended
-for that purpose. The NIA warns that unproven products sold to prevent
-Alzheimer's might be unsafe, a waste of money, or both, and could interfere with
-prescribed medicines, so check with a doctor before trying any
-([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+NIA 表示，没有证据显示吃某种特定食物或避免某种食物，能预防阿尔茨海默病或与年龄相关的认知衰退。蓝莓、绿叶蔬菜和姜黄都曾被研究，但都没有得到证实。NIA 还表示，没有任何维生素或补充剂被证实能预防阿尔茨海默病，也不推荐为此目的服用。NIA 警告说，那些号称能预防阿尔茨海默病、却未经证实的产品，可能不安全、白白浪费金钱，或两者兼有，还可能干扰处方药的效果，因此在尝试之前请先咨询医生（[NIA 关于预防阿尔茨海默病的说明](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)）。
 
-## How can eating stay healthy and enjoyable?
+## 怎样让饮食既健康又愉快？
 
-For most older adults, the aim is food that is nourishing, familiar and
-pleasant, not a strict plan:
+对大多数老年人来说，目标是营养、熟悉、令人愉快的食物，而不是严格的计划：
 
-- **Build meals around foods you like** from the Mediterranean pattern:
-  vegetables, fruit, beans, whole grains, fish and olive oil.
-- **Keep favorite treats.** Enjoyment and appetite matter, especially later in
-  life.
-- **Eat with others** when you can. Shared meals are good company.
-- **Cook together.** Washing vegetables or stirring a pot is a good shared
-  activity; see [household tasks](/activities/household-tasks/). A favorite
-  family recipe can also spark [reminiscence](/activities/reminiscence/).
+- **以您喜欢的食物为基础安排餐食，**选择地中海饮食模式中的食材：蔬菜、水果、豆类、全谷物、鱼和橄榄油。
+- **保留喜爱的零食。** 乐趣和食欲很重要，尤其是在人生的后期。
+- **尽量与他人一起吃饭。** 共享的餐桌是很好的陪伴。
+- **一起下厨。** 洗菜或搅拌锅里的食物，都是很好的共同活动，请参阅[家务活动](/activities/household-tasks/)。一道家传的喜爱菜谱，也可能引发[回忆往事](/activities/reminiscence/)。
 
-Older adults should not cut calories or lose weight without talking to a
-doctor, and fasting carries extra risks. See our
-[fasting guide](/brain-health/fasting/).
+老年人在没有咨询医生的情况下，不应减少热量或刻意减重，而且禁食还有额外的风险。请参阅我们的[禁食指南](/brain-health/fasting/)。
 
-## How can you help someone with dementia eat well?
+## 怎样帮助失智症患者好好吃饭？
 
-For people living with dementia, eating and drinking **enough** is usually the
-main concern. The Alzheimer's Association notes that people may forget to eat,
-think they have already eaten, or feel overwhelmed by choices, and that poor
-nutrition may increase behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
-These ideas come from the Alzheimer's Association, the NIA and the Alzheimer's
-Society:
+对于与失智症共同生活的人，首要的问题通常是**吃够**、**喝够**。阿尔茨海默病协会指出，患者可能会忘记吃饭，以为自己已经吃过了，或者因为选择太多而不知所措；营养不良还可能加重行为症状，并导致体重下降（[阿尔茨海默病协会关于饮食的说明](https://www.alz.org/help-support/caregiving/daily-care/food-eating)）。以下建议来自阿尔茨海默病协会、NIA 和阿尔茨海默病协会（英国）：
 
-1. **Offer finger foods.** Bite-sized pieces that are easy to pick up, such as
-   sandwich pieces, chicken pieces, fish sticks, orange segments or steamed
-   broccoli, let a person feed themselves without cutlery.
-2. **Use contrast on the table.** Changes in vision can make it hard to tell
-   food from plate. White plates or bowls on a contrasting place mat can help.
-   Avoid patterned dishes and tablecloths.
-3. **Serve one or two foods at a time.** A full plate can be overwhelming.
-4. **Keep mealtimes calm.** Turn off the TV, keep the table simple, and allow
-   plenty of time. The NIA suggests not rushing or pushing.
-5. **Offer small meals and snacks often.** The NIA suggests smaller, more
-   frequent meals and calorie-rich snacks if the person is not eating enough
-   ([NIA tips for eating well](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)).
-6. **Help with drinking.** Offer small cups of water or other drinks through
-   the day, plus foods with lots of water such as fruit, soup, milkshakes and
-   smoothies. If the person does not want water, the NIA suggests trying juice,
-   flavored water, broth, milk, or decaf coffee or tea.
-7. **Check temperature.** A person may not notice that food or a drink is too
-   hot.
-8. **Adapt utensils and cups.** Bowls instead of plates, spoons with large
-   handles, and cups with lids can make eating easier. Do not worry about
-   neatness.
-9. **Make food easier to chew and swallow.** Cut food into small pieces or
-   offer soft foods. If the person coughs or chokes when eating, tell their
-   doctor.
-10. **Avoid force-feeding.** The NIA notes that appetite naturally declines in
-    the late stages of Alzheimer's.
+1. **提供手指食物。** 一口大小、容易拿起的食物，例如三明治块、鸡肉块、鱼条、橙子瓣或蒸西兰花，让人无需用餐具也能自己进食。
+2. **桌面使用对比色。** 视力变化可能使人难以分辨食物和餐盘。白色餐盘或碗，配上对比色的餐垫，会有帮助。避免使用花纹餐具和桌布。
+3. **每次只上一两样食物。** 满满一盘食物可能让人不知所措。
+4. **保持用餐环境平静。** 关掉电视，保持餐桌简单，并留出充足的时间。NIA 建议不要催促，也不要强迫进食。
+5. **经常提供少量餐食和零食。** 如果对方吃得不够，NIA 建议改为少量多餐，并提供高热量的零食（[NIA 关于健康饮食的建议](https://www.nia.nih.gov/health/alzheimers-caregiving/tips-caregivers-helping-people-alzheimers-disease-eat-well)）。
+6. **帮忙喝水。** 全天提供小杯的水或其他饮品，并提供含水量高的食物，例如水果、汤、奶昔和冰沙。如果对方不想喝水，NIA 建议尝试果汁、调味水、高汤、牛奶，或无咖啡因的咖啡或茶。
+7. **检查温度。** 对方可能没有察觉食物或饮品太烫。
+8. **调整餐具和杯子。** 用碗代替盘子，使用手柄较大的勺子，以及带盖的杯子，都能让进食更容易。不必太在意整洁。
+9. **让食物更容易咀嚼和吞咽。** 把食物切成小块，或提供软质食物。如果对方进食时咳嗽或呛咳，请告诉他的医生。
+10. **避免强迫进食。** NIA 指出，在阿尔茨海默病的后期阶段，食欲会自然下降。
 
-### Signs to tell the doctor about
+### 需要告诉医生的迹象
 
-Weight loss, refusing food, tiredness or weakness can be signs that someone is
-not eating enough. The Alzheimer's Society notes that sore teeth or dentures,
-depression, constipation and medicine changes can all reduce appetite
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
-Signs of dehydration listed by the NIA include dry mouth, dizziness, a rapid
-heart rate and hallucinations
-([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+体重下降、拒绝进食、疲倦或虚弱，都可能是没有吃够的迹象。阿尔茨海默病协会（英国）指出，牙齿疼痛或假牙不合适、抑郁、便秘和药物变化，都可能降低食欲（[阿尔茨海默病协会（英国）关于食欲的说明](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)）。NIA 列出的脱水迹象包括口干、头晕、心跳加快和幻觉（[NIA 关于常见医疗问题的说明](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)）。
 
-## Talk with a doctor
+## 咨询医生
 
-Before making big changes to your own diet, or anyone else's, talk with a
-doctor or registered dietitian, especially if you have diabetes, kidney
-disease, swallowing problems or recent weight loss. For someone living with
-dementia, ask how much they should aim to eat and drink each day, and whether
-a dietitian or supplements might help.
+在对您自己或他人的饮食做出重大改变之前，请先咨询医生或注册营养师，尤其是如果您患有糖尿病、肾病、吞咽问题，或最近体重下降。如果是与失智症共同生活的人，请询问他每天应该吃多少、喝多少，以及营养师或补充剂是否会有帮助。
 
-Get urgent help if someone is choking, or has sudden confusion, severe
-dizziness or fainting.
+如果有人被食物噎住，或出现突然的意识混乱、剧烈头晕或昏厥，请立即寻求紧急帮助。

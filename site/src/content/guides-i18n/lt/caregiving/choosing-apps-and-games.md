@@ -1,35 +1,35 @@
 ---
-title: "How to Choose Dementia Apps and Games"
-seoTitle: "How to Choose Dementia Apps and Games: A Checklist"
-description: "A caregiver's checklist for choosing dementia apps and games: start with your goal, avoid timers and ads, check privacy, and read evidence claims with care."
+title: "Kaip rinktis demencijos programėles ir žaidimus"
+seoTitle: "Kaip rinktis demencijos programėles ir žaidimus: kontrolinis sąrašas"
+description: "Globėjo kontrolinis sąrašas: pradėkite nuo tikslo, vengkite laikmačių ir reklamų, tikrinkite privatumą ir atsargiai vertinkite įrodymų teiginius."
 section: caregiving
 order: 6
 updated: 2026-10-30
 translatedFrom: 2026-10-30
 summary: >-
-  Start with what you want the app to do: gentle stimulation, reminiscence,
-  calm or connection. Then pick one that fits the person's abilities today,
-  with large pictures, no timers, scores or ads, and an easy way to stop.
-  Check what data it collects and whether you can delete it. Be cautious of
-  claims that an app prevents or treats dementia; a single study is not proof.
+  Pradėkite nuo to, ko norite iš programėlės: švelnaus pažadinimo, prisiminimų, ramybės ar
+  ryšio. Tada pasirinkite tokią, kuri tinka žmogaus gebėjimams šiandien, su didelėmis
+  nuotraukomis, be laikmačių, taškų ar reklamų ir su paprastu būdu sustoti. Patikrinkite, kokius
+  duomenis ji renka ir ar galite juos ištrinti. Atsargiai vertinkite teiginius, kad programėlė
+  užkerta kelią demencijai ar ją gydo; vienas tyrimas nėra įrodymas.
 keyPoints:
-  - "Decide the goal first: stimulation, reminiscence, calm or connection need different apps."
-  - "Fit the person's abilities on the day, not a stage label, and keep the controls simple."
-  - "Skip apps with timers, scores, lives, streaks, ads or purchase prompts."
-  - "Check data collection, sharing and deletion. HIPAA usually does not cover consumer apps."
-  - "Be skeptical of \"prevents dementia\" claims. One trial, or better scores in the app, is not proof."
-  - "Golden Moments is a recreational activity. It makes no clinical claims."
+  - "Pirmiausia nusprendžite tikslą: pažadinimui, prisiminimams, ramybei ar ryšiui reikia skirtingų programėlių."
+  - "Derinkite prie žmogaus gebėjimų tą dieną, o ne prie etiketės apie etapą, ir valdymą laikykite paprastą."
+  - "Venkite programėlių su laikmačiais, taškais, gyvybėmis, serijomis, reklamomis ar pirkimo raginimais."
+  - "Tikrinkite duomenų rinkimą, dalijimąsi ir ištrynimą. HIPAA paprastai netaikoma vartotojų programėlėms."
+  - "Būkite atsargūs su teiginiais „užkerta kelią demencijai“. Vienas tyrimas ar geresni rezultatai programėlėje nėra įrodymas."
+  - "Golden Moments yra rekreacinė veikla. Ji neteikia klinikinių teiginių."
 faq:
-  - q: "Can brain games prevent dementia?"
-    a: "There is no good evidence that commercial brain-game apps prevent or slow dementia. The National Institute on Aging says there is not enough evidence that commercially available brain-training apps have the same effect as the structured training tested in a large research trial. Choose apps for enjoyment and connection, not as medicine."
-  - q: "Is a dementia app covered by HIPAA?"
-    a: "Usually not. HIPAA generally applies to health care providers, health plans and their business associates. An app you download yourself is usually not covered unless it is provided by one of them. The FTC's Health Breach Notification Rule covers many health apps that HIPAA does not."
-  - q: "What should a good dementia game look like?"
-    a: "Large, clear pictures and text, one obvious thing to do on each screen, no timer or score, no buzzers for mistakes, no ads, and an easy way to pause or stop. It should look like it was made for adults and be easy for a second person to join."
-  - q: "Does Golden Moments claim to help memory?"
-    a: "No. Golden Moments offers simple shared activities for enjoyment and conversation. It does not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking."
-  - q: "Should I pay for a dementia app?"
-    a: "Try free options or free trials first, and watch how the person responds over a couple of weeks. Paying for an app does not make it more effective. Check how to cancel before you subscribe."
+  - q: "Ar smegenų žaidimai gali užkirsti kelią demencijai?"
+    a: "Nėra gerų įrodymų, kad komercinės smegenų žaidimų programėlės užkerta kelią demencijai ar ją sulėtina. Nacionalinis senėjimo institutas teigia, kad nepakanka įrodymų, jog komercinės smegenų lavinimo programėlės turi tokį patį poveikį kaip didelio tyrimo metu išbandytas struktūruotas lavinimas. Rinkitės programėles malonumui ir ryšiui, o ne kaip vaistą."
+  - q: "Ar demencijos programėlei taikoma HIPAA?"
+    a: "Paprastai ne. HIPAA paprastai taikoma sveikatos priežiūros teikėjams, sveikatos draudimo planams ir jų verslo partneriams. Programėlė, kurią patys atsisiunčiate, paprastai nepatenka į HIPAA, nebent ją pateikė vienas iš jų. FTC Sveikatos duomenų pažeidimų pranešimo taisyklė apima daug sveikatos programėlių, kurių HIPAA neapima."
+  - q: "Kokia gera demencijos žaidimo savybė?"
+    a: "Dideli, aiškūs paveikslėliai ir tekstas, vienas akivaizdus veiksmas kiekviename ekrane, be laikmačio ar taškų, be signalų už klaidas, be reklamų ir su paprastu būdu sustabdyti ar išeiti. Jis turėtų atrodyti sukurtas suaugusiesiems ir būti lengvai prisijungiamas antram asmeniui."
+  - q: "Ar Golden Moments teigia, kad padeda atminčiai?"
+    a: "Ne. Golden Moments siūlo paprastą bendrą veiklą malonumui ir pokalbiams. Ji nediagnozuoja, negydo, neužkerta kelio demencijai ir jos nematuoja, ir neteikiame jokių teiginių apie atmintį ar mąstymą."
+  - q: "Ar reikia mokėti už demencijos programėlę?"
+    a: "Pirmiausia išbandykite nemokamas galimybes ar nemokamus bandomuosius laikotarpius ir kelias savaites stebėkite, kaip žmogus reaguoja. Mokėjimas už programėlę jos nepadaro veiksmingesnės. Prieš prenumeruodami pasitikrinkite, kaip atsisakyti."
 sources:
   - title: "Lumosity to Pay $2 Million to Settle FTC Deceptive Advertising Charges for Its \"Brain Training\" Program"
     publisher: "Federal Trade Commission"
@@ -60,120 +60,179 @@ related: [caregiving/tablets-and-screens, caregiving/how-to-play-together, brain
 health: false
 ---
 
-App stores are full of games labeled for seniors, memory or dementia. Some are thoughtfully made. Others add medical-sounding promises, timers that turn play into a test, or ads and data collection. This page gives you a way to judge any app yourself. We do not rank or review other products.
+Programėlių parduotuvėse pilna žaidimų, pažymėtų kaip skirtų senjorams, atminčiai ar demencijai.
+Kai kurie iš jų sukurti apgalvotai. Kiti prideda medicininiais atrodančių pažadų, laikmačių,
+kurie žaidimą paverčia testu, arba reklamų ir duomenų rinkimo. Šiame puslapyje pateikiamas
+būdas patiems įvertinti bet kurią programėlę. Kitų produktų nereitinguojame ir nevertiname.
 
-## What should I decide before choosing a dementia app?
+## Ką nuspręsti prieš renkantis demencijos programėlę?
 
-Decide what you want the app to do. "A game for Mom" could mean very different things, and the best choice for one goal is often a poor choice for another.
+Nuspręskite, ko norite iš programėlės. „Žaidimas mamai“ gali reikšti labai skirtingus dalykus, ir
+geriausias pasirinkimas vienam tikslui dažnai yra prastas kitam.
 
-| Goal | What it looks like | What to look for |
+| Tikslas | Kaip tai atrodo | Ko ieškoti |
 | --- | --- | --- |
-| Gentle stimulation | Matching, sorting, simple puzzles, word games | Adjustable difficulty, pictures that stay visible, no time pressure |
-| Reminiscence | Old photos, familiar sayings, music from their youth | Your own photos, open prompts, no quiz questions |
-| Calm | Slow visuals, quiet sounds, breathing, nature | Easy to start and stop, nothing flashing, no surprises |
-| Connection | Playing or talking together, in person or by video | Designed for two people, prompts for conversation |
+| Švelni stimuliacija | Atitikimas, rūšiavimas, paprastos dėlionės, žodžių žaidimai | Pritaikomas sunkumas, paveikslėliai, kurie lieka matomi, be laiko spaudimo |
+| Prisiminimai | Senos nuotraukos, pažįstami posakiai, muzika iš jaunystės | Jūsų pačių nuotraukos, atviri klausimai, be testo klausimų |
+| Ramybė | Lėti vaizdai, tylūs garsai, kvėpavimas, gamta | Lengva pradėti ir sustabdyti, nieko nemirksi, be netikėtumų |
+| Ryšys | Žaidimas ar pokalbis kartu, akis į akį ar vaizdo skambučiu | Sukurta dviem žmonėms, pokalbio raginimai |
 
-The research on structured "cognitive stimulation" for people with dementia mostly involves group sessions led by trained staff, with discussion, word games, puzzles, music and creative activities. A [Cochrane review](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia) found small benefits on average, varying between studies. That kind of social, varied program is not the same thing as a solo app, so treat any app as one shared activity among many.
+Tyrimai apie struktūruotą „kognityvinę stimuliaciją“ demencija sergantiems žmonėms dažniausiai
+apima grupinius užsiėmimus, kuriuos veda apmokyti darbuotojai, su diskusijomis, žodžių žaidimais,
+dėlionėmis, muzika ir kūrybine veikla. [Cochrane apžvalga](https://www.cochrane.org/evidence/CD005562_can-cognitive-stimulation-benefit-people-dementia)
+rado nedidelę naudą vidutiniškai, o skirtingi tyrimai rodė skirtingus rezultatus. Tokia socialinė,
+įvairi programa nėra tas pats, kas vienas programėlės žaidimas, todėl bet kurią programėlę
+vertinkite kaip vieną bendrą veiklą tarp daugelio.
 
-## How do I know if an app fits the person's abilities?
+## Kaip sužinoti, ar programėlė tinka žmogaus gebėjimams?
 
-Watch how they respond, rather than going by a diagnosis or stage label. Two people at the "same stage" can differ greatly in eyesight, hearing, hand control, language and comfort with screens. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests keeping past interests and current abilities in mind and focusing on enjoyment rather than achievement.
+Stebėkite, kaip jis reaguoja, o ne remkitės diagnoze ar etapo etikete. Du žmonės „to paties etapo“
+gali labai skirtis regėjimu, klausa, rankų valdymu, kalba ir patogumu naudotis ekranais.
+[Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/activities) pataria
+atsižvelgti į ankstesnius pomėgius ir dabartinius gebėjimus ir orientuotis į malonumą, o ne į pasiekimus.
 
-Signs of a good fit:
+Geros tinkamumo žymės:
 
-- they start or join in without much coaxing;
-- they smile, comment or tell a story;
-- mistakes do not seem to bother them;
-- they are happy to stop when it is time.
+- pradeda ar prisijungia be didelio įkalbinėjimo;
+- šypsosi, komentuoja ar pasakoja istoriją;
+- klaidos, atrodo, jo neerzina;
+- noriai sustoja, kai laikas baigti.
 
-Signs it is a poor fit:
+Netinkamumo žymės:
 
-- repeated "I can't" or "this is silly";
-- confusion about what to tap;
-- frustration, embarrassment or pushing the device away;
-- it only works if you do almost everything.
+- kartojasi „aš nemoku“ ar „tai kvaila“;
+- painiava, ką paliesti;
+- nusivylimas, gėda ar įrenginio atstūmimas;
+- veikia tik tada, kai beveik viską padarote patys.
 
-Distress is a signal, not something to push through. See [what to do when they say no](/caregiving/when-they-say-no/). For stage-based ideas beyond apps, see [early-stage](/activities/early-stage/) and [late-stage](/activities/late-stage/) activities.
+Nerimas yra signalas, o ne kažkas, per ką reikia prasibrauti. Žr. [ką daryti, kai jie sako ne](/caregiving/when-they-say-no/).
+Veiklos idėjų, pagrįstų etapais, ne tik programėlėms, rasite [ankstyvojo](/activities/early-stage/) ir
+[vėlyvojo](/activities/late-stage/) etapo veiklos puslapiuose.
 
-## What design features should I look for or avoid?
+## Kokių dizaino savybių ieškoti ar vengti?
 
-Look for calm, simple, adult design, and avoid anything that adds pressure.
+Ieškokite ramaus, paprasto, suaugusiesiems skirto dizaino ir venkite visko, kas prideda spaudimo.
 
-| Look for | Be wary of |
+| Ieškokite | Būkite atsargūs dėl |
 | --- | --- |
-| Large pictures and text, high contrast | Small icons, cluttered screens |
-| One clear action per screen | Many buttons, menus, or multi-step instructions |
-| No timer, or a timer you can turn off | Countdowns, speed bonuses, "beat your time" |
-| No score, or gentle feedback | Points, lives, streaks, rankings, "brain age" |
-| Mistakes handled quietly | Buzzers, red X marks, "Wrong" messages |
-| Adult, real-world pictures | Cartoonish or childish themes |
-| Works offline, no account needed to start | Must sign up, log in or download content first |
-| Easy pause and stop | Pop-ups asking to keep playing or rate the app |
-| No ads, clear one-time or subscription price | Ads, loot boxes, frequent purchase prompts |
-| Easy for a second person to join | Single-player only, competitive design |
+| Dideli paveikslėliai ir tekstas, didelis kontrastas | Maži piktogramos, perkrauti ekranai |
+| Vienas aiškus veiksmas kiekviename ekrane | Daug mygtukų, meniu ar daugiapakopių instrukcijų |
+| Be laikmačio arba laikmatį galima išjungti | Atgalinė skaičiavimas, greičio premijos, „pagerink savo rezultatą“ |
+| Be taškų arba švelnus grįžtamasis ryšys | Taškai, gyvybės, serijos, reitingai, „smegenų amžius“ |
+| Klaidos tvarkomos tyliai | Signalai, raudoni X ženklai, „Neteisingai“ pranešimai |
+| Suaugusiųjų, realaus pasaulio paveikslėliai | Karikatūrinės ar vaikiškos temos |
+| Veikia neprisijungus, pradėti nereikia paskyros | Reikia registruotis, prisijungti ar pirmiausia atsisiųsti turinį |
+| Lengvas sustabdymas ir išėjimas | Iškylantys langai, prašantys tęsti žaidimą ar įvertinti programėlę |
+| Be reklamų, aiški vienkartinė ar prenumeratos kaina | Reklamos, atsitiktinių pirkinių dėžės, dažni pirkimo raginimai |
+| Lengva prisijungti antram asmeniui | Tik vienam žaidėjui, konkurencinis dizainas |
 
-Ads and purchase prompts are easy to tap by accident.
+Reklamos ir pirkimo raginimai lengvai paliečiami atsitiktinai.
 
-## How do I check an app's privacy?
+## Kaip patikrinti programėlės privatumą?
 
-Check what the app collects, who it shares with, and whether you can delete it. Before you install:
+Patikrinkite, ką programėlė renka, su kuo dalijasi ir ar galite ją ištrinti. Prieš įdiegdami:
 
-1. **Read the store's privacy summary.** Google Play's [Data safety section](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid) and the App Store's [privacy information section](https://support.apple.com/en-us/102399) list the data types an app may collect and share. Both companies note that developers provide this information themselves, so it is a starting point, not an audit.
-2. **Ask whether it needs an account.** If an app only shows pictures or simple games, there may be no reason for it to know your name, email or birthday.
-3. **Check permissions.** Does a matching game really need location, contacts, microphone or your whole photo library? Turn off anything it does not need.
-4. **Look for ads and analytics.** Advertising and tracking tools can send data about how the app is used to other companies.
-5. **Find out where photos go.** If you add family photos, do they stay on the device or upload to a server? Can you remove them?
-6. **Check deletion.** Look in the privacy policy or data summary for how to delete data and the account. An app that says data cannot be deleted deserves extra caution, especially if it holds photos or health details.
-7. **Read the privacy policy** for plain answers on what is collected, why, for how long, and who it is shared with.
+1. **Perskaitykite parduotuvės privatumo santrauką.** Google Play [Duomenų saugos skyrius](https://support.google.com/googleplay/answer/11416267?hl=en&co=GENIE.Platform%3DAndroid)
+   ir App Store [privatumo informacijos skyrius](https://support.apple.com/en-us/102399) nurodo duomenų
+   tipus, kuriuos programėlė gali rinkti ir dalytis. Abi bendrovės pažymi, kad šią informaciją pateikia
+   kūrėjai patys, todėl tai yra pradžios taškas, o ne auditas.
+2. **Klauskite, ar reikia paskyros.** Jei programėlė rodo tik paveikslėlius ar paprastus žaidimus, gali
+   nereikėti, kad ji žinotų jūsų vardą, el. paštą ar gimimo datą.
+3. **Patikrinkite leidimus.** Ar atitikimo žaidimui iš tikrųjų reikia vietos, kontaktų, mikrofono ar visos
+   nuotraukų bibliotekos? Išjunkite viską, ko nereikia.
+4. **Ieškokite reklamų ir analitikos.** Reklamos ir stebėjimo įrankiai gali siųsti duomenis apie tai, kaip
+   programėle naudojamasi, kitoms bendrovėms.
+5. **Sužinokite, kur keliauja nuotraukos.** Jei pridedate šeimos nuotraukas, ar jos lieka įrenginyje, ar
+   įkeliamos į serverį? Ar galite jas pašalinti?
+6. **Patikrinkite ištrynimą.** Privatumo politikoje ar duomenų santraukoje ieškokite, kaip ištrinti duomenis
+   ir paskyrą. Programėlė, kuri sako, kad duomenų ištrinti negalima, reikalauja papildomo atsargumo, ypač
+   jei joje laikomos nuotraukos ar sveikatos duomenys.
+7. **Perskaitykite privatumo politiką,** kad aiškiai sužinotumėte, kas renkama, kodėl, kiek laiko ir su kuo
+   dalijamasi.
 
-### Does HIPAA protect information in dementia apps?
+### Ar HIPAA saugo informaciją demencijos programėlėse?
 
-Usually not, which surprises many people. The U.S. Department of Health and Human Services [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that HIPAA applies to health plans, most health care providers, health care clearinghouses and their business associates. In most cases it does not protect data you enter into an app for personal use, unless a covered entity or its business associate provided the app. A "dementia app" from an app store is often outside HIPAA, even if it talks about health.
+Paprastai ne, ir tai daugelį nustemba. JAV Sveikatos ir žmogiškųjų paslaugų departamentas
+[paaiškina](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html),
+kad HIPAA taikoma sveikatos draudimo planams, daugumai sveikatos priežiūros teikėjų, sveikatos
+duomenų tarpininkams ir jų verslo partneriams. Daugeliu atvejų ji nesaugo duomenų, kuriuos įvedate
+į programėlę asmeniniam naudojimui, nebent ją pateikė įpareigotas subjektas ar jo verslo partneris.
+„Demencijos programėlė“ iš programėlių parduotuvės dažnai nepatenka į HIPAA, net jei kalba apie sveikatą.
 
-### What protects health data in apps that HIPAA does not cover?
+### Kas saugo sveikatos duomenis programėlėse, kurių HIPAA neapima?
 
-The Federal Trade Commission's Health Breach Notification Rule covers many of them. In 2024 the FTC [finalized changes](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule) clarifying that the rule applies to health apps and similar technologies not covered by HIPAA. A "breach" includes unauthorized disclosures, not just hacking, and companies must notify affected people and the FTC. That is a safety net after something goes wrong, not a promise that an app collects only what it needs.
+Daugelį jų apima Federalinės prekybos komisijos (FTC) Sveikatos duomenų pažeidimo pranešimo taisyklė.
+2024 m. FTC [patvirtino pakeitimus](https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-finalizes-changes-health-breach-notification-rule),
+kuriais paaiškino, kad taisyklė taikoma sveikatos programėlėms ir panašioms technologijoms, nepatenkančioms
+į HIPAA. „Pažeidimas“ apima neteisėtą duomenų atskleidimą, o ne tik įsilaužimą, o bendrovės privalo
+pranešti paveiktiems žmonėms ir FTC. Tai saugumo tinklas, kai kas nors nutinka, o ne pažadas, kad programėlė
+renka tik tai, ko reikia.
 
-## How should I read claims about research and evidence?
+## Kaip vertinti teiginius apie tyrimus ir įrodymus?
 
-Read evidence claims slowly, and be most skeptical of the biggest promises. Questions to ask:
+Įrodymų teiginius skaitykite lėtai ir labiausiai abejokite didžiausiais pažadais. Klauskite:
 
-- **What exactly was studied?** A study of one training program does not show that every game in an app works the same way.
-- **Who was studied?** Results in healthy older adults may not apply to someone living with dementia.
-- **What was measured?** Getting better at the game itself is different from changes in daily life, conversation, mood or independence.
-- **How strong is the study?** A randomized controlled trial (RCT) compares a group using the app with a group that does not. It is a good design, but one small or short RCT is not proof. Look for several studies, by independent researchers, that agree.
-- **Does it claim to change the disease?** A study showing small improvements on a test is not evidence that an app slows, prevents or treats dementia.
+- **Ką tiksliai tyrė?** Vieno lavinimo programos tyrimas nerodo, kad kiekvienas programėlės žaidimas veikia
+  taip pat.
+- **Ką tyrė?** Rezultatai sveikiems vyresnio amžiaus žmonėms gali netikti žmogui, gyvenančiam su demencija.
+- **Ką matavo?** Geresnis žaidimo įgūdis yra kas kita nei pokyčiai kasdieniame gyvenime, pokalbiuose, nuotaikoje
+  ar savarankiškume.
+- **Koks tyrimas stiprus?** Atsitiktinės atrankos kontroliuojamas tyrimas (RCT) palygina grupę, naudojančią
+  programėlę, su grupe, kuri jos nenaudoja. Tai geras dizainas, bet vienas mažas ar trumpas RCT nėra įrodymas.
+  Ieškokite kelių tyrimų, atliktų nepriklausomų mokslininkų, kurie sutampa.
+- **Ar teigiama, kad keičiama liga?** Tyrimas, rodantis nedidelius pagerėjimus teste, nėra įrodymas, kad
+  programėlė sulėtina, užkerta kelią ar gydo demenciją.
 
-The National Institute on Aging's page on [cognitive health and older adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults) describes a large NIH-funded trial of structured cognitive training, and then warns readers to beware of claims that certain computer and online games can improve memory and thinking. It says there is not yet enough evidence that commercially available brain-training apps have the same impact as the training tested in that trial. You can read more in our guide to [brain games and the evidence](/brain-health/brain-games/) and [what research says about preventing dementia](/brain-health/can-dementia-be-prevented/).
+Nacionalinio senėjimo instituto puslapyje apie [kognityvinę sveikatą ir vyresnio amžiaus žmones](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
+aprašomas didelis NIH finansuotas struktūruoto kognityvinio lavinimo tyrimas, o paskui skaitytojai
+perspėjami saugotis teiginių, kad tam tikri kompiuteriniai ir internetiniai žaidimai gali pagerinti atmintį
+ir mąstymą. Jame sakoma, kad dar nepakanka įrodymų, jog komerciškai prieinamos smegenų lavinimo programėlės
+turi tokį patį poveikį kaip tame tyrime išbandytas lavinimas. Daugiau skaitykite mūsų vadove apie
+[smegenų žaidimus ir įrodymus](/brain-health/brain-games/) bei [ką sako tyrimai apie demencijos prevenciją](/brain-health/can-dementia-be-prevented/).
 
-### What is a public example of a misleading claim?
+### Koks yra viešas klaidinančio teiginio pavyzdys?
 
-In January 2016, the FTC [announced a settlement](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program) with the makers of Lumosity, a "brain training" program. The FTC alleged that the company claimed, without adequate evidence, that its games could delay age-related cognitive decline and protect against mild cognitive impairment, dementia and Alzheimer's disease. The company agreed to pay $2 million and must have competent and reliable scientific evidence before making such claims in future. The case is a useful reminder that marketing language is not evidence.
+2016 m. sausį FTC [paskelbė susitarimą](https://www.ftc.gov/news-events/news/press-releases/2016/01/lumosity-pay-2-million-settle-ftc-deceptive-advertising-charges-its-brain-training-program)
+su „Lumosity“, „smegenų lavinimo“ programos kūrėjais. FTC tvirtino, kad bendrovė be pakankamų įrodymų teigė, jog
+jos žaidimai gali atitolinti su amžiumi susijusį pažintinį nuosmukį ir apsaugoti nuo lengvo pažintinio sutrikimo,
+demencijos ir Alzheimerio ligos. Bendrovė sutiko sumokėti 2 mln. dolerių ir ateityje tokiems teiginiams
+turės turėti patikimų mokslinių įrodymų. Ši byla primena, kad rinkodaros kalba nėra įrodymas.
 
-### Which words are red flags?
+### Kurie žodžiai yra įspėjamieji signalai?
 
-Be cautious when an app or ad says it:
+Būkite atsargūs, kai programėlė ar skelbimas teigia, kad:
 
-- "prevents," "reverses," "stops" or "cures" dementia or Alzheimer's;
-- is "clinically proven" without naming the study, who was in it, and what was measured;
-- gives a "brain age" or a memory score that implies a diagnosis;
-- will "sharpen," "boost" or "train" the brain;
-- uses testimonials as proof.
+- demenciją ar Alzheimerio ligą „užkerta kelią“, „apverčia“, „sustabdo“ ar „išgydo“;
+- yra „klinikiškai įrodyta“, neįvardijant tyrimo, jame dalyvavusių žmonių ir to, ką matavo;
+- pateikia „smegenų amžių“ ar atminties balą, kuris užsimena apie diagnozę;
+- „paaštrins“, „sustiprins“ ar „lavins“ smegenis;
+- naudoja liudijimus kaip įrodymą.
 
-If you are unsure about a claim, ask the person's doctor.
+Jei abejojate dėl teiginio, klauskite žmogaus gydytojo.
 
-## Where does Golden Moments fit?
+## Kur čia Golden Moments?
 
-Golden Moments offers simple shared activities, not a memory test, therapy or medical advice. Our games, such as [Picture Pairs](/games/picture-pairs/), [Conversation Cards](/games/conversation-cards/), [Photo Pairs](/games/photo-pairs/), [Picture Bingo](/games/picture-bingo/) and [Calm Breathing](/games/calm-breathing/), are made for enjoyment and conversation. They do not diagnose, treat, prevent or measure dementia, and we make no claims about memory or thinking.
+Golden Moments siūlo paprastą bendrą veiklą, o ne atminties testą, terapiją ar medicininius patarimus.
+Mūsų žaidimai, pavyzdžiui, [Paveikslėlių poros](/games/picture-pairs/), [Pokalbių kortos](/games/conversation-cards/),
+[Nuotraukų poros](/games/photo-pairs/), [Paveikslėlių bingas](/games/picture-bingo/) ir [Ramus kvėpavimas](/games/calm-breathing/),
+sukurti malonumui ir pokalbiams. Jie nediagnozuoja, negydo, neužkerta kelio demencijai ir jos nematuoja, ir
+neteikiame jokių teiginių apie atmintį ar mąstymą.
 
-We also make a free app, [Golden Moments for iPhone, iPad and Android](/app/). It has gentle picture matching with large tiles, games with family photos you choose and picture packs that work offline, with no account, ads, timer or score. The same checklist applies: its App Store privacy label reads "Data Not Collected", and the [app privacy policy](/app-privacy/) explains where photo copies are kept.
+Taip pat kuriame nemokamą programėlę [Golden Moments iPhone, iPad ir Android įrenginiams](/app/). Joje yra
+švelnus paveikslėlių atitikimas su dideliais langeliais, žaidimai su jūsų pasirinktomis šeimos nuotraukomis ir
+paveikslėlių paketai, veikiantys neprisijungus, be paskyros, reklamų, laikmačio ar taškų. Tas pats kontrolinis
+sąrašas taikomas ir jai: jos App Store privatumo etiketėje nurodyta „Data Not Collected“ (nerenkami duomenys),
+o [programėlės privatumo politika](/app-privacy/) paaiškina, kur laikomos nuotraukų kopijos.
 
-We would rather you judge us than trust us. Use the checklist on this page, read our [privacy page](/privacy/) and [medical disclaimer](/medical-disclaimer/), and stop using anything, including ours, that does not suit the person you care for.
+Geriau, kad mus įvertintumėte patys, o ne pasitikėtumėte mumis. Naudokite šiame puslapyje pateiktą sąrašą,
+perskaitykite mūsų [privatumo puslapį](/privacy/) ir [medicininį atsakomybės apribojimą](/medical-disclaimer/) ir
+nustokite naudoti bet ką, įskaitant mūsų programėlę, jei tai netinka žmogui, kuriuo rūpinatės.
 
-## What is a sensible way to try a new app?
+## Koks protingas būdas išbandyti naują programėlę?
 
-Try it together for a couple of weeks and watch what happens.
+Išbandykite ją kartu kelias savaites ir stebėkite, kas vyksta.
 
-1. **Set it up first** using our [tablet and phone setup guide](/caregiving/tablets-and-screens/), and start at the easiest level.
-2. **Keep sessions short,** notice smiles, conversation and calm, and end on a good moment.
-3. **Drop it if it causes frustration,** however highly rated it is.
+1. **Pirmiausia nustatykite** naudodami mūsų [planšetės ir telefono sąrankos vadovą](/caregiving/tablets-and-screens/),
+   ir pradėkite nuo lengviausio lygio.
+2. **Laikykite sesijas trumpas,** pastebėkite šypsenas, pokalbį ir ramybę ir baikite geru momentu.
+3. **Atsisakykite, jei ji sukelia nusivylimą,** nepaisant to, kiek aukštą įvertinimą ji turi.

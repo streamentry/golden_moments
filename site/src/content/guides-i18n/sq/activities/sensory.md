@@ -1,33 +1,33 @@
 ---
-title: "Sensory Activities for People with Dementia"
-seoTitle: "Sensory Activities for Dementia: Ideas and Safety"
-description: "Sensory activities for people living with dementia, from hand massage to fabric baskets and nature sounds, with clear safety notes on choking, allergies and scents."
+title: "Aktivitete shqisore për personat me demencë"
+seoTitle: "Aktivitete shqisore për demencën: Ide dhe siguria"
+description: "Aktivitete shqisore për demencën, nga masazhi i dorës te shportat me pëlhura dhe tingujt e natyrës, me shënime sigurie për gëlltitjen, alergjitë dhe aromat."
 section: activities
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Sensory activities use touch, smell, taste, sound and sight: a slow hand
-  massage, a basket of soft fabrics, fresh herbs to smell, nature sounds, or
-  watching birds at a window. They suit every stage and are especially
-  valuable later on. Check first for choking risks, allergies, skin problems
-  and scent sensitivity, offer one thing at a time, and stop if the person
-  seems uneasy.
+  Aktivitetet shqisore përdorin prekjen, erën, shijen, zërin dhe shikimin: një
+  masazh i butë dore, një shportë me pëlhura të buta, bimë aromatike për t'i
+  erëzuar, tinguj natyre ose shikimi i zogjve nga dritarja. Ato i përshtaten çdo
+  faze dhe janë veçanërisht të vlefshme më vonë. Kontrolloni së pari rreziqet e
+  mbytjes, alergjitë, problemet e lëkurës dhe ndjeshmërinë ndaj aromave, ofroni
+  një gjë në të njëjtën kohë, dhe ndaloni nëse personi duket i shqetësuar.
 keyPoints:
-  - "Sensory activities need no right answers, which makes them work at every stage, including in bed or a chair."
-  - "Offer one sense at a time in a quiet room, and ask or announce before touching."
-  - "Avoid small objects and anything that looks or smells like food but is not, since people may put things in their mouths."
-  - "Check for allergies, skin problems and breathing issues before using lotions, scents or foods."
-  - "There is no convincing evidence that aromatherapy helps dementia symptoms; use scents only for simple enjoyment, if at all."
+  - "Aktivitetet shqisore nuk kanë përgjigje të sakta, prandaj funksionojnë në çdo fazë, edhe në shtrat ose në karrige."
+  - "Ofroni një shqisë në një herë, në një dhomë të qetë, dhe pyesni ose njoftoni para se të prekni."
+  - "Shmangni sendet e vogla dhe çdo gjë që duket ose ka erë si ushqim por nuk është ushqim, sepse njerëzit mund t'i vendosin gjërat në gojë."
+  - "Kontrolloni alergjitë, problemet e lëkurës dhe të frymëmarrjes para se të përdorni losione, aroma ose ushqime."
+  - "Nuk ka prova bindëse që aromaterapia ndihmon simptomat e demencës; përdoreni erërat vetëm për kënaqësi të thjeshtë, nëse fare."
 faq:
-  - q: "What are good sensory activities for someone with dementia?"
-    a: "Simple ideas include a slow hand massage with lotion, handling soft fabrics, smelling fresh herbs or coffee, listening to favorite music or nature sounds, watching birds or a fish tank, and tasting a favorite food in a safe texture. Offer one thing at a time and watch how the person responds."
-  - q: "Are sensory activities safe for someone who puts things in their mouth?"
-    a: "They can be, with care. Use only large items that cannot be swallowed, skip anything small or breakable, and keep lotions, soaps and scented products out of reach afterward, because they can look or smell like food. Stay with the person throughout."
-  - q: "Does aromatherapy help with dementia?"
-    a: "A Cochrane review found no convincing evidence that aromatherapy helps people with dementia, though the studies were small and inconsistent. If the person enjoys a mild, familiar scent, that is fine, but avoid strong essential oils, especially around breathing problems or allergies."
-  - q: "What is a fidget or activity apron?"
-    a: "It is a piece of fabric, apron or lap blanket with things to handle sewn firmly onto it, such as large buttons, zippers, ribbons and textured patches. It gives busy hands something to explore. Check it often for anything loose that could be pulled off."
+  - q: "Cilat janë aktivitete të mira shqisore për dikë me demencë?"
+    a: "Ide të thjeshta përfshijnë një masazh të ngadaltë dore me losion, prekjen e pëlhurave të buta, erëzimin e bimëve aromatike ose kafesë të freskët, dëgjimin e muzikës së preferuar ose tingujve të natyrës, shikimin e zogjve ose të një akuariumi, dhe shijimin e një ushqimi të preferuar me një teksturë të sigurt. Ofroni një gjë në një kohë dhe vëzhgoni si reagon personi."
+  - q: "A janë të sigurta aktivitetet shqisore për dikë që i vendos gjërat në gojë?"
+    a: "Mund të jenë, me kujdes. Përdorni vetëm sende të mëdha që nuk mund të gëlltiten, shmangni çdo gjë të vogël ose të thyeshme, dhe mbani larg losionet, sapunët dhe produktet me aromë pas përdorimit, sepse mund të duken ose të kenë erë si ushqim. Qëndroni me personin gjatë gjithë kohës."
+  - q: "A ndihmon aromaterapia me demencën?"
+    a: "Një rishikim Cochrane nuk gjeti prova bindëse që aromaterapia ndihmon personat me demencë, megjithëse studimet ishin të vogla dhe të pakonsistentë. Nëse personi pëlqen një aromë të lehtë dhe të njohur, kjo është në rregull, por shmangni vajrat esencialë të fortë, sidomos pranë problemeve të frymëmarrjes ose alergjive."
+  - q: "Çfarë është një përparëse aktiviteti?"
+    a: "Është një copë pëlhure, përparëse ose batanije për në prehër me sende për t'u prekur të qepura fort mbi të, si butona të mëdhenj, zip, shirita dhe arna me tekstura. U jep duarve të zëna diçka për të eksploruar. Kontrolloni shpesh për çdo gjë të lirshme që mund të hiqet."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,87 +48,87 @@ sources:
     publisher: "Alzheimer's Foundation of America"
     url: "https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/"
 relatedGames: [calm-breathing, coloring, sort-together]
-related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, caregiving/late-day-restlessness]
+related: [activities/late-stage, activities/music, activities/outdoor-and-gardening, activities/ideas, activities/care-home-groups, activities/art-projects, caregiving/late-day-restlessness]
 health: false
 ---
 
-Sensory activities use the five senses: touch, smell, taste, sound and sight. They need no memory, no steps and no right answers, so they can work at any stage. They matter most later on. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that in the late stage the world is experienced mainly through the senses, and that you can show care through touch, sound, sight, taste and smell. A few safety checks make these activities relaxing for everyone.
+Aktivitetet shqisore përdorin pesë shqisat: prekjen, erën, shijen, zërin dhe shikimin. Nuk kanë nevojë për kujtesë, hapa ose përgjigje të sakta, prandaj mund të funksionojnë në çdo fazë. Janë më të rëndësishme më vonë. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) vëren se në fazën e vonë bota përjetohet kryesisht përmes shqisave, dhe se mund të tregoni kujdes përmes prekjes, zërit, shikimit, shijes dhe erës. Disa kontrolle sigurie i bëjnë këto aktivitete relaksuese për të gjithë.
 
-## What are sensory activities for dementia?
+## Çfarë janë aktivitetet shqisore për demencën?
 
-Sensory activities are simple experiences built around one sense at a time, like feeling fabric, smelling herbs or listening to rain. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) says later-stage activities often need to focus on the senses, and mentions music, objects to touch and handle, and hand massage. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage may have a strong need to hold something close for comfort.
+Aktivitetet shqisore janë përvoja të thjeshta të ndërtuara rreth një shqisë në një kohë, si ndjenja e pëlhurës, erëzimi i bimëve ose dëgjimi i shiut. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) thotë se aktivitetet e fazës së vonë shpesh duhet të përqendrohen te shqisat, dhe përmend muzikën, objektet për t'u prekur dhe për t'u manipuluar, dhe masazhin e dorës. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) vëren se personat në fazën e vonë mund të kenë nevojë të fortë për të mbajtur diçka afër për ngushëllim.
 
-## Sensory ideas, sense by sense
+## Ide shqisore, shqisë për shqisë
 
-### Touch
+### Prekja
 
-- **Hand massage.** Warm a little lotion in your hands and stroke slowly from wrist to fingertips. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) mentions massaging with unscented lotion for comfort.
-- **Fabric basket.** Large squares of velvet, corduroy, fleece, satin and wool to stroke, fold and talk about.
-- **Warm washcloth.** A warm, damp cloth for the hands on a cold day. Test the temperature on your own wrist first.
-- **Activity apron or lap blanket.** Large buttons, zippers, ribbons and textured patches sewn on firmly.
-- **Folding and smoothing.** A basket of clean washcloths or napkins to fold, stack and refold.
-- **Something soft to hold.** A fleece throw, a cushion or a realistic soft animal, offered simply, never as a toy.
+- **Masazh dore.** Ngrohni pak losion në duart tuaja dhe përhapeni ngadalë nga kyçi deri te gishtat. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) përmend masazhin me losion pa aromë për ngushëllim.
+- **Shportë me pëlhura.** Katrorë të mëdhenj kadifeje, velloi, fanelle, satene dhe leshi për t'u përkëdhelur, palosur dhe biseduar për to.
+- **Leckë e ngrohtë.** Një leckë e lagur dhe e ngrohtë për duart në një ditë të ftohtë. Provoni temperaturën në brendësi të kyçit tuaj së pari.
+- **Përparëse aktiviteti ose batanije për prehër.** Butona të mëdhenj, zip, shirita dhe arna me tekstura të qepura fort.
+- **Palosja dhe lëmimi.** Një shportë me leckë ose pecetë të pastra për t'i palosur, grumbulluar dhe palosur sërish.
+- **Diçka e butë për të mbajtur.** Një batanije velloi, një jastëk ose një kafshë e butë realiste, e ofruar thjesht, kurrë si lodër.
 
-### Smell
+### Era
 
-- **Fresh herbs.** Rub mint, rosemary, basil or lavender leaves between your fingers and pass them over.
-- **Kitchen smells.** Coffee brewing, bread toasting, cinnamon or an orange being peeled nearby.
-- **Flowers.** Bring in a few fresh blooms from the garden or the grocery store.
-- **A familiar product.** The soap or lotion they always used, if their skin tolerates it.
+- **Bimë aromatike.** Fërkoni gjethe mente, rozmarine, borzilok ose livandër midis gishtave dhe kaloni pranë.
+- **Aromat e kuzhinës.** Kafe që po bëhet, bukë që pjekët, kanellë ose një portokall që qërohet afër.
+- **Lule.** Sillni disa lule të freskëta nga kopshti ose dyqani ushqimor.
+- **Një produkt i njohur.** Sapuni ose losioni që përdornin gjithmonë, nëse lëkura e tyre e toleron.
 
-### Taste
+### Shija
 
-- **A favorite flavor.** A small spoonful of something they love, such as applesauce, pudding or ice cream, in a texture they can manage safely.
-- **Help with baking.** Tasting fruit or a little frosting while you bake together.
-- **Seasonal treats.** Watermelon in summer, warm cider in fall, served at a safe temperature.
+- **Një shije e preferuar.** Një lugë e vogël me diçka që e duan, si pure molle, pudingë ose akullore, në një teksturë që mund ta trajtojnë në mënyrë të sigurt.
+- **Ndihmë me pjekjen.** Shijoni fruta ose pak glazurë ndërsa pjekni bashkë.
+- **Ëmbëlsira sezonale.** Shalqi në verë, cider i ngrohtë në vjeshtë, i shërbyer në një temperaturë të sigurt.
 
-### Sound
+### Zëri
 
-- **Favorite music.** Familiar songs at a gentle volume; see [music activities](/activities/music/).
-- **Nature sounds.** Rain, waves or birdsong. The NIA notes that music, white noise and nature sounds seem to relax some people.
-- **Your voice.** Reading aloud, humming, or telling a story.
-- **Simple instruments.** A hand drum, shaker or bell to play along with music.
+- **Muzika e preferuar.** Këngë të njohura me volum të butë; shihni [aktivitetet me muzikë](/activities/music/).
+- **Tinguj natyre.** Shi, valë ose cicërima zogjsh. NIA vëren se muzika, zhurma e bardhë dhe tingujt e natyrës duket se qetësojnë disa njerëz.
+- **Zëri juaj.** Leximi me zë, nynëzimi ose tregimi i një historie.
+- **Instrumente të thjeshta.** Një daulle dore, një shaker ose një zile për t'u luajtur bashkë me muzikë.
 
-### Sight
+### Shikimi
 
-- **Window watching.** A bird feeder outside the window, children walking home, or snow falling.
-- **A fish tank or slow video.** Gentle movement without loud sound.
-- **Large photos.** One clear picture at a time, held at eye level.
-- **Color and pattern.** Sorting bright fabric scraps, flowers or colored napkins, or a simple coloring page from our [coloring](/games/coloring/) set.
-- **Outdoors.** The NHS suggests sensory gardens with scented plants, textures and water features. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+- **Vështrim nga dritarja.** Një ushqyes zogjsh jashtë dritares, fëmijë që kthehen nga shkolla, ose bora që bie.
+- **Akuarium ose video e ngadaltë.** Lëvizje e butë pa zhurmë të fortë.
+- **Foto të mëdha.** Një figurë e qartë në një kohë, e mbajtur në nivelin e syve.
+- **Ngjyra dhe model.** Renditja e copave me pëlhurë të ndritshme, lulesh ose pecetash me ngjyra, ose një faqe ngjyrosjeje nga [ngjyrosja](/games/coloring/) jonë.
+- **Jashtë.** NHS sugjeron kopshte shqisore me bimë aromatike, tekstura dhe elemente uji. Shihni [aktivitetet në natyrë dhe kopshtari](/activities/outdoor-and-gardening/).
 
-## How to make a sensory box
+## Si të bëni një kuti shqisore
 
-1. **Choose a theme** linked to the person's life: the beach, the garden, the kitchen, the workshop, sewing.
-2. **Pick five or six large, safe items,** such as a big seashell, a wooden spoon, a soft scarf, a sachet of dried lavender sewn shut, or a smooth wooden block.
-3. **Check every item** for small parts, sharp edges, loose threads and anything breakable.
-4. **Bring out one item at a time.** Hand it over, describe it, and let the person explore.
-5. **Put the box away afterward** so it stays special and items are checked again before next time.
+1. **Zgjidhni një temë** të lidhur me jetën e personit: plazhi, kopshti, kuzhina, punishtja, qepja.
+2. **Zgjidhni pesë ose gjashtë sende** të mëdha dhe të sigurta, si një guaskë e madhe deti, një lugë druri, një shall i butë, një thes me livandër të thatë të mbyllur, ose një bllok druri i lëmuar.
+3. **Kontrolloni çdo sende** për pjesë të vogla, cepa të mprehtë, fije të lirshme dhe çdo gjë të thyeshme.
+4. **Nxirrni një sende në një kohë.** Jepini, përshkruajeni dhe lëreni personin të eksplorojë.
+5. **Vendoseni kutinë mënjanë pas përdorimit,** që të mbetet e veçantë dhe sendet të kontrollohen sërish para herës tjetër.
 
-## Safety first
+## Siguria para së gjithash
 
-Sensory activities are gentle, but a few risks matter. Some people living with dementia mistake non-food items for food, and swallowing can become harder over time; the NIA warns that late-stage swallowing problems raise the risk of choking.
+Aktivitetet shqisore janë të buta, por disa rreziqe kanë rëndësi. Disa njerëz me demencë mund ta ngatërrojnë një gjë jo-ushqim me ushqim, dhe gëlltitja mund të bëhet më e vështirë me kohën; NIA paralajmëron se problemet e gëlltitjes në fazën e vonë rrisin rrezikun e mbytjes.
 
-| Risk | What to do |
+| Rreziku | Çfarë të bëni |
 | --- | --- |
-| Choking | Use only items too large to swallow. No buttons, beads, coins, marbles or small toys loose in a box. Offer food only in textures the care team says are safe. |
-| Things that look like food | The NIA advises locking up lotions, soaps, shampoos and perfume, which may look or smell like food, and removing artificial fruit. Put sensory products away after use. |
-| Allergies | Check for allergies to nuts, latex, wool, plants or fragrances before you start. |
-| Strong scents | Avoid strong perfumes and essential oils, especially with asthma or other breathing problems. Mild, natural smells are safer. |
-| Skin | Check for sore, broken or fragile skin before massage. Use gentle pressure and stop if they wince. |
-| Temperature | Test warm cloths and drinks on your own wrist first. |
-| Sharp or toxic items | No sharp tools, glass or toxic craft supplies. |
+| Mbytja | Përdorni vetëm sende shumë të mëdha për t'u gëlltitur. Asnjë buton, rruaza, monedha, canica ose lodra të vogla të lira në një kuti. Ofroni ushqim vetëm në tekstura që ekipi i kujdesit thotë se janë të sigurta. |
+| Gjëra që duken si ushqim | NIA këshillon mbylljen e losioneve, sapunëve, shampove dhe parfumit, që mund të duken ose të kenë erë si ushqim, dhe heqjen e frutave artificialë. Vendosni produktet shqisore larg pas përdorimit. |
+| Alergjitë | Kontrolloni për alergji ndaj arrave, lateksit, leshit, bimëve ose aromave përpara se të filloni. |
+| Aroma të forta | Shmangni parfume të forta dhe vajra esencialë, sidomos me astmë ose probleme të tjera frymëmarrjeje. Aromat e buta dhe natyrale janë më të sigurta. |
+| Lëkura | Kontrolloni për lëkurë të dhimbshme, të plasur ose të brishtë përpara masazhit. Përdorni presion të butë dhe ndaloni nëse personi tkurret. |
+| Temperatura | Provoni leckat dhe pijet e ngrohta në brendësi të kyçit tuaj së pari. |
+| Vegla të mprehta ose toksike | Asnjë mjet i mprehtë, qelq ose materiale toksike për artizanat. |
 
-## Does aromatherapy help?
+## A ndihmon aromaterapia?
 
-Probably not in any measurable way. A [Cochrane review of aromatherapy for dementia](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) looked at 13 studies with 708 people, all in care homes, and found no convincing evidence of benefit. The studies were small, results disagreed, and side effects were poorly reported. If the person enjoys a mild, familiar smell, like lavender from the garden, that is a fine reason to share it. It is not a treatment.
+Ndoshta jo në ndonjë mënyrë të matshme. Një [rishikim Cochrane i aromaterapisë për demencën](https://www.cochrane.org/evidence/CD003150_aromatherapy-dementia) shqyrtoi 13 studime me 708 persona, të gjitha në shtëpi kujdesi, dhe nuk gjeti prova bindëse për dobi. Studimet ishin të vogla, rezultatet ndryshonin dhe efektet anësore ishin raportuar keq. Nëse personi pëlqen një erë të lehtë dhe të njohur, si livandra nga kopshti, kjo është një arsye e mirë për ta ndarë. Nuk është trajtim.
 
-## How to offer a sensory activity
+## Si t'i ofroni një aktiviteti shqisor
 
-- **Choose a quiet moment** and turn off the TV.
-- **Approach from the front,** say their name, and ask or tell them before you touch: "I have some lotion. Would you like a hand rub?"
-- **Offer one thing at a time** so it does not overwhelm.
-- **Watch the response.** A softer face, relaxed hands or a smile are good signs. Pulling away, frowning or restlessness mean stop.
-- **Keep it short.** Five calm minutes is a good session.
+- **Zgjidhni një moment të qetë** dhe fikni televizorin.
+- **Afrohuni nga para,** thirrni emrin dhe pyesni ose njoftoni para se të prekni: „Kam pak losion. Dëshiron një masazh dore?“
+- **Ofroni një gjë në një kohë,** që të mos mbingarkohet.
+- **Vëzhgoni reagimin.** Një fytyrë më e butë, duar të relaksuara ose një buzëqeshje janë shenja të mira. Tërheqja, vrenjtja ose shqetësimi do të thotë ndalo.
+- **Mbajeni të shkurtër.** Pesë minuta të qeta janë një seancë e mirë.
 
-A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can be a gentle way to end. For more bedside ideas, see [late-stage activities](/activities/late-stage/), and for evening unease, see [late-day restlessness](/caregiving/late-day-restlessness/).
+Një frymëmarrje e ngadaltë bashkë, si [frymëmarrja e qetë](/games/calm-breathing/), mund të jetë një mënyrë e butë për ta mbyllur. Për ide të tjera pranë shtratit, shihni [aktivitetet e fazës së vonë](/activities/late-stage/), dhe për [shqetësimin e pasdites](/caregiving/late-day-restlessness/) shihni udhëzuesin tonë.

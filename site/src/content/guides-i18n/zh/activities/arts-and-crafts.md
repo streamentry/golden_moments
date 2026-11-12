@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "为成年失智症的人设计的艺术与手工活动"
+seoTitle: "失智症的艺术与手工：成人化，不幼稚"
+description: "适合失智症的人的成人艺术与手工点子，从水彩和拼贴到插花，并提供准备、调整以及重过程胜于成品的建议。"
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  适合成年失智症的人的艺术与手工，应看起来和感觉起来都像成年人会做的事：水彩、杂志拼贴、插花、陶土、简单的卡片制作或成人填色页。摆出几样材料，必要时帮忙完成第一笔，做的时候与对方交谈，并把一起度过的时光本身当作重点。成品是可有可无的。
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "选择看起来成熟的材料和主题，例如水彩纸、真花和杂志图片，而不是亮片、贴纸或卡通练习纸。"
+  - "重视过程：颜色、陶土的触感、彼此的交谈。成品只是额外的收获，而不是目标。"
+  - "如果可以，给作品一个用途，例如送给孙子的卡片，或摆在餐桌上的花饰。"
+  - "帮对方开个头，然后退后一步。一起画出第一笔，往往就已经足够。"
+  - "作品不必一次做完，中途停下总是可以的。"
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "怎样避免手工显得幼稚？"
+    a: "使用真正的美术用品、成人化的主题，并保持尊重的语气。用水彩纸、布料、花朵、杂志照片和细致的填色页，取代亮片和卡通图案。不要像称赞孩子的画那样夸奖作品；像对待成年朋友一样谈论它。"
+  - q: "失智症后期，有哪些艺术活动仍然适合？"
+    a: "简单、以感官为主的项目最适合后期：用大号画笔画大笔触、捏柔软的陶土、把几朵花插进花瓶，或按触感整理布料样本。您可能需要和对方一起开始动作。您一边画画，一边谈论颜色，这也是一种参与。"
+  - q: "如果对方说自己不会画画怎么办？"
+    a: "减轻压力。尝试没有标准答案的项目，例如铺一层水彩、做拼贴或插花。您也可以说自己需要某方面的帮忙，例如挑选制作卡片的颜色，让这件事看起来像是请对方帮个忙，而不是一场测验。"
+  - q: "填色页对成年人来说太幼稚吗？"
+    a: "如果是为成年人设计的，就不会。选择花园、被子、汽车或风景等成人化的题材，并把它当作放松的活动，而不是功课来介绍。我们的填色页可以打印出来，也可以在平板上涂色。"
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+艺术与手工让失智症的人有一种表达自己的方式，而不必依赖找到恰当的词语。阿尔茨海默病协会指出，艺术项目可以带来[成就感和生活目标](https://www.alz.org/help-support/caregiving/daily-care/art-music)，也能提供自我表达的机会，对照顾者和失智症的人同样有益。关键在于让活动保持成人化、简单，并且没有压力。本页提供具体的项目、准备方法，以及随着情况变化如何调整。
 
-## What makes an art activity adult and not childish?
+## 怎样的艺术活动才是成人化而不是幼稚的？
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+成人化的艺术活动使用真正的材料、成年人的题材，以及尊重的语气。阿尔茨海默病协会建议，活动应保持成人水平，避免任何可能显得轻视或像孩子般的内容。
 
-| Feels childish | Feels adult |
+| 显得幼稚 | 显得成人化 |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| 亮片、泡沫贴纸、大眼睛贴纸 | 水彩纸、布料、压干的花朵 |
+| 卡通填色纸 | 花园、被子、汽车或风景的填色页 |
+| 对每一笔都说"做得好" | 真实的交谈："这个蓝色搭配绿色很好看" |
+| 没有用途的手工 | 一张给朋友的卡片、一个餐桌饰品、一份礼物 |
+| 像上课一样念说明 | 一种邀请："您可以帮我一下吗？" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+想想对方自己的品味。曾经热爱针线活的人，可能喜欢摸布料。一位退休工程师可能更喜欢用大零件的模型套件，或者用来分拣五金零件的项目。曾经当过老师的人，可能喜欢制作卡片。
 
-## Why focus on the process, not the product?
+## 为什么要重视过程，而不是成品？
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+因为一起度过的时光才是重点。阿尔茨海默病协会关于[居家活动](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf)的指南建议，应专注于过程，而不是结果。一幅只有蓝色的画仍然是一幅画，一张只有三张图片的拼贴仍然是拼贴。
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+该协会还指出，曾经是专业艺术家的人，可能会因为作品的变化而感到沮丧；而业余爱好者则可能会因为有了新的机会来表达自己而感到高兴。如果对方曾经是熟练的艺术家，可以换一种他没有精通过的媒材，让它变成一种玩耍，而不是一种比较。
 
-## Arts and crafts ideas to try
+## 可以尝试的艺术与手工点子
 
-Each idea includes how to make it simpler if it becomes hard.
+每个点子都附有在变得困难时如何简化的方法。
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **水彩晕染。** 将一张厚的水彩纸弄湿，让对方用大号画笔把颜色滴在纸上。颜色会自行散开，所以没有错误的结果。*简化方式：*只提供两种颜色，或在深色纸上用水画，让湿痕显现出来。
+2. **杂志拼贴。** 事先从杂志上剪下园艺、烹饪、汽车、旅行或对方旧日爱好的图片。让对方挑选图片，并把它们粘贴在卡纸上。*简化方式：*提供四张预先剪好的图片和一支胶棒，由您和对方一起粘贴。
+3. **插花。** 美国阿尔茨海默病基金会建议，[把剪下的花枝和绿叶](https://alzfdn.org/dementia-activity-gardening/)插成简单的当季花饰。使用厚实、稳定的花瓶，并使用已经修剪好的花枝。*简化方式：*一次只把几根花枝放进小杯子里。
+4. **压花卡片。** 把一束花的花朵夹在书页之间压一个星期，然后粘贴在对折的卡纸上。*简化方式：*由您来涂胶，对方负责把花朵压平。
+5. **成人填色页。** 选择线条清楚、题材真实的图案。我们的[填色页](/games/coloring/)可以打印，也可以在屏幕上点选一种颜色，再点选图片的一部分来涂色。*简化方式：*较大的涂色区域，较少的颜色，较粗的笔。
+6. **陶土或软性黏土。** 擀、按和塑造空气干燥型陶土或软性造型黏土。把一片叶子压进陶土，就能做出简单的印痕小方块。*简化方式：*单单捏和擀也是一项完整的活动。注意不要让对方把陶土放进嘴里。
+7. **制作卡片。** 阿尔茨海默病协会建议把它当作一项真正的任务："我们要给一位朋友寄一张慰问卡。您愿意帮忙吗？"预先裁好的卡纸，加上几张花朵或印章贴纸，效果很好。
+8. **剪贴簿。** 把旧照片、明信片或车票的副本一起贴在相簿页上。每贴一张，都聊聊它。关于如何温和地谈论过去，请参阅我们的[回忆指南](/activities/reminiscence/)。
+9. **布料与质感板。** 把灯芯绒、天鹅绒、粗麻布和丝绸的布样粘在硬卡纸上。制作的过程本身就是活动；之后再摸一摸，又是另一种体验。更多点子请参阅我们的[感官活动指南](/activities/sensory/)。
+10. **简单的木工收尾。** 对曾经喜欢木工的人来说，打磨一块光滑的木块，或给一个鸟屋套件上色，可能会让他感到熟悉。拿走尖锐的工具，并在旁边看着。
+11. **随音乐绘画。** 放一张喜欢的唱片，按照音乐的情绪画出形状或颜色。这把许多人喜欢的两种活动结合在一起。请参阅[音乐活动](/activities/music/)。
 
-## How do I set up an art session?
+## 如何准备一次艺术活动？
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **先准备好。** 在邀请对方之前，把所有东西剪好、修好并摆放妥当。等您去找剪刀的时候，那一刻的兴致可能已经消失。
+2. **保持规模小。** 两三种颜色、一支画笔、一张纸。选择太多，可能会让人不知所措。
+3. **保护桌面。** 铺一块塑料桌布或一张旧床单，这样弄脏也不必担心。
+4. **并排坐。** 在对方旁边做您自己的作品。这样感觉是共同完成的，而不是被监督的。
+5. **帮对方开个头。** 阿尔茨海默病协会指出，您可能需要和对方一起开始画笔的动作。一旦开始，许多人就会继续下去。
+6. **边做边聊。** 评论颜色和质感，或让作品引出故事。避免像"这是什么？"这样的考问式问题。
+7. **留出充裕的时间。** 一个项目不必在一次坐下时就做完。
 
-## How do I adapt art as dementia changes?
+## 随着失智症的变化，如何调整艺术活动？
 
-| Stage | What tends to work | What to adjust |
+| 阶段 | 通常有效的做法 | 需要调整的地方 |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| 早期 | 课程、细致的填色、剪贴簿、制作卡片、照着照片画画 | 让对方选择项目；保持社交性 |
+| 中期 | 预先剪好的拼贴、水彩晕染、插花、大面积的填色 | 一次一个步骤；由您负责剪和粘 |
+| 后期 | 大笔触的绘画、捏陶土、触摸布料、看您作画 | 专注于感官；如果对方愿意，轻轻引导他的手 |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+英国国家医疗服务体系（NHS）建议，到了后期，活动通常会被简化，并以感官为重点。看别人作画，并谈论颜色，也是一种真正的参与。更多按阶段划分的点子，请参阅[各阶段的活动](/activities/ideas/)。
 
-## Safety with art supplies
+## 使用美术用品的安全事项
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- 选择无毒的颜料、记号笔和胶棒。
+- 把剪刀、美工刀和热熔胶枪放在对方拿不到的地方。所有的切割都由您事先自己完成。
+- 留意是否有人把陶土、颜料或小物件放进嘴里。
+- 水和花瓶使用稳定、重量较大的容器。
 
-## When should we stop?
+## 什么时候应该停下来？
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+当注意力转移或挫败感出现时，就停下来。阿尔茨海默病协会建议，当注意力持续下降或挫败感增加时，结束或改变活动。把作品放到安全的地方，然后提供一些让人放松的事情。您可以明天再继续，也可以永远不再继续。两种选择都可以。
 
-## Display the work, if the person wants
+## 如果对方愿意，展示作品
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+把一幅画钉在冰箱上，或把拼贴装裱起来，是一种安静地表达尊重的方式。先征求同意。有些人喜欢在墙上看到自己的作品；另一些人则宁愿不要。
 
-## Pair art with our games
+## 把艺术与我们的游戏结合起来
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+在不想准备颜料的日子，平板上的[填色画](/games/coloring/)可以不用弄得乱七八糟。[图片拼图](/games/picture-puzzle/)在交换拼块时，会始终显示完整的图片作为参考。[对话卡片](/games/conversation-cards/)提供开放式的话题，可以从一张图片引出一段故事。它们都没有计时或计分。您也可以从我们的[可打印活动](/activities/printable/)中打印页面。

@@ -1,32 +1,28 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "失智症患者的户外与园艺活动"
+seoTitle: "失智症的园艺与户外活动"
+description: "为与失智症共同生活的人提供的园艺与户外活动点子，包括高架花床、盆栽园艺，以及应对高温、阳光和走失的安全提示。"
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  园艺和户外时光，对与失智症共同生活的人来说，可以是一项平静、熟悉的活动。可以尝试浇水、把香草移植到花盆里、摘除枯花，或在有围栏的院子里短暂散步。使用高架花床或桌面，让人不必跪下；避开锋利的工具和有毒的植物；尽量在一天中较凉爽的时段外出，并且始终陪在对方身边。
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "浇水、播种到花盆里、闻闻香草、摘花等简单的园艺工作，可以站着或坐着完成。"
+  - "高架花床、盆栽和有遮盖的桌子，能让花园接近腰部高度，并降低跌倒的风险。"
+  - "避开锋利的工具、带刺或容易刺激皮肤的植物，以及任何有毒的东西。留意土壤不要被误认为食物。"
+  - "高温对老年人可能很危险。宜在清晨或傍晚外出，带上水和遮阴，一出现不适的迹象就回到室内。"
+  - "许多与失智症共同生活的人在某个阶段会走失。外出时要一直陪着对方，并准备一张近期的照片和身份证明。"
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "失智症患者可以做哪些园艺活动？"
+    a: "浇水、把种子播在小花盆里、闻闻和摸摸香草、摘除枯花、采摘蔬菜、插花和扫一扫小路，都是不错的选择。在室内，窗台上的香草盆或有遮盖的桌上一盘土，也很合适。选择对方以前喜欢、现在又能舒适完成的事情。"
+  - q: "天气炎热时，我该如何保护失智症患者的安全？"
+    a: "把户外时间安排在清晨或傍晚较凉爽的时候，时间保持简短，并经常提供水。选择遮阴、宽边帽、轻便宽松的衣服和防晒霜。老年人更容易中暑，如果出现困惑、头晕或恶心，这些都可能是警讯，请立即进入室内降温。"
+  - q: "如果对方容易走失，我们怎样到户外去？"
+    a: "全程陪在对方身边，选择有围栏、门上有闩锁的院子或花园，并确保对方戴着身份手环或随身携带身份证明。身边备好一张近期的照片。如果对方走失，请尽快联系当地警方或紧急服务，不要等待固定的时间才报告。告诉救援人员对方患有失智症、最后出现的地点，并提供近期照片。"
+  - q: "如果我们没有花园怎么办？"
+    a: "门廊上的几个花盆、窗台上的花箱，或厨房桌上的一盘香草，就已经足够。您也可以去公园、公共花园或社区花园。坐在户外听鸟叫，也算是户外活动。"
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +39,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +50,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+对许多人来说，花园是他们最熟悉的地方之一。挖土、浇水、摘花，用的都是很久以前学会的技能；待在户外，则带来新鲜空气、阳光和鸟鸣。美国国家老龄研究所列出，照顾植物、种植花卉和蔬菜，以及[谈论植物的生长情况](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)，都是阿尔茨海默病患者可能喜欢的活动。本页介绍可以尝试什么、怎样让花园更容易使用，以及如何应对高温、阳光和走失，保障安全。
 
-## What outdoor and gardening activities work well?
+## 哪些户外和园艺活动效果好？
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+最好的工作简单、熟悉，并且可以站着或坐着完成。请根据对方过去喜欢的事情来选择。
 
-### In the garden
+### 在花园里
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **浇水。** 一个小巧轻便的水壶，或一个温和的水管喷头，再加上伸手可及的几个花盆。浇水有清楚的开始与结束，也不容易做错。
+2. **把种子播在花盆里。** 美国阿尔茨海默病基金会建议把种子播在小花盆里，并[看着它们长大](https://alzfdn.org/dementia-activity-gardening/)。豆子、向日葵或豌豆等大颗粒种子更容易拿。
+3. **摘除枯花。** 用手把凋谢的花朵摘掉，是一项温和、有重复节奏的工作。请选择没有刺的植物。
+4. **采摘蔬菜或香草。** 樱桃番茄、豆角和香草都容易摘，也好吃。拿回屋里，在午餐时用上。
+5. **闻闻和摸摸香草。** 迷迭香、薄荷和薰衣草都有浓郁、令人愉快的香气。用手指轻轻揉一片叶子，再让对方闻一闻。
+6. **扫一扫小路或露台。** 如果平衡感稳定，可以在平坦、干燥的地面上用轻便的扫帚扫一扫。
+7. **为鸟食台添食。** 然后一起坐下来，看看谁会来做客。
 
-### Indoors, when going out is not possible
+### 室内，无法外出的时候
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **窗台上的香草园**，种上罗勒、欧芹或细香葱。
+- **在有遮盖的桌上盆栽。** 美国阿尔茨海默病基金会建议使用食堂式的托盘，把土限制在一个地方，并用小杯子来移土。
+- **插花。** 用从院子或超市买来的鲜花和绿叶。
+- **压花。** 从花束中压制的花，之后可以粘在卡片上。更多内容请见[手工艺](/activities/arts-and-crafts/)。
+- **制作薰衣草或玫瑰香囊。** 这是美国阿尔茨海默病基金会的另一个点子，能把花园的香气留在屋内。
 
-### Getting out and about
+### 外出走走
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **短距离散步。** 绕街区、去公园或园艺中心走走，步伐放慢，途中设有可以坐下的地方。
+- **坐在户外。** 在门廊或长椅上听鸟叫、感受微风。这本身就是一项完整的活动。
+- **去公共花园。** 挑一天中较安静的时段前往。NHS 指出，有些地方设有感官花园，有香味的植物、各种质地和水景。
+- **在池塘边喂鸭子或观鸟。** 与水边保持安全的距离。
 
-## How do I make a garden easier to use?
+## 怎样让花园更容易使用？
 
-Bring the garden up to the person, not the other way around.
+把花园带到对方面前，而不是让对方去迁就花园。
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **高架花床或高花盆**，约与腰部同高，就不必跪下或弯腰。
+- **放在桌上的盆栽**，适合使用轮椅或喜欢坐着的人。
+- **宽阔、平整的小路**，没有松动的石块或横放的水管，可以降低绊倒的风险。
+- **沿路设有带扶手、有遮阴的座位**，随时都可以休息。
+- **握柄粗厚、柔软、容易抓握的工具。** 避开修枝剪、刀具和任何锋利的东西。
+- **设有围栏、门上有闩锁的区域**，让对方可以自由探索，而您就在旁边陪伴。
 
-## Which plants should I avoid?
+## 应该避开哪些植物？
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+选择摸起来安全、最好吃下去也安全的植物。美国阿尔茨海默病基金会建议使用不易刺激皮肤的植物，留意过敏反应，并密切注意是否有人可能把土误当成食物。美国国家老龄研究所的居家安全建议包括，把有毒植物移走或锁起来。
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- 避开带刺的玫瑰、仙人掌，以及汁液会刺激皮肤的植物。
+- 种植前，如果对某种植物不确定，请向中毒咨询热线或当地的园艺中心查询。
+- 熟悉的老花草可以带来愉快的感觉。美国阿尔茨海默病基金会提到玫瑰和圣诞仙人掌等例子。请选择无刺品种。
+- 把肥料、杀虫剂和除草剂锁好，不要在对方能够接触到的地方使用。
 
-## How do I stay safe in the heat and sun?
+## 怎样在高温和阳光下保障安全？
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+根据天气来安排户外时间。美国国家老龄研究所说明，老年人更容易出现[与热有关的疾病](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults)，部分原因是身体对温度变化的适应较慢，而且某些药物会影响身体处理热量的方式。
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **早出或晚出。** 温暖的月份避开正午。留意体感温度，而不只是气温。
+- **经常提供水。** 不要等对方说口渴才给。炎热天气中避免饮用酒精和含咖啡因的饮料。
+- **穿着合适。** 浅色、宽松的衣服，宽边帽和太阳镜。
+- **使用防晒霜。** 美国国家老龄研究所建议使用广谱防晒、SPF 15 或更高的产品，并在白天补涂。
+- **选择遮阴处。** 把园艺桌摆在树下或遮阳伞下。
+- **时间保持简短。** 在户外待一小段时间就可能已经足够，尤其是天气炎热的日子。
+- **留意警讯。** 美国国家老龄研究所列出头痛、困惑、头晕或恶心，可能是中暑的迹象。失智症患者未必会告诉您自己不舒服，因此要留意对方的表情和行为。请进入室内，用水和冷毛巾降温；如果没有很快好转，请寻求医疗帮助。中暑的迹象包括昏倒、神志不清，或皮肤干燥发红，这属于医疗紧急情况：请拨打当地的紧急电话。
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+天冷时也要注意。冬天要缩短户外时间，并确保双手和双脚保持温暖干燥。
 
-## How do I handle wandering when we go outside?
+## 外出时怎样应对走失？
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+只要对方在户外，就要一直陪在身边。阿尔茨海默病协会表示，[每10位与失智症共同生活的人中，有六位](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering)至少会走失一次，而且许多人不止一次。这种情况可以出现在任何阶段。
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+美国国家老龄研究所的[走失与迷路建议](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease)包括：
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- 确保对方佩戴写有姓名、地址和您电话号码的身份或医疗手环，或在衣物上做标签。
+- 保存一张对方近期的照片或录像。
+- 让邻居知道对方可能会走失。
+- 用围栏和上锁的门来保护院子。
+- 有走失历史的人，不要让他一个人留在户外。
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+阿尔茨海默病协会还建议，设置室内和室外都可以安全探索的区域，并把活动安排在最容易出现不安的时段。在安全、封闭的花园里散步，很适合应对傍晚的坐立不安。请参阅我们的[傍晚坐立不安](/caregiving/late-day-restlessness/)指南。
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+如果对方走失，请一边检查附近安全的地方，一边尽快联系当地警方或紧急服务。不要等待固定的时间才报告。美国司法部一份2021年关于走失人口调查的[期刊文章](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=)指出，执法机构不应要求固定的等待期，并把类似失智症的症状列为高风险因素。各地的报案程序有所不同。请说明对方最后出现的时间和地点、他身上穿的衣服，并提供近期照片。听从当地救援人员的指示；不要独自去不安全的地方搜寻。
 
-## How do I adapt gardening as things change?
+## 当情况改变时，怎样调整园艺活动？
 
-| If this has become hard | Try this instead |
+| 如果这已经变得困难 | 可以改为尝试 |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| 种满整个花床 | 在一个花盆里种一粒种子 |
+| 除草（分辨杂草和植物） | 浇水，或摘除明显凋谢的花 |
+| 在花园里走来走去 | 坐在桌旁，面前放一盘土和一株植物 |
+| 完全不出门 | 厨房桌上的一盆香草，或开着窗户旁边的座位 |
+| 任何工作 | 一起坐在户外，听一听、看一看 |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+有些人更喜欢看您工作。美国国家老龄研究所指出，如果对方喜欢只是看着，那也很好。
 
-## When should we head inside?
+## 什么时候该回到屋内？
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+当对方看起来疲倦、炎热、寒冷、不安，或已经想结束的时候，就该进屋。一段短暂、愉快的十分钟，好过一个漫长、以痛苦收场的下午。提早结束是很好的结果。
 
-## Bring the garden indoors on screen
+## 把花园的乐趣搬到屏幕上
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+下雨天，[一起分类](/games/sort-together/)中有一个花园篮子，可以用来分类图片；[对话卡片](/games/conversation-cards/)中有开放式的提问，可以引出关于花园的故事。如果您从炎热的户外回来，感到匆忙，[平静呼吸](/games/calm-breathing/)提供一个缓慢、安静的停顿，可以一起分享。如需更多依靠触觉、嗅觉和听觉的点子，请参阅我们的[感官活动指南](/activities/sensory/)。

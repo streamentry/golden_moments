@@ -1,31 +1,32 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Dzirdes zudums un demences risks: ko rāda pētījumi"
+seoTitle: "Dzirdes zudums un demence: ko rāda pētījumi"
+description: "Kāpēc dzirdes zudums ir vadošais demences riska faktors, ko patiesi atklāja ACHIEVE dzirdes aparātu izmēģinājums un kā pārbaudīt dzirdi un vieglāk sarunāties."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  2024. gada Lancet komisija dzirdes zudumu min kā vienu no lielākajiem mainīgiem
+  demences riska faktoriem. ACHIEVE izmēģinājumā dzirdes aparāti kopumā nepalēnināja
+  domāšanas pasliktināšanos, lai gan augstāka riska apakšgrupā pasliktināšanās bija
+  mazāka. Dzirdes aparāti tik un tā palīdz sarunām un ikdienas dzīvei. Pārbaudiet
+  dzirdi, apsveriet recepšu vai bezrecepšu aparātus un pārrunājiet to ar ārstu.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Lancet komisija lēš, ka dzirdes zudums veido aptuveni 7% demences gadījumu pasaulē, un tas ir vienāds ar lielāko daļu starp 14 faktoriem."
+  - "ACHIEVE izmēģinājumā ar 977 vecāka gadagājuma pieaugušajiem dzirdes aparāti kopumā nemainīja trīs gadu domāšanas pasliktināšanos."
+  - "Mazākā, augstāka riska grupā ACHIEVE ietvaros domāšanas pasliktināšanās ar dzirdes aparātiem bija par 48% lēnāka; tas ir jāapstiprina."
+  - "Kopš 17. 2022. gada oktobra ASV pieaugušie ar paredzamu vieglu līdz mērenu dzirdes zudumu var nopirkt FDA reglamentētus dzirdes aparātus bez receptes."
+  - "Neārstēts redzes zudums 2024. gadā tika pievienots kā demences riska faktors, tāpēc arī acu pārbaudes ir svarīgas."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "Vai dzirdes aparāti novērš demenci?"
+    a: "Tas nav pierādīts. ACHIEVE izmēģinājumā trīs gadu laikā netika konstatēta kopēja ietekme uz domāšanas pasliktināšanos, lai gan viena augstāka riska grupa veicās labāk. Dzirdes aparāti joprojām ir vērts apsvērt, jo tie padara sarunas, drošību un ikdienas dzīvi vieglāku."
+  - q: "Kas var nopirkt bezrecepšu dzirdes aparātus?"
+    a: "FDA ļauj pieaugušajiem no 18 gadiem ar paredzamu vieglu līdz mērenu dzirdes zudumu iegādāties bezrecepšu dzirdes aparātus veikalos vai tiešsaistē bez receptes. Tie nav paredzēti smagam dzirdes zudumam. Ikvienam ar auss sāpēm, šķidrumu no auss, reiboni vai pēkšņām dzirdes izmaiņām vispirms jāvēršas pie ārsta."
+  - q: "Vai dzirdes zudums var izskatīties pēc demences?"
+    a: "Dažkārt. Nacionālais novecošanās institūts norāda, ka vecākus cilvēkus, kas labi nedzird, dažkārt kļūdaini uzskata par apjukušiem vai nesadarbīgiem. Dzirdes pārbaude ir saprātīgs solis, ja kāds šķiet atkāpjas vai neuztver to, ko saka."
+  - q: "Cik bieži vecākiem cilvēkiem jāpārbauda acis?"
+    a: "Nacionālais novecošanās institūts iesaka paplašinātas pupilas acu pārbaudi katru gadu vai reizi divos gados pēc 60 gadu vecuma, vai kā to iesaka jūsu acu aprūpes speciālists. Cilvēkiem ar diabētu vai augstu asinsspiedienu parasti nepieciešama pārbaude vismaz reizi gadā."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +51,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Dzirdes zudums vecumā ir izplatīts, un pētnieki to nopietni uztver kā demences riska faktoru. Tas nenozīmē, ka dzirdes aparāti ir pierādīts veids, kā novērst demenci; labākais izmēģinājums līdz šim deva jauktus rezultātus. Šajā lapā izskaidrots, ko rāda pētījumi, kā pārbaudīt dzirdi, kādi ir ASV bezrecepšu dzirdes aparāti un kā padarīt sarunu vieglāku.
 
-## Why does hearing matter for brain health?
+## Kāpēc dzirde ir svarīga smadzeņu veselībai?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Dzirdes zudums ir saistīts ar lielāku demences risku. [2024. gada Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0) lēš, ka tas veido aptuveni 7% demences gadījumu pasaulē. Tādējādi tas ir vienāds ar augstu LDL holesterīnu par lielāko daļu no 14 mainīgajiem riska faktoriem komisijas modelī, saskaņā ar [UCL kopsavilkumu par ziņojumu](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Galvenie komisijas secinājumi:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Augstāks risks ar dzirdes zudumu.** Tās apkopotajā analīzē sešiem augstas kvalitātes pētījumiem cilvēkiem ar dzirdes zudumu bija aptuveni par 37% augstāks demences risks nekā cilvēkiem ar normālu dzirdi.
+- **Jo lielāks zudums, jo lielāks risks.** Pētījumi, kas vērtēja smagumu, atrada, ka risks pieauga, jo dzirde kļuva sliktāka.
+- **Iespējamie iemesli, vēl nepierādīti.** Idejas ietver vientulību un atkāpšanos, depresiju, mazāku smadzeņu stimulāciju un papildu garīgo piepūli, ko prasa klausīšanās.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Dzirdes zudums ir izplatīts. [Nacionālais novecošanās institūts (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) saka, ka tā ir aptuveni trešdaļai vecāku pieaugušo, un iespēja tam pieaug līdz ar vecumu.
 
-## What did the ACHIEVE hearing aid trial find?
+## Ko atklāja ACHIEVE dzirdes aparātu izmēģinājums?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE bija pirmais randomizētais izmēģinājums par dzirdes aparātiem un domāšanas pasliktināšanos. Tā rezultāti bieži tiek nepareizi atspoguļoti, tāpēc šeit ir detaļas no [publicētā izmēģinājuma ziņojuma](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Kas piedalījās:** 977 pieaugušie vecumā no 70 līdz 84 gadiem ar neārstētu dzirdes zudumu un bez būtiskām domāšanas problēmām četrās ASV kopienas vietās.
+- **Ar ko salīdzināja:** puse saņēma dzirdes aparātus un konsultācijas ar audiologu. Otra puse saņēma veselības izglītības programmu par veselīgu novecošanu.
+- **Galvenais rezultāts:** pēc trim gadiem starp abām grupām kopumā **nebija atšķirības** domāšanas pasliktināšanās ziņā.
+- **Apakšgrupas rezultāts:** izmēģinājums savervēja dalībniekus no diviem avotiem. 238 cilvēki nāca no ilgstoša sirds veselības pētījuma (ARIC), un kā grupa viņi bija augstākā domāšanas pasliktināšanās riskā. Šajā grupā pasliktināšanās ar dzirdes aparātiem bija par **48% lēnāka**. No 739 veselajiem kopienas brīvprātīgajiem skaidra ietekme nebija redzama.
 
-How to read this honestly:
+Kā šo godīgi lasīt:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Kopējā atbilde bija, ka ietekmes nav.
+- Apakšgrupas atklājums tika plānots iepriekš, taču tas nāca no sekundāras analīzes mazākai grupai. Tas jāapstiprina citos pētījumos.
+- Dalībnieki zināja, kurā programmā atrodas, kas var ietekmēt rezultātus.
+- Lancet komisija skaidro pierādījumus tā, ka dzirdes aparāti šķiet īpaši noderīgi cilvēkiem, kam ir dzirdes zudums kopā ar citiem demences riska faktoriem.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Galvenā doma: dzirdes aparāti nav pierādīts veids, kā novērst demenci. Tie tomēr palīdz cilvēkiem dzirdēt, piedalīties sarunās un uzturēt saikni, un tas pats par sevi ir pietiekams iemesls tos apsvērt.
 
-## How do I know if hearing should be checked?
+## Kā zināt, vai dzirde jāpārbauda?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA iesaka vērsties pie ārsta, ja jūs vai kāds, par ko rūpējaties:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Grūti saprot cilvēkus pa tālruni
+- Grūti sekot sarunām, kad runā divi vai vairāk cilvēku
+- Bieži lūdz cilvēkus atkārtot
+- Ieslēdz televizoru tik skaļi, ka citi sūdzas
+- Grūti saprast runu, ja fonā ir troksnis
+- Domā, ka citi runā kā pusbalsī
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Sāciet ar ģimenes ārstu, kurš var nosūtīt pie audiologa (dzirdes speciālista) vai ausu, deguna un rīkles ārsta. Ausu sēra uzkrāšanās ir viens biežs dzirdes zuduma cēlonis, ko ārsts var pārbaudīt. **Pēkšņs dzirdes zudums ir medicīnisks neatliekams stāvoklis**, un NIA iesaka nekavējoties vērsties pie ārsta.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Dzirdes zudumu var sajaukt ar apjukumu. NIA norāda, ka vecākus cilvēkus, kas labi nedzird, dažkārt kļūdaini uzskata par apjukušiem, nereaģējošiem vai nesadarbīgiem. Ja kāds, kuru mīlat, šķiet atkāpjas vai neuztver, ko saka, dzirdes pārbaude ir laba agrīna darbība.
 
-## What are over-the-counter hearing aids?
+## Kas ir bezrecepšu dzirdes aparāti?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Kopš 17. 2022. gada oktobra [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ir atļāvusi kategoriju bezrecepšu (OTC) dzirdes aparātiem. Lūk, kā tie salīdzināmi ar recepšu aparātiem:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Īpašība | Bezrecepšu dzirdes aparāti | Recepšu dzirdes aparāti |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Kam paredzēti | Pieaugušajiem no 18 gadiem ar paredzamu vieglu līdz mērenu dzirdes zudumu | Jebkurai dzirdes zuduma pakāpei, jebkuram vecumam |
+| Kur iegādāties | Veikalos vai tiešsaistē, nav vajadzīga pārbaude vai recepte | Caur licencētu dzirdes speciālistu |
+| Pielāgošana | Iestatījumus pats regulējat, bieži ar lietotni | Speciālists tos ieprogrammē jūsu dzirdei |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA norāda, ka bezrecepšu aparāti nav paredzēti smagam vai dziļam dzirdes zudumam. Tā iesaka pirms pirkšanas vērsties pie ārsta, vēlams pie ausu, deguna un rīkles speciālista, ja jums ir:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Auss sāpes vai diskomforts
+- Šķidrums, strutas vai asinis no auss pēdējo sešu mēnešu laikā
+- Pēkšņas vai mainīgas dzirdes izmaiņas
+- Sliktāka dzirde vienā ausī vai zvana sajūta tikai vienā ausī
+- Reibonis vai vertigo
+- Liels ausu sēra daudzums
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Pieradināšanās pie dzirdes aparātiem prasa praksi, tāpēc, kā iesaka FDA, pirms pirkšanas pārbaudiet atgriešanas noteikumus. NIA iesaka pajautāt, vai apdrošināšana sedz daļu izmaksu. Cilvēkam, kas dzīvo ar demenci, audiologs var palīdzēt izlemt, kurš aparāta veids un pielāgojums būs vieglāk lietojams ikdienā.
 
-## How can I talk more easily with someone who has hearing loss?
+## Kā var vieglāk sarunāties ar cilvēku, kam ir dzirdes zudums?
 
-The NIA suggests:
+NIA iesaka:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Pagriezieties pret cilvēku un uzturiet acu kontaktu** labā gaismā, lai viņš varētu redzēt jūsu lūpas un sejas izteiksmi.
+2. **Atrodiet klusu vietu.** Izslēdziet televizoru vai pārvietojieties prom no trokšņa.
+3. **Runājiet mazliet skaļāk, bet nekliedziet.** Runājiet dabiski un saprātīgā tempā.
+4. **Turiet muti brīvu.** Nedodiet ēdienu, nekošļājiet košļeni un nesedziet muti, runājot.
+5. **Pārformulējiet, nevis atkārtojiet,** ja kaut kas netika uztverts.
+6. **Pa vienam cilvēkam vienlaikus.** Grupā apzināti iekļaujiet cilvēku.
+7. **Esiet pacietīgi un jautājiet, kā varat palīdzēt.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Šie padomi labi sader ar mūsu [saziņas padomiem demences gadījumā](/caregiving/communication-tips/). Uz attēliem balstītas aktivitātes arī mazina spiedienu uz klausīšanos. [Attēlu pāri](/games/picture-pairs/) un [Sarunu kartītes](/games/conversation-cards/) balstās uz to, ko redzat, un [Pabeidziet teicienu](/games/finish-the-saying/) ļauj parādīt nobeigumu, nevis to pateikt. Zvaniem skatiet mūsu rokasgrāmatu par [tālruņa un video zvaniem](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Redzei ir arī nozīme
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+2024. gadā Lancet komisija kā jaunu riska faktoru pievienoja neārstētu redzes zudumu. UCL kopsavilkums to novērtē aptuveni 2% demences gadījumu, un komisija iesaka nodrošināt redzes problēmu skrīningu un ārstēšanu visiem. [NIA iesaka](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) paplašinātas pupilas acu pārbaudi katru gadu vai reizi divos gados pēc 60 gadu vecuma un arī pārbaudīt brilļu recepti. Pat nelielas redzes izmaiņas var palielināt kritienu risku.
 
-## Talk with a doctor
+## Runājiet ar ārstu
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Pajautājiet ārstam par dzirdes un redzes pārbaudēm, ja pamanāt kādu no iepriekšminētajām pazīmēm. Meklējiet palīdzību nekavējoties pēkšņam dzirdes zudumam, auss sāpēm vai šķidrumam no auss. Ja rūpējaties par cilvēku, kas dzīvo ar demenci, pastāstiet viņa ārstam par dzirdes vai redzes izmaiņām, jo tās var ietekmēt garastāvokli, drošību un to, cik labi cilvēks var piedalīties.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Šī lapa ir vispārīga informācija, nevis medicīniska konsultācija. Skatiet mūsu [medicīnisko atrunu](/medical-disclaimer/). Lasiet vairāk par [sociālo saskarsmi un smadzeņu veselību](/brain-health/social-connection/).

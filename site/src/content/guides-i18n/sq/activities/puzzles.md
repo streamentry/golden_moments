@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puzzle për personat me demencë: Puzzle me pjesë, me fjalë dhe të lehta online"
+seoTitle: "Puzzle për demencën: Puzzle me pjesë dhe me fjalë"
+description: "Si të zgjidhni puzzle me pjesë, me fjalë dhe online për dikë me demencë: madhësia e pjesëve, figurat, shkronjat e mëdha dhe kur ta thjeshtoni."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Puzzle-i më i mirë për dikë me demencë është ai që mund ta përfundojë me pak
+  ndihmë dhe ta shijojë gjatë rrugës. Zgjidhni puzzle me pak pjesë, më të mëdha
+  dhe me një figurë të qartë për të rritur, mbajeni kapakun e kutisë të dukshëm
+  dhe renditni fillimisht pjesët e skajit. Kërkimet e fjalëve dhe fjalëkryqet
+  funksionojnë më mirë me shkronja të mëdha. Puzzle-t e lehta online me katër
+  pjesë i përshtaten fazës së mesme. Ndaloni ndërsa është argëtuese.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Zgjidhni sipas mënyrës se si shkon, jo sipas një etikete faze: nëse një puzzle duket si punë, provoni një me më pak pjesë."
+  - "Pjesët e mëdha dhe të forta, si dhe një figurë e qartë me zona të dallueshme ngjyrash, janë më të lehta sesa pjesët e vogla dhe qiejt e mëdhenj."
+  - "Figurat për të rritur kanë rëndësi: kopshte, kuzhina, makina, kafshë, jo karikatura."
+  - "Të bëhet bashkë është qëllimi. Jepni pjesë, renditni skajet dhe mbajeni kapakun e kutisë të dukshëm."
+  - "Kërkimet e fjalëve me shkronja të mëdha dhe puzzle-t e lehta online me 4 ose 9 pjesë janë falas në këtë sit."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Sa pjesë puzzle janë më të mirat për dikë me demencë?"
+    a: "Nuk ka një numër të vetëm të saktë. Dikush që ka bërë puzzle me 1.000 pjesë mund ta gëzojë ende disa qindra në fillim, ndërsa të tjerët janë më mirë me një duzinë pjesësh të mëdha. Nëse një puzzle duket si punë ose shkakton frustrim, kaloni te më pak pjesë. Puzzle-i ynë online „Puzzle me foto“ ka 4 ose 9 pjesë."
+  - q: "A janë puzzle-t me pjesë të mira për personat me demencë?"
+    a: "Shumë njerëz i gëzojnë, sidomos nëse i pëlqenin edhe më parë. Një puzzle i jep duarve diçka për të bërë, një qëllim të qartë dhe një figurë për të biseduar. Asnjë puzzle nuk ka treguar se trajton ose ngadalëson demencën, prandaj zgjidhini për kënaqësi dhe shoqëri."
+  - q: "Çfarë mund të bëj kur dikush nuk mund më të përballojë një puzzle me pjesë?"
+    a: "Bëjeni më të vogël dhe bëni më shumë vetë: jepni një pjesë në një kohë, ose lini për ta vetëm disa pjesët e fundit. Provoni një puzzle online me 4 pjesë, renditjen e pjesëve sipas ngjyrës, ose thjesht shikimin e figurës së përfunduar bashkë."
+  - q: "A janë të përshtatshme fjalëkryqet dhe kërkimet e fjalëve për demencën?"
+    a: "Mund të jenë në fazën e hershme, me shkronja të mëdha. Kërkimet me fjalë vetëm horizontale dhe vertikale janë më të lehta sesa ato me fjalë diagonale ose të kthyera mbrapsht. Lexoni shpjegimet ose listën e fjalëve me zë dhe punoni bashkë."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Një puzzle i shtrirë mbi tryezën e ngrënies është një nga aktivitetet më të lehta për t'u ndarë. Mund të uleni bashkë pa pasur nevojë të flisni, figura ju jep diçka për të biseduar, dhe vendosja e pjesës së fundit ndihet mirë. Puzzle-t duhet të ndryshojnë megjithatë, ndërsa ndryshon demenca. Një puzzle që është shumë i vështirë mund ta kthejë një pasdite të qetë në një të frustrueshme. Kjo faqe shpjegon si të zgjidhni dhe përgatitni puzzle me pjesë, me fjalë dhe online të lehta, dhe çfarë të bëni kur ato bëhen të vështira.
 
-## Are puzzles good for people with dementia?
+## A janë puzzle-t të mira për personat me demencë?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Shumë njerëz i gëzojnë, sidomos ata që i bënin më parë. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) i përfshin kërkimet e fjalëve, lojërat me letra dhe lojërat e tryezës midis aktiviteteve për fazën e hershme, dhe [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) përmend lojërat dhe puzzle-t online në tablet si një mënyrë për të qëndruar të angazhuar.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puzzle-t nuk janë trajtim. Asnjë puzzle nuk ka treguar se ngadalëson ose ndalon demencën; udhëzuesi ynë për [lojërat e trurit dhe demencën](/brain-health/brain-games/) shpjegon hulumtimin. Arsyeja për të bërë një puzzle është se mund të jetë një orë e këndshme dhe e përqendruar bashkë. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e përmbledh: fokusohuni te kënaqësia, jo te arritja.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Si zgjidhni një puzzle me pjesë për dikë me demencë?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Shikoni atë që personi pëlqen dhe si shkoi puzzle-i i fundit, jo një etiketë faze.
 
-### Number of pieces
+### Numri i pjesëve
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Nuk ka një numër të saktë. Dikush që ka bërë puzzle gjatë gjithë jetës mund ta gëzojë ende disa qindra pjesë në fillim, ndërsa dikush tjetër është më i lumtur me një duzinë. Një rregull praktik: nëse puzzle-i i fundit ndjehej si punë, zgjidhni një me rreth gjysmën e pjesëve. Nëse u përfundua shpejt dhe donin më shumë, shkoni pak më lart.
 
-### Piece size and feel
+### Madhësia dhe ndjesia e pjesëve
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Pjesët më të mëdha** janë më të lehta për t'u parë, marrë dhe rrotulluar.
+- **Pjesët e trasha dhe të forta** qëndrojnë në vend dhe i rezistojnë rënies.
+- **Sipërfaqja mate** zvogëlon shkëlqimin nën llamba dhe dritare.
+- **Shmangni pjesët e vogla** nëse personi mund t'i vendosë gjërat në gojë, gjë që mund të ndodhë më vonë në demencë.
 
-### The picture
+### Figura
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Tema për të rritur.** Kopshte, kuzhina, makina të vjetra, kafshë të fermës, një qytet bregdetar, një sport i preferuar. Jo karikatura ose asgjë që duket si lodër fëmijësh.
+- **Zona të dallueshme ngjyrash.** Një stallë e kuqe, një varkë blu dhe një fushë e gjelbër janë më të lehta sesa një qiell që mbush gjysmën e puzzle-it.
+- **Të njohura dhe personale.** Një figurë e një vendi ku ka jetuar personi ose një hobi që e donte ju jep shumë për të biseduar. Disa dyqane printimi mund ta kthejnë një foto familjare në puzzle.
 
-## How do you do a puzzle together?
+## Si bëni një puzzle bashkë?
 
-Set it up so the person can get straight to the enjoyable part.
+Përgatiteni që personi të kalojë menjëherë te pjesa e këndshme.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Zgjidhni një vend të mirë.** Dritë e mirë, një karrige me mbështetëse krahësh, dhe një tavolinë ose tabaka ku puzzle-i mund të mbetet.
+2. **Mbajeni kapakun e kutisë** të hapur, ku mund ta shihni të dy.
+3. **Kthejini pjesët me faqen lart** para se të filloni.
+4. **Renditni skajet** vetë, ose bëni kufirin e parë dhe lini qendrën për ta.
+5. **Gruponi pjesët sipas ngjyrës** në disa tabaka ose pjata të cekëta.
+6. **Jepni një pjesë në një kohë** nëse grumbulli është i tepërt. „Mendoj se kjo është pjesë e stallës.“
+7. **Flisni për figurën,** jo për progresin. „Kjo duket si varka që kishte babai im.“
+8. **Lëreni të qëndrojë.** Kthehuni te puzzle-i gjatë disa ditësh. Nuk ka nxitim.
+9. **Ndaloni në një moment të mirë,** pasi të ketë hyrë një pjesë, ndërsa ndihet ende e këndshme.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) këshillon t'i ndihmoni personit të nisë, të vëzhgoni frustrimin dhe ta lini të shikojë vetëm nëse kjo i pëlqen më shumë. Shikimi i juaj teksa vendosni pjesët, dhe treguarja se ku mund të shkojë një pjesë, janë gjithashtu pjesë e pjesëmarrjes.
 
-## Easy online puzzles
+## Puzzle-t e lehta online
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Një puzzle në tablet ka disa avantazhe të vërteta: nuk humbet asnjë pjesë, figurat e mëdha mbushin ekranin, dhe nuk ka tavolinë për t'u pastruar.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Puzzle-i ynë falas [Puzzle me foto](/games/picture-puzzle/) e pret një figurë në 4 ose 9 pjesë. Prekni dy pjesë për t'i ndërruar vendet derisa figura të jetë e plotë. Figura e plotë mbetet në ekran si udhëzues, nuk ka kohëmatës, dhe mund të ndaloni në çdo moment. Katër pjesë i përshtaten shumë njerëzve në fazën e mesme, kur ka dikë pranë.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Për lojë me figura edhe më të thjeshtë, provoni [Gjej të njëjtën](/games/find-the-same/), ku prekni figurën që përputhet me atë në krye, ose [Rendit së bashku](/games/sort-together/), ku figurat shkojnë në shporta si kuzhina ose kopshti.
 
-## Word puzzles: word searches and crosswords
+## Puzzle me fjalë: kërkime fjalësh dhe fjalëkryqe
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Lojërat me fjalë i përshtaten personave që i kanë dashur gjithmonë, zakonisht më herët në demencë.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Kërkim fjalësh me shkronja të mëdha.** [Kërkimi i fjalëve me shkronja të mëdha](/games/word-search/) falas ynë përdor shkronja të mëdha dhe vetëm disa fjalë, horizontale dhe vertikale, kurrë diagonale ose të kthyera mbrapsht. Luajeni në ekran ose printojeni.
+- **Lexoni listën me zë.** Një person lexon një fjalë, tjetri e kërkon. Rrethimi vetëm i shkronjës së parë është në rregull.
+- **Fjalëkryqe me shkronja të mëdha** nga librat e enigmave mund të funksionojnë në fillim. Lexoni shpjegimet me zë, ndajeni lapsin dhe plotësoni përgjigjet bashkë. Fjalëkryqet e lehta, me temë, janë më të mira se ato enigmatike.
+- **Flisni për fjalët.** „Kopsht“ mund të çojë në dhjetë minuta për domate.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Për më shumë aktivitete në letër dhe si t'i printoni që të jenë të lehta për t'u parë dhe mbajtur, shihni [aktivitetet e printueshme falas për demencën](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Cilat puzzle përshtaten me çdo fazë?
 
-Stages overlap, and good and hard days are normal.
+Fazat mbivendosen, dhe ditët e mira e të këqija janë normale.
 
-| Stage | Puzzles that often fit | Your role |
+| Faza | Puzzle që shpesh përshtaten | Roli juaj |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| E hershme | Puzzle të njohur me më pak pjesë se më parë, fjalëkryqe dhe kërkime fjalësh me shkronja të mëdha, puzzle online me 9 pjesë | Partner: lëreni të zgjedhë, ndihmoni kur kërkohet |
+| E mesme | Puzzle me rreth një duzinë pjesë të mëdha, puzzle online me 4 pjesë, kërkim fjalësh i lexuar me zë bashkë | Përgatitni, renditni pjesët, jepni një në një kohë |
+| E vonë | Shikimi bashkë i një figure të përfunduar, Gjej të njëjtën me dy figura, mbajtja e disa pjesëve të mëdha | Silleni tek ai; shoqëria juaj është aktiviteti |
 
-## When should you make a puzzle easier, or stop?
+## Kur duhet ta bëni një puzzle më të lehtë, ose ta ndaloni?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Kini kujdes për psherëtima, shtyrje të pjesëve larg, „nuk mundem“ të përsëritur ose vështrime të shqetësuara. Ato janë shenja për të ndryshuar diçka, jo për të insistuar.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Bëjeni më të vogël.** Më pak pjesë, ose lini për ta vetëm disa të fundit.
+- **Bëni më shumë vetë** dhe ftojeni të ndihmojë në pjesët e lehta.
+- **Kaloni te diçka afër:** renditja e pjesëve sipas ngjyrës, një puzzle online me 4 pjesë, ose [ngjyrosja](/games/coloring/).
+- **Ndaloni.** Vendoseni mënjanë dhe pini një çaj. Mund të ktheheni një ditë tjetër, ose aspak.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Nëse puzzle-t fillojnë të ndihen si një kujtesë e asaj që është e vështirë, është në rregull t'i lini. Ka shumë mënyra të tjera për të kaluar kohë të mirë bashkë; [101 ide aktivitetesh](/activities/ideas/) është një vend i mirë për t'u parë.

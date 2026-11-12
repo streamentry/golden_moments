@@ -1,32 +1,32 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Активности у башти и на отвореном за особе са деменцијом"
+seoTitle: "Баштованство и активности на отвореном за деменцију"
+description: "Идеје за баштованство и боравак на отвореном за особе са деменцијом: подигнуте леје, саксије и савети о безбедности код врућине, сунца и лутања."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Баштованство и време напољу могу бити миран, познат начин провођења времена за
+  особу која живи са деменцијом. Пробајте заливање, садњу зачинског биља,
+  уклањање овенулих цветова или кратку шетњу у ограђеном дворишту. Користите
+  подигнуте леје или сто да нико не мора да клечи, избегавајте оштре алате и
+  отровне биљке, идите напоље у прохладнијем делу дана и увек останите са особом.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Једноставни баштенски послови, као што су заливање, сејање семена, мирисање зачина и брање цвећа, могу се радити стојећи или седећи."
+  - "Подигнуте леје, саксије и покривени сто доносе башту на висину струка и смањују ризик од пада."
+  - "Избегавајте оштре алате, бодљикасте или надражујуће биљке и све што је отровно. Пазите да земљу не замене за храну."
+  - "Врућина може бити опасна за старије особе. Идите напоље рано ујутру или касно, понесите воду и хлад, и вратите се унутра при првом знаку нелагоде."
+  - "Многе особе које живе са деменцијом у неком тренутку лутају. Останите са особом напољу и имајте при руци недавну фотографију и документ са идентитетом."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Које баштенске активности може да ради особа са деменцијом?"
+    a: "Заливање биљака, сејање семена у мале саксије, мирисање и додиривање зачина, уклањање овенулих цветова, брање поврћа, слагање резаног цвећа и метење стазе су добри избори. У затвореном, саксија са зачинима на прозорској дасци или тацна са земљом на покривеном столу такође добро функционише. Изаберите посао према томе шта је особа волела раније и шта може удобно да ради сада."
+  - q: "Како да чувам особу са деменцијом безбедном на врућини?"
+    a: "Планирајте боравак напољу за прохладније јутро или вече, држите га кратким и често нудите воду. Изаберите хлад, широк шешир, лагану растреситу одећу и крему за сунце. Старије особе су у већем ризику од болести изазваних топлотом, а збуњеност, вртоглавица или мучнина могу бити знаци упозорења, па одмах уђите унутра и охладите се ако их приметите."
+  - q: "Како можемо изаћи напоље ако особа има склоност да лута?"
+    a: "Останите са особом све време, користите ограђено двориште или башту са закључаном капијом и постарајте се да носи наруквицу са идентитетом или да има документ са собом. Имајте при руци недавну фотографију. Ако особа нестане, одмах се обратите локалној полицији или хитним службама; не чекајте одређен број минута. Реците службама да особа има деменцију, где је последњи пут виђена и дајте им недавну фотографију."
+  - q: "Шта ако немамо башту?"
+    a: "Неколико саксија на трему, сандучић са цвећем или тацна са зачинима на кухињском столу је довољно. Можете и да посетите парк, јавну башту или градски врт. Седење напољу и слушање птица такође се рачуна као активност на отвореном."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +43,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +54,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+За многе људе башта је једно од најпознатијих места које знају. Копање, заливање и брање цвећа користе вештине научене давно, а боравак напољу доноси свеж ваздух, сунчеву светлост и звуке птица. National Institute on Aging наводи негу биљака, садњу цвећа и поврћа и [разговор о томе како биљке расту](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) међу активностима које особе са Alzheimer's болешћу могу волети. Ова страница описује шта да пробате, како башту учинити лакшом за коришћење и како бити безбедан са врућином, сунцем и лутањем.
 
-## What outdoor and gardening activities work well?
+## Које активности на отвореном и у башти добро функционишу?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Најбољи послови су једноставни, познати и могу се радити стојећи или седећи. Изаберите према томе шта је особа волела.
 
-### In the garden
+### У башти
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Заливање.** Мала, лагана кантица или благи наставак за црево и неколико саксија при руци. Заливање има јасан почетак и крај и тешко се погрешно ради.
+2. **Сејање семена у саксије.** Alzheimer's Foundation of America предлаже сејање семена у мале саксије и [праћење како расту](https://alzfdn.org/dementia-activity-gardening/). Велика семена као пасуљ, сунцокрет или грашак лакша су за руковање.
+3. **Уклањање овенулих цветова.** Скидање овенулих цветова руком је нежан, понављајући посао. Изаберите биљке без бодљи.
+4. **Брање поврћа или зачина.** Чери парадајз, пасуљ и зачини лако се беру и пријатни су за укус. Понесите их унутра да их користите за ручак.
+5. **Мирисање и додиривање зачина.** Рузмарин, нана и лаванда имају јаке, пријатне мирисе. Протрљајте лист између прстију и пружите га особи.
+6. **Метење стазе или терасе.** Лагана метла по равној, сувој површини, ако је равнотежа стабилна.
+7. **Пуњење хранилице за птице.** Затим седите заједно и гледајте ко долази у посету.
 
-### Indoors, when going out is not possible
+### У затвореном, када излазак није могућ
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Зачинска башта на прозорској дасци**, од босиљка, першуна или власца.
+- **Сађење на покривеном столу.** AFA предлаже коришћење тацни попут оних у кантинама, да земља остане на једном месту, и премештање земље малим чашицама.
+- **Слагање цвећа** од резаног цвећа и зеленила из дворишта или продавнице.
+- **Пресовано цвеће** из букета, касније залепљено на честитке. Видите [уметност и занатство](/activities/arts-and-crafts/) за више.
+- **Прављење саше од лаванде или руже**, још једна идеја организације AFA, која задржава мирис баште у кући.
 
-### Getting out and about
+### Изласци и шетње
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Кратка шетња** око блока, парка или расадника, спорим темпом и са местом за седење.
+- **Седење напољу** на трему или клупи да слушате птице и осетите поветарац. То је сама по себи пуна активност.
+- **Посета јавној башти** у мирном делу дана. NHS наводи да неке баште имају чулне баште са мирисним биљкама, текстурама и воденим елементима.
+- **Храњење патака или посматрање птица** на локалном језеру, уз безбедну удаљеност од ивице воде.
 
-## How do I make a garden easier to use?
+## Како башту учинити лакшом за коришћење?
 
-Bring the garden up to the person, not the other way around.
+Доведите башту до особе, а не обрнуто.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Подигнуте леје или високе саксије** на висини струка, без клечања и савијања.
+- **Саксије на столу** погодне су за особе које користе инвалидска колица или радије седе.
+- **Широке, равне стазе** без лабавог камена или црева преко њих смањују ризик од спотицања.
+- **Клупе са наслоном за руке и хладом** дуж пута, да одмор буде увек могућност.
+- **Алати са дебелим, меким дршкама** које се лако држе. Избегавајте маказе, ножеве и све оштро.
+- **Ограђен простор са закључаном капијом** који особа може слободно да истражује док ви останете у близини.
 
-## Which plants should I avoid?
+## Које биљке треба избегавати?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Бирајте биљке које је безбедно дотаћи и, по могућности, безбедно окусити. AFA саветује коришћење биљака које обично не иритирају кожу, проверу алергија и пажљиво посматрање свакога ко би могао земљу да замени за храну. Савети за безбедност код куће из National Institute on Aging укључују уклањање или закључавање отровних биљака.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Избегавајте бодљикасте руже, кактусе и биљке са соком који иритира кожу.
+- Проверите сваку биљку о којој нисте сигурни код центра за тровања или у локалном расаднику пре садње.
+- Познати фаворити могу донети пријатна осећања. AFA помиње руже и божићни кактус као примере. Изаберите сорте без бодљи.
+- Ђубрива, пестициде и средства против корова закључајте и не користите их на местима до којих особа може да дође.
 
-## How do I stay safe in the heat and sun?
+## Како бити безбедан у врућини и на сунцу?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Планирајте време напољу према времену. NIA објашњава да су старије особе у већем ризику од [болести изазваних топлотом](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), делом зато што се тело слабије прилагођава променама температуре, а неки лекови утичу на то како тело подноси топлоту.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Идите напоље рано или касно.** Избегавајте средину дана у топлим месецима. Проверите индекс топлоте, а не само температуру.
+- **Нудите воду често.** Не чекајте да особа каже да је жедна. Избегавајте алкохол и пића са кофеином у врућини.
+- **Облачите се за то.** Светла, растресита одећа, широк шешир и сунчане наочаре.
+- **Користите крему за сунце.** NIA препоручује широки спектар заштите, SPF 15 или већи, који се обнавља током дана.
+- **Бирајте хлад.** Поставите сто за саксије испод дрвета или сунцобрана.
+- **Држите то кратко.** Кратак боравак напољу може бити довољан, нарочито на топлим данима.
+- **Пазите на знаке упозорења.** NIA наводи главобољу, збуњеност, вртоглавицу или мучнину као могуће знаке болести изазване топлотом. Особа са деменцијом можда неће рећи да се лоше осећа, па посматрајте њено лице и понашање. Уђите унутра, охладите је водом и хладном крпом и потражите медицинску помоћ ако се брзо не побољша. Топлотни удар, са знацима као што су несвестица, збуњеност или сува, зацрвенела кожа, је хитно медицинско стање: позовите свој локални број за хитне случајеве.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Хладно време је такође важно. Зими држите боравак напољу кратким и пазите да руке и стопала остану топла и суве.
 
-## How do I handle wandering when we go outside?
+## Како поступати са лутањем кад излазимо напоље?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Останите са особом кад год је напољу. Alzheimer's Association каже да [шест од десет особа које живе са деменцијом](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) бар једном залута, а многе то раде више пута. То се може десити у било ком стадијуму.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+[Савети NIA о лутању и губљењу](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) укључују:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Уверите се да особа носи наруквицу са идентитетом или медицинску наруквицу са именом, адресом и вашим телефонским бројем, или означите њену одећу.
+- Имајте при руци недавну фотографију или снимак особе.
+- Обавестите комшије да особа може да залута.
+- Обезбедите двориште оградом и закључаном капијом.
+- Не остављајте некога са историјом лутања без надзора.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association такође предлаже стварање унутрашњих и спољашњих простора који могу безбедно да се истражују и планирање активности за доба дана када је немир најчешћи. Шетња у безбедној, ограђеној башти може добро одговарати вечерњем немиру. Видите наш водич о [вечерњем немиру](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Ако особа нестане, проверите оближња безбедна места и одмах се обратите локалној полицији или хитним службама. Не чекајте одређен број минута пре пријаве. [Чланак америчког Министарства правде из 2021. о истрагама нестанака особа](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) каже да агенције не би требало да захтевају фиксни период чекања и наводи симптоме сличне деменцији као висок ризик. Локални поступци пријаве се разликују. Реците када и где је особа последњи пут виђена, шта носи и дајте недавну фотографију. Следите упутства локалних спасилаца; не претражујте опасна места сами.
 
-## How do I adapt gardening as things change?
+## Како прилагодити башту кад се ствари промене?
 
-| If this has become hard | Try this instead |
+| Ако је ово постало тешко | Пробајте уместо тога |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Сађење читаве леје | Сађење једног семена у једној саксији |
+| Плевљење (разликовање корова од биљака) | Заливање или уклањање очигледно овенулих цветова |
+| Ходање по башти | Седење за столом са тацном земље и биљком |
+| Излазак напоље уопште | Саксија са зачинима на кухињском столу или место уз отворен прозор |
+| Било који посао | Заједнички боравак напољу, слушање и посматрање |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Неки људи радије гледају како ви радите. NIA напомиње да је у реду да особа само посматра ако то воли.
 
-## When should we head inside?
+## Када да уђемо унутра?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Уђите кад особа изгледа уморно, врело, хладно, немирно или спремно да заврши. Кратких, пријатних десет минута боље је од дугог поподнева које се завршава невољом. Рано прекидање је добар исход.
 
-## Bring the garden indoors on screen
+## Донесите башту унутра на екрану
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Кад пада киша, [Разврставање заједно](/games/sort-together/) има корпу за баште за сортирање слика, а [Картице за разговор](/games/conversation-cards/) садрже отворене подстицаје који могу довести до прича о башти. Ако се вратите с врућине уз осећај журбе, [Смирено дисање](/games/calm-breathing/) нуди спору, тиху паузу коју можете делити. За више идеја заснованих на додиру, мирису и звуку видите наш [водич о чулним активностима](/activities/sensory/).

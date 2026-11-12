@@ -1,31 +1,33 @@
 ---
-title: "Hearing Loss and Dementia Risk: What the Research Shows"
-seoTitle: "Hearing Loss and Dementia: What Research Shows"
-description: "Why hearing loss is a leading dementia risk factor, what the ACHIEVE hearing aid trial really found, and how to get hearing checked and talk more easily."
+title: "Humbja e dëgjimit dhe rreziku i demencës: çfarë tregon kërkimi"
+seoTitle: "Humbja e dëgjimit dhe demenca: çfarë tregon kërkimi"
+description: "Pse humbja e dëgjimit është një nga faktorët kryesorë të rrezikut të demencës, çfarë gjeti me të vërtetë provimi i aparateve të dëgjimit ACHIEVE, dhe si të kontrolloni dëgjimin dhe të flisni më lehtë."
 section: brain-health
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission names hearing loss as one of the largest modifiable risk factors for
-  dementia. In the ACHIEVE trial, hearing aids did not slow cognitive decline overall, though a
-  higher-risk subgroup showed less decline. Hearing aids help conversation and daily life either
-  way. Get hearing checked, consider prescription or over-the-counter aids, and talk with a doctor.
+  Komisioni Lancet i 2024 e emëron humbjen e dëgjimit si një nga faktorët më të
+  mëdhenj të rrezikut të demencës që mund të ndryshohen. Në provimin ACHIEVE,
+  aparatet e dëgjimit nuk e ngadalësuan rënien njohëse në përgjithësi, por një
+  nëngrup me rrezik më të lartë tregoi rënie më të ngadaltë. Aparatet e dëgjimit
+  ndihmojnë bisedën dhe jetën e përditshme në çdo rast. Kontrolloni dëgjimin, mendoni
+  për aparate me recetë ose pa recetë, dhe flisni me mjekun.
 keyPoints:
-  - "The Lancet Commission estimates hearing loss accounts for about 7% of dementia worldwide, tied for the largest share among 14 factors."
-  - "In the ACHIEVE trial of 977 older adults, hearing aids did not change three-year cognitive decline overall."
-  - "In a smaller, higher-risk group within ACHIEVE, cognitive decline was 48% slower with hearing aids; this needs confirming."
-  - "Since October 2022, US adults with perceived mild to moderate hearing loss can buy FDA-regulated hearing aids over the counter."
-  - "Untreated vision loss was added as a dementia risk factor in 2024, so eye exams matter too."
+  - "Komisioni Lancet vlerëson se humbja e dëgjimit llogarit rreth 7% të demencës në botë, e barabartë me pjesën më të madhe midis 14 faktorëve."
+  - "Në provimin ACHIEVE me 977 të moshuar, aparatet e dëgjimit nuk ndryshuan rënien njohëse tre-vjeçare në përgjithësi."
+  - "Në një grup më të vogël me rrezik më të lartë brenda ACHIEVE, rënia njohëse ishte 48% më e ngadaltë me aparate dëgjimi; kjo duhet konfirmuar."
+  - "Që nga tetori 2022, të rriturit amerikanë me humbje të perceptuar të dëgjimit nga e lehtë në mesatare mund t'i blejnë aparatet e dëgjimit pa recetë, të rregulluara nga FDA."
+  - "Humbja e patrajtuar e shikimit u shtua si faktor rreziku i demencës në 2024, prandaj kontrollet e syve kanë rëndësi gjithashtu."
 faq:
-  - q: "Do hearing aids prevent dementia?"
-    a: "That has not been proven. The ACHIEVE trial found no overall effect on cognitive decline over three years, although one higher-risk group did better. Hearing aids are still worth considering because they make conversation, safety and daily life easier."
-  - q: "Who can buy over-the-counter hearing aids?"
-    a: "The FDA allows adults 18 and older with perceived mild to moderate hearing loss to buy OTC hearing aids in stores or online without a prescription. They are not meant for severe hearing loss. Anyone with ear pain, fluid from the ear, dizziness or sudden hearing changes should see a doctor first."
-  - q: "Can hearing loss look like dementia?"
-    a: "Sometimes. The National Institute on Aging notes that older people who cannot hear well are sometimes wrongly thought to be confused or uncooperative. A hearing check is a sensible step when someone seems to be withdrawing or missing what is said."
-  - q: "How often should older adults have their eyes checked?"
-    a: "The National Institute on Aging advises a dilated eye exam every year or two after age 60, or as your eye care professional recommends. People with diabetes or high blood pressure usually need one at least once a year."
+  - q: "A parandalojnë aparatet e dëgjimit demencën?"
+    a: "Kjo nuk është provuar. Provimi ACHIEVE nuk gjeti efekt të përgjithshëm mbi rënien njohëse gjatë tre viteve, megjithëse një grup me rrezik më të lartë u bë më mirë. Aparatet e dëgjimit meritojnë akoma të merren parasysh, sepse e bëjnë bisedën, sigurinë dhe jetën e përditshme më të lehtë."
+  - q: "Kush mund të blejë aparate dëgjimi pa recetë?"
+    a: "FDA lejon të rriturit 18 vjeç e lart me humbje të perceptuar të dëgjimit nga e lehtë në mesatare të blejnë aparate dëgjimi pa recetë, në dyqane ose online, pa recetë. Ato nuk janë për humbje të rëndë të dëgjimit. Kushdo me dhimbje veshi, rrjedhje nga veshi, marramendje ose ndryshime të papritura të dëgjimit duhet të shkojë te mjeku së pari."
+  - q: "A mund të duket humbja e dëgjimit si demencë?"
+    a: "Ndonjëherë. Instituti Kombëtar për Plakjen thotë se të moshuarit që nuk dëgjojnë mirë ndonjëherë gabimisht mendohet se janë të ngatërruar ose të pabashkëpunues. Një kontroll i dëgjimit është një hap i arsyeshëm kur dikush duket i tërhequr ose nuk e kap atë që thuhet."
+  - q: "Sa shpesh duhet të kontrollojnë sytë të moshuarit?"
+    a: "Instituti Kombëtar për Plakjen këshillon një ekzaminim të syve me pupla të zgjeruara çdo vit ose dy vjet pas moshës 60 vjeç, ose siç rekomandon profesionisti i kujdesit të syve. Personat me diabet ose tension të lartë zakonisht kanë nevojë për një të paktën një herë në vit."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -50,94 +52,94 @@ related: [caregiving/communication-tips, brain-health/social-connection, brain-h
 health: true
 ---
 
-Hearing loss is common in later life, and researchers take it seriously as a dementia risk factor. That does not make hearing aids a proven way to prevent dementia; the best trial so far had mixed results. This page explains what the research shows, how to get hearing checked, what US over-the-counter hearing aids are, and how to make conversation easier.
+Humbja e dëgjimit është e zakonshme në moshën e vonshme, dhe studiuesit e marrin seriozisht si faktor rreziku të demencës. Kjo nuk e bën aparatin e dëgjimit një mënyrë të provuar për të parandaluar demencën; provimi më i mirë deri tani pati rezultate të përziera. Kjo faqe shpjegon çfarë tregon kërkimi, si të kontrolloni dëgjimin, çfarë janë aparatet e dëgjimit pa recetë në SHBA, dhe si ta bëni bisedën më të lehtë.
 
-## Why does hearing matter for brain health?
+## Pse ka rëndësi dëgjimi për shëndetin e trurit?
 
-Hearing loss is linked with a higher risk of dementia. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) estimates that it accounts for about 7% of dementia worldwide. That ties it with high LDL cholesterol for the largest share among the 14 modifiable risk factors in the Commission's model, according to [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Humbja e dëgjimit lidhet me rrezik më të lartë demence. [Komisioni Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) vlerëson se ajo llogarit rreth 7% të demencës në botë. Kjo e barazon me kolesterolin LDL të lartë për pjesën më të madhe midis 14 faktorëve të rrezikut që mund të ndryshohen në modelin e Komisionit, sipas [përmbledhjes së UCL për raportin](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-Key findings from the Commission:
+Gjetjet kryesore të Komisionit:
 
-- **Higher risk with hearing loss.** In its pooled analysis of six high-quality studies, people with hearing loss had about a 37% higher risk of dementia than people with normal hearing.
-- **More loss, more risk.** Studies that looked at severity found that risk rose as hearing got worse.
-- **Possible reasons, not yet proven.** Ideas include loneliness and withdrawal, depression, less stimulation for the brain, and the extra mental effort that listening takes.
+- **Rrezik më i lartë me humbje dëgjimi.** Në analizën e bashkuar të gjashtë studimeve me cilësi të lartë, personat me humbje dëgjimi kishin rreth 37% rrezik më të lartë demence sesa personat me dëgjim normal.
+- **Më shumë humbje, më shumë rrezik.** Studimet që shikuan ashpërsinë gjetën se rreziku rritej ndërsa dëgjimi përkeqësohej.
+- **Arsye të mundshme, por të pa provuara.** Idetë përfshijnë vetminë dhe tërheqjen, depresionin, stimulimin më të vogël të trurit, dhe përpjekjen shtesë mendore që kërkon dëgjimi.
 
-Hearing loss is common. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) says about one-third of older adults have it, and the chance rises with age.
+Humbja e dëgjimit është e zakonshme. [Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/hearing-and-hearing-loss/hearing-loss-common-problem-older-adults) thotë se rreth një e treta e të moshuarve e kanë atë, dhe mundësia rritet me moshën.
 
-## What did the ACHIEVE hearing aid trial find?
+## Çfarë gjeti provimi i aparateve të dëgjimit ACHIEVE?
 
-ACHIEVE was the first randomized trial of hearing aids and cognitive decline. Its results are often misreported, so here are the details from the [published trial report](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
+ACHIEVE ishte provimi i parë i randomizuar i aparateve të dëgjimit dhe rënies njohëse. Rezultatet e tij shpesh raportohen gabim, prandaj ja detajet nga [raporti i publikuar i provimit](https://pmc.ncbi.nlm.nih.gov/articles/PMC10529382/).
 
-- **Who took part:** 977 adults aged 70 to 84 with untreated hearing loss and no substantial thinking problems, at four US community sites.
-- **What was compared:** Half received hearing aids plus counseling sessions with an audiologist. The other half received a health education program about healthy aging.
-- **Main result:** After three years, there was **no difference** in cognitive decline between the two groups overall.
-- **Subgroup result:** The trial recruited from two sources. 238 people came from a long-running heart health study (ARIC), and as a group they were at higher risk of cognitive decline. In this group, decline was **48% slower** with hearing aids. Among the 739 healthy community volunteers, there was no clear effect.
+- **Kush mori pjesë:** 977 të rritur 70 deri 84 vjeç me humbje dëgjimi të patrajtuar dhe pa probleme të rëndësishme të të menduarit, në katër qendra komunitare në SHBA.
+- **Çfarë u krahasua:** gjysma morën aparate dëgjimi plus seanca këshillimi me një audiolog. Gjysma tjetër morën një program edukimi shëndetësor për plakjen e shëndetshme.
+- **Rezultati kryesor:** pas tre vjetësh, **nuk pati ndryshim** në rënien njohëse mes dy grupeve në përgjithësi.
+- **Rezultati i nëngrupit:** provimi regjistroi nga dy burime. 238 persona erdhën nga një studim i gjatë i shëndetit të zemrës (ARIC), dhe si grup ishin me rrezik më të lartë rënieje njohëse. Te ky grup, rënia ishte **48% më e ngadaltë** me aparate dëgjimi. Midis 739 vullnetarëve të shëndetshëm nga komuniteti, nuk pati efekt të qartë.
 
-How to read this honestly:
+Si ta lexoni këtë me ndershmëri:
 
-- The overall answer was no effect.
-- The subgroup finding was planned in advance, but it came from a secondary analysis of a smaller group. It needs to be confirmed in other studies.
-- Participants knew which program they were in, which can affect results.
-- The Lancet Commission reads the evidence as showing that hearing aids appear especially helpful for people who have hearing loss along with other dementia risk factors.
+- Përgjigja e përgjithshme ishte pa efekt.
+- Gjetja e nëngrupit ishte e planifikuar paraprakisht, por erdhi nga një analizë dytësore e një grupi më të vogël. Duhet konfirmuar në studime të tjera.
+- Pjesëmarrësit e dinin cilin program ndiqnin, gjë që mund të ndikojë rezultatet.
+- Komisioni Lancet e lexon provën si tregues që aparatet e dëgjimit duket se janë veçanërisht të dobishme për personat që kanë humbje dëgjimi së bashku me faktorë të tjerë rreziku të demencës.
 
-The bottom line is that hearing aids are not a proven way to prevent dementia. They do help people hear, take part in conversations and stay connected, which is reason enough to consider them.
+Përfundimi është se aparatet e dëgjimit nuk janë një mënyrë e provuar për të parandaluar demencën. Ato ndihmojnë njerëzit të dëgjojnë, të marrin pjesë në biseda dhe të mbeten në lidhje, dhe kjo është arsye e mjaftueshme për t'i marrë parasysh.
 
-## How do I know if hearing should be checked?
+## Si e di nëse duhet kontrolluar dëgjimi?
 
-The NIA suggests seeing a doctor if you or someone you care for:
+NIA sugjeron të shkoni te mjeku nëse ju ose dikush që kujdeseni:
 
-- Has trouble understanding people on the phone
-- Finds it hard to follow conversations when two or more people are talking
-- Often asks people to repeat themselves
-- Turns up the TV so loud that others complain
-- Struggles to understand speech when there is background noise
-- Thinks other people seem to mumble
+- Keni vështirësi të kuptoni njerëzit në telefon
+- Ju është e vështirë të ndiqni bisedat kur flasin dy ose më shumë persona
+- Shpesh u kërkoni njerëzve të përsërisin
+- E ngritni televizorin aq lart sa të ankohen të tjerët
+- Keni vështirësi të kuptoni të folurin kur ka zhurmë në sfond
+- Mendoni se të tjerët duket sikur flasin me zë të ulët
 
-Start with a primary care doctor, who may refer you to an audiologist (a hearing specialist) or an ear, nose and throat doctor. Earwax build-up is one common cause of hearing loss that a doctor can check for. **Sudden hearing loss is a medical emergency**, and the NIA advises seeing a doctor immediately.
+Filloni me mjekun e kujdesit parësor, i cili mund t'ju referojë te një audiolog (specialist i dëgjimit) ose te një mjek i veshit, hundës dhe fytit. Grumbullimi i qerpikut të veshit është një shkak i zakonshëm i humbjes së dëgjimit që mjeku mund ta kontrollojë. **Humbja e papritur e dëgjimit është emergjencë mjekësore**, dhe NIA këshillon të shkoni te mjeku menjëherë.
 
-Hearing loss can be mistaken for confusion. The NIA notes that older people who cannot hear well are sometimes wrongly thought to be confused, unresponsive or uncooperative. If someone you love seems withdrawn or is missing what is said, a hearing check is a good early step.
+Humbja e dëgjimit mund të ngatërrohet me konfuzionin. NIA thotë se të moshuarit që nuk dëgjojnë mirë ndonjëherë gabimisht mendohet se janë të ngatërruar, të pa reaguar ose të pabashkëpunues. Nëse dikush që e doni duket i tërhequr ose nuk e kap atë që thuhet, një kontroll i dëgjimit është një hap i mirë i hershëm.
 
-## What are over-the-counter hearing aids?
+## Çfarë janë aparatet e dëgjimit pa recetë?
 
-Since October 17, 2022, the [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) has allowed a category of over-the-counter (OTC) hearing aids. Here is how they compare with prescription aids:
+Që nga tetori 17, 2022, [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) ka lejuar një kategori aparatesh dëgjimi pa recetë (OTC). Ja si krahasohen me aparatet me recetë:
 
-| Feature | OTC hearing aids | Prescription hearing aids |
+| Veçoria | Aparate dëgjimi pa recetë | Aparate dëgjimi me recetë |
 | --- | --- | --- |
-| Who they are for | Adults 18 and older with perceived mild to moderate hearing loss | Any level of hearing loss, any age |
-| Where to get them | Stores or online, no exam or prescription needed | Through a licensed hearing professional |
-| Fitting | You adjust settings yourself, often with an app | A professional programs them for your hearing |
+| Për kë janë | Të rritur 18 vjeç e lart me humbje të perceptuar të dëgjimit nga e lehtë në mesatare | Çdo nivel humbjeje dëgjimi, çdo moshë |
+| Ku merren | Në dyqane ose online, pa kontroll ose recetë | Përmes një profesionisti të licencuar të dëgjimit |
+| Përshtatja | Rregulloni vetë cilësimet, shpesh me një aplikacion | Një profesionist i programon sipas dëgjimit tuaj |
 
-The FDA says OTC aids are not meant for severe or profound hearing loss. It advises seeing a doctor, preferably an ear, nose and throat specialist, before buying if you have:
+FDA thotë se aparatet OTC nuk janë për humbje të rëndë ose të thellë të dëgjimit. Ajo këshillon të shkoni te mjeku, preferueshëm te një specialist i veshit, hundës dhe fytit, përpara se të blini nëse keni:
 
-- Ear pain or discomfort
-- Fluid, pus or blood from the ear in the past six months
-- Sudden or fluctuating hearing changes
-- Worse hearing in one ear, or ringing in only one ear
-- Dizziness or vertigo
-- A lot of earwax
+- Dhimbje ose shqetësim në vesh
+- Rrjedhje, pus ose gjak nga veshi gjatë gjashtë muajve të fundit
+- Ndryshime të papritura ose që lëkunden të dëgjimit
+- Dëgjim më të dobët në njërin vesh, ose zile vetëm në një vesh
+- Marramendje ose vertigo
+- Shumë qerpikë në vesh
 
-Getting used to hearing aids takes practice, so check the return policy before you buy, as the FDA suggests. The NIA suggests asking whether your insurance covers part of the cost. For someone living with dementia, an audiologist can help decide which type of aid and fitting will be easiest to manage day to day.
+Përshtatja me aparatet e dëgjimit kërkon praktikë, prandaj kontrolloni politikën e kthimit para se të blini, siç sugjeron FDA. NIA sugjeron të pyesni nëse sigurimi juaj mbulon një pjesë të kostos. Për dikë që jeton me demencë, një audiolog mund të ndihmojë të vendosni cilin lloj aparati dhe përshtatjeje do të jetë më i lehtë për t'u menaxhuar çdo ditë.
 
-## How can I talk more easily with someone who has hearing loss?
+## Si mund të flas më lehtë me dikë që ka humbje dëgjimi?
 
-The NIA suggests:
+NIA sugjeron:
 
-1. **Face the person and keep eye contact**, in good light, so they can see your lips and expressions.
-2. **Find a quiet spot.** Turn off the TV or move away from noise.
-3. **Speak a little louder, but do not shout.** Speak naturally and at a reasonable pace.
-4. **Keep your mouth clear.** Do not eat, chew gum or cover your mouth while talking.
-5. **Rephrase rather than repeat** when something is missed.
-6. **One person at a time.** In a group, make a point of including the person.
-7. **Be patient and ask how you can help.**
+1. **Shikoni personin dhe mbani kontakt me sy**, në dritë të mirë, që ai të mund të shohë buzët dhe shprehjet tuaja.
+2. **Gjeni një vend të qetë.** Fikni televizorin ose largohuni nga zhurma.
+3. **Flisni pak më fort, por mos bërtisni.** Flisni natyrshëm dhe me ritëm të arsyeshëm.
+4. **Mbani gojën të lirë.** Mos hani, mos përtypni çamçakëz dhe mos e mbuloni gojën ndërsa flisni.
+5. **Riformuloni në vend që të përsërisni** kur diçka humbet.
+6. **Një person në të njëjtën kohë.** Në grup, bëni një përpjekje ta përfshini personin.
+7. **Jini të durueshëm dhe pyesni si mund të ndihmoni.**
 
-These tips work well alongside our [dementia communication tips](/caregiving/communication-tips/). Picture-based activities also take pressure off listening. [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) work through what you see, and [Finish the Saying](/games/finish-the-saying/) lets you show the ending instead of saying it. For calls, see our guide to [phone and video calls](/activities/phone-and-video-calls/).
+Këto këshilla funksionojnë mirë së bashku me [këshillat tona për komunikimin me demencë](/caregiving/communication-tips/). Aktivitetet me figura gjithashtu e heqin presionin nga dëgjimi. [Çiftet me figura](/games/picture-pairs/) dhe [Kartat e bisedës](/games/conversation-cards/) punojnë përmes asaj që shihet, dhe [Plotësoni fjalën e urtë](/games/finish-the-saying/) ju lejon të tregoni fundin në vend që ta thoni. Për telefonatat, shihni udhëzuesin tonë për [telefonatat dhe thirrjet me video](/activities/phone-and-video-calls/).
 
-## Vision matters too
+## Shikimi gjithashtu ka rëndësi
 
-In 2024 the Lancet Commission added untreated vision loss as a new risk factor. UCL's summary puts it at about 2% of dementia cases, and the Commission recommends making screening and treatment for vision problems available to all. The [NIA advises](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) a dilated eye exam every year or two after age 60, and checking glasses prescriptions too. Even small changes in sight can raise the risk of falls.
+Në 2024 Komisioni Lancet shtoi humbjen e patrajtuar të shikimit si faktor të ri rreziku. Përmbledhja e UCL e vendos atë rreth 2% të rasteve të demencës, dhe Komisioni rekomandon që kontrolli dhe trajtimi i problemeve të shikimit të jenë të disponueshme për të gjithë. [NIA këshillon](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) një ekzaminim të syve me pupla të zgjeruara çdo vit ose dy vjet pas moshës 60 vjeç, dhe kontrollimin e recetave të syzeve. Edhe ndryshimet e vogla në shikim mund të rrisin rrezikun e rënieve.
 
-## Talk with a doctor
+## Flisni me mjekun
 
-Ask a doctor about hearing and vision checks if you notice any of the signs above. Seek care right away for sudden hearing loss, ear pain, or fluid from the ear. If you care for someone living with dementia, tell their doctor about hearing or vision changes, which can affect mood, safety and how well the person can join in.
+Pyesni mjekun për kontrolle të dëgjimit dhe shikimit nëse vini re ndonjë nga shenjat e lartpërmendura. Kërkoni kujdes menjëherë për humbje të papritur të dëgjimit, dhimbje veshi, ose rrjedhje nga veshi. Nëse kujdeseni për dikë që jeton me demencë, tregojani mjekut të tij ndryshimet e dëgjimit ose shikimit, që mund të ndikojnë humorin, sigurinë dhe sa mirë mund të marrë pjesë personi.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). Read more about [social connection and brain health](/brain-health/social-connection/).
+Kjo faqe është informacion i përgjithshëm, jo këshillë mjekësore. Shihni [njoftimin tonë mjekësor](/medical-disclaimer/). Lexoni më shumë për [lidhjen shoqërore dhe shëndetin e trurit](/brain-health/social-connection/).

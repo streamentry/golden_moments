@@ -1,35 +1,36 @@
 ---
-title: "Can Dementia Be Prevented? What the Research Says"
-seoTitle: "Can Dementia Be Prevented? What Research Says"
-description: "What the 2024 Lancet Commission and major trials found about lowering dementia risk, what they did not find, and steps to talk over with a doctor."
+title: "Ar demencijos galima išvengti? Ką sako tyrimai"
+seoTitle: "Ar demencijos galima išvengti? Ką sako tyrimai"
+description: "Ką 2024 m. Lancet komisija ir pagrindiniai tyrimai nustatė apie demencijos rizikos mažinimą, ko jie nenustatė ir kokius žingsnius aptarti su gydytoju."
 section: brain-health
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  No one can promise to prevent dementia. The 2024 Lancet Commission estimated
-  that nearly half of dementia cases worldwide are linked with 14 risk factors
-  that can potentially be changed, such as high blood pressure, hearing loss and
-  inactivity. Trials show small effects on thinking tests, not proof of fewer
-  dementia cases. Many people who do everything "right" still develop dementia,
-  and it is no one's fault.
+  Niekas negali pažadėti, kad demencijos bus išvengta. 2024 m. Lancet komisija
+  apskaičiavo, kad beveik pusė demencijos atvejų pasaulyje susiję su 14 rizikos
+  veiksnių, kuriuos galima potencialiai keisti, pavyzdžiui, aukštu kraujospūdžiu,
+  klausos praradimu ir fiziniu neaktyvumu. Tyrimai rodo nedidelį poveikį
+  mąstymo testams, bet ne įrodymą, kad demencijos atvejų yra mažiau. Daugelis
+  žmonių, darančių viską „teisingai“, vis tiek suserga demencija, ir tai niekieno
+  kaltė.
 keyPoints:
-  - "The 2024 Lancet Commission linked about 45% of dementia cases worldwide with 14 potentially changeable risk factors. That is a population estimate, not a personal guarantee."
-  - "Risk reduction means lowering the odds across a whole population. It does not mean any one person can avoid dementia."
-  - "Large trials such as FINGER, US POINTER and SPRINT MIND found small benefits on thinking tests or mild cognitive impairment, but none proved that a lifestyle program prevents dementia."
-  - "Age is the biggest known risk factor for Alzheimer's, and it cannot be changed. Many people with healthy habits still develop dementia."
-  - "The steps most often studied, such as treating high blood pressure, using hearing aids and staying active, are worth discussing with a doctor because they help health in other ways too."
+  - "2024 m. Lancet komisija susiejo apie 45 % demencijos atvejų pasaulyje su 14 galimai keičiamų rizikos veiksnių. Tai populiacijos įvertinimas, o ne asmeninė garantija."
+  - "Rizikos mažinimas reiškia mažinti tikimybę visoje populiacijoje. Tai nereiškia, kad kiekvienas žmogus gali išvengti demencijos."
+  - "Dideli tyrimai, tokie kaip FINGER, US POINTER ir SPRINT MIND, rado nedidelę naudą mąstymo testams ar lengvam kognityviniam sutrikimui, bet nė vienas neįrodė, kad gyvenimo būdo programa užkerta kelią demencijai."
+  - "Amžius yra didžiausias žinomas Alzheimerio ligos rizikos veiksnys, ir jo pakeisti negalima. Daugelis žmonių, gyvenančių sveikai, vis tiek suserga demencija."
+  - "Dažniausiai tirti žingsniai, pavyzdžiui, aukšto kraujospūdžio gydymas, klausos aparatai ir aktyvumas, verti aptarti su gydytoju, nes jie padeda sveikatai ir kitais atžvilgiais."
 faq:
-  - q: "Can dementia be prevented?"
-    a: "There is no proven way to prevent dementia for any one person. Research suggests that lowering certain risks, such as high blood pressure, untreated hearing loss and smoking, may lower the chance of dementia across a population or delay when it starts. These are odds, not promises."
-  - q: "What does the 45% figure from the Lancet Commission mean?"
-    a: "The 2024 Lancet Commission estimated that about 45% of dementia cases worldwide are linked with 14 risk factors that could, in theory, be changed. The estimate assumes those factors cause dementia, and the authors note some links may be only partly causal. It describes whole populations and does not tell you any individual's risk."
-  - q: "If my parent had a healthy lifestyle, why did they get dementia?"
-    a: "Age, genes and many factors no one controls play a large part in dementia. The Lancet Commission's authors note that lowering risk across a population does not guarantee that any individual will avoid dementia. A diagnosis is not a sign that anyone failed."
-  - q: "Is it too late to lower dementia risk after age 65?"
-    a: "The Lancet Commission says it is never too early or too late to reduce risk, although much of the evidence concerns midlife. Treating hearing and vision problems, staying active and keeping in touch with people are examples of later-life steps that were studied. Talk with a doctor about what fits your health."
-  - q: "Do brain games or special diets prevent dementia?"
-    a: "No game, food, supplement or diet has been proven to prevent dementia. A three-year trial of the MIND diet found no significant difference in thinking compared with a control diet, and commercial brain-training apps have not been shown to have the effects seen in research trials."
+  - q: "Ar demencijos galima išvengti?"
+    a: "Nėra įrodyto būdo, kaip išvengti demencijos konkrečiam žmogui. Tyrimai rodo, kad mažinant tam tikras rizikas, pavyzdžiui, aukštą kraujospūdį, negydomą klausos praradimą ir rūkymą, gali sumažėti demencijos tikimybė visoje populiacijoje arba ji gali prasidėti vėliau. Tai tikimybės, o ne pažadai."
+  - q: "Ką reiškia Lancet komisijos 45 % skaičius?"
+    a: "2024 m. Lancet komisija apskaičiavo, kad apie 45 % demencijos atvejų pasaulyje susiję su 14 rizikos veiksnių, kuriuos teoriškai galima keisti. Įvertinimas daro prielaidą, kad šie veiksniai sukelia demenciją, o autoriai pažymi, kad kai kurie ryšiai gali būti tik iš dalies priežastiniai. Tai apibūdina visas populiacijas ir nieko nepasako apie kieno nors asmeninę riziką."
+  - q: "Jei mano tėvai gyveno sveiku gyvenimo būdu, kodėl jie susirgo demencija?"
+    a: "Amžius, genai ir daugybė veiksnių, kurių niekas nekontroliuoja, vaidina didelį vaidmenį demencijoje. Lancet komisijos autoriai pažymi, kad rizikos mažinimas visoje populiacijoje negarantuoja, jog kiekvienas žmogus išvengs demencijos. Diagnozė nėra ženklas, kad kas nors nepavyko."
+  - q: "Ar per vėlu mažinti demencijos riziką po 65 metų?"
+    a: "Lancet komisija teigia, kad rizikai mažinti niekada nėra per anksti ar per vėlu, nors didžioji dalis įrodymų susiję su viduriniu amžiumi. Klausos ir regos problemų gydymas, aktyvumas ir ryšys su žmonėmis yra pavyzdžiai žingsnių vyresniame amžiuje, kurie buvo ištirti. Pasikalbėkite su gydytoju, kas tinka jūsų sveikatai."
+  - q: "Ar smegenų žaidimai ar specialios dietos užkerta kelią demencijai?"
+    a: "Nė vienas žaidimas, maistas, papildas ar dieta neįrodyta kaip užkertanti kelią demencijai. Trejų metų MIND dietos tyrimas nerado reikšmingo skirtumo mąstymui, palyginti su kontroline dieta, o komercinės smegenų treniravimo programėlės nebuvo parodytos turinčios tokį poveikį, koks matomas mokslinių tyrimų metu."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -63,271 +64,259 @@ related: [brain-health/risk-factors, brain-health/brain-games, brain-health/diet
 health: true
 ---
 
-If you are caring for someone with dementia, or you have watched a parent live
-with it, you have probably wondered whether it could have been stopped, and
-whether you can stop it happening to you. This page sets out what the research
-actually says, in plain language. The short answer: no one can promise to
-prevent dementia, but research suggests that some risks can be lowered, and that
-lowering them across a population may mean fewer people develop dementia or
-develop it later.
+Jei rūpinatės žmogumi, sergančiu demencija, arba stebėjote, kaip su ja gyvena tėvai,
+tikriausiai klausėte savęs, ar tai galėjo būti sustabdyta ir ar galima tai
+sustabdyti jums. Šiame puslapyje paprasta kalba išdėstoma, ką iš tikrųjų sako
+moksliniai tyrimai. Trumpas atsakymas: niekas negali pažadėti, kad demencijos bus
+išvengta, tačiau tyrimai rodo, kad kai kurias rizikas galima sumažinti, o jų
+mažinimas visoje populiacijoje gali reikšti, kad demenciją patirs mažiau žmonių
+arba ji prasidės vėliau.
 
-This is general information, not medical advice. Please read our
-[medical disclaimer](/medical-disclaimer/) and talk with a doctor about your own
-health.
+Tai bendra informacija, ne medicininė konsultacija. Prašome perskaityti mūsų
+[medicininį atsakomybės apribojimą](/medical-disclaimer/) ir pasikalbėti su
+gydytoju apie savo sveikatą.
 
-## Can dementia be prevented?
+## Ar demencijos galima išvengti?
 
-There is no proven way to prevent dementia for any single person. The National
-Institute on Aging (NIA) says that while
-[nothing has been proven yet to prevent Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
-researchers have found promising strategies and are learning what may and may
-not work.
+Nėra įrodyto būdo, kaip išvengti demencijos bet kuriam konkrečiam žmogui.
+Nacionalinis senėjimo institutas (NIA) sako, kad nors
+[dar niekas neįrodyta kaip užkertantis kelią Alzheimerio ligai](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know),
+mokslininkai atrado perspektyvių strategijų ir sužino, kas gali, o kas gali
+neveikti.
 
-What research *does* show is that certain health conditions and habits are
-linked with a higher chance of dementia. When those risks are lower across a
-whole population, fewer people may develop dementia, or they may develop it
-later in life. That is very different from a guarantee.
+Tyrimai *rodo*, kad tam tikros sveikatos būklės ir įpročiai susiję su didesne
+demencijos tikimybe. Kai šios rizikos mažesnės visoje populiacijoje, demenciją
+gali patirti mažiau žmonių arba ji gali prasidėti vėliau gyvenime. Tai labai
+skiriasi nuo garantijos.
 
-One hopeful sign: the 2024 Lancet Commission reported that in some high-income
-countries, including the US and UK, the share of older people with dementia has
-fallen. The authors think this is probably due in part to better education,
-better health care and less damage to blood vessels over a lifetime, according to
-[University College London's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+Vienas vilties ženklas: 2024 m. Lancet komisija pranešė, kad kai kuriose turtingose
+šalyse, įskaitant JAV ir Jungtinę Karalystę, vyresnio amžiaus žmonių, sergančių
+demencija, dalis sumažėjo. Autoriai mano, kad tai tikriausiai iš dalies lemia geresnis
+išsilavinimas, geresnė sveikatos priežiūra ir mažesnė kraujagyslių žala per visą
+gyvenimą, pagal
+[Londono universiteto koledžo (University College London) šį pranešimo santrauką](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
-## What did the 2024 Lancet Commission find?
+## Ką nustatė 2024 m. Lancet komisija?
 
-The Lancet Commission on dementia prevention, intervention and care is a group
-of 27 dementia researchers who review the evidence every few years. Their 2024
-report named **14 risk factors** that can potentially be changed, and estimated
-that together they account for **nearly half (about 45%) of dementia cases
-worldwide**. In the authors' words, these cases could *theoretically* be
-prevented or delayed if the risks were removed
-([2024 Lancet Commission report](https://doi.org/10.1016/S0140-6736(24)01296-0)).
+Lancet komisija dėl demencijos prevencijos, intervencijos ir priežiūros – tai 27
+demencijos tyrėjų grupė, kuri kas kelerius metus peržiūri įrodymus. Jų 2024 m.
+ataskaitoje įvardyta **14 rizikos veiksnių**, kuriuos potencialiai galima keisti, ir
+įvertinta, kad jie kartu lemia **beveik pusę (apie 45 %) demencijos atvejų
+pasaulyje**. Autorių žodžiais, šie atvejai *teoriškai* galėtų būti išvengti arba atidėti, jei rizikos būtų pašalintos
+([2024 m. Lancet komisijos ataskaita](https://doi.org/10.1016/S0140-6736(24)01296-0)).
 
-The 14 factors, grouped by the stage of life where the evidence is strongest:
+14 veiksnių, sugrupuotų pagal gyvenimo etapą, kuriame įrodymai stipriausi:
 
-- **Early life:** less education.
-- **Midlife (roughly ages 40 to 65):** hearing loss, high LDL ("bad")
-  cholesterol, depression, head injury, physical inactivity, diabetes, smoking,
-  high blood pressure, obesity, and heavy drinking.
-- **Later life:** social isolation, air pollution, and untreated vision loss.
+- **Ankstyvas gyvenimas:** mažesnis išsilavinimas.
+- **Vidutinis amžius (maždaug nuo 40 iki 65 metų):** klausos praradimas, didelis
+  LDL („blogojo“) cholesterolio kiekis, depresija, galvos trauma, fizinis
+  neaktyvumas, diabetas, rūkymas, aukštas kraujospūdis, nutukimas ir didelis
+  alkoholio vartojimas.
+- **Vyresnis amžius:** socialinė izoliacija, oro tarša ir negydomas regos praradimas.
 
-The two newest additions in 2024 were high LDL cholesterol and untreated vision
-loss. The factors linked with the largest share of cases were hearing loss and
-high LDL cholesterol (about 7% each), followed by less education and social
-isolation (about 5% each).
+Du naujausi 2024 m. papildymai buvo didelis LDL cholesterolio kiekis ir negydomas
+regos praradimas. Veiksniai, susiję su didžiausia atvejų dalimi, buvo klausos
+praradimas ir didelis LDL cholesterolio kiekis (maždaug po 7 % kiekvienas), po jų –
+mažesnis išsilavinimas ir socialinė izoliacija (maždaug po 5 % kiekvienas).
 
-Our [risk factors guide](/brain-health/risk-factors/) goes through all 14 in a
-table, with what the research links and what you can do.
+Mūsų [rizikos veiksnių vadove](/brain-health/risk-factors/) visi 14 veiksnių aptariami
+lentelėje, nurodant, ką rodo tyrimai ir ką galite padaryti.
 
-### What the 45% figure does not mean
+### Ko nereiškia 45 % skaičius
 
-It is easy to misread this number, so it helps to be precise:
+Šį skaičių lengva neteisingai suprasti, todėl verta būti tikslams:
 
-- **It is a population estimate.** It describes dementia cases across the world,
-  not your chances or your parent's chances.
-- **It assumes cause and effect.** The authors say they included only risk
-  factors with convincing evidence, but that some links may be only partly
-  causal. For example, depression in later life may sometimes be an early
-  symptom of dementia rather than a cause.
-- **It does not guarantee anything for one person.** The UCL summary notes that
-  reducing risk works at the level of a population and does not guarantee that
-  any individual will avoid dementia.
-- **The other half is not explained by these factors.** Age, genes and causes
-  scientists do not yet understand make up the rest.
+- **Tai populiacijos įvertinimas.** Jis apibūdina demencijos atvejus visame pasaulyje,
+  o ne jūsų ar jūsų tėvų tikimybes.
+- **Jis daro prielaidą apie priežastį ir pasekmę.** Autoriai teigia, kad įtraukė tik
+  rizikos veiksnius su įtikinamais įrodymais, tačiau kai kurie ryšiai gali būti tik iš
+  dalies priežastiniai. Pavyzdžiui, vyresnio amžiaus depresija kartais gali būti
+  ankstyvas demencijos simptomas, o ne priežastis.
+- **Tai nieko negarantuoja vienam žmogui.** UCL santrauka pažymi, kad rizikos
+  mažinimas veikia populiacijos lygmeniu ir negarantuoja, jog kiekvienas žmogus
+  išvengs demencijos.
+- **Kitos pusės šie veiksniai nepaaiškina.** Likusią dalį sudaro amžius, genai ir
+  priežastys, kurių mokslininkai dar neišsiaiškino.
 
-## What is the difference between "risk reduction" and "prevention"?
+## Kuo skiriasi „rizikos mažinimas“ ir „prevencija“?
 
-**Risk reduction** means lowering the odds. If a large group of people lower
-their blood pressure, fewer of them may develop dementia over many years than
-would have otherwise. Some individuals in that group will still develop it.
+**Rizikos mažinimas** reiškia tikimybės sumažinimą. Jei didelė žmonių grupė sumažina
+savo kraujospūdį, per daugelį metų iš jų gali susirgti demencija mažiau, nei kitu
+atveju būtų. Kai kurie tos grupės žmonės vis tiek ją susirgs.
 
-**Prevention** suggests stopping something from happening at all. For dementia,
-that is not something research can promise to anyone today.
+**Prevencija** reiškia, kad kažkas visiškai nebus. Demencijos atveju tokio pažado
+šiandien niekas negali duoti.
 
-Researchers also talk about **delay**. The Lancet Commission reports new
-evidence that lowering risk may push back when dementia starts and shorten the
-time a person spends living with ill health. Even a delay of a few years can
-matter a great deal to a person and their family.
+Tyrėjai kalba ir apie **atidėjimą**. Lancet komisija pateikia naujų įrodymų, kad
+rizikos mažinimas gali atitolinti demencijos pradžią ir sutrumpinti laiką, kurį
+žmogus gyvena blogos sveikatos sąlygomis. Net kelerių metų atidėjimas gali labai
+daug reikšti žmogui ir jo šeimai.
 
-On this site, we use "lower risk" and "linked with" on purpose. When you see a
-product, supplement or program promising to "prevent Alzheimer's", treat it with
-caution. The NIA advises checking with a doctor before trying any pill or
-treatment that promises to prevent Alzheimer's, because such products may be
-unsafe, a waste of money, or both.
+Šioje svetainėje tyčia vartojame „mažinti riziką“ ir „susijęs su“. Kai matote
+produktą, papildą ar programą, žadančią „užkirsti kelią Alzheimerio ligai“, elkitės
+atsargiai. NIA pataria prieš bet kokią tabletę ar gydymą, žadantį užkirsti kelią
+Alzheimerio ligai, pasitarti su gydytoju, nes tokie produktai gali būti nesaugūs,
+bereikšmiai arba abu.
 
-## What have large trials found?
+## Ką parodė dideli tyrimai?
 
-Observational studies (which watch what happens to people over time) can show
-links. Randomized trials, where people are assigned to a program or a comparison
-group by chance, are the stronger test. Here is what some of the best-known
-trials found.
+Stebėjimo tyrimai (kurie seka, kas vyksta su žmonėmis laikui bėgant) gali parodyti
+ryšius. Atsitiktinių imčių tyrimai, kuriuose žmonės atsitiktinai priskiriami programai
+ar palyginimo grupei, yra stipresnis patikrinimas. Štai ką nustatė kai kurie
+žinomiausi tyrimai.
 
-### FINGER (Finland)
+### FINGER (Suomija)
 
-The FINGER trial enrolled 1,260 adults aged 60 to 77 who were at higher risk of
-dementia. Half received a two-year program of diet advice, exercise, computer
-brain exercises and checks on heart and blood vessel health; the other half
-received general health advice. The program group did slightly better on a set
-of thinking tests, a small but statistically significant difference
-([FINGER trial in The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)). The
-trial measured test results, not dementia diagnoses.
+Į FINGER tyrimą įtraukti 1 260 suaugusiųjų nuo 60 iki 77 metų, kuriems buvo didesnė
+demencijos rizika. Pusė gavo dvejų metų programą su mitybos patarimais, pratimais,
+kompiuterinėmis smegenų treniruotėmis ir širdies bei kraujagyslių sveikatos
+patikrinimais; kita pusė gavo bendrus sveikatos patarimus. Programos grupė šiek tiek
+geriau atliko mąstymo testų rinkinį – nedidelis, bet statistiškai reikšmingas
+skirtumas ([FINGER tyrimas žurnale The Lancet](https://pubmed.ncbi.nlm.nih.gov/25771249/)).
+Tyrime matuoti testų rezultatai, o ne demencijos diagnozės.
 
-### US POINTER (United States)
+### US POINTER (Jungtinės Amerikos Valstijos)
 
-US POINTER enrolled 2,111 adults aged 60 to 79 who were inactive, had a less
-healthy diet and had other risk factors. Both groups were encouraged to be more
-physically and mentally active, eat better, stay social and monitor heart
-health. One group got a structured, coached program; the other guided itself.
-Over two years, thinking test results improved in **both** groups, and slightly
-more in the structured group
-([US POINTER trial in JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)). The
-authors say more follow-up is needed to know whether the difference matters in
-daily life. Because there was no "do nothing" group, the trial cannot say how
-much either program helped compared with no change at all.
+US POINTER tyrime dalyvavo 2 111 suaugusiųjų nuo 60 iki 79 metų, kurie buvo neaktyvūs,
+maitinosi mažiau sveikai ir turėjo kitų rizikos veiksnių. Abi grupės buvo skatinamos
+būti fiziškai ir protiškai aktyvesnės, valgyti geriau, palaikyti ryšius ir stebėti
+širdies sveikatą. Viena grupė gavo struktūrizuotą, treneriu vedamą programą; kita
+vadovavosi pati. Per dvejus metus mąstymo testų rezultatai pagerėjo **abiejose**
+grupėse, o struktūrizuotoje grupėje – šiek tiek daugiau
+([US POINTER tyrimas žurnale JAMA](https://pubmed.ncbi.nlm.nih.gov/40720610/)).
+Autoriai sako, kad reikia ilgesnio stebėjimo, kad būtų galima žinoti, ar skirtumas svarbus
+kasdieniame gyvenime. Kadangi nebuvo grupės, kuri „nieko nedarytų“, tyrimas negali
+pasakyti, kiek kuri programa padėjo, palyginti su jokiais pokyčiais.
 
-### SPRINT MIND (blood pressure)
+### SPRINT MIND (kraujospūdis)
 
-SPRINT MIND studied 9,361 US adults aged 50 and older with high blood pressure.
-They were assigned to a lower blood pressure goal (top number under 120) or the
-standard goal (under 140). The lower goal significantly reduced **mild cognitive
-impairment**, a stage of memory and thinking problems that can come before
-dementia. For **probable dementia**, there were fewer cases in the lower-goal
-group, but the difference was not statistically significant. The trial stopped
-early and had fewer dementia cases than expected, so it may have been too small
-to answer that question
-([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+SPRINT MIND tyrime dalyvavo 9,361 JAV suaugusysis nuo 50 metų su aukštu kraujospūdžiu.
+Jie buvo priskirti žemesniam kraujospūdžio tikslui (viršutinis skaičius žemiau 120)
+arba standartiniam tikslui (žemiau 140). Žemesnis tikslas reikšmingai sumažino **lengvą
+kognityvinį sutrikimą** – atminties ir mąstymo sunkumų stadiją, kuri gali prasidėti prieš
+demenciją. Dėl **tikėtinos demencijos** žemesnio tikslo grupėje buvo mažiau atvejų,
+tačiau skirtumas nebuvo statistiškai reikšmingas. Tyrimas buvo nutrauktas anksti ir
+turėjo mažiau demencijos atvejų, nei tikėtasi, todėl galėjo būti per mažas tam klausimui
+atsakyti ([SPRINT MIND žurnale JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
 
-### What the reviews add up to
+### Ką rodo apžvalgos
 
-A 2021 Cochrane review pooled nine large trials of programs that tackle several
-risks at once, with more than 18,000 people. It found a small benefit on
-thinking tests, but **no clear difference in how many people developed
-dementia** in the two trials that measured it
-([Cochrane review of multi-domain interventions](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
+2021 m. Cochrane apžvalgoje sujungti devyni dideli tyrimai apie programas, kurios
+vienu metu sprendžia kelias rizikas, su daugiau nei 18 000 žmonių. Rasta nedidelė
+nauda mąstymo testams, bet **nėra aiškaus skirtumo, kiek žmonių susirgo demencija**
+dviejuose tyrimuose, kuriuose tai buvo matuojama
+([Cochrane apžvalga apie daugiasritines intervencijas](https://pubmed.ncbi.nlm.nih.gov/34748207/)).
 
-A 2017 review by the National Academies of Sciences, Engineering, and Medicine,
-summarized by the NIA, found "encouraging but inconclusive" evidence for three
-approaches: managing high blood pressure, increasing physical activity, and
-cognitive training.
+2017 m. JAV Nacionalinių mokslų, inžinerijos ir medicinos akademijų apžvalga, kurią
+apibendrino NIA, rado „vilties teikiančius, bet neįtikinamus“ įrodymus trims metodams:
+aukšto kraujospūdžio valdymui, fizinio aktyvumo didinimui ir kognityviniam treniravimui.
 
-## Does it matter when you start?
+## Ar svarbu, kada pradedate?
 
-The Lancet Commission's advice is to lower risks as early as possible and keep
-them low for as long as possible: "the earlier, the better" and "the longer, the
-better." It also says it is never too early or too late to reduce risk. Much of
-the evidence concerns midlife, roughly ages 40 to 65, but some factors, such as
-vision loss and social isolation, are later-life risks where action can still
-make sense.
+Lancet komisijos patarimas – mažinti rizikas kuo anksčiau ir palaikyti jas mažas kuo
+ilgiau: „kuo anksčiau, tuo geriau“ ir „kuo ilgiau, tuo geriau“. Taip pat teigiama, kad
+rizikai mažinti niekada nėra per anksti ar per vėlu. Didžioji dalis įrodymų susiję su
+viduriniu amžiumi, maždaug nuo 40 iki 65 metų, tačiau kai kurie veiksniai, pavyzdžiui,
+regos praradimas ir socialinė izoliacija, yra vėlesnio amžiaus rizikos, kur veikti vis
+dar gali būti prasminga.
 
-The report says there is now stronger evidence that longer exposure to a risk
-has a bigger effect. For example, diabetes that starts in midlife appears to
-matter more than diabetes that starts later.
+Ataskaitoje teigiama, kad dabar yra stipresnių įrodymų, jog ilgesnis poveikis
+rizikai turi didesnį efektą. Pavyzdžiui, cukrinis diabetas, prasidėjęs viduriniame amžiuje,
+atrodo svarbesnis nei vėliau prasidėjęs.
 
-## Is dementia risk the same for everyone?
+## Ar demencijos rizika vienoda visiems?
 
-No. The Commission found that people in low- and middle-income countries,
-people from minority groups and people with less money often carry more of
-these risks, so dementia tends to develop at a younger age. Many risks are tied
-to circumstances people did not choose, such as the quality of schooling they
-had as children, the air where they live, and whether healthy food is
-affordable and nearby.
+Ne. Komisija nustatė, kad žmonės mažas ir vidutines pajamas turinčiose šalyse, žmonės iš
+mažumų grupių ir mažiau pasiturintys žmonės dažnai turi daugiau šių rizikų, todėl
+demencija dažnai prasideda anksčiau. Daugelis rizikų susijusios su aplinkybėmis, kurių
+žmonės nepasirinko, pavyzdžiui, mokyklos kokybe vaikystėje, oru gyvenamojoje vietoje
+ir tuo, ar sveikas maistas yra įperkamas ir prieinamas netoli.
 
-That is why the Commission's recommendations are aimed at governments as much
-as at individuals: good education for all children, cleaner air, measures to
-reduce smoking, less sugar and salt in food sold in stores and restaurants, and
-hearing aids for everyone who needs them. Individual effort matters, but so does the world people
-live in. It is one more reason not to blame anyone for a diagnosis.
+Todėl komisijos rekomendacijos nukreiptos tiek į vyriausybes, tiek į atskirus žmones:
+gera švietimo sistema visiems vaikams, švaresnis oras, priemonės rūkymui mažinti, mažiau
+cukraus ir druskos parduotuvėse ir restoranuose parduodamame maiste bei klausos aparatai
+visiems, kam jų reikia. Asmeninės pastangos svarbios, bet svarbi ir aplinka, kurioje žmonės
+gyvena. Tai dar viena priežastis niekam nekaltinti dėl diagnozės.
 
-## What are the honest limits of this research?
+## Kokie sąžiningi šio tyrimų ribotumai?
 
-- **Dementia takes decades to develop**, but most trials last two to five years.
-  Measuring dementia itself, not just test results, needs very long and very
-  large studies.
-- **Most trials measure thinking tests.** A small improvement on a test does not
-  necessarily mean fewer people will develop dementia or that daily life will be
-  easier.
-- **Volunteers are often healthier** and more educated than the general public.
-  The Lancet Commission notes that most evidence still comes from high-income
-  countries and that minority groups are under-represented.
-- **Some links run both ways.** Being less active or less social can be an early
-  effect of dementia, not only a cause.
-- **Diet trials have been disappointing so far.** A three-year trial of the
-  MIND diet found no significant difference in thinking compared with a control
-  diet. See our [diet guide](/brain-health/diet/).
-- **Brain games are not proven to prevent dementia.** See our guide to
-  [brain games and dementia](/brain-health/brain-games/).
-- **Fasting has very limited human evidence**, and it can be risky for older
-  adults. See our [fasting guide](/brain-health/fasting/).
+- **Demencija išsivysto per dešimtmečius**, o dauguma tyrimų trunka dvejus–penkerius
+  metus. Matuoti pačią demenciją, o ne tik testų rezultatus, reikia labai ilgų ir labai
+  didelių tyrimų.
+- **Dauguma tyrimų matuoja mąstymo testus.** Nedidelis pagerėjimas teste nebūtinai reiškia,
+  kad demenciją susirgs mažiau žmonių ar kad kasdienis gyvenimas taps lengvesnis.
+- **Savanoriai dažnai sveikesni** ir išsilavinę nei bendra visuomenė. Lancet komisija pažymi,
+  kad dauguma įrodymų vis dar gaunama iš turtingų šalių, o mažumų grupės yra
+  nepakankamai atstovaujamos.
+- **Kai kurie ryšiai veikia abiem kryptimis.** Mažiau aktyvus ar mažiau bendraujantis
+  žmogus gali būti ankstyvas demencijos poveikis, o ne tik priežastis.
+- **Dietų tyrimai kol kas nuvylė.** Trejų metų MIND dietos tyrimas nerado reikšmingo
+  skirtumo mąstymui, palyginti su kontroline dieta. Žr. mūsų [mitybos vadovą](/brain-health/diet/).
+- **Smegenų žaidimai neįrodyti kaip užkertantys kelią demencijai.** Žr. mūsų vadovą
+  [apie smegenų žaidimus ir demenciją](/brain-health/brain-games/).
+- **Badavimo įrodymai žmonėms labai riboti**, o vyresnio amžiaus žmonėms tai gali būti
+  pavojinga. Žr. mūsų [badavimo vadovą](/brain-health/fasting/).
 
-## If someone did everything "right", why did they still get dementia?
+## Ką daryti, jei žmogus viską darė „teisingai“, bet vis tiek susirgo demencija?
 
-Because dementia is not simply the result of choices. The NIA says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes play a part. And scientists do not yet fully
-understand what causes Alzheimer's in most people. Even if every one of the 14 risk factors were
-removed, the Lancet Commission's own estimate leaves more than half of cases
-unaccounted for.
+Nes demencija nėra tiesiog pasirinkimų rezultatas. NIA sako, kad
+[amžius yra didžiausias žinomas Alzheimerio ligos rizikos veiksnys](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ir jo niekas negali pakeisti. Genai taip pat vaidina vaidmenį. Mokslininkai dar nevisiškai
+supranta, kas daugeliui žmonių sukelia Alzheimerio ligą. Net jei būtų pašalinti visi 14
+rizikos veiksnių, pačios Lancet komisijos įvertinimas paliktų daugiau nei pusę atvejų
+nepaaiškintų.
 
-So if you are caring for someone who exercised, ate well, never smoked and still
-developed dementia, nothing went wrong on their part, or yours. If you are
-living with dementia yourself, it is not your fault. Guilt is common among
-families, but it is not deserved. What matters now is comfort, connection and
-good days, and our [activity ideas](/activities/ideas/) and
-[caregiver self-care guide](/caregiving/caregiver-self-care/) are a good place
-to start.
+Taigi, jei rūpinatės žmogumi, kuris sportavo, valgė sveikai, niekada nerūkė ir vis tiek
+susirgo demencija, jokia klaida nebuvo padaryta nei jo, nei jūsų. Jei patys gyvenate su
+demencija, tai nėra jūsų kaltė. Šeimose kaltės jausmas yra dažnas, bet jis nepelnytas. Dabar
+svarbu jaukumas, ryšys ir geros dienos, o [veiklos idėjos](/activities/ideas/) ir
+[globėjo savipagalbos vadovas](/caregiving/caregiver-self-care/) yra geras startas.
 
-## What steps can you talk over with a doctor?
+## Kokius žingsnius aptarti su gydytoju?
 
-These are the areas most often studied. They are worth raising at a checkup
-because most of them help heart health, mood and independence too, whatever
-their effect on dementia turns out to be.
+Tai sritys, kurios dažniausiai tiriamos. Verta jas iškelti per patikrinimą, nes dauguma
+jų padeda ir širdies sveikatai, nuotaikai bei savarankiškumui, nepriklausomai nuo to, koks
+jų poveikis demencijai galiausiai pasirodys.
 
-1. **Blood pressure.** Ask what your numbers are and what goal suits you. The
-   Lancet Commission suggests aiming for a top number of 130 or lower from
-   around age 40, but the right target for an older adult depends on their
-   overall health.
-2. **Hearing.** Ask for a hearing test, and whether hearing aids would help. Our
-   [hearing guide](/brain-health/hearing/) explains the research.
-3. **Vision.** Have regular eye exams and ask whether problems such as cataracts
-   can be treated.
-4. **Cholesterol.** Ask whether your LDL cholesterol should be checked and
-   whether anything should change.
-5. **Blood sugar.** If you have diabetes, ask how to manage it safely.
-6. **Mood.** Depression is common and treatable. Tell your doctor if you have
-   felt low or lost interest in things for more than a couple of weeks.
-7. **Smoking and alcohol.** Ask about support to stop smoking and about safe
-   limits for alcohol.
-8. **Movement.** Ask what kind of activity is safe for you. Our
-   [exercise guide](/brain-health/exercise/) has ideas.
-9. **Head protection.** Wear a helmet for cycling and contact sports, and ask
-   about fall prevention.
-10. **Staying connected.** Time with other people is part of a healthy life. See
-    our guide to [social connection](/brain-health/social-connection/), and
-    [sleep](/brain-health/sleep/) too.
+1. **Kraujospūdis.** Paklauskite, kokie jūsų rodikliai ir koks tikslas jums tinka. Lancet
+   komisija siūlo siekti viršutinio skaičiaus 130 ar mažiau nuo maždaug 40 metų, tačiau tinkamas
+   tikslas vyresnio amžiaus žmogui priklauso nuo bendros sveikatos.
+2. **Klausa.** Paprašykite klausos patikrinimo ir paklauskite, ar klausos aparatai padėtų.
+   Mūsų [klausos vadovas](/brain-health/hearing/) paaiškina tyrimus.
+3. **Regėjimas.** Darykite reguliarius akių patikrinimus ir paklauskite, ar tokias problemas
+   kaip kataraktą galima gydyti.
+4. **Cholesterolis.** Paklauskite, ar reikia patikrinti LDL cholesterolį ir ar kas nors
+   turėtų keistis.
+5. **Cukraus kiekis kraujyje.** Jei turite diabetą, paklauskite, kaip jį saugiai valdyti.
+6. **Nuotaika.** Depresija yra dažna ir gydoma. Pasakykite gydytojui, jei daugiau nei kelias
+   savaites jaučiatės prislėgtas ar praradote susidomėjimą dalykais.
+7. **Rūkymas ir alkoholis.** Paklauskite apie pagalbą atsisakant rūkymo ir apie saugias
+   alkoholio ribas.
+8. **Judėjimas.** Paklauskite, kokia veikla jums saugi. Mūsų [pratimų vadove](/brain-health/exercise/)
+   yra idėjų.
+9. **Galvos apsauga.** Dviračiu ir kontaktiniuose sportuose naudokite šalmą ir paklauskite apie
+   kritimų prevenciją.
+10. **Ryšio palaikymas.** Laikas su kitais žmonėmis yra sveiko gyvenimo dalis. Žr. mūsų vadovą
+    [apie socialinį ryšį](/brain-health/social-connection/), taip pat [miegą](/brain-health/sleep/).
 
-Before changing medicines, diet, supplements, fasting or exercise, talk with
-your doctor first, especially if you have heart disease, diabetes, a history of
-falls, or are already living with dementia.
+Prieš keisdami vaistus, mitybą, papildus, badavimą ar pratimus, pirmiausia pasitarkite su
+gydytoju, ypač jei turite širdies ligą, diabetą, kritimų istoriją ar jau gyvenate su demencija.
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-If you notice memory or thinking changes that worry you, in yourself or someone
-else, make an appointment. The NIA notes that
-[memory problems can have other causes](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
-such as medicine side effects, thyroid problems, depression or low vitamin B12,
-and that some of these problems go away once the cause is treated. Our
-[warning signs guide](/brain-health/warning-signs/) explains what to look out
-for.
+Jei pastebite atminties ar mąstymo pokyčius, kurie jus neramina – savyje ar kitame žmoguje,
+susitarkite su gydytoju. NIA pažymi, kad
+[atminties problemas gali sukelti kitos priežastys](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging),
+pavyzdžiui, vaistų šalutinis poveikis, skydliaukės problemos, depresija ar mažas vitamino B12
+kiekis, ir kai kurios iš šių problemų išnyksta, kai priežastis gydoma. Mūsų
+[įspėjamųjų ženklų vadove](/brain-health/warning-signs/) paaiškinama, ko reikėtų saugotis.
 
-**Get urgent help** for sudden changes: sudden confusion, weakness or numbness
-on one side, trouble speaking, or a severe headache can be signs of a stroke or
-another emergency. Call 911.
+**Kreipkitės skubios pagalbos** dėl staigių pokyčių: staigaus sumišimo, silpnumo ar tirpimo
+viename kūno pusėje, kalbos sunkumų ar stipraus galvos skausmo gali būti insulto ar kito
+pavojaus požymiai. Skambinkite vietinei skubiosios pagalbos tarnybai.
 
-## Where Golden Moments fits
+## Kur čia Golden Moments
 
-Golden Moments makes simple shared activities, such as
-[conversation cards](/games/conversation-cards/),
-[picture bingo](/games/picture-bingo/) and a
-[calm breathing pause](/games/calm-breathing/). They are for enjoyment and time
-together. They are not a treatment, and they do not prevent or slow dementia.
+Golden Moments kuria paprastas bendras veiklas, pavyzdžiui, [pokalbių kortas](/games/conversation-cards/),
+[paveikslėlių bingo](/games/picture-bingo/) ir [ramaus kvėpavimo pauzę](/games/calm-breathing/).
+Jos skirtos pramogai ir laikui kartu. Jos nėra gydymas ir nekovoja su demencija bei jos nesulėtina.

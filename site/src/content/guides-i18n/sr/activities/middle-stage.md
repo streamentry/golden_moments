@@ -1,32 +1,32 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Активности за особе у средњој фази деменције"
+seoTitle: "Активности за средњу фазу деменције: једноставне идеје"
+description: "Једноставне активности за средњу фазу деменције: корисни послови, музика, фотографије и лаке игре, уз корак по корак поставку и савете за немир."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  У средњој фази деменције најбоље су кратке, познате активности подељене на
+  појединачне кораке: слагање веша, спаривање чарапа, прање судова, певање,
+  вођене шетње, албуми са фотографијама и једноставне игре са сликама. Припремите
+  ствари, покажите први корак, преузмите тешке делове и дајте активности смисао.
+  Станите кад престане да буде пријатно.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Познати кућни послови често најбоље функционишу јер делују корисно и одраслије."
+  - "Покажите, а не објашњавајте. Нудите један корак у исто време и два једноставна избора уместо отворених питања."
+  - "Преузмите најтежи део да би особа могла да уради онај задовољавајући."
+  - "Немир често значи да особа треба нешто да уради. Понудите одговарајућу активност уместо одбијања."
+  - "Посматрање, мала помоћ или рано прекидање су сви у реду."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Које активности су добре за средњу фазу деменције?"
+    a: "Кратке, познате активности које се раде рукама обично најбоље функционишу: слагање пешкира, спаривање чарапа, прање судова, постављање стола, певање уз омиљене песме, вођене шетње, гледање албума са фотографијама и једноставне игре са сликама. Разбијте сваку на појединачне кораке и радите је заједно."
+  - q: "Како да неко са деменцијом почне активност?"
+    a: "Припремите све, па почните активност сами и позовите га да помогне: „Можете ли ми дати руку са овим пешкирима?“ Многи желе да учествују, али им је тешко да почну. Показивање првог корака обично функционише боље од објашњавања."
+  - q: "Шта да радим кад стално понавља исту радњу?"
+    a: "Понављање је често безазлено и може значити да особа жели да буде заузета или да јој је потребно уверавање. Уместо да исправљате, понудите активност која одговара том покрету, на пример корпу крпица за слагање или песму коју певате заједно."
+  - q: "Шта ако активност уради погрешно?"
+    a: "Ако је безазлено, нека буде тако. Пешкири преклопљени другачије или кашике на другом месту нису важни. Исправљање може деловати као критика, док им то што раде на свој начин даје осећај способности и корисности."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +48,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+Средња фаза деменције често је најдужа, и у њој активности почињу да траже стварну подршку. Речи све теже долазе, кораци се мешају, а почињање било чега може деловати тешко. Али жеља да буде корисна и укључена обично остаје. Уз мало припреме, особа у средњој фази и даље може да ужива у прилично много тога, нарочито у познатим пословима, музици и сликама које гледате заједно, једно поред другог.
 
-## What activities work well in middle-stage dementia?
+## Које активности добро функционишу у средњој фази деменције?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Најбоље функционишу кратке, познате активности са практичним радом, подељене на појединачне кораке. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) каже да не морате да смишљате нешто ново: активности могу бити део свакодневног живота, као што су заједничко спремање вечере, баштованство, слушање музике или шетња.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) наводи да људи у овој фази често имају јаку потребу да осете да су корисни или да брину о нечему и да им је потребна помоћ да почну или наставе активност. Њихов списак за средњу фазу укључује слагање веша, прање судова, слагање чарапа, лагане вежбе, плес уз познату музику, вођене шетње, заједничко певање, једноставно сликање и гледање албума са фотографијама.
 
-## How do you set up an activity so it works?
+## Како поставити активност да би успела?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+Већина активности успева или пропада већ у припреми. Ове навике, засноване на [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) и [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), највише помажу:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Очистите простор.** Искључите телевизор, затворите врата и изнесите само оно што активност треба.
+2. **Почните сами.** Започните слагање или мешање и позовите их да се придруже: „Можете ли ми помоћи са овим?“
+3. **Покажите, па сачекајте.** Покажите један корак. Упутите руком, на пример показујући где иде тањир.
+4. **Дајте један корак у исто време.** „Преклопите на пола“ је лакше од „преклопите ово и сложите по боји“.
+5. **Понудите два избора, а не отворена питања.** „Плави пешкири или бели?“ је лакше одговорити него „Шта желите да радите?“
+6. **Тежак део урадите сами.** Ви мерите, они мешају. Ви увлачите конац у иглу, они намотавају предиво.
+7. **Дајте разлог.** „Ове салвете су за недељни ручак“ чини посао стварним.
+8. **Нека посматрају ако тако више воле.** [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) напомиње да и само посматрање може бити пријатно.
 
-## Activity ideas for the middle stage
+## Идеје за активности у средњој фази
 
-### Useful jobs
+### Корисни послови
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Слажите пешкире и крпице.** Мале, равне ствари су најлакше. Корпа са топлим крпицама може да се слаже, исправи и поново слаже.
+- **Спарујте чарапе.** Почните са неколико веома различитих парова. Слагање само по боји је такође у реду.
+- **Перите или сушите посуђе које се не разбија.** Топла вода са сапуном пријатна је за руке. Сушење док седе лакше је за ноге.
+- **Поставите сто.** Дајте једну врсту предмета у исто време и поставите једно место сами, као узор.
+- **Помозите око вечере.** Прање кромпира, кидање салате или мешање у посуди. Ви руковате ножевима и шпоретом.
+- **Метите, прашите или бришите.** Крпа за сто, лагана метла за трем.
 
-See [household tasks](/activities/household-tasks/) for many more.
+За много више идеја погледајте [кућне послове](/activities/household-tasks/).
 
-### Music and movement
+### Музика и покрет
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Певајте омиљене песме.** Почните сами да певате; многи се придруже песмама које знају деценијама. Видите [активности уз музику](/activities/music/).
+- **Играјте слободно.** Љуљајте се, пљескајте или се крећите како вам је пријатно. Седећи положај је у реду.
+- **Бацајте балон.** Креће се споро и лако га је ухватити из фотеље.
+- **Идите на вођену шетњу.** Прошетајте заједно кратку, познату стазу, под руку ако то помаже.
 
-### Pictures and stories
+### Слике и приче
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Погледајте албум са фотографијама.** Коментаришите оно што видите, уместо да постављате питања: „Погледајте тај ауто. Причајте ми о њему.“ Видите [активности са сећањима](/activities/reminiscence/).
+- **Користите картице за разговор.** [Картице за разговор](/games/conversation-cards/) упаривају слику са отвореном подстицајном реченицом, без квиза.
+- **Заједно погледајте стари филм.** Изаберите познат, останите у близини и направите паузе.
 
-### Simple, pressure-free games
+### Једноставне игре без притиска
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Парови слика са видљивим сликама.** [Парови слика](/games/picture-pairs/) држе слике стално видљивим, па се ради о запажању, а не о памћењу.
+- **Пронађи исту.** [Пронађи исту](/games/find-the-same/) приказује једну слику и само два до четири понуђена избора.
+- **Разврставање заједно.** [Разврставање заједно](/games/sort-together/) је као слагање веша на екрану: додирните слику, па њену корпу.
+- **Бинго са сликама.** [Бинго са сликама](/games/picture-bingo/) добро функционише на породичним окупљањима и у групама.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Ако игра почне да изазива фрустрацију, станите и урадите нешто друго. Видите [како играти заједно](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Претварање немира у активност
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Немирно или понављајуће понашање често има разлог. Family Caregiver Alliance истиче да особа која стално празни орман можда покушава да задовољи потребу да буде заузета и корисна. Alzheimer's Association предлаже да се та енергија усмери у одговарајућу активност, а не да се заустави.
 
-| What you see | Something to offer |
+| Шта видите | Шта понудити |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Трљање или чепркање по столу | Влажна крпа и замолба да обришу сто |
+| Немирне ноге или куцкање | Музика са јасним ритмом за куцкање или пљескање |
+| Празњење фиока или ормана | Корпа са одећом или крпицама за слагање и разврставање |
+| Понављање истог питања | Уверавање, па песма или посао који делите |
+| Ходање напред-назад | Заједничка шетња или посао који укључује ношење ствари |
+| Вечерња узнемиреност | Миран, познат посао при добром светлу; видите [вечерњи немир](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Када стати или променити приступ
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Станите када приметите знаке умора, фрустрације, стида или досаде, као што су немир, мрштење, одгуривање ствари или речи „не могу“. Alzheimer's Association предлаже да покушате поново у другом делу дана или да активност учините једноставнијом. Не форсирајте. Одбијање може долазити из страха или из тога што је задатак претежак; видите [када кажу не](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Прекид раније је у реду. Исто тако је у реду само седети заједно уз шољу чаја. Како способности даље слабе, идеје из [активности у касној фази](/activities/late-stage/) можда ће боље одговарати, а [101 активност](/activities/ideas/) има још много идеја за пробу.

@@ -1,32 +1,31 @@
 ---
-title: "A Gentle Daily Routine for Someone Living with Dementia"
-seoTitle: "Dementia Daily Routine: A Flexible Sample Day"
-description: "A flexible sample day for someone living with dementia, with meals, activities and rest in a steady rhythm, plus how to build your own and adapt it on harder days."
+title: "Një rutinë ditore e butë për personin që jeton me demencë"
+seoTitle: "Rutina ditore për demencën: një ditë shembull fleksibël"
+description: "Një ditë shembull fleksibël për personin me demencë, me vakte, aktivitete dhe pushim në ritëm të qëndrueshëm, si dhe si ta përshtatni në ditët më të vështira."
 section: activities
 order: 15
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  A gentle daily routine keeps waking, meals, personal care and bedtime at
-  about the same times, places the main activity when the person is most
-  alert, and balances activity with rest. Build it from the person's lifelong
-  habits, keep it loose rather than packed, get daylight and movement each
-  day, and change the plan freely when the day calls for it.
+  Një rutinë e butë ditore mban të njëjtat orare për zgjimin, vaktet, kujdesin
+  personal dhe gjumin. Aktiviteti kryesor vendoset kur personi është më i zgjuar,
+  dhe dita balancon aktivitetin me pushimin. Ndërtojeni nga zakonet e jetës së
+  personit, mbajeni të lirshme dhe ndryshojeni kur dita e kërkon.
 keyPoints:
-  - "Steady times for waking, meals, care and bedtime give the day a familiar shape."
-  - "Put the main activity at the person's best time of day, often the morning."
-  - "Do not fill every minute. Rest and quiet time are part of the routine."
-  - "Daylight, daily movement and avoiding long late naps and late caffeine may help with late-day restlessness."
-  - "A routine is a guide, not a rule. Swap, shorten or skip anything on harder days."
+  - "Orare të qëndrueshme për zgjimin, vaktet, kujdesin dhe gjumin i japin ditës një formë të njohur."
+  - "Vendosni aktivitetin kryesor në kohën më të mirë të ditës për personin, shpesh në mëngjes."
+  - "Mos e mbushni çdo minutë. Pushimi dhe koha e qetë janë pjesë e rutinës."
+  - "Drita e ditës, lëvizja e përditshme dhe shmangia e dremitjeve të gjata e të vonshme dhe e kafesë vonë mund të ndihmojnë me shqetësimin e pasdites."
+  - "Rutina është një udhëzues, jo një rregull. Ndryshoni, shkurtoni ose kaloni çdo gjë në ditët më të vështira."
 faq:
-  - q: "Why is a routine helpful for someone with dementia?"
-    a: "A predictable day means fewer decisions and surprises, which many people living with dementia find reassuring. The Alzheimer's Association notes that a planned day lets you spend less time working out what to do and more time on things you both enjoy. It also helps caregivers pace their own day."
-  - q: "What is a good daily schedule for someone with dementia?"
-    a: "There is no single right schedule. A good one keeps waking, meals and bedtime at about the same times, places personal care and the main activity when the person is at their best, includes time outdoors or near a window, and leaves room for rest. Build it around how the person has always lived."
-  - q: "Should a person with dementia nap during the day?"
-    a: "A short rest can help, especially after lunch. The National Institute on Aging suggests discouraging long naps and dozing late in the day, since being overtired or poorly rested can add to late-day restlessness. If sleep is a real problem, talk with their doctor."
-  - q: "What if they refuse to follow the routine?"
-    a: "Let it go for now and try again later or in a different way. Refusing can mean they are tired, unwell, in pain or simply not ready. The routine exists to make the day easier, so bend it rather than force it."
+  - q: "Pse është e dobishme një rutinë për personin me demencë?"
+    a: "Një ditë e parashikueshme do të thotë më pak vendime dhe surpriza, gjë që shumë njerëz me demencë e ndjejnë si qetësuese. Alzheimer's Association thekson se një ditë e planifikuar ju lejon të shpenzoni më pak kohë duke menduar çfarë të bëni dhe më shumë kohë për gjërat që ju të dy i doni. Ajo ndihmon edhe kujdestarin të organizojë ditën e vet."
+  - q: "Cili është një orar i mirë ditor për personin me demencë?"
+    a: "Nuk ka një orar të vetëm të saktë. Një orar i mirë mban zgjimin, vaktet dhe gjumin në orë afërsisht të njëjta, vendos kujdesin personal dhe aktivitetin kryesor kur personi është në formën më të mirë, përfshin kohë jashtë ose pranë dritares dhe lë vend për pushim. Ndërtojeni rreth mënyrës si ka jetuar gjithmonë personi."
+  - q: "A duhet të flejë gjatë ditës personi me demencë?"
+    a: "Një pushim i shkurtër mund të ndihmojë, sidomos pas drekës. National Institute on Aging sugjeron të shmangen gjumërat e gjata dhe dremitjet e vonshme në ditë, sepse lodhja ose gjumi i keq mund të shtojë shqetësimin e pasdites. Nëse gjumi është problem i vërtetë, flisni me mjekun e tyre."
+  - q: "Çfarë nëse refuzojnë të ndjekin rutinën?"
+    a: "Lëreni për tani dhe provoni përsëri më vonë ose në mënyrë tjetër. Refuzimi mund të tregojë lodhje, sëmundje, dhimbje ose thjesht se nuk janë gati. Rutina ekziston për ta bërë ditën më të lehtë, prandaj përshtatuni me të në vend që ta detyroni."
 sources:
   - title: "Daily Care Plan"
     publisher: "Alzheimer's Association"
@@ -45,76 +44,76 @@ related: [activities/ideas, caregiving/late-day-restlessness, brain-health/sleep
 health: false
 ---
 
-A gentle routine gives the day a familiar shape: getting up, meals, a little activity, rest, and bed at roughly the same times. It cuts down on decisions and surprises, and it gives you a plan for the moments when you would otherwise be wondering what to do next. The routine below is a sample, not a rule. Use it as a starting point, then shape it around the person you care for.
+Një rutinë e butë i jep ditës një formë të njohur: zgjohuni, hani, bëni pak aktivitet, pushoni dhe flini afërsisht në të njëjtat orare. Kjo ul vendimet dhe surprizat, dhe jep një plan për momentet kur do të pyesnit veten çfarë të bëni më pas. Orari më poshtë është një shembull, jo një rregull. Përdoreni si pikënisje, pastaj formojeni sipas personit që kujdeseni.
 
-## Why does a daily routine help?
+## Pse ndihmon një rutinë ditore?
 
-A steady routine helps because familiar patterns are easier to follow than new ones. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) says a planned day means less time spent deciding what to do and more time for enjoyable activities, and notes that regular times for waking and going to bed can help with sleep problems and late-day restlessness. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) suggests bathing, dressing and eating at the same times each day as part of a calm home, and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) also recommends keeping the same routines.
+Një rutinë e qëndrueshme ndihmon sepse modelet e njohura ndiqen më lehtë se ato të reja. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) thotë se një ditë e planifikuar do të thotë më pak kohë për të vendosur çfarë të bëhet dhe më shumë kohë për aktivitete të kënaqshme, dhe shënon se oraret e rregullta të zgjimit dhe të gjumit mund të ndihmojnë me problemet e gjumit dhe me shqetësimin e pasdites. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) sugjeron larjen, veshjen dhe ngrënien në të njëjtat orare çdo ditë si pjesë e një shtëpie të qetë, dhe edhe [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rekomandon ruajtjen e të njëjtave rutina.
 
-## A sample gentle day
+## Një ditë shembull e butë
 
-Times are only examples. Shift the whole day earlier or later to match the person's own rhythm.
+Oraret janë vetëm shembuj. Zhvendosni gjithë ditën më herët ose më vonë, që t'i përshtatet ritmit të vet personit.
 
-| Time | What happens | Ideas | On a harder day |
+| Ora | Çfarë ndodh | Ide | Në një ditë më të vështirë |
 | --- | --- | --- | --- |
-| 8:00 a.m. | Wake up, wash, dress | Same order every day; lay clothes out in the order they go on | Keep care simple; a fresh shirt is enough |
-| 8:45 a.m. | Breakfast | Coffee and the newspaper read aloud, or the radio | Eat together quietly, no pressure to talk |
-| 9:30 a.m. | Main activity | Fold laundry, bake, garden, a short outing or a walk | A shorter version, or let them watch you do it |
-| 10:30 a.m. | Quiet time | Music, a photo album, or sitting by a window | Rest in a favorite chair |
-| 11:00 a.m. | Help with lunch | Wash vegetables, set the table | You cook; they keep you company |
-| 12:00 p.m. | Lunch and tidy up | Wipe the table, dry a few dishes | Skip the chores |
-| 1:00 p.m. | Short rest | Feet up, soft music | Same |
-| 2:00 p.m. | Outside or active | Walk, porch time, water plants, toss a balloon | Sit by a sunny window |
-| 3:00 p.m. | Social or creative | A visit, a call, [picture pairs](/games/picture-pairs/), coloring, cards | A drink and a snack together |
-| 4:30 p.m. | Settling time | Curtains closed, lights on, a calm task like folding washcloths | Familiar music, low noise |
-| 5:30 p.m. | Dinner | Help stir or set the table | Simple, familiar food |
-| 6:30 p.m. | Evening together | Reminisce over dessert, cards, a favorite show, a hand massage | Quiet company |
-| 8:00 p.m. | Bedtime routine | Bath or wash, pajamas, soft music, low lights | Shorten everything; comfort first |
+| 8:00 e mëngjesit | Zgjohuni, lahuni, vishuni | Të njëjtin rend çdo ditë; vendosni rrobat në rendin në të cilin vishen | Mbajeni kujdesin të thjeshtë; një këmishë e freskët mjafton |
+| 8:45 e mëngjesit | Mëngjesi | Kafe dhe gazeta e lexuar me zë, ose radioja | Hani bashkë në heshtje, pa presion për të folur |
+| 9:30 e mëngjesit | Aktiviteti kryesor | Palosni rrobat, piqni, punoni në kopësht, një dalje e shkurtër ose një shëtitje | Një version më i shkurtër, ose lëreni ta shikojë ndërsa e bëni ju |
+| 10:30 e mëngjesit | Kohë e qetë | Muzikë, album fotografish, ose ulur pranë dritares | Pushim në karrigen e preferuar |
+| 11:00 e mëngjesit | Ndihmë për drekën | Lani perime, vendosni tryezën | Ju gatuani; ata ju bëjnë shoqëri |
+| 12:00 në mesditë | Dreka dhe pastrimi | Fshini tryezën, thani disa pjata | Hiqni dorë nga punët e shtëpisë |
+| 1:00 pasdite | Pushim i shkurtër | Këmbët lart, muzikë e butë | Njëlloj |
+| 2:00 pasdite | Jashtë ose aktiv | Shëtitje, kohë në verandë, ujitja e bimëve, hedhja e një balloni | Uluni pranë një dritareje me diell |
+| 3:00 pasdite | Shoqërore ose krijuese | Një vizitë, një telefonatë, [çifte fotografish](/games/picture-pairs/), ngjyrosje, letra | Një pije dhe një meze bashkë |
+| 4:30 pasdite | Kohë qetësimi | Perdet të mbyllura, drita të ndezura, një punë e qetë si palosja e peshqirëve të vegjël | Muzikë e njohur, zhurmë e ulët |
+| 5:30 pasdite | Darka | Ndihmoni të përzieni ose të vendosni tryezën | Ushqim i thjeshtë dhe i njohur |
+| 6:30 pasdite | Mbrëmja bashkë | Kujtime gjatë ëmbëlsirës, letra, një shfaqje e preferuar, masazh i dorës | Shoqëri e qetë |
+| 8:00 e mbrëmjes | Rutina e gjumit | Dush ose larje, pizhamet, muzikë e butë, drita të ulëta | Shkurtoni çdo gjë; rehatia para së gjithash |
 
-This sample follows the shape of the Alzheimer's Association's own sample plan for the early and middle stages, which moves from personal care and breakfast through chores, walks, music, rest and visits to dinner, reminiscing and getting ready for bed.
+Ky shembull ndjek formën e planit shembull të Alzheimer's Association për fazat e hershme dhe të mesme, që kalon nga kujdesi personal dhe mëngjesi te punët e shtëpisë, shëtitjet, muzika, pushimi dhe vizitat, deri te darka, kujtimet dhe përgatitja për gjumë.
 
-## How do you build your own routine?
+## Si ndërtoni rutinën tuaj?
 
-Start from how the person has always lived, not from a chart. The Alzheimer's Association suggests thinking about these things before you plan:
+Nisni nga mënyra si ka jetuar gjithmonë personi, jo nga një tabelë. Alzheimer's Association sugjeron të mendoni për këto gjëra para se të planifikoni:
 
-- **Their likes, dislikes, strengths and interests.**
-- **How they used to spend their day.** An early riser who always walked the dog should still walk early. A night owl may never enjoy an 8 a.m. start.
-- **Their best time of day.** Put bathing, outings and the main activity there.
-- **Enough time** for meals, washing and dressing, so nothing is rushed.
-- **Regular waking and bedtimes.**
+- **Pëlqimet, mospëlqimet, pikat e forta dhe interesat e tij.**
+- **Si e kalonte ditën më parë.** Një person që zgjohej herët dhe e shëtiste qenin, duhet të shëtisë sërish herët. Një person që punonte natën mund të mos e pëlqejë kurrë fillimin në orën 8 të mëngjesit.
+- **Koha e tij më e mirë e ditës.** Vendosni aty larjen, daljet dhe aktivitetin kryesor.
+- **Kohë e mjaftueshme** për vaktet, larjen dhe veshjen, që asgjë të mos nxitohet.
+- **Orare të rregullta zgjimi dhe gjumi.**
 
-The same source suggests including a mix of household chores, meals, personal care, creative activities, physical activity, social time, spiritual activity and spontaneous moments, such as a friend dropping by.
+I njëjti burim sugjeron një përzierje punësh shtëpiake, vaktesh, kujdesi personal, aktivitetesh krijuese, lëvizjeje, kohe shoqërore, aktiviteti shpirtëror dhe momentesh spontane, si një mik që vjen në vizitë.
 
-### Try it for a week, then adjust
+### Provojeni një javë, pastaj rregulloni
 
-Keep a simple note each day. The Alzheimer's Association suggests asking which activities worked best and why, whether there were times with too much going on or too little to do, and whether spontaneous plans were enjoyable or caused worry. Keep what works and change what does not.
+Mbani një shënim të thjeshtë çdo ditë. Alzheimer's Association sugjeron të pyesni cilat aktivitete funksionuan më mirë dhe pse, nëse kishte ditë me shumë gjëra njëherësh ose me shumë pak për të bërë, dhe nëse planet spontane ishin të këndshme apo shkaktuan shqetësim. Mbajeni atë që funksionon dhe ndryshoni atë që nuk funksionon.
 
-### Make it visible
+### Bëjeni të dukshme
 
-If the person can still read, a whiteboard or a large-print card with the day's plan can be reassuring. Keep it short: "Breakfast. Walk with Sarah. Lunch. Rest." Some people do better without knowing far ahead; the Family Caregiver Alliance suggests not discussing plans until just before they happen if it causes worry.
+Nëse personi mund ende të lexojë, një tabelë e bardhë ose një kartë me shkronja të mëdha me planin e ditës mund të qetësojë. Mbajeni të shkurtër: „Mëngjes. Shëtitje me Sarah. Drekë. Pushim.“ Disa njerëz e kalojnë më mirë pa e ditur shumë përpara; Family Caregiver Alliance sugjeron të mos flitet për planet deri pak para se të ndodhin, nëse shkaktojnë shqetësim.
 
-## How to adapt the routine
+## Si ta përshtatni rutinën
 
-### Leave room to breathe
+### Lini vend për të marrë frymë
 
-Do not fill every minute. The Alzheimer's Association stresses that the person needs a balance of activity and rest and may need more frequent breaks. If they seem bored, distracted or irritable, switch activities or rest.
+Mos e mbushni çdo minutë. Alzheimer's Association thekson se personi ka nevojë për balancë midis aktivitetit dhe pushimit, dhe mund të ketë nevojë për pushime më të shpeshta. Nëse duket i mërzitur, i shpërqendruar ose i inatosur, ndryshoni aktivitetin ose pushoni.
 
-### Protect the late afternoon
+### Mbroni pasditen e vonë
 
-Many people grow more restless as daylight fades. The NIA suggests time outdoors or by a window for sunlight each day, being active each day without planning too much, avoiding caffeine and alcohol late in the day, and discouraging long naps late in the day. Some families also find it helps to close the curtains and turn on lights before dusk. See [late-day restlessness](/caregiving/late-day-restlessness/) and [sleep](/brain-health/sleep/).
+Shumë njerëz bëhen më të shqetësuar kur drita e ditës zbehet. NIA sugjeron kohë jashtë ose pranë dritares për dritë dielli çdo ditë, aktivitet çdo ditë pa planifikuar shumë, shmangien e kafeinës dhe alkoolit vonë në ditë, dhe shmangien e dremitjeve të gjata vonë në ditë. Disa familje e gjejnë të dobishme edhe mbylljen e perdeve dhe ndezjen e dritave para muzgut. Shihni [shqetësimin e pasdites](/caregiving/late-day-restlessness/) dhe [gjumin](/brain-health/sleep/).
 
-### Change it as needs change
+### Ndryshojeni sipas nevojave
 
-- **Early stage:** plan the routine together. The person may want a written schedule they manage themselves.
-- **Middle stage:** you lead more. Shorter activities, more rest and lots of familiar jobs; see [middle-stage activities](/activities/middle-stage/).
-- **Late stage:** the routine centers on comfort, meals and care, with short sensory moments such as music or a hand massage in between; see [late-stage activities](/activities/late-stage/).
+- **Faza e hershme:** planifikoni rutinën bashkë. Personi mund të dojë një orar të shkruar që e menaxhon vetë.
+- **Faza e mesme:** ju udhëhiqni më shumë. Aktivitete më të shkurtra, më shumë pushim dhe shumë punë të njohura; shihni [aktivitetet për fazën e mesme](/activities/middle-stage/).
+- **Faza e vonë:** rutina përqendrohet te rehatia, vaktet dhe kujdesi, me momente të shkurtra shqisore si muzika ose masazhi i dorës ndërmjet tyre; shihni [aktivitetet për fazën e vonë](/activities/late-stage/).
 
-### Vary the activities, not the frame
+### Ndryshoni aktivitetet, jo kornizën
 
-Keep meals, rest and bedtime steady, and rotate the activities in between. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests trying different activities on different days to keep things interesting. You might bake on Monday, garden on Tuesday and look at photos on Wednesday. Our [101 activity ideas](/activities/ideas/) and [household tasks](/activities/household-tasks/) can fill the slots.
+Mbani të qëndrueshme vaktet, pushimin dhe gjumin, dhe rrotulloni aktivitetet ndërmjet tyre. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) sugjeron të provohen aktivitete të ndryshme në ditë të ndryshme, për t'i mbajtur gjërat interesante. Mund të piqni të hënën, të punoni në kopësht të martën dhe të shikoni foto të mërkurën. [101 idetë për aktivitete](/activities/ideas/) dhe [punët e shtëpisë](/activities/household-tasks/) tona mund të mbushin hapësirat.
 
-## When the day goes sideways
+## Kur dita shkon keq
 
-Some days will not follow any plan. Illness, a bad night, a visit from the doctor or a change in weather can throw everything off. Drop the plan, keep the basics (food, drink, rest, comfort) and try again tomorrow. If the person refuses something, see [when they say no](/caregiving/when-they-say-no/). A slow breathing pause together, like [calm breathing](/games/calm-breathing/), can help you both reset.
+Disa ditë nuk do të ndjekin asnjë plan. Sëmundja, një natë e keqe, një vizitë te mjeku ose një ndryshim i motit mund ta përmbysin gjithçka. Hiqni dorë nga plani, mbani gjërat themelore (ushqimin, pijen, pushimin, rehatinë) dhe provoni përsëri nesër. Nëse personi refuzon diçka, shihni [kur thonë jo](/caregiving/when-they-say-no/). Një pauzë e ngadaltë frymëmarrjeje bashkë, si [frymëmarrja e qetë](/games/calm-breathing/), mund t'ju ndihmojë të dy të rifilloni.
 
-Your own routine matters too. Build in breaks for yourself, and ask family or a respite service to cover regular time off. See [caregiver self-care](/caregiving/caregiver-self-care/).
+Rutina juaj e vetë ka rëndësi gjithashtu. Bëni pushime për veten dhe kërkoni nga familja ose një shërbim zëvendësues të mbulojë kohë të rregullt lirie. Shihni [kujdesin ndaj vetes](/caregiving/caregiver-self-care/).

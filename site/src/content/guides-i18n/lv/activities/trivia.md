@@ -1,32 +1,33 @@
 ---
-title: "Easy Trivia for Seniors with Dementia, Without the Pressure"
-seoTitle: "Easy Trivia for Seniors with Dementia: 50 Questions"
-description: "50 easy trivia questions for seniors with dementia, with answer choices and talking points, plus how to run trivia so nobody feels tested or left out."
+title: "Vienkārša viktorīna senioriem ar demenci, bez spiediena"
+seoTitle: "Viktorīnas jautājumi senioriem ar demenci, ar atbildēm"
+description: "50 vienkārši viktorīnas jautājumi senioriem ar demenci, ar atbilžu variantiem un sarunu tēmām, kā arī padomi, kā vadīt viktorīnu bez spiediena."
 section: activities
 order: 19
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Easy trivia for seniors with dementia works when it feels like a chat, not a
-  test. Ask about things learned long ago, such as old songs, sayings, holidays
-  and everyday life, and always offer two or three choices. Give the answer
-  freely, never single anyone out, skip the score, and use each answer to start
-  a story. "This or that" questions with no wrong answer suit later stages.
+  Viktorīna senioriem ar demenci darbojas, ja tā šķiet sarunai, nevis pārbaudei.
+  Jautājiet par lietām, ko cilvēks iemācījās sen, piemēram, par vecām dziesmām,
+  teicieniem, svētkiem un ikdienu, un vienmēr piedāvājiet divas vai trīs izvēles.
+  Atbildi pasakiet brīvi, nekad neizceļiet vienu cilvēku, neskaitiet punktus un
+  izmantojiet katru atbildi, lai sāktu stāstu. Jautājumi „šis vai tas” bez
+  nepareizas atbildes der arī vēlākos posmos.
 keyPoints:
-  - "Ask about long-familiar things: songs, sayings, holidays, food and everyday life from years ago."
-  - "Offer two or three choices so the answer can be recognized rather than recalled."
-  - "Say the answer warmly and move on. Any guess that starts a story is a good guess."
-  - "No points, no teams racing, no calling on one person. Let answers come from the whole room."
-  - "When choosing between answers gets hard, switch to this-or-that questions with no right answer."
+  - "Jautājiet par sen zināmām lietām: dziesmām, teicieniem, svētkiem, ēdienu un ikdienu no senākiem gadiem."
+  - "Piedāvājiet divas vai trīs izvēles, lai atbildi var atpazīt, nevis atcerēties."
+  - "Pateiciet atbildi siltā tonī un ejiet tālāk. Jebkurš minējums, kas sāk stāstu, ir labs minējums."
+  - "Bez punktiem, bez komandu sacensības un bez viena cilvēka izsaukšanas. Atbildes lai nāk no visas telpas."
+  - "Kad atbilžu izvēle kļūst grūta, pārejiet uz jautājumiem „šis vai tas”, kuriem nav pareizas atbildes."
 faq:
-  - q: "Is trivia a good activity for people with dementia?"
-    a: "It can be, if it is run gently. The Alzheimer's Foundation of America lists trivia among activities for the early stage. Keep questions about long-familiar topics, offer choices, never put one person on the spot, and treat the answers as a way into conversation rather than a test."
-  - q: "What topics work best for dementia trivia?"
-    a: "Things learned long ago tend to work best: popular songs and singers from the person's youth, familiar sayings, holidays, food, sports, and everyday life such as milk deliveries and rotary phones. Avoid recent news and anything that needs remembering something from earlier in the session."
-  - q: "How do I run trivia in a care home without embarrassing anyone?"
-    a: "Read each question to the whole group, show or say the choices, and welcome answers from anyone. Do not call on individuals or keep score. Say the answer with a smile whatever was guessed, and ask a follow-up such as 'Who here ever went to a drive-in?' to turn it into stories."
-  - q: "What can I do instead of trivia in later stages?"
-    a: "Switch to questions with no wrong answer, such as 'Coffee or tea?' or 'Beach or mountains?', and to finishing familiar sayings or songs together. Looking at pictures and describing them together also works well."
+  - q: "Vai viktorīna ir labs pasākums cilvēkiem ar demenci?"
+    a: "Var būt, ja to vada maigi. Alzheimer's Foundation of America viktorīnu min starp aktivitātēm agrīnajam posmam. Turiet jautājumus par sen zināmām tēmām, piedāvājiet izvēles, nekad nelieciet vienu cilvēku neērtā situācijā un uzskatiet atbildes par ceļu uz sarunu, nevis par pārbaudi."
+  - q: "Kādas tēmas vislabāk der demences viktorīnai?"
+    a: "Vislabāk darbojas lietas, ko iemācījās sen: populāras dziesmas un dziedātāji no cilvēka jaunības, zināmi teicieni, svētki, ēdiens, sports un ikdiena, piemēram, piena piegāde un tālruņi ar ciparripu. Izvairieties no jaunākajām ziņām un no tā, kam vajag atcerēties kaut ko no iepriekš šajā nodarbībā."
+  - q: "Kā vadīt viktorīnu aprūpes mājā, lai neviens nejustos neērti?"
+    a: "Nolasiet katru jautājumu visai grupai, parādiet vai nosauciet izvēles un laipni uzklausiet atbildes no ikviena. Neizsauciet atsevišķus cilvēkus un neskaitiet punktus. Pasakiet atbildi ar smaidu neatkarīgi no tā, ko kāds minēja, un uzdodiet papildu jautājumu, piemēram, „Vai kāds šeit kādreiz ir bijis autokinoteātrī?”, lai tas kļūtu par stāstiem."
+  - q: "Ko darīt vēlākos posmos viktorīnas vietā?"
+    a: "Pārejiet uz jautājumiem bez nepareizas atbildes, piemēram, „Kafija vai tēja?” vai „Pludmale vai kalni?”, un kopā pabeidziet pazīstamus teicienus vai dziesmas. Labi darbojas arī attēlu skatīšanās un kopīga aprakstīšana."
 sources:
   - title: "Therapeutic Activities for 3 Main Stages of Alzheimer's disease"
     publisher: "Alzheimer's Foundation of America"
@@ -45,135 +46,135 @@ related: [activities/care-home-groups, activities/reminiscence, activities/memor
 health: false
 ---
 
-Trivia is one of the most requested group activities in care homes and day programs, and many families play it at the kitchen table too. Run the usual way, with points and one person answering, it can leave someone with dementia feeling put on the spot. Run gently, it is a lively way to hear stories. Below are 50 easy questions with answer choices and something to talk about for each, followed by how to run a session.
+Viktorīna ir viena no visbiežāk pieprasītajām grupu nodarbībām aprūpes mājās un dienas programmās, un daudzas ģimenes to spēlē arī pie virtuves galda. Ja to vada parastajā veidā, ar punktiem un vienu cilvēku, kas atbild, cilvēks ar demenci var justies izspiests stūrī. Ja to vada maigi, tā ir dzīva veids, kā uzzināt stāstus. Zemāk ir 50 vienkārši jautājumi ar izvēlēm un tēmu sarunai katram, kā arī padomi, kā vadīt nodarbību.
 
-## How do you make trivia work for someone with dementia?
+## Kā padarīt viktorīnu noderīgu cilvēkam ar demenci?
 
-Make it about recognizing and remembering long-ago things, and make every answer welcome.
+Jautājumiem jābūt par atpazīšanu un atcerēšanos par senām lietām, un katra atbilde jāpieņem laipni.
 
-1. **Ask about the distant past.** The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is trouble remembering newly learned information. Songs, sayings and everyday life from decades ago are often easier ground.
-2. **Always give choices.** Picking the right answer from two or three is much easier than producing it from nothing.
-3. **Read questions aloud and show them large.** A whiteboard or a tablet held up helps people who hear less well.
-4. **Give the answer freely.** If nobody knows, say it warmly and move on. Never "Come on, you know this."
-5. **No score.** Not for individuals and not for tables. If people want a number, keep one group total.
-6. **Never call on one person.** Let answers come from anyone. In a one-to-one, answer together: "I think it's the piano. What do you think?"
-7. **Use the talking point.** The answer is the start, not the end. Stories are the real goal.
-8. **Keep it short.** Ten questions with stories in between is plenty.
+1. **Jautājiet par tālu pagātni.** [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) saka, ka visbiežākais agrīnais Alcheimera slimības simptoms ir grūtības atcerēties tikko iemācītu informāciju. Dziesmas, teicieni un ikdienas dzīve no pirms desmitgadēm bieži ir vieglāks pamats.
+2. **Vienmēr dodiet izvēles.** Pareizo atbildi izvēlēties no divām vai trim ir daudz vieglāk, nekā to radīt no nulles.
+3. **Lasiet jautājumus skaļi un rādiet tos lielus.** Tāfele vai planšete, ko paceļ augstu, palīdz cilvēkiem, kas sliktāk dzird.
+4. **Dodiet atbildi brīvi.** Ja neviens nezina, pasakiet to siltā tonī un ejiet tālāk. Nekad „Nu, tu taču to zini.”
+5. **Bez punktiem.** Ne indivīdiem, ne komandām. Ja cilvēki grib ciparu, saglabājiet vienu kopējo grupas summu.
+6. **Nekad neizsauciet vienu cilvēku.** Ļaujiet atbildēt jebkuram. Vienatnē atbildiet kopā: „Domāju, ka tās ir klavieres. Ko jūs domājat?”
+7. **Izmantojiet sarunas tēmu.** Atbilde ir sākums, nevis beigas. Īstais mērķis ir stāsti.
+8. **Turiet to īsu.** Desmit jautājumi ar stāstiem starp tiem ir pietiekami.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) puts the core rule simply: watch for frustration and make sure the person feels successful. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia among activities for the early stage. In the middle stage, keep to two choices and lean on the talking points. Later, switch to the this-or-that questions further down.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pamatnoteikumu formulē vienkārši: pamanīt neapmierinātību un pārliecināties, ka cilvēks jūtas veiksmīgs. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) viktorīnu min starp aktivitātēm agrīnajam posmam. Vidējā posmā paturiet divas izvēles un balstieties uz sarunu tēmām. Vēlāk pārejiet uz jautājumiem „šis vai tas” zemāk.
 
-## Music and entertainment trivia
+## Mūzikas un izklaides viktorīna
 
-The answer is in **bold**. Tailor these to the person: someone who grew up with Motown will want different singers from someone who grew up with big bands.
+Atbilde ir **treknrakstā**. Pielāgojiet šos jautājumus cilvēkam: tas, kas auga ar Motown, gribēs citus dziedātājus nekā tas, kas auga ar big bands.
 
-| Question | Choices | Talk about |
+| Jautājums | Izvēles | Par ko runāt |
 | --- | --- | --- |
-| Who was called the King of Rock and Roll? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Did you ever see Elvis on TV? |
-| Which singer was nicknamed Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Which Sinatra song do you like best? |
-| Bing Crosby dreamed of a white... | **Christmas**, wedding, house | Sing a line together |
-| Louis Armstrong sang "What a Wonderful..." | Day, **World**, Life | What makes the world wonderful to you? |
-| "Over the Rainbow" was sung by Judy Garland in which movie? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Where did you see your favorite movies? |
-| Who starred as Lucy in "I Love Lucy"? | **Lucille Ball**, Doris Day, Betty White | What shows did your family watch together? |
-| Which cowboy rode a horse named Trigger? | **Roy Rogers**, Gene Autry, John Wayne | Did you play cowboys as a child? |
-| Who hosted "The Tonight Show" for 30 years? | Ed Sullivan, **Johnny Carson**, Bob Hope | Did you stay up late to watch TV? |
-| Which instrument has 88 keys? | Guitar, **piano**, trumpet | Did anyone in your family play? |
-| Which dance is counted one-two-three, one-two-three? | **Waltz**, twist, tango | Where did you go dancing? |
+| Kuru sauca par rokenrola karali? | **Elvis Presley**, Frank Sinatra, Bing Crosby | Vai kādreiz redzējāt Elvisu televizorā? |
+| Kuru dziedātāju sauca par Ol' Blue Eyes? | Dean Martin, **Frank Sinatra**, Perry Como | Kura Sinatra dziesma jums patīk visvairāk? |
+| Bings Krosbijs sapņoja par baltiem... | **Ziemassvētkiem**, kāzām, mājām | Padziediet kopā vienu rindiņu |
+| Luiss Armstrongs dziedāja „Cik brīnišķīga…” | Diena, **pasaule**, dzīve | Kas pasaulē jums šķiet brīnišķīgs? |
+| Džudija Garlenda dziedāja „Over the Rainbow” kurā filmā? | **The Wizard of Oz**, Gone with the Wind, Singin' in the Rain | Kur jūs skatījāties savas mīļākās filmas? |
+| Kura aktrise spēlēja Lūsiju seriālā „I Love Lucy”? | **Lusila Bola**, Doris Dey, Betija Vaita | Kādus seriālus jūsu ģimene skatījās kopā? |
+| Kurš kovbojs jāja zirgu, vārdā Trigger? | **Rojs Rodžerss**, Džīns Outrijs, Džons Veins | Vai bērnībā spēlējāt kovbojus? |
+| Kurš 30 gadus vadīja raidījumu „The Tonight Show”? | Ed Sullivan, **Džonijs Kārsons**, Bobs Hops | Vai kādreiz vēlu naktī skatījāties televizoru? |
+| Kuram instrumentam ir 88 taustiņi? | Ģitāra, **klavieres**, trompete | Vai ģimenē kāds spēlēja? |
+| Kura deja tiek skaitīta viens-divi-trīs, viens-divi-trīs? | **Valsis**, tvists, tango | Kur jūs dejojāt? |
 
-For more on music, see [music activities for dementia](/activities/music/).
+Vairāk par mūziku skatiet [mūzikas aktivitātes demences gadījumā](/activities/music/).
 
-## Everyday life trivia
+## Ikdienas dzīves viktorīna
 
-| Question | Choices | Talk about |
+| Jautājums | Izvēles | Par ko runāt |
 | --- | --- | --- |
-| Before refrigerators, many homes kept food cold in an... | **Icebox**, oven, attic | Who delivered the ice? |
-| Who brought milk to the door in glass bottles? | The mailman, **the milkman**, the paperboy | What else got delivered to the house? |
-| How did you dial a rotary phone? | Pressing buttons, **turning a wheel**, talking to it | Tell me about the phone in your house |
-| Which company made the Model T car? | **Ford**, Chevrolet, Buick | Tell me about a car you liked |
-| Where would you find a soda jerk? | **A soda fountain**, a bakery, a bank | What did you order at the counter? |
-| What toy is a metal spring that can walk down stairs? | Yo-yo, **Slinky**, hula hoop | What toys did you love? |
-| A drive-in was a place to watch... | **Movies from your car**, ball games, parades | Who did you go with? |
-| Whose face is on the one-dollar bill? | Lincoln, **George Washington**, Jefferson | What did a dollar buy back then? |
-| Whose face is on the penny? | **Abraham Lincoln**, Washington, Franklin | Did you save pennies in a jar back then? |
-| What color is a school bus usually? | Red, **yellow**, blue | How did you get to school? |
+| Pirms ledusskapjiem pārtiku uzglabāja aukstu... | **ledus kastē**, krāsnī, bēniņos | Kas atnesa ledu? |
+| Kas stikla pudelēs nesa pienu līdz durvīm? | Pastnieks, **pienavīrs**, avīžu zēns | Kas vēl tika piegādāts mājās? |
+| Kā jūs izsaucāt numuru ar ciparripu? | Spiežot pogas, **griežot ripu**, runājot ar to | Pastāstiet par tālruni savās mājās |
+| Kura firma ražoja Model T automašīnu? | **Ford**, Chevrolet, Buick | Pastāstiet par automašīnu, kas jums patika |
+| Kur atradās gāzēto dzērienu bārs? | **Gāzēto dzērienu bārs**, maiznīca, banka | Ko jūs pasūtījāt pie letes? |
+| Kāda rotaļlieta ir metāla atspere, kas var noiet lejup pa kāpnēm? | Jo-jo, **Slinky**, hula-hoop | Kādas rotaļlietas jūs mīlējāt? |
+| Autokinoteātrs bija vieta, kur skatīties... | **filmas no automašīnas**, beisbola spēles, parādes | Ar ko jūs tur braucāt? |
+| Kura seja ir uz vienu dolāru banknotes? | Linkolns, **Džordžs Vašingtons**, Džefersons | Ko par vienu dolāru varēja nopirkt tajos laikos? |
+| Kura seja ir uz centa? | **Ābrahams Linkolns**, Vašingtons, Franklins | Vai tajos laikos krājāt centus krūzītē? |
+| Kāda krāsa parasti ir skolas autobusam? | Sarkana, **dzeltena**, zila | Kā jūs nokļuvāt skolā? |
 
-## Holidays, nature and places
+## Svētki, daba un vietas
 
-| Question | Choices | Talk about |
+| Jautājums | Izvēles | Par ko runāt |
 | --- | --- | --- |
-| Which holiday is on the fourth Thursday in November? | Labor Day, **Thanksgiving**, Memorial Day | What was always on your table? |
-| Jack-o'-lanterns are made for which holiday? | **Halloween**, Easter, Christmas | Tell me about Halloween where you grew up |
-| The Fourth of July celebrates the Declaration of... | Rights, **Independence**, Freedom | Where did you watch fireworks? |
-| Mother's Day is in which month? | April, **May**, June | How did your family celebrate? |
-| How many stars are on the American flag? | 48, **50**, 52 | The flag had 48 stars until 1959. Either answer is a good memory |
-| Which ocean is on the East Coast? | Pacific, **Atlantic**, Arctic | Did you ever go to the beach? |
-| In which city is the Statue of Liberty? | Boston, **New York**, Philadelphia | Have you been to New York? |
-| What do bees make? | Milk, **honey**, silk | Honey on toast or in tea? |
-| A baby cow is called a... | Foal, **calf**, kid | Did you ever live near a farm? |
-| Which tall yellow flower is famous for turning toward the sun? | Rose, **sunflower**, tulip | What grew in your garden? |
-| How many days are in a leap year? | 365, **366**, 360 | Tell me about a birthday you remember |
-| Which season comes after winter? | Fall, **spring**, summer | What is your favorite season? |
+| Kuros svētkos ir ceturtā ceturtdiena novembrī? | Darba svētki, **Pateicības diena**, Piemiņas diena | Kas vienmēr bija uz jūsu galda? |
+| Ķirbju lukturus gatavo kuriem svētkiem? | **Helovīnam**, Lieldienām, Ziemassvētkiem | Pastāstiet par Helovīnu, kur augāt |
+| Ceturtais jūlijs piemin deklarāciju par... | tiesībām, **neatkarību**, brīvību | Kur jūs skatījāties uguņošanu? |
+| Mātes diena (ASV) ir kurā mēnesī? | Aprīlis, **maijs**, jūnijs | Kā jūsu ģimene to svinēja? |
+| Cik zvaigžņu ir uz ASV karoga? | 48, **50**, 52 | Karogam bija 48 zvaigznes līdz 1959. gadam. Abas atbildes ir labas atmiņas |
+| Kurš okeāns atrodas Austrumu krastā? | Klusais, **Atlantijas**, Ziemeļu Ledus | Vai kādreiz bijāt pie jūras? |
+| Kurā pilsētā atrodas Brīvības statuja? | Bostona, **Ņujorka**, Filadelfija | Vai esat bijis Ņujorkā? |
+| Ko ražo bites? | Pienu, **medu**, zīdu | Medu uz maizes vai tējā? |
+| Mazu govi sauc par... | kumeļu, **teļu**, kazlēnu | Vai kādreiz dzīvojāt tuvu saimniecībai? |
+| Kurš garš dzeltens zieds ir slavens ar pagriešanos pret sauli? | Roze, **saulespuķe**, tulpe | Kas auga jūsu dārzā? |
+| Cik dienu ir garajā gadā? | 365, **366**, 360 | Pastāstiet par dzimšanas dienu, ko atceraties |
+| Kurš gadalaiks seko ziemai? | Rudens, **pavasaris**, vasara | Kurš gadalaiks jums patīk visvairāk? |
 
-## Food and sports trivia
+## Ēdiens un sports
 
-| Question | Choices | Talk about |
+| Jautājums | Izvēles | Par ko runāt |
 | --- | --- | --- |
-| Raisins are dried... | Plums, **grapes**, cherries | Did you pack raisins in lunches? |
-| Prunes are dried... | **Plums**, figs, apples | Who in your family loved prunes? |
-| Peanut butter and... | **Jelly**, cheese, ham | Crunchy or smooth? |
-| Guacamole is made mostly from... | Peas, **avocados**, cucumbers | What dips came out at parties? |
-| Which pie is a Thanksgiving favorite? | **Pumpkin**, lemon, cherry | Which pie did you make? |
-| How many players does a baseball team have on the field? | 7, **9**, 11 | Which team did you root for? |
-| How many strikes make an out in baseball? | Two, **three**, four | Did you ever play ball? |
-| Babe Ruth was famous for which sport? | Boxing, **baseball**, golf | Did you go to ball games? |
-| How many holes are on a standard golf course? | 9, **18**, 24 | Have you ever played golf, or mini golf? |
-| In which sport do you score a touchdown? | **Football**, hockey, basketball | Who watched football at your house? |
+| Rozīnes ir žāvētas... | plūmes, **vīnogas**, ķirši | Vai rozīnes iesaiņojāt pusdienās? |
+| Prunes ir žāvētas... | **plūmes**, vīģes, āboli | Kurš jūsu ģimenē mīlēja prunes? |
+| Zemesriekstu sviests un... | **želeja**, siers, šķiņķis | Kraukšķīgs vai gluds? |
+| Gvakamole galvenokārt gatavo no... | zirņiem, **avokado**, gurķiem | Kādas mērcītes bija ballītēs? |
+| Kurš pīrāgs ir iecienīts Pateicības dienā? | **ķirbju**, citronu, ķiršu | Kuru pīrāgu jūs cepāt? |
+| Cik spēlētāju beisbola komandā ir laukumā? | 7, **9**, 11 | Kuru komandu jūs atbalstījāt? |
+| Cik sitienu nozīmē izsitumu? | divi, **trīs**, četri | Vai kādreiz spēlējāt bumbu? |
+| Ar kādu sportu bija slavens Bēbs Rūts? | Bokss, **beisbols**, golfs | Vai skatījāties beisbola spēles? |
+| Cik bedrīšu ir standarta golfa laukumā? | 9, **18**, 24 | Vai esat kādreiz spēlējis golfu vai mini golfu? |
+| Kurā sportā guva „touchdown”? | **Amerikāņu futbolā**, hokejā, basketbolā | Kas jūsu mājās skatījās futbolu? |
 
-## Familiar sayings
+## Pazīstami teicieni
 
-Finishing a saying draws on language learned long ago and often comes easily. Our [Finish the saying](/games/finish-the-saying/) game has many more, with a tap to show any ending.
+Teicienu pabeigšana balstās uz valodu, ko iemācījāmies sen, un bieži tā nāk viegli. Mūsu spēlē [Pabeidziet teicienu](/games/finish-the-saying/) ir daudz vairāk teicienu, un ar pieskārienu var parādīt jebkuru nobeigumu.
 
-| Saying | Choices | Talk about |
+| Teiciens | Izvēles | Par ko runāt |
 | --- | --- | --- |
-| An apple a day keeps the... | **Doctor away**, rain away, cat away | Who used to say this to you? |
-| The early bird catches the... | Bus, **worm**, train | Are you a morning person? |
-| Don't count your chickens before they... | **Hatch**, sleep, sing | Did your family keep chickens? |
-| A penny saved is a penny... | **Earned**, lost, spent | Who was the saver in your family? |
-| Home is where the... | Garden is, **heart is**, kitchen is | What makes a place feel like home? |
-| Better late than... | Early, **never**, sorry | Who was always late? |
-| Every cloud has a silver... | **Lining**, spoon, coin | Tell me about a lucky break |
-| Actions speak louder than... | **Words**, music, thunder | Tell me about someone who said that |
+| Ābols dienā tur prom... | **ārstu**, lietu, kaķi | Kas jums to kādreiz teica? |
+| Agrais putns ķer... | autobusu, **tārpu**, vilcienu | Vai esat rīta cilvēks? |
+| Neskaiti vistas, pirms tās... | **izšķiļas**, guļ, dzied | Vai jūsu ģimene turēja vistas? |
+| Ietaupīts cents ir... | **nopelnīts**, pazaudēts, iztērēts | Kurš ģimenē bija taupītājs? |
+| Mājas ir tur, kur... | dārzs ir, **sirds ir**, virtuve ir | Kas padara vietu par mājām? |
+| Labāk vēlu nekā... | agri, **nekad**, nožēlot | Kurš vienmēr kavējās? |
+| Katram mākonim ir sudraba... | **maliņa**, karote, monēta | Pastāstiet par laimīgu gadījumu |
+| Darbi runā skaļāk nekā... | **vārdi**, mūzika, pērkons | Pastāstiet par kādu, kurš tā teica |
 
-## This-or-that questions with no wrong answer
+## Jautājumi „šis vai tas” bez nepareizas atbildes
 
-These suit every stage, including later on, because there is nothing to get right. Ask, listen, and share your own answer too.
+Šie jautājumi der visos posmos, arī vēlākos, jo nav, ko nepareizi atbildēt. Jautājiet, klausieties un pastāstiet arī savu atbildi.
 
-- Coffee or tea?
-- Beach or mountains?
-- Dogs or cats?
-- Summer or winter?
-- Pie or cake?
-- Dancing or watching?
-- Sunrise or sunset?
-- Front porch or back yard?
-- Radio or records?
-- Pancakes or eggs?
-- Roses or daisies?
-- Train trip or road trip?
+- Kafija vai tēja?
+- Pludmale vai kalni?
+- Suņi vai kaķi?
+- Vasara vai ziema?
+- Pīrāgs vai kūka?
+- Dejot vai skatīties?
+- Saullēkts vai saulriets?
+- Veranda priekšā vai pagalms aiz mājas?
+- Radio vai plates?
+- Pankūkas vai olas?
+- Rozes vai margrietiņas?
+- Vilciena ceļojums vai automašīnas ceļojums?
 
-For conversation prompts that go with pictures, try our printable [Conversation cards](/games/conversation-cards/).
+Sarunu jautājumiem ar attēliem izmantojiet mūsu drukājamās [Sarunu kartītes](/games/conversation-cards/).
 
-## How do you run a trivia session in a care home or group?
+## Kā vadīt viktorīnas nodarbību aprūpes mājā vai grupā?
 
-1. **Seat people so they can see and hear.** Hearing aids in, glasses on, the TV off.
-2. **Introduce it as a chat.** "I have some questions about the old days, and I bet you know more than I do."
-3. **Read each question twice and show the choices large.**
-4. **Welcome answers from anywhere in the room.** Repeat good answers so everyone hears.
-5. **Say the answer for everyone,** then ask the talking point to the room.
-6. **Follow the energy.** If one question starts ten minutes of stories, let it.
-7. **End with a song or a this-or-that round,** so everyone finishes on something easy.
+1. **Sēdiniet cilvēkus tā, lai viņi redz un dzird.** Dzirdes aparāti ieslēgti, brilles uzliktas, televizors izslēgts.
+2. **Piedāvājiet to kā sarunu.** „Man ir daži jautājumi par vecajiem laikiem, un es lūdzu, ka jūs zināt vairāk nekā es.”
+3. **Lasiet katru jautājumu divreiz un rādiet izvēles lielas.**
+4. **Ļaujiet atbildēt no jebkuras vietas telpā.** Atkārtojiet labās atbildes, lai visi tās dzirdētu.
+5. **Pasakiet atbildi visiem,** un pēc tam uzdodiet sarunas tēmu visai grupai.
+6. **Sekojiet noskaņojumam.** Ja viens jautājums sāk desmit minūtes garus stāstus, ļaujiet tam.
+7. **Beidziet ar dziesmu vai „šis vai tas” kārtu,** lai visi noslēgtu ar kaut ko vieglu.
 
-For other group formats, including picture bingo and sing-alongs, see [group activities for care homes](/activities/care-home-groups/).
+Citiem grupu formātiem, tostarp attēlu bingo un kopīgai dziedāšanai, skatiet [grupu aktivitātes aprūpes mājām](/activities/care-home-groups/).
 
-## When to change the plan
+## Kad mainīt plānu?
 
-If someone looks worried, goes quiet or says "I don't know" more than once, make it easier: drop to two choices, answer together, or switch to this-or-that questions. If the group would rather talk about one question all afternoon, that is a success. The aim was never the right answers. It was time in good company.
+Ja kāds izskatās noraizējies, kļūst kluss vai vairāk nekā vienreiz saka „Es nezinu”, padariet to vieglāku: paturiet divas izvēles, atbildiet kopā vai pārejiet uz jautājumiem „šis vai tas”. Ja grupa labprātāk visu pēcpusdienu runā par vienu jautājumu, tas ir panākums. Mērķis nekad nebija pareizās atbildes. Tas bija laiks labā sabiedrībā.

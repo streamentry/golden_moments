@@ -1,32 +1,32 @@
 ---
-title: "Activities for Late-Stage Dementia, Including in Bed or a Chair"
-seoTitle: "Late-Stage Dementia Activities: Bed and Chair Ideas"
-description: "Gentle activities for late-stage dementia, including for someone in bed or a chair: music, touch, reading aloud, sounds and simply being together, with safety notes."
+title: "Активности за касну фазу деменције, укључујући у кревету или фотељи"
+seoTitle: "Активности за касну фазу деменције: идеје за кревет и фотељу"
+description: "Нежне активности за касну фазу деменције, и за особу у кревету или фотељи: музика, додир, читање наглас, звуци и једноставно бити заједно, са безбедносним саветима."
 section: activities
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In late-stage dementia, activities center on the senses and on your company:
-  playing favorite music, holding hands, a slow hand massage, reading aloud,
-  looking at photos, nature sounds and sitting by a window or outside. These
-  work in bed or a chair. Keep sessions short, watch faces and hands for
-  comfort, and remember that being present is itself the activity.
+  У касној фази деменције активности се врте око чула и вашег друштва: пуштање
+  омиљене музике, држање за руке, нежна масажа шака, читање наглас, гледање
+  фотографија, звуци природе и седење поред прозора или напољу. Ово функционише
+  у кревету или фотељи. Држите кратке сесије, гледајте лице и руке да видите
+  удобност и запамтите да сам присуство јесте активност.
 keyPoints:
-  - "Connection is still possible. In the late stage, the world is experienced mainly through the senses."
-  - "Music, gentle touch, familiar voices and soft things to hold often reach people when words no longer do."
-  - "Almost every idea here works for someone in bed or a chair."
-  - "Watch for comfort and discomfort in the face, hands and breathing, and stop at any sign of distress."
-  - "Avoid small objects and offer food or drink only as the care team advises, because swallowing can become unsafe."
+  - "Веза је и даље могућа. У касној фази свет се доживљава углавном кроз чула."
+  - "Музика, нежан додир, познати гласови и меке ствари за држање често допру до људи кад речи више не могу."
+  - "Скоро свака идеја овде функционише за особу у кревету или фотељи."
+  - "Пазите на знаке удобности и нелагодности на лицу, у рукама и у дисању, и станите при сваком знаку узнемирености."
+  - "Избегавајте ситне предмете, а храну или пиће нудите само онако како препоручује тим за негу, јер гутање може постати небезбедно."
 faq:
-  - q: "What activities can you do with someone with late-stage dementia who is in bed?"
-    a: "Play their favorite music, hold their hand, give a slow hand massage with lotion, read aloud from a book or prayer they love, show photos, or play gentle nature sounds. Open the curtains so they can see outside. Short, calm sessions with one thing at a time usually work best."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that even in the late stage, a person may be able to tap a beat or sing along to a song from childhood. Choose music they loved when they were younger and keep the volume soft."
-  - q: "How do I know if they are enjoying an activity?"
-    a: "Watch for small signs: relaxed shoulders, a softer face, eye contact, humming, a hand squeeze or slower breathing. Grimacing, pulling away, restlessness or groaning can mean discomfort or pain. If you see these, stop and tell the care team if they continue."
-  - q: "Is it worth visiting if they no longer recognize me?"
-    a: "Yes. The National Institute on Aging notes that simply being present can be calming, and that touch, music and stories can still provide comfort in advanced dementia. Your voice and touch may be familiar even when your name is not."
+  - q: "Које активности можете радити са особом у касној фази деменције која је у кревету?"
+    a: "Пуштајте њену омиљену музику, држите је за руку, нежно масирајте шаке кремом, читајте наглас из књиге или молитвеника који воли, показујте фотографије или пуштајте нежне звуке природе. Отворите завесе да може да види напоље. Кратке, мирне сесије са једном ствари у исто време обично најбоље функционишу."
+  - q: "Да ли особе у касној фази деменције и даље могу да уживају у музици?"
+    a: "Многе могу. Alzheimer's Association наводи да особа у касној фази може и даље да лупка ритам или пева уз песму из детињства. Бирајте музику коју је волела у млађим годинама и држите тихо пуштање."
+  - q: "Како да знам да ли ужива у активности?"
+    a: "Пазите на мале знаке: опуштена рамена, мекше лице, поглед, мумљање, стисак руке или спорије дисање. Грчење лица, повлачење, немир или стењање могу значити нелагоду или бол. Ако видите то, станите и јавите тиму за негу ако се настави."
+  - q: "Да ли вреди долазити у посету ако више не препознаје мене?"
+    a: "Да. National Institute on Aging наводи да сам присуство може смирити, а додир, музика и приче и даље могу пружити утеху у узнапредовалој деменцији. Ваш глас и додир могу бити познати и кад име није."
 sources:
   - title: "Late-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,55 +48,55 @@ related: [activities/sensory, activities/music, activities/middle-stage, activit
 health: false
 ---
 
-In the late stage of dementia, a person may speak very little, need help with all daily care and spend much of the day in bed or a chair. It can feel as if there is nothing left to do together. There is. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) notes that some core of the person's self may remain, and that at this stage the world is experienced mainly through the senses. Music, touch, a familiar voice and your calm company can still bring comfort and moments of connection.
+У касној фази деменције особа може мало да говори, треба јој помоћ са свим дневним активностима и већину дана проводи у кревету или фотељи. Може деловати као да нема ничега што бисте заједно могли да радите. Има. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/late-stage) наводи да се у том стадијуму може сачувати део личности особе и да се свет углавном доживљава кроз чула. Музика, додир, познат глас и ваше мирно друштво и даље могу донети утеху и тренутке везе.
 
-## What activities help in late-stage dementia?
+## Које активности помажу у касној фази деменције?
 
-Simple sensory activities and quiet company help most in the late stage. The Alzheimer's Association suggests playing favorite music, reading parts of meaningful books, rubbing lotion with a favorite scent into the skin, and sitting outside together on a nice day. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) adds telling stories, showing photos, gentle touch or massage, and music, white noise or nature sounds, and says your presence alone can be calming.
+У касној фази најбоље помажу једноставне чулне активности и тихо друштво. Alzheimer's Association предлаже пуштање омиљене музике, читање делова значајних књига, нежно мазање кремом са мирисом који воли и седење напољу заједно на леп дан. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/care-last-stages-alzheimers-disease) додаје причање прича, показивање фотографија, нежан додир или масажу и музику, бели шум или звуке природе, и наводи да само ваше присуство може умирити.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in the late stage often have a strong need to hold something close for comfort, and suggests simple sensory activities, gentle stretches, scarf movement, music, animal visits, human touch and free-form art.
+[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) наводи да особе у касној фази често имају јаку потребу да нешто држе близу себе ради утехе, и предлаже једноставне чулне активности, нежно истезање, покрете са шалом, музику, посете животиња, људски додир и слободно сликање.
 
-## Activities for someone in bed or a chair
+## Активности за особу у кревету или фотељи
 
-1. **Play their music.** Choose songs from their young adult years, their faith or their family. Keep the volume soft and sit close. Even now, some people tap a finger or hum. See [music activities](/activities/music/).
-2. **Hold hands.** Just holding a hand, with a gentle thumb stroke, is an activity. Say what you are doing first.
-3. **Give a slow hand massage.** Warm a little lotion in your palms and stroke from wrist to fingertips. Choose unscented lotion, or a scent they always loved if their skin tolerates it.
-4. **Read aloud.** A favorite poem, a passage from a well-loved book, scripture or the sports page. The rhythm of your voice matters more than the words.
-5. **Tell a story.** Talk about a family trip or the day they got married. You do not need replies.
-6. **Show photos.** Hold one large photo at a time at eye level and describe it warmly. Avoid asking who is in it.
-7. **Offer something soft to hold.** A folded washcloth, a fleece square or a soft animal. The NIA suggests giving the person a washcloth to hold while being moved, so they are less likely to grab at you or the furniture.
-8. **Play nature sounds.** Rain, waves or birdsong at low volume can soften a noisy room.
-9. **Bring the outside in.** Open the curtains, place a bird feeder outside the window, or bring in a few fresh flowers or leaves to look at and touch.
-10. **Go outside.** If the person can sit in a wheelchair, a few minutes in the shade on a mild day can be lovely.
-11. **Brush their hair or offer a warm cloth.** Slow, gentle grooming and a warm washcloth for hands and face can feel caring.
-12. **Move gently with music.** Wave a light scarf together, or sway hands in time to a song. For stretches and joint movement, ask a physical therapist or nurse to show you safe ways first.
-13. **Make free-form art.** Spread non-toxic paint on large paper with a sponge or a hand, guided by yours. There is no right result.
-14. **Welcome animal visits.** A calm pet on the bed or lap, if the person enjoyed animals and the setting allows it.
-15. **Breathe slowly together.** Sit close and breathe slowly and audibly. [Calm breathing](/games/calm-breathing/) can pace you both, and you start and stop it.
-16. **Simply be there.** Sit nearby, hum, knit or read quietly. Being present is enough.
+1. **Пустите њену музику.** Изаберите песме из раног одраслог доба, њене вере или породице. Држите тон тихим и седите близу. Чак и сада, неки људи лупкају прстом или мумлају. Погледајте [музичке активности](/activities/music/).
+2. **Држите је за руке.** Само држање руке, уз нежно превлачење палцем, је активност. Прво реците шта радите.
+3. **Дајте спору масажу шака.** Загрејте мало креме у длановима и мазите од зглоба до врха прстију. Изаберите крему без мириса или мирис који је увек волела ако јој кожа то подноси.
+4. **Читајте наглас.** Омиљену песму, одломак из драге књиге, псалам или спортску страну. Ритам вашег гласа важнији је од речи.
+5. **Причајте причу.** Говорите о породичном путовању или о дану кад се венчала. Не треба вам одговор.
+6. **Показујте фотографије.** Држите једну велику фотографију у исто време на висини очију и топло је описујте. Избегавајте питање ко је на њој.
+7. **Понудите нешто меко за држање.** Савијену крпицу, квадрат од флиса или меку животињу. NIA предлаже да особи дате крпицу да држи док је померате, па је мања вероватноћа да ће хватати вас или намештај.
+8. **Пустите звуке природе.** Киша, таласи или птичје певање при тихој јачини могу смекшати бучну собу.
+9. **Унесите спољашњи свет унутра.** Отворите завесе, ставите хранилицу за птице испред прозора или донесите неколико свежих цвећа или лишћа да гледа и додирује.
+10. **Изађите напоље.** Ако може да седи у инвалидским колицима, неколико минута у хладу на благ дан може бити лепо.
+11. **Чешљајте косу или понудите топлу крпу.** Споро, нежно неговање и топла крпа за шаке и лице могу деловати брижно.
+12. **Нежно се крећите уз музику.** Заједно машите лаким шалом или љуљајте шаке у ритму песме. За истезање и покрете зглобова прво замолите физиотерапеута или медицинску сестру да вам покаже безбедне начине.
+13. **Правите слободно сликање.** Нанесите нетоксичну боју на велики папир сунђером или шаком, уз вођење ваше руке. Нема исправног резултата.
+14. **Дочекајте посете животиња.** Миран љубимац на кревету или у крилу, ако је особа волела животиње и простор то дозвољава.
+15. **Дишите заједно споро.** Седите близу и дишите споро и чујно. [Смирено дисање](/games/calm-breathing/) може да одреди ритам за обоје, а ви покрећете и заустављате.
+16. **Једноставно будите ту.** Седите у близини, мумлајте, плетите или тихо читајте. Присуство је довољно.
 
-## How to share an activity at this stage
+## Како делити активност у овој фази
 
-- **Approach from the front.** Say their name and your name, and speak slowly and softly before you touch.
-- **Offer one thing at a time.** Turn off the TV before playing music. Do one sense at a time.
-- **Keep it short.** A few minutes may be plenty. Several short moments across the day are better than one long session.
-- **Get comfortable first.** Check that the person is well supported. The NIA suggests a lap board to rest the arms and support the upper body when sitting up.
-- **Watch the response.** Relaxed hands, a softer face, eye contact or humming suggest comfort. The NIA notes that groans, grimacing, guarding part of the body or sudden agitation can be signs of pain. Stop, and tell the care team.
+- **Приђите спреда.** Реците њено име и своје, и говорите споро и тихо пре него што је додирнете.
+- **Нудите по једну ствар.** Искључите телевизор пре пуштања музике. Радите једно по једно чуло.
+- **Држите то кратко.** Неколико минута може бити довољно. Више кратких тренутака током дана боље је од једне дуге сесије.
+- **Прво удобно поставите.** Проверите да је особа добро подупрта. NIA предлаже дашчицу за крило која подржава руке и горњи део тела кад је у седећем положају.
+- **Пратите реакцију.** Опуштене шаке, мекше лице, поглед или мумљање указују на удобност. NIA напомиње да стењање, грчење, штићење дела тела или нагли немир могу бити знаци бола. Станите и јавите тиму за негу.
 
-## A quick guide by sense
+## Кратак водич по чулу
 
-| Sense | Ideas | Take care |
+| Чуло | Идеје | Пазите на |
 | --- | --- | --- |
-| Hearing | Favorite music, your voice reading, nature sounds | Keep volume low; one sound at a time |
-| Touch | Hand massage, holding hands, soft fabric, warm cloth | Ask or announce first; check skin is not sore or broken |
-| Sight | Photos, flowers, the view from a window, a slow nature video | Hold things at eye level; good light, no glare |
-| Smell | A favorite lotion, fresh flowers, coffee brewing nearby | Avoid strong scents; check allergies and breathing |
-| Taste | A small taste of a favorite flavor | Only foods and textures the care team says are safe |
+| Слух | Омиљена музика, ваш глас који чита, звуци природе | Држите тон низак; један звук у исто време |
+| Додир | Масажа шака, држање руке, мека тканина, топла крпа | Прво питајте или најавите; проверите да кожа није болна или повређена |
+| Вид | Фотографије, цвеће, поглед кроз прозор, спор видео о природи | Држите предмете на висини очију; добро светло, без одсјаја |
+| Мирис | Омиљена крема, свеже цвеће, кафа која се кува у близини | Избегавајте јаке мирисе; проверите алергије и дисање |
+| Укус | Мала количина омиљеног укуса | Само храна и конзистенције које тим за негу сматра безбедним |
 
-## Safety at this stage
+## Безбедност у овој фази
 
-Swallowing can become difficult in the late stage, and the NIA warns that this raises the risk of choking. Do not leave small objects within reach, and only offer food or drink in the textures and positions the care team recommends. Check skin gently during touch activities, since skin can tear or bruise easily. For more on safe sensory ideas, see [sensory activities](/activities/sensory/).
+У касној фази гутање може постати тешко, а NIA упозорава да то повећава ризик од гушења. Немојте остављати ситне предмете на дохват и нудите храну или пиће само у конзистенцији и положају које препоручује тим за негу. Нежно проверавајте кожу током активности додиривања, јер се кожа лако може поцепати или модрити. За више о безбедним чулним идејама погледајте [чулне активности](/activities/sensory/).
 
-## Looking after yourself too
+## Бринете се и о себи
 
-Late-stage caregiving is physically and emotionally demanding, whether at home or during visits to a care home. Hospice and palliative care teams can help with comfort, support and planning, and the NIA lists them as a source of help. Short, calm visits are worthwhile; see [visiting someone with dementia](/activities/visiting/). If you lead groups, [care home group activities](/activities/care-home-groups/) has ideas for adapting sessions. And please read [caregiver self-care](/caregiving/caregiver-self-care/): rest is part of caring well.
+Нега у касној фази физички и емоционално захтева много, било код куће или у посетама домовима за негу. Тимови за хоспицијску и палијативну негу могу помоћи око удобности, подршке и планирања, а NIA их наводи као извор помоћи. Кратке, мирне посете вреде труда; погледајте [посету особи са деменцијом](/activities/visiting/). Ако водите групе, [групне активности у домовима за негу](/activities/care-home-groups/) имају идеје за прилагођавање састанака. И молимо вас да прочитате [бригу о себи као неговатељу](/caregiving/caregiver-self-care/): одмор је део доброг неговања.

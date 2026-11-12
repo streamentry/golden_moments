@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Jogos de Memória para Idosos com Demência: Versões Suaves"
+seoTitle: "Melhores Jogos de Memória para Demência: Ideias Suaves"
+description: "Jogos de combinação, figuras e cartas para idosos com demência, jogados sem teste: figuras à vista, poucos pares, sem placar e em equipe."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Jogos de memória para idosos com demência funcionam melhor quando não dependem da memória. Jogue jogos de combinação com as figuras viradas para cima, use de quatro a seis peças, jogue em equipe e deixe de lado a pontuação. Reconhecer uma figura é mais fácil do que lembrar uma, então escolha jogos em que tudo fique à vista. O objetivo é o prazer de estar junto, não um resultado.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Jogos de memória clássicos escondem as cartas, o que testa exatamente o que a demência torna difícil. Deixe as figuras viradas para cima."
+  - "Menos peças, figuras maiores e uma escolha de cada vez mantêm o jogo agradável."
+  - "Joguem em equipe, revezem-se ajudando e deixe a pontuação de lado. Ninguém deve ser colocado em evidência."
+  - "Nenhum jogo de memória mostrou tratar, retardar ou interromper a demência. Jogue porque é um tempo agradável juntos."
+  - "Pare enquanto ainda for divertido. Conversar sobre as figuras já é um bom resultado."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Qual é um bom jogo de memória para uma pessoa com demência?"
+    a: "Um jogo de combinação com figuras grandes e familiares que podem ficar viradas para cima, como Pares de figuras com quatro ou seis peças. Encontrar o par de uma figura que você está vendo é satisfatório e não testa a memória de curto prazo. Encontre a mesma é ainda mais simples, com uma figura para combinar entre duas a quatro opções."
+  - q: "Jogos de memória ajudam na demência?"
+    a: "Nenhum jogo de memória mostrou tratar, retardar ou interromper a demência. Uma revisão da Cochrane concluiu que as evidências sobre o treino cognitivo em computador são limitadas demais para dizer se ele previne a demência. Os jogos ainda podem ser uma forma carinhosa de passar tempo juntos. Escolha-os pelo prazer e pela companhia."
+  - q: "Devo jogar o Concentração clássico com alguém que tem demência?"
+    a: "No início, algumas pessoas ainda gostam, principalmente com poucas cartas. Se lembrar onde estão as cartas começar a causar frustração, vire as cartas para cima e simplesmente encontre os pares juntos. Assim a combinação continua, mas o teste de memória sai."
+  - q: "Quais jogos de memória são bons para idosos em grupo?"
+    a: "Bingo de figuras com um apresentador na tela, completar frases conhecidas em voz alta e cartas de conversa funcionam bem em grupo. Joguem até que todas as cartelas estejam cheias e evitem dizer quem acertou, para que ninguém se sinta destacado."
+  - q: "Existem jogos de memória gratuitos para idosos na internet?"
+    a: "Sim. Os jogos deste site, incluindo Pares de figuras, Encontre a mesma, Pares de fotos e Quebra-cabeça de figuras, são gratuitos, não exigem cadastro e funcionam em celulares, tablets e computadores. Nenhum tem cronômetro ou pontuação."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Pesquise "jogos de memória para idosos" e a maior parte do que aparece foi feita para quem quer um exercício mental: cartas escondidas, relógios de contagem regressiva, níveis e pontuações. Para quem vive com demência, esses recursos transformam o jogo em um teste da própria capacidade que se tornou difícil. Os mesmos jogos podem ser jogados de um jeito mais suave. Esta página mostra como fazer isso e lista jogos que funcionam bem em cada fase.
 
-## Why do classic memory games frustrate people with dementia?
+## Por que os jogos de memória clássicos frustram pessoas com demência?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Porque dependem de manter novas informações na mente, que costuma ser a primeira coisa afetada pelo Alzheimer, a causa mais comum da demência. A [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) afirma que o sintoma inicial mais comum do Alzheimer é a dificuldade de lembrar informações recém-aprendidas. No Concentração clássico, você vira duas cartas, lembra onde elas estavam e usa essa informação um minuto depois. É uma informação nova, mantida e recuperada.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Acrescente um cronômetro, uma pontuação ou um alarme para respostas erradas, e a pessoa é lembrada do que não consegue mais fazer, na frente de alguém que ama. Muitas pessoas simplesmente deixam de querer jogar.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Reconhecer algo que você está vendo é uma tarefa diferente e geralmente mais fácil. Apontar a segunda xícara de chá quando as duas estão à vista é prazeroso. Então o truque é manter a combinação e tirar o teste de memória.
 
-## How do you make a memory game gentle?
+## Como tornar um jogo de memória suave?
 
-These adjustments work for card games, board games and games on a screen.
+Estes ajustes funcionam para jogos de cartas, de tabuleiro e na tela.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **Deixe as figuras viradas para cima.** Combinar figuras que você está vendo ainda é um jogo de verdade, e muitas vezes bem satisfatório.
+2. **Use menos peças.** Comece com dois ou três pares. Acrescente mais só se parecer fácil demais e a pessoa quiser.
+3. **Escolha figuras grandes, familiares e para adultos.** Uma xícara de chá, um girassol, um veleiro. Nada de desenhos animados nem cenas carregadas.
+4. **Joguem em equipe.** "Vamos achar os cachorros" em vez de "sua vez". Revezem-se apontando e ajudando.
+5. **Deixe a pontuação de lado.** Ninguém precisa ganhar. Se alguém perguntar, um simples "conseguimos" basta.
+6. **Nunca corra contra o relógio.** Sem cronômetros e sem pressa entre as jogadas.
+7. **Converse sobre as figuras.** "Olhe aquele barco. Você já navegou alguma vez?" A conversa costuma ser a melhor parte.
+8. **Pare em um bom momento.** Termine depois de uma combinação, enquanto ainda for agradável.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) traz a mesma ideia como orientação geral: adequar a atividade ao que a pessoa consegue fazer, observar a frustração e garantir que ela se sinta bem-sucedida.
 
-## Gentle memory and matching games to try
+## Jogos de memória e combinação suaves para experimentar
 
-### Picture pairs (matching with pictures showing)
+### Pares de figuras (combinação com as figuras à vista)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Pares de figuras](/games/picture-pairs/) é um jogo de combinação com figuras grandes e de 4 a 12 peças. As figuras podem ficar visíveis, então o foco é encontrar os pares, não lembrar onde estavam. Comece com quatro peças. Para quem está na fase inicial e gosta de mais desafio, você pode mudar para **Figuras escondidas**, mas volte a mostrar as figuras no momento em que deixar de ser divertido.
 
-### Find the same
+### Encontre a mesma
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Encontre a mesma](/games/find-the-same/) mostra uma figura no topo e de duas a quatro opções embaixo. Toque na que combina. É o jogo de combinação mais simples do site e serve para quem acha uma grade cheia muito confusa, incluindo muitas pessoas nas fases mais avançadas, com alguém ao lado.
 
-### Photo pairs (family photo memory game)
+### Pares de fotos (jogo de memória com fotos da família)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Pares de fotos](/games/photo-pairs/) transforma fotos que você escolhe em um jogo de combinação: o cachorro, o jardim, a casa na praia. Rostos e lugares conhecidos costumam despertar mais conversa do que qualquer figura padrão. As fotos ficam no seu navegador e nunca são enviadas.
 
-### Sort together
+### Separar juntos
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Separar juntos](/games/sort-together/) pede que você coloque cada figura na cesta certa, como a cozinha ou o jardim. Separar usa conhecimentos antigos sobre como o mundo funciona, e não a memória de curto prazo.
 
-### Picture puzzle
+### Quebra-cabeça de figuras
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Quebra-cabeça de figuras](/games/picture-puzzle/) divide uma figura em 4 ou 9 peças. Toque em duas peças para trocá-las de lugar até a figura ficar completa. A imagem completa fica na tela como guia.
 
-### Real cards on the table
+### Cartas reais na mesa
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Você não precisa de tela. Separe pares de dois baralhos ou de um conjunto de cartas com figuras. Coloque-as viradas para cima em duas fileiras e encontrem os pares juntos. Depois, separe por cor ou naipe. A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) inclui jogos de cartas e de tabuleiro entre as atividades para a fase inicial.
 
-## Which memory games suit each stage?
+## Quais jogos de memória combinam com cada fase?
 
-Stages are loose labels. Go by what the person enjoys today.
+As fases são rótulos aproximados. Guie-se pelo que a pessoa gosta hoje.
 
-| Stage | Games that often fit | How to set them up |
+| Fase | Jogos que costumam servir | Como preparar |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Inicial | Pares de figuras, Pares de fotos, Quebra-cabeça de figuras com 9 peças, jogos de cartas conhecidos | Deixe a pessoa escolher. As peças podem ser viradas se ela gostar; deixe a pontuação de lado se isso a incomodar |
+| Intermediária | Pares de figuras com 4 a 6 peças viradas para cima, Encontre a mesma, Separar juntos | Figuras sempre visíveis. Sente-se ao lado e revezem-se ajudando |
+| Avançada | Encontre a mesma com 2 opções, olhar juntos para uma figura grande | Muito curto. Você segura o tablet; ela aponta ou apenas observa e escuta |
 
-## Do memory games help with dementia?
+## Jogos de memória ajudam na demência?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Nenhum jogo de memória mostrou tratar, retardar ou interromper a demência. Uma [revisão da Cochrane](https://pubmed.ncbi.nlm.nih.gov/30864747/) sobre treino cognitivo informatizado para pessoas com comprometimento cognitivo leve concluiu que as evidências são insuficientes para dizer se ele previne a demência. Nosso guia sobre [jogos para o cérebro e demência](/brain-health/brain-games/) explica o que os estudos mostram e o que não mostram.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Isso não é motivo para deixar de jogar. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) orienta a focar no prazer, não na realização. Dez minutos combinando figuras e conversando sobre elas podem ser uma parte genuinamente boa do dia.
 
-## What about memory games for seniors without dementia?
+## E os jogos de memória para idosos sem demência?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Se um adulto mais velho sem problemas de memória gosta de quebra-cabeças cronometrados, pontuações e níveis mais difíceis, não há nada de errado nisso. Só não conte com eles para proteger contra a demência; nenhum jogo mostrou isso. As versões suaves acima também funcionam bem quando gerações jogam juntas: um avô com demência e um neto pequeno podem combinar figuras em equipe, e nenhum dos dois é testado.
 
-## When should you stop or change the game?
+## Quando parar ou mudar o jogo?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Suspirar, afastar o tablet, dizer "não consigo fazer isso" ou ficar ansioso são sinais para facilitar ou parar. Tente menos peças, deixe as figuras viradas para cima, mude para [Encontre a mesma](/games/find-the-same/) ou simplesmente olhe as figuras e converse. Se ela não quiser jogar de jeito nenhum, tudo bem também. Nosso guia sobre [como brincar juntos](/caregiving/how-to-play-together/) tem mais sobre ritmo e como ajudar.

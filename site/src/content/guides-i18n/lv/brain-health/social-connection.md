@@ -1,32 +1,28 @@
 ---
-title: "Social Connection and Brain Health: Loneliness, Isolation and Dementia"
-seoTitle: "Loneliness, Social Isolation and Dementia Risk"
-description: "How loneliness and social isolation are linked with dementia risk, what the Surgeon General's advisory said, and simple ways to stay connected together."
+title: "Sociālie kontakti un smadzeņu veselība: vientulība, izolācija un demence"
+seoTitle: "Vientulība, sociālā izolācija un demences risks"
+description: "Kā vientulība un sociālā izolācija saistītas ar demences risku, ko teica ASV ģenerālķirurga brīdinājums un vienkārši veidi, kā palikt kopā."
 section: brain-health
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Research links social isolation and loneliness in later life with a higher risk of dementia.
-  The 2024 Lancet Commission estimates isolation accounts for about 5% of cases, though some of
-  the link may be early dementia causing withdrawal. Staying in touch, shared hobbies and help
-  with hearing all support connection. For people living with dementia, shared activities matter
-  for enjoyment and quality of life.
+  Pētījumi saista sociālo izolāciju un vientulību vecumdienās ar lielāku demences risku. 2024. gada Lancet komisija aplēš, ka izolācija veido aptuveni 5% gadījumu, lai gan daļa saiknes var būt agrīna demence, kas liek cilvēkam atkāpties. Saziņa, kopīgi hobiji un palīdzība ar dzirdi atbalsta kontaktus. Cilvēkiem, kas dzīvo ar demenci, kopīgas aktivitātes ir svarīgas prieka un dzīves kvalitātes dēļ.
 keyPoints:
-  - "The Lancet Commission lists social isolation in later life as one of 14 modifiable dementia risk factors, at about 5% of cases."
-  - "The US Surgeon General's 2023 advisory linked chronic loneliness and isolation with about a 50% higher dementia risk in older adults."
-  - "Most of this evidence is observational, and early dementia can itself make people withdraw."
-  - "Hearing and vision problems, living alone and caregiving all raise the risk of isolation."
-  - "For people living with dementia, enjoyable shared activities support quality of life; the goal is connection, not performance."
+  - "Lancet komisija sociālo izolāciju vecumdienās min kā vienu no 14 maināmiem demences riska faktoriem, aptuveni 5% gadījumu."
+  - "ASV ģenerālķirurga 2023. gada brīdinājums saistīja hronisku vientulību un izolāciju ar aptuveni 50% augstāku demences risku vecāka gadagājuma cilvēkiem."
+  - "Lielākā daļa šo pierādījumu ir novērojumu pētījumi, un agrīna demence pati var likt cilvēkiem atkāpties."
+  - "Dzirdes un redzes problēmas, dzīvošana vienam un aprūpes pienākumi visi palielina izolācijas risku."
+  - "Cilvēkiem, kas dzīvo ar demenci, patīkamas kopīgas aktivitātes atbalsta dzīves kvalitāti; mērķis ir saskarsme, nevis sniegums."
 faq:
-  - q: "Does loneliness cause dementia?"
-    a: "That has not been proven. Many studies link loneliness and isolation with a higher risk of dementia, but early brain changes can also lead people to pull back from others. Staying connected has many other benefits for mood and health, so it is worth supporting either way."
-  - q: "What is the difference between loneliness and social isolation?"
-    a: "Social isolation means having few people to interact with regularly. Loneliness is the painful feeling of being alone or cut off. You can live alone and not feel lonely, or feel lonely while surrounded by people."
-  - q: "How can I help a parent with dementia stay connected?"
-    a: "Short, regular contact works well. Try a set weekly call or video chat, a shared activity at the kitchen table, a memory cafe, or a visit with a pet or grandchild. Keep groups small and quiet, and let the person set the pace."
-  - q: "Where can I find local help for an isolated older adult?"
-    a: "The Eldercare Locator, a public service, connects families with local agencies on aging and community programs. It can be reached at 800-677-1116 or at eldercare.acl.gov."
+  - q: "Vai vientulība izraisa demenci?"
+    a: "Tas nav pierādīts. Daudzi pētījumi saista vientulību un izolāciju ar lielāku demences risku, bet agrīnas smadzeņu izmaiņas var arī likt cilvēkiem atkāpties no citiem. Saskarsmei ir arī citi ieguvumi garastāvoklim un veselībai, tāpēc to ir vērts atbalstīt jebkurā gadījumā."
+  - q: "Kāda ir atšķirība starp vientulību un sociālo izolāciju?"
+    a: "Sociāla izolācija nozīmē, ka cilvēkam ir maz kontaktu ar citiem un viņš tos regulāri neuztur. Vientulība ir sāpīga sajūta, ka esi vienatnē vai atstumts. Var dzīvot vienam un nejust vientulību vai just vientulību, būdams ar cilvēkiem apkārt."
+  - q: "Kā es varu palīdzēt vecākam ar demenci uzturēt kontaktus?"
+    a: "Īsi, regulāri kontakti darbojas labi. Izmēģiniet fiksētu iknedēļas zvanu vai video sarunu, kopīgu aktivitāti pie virtuves galda, atmiņu kafejnīcu vai apmeklējumu kopā ar mājdzīvnieku vai mazbērnu. Turiet grupas nelielas un klusas un ļaujiet cilvēkam noteikt tempu."
+  - q: "Kur atrast vietēju palīdzību vecākam cilvēkam, kas ir izolēts?"
+    a: "Eldercare Locator, sabiedrisks pakalpojums, savieno ģimenes ar vietējām vecākas paaudzes aģentūrām un kopienas programmām. Ar to var sazināties pa tālruni 800-677-1116 vai vietnē eldercare.acl.gov."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -54,71 +50,71 @@ related: [caregiving/how-to-play-together, activities/visiting, activities/phone
 health: true
 ---
 
-People are wired for company, and that does not change with age. Research links loneliness and social isolation in later life with a higher risk of dementia, as well as heart disease and depression. The research cannot yet say how much of that link is cause and effect. This page covers what the evidence shows, practical ways to stay connected, and why shared activities matter so much for people already living with dementia.
+Cilvēki ir radīti kopdzīvei, un tas ar vecumu nemainās. Pētījumi saista vientulību un sociālo izolāciju vecumdienās ar lielāku demences risku, kā arī ar sirds slimībām un depresiju. Pētījumi vēl nevar pateikt, cik lielā mērā šī saikne ir cēlonis un sekas. Šajā lapā aplūkots, ko rāda pierādījumi, praktiski veidi, kā palikt kontaktā, un kāpēc kopīgas aktivitātes ir tik svarīgas cilvēkiem, kas jau dzīvo ar demenci.
 
-## Are loneliness and isolation linked with dementia?
+## Vai vientulība un izolācija ir saistītas ar demenci?
 
-Yes, many studies link them, though the direction is not fully clear. The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) lists social isolation in later life as one of 14 modifiable risk factors. [UCL's summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) puts it at about 5% of dementia cases worldwide.
+Jā, daudzi pētījumi tās saista, lai gan virziens nav pilnīgi skaidrs. [2024. gada Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0) sociālo izolāciju vecumdienās min kā vienu no 14 maināmiem riska faktoriem. [UCL ziņojuma kopsavilkums](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors) to aplēš aptuveni 5% demences gadījumu visā pasaulē.
 
-What the evidence shows:
+Ko rāda pierādījumi:
 
-- **Less contact, higher risk.** The Commission describes two reviews that linked less frequent social contact with a higher risk of dementia. One found about 57% higher risk and the other about 18%.
-- **Loneliness too.** Loneliness, the feeling of being cut off, was also linked with higher dementia risk across several reviews.
-- **The Surgeon General's view.** In May 2023, the US Surgeon General issued an [advisory on loneliness and isolation](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). It states that chronic loneliness and isolation can raise the risk of dementia by about 50% in older adults. It also linked poor social connection with a 29% higher risk of heart disease and a 32% higher risk of stroke.
-- **How common it is.** A [National Academies report](https://www.ncbi.nlm.nih.gov/books/NBK557972/) found that about 24% of Americans aged 65 and older living in the community are socially isolated.
+- **Mazāk kontaktu, lielāks risks.** Komisija apraksta divus pārskatus, kas saistīja retāku sociālo kontaktu ar lielāku demences risku. Viens atklāja aptuveni 57% augstāku risku, otrs aptuveni 18%.
+- **Arī vientulība.** Vientulība, sajūta, ka esi atstumts, vairākos pārskatos arī bija saistīta ar lielāku demences risku.
+- **ASV ģenerālķirurga viedoklis.** 2023. gada maijā ASV ģenerālķirurgs izdeva [brīdinājumu par vientulību un izolāciju](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). Tajā teikts, ka hroniska vientulība un izolācija var palielināt demences risku vecāka gadagājuma cilvēkiem par aptuveni 50%. Tajā arī saistīts vājš sociālais kontakts ar 29% augstāku sirds slimību risku un 32% augstāku insulta risku.
+- **Cik tas ir izplatīts.** [Nacionālo zinātņu akadēmiju ziņojums](https://www.ncbi.nlm.nih.gov/books/NBK557972/) atklāja, ka aptuveni 24% amerikāņu vecumā no 65 gadiem un vecāki, kas dzīvo kopienā, ir sociāli izolēti.
 
-An important caution: the Lancet Commission notes that people may cut back on social activities during the early, undiagnosed phase of dementia. That means some of the link may be dementia causing withdrawal, not only withdrawal raising risk. Nearly all of this evidence comes from observational studies.
+Svarīga piezīme: Lancet komisija norāda, ka cilvēki var samazināt sociālās aktivitātes agrīnajā, neatklātajā demences stadijā. Tas nozīmē, ka daļa saiknes var būt demence, kas izraisa atkāpšanos, nevis tikai atkāpšanās, kas paaugstina risku. Gandrīz visi šie pierādījumi nāk no novērojumu pētījumiem.
 
-## What is the difference between loneliness and isolation?
+## Kāda ir atšķirība starp vientulību un izolāciju?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) explains it this way. **Social isolation** means having few social contacts or few people to interact with regularly. **Loneliness** is the distressing feeling of being alone or separated. Someone can live alone happily, and someone can feel lonely in a full room.
+[Nacionālais novecošanās institūts (NIA)](https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected) to izskaidro šādi. **Sociālā izolācija** nozīmē, ka ir maz sociālu kontaktu vai maz cilvēku, ar kuriem regulāri sarunāties. **Vientulība** ir nomācoša sajūta, ka esi vienatnē vai nošķirts. Kāds var dzīvot vienatnē laimīgi, un kāds var just vientulību pilnā istabā.
 
-The NIA lists factors that raise the risk of both:
+NIA min faktorus, kas palielina risku abām:
 
-- Hearing or vision problems
-- Trouble getting around, or no transportation
-- Living alone, or a major loss such as a spouse's death or retirement
-- Memory or thinking changes
-- Caring for a loved one who is unwell
-- Money worries or language barriers
+- dzirdes vai redzes problēmas;
+- grūtības pārvietoties vai nav transporta;
+- dzīvošana vienam vai liels zaudējums, piemēram, laulātā nāve vai aiziešana pensijā;
+- izmaiņas atmiņā vai domāšanā;
+- aprūpe par mīļoto, kurš ir slims;
+- finansiālas rūpes vai valodas barjeras.
 
-Hearing is a big one. The NIA notes that people who cannot hear well may withdraw because conversation becomes frustrating or embarrassing. Our [hearing and brain health guide](/brain-health/hearing/) covers hearing checks and over-the-counter hearing aids.
+Dzirde ir svarīga. NIA norāda, ka cilvēki, kas slikti dzird, var atkāpties, jo saruna kļūst nomācoša vai neērta. Mūsu [ceļvedis par dzirdi un smadzeņu veselību](/brain-health/hearing/) aptver dzirdes pārbaudes un bezrecepšu dzirdes aparātus.
 
-## Practical ways to stay connected
+## Praktiski veidi, kā palikt kontaktā
 
-The NIA suggests a range of ideas. Pick one or two that fit:
+NIA iesaka dažādas idejas. Izvēlieties vienu vai divas, kas der:
 
-- **Schedule regular contact.** A set time each day or week to call, text, email or send a card with family, friends or neighbors.
-- **Use video calls or smart speakers.** If technology is new, many public libraries and community centers offer classes. See our [phone and video calls guide](/activities/phone-and-video-calls/).
-- **Join something.** A class, faith community, walking club or volunteer role gives you contact and a sense of purpose.
-- **Restart an old hobby** or learn a new one with other people.
-- **Move with others.** Exercise with a friend or group. Our [exercise guide](/brain-health/exercise/) has gentle options.
-- **Consider a pet** if you can care for one.
-- **Use local services.** Senior centers, Area Agencies on Aging and the Eldercare Locator (800-677-1116) can point you to programs and transportation.
+- **Plānojiet regulārus kontaktus.** Fiksēts laiks katru dienu vai nedēļā, lai zvanītu, rakstītu, sūtītu e-pastu vai kartīti ģimenei, draugiem vai kaimiņiem.
+- **Izmantojiet video zvanus vai viedos skaļruņus.** Ja tehnoloģijas ir jaunas, daudzas publiskās bibliotēkas un kopienas centri piedāvā kursus. Skatiet mūsu [ceļvedi par tālruņa un video zvaniem](/activities/phone-and-video-calls/).
+- **Pievienojieties kaut kam.** Nodarbība, draudze, pastaigu klubs vai brīvprātīgais darbs dod kontaktus un nozīmes sajūtu.
+- **Atsāciet vecu hobiju** vai apgūstiet jaunu kopā ar citiem cilvēkiem.
+- **Kustieties kopā ar citiem.** Vingrojiet kopā ar draugu vai grupu. Mūsu [vingrošanas ceļvedī](/brain-health/exercise/) ir maigas iespējas.
+- **Apsveriet mājdzīvnieku,** ja varat par viņu rūpēties.
+- **Izmantojiet vietējos pakalpojumus.** Senioru centri, Vecāka gadagājuma aģentūras (Area Agencies on Aging) un Eldercare Locator (800-677-1116) var norādīt programmas un transportu.
 
-## Why do shared activities matter in dementia?
+## Kāpēc kopīgas aktivitātes ir svarīgas demences gadījumā?
 
-For someone already living with dementia, connection is about enjoyment, comfort and feeling included, not about lowering risk. The Lancet Commission states that activities help people with dementia keep enjoyment and purpose. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that, in addition to enhancing quality of life, activities can reduce behaviors like wandering or agitation. The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) adds that people with Alzheimer's need to be active and do things they enjoy.
+Cilvēkam, kas jau dzīvo ar demenci, saskarsme ir saistīta ar prieku, komfortu un piederības sajūtu, nevis ar riska samazināšanu. Lancet komisija norāda, ka aktivitātes palīdz cilvēkiem ar demenci saglabāt prieku un nozīmi. [Alcheimera asociācija](https://www.alz.org/help-support/caregiving/daily-care/activities) norāda, ka papildus dzīves kvalitātes uzlabošanai aktivitātes var mazināt tādu uzvedību kā klejošana vai uzbudinājums. [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) piebilst, ka cilvēkiem ar Alcheimera slimību ir jābūt aktīviem un jādara lietas, kas viņiem patīk.
 
-Ideas that work well:
+Idejas, kas labi darbojas:
 
-1. **Look at pictures together.** [Conversation Cards](/games/conversation-cards/) offer open, no-quiz prompts such as "Tell me about..." See our [reminiscence guide](/activities/reminiscence/).
-2. **Play side by side.** [Picture Pairs](/games/picture-pairs/) keeps pictures visible and has no timer or score, so there is no pressure. Our guide on [how to play together](/caregiving/how-to-play-together/) has tips.
-3. **Use family photos.** [Photo Pairs](/games/photo-pairs/) turns photos you choose into a matching game, and the photos stay on your device.
-4. **Bring people together.** [Picture Bingo](/games/picture-bingo/) works for family gatherings and [care home groups](/activities/care-home-groups/).
-5. **Share music, chores or the garden.** See [music activities](/activities/music/), [household tasks](/activities/household-tasks/) and our full list of [activity ideas](/activities/ideas/).
-6. **Make visits easier.** Our [visiting guide](/activities/visiting/) covers short, calm visits that feel good for everyone.
+1. **Kopā skatieties attēlus.** [Sarunu kartītes](/games/conversation-cards/) piedāvā atvērtus jautājumus bez testiem, piemēram, "Pastāstiet man par..." Skatiet mūsu [ceļvedi par atmiņām](/activities/reminiscence/).
+2. **Spēlējiet blakus.** [Attēlu pāri](/games/picture-pairs/) attēlus notur redzamus un nav taimera vai punktu, tāpēc nav spiediena. Mūsu ceļvedī par [to, kā spēlēt kopā](/caregiving/how-to-play-together/) ir padomi.
+3. **Izmantojiet ģimenes fotogrāfijas.** [Foto pāri](/games/photo-pairs/) pārvērš jūsu izvēlētās fotogrāfijas atbilstības spēlē, un fotogrāfijas paliek jūsu ierīcē.
+4. **Sapulciniet cilvēkus.** [Attēlu bingo](/games/picture-bingo/) der ģimenes saietiem un [aprūpes iestāžu grupām](/activities/care-home-groups/).
+5. **Dalieties mūzikā, mājas darbos vai dārzā.** Skatiet [mūzikas aktivitātes](/activities/music/), [mājsaimniecības darbus](/activities/household-tasks/) un pilnu [aktivitāšu ideju sarakstu](/activities/ideas/).
+6. **Padariet apmeklējumus vieglākus.** Mūsu [ceļvedis par apmeklējumiem](/activities/visiting/) aptver īsus, mierīgus apmeklējumus, kas ir labi visiem.
 
-Keep it small and relaxed. A quiet room with one or two people often works better than a big group. If the person tires or loses interest, stopping is fine. Sitting together with a cup of tea is a good outcome too.
+Turiet to nelielu un atslābinātu. Klusa istaba ar vienu vai diviem cilvēkiem bieži darbojas labāk nekā liela grupa. Ja cilvēks noguris vai zaudē interesi, apstāties ir pilnīgi normāli. Labs rezultāts ir arī kopā sēdēt ar tasi tējas.
 
-For someone living alone with dementia, the NIA suggests finding a trusted person who can visit or video call regularly and serve as an emergency contact. It also mentions a local memory cafe, a relaxed social space for people with memory loss and their families.
+Cilvēkam, kas dzīvo vienatnē ar demenci, NIA iesaka atrast uzticamu cilvēku, kas var regulāri apciemot vai zvanīt video zvanā un kļūt par ārkārtas kontaktpersonu. Tas min arī vietēju atmiņu kafejnīcu, atslābinātu sociālu vietu cilvēkiem ar atmiņas zudumu un viņu ģimenēm.
 
-## Caregivers get lonely too
+## Arī aprūpētāji jūtas vientuļi
 
-The NIA lists caring for a loved one as a risk factor for isolation. Protect some time for your own friendships, support groups and rest. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) has practical ideas.
+NIA min, ka rūpes par mīļoto ir izolācijas riska faktors. Atvēliet laiku savām draudzībām, atbalsta grupām un atpūtai. Mūsu [ceļvedis par aprūpētāja pašaprūpi](/caregiving/caregiver-self-care/) sniedz praktiskas idejas.
 
-## Talk with a doctor
+## Pārrunājiet ar ārstu
 
-If you or someone you care for feels lonely or isolated much of the time, tell a doctor. The NIA encourages people to share major life changes, such as a death in the family, so the doctor understands the full picture. Feeling low for weeks at a time can be depression, which can be treated. If an older adult has newly pulled away from friends or activities they used to enjoy, that change is worth mentioning to a doctor too. Read [early signs and when to see a doctor](/brain-health/warning-signs/).
+Ja jūs vai cilvēks, par kuru rūpējaties, lielāko daļu laika jūtas vientuļi vai izolēti, pastāstiet ārstam. NIA mudina dalīties ar lielām dzīves izmaiņām, piemēram, ģimenes locekļa nāvi, lai ārsts saprastu pilnu ainu. Nedēļām ilgs slikts garastāvoklis var būt depresija, un to var ārstēt. Ja vecāka gadagājuma cilvēks ir nesen atkāpies no draugiem vai aktivitātēm, kas viņam agrāk patika, arī to vērts pieminēt ārstam. Lasiet [agrīnās pazīmes un to, kad vērsties pie ārsta](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Šī lapa sniedz vispārīgu informāciju, nevis medicīnisku padomu. Skatiet mūsu [medicīniskās atrunas](/medical-disclaimer/).

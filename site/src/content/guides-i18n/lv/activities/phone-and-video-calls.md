@@ -1,34 +1,30 @@
 ---
-title: "Phone and Video Call Activities for Someone with Dementia"
-seoTitle: "Video Call Activities for Dementia"
-description: "Video call and phone activities for long-distance family of someone with dementia: show-and-tell, reading aloud, singing, shared-screen games and tips for helpers."
+title: "Telefona un video zvanu aktivitātes cilvēkam ar demenci"
+seoTitle: "Video zvanu aktivitātes demencei"
+description: "Video un telefona zvanu aktivitātes tālu dzīvojošai ģimenei: parādīt un stāstīt, lasīt priekšā, dziedāt, spēles kopīgā ekrānā un padomi palīgiem."
 section: activities
 order: 14
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Calls with a person living with dementia go best when they are short,
-  regular and built around something to do together, such as showing a pet or
-  garden, looking at photos, reading aloud, singing a favorite song or playing
-  a gentle game on a shared screen. Call at the same time each day if you can,
-  keep it to one voice at a time, and ask someone on site to help.
+  Zvani cilvēkam, kam ir demence, noris vislabāk, ja tie ir īsi, regulāri un balstīti uz kaut ko kopīgu, piemēram, mājdzīvnieka vai dārza parādīšanu, fotogrāfiju skatīšanos, lasīšanu priekšā, mīļas dziesmas dziedāšanu vai maigas spēles spēlēšanu kopīgā ekrānā. Zvaniet vienā un tajā pašā laikā katru dienu, ja iespējams, runājiet pa vienai balsij un lūdziet kādam uz vietas palīdzēt.
 keyPoints:
-  - "An activity gives a call shape and takes the pressure off conversation. Plan one simple thing to share."
-  - "Short, regular calls at the same time of day often work better than long, occasional ones."
-  - "One person speaks at a time. Group calls with cross talk are hard to follow, especially with hearing loss."
-  - "A helper on site can set up the device, sit beside the person, and be the 'hands' for any game or photo."
-  - "If a call is not working today, end it warmly. Trying again tomorrow is fine."
+  - "Aktivitāte piešķir zvanam formu un noņem spiedienu no sarunas. Iepriekš izvēlieties vienu vienkāršu lietu, ko kopīgi aplūkot."
+  - "Īsi, regulāri zvani vienā un tajā pašā dienas laikā bieži darbojas labāk nekā gari, reti zvani."
+  - "Runā viens cilvēks vienlaikus. Grupu zvani ar pārklājošām balsīm ir grūti sekojami, īpaši dzirdes zuduma gadījumā."
+  - "Palīgs uz vietas var sagatavot ierīci, sēdēt blakus un būt par „rokām” jebkurai spēlei vai fotogrāfijai."
+  - "Ja zvans šodien neiet, siltā veidā to beidziet. Rīt mēģināt atkal ir labi."
 faq:
-  - q: "What can I do on a video call with someone with dementia?"
-    a: "Plan one simple activity: show your garden, pet or kitchen; look at old photos together; read a short poem or letter aloud; sing a song they love; cook the same recipe at the same time; or play a gentle picture game on a shared screen. Activities give the call a focus so the person does not have to carry the conversation."
-  - q: "How long should a video call be?"
-    a: "Usually shorter than you think. A few warm minutes can be plenty, especially if the person tires quickly. Calling regularly at the same time of day can matter more than how long each call lasts."
-  - q: "What if they get confused or upset by video calls?"
-    a: "Some people find a face on a screen confusing. Try a plain phone call, a recorded video message the helper can play at a calm moment, or cards and photos in the mail. If a call goes badly, end it kindly and try again another day or at a different time."
-  - q: "How can I help my mom video call when she can't use the phone?"
-    a: "Ask a family member, home aide or care home staff member to start the call and hold or prop up the device. Many care settings help families with video calls, so ask what they offer. A tablet on a stand, set to a large screen and loud enough to hear, makes it easier for everyone."
-  - q: "Can we play a game together over video?"
-    a: "Yes. The easiest way is for one person to share their screen in the video app while the other tells them which picture to tap. Or the helper on site can open the same game on a tablet and tap for the person while you talk them through it. Choose games with no timer or score."
+  - q: "Ko var darīt video zvanā ar cilvēku, kam ir demence?"
+    a: "Izvēlieties vienu vienkāršu aktivitāti: parādiet savu dārzu, mājdzīvnieku vai virtuvi; kopā skatiet vecas fotogrāfijas; izlasiet īsu dzejoli vai vēstuli; nodziediet mīļu dziesmu; pagatavojiet to pašu recepti vienlaikus vai spēlējiet maigu attēlu spēli kopīgā ekrānā. Aktivitātes dod zvanam fokusu, lai cilvēkam nav jānes visa sarunas nasta."
+  - q: "Cik ilgam būtu jābūt video zvanam?"
+    a: "Parasti īsākam, nekā domājat. Dažas siltas minūtes var būt pietiekami, īpaši, ja cilvēks ātri nogurst. Regulārs zvans vienā un tajā pašā dienas laikā var būt svarīgāks par to, cik ilgi katrs zvans ilgst."
+  - q: "Ko darīt, ja video zvani viņus apjucina vai satrauc?"
+    a: "Daži cilvēki uzskata, ka seja ekrānā ir apjucinoša. Izmēģiniet vienkāršu telefona zvanu, ierakstītu video ziņu, ko palīgs var atskaņot mierīgā brīdī, vai kartītes un fotogrāfijas pa pastu. Ja zvans noiet slikti, maigi to beidziet un mēģiniet citu dienu vai citā laikā."
+  - q: "Kā palīdzēt mammai veikt video zvanu, ja viņa nevar lietot tālruni?"
+    a: "Lūdziet ģimenes locekli, mājas aprūpētāju vai aprūpes nama darbinieku uzsākt zvanu un turēt vai atbalstīt ierīci. Daudzas aprūpes vides palīdz ģimenēm ar video sarunām, tāpēc pajautājiet, ko viņi piedāvā. Planšete uz statīva ar lielu ekrānu un pietiekami skaļu skaņu visiem atvieglo saziņu."
+  - q: "Vai varam kopā spēlēt spēli video zvanā?"
+    a: "Jā. Vienkāršākais veids ir, ka viens cilvēks video lietotnē dalās ar ekrānu, bet otrs stāsta, kuru attēlu pieskarties. Vai arī palīgs uz vietas var atvērt to pašu spēli planšetē un pieskarties viņa vietā, kamēr jūs to vadāt sarunā. Izvēlieties spēles bez taimera un bez punktiem."
 sources:
   - title: "The Holidays and Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -50,120 +46,120 @@ related: [activities/visiting, activities/reminiscence, activities/music, caregi
 health: false
 ---
 
-Living far away from someone with dementia can feel helpless. Phone and video calls will not replace a hug, but they can still bring real moments of connection when you set them up well. The trick is to stop trying to have a normal catch-up conversation and plan something simple to share instead. This page covers activities that work over video and phone, how to set up the call, and what the person on site can do to help.
+Dzīvot tālu no cilvēka, kam ir demence, var justies bezpalīdzīgi. Telefona un video zvani neaizstās apskāvienu, taču, ja tos labi sagatavo, tie joprojām var radīt patiesus saviļņojuma brīžus. Triks ir pārstāt cenšties vadīt parastu sarunu un tā vietā iepriekš izvēlēties kaut ko vienkāršu, ko kopīgi aplūkot. Šajā lapā aprakstītas aktivitātes, ko var veikt video un telefona zvanos, kā sagatavot zvanu un ko var darīt cilvēks uz vietas, lai palīdzētu.
 
-## Why plan an activity for a call?
+## Kāpēc plānot aktivitāti zvanam?
 
-An activity gives the call shape. "How are you? What did you do today?" asks the person to remember and report, which can be hard and stressful. "Look, the tomatoes are ripe" asks nothing of them at all.
+Aktivitāte piešķir zvanam formu. „Kā tev klājas? Ko šodien darīji?” liek cilvēkam kaut ko atcerēties un atstāstīt, kas var būt grūti un saspringti. „Paskaties, tomāti ir nogatavojušies” no viņa neprasa neko.
 
-The Alzheimer's Association notes that conversations with larger groups over video can be difficult, and suggests [adding structure to the call](https://www.alz.org/help-support/caregiving/holidays) with things like singing songs or sharing pictures.
+Alzheimer's Association norāda, ka sarunas ar lielākām grupām video zvanā var būt grūtas, un iesaka [pievienot zvanam struktūru](https://www.alz.org/help-support/caregiving/holidays), piemēram, dziedot dziesmas vai dalīdamies ar attēliem.
 
-## What activities work on a video call?
+## Kādas aktivitātes labi darbojas video zvanā?
 
-### Show and tell
+### Parādīt un pastāstīt
 
-Bring your world to them. Walk the camera slowly around your garden, introduce the dog, show what you are cooking, hold up a grandchild's drawing, or point the phone out the window at the snow. Describe what you see in simple words and leave pauses for them to react. No questions needed.
+Parādiet viņiem savu pasauli. Lēni pavadiet kameru pa savu dārzu, iepazīstiniet ar suni, parādiet, ko gatavojat, paceliet mazbērna zīmējumu vai pavērsiet tālruni pret logu, kur snieg. Aprakstiet redzēto vienkāršos vārdos un atstājiet pauzes, lai viņi varētu reaģēt. Jautājumi nav vajadzīgi.
 
-### Look at photos together
+### Skatīties fotogrāfijas kopā
 
-Hold an old print up to the camera, or share your screen to show a few large photos one at a time. Talk about what you notice: "Look at Grandpa's hat." Avoid "Who is this?" or "Do you remember?" If the person names someone wrongly, go along with it. See our [reminiscence guide](/activities/reminiscence/) for gentle prompts.
+Turiet kamerai priekšā vecu fotogrāfiju vai kopīgajā ekrānā parādiet dažas lielas fotogrāfijas pa vienai. Runājiet par to, ko pamanāt: „Paskaties uz Opa cepuri.” Izvairieties no „Kas tas ir?” vai „Vai atceries?” Ja cilvēks kādu nosauc nepareizi, piekrītiet. Maigus jautājumus skatiet mūsu [atmiņu ceļvedī](/activities/reminiscence/).
 
-### Read aloud
+### Lasīt priekšā
 
-Read a short poem, a psalm, a favorite children's book to a grandchild on the same call, a letter from a relative, or a page from a book they loved. Reading aloud gives the person something calm to listen to without needing to reply.
+Izlasiet īsu dzejoli, psalmu, mīļu bērnu grāmatu mazbērnam tajā pašā zvanā, radinieka vēstuli vai lappusi no grāmatas, ko viņš mīlēja. Lasīšana priekšā dod cilvēkam kaut ko mierīgu, ko klausīties, bez vajadzības atbildēt.
 
-### Sing or listen to music together
+### Dziedāt vai klausīties mūziku kopā
 
-Sing a song they know well, or play a favorite record on your end. Singing along is easier than talking for many people. See our [music activities guide](/activities/music/).
+Nodziediet dziesmu, ko viņš labi zina, vai atskaņojiet mīļu skaņuplati savā pusē. Daudziem cilvēkiem dziedāt līdzi ir vieglāk nekā runāt. Skatiet mūsu [mūzikas aktivitāšu ceļvedi](/activities/music/).
 
-### Cook or bake at the same time
+### Gatavot vai cept vienlaikus
 
-The Alzheimer's Association suggests planning a video call to cook or bake a special recipe together. Set up the call in both kitchens. The person on site might stir or taste while you follow their old recipe card.
+Alzheimer's Association iesaka plānot video zvanu, lai kopā pagatavotu īpašu recepti. Iestatiet zvanu abās virtuvēs. Palīgs uz vietas var maisīt vai garšot, kamēr jūs sekojat viņa vecajai receptes kartītei.
 
-### Watch something together
+### Noskatīties kaut ko kopā
 
-The Association also suggests watching a favorite movie at the same time from separate homes while talking by phone or video. For someone with dementia, a short clip, an old TV episode or a ball game may work better than a full film.
+Asociācija arī iesaka vienlaikus skatīties mīļu filmu dažādās mājās, sarunājoties pa telefonu vai video. Cilvēkam ar demenci var labāk derēt īss klips, vecs TV seriāls vai sporta spēle nekā pilnmetrāžas filma.
 
-### Play a gentle game on a shared screen
+### Spēlēt maigu spēli kopīgā ekrānā
 
-Many video call apps let you share your screen. You open the game and tap; the person tells you or points to which picture to choose. Or the helper on site opens the same game on a tablet and taps for them while you chat.
+Daudzas video zvanu lietotnes ļauj dalīties ar ekrānu. Jūs atverat spēli un pieskaraties; cilvēks jums saka vai norāda, kuru attēlu izvēlēties. Vai arī palīgs uz vietas atver to pašu spēli planšetē un pieskaras viņa vietā, kamēr jūs sarunājaties.
 
-Games that work well this way:
+Spēles, kas šādi labi darbojas:
 
-- **[Finish the Saying](/games/finish-the-saying/):** you read the familiar saying, they say the ending, and a talking prompt follows.
-- **[Picture Pairs](/games/picture-pairs/):** a gentle matching game with large pictures that can stay visible, no timer and no score.
-- **[Conversation Cards](/games/conversation-cards/):** a picture and an open prompt to talk about together.
-- **[Photo Pairs](/games/photo-pairs/):** a matching game made from photos you choose on your own device. The photos stay in your browser, and the person sees them through your shared screen.
+- **[Pabeidz teicienu](/games/finish-the-saying/):** jūs izlasāt pazīstamu teicienu, viņš pasaka beigas, un seko saruna.
+- **[Attēlu pāri](/games/picture-pairs/):** maiga sapārošanas spēle ar lieliem attēliem, kas var palikt redzami, bez taimera un bez punktiem.
+- **[Sarunu kartītes](/games/conversation-cards/):** attēls un atklāts jautājums, par ko runāt kopā.
+- **[Fotogrāfiju pāri](/games/photo-pairs/):** sapārošanas spēle no fotogrāfijām, ko izvēlaties savā ierīcē. Fotogrāfijas paliek jūsu pārlūkprogrammā, un cilvēks tās redz caur jūsu kopīgo ekrānu.
 
-### Recorded messages
+### Ierakstītas ziņas
 
-When live calls are hard, record a short video: a greeting, a song, a walk around your yard. The helper can play it at a calm moment, as many times as the person enjoys. The Alzheimer's Association mentions recording and sending special moments, like children opening gifts.
+Kad tiešie zvani ir grūti, ierakstiet īsu video: sveicienu, dziesmu, pastaigu pa savu pagalmu. Palīgs to var atskaņot mierīgā brīdī, cik reizes vien cilvēks vēlas. Alzheimer's Association min arī īpašu brīžu ierakstīšanu un nosūtīšanu, piemēram, bērni, kas atver dāvanas.
 
-## What about plain phone calls?
+## Kā ir ar parastiem telefona zvaniem?
 
-Phone calls still matter. Dementia Australia suggests [calling at the same time each day](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) and not rushing, since people with dementia may take time to engage. On the phone:
+Telefona zvaniem joprojām ir nozīme. Dementia Australia iesaka [zvanīt katru dienu vienā un tajā pašā laikā](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) un nesteigties, jo cilvēkiem ar demenci iesaistīties var prasīt laiku. Telefonā:
 
-- Say your name and relationship right away: "Hi Dad, it's Jenny, your daughter."
-- Speak slowly, in short sentences, one idea at a time.
-- Give news rather than asking for it: "I made your pot roast recipe last night."
-- Read a short poem, or sing a verse of a favorite song.
-- Keep it short and end on a warm note.
+- Uzreiz pasakiet savu vārdu un attiecības: „Sveiks, tētiņ, es esmu Jenija, tava meita.”
+- Runājiet lēnām, īsos teikumos, pa vienai domai vienlaikus.
+- Dodiet ziņas, nevis jautājiet tās: „Vakar pagatavoju tavu sautētās gaļas recepti.”
+- Izlasiet īsu dzejoli vai nodziediet vienu strofu no mīļas dziesmas.
+- Turiet zvanu īsu un beidziet to siltā noskaņā.
 
-Dementia Australia also notes that video calls can help when talking becomes harder, since the person can see your face. If phone calls get confusing, try video, or the other way around.
+Dementia Australia arī norāda, ka video zvani var palīdzēt, kad sarunāties kļūst grūtāk, jo cilvēks var redzēt jūsu seju. Ja telefona zvani kļūst apjucinoši, izmēģiniet video, vai otrādi.
 
-## How do I set up a video call that works?
+## Kā iestatīt video zvanu, kas darbojas?
 
-**Before the call:**
+**Pirms zvana:**
 
-1. **Pick a regular time** when the person is usually rested, and stick to it. Routine helps.
-2. **Coordinate with the helper on site.** A text the day before helps them plan.
-3. **Check the device.** A tablet on a stand is easier than a phone held in a hand. Make sure it is charged, the screen is bright, and the sound is loud enough. Turn on captions if the app offers them and the person reads well.
-4. **Plan one activity** and have everything ready.
+1. **Izvēlieties regulāru laiku,** kad cilvēks parasti ir atpūties, un turieties pie tā. Rutīna palīdz.
+2. **Saskaņojiet ar palīgu uz vietas.** Īsa īsziņa dienu iepriekš palīdz viņiem plānot.
+3. **Pārbaudiet ierīci.** Planšete uz statīva ir ērtāka nekā rokā turēts tālrunis. Pārliecinieties, ka tā ir uzlādēta, ekrāns ir spilgts un skaņa pietiekami skaļa. Ieslēdziet subtitrus, ja lietotne tos piedāvā un cilvēks labi lasa.
+4. **Plānojiet vienu aktivitāti** un sagatavojiet visu iepriekš.
 
-**During the call:**
+**Zvana laikā:**
 
-- **Sit close to the camera** in good light, facing a window rather than with it behind you.
-- **Introduce yourself** every time, by name and relationship.
-- **One voice at a time.** The Alzheimer's Association notes that cross talk is hard for people living with dementia and people with hearing loss. If several relatives join, take turns or keep it to two or three people.
-- **Ask one question at a time.** The Family Caregiver Alliance suggests [simple questions with yes-or-no answers](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/), and showing choices when you can.
-- **Allow long pauses.** Wait for a reply. It is fine to suggest a word if they are searching.
-- **Use your face and voice.** Smile, nod and keep your tone warm. Expression often says more than words.
-- **Do not correct.** If the person says something that is not accurate, let it be.
+- **Sēdiet tuvu kamerai** labā gaismā, pret logu, nevis ar to aiz muguras.
+- **Prezentējieties** katru reizi, nosaucot vārdu un attiecības.
+- **Viena balss vienlaikus.** Alzheimer's Association norāda, ka pārklājošas balsis ir grūti uztvert cilvēkiem ar demenci un cilvēkiem ar dzirdes zudumu. Ja piebiedrojas vairāki radinieki, runājiet pa kārtai vai paturiet zvanu divu vai trīs cilvēku sarunā.
+- **Uzdodiet vienu jautājumu vienlaikus.** Family Caregiver Alliance iesaka [vienkāršus jautājumus ar atbildēm „jā” vai „nē”](https://www.caregiver.org/resource/ten-tips-for-communicating-with-a-person-with-dementia/) un, ja iespējams, piedāvāt izvēles.
+- **Ļaujiet garām pauzēm.** Gaidiet atbildi. Ir labi ieteikt vārdu, ja viņš meklē.
+- **Izmantojiet seju un balsi.** Smaidiet, pamājiet un turiet maigu toni. Izteiksme bieži pasaka vairāk nekā vārdi.
+- **Nelabojiet.** Ja cilvēks saka kaut ko neprecīzu, ļaujiet tam būt.
 
-**Ending the call:**
+**Zvana beigas:**
 
-- End before the person gets tired, ideally on a high note.
-- Use the same goodbye each time: "I'll call you tomorrow at lunch. I love you."
-- Do not drag it out.
+- Beidziet, pirms cilvēks nogurst, ideālā gadījumā uz pozitīvas nots.
+- Katru reizi izmantojiet to pašu atvadīšanos: „Es tev piezvanīšu rīt pusdienlaikā. Es tevi mīlu.”
+- Nevelciet to garumā.
 
-## Tips for the helper on site
+## Padomi palīgam uz vietas
 
-If you are the spouse, aide, sibling or staff member helping with the call, you make it possible.
+Ja esat laulātais, aprūpētājs, brālis vai māsa vai darbinieks, kas palīdz ar zvanu, jūs to padarāt iespējamu.
 
-- **Set up a quiet spot.** Turn off the TV and close the door.
-- **Start the call yourself,** then hand the person a tablet on a stand or hold it at eye level.
-- **Sit beside them, not in front.** Your presence is reassuring. Gently prompt if needed: "Look, it's Jenny."
-- **Be the hands.** Hold up photos, tap the game, turn the tablet to show the room.
-- **Watch for tiredness or upset,** and let the caller know when it is time to wrap up.
-- **Tell the caller what worked.** "She loved the dog" helps plan the next call.
+- **Iekārtojiet klusu vietu.** Izslēdziet televizoru un aizveriet durvis.
+- **Sāciet zvanu pats,** pēc tam nododiet cilvēkam planšeti uz statīva vai turiet to acu augstumā.
+- **Sēdiet blakus, nevis priekšā.** Jūsu klātbūtne nomierina. Vajadzības gadījumā maigi pamudiniet: „Paskaties, tā ir Jenija.”
+- **Esiet par rokām.** Turiet fotogrāfijas, pieskarieties spēlei, pagrieziet planšeti, lai parādītu telpu.
+- **Vērojiet nogurumu vai satraukumu** un dodiet zvanītājam ziņu, kad ir laiks noslēgt.
+- **Pastāstiet zvanītājam, kas strādāja.** „Viņai patika suns” palīdz plānot nākamo zvanu.
 
-The NIA suggests long-distance relatives can help an older person [learn their phone's features](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), such as video calls. In later stages, the helper will usually need to handle the device entirely. That is fine.
+NIA iesaka tālu dzīvojošiem radiniekiem palīdzēt vecākam cilvēkam [iepazīt sava tālruņa iespējas](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), piemēram, video zvanus. Vēlākajās stadijās palīgam parasti vajadzēs pilnībā rīkoties ar ierīci. Tas ir labi.
 
-If the person lives in a care home, the Alzheimer's Foundation of America suggests asking whether the facility helps families with video chats. The AFA also mentions families sending photos back and forth with care staff, and sending favorite snacks or small comforts, after checking what the facility allows.
+Ja cilvēks dzīvo aprūpes namā, Alzheimer's Foundation of America iesaka pajautāt, vai iestāde palīdz ģimenēm ar video sarunām. AFA min arī to, ka ģimenes ar aprūpes darbiniekiem sūta fotogrāfijas uz abām pusēm un sūta mīļākās uzkodas vai nelielus komforta priekšmetus, pēc tam pārbaudot, ko iestāde atļauj.
 
-## What if the call doesn't go well?
+## Ko darīt, ja zvans neiet labi?
 
-Some calls will be confusing, flat or upsetting. That is not your fault, and it does not mean calls are not worth it.
+Daži zvani būs apjucinoši, vienmuļi vai satraucoši. Tā nav jūsu vaina, un tas nenozīmē, ka zvani nav vērti.
 
-- If the person seems puzzled by the screen, switch to a phone call or a recorded message.
-- If they become upset, acknowledge the feeling, say something reassuring, and end gently.
-- If calls often go badly at one time of day, try another time.
-- If they think you are someone else, go along with it kindly.
+- Ja cilvēks šķiet apmulsis no ekrāna, pārslēdzieties uz telefona zvanu vai ierakstītu ziņu.
+- Ja viņš kļūst satraukts, atzīstiet sajūtu, pateiciet kaut ko nomierinošu un maigi beidziet.
+- Ja zvani bieži neiet labi vienā dienas laikā, izmēģiniet citu laiku.
+- Ja cilvēks domā, ka esat kāds cits, pieklājīgi piekrītiet.
 
-It is fine to end early. A short, warm call is a good outcome.
+Ir labi beigt agri. Īss, silts zvans ir labs rezultāts.
 
-## Between calls
+## Starp zvaniem
 
-Stay present in other ways. Dementia Australia suggests sending cards, emails, photos or small gifts. A weekly postcard with one large photo and a short note can be read again and again. Printable [conversation cards](/games/conversation-cards/) mailed to the helper can give the next call a ready-made topic.
+Esiet klāt arī citos veidos. Dementia Australia iesaka sūtīt kartītes, e-pastus, fotogrāfijas vai nelielas dāvanas. Iknedēļas pastkarte ar vienu lielu fotogrāfiju un īsu piezīmi var tikt lasīta atkal un atkal. Izdrukātas [sarunu kartītes](/games/conversation-cards/), kas nosūtītas palīgam pa pastu, var dot nākamajam zvanam gatavu tēmu.
 
-For tips on choosing and setting up a tablet, see [tablets and screens](/caregiving/tablets-and-screens/). For in-person time, see our guide to [visiting](/activities/visiting/).
+Padomiem par planšetes izvēli un iestatīšanu skatiet [planšetes un ekrāni](/caregiving/tablets-and-screens/). Par klātienes laiku skatiet mūsu ceļvedi par [apmeklējumiem](/activities/visiting/).

@@ -1,31 +1,31 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Рани знаци деменције и када се јавити лекару"
+seoTitle: "Рани знаци деменције и када се јавити лекару"
+description: "Чести рани знаци деменције, по чему се разликују од уобичајеног старења, узроци губитка памћења који се могу лечити и како да се припремите за преглед код лекара."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Губитак памћења који ремети свакодневни живот, тешкоће са познатим задацима, збуњеност око времена или места
+  и промене расположења или просуђивања могу бити рани знаци деменције. Многа друга стања, укључујући проблеме са
+  штитном жлездом, мањак витамина B12, нуспојаве лекова, депресију и проблеме са спавањем, могу изазвати
+  сличне промене. Дијагнозу може поставити само квалификовани клиничар. Нагла збуњеност захтева хитну помоћ.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Повремено заборављање је уобичајено са годинама; промене које ремете свакодневни живот вреди проверити."
+  - "Алцхајмер асоцијација описује 10 упозоравајућих знакова, сваки с типичном променом повезаном са старењем за поређење."
+  - "Проблеми са штитном жлездом, мањак витамина B12, нуспојаве лекова, депресија, инфекције и проблеми са спавањем могу утицати на памћење, а неки се могу лечити."
+  - "Деменцију може дијагностиковати само квалификовани клиничар; онлајн квизови и самотестови не могу."
+  - "Збуњеност која се јавља нагло, током сати или дана, може бити делиријум и захтева хитну медицинску помоћ."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "Да ли је заборављање нормалан део старења?"
+    a: "Донекле јесте. Национални институт за старење каже да је повремено губљење ствари или заборављање рачуна обично благо, од старења условљено заборављање. Деменција није нормалан део старења. Проблеме с памћењем који отежавају свакодневне задатке, попут вожње, коришћења телефона или проналажења пута кући, вреди проверити код лекара."
+  - q: "Може ли губитак памћења имати узрок другачији од деменције?"
+    a: "Може. Национални институт за старење наводи проблеме са штитном жлездом, бубрезима или јетром, нуспојаве лекова, депресију и анксиозност, мањак витамина B12, злоупотребу алкохола, проблеме са спавањем, инфекције и повреде главе, између осталог. Неки од ових проблема се побољшају када се лече, што је један од разлога зашто је медицинска провера важна."
+  - q: "Могу ли код куће да проверим некога на деменцију?"
+    a: "Не. Деменцију може дијагностиковати само квалификовани клиничар, на основу медицинске историје, физичког прегледа, тестова памћења и мишљења, лабораторијских тестова и понекад снимања мозга. Чак ни кратки тестови које користе лекари сами по себи нису довољни за дијагнозу деменције."
+  - q: "Шта да радим ако се неко нагло збуни?"
+    a: "Одмах потражите медицинску помоћ. Нагла збуњеност може бити делиријум, који Управа за ветеране САД описује као хитно медицинско стање. Одмах позовите здравствену службу особе или позовите локални број за хитне случајеве, останите уз њих и забележите лекове које узимају."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +53,94 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Примећивање промена у сопственом памћењу или у памћењу вољене особе може бити застрашујуће. Ова страница може помоћи да одлучите када да закажете преглед код лекара и како да се за њега припремите. Не може рећи да ли неко има деменцију. **Деменцију може дијагностиковати само квалификовани клиничар**, а многа стања која изазивају проблеме с памћењем уопште нису деменција. Молимо вас да се не ослањате на онлајн квизове или самотестове.
 
-## What are the early signs of dementia?
+## Који су рани знаци деменције?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Алцхајмер асоцијација](https://www.alz.org/alzheimers-dementia/10_signs) описује 10 раних знакова. Сваки упоређује с типичном променом повезаном са старењем. Својим речима:
 
-| Sign worth checking | More typical with age |
+| Знак који вреди проверити | Типичније са годинама |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Губитак памћења који ремети свакодневни живот, попут заборављања недавних догађаја или понављања истог питања | Понекад заборавити име или термин, а касније га се сетити |
+| Тешкоће у планирању или решавању проблема, попут праћења познатог рецепта или вођења рачуна о рачунима | Повремена грешка у кућном буџету |
+| Тешкоће у завршавању познатих задатака код куће, на послу или у ван куће | Повремено потреба за помоћи при подешавању микроталасне или снимања емисије |
+| Губљење појма о датумима, годишњим добима или о томе где се налазите | Погрешити дан у недељи, па га касније сетити |
+| Нове тешкоће у процењивању удаљености, читању или разликовању боја | Промене вида услед катаракте |
+| Нови проблеми с речима, попут застајкивања усред разговора или називања ствари погрешним именом | Понекад тешко пронаћи праву реч |
+| Стављање ствари на необична места и немогућност да се врате кораци | Повремено губљење ствари и њихово налажење враћањем корака |
+| Лоше просуђивање, попут оног у вези са новцем или личном негом | Повремено лоша одлука |
+| Повлачење из хобија, посла или друштвених активности | Понекад не осећати жељу да иде на породично или друштвено окупљање |
+| Промене расположења или личности, попут збуњености, сумњичавости, страха или анксиозности | Устаљени начини рада и нервоза кад се рутина поремети |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Један знак сам по себи не значи деменцију. Важна је **промена у односу на оно што је уобичајено за ту особу**, нарочито ако отежава свакодневни живот.
 
-## How is normal aging different from dementia?
+## Чиме се нормално старење разликује од деменције?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Национални институт за старење (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) каже да многи старији људи примећују да се сећају ствари спорије или понекад губе ствари или заборављају рачун. То су обично знаци благог заборављања. **Деменција није нормалан део старења.** Озбиљни проблеми с памћењем отежавају свакодневне активности, попут вожње, коришћења телефона или проналажења пута кући.
 
-The NIA suggests talking with a doctor if someone:
+NIA саветује разговор с лекаром ако особа:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Исто питање поставља изнова и изнова
+- Губи се на местима која је раније добро познавала
+- Има тешкоћа да прати рецепте или упутства
+- Постаје све збуњенија у вези са временом, људима и местима
+- Престаје да брине о себи, попут лошег јела, непраћења хигијене или небезбедног понашања
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Неки људи имају **благо когнитивно оштећење (MCI)**. То значи више проблема с памћењем или размишљањем него код других њихових година, али и даље успевају да се сналазе у свакодневном животу. NIA каже да MCI може бити рани знак Алцхајмерове болести, али не развија је свако ко има MCI.
 
-## What else can cause memory problems?
+## Шта још може изазвати проблеме с памћењем?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Многе ствари осим деменције могу утицати на памћење, а неке се побољшају лечењем. NIA наводи:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Проблеми са штитном жлездом, бубрезима или јетром**
+- **Нуспојаве лекова**
+- **Депресију и анксиозност**
+- **Мањак витамина B12** или недовољно здраве хране
+- **Проблеме са спавањем**
+- **Злоупотребу алкохола или дрога**
+- **Инфекције, крвне угрушке или тумори** у мозгу
+- **Повреду главе**, попут потреса мозга
+- **Јак стрес или тугу**, попут пензионисања или губитка супружника
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Проблеми са слухом и видом такође могу бити погрешно протумачени као збуњеност; видите наш [водич о слуху](/brain-health/hearing/). Зато је медицинска провера важна. Према [Алцхајмер асоцијацији](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), лекари често траже крвне налазе да провере проблеме са штитном жлездом, недостатке витамина и инфекцију. Добар [сан](/brain-health/sleep/) и лечење депресије такође вреди поменути.
 
-## Sudden confusion is an emergency
+## Нагла збуњеност је хитно стање
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Збуњеност која се јавља брзо, током сати или дана, захтева хитну медицинску помоћ.** Може бити делиријум. [Управа за ветеране САД описује делиријум](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) као хитно медицинско стање и саветује да се одмах позове здравствена служба особе или локални број за хитне случајеве. Знаци укључују:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Колебање у способности јасног мишљења
+- Тешкоће с пажњом
+- Неорганизовано размишљање
+- Необична поспаност, или необичан немир и узнемиреност
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Ово се може десити свакоме, укључујући особе које већ живе с деменцијом. Према [NHS](https://www.nhs.uk/symptoms/confusion/), уобичајени узроци су инфекције (инфекције мокраћних путева су честе код старијих особа и особа с деменцијом), мождани удар, низак шећер у крви код особа са дијабетесом, повреда главе и неки лекови. Док чекате помоћ, останите уз особу и смирите је кратким, једноставним речима. Не постављајте много питања и забележите лекове које узима.
 
-## How do I prepare for the doctor's appointment?
+## Како да се припремим за преглед код лекара?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Добар преглед почиње добрим белешкама. [Алцхајмер асоцијација](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) предлаже да понесете:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Списак промена** у памћењу, расположењу и понашању, с конкретним примерима и приближно када су почеле
+2. **Раније и садашње здравствене проблеме**, укључујући породичну историју проблема с памћењем
+3. **Све рецепте и лекове које се купују без рецепта**
+4. **Све витамине или додатке исхрани**
+5. **Своја питања**, попут тога који ће се тестови радити, колико трају и када ће стићи резултати
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Корисно је понети и члана породице или пријатеља који особу добро познаје. [NIA објашњава](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) да лекари могу питати и особу и члана породице о здрављу, лековима, свакодневним активностима и променама у понашању. Лекари такође могу:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Радити тестове памћења, решавања проблема, пажње, рачунања и језика
+- Наручити крвне и урински тестове и друге прегледе да траже друге узроке
+- Проверити депресију или друга стања менталног здравља
+- Наручити снимке мозга, попут CT или MRI
+- Упутити вас специјалисти, попут гериатра, неуролога, гериатријског психијатра или неуропсихолога
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA наводи да је процена когнитивних способности обавезан део годишњег превентивног прегледа Medicare, што може бити природан тренутак да се изнесу забринутости. Чак ни кратки тестови које користе лекари сами по себи нису довољни за дијагнозу деменције. Они су први корак ка свеобухватнијој процени, а дијагноза може захтевати више од једне посете. NIA саветује да се особе с проблемима с памћењем враћају лекару сваких 6 до 12 месеци.
 
-## Raising the subject kindly
+## Како нежно изнети тему
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Ако бринете о некој другој особи, изаберите миран, приватан тренутак. Говорите о конкретним стварима које сте приметили, као о бризи за њихово здравље, а не као о критици. Предлог опште провере може деловати мање застрашујуће. Укључите особу у одлуке и обраћајте јој се као одраслој особи. Наши [савети за комуникацију](/caregiving/communication-tips/) могу помоћи.
 
-## Talk with a doctor
+## Разговор с лекаром
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Ако примећујете промене у памћењу, размишљању, расположењу или свакодневним способностима које су нове и које се стално дешавају, закажите преглед код изабраног лекара опште праксе. За нагли губитак јасноће, позовите локални број за хитне случајеве или здравствену службу особе одмах. Рана провера значи да се узроци који се могу лечити могу пронаћи и, ако је у питању деменција, има више времена за планирање и проналажење подршке. Брините и о себи у овом периоду; видите наш [водич о самопомоћи неговатеља](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Ова страница је општа информација, а не медицински савет. Видите наше [медицинско упозорење](/medical-disclaimer/).

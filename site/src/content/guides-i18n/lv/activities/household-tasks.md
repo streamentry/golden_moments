@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Mājas darbi kā aktivitātes cilvēkiem ar demenci"
+seoTitle: "Mājas darbi demences gadījumā: ikdienas uzdevumi"
+description: "Veļas salocīšana, šķirošana, galda klāšana un vienkārša gatavošana var būt jēgpilnas aktivitātes cilvēkiem ar demenci. Kā tās sagatavot, pielāgot un padarīt drošas."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Ikdienas darbi, piemēram, dvieļu salocīšana, zeķu šķirošana, galda klāšana,
+  virsmu slaucīšana, augu laistīšana un vienkārša gatavošana, var dot cilvēkam ar
+  demenci reālu iespēju palīdzēt. Izvēlieties uzdevumus, kas viņam ir pazīstami,
+  sadaliet tos pa vienam solim, noņemiet asus vai karstus riskus un vērtējiet
+  dalību augstāk par „pareizu” izpildi.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Pazīstami darbi var palīdzēt cilvēkam justies noderīgam un daļai no mājsaimniecības, un tas bieži ir svarīgāk par to, cik labi darbs paveikts."
+  - "Sadaliet katru uzdevumu pa vienam solim, rādiet, nevis stāstiet, un klusi pārņemiet katru soli, kas kļuvis grūts."
+  - "Noslēdziet nažus, tīrīšanas līdzekļus un veļas mazgāšanas kapsulas, un pirms kopīgas gatavošanas uzlieciet plīts pogu pārsegus vai automātisko izslēgšanu."
+  - "Salocītus dvieļus nav jāsalokā no jauna cilvēka acu priekšā. Ja kaut kas jāpārtaisa, darot to vēlāk un ārpus redzesloka."
+  - "Ja darbs rada vilšanos, pārejiet uz vieglāku soli, mēģiniet citreiz vai vienkārši sēdiet kopā."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Ar kādiem mājas darbiem cilvēks ar demenci vēl var palīdzēt?"
+    a: "Daudzi cilvēki vēl var salocīt veļu, saskaņot zeķes, sašķirot galda piederumus, uzklāt galdu, noslaucīt virsmu, notīrīt putekļus, izslaucīt, laistīt augus vai samaisīt bļodu ar mīklu. Izvēlieties darbus, ko cilvēks darījis agrāk, un saskaņojiet tos ar to, ko viņš var šodien. Vēlākās stadijās var pietikt ar vienu atkārtotu kustību, piemēram, salvešu izlīdzināšanu."
+  - q: "Vai ir drošs, ka cilvēks ar demenci palīdz virtuvē?"
+    a: "Var būt, ar tuvu uzraudzību un pareizu iekārtojumu. Turiet nažus, tīrīšanas līdzekļus un visu karsto sasniedzamības ārpus, izmantojiet plīts pogu pārsegus vai automātisko izslēgšanu un dodiet cilvēkam drošu darbu, piemēram, dārzeņu mazgāšanu, maisīšanu vai šķīvju pasniegšanu. Nekad neatstājiet viņu vienu, ja plīts ir ieslēgta."
+  - q: "Ko darīt, ja viņš kaut ko saloka nepareizi vai sadara netīrumu?"
+    a: "Ļaujiet tam būt. Mērķis ir kopā pavadīts laiks un sajūta, ka esat noderīgs, nevis ideāls rezultāts. Ja kaut kas tiešām jāpārtaisa, uzgaidiet līdz vēlākam laikam un darbu veiciet, kad cilvēks neskatās, lai viņš nejustos labots."
+  - q: "Ko darīt, ja viņš atsakās palīdzēt?"
+    a: "Nē var nozīmēt, ka uzdevums šobrīd šķiet pārāk grūts, mulsinošs vai nogurdinošs. Nespiediet. Izmēģiniet vienkāršāku versiju, lūdziet viņu drīzāk pavadīt jūs vai pajautājiet vēlreiz labākā dienas laikā."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Daudzi cilvēki ar demenci desmitiem gadu vadīja mājsaimniecību, audzināja ģimeni vai uzturēja kārtību darbavietā. Ja viņus lūdz palīdzēt ar reāliem mājas darbiem, tas var pateikt „tu joprojām esi daļa no šīs mājsaimniecības” tādā veidā, ko maz kas cits spēj. Šajā lapā aplūkots, kuri darbi parasti labi sanāk, kā tos sagatavot, kā pielāgot, kad mainās spējas, un kā virtuvi un veļas telpu padarīt drošas.
 
-## Why do everyday chores work well as activities?
+## Kāpēc ikdienas darbi labi der kā aktivitātes?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Darbi der tāpēc, ka tie ir pazīstami un tiem ir skaidrs mērķis. Nacionālais novecošanas institūts min trauku mazgāšanu, galda klāšanu, slaucīšanu, putekļu slaucīšanu, pasta šķirošanu, veļas salocīšanu un atkritumu šķirošanu starp [ikdienas aktivitātēm, ko cilvēki ar Alcheimera slimību var baudīt](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association norāda, ka tādi darbi kā galda klāšana var palīdzēt cilvēkam [justies kā vērtīgam mājsaimniecības loceklim](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Darbam ir arī pats par sevi iemesls sākt. „Vai varētu man palīdzēt ar šiem dvieļiem?” ir vieglāk pateikt jā nekā „Vai vēlaties nodarboties ar aktivitāti?”
 
-## Which household tasks are good to try?
+## Kuri mājas darbi der izmēģināt?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Sāciet ar darbiem, ko cilvēks darīja agrāk, un tad saskaņojiet tos ar to, ko viņš var šodien.
 
-### Laundry and linens
+### Veļa un gultas veļa
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Dvieļu un lupatiņu salocīšana.** Pasniedziet grozu ar mazām, plakanām lietām. Dvieļi ir piedodoši: nav nepareiza veida, kā tos salocīt.
+- **Zeķu saskaņošana.** Novietojiet jauktu kaudzi uz galda. Ja pārus grūti atrast, izmantojiet tikai divas vai trīs ļoti atšķirīgas krāsas.
+- **Izlīdzināšana un sakraušana.** Salvetes, spilvendrānas vai virtuves dvieļus var izlīdzināt un sakraut. Tas labi der vēlāk, kad salocīšana kļūst par pārāk daudziem soļiem.
 
-### Table and kitchen
+### Galds un virtuve
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Galda klāšana.** Parādiet vienu vietu kā paraugu un ļaujiet cilvēkam to atdarināt. Ja tas ir par daudz, pasniedziet vienu lietu vienlaikus: „Šeit ir dakšiņa katram šķīvim.”
+- **Galda piederumu šķirošana.** Sajauciet tīras dakšiņas, karotes un sviesta nažus traukā un sašķirojiet tos sadalītā paplātē. Asos nažus atstājiet nost.
+- **Trauku nosusināšana.** Plastmasas vai nesalūstoši trauki un mīksts dvielis padara šo darbu drošu.
+- **Galda vai virsmu slaucīšana.** Mitra lupata un tīra virsma. Alzheimer's Association iesaka piedāvāt lupatiņu, ja cilvēks jau berzē galdu ar roku, tādējādi pārvēršot nemierīgu kustību noderīgā.
 
-### Around the house
+### Mājā
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Putekļu slaucīšana.** Mīksta suka un dažas izturīgas virsmas, piemēram, kafijas galdiņš vai grāmatplaukts.
+- **Pasta šķirošana.** Pasniedziet reklāmas un katalogus, lai sašķirotu kaudzēs: paturēt, pārstrādāt, atvērt vēlāk. Īstos rēķinus un čekus glabājiet citur.
+- **Atkritumu šķirošana.** Tīras skārdenes, pudeles un papīrs atsevišķos konteineros.
+- **Slaucīšana.** Maza slota uz terases vai virtuves grīdas, ja līdzsvars ir stabils.
+- **Augu laistīšana.** Maza, viegla laistāmkanna un daži augi viegli sasniedzamā vietā.
 
-### Simple cooking with supervision
+### Vienkārša gatavošana ar uzraudzību
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Gatavošana var atsaukt spēcīgas, patīkamas sajūtas. NIA iesaka ļaut cilvēkam savākt sastāvdaļas, nosvērt, samaisīt un ieliet vai vienkārši pastāstīt kādam citam, kā pagatavot iecienītu recepti. Labi darbi ir:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- dārzeņu vai augļu mazgāšana
+- mīklas vai aukstu salātu maisīšana
+- salātu lapu plūkšana
+- sviests uz maizītes ar neasu nazi
+- cepumu mīklas likšana uz paplātes
+- piedevu uzlikšana uz picas
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Ja mērīšana kļūst grūta, Alzheimer's Association iesaka jums pabeigt mērīšanu un pēc tam pasniegt citu soli, piemēram, maisīšanu.
 
-## How do I set up a chore so it goes well?
+## Kā sagatavot darbu, lai tas noritētu labi?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Izvēlieties īsto laiku.** Izvēlieties dienas daļu, kad cilvēks parasti ir atpūties un mierīgs. Daudziem tas ir no rīta.
+2. **Iztīriet vietu.** Viens darbs, viena virsma, nekas papildu uz galda.
+3. **Aicinājiet, nevis uzdodiet.** „Man noderētu palīdzība ar šiem” strādā labāk nekā „Ir laiks salocīt veļu.”
+4. **Parādiet pirmo.** Salokiet vienu dvieli lēni, tad pasniedziet nākamo. Parādīt ir skaidrāk nekā paskaidrot.
+5. **Dodiet vienu soli vienlaikus.** Pārāk daudz norādījumu uzreiz var pārslogot. Pagaidiet, līdz viens solis ir pabeigts, pirms nosaucat nākamo.
+6. **Strādājiet blakus.** Darba darīšana blakus viens otram šķiet kā kompānija, nevis uzraudzība.
+7. **Runājiet par darbu, nevis rezultātu.** „Šie ir tik mīksti” vai „Pastāsti, kā tu turēji veļas skapi kārtībā” aicina uz sarunu, nevienu nepārbaudot.
 
-## How do I adapt chores as abilities change?
+## Kā pielāgot darbus, kad mainās spējas?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Spējas mainās laika gaitā un pat no dienas uz dienu. Alzheimer's Association iesaka pāriet uz vienkāršākiem, atkārtojošiem uzdevumiem, kad slimība progresē.
 
-| If this has become hard | Try this instead |
+| Ja tas ir kļuvis grūti | Izmēģiniet šo |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Lielu palagu salocīšana | Lupatiņu salocīšana vai salvešu izlīdzināšana |
+| Pilna galda klāšana | Vienas salvetes novietošana katrā vietā |
+| Pasta šķirošana kategorijās | Aploksņu sakraušana vienā kaudzē |
+| Recepte pēc soļiem | Maisīšana vai vērošana un garšošana, kamēr jūs gatavojat |
+| Visas grīdas slaucīšana | Viena maza galdiņa noslaucīšana |
+| Darba darīšana vispār | Sēdēšana blakus jums un kompānijas turēšana, kamēr jūs to darāt |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Vērošana ir skaitāma. NIA norāda, ka daži cilvēki vienkārši labprāt vēro, un tas ir labs veids, kā piedalīties.
 
-## How do I keep household tasks safe?
+## Kā uzturēt mājas darbus drošus?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Drošība ir pirmajā vietā, īpaši virtuvē. NIA [mājas drošības padomi Alcheimera slimības aprūpētājiem](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ietver:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Noslēdziet vai noņemiet tīrīšanas līdzekļus, tostarp veļas mazgāšanas kapsulas, kas var izskatīties pēc konfektēm.
+- Glabājiet nažus, šķēres un elektroinstrumentus noslēgtā vietā.
+- Uzlieciet plītij drošības pogas un automātisko izslēgšanas slēdzi.
+- Novietojiet zīmes „Stop” vai „Ļoti karsts” pie cepeškrāsns, tostera un gludekļa tā, lai tās nevarētu aizdegties.
+- Iestatiet ūdens sildītāju uz 120°F, lai samazinātu applaucēšanās risku.
+- Noņemiet mākslīgos augļus un ēdienam līdzīgus magnētus, kas var izskatīties ēdami.
 
-A few more practical habits help:
+Vēl dažas praktiskas prakses palīdz:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Esiet istabā vienmēr, kad plīts, cepeškrāsns vai ass instruments ir lietošanā.
+- Lietojiet nesalūstošus traukus žāvēšanai un galda klāšanai.
+- Turiet grīdas sausas un tīras, slaucot vai mazgājot.
+- Ja cilvēks agrāk lietoja instrumentus, Alzheimer's Association iesaka no darbnīcas izņemt bīstamas lietas, lai drošu darbu, piemēram, koka gabala slīpēšanu, joprojām varētu baudīt.
 
-## What if they do it "wrong"?
+## Ko darīt, ja viņš to dara „nepareizi”?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Atlaidiet. Dvielis, salocīts trīs daļās, nevis divās, joprojām ir salocīts dvielis. Alzheimer's Association to saka skaidri: svarīgi ir pavadīt laiku kopā un ļaut cilvēkam justies noderīgam, nevis tas, vai dvieļi salocīti pareizi. Ja kaut kas tiešām jāpārtaisa, uzgaidiet un darbu veiciet ārpus redzesloka.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Labošana tieši brīdī var pārvērst patīkamu darbu atgādinājumā par to, ko viņš zaudējis. „Paldies, tas ir liels palīgs” gandrīz vienmēr ir pareizais teikums.
 
-## When should we stop?
+## Kad vajadzētu apstāties?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Apstājieties vai pārejiet uz citu, kad redzat vilšanās, noguruma vai intereses zuduma pazīmes. Agrs beigas ir labs rezultāts, nevis neveiksme. Jūs varat:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- pārslēgties uz vieglāku soli
+- pāriet uz kaut ko atpūtinošu, piemēram, mūziku vai tasi kafijas
+- mēģināt vēlāk vai citā dienā
+- vienkārši sēdēt kopā
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ja cilvēks saka nē, nespiediet. Skatiet [ko darīt, kad viņi saka nē](/caregiving/when-they-say-no/), lai uzzinātu maigus veidus, kā reaģēt.
 
-## Low-effort extras for a quieter moment
+## Viegli papildinājumi klusākam brīdim
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Kad fiziskie darbi nav iespējami, šķirošanu un saskaņošanu var darīt sēdus. [Kopā šķirot](/games/sort-together/) ļauj pieskarties attēliem un ielikt tos virtuves vai dārza grozos, bet [Attēlu pāri](/games/picture-pairs/) ir maiga atbilstības spēle ar lieliem attēliem un bez taimera. [Sarunu kartītes](/games/conversation-cards/) piedāvā atvērtus jautājumus par māju un ģimeni, kas labi sader ar kafiju pēc darba.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Lai palīdzētu iekļaut darbus dienā, skatiet mūsu rokasgrāmatu par [maigu ikdienas rutīnu](/activities/daily-routine/). Vairāk ideju pēc stadijām skatiet [aktivitātes vidējā stadijā](/activities/middle-stage/).

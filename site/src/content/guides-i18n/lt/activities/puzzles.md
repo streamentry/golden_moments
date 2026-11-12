@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Galvosūkiai žmonėms su demencija: dėlionės, žodžių galvosūkiai ir lengvi internetiniai galvosūkiai"
+seoTitle: "Galvosūkiai demencijai: dėlionės ir žodžių galvosūkiai"
+description: "Kaip parinkti dėlionę, žodžių ar internetinį galvosūkį žmogui su demencija: detalių dydis, paveikslėliai, didelis šriftas ir kada supaprastinti."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Geriausias galvosūkis žmogui su demencija yra toks, kurį jis gali baigti su
+  nedidele pagalba ir mėgautis pakeliui. Rinkitės dėlionę su mažiau, didesnėmis
+  detalėmis ir aiškiu suaugusiam tinkamu paveikslu, laikykite dėžės paveikslą
+  matomą ir pirmiausia surūšiuokite kraštines detales. Žodžių paieškos ir
+  kryžiažodžiai geriausiai tinka dideliu šriftu. Lengvi internetiniai galvosūkiai
+  su keturiomis dalimis tinka vidutinei stadijai. Sustokite, kol tai dar malonu.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Rinkitės pagal tai, kaip sekasi, o ne pagal stadijos etiketę: jei galvosūkis atrodo kaip darbas, pabandykite su mažiau detalių."
+  - "Didelės, tvirtos detalės ir aiškus paveikslas su išskirtinėmis spalvų sritimis yra lengvesni nei smulkios detalės ir dideli dangūs."
+  - "Suaugusių paveikslai svarbūs. Sodai, virtuvės, automobiliai ir gyvūnai, o ne animacija."
+  - "Kartu daryti yra esmė. Perduokite detales, surūšiuokite kraštus, laikykite dėžės dangtį matomą."
+  - "Nemokami mūsų svetainės galvosūkiai: didelio šrifto žodžių paieškos ir lengvi internetiniai galvosūkiai su 4 ar 9 dalimis."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Kiek dėlionės detalių geriausia žmogui su demencija?"
+    a: "Nėra vieno teisingo skaičiaus. Žmogus, kuris anksčiau dėliojo 1000 detalių dėlionę, vis dar gali mėgautis keliais šimtais detalių, o kitam geriausiai tinka keliolika didelių detalių. Jei galvosūkis atrodo kaip darbas ar sukelia nusivylimą, pereikite prie mažiau detalių. Mūsų internetinis paveikslėlių galvosūkis turi 4 ar 9 dalis."
+  - q: "Ar dėliones daryti tinka žmonėms su demencija?"
+    a: "Daugelis žmonių jomis mėgaujasi, ypač jei mėgo dėliones anksčiau. Dėlionė suteikia rankoms veiklos, aiškų tikslą ir paveikslą, apie kurį galima kalbėti. Nė viena dėlionė nebuvo parodyta gydanti ar sulėtinanti demenciją, todėl jas rinkitės dėl malonumo ir kompanijos."
+  - q: "Ką daryti, kai žmogus nebegali įveikti dėlionės?"
+    a: "Padarykite ją mažesnę ir daugiau darykite patys: perduokite po vieną detalę arba palikite tik paskutines kelias detales jam. Pabandykite 4 dalių internetinį galvosūkį, rūšiuokite detales pagal spalvą arba tiesiog kartu žiūrėkite į baigtą paveikslą."
+  - q: "Ar kryžiažodžiai ir žodžių paieškos tinka demencijai?"
+    a: "Gali tikti ankstyvoje stadijoje, dideliu šriftu. Žodžių paieška, kurioje žodžiai rašomi tik skersai ir stulpeliais, yra lengvesnė nei su įstrižais ar atgal rašomais žodžiais. Perskaitykite užuominas ar žodžių sąrašą garsiai ir dirbkite kartu."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Dėlionė, išklota ant valgomojo stalo, yra viena lengviausiai dalijamų veiklų. Galite sėdėti kartu nekalbėdami, paveikslėlis suteikia temą pokalbiui, o įdėti paskutinę detalę yra malonu. Tačiau galvosūkiai turi keistis kartu su demencija. Per sunkus galvosūkis ramų popietę gali paversti nusivylimu. Šiame puslapyje aprašoma, kaip parinkti ir paruošti dėlones, žodžių galvosūkius ir lengvus internetinius galvosūkius bei ką daryti, kai jie darosi sunkūs.
 
-## Are puzzles good for people with dementia?
+## Ar galvosūkiai tinka žmonėms su demencija?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Daugeliui jie patinka, ypač tiems, kurie dėliojo anksčiau. Alzheimerio fondas Amerikoje [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) tarp veiklų ankstyvajai stadijai mini žodžių paieškas, kortų ir stalo žaidimus, o [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mini internetinius žaidimus ir galvosūkius planšetėse kaip vieną iš būdų išlikti įsitraukusiam.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Galvosūkiai nėra gydymas. Nė vienas galvosūkis nebuvo parodytas sulėtinantis ar sustabdantis demenciją; mūsų vadove apie [smegenų žaidimus ir demenciją](/brain-health/brain-games/) paaiškinama, ką rodo tyrimai. Galvosūkį verta daryti dėl malonaus, įtraukiančio valandos laiko kartu. [Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/activities) tai apibendrina: svarbiausias yra malonumas, o ne pasiekimas.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Kaip parinkti dėlionę žmogui su demencija?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Rinkitės pagal tai, ką žmogus mėgsta ir kaip baigėsi paskutinė dėlionė, o ne pagal stadijos etiketę.
 
-### Number of pieces
+### Detalių skaičius
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Teisingo skaičiaus nėra. Visą gyvenimą dėliojęs žmogus gali dar mėgautis keliais šimtais detalių anksti, o kitas geriausiai jaučiasi su keliolika. Praktinė taisyklė: jei paskutinė dėlionė atrodė kaip darbas, rinkitės su maždaug pusė detalių. Jei ją greitai baigė ir norėjo daugiau, šiek tiek padidinkite.
 
-### Piece size and feel
+### Detalių dydis ir pojūtis
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Didesnės detalės** lengviau matyti, paimti ir pasukti.
+- **Storos, tvirtos detalės** išlieka vietoje ir atlaiko nukritimą.
+- **Matinis paviršius** sumažina blizgesį po lempomis ir langais.
+- **Venkite smulkių detalių**, jei žmogus gali jas įsidėti į burną, o tai gali nutikti vėlesnėje demencijos stadijoje.
 
-### The picture
+### Paveikslas
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Suaugusių temos.** Sodai, virtuvės, senieji automobiliai, fermos gyvūnai, jūrinis miestelis, mėgstamas sportas. Ne animacija ar kas nors, kas atrodo kaip vaikų žaislas.
+- **Aiškios spalvų sritys.** Raudonas kluonas, mėlyna valtis ir žalias laukas lengviau nei dangus, užimantis pusę dėlionės.
+- **Pažįstama ir asmeniška.** Vieta, kurioje žmogus gyveno, ar hobis, kurį jis mylėjo, suteikia daug temų pokalbiui. Kai kurios spaustuvės gali šeimos nuotrauką paversti dėlione.
 
-## How do you do a puzzle together?
+## Kaip dėlioti kartu?
 
-Set it up so the person can get straight to the enjoyable part.
+Paruoškite taip, kad žmogus galėtų iš karto pereiti prie malonios dalies.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Pasirinkite gerą vietą.** Gera šviesa, kėdė su atlošais ir stalas ar padėklas, kur dėlionė gali likti.
+2. **Atremkite dėžės dangtį**, kur matote abu.
+3. **Apverskite detales veidu aukštyn** prieš pradėdami.
+4. **Surūšiuokite kraštines** patys arba pirmiausia padarykite rėmelį, o vidurį palikite jam.
+5. **Sugrupuokite detales pagal spalvą** į kelis negilius padėklus ar lėkštes.
+6. **Perduokite po vieną detalę**, jei krūva priblokšta. „Manau, kad ši yra kluono dalis.“
+7. **Kalbėkite apie paveikslą**, o ne apie pažangą. „Tai panašu į tą valtį, kurią turėjo mano tėtis.“
+8. **Palikite dėlionę išdėliotą.** Grįžkite prie jos kelias dienas. Skubėti nereikia.
+9. **Baikite geru momentu**, kai įdėta detalė, kol dar malonu.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pataria padėti žmogui pradėti, stebėti nusivylimą ir leisti tiesiog stebėti, jei jam tai patinka. Stebėti, kaip įdedate detales, ir parodyti, kur galbūt tinka viena, vis tiek reiškia dalyvavimą.
 
-## Easy online puzzles
+## Lengvi internetiniai galvosūkiai
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Planšetės galvosūkis turi tikrų privalumų: nepradingsta detalės, dideli paveikslai užpildo ekraną ir nereikia valyti stalo.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Mūsų nemokamas [paveikslėlio galvosūkis](/games/picture-puzzle/) suskaido paveikslėlį į 4 ar 9 dalis. Bakstelėkite dvi dalis, kad jas sukeistumėte, kol paveikslėlis bus pilnas. Visas paveikslėlis lieka ekrane kaip vedlys, laikmačio nėra, ir galite sustoti bet kada. Keturios dalys tinka daugeliui žmonių vidutinėje stadijoje, kai šalia yra kas nors.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+Paprastesnei paveikslėlių veiklai išbandykite [Raskite tą patį](/games/find-the-same/), kur bakstelite paveikslėlį, atitinkantį viršuje esantį, arba [Rūšiuokite kartu](/games/sort-together/), kur paveikslėliai dedami į krepšelius, pavyzdžiui, virtuvės ar sodo.
 
-## Word puzzles: word searches and crosswords
+## Žodžių galvosūkiai: žodžių paieškos ir kryžiažodžiai
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Žodžių galvosūkiai tinka žmonėms, kurie visada juos mėgo, paprastai ankstyvesnėje demencijos stadijoje.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Žodžių paieška dideliu šriftu.** Mūsų nemokama [žodžių paieška](/games/word-search/) naudoja didelius raides ir tik kelis žodžius, rašomus skersai ir stulpeliais, niekada įstrižai ar atgal. Žaiskite ekrane arba atspausdinkite.
+- **Skaitykite sąrašą garsiai.** Vienas žmogus perskaito žodį, kitas jo ieško. Pakanka apibraukti tik pirmą raidę.
+- **Didelio šrifto kryžiažodžiai** iš galvosūkių knygų gali tikti anksti. Perskaitykite užuominas garsiai, dalykitės pieštuku ir pildykite atsakymus kartu. Lengvi, teminiai kryžiažodžiai geriau nei sudėtingi.
+- **Kalbėkite apie žodžius.** „Sodas“ gali paskatinti dešimt minučių pokalbio apie pomidorus.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+Daugiau popierinių veiklų ir kaip jas atspausdinti, kad jas būtų lengva matyti ir laikyti, žr. [nemokamas spausdinamas veiklas demencijai](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Kokie galvosūkiai tinka kiekvienai stadijai?
 
-Stages overlap, and good and hard days are normal.
+Stadijos persidengia, o geros ir sunkios dienos yra normalios.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadija | Galvosūkiai, kurie dažnai tinka | Jūsų vaidmuo |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Ankstyvoji | Pažįstamos dėlionės su mažiau detalių nei anksčiau, dideli kryžiažodžiai ir žodžių paieškos, 9 dalių internetiniai galvosūkiai | Partneris: leiskite pasirinkti, padėkite, kai prašoma |
+| Vidutinė | Dėlionės su keliolika didelių detalių, 4 dalių internetiniai galvosūkiai, žodžių paieška, perskaityta garsiai kartu | Paruoškite, surūšiuokite detales, perduokite po vieną |
+| Vėlyvoji | Kartu žiūrėti baigtą paveikslėlį, Raskite tą patį su dviem paveikslėliais, kelių didelių detalių laikymas | Atneškite jam; jūsų kompanija yra veikla |
 
-## When should you make a puzzle easier, or stop?
+## Kada supaprastinti galvosūkį ar sustoti?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Stebėkite atodūsius, detalių stūmimą nuo savęs, pakartotinį „negaliu“ ar nerimastingus žvilgsnius. Tai ženklai, kad reikia ką nors pakeisti, o ne spausti toliau.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Padarykite mažiau.** Mažiau detalių arba palikite tik paskutines kelias.
+- **Daugiau darykite patys** ir kvieskite prisidėti lengvoms dalims.
+- **Pereikite prie kažko šalia:** rūšiavimas pagal spalvą, 4 dalių internetinis galvosūkis ar [spalvinimas](/games/coloring/).
+- **Sustokite.** Padėkite į šalį ir išgerkite puodelį arbatos. Galite grįžti kitą dieną arba visai nebegrįžti.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Jei galvosūkiai pradeda priminti tai, kas sunku, gerai juos paleisti. Yra daug kitų būdų gerai praleisti laiką kartu; mūsų [101 veiklos idėja](/activities/ideas/) yra geras šaltinis.

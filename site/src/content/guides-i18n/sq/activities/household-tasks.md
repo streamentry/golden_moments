@@ -1,32 +1,32 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Punët e shtëpisë si aktivitete për personat me demencë"
+seoTitle: "Aktivitete shtëpie për demencën: punë të përditshme"
+description: "Palosja, ndarja, vendosja e tryezës dhe gatimi i thjeshtë mund të jenë aktivitete kuptimplote për personat me demencë. Si t'i përgatitni dhe t'i mbani të sigurta."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Punët e përditshme, si palosja e peshqirëve, ndarja e çorapeve, vendosja e
+  tryezës, fshirja e banakëve, ujitja e bimëve dhe ndihma në gatim të thjeshtë,
+  mund t'i japin personit me demencë një mënyrë reale për të ndihmuar. Zgjidhni
+  punë që i njeh, ndajini në një hap në një kohë, hiqni rreziqet e mprehta ose
+  të nxehta, dhe vlerësoni pjesëmarrjen më shumë sesa bërjen „si duhet“.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "Punët e njohura mund ta bëjnë personin të ndihet i dobishëm dhe pjesë e shtëpisë, gjë që shpesh ka më shumë rëndësi sesa cilësia e punës."
+  - "Ndajeni çdo punë në hapa të vetëm, tregoni në vend që të shpjegoni, dhe merrni butësisht përsipër çdo hap që është bërë i vështirë."
+  - "Mbyllni thiket, produktet e pastrimit dhe kapsulat e detergjentit, dhe vendosni mbrojtëse për pllakat ose fikje automatike përpara se të gatuani bashkë."
+  - "Peshqirët e palosur nuk duhet të ripalosen para personit. Nëse duhet ta bëni përsëri diçka, bëjeni më vonë dhe jashtë syve."
+  - "Nëse një punë sjell frustrim, kaloni te një hap më i lehtë, provoni përsëri një herë tjetër, ose thjesht uluni bashkë."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "Cilat punë shtëpie mund t'i bëjë ende personi me demencë?"
+    a: "Shumë njerëz mund ende të palosin rroba, të përputhin çorape, të ndajnë enët e tryezës, të vendosin tryezën, të fshijnë një banak, të pluhurosin, të lahen, të ujisin bimët ose të përzierin një enë me brumë. Zgjidhni punë që personi i bënte në të kaluarën dhe përputhini me atë që mund të bëjë tani. Në fazat e mëvonshme, një lëvizje e vetme e përsëritur, si lëmimi i pecetave, mund të mjaftojë."
+  - q: "A është e sigurt që personi me demencë të ndihmojë në kuzhinë?"
+    a: "Mund të jetë, me mbikqyrje të afërt dhe me përgatitjen e duhur. Mbajini thikat, produktet e pastrimit dhe çdo gjë të nxehtë larg dorës, përdorni mbrojtëse për pllakat ose fikje automatike, dhe jepini personit një punë të sigurt si larjen e perimeve, përzierjen ose vendosjen e pjatave. Mos e lini kurrë vetëm me sobën të ndezur."
+  - q: "Çfarë nëse i palosin gabim gjërat ose bëjnë ndotje?"
+    a: "Lëreni. Qëllimi është koha bashkë dhe ndjenja se është i dobishëm, jo një rezultat i përsosur. Nëse diçka me të vërtetë duhet bërë sërish, prisni deri më vonë dhe bëjeni kur personi nuk po shikon, që të mos ndihet i korrigjuar."
+  - q: "Çfarë nëse refuzojnë të ndihmojnë?"
+    a: "Një „jo“ mund të thotë se detyra duket shumë e vështirë, e ngatërruar ose e lodhshme për momentin. Mos shtyni. Provoni një version më të thjeshtë, ftojeni të jua bëjë shoqëri në vend të kësaj, ose pyesni përsëri në një orë më të mirë të ditës."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +45,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+Shumë njerëz që jetojnë me demencë kanë kaluar dekada duke drejtuar një shtëpi, duke rritur një familje ose duke mbajtur rregull në një vend pune. Të kërkohet ndihmë me punë reale mund të thotë „ti je ende pjesë e kësaj shtëpie“ në një mënyrë që pak aktivitete e arrijnë. Kjo faqe mbulon cilat punë zakonisht funksionojnë, si t'i përgatitni, si t'i përshtatni ndërsa gjërat ndryshojnë, dhe si t'i mbani kuzhinën dhe dhomën e larjes të sigurta.
 
-## Why do everyday chores work well as activities?
+## Pse punët e përditshme funksionojnë mirë si aktivitete?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+Punët funksionojnë sepse janë të njohura dhe kanë një qëllim të qartë. National Institute on Aging i rendit larjen e enëve, vendosjen e tryezës, fshirjen, pluhurosjen, ndarjen e postës, palosjen e rrobave dhe ndarjen e riciklimit ndër [aktivitetet e përditshme që personat me Alzheimer mund t'i gëzojnë](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Alzheimer's Association thekson se punë si vendosja e tryezës mund ta ndihmojnë personin të [ndihet një pjesë e vlerësuar e shtëpisë](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+Një punë ka edhe arsyen e vet për të filluar. „A mund të më ndihmosh me këto peshqirë?“ është më e lehtë për t'u pranuar sesa „A do të dëshironit të bënit një aktivitet?“
 
-## Which household tasks are good to try?
+## Cilat punë shtëpie janë të mira për t'u provuar?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Filloni me punë që personi i bënte në të kaluarën, pastaj përputhini me atë që mund të bëjë sot.
 
-### Laundry and linens
+### Rroba dhe lenjë
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Palosja e peshqirëve dhe e pecetave të larjes.** Jepini një shportë me copa të vogla e të sheshta. Peshqirët janë të falshëm: nuk ka mënyrë të gabuar për ta palosur.
+- **Përputhja e çorapeve.** Vendosni një pirg të përzier në tryezë. Nëse çiftet bëhen të vështira për t'u gjetur, përdorni vetëm dy ose tre ngjyra shumë të ndryshme.
+- **Lëmimi dhe grumbullimi.** Pecetat, shtresat e jastëkëve ose peshqirët e enëve mund të lëmohen dhe të grumbullohen. Kjo punon mirë më vonë, kur palosja është bërë shumë hapa.
 
-### Table and kitchen
+### Tryeza dhe kuzhina
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Vendosja e tryezës.** Vendosni një set si model dhe lëreni personin ta kopjojë. Nëse kjo është shumë, jepini një send në një herë: „Ja një pirun për secilën pjatë.“
+- **Ndarja e enëve të tryezës.** Përzieni pirunët, lugët dhe thikat e vogla të pastra në një enë dhe ndajini në një tabaka të ndarë. Lini thikat e mprehta jashtë.
+- **Thatja e enëve.** Enët plastike ose të pathyeshme dhe një peshqir i butë e bëjnë këtë punë të sigurt.
+- **Fshirja e tryezës ose banakëve.** Një leckë e lagur dhe një sipërfaqe e pastër. Alzheimer's Association sugjeron t'i jepet një leckë nëse dikush po e fërkon tryezën me dorë, duke e kthyer lëvizjen e shqetësuar në një lëvizje të dobishme.
 
-### Around the house
+### Rreth shtëpisë
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Pluhurosja.** Një pluhurosëse e butë dhe disa sipërfaqe të qëndrueshme, si një tryezë kafeje ose një raft librash.
+- **Ndarja e postës.** Jepini letrat e padëshiruara dhe katalogët për t'i ndarë në pirgje: për të mbajtur, për riciklim, për t'i hapur më vonë. Faturat dhe çeqet reale mbajini diku tjetër.
+- **Ndarja e riciklimit.** Kanaçet, shishet dhe letra të pastra në kosha të veçantë.
+- **Lëvizja e fshesës.** Një fshesë e vogël në verandë ose në dyshemenë e kuzhinës, nëse ekuilibri është i qëndrueshëm.
+- **Ujitja e bimëve.** Një kanaçe e vogël uji dhe disa bimë në një distancë të lehtë.
 
-### Simple cooking with supervision
+### Gatim i thjeshtë me mbikqyrje
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Gatimi mund të sjellë ndjenja të forta dhe të këndshme. NIA sugjeron t'i lejohet personit të mbledhë përbërësit, të matë, të përzierë dhe të derdhë, ose thjesht t'i thotë dikujt tjetër si bëhet një recetë e preferuar. Punë të mira janë:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- larja e perimeve ose frutave
+- përzierja e brumit ose e një sallate të ftohtë
+- grisja e marules
+- lyerja me gjalpë e bukës së thekur me një thikë jo të mprehtë
+- vendosja e brumit të biskotave në tabaka
+- vendosja e shtesave mbi një picë
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Nëse matja bëhet e vështirë, Alzheimer's Association sugjeron të përfundoni ju matjen dhe pastaj t'i jepni një hap tjetër, si përzierjen.
 
-## How do I set up a chore so it goes well?
+## Si e organizoj një punë që të shkojë mirë?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Zgjidhni kohën e duhur.** Zgjidhni një pjesë të ditës kur personi zakonisht është i pushuar dhe i qetë. Për shumë njerëz kjo është mëngjesi.
+2. **Pastroni hapësirën.** Një punë, një sipërfaqe, asgjë tjetër në tryezë.
+3. **Ftoni, mos caktoni.** „Më duhet pak ndihmë me këto“ funksionon më mirë sesa „Është koha të palosim rrobat.“
+4. **Tregoni të parin.** Palosni një peshqir ngadalë, pastaj jepni tjetrin. Treguari është më i qartë sesa shpjegimi.
+5. **Jepni një hap në një kohë.** Shumë udhëzime njëherësh mund të mbingarkojnë. Prisni që një hap të përfundojë përpara se të emërtoni tjetrin.
+6. **Punoni krah për krah.** Bërja e së njëjtës punë pranë njëri-tjetrit ndihet si shoqëri, jo si mbikqyrje.
+7. **Flisni për punën, jo për rezultatin.** „Këto janë shumë të buta“ ose „Më trego si e doje rreshtin e dollapit të rrobave“ fton për bisedë pa testuar askënd.
 
-## How do I adapt chores as abilities change?
+## Si i përshtatni punët kur aftësitë ndryshojnë?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Aftësitë ndryshojnë me kohën dhe madje nga dita në ditë. Alzheimer's Association sugjeron lëvizjen drejt punëve më të thjeshta dhe më të përsëritura ndërsa sëmundja përparon.
 
-| If this has become hard | Try this instead |
+| Nëse kjo është bërë e vështirë | Provoni këtë në vend të saj |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Palosja e çarçafëve të mëdhenj | Palosja e peshqirëve të vegjël ose lëmimi i pecetave |
+| Vendosja e një tryeze të plotë | Vendosja e një peceteje për çdo ulëse |
+| Ndarja e postës sipas kategorive | Grumbullimi i zarfeve në një pirg |
+| Ndjekja e një recete | Përzierja, ose shikimi dhe shijimi ndërsa gatuani ju |
+| Fshirja e një dyshemeje të tërë | Fshirja e një tryeze të vogël |
+| Të bërit e punës fare | Të ulur me ju dhe duke ju bërë shoqëri ndërsa e bëni |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+Shikimi ka rëndësi. NIA thekson se disa njerëz thjesht gëzohen duke parë, dhe kjo është një mënyrë e mirë për të marrë pjesë.
 
-## How do I keep household tasks safe?
+## Si i mbaj punët e shtëpisë të sigurta?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+Siguria vjen para së gjithash, sidomos në kuzhinë. Udhëzimet e NIA për [sigurinë në shtëpi për kujdestarët e Alzheimer-it](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) përfshijnë:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Mbyllni ose hiqni produktet e pastrimit, përfshirë kapsulat e detergjentit të rrobave, që mund të duken si ëmbëlsira.
+- Ruani thikat, gërshërët dhe veglat elektrike në një zonë të mbyllur.
+- Vendosni mbrojtëse për sigurinë dhe një çelës automatik të fikjes në sobë.
+- Vendosni tabela „Stop“ ose „Shumë e nxehtë“ pranë furrës, tostierës dhe hekurit, të vendosura ashtu që të mos kapin flakë.
+- Vendoseni ngrohësin e ujit në 120°F për të ulur rrezikun e djegies me ujë të nxehtë.
+- Hiqni frutat artificiale dhe magnetët në formë ushqimi, që mund të duken të ngrënshëm.
 
-A few more practical habits help:
+Disa zakone praktike të tjera ndihmojnë:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Qëndroni në dhomë sa herë që sobë, furra ose një vegël e mprehtë është në përdorim.
+- Përdorni enë të pathyeshme për t'i tharë dhe për të vendosur tryezën.
+- Mbajeni dyshemenë të thatë dhe të lirë gjatë fshesës ose larjes me mop.
+- Nëse personi ka përdorur vegla në të kaluarën, Alzheimer's Association sugjeron heqjen e artikujve të rrezikshëm nga punishtja, që një punë e sigurt, si lëmimi i një copë druri, të mund të gëzohet akoma.
 
-## What if they do it "wrong"?
+## Çfarë nëse e bëjnë „gabim“?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Lëreni. Një peshqir i palosur në tri pjesë në vend të dyje është akoma një peshqir i palosur. Alzheimer's Association e thotë qartë: ajo që ka rëndësi është të kaloni kohë bashkë dhe që personi të ndihet i dobishëm, jo nëse peshqirët janë palosur siç duhet. Nëse diçka me të vërtetë duhet bërë sërish, prisni deri më vonë dhe bëjeni jashtë syve.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Korrigjimi në çastin e duhur mund ta kthejë një punë të këndshme në një kujtesë të asaj që është humbur. „Faleminderit, kjo më ndihmoi shumë“ është pothuajse gjithmonë gjëja e duhur për të thënë.
 
-## When should we stop?
+## Kur duhet të ndalojmë?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Ndaloni ose ndryshoni punën kur shihni shenja frustrimi, lodhjeje ose humbjeje interesi. Ndalimi i hershëm është rezultat i mirë, jo dështim. Mund të:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- kaloni te një hap më i lehtë
+- kaloni te diçka qetësuese, si muzika ose një filxhan kafe
+- provoni përsëri më vonë ose një ditë tjetër
+- thjesht uluni bashkë
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Nëse personi thotë jo, mos shtyni. Shihni [çfarë të bëni kur thonë jo](/caregiving/when-they-say-no/) për mënyra të buta për t'iu përgjigjur.
 
-## Low-effort extras for a quieter moment
+## Punë të lehta shtesë për një moment të qetë
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Kur punët fizike nuk janë të mundshme, grupimi dhe përputhja mund të bëhen ende ulur. [Sort Together](/games/sort-together/) ju lejon t'i prekni figurat në shporta kuzhine ose kopshti, dhe [Picture Pairs](/games/picture-pairs/) është një lojë e butë përputhjeje me figura të mëdha dhe pa kohëmatës. [Conversation Cards](/games/conversation-cards/) ka pyetje të hapura për shtëpinë dhe familjen që shkojnë mirë me një kafe pasi të mbaroni punën.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Për ndihmë për të futur punët në ditë, shihni udhëzuesin tonë për një [rutinë ditore të qetë](/activities/daily-routine/). Për më shumë ide sipas fazës, shihni [aktivitetet për fazën e mesme](/activities/middle-stage/).

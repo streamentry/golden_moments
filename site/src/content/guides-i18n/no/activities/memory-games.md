@@ -1,34 +1,30 @@
 ---
-title: "Memory Games for Seniors with Dementia: Gentle Versions That Don't Test"
-seoTitle: "Memory Games for Seniors with Dementia"
-description: "Matching, picture and card games for seniors with dementia, and how to play them so nobody feels tested: pictures face up, fewer pairs, no score, play as a team."
+title: "Hukommelsesspill for eldre med demens: milde versjoner som ikke tester"
+seoTitle: "Beste hukommelsesspill ved demens: milde ideer"
+description: "Par-, bilde- og kortspill for eldre med demens, og hvordan du spiller dem slik at ingen føler seg testet: bilder synlige, færre brikker, ingen poeng, spill i lag."
 section: activities
 order: 18
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory games for seniors with dementia work best when they do not depend on
-  memory. Play matching games with the pictures face up, use four to six tiles,
-  play as a team and skip the score. Recognizing a picture is easier than
-  recalling one, so choose games where everything stays in view. Enjoyment,
-  not a result, is the goal.
+  Hukommelsesspill for eldre med demens fungerer best når de ikke avhenger av hukommelse. Spill parspill med bildene synlige, bruk fire til seks brikker, spill i lag og hopp over poengene. Det er lettere å kjenne igjen et bilde enn å huske et, så velg spill der alt holdes synlig. Glede, ikke et resultat, er målet.
 keyPoints:
-  - "Classic memory games hide the cards, which tests exactly what dementia makes hard. Leave pictures face up instead."
-  - "Fewer pieces, bigger pictures and one choice at a time keep the game pleasant."
-  - "Play as a team, take turns helping and drop the score. Nobody should be put on the spot."
-  - "No memory game has been shown to treat, slow or stop dementia. Play because it is pleasant time together."
-  - "Stop while it is still fun. Talking about the pictures is a good outcome."
+  - "Klassiske hukommelsesspill skjuler kortene, og det tester nettopp det demens gjør vanskelig. La bildene ligge synlige i stedet."
+  - "Færre brikker, større bilder og ett valg om gangen holder spillet hyggelig."
+  - "Spill i lag, ta turer med å hjelpe, og slipp poengene. Ingen skal settes på prøve."
+  - "Ingen hukommelsesspill har vist seg å kunne behandle, bremse eller stoppe demens. Spill fordi det er hyggelig å være sammen."
+  - "Stopp mens det fortsatt er gøy. Å snakke om bildene er et godt utfall."
 faq:
-  - q: "What is a good memory game for someone with dementia?"
-    a: "A matching game with large, familiar pictures that can stay face up, such as Picture pairs set to four or six tiles. Finding the twin of a picture you can see is satisfying without testing short-term memory. Find the same is even simpler, with one picture to match from two to four choices."
-  - q: "Do memory games help dementia?"
-    a: "No memory game has been shown to treat, slow or stop dementia; a Cochrane review found the evidence on computer brain training too limited to say whether it prevents dementia. Games can still be a warm way to spend time together. Choose them for enjoyment and company."
-  - q: "Should I play classic Concentration with someone who has dementia?"
-    a: "Early on, some people still enjoy it, especially with a small number of cards. If remembering where cards are starts to cause frustration, turn the cards face up and simply find the pairs together. That keeps the matching and drops the memory test."
-  - q: "What memory games are good for seniors in a group?"
-    a: "Picture bingo with an on-screen caller, finishing familiar sayings aloud, and conversation cards all work for groups. Play until every card is full and avoid calling out who got an answer, so no one feels singled out."
-  - q: "Are there free memory games for seniors online?"
-    a: "Yes. The games on this site, including Picture pairs, Find the same, Photo pairs and Picture puzzle, are free, need no sign-up and work on phones, tablets and computers. None has a timer or score."
+  - q: "Hva er et godt hukommelsesspill for en person med demens?"
+    a: "Et parspill med store, kjente bilder som kan ligge synlige, for eksempel Bildepar satt til fire eller seks brikker. Å finne tvillingen til et bilde du kan se, er tilfredsstillende uten å teste korttidshukommelsen. Finn det samme er enda enklere, med ett bilde å matche blant to til fire valg."
+  - q: "Hjelper hukommelsesspill mot demens?"
+    a: "Nei. Ingen hukommelsesspill har vist seg å kunne behandle, bremse eller stoppe demens; en Cochrane-oversikt fant at dokumentasjonen for datamaskinbasert hjernetrening var for begrenset til å si om det forebygger demens. Spill kan likevel være en varm måte å tilbringe tid sammen på. Velg dem for glede og selskap."
+  - q: "Bør jeg spille klassisk Memory med noen som har demens?"
+    a: "Tidlig kan noen fortsatt like det, særlig med et lite antall kort. Hvis det begynner å skape frustrasjon å huske hvor kortene er, snu kortene opp og finn parene sammen. Da beholder dere matchingen og fjerner minnetesten."
+  - q: "Hvilke hukommelsesspill passer for eldre i en gruppe?"
+    a: "Bildebingo med en opplesing på skjermen, å fullføre kjente ordtak høyt, og samtalekort fungerer alle i grupper. Spill til alle kortene er fulle, og unngå å rope ut hvem som fikk et svar, slik at ingen føler seg utpekt."
+  - q: "Finnes det gratis hukommelsesspill for eldre på nettet?"
+    a: "Ja. Spillene på dette nettstedet, inkludert Bildepar, Finn det samme, Fotopar og Bildepuslespill, er gratis, krever ingen registrering og fungerer på telefon, nettbrett og datamaskin. Ingen har tidtaker eller poeng."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,77 +46,77 @@ related: [caregiving/how-to-play-together, brain-health/brain-games, activities/
 health: false
 ---
 
-Search for "memory games for seniors" and most of what you find was made for people who want a mental workout: hidden cards, countdown clocks, levels and scores. For someone living with dementia, those features turn a game into a test of the very thing that has become hard. The same games can be played a gentler way. This page shows how, and lists games that work well at each stage.
+Søker du på «hukommelsesspill for eldre», finner du mest av det som er laget for folk som vil ha en mental øvelse: skjulte kort, nedtellingsklokker, nivåer og poeng. For en person med demens gjør disse funksjonene spillet til en test av nettopp det som har blitt vanskelig. De samme spillene kan spilles på en mildere måte. Denne siden viser hvordan, og lister spill som fungerer godt på hvert stadium.
 
-## Why do classic memory games frustrate people with dementia?
+## Hvorfor frustrerer klassiske hukommelsesspill personer med demens?
 
-Because they depend on holding new information in mind, which is usually the first thing Alzheimer's, the most common cause of dementia, affects. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says the most common early symptom of Alzheimer's is difficulty remembering newly learned information. In classic Concentration, you flip two cards, remember where they were, and use that a minute later. That is new information, held and recalled.
+Fordi de avhenger av å holde ny informasjon i minnet, og det er ofte det første Alzheimers sykdom, den vanligste årsaken til demens, rammer. [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) sier at det vanligste tidlige symptomet på Alzheimers er vansker med å huske nylig lært informasjon. I klassisk Memory snur du to kort, husker hvor de lå, og bruker det et minutt senere. Det er ny informasjon som holdes og hentes fram.
 
-Add a timer, a score or a buzzer for wrong answers, and the person is reminded of what they cannot do, in front of someone they love. Many people quietly stop wanting to play.
+Legg til en tidtaker, en poengsum eller en summer for feil svar, og personen blir minnet om det hen ikke kan, foran noen hen er glad i. Mange slutter stille å ville spille.
 
-Recognizing something you can see is a different and usually easier task. Pointing to the second teacup when both are in view feels good. So the trick is to keep the matching and drop the memory test.
+Å kjenne igjen noe du kan se, er en annen og vanligvis lettere oppgave. Å peke på den andre tekoppen når begge er synlige, føles godt. Trikset er derfor å beholde matchingen og fjerne minnetesten.
 
-## How do you make a memory game gentle?
+## Hvordan gjør du et hukommelsesspill mildt?
 
-These adjustments work for card games, board games and games on a screen.
+Disse justeringene fungerer for kortspill, brettspill og spill på skjerm.
 
-1. **Leave the pictures face up.** Matching pictures you can see is still a real game, and often a satisfying one.
-2. **Use fewer pieces.** Start with two or three pairs. Add more only if it feels too easy and they want more.
-3. **Choose big, familiar, adult pictures.** A teacup, a sunflower, a sailboat. Not cartoons, and not busy scenes.
-4. **Play as a team.** "Let's find the dogs" instead of "your turn." Take turns pointing and helping.
-5. **Drop the score.** Nobody needs to win. If someone asks, a simple "we did it" is enough.
-6. **Never race the clock.** No timers, and no rushing between turns.
-7. **Talk about the pictures.** "Look at that boat. Did you ever go sailing?" The conversation is often the best part.
-8. **Stop on a good note.** End after a match, while it still feels pleasant.
+1. **La bildene ligge synlige.** Å matche bilder du kan se, er fortsatt et ekte spill, og ofte et tilfredsstillende ett.
+2. **Bruk færre brikker.** Start med to eller tre par. Legg til flere bare hvis det føles for lett og hen vil ha mer.
+3. **Velg store, kjente bilder for voksne.** En tekopp, en solsikke, en seilbåt. Ikke tegneserier, og ikke travle scener.
+4. **Spill i lag.** «La oss finne hundene» i stedet for «din tur». Ta turer med å peke og hjelpe.
+5. **Slipp poengene.** Ingen trenger å vinne. Hvis noen spør, er et enkelt «vi klarte det» nok.
+6. **Kappløp aldri mot klokka.** Ingen tidtakere, og ingen hastverk mellom turene.
+7. **Snakk om bildene.** «Se på den båten. Har du noen gang seilt?» Samtalen er ofte den beste delen.
+8. **Stopp på et godt punkt.** Avslutt etter en match, mens det fortsatt føles godt.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gives the same spirit as general advice: match the activity to what the person can do, watch for frustration, and make sure they feel successful.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) gir samme ånd som generelt råd: tilpass aktiviteten til det personen klarer, følg med på frustrasjon, og sørg for at hen føler seg vellykket.
 
-## Gentle memory and matching games to try
+## Milde hukommelses- og matchingsspill å prøve
 
-### Picture pairs (matching with pictures showing)
+### Bildepar (matching med synlige bilder)
 
-[Picture pairs](/games/picture-pairs/) is a matching game with large pictures and 4 to 12 tiles. The pictures can stay visible, so it is about finding twins, not remembering where they were. Start with four tiles. For someone in the early stage who enjoys a bit more challenge, you can switch to **Hidden pictures**, but go back to showing pictures the moment it stops being fun.
+[Bildepar](/games/picture-pairs/) er et matchingspill med store bilder og 4 til 12 brikker. Bildene kan være synlige, så det handler om å finne tvillinger, ikke om å huske hvor de lå. Start med fire brikker. For noen på tidlig stadium som liker litt mer utfordring, kan du bytte til **Skjulte bilder**, men gå tilbake til synlige bilder så snart det slutter å være gøy.
 
-### Find the same
+### Finn det samme
 
-[Find the same](/games/find-the-same/) shows one picture at the top and two to four choices below. Tap the one that matches. It is the simplest matching game on the site and suits people who find a full grid too busy, including many in the later stages with someone beside them.
+[Finn det samme](/games/find-the-same/) viser ett bilde øverst og to til fire valg under. Trykk på det som passer. Det er det enkleste matchingspillet på siden, og det passer for personer som synes et fullt rutenett er for travelt, inkludert mange på senere stadier med noen ved siden av seg.
 
-### Photo pairs (family photo memory game)
+### Fotopar (familiebilde-hukommelsesspill)
 
-[Photo pairs](/games/photo-pairs/) turns photos you choose into a matching game: the dog, the garden, the lake house. Familiar faces and places often spark conversation more than any stock picture. The photos stay in your browser and are never uploaded.
+[Fotopar](/games/photo-pairs/) gjør bilder du velger om til et matchingspill: hunden, hagen, hytta ved innsjøen. Kjente ansikter og steder skaper ofte mer samtale enn noe standardbilde. Bildene blir i nettleseren din og lastes aldri opp.
 
-### Sort together
+### Sorter sammen
 
-[Sort together](/games/sort-together/) asks you to put each picture in the basket where it belongs, such as the kitchen or the garden. Sorting draws on long-held knowledge of how the world works, not on short-term memory.
+[Sorter sammen](/games/sort-together/) ber deg legge hvert bilde i kurven det hører hjemme i, for eksempel kjøkkenet eller hagen. Sortering trekker på lang erfaring med hvordan verden henger sammen, ikke på korttidshukommelsen.
 
-### Picture puzzle
+### Bildepuslespill
 
-[Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide.
+[Bildepuslespill](/games/picture-puzzle/) deler et bilde i 4 eller 9 biter. Trykk på to biter for å bytte dem til bildet er helt. Det komplette bildet forblir på skjermen som veiledning.
 
-### Real cards on the table
+### Ekte kort på bordet
 
-You do not need a screen. Pull matching pairs from two decks of cards or from a picture card set. Lay them face up in two rows and find the pairs together. Later, sort by color or suit instead. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists card games and board games among activities for the early stage.
+Du trenger ikke skjerm. Dra fram matchende par fra to kortstokker eller et sett med bildekort. Legg dem synlige i to rader, og finn parene sammen. Senere kan du sortere etter farge eller kortfarge i stedet. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lister kort- og brettspill blant aktiviteter for tidlig stadium.
 
-## Which memory games suit each stage?
+## Hvilke hukommelsesspill passer på hvert stadium?
 
-Stages are loose labels. Go by what the person enjoys today.
+Stadiene er løse merkelapper. Gå etter det personen liker i dag.
 
-| Stage | Games that often fit | How to set them up |
+| Stadium | Spill som ofte passer | Slik setter du dem opp |
 | --- | --- | --- |
-| Early | Picture pairs, Photo pairs, Picture puzzle with 9 pieces, familiar card games | Let them choose. Tiles can turn over if they enjoy it; drop the score if it bothers them |
-| Middle | Picture pairs with 4 to 6 tiles face up, Find the same, Sort together | Pictures always visible. Sit beside them and take turns helping |
-| Late | Find the same with 2 choices, looking at one large picture together | Very short. You hold the tablet; they point, or just watch and listen |
+| Tidlig | Bildepar, Fotopar, Bildepuslespill med 9 brikker, kjente kortspill | La personen velge. Brikker kan snus hvis hen liker det; slipp poengene hvis det plager |
+| Middels | Bildepar med 4 til 6 brikker synlige, Finn det samme, Sorter sammen | Bildene alltid synlige. Sitt ved siden av og ta turer med å hjelpe |
+| Sent | Finn det samme med 2 valg, se på ett stort bilde sammen | Svært kort. Du holder nettbrettet; hen peker, eller bare ser på og lytter |
 
-## Do memory games help with dementia?
+## Hjelper hukommelsesspill mot demens?
 
-No memory game has been shown to treat, slow or stop dementia. A [Cochrane review](https://pubmed.ncbi.nlm.nih.gov/30864747/) of computerized cognitive training for people with mild cognitive impairment found the evidence too limited to say whether it prevents dementia. Our guide to [brain games and dementia](/brain-health/brain-games/) explains what studies do and do not show.
+Ingen hukommelsesspill har vist seg å kunne behandle, bremse eller stoppe demens. En [Cochrane-oversikt](https://pubmed.ncbi.nlm.nih.gov/30864747/) om datamaskinbasert kognitiv trening for personer med lett kognitiv svikt fant at dokumentasjonen var for begrenset til å si om det forebygger demens. Vår veiledning om [hjernespill og demens](/brain-health/brain-games/) forklarer hva studiene viser og ikke viser.
 
-That is not a reason to skip games. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) advises focusing on enjoyment, not achievement. Ten minutes of matching pictures and talking about them can be a genuinely good part of the day.
+Det er ingen grunn til å hoppe over spill. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) anbefaler å fokusere på glede, ikke prestasjon. Ti minutter med å matche bilder og snakke om dem kan være en virkelig god del av dagen.
 
-## What about memory games for seniors without dementia?
+## Hva med hukommelsesspill for eldre uten demens?
 
-If an older adult without memory problems enjoys timed puzzles, scores and harder levels, there is nothing wrong with that. Just do not count on it to protect against dementia; no game has been shown to. The gentle versions above also work well when generations play together: a grandparent with dementia and a young grandchild can match pictures as a team, with neither one being tested.
+Hvis en eldre voksen uten hukommelsesproblemer liker tidsbegrensede gåter, poeng og vanskeligere nivåer, er det ingenting galt i det. Bare regn ikke med at det beskytter mot demens; ingen spill har vist det. De milde versjonene over fungerer også godt når generasjoner spiller sammen: en besteforelder med demens og et lite barnebarn kan matche bilder som et lag, uten at noen blir testet.
 
-## When should you stop or change the game?
+## Når bør du stoppe eller bytte spill?
 
-Sighing, pushing the tablet away, saying "I can't do this" or looking anxious are all signs to make it easier or stop. Try fewer tiles, turn the pictures face up, switch to [Find the same](/games/find-the-same/), or just look at the pictures and chat. If they do not want to play at all, that is fine too. Our guide to [how to play together](/caregiving/how-to-play-together/) has more on pacing and helping.
+Sukk, å skyve nettbrettet bort, å si «jeg klarer ikke dette» eller å se engstelig ut er alle tegn på at du bør gjøre det enklere eller stoppe. Prøv færre brikker, snu bildene opp, bytt til [Finn det samme](/games/find-the-same/), eller bare se på bildene og prat. Hvis personen ikke vil spille i det hele tatt, er det også helt greit. Vår veiledning om [hvordan spille sammen](/caregiving/how-to-play-together/) har mer om tempo og hjelp.

@@ -1,31 +1,32 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Gjumi dhe shëndeti i trurit: çfarë sugjeron hulumtimi dhe çfarë ndihmon"
+seoTitle: "Gjumi dhe demenca: çfarë sugjeron hulumtimi"
+description: "Çfarë sugjeron hulumtimi për gjumin dhe rrezikun e demencës, pse hulumtimi për pastrimin e trurit është ende në fillim, dhe zakone praktike gjumi për të moshuarit dhe kujdestarët."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Disa studime afatgjata lidhin gjumin e shkurtër në moshën e mesme me rrezik më të lartë të demencës,
+  dhe hulumtimi në laborator sugjeron se gjumi mund të ndihmojë trurin të pastrojë mbetjet. Kjo evidencë
+  është ende në fillim, dhe Komisioni Lancet 2024 nuk e listoi gjumin si faktor rreziku që mund të
+  ndryshohet. Zakonet e rregullta të gjumit ndihmojnë mënyrën se si ndiheni çdo ditë. Problemet e gjumit
+  në demencë janë të zakonshme dhe vlen t'i ngrihen te mjeku.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Një studim britanik që ndoqi rreth 8,000 persona për 25 vjet lidhi gjumin prej gjashtë orësh ose më pak në moshën e mesme me rrezik më të lartë të demencës."
+  - "Ndryshimet e gjumit mund të jenë edhe një shenjë e hershme e demencës, prandaj është e vështirë të dallohet shkaku nga pasoja."
+  - "Hulumtimi mbi gjumin që pastron beta-amiloidin nga truri është real por i hershëm, pjesa më e madhe e tij në minj."
+  - "Apnea e gjumit është e zakonshme, trajtohet dhe lidhet me demencën në studime; gërhitja e fortë dhe përgjumja gjatë ditës meritojnë kontroll."
+  - "Mos filloni, ndaloni ose ndryshoni asnjë ilaç për gjumin ose ndihmës gjumi pa mjekun."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "A shkakton gjumi i dobët Alzheimerin?"
+    a: "Kjo nuk është treguar. Disa studime lidhin gjumin e shkurtër me rrezik më të lartë të demencës, por vetë demenca e prish gjumin, shpesh vite përpara diagnozës. Komisioni Lancet 2024 e gjykoi evidencën shumë të paqëndrueshme për ta listuar gjumin si faktor rreziku që mund të ndryshohet."
+  - q: "Sa gjumë kanë nevojë të moshuarit?"
+    a: "Instituti Kombëtar për Plakjen (National Institute on Aging) thotë se të moshuarit kanë nevojë pothuajse për të njëjtën sasi si të rriturit e tjerë, 7 deri në 9 orë në natë. Shumë të moshuar shkojnë në shtrat dhe zgjohen më herët se më parë, gjë që është e zakonshme."
+  - q: "Përse një person me demencë fle gjatë ditës dhe zgjohet natën?"
+    a: "Demenca mund të ndikojë në orën biologjike të trupit, kështu që orët e gjumit dhe të zgjimit ngatërrohen. Dhimbja, mërzia, uria ose efektet anësore të ilaçeve mund të luajnë gjithashtu një rol. Drita e ditës, aktiviteti i përditshëm dhe një rutinë e qetë në mbrëmje mund të ndihmojnë. Një mjek mund të kërkojë shkaqe që mund të trajtohen."
+  - q: "A duhet t'i jap ndihmës gjumi personit që kujdesem?"
+    a: "Fillimisht flisni me mjekun e tij, duke përfshirë edhe për produktet pa recetë. Instituti Kombëtar për Plakjen shënon se disa ilaçe për gjumin mund të rrisin rrezikun e marramendjes, rënieve dhe konfuzionit te personat me Alzheimer."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +57,151 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Gjumi dhe shëndeti i trurit janë qartë të lidhur, por mënyra si lidhen ende
+po studiohet. Disa studime lidhin gjumin e shkurtër me rrezik më të lartë të
+demencës. Demenca, nga ana tjetër, shpesh e prish gjumin. Kjo faqe shpjegon
+çfarë tregon dhe çfarë nuk tregon hulumtimi, jep zakone praktike gjumi, dhe
+trajton problemet e gjumit që janë të zakonshme në demencë. Nuk jep këshilla
+për ilaçet e gjumit; ajo bisedë i takon mjekut.
 
-## Is poor sleep linked with dementia?
+## A lidhet gjumi i dobët me demencën?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Disa studime afatgjata lidhin gjumin e shkurtër me rrezik më të lartë të
+demencës, por provat nuk janë përfunduar.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Një studim britanik 25-vjeçar.** Studiuesit ndoqën rreth 8,000 të rritur në
+  [studimin Whitehall II](https://www.nature.com/articles/s41467-021-22354-2).
+  Njerëzit që flinin gjashtë orë ose më pak në moshën 50 ose 60 vjeç kishin
+  rrezik më të lartë të demencës më vonë, krahasuar me ata që flinin shtatë orë.
+  Njerëzit që flinin gjashtë orë ose më pak në moshën 50, 60 dhe 70 vjeç kishin
+  rreth 30% rrezik më të lartë se ata që flinin rregullisht shtatë orë. Ky ishte
+  një studim vëzhgues, kështu që tregon një lidhje, jo një shkak.
+- **Pikëpamja e Komisionit Lancet.** [Komisioni Lancet 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)
+  nuk e shtoi gjumin në listën e tij prej 14 faktorësh të rrezikut që mund të
+  ndryshohen. Ai e gjykoi evidencën jo mjaft të qëndrueshme. Një arsye është
+  \"shkakësia e kundërt\": ndryshimet e trurit nga demenca fillojnë vite përpara
+  diagnozës dhe mund ta prishin gjumin. Në një studim të madh, lidhja mes gjumit
+  të gjatë dhe demencës u zhduk pasi u hodhën poshtë pesë vitet e para të ndjekjes.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Pra, një natë e shkurtër herë pas here nuk është arsye për shqetësim. Gjumi i
+rregullt dhe me cilësi të mirë vlen të synohet, sepse ndihmon humorin, gjallërinë
+dhe sigurinë sot.
 
-## What is the "brain-clearing" sleep research?
+## Çfarë është hulumtimi për gjumin që \"pastron\" trurin?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Ndoshta keni lexuar se gjumi \"pastron\" trurin. Kjo ide vjen nga hulumtim i
+vërtetë, por është e hershme.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Te minjtë.** Një studim i vitit 2013, [i përshkruar nga NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep),
+  gjeti se hapësira midis qelizave të trurit u rrit me rreth 60% kur minjtë flinin.
+  Lëngu rrodhi më lehtë nëpër tru, përmes asaj që studiuesit e quajnë sistemi
+  glimfatik. Beta-amiloidi, një proteinë e lidhur me Alzheimerin, u pastrua më
+  shpejt nga trutë e minjve që flinin.
+- **Te njerëzit.** Një [studim i vogël i vitit 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115)
+  skanoi 20 të rritur të shëndetshëm, 22 deri në 72 vjeç, pas një nate normale dhe
+  pas një nate pa gjumë. Pas natës pa gjumë, sinjali i skanimit të trurit për
+  beta-amiloidin u rrit me rreth 5% në një zonë që përfshin hipokampusin, një
+  rajon i rëndësishëm për kujtesën. Autorët e quajtën këtë evidencë paraprake.
+  Ata nuk e dinin nëse ndryshimi zhduket pas pushimit, nëse reflekton pastrim më
+  të ngadaltë, apo më shumë amiloid që prodhohet.
+- **Lidhja funksionon në të dy drejtimet.** Komisioni Lancet thekson se
+  grumbullimi i amiloidit mund të prishë vetë gjumin te të moshuarit.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Këto gjetje ndihmojnë të shpjegohet pse studiuesit interesohen për gjumin. Ato
+nuk tregojnë se gjumi më i mirë parandalon Alzheimerin.
 
-## What sleep habits may help?
+## Cilat zakone gjumi mund të ndihmojnë?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Të moshuarit kanë nevojë për rreth 7 deri në 9 orë gjumë në natë, njëlloj si të
+rriturit e tjerë, sipas [Institutit Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults).
+Sugjerimet e tij përfshijnë:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Mbani një orar të rregullt.** Shkoni në shtrat dhe zgjohuni në të njëjtën orë
+  çdo ditë, edhe në fundjavë.
+- **Krijoni një rutinë relaksuese para gjumit.** Lexoni, dëgjoni muzikë të qetë
+  ose bëni një banjë të ngrohtë para gjumit.
+- **Bëjeni dhomën e gjumit të rehatshme,** jo shumë të nxehtë dhe jo shumë të ftohtë.
+- **Kufizoni kafeinën vonë gjatë ditës.** Kafeja, çaji, sodat dhe çokollata mund
+  t'ju mbajnë zgjuar.
+- **Shmangni alkoolin,** edhe në sasi të vogla, këshillon NIA.
+- **Shmangni vakte të mëdha brenda dy deri tre orësh para gjumit,** dhe pijet e
+  mëdha vonë gjatë ditës.
+- **Ushtrohuni rregullisht, por jo brenda 3 orësh para gjumit.** Shihni
+  [udhëzuesin tonë për ushtrimet](/brain-health/exercise/).
+- **Mos e lini ekranin në dhomën e gjumit.** NIA sugjeron të mos shikoni TV ose të
+  përdorni kompjuter, telefon ose tablet atje.
+- **Shmangni gjumin e pasdites vonë ose të mbrëmjes** nëse mundeni.
 
-## Sleep problems in dementia
+## Problemet e gjumit në demencë
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Ndryshimet në gjumë janë të zakonshme në demencë. [NIA liston](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease)
+gjumin shumë ose shumë pak, zgjimet e shumta gjatë natës, dhe gjumin e shpeshtë
+gjatë ditës. Ajo përshkruan gjithashtu sundowning-un: shqetësim, agjitacion ose
+konfuzion që fillon ose përkeqësohet kur drita e ditës zbehet.
 
-Caregiver tips from the NIA include:
+Këshillat për kujdestarët nga NIA përfshijnë:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Merrni dritë dielli dhe lëvizni herët.** Dilni jashtë ose uluni pranë dritares
+   gjatë ditës, dhe ndihmoni personin të jetë aktiv çdo ditë. Drita e fortë mund
+   të ndihmojë rivendosjen e orës biologjike të trupit.
+2. **Planifikoni aktivitetet energjike për mëngjesin.** Provoni t'i bëni banjot në
+   mëngjes ose vaktin më të madh në mesditë.
+3. **Mbajini gjumat e shkurtra dhe herët.** Kufizoni dremitjet vonë gjatë ditës.
+4. **Bëjeni mbrëmjen të qetë.** Ulni dritat, zvogëloni zhurmën dhe luani muzikë
+   të qetë nëse personit i pëlqen. Udhëzuesi ynë për [shqetësimin në fund të ditës](/caregiving/late-day-restlessness/)
+   ka më shumë ide.
+5. **Mbani një rutinë të qëndrueshme para gjumit.** Leximi me zë të lartë në të
+   njëjtën orë çdo natë është një shembull i NIA. Një [rutinë e qëndrueshme ditore](/activities/daily-routine/)
+   ndihmon gjithashtu.
+6. **Kufizoni kafeinën dhe alkoolin.**
+7. **Përdorni drita nate** në dhomën e gjumit, koridor dhe banjo.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+Për zgjimet gjatë natës, [këshillat për sigurinë në shtëpi](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips)
+të NIA përfshijnë drita nate ose sensorë drite automatikë, doreza mbajtëse në
+banjo, shirit me ngjyra të ndezura në skajet e shkallëve, dhe ilaçet e ruajtura
+në një vend të mbyllur.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Një aktivitet i shkurtër dhe i qetë në mbrëmje mund t'ju ndihmojë të dy të
+qetësoheni. Provoni një pauzë të ngadaltë [Frymëmarrje e qetë](/games/calm-breathing/)
+ose disa [Kartela bisede](/games/conversation-cards/) të relaksuara. Shmangni
+çdo gjë që stimulon pranë shtratit, dhe ndaloni kurdo që personi të jetë lodhur.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Gjumi i prishur e lodh edhe kujdestarin. Udhëzuesi ynë për [vetëkujdesin e kujdestarit](/caregiving/caregiver-self-care/)
+mbulon mënyra për të pushuar dhe për të marrë ndihmë.
 
-## What about sleep apnea?
+## Po apnea e gjumit?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Apnea e gjumit shkakton pauza të shkurtra në frymëmarrje gjatë gjumit, shpesh
+shumë herë në natë. NIA thotë se nëse nuk trajtohet, mund të çojë në probleme si
+presion i lartë i gjakut, goditje ose humbje kujtese. Shenjat përfshijnë gërhitje
+të fortë dhe ndjenjë përgjumjeje gjatë ditës, dhe shumë njerëz nuk e dinë që e kanë.
+Komisioni Lancet përshkruan një rishikim të 11 studimeve, në të cilin njerëzit me
+apne gjumi kishin rreth 43% rrezik më të lartë të demencës. Pak nga ato studime
+morën parasysh peshën, kështu që lidhja është e pasigurt.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Apnea e gjumit mund të diagnostikohet dhe trajtohet. NIA shënon se një aparat CPAP
+pothuajse gjithmonë ndihmon. Nëse ju ose personi që kujdesleni gërhiti fort,
+ndalon së frymuari gjatë gjumit, ose është shumë i përgjumur gjatë ditës, tregojeni
+mjekut.
 
-## A note about sleep medicines
+## Një shënim për ilaçet e gjumit
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Ne nuk japim këshilla për ilaçet ose suplementet e gjumit. NIA thotë se ilaçet
+e gjumit mund të ndihmojnë për pak kohë, por nuk janë një shërim për pagjumësinë.
+Ajo shton gjithashtu se disa ilaçe të dhëna për të ndihmuar personat me Alzheimer
+të flenë mund të rrisin rrezikun e marramendjes, rënieve dhe konfuzionit. Mos
+filloni, ndaloni ose ndryshoni asnjë ilaç gjumi, përfshirë ndihmat e gjumit pa
+recetë, pa biseduar me mjekun ose farmacistin.
 
-## Talk with a doctor
+## Flisni me mjekun
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Shihni mjekun nëse ju ose personi që kujdesleni jeni gjithmonë të lodhur, keni
+vështirësi të flini shumicën e netëve, gërhitni fort, ose keni pauza në frymëmarrje
+gjatë natës. Nëse problemet e gjumit në demencë vazhdojnë, [NIA këshillon](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
+kërkimin e këshillës mjekësore. Një kontroll mund të gjejë shkaqe si dhimbja,
+një tjetër çrregullim gjumi, një sëmundje ose një efekt anësor i ilaçit. Konfuzioni
+i papritur, ose një ndryshim i papritur i gjumit së bashku me konfuzion, kërkon
+kujdes urgjent. Lexoni [kur duhet të shihni mjekun](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Kjo faqe është informacion i përgjithshëm, jo këshillë mjekësore. Shihni
+[shënimin tonë mjekësor](/medical-disclaimer/).

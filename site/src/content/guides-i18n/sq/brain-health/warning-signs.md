@@ -1,31 +1,32 @@
 ---
-title: "Early Signs of Dementia and When to See a Doctor"
-seoTitle: "Early Signs of Dementia and When to See a Doctor"
-description: "Common early signs of dementia, how they differ from typical aging, treatable causes of memory problems, and how to prepare for a doctor's appointment."
+title: "Shenjat e hershme të demencës dhe kur duhet të shihni mjekun"
+seoTitle: "Shenjat e hershme të demencës dhe kur të shihni mjekun"
+description: "Shenjat e hershme të zakonshme të demencës, si ndryshojnë nga plakja tipike, shkaqet e trajtueshme të problemeve të kujtesës, dhe si të përgatiteni për takimin me mjekun."
 section: brain-health
 order: 10
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Memory loss that disrupts daily life, trouble with familiar tasks, confusion about time or place,
-  and changes in mood or judgment can be early signs of dementia. Many other conditions, including
-  thyroid problems, low vitamin B12, medicine side effects, depression and sleep problems, can cause
-  similar changes. Only a qualified clinician can diagnose. Sudden confusion needs urgent care.
+  Humbja e kujtesës që prish jetën e përditshme, vështirësia me detyra të njohura, konfuzioni për
+  kohën ose vendin, dhe ndryshimet e humorit ose të gjykimit mund të jenë shenja të hershme të
+  demencës. Shumë gjendje të tjera, përfshirë problemet e tiroides, mungesën e vitaminës B12, efektet
+  anësore të ilaçeve, depresionin dhe problemet e gjumit, mund të shkaktojnë ndryshime të ngjashme.
+  Vetëm një klinicist i kualifikuar mund të diagnostikojë. Konfuzioni i papritur kërkon kujdes urgjent.
 keyPoints:
-  - "Occasional forgetfulness is common with age; changes that disrupt everyday life are worth checking."
-  - "The Alzheimer's Association describes 10 warning signs, each with a typical age-related change for comparison."
-  - "Thyroid problems, low vitamin B12, medicine side effects, depression, infections and sleep problems can all affect memory, and some are treatable."
-  - "Only a qualified clinician can diagnose dementia; online quizzes and self-tests cannot."
-  - "Confusion that comes on suddenly, over hours or days, may be delirium and needs urgent medical care."
+  - "Harresa e herë pas here është e zakonshme me moshën; ndryshimet që prishin jetën e përditshme meritojnë kontroll."
+  - "Shoqata e Alzheimerit përshkruan 10 shenja paralajmëruese, secila me një ndryshim tipik të lidhur me moshën për krahasim."
+  - "Problemet e tiroides, mungesa e vitaminës B12, efektet anësore të ilaçeve, depresioni, infeksionet dhe problemet e gjumit mund të ndikojnë në kujtesë, dhe disa prej tyre trajtohen."
+  - "Vetëm një klinicist i kualifikuar mund të diagnostikojë demencën; testet online dhe vetë-testet nuk mund ta bëjnë këtë."
+  - "Konfuzioni që vjen papritur, brenda orësh ose ditësh, mund të jetë delirium dhe kërkon kujdes urgjent mjekësor."
 faq:
-  - q: "Is forgetfulness a normal part of aging?"
-    a: "Some is. The National Institute on Aging says occasionally misplacing things or forgetting a bill is usually mild, age-related forgetfulness. Dementia is not a normal part of aging. Memory problems that make everyday tasks like driving, using the phone or finding the way home hard are worth checking with a doctor."
-  - q: "Can memory problems be caused by something other than dementia?"
-    a: "Yes. The National Institute on Aging lists thyroid, kidney or liver problems, medicine side effects, depression and anxiety, low vitamin B12, alcohol misuse, sleep problems, infections and head injuries, among others. Some of these improve once treated, which is one reason a medical check matters."
-  - q: "Can I test someone for dementia at home?"
-    a: "No. Only a qualified clinician can diagnose dementia, using a medical history, a physical exam, memory and thinking tests, lab tests and sometimes brain scans. Even the brief tests doctors use are not enough on their own to diagnose dementia."
-  - q: "What should I do if someone suddenly becomes confused?"
-    a: "Get medical help right away. Sudden confusion can be delirium, which the VA describes as a medical emergency. Call the person's health care provider at once or call 911, stay with them, and note any medicines they take."
+  - q: "A është harresa pjesë normale e plakjes?"
+    a: "Disa është. Instituti Kombëtar për Plakjen (National Institute on Aging) thotë se të harruarit e herë pas here të gjërave ose të një fature zakonisht është harresë e lehtë e lidhur me moshën. Demenca nuk është pjesë normale e plakjes. Problemet e kujtesës që e bëjnë të vështira detyrat e përditshme, si të drejtuarit e makinës, përdorimi i telefonit ose gjetja e rrugës për në shtëpi, meritojnë kontroll me mjekun."
+  - q: "A mund të shkaktojnë problemet e kujtesës diçka tjetër përveç demencës?"
+    a: "Po. Instituti Kombëtar për Plakjen liston, ndër të tjera, problemet e tiroides, veshkave ose mëlçisë, efektet anësore të ilaçeve, depresionin dhe ankthin, mungesën e vitaminës B12, keqpërdorimin e alkoolit, problemet e gjumit, infeksionet dhe dëmtimet e kokës. Disa prej tyre përmirësohen pasi trajtohen, dhe ky është një nga arsyet pse kontrolli mjekësor ka rëndësi."
+  - q: "A mund ta testoj dikë për demencë në shtëpi?"
+    a: "Jo. Vetëm një klinicist i kualifikuar mund të diagnostikojë demencën, duke përdorur historikun mjekësor, një ekzaminim fizik, teste të kujtesës dhe të të menduarit, analiza laboratorike dhe ndonjëherë skanime të trurit. Edhe testet e shkurtra që përdorin mjekët nuk mjaftojnë vetëm për të diagnostikuar demencën."
+  - q: "Çfarë duhet të bëj nëse dikush papritur bëhet konfuz?"
+    a: "Kërkoni ndihmë mjekësore menjëherë. Konfuzioni i papritur mund të jetë delirium, që Departamenti i Veteranëve (VA) e përshkruan si emergjencë mjekësore. Telefononi menjëherë ofruesin shëndetësor të personit ose telefononi numrin e emergjencave në vendin tuaj, qëndroni me të dhe shënoni çdo ilaç që merr."
 sources:
   - title: "10 Early Signs and Symptoms of Alzheimer's and Dementia"
     publisher: "Alzheimer's Association"
@@ -53,94 +54,149 @@ related: [brain-health/risk-factors, brain-health/hearing, brain-health/sleep, c
 health: true
 ---
 
-Noticing changes in your own memory, or in someone you love, can be frightening. This page can help you decide when to make a doctor's appointment and how to prepare for it. It cannot tell you whether anyone has dementia. **Only a qualified clinician can diagnose dementia**, and many conditions that cause memory problems are not dementia at all. Please do not rely on online quizzes or self-tests.
+Të vërejtësh ndryshime në kujtesën tënde, ose në atë të një personi që do, mund
+të jetë e frikshme. Kjo faqe mund të ndihmojë të vendosësh kur të caktosh një
+takim me mjekun dhe si të përgatitesh për të. Ajo nuk mund të thotë nëse dikush
+ka demencë. **Vetëm një klinicist i kualifikuar mund të diagnostikojë demencën**,
+dhe shumë gjendje që shkaktojnë probleme kujtese nuk janë fare demencë. Ju lutemi
+mos u mbështetni te testet online ose vetë-testet.
 
-## What are the early signs of dementia?
+## Cilat janë shenjat e hershme të demencës?
 
-The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/10_signs) describes 10 early signs. It pairs each one with a typical age-related change for comparison. In our own words:
+[Shoqata e Alzheimerit](https://www.alz.org/alzheimers-dementia/10_signs) përshkruan
+10 shenja të hershme. Ajo e shoqëron secilën me një ndryshim tipik të lidhur me moshën
+për krahasim. Me fjalët tona:
 
-| Sign worth checking | More typical with age |
+| Shenjë që vlen të kontrollohet | Më tipike me moshën |
 | --- | --- |
-| Memory loss that disrupts daily life, such as forgetting recent events or asking the same thing again and again | Sometimes forgetting a name or appointment and remembering it later |
-| Trouble planning or solving problems, such as following a familiar recipe or keeping track of bills | An occasional mistake with the household bills |
-| Difficulty finishing familiar tasks at home, at work or while out | Now and then needing help with a microwave setting or recording a TV show |
-| Losing track of dates, seasons or where you are | Getting the day of the week wrong, then working it out |
-| New trouble judging distance, reading or telling colors apart | Vision changes from cataracts |
-| New problems with words, such as stopping mid-conversation or calling things by the wrong name | Sometimes struggling to find the right word |
-| Putting things in unusual places and being unable to retrace steps | Misplacing things now and then and finding them by retracing steps |
-| Poor judgment, such as with money or personal grooming | Making an occasional poor decision |
-| Pulling away from hobbies, work or social activities | Sometimes not feeling like going to a family or social event |
-| Changes in mood or personality, such as becoming confused, suspicious, fearful or anxious | Having set ways of doing things and feeling irritable when a routine is disrupted |
+| Humbje kujtese që prish jetën e përditshme, si harrimi i ngjarjeve të fundit ose pyetja e të njëjtës gjë përsëri e përsëri | Harresa e herë pas here e një emri ose takimi, dhe kujtimi i tij më vonë |
+| Vështirësi në planifikim ose në zgjidhjen e problemeve, si ndjekja e një recete të njohur ose mbajtja e llogarisë së faturave | Një gabim i rastit me faturat e shtëpisë |
+| Vështirësi për të përfunduar detyra të njohura në shtëpi, në punë ose jashtë | Herë pas here nevojë për ndihmë me një cilësim të mikrovalëve ose me regjistrimin e një emisioni TV |
+| Humbja e gjurmës së datave, stinëve ose vendit ku ndodheni | Gabim në ditën e javës, pastaj e zgjidhni vetë |
+| Vështirësi të reja në vlerësimin e distancës, në leximin ose në dallimin e ngjyrave | Ndryshime të shikimit nga katarakta |
+| Probleme të reja me fjalët, si ndalimi në mes të bisedës ose emërtimi i gjërave me emër të gabuar | Herë pas here vështirësi për të gjetur fjalën e duhur |
+| Vendosja e gjërave në vende të pazakonta dhe pamundësia për t'i rikthyer hapat | Humbja e gjërave herë pas here dhe gjetja e tyre duke rikthyer hapat |
+| Gjykim i dobët, si me paratë ose me kujdesin personal | Një vendim i dobët herë pas here |
+| Tërheqje nga hobi, puna ose aktivitetet shoqërore | Herë pas here mungesë dëshire për të shkuar në një ngjarje familjare ose shoqërore |
+| Ndryshime të humorit ose të personalitetit, si të bëhesh konfuz, dyshues, i frikësuar ose ankthiozë | Të kesh mënyra fikse të bërjes së gjërave dhe të acarohesh kur rutina prishet |
 
-One sign alone does not mean dementia. The point is a **change from what is normal for that person**, especially one that makes everyday life harder.
+Një shenjë e vetme nuk do të thotë demencë. Çështja është një **ndryshim nga ajo
+që është normale për atë person**, sidomos një që e bën jetën e përditshme më të vështirë.
 
-## How is normal aging different from dementia?
+## Si ndryshon plakja normale nga demenca?
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging) says many older adults notice they recall things more slowly, or sometimes misplace things or forget a bill. These are usually signs of mild forgetfulness. **Dementia is not a normal part of aging.** Serious memory problems make everyday activities hard, such as driving, using the phone or finding the way home.
+[Instituti Kombëtar për Plakjen (NIA)](https://www.nia.nih.gov/health/memory-loss-and-forgetfulness/memory-problems-forgetfulness-and-aging)
+thotë se shumë të moshuar vërejnë se kujtojnë gjërat më ngadalë, ose herë pas here
+humbasin gjëra ose harrojnë një faturë. Këto zakonisht janë shenja të harresës së
+lehtë. **Demenca nuk është pjesë normale e plakjes.** Problemet e rënda të kujtesës
+e bëjnë të vështira aktivitetet e përditshme, si të drejtuarit e makinës, përdorimi i
+telefonit ose gjetja e rrugës për në shtëpi.
 
-The NIA suggests talking with a doctor if someone:
+NIA sugjeron të flitet me mjekun nëse dikush:
 
-- Asks the same questions over and over
-- Gets lost in places they used to know well
-- Has trouble following recipes or directions
-- Becomes more confused about time, people and places
-- Stops taking care of themselves, such as eating poorly, not bathing or behaving unsafely
+- Pyet të njëjtat pyetje përsëri e përsëri
+- Humbet rrugën në vende që i njihte mirë
+- Ka vështirësi të ndjekë receta ose udhëzime
+- Bëhet më konfuz për kohën, njerëzit dhe vendet
+- Ndalon së kujdesuri për veten, si ha keq, nuk lahet ose sillet në mënyrë të pasigurt
 
-Some people have **mild cognitive impairment (MCI)**. That means more memory or thinking problems than others their age, while still managing day-to-day life. The NIA says MCI may be an early sign of Alzheimer's, but not everyone with MCI develops it.
+Disa njerëz kanë **dëmtim të lehtë njohës (MCI)**. Kjo do të thotë më shumë probleme
+kujtese ose të menduari se të tjerët në moshën e tyre, por ende e menaxhojnë jetën
+e përditshme. NIA thotë se MCI mund të jetë një shenjë e hershme e Alzheimerit,
+por jo të gjithë me MCI e zhvillojnë atë.
 
-## What else can cause memory problems?
+## Çfarë tjetër mund të shkaktojë probleme kujtese?
 
-Many things besides dementia can affect memory, and some get better with treatment. The NIA lists:
+Shumë gjëra përveç demencës mund ta ndikojnë kujtesën, dhe disa përmirësohen me
+trajtim. NIA liston:
 
-- **Thyroid, kidney or liver problems**
-- **Medicine side effects**
-- **Depression and anxiety**
-- **Low vitamin B12** or not eating enough healthy food
-- **Sleep problems**
-- **Alcohol or drug misuse**
-- **Infections, blood clots or tumors** in the brain
-- **Head injury**, such as a concussion
-- **Major stress or grief**, such as retirement or losing a spouse
+- **Problemet e tiroides, veshkave ose mëlçisë**
+- **Efektet anësore të ilaçeve**
+- **Depresionin dhe ankthin**
+- **Mungesën e vitaminës B12** ose mosha e ushqimit të shëndetshëm
+- **Problemet e gjumit**
+- **Keqpërdorimin e alkoolit ose të drogës**
+- **Infeksione, mpiksje gjaku ose tumore** në tru
+- **Dëmtim të kokës**, si një tronditje
+- **Stres ose zi të madhe**, si pensionimi ose humbja e bashkëshortit
 
-Hearing and vision problems can also be mistaken for confusion; see our [hearing guide](/brain-health/hearing/). This is why a medical check matters. According to the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor), doctors often order blood work to check for thyroid problems, vitamin deficiencies and infection. Good [sleep](/brain-health/sleep/) and treating depression are worth raising too.
+Problemet e dëgjimit dhe të shikimit mund të ngatërrohen gjithashtu me konfuzion;
+shihni [udhëzuesin tonë për dëgjimin](/brain-health/hearing/). Kjo është arsyeja pse
+kontrolli mjekësor ka rëndësi. Sipas [Shoqatës së Alzheimerit](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor),
+mjekët shpesh urdhërojnë analiza gjaku për të kontrolluar problemet e tiroides,
+mungesat e vitaminave dhe infeksionin. [Gjumi](/brain-health/sleep/) i mirë dhe trajtimi
+i depresionit vlen gjithashtu të përmenden.
 
-## Sudden confusion is an emergency
+## Konfuzioni i papritur është emergjencë
 
-**Confusion that comes on quickly, over hours or days, needs urgent medical care.** It may be delirium. The [VA describes delirium](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp) as a medical emergency and advises calling the person's health care provider right away or calling 911. Signs include:
+**Konfuzioni që vjen shpejt, brenda orësh ose ditësh, kërkon kujdes urgjent mjekësor.**
+Mund të jetë delirium. [VA përshkruan deliriumin](https://www.va.gov/geriatrics/pages/delirium_when_should_i_worry_about_delirium.asp)
+si emergjencë mjekësore dhe këshillon të telefononi menjëherë ofruesin shëndetësor
+të personit ose numrin e emergjencave në vendin tuaj. Shenjat përfshijnë:
 
-- Ups and downs in the ability to think clearly
-- Trouble paying attention
-- Disorganized thinking
-- Being unusually sleepy, or unusually restless and agitated
+- Lëkundje në aftësinë për të menduar qartë
+- Vështirësi për t'u përqendruar
+- Të menduar të çrregulluar
+- Të qenit më shumë se zakonisht përgjumur, ose të paqetë dhe të agjituar në mënyrë të pazakontë
 
-This can happen to anyone, including people who already live with dementia. According to the [NHS](https://www.nhs.uk/symptoms/confusion/), common causes include infections (urinary tract infections are common in older people and people with dementia), stroke, low blood sugar in people with diabetes, head injury and some medicines. While you wait for help, stay with the person and reassure them with short, simple words. Do not ask lots of questions, and note any medicines they take.
+Kjo mund t'i ndodhë kujtdo, përfshirë personat që tashmë jetojnë me demencë. Sipas
+[NHS](https://www.nhs.uk/symptoms/confusion/), shkaqet e zakonshme përfshijnë infeksionet
+(infeksionet e rrugëve urinare janë të zakonshme te të moshuarit dhe te personat me
+demencë), goditjen në tru, sheqerin e ulët në gjak te personat me diabet, dëmtimin e
+kokës dhe disa ilaçe. Ndërsa prisni ndihmën, qëndroni me personin dhe qetësojeni me
+fjalë të shkurtra e të thjeshta. Mos bëni shumë pyetje, dhe shënoni çdo ilaç që merr.
 
-## How do I prepare for the doctor's appointment?
+## Si të përgatitem për takimin me mjekun?
 
-A good appointment starts with good notes. The [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor) suggests bringing:
+Një takim i mirë fillon me shënime të mira. [Shoqata e Alzheimerit](https://www.alz.org/alzheimers-dementia/diagnosis/visiting-your-doctor)
+sugjeron të sillni:
 
-1. **A list of changes** in memory, mood and behavior, with specific examples and roughly when they started
-2. **Past and current health problems**, including any family history of memory problems
-3. **All prescriptions and over-the-counter medicines**
-4. **Any vitamins or supplements**
-5. **Your questions**, such as what tests will be done, how long they take and when results will come
+1. **Një listë ndryshimesh** në kujtesë, humor dhe sjellje, me shembuj specifikë dhe
+   përafërsisht kur kanë filluar
+2. **Problemet shëndetësore të kaluara dhe të tanishme**, përfshirë çdo histori
+   familjare të problemeve të kujtesës
+3. **Të gjitha recetat dhe ilaçet pa recetë**
+4. **Çdo vitaminë ose suplement**
+5. **Pyetjet tuaja**, si cilat teste do të bëhen, sa zgjasin dhe kur do të vijnë rezultatet
 
-It also helps to bring a family member or friend who knows the person well. The [NIA explains](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed) that doctors may ask both the person and a family member about health, medicines, daily activities and changes in behavior. Doctors may also:
+Ndihmon gjithashtu të sillni një anëtar të familjes ose një mik që e njeh mirë
+personin. [NIA shpjegon](https://www.nia.nih.gov/health/alzheimers-symptoms-and-diagnosis/how-alzheimers-disease-diagnosed)
+se mjekët mund të pyesin si personin ashtu edhe një anëtar të familjes për shëndetin,
+ilaçet, aktivitetet e përditshme dhe ndryshimet e sjelljes. Mjekët mund gjithashtu:
 
-- Give tests of memory, problem solving, attention, counting and language
-- Order blood, urine and other tests to look for other causes
-- Check for depression or other mental health conditions
-- Order brain scans such as CT or MRI
-- Refer to a specialist, such as a geriatrician, neurologist, geriatric psychiatrist or neuropsychologist
+- Të bëjnë teste të kujtesës, të zgjidhjes së problemeve, të përqendrimit, të
+  numërimit dhe të gjuhës
+- Të urdhërojnë analiza gjaku, urine dhe teste të tjera për të kërkuar shkaqe të tjera
+- Të kontrollojnë për depresion ose gjendje të tjera të shëndetit mendor
+- Të urdhërojnë skanime të trurit si CT ose MRI
+- Të referojnë te një specialist, si gjeriatër, neurolog, psikiatër gjeriatrik ose
+  neuropsikolog
 
-The NIA notes that a cognitive assessment is a required part of the Medicare Annual Wellness Visit, which can be a natural time to raise concerns. Even the brief tests doctors use are not enough on their own to diagnose dementia. They are a first step toward a fuller evaluation, and diagnosis may take more than one visit. The NIA advises that people with memory problems return to the doctor every 6 to 12 months.
+NIA shënon se një vlerësim njohës është pjesë e detyrueshme e Vizitës Vjetore
+Shëndetësore të Medicare, që mund të jetë një kohë e natyrshme për të ngritur
+shqetësimet. Edhe testet e shkurtra që përdorin mjekët nuk mjaftojnë vetëm për të
+diagnostikuar demencën. Ato janë hapi i parë drejt një vlerësimi më të plotë, dhe
+diagnoza mund të kërkojë më shumë se një vizitë. NIA këshillon që personat me
+probleme kujtese të kthehen te mjeku çdo 6 deri në 12 muaj.
 
-## Raising the subject kindly
+## Ta ngrini temën me butësi
 
-If you are worried about someone else, choose a calm, private moment. Talk about specific things you have noticed, framed as concern for their health rather than criticism. Suggesting a general check-up can feel less alarming. Include the person in decisions and speak to them as the adult they are. Our [communication tips](/caregiving/communication-tips/) may help.
+Nëse jeni të shqetësuar për një tjetër person, zgjidhni një moment të qetë dhe
+privat. Flisni për gjëra specifike që keni vërejtur, të formuluara si shqetësim për
+shëndetin e tyre dhe jo si kritikë. Sugjerimi për një kontroll të përgjithshëm mund
+të duket më pak alarmues. Përfshijeni personin në vendimet dhe flisni me të si me
+një të rritur që është. [Këshillat tona për komunikimin](/caregiving/communication-tips/)
+mund të ndihmojnë.
 
-## Talk with a doctor
+## Flisni me mjekun
 
-If you notice changes in memory, thinking, mood or everyday abilities that are new and keep happening, make an appointment with a primary care doctor. For sudden confusion, call 911 or the person's health care provider right away. Getting checked early means treatable causes can be found and, if it is dementia, there is more time to plan and find support. Look after yourself through this too; see our [caregiver self-care guide](/caregiving/caregiver-self-care/).
+Nëse vini re ndryshime të reja në kujtesë, të menduar, humor ose aftësi të
+përditshme që vazhdojnë, caktoni një takim me mjekun e përgjithshëm. Për konfuzion
+të papritur, telefononi numrin e emergjencave në vendin tuaj ose ofruesin shëndetësor
+të personit menjëherë. Kontrolli i hershëm do të thotë që mund të gjenden shkaqe të
+trajtueshme dhe, nëse është demencë, ka më shumë kohë për të planifikuar dhe për të
+gjetur mbështetje. Kujdesuni edhe për veten në këtë; shihni [udhëzuesin tonë për
+vetëkujdesin e kujdestarit](/caregiving/caregiver-self-care/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Kjo faqe është informacion i përgjithshëm, jo këshillë mjekësore. Shihni
+[shënimin tonë mjekësor](/medical-disclaimer/).

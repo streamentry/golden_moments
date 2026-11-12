@@ -1,33 +1,33 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Demencijos rizikos veiksniai: 14 Lancet komisijos veiksnių"
+seoTitle: "Demencijos rizikos veiksniai: 14 Lancet veiksnių"
+description: "14 keičiamų demencijos rizikos veiksnių, kuriuos 2024 m. nustatė Lancet komisija, pagal gyvenimo etapus, su tuo, ką rodo tyrimai, ir ką galite aptarti su gydytoju."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024 m. Lancet komisija įvardijo 14 galimai keičiamų demencijos rizikos veiksnių:
+  mažesnį išsilavinimą, klausos praradimą, didelį LDL cholesterolio kiekį, depresiją,
+  galvos traumą, fizinį neaktyvumą, diabetą, rūkymą, aukštą kraujospūdį, nutukimą,
+  didelį alkoholio kiekį, socialinę izoliaciją, oro taršą ir negydomą regos praradimą.
+  Kartu jie siejami su maždaug 45 % atvejų visame pasaulyje, tačiau nei vienam
+  konkrečiam žmogui tai negarantuoja.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "14 veiksnių apima visą gyvenimą: vienas būdingas ankstyvam amžiui, dešimt – vidutiniam amžiui ir trys – vyresniam amžiui."
+  - "Klausos praradimas ir didelis LDL cholesterolio kiekis vidutiniame amžiuje kiekvienas siejami su maždaug 7 % demencijos atvejų visame pasaulyje – tai didžiausios dalys tarp visų vieno veiksnio."
+  - "Šie procentai yra gyventojų įverčiai, kurie daro prielaidą apie priežastinį ryšį. Kai kurie ryšiai gali būti tik iš dalies priežastiniai."
+  - "Amžius ir genai, kurių niekas negali pakeisti, taip pat yra svarbūs rizikos veiksniai. Mažinant 14 rizikų negarantuojama, kad kas nors išvengs demencijos."
+  - "Dauguma žingsnių, pavyzdžiui, kraujospūdžio, klausos ir regos patikrinimas, naudingi sveikatai ir kitais atžvilgiais, todėl verta juos aptarti su gydytoju."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Kokie yra 14 keičiamų demencijos rizikos veiksnių?"
+    a: "2024 m. Lancet komisija įvardijo mažesnį išsilavinimą, klausos praradimą, didelį LDL cholesterolio kiekį, depresiją, traumatinę smegenų traumą, fizinį neaktyvumą, diabetą, rūkymą, aukštą kraujospūdį, nutukimą, perteklinį alkoholio vartojimą, socialinę izoliaciją, oro taršą ir negydomą regos praradimą. Kartu jie siejami beveik su puse demencijos atvejų visame pasaulyje."
+  - q: "Kuris demencijos rizikos veiksnys svarbiausias?"
+    a: "Komisija įvertino visos pasaulio populiacijos mastu, kad klausos praradimas ir didelis LDL cholesterolio kiekis vidutiniame amžiuje kiekvienas siejami maždaug su 7 % atvejų, o po jų – mažesnis išsilavinimas ir socialinė izoliacija, kiekvienas maždaug su 5 %. Tai, kurie veiksniai svarbiausi konkrečiam žmogui, priklauso nuo jo paties sveikatos, todėl geriausias vadovas yra gydytojas."
+  - q: "Ar du nauji rizikos veiksniai pridėti 2024 m.?"
+    a: "Taip. 2024 m. ataskaitoje prie 12 veiksnių, įvardytų 2020 m., buvo pridėtas didelis LDL („blogojo“) cholesterolio kiekis vidutiniame amžiuje ir negydomas regos praradimas vyresniame amžiuje. Komisija juos siejo atitinkamai maždaug su 7 % ir 2 % atvejų."
+  - q: "Ar amžius yra keičiamas rizikos veiksnys?"
+    a: "Ne. Amžius yra didžiausias žinomas Alzheimerio ligos rizikos veiksnys, ir jo pakeisti negalima. Svarbų vaidmenį vaidina ir genai. Šiame puslapyje nurodyti 14 veiksnių – tie, kuriuos, pagal tyrimus, galima galbūt pakeisti."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +49,127 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Rizika – tai kažkas, kas siejama su didesne tikimybe susirgti. Ji ne visada yra
+priežastis ir turint rizikos veiksnį demencija nebūtinai išsivystys. Šiame
+puslapyje išvardijami 14 demencijos rizikos veiksnių, kuriuos 2024 m. Lancet
+komisija nurodė kaip galimai keičiamus, aptariama, ką tyrimai sieja su jais, ir
+ką galite aptarti su gydytoju.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Platesniam vaizdui, įskaitant tai, ką parodė dideli tyrimai, pradėkite nuo
+[Ar demencijos galima išvengti? Ką sako tyrimai](/brain-health/can-dementia-be-prevented/).
+Tai bendra informacija, ne medicininė konsultacija; žr. mūsų
+[medicininį atsakomybės apribojimą](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Kokie yra 14 demencijos rizikos veiksnių?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024 m. Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0), kurią
+parengė 27 demencijos tyrėjai, apskaičiavo, kad 14 galimai keičiamų rizikos
+veiksnių kartu lemia maždaug 45 % demencijos atvejų visame pasaulyje. Kiekvieno
+veiksnio procentas žemiau – tai komisijos įvertinimas, kokia atvejų visame
+pasaulyje dalis su juo susijusi, suapvalinta iki sveikųjų skaičių. Skaičiai
+persidengia, nes daugelis žmonių turi kelis rizikos veiksnius vienu metu, todėl
+jie susideda į 45 %, o ne daugiau.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Rizikos veiksnys | Gyvenimo etapas | Atvejų dalis | Ką sieja tyrimai | Ką galite daryti |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Mažesnis išsilavinimas | Ankstyvas amžius | 5 % | Trumpesnis mokslo laikas siejamas su didesne rizika. Protinis aktyvumas vidutiniame amžiuje taip pat atrodo apsaugantis, net ir žmonėms, kurie mokėsi mažai. | Mokykitės ir darykite protiškai įtraukiančius dalykus bet kokiame amžiuje: skaitykite, užsiimkite pomėgiais, lankykite kursus, žaiskite žaidimus su kitais. |
+| Klausos praradimas | Vidutinis amžius | 7 % | Negydomas klausos praradimas siejamas su didesne rizika. Tyrimai, stebintys žmones laikui bėgant, sieja klausos aparatų naudojimą su mažesne rizika. | Pasitikrinkite klausą. Paklauskite, ar padėtų klausos aparatai, ir juos nešiokite, jei jie paskirti. Saugokite ausis nuo garsaus triukšmo. |
+| Didelis LDL cholesterolio kiekis | Vidutinis amžius (nuo maždaug 40 m.) | 7 % | Didelis LDL („blogojo“) cholesterolio kiekis vidutiniame amžiuje siejamas su didesne rizika. Stebėjimo tyrimai sieja statinų vartojimą su mažesne rizika, tačiau tyrimai vyresniame amžiuje to nepatvirtino. | Paklauskite gydytojo, ar reikėtų patikrinti cholesterolio kiekį ir ką, jei ko nors, su juo daryti. |
+| Depresija | Vidutinis amžius | 3 % | Depresija siejama su didesne rizika. Vyresniame amžiuje depresija taip pat gali būti ankstyvas demencijos požymis. | Pasakykite gydytojui apie prastą nuotaiką ar susidomėjimo praradimą, trunkantį ilgiau nei dvi savaites. Depresija gydoma. |
+| Traumatinė smegenų trauma | Vidutinis amžius | 3 % | Galvos trauma bet kuriuo amžiumi ir iš bet kokio šaltinio, įskaitant kontaktinius sportus, siejama su didesne rizika. | Dviratininkaudami ir užsiimdami kontaktiniais sportais dėvėkite šalmą. Paklauskite apie kritimų prevenciją. Po galvos traumos ilsėkitės ir pasitikrinkite. |
+| Fizinis neaktyvumas | Vidutinis amžius | 2 % | Žmonės, kurie sportuoja ir mankština kūną, rečiau suserga demencija. Įrodymų iš klinikinių tyrimų vis dar nedaug. | Paklauskite, kokia veikla jums saugi, ir raskite tai, kas jums patinka. Žr. mūsų [judėjimo vadovą](/brain-health/exercise/). |
+| Diabetas | Vidutinis amžius | 2 % | Diabetas, ypač prasidėjęs vidutiniame amžiuje ar trunkantis ilgiau, siejamas su didesne rizika. | Pasitikrinkite cukraus kiekį kraujyje. Jei sergate diabetu, saugiai jį valdykite kartu su savo priežiūros komanda. |
+| Rūkymas | Vidutinis amžius | 2 % | Rūkymas siejamas su didesne rizika. Tyrimai rodo, kad buvę rūkaliai neturi tokios padidėjusios rizikos kaip tie, kurie vis dar rūko. | Paklauskite apie pagalbą atsisakyti rūkymo. Verta mesti bet kuriuo amžiumi. |
+| Aukštas kraujospūdis | Vidutinis amžius | 2 % | Aukštas kraujospūdis vidutiniame amžiuje siejamas su didesne rizika. Kraujospūdžio vaistų tyrimai rodo nedidelę mažesnę demencijos ar pažinimo sutrikimo riziką. | Žinokite savo rodiklius. Komisija rekomenduoja viršutinį skaičių 130 ar mažiau nuo maždaug 40 metų; paklauskite, koks tikslas jums tinka. |
+| Nutukimas | Vidutinis amžius | 1 % | Nutukimas vidutiniame amžiuje siejamas su didesne rizika, be to, jis didina diabeto riziką. | Paklauskite gydytojo, koks svoris jums sveikas. Vyresnio amžiaus žmonės neturėtų laikytis dietos svoriui mesti be medicininės konsultacijos. |
+| Perteklinis alkoholio vartojimas | Vidutinis amžius | 1 % | Didelis alkoholio kiekis siejamas su didesne rizika. Sumažinus didelį alkoholio vartojimą, rizika siejama su mažesne. | Paklauskite, kokia yra jums saugi riba, ypač vartojant vaistus. |
+| Socialinė izoliacija | Vyresnis amžius | 5 % | Retas socialinis kontaktas siejamas su didesne rizika. | Palaikykite ryšį su žmonėmis tokiais būdais, kurie jums malonūs. Žr. mūsų [socialinio ryšio vadovą](/brain-health/social-connection/). |
+| Oro tarša | Vyresnis amžius | 3 % | Gyvenimas daugiau oro taršos siejamas su didesne rizika. Tyrimai sieja švaresnį orą su mažesne rizika. | Daugiausia tai – visuomenės politikos klausimas. Sekite vietinius oro kokybės perspėjimus ir ribokite buvimą lauke labai užterštomis dienomis. |
+| Negydomas regos praradimas | Vyresnis amžius | 2 % | Nekoreguotos regos problemos siejamos su didesne rizika. Viename dideliame JAV tyrime katarakta pašalinta chirurgiškai siejama su mažesne rizika. | Reguliariai tikrinkite akis. Paklauskite, ar tokias problemas kaip katarakta galima gydyti. |
 
-## How should I read these percentages?
+## Kaip turėtume vertinti šiuos procentus?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Atsargiai. Pati komisijos ataskaita pabrėžia keletą dalykų, kuriuos verta
+prisiminti:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Jie apibūdina populiacijas, o ne atskirus žmones.** University College
+  London [ataskaitos santrauka](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  pažymi, kad rizikos mažinimas veikia visuomenės mastu ir negarantuoja, kad
+  kiekvienas atskiras žmogus išvengs demencijos.
+- **Jie daro prielaidą apie priežastinį ryšį.** Autoriai įtraukė tik veiksnius,
+  turinčius įtikinamų įrodymų, tačiau sako, kad kai kurie ryšiai gali būti tik
+  iš dalies priežastiniai.
+- **Tai pasaulinės vertės.** Dauguma duomenų gauti iš aukštas pajamas turinčių
+  šalių, todėl tikroji dalis kiekvienoje šalyje ar bendruomenėje skirsis.
+- **Nedideli procentai vis tiek gali būti svarbūs.** Veiksnys, siejamas su 2 %
+  atvejų visame pasaulyje, vis tiek paveikia labai daug žmonių.
 
-## Which risk factors were added in 2024?
+## Kurie rizikos veiksniai pridėti 2024 m.?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024 m. ataskaita prie 12 veiksnių, įvardytų 2020 m., pridėjo du:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Didelis LDL cholesterolio kiekis vidutiniame amžiuje**, siejamas su maždaug
+  7 % atvejų.
+- **Negydomas regos praradimas vyresniame amžiuje**, siejamas su maždaug 2 %
+  atvejų.
 
-## What risk factors cannot be changed?
+## Kurių rizikos veiksnių pakeisti negalima?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Nacionalinis senėjimo institutas teigia, kad
+[amžius yra didžiausias žinomas Alzheimerio ligos rizikos veiksnys](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+ir jo niekas negali pakeisti. Svarbų vaidmenį vaidina ir genai; vienas
+gerai žinomas genas, turintis įtakos Alzheimerio ligos rizikai, vadinamas APOE.
+NIA priduria, kad mokslininkai dar nelabai supranta, kas daugumai žmonių sukelia
+Alzheimerio ligą. Lancet komisija pažymi, kad galimai keičiamas rizikas galima
+mažinti, nepriklausomai nuo žmogaus genetinės rizikos.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Kadangi amžius ir genai vaidina tokį didelį vaidmenį, daugelis žmonių, neturinčių
+nė vieno iš 14 rizikos veiksnių, vis tiek suserga demencija. Tai niekieno kaltė.
 
-## What does the trial evidence say about changing these risks?
+## Ką sako klinikinių tyrimų įrodymai apie šių rizikų keitimą?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Rizikos veiksnio susiejimas su demencija dar nereiškia, kad jo pakeitimas sumažina
+demencijos riziką. Keletas pavyzdžių, kaip stovi klinikinių tyrimų įrodymai:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Kraujospūdis.** SPRINT MIND tyrime žemesnis kraujospūdžio tikslas reikšmingai
+  sumažino lengvą pažinimo sutrikimą. Jis reikšmingai nesumažino tikėtinos
+  demencijos, nors tyrimas galėjo būti per mažas tam parodyti
+  ([SPRINT MIND žurnale JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Klausos aparatai.** Lancet komisija aprašo trejų metų klausos aparatų tyrimą,
+  kuris nerado bendro poveikio mąstymui, tačiau pastebėjo naudą didesnės rizikos
+  žmonių pogrupyje. Tyrimai, stebintys žmones laikui bėgant, sieja klausos aparatų
+  naudojimą su mažesne rizika. Daugiau – mūsų [klausos vadove](/brain-health/hearing/).
+- **Fizinis aktyvumas.** Nacionalinis senėjimo institutas teigia, kad nėra
+  pakankamai klinikinių tyrimų įrodymų, leidžiančių daryti išvadą, jog mankšta
+  gali užkirsti kelią ar sulėtinti lengvą pažinimo sutrikimą ar Alzheimerio ligą,
+  nors kai kurie tyrimai rodo, kad ji gali padėti su amžiumi susijusiu
+  nuosmukiu
+  ([NIA apie Alzheimerio ligos prevenciją](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Ilgi tyrimai, laukiantys, kol išsivystys demencija, yra lėti ir brangūs, todėl
+daugeliui veiksnių geriausi įrodymai ir toliau bus gaunami iš tyrimų, stebinčių
+žmones metų metus. Tokie įrodymai naudingi, bet silpnesni nei klinikinis
+tyrimas.
 
-## What about sleep and diet?
+## O miegas ir mityba?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Komisija peržiūrėjo miegą ir mitybą, tačiau į sąrašą jų neįtraukė, nes įrodymai
+nebuvo pakankamai stiprūs ar nuoseklūs. Mūsų vadovai apie
+[miegą](/brain-health/sleep/) ir [mitybą](/brain-health/diet/) paaiškina, ką
+žinoma.
 
-## Talk with a doctor
+## Pasikalbėkite su gydytoju
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Metinis patikrinimas – geras laikas kelti šias temas. Galite atsinešti šį sąrašą
+ir paklausti:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Kokie mano kraujospūdžio, cukraus kiekio kraujyje ir cholesterolio rodikliai ir
+  ar kuriam nors reikia dėmesio?
+- Ar turėčiau pasitikrinti klausą ir akis?
+- Ar veikla, kurią darau, man saugi ir pakankama?
+- Ar kuris nors iš mano vaistų gali paveikti atmintį ar mąstymą?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Prieš keisdami vaistus, mitybą, badavimą, mankštą ar papildus, pirmiausia
+pasikonsultuokite su gydytoju. Jei jus ar jūsų prižiūrimą žmogų staiga ima
+painioti mintys, silpsta vienas kūno šonas ar sunku kalbėti, skubiai skambinkite
+vietinei skubiosios pagalbos tarnybai.

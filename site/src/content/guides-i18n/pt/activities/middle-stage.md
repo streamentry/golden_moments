@@ -1,32 +1,28 @@
 ---
-title: "Activities for Middle-Stage Dementia"
-seoTitle: "Middle-Stage Dementia Activities: Simple Ideas"
-description: "Simple activities for middle-stage dementia: useful jobs, music, photos and easy games, with step-by-step setup and ways to turn restlessness into something to do."
+title: "Atividades para a Demência em Fase Intermediária"
+seoTitle: "Atividades para Demência Intermediária: Ideias Simples"
+description: "Atividades simples para a fase intermediária da demência: tarefas úteis, música, fotos e jogos fáceis, com preparo passo a passo e como lidar com a inquietação."
 section: activities
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In middle-stage dementia, the best activities are short, familiar and broken
-  into single steps: folding laundry, sorting socks, washing dishes, singing,
-  guided walks, photo albums and simple picture games. Set things up, show the
-  first step, take over the hard parts and give the activity a purpose. Stop
-  when it stops being pleasant.
+  Na fase intermediária da demência, as melhores atividades são curtas, familiares e divididas em etapas simples: dobrar roupas, separar meias, lavar a louça, cantar, caminhadas guiadas, álbuns de fotos e jogos simples com figuras. Prepare tudo, mostre o primeiro passo, assuma as partes difíceis e dê um propósito à atividade. Pare quando ela deixar de ser agradável.
 keyPoints:
-  - "Familiar household jobs often work best because they feel useful and adult."
-  - "Show rather than tell, offer one step at a time, and give two simple choices instead of open questions."
-  - "Take over the hardest part so the person can do the satisfying part."
-  - "Restless behavior often means the person needs something to do. Offer a matching activity instead of saying no."
-  - "Watching, helping a little, or stopping early are all fine."
+  - "Tarefas domésticas familiares costumam funcionar melhor, porque parecem úteis e adequadas a adultos."
+  - "Mostre em vez de explicar, ofereça uma etapa de cada vez e dê duas escolhas simples em vez de perguntas abertas."
+  - "Assuma a parte mais difícil para que a pessoa possa fazer a parte que traz satisfação."
+  - "Comportamentos inquietos muitas vezes significam que a pessoa precisa de algo para fazer. Ofereça uma atividade parecida em vez de dizer não."
+  - "Observar, ajudar um pouco ou parar cedo são formas válidas de participar."
 faq:
-  - q: "What activities are good for middle-stage dementia?"
-    a: "Short, familiar, hands-on activities usually work best: folding towels, pairing socks, washing dishes, setting the table, singing along to old favorites, guided walks, looking at photo albums and simple picture games. Break each one into single steps and do it together."
-  - q: "How do I get someone with dementia to start an activity?"
-    a: "Have everything ready, then start the activity yourself and invite them to help: 'Could you give me a hand with these towels?' Many people want to take part but find it hard to begin. Showing the first step usually works better than explaining it."
-  - q: "What do I do when they keep doing something over and over?"
-    a: "Repetition is often harmless and may be a sign the person wants to feel busy or needs reassurance. Instead of correcting, offer an activity that fits the movement, such as a basket of washcloths to fold or a song to sing together."
-  - q: "What if they do the activity wrong?"
-    a: "If it is harmless, let it be. Towels folded differently or spoons in the wrong place do not matter. Correcting can feel like criticism, while doing it their way lets them feel capable and useful."
+  - q: "Quais atividades são boas para a demência em fase intermediária?"
+    a: "Atividades curtas, familiares e práticas costumam funcionar melhor: dobrar toalhas, juntar meias, lavar a louça, pôr a mesa, cantar as músicas antigas preferidas, caminhadas guiadas, olhar álbuns de fotos e jogos simples com figuras. Divida cada atividade em etapas simples e façam juntos."
+  - q: "Como fazer alguém com demência começar uma atividade?"
+    a: "Deixe tudo pronto e comece a atividade você mesmo, convidando-a a ajudar: \"Você poderia me dar uma mão com estas toalhas?\" Muitas pessoas querem participar, mas têm dificuldade de começar. Mostrar o primeiro passo costuma funcionar melhor do que explicá-lo."
+  - q: "O que fazer quando ela repete a mesma coisa sem parar?"
+    a: "A repetição muitas vezes é inofensiva e pode ser um sinal de que a pessoa quer se sentir ocupada ou precisa de segurança. Em vez de corrigir, ofereça uma atividade que combine com o movimento, como uma cesta de toalhas de rosto para dobrar ou uma música para cantar juntos."
+  - q: "E se ela fizer a atividade de forma errada?"
+    a: "Se não houver nenhum mal, deixe como está. Toalhas dobradas de outro jeito ou colheres no lugar errado não têm importância. Corrigir pode soar como crítica, enquanto deixar que ela faça do seu jeito a faz sentir-se capaz e útil."
 sources:
   - title: "Middle-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,77 +44,77 @@ related: [activities/ideas, activities/household-tasks, activities/late-stage, c
 health: false
 ---
 
-The middle stage of dementia is often the longest, and it is when activities start to need real support. Words come less easily, steps get mixed up, and starting anything can feel hard. But the wish to be useful and involved usually stays. With a little setup, a person in the middle stage can still enjoy a surprising amount, especially familiar jobs, music and pictures done side by side with you.
+A fase intermediária da demência costuma ser a mais longa, e é quando as atividades passam a exigir apoio de verdade. As palavras vêm com menos facilidade, as etapas se misturam e começar qualquer coisa pode ser difícil. Mas o desejo de ser útil e de participar costuma permanecer. Com um pouco de preparo, uma pessoa nessa fase ainda pode aproveitar muita coisa, especialmente tarefas familiares, música e fotos feitas lado a lado com você.
 
-## What activities work well in middle-stage dementia?
+## Quais atividades funcionam bem na demência intermediária?
 
-Short, familiar, hands-on activities broken into single steps work best. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) says you do not need to invent new things to do: activities can be part of ordinary living, such as making dinner together, gardening, listening to music or going for a walk.
+Atividades curtas, familiares e práticas, divididas em etapas simples, funcionam melhor. A [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) diz que você não precisa inventar coisas novas para fazer: as atividades podem fazer parte da vida cotidiana, como preparar o jantar juntos, cuidar do jardim, ouvir música ou dar uma caminhada.
 
-The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) notes that people in this stage often have a strong need to feel purposeful or to care for something, and need help starting or continuing activities. Its middle-stage list includes folding laundry, washing dishes, sorting socks, easy exercise, dancing to familiar music, guided walks, singalongs, simple painting and looking through photo albums.
+A [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) observa que pessoas nessa fase muitas vezes sentem forte necessidade de se sentir úteis ou de cuidar de algo, e precisam de ajuda para começar ou continuar as atividades. A lista para a fase intermediária inclui dobrar roupas, lavar a louça, separar meias, exercícios leves, dançar com músicas familiares, caminhadas guiadas, cantigas, pintura simples e olhar álbuns de fotos.
 
-## How do you set up an activity so it works?
+## Como preparar uma atividade para que ela funcione?
 
-Most activities succeed or fail in the setup. These habits, drawn from the [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) and the [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), make the biggest difference:
+A maioria das atividades dá certo ou não na preparação. Estes hábitos, tirados da [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) e da [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/), fazem a maior diferença:
 
-1. **Clear the space.** Turn off the TV, close the door and put out only what the activity needs.
-2. **Start it yourself.** Begin folding or stirring and invite them in: "Could you help me with this?"
-3. **Show, then wait.** Demonstrate one step. Point or guide with your hand, for example showing where the plate goes.
-4. **Give one step at a time.** "Fold it in half" is easier than "fold these and stack them by color."
-5. **Offer two choices, not open questions.** "The blue towels or the white ones?" is easier to answer than "Which do you want to do?"
-6. **Do the hard part yourself.** You measure, they stir. You thread the needle, they wind the yarn.
-7. **Give it a reason.** "These napkins are for Sunday dinner" makes the job feel real.
-8. **Let them watch if they prefer.** The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) notes that simply watching can be enjoyable too.
+1. **Libere o espaço.** Desligue a TV, feche a porta e deixe à vista apenas o que a atividade precisa.
+2. **Comece você mesmo.** Comece a dobrar ou a mexer e convide-a a entrar: "Você poderia me ajudar com isto?"
+3. **Mostre e depois espere.** Demonstre uma etapa. Aponte ou guie com a sua mão, por exemplo mostrando onde fica o prato.
+4. **Dê uma etapa de cada vez.** "Dobre ao meio" é mais fácil do que "dobre estas e empilhe por cor".
+5. **Ofereça duas escolhas, não perguntas abertas.** "As toalhas azuis ou as brancas?" é mais fácil de responder do que "O que você quer fazer?"
+6. **Faça a parte difícil você mesmo.** Você mede, ela mexe. Você passa a linha na agulha, ela enrola a lã.
+7. **Dê um motivo.** "Estes guardanapos são para o almoço de domingo" faz o trabalho parecer real.
+8. **Deixe-a assistir, se ela preferir.** O [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) observa que apenas assistir também pode ser agradável.
 
-## Activity ideas for the middle stage
+## Ideias de atividades para a fase intermediária
 
-### Useful jobs
+### Tarefas úteis
 
-- **Fold towels and washcloths.** Small, flat items are easiest. A basket of warm washcloths can be folded, smoothed and refolded.
-- **Pair socks.** Start with a few very different pairs. Sorting by color alone is fine too.
-- **Wash or dry unbreakable dishes.** Warm, soapy water is pleasant on the hands. Drying while seated is easier on the legs.
-- **Set the table.** Hand over one item type at a time, and set one place yourself as a model.
-- **Help with dinner.** Washing potatoes, tearing lettuce or stirring a bowl. You handle knives and heat.
-- **Sweep, dust or wipe.** A cloth for the table, a light broom for the porch.
+- **Dobre toalhas e panos de rosto.** Peças pequenas e planas são as mais fáceis. Uma cesta de panos mornos pode ser dobrada, alisada e dobrada de novo.
+- **Junte as meias.** Comece com alguns pares bem diferentes. Separar só por cor também serve.
+- **Lave ou seque a louça que não quebra.** Água morna com sabão é agradável para as mãos. Secar sentado é mais fácil para as pernas.
+- **Ponha a mesa.** Entregue um tipo de item por vez, e arrume um lugar você mesmo, como modelo.
+- **Ajude com o jantar.** Lavar batatas, rasgar alface ou mexer uma tigela. Você cuida das facas e do fogo.
+- **Varra, tire o pó ou limpe.** Um pano para a mesa, uma vassoura leve para a varanda.
 
-See [household tasks](/activities/household-tasks/) for many more.
+Veja [tarefas domésticas](/activities/household-tasks/) para muitas outras ideias.
 
-### Music and movement
+### Música e movimento
 
-- **Sing old favorites.** Start singing yourself; many people join in on songs they have known for decades. See [music activities](/activities/music/).
-- **Dance freely.** Sway, clap or move however feels good. Seated is fine.
-- **Toss a balloon.** It moves slowly and is easy to catch from a chair.
-- **Take a guided walk.** Walk a short, familiar loop together, arm in arm if that helps.
+- **Cante as músicas antigas preferidas.** Comece cantando você mesmo; muitas pessoas acompanham canções que conhecem há décadas. Veja [atividades com música](/activities/music/).
+- **Dance à vontade.** Balance-se, bata palmas ou mexa-se como for mais agradável. Sentado também vale.
+- **Jogue um balão.** Ele se move devagar e é fácil de pegar de uma cadeira.
+- **Faça uma caminhada guiada.** Percorram juntos um trajeto curto e conhecido, de braço dado se isso ajudar.
 
-### Pictures and stories
+### Figuras e histórias
 
-- **Look through a photo album.** Comment on what you see rather than asking questions: "Look at that car. Tell me about it." See [reminiscence activities](/activities/reminiscence/).
-- **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open, no-quiz prompt.
-- **Watch an old movie together.** Pick a familiar one, stay nearby and pause for breaks.
+- **Olhe um álbum de fotos.** Comente o que vê em vez de fazer perguntas: "Olhe aquele carro. Conte-me sobre ele." Veja [atividades de lembrança](/activities/reminiscence/).
+- **Use cartas de conversa.** [Cartas de conversa](/games/conversation-cards/) combinam uma figura com um convite aberto, sem formato de prova.
+- **Assistam juntos a um filme antigo.** Escolham um conhecido, fiquem por perto e façam pausas.
 
-### Simple, pressure-free games
+### Jogos simples, sem pressão
 
-- **Picture pairs with pictures showing.** [Picture pairs](/games/picture-pairs/) lets pictures stay visible, so it is about noticing, not remembering.
-- **Find the same.** [Find the same](/games/find-the-same/) shows one picture and just two to four choices.
-- **Sort together.** [Sort together](/games/sort-together/) is like sorting the laundry on screen: tap a picture, then its basket.
-- **Picture bingo.** [Picture bingo](/games/picture-bingo/) works well for family gatherings and groups.
+- **Pares de figuras com as figuras à vista.** [Pares de figuras](/games/picture-pairs/) mantém as figuras visíveis, então o foco é perceber, não lembrar.
+- **Encontre a mesma.** [Encontre a mesma](/games/find-the-same/) mostra uma figura e apenas duas a quatro opções.
+- **Separe juntos.** [Separar juntos](/games/sort-together/) é como separar roupas na tela: toque em uma figura e depois na cesta dela.
+- **Bingo de figuras.** [Bingo de figuras](/games/picture-bingo/) combina bem com reuniões de família e grupos.
 
-If a game starts to cause frustration, stop and do something else. See [how to play together](/caregiving/how-to-play-together/).
+Se um jogo começar a causar frustração, pare e faça outra coisa. Veja [como brincar juntos](/caregiving/how-to-play-together/).
 
-## Turning restlessness into an activity
+## Transformar a inquietação em atividade
 
-Restless or repetitive behavior often has a reason. The Family Caregiver Alliance points out that a person who keeps emptying a closet may be trying to meet a need to feel busy and productive. The Alzheimer's Association suggests redirecting such energy into a matching activity, rather than stopping it.
+Comportamentos inquietos ou repetitivos muitas vezes têm um motivo. A Family Caregiver Alliance observa que uma pessoa que não para de esvaziar um armário pode estar tentando atender à necessidade de se sentir ocupada e produtiva. A Alzheimer's Association sugere direcionar essa energia para uma atividade de organização, em vez de tentar impedi-la.
 
-| What you see | Something to offer |
+| O que você vê | O que oferecer |
 | --- | --- |
-| Rubbing or picking at a table | A damp cloth and a request to wipe the table |
-| Restless feet or tapping | Music with a clear beat to tap or clap along to |
-| Emptying drawers or closets | A basket of clothes or washcloths to fold and sort |
-| Asking the same question again | Reassurance, then a song or a chore to share |
-| Pacing | A walk together, or a job that involves carrying things |
-| Late-afternoon unease | A calm, familiar task in good light; see [late-day restlessness](/caregiving/late-day-restlessness/) |
+| Esfregar ou mexer em uma mesa | Um pano úmido e um pedido para limpar a mesa |
+| Pés inquietos ou batendo os dedos | Música com um ritmo claro para bater palmas ou acompanhar |
+| Esvaziar gavetas ou armários | Uma cesta de roupas ou panos para dobrar e separar |
+| Fazer a mesma pergunta de novo | Tranquilize, depois ofereça uma música ou uma tarefa para fazer juntos |
+| Andar de um lado para o outro | Uma caminhada juntos, ou uma tarefa que envolva carregar algo |
+| Inquietação no fim da tarde | Uma tarefa calma e familiar, com boa luz; veja [inquietação no fim do dia](/caregiving/late-day-restlessness/) |
 
-## When to stop or change course
+## Quando parar ou mudar de rumo
 
-Stop when you see signs of tiredness, frustration, embarrassment or boredom, such as fidgeting, frowning, pushing things away or saying "I can't." The Alzheimer's Association suggests trying again at a different time of day or making the activity simpler. Do not force it. A refusal may come from fear or from the task being too hard; see [when they say no](/caregiving/when-they-say-no/).
+Pare quando notar sinais de cansaço, frustração, constrangimento ou tédio, como se mexer sem parar, franzir a testa, afastar as coisas ou dizer "não consigo". A Alzheimer's Association sugere tentar de novo em outro horário do dia ou deixar a atividade mais simples. Não force. Uma recusa pode vir do medo ou de a tarefa estar difícil demais; veja [quando ela diz não](/caregiving/when-they-say-no/).
 
-Ending early is fine. So is just sitting together with a cup of tea. As abilities change further, the ideas in [late-stage activities](/activities/late-stage/) may fit better, and [101 activities](/activities/ideas/) has many more to try.
+Terminar cedo é normal. Também é normal apenas sentar juntos com uma xícara de chá. Conforme as capacidades mudarem ainda mais, as ideias em [atividades para a fase avançada](/activities/late-stage/) podem servir melhor, e [101 atividades](/activities/ideas/) tem muitas outras para experimentar.

@@ -1,33 +1,33 @@
 ---
-title: "Group Activities for Dementia: A Guide for Care Homes and Day Programs"
-seoTitle: "Group Activities for Dementia: Bingo, Songs, Stories"
-description: "Group activities for memory care, nursing homes and adult day programs: picture bingo, sing-alongs and reminiscence groups, plus seating and group size tips."
+title: "Gruppenaktivitéiten fir Demenz: e Guide fir Altersheemer an Tagesprogrammer"
+seoTitle: "Gruppenaktivitéiten fir Demenz: Bingo, Lidder, Geschichten"
+description: "Gruppenaktivitéiten fir Erënnerungspflee, Pflegeheemer a Tagesprogrammer fir erwuessen Leit: Bildbingo, Mëtsingen an Erënnerungsgruppen, plus Tipps zu Sëtzplazen an Gruppegréisst."
 section: activities
 order: 12
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good group activities in memory care and adult day programs are short,
-  familiar and easy to join at any level: picture bingo, sing-alongs,
-  reminiscence circles, simple movement and shared word games. Keep groups
-  small where you can, seat people so everyone can see and hear, give one clear
-  step at a time, and plan an easier role and a quiet exit for anyone who needs
-  one.
+  Gutt Gruppenaktivitéiten an der Erënnerungspflee an an Tagesprogrammer sinn
+  kuerz, vertraut a fir all Niveau einfach mat ze maachen: Bildbingo, Mëtsingen,
+  Erënnerungsrenghen, einfach Bewegung a gemeinsam Wuerspiller. Hält d'Gruppen
+  wa méiglech kleng, setzt d'Leit sou, datt jiddereen gesäit a héieren
+  kann, gitt ee kloere Schrëtt op eemol a plangt eng méi einfach Roll an en
+  roueg Ausstig fir déi, déi et brauchen.
 keyPoints:
-  - "Smaller groups often work better than one large event, and they let more people take an active part rather than just watch."
-  - "Seat people in a circle or horseshoe, close to the leader, with hearing and vision needs in mind and background noise turned off."
-  - "Plan each activity at two or three levels so people with different abilities can all join in."
-  - "Avoid quizzing, scoring and winners. Picture bingo can be played with everyone ending up with a full card."
-  - "Leaving early, watching, or dozing off is fine. Have a staff member ready to support anyone who wants a quieter space."
+  - "Kleng Gruppe funktionéieren dacks besser wéi eng grouss Veranstaltung, a si loossen méi Leit aktiv matmaachen, net nëmmen zouekucken."
+  - "Setzt d'Leit an e Krees oder Hufeisen, no bei der Leedung, mat Gedanken un Gehéier- a Gesiichtsbedierfnisser, a mat ausgeschalte Hannergrondgeräischer."
+  - "Plangt all Aktivitéit op zwee oder dräi Niveauen, sou datt Leit mat ënnerschiddlechen Fäegkeeten all matmaachen kënnen."
+  - "Vermeit Quiz, Punkten a Gewënner. Bildbingo kann so gespillt ginn, datt jiddereen eng voll Kaart huet."
+  - "Fréi goen, zouekucken oder ageschlofen ass a Rendnung. Hält eng Mataarbechterin oder en Mataarbechter prett, déi oder deen eng roueg Plaz wëllt."
 faq:
-  - q: "What is a good group size for dementia activities?"
-    a: "There is no single correct number, and it depends on the residents, the room and how many staff you have. Many teams find that small groups let everyone see, hear and take part, while large-room events tend to leave more people watching. If you run a large event, add staff or volunteers who can sit among residents and help one or two people each."
-  - q: "How do I run a group with mixed abilities?"
-    a: "Plan more than one way to join each activity. In a sing-along, some people sing every word, some clap or hum, and some hold a shaker. In picture bingo, some people find their own pictures while a helper points for others. Seat people who need more help next to a staff member or volunteer."
-  - q: "How do I play picture bingo without making it competitive?"
-    a: "Call every picture until everyone's card is full, so no one is left out. Talk about each picture as it comes up, and skip prizes for winners or give everyone the same small treat. The point is shared attention and conversation, not who finishes first."
-  - q: "Can I use your games on a big screen in a group?"
-    a: "Yes. Our games run in a web browser, so you can open them on a laptop or tablet connected to a TV or projector. Picture Bingo includes printable cards and an on-screen caller. Finish the Saying and Picture Pairs also work well on a big screen with one person tapping for the group."
+  - q: "Wéi eng Gruppegréisst ass gutt fir Demenz-Aktivitéiten?"
+    a: "Et gëtt keng eenzeg richteg Zuel. Et hänkt vun de Bewunner, dem Raum an der Zuel vun de Mataarbechter of. Vill Teams stellen fest, datt kleng Gruppe jiddereen d'Sich, d'Gehéier an d'Bedeelegung erlaben, wärend an groussen Sallen dacks méi Leit nëmmen zekucken. Wann Dir eng grouss Veranstaltung maacht, bréngt Mataarbechter oder Fräiwëlleger derbäi, déi tëscht de Bewunner sëtzen an jeeweils een oder zwou Leit ënnerstëtzen."
+  - q: "Wéi leet ech eng Grupp mat ënnerschiddleche Fäegkeeten?"
+    a: "Plangt méi wéi een Wee fir all Aktivitéit mat ze maachen. Beim Mëtsingen singen e puer Leit all Wuert, anerer klatschen oder summen, an anerer hale eng Rassel. Beim Bildbingo fanne Leit hir Biller selwer, während e Helfer fir anerer weist. Setzt Leit, déi méi Hëllef brauchen, neewent eng Mataarbechterin oder e Fräiwëllegen."
+  - q: "Wéi spillt ee Bildbingo, ouni et kompetitiv ze maachen?"
+    a: "Rufft all Bild op, bis d'Kaart vun jiddwerengem voll ass, sou datt keen ausgeschloss gëtt. Schwätzt bei all Bild iwwer d'Bild, an verzicht op Präisser fir Gewënner oder gëtt jiddwerengem dee selwechten klenge Schlécken. Et geet ëm gemeinsam Opmierksamkeet a Gespréich, net ëm wien als Éischten fäerdeg ass."
+  - q: "Kann ech Är Spiller an enger Grupp op engem grousse Bildschierm benotzen?"
+    a: "Jo. Eis Spiller lafen am Webbrowser, dofir kënnt Dir se op engem Laptop oder Tablet opmaachen, dee mat engem Fernseher oder engem Projektor verbonne ass. Bildbingo enthält druckbar Kaarten a eng Ruffstëmm um Bildschierm. Saz fäerdegmaachen an Bildpaaren funktionéieren och gutt op engem grousse Bildschierm, wann eng Persoun fir d'Grupp tippt."
 sources:
   - title: "Alzheimer's Association Dementia Care Practice Recommendations"
     publisher: "Alzheimer's Association (The Gerontologist, 2018)"
@@ -52,132 +52,132 @@ related: [activities/music, activities/reminiscence, activities/printable, activ
 health: false
 ---
 
-This guide is for activity directors, memory care teams and adult day program leaders. It covers group formats that work, room setup, adapting one activity for mixed abilities, and using our printable bingo cards and big-screen games. Everything here aims at comfort, connection and choice. Nothing here is a test.
+Dëse Guide ass fir Aktivitéitsleeder, Erënnerungspflee-Teams a Leeder vun Tagesprogrammer fir erwuessen Leit. Hie beschreift Gruppenformate, déi funktionéieren, d'Raumariichtung, d'Upassung vun enger Aktivitéit fir gemëscht Fäegkeeten an d'Benotzung vun eise druckbaren Bingo-Kaarten an de Spiller op engem grousse Bildschierm. Alles hei zielt op Komfort, Verbindung an Auswiel. Näischt hei ass en Test.
 
-## What makes a group activity work in memory care?
+## Wat mécht eng Gruppenaktivitéit an der Erënnerungspflee funktionéieren?
 
-A good group activity is familiar, short, easy to join at any level and free of pressure. The Alzheimer's Association's [Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) describe meaningful engagement as something that supports a person's interests and preferences and allows for choice and success, even when dementia is most severe. The same document notes that traditional programs often rely on one or two large group events a day in which residents are often only passively engaged.
+Eng gutt Gruppenaktivitéit ass vertraut, kuerz, fir all Niveau einfach mat ze maachen a fräi vun Drock. D'[Dementia Care Practice Recommendations](https://www.alz.org/getmedia/1a0020aa-0bfb-47ac-a545-1dd8a3ee1444/alzheimers-dementia-care-practice-recommendations.pdf) vun der Alzheimer's Association beschreiwen sënnvoll Bedeelegung als eppes, dat d'Interesse an d'Virléiften vun enger Persoun ënnerstëtzt a Auswiel an Erfolleg erlaabt, och wann d'Demenz am schwéierste ass. Dat selwecht Dokument hält fest, datt traditionell Programmer dacks op een oder zwee grouss Gruppenevenementer pro Dag setzen, bei deenen d'Bewunner dacks nëmmen passiv dobäi sinn.
 
-That points to a few practical rules:
+Dat féiert zu e puer praktesche Regelen:
 
-- **Familiar beats new.** Songs, sayings, pictures and objects from residents' younger years are easier to join.
-- **Short beats long.** Plan for about the length of attention your group usually has, with a natural stopping point partway through.
-- **Doing beats watching.** Give each person something to hold, tap, choose or say.
-- **Many levels, one activity.** Build in easier and harder ways to take part.
-- **No winners, no scores.** Competitive formats leave some people feeling they failed.
+- **Vertraut schléit neit.** Lidder, Sprëch, Biller a Géigenstänn aus de jonken Joren vun de Bewunner si méi einfach mat ze maachen.
+- **Kuerz schléit laang.** Plangt fir déi Opmierksamkeet, déi Är Grupp normalerweis huet, mat engem natierlechen Ënnerbriechungspunkt an der Mëtt.
+- **Maachen schléit kucken.** Gitt jiddwerengem eppes an d'Hand, zum Tippen, Auswielen oder Soen.
+- **Vill Niveauen, eng Aktivitéit.** Bitt liichtere a schwéiere Weeër fir matzemaachen.
+- **Keng Gewënner, keng Punkten.** Kompetitiv Formater loossen e puer Leit mat dem Gefill, versot ze hunn.
 
-## How big should the group be?
+## Wéi grouss soll d'Grupp sinn?
 
-Smaller is usually easier. The Alzheimer's Association notes that a person who finds a large gathering overwhelming may interact more successfully in a smaller group. There is no single correct number. It depends on the residents, the room and how many staff and volunteers are available.
+Méi kleng ass normalerweis méi einfach. D'Alzheimer's Association mierkt un, datt eng Persoun, déi eng grouss Versammlung iwwerfuerdernd fënnt, a enger klenger Grupp méi erfollegräich interagéiere kann. Et gëtt keng eenzeg richteg Zuel. Et hänkt vun de Bewunner, dem Raum an der Zuel vun de Mataarbechter a Fräiwëllegen of.
 
-A useful test: can every person see the leader's face, hear clearly and be reached by a helper within a few seconds? If not, split the group, add helpers, or move to a smaller room.
+E nëtzleche Test: Kann jiddereen d'Gesiicht vun der Leedung gesinn, kloer héieren a sech bannent e puer Sekonnen vun engem Hellefer erreechen? Wann net, deelt d'Grupp, bréngt méi Hellefer derbäi oder geet an en méi klenge Raum.
 
-For a large event, such as a holiday concert, seat staff and volunteers among residents, not along the walls.
+Bei enger grousser Veranstaltung, wéi engem Feierdeeges-Concert, setzt Mataarbechter a Fräiwëlleger tëscht d'Bewunner, net laanscht d'Wänn.
 
-## How should I set up the room and seating?
+## Wéi soll ech de Raum an d'Sëtzplazen astellen?
 
-- **Circle or horseshoe.** The practice recommendations describe a sharing circle as best in a space large enough for everyone to sit in a circle, with no background noise.
-- **Leader close and at eye level.** Sit rather than stand when you can.
-- **Hearing and vision first.** Seat people with hearing loss nearest the leader, on their better side. Make sure glasses and hearing aids are on. The Alzheimer's Association notes that vision and hearing problems can make communication harder.
-- **Light from behind residents, not behind you.** Avoid seating anyone facing a bright window.
-- **Turn off the TV and radio.** The Alzheimer's Association advises removing competing noise during music activities.
-- **One conversation at a time.** Cross talk is hard for people living with dementia and people with hearing loss, as the Alzheimer's Association points out in its [holiday guidance](https://www.alz.org/help-support/caregiving/holidays).
-- **Clear exits and a quiet corner.** Anyone who wants to leave should be able to do so easily, with a staff member to walk with them.
+- **Krees oder Hufeisen.** D'Praxisempfehlungen beschreiwen e Gespréichskrees als am beschten, a engem Raum, dee grouss genuch ass, datt jiddereen am Krees sëtze kann, ouni Hannergrondgeräisch.
+- **Leedung no a mat den Aen op der selwechter Héicht.** Setzt Iech, wann Dir kënnt, anstatt ze stoen.
+- **Gehéier an Sicht ganz vir.** Setzt Leit mat Gehéierverloscht bei der Leedung op hirer besser Säit. Vergewëssert Iech, datt Brëller a Hörgeräter un sinn. D'Alzheimer's Association mierkt un, datt Seh- a Gehéierprobleemer d'Kommunikatioun schwéieren kënnen.
+- **Liicht hannert de Bewunner, net hannert Iech.** Vermeit, datt jiddereen mat dem Gesiicht zu engem hellen Fënster sëtzt.
+- **Fernseher a Radio ausschalten.** D'Alzheimer's Association rät, konkurrierend Geräischer bei Musekaktivitéiten ewechzehuelen.
+- **Ëmmer ee Gespréich op eemol.** Duerchneen Schwätzen ass schwéier fir Leit mat Demenz an Leit mat Gehéierverloscht, wéi d'Alzheimer's Association an hirer [Feierdeeges-Orientéierung](https://www.alz.org/help-support/caregiving/holidays) betount.
+- **Kloer Ausgäng an eng roueg Eck.** Jiddereen, deen goe wëll, soll dat einfach kënnen, mat enger Mataarbechterin oder engem Mataarbechter, déi oder deen mat geet.
 
-## Group activity ideas
+## Gruppenaktivitéitsiddien
 
-### Picture bingo
+### Bildbingo
 
-Picture bingo replaces numbers with clear pictures, such as a teapot, a dog or a rose, so no one has to track a long number or read small print.
+Bildbingo ersetzt d'Zuelen duerch kloer Biller, wéi eng Téiskanne, e Hond oder eng Ros, sou datt keen eng laang Zuel verfollege oder klenge Text liese muss.
 
-**How to run it:**
+**Wéi een et leet:**
 
-1. Print one card per person from our [Picture Bingo](/games/picture-bingo/) page using the Print button. Heavy paper is easier to handle. Laminate for reuse.
-2. Give out large, easy-to-pick-up markers, such as poker chips, bottle caps or cut squares of card.
-3. Use the on-screen caller on a TV or projector so everyone sees the picture as you say its name.
-4. Pause after each picture and invite a short comment: "Would anyone like to tell us about a dog they knew?" or "What do you notice about this one?"
-5. Keep calling until every card is full. Everyone finishes.
+1. Druckt eng Kaart pro Persoun vun eiser [Bildbingo](/games/picture-bingo/)-Säit mat dem Drock-Knäppchen. Dickt Pabeier ass méi einfach ze handhaben. Laminéiert se fir d'Wiederverwendung.
+2. Gitt gréisser, einfach ze gräifend Marker aus, wéi Pokerchips, Fläschendeckelen oder ausgeschniddene Kartongquadrater.
+3. Benotzt d'Ruffstëmm um Bildschierm op engem Fernseher oder Projektor, sou datt jiddereen d'Bild gesäit, wann Dir de Numm sot.
+4. Hält no all Bild an, a luet zu enger kuerzer Bemierkung ënn: „Wiem wier et recht, eis vun engem Hond ze erzielen, deen hien kannt huet?“ oder „Wat fält Iech bei dësem op?“
+5. Rufft weider, bis all Kaart voll ass. Jiddereen fäerdegt.
 
-**Adapting it:** Use fewer squares for people who find a full card too busy. A helper can point to the matching picture for someone who needs it. Some people may prefer to hold the caller's picture card and show it to the group.
+**Upassung:** Benotzt weniger Quadrater fir Leit, déi eng voll Kaart ze vill fannen. E Helfer kann fir eng Persoun op dat passend Bild weisen, wann si dat brauch. E puer Leit hale léiwer d'Bildkaart vum Ruffer a weisen se der Grupp.
 
-### Sing-alongs
+### Mëtsingen
 
-Music is one of the most widely enjoyed group activities. The Alzheimer's Association notes that even in late stages, a person may be able to [tap a beat or sing a song from childhood](https://www.alz.org/help-support/caregiving/daily-care/art-music).
+Musek ass eng vun de meescht gär genoossene Gruppenaktivitéiten. D'Alzheimer's Association mierkt un, datt eng Persoun souguer an spéiden Phasen nach ëmmer [am Takt klappe oder e Lidd aus der Kandheet singe kann](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
-**How to run it:**
+**Wéi een et leet:**
 
-- Choose songs residents grew up with, not the leader's favorites. Ask families what each person loved.
-- Use music without commercials, which the Association notes can be confusing.
-- Print lyrics in large type for those who read, but do not require it.
-- Offer shakers, hand drums or scarves to wave.
-- Encourage clapping and movement, and keep the volume comfortable.
+- Wielt Lidder, mat deenen d'Bewunner opgewuess sinn, net d'Liiblingsliddere vun der Leedung. Freet d'Famill, wat all Persoun gär hat.
+- Benotzt Musek ouni Reklammen, déi d'Association als verwiirrend bezeechent.
+- Druckt d'Texter a grousser Schrëft fir déi, déi liesen, verlaangt et awer net.
+- Bitt Rasselen, Handtrommelen oder Tichen zum Wénken un.
+- Ermutegt zum Klatschen an zur Bewegung a hält d'Lautstäerkt bequem.
 
-**Adapting it:** Some people will sing every word, some will hum, some will tap a foot, and some will simply listen. All of these count. See our [music activities guide](/activities/music/) for more.
+**Upassung:** E puer Leit singen all Wuert, anerer summen, anerer kléngen mat dem Fouss, an anerer lauschteren eleng. All dat zielt. Méi fannt Dir an eisem [Musek-Guide](/activities/music/).
 
-### Reminiscence groups
+### Erënnerungsgruppen
 
-A reminiscence group gathers around a theme, such as school days, first cars, kitchens or summer, using photos, objects and music. The aim is pleasant conversation, not accurate recall.
+Eng Erënnerungsgrupp versammelt sech ronderëm en Thema, wéi Schoulzäit, éischt Autoen, Küchen oder Summer, mat Fotoe, Géigestänn a Musek. Ziel ass en agenehmt Gespréich, net richteg Erënnerung.
 
-**How to run it:**
+**Wéi een et leet:**
 
-1. Pick one theme and bring a few objects people can hold: a hand mixer, a baseball glove, a hat, a seed catalog.
-2. Pass one object at a time. Ask open questions: "Tell me about this," "What do you notice?" "Who used something like this?"
-3. Welcome every answer. Never correct a date or fact.
-4. Guide the talk toward warm memories. The practice recommendations note that care providers should steer reminiscence toward positive memories rather than ones that may cause distress.
+1. Wielt ee Thema a bréngt e puer Géigestänn mat, déi d'Leit an der Hand hale kënnen: en Handmixer, en Baseballhandschong, en Hutt, en Saatkatalog.
+2. Gitt ëmmer ee Géigestand weider. Stellt oppe Froen: „Erzielt mir dorunner.“ „Wat fält Iech op?“ „Wien huet sou eppes benotzt?“
+3. Begréisst all Äntwert. Korrigéiert ni e Datum oder en Fakt.
+4. Lenkt de Gespréich a warm Erënnerungen. D'Praxisempfehlungen mierken un, datt Pflegekräfte d'Erënnerung op positiv Erënnerungen lenke sollen, net op déi, déi Stress verursaache kënnen.
 
-[Conversation Cards](/games/conversation-cards/) offers printable picture cards with open prompts by theme that work well as discussion starters. More ideas are in our [reminiscence guide](/activities/reminiscence/).
+[Gesprächskaarten](/games/conversation-cards/) bitt druckbar Biller mat oppene Froen no Thema, déi gutt als Gesprächsufank funktionéieren. Méi Iddien stinn an eisem [Erënnerungs-Guide](/activities/reminiscence/).
 
-### Finish the saying
+### Saz fäerdegmaachen
 
-Familiar sayings ("A penny saved is a penny...") invite everyone to call out the ending together. Show [Finish the Saying](/games/finish-the-saying/) on a big screen and let the group answer as one voice. There is a talking prompt after each saying. If no one says the ending, show it and move on. There is no right or wrong.
+Vertraut Sprëch („Ee gespuert Cent ass ee Cent...“) lueden jiddereen an, d'Schluss zesummen ze ruffen. Weist [Saz fäerdegmaachen](/games/finish-the-saying/) op engem grousse Bildschierm a loosst d'Grupp mat enger Stëmm äntweren. Nom all Sprooch gëtt et e Gesprächsimpuls. Wann keen den Schluss sot, weist en an d'Leeschtung geet weider. Et gëtt kee richtegt oder falsches.
 
-### Large-print word search, together
+### Gemeinsam Wuerspill mat grousser Schrëft
 
-Project the large-print [Word Search](/games/word-search/) on a screen and look for words as a group, or print copies for those who enjoy working on their own at the table. Words run only across and down.
+Projizéiert de [Wuerspill](/games/word-search/) mat grousser Schrëft op en Bildschierm a sicht d'Wierder als Grupp, oder druckt Exemplaren fir déi, déi laanschtaus um Dësch alleng schaffe wëllen. D'Wierder lafen nëmme horizontal a vertikal.
 
-### Gentle movement
+### Sanft Bewegung
 
-Seated stretches, passing a soft ball or balloon, or chair dancing to familiar music. Demonstrate each move rather than describing it.
+Sëtzend Dehnübungen, en weiche Ball oder en Ballon weiderginn, oder e Stull-Danz zu vertrauter Musek. Maacht all Bewegung virun, anstatt se nëmmen ze beschreiwen.
 
-### Sorting and matching at the table
+### Sortéieren a Passen um Dësch
 
-Small tables of three to four people can sort pictures, fabric swatches or silverware together. On screen, [Picture Pairs](/games/picture-pairs/) can be played with pictures left visible, with one person tapping while the table talks about each picture.
+Kleng Dëscher mat dräi bis véier Leit kënnen zesummen Biller, Stoffmuster oder Besteck sortéieren. Um Bildschierm kann [Bildpaaren](/games/picture-pairs/) gespillt ginn, mat sichtbare Biller, wann eng Persoun tippt, während de Rescht vum Dësch iwwer all Bild schwätzt.
 
-## How do I use your games on a big screen?
+## Wéi benotze ech eis Spiller op engem grousse Bildschierm?
 
-Our games run in a web browser, so you can use them on a TV or projector without installing anything.
+Eis Spiller lafen am Webbrowser, dofir kënnt Dir se op engem Fernseher oder Projektor benotzen, ouni eppes z'installéieren.
 
-1. Open the game on a laptop or tablet connected to the screen by cable or casting.
-2. Make the browser full screen and set the sound to a comfortable level.
-3. Have one leader do the tapping while the group calls out choices. Or pass a tablet to a resident who wants a turn.
-4. Stop whenever the group is ready. The games have no timer, score or forced finish.
+1. Maacht de Spill op engem Laptop oder Tablet op, dee mat Kabel oder Casting mam Bildschierm verbonne ass.
+2. Stellt de Browser op Vollbild an d'Tounlautstäerkt op e bequeme Niveau.
+3. Loosst eng Leedung tippen, während d'Grupp d'Auswiel ruffen. Oder gitt e Tablet un eng Bewunnerin oder en Bewunner weider, déi oder deen en Tour wëllt.
+4. Hält un, wann d'Grupp prett ass. D'Spiller hunn kee Timer, keng Punkten an kee Muss fir fäerdeg ze ginn.
 
-[Picture Bingo](/games/picture-bingo/), [Finish the Saying](/games/finish-the-saying/), [Picture Pairs](/games/picture-pairs/) and [Conversation Cards](/games/conversation-cards/) tend to suit groups best. See all options on our [games page](/games/).
+[Bildbingo](/games/picture-bingo/), [Saz fäerdegmaachen](/games/finish-the-saying/), [Bildpaaren](/games/picture-pairs/) an [Gesprächskaarten](/games/conversation-cards/) passen am beschte fir Gruppen. All Optiounen fannt Dir op eiser [Spillsäit](/games/).
 
-## How do I adapt one activity for mixed abilities?
+## Wéi pass ech eng Aktivitéit fir gemëscht Fäegkeeten un?
 
-Plan at least three ways to join every activity.
+Plangt op d'mannst dräi Weeër, fir all Aktivitéit mat ze maachen.
 
-| Activity | More independent | Some support | Most support |
+| Aktivitéit | Méi selbstänneg | E bëssen Ënnerstëtzung | Vill Ënnerstëtzung |
 | --- | --- | --- | --- |
-| Picture bingo | Finds and covers own pictures | Helper points; person covers | Holds a picture card; listens and watches |
-| Sing-along | Sings, picks next song | Hums, claps, uses a shaker | Listens, holds a scarf, taps a hand |
-| Reminiscence | Tells stories | Answers yes-or-no or points | Holds and feels the object |
-| Word search | Works own printed copy | Finds words on the big screen with a helper | Listens as words are read out |
+| Bildbingo | Fënnt an deckt eegen Biller of | Helfer weist; Persoun deckt of | Hält eng Bildkaart; lauschtert a kuckt zou |
+| Mëtsing | Singt, wielt dat nächst Lidd | Summt, klatscht, benotzt eng Rassel | Lauschtert, hält e Schal, tippt op d'Hand |
+| Erënnerung | Erzielt Geschichten | Äntwert mat Jo oder Nee oder weist | Hält den Objet a fillt en un |
+| Wuerspill | Schafft mat der eegener gedrécker Kopie | Fënnt Wierder um grousse Bildschierm mat engem Helfer | Lauschtert, wann d'Wierder virgelies ginn |
 
-For residents in later stages, the NHS notes that activities usually need to be simpler and focus more on the senses, such as music, objects to touch and hand massage. A one-to-one moment during or after the group may suit them better than the group itself. See [late-stage activities](/activities/late-stage/).
+Fir Bewunner an spéiden Phasen seet den NHS, datt Aktivitéiten normalerweis méi einfach sinn a sech méi op d'Sënner konzentréieren, wéi Musek, Géigestänn zum Beréieren an eng Handmassage. E Moment ënner véier Ae kann hinnen während oder nom Gruppenaktivitéit besser passen wéi d'Grupp selwer. Kuckt [Aktivitéiten an der spéider Phase](/activities/late-stage/).
 
-## How should leaders talk during a group?
+## Wéi soll d'Leedung wärend enger Grupp schwätzen?
 
-- Introduce yourself each time, and use each person's preferred name.
-- Speak slowly, give one step at a time, and show before you tell.
-- Ask open invitations ("Tell me about...") or simple choices, never quiz questions ("Do you remember...?").
-- Do not correct. Thank people for every contribution.
+- Stellt Iech all Kéier vir a benotzt de Numm, dee jiddereen gär huet.
+- Schwätzt lues, gitt ëmmer ee Schrëtt op eemol a weist, ier Dir erzielt.
+- Stellt oppe Aufrufer („Erzielt mir vun...“) oder einfach Auswielen, ni Quizfroen („Erënnert Dir Iech...?“).
+- Korrigéiert net. Dankt bei all Bäitrag.
 
-More on this is in our [communication tips](/caregiving/communication-tips/).
+Méi doriwwer steet an eise [Kommunikatiounstipps](/caregiving/communication-tips/).
 
-## Ending well, and letting people leave
+## Gutt ofschléissen a Leit gehe loossen
 
-Stopping is a good outcome. Watch for signs that someone is tired, restless or upset, and have a helper offer a walk or a quiet seat elsewhere. Someone dozing off during a sing-along may simply be comfortable.
+Opzehalen ass e gudden Resultat. Oppasse fir Zeechen, datt iergendeen middeg, onroueg oder opgereegt ass, a loosst e Helfer en Spadséiergang oder e roueg Sëtz op enger anerer Plaz uebidden. Wann een während engem Mëtsing ageschlof, ass hien oder si vläicht einfach zefridden.
 
-Close every group the same way, with a familiar song or a simple thank-you, so the ending feels calm and expected. Afterward, jot down what worked and who enjoyed what. Those notes make the next session better.
+Schléisst all Grupp op dee selwechte Wee of, mat engem vertraute Lidd oder engem einfachen Merci, sou datt den Enn roueg a virauszesinn ass. Schreift duerno op, wat gutt funktionéiert huet a wien wat genoss huet. Dës Notizen maachen déi nächst Sëtzung besser.

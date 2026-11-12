@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Nemokamos spausdinamos veiklos demencijai"
+seoTitle: "Nemokamos spausdinamos veiklos demencijai: didelis šriftas"
+description: "Nemokamos spausdinamos veiklos demencijai: žodžių paieška didelėmis raidėmis, spalvinimas, pokalbio kortelės ir paveikslėlių bingas bei patarimai, kaip spausdinti."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments siūlo nemokamas spausdinamas veiklas demencijai: žodžių
+  paiešką didelėmis raidėmis, spalvinimo puslapius, paveikslėlių pokalbio
+  korteles ir paveikslėlių bingo korteles. Atidarykite bet kurį žaidimo
+  puslapį ir naudokite jo spausdinimo mygtuką. Spausdinkite stambiu, aiškiu
+  šriftu ant tankaus popieriaus, po vieną užduotį puslapyje ir laminuokite
+  puslapius, kuriuos norite naudoti pakartotinai.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Mūsų spausdinamos veiklos nemokamos: žodžių paieška, spalvinimas, pokalbio kortelės ir paveikslėlių bingas. Kiekviename žaidimo puslapyje yra spausdinimo mygtukas."
+  - "Spausdinkite stambiu, paprastu šriftu su dideliu kontrastu ir po vieną užduotį puslapyje."
+  - "Tankus popierius ar kartonas lengviau laikomas ir mažiau susiglamžo. Laminuokite puslapius, kad juos būtų galima naudoti su nuvalomais markeriais."
+  - "Namuose pagaminti spausdinti lapai, pavyzdžiui, gyvenimo istorijos puslapis, dienos tvarkaraštis ar kambarių ženklai, yra paprasti ir naudingi."
+  - "Atspausdintas puslapis yra kvietimas, o ne namų darbas. Dalis jo ar visiškai nieko daryti yra gerai."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Ar jūsų spausdinamos veiklos demencijai nemokamos?"
+    a: "Taip. Žodžių paieška, spalvinimas, pokalbio kortelės ir paveikslėlių bingas šioje svetainėje nemokami naudoti ir spausdinti. Atidarykite žaidimo puslapį ir naudokite spausdinimo mygtuką."
+  - q: "Kurios spausdinamos veiklos geriausiai tinka demencijai?"
+    a: "Geriausi spausdinti lapai yra paprasti, aiškūs ir pritinkantys suaugusiam žmogui: žodžių paieška didelėmis raidėmis, kur žodžiai rašomi tik skersai ir stulpeliais; spalvinimo puslapiai su aiškiais kontūrais; paveikslėlių kortelės, kurios pradeda pokalbį; ir paveikslėlių bingas grupėms. Pritaikykite veiklą žmogaus pomėgiams ir dabartiniams gebėjimams ir po vieną užduotį puslapyje."
+  - q: "Kaip padaryti spausdinamus lapus lengviau matomus ir naudojamus?"
+    a: "Naudokite stambų, paprastą šriftą, tamsų rašalą ant balto ar kreminio popieriaus ir pakankamai vietos. Spausdinkite ant tankaus popieriaus ar kartono, kad lapas gulėtų lygiai, rinkitės matinį popierių, kad sumažintumėte blizgesį, ir naudokite lentelę ar nenuslystantį kilimėlį, kad lapas nejudėtų. Laminavimas padeda jiems ilgiau tarnauti."
+  - q: "Ar galiu atspausdinti jūsų veiklas slaugos namams ar dienos užsiėmimų centrui?"
+    a: "Taip. Veiklos darbuotojai gali spausdinti mūsų puslapius gyventojams ir grupėms. Paveikslėlių bingas sukurtas grupėms ir turi ekrano vedėją, kurį galima rodyti televizoriuje ar projektoriuje."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Kartais geriausia veikla – lapas popieriaus ir pieštukas prie virtuvės stalo. Spausdinamoms veikloms nereikia įkrovimo, slaptažodžių ar ekrano, jas lengva nešti į apsilankymą ar grupę. Šiame puslapyje aprašomos nemokamos spausdinamos veiklos mūsų svetainėje, kaip jas atspausdinti, kad jas būtų lengva matyti ir laikyti, bei keletas paprastų namuose gaminamų spausdinamų lapų, kuriuos šeimos ir veiklų darbuotojai dažnai naudingais laiko.
 
-## What free printable activities do you offer?
+## Kokios nemokamos spausdinamos veiklos siūlomos?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Siūlome keturias nemokamas spausdinamas veiklas. Atidarykite bet kurį iš šių žaidimų puslapių ir naudokite mygtuką **Spausdinti**, kad gautumėte versiją spausdinimui.
 
-| Printable | What it is | Good for |
+| Spausdinamas lapas | Kas tai yra | Tinka |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Žodžių paieška](/games/word-search/) | Žodžių paieška didelėmis raidėmis, kur žodžiai rašomi tik skersai ir stulpeliais | Ramus laikas su pieštuku; žmogui, kuris mėgo galvosūkius |
+| [Spalvinimas](/games/coloring/) | Spalvinimo puslapiai spausdinimui arba spalvinimui ekrane | Ramus, kūrybingas laikas; bet kuriai stadijai su pagalba |
+| [Pokalbio kortelės](/games/conversation-cards/) | Paveikslėlių kortelės su atviromis, testo neprimenančiomis pokalbio užuominomis pagal temas | Apsilankymai, skambučiai, šeimos valgiai, prisiminimų grupės |
+| [Paveikslėlių bingas](/games/picture-bingo/) | Bingo kortelės su paveikslėliais vietoj skaičių ir ekrano vedėjas | Slaugos namai, dienos užsiėmimų centrai, šeimos susibūrimai |
 
-### Large-print word search
+### Žodžių paieška didelėmis raidėmis
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Žodžių paieška](/games/word-search/) naudoja stambias raides ir palieka žodžius tik skersai bei stulpeliais, be įstrižų ar atgal rašomų žodžių. Dirbkite kartu: vienas žmogus perskaito žodį iš sąrašo, kitas jo ieško. Jei žodžių rasti sunku, pabandykite kartu apibraukti pirmą kiekvieno žodžio raidę arba tiesiog garsiai perskaityti žodžių sąrašą ir kalbėti apie kiekvieną žodį.
 
-### Coloring pages
+### Spalvinimo puslapiai
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Spalvinimo](/games/coloring/) puslapius galima spausdinti spalvinimui flomasteriais ar spalvotais pieštukais arba spalvinti planšetėje, palietus spalvą, o tada paveikslėlio dalį. Spausdintiems puslapiams siūlykite storus flomasterius ir kelias spalvas vienu metu. Kaip išlaikyti spalvinimą suaugusiam ir ramiam, žr. mūsų [meno ir amatų vadovą](/activities/arts-and-crafts/).
 
-### Conversation cards
+### Pokalbio kortelės
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Pokalbio kortelės](/games/conversation-cards/) sieja aiškų paveikslėlį su atvira užuomina, pavyzdžiui: „Papasakok apie...“ ar „Ką pastebi?“ Jos parašytos kaip atviri kvietimai, o ne klausimai testui. Atspausdinkite rinkinį, iškirpkite jį ir laikykite kelias kortelės krepšelyje apsilankymams ar šalia telefono skambučiams. Jos taip pat gerai veikia [prisiminimų](/activities/reminiscence/) grupėse.
 
-### Picture bingo cards
+### Paveikslėlių bingo kortelės
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Paveikslėlių bingo](/games/picture-bingo/) kortelėse vietoj skaičių yra paveikslėliai. Atspausdinkite po vieną kortelę žaidėjui ir naudokite ekrano vedėją nešiojamajame kompiuteryje, televizoriuje ar projektoriuje. Siūlome vesti tol, kol visų kortelės bus pilnos, kad niekas nebūtų paliktas nuošalyje. Kaip vesti tokį užsiėmimą, žr. [grupines veiklas slaugos namams](/activities/care-home-groups/).
 
-## How do I print activities so they are easy to use?
+## Kaip spausdinti veiklas, kad jas būtų lengva naudoti?
 
-Small changes in how you print make a big difference.
+Nedideli spausdinimo pakeitimai daro didelį skirtumą.
 
-### Make it easy to see
+### Padarykite, kad būtų lengva matyti
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Stambus, paprastas šriftas.** Naudokite didžiausią dydį, kuris dar telpa puslapyje. Venkite dekoratyvių ar kaligrafinių šriftų.
+- **Stiprus kontrastas.** Tamsus rašalas ant balto ar kreminio popieriaus. Venkite blankiai pilkų ar spalvotų fonų.
+- **Matinis popierius** sumažina blizgesį po ryškiomis lempomis.
+- **Patikrinkite akinius ir apšvietimą.** „Alzheimer's Association“ pažymi, kad regos ir klausos sutrikimai gali apsunkinti bendravimą, ir pataria juos reguliariai tikrinti. Ryški, tolygi lempa taip pat padeda.
 
-### Make it easy to hold
+### Padarykite, kad būtų lengva laikyti
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Tankus popierius ar kartonas** išlieka lygus, lengvai paimamas ir atlaiko pakartotinį naudojimą.
+- **Lentelė** ar nenuslystantis padėklas neleidžia lapui slysti.
+- **Stori flomasteriai ar stori pieštukai** lengviau laikomi nei plonos rašiklio.
 
-### Make it reusable
+### Padarykite, kad būtų galima naudoti pakartotinai
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Laminuokite puslapius** arba įdėkite juos į skaidrius apsaugos lapus. Naudokite nuvalomus markerius žodžių paieškoms ir bingo kortelėms, o paskui nuvalykite.
+- **Rinkitės matines plėveles**, jei blizgesys kelia problemų, ir **apvalinkite laminuotų kortelių kampus** žirklėmis, kad jas būtų patogu liesti.
+- **Laikykite aplanką** mėgstamiausių lapų, kad nespausdintumėte to paties kiekvieną savaitę.
 
-### Keep it simple
+### Laikykitės paprastumo
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Po vieną užduotį puslapyje.** Viena žodžių paieška ar vienas paveikslėlis, o ne keletas veiklų sumaišytų kartu.
+- **Daug tuščios vietos.** Perkrautas puslapis gali atrodyti priblokštas.
+- **Kur įmanoma, be instrukcijų skaitymo.** Parodykite žmogui, ką daryti.
+- **Sumažinkite lapus.** Jei visas puslapis per daug, perpjaukite jį pusiau ar perlenkite, kad matytųsi tik dalis.
 
-## Other useful printables you can make at home
+## Kiti naudingi spausdinami lapai, kuriuos galite pasigaminti namuose
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ne kiekvienas naudingas spausdinamas lapas yra žaidimas. Šiuos lengva pasigaminti su tekstų rengykle ir spausdintuvu.
 
-### A life-story page
+### Gyvenimo istorijos puslapis
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+Vienas „apie mane“ lapas su nuotrauka, vardu, kuriuo žmogus norėtų, kad į jį kreiptųsi, vietomis, kur jis augo, darbu, šeima, mėgstamu maistu, muzika ir dalykais, kurie jį ramina ar sujaudina. Dementia Australia siūlo [atminimų knygelę](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) su informacija apie žmogaus gyvenimą, pomėgius ir svarbius žmones, kad padėtų lankytojams ir slaugytojams bei paskatintų pokalbį.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Jis ypač naudingas ligoninėse ir naujose slaugos aplinkose. NIA pataria duoti ligoninės darbuotojams [asmeninės informacijos lapą](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital), kuriame nurodomas žmogaus įprastas dienos ritmas, pageidaujamas vardas, mėgstami ir nemėgstami dalykai, galimi dirgikliai ir nebyli skausmo ženklai.
 
-### A daily schedule
+### Dienos tvarkaraštis
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+Didelis, paprastas dienos tvarkaraštis su laikais, keliais žodžiais ir mažu paveikslėliu kiekvienai daliai: pusryčiai, pasivaikščiojimas, pietūs, poilsis, muzika, vakarienė. Alzheimerio asociacijos [dienos priežiūros planas](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) pataria planuoti aplink geriausius žmogaus dienos laikus, su nuolatiniu kėlimosi ir gulimosi laiku bei aktyvumo ir poilsio pusiausvyra. Iškabinkite jį akių aukštyje, pavyzdžiui, ant šaldytuvo, ir laikykite lankstų. Daugiau žr. mūsų [dienos rutinos vadovą](/activities/daily-routine/).
 
-### Picture labels for rooms and drawers
+### Kambarių ir stalčių ženklai su paveikslėliais
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA pataria naudoti ryškius ženklus ar paprastus paveikslėlius, kad [pažymėtumėte vonios, miegamąjį ir virtuvę](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Ta pati idėja tinka stalčiams ir spintelėms: kojinių paveikslėlis ant kojinių stalčiaus, puodelių – ant puodelių spintelės. Atspausdinkite, laminuokite ir prilipdykite.
 
-### A sorting set
+### Rūšiavimo rinkinys
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Atspausdinkite paveikslėlius iš dviejų paprastų kategorijų, pavyzdžiui, vaisiai ir gėlės ar įrankiai ir virtuvės daiktai, ant kartono. Iškirpkite juos ir kartu surūšiuokite į du krepšelius. Ekrano versija tai yra [Rūšiuokite kartu](/games/sort-together/).
 
-### Song lyric sheets
+### Dainų žodžių lapai
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Atspausdinkite kelių mėgstamų dainų žodžius labai dideliu šriftu dainavimui kartu. Net žmonės, kurie nebeskaito daug, gali mėgautis laikydami lapą.
 
-### A family photo page
+### Šeimos nuotraukų puslapis
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+Vienas puslapis su keturiomis–šešiomis dideliais šeimos nuotraukomis, po kiekviena – vardas. Jį galima padėti ant stalo, kad kiekvienas galėtų paimti ir pakalbėti. Užrašai padeda lankytojams ir darbuotojams įsitraukti į pokalbį, o niekam nereikia klausti: „Kas čia?“
 
-### A recipe card
+### Receptų kortelė
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Atspausdinkite mėgstamą šeimos receptą dideliu šriftu. Naudokite jį kartu gaminant arba tiesiog kalbėdami apie praeities valgius.
 
-## How do I offer a printable without it feeling like homework?
+## Kaip pasiūlyti spausdinamą veiklą, kad ji neatrodytų kaip namų darbas?
 
-Present it as something to share, not a test.
+Pateikite ją kaip ką nors bendro, o ne kaip testą.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Atsisėskite ir pradėkite patys.** „Aš darau žodžių paiešką. Ar padėtum man rasti „sodas“?“
+- **Dirbkite kartu.** Keiskitės arba vienas ieško, o kitas apibraukia.
+- **Niekada nevertinkite kaip teisingo ar neteisingo.** Alzheimerio asociacijos vadovas [veiklas namuose](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) pataria sutelkti dėmesį į procesą, o ne į rezultatą, ir į malonumą, o ne pasiekimus.
+- **Palikite puslapius matomoje vietoje.** Tas pats vadovas siūlo laikyti albumus, nuotraukų knygas ar senus žurnalus lengvai pasiekiamoje vietoje. Spausdintos kortelės ir nuotraukų puslapiai gali taip pat stovėti šoniniame stalelyje.
+- **Sustokite, kai norite.** Pusė spalvinimo puslapio – gera popietė. Taip pat gera padėti lapą į šalį ir išgerti puodelį arbatos.
 
-## Where to find more
+## Kur rasti daugiau
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Naršykite visus mūsų [žaidimus ir spausdinamus lapus](/games/), arba žr. [veiklas kiekvienai stadijai](/activities/ideas/), kur rasite daugiau idėjų su popieriumi ir be jo.
