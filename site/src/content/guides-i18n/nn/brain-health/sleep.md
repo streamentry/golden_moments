@@ -1,31 +1,30 @@
 ---
-title: "Sleep and Brain Health: What Research Suggests and What Helps"
-seoTitle: "Sleep and Dementia: What Research Suggests"
-description: "What research suggests about sleep and dementia risk, why the brain-clearing research is still early, and practical sleep habits for older adults and caregivers."
+title: "Søvn og hjernehelse: Kva forskinga tyder på, og kva som hjelper"
+seoTitle: "Søvn og demens: Kva forskinga tyder på"
+description: "Kva forskinga seier om søvn og risiko for demens, kvifor forskinga om hjernerensing framleis er tidleg, og praktiske søvnvanar for eldre og pårørande."
 section: brain-health
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Some long-term studies link short sleep in midlife with a higher risk of dementia, and lab
-  research suggests sleep may help the brain clear waste. This evidence is still early, and the
-  2024 Lancet Commission did not list sleep as a modifiable risk factor. Regular sleep habits help
-  how you feel day to day. Sleep problems in dementia are common and worth raising with a doctor.
+  Somme langsiktige studiar kopler kort søvn i midtlivet til høgare risiko for demens, og laboratoriestudiar
+  tyder på at søvn kan hjelpe hjernen med å rense ut avfall. Bevisa er framleis tidlege, og Lancet-kommisjonen i 2024 tok ikkje med søvn som ein risikofaktor som kan endrast. Faste søvnvanar hjelper
+  korleis du har det frå dag til dag. Søvnproblem ved demens er vanlege og bør takast opp med lege.
 keyPoints:
-  - "A UK study following about 8,000 people for 25 years linked sleeping six hours or less in midlife with a higher dementia risk."
-  - "Sleep changes can also be an early sign of dementia, so it is hard to tell cause from effect."
-  - "Research on sleep clearing beta-amyloid from the brain is real but early, much of it in mice."
-  - "Sleep apnea is common, treatable and linked with dementia in studies; loud snoring and daytime sleepiness are worth checking."
-  - "Never start, stop or change a sleep medicine or sleep aid without a doctor."
+  - "Ei britisk studie som fulgde om lag 8 000 menneske i 25 år, kopla søvn på seks timar eller mindre i midtlivet til høgare risiko for demens."
+  - "Endringar i søvnen kan òg vere eit tidleg teikn på demens, så det er vanskeleg å skilje årsak frå verknad."
+  - "Forskinga på at søvn fjernar beta-amyloid frå hjernen er reell, men tidleg, og mykje av henne er gjord på mus."
+  - "Søvnapné er vanleg, kan behandlast og er kopla til demens i studiar. Høgt snork og søvnig dagar bør sjekkast."
+  - "Start, stopp eller endre aldri søvnmedisin eller søvnhjelpemiddel utan å snakke med lege."
 faq:
-  - q: "Does poor sleep cause Alzheimer's?"
-    a: "That has not been shown. Some studies link short sleep with a higher risk of dementia, but dementia itself disrupts sleep, often years before diagnosis. The 2024 Lancet Commission judged the evidence too inconsistent to list sleep as a modifiable risk factor."
-  - q: "How much sleep do older adults need?"
-    a: "The National Institute on Aging says older adults need about the same as other adults, 7 to 9 hours a night. Many older people go to bed and wake up earlier than they used to, which is common."
-  - q: "Why does someone with dementia sleep in the day and wake at night?"
-    a: "Dementia can affect the body clock, so sleep and wake times get mixed up. Pain, boredom, hunger or medicine side effects can also play a part. Daylight, daily activity and a calm evening routine may help. A doctor can look for causes that can be treated."
-  - q: "Should I give a sleep aid to the person I care for?"
-    a: "Talk with their doctor first, including about over-the-counter products. The National Institute on Aging notes that some sleep medicines can raise the risk of dizziness, falls and confusion in people with Alzheimer's."
+  - q: "Fører dårleg søvn til Alzheimers?"
+    a: "Det er ikkje vist. Somme studiar kopler kort søvn til høgare risiko for demens, men demens sjølv forstyrrar søvnen, ofte fleire år før diagnosen. Lancet-kommisjonen i 2024 meinte bevisa var for inkonsekvente til å ta med søvn som ein risikofaktor som kan endrast."
+  - q: "Kor mykje søvn treng eldre?"
+    a: "Det amerikanske National Institute on Aging seier at eldre treng om lag det same som andre vaksne, 7 til 9 timar kvar natt. Mange eldre legg seg og står opp tidlegare enn før, og det er vanleg."
+  - q: "Kvifor sover nokon med demens på dagtid og er vaken om natta?"
+    a: "Demens kan påverke døgerrytmen, slik at søvn- og vaketidene blir blanda. Smerter, kjedsomheit, sult eller bivirkningar av medisin kan òg spele inn. Dagslys, daglege aktivitetar og ein roleg kveldsrutine kan hjelpe. Lege kan leite etter årsaker som kan behandlast."
+  - q: "Bør eg gi personen eg har omsorg for eit søvnhjelpemiddel?"
+    a: "Snakk med legen hans eller hennar først, også om reseptfrie produkt. National Institute on Aging påpeikar at somme søvnmedisinar kan auke risikoen for svimmel, fall og forvirring hos personar med Alzheimers."
 sources:
   - title: "Association of sleep duration in middle and old age with incidence of dementia"
     publisher: "Nature Communications"
@@ -56,73 +55,148 @@ related: [caregiving/late-day-restlessness, activities/daily-routine, brain-heal
 health: true
 ---
 
-Sleep and brain health are clearly connected, but how they are connected is still being worked out. Some studies link short sleep with a higher risk of dementia. Dementia, in turn, often disrupts sleep. This page explains what the research does and does not show, gives practical sleep habits, and covers sleep problems that are common in dementia. It does not give advice about sleep medicines; that conversation belongs with a doctor.
+Søvn og hjernehelse heng tydeleg saman, men korleis dei heng saman, er framleis
+under utgreiing. Somme studiar kopler kort søvn til høgare risiko for demens.
+Demens fører på si side ofte til forstyrra søvn. Denne sida forklarar kva
+forskinga viser og ikkje viser, gir praktiske søvnvanar og tek for seg
+søvnproblem som er vanlege ved demens. Ho gir ikkje råd om søvnmedisin; den
+samtalen høyrer heime hos lege.
 
-## Is poor sleep linked with dementia?
+## Er dårleg søvn kopla til demens?
 
-Some long-term studies link short sleep with a higher risk of dementia, but the evidence is not settled.
+Somme langsiktige studiar kopler kort søvn til høgare risiko for demens, men
+bevisa er ikkje avklara.
 
-- **A 25-year UK study.** Researchers followed about 8,000 adults in the [Whitehall II study](https://www.nature.com/articles/s41467-021-22354-2). People who slept six hours or less at age 50 or 60 had a higher risk of dementia later than those who slept seven hours. People who slept six hours or less at 50, 60 and 70 had about a 30% higher risk than those who regularly slept seven hours. This was an observational study, so it shows a link, not a cause.
-- **The Lancet Commission's view.** The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0) did not add sleep to its list of 14 modifiable risk factors. It judged the evidence not consistent enough. One reason is "reverse causation": brain changes from dementia begin years before diagnosis and can disturb sleep. In one large study, a link between long sleep and dementia disappeared once the first five years of follow-up were set aside.
+- **Ein britisk studie over 25 år.** Forskarane fulgde om lag 8 000 vaksne i
+  [Whitehall II-studien](https://www.nature.com/articles/s41467-021-22354-2).
+  Dei som sov seks timar eller mindre i 50- eller 60-årsalderen, hadde høgare
+  risiko for å få demens seinare enn dei som sov sju timar. Dei som sov seks
+  timar eller mindre i 50-, 60- og 70-årsalderen, hadde om lag 30 % høgare risiko
+  enn dei som sov sju timar jamleg. Dette var ein observasjonsstudie, så han viser
+  ein samanheng, ikkje ein årsak.
+- **Lancet-kommisjonens syn.** [Lancet-kommisjonen i 2024](https://doi.org/10.1016/S0140-6736(24)01296-0)
+  tok ikkje søvn med på lista over 14 risikofaktorar som kan endrast. Kommisjonen
+  meinte bevisa ikkje var konsekvente nok. Ein grunn er «omvendt årsakssamanheng»:
+  hjerneendringar frå demens startar år før diagnosen og kan forstyrre søvnen. I
+  ei stor studie forsvann samanhengen mellom lang søvn og demens då dei første
+  fem åra av oppfølginga vart haldne utanfor.
 
-So a short night now and then is not a reason to worry. Regular, good-quality sleep is worth aiming for because it helps mood, alertness and safety today.
+Ein kort natt no og då er derfor ikkje grunn til bekymring. Jamn, god søvn er
+likevel verd å strebe etter, fordi han hjelper humør, årvakenheit og tryggleik
+i dag.
 
-## What is the "brain-clearing" sleep research?
+## Kva er forskinga om «hjernerensing» under søvn?
 
-You may have read that sleep "cleans" the brain. That idea comes from real research, but it is early.
+Du kan ha lese at søvn «reinsar» hjernen. Den ideen kjem frå ekte forsking, men
+forskinga er tidleg.
 
-- **In mice.** A 2013 study [described by the NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep) found that the space between brain cells grew by about 60% when mice slept. Fluid flowed through the brain more easily, through what researchers call the glymphatic system. Beta-amyloid, a protein linked with Alzheimer's, cleared faster from the brains of sleeping mice.
-- **In people.** A small [2018 study](https://www.pnas.org/doi/10.1073/pnas.1721694115) scanned 20 healthy adults aged 22 to 72 after a normal night and after a night with no sleep. After the sleepless night, a brain scan signal for beta-amyloid rose by about 5% in an area including the hippocampus, a region important for memory. The authors called this preliminary evidence. They did not know whether the change goes away after rest, or whether it reflects slower clearing or more amyloid being made.
-- **It works both ways.** The Lancet Commission notes that amyloid build-up can itself disturb sleep in older adults.
+- **Hos mus.** Ein studie frå 2013, [omtalt av NIH](https://www.nih.gov/news-events/news-releases/brain-may-flush-out-toxins-during-sleep),
+  fann at rommet mellom hjerneceller auka med om lag 60 % når musene sov. Væske
+  rann lettare gjennom hjernen, gjennom det forskarane kallar det glymfatiske
+  systemet. Beta-amyloid, eit protein som er kopla til Alzheimers, vart reinsa
+  raskare ut av hjernen til sovande mus.
+- **Hos folk.** Ein liten [studie frå 2018](https://www.pnas.org/doi/10.1073/pnas.1721694115)
+  skanna 20 friske vaksne i alderen 22 til 72 år, éin gong etter ein normal natt
+  og éin gong etter ein natt utan søvn. Etter den søvnlause natta auka
+  skannesignalet for beta-amyloid med om lag 5 % i eit område som inkluderer
+  hippocampus, ein hjerneregion som er viktig for hukommelsen. Forfattarane kalla
+  dette førebels bevis. Dei visste ikkje om endringa går over etter kvile, eller
+  om han viser at reinsinga går saktare eller at det blir laga meir amyloid.
+- **Det går begge vegar.** Lancet-kommisjonen peikar på at oppbygging av amyloid
+  i seg sjølv kan forstyrre søvnen hos eldre.
 
-These findings help explain why researchers are interested in sleep. They do not show that better sleep prevents Alzheimer's.
+Desse funna forklarer kvifor forskarar er interesserte i søvn. Dei viser ikkje at
+betre søvn førebyggjer Alzheimers.
 
-## What sleep habits may help?
+## Kva søvnvanar kan hjelpe?
 
-Older adults need about 7 to 9 hours of sleep a night, the same as other adults, according to the [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults). Its suggestions include:
+Eldre treng om lag 7 til 9 timars søvn kvar natt, det same som andre vaksne, ifølgje
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/sleep/sleep-and-older-adults).
+Råda deira inkluderer:
 
-- **Keep a regular schedule.** Go to bed and get up at the same time each day, even on weekends.
-- **Build a wind-down routine.** Read, listen to soothing music or take a warm bath before bed.
-- **Make the bedroom comfortable,** not too hot or too cold.
-- **Limit caffeine late in the day.** Coffee, tea, soda and chocolate can keep you awake.
-- **Avoid alcohol,** even small amounts, the NIA advises.
-- **Avoid large meals within two to three hours of bedtime,** and large drinks late in the day.
-- **Exercise regularly, but not within 3 hours of bedtime.** See our [exercise guide](/brain-health/exercise/).
-- **Keep screens out of the bedroom.** The NIA suggests not watching TV or using a computer, phone or tablet there.
-- **Avoid late-afternoon or evening naps** if you can.
+- **Ha ein fast rytme.** Legg deg og stå opp til same tid kvar dag, også i helgane.
+- **Bygg opp ein roleg rutine før sengetid.** Les, lytt til rolig musikk eller
+  ta eit varmt bad før du legg deg.
+- **Gjer soverommet komfortabelt,** verken for varmt eller for kaldt.
+- **Avgrens koffein seint på dagen.** Kaffi, te, brus og sjokolade kan halde deg
+  vaken.
+- **Unngå alkohol,** også små mengder, rår NIA.
+- **Unngå store måltid innan to til tre timar før leggetid,** og store drikkar
+  seint på dagen.
+- **Tren jamleg, men ikkje innan 3 timar før leggetid.** Sjå vår
+  [rettleiing om trening](/brain-health/exercise/).
+- **Hald skjermar ute av soverommet.** NIA tilrår å ikkje sjå på fjernsyn eller
+  bruke datamaskin, mobil eller nettbrett der.
+- **Unngå sein ettermiddagslur og kveldslur** viss du kan.
 
-## Sleep problems in dementia
+## Søvnproblem ved demens
 
-Changes in sleep are common in dementia. The [NIA lists](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease) sleeping a lot or too little, waking many times at night, and napping a lot during the day. It also describes sundowning: restlessness, agitation or confusion that starts or gets worse as daylight fades.
+Endringar i søvnen er vanlege ved demens. [NIA listar](https://www.nia.nih.gov/health/sleep/managing-sleep-problems-alzheimers-disease)
+å sove for mykje eller for lite, å vakne mange gonger om natta og å ta mange
+lurar på dagtid. Dei omtalar òg solnedgangsuro (sundowning): rastløyse, uro eller
+forvirring som startar eller blir verre når dagslyset forsvinn.
 
-Caregiver tips from the NIA include:
+Råd frå NIA til pårørande inkluderer:
 
-1. **Get daylight and movement early.** Go outside or sit by a window during the day, and help the person be active each day. Bright light may help reset the body clock.
-2. **Plan energetic activities for the morning.** Try bathing in the morning or having the largest meal at midday.
-3. **Keep naps short and early.** Limit dozing late in the day.
-4. **Make the evening calm.** Lower the lights, reduce noise and play soothing music if the person enjoys it. Our guide to [late-day restlessness](/caregiving/late-day-restlessness/) has more ideas.
-5. **Keep a steady bedtime routine.** Reading aloud at the same time each night is one NIA example. A [steady daily routine](/activities/daily-routine/) helps too.
-6. **Limit caffeine and alcohol.**
-7. **Use nightlights** in the bedroom, hall and bathroom.
+1. **Få dagslys og bevegelse tidleg.** Gå ut eller sit ved ein glugge på dagtid,
+   og hjelp personen å vere aktiv kvar dag. Sterkt lys kan hjelpe kroppens
+   døgerrytme å stille seg.
+2. **Legg energiske aktivitetar til morgonen.** Prøv å bade om morgonen eller å ha
+   det største måltidet midt på dagen.
+3. **Hald lurane korte og tidlege.** Avgrens lur seint på dagen.
+4. **Gjer kvelden roleg.** Dimm lyset, reduser støyen og spel rolig musikk viss
+   personen likar det. Vår rettleiing om
+   [uro seint på dagen](/caregiving/late-day-restlessness/) har fleire idear.
+5. **Hald ein fast rutine før sengetid.** Å lese høgt same tid kvar kveld er eitt
+   døme frå NIA. Ein [fast dagleg rutine](/activities/daily-routine/) hjelper òg.
+6. **Avgrens koffein og alkohol.**
+7. **Bruk nattlys** på soverommet, i gangen og på badet.
 
-For nighttime waking, the NIA's [home safety tips](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include nightlights or automatic light sensors, grab bars in the bathroom, brightly colored tape on the edges of steps, and medicines stored in a locked place.
+For vakning om natta inkluderer NIA sine [tips om heimetryggleik](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips)
+nattlys eller lyssensorar som slår seg på av seg sjølv, støttehandtak på badet,
+kraftig fargede teipstrimlar på kanten av trappetrinn og medisin lagra på eit
+låst stad.
 
-A short, quiet activity in the evening can help you both settle. Try a slow [Calm Breathing](/games/calm-breathing/) pause or a few relaxed [Conversation Cards](/games/conversation-cards/). Skip anything stimulating close to bed, and stop whenever the person has had enough.
+Ei kort, stille aktivitet om kvelden kan hjelpe dåkk begge å roe dykk ned. Prøv
+ei roleg [Calm Breathing](/games/calm-breathing/)-pause eller nokre avslappa
+[Conversation Cards](/games/conversation-cards/). Unngå alt som stimulerer like
+før seng, og stopp når personen har fått nok.
 
-Broken sleep wears caregivers down too. Our [caregiver self-care guide](/caregiving/caregiver-self-care/) covers ways to get rest and help.
+Brote søvn sliter òg ut pårørande. Vår [rettleiing om eigenomsorg for pårørande](/caregiving/caregiver-self-care/)
+tek for seg korleis du kan få kvile og hjelp.
 
-## What about sleep apnea?
+## Kva med søvnapné?
 
-Sleep apnea causes short pauses in breathing during sleep, often many times a night. The NIA says that if it is not treated, it can lead to problems such as high blood pressure, stroke or memory loss. Signs include loud snoring and feeling sleepy during the day, and many people do not know they have it. The Lancet Commission describes a review of 11 studies in which people with sleep apnea had about a 43% higher risk of dementia. Few of those studies accounted for weight, though, so the link is uncertain.
+Søvnapné gir korte pausar i pusten under søvn, ofte mange gonger per natt. NIA
+seier at det, viss det ikkje blir behandla, kan føre til problem som høgt
+blodtrykk, hjerneslag eller hukommelsestap. Teikn er høgt snork og å vere søvnig
+på dagtid, og mange veit ikkje at dei har det. Lancet-kommisjonen omtalar ein
+gjennomgang av 11 studiar der folk med søvnapné hadde om lag 43 % høgare risiko
+for demens. Få av desse studiane tok likevel omsyn til vekt, så samanhengen er
+usikker.
 
-Sleep apnea can be diagnosed and treated. The NIA notes that a CPAP machine almost always helps. If you or the person you care for snores loudly, stops breathing during sleep, or is very sleepy during the day, tell a doctor.
+Søvnapné kan diagnostiserast og behandlast. NIA påpeikar at ein CPAP-maskin nesten
+alltid hjelper. Om du eller personen du har omsorg for snorkar høgt, sluttar å
+puste under søvn eller er svært søvnig på dagtid, bør du seie frå til lege.
 
-## A note about sleep medicines
+## Eit notat om søvnmedisin
 
-We do not give advice about sleep medicines or supplements. The NIA notes that sleep medicines may help for a short time but are not a cure for insomnia. It also notes that some medicines given to help people with Alzheimer's sleep can raise the risk of dizziness, falls and confusion. Do not start, stop or change any sleep medicine, including over-the-counter sleep aids, without talking to a doctor or pharmacist.
+Vi gir ikkje råd om søvnmedisin eller kosttilskot. NIA påpeikar at søvnmedisin kan
+hjelpe ei kort stund, men at han ikkje kurerer søvnløyse. Dei påpeikar òg at
+somme medisinar som blir gitt for å hjelpe personar med Alzheimers å sove, kan
+auke risikoen for svimmel, fall og forvirring. Start, stopp eller endre ingen
+søvnmedisin, også ikkje reseptfrie søvnhjelpemiddel, utan å snakke med lege eller
+farmasøyt først.
 
-## Talk with a doctor
+## Snakk med lege
 
-See a doctor if you or the person you care for is always tired, has trouble sleeping most nights, snores loudly, or has pauses in breathing at night. If sleep problems in dementia keep going, the [NIA advises](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning) seeking medical advice. A check-up can find causes such as pain, another sleep disorder, an illness or a medicine side effect. Sudden confusion, or a sudden change in sleep alongside confusion, needs urgent care. Read [when to see a doctor](/brain-health/warning-signs/).
+Oppsøk lege viss du eller personen du har omsorg for er tom for krefter kvar dag,
+har vanskar med å sove dei fleste nettene, snorkar høgt, eller har pausar i
+pusten om natta. Viss søvnproblem ved demens held fram, [rår NIA til](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/tips-coping-sundowning)
+å søkje medisinsk råd. Ein kontroll kan finne årsaker som smerter, ein anna
+søvnlidelse, ein sjukdom eller ein bivirkning av medisin. Plutseleg forvirring,
+eller ei brå endring i søvnen saman med forvirring, treng hurtig hjelp. Les
+[når du bør oppsøke lege](/brain-health/warning-signs/).
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/).
+Dette er generell informasjon, ikkje medisinsk råd. Sjå vår
+[medisinske ansvarsfråskriving](/medical-disclaimer/).

@@ -1,32 +1,32 @@
 ---
-title: "Activities for Early-Stage Dementia"
-seoTitle: "Early-Stage Dementia Activities: Ideas That Fit"
-description: "Activity ideas for early-stage dementia: hobbies, games, outings, writing and planning together, with small changes that keep the person enjoying them and in charge."
+title: "Aktivitéiten fir fréi Demenz"
+seoTitle: "Aktivitéiten fir fréi Demenz: Iddien, déi passen"
+description: "Aktivitéitsiddien fir fréi Demenz: Hobbyen, Spiller, Ausflich, Schreiwen a Planung zesummen, mat klenge Changementer, déi d'Persoun beweeglech a selwer bestëmmt halen."
 section: activities
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  In early-stage dementia, most people can keep doing what they enjoy: hobbies,
-  cards and board games, cooking, gardening, walking, clubs, faith and
-  volunteering. The main changes are smaller groups, shorter outings, simple
-  written plans and a partner nearby. Ask the person what help they want,
-  and let them lead.
+  An der fréier Phase vun der Demenz kënnen déi meescht Leit weider maachen, wat se
+  gär hunn: Hobbyen, Kaarte- a Brettspiller, Kachen, Gäertnen, Spadséiergang,
+  Veräiner, Glaube a Fräiwëlleg Aarbecht. Déi wichtegst Ännerungen sinn
+  klenger Gruppen, kierzer Ausflich, einfach geschriwwen Pläng an eng Partner
+  an der Nähe. Frot d'Persoun, wéi vill Hëllef si wëll, a loosst si féieren.
 keyPoints:
-  - "Most people in the early stage live fairly independently. Activities usually need adjusting, not replacing."
-  - "Ask the person what support they want, and agree on a simple signal for when help is welcome."
-  - "Smaller groups, quieter times and shorter outings often make a big difference."
-  - "This is a good time for the person to lead projects about their own life, like a journal or life-story book."
-  - "Choose games for enjoyment. Skip anything that starts to feel like a test."
+  - "Déi meescht Leit an der fréier Phase liewen zimmlech selbststänneg. Aktivitéiten brauchen meeschtens Upassung, kee Wiessel."
+  - "Frot d'Persoun, wéi vill Ënnerstëtzung si wëll, a maacht e klenge Zeechen ob, wann Hëllef gewollt ass."
+  - "Klenger Gruppen, roueg Zäiten a kierzer Ausflich maachen dacks en décke Ënnerscheed."
+  - "Dat ass eng gutt Zäit, fir d'Persoun Projeten iwwer hiert eegent Liewen féieren ze loossen, wéi e Journal oder e Liewensgeschicht-Buch."
+  - "Wielt Spiller fir de Plaisir. Lauschtert alles of, wat sech wéi en Test unhéiert."
 faq:
-  - q: "What activities are good for early-stage dementia?"
-    a: "Usually the same ones the person already enjoys: cards, board games, cooking, gardening, walking, music, faith activities, clubs and volunteering. You may need to make them shorter, quieter or simpler. Journaling, letter writing and making a life-story book also suit this stage well."
-  - q: "How can I help without taking over?"
-    a: "Ask what kind of help the person wants, and check in often. Agree on a phrase or a nod that means it is okay to step in, for example when a word or name will not come. If there is no safety risk, let them do it their way, even if it takes longer."
-  - q: "Should someone with early dementia try new activities?"
-    a: "Yes, if they want to. Familiar hobbies tend to be easiest, but many people enjoy something new, such as a dementia-friendly walking group, an art class or a singing group. Try it once without pressure and see how it feels."
-  - q: "Are brain-training apps worth it in the early stage?"
-    a: "Some people enjoy puzzles and word games, and that enjoyment is reason enough. No app or game has been shown to treat, slow or stop dementia. If a game causes stress or makes the person feel they are failing, set it aside."
+  - q: "Wéi Aktivitéiten si gutt fir fréi Demenz?"
+    a: "Normalerweis déi, déi d'Persoun schonn gär huet: Kaarten, Brettspiller, Kachen, Gäertnen, Spadséiere, Musek, Glaubensaktivitéiten, Veräiner a Fräiwëlleg Aarbecht. Dir musst se vläicht kierzer, roueg oder einfach maachen. Journaling, Bréiwer schreiwen an en Liewensgeschicht-Buch passen an dëser Phase och gutt."
+  - q: "Wéi kann ech hëllefen, ouni d'Saach ze iwwerhuelen?"
+    a: "Frot, wat fir Hëllef d'Persoun wëll, a kontrolléiert dacks no. Ëmmer eng Phrase oder en Nicken ofmaachen, déi heescht, dass Dir Iech aschalte däerft, zum Beispill wann e Wuert oder e Numm net kënnt. Wann kee Sécherheetsrisiko do ass, loosst si et op hir Aart maachen, och wann et méi laang dauert."
+  - q: "Soll eng Persoun mat fréier Demenz nei Aktivitéiten probéieren?"
+    a: "Jo, wann si dat wëllt. Vertraut Hobbyen sinn meeschtens am einfachsten, mee vill Leit fanne Freed u eppes Neiem, wéi enger demenzfrëndlecher Wanderguppe, engem Konschtkurs oder enger Sengguppe. Probéiert et eemol ouni Drock a kuckt, wéi et sech ufillt."
+  - q: "Sinn Gehirtraining-Apps an der fréier Phase wäert?"
+    a: "E puer Leit hunn Freed un Puzzelen an Wuertspiller, a dat Vergnüge ass Grond genuch. Kee App an kee Spill huet bewisen, Demenz ze behandelen, ze verlangsamen oder opzehalen. Wann e Spill Stress mécht oder d'Persoun sech wéi en Versoot fillt, leet et bäiseite."
 sources:
   - title: "Early-Stage Alzheimer's & Dementia Caregiving"
     publisher: "Alzheimer's Association"
@@ -48,71 +48,71 @@ related: [activities/ideas, activities/middle-stage, activities/reminiscence, ca
 health: false
 ---
 
-In the early stage of dementia, many people still live much as they did before. They may work, volunteer, see friends and run much of their own day. Activities usually do not need replacing; they need a few adjustments so they stay enjoyable. Your role is closer to a partner than a caregiver: someone who supports, plans with them and steps in only when asked.
+An der fréier Phase vun der Demenz liewen vill Leit nach ähnlech wéi virdrun. Si schaffen, fräiwëlleg, gesinn Frënn a féieren en Groussdeel vun hirem Dag selwer. Aktivitéiten brauchen meeschtens keen Ersatz, nëmmen e puer Upassungen, damat se schéin bleiwen. Är Roll ass méi wéi eng Partner-Roll wéi déi vun engem Betreier: Dir ënnerstëtzt, plangt mat, a greift nëmmen an, wann Dir gefrot gitt.
 
-## What activities are good in early-stage dementia?
+## Wéi Aktivitéiten sinn an der fréier Phase gutt?
 
-The best activities in the early stage are usually the ones the person already loves, made a little easier. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists ideas such as card and board games, word finds, walking, dancing, gardening, flower arranging, storytelling, painting, music, journaling, letter writing, scrapbooking, cooking and holiday traditions.
+Déi bescht Aktivitéiten an der fréier Phase sinn dacks déi, déi d'Persoun schonn gären huet, e bësse méi einfach gemaach. D'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nennt Iddien wéi Kaarte- an Brettspiller, Wuertsich, Spadséiergang, Danzen, Gäertnen, Blummenarrangementer, Geschichten erzielen, Molen, Musek, Journaling, Bréiwer schreiwen, Scrapbooking, Kachen a Feierdagsbräicher.
 
-What changes is often the setting, not the activity. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that people in the early stage may start pulling back from things they enjoyed, and gives the example of someone who feels overwhelmed at a big party doing better in a small group. Talk openly about what feels harder, and adjust together.
+Dacks ännert sech net d'Aktivitéit selwer, mee d'Ëmfeld. D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) mierkt un, dass Leit an der fréier Phase vun Dingen, déi se gär haten, dacks zréckzéien, a gëtt als Beispill, dass eng Persoun, déi bei enger grousser Party iwwerfuerdert ass, a klenger Gruppe besser zurechtkënnt. Schwätzt oppen doriwwer, wat schwéier fält, a passt zesumme un.
 
-## Ask first, and agree on how to help
+## Frot als Éischt, a mécht kloer, wéi een hëlleft
 
-The [Alzheimer's Association's early-stage guidance](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) suggests a few habits that apply to activities too:
+D'[Richtlinne vun der Alzheimer's Association fir fréi Phasen](https://www.alz.org/help-support/caregiving/stages-behaviors/early-stage) schléit e puer Gewunnechten vir, déi och fir Aktivitéiten gëllen:
 
-- **Ask directly.** "What would make book club easier for you?" gets a better answer than guessing.
-- **Assume they can.** If there is no safety risk, let the person try, and give encouragement rather than taking over.
-- **Agree on a signal.** Choose a phrase or a nod that means "it's okay to jump in," for example when a name will not come during a card game.
-- **Check in regularly.** Ask whether the amount of help feels right, too much or too little.
+- **Frot direkt.** „Wat wier fir Iech méi einfach beim Buchclub?“ bréngt eng bessere Äntwert wéi Ginn.
+- **Trauwt et zou.** Wann kee Sécherheetsrisiko do ass, loosst d'Persoun et probéieren a gitt Encouragement, statt ze iwwerhuelen.
+- **Maacht e Zeechen aus.** Wielt eng Phrase oder e Nicken, dat heescht „Jo, Dir kënnt aspringen“, zum Beispill wann e Numm beim Kaartespill net kënnt.
+- **Frot regelméisseg no.** Frot, ob d'Hëllef richteg dosiert ass, ze vill oder ze wéineg.
 
-## Activity ideas for the early stage
+## Aktivitéitsiddien fir fréi Phasen
 
-### Keep up roles and hobbies
+### Rollen a Hobbyen weiderféieren
 
-- **Keep a regular commitment.** A weekly volunteer shift, choir or club gives the week a shape. If it becomes stressful, a shorter or quieter role may suit better.
-- **Plan meals together.** If grocery shopping has become frustrating, the Alzheimer's Association suggests asking the person to help plan the week's menu and write the list instead.
-- **Cook and bake.** Follow a favorite recipe together. Lay out ingredients in order before you start, so the steps are visible.
-- **Garden.** Plan a bed, choose seeds or plants and do the work together. A written list of the week's garden jobs helps.
-- **Keep a craft going.** Woodworking, sewing, knitting or model building can continue with simpler patterns and good lighting.
+- **Eng regelméisseg Verflichtung hunn.** Eng wöchentlech Fräiwëlleg-Schicht, en Chouer oder e Veräin gëtt der Woch Struktur. Gëtt et stressend, passt eng méi kuerz oder roueg Roll besser.
+- **Zesumme Iessen plangen.** Wann d'Akafen frustréiert, schléit d'Alzheimer's Association vir, d'Persoun d'Woch-Menü plangen ze loossen a Lëscht ze schreiwen.
+- **Kachen a backen.** Eng Liiblingsrezept zesumme maachen. Ingredienzen als Éischt an der Rei hikléngen, sou sinn d'Schrëtt siichtbar.
+- **Gäertnen.** E Beet plangen, Somen oder Planzen ausaressen an d'Aarbecht zesumme maachen. Eng schrëftlech Lëscht vun den Aufgaben vun der Woch hëlleft.
+- **E Handwierk weiderféieren.** Holzaarbecht, Nähen, Stréckelen oder Modellbau kënnen mat einfachen Mustere a gudder Beliichtung weidergoen.
 
-### Games for enjoyment
+### Spiller fir de Plaisir
 
-- **Play cards and board games.** Familiar games are easiest. Play on teams so nobody is on the spot, and keep score loosely or not at all.
-- **Try a large-print word search.** Our [word search](/games/word-search/) can be played on screen or printed for a quiet moment.
-- **Do jigsaw puzzles.** Choose a piece count that feels relaxing, not challenging. [Picture puzzle](/games/picture-puzzle/) is a short on-screen version, and our guide to [puzzles for dementia](/activities/puzzles/) covers choosing one.
-- **Join trivia for fun.** Some people love a team trivia night. If it starts to feel like a test, choose something else, or try our [easy trivia questions](/activities/trivia/), which come with answer choices and no score.
+- **Kaarte- an Brettspiller spillen.** Vertraut Spiller sinn am einfachsten. Spillt a Teams, dass keen am Mëttelpunkt steet, a schreift d'Punkten locker oder guer net.
+- **E Wuertsich mat groussen Buschtawen probéieren.** Eis [Wierdersich](/games/word-search/) kann um Bildschierm gespillt oder ausgedréckt ginn, fir e roueg Moment.
+- **Puzzelen maachen.** Wielt eng Unzuel Stécker, déi entspaant sinn, net erausfuerdernd. [Billerpuzzel](/games/picture-puzzle/) ass eng kuerz Versioun op dem Bildschierm, an eisen Guide zu [Puzzelen fir Demenz](/activities/puzzles/) hëlleft bei der Auswiel.
+- **Trivia fir de Spaass.** E puer Leit hunn Freed u Team-Trivia-Owender. Wann et sech wéi e Test ufillt, wielt eppes anescht oder probéiert eis [einfach Trivia-Froen](/activities/trivia/) mat Äntwerte ginn, ouni Punkten.
 
-Games are for pleasure here. No game has been shown to treat or slow dementia; read more in [brain games: what the research says](/brain-health/brain-games/).
+Spiller sinn hei fir de Plaisir. Kee Spill huet bewisen, Demenz ze behandelen oder ze verlangsamen; liest méi an [Gehirtraining: wat d'Fuerschung seet](/brain-health/brain-games/).
 
-### Write, reflect and record
+### Schreiwen, nodenken a festhalen
 
-- **Keep a journal.** The Alzheimer's Association suggests journaling as one way to work through feelings after a diagnosis. A few lines a day is plenty.
-- **Lead a life-story book.** The early stage is a good time for the person to choose their own photos and write or dictate the stories behind them. See [reminiscence activities](/activities/reminiscence/).
-- **Write letters.** A letter to a grandchild, an old friend or a former colleague can be meaningful for both sides.
-- **Talk through photos.** [Photo pairs](/games/photo-pairs/) turns family photos into a gentle matching game, and [conversation cards](/games/conversation-cards/) give easy starting points for a chat.
+- **E Journal féieren.** D'Alzheimer's Association schléit Journaling als Weg vir, Gefiller no enger Diagnos ze verschaffen. E puer Zeilen um Dag reechen.
+- **En Liewensgeschicht-Buch féieren.** D'Fréi Phase ass eng gutt Zäit, fir d'Persoun seng eegen Fotoe auszesichen an d'Geschichten derhanner ze schreiwen oder ze diktéieren. Kuckt [Erënnerungsaktivitéiten](/activities/reminiscence/).
+- **Bréiwer schreiwen.** E Bréif un en Enkelkand, en alen Frënd oder en fréiere Kollegen kann fir béid Säiten wichteg sinn.
+- **Iwwer Fotoe schwätzen.** [Fotopueren](/games/photo-pairs/) mécht Familljefotoe zu engem suffe Matching-Spill, an [Gespréichskaarten](/games/conversation-cards/) bidden einfach Anfänge fir e Gespréich.
 
-### Go out and move
+### Erausgoen a sech bewegen
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests continuing familiar outings for as long as you are both comfortable. Plan them for the person's best time of day and keep them from running too long.
+D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) rät, vertraut Ausflich weiderzemaachen, sou laang Dir béid gutt zreckkommt. Plangt se an der beschter Zäit vun der Persoun an haalt se net ze laang.
 
-- **Short cultural trips.** A museum, a matinee or an art exhibit, ideally at a quieter time.
-- **Swimming.** The NIA suggests a pool during a slow time of day.
-- **Walking groups and dance classes.** The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions dance, tai chi, yoga, swimming and walking groups, and dementia-friendly sessions where available.
-- **Singing groups and memory cafés.** Relaxed groups where people living with dementia and their partners can meet others in the same situation.
+- **Kuerz kulturell Ausflich.** E Musée, eng Nomëttegs-Virstellung oder eng Konschtausstellung, am beschten an enger roueger Zäit.
+- **Schwammen.** D'NIA rät e Schwimmbad an enger roueger Zäit vum Dag.
+- **Wanderguppen a Danzkurse.** D'[NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nennt Danz, Tai Chi, Yoga, Schwammen an Spadséiergangsgruppen, a wou et se gëtt, demenzfrëndlech Sessiounen.
+- **Sengguppen a Gedächtnis-Cafés.** Entspaanten Gruppen, wou Mënsche mat Demenz an hir Partner Leit an ähnlecher Situatioun kennen.
 
-## Small changes that keep activities enjoyable
+## Kleng Ännerungen, déi Aktivitéiten schéin halen
 
-| If this is getting harder | Try this |
+| Wann et méi schwéier gëtt | Probéiert dat |
 | --- | --- |
-| Busy or noisy places | Go at quiet times, choose smaller groups, sit at the edge of the room |
-| Remembering new names | Introduce people by name each time; ask groups to use name tags |
-| Following multi-step plans | Write the steps down, or lay out everything in order first |
-| Getting tired | Shorter outings, a rest afterward, nothing else planned that day |
-| Keeping track in a game | Play on teams, simplify the rules, or skip scorekeeping |
-| Finding words | Allow time; offer a word only if your agreed signal says to |
+| Gedréckt oder haart Plazen | Zu roueger Zäit goen, klenger Gruppen wielen, um Rand vum Raum sëtzen |
+| Nei Nimm behalen | All Kéier de Numm nennen; Gruppen bitten Nimm-Etiketten ze droen |
+| Mehrstufeg Schrëtt verfollegen | D'Schrëtt opschreiwen oder alles als Éischt an der Rei hikléngen |
+| Midd ginn | Kierzer Ausflich, eng Rou duerno, nach näischt Anescht dee Dag |
+| Beim Spill d'Punkten halen | A Teams spillen, Reegele vereinfachen oder d'Punkteschreiwen fortloossen |
+| Wieder fannen | Zäit loossen; nëmmen e Wuert uebidden, wann Äre Signal et verlaangt |
 
-## When to slow down
+## Wann Dir stoppe sollt
 
-Stop or change an activity when it brings more stress than pleasure. Repeated frustration, avoiding a hobby or saying "I just can't anymore" are worth gentle conversation, not pushing. Often the answer is a smaller version of the same thing. When the person needs more help starting and following steps, the ideas in [middle-stage activities](/activities/middle-stage/) may fit better. For more on supportive conversation, see [communication tips](/caregiving/communication-tips/), and for many more ideas, see [101 activities](/activities/ideas/).
+Stoppt oder änneren, wann eng Aktivitéit méi Stress bréngt wéi Freed. Widderhuelend Frustratioun, en Hobby, dat ëmmer ëmgaang gëtt, oder de Saz „Ech kann einfach net méi“ verdéngen en suffe Gespréich, kee Drängen. Dacks ass d'Äntwert eng méi kleng Versioun vun der selwechter Saach. Wann d'Persoun méi Hëllef brauch fir Schrëtt unzefänken a verfollegen, kënnen d'Iddien aus [Aktivitéiten an der mëttlerer Phase](/activities/middle-stage/) besser passen. Fir méi Ënnerstëtzung am Gespréich kuckt [Kommunikatiounstipps](/caregiving/communication-tips/), an fir vill méi Iddien [101 Aktivitéiten](/activities/ideas/).
 
-Partners need support too. The early stage is a good time to build your own network of help; see [caregiver self-care](/caregiving/caregiver-self-care/).
+Partner brauchen och Ënnerstëtzung. Déi fréi Phase ass eng gutt Zäit, fir Ären eegenen Netzwierk vun Hëllef opzebauen; kuckt [Selbstpfleeg fir Betreier](/caregiving/caregiver-self-care/).
