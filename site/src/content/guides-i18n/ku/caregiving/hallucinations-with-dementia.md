@@ -53,7 +53,7 @@ Aram bimînin, bipirsin kesê nexweş çawa hîs dike û bêyî nîqaşê dilgir
 
 - **Hestê qebûl bikin.** Hûn dikarin bêjin: “Ez kesekî nabînim, lê dikarim bibînim ku ev tiştekî tirsnak e. Ez li vir im.” Ev rast e û nîşan dide ku hûn wan bi cidî digirin.
 - **Gotinên xwe kurt bigirin.** Şirovekirina dirêj an rastkirina dubare dibe ku stresê zêde bike. Bihêlin kesê nexweş, heke dixwaze, bêje ka çi dibîne.
-- **Guhertinê pêşkêş bikin, bi zorê nekin.** Bipirsin ka dixwazin li cihekî din rûnên, ronahiyek din vekin an stranek nas guhdar bikin. Gûhertina ber bi odeya ronahî û nas dibe ku alîkar be; ger kes naxwaze biçe, rawestînin.
+- **Guhertinê pêşkêş bikin, bi zorê nekin.** Bipirsin ka dixwazin li cihekî din rûnên, ronahiyek din vekin an stranek nas guhdar bikin. Guhertina ber bi odeya ronahî û nas dibe ku alîkar be; ger kes naxwaze biçe, rawestînin.
 - **Heke dixwazin hûn nêzî wan bin, nêzîk bimînin.** Nişkê ve destê kesê nexweş negirin. Berî ku dest an sarmaxiyê pêşkêş bikin, bipirsin.
 
 Ger ezmûn bêzirar û bê aciz be, li gorî daxwaza kesê nexweş bimeşin. Wê demê nekin ceribandinê û nexwazin ku ew bi delîlan nîşan bidin ka çi dîtin.
