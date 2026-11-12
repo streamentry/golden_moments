@@ -1,7 +1,7 @@
 ---
 title: "Gofal Anifeiliaid a Dementia: Cefnogi Trefn a Rennir"
 seoTitle: "Cefnogi Gofal Anifeiliaid i Rywun â Dementia"
-description: "Helpwch rywun â dementia i gadw trefn gofal anifail gydag atgoffion, help y cytunwyd arni a chynlluniau wrth gefn sy’n parchu dewisiadau’r unigolyn ac anghenion yr anifail."
+description: "Helpwch rywun â dementia i gadw trefn gofal anifail gydag atgoffion, help y cytunwyd arni a chynlluniau wrth gefn sy’n parchu dewis yr unigolyn a lles yr anifail."
 section: caregiving
 order: 15
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Adnabod Poen mewn Rhywun â Dementia"
 seoTitle: "Poen a Dementia: Arwyddion a Beth i’w Wneud"
-description: "Gall poen fod yn anodd ei ddisgrifio gyda dementia. Sylwch ar newidiadau, holwch mewn geiriau cyfarwydd a chysylltwch â gweithiwr iechyd proffesiynol yn hytrach na dyfalu."
+description: "Gall poen fod yn anodd ei ddisgrifio mewn dementia. Sylwch ar newidiadau, holwch mewn geiriau cyfarwydd a cheisiwch gyngor proffesiynol yn hytrach na dyfalu."
 section: caregiving
 order: 22
 updated: 2026-11-11

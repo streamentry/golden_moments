@@ -1,7 +1,7 @@
 ---
 title: "Siarad â Phlant Am Ddementia"
 seoTitle: "Sut i Siarad â Phlant Am Ddementia"
-description: "Esboniwch ddementia i blentyn gydag atebion gonest sy’n briodol i’w oedran. Diogelwch eu trefn a’u preifatrwydd, croesawch gwestiynau a chadwch gyfrifoldebau gofal gydag oedolion."
+description: "Esboniwch ddementia i blentyn gydag atebion gonest sy’n addas i’w oedran. Diogelwch ei drefn a’i breifatrwydd, croesawch gwestiynau a chadwch gofal gydag oedolion."
 section: caregiving
 order: 29
 updated: 2026-11-11
