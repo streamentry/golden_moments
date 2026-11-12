@@ -1,7 +1,7 @@
 ---
 title: "Gawe Mangan Luwih Gampang kanggo Wong sing Nandhang Demensia"
 seoTitle: "Mangan Luwih Tentrem kanggo Wong sing Nandhang Demensia"
-description: "Cara praktis supaya mangan dadi luwih tentrem kanggo wong sing nandhang demensia: pangan sing wis dikenal, gangguan sing sithik, meja sing jelas, wektu sing cukup lan ruang kanggo mandiri."
+description: "Cara praktis supaya mangan dadi luwih tentrem kanggo wong sing nandhang demensia: pangan sing wis dikenal, gangguan sithik, meja sing jelas lan wektu sing cukup."
 section: caregiving
 order: 13
 updated: 2026-11-11
@@ -45,7 +45,7 @@ Pedoman [Alzheimer's Association babagan pangan lan mangan](https://www.alz.org/
 
 Yen wong kasebut seneng ditemani, lungguha lan mangan bareng. Obrolan dijaga prasaja lan wenehi kesempatan supaya dheweke fokus marang pangan nalika dikarepake. Aja mbenerake cara dheweke nganggo peralatan utawa takon pitakonan sing dadi kaya ujian. Yen meja dadi rame utawa sibuk, kurangi jumlah wong utawa pindah menyang papan sing luwih tenang.
 
-Yen masak wis dadi abot, pangan siap saji sing wis dikenal utawa bantuan kanggo sawijining bagian saka tugas bisa nggawe mangan dadi luwih gampang dikelola. Dementia Australia menehi saran pangan sing dikirim menyang omah utawa pangan siap saji minangka pilihan yen dibutuhake. Takon pangan apa sing disenengi wong kasebut lan jenis bantuan apa sing gelem ditampa; kemudahan kudu tetep ngengkeri ruang kanggo pilihane.
+Yen masak wis dadi abot, pangan siap saji sing wis dikenal utawa bantuan kanggo sawijining bagian saka tugas bisa nggawe mangan dadi luwih gampang dikelola. Dementia Australia menehi saran pangan sing dikirim menyang omah utawa pangan siap saji minangka pilihan yen dibutuhake. Takon pangan apa sing disenengi wong kasebut lan jenis bantuan apa sing gelem ditampa; kemudahan kudu tetep menehi ruang kanggo pilihane.
 
 ## Kepriye carane aku bisa nggawe meja luwih gampang diikuti?
 
