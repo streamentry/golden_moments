@@ -1,7 +1,7 @@
 ---
 title: "Heyvan baxımı və demans: ortaq rutinə dəstək"
 seoTitle: "Demans olan şəxs üçün heyvan baxımına dəstək"
-description: "Xatırlatmalar, razılaşdırılmış kömək və ehtiyat planları ilə demans olan şəxsə heyvan baxımı rutinini saxlamağa kömək edin. Şəxsin seçimlərinə və heyvanın ehtiyaclarına hörmət edin."
+description: "Xatırlatmalar, razılaşdırılmış kömək və ehtiyat planı ilə demans olan şəxsə heyvan baxımını davam etdirməyə kömək edin, onun seçimlərinə hörmət edərək."
 section: caregiving
 order: 15
 updated: 2026-11-11
