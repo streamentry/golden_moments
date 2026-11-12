@@ -1,35 +1,36 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktivitéiten a Spiller fir Mënsche mat Alzheimer"
+seoTitle: "Alzheimer-Aktivitéiten a Spiller: Iddien no Stadium"
+description: "Aktivitéiten a Spiller fir Mënsche mat Alzheimer a jidder Phase, baséiert op de laangfristeg Fäegkeeten an Erënnerungen, déi oft bleiwen, mat gratis Spiller fir zesummen ze spillen."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Gutt Aktivitéiten fir eng Persoun mat Alzheimer hänken un deem, wat am
+  längsten bleift: laang geübte Fäegkeeten, al Lidder, vertraut Haushaltsaufgaben
+  an d'Sënner. Am Ufank kënnen Kaarten, Brettspiller, Kachen an Ausflich dacks
+  nach funktionéieren. An der Mëtt vum Verlaf probéiert Falten, Sortéieren,
+  Singen, Fotoalben a einfach Bildspiller. Spéit an der Krankheet sinn Musek,
+  Berührung a Gesellschaft am wichtegsten. Orientéiert Iech un deem, wéi d'Persoun
+  haut ass.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimer ass déi heefegst Ursaach vun Demenz, dofir gëllen d'Aktivitéitsiddien fir Demenz och hei."
+  - "Neier Informatioun fält dacks am schwéierste, wärend Fäegkeeten an Lidder, déi ee laang viru geléiert huet, dacks méi laang bleiwen. Bauen Dir doropper op."
+  - "Phasen iwwerlappen sech, a gutt an schwéier Deeg sinn normal. Wielt no deem, wat d'Persoun haut kann an genéisst."
+  - "Wielt Spiller ouni Zäitlimit, Punkten oder Froen, an loosst d'Biller sichtbar bleiwen."
+  - "Zuekucken, eppes an der Hand halen oder einfach zesumme sëtzen zielen all als Matmaachen."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Wéi Aktivitéiten sinn gutt fir eng Persoun mat Alzheimer?"
+    a: "Vertraut Aktivitéiten, e bëssen eenfacher gemaach: Wäsch falen, de Dësch decken, zesummen kachen, Musek a Gesang, Fotoe kucken, spazéieren, gäerteln oder Zäit mat engem Déier verbréngen. Einfach Bildspiller, liicht Puzzelen an Gesprächskaarten passen fir vill Leit ebenfalls. Wielt, wat d'Persoun ëmmer gär gemaach huet, a maacht et matenee."
+  - q: "Sinn Spiller gutt fir Mënsche mat Alzheimer?"
+    a: "Spiller kënnen eng agenehm Aart si, Zäit zesummen ze verbréngen, wann d'Persoun se gär huet. Kee Spill huet bewisen, Alzheimer ze behandelen, ze verlangsamen oder opzehalen. Wielt Spiller also fir de Plaisir: grouss Biller, wéineg Auswiel, a kee Timer, keen Score an keng Fehlerklänge."
+  - q: "Gëtt et e Ënnerscheed tëscht Demenz-Aktivitéiten an Alzheimer-Aktivitéiten?"
+    a: "Gréisstendeels net. Alzheimer ass déi heefegst Ursaach vun Demenz, an déi selwecht Aktivitéitsiddien gëllen. Wat bei Alzheimer hëlleft, ass ze wëssen, datt rezent Erënnerungen normalerweis als éischt verbleechen; dofir lafen Aktivitéiten, déi op méi ale Fäegkeeten, Lidder a Routinen opbaueen, dacks méi glat."
+  - q: "Wat kann eng Persoun an der spéider Phase vun Alzheimer nach genéissen?"
+    a: "Liiblingsmusek, eng sanft Handmassage, weich Saache fir an d'Hand ze huelen, Virlies, drauss sëtzen an d'Gesellschaft vun enger Persoun, déi si vertraut. Hält et kuerz a roueg, a kuckt op hirem Gesiicht a Kierper, wat si gär huet."
+  - q: "Wéi kréien ech eng Persoun mat Alzheimer fir eng Aktivitéit interesséiert?"
+    a: "Frot ëm Hëllef, anstatt eng Aktivitéit ukënnegen, luet alles am Viraus op, a fänkt selwer un, sou datt si matmaache kann. Déi Tageszäit ze wielen, an där si am beschte drop ass, mécht vill aus. Wann si Nee seet, probéiert et méi spéit nach eng Kéier oder bitt eng méi kleng Versioun un."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +55,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Wann e Mënsch, deen Dir gär hutt, Alzheimer huet, hutt Dir wahrscheinlech schonn gemierkt, datt eppes ganz séier verschwënnt, wärend anerebäi bleift. Si kann de Telefonsruff vum Mëtteg vergiessen, awer nach all Wuert vun engem Kierchelidd singen, en Handtuch falen, wéi si et ëmmer gemaach huet, oder ouni Nodenken en Hand Kaarten austeelen. Gutt Aktivitéiten bauen op dës bleiwend Fäegkeeten. Dës Säit erkläert, warum, a bitt Iddien fir all Phas un, souwéi déi gratis Spiller op dëser Websäit, déi dozou passen.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Ass Alzheimer bei Aktivitéiten anescht wéi Demenz?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Net vill. Demenz ass de Gesamtbegrëff, an Alzheimer ass déi heefegst Ursaach dovun: D'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) seet, datt et 60 bis 80 Prozent vun de Demenzfäll ausmécht. Bal alles, wat iwwer Aktivitéiten bei Demenz geschriwwe gëtt, gëllt och fir Alzheimer, och eis [101 Aktivitéitsiddien](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Nëtzlech ass et ze wëssen, an wéi enger Reiefolleg Verännerunge geschéien. D'[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) erkläert, datt Alzheimer als Éischt d'Hiirnbereicher schiedegt, déi fir d'Erënnerung zoustänneg sinn, a méi spéit Sprooch, Denkvermögen a soziales Verhalen beaflosst. D'Alzheimer's Association sot, datt déi heefegst fréi Symptom Schwieregkeeten sinn, sech neilech geléiert Informatiounen ze erënneren. Jidderee ass anescht, a vill Leit hunn gemëschte Ursaachen, awer dëst Muster bestëmmt, wat dacks funktionéiert.
 
-## What kinds of activities suit Alzheimer's best?
+## Wéi Aktivitéiten passen am beschten zu Alzheimer?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktivitéiten, déi op altem, gutt geübten Wëssen beruhen, lafen normalerweis méi glat wéi Aufgaben, bei deenen eppes Neies geléiert an am Kapp behalen muss ginn.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Laang geüebt Fäegkeeten.** D'Alzheimer's Association mierkt un, datt eng Persoun nach ëmmer eenfach Lidder spille kann, déi si vir Joren op der Pianos geléiert huet. Stréckelen, Holz schleifen, Kaarten mëschen, Teig kneiden an Wäsch falen sinn ähnlech.
+- **Al Lidder a vertraut Musek.** Vill Leit kennen nach all Wuert vun Lidder aus hirer Jugend, Kierchelidder an d'Lidder vun hirer Hochzäit. Kuckt [Musekaktivitéiten](/activities/music/).
+- **Alldeeglech Aufgaben mat engem Zweck.** D'[NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nennt Geschir wäschen, de Dësch decken, Socke sortéieren an Wäsch falen als Aktivitéiten, déi Leit gär maachen. Et ass wichteg, sech nëtzlech ze fillen.
+- **Erkennen amplaz erënneren.** Op dat passend Bild ze weisen ass méi einfach, wéi et aus der Erënnerung ze benennen. Dofir funktionéieren Bildspiller, bei deenen alles a Siicht ass, besser wéi Quiz.
+- **D'Sënner.** Textur, Gerëch, Wärmt, Geschmaach a Kläng bleiwe bedeitend, lang nodeem d'Wierder schwéier ginn. Kuckt [sensoresch Aktivitéiten](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Wat eher schlecht geet: alles mat enger Auer, neie Regelen, vill Schrëtt, déi ee sech muss merken, oder Froen, déi d'Erënnerung testen, wéi „Erënnert Dir Iech, wien dat ass?“. Sou kënnt de schwéiere Deel vun Alzheimer direkt an de Mëttelpunkt.
 
-## Activities for early-stage Alzheimer's
+## Aktivitéiten bei Alzheimer am Ufangsstadium
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+Am Ufangsstadium seet d'[Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages), datt eng Persoun nach fueren, schaffen a sozial Aktivitéiten maachen kann, wärend si Erënnerungslücken bemierkt, wéi vergiessene vertraute Wierder oder wou Saache leien. De beschte Wee ass Partnerschaft: Frot, wat si weider maache wëll an wéi Hëllef si sech wënscht.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Hobbyen weider maachen.** Golf, Bridge, Quilten, Chouer a Kierchegruppen, mat klenge Upassungen wéi méi klenge Gruppen an rouegere Zäiten.
+2. **Vertraut Kaarte- a Brettspiller spillen.** D'[Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nennt Quiz, Wuertsichen, Kaartespiller a Brettspiller fir d'Ufangsstadium. Spillt als Team, wann et hinnen mat dem Punkten net méi gutt geet, oder loosst d'Punkten ganz fort.
+3. **Zesumme kachen.** Loosst si ee Rezept dat si am Kapp kennt, féieren, während Dir d'Schrëtt liest.
+4. **Eng Liewensgeschicht ufänken.** Fotoen, Rezepter a Geschichten an engem Album, dat si leet. Kuckt [Erënnerungsaktivitéiten](/activities/reminiscence/).
+5. **Ausflich maachen.** E Liiblingsrestaurant an enger roueger Stonn, en Musée fir e kuerze Besuch, e Spazéiergang am Park.
+6. **Puzzelen ausprobéieren, déi si wielt.** Kräizwuert mat groussen Drock, Wuertsichen a Puzzelen. Kuckt [Puzzelen fir Demenz](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Méi Iddien: [Aktivitéiten am Ufangsstadium](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktivitéiten bei Alzheimer an der Mëttelphase
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+D'Alzheimer's Association beschreift d'Mëttelphase als dacks déi längst, a si kann vill Joer daueren. Wieder verwiesselen sech, Frustratioun kënnt méi liicht, an d'Persoun brauch méi Pfleeg. D'Alzheimer's Foundation of America fügt bäi, datt vill Leit Hëllef brauchen, fir Aktivitéiten unzefänken oder weiderzeféieren. Är Roll verännert sech: Dir riicht Saachen aus, zeigt, anstatt ze erklären, a iwwerhëlt déi schwéier Deeler.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Falen, sortéieren a passend zouerdnen.** Handtécher, Socken, Besteck, Knäppchen no Faarf. Richteg Aufgaben, déi neewenee gemaach ginn.
+2. **Singen a bei Musek bewegen.** Klatschen, schwanken oder an der Kichen danzen. Fänkt selwer mat Singen un a loosst si matmaachen.
+3. **Fotoalbumen duerchkucken.** Beschreift, wat Dir gesitt, a luet zu Geschichten an: „Wat e Auto. Erzielt mir dorunner.“ Gitt mat de Nimm mat, déi si benotzt.
+4. **Einfach Bildspiller spillen.** [Bildpaaren](/games/picture-pairs/) mat véier bis sechs Kacheln, wou d'Biller sichtbar bleiwen, oder [Dat Selwecht fannen](/games/find-the-same/) mat zwou oder dräi Auswiele.
+5. **Vertraut Sprëch fäerdegmaachen.** „En Apel um Dag hält den Dokter...“ Sprëch, déi een viru Joren geléiert huet, kommen dacks liicht. Probéiert [De Saz fäerdegmaachen](/games/finish-the-saying/), wou Dir all Enn mat engem Tipp weisen kënnt.
+6. **Planzen giessen an ëmsuergen.** Zëmmerplanzen oder en Héichbeet, mat engem klenge Gießkan.
+7. **Ee passend Spill aus Famillefotoen maachen.** [Fotopaaren](/games/photo-pairs/) benotzt Biller, déi Dir op Ärem Gerät wielt, a si verloossen dat Gerät nie.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Méi Iddien: [Aktivitéiten an der Mëttelphase](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktivitéiten bei Alzheimer an der spéider Phase
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+An der spéider Phase seet d'Alzheimer's Association, datt Mënschen d'Fäegkeet verléieren, op hir Ëmgéigend ze reagéieren a ee Gespréich weiderzefueren, och wann si nach ëmmer Wierder oder Sätze sot. Aktivitéit heescht elo Komfort a Verbindung, dorhin bruecht, wou d'Persoun ruet.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Hir Liiblingsmusek spillen,** roueg, ouni de Fernseher drëms.
+2. **Eng Handmassage ginn** mat enger Crème mat engem Gerüch, deen si gär huet.
+3. **Weich Saachen zum Festhalen ubidden:** eng waarm Decken, e Fleece, e glatten Steen.
+4. **Laut Virliesen,** Psalmen, Gedichter oder eng vertrauten Geschicht. De Rhythmus ass wichtiger wéi d'Bedeitung.
+5. **Drauss sëtzen,** am Schiet oder beim Fënster mat Vullen, déi een kann kucken.
+6. **Zesumme ee grousst Bild ukucken.** Eng Sonnebléim oder en Hond, deen de Bildschierm fëllt, mat Iech, wéi Dir sot, wat Dir gesitt.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Méi Iddien: [Aktivitéiten an der spéider Phase](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Wéi Spiller passen fir eng Persoun mat Alzheimer?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Wielt Spiller, wou näischt falsch gemaach ka ginn. All Spill op dëser Websäit ass gratis, leeft am Browser a verlaangt keen Timer, keng Punkten an kee Login.
 
-| Game | What you do | Often suits |
+| Spill | Wat ee mécht | Passt dacks fir |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Bildpaaren](/games/picture-pairs/) | Gruss Biller zouerdnen; si kënnen oppe bleiwen | Ufank- an Mëttelphase |
+| [Dat Selwecht fannen](/games/find-the-same/) | Dat Bild antippen, dat dem Bild uewen entsprécht | Mëtt- an spéider Phase, mat Hëllef |
+| [De Saz fäerdegmaachen](/games/finish-the-saying/) | D'Schlusswuert vun engem vertraute Sprëch wielen oder weisen | Ufank- an Mëttelphase |
+| [Bildpuzzel](/games/picture-puzzle/) | 4 oder 9 Stécker zréck op hir Plaz schiewen, mat dem Bild gewisen | Ufank- an Mëttelphase |
+| [Gesprächskaarten](/games/conversation-cards/) | En Bild an eng oppen Fro, iwwer déi ee schwätze kann | All Phas, mat engem Gespréichspartner |
+| [Fotopaaren](/games/photo-pairs/) | En Zuerdnungsspill aus Ären eegenen Fotoen | Ufank- an Mëttelphase |
+| [Faarwen](/games/coloring/) | Eng Faarf antippen, dann e Stéck vun engem Bild; oder et ausdrécken | All Phas, mat Hëllef |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+Wéi ee zesumme sëtzt, wéi vill Hëllef gebraucht gëtt a wann ee stoppt, liest [wéi een mat enger Persoun mat Demenz spillt](/caregiving/how-to-play-together/). Wann Dir iwwer „Gedächtnisspiller“ nodenkt, kuckt [Erënnerungsspiller fir Senioren mat Demenz](/activities/memory-games/).
 
-## How to make any activity easier
+## Wéi ee jidderen Aktivitéit méi einfach maache kann
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+Den Rot vum NIA kënnt op e puer Gewunnechten erof: d'Aktivitéit un dat upassen, wat d'Persoun kann, hir beim Ufänken hëllefen, op Frustratioun oppassen, dofir suergen, datt si sech erfollegräich fillt, a loosst si ganz eleng zoukucken, wann dat ass, wat si gär huet.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Wielt d'Tageszäit, an där si am beschte drop ass,** an hält d'Sessiounen kuerz.
+- **Luet alles am Viraus op,** sou datt Dir direkt ufänke kënnt.
+- **Frot, ginn Iech keng Uweisung.** „Kënnt Dir mir e bëssen hëllefen?“ funktionéiert besser wéi „Et ass Zäit fir eng Aktivitéit.“
+- **Maacht den éischte Schrëtt selwer** a loosst si matmaachen.
+- **Bitt ëmmer nëmmen ee Schrëtt an eng Wiel op eemol un.**
+- **Loosst et op hir Aart maachen.** Krumm Handtécher sinn a Rendnung.
+- **Hal op, solang et nach agenehm ass.** En fréie Enn ass e gudde Resultat, kee Versoen. Wann si refuséiert, kuckt [wann eng Persoun mat Demenz Nee seet](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+D'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) fasst et eng einfach Form: Konzentréiert Iech op de Plaisir, net op d'Leeschtung.
