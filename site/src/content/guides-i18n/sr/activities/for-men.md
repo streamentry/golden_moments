@@ -1,32 +1,33 @@
 ---
-title: "Activities for Men with Dementia"
-seoTitle: "Activities for Men with Dementia: Real-Life Ideas"
-description: "Activity ideas for men living with dementia, built on past work, hobbies and routines rather than stereotypes, with tips for adapting each one safely."
+title: "Активности за мушкарце са деменцијом"
+seoTitle: "Активности за мушкарце са деменцијом: идеје из стварног живота"
+description: "Идеје за активности за мушкарце са деменцијом, засноване на прошлом послу, хобијима и навикама, а не на стереотипима, са саветима за безбедно прилагођавање."
 section: activities
 order: 11
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best activities for a man living with dementia come from his own life:
-  the work he did, the hobbies he loved and the daily routines he kept. A former
-  office worker may enjoy sorting papers, a mechanic may enjoy handling clean
-  tools, and a sports fan may enjoy an old game. Interests vary from man to man,
-  so start from the person, not from his gender.
+  Најбоље активности за мушкарца који живи са деменцијом долазе из његовог
+  сопственог живота: посла који је радио, хобија које је волео и свакодневних
+  навика које је чувао. Некадашњи канцеларијски радник можда ужива у слагању
+  папира, механичар у руковању чистим алатом, а љубитељ спорта у старој игри.
+  Интересовања се разликују од човека до човека, па почните од особе, а не од
+  њеног пола.
 keyPoints:
-  - "Start with this man's own history: his job, his hobbies, his routines and what he was proud of."
-  - "Tasks with a real purpose, such as sorting hardware, washing the car or sanding wood, often appeal more than activities that feel like a class."
-  - "Not every man likes tools or sports. Many enjoy cooking, music, gardening, art or caring for others. Ask, watch and follow his lead."
-  - "Make work-style tasks safe by removing sharp tools and supervising, and simplify them as abilities change."
-  - "Saying no is allowed. Offer a role, not an assignment, and try again another day."
+  - "Почните од сопствене историје овог човека: посла, хобија, навика и онога чиме је био поносан."
+  - "Задаци са стварном сврхом, попут слагања шрафова, прања аутомобила или брушења дрвета, често привлаче више од активности које личе на час."
+  - "Не воли сваки мушкарац алат или спорт. Многи уживају у кувању, музици, баштованству, уметности или бризи о другима. Питајте, посматрајте и пратите његов ритам."
+  - "Задатке налик на посао учините безбедним уклањањем оштрих алата и надзором, а поједноставите их како се способности мењају."
+  - "Одбијање је дозвољено. Понудите улогу, а не задатак, и покушајте други дан."
 faq:
-  - q: "What activities do men with dementia enjoy?"
-    a: "There is no single list, because men's interests vary as much as anyone's. Good starting points are tasks linked to his past work, such as organizing papers or sorting nuts and bolts, along with hobbies he loved, such as fishing, cars, music, cooking or sports. Watch what he does on his own and build on it."
-  - q: "My dad refuses group activities. What can I do?"
-    a: "Many people, men and women alike, turn down activities that feel like a class or seem childish. Try offering a job instead: 'Could you help me sort these?' Smaller groups or one-to-one time may also feel more comfortable than a large room."
-  - q: "Is it safe to let him use tools?"
-    a: "Only with supervision and safe tools. Remove power tools, blades and anything sharp, and offer tasks like sanding a block of wood, sorting clean hardware, or tightening large bolts by hand. The Alzheimer's Association suggests removing hazardous items from a workshop so a task like sanding can still be enjoyed safely."
-  - q: "He was a professional. Will simple tasks feel insulting?"
-    a: "They can if they are presented as busywork. Frame the task as real help, use adult materials, and choose something close to his old role, such as reviewing a list, organizing a file or helping assemble a mailing. If he was highly skilled at something, a related but different activity may feel less like a comparison."
+  - q: "Какве активности воле мушкарци са деменцијом?"
+    a: "Не постоји једна листа, јер интересовања мушкараца варирају као и код свих других. Добре полазне тачке су задаци везани за његов прошли посао, попут слагања папира или сортирања шрафова и завртњева, и хобији које је волео, попут пецања, аутомобила, музике, кувања или спорта. Посматрајте шта ради сам и надограђујте то."
+  - q: "Мој отац одбија групне активности. Шта могу да урадим?"
+    a: "Многи људи, и мушкарци и жене, одбијају активности које личе на час или делују детињасто. Пробајте да понудите посао: „Можеш ли да ми помогнеш да ово сложимо?“ Мање групе или време један на један такође могу бити удобније од велике собе."
+  - q: "Да ли је безбедно да користи алат?"
+    a: "Само уз надзор и безбедан алат. Уклоните електричне алате, сечива и све оштро, а понудите задатке попут брушења блока дрвета, слагања чистог метала или руком стезања већих завртњева. Alzheimer's Association предлаже да се из радионице уклоне опасне ствари, како би задатак попут брушења и даље могао безбедно да се ужива."
+  - q: "Био је професионалац. Да ли ће га једноставни задаци вређати?"
+    a: "Могу, ако се представе као досадан посао. Задатак представи као стварну помоћ, користите материјале за одрасле и изаберите нешто блиско његовој некадашњој улози, попут прегледа листе, слагања документа или помоћи при слању поште. Ако је био веома вешт у нечему, сродна, али другачија активност може мање личити на поређење."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -45,82 +46,82 @@ related: [activities/ideas, activities/household-tasks, activities/outdoor-and-g
 health: false
 ---
 
-People often search for "activities for men with dementia" because the usual suggestions do not seem to fit the man in their life. That is a fair concern. But the answer is not a list of "manly" activities. It is to start with this particular man: what he did for a living, what he did with his weekends, and what made him feel useful. Interests vary for everyone. Plenty of men love to cook, garden, paint or sing, and plenty of women love cars and baseball.
+Људи често траже „активности за мушкарце са деменцијом“ зато што уобичајени предлози не делују као да одговарају човеку у њиховом животу. То је оправдана брига. Али одговор није листа „мушких“ активности. Одговор је почети од овог конкретног човека: чиме се бавио за живот, шта је радио викендом и шта га је чинило корисним. Интересовања варирају за све. Многи мушкарци воле да кувају, баштованишу, сликају или певају, а многе жене воле аутомобиле и бејзбол.
 
-## How do I find activities he will actually enjoy?
+## Како да пронађем активности које ће заиста волети?
 
-Begin with his life story. The Alzheimer's Association suggests building a [daily plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) around the person's likes, dislikes, strengths and interests, and around how he used to structure his day. Ask yourself:
+Почните од његове животне приче. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) предлаже да дневни план градите око личних свиђања и несвиђања, снага и интересовања, као и око тога како је раније организовао дан. Запитајте се:
 
-- **What was his work?** Office, farm, factory, trade, military, sales, teaching, driving, the home?
-- **What did he do in his free time?** Fishing, cards, woodworking, sports, church, music, cooking, a car in the garage?
-- **What were his routines?** Coffee and the paper every morning? Checking the weather? Washing the car on Saturdays?
-- **What does he still start on his own?** The Association notes that if a person begins tasks without being asked, such as sweeping the floor, those tasks can become part of the routine.
-- **What does he avoid?** Some people enjoy watching sports; others find the pace and noise upsetting. Notice when he seems happy, anxious or irritable.
+- **Чиме се бавио?** Канцеларија, фарма, фабрика, занат, војска, продаја, настава, возачки посао, кућа?
+- **Шта је радио у слободно време?** Пецање, карте, дрворезбарство, спорт, црква, музика, кување, аутомобил у гаражи?
+- **Какве је имао навике?** Кафа и новине сваког јутра? Провера времена? Прање аутомобила суботом?
+- **Шта још почиње сам?** Удружење напомиње да ако особа почне задатке без позива, попут метења пода, ти задаци могу постати део рутине.
+- **Чега се клони?** Неки људи воле да гледају спорт; други се узнемире због темпа и буке. Примећујте кад је срећан, узнемирен или раздражљив.
 
-Talk with family and old friends too. They may remember interests that have faded from daily life.
+Разговарајте и са породицом и старим пријатељима. Они се можда сете интересовања која су избледела у свакодневном животу.
 
-## Activity ideas based on past work
+## Идеје за активности засноване на прошлом послу
 
-The Alzheimer's Association gives a clear example: a former office worker might enjoy organizing tasks, like putting coins in a holder, helping assemble a mailing or making a to-do list, while a former farmer or gardener may enjoy working in the yard. The same idea applies to many jobs.
+Alzheimer's Association даје јасан пример: некадашњи канцеларијски радник можда ужива у организовању, на пример у стављању новчића у држач, помоћи при слању поште или писању листе обавеза, док бивши фармер или баштован може радити у дворишту. Иста идеја важи за многе послове.
 
-| Past work | Activity ideas | Simpler version |
+| Прошли посао | Идеје за активности | Једноставнија верзија |
 | --- | --- | --- |
-| Office or business | Sorting papers into folders, stamping envelopes, reviewing a list, organizing a desk drawer | Stacking envelopes; putting paper clips in a box |
-| Trades or mechanics | Sorting clean nuts, bolts and washers; tightening large bolts by hand; looking at tool catalogs | Sorting by size into two cups |
-| Farming or landscaping | Watering, potting plants, raking leaves, checking on the garden | Sitting outside while you work; holding seed packets |
-| Military | Polishing shoes, squaring away a drawer, looking at photos from service if he enjoys them | Listening to music from that era |
-| Sales or customer service | Greeting visitors, handing out snacks, sorting coupons | Sitting by the door to say hello |
-| Teaching | Reading aloud, organizing books, sorting pictures by theme | Looking through a picture book together |
-| Driving or transport | Looking at maps or old car magazines, washing the car | Watching cars go by from a porch |
-| Home and family | Folding laundry, setting the table, helping with dinner | Smoothing napkins; stirring |
+| Канцеларија или посао | Слагање папира у фасцикле, лепљење марака на коверте, преглед листе, сређивање фиоке | Слагање коверата; стављање спајалица у кутију |
+| Занати или механика | Слагање чистих матица, завртњева и подлошки; руком стезање већих завртњева; листање каталога алата | Слагање по величини у две шоље |
+| Фарма или уређење простора | Заливање, сађење биљака у саксије, гребање лишћа, провера баште | Седење напољу док ви радите; држање кеса са семеном |
+| Војска | Глачање ципела, слагање фиоке, гледање фотографија из службе ако му се то допада | Слушање музике из тог времена |
+| Продаја или услуга купцима | Дочек гостију, дељење грицкалица, слагање купона | Седење поред врата да поздрави људе |
+| Настава | Читање наглас, слагање књига, слагање слика по теми | Заједничко листање књиге са сликама |
+| Возач или транспорт | Гледање мапа или старих часописа о аутомобилима, прање аутомобила | Гледање аутомобила који пролазе са терасе |
+| Кућа и породица | Слагање веша, постављање стола, помоћ око вечере | Глачање салвета; мешање |
 
-Some memories, such as military service, can bring up strong feelings. Follow his lead, keep talk about the past positive, and change the subject gently if he seems upset.
+Неке успомене, попут војног рока, могу да изазову снажна осећања. Пратите његов ритам, одржавајте разговор о прошлости позитивним и нежно промените тему ако се узнемири.
 
-## Activity ideas based on hobbies
+## Идеје за активности засноване на хобијима
 
-1. **Woodworking.** Sanding a smooth block of wood or painting a birdhouse kit. The Alzheimer's Association suggests removing hazardous materials and tools from the workshop so an activity like sanding can be enjoyable and safe.
-2. **Fishing.** Sorting a tackle box with the hooks removed, looking through fishing magazines, or sitting by a pond together.
-3. **Cars.** Washing the car, polishing chrome, looking at classic car photos, or going for a drive as a passenger.
-4. **Sports.** Watching a classic game or highlights, tossing a soft ball, putting golf balls on a carpet, or sorting baseball cards.
-5. **Cards and games.** A simple hand of a familiar card game, dominoes, or turning over cards to find a match. Keep it relaxed and drop keeping score.
-6. **Music.** Songs from his teens and twenties, a favorite band, or a hymn. See our [music activities guide](/activities/music/).
-7. **Cooking and grilling.** Washing vegetables, stirring sauce, shaping burgers, or describing how he made his famous chili while you cook it.
-8. **The newspaper.** The Alzheimer's Association notes that a person who always read the paper may still enjoy doing so, even if he cannot fully follow the content. Coffee and the paper can stay part of the morning.
-9. **Building.** Large-piece model kits or simple construction sets for adults. Choose pieces that are easy to grip.
-10. **Caring for something.** Feeding a pet, filling the bird feeder, or watering plants. The NIA lists [feeding, grooming or walking a pet](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people may enjoy.
+1. **Дрворезбарство.** Брушење глатког блока дрвета или бојење кућице за птице из комплета. Alzheimer's Association предлаже да се из радионице уклоне опасни материјали и алати, како би активност попут брушења била пријатна и безбедна.
+2. **Пецање.** Слагање кутије за пецање без удица, листање часописа о пецању или заједничко седење поред језерцета.
+3. **Аутомобили.** Прање аутомобила, полирање хрома, гледање фотографија класичних аутомобила или вожња као сувозач.
+4. **Спорт.** Гледање старе утакмице или најбољих тренутака, бацање меке лопте, постављање куглица за голф на тепих или слагање бејзбол картица.
+5. **Карте и игре.** Једна партија познате игре карата, домине или окретање карата да се нађе пар. Нека буде опуштено и одустаните од бројања поена.
+6. **Музика.** Песме из његових тинејџерских и двадесетих година, омиљени бенд или црквена песма. Погледајте наш водич за [музичке активности](/activities/music/).
+7. **Кување и роштиљ.** Прање поврћа, мешање соса, обликовање плескавица или причање о томе како је правио свој чувени чили док га ви кувате.
+8. **Новине.** Alzheimer's Association наводи да особа која је увек читала новине може и даље да ужива у томе, чак и ако не може у потпуности да прати садржај. Кафа и новине могу остати део јутра.
+9. **Градња.** Модели са великим деловима или једноставни сетови за градњу за одрасле. Бирајте делове које је лако држати.
+10. **Брига о некоме.** Храњење кућног љубимца, пуњење хранилице за птице или заливање биљака. NIA наводи [храњење, чешљање или шетњу кућног љубимца](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) међу активностима које људи могу да воле.
 
-## How do I offer an activity without it feeling like busywork?
+## Како да понудим активност а да не звучи као досадан посао?
 
-Present it as real help. The Alzheimer's Association suggests asking "Could you please help me?" and connecting tasks to a purpose. Compare:
+Представите је као стварну помоћ. Alzheimer's Association предлаже да питате „Можеш ли да ми помогнеш?“ и да задатке повежете са сврхом. Упоредите:
 
-- "Do you want to sort these bolts?" (sounds like a test)
-- "I bought a mixed bag of hardware and I need these sorted before I fix the shelf. Can you give me a hand?" (sounds like a job)
+- „Хоћеш ли да сложиш ове шрафове?“ (звучи као испит)
+- „Купио сам мешану кутију ситног метала и треба ми да то сложимо пре него поправим полицу. Можеш ли да ми помогнеш?“ (звучи као посао)
 
-Other tips:
+Остали савети:
 
-- **Use adult materials.** Real tools with sharp edges removed, real catalogs, real envelopes.
-- **Work side by side.** Two people working on a job is company. One person watching another is supervision.
-- **Do not correct.** If bolts end up in the wrong cup, let it be. What matters is the time together and the feeling of being useful.
-- **Help him start.** The Alzheimer's Association notes many people still have the desire to do things but struggle to organize and begin. Do the first one together.
+- **Користите материјале за одрасле.** Прави алат са уклоњеним оштрим ивицама, прави каталози, праве коверте.
+- **Радите једно поред другог.** Два човека који раде на послу су заједништво. Један који гледа другог је надзор.
+- **Не исправљајте.** Ако шрафови заврше у погрешној шољи, нека буде. Важно је време заједно и осећај да је корисно.
+- **Помозите му да почне.** Alzheimer's Association наводи да многи људи и даље желе да раде ствари, али им је тешко да организују и почну. Први корак урадите заједно.
 
-## How do I adapt as things change?
+## Како да прилагођавам кад се ствари мењају?
 
-As dementia progresses, the Alzheimer's Association suggests introducing simpler, more repetitive tasks and being ready for the person to take a less active role. A man who once rebuilt engines may now enjoy holding a clean wrench and talking about cars, or watching you work. Watching is taking part.
+Како деменција напредује, Alzheimer's Association предлаже да уводите једноставније и понављајуће задатке и будете спремни да особа преузме мање активну улогу. Човек који је некада обнављао моторе можда сада ужива да држи чист кључ и прича о аутомобилима или да вас посматра док радите. Посматрање је такође учешће.
 
-If he was highly skilled at something, a related activity may feel better than his old craft. The Association notes that a professional artist might be frustrated by changes in his work, while an amateur might enjoy a new outlet. The same is true of a master carpenter.
+Ако је био веома вешт у нечему, сродна активност можда ће боље деловати од његовог некадашњег заната. Удружење напомиње да професионални сликар може бити фрустриран променама у свом раду, док аматер може да ужива у новом облику изражавања. Исто важи и за врхунског столара.
 
-## Safety with work-style tasks
+## Безбедност код задатака налик на посао
 
-- Remove power tools, blades, nails and screws with sharp tips.
-- Lock up paint thinner, gasoline, and chemicals.
-- Keep car keys out of sight if he no longer drives.
-- Supervise all workshop and yard tasks.
-- Choose large pieces that cannot be swallowed.
+- Уклоните електричне алате, сечива, ексере и шрафове са оштрим врхом.
+- Закључајте разређивач боја, бензин и хемикалије.
+- Склоните кључеве од аутомобила из вида ако више не вози.
+- Надгледајте све радове у радионици и дворишту.
+- Бирајте велике делове који се не могу прогутати.
 
-## What if he says no?
+## Шта ако каже не?
 
-Respect it. A no may mean the task feels too hard, too babyish or simply not right today. The Alzheimer's Association cautions not to force it. Try a different task, a different time, or just sit together. See [what to do when they say no](/caregiving/when-they-say-no/).
+Поштујте то. Одбијање може значити да је задатак превише тежак, превише детињаст или једноставно није прави за данас. Alzheimer's Association упозорава да се то не форсира. Пробајте други задатак, друго време или само заједно седите. Погледајте [шта радити кад неко каже не](/caregiving/when-they-say-no/).
 
-## Games and conversation that fit
+## Игре и разговор који одговарају
 
-[Finish the Saying](/games/finish-the-saying/) uses familiar American sayings and leads into conversation. [Conversation Cards](/games/conversation-cards/) has open, no-quiz prompts by theme, which can open stories about work and hobbies. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible while you swap pieces, and the large-print [Word Search](/games/word-search/) can be printed and done with a pen at the kitchen table. For ways to talk about his past without testing him, see our [reminiscence guide](/activities/reminiscence/).
+[Довршите изреку](/games/finish-the-saying/) користи познате америчке изреке и води ка разговору. [Карте за разговор](/games/conversation-cards/) садрже отворена питања без квиза, сортирана по темама, која могу отворити приче о послу и хобијима. [Слагалица са сликом](/games/picture-puzzle/) држи целу слику видљивом док мењате делове, а [тражилица речи](/games/word-search/) са великим словима може се одштампати и урадити оловком за кухињским столом. За начине да разговарате о његовој прошлости без тестирања погледајте наш [водич о присећању](/activities/reminiscence/).
