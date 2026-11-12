@@ -1,36 +1,35 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Globėjo savipagalba: pertrauka, parama ir perdegimo požymiai"
+seoTitle: "Demencijos globėjo savipagalba: pertrauka ir parama"
+description: "Globėjo perdegimo požymiai, kaip rasti poilsio pertrauką ir paramos grupes bei nemokamos JAV pagalbos linijos, įskaitant Alzheimerio asociacijos 24/7 pagalbos liniją ir Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Rūpintis žmogumi, sergančiu demencija, yra sunku, o savimi pasirūpinti – šio darbo dalis.
+  Stebėkite įspėjamuosius požymius, tokius kaip išsekimas, dirglumas, prastas miegas ir
+  atsitraukimas nuo draugų. Prašykite konkrečios pagalbos, naudokitės laikina globa ir
+  prisijunkite prie paramos grupės. JAV nemokama pagalba apima Alzheimerio asociacijos 24/7
+  pagalbos liniją 1-800-272-3900 ir Eldercare Locator 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Perdegimas dažnai pasireiškia išsekimu, dirglumu, prastu miegu, liūdesiu ir savo sveikatos priežiūros atidėliojimu."
+  - "Laikina globa suteikia jums poilsio – nuo kelių valandų iki kelių savaičių, namuose ar globos įstaigoje."
+  - "Prašykite pagalbos konkrečioms užduotims; daugelis žmonių nori padėti, bet nežino, kaip."
+  - "Alzheimerio asociacijos 24/7 pagalbos linija (1-800-272-3900) nemokamai ir konfidencialiai palaiko bet kuriuo metu."
+  - "Eldercare Locator (1-800-677-1116) nukreipia į vietines paslaugas, įskaitant jūsų vietos Senjorų reikalų agentūrą."
+  - "Jei jaučiatės krizėje, skambinkite arba rašykite 988. Avarijos atveju skambinkite vietinei skubiosios pagalbos tarnybai."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Kokie yra globėjo perdegimo požymiai?"
+    a: "Dažniausi požymiai – jaučiatės išsekę, priblokšti ar nerimaujate, lengvai pykstate ar nekantraujate, sunku miegoti, liūdite ar jaučiatės beviltiškai, atsitraukiate nuo draugų, dažnai skauda galvą ar kitur, praleidžiate savo valgymą, mankštą ar medicininę priežiūrą. Jei tokie požymiai kartojasi, pasikalbėkite su gydytoju."
+  - q: "Kaip rasti laikiną globą netoli manęs?"
+    a: "Pradėkite nuo Eldercare Locator (1-800-677-1116 arba eldercare.acl.gov), kad susisiektumėte su vietos Senjorų reikalų agentūra, ARCH nacionaline laikinos globos paieškos tarnyba ar Alzheimerio asociacijos pagalbos linija 1-800-272-3900. Laikiną pagalbą gali suteikti ir šeima, draugai bei savanoriai."
+  - q: "Ar „Medicare“ apmoka laikiną globą?"
+    a: "Žmogui, gaunančiam paliatyviąją priežiūrą, „Medicare“ padengia didžiąją dalį iki penkių iš eilės dienų laikinos globos ligoninėje ar kvalifikuotoje slaugos įstaigoje, pagal Nacionalinį senėjimo institutą. Dauguma privačių sveikatos draudimų laikinos globos nepadengia; gali padėti „Medicaid“ ir kai kurie ilgalaikės priežiūros draudimo planai."
+  - q: "Ar Alzheimerio asociacijos pagalbos linija tikrai nemokama ir veikia naktimis?"
+    a: "Taip. Alzheimerio asociacija teigia, kad jos pagalbos linija 1-800-272-3900 yra nemokama, konfidenciali ir veikia visą parą, 365 dienas per metus, o pagalba teikiama daugelyje kalbų. Relės paslaugai rinkite 711."
+  - q: "Ar savanaudiška imti pertrauką nuo globos?"
+    a: "Ne. Poilsis padeda toliau rūpintis, o laikina globa gali suteikti ir jūsų prižiūrimam žmogui pokyčių bei veiklos. Daugelis globėjų vėliau sako norėję paprašyti pagalbos anksčiau."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +66,147 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Jei rūpinatės žmogumi, gyvenančiu su demencija, šį puslapį greičiausiai skaitote vėlai,
+pavargę ir su sąrašu dalykų, kurių dar nespėjote padaryti. Tai normalu. Rūpinimasis savimi
+nėra prabanga ar atlygis už visų darbų baigimą. Būtent tai leidžia tęsti.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Šiame puslapyje aptariami perdegimo įspėjamieji požymiai, kaip gauti tikrą poilsį, kur rasti
+paramos ir kokias nemokamas JAV pagalbos linijas galite iškart paskambinti.
 
-## What are the signs of caregiver burnout?
+## Kokie yra globėjo perdegimo požymiai?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Perdegimas dažnai ateina palengva, todėl naudinga žinoti savo įspėjamuosius požymius.
+[Nacionalinis senėjimo institutas (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers)
+išvardija globėjo streso požymius, tarp jų:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- jaučiatės išsekę, priblokšti ar nerimaujate;
+- lengvai supykstate ar nekantraujate;
+- jaučiatės vieniši ar atitrūkę nuo kitų;
+- sunku miegoti arba miegate per mažai;
+- liūdite ar jaučiatės beviltiškai arba nebesidomite tuo, kas anksčiau teikė malonumą;
+- dažnai skauda galvą, kitur skauda ar kyla kitų fizinių problemų;
+- neturite laiko mankštai ar sveikam maistui sau;
+- praleidžiate dušą ar kitą asmeninę priežiūrą;
+- piktnaudžiaujate alkoholiu ar narkotikais, įskaitant receptinius vaistus.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress)
+prideda tokių požymių kaip neigimas dėl ligos, pyktis ant žmogaus („jis tiesiog užsispyręs“),
+nerimas dėl ateities, sunkumai susikaupti ir sveikatos problemos, kurios jus slegia. Ji pataria
+kreiptis į gydytoją, jei tokie požymiai kartojasi.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA patarimas – nelaukti, kol visiškai priblokštumėte. Pastebėkite savo požymius anksti ir
+imkitės veiksmų.
 
-## What can I do today, in five minutes?
+## Ką galiu padaryti šiandien per penkias minutes?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Maži pertraukėlės skaičiuojasi. Nė vienas iš šių dalykų neišgydo perdegimo, bet jie gali
+padėti išgyventi sunkią popietę.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Išeikite į lauką.** Atsisėskite ant verandos ar nueikite iki pašto dėžutės, kol žmogus
+  saugus ir ramus.
+- **Kvėpuokite lėtai.** Keletas lėtų įkvėpimų prieš atsakant į sunkų klausimą. Galite kartu su
+  žmogumi, kuriuo rūpinatės, pasidalyti [ramaus kvėpavimo](/games/calm-breathing/) pauze.
+- **Išgerkite vandens ir ką nors suvalgykite.** Lengva pamiršti savo maistą.
+- **Parašykite vienam draugui.** Ne tam, kad ko nors prašytumėte, tiesiog norėdami pabendrauti.
+- **Pasakykite sau ką nors malonaus.** NIA [vadovas, kaip rūpintis savimi](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself)
+  siūlo tokias frazes kaip „Darau viską, ką galiu“, „Nesu tobulas, ir tai gerai“ ir „Džiaugsiuosi
+  akimirkomis, kai galime būti kartu ramiai“.
 
-## What is respite care, and how do I get it?
+## Kas yra laikina globa ir kaip ją gauti?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Laikina globa – tai trumpalaikė priežiūra žmogui, kuriuo rūpinatės, kad galėtumėte pailsėti. NIA
+[puslapyje apie laikiną globą](https://www.nia.nih.gov/health/caregiving/what-respite-care) paaiškinama,
+kad ji gali trukti nuo kelių valandų iki kelių savaičių ir vykti namuose, sveikatos priežiūros
+įstaigoje ar suaugusiųjų dienos centre.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Alzheimerio asociacija](https://www.alz.org/help-support/caregiving/care-options/respite-care)
+aprašo dažniausius tipus:
 
-| Type | What it is |
+| Tipas | Ką tai reiškia |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Pagalba namuose | Į namus ateina draugas, giminaitis, savanoris ar apmokamas palydovas ar padėjėjas |
+| Suaugusiųjų dienos centras | Planuota veikla, pavyzdžiui, muzika ir menas, saugioje grupinėje aplinkoje; dažnai siūlomas transportas ir maitinimas |
+| Nakvynė ar trumpas laikotarpis | Ilgalaikės priežiūros bendruomenė rūpinasi žmogumi naktį, kelias dienas ar kelias savaites |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Kas moka?** Pagal NIA, laikina globa iš šeimos, draugų ar savanorių gali nieko nekainuoti.
+Profesionalios paslaugos apmokamos pagal valandą ar dieną. Žmogui, gaunančiam paliatyviąją
+priežiūrą, „Medicare“ padengia didžiąją dalį iki penkių iš eilės dienų laikinos globos ligoninėje
+ar kvalifikuotoje slaugos įstaigoje. Gali padėti „Medicaid“. Dauguma privačių sveikatos draudimų
+laikinos globos nepadengia, nors kai kurie ilgalaikės priežiūros draudimo planai padengia.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Patarimas:** Alzheimerio asociacija pataria išbandyti laikinos globos teikėjus neskubiu metu, kad
+jie būtų pasiruošę, jei staiga prireiks pagalbos.
 
-## Where can I find help near me?
+## Kur rasti pagalbos netoli manęs?
 
-Several free US services can point you to local help.
+Keletas nemokamų JAV paslaugų gali nukreipti į vietinę pagalbą.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **Alzheimerio asociacijos 24/7 pagalbos linija: 1-800-272-3900.** [Pagalbos linija](https://www.alz.org/help-support/resources/helpline)
+  yra nemokama ir konfidenciali, veikia visą parą kiekvieną metų dieną, o pagalba teikiama daugiau nei
+  200 kalbų, padedant dvikalbiams darbuotojams ar vertėjams. Relės paslaugai rinkite 711. Galite
+  pasikalbėti apie elgesio pokyčius, globėjo stresą, laikinos globos galimybes, vietines programas ir
+  kt., taip pat prašyti ilgesnio pokalbio su priežiūros konsultantu. Darbuotojai medicininių
+  patarimų neteikia.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/) – tai viešoji
+  Bendruomenės gyvenimo administracijos paslauga, kuri susieja su paslaugomis vyresnio amžiaus
+  žmonėms ir jų šeimoms. Galite skambinti, rašyti žinutes, kalbėtis internetu ar rašyti el. laiškus
+  išmokytiems darbuotojams arba ieškoti pagal vietovę. Ji gali nukreipti į jūsų vietos Senjorų reikalų
+  agentūrą.
+- **ARCH nacionalinė laikinos globos paieškos tarnyba.** [ARCH laikinos globos paieška](https://archrespite.org/caregiver-resources/respitelocator/)
+  padeda rasti laikinos globos teikėjus pagal valstiją ir pataria pirmiausia kreiptis į valstijos
+  laikinos globos koaliciją ar „Lifespan Respite“ programą, jei tokia jūsų valstijoje yra. ARCH
+  pažymi, kad teikėjų netikrina, todėl jų patirtį ir išsilavinimą turite patikrinti patys.
 
-## How do I find a support group?
+## Kaip rasti paramos grupę?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Paklauskite pagalbos linijos arba ieškokite internete grupių netoli savęs. Alzheimerio asociacija
+[organizuoja paramos grupes](https://www.alz.org/help-support/community/support-groups) globėjams
+ir žmonėms, gyvenantiems su demencija, gyvai ir internetu, jas veda apmokyti vedėjai. Daugelis vietų
+siūlo ir specializuotas grupes, pavyzdžiui, suaugusiems globėjams ar žmonėms su ankstyvuoju ar
+jaunesnio amžiaus Alzheimerio liga. Asociacija taip pat rengia ALZConnected – nemokamą internetinę
+bendruomenę, kurioje globėjai dalijasi patarimais.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Paramos grupė gali būti vieta išsikalbėti be nuteisimo, sužinoti praktinių patarimų iš žmonių, kurie
+tai išgyveno, ir jaustis mažiau vieniems. Jei pirmoji grupė jums netinka, išbandykite kitą.
 
-## How do I ask family and friends for help?
+## Kaip paprašyti šeimos ir draugų pagalbos?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Būkite konkretūs. Daugelis žmonių nori padėti, bet nežino, ką pasiūlyti. NIA pataria:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Sudarykite sąrašą** užduočių, kurias kiti galėtų prisiimti, ir leiskite žmonėms pasirinkti.
+- **Pradėkite nuo mažo**, jei prašyti sunku.
+- **Suderinkite užduotį su žmogumi.** Pusbrolis, mėgstantis gaminti, atneša vakarienę ketvirtadieniais.
+  Kaimynas, gerai orientuojantis dokumentuose, padeda su popieriais.
+- **Rašykite žinutę ar el. laišką**, jei prašyti akis į akį nejauku.
+- **Iš anksto paruoškite atsakymą**, kai kas nors pasiūlo pagalbą: „Ačiū, kad klausiate. Štai ką galite padaryti.“
+- **Tikėkitės kelių atsisakymų** ir stenkitės jų nepriimti asmeniškai.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Kiti būdai: paprašykite ką nors pabūti su žmogumi vieną popietę per savaitę, išvežti jį trumpam
+pasivaikščioti ar aplankyti ir kartu pažaisti. Mūsų [vadovas, kaip žaisti kartu](/caregiving/how-to-play-together/)
+lengvai perduodamas lankytojams.
 
-## What if something happened to me?
+## O jei kas nors nutiktų man?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Dabar susikurkite paprastą atsarginį planą. NIA pataria kartu su šeima ar artimais draugais nuspręsti,
+kas įsikištų, ir laikyti sąsiuvinį su skubiais telefonų numeriais, vaistais, veiksmingais elgesio
+patarimais ir mėgstamiausia veikla. Alzheimerio asociacija taip pat rekomenduoja, kad žmogaus medicininiai
+kontaktai ir aktualus vaistų sąrašas būtų lengvai randami.
 
-## When should I get professional or urgent help?
+## Kada kreiptis į profesionalią ar skubią pagalbą?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Kreipkitės į gydytoją, jei streso požymiai kartojasi, jei jaučiatės prislėgti ar sunkiai susitvarkote.
+Pasakykite gydytojui, kad esate globėjas. NIA pažymi, kad konsultantai ir socialiniai darbuotojai gali
+padėti sunkiais jausmais ir planavimu, o „Medicare“, „Medicaid“ ir kai kurie privatūs draudimai gali
+padengti dalį psichikos sveikatos išlaidų.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Jei jaučiatės krizėje ar mintys sukasi apie savęs žalojimą, skambinkite arba rašykite žinutę 988 –
+[988 savižudybių ir krizių linija](https://988lifeline.org/) yra nemokama ir veikia visą parą. Jei kam
+nors tiesioginis pavojus, skambinkite vietinei skubiosios pagalbos tarnybai.
 
-## Can shared activities give me a break too?
+## Ar bendra veikla gali suteikti pertrauką ir jums?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Kartais taip. Ramus užsiėmimas, kuris patinka jums abiem, gali būti švelnesnė dienos dalis ir jums, ir
+žmogui, kuriuo rūpinatės: klausytis senų dainų, žiūrėti nuotraukas ar žaisti tokį žaidimą kaip
+[Pokalbių kortos](/games/conversation-cards/), kuriame nėra teisingų atsakymų. Jei žmogui patinka
+kompanija, grupinis užsiėmimas su [Paveikslėlių bingu](/games/picture-bingo/) senjorų centre ar suaugusiųjų
+dienos programoje gali suteikti valandą poilsio. Idėjų rasite [veiklos grupėms globos namuose](/activities/care-home-groups/) skyriuje.

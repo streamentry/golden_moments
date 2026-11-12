@@ -1,33 +1,33 @@
 ---
-title: "Free Printable Dementia Activities"
-seoTitle: "Free Printable Dementia Activities: Large Print"
-description: "Free printable dementia activities: large-print word search, coloring pages, conversation cards and picture bingo, plus tips for printing them well."
+title: "Gratis utskrivbare aktiviteter for demens"
+seoTitle: "Gratis utskrivbare demensaktiviteter: stor skrift"
+description: "Gratis utskrivbare demensaktiviteter: ordsøk med stor skrift, fargeleggingsark, samtalekort og bildebingo, pluss tips for å skrive dem ut på en god måte."
 section: activities
 order: 16
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Golden Moments offers free printable dementia activities: a large-print word
-  search, coloring pages, picture conversation cards and picture bingo cards.
-  Open any game page and use its Print button. Print in large, plain type on
-  heavy paper, keep one task per page, and laminate pages you want to reuse.
-  Simple homemade printables, like a life-story page or a daily schedule, help
-  too.
+  Golden Moments tilbyr gratis utskrivbare demensaktiviteter: et ordsøk med stor
+  skrift, fargeleggingsark, bildebaserte samtalekort og bildebingokort. Åpne en
+  hvilken som helst spillside og bruk Skriv ut-knappen. Skriv ut med stor, enkel
+  skrift på tykt papir, ha én oppgave per side, og laminer sider du vil bruke om
+  igjen. Enkle hjemmelagde utskrifter, som en livshistorie-side eller en
+  dagsplan, hjelper også.
 keyPoints:
-  - "Our printable activities are free: Word Search, Coloring, Conversation Cards and Picture Bingo. Each game page has a Print button."
-  - "Print in large, plain type with strong contrast, and keep one task per page."
-  - "Heavy paper or card stock is easier to hold and harder to crumple. Laminate pages to reuse them with dry-erase markers."
-  - "Homemade printables such as a life-story page, a daily schedule or picture labels for doors are simple and useful."
-  - "A printed page is an invitation, not homework. Doing part of it, or none of it, is fine."
+  - "Våre utskrivbare aktiviteter er gratis: Ordsøk, Farlegging, Samtalekort og Bildebingo. Hver spillside har en Skriv ut-knapp."
+  - "Skriv ut med stor, enkel skrift og sterk kontrast, og ha én oppgave per side."
+  - "Tykt papir eller kartong er lettere å holde i og knekker mindre. Laminer sider for å bruke dem om igjen med tørrtusj."
+  - "Hjemmelagde utskrifter, som en livshistorie-side, en dagsplan eller bildeskilt på dører, er enkle og nyttige."
+  - "En utskrevet side er en invitasjon, ikke lekser. Å gjøre en del av den, eller ingenting, er greit."
 faq:
-  - q: "Are your printable dementia activities free?"
-    a: "Yes. The Word Search, Coloring, Conversation Cards and Picture Bingo pages on this site are free to use and print. Open the game page and use the Print button."
-  - q: "What printable activities are best for dementia?"
-    a: "The best printables are simple, clear and adult: a large-print word search with words only across and down, coloring pages with clear outlines, picture cards that start a conversation, and picture bingo for groups. Match the activity to the person's interests and current abilities, and keep one task per page."
-  - q: "How do I make printables easier to see and use?"
-    a: "Use large, plain type, dark ink on white or cream paper, and plenty of space. Print on heavy paper or card stock so the page stays flat, choose matte paper to cut glare, and use a clipboard or non-slip mat to keep the page still. Laminating helps pages last."
-  - q: "Can I print your activities for a care home or day program?"
-    a: "Yes. Activity staff are welcome to print our pages for residents and groups. Picture Bingo is designed for groups and includes an on-screen caller you can show on a TV or projector."
+  - q: "Er de utskrivbare demensaktivitetene deres gratis?"
+    a: "Ja. Ordsøk, Farlegging, Samtalekort og Bildebingo på denne siden er gratis å bruke og skrive ut. Åpne spillsiden og bruk Skriv ut-knappen."
+  - q: "Hvilke utskrivbare aktiviteter er best ved demens?"
+    a: "De beste utskriftene er enkle, tydelige og voksne: et ordsøk med stor skrift der ordene bare står på tvers og loddrett, fargeleggingsark med tydelige omrisser, bildekort som starter en samtale, og bildebingo for grupper. Tilpass aktiviteten til personens interesser og nåværende evner, og ha én oppgave per side."
+  - q: "Hvordan gjør jeg utskrifter lettere å se og bruke?"
+    a: "Bruk stor, enkel skrift, mørk blekk på hvitt eller kremfarget papir, og god plass. Skriv ut på tykt papir eller kartong slik at siden ligger flatt. Velg matt papir for å redusere blending, og bruk et klippbrett eller en skrens-fri matte for å holde siden stille. Laminering gjør at sidene varer lenger."
+  - q: "Kan jeg skrive ut aktivitetene deres til et sykehjem eller dagtilbud?"
+    a: "Ja. Ansatte i aktivitetstilbud er velkomne til å skrive ut sidene våre til beboere og grupper. Bildebingo er laget for grupper og har en caller på skjermen som du kan vise på TV eller prosjektor."
 sources:
   - title: "Activities at Home: Planning the Day for a Person Living with Middle- or Late-Stage Alzheimer's"
     publisher: "Alzheimer's Association"
@@ -52,109 +52,109 @@ related: [activities/ideas, activities/care-home-groups, activities/arts-and-cra
 health: false
 ---
 
-Sometimes the best activity is a sheet of paper and a pen at the kitchen table. Printables need no charging, no passwords and no screen, and they are easy to bring to a visit or a group. This page describes the free printable activities on our site, how to print them so they are easy to see and hold, and a few simple homemade printables that families and activity staff find useful.
+Noen ganger er den beste aktiviteten et ark papir og en penn ved kjøkkenbordet. Utskrifter trenger ingen lading, ingen passord og ingen skjerm, og de er enkle å ta med til et besøk eller en gruppe. Denne siden beskriver de gratis utskrivbare aktivitetene på nettstedet vårt, hvordan du skriver dem ut slik at de er lette å se og holde i, og noen enkle hjemmelagde utskrifter som familier og aktivitetsansatte synes er nyttige.
 
-## What free printable activities do you offer?
+## Hvilke gratis utskrivbare aktiviteter tilbyr dere?
 
-We offer four free printables. Open any of these game pages and use the **Print** button to get a printer-friendly version.
+Vi tilbyr fire gratis utskrifter. Åpne en av disse spillsidene og bruk **Skriv ut**-knappen for å få en utskriftsvennlig versjon.
 
-| Printable | What it is | Good for |
+| Utskrift | Hva det er | Passer til |
 | --- | --- | --- |
-| [Word Search](/games/word-search/) | A large-print word search with words running only across and down | Quiet time with a pen; someone who enjoyed puzzles |
-| [Coloring](/games/coloring/) | Coloring pages to print, or to color on screen | Relaxed, creative time; any stage with help |
-| [Conversation Cards](/games/conversation-cards/) | Picture cards with open, no-quiz conversation prompts by theme | Visits, calls, family meals, reminiscence groups |
-| [Picture Bingo](/games/picture-bingo/) | Bingo cards with pictures instead of numbers, plus an on-screen caller | Care homes, day programs, family gatherings |
+| [Ordsøk](/games/word-search/) | Et ordsøk med stor skrift, der ordene bare står på tvers og loddrett | Stille tid med penn; noen som likte gåter |
+| [Farlegging](/games/coloring/) | Fargeleggingsark å skrive ut, eller å fargelegge på skjermen | Avslappet, kreativ tid; alle stadier med hjelp |
+| [Samtalekort](/games/conversation-cards/) | Bildekort med åpne samtaleoppfordringer uten quiz, etter tema | Besøk, samtaler, familiemiddager, erindringsgrupper |
+| [Bildebingo](/games/picture-bingo/) | Bingokort med bilder i stedet for tall, pluss en caller på skjermen | Sykehjem, dagtilbud, familiesamlinger |
 
-### Large-print word search
+### Ordsøk med stor skrift
 
-The [Word Search](/games/word-search/) uses large letters and keeps words running only across and down, with no diagonals or backward words. Work on it together: one person reads a word from the list, the other looks for it. If finding words gets hard, try circling the first letter of each word together, or simply reading the word list aloud and talking about each word.
+[Ordsøket](/games/word-search/) bruker store bokstaver og holder ordene på tvers og loddrett, uten diagonaler eller baklengs ord. Jobb med det sammen: én person leser et ord fra listen, den andre leter etter det. Hvis det er vanskelig å finne ord, prøv å sirkle første bokstav i hvert ord sammen, eller bare lese ordlisten høyt og snakke om hvert ord.
 
-### Coloring pages
+### Fargeleggingsark
 
-[Coloring](/games/coloring/) pages can be printed for markers or colored pencils, or colored on a tablet by tapping a color, then a part of the picture. For printed pages, offer thick markers and a few colors at a time. See our [arts and crafts guide](/activities/arts-and-crafts/) for ways to keep coloring adult and relaxed.
+[Fargeleggingsark](/games/coloring/) kan skrives ut for tusjer eller fargeblyanter, eller fargelegges på et nettbrett ved å trykke på en farge og deretter en del av bildet. For utskrevne ark, tilby tykke tusjer og noen få farger om gangen. Se vår [guide til håndverk](/activities/arts-and-crafts/) for måter å holde fargeleggingen voksen og avslappet.
 
-### Conversation cards
+### Samtalekort
 
-[Conversation Cards](/games/conversation-cards/) pair a clear picture with an open prompt, such as "Tell me about..." or "What do you notice?" They are written as open invitations, not quiz questions. Print a set, cut them apart, and keep a few in a bag for visits or by the phone for calls. They also work well in [reminiscence](/activities/reminiscence/) groups.
+[Samtalekort](/games/conversation-cards/) parer et tydelig bilde med en åpen oppfordring, som «Fortell meg om ...» eller «Hva legger du merke til?». De er skrevet som åpne invitasjoner, ikke quizspørsmål. Skriv ut et sett, klipp dem fra hverandre, og ha noen i en pose til besøk eller ved telefonen til samtaler. De fungerer også godt i [erindringsgrupper](/activities/reminiscence/).
 
-### Picture bingo cards
+### Bildebingokort
 
-[Picture Bingo](/games/picture-bingo/) cards use pictures instead of numbers. Print one card per player and use the on-screen caller on a laptop, TV or projector. We suggest calling until everyone's card is full, so no one is left out. See [group activities for care homes](/activities/care-home-groups/) for how to run a session.
+[Bildebingo](/games/picture-bingo/)-kort bruker bilder i stedet for tall. Skriv ut ett kort per deltaker og bruk calleren på skjermen på en laptop, TV eller prosjektor. Vi foreslår å ringe opp til alles kort er fullt, slik at ingen blir utelatt. Se [gruppeaktiviteter for sykehjem](/activities/care-home-groups/) for hvordan du kan lede en økt.
 
-## How do I print activities so they are easy to use?
+## Hvordan skriver jeg ut aktiviteter slik at de er lette å bruke?
 
-Small changes in how you print make a big difference.
+Små endringer i hvordan du skriver ut gjør en stor forskjell.
 
-### Make it easy to see
+### Gjør det lett å se
 
-- **Large, plain type.** Use the largest print setting that still fits the page. Avoid fancy or script fonts.
-- **Strong contrast.** Dark ink on white or cream paper. Skip pale gray or colored backgrounds.
-- **Matte paper** reduces glare under bright lights.
-- **Check glasses and lighting.** The Alzheimer's Association notes that vision and hearing problems can make communication harder, and suggests having them checked regularly. A bright, even lamp helps too.
+- **Stor, enkel skrift.** Bruk den største skriftstørrelsen som fortsatt passer på siden. Unngå fancy eller skrivestil-skrifter.
+- **Sterk kontrast.** Mørk blekk på hvitt eller kremfarget papir. Hopp over blek grå eller fargede bakgrunner.
+- **Mattpapir** reduserer blending under sterkt lys.
+- **Sjekk briller og belysning.** Alzheimer's Association påpeker at syns- og hørselsproblemer kan gjøre kommunikasjon vanskeligere, og foreslår å få dem sjekket jevnlig. En lys, jevn lampe hjelper også.
 
-### Make it easy to hold
+### Gjør det lett å holde
 
-- **Heavy paper or card stock** stays flat, is easier to pick up, and stands up to repeated use.
-- **A clipboard** or non-slip placemat keeps the page from sliding.
-- **Thick markers or chunky pencils** are easier to grip than thin pens.
+- **Tykt papir eller kartong** ligger flatt, er lettere å løfte og tåler gjentatt bruk.
+- **Et klippbrett** eller en matte som ikke glir, holder siden på plass.
+- **Tykke tusjer eller kraftige blyanter** er lettere å holde enn tynne penner.
 
-### Make it reusable
+### Gjør det mulig å bruke om igjen
 
-- **Laminate pages** or slide them into clear sheet protectors. Use dry-erase markers on word searches and bingo cards, then wipe clean.
-- **Choose matte pouches** if glare is a problem, and **round the corners** of laminated cards with scissors so they are comfortable to handle.
-- **Keep a folder** of favorites so you are not printing the same page every week.
+- **Laminer sider** eller legg dem i klare lommer. Bruk tørrtusj på ordsøk og bingokort, og tørk av etterpå.
+- **Velg matte lommer** hvis blending er et problem, og **rund av hjørnene** på laminerte kort med saks, slik at de er behagelige å holde.
+- **Ha en mappe** med favoritter, slik at du ikke skriver ut den samme siden hver uke.
 
-### Keep it simple
+### Hold det enkelt
 
-- **One task per page.** A single word search or a single picture, not several activities crowded together.
-- **Plenty of white space.** A busy page can feel overwhelming.
-- **No instructions to read, where possible.** Show the person what to do instead.
-- **Cut sheets down.** If a full page is too much, cut it in half or fold it so only part shows.
+- **Én oppgave per side.** Ett enkelt ordsøk eller ett enkelt bilde, ikke flere aktiviteter presset sammen.
+- **Mye hvit plass.** En overfylt side kan føles overveldende.
+- **Ingen instruksjoner å lese, der det er mulig.** Vis personen hva de skal gjøre i stedet.
+- **Kutt ned arkene.** Hvis en hel side er for mye, kutt den i to eller brett den slik at bare en del vises.
 
-## Other useful printables you can make at home
+## Andre nyttige utskrifter du kan lage hjemme
 
-Not every helpful printable is a game. These are easy to make with a word processor and a printer.
+Ikke alle nyttige utskrifter er spill. Disse er enkle å lage med tekstbehandling og en skriver.
 
-### A life-story page
+### En livshistorie-side
 
-A one-page "about me" sheet with a photo, the name the person likes to be called, where they grew up, their work, family, favorite foods, music and things that comfort or upset them. Dementia Australia suggests a [memory book](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) with details about the person's life, likes and important people, to help visitors and caregivers and to prompt conversation.
+En ett-sides «om meg»-side med et bilde, navnet personen liker å bli kalt, hvor de vokste opp, arbeidet sitt, familie, favorittmat, musikk og ting som trøster eller plager dem. Dementia Australia foreslår en [minnebok](https://www.dementia.org.au/living-dementia/staying-connected/visiting-someone-dementia) med detaljer om personens liv, interesser og viktige personer, for å hjelpe besøkende og omsorgspersoner og for å starte samtaler.
 
-It is especially useful in hospitals and new care settings. The NIA recommends giving hospital staff a [personal information sheet](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) covering the person's routine, preferred name, likes and dislikes, possible triggers, and nonverbal signs of pain.
+Den er særlig nyttig på sykehus og i nye omsorgssituasjoner. NIA anbefaler å gi sykehuspersonalet et [personlig informasjonsskjema](https://www.nia.nih.gov/health/alzheimers-caregiving/taking-person-alzheimers-disease-hospital) som dekker personens rutiner, foretrukne navn, likes og misliker, mulige utløsende faktorer og ikke-verbale tegn på smerte.
 
-### A daily schedule
+### En dagsplan
 
-A large, simple schedule for the day with times, a few words and a small picture for each part: breakfast, walk, lunch, rest, music, dinner. The Alzheimer's Association's [daily care plan](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) suggests planning around the person's best times of day, with regular wake-up and bedtimes and a balance of activity and rest. Post it at eye level, perhaps on the fridge, and keep it flexible. See our [daily routine guide](/activities/daily-routine/) for more.
+En stor, enkel plan for dagen med klokkeslett, noen få ord og et lite bilde for hver del: frokost, tur, lunsj, hvile, musikk, middag. Alzheimer's Associations [plan for daglig omsorg](https://www.alz.org/help-support/caregiving/daily-care/daily-care-plan) foreslår å planlegge rundt personens beste tidspunkter på dagen, med faste oppstigningstider og leggetider og en balanse mellom aktivitet og hvile. Heng den i øyehøyde, kanskje på kjøleskapet, og hold den fleksibel. Se vår [guide til daglig rutine](/activities/daily-routine/) for mer.
 
-### Picture labels for rooms and drawers
+### Bildeskilt for rom og skuffer
 
-The NIA suggests using brightly colored signs or simple pictures to [label the bathroom, bedroom and kitchen](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). The same idea works for drawers and cupboards: a picture of socks on the sock drawer, cups on the cup cupboard. Print, laminate and tape them up.
+NIA foreslår å bruke klare skilt eller enkle bilder for å [merke badet, soveromet og kjøkkenet](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips). Den samme ideen fungerer for skuffer og skap: et bilde av sokker på sokkeskuffen, kopper på kopp-skapet. Skriv ut, laminer og tape dem opp.
 
-### A sorting set
+### Et sorteringssett
 
-Print pictures from two simple categories, such as fruits and flowers or tools and kitchen items, onto card stock. Cut them apart and sort them into two baskets together. The on-screen version of this is [Sort Together](/games/sort-together/).
+Skriv ut bilder fra to enkle kategorier, for eksempel frukt og blomster eller verktøy og kjøkkenting, på kartong. Klipp dem fra hverandre og sorter dem i to kurver sammen. Den skjermbaserte versjonen av dette er [Sorter sammen](/games/sort-together/).
 
-### Song lyric sheets
+### Sangtekst-ark
 
-Print the words to a few favorite songs in very large type for a sing-along. Even people who no longer read much may enjoy holding the sheet.
+Skriv ut teksten til noen få favorittsanger med svært stor skrift til en sangstund. Selv folk som ikke leser mye lenger kan like å holde arket.
 
-### A family photo page
+### En familiefotoside
 
-A single page with four to six large family photos, each with a first name underneath. It can sit on the table for anyone to pick up and talk about. Labels help visitors and staff join the conversation, and no one has to ask "Who is this?"
+En side med fire til seks store familiebilder, hver med et fornavn under. Den kan ligge på bordet slik at hvem som helst kan ta den opp og snakke om den. Merkelapper hjelper besøkende og ansatte å bli med i samtalen, og ingen må spørre «Hvem er dette?»
 
-### A recipe card
+### Et oppskriftskort
 
-Print a favorite family recipe in large type. Use it to cook together, or just to talk about meals from the past.
+Skriv ut en favorittoppskrift fra familien med stor skrift. Bruk den til å lage mat sammen, eller bare for å snakke om måltider fra fortiden.
 
-## How do I offer a printable without it feeling like homework?
+## Hvordan tilbyr jeg en utskrift uten at det føles som lekser?
 
-Present it as something to share, not a test.
+Presenter det som noe å dele, ikke en prøve.
 
-- **Sit down and start it yourself.** "I'm doing this word search. Want to help me find 'garden'?"
-- **Work together.** Take turns, or one person finds and the other circles.
-- **Never mark it right or wrong.** The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) advises focusing on the process, not the result, and on enjoyment rather than achievement.
-- **Leave pages out.** The same guide suggests placing scrapbooks, photo albums or old magazines in easy-to-reach places. Printed cards and photo pages can sit on a side table in the same way.
-- **Stop whenever you like.** Half a coloring page is a fine afternoon. So is putting the page away and having a cup of tea.
+- **Sett deg ned og start selv.** «Jeg holder på med dette ordsøket. Vil du hjelpe meg å finne «hage»?»
+- **Jobb sammen.** Ta turer, eller den ene finner og den andre sirkler.
+- **Merk aldri som riktig eller feil.** Alzheimer's Associations guide [aktiviteter hjemme](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) råder til å fokusere på prosessen, ikke resultatet, og på gleden heller enn prestasjonen.
+- **La sider ligge fremme.** Den samme guiden foreslår å legge scrapbøker, fotoalbum eller gamle blader på steder som er lett å nå. Utskrevne kort og bildesider kan ligge på et sidebord på samme måte.
+- **Stopp når du vil.** En halv fargeleggingsside er en fin ettermiddag. Det samme er å legge bort siden og drikke en kopp te.
 
-## Where to find more
+## Finn mer
 
-Browse all our [games and printables](/games/), or see [activities for every stage](/activities/ideas/) for more ideas, with and without paper.
+Bla gjennom alle våre [spill og utskrifter](/games/), eller se [aktiviteter for hvert stadium](/activities/ideas/) for flere ideer, med og uten papir.

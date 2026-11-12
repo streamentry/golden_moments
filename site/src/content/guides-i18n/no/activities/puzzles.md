@@ -1,32 +1,33 @@
 ---
-title: "Puzzles for People with Dementia: Jigsaws, Word Puzzles and Easy Online Puzzles"
-seoTitle: "Puzzles for Dementia: Jigsaws and Word Puzzles"
-description: "How to choose jigsaw, word and online puzzles for someone with dementia: piece size, pictures, large print, doing it together, and when to make it simpler."
+title: "Puslespill for personer med demens: puslespill, ordgåter og enkle nettpuslespill"
+seoTitle: "Puslespill ved demens: puslespill og ordgåter"
+description: "Slik velger du puslespill, ordgåter og enkle nettpuslespill for en person med demens: brikkestørrelse, bilder, stor skrift, å gjøre det sammen og når det bør forenkles."
 section: activities
 order: 20
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The best puzzle for someone with dementia is one they can finish with a
-  little help and enjoy along the way. Choose jigsaws with fewer, larger pieces
-  and a clear adult picture, keep the box picture in view, and sort the edge
-  pieces first. Word searches and crosswords work best in large print. Easy
-  online puzzles with four pieces suit the middle stage. Stop while it is fun.
+  Det beste puslespillet for en person med demens er ett de kan fullføre med litt
+  hjelp, og som de har glede av underveis. Velg puslespill med færre, større
+  brikker og et tydelig voksent bilde, hold esken med bildet synlig, og sorter
+  kantbrikkene først. Ordsøk og kryssord fungerer best med stor skrift. Enkle
+  nettpuslespill med fire brikker passer i midtfasen. Stopp mens det fortsatt er
+  morsomt.
 keyPoints:
-  - "Choose by how it goes, not by a stage label: if a puzzle feels like work, try one with fewer pieces."
-  - "Large, sturdy pieces and a clear picture with distinct areas of color are easier than tiny pieces and big skies."
-  - "Adult pictures matter. Gardens, kitchens, cars and animals, not cartoons."
-  - "Doing it together is the point. Hand over pieces, sort edges, keep the box lid in view."
-  - "Large-print word searches and easy online puzzles with 4 or 9 pieces are free on this site."
+  - "Velg etter hvordan det går, ikke etter et stadium: hvis et puslespill føles som arbeid, prøv et med færre brikker."
+  - "Store, solide brikker og et tydelig bilde med klare fargeområder er lettere enn små brikker og store himler."
+  - "Voksne motiver betyr noe. Hager, kjøkken, biler og dyr, ikke tegneserier."
+  - "Det er poenget å gjøre det sammen. Gi hverandre brikker, sorter kantene, og hold esken med bildet synlig."
+  - "Ordsøk med stor skrift og enkle nettpuslespill med 4 eller 9 brikker er gratis på denne siden."
 faq:
-  - q: "How many puzzle pieces are best for someone with dementia?"
-    a: "There is no single right number. Someone who did 1,000-piece puzzles may still enjoy a few hundred early on, while others do best with a dozen or so large pieces. If a puzzle feels like work or causes frustration, move to fewer pieces. Our online Picture puzzle has 4 or 9 pieces."
-  - q: "Are jigsaw puzzles good for people with dementia?"
-    a: "Many people enjoy them, especially if they liked puzzles before. A puzzle gives the hands something to do, a clear goal and a picture to talk about. No puzzle has been shown to treat or slow dementia, so choose them for enjoyment and company."
-  - q: "What can I do when someone can no longer manage a jigsaw?"
-    a: "Make it smaller and do more of it yourself: hand over one piece at a time, or leave just the last few pieces for them. Try a 4-piece online puzzle, sorting pieces by color, or simply looking at the finished picture together."
-  - q: "Are crosswords and word searches suitable for dementia?"
-    a: "They can be in the early stage, in large print. Word searches with words only across and down are easier than ones with diagonal or backward words. Read the clues or word list aloud and work on it together."
+  - q: "Hvor mange puslespillbrikker er best for en person med demens?"
+    a: "Det finnes ikke ett riktig tall. Noen som har lagt 1000-brikkers puslespill kan fortsatt like noen hundre i starten, mens andre er best tjent med et dusin store brikker. Hvis et puslespill føles som arbeid eller skaper frustrasjon, gå over til færre brikker. Vårt nettbaserte bildepuslespill har 4 eller 9 brikker."
+  - q: "Er puslespill bra for personer med demens?"
+    a: "Mange liker dem, særlig hvis de likte puslespill før. Et puslespill gir hendene noe å gjøre, et klart mål og et bilde å snakke om. Ingen puslespill har vist seg å behandle eller bremse demens, så velg dem for glede og selskap."
+  - q: "Hva kan jeg gjøre når noen ikke lenger klarer et puslespill?"
+    a: "Gjør det mindre, og gjør mer selv: gi dem én brikke om gangen, eller la de siste brikkene stå til dem. Prøv et nettpuslespill med 4 brikker, sortering av brikker etter farge, eller bare se på det ferdige bildet sammen."
+  - q: "Passer kryssord og ordsøk til demens?"
+    a: "De kan passe i den tidlige fasen, med stor skrift. Ordsøk der ordene bare står på tvers og loddrett er enklere enn de med diagonale eller baklengs ord. Les ledetrådene eller ordlisten høyt, og jobb med det sammen."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,87 +46,87 @@ related: [activities/memory-games, activities/printable, activities/early-stage,
 health: false
 ---
 
-A jigsaw spread out on the dining table is one of the easiest activities to share. You can sit together without needing to talk, the picture gives you something to chat about, and putting in the last piece feels good. Puzzles do need to change as dementia changes, though. A puzzle that is too hard can turn a calm afternoon into a frustrating one. This page covers how to choose and set up jigsaws, word puzzles and easy online puzzles, and what to do when they get hard.
+Et puslespill utbredt på spisebordet er en av de enkleste aktivitetene å dele. Dere kan sitte sammen uten å måtte snakke, bildet gir dere noe å prate om, og det føles godt å legge den siste brikken på plass. Puslespill må likevel tilpasses etter hvert som demensen endrer seg. Et puslespill som er for vanskelig kan gjøre en rolig ettermiddag til en frustrerende en. Denne siden tar for seg hvordan du velger og setter opp puslespill, ordgåter og enkle nettpuslespill, og hva du gjør når de blir for vanskelige.
 
-## Are puzzles good for people with dementia?
+## Er puslespill bra for personer med demens?
 
-Many people enjoy them, especially those who did puzzles before. The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists word finds, card games and board games among activities for the early stage, and the [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions online games and puzzles on tablets as one way to stay engaged.
+Mange liker dem, særlig de som likte puslespill før. [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nevner ordsøk, kortspill og brettspill blant aktiviteter for den tidlige fasen, og [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) nevner nettspill og puslespill på nettbrett som en måte å holde seg engasjert på.
 
-Puzzles are not a treatment. No puzzle has been shown to slow or stop dementia; our guide to [brain games and dementia](/brain-health/brain-games/) explains the research. The reason to do a puzzle is that it can be a pleasant, absorbing hour together. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sums it up: focus on enjoyment, not achievement.
+Puslespill er ikke en behandling. Ingen puslespill har vist seg å bremse eller stanse demens; vår guide om [hjernetrening og demens](/brain-health/brain-games/) forklarer forskningen. Grunnen til å legge et puslespill er at det kan være en hyggelig, oppslukende time sammen. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) oppsummerer det slik: fokuser på glede, ikke prestasjon.
 
-## How do you choose a jigsaw puzzle for someone with dementia?
+## Hvordan velger du et puslespill for en person med demens?
 
-Go by what the person enjoys and how the last puzzle went, not by a stage label.
+Gå etter hva personen liker og hvordan forrige puslespill gikk, ikke etter et stadiumnavn.
 
-### Number of pieces
+### Antall brikker
 
-There is no correct number. A lifelong puzzler may still enjoy a few hundred pieces early on, while someone else is happiest with a dozen. A practical rule: if the last puzzle felt like work, choose one with roughly half the pieces. If it was finished quickly and they wanted more, go up a little.
+Det finnes ikke et riktig antall. En livslang puslespillperson kan fortsatt like noen hundre brikker i starten, mens andre er gladest med et dusin. En praktisk regel: hvis forrige puslespill føltes som arbeid, velg et med omtrent halvparten så mange brikker. Hvis det ble ferdig raskt og de ville ha mer, gå litt opp.
 
-### Piece size and feel
+### Brikkestørrelse og følelse
 
-- **Larger pieces** are easier to see, pick up and turn.
-- **Thick, sturdy pieces** stay put and survive being dropped.
-- **A matte finish** reduces glare under lamps and windows.
-- **Avoid tiny pieces** if the person might put things in their mouth, which can happen later in dementia.
+- **Større brikker** er lettere å se, å løfte og å snu.
+- **Tykke, solide brikker** ligger stødig og tåler å bli sluppet.
+- **Matt overflate** reduserer blending fra lamper og vinduer.
+- **Unngå små brikker** hvis personen kan finne på å putte ting i munnen, noe som kan skje senere i demensforløpet.
 
-### The picture
+### Bildet
 
-- **Adult subjects.** Gardens, kitchens, old cars, farm animals, a seaside town, a favorite sport. Not cartoons or anything that looks like a children's toy.
-- **Distinct areas of color.** A red barn, a blue boat and a green field are easier than a sky that fills half the puzzle.
-- **Familiar and personal.** A picture of a place they lived or a hobby they loved gives you plenty to talk about. Some print shops can turn a family photo into a jigsaw.
+- **Voksne motiver.** Hager, kjøkken, gamle biler, gårdsdyr, en kystby, en favorittsport. Ikke tegneserier eller noe som ligner en barneleke.
+- **Tydelige fargeområder.** Et rødt fjøs, en blå båt og en grønn eng er lettere enn en himmel som fyller halve puslespillet.
+- **Kjent og personlig.** Et bilde av et sted de bodde eller en hobby de elsket gir mye å snakke om. Noen trykkerier kan lage et puslespill av et familiefoto.
 
-## How do you do a puzzle together?
+## Hvordan legger dere et puslespill sammen?
 
-Set it up so the person can get straight to the enjoyable part.
+Legg det opp slik at personen raskt kan komme til den hyggelige delen.
 
-1. **Pick a good spot.** Good light, a chair with arms, and a table or tray where the puzzle can stay out.
-2. **Prop up the box lid** where you can both see it.
-3. **Turn the pieces face up** before you start.
-4. **Sort the edges** yourself, or do the border first and leave the middle for them.
-5. **Group pieces by color** into a few shallow trays or plates.
-6. **Hand over one piece at a time** if the pile is overwhelming. "I think this one is part of the barn."
-7. **Talk about the picture,** not the progress. "That looks like the boat my dad had."
-8. **Leave it out.** Come back to it over several days. There is no hurry.
-9. **Stop on a good note,** after a piece goes in, while it still feels pleasant.
+1. **Velg et godt sted.** God belysning, en stol med armlener, og et bord eller et brett der puslespillet kan ligge fremme.
+2. **Stå esken opp** der dere begge kan se bildet.
+3. **Snu brikkene med bildesiden opp** før dere begynner.
+4. **Sorter kantene** selv, eller legg kanten først og la midten være til dem.
+5. **Grupper brikkene etter farge** i noen få grunne brett eller tallerkener.
+6. **Gi én brikke om gangen** hvis haugen er overveldende. «Jeg tror denne er en del av fjøset.»
+7. **Snakk om bildet,** ikke om fremdriften. «Det ser ut som båten far min hadde.»
+8. **La det ligge fremme.** Kom tilbake til det over flere dager. Det er ingen hast.
+9. **Stopp på et godt punkt,** etter at en brikke har kommet på plass, mens det fortsatt føles hyggelig.
 
-The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) advises helping the person get started, watching for frustration and letting them simply watch if they enjoy that more. Watching you put pieces in, and pointing out where one might go, is still taking part.
+[National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) råder til å hjelpe personen i gang, se etter frustrasjon, og la dem bare se på hvis de synes det er hyggeligst. Å se på når du legger brikker på plass, og peke på hvor en brikke kan passe, er fortsatt å delta.
 
-## Easy online puzzles
+## Enkle nettpuslespill
 
-A tablet puzzle has some real advantages: no lost pieces, large pictures that fill the screen, and no table to clear.
+Et puslespill på nettbrett har noen reelle fordeler: ingen tapte brikker, store bilder som fyller skjermen, og ingen bord å rydde.
 
-Our free [Picture puzzle](/games/picture-puzzle/) cuts a picture into 4 or 9 pieces. Tap two pieces to swap them until the picture is whole. The complete picture stays on screen as a guide, there is no timer, and you can stop at any point. Four pieces suits many people in the middle stage with someone beside them.
+Vårt gratis [bildepuslespill](/games/picture-puzzle/) deler et bilde i 4 eller 9 brikker. Trykk på to brikker for å bytte dem, til bildet er hel igjen. Det komplette bildet er synlig på skjermen som veiledning, det finnes ingen tidsur, og du kan stoppe når som helst. Fire brikker passer mange i midtfasen når noen sitter ved siden av.
 
-For even simpler picture play, try [Find the same](/games/find-the-same/), where you tap the picture that matches one at the top, or [Sort together](/games/sort-together/), where pictures go into baskets such as the kitchen or the garden.
+For enda enklere bildespill, prøv [Finn det samme](/games/find-the-same/), der du trykker på bildet som samsvarer med ett øverst, eller [Sorter sammen](/games/sort-together/), der bilder legges i kurver som kjøkkenet eller hagen.
 
-## Word puzzles: word searches and crosswords
+## Ordgåter: ordsøk og kryssord
 
-Word puzzles suit people who always enjoyed them, usually earlier in dementia.
+Ordgåter passer personer som alltid har likt dem, vanligvis tidligere i demensforløpet.
 
-- **Large-print word search.** Our free [Word search](/games/word-search/) uses big letters and only a few words, running across and down, never diagonally or backward. Play it on screen or print it.
-- **Read the list aloud.** One person reads a word, the other looks for it. Circling just the first letter is fine.
-- **Large-print crosswords** from puzzle books can work early on. Read the clues aloud, share the pen and fill in answers together. Easy, themed crosswords are better than cryptic ones.
-- **Talk about the words.** "Garden" can lead to ten minutes about tomatoes.
+- **Ordsøk med stor skrift.** Vårt gratis [ordsøk](/games/word-search/) bruker store bokstaver og bare noen få ord, på tvers og loddrett, aldri diagonalt eller baklengs. Spill det på skjermen eller skriv det ut.
+- **Les listen høyt.** Den ene leser et ord, den andre leter etter det. Det er fint å bare sirkle første bokstav.
+- **Kryssord med stor skrift** fra gåtebøker kan fungere tidlig. Les ledetrådene høyt, del pennen og fyll inn svarene sammen. Enkle, temabaserte kryssord er bedre enn kryptiske.
+- **Snakk om ordene.** «Hage» kan føre til ti minutter om tomater.
 
-For more paper activities and how to print them so they are easy to see and hold, see [free printable dementia activities](/activities/printable/).
+For flere papiraktiviteter og hvordan du skriver dem ut slik at de er lette å se og holde, se [gratis utskrivbare demensaktiviteter](/activities/printable/).
 
-## Which puzzles suit each stage?
+## Hvilke puslespill passer i hvert stadium?
 
-Stages overlap, and good and hard days are normal.
+Stadiene overlapper, og gode og vanskelige dager er normalt.
 
-| Stage | Puzzles that often fit | Your role |
+| Stadium | Puslespill som ofte passer | Din rolle |
 | --- | --- | --- |
-| Early | Familiar jigsaws with fewer pieces than before, large-print crosswords and word searches, 9-piece online puzzles | Partner: let them choose, help when asked |
-| Middle | Jigsaws with a dozen or so large pieces, 4-piece online puzzles, word search read aloud together | Set up, sort pieces, hand over one at a time |
-| Late | Looking at a finished picture together, Find the same with two pictures, handling a few large pieces | Bring it to them; your company is the activity |
+| Tidlig | Kjente puslespill med færre brikker enn før, kryssord og ordsøk med stor skrift, nettpuslespill med 9 brikker | Partner: la dem velge, hjelp når de ber om det |
+| Midt | Puslespill med et dusin store brikker, nettpuslespill med 4 brikker, ordsøk lest høyt sammen | Legg til rette, sorter brikker, gi én av gangen |
+| Sent | Se på et ferdig bilde sammen, Finn det samme med to bilder, å håndtere noen få store brikker | Ta det til dem; din selskap er aktiviteten |
 
-## When should you make a puzzle easier, or stop?
+## Når bør du gjøre et puslespill enklere, eller stoppe?
 
-Watch for sighing, pushing pieces away, repeated "I can't" or worried looks. Those are signs to change something, not to push on.
+Se etter sukk, at brikker skyves bort, gjentatte «Jeg kan ikke» eller bekymrede blikk. Det er tegn på at du bør endre noe, ikke å presse på.
 
-- **Make it smaller.** Fewer pieces, or leave only the last few for them.
-- **Do more of it yourself** and invite them to help with the easy bits.
-- **Switch to something nearby:** sorting pieces by color, a 4-piece online puzzle, or [coloring](/games/coloring/).
-- **Stop.** Put it aside and have a cup of tea. You can come back another day, or not at all.
+- **Gjør det mindre.** Færre brikker, eller la bare de siste brikkene stå til dem.
+- **Gjør mer selv** og inviter dem til å hjelpe med de enkle delene.
+- **Bytt til noe nær:** sortering av brikker etter farge, et 4-brikkers nettpuslespill, eller [fargelegging](/games/coloring/).
+- **Stopp.** Legg det bort og ta en kopp te. Dere kan komme tilbake en annen dag, eller ikke i det hele tatt.
 
-If puzzles start to feel like a reminder of what is hard, it is fine to let them go. There are many other ways to spend good time together; our [101 activity ideas](/activities/ideas/) is a good place to look.
+Hvis puslespill begynner å føles som en påminnelse om det som er vanskelig, er det greit å la dem være. Det finnes mange andre måter å tilbringe gode stunder sammen på; vår [liste med 101 aktivitetsideer](/activities/ideas/) er et godt sted å se.
