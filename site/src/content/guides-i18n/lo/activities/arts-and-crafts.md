@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "ງານສິລະປະ ແລະງານຝີມືສຳລັບຜູ້ໃຫຍ່ທີ່ມີພາວະສະໝອງເສື່ອມ"
+seoTitle: "ງານສິລະປະ ແລະງານຝີມືສຳລັບພາວະສະໝອງເສື່ອມ: ສຳລັບຜູ້ໃຫຍ່ ບໍ່ເດັກນ້ອຍ"
+description: "ໄອເດຍງານສິລະປະ ແລະງານຝີມືສຳລັບຜູ້ໃຫຍ່ທີ່ມີພາວະສະໝອງເສື່ອມ ຈາກສີນ້ຳ ການຕັດແປະ ຈັດດອກໄມ້ ຈົນເຖິງການຈັດເຕຣຍມ ການປັບ ແລະໃຫ້ຄວາມສຳຄັນກັບຂະບວນການ."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  ງານສິລະປະ ແລະງານຝີມືທີ່ດີສຳລັບຜູ້ໃຫຍ່ທີ່ມີພາວະສະໝອງເສື່ອມ ຕ້ອງເບິ່ງແລະຮູ້ສຶກເປັນຜູ້ໃຫຍ່: ສີນ້ຳ ການຕັດແປະຈາກນິຕະຍະສານ ການຈັດດອກໄມ້ ດິນໜຽວ ການ໌ດອວຍ່າງງ່າຍ ຫຼືໜ້າລົງສີສຳລັບຜູ້ໃຫຍ່. ຈັດວາງວັດສະດຸບໍ່ຫຼາຍ ຊ່ວຍຈັງຫວະທຳອິດຖ້າຈຳເປັນ ລົມໃນຂະນະທີ່ທ່ານເຮັດ ແລະຖືເວລາຮ່ວມກັນເປັນຈຸດສຳຄັນ. ຜົນງານທີ່ສຳເລັດແລ້ວເປັນທາງເລືອກ
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "ເລືອກວັດສະດຸ ແລະຫົວຂໍ້ທີ່ເບິ່ງເປັນຜູ້ໃຫຍ່ ເຊັ່ນເຈ້ຍສີນ້ຳ ດອກໄມ້ຈິງ ແລະຮູບຈາກນິຕະຍະສານ ບໍ່ແມ່ນກລິດເຕີ ສະຕິກເກີ ຫຼືແຜ່ນງານກາຕູນ."
+  - "ເນັ້ນຂະບວນການ: ສີ ຄວາມຮູ້ສຶກຂອງດິນໜຽວ ແລະການສົນທະນາ. ຜົນງານທີ່ສຳເລັດແລ້ວເປັນໂບນັດ ບໍ່ແມ່ນເປົ້າໝາຍ."
+  - "ໃຫ້ຈຸດປະສົງເມື່ອເປັນໄປໄດ້ ເຊັ່ນການ໌ດສຳລັບຫຼານ ຫຼືດອກໄມ້ຕັ້ງໂຕ໊ະ."
+  - "ຊ່ວຍໃຫ້ຜູ້ນັ້ນເລີ່ມ ແລ້ວຖອຍອອກມາ. ການເລີ່ມຂີດແປງຮ່ວມກັນມັກພຽງພໍແລ້ວ."
+  - "ງານບໍ່ຈຳເປັນຕ້ອງສຳເລັດໃນຄັ້ງດຽວ ແລະການຢຸດກ່ອນເປັນເລື່ອງໄດ້ສະເໝີ."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "ຈະເຮັດໃຫ້ງານຝີມືບໍ່ເບິ່ງເປັນເດັກນ້ອຍໄດ້ແນວໃດ?"
+    a: "ໃຊ້ອຸປະກອນສິລະປະທີ່ແທ້ຈິງ ຫົວຂໍ້ຜູ້ໃຫຍ່ ແລະນ້ຳສຽງທີ່ໃຫ້ກຽດ. ປ່ຽນກລິດເຕີ ແລະໜ້າກາຕູນເປັນເຈ້ຍສີນ້ຳ ຜ້າ ດອກໄມ້ ຮູບຈາກນິຕະຍະສານ ແລະໜ້າລົງສີລາຍລະອຽດ. ຢ່າຊົມຜົນງານຄືກັບທີ່ຊົມຮູບແຕ້ມຂອງເດັກ ໃຫ້ເວົ້າກ່ຽວກັບມັນຄືກັບທີ່ເວົ້າກັບໝູ່ຜູ້ໃຫຍ່."
+  - q: "ກິດຈະກຳສິລະປະແບບໃດໃຊ້ໄດ້ໃນລະດັບທ້າຍຂອງພາວະສະໝອງເສື່ອມ?"
+    a: "ໂຄງການງ່າຍໆ ທີ່ໃຊ້ປະສາດສຳຜັດເໝາະທີ່ສຸດໃນຊ່ວງຫຼັງ: ແຕ້ມເສັ້ນກວ້າງດ້ວຍແປງໃຫຍ່ ບີບດິນໜຽວນຸ່ມໆ ຈັດດອກໄມ້ບໍ່ຫຼາຍໃນແຈກັນ ຫຼືຈັດຕົວຢ່າງຜ້າຕາມຄວາມຮູ້ສຶກ. ອາດຈຳເປັນຕ້ອງເລີ່ມການເຄື່ອນໄຫວນຳກັນ. ການເບິ່ງທ່ານແຕ້ມ ແລະເວົ້າກ່ຽວກັບສີ ກໍເປັນວິທີມີສ່ວນຮ່ວມເຊັ່ນກັນ."
+  - q: "ຖ້າເຂົາບອກວ່າວາດບໍ່ເປັນຈະເຮັດແນວໃດ?"
+    a: "ຜ່ອນຄວາມກົດດັນ ລອງໂຄງການທີ່ບໍ່ມີຄຳຕອບທີ່ຖືກຕ້ອງ ເຊັ່ນການລ້າງສີນ້ຳ ການຕັດແປະ ຫຼືການຈັດດອກໄມ້. ທ່ານອາດບອກວ່າທ່ານຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນເລື່ອງສະເພາະ ເຊັ່ນເລືອກສີສຳລັບການ໌ດ ເພື່ອໃຫ້ວຽກຮູ້ສຶກຄືການຂໍຄວາມຊ່ວຍເຫຼືອ ບໍ່ແມ່ນການທົດສອບ."
+  - q: "ໜ້າລົງສີສຳລັບຜູ້ໃຫຍ່ເດັກເກີນໄປບໍ?"
+    a: "ບໍ່ ຖ້າອອກແບບມາສຳລັບຜູ້ໃຫຍ່. ເລືອກໜ້າທີ່ມີຫົວຂໍ້ຜູ້ໃຫຍ່ ເຊັ່ນສວນ ຜ້າປົກຫຸ້ມ ລົດ ຫຼືທິວທັດ ແລະນຳສະເໜີວ່າເປັນການຜ່ອນຄາຍ ບໍ່ແມ່ນບົດຮຽນ. ໜ້າລົງສີຂອງພວກເຮົາສາມາດພິມອອກ ຫຼືລົງສີໃນແທັບເລັດໄດ້."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+ງານສິລະປະ ແລະງານຝີມືໃຫ້ຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມມີວິທີສະແດງອອກທີ່ບໍ່ຕ້ອງອາໄສການຊອກຄຳທີ່ຖືກຕ້ອງ. ສະມາຄົມອັລໄຊເມີລະບຸວ່າໂຄງການສິລະປະສາມາດນຳມາເຊິ່ງ[ຄວາມຮູ້ສຶກສຳເລັດ ແລະຄວາມໝາຍ](https://www.alz.org/help-support/caregiving/daily-care/art-music) ແລະໂອກາດໃນການສະແດງຕົວຕົນ ທັງສຳລັບຜູ້ດູແລ ແລະຜູ້ທີ່ມີພາວະສະໝອງເສື່ອມ. ສິ່ງສຳຄັນຄືການໃຫ້ທຸກຢ່າງເປັນຜູ້ໃຫຍ່ ງ່າຍ ແລະບໍ່ມີແຮງກົດດັນ. ໜ້ານີ້ໃຫ້ໂຄງການສະເພາະ ວິທີຕັ້ງຄ່າ ແລະວິທີປັບເມື່ອສະພາບປ່ຽນໄປ.
 
-## What makes an art activity adult and not childish?
+## ອັນໃດເຮັດໃຫ້ກິດຈະກຳສິລະປະເປັນຜູ້ໃຫຍ່ ບໍ່ເດັກນ້ອຍ?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+ກິດຈະກຳສິລະປະທີ່ເປັນຜູ້ໃຫຍ່ໃຊ້ອຸປະກອນທີ່ແທ້ຈິງ ຫົວຂໍ້ຜູ້ໃຫຍ່ ແລະນ້ຳສຽງທີ່ໃຫ້ກຽດ. ສະມາຄົມອັລໄຊເມີແນະນຳໃຫ້ຮັກສາໂຄງການໃຫ້ເໝາະກັບລະດັບຜູ້ໃຫຍ່ ແລະຫຼີກເວັ້ນສິ່ງທີ່ອາດເບິ່ງວ່າຫຼຸດກຽດ ຫຼືເປັນເດັກນ້ອຍ.
 
-| Feels childish | Feels adult |
+| ເບິ່ງຄືເດັກນ້ອຍ | ເບິ່ງຄືຜູ້ໃຫຍ່ |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| ກລິດເຕີ ສະຕິກເກີໂຟມ ຕາປອມ | ເຈ້ຍສີນ້ຳ ຜ້າ ດອກໄມ້ກົດແຫ້ງ |
+| ແຜ່ນລົງສີກາຕູນ | ໜ້າລົງສີສວນ ຜ້າປົກຫຸ້ມ ລົດ ຫຼືທິວທັດ |
+| ຄຳຊົມ "ດີຫຼາຍ" ສຳລັບທຸກຮອຍ | ການສົນທະນາຈິງ: "ສີຟ້ານີ້ສວຍຄູ່ກັບສີຂຽວ" |
+| ງານຝີມືທີ່ບໍ່ມີປະໂຫຍດ | ການ໌ດໃຫ້ໝູ່ ດອກໄມ້ຕັ້ງໂຕ໊ະ ຫຼືຂອງຂວັນ |
+| ຄຳແນະນຳທີ່ອ່ານຄືບົດຮຽນ | ຄຳເຊື້ອເຊີນ: "ຊ່ວຍຂ້ອຍເລື່ອງນີ້ໜ້ອຍໄດ້ບໍ?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+ຄິດເຖິງລົດນິຍົມຂອງຜູ້ນັ້ນເອງ. ຜູ້ທີ່ຮັກງານປັກຜ້າອາດມັກຈັບຕ້ອງຜ້າ. ວິສະວະກອນທີ່ເກສີຍນອາດມັກປະກອບໂມເດວທີ່ມີຊິ້ນໃຫຍ່ ຫຼືຈັດອຸປະກອນໃນໂຄງການ. ອະດີດຄູອາດມັກເຮັດການ໌ດ.
 
-## Why focus on the process, not the product?
+## ເປັນຫຍັງຈຶ່ງເນັ້ນຂະບວນການ ບໍ່ແມ່ນຜົນງານ?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+ເພາະເວລາຮ່ວມກັນຄືຈຸດປະສົງ. ສະມາຄົມອັລໄຊເມີແນະນຳໃນ[ຄູ່ມືກິດຈະກຳທີ່ບ້ານ](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) ວ່າໃຫ້ເນັ້ນຂະບວນການ ບໍ່ແມ່ນຜົນ. ຮູບແຕ້ມທີ່ "ເປັນສີຟ້າ" ກໍຍັງເປັນຮູບແຕ້ມ ການຕັດແປະທີ່ມີສາມຮູບກໍຍັງເປັນການຕັດແປະ.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+ສະມາຄົມຍັງລະບຸວ່ານັກສິລະປິນມືອາຊີບອາດອຸກໃຈກັບການປ່ຽນແປງໃນຜົນງານຂອງຕົນ ໃນຂະນະທີ່ຜູ້ສົນໃຈທົ່ວໄປອາດເພີດເພີນກັບໂອກາດໃໝ່ໃນການສະແດງຕົວຕົນ. ຖ້າຜູ້ນັ້ນເປັນນັກສິລະປິນທີ່ມີຝີມື ລອງໃຊ້ສື່ອື່ນຈາກທີ່ເຂົາຊຳນານ ເພື່ອໃຫ້ຮູ້ສຶກວ່າເປັນການຫຼິ້ນ ບໍ່ແມ່ນການປຽບທຽບ.
 
-## Arts and crafts ideas to try
+## ໄອເດຍງານສິລະປະທີ່ຄວນລອງ
 
-Each idea includes how to make it simpler if it becomes hard.
+ແຕ່ລະໄອເດຍມີວິທີເຮັດໃຫ້ງ່າຍລົງຖ້າມັນຍາກຂຶ້ນ.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **ລ້າງສີນ້ຳ.** ເຮັດໃຫ້ເຈ້ຍສີນ້ຳໜາເປິກແລ້ວໃຫ້ຜູ້ນັ້ນຫຍອດສີລົງໄປດ້ວຍແປງໃຫຍ່. ສີຈະກະຈາຍດ້ວຍຕົວເອງ ດັ່ງນັ້ນບໍ່ມີຜົນທີ່ຜິດ. *ງ່າຍກວ່າ:* ໃຫ້ສອງສີພຽງເທົ່ານັ້ນ ຫຼືແຕ້ມດ້ວຍນ້ຳເທິງເຈ້ຍສີເຂັ້ມທີ່ເຫັນຮອຍເປິກ.
+2. **ການຕັດແປະຈາກນິຕະຍະສານ.** ຕັດຮູບຈາກນິຕະຍະສານກ່ຽວກັບສວນ ອາຫານ ລົດ ການເດີນທາງ ຫຼືງານອະດິເລກເກົ່າຂອງຜູ້ນັ້ນໄວ້ລ່ວງໜ້າ. ໃຫ້ເຂົາເລືອກ ແລະຕິດຮູບໃສ່ເຈ້ຍແຂງ. *ງ່າຍກວ່າ:* ໃຫ້ຮູບທີ່ຕັດໄວ້ແລ້ວສີ່ຮູບ ແລະກາວແທ່ງ ແລ້ວຕິດນຳກັນ.
+3. **ການຈັດດອກໄມ້.** ມູນນິທິອັລໄຊເມີແຫ່ງອາເມຣິກາແນະນຳໃຫ້[ຈັດດອກໄມ້ຕັດ ແລະໃບໄມ້](https://alzfdn.org/dementia-activity-gardening/) ເປັນຊໍ່ງ່າຍໆຕາມລະດູ. ໃຊ້ແຈກັນໜັກທີ່ໝັ້ນຄົງ ແລະກ້ານທີ່ຕັດໄວ້ແລ້ວ. *ງ່າຍກວ່າ:* ວາງກ້ານດອກໄມ້ບໍ່ຫຼາຍໃນຈອກນ້ອຍ ເທື່ອລະກ້ານ.
+4. **ການ໌ດດອກໄມ້ກົດ.** ກົດດອກໄມ້ຈາກຊໍ່ດອກໄມ້ລະຫວ່າງໜ້າປຶ້ມເປັນເວລາໜຶ່ງອາທິດ ແລ້ວຕິດໃສ່ເຈ້ຍແຂງທີ່ພັບແລ້ວ. *ງ່າຍກວ່າ:* ທ່ານໃສ່ກາວ ແລະເຂົາກົດດອກໄມ້ລົງ.
+5. **ໜ້າລົງສີສຳລັບຜູ້ໃຫຍ່.** ເລືອກໜ້າທີ່ມີເສັ້ນຊັດເຈນ ແລະຫົວຂໍ້ຈິງ. ໜ້າລົງສີ[ຂອງພວກເຮົາ](/games/coloring/) ສາມາດພິມອອກ ຫຼືລົງສີໃນໜ້າຈໍດ້ວຍການແຕະສີ ແລ້ວແຕະສ່ວນໜຶ່ງຂອງຮູບ. *ງ່າຍກວ່າ:* ບໍລິເວນໃຫຍ່ຂຶ້ນ ສີໜ້ອຍລົງ ປາກກາໜາ.
+6. **ດິນໜຽວ ຫຼືແປ້ງດັດຮູບ.** ມ້ວນ ກົດ ແລະປັ້ນດິນໜຽວທີ່ແຫ້ງເອງ ຫຼືແປ້ງດັດຮູບ. ການກົດໃບໄມ້ລົງໃນດິນໜຽວເຮັດເປັນແຜ່ນຮອຍງ່າຍໆ. *ງ່າຍກວ່າ:* ການບີບ ແລະມ້ວນກໍເປັນກິດຈະກຳເຕັມຮູບແບບແລ້ວ. ລະວັງບໍ່ໃຫ້ຜູ້ນັ້ນເອົາດິນໜຽວເຂົ້າປາກ.
+7. **ການ໌ດ.** ສະມາຄົມອັລໄຊເມີແນະນຳໃຫ້ຈັດເປັນວຽກຈິງ: "ພວກເຮົາກຳລັງສົ່ງການ໌ດອວຍພອນຫາເພື່ອນ. ທ່ານຊ່ວຍໄດ້ບໍ?" ເຈ້ຍແຂງທີ່ຕັດໄວ້ແລ້ວ ແລະສະຕິກເກີດອກໄມ້ ຫຼືແສ່ວສະແຕ້ມ ໃຊ້ໄດ້ດີ.
+8. **ອະລະບັ້ມຄວາມຊົງຈຳ.** ໃສ່ສຳເນົາຮູບເກົ່າ ໂປສການ໌ ຫຼືປີ້ໃສ່ໜ້າອະລະບັ້ມນຳກັນ. ເລົ່າກ່ຽວກັບແຕ່ລະອັນໄປພ້ອມກັນ. ເບິ່ງ[ຄູ່ມືການຟື້ນຄວາມຊົງຈຳ](/activities/reminiscence/) ສຳລັບວິທີເວົ້າເຖິງອະດີດຢ່າງອ່ອນໂຍນ.
+9. **ແຜ່ນຜ້າ ແລະພື້ນຜິວ.** ຕິດຕົວຢ່າງຜ້າກຳມະລີ ກຳມະມະລີ ຜ້າກະສອບ ແລະໄໝ ໃສ່ແຜ່ນແຂງ. ການເຮັດແມ່ນກິດຈະກຳ ການສຳຜັດໃນພາຍຫຼັງເປັນອີກສ່ວນໜຶ່ງ. ໄອເດຍເພີ່ມເຕີມຢູ່ໃນ[ຄູ່ມືກິດຈະກຳປະສາດສຳຜັດ](/activities/sensory/).
+10. **ງານຂັດໄມ້ແບບງ່າຍ.** ສຳລັບຜູ້ທີ່ມັກງານໄມ້ ການຂັດບລ໊ອກໄມ້ໃຫ້ລຽບ ຫຼືທາສີກ່ອງນົກທີ່ເປັນຊຸດ ອາດຮູ້ສຶກຄຸ້ນເຄີຍ. ເອົາເຄື່ອງມືຄົມອອກ ແລະເບິ່ງແຍງຢູ່ໃກ້ໆ.
+11. **ແຕ້ມຮູບຕາມດົນຕີ.** ເປີດເພງທີ່ມັກ ແລ້ວແຕ້ມຮູບຮ່າງ ຫຼືສີທີ່ເໝາະກັບອາລົມ. ນີ້ລວມສອງກິດຈະກຳທີ່ຫຼາຍຄົນມັກເຂົ້າກັນ. ເບິ່ງ[ກິດຈະກຳດົນຕີ](/activities/music/).
 
-## How do I set up an art session?
+## ຈະຕັ້ງຄ່າກິດຈະກຳສິລະປະແນວໃດ?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **ກຽມກ່ອນ.** ຕັດ ຕົກແຕ່ງ ແລະວາງທຸກຢ່າງໄວ້ກ່ອນເຊີນຜູ້ນັ້ນ. ການລໍຖ້າຕອນທີ່ທ່ານຊອກກັນຕັດຢູ່ອາດເຮັດໃຫ້ເສຍຈັງຫວະ.
+2. **ໃຫ້ມີຂະໜາດນ້ອຍ.** ສອງຫາສາມສີ ແປງໜຶ່ງອັນ ແລະເຈ້ຍໜຶ່ງແຜ່ນ. ທາງເລືອກທີ່ຫຼາຍເກີນໄປອາດເຮັດໃຫ້ລົ້ນ.
+3. **ປົກປ້ອງໂຕ໊ະ.** ຜ້າພລາສຕິກ ຫຼືຜ້າປູເກົ່າ ເຮັດໃຫ້ການເປິເປື້ອນບໍ່ເປັນຫ່ວງ.
+4. **ນັ່ງຂ້າງກັນ.** ເຮັດຜົນງານຂອງທ່ານເອງຂ້າງຂອງເຂົາ. ຮູ້ສຶກວ່າເປັນການເຮັດຮ່ວມກັນ ບໍ່ແມ່ນການເບິ່ງແຍງ.
+5. **ຊ່ວຍໃຫ້ເຂົາເລີ່ມ.** ສະມາຄົມອັລໄຊເມີລະບຸວ່າທ່ານອາດຈຳເປັນຕ້ອງເລີ່ມການເຄື່ອນແປງກັບຜູ້ນັ້ນ. ເມື່ອເລີ່ມແລ້ວ ຫຼາຍຄົນສືບຕໍ່ໄດ້.
+6. **ເວົ້າໄປພ້ອມກັບການເຮັດ.** ໃຫ້ຄຳເຫັນກ່ຽວກັບສີ ແລະພື້ນຜິວ ຫຼືປ່ອຍໃຫ້ງານນຳໄປສູ່ເລື່ອງລາວ. ຫຼີກເວັ້ນຄຳຖາມແບບທົດສອບ ເຊັ່ນ "ນີ້ແມ່ນຫຍັງ?"
+7. **ໃຫ້ເວລາພຽງພໍ.** ໂຄງການບໍ່ຈຳເປັນຕ້ອງສຳເລັດໃນຄັ້ງດຽວ.
 
-## How do I adapt art as dementia changes?
+## ຈະປັບງານສິລະປະແນວໃດເມື່ອພາວະສະໝອງເສື່ອມປ່ຽນໄປ?
 
-| Stage | What tends to work | What to adjust |
+| ລະດັບ | ສິ່ງທີ່ມັກໄດ້ຜົນ | ສິ່ງທີ່ຄວນປັບ |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| ຕົ້ນ | ຫ້ອງຮຽນ ການລົງສີລາຍລະອຽດ ອະລະບັ້ມ ການ໌ດ ການແຕ້ມຈາກຮູບ | ໃຫ້ເລືອກໂຄງການ ຮັກສາໃຫ້ມີສັງຄົມ |
+| ກາງ | ການຕັດແປະທີ່ຕັດໄວ້ແລ້ວ ສີນ້ຳລ້າງ ການຈັດດອກໄມ້ ການລົງສີບໍລິເວນໃຫຍ່ | ເທື່ອລະຂັ້ນ ທ່ານຈັດການການຕັດ ແລະການກາວ |
+| ທ້າຍ | ການແຕ້ມເສັ້ນກວ້າງ ການບີບດິນໜຽວ ການສຳຜັດຜ້າ ການເບິ່ງທ່ານແຕ້ມ | ເນັ້ນປະສາດສຳຜັດ ນຳມືໄປຢ່າງອ່ອນໂຍນຖ້າເປັນທີ່ຍິນດີ |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+NHS ແນະນຳວ່າໃນລະດັບຫຼັງ ກິດຈະກຳມັກຖືກເຮັດໃຫ້ງ່າຍລົງ ແລະເນັ້ນປະສາດສຳຜັດ. ການເບິ່ງຄົນອື່ນແຕ້ມ ແລະເວົ້າກ່ຽວກັບສີ ເປັນວິທີມີສ່ວນຮ່ວມທີ່ແທ້ຈິງ. ສຳລັບໄອເດຍເພີ່ມເຕີມແຕ່ລະລະດັບ ເບິ່ງ[ກິດຈະກຳສຳລັບທຸກລະດັບ](/activities/ideas/).
 
-## Safety with art supplies
+## ຄວາມປອດໄພກັບອຸປະກອນສິລະປະ
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- ເລືອກສີ ປາກກາ ແລະກາວແທ່ງທີ່ບໍ່ເປັນພິດ.
+- ເກັບກະໄຕ ມີດຕັດສິນລະປະ ແລະປືນກາວຮ້ອນໄວ້ໃຫ້ພົ້ນມື. ທ່ານເອງຕັດທຸກຢ່າງລ່ວງໜ້າ.
+- ລະວັງຜູ້ທີ່ເອົາດິນໜຽວ ສີ ຫຼືສິ່ງນ້ອຍໆເຂົ້າປາກ.
+- ໃຊ້ພາຊະນະທີ່ໜັກ ໝັ້ນຄົງສຳລັບນ້ຳ ແລະແຈກັນ.
 
-## When should we stop?
+## ຄວນຢຸດເມື່ອໃດ?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+ຢຸດເມື່ອຄວາມສົນໃຈຫາຍໄປ ຫຼືເຫັນຄວາມອຸກອັ່ງ. ສະມາຄົມອັລໄຊເມີແນະນຳໃຫ້ຢຸດ ຫຼືປ່ຽນກິດຈະກຳເມື່ອຊ່ວງຄວາມສົນໃຈສັ້ນລົງ ຫຼືຄວາມອຸກອັ່ງເພີ່ມຂຶ້ນ. ວາງໂຄງການໄວ້ບ່ອນທີ່ປອດໄພ ແລະສະເໜີສິ່ງທີ່ຜ່ອນຄາຍ. ທ່ານສາມາດກັບມາເຮັດມັນມື້ອື່ນ ຫຼືບໍ່ກັບມາເລີຍ. ທັງສອງຢ່າງກໍໄດ້.
 
-## Display the work, if the person wants
+## ຕິດວຽກທີ່ເຮັດສຳເລັດ ຖ້າຜູ້ນັ້ນຕ້ອງການ
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+ການຕິດຮູບແຕ້ມໄວ້ທີ່ຕູ້ເຢັນ ຫຼືໃສ່ກອບຜົນງານການຕັດແປະ ອາດເປັນວິທີສະຫງົບໃນການສະແດງຄວາມເຄົາລົບ. ຖາມກ່ອນ. ບາງຄົນມັກເຫັນຜົນງານຂອງຕົນຢູ່ເທິງຝາ ແຕ່ບາງຄົນອາດບໍ່ຢາກ.
 
-## Pair art with our games
+## ຈັບຄູ່ງານສິລະປະກັບເກມຂອງພວກເຮົາ
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+ໃນມື້ທີ່ການຕັ້ງສີເຮັດໃຫ້ເກີນໄປ [ການລົງສີ](/games/coloring/) ໃຊ້ໄດ້ດີໃນແທັບເລັດໂດຍບໍ່ເປິເປື້ອນ. [ຈິກຊໍຮູບ](/games/picture-puzzle/) ເກັບຮູບທັງໝົດໄວ້ໃຫ້ເປັນແນວທາງໃນຂະນະທີ່ທ່ານສັບປ່ຽນຊິ້ນສ່ວນ. [ບັດສົນທະນາ](/games/conversation-cards/) ໃຫ້ຄຳຖາມເປີດທີ່ສາມາດນຳຈາກຮູບໄປສູ່ເລື່ອງລາວ. ທັງໝົດບໍ່ມີເວລາ ຫຼືຄະແນນ. ທ່ານຍັງສາມາດພິມໜ້າຈາກຄໍເລັກຊັນ[ກິດຈະກຳທີ່ພິມໄດ້](/activities/printable/) ຂອງພວກເຮົາ.
