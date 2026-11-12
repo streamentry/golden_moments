@@ -1,7 +1,7 @@
 ---
 title: "Nuair a bhios cuideigin aig a bheil dementia feargach no ionnsaigheil"
 seoTitle: "Dementia agus ionnsaigheachd: mar a freagras tu"
-description: "Mar a freagras tu gu sàbhailte nuair a thig feirg gu ionnsaigheachd ann an dementia, dè dh’fhaodadh a bhith a’ cur ris, agus cuin a dh’iarras tu comhairle meidigeach."
+description: "Mar a freagras tu gu sàbhailte nuair a thig feirg gu ionnsaigheachd ann an dementia, dè dh’fhaodadh a bhith ga adhbhrachadh agus cuin a dh’iarras tu comhairle."
 section: caregiving
 order: 37
 updated: 2026-11-11

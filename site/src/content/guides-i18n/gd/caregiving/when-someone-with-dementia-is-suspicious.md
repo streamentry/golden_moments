@@ -1,7 +1,7 @@
 ---
 title: "Nuair a tha cuideigin aig a bheil dementia an amharas no a’ cur casaid ort"
 seoTitle: "Dementia agus amharas: dè nì luchd-cùraim"
-description: "Freagair gu socair ri amharas mu nithean a chaidh air chall, dearbhaich na fìrinnean, cùm pàtrain shoilleir agus faighnich do dhotair ma tha atharrachadh ùr a’ cur dragh."
+description: "Freagair gu socair ri amharas mu nithean a chaidh air chall, dearbhaich na fìrinnean agus faighnich do dhotair ma tha atharrachadh ùr a’ cur dragh."
 section: caregiving
 order: 34
 updated: 2026-11-11
