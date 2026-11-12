@@ -1,33 +1,31 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "Intermittent faste og demens: Hva forskningen sier"
+seoTitle: "Intermittent faste og demens: Hva forskningen sier"
+description: "Beviset for intermittent faste og demens hos mennesker er begrenset og tidlig. Lær risikoene for eldre og hvorfor det er viktigere å spise nok når man har demens."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  Det finnes ikke godt bevis for at intermittent faste forebygger eller bremser demens. Mye av
+  forskningen er gjort på dyr, og studier på eldre mennesker er små og korte. Faste kan være risikabelt
+  for eldre: vekt- og muskeltap, lavt blodsukker ved enkelte diabetesmedisiner, uttørring og fall. For
+  personer som lever med demens er det vanligvis viktigere å spise og drikke nok. Snakk med lege først.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging sier at det ikke finnes nok bevis for å anbefale noen faste- eller kaloribegrensende diett, særlig for eldre voksne."
+  - "Mye av forskningen om faste og aldring er gjort på dyr, og resultatene gjelder ikke nødvendigvis mennesker."
+  - "Mulige risikoer for eldre voksne inkluderer utilsiktet vekttap, muskeltap, lavt blodsukker ved enkelte diabetesmedisiner, uttørring, svimmelhet og fall."
+  - "Personer som lever med demens glemmer ofte å spise eller drikke, eller tror de allerede har gjort det. Å hjelpe dem å spise og drikke nok betyr vanligvis langt mer enn når de spiser."
+  - "Bruk ikke faste for en person som lever med demens. Snakk med lege eller klinisk ernæringsfysiolog før noen endring i spisemønsteret."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "Forebygger intermittent faste Alzheimers?"
+    a: "Det finnes ikke godt bevis for at den gjør det. Mye av forskningen er gjort på dyr, og studier på mennesker har stort sett vært korte, gjort på yngre eller overvektige voksne og fokusert på vekttap. National Institute on Aging sier at det ikke finnes nok bevis til å anbefale fastediett til allmennheten."
+  - q: "Er intermittent faste trygt for eldre voksne?"
+    a: "Det kan være det ikke. Faste kan føre til utilsiktet tap av vekt og muskler, uttørring, svimmelhet og fall, og kan gi farlig lavt blodsukker hos personer som tar insulin eller enkelte andre diabetesmedisiner. Mayo Clinic påpeker at det kanskje ikke passer for personer med høy risiko for benskjørhet og fall. Snakk med lege før du prøver."
+  - q: "Bør en person med demens prøve faste?"
+    a: "Nei. Personer som lever med demens har ofte vansker med å spise og drikke nok, og dårlig ernæring kan øke atferdssymptomer og føre til vekttap. Faste gir økt risiko uten dokumentert nytte. Fokuser i stedet på faste måltider, snacks de liker, og nok å drikke."
+  - q: "Hva er tegn på at en person med demens ikke spiser eller drikker nok?"
+    a: "Se etter vekttap, klær som sitter løsere, tretthet, svakhet, forstoppelse eller at de nekter mat. Tegn på uttørring som National Institute on Aging lister opp, inkluderer tørr munn, svimmelhet, rask puls og hallusinasjoner. Si fra til legen hvis du legger merke til dette."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +53,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+Intermittent faste, for eksempel å bare spise innen et åttetimers vindu eller kutte kalorier kraftig to dager i uken, får mye oppmerksomhet, og noen artikler antyder at det kan beskytte hjernen. Hvis du er eldre voksen, eller tar vare på en person som lever med demens, her er hva forskningen faktisk viser, og hvorfor forsiktighet er viktig.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+Dette er generell informasjon, ikke medisinsk råd. Ikke start med faste, eller endre hvordan noen du tar vare på spiser, uten å snakke med lege eller klinisk ernæringsfysiolog. Se vår [medisinske ansvarsfraskrivelse](/medical-disclaimer/).
 
-## Does intermittent fasting prevent dementia?
+## Forebygger intermittent faste demens?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+Det finnes ikke godt bevis for at intermittent faste forebygger eller bremser demens. National Institute on Aging (NIA) sier at det ikke finnes nok bevis til å anbefale noen type kaloribegrensende eller fastediett, og at mye mer må finnes ut om effekt og sikkerhet, særlig for eldre voksne ([NIA om kaloribegrensning og faste](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### Hvorfor beviset er så begrenset
 
-The NIA gives several reasons:
+NIA gir flere grunner:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **De fleste studiene er gjort på dyr.** Forskning på ormer, fluer, mus og aper har gitt interessante resultater, men disse funnene gjelder ikke nødvendigvis mennesker. Selv hos dyr er resultatene blandede; hos enkelte musestammer forkortet kaloribegrensning levetiden.
+- **Studier på mennesker har vært korte.** De fleste varte i noen uker eller måneder.
+- **De fleste studiene på mennesker fokuserte på vekttap** hos overvektige voksne, ikke på hukommelse eller demens.
+- **Eldre voksne er sjelden med.** Mange studier rekrutterte personer på 60 år eller yngre.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+En systematisk gjennomgang fra 2026 så spesifikt på intermittent faste hos voksne på 60 år og eldre. Den fant at beviset i denne aldersgruppen fortsatt er begrenset, med små studier, kort oppfølging og blandede design. Funn om tenkeevne og hukommelse kom fra enkeltstudier i stedet for samlede resultater fra randomiserte studier. Gjennomgangen påpekte også at noen studier knyttet svært korte spisevinduer eller lange faster til dårligere utfall, og forfatterne oppfordret til forsiktighet for eldre voksne ([gjennomgang fra 2026 i Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+Noen forskere tror at kroppens overgang til å forbrenne fett under faste kan påvirke hjernen, men dette er fortsatt en teori som studeres. NIA påpeker at vitenskapen er usikker.
 
-## What are the risks of fasting for older adults?
+## Hva er risikoene ved faste for eldre voksne?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+Faste er ikke et ufarlig eksperiment for mange eldre. Mulige risikoer inkluderer:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **Utilsiktet vekttap.** Å spise mindre enn kroppen trenger, kan føre til vekttap og mindre muskelstyrke, noe som kan gjøre en person skrøpeligere.
+- **Muskel- og beintap.** I en to år lang studie av kaloribegrensning, støttet av NIA, blant yngre og middelaldrende voksne, fikk deltakerne små nedganger i beintetthet og fettfri kroppsmasse.
+- **Lavt blodsukker ved diabetesmedisiner.** Personer som tar insulin eller enkelte andre diabetesmedisiner, kan få blodsukkeret for lavt hvis de hopper over eller utsetter måltider, ifølge [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). Lavt blodsukker kan gi svimmelhet, forvirring og irritasjon.
+- **Uttørring.** Hvis drikke hoppes over sammen med måltider, kan en person bli uttørket.
+- **Svimmelhet og fall.** Mayo Clinic påpeker at intermittent faste kan gjøre folk svært trette og svimle, og at det kanskje ikke er et sunt mønster for personer med høy risiko for benskjørhet og fall ([Mayo Clinic om intermittent faste](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **Andre effekter.** Mayo Clinic nevner også hodepine, humørsvingninger og forstoppelse, og påpeker at det finnes noe bevis for at en 16 timers faste med et 8 timers spisevindu kan øke risikoen for hjertesykdom sammenlignet med andre spisevinduer. Dette beviset er ikke avklart.
 
-## Why is eating enough the bigger concern with dementia?
+## Hvorfor er det å spise nok viktigere med demens?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+For personer som lever med demens er det vanlige problemet å få i seg **nok** mat og drikke, ikke for mye. Alzheimer's Association forklarer at personer i midtstadiet og senere stadier kan bli overveldet av matvalg, glemme å spise, eller tro at de allerede har spist. Det tilføyer at dårlig ernæring kan øke atferdssymptomer og føre til vekttap ([Alzheimer's Association om mat og spising](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society påpeker at det å ikke spise nok kan føre til vekttap, mindre muskelstyrke, tretthet og svakhet, og gjøre en person mer skrøpelig og dårligere rustet til å komme seg etter infeksjoner ([Alzheimer's Society om appetitt](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**Av disse grunnene er faste ingen god idé for en person som lever med demens.** Hoppede måltider kan lett bli til glemte måltider. Enhver endring i hvordan en person med demens spiser, bør veiledes av legen eller en klinisk ernæringsfysiolog.
 
-## What are the warning signs of poor eating or drinking?
+## Hva er varselsignalene på dårlig spising eller drikking?
 
-Watch for:
+Se etter:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **Vekttap**, eller klær som sitter løsere.
+- **At mat blir liggende igjen eller at måltider avslås**, eller at mat holdes i munnen.
+- **Tretthet eller svakhet.**
+- **Forstoppelse**, som kan henge sammen med kost og uttørring.
+- **Tegn på uttørring.** NIA lister opp tørr munn, svimmelhet, rask puls og hallusinasjoner, som også kan skyldes demens selv ([NIA om vanlige medisinske problemer](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+Dårlig appetitt kan ha mange mulige årsaker: ømme tenner eller løse tannproteser, nye medisiner, depresjon, forstoppelse, mindre aktivitet, eller endringer i smak og lukt. Si fra til personens lege om noen av disse tegnene. De kan lete etter en årsak og kan foreslå en ernæringsfysiolog eller kosttilskudd.
 
-## How can you help someone eat and drink enough?
+## Hvordan kan du hjelpe noen med å spise og drikke nok?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **Tilby små måltider og snacks ofte**, i stedet for tre store måltider.
+- **Server favorittmaten**, og vær fleksibel når smaken endrer seg. Søtt kan være velkomment hvis appetitten er lav; spør legen om det finnes helsemessige grunner til å begrense sukker.
+- **Hold drikke innen rekkevidde** og tilby små kopper gjennom dagen. Supper, frukt, smoothies og milkshake teller også.
+- **Spis sammen** når du kan. Måltider er en anledning til selskap, ikke en oppgave som skal unngås.
+- **Prøv fingermat**, som smørbrød, fruktbiter eller kyllingbiter, hvis bestikk har blitt vanskelig.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+Vår [veiledning om kosthold](/brain-health/diet/) har flere ideer til måltider. Å hjelpe til med å lage mat kan også være en hyggelig felles aktivitet; se [husarbeid](/activities/household-tasks/).
 
-## Talk with a doctor
+## Snakk med lege
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+Før du prøver en fasteplan selv, snakk med lege eller en klinisk ernæringsfysiolog, særlig hvis du tar medisiner for diabetes eller blodtrykk, har gått ned i vekt nylig, eller har falt. For en person som lever med demens, spør legen om hvor mye de bør spise og drikke hver dag, i stedet for å spørre om faste.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+Få akutt medisinsk hjelp ved plutselig forvirring, besvimelse, eller tegn på svært lavt blodsukker som ikke bedrer seg raskt.

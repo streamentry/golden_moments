@@ -1,32 +1,31 @@
 ---
-title: "Exercise and Brain Health: What Research Links and How to Move Safely"
-seoTitle: "Exercise and Dementia: What Research Says"
-description: "What research links between physical activity and dementia risk, plus safe, enjoyable ways for older adults and people with dementia to move."
+title: "Trening og hjernehelse: Hva forskningen knytter til, og hvordan bevege seg trygt"
+seoTitle: "Trening og demens: Hva forskningen sier"
+description: "Hva forskningen knytter mellom fysisk aktivitet og risiko for demens, pluss trygge og hyggelige måter for eldre og personer med demens å bevege seg på."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Studies link regular physical activity with a lower risk of dementia, and the 2024 Lancet
-  Commission lists physical inactivity as one of 14 modifiable risk factors. Trials have not
-  proven that exercise prevents dementia. Movement still helps strength, balance, mood and sleep,
-  so walking, chair exercises and dancing are worth doing for their own sake. Check with a doctor
-  before starting something new.
+  Studier knytter regelmessig fysisk aktivitet til lavere risiko for demens, og Lancet-kommisjonen
+  fra 2024 oppgir fysisk inaktivitet som en av 14 faktorer som kan endres. Studier har ikke bevist at
+  trening forebygger demens. Bevegelse hjelper likevel styrke, balanse, humør og søvn, så gåturer,
+  stoltrening og dans er verdt å gjøre for sin egen skyld. Snakk med lege før du starter noe nytt.
 keyPoints:
-  - "Physically active people have a lower dementia risk on average, but this comes mostly from observational studies, not trials."
-  - "A five-year exercise trial in older adults found no clear difference in thinking skills between groups."
-  - "CDC guidance for adults 65 and older covers aerobic, muscle-strengthening and balance activities, and says some activity is better than none."
-  - "For people living with dementia, short, familiar, shared movement such as a daily walk or seated games matters more than any target."
-  - "More than one in four older adults falls each year, so balance work and a safe space come first."
+  - "Fysisk aktive personer har i gjennomsnitt lavere risiko for demens, men dette kommer hovedsakelig fra observasjonsstudier, ikke fra randomiserte studier."
+  - "En femårig treningsstudie blant eldre voksne fant ingen tydelig forskjell i tenkeevne mellom gruppene."
+  - "CDCs anbefalinger for voksne på 65 år og eldre dekker utholdenhet, muskelstyrke og balanse, og sier at litt aktivitet er bedre enn ingen."
+  - "For personer som lever med demens betyr korte, kjente og felles bevegelser, som en daglig gåtur eller sittende leker, mer enn noe mål."
+  - "Mer enn én av fire eldre faller hvert år, så balanseøvelser og et trygt rom kommer først."
 faq:
-  - q: "Can exercise prevent dementia?"
-    a: "No one can promise that. Many studies link being active with a lower risk of dementia, but clinical trials have not shown that exercise prevents it. Exercise has many other proven benefits, so it is still worth doing."
-  - q: "Is it safe for someone living with dementia to exercise?"
-    a: "Usually, with some planning. The National Institute on Aging suggests checking with the person's doctor before starting a new routine, choosing comfortable shoes, offering water, and keeping sessions short. Stop if the person seems tired, unsteady or unhappy."
-  - q: "What exercises can be done sitting down?"
-    a: "Seated options include chair stretches or chair yoga, tossing a balloon or soft ball, bean bag toss, lifting soup cans, stretching bands and pedal exercisers. These are good choices when walking is hard."
-  - q: "What if the person does not want to move?"
-    a: "Do not push. Try again later, join in yourself, add familiar music, or turn movement into a task such as sweeping or watering plants. A short walk to the mailbox counts, and so does simply sitting outside together."
+  - q: "Kan trening forebygge demens?"
+    a: "Ingen kan love det. Mange studier knytter aktivitet til lavere risiko for demens, men kliniske studier har ikke vist at trening forebygger den. Trening har mange andre dokumenterte fordeler, så det er fortsatt verdt å gjøre."
+  - q: "Er det trygt for en som lever med demens å trene?"
+    a: "Vanligvis ja, med litt planlegging. National Institute on Aging foreslår å sjekke med personens lege før man starter en ny rutine, velge gode sko, tilby vann og holde øktene korte. Stopp hvis personen virker trøtt, ustø eller ulykkelig."
+  - q: "Hvilke øvelser kan gjøres sittende?"
+    a: "Sittende alternativer er stolstrekk eller stolyoga, å kaste en ballong eller en myk ball, kasting av postsekker, å løfte bokser med suppe, strekkbånd og pedaltrenere. Dette er gode valg når det er vanskelig å gå."
+  - q: "Hva om personen ikke vil bevege seg?"
+    a: "Ikke press. Prøv igjen senere, bli med selv, legg til kjent musikk, eller gjør bevegelsen til en oppgave, som å feie eller vanne planter. En kort gang til postkassen teller, og det gjør også det å bare sitte ute sammen."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -51,82 +50,131 @@ related: [brain-health/risk-factors, brain-health/can-dementia-be-prevented, act
 health: true
 ---
 
-Being active is one of the most studied habits in brain health research. Studies link it with a lower risk of dementia, but they have not proven that exercise prevents dementia. What is clear is that movement helps with strength, balance, mood and sleep at any age. This page covers what the research says, how much activity older adults are advised to get, and gentle ways to move with someone living with dementia.
+Å være aktiv er en av de mest studerte vanene innen forskning på hjernehelse. Studier knytter den til
+lavere risiko for demens, men de har ikke bevist at trening forebygger demens. Det som er klart, er at
+bevegelse hjelper styrke, balanse, humør og søvn i alle aldre. Denne siden tar for seg hva forskningen
+sier, hvor mye aktivitet eldre voksne anbefales, og milde måter å bevege seg på sammen med en person
+som lever med demens.
 
-## Does exercise lower the risk of dementia?
+## Senker trening risikoen for demens?
 
-Research suggests that physically active people are less likely to develop dementia, but the evidence has limits. The [2024 Lancet Commission on dementia](https://doi.org/10.1016/S0140-6736(24)01296-0) lists physical inactivity as one of 14 modifiable risk factors. Together, these 14 factors account for about 45% of dementia worldwide in its model.
+Forskning tyder på at fysisk aktive personer er mindre utsatt for å få demens, men beviset har grenser.
+[Lancet-kommisjonen om demens fra 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) oppgir fysisk
+inaktivitet som en av 14 risikofaktorer som kan endres. Til sammen står disse 14 faktorene for omtrent
+45 % av demenstilfellene i verden i modellen deres.
 
-Here is what the evidence looks like:
+Slik ser beviset ut:
 
-- **Observational studies point one way.** A review of 58 studies, discussed by the Commission, found that physically active people had about a 20% lower risk of dementia. The biggest difference was between people who were almost completely inactive and those who did at least some activity.
-- **The link may run both ways.** The Commission notes that being inactive may raise risk. It also notes that the early brain changes of dementia, which start years before diagnosis, may make people less active.
-- **Trials are less clear.** In one trial, 945 older adults with an average age of 78 were assigned to five years of twice-weekly supervised exercise or to a comparison group. At the end, thinking skills did not differ clearly between the groups. Many people in the comparison group were also active, which makes the result harder to read.
+- **Observasjonsstudier peker i én retning.** En gjennomgang av 58 studier, omtalt av kommisjonen, fant
+  at fysisk aktive personer hadde omtrent 20 % lavere risiko for demens. Den største forskjellen var mellom
+  personer som nesten var helt inaktive, og de som gjorde i det minste litt.
+- **Sammenhengen kan gå begge veier.** Kommisjonen påpeker at å være inaktiv kan øke risikoen. Den
+  påpeker også at de tidlige hjerne-endringene ved demens, som starter år før diagnosen, kan gjøre folk
+  mindre aktive.
+- **Studiene er mindre klare.** I én studie ble 945 eldre voksne med gjennomsnittsalder 78 år fordelt til
+  fem år med tilsyn to ganger i uken, eller til en sammenligningsgruppe. Til slutt var det ingen tydelig
+  forskjell i tenkeevne mellom gruppene. Mange i sammenligningsgruppen var også aktive, noe som gjør
+  resultatet vanskeligere å tolke.
 
-The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know) puts it plainly. No clear link between physical activity and preventing Alzheimer's has been shown, and there is not enough trial evidence to say exercise prevents or slows it. Exercise still lowers the risk of falls, depression, diabetes, high blood pressure and stroke. Some of those conditions are themselves linked with cognitive decline.
+[National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)
+sier det tydelig. Det er ikke vist noen klar sammenheng mellom fysisk aktivitet og forebygging av
+Alzheimers, og det finnes ikke nok studiebevis for å si at trening forebygger eller bremser den. Trening
+reduserer likevel risikoen for fall, depresjon, diabetes, høyt blodtrykk og hjerneslag. Noen av disse
+tilstandene er i seg selv knyttet til kognitiv svikt.
 
-The honest takeaway is to move because it helps you feel and function better today. Any brain benefit is a possible bonus, not a promise.
+Den ærlige konklusjonen er å bevege seg fordi det hjelper deg å føle deg bedre og fungere bedre i dag.
+Eventuell gevinst for hjernen er en mulig bonus, ikke et løfte.
 
-## How much activity do older adults need?
+## Hvor mye aktivitet trenger eldre voksne?
 
-The [CDC's guidance for adults 65 and older](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html) suggests three kinds of activity each week:
+[CDCs anbefalinger for voksne på 65 år og eldre](https://www.cdc.gov/physical-activity-basics/guidelines/older-adults.html)
+foreslår tre typer aktivitet hver uke:
 
-| Type | Weekly amount | Examples |
+| Type | Ukentlig mengde | Eksempler |
 | --- | --- | --- |
-| Aerobic | At least 150 minutes of moderate activity, such as 30 minutes on 5 days | Brisk walking, dancing, water aerobics |
-| Muscle-strengthening | At least 2 days, working all major muscle groups | Lifting light weights or soup cans, stretching bands |
-| Balance | Regularly | Walking heel to toe, standing up from a chair |
+| Utholdenhet | Minst 150 minutter moderat aktivitet, for eksempel 30 minutter på 5 dager | Rask gange, dans, vanntrim |
+| Muskelstyrke | Minst 2 dager, med alle store muskelgrupper | Løfting av lette vekter eller suppebokser, strekkbånd |
+| Balanse | Regelmessig | Gå hæl mot tå, reise seg fra en stol |
 
-These are goals, not entry requirements. The CDC says that if you cannot meet them, you should be as active as your abilities and health allow. Some activity is better than none.
+Dette er mål, ikke krav for å starte. CDC sier at hvis du ikke kan nå dem, bør du være så aktiv som
+evnene og helsen din tillater. Litt aktivitet er bedre enn ingen.
 
-## Gentle ways to move for older adults
+## Milde måter å bevege seg på for eldre
 
-- **Walk with company.** A daily walk with a friend, neighbor or walking group adds conversation and safety.
-- **Chair exercises.** Seated arm raises, ankle circles, marching in place and chair yoga build strength without balance risk.
-- **Dance in the kitchen.** Put on music from the person's teens and twenties and sway, tap or step. Our [music activities guide](/activities/music/) has ideas.
-- **Strength with household items.** Lift filled water bottles or soup cans while watching a favorite show.
-- **Garden or do chores.** Watering plants, raking, sweeping and folding laundry all count. See [outdoor and gardening activities](/activities/outdoor-and-gardening/) and [household tasks](/activities/household-tasks/).
-- **Water exercise.** The NIA lists water aerobics classes as one option for people who find land exercise hard on their joints.
+- **Gå i selskap.** En daglig gåtur med en venn, nabo eller turgruppe gir samtale og trygghet.
+- **Stoløvelser.** Sittende armløft, ankelsirkler, marsjering på stedet og stolyoga bygger styrke uten
+  balanserisiko.
+- **Dans på kjøkkenet.** Sett på musikk fra personens tenår- og tjueår, og gynge, klapp eller tramp med.
+  Vår [veiledning om musikkaktiviteter](/activities/music/) har ideer.
+- **Styrke med husholdningsting.** Løft fylte vannflasker eller suppebokser mens dere ser på et favorittprogram.
+- **Hagearbeid og husarbeid.** Å vanne planter, harve, feie og brette klær teller alt sammen. Se
+  [utendørs- og hageaktiviteter](/activities/outdoor-and-gardening/) og [husarbeid](/activities/household-tasks/).
+- **Vanntrening.** NIA nevner vanntrimtimer som ett alternativ for personer som synes landtrening er tungt for leddene.
 
-## How to exercise with someone living with dementia
+## Hvordan trener du sammen med en person som lever med demens?
 
-For a person living with dementia, the aim is comfort, enjoyment and keeping everyday abilities, not reaching a number. The NIA says physical activity helps keep the muscles, joints and heart of someone with Alzheimer's in good shape, and can also improve mood and sleep. Check with their doctor before starting a new routine. Tips from the [NIA's caregiver guide](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) include:
+For en person som lever med demens er målet komfort, glede og å beholde hverdagsferdighetene, ikke å nå
+et tall. NIA sier at fysisk aktivitet hjelper med å holde musklene, leddene og hjertet til en person med
+Alzheimers i god form, og kan også bedre humør og søvn. Snakk med personens lege før dere starter en ny
+rutine. Tips fra [NIAs veiledning for pårørende](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf)
+inkluderer:
 
-1. **Walk together each day.** Choose a safe, familiar path clear of obstacles. If the person walks alone, an ID bracelet with your phone number is a good idea.
-2. **Try exercise videos for older adults.** Follow along together, seated or standing.
-3. **Keep sessions short.** Several short "mini-workouts" may work better than one long one.
-4. **Add music.** Familiar songs make movement feel like an activity, not a task. Dance if the person enjoys it.
-5. **Offer water and comfortable shoes.** Offer water or juice during and after, and choose comfortable clothes and well-fitting shoes made for exercise.
+1. **Gå sammen hver dag.** Velg en trygg, kjent sti uten hindringer. Hvis personen går alene, er et
+   ID-armbånd med telefonnummeret ditt en god idé.
+2. **Prøv treningsvideoer for eldre.** Følg med sammen, sittende eller stående.
+3. **Hold øktene korte.** Flere korte «minitreninger» kan fungere bedre enn én lang.
+4. **Legg til musikk.** Kjente sanger gjør bevegelse til en aktivitet, ikke en oppgave. Dans hvis personen
+   liker det.
+5. **Tilby vann og komfortable sko.** Tilby vann eller juice under og etter, og velg komfortable klær og
+   godt sittende sko laget for trening.
 
-If walking is hard, the [NIA's guide to caring for a person with Alzheimer's](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) suggests seated options. These include chair exercises or yoga, bean bag toss, tossing a soft ball or balloon, stretching bands, lifting light household items, and pedal exercisers. Simple jobs like sweeping and dusting count as well.
+Hvis det er vanskelig å gå, foreslår [NIAs veiledning om å ta vare på en person med Alzheimers](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf)
+sittende alternativer. Disse inkluderer stoløvelser eller yoga, kasting av postsekker, kasting av en myk
+ball eller ballong, strekkbånd, løfting av lette husholdningsting og pedaltrenere. Enkle oppgaver som å
+feie og tørke støv teller også.
 
-Be realistic about what movement can do. The Lancet Commission found no evidence that exercise reduces behavior changes such as agitation. Move together because it can feel good, not as a way to fix a hard afternoon. If the person says no, that is fine. Our guide on [when they say no](/caregiving/when-they-say-no/) has gentle ways to try again later. Ending early, or just sitting outside together, is a good outcome too.
+Vær realistisk om hva bevegelse kan gjøre. Lancet-kommisjonen fant ingen bevis for at trening reduserer
+atferdsendringer som agitasjon. Beveg dere sammen fordi det kan kjennes godt, ikke som en måte å reparere
+en vanskelig ettermiddag på. Hvis personen sier nei, er det greit. Vår veiledning om
+[når de sier nei](/caregiving/when-they-say-no/) har milde måter å prøve igjen senere på. Å avslutte
+tidlig, eller bare sitte ute sammen, er også et godt resultat.
 
-After moving, a quiet pause such as [Calm Breathing](/games/calm-breathing/) can help you both settle. For a seated activity with gentle arm movement, [Sort Together](/games/sort-together/) and [Picture Bingo](/games/picture-bingo/) work well at a table.
+Etter bevegelse kan en rolig pause som [Rolig pusting](/games/calm-breathing/) hjelpe dere begge å falle
+til ro. For en sittende aktivitet med milde armbevegelser fungerer [Sorter sammen](/games/sort-together/)
+og [Bildebingo](/games/picture-bingo/) godt ved et bord.
 
-## Balance and fall safety
+## Balanse og fallsikkerhet
 
-Falls are common and serious. The [CDC reports](https://www.cdc.gov/falls/data-research/facts-stats/index.html) that more than one in four older adults falls each year, but fewer than half tell their doctor. Falling once doubles the chance of falling again. Risk factors the CDC lists include:
+Fall er vanlige og alvorlige. [CDC rapporterer](https://www.cdc.gov/falls/data-research/facts-stats/index.html)
+at mer enn én av fire eldre faller hvert år, men færre enn halvparten forteller det til legen sin. Å falle
+én gang dobler sjansen for å falle igjen. Risikofaktorer CDC lister opp, inkluderer:
 
-- Weakness in the legs and hips
-- Trouble with walking and balance
-- Some medicines, including sedatives and some antidepressants
-- Vision problems
-- Foot pain or poor footwear
-- Home hazards such as clutter, throw rugs and broken steps
+- Svakhet i beina og hoftene
+- Problemer med gange og balanse
+- Noen medisiner, blant annet beroligende midler og enkelte antidepressiva
+- Synsproblemer
+- Smerte i føttene eller dårlige sko
+- Hjemmefare som rot, løse tepper og ødelagte trappetrinn
 
-To move more safely:
+For å bevege seg tryggere:
 
-- **Use a sturdy chair** without wheels, and keep a counter or rail within reach for standing exercises.
-- **Clear the space** of rugs, cords and clutter first.
-- **Go slowly when standing up**, and stop if the person feels dizzy or unsteady.
-- **Wear supportive shoes**, not socks or loose slippers.
-- **Practice balance near support.** Standing up from a chair and walking heel to toe are CDC examples of balance activities.
+- **Bruk en solid stol uten hjul**, og hold en benk eller et rekkverk innen rekkevidde til stående øvelser.
+- **Rydd plassen** for tepper, ledninger og rot først.
+- **Gå sakte når du reiser deg**, og stopp hvis personen blir svimmel eller ustø.
+- **Bruk støttende sko**, ikke sokker eller løse tøfler.
+- **Øv balanse nær støtte.** Å reise seg fra en stol og gå hæl mot tå er CDCs eksempler på balanseaktiviteter.
 
-The CDC advises that an older person who falls and hits their head should see a doctor right away, especially if they take blood thinners.
+CDC råder til at en eldre person som faller og slår hodet, bør oppsøke lege med én gang, særlig hvis
+personen bruker blodfortynnende medisin.
 
-## Talk with a doctor
+## Snakk med lege
 
-Check with a doctor before starting a new exercise routine, especially for someone who has heart or lung problems, joint pain, balance problems, or dementia. A doctor or physical therapist can suggest safe activities and check whether medicines affect balance. Tell the doctor about any fall, even one without injury. If something hurts or feels wrong during exercise, stop. For sudden chest pain, trouble breathing, or sudden confusion, call 911.
+Snakk med lege før du starter en ny treningsrutine, særlig for noen som har hjerte- eller lungeproblemer,
+leddsmerter, balanseproblemer eller demens. En lege eller fysioterapeut kan foreslå trygge aktiviteter og
+sjekke om medisiner påvirker balansen. Si fra til legen om alle fall, også de uten skade. Hvis noe gjør vondt
+eller føles feil under trening, stopp. Ved plutselig brystsmerte, pustevansker eller plutselig forvirring,
+ring det lokale nødnummeret.
 
-This page is general information, not medical advice. See our [medical disclaimer](/medical-disclaimer/). For the bigger picture, read [what research says about dementia risk factors](/brain-health/risk-factors/) and [whether dementia can be prevented](/brain-health/can-dementia-be-prevented/).
+Dette er generell informasjon, ikke medisinsk råd. Se vår [medisinske ansvarsfraskrivelse](/medical-disclaimer/).
+For hele bildet, les [hva forskningen sier om risikofaktorer for demens](/brain-health/risk-factors/) og
+[om demens kan forebygges](/brain-health/can-dementia-be-prevented/).

@@ -1,33 +1,28 @@
 ---
-title: "Dementia Risk Factors: The 14 the Lancet Commission Named"
-seoTitle: "Dementia Risk Factors: The 14 Lancet Factors"
-description: "The 14 changeable dementia risk factors named by the 2024 Lancet Commission, by life stage, with what research links and what you can talk over with a doctor."
+title: "Demences riska faktori: 14, ko nosauca Lancet komisija"
+seoTitle: "Demences riska faktori: 14 Lancet faktori"
+description: "Četrpadsmit maināmi demences riska faktori, ko 2024. gadā nosauca Lancet komisija, pēc dzīves posmiem, ko saista pētījumi un ko pārrunāt ar ārstu."
 section: brain-health
 order: 2
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  The 2024 Lancet Commission named 14 potentially changeable dementia risk
-  factors: less education, hearing loss, high LDL cholesterol, depression, head
-  injury, inactivity, diabetes, smoking, high blood pressure, obesity, heavy
-  drinking, social isolation, air pollution and untreated vision loss. Together
-  they are linked with about 45% of cases worldwide, with no guarantee for any
-  one person.
+  2024. gadā Lancet komisija nosauca 14 demences riska faktorus, ko potenciāli var mainīt: mazāku izglītību, dzirdes zudumu, augstu LDL holesterīnu, depresiju, galvas traumu, fizisko neaktivitāti, cukura diabētu, smēķēšanu, augstu asinsspiedienu, aptaukošanos, pārmērīgu alkohola lietošanu, sociālo izolāciju, gaisa piesārņojumu un neārstētu redzes zudumu. Kopā tie saistīti ar aptuveni 45% gadījumu visā pasaulē, taču nevienam konkrētam cilvēkam nav garantijas.
 keyPoints:
-  - "The 14 factors span a whole life: one in early life, ten in midlife and three in later life."
-  - "Hearing loss and high LDL cholesterol in midlife are each linked with about 7% of dementia cases worldwide, the largest shares of any single factor."
-  - "These percentages are population estimates that assume cause and effect. Some links may be only partly causal."
-  - "Age and genes, which no one can change, are major risk factors too. Lowering the 14 risks does not guarantee anyone avoids dementia."
-  - "Most of the steps involved, such as checking blood pressure, hearing and vision, are good for health in other ways and worth discussing with a doctor."
+  - "Četrpadsmit faktori aptver visu dzīvi: viens agrīnā dzīvē, desmit vidējā vecumā un trīs vecumdienās."
+  - "Dzirdes zudums un augsts LDL holesterīns vidējā vecumā katrs saistīts ar aptuveni 7% demences gadījumu visā pasaulē, lielākā daļa no jebkura atsevišķa faktora."
+  - "Šie procenti ir populācijas aplēses, kas pieņem cēloņsakarību. Dažas saiknes var būt tikai daļēji cēloņsakarīgas."
+  - "Vecums un gēni, ko neviens nevar mainīt, arī ir nozīmīgi riska faktori. Šo 14 risku samazināšana negarantē, ka kāds izvairīsies no demences."
+  - "Vairums soļu, piemēram, asinsspiediena, dzirdes un redzes pārbaude, ir labi veselībai arī citādi, un par tiem ir vērts pārrunāt ar ārstu."
 faq:
-  - q: "What are the 14 modifiable risk factors for dementia?"
-    a: "The 2024 Lancet Commission named less education, hearing loss, high LDL cholesterol, depression, traumatic brain injury, physical inactivity, diabetes, smoking, high blood pressure, obesity, excessive alcohol, social isolation, air pollution and untreated vision loss. Together they are linked with nearly half of dementia cases worldwide."
-  - q: "Which dementia risk factor matters most?"
-    a: "Across the world's population, the Commission estimated that hearing loss and high LDL cholesterol in midlife are each linked with about 7% of cases, followed by less education and social isolation at about 5% each. Which factors matter most for one person depends on their own health, so a doctor is the best guide."
-  - q: "Are the two new risk factors added in 2024?"
-    a: "Yes. The 2024 report added high LDL (bad) cholesterol in midlife and untreated vision loss in later life to the 12 factors named in 2020. The Commission linked them with about 7% and 2% of cases respectively."
-  - q: "Is age a modifiable risk factor?"
-    a: "No. Age is the biggest known risk factor for Alzheimer's disease, and it cannot be changed. Genes also play a part. The 14 factors on this page are the ones research suggests can potentially be changed."
+  - q: "Kādi ir 14 maināmie demences riska faktori?"
+    a: "2024. gada Lancet komisija nosauca mazāku izglītību, dzirdes zudumu, augstu LDL holesterīnu, depresiju, traumatisku smadzeņu traumu, fizisko neaktivitāti, cukura diabētu, smēķēšanu, augstu asinsspiedienu, aptaukošanos, pārmērīgu alkohola lietošanu, sociālo izolāciju, gaisa piesārņojumu un neārstētu redzes zudumu. Kopā tie saistīti ar gandrīz pusi demences gadījumu visā pasaulē."
+  - q: "Kurš demences riska faktors ir visnozīmīgākais?"
+    a: "Visā pasaules populācijā komisija aplēsa, ka dzirdes zudums un augsts LDL holesterīns vidējā vecumā katrs saistīts ar aptuveni 7% gadījumu, bet tam seko mazāka izglītība un sociālā izolācija, katrs aptuveni 5%. Kuri faktori ir nozīmīgākie vienam cilvēkam, atkarīgs no viņa paša veselības, tāpēc labākais vadītājs ir ārsts."
+  - q: "Vai divi jaunie riska faktori tika pievienoti 2024. gadā?"
+    a: "Jā. 2024. gada ziņojums pievienoja augstu LDL (slikto) holesterīnu vidējā vecumā un neārstētu redzes zudumu vecumdienās pie 12 faktoriem, kas nosaukti 2020. gadā. Komisija tos saistīja attiecīgi ar aptuveni 7% un 2% gadījumu."
+  - q: "Vai vecums ir mainīgs demences riska faktors?"
+    a: "Nē. Vecums ir lielākais zināmais riska faktors Alcheimera slimībai, un to nevar mainīt. Arī gēniem ir loma. Šajā lapā minētie 14 faktori ir tie, ko pētījumi uzskata par potenciāli maināmiem."
 sources:
   - title: "Dementia prevention, intervention, and care: 2024 report of the Lancet standing Commission"
     publisher: "The Lancet"
@@ -49,121 +44,77 @@ related: [brain-health/can-dementia-be-prevented, brain-health/hearing, brain-he
 health: true
 ---
 
-A risk factor is something linked with a higher chance of developing a
-condition. It is not a cause in every case, and having one does not mean you
-will develop dementia. This page lists the 14 dementia risk factors that the
-2024 Lancet Commission says can potentially be changed, what research links them
-with, and what you might talk over with a doctor.
+Riska faktors ir kaut kas, kas saistīts ar lielāku iespēju saslimt ar kādu stāvokli. Tas ne vienmēr ir cēlonis, un riska faktora esamība nenozīmē, ka cilvēks saslims ar demenci. Šajā lapā uzskaitīti 14 demences riska faktori, ko 2024. gada Lancet komisija uzskata par potenciāli maināmiem, kā arī ko pētījumi saista ar tiem un ko jūs varat pārrunāt ar ārstu.
 
-For the bigger picture, including what large trials found, start with
-[Can dementia be prevented? What the research says](/brain-health/can-dementia-be-prevented/).
-This is general information, not medical advice; see our
-[medical disclaimer](/medical-disclaimer/).
+Plašāku ainu, tostarp to, ko atklāja lielie izmēģinājumi, sāciet ar [Vai demenci var novērst? Ko saka pētījumi](/brain-health/can-dementia-be-prevented/). Šī ir vispārīga informācija, nevis medicīnisks padoms; skatiet mūsu [medicīniskās atrunas](/medical-disclaimer/).
 
-## What are the 14 risk factors for dementia?
+## Kādi ir 14 demences riska faktori?
 
-The [2024 Lancet Commission](https://doi.org/10.1016/S0140-6736(24)01296-0),
-written by 27 dementia researchers, estimated that 14 potentially changeable
-risk factors together account for about 45% of dementia cases worldwide. The
-percentage for each factor below is the Commission's estimate of the share of
-cases worldwide linked with it, rounded to whole numbers. The figures overlap,
-because many people have several risks at once, which is why they add up to 45%
-rather than more.
+[2024. gada Lancet komisija](https://doi.org/10.1016/S0140-6736(24)01296-0), ko sastādīja 27 demences pētnieki, aplēsa, ka 14 potenciāli mainīgi riska faktori kopā veido aptuveni 45% demences gadījumu visā pasaulē. Katram zemāk minētajam faktoram norādītais procents ir komisijas aplēse par gadījumu daļu visā pasaulē, kas ar to saistīta, noapaļota līdz veseliem skaitļiem. Skaitļi pārklājas, jo daudziem cilvēkiem ir vairāki riski vienlaikus, tāpēc kopā tie veido 45%, nevis vairāk.
 
-| Risk factor | Life stage | Share of cases | What research links | What you can do |
+| Riska faktors | Dzīves posms | Gadījumu daļa | Ko saista pētījumi | Ko varat darīt |
 | --- | --- | --- | --- | --- |
-| Less education | Early life | 5% | Fewer years of schooling is linked with higher risk. Being mentally active in midlife also appears protective, even for people with little schooling. | Keep learning and doing mentally engaging things at any age: reading, hobbies, classes, games with others. |
-| Hearing loss | Midlife | 7% | Untreated hearing loss is linked with higher risk. Studies that follow people over time link hearing aid use with lower risk. | Get your hearing tested. Ask whether hearing aids would help, and wear them if prescribed. Protect ears from loud noise. |
-| High LDL cholesterol | Midlife (from about 40) | 7% | High LDL ("bad") cholesterol in midlife is linked with higher risk. Observational studies link statin use with lower risk, but trials in later life have not shown this. | Ask your doctor whether your cholesterol should be checked and what, if anything, to do about it. |
-| Depression | Midlife | 3% | Depression is linked with higher risk. In later life, depression can also be an early sign of dementia. | Tell a doctor about low mood or loss of interest lasting more than two weeks. Depression is treatable. |
-| Traumatic brain injury | Midlife | 3% | Head injury at any age and from any source, including contact sports, is linked with higher risk. | Wear a helmet for cycling and contact sports. Ask about fall prevention. Rest and get checked after a head injury. |
-| Physical inactivity | Midlife | 2% | People who exercise and play sport are less likely to develop dementia. Trial evidence is still limited. | Ask what activity is safe for you, and find something you enjoy. See our [exercise guide](/brain-health/exercise/). |
-| Diabetes | Midlife | 2% | Diabetes, especially when it starts in midlife or lasts longer, is linked with higher risk. | Get blood sugar checked. If you have diabetes, work with your care team on managing it safely. |
-| Smoking | Midlife | 2% | Smoking is linked with higher risk. Studies find ex-smokers do not carry the same raised risk as people who keep smoking. | Ask about support to stop. It is worth stopping at any age. |
-| High blood pressure | Midlife | 2% | High blood pressure in midlife is linked with higher risk. Trials of blood pressure medicines suggest a modest lower risk of dementia or cognitive impairment. | Know your numbers. The Commission suggests a top number of 130 or lower from about age 40; ask what goal suits you. |
-| Obesity | Midlife | 1% | Obesity in midlife is linked with higher risk, and it also raises the risk of diabetes. | Ask your doctor about a healthy weight for you. Older adults should not diet to lose weight without medical advice. |
-| Excessive alcohol | Midlife | 1% | Heavy drinking is linked with higher risk. Cutting down from heavy drinking is linked with lower risk. | Ask what a safe limit is for you, especially with your medicines. |
-| Social isolation | Later life | 5% | Infrequent social contact is linked with higher risk. | Keep in touch with people in ways you enjoy. See our [social connection guide](/brain-health/social-connection/). |
-| Air pollution | Later life | 3% | Living with more air pollution is linked with higher risk. Studies link cleaner air with lower risk. | Mostly a matter for public policy. Check local air quality alerts and limit time outdoors on very polluted days. |
-| Untreated vision loss | Later life | 2% | Uncorrected vision problems are linked with higher risk. One large US study linked cataract surgery with lower risk. | Have regular eye exams. Ask whether problems such as cataracts can be treated. |
+| Mazāka izglītība | Agrīnā dzīvē | 5% | Mazāks mācību gadu skaits saistīts ar lielāku risku. Garīgi aktīvs darbs vidējā vecumā šķiet arī aizsargājošs, pat cilvēkiem ar nelielu izglītību. | Mācieties un darbojieties garīgi jebkurā vecumā: lasiet, nodarbojieties ar hobijiem, apmeklējiet kursus, spēlējiet spēles kopā ar citiem. |
+| Dzirdes zudums | Vidējā vecumā | 7% | Neārstēts dzirdes zudums saistīts ar lielāku risku. Pētījumi, kas seko cilvēkiem laika gaitā, saista dzirdes aparātu lietošanu ar zemāku risku. | Pārbaudiet dzirdi. Pajautājiet, vai dzirdes aparāti palīdzētu, un valkājiet tos, ja tie ir nozīmēti. Aizsargājiet ausis no skaļa trokšņa. |
+| Augsts LDL holesterīns | Vidējā vecumā (no aptuveni 40 gadiem) | 7% | Augsts LDL ("sliktais") holesterīns vidējā vecumā saistīts ar lielāku risku. Novērojumu pētījumi saista statīnu lietošanu ar zemāku risku, taču izmēģinājumi vecumdienās to nav apstiprinājuši. | Pajautājiet ārstam, vai jūsu holesterīnu vajadzētu pārbaudīt un ko, ja vispār kaut ko, darīt. |
+| Depresija | Vidējā vecumā | 3% | Depresija saistīta ar lielāku risku. Vecumdienās depresija var būt arī agrīna demences pazīme. | Pastāstiet ārstam par zemu garastāvokli vai interešu zudumu, kas ilgst ilgāk nekā divas nedēļas. Depresiju var ārstēt. |
+| Traumatiska smadzeņu trauma | Vidējā vecumā | 3% | Galvas trauma jebkurā vecumā un no jebkura avota, arī kontaktsportā, saistīta ar lielāku risku. | Lietojiet ķiveri, braucot ar velosipēdu un nodarbojoties ar kontaktsportu. Pajautājiet par kritienu novēršanu. Pēc galvas traumas atpūtieties un ļaujiet to pārbaudīt. |
+| Fiziska neaktivitāte | Vidējā vecumā | 2% | Cilvēki, kas vingro un nodarbojas ar sportu, retāk saslimst ar demenci. Izmēģinājumu pierādījumi joprojām ir ierobežoti. | Pajautājiet, kāda aktivitāte jums ir droša, un atrodiet kaut ko, kas jums patīk. Skatiet mūsu [vingrošanas ceļvedi](/brain-health/exercise/). |
+| Cukura diabēts | Vidējā vecumā | 2% | Diabēts, īpaši, ja tas sākas vidējā vecumā vai ilgst ilgāk, saistīts ar lielāku risku. | Pārbaudiet cukura līmeni asinīs. Ja jums ir diabēts, strādājiet kopā ar savu aprūpes komandu, lai to drošā veidā kontrolētu. |
+| Smēķēšana | Vidējā vecumā | 2% | Smēķēšana saistīta ar lielāku risku. Pētījumi atklāj, ka bijušajiem smēķētājiem nav tāda paaugstināta riska kā tiem, kas turpina smēķēt. | Pajautājiet par atbalstu smēķēšanas atmešanai. Atmest var jebkurā vecumā, un tas ir tā vērts. |
+| Augsts asinsspiediens | Vidējā vecumā | 2% | Augsts asinsspiediens vidējā vecumā saistīts ar lielāku risku. Asinsspiediena zāļu izmēģinājumi liecina par nelielu demences vai kognitīvu traucējumu riska samazinājumu. | Zināt savus rādītājus. Komisija iesaka augšējo skaitli 130 vai zemāku no aptuveni 40 gadu vecuma; pajautājiet, kurš mērķis jums der. |
+| Aptaukošanās | Vidējā vecumā | 1% | Aptaukošanās vidējā vecumā saistīta ar lielāku risku, un tā arī palielina diabēta risku. | Pajautājiet ārstam, kāds svars jums ir veselīgs. Vecāka gadagājuma cilvēkiem bez medicīniska padoma nevajadzētu ievērot diētu svara zaudēšanai. |
+| Pārmērīga alkohola lietošana | Vidējā vecumā | 1% | Stipra dzeršana saistīta ar lielāku risku. Stipras dzeršanas samazināšana saistīta ar zemāku risku. | Pajautājiet, kāds ir drošs limits jums, īpaši, ja lietojat zāles. |
+| Sociālā izolācija | Vecumdienās | 5% | Reti sociāls kontakts saistīts ar lielāku risku. | Uzturiet kontaktu ar cilvēkiem veidos, kas jums patīk. Skatiet mūsu [ceļvedi par sociālajiem kontaktiem](/brain-health/social-connection/). |
+| Gaisa piesārņojums | Vecumdienās | 3% | Dzīvošana ar lielāku gaisa piesārņojumu saistīta ar lielāku risku. Pētījumi saista tīrāku gaisu ar zemāku risku. | Galvenokārt politikas jautājums. Sekojiet vietējiem gaisa kvalitātes brīdinājumiem un ierobežojiet laiku ārpus telpām ļoti piesārņotās dienās. |
+| Neārstēts redzes zudums | Vecumdienās | 2% | Nekoriģētas redzes problēmas saistītas ar lielāku risku. Viens liels pētījums ASV saistīja kataraktas operāciju ar zemāku risku. | Regulāri pārbaudiet acis. Pajautājiet, vai tādas problēmas kā katarakta var ārstēt. |
 
-## How should I read these percentages?
+## Kā man lasīt šos procentus?
 
-Carefully. The Commission's own report makes several points worth keeping in
-mind:
+Uzmanīgi. Pašas komisijas ziņojums izvirza vairākus svarīgus punktus, ko vērts atcerēties:
 
-- **They describe populations, not people.** University College London's
-  [summary of the report](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
-  notes that reducing risk works across a population and does not guarantee
-  that any one person will avoid dementia.
-- **They assume cause and effect.** The authors included only factors with
-  convincing evidence, but say some links may be only partly causal.
-- **They are worldwide figures.** Most data come from high-income countries,
-  and the true share for any one country or community will differ.
-- **Small percentages can still matter.** A factor linked with 2% of cases
-  worldwide still affects a very large number of people.
+- **Tie apraksta populācijas, nevis cilvēkus.** Universitātes Koledžas Londonā [ziņojuma kopsavilkums](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors)
+  norāda, ka riska samazināšana darbojas visas populācijas līmenī un negarantē, ka kāds konkrēts cilvēks izvairīsies no demences.
+- **Tie pieņem cēloņsakarību.** Autori iekļāva tikai faktorus ar pārliecinošiem pierādījumiem, taču norāda, ka dažas saiknes var būt tikai daļēji cēloņsakarīgas.
+- **Tie ir skaitļi visai pasaulei.** Lielākā daļa datu nāk no augstu ienākumu valstīm, un patiesā daļa katrā valstī vai kopienā atšķirsies.
+- **Nelielas daļas joprojām var būt svarīgas.** Faktors, kas saistīts ar 2% pasaules gadījumu, joprojām ietekmē ļoti daudzus cilvēkus.
 
-## Which risk factors were added in 2024?
+## Kuri riska faktori tika pievienoti 2024. gadā?
 
-The 2024 report added two factors to the 12 named in 2020:
+2024. gada ziņojums pievienoja divus faktorus pie 12, kas nosaukti 2020. gadā:
 
-- **High LDL cholesterol in midlife**, linked with about 7% of cases.
-- **Untreated vision loss in later life**, linked with about 2% of cases.
+- **Augsts LDL holesterīns vidējā vecumā**, saistīts ar aptuveni 7% gadījumu.
+- **Neārstēts redzes zudums vecumdienās**, saistīts ar aptuveni 2% gadījumu.
 
-## What risk factors cannot be changed?
+## Kurus riska faktorus nevar mainīt?
 
-The National Institute on Aging says
-[age is the biggest known risk factor for Alzheimer's](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
-and no one can change it. Genes also play a part; one well-known gene that
-influences Alzheimer's risk is called APOE. The NIA adds that scientists do not
-yet fully understand what causes Alzheimer's in most people. The Lancet
-Commission notes that the potentially changeable risks can be lowered whatever a
-person's genetic risk.
+Nacionālais novecošanās institūts saka, ka [vecums ir lielākais zināmais riska faktors Alcheimera slimībai](https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease),
+un to neviens nevar mainīt. Gēniem ir arī loma; viens labi zināms gēns, kas ietekmē Alcheimera riska līmeni, sauc par APOE. NIA piebilst, ka zinātnieki vēl pilnībā nesaprot, kas vairumam cilvēku izraisa Alcheimera slimību. Lancet komisija norāda, ka potenciāli maināmos riskus var samazināt neatkarīgi no cilvēka ģenētiskā riska.
 
-Because age and genes play such a large part, many people who have none of the
-14 risk factors still develop dementia. That is not anyone's fault.
+Tā kā vecums un gēni spēlē tik lielu lomu, daudzi cilvēki, kam nav neviena no 14 riska faktoriem, joprojām saslimst ar demenci. Tā nav nevienas vaina.
 
-## What does the trial evidence say about changing these risks?
+## Ko saka izmēģinājumu pierādījumi par šo risku mainīšanu?
 
-Linking a risk factor with dementia is not the same as proving that changing it
-lowers dementia risk. A few examples of where the trial evidence stands:
+Saistīt riska faktoru ar demenci nav tas pats, kas pierādīt, ka tā maiņa samazina demences risku. Daži piemēri, kā šobrīd stāv izmēģinājumu pierādījumi:
 
-- **Blood pressure.** In the SPRINT MIND trial, a lower blood pressure goal
-  significantly reduced mild cognitive impairment. It did not significantly
-  reduce probable dementia, though the trial may have been too small to show
-  that ([SPRINT MIND in JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
-- **Hearing aids.** The Lancet Commission describes a three-year hearing aid
-  trial that found no overall effect on thinking, but a benefit in a subgroup of
-  people at higher risk. Studies that follow people over time link hearing aid
-  use with lower risk. Our [hearing guide](/brain-health/hearing/) has more.
-- **Physical activity.** The National Institute on Aging says there is not
-  enough clinical trial evidence to conclude that exercise can prevent or slow
-  mild cognitive impairment or Alzheimer's, though some studies suggest it may
-  help with age-related decline
-  ([NIA on preventing Alzheimer's](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
+- **Asinsspiediens.** SPRINT MIND izmēģinājumā zemāks asinsspiediena mērķis būtiski samazināja vieglu kognitīvu traucējumu. Tas nesamazināja iespējamas demences biežumu būtiski, lai gan izmēģinājums, iespējams, bija pārāk mazs, lai to parādītu ([SPRINT MIND žurnālā JAMA](https://pubmed.ncbi.nlm.nih.gov/30688979/)).
+- **Dzirdes aparāti.** Lancet komisija apraksta trīs gadus ilgu dzirdes aparātu izmēģinājumu, kas neatklāja kopēju ietekmi uz domāšanu, bet atklāja ieguvumu apakšgrupā cilvēkiem ar augstāku risku. Pētījumi, kas seko cilvēkiem laika gaitā, saista dzirdes aparātu lietošanu ar zemāku risku. Vairāk ir mūsu [ceļvedī par dzirdi](/brain-health/hearing/).
+- **Fiziskā aktivitāte.** Nacionālais novecošanās institūts saka, ka nav pietiekami daudz klīnisko izmēģinājumu pierādījumu, lai secinātu, ka vingrošana var novērst vai palēnināt vieglu kognitīvu traucējumu vai Alcheimera slimību, lai gan daži pētījumi liecina, ka tā var palīdzēt ar vecumu saistītā pasliktināšanās gadījumā
+  ([NIA par Alcheimera slimības novēršanu](https://www.nia.nih.gov/health/alzheimers-and-dementia/preventing-alzheimers-disease-what-do-we-know)).
 
-Long trials that wait for dementia to develop are slow and expensive, so for
-many factors the best evidence will continue to come from studies that follow
-people over years. That evidence is useful, but it is weaker than a trial.
+Ilgi izmēģinājumi, kas gaida, līdz attīstīsies demence, ir lēni un dārgi, tāpēc daudziem faktoriem labākie pierādījumi turpinās nākt no pētījumiem, kas seko cilvēkiem gadiem ilgi. Šie pierādījumi ir noderīgi, taču tie ir vājāki nekā izmēģinājums.
 
-## What about sleep and diet?
+## Kā ir ar miegu un uzturu?
 
-The Commission reviewed sleep and diet but did not add them to the list,
-because the evidence was not strong or consistent enough. Our guides to
-[sleep](/brain-health/sleep/) and [diet](/brain-health/diet/) explain what is
-known.
+Komisija pārskatīja miegu un uzturu, bet tos nepievienoja sarakstam, jo pierādījumi nebija pietiekami spēcīgi vai konsekventi. Mūsu ceļveži par [miegu](/brain-health/sleep/) un [uzturu](/brain-health/diet/) izskaidro, kas ir zināms.
 
-## Talk with a doctor
+## Runājiet ar ārstu
 
-A yearly checkup is a good time to raise these topics. You could bring this
-list and ask:
+Gada pārbaude ir labs laiks šīm tēmām. Varat paņemt līdzi šo sarakstu un jautāt:
 
-- What are my blood pressure, blood sugar and cholesterol numbers, and do any
-  need attention?
-- Should I have my hearing and eyes checked?
-- Is the activity I do safe and enough for me?
-- Could any of my medicines affect memory or thinking?
+- Kādi ir mani asinsspiediena, cukura līmeņa asinīs un holesterīna rādītāji un vai kādi no tiem prasa uzmanību?
+- Vai man vajadzētu pārbaudīt dzirdi un acis?
+- Vai aktivitāte, ko daru, ir droša un pietiekama man?
+- Vai kādas manas zāles var ietekmēt atmiņu vai domāšanu?
 
-Before changing medicines, diet, fasting, exercise or supplements, talk with a
-doctor first. If you or someone you care for has sudden confusion, weakness on
-one side, or trouble speaking, call 911.
+Pirms zāļu, uztura, badošanās, vingrošanas vai uztura bagātinātāju maiņas vispirms parunājiet ar ārstu. Ja jums vai cilvēkam, par kuru rūpējaties, rodas pēkšņa apjukums, vājums vienā ķermeņa pusē vai grūtības runāt, zvaniet vietējos neatliekamās palīdzības dienestos.
