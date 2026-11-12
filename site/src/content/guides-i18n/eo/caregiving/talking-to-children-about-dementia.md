@@ -21,7 +21,7 @@ faq:
   - q: "Ĉu infano povas kapti demencon de familiano?"
     a: "Ne. Demenco ne estas kontaĝa. Oni ne povas kapti ĝin pasigante tempon kun homo, kiu ĝin havas."
   - q: "Ĉu mi devus lasi infanon helpi zorgi pri homo kun demenco?"
-    a: "Infano povas elekti malgrandan, konatan agadon, kiel rigardi fotojn kune. Plenkreskuloj restas respondecaj pri sekureco, medikamentoj, kuracaj viziti kaj persona prizorgo; infano ne devus devi agi kiel zorganto."
+    a: "Infano povas elekti malgrandan, konatan agadon, kiel rigardi fotojn kune. Plenkreskuloj restas respondecaj pri sekureco, medikamentoj, kuracaj vizitoj kaj persona prizorgo; infano ne devus devi agi kiel zorganto."
   - q: "Kion fari, se infano ne volas viziti aŭ helpi?"
     a: "Aŭskultu sen honto aŭ premo. Demandu, kio sentiĝas malfacila, kaj proponu alian manieron resti en kontakto, aŭ lasu ilin fari paŭzon. La limo de infano ne signifas, ke ĝi ne zorgas."
 sources:
@@ -76,7 +76,7 @@ Estas bone paŭzi, se demando ŝajnas tro granda. Diru al la infano, kiam vi rev
 
 Ofertu kontakton libervole. Se kaj la infano kaj la homo volas, ili povus aŭskulti konatan muzikon, rigardi fotojn, desegni, legi aŭ dividi simplan hejman agadon. Nia [gvidilo pri rememorado](/activities/reminiscence/) kaj [gvidilo pri muziko](/activities/music/) havas ideojn. Sekvu la respondojn de la homo kaj de la infano; estas bone ĉesi, ŝanĝi la agadon aŭ viziti alitempe.
 
-Konservu la respondecon pri zorgo kaj sekureco ĉe plenkreskuloj. Infano povas elekti meti manĝeton aŭ alporti libron, sed ne devus esti respondeca pri gardado, medikamentoj, persona prizorgo, viziti aŭ krizoj. Ne sugestu, ke vizitado, helpado aŭ proksimeco estas la devo de la infano. La [gvidilo de Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) avertas familiojn respekti la limojn de junaj homoj kaj ilian bezonon resti infanoj.
+Konservu la respondecon pri zorgo kaj sekureco ĉe plenkreskuloj. Infano povas elekti meti manĝeton aŭ alporti libron, sed ne devus esti respondeca pri gardado, medikamentoj, persona prizorgo, vizitoj aŭ krizoj. Ne sugestu, ke vizitado, helpado aŭ proksimeco estas la devo de la infano. La [gvidilo de Dementia Australia](https://www.dementia.org.au/living-dementia/staying-connected/dementia-and-family-relationships) avertas familiojn respekti la limojn de junaj homoj kaj ilian bezonon resti infanoj.
 
 Protektu tempon, kiu estas nur por la infano. Konservu lernejon, amikecojn, ŝatokupojn kaj familiajn rutinojn kiel eble plej stabilaj. Se prizorgado ŝanĝas tiujn planojn, klarigu kial kaj serĉu alian plenkreskulon, kiu povas helpi konservi la agadon aŭ eliron de la infano. La [gvidilo pri memprizorgo de zorgantoj](/caregiving/caregiver-self-care/) klarigas manierojn peti aliajn plenkreskulojn dividi la subtenon.
 

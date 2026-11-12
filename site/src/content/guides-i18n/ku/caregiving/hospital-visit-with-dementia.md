@@ -53,7 +53,7 @@ Plan bikin ka kî dikare kesê nexweş bi xwe re bibe û malbat an alîkarên p�
 
 Hûrgulîyên ku ji karmendan re alîkar in ku bi vî kesî re bi awayekî baş bipeyivin û lênihêrînê bikin parve bikin. Bi razîbûna kesê nexweş, nivîsekî kurt binivîsin ku tê de navê wan ê tercîh kirî, ka ew çawa dipeyivin, çi alîkarî dike ku ew fam bikin û rêzeyên an tiştên rehetiyê yên girîng hebin. Dibe ku hûn jî bibêjin ka ew çawa êş an tengahiyê nîşan didin, heke ew dibe ku bi peyvan nebêjin.
 
-Nîşê kurt û nepenî bihêlin. Tenê bi wan karmendên ku hewce ne parve bikin. Ji karmendan bipirsin ka çawa dixwazin ev agahî bistînin û ku dixwazin li ku bihêlin. Agahiyên hesas li ser tabloyeke gel nenivîsin an bi mêvanên ku hewce nakin re parve nekin.
+Nîşê kurt û nepenî bihêlin. Tenê bi wan karmendên ku hewce ne parve bikin. Ji karmendan bipirsin ka çawa dixwazin ev agahî bistînin û ku dixwazin li ku bihêlin. Agahiyên hesas li ser tabloyeke giştî nenivîsin an bi mêvanên ku hewce nakin re parve nekin.
 
 Divê kesê nexweş heta gengaz be beşdarî axaftinan bibe. Ji karmendan bixwazin ku rasterast bi wan re biaxivin, peyvên sade bikar bînin û wext bidin ji bo bersivê. Heke hûn tiştekî lê zêde bikin ku kes dibe ku bi bîr neyîne, rave bikin ka we çi dîtiye bêyî ku sedemê texmîn bikin.
 
@@ -75,7 +75,7 @@ Ji bo çi dema guhertin dest pê kir û ya ku we dîtiye parve bikin. Dibe ku ke
 
 Dema karmend dibêjin ewle ne, rêzeya asayî bidomînin. Wêneyeke nas an tiştekî din ê rehetiyê bînin, heke gengaz be dengê zêde kêm bikin, û her gavê yek bi yek rave bikin. Bihêlin kesê nexweş her tiştê ku dikare û dixwaze bike. Berî ku alavan biguherînin, odeyê biguherînin an di xwarin û lênihêrîna kesane de alîkarî bikin, ji karmendan bipirsin.
 
-Dibe ku kesê nexweş hewceyê alîkariyê be ku bişkoja gazê bi kar bîne, serşokê bibîne an rêzeya nû fam bike. Ji karmendan re bibêjin ku ew bi gelemperî çi piştgiriyê hewce dikin, û bipirsin çawa di navbera serdanan de daxwaza alîkariyê bikin. Heke kes dixwaze kesek bi wan re bimîne, bipirsin ka nexwexane çi serdan an nobedê şevê destûr dike.
+Dibe ku kesê nexweş hewceyê alîkariyê be ku bişkoja bangê bi kar bîne, serşokê bibîne an rêzeya nû fam bike. Ji karmendan re bibêjin ku ew bi gelemperî çi piştgiriyê hewce dikin, û bipirsin çawa di navbera serdanan de daxwaza alîkariyê bikin. Heke kes dixwaze kesek bi wan re bimîne, bipirsin ka nexwexane çi serdan an nobedê şevê destûr dike.
 
 Maweyên nexwexaneyê dibe ku lênihêrvanan jî westîne bikin. Heke kesê nexweş razî be, kesekî din ê pêbawer bixwazin ku bi nobetê were. Ji têkiliya nexwexaneyê an karmendê karûbarên civakî re bipirsin ka alîkariya kesê nexweş û malbatê çawa dibe dema ku maweyê didome.
 
