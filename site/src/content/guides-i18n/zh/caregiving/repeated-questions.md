@@ -1,7 +1,7 @@
 ---
 title: "当失智症家人一再重复同一个问题"
 seoTitle: "失智症反复发问：该怎么说、怎么做"
-description: "失智症患者为何会一再问同一个问题，平和的回应方式，有帮助的简单工具，以及出现突然变化时何时需要请医生检查。"
+description: "有失智症的人为何会一再问同一个问题，平和的回应方式，有帮助的简单工具，以及出现突然变化时何时需要请医生检查。"
 section: caregiving
 order: 9
 updated: 2026-10-31
@@ -55,9 +55,9 @@ health: false
 
 “复诊是什么时候？”十分钟后：“复诊是什么时候？”一遍遍听到同一个问题，是照护失智症家人时最累人的部分之一。这很常见，并非出于故意，而且有一些平和的回应方式，可以让你们双方的日子都轻松一些。
 
-## 为什么失智症患者会一遍遍地问同一个问题？
+## 为什么有失智症的人会一遍遍地问同一个问题？
 
-主要是因为记忆。失智症会影响短期记忆，所以对方常常不记得自己问过，或者不记得答案。[美国失智症协会（Alzheimer's Foundation of America）](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/)把多次提问描述为常见且可以预料的现象。
+主要是因为记忆。失智症会影响短期记忆，所以对方常常不记得自己问过，或者不记得答案。[美国阿尔茨海默病基金会（Alzheimer's Foundation of America）](https://alzfdn.org/alzheimers-today-volume-17-number-3/navigating-difficult-behaviors/)把多次提问描述为常见且可以预料的现象。
 
 问题背后往往也藏着一种感受。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/stages-behaviors/repetition)指出，重复的问题可能表达了担忧、求助的需要，或焦虑与不安全感，而对方往往是在寻求安慰和熟悉感。“我们什么时候出发？”可能真正的意思是“我有点紧张，不知道要去哪里”。无聊、恐惧、噪音和作息的改变都可能引发这种提问；而重复的问题也可能表示有某种需要，例如想去洗手间（[家庭照护者联盟（Family Caregiver Alliance）](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)）。
 

@@ -1,34 +1,29 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "有失智症的人拒绝或对活动感到沮丧时该怎么办"
+seoTitle: "有失智症的人拒绝活动时怎么办"
+description: "与失智症共同生活的人为什么会拒绝或对活动感到不满，可以尝试什么，应避免什么，以及何时突然的变化需要请医生检查。"
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  当有失智症的人说“不”时，请平静地接受，过一会儿再试，或者换一种活动。拒绝通常有原因：任务太难或显得幼稚，对方累了，身体不舒服，饿了，或者被噪音弄得不知所措。不要争辩或强迫。可以简化活动，给出两个选择，或请对方帮忙。突然或快速变化的行为，尤其是在感染或服用新药之后，需要尽快请医生检查。
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "“不”是一个应该尊重的回答，而不是需要克服的问题。"
+  - "拒绝通常有原因：太难、显得幼稚、累了、不舒服、感到不适，或者被弄得不知所措。"
+  - "先退一步、等一等，过一会儿再试，换一个时间，或者换成更简单的版本。"
+  - "请对方帮忙，比请对方表演更有效。"
+  - "不要争辩、强迫、考问或纠正。留意自己是否在催促或逼近对方。"
+  - "突然或快速变化的行为，尤其是伴随感染或新药时，应立即请医生检查。"
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "让对方完全跳过活动，可以吗？"
+    a: "在任何一天都可以。只是坐在一起、听音乐，或者看着外面的世界，就已经足够。如果对方在几周内对所有事情都失去兴趣，请告诉他的医生，因为情绪低落、疼痛或其他健康问题可能是原因之一。"
+  - q: "为什么对方会拒绝以前很喜欢的事情？"
+    a: "一项旧爱好，如果现在需要的技能因失智症而变得更困难，就会令人沮丧，对方也可能感到难堪。可以尝试同一活动中更简单的部分，例如分拣纽扣而不是缝纫，或者看花园的照片而不是亲自种植。"
+  - q: "我应该试着说服对方吗？"
+    a: "不应该。强迫某人去做失智症让他难以完成的事情，是已知会引发激动的诱因。接受对方的拒绝，转换话题，之后或以不同的方式再提议。"
+  - q: "什么时候行为的变化属于紧急情况？"
+    a: "如果有人身处险境，或出现紧急医疗状况的迹象，请致电当地紧急号码。如果出现突然的混乱，或行为在几个小时或几天内迅速变化，尤其伴有发烧、感染或新药，请立即联系对方的医生。"
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +45,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+你已经把一切都准备好了，提议玩一个游戏或散一次步，得到的却是一句“不”。或者活动一开始很顺利，最后却是平板被推开，还伴随着一句严厉的话。这令人沮丧，也非常常见。拒绝和沮丧通常是一种信号，而不是固执。弄清楚这个信号的含义，往往能告诉你接下来该怎么做。
 
-## Why does someone with dementia refuse activities?
+## 为什么有失智症的人会拒绝活动？
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+通常是有原因的，即使对方无法说清楚。[阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/activities)指出，抗拒可能意味着对方无法完成这项任务，或者害怕尝试。常见的原因包括：
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **太难了。** 这项活动现在需要失智症已经让他很难做到的技能，而在别人面前失败会令人难堪。
+- **显得幼稚。** 成年人会注意到卡通图案、哄小孩般的语调，以及看起来像是为孩子设计的活动。
+- **疲倦。** 许多人在一天的后半段精力较差。请参阅[傍晚平静活动](/caregiving/late-day-restlessness/)。
+- **身体不适。** [美国国家老龄研究所（NIA）](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and)列出了疼痛、睡眠不足、视力或听力问题、便秘、饥饿、口渴以及新药的副作用，都可能是引起苦恼的原因。
+- **太多事情同时发生。** 嘈杂的电视、几段同时进行的谈话，或拥挤的房间，都可能令人不知所措。
+- **感到被逼迫。** 美国国家老龄研究所指出，被要求去做阿尔茨海默病让他非常难做到的事情，或被要求去回忆事件或人物，是引起不安的原因之一。
+- **情绪低落。** 对事物失去兴趣可能是抑郁的迹象，值得与医生谈谈。
+- **只是不想做。** 成年人有权说不。
 
-## What should I try when they say no?
+## 对方说不时，我可以试试什么？
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+平静地接受这个“不”，然后改变一些东西：时间、活动、难度，或者你提出要求的方式。
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **暂时放下。** “没关系，也许以后再说。”然后不叹气，转去做别的事情。
+2. **过一会儿再试。** 阿尔茨海默病协会建议过一会儿再试，或者换一个时间段。
+3. **把它变小。** 只玩一局，而不是整个游戏。只叠一条毛巾，而不是整篮衣服。减少图片，减少选择，让图片保持可见。
+4. **提供两个选项。** “你想看鸟的照片，还是听一些音乐？”选择能让人重新获得一种掌控感。
+5. **请对方帮忙，而不是请对方表现。** “你可以帮我分一分这些吗？”或“你觉得哪种颜色最好看？”被需要的感觉，与被测试完全不同。
+6. **自己先开始。** 在身边开始这项活动，不必询问对方。许多人一旦看到事情已经开始，就会加入；即使他们不加入，你们也至少一起度过了时间。
+7. **换成比较有动感或让人安心的事情。** 短暂的散步、音乐、点心、叠衣服，或者一起进行[平静呼吸](/games/calm-breathing/)的停顿。美国国家老龄研究所建议把注意力转移到音乐、书本或散步上。
+8. **随对方的方式来做。** 如果对方想以与规则不同的方式玩，就顺着他。阿尔茨海默病协会建议保持灵活。
 
-## What should I say when they get frustrated?
+## 对方变得沮丧时，我该说什么？
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+放慢节奏，压低声音，给予安慰。[阿尔茨海默病协会关于激动情绪的指南](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation)建议退后一步，先征得对方同意，使用平静、积极的话语，并提供两个选项供对方选择。符合这种精神的说法包括：
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- “很抱歉，这个让人烦恼。我们别玩了。”
+- “你做得很好。我就在这里。”
+- “你有时间帮我做点别的事吗？”
+- “我们不如喝杯茶吧？”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+然后结束活动，不要把它变成一件大事。我们的[沟通技巧](/caregiving/communication-tips/)中有更多关于该怎么说的内容。
 
-## What should I avoid?
+## 我应该避免什么？
 
-Some natural reactions tend to make things worse.
+有些自然的反应往往会使情况变得更糟。
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **争辩或强迫。**“再来一次吧”或“你明明很喜欢这个”很少有帮助。
+- **考问或纠正。**“你知道这是什么吗？”或“不对，那个是错的”会增加压力。
+- **把它当成针对自己。** 美国国家老龄研究所提醒照护者，这些变化是由疾病造成的，而不是由对方本人造成的。
+- **逼近或催促。** 阿尔茨海默病协会建议不要提高音量、表现出惊慌、把对方逼到角落、围堵、束缚、批评、忽视或与对方争论，也要避免在对方看不见的地方突然移动。
+- **用内疚感施压。**“我为你准备了这一切”会让你们两人都更难受。
+- **贴标签。**“固执”或“难搞”掩盖了真正的原因，也让问题更难解决。
 
-## How can I find out what is behind repeated refusals?
+## 如何找出反复拒绝背后的原因？
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+坚持记一份简单的笔记，一两周即可。美国国家老龄研究所表示，记录行为的变化，可以帮助照护者和医护人员发现规律，并找出原因。
 
-Jot down:
+记下：
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- 一天中的时间；
+- 你提议了什么，以及你是怎么问的；
+- 你身边发生了什么（噪音、访客、电视）；
+- 对方的睡眠、饮食、饮水情况，以及上次去洗手间是什么时候；
+- 任何新药或近期的疾病。
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+规律通常很快就会显现：例如只在下午4点后拒绝，只拒绝某一个游戏，或者只在电视开着的时候拒绝。家庭照护者联盟的[失智症行为指南](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/)简单地说明了这一点：我们无法改变对方，但可以改变自己的行为和环境。
 
-## When should I talk to a doctor about refusal or frustration?
+## 什么时候应该就拒绝或沮丧的问题咨询医生？
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+当行为突然、快速地改变，或伴随疾病的迹象时，请咨询医生。美国国家老龄研究所表示，行为突然或快速波动的变化，尤其是在对方曾经感染或近期服药有变动的情况下，应立即告知医生。
 
-Contact their doctor promptly if you notice:
+如果你注意到以下情况，请尽快联系对方的医生：
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- 几小时或几天内突然出现混乱或明显的变化；
+- 疼痛的迹象，例如皱眉、保护身体的某个部位，或者出现新的行动困难；
+- 发烧或其他感染迹象；
+- 新用的药或更改过的药，之后出现行为变化；
+- 几乎对所有事情都失去兴趣，哭泣或退缩超过几周；
+- 拒绝进食或饮水。
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+阿尔茨海默病协会建议，对于出现行为症状的人，尤其是症状突然出现时，应进行全面的医疗检查。家庭照护者联盟也建议先咨询医生，因为行为问题可能有医疗方面的原因。未经医生或药剂师的建议，请不要开始、停止或更改任何药物。
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+如果有人身处险境，或出现紧急医疗状况的迹象，请致电当地紧急号码。美国国家老龄研究所建议告诉接线员，对方患有失智症。如果出现身体上的攻击行为，需要立即采取的安全措施，请参阅我们的[失智症愤怒与攻击行为指南](/caregiving/when-anger-becomes-aggression-with-dementia/)。
 
-## Is it okay if we do nothing at all?
+## 什么都不做，可以吗？
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+可以。有些日子，最好的活动就是不做任何活动：坐在一起，握着手，听一张喜欢的唱片，或者看窗外的鸟。这并不是失败。我们的[一起玩游戏指南](/caregiving/how-to-play-together/)解释了为什么提前停止，或者干脆不开始，有时反而是正确的选择。
