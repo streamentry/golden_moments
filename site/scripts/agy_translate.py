@@ -474,6 +474,17 @@ def number_tokens(text: str) -> list[str]:
     return sorted(values)
 
 
+def added_number_values(source: str, translated: str) -> list[str]:
+    remaining = number_tokens(source)
+    added = []
+    for value in number_tokens(translated):
+        if value in remaining:
+            remaining.remove(value)
+        else:
+            added.append(value)
+    return added
+
+
 def guide_problems(src: str, out: str) -> str:
     import yaml
     try:
@@ -497,13 +508,8 @@ def guide_problems(src: str, out: str) -> str:
     h = re.compile(r'^(#{2,6})\s', re.M)
     if h.findall(ba) != h.findall(bb):
         errs.append('heading levels differ')
-    remaining_numbers = number_tokens(ba)
-    for value in number_tokens(bb):
-        if value in remaining_numbers:
-            remaining_numbers.remove(value)
-        else:
-            errs.append('numbers added that are absent from the English source')
-            break
+    if added_number_values(ba, bb):
+        errs.append('numbers added that are absent from the English source')
     return '; '.join(errs)
 
 

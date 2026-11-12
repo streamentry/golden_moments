@@ -50,36 +50,13 @@ class AgyTranslateTests(unittest.TestCase):
                 agy_translate.ALL_BACKENDS,
             ) = original
 
-    def test_guide_validation_rejects_emergency_numbers_absent_from_source(self) -> None:
-        source = '''---
-section: caregiving
-order: 1
-updated: 2026-11-12
-sources: []
-relatedGames: []
-related: []
-health: true
-keyPoints: []
-faq: []
----
-Contact local urgent medical services on 2021.
-'''
-        translated = '''---
-section: caregiving
-order: 1
-updated: 2026-11-12
-translatedFrom: 2026-11-12
-sources: []
-relatedGames: []
-related: []
-health: true
-keyPoints: []
-faq: []
----
-Contact local urgent medical services on 2021 at 112.
-'''
-        problems = agy_translate.guide_problems(source, translated)
-        self.assertIn('numbers added that are absent from the English source', problems)
+    def test_number_validation_rejects_added_values_even_if_source_has_a_year(self) -> None:
+        source = 'The guide was published in 2021; contact local urgent services.'
+        translated = 'The guide was published in 2021; call local urgent services at 112.'
+        self.assertEqual(
+            agy_translate.added_number_values(source, translated),
+            ['112'],
+        )
 
     def test_quota_retry_discards_partial_opencode_translation(self) -> None:
         process = FakeProcess(
