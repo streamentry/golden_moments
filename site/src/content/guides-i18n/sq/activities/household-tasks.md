@@ -1,7 +1,7 @@
 ---
 title: "Punët e shtëpisë si aktivitete për personat me demencë"
 seoTitle: "Aktivitete shtëpie për demencën: punë të përditshme"
-description: "Palosja, ndarja, vendosja e tryezës dhe gatimi i thjeshtë mund të jenë aktivitete kuptimplote për personat me demencë. Si t'i përgatitni, përshtatni dhe mbani të sigurta."
+description: "Palosja, ndarja, vendosja e tryezës dhe gatimi i thjeshtë mund të jenë aktivitete kuptimplote për personat me demencë. Si t'i përgatitni dhe t'i mbani të sigurta."
 section: activities
 order: 8
 updated: 2026-10-25
