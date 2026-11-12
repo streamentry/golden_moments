@@ -21,7 +21,7 @@ faq:
   - q: "Nifanye nini wakati wa tukio la uchokozi?"
     a: "Simamisha kile kinachoendelea, rudi nyuma na uzungumze kwa utulivu. Mpe mtu nafasi na waondoe wengine ikihitajika. Ikiwa mtu yuko hatarini papo hapo au amejeruhiwa, tumia huduma za dharura za eneo lenu."
   - q: "Je, nimalize kazi iliyomkasirisha?"
-    a: "Hapana. Ikiwa ni salama kusimama, simamisha kishaujaribu tena baadaye au chagua njia nyingine. Usisisitize, usibishane, usisogee karibu wala kumzuia mtu."
+    a: "Hapana. Ikiwa ni salama kusimama, simamisha kisha ujaribu tena baadaye au chagua njia nyingine. Usisisitize, usibishane, usisogee karibu wala kumzuia mtu."
   - q: "Maumivu au ugonjwa vinaweza kuchangia uchokozi?"
     a: "Vinaweza kuwa miongoni mwa sababu kadhaa zinazowezekana, pamoja na uchovu, kazi ngumu, kelele au matatizo ya mawasiliano. Mtaalamu wa afya anaweza kuchunguza tabia mpya au inayobadilika; usijaribu kubaini sababu wewe mwenyewe."
   - q: "Ni lini nimwone daktari?"
@@ -59,7 +59,7 @@ Simamisha kazi, rudi nyuma na utumie sentensi fupi yenye utulivu. [Alzheimer's A
 
 ## Ni nini kinachoweza kuchangia tabia hii?
 
-Kunaweza kuwa na sababu zaidi ya moja, na mwanafamilia hawezi kubaini chanzo. [Alzheimer's Association inaorodhesha usumbufu wa mwili, msongo wa mazingira na matatizo ya mawasiliano](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) miongoni mwa mambo yanayoweza kuchangia.
+Kunaweza kuwa na sababu zaidi ya moja, na mwanafamilia hawezi kubaini chanzo. Alzheimer's Association inaorodhesha usumbufu wa mwili, msongo wa mazingira na matatizo ya mawasiliano miongoni mwa mambo yanayoweza kuchangia.
 
 Fikiria yaliyotokea muda mfupi kabla ya mabadiliko:
 

@@ -50,7 +50,7 @@ Ka bilow inaad weydiiso qofka shaqooyinka uu jeclaado oo uu rabo inuu sii wado. 
 - **Hal xusuusin oo arki karo.** Qoraal gaaban oo ku dhow agabka xayawaanka ama xusuusin kalandar ah ayaa laga yaabaa inay ku filnaato. Ka fogow in guriga xusuusin badan laga buuxiyo oo qofka dareemaya inuu la eegayo ama la saxayo.
 - **Ka dhig waqti hawsha.** Socodka ama habka quudinta ayaa laga yaabaa inay ka qaadato waqti dheeraad ah sidii hore. Ha degdegin qofka haddii uu ku raaxaysanayo waqtiga wada jirka ah.
 
-Haddii dhowr qof wadaagaan daryeelka xayawaanka, isticmaal liis gaaban oo muujinaya kuma ah hawl kasta maalinta. Ku hay agabka agtooda ama isticmaal xusuusin uu qofku hore u jeclaa. Ha abuurin digniino ama qoraalo dheeraad ah marka hal calaamad oo cad ku filan tahay.
+Haddii dhowr qof wadaagaan daryeelka xayawaanka, isticmaal liis gaaban oo muujinaya cidda leh hawl kasta maalinta. Ku hay agabka agtooda ama isticmaal xusuusin uu qofku hore u jeclaa. Ha abuurin digniino ama qoraalo dheeraad ah marka hal calaamad oo cad ku filan tahay.
 
 [Hagaha habka maalinlaha ah](/activities/daily-routine/) wuxuu leeyahay fikrado dheeraad ah oo ku saabsan ku xidhidhka hawl qofku yaqaan qayb ka mid ah maalinta.
 

@@ -1,7 +1,7 @@
 ---
 title: "Mtu Mwenye Dementia Asipokutambua"
 seoTitle: "Dementia: Nini cha Kusema Asipokutambua"
-description: "Ikiwa mtu mwenye dementia hakutambui, jitambulishe kwa utulivu, epuka vipimo vya kumbukumbu, toa alama za kufahamika ikiwa anakubali na tafuta msaada wa mabadiliko ya ghafla."
+description: "Mtu mwenye dementia asipokutambua: jitambulishe kwa utulivu, epuka maswali ya kumbukumbu, toa alama inayojulikana ikiwa anakubali na tafuta msaada wa haraka kwa mabadiliko ya ghafla."
 section: caregiving
 order: 32
 updated: 2026-11-11
