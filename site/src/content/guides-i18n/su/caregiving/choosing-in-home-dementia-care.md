@@ -66,7 +66,7 @@ Tanya rujukan jeung kumaha agénsi nyaring pagawéna. Pastikeun naha pamariksaan
 
 Lamun jalma éta satuju, atur patepungan di imah saméméh kadatangan kahiji. Perhatikeun naha panyadia nyarita langsung ka jalma éta, ngadéngékeun kahayangna jeung méré waktu pikeun ngabales. Tanya ka jalma éta kumaha rasana patepungan éta, ku cara nu manéhna bisa ngawaler kalayan nyaman.
 
-[Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/in-home-care) nyarankeun aya batur nu dipercaya hadir dina wawancara supaya anjeun bisa ngobrolkeun kesan sanggeusna. Pake patepungan pikeun ngobrolkeun kadatangan biasa: datang, salam, tugas nu direncanakeun jeung kumaha jalma éta bisa nyuhunkeun eureun atawa istirahat.
+Alzheimer's Association nyarankeun aya batur nu dipercaya hadir dina wawancara supaya anjeun bisa ngobrolkeun kesan sanggeusna. Pake patepungan pikeun ngobrolkeun kadatangan biasa: datang, salam, tugas nu direncanakeun jeung kumaha jalma éta bisa nyuhunkeun eureun atawa istirahat.
 
 Lamun bisa, sapuk kadatangan pondok kahiji jeung ngabahas jeung jalma éta. Panyadia bisa katingali pantes dina kertas, tapi tetep teu cocok sacara pribadi. Hormatan responna jeung ngabahas alternatif lamun salah sahiji ngarasa hariwang.
 
