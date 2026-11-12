@@ -1,7 +1,7 @@
 ---
 title: "Kumsaidia Mtu Mwenye Dementia Anayeishi Peke Yake"
 seoTitle: "Kuishi Peke Yako na Dementia: Msaada kwa Familia"
-description: "Msaidie mtu mwenye dementia anayeishi peke yake kwa taratibu thabiti, ratiba ya kuwasiliana iliyokubaliwa na msaada wa vitendo, huku matakwa na kujitegemea kwake vikibaki kitovu."
+description: "Msaidie mtu mwenye dementia anayeishi peke yake kwa taratibu thabiti, ratiba ya kuwasiliana na msaada wa vitendo, huku matakwa yake yakiheshimiwa."
 section: caregiving
 order: 12
 updated: 2026-11-11
