@@ -1,7 +1,7 @@
 ---
 title: "Lokacin da Wanda ke da Ciwon Mantuwa Ya Yi Fushi ko Tashin Hankali"
 seoTitle: "Yadda Ake Mayar da Martani ga Tashin Hankali a Ciwon Mantuwa"
-description: "Koyi yadda ake amsawa cikin aminci lokacin da fushi ya zama tashin hankali a ciwon mantuwa, abin da zai iya haifar da shi, da lokacin neman taimakon likita ko gaggawa."
+description: "Koyi yadda ake amsa wa tashin hankali cikin aminci a ciwon mantuwa, abin da zai iya haifar da shi, da lokacin neman taimakon likita ko na gaggawa."
 section: caregiving
 order: 37
 updated: 2026-11-11

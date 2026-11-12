@@ -1,7 +1,7 @@
 ---
 title: "Magana da Yara game da Ciwon Mantuwa"
 seoTitle: "Yadda Ake Magana da Yara game da Ciwon Mantuwa"
-description: "Bayyana wa yaro ciwon mantuwa cikin gaskiya, da amsoshin da suka dace da shekarunsa. Kare al'adunsa da sirrinsa, karɓi tambayoyinsa, kuma ka bar nauyin kulawa ga manya."
+description: "Bayyana wa yaro ciwon mantuwa cikin gaskiya da amsoshin da suka dace da shekarunsa. Kare al'adunsa da sirrinsa, karɓi tambayoyinsa, kuma ka bar kulawa ga manya."
 section: caregiving
 order: 29
 updated: 2026-11-11
