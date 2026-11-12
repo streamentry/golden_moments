@@ -21,7 +21,7 @@ faq:
   - q: "Hokker tekens kinne betsjutte dat immen útdroege is?"
     a: "In droege mûn, dizichheid, ungewoane wurgens of in feroaring yn it plassen kinne tekens wêze, mar se kinne oare oarsaken hawwe. Nim kontakt op mei in sûnensprofessional as jo soargen hawwe, en sykje daliks help by ynienen betizing."
   - q: "Wat as immen hoest of ferslikt by it drinken?"
-    a: "Stopje en nim kontakt op mei in sûnensprofessional foar advys. Dik de drinken net en feroarje de tekstuer net, útsein as in kwalifisearre profesjonal dat foar dy persoan oanrikkemandearre hat."
+    a: "Stopje en nim kontakt op mei in sûnensprofessional foar advys. Dik de drinken net en feroarje de tekstuer net, útsein as in kwalifisearre profesjonal dat foar dy persoan oanbefelle hat."
 sources:
   - title: "Food & Eating"
     publisher: "Alzheimer's Association"
@@ -55,7 +55,7 @@ Bied drinken oan as ûnderdiel fan routines dy’t de persoan al kent, lykas in 
 
 As de persoan sels in drank skinke of drage kin, lit har dat dwaan. As se help wolle, freegje dan foardat jo skinke of de beker yn har hân sette. In nije beker, stroatsje of plak kin frjemd fiele, dus feroarje ien ding tagelyk en hâld wat foar de persoan wurket.
 
-Foar in útstapke, nim in drank meiinoch dy’t de persoan leuk fynt en bied dy oan tidens in rêst of miel. As ferskate minsken helpe, diel dan de foarkarsdrank en beker mei tastimming fan de persoan. Hâld de drank binnen berik, mar freegje foardat jo hy ferpleatse of oan har jouwe.
+Foar in útstapke, nim in drank mei dy’t de persoan leuk fynt en bied dy oan tidens in rêst of miel. As ferskate minsken helpe, diel dan de foarkarsdrank en beker mei tastimming fan de persoan. Hâld de drank binnen berik, mar freegje foardat jo hy ferpleatse of oan har jouwe.
 
 ## Hokker drankjes of iten kin ik oanbiede?
 
@@ -67,7 +67,7 @@ Der is gjin reden om op ien drank oan te dringen as de persoan it wegeret. Bied 
 
 Beheine fochtynname net om ûngemakken te foarkommen, útsein as in sûnensprofessional in yndividueel plan jûn hat. De [Alzheimer’s Association warret](https://www.alz.org/help-support/caregiving/daily-care/incontinence) dat it beheinen fan floeistoffen útdroeging en oare problemen feroarsaakje kin. In persoan dy’t help nedich hat om de badkeamer te finen of te brûken, kin profitearje fan in oare soarte stipe. Us [gids oer kontinesje](/caregiving/toileting-and-incontinence-with-dementia/) behannelt toiletrûtines en privacy.
 
-Ferdiel de oanbiedingen oer de dei yn stee fan de persoan te freegjen om yn ien kear in soad te drinken. Folgje besteande medyske ynstruksjes en freegje in dokter hokfolle foar de persoan goed is. Fertrou net op in algemien getal op ynternet; fochtbehoeften ferskille, en guon minsken hawwe in medysk fochtplan.
+Ferdiel de oanbiedingen oer de dei yn stee fan de persoan te freegjen om yn ien kear in soad te drinken. Folgje besteande medyske ynstruksjes en freegje in dokter hoefolle foar de persoan goed is. Fertrou net op in algemien getal op ynternet; fochtbehoeften ferskille, en guon minsken hawwe in medysk fochtplan.
 
 ## Hokker feroarings moat ik opmerkje?
 
@@ -77,7 +77,7 @@ Skriuw op wat jo opmurken hawwe en wannear. Nim op oft de persoan siik wie, op i
 
 ## Wat as drinken lestich wurden is?
 
-As de persoan hoestet, ferslikt, iten of drank yn de mûn hâldt, of nije muoite mei slikken hat, stopje dan en freegje in kwalifisearre sûnensprofessional om advys. Dik drinken net, feroarje de tekstuer fan iten net en probearje gjin slikttechniken, útsein as in profesjonal dat plan foar de persoan oanrikkemandearre hat. Us [gids oer miels](/caregiving/mealtimes-with-dementia/) behannelt wat te dwaan by nije kau- of slikproblemen.
+As de persoan hoestet, ferslikt, iten of drank yn de mûn hâldt, of nije muoite mei slikken hat, stopje dan en freegje in kwalifisearre sûnensprofessional om advys. Dik drinken net, feroarje de tekstuer fan iten net en probearje gjin slikttechniken, útsein as in profesjonal dat plan foar de persoan oanbefelle hat. Us [gids oer miels](/caregiving/mealtimes-with-dementia/) behannelt wat te dwaan by nije kau- of slikproblemen.
 
 As de persoan in droege mûn hat, sear tosken of in gebitsprotese dy’t ûngemaklik sit, freegje dan wat se opmerkje en nim kontakt op mei in tandarts of dokter. Mûnpine kin drinken swierder meitsje. Sjoch ús [gids oer mûnfersoarging](/caregiving/oral-care-with-dementia/) foar sêfte manieren om mûnfersoarging te stypjen.
 

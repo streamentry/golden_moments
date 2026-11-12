@@ -15,7 +15,7 @@ keyPoints:
   - "Lit de persoan meidwaan oan keuzes en takomstplanning sa't se dat wol, en krij plaatslik profesjoneel advys oer juridyske of finansjele fragen."
 faq:
   - q: "Wat moat ik as earste dwaan nei in dementiediagnoaze?"
-    a: "Begjin mei ien nuttige folgjende stap, bgl. de opfolgingsplan ôfstimme mei de dokter dy't de diagnoaze stelde, of in betroubere stipetsjinst fine. De persoan hat miskien tiid nedich om de diagnoaze te ferwurkjen, dus it is net nedich om in lange tsjekliste yn ien dei ôf te meitsjen."
+    a: "Begjin mei ien nuttige folgjende stap, bygelyks de opfolgingsplan ôfstimme mei de dokter dy't de diagnoaze stelde, of in betroubere stipetsjinst fine. De persoan hat miskien tiid nedich om de diagnoaze te ferwurkjen, dus it is net nedich om in lange tsjekliste yn ien dei ôf te meitsjen."
   - q: "Betsjut in dementiediagnoaze dat de persoan gjin besluten mear nimme kin?"
     a: "In diagnoaze op himsels seit net wat in persoan kin beslute. Freegje de persoan hoe't se meidwaan wol, en sykje kwalifisearre plaatslik advys foar elk konkrete sûnens-, juridyske of finansjele beslissing."
   - q: "Moatte wy famyljeleden en freonen fertelle oer de diagnoaze?"

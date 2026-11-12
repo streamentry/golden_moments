@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Kies de wichtichste fragen en skriuw se foar it besyk op."
   - "Noch wat feroare is, wannear’t it bart en wat de persoan opmurken hat."
-  - "Freegje om tastimming om meiinoch te kommen, en lit de persoan foar harsels prate."
+  - "Freegje om tastimming om mei te gean, en lit de persoan foar harsels prate."
   - "Freegje de dokter om it plan gear te fetsjen en skriuw de folgjende stappen op."
 faq:
   - q: "Hoe kin ik my tariede op in dokterbesyk mei immen dy’t demintie hat?"
@@ -55,7 +55,7 @@ Freegje oft de persoan wol dat jo mei de ôfspraak meigeane. Se wolle miskien in
 
 Lit de persoan earst de fragen fan de dokter beantwurdzje. Foegje allinnich details ta as se dat wolle, of as de dokter om ynformaasje freget dy’t de persoan miskien net mear wit. Praat mei de persoan, net allinnich mei de dokter. As se tiid nedich hawwe om te antwurdzjen, wachtsje dan, yn stee fan elke pauze op te foljen.
 
-De persoan wol miskien in priveepetear mei de dokter oer in persoanlike soarch. Respektearje dat fersyk. As jo in soarch hawwe dy’t lestich is om foar de persoan op te bringen, freegje dan oan de kliniek hoe’t jo yn it geheim in skriftlik notysje dielje kinne. Wês dúdlik oer wat jo wienen en freegje de kliniek net om ynformaasje te ferbergjen of besluten te nimmen sûnder de persoan.
+De persoan wol miskien in priveepetear mei de dokter oer in persoanlike soarch. Respektearje dat fersyk. As jo in soarch hawwe dy’t lestich is om foar de persoan op te bringen, freegje dan oan de kliniek hoe’t jo privee in skriftlik notysje dielje kinne. Wês dúdlik oer wat jo wienen en freegje de kliniek net om ynformaasje te ferbergjen of besluten te nimmen sûnder de persoan.
 
 ## Hokker fragen kinne it plan dúdlik meitsje?
 
@@ -86,6 +86,6 @@ In stadige feroaring kin ek it besprekken wurdich wêze mei in dokter, mar it is
 
 Freegje wat it besyk makliker meitsje soe. De persoan wol miskien in bekend tiid fan de dei, in koartere wachttiid of in fertroude begelieder. Belje fan tefoaren om nei tagonklikheidsbehoeften te freegjen by de kliniek, en oft help mei hearen of taal beskikber is, en oft fragen fan tefoaren ynstjoerd wurde kinne.
 
-As de persoan eangstich is, lis it plan rêstich en direkt út op in manier dy’t by har past. Nim in bekend foarwerp of wat om mei dwaan te hawwen by it wachtsjen, as de persoan dat wol. Freegje hoefolle foarôf meilding se leaver hawwe: guon minsken wolle tiid om harsels foar te bereiden, wylst oaren leaver in koart opkomst lykas wat tichter by it besyk hawwe. Brûk in earlike útlis dy’t foar har wurket.
+As de persoan eangstich is, lis it plan rêstich en direkt út op in manier dy’t by har past. Nim in bekend foarwerp of wat om mei dwaan te hawwen by it wachtsjen, as de persoan dat wol. Freegje hoefolle foarôf meilding se leaver hawwe: guon minsken wolle tiid om harsels foar te bereiden, wylst oaren leaver in koarte herinnering tichter by it besyk hawwe. Brûk in earlike útlis dy’t foar har wurket.
 
 In goed besyk lit de persoan hearde fiele, mei de folgjende stappen dúdlik. Tarie jim tegearre, beskermje de privacy en freegje de kliniek om alles dat noch ûnwis is op te heljen.

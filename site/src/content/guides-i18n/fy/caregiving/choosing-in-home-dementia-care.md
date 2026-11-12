@@ -21,7 +21,7 @@ faq:
   - q: "Moat de persoan mei demintie meihelpe by it kiezen fan in soarchoanbieder?"
     a: "Lit de persoan safolle meidwaan as se wolle en kinne. Freegje hokker help se wolkom hjitte, stel se oan de oanbieder foar en let op oft se har noflik fiele by it kontakt."
   - q: "Hoe kin ik beslute oft de regeling wurket?"
-    a: "Kontrolearje nei besite by de persoan en de oanbieder hoe’t it gie. Freegje wat helpsum fielt, pas taken of tiden oan wannear nedich, en soargje foar in back-upplan as de fêste meiwurker net komme kin."
+    a: "Kontrolearje nei besite by de persoan en de oanbieder hoe’t it gie. Freegje wat nuttich fielt, pas taken of tiden oan wannear nedich, en soargje foar in back-upplan as de fêste meiwurker net komme kin."
 sources:
   - title: "In-Home Care"
     publisher: "Alzheimer's Association"
@@ -72,7 +72,7 @@ As it kin, spreek in koart earste besyk ôf en beoardiel it mei de persoan. In o
 
 Diel allinnich details dy’t de oanbieder helpe om de persoan feilich en respektfol te stypjen. Mei tastimming fan de persoan, lit útlizze hoe’t se oansprutsen wurde wolle, hokker routines telle, wat helpt by kommunikearjen en wat se sels dwaan wolle.
 
-As sûnensynstruksjes de taak beynfloedzje, freegje dan oan de klinyske behanneler fan de persoan wat de oanbieder witte moat. Freegje in net-fergunne meiwurker net om medyske taken út te fieren bûten har oplieding of rol. Hâld persoanlike ynformaasje privee en kontrolearje wa’t tagong hat ta skriftlike notysjes of soargmiten.
+As sûnensynstruksjes de taak beynfloedzje, freegje dan oan de klinyske behanneler fan de persoan wat de oanbieder witte moat. Freegje in net-fergunne meiwurker net om medyske taken út te fieren bûten har oplieding of rol. Hâld persoanlike ynformaasje privee en kontrolearje wa’t tagong hat ta skriftlike notysjes of soarchnotysjes.
 
 De [gids foar tarieding op in dokterbesyk](/caregiving/doctor-visit-with-dementia/) kin helpe om fragen foar in sûnensprofessional te organisearjen. De [gids oer hûsfeiligens](/caregiving/home-safety/) behannelt feroarings yn it hûs en wannear’t jo in kwalifisearre profesjonal freegje moatte.
 
@@ -82,8 +82,8 @@ Kontrolearje nei besite by de persoan hoe’t it gie. Freegje wat noflik fielde,
 
 Sprek mei de oanbieder ôf hoe’t gewoane updates dield wurde en hoe’t soargen behannele wurde. As in besyk annulearre wurdt, wit dan wa’t back-up leverje kin of wat de persoan leaver docht. Beoardiel de taken wer as de deistige routine, sûnens of stipebehoeften fan de persoan feroarje.
 
-Kosten, roosters en beskikbere tsjinsten ferskille. Freegje de oanbieder om skriftlike betingsten, ynklusyf tarieven, minimale besykslingte, annulearringsregels en ekstra kosten. De dokter fan de persoan, pleatslike ferstjerreningstsjinsten of demintieorganisaasjes kinne jo nei plakken ta liede, mar fergelykje oanbieders sels, sawol foar josels as foar de persoan.
+Kosten, roosters en beskikbere tsjinsten ferskille. Freegje de oanbieder om skriftlike betingsten, ynklusyf tarieven, minimale besykslingte, annulearringsregels en ekstra kosten. De dokter fan de persoan, pleatslike bejaardetsjinsten of demintieorganisaasjes kinne jo nei plakken ta liede, mar fergelykje oanbieders sels, sawol foar josels as foar de persoan.
 
-As de persoan ynienen betize wurdt of folle siker minder fielt, gean der dan net fan út dat de feroaring komt troch demintie. De [NHS riedt daliks medyske help oan by ynienen betizing](https://www.nhs.uk/symptoms/confusion/). Foar oanhâldende soargen oer soarch, praat mei in dokter of in oare kwalifisearre profesjonal.
+As de persoan ynienen betize wurdt of minder goed giet, gean der dan net fan út dat de feroaring komt troch demintie. De [NHS riedt daliks medyske help oan by ynienen betizing](https://www.nhs.uk/symptoms/confusion/). Foar oanhâldende soargen oer soarch, praat mei in dokter of in oare kwalifisearre profesjonal.
 
 It doel is stipe dy’t by it libben fan de persoan past. Definiearje de taak, kontrolearje de ûnderfining en it back-upplan fan de oanbieder, lit de persoan meidwaan oan elke beslissing en beoardiel oer de tiid hinne hoe’t de regeling oanfielt.

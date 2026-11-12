@@ -71,7 +71,7 @@ As de persoan hjoed wegeret, akseptearje it en probearje letter wer. In rêstige
 
 ## Hoe kin ik de badkeamer feiliger meitsje?
 
-Hâld de wei nei it bad of de douche frij en brûk stipen dy’t by de behoeften fan de persoan passe. Antislip-oerflakken, in stabyl sit of griphâlden kinne helpe, mar apparatuer moat op it juste plak komme. Freegje in arbeidsterapeut of oare kwalifisearre profesjonal foardat jo griphâlden ynstallearje of konstruktyf wat feroarje. Sette net in drachtbere ferwaarmer yn in badkeamer, en folgje de ynstruksjes foar elektryske apparatuer.
+Hâld de wei nei it bad of de douche frij en brûk stipen dy’t by de behoeften fan de persoan passe. Antislip-oerflakken, in stabyl sit of griphâlden kinne helpe, mar apparatuer moat op it juste plak komme. Freegje in arbeidsterapeut of oare kwalifisearre profesjonal foardat jo griphâlden ynstallearje of konstruktyf wat feroarje. Sette net in draachbere ferwaarmer yn in badkeamer, en folgje de ynstruksjes foar elektryske apparatuer.
 
 As de persoan ûnstabyl is of foelen is, besykje dan net om har op in manier te lift of te ferpleatsen dy’t jim beide sear dwaan kin. Freegje profesjonele advys oer de apparatuer en help dy’t nedich is. Hâld elk besteande feiligensplan oerien mei it rjocht fan de persoan op priveelsens en keuze.
 

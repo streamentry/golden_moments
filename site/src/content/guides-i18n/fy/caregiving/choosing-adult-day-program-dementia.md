@@ -50,13 +50,13 @@ It programma kin de mantelsoarch ek helpe om te rêstjen of oare ferantwurdlikhe
 
 Tsjinsten ferskille. Guon sintra rjochtsje har op selskip en aktiviteiten; oaren biede miskien ek miel, ferfier, persoanlike soarch of sûnensrelatearre tsjinsten. Freegje hokker tsjinsten beskikber binne op de dagen dat de persoan komme soe en oft it personiel de behoeften kin stypje dy’t de persoan no hat.
 
-Fyn út wat der oan aktiviteiten is, net allinnich wat der op it rooster stiet. Freegje wat dielnimmers eins dogge, oft se kieze kinne tusken opsjes en oft it programma bekende belangen omfettet, lykas muzyk, keunst, túnieren of petear. De persoan hoecht net by elke aktiviteit mei te dwaan. Freegje oft der in rêstige romte of tiid om út te rêstjen beskikber is.
+Fyn út wat der oan aktiviteiten is, net allinnich wat der op it rooster stiet. Freegje wat dielnimmers eins dogge, oft se kieze kinne tusken opsjes en oft it programma bekende belangen omfettet, lykas muzyk, keunst, túnwurk of petear. De persoan hoecht net by elke aktiviteit mei te dwaan. Freegje oft der in rêstige romte of tiid om út te rêstjen beskikber is.
 
 As de persoan help nedich hat mei medisinen, bewegen, ite of persoanlike soarch, freegje dan krekt wa’t dy stipe jout en hokker oplieding dy minsken hawwe. Gean der net fan út dat in dagprogramma medyske soarch biedt of elke behoefte oanpakke kin. Befêstigje alle sûnensrelatearre ynstruksjes mei it soarchteam fan de persoan.
 
 ## Wat kin ik tidens in besyk let op?
 
-Regelje in besyk en nim de persoan mei as dy dat wol. Let op oft it personiel respektfol praat, dielnimmers tiid jout om te reagearjen en minsken útnoeget om meiinoch sûnder druk. Sjoch nei aktiviteiten dy’t by de belangen en mooglikheden fan de persoan passe, net allinnich nei in drokke kalinder.
+Regelje in besyk en nim de persoan mei as dy dat wol. Let op oft it personiel respektfol praat, dielnimmers tiid jout om te reagearjen en minsken útnoeget om meidwaan sûnder druk. Sjoch nei aktiviteiten dy’t by de belangen en mooglikheden fan de persoan passe, net allinnich nei in drokke kalinder.
 
 Freegje hoe’t it sintrum de foarkarren fan elke persoan leart kennen en hoe’t it reagearret as immen wurch wurdt, soargen krijt of fuort wol. Fyn út wat it sintrum yn in needgefal docht, hoe’t famyljeleden updates krije en wa’t jo kontaktsje kinne by in soarch.
 
@@ -80,7 +80,7 @@ Nei in pear besiken, praat mei de persoan en it personiel fan it sintrum oer hoe
 
 ## Hoe kin ik mei it sintrum gearwurkje?
 
-Mei tastimming fan de persoan, diel ynformaasje dy’t it personiel helpt om har te stypjen: de foarkarswaarnamme, kommunikaasjestyl, routines, belangen en de soarte help dy’t se akseptearje. Freegje hoe’t it sintrum dizze ynformaasje privee hâldt en hoe’t updates mei famylje dield wurde.
+Mei tastimming fan de persoan, diel ynformaasje dy’t it personiel helpt om har te stypjen: de foarkarren, kommunikaasjestyl, routines, belangen en de soarte help dy’t se akseptearje. Freegje hoe’t it sintrum dizze ynformaasje privee hâldt en hoe’t updates mei famylje dield wurde.
 
 Freegje wa’t jo kontaktsje moatte as de persoan siik is, ôfwêzich is of in feroaring yn stipe nedich hat. Hâld in back-upplan foar dagen dat it programma sletten is of ferfier net beskikber is. As ferskate minsken helpe, sprek dan ôf wa’t elke ride en elke update oanpakt.
 
