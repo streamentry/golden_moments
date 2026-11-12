@@ -53,35 +53,35 @@ Vidutinė demencijos stadija dažnai yra ilgiausia, ir būtent tada veikloms rei
 
 ## Kokios veiklos gerai tinka vidutinės stadijos demencijai?
 
-Geriausiai veikia trumpos, pažįstamos, rankomis atliekamos veiklos, suskaidytos į atskirus žingsnius. „Alzheimer's Association“ [(Alcheimerio asociacija)](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) teigia, kad nereikia išrasti naujų dalykų: veiklos gali būti įprasto gyvenimo dalis, pavyzdžiui, kartu gaminant vakarienę, sodinant, klausantis muzikos ar einant pasivaikščioti.
+Geriausiai veikia trumpos, pažįstamos, rankomis atliekamos veiklos, suskaidytos į atskirus žingsnius. [Alcheimerio asociacija](https://www.alz.org/help-support/caregiving/stages-behaviors/middle-stage) teigia, kad nereikia išrasti naujų dalykų: veiklos gali būti įprasto gyvenimo dalis, pavyzdžiui, kartu gaminant vakarienę, sodinant, klausantis muzikos ar einant pasivaikščioti.
 
-„Alzheimer's Foundation of America“ [(Alcheimerio fondas Amerikoje)](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) pažymi, kad šios stadijos žmonės dažnai labai nori jaustis reikalingi ar rūpintis kuo nors, ir jiems gali reikėti pagalbos pradedant ar tęsiant veiklą. Jo vidutinės stadijos sąraše yra skalbinių lankstymas, indų plovimas, kojinių rūšiavimas, lengvi pratimai, šokiai pagal pažįstamą muziką, vedami pasivaikščiojimai, dainavimas kartu, paprasta tapyba ir nuotraukų albumų žiūrėjimas.
+[Alcheimerio fondas Amerikoje](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) pažymi, kad šios stadijos žmonės dažnai labai nori jaustis reikalingi ar rūpintis kuo nors, ir jiems gali reikėti pagalbos pradedant ar tęsiant veiklą. Jo vidutinės stadijos sąraše yra skalbinių lankstymas, indų plovimas, kojinių rūšiavimas, lengvi pratimai, šokiai pagal pažįstamą muziką, vedami pasivaikščiojimai, dainavimas kartu, paprasta tapyba ir nuotraukų albumų žiūrėjimas.
 
 ## Kaip paruošti veiklą, kad ji pavyktų?
 
-Dauguma veiklų pavyksta ar nepavyksta paruošimo metu. Šie įpročiai, paremti „Alzheimer's Association“ [(Alcheimerio asociacija)](https://www.alz.org/help-support/caregiving/daily-care/activities) ir „Family Caregiver Alliance“ [(Šeimos slaugytojų aljansas)](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) patarimais, daro didžiausią skirtumą:
+Dauguma veiklų pavyksta ar nepavyksta paruošimo metu. Šie įpročiai, paremti [Alcheimerio asociacija](https://www.alz.org/help-support/caregiving/daily-care/activities) ir [Šeimos slaugytojų aljansas](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) patarimais, daro didžiausią skirtumą:
 
 1. **Išvalykite erdvę.** Išjunkite televizorių, uždarykite duris ir padėkite tik tai, ko reikia veiklai.
 2. **Pradėkite patys.** Pradėkite lankstyti ar maišyti ir pakvieskite prisijungti: „Ar galėtumėte man padėti su šiuo?“
 3. **Parodykite ir palaukite.** Pademonstruokite vieną žingsnį. Rodykite rankos judesiu, pavyzdžiui, kur dedama lėkštė.
 4. **Duokite po vieną žingsnį.** „Perlenkite per pusę“ yra lengviau nei „sulankstykite šiuos ir sudėkite pagal spalvas“.
 5. **Siūlykite du pasirinkimus, o ne atvirus klausimus.** „Mėlynus rankšluosčius ar baltus?“ atsakyti lengviau nei „Ką norite daryti?“
-6. **Sunkiausią dalį atlikite patys.** Jūs matuojate, jie maišo. Jūs įverčiate adatą, jie suvynioja siūlą.
+6. **Sunkiausią dalį atlikite patys.** Jūs matuojate, jie maišo. Jūs įverkite adatą, jie suvynioja siūlą.
 7. **Suteikite priežastį.** „Šios servetėlės skirtos sekmadienio pietums“ daro darbą tikru.
-8. **Leiskite stebėti, jei taip geriau.** Jungtinių Valstijų Nacionalinis senėjimo institutas [(National Institute on Aging)](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pažymi, kad tiesiog stebėti taip pat gali būti malonu.
+8. **Leiskite stebėti, jei taip geriau.** Jungtinių Valstijų Nacionalinis senėjimo institutas [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) pažymi, kad tiesiog stebėti taip pat gali būti malonu.
 
 ## Veiklų idėjos vidutinei stadijai
 
 ### Naudingi darbai
 
-- **Sulankstykite rankšluosčius ir skalbinėlius.** Mažos, plokščios vienetos lengviausios. Krepšį šiltų skalbinėlių galima lankstyti, glostyti ir lankstyti iš naujo.
+- **Sulankstykite rankšluosčius ir skalbinėlius.** Maži, plokšti daiktai lengviausi. Krepšį šiltų skalbinėlių galima lankstyti, glostyti ir lankstyti iš naujo.
 - **Poruokite kojines.** Pradėkite nuo kelių labai skirtingų porų. Rūšiuoti tik pagal spalvą taip pat tinka.
 - **Plaukite ar džiovinkite nesudūžtančius indus.** Šiltas muilinis vanduo maloniai veikia rankas. Džiovinti sėdint lengviau kojoms.
-- **Klokite stalą.** Duokite po vieną daiktų rūšį ir vieną vietą nustatykite patys kaip pavyzdį.
+- **Padėkite stalą.** Duokite po vieną daiktų rūšį ir vieną vietą nustatykite patys kaip pavyzdį.
 - **Padėkite gaminti vakarienę.** Plauti bulves, plėšyti salotas ar maišyti dubenį. Peilį ir ugnį tvarkote jūs.
 - **Šluokite, dulkinkite ar valykite.** Audinys stalui, lengvas šepetys verandai.
 
-Daugiau idėjų rasite [buities darbų] skiltyje (/activities/household-tasks/).
+Daugiau idėjų rasite [buities darbų skiltyje](/activities/household-tasks/).
 
 ### Muzika ir judesys
 
@@ -94,7 +94,7 @@ Daugiau idėjų rasite [buities darbų] skiltyje (/activities/household-tasks/).
 
 - **Žiūrėkite nuotraukų albumą.** Komentuokite tai, ką matote, o ne klauskite: „Žiūrėk, tas automobilis. Papasakok apie jį.“ Žr. [prisiminimų veiklas](/activities/reminiscence/).
 - **Naudokite pokalbio korteles.** [Pokalbio kortelės](/games/conversation-cards/) sieja paveikslėlį su atviru, testo neprimenančiu klausimu.
-- **Kartu pažiūrėkite senesnį filmą.** Pasirinkite pažįstamą, būkite šalia ir daryti pertraukas.
+- **Kartu pažiūrėkite senesnį filmą.** Pasirinkite pažįstamą, būkite šalia ir daryti pertraukėles.
 
 ### Paprasti žaidimai be spaudimo
 

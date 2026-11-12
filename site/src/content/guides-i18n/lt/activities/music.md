@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Muzikos veiklos žmonėms su demencija"
+seoTitle: "Muzikos veiklos demencijai: grojaraščiai ir idėjos"
+description: "Kaip dalytis muzika su žmogumi, gyvenančiu su demencija: asmeninis grojaraštis, 15 paprastų muzikos veiklų ir patarimai kiekvienai stadijai."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Muzika – viena lengviausiai dalijamų veiklų su žmogumi, gyvenančiu su
+  demencija. Sudarykite asmeninį grojaraštį iš jaunystės, tikėjimo ir šeimos
+  muzikos, grokite be reklamų ir foninio triukšmo, o dainuokite, plokite,
+  sūpuokitės ar tiesiog klausykitės kartu. Rinkitės ramesnę ar gyvesnę muziką
+  pagal akimirką, laikykite garsą švelnų ir sustokite, jei daina kėlė nerimą.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Asmeninė muzika veikia geriausiai: stiliai, kuriuos mėgo jaunas suaugęs, ir muzika iš tikėjimo, kultūros bei šeimos švenčių."
+  - "Grokite po vieną kūrinį, be reklamų ir su išjungtu televizoriumi."
+  - "Dainavimas, plojimas, sūpavimasis ir tiesiog klausymasis – visi būdai dalyvauti."
+  - "Ramesnė muzika padeda nusiraminti, gyvesnė – pakelia nuotaiką. Stebėkite, kaip žmogus reaguoja."
+  - "Tyrimai apie struktūrinius muzikos užsiėmimus yra riboti; siūlome muziką kaip malonų bendravimo būdą, o ne kaip gydymą."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Kokia muzika geriausia žmogui su demencija?"
+    a: "Muzika, kurią žmogus pažino ir mylėjo ilgai, dažnai iš paauglystės ir jaunystės metų, taip pat muzika iš tikėjimo, kultūros ir šeimos švenčių. Jei įmanoma, leiskite jam rinktis. Stebėkite veidą ir kūną, kad sužinotumėte, kas patinka, ir atsisakykite to, kas, atrodo, kelia nerimą."
+  - q: "Ar naudoti ausines?"
+    a: "Kai kuriems žmonėms ausinės patinka, nes jos slopina triukšmą, o kiti jas jaučia nepatogias ar painias. Pirmiausia išbandykite garsiakalbį, kad galėtumėte klausytis kartu. Jei naudojate ausines, laikykite garsą tylų ir būkite šalia."
+  - q: "Ar muzika gali padėti, kai žmogus neramus ar nusiminęs?"
+    a: "Ramesnė, pažįstama muzika gali padėti sukurti ramią nuotaiką, o „Alzheimer's Association“ pataria muziką naudoti norimai atmosferai nustatyti. Ji ne visada padeda. Jei žmogus išgyvena stresą, patikrinkite ir ar jo nekankina skausmas, alkis, triukšmas ar nuovargis."
+  - q: "Ar žmonės vėlyvojoje stadijoje vis dar gali mėgautis muzika?"
+    a: "Daugelis gali. „Alzheimer's Association“ pažymi, kad vėlyvojoje stadijoje žmogus vis dar gali pabarbenti ritmą ar padainuoti dainą iš vaikystės. Sėdėkite arti, grokite tyliai ir laikykite jį už rankos ar sūpuokitės kartu."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Muziką vienas paprasčiausių dalykų, kuriuo galima dalytis su žmogumi, gyvenančiu su demencija. Ji nieko nereikalauja: nėra teisingų atsakymų, nėra žingsnių, kuriuos reikia atlikti. Pažįstama daina gali sukelti šypseną, pabarbentą koja ar kelis žodžius, padainuotus kartu, net dienomis, kai pokalbis sunkiai sueina. Reikia tik tinkamos muzikos šiam žmogui ir ramios akimirkos ją paleisti.
 
-## What music activities work for people with dementia?
+## Kokios muzikos veiklos tinka žmonėms su demencija?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Klausymasis, dainavimas, plojimas, sūpavimasis ir kalbėjimas apie muziką – visa tai gerai tinka. Jungtinių Valstijų [Nacionalinis senėjimo institutas](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) siūlo groti muziką, kalbėti apie kūrinį ir atlikėją, dainuoti ar šokti pagal žinomas dainas ir lankyti koncertus ar muzikines programas bendruomenėje. „Alzheimer's Association“ [(Alcheimerio asociacija)](https://www.alz.org/help-support/caregiving/daily-care/art-music) priduria, kad judesys, pavyzdžiui, plojimas ar šokis, gali padidinti malonumą, o muzika gali būti būdas susisiekti, kai žodžiai tampa sunkūs.
 
-## How do you build a personal playlist?
+## Kaip sudaryti asmeninį grojaraštį?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Naudingiausia, ką galite sukurti, yra grojaraštis su muzika, kuri ką nors reiškia šiam žmogui. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) taip pat pabrėžia muziką su asmenine reikšme. Štai paprastas būdas tokį sudaryti.
 
-### Start with their life
+### Pradėkite nuo jo gyvenimo
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Paauglystė ir jaunystė.** Pagalvokite, kas skambėjo radijuje, šokiuose ir filmuose, kai jis buvo jaunas.
+- **Didelės akimirkos.** Muzika per vestuves, pirmasis šokis, mėgstamas šeimos kelionių albumas.
+- **Tikėjimas ir kultūra.** Giesmės, gospelas, sakralinė muzika ar dainos jo gimtąja kalba.
+- **Darbas ir tarnyba.** Pučiamųjų orkestrų maršai, darbo dainos ar muzika, susijusi su karine tarnyba.
+- **Ką prisimena šeima.** Paklauskite brolių ir seserų, vaikų ar senų draugų, ką jis visada grodavo ar dainuodavo.
 
-### Think in genres, not just songs
+### Galvokite apie žanrus, o ne tik apie dainas
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Jei nesate tikri, nuo ko pradėti, paklausykite kelias minutes kiekvieno iš šių žanrų ir stebėkite reakciją: big bandas ir swingas, doo-wop, Motown ir soulas, ankstyvasis rokenrolas, kantri ir vesternas, bluegrass, gospelas ir giesmės, Brodvėjaus mūzikliai, džiazo standartai, lotynų muzika, pavyzdžiui, boleros ar mariachi, polka, folkas ir klasika. Pasilikite tai, kas sukelia šypseną ar pabarbentą koja; atsisakykite to, kas sukelia susiraukimą.
 
-### Make it easy to play
+### Palengvinkite grojimą
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Be reklamų.** „Alzheimer's Association“ įspėja, kad reklamos gali sukelti painiavą. Naudokite atsisiųstą muziką, kompaktinius diskus, plokšteles ar reklamų neturinčią paslaugą.
+- **Vienas paprastas įrenginys.** Garsiakalbis su vienu dideliu mygtuku arba paruoštas ir išsaugotas grojaraštis, kad kiekvienas galėtų jį paleisti.
+- **Du trumpi sąrašai.** Ramus sąrašas nusiraminimui ir gyvas sąrašas nuotaikai pakelti.
+- **Pažymėkite.** Užrašykite žmogaus vardą ir „mėgstama muzika“ ant įrenginio, kad į svečius atvykstanti šeima ir slaugos darbuotojai galėtų jį naudoti.
 
-## 15 music activities to try
+## 15 muzikos veiklų, kurias galima išbandyti
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Klausykitės kartu.** Sėdėkite šalia, be jokių kitų dalykų. Klausymasis yra visavertė veikla.
+2. **Dainuokite kartu.** Pradėkite dainuoti patys. Dūzgimas ar žodžių lūpomis tariamas judesys taip pat skaičiuojasi.
+3. **Plokite ar barbenkite ritmą.** Plokite per kelius, barbenkite ant stalo ar naudokite mažą rankinį bubnelį ar barškutį.
+4. **Lėtas šokis.** Susikibkite rankomis ir sūpuokitės virtuvėje arba šokite sėdint, judindami rankas kartu.
+5. **Šokis su šaliku.** Mojuokite lengvais šalikais pagal muziką, stovėdami ar sėdėdami.
+6. **Kalbėkite apie muziką.** Kvieskite, o ne tikrinkite: „Atrodo, kad tai šokių salė. Papasakok apie šokius.“ Niekada neklauskite: „Ar prisimeni šią dainą?“
+7. **Paleiskite visą albumą.** Įjunkite plokštelę, kurią jis mylėjo, nuo pradžios iki galo, su kava.
+8. **Žiūrėkite albumų viršelius.** Seni plokštelių apvalkalai puikiai tinka kalbėti apie madas, automobilius ir veidus.
+9. **Žiūrėkite miuziklą.** Įrašytas miuziklas ar koncertas iš jo laikų gali tapti gerą vakarą. Daryti pertraukas.
+10. **Groti instrumentu, kurį jis žino.** Buvęs pianistas ar gitaristas gali mėgautis paprastu grojimu. Vėliau pakanka kartu išgauti kelis garsus.
+11. **Muzika darbo metu.** Grokite mėgstamas dainas, kai lankstote skalbinius ar klojate stalą.
+12. **Rytinė daina.** Kiekvieną dieną pradėkite ta pačia linksma daina kaip rutinos dalimi.
+13. **Dainuokite giesmes ar sakralinę muziką.** Grokite muziką iš jo tikėjimo tradicijos ir dainuokite kartu.
+14. **Prisijunkite prie dainavimo grupės.** NHS apibūdina dainavimo grupes kaip naudingas nuotaikai ir gerovei. Pasiteiraukite vietoje apie demencijai draugiškus chorus.
+15. **Eikite į gyvą muziką.** Trumpas bendruomenės koncertas ar lauko orkestras. Sėdėkite arti išėjimo ir išeikite, kai norite.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+Lengvesnei žodžių žaidimo veiklai su pažįstamomis frazėmis išbandykite [baik priežodį](/games/finish-the-saying/), kur visada galite parodyti pabaigą.
 
-## Matching music to the moment
+## Muzikos pritaikymas akimirkai
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+„Alzheimer's Association“ pataria muzika kurti norimą nuotaiką: ramią muziką ramiai atmosferai ir linksmą dainą iš žmogaus jaunystės kylančiai nuotaikai.
 
-| Moment | Try | Tip |
+| Akimirka | Ką išbandyti | Patarimas |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Keliantis | Pažįstama, linksma daina | Ta pati daina kiekvieną rytą tampa švelniu signalu |
+| Darbai | Mėgstami gyvi kūriniai | Muzika gali padaryti darbą panašų į draugiją |
+| Valgiai | Švelni instrumentinė muzika | Laikykite tylą, kad ji nekonkuruotų su valgymu |
+| Vėlyvas popietė | Ramus, pažįstamas kūrinys geroje šviesoje | Žr. [vakaro neramumą](/caregiving/late-day-restlessness/) |
+| Miegas | Lėta, švelni muzika | Kartu sumažinkite garsą ir šviesą |
+| Vėlyvoji stadija | Mėgstamiausios dainos, labai tyliai | Sėdėkite arti ir laikykite už rankos |
 
-## Tips for a good experience
+## Patarimai geram patyrimui
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Išjunkite kitą triukšmą.** „Alzheimer's Association“ pataria uždaryti langus ir duris bei išjungti televizorių, kad muzika būtų vienintelis garsas.
+- **Laikykite garsą švelnų.** Muzika turi būti patogi, o ne garsi. Jei žmogus naudoja klausos aparatus, įsitikinkite, kad jie įdėti ir veikia; žr. [klausą](/brain-health/hearing/).
+- **Stebėkite liūdnas asociacijas.** Kai kurios dainos sukelia sielvartą, karą ar netektį. Jei daina jį sujaudina, paguoskite ir pakeiskite.
+- **Leiskite jam vadovauti.** Jei įmanoma, leiskite žmogui rinktis muziką ir priimkite jo „ne“.
+- **Sustokite bet kada.** Penkios minutės muzikos – puiki veikla. Taip pat puiku ją išjungti ir tyliai sėdėti.
 
-## What does the research say about music and dementia?
+## Ką sako tyrimai apie muziką ir demenciją?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Įrodymų yra riboti. [2025 m. Cochrane apžvalga](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) išnagrinėjo 30 tyrimų apie struktūrinius muzikos užsiėmimus, daugiausia grupėse slaugos namuose. Ji nustatė, kad tokie užsiėmimai, lyginant su įprasta priežiūra, tikriausiai šiek tiek sumažina depresijos simptomus, bet nerado aiškaus poveikio agitacijai, gerovei ar mąstymui ir atminčiai, taip pat poveikio, kuris išliktų pasibaigus užsiėmimams.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Dalijamės muzika, nes tai malonus, nespaudžiantis būdas kartu leisti laiką, o ne kaip gydymu. Grupiniams užsiėmimams žr. [veiklas slaugos namų grupėms](/activities/care-home-groups/); muzikos derinimui su nuotraukomis ir istorijomis žr. [prisiminimų veiklas](/activities/reminiscence/).
