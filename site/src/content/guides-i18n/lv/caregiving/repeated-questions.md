@@ -86,7 +86,7 @@ Kamēr cilvēks vēl spēj lasīt, rakstīta atbilde, ko var redzēt, bieži pal
 
 | Rīks | Kā to lietot |
 | --- | --- |
-| Piezīme lielos burtos | „Ārsts šodien pulksten 14. Marija vedīs.” Novietojiet to vietā, kur viņš visbiežāk skatās |
+| Piezīme lielos burtos | „Ārsts šodien pulksten 2 pēcpusdienā. Marija vedīs.” Novietojiet to vietā, kur viņš visbiežāk skatās |
 | Tāfele | Šodienas plāns trīs vai četrās rindās; katru rītu noslaukiet un pārrakstiet |
 | Liels pulkstenis ar dienu un datumu | Palīdz atbildēt uz „Kāda diena šodien?” un „Vai jau ir laiks?” |
 | Kalendārs | Svītrojiet katru pagājušo dienu; apvelciet nākamo vizīti |

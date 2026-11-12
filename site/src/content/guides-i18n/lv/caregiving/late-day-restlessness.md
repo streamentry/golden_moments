@@ -74,7 +74,7 @@ Prasīgas lietas pārceliet uz agrāku dienas laiku un vēlo pēcpusdienu saglab
 
 | Laiks | Ko var palīdzēt |
 | --- | --- |
-| No rīta | Vizītes, mazgāšanās, izbraukumi un jebkurš uzdevums, kam vajadzīga piepūle, kad daudzi cilvēki ir vismodrākie |
+| No rīta | Vizītes, mazgāšanās, izbraukumi un jebkurš uzdevums, kam vajadzīga piepūle, kad daudzi cilvēki ir visaktīvākie |
 | Vēlā priekšpusdienā | Laiks ārā vai pie saulainā loga; pastaiga vai cita aktivitāte |
 | Dienvidus | Lielāka pusdienu porcija (Alzheimer's Association iesaka lielākas pusdienas un vieglāku vakariņu) |
 | Agrā pēcpusdienā | Atpūta, ja nepieciešams, bet izvairieties no ilgiem snaudieniem vēlā dienā |
@@ -87,7 +87,7 @@ Daži konkrēti punkti no avotiem:
 - **Dienasgaisma.** NIA iesaka katru dienu nodrošināt laiku ārā vai pie loga saulē.
 - **Ikdienas kustība, bet ne pārāk daudz.** NIA norāda, ka jācenšas katru dienu būt fiziski aktīvam, bet neplānot pārāk daudz nodarbību.
 - **Dzērieni vēlā dienā.** NIA iesaka vēlā dienā nelietot alkoholu un dzērienus ar kofeīnu, piemēram, kafiju vai kolu. Alzheimer's Association min arī nikotīnu.
-- **Snaudieni.** NIA iesaka neļaut ilgi snaust un szāļoties vēlā dienā. Alzheimer's Association iesaka ierobežot dienas snaudienus, ja problēmas rada nakts miegs.
+- **Snaudieni.** NIA iesaka neļaut ilgi snaust un snaudēt vēlā dienā. Alzheimer's Association iesaka ierobežot dienas snaudienus, ja problēmas rada nakts miegs.
 
 Vairāk par stabilas dienas veidošanu lasiet [ikdienas ritma aktivitātēs](/activities/daily-routine/).
 
@@ -124,7 +124,7 @@ Vēlā dienā izvairieties no jaunām spēlēm, steidzīgiem izbraukumiem un vis
 
 Saglabājiet mieru, mierinieties un maigi novirziet uzmanību. NIA iesaka runāt mierīgi, uzklausīt cilvēka bažas, nestrīdēties, pārliecināt, ka viņš ir drošībā, un, ja tas palīdz, lietot maigu pieskārienu. Pēc tam pamēģiniet novērst uzmanību: uzkoda, dzēriens, mūzika vai pastaiga.
 
-Alzheimer's Association iesaka tādas frāzes kā „Šeit jūs esat drošībā” un „Man žēl, ka jūs esat nelaimīgs”, kā arī pievienot gaismu, palēnināt tempu un ierobežot stimulus. Necenšieties iespiest stūrī, neaptveriet un nefiksējiet cilvēku, kā arī nestrīdieties ar viņu.
+Alzheimer's Association iesaka tādas frāzes kā „Šeit jūs esat drošībā” un „Man žēl, ka jūs esat nelaimīgs”, kā arī pievienot gaismu, palēnināt tempu un ierobežot stimulus. Nespiediet cilvēku stūrī, neturiet viņu un nestrīdieties ar viņu.
 
 Ja cilvēks kļūst agresīvs, NIA iesaka turēties drošā attālumā, līdz uzvedība beidzas. Ārkārtas gadījumā zvaniet vietējiem ārkārtas dienestiem un paskaidrojiet, ka cilvēkam ir demence. Mūsu [ceļvedis par reakciju uz dusmām un agresiju](/caregiving/when-anger-becomes-aggression-with-dementia/) apraksta tūlītējo drošību un to, ko darīt pēc tam.
 

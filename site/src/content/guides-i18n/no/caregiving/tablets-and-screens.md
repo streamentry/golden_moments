@@ -1,34 +1,29 @@
 ---
-title: "Setting Up a Tablet or Phone for Someone with Dementia"
-seoTitle: "Set Up a Tablet or Phone for Someone with Dementia"
-description: "Step-by-step tablet and phone setup for someone with dementia: lock to one app, larger text, fewer notifications, a simple home screen, volume and privacy."
+title: "Slik setter du opp et nettbrett eller en telefon for en person med demens"
+seoTitle: "Sett opp nettbrett eller telefon for demens"
+description: "Trinn for trinn: lås enheten til én app, større tekst, færre varsler, en enkel startskjerm, lyd og personvern for en person med demens."
 section: caregiving
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Make a tablet or phone simpler before handing it over. Lock it to one app
-  with Guided Access on iPad and iPhone or app pinning on Android, or use
-  Apple's Assistive Access for a simplified layout. Make text larger, silence
-  notifications, keep only a few apps on one home screen, set the volume, use
-  a stand, and limit app permissions. Use it together, alongside non-screen
-  activities.
+  Gjør et nettbrett eller en telefon enklere før du gir den til personen. Lås den til én app med Veiledet tilgang på iPad og iPhone, eller app-festing på Android, eller bruk Apples Assistive Access for et forenklet oppsett. Gjør teksten større, slå av varsler, behold bare noen få apper på én startskjerm, still inn lyden, bruk et stativ og begrens app-tillatelsene. Bruk enheten sammen med personen, og kombiner den med aktiviteter uten skjerm.
 keyPoints:
-  - "Guided Access (iPhone, iPad) and app pinning (Android) keep the screen on one app until you unlock it."
-  - "Apple's Assistive Access offers a simplified layout designed for people with cognitive disabilities."
-  - "Make text larger and turn off notifications and pop-ups so nothing interrupts or confuses."
-  - "Keep only a few familiar apps on a single home screen, and set the volume before you start."
-  - "A stand and a charging spot that never moves make the device easier to use and find."
-  - "Review app permissions and data sharing: HIPAA generally does not protect what is stored on a personal device."
+  - "Veiledet tilgang (iPhone, iPad) og app-festing (Android) holder skjermen på én app til du låser den opp."
+  - "Apples Assistive Access gir et forenklet oppsett laget for personer med kognitive funksjonsnedsettelser."
+  - "Gjør teksten større, og slå av varsler og popup-vinduer, så ingenting avbryter eller forvirrer."
+  - "Behold bare noen få kjente apper på én startskjerm, og still inn volumet før dere begynner."
+  - "Et stativ og en fast ladeplass som aldri flyttes, gjør enheten enklere å bruke og finne."
+  - "Gå gjennom app-tillatelser og datadeling: den amerikanske HIPAA-loven beskytter som hovedregel ikke det som lagres på en privat enhet."
 faq:
-  - q: "How do I stop someone with dementia from leaving an app on an iPad?"
-    a: "Turn on Guided Access in Settings > Accessibility > Guided Access and set a passcode. Open the app, triple-click the top button (or Home button on older iPads), and tap Start. The iPad stays in that app until someone enters the passcode."
-  - q: "How do I lock an Android tablet to one app?"
-    a: "Turn on app pinning in the Settings app, usually under Security (sometimes Security & location) > Advanced > App pinning. Then open the app, open Overview, tap the app's icon at the top and tap Pin. Your PIN, pattern or password is needed to unpin."
-  - q: "Is it safe to use Guided Access on the person's own phone?"
-    a: "Be careful. Apple says Crash Detection and Emergency Services are not available while Guided Access is on. If the person relies on their phone for emergency calls, use Guided Access only while you are with them, or consider Assistive Access instead."
-  - q: "How much screen time is okay for someone with dementia?"
-    a: "There is no set number. Short, shared sessions mixed with walks, music, chores and conversation make for a fuller day than long stretches alone with a screen. If the device causes frustration or crowds out other activities, use it less."
+  - q: "Hvordan hindrer jeg at en person med demens forlater en app på iPaden?"
+    a: "Slå på Veiledet tilgang under Innstillinger > Tilgjengelighet > Veiledet tilgang, og velg en kode. Åpne appen, trykk tre ganger på toppknappen (eller Hjem-knappen på eldre iPader), og trykk på Start. iPaden blir i den appen til noen skriver inn koden."
+  - q: "Hvordan låser jeg et Android-nettbrett til én app?"
+    a: "Slå på app-festing i Innstillinger, vanligvis under Sikkerhet (noen ganger Sikkerhet og posisjon) > Avansert > App-festing. Åpne deretter appen, åpne oversikten, trykk på appens ikon øverst og trykk på Fest. PIN-koden, mønsteret eller passordet ditt trengs for å løsne den."
+  - q: "Er det trygt å bruke Veiledet tilgang på personens egen telefon?"
+    a: "Vær forsiktig. Apple sier at Krasjvarsling og nødtjenester ikke er tilgjengelige mens Veiledet tilgang er på. Hvis personen er avhengig av telefonen for nødanrop, bruk Veiledet tilgang bare mens du er sammen med vedkommende, eller vurder Assistive Access i stedet."
+  - q: "Hvor mye skjermtid er greit for en person med demens?"
+    a: "Det finnes ikke et fast antall. Korte, felles økter blandet med gåturer, musikk, husarbeid og samtale gir en fyldigere dag enn lange stunder alene med en skjerm. Hvis enheten skaper frustrasjon eller fortrenger andre aktiviteter, bruk den mindre."
 sources:
   - title: "Use Guided Access on iPhone or iPad"
     publisher: "Apple Support"
@@ -65,119 +60,119 @@ related: [caregiving/how-to-play-together, caregiving/choosing-apps-and-games, a
 health: false
 ---
 
-A tablet can be a lovely way to share pictures, music and simple games. It can also be confusing: a stray tap opens another app, a notification pops up, the text is tiny, or the screen goes dark mid-game. A little setup on your part fixes most of that.
+Et nettbrett kan være en fin måte å dele bilder, musikk og enkle spill på. Det kan også være forvirrende: et feiltrykk åpner en annen app, et varsel dukker opp, teksten er for liten, eller skjermen slukner midt i et spill. Litt oppsett fra din side løser det meste.
 
-These steps use the built-in settings on iPhone, iPad and Android. Menu names can change between software versions and device makers, so if something looks different, follow the linked Apple or Google page for your device. Do the setup yourself, before you sit down together.
+Disse trinnene bruker de innebygde innstillingene på iPhone, iPad og Android. Menynavnene kan endre seg mellom programvareversjoner og produsenter, så hvis noe ser annerledes ut, følg lenken til Apple eller Google for din enhet. Gjør oppsettet selv, før dere setter dere sammen.
 
-## Should someone with dementia use a tablet or phone?
+## Bør noen med demens bruke nettbrett eller telefon?
 
-It depends on the person. Many people enjoy using a tablet with someone beside them, even if they would not manage it alone. Start by using it together, with one app open, for a few minutes. If it brings enjoyment and conversation, keep going. If it brings confusion or frustration, a photo album, printed pages or music may suit them better. Our [printable activities](/activities/printable/) are one alternative.
+Det avhenger av personen. Mange liker å bruke et nettbrett sammen med noen ved siden av seg, selv om de ikke klarer det alene. Begynn med å bruke det sammen, med én app åpen, i noen minutter. Hvis det gir glede og samtale, fortsett. Hvis det gir forvirring eller frustrasjon, passer kanskje et fotoalbum, utskrevne sider eller musikk bedre. Våre [utskrivbare aktiviteter](/activities/printable/) er ett alternativ.
 
-A tablet is usually easier than a phone: the screen and pictures are bigger, and it is not also the person's emergency lifeline.
+Et nettbrett er vanligvis enklere enn en telefon: skjerm og bilder er større, og det er ikke også personens nødlinje.
 
-## How do I lock a tablet or phone to one app?
+## Hvordan låser jeg et nettbrett eller en telefon til én app?
 
-Use Guided Access on iPhone and iPad, or app pinning on Android. Both keep the screen on a single app until you enter a code, so a stray tap or swipe cannot open something else.
+Bruk Veiledet tilgang på iPhone og iPad, eller app-festing på Android. Begge holder skjermen på én app til du skriver inn en kode, så et feiltrykk eller et sveip kan ikke åpne noe annet.
 
-### iPad and iPhone: Guided Access
+### iPad og iPhone: Veiledet tilgang
 
-From [Apple's Guided Access instructions](https://support.apple.com/en-us/111795):
+Fra [Apples instruksjoner for Veiledet tilgang](https://support.apple.com/en-us/111795):
 
-1. Open **Settings**, tap **Accessibility**, then tap **Guided Access** and turn it on.
-2. Under **Passcode Settings**, set a Guided Access passcode. You can also allow Face ID or Touch ID.
-3. Optional: under **Display Auto-Lock**, choose how quickly the screen locks during a session, so it does not go dark mid-game.
-4. Open the app you want to use.
-5. Triple-click the side button (iPhone), the top button (iPad), or the Home button on older devices.
-6. Optional: circle any parts of the screen you want to stop responding to touch. Tap **Options** (or **Session Settings**) to turn off the volume buttons or stop the screen rotating.
-7. Tap **Start**.
+1. Åpne **Innstillinger**, trykk på **Tilgjengelighet**, trykk deretter på **Veiledet tilgang** og slå den på.
+2. Under **Passordinnstillinger** angir du en kode for Veiledet tilgang. Du kan også tillate Face ID eller Touch ID.
+3. Valgfritt: under **Automatisk låsing av skjermen** velger du hvor raskt skjermen låses under en økt, så den ikke slukner midt i et spill.
+4. Åpne appen du vil bruke.
+5. Trykk tre ganger på sideknappen (iPhone), toppknappen (iPad) eller Hjem-knappen på eldre enheter.
+6. Valgfritt: tegn rundt de delene av skjermen du vil at ikke skal reagere på berøring. Trykk på **Alternativer** (eller **Øktinnstillinger**) for å slå av volumknappene eller hindre at skjermen roterer.
+7. Trykk på **Start**.
 
-To end the session, triple-click the same button again, enter the passcode, and tap **End**. Apple notes that on some older software versions you double-click instead.
+For å avslutte økten trykker du tre ganger på samme knapp igjen, skriver inn koden og trykker på **Avslutt**. Apple påpeker at du på noen eldre programvareversjoner i stedet dobbeltrykker.
 
-**Important:** Apple says Crash Detection and Emergency Services are not available during a Guided Access session. Do not leave Guided Access running on a phone the person may need for emergency calls.
+**Viktig:** Apple sier at Krasjvarsling og nødtjenester ikke er tilgjengelige under en økt med Veiledet tilgang. Ikke la Veiledet tilgang stå på en telefon personen kan trenge til nødanrop.
 
-### Android: app pinning
+### Android: app-festing
 
-From [Google's Android help on pinning screens](https://support.google.com/android/answer/9455138?hl=en):
+Fra [Googles hjelp for å feste skjermer på Android](https://support.google.com/android/answer/9455138?hl=en):
 
-1. Open the **Settings** app.
-2. Tap **Security** (or **Security & location**), then **Advanced**, then **App pinning**. If you cannot find it, check your device maker's help pages.
-3. Turn on **App pinning**. Your PIN, pattern or password will be needed to unpin.
-4. Open the app you want. Swipe up to the middle of the screen and hold to open Overview (or tap Overview with 3-button navigation).
-5. At the top of the app's preview, tap the app's icon, then tap **Pin**.
+1. Åpne appen **Innstillinger**.
+2. Trykk på **Sikkerhet** (eller **Sikkerhet og posisjon**), deretter **Avansert**, og så **App-festing**. Hvis du ikke finner det, sjekk produsentens hjelpesider for enheten.
+3. Slå på **App-festing**. PIN-koden, mønsteret eller passordet ditt trengs for å løsne den.
+4. Åpne appen du vil bruke. Sveip opp til midten av skjermen og hold, for å åpne oversikten (eller trykk på Oversikt med navigasjon med tre knapper).
+5. Trykk på appens ikon øverst i forhåndsvisningen av appen, og trykk deretter på **Fest**.
 
-To unpin with gesture navigation, swipe up and hold. With 3-button navigation, touch and hold Back and Overview. With 2-button navigation, touch and hold Back and Home. Then enter your PIN, pattern or password.
+For å løsne med bevegelsesnavigasjon sveiper du opp og holder. Med navigasjon med tre knapper holder du inne Tilbake og Oversikt. Med navigasjon med to knapper holder du inne Tilbake og Hjem. Skriv deretter inn PIN-koden, mønsteret eller passordet.
 
-## Is there a simpler mode for the whole iPhone or iPad?
+## Finnes det en enklere modus for hele iPhonen eller iPaden?
 
-Yes. Apple's Assistive Access replaces the usual home screen with a simpler one. [Apple describes it](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) as designed to make iPhone easier for people with cognitive disabilities to use independently, with bigger on-screen items and more focused features. Apple offers [the same feature on iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
+Ja. Apples Assistive Access erstatter den vanlige startskjermen med en enklere. [Apple beskriver den](https://support.apple.com/guide/assistive-access-iphone/set-up-assistive-access-devcd5016d31/ios) som laget for å gjøre iPhone enklere for personer med kognitive funksjonsnedsettelser å bruke selvstendig, med større elementer på skjermen og mer fokuserte funksjoner. Apple tilbyr [den samme funksjonen på iPad](https://support.apple.com/guide/assistive-access-ipad/set-up-assistive-access-devcd5016d31/ipados).
 
-- **Who sets it up.** Apple suggests a trusted supporter, such as a family member or caregiver who knows the person, helps choose the apps and features.
-- **Where to start.** Go to **Settings > Accessibility > Assistive Access**, tap **Set Up Assistive Access**, then **Continue**.
-- **Apps.** You choose which apps appear. Some Apple apps have special simplified versions, and most other apps can be added in their usual design.
-- **Layout.** Choose **Rows** (an easy-to-read list) or **Grid** (bigger items that emphasize pictures and icons).
-- **Passcode.** You set a separate Assistive Access passcode to enter, exit or change settings. Apple recommends setting up a recovery Apple Account during setup, because without one, a forgotten passcode means resetting the device.
+- **Hvem setter den opp.** Apple foreslår at en pålitelig støttespiller, for eksempel et familiemedlem eller en pårørende som kjenner personen, hjelper til med å velge apper og funksjoner.
+- **Hvor du starter.** Gå til **Innstillinger > Tilgjengelighet > Assistive Access**, trykk på **Sett opp Assistive Access**, og deretter på **Fortsett**.
+- **Apper.** Du velger hvilke apper som vises. Noen Apple-apper har forenklede versjoner, og de fleste andre apper kan legges til i sin vanlige utforming.
+- **Oppsett.** Velg **Rader** (en lettlest liste) eller **Rutenett** (større elementer som legger vekt på bilder og ikoner).
+- **Kode.** Du angir en egen kode for Assistive Access for å gå inn, avslutte eller endre innstillinger. Apple anbefaler å sette opp en gjenopprettingskonto under oppsettet, fordi en glemt kode uten den betyr at enheten må tilbakestilles.
 
-Assistive Access may suit someone who uses their own device every day. Guided Access or app pinning is quicker for a shared game session.
+Assistive Access kan passe for noen som bruker sin egen enhet hver dag. Veiledet tilgang eller app-festing er raskere for en felles spilløkt.
 
-## How do I make text and pictures bigger?
+## Hvordan gjør jeg tekst og bilder større?
 
-Increase the text and display size, then check that buttons still fit on screen.
+Øk tekst- og skjermstørrelsen, og kontroller deretter at knappene fortsatt får plass på skjermen.
 
-**iPhone and iPad.** Per [Apple's font size instructions](https://support.apple.com/en-us/102453), go to **Settings > Display & Brightness > Text Size** and drag the slider. For even larger text, go to **Settings > Accessibility > Display & Text Size > Larger Text**. Apple notes that very large text can make some buttons harder to tap, so adjust if needed.
+**iPhone og iPad.** Etter [Apples instruksjoner for skriftstørrelse](https://support.apple.com/en-us/102453) går du til **Innstillinger > Skjerm og lysstyrke > Tekststørrelse** og drar glidebryteren. For enda større tekst går du til **Innstillinger > Tilgjengelighet > Skjerm og tekst > Større tekst**. Apple påpeker at svært stor tekst kan gjøre noen knapper vanskeligere å trykke på, så juster ved behov.
 
-**Android.** Per [Google's text and display settings help](https://support.google.com/accessibility/android/answer/11183305?hl=en), open **Settings** and search for **Font size**, then move the slider. Search for **Display size** to make everything on screen larger. You can also turn on **Bold text** under **Accessibility > Display size and text**. Some apps do not follow these settings.
+**Android.** Etter [Googles hjelp for tekst- og skjerminnstillinger](https://support.google.com/accessibility/android/answer/11183305?hl=en) åpner du **Innstillinger** og søker etter **Skriftstørrelse**, og flytter glidebryteren. Søk etter **Skjermstørrelse** for å gjøre alt på skjermen større. Du kan også slå på **Fet tekst** under **Tilgjengelighet > Skjermstørrelse og tekst**. Noen apper følger ikke disse innstillingene.
 
-In games like [Picture Pairs](/games/picture-pairs/) and [Find the Same](/games/find-the-same/), you can also choose fewer tiles or choices, which keeps things simpler on screen.
+I spill som [Bildepar](/games/picture-pairs/) og [Finn likt](/games/find-the-same/) kan du også velge færre brikker eller valg, noe som gjør skjermen enklere.
 
-## How do I stop notifications and pop-ups?
+## Hvordan stopper jeg varsler og popup-vinduer?
 
-Turn off notifications for apps you do not need, and use Do Not Disturb during activities.
+Slå av varsler for apper du ikke trenger, og bruk Ikke forstyrr under aktiviteter.
 
-**iPhone and iPad.** Go to **Settings > Notifications**, tap an app below **Notification Style**, and turn off **Allow Notifications** ([Apple's notification settings guide](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). To silence calls, alerts and notifications for a while, open Control Center and turn on **Do Not Disturb** from the **Focus** button ([Apple's Do Not Disturb help](https://support.apple.com/en-us/105112)). You can schedule it under **Settings > Focus > Do Not Disturb > Set a Schedule**.
+**iPhone og iPad.** Gå til **Innstillinger > Varsler**, trykk på en app under **Varselstil**, og slå av **Tillat varsler** ([Apples veiledning om varselinnstillinger](https://support.apple.com/guide/iphone/change-notification-settings-iph7c3d96bab/ios)). For å dempe anrop, varsler og meldinger en stund, åpner du kontrollsenteret og slår på **Ikke forstyrr** fra **Fokus**-knappen ([Apples hjelp for Ikke forstyrr](https://support.apple.com/en-us/105112)). Du kan planlegge det under **Innstillinger > Fokus > Ikke forstyrr > Angi en tidsplan**.
 
-**Android.** Swipe down from the top of the screen and tap **Do Not Disturb**, or go to **Settings > Modes > Do Not Disturb** ([Google's Do Not Disturb help](https://support.google.com/android/answer/9069335?hl=en)). Under **Notification filters** you can choose which people and apps can still get through. Settings vary by device maker.
+**Android.** Dra ned fra toppen av skjermen og trykk på **Ikke forstyrr**, eller gå til **Innstillinger > Moduser > Ikke forstyrr** ([Googles hjelp for Ikke forstyrr](https://support.google.com/android/answer/9069335?hl=en)). Under **Varselfiltre** kan du velge hvilke personer og apper som fortsatt kan komme gjennom. Innstillingene varierer mellom produsentene.
 
-## How do I make a simple home screen?
+## Hvordan lager jeg en enkel startskjerm?
 
-Keep a few familiar apps on one screen and move the rest out of sight. There is no single setting for this; it is about removing clutter.
+Behold noen få kjente apper på én skjerm, og flytt resten ut av synsfeltet. Det finnes ingen enkelt innstilling for dette; det handler om å fjerne rot.
 
-- **Pick three to six apps.** For example, photos, music, a video calling app and one game.
-- **Put them on the first screen,** in the same spots every time, and move everything else to a second screen or folder.
-- **Use a plain, high-contrast wallpaper,** such as a single color or one familiar photo, so icons stand out.
-- **Delete apps you do not need.** Fewer apps mean fewer chances for confusion and less data collected.
-- **Consider Assistive Access** on Apple devices if you want the device to do this for you.
+- **Velg tre til seks apper.** For eksempel bilder, musikk, en videosamtale-app og ett spill.
+- **Legg dem på første skjerm,** på samme plass hver gang, og flytt alt annet til en andre skjerm eller en mappe.
+- **Bruk en enkel bakgrunn med høy kontrast,** for eksempel en ensfarget bakgrunn eller ett kjent bilde, så ikonene skiller seg ut.
+- **Slett apper du ikke trenger.** Færre apper betyr færre sjanser til forvirring og mindre data som samles inn.
+- **Vurder Assistive Access** på Apple-enheter hvis du vil at enheten skal gjøre dette for deg.
 
-## What about volume and sound?
+## Hva med volum og lyd?
 
-Set a comfortable volume before you hand the device over. With Guided Access, you can turn off the volume buttons so it does not change mid-activity. Check that hearing aids are in and working.
+Still inn et behagelig volum før du gir enheten fra deg. Med Veiledet tilgang kan du slå av volumknappene, så lyden ikke endrer seg midt i en aktivitet. Kontroller også at høreapparatene er satt inn og fungerer.
 
-## Where should the tablet live?
+## Hvor bør nettbrettet ligge?
 
-Give it a stand and a permanent charging spot.
+Gi det et stativ og en fast ladeplass.
 
-- **A stand or case** that holds the tablet upright at the table means nobody has to hold it, and pointing is easier.
-- **One charging place** that never moves, ideally a charging stand on a table in a room you use every day. The tablet is always charged and always in the same spot.
-- **Reduce glare.** Position the screen away from a bright window.
+- **Et stativ eller deksel** som holder nettbrettet rett opp på bordet, slik at ingen må holde det, og det er lettere å peke.
+- **Ett ladested** som aldri flyttes, helst en ladestasjon på et bord i et rom dere bruker hver dag. Nettbrettet er alltid ladet og alltid på samme sted.
+- **Reduser blending.** Plasser skjermen slik at den ikke vender mot et sterkt vindu.
 
-## How much screen time is okay?
+## Hvor mye skjermtid er greit?
 
-There is no right number of minutes. Aim for short, shared sessions as one part of a full day that also includes movement, music, household tasks, conversation and time outdoors. Because busy evenings can add to late-day restlessness, consider keeping screen activities to earlier in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
+Det finnes ikke et riktig antall minutter. Sikt på korte, felles økter som én del av en hel dag som også inneholder bevegelse, musikk, husarbeid, samtale og tid ute. Fordi travle kvelder kan øke kveldsuro, bør du vurdere å holde skjermaktiviteter til tidligere på dagen. Se [rolige aktiviteter på ettermiddagen](/caregiving/late-day-restlessness/).
 
-Using a tablet together, rather than as a babysitter, keeps it social. Our guide to [playing games together](/caregiving/how-to-play-together/) explains how.
+Å bruke et nettbrett sammen, og ikke som en barnepassvakt, gjør det sosialt. Vår veiledning om [å spille spill sammen](/caregiving/how-to-play-together/) forklarer hvordan.
 
-## How do I protect their privacy on the device?
+## Hvordan beskytter jeg personvernet på enheten?
 
-Limit what apps can collect, and do not assume health privacy law covers it. The U.S. Department of Health and Human Services (HHS) [explains](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) that the HIPAA Rules generally do not protect health information stored on or accessed through personal phones and tablets. In most cases, HIPAA also does not protect data entered into apps for personal use unless the app comes from a covered health care provider, health plan or one of their business associates.
+Begrens hva appene kan samle inn, og ikke anta at helselovgivningen dekker det. Det amerikanske helse- og menneskeserviceдepartementet (HHS) [forklarer](https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html) at HIPAA-reglene som hovedregel ikke beskytter helseopplysninger som lagres på eller brukes gjennom private telefoner og nettbrett. I de fleste tilfeller beskytter HIPAA heller ikke data som legges inn i apper for personlig bruk, med mindre appen kommer fra en autorisert helsetjeneste, helseforsikring eller en av deres forretningspartnere.
 
-HHS suggests:
+HHS anbefaler:
 
-- avoiding unnecessary or random apps, especially "free" ones;
-- not giving apps access to location unless they truly need it, such as maps.
+- å unngå unødvendige eller tilfeldige apper, særlig «gratis» apper;
+- å ikke gi apper tilgang til posisjon med mindre de virkelig trenger det, for eksempel kart.
 
-Also consider:
+Vurder også:
 
-- **Use a passcode** on the device, and keep a note of it somewhere safe.
-- **Review permissions** for photos, camera, microphone, contacts and location, and turn off any an app does not need.
-- **Check what an app collects** before installing. Our guide to [choosing dementia apps and games](/caregiving/choosing-apps-and-games/) has a privacy checklist.
-- **Be careful with family photos.** Only share photos the person would be comfortable with, and know where an app stores them. In [Photo Pairs](/games/photo-pairs/), the photos you choose stay in your browser.
-- **Turn off in-app purchases** or remove payment details from accounts the person uses.
+- **Bruk kode** på enheten, og oppbevar koden et trygt sted.
+- **Gå gjennom tillatelser** for bilder, kamera, mikrofon, kontakter og posisjon, og slå av det appen ikke trenger.
+- **Sjekk hva en app samler inn** før du installerer den. Vår veiledning om [valg av apper og spill for demens](/caregiving/choosing-apps-and-games/) har en personverns-sjekkliste.
+- **Vær forsiktig med familiebilder.** Del bare bilder personen ville være komfortabel med, og vit hvor appen lagrer dem. I [Bildepar](/games/photo-pairs/) blir bildene du velger, i nettleseren din.
+- **Slå av kjøp i appen** eller fjern betalingsopplysninger fra kontoer personen bruker.

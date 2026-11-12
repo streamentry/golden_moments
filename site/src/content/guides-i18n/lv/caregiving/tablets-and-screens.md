@@ -87,7 +87,7 @@ No [Apple Guided Access instrukcijām](https://support.apple.com/en-us/111795):
 2. Sadaļā **Passcode Settings** (Paroles iestatījumi) iestatiet Guided Access kodu. Varat arī atļaut Face ID vai Touch ID.
 3. Pēc izvēles: sadaļā **Display Auto-Lock** (Automātiskā ekrāna bloķēšana) izvēlieties, cik ātri ekrāns bloķējas sesijas laikā, lai tas nenodziest spēles vidū.
 4. Atveriet lietotni, ko vēlaties izmantot.
-5. Trīs reizes nospiediet sānu pogu (iPhone), augšējo pogu (iPad) vai sākuma pogu vecākās ierīcēs.
+5. trīs reizes nospiediet sānu pogu (iPhone), augšējo pogu (iPad) vai sākuma pogu vecākās ierīcēs.
 6. Pēc izvēles: apvelciet ar apli ekrāna daļas, uz kurām nevēlaties reaģēt uz pieskārieniem. Pieskarieties **Options** (vai **Session Settings**), lai izslēgtu skaļuma pogas vai ekrāna pagriešanos.
 7. Pieskarieties **Start** (Sākt).
 
@@ -102,10 +102,10 @@ No [Google Android palīdzības par ekrānu piespraušanu](https://support.googl
 1. Atveriet lietotni **Iestatījumi**.
 2. Pieskarieties **Security** (vai **Security & location**), tad **Advanced**, tad **App pinning**. Ja to nevarat atrast, pārbaudiet sava ierīces ražotāja palīdzības lapas.
 3. Ieslēdziet **App pinning**. Lai to atspraustu, būs nepieciešams jūsu PIN, paraugs vai parole.
-4. Atveriet vajadzīgo lietotni. Pavelciet augšup līdz ekrāna vidum un turiet, lai atvērtu pārskatu (Overview). Ja izmantojat trīs pogu navigāciju, pieskarieties pārskatam.
+4. Atveriet vajadzīgo lietotni. Pavelciet augšup līdz ekrāna vidum un turiet, lai atvērtu pārskatu (Overview). Ja izmantojat 3 pogu navigāciju, pieskarieties pārskatam.
 5. Lietotnes priekšskatījuma augšdaļā pieskarieties lietotnes ikonai un pēc tam pieskarieties **Pin** (Piespraust).
 
-Lai atspraustu ar žestu navigāciju, pavelciet augšup un turiet. Ar trīs pogu navigāciju turiet nospiestu Atpakaļ un Pārskats. Ar divu pogu navigāciju turiet nospiestu Atpakaļ un Sākums. Tad ievadiet savu PIN, paraugu vai paroli.
+Lai atspraustu ar žestu navigāciju, pavelciet augšup un turiet. Ar 3 pogu navigāciju turiet nospiestu Atpakaļ un Pārskats. Ar 2 pogu navigāciju turiet nospiestu Atpakaļ un Sākums. Tad ievadiet savu PIN, paraugu vai paroli.
 
 ## Vai ir vienkāršāks režīms visam iPhone vai iPad?
 

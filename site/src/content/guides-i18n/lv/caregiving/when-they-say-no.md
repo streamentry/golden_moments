@@ -1,34 +1,33 @@
 ---
-title: "When Someone with Dementia Refuses or Gets Frustrated with an Activity"
-seoTitle: "When Someone with Dementia Refuses an Activity"
-description: "Why a person living with dementia may refuse or get upset with an activity, what to try instead, what to avoid, and when a sudden change needs a doctor."
+title: "Kad cilvēks ar demenci atsakās vai kļūst neapmierināts ar aktivitāti"
+seoTitle: "Kad cilvēks ar demenci atsakās no aktivitātes"
+description: "Kāpēc cilvēks ar demenci var atteikties no aktivitātes vai sadusmoties, ko mēģināt citādi, no kā izvairīties un kad pēkšņas izmaiņas prasa ārsta palīdzību."
 section: caregiving
 order: 3
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  When someone with dementia says no, accept it calmly and try again later or
-  offer something different. Refusal often has a reason: the task feels too
-  hard or childish, they are tired, in pain, hungry, or overwhelmed by noise.
-  Do not argue or insist. Simplify, offer two choices, or ask for their help.
-  Sudden or fast-changing behavior, especially after an infection or new
-  medicine, needs a doctor promptly.
+  Kad cilvēks ar demenci saka nē, pieņemiet to mierīgi un mēģiniet vēlāk vai piedāvājiet
+  ko citu. Atteikumam bieži ir iemesls: uzdevums šķiet pārāk grūts vai bērnišķīgs, cilvēks
+  ir noguris, sāp, ir izsalcis vai pārgurdināts no trokšņa. Nestrīdieties un nespiediet.
+  Vienkāršojiet, piedāvājiet divas izvēles vai lūdziet palīdzību. Pēkšņa vai strauji
+  mainīga uzvedība, īpaši pēc infekcijas vai jaunām zālēm, prasa ārsta palīdzību.
 keyPoints:
-  - "A \"no\" is an answer to respect, not a problem to overcome."
-  - "Refusal usually has a cause: too hard, too childish, tired, unwell, uncomfortable, or overwhelmed."
-  - "Back off, wait, and try later, at a different time, or with a simpler version."
-  - "Asking for their help works better than asking them to perform."
-  - "Never argue, insist, quiz or correct. Check yourself for rushing or crowding."
-  - "Sudden or rapidly changing behavior, especially with infection or new medicines, should go to a doctor right away."
+  - "„Nē” ir atbilde, kas jācienī, nevis problēma, kas jāpārvar."
+  - "Atteikumam parasti ir iemesls: pārāk grūti, pārāk bērnišķīgi, noguris, slims vai pārgurdināts."
+  - "Atkāpieties, pagaidiet un mēģiniet vēlāk: citā laikā vai vienkāršākā versijā."
+  - "Palīdzības lūgšana darbojas labāk nekā lūgums kaut ko izpildīt."
+  - "Nekad nestrīdieties, nespiediet, neapjautājiet un nelabojiet. Pārbaudiet sevi, vai nesteidzaties un neuzspiežat."
+  - "Pēkšņa vai strauji mainīga uzvedība, īpaši ar infekciju vai jaunām zālēm, jānodod ārstam nekavējoties."
 faq:
-  - q: "Is it okay to let them skip activities altogether?"
-    a: "Yes, on any given day. Sitting together, listening to music or watching the world go by can be enough. If someone stops enjoying everything over weeks, mention it to their doctor, since low mood, pain or other health problems can be part of the picture."
-  - q: "Why do they refuse things they used to love?"
-    a: "An old hobby can become frustrating when it now takes skills that dementia has made harder, and the person may feel embarrassed. Try a simpler part of the same activity, such as sorting buttons instead of sewing, or looking at garden pictures instead of planting."
-  - q: "Should I try to convince them?"
-    a: "No. Pushing someone to do something dementia has made hard is a known trigger for agitation. Accept the no, change the subject, and offer again later or in a different way."
-  - q: "When is a change in behavior an emergency?"
-    a: "Call 911 if someone is in danger or has signs of a medical emergency. For sudden confusion or behavior that changes quickly over hours or days, especially with fever, infection or a new medicine, contact their doctor right away."
+  - q: "Vai ir labi ļaut izlaist aktivitātes pavisam?"
+    a: "Jā, katru dienu. Kopīga sēdēšana, mūzikas klausīšanās vai vērošana, kā pasaule rit, var būt pietiekami. Ja cilvēks nedēļām ilgi vairs neiepriecājas ne par ko, pieminiet to ārstam, jo zems garastāvoklis, sāpes vai citas veselības problēmas var būt daļa no ainas."
+  - q: "Kāpēc viņi atsakās no lietām, kuras agrāk mīlēja?"
+    a: "Iecienīts hobijs var kļūt par vilšanās avotu, ja tagad prasa prasmes, ko demence ir apgrūtinājusi, un cilvēks var justies apmulsis. Mēģiniet vienkāršāku daļu no tās pašas aktivitātes, piemēram, pogu kārtošanu šūšanas vietā vai dārza fotogrāfiju skatīšanos dārza darba vietā."
+  - q: "Vai man vajadzētu mēģināt pārliecināt?"
+    a: "Nē. Spiešana darīt to, ko demence ir padarījusi grūtu, ir zināms uzbudinājuma izraisītājs. Pieņemiet nē, mainiet tematu un piedāvājiet vēlreiz vēlāk vai citādi."
+  - q: "Kad uzvedības maiņa ir ārkārtas gadījums?"
+    a: "Zvaniet vietējiem ārkārtas dienestiem, ja kāds ir apdraudēts vai ir medicīniskas ārkārtas pazīmes. Pēkšņam apjukumam vai uzvedībai, kas strauji mainās stundu vai dienu laikā, īpaši ar drudzi, infekciju vai jaunām zālēm, nekavējoties sazinieties ar ārstu."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -50,87 +49,87 @@ related: [caregiving/how-to-play-together, caregiving/communication-tips, caregi
 health: false
 ---
 
-You set everything up, offer a game or a walk, and hear "No." Or the activity starts well and ends with a pushed-away tablet and a sharp word. It is discouraging, and it is very common. Refusal and frustration are usually a message, not stubbornness. Working out what the message is often shows you what to try next.
+Jūs sagatavojat visu, piedāvājat spēli vai pastaigu un dzirdat „Nē”. Vai aktivitāte sākas labi un beidzas ar atgrūstu planšeti un asu vārdu. Tas ir vilsinoši un ļoti bieži. Atteikums un neapmierinātība parasti ir ziņojums, nevis stūrgalvība. Izdomājot, ko šis ziņojums nozīmē, bieži redzat, ko izmēģināt tālāk.
 
-## Why does someone with dementia refuse activities?
+## Kāpēc cilvēks ar demenci atsakās no aktivitātēm?
 
-Usually there is a reason, even if the person cannot put it into words. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) notes that resistance may mean the person cannot do the task or is afraid to try. Common causes include:
+Parasti ir iemesls, pat ja cilvēks to nevar izteikt vārdos. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) norāda, ka pretestība var nozīmēt, ka cilvēks nevar veikt uzdevumu vai baidās to mēģināt. Biežākie cēloņi:
 
-- **It feels too hard.** The activity now needs skills dementia has made difficult, and failing in front of someone is embarrassing.
-- **It feels childish.** Adults notice cartoonish pictures, sing-song voices and activities that look like they were made for kids.
-- **Tiredness.** Many people have less energy later in the day. See [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-- **Physical discomfort.** The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) lists pain, lack of sleep, trouble seeing or hearing, constipation, hunger, thirst and side effects of new medicines as possible causes of distress.
-- **Too much going on.** A loud TV, several conversations or a crowded room can be overwhelming.
-- **Feeling pushed.** The NIA names being pushed to do something that Alzheimer's has made very hard, or to remember events or people, as a cause of agitation.
-- **Low mood.** Losing interest in things can be a sign of depression, which is worth raising with a doctor.
-- **They simply don't want to.** Adults are allowed to say no.
+- **Šķiet pārāk grūti.** Aktivitāte tagad prasa prasmes, ko demence ir apgrūtinājusi, un neveiksme citu cilvēku priekšā ir apkaunojoša.
+- **Šķiet bērnišķīgi.** Pieaugušie pamana multfilmu stila attēlus, bērnišķīgu balsi un aktivitātes, kas šķiet domātas bērniem.
+- **Nogurums.** Daudziem vēlāk dienā ir mazāk enerģijas. Skatiet [mierīgās aktivitātes vēlā pēcpusdienā](/caregiving/late-day-restlessness/).
+- **Fiziskais diskomforts.** [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/alzheimers-caregiving-managing-personality-and) min sāpes, miega trūkumu, grūtības redzēt vai dzirdēt, aizcietējumu, izsalkumu, slāpes un jaunu zāļu blakusparādības kā iespējamus stresa cēloņus.
+- **Pārāk daudz notiek.** Skaļš televizors, vairākas sarunas vai pārpildīta istaba var būt pārslogojoša.
+- **Spiešana.** NIA kā uzbudinājuma cēloni min to, ka cilvēku spiež darīt to, ko Alcheimera slimība ir padarījusi ļoti grūtu, vai atcerēties notikumus vai cilvēkus.
+- **Zems garastāvoklis.** Interešu zaudēšana var liecināt par depresiju, par ko vērts runāt ar ārstu.
+- **Viņi vienkārši negrib.** Pieaugušajiem ir tiesības teikt nē.
 
-## What should I try when they say no?
+## Ko mēģināt, kad viņi saka nē?
 
-Accept the no calmly, then change something: the time, the activity, the difficulty or the way you ask.
+Mierīgi pieņemiet nē, tad kaut ko mainiet: laiku, aktivitāti, grūtības pakāpi vai to, kā jautājat.
 
-1. **Let it go for now.** "That's fine. Maybe later." Then move on to something else without a sigh.
-2. **Try again later.** The Alzheimer's Association suggests trying again later, or at a different time of day.
-3. **Make it smaller.** One match instead of a whole game. One towel instead of the laundry basket. Fewer pictures, fewer choices, pictures left visible.
-4. **Offer two options.** "Would you like to look at the bird pictures or listen to some music?" A choice gives back a sense of control.
-5. **Ask for help instead of performance.** "Could you help me sort these?" or "Can you tell me which color looks best?" Being needed feels very different from being tested.
-6. **Start it yourself.** Begin the activity beside them without asking. Many people join in once something is already happening, and if they do not, you have still spent time together.
-7. **Switch to something physical or soothing.** A short walk, music, a snack, folding laundry, or a shared [calm breathing](/games/calm-breathing/) pause. The NIA suggests redirecting attention to music, a book or a walk.
-8. **Let them do it their way.** If they want to play differently than the rules say, go with it. The Alzheimer's Association advises being flexible.
+1. **Pagaidām atlaidiet.** „Tas ir labi. Varbūt vēlāk.” Tad pārejiet uz kaut ko citu bez nopūtas.
+2. **Mēģiniet vēlāk.** Alzheimer's Association iesaka mēģināt vēlreiz vēlāk vai citā dienas laikā.
+3. **Padariet mazāku.** Viena spēles kārta, nevis viss spēles komplekts. Viens dvielis, nevis viss veļas grozs. Mazāk attēlu, mazāk izvēļu, attēli paliek redzami.
+4. **Piedāvājiet divas iespējas.** „Vai vēlaties apskatīt putnu attēlus vai klausīties mūziku?” Izvēle atdod sajūtu, ka cilvēks pats vada.
+5. **Lūdziet palīdzību, nevis sniegumu.** „Vai varat man palīdzēt to sakārtot?” vai „Kura krāsa, jūsuprāt, izskatās labākā?” Būt vajadzīgam ir pavisam kas cits nekā tikt pārbaudītam.
+6. **Sāciet pats.** Sāciet aktivitāti blakus viņam, neprasot. Daudzi pievienojas, kad kaut kas jau notiek, un, ja nepievienojas, jūs joprojām esat pavadījis laiku kopā.
+7. **Pārslēdzieties uz kaut ko fizisku vai nomierinošu.** Īsa pastaiga, mūzika, uzkoda, veļas salocīšana vai kopīga [mierīgās elpošanas](/games/calm-breathing/) pauze. NIA iesaka novirzīt uzmanību uz mūziku, grāmatu vai pastaigu.
+8. **Ļaujiet darīt pa savam.** Ja viņš vēlas spēlēt citādi nekā noteikumi, piekrītiet. Alzheimer's Association iesaka būt elastīgam.
 
-## What should I say when they get frustrated?
+## Ko teikt, kad viņi kļūst neapmierināti?
 
-Slow down, lower your voice and reassure. The [Alzheimer's Association guidance on agitation](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) suggests backing off and asking permission, using calm, positive statements, and offering a guided choice between two options. Phrases in that spirit:
+Palēniniet tempu, pazeminiet balsi un nomierinieties. [Alzheimer's Association norādījumi par uzbudinājumu](https://www.alz.org/help-support/caregiving/stages-behaviors/anxiety-agitation) iesaka atkāpties un lūgt atļauju, izmantot mierīgus, pozitīvus apgalvojumus un piedāvāt izvēli starp divām iespējām. Frāzes šajā garā:
 
-- "I'm sorry, this one is annoying. Let's stop."
-- "You're doing fine. I'm right here."
-- "Do you have time to help me with something else?"
-- "Shall we have a cup of tea instead?"
+- „Atvainojiet, šī ir kaitinoša. Apstāsimies.”
+- „Jums iet labi. Es esmu tepat.”
+- „Vai jums ir laiks man palīdzēt ar kaut ko citu?”
+- „Vai dzersim tēju?”
 
-Then end the activity without making it a big deal. Our [communication tips](/caregiving/communication-tips/) have more on what to say.
+Pēc tam beidziet aktivitāti bez liela notikuma. Mūsu [saziņas padomi](/caregiving/communication-tips/) sniedz vairāk par to, ko teikt.
 
-## What should I avoid?
+## No kā izvairīties?
 
-Some natural reactions tend to make things worse.
+Daži dabiski reaģējumi var lietas pasliktināt.
 
-- **Arguing or insisting.** "Come on, just one more" or "You love this" rarely helps.
-- **Quizzing or correcting.** "You know what this is" or "No, that one's wrong" adds pressure.
-- **Taking it personally.** The NIA reminds caregivers that the disease, not the person, causes these changes.
-- **Crowding or rushing.** The Alzheimer's Association advises not to raise your voice, show alarm, corner, crowd, restrain, criticize, ignore or argue with the person, and to avoid sudden movements out of their view.
-- **Using guilt.** "I set all this up for you" leaves both of you feeling worse.
-- **Labeling.** "Stubborn" or "difficult" hides the real reason and makes it harder to solve.
+- **Strīdēties vai spiest.** „Nu, vēl vienu” vai „Tev tas patīk” reti palīdz.
+- **Pārbaudīt vai labot.** „Tu zini, kas tas ir” vai „Nē, tas ir nepareizi” rada spiedienu.
+- **Uztvert personiski.** NIA atgādina aprūpētājiem, ka šīs izmaiņas izraisa slimība, nevis cilvēks.
+- **Spiest vai steigties.** Alzheimer's Association iesaka nepaaugstināt balsi, neizrādīt satraukumu, nespiest kaktā, neierobežot, nekritizēt, neignorēt un nestrīdēties ar cilvēku, kā arī izvairīties no straujām kustībām ārpus viņa redzeslauka.
+- **Izmantot vainu.** „Es visu šo sagatavoju tev” liek abiem justies sliktāk.
+- **Iezīmēt.** „Stūrgalvīgs” vai „grūts” paslēpj īsto iemeslu un padara risinājumu grūtāku.
 
-## How can I find out what is behind repeated refusals?
+## Kā noskaidrot, kas slēpjas aiz atkārtotiem atteikumiem?
 
-Keep a simple note for a week or two. The NIA says tracking behavior changes can help caregivers and health care providers recognize a pattern and work out the cause.
+Pierakstiet vienkāršu piezīmi nedēļu vai divas. NIA norāda, ka uzvedības izmaiņu uzskaite var palīdzēt aprūpētājiem un veselības aprūpes speciālistiem pamanīt modeli un noskaidrot cēloni.
 
-Jot down:
+Pierakstiet:
 
-- the time of day;
-- what you offered and how you asked;
-- what was happening around you (noise, visitors, TV);
-- how they slept, ate and drank, and when they last used the bathroom;
-- any new medicines or recent illness.
+- dienas laiku;
+- ko piedāvājāt un kā jautājāt;
+- kas notika apkārt (troksnis, apmeklētāji, televizors);
+- kā viņš gulēja, ēda un dzēra un kad pēdējo reizi lietoja tualeti;
+- jaunas zāles vai nesenu slimību.
 
-Patterns often appear quickly: refusals that only happen after 4 p.m., only with a certain game, or only when the TV is on. The Family Caregiver Alliance's [guide to dementia behaviors](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) puts it simply: we cannot change the person, but we can change our own behavior and the environment.
+Modeļi bieži parādās ātri: atteikumi, kas notiek tikai pēc plkst. 4 pēcpusdienā, tikai ar noteiktu spēli vai tikai tad, kad ieslēgts televizors. [Family Caregiver Alliance ceļvedis par demences uzvedību](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) to saka vienkārši: mēs nevaram mainīt cilvēku, bet varam mainīt savu uzvedību un vidi.
 
-## When should I talk to a doctor about refusal or frustration?
+## Kad vērsties pie ārsta par atteikumu vai neapmierinātību?
 
-Talk to a doctor when behavior changes suddenly, quickly, or along with signs of illness. The NIA says sudden or rapidly fluctuating changes in behavior, especially if the person has had an infection or recent medication changes, should be brought to a doctor's attention immediately.
+Runājiet ar ārstu, kad uzvedība mainās pēkšņi, strauji vai kopā ar slimības pazīmēm. NIA norāda, ka pēkšņas vai strauji mainīgas uzvedības izmaiņas, īpaši, ja cilvēkam ir bijusi infekcija vai nesenas zāļu izmaiņas, nekavējoties jānodod ārsta uzmanībai.
 
-Contact their doctor promptly if you notice:
+Sazinieties ar ārstu nekavējoties, ja pamanāt:
 
-- sudden confusion or a big change over hours or days;
-- signs of pain, such as wincing, guarding part of the body, or new trouble moving;
-- fever or other signs of an infection;
-- new or changed medicines followed by a change in behavior;
-- loss of interest in almost everything, tearfulness or withdrawal lasting more than a couple of weeks;
-- refusing food or drink.
+- pēkšņu apjukumu vai lielas izmaiņas stundu vai dienu laikā;
+- sāpju pazīmes, piemēram, sarauties, sargāt kādu ķermeņa daļu vai jaunas grūtības kustēties;
+- drudzi vai citas infekcijas pazīmes;
+- jaunas vai mainītas zāles, kam seko uzvedības izmaiņas;
+- gandrīz visu interešu zaudēšanu, asaras vai atsvešināšanos, kas ilgst vairāk nekā pāris nedēļas;
+- atteikšanos no ēdiena vai dzēriena.
 
-The Alzheimer's Association recommends a thorough medical checkup for anyone with behavioral symptoms, especially when they appear suddenly. The Family Caregiver Alliance also advises checking with the doctor first, because behavior problems may have a medical cause. Do not start, stop or change any medicine without talking to a doctor or pharmacist.
+Alzheimer's Association iesaka rūpīgu medicīnisku pārbaudi ikvienam ar uzvedības simptomiem, īpaši, ja tie parādās pēkšņi. Family Caregiver Alliance arī iesaka vispirms pārbaudīties pie ārsta, jo uzvedības problēmām var būt medicīnisks cēlonis. Nesāciet, neapturiet un nemainiet nekādas zāles bez konsultācijas ar ārstu vai farmaceitu.
 
-If anyone is in danger or there are signs of a medical emergency, call 911. The NIA suggests telling the dispatcher that the person has dementia.
+Ja kāds ir apdraudēts vai ir medicīniskas ārkārtas pazīmes, zvaniet vietējiem ārkārtas dienestiem. NIA iesaka pastāstīt dispečeram, ka cilvēkam ir demence. Tūlītējiem drošības soļiem, kad dusmas kļūst fiziskas, skatiet mūsu [ceļvedi par dusmām un agresiju demencē](/caregiving/when-anger-becomes-aggression-with-dementia/).
 
-## Is it okay if we do nothing at all?
+## Vai ir labi, ja nedarām neko?
 
-Yes. Some days the best activity is no activity: sitting together, holding hands, listening to a favorite record, or watching birds out the window. That is not a failure. Our [guide to playing together](/caregiving/how-to-play-together/) explains why stopping early, or never starting, can be the right call.
+Jā. Dažas dienas labākā aktivitāte ir nekāda aktivitāte: kopā sēdēšana, roku turēšana, iecienīta skaņuplates klausīšanās vai putnu vērošana pa logu. Tas nav neveiksme. Mūsu [ceļvedis par kopīgu spēlēšanu](/caregiving/how-to-play-together/) izskaidro, kāpēc agrīna apstāšanās vai nekad nesākšana var būt pareizs lēmums.
