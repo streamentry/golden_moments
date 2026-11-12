@@ -1,32 +1,33 @@
 ---
-title: "Outdoor and Gardening Activities for People with Dementia"
-seoTitle: "Gardening and Outdoor Activities for Dementia"
-description: "Gardening and outdoor activity ideas for people living with dementia, with raised beds, container gardens, and safety tips for heat, sun and wandering."
+title: "Aktivitete në natyrë dhe kopshtari për personat me demencë"
+seoTitle: "Kopshtari dhe aktivitete në natyrë për demencën"
+description: "Ide kopshtarie dhe aktivitetesh në natyrë për personat me demencë, me tavolina të ngritura dhe këshilla për nxehtësinë, diellin dhe endjen."
 section: activities
 order: 10
-updated: 2026-10-25
-translatedFrom: 2026-10-25
+updated: 2026-11-11
+translatedFrom: 2026-11-11
 summary: >-
-  Gardening and time outdoors can be a calm, familiar activity for a person
-  living with dementia. Try watering, potting herbs, deadheading flowers or a
-  short walk in a fenced yard. Use raised beds or a table so no one has to
-  kneel, avoid sharp tools and toxic plants, go out in the cooler part of the
-  day, and always stay with the person.
+  Kopshtaria dhe koha jashtë mund të jenë një aktivitet i qetë dhe i njohur për
+  personin që jeton me demencë. Provoni ujitjen, mbjelljen e bimëve aromatike,
+  heqjen e luleve të thara ose një shëtitje të shkurtër në një oborr të rrethuar.
+  Përdorni shtretërit e ngritur ose një tryezë, që askush të mos ketë nevojë të
+  ulet në gjunjë, shmangni mjetet e mprehta dhe bimët helmuese, dilni në pjesën
+  më të freskët të ditës dhe qëndroni gjithmonë me personin.
 keyPoints:
-  - "Simple garden tasks such as watering, potting seeds, smelling herbs and picking flowers can be done standing or seated."
-  - "Raised beds, containers and a covered table bring the garden to waist height and lower the risk of falls."
-  - "Avoid sharp tools, thorny or irritating plants, and anything poisonous. Watch that soil is not mistaken for food."
-  - "Heat can be dangerous for older adults. Go out early or late, bring water and shade, and come inside at the first sign of discomfort."
-  - "Many people living with dementia wander at some point. Stay with the person outdoors and keep a recent photo and ID on hand."
+  - "Detyra të thjeshta kopshtari si ujitja, mbjellja e farërave, erëzimi i bimëve aromatike dhe mbledhja e luleve mund të bëhen në këmbë ose ulur."
+  - "Shtretërit e ngritur, vazot dhe një tryezë e mbuluar e sjellin kopshtin në lartësinë e belit dhe ulin rrezikun e rënieve."
+  - "Shmangni mjetet e mprehta, bimët me gjemba ose irrituese dhe çdo gjë helmuese. Kini kujdes që dheu të mos ngatërrohet me ushqim."
+  - "Nxehtësia mund të jetë e rrezikshme për të rriturit më të moshuar. Dilni herët ose vonë, merrni ujë dhe hije, dhe hyni brenda në shenjën e parë të shqetësimit."
+  - "Shumë njerëz me demencë endën në një moment. Qëndroni me personin jashtë dhe mbani pranë një foto të re dhe një identifikim."
 faq:
-  - q: "What gardening activities can a person with dementia do?"
-    a: "Watering plants, planting seeds in small pots, smelling and touching herbs, deadheading flowers, picking vegetables, arranging cut flowers and sweeping a path are all good choices. Indoors, a windowsill herb pot or a tray of soil on a covered table works well. Choose the task by what the person enjoyed before and can comfortably do now."
-  - q: "How do I keep someone with dementia safe in the heat?"
-    a: "Plan outdoor time for the cooler early morning or evening, keep it short, and offer water often. Choose shade, a wide-brimmed hat, light loose clothing and sunscreen. Older adults are at higher risk of heat illness, and confusion, dizziness or nausea can be warning signs, so go inside and cool down right away if you notice them."
-  - q: "How can we go outside if they tend to wander?"
-    a: "Stay with the person the whole time, use a fenced yard or garden with a latched gate, and make sure they wear an ID bracelet or carry ID. Keep a recent photo on hand. If the person goes missing, the Alzheimer's Association advises calling 911 if they are not found within 15 minutes."
-  - q: "What if we don't have a garden?"
-    a: "A few pots on a porch, a window box, or a tray of herbs on the kitchen table is enough. You can also visit a park, a public garden or a community garden. Sitting outside and listening to birds counts as an outdoor activity too."
+  - q: "Çfarë aktivitetesh kopshtarie mund të bëjë një person me demencë?"
+    a: "Ujitja e bimëve, mbjellja e farërave në vazo të vogla, erëzimi dhe prekja e bimëve aromatike, heqja e luleve të thara, mbledhja e perimeve, renditja e luleve të prera dhe pastrimi i një shtegu me fshesë janë zgjedhje të mira. Brenda, një vazo me erëza në parvaz ose një tabaka me dhe mbi një tryezë të mbuluar funksionon mirë. Zgjidhni detyrën sipas asaj që personi e donte më parë dhe mund ta bëjë rehat tani."
+  - q: "Si e mbaj të sigurt personin me demencë në nxehtësi?"
+    a: "Planifikoni kohën jashtë për mëngjesin e freskët ose mbrëmjen, mbajeni të shkurtër dhe ofroni ujë shpesh. Zgjidhni hije, një kapelë me strehë të gjerë, rroba të lehta dhe të lirshme dhe krem me diell. Të rriturit më të moshuar janë në rrezik më të lartë nga sëmundja e nxehtësisë, dhe konfuzioni, marramendja ose të përziera mund të jenë shenja paralajmëruese, kështu që hyni brenda dhe ftohuni menjëherë nëse vini re ndonjë prej tyre."
+  - q: "Si mund të dalim jashtë nëse ka tendencë për t'u endur?"
+    a: "Qëndroni me personin gjatë gjithë kohës, përdorni një oborr ose kopsht të rrethuar me portë të mbyllur me bravë, dhe sigurohuni që të mbajë një byzylyk ose kartë identifikimi. Mbani pranë një foto të re. Nëse personi zhduket, kontaktoni menjëherë policinë lokale ose shërbimet e emergjencës; mos prisni një numër të caktuar minutash. Tregoni personelit përgjegjës që personi ka demencë, ku u pa për herë të fundit, dhe jepni një foto të re."
+  - q: "Çfarë nëse nuk kemi kopsht?"
+    a: "Disa vazo në verandë, një kuti dritareje ose një tabaka me bimë aromatike në tryezën e kuzhinës mjaftojnë. Mund të vizitoni gjithashtu një park, një kopsht publik ose një kopsht komunitar. Të uleni jashtë dhe të dëgjoni zogjtë është gjithashtu një aktivitet në natyrë."
 sources:
   - title: "Dementia-Friendly Gardening Ideas"
     publisher: "Alzheimer's Foundation of America"
@@ -43,6 +44,9 @@ sources:
   - title: "Wandering"
     publisher: "Alzheimer's Association"
     url: "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  - title: "Living in a Cruel Limbo: A Guide to Investigating Cold Missing Person Cases"
+    publisher: "U.S. Department of Justice"
+    url: "https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline="
   - title: "Activities for dementia"
     publisher: "NHS"
     url: "https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/"
@@ -51,103 +55,103 @@ related: [activities/sensory, activities/household-tasks, activities/for-men, ac
 health: false
 ---
 
-For many people, the garden is one of the most familiar places they know. Digging, watering and picking flowers use skills learned long ago, and being outside brings fresh air, sunlight and birdsong. The National Institute on Aging lists caring for plants, planting flowers and vegetables, and [talking about how the plants are growing](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) among activities people with Alzheimer's may enjoy. This page covers what to try, how to make a garden easier to use, and how to stay safe with heat, sun and wandering.
+Për shumë njerëz, kopshti është një nga vendet më të njohura që dinë. Gërmimi, ujitja dhe mbledhja e luleve përdorin aftësi të mësuara shumë kohë më parë, dhe të qenit jashtë sjell ajër të fresk, diell dhe cicërima zogjsh. National Institute on Aging e radhit kujdesin për bimët, mbjelljen e luleve dhe perimeve, dhe [të folurit për mënyrën se si rriten bimët](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) midis aktiviteteve që personat me Alzheimer mund t'i gëzojnë. Kjo faqe mbulon çfarë të provoni, si ta bëni kopshtin më të lehtë për t'u përdorur, dhe si të qëndroni të sigurt me nxehtësinë, diellin dhe endjen.
 
-## What outdoor and gardening activities work well?
+## Cilat aktivitete jashtë dhe kopshtarie funksionojnë mirë?
 
-The best tasks are simple, familiar and can be done standing or sitting. Pick based on what the person used to enjoy.
+Detyrat më të mira janë të thjeshta, të njohura dhe mund të bëhen në këmbë ose ulur. Zgjidhni sipas asaj që personi e pëlqente më parë.
 
-### In the garden
+### Në kopsht
 
-1. **Watering.** A small, light watering can or a gentle hose nozzle and a few pots in reach. Watering has a clear start and finish and is hard to get wrong.
-2. **Planting seeds in pots.** The Alzheimer's Foundation of America suggests planting seeds in small pots and [watching them grow](https://alzfdn.org/dementia-activity-gardening/). Large seeds like beans, sunflowers or peas are easier to handle.
-3. **Deadheading flowers.** Pinching off faded blooms by hand is a gentle, repetitive task. Choose plants without thorns.
-4. **Picking vegetables or herbs.** Cherry tomatoes, beans and herbs are easy to pick and nice to taste. Bring them inside to use at lunch.
-5. **Smelling and touching herbs.** Rosemary, mint and lavender have strong, pleasant scents. Rub a leaf between your fingers and pass it over.
-6. **Sweeping a path or patio.** A light broom on a flat, dry surface, if balance is steady.
-7. **Filling a bird feeder.** Then sit together and watch who comes to visit.
+1. **Ujitje.** Një kanaçe e vogël uji e lehtë ose një nozzle e butë me gomë dhe disa vazo brenda arritjes. Ujitja ka fillim dhe fund të qartë dhe është e vështirë ta bësh gabim.
+2. **Mbjellja e farërave në vazo.** Alzheimer's Foundation of America sugjeron të mbillni fara në vazo të vogla dhe [të shikoni si rriten](https://alzfdn.org/dementia-activity-gardening/). Farërat e mëdha si fasulet, lulediellet ose bizelet janë më të lehta për t'u trajtuar.
+3. **Heqja e luleve të thata.** Shkëputja me dorë e lulëzimeve të zbehura është një detyrë e butë dhe e përsëritur. Zgjidhni bimë pa gjemba.
+4. **Mbledhja e perimeve ose erëzave.** Domatet si qershi, fasulet dhe erëzat janë të lehta për t'u mbledhur dhe të shijshme. Sillni brenda për t'i përdorur në drekë.
+5. **Erëzimi dhe prekja e erëzave.** Rozmarina, menta dhe livandra kanë aroma të forta dhe të këndshme. Fërkoni një gjethe midis gishtave dhe kaloni pranë hundës.
+6. **Pastrimi i një shtegu ose tarace.** Një fshesë e lehtë mbi një sipërfaqe të sheshtë dhe të thatë, nëse ekuilibri është i qëndrueshëm.
+7. **Mbushja e ushqyesit për zogj.** Pastaj uluni bashkë dhe shikoni kush vjen për vizitë.
 
-### Indoors, when going out is not possible
+### Brenda, kur dalja nuk është e mundur
 
-- **A windowsill herb garden** of basil, parsley or chives.
-- **Potting on a covered table.** The AFA suggests using cafeteria-style trays to keep soil in one place and moving soil with small cups.
-- **Flower arranging** with cut flowers and greens from the yard or a grocery store.
-- **Pressed flowers** from a bouquet, later glued onto cards. See [arts and crafts](/activities/arts-and-crafts/) for more.
-- **Making lavender or rose sachets**, another AFA idea that keeps the garden's scent indoors.
+- **Një kopsht erëzash në parvaz**, me borzilok, majdanoz ose kopër.
+- **Mbjellje në një tryezë të mbuluar.** AFA sugjeron përdorimin e tabakave si në kafeteri për të mbajtur dheun në një vend, dhe lëvizjen e dheut me filxhanë të vegjël.
+- **Renditje lulesh** me lule të prera dhe gjelbërim nga oborri ose nga një dyqan ushqimor.
+- **Lule të shtypura** nga një buqetë, që më vonë ngjiten mbi kartolina. Shihni [artet dhe zanatet](/activities/arts-and-crafts/) për më shumë.
+- **Qese me livandër ose trëndafil**, një ide tjetër e AFA që e mban aromën e kopshtit brenda.
 
-### Getting out and about
+### Dalja dhe udhëtimi
 
-- **A short walk** around the block, a park or a garden center, at a slow pace with a place to sit.
-- **Sitting outside** on a porch or bench to listen to birds and feel the breeze. This is a complete activity on its own.
-- **Visiting a public garden** during a quiet time of day. The NHS notes that some places have sensory gardens with scented plants, textures and water features.
-- **Feeding ducks or watching birds** at a local pond, keeping a safe distance from the water's edge.
+- **Një shëtitje e shkurtër** rreth bllokut, në një park ose në një qendër kopshtarie, me ritëm të ngadaltë dhe me një vend për t'u ulur.
+- **Ulja jashtë** në verandë ose në stol për të dëgjuar zogjtë dhe për të ndjerë freskinë. Kjo është një aktivitet i plotë në vetvete.
+- **Vizita në një kopsht publik** gjatë një kohe të qetë të ditës. NHS vëren se disa vende kanë kopshte shqisore me bimë aromatike, tekstura dhe burime uji.
+- **Ushqimi i rosave ose vrojtimi i zogjve** në një pellg lokal, duke mbajtur distancë të sigurt nga buza e ujit.
 
-## How do I make a garden easier to use?
+## Si e bëj kopshtin më të lehtë për t'u përdorur?
 
-Bring the garden up to the person, not the other way around.
+Sillni kopshtin afër personit, jo anasjelltas.
 
-- **Raised beds or tall planters** at about waist height mean no kneeling or bending.
-- **Containers on a table** work for people who use a wheelchair or prefer to sit.
-- **Wide, level paths** with no loose stones or hoses lying across them lower the risk of trips.
-- **Seats with arms and shade** along the way, so resting is always an option.
-- **Tools with thick, soft handles** that are easy to grip. Skip pruners, knives and anything sharp.
-- **A fenced area with a latched gate** that the person can explore freely while you stay nearby.
+- **Shtretër të ngritur ose vazo të larta** në lartësi të belit, që të mos ketë nevojë për gjunjëzim ose përkulje.
+- **Vazo mbi një tryezë** funksionojnë për personat që përdorin karrige me rrota ose preferojnë të ulen.
+- **Shtigje të gjera dhe të sheshta** pa gurë të lirë ose tuba uji të shtrirë mbi to, që të ulet rreziku i rënies.
+- **Ulëse me mbështetëse krahësh dhe hije** përgjatë rrugës, që pushimi të jetë gjithmonë një mundësi.
+- **Vegla me doreza të trasha dhe të buta** që kapen lehtë. Hiqni gërshërët, thikat dhe çdo gjë të mprehtë.
+- **Një zonë e rrethuar me portë të mbyllur me bravë**, ku personi mund të eksplorojë lirshëm ndërsa ju qëndroni afër.
 
-## Which plants should I avoid?
+## Cilat bimë duhet të shmangen?
 
-Choose plants that are safe to touch and, ideally, safe if tasted. The AFA advises using plants that do not commonly irritate skin, checking for allergies, and watching closely for anyone who might mistake soil for food. The NIA's home safety advice includes removing or locking away poisonous plants.
+Zgjidhni bimë që janë të sigurta për t'u prekur dhe, idealisht, të sigurta nëse shijohen. AFA këshillon përdorimin e bimëve që zakonisht nuk irritojnë lëkurën, kontrollimin për alergji, dhe vëzhgimin me kujdes të çdo kujt që mund ta ngatërrojë dheun me ushqim. Këshilla e NIA për sigurinë në shtëpi përfshin heqjen ose mbylljen larg të bimëve helmuese.
 
-- Avoid thorny roses, cacti, and plants with sap that irritates skin.
-- Check any plant you are unsure of with a poison control center or a local garden center before planting.
-- Familiar favorites can bring back pleasant feelings. The AFA mentions roses and Christmas cactus as examples. Choose thornless varieties.
-- Keep fertilizers, pesticides and weed killers locked away, and do not use them in areas the person can reach.
+- Shmangni trëndafilat me gjemba, kaktusët dhe bimët me lëng që irrito lëkurën.
+- Kontrolloni çdo bimë për të cilën nuk jeni të sigurt me një qendër kontrolli helmimesh ose me një qendër kopshtarie lokale, përpara se ta mbillni.
+- Lulet e njohura mund të sjellin ndjenja të këndshme. AFA përmend trëndafilat dhe kaktusin e Krishtlindjes si shembuj. Zgjidhni varietete pa gjemba.
+- Mbajini të mbyllura larg pleherat, pesticidet dhe helmet e barërave të këqija, dhe mos i përdorni në zona ku personi mund të arrijë.
 
-## How do I stay safe in the heat and sun?
+## Si qëndroj i sigurt në nxehtësi dhe diell?
 
-Plan outdoor time around the weather. The NIA explains that older adults are at higher risk of [heat-related illness](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), partly because the body adjusts less well to temperature changes and some medicines affect how the body handles heat.
+Planifikoni kohën jashtë sipas motit. NIA shpjegon se të rriturit më të moshuar janë në rrezik më të lartë nga [sëmundja e lidhur me nxehtësinë](https://www.nia.nih.gov/health/safety/hot-weather-safety-older-adults), pjesërisht sepse trupi përshtatet më dobët me ndryshimet e temperaturës dhe disa ilaçe ndikojnë në mënyrën se si trupi përballon nxehtësinë.
 
-- **Go out early or late.** Avoid the middle of the day in warm months. Check the heat index, not just the temperature.
-- **Offer water often.** Do not wait for the person to say they are thirsty. Avoid alcohol and caffeinated drinks in the heat.
-- **Dress for it.** Light-colored, loose clothing, a wide-brimmed hat and sunglasses.
-- **Use sunscreen.** The NIA recommends broad-spectrum SPF 15 or higher, reapplied during the day.
-- **Choose shade.** Set up the potting table under a tree or umbrella.
-- **Keep it short.** A brief stretch outside can be plenty, especially on warm days.
-- **Watch for warning signs.** The NIA lists headache, confusion, dizziness or nausea as possible signs of heat illness. A person with dementia may not tell you they feel unwell, so watch their face and behavior. Go inside, cool down with water and a cool cloth, and get medical help if they do not improve quickly. Heat stroke, with signs such as fainting, confusion, or dry, flushed skin, is a medical emergency: call 911.
+- **Dilni herët ose vonë.** Shmangni mesditën në muajt e ngrohtë. Kontrolloni indeksin e nxehtësisë, jo vetëm temperaturën.
+- **Ofroni ujë shpesh.** Mos prisni që personi të thotë se ka etje. Shmangni alkoolin dhe pijet me kafeinë në nxehtësi.
+- **Vishuni si duhet.** Rroba me ngjyra të çelura dhe të lirshme, një kapelë me strehë të gjerë dhe syze dielli.
+- **Përdorni krem me diell.** NIA rekomandon një krem me spektër të gjerë SPF 15 ose më të lartë, të ripërdorur gjatë ditës.
+- **Zgjidhni hijen.** Vendosni tryezën e vazove nën një pemë ose çadër.
+- **Mbajeni të shkurtër.** Një kohë e shkurtër jashtë mund të mjaftojë, sidomos ditëve të ngrohta.
+- **Vëzhgoni shenjat paralajmëruese.** NIA liston dhimbjen e kokës, konfuzionin, marramendjen ose të përziera si shenja të mundshme të sëmundjes nga nxehtësia. Një person me demencë mund të mos ju thotë që ndihet keq, prandaj vëzhgoni fytyrën dhe sjelljen. Hyni brenda, ftohuni me ujë dhe një leckë të freskët, dhe kërkoni ndihmë mjekësore nëse nuk përmirësohet shpejt. Goditja e nxehtësisë, me shenja si të fikurit, konfuzioni ose lëkura e thatë dhe e skuqur, është një emergjencë mjekësore: telefononi shërbimin e emergjencave në vendin tuaj.
 
-Cold weather matters too. In winter, keep outdoor time short and make sure hands and feet stay warm and dry.
+Moti i ftohtë gjithashtu ka rëndësi. Në dimër, mbani kohën jashtë të shkurtër dhe sigurohuni që duart dhe këmbët të mbeten të ngrohta dhe të thata.
 
-## How do I handle wandering when we go outside?
+## Si e trajtoj endjen kur dalim jashtë?
 
-Stay with the person whenever they are outdoors. The Alzheimer's Association says [six in 10 people living with dementia](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) will wander at least once, and many do so more than once. It can happen at any stage.
+Qëndroni me personin kurdo që është jashtë. Alzheimer's Association thotë se [gjashtë nga dhjetë persona që jetojnë me demencë](https://www.alz.org/help-support/caregiving/stages-behaviors/wandering) do të endën të paktën një herë, dhe shumë e bëjnë këtë më shumë se një herë. Mund të ndodhë në çdo fazë.
 
-The NIA's [tips for wandering and getting lost](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) include:
+Këshillat e NIA për [endjen dhe humbjen e rrugës](https://www.nia.nih.gov/health/alzheimers-changes-behavior-and-communication/wandering-and-alzheimers-disease) përfshijnë:
 
-- Make sure the person wears an ID or medical bracelet with their name, address and your phone number, or label their clothes.
-- Keep a recent photo or video of the person.
-- Let neighbors know the person may wander.
-- Secure the yard with a fence and a locked gate.
-- Do not leave someone with a history of wandering unattended.
+- Sigurohuni që personi të mbajë një identifikim ose byzylyk mjekësor me emrin, adresën dhe numrin tuaj të telefonit, ose vendosni etiketa në rroba.
+- Mbani një foto ose video të re të personit.
+- Njoftoni fqinjët që personi mund të endet.
+- Rrethoni oborrin me gardh dhe portë të mbyllur me bravë.
+- Mos e lini kurrë vetëm dikë me histori endjeje.
 
-The Alzheimer's Association also suggests creating indoor and outdoor areas that can be safely explored, and planning activities for the time of day when restlessness is most likely. A walk in a safe, enclosed garden can be a good fit for late-day restlessness. See our guide to [late-day restlessness](/caregiving/late-day-restlessness/).
+Alzheimer's Association sugjeron gjithashtu krijimin e hapësirave të brendshme dhe të jashtme që mund të eksplorohen në mënyrë të sigurt, dhe planifikimin e aktiviteteve për kohën e ditës kur shqetësimi është më i mundshëm. Një shëtitje në një kopsht të sigurt dhe të rrethuar mund të përshtatet mirë për mërzinë e pasdites. Shihni udhëzuesin tonë për [mërzinë e pasdites](/caregiving/late-day-restlessness/).
 
-If the person does go missing, the Alzheimer's Association advises searching the nearby area right away and calling 911 if they are not found within 15 minutes. Tell the police the person has dementia.
+Nëse personi zhduket, kontrolloni vendet e sigurta afër dhe kontaktoni menjëherë policinë lokale ose shërbimet e emergjencës. Mos prisni një numër të caktuar minutash para se të raportoni. Një [artikull revistë i U.S. Department of Justice mbi hetimet për personat e zhdukur](https://www.justice.gov/usdoj-media/usao/media/1134031/dl?inline=) i vitit 2021 thotë se agjencitë e zbatimit të ligjit nuk duhet të kërkojnë një periudhë pritjeje të caktuar, dhe radhit simptomat e ngjashme me demencën si shqetësim me rrezik të lartë. Procedurat lokale të raportimit ndryshojnë. Tregoni kur dhe ku personi u pa për herë të fundit, çfarë ka veshur dhe jepni një foto të re. Ndiqni udhëzimet e reagimit lokal; mos kërkoni vetë në vende të pasigurta.
 
-## How do I adapt gardening as things change?
+## Si e përshtat kopshtarinë ndërsa ndryshojnë gjërat?
 
-| If this has become hard | Try this instead |
+| Nëse kjo është bërë e vështirë | Provoni këtë në vend |
 | --- | --- |
-| Planting a whole bed | Planting one seed in one pot |
-| Weeding (telling weeds from plants) | Watering, or deadheading obvious faded blooms |
-| Walking around the garden | Sitting at a table with a tray of soil and a plant |
-| Going outside at all | A pot of herbs on the kitchen table, or a seat by an open window |
-| Doing any task | Sitting outside together, listening and looking |
+| Mbjelljen e një shtrati të tërë | Mbjelljen e një farë në një vazo |
+| Heqjen e barërave të këqija (dallimi nga bimët) | Ujitjen, ose heqjen e luleve të thara që duken qartë |
+| Ecjen nëpër kopsht | Uljen në një tryezë me një tabaka dheu dhe një bimë |
+| Daljen jashtë fare | Një vazo me erëza në tryezën e kuzhinës, ose një ulëse afër një dritareje të hapur |
+| Çdo detyrë | Uljen jashtë bashkë, duke dëgjuar dhe shikuar |
 
-Some people prefer to watch you work. The NIA notes that letting a person simply watch is fine if that is what they enjoy.
+Disa njerëz preferojnë t'ju shikojnë ndërsa punoni. NIA thotë se është në rregull të lini personin thjesht të shikojë, nëse kjo është ajo që i pëlqen.
 
-## When should we head inside?
+## Kur duhet të hyjmë brenda?
 
-Go in when the person looks tired, hot, cold, uneasy or ready to be done. A short, pleasant ten minutes is better than a long afternoon that ends in distress. Stopping early is a good outcome.
+Hyni kur personi duket i lodhur, i nxehtë, i ftohtë, i shqetësuar ose gati të përfundojë. Dhjetë minuta të shkurtra dhe të këndshme janë më mirë sesa një pasdite e gjatë që përfundon në shqetësim. Ndalimi herët është një rezultat i mirë.
 
-## Bring the garden indoors on screen
+## Sillni kopshtin brenda në ekran
 
-On rainy days, [Sort Together](/games/sort-together/) has a garden basket for sorting pictures, and [Conversation Cards](/games/conversation-cards/) includes open prompts that can lead to garden stories. If you come in from the heat feeling rushed, [Calm Breathing](/games/calm-breathing/) offers a slow, quiet pause you can share. For more ideas built on touch, smell and sound, see our [sensory activities guide](/activities/sensory/).
+Ditëve me shi, [Rendit së bashku](/games/sort-together/) ka një shportë kopshti për renditjen e figurave, dhe [Kartat e bisedës](/games/conversation-cards/) përfshijnë nxitje të hapura që mund të çojnë te histori kopshti. Nëse hyni nga nxehtësia dhe ndiheni të shtyrë, [Frymëmarrje e qetë](/games/calm-breathing/) ofron një pauzë të ngadaltë dhe të qetë që mund ta ndani. Për më shumë ide të bazuara mbi prekjen, erën dhe zërin, shihni udhëzuesin tonë për [aktivitetet shqisore](/activities/sensory/).
