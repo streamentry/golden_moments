@@ -1,36 +1,34 @@
 ---
-title: "Caregiver Self-Care: Respite, Support and Signs of Burnout"
-seoTitle: "Dementia Caregiver Self-Care: Respite and Support"
-description: "Signs of caregiver burnout, how to find respite and support groups, and free US helplines, including the Alzheimer's Association 24/7 Helpline and Eldercare Locator."
+title: "Самопомоћ неговатеља: одмор, подршка и знаци исцрпљености"
+seoTitle: "Самопомоћ неговатеља код деменције: одмор и подршка"
+description: "Знаци исцрпљености неговатеља, како да нађете одмор и групе подршке и бесплатне телефонске линије у САД, укључујући 24/7 линију Алцхајмер асоцијације и Eldercare Locator."
 section: caregiving
 order: 7
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Caring for someone with dementia is hard, and looking after yourself is part
-  of the job. Watch for warning signs like exhaustion, irritability, poor sleep
-  and pulling away from friends. Ask for specific help, use respite care, and
-  join a support group. Free help in the US includes the Alzheimer's
-  Association 24/7 Helpline at 1-800-272-3900 and the Eldercare Locator at
-  1-800-677-1116.
+  Нега особе с деменцијом је тешка, а брига о себи део је посла. Пазите на упозоравајуће знаке попут
+  исцрпљености, раздражљивости, лошег сна и повлачења од пријатеља. Затражите конкретну помоћ, користите
+  краткотрајну негу и придружите се групи подршке. Бесплатна помоћ у САД укључује 24/7 линију Алцхајмер асоцијације
+  на 1-800-272-3900 и Eldercare Locator на 1-800-677-1116.
 keyPoints:
-  - "Burnout often shows up as exhaustion, irritability, poor sleep, sadness and dropping your own health care."
-  - "Respite care gives you a break, from a few hours to several weeks, at home or in a care setting."
-  - "Ask for help with specific tasks; many people want to help but do not know how."
-  - "The Alzheimer's Association 24/7 Helpline (1-800-272-3900) offers free, confidential support any time."
-  - "The Eldercare Locator (1-800-677-1116) connects you to local services, including your Area Agency on Aging."
-  - "If you feel in crisis, call or text 988. In an emergency, call 911."
+  - "Исцрпљеност најчешће се види кроз умор, раздражљивост, лош сан, тугу и занемаривање сопственог здравља."
+  - "Краткотрајна нега вам даје одмор, од неколико сати до неколико недеља, код куће или у установи за негу."
+  - "Затражите помоћ за конкретне задатке; многи људи желе да помогну, али не знају како."
+  - "24/7 линија Алцхајмер асоцијације (1-800-272-3900) нуди бесплатну, поверљиву подршку у било које време."
+  - "Eldercare Locator (1-800-677-1116) вас повезује с локалним службама, укључујући вашу регионалну агенцију за старије."
+  - "Ако осећате да сте у кризи, позовите или пошаљите поруку на 988. У хитном случају позовите локални број за хитне случајеве."
 faq:
-  - q: "What are the signs of caregiver burnout?"
-    a: "Common signs include feeling exhausted, overwhelmed or anxious, getting angry or impatient easily, trouble sleeping, feeling sad or hopeless, pulling away from friends, frequent headaches or pain, and skipping your own meals, exercise or medical care. If signs like these happen regularly, talk to your doctor."
-  - q: "How do I find respite care near me?"
-    a: "Start with the Eldercare Locator (1-800-677-1116 or eldercare.acl.gov) to reach your local Area Agency on Aging, the ARCH National Respite Locator Service, or the Alzheimer's Association Helpline at 1-800-272-3900. Family, friends and volunteers can also provide respite."
-  - q: "Does Medicare pay for respite care?"
-    a: "For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite care in a hospital or skilled nursing facility, according to the National Institute on Aging. Most private health insurance does not cover respite; Medicaid and some long-term care insurance plans may help."
-  - q: "Is the Alzheimer's Association Helpline really free and available at night?"
-    a: "Yes. The Alzheimer's Association says its Helpline at 1-800-272-3900 is free, confidential and staffed around the clock, 365 days a year, with help available in many languages. Dial 711 for a relay service."
-  - q: "Is it selfish to take a break from caregiving?"
-    a: "No. Rest helps you keep caring, and respite can give the person you care for a change of company and activity too. Many caregivers later say they wish they had asked for help sooner."
+  - q: "Који су знаци исцрпљености неговатеља?"
+    a: "Чести знаци су осећај исцрпљености, преоптерећености или анксиозности, лако љутње или нестрпљења, проблеми са спавањем, осећај тужности или безнађа, повлачење од пријатеља, честе главобоље или бол, и изостављање сопствених оброка, вежбања или медицинске неге. Ако се овакви знаци јављају редовно, разговарајте са својим лекаром."
+  - q: "Како да нађем краткотрајну негу у мом месту?"
+    a: "Почните с Eldercare Locator (1-800-677-1116 или eldercare.acl.gov) да дођете до своје регионалне агенције за старије, ARCH National Respite Locator Service или линије Алцхајмер асоцијације на 1-800-272-3900. Породица, пријатељи и волонтери такође могу пружити краткотрајну негу."
+  - q: "Да ли Medicare плаћа краткотрајну негу?"
+    a: "За особу која прима негу у хоспису, Medicare покрива већи део трошкова до пет узастопних дана краткотрајне неге у болници или установи за квалификовану сестринску негу, према Националном институту за старење. Већина приватног здравственог осигурања не покрива краткотрајну негу; Medicaid и неки плани осигурања дугорочне неге могу помоћи."
+  - q: "Да ли је линија Алцхајмер асоцијације заиста бесплатна и доступна ноћу?"
+    a: "Да. Алцхајмер асоцијација каже да је линија на 1-800-272-3900 бесплатна, поверљива и да ради стално, 365 дана у години, с помоћи на многим језицима. За релејну услугу бирајте 711."
+  - q: "Да ли је себично узети паузу од неговања?"
+    a: "Не. Одмор вам помаже да наставите да бринете, а краткотрајна нега може и особи о којој бринете пружити промену друштва и активности. Многи неговатељи касније кажу да би желели да су раније затражили помоћ."
 sources:
   - title: "Taking Care of Yourself: Tips for Caregivers"
     publisher: "National Institute on Aging"
@@ -67,91 +65,91 @@ related: [caregiving/how-to-play-together, caregiving/late-day-restlessness, car
 health: false
 ---
 
-If you are caring for someone living with dementia, you are probably reading this late, tired, and with a list of things you have not done. That is normal. Caring for yourself is not a luxury or a reward for finishing everything. It is what lets you keep going.
+Ако се бринете о особи која живи с деменцијом, вероватно читате ово касно, уморни, с листом ствари које нисте урадили. То је нормално. Брига о себи није луксуз или награда за завршен посао. То је оно што вам омогућава да наставите.
 
-This page covers the warning signs of burnout, how to get a real break, where to find support, and free US helplines you can call today.
+Ова страница обрађује упозоравајуће знаке исцрпљености, како да заиста одахнете, где да нађете подршку и бесплатне телефонске линије у САД које можете позвати већ данас.
 
-## What are the signs of caregiver burnout?
+## Који су знаци исцрпљености неговатеља?
 
-Burnout often creeps in slowly, so it helps to know your own warning signs. The [National Institute on Aging (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) lists signs of caregiver stress, including:
+Исцрпљеност се често увлачи полако, па вам помаже да знате своје упозоравајуће знаке. [Национални институт за старење (NIA)](https://www.nia.nih.gov/health/caregiving/taking-care-yourself-tips-caregivers) наводи знаке стреса неговатеља, укључујући:
 
-- feeling exhausted, overwhelmed or anxious;
-- becoming easily angered or impatient;
-- feeling lonely or disconnected from others;
-- trouble sleeping, or not getting enough sleep;
-- feeling sad or hopeless, or losing interest in things you used to enjoy;
-- frequent headaches, pain or other physical problems;
-- no time to exercise or make healthy food for yourself;
-- skipping showers or other personal care;
-- misusing alcohol or drugs, including prescription medicines.
+- осећај исцрпљености, преоптерећености или анксиозности;
+- лако љутњу или нестрпљење;
+- осећај усамљености или одвојености од других;
+- проблеме са спавањем или недовољно сна;
+- осећај тужности или безнађа, или губитак интересовања за ствари које сте некада волели;
+- честе главобоље, бол или друге физичке тегобе;
+- недостатак времена за вежбање или за здраву храну за себе;
+- изостављање туширања или друге личне неге;
+- злоупотребу алкохола или дрога, укључујући лекове на рецепт.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) adds signs such as denial about the disease, anger at the person ("he's just being stubborn"), anxiety about the future, trouble concentrating, and health problems taking a toll. It advises talking to your doctor if you have signs like these regularly.
+[Алцхајмер асоцијација](https://www.alz.org/help-support/caregiving/caregiver-health/caregiver-stress) додаје знаке попут порицања болести, љутње на особу („он је једноставно тврдоглав"), анксиозности због будућности, тешкоћа с концентрацијом и здравствених проблема који вас исцрпљују. Саветује да разговарате са својим лекаром ако имате овакве знаке редовно.
 
-The NIA's advice is not to wait until you are completely overwhelmed. Notice your signs early and act on them.
+NIA саветује да не чекате док не будете потпуно преоптерећени. Примећујте своје знаке рано и реагујте на њих.
 
-## What can I do today, in five minutes?
+## Шта могу да урадим данас, за пет минута?
 
-Small breaks count. None of these fix burnout, but they can get you through a hard afternoon.
+Мале паузе се рачунају. Ниједна од њих не лечи исцрпљеност, али вам могу помоћи да прескочите тежак поподневни период.
 
-- **Step outside.** Sit on the porch or walk to the mailbox while the person is safe and settled.
-- **Breathe slowly.** A few slow breaths before you answer a hard question. You can share a [Calm Breathing](/games/calm-breathing/) pause with the person you care for, too.
-- **Drink some water and eat something.** It is easy to forget your own meals.
-- **Text one friend.** Not to ask for anything, just to connect.
-- **Say something kind to yourself.** The NIA's [guide to caring for yourself](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) suggests phrases like "I'm doing the best I can," "I'm not perfect, and that's okay," and "I will enjoy the moments when we can be together in peace."
+- **Изађите напоље.** Седите на тремом или прошетајте до поштанског сандучета док је особа безбедна и смирена.
+- **Дишите полако.** Неколико спорих удисаја пре него што одговорите на тешко питање. Можете и с особом о којој бринете поделити паузу за [мирно дисање](/games/calm-breathing/).
+- **Попијте воду и нешто поједите.** Лако је заборавити сопствене оброке.
+- **Пошаљите поруку једном пријатељу.** Не да бисте нешто тражили, већ само да бисте били у вези.
+- **Кажите себи нешто лепо.** NIA-ев [водич о бризи о себи](https://www.nia.nih.gov/health/alzheimers-caregiving/alzheimers-caregiving-caring-yourself) предлаже фразе попут „Радим најбоље што могу", „Нисам савршен, и то је у реду" и „Уживаћу у тренуцима кад можемо бити заједно у миру".
 
-## What is respite care, and how do I get it?
+## Шта је краткотрајна нега и како да је добијем?
 
-Respite care is short-term care for the person you look after, so you can rest. The NIA's [page on respite care](https://www.nia.nih.gov/health/caregiving/what-respite-care) explains that it can last from a few hours to several weeks and can happen at home, in a health care facility or at an adult day care center.
+Краткотрајна нега је привремена нега за особу о којој се бринете, како бисте ви могли да одахнете. [NIA-ева страница о краткотрајној нези](https://www.nia.nih.gov/health/caregiving/what-respite-care) објашњава да може трајати од неколико сати до неколико недеља и да се може одвијати код куће, у здравственој установи или у центру дневне неге за одрасле.
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/care-options/respite-care) describes common types:
+[Алцхајмер асоцијација](https://www.alz.org/help-support/caregiving/care-options/respite-care) описује уобичајене врсте:
 
-| Type | What it is |
+| Врста | Шта је то |
 | --- | --- |
-| In-home help | A friend, relative, volunteer or paid companion or aide comes to the home |
-| Adult day center | Planned activities such as music and art in a safe group setting; transportation and meals are often offered |
-| Overnight or short stay | A long-term care community cares for the person for a night, a few days or a few weeks |
+| Помоћ у кући | Пријатељ, рођак, волонтер или плаћени пратилац или помоћник долази у кућу |
+| Центар дневне неге | Планиране активности, попут музике и уметности, у безбедном групном окружењу; често се нуди превоз и оброци |
+| Ноћење или краћи боравак | Установа за дугорочну негу брине о особи једну ноћ, неколико дана или неколико недеља |
 
-**Who pays?** According to the NIA, respite from family, friends or volunteers may cost nothing. Professional services charge by the hour or day. For a person receiving hospice care, Medicare covers most of the cost of up to five consecutive days of respite in a hospital or skilled nursing facility. Medicaid may help. Most private health insurance does not cover respite, though some long-term care insurance plans do.
+**Ко плаћа?** Према NIA, краткотрајна нега коју пружају породица, пријатељи или волонтери може бити бесплатна. Професионалне услуге се наплаћују по сату или дану. За особу која прима негу у хоспису, Medicare покрива већи део трошкова до пет узастопних дана неге у болници или установи за квалификовану сестринску негу. Medicaid може помоћи. Већина приватног здравственог осигурања не покрива краткотрајну негу, мада је покривају неки планови осигурања дугорочне неге.
 
-**Tip:** The Alzheimer's Association suggests trying respite providers in a non-emergency situation, so they are ready if you suddenly need help.
+**Савет:** Алцхајмер асоцијација предлаже да пробате пружаоце краткотрајне неге у ситуацији која није хитна, како би били спремни ако вам нагло затреба помоћ.
 
-## Where can I find help near me?
+## Где могу да нађем помоћ у мом месту?
 
-Several free US services can point you to local help.
+Неколико бесплатних служби у САД може вас упутити на локалну помоћ.
 
-- **Alzheimer's Association 24/7 Helpline: 1-800-272-3900.** The [Helpline](https://www.alz.org/help-support/resources/helpline) is free and confidential, staffed around the clock every day of the year, with help in more than 200 languages through bilingual staff or interpreters. Dial 711 for a relay service. You can talk through behavior changes, caregiver stress, respite options, local programs and more, and ask for a longer conversation with a care consultant. Staff do not give medical advice.
-- **Eldercare Locator: 1-800-677-1116.** The [Eldercare Locator](https://eldercare.acl.gov/), a public service of the Administration for Community Living, connects you to services for older adults and their families. You can call, text, chat online or email trained staff, or search by location. It can point you to your local Area Agency on Aging.
-- **ARCH National Respite Locator Service.** The [ARCH respite locator](https://archrespite.org/caregiver-resources/respitelocator/) helps you find respite providers by state, and suggests contacting your State Respite Coalition or Lifespan Respite program first if your state has one. ARCH notes that it does not check providers, so review their experience and background yourself.
+- **24/7 линија Алцхајмер асоцијације: 1-800-272-3900.** [Линија](https://www.alz.org/help-support/resources/helpline) је бесплатна и поверљива, ради стално сваког дана у години, са помоћи на више од 200 језика преко двојезичног особља или тумача. За релејну услугу бирајте 711. Можете разговарати о променама понашања, стресу неговатеља, опцијама краткотрајне неге, локалним програмима и још много тога, и затражити дужи разговор са саветником за негу. Особље не даје медицинске савете.
+- **Eldercare Locator: 1-800-677-1116.** [Eldercare Locator](https://eldercare.acl.gov/), јавна служба Управе за живот у заједници, повезује вас са службама за старије особе и њихове породице. Можете позвати, послати поруку, ћаскати на мрежи или писати обученом особљу, или претражити по месту. Може вас упутити на вашу регионалну агенцију за старије.
+- **ARCH National Respite Locator Service.** [ARCH претраживач неге](https://archrespite.org/caregiver-resources/respitelocator/) помаже вам да пронађете пружаоце краткотрајне неге по држави и предлаже да прво контактирате државну коалицију за краткотрајну негу или програм Lifespan Respite ако га ваша држава има. ARCH напомиње да не проверава пружаоце, па сами проверите њихово искуство и порекло.
 
-## How do I find a support group?
+## Како да нађем групу подршке?
 
-Ask the Helpline or look online for groups near you. The Alzheimer's Association [runs support groups](https://www.alz.org/help-support/community/support-groups) for caregivers and people living with dementia, in person and online, led by trained facilitators. Many locations also offer specialized groups, for example for adult caregivers or for people living with younger-onset or early-stage Alzheimer's. It also hosts ALZConnected, a free online community where caregivers share advice.
+Питајте на линији за помоћ или потражите групе у близини на мрежи. Алцхајмер асоцијација [води групе подршке](https://www.alz.org/help-support/community/support-groups) за неговатеље и особе које живе с деменцијом, уживо и на мрежи, а воде их обучени модератори. Многе локације нуде и специјализоване групе, на пример за одрасле неговатеље или за особе с раном или млађом фазом Алцхајмерове болести. Асоцијација такође води ALZConnected, бесплатну онлајн заједницу у којој неговатељи деле савете.
 
-Support groups can be a place to vent without judgment, pick up practical tips from people who have been there, and feel less alone. If the first group is not a fit, try another.
+Групе подршке могу бити место где можете да се изјадате без осуђивања, добијете практичне савете од људи који су то прошли и осетите се мање усамљено. Ако прва група не одговара, пробајте другу.
 
-## How do I ask family and friends for help?
+## Како да замолим породицу и пријатеље за помоћ?
 
-Be specific. Many people want to help but do not know what to offer. The NIA suggests:
+Будите конкретни. Многи људи желе да помогну, али не знају шта да понуде. NIA предлаже:
 
-- **Keep a list** of tasks others could take on, and let people pick.
-- **Start small** if asking feels hard.
-- **Match the task to the person.** The cousin who loves to cook brings dinner on Thursdays. The neighbor who is good with forms helps with paperwork.
-- **Text or email** if asking face to face is uncomfortable.
-- **Practice a reply** for when someone offers: "Thanks for asking. Here's what you can do."
-- **Expect some no's** and try not to take them personally.
+- **Направите списак** задатака које други могу преузети и нека људи сами изаберу.
+- **Почните с малим** ако вам је тешко да тражите.
+- **Усагласите задатак с особом.** Рођак који воли да кува доноси вечеру четвртком. Комшија који добро разуме папире помаже с администрацијом.
+- **Пишите поруку или имејл** ако вам је непријатно да тражите лично.
+- **Припремите одговор** за кад неко понуди помоћ: „Хвала што питате. Ево шта можете да урадите."
+- **Очекујте понеко „не"** и пробајте то не узимати лично.
 
-Other ideas: ask someone to sit with the person for one afternoon a week, take them on a short outing, or visit and play a game together. Our [guide to playing together](/caregiving/how-to-play-together/) is easy to share with visitors.
+Остале идеје: замолите некога да један поподне недељно проведе с особом, да је одведе на кратку шетњу или да дође у посету и заједно одиграју игру. Наш [водич о заједничкој игри](/caregiving/how-to-play-together/) је лак за дељење с посетиоцима.
 
-## What if something happened to me?
+## Шта ако се мени нешто догоди?
 
-Make a simple backup plan now. The NIA suggests deciding with family or close friends who would step in, and keeping a notebook with emergency numbers, medicines, behavior tips that work, and favorite activities. The Alzheimer's Association also recommends keeping the person's medical contacts and an up-to-date medicine list easy to find.
+Направите једноставан резервни план већ сада. NIA предлаже да се са породицом или блиским пријатељима договорите ко би вас заменио и да држите бележницу с хитним бројевима, лековима, саветима о понашању који функционишу и омиљеним активностима. Алцхајмер асоцијација такође препоручује да медицинске контакте особе и ажурирану листу лекова држите на лако доступном месту.
 
-## When should I get professional or urgent help?
+## Када да потражим стручну или хитну помоћ?
 
-Talk to your doctor if stress signs are regular, if you feel depressed, or if you are struggling to cope. Tell your doctor you are a caregiver. The NIA notes that counselors and social workers can help with difficult feelings and planning, and that Medicare, Medicaid and some private insurance may cover some mental health costs.
+Разговарајте са својим лекаром ако су знаци стреса редовни, ако се осећате депресивно или ако се тешко носите с тим. Реците свом лекару да сте неговатељ. NIA напомиње да саветници и социјални радници могу помоћи са тешким осећањима и планирањем, а да Medicare, Medicaid и неко приватно осигурање могу покрити део трошкова за ментално здравље.
 
-If you feel in crisis or have thoughts of harming yourself, call or text 988 to reach the [988 Suicide & Crisis Lifeline](https://988lifeline.org/), free and available 24/7. If anyone is in immediate danger, call 911.
+Ако осећате да сте у кризи или имате мисли о томе да наудите себи, позовите или пошаљите поруку на 988 да бисте стигли до [988 Suicide & Crisis Lifeline](https://988lifeline.org/), бесплатне и доступне 24 сата дневно, 7 дана у недељи. Ако је неко у непосредној опасности, позовите локални број за хитне случајеве.
 
-## Can shared activities give me a break too?
+## Могу ли и заједничке активности да ми дају одмор?
 
-Sometimes. A calm activity you both enjoy can be a gentler part of the day for you as well as the person you care for: listening to old songs, looking at photos, or a game like [Conversation Cards](/games/conversation-cards/) that needs no right answers. If the person enjoys company, a group session with [Picture Bingo](/games/picture-bingo/) at a senior center or adult day program can give you an hour of respite. See [activities for care home groups](/activities/care-home-groups/) for ideas.
+Понекад могу. Мирна активност коју вас двоје волите може бити нежнији део дана и за вас и за особу о којој бринете: слушање старих песама, гледање фотографија или игра попут [Картица за разговор](/games/conversation-cards/) које не траже тачне одговоре. Ако особа воли друштво, групни час с [Бинго са сликама](/games/picture-bingo/) у центру за старије или у програму дневне неге може вам дати сат одмора. Видите [активности за групе у установама за негу](/activities/care-home-groups/) за идеје.
