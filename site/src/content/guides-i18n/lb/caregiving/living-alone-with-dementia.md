@@ -35,7 +35,7 @@ related: [caregiving/home-safety, activities/daily-routine, brain-health/social-
 health: false
 ---
 
-Eleng wunnen seet fir sech selwer net, wéi vill Hëllef eng Persoun brauch. D'[Alzheimer's Association](https://www.alz.org/help-support/i-have-alz/know-what-to-expect/if_you_live_alone) hält fest, datt vill Leit mat Alzheimer weiderhin alleng wunnen, besonnesch am fréie Stadium, mat einfache Upassungen, Sécherheetsmoossname an Ënnerstëtzung vun aneren. D'nëtzlech Fro ass méi konkret: wat wëll dës Persoun weiderhin maachen, a wat géif dës Aufgaben liichter maachen?
+Eleng wunnen seet fir sech selwer net, wéi vill Hëllef eng Persoun brauch. D'Alzheimer's Association hält fest, datt vill Leit mat Alzheimer weiderhin alleng wunnen, besonnesch am fréie Stadium, mat einfache Upassungen, Sécherheetsmoossname an Ënnerstëtzung vun aneren. D'nëtzlech Fro ass méi konkret: wat wëll dës Persoun weiderhin maachen, a wat géif dës Aufgaben liichter maachen?
 
 Fänkt dat Gespréich un, wann Zäit do ass an kee akuten Problem geléist muss ginn. Frot, wat sech gutt ufillt, wat Routinen wichteg sinn an wéi Hëllef d'Persoun géif begréissen. E Plang, deen mat hir gemaach gëtt, passt méi wahrscheinlech zu hirem Liewen wéi eng Lëscht vun Aufgaben, déi no den Ängschten vun aneren opgestallt gouf.
 
