@@ -1,7 +1,7 @@
 ---
 title: "Dementzia duen norbaitek gauzak ikusten edo entzuten dituenean"
 seoTitle: "Hallucinazioak eta dementzia: zaintzailearentzako urrats lasaiak"
-description: "Ikasi nola erantzun lasai dementzia duen norbaitek gauzak ikusten edo entzuten dituenean, ingurua egiaztatu eta jakin noiz behar den laguntza medikoa aldaketa bat-bateko denean."
+description: "Ikasi nola erantzun lasai dementzia duen norbaitek gauzak ikusten edo entzuten dituenean, ingurua egiaztatu eta noiz behar den laguntza medikoa."
 section: caregiving
 order: 36
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Dirua kudeatzea dementziarekin: laguntza seguruagoa"
 seoTitle: "Dementzia eta dirua: laguntza segurua familientzat"
-description: "Ikasi nola eskaini faktura ordaintzeko laguntza dementziarekin, pertsona parte hartzen mantenduz, konfiantzazko kontaktuak ulertuz eta iruzur-susmoa dagoenean jokatuz."
+description: "Ikasi nola eskaini faktura ordaintzeko laguntza dementziarekin, pertsona parte hartzen mantenduz, konfiantzazko kontaktuak ulertu eta iruzur-susmoan jokatuz."
 section: caregiving
 order: 35
 updated: 2026-11-11

@@ -1,34 +1,30 @@
 ---
-title: "How to Play Games with Someone Who Has Dementia"
-description: "A practical guide to playing games with someone living with dementia: setting up, pacing, never correcting, making games easier, and knowing when to stop."
+title: "Wéi ee mat enger Persoun mat Demenz spillt"
+description: "Eng praktesch Anleedung fir mat enger Persoun mat Demenz ze spillen: opsetzen, Tempo, nie korrigéieren, Spiller méi einfach maachen a wëssen, wann ee stoppt."
 section: caregiving
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Treat a game as time together, not a test. Pick a calm time of day, sit side
-  by side in a quiet room, and offer one simple game. Let the person set the
-  pace, never correct harmless mistakes, make the game easier at the first sign
-  of strain, and turn pictures into conversation. Stop while it still feels
-  good. Ending early, or simply watching together, is a good outcome.
+  Behandelt e Spill als gemeinsame Zäit, net als Test. Wielt eng roueg Tageszäit, sëtzt nieft-eneen an engem roueje Raum a bitt ee einfaacht Spill un. Lot d'Persoun d'Tempo bestëmmen, korrigéiert harmlos Feeler ni, mécht de Spill méi einfach, soubal sech Drock zeechent, a verwandelt d'Biller an e Gespréich. Hält op, wann et nach gutt ass. Frëih ophalen oder einfach zesumme kucken ass e gudde Resultat.
 keyPoints:
-  - "The goal is enjoyment and connection, not finishing or getting answers right."
-  - "Set up first: quiet room, good light, glasses and hearing aids on, TV off, one game ready."
-  - "Do not correct harmless mistakes. Say \"Let's try it this way\" or just carry on."
-  - "Make a game easier before frustration builds: fewer pictures, fewer choices, pictures left visible."
-  - "Use pictures as a starting point for stories with \"Tell me about...\" instead of \"Do you remember...?\""
-  - "Stop at the first signs of tiredness or upset. Stopping early is a success, not a failure."
+  - "D'Ziel ass Freed a Verbindung, net fäerdeg ze ginn oder richteg Äntwerten ze ginn."
+  - "Als Éischt opsetzen: roueg Zëmmer, gutt Liicht, Brëller a Gehéierapparater un, Fernseher aus, een Spill bereet."
+  - "Korrigéiert harmlos Feeler net. Sot „Probéiere mir et esou“ oder spillt einfach weider."
+  - "Maacht de Spill méi einfach, ier Frustratioun wiisst: manner Biller, manner Optiounen, Biller bleiwen siichtbar."
+  - "Benotzt Biller als Ausgangspunkt fir Geschichten mat „Erzielt mir iwwer...“ amplaz „Erënnert Dir Iech...?“."
+  - "Hält op bei den éischte Zeeche vun Middegkeet oder Ënnerrouegung. Frëih ophalen ass e Succès, kee Versoen."
 faq:
-  - q: "How long should we play a game?"
-    a: "There is no correct length. For many people, a few minutes is plenty, and some days a single round is enough. Watch the person rather than the clock, and stop while they still seem relaxed."
-  - q: "Should I let them win or pretend not to notice mistakes?"
-    a: "In a shared, low-pressure game there is nothing to win or lose. If a mistake does not bother the person, let it go. If it seems to bother them, quietly help or make the game easier without pointing it out."
-  - q: "What if they would rather watch me play?"
-    a: "That is fine. The National Institute on Aging suggests letting a person simply watch if they seem to enjoy that more. Talk about what you see and invite them to point or choose whenever they like."
-  - q: "Are these games a way to test memory?"
-    a: "No. Our games are simple shared activities for enjoyment and conversation. They are not a memory test, do not measure anything, and are not a treatment for dementia."
-  - q: "Which game is best to start with?"
-    a: "Start with the simplest one that fits the person. Picture Pairs with four tiles and pictures left visible, or Find the Same with two choices, are gentle starting points. Conversation Cards work well if the person enjoys talking more than tapping."
+  - q: "Wéi laang soll ee Spill daueren?"
+    a: "Et gëtt keng richteg Längt. Fir vill Leit reechen e puer Minutten, an e puer Deeg reicht eng eenzeg Ronn. Kuckt op d'Persoun statt op d'Auer, a hält op, wann se nach entspaant schéngt."
+  - q: "Soll ech hir d'Victoire loossen oder esou maachen, wéi wann ech Feeler net gesinn?"
+    a: "An engem gemeinsame, stressfreie Spill gëtt et näischt ze gewannen oder ze verléieren. Wann e Feeler der Persoun net stéiert, loosst en. Wann et hir ze schaffen mécht, hëlleft leise oder maacht de Spill méi einfach, ouni op de Feeler hizewéisen."
+  - q: "Wat wann se léiwer dobaussen kucken, wéi ech spillen?"
+    a: "Dat ass an der Rei. Den National Institute on Aging rät, datt ee leeft, wann se eng Persoun méi gär kuckt. Schwätzt iwwer dat, wat Dir gesitt, a luet se an, mat dem Fanger ze weisen oder ze wielen, wann se wëllen."
+  - q: "Sinn dës Spiller e Weeg, Gedächtnis ze testen?"
+    a: "Nee. Eis Spiller si einfach gemeinsam Aktivitéiten fir Freed a Gespréich. Si sinn kee Gedächtnistest, miessen näischt a sinn keng Behandlung vun Demenz."
+  - q: "Mat wéi engem Spill sollt ee vun Ufank un ufänken?"
+    a: "Fänkt mat dem einfachste Spill un, dat zu der Persoun passt. Picture Pairs mat véier Kachelen a Biller, déi siichtbar bleiwen, oder Find the Same mat zwou Optiounen si sanft Ufänge. Conversation Cards si gutt, wann d'Persoun méi gär schwätzt wéi tippt."
 sources:
   - title: "Activities"
     publisher: "Alzheimer's Association"
@@ -47,127 +43,127 @@ related: [caregiving/communication-tips, caregiving/when-they-say-no, caregiving
 health: false
 ---
 
-A good game with someone living with dementia does not look like a contest. It looks like two people sitting close, pointing at pictures, laughing at a saying, and talking about whatever comes up. The game is just a reason to spend time together.
+E gutt Spill mat enger Persoun mat Demenz gesäit net aus wéi e Concours. Et gesäit aus wéi zwee Leit, déi no beienee sëtzen, op Biller weisen, bei engem Sprooch laachen a driwwer schwätzen, wat och ëmmer kënnt. De Spill ass just e Grond, Zäit zesummen ze verbréngen.
 
-This guide covers how to set up, how to pace a game, what to say when something goes "wrong", how to make any game easier or a little harder, how to turn it into conversation, and how to know when to stop. It works for our [games](/games/) and for cards, puzzles and board games you already have.
+Dës Anleedung beschreift, wéi Dir opsetzt, wéi Dir d'Tempo beim Spillen hält, wat Dir soe kënnt, wann eppes „schifgaang“ ass, wéi Dir all Spill méi einfach oder e bësse méi schwéier maacht, wéi Dir e Spill an e Gespréich verwandelt an wéi Dir wësst, wann Dir ophalen sollt. Si funktionéiert fir eis [Spiller](/games/) an fir Kaarten, Puzzelen a Brettspiller, déi Dir schonn hutt.
 
-## What is the best way to play a game with someone who has dementia?
+## Wat ass déi beschte Manéier, mat enger Persoun mat Demenz ze spillen?
 
-Focus on enjoyment, not achievement. That is the core advice from the [Alzheimer's Association guidance on activities](https://www.alz.org/help-support/caregiving/daily-care/activities): build on skills the person still has, help them get started, finish the hard parts yourself, and do not criticize or correct harmless activities.
+Konzentréiert Iech op Freed, net op Leeschtung. Dat ass den Haaptrot vun den [Richtlinne vun der Alzheimer's Association iwwer Aktivitéiten](https://www.alz.org/help-support/caregiving/daily-care/activities): op Fäegkeeten opbauen, déi d'Persoun nach huet, hëllefen, fir unzefänken, déi schwéier Deeler selwer fäerdeg maachen, an harmlos Aktivitéiten net kritiséieren oder korrigéieren.
 
-In practice that means:
+An der Praxis heescht dat:
 
-- **Sit beside them, not across.** Side by side, you can both see the screen or table, and helping feels like teamwork rather than supervision.
-- **Offer one game at a time.** A menu of choices can feel like a test before anything starts.
-- **Follow their lead.** If they want to tap the pictures in their own order, talk about one picture for ten minutes, or stop after two turns, that is the game today.
-- **Count the good moments, not the finished rounds.** A smile, a story or a calm half hour is the outcome you are looking for.
+- **Sëtzt nieft-eneen, net géigeniwwer.** Nieft-eneen kënnt Dir de Bildschierm oder de Tësch zesumme gesinn, a Hëllefe fillt sech wéi Teamwork un, net wéi Iwwerwaachung.
+- **Bitt een Spill op eng Kéier.** Eng Lëscht vun Optiounen kann sech wéi en Test uleeën, ier iwwerhaapt eppes ugefaang huet.
+- **Follegt hir Féierung.** Wann si d'Biller an hirer eegener Rei wëllen tappen, zéng Minutte laang iwwer ee Bild schwätzen oder nom zwee Zich ophalen, dann ass dat de Spill vun haut.
+- **Zielt déi gutt Momenter, net déi fäerdeg Ronnen.** E Laachen, eng Geschicht oder eng roueg hallef Stonn ass d'Resultat, dat Dir sicht.
 
-## How do I set up before we start?
+## Wéi bereede mir mech op de Start vir?
 
-A few minutes of setup prevents most of the frustration that people blame on the game itself.
+E puer Minutte Virbereedung verhënnert déi meescht Frustratioun, déi een dem Spill selwer zouschreift.
 
-1. **Pick their best time of day.** The [National Institute on Aging (NIA) guidance on adapting activities](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests planning outings and activities for the time of day when the person is at their best. For many people that is mid-morning. Late afternoon is often harder; see [calm late-afternoon activities](/caregiving/late-day-restlessness/).
-2. **Make the room quiet.** Turn off the TV and radio and close the door if you can. The [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) recommends limiting noise and distractions before you try to talk.
-3. **Check comfort first.** A drink nearby, a bathroom trip beforehand, a comfortable chair, and glasses and hearing aids on.
-4. **Light the space well.** Bright, even light without glare on the screen makes pictures easier to see.
-5. **Get the game ready before you sit down.** Open it, choose the settings and set the volume yourself. Then turn the screen toward them. For tablet tips, see [setting up a tablet or phone](/caregiving/tablets-and-screens/).
-6. **Prop the device up.** A stand or case that holds the tablet upright means nobody has to hold it, and it is easier to point.
+1. **Wielt hir bescht Tageszäit.** D'[Richtlinne vum National Institute on Aging (NIA) fir d'Upassung vun Aktivitéiten](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) rät, Ausflich an Aktivitéiten op d'Zäit ze leeën, an där d'Persoun am beschten dran ass. Fir vill Leit ass dat mëttes am Moien. Spéit nomëttes ass dacks méi schwéier; kuckt [roueg Aktivitéiten spéit um Dag](/caregiving/late-day-restlessness/).
+2. **Maacht de Raum roueg.** Schalt de Fernseher a d'Radio of a maacht d'Dier zou, wann Dir kënnt, ier Dir mat hir schwätzt. D'[Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) rät, Kaméidi a Stéierungen ze begrenzen, ier Dir d'Gespréich ufänkt.
+3. **Kuckt, datt alles bequem ass.** E Drénk an der Nähe, e Passage op d'Toilette virdrun, e bequemen Stull, a Brëller a Gehéierapparater un.
+4. **Beliicht de Raum gutt.** Hellt, gleichméisseg Liicht ouni Spigelung um Bildschierm mécht d'Biller méi einfach ze gesinn.
+5. **Maacht de Spill ready, ier Dir sëtzt.** Maacht en op, wielt d'Astellungen a stellt d'Lautstäerkt selwer an. Dréint den Écran dann Richtung hir. Fir Tablet-Tipps kuckt [Tablet oder Telefon konfiguréieren](/caregiving/tablets-and-screens/).
+6. **Stellt d'Gerät op.** E Stänner oder eng Hülle, déi d'Tablet opriicht hält, heescht datt keen en halen muss, an et ass méi einfach op eppes ze weisen.
 
-## How do I invite them without pressure?
+## Wéi lued ech hir ouni Drock an e Spill mat?
 
-Make the invitation casual and easy to decline. Some phrases that tend to land well:
+Maacht d'Aufuerderung locker a leicht ofzeléinen. E puer Sätz, déi gutt ukomm:
 
-- "I found some garden pictures. Want to look at them with me?"
-- "Could you help me with this puzzle? I'm stuck."
-- "Would you like the flowers or the birds today?" (a choice of two is easier than an open question)
-- "I'm making a card for your sister. Which color should this be?"
+- „Ech hunn e puer Gaart-Biller fonnt. Wëllt Dir se mat mir kucken?“
+- „Kënnt Dir mir mat dësem Puzzel hëllefen? Ech sinn festgefuer.“
+- „Wëllt Dir haut d'Blummen oder d'Vilen?“ (Eng Wiel vun zwee ass méi einfach wéi eng oppe Fro.)
+- „Ech maachen eng Kaart fir Är Schwëster. Wéi eng Faarf soll dat sinn?“
 
-The Alzheimer's Association suggests explaining the purpose of an activity, such as making a card for a friend, because a reason gives it meaning. Asking for help also works because it lets the person feel useful.
+D'Alzheimer's Association rät, de Zweck vun enger Aktivitéit ze erklären, zum Beispill eng Kaart fir e Frënd ze maachen, well e Grond et bedeitend mécht. Hëllefe bieden funktionéiert och, well d'Persoun sech dann nëtzlech fillt.
 
-If they say no, accept it. Try again later or offer something different. Our guide on [what to do when they say no](/caregiving/when-they-say-no/) goes further.
+Wann si Nee soen, akzeptéiert et. Probéiert et méi spéit nach eng Kéier oder bitt eppes Anescht un. Eise Guide [wat ze maachen, wann se Nee soen](/caregiving/when-they-say-no/) geet méi wäit.
 
-## How long should a game last, and how fast should we go?
+## Wéi laang soll e Spill daueren, a wéi séier sollte mir sinn?
 
-Let the person set the pace, and plan for short sessions. There is no evidence-based ideal length for a shared game. Two to five calm minutes can be a complete activity.
+Lot d'Persoun d'Tempo bestëmmen, a plangt kuerz Sessiounen. Et gëtt keng evidenzbaséiert ideal Längt fir e gemeinsamt Spill. Zwee bis fënnef roueg Minutten kënne schonn eng komplett Aktivitéit sinn.
 
-- **Wait longer than feels natural.** The NIA advises allowing more time for a person to respond and trying not to interrupt. Count to ten in your head before you help.
-- **One step at a time.** Give a single, short instruction ("Tap a picture"), then wait. Show rather than explain: point to where to tap.
-- **Pause freely.** If they stop to talk about a picture, the game can wait. There is no need to rush.
-- **Let them watch.** The NIA notes that some people prefer to watch, and that is a valid choice.
+- **Waart méi laang, wéi natierlech wierkt.** Den NIA rät, der Persoun méi Zäit ze ginn, fir ze äntweren, a probéiert net ze ënnerbriechen. Zielt am Kapp bis zéng, ier Dir hëllefen.
+- **Ee Schrëtt op eng Kéier.** Gitt eng eenzeg, kuerz Uweisung („Tipp op e Bild“), a waart dann. Weist, anstatt z'erklären: weist mat dem Fanger, wou ee tippe soll.
+- **Pausen sinn fräi.** Wann si stoppen, fir iwwer e Bild ze schwätzen, kann de Spill waarden. Et ass kee Grond fir ze hetzen.
+- **Loosst s'et kucken.** Den NIA weist drop hin, datt e puer Leit léiwer kucken, an dat ass eng gülteg Wiel.
 
-## Should I correct wrong answers?
+## Soll ech falsch Äntwerten korrigéieren?
 
-No. Gently correcting someone again and again tells them they are failing, even when you mean well. The Alzheimer's Association advises not to criticize or correct harmless activities. In a game, almost every mistake is harmless.
+Nee. Wann een ëmmer erëm suanft korrigéiert, sot der Persoun, datt si versot, och wann Dir et gutt mengt. Bei engem Spill ass bal jidde Feeler harmlos.
 
-| Instead of | Try |
+| Amplaz | Probéiert |
 | --- | --- |
-| "No, that's wrong." | "Let's try it this way." (an example the NIA gives) |
-| "That's not a match. Look again." | Say nothing and take the next turn, or "Oh, those are both red." |
-| "Do you remember who this is?" | "Tell me about this picture." |
-| "You already did that one." | "That's a good one. Let's do it again." |
-| "Come on, you know this." | "Want me to show the ending?" |
+| „Nee, dat ass falsch.“ | „Probéiere mir et esou.“ (e Beispill vum NIA) |
+| „Dat passt net. Kuckt nach eng Kéier.“ | Sot näischt a maacht den nächste Zuch, oder „Oh, dës zwee sinn allebéid rout.“ |
+| „Erënnert Dir Iech, wien dat ass?“ | „Erzielt mir iwwer dëst Bild.“ |
+| „Dat hutt Dir scho gemaach.“ | „Dat ass eng gutt. Maache mir se nach eng Kéier.“ |
+| „Komm, Dir kennt dat.“ | „Soll ech Iech den Ënn weisen?“ |
 
-If a mistake clearly frustrates them, help quietly. Point to the right picture, take a turn yourself, or make the game easier next round. If a saying gets a funny wrong ending, laugh along. Their ending might be better.
+Wann e Feeler si kloer frustréiert, hëlleft leis. Weist op dat richteg Bild, maacht selwer e Zuch oder mecht de Spill an der nächster Ronn méi einfach. Wann e Saz en lëschtegen falsche Schluss kritt, lacht mat. Hire Schluss ass vläicht besser.
 
-## How do I make a game easier or harder?
+## Wéi mécht ee e Spill méi einfach oder méi schwéier?
 
-Adjust the game to the person on the day, not to a stage label. The same person may need a simpler version in the evening than in the morning. The NIA's first tip is to match the activity to what the person can do and to make sure they feel successful.
+Passt de Spill un d'Persoun un deem Dag un, net un en Stadiumsnumm. Déiselwecht Persoun brauch den Owend vläicht eng méi einfach Versioun wéi moies. Den éischte Rot vum NIA ass, d'Aktivitéit un dat unzepassen, wat d'Persoun kann, an dofir ze suergen, datt se sech erfollegräich fillt.
 
-| Game | Make it easier | Make it a little harder |
+| Spill | Méi einfach maachen | E bësse méi schwéier maachen |
 | --- | --- | --- |
-| [Picture Pairs](/games/picture-pairs/) | Start with 4 tiles and leave pictures visible | More tiles, or hide pictures if that feels comfortable |
-| [Find the Same](/games/find-the-same/) | 2 choices | Up to 4 choices |
-| [Sort Together](/games/sort-together/) | You hold the picture, they point to the basket | They tap both picture and basket on their own |
-| [Picture Puzzle](/games/picture-puzzle/) | 4 pieces, talk about the whole picture first | 9 pieces |
-| [Finish the Saying](/games/finish-the-saying/) | Show the ending, then say it together | Let them say the ending before tapping |
-| [Word Search](/games/word-search/) | Print it, look for one word together, point to its first letter | Let them choose the next word to find |
-| [Coloring](/games/coloring/) | You pick two colors, they choose between them | They choose all the colors |
-| [Conversation Cards](/games/conversation-cards/) | Just look at the picture together | Use the open prompts on the card |
-| [Photo Pairs](/games/photo-pairs/) | A few well-loved family photos | Add more photos |
-| [Picture Bingo](/games/picture-bingo/) | A helper sits with each player | Players mark their own cards |
-| [Calm Breathing](/games/calm-breathing/) | Just sit and watch it together | Breathe along slowly |
+| [Picture Pairs](/games/picture-pairs/) | Mat 4 Kachelen ufänken a Biller siichtbar loossen | Méi Kachelen, oder Biller verstoppen, wann dat bequem ass |
+| [Find the Same](/games/find-the-same/) | 2 Optiounen | Bis zu 4 Optiounen |
+| [Sort Together](/games/sort-together/) | Dir hält d'Bild, si weist op de Kuerf | Si tappt Bild an Kuerf selwer |
+| [Picture Puzzle](/games/picture-puzzle/) | 4 Stécker, zu éischt iwwer dat ganzt Bild schwätzen | 9 Stécker |
+| [Finish the Saying](/games/finish-the-saying/) | Den Ënn weisen, dann zesummen soen | Loosst se den Ënn soen, ier se tappen |
+| [Word Search](/games/word-search/) | Ausdrécken, zesumme ee Wuert sichen, op den Ufangsbuschtaf weisen | Loosst se dat nächst Wuert wielen |
+| [Coloring](/games/coloring/) | Dir wielt zwou Faarwen, si wielt tëscht hinnen | Si wielt all Faarwen |
+| [Conversation Cards](/games/conversation-cards/) | Zesumme just d'Bild kucken | D'oppe Froen op der Kaart benotzen |
+| [Photo Pairs](/games/photo-pairs/) | E puer gär gehaalen Familljefotoen | Méi Fotoen derbäisetzen |
+| [Picture Bingo](/games/picture-bingo/) | E Helfer sëtzt bei all Spiller | Spiller maachen hir eege Kaarten |
+| [Calm Breathing](/games/calm-breathing/) | Just zesumme sëtzen a kucken | Lues zesumme mateme |
 
-Signs the game is too hard: long pauses that look worried rather than thoughtful, repeated "I can't", pushing the device away, or mistakes that upset them. Signs it might be too easy: boredom, or them saying it is childish. If that happens, respect it and switch to something that feels grown-up, such as a word search, a puzzle of a real photograph, or talking about a picture of their old line of work.
+Zeechen, datt de Spill ze schwéier ass: laang Paus, déi eher besuergt wéi nodenkend ausgesinn, widderholl „Ech kann dat net“, de Bildschierm wegdrécken oder Feeler, déi se opreegen. Zeechen, datt et ze einfach ass: Längweil oder d'Aussoe, datt et kandesch ass. Wann dat geschitt, respektéiert dat a wiesselt op eppes, wat erwuesse wierkt, wéi e Wuertsichspill, e Puzzel vun engem richtege Foto oder e Gespréich iwwer e Bild vun hirer fréierer Aarbecht.
 
-## How do I turn a game into a conversation?
+## Wéi mécht ee aus engem Spill e Gespréich?
 
-Use each picture as an invitation to talk, and treat whatever they say as a good answer. For many families, this is the best part of playing.
+Benotzt all Bild als Aufuerderung fir ze schwätzen, an behandelt, wat si soen, als gudde Bäitrag. Fir vill Familljen ass dat den Deel vum Spillen, dee se am gäinsten hunn.
 
-- **Ask open, no-wrong-answer questions.** "What do you notice?" "Which one do you like?" "Tell me about a kitchen like this."
-- **Share first.** "My grandmother had a dog like this." Your story makes it easier for them to share one.
-- **Follow the tangent.** If a picture of a car leads to a story about a road trip, the story is the activity. Leave the game paused.
-- **Do not fact-check.** In reminiscence, a pleasant conversation matters more than accurate details. If the story changes from last time, enjoy the new version.
-- **Use the built-in prompts.** [Finish the Saying](/games/finish-the-saying/) follows each saying with a talking prompt, and [Conversation Cards](/games/conversation-cards/) are designed for exactly this. [Photo Pairs](/games/photo-pairs/) uses your own family photos, which often spark the richest stories.
+- **Stellt oppe Froen, bei deenen et kee falsch Äntwert ass.** „Wat fält Iech op?“ „Wéi eng gefält Iech?“ „Erzielt mir vun enger Kichen wéi dëser.“
+- **Erzielt als Éischt selwer.** „Meng Grousmamm hat e Hond wéi dësen.“ Är Geschicht mécht et hinnen méi einfach, eng ze erzielen.
+- **Follegt den Ausschweifer.** Wann e Bild vun engem Auto zu enger Geschicht iwwer eng Autosrees fiert, ass d'Geschicht d'Aktivitéit. Lot de Spill pausiert.
+- **Kontrolléiert keng Fakten.** Bei der Erënnerungsarbecht ass en nettegt Gespréich méi wichteg wéi exakt Detailer. Wann d'Geschicht sech vum leschte Kéier änneret, geneisst déi nei Versioun.
+- **Benotzt d'agebaute Impulser.** [Finish the Saying](/games/finish-the-saying/) follegt all Sprochwuert mat engem Gesprächsimpuls, an [Conversation Cards](/games/conversation-cards/) si genau fir dat gemaach. [Photo Pairs](/games/photo-pairs/) benotzt Är eege Familljefotoen, an déi lafe dacks déi räichsten Geschichten.
 
-More ideas are in our guides to [reminiscence activities](/activities/reminiscence/) and [communication tips](/caregiving/communication-tips/).
+Méi Iddien stinn an eisen Guiden iwwer [Erënnerungsaktivitéiten](/activities/reminiscence/) a [Kommunikatiounstipps](/caregiving/communication-tips/).
 
-## When should we stop?
+## Wann sollte mir ophalen?
 
-Stop at the first signs of tiredness or upset, and ideally a little before. The Alzheimer's Association advises stopping or changing an activity when attention fades or frustration rises.
+Hält op bei den éischte Zeeche vu Middegkeet oder Ënnerrouegung, am beschten e bëssen virdrun. D'Alzheimer's Association rät, opzehalen oder eng Aktivitéit ze wiesselen, wann d'Opmierksamkeet nodeléisst oder d'Frustratioun eropgeet.
 
-Watch for:
+Oppassen op:
 
-- yawning, slumping or eyes drifting away from the screen;
-- fidgeting, standing up, or asking to leave;
-- sighing, short answers, or "I'm no good at this";
-- tapping randomly or pushing the device away;
-- tearfulness, irritation, or a sudden change in mood.
+- Gänen, Zesummesinken oder d'Aen, déi vum Bildschierm ewechdrifteen;
+- Erëmfiddelen, Opstoen oder Froe, ob se goe kann;
+- Séifzen, kuerz Äntwerten oder „Ech sinn do net gutt“;
+- zoufälleg Tappen oder de Bildschierm wegdrécken;
+- Tréinen, Iergernis oder eng plëtzlech Stëmmungsännerung.
 
-How to stop well:
+Wéi een gutt ophält:
 
-- **End on something easy.** One last match they can make, or a final picture to admire.
-- **Make it about you.** "I could use a cup of tea. Shall we stop here?" avoids any hint that they did badly.
-- **Move to something physical or soothing.** A short walk, a snack, folding laundry or music.
-- **Say something warm.** "I liked doing that with you." No praise for "getting it right", just pleasure in the time together.
+- **Endet mat engem Liichten.** Ee leschten Match, dee se maache kann, oder e leschte Bild fir ze bewonneren.
+- **Mécht et em Iech.** „Ech hätt gär eng Tass Téi. Hale mir hei op?“ vermeit all Hiweis, datt si schlecht gemaach huet.
+- **Wiesselt op eppes Kierperlechs oder Berouegendes.** Eng kuerz Spadséiergank, e Snack, Wäsch zesummefalen oder Musek.
+- **Sot eppes Léifes.** „Ech hunn dat gär mat Iech gemaach.“ Kee Luef fir „richteg gemaach“, just Freed un der Zäit zesummen.
 
-Ending early, changing plans, or giving up on the game and just sitting together are all good outcomes.
+Fréi ophalen, Pläng änneren oder de Spill opginn an eent zesumme sëtzen sinn all gutt Resultater.
 
-## Can we play in a group or over a video call?
+## Kann ee zesumme a Gruppen oder iwwer e Videoruff spillen?
 
-Yes, with a little extra setup. In a group, keep it to a few people, seat helpers next to anyone who needs them, and choose a game with a clear shared focus. [Picture Bingo](/games/picture-bingo/) has printable cards and an on-screen caller for groups. See [activities for care home groups](/activities/care-home-groups/) for more.
+Jo, mat e bësse méi Virbereedung. An enger Gruppe bleift et bei e puer Leit, Helfer sëtzen nieft deenen, déi Hëllef brauchen, a mir wielen e Spill mat engem kloren gemeinsamen Fokus. [Picture Bingo](/games/picture-bingo/) huet druckbar Kaarten an e Bildschierm-Caller fir Gruppen. Fir méi kuckt [Aktivitéiten fir Gruppen an Pflegeheemer](/activities/care-home-groups/).
 
-Over a video call, the person on the call can describe a picture while someone in the room points and taps. Keep calls short and familiar. Our guide to [phone and video calls](/activities/phone-and-video-calls/) has more tips.
+Bei engem Videoruff kann d'Persoun um Telefon en Bild beschreiwen, während een am Raum op eppes weist an tappt. Hält d'Rufer kuerz an vertraut. Eise Guide zu [Telefon- an Videoruffen](/activities/phone-and-video-calls/) huet méi Tipps.
 
-## What if a game just isn't working?
+## Wat wann e Spill einfach net funktionéiert?
 
-Some days nothing lands, and that is not a reflection on you or on them. Put the game away and try another time of day, a different game, or no game at all. Many good activities have nothing to do with screens: music, folding towels, looking through a photo album, or a short walk. Browse our [activity ideas](/activities/ideas/) for more.
+Heiansdo klappt näischt, an dat ass kee Versoen fir Iech oder fir si. Leet de Spill fort, probéiert eng aner Tageszäit, en anert Spill oder gar kee Spill. Vill gutt Aktivitéiten hunn näischt mat Bildschierm ze dinn: Musek, Handdicher falen, e Fotoalbum ukucken oder e kuerze Spadséiergank. Kuckt fir méi [Aktivitéitsiddien](/activities/ideas/) an eiser Lëscht.

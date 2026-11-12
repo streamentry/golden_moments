@@ -1,7 +1,7 @@
 ---
 title: "Familiak dementziaren zaintzari buruz ados ez daudenean"
 seoTitle: "Familia-desadostasunak dementziaren zaintzan"
-description: "Dementziaren zaintzari buruzko desadostasunak modu lasaian hitz egiteko bidea: kontuan hartu pertsonaren nahiak, bereizi datuak suposizioetatik, banatu zereginak eta eskatu kanpoko laguntza."
+description: "Dementziaren zaintzari buruzko desadostasunak lasai hitz egiteko bidea: kontuan hartu nahiak, bereizi datuak suposizioetatik, banatu zereginak eta eskatu laguntza."
 section: caregiving
 order: 33
 updated: 2026-11-11

@@ -1,7 +1,7 @@
 ---
 title: "Etxeko segurtasuna dementzia duen pertsonarentzat"
 seoTitle: "Etxeko segurtasun-zerrenda dementzia duten zaintzaileentzat"
-description: "Gelaz gela egindako etxeko segurtasun-berrikuspena dementzia zaintzen dutenentzat, argiteriari, eror daitezkeen tokiei, medikamentuei eta egunerokoko errutinei buruzko egiaztapen praktikoekin."
+description: "Gelaz gela egindako etxeko segurtasun-berrikuspena dementzia zaintzen dutenentzat: argiteria, eror daitezkeen tokiak, medikamentuak eta egunerokoko errutinak."
 section: caregiving
 order: 10
 updated: 2026-11-12

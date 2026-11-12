@@ -1,7 +1,7 @@
 ---
 title: "Bakarrik bizi den dementzia duen pertsona bat laguntzea"
 seoTitle: "Bakarrik bizitzea dementziarekin: familientzako laguntza"
-description: "Laguntza dementzia duen pertsona bati bakarrik bizi denean: errutina egonkorrak, adostutako kontrol-bisitak eta praktiko laguntza, pertsonaren nahiak eta autonomia erdigunean mantenduz."
+description: "Laguntza dementzia duen pertsona bati bakarrik bizi denean: errutina egonkorrak, adostutako kontrol-bisitak eta praktiko laguntza, nahiak eta autonomia zainduz."
 section: caregiving
 order: 12
 updated: 2026-11-11
