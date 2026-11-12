@@ -50,7 +50,7 @@ Kòlè ka vin rele, pouse oswa frape, e sa ka fè tout moun ki pre yo pè. Konp�
 Sispann travay la, pran yon pòz epi itilize yon fraz kout ak kalm. [Alzheimer's Association konseye moun k ap okipe yon lòt pou yo konsantre sou sentiman yo, pale dousman epi redwi distraksyon](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger). Si ou nan danje imedya oswa yon moun blese, deplase nan sekirite epi kontakte sèvis ijans lokal yo.
 
 - **Sispann sa k ap pase si ou kapab.** Si yon travay tankou benyen, abiye, yon vizit oswa yon lòt aktivite fè moun nan fache, pran yon pòz. Li ka tann, sòf si gen yon bezwen imedya pou sekirite oswa sante.
-- **Kite espas.** Ekat ou epi kite yon chemen klè pou chak nan nou kite pyès. Pa kwense, bloke, pa pouse moun nan pre ou, ni manyen l toudenkou.
+- **Kite espas.** Retire ou epi kite yon chemen klè pou chak nan nou kite pyès. Pa kwense, bloke, pa pouse moun nan pre ou, ni manyen l toudenkou.
 - **Kenbe vwa ou ba epi mo ou kout.** Ou ka di: “Mwen wè ou fache. Mwen ap ba ou yon ti espas.” Pa diskite, pa menase, ni mande yon eksplikasyon.
 - **Deplase lòt moun.** Yon timoun, vizitè oswa asistan ka ale nan yon lòt chanm pandan moun nan vin kalm. Yon sèl moun kalm ki pale ka pi fasil pase plizyè moun k ap eseye ede an menm tan.
 - **Kite si gen vyolans fizik.** Ale nan yon kote ki pi an sekirite epi mande yon lòt moun pou ede. Pa eseye kenbe moun nan.
@@ -59,7 +59,7 @@ Sispann travay la, pran yon pòz epi itilize yon fraz kout ak kalm. [Alzheimer's
 
 ## Kisa ki ka kontribye nan konpòtman an?
 
-Ka gen plis pase yon faktè, e yon manm fanmi pa ka fè dyagnostik kòz la. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) bay lis inconfò fizik, estrès nan anviwònman an ak pwoblèm kominikasyon kòm kontribitè posib.
+Ka gen plis pase yon faktè, e yon manm fanmi pa ka fè dyagnostik kòz la. Alzheimer's Association bay lis inconfò fizik, estrès nan anviwònman an ak pwoblèm kominikasyon kòm kontribitè posib.
 
 Panse sou sa ki te pase yon ti tan anvan chanjman an:
 
@@ -76,7 +76,7 @@ Panse sou sa ki te pase yon ti tan anvan chanjman an:
 Itilize sa ou te obsève pou ajiste pwochen entèraksyon an. Sa ka ede, men li pa ka garanti ke konpòtman an p ap repete. Eseye yon chanjman yon fwa a la fwa pou li pi fasil pou wè si moun nan sanble pi alèz.
 
 - **Chwazi yon moman ki pi kalm.** Si yon travay souvan mal ale lè moun nan fatige, mande si yon lòt lè mache pi bon.
-- **Rann anviwònman an pi fasil.** Etenn bri ki nan background la, redwi kantite moun nan chanm lan epi rasanble tout sa ou bezwen anvan kòmanse.
+- **Rann anviwònman an pi fasil.** Etenn bri ki fèt alantou, redwi kantite moun nan chanm lan epi rasanble tout sa ou bezwen anvan kòmanse.
 - **Eksplike yon etap epi tann.** Apwoche devan, di sa ou ap fè, mande anvan ou ede epi bay moun nan tan pou reponn.
 - **Sispann lè gen siy detrès.** Yon refi, yon ti retrè, yon figi tandi oswa yon vwa ki ap leve yo ka yon siy pou pran yon pòz. Pa konsidere fini travay la pi enpòtan pase konfò moun nan.
 - **Pataje yon plan senp.** Si plizyè moun bay swen, mete dakò sou siy ki vle di “pran yon pòz”, yon fraz kalm pou itilize ak moun pou kontakte si modèl la chanje.
@@ -85,7 +85,7 @@ Pou ide espesifik sou travay yo, gade gid nou yo sou [benyen](/caregiving/bathin
 
 ## Kisa mwen ka fè apre sitiyasyon an kalme?
 
-Ofri rasirans epi retounen nan yon aktivite familye ak ti demand si moun nan vle sa. Pa repwoche, blame oswa pini. [Alzheimer's Society](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) note ke moun nan ka toujou santi l boulvèse apre konpòtman an pase, menm si li pa sonje sa ki te pase.
+Ofri rasirans epi retounen nan yon aktivite familye ak ti demand si moun nan vle sa. Pa repwoche, blame oswa pini. Alzheimer's Society note ke moun nan ka toujou santi l boulvèse apre konpòtman an pase, menm si li pa sonje sa ki te pase.
 
 Si ou vle konprann yon modèl, fè yon ti nòt prive ki fakte sou sa ki te pase anvan, sa ou te obsève, konbyen tan li te dire ak sa ki te sanble ede. Kenbe nòt la fakte epi pataje l ak ekip swen moun nan lè sa apwopriye. Evite anrejistre moun nan oswa pataje detay prive san pèmisyon.
 
