@@ -1,32 +1,32 @@
 ---
-title: "Music Activities for People with Dementia"
-seoTitle: "Music Activities for Dementia: Playlists and Ideas"
-description: "How to share music with someone living with dementia: building a personal playlist by era and genre, 15 simple music activities, and tips for every stage."
+title: "Musikkaktivitetar for menneske med demens"
+seoTitle: "Musikkaktivitetar ved demens: spellister og idear"
+description: "Korleis du kan dele musikk med nokon som lever med demens: ei personleg spelliste etter tiår og sjanger, 15 enkle musikkaktivitetar og tips for kvart stadium."
 section: activities
 order: 5
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Music is one of the easiest activities to share with someone living with
-  dementia. Build a personal playlist from the music of their youth, faith and
-  family, play it without ads or background noise, and sing, clap, sway or
-  just listen together. Choose calm or lively music to suit the moment, keep
-  the volume gentle, and stop if a song upsets them.
+  Musikk er ein av dei enklaste aktivitetane å dele med nokon som lever med
+  demens. Lag ei personleg spelliste frå musikken i ungdomen, troa og familien,
+  spel han utan reklame eller bakgrunnsstøy, og syng, klapp, sveiv eller berre
+  lytt saman. Vel roleg eller livleg musikk etter augeblikket, hald volumet
+  mildt, og stopp om ein song gjer personen vondt.
 keyPoints:
-  - "Personal music works best: the styles they loved as a young adult, plus music from their faith, culture and family events."
-  - "Play one thing at a time, with no commercials and the TV off."
-  - "Singing, clapping, swaying and simply listening are all ways to take part."
-  - "Use calmer music to settle and livelier music to lift the mood, and watch how the person responds."
-  - "Research on structured music sessions is limited; we suggest music as something pleasant to share, not a treatment."
+  - "Personleg musikk fungerer best: stilarten dei elska som unge vaksne, pluss musikk frå tru, kultur og familiehøgtider."
+  - "Spel éin ting om gangen, utan reklame og med TV-en slått av."
+  - "Syngje, klappe, sveive og berre å lytte er alle måtar å delta på."
+  - "Bruk roligare musikk for å roe ned og livlegare musikk for å løfte humøret, og sjå korleis personen reagerer."
+  - "Forskinga på strukturerte musikkøkter er avgrensa; vi foreslår musikk som noko hyggeleg å dele, ikkje som behandling."
 faq:
-  - q: "What kind of music is best for someone with dementia?"
-    a: "Music the person has known and loved for a long time, often from their teens and twenties, along with music from their faith, culture and family celebrations. If possible, let them choose. Watch their face and body to learn what they enjoy, and drop anything that seems to upset them."
-  - q: "Should I use headphones?"
-    a: "Some people enjoy headphones because they block out noise, while others find them uncomfortable or confusing. Try a speaker first so you can listen together. If you use headphones, keep the volume low and stay nearby."
-  - q: "Can music help with restlessness or upset?"
-    a: "Calm, familiar music can help create a peaceful mood, and the Alzheimer's Association suggests using music to set the atmosphere you want. It does not work every time. If the person is distressed, check for pain, hunger, noise or tiredness too."
-  - q: "Can people with late-stage dementia still enjoy music?"
-    a: "Many can. The Alzheimer's Association notes that a person in the late stage may still tap a beat or sing along to a song from childhood. Sit close, play music softly and hold their hand or sway together."
+  - q: "Kva slags musikk er best for ein person med demens?"
+    a: "Musikk personen har kjent og elska lenge, ofte frå tenåra og tjueåra, saman med musikk frå tru, kultur og familiefeiringar. Om det er mogleg, la personen velje. Sjå på ansiktet og kroppen for å lære kva dei likar, og slutt med det som verkar å uroe dei."
+  - q: "Bør eg bruke hovudtelefonar?"
+    a: "Nokre synest hovudtelefonar er gode fordi dei dempar støy, medan andre finn dei ubehagelege eller forvirrande. Prøv ein høgtalar først, så de kan lytte saman. Om du bruker hovudtelefonar, hald volumet lågt og bli i nærleiken."
+  - q: "Kan musikk hjelpe mot rastløyse eller uro?"
+    a: "Roleg, kjend musikk kan bidra til ein fredfull stemning, og Alzheimer's Association foreslår å bruke musikk til å skape den atmosfæren du ønsker. Det fungerer ikkje kvar gong. Om personen er ueinig eller plaga, sjekk òg for smerte, sult, støy og tretthet."
+  - q: "Kan folk med seinfase-demens framleis ha glede av musikk?"
+    a: "Mange kan det. Alzheimer's Association seier at ein person i seinfasen framleis kan tappe takt eller syngje med på ein song frå barndommen. Sit nær, spel musikken mjukt og hald handa deira eller sveiv saman."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -45,78 +45,78 @@ related: [activities/ideas, activities/reminiscence, activities/late-stage, acti
 health: false
 ---
 
-Music is one of the simplest things you can share with someone living with dementia. It asks for nothing: no right answers, no steps to follow. A familiar song can bring a smile, a tapping foot or a few words sung along, even on a day when conversation is hard. All you need is the right music for this particular person and a quiet moment to play it.
+Musikk er ein av dei enklaste tinga du kan dele med nokon som lever med demens. Han krev ingenting: ingen rette svar, ingen steg å følgje. Ein kjend song kan gi eit smil, ein tappande fot eller nokre ord sungne med, også på ein dag då samtale er vanskeleg. Alt du treng er rett musikk for akkurat denne personen og eit roleg augeblikk å spele han i.
 
-## What music activities work for people with dementia?
+## Kva musikkaktivitetar fungerer for menneske med demens?
 
-Listening, singing, clapping, swaying and talking about music all work well. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) suggests playing music, talking about the music and the artist, singing or dancing to well-known songs, and going to concerts or musical programs in the community. The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) adds that movement like clapping or dancing can add to the enjoyment, and that music can be a way to connect after words become difficult.
+Å lytte, syngje, klappe, sveive og snakke om musikk fungerer alle godt. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) foreslår å spele musikk, snakke om musikken og artisten, syngje eller danse til kjende songar, og gå på konsertar eller musikkprogram i lokalsamfunnet. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/art-music) legg til at rørsle som klapping eller dans kan auke gleda, og at musikk kan vere ein måte å kome i kontakt på når ord blir vanskelege.
 
-## How do you build a personal playlist?
+## Korleis lagar du ei personleg spelliste?
 
-The most useful thing you can make is a playlist of music that means something to this person. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) also highlights music with personal meaning. Here is a simple way to build one.
+Det mest nyttige du kan lage er ei spelliste med musikk som tyder noko for denne personen. [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) peiker òg på musikk med personleg meining. Her er ein enkel måte å lage ei på.
 
-### Start with their life
+### Byrj med livet deira
 
-- **Their teens and twenties.** Think about what was on the radio, at dances and in the movies when they were young.
-- **Big moments.** The music at their wedding, a first dance, a favorite family road-trip album.
-- **Faith and culture.** Hymns, gospel, sacred music, or songs in their first language.
-- **Work and service.** Marching bands, work songs, or music tied to a time in the military.
-- **What family remembers.** Ask siblings, children and old friends what they always played or sang.
+- **Tenåra og tjueåra.** Tenk på kva som gjekk på radioen, på dansar og i filmane då dei var unge.
+- **Store augeblikk.** Musikken på bryllaupet, ein første dans, eit kjært familiealbum frå bilturar.
+- **Tru og kultur.** Salmar, gospel, sakral musikk, eller songar på morsmålet.
+- **Arbeid og teneste.** Marsjerande musikkorps, arbeidssongar eller musikk knytt til ein periode i militæret.
+- **Det familien hugsar.** Spør søsken, barn og gamle venner kva dei alltid spelte eller song.
 
-### Think in genres, not just songs
+### Tenk i sjangrar, ikkje berre songar
 
-If you are not sure where to start, try a few minutes from each of these and watch the response: big band and swing, doo-wop, Motown and soul, early rock and roll, country and western, bluegrass, gospel and hymns, Broadway show tunes, jazz standards, Latin music such as boleros or mariachi, polka, folk and classical. Keep what brings a smile or a tapping foot; drop what brings a frown.
+Om du ikkje er sikker på kvar du skal byrje, prøv nokre minutt av kvar av desse og sjå korleis dei reagerer: big band og swing, doo-wop, Motown og soul, tidleg rock and roll, country og western, bluegrass, gospel og salmar, musikal, jazzstandardar, latinamerikansk musikk som bolero eller mariachi, polka, folkemusikk og klassisk musikk. Behald det som gir eit smil eller ein tappande fot; slepp det som gir ein rynke i panna.
 
-### Make it easy to play
+### Gjer det enkelt å spele av
 
-- **No commercials.** The Alzheimer's Association warns that ads can cause confusion. Use downloaded music, CDs, records or an ad-free service.
-- **One simple device.** A speaker with one big button, or a playlist saved and ready, so anyone can start it.
-- **Two short lists.** A calm list for settling and a lively list for lifting the mood.
-- **Label it.** Write the person's name and "favorite music" on the device so visiting family and care staff can use it too.
+- **Ingen reklame.** Alzheimer's Association advarar om at reklame kan skape forvirring. Bruk nedlasta musikk, CD-ar, plater eller ei teneste utan reklame.
+- **Ein enkel einheit.** Ein høgtalar med éin stor knapp, eller ei spelliste som er lagra og klar, slik at kven som helst kan starte henne.
+- **To korte lister.** Ei roleg liste for å roe ned og ei livleg liste for å løfte humøret.
+- **Merk det.** Skriv personens namn og «favorittmusikk» på eininga, slik at besøkjande familie og omsorgspersonale kan bruke henne òg.
 
-## 15 music activities to try
+## 15 musikkaktivitetar å prøve
 
-1. **Listen together.** Sit side by side with nothing else going on. Listening is a complete activity.
-2. **Sing along.** Start singing yourself. Humming or mouthing the words counts.
-3. **Clap or tap the beat.** Pat knees, tap the table, or use a small hand drum or shaker.
-4. **Slow dance.** Hold hands and sway in the kitchen, or dance seated, moving arms together.
-5. **Scarf dancing.** Wave light scarves in time to the music, standing or seated.
-6. **Talk about the music.** Invite, do not test: "This sounds like a dance hall. Tell me about the dances." Never ask "Do you remember this song?"
-7. **Play a whole album.** Put on a record they loved, start to finish, with coffee.
-8. **Look at album covers.** Old record sleeves are great for talking about fashion, cars and faces.
-9. **Watch a musical.** A filmed musical or concert from their era makes a good evening. Pause for breaks.
-10. **Play an instrument they know.** A former pianist or guitarist may enjoy simple playing. Later, picking out a few notes together is enough.
-11. **Music while working.** Play favorite songs while folding laundry or setting the table.
-12. **Morning song.** Start each day with the same cheerful song as part of the routine.
-13. **Sing hymns or sacred music.** Play music from their faith tradition and sing together.
-14. **Join a singing group.** The NHS describes singing groups as good for mood and wellbeing. Ask locally about dementia-friendly choirs.
-15. **Go to live music.** A short community concert or outdoor band. Sit near the exit and leave whenever you like.
+1. **Lytt saman.** Sit ved sidan av kvarandre utan anna som skjer. Å lytte er ein fullverdig aktivitet.
+2. **Syng med.** Byrj å syngje sjølv. Nynning eller å forme orda med munnen tel òg.
+3. **Klapp eller tapp i takt.** Klapp på kne, tapp på bordet, eller bruk ei liten handtromme eller ein rister.
+4. **Langsam dans.** Hald i hendene og sving i kjøkkenet, eller dans sitjande og beveg armane saman.
+5. **Skjerfdans.** Vift lette skjerf i takt med musikken, stående eller sitjande.
+6. **Snakk om musikken.** Inviter, ikkje test: «Dette høyrest ut som ein dansesal. Fortel meg om dansane.» Spør aldri «Hugsar du denne songen?»
+7. **Spel eit heilt album.** Set på ei plate dei elska, frå start til slutt, med kaffi.
+8. **Sjå på albumomslag.** Gamle platehylser er gode å snakke om mote, bilar og ansikt ut frå.
+9. **Sjå ein musikal.** Ein filma musikal eller konsert frå deira tid gjer ein god kveld. Gjer pausar.
+10. **Spel eit instrument dei kjenner.** Ein tidlegare pianist eller gitarist kan like enkel spel. Seinare er det nok å plukke nokre tonar saman.
+11. **Musikk under arbeid.** Spel favorittsongar medan du bretter klede eller dekkar bordet.
+12. **Morgonsong.** Start kvar dag med same glade song som ein del av rutinen.
+13. **Syng salmar eller sakral musikk.** Spel musikk frå trostradisjonen deira og syng saman.
+14. **Bli med i ein songgruppe.** NHS omtalar songgrupper som gode for humør og velvære. Spør lokalt etter demensvenlege kor.
+15. **Gå på levande musikk.** Ein kort lokal konsert eller eit utandørs band. Sit nær utgangen og gå når du vil.
 
-For a lighter word-play activity with familiar phrases, try [finish the saying](/games/finish-the-saying/), where you can always show the ending.
+For ei lettare ordleik med kjende fraser, prøv [fullfør setninga](/games/finish-the-saying/), der du alltid kan vise slutten.
 
-## Matching music to the moment
+## Å velje musikk etter augeblikket
 
-The Alzheimer's Association suggests using music to create the mood you want: calm music for a peaceful atmosphere, and an upbeat song from someone's youth to lift spirits.
+Alzheimer's Association foreslår å bruke musikk til å skape den stemninga du ønsker: roleg musikk for ein fredfull atmosfære, og ein oppløftande song frå nokon si ungdom for å løfte humøret.
 
-| Moment | Try | Tip |
+| Augeblikk | Prøv | Tips |
 | --- | --- | --- |
-| Getting up | A familiar, cheerful song | Same song each morning becomes a gentle cue |
-| Chores | Upbeat favorites | Music can make work feel like company |
-| Meals | Soft instrumental music | Keep it quiet so it does not compete with eating |
-| Late afternoon | Calm, familiar music in good light | See [late-day restlessness](/caregiving/late-day-restlessness/) |
-| Bedtime | Slow, gentle music | Lower the volume and the lights together |
-| Late stage | Their most-loved songs, very soft | Sit close and hold a hand |
+| Å stå opp | Ein kjend, glad song | Same song kvar morgon blir eit mildt signal |
+| Gjeremål | Oppløftande favorittar | Musikk kan gjere arbeid til selskap |
+| Måltid | Mjuk instrumental musikk | Hald det stille, så det ikkje konkurrerer med maten |
+| Ettermiddag | Roleg, kjend musikk i godt lys | Sjå [rastløyse på ettermiddagen](/caregiving/late-day-restlessness/) |
+| Leggetid | Langsam, mild musikk | Senk volumet og lyset samtidig |
+| Seinfase | Dei mest elska songane, svært lågt | Sit nær og hald ei hand |
 
-## Tips for a good experience
+## Tips for ei god oppleving
 
-- **Turn off other noise.** The Alzheimer's Association suggests shutting windows and doors and turning off the TV so music is the only sound.
-- **Keep the volume gentle.** Music should be comfortable, not loud. If the person uses hearing aids, make sure they are in and working; see [hearing](/brain-health/hearing/).
-- **Watch for sad associations.** Some songs bring up grief, war or loss. If a song upsets them, comfort them and change it.
-- **Let them lead.** If possible, let the person choose the music, and accept a no.
-- **Stop anytime.** Five minutes of music is a fine activity. So is turning it off and sitting quietly.
+- **Slå av anna støy.** Alzheimer's Association foreslår å lukke vindauge og dører og slå av TV-en, slik at musikken er den einaste lyden.
+- **Hald volumet mildt.** Musikken bør vere behageleg, ikkje høg. Om personen bruker høyrselsapparat, sjå etter at dei er i og fungerer; sjå [høyrsel](/brain-health/hearing/).
+- **Sjå etter triste assosiasjonar.** Nokre songar vekkjer sorg, krig eller tap. Om ein song gjer personen vond, trøyst dei og byt.
+- **La personen leie.** Om det er mogleg, la personen velje musikken, og godta eit nei.
+- **Stopp når som helst.** Fem minutt med musikk er ein fin aktivitet. Det same er å skru han av og sitje stille.
 
-## What does the research say about music and dementia?
+## Kva seier forskinga om musikk og demens?
 
-The evidence is limited. A [2025 Cochrane review](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) looked at 30 studies of structured music sessions, mostly with groups in nursing homes. It found these sessions probably eased depressive symptoms slightly compared with usual care, but found no clear effect on agitation, well-being or thinking and memory, and no effects that lasted after the sessions ended.
+Evidensen er avgrensa. Ein [Cochrane-oversikt frå 2025](https://www.cochrane.org/evidence/CD003477_does-music-based-therapy-help-people-dementia) såg på 30 studiar av strukturerte musikkøkter, for det meste i grupper på sjukeheimar. Han fann at desse øktene truleg lindra depressive symptom litt samanlikna med vanleg omsorg, men fann ingen klar verknad på uro, velvære eller tenking og hukommelse, og ingen verknader som varte etter at øktene var over.
 
-We share music because it is a pleasant, low-pressure way to spend time together, not as a treatment. For group settings, see [care home group activities](/activities/care-home-groups/); for using music alongside photos and stories, see [reminiscence activities](/activities/reminiscence/).
+Vi deler musikk fordi han er ein hyggeleg, lite press-prega måte å tilbringe tid saman på, ikkje som behandling. For gruppesituasjonar, sjå [gruppeaktivitetar på sjukeheim](/activities/care-home-groups/); for å bruke musikk saman med bilete og historier, sjå [minneaktivitetar](/activities/reminiscence/).
