@@ -15,14 +15,14 @@ keyPoints:
   - "Adamyň haýwan idegiň haýsy böleklerini dowam etdirmek isleýändigini soraň."
   - "Iýizdirmegi, gezelenjini ýa-da haýwany daşary goýbermegi mydama bar bolan gündelik görkezme bilen baglaň."
   - "Gerek bolanda belli bir işi ele alyp bilýän ynanylan kömekçi bilen ylalaşyň."
-  - "Gelejekki haýwan idegi üçin adam öz islegini aýdyp bilýän wagtynda öňünden meýilleşdiriň."
+  - "Geljekki haýwan idegi üçin adam öz islegini aýdyp bilýän wagtynda öňünden meýilleşdiriň."
 faq:
   - q: "Adamyň haýwanyna özüm ideg etmeli mi?"
     a: "Awtomatiki däl. Haýsy işleri dowam etdirmek isleýändigini we haýsy kömegiň kabul ediljekdigini soraň. Bir wagtda bir anyk üýtgeşme ylalaşyň we ony adam bilen haýwanyň ikisi üçin hem işleýändigini yzygiderli barlaň."
   - q: "Haýwan idegi işlerini ýatda saklamaga nädip kömek edip bileris?"
     a: "Işi tanyş bir adat bilen baglaň, mysal üçin naharyň soň iýmiti barlamak, we adamyň görýän ýerinde ýönekeý ýatladyjy ulanyň. Bir iş unudylsa, kimiň girjekdigini bilelikde karar beriň."
   - q: "Haýwan ideg etmek kynlaşsa näme etmeli?"
-    a: "Gaýtalanýan naharyň ýok bolmagy, ýadanýan gezelenç ýa-da haýwanyň özgeren hereketi ýaly anyk üýtgeşmelere serediň. Adam we weterinar bilen gürrüň ediň, soňra islegine laýyk amaly kömek guruň."
+    a: "Gaýtalanýan iýmit tabagynyň boşlugy, ýatan gezelenç ýa-da haýwanyň üýtgän hereketi ýaly anyk üýtgeşmelere serediň. Adam we weterinar bilen gürrüň ediň, soňra islegine laýyk amaly kömek guruň."
   - q: "Haýwanyň geljegi üçin meýilnama düzmeli mi?"
     a: "Hawa. Adam gatnaşyp biljek wagtynda, ýagdaý ýa-da göçüş bolsa kimiň ynanjakdygyny ara alyň. Meýilnamany ýazyň we kömek etmäge razy bolan adamlara habar beriň."
 sources:
@@ -43,7 +43,7 @@ Haýwan adamyň gündelik tertibiniň we maşgala durmuşynyň bir bölegi bolup
 
 ## Haýwan idegi tertibini nädip aňsatlaşdyryp bolar?
 
-Adamdan haýsy işleri halaýandygyny we dowam etdirmek isleýändigini soraň. Bir adam kediniň iýmitini bermegi halap, kiçi kepe arassalamagy halamaz; beýlekisi bolsa maşgala agzasy bilen iti gezelenje alyp çykmagy isläp biler. Meýilnamany adama, haýwana we elýeterli kömege laýyk saklaň.
+Adamdan haýsy işleri halaýandygyny we dowam etdirmek isleýändigini soraň. Bir adam kediniň iýmitini bermegi halap, kedi tuwaletini arassalamagy halamaz; beýlekisi bolsa maşgala agzasy bilen iti gezelenje alyp çykmagy isläp biler. Meýilnamany adama, haýwana we elýeterli kömege laýyk saklaň.
 
 - **Işi bar bolan adat bilen baglaň.** Nahardan soň iýmiti goýuň, çaý bişiren wagty suw kasasyny barlaň, ýa-da tanyş radio maksadyndan soň it bilen gezeliň. Günüň eýýäm bar bolan belgisi täze tertipden has aňsat yzarlanylyp biler.
 - **Serişdeleri bir tanyş ýerde saklaň.** Haýwanyň iýmitini, tasmasyny ýa-da fyrçasyny adamyň garaşýan ýerinde bile saklaň; agyr zatlary ýa-da himiki maddalary howpsuz ýerleşdiriň. Adam isleseler, ýönekeý belgi ýa-da ýazgy kömek edip biler.
@@ -60,17 +60,17 @@ Umumy wada däl-de, anyk işi teklip ediň. Dost her aý haýwan iýmitini alyp 
 
 Adatdaky idegçi gitse ýa-da adam gowşak bolsa, kimiň kömek edip biljekdigini ylalaşyň. Şol kömekçä serişdeleriň nirede durýandygyny, adamyň haýsy tertibi halaýandygyny we haýwan keselli bolsa kime habarlaşmalydygyny aýdyň. Kömekçiniň haýwan bilen rahat bolandygyny we haýwanyň hem oňa rahat bolandygyny barlaň.
 
-Adam idegçi kompaniýasyndan kömek alýan bolsa, haýwan idegi baryşlara nähili laýyk gelip biljekdigini soraň. Hukuklar we öý düzgünleri möhüm: haky tölenýän idegçiniň roluna it gezelenjini, iýizdirmegi ýa-da haýwany tutmagy goşmaly diýip çaklamaň. Işi adam, üpjünçi we haýwana jogapkär maşgala agzasy bilen ylalaşyň.
+Adam idegçi kompaniýasyndan kömek alýan bolsa, haýwan idegi baryşlara nähili laýyk gelip biljekdigini soraň. Hukuklar we öý düzgünleri möhüm: pul tölenýän idegçiniň roluna it gezelenjini, iýizdirmegi ýa-da haýwany tutmagy goşmaly diýip çaklamaň. Işi adam, üpjünçi we haýwana jogapkär maşgala agzasy bilen ylalaşyň.
 
 ## Goşmaça kömegiň zerurlygyny nädip bilip bolar?
 
-Adam barada derejä ýa-da baha görä däl-de, anyk wakalara serediň. Gaýtalanýan boş iýmit tabagy, haýwany gynandyrýan ýatan gezelenç ýa-da haýwany ýadyrdan ideg etmekden soň ýadaýan adam bir işe has köp kömek gerekdigini görkezip biler. Haýwanyň özgeren hereketi, iştahy ýa-da keşbi hem weterinar bilen habarlaşmak üçin sebäp.
+Adam barada derejä ýa-da baha görä däl-de, anyk wakalara serediň. Gaýtalanýan boş iýmit tabagy, haýwany gynandyrýan gezelenjiň ötüp gitmegi ýa-da haýwana ideg edeniňden soň adamyň ýorgunlaşmagy bir işe has köp kömek gerekdigini görkezip biler. Haýwanyň keşbiniň, iştahynyň ýa-da hereketiniň üýtgemegi hem weterinar bilen habarlaşmak üçin sebäpdir.
 
 Adam bilen görenleriňiz barada gürrüň ediň. Olar ýatladyjy, bilelikdäki gezelenç ýa-da bir iş üçin kömekçi isläp biler, galan adatlary saklap. Saglyk, hereket ýa-da howpsuzlyk meselesi haýwan idegine ukybyna täsir etse, idegiň topuna ýa-da ýerli goldaw hyzmatyna meýilleri işläp çykmaga kömek soraň.
 
 Krizis bolýança ýedek ideg hakda pikir etmäň. [Ýeke ýaşamak barada gollanma](/caregiving/living-alone-with-dementia/) adamyň saýlawlaryny merkezde saklap, jaňlar we amaly kömek barada ylalaşmagyň ýollaryny öz içine alýar.
 
-## Gelejekki üýtgeşmeler üçin nädip meýilleşdirmeli?
+## Geljekki üýtgeşmeler üçin nädip meýilleşdirmeli?
 
 Adamdan hassahanada, öýünden daşda ýa-da belli bir işi ýerine ýetirip bilmeýän wagtynda haýwany kimiň ynamly ideg etjekdigini soraň. Haýwanyň adaty tertibini, iýmitini, weterinaryň habarlaşyk maglumatyny we kömek etmäge razy adamlaryň adyny ýazyň. Maglumaty adamyň we ynanýan kömekçileriň tapyp biljek ýerinde, adamyň rugsady bilen saklaň.
 
@@ -78,4 +78,4 @@ Meýilnama wagtyň geçmegi bilen üýtgäp biler. Adamyň tertibi, hereketi ýa
 
 ## Haýwan bilen duşuşyk ýa-da işjeňlik rahat bolmasa näme etmeli?
 
-Gadamy adam bilen haýwan belleýän ýaly saklaň. Ikisi-de rahat bolanda birlikde wagt geçirmegi teklip ediň. Gysga duşuşyk, golaýda oturmak ýa-da haýwanyň suratyna seredip bilmek ýeterli bolup biler. Adam uzaklaşsa, haýwan başga ýana geçmäge synanyşsa ýa-da haýwan stress çekýän ýaly bolsa, duruň. Saýtyň [işjeňlik pikirleri](/activities/ideas/) bile wagt geçirmegiň beýleki tanyş ýollaryny hem öz içine alýar.
+Adama we haýwana özleriniň tizligini belläp goýmaga rugsat beriň. Ikisi-de rahat bolanda birlikde wagt geçirmegi teklip ediň. Gysga duşuşyk, golaýda oturmak ýa-da haýwanyň suratyna seredip bilmek ýeterli bolup biler. Adam uzaklaşsa, haýwan başga ýana geçmäge synanyşsa ýa-da haýwan stress çekýän ýaly bolsa, duruň. Sahypamyzyň [işjeňlik pikirleri](/activities/ideas/) bile wagt geçirmegiň beýleki tanyş ýollaryny hem öz içine alýar.
