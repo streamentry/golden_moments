@@ -94,7 +94,7 @@ Arst saab aidata otsustada, kas inimene vajab hindamist, ja öelda, mida pärast
 
 ## Kuidas mõelda uue kukkumise peale?
 
-Kui kohesed terviseprobleemid on lahendatud, kaaluge, mis oli keskkonnas ja rutiinis. Ummikus tee, valguse muutus või tundmatu marsruut võivad olla olulised, kuid ärge eeldage, et üks oht põhjustas kukkumise. Küsige inimeselt, mida ta märkas ja mis teeks ruumi kasutamise lihtsamaks. Kui inimene ei mäleta või ei oska kukkumist selgitada, jagage, mida ise nägite, ilma et hakkaksite teda üksikasjade peale suruma. Märkige aeg, koht, jalanõud, valgustus, tegevus ja muutus tema tavapärases liikumises või käitumises. Lühike märge võib aidata arstil leida mustreid; see ei tuvasta põhjust.
+Kui kohesed terviseprobleemid on lahendatud, kaaluge, mis oli keskkonnas ja rutiinis. Rämpsune tee, valguse muutus või tundmatu marsruut võivad olla olulised, kuid ärge eeldage, et üks oht põhjustas kukkumise. Küsige inimeselt, mida ta märkas ja mis teeks ruumi kasutamise lihtsamaks. Kui inimene ei mäleta või ei oska kukkumist selgitada, jagage, mida ise nägite, ilma et hakkaksite teda üksikasjade peale suruma. Märkige aeg, koht, jalanõud, valgustus, tegevus ja muutus tema tavapärases liikumises või käitumises. Lühike märge võib aidata arstil leida mustreid; see ei tuvasta põhjust.
 
 Meie [kodu ohutuse juhend](/caregiving/home-safety/) sisaldab ruumide kaupa kontrollnimekirju. Kui kukkumine toimus vannitamise ajal, vaadake meie [vannitamise juhendit](/caregiving/bathing-with-dementia/). Arst, tegevusterapeut või kohalik kukkumiste teenus saab hinnata individuaalseid muresid ja soovitada sobivaid muudatusi. Ärge paigaldage seadmeid ega muutke ettekirjutatud ravimit ainult selle lehe põhjal.
 
