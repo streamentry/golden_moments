@@ -1,34 +1,30 @@
 ---
-title: "Activities for People with Dementia: 101 Simple Ideas"
-seoTitle: "101 Activities for People with Dementia"
-description: "101 simple, adult activities for people living with dementia, from folding towels to music and photos, with how to adapt each one as things get harder."
+title: "失智症活动：101个简单的点子"
+seoTitle: "失智症活动点子：101个简单活动"
+description: "101个简单、成人化的失智症活动，从叠毛巾到音乐和照片，并说明难度增加时如何调整每一项。"
 section: activities
 order: 1
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for people with dementia are familiar, adult and easy to
-  share: folding laundry, sorting, cooking, music, looking at photos, walking,
-  gardening, time with pets and simple games. Choose what the person has always
-  enjoyed, take over the hard parts, and stop when they tire. Pleasant time
-  together matters more than finishing anything.
+  适合失智症的好活动，应该熟悉、成人化，并且容易一起进行：叠衣服、分类、烹饪、音乐、看照片、散步、园艺、与宠物相处和简单的游戏。选择对方一直喜欢的事情，帮他接手困难的部分，并在对方疲倦时停下来。一起度过愉快的时光，比完成任何事情都重要。
 keyPoints:
-  - "Start from the person's own life: their work, hobbies, faith and favorite music are the best guide."
-  - "Make any activity smaller as needed: fewer steps, fewer choices, you do the hard part."
-  - "Watching, holding something or simply sitting nearby all count as taking part."
-  - "Stop or switch when you see tiredness, frustration or boredom. Ending early is a good outcome."
-  - "Doing it together matters more than doing it right."
+  - "从对方自己的生活出发：他的工作、爱好、信仰和喜欢的音乐，是最好的指引。"
+  - "根据需要把任何活动做得更小：步骤更少、选择更少，由您来做困难的部分。"
+  - "观看、拿着某样东西，或只是坐在身边，都算是参与。"
+  - "一旦出现疲倦、挫折或无聊的迹象，就停下或换一个活动。提早结束是很好的结果。"
+  - "一起做比做得对更重要。"
 faq:
-  - q: "What activities are good for someone with dementia?"
-    a: "Familiar activities the person has done for years, made a little simpler: folding laundry, setting the table, cooking, music, looking at photos, walking, gardening and time with a pet. Choose things that feel adult and useful, and do them together."
-  - q: "How long should an activity last?"
-    a: "There is no right length. A few minutes of folding towels may be plenty one day, and an hour in the garden may feel easy on another. Let the person set the pace and end while it still feels pleasant."
-  - q: "What if the person refuses to do an activity?"
-    a: "Do not push. A no can mean the task feels too hard, the timing is wrong, or they are tired or uncomfortable. Try later, offer a smaller version, or start the task yourself nearby and invite them to help."
-  - q: "Are brain games good for people with dementia?"
-    a: "Games can be a pleasant way to spend time together, but no game has been shown to treat, slow or stop dementia. Choose games with no timer, score or wrong-answer sounds, and treat them as a shared activity, not a test."
-  - q: "How do I keep activities from feeling childish?"
-    a: "Use real, adult materials: real towels, real recipes, grown-up music and art supplies, and pictures with adult themes. Frame tasks as help you genuinely need, and talk to the person as the adult they are."
+  - q: "哪些活动适合失智症的人？"
+    a: "对方多年来熟悉的活动，稍微简化即可：叠衣服、摆餐桌、烹饪、音乐、看照片、散步、园艺和与宠物相处的时间。选择感觉成熟、有用的事情，并一起去做。"
+  - q: "一项活动应该持续多久？"
+    a: "没有固定的长度。某天叠几分钟毛巾可能就已足够，另一天在花园里待一个小时可能也很轻松。让对方决定节奏，并在仍然感觉愉快的时候结束。"
+  - q: "如果对方拒绝参加某项活动，怎么办？"
+    a: "不要勉强。“不”可能表示这项任务对他们来说太难、时机不对，或者他们累了或感到不舒服。可以稍后再试，提供一个较小的版本，或者您自己在旁边开始做，然后邀请他们来帮忙。"
+  - q: "脑力游戏对失智症的人有帮助吗？"
+    a: "游戏可以是一起度过时光的愉快方式，但目前没有任何游戏被证实能治疗、减缓或阻止失智症。选择没有计时器、分数或答错提示音的游戏，把它当作一起分享的活动，而不是考试。"
+  - q: "怎样让活动不会显得幼稚？"
+    a: "使用真实的成人材料：真的毛巾、真的食谱、成人的音乐和美术用品，以及有成人主题的图片。把任务说成您真正需要的帮助，并把对方当作一位成熟的成年人来对待。"
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -50,207 +46,207 @@ related: [activities/early-stage, activities/middle-stage, activities/late-stage
 health: false
 ---
 
-The best activity for a person living with dementia is usually something they already know how to do, made a little simpler and done alongside someone they trust. Below are 101 ideas, grouped by type, each with how to set it up and how to make it easier when it gets harder. You do not need special equipment, and you do not need to finish anything. A good afternoon can be one basket of towels and a cup of coffee together.
+对于与失智症共同生活的人来说，最好的活动通常是对方已经知道怎么做的事，稍微简化一下，并与信任的人一起做。下面是101个点子，按类型分组，每个都附有如何安排，以及当事情变得困难时如何让它更容易。您不需要特别的器材，也不需要把任何事情做完。一个愉快的下午，可以只是一篮毛巾加上一杯一起喝的咖啡。
 
-## How do you choose the right activity?
+## 如何选择合适的活动？
 
-Choose by the person, not the list: start with what they have always enjoyed and what they can comfortably do today.
+依据对方本人来选择，而不是照着清单选：从他一直喜欢的事情，以及他今天能舒服做到的事情开始。
 
-- **Think about their work and hobbies.** The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) suggests that a former office worker may enjoy sorting coins or assembling mailings, and a gardener may enjoy yard work.
-- **Notice what they already do.** If your dad sweeps the porch every morning unasked, build that into the day.
-- **Plan around limits.** Tiredness, eyesight, hearing, sore hands and balance all matter.
-- **Watch their mood.** Busy, noisy activities suit some people and frighten others.
-- **Give it a purpose.** Folding napkins for a church supper feels more worthwhile than an exercise for its own sake.
+- **想想他的工作和爱好。** [阿尔茨海默病协会](https://www.alz.org/help-support/caregiving/daily-care/activities)指出，以前在办公室工作的人可能喜欢分类硬币或装邮件，而园丁可能喜欢做园艺。
+- **留意他已经在做的事。** 如果您的父亲每天早上没有人要求，就主动扫门廊，那就把这件事放进他的一天里。
+- **考虑他的限制。** 疲倦、视力、听力、手部酸痛和平衡，都很重要。
+- **观察他的情绪。** 忙碌、吵闹的活动，有些人喜欢，也有些人会被吓到。
+- **赋予它目的。** 为教会的晚餐折餐巾，比为了运动而运动更有价值。
 
-### A rough guide by stage
+### 按阶段的粗略指南
 
-Dementia is often described in early, middle and late stages. These are loose labels, not boxes, and many people have better and harder days, so go by what you see today. The [Alzheimer's Foundation of America's list by stage](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) follows a similar pattern.
+失智症通常被分为早期、中期和晚期。这些只是宽松的标签，而不是框框，许多人会有较好和较困难的日子，所以请依据您今天看到的情况来判断。[美国阿尔茨海默病基金会按阶段列出的活动](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/)也遵循类似的模式。
 
-| Topic | Early stage | Middle stage | Late stage |
+| 主题 | 早期 | 中期 | 晚期 |
 | --- | --- | --- | --- |
-| What you may notice | Mostly independent; planning, new names and busy places get harder | Needs help starting and with steps; words come less easily | Needs help with most daily care; the senses matter most |
-| Activities that often fit | Cards, board games, cooking, gardening, journaling, outings, clubs | Folding laundry, sorting, simple cooking steps, singing, photo albums, guided walks | Favorite music, hand massage, soft things to hold, being read to, sitting outside |
-| Your role | Partner: ask what support they want | Set up, show, take over the hard parts | Bring the activity to them; your company is the activity |
-| More ideas | [Early stage](/activities/early-stage/) | [Middle stage](/activities/middle-stage/) | [Late stage](/activities/late-stage/) |
+| 您可能注意到的情况 | 大多能独立生活；计划、记住新名字和身处忙碌的地方会变得困难 | 开始和完成步骤时需要帮忙；词语较难想起 | 大部分日常护理需要帮忙；感官变得最为重要 |
+| 通常适合的活动 | 纸牌、棋盘游戏、烹饪、园艺、写日记、外出、社团 | 叠衣服、分类、简单的烹饪步骤、唱歌、相册、有人带领的散步 | 喜欢的音乐、手部按摩、可以拿着的柔软物品、有人为他朗读、在户外坐坐 |
+| 您的角色 | 伙伴：问对方需要什么样的支持 | 布置好、示范，并接手困难的部分 | 把活动带到他们身边；您的陪伴就是活动 |
+| 更多点子 | [早期](/activities/early-stage/) | [中期](/activities/middle-stage/) | [晚期](/activities/late-stage/) |
 
-## How do you start an activity with someone who has dementia?
+## 怎样开始和失智症的人一起活动？
 
-Start small, start alongside them, and make it easy to say yes. Many people still want to take part but find it hard to plan or begin.
+从小处开始，与对方并肩，并让人容易说“好”。许多人仍然想参与，但很难计划或开始。
 
-1. **Pick their best time,** often the morning.
-2. **Set everything out first** so you can begin right away.
-3. **Ask for help, not a performance:** "Could you give me a hand with these?"
-4. **Begin it yourself.** Fold the first towel and let them join in. Showing beats explaining.
-5. **Offer one step at a time.**
-6. **Take the hardest part.** The Alzheimer's Association suggests measuring ingredients yourself, then handing over the spoon to stir.
-7. **Let it be done their way.** Differently folded towels are fine.
-8. **Stop when it stops being pleasant.** Fidgeting, frowning or "I can't" are signs to switch or rest.
+1. **选对方状态最好的时间，** 通常是早上。
+2. **先把所有东西都摆好，** 这样可以马上开始。
+3. **请对方帮忙，而不是表演：** “能帮我一下这些东西吗？”
+4. **您自己先开始。** 先折好第一条毛巾，再让对方加入。示范胜过讲解。
+5. **一次只给一个步骤。**
+6. **接手最难的部分。** 阿尔茨海默病协会建议由您自己量材料，然后把汤匙交给对方去搅拌。
+7. **让他用自己的方式完成。** 折法不同的毛巾也没关系。
+8. **当它不再令人愉快时就停下来。** 坐立不安、皱眉或说“我做不来”，都是换活动或休息的信号。
 
-See also [how to play together](/caregiving/how-to-play-together/) and [communication tips](/caregiving/communication-tips/).
+另请参阅[如何一起玩](/caregiving/how-to-play-together/)和[沟通技巧](/caregiving/communication-tips/)。
 
-## Everyday tasks at home
+## 家中的日常工作
 
-Household jobs are familiar and useful, which makes them a natural place to begin. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists dishes, setting the table, sweeping, sorting mail and folding laundry among activities people may enjoy. More in [household tasks](/activities/household-tasks/).
+家务活动熟悉而且有用，所以是很自然的开始。[美国国家老龄研究所](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease)列出了洗碗、摆餐桌、扫地、整理邮件和折衣服等，都是人们可能喜欢的活动。更多内容请参阅[家务活动](/activities/household-tasks/)。
 
-1. **Fold warm towels.** Tip a basket from the dryer onto the table and fold side by side. Later, smoothing and stacking is just as helpful.
-2. **Pair socks.** Start with very different colors. Later, sorting light from dark is plenty.
-3. **Set the table.** Hand over one kind of item at a time. Set one place yourself as a model.
-4. **Wash or dry dishes.** Warm, soapy water and unbreakable dishes. Drying while seated is easier on the legs.
-5. **Wipe the table.** Hand over a damp cloth after meals. It is real work for restless hands.
-6. **Sort the mail.** Catalogs and junk mail into "keep" and "recycle." Keep real bills out.
-7. **Clip coupons.** Round-tip scissors and grocery flyers. Later, circling favorite foods works too.
-8. **Sort coins.** Sort change into cups or roll it into wrappers. Skip small items if the person puts things in their mouth.
-9. **Sweep or dust.** A light broom on the porch, or a long-handled duster used from a chair.
-10. **Help make a meal.** Washing vegetables, tearing lettuce, stirring. You handle knives and heat.
-11. **Bake a family recipe.** Use the card in their handwriting if you have it. Later, they can be the taster.
-12. **Do office work.** Fold letters, stuff and stamp envelopes, or write the shopping list together.
+1. **折热的毛巾。** 把烘干机里的一篮衣服倒在桌上，并肩折叠。之后，抚平和叠放同样有帮助。
+2. **配对袜子。** 从颜色差异很大的袜子开始。之后，只要把浅色和深色的袜子分开就足够了。
+3. **摆餐桌。** 一次只交一种物品。您自己先摆好一个位置作为示范。
+4. **洗碗或擦碗。** 温水、肥皂和不易碎的餐具。坐着擦干碗碟，对腿部比较轻松。
+5. **擦桌子。** 用餐后递给对方一块湿布。这对不安的双手来说，是真正的工作。
+6. **整理邮件。** 把商品目录和垃圾邮件分成“保留”和“回收”。真正的账单则不要放在里面。
+7. **剪优惠券。** 圆头剪刀和超市的宣传单。之后，圈出喜欢的食物也可以。
+8. **分硬币。** 把零钱分进杯子里，或卷进硬币纸里。如果对方会把东西放进嘴里，就不要给小物件。
+9. **扫地或除尘。** 门廊上用轻便的扫帚，或坐在椅子上用长柄的掸子。
+10. **帮忙做一顿饭。** 洗菜、撕生菜、搅拌。您负责刀具和炉火。
+11. **烤一道家传食谱。** 如果有写着对方笔迹的食谱卡，就用它。之后，他们可以当品尝的人。
+12. **做办公室的工作。** 折信件、把信封装好并贴邮票，或一起写购物清单。
 
-## Music
+## 音乐
 
-Familiar music can reach people even when words are hard. The [Alzheimer's Association's music tips](https://www.alz.org/help-support/caregiving/daily-care/art-music) suggest familiar songs, no commercials and the TV off. See [music activities](/activities/music/).
+即使说话变得困难，熟悉的音乐仍然能触及人心。[阿尔茨海默病协会的音乐建议](https://www.alz.org/help-support/caregiving/daily-care/art-music)提倡使用熟悉的歌曲，避开广告，并关掉电视。请参阅[音乐活动](/activities/music/)。
 
-13. **Build a personal playlist.** Music from their teens and twenties, their wedding, their church and their culture.
-14. **Sing along.** Start singing yourself. Humming or listening counts.
-15. **Keep the beat.** Clap, pat knees or tap a hand drum. Works seated and in late stages.
-16. **Dance.** Slow dance in the kitchen, or sway seated while holding hands.
-17. **Play a whole album.** A favorite record start to finish, with coffee and nothing else going on.
-18. **Talk about the music.** Invite stories, not facts: "Tell me about the dances you went to."
-19. **Watch a filmed musical or concert.** A show they loved makes a good evening. Pause anytime.
-20. **Play a familiar instrument.** A former pianist may enjoy simple pieces; later, a few notes together.
-21. **Hear live music.** A short community concert or choir rehearsal. Sit near the exit.
+13. **制作个人的播放列表。** 他十几岁和二十出头时的音乐、他的婚礼、他的教会，以及他的文化。
+14. **跟着唱。** 您自己先开始唱。哼唱或聆听同样算数。
+15. **打拍子。** 拍手、拍膝盖，或敲一个手鼓。坐着和晚期都可以进行。
+16. **跳舞。** 在厨房里慢舞，或握着手坐着轻轻摇摆。
+17. **从头到尾播放一整张专辑。** 播放他喜欢的唱片，从头听到尾，喝着咖啡，别的什么都不做。
+18. **聊聊音乐。** 邀请对方讲故事，而不是讲事实：“跟我讲讲你去过的那些舞会。”
+19. **观看录制的音乐剧或音乐会。** 他喜欢的演出，适合作为一个晚上的节目。随时可以暂停。
+20. **弹奏熟悉的乐器。** 以前是钢琴家的人，可能喜欢简单的曲子；到了后期，一起弹几个音也可以。
+21. **欣赏现场音乐。** 短时间的社区音乐会或合唱团排练。坐在靠近出口的地方。
 
-## Reminiscence: photos, objects and stories
+## 怀旧：照片、物品与故事
 
-Enjoy the past together without testing it. Skip "Do you remember...?" and "Who is this?" and use open invitations instead. See [reminiscence activities](/activities/reminiscence/).
+一起回味过去，但不要把它变成考验。不要问“你还记得……吗？”或“这是谁？”，而是用开放的邀请来取代。请参阅[怀旧活动](/activities/reminiscence/)。
 
-22. **Look through a photo album.** Say what you see: "What a dress. Tell me about this day." Go along with any names they use.
-23. **Make a memory box.** A shoebox of things from their life, like a work badge or recipe card. Take items out one at a time.
-24. **Start a life-story book.** A few photos per page with large-print captions. It helps new helpers know the person.
-25. **Use conversation cards.** [Conversation cards](/games/conversation-cards/) pair a picture with an open prompt.
-26. **Make a family photo game.** [Photo pairs](/games/photo-pairs/) turns your own photos into a matching game.
-27. **Watch home movies or old TV.** Comment together rather than asking questions.
-28. **Handle objects from their working life.** A wrench, a stethoscope, a ledger. Hands often lead the story.
-29. **Cook a childhood dish.** They can stir, taste or simply sit in the kitchen with you.
-30. **Look at a map of places they lived.** Trace familiar roads in a large atlas while you talk.
+22. **翻看相册。** 说出您看到的东西：“好漂亮的裙子。跟我讲讲这一天的事。”对方用的任何名字，您都顺着说。
+23. **做一个回忆盒。** 一个鞋盒，里面放着他生活中的物品，例如工作证或食谱卡。一次只拿出一件。
+24. **开始制作生命故事书。** 每页放几张照片，并配上大字的说明。这能帮助新来的帮手认识这个人。
+25. **使用谈话卡片。** [谈话卡片](/games/conversation-cards/)把图片和开放式的提问配在一起。
+26. **制作家庭照片游戏。** [照片配对](/games/photo-pairs/)可以把您自己的照片变成配对游戏。
+27. **看家庭录像或旧电视节目。** 一起评论，而不是不停地提问。
+28. **拿起他工作时用过的物品。** 一把扳手、一个听诊器、一本账簿。双手常常会带出故事。
+29. **做一道童年时的菜。** 对方可以搅拌、品尝，或者只是坐在厨房里陪您。
+30. **看看他住过的地方的地图。** 一边聊天，一边在大本的地图集上沿着熟悉的道路指一指。
 
-## Creative activities
+## 创意活动
 
-Art is about doing, not the finished piece. Keep materials adult and safe. See [arts and crafts](/activities/arts-and-crafts/).
+艺术重在动手，而不是完成的作品。请使用成人化且安全的材料。请参阅[手工艺活动](/activities/arts-and-crafts/)。
 
-31. **Paint with watercolors.** Thick paper, a few colors. If starting is hard, guide the first strokes together.
-32. **Color adult designs.** Flowers or quilts, not cartoons. Our [coloring pages](/games/coloring/) work on screen or printed.
-33. **Make a collage.** Tear magazine pictures of gardens, cars or food and glue them down. Later, just choosing pictures is enough.
-34. **Arrange flowers.** A grocery-store bunch and a vase. Later, a few stems in a jar.
-35. **Knit or crochet together.** Simple rows on large needles. Later, winding yarn into balls.
-36. **Make cards for family.** Stamp, sign or decorate birthday and get-well cards for real people.
-37. **Shape air-dry clay.** Press out a small dish. Use non-toxic materials and stay nearby.
-38. **Sand and finish wood.** A pre-cut birdhouse kit and sandpaper, no power tools. See [activities for men](/activities/for-men/).
-39. **Write or dictate a letter.** To a grandchild or old friend. If writing is hard, they talk and you write.
+31. **用水彩画画。** 厚纸，几种颜色。如果一开始很难动手，就一起引导第一笔。
+32. **给成人图案涂色。** 花朵或被子图案，而不是卡通。我们的[填色画](/games/coloring/)可以在屏幕上使用，也可以打印出来。
+33. **做拼贴。** 把杂志上的花园、汽车或食物图片撕下来，粘在纸上。之后，只要挑选图片就已足够。
+34. **插花。** 超市买的一束花加上一个花瓶。之后，只用几枝插在罐子里。
+35. **一起编织或钩针。** 用大号针织出简单的几行。之后，把毛线绕成球也可以。
+36. **为家人做卡片。** 为真实的人做生日卡或探病卡，盖章、签名或装饰。
+37. **捏风干黏土。** 压出一个小碟子。使用无毒的材料，并待在身边。
+38. **打磨和上漆木头。** 预先切好的鸟屋套件加上砂纸，不用电动工具。请参阅[男性活动](/activities/for-men/)。
+39. **写信或口述信件。** 写给孙子女或老朋友。如果书写很困难，他们说，您来写。
 
-## Outdoors and gardening
+## 户外与园艺
 
-Fresh air and daylight are good company. See [outdoor and gardening activities](/activities/outdoor-and-gardening/).
+新鲜空气和日光是很好的陪伴。请参阅[户外与园艺活动](/activities/outdoor-and-gardening/)。
 
-40. **Water plants.** A small can and a few pots. Daily watering gives the day a rhythm.
-41. **Plant a pot.** Set it on a table so nobody kneels. Seedlings are easier than seeds.
-42. **Weed or deadhead.** Gloves on, one small bed at a time.
-43. **Rake leaves.** One small patch. Later, holding the bag open is a real job.
-44. **Walk a familiar route.** Around the block or to the mailbox. Shorter is fine.
-45. **Sit outside together.** A porch chair on a mild day. Watch clouds or passersby.
-46. **Feed the birds.** Fill a feeder together and watch from a window seat.
-47. **Wash the car.** Bucket, sponge, warm afternoon. Rinsing hubcaps is a good one-step job.
+40. **浇花。** 一个小水壶和几盆植物。每天浇水能让一天有节奏。
+41. **种一盆植物。** 把它放在桌上，这样就不必有人蹲下。幼苗比种子容易。
+42. **除草或摘除枯花。** 戴好手套，一次只处理一小块花圃。
+43. **耙落叶。** 一小块地方。之后，帮忙撑开袋子也是真正的工作。
+44. **沿熟悉的路线散步。** 绕着街区走，或走到信箱那里。短一点也可以。
+45. **一起坐在户外。** 在温和的日子里坐在门廊的椅子上，看看云，或看路过的人。
+46. **喂鸟。** 一起把鸟食器装满，然后坐在窗边的座位上观看。
+47. **洗车。** 水桶、海绵，温暖的下午。冲洗轮毂盖是很好的单步骤工作。
 
-## Sensory activities
+## 感官活动
 
-Touch, smell, taste, sound and sight matter more as dementia progresses. The [NHS](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/) mentions music, objects to handle and hand massage for later stages. Check for allergies and choking risks first; see [sensory activities](/activities/sensory/).
+随着失智症的发展，触觉、嗅觉、味觉、听觉和视觉会变得更加重要。[英国国家医疗服务体系（NHS）](https://www.nhs.uk/conditions/dementia/living-with-dementia/activities/)提到，在后期可以使用音乐、可以拿着的物品和手部按摩。但首先要检查是否有过敏和噎住的风险；请参阅[感官活动](/activities/sensory/)。
 
-48. **Give a hand massage.** Ask first and use a little lotion. Choose unscented if unsure about skin or allergies.
-49. **Feel fabrics.** A basket of velvet, corduroy, wool and satin to stroke and fold.
-50. **Smell herbs and coffee.** Rub fresh mint or rosemary between your fingers. Skip strong scents with breathing problems.
-51. **Brush their hair.** Slow and gentle, if they enjoy it.
-52. **Share a warm washcloth.** For hands and face on a cold day. Test the temperature first.
-53. **Explore an activity apron.** Large buttons and zippers sewn on firmly. Check nothing can come loose.
-54. **Taste a favorite treat.** A small spoonful, in a texture they can manage safely.
-55. **Play nature sounds.** Rain, waves or birdsong at low volume.
-56. **Watch something slow.** A fish tank, a nature video or falling snow.
+48. **做手部按摩。** 先征求同意，并使用少量乳液。如果不确定皮肤或过敏情况，就选择无香味的产品。
+49. **感受布料。** 一篮天鹅绒、灯芯绒、羊毛和缎子，可以抚摸和折叠。
+50. **闻香草和咖啡。** 把新鲜的薄荷或迷迭香在手指间揉一揉。如果呼吸有问题，就避免浓烈的气味。
+51. **梳头。** 如果对方喜欢，动作要缓慢轻柔。
+52. **分享温热的小毛巾。** 在寒冷的日子里擦手和脸。先试好温度。
+53. **探索活动围裙。** 缝牢的大钮扣和拉链。检查是否有东西会松脱。
+54. **品尝喜欢的小零食。** 只给一小勺，并选择对方能安全吃下的质地。
+55. **播放自然的声音。** 小音量的雨声、海浪声或鸟鸣。
+56. **看一些缓慢的东西。** 鱼缸、自然纪录片，或飘落的雪。
 
-## Games and puzzles
+## 游戏与拼图
 
-Games work when there is no timer, score or pressure. If one starts to feel like a test, put it away. See [choosing apps and games](/caregiving/choosing-apps-and-games/) and [brain games](/brain-health/brain-games/).
+游戏在没有计时器、分数或压力时才行得通。如果某个游戏开始让人觉得像考试，就收起来。请参阅[如何选择应用程序和游戏](/caregiving/choosing-apps-and-games/)和[脑力游戏](/brain-health/brain-games/)。
 
-57. **Match pictures.** [Picture pairs](/games/picture-pairs/) lets pictures stay face up, so it is about noticing, not remembering.
-58. **Find the same picture.** [Find the same](/games/find-the-same/) offers two to four choices. Chat about each picture.
-59. **Sort into baskets.** [Sort together](/games/sort-together/) is like sorting socks on screen.
-60. **Do a large-piece jigsaw.** Adult images, an easy piece count. [Picture puzzle](/games/picture-puzzle/) keeps the whole picture visible. More in [puzzles for dementia](/activities/puzzles/).
-61. **Play an old card game.** Whatever they played for years. Later, sorting the deck by color is a game in itself.
-62. **Play dominoes.** Match the ends. Later, just lining tiles up is fine.
-63. **Try a large-print word search.** Our [word search](/games/word-search/) has words across and down only, and prints.
-64. **Finish familiar sayings.** [Finish the saying](/games/finish-the-saying/) lets you show the ending anytime.
-65. **Play picture bingo.** [Picture bingo](/games/picture-bingo/) suits families and groups. Help mark cards freely.
-66. **Play checkers.** Keep the rules loose. Moving pieces while you chat counts.
+57. **配对图片。** [图片配对](/games/picture-pairs/)让图片保持朝上，所以重点在于注意到，而不是记住。
+58. **找出相同的图片。** [找相同的](/games/find-the-same/)提供两到四个选项。对每张图片聊几句。
+59. **分进篮子里。** [一起分类](/games/sort-together/)就像在屏幕上分袜子。
+60. **大块拼图。** 成人的图片，拼块数量容易。[图片拼图](/games/picture-puzzle/)让整幅图都保持可见。更多内容请参阅[失智症拼图](/activities/puzzles/)。
+61. **玩一种老纸牌游戏。** 对方多年来玩过的任何一种。之后，把牌按颜色整理也可以成为一种游戏。
+62. **玩多米诺骨牌。** 对齐两端。之后，只要把骨牌排成一排就可以了。
+63. **尝试大字的找字游戏。** 我们的[找字游戏](/games/word-search/)只有横排和竖排，并且可以打印。
+64. **完成熟悉的俗语。** [接俗语](/games/finish-the-saying/)让您随时可以展示结尾。
+65. **玩图片宾果。** [图片宾果](/games/picture-bingo/)适合家庭和团体。可以自由地帮忙标记卡片。
+66. **玩跳棋。** 规则放宽。边聊天边移动棋子也算。
 
-## Movement
+## 活动身体
 
-The NIA suggests walks, a stationary bike, stretching bands, tossing a soft ball or balloon, lifting soup cans and exercise videos for older adults. Check with a doctor before starting anything new, especially with balance problems.
+美国国家老龄研究所建议散步、固定自行车、伸展弹力带、轻抛软球或气球、举起汤罐，以及为老年人设计的运动视频。开始任何新的活动之前，请先咨询医生，尤其是有平衡问题时。
 
-67. **Toss a balloon.** Sit facing each other. It moves slowly, so it is easy to catch.
-68. **Follow a seated exercise video** made for older adults, side by side.
-69. **Stretch with a band.** Gentle arm pulls with a light band while seated.
-70. **Lift soup cans.** Slow arm raises, perhaps to music.
-71. **Ride a stationary bike.** A few easy minutes, with you nearby.
-72. **Dance with scarves.** Wave light scarves to music, seated or standing.
-73. **Walk with a purpose.** To mail a letter or buy a coffee. A reason to go feels natural.
-74. **Share a breathing pause.** Slow down together with [calm breathing](/games/calm-breathing/).
+67. **抛气球。** 面对面坐着。气球移动得慢，容易接到。
+68. **跟着坐姿运动视频做。** 为老年人设计的视频，并肩一起做。
+69. **用弹力带伸展。** 坐着，用轻的弹力带做温和的手臂拉伸。
+70. **举起汤罐。** 缓慢地抬起手臂，也许配合音乐。
+71. **骑固定自行车。** 几分钟轻松的骑行，您在旁边陪着。
+72. **用丝巾跳舞。** 随着音乐挥动轻的丝巾，坐着或站着都可以。
+73. **有目的地走走。** 去寄一封信或买杯咖啡。有个去的理由，走路就会显得自然。
+74. **一起做呼吸停顿。** 和[平静呼吸](/games/calm-breathing/)一起放慢节奏。
 
-## Social activities
+## 社交活动
 
-Company matters even when names are hard, and small groups are easier than big ones. The NIA notes that a person may not remember who a visitor is but often still enjoys the company. See [visiting](/activities/visiting/).
+即使记不起名字，陪伴仍然很重要，而且小团体比大团体容易。美国国家老龄研究所指出，一个人可能不记得访客是谁，但往往仍然喜欢有人陪伴。请参阅[探访](/activities/visiting/)。
 
-75. **Have one or two visitors at a time.** Short visits in a quiet room, with photos to look at.
-76. **Video call family.** Short calls, one voice at a time. See [phone and video calls](/activities/phone-and-video-calls/).
-77. **Try a memory café.** Informal drop-in gatherings for people living with dementia and their caregivers. Ask your local Area Agency on Aging what is nearby.
-78. **Eat out at a quiet time.** The NIA suggests a familiar, quiet restaurant at off-hours, with a table near the restroom.
-79. **Visit a senior center or adult day program.** Company for them and a break for you.
-80. **Spend time with children.** A short, calm visit from grandchildren, or reading a picture book to a toddler.
-81. **Share the newspaper over coffee.** Read headlines aloud. The ritual matters more than the news.
-82. **Help someone else.** Fold church programs or make a card for a neighbor.
+75. **每次有一两位访客。** 在安静的房间里短暂拜访，并准备一些照片给对方看。
+76. **与家人视频通话。** 通话要短，一次一个人说话。请参阅[电话和视频通话](/activities/phone-and-video-calls/)。
+77. **去记忆咖啡馆。** 为失智症人士及其照护者举办的非正式聚会。问问您当地的老年服务机构附近有哪些。
+78. **在安静的时段外出用餐。** 美国国家老龄研究所建议去熟悉、安静的餐厅，选择非高峰时段，并选在靠近洗手间的桌子。
+79. **去老年中心或成人日间活动中心。** 对他们来说是陪伴，对您来说是休息。
+80. **与孩子相处。** 孙子女的短暂、平静的探访，或为幼儿朗读一本图画书。
+81. **一起喝咖啡看报纸。** 朗读头条。这种仪式比新闻本身更重要。
+82. **帮助别人。** 折教会的节目单，或为邻居做一张卡片。
 
-## Faith and spiritual activities
+## 信仰与灵性活动
 
-Follow the person's own tradition, or none. The NIA suggests familiar services, readings, sacred music, prayer, meditation and holiday rituals.
+尊重对方自己的信仰传统，或没有信仰。美国国家老龄研究所建议参加熟悉的礼拜、阅读经文、听圣乐、祈祷、冥想，以及节日的仪式。
 
-83. **Attend a familiar service.** Choose a quieter one, sit near the aisle, and let people there know about the dementia.
-84. **Watch a service online** on days when going out is too much.
-85. **Pray or read together.** Familiar words, read slowly. They may join in on parts they know.
-86. **Sing hymns or sacred music** from their tradition.
-87. **Keep holiday rituals.** Battery candles, a blessing, the decorations they always used.
-88. **Share quiet time.** Sit in a garden or watch the sunset together.
+83. **参加熟悉的礼拜。** 选择较安静的一场，坐在靠近走道的地方，并让那里的人知道对方有失智症。
+84. **在不便外出的日子里在线观看礼拜。**
+85. **一起祈祷或阅读。** 用熟悉的文字，慢慢地读。对于他们知道的部分，他们可能会跟着读。
+86. **唱诗歌或圣乐。** 来自他们信仰传统的歌曲。
+87. **保留节日的仪式。** 电子蜡烛、一段祝福，或他们一直使用的装饰。
+88. **共享安静的时光。** 一起坐在花园里，或看日落。
 
-## Pets and animals
+## 宠物与动物
 
-The NIA suggests feeding, grooming, walking, or sitting with and holding a pet.
+美国国家老龄研究所建议喂养、梳理、遛宠物，或陪伴、抱着宠物。
 
-89. **Brush a calm dog or cat** with long, slow strokes.
-90. **Feed the pet together.** You measure; they pour.
-91. **Walk the dog together.** You hold the leash.
-92. **Hold a pet on the lap.** A calm cat on a blanket can be very settling.
-93. **Welcome visiting animals.** Some care homes and day programs host animal visits. Ask locally.
-94. **Offer a lifelike soft animal.** If there is no pet, some people enjoy holding a realistic plush cat or dog. Offer it simply, never as a toy, and accept a no.
+89. **梳理温顺的狗或猫。** 用长而慢的笔触。
+90. **一起喂宠物。** 您量食物，他们倒进碗里。
+91. **一起遛狗。** 您拉着牵绳。
+92. **把宠物抱在腿上。** 一只温顺的猫躺在毯子上，可以非常安定人心。
+93. **欢迎来访的动物。** 一些护理机构和日间项目会安排动物探访。请在当地询问。
+94. **提供逼真的柔软动物。** 如果家里没有宠物，有些人喜欢抱着逼真的毛绒猫或狗。简单地提供，绝不要当作玩具，并接受对方的拒绝。
 
-## Seasonal activities
+## 季节性活动
 
-Keep traditions, but simpler. The NIA suggests being realistic and having a quiet space for breaks during busy holidays.
+保留传统，但做得简单一些。美国国家老龄研究所建议，在繁忙的节日里，要实际一些，并准备一个安静的地方供人休息。
 
-95. **Decorate for the season.** A pumpkin, a wreath or fresh flowers on the table.
-96. **Make a holiday treat.** Roll dough or frost cookies. You handle the oven.
-97. **Hang decorations.** Shatterproof ornaments, handed over one at a time.
-98. **Drive to see the lights.** A short evening drive asks nothing but company.
-99. **Plant spring bulbs.** Press bulbs into a pot in fall and watch for shoots.
-100. **Shuck corn or shell peas.** A summer porch job with a bowl in the lap.
-101. **Address holiday cards.** They sign, stamp or seal; you handle addresses.
+95. **装饰应季的物品。** 一个南瓜、一个花环，或桌上的新鲜花朵。
+96. **做节日点心。** 揉面团或为饼干上糖霜。烤箱由您来操作。
+97. **挂装饰。** 不易碎的挂饰，一次交给对方一个。
+98. **开车去看灯饰。** 傍晚短暂的驾车，只需要有人陪伴。
+99. **种春季球茎。** 秋天把球茎压进花盆，然后等待发芽。
+100. **剥玉米或剥豌豆。** 夏天门廊上的工作，碗放在膝上。
+101. **写节日卡片的地址。** 对方负责签名、盖章或封口；您负责写地址。
 
-## What if an activity is not working?
+## 活动不顺利时怎么办？
 
-Stop, and try something different another time. The NIA suggests watching for frustration and letting the person simply watch if they prefer. A no often means the task is too hard, the time is wrong, or something else is bothering them, like pain, hunger or noise. Make it smaller, try earlier in the day, or start it yourself and see if they join in. See [when they say no](/caregiving/when-they-say-no/) and [late-day restlessness](/caregiving/late-day-restlessness/).
+停下来，改天再试一个不同的活动。美国国家老龄研究所建议留意挫折的迹象，如果对方更喜欢在旁边看，就让他们看。拒绝通常表示任务太难、时机不对，或者有其他困扰，例如疼痛、饥饿或噪音。可以让它变小一些，改在一天中较早的时候进行，或者您自己先开始，看看对方会不会加入。请参阅[当他们说不时该怎么做](/caregiving/when-they-say-no/)和[傍晚的烦躁不安](/caregiving/late-day-restlessness/)。
 
-To fit activities between meals and rest, see [a gentle daily routine](/activities/daily-routine/). For things to have ready, see [printable activities](/activities/printable/), and if you lead a group, [care home group activities](/activities/care-home-groups/). Your own rest matters too: see [caregiver self-care](/caregiving/caregiver-self-care/).
+要把活动安排在餐点和休息之间，请参阅[温和的日常作息](/activities/daily-routine/)。要提前准备的东西，请参阅[可打印的活动](/activities/printable/)；如果您要带领团体，请参阅[护理机构团体活动](/activities/care-home-groups/)。您自己的休息也很重要，请参阅[照护者的自我照顾](/caregiving/caregiver-self-care/)。
