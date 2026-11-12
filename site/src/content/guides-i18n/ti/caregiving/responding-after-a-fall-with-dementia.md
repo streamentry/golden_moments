@@ -61,7 +61,7 @@ health: true
 
 ## ሙያዊ ምኽሪ ንሰብ ክፈልጥ ዘሎ ጉድኣት ዘይብሉ እንተ ኮነ ክሓተት ድዩ?
 
-እወ። [ማህበር Alzheimer's Society ምስ ሓኪም ሰብ ድሕሪ ምውዳቕ ክዝረብ ይመክር](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help)፡ ሰብ ዝጎድኣ ኣይመሰለኩን ብዘይ ምባል። ርእሲ ዝኣመሰለ ጸገም፡ ሕማም፡ ሓድሽ ግርጭ፡ ድኻም፡ ጭንቀት ወይ ካብ ልምዱ ዝፈለየ ባህርያ እንተ ዘሎ ኣብ ምድዋል ንዘርዝሮ። ብድሕረ ገጽ ዝረኣኻዮ ምርመራ ዘይድለዮ ኢልካ ኣይትወስን።
+እወ። [ማህበር Alzheimer's Society ምስ ሓኪም ሰብ ድሕሪ ምውዳቕ ክዝረብ ይመክር](https://dementiaconnect.alzheimers.org.uk/blog/why-person-dementia-more-likely-have-fall-and-what-can-you-do-help)፡ ሰብ ዝጎድኣ ኣይመሰለኩን ብዘይ ምባል። ርእሲ ዝኣመሰለ ጸገም፡ ሕማም፡ ሓድሽ ግርጭ፡ ድኻም፡ ጭንቀት ወይ ካብ ልምዱ ዝፈለየ ባህርያ እንተ ዘሎ ኣብ ምድዋል ንዘርዝሮ። ብድሕረ ገጽ ዝረኣኻዮ ምርመራ ዘይድለዮ ኢልካ ኣይትወስን። [ምኽሪ NHS ብዛዕባ ጉድኣት ርእሲ](https://www.nhs.uk/conditions/head-injury-and-concussion/) ድማ ጉድኣት ርእሲ ዝገልጽ ምልክታት ቅልጡፍ ሓገዝ ከም ዝደሊ ይሕብር።
 
 ## ንሓኪም ዝሕግዝ ሓበሬታ እንታይ ኢዩ?
 
