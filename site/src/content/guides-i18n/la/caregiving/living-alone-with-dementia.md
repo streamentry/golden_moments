@@ -34,7 +34,7 @@ related: [caregiving/home-safety, activities/daily-routine, brain-health/social-
 health: false
 ---
 
-Sola vita per se non indicat, quantum auxilii persona requirat. [Alzheimer's Association notat multos cum Alzheimer solos vivere pergere, praesertim in prima fase, cum simplicibus adaptationibus, cautionibus tutelae et auxilio ab aliis.] Utilis quaestio magis specifica est: quid haec persona facere pergere vult et quid illa munera faciliora reddere posset?
+Sola vita per se non indicat, quantum auxilii persona requirat. Alzheimer's Association notat multos cum Alzheimer solos vivere pergere, praesertim in prima fase, cum simplicibus adaptationibus, cautionibus tutelae et auxilio ab aliis. Utilis quaestio magis specifica est: quid haec persona facere pergere vult et quid illa munera faciliora reddere posset?
 
 Hanc colloquium incipe, cum tempus est et nullum problema statim solvendum. Roga quid commodum sit, quae consuetudines magni sint et quod auxilium persona libenter acciperet. Consilium cum ea factum facilius in vitam eius congruit quam index munerum circa alienas curas dispositus.
 

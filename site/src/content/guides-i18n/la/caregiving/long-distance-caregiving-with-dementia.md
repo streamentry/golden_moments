@@ -66,7 +66,7 @@ Primum roga personam, quos includere velit et quas informationes communicare non
 Si persona consentit, simplicem consilium contactus cum eis constitue quos elegit:
 
 - **Unum contactum regularem elige.** Conveni, quis ordinarios nuntios mittat et quam saepe.
-- **Vicarium nomina.** Constitue, quis contrôlare possit, si solitus auxiliator locali indisponibilis est.
+- **Vicarium nomina.** Constitue, quis succurrere possit, si solitus auxiliator locali indisponibilis est.
 - **Nuntios regulares a urgentibus curis separa.** Conveni, quomodo localis persona te urgenter adire debeat, si salus vel valetudo personae subito mutatur.
 - **Munera clara fac.** Scribe, quis visitationes, vecturam, appellationes servitiorum vel domesticum auxilium curet. Antequam consilium mutas, roga.
 

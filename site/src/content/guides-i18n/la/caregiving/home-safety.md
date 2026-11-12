@@ -61,7 +61,7 @@ Problema simplici verbo describe: “Corridor post cenam obscurus est,” “Ian
 
 ### Culina
 
-- **Usum machinarum recognosce.** Si cum furnello vel alia machina quaestio orta est, de optionibus tutelae pro illa machina ipsa inquire. [Alzheimer's Association enumerat claustra automatica et instrumenta tutelae furnelli](https://www.alz.org/help-support/caregiving/safety/home-safety) ut possibilia. Antequam mutes machinam gasi vel electricam, consilium peritum accipe.
+- **Usum machinarum recognosce.** Si cum furnello vel alia machina quaestio orta est, de optionibus tutelae pro illa machina ipsa inquire. Alzheimer's Association enumerat claustra automatica et instrumenta tutelae furnelli ut possibilia. Antequam mutes machinam gasi vel electricam, consilium peritum accipe.
 - **Medicamenta et res non-cibi a cibo separa.** Associatio medicamenta tute servari suadet, non in mensa relinqui. Si persona medicamenta sua ipsa administrat, a pharmacopola vel peritu salutis consilium roga, quod consuetudinem illam tutat.
 - **Detergentia et res periculosas tute repone.** Ea in originalibus vasis serva, longe a cibo et extra manum, cum opus est. Chemica in vas potionis vel cibi ne transfundas.
 - **Utilia culinae instrumenta accessibilia serva.** Tuta dispositio personae permittere debet, ut munera quae amat, cum possibile est, continuet. Si armarium vel machinam mutas, explica mutationem et vide, num confusionem faciat.
@@ -70,7 +70,7 @@ Si sollicitudo in communi munere oritur, [nostrum libellus de domesticis munerib
 
 ### Latrina
 
-- **Viam et cubiculum illumina.** Interruptorem, lumen nocturnum et iter ad latrinam inspice. [Alzheimer's Society lumen nocturnum vel lumen sensitivum suadet, si id personae ad cubiculum inveniendum prodest](https://www.alzheimers.org.uk/get-support/living-with-dementia/what-equipment-improve-adapt-home-person-dementia).
+- **Viam et cubiculum illumina.** Interruptorem, lumen nocturnum et iter ad latrinam inspice. Alzheimer's Society lumen nocturnum vel lumen sensitivum suadet, si id personae ad cubiculum inveniendum prodest.
 - **Superficies lubricas et sustentacula inspice.** Si pavimentum vel alveus lubricus est, peritum roga de superficie non-lubrica idonea, ansa vel alio sustentaculo. Locus optimus a persona et latrina pendet.
 - **Cubiculum facile agnoscendum et utendum serva.** Res cotidianas, ubi persona eas expectat, pone. Si latrinam invenire difficile habet, signum simplex vel ostium apertum servare fortasse prodest, si domui convenit.
 - **Machinam calefactoriam portabilem in latrinam ne affer.** Machinas electricas ab locis humidis remove et praescriptis fabricatoris obtempera.
@@ -94,13 +94,13 @@ Pro consuetudinibus nocturnis, [libellus de somno](/brain-health/sleep/) plura d
 
 Securitas et independentia simul operari debent. Si mutatio personam impedit in cubiculum intrare vel rem familiarem facere, consiste et optionem minus restrictivam quaere. Nonnullae institutiones serras ad certa pericula enumerant; hoc non est praeceptum generale. Antequam ostium mutes vel viam limitas, consilium de securitate domus et igni in loco accipe et cogita, quomodo persona in emergentia exire possit. Exitum tutum serva.
 
-Quando fieri potest, mutationem ante factam explica et personae tempus da, ut assuescat. [Alzheimer's Society suadet](https://www.alzheimers.org.uk/get-support/living-with-dementia/what-equipment-improve-adapt-home-person-dementia) ut cogites, num machina sola tuto adhiberi possit, num installationem requirat et num alium domesticum laborem difficiliorem reddat. Roga personam, quid post mutationem animadvertat. Si cubiculum vitat vel rem, quam amat, desinit adhibere, consilium accommoda.
+Quando fieri potest, mutationem ante factam explica et personae tempus da, ut assuescat. Alzheimer's Society suadet ut cogites, num machina sola tuto adhiberi possit, num installationem requirat et num alium domesticum laborem difficiliorem reddat. Roga personam, quid post mutationem animadvertat. Si cubiculum vitat vel rem, quam amat, desinit adhibere, consilium accommoda.
 
 Domum recognosce, cum consuetudines, motus vel visus mutantur aut post proximum casum. Cubiculum, quod mensem praeteritum bene operabatur, nunc aliam lucem vel viam clariorem fortasse requirit. Brevem indicem tenere potes, quid mutatum sit et quid adhuc prosit, potius quam totam domum uno tempore redigere.
 
 ## Quis adiuvare potest in adaptationibus domus?
 
-Peritus therapiae occupationis quomodo persona per domum moveatur aestimare et instrumenta vel mutationes ad munera cotidiana suggerere potest. Pro cura, physiotherapeuta, medicus domi, pharmacopola vel peritus habitationis etiam auxiliari possunt. [Alzheimer's Society notat peritum therapiae occupationis in Britannia per medicum generalem, nosocomium vel servitium curae sociali locale adesse posse; viae per alia loca differunt]. Pro installatione vel mutatione instrumentorum gasi, electricorum, structurarum vel securitatis contra ignem, peritum localem qualificatum adhibe.
+Peritus therapiae occupationis quomodo persona per domum moveatur aestimare et instrumenta vel mutationes ad munera cotidiana suggerere potest. Pro cura, physiotherapeuta, medicus domi, pharmacopola vel peritus habitationis etiam auxiliari possunt. Alzheimer's Society notat peritum therapiae occupationis in Britannia per medicum generalem, nosocomium vel servitium curae sociali locale adesse posse; viae per alia loca differunt. Pro installatione vel mutatione instrumentorum gasi, electricorum, structurarum vel securitatis contra ignem, peritum localem qualificatum adhibe.
 
 Si conducis, domino vel providenti habitationis roga, antequam mutationes perpetuas facis. Servitium locale senectutis vel infirmitatis explicare potest, quae aestimationes vel auxilia praesto sint. Si problema urgens est, primum illud periculum specificum tracta et pro rebus, quas non tuto mutare scis, auxilium professionale pete.
 
