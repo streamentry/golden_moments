@@ -107,7 +107,7 @@ Nëse një lojë fillon të shkaktojë mërzi, ndaloni dhe bëni diçka tjetër.
 
 ## Ta kthesh shqetësimin në aktivitet
 
-Lëvizja e shqetësuar ose e përsëritur shpesh ka një arsye. [Family Caregiver Alliance](https://www.caregiver.org/resource/caregivers-guide-understanding-dementia-behaviors/) thekson se një person që vazhdon të zbrazë një dollap mund të jetë duke u përpjekur të plotësojë nevojën për t'u ndjerë i zënë dhe produktiv. [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sugjeron ta drejtoni këtë energji drejt një aktiviteti të përshtatshëm, në vend që ta ndaloni.
+Lëvizja e shqetësuar ose e përsëritur shpesh ka një arsye. Family Caregiver Alliance thekson se një person që vazhdon të zbrazë një dollap mund të jetë duke u përpjekur të plotësojë nevojën për t'u ndjerë i zënë dhe produktiv. Alzheimer's Association sugjeron ta drejtoni këtë energji drejt një aktiviteti të përshtatshëm, në vend që ta ndaloni.
 
 | Çfarë shihni | Çfarë mund t'i ofroni |
 | --- | --- |
