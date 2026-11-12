@@ -1,35 +1,35 @@
 ---
-title: "Activities and Games for People with Alzheimer's"
-seoTitle: "Alzheimer's Activities and Games: Ideas by Stage"
-description: "Activities and games for people with Alzheimer's at each stage, built on the long-held skills and memories that often last, with free games to play together."
+title: "Aktiviteter og spill for personer med Alzheimers sykdom"
+seoTitle: "Alzheimers aktiviteter og spill: Ideer etter stadium"
+description: "Aktiviteter og spill for personer med Alzheimers sykdom i hvert stadium, bygget på ferdigheter og minner som ofte varer, med gratis spill å spille sammen."
 section: activities
 order: 17
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good activities for someone with Alzheimer's lean on what lasts longest:
-  long-practiced skills, old songs, familiar chores and the senses. Early on,
-  cards, board games, cooking and outings often still work. In the middle
-  stage, try folding, sorting, singing, photo albums and simple picture games.
-  Late in the disease, music, touch and company matter most. Go by how the
-  person is today.
+  Gode aktiviteter for en person med Alzheimers sykdom bygger på det som varer
+  lengst: lenge øvde ferdigheter, gamle sanger, kjente gjøremål og sansene. Tidlig
+  i sykdommen fungerer ofte kortspill, brettspill, matlaging og turer fortsatt. I
+  midtfasen kan man prøve å brette, sortere, synge, se på fotoalbum og enkle
+  bildespill. Sent i sykdommen betyr musikk, berøring og selskap mest. Ta
+  utgangspunkt i hvordan personen har det i dag.
 keyPoints:
-  - "Alzheimer's is the most common cause of dementia, so dementia activity ideas apply to it too."
-  - "New information is usually hardest first, while skills and songs learned long ago often stay longer. Build on those."
-  - "Stages overlap and good and hard days are normal. Choose by what the person can do and enjoy today."
-  - "Pick games with no timer, score or quizzing, and let pictures stay visible."
-  - "Watching, holding something or simply sitting together all count as taking part."
+  - "Alzheimers sykdom er den vanligste årsaken til demens, så ideer for demensaktiviteter gjelder også for den."
+  - "Ny informasjon er vanligvis vanskeligst først, mens ferdigheter og sanger lært for lenge siden ofte varer lenger. Bygg på dem."
+  - "Stadiene overlapper hverandre, og gode og vanskelige dager er normale. Velg etter hva personen kan og liker i dag."
+  - "Velg spill uten tidtaker, poeng eller quiz, og la bildene være synlige."
+  - "Å se på, holde noe eller bare sitte sammen teller alle som å delta."
 faq:
-  - q: "What activities are good for someone with Alzheimer's?"
-    a: "Familiar activities made a little simpler: folding laundry, setting the table, cooking together, music and singing, looking at photos, walking, gardening and time with a pet. Simple picture games, easy jigsaws and conversation cards also work for many people. Choose what the person has always enjoyed and do it alongside them."
-  - q: "Are games good for people with Alzheimer's?"
-    a: "Games can be a pleasant way to spend time together if the person enjoys them. No game has been shown to treat, slow or stop Alzheimer's, so choose games for enjoyment: large pictures, few choices, and no timer, score or wrong-answer sounds."
-  - q: "Is there a difference between dementia activities and Alzheimer's activities?"
-    a: "Mostly no. Alzheimer's disease is the most common cause of dementia, and the same activity ideas apply. What helps with Alzheimer's is knowing that recent memories usually fade first, so activities built on older skills, songs and routines often go more smoothly."
-  - q: "What can someone with late-stage Alzheimer's still enjoy?"
-    a: "Favorite music, a gentle hand massage, soft things to hold, being read to, sitting outside, and the company of someone they trust. Keep it short and calm, and watch their face and body for what they like."
-  - q: "How do I get someone with Alzheimer's interested in an activity?"
-    a: "Ask for help rather than announcing an activity, set everything out first, and begin it yourself so they can join in. Choosing the time of day when they are at their best makes a big difference. If they say no, try again later or offer a smaller version."
+  - q: "Hvilke aktiviteter er gode for en person med Alzheimers sykdom?"
+    a: "Kjente aktiviteter, litt enklere gjort: brette klær, dekke bordet, lage mat sammen, musikk og sang, se på bilder, gå tur, stelle hagen og være sammen med et kjæledyr. Enkle bildespill, lette puslespill og samtalekort fungerer også for mange. Velg det personen alltid har likt, og gjør det sammen med vedkommende."
+  - q: "Er spill bra for personer med Alzheimers sykdom?"
+    a: "Spill kan være en hyggelig måte å bruke tid sammen på hvis personen liker dem. Ingen spill har vist seg å behandle, bremse eller stanse Alzheimers sykdom, så velg spill for glede: store bilder, få valg, og ingen tidtaker, poeng eller lyder for feil svar."
+  - q: "Er det forskjell på demensaktiviteter og Alzheimer-aktiviteter?"
+    a: "Stort sett nei. Alzheimers sykdom er den vanligste årsaken til demens, og de samme aktivitetsideene gjelder. Det som hjelper ved Alzheimers, er å vite at nylige minner vanligvis blekner først, så aktiviteter bygd på eldre ferdigheter, sanger og rutiner går ofte bedre."
+  - q: "Hva kan en person med Alzheimers i sen fase fortsatt glede seg over?"
+    a: "Favorittmusikk, en mild håndmassasje, myke ting å holde i, å bli lest for, å sitte ute og selskap av noen personen stoler på. Hold det kort og rolig, og se på ansiktet og kroppen for å finne ut hva personen liker."
+  - q: "Hvordan får jeg en person med Alzheimers interessert i en aktivitet?"
+    a: "Be om hjelp i stedet for å annonsere en aktivitet, legg alt fram først, og begynn selv, slik at vedkommende kan være med. Å velge tidspunkt på dagen når personen er på sitt beste, gjør stor forskjell. Hvis personen sier nei, prøv igjen senere eller tilby en mindre versjon."
 sources:
   - title: "What Is Alzheimer's Disease?"
     publisher: "National Institute on Aging"
@@ -54,92 +54,92 @@ related: [activities/ideas, activities/early-stage, activities/middle-stage, act
 health: false
 ---
 
-If someone you love has Alzheimer's, you have probably already noticed that some things slip away quickly while others hold on. They may lose track of this morning's phone call but still sing every word of a hymn, fold a towel the way they always have, or deal a hand of cards without thinking. Good activities are built on those lasting skills. This page explains why, then gives ideas for each stage and the free games on this site that suit them.
+Hvis noen du er glad i har Alzheimers sykdom, har du sannsynligvis allerede lagt merke til at noe glipper fort, mens andre ting holder seg. Personen kan miste oversikten over telefonsamtalen fra i morges, men synge hvert ord i en salme, brette et håndkle slik vedkommende alltid har gjort, eller dele ut kort uten å tenke. Gode aktiviteter bygger på de varige ferdighetene. Denne siden forklarer hvorfor, og gir ideer for hvert stadium og de gratis spillene på nettstedet som passer dem.
 
-## Is Alzheimer's different from dementia when it comes to activities?
+## Er Alzheimers annerledes enn demens når det gjelder aktiviteter?
 
-Not very. Dementia is the umbrella term, and Alzheimer's disease is the most common cause of it: the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) says it accounts for 60 to 80 percent of dementia cases. Almost everything written about activities for dementia applies to Alzheimer's, including our [101 activity ideas](/activities/ideas/).
+Ikke veldig. Demens er den samlende betegnelsen, og Alzheimers sykdom er den vanligste årsaken til den: [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/what-is-alzheimers) sier at den står for 60 til 80 prosent av demenstilfellene. Nesten alt som er skrevet om aktiviteter for demens, gjelder også for Alzheimers, inkludert vår [101 aktivitetsideer](/activities/ideas/).
 
-What is useful to know is the usual order of change. The [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) explains that Alzheimer's first damages the parts of the brain involved in memory, and later affects language, reasoning and social behavior. The Alzheimer's Association says the most common early symptom is difficulty remembering newly learned information. Everyone is different, and many people have mixed causes, but this pattern shapes what tends to work.
+Det som er nyttig å vite, er den vanlige rekkefølgen av endringer. [National Institute on Aging](https://www.nia.nih.gov/health/alzheimers-and-dementia/what-alzheimers-disease) forklarer at Alzheimers først skader hjerneområdene som er involvert i hukommelse, og senere påvirker språk, resonnering og sosial atferd. Alzheimer's Association sier at det vanligste tidlige symptomet er vansker med å huske ny informasjon. Alle er forskjellige, og mange har flere årsaker samtidig, men dette mønsteret former hva som vanligvis fungerer.
 
-## What kinds of activities suit Alzheimer's best?
+## Hvilke aktiviteter passer best ved Alzheimers?
 
-Activities that rely on old, well-practiced knowledge usually go more smoothly than ones that need something new to be learned and held in mind.
+Aktiviteter som bygger på gammel, godt øvd kunnskap, går vanligvis bedre enn de som krever at noe nytt skal læres og holdes i hodet.
 
-- **Long-practiced skills.** The Alzheimer's Association notes that a person may still play simple songs learned on the piano years ago. Knitting, sanding wood, shuffling cards, kneading dough and folding laundry are similar.
-- **Old songs and familiar music.** Many people still know every word of songs from their teens and twenties, hymns and the songs from their wedding. See [music activities](/activities/music/).
-- **Everyday jobs with a purpose.** The [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) lists washing dishes, setting the table, sorting socks and folding laundry among activities people may enjoy. Feeling useful matters.
-- **Recognizing rather than recalling.** Pointing to the matching picture is easier than naming it from memory. That is why picture games with everything in view work better than quizzes.
-- **The senses.** Texture, scent, warmth, taste and sound stay meaningful long after words get hard. See [sensory activities](/activities/sensory/).
+- **Lenge øvde ferdigheter.** Alzheimer's Association nevner at en person fortsatt kan spille enkle sanger som ble lært på piano for mange år siden. Strikking, sliping av tre, stokking av kort, elting av deig og brettning av klær er tilsvarende.
+- **Gamle sanger og kjent musikk.** Mange kan fortsatt hvert ord i sanger fra tenårene og tjueårene, salmer og sangene fra bryllupet. Se [musikkaktiviteter](/activities/music/).
+- **Daglige gjøremål med et formål.** [NIA](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease) nevner å vaske opp, dekke bordet, sortere sokker og brette klær blant aktiviteter folk kan like. Å føle seg nyttig betyr mye.
+- **Gjenkjenne, ikke huske.** Å peke på bildet som passer, er lettere enn å navngi det fra hukommelsen. Derfor fungerer bildespill der alt er synlig bedre enn quiz.
+- **Sansene.** Tekstur, lukt, varme, smak og lyd har fortsatt betydning lenge etter at ord blir vanskelige. Se [sansebaserte aktiviteter](/activities/sensory/).
 
-What tends to go less well: anything with a clock, new rules to learn, many steps to remember, or questions that test memory, such as "Do you remember who this is?" Those put the hard part of Alzheimer's front and center.
+Det som ofte går dårligere: alt med klokke, nye regler å lære, mange trinn å huske, eller spørsmål som tester hukommelsen, for eksempel «Husker du hvem dette er?». Slikt setter den vanskelige delen av Alzheimers i fokus.
 
-## Activities for early-stage Alzheimer's
+## Aktiviteter for tidlig Alzheimers
 
-In the early stage, the [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) says a person may still drive, work and take part in social activities, while noticing memory lapses such as forgetting familiar words or where things are. The best approach is partnership: ask what they want to keep doing and what help they would like.
+I tidlig fase sier [Alzheimer's Association](https://www.alz.org/alzheimers-dementia/stages) at en person fortsatt kan kjøre bil, jobbe og delta i sosiale aktiviteter, samtidig som vedkommende merker hukommelsessvikt, for eksempel å glemme kjente ord eller hvor ting er. Den beste tilnærmingen er samarbeid: spør hva personen vil fortsette med, og hvilken hjelp vedkommende ønsker.
 
-1. **Keep up existing hobbies.** Golf, bridge, quilting, choir and church groups, with small adjustments such as smaller groups and quieter times.
-2. **Play familiar card and board games.** The [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) lists trivia, word finds, card games and board games for the early stage. Play as a team if keeping score starts to bother them, or drop the score entirely.
-3. **Cook together.** Let them run a recipe they know by heart while you handle reading the steps.
-4. **Start a life-story project.** Photos, recipes and stories in a scrapbook they direct. See [reminiscence activities](/activities/reminiscence/).
-5. **Go on outings.** A favorite restaurant at a quiet hour, a museum for a short visit, a walk in the park.
-6. **Try puzzles they choose.** Large-print crosswords, word searches and jigsaws. See [puzzles for dementia](/activities/puzzles/).
+1. **Fortsett med eksisterende hobbyer.** Golf, bridge, quilting, kor og menighetsgrupper, med små tilpasninger som mindre grupper og roligere tider.
+2. **Spill kjente kort- og brettspill.** [Alzheimer's Foundation of America](https://alzfdn.org/therapeutic-activities-for-3-main-stages-of-alzheimers-disease/) nevner quiz, ordsøk, kortspill og brettspill for tidlig fase. Spill som et lag hvis det å telle poeng begynner å plage, eller dropp poengene helt.
+3. **Lag mat sammen.** La dem styre en oppskrift de kan utenat, mens du leser opp trinnene.
+4. **Start et livshistorieprosjekt.** Bilder, oppskrifter og historier i et album som personen styrer. Se [reminisensaktiviteter](/activities/reminiscence/).
+5. **Dra på utflukter.** En favorittrestaurant på et rolig tidspunkt, et kort museumsbesøk, en tur i parken.
+6. **Prøv puslespill de velger.** Krysord med stor skrift, ordsøk og puslespill. Se [puslespill for demens](/activities/puzzles/).
 
-More ideas: [early-stage activities](/activities/early-stage/).
+Flere ideer: [aktiviteter for tidlig fase](/activities/early-stage/).
 
-## Activities for middle-stage Alzheimer's
+## Aktiviteter for Alzheimers i midtfasen
 
-The Alzheimer's Association describes the middle stage as typically the longest, and says it can last many years. Words get mixed up, frustration comes more easily, and the person needs more care. The Alzheimer's Foundation of America adds that many people need help starting or continuing activities. Your role shifts to setting things up, showing rather than explaining, and taking over the hard parts.
+Alzheimer's Association beskriver midtfasen som den vanligvis lengste, og sier at den kan vare i mange år. Ord blir blandet sammen, frustrasjon kommer lettere, og personen trenger mer omsorg. Alzheimer's Foundation of America legger til at mange trenger hjelp til å starte eller fortsette aktiviteter. Din rolle endrer seg til å legge til rette, vise i stedet for å forklare, og ta over de vanskelige delene.
 
-1. **Fold, sort and match.** Towels, socks, silverware, buttons by color. Real jobs, done side by side.
-2. **Sing and move to music.** Clap, sway or dance in the kitchen. Start singing yourself and let them join in.
-3. **Look through photo albums.** Describe what you see and invite stories: "What a car. Tell me about it." Go along with whatever names they use.
-4. **Play simple picture games.** [Picture pairs](/games/picture-pairs/) with four to six tiles and pictures left showing, or [Find the same](/games/find-the-same/) with two or three choices.
-5. **Finish familiar sayings.** "An apple a day keeps the..." Sayings learned long ago often come easily. Try [Finish the saying](/games/finish-the-saying/), where you can show any ending with one tap.
-6. **Water and tend plants.** Indoor pots or a raised bed, with a small watering can.
-7. **Make a matching game from family photos.** [Photo pairs](/games/photo-pairs/) uses pictures you choose on your device, and they never leave it.
+1. **Brett, sorter og match.** Håndklær, sokker, sølvtøy, knapper etter farge. Ekte oppgaver, gjort side om side.
+2. **Syng og beveg deg til musikk.** Klapp, sving eller dans på kjøkkenet. Begynn å synge selv, og la dem være med.
+3. **Se gjennom fotoalbum.** Beskriv det du ser, og inviter til historier: «For en bil. Fortell meg om den.» Gå med på de navnene de bruker.
+4. **Spill enkle bildespill.** [Bildepar](/games/picture-pairs/) med fire til seks brikker og bildene synlige, eller [Finn det samme](/games/find-the-same/) med to eller tre valg.
+5. **Fullfør kjente ordtak.** «Et eple om dagen holder...» Ordtak lært for lenge siden kommer ofte lett. Prøv [Fullfør ordtaket](/games/finish-the-saying/), der du kan vise slutten med ett trykk.
+6. **Vann og stell planter.** Potteplanter inne, eller en hevet bed, med en liten vannkanne.
+7. **Lag et matchespill av familiebilder.** [Fotopar](/games/photo-pairs/) bruker bilder du velger på enheten din, og de forlater aldri den.
 
-More ideas: [middle-stage activities](/activities/middle-stage/).
+Flere ideer: [aktiviteter for midtfasen](/activities/middle-stage/).
 
-## Activities for late-stage Alzheimer's
+## Aktiviteter for Alzheimers i sen fase
 
-In the late stage, the Alzheimer's Association says people lose the ability to respond to their environment and to carry on a conversation, although they may still say words or phrases. Activity now means comfort and connection, brought to wherever the person is resting.
+I sen fase sier Alzheimer's Association at personer mister evnen til å reagere på omgivelsene og til å føre en samtale, selv om de fortsatt kan si ord eller fraser. Aktivitet betyr nå trøst og kontakt, brakt dit personen hviler.
 
-1. **Play their favorite music** quietly, without the TV competing.
-2. **Give a hand massage** with a lotion that has a scent they like.
-3. **Offer soft things to hold:** a warm blanket, a fleece, a smooth stone.
-4. **Read aloud** psalms, poems or a familiar story. The rhythm matters more than the meaning.
-5. **Sit outside** in the shade, or by a window with birds to watch.
-6. **Look at one large picture together.** A sunflower or a dog filling a tablet screen, with you saying what you see.
+1. **Spill favorittmusikken** stille, uten at TV-en konkurrerer.
+2. **Gi en håndmassasje** med en krem som har en duft personen liker.
+3. **Tilby myke ting å holde:** et varmt teppe, en fleecegenser, en glatt stein.
+4. **Les høyt** salmer, dikt eller en kjent historie. Rytmen betyr mer enn meningen.
+5. **Sitt ute** i skyggen, eller ved et vindu med fugler å se på.
+6. **Se på ett stort bilde sammen.** En solsikke eller en hund som fyller nettbrettskjermen, mens du sier hva du ser.
 
-More ideas: [late-stage activities](/activities/late-stage/).
+Flere ideer: [aktiviteter for sen fase](/activities/late-stage/).
 
-## Which games work for someone with Alzheimer's?
+## Hvilke spill fungerer for en person med Alzheimers?
 
-Choose games where nothing can be failed. Every game on this site is free, runs in a browser and has no timer, score or sign-up.
+Velg spill der ingenting kan mislykkes. Alle spillene på dette nettstedet er gratis, kjører i nettleseren og har ingen tidtaker, poeng eller registrering.
 
-| Game | What you do | Often suits |
+| Spill | Hva du gjør | Passer ofte |
 | --- | --- | --- |
-| [Picture pairs](/games/picture-pairs/) | Match large pictures; they can stay face up | Early and middle stage |
-| [Find the same](/games/find-the-same/) | Tap the picture that matches the one at the top | Middle and late stage, with help |
-| [Finish the saying](/games/finish-the-saying/) | Choose the last word of a familiar saying, or show it | Early and middle stage |
-| [Picture puzzle](/games/picture-puzzle/) | Swap 4 or 9 pieces back into place, with the picture shown | Early and middle stage |
-| [Conversation cards](/games/conversation-cards/) | A picture and an open prompt to talk about | Any stage, with someone to talk to |
-| [Photo pairs](/games/photo-pairs/) | A matching game made from your own photos | Early and middle stage |
-| [Coloring](/games/coloring/) | Tap a color, then part of a picture; or print it | Any stage, with help |
+| [Bildepar](/games/picture-pairs/) | Match store bilder; de kan være synlige | Tidlig og midtfase |
+| [Finn det samme](/games/find-the-same/) | Trykk på bildet som ligner det øverst | Midt- og sen fase, med hjelp |
+| [Fullfør ordtaket](/games/finish-the-saying/) | Velg siste ord i et kjent ordtak, eller vis det | Tidlig og midtfase |
+| [Bildepuslespill](/games/picture-puzzle/) | Flytt 4 eller 9 brikker tilbake på plass, med bildet vist | Tidlig og midtfase |
+| [Samtalekort](/games/conversation-cards/) | Et bilde og et åpent spørsmål å snakke om | Alle faser, med noen å snakke med |
+| [Fotopar](/games/photo-pairs/) | Et matchespill laget av dine egne bilder | Tidlig og midtfase |
+| [Fargelegging](/games/coloring/) | Trykk på en farge, deretter en del av et bilde; eller skriv det ut | Alle faser, med hjelp |
 
-For how to sit together, how much to help and when to stop, read [how to play games with someone who has dementia](/caregiving/how-to-play-together/). If you are wondering about "memory games", see [memory games for seniors with dementia](/activities/memory-games/).
+For hvordan dere kan sitte sammen, hvor mye dere skal hjelpe, og når dere bør stoppe, les [hvordan spille spill med en som har demens](/caregiving/how-to-play-together/). Hvis du lurer på «hukommelsesspill», se [hukommelsesspill for eldre med demens](/activities/memory-games/).
 
-## How to make any activity easier
+## Hvordan gjøre enhver aktivitet enklere
 
-The NIA's advice comes down to a few habits: match the activity to what the person can do, help them get started, watch for frustration, make sure they feel successful, and let them simply watch if that is what they enjoy.
+NIA's råd koker ned til noen få vaner: tilpass aktiviteten til det personen kan, hjelp dem i gang, følg med på frustrasjon, sørg for at de føler seg vellykket, og la dem bare se på hvis det er det de liker.
 
-- **Choose the time of day when they are at their best,** and keep sessions short.
-- **Lay everything out first** so you can begin right away.
-- **Invite, do not instruct.** "Could you give me a hand?" works better than "Time for an activity."
-- **Do the first step yourself** and let them join in.
-- **Offer one step and one choice at a time.**
-- **Let it be done their way.** Lopsided towels are fine.
-- **Stop while it is still pleasant.** Ending early is a good outcome, not a failure. If they refuse, see [when someone with dementia says no](/caregiving/when-they-say-no/).
+- **Velg tidspunktet når de er på sitt beste,** og hold øktene korte.
+- **Legg alt fram først,** slik at du kan begynne med en gang.
+- **Inviter, ikke instruer.** «Kan du hjelpe meg litt?» fungerer bedre enn «Tid for aktivitet.»
+- **Gjør første steg selv,** og la dem være med.
+- **Tilby ett steg og ett valg om gangen.**
+- **La det bli gjort på deres måte.** Skjeve håndklær er greit.
+- **Stopp mens det fortsatt er hyggelig.** Å avslutte tidlig er et godt resultat, ikke et nederlag. Hvis de sier nei, se [når noen med demens sier nei](/caregiving/when-they-say-no/).
 
-The [Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) puts it simply: focus on enjoyment, not achievement.
+[Alzheimer's Association](https://www.alz.org/help-support/caregiving/daily-care/activities) sier det enkelt: fokuser på glede, ikke prestasjon.

@@ -13,7 +13,7 @@ summary: >-
   hjelp hvis endringen er ny eller urovekkende.
 keyPoints:
   - "Ta personens bekymring på alvor, selv om forklaringen virker lite sannsynlig."
-  - "Anerkjenn følelsen, hold svaret kort, og let etter den savnede gjenstanden sammen hvis personen ønsker det."
+  - "Anerkjenn følelsen, hold svaret kort, og lete etter den savnede gjenstanden sammen hvis personen ønsker det."
   - "Bruk kjente steder for ting som ofte forsvinner, og før notater om penger eller omsorgsoppgaver."
   - "Ikke anta at en anklage er falsk; sjekk fakta, og søk hjelp når sikkerhet eller overgrep kan være involvert."
 faq:
@@ -63,7 +63,7 @@ Anklagen kan føles personlig. Prøv å skille personens frykt fra det som fakti
 
 Ja. Sjekk først om gjenstanden faktisk er borte. Personen kan ha lagt den et uvanlig sted, noen kan ha flyttet den, eller den kan ha blitt tatt. Avvis ikke en melding om tyveri, omsorgssvikt eller overgrep bare fordi personen har demens.
 
-For en gjenstand som er lagt på feil sted, let sammen hvis personen ønsker det. Sjekk stedene vedkommende vanligvis oppbevarer den, og gå gjennom den siste rutinen. Hvis gjenstanden er verdifull, viktig for sikkerheten eller fortsatt borte, fortell personen hva du vet, og involver en tillitsperson eller et annet familiemedlem.
+For en gjenstand som er lagt på feil sted, lete sammen hvis personen ønsker det. Sjekk stedene vedkommende vanligvis oppbevarer den, og gå gjennom den siste rutinen. Hvis gjenstanden er verdifull, viktig for sikkerheten eller fortsatt borte, fortell personen hva du vet, og involver en tillitsperson eller et annet familiemedlem.
 
 Hvis penger eller husholdningsoppgaver deles, bruk tydelige oppføringer som personen aksepterer. Ta vare på kvitteringer eller notater for avtalte transaksjoner, og forklar dem enkelt. Spør en kvalifisert lokal fagperson om økonomiske avtaler eller juridiske forpliktelser; denne veiledningen kan ikke vurdere slike forhold.
 
