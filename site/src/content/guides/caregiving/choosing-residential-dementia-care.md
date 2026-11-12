@@ -38,7 +38,7 @@ sources:
     publisher: "NHS"
     url: "https://www.nhs.uk/symptoms/confusion/"
 relatedGames: []
-related: [caregiving/choosing-in-home-dementia-care, caregiving/living-alone-with-dementia, caregiving/hospital-visit-with-dementia]
+related: [caregiving/choosing-in-home-dementia-care, caregiving/living-alone-with-dementia, caregiving/hospital-visit-with-dementia, caregiving/supporting-lgbtq-person-with-dementia]
 health: true
 ---
 
@@ -79,6 +79,8 @@ Ask how staffing works across different times of day, how staff learn the person
 Ask about family visits, outings, medical appointments, activities and the person's ability to bring familiar items. If a home has a dementia-specific program, ask what training, activities and daily support it includes. Ask for examples of how residents are involved in choices rather than relying only on the program name.
 
 Ask for an itemized description of fees, what is included and how charges may change. Read agreements carefully and get qualified local advice if financial or legal terms are unclear. Do not assume that a service is covered or available based on information from another state or country.
+
+If the person's identity, relationships or privacy need extra attention, see our [guide to supporting an LGBTQ+ person with dementia](/caregiving/supporting-lgbtq-person-with-dementia/). It includes questions about preferred names, visitors, personal care and provider policies.
 
 ## How can I help with the move?
 
