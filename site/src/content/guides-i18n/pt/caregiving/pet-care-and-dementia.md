@@ -1,7 +1,7 @@
 ---
 title: "Cuidados com o animal de estimação e demência: apoie uma rotina compartilhada"
 seoTitle: "Apoio com animais de estimação para quem tem demência"
-description: "Ajude quem tem demência a manter a rotina com o animal, com lembretes, ajuda combinada e planos de apoio que respeitem as escolhas da pessoa e as necessidades do animal."
+description: "Ajude quem tem demência a manter a rotina com o animal, com lembretes, ajuda combinada e planos que respeitem as escolhas da pessoa e as necessidades do animal."
 section: caregiving
 order: 15
 updated: 2026-11-11

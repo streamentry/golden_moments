@@ -1,7 +1,7 @@
 ---
 title: "Conversando com crianças sobre a demência"
 seoTitle: "Como falar com crianças sobre demência"
-description: "Explique a demência a uma criança com respostas honestas e adequadas à idade. Proteja a rotina e a privacidade dela, acolha perguntas e mantenha o cuidado com os adultos."
+description: "Explique a demência a uma criança com respostas honestas e adequadas à idade. Proteja a rotina e a privacidade dela e mantenha o cuidado com os adultos."
 section: caregiving
 order: 29
 updated: 2026-11-11

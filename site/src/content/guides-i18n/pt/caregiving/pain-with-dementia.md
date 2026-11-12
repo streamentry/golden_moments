@@ -1,7 +1,7 @@
 ---
 title: "Reconhecendo a dor em quem tem demência"
 seoTitle: "Dor e demência: sinais e o que fazer"
-description: "A dor pode ser difícil de descrever na demência. Observe as mudanças, pergunte com palavras familiares e procure um profissional de saúde em vez de adivinhar a causa."
+description: "A dor pode ser difícil de descrever na demência. Observe as mudanças, pergunte com palavras familiares e busque um profissional de saúde em vez de adivinhar."
 section: caregiving
 order: 22
 updated: 2026-11-11

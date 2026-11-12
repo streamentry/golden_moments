@@ -1,7 +1,7 @@
 ---
 title: "Tornando as refeições mais fáceis para quem tem demência"
 seoTitle: "Refeições mais calmas para quem tem demência"
-description: "Formas práticas de deixar as refeições mais calmas para quem tem demência: comida familiar, menos distrações, mesa simples, tempo suficiente e espaço para a autonomia."
+description: "Formas práticas de deixar as refeições mais calmas para quem tem demência: comida familiar, menos distrações, mesa simples, tempo e espaço para a autonomia."
 section: caregiving
 order: 13
 updated: 2026-11-11
