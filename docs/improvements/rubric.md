@@ -336,3 +336,7 @@ Weighted overall: 1.000 + 1.4625 + 1.000 + 1.500 + 1.500 + 1.4055 + 1.000 + 1.00
 ## Round 90 score note (2026-11-12)
 
 This content-only guide and internal link add no app behavior. Automated schema, build, checker and link checks confirm the route and source links, but do not show whether LGBTQ+ people with dementia, partners or chosen-family caregivers find the wording respectful or useful. No lived-experience, care-provider, clinician, native-speaker or live-browser review was done. Keep the latest measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this round.
+
+## Round 91 score note (2026-11-12)
+
+This content-only guide adds no app behavior. The unit tests and TypeScript check cannot show whether multilingual readers or a person with dementia understand the guidance, and the static site build did not finish locally. No multilingual reader, caregiver, clinician, interpreter, native-speaker or live-browser review was done. Keep the latest measured repository-wide score at **9.87** and lowest dimension at **9.37**; do not infer a new aggregate score from this round.
