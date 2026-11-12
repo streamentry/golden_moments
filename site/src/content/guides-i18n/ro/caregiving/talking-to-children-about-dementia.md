@@ -1,7 +1,7 @@
 ---
 title: "Cum vorbim cu copiii despre demență"
 seoTitle: "Cum vorbești cu copiii despre demență"
-description: "Explicați demența unui copil cu răspunsuri sincere, adaptate vârstei. Protejați-i rutinele și intimitatea, încurajați întrebările și lăsați responsabilitatea îngrijirii adulților."
+description: "Explicați demența unui copil cu răspunsuri sincere, potrivite vârstei. Protejați-i rutinele și intimitatea, încurajați întrebările și lăsați îngrijirea adulților."
 section: caregiving
 order: 29
 updated: 2026-11-11

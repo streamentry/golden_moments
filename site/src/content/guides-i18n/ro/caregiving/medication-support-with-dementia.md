@@ -1,7 +1,7 @@
 ---
 title: "Cum ajutăm o persoană cu demență să își gestioneze medicamentele"
-seoTitle: "Siguranța medicamentelor pentru îngrijitorii de persoane cu demență"
-description: "Sprijiniți rutina de medicamente cu o listă clară, sfatul farmacistului și respect pentru independență. Nu schimbați niciodată doza pe baza sfaturilor de pe internet."
+seoTitle: "Siguranța medicamentelor pentru îngrijitori"
+description: "Sprijiniți rutina de medicamente cu o listă clară, sfatul farmacistului și respect pentru independență. Nu schimbați doza pe baza sfaturilor de pe internet."
 section: caregiving
 order: 26
 updated: 2026-11-11

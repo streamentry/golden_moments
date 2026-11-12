@@ -1,7 +1,7 @@
 ---
 title: "Igiena bucală pentru o persoană cu demență"
 seoTitle: "Îngrijirea dentară pentru o persoană cu demență"
-description: "Ajutați o persoană cu demență să își păstreze rutina de igienă bucală, cu indicii simple, acordul ei și sprijinul medicului dentist pentru durere, proteze sau probleme noi."
+description: "Ajutați o persoană cu demență să își păstreze rutina de igienă bucală, cu indicii simple, acordul ei și sprijin de la medicul dentist pentru durere sau proteze."
 section: caregiving
 order: 16
 updated: 2026-11-11

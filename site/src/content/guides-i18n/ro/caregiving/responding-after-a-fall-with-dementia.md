@@ -1,7 +1,7 @@
 ---
 title: "Ce trebuie făcut după o cădere a unei persoane cu demență"
 seoTitle: "Căderi în demență: ce faci după ce persoana cade"
-description: "Ce trebuie făcut după o cădere a unei persoane cu demență: când sunați serviciile de urgență, cum o păstrați în siguranță și de ce contează controlul medical ulterior."
+description: "Ce trebuie făcut după o cădere a unei persoane cu demență: când sunați serviciile de urgență, cum o păstrați în siguranță și de ce contează controlul medical."
 section: caregiving
 order: 39
 updated: 2026-11-11
@@ -86,17 +86,17 @@ Descrieți ce ați văzut, în loc să ghiciți de ce a căzut persoana. O notă
 Un clinician vă poate ajuta să decideți dacă persoana are nevoie de o evaluare și la ce semne să fiți atenți după aceea. [NHS notează că o evaluare a riscului de cădere poate analiza forța, vederea, auzul, medicamentele și adaptările locuinței](https://www.nhs.uk/conditions/falls/). Puteți întreba:
 
 - Persoana are nevoie de un examen după această cădere, chiar dacă nu se vede nicio vătămare?
-- Ce schimbări sau simptome ar trebui să determine cerere urgentă de ajutor?
+- Ce schimbări sau simptome ar trebui să ceară urgent ajutor?
 - Ar trebui revizuite echilibrul, vederea, auzul, durerea sau medicamentele?
 - Un serviciu pentru căderi sau un terapeut ocupațional ar putea evalua mobilitatea sau echipamentul din casă?
 - Cine ar trebui să contacteze persoana sau familia dacă mai are loc o cădere?
 
-Spuneți clinicianului ce știți și ce nu știți. Dacă amănunte nu au fost văzute, spuneți asta, în loc să ghiciți cum s-a produs căderea. Nu opriți și nu schimbați un medicament, nu cumpărați un suport de mers și nu instalați echipamente doar pe baza unui site web. Sprijinul potrivit depinde de starea de sănătate, mobilitatea, locuința și dorințele persoanei.
+Spuneți clinicianului ce știți și ce nu știți. Dacă nu ați văzut detaliile, spuneți asta, în loc să ghiciți cum s-a produs căderea. Nu opriți și nu schimbați un medicament, nu cumpărați un suport de mers și nu instalați echipamente doar pe baza unui site web. Sprijinul potrivit depinde de starea de sănătate, mobilitatea, locuința și dorințele persoanei.
 
 ## Cum ne gândim la o nouă cădere?
 
 Odată ce problemele medicale imediate sunt rezolvate, luați în calcul ce se întâmpla în mediul și rutina persoanei. Un drum înfundat, o schimbare a iluminatului sau un traseu necunoscut pot fi relevante, dar nu presupuneți că un singur pericol a cauzat căderea. Întrebați persoana ce a observat și ce ar face spațiul mai ușor de folosit. Dacă persoana nu își amintește sau nu poate explica ce s-a întâmplat, împărtășiți ce ați observat, fără să insistați pentru detalii. Notați ora, locul, încălțămintea, iluminatul, activitatea și orice schimbare față de mișcarea sau comportamentul obișnuit. O notă scurtă poate ajuta clinicianul să observe tipare; nu identifică cauza.
 
-[Ghidul nostru despre siguranța locuinței](/caregiving/home-safety/) acoperă verificările camera cu camera. Dacă căderea a avut loc în timpul băii, consultați [ghidul despre baie](/caregiving/bathing-with-dementia/). Un medic, un terapeut ocupațional sau un serviciu local pentru căderi poate evalua problemele individuale și poate recomanda schimbări potrivite. Nu instalați echipamente și nu schimbați un medicament prescris doar pe baza acestei pagini.
+[Ghidul nostru despre siguranța locuinței](/caregiving/home-safety/) acoperă verificările din fiecare cameră. Dacă căderea a avut loc în timpul băii, consultați [ghidul despre baie](/caregiving/bathing-with-dementia/). Un medic, un terapeut ocupațional sau un serviciu local pentru căderi poate evalua problemele individuale și poate recomanda schimbări potrivite. Nu instalați echipamente și nu schimbați un medicament prescris doar pe baza acestei pagini.
 
 O cădere nu arată, prin ea însăși, ce poate sau ce nu poate face persoana. Lăsați-o implicată în deciziile privind sprijinul și urmați sfatul echipei locale de îngrijire.

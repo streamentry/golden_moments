@@ -1,7 +1,7 @@
 ---
 title: "Cum facem orele de masă mai ușoare pentru o persoană cu demență"
 seoTitle: "Mese mai liniștite pentru o persoană cu demență"
-description: "Modalități practice de a face mesele mai liniștite pentru o persoană cu demență: alimente cunoscute, mai puține distrageri, masă clară, timp și loc pentru independență."
+description: "Modalități practice de a face mesele mai liniștite pentru o persoană cu demență: alimente cunoscute, mai puține distrageri, timp și loc pentru independență."
 section: caregiving
 order: 13
 updated: 2026-11-11
