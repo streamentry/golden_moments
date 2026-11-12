@@ -1,5 +1,5 @@
 ---
-title: "Supporting Communication Across Languages with Dementia"
+title: "Supporting Multilingual Communication in Dementia Care"
 seoTitle: "Dementia and Language: Support Across Languages"
 description: "Support a multilingual person with dementia by asking their language preference, using familiar cues and arranging language help for appointments."
 section: caregiving
