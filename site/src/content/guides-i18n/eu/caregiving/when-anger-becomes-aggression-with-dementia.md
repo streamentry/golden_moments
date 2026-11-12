@@ -60,7 +60,7 @@ Eten zeregina, atzera egin eta esan esaldi labur eta lasai bat. [Alzheimer's Ass
 
 ## Zer egon daiteke portaeraren atzean?
 
-Kausa bat baino gehiago egon daiteke, eta familiako kide batek ezin du kausa diagnostikatu. [Alzheimer's Associationak](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger) eragile posibleen artean zorigaiztoko fisikoa, ingurune-estresa eta komunikazio-arazoak zerrendatzen ditu.
+Kausa bat baino gehiago egon daiteke, eta familiako kide batek ezin du kausa diagnostikatu. Alzheimer's Associationak eragile posibleen artean zorigaiztoko fisikoa, ingurune-estresa eta komunikazio-arazoak zerrendatzen ditu.
 
 Pentsatu zer gertatu zen aldaketa baino lehen:
 
@@ -86,7 +86,7 @@ Zeregin espezifikoei buruzko ideiak nahi badituzu, begiratu [bainuari](/caregivi
 
 ## Zer egin dezaket egoera baretu ondoren?
 
-Eskaini berrikuntza eta itzuli jarduera ezaguna eta eskaera txikikoa batera, pertsonak nahi badu. Ez zigortu, ez egotzi errurik eta ez kritikatu. [Alzheimer's Societyk](https://www.alzheimers.org.uk/about-dementia/stages-and-symptoms/dementia-symptoms/preventing-aggression) adierazten du pertsona oraindik asaldatuta egon daitekeela portaera pasa ondoren, nahiz eta ez gogoratu zer gertatu zen.
+Eskaini berrikuntza eta itzuli jarduera ezaguna eta eskaera txikikoa batera, pertsonak nahi badu. Ez zigortu, ez egotzi errurik eta ez kritikatu. Alzheimer's Societyk adierazten du pertsona oraindik asaldatuta egon daitekeela portaera pasa ondoren, nahiz eta ez gogoratu zer gertatu zen.
 
 Patroi bat ulertu nahi baduzu, idatzi ohar labur pribatu bat: zer gertatu zen aurretik, zer behatu zenuen, zenbat iraun zuen eta zer lagundu zuela dirudi. Mantendu oharra egitatsuan eta partekatu pertsonaren zaintza-taldearekin egoki denean. Saihestu grabatzea edo datu pribatuak baimenik gabe partekatzea.
 
