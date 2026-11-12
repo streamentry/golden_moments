@@ -16,7 +16,7 @@ summary: >-
 keyPoints:
   - "Dementia-da bilowdaa hore waxay bilaabataa ka hor 65 jir. Dadka badan waxay dareemaan in da'doodu aysan la mid ahayn waxqabadyada la bixiyo."
   - "Ilaali inuu qofku go'aamiyo doorashooyinka, laga bilaabo xiiso uu isku dayo ilaa socdaal uu qorsheeyo."
-  - "Muusikada, sawirrada iyo sheekooyinka laga soo bilaabo 20-kii ilaa 50-kii sano ee nolosha ayaa badanaa macno badan leh marka loo eego waxqabadyada da'da dambe."
+  - "Muusikada, sawirrada iyo sheekooyinka laga soo bilaabo labaatankii ilaa konton sano ee nolosha ayaa badanaa macno badan leh marka loo eego waxqabadyada da'da dambe."
   - "Ku jir firfircooni iyo bulsho marka uu doono, oo u habee xawaaraha halkii aad waxqabadka ka bedeli lahayd."
   - "Daryeeshayaasha, gaar ahaan lamaanaha iyo carruurta waaweyn, waxay ka faa'iidaystaan kooxaha taageerada ee dadka isku da'da ah."
 faq:
@@ -69,7 +69,7 @@ U oggolow qofka inuu doorto. Su'aalaha "Maxaad jeclaan lahayd inaad samayso gala
 
 ## Isticmaal muusikada iyo xusuusta da'dooda
 
-Muusikada iyo sawirrada laga soo bilaabo 20-kii, 30-kii iyo 40-kii sano ee qofku waxay soo celin karaan dareenno diiran iyo hadal fudud. [Waxqabadyada muusikada](/activities/music/) wuxuu sharxayaa sida playlist loo sameeyo, [waxqabadyada xusuusta](/activities/reminiscence/) wuxuu tusayaa sida sawirro iyo sheekooyin loo wadaago adigoon su'aalaya. Ciyaar da'da waaweyn u habboon, isku day [kaararka wada-hadalka](/games/conversation-cards/), oo leh su'aalo furan oo ku saabsan shaqada, safarka, saaxiibada iyo qoyska.
+Muusikada iyo sawirrada laga soo bilaabo labaatankii, soddonkii iyo afartankii sano ee qofku waxay soo celin karaan dareenno diiran iyo hadal fudud. [Waxqabadyada muusikada](/activities/music/) wuxuu sharxayaa sida playlist loo sameeyo, [waxqabadyada xusuusta](/activities/reminiscence/) wuxuu tusayaa sida sawirro iyo sheekooyin loo wadaago adigoon su'aalaya. Ciyaar da'da waaweyn u habboon, isku day [kaararka wada-hadalka](/games/conversation-cards/), oo leh su'aalo furan oo ku saabsan shaqada, safarka, saaxiibada iyo qoyska.
 
 Ciyaarta sawirrada isku-dheellitirka ah oo laga sameeyey sawirrada qoyska ayaa sidoo kale wanaagsan karta, sababtoo ah sawirradu waa dad iyo meelo muhiim u ah qofka. [Sawirrada isku-dheellitirka](/games/photo-pairs/) waxay sawirrada ku hayaan browser-ka qalabkaas.
 

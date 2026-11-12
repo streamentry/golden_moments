@@ -1,7 +1,7 @@
 ---
 title: "Kako pomagati osebi z demenco, da dovolj pije"
 seoTitle: "Demenca in pitje: nasveti za skrbnike"
-description: "Pomagajte osebi z demenco, da dovolj pije, tako da ji čez dan ponujate priljubljene pijače. Pri zdravniku se pozanimajte o potrebah po tekočini in novih težavah s požiranjem."
+description: "Pomagajte osebi z demenco, da dovolj pije: čez dan ji ponudite priljubljeno pijačo. Za potrebe po tekočini in nove težave s požiranjem vprašajte zdravnika."
 section: caregiving
 order: 23
 updated: 2026-11-11
