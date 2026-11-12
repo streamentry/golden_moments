@@ -1,7 +1,7 @@
 ---
 title: "Tacaíocht do Dhuine ina Aonar le Démheanse"
 seoTitle: "Cónaí Ina Aonar le Démheanse: Tacaíocht do Theaghlaigh"
-description: "Tacaigh le duine a bhfuil démheanse air agus é ina aonar, le gnáthghnásanna seasta, seiceálacha aontaithe agus cabhair phraiticiúil, agus a neamhspleáchas á chaomhnú."
+description: "Tacaigh le duine a bhfuil démheanse air ina aonar, le gnáthghnásanna seasta, seiceálacha aontaithe agus cabhair phraiticiúil, agus a neamhspleáchas á chaomhnú."
 section: caregiving
 order: 12
 updated: 2026-11-11
