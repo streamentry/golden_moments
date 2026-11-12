@@ -84,7 +84,7 @@ Yen wong keselak, batuk, nahan pangan utawa minuman ing cangkeme, utawa ngalami 
 
 Yen wong duwe cangkem garing, untu lara utawa gigi palsu sing ora kepenak, takon dheweke apa sing dirasakake lan hubungi dokter gigi utawa dokter. Nyeri cangkem bisa gawe ngombe dadi luwih angel. Deleng [pandhuan perawatan mulut](/caregiving/oral-care-with-dementia/) kanggo cara lembut ndhukung perawatan cangkem.
 
-Kebingungan dadakan mbutuhake pitulungan medis sanalika. [Pandhuan NHS babagan kebingungan dadakan](https://www.nhs.uk/symptoms/confusion/) nyaranake wong aja nyoba ngdiagnosis dhewe. Gunakna layanan darurat lokal utawa proses perawatan cepet ing papan panjenengan.
+Kebingungan dadakan mbutuhake pitulungan medis sanalika. [Pandhuan NHS babagan kebingungan dadakan](https://www.nhs.uk/symptoms/confusion/) nyaranake wong aja nyoba diagnosis dhewe. Gunakna layanan darurat lokal utawa proses perawatan cepet ing papan panjenengan.
 
 ## Kepriye aku nawakake minuman tanpa tekanan?
 
