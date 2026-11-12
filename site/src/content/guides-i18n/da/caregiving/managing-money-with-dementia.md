@@ -84,7 +84,7 @@ I USA kan en funktion med betroet kontakt gøre det muligt for et finansielt ins
 | Betroet kontakt | Et finansielt institut kan kontakte den navngivne person i visse situationer. Navnet alene giver ikke adgang til kontoen. |
 | Formel konto- eller juridisk beføjelse | En bankfuldmagt, en fuldmagt eller en lignende ordning kan give ret til transaktioner. Beføjelser og pligter afhænger af kontoen og den lokale lovgivning. |
 
-Før du ændrer kontoadgang eller ejerskab, så bed banken og en kvalificeret juridisk rådgiver lokalt forklare mulighederne og risiciene. En diagnose alene siger ikke, hvilke økonomiske opgaver en person kan klare, eller hvilke valg de ønsker at træffe. Lad dem være med i beslutningerne, så meget de ønsker. Hvis de vil have, at nogen handler på deres vegne, så spørg, hvordan det kan oprettes lovligt, i stedet for at bruge en anden persons login.
+Før du ændrer kontoadgang eller ejerskab, så bed banken og en kvalificeret juridisk rådgiver lokalt forklare mulighederne og risici. En diagnose alene siger ikke, hvilke økonomiske opgaver en person kan klare, eller hvilke valg de ønsker at træffe. Lad dem være med i beslutningerne, så meget de ønsker. Hvis de vil have, at nogen handler på deres vegne, så spørg, hvordan det kan oprettes lovligt, i stedet for at bruge en anden persons login.
 
 ## Hvad skal jeg holde øje med?
 
@@ -115,4 +115,4 @@ Tal uden at give skylden. Svindel er designet til at vildlede folk. [CFPB's vejl
 
 Spørg personens bank, hvilke værktøjer og tilladelser der findes. Ved et juridisk dokument eller en ændring af kontoejerskab skal du tale med en kvalificeret fagperson, der kender lovgivningen der, hvor personen bor. Hvis du er bekymret for mulig udnyttelse, så brug en lokal beskyttelsestjeneste. Denne side kan ikke afgøre, hvilken beføjelse nogen bør have, eller om en bestemt transaktion er svindel.
 
-[Vejledningen om første skridt efter en diagnose](/caregiving/after-dementia-diagnosis/) kan hjælpe personen og familien med at vælge ét planlægningsspørgsmål at tage fat på. [Vejledningen om familieuenigheder](/caregiving/family-disagreements-about-dementia-care/) giver ideer til, hvordan man kan drøfte én bekymring ad gangen.
+[Vejledningen om første skridt efter en diagnose](/caregiving/after-dementia-diagnosis/) kan hjælpe personen og familien med at vælge ét planlægningsspørgsmål at tage fat på. [Vejledningen om uenigheder i familien](/caregiving/family-disagreements-about-dementia-care/) giver ideer til, hvordan man kan drøfte én bekymring ad gangen.
