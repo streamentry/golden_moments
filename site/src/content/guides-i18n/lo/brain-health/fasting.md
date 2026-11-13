@@ -1,33 +1,28 @@
 ---
-title: "Intermittent Fasting and Dementia: What the Research Says"
-seoTitle: "Intermittent Fasting and Dementia: What Research Says"
-description: "Human evidence on intermittent fasting and dementia is limited and early. Learn the risks for older adults and why eating enough matters more with dementia."
+title: "ການອົດອາຫານແບບຊ່ວງເວລາ ກັບໂຣກສະໝອງເສື່ອມ: ການຄົ້ນຄວ້າບອກຫຍັງ"
+seoTitle: "ການອົດອາຫານແບບຊ່ວງເວລາ ແລະ ໂຣກສະໝອງເສື່ອມ: ການຄົ້ນຄວ້າບອກຫຍັງ"
+description: "ຫຼັກຖານຈາກມະນຸດກ່ຽວກັບການອົດອາຫານແບບຊ່ວງເວລາ ແລະ ໂຣກສະໝອງເສື່ອມຍັງຈຳກັດ ແລະ ເບື້ອງຕົ້ນ ພ້ອມຄວາມສ່ຽງສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ ແລະ ເຫດຜົນທີ່ການກິນໃຫ້ພຽງພໍສຳຄັນກວ່າ."
 section: brain-health
 order: 4
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  There is no good evidence that intermittent fasting prevents or slows
-  dementia. Much of the research is in animals, and human studies in older
-  adults are small and short. Fasting can be risky for older adults: weight and
-  muscle loss, low blood sugar with some diabetes medicines, dehydration and
-  falls. For people living with dementia, eating and drinking enough is usually
-  the bigger concern. Talk with a doctor first.
+  ຍັງບໍ່ມີຫຼັກຖານດີວ່າການອົດອາຫານແບບຊ່ວງເວລາປ້ອງກັນ ຫຼື ຊະລອໂຣກສະໝອງເສື່ອມໄດ້. ການຄົ້ນຄວ້າສ່ວນໃຫຍ່ແມ່ນໃນສັດ ແລະ ການສຶກສາໃນມະນຸດກັບຜູ້ໃຫຍ່ສູງອາຍຸກໍນ້ອຍ ແລະ ສັ້ນ. ການອົດອາຫານອາດມີຄວາມສ່ຽງສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ: ນ້ຳໜັກ ແລະ ກ້າມເນື້ອລົດ ນ້ຳຕານໃນເລືອດຕ່ຳກັບຢາເບົາຫວານບາງຊະນິດ ຂາດນ້ຳ ແລະ ການລົ້ມ. ສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ ການກິນ ແລະ ດື່ມໃຫ້ພຽງພໍມັກເປັນເລື່ອງໃຫຍ່ກວ່າ. ປຶກສາໝໍກ່ອນ.
 keyPoints:
-  - "The National Institute on Aging says there is not enough evidence to recommend any fasting or calorie-restriction diet, especially for older adults."
-  - "Much of the research on fasting and aging comes from animals, and those results do not necessarily apply to people."
-  - "Possible risks for older adults include unintended weight loss, muscle loss, low blood sugar with some diabetes medicines, dehydration, dizziness and falls."
-  - "People living with dementia often forget to eat or drink, or think they already have. Helping them eat and drink enough usually matters far more than when they eat."
-  - "Do not use fasting for someone living with dementia. Talk with a doctor or registered dietitian before any change to eating patterns."
+  - "National Institute on Aging ເວົ້າວ່າມີຫຼັກຖານບໍ່ພຽງພໍທີ່ຈະແນະນຳການອົດອາຫານ ຫຼື ລະບຽບການຈຳກັດແຄລໍຣີ ໂດຍສະເພາະສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ."
+  - "ການຄົ້ນຄວ້າສ່ວນໃຫຍ່ກ່ຽວກັບການອົດອາຫານ ແລະ ອາຍຸມາຈາກສັດ ແລະ ຜົນເຫຼົ່ານັ້ນບໍ່ຈຳເປັນຕ້ອງໃຊ້ກັບມະນຸດ."
+  - "ຄວາມສ່ຽງທີ່ເປັນໄປໄດ້ສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸລວມນ້ຳໜັກລົດໂດຍບໍ່ໄດ້ຕັ້ງໃຈ ກ້າມເນື້ອລົດ ນ້ຳຕານໃນເລືອດຕ່ຳກັບຢາເບົາຫວານບາງຊະນິດ ຂາດນ້ຳ ວິນຫົວ ແລະ ການລົ້ມ."
+  - "ຄົນທີ່ເປັນໂຣກສະໝອງເສື່ອມມັກລືມກິນ ຫຼື ດື່ມ ຫຼື ຄິດວ່າຕົນກິນແລ້ວ. ການຊ່ວຍໃຫ້ເຂົາກິນ ແລະ ດື່ມພຽງພໍມັກສຳຄັນກວ່າຫຼາຍກວ່າເວລາທີ່ເຂົາກິນ."
+  - "ຢ່າໃຊ້ການອົດອາຫານກັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ. ປຶກສາໝໍ ຫຼື ນັກໂພຊະນາການທີ່ມີໃບອະນຸຍາດກ່ອນປ່ຽນລະບຽບການກິນ."
 faq:
-  - q: "Does intermittent fasting prevent Alzheimer's?"
-    a: "There is no good evidence that it does. Much of the research has been in animals, and human trials have mostly been short, in younger or overweight adults, and focused on weight loss. The National Institute on Aging says there is not enough evidence to recommend fasting diets to the public."
-  - q: "Is intermittent fasting safe for older adults?"
-    a: "It may not be. Fasting can lead to unintended weight and muscle loss, dehydration, dizziness and falls, and can cause dangerously low blood sugar in people taking insulin or some other diabetes medicines. Mayo Clinic notes it may not suit people at high risk of bone loss and falls. Talk with a doctor before trying it."
-  - q: "Should someone with dementia try fasting?"
-    a: "No. People living with dementia often have trouble eating and drinking enough, and poor nutrition may increase behavioral symptoms and cause weight loss. Fasting adds risk without proven benefit. Focus instead on regular meals, snacks they enjoy and enough to drink."
-  - q: "What are signs that someone with dementia is not eating or drinking enough?"
-    a: "Watch for weight loss, clothes getting looser, tiredness, weakness, constipation, or refusing food. Signs of dehydration listed by the National Institute on Aging include dry mouth, dizziness, a rapid heart rate and hallucinations. Tell their doctor if you notice these."
+  - q: "ການອົດອາຫານແບບຊ່ວງເວລາປ້ອງກັນອັລໄຊເມີໄດ້ບໍ?"
+    a: "ບໍ່ມີຫຼັກຖານດີທີ່ສະແດງວ່າປ້ອງກັນໄດ້. ການຄົ້ນຄວ້າສ່ວນໃຫຍ່ແມ່ນໃນສັດ ແລະ ການທົດລອງໃນມະນຸດສ່ວນໃຫຍ່ສັ້ນ ເກີດກັບຜູ້ໃຫຍ່ທີ່ອາຍຸນ້ອຍກວ່າ ຫຼື ມີນ້ຳໜັກເກີນ ແລະ ເນັ້ນການລົດນ້ຳໜັກ. National Institute on Aging ເວົ້າວ່າມີຫຼັກຖານບໍ່ພຽງພໍທີ່ຈະແນະນຳການອົດອາຫານແກ່ປະຊາຊົນ."
+  - q: "ການອົດອາຫານແບບຊ່ວງເວລາປອດໄພສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸບໍ?"
+    a: "ອາດບໍ່ປອດໄພ. ການອົດອາຫານອາດເຮັດໃຫ້ນ້ຳໜັກ ແລະ ກ້າມເນື້ອລົດໂດຍບໍ່ຕັ້ງໃຈ ຂາດນ້ຳ ວິນຫົວ ແລະ ລົ້ມ ແລະ ອາດເຮັດໃຫ້ນ້ຳຕານໃນເລືອດຕ່ຳອັນຕະລາຍໃນຄົນທີ່ໃຊ້ອິນຊູລິນ ຫຼື ຢາເບົາຫວານບາງຊະນິດ. Mayo Clinic ລະບຸວ່າມັນອາດບໍ່ເໝາະກັບຄົນທີ່ມີຄວາມສ່ຽງສູງຕໍ່ການສູນເສຍກະດູກ ແລະ ການລົ້ມ. ໃຫ້ປຶກສາໝໍກ່ອນລອງ."
+  - q: "ຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມຄວນລອງອົດອາຫານບໍ?"
+    a: "ບໍ່ຄວນ. ຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມມັກມີບັນຫາໃນການກິນ ແລະ ດື່ມໃຫ້ພຽງພໍ ແລະ ການກິນທີ່ບໍ່ດີອາດເຮັດໃຫ້ອາການພຶດຕິກຳຮ້າຍແຮງຂຶ້ນ ແລະ ນ້ຳໜັກລົດ. ການອົດອາຫານເພີ່ມຄວາມສ່ຽງໂດຍບໍ່ມີປະໂຫຍດທີ່ພິສູດແລ້ວ. ໃຫ້ເນັ້ນອາຫານປົກກະຕິ ຂອງວ່າງທີ່ຜູ້ນັ້ນມັກ ແລະ ການດື່ມໃຫ້ພຽງພໍ."
+  - q: "ອາການໃດບອກວ່າຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມກິນ ຫຼື ດື່ມບໍ່ພຽງພໍ?"
+    a: "ເບິ່ງນ້ຳໜັກລົດ ເສື້ອຜ້າຫຼວມຂຶ້ນ ເມື່ອຍ ອ່ອນແຮງ ທ້ອງຜູກ ຫຼື ປະຕິເສດອາຫານ. ສັນຍານຂາດນ້ຳທີ່ National Institute on Aging ລະບຸລວມປາກແຫ້ງ ວິນຫົວ ຫົວໃຈເຕັ້ນໄວ ແລະ ເຫັນພາບຫຼອນ. ບອກໝໍຂອງເຂົາຖ້າທ່ານສັງເກດເຫັນສິ່ງເຫຼົ່ານີ້."
 sources:
   - title: "Calorie restriction and fasting diets: What do we know?"
     publisher: "National Institute on Aging"
@@ -55,136 +50,70 @@ related: [brain-health/diet, brain-health/can-dementia-be-prevented, activities/
 health: true
 ---
 
-Intermittent fasting, such as eating only within an eight-hour window or
-cutting calories sharply two days a week, gets a lot of attention, and some
-articles suggest it might protect the brain. If you are an older adult, or you
-care for someone living with dementia, here is what the research actually
-shows, and why caution matters.
+ການອົດອາຫານແບບຊ່ວງເວລາ ເຊັ່ນ ການກິນພາຍໃນຊ່ວງແປດຊົ່ວໂມງ ຫຼື ການຕັດແຄລໍຣີຢ່າງຮຸນແຮງສອງມື້ຕໍ່ອາທິດ ໄດ້ຮັບຄວາມສົນໃຈຫຼາຍ ແລະ ບາງບົດຄວາມເວົ້າວ່າມັນອາດປົກປ້ອງສະໝອງ. ຖ້າທ່ານເປັນຜູ້ໃຫຍ່ສູງອາຍຸ ຫຼື ດູແລຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ ນີ້ແມ່ນສິ່ງທີ່ການຄົ້ນຄວ້າບອກຕົວຈິງ ແລະ ເຫດຜົນທີ່ຕ້ອງລະວັງ.
 
-This is general information, not medical advice. Do not start fasting, or
-change how someone you care for eats, without talking to a doctor or a
-registered dietitian. See our [medical disclaimer](/medical-disclaimer/).
+ນີ້ແມ່ນຂໍ້ມູນທົ່ວໄປ ບໍ່ແມ່ນຄຳແນະນຳທາງການແພດ. ຢ່າເລີ່ມອົດອາຫານ ຫຼື ປ່ຽນວິທີກິນຂອງຜູ້ທີ່ທ່ານດູແລ ໂດຍບໍ່ໄດ້ປຶກສາໝໍ ຫຼື ນັກໂພຊະນາການທີ່ມີໃບອະນຸຍາດ. ເບິ່ງ[ຂໍ້ປະຕິເສດທາງການແພດ](/medical-disclaimer/) ຂອງພວກເຮົາ.
 
-## Does intermittent fasting prevent dementia?
+## ການອົດອາຫານແບບຊ່ວງເວລາປ້ອງກັນໂຣກສະໝອງເສື່ອມໄດ້ບໍ?
 
-There is no good evidence that intermittent fasting prevents or slows dementia.
-The National Institute on Aging (NIA) says there is not enough evidence to
-recommend any type of calorie-restriction or fasting diet, and that much more
-needs to be learned about their effectiveness and safety, especially in older
-adults ([NIA on calorie restriction and fasting](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
+ຍັງບໍ່ມີຫຼັກຖານດີວ່າການອົດອາຫານແບບຊ່ວງເວລາປ້ອງກັນ ຫຼື ຊະລອໂຣກສະໝອງເສື່ອມໄດ້. National Institute on Aging (NIA) ເວົ້າວ່າມີຫຼັກຖານບໍ່ພຽງພໍທີ່ຈະແນະນຳລະບຽບການອົດອາຫານ ຫຼື ຈຳກັດແຄລໍຣີແບບໃດກໍຕາມ ແລະ ຍັງຕ້ອງຮຽນຮູ້ອີກຫຼາຍກ່ຽວກັບປະສິດທິພາບ ແລະ ຄວາມປອດໄພ ໂດຍສະເພາະໃນຜູ້ໃຫຍ່ສູງອາຍຸ ([NIA ກ່ຽວກັບການຈຳກັດແຄລໍຣີ ແລະ ການອົດອາຫານ](https://www.nia.nih.gov/news/calorie-restriction-and-fasting-diets-what-do-we-know)).
 
-### Why the evidence is so limited
+### ເປັນຫຍັງຫຼັກຖານຈຶ່ງຈຳກັດຫຼາຍ
 
-The NIA gives several reasons:
+NIA ໃຫ້ເຫດຜົນຫຼາຍຢ່າງ:
 
-- **Most studies are in animals.** Research in worms, flies, mice and monkeys
-  has produced interesting results, but these findings do not necessarily apply
-  to people. Even in animals, results are mixed; in some mouse strains, calorie
-  restriction shortened life.
-- **Human trials have been short.** Most lasted a few weeks or months.
-- **Most human trials focused on weight loss** in overweight adults, not on
-  memory or dementia.
-- **Older adults are rarely included.** Many trials recruited people aged 60 or
-  younger.
+- **ການສຶກສາສ່ວນໃຫຍ່ແມ່ນໃນສັດ.** ການຄົ້ນຄວ້າໃນໜອນ ແມງວັນ ໜູ ແລະ ລິງໄດ້ຜົນທີ່ໜ້າສົນໃຈ ແຕ່ຜົນເຫຼົ່ານີ້ບໍ່ຈຳເປັນຕ້ອງໃຊ້ກັບມະນຸດ. ແມ່ນແຕ່ໃນສັດ ຜົນກໍປົນກັນ ໃນບາງສາຍພັນໜູ ການຈຳກັດແຄລໍຣີເຮັດໃຫ້ອາຍຸສັ້ນລົງ.
+- **ການທົດລອງໃນມະນຸດສັ້ນ.** ສ່ວນໃຫຍ່ໃຊ້ເວລາບໍ່ພຽງແຕ່ບໍ່ກີ່ອາທິດຫຼືເດືອນ.
+- **ການທົດລອງສ່ວນໃຫຍ່ເນັ້ນການລົດນ້ຳໜັກ** ໃນຜູ້ໃຫຍ່ທີ່ມີນ້ຳໜັກເກີນ ບໍ່ແມ່ນການຄວາມຈຳ ຫຼື ໂຣກສະໝອງເສື່ອມ.
+- **ຜູ້ໃຫຍ່ສູງອາຍຸແທບບໍ່ໄດ້ຮວມເຂົ້າ.** ການທົດລອງຫຼາຍອັນຮັບສະໝັກຄົນອາຍຸ 60 ປີ ຫຼື ນ້ອຍກວ່າ.
 
-A 2026 systematic review looked specifically at intermittent fasting in adults
-aged 60 and older. It found that the evidence in this age group remains
-limited, with small studies, short follow-up and mixed designs. Findings on
-thinking and memory came from individual studies rather than pooled trial
-results. The review also noted that some studies linked very short eating
-windows or long fasts with worse outcomes, and the authors urged caution for
-older adults ([2026 review in Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
+ການທົບທວນປີ 2026 ໄດ້ເບິ່ງການອົດອາຫານແບບຊ່ວງເວລາໃນຜູ້ໃຫຍ່ອາຍຸ 60 ປີຂຶ້ນໄປໂດຍສະເພາະ. ມັນພົບວ່າຫຼັກຖານໃນກຸ່ມອາຍຸນີ້ຍັງຈຳກັດ ມີການສຶກສານ້ອຍ ຕິດຕາມໄລຍະສັ້ນ ແລະ ການອອກແບບປົນກັນ. ຜົນດ້ານການຄິດ ແລະ ຄວາມຈຳມາຈາກການສຶກສາແຕ່ລະອັນ ບໍ່ແມ່ນຈາກການລວມຜົນການທົດລອງ. ການທົບທວນຍັງລະບຸວ່າບາງການສຶກສາເຊື່ອມຊ່ວງເວລາກິນທີ່ສັ້ນຫຼາຍ ຫຼື ການອົດຍາວກັບຜົນທີ່ແຍ່ລົງ ແລະ ຜູ້ຂຽນເຕືອນໃຫ້ລະວັງສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ ([ການທົບທວນປີ 2026 ໃນ Nutrients](https://pmc.ncbi.nlm.nih.gov/articles/PMC13165003/)).
 
-Some researchers think that the body's switch to burning fat during a fast may
-affect the brain, but this is still a theory being studied. The NIA notes that
-the science is uncertain.
+ນັກວິໄຈບາງຄົນຄິດວ່າການທີ່ຮ່າງກາຍປ່ຽນໄປເຜົາໄຂມັນໃນຂະນະອົດອາຫານອາດມີຜົນຕໍ່ສະໝອງ ແຕ່ນີ້ຍັງເປັນທິດສະດີທີ່ກຳລັງຖືກສຶກສາ. NIA ລະບຸວ່າວິທະຍາສາດຍັງບໍ່ແນ່ນອນ.
 
-## What are the risks of fasting for older adults?
+## ການອົດອາຫານມີຄວາມສ່ຽງຫຍັງສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸ?
 
-Fasting is not a harmless experiment for many older people. Possible risks
-include:
+ສຳລັບຜູ້ໃຫຍ່ສູງອາຍຸຫຼາຍຄົນ ການອົດອາຫານບໍ່ແມ່ນການທົດລອງທີ່ບໍ່ມີອັນຕະລາຍ. ຄວາມສ່ຽງທີ່ເປັນໄປໄດ້ລວມ:
 
-- **Unintended weight loss.** Eating less than the body needs can lead to
-  weight loss and less muscle strength, which can leave a person frailer.
-- **Muscle and bone loss.** In an NIA-supported two-year trial of calorie
-  restriction in young and middle-aged adults, participants had slight declines
-  in bone density and lean body mass.
-- **Low blood sugar with diabetes medicines.** People who take insulin or some
-  other diabetes medicines can have blood sugar drop too low if they skip or
-  delay meals, according to the
-  [National Institute of Diabetes and Digestive and Kidney Diseases](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia).
-  Low blood sugar can cause dizziness, confusion and irritability.
-- **Dehydration.** If drinks are skipped along with meals, a person can become
-  dehydrated.
-- **Dizziness and falls.** Mayo Clinic notes that intermittent fasting may cause
-  people to feel very tired and dizzy, and that it may not be a healthy pattern
-  for people at high risk of bone loss and falls
-  ([Mayo Clinic on intermittent fasting](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
-- **Other effects.** Mayo Clinic also lists headaches, mood swings and
-  constipation, and notes some evidence that a 16-hour fast with an 8-hour
-  eating window may raise heart disease risk compared with other eating
-  windows. That evidence is not settled.
+- **ນ້ຳໜັກລົດໂດຍບໍ່ໄດ້ຕັ້ງໃຈ.** ການກິນໜ້ອຍກວ່າທີ່ຮ່າງກາຍຕ້ອງການອາດເຮັດໃຫ້ນ້ຳໜັກລົດ ແລະ ກຳລັງກ້າມເນື້ອອ່ອນລົງ ເຊິ່ງອາດເຮັດໃຫ້ຄົນອ່ອນແອລົງ.
+- **ກ້າມເນື້ອ ແລະ ກະດູກລົດ.** ໃນການທົດລອງສອງປີຂອງການຈຳກັດແຄລໍຣີທີ່ NIA ໜູນຊ່ວຍ ໃນຜູ້ໃຫຍ່ໄວໜຸ່ມ ແລະ ໄວກາງຄົນ ຜູ້ເຂົ້າຮ່ວມມີຄວາມໜາແໜ້ນຂອງກະດູກ ແລະ ມວນກ້າມທີ່ບໍ່ມີໄຂມັນລົດລົງເລັກນ້ອຍ.
+- **ນ້ຳຕານໃນເລືອດຕ່ຳກັບຢາເບົາຫວານ.** ຄົນທີ່ໃຊ້ອິນຊູລິນ ຫຼື ຢາເບົາຫວານບາງຊະນິດອາດມີນ້ຳຕານໃນເລືອດຕ່ຳເກີນໄປ ຖ້າຂ້າມ ຫຼື ເລື່ອນມື້ອາຫານ ຕາມ[ສະຖາບັນແຫ່ງຊາດດ້ານເບົາຫວານ ລະບົບຍ່ອຍອາຫານ ແລະ ໄຕ](https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia). ນ້ຳຕານຕ່ຳອາດເຮັດໃຫ້ວິນຫົວ ສັບສົນ ແລະ ໜ້າລຳຄານ.
+- **ຂາດນ້ຳ.** ຖ້າຂ້າມການດື່ມພ້ອມກັບອາຫານ ຄົນອາດຂາດນ້ຳ.
+- **ວິນຫົວ ແລະ ການລົ້ມ.** Mayo Clinic ລະບຸວ່າການອົດອາຫານແບບຊ່ວງເວລາອາດເຮັດໃຫ້ເມື່ອຍ ແລະ ວິນຫົວຫຼາຍ ແລະ ອາດບໍ່ແມ່ນແບບແຜນທີ່ດີສຳລັບຄົນທີ່ມີຄວາມສ່ຽງສູງຕໍ່ການສູນເສຍກະດູກ ແລະ ການລົ້ມ ([Mayo Clinic ກ່ຽວກັບການອົດອາຫານແບບຊ່ວງເວລາ](https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/intermittent-fasting/faq-20441303)).
+- **ຜົນອື່ນໆ.** Mayo Clinic ຍັງລະບຸປວດຫົວ ອາລົມແກວ່ງ ແລະ ທ້ອງຜູກ ແລະ ເວົ້າເຖິງຫຼັກຖານບາງຢ່າງວ່າການອົດ 16 ຊົ່ວໂມງກັບການກິນ 8 ຊົ່ວໂມງອາດເພີ່ມຄວາມສ່ຽງໂຣກຫົວໃຈ ເມື່ອທຽບກັບຊ່ວງເວລາກິນແບບອື່ນ. ຫຼັກຖານນັ້ນຍັງບໍ່ແນ່ນອນ.
 
-## Why is eating enough the bigger concern with dementia?
+## ເປັນຫຍັງການກິນໃຫ້ພຽງພໍຈຶ່ງເປັນຄວາມກັງວົນໃຫຍ່ກວ່າກັບໂຣກສະໝອງເສື່ອມ?
 
-For people living with dementia, the usual problem is getting **enough** food
-and drink, not too much. The Alzheimer's Association explains that people in
-the middle and later stages may feel overwhelmed by food choices, forget to
-eat, or think they have already eaten. It adds that poor nutrition may increase
-behavioral symptoms and cause weight loss
-([Alzheimer's Association on food and eating](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
+ສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ ບັນຫາທົ່ວໄປແມ່ນການໄດ້**ພຽງພໍ**ຂອງອາຫານ ແລະ ເຄື່ອງດື່ມ ບໍ່ແມ່ນກິນຫຼາຍເກີນໄປ. Alzheimer's Association ອະທິບາຍວ່າຄົນໃນໄລຍະກາງ ແລະ ໄລຍະທ້າຍອາດຮູ້ສຶກທ່ວມທົ້ນກັບການເລືອກອາຫານ ລືມກິນ ຫຼື ຄິດວ່າຕົນກິນແລ້ວ. ມັນເພີ່ມວ່າການກິນທີ່ບໍ່ດີອາດເຮັດໃຫ້ອາການພຶດຕິກຳຮ້າຍແຮງຂຶ້ນ ແລະ ນ້ຳໜັກລົດ ([Alzheimer's Association ກ່ຽວກັບອາຫານ ແລະ ການກິນ](https://www.alz.org/help-support/caregiving/daily-care/food-eating)).
 
-The Alzheimer's Society notes that not eating enough can lead to weight loss,
-less muscle strength, tiredness and weakness, leaving a person frailer and less
-able to recover from infections
-([Alzheimer's Society on appetite](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
+Alzheimer's Society ລະບຸວ່າການກິນບໍ່ພຽງພໍອາດເຮັດໃຫ້ນ້ຳໜັກລົດ ກຳລັງກ້າມເນື້ອອ່ອນລົງ ເມື່ອຍ ແລະ ອ່ອນແຮງ ເຮັດໃຫ້ຄົນອ່ອນແອລົງ ແລະ ຟື້ນຕົວຈາກການຕິດເຊື້ອໄດ້ຍາກຂຶ້ນ ([Alzheimer's Society ກ່ຽວກັບຄວາມຢາກອາຫານ](https://www.alzheimers.org.uk/get-support/living-with-dementia/poor-appetite-dementia)).
 
-**For these reasons, fasting is not a good idea for someone living with
-dementia.** Skipped meals can easily turn into missed meals. Any change to how
-a person with dementia eats should be guided by their doctor or a registered
-dietitian.
+**ດ້ວຍເຫດຜົນເຫຼົ່ານີ້ ການອົດອາຫານບໍ່ແມ່ນຄວາມຄິດທີ່ດີສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ.** ມື້ອາຫານທີ່ຂ້າມງ່າຍກາຍເປັນມື້ອາຫານທີ່ຫາຍໄປ. ການປ່ຽນແປງໃດໆໃນການກິນຂອງຜູ້ທີ່ເປັນໂຣກສະໝອງເສື່ອມ ຄວນຖືກແນະນຳໂດຍໝໍ ຫຼື ນັກໂພຊະນາການທີ່ມີໃບອະນຸຍາດ.
 
-## What are the warning signs of poor eating or drinking?
+## ສັນຍານເຕືອນຂອງການກິນ ຫຼື ດື່ມບໍ່ດີມີຫຍັງແດ່?
 
-Watch for:
+ເບິ່ງ:
 
-- **Weight loss**, or clothes fitting more loosely.
-- **Leaving food or refusing meals**, or holding food in the mouth.
-- **Tiredness or weakness.**
-- **Constipation**, which can be linked with diet and dehydration.
-- **Signs of dehydration.** The NIA lists dry mouth, dizziness, a rapid heart
-  rate, and hallucinations, which can also be caused by dementia itself
-  ([NIA on common medical problems](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
+- **ນ້ຳໜັກລົດ** ຫຼື ເສື້ອຜ້າຫຼວມຂຶ້ນ.
+- **ທິ້ງອາຫານ ຫຼື ປະຕິເສດມື້ອາຫານ** ຫຼື ອົມອາຫານໄວ້ໃນປາກ.
+- **ເມື່ອຍ ຫຼື ອ່ອນແຮງ.**
+- **ທ້ອງຜູກ** ເຊິ່ງອາດກ່ຽວຂ້ອງກັບອາຫານ ແລະ ການຂາດນ້ຳ.
+- **ສັນຍານຂາດນ້ຳ.** NIA ລະບຸປາກແຫ້ງ ວິນຫົວ ຫົວໃຈເຕັ້ນໄວ ແລະ ເຫັນພາບຫຼອນ ເຊິ່ງອາດເກີດຈາກໂຣກສະໝອງເສື່ອມເອງໄດ້ເຊັ່ນກັນ ([NIA ກ່ຽວກັບບັນຫາທາງການແພດທົ່ວໄປ](https://www.nia.nih.gov/health/alzheimers-caregiving/common-medical-problems-alzheimers-disease-information-caregivers)).
 
-Poor appetite has many possible causes: sore teeth or loose dentures, new
-medicines, depression, constipation, less activity, or changes in taste and
-smell. Tell the person's doctor about any of these signs. They can look for a
-cause and may suggest a dietitian or supplements.
+ຄວາມຢາກອາຫານຕ່ຳມີສາເຫດທີ່ເປັນໄປໄດ້ຫຼາຍຢ່າງ: ແຂ້ວເຈັບ ຫຼື ແຂ້ວປອມຫຼວມ ຢາໃໝ່ ຊຶມເສົ້າ ທ້ອງຜູກ ການເຄື່ອນໄຫວໜ້ອຍລົງ ຫຼື ການປ່ຽນແປງລົດຊາດ ແລະ ກິ່ນ. ບອກໝໍຂອງຜູ້ນັ້ນກ່ຽວກັບສັນຍານເຫຼົ່ານີ້. ເຂົາສາມາດຊອກຫາສາເຫດ ແລະ ອາດແນະນຳນັກໂພຊະນາການ ຫຼື ອາຫານເສີມ.
 
-## How can you help someone eat and drink enough?
+## ທ່ານຈະຊ່ວຍໃຫ້ຜູ້ໃດກິນ ແລະ ດື່ມໃຫ້ພຽງພໍແນວໃດ?
 
-- **Offer small meals and snacks often**, rather than three large meals.
-- **Serve favorite foods**, and be flexible as tastes change. Sweet foods may be
-  welcome if appetite is low; ask the doctor if there are health reasons to
-  limit sugar.
-- **Keep drinks within reach** and offer small cups throughout the day. Soups,
-  fruit, smoothies and milkshakes count too.
-- **Eat together** when you can. Meals are a chance for company, not a task to
-  rush.
-- **Try finger foods**, such as sandwiches, fruit slices or chicken pieces, if
-  cutlery has become hard.
+- **ໃຫ້ອາຫານນ້ອຍໆ ແລະ ຂອງວ່າງເລື້ອຍໆ** ແທນທີ່ຈະເປັນສາມມື້ອາຫານໃຫຍ່.
+- **ເສີບອາຫານທີ່ມັກ** ແລະ ຍືດຫຍຸ່ນເມື່ອລົດຊາດປ່ຽນໄປ. ຂອງຫວານອາດຍິນດີຕ້ອນຮັບຖ້າຄວາມຢາກອາຫານຕ່ຳ ໃຫ້ຖາມໝໍວ່າມີເຫດຜົນທາງສຸຂະພາບໃນການຈຳກັດນ້ຳຕານບໍ.
+- **ເກັບເຄື່ອງດື່ມໄວ້ໃກ້ມື** ແລະ ໃຫ້ຈອກນ້ອຍໆຕະຫຼອດມື້. ແກງ ໝາກໄມ້ ສະມູດຕີ້ ແລະ ນົມປັ່ນກໍນັບ.
+- **ກິນນຳກັນເມື່ອເປັນໄປໄດ້.** ມື້ອາຫານເປັນໂອກາດຢູ່ນຳກັນ ບໍ່ແມ່ນໜ້າທີ່ທີ່ຕ້ອງຮີບ.
+- **ລອງອາຫານມືຈັບ** ເຊັ່ນ ຊິ້ນແຊນວິດ ຊິ້ນໝາກໄມ້ ຫຼື ຊິ້ນໄກ່ ຖ້າການໃຊ້ຊ້ອນສ້ອມກາຍເປັນເລື່ອງຍາກ.
 
-Our [diet guide](/brain-health/diet/) has more mealtime ideas. Helping prepare
-food can also be a pleasant shared activity; see
-[household tasks](/activities/household-tasks/).
+[ຄູ່ມືອາຫານ](/brain-health/diet/) ຂອງພວກເຮົາມີແນວຄິດເພີ່ມເຕີມກ່ຽວກັບເວລາກິນ. ການຊ່ວຍກຽມອາຫານກໍເປັນກິດຈະກຳຮ່ວມກັນທີ່ໜ້າພໍໃຈໄດ້ ເບິ່ງ[ວຽກບ້ານ](/activities/household-tasks/).
 
-## Talk with a doctor
+## ປຶກສາໝໍ
 
-Before trying any fasting plan yourself, talk with your doctor or a registered
-dietitian, especially if you take medicines for diabetes or blood pressure, have
-lost weight recently, or have had falls. For someone living with dementia, ask
-their doctor about how much they should be eating and drinking each day, rather
-than about fasting.
+ກ່ອນລອງແຜນການອົດອາຫານໃດໆດ້ວຍຕົນເອງ ໃຫ້ປຶກສາໝໍ ຫຼື ນັກໂພຊະນາການທີ່ມີໃບອະນຸຍາດ ໂດຍສະເພາະຖ້າທ່ານກິນຢາເບົາຫວານ ຫຼື ຄວາມດັນເລືອດ ນ້ຳໜັກລົດຫຼ້າສຸດ ຫຼື ເຄີຍລົ້ມ. ສຳລັບຜູ້ທີ່ມີຊີວິດຢູ່ກັບໂຣກສະໝອງເສື່ອມ ໃຫ້ຖາມໝໍຂອງເຂົາວ່າຄວນກິນ ແລະ ດື່ມເທົ່າໃດຕໍ່ມື້ ແທນທີ່ຈະຖາມກ່ຽວກັບການອົດອາຫານ.
 
-Get urgent medical help for sudden confusion, fainting, or signs of very low
-blood sugar that do not improve quickly.
+ຮັບການດູແລທາງການແພດເຮັ່ງດ່ວນ ສຳລັບສັບສົນກະທັນຫັນ ເປັນລົມ ຫຼື ສັນຍານນ້ຳຕານຕ່ຳຫຼາຍທີ່ບໍ່ດີຂຶ້ນໄວ.

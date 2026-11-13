@@ -87,7 +87,7 @@ Lo [jòc de coloriage](/games/coloring/) de Golden Moments fonciona en tocant un
 
 ## Adaptar segon l'evolucion de la demència
 
-En fasa precoça, fòrça personas gaudisson de paginas detalhadas e pòdon triar lor pròprias colors e dessenhs. En fasa mejana, las imatges mai grandas e mens de causidas ajudan. En fasa tardiva, ensajatz una sola forma grossa, una fuèlha de color doça, o simplament de tenir un crayon mentre que canturiatz un aire. Qualques personas aiman mai agachar una imatge acabada que n'en far una.
+En fasa precòça, fòrça personas gaudisson de paginas detalhadas e pòdon triar lor pròprias colors e dessenhs. En fasa mejana, las imatges mai grandas e mens de causidas ajudan. En fasa tardiva, ensajatz una sola forma grossa, una fuèlha de color doça, o simplament de tenir un crayon mentre que canturiatz un aire. Qualques personas aiman mai agachar una imatge acabada que n'en far una.
 
 Per mai de creativitat segon cada fasa, veire [las activitats artisticas e manualas](/activities/arts-and-crafts/) e [los projèctes artistics per las personas amb demència](/activities/art-projects/).
 
