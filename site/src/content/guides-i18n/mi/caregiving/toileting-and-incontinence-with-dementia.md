@@ -9,8 +9,8 @@ translatedFrom: 2026-11-11
 summary: >-
   Tautokohia ngā haerenga ki te wharepaku me te tūmataiti, ngā tohu mōhio me te ara
   māmā ki te wharepaku. Whakahokia ngā aitua kāore he whakahē, whakaritea te tangata
-  kia uru tonu ki ngā mahi, ā, pātai ki tētahi kaimahi hauora mō ngā panoni hou. Kaua
-  e whakaiti i ngā wai kāore he tohutohu hauora takitahi.
+  kia uru tonu ki ngā mahi, ā, pātai ki tētahi kaimahi hauora mō ngā panoni hou. Kaua e
+  whakaiti i ngā wai kāore he tohutohu hauora takitahi.
 keyPoints:
   - "Whakahaerea ngā aitua mahinga kore me te mana, tiakina te tūmataiti me te mana o te tangata."
   - "Me māmā te ara me te wharepaku ki te kitea, mēnā e pai ana ngā panoni ki te tangata."
@@ -20,7 +20,7 @@ faq:
   - q: "He aha taku mahi ina pāngia tētahi e mate wareware ana e tētahi aitua mahinga kore?"
     a: "Whakahokia mārie, kaua e whakahē, kaua e whakatika i te tangata i mua i te hunga kē. Pātai he aha te āwhina e hiahia ana ia, tukuna he tūmataiti, ā, waiho kia mahi ia i ngā mahi e pai ana ki a ia. Mēnā he hou, he piki haere ngā aitua, whakapā ki tētahi kaimahi hauora."
   - q: "Me whakaiti au i te wai o tētahi e raru ana te mimi?"
-    a: "Kaua e whakaiti i ngā wai hei aukati i ngā aitua, mēnā kāore he mahere takitahi nā tētahi kaimahi hauora. He nui te kino o te iti rawa o te wai, ā, ka pā mai te matekai wai me ētahi atu raru. Pātai ki te takuta o te tangata mō ōna hiahia."
+    a: "Kaua e whakaiti i ngā wai hei aukati i ngā aitua, mēnā kāore he mahere takitahi nā tētahi kaimahi hauora. He kino te iti rawa o te wai, ka pā mai te iti o te wai i te tinana me ētahi atu raru. Pātai ki te takuta o te tangata mō ōna hiahia."
   - q: "Ina timata ohorere te raru o te mimi, me pēhea?"
     a: "Whakapā ki tētahi takuta, ki tētahi kaimahi hauora rānei. He maha ngā take o te raru mimi ka taea te tirotiro, nō reira kaua e whakaaro he panoni hou nā te mate wareware anake. Ko te pōuri ohorere e hiahia ana ki te āwhina hauora tere."
   - q: "Me pēhea e āwhina ai i te tangata kia kitea te wharepaku?"
@@ -49,9 +49,9 @@ Ko te [aratohu mimi a te Alzheimer's Association](https://www.alz.org/help-suppo
 
 ## He mate wareware tonu ranei te raru wharepaku hou?
 
-Kāo. He maha pea ngā take o te raru hou, o te raru e kino haere ana. Ka uaua pea ki te tangata e mate wareware ana te mōhio ki te hiahia haere ki te wharepaku, te kimi i te wharepaku, te whakahaere i ngā kākahu. Ko ētahi atu take pea ko te paturopi, te whakapaipai, ngā pānga rongoā, te uaua o te nekeneke. Kāore e taea e te kaitiaki te mōhio ki te take mai i tētahi aitua kotahi.
+Kāo. He maha pea ngā take o te raru hou, o te raru e kino haere ana. Ka uaua pea ki te tangata e mate wareware ana te mōhio ki te hiahia haere ki te wharepaku, te kimi i te wharepaku, te whakahaere i ngā kākahu. Ko ētahi atu take pea ko te pirau, te kōrenga o te puku, ngā pānga rongoā, te uaua o te nekeneke. Kāore e taea e te kaitiaki te mōhio ki te take mai i tētahi aitua kotahi.
 
-Whakapā ki tētahi takuta, ki tētahi kaimahi hauora rānei ina panoni te mana o te pōnanga, o te puku. Mēnā e pai ana, tuhia te wā i tīmata ai te panoni, he aha tāu i kite ai, mēnā i kī te tangata he mamae, he kōrari rānei. Ka āwhina tēnei ki te kaimahi hauora ki te pātai i ngā pātai motuhake. Kaua e mutu, e panoni i te rongoā i runga i tētahi aratohu whānui.
+Whakapā ki tētahi takuta, ki tētahi kaimahi hauora rānei ina panoni te kaha ki te pupuri i te mimi, i te puku. Mēnā e pai ana, tuhia te wā i tīmata ai te panoni, he aha tāu i kite ai, mēnā i kī te tangata he mamae, he kōrari rānei. Ka āwhina tēnei ki te kaimahi hauora ki te pātai i ngā pātai motuhake. Kaua e mutu, e panoni i te rongoā i runga i tētahi aratohu whānui.
 
 Mēnā ka pōuri ohorere te tangata, whai i te āwhina hauora tere mā ngā ratonga ohotata o tō rohe. Ko te [tohutohu NHS mō te pōuri ohorere](https://www.nhs.uk/symptoms/confusion/) e whakamārama ana me tono āwhina tere te pōuri ohorere. He rerekē te panoni haere mārō o te tikanga wharepaku, engari me tika tonu he kōrerorero ngaio.
 
@@ -59,9 +59,9 @@ Mēnā ka pōuri ohorere te tangata, whai i te āwhina hauora tere mā ngā rato
 
 Whakamāmāhia te ara, kia kitea ngā mea katoa. He rama pō, he wāhi nui ki te hīkoi, he whakanoho mōhio o ngā taonga o ia rā ka āwhina pea. He kupu, he whakaahua iti ki te tatau ka whai pai pea mēnā ka mōhio te tangata ki tērā. Pātai mēnā e pai ana ia ki te tuwhera o te tatau wharepaku, nā te mea he pai ki a ia te tūmataiti.
 
-Ka whakaiti te kākahu e māmā ai te tangata te whakahaere i ngā mahi iti. Pupuri i ngā kākahu noa ki tōna wāhi tata, kaua e tāpiri i tētahi ahuawa hou, i tētahi panoni taputapu mēnā ka iti ake te mōhio o te tikanga. Ko tā mātou [aratohu haumaru kāinga](/caregiving/home-safety/) e whakaatu ana i te rama me te ara mārama ki te wharepaku. Pātai ki tētahi kaimahi mātanga mahi, ki tētahi kaimahi hauora pono rānei i mua i te panoni i ngā taputapu wharepaku, i te tāpiri i ngā rēre.
+Ka whakaiti te kākahu e māmā ai te tangata te whakahaere i ngā mahi iti. Pupuri i ngā kākahu noa ki tōna wāhi tata, kaua e tāpiri i tētahi ahuawa hou, i tētahi panoni taputapu mēnā ka iti ake te mōhio o te tikanga. Ko tā mātou [aratohu haumaru kāinga](/caregiving/home-safety/) e whakaatu ana i te rama me te ara mārama ki te wharepaku. Pātai ki tētahi kaimātanga mahi, ki tētahi kaimahi hauora pono rānei i mua i te panoni i ngā taputapu wharepaku, i te tāpiri i ngā rēre.
 
-Me mārama, me mōhio te rūma. Whakaitia te paru ka whakaaro te tangata he wharepaku, he taonga kē. Kia māmā te kitea o te pūtaiao rama. Panonia tētahi mea i te wā kotahi, pupuri anake mēnā e pai ana te tangata.
+Me mārama, me mōhio te rūma. Whakaitia te raruraru o ngā mea ka whakaaro te tangata he wharepaku, he taonga kē. Kia māmā te kitea o te rama. Panonia tētahi mea i te wā kotahi, pupuri anake mēnā e pai ana te tangata.
 
 ## He aha taku kōrero ina pea e hiahia ana te tangata ki te wharepaku?
 
@@ -77,17 +77,17 @@ Pupuri i tō reo kore whakahē, tiakina te mana o te tangata. Kaua e whakahē, k
 
 Hoatu ki te tangata he wā ki te mahi i ngā mahi e taea e ia. Akene ka hiahia ia ki te whakarerekē i ōna kākahu ake, ki tētahi tangata pono e noho tata ai, ki te waiho mōna anake mō tētahi wā poto. Mēnā he āwhina ngaio e hiahiatia ana, whakamāramatia i ngā wāhanga poto, ā, whakaaetia kia pai ia. Kaua e pupuri, kaua e tohe i a ia ki tētahi mahi tūmataiti.
 
-Ka taea e koe te whakarite he kākahu horoi, he kete tūmataiti mō tētahi haerenga mēnā e hiahia ana te tangata. Pātai i mua i te pupuri i ngā rauemi mimi ki tētahi wāhi tahi, i te kōrero ki ētahi atu tāngata mō tētahi aitua. Mēnā ka āwhina ngā rauemi kōhiri, ngā kākahu moenga, pātai ki tētahi kaimahi hauora, ki tētahi kaitohutohu mimi he kōwhiringa e tika ana ki ngā hiahia me ngā mōhiotanga o te tangata.
+Ka taea e koe te whakarite he kākahu horoi, he kete tūmataiti mō tētahi haerenga mēnā e hiahia ana te tangata. Pātai i mua i te pupuri i ngā rauemi mimi ki tētahi wāhi tahi, i te kōrero ki ētahi atu tāngata mō tētahi aitua. Mēnā ka āwhina ngā kākahu ārai, ngā moenga aukati wai, pātai ki tētahi kaimahi hauora, ki tētahi kaitohutohu mimi he kōwhiringa e tika ana ki ngā hiahia me ngā mōhiotanga o te tangata.
 
 ## Me whakaiti rānei i ngā inu, me whiriwhiri rānei i ngā rauemi mimi?
 
-Kaua e whakaiti i ngā wai o te tangata hei aukati i ngā aitua, mēnā kāore tōna kaimahi hauora i tuku tohutohu motuhake. Ko te Alzheimer's Association e whakatūpato ana ka taea e te whakaitinga wai te arahi ki te matekai wai me ētahi atu raru. He hiahia pea ki te whakamahara, ki te āwhina kia inu ai te tangata e mate wareware ana. Whaia tētahi mahere tiaki takitahi mō ngā whakaiti wai.
+Kaua e whakaiti i ngā wai o te tangata hei aukati i ngā aitua, mēnā kāore tōna kaimahi hauora i tuku tohutohu motuhake. Ko te Alzheimer's Association e whakatūpato ana ka taea e te whakaitinga wai te arahi ki te iti rawa o te wai i te tinana me ētahi atu raru. He hiahia pea ki te whakamahara, ki te āwhina kia inu ai te tangata e mate wareware ana. Whaia tētahi mahere tiaki takitahi mō ngā whakaitinga wai.
 
-Ko ngā pēpi, ngā kākahu mimi kāore e kaha, ngā moenga kāore e pēhia, he kōwhiringa whaiaro. He āwhina pea ki ētahi tāngata, engari kāore he tahi hei tika mō te katoa. Kōrerohia ki tētahi takuta, ki tētahi kaitohutohu mimi mō ngā kōwhiringa, te pai, te whakarite, ngā raruraru kiri, me te huarahi e hiahia ai te tangata ki te whakamahi. Kaua e whakamahia he rauemi ki tētahi e whakakahore ana; pātai he aha te mea e pai ai ia.
+Ko ngā kākahu ārai mimi, ngā kākahu kāore e mirimiri i te wai, ngā moenga aukati wai he kōwhiringa whaiaro. He āwhina pea ki ētahi tāngata, engari kāore he tahi hei tika mō te katoa. Kōrerohia ki tētahi takuta, ki tētahi kaitohutohu mimi mō ngā kōwhiringa, te pai, te whakarite, ngā raruraru kiri, me te huarahi e hiahia ai te tangata ki te whakamahi. Kaua e whakamahia he rauemi ki tētahi e whakakahore ana; pātai he aha te mea e pai ai ia.
 
 ## Ka aha mēnā me tono āwhina ngaio?
 
-Pātai ki tētahi takuta mō ngā raruraru mimi hou, ka kino haere, ka mamae rānei. Ka hiahia pea te paturopi, te whakapaipai, te pānga rongoā, tētahi atu take hauora ki te aro. Kawea he whakaahuatanga poto o te panoni, me te wā. Ka āwhina pea tētahi kaitohutohu mimi ki ngā kōwhiringa mahi i ētahi wāhi; pātai ki te takuta he aha te huarahi ki te kimi tautoko ā-rohe.
+Pātai ki tētahi takuta mō ngā raruraru mimi hou, ka kino haere, ka mamae rānei. Ka hiahia pea te pirau, te kōrenga o te puku, te pānga rongoā, tētahi atu take hauora ki te aro. Kawea he whakaahuatanga poto o te panoni, me te wā. Ka āwhina pea tētahi kaitohutohu mimi ki ngā kōwhiringa mahi i ētahi wāhi; pātai ki te takuta he aha te huarahi ki te kimi tautoko ā-rohe.
 
 Whāia te āwhina ohotata ina pōuri ohorere te tangata. Mō ētahi atu raru mimi, whakapā ki tētahi kaimahi hauora mō te tohutohu, kaua e whakatau te take mā koe anake. Kaua e whakaiti i ngā wai, kaua e panoni i ngā rongoā, kaua e tīmata i tētahi maimoatanga i runga i tētahi tuhinga ipurangi.
 

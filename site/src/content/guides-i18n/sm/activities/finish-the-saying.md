@@ -11,7 +11,7 @@ summary: >-
 keyPoints:
   - "Faaoga upu masani mai olaga ma aganuu o le tagata, ma ofo filifiliga o faaiuga pe a faigata ona tali tatala."
   - "Faitau le amata i le leo malie, ona taofi ma faalogo. Aua le faatumu le upu i le vave, ma aua le fesili."
-  - "Taumafai i tali uma e avea ma amataga lelei. Fai atu, O le tali lelei lena, ma talanoa e uiga i ai, nai lo le toe faasaʻo."
+  - "Taumafai i tali uma e avea ma amataga lelei. Fai atu, O le tali lelei lena, ma talanoa e uiga i ai, nai lo le toe faasa'o."
   - "Upu faamatalaga e mafai ona faigata. Taumafai i upu manino e masani ai mo tagata i laasaga waenuu ma mulimuli."
   - "Taofi pe a le toe fiafia. E lava lima i le sefulu minute o upu masani e avea ma taaloga atoatoa e fiafia ai."
 faq:
@@ -73,7 +73,7 @@ Afai o le tagata e faanoanoa pe e faamaaina, tuu le taaloga ma alu i se isi mea.
 
 ## Upu i autu eseese
 
-O nei faataitaiga e faaaoga le gagana Peretania, ae e mafai ona suia i upu masani o le gagana o le tagata lava ia. Mo tagata sili ona lelei, faitau na o le amata, ona faatali lea.
+O nei faataitaiga e faaoga le gagana Peretania, ae e mafai ona suia i upu masani o le gagana o le tagata lava ia. Mo tagata sili ona lelei, faitau na o le amata, ona faatali lea.
 
 - **Tau:** "Rain before seven..." (faaiuga: "fine by eleven"); "Every cloud has..." (se ailavai siliva).
 - **Kiona ma meaai:** "Too many cooks..." (faaleaogaina le supa); "Don't count your chickens..." (a o lei tupu).
