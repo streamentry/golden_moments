@@ -21,7 +21,7 @@ faq:
     a: "Los jòcs pòdon èsser una manièra agradabla de passar de temps ensemble se la persona los aima. Cap de jòc a pas demostrat que tracta, alenteish o arrèsta l'Alzheimer; causissètz-los per lo plaser : imatges grandas, pauca opcions e pas de cronòmetre, pas de punts ni de sons quand se fa una error."
   - q: "I a una diferéncia entre las activitats per la demència e las activitats per l'Alzheimer?"
     a: "Generalament non. La malautiá d'Alzheimer es la causa la mai correnta de demència, e las memes idèas d'activitats s'aplican. Çò que ajuda amb l'Alzheimer es de saber que los sovenirs recents s'esvanisson en primièr, donc las activitats fondadas sus las competéncias, las cançons e las rotinas vièlhas se debanan sovent mai aisidament."
-  - q: "Qué pòt encara aprecear una persona amb Alzheimer a un estadi avançat?"
+  - q: "Qué pòt encara aprecièr una persona amb Alzheimer a un estadi avançat?"
     a: "La musica preferida, un massatge doç de las mans, de causas tendras de tenir, que li legisson de tèxtes, s'assentar a l'exterior e la companhia d'una persona de confiança. Fasètz-lo corte e calme, e observatz son visatge e son còs per saber çò que li agrada."
   - q: "Cossí interessar una persona amb Alzheimer a una activitat?"
     a: "Demandatz-li d'ajuda en luòc d'anonciar una activitat, preparatz tot d'avança, e comencetz vosautres meteis per que pòsca se junher. Causir l'ora del jorn ont es a son melhor fa una granda diferéncia. Se refusa, ensajatz pus tard o ofrissètz una version mai corta."
@@ -131,7 +131,7 @@ Los consèls del NIA se resumisson en qualques usatges : adaptar l'activitat a �
 
 - **Causissètz l'ora del jorn ont es a son melhor,** e gardatz de sessions cortas.
 - **Preparatz tot d'avança** per poder començar de seguida.
-- **Convidatz, non donatz d'ordres.** « Poiriatz me donar una man? » vai mai melhor que « Es l'ora de l'activitat! »
+- **Convidatz, non donatz d'ordres.** « Poiriatz me donar una man? » vai mai melhor que « Es l'ora de l'activitat. »
 - **Fasetz lo primièr pas vosautres** e laissatz-la s'i juntar.
 - **Ofrissètz un pas e una causida a la fòi.**
 - **Laissatz-la far a sa faiçon.** Las tovalhas tòrtas son adequadas.
