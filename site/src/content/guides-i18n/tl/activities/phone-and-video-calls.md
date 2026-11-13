@@ -147,7 +147,7 @@ Kung ikaw ang asawa, katulong sa bahay, kapatid o staff na tumutulong sa tawag, 
 - **Bantayan ang pagkapagod o pagkabagabag,** at sabihan ang tumatawag kung oras na para tapusin.
 - **Sabihin sa tumatawag kung ano ang gumana.** Ang “Nagustuhan niya ang aso” ay nakatutulong sa pagpaplano ng susunod na tawag.
 
-Iminumungkahi ng NIA na matututunan ng mga kamag-anak na malayo ang nakatatandang tao kung paano gamitin ang mga feature ng telepono, gaya ng tawag sa bidyo. Sa mga huling yugto, kadalasang kailangang hawakan ng katulong ang aparato nang buo. Ayos lang iyon.
+Iminumungkahi ng NIA na matututunan ng mga kamag-anak na malayo ang nakatatandang tao [kung paano gamitin ang mga feature ng telepono](https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving), gaya ng tawag sa bidyo. Sa mga huling yugto, kadalasang kailangang hawakan ng katulong ang aparato nang buo. Ayos lang iyon.
 
 Kung nakatira ang tao sa care home, iminumungkahi ng Alzheimer's Foundation of America na itanong kung tumutulong ang pasilidad sa mga tawag sa bidyo ng pamilya. Binabanggit din ng AFA ang pagpapadala ng larawan sa pagitan ng pamilya at staff ng pag-aalaga, at ang pagpapadala ng paboritong meryenda o maliliit na kaginhawahan, matapos suriin kung ano ang pinapayagan ng pasilidad.
 
