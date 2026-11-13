@@ -1,7 +1,7 @@
 ---
 title: "Se preparar per una consulta medicala amb la demència"
 seoTitle: "Consultas medicalas e demència : conselhs per l'aidant"
-description: "Preparatz una consulta medicala amb la demència : listatz las questions, notatz los cambiaments, portatz la lista dels medicaments e impliquatz la persona amb son acòrd."
+description: "Preparatz la consulta amb la demència : listatz las questions, notatz los cambiaments, portatz la lista dels medicaments e impliquatz la persona amb son acòrd."
 section: caregiving
 order: 20
 updated: 2026-11-11
