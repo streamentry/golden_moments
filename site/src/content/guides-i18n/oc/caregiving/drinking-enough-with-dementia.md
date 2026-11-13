@@ -1,7 +1,7 @@
 ---
 title: "Ajudar una persona amb demència a beure pro"
 seoTitle: "Demència e beure : conselhs per l'aidant"
-description: "Ajudatz una persona amb demència a beure pro en ofrissent sas begudas preferidas tota la jornada. Demandatz a un metge las besonhs de liquids e los problèmas de degluticion."
+description: "Ajudatz una persona amb demència a beure pro en ofrissent sas begudas preferidas tota la jornada. Demandatz a un metge per las besonhs de liquids e la degluticion."
 section: caregiving
 order: 23
 updated: 2026-11-11
@@ -19,7 +19,7 @@ faq:
   - q: "Dèu limitar las begudas per reduire las incontinéncias ?"
     a: "Limitatz pas los liquids per evitar los accidents levat se un professional de santat a balhat un plan individual. Tròp pauc de liquids pòt menar a una deshidratacion e a d'autres problèmas. Demandatz al metge de la persona çò que li cal."
   - q: "Quins signes poirián indicar una deshidratacion ?"
-    a: "Una boca secha, de vertigs, una lassitud inhabituala o un cambiament de la micciون pòdon èsser de signes, mas pòdon aver d'autras causas. Contactatz un professional de santat se vos inquietatz, e cercatz d'ajuda immediata per una confusion subita."
+    a: "Una boca secha, de vertigs, una lassitud inhabituala o un cambiament de la micciò pòdon èsser de signes, mas pòdon aver d'autras causas. Contactatz un professional de santat se vos inquietatz, e cercatz d'ajuda immediata per una confusion subita."
   - q: "Qué far se qualqu'un tossís o s'estrangla en bevent ?"
     a: "Arrestatz e contactatz un professional de santat per un conselh. Espessissetz pas las begudas e cambiatz pas lor textura levat se un professional qualificat l'a recomandat per aquesta persona."
 sources:
@@ -71,9 +71,9 @@ Espandissètz las ofertas tota la jornada en luòc de demandar a la persona de b
 
 ## Quins cambiaments deuriam notar ?
 
-Fasètz atencion a çò qu'es diferent del biais abituau de la persona. Pòt beure plan mens que d'abitud, daissar una beguda preferida sens la tocar o aver besonh de mai d'ajuda qu'abans. Una boca secha, de vertigs, una lassitud inhabituala o de cambiaments de la micciون pòdon tanben èsser de rasons de verificar amb un professional de santat. Aquestes signes pòdon aver d'autras causas, doncas diagnosticatz pas la deshidratacion vosautres meteissas.
+Fasètz atencion a çò qu'es diferent del biais abituau de la persona. Pòt beure plan mens que d'abitud, daissar una beguda preferida sens la tocar o aver besonh de mai d'ajuda qu'abans. Una boca secha, de vertigs, una lassitud inhabituala o de cambiaments de la micciò pòdon tanben èsser de rasons de verificar amb un professional de santat. Aquestes signes pòdon aver d'autras causas, doncas diagnosticatz pas la deshidratacion vosautres meteissas.
 
-Escrivètz çò que avètz remarcat e quand. Indicatz se la persona èra malauta, dins un luòc caud o se aviá de dificultats a tenir o a degluti una beguda. La [guida de l'Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/in-a-disaster) nòta que los signes de deshidratacion pòdon èsser malaisats a reperar en una persona amb demència. Se i a un cambiament subte o se vos inquietatz, contactatz un metge o un autre professional de santat.
+Escrivètz çò que avètz remarcat e quand. Indicatz se la persona èra malauta, dins un luòc caud o se aviá de dificultats a tenir o a degluti una beguda. La [guida de l'Alzheimer's Association](https://www.alz.org/help-support/caregiving/safety/in-a-disaster) nòta que los signes de deshidratacion pòdon èsser malaisats a reperar en una persona amb demència. Se i a un cambiament subit o se vos inquietatz, contactatz un metge o un autre professional de santat.
 
 ## E se bevre es venut dificil ?
 
