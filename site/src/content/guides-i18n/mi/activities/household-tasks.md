@@ -1,32 +1,31 @@
 ---
-title: "Household Tasks as Activities for People with Dementia"
-seoTitle: "Household Activities for Dementia: Everyday Tasks"
-description: "Folding, sorting, setting the table and simple cooking can be meaningful activities for people with dementia. How to set them up, adapt them and keep them safe."
+title: "Ngā Mahi Kāinga hei Mahi mō te Tangata e Mate Wareware ana"
+seoTitle: "Mahi Kāinga mō te Wareware: Ngā Mahi o ia Rā"
+description: "Te whakapaki, te whakarōpū, te whakarite tēpu me te tunu kai ngāwari ka taea te mahi whai tikanga mō te tangata e mate wareware ana. Me pēhea te whakarite, te urutau, te pupuri haumaru."
 section: activities
 order: 8
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Everyday chores such as folding towels, sorting socks, setting the table,
-  wiping counters, watering plants and helping with simple cooking can give a
-  person living with dementia a real way to help. Choose tasks they know, break
-  them into one step at a time, remove sharp or hot hazards, and value taking
-  part over doing it "right".
+  Ko ngā mahi kāinga o ia rā pēnei i te whakapaki tōwera, te whakarōpū tōkena, te whakarite tēpu, te muru kaute, te whakamākū rākau me te āwhina i te tunu kai ngāwari
+  ka hoatu ki te tangata e mate wareware ana he huarahi pono ki te āwhina. Kōwhiria
+  ngā mahi e mōhio ana ia, whakawehea ki ngā hātepe kotahi, tangohia ngā mea koi
+  me ngā mea wera, ā, whakahonoretia te whai wāhi, kāore ko te mahi “tika”.
 keyPoints:
-  - "Familiar chores can help a person feel useful and part of the household, which often matters more than how well the job is done."
-  - "Break each task into single steps, show rather than tell, and quietly take over any step that has become hard."
-  - "Lock away knives, cleaning products and detergent pods, and add stove knob covers or an automatic shut-off before cooking together."
-  - "Folded towels do not need to be refolded in front of the person. If you must redo something, do it later and out of sight."
-  - "If a task brings frustration, switch to an easier step, try again another time, or just sit together."
+  - "He pai ngā mahi kāinga mōhio ki te whakapai i te tangata kia mōhio ia he wāhi ō ia ki te whare, he mea nui atu i te pai o te mahi."
+  - "Whakawehea ia mahi ki ngā hātepe kotahi, whakaaturia, ehara i te kōrero noa, ā, mahia ngā hātepe uaua ina raru ia."
+  - "Rokohanga ngā mea koi, ngā rongoā horoi me ngā pōkai horoi ki tētahi wāhi kūtikuti, ā, tāpirihia he pāraumā tōrea te ahi, he whakamutunga aunoa mō te ahi i mua i te tunu tahi."
+  - "Kāore e herea he tōwera kua pāhōro ki te tangata. Mēnā me whakahoki anō tētahi mahi, mahia ā muri ake, i te wāhi kāore e kitea ana e ia."
+  - "Ina pōrearea te mahi i te tangata, huri ki tētahi hātepe māmā, whakamātau anō i tētahi wā kē, noho tahi rānei."
 faq:
-  - q: "What chores can a person with dementia still help with?"
-    a: "Many people can still fold laundry, match socks, sort silverware, set the table, wipe a counter, dust, sweep, water plants or stir a bowl of batter. Pick tasks the person did in the past and match them to what they can do now. In later stages, a single repeated motion, such as smoothing napkins, may be enough."
-  - q: "Is it safe for someone with dementia to help in the kitchen?"
-    a: "It can be, with close supervision and the right setup. Keep knives, cleaning products and anything hot out of reach, use stove knob covers or an automatic shut-off, and give the person a safe job such as washing vegetables, stirring or setting out plates. Never leave them alone with the stove on."
-  - q: "What if they fold things wrong or make a mess?"
-    a: "Let it be. The aim is time together and a feeling of being useful, not a perfect result. If something truly needs redoing, wait until later and do it when the person is not watching, so they do not feel corrected."
-  - q: "What if they refuse to help?"
-    a: "A no may mean the task feels too hard, confusing or tiring right now. Do not push. Try a simpler version, invite them to keep you company instead, or ask again at a better time of day."
+  - q: "He aha ngā mahi kāinga ka taea tonu e te tangata e mate wareware ana te āwhina?"
+    a: "He maha ngā tāngata ka taea tonu te horoi i ngā tōwera, te whakarite tōkena, te whakarōpū taputapu kai, te whakarite tēpu, te muru tēpu, te tātā, te kōtiti, te whakamākū rākau, te whiu i te pihi ki te rēwena. Kōwhiria he mahi i mahia e te tangata i mua, ā, honoa ki tāna e taea ana i tēnei rā. I ngā wāhanga whai muri, he nekeneke kotahi anake, pēnei i te whakamāmā i ngā tōwera kai, he pai pea."
+  - q: "He haumaru pea te tangata e mate wareware ana ki te āwhina i te kāuta?"
+    a: "Ka taea, me te tirotiro tata me te whakarite tika. Whakamaua ngā mata, ngā rongoā horoi me ngā mea wera, whakamahia he pāraumā tōrea te ahi, he whakamutunga aunoa rānei, ā, hoatu ki te tangata he mahi haumaru pēnei i te horoi huawai, te whakakohu, te whakarite rīhi. Kaua rawa e waiho ia anake me te ahi kei te rongoā."
+  - q: "Ki te whakapaki hē rātou, ki te whakapōrutu rānei?"
+    a: "Waiho. Ko te whāinga ko te wā tahi me te whakaaro he mea whai hua ia, ehara i te hua tino pai. Ki te tino me whakahoki anō tētahi mea, tatari ki muri ake, ā, mahia i te wā kāore e mātakitaki ana ia, kia kore ai ia e whakaaro kua whakatikatia ia."
+  - q: "Ki te whakakahore rātou ki te āwhina?"
+    a: "He whakakahore pea nā te mea he uaua, he pōhēhē, he ngenge te mahi i tēnei wā. Kaua e akiaki. Whakamātauria tētahi mahi māmā, tonoa ia kia noho tahi ki a koe hei hoa, ā, tonoa anō i tētahi wā pai ake o te rā."
 sources:
   - title: "Adapting Activities for People With Alzheimer's Disease"
     publisher: "National Institute on Aging"
@@ -45,114 +44,114 @@ related: [activities/daily-routine, activities/middle-stage, activities/for-men,
 health: false
 ---
 
-Many people living with dementia spent decades running a home, raising a family or keeping a workplace in order. Being asked to help with real chores can say "you are still part of this household" in a way few other activities can. This page covers which tasks tend to work, how to set them up, how to adapt them as things change, and how to keep the kitchen and laundry room safe.
+He maha ngā tāngata e noho ana me te mate wareware kua pau ngā tau maha ki te whakahaere i tētahi kāinga, ki te whakatipu whānau, ki te pupuri i tētahi wāhi mahi. Ko te tono ki te āwhina i ngā mahi kāinga tūturu ka kī “Kei te whai wāhi tonu koe ki tēnei whare” i tētahi huarahi, he iti ngā mahi e taea ai tērā. Ka whakaatu tēnei whārangi he aha ngā mahi e pai ana, me pēhea te whakarite, me pēhea te urutau i a rātou e panoni ana, ā, me pēhea te pupuri i te kāuta me te rūma horoi kākahu he haumaru.
 
-## Why do everyday chores work well as activities?
+## He aha ngā mahi kāinga i pai ai hei mahi?
 
-Chores work because they are familiar and they have a clear purpose. The National Institute on Aging lists washing dishes, setting the table, sweeping, dusting, sorting mail, folding laundry and sorting recycling among the [daily activities people with Alzheimer's may enjoy](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). The Alzheimer's Association notes that tasks like setting the table can help a person [feel like a valued part of the household](https://www.alz.org/help-support/caregiving/daily-care/activities).
+He pai ngā mahi kāinga nā te mea he mōhio, he tino take ō rātou. Ka whakarārangi te National Institute on Aging i te horoi rīhi, te whakarite tēpu, te kōtiti, te whakamaroke rēwena, te whakarōpū pēpa, te whakapaki kākahu, me te whakarōpū para hei [mahi o ia rā e pai ai te tangata e Alzheimer's](https://www.nia.nih.gov/health/alzheimers-caregiving/adapting-activities-people-alzheimers-disease). Ka kī te Alzheimer's Association he pai ngā mahi pēnei i te whakarite tēpu hei [āwhina kia rite te tangata ki te wāhanga whai take o te whare](https://www.alz.org/help-support/caregiving/daily-care/activities).
 
-A chore also comes with its own reason to start. "Could you help me with these towels?" is easier to say yes to than "Would you like to do an activity?"
+He take tōna anō mō te mahi ka tīmata ai. “Tēnā, āwhinatia mai ahau ki ēnei tōwera?” he māmā ake te whakaae ki tērā i “Kei te pīrangi koe ki tētahi mahi?”
 
-## Which household tasks are good to try?
+## He aha ngā mahi kāinga pai hei whakamātau?
 
-Start with tasks the person did in the past, then match them to what they can do today.
+Tīmatahia ki ngā mahi i mahia e te tangata i mua, kātahi ka honoa ki tāna e taea ana i tēnei rā.
 
-### Laundry and linens
+### Horoi kākahu me ngā mea moenga
 
-- **Folding towels and washcloths.** Hand over a basket of small, flat items. Towels are forgiving: there is no wrong way to fold one.
-- **Matching socks.** Put a mixed pile on the table. If pairs get hard to spot, use only two or three very different colors.
-- **Smoothing and stacking.** Napkins, pillowcases or dish towels can be smoothed flat and stacked. This works well later on, when folding has become too many steps.
+- **Te whakapaki tōwera me ngā tōwera horoi.** Hoatu he kete o ngā mea iti, papatahi. He ngāwari ngā tōwera: kāore he tikanga hē mō te whakapaki.
+- **Te whakarite tōkena.** Whakatakotoria he puranga tōkena ngākau rerekē ki runga tēpu. Mēnā he uaua te kimi rūnanga, whakamahia ngā tae e rua, e toru noa iho.
+- **Te whakamāmā me te whakarōpū.** Ko ngā tōwera kai, ngā kākahu urukapa, ngā tōwera horoi rīhi ka taea te whakamāmā, te whakarōpū. He pai tēnei ā muri ake, ina uaua te whakapaki.
 
-### Table and kitchen
+### Tēpu me te kāuta
 
-- **Setting the table.** Lay one place setting as a model and let the person copy it. If that is too much, hand over one item at a time: "Here's a fork for each plate."
-- **Sorting silverware.** Mix clean forks, spoons and butter knives in a tub and sort them into a divided tray. Leave sharp knives out.
-- **Drying dishes.** Plastic or unbreakable dishes and a soft towel make this a safe job.
-- **Wiping the table or counters.** A damp cloth and a clear surface. The Alzheimer's Association suggests offering a cloth if someone is already rubbing the table with their hand, turning a restless motion into a useful one.
+- **Te whakarite tēpu.** Whakatakotoria tētahi wāhi kai hei tauira, kia tā te tangata te tāhae. Mēnā he uaua rawa, hoatu tētahi taputapu i te wā: “Kei konei tētahi huka mō ia pereti.”
+- **Te whakarōpū taputapu kai.** Whakakōtahitia ngā huka mā, ngā paraoa me ngā maripata pata kōhua ki te kōpuka, ā, whakarōpūtia ki tētahi rārangi wāhanga. Waiho ngā tuaiwi koi.
+- **Te horoi rīhi.** He mea haumaru ngā rīhi kore e pakaru, he tōwera māku hei mahi.
+- **Te muru tēpu, te muru kaute.** He kōpaki māku, he wāhi mārama. E kī ana te Alzheimer's Association me hoatu he kōpaki mēnā kei te whakahīhiri te tangata i te tēpu ki tōna ringa, ā, ka huri te nekeneke pōhēhē ki tētahi mahi whai hua.
 
-### Around the house
+### Huri i te whare
 
-- **Dusting.** A soft duster and a few sturdy surfaces, such as a coffee table or bookshelf.
-- **Sorting the mail.** Hand over junk mail and catalogs to sort into piles: keep, recycle, open later. Keep real bills and checks elsewhere.
-- **Sorting recycling.** Clean cans, bottles and paper into separate bins.
-- **Sweeping.** A small broom on a patio or kitchen floor, if balance is steady.
-- **Watering plants.** A small, light watering can and a few plants in easy reach.
+- **Te tātā.** He tātā māmā, me ngā wāhi pakari, pēnei i te tēpu tārere, te pukapuka.
+- **Te whakarōpū pouaka.** Hoatu ngā pukapuka whakahoko me ngā pūrongo hei whakarōpū ki ngā pīrā: pupuri, tukuna, kōrero ā muri ake. Waiho ngā pire pūtea me ngā tiki ki tētahi wāhi kē.
+- **Te whakarōpū para.** Ngā tīna mā, ngā pounamu me ngā pēpa pepa ki ngā kōpaki wehe.
+- **Te kōtiti.** He kōtiti iti i te papa o te pōhi, i te papa kāinga rānei, mēnā he pai te tūtū o te tangata.
+- **Te whakamākū rākau.** He kēti iti māmā, ā, ētahi rākau kei te wāhi ngāwari ki te tae.
 
-### Simple cooking with supervision
+### Te tunu kai me te mātakitaki
 
-Cooking can bring back strong, pleasant feelings. The NIA suggests letting the person gather ingredients, measure, mix and pour, or simply tell someone else how to make a favorite recipe. Good jobs include:
+Ka oho ake ngā kare pai, ngā kare nui i te tunu kai. Ka kī te NIA me tuku te tangata kia kohikohi i ngā rēhi, kia ine, kia whakakotahi, kia riringi, kia kōrero rānei ki tētahi atu me pēhea te tunu i tētahi kai pai. Ko ngā mahi pai:
 
-- washing vegetables or fruit
-- stirring batter or a cold salad
-- tearing lettuce
-- buttering toast with a dull knife
-- placing cookie dough on a tray
-- putting toppings on a pizza
+- te horoi huawai, te huarākau
+- te whakakotahi parāoa, te huamata māku
+- te haehae rēteke
+- te pata tōwhiri ki te mata pūwhā
+- te whakatakoto paraoa kuki ki te ipu
+- te whakarite i ngā kōhua ki te pizza
 
-If measuring becomes hard, the Alzheimer's Association suggests you finish the measuring and then hand over a different step, such as stirring.
+Mēnā he uaua te ine, e kī ana te Alzheimer's Association me oti tōu ine, kātahi ka hoatu tētahi hātepe kē, pēnei i te whakakotahi.
 
-## How do I set up a chore so it goes well?
+## Me pēhea te whakarite i tētahi mahi kia pai ai te haere?
 
-1. **Pick the right time.** Choose a part of the day when the person is usually rested and calm. For many people this is the morning.
-2. **Clear the space.** One task, one surface, nothing extra on the table.
-3. **Invite, do not assign.** "I could use a hand with these" works better than "It's time to fold laundry."
-4. **Show the first one.** Fold one towel slowly, then hand over the next. Showing is clearer than explaining.
-5. **Give one step at a time.** Too many directions at once can overwhelm. Wait for one step to finish before naming the next.
-6. **Work side by side.** Doing the same job next to each other feels like company, not supervision.
-7. **Talk about the task, not the result.** "These are so soft" or "Tell me how you liked to keep the linen closet" invites conversation without testing anyone.
+1. **Kōwhiria te wā tika.** Whiriwhiria tētahi wāhanga o te rā e okiokingia ana, e mārie ana te tangata. Mō te nuinga, ko te ata tēnei.
+2. **Mātaranga te wāhi.** Kotahi te mahi, kotahi te papa, kāore he mea kē i runga i te tēpu.
+3. **Tono, kaua e tohu.** “Ka pai ki ahau tētahi āwhina ki ēnei” he pai ake i “Kua tae ki te wā o te whakapaki kākahu.”
+4. **Whakaaturia te tuatahi.** Whakapaki i tētahi tōwera mārie, kātahi ka hoatu te muri. He pai ake te whakaatu i te kōrero.
+5. **Hoatu he hātepe kotahi i te wā.** He nui rawa ngā tohutohu i te wā kotahi ka pōhēhē. Tatari kia oti tētahi hātepe i mua i te kī i te muri.
+6. **Mahi ki te taha.** Ko te mahi tahi i te mahi ōrite e pēnei ana he hoa, ehara i te mātakitaki.
+7. **Kōrero mō te mahi, ehara i te hua.** “He nui te ngohengohe o ēnei” me “Korerotia mai me pēhea tō pai ki te whakarite i te rūma rīnene” ka tono kōrerorero me te kore e whakamātau i tētahi.
 
-## How do I adapt chores as abilities change?
+## Me pēhea te urutau i ngā mahi ina panoni ngā pūkenga?
 
-Abilities shift over time and even from day to day. The Alzheimer's Association suggests moving toward simpler, more repetitive tasks as the disease progresses.
+Ka panoni ngā pūkenga i te wā, ā, i ia rā. E kī ana te Alzheimer's Association me neke ki ngā mahi māmā, ngā mahi auau ake, ā, ina tupu te mate.
 
-| If this has become hard | Try this instead |
+| Mēnā kua uaua tēnei | Ngana tēnei hei utu |
 | --- | --- |
-| Folding large sheets | Folding washcloths or smoothing napkins |
-| Setting a full table | Placing one napkin at each seat |
-| Sorting mail into categories | Stacking envelopes into one pile |
-| Following a recipe | Stirring, or watching and tasting while you cook |
-| Sweeping a whole floor | Wiping one small table |
-| Doing the task at all | Sitting with you and keeping you company while you do it |
+| Te whakapaki i ngā rīnene nui | Te whakapaki i ngā tōwera horoi, te whakamāmā i ngā tōwera kai |
+| Te whakarite i tētahi tēpu katoa | He tōwera kai kotahi mō ia nohoanga |
+| Te whakarōpū pukapuka ki ngā kōpaki | Te whakahiato i ngā emepu ki tētahi pīra kotahi |
+| Te whai i tētahi tohutunu | Te whakakotahi, te mātakitaki, te rūri i a koe e tunu ana |
+| Te kōtiti i te papa katoa | Te muru i tētahi tēpu iti |
+| Te mahi i te mahi katoa | Te noho tahi me koe, te whakapūmau i a koe i a koe e mahi ana |
 
-Watching counts. The NIA notes that some people simply enjoy watching, and that is a fine way to take part.
+He mea nui te mātakitaki. Ka kī te NIA he tangata ka mātakitaki noa, ā, he pai taua āhua o te whai wāhi.
 
-## How do I keep household tasks safe?
+## Me pēhea te pupuri i ngā mahi kāinga he haumaru?
 
-Safety comes first, especially in the kitchen. The NIA's [home safety tips for Alzheimer's caregivers](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) include:
+He nui te haumaru, otirā i te kāuta. Ko te tohutohu a te [NIA mō ngā tohutohu haumaru o te kāinga mō ngā kaitiaki Alzheimer's](https://www.nia.nih.gov/health/safety/alzheimers-caregiving-home-safety-tips) ko ēnei:
 
-- Lock up or remove cleaning products, including laundry detergent pods, which can look like candy.
-- Store knives, scissors and power tools in a locked area.
-- Add safety knobs and an automatic shut-off switch to the stove.
-- Put "Stop" or "Very hot" signs near the oven, toaster and iron, placed so they cannot catch fire.
-- Set the water heater to 120°F to lower the risk of scalding.
-- Remove artificial fruit and food-shaped magnets, which may look edible.
+- Whakamaua, tangohia rānei ngā rongoā horoi, tae atu ki ngā pōkai horoi rēwena, ka rite pea ki ngā rēteke.
+- Whakatakotoria ngā tuaiwi, ngā kōpeke me ngā taputapu hiko ki tētahi wāhi kua kati.
+- Tāpirihia ngā pōkai haumaru me tētahi whakamutunga aunoa ki te tāwhiri ahi.
+- Tāpirihia ngā tohu “Mutu” me “He tino wera” ki te oumu, te tōhiko, te āironi, kia kore e mau te ahi.
+- Whakaritea te pūreti wai ki te 120°F kia iti ai te tūraru o te kōtinga.
+- Tangohia ngā huariki hanga me ngā mahanga pēpa rite ki te kai, nā te mea ka rite pea ki te kai.
 
-A few more practical habits help:
+He tikanga anō ka āwhina:
 
-- Stay in the room whenever the stove, oven or a sharp tool is in use.
-- Use unbreakable dishes for drying and setting the table.
-- Keep floors dry and clear while sweeping or mopping.
-- If the person once used tools, the Alzheimer's Association suggests removing hazardous items from the workshop so a safe task, such as sanding a piece of wood, can still be enjoyed.
+- Noho tonu ki te rūma ina whakamahia te tāwhiri ahi, te oumu, te tuatahi koi rānei.
+- Whakamahia ngā rīhi kore e pakaru hei whakamaroke, hei whakarite tēpu.
+- Kia mātao, kia mārama ngā papa ina kōtiti, ina horoi.
+- Mēnā i whakamahia e te tangata ngā taputapu i mua, e kī ana te Alzheimer's Association me tango ngā mea kino i te wāhi mahi, kia taea tonu te mahi haumaru pēnei i te tātā i tētahi poraka rākau, te whakamāmā.
 
-## What if they do it "wrong"?
+## He aha mēnā kei te mahi “hē” rātou?
 
-Let it go. A towel folded into thirds instead of halves is still a folded towel. The Alzheimer's Association puts it plainly: what matters is spending time together and the person feeling useful, not whether the towels are folded properly. If something truly must be redone, wait until later and do it out of sight.
+Waiho. Ko te tōwera i whakapakihia ki ngā wāhanga toru, kāore i ngā haurua, he tōwera whakapakihia tonu. E kī pōturu ana te Alzheimer's Association: ko te mea nui ko te wā tahi, ko te tangata e whai hua ana, ehara i te tika o te whakapaki i ngā tōwera. Mēnā he mea tino me whakahoki anō, tatari ki muri ake, ā, mahia i te wāhi kāore e kitea ana e ia.
 
-Correcting in the moment can turn a pleasant job into a reminder of what has been lost. "Thank you, that's a big help" is almost always the right thing to say.
+Ko te whakatika i taua wā ka huri pea tētahi mahi pai ki tētahi maharatanga o ngā mea kua ngaro. “Kia ora, he āwhina nui tērā” te kōrero pai tonu.
 
-## When should we stop?
+## Me pēhea te whakamutu?
 
-Stop or switch when you see signs of frustration, tiredness or lost interest. Ending early is a good outcome, not a failure. You can:
+Whakamutua, whakarerea rānei i te kitenga i ngā tohu o te pōrearea, o te ngenge, o te ngaronga o te hiahia. Ko te whakamutu moata he hua pai, ehara i te hē. Ka taea e koe te:
 
-- swap to an easier step
-- move to something restful, like music or a cup of coffee
-- try again later or on another day
-- simply sit together
+- huri ki tētahi hātepe māmā
+- neke ki tētahi mea okiokinga, pēnei i te waiata, te kapu kawhe
+- whakamātau anō ā muri ake, i tētahi rā kē rānei
+- noho tahi noa
 
-If the person says no, do not push. See [what to do when they say no](/caregiving/when-they-say-no/) for gentle ways to respond.
+Ki te kī te tangata kāore, kaua e akiaki. Titiro ki [he aha te mahi ina kī kore rātou](/caregiving/when-they-say-no/) mō ngā huarahi ngāwari ki te whakautu.
 
-## Low-effort extras for a quieter moment
+## Ngā mahi iti mō tētahi wā mārie
 
-When physical chores are not possible, sorting and matching can still be done sitting down. [Sort Together](/games/sort-together/) lets you tap pictures into kitchen or garden baskets, and [Picture Pairs](/games/picture-pairs/) is a gentle matching game with large pictures and no timer. [Conversation Cards](/games/conversation-cards/) has open prompts about home and family that pair well with a coffee after the work is done.
+Ina kore e taea ngā mahi ā-tinana, ka taea tonu te whakarōpū, te whakarite i te noho tonu. Ka taea e [Sort Together](/games/sort-together/) te pātō i ngā whakaahua ki ngā kete kāinga, māra rānei, ā, ko [Picture Pairs](/games/picture-pairs/) he tākaro takirua mārie me ngā whakaahua rahi, kāore he wā. Ko [Conversation Cards](/games/conversation-cards/) he pātai tuwhera mō te kāinga me te whānau e hono pai ana ki te kawhe i muri i te mahi.
 
-For help fitting chores into the day, see our guide to a [calm daily routine](/activities/daily-routine/). For more ideas by stage, see [middle-stage activities](/activities/middle-stage/).
+Hei āwhina i te whakauru o ngā mahi ki te rā, titiro ki tā mātou arataki [te hōtaka mārie o ia rā](/activities/daily-routine/). Mō ētahi atu whakaaro ā-wāhanga, titiro ki [ngā mahi wāhanga waenga](/activities/middle-stage/).
