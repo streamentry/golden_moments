@@ -48,7 +48,7 @@ Ungasebenzisa amakhadi aprintiweyo kwi[simisebenzi yesiprinti yasimahla](/activi
 
 ## Ukuseta iseshoni
 
-- **Khetha iqela elincinane.** Abantu aba-4 ukuya kwabasibhozo bayinani elifanelekileyo. Amaqela amakhulu anzima ukulandela kwaye anokuvakala ngathi akhawulezisiwe.
+- **Khetha iqela elincinane.** Abantu abane ukuya kwabasibhozo bayinani elifanelekileyo. Amaqela amakhulu anzima ukulandela kwaye anokuvakala ngathi akhawulezisiwe.
 - **Yenza imifanekiso mikhulu.** Sebenzisa imigca ebanzi kunye nento enye eyaziwayo kwisikwere ngasinye. Gwema amakhadi anzima.
 - **Hlala abantu kakuhle.** Beka umdlali ngamnye apho akwazi ukubona umbizi nekhadi lakhe, kwaye ufumaneke nomncedi ukuba kukho imfuneko.
 - **Sebenzisa izixhobo zokuphawula ezilula.** Izinto ezinkulu, iikhowuni okanye ukuthinta ngomnwe kusebenza ngcono kuneepensile. Gcina ezingaphezulu ezimbalwa.

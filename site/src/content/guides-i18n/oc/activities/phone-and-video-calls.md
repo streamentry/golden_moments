@@ -56,7 +56,7 @@ Viure luènh d'una persona amb demència pòt semblar impotent. Los apèls telef
 
 Una activitat balha forma a l'apèl. « Cossí vas ? Qué as fach uèi ? » demanda a la persona de se remembrar e de contar, çò que pòt èsser dur e estressant. « Agachatz, las tomatas son madas » ne demanda pas res.
 
-L'[Alzheimer's Association](https://www.alz.org/help-support/caregiving/holidays) nòta que las conversacions amb de grops mai grands per video pòdon èsser dificilas, e prepausa [d'ajustar d'estructura a l'apèl](https://www.alz.org/help-support/caregiving/holidays) amb de causas coma cantar de cançons o partejar de fotos.
+L'Alzheimer's Association nòta que las conversacions amb de grops mai grands per video pòdon èsser dificilas, e prepausa [d'ajustar d'estructura a l'apèl](https://www.alz.org/help-support/caregiving/holidays) amb de causas coma cantar de cançons o partejar de fotos.
 
 ## Quinas activitats marchan per un apèl video?
 
@@ -105,7 +105,7 @@ Los apèls telefonics comptan encara. Dementia Australia suggerís de [apelar a 
 
 - Disètz vòstre nom e vòstre ligam de seguida : « Bonjorn Papà, sòi Jenny, vòstra filha. »
 - Parlatz lentament, en de frasas corchas, una idèa a la fes.
-- Balhatz de novèlas al lòc d'en demandar : « Ai fach ièr vòstra recepta de rostit. »
+- Balhatz de novèlas al lòc d'en demandar : « Ai fach ièr vòstra recèpta de rostit. »
 - Legissètz un poèma corte, o cantatz un vèrs d'una cançon preferida.
 - Restatz corte e terminatz sus una nòta calda.
 

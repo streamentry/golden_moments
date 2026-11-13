@@ -21,7 +21,7 @@ faq:
     a: "Kaua. Mēnā he haumaru te mutu, tārewa, whakamātau anō ā muri ake nei, kōwhiria rānei he huarahi kē. Kaua e tohe, e tautohetohe, e huihui tata, e herea rānei te tangata."
   - q: "Ka taea e te mamae, e te mate te whakarahi i te pūkaha?"
     a: "Ka taea pea he take kē ēnei i te nui o ngā take e hāngai ana, pēnei i te ngenge, he mahi uaua, te haruru, me ngā raruraru whakawhitiwhiti kōrero. Me tirotiro e tētahi kaimahi hauora ngā whanonga hou, ngā whanonga panoni; kaua e tohu te take mā koe anō."
-  - q: "Āe rā, he aha te wā e whakapā ai ki tētahi tākuta?"
+  - q: "He aha te wā e whakapā ai ki tētahi tākuta?"
     a: "Whakapā ki te tākuta o te tangata mō te pūkaha hou, ohorere, kino haere rānei, otirā mēnā he mamae, he mate, he panonitanga rongoā i tata ake nei pea. Rapu āwhina ohotata mō te raru tata, mō te whara rānei."
   - q: "Ki te kore au e haumaru, me pēhea?"
     a: "Neke koe me ētahi atu ki tētahi wāhi haumaru, ā, tono āwhina. Mēnā kei te raru tata tētahi, whakapā atu ki ngā ratonga ohotata o tō rohe. Kāore koe e tika ana kia whakahaere anake i te raru morearea."
@@ -56,7 +56,7 @@ Ko te [Alzheimer's Society e tohutohu ana kia whakamuri, kia kaua e herea, kia k
 
 ## He aha ngā take e pā ana ki te whanonga?
 
-He nui pea ngā take, ā, kāore e taea e te whānau te tohu i te take. Ko te [Alzheimer's Association e whakaatu ana i te rawaka tinana, te pēhanga taiao, me ngā raruraru whakawhitiwhiti kōrero hei take pea](https://www.alz.org/help-support/caregiving/stages-behaviors/aggression-and-anger).
+He nui pea ngā take, ā, kāore e taea e te whānau te tohu i te take. Ko te Alzheimer's Association e whakaatu ana i te rawaka tinana, te pēhanga taiao, me ngā raruraru whakawhitiwhiti kōrero hei take pea.
 
 Whakaarohia he aha i tupu i mua tata atu i te panonitanga:
 

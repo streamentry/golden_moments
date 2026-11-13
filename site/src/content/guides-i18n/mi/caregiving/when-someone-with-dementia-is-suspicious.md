@@ -20,7 +20,7 @@ faq:
     a: "Noho mārie, whakaae ki te māharahara, pēnei i te, “Kei te māharahara koe kua ngaro tōu tāwhiti. Tirohia tahi tāua.” Kaua e tautohetohe, kaua e tohe he he te tangata. Whakapoto tō kōrero, neke atu ki tētahi atu kaupapa mēnā kei te rite ia."
   - q: "Me kore e aro ki te whakapae i te mea he mate wareware tō te tangata?"
     a: "Kaua. Whakarongo ki a ia, tirohia mēnā he mea i tupu. Mēnā e pā ana te pūrongo ki te tahae, ki te whakaraerae, ki te kino rānei, pātai ki tētahi kaitohutohu pono, ki tētahi ratonga haumaru pāpori ā-rohe rānei."
-  - q: "Āe rā, he aha te wā e whakapā ai ki tētahi tākuta?"
+  - q: "He aha te wā e whakapā ai ki tētahi tākuta?"
     a: "Pātai ki te kaimahi hauora o te tangata mēnā he hou te whakapae, ka hoki mai, ka raru rānei. Ko te pōhēhē ohorere, te panonitanga ohorere o te whanonga, o te hauora me rapu āwhina ohotata hauora."
 sources:
   - title: "Suspicion & Delusions"

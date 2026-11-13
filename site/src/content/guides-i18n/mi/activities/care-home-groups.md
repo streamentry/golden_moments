@@ -97,7 +97,7 @@ Ka whakakapi te bingo whakaahua i ngā tau ki ngā whakaahua mārama, pēnei i t
 
 ### Ngā waiata tahi
 
-He mahi rōpū e tino pai ana ki te nuinga. E kī te Alzheimer's Association, i ngā wāhanga whakamutunga pea ka taea e te tangata te pātōki i te rēhia, te waiata i tētahi waiata o tōna tamarikitanga.
+He mahi rōpū e tino pai ana ki te nuinga. E kī te Alzheimer's Association, i ngā wāhanga whakamutunga pea ka taea e te tangata [te pātōki i te rēhia, te waiata i tētahi waiata o tōna tamarikitanga](https://www.alz.org/help-support/caregiving/daily-care/art-music).
 
 **Me pēhea te whakahaere:**
 

@@ -20,7 +20,7 @@ faq:
     a: "Whakamātauria he whakamōhiotanga poto, māmā, pēnei i tō ingoa me tō whanaungatanga. Mēnā e mārie ana te tangata, haere tonu ki tētahi kōrero noa. Mēnā e pōhēhē ana ia, arohia te hoatu i te haumaru, kaua ki te whakaatu ko wai koe."
   - q: "Me whakatika rānei au i te tangata ina pōhēhē ia he tangata kē ahau?"
     a: "Kaua e tautohetohe, kaua e tono kia maumahara ia. Ka āwhina pea he tohu poto mēnā ka whakamārie ia, engari mēnā ka nui ake te raru, whakatārewa, whakautu ki te kare-a-roto."
-  - q: "Āe rā, he aha te wā e whakapā ai ki tētahi tākuta?"
+  - q: "He aha te wā e whakapā ai ki tētahi tākuta?"
     a: "Pātai ki te kaimahi hauora o te tangata mēnā he hou te pōhēhē, ka hoki mai, ka raru rānei. Ko te pōhēhē ohorere, te panonitanga ohorere o te hauora me rapu āwhina ohotata hauora."
 sources:
   - title: "Memory Loss & Confusion"
