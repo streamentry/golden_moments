@@ -1,32 +1,28 @@
 ---
-title: "Arts and Crafts for Adults with Dementia"
-seoTitle: "Arts and Crafts for Dementia: Adult, Not Childish"
-description: "Adult arts and crafts ideas for people living with dementia, from watercolor and collage to flower arranging, with tips on setup, adapting and process over product."
+title: "Sining at Paggawa para sa Matatandang may Dementia"
+seoTitle: "Sining at Craft para sa Dementia: Pang-adulto, Hindi Pambata"
+description: "Mga ideya sa sining at paggawa para sa taong may dementia, mula watercolor at collage hanggang pag-aayos ng bulaklak, may tips sa paghahanda at pag-angkop."
 section: activities
 order: 9
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Good arts and crafts for adults living with dementia look and feel grown-up:
-  watercolor, collage from magazines, flower arranging, clay, simple card
-  making or adult coloring pages. Set out a few materials, help with the first
-  stroke if needed, talk while you work, and treat the time together as the
-  point. A finished piece is optional.
+  Ang mabubuting sining at paggawa para sa matatandang may dementia ay mukha at nararamdamang pang-adulto: watercolor, collage mula sa magasin, pag-aayos ng bulaklak, luwad, simpleng paggawa ng kard o pahinang kukulayan para sa adulto. Maglatag ng ilang materyales, tumulong sa unang guhit kung kailangan, makipag-usap habang nagtatrabaho, at ituring na ang oras na magkasama ang mismong layunin. Opsyonal ang tapos na likha.
 keyPoints:
-  - "Choose materials and themes that look adult, such as watercolor paper, real flowers and magazine images, not glitter, stickers or cartoon worksheets."
-  - "Focus on the process: the colors, the feel of the clay, the conversation. A finished piece is a bonus, not the goal."
-  - "Give a purpose when you can, such as a card for a grandchild or a centerpiece for the table."
-  - "Help the person begin, then step back. Starting a brush stroke together is often enough."
-  - "Projects do not need to be finished in one sitting, and stopping early is always fine."
+  - "Pumili ng materyales at tema na mukhang pang-adulto, gaya ng watercolor paper, totoong bulaklak at larawan mula sa magasin, at hindi kislap, sticker o cartoon na worksheet."
+  - "Tumuon sa proseso: ang mga kulay, ang pakiramdam ng luwad, at ang usapan. Bonus lang ang tapos na likha, hindi ang layunin."
+  - "Magbigay ng layunin kung posible, gaya ng kard para sa apo o palamuti sa mesa."
+  - "Tulungan ang tao na magsimula, saka umatras. Kadalasan sapat na ang pagsisimula ng guhit nang magkasama."
+  - "Hindi kailangang matapos ang proyekto sa isang upuan lang, at palaging okay ang maagang paghinto."
 faq:
-  - q: "How do I keep crafts from feeling childish?"
-    a: "Use real art supplies, adult themes and a respectful tone. Swap glitter and cartoon pages for watercolor paper, fabric, flowers, magazine photos and detailed coloring pages. Never praise the work the way you would praise a child's drawing; talk about it as you would with any adult friend."
-  - q: "What art activities work in later-stage dementia?"
-    a: "Simple, sensory projects work best later on: painting broad strokes with a large brush, squeezing soft clay, arranging a few flowers in a vase, or sorting fabric swatches by feel. You may need to start the movement together. Watching you paint and talking about the colors is also a way to take part."
-  - q: "What if they say they can't draw?"
-    a: "Take the pressure off. Try projects with no right answer, like a wash of watercolor, a collage, or arranging flowers. You can also say you need help with something specific, such as choosing colors for a card, so the task feels like a favor rather than a test."
-  - q: "Are coloring pages too childish for adults?"
-    a: "Not when they are designed for adults. Choose pages with grown-up subjects such as gardens, quilts, cars or landscapes, and present them as relaxing rather than as a lesson. Our coloring pages can be printed or colored on a tablet."
+  - q: "Paano ko maiiwasang maging pambata ang mga craft?"
+    a: "Gumamit ng totoong gamit pang-sining, mga tema para sa adulto at magalang na pananalita. Palitan ang kislap at cartoon na pahina ng watercolor paper, tela, bulaklak, larawan mula sa magasin at detalyadong pahinang kukulayan. Huwag purihin ang gawa na tulad ng pagpuri sa iginuhit ng bata. Pag-usapan ito gaya ng pakikipag-usap sa kaibigang nasa hustong gulang."
+  - q: "Anong aktibidad sa sining ang angkop sa huling yugto ng dementia?"
+    a: "Pinakamabuti sa huling yugto ang simple at pandamang mga proyekto: pagpipinta gamit ang malapad na brotsa, pagpisil ng malambot na luwad, pag-aayos ng ilang bulaklak sa plorera, o pag-uuri ng mga piraso ng tela ayon sa hawak. Maaaring kailanganin mong simulan ang galaw nang magkasama. Ang panonood sa iyong pagpinta at pag-uusap tungkol sa mga kulay ay paraan din ng pakikilahok."
+  - q: "Paano kung sabihin nilang hindi sila marunong gumuhit?"
+    a: "Alisin ang presyon. Subukan ang mga proyektong walang tamang sagot, gaya ng hugas ng watercolor, collage, o pag-aayos ng bulaklak. Puwede ka ring humingi ng tulong sa isang partikular na bagay, gaya ng pagpili ng kulay para sa kard, para maging pabor ang gawain at hindi pagsusulit."
+  - q: "Masyado bang pambata ang mga pahinang kukulayan para sa adulto?"
+    a: "Hindi, kapag dinisenyo para sa adulto. Pumili ng mga pahinang may paksang pang-adulto gaya ng hardin, kumot na pinagtahian, kotse o tanawin, at ipakita ang mga ito bilang pampakalma at hindi bilang aralin. Maaaring i-print ang aming mga pahinang kukulayan o kulayan sa tablet."
 sources:
   - title: "Music / Art Therapy, Alzheimer's & Dementia"
     publisher: "Alzheimer's Association"
@@ -48,79 +44,79 @@ related: [activities/ideas, activities/sensory, activities/music, activities/pri
 health: false
 ---
 
-Art and crafts give people living with dementia a way to express themselves that does not depend on finding the right words. The Alzheimer's Association notes that art projects can bring a [sense of accomplishment and purpose](https://www.alz.org/help-support/caregiving/daily-care/art-music) and a chance for self-expression, for the caregiver as well as the person with dementia. The key is to keep things adult, simple and pressure-free. This page gives specific projects, how to set them up and how to adapt them as things change.
+Binibigyan ng sining at paggawa ang mga taong may dementia ng paraan ng pagpapahayag na hindi nakasalalay sa paghahanap ng tamang salita. Sinasabi ng Alzheimer's Association na maaaring magbigay ang mga proyektong sining ng [pakiramdam ng tagumpay at layunin](https://www.alz.org/help-support/caregiving/daily-care/art-music) at pagkakataong magpahayag ng sarili, para sa tagapag-alaga gayundin sa taong may dementia. Ang susi ay panatilihing pang-adulto, simple at walang presyon ang mga bagay. Nagbibigay ang pahinang ito ng tiyak na mga proyekto, kung paano ihahanda ang mga ito, at kung paano iaangkop habang nagbabago ang kalagayan.
 
-## What makes an art activity adult and not childish?
+## Ano ang nagiging pang-adulto at hindi pambata sa aktibidad sa sining?
 
-An adult art activity uses real materials, grown-up subjects and a respectful tone. The Alzheimer's Association advises keeping projects at an adult level and avoiding anything that could seem demeaning or childlike.
+Ang aktibidad sa sining na pang-adulto ay gumagamit ng totoong materyales, mga paksang pang-adulto at magalang na tono. Sinasabi ng Alzheimer's Association na panatilihin ang mga proyekto sa antas ng adulto at iwasan ang anumang maaaring makaramdam na minamaliit o pambata.
 
-| Feels childish | Feels adult |
+| Parang pambata | Parang pang-adulto |
 | --- | --- |
-| Glitter, foam stickers, googly eyes | Watercolor paper, fabric, pressed flowers |
-| Cartoon coloring sheets | Coloring pages of gardens, quilts, cars or landscapes |
-| "Good job" praise for every mark | Real conversation: "That blue is lovely next to the green" |
-| A craft with no use | A card for a friend, a centerpiece, a gift |
-| Instructions read like a lesson | An invitation: "Would you help me with this?" |
+| Kislap, foam na sticker, pandikit na mata | Watercolor paper, tela, pinatuyong bulaklak |
+| Cartoon na pahinang kukulayan | Pahinang kukulayan ng hardin, kumot, kotse o tanawin |
+| Papuring "Ang galing!" sa bawat guhit | Totoong usapan: "Bagay na bagay ang asul na iyan sa berde" |
+| Gawaing walang silbi | Kard para sa kaibigan, palamuti sa mesa, regalo |
+| Mga tagubiling parang aralin | Isang paanyaya: "Puwede mo ba akong tulungan dito?" |
 
-Think about the person's own taste. Someone who loved needlework may enjoy handling fabric. A retired engineer might prefer a model kit with large pieces or sorting hardware for a project. A former teacher may enjoy making cards.
+Isipin ang sariling panlasa ng tao. Maaaring ikasiya ng taong mahilig manahi ang paghawak ng tela. Maaaring mas gusto ng dating inhinyero ang model kit na may malalaking piyesa, o pag-uuri ng mga kagamitang metal para sa isang proyekto. Maaaring mag-enjoy ang dating guro sa paggawa ng mga kard.
 
-## Why focus on the process, not the product?
+## Bakit tumuon sa proseso, hindi sa produkto?
 
-Because the time together is the point. The Alzheimer's Association's guide to [activities at home](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) says to concentrate on the process, not the result. A painting that is "just blue" is still a painting. A collage with three pictures is still a collage.
+Dahil ang oras na magkasama ang mismong layunin. Sinasabi ng gabay ng Alzheimer's Association tungkol sa [mga aktibidad sa bahay](https://www.alz.org/getmedia/5337a7c3-15c6-4b4d-a3a0-ca00a0839a6b/alzheimers-dementia-activities-at-home-ts.pdf) na tumuon sa proseso, hindi sa resulta. Ang pinturang "asul lang" ay pintura pa rin. Ang collage na may tatlong larawan ay collage pa rin.
 
-The Association also notes that a professional artist might become frustrated by changes in their work, while an amateur may enjoy a new chance to express themselves. If the person was a skilled artist, try a different medium from the one they mastered, so it feels like play rather than a comparison.
+Sinasabi rin ng Association na maaaring mainis ang isang propesyonal na artista sa mga pagbabago sa kanyang gawa, samantalang ang baguhan ay maaaring matuwa sa bagong pagkakataong magpahayag. Kung dating bihasang artista ang tao, subukan ang ibang midyum kaysa sa dati niyang kinasanayan, para maging laro ito at hindi paghahambing.
 
-## Arts and crafts ideas to try
+## Mga ideya sa sining at paggawa na subukan
 
-Each idea includes how to make it simpler if it becomes hard.
+Kasama sa bawat ideya kung paano ito gagawing mas simple kapag naging mahirap.
 
-1. **Watercolor washes.** Wet a sheet of heavy watercolor paper and let the person drop color onto it with a large brush. The colors spread on their own, so there is no wrong result. *Simpler:* offer only two colors, or paint with water on a dark paper that shows the wet marks.
-2. **Magazine collage.** Cut out pictures ahead of time from magazines on gardening, cooking, cars, travel or the person's old hobbies. Let them choose and glue images onto card stock. *Simpler:* offer four precut pictures and a glue stick, and do the gluing together.
-3. **Flower arranging.** The Alzheimer's Foundation of America suggests [arranging cut flowers and greens](https://alzfdn.org/dementia-activity-gardening/) into simple seasonal displays. Use a heavy, stable vase and stems already trimmed. *Simpler:* place a few stems in a small cup, one at a time.
-4. **Pressed flower cards.** Press flowers from a bouquet between book pages for a week, then glue them onto folded card stock. *Simpler:* you place the glue, they press the flower down.
-5. **Adult coloring pages.** Choose pages with clear outlines and real subjects. Our printable [coloring pages](/games/coloring/) can also be colored on screen by tapping a color, then a part of the picture. *Simpler:* larger areas, fewer colors, thick markers.
-6. **Clay or soft dough.** Roll, press and shape air-dry clay or soft modeling dough. Pressing a leaf into clay makes a simple imprint tile. *Simpler:* just squeezing and rolling is a full activity. Watch that the person does not put clay in their mouth.
-7. **Card making.** The Alzheimer's Association suggests framing it as a real task: "We're sending a get-well card to a friend. Will you help?" Precut card stock and a few stickers of flowers or stamps work well.
-8. **Scrapbooking.** Put copies of old photos, postcards or ticket stubs onto album pages together. Talk about each one as you go. See our [reminiscence guide](/activities/reminiscence/) for gentle ways to talk about the past.
-9. **Fabric and texture boards.** Glue swatches of corduroy, velvet, burlap and silk onto stiff card. Making it is the activity; touching it later is another. More ideas are in our [sensory activities guide](/activities/sensory/).
-10. **Simple wood finishing.** For someone who liked woodworking, sanding a smooth block of wood or painting a birdhouse kit can feel familiar. Remove sharp tools and supervise.
-11. **Painting to music.** Put on a favorite record and paint shapes or colors that match the mood. This joins two activities many people enjoy. See [music activities](/activities/music/).
+1. **Watercolor na hugas.** Basain ang makapal na watercolor paper at hayaang maglagay ng kulay ang tao gamit ang malaking brotsa. Kusang kumakalat ang mga kulay, kaya walang maling resulta. *Mas simple:* dalawang kulay lang ang ialok, o magpinta ng tubig sa madilim na papel na nagpapakita ng basang marka.
+2. **Collage mula sa magasin.** Gupitin nang maaga ang mga larawan mula sa magasin tungkol sa paghahalaman, pagluluto, kotse, paglalakbay o dating libangan ng tao. Hayaan silang pumili at idikit ang mga larawan sa card stock. *Mas simple:* apat na nakagupit na larawan at pandikit na stick, at kayo ang magkasamang magdidikit.
+3. **Pag-aayos ng bulaklak.** Iminumungkahi ng Alzheimer's Foundation of America na [ayusin ang mga pinutol na bulaklak at dahon](https://alzfdn.org/dementia-activity-gardening/) sa simpleng palamuting pang-panahon. Gumamit ng mabigat at matatag na plorera at mga tangkay na nakaputol na. *Mas simple:* ilagay ang ilang tangkay sa maliit na tasa, isa-isa.
+4. **Mga kard na may pinatuyong bulaklak.** Pindutin ang mga bulaklak mula sa palumpon sa pagitan ng mga pahina ng libro sa loob ng isang linggo, saka idikit sa nakatuping card stock. *Mas simple:* ikaw ang maglalagay ng pandikit, sila ang didiin sa bulaklak.
+5. **Mga pahinang kukulayan para sa adulto.** Pumili ng mga pahinang may malinaw na guhit at totoong paksa. Maaari ring kulayan sa screen ang aming [mga pahinang kukulayan](/games/coloring/) na maiimprenta, sa pamamagitan ng pag-tap ng kulay at saka ng bahagi ng larawan. *Mas simple:* mas malalaking bahagi, mas kaunting kulay, makapal na marker.
+6. **Luwad o malambot na masa.** Igulong, pindutin at hubugin ang air-dry na luwad o malambot na modeling dough. Ang pagpindot ng dahon sa luwad ay nagiging simpleng tile na may marka. *Mas simple:* ang pagpisil at paggulong lang ay buong aktibidad na. Bantayan na hindi maisubo ang luwad.
+7. **Paggawa ng kard.** Iminumungkahi ng Alzheimer's Association na gawing totoong gawain ito: "Magpapadala tayo ng kard ng pagpapagaling sa kaibigan. Tutulungan mo ba ako?" Mahusay gumana ang nakagupit na card stock at ilang sticker ng bulaklak o selyo.
+8. **Scrapbook.** Ilagay ang mga kopya ng lumang larawan, postcard o tiket sa mga pahina ng album nang magkasama. Pag-usapan ang bawat isa habang ginagawa. Tingnan ang aming [gabay sa pag-alala](/activities/reminiscence/) para sa banayad na paraan ng pag-uusap tungkol sa nakaraan.
+9. **Mga board ng tela at tekstura.** Idikit ang mga piraso ng corduroy, velvet, burlap at seda sa matigas na card. Ang paggawa mismo ang aktibidad; ang paghawak nito sa bandang huli ay isa pang aktibidad. Mas maraming ideya sa aming [gabay sa mga aktibidad para sa pandama](/activities/sensory/).
+10. **Simpleng pagtatapos ng kahoy.** Para sa taong mahilig sa paggawa ng kahoy, maaaring pamilyar ang pagpapakinis ng maliit na bloke ng kahoy o pagpipinta ng birdhouse kit. Alisin ang matatalim na kasangkapan at bantayan.
+11. **Pagpipinta habang may musika.** Patugtugin ang paboritong plaka at magpinta ng mga hugis o kulay na tumutugma sa mood. Pinagsasama nito ang dalawang aktibidad na ikinasisiya ng maraming tao. Tingnan ang [mga aktibidad sa musika](/activities/music/).
 
-## How do I set up an art session?
+## Paano ko ihahanda ang isang sesyon ng sining?
 
-1. **Prepare first.** Cut, trim and lay out everything before you invite the person. Waiting while you search for scissors can lose the moment.
-2. **Keep it small.** Two or three colors, one brush, one sheet of paper. Too many choices can overwhelm.
-3. **Protect the table.** A plastic cloth or old sheet means mess is not a worry.
-4. **Sit side by side.** Work on your own piece next to theirs. It feels shared, not supervised.
-5. **Help them begin.** The Alzheimer's Association notes you may need to start the brush movement with the person. Once started, many people carry on.
-6. **Talk as you work.** Comment on colors and textures, or let the art lead to stories. Avoid quiz-style questions like "What is this?"
-7. **Allow plenty of time.** A project does not need to be finished in one sitting.
+1. **Maghanda muna.** Gupitin, putulin at ilatag ang lahat bago imbitahin ang tao. Ang paghahanap ng gunting habang naghihintay ay maaaring makasira sa sandali.
+2. **Panatilihing maliit.** Dalawa o tatlong kulay, isang brotsa, isang papel. Maaaring makalito ang sobrang dami ng pagpipilian.
+3. **Protektahan ang mesa.** Plastik na tela o lumang kumot para hindi na alalahanin ang gulo.
+4. **Umupo sa tabi.** Gawin ang sarili mong likha sa tabi nila. Pakiramdam nito ay pinagsasaluhan, hindi binabantayan.
+5. **Tulungan silang magsimula.** Sinasabi ng Alzheimer's Association na maaaring kailanganin mong simulan ang galaw ng brotsa kasama ang tao. Kapag nagsimula na, maraming tao ang nagpapatuloy.
+6. **Makipag-usap habang nagtatrabaho.** Magkomento sa mga kulay at tekstura, o hayaang humantong ang sining sa mga kuwento. Iwasan ang mga tanong na parang pagsusulit, gaya ng "Ano ito?"
+7. **Maglaan ng sapat na oras.** Hindi kailangang matapos ang proyekto sa isang upuan lang.
 
-## How do I adapt art as dementia changes?
+## Paano ko iaangkop ang sining habang nagbabago ang dementia?
 
-| Stage | What tends to work | What to adjust |
+| Yugto | Ano ang kadalasang gumagana | Ano ang iaangkop |
 | --- | --- | --- |
-| Early | Classes, detailed coloring, scrapbooks, card making, painting from a photo | Offer choice of projects; keep it social |
-| Middle | Precut collage, watercolor washes, flower arranging, coloring with large areas | One step at a time; you handle cutting and gluing |
-| Late | Broad brush strokes, squeezing clay, touching fabric, watching you paint | Focus on senses; guide the hand gently if welcome |
+| Maaga | Mga klase, detalyadong pagkukulay, scrapbook, paggawa ng kard, pagpipinta mula sa larawan | Mag-alok ng pagpipilian ng proyekto; panatilihing panlipunan |
+| Gitna | Nakagupit na collage, watercolor na hugas, pag-aayos ng bulaklak, pagkukulay ng malalaking bahagi | Isang hakbang sa bawat pagkakataon; ikaw ang gumugupit at nagdidikit |
+| Huli | Malalapad na guhit ng brotsa, pagpisil ng luwad, paghawak ng tela, panonood sa iyong pagpinta | Ituon sa mga pandama; gabayan nang banayad ang kamay kung tinatanggap |
 
-The NHS suggests that in later stages, activities are often simplified and focus on the senses. Watching someone else paint, and talking about the colors, is a real way to take part. For more stage-by-stage ideas, see [activities for every stage](/activities/ideas/).
+Sinasabi ng NHS na sa mga huling yugto, kadalasang pinasimple ang mga aktibidad at nakatuon sa mga pandama. Ang panonood sa iba na nagpipinta at pag-uusap tungkol sa mga kulay ay totoong paraan ng pakikilahok. Para sa higit pang ideya ayon sa yugto, tingnan ang [mga aktibidad sa bawat yugto](/activities/ideas/).
 
-## Safety with art supplies
+## Kaligtasan sa mga gamit pang-sining
 
-- Choose non-toxic paints, markers and glue sticks.
-- Keep scissors, craft knives and hot glue guns out of reach. Do any cutting yourself, ahead of time.
-- Watch for anyone putting clay, paint or small items in their mouth.
-- Use stable, heavy containers for water and vases.
+- Pumili ng mga pintura, marker at pandikit na stick na hindi nakalalason.
+- Ilayo sa abot ang gunting, kutsilyong pang-sining at hot glue gun. Ikaw ang gumawa ng anumang pagputol nang maaga.
+- Bantayan ang sinumang maglalagay ng luwad, pintura o maliliit na bagay sa bibig.
+- Gumamit ng matatag at mabibigat na lalagyan para sa tubig at plorera.
 
-## When should we stop?
+## Kailan dapat huminto?
 
-Stop when attention drifts or frustration shows. The Alzheimer's Association suggests ending or changing an activity when attention span wanes or frustration grows. Put the project somewhere safe and offer something restful. You can come back to it tomorrow, or never. Either is fine.
+Huminto kapag lumilihis ang atensyon o nakikita ang pagkairita. Sinasabi ng Alzheimer's Association na tapusin o palitan ang aktibidad kapag humihina ang atensyon o lumalaki ang pagkabigo. Ilagay ang proyekto sa ligtas na lugar at mag-alok ng nakapagpapahingang bagay. Maaari mo itong balikan bukas, o hindi na. Parehong okay.
 
-## Display the work, if the person wants
+## Ipakita ang gawa, kung gusto ng tao
 
-Pinning a painting on the fridge or framing a collage can be a quiet way to show respect. Ask first. Some people love seeing their work on the wall; others would rather not.
+Ang pagdikit ng pinta sa ref o pag-frame ng collage ay maaaring tahimik na paraan ng pagpapakita ng respeto. Magtanong muna. May ilang taong gustong makita ang kanilang gawa sa dingding; may iba na mas gugustuhing huwag.
 
-## Pair art with our games
+## Ipares ang sining sa aming mga laro
 
-On days when setting up paints is too much, [Coloring](/games/coloring/) works on a tablet with no mess. [Picture Puzzle](/games/picture-puzzle/) keeps the whole picture visible as a guide while you swap pieces. [Conversation Cards](/games/conversation-cards/) offers open prompts that can lead from a picture to a story. All of them have no timer or score. You can also print pages from our [printable activities](/activities/printable/) collection.
+Sa mga araw na nakapapagod ang paghahanda ng pintura, gumagana ang [mga pahinang kukulayan](/games/coloring/) sa tablet nang walang gulo. Pinapanatili ng [puzzle ng larawan](/games/picture-puzzle/) na nakikita ang buong larawan bilang gabay habang nagpapalit ka ng piraso. Nag-aalok ang [mga kard para sa usapan](/games/conversation-cards/) ng bukas na mga tanong na maaaring humantong mula sa larawan patungo sa kuwento. Walang timer o marka ang lahat ng ito. Maaari ka ring mag-print ng mga pahina mula sa aming koleksyon ng [mga aktibidad na maiimprenta](/activities/printable/).
