@@ -9,9 +9,9 @@ translatedFrom: 2026-10-25
 summary: >-
   La Comission Lancet de 2024 nomena la perda d'audicion un dels factors de risc de demència que pòdon èsser cambiats mai importants. Dins l'ensag ACHIEVE, los aparelhs auditius an pas frenat lo declin cognitiu dins l'ensemble, mas un sosgrop de risc mai auta a mostrat un declin mens rapid. Los aparelhs ajudan la conversacion e la vida de cada jorn, de qualque manièra. Fasètz verificar vòstra audicion, consideratz los aparelhs sus ordonança o de venda liura, e parlatz amb un metge.
 keyPoints:
-  - "La Comission Lancet estima que la perda d'audicion explica aproximadament 7 % de las demencias dins lo mond, a egalitat amb lo colesterol LDL auta, lo primièr rang entre los 14 factors."
+  - "La Comission Lancet estima que la perda d'audicion explica aproximadament 7% de las demencias dins lo mond, a egalitat amb lo colesterol LDL auta, lo primièr rang entre los 14 factors."
   - "Dins l'ensag ACHIEVE de 977 personas velhas, los aparelhs auditius an pas cambiat lo declin cognitiu sus tres ans dins l'ensemble."
-  - "Dins un grop mai pichon de risc mai auta dins ACHIEVE, lo declin cognitiu èra 48 % mai lent amb aparelhs auditius ; aquò deu èsser confirmat."
+  - "Dins un grop mai pichon de risc mai auta dins ACHIEVE, lo declin cognitiu èra 48% mai lent amb aparelhs auditius ; aquò deu èsser confirmat."
   - "Dempuèi d'octòbre de 2022, los adults americans amb una perda d'audicion lèugièra a moderada percebuda pòdon crompar d'aparelhs auditius reglamentats per la FDA sens ordonança."
   - "La perda de vista non tractada es estada ajustada als factors de risc de demència en 2024, donc los examens de vista tanben importan."
 faq:
@@ -51,11 +51,11 @@ La perda d'audicion es correnta a la vida tardiva, e los recercaires la prenon e
 
 ## Perqué l'audicion importa per la santat cerebrala ?
 
-La perda d'audicion es ligada a un risc mai auta de demència. La [Comission Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) estima que explica aproximadament 7 % de las demencias dins lo mond. Aquò lo met a egalitat amb lo colesterol LDL auta pel primièr rang dels 14 factors de risc que pòdon èsser cambiats dins lo modèl de la Comission, segon [lo resumit de la UCL sul rapòrt](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
+La perda d'audicion es ligada a un risc mai auta de demència. La [Comission Lancet de 2024](https://doi.org/10.1016/S0140-6736(24)01296-0) estima que explica aproximadament 7% de las demencias dins lo mond. Aquò lo met a egalitat amb lo colesterol LDL auta pel primièr rang dels 14 factors de risc que pòdon èsser cambiats dins lo modèl de la Comission, segon [lo resumit de la UCL sul rapòrt](https://www.ucl.ac.uk/news/2024/jul/nearly-half-dementia-cases-could-be-prevented-or-delayed-tackling-14-risk-factors).
 
 Las constatacions claus de la Comission :
 
-- **Risc mai auta amb la perda d'audicion.** Dins son analisi reunida de sièis estudis de bona qualitat, las personas amb una perda d'audicion avián aproximadament 37 % mai de risc de demència que las personas amb una audicion normala.
+- **Risc mai auta amb la perda d'audicion.** Dins son analisi reunida de sièis estudis de bona qualitat, las personas amb una perda d'audicion avián aproximadament 37% mai de risc de demència que las personas amb una audicion normala.
 - **Mai de perda, mai de risc.** Los estudis que mesuravan la gravitat an trobat que lo risc creis a mesura que l'audicion se degrada.
 - **Raisons possiblas, pas encara provadas.** Las ideas inclusen la solitud e lo retirament, la depression, mens d'estimulacion per lo cervèl, e l'esfòrç mental supplementari que demanda l'escota.
 
@@ -68,9 +68,9 @@ ACHIEVE foguèt lo primièr ensag aleatori dels aparelhs auditius e del declin c
 - **Qui a participat :** 977 adults de 70 a 84 ans amb una perda d'audicion non tractada e sens problèmas importants de pensada, dins quatre sites comunautaris americans.
 - **Qué èra comparat :** la mitat recebèt d'aparelhs auditius e de sessions de conselh amb un audiologista. L'autra mitat recebèt un programa d'educacion sanitària sus lo bèl vielhir.
 - **Resultat principal :** après tres ans, i aviá **pas de diferéncia** de declin cognitiu entre los dos grops en general.
-- **Resultat del sosgrop :** l'ensag recrutava de dos fonts. 238 personas venián d'una estudi de santat del còr de longa durada (ARIC), e en grop èran a risc mai auta de declin cognitiu. Dins aqueste grop, lo declin èra **48 % mai lent** amb aparelhs auditius. Entre los 739 volontaris comunautaris en bona santat, i aviá pas d'efièch clar.
+- **Resultat del sosgrop :** l'ensag recrutava de dos fonts. 238 personas venián d'una estudi de santat del còr de longa durada (ARIC), e en grop èran a risc mai auta de declin cognitiu. Dins aqueste grop, lo declin èra **48% mai lent** amb aparelhs auditius. Entre los 739 volontaris comunautaris en bona santat, i aviá pas d'efièch clar.
 
-Cóm legir aquò onèstament :
+Cossí legir aquò onèstament :
 
 - La responsa globala es : pas d'efièch.
 - Lo resultat del sosgrop era previst a l'avança, mas ven d'una analisi secondària d'un grop mai pichon. Cal lo confirmar dins d'autres estudis.
@@ -92,11 +92,11 @@ L'NIA conselha de veire un metge se vos o qualqu'un que cuidatz :
 
 Comencetz amb un metge de medicina generala, que pòt vos mandar a un audiologista (un especialista de l'audicion) o a un otorinolaringològ. Lo bocin d'argolha es una causa correnta de perda d'audicion que un metge pòt verificar. **Una perda d'audicion subita es una urgéncia medicala**, e l'NIA conselha de veire un metge de seguida.
 
-La perda d'audicion pòt èsser presa per una confusion. L'NIA nota que de personas velhas que sentisson pas plan son de còps pensadas confusas, insensibles o pas cooperativas per error. Se qualqu'un que vos es car sembla replegat o perd çò que se ditz, un tèst d'audicion es un bon primièr pas.
+La perda d'audicion pòt èsser presa per una confusion. L'NIA nota que de personas velhas que sentisson pas plan son de còps pensadas confusas, insensiblas o pas cooperativas per error. Se qualqu'un que vos es car sembla replegat o perd çò que se ditz, un tèst d'audicion es un bon primièr pas.
 
-## Qué son los aparelhs auditius de venda liura ?
+## Qu'es los aparelhs auditius de venda liura ?
 
-Dempuèi lo 17 d'octòbre de 2022, la [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) autoriza una categoria d'aparelhs auditius de venda liura. Vaquí coma se comparan als aparelhs sus ordonança :
+Dempuèi octòbre 17, 2022, la [FDA](https://www.fda.gov/medical-devices/hearing-aids/otc-hearing-aids-what-you-should-know) autoriza una categoria d'aparelhs auditius de venda liura. Vaquí coma se comparan als aparelhs sus ordonança :
 
 | Caracteristica | Aparelhs de venda liura | Aparelhs sus ordonança |
 | --- | --- | --- |
@@ -131,7 +131,7 @@ Aquestes conselhs van plan amb nòstres [conselhs de comunicacion dins la demèn
 
 ## La vista compta tanben
 
-En 2024, la Comission Lancet a ajustat la perda de vista non tractada coma nòu factor de risc. La UCL la quantifica aproximadament a 2 % dels cas de demència, e la Comission recomanda de rendre lo depistatge e lo tractament dels problèmas de vista accessibles a tot lo mond. L'[NIA conselha](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) un examen de vista dilatat cada un o dos ans après 60 ans, e de verificar tanben las lunetas. Fins de pichons cambiaments de vista pòdon aumentar lo risc de cadudas.
+En 2024, la Comission Lancet a ajustat la perda de vista non tractada coma nòu factor de risc. La UCL la quantifica aproximadament a 2% dels cas de demència, e la Comission recomanda de rendre lo depistatge e lo tractament dels problèmas de vista accessibles a tot lo mond. L'[NIA conselha](https://www.nia.nih.gov/health/vision-and-vision-loss/aging-and-your-eyes) un examen de vista dilatat cada un o dos ans après 60 ans, e de verificar tanben las lunetas. Fins de pichons cambiaments de vista pòdon aumentar lo risc de cadudas.
 
 ## Parlatz-ne a un metge
 

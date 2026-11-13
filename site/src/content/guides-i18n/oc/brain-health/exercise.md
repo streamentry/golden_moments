@@ -1,13 +1,13 @@
 ---
 title: "Exercici e santat cerebrala : çò que dis la recèrca"
 seoTitle: "Exercici e demència : çò que dis la recèrca"
-description: "Lo lien trobat per la recèrca entre l'activitat fisica e lo risc de demència, e de biais doçes e plasents per las personas velhas e las personas amb demència de bolegar."
+description: "Lo lien trobat per la recèrca entre l'activitat fisica e lo risc de demència, e de biais doces e plasents per las personas velhas e las personas amb demència de bolegar."
 section: brain-health
 order: 6
 updated: 2026-10-25
 translatedFrom: 2026-10-25
 summary: >-
-  Los estudis ligan l'activitat fisica regulara amb un risc mai bas de demència, e la Comission Lancet de 2024 cita l'inactivitat fisica coma un dels 14 factors de risc que pòdon èsser cambiats. Los ensages an pas provat que l'exercici previn la demència. Bolegar ajuda pr'aquò la forcia, l'equilibri, l'umor e lo son, per aquò que la marcha, los exercicis en cadièra e la dança valon per eles-meteis. Consultatz un metge abans de començar quicòm de nòu.
+  Los estudis ligan l'activitat fisica regulara amb un risc mai bas de demència, e la Comission Lancet de 2024 cita l'inactivitat fisica coma un dels 14 factors de risc que pòdon èsser cambiats. Los ensages an pas provat que l'exercici previn la demència. Bolegar ajuda la forcia, l'equilibri, l'umor e lo son, e per aquò la marcha, los exercicis en cadièra e la dança valon per eles-meteis. Consultatz un metge abans de començar quicòm de nòu.
 keyPoints:
   - "Las personas fisicament actives an en mejana un risc de demència mai bas, mas aquò ven sustot d'estudis d'observacion, pas d'ensages."
   - "Un ensag d'exercici de cinc ans sus de personas velhas a pas trobat de diferéncia clara de capacitats de pensada entre los grops."
@@ -51,11 +51,11 @@ L'activitat fisica es una de las habituds mai estudiadas dins la recèrca sus la
 
 ## L'exercici baissa lo risc de demència ?
 
-La recèrca suggerís que las personas fisicament actives an mens de chança de desvelopar una demència, mas las preuvas an de limitas. La [Comission Lancet de 2024 sus la demència](https://doi.org/10.1016/S0140-6736(24)01296-0) cita l'inactivitat fisica coma un dels 14 factors de risc que pòdon èsser cambiats. Ensems, aqueles 14 factors explican aproximadament 45 % de las demencias dins lo mond segon son modèl.
+La recèrca suggerís que las personas fisicament actives son mens susceptiblas de desvelopar una demència, mas las preuvas an de limitas. La [Comission Lancet de 2024 sus la demència](https://doi.org/10.1016/S0140-6736(24)01296-0) cita l'inactivitat fisica coma un dels 14 factors de risc que pòdon èsser cambiats. Ensems, aqueles 14 factors explican aproximadament 45% de las demencias dins lo mond segon son modèl.
 
 Vaquí çò que mòstran las preuvas :
 
-- **Los estudis d'observacion van dins lo meteis sens.** Una revisada de 58 estudis, discutida per la Comission, a trobat que las personas fisicament actives avián aproximadament 20 % de risc mens de demència. La diferéncia la mai grand èra entre las personas gaireben completament inactivas e las personas qu'avián almens una activitat.
+- **Los estudis d'observacion van dins lo meteis sens.** Una revisada de 58 estudis, discutida per la Comission, a trobat que las personas fisicament actives avián aproximadament 20% de risc mens de demència. La diferéncia la mai grand èra entre las personas gaireben completament inactivas e las personas qu'avián almens una activitat.
 - **Lo lien pòt anar en dos sens.** La Comission nota que èsser inactiu pòt aumentar lo risc. Tanben nota que los primièrs cambiaments cerebrals de la demència, que comencen d'annadas abans lo diagnostic, pòdon far que las personas se bolegan mens.
 - **Los ensages son mai clars.** Dins un ensag, 945 adults velhs d'atge mejan 78 ans foguèron atribuïts a cinc ans d'exercici supervisat dos còps per setmana o a un grop de comparason. A la fin, las capacitats de pensada se distinguissián pas clarament entre los grops. Fòrça personas del grop de comparason èran tanben actives, çò que rend lo resultat mai difícil a legir.
 
@@ -73,7 +73,7 @@ Las [recomandacions del CDC per los adults de 65 ans e mai](https://www.cdc.gov/
 | Reforç muscular | Almens 2 jorns, en trabalhar totes los grands musculs | Levar de pesas lèugièras o de latas de sopa, bandas d'estiraments |
 | Equilibri | Regularament | Marchar talon contra òrt, se levar d'una cadièra |
 
-Son d'objectius, pas de condicions d'entrada. Lo CDC dis que se podètz pas los atènher, cal esser actiu segon vòstras capacitats e vòstra santat. Qualque activitat es mai bona que res.
+Son d'objectius, pas de condicions d'entrada. Lo CDC dis que se podètz pas los atènher, cal èsser actiu segon vòstras capacitats e vòstra santat. Qualque activitat es mai bona que res.
 
 ## Biais doces de se bolegar per las personas velhas
 
@@ -86,11 +86,11 @@ Son d'objectius, pas de condicions d'entrada. Lo CDC dis que se podètz pas los 
 
 ## Cossí se bolegar amb una persona que viu amb una demència
 
-Per una persona que viu amb una demència, l'objectiu es lo confòrt, lo plasir e de conservar las capacitats de cada jorn, pas d'aténher un nombre. Lo NIA dis que l'activitat fisica ajuda a far que los musculs, las articulacions e lo còr d'una persona amb Alzheimer restèsson en bon estat, e pòt tanben melhorar l'umor e lo son. Verificatz amb lo metge de la persona abans de començar una rotina nòva. Los conselhs del [guida del NIA per los aidants](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) inclusen :
+Per una persona que viu amb una demència, l'objectiu es lo confòrt, lo plasir e de conservar las capacitats de cada jorn, pas d'aténher un nombre. Lo NIA dis que l'activitat fisica ajuda a far que los musculs, las articulacions e lo còr d'una persona amb Alzheimer restèsson en bon estat, e pòt tanben melhorar l'umor e lo son. Verificatz amb lo metge de la persona abans de començar una rotina nòva. Los conselhs de la [guida del NIA per los aidants](https://order.nia.nih.gov/sites/default/files/2024-03/caring-for-a-Person-with-alzheimers-disease.pdf) inclusen :
 
 1. **Marchar ensems cada jorn.** Causissètz un camin segur e familièr, sens obstacles. Se la persona marcha sola, un braçalet d'identitat amb vòstre numèro de telefòn es una bona idèa.
 2. **Ensajar de videos d'exercici per las personas velhas.** Seguissètz-los ensems, assetats o en pè.
-3. **Gardar de sesions cortas.** Diversas « mini-sesions » pòdon marchar mai ben qu'una sola longa.
+3. **Gardar de sesions cortas.** Diversas « mini-sesions » pòdon fonciona mai ben qu'una sola longa.
 4. **Ajustar de musica.** Las cançons familièras fan que lo movement semble una activitat, pas una tâcha. Danças se la persona o aprecia.
 5. **Ofrir d'aiga e de sabatas confortablas.** Ofrissètz d'aiga o de jus pendent e après, e causissètz de vestits confortables e de sabatas ben adaptadas e fèitas per l'exercici.
 
